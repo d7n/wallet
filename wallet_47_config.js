@@ -1,1 +1,1 @@
-var mnemonic = "sample upset machine merit six hand bench hybrid stick trial noodle right";
+var mnemonic = "business equal lift people clerk friend moral bleak wire dirt release begin";

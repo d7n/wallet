@@ -1,1 +1,1 @@
-var mnemonic = "mixed point spawn blast peasant crush ritual chalk thrive silly hurry question";
+var mnemonic = "hope crop model about broken loud chief deny concert actual debate exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "like bicycle another west enjoy inhale gospel embody mimic tomato proud spoil";
+var mnemonic = "emotion venue fix toddler hedgehog science draft thought need banner resource seed";

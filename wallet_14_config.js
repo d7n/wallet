@@ -1,1 +1,1 @@
-var mnemonic = "hen sustain junk ridge divorce upset version around portion anger blood twin";
+var mnemonic = "guilt scorpion genius okay park carbon scatter uncle fox shrug meadow trust";

@@ -1,1 +1,1 @@
-var mnemonic = "blast flavor trend double remember usage vibrant knee arctic engine diamond party";
+var mnemonic = "argue cloud school help mercy rather cactus mandate bulb giraffe size casino";

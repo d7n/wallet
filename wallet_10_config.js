@@ -1,1 +1,1 @@
-var mnemonic = "tray original review craft property pact quantum nominee matrix three become mountain";
+var mnemonic = "guitar gorilla fuel decline pipe bike warrior ginger sound project patient acoustic";

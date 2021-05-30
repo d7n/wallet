@@ -1,1 +1,1 @@
-var mnemonic = "case riot process violin destroy mule apology false real pass night twin";
+var mnemonic = "verify kangaroo grab surprise viable same bracket urge museum trial boss journey";

@@ -1,1 +1,1 @@
-var mnemonic = "again dynamic tag pill inherit oval twist animal drastic anchor novel word";
+var mnemonic = "vocal caution daughter pet parrot lottery dolphin quality prevent orphan giggle casual";

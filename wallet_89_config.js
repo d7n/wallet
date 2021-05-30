@@ -1,1 +1,1 @@
-var mnemonic = "retire gold doctor grass garlic time moon arch title entry venue private";
+var mnemonic = "brain brick hover eagle smoke include pencil balcony dream delay cost cabbage";

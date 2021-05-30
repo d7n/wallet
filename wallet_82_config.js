@@ -1,1 +1,1 @@
-var mnemonic = "either beach drift glad pelican melody embrace spirit blame cricket struggle alone";
+var mnemonic = "snack champion rack debate menu swing blue mandate puzzle jazz alone elbow";

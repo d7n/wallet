@@ -1,1 +1,1 @@
-var mnemonic = "always shrug measure leave accuse shoulder message ability dwarf motion endless garment";
+var mnemonic = "pepper wealth save defense live age tunnel tooth try same pink tomorrow";

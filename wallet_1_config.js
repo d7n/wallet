@@ -1,1 +1,1 @@
-var mnemonic = "scissors hurry time divert alter focus shield bracket borrow use require market";
+var mnemonic = "math core rent client zoo emotion enforce sail web lock cheese already";

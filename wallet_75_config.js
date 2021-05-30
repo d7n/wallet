@@ -1,1 +1,1 @@
-var mnemonic = "pig taste program popular narrow emerge diamond provide hungry pause aspect boy";
+var mnemonic = "board ship close device group quote birth search position lunch obey thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "pen hamster call pig hidden still finger kidney say grace tennis direct";
+var mnemonic = "convince robust key charge busy blouse skin dress shoot trigger bomb same";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire hill unhappy milk sibling bundle leave blanket profit frozen moment coast";
+var mnemonic = "accident useless kidney elbow vehicle usual custom live throw creek member seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle survey exercise mask hub tattoo suspect steel apart suffer negative rural";
+var mnemonic = "dad reunion vapor protect mistake celery come frown quarter prevent tank intact";

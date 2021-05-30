@@ -1,1 +1,1 @@
-var mnemonic = "region street trumpet polar example side puzzle analyst render dismiss olive window";
+var mnemonic = "hover spot snake stable wrap wisdom roast airport law keen oil cheese";

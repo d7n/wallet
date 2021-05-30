@@ -1,1 +1,1 @@
-var mnemonic = "aspect choice hope moon lunar betray pencil input say two faint wife";
+var mnemonic = "arm fragile vivid truly barely soap bitter attract bitter unfair slow original";

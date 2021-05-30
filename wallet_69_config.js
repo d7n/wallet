@@ -1,1 +1,1 @@
-var mnemonic = "enable script fox badge believe field stem trumpet split gap gather april";
+var mnemonic = "lamp real wine wish awful agent bulk unique artist upset turkey silent";

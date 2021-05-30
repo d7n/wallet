@@ -1,1 +1,1 @@
-var mnemonic = "fun file south usage toe wild syrup absurd setup size kangaroo ankle";
+var mnemonic = "celery helmet anxiety ready uncle ordinary correct okay fun nut hire again";

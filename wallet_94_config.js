@@ -1,1 +1,1 @@
-var mnemonic = "goat message general brown grocery grief learn laundry pelican shrug swap hour";
+var mnemonic = "green arrest misery make company music affair hover junk help eight brand";

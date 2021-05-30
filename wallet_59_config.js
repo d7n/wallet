@@ -1,1 +1,1 @@
-var mnemonic = "hunt pupil hockey smart connect sport figure salon moment opinion duck genuine";
+var mnemonic = "horse manual mammal shove chronic stick agent toast income oyster service apple";

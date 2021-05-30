@@ -1,1 +1,1 @@
-var mnemonic = "goose faculty swing sketch invest mutual prison idle rely dutch toilet drive";
+var mnemonic = "useful enhance romance sponsor arctic loud sunny oblige extra true clever fiscal";

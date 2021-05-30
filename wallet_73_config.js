@@ -1,1 +1,1 @@
-var mnemonic = "file match ivory moon harsh science ride sorry match velvet giggle acoustic";
+var mnemonic = "mesh pigeon three rhythm gun enough grape million axis setup rally open";

@@ -1,1 +1,1 @@
-var mnemonic = "inject fever peanut grid cruise horror valid badge remember fashion wall detail";
+var mnemonic = "square material position rug twist that forum artwork key mouse bubble claim";

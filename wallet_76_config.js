@@ -1,1 +1,1 @@
-var mnemonic = "wrist million afford balance drill future boss month smart disease hawk vast";
+var mnemonic = "empty crush tattoo faculty badge piece best cricket business salon grid ready";

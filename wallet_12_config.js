@@ -1,1 +1,1 @@
-var mnemonic = "cousin curious switch company acid empty angry sadness tilt pet enjoy trade";
+var mnemonic = "bless catch crowd inner mistake enforce bike vanish cake blue peasant lounge";

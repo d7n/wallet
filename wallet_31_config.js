@@ -1,1 +1,1 @@
-var mnemonic = "coin average shrimp inflict wisdom cloud educate lemon plug puzzle verb kitchen";
+var mnemonic = "dentist list current copper express idle water market ignore gadget situate finger";

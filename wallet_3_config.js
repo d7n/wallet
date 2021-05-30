@@ -1,1 +1,1 @@
-var mnemonic = "attitude piece venture budget mosquito also guitar dish because envelope soda pink";
+var mnemonic = "limit machine boy casino tell asset ring nasty warfare key bounce reduce";

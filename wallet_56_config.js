@@ -1,1 +1,1 @@
-var mnemonic = "buyer question once echo hour burden leopard weapon habit reunion heavy liberty";
+var mnemonic = "agree reopen rigid humor expire cheese bean bleak cargo family syrup burden";

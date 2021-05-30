@@ -1,1 +1,1 @@
-var mnemonic = "entire tell combine raccoon grain normal grunt eagle party lazy february sun";
+var mnemonic = "flash question magnet bean cradle aim baby right pioneer magnet urge drink";

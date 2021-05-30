@@ -1,1 +1,1 @@
-var mnemonic = "shadow tank combine link hood baby buffalo mango robot favorite predict elder";
+var mnemonic = "catalog middle donor drift light help much jump occur donate wonder amused";

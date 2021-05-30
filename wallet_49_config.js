@@ -1,1 +1,1 @@
-var mnemonic = "long short spray mean weapon piece shiver proof knock snap december elbow";
+var mnemonic = "deal rely wing spell leave tiger reduce camp labor van disagree cricket";

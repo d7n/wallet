@@ -1,1 +1,1 @@
-var mnemonic = "together fiction leisure animal observe assault faith undo trigger scissors mushroom imitate";
+var mnemonic = "that cake crime leader forward kid oil happy attack cheese animal remove";

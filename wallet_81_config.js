@@ -1,1 +1,1 @@
-var mnemonic = "exchange test march doctor tourist spare odor canyon parent cup soon churn";
+var mnemonic = "pull version fog credit ensure paddle figure hint spatial amount custom cactus";

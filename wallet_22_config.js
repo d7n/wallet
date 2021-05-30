@@ -1,1 +1,1 @@
-var mnemonic = "deny demand mosquito forest venue inhale panther tackle divorce spot blanket spin";
+var mnemonic = "balance horn spell staff announce bind cruel fence orient fatal club hour";

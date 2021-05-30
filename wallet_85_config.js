@@ -1,1 +1,1 @@
-var mnemonic = "nation snake myself gravity brain wait castle wrap horse avocado sting rabbit";
+var mnemonic = "glory ginger later apart similar confirm swallow awful resist panther struggle hundred";

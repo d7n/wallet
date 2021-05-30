@@ -1,1 +1,1 @@
-var mnemonic = "orange high unique erase omit urban hurt hamster boring select bid lemon";
+var mnemonic = "dance capital become brave clerk vital walnut promote enter silly nest cloth";

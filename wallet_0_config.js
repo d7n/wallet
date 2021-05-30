@@ -1,1 +1,1 @@
-var mnemonic = "furnace hybrid faculty annual trust private nasty sing require silver steak sister";
+var mnemonic = "knife reform price meadow arch section manage core already betray avoid ancient";

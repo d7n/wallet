@@ -1,1 +1,1 @@
-var mnemonic = "raven betray toward clay undo appear buyer home fossil make hair people";
+var mnemonic = "funny glow blur topple casino put tongue happy glue bench wealth body";

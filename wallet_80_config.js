@@ -1,1 +1,1 @@
-var mnemonic = "pyramid eye tilt volcano rival just balance next country planet frequent pretty";
+var mnemonic = "leave few love humble tomorrow pride empower cram impose ancient early mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "almost sibling light motion little abstract adjust damage pioneer exhibit page stereo";
+var mnemonic = "bubble pledge shiver subway october machine frown space tray team negative school";

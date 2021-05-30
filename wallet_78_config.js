@@ -1,1 +1,1 @@
-var mnemonic = "million winter soldier excite maid mechanic current machine parent repair dinner cover";
+var mnemonic = "retire crouch rescue apology stool chair nuclear table excess chimney oppose illness";

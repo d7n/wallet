@@ -1,1 +1,1 @@
-var mnemonic = "wheat chalk dose neither shove duck body never resemble fault hazard during";
+var mnemonic = "hero number grunt mosquito erode solution stool gadget large transfer love race";

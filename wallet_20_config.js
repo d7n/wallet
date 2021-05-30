@@ -1,1 +1,1 @@
-var mnemonic = "rookie fluid patient strike laptop park bullet loan double stereo zebra utility";
+var mnemonic = "forget awful erupt happy number cloud sister style quote cause chat cable";

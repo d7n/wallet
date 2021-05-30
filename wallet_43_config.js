@@ -1,1 +1,1 @@
-var mnemonic = "cloth december rack bird august govern cube split since fat aware ride";
+var mnemonic = "place useful gadget scene enlist frost uphold arena salon twist ticket bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle regret culture scrub convince lawn skate glass faculty head quit crisp";
+var mnemonic = "spawn taxi divide night north unhappy ladder best reduce talk cheese neck";

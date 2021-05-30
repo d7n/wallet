@@ -1,1 +1,1 @@
-var mnemonic = "cram direct firm spatial install memory then crew scheme wet mesh mixture";
+var mnemonic = "fault tape antenna sleep income canal blade pride strategy spot cement human";

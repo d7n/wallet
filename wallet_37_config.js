@@ -1,1 +1,1 @@
-var mnemonic = "render gentle wild island imitate paper wait defy mandate inquiry real history";
+var mnemonic = "absorb feature tattoo boil build home chair wisdom angry liar rough field";

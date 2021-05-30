@@ -1,1 +1,1 @@
-var mnemonic = "unusual trash cherry park exile cube clump chunk yard display list mail";
+var mnemonic = "coyote make alcohol myth width tissue trial company siege rocket thumb forum";

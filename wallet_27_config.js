@@ -1,1 +1,1 @@
-var mnemonic = "gift change deposit mammal armed potato cause index legal list typical avocado";
+var mnemonic = "property summer inject squirrel music faint collect version tone problem maple combine";

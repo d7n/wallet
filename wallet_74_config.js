@@ -1,1 +1,1 @@
-var mnemonic = "novel mushroom interest catalog iron genuine myth hen kiss cream chief piece";
+var mnemonic = "unusual cycle senior hard media cloth busy raise vocal almost above marriage";

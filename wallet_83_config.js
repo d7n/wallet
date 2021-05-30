@@ -1,1 +1,1 @@
-var mnemonic = "vendor salt pair invest buffalo hockey about name ocean enough ecology series";
+var mnemonic = "biology mean cannon immune calm wealth notice jump hamster party annual height";

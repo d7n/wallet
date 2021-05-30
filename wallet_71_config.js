@@ -1,1 +1,1 @@
-var mnemonic = "pear donor frown effort multiply return cricket tilt price novel hole duck";
+var mnemonic = "cube hobby appear recall situate aware coil torch symptom brother anger hour";

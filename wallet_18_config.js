@@ -1,1 +1,1 @@
-var mnemonic = "goat wasp sunny grid march bar section gospel feel movie just bean";
+var mnemonic = "fossil route merry remember corn vacuum custom address banner lyrics obvious shield";

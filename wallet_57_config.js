@@ -1,1 +1,1 @@
-var mnemonic = "analyst scare energy increase embrace venue bargain eagle method oyster robot peace";
+var mnemonic = "history half real rebuild divert canal bundle hover law slow laundry toe";

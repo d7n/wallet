@@ -1,1 +1,1 @@
-var mnemonic = "digital they biology office flag rocket memory firm floor amount kidney curtain";
+var mnemonic = "pilot habit airport now boost leave fame ski cricket shift kidney outside";

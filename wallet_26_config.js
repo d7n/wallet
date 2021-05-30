@@ -1,1 +1,1 @@
-var mnemonic = "laptop flee bottom ability region plug seat inhale used ketchup install adapt";
+var mnemonic = "crater call shiver street nothing bench girl flag decide own pen govern";

@@ -1,1 +1,1 @@
-var mnemonic = "student pear bubble shuffle fancy mirror decline saddle mail muscle rely churn";
+var mnemonic = "exit when apple menu impulse claim school wrap guide wrong focus soft";

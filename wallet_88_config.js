@@ -1,1 +1,1 @@
-var mnemonic = "place resist arena network accident file thumb easy vocal brass horn parent";
+var mnemonic = "shock only stairs open awake lonely duck silk cousin detail soon again";

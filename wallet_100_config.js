@@ -1,1 +1,1 @@
-var mnemonic = "present garment seven faculty jeans blame alcohol joke vehicle better culture urban";
+var mnemonic = "recycle craft jealous salad van bird perfect chaos artefact movie large dress";

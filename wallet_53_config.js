@@ -1,1 +1,1 @@
-var mnemonic = "discover seek sock quote segment pair giraffe purpose owner anchor typical bunker";
+var mnemonic = "farm praise cash motion multiply hover tongue produce add sing news giant";

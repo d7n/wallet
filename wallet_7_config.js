@@ -1,1 +1,1 @@
-var mnemonic = "tiny rude aerobic section setup legal loud adjust rice exhibit ordinary wheat";
+var mnemonic = "beyond daring useless jungle sustain enrich life tray purity reward during antenna";

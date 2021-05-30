@@ -1,1 +1,1 @@
-var mnemonic = "hospital renew bar flower magic dismiss cream gadget visual left scrap roast";
+var mnemonic = "obvious recall glare peace what memory labor maid industry sibling crack gauge";

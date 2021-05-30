@@ -1,1 +1,1 @@
-var mnemonic = "way april neither glance leader shaft crack isolate okay believe maze patch";
+var mnemonic = "release churn response midnight garage exclude nephew party proof walnut olive rural";

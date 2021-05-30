@@ -1,1 +1,1 @@
-var mnemonic = "strike pool saddle pledge tackle wasp sock eye make kit gentle fade";
+var mnemonic = "admit lab spell pudding paper erode home sibling shadow topple siren divorce";

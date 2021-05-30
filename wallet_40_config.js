@@ -1,1 +1,1 @@
-var mnemonic = "decide output about anger prize glove junk history rice about cook dynamic";
+var mnemonic = "wheat solution west suspect kangaroo save brother flight smile biology engine boost";

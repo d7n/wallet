@@ -1,1 +1,1 @@
-var mnemonic = "refuse trouble shop dice used prevent this deliver soda awesome machine settle";
+var mnemonic = "awkward pole weasel scrub frost bean innocent tumble mosquito try shop benefit";

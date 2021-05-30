@@ -1,1 +1,1 @@
-var mnemonic = "nephew now primary story casual theory drift fabric suggest humor damage service";
+var mnemonic = "rebuild situate margin very spring uncover host family naive nephew large leg";

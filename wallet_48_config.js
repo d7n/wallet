@@ -1,1 +1,1 @@
-var mnemonic = "actor artist stick wool job tenant truth brisk depart betray civil crisp";
+var mnemonic = "achieve apology quality list margin muffin topple injury bronze ghost draft rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "series salon slam today half drift guitar artist ill tomorrow search review";
+var mnemonic = "whip vacuum vocal rival business still usual sleep interest menu cool sudden";

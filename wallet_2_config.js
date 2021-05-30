@@ -1,1 +1,1 @@
-var mnemonic = "stereo pretty riot cash mule light sport garage puppy tennis pair dish";
+var mnemonic = "tilt cousin skin chat square unhappy fee camp plug pair puzzle minor";

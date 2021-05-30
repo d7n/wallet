@@ -1,1 +1,1 @@
-var mnemonic = "boring seed airport diagram swap demise script shock flower dolphin misery tilt";
+var mnemonic = "taste split define oyster viable depend simple afford primary term scare occur";

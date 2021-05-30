@@ -1,1 +1,1 @@
-var mnemonic = "stem swamp visit math reflect elegant odor congress hollow defy elevator notice";
+var mnemonic = "enjoy web discover hero title inspire tail decrease verb small identify people";

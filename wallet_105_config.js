@@ -1,1 +1,1 @@
-var mnemonic = "express despair mass tourist milk hat foil connect flower judge leaf patient";
+var mnemonic = "raven minimum always nephew useless obtain palace wife forest shed bulk episode";

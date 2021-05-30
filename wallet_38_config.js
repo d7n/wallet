@@ -1,1 +1,1 @@
-var mnemonic = "deliver original cause engine jar maid moral mouse clinic canyon gentle panda";
+var mnemonic = "mirror fatal shield country six quantum pretty volume input wait amateur install";

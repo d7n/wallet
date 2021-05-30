@@ -1,1 +1,1 @@
-var mnemonic = "shy there radio foam quote wink need dinosaur since body already sound";
+var mnemonic = "view radar genuine exercise tool pony mean focus museum oblige blade region";

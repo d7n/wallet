@@ -1,1 +1,1 @@
-var mnemonic = "climb coil all innocent bar army motion dream spoil amazing august dove";
+var mnemonic = "today ring foam require health stomach million behind hand faith young outer";

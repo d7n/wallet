@@ -1,1 +1,1 @@
-var mnemonic = "smooth stadium chronic kid raccoon flag cake twelve luggage prosper pluck asthma";
+var mnemonic = "nose essence canvas couple horse million goose primary eyebrow utility long arrive";

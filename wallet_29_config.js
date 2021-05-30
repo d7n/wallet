@@ -1,1 +1,1 @@
-var mnemonic = "jacket wage year saddle pass water round theory fade actual west drastic";
+var mnemonic = "rare expire fat island dentist wood word state then capable tool result";

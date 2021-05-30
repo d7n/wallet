@@ -1,1 +1,1 @@
-var mnemonic = "toy junk slow sniff add document want globe case float eternal depart";
+var mnemonic = "chase naive risk charge urge poet orient people disease gesture shuffle fence";

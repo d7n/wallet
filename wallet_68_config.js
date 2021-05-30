@@ -1,1 +1,1 @@
-var mnemonic = "black sing emerge nest visa decide finger latin narrow remind rate priority";
+var mnemonic = "ostrich pass inform rude joke traffic antique sand stand case tortoise become";

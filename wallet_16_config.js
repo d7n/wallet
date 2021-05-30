@@ -1,1 +1,1 @@
-var mnemonic = "leg discover clutch climb enjoy health deny swap day lawsuit setup vote";
+var mnemonic = "girl collect wreck health rival thank kangaroo interest stage couch connect pottery";

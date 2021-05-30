@@ -1,1 +1,1 @@
-var mnemonic = "same buzz produce glance gossip question marriage visit over clump club imitate";
+var mnemonic = "hand wife tuna nurse arena sell uphold drip basic stand lesson problem";

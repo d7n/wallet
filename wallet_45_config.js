@@ -1,1 +1,1 @@
-var mnemonic = "horse dinosaur field slab castle balance drip spirit blood student ritual common";
+var mnemonic = "cause story stereo glimpse pottery pluck volcano novel piece citizen popular ankle";
