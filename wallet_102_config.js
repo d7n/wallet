@@ -1,1 +1,1 @@
-var mnemonic = "pudding palm slim club switch maple task bullet toast canvas news enjoy";
+var mnemonic = "flee garbage transfer spice buffalo arrive sport solution dice outdoor rather country";

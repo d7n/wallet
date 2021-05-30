@@ -1,1 +1,1 @@
-var mnemonic = "unfold lunar outside drum lumber mass logic service okay defy book around";
+var mnemonic = "talent artwork start void soda spend unit disease torch margin regret copy";

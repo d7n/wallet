@@ -1,1 +1,1 @@
-var mnemonic = "have normal nurse tragic castle alter various print fun kingdom lucky come";
+var mnemonic = "whale ability similar life embody issue recipe virtual dolphin aunt quality one";

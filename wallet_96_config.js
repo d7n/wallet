@@ -1,1 +1,1 @@
-var mnemonic = "much agree lazy vessel apart feel memory hero clay earth april tuna";
+var mnemonic = "grit utility finger work lion burst divorce review tell color satisfy master";

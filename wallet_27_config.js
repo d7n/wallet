@@ -1,1 +1,1 @@
-var mnemonic = "leg settle isolate benefit gentle ankle affair credit crash mimic topple quality";
+var mnemonic = "aisle sample crew lecture whale marble peanut possible february valley cigar sweet";

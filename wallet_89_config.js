@@ -1,1 +1,1 @@
-var mnemonic = "picnic combine oxygen type topple barely transfer original forget cactus exact wage";
+var mnemonic = "legend mad lawn table menu chef move shallow eternal decide milk suffer";

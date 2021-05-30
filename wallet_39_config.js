@@ -1,1 +1,1 @@
-var mnemonic = "fury maple exile sight fatigue market neck cream alert pig tomato repeat";
+var mnemonic = "wait merry coil need suffer digital please digital drop harsh trouble region";

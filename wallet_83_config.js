@@ -1,1 +1,1 @@
-var mnemonic = "broken barrel velvet club design direct moment intact lab forget senior melody";
+var mnemonic = "blood dust twenty scene monitor point ring sunset indicate dance bachelor asthma";

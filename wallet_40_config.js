@@ -1,1 +1,1 @@
-var mnemonic = "ship artefact tail erode expect flower alpha access energy suspect general guilt";
+var mnemonic = "rhythm chat auto history manual feel layer amateur fluid word slab vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "network rotate flush drum acquire staff tape timber sand bone lumber happy";
+var mnemonic = "off virus kangaroo intact void song bird express dose next win assist";

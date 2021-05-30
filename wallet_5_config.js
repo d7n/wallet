@@ -1,1 +1,1 @@
-var mnemonic = "sail imitate name impulse exotic vapor crane gym oval aerobic shoot stem";
+var mnemonic = "rebuild need caught soda wear thunder alien antenna era juice accuse cotton";

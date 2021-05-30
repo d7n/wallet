@@ -1,1 +1,1 @@
-var mnemonic = "kitchen amazing absurd unknown fiber control upgrade lazy series retire coral pipe";
+var mnemonic = "prosper grant ripple lecture brick night calm forward into hover rural health";

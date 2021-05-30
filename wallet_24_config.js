@@ -1,1 +1,1 @@
-var mnemonic = "jazz shift prefer skin airport lumber speak pave enter curious lock obvious";
+var mnemonic = "detect manage glass capable help mosquito provide erode divert famous sound great";

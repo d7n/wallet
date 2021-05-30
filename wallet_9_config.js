@@ -1,1 +1,1 @@
-var mnemonic = "skin egg antenna until victory cave wheat tube crowd pelican edge what";
+var mnemonic = "work dwarf arctic arch exile evoke village panther shell session absorb ill";

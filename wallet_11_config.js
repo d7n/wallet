@@ -1,1 +1,1 @@
-var mnemonic = "bicycle like jeans cereal issue crane correct sad ethics live small chicken";
+var mnemonic = "defense wear kick clerk desk dizzy jeans great gaze response wild torch";

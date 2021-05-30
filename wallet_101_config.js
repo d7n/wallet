@@ -1,1 +1,1 @@
-var mnemonic = "sister defy ladder bundle another valid mass false prize penalty odor cheese";
+var mnemonic = "bulk jaguar wrist between ensure topple immune brother obey control immune parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "able claim double inch age else project mango pave want sand popular";
+var mnemonic = "sell volume leave avocado orphan polar earth shaft sketch crystal route orphan";

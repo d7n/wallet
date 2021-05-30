@@ -1,1 +1,1 @@
-var mnemonic = "buffalo turkey syrup smoke very know project spray like notable cupboard wasp";
+var mnemonic = "mango business live crumble tissue sketch result health shuffle surprise victory chalk";

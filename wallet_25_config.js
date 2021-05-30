@@ -1,1 +1,1 @@
-var mnemonic = "cloud blush climb reward situate lesson lawn nerve girl zebra stock bind";
+var mnemonic = "outside maple area rail moment sauce loyal chaos donor mass hint purpose";

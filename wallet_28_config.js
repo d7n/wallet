@@ -1,1 +1,1 @@
-var mnemonic = "strike wrong empty unlock add local bread mass merge impulse fee unlock";
+var mnemonic = "sugar lyrics ivory weapon street beach border escape smile pyramid north dash";

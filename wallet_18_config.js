@@ -1,1 +1,1 @@
-var mnemonic = "just wrestle soul dog screen menu comic runway frozen street dinner hospital";
+var mnemonic = "shield lawn position better birth chalk butter cricket upper estate today panda";

@@ -1,1 +1,1 @@
-var mnemonic = "move fetch number hard seek setup panda gaze pole mixture feel noble";
+var mnemonic = "scrub poverty rely tornado shadow explain gaze online now angle exhibit goddess";

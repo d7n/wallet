@@ -1,1 +1,1 @@
-var mnemonic = "club visa lucky pretty mesh please unaware lobster energy cruel bicycle boring";
+var mnemonic = "viable kit slot wife fatigue where security render initial ugly chicken flower";

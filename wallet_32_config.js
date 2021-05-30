@@ -1,1 +1,1 @@
-var mnemonic = "ice educate swing deputy sausage own matter jazz cruel must dad permit";
+var mnemonic = "muffin drastic scrub price panic save parent february walnut rhythm snap camp";

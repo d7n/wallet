@@ -1,1 +1,1 @@
-var mnemonic = "industry upset silk chest cousin exhibit owner cook submit blade detail dolphin";
+var mnemonic = "finger pride erosion liberty pupil inhale art pill enroll merge erupt swear";

@@ -1,1 +1,1 @@
-var mnemonic = "crop tornado indicate abstract swing hobby onion scatter then abuse visit used";
+var mnemonic = "access antenna topic mother board journey note drift wine achieve field claim";

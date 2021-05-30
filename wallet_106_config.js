@@ -1,1 +1,1 @@
-var mnemonic = "burden museum present globe shell divide unhappy jump wealth common warfare shrug";
+var mnemonic = "ketchup donate veteran barrel rice toy inquiry beyond bag crane vast dinner";

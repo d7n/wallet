@@ -1,1 +1,1 @@
-var mnemonic = "essence vivid enemy chapter cake breeze curve short clown topple lobster chapter";
+var mnemonic = "noodle crazy annual leg sleep tone potato leave leader inside ripple never";

@@ -1,1 +1,1 @@
-var mnemonic = "faint dignity chase grocery destroy salt wagon poverty energy energy search gauge";
+var mnemonic = "crop tide napkin fatigue eager catch enhance screen estate nasty onion disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "address double error doctor gym curious tooth sheriff shoulder height problem long";
+var mnemonic = "twenty rough bread medal across improve history social trial father caution diet";

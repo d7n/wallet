@@ -1,1 +1,1 @@
-var mnemonic = "during voyage salt live dream mandate ahead middle glance crouch athlete budget";
+var mnemonic = "correct thumb urban essay vital shoulder long crop quantum wash gossip economy";

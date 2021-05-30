@@ -1,1 +1,1 @@
-var mnemonic = "adult until shove wish decide home trigger priority fee icon tumble antique";
+var mnemonic = "multiply artist tornado sun deer drift menu write absorb axis tuition vote";

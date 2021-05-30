@@ -1,1 +1,1 @@
-var mnemonic = "debate battle canvas hockey creek patient bike bronze early risk maple fragile";
+var mnemonic = "end resist private security off visit damage easily flat stand dynamic sunny";

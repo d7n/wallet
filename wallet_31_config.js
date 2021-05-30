@@ -1,1 +1,1 @@
-var mnemonic = "kiss tooth box bamboo super exact element dignity muffin skill faith curious";
+var mnemonic = "emotion kiss knee rookie federal equip bullet win burger bomb dignity copy";

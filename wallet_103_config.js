@@ -1,1 +1,1 @@
-var mnemonic = "misery gift stadium click monkey animal hundred program whale similar cargo captain";
+var mnemonic = "proof police direct garbage mimic broom divide fashion render public possible carry";

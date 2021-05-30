@@ -1,1 +1,1 @@
-var mnemonic = "coach embark moral direct gesture emerge pepper pulse nature rack town brief";
+var mnemonic = "civil final remind way foam board august early slush zoo raise hen";

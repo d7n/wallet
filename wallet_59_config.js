@@ -1,1 +1,1 @@
-var mnemonic = "tissue panda cart borrow web warrior forward leopard pill kind guess cluster";
+var mnemonic = "purchase together skirt where image dream model print action trip pyramid layer";

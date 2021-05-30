@@ -1,1 +1,1 @@
-var mnemonic = "output pact cloud snack disease cube vintage knock stairs flush above sight";
+var mnemonic = "animal ghost subway case bean riot rate approve duty inform load piano";

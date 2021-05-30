@@ -1,1 +1,1 @@
-var mnemonic = "suggest fog crush act town spray floor put reason trap raw divorce";
+var mnemonic = "garment endorse smooth cave fork unveil offer sick youth maximum journey list";

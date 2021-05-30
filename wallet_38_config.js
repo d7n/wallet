@@ -1,1 +1,1 @@
-var mnemonic = "cover analyst bunker range upset gift adapt inject photo kingdom vital fabric";
+var mnemonic = "reason drip laugh rotate vocal machine copy one fragile eager derive knee";

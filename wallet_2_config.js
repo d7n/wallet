@@ -1,1 +1,1 @@
-var mnemonic = "fancy combine mansion about tiny print luxury easy soap document almost winter";
+var mnemonic = "fruit desert leg dress payment much segment pretty cross lobster grunt reopen";

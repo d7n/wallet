@@ -1,1 +1,1 @@
-var mnemonic = "midnight figure grab try tourist health history actor lunar notice woman rich";
+var mnemonic = "heavy among biology diary park hen power universe model before gossip mystery";

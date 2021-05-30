@@ -1,1 +1,1 @@
-var mnemonic = "boy gallery magic main tumble young benefit rookie latin stand project cliff";
+var mnemonic = "eyebrow foam hotel opera pave render stairs turtle share mistake input report";

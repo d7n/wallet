@@ -1,1 +1,1 @@
-var mnemonic = "slender obey custom final rebuild notice auction bulk anger height office tiny";
+var mnemonic = "salt antique law sphere modify person empower credit outer total shop inform";

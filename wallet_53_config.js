@@ -1,1 +1,1 @@
-var mnemonic = "suit ability suspect spider master vibrant tribe garlic mimic asset sphere direct";
+var mnemonic = "narrow sphere clip illegal dress behind into useless essay atom dentist maze";

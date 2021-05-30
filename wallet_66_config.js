@@ -1,1 +1,1 @@
-var mnemonic = "glory such elevator relax keen unlock trial random apology buyer dish pride";
+var mnemonic = "verify net unlock urge silk uphold area maple stereo choice security cancel";

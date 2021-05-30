@@ -1,1 +1,1 @@
-var mnemonic = "green raccoon survey tumble toast attend drive amused ugly click liquid hurry";
+var mnemonic = "gloom stadium bunker breeze kite tunnel around term chronic science since eight";

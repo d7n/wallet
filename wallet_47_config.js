@@ -1,1 +1,1 @@
-var mnemonic = "around blood meat parrot husband real gloom borrow soda enjoy velvet van";
+var mnemonic = "chimney educate diesel change sketch ready arrive aunt vocal enhance scout parrot";

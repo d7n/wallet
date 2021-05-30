@@ -1,1 +1,1 @@
-var mnemonic = "goddess prevent certain next often neutral subway use detect sweet limb foster";
+var mnemonic = "bamboo harvest prevent say oyster middle return inhale collect meat orange sand";

@@ -1,1 +1,1 @@
-var mnemonic = "donor exhaust pond brother return scrub uniform hub love style atom humble";
+var mnemonic = "stock cram during science virtual sock nice actress heavy miracle hidden knock";

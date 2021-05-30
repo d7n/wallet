@@ -1,1 +1,1 @@
-var mnemonic = "venue rebel miss mouse base wealth canyon rude render visual that comic";
+var mnemonic = "judge crisp hurry abstract tomato slight input learn logic present hat animal";

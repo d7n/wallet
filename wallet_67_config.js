@@ -1,1 +1,1 @@
-var mnemonic = "sail match idle clean brisk chronic bleak online feel daughter mutual happy";
+var mnemonic = "try fish meat blast occur patrol logic claim share merge ahead ritual";

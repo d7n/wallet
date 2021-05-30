@@ -1,1 +1,1 @@
-var mnemonic = "genuine bunker park much rely provide village verify jelly just raise earn";
+var mnemonic = "raise address escape two humor disagree course obscure orphan usage process decide";

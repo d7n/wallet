@@ -1,1 +1,1 @@
-var mnemonic = "apart donate valley bamboo rival sheriff cycle fog farm snack depend observe";
+var mnemonic = "arena spend strike legal suit ensure scene river refuse you lizard bid";

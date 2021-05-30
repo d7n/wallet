@@ -1,1 +1,1 @@
-var mnemonic = "female monitor spy screen fatigue master husband antique tattoo memory rather bicycle";
+var mnemonic = "message journey forget coin moon old dance tumble risk solar shoot bright";

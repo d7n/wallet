@@ -1,1 +1,1 @@
-var mnemonic = "option gravity tank wage random element ritual social city assume soon tank";
+var mnemonic = "green canyon round viable weapon pencil impulse actor fruit evil crunch base";

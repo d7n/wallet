@@ -1,1 +1,1 @@
-var mnemonic = "ripple wealth edit cost chronic scheme route hundred predict elevator sibling agent";
+var mnemonic = "result run sad laugh maze vintage mix empty head pool work core";

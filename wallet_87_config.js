@@ -1,1 +1,1 @@
-var mnemonic = "immune exist naive first unlock coconut surround jump mesh fancy believe ketchup";
+var mnemonic = "card hair quote below tobacco comic point twenty bike blue anchor mix";

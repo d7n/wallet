@@ -1,1 +1,1 @@
-var mnemonic = "awake science mountain ten inner blade hundred bunker must rule keen surge";
+var mnemonic = "coyote moral access feature manage east excite solid author energy hungry have";

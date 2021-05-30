@@ -1,1 +1,1 @@
-var mnemonic = "decorate apple scrap sweet sport cruise honey fever frozen evoke dune olive";
+var mnemonic = "devote into like final update metal advance hurry sound vault illness release";

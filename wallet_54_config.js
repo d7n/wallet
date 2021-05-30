@@ -1,1 +1,1 @@
-var mnemonic = "cry milk multiply piece bamboo brain hand power desk assist health need";
+var mnemonic = "company pole topic dinosaur merge guitar diagram pony maze remove shadow bunker";

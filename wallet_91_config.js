@@ -1,1 +1,1 @@
-var mnemonic = "ring shiver cherry monster know pattern genre useless buyer immense arrest crew";
+var mnemonic = "perfect always found matter federal fall act nut trumpet crowd edit strike";

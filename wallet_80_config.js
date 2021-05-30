@@ -1,1 +1,1 @@
-var mnemonic = "doll ordinary extra drip steak fresh make property moral mad parade position";
+var mnemonic = "lucky genuine grief hazard layer flavor parrot false good diet never tide";

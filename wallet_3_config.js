@@ -1,1 +1,1 @@
-var mnemonic = "habit mail until rice shell can able rack pig orange town strike";
+var mnemonic = "glance opera joy praise icon country endorse relief arrive rude spatial strong";

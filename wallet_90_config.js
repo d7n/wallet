@@ -1,1 +1,1 @@
-var mnemonic = "dismiss unaware true stand butter peace carry burger boil key confirm brain";
+var mnemonic = "improve city credit wrap panda immune right friend female chicken involve strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "put open actress can solid symbol bitter unit wonder camp exist coffee";
+var mnemonic = "shoot biology mirror hover fruit sign alarm expect raw estate wise celery";

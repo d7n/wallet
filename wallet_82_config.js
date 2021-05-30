@@ -1,1 +1,1 @@
-var mnemonic = "humble claw initial arrive camera allow toss skate elite soccer next fortune";
+var mnemonic = "retire beach genuine region brick gentle once cushion guard borrow meat buffalo";

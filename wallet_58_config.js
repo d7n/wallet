@@ -1,1 +1,1 @@
-var mnemonic = "rule tourist valley test case credit advice oil layer balcony shell mobile";
+var mnemonic = "panel crystal try zoo cousin favorite beauty jacket earth profit demise domain";

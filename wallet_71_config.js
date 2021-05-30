@@ -1,1 +1,1 @@
-var mnemonic = "menu glow february giggle olive logic glare inspire suffer salt eternal monkey";
+var mnemonic = "cement relief share champion cabin muffin slender cotton decide acoustic lens wolf";

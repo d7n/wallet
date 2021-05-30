@@ -1,1 +1,1 @@
-var mnemonic = "ride vessel flip pencil pill usage embrace wagon brave struggle myth essence";
+var mnemonic = "affair cargo snake term identify eagle staff peasant entry season airport stumble";

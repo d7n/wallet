@@ -1,1 +1,1 @@
-var mnemonic = "scissors charge produce toe tonight predict trust symptom until trash glad author";
+var mnemonic = "indoor legal direct silent drop century shrimp tongue state timber brass news";

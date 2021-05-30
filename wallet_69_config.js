@@ -1,1 +1,1 @@
-var mnemonic = "announce rather process humble left coast name label earth argue emerge match";
+var mnemonic = "symptom credit turtle mind concert silk dose baby sword execute athlete light";

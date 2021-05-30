@@ -1,1 +1,1 @@
-var mnemonic = "borrow deny mouse plug chief seed rotate donor churn circle style expand";
+var mnemonic = "enact owner all round loop narrow insect census refuse adjust inch around";

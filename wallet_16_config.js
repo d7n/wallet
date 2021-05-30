@@ -1,1 +1,1 @@
-var mnemonic = "gun oven noise accuse deer canvas absent apology jaguar silent course isolate";
+var mnemonic = "hurry draft fire hammer ozone success brown lift choose slender nominee draft";

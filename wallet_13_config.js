@@ -1,1 +1,1 @@
-var mnemonic = "unable grace turtle enlist regret valley option add sunny fever dolphin calm";
+var mnemonic = "tilt just edit pistol safe food drift rack kiwi veteran cotton truth";

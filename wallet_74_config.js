@@ -1,1 +1,1 @@
-var mnemonic = "tag palace promote trap resemble detect brave task upper pledge smoke disorder";
+var mnemonic = "drop rack fatal harbor will service around harbor taxi original kitchen rigid";

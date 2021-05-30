@@ -1,1 +1,1 @@
-var mnemonic = "call useful zone menu indicate equip milk join trust pistol knee kidney";
+var mnemonic = "scout viable object veteran struggle pool during source update assault scale guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "forget since frozen razor other ostrich exist beauty weasel bamboo fade jungle";
+var mnemonic = "walnut agent addict control economy adult primary ethics vague olive arrest master";

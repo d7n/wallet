@@ -1,1 +1,1 @@
-var mnemonic = "sheriff dust saddle trophy major burden across dice law fly club clown";
+var mnemonic = "attract casino curtain toward vault female coin decrease like perfect middle gadget";

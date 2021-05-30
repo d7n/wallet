@@ -1,1 +1,1 @@
-var mnemonic = "clay gas sausage place range poet direct net decline teach together match";
+var mnemonic = "tiger suggest float hotel miracle prepare basket group congress job cactus journey";

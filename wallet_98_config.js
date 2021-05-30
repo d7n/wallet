@@ -1,1 +1,1 @@
-var mnemonic = "stumble rent bind ride situate bamboo just step escape you curious cloth";
+var mnemonic = "sure all stadium author soup jar provide brave evidence regret memory pole";

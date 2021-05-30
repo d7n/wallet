@@ -1,1 +1,1 @@
-var mnemonic = "bulb side recipe catalog injury throw pair sleep mosquito believe doll fan";
+var mnemonic = "key such ocean mom must talent industry whip little moment object oval";

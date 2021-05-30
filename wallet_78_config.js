@@ -1,1 +1,1 @@
-var mnemonic = "hill judge coral sock sting cake digital clump worry explain ordinary turtle";
+var mnemonic = "gun rule small uncover mean story cloth during jump identify balcony sure";

@@ -1,1 +1,1 @@
-var mnemonic = "object turkey ball elbow gas begin tissue merry crop razor aware glass";
+var mnemonic = "winter supreme seed miracle chair donkey cement bus old educate share expect";

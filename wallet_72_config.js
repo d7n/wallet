@@ -1,1 +1,1 @@
-var mnemonic = "spring scatter forget silver student skill atom squirrel rich protect taxi force";
+var mnemonic = "little require priority verify sail element basket pulse crack auto wear journey";

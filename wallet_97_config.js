@@ -1,1 +1,1 @@
-var mnemonic = "throw dentist true dragon jaguar final fury sphere pill secret glide deal";
+var mnemonic = "reject also list harsh fury fruit wedding phone antenna phone element swear";

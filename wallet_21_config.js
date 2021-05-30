@@ -1,1 +1,1 @@
-var mnemonic = "sail review bag sibling february prosper ceiling among obtain labor head camera";
+var mnemonic = "vehicle junior top depth hole lend stamp liquid term select lottery canvas";

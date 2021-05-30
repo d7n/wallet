@@ -1,1 +1,1 @@
-var mnemonic = "post wrong file rhythm quick smart adult merge blast allow gentle shine";
+var mnemonic = "opera october busy bachelor pair figure fox decide sketch glass valid ocean";
