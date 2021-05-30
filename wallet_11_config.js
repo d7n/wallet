@@ -1,1 +1,1 @@
-var mnemonic = "soul chat legend gravity inquiry year debris wheel palace lamp cigar humble";
+var mnemonic = "soda salad fall lawsuit sorry unfair tornado fancy surprise actress rescue punch";

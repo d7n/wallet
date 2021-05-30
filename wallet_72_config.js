@@ -1,1 +1,1 @@
-var mnemonic = "then praise slide clerk nut round funny ritual chunk antique object goat";
+var mnemonic = "cup oxygen junior fever check pave patrol gloom clutch earn sorry risk";

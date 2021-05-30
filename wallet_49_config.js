@@ -1,1 +1,1 @@
-var mnemonic = "thumb when diagram advice repair point fish space control opinion often panda";
+var mnemonic = "saddle pupil rose strike library skirt crack error report help spy half";

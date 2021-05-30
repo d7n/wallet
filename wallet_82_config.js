@@ -1,1 +1,1 @@
-var mnemonic = "faith green thought city scan adapt outdoor prevent wreck better bounce upset";
+var mnemonic = "length found crash unable crush pride lock measure pistol smart snap evidence";

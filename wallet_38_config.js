@@ -1,1 +1,1 @@
-var mnemonic = "fence legal artefact meadow mandate ladder current fruit base effort over feel";
+var mnemonic = "inhale crisp claim flush swarm oyster uncle easily harvest slender save injury";

@@ -1,1 +1,1 @@
-var mnemonic = "capable crack observe recycle chimney stomach base elegant owner drip core farm";
+var mnemonic = "borrow faint shoot brisk dawn idea novel spell salt wild circle country";

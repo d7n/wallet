@@ -1,1 +1,1 @@
-var mnemonic = "pelican fatal recycle bread inherit car property hand train catch open raw";
+var mnemonic = "make young replace prison obey insane cluster scare mansion climb cushion armed";

@@ -1,1 +1,1 @@
-var mnemonic = "general fatigue valid clarify acoustic suspect trial canvas illness include zoo cook";
+var mnemonic = "afraid volume ride basic chimney uphold quiz hungry middle cousin fiscal sword";

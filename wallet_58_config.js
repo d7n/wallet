@@ -1,1 +1,1 @@
-var mnemonic = "fat twin stamp lion useful inspire stable helmet mention mistake woman attitude";
+var mnemonic = "seat rebuild kitten void fault crumble actual spin panel local year vivid";

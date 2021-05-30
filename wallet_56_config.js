@@ -1,1 +1,1 @@
-var mnemonic = "survey exercise member make review alert clarify toss minor you upon envelope";
+var mnemonic = "mix inside portion purity pipe arrange family drink robust vast giraffe album";

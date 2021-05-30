@@ -1,1 +1,1 @@
-var mnemonic = "seat behind fog can celery dice razor toward eagle cube dove orient";
+var mnemonic = "artwork head bunker egg seat release honey grape tissue success network shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip obscure cage release olive annual inch gown slow super member swear";
+var mnemonic = "violin addict fame paddle end couch run word throw afford cabin void";

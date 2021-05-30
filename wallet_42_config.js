@@ -1,1 +1,1 @@
-var mnemonic = "chalk degree mango empower blur cupboard pulse chicken special atom car alone";
+var mnemonic = "gown survey clever nature possible pass mandate flock hurdle inhale arrest gadget";

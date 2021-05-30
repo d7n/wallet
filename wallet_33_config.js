@@ -1,1 +1,1 @@
-var mnemonic = "road option crunch couch bulk mansion lottery annual wise mystery side grape";
+var mnemonic = "october evolve protect tray lesson drink involve tuition dutch primary success radar";

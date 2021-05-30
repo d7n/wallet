@@ -1,1 +1,1 @@
-var mnemonic = "pause layer judge merit region era dinosaur owner game multiply moment banana";
+var mnemonic = "reunion private entry voyage oven gap pipe gap arctic upper height film";

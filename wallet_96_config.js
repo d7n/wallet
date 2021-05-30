@@ -1,1 +1,1 @@
-var mnemonic = "display rebel correct proof deny zoo ritual thing easy comfort sort brave";
+var mnemonic = "curve arctic surround pitch attitude rubber champion panda wagon echo spring frost";

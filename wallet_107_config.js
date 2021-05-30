@@ -1,1 +1,1 @@
-var mnemonic = "jeans bring churn shrimp relax spray clay fog autumn river front depend";
+var mnemonic = "thumb pass pioneer tragic pact august stone slush usage curtain orbit search";

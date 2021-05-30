@@ -1,1 +1,1 @@
-var mnemonic = "donor heavy video kangaroo gauge vacant spirit behind loud club example tag";
+var mnemonic = "install fame visual remove network decide spot rocket tragic avocado enter planet";

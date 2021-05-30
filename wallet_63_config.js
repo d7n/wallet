@@ -1,1 +1,1 @@
-var mnemonic = "interest develop holiday ecology improve boost shell wedding recall soda also first";
+var mnemonic = "stool bacon twist plastic huge thunder quit globe fossil labor donkey memory";

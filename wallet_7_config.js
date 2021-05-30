@@ -1,1 +1,1 @@
-var mnemonic = "blanket skin faith kitten feature topple bamboo bottom subway camera siege exit";
+var mnemonic = "lens donkey patrol skate universe produce float alpha ten teach volcano dose";

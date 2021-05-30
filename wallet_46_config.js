@@ -1,1 +1,1 @@
-var mnemonic = "easy earn outside dash wolf reform wrap cheap become use category pond";
+var mnemonic = "room sock engine evidence tiny piano treat acoustic round zoo scorpion purity";

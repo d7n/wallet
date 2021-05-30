@@ -1,1 +1,1 @@
-var mnemonic = "coral need property ankle poet galaxy price lamp wise boat chicken snow";
+var mnemonic = "act trust month boss give fade click budget visit amateur useful range";

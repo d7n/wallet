@@ -1,1 +1,1 @@
-var mnemonic = "also rent inherit rely metal avocado will trade hurt olive need option";
+var mnemonic = "urban immense jealous wife lake insect runway antique bone system enable limb";

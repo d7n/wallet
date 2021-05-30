@@ -1,1 +1,1 @@
-var mnemonic = "sock rubber rocket service broom custom easily possible more diary attend deny";
+var mnemonic = "hurry solution rely race front toe insane cliff treat light zebra punch";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed trial picture amazing mutual seed leisure fury tonight route cabbage adult";
+var mnemonic = "monitor green company typical cement warfare forum ordinary elegant together rice team";

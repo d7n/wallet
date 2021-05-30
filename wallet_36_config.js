@@ -1,1 +1,1 @@
-var mnemonic = "affair tissue kingdom cross purity sad work foot device old unit name";
+var mnemonic = "oyster faith flat man drop stereo vivid winner indoor sibling earth prefer";

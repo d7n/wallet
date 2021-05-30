@@ -1,1 +1,1 @@
-var mnemonic = "draw lonely valid region immense steel exercise sausage wasp tiger oven phone";
+var mnemonic = "unhappy purse crumble trash again main movie rubber affair bag guilt web";

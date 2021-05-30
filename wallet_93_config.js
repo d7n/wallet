@@ -1,1 +1,1 @@
-var mnemonic = "theme chapter pave match indicate proud erode spice rebel wet share clock";
+var mnemonic = "kitchen tide force struggle aspect wash drama broccoli jar diesel habit unfair";

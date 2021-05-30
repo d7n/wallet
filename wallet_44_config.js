@@ -1,1 +1,1 @@
-var mnemonic = "glow wedding order trick portion error nation valid present master economy mistake";
+var mnemonic = "night scene era seed radar myth cupboard view river pottery horse together";

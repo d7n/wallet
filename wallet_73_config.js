@@ -1,1 +1,1 @@
-var mnemonic = "pelican ceiling blind bubble monkey benefit pole tattoo clerk oak fat ramp";
+var mnemonic = "pair good flavor enough trial slide render genius rice practice stable spell";

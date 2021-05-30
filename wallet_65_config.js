@@ -1,1 +1,1 @@
-var mnemonic = "hub quantum dust broom language blast stove dwarf emotion phrase chalk runway";
+var mnemonic = "inform climb whale please husband pottery color dad rain black finish transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "always asthma test air wing arrive undo custom paddle warfare antique found";
+var mnemonic = "resist drive curious master slush cereal torch rifle own churn someone illness";

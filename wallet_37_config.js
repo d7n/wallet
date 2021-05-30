@@ -1,1 +1,1 @@
-var mnemonic = "left squeeze elegant ramp rescue emotion antenna coral prison thumb major vivid";
+var mnemonic = "skull pluck member hurt layer bird reduce phrase ginger addict globe wing";

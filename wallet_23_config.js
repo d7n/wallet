@@ -1,1 +1,1 @@
-var mnemonic = "enter bunker zoo give artwork blouse alone frog also goddess hand trade";
+var mnemonic = "history convince begin nature match hard time wrap vast owner journey lion";

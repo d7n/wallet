@@ -1,1 +1,1 @@
-var mnemonic = "kit bridge opinion region build marine butter bring year guitar tennis jazz";
+var mnemonic = "canyon sample oak country accuse buddy moon absurd pony raven rather erase";

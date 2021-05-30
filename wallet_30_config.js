@@ -1,1 +1,1 @@
-var mnemonic = "steel huge marriage bar extra struggle street luggage demise polar fatigue wish";
+var mnemonic = "private mobile bomb detail hybrid fun tone chalk warm unknown faint sketch";

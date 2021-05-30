@@ -1,1 +1,1 @@
-var mnemonic = "table split sausage code noble million lamp use aim crouch say bottom";
+var mnemonic = "shed liquid ill female entire habit crew plastic tent flat abstract coach";

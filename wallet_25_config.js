@@ -1,1 +1,1 @@
-var mnemonic = "digital guard script office word hill warrior divide inch whisper cover soda";
+var mnemonic = "any marble still diesel service lucky language duck width true beach detail";

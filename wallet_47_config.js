@@ -1,1 +1,1 @@
-var mnemonic = "praise soup urban spot best spoil salon bright bomb kick zone flash";
+var mnemonic = "vacant advance fiction island camera nose knee angry taxi eager funny crane";

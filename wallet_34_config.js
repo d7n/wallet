@@ -1,1 +1,1 @@
-var mnemonic = "boss toward snow van wish reduce address try wife weird depth surprise";
+var mnemonic = "liquid knife express broken life emotion immune door desert dynamic nut ahead";

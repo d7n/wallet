@@ -1,1 +1,1 @@
-var mnemonic = "interest strong learn jazz bike wave vicious mother lucky normal winter machine";
+var mnemonic = "anchor tomato reduce saddle slush tornado glad blur absorb fresh book wear";

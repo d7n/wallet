@@ -1,1 +1,1 @@
-var mnemonic = "axis destroy typical knock safe alpha myself night hair lonely situate glimpse";
+var mnemonic = "canoe divert proud romance outer level claim salon recall punch company pair";

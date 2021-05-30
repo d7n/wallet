@@ -1,1 +1,1 @@
-var mnemonic = "neither cushion action box suspect deny foot toy raw harvest artwork advice";
+var mnemonic = "bid select mass regret please display correct ahead almost nothing margin post";

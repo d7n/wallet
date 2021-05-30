@@ -1,1 +1,1 @@
-var mnemonic = "debate damp once ranch result glow deliver recall exist recycle spike session";
+var mnemonic = "practice report woman pepper gospel unique bar diet argue worry alarm gauge";

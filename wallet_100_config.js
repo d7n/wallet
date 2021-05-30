@@ -1,1 +1,1 @@
-var mnemonic = "gallery island april diet topic honey gather office filter penalty dish light";
+var mnemonic = "balance powder window apple transfer wrist talk nasty decade copy duck afford";

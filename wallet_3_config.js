@@ -1,1 +1,1 @@
-var mnemonic = "fit also outside shift urge sick artefact domain put reward ship effort";
+var mnemonic = "tuition inflict absurd ladder swallow list embark method start wheel swamp alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "want twin work praise hair polar candy border gun apart great gas";
+var mnemonic = "slogan vehicle barely cloud pond memory dune tank excuse vapor nation easily";

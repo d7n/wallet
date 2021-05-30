@@ -1,1 +1,1 @@
-var mnemonic = "one save ensure shine electric mouse frequent blanket layer leg universe turtle";
+var mnemonic = "around lonely comic work usual mixed angle robust nose gloom right amused";

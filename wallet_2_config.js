@@ -1,1 +1,1 @@
-var mnemonic = "lesson release rain cross muffin excess travel inch derive pottery immense merge";
+var mnemonic = "sing divorce action essay often stomach live eager okay useful evidence ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "dash weather theory mass weekend ostrich term illegal come nothing barely autumn";
+var mnemonic = "electric worry stick pepper sphere morning quality space demand weapon valley wire";

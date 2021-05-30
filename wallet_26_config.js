@@ -1,1 +1,1 @@
-var mnemonic = "off above know muffin crystal mixture pattern drink marble library very loud";
+var mnemonic = "relax supply wall thing twelve floor vessel flash limb remind tongue doll";

@@ -1,1 +1,1 @@
-var mnemonic = "brass useful interest warfare link twelve know repair flame bottom ski improve";
+var mnemonic = "opinion clay owner ten gold erosion panic monitor guard boat utility soon";

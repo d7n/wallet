@@ -1,1 +1,1 @@
-var mnemonic = "load predict melody wrist impose clinic grit youth first broom write brick";
+var mnemonic = "occur behave evolve clown diagram pioneer portion enter silly add february absorb";

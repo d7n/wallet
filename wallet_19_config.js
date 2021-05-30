@@ -1,1 +1,1 @@
-var mnemonic = "quiz mad trap tackle relief term protect doctor lend limit ceiling fee";
+var mnemonic = "jewel song clinic option finish ocean crucial swarm bless depth stool place";

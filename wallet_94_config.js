@@ -1,1 +1,1 @@
-var mnemonic = "life lady game region false dance chuckle vanish letter smooth feel source";
+var mnemonic = "truth roof tuition view online winter tuna bonus diesel protect crater analyst";

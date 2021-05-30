@@ -1,1 +1,1 @@
-var mnemonic = "people typical swing universe execute tattoo state face silver claim burden mix";
+var mnemonic = "bone ginger penalty spread artwork nest enforce useless fashion view runway organ";

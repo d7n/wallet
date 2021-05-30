@@ -1,1 +1,1 @@
-var mnemonic = "spin knock fabric stone object gravity tooth trophy angle arctic seek poet";
+var mnemonic = "ridge hawk dizzy muscle age dumb during angle diesel clump elbow toast";

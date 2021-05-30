@@ -1,1 +1,1 @@
-var mnemonic = "little put artwork image beef indoor blue weapon actor cube bamboo state";
+var mnemonic = "safe century illness acid silent tortoise board captain embark prosper donkey arrange";

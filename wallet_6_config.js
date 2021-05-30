@@ -1,1 +1,1 @@
-var mnemonic = "frozen where rule million bright sick leg draw type clarify pizza pudding";
+var mnemonic = "mango web debate minimum someone obvious track dust scorpion evidence staff system";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky check relief reveal dragon raise village aisle harsh chimney exhaust canoe";
+var mnemonic = "diet snake afraid ship scout spoon sunny target surface stay neglect bracket";

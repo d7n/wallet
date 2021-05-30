@@ -1,1 +1,1 @@
-var mnemonic = "busy canal what panel frown whisper impose swallow bounce soldier aim slow";
+var mnemonic = "buyer estate camera remember morning seven use slide trade draw local inform";

@@ -1,1 +1,1 @@
-var mnemonic = "market swallow purchase budget credit tennis orphan stuff where evidence sentence bullet";
+var mnemonic = "brush make inherit divorce settle layer portion stove reject gain wait bulk";

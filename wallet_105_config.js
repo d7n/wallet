@@ -1,1 +1,1 @@
-var mnemonic = "task fabric use catalog fatigue garment school hunt float strike foil fiber";
+var mnemonic = "move twice remove dilemma soccer similar utility glue polar bamboo camera aunt";

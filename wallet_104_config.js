@@ -1,1 +1,1 @@
-var mnemonic = "olive senior submit message company deliver ivory assist rally print pudding purse";
+var mnemonic = "salute cross situate word rely affair crouch caution kiss bean coffee embody";

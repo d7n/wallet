@@ -1,1 +1,1 @@
-var mnemonic = "slab act lumber reason talent east ten wash outdoor camera slam blossom";
+var mnemonic = "practice deliver couch target degree salmon rough govern quantum clean label any";

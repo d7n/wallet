@@ -1,1 +1,1 @@
-var mnemonic = "remove remove pledge valid hobby year uphold witness crouch romance shrug slab";
+var mnemonic = "gospel federal unlock leg exhaust today main aunt luxury rain rate label";

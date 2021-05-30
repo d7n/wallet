@@ -1,1 +1,1 @@
-var mnemonic = "hand gift suggest crucial purse option magic earth distance ignore roast valid";
+var mnemonic = "slam sail cart black cart elegant cable tongue round brand gather gift";

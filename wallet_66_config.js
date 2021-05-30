@@ -1,1 +1,1 @@
-var mnemonic = "again excite system oil cry glimpse uniform photo chicken tumble piece sugar";
+var mnemonic = "push ski hello dilemma frown congress lady convince puppy nominee athlete now";

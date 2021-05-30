@@ -1,1 +1,1 @@
-var mnemonic = "walnut weather ride gather later gas chuckle science suffer match canyon zone";
+var mnemonic = "discover opinion rich pioneer deer odor damage goose east reveal desert agree";

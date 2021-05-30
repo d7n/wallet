@@ -1,1 +1,1 @@
-var mnemonic = "find fabric paper wagon owner rifle elite dutch fortune endorse essay unfold";
+var mnemonic = "caught rib token awake pig choose similar vendor mountain draft zero brave";

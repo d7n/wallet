@@ -1,1 +1,1 @@
-var mnemonic = "smart rocket kitchen little dress victory song library head science border net";
+var mnemonic = "blur pelican evidence age before badge diet toy inject small main tuition";

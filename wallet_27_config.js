@@ -1,1 +1,1 @@
-var mnemonic = "picture hurry jungle trap flavor large when output scatter gospel brain crunch";
+var mnemonic = "script live strategy party year equal citizen monitor require topple scare donor";

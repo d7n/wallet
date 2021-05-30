@@ -1,1 +1,1 @@
-var mnemonic = "tide bone oil reflect mad cave girl board enlist imitate evoke until";
+var mnemonic = "again mansion check boy penalty summer differ eager best inspire balcony cinnamon";

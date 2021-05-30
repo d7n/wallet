@@ -1,1 +1,1 @@
-var mnemonic = "arrive august camp hand same wet enemy dash spin run junior blouse";
+var mnemonic = "valley next begin type tired drama seek deer solid prison castle dash";

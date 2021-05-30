@@ -1,1 +1,1 @@
-var mnemonic = "weasel equal move catch wedding jacket cricket knee cereal believe total unveil";
+var mnemonic = "icon again strike raven achieve amused entry various goat upon bright armor";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply pumpkin gorilla maid wedding wide imitate snap solution team note appear";
+var mnemonic = "prosper drastic pumpkin pen enroll dream tilt rapid deer eager permit unknown";

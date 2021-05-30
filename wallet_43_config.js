@@ -1,1 +1,1 @@
-var mnemonic = "brown emotion matrix lawsuit help slot worth license own trophy spin grass";
+var mnemonic = "walnut pony sugar punch toe saddle heavy pulp foam craft athlete detail";

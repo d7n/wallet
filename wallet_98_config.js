@@ -1,1 +1,1 @@
-var mnemonic = "fee wish arm advice spatial fault boat jacket carbon cluster icon poet";
+var mnemonic = "economy bench swap sample spring flat bridge kick champion afford toddler mad";

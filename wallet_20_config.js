@@ -1,1 +1,1 @@
-var mnemonic = "sudden derive bench swim picture join verb diet fire random vote engage";
+var mnemonic = "custom bright actress audit permit wash picture project select antenna patch pen";

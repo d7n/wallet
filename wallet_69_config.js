@@ -1,1 +1,1 @@
-var mnemonic = "devote shadow light damage crop job scissors kind truly state bubble lake";
+var mnemonic = "insect pink you rebuild vote name swim garage magnet success quarter cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "roast manage camp rebel diet spoil strong slab try ceiling hidden cup";
+var mnemonic = "field phone maximum scrub pair top hazard scare inside outdoor upper wise";

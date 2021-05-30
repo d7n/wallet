@@ -1,1 +1,1 @@
-var mnemonic = "pear bleak fatigue emotion sketch scissors lawn inch around grant orchard web";
+var mnemonic = "prevent refuse drop social throw farm rabbit permit usage captain ancient thing";

@@ -1,1 +1,1 @@
-var mnemonic = "typical census garbage beach sunny delay pact young cattle love wedding penalty";
+var mnemonic = "human belt clay canal unaware across maximum journey shaft staff canoe bottom";

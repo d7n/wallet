@@ -1,1 +1,1 @@
-var mnemonic = "change order lunar rain also story bright notable biology february play check";
+var mnemonic = "enjoy unveil one delay misery method episode increase milk family ill hamster";

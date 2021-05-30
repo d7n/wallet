@@ -1,1 +1,1 @@
-var mnemonic = "comfort devote phone inflict toss isolate amused cute doctor bread large saddle";
+var mnemonic = "inherit half elite soul vast wise bleak curious bread milk item before";

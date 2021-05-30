@@ -1,1 +1,1 @@
-var mnemonic = "reflect dirt egg drop poet release obey brass manage amused marriage empty";
+var mnemonic = "gloom bus butter message elevator side leave cash athlete water circle alarm";

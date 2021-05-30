@@ -1,1 +1,1 @@
-var mnemonic = "arctic moment wash erosion east staff huge room fix fence mean floor";
+var mnemonic = "light chuckle grocery social artwork enough topic rigid fit brain deny runway";

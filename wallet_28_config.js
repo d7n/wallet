@@ -1,1 +1,1 @@
-var mnemonic = "naive crouch outer cash country scheme imitate young one private security father";
+var mnemonic = "anchor awake modify potato entire magic nerve palm physical favorite outside illness";

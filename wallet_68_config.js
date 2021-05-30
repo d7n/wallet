@@ -1,1 +1,1 @@
-var mnemonic = "thank matter leisure august pole such great inquiry high team tip jaguar";
+var mnemonic = "purpose vote multiply wagon journey erosion net quick hotel rug symbol caught";

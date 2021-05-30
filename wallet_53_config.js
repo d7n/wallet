@@ -1,1 +1,1 @@
-var mnemonic = "strong squeeze today knife owner extend feel behind benefit limit radio jazz";
+var mnemonic = "odor hard squirrel bundle garlic affair bring bullet silk window chef clip";
