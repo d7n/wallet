@@ -1,1 +1,1 @@
-var mnemonic = "slow salad artist enhance hurdle squeeze junk nest twenty onion brief leave";
+var mnemonic = "fly minor until donor valve oval cliff prepare frequent rural orchard foil";

@@ -1,1 +1,1 @@
-var mnemonic = "session silver media eye match drive empty walnut invite guilt rabbit anxiety";
+var mnemonic = "hole regular medal spoon dance diamond admit person acid winner promote river";

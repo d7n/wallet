@@ -1,1 +1,1 @@
-var mnemonic = "sick rib random exist relax later humble endorse bunker sick wage gaze";
+var mnemonic = "later often doctor enable ripple traffic soap monkey flat upper one buffalo";

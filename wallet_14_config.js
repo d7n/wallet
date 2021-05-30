@@ -1,1 +1,1 @@
-var mnemonic = "improve usual kingdom motor more pair canoe pelican artefact couch indicate foster";
+var mnemonic = "win negative fix hamster water cave bread share produce neutral finger rocket";

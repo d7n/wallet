@@ -1,1 +1,1 @@
-var mnemonic = "fantasy similar program tonight power audit guide grace already busy gauge bike";
+var mnemonic = "zoo steel medal waste nerve around blue name ring betray turn pave";

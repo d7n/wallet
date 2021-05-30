@@ -1,1 +1,1 @@
-var mnemonic = "fruit into pulse reopen enlist young trial window win sting spoon tuna";
+var mnemonic = "about claw used roast unveil erosion lunch list grocery top donate solve";

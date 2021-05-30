@@ -1,1 +1,1 @@
-var mnemonic = "remove cave father long dash monitor merit glimpse execute fiction abuse object";
+var mnemonic = "emerge female travel hamster syrup uncover grief sibling junior country brush fee";

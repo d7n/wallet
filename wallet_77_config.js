@@ -1,1 +1,1 @@
-var mnemonic = "actress cram razor nerve cave cotton clown sea suit cereal disorder work";
+var mnemonic = "solution pull cat slush hero cover tiger trade cheese tail rug strike";

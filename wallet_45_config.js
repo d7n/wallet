@@ -1,1 +1,1 @@
-var mnemonic = "surface print fiction spread negative rival goat around duck focus awake device";
+var mnemonic = "milk fun mail section explain rack viable mix mad umbrella guitar noble";

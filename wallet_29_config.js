@@ -1,1 +1,1 @@
-var mnemonic = "north feature afford ride drive spread dance zoo camp sugar ghost void";
+var mnemonic = "behave almost jazz catalog add summer pill echo laundry cave renew address";

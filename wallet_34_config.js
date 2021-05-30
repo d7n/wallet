@@ -1,1 +1,1 @@
-var mnemonic = "demand move dance crawl similar capable awake feel pact relief pizza habit";
+var mnemonic = "clutch trap body leave leaf office cloud guess hurry fancy obscure father";

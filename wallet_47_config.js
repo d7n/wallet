@@ -1,1 +1,1 @@
-var mnemonic = "blue cycle hint tiger cost club olive furnace main breeze perfect clay";
+var mnemonic = "marriage treat example awesome route celery embark donkey chef people minute code";

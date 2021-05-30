@@ -1,1 +1,1 @@
-var mnemonic = "fade battle poverty chase awake exist predict offer royal monster chief potato";
+var mnemonic = "kid miracle toe type nose luggage stable adjust safe gorilla cook bleak";

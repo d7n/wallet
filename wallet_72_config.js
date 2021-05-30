@@ -1,1 +1,1 @@
-var mnemonic = "floor damp disagree caution buffalo upon disorder short derive surface suspect couch";
+var mnemonic = "tray glad snap argue toddler mutual inmate luxury region skirt denial copper";

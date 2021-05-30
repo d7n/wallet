@@ -1,1 +1,1 @@
-var mnemonic = "bright monster review birth unfair jealous orphan desert gallery aware raw ten";
+var mnemonic = "artefact craft honey eight antenna believe enemy enroll vicious weather indicate chapter";

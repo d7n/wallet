@@ -1,1 +1,1 @@
-var mnemonic = "senior trap dinner family oval pudding dish crawl review head stage garlic";
+var mnemonic = "second retreat hawk advance check pudding festival parrot kiss globe photo bike";

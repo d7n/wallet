@@ -1,1 +1,1 @@
-var mnemonic = "neck equal north mercy control mimic alter purpose either mix wire cloud";
+var mnemonic = "ability summer boost surge hill neck agent enter taxi door advance immune";

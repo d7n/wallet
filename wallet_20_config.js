@@ -1,1 +1,1 @@
-var mnemonic = "divert breeze cross glance urge success wool fan churn wall island confirm";
+var mnemonic = "wall gain secret stay stable enough hope seminar bless verb orient wrong";

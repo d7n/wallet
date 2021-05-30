@@ -1,1 +1,1 @@
-var mnemonic = "hospital year noise lab hood orphan solar appear earn blade tumble paper";
+var mnemonic = "famous outer chuckle have issue amount announce enhance cherry remember second ship";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve unfair day visa early firm blade people light hour electric width";
+var mnemonic = "youth orient fat neither hockey spatial disorder grant crumble matter weekend tired";

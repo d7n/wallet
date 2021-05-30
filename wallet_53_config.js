@@ -1,1 +1,1 @@
-var mnemonic = "question federal time exist insane excess current gap license dust glove planet";
+var mnemonic = "protect disagree glass lunar rigid under soda smart siren sing decade door";

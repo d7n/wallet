@@ -1,1 +1,1 @@
-var mnemonic = "pledge pink horn life punch still tag plug embrace wall demand switch";
+var mnemonic = "rail make decide lottery hill issue ski believe decade pen alert color";

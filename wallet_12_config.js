@@ -1,1 +1,1 @@
-var mnemonic = "dignity bus caught motion cheese team inflict history snack often piano pact";
+var mnemonic = "brief title torch state kit step enter process close fox assault deer";

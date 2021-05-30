@@ -1,1 +1,1 @@
-var mnemonic = "guess nephew crunch birth chair drastic genius parrot awake loan nothing slim";
+var mnemonic = "monkey pause sell lecture farm act strong lock animal identify network onion";

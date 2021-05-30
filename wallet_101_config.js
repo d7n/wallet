@@ -1,1 +1,1 @@
-var mnemonic = "slab used wife struggle wrist chunk acquire erode town swear token obey";
+var mnemonic = "canvas still mom evolve have magnet garbage half virtual cancel shiver point";

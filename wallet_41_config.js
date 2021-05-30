@@ -1,1 +1,1 @@
-var mnemonic = "enrich pride chair pizza crater helmet swap series feature velvet deny donate";
+var mnemonic = "bring crowd verb gold forum supply crisp mom found over anchor intact";

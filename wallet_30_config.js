@@ -1,1 +1,1 @@
-var mnemonic = "volume lawsuit once wolf purse burst easily mix favorite scale upon apology";
+var mnemonic = "lobster sport aspect owner equip live relax happy craft mammal spin ensure";

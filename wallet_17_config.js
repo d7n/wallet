@@ -1,1 +1,1 @@
-var mnemonic = "remove access crash pupil garage sphere adjust woman march during pigeon hole";
+var mnemonic = "neither design shrimp ring bless purity relax faculty innocent fine differ flavor";

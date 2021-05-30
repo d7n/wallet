@@ -1,1 +1,1 @@
-var mnemonic = "legend jar curtain steak solution vital equal goddess pill slice blast upper";
+var mnemonic = "venue assume daring soap logic champion gentle museum link answer coyote helmet";

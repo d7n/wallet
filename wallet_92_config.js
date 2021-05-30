@@ -1,1 +1,1 @@
-var mnemonic = "reason clay sauce party sweet season escape squirrel please trash fly sauce";
+var mnemonic = "siege response clarify start hybrid awful spawn turn dry fame emerge olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "fame spend gallery atom assault version beauty hen remove dash spot forest";
+var mnemonic = "space tribe maximum cattle track you consider box engage drop normal furnace";

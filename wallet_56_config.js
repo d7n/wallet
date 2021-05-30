@@ -1,1 +1,1 @@
-var mnemonic = "monkey lady click develop weather cave plug version noble earth huge sword";
+var mnemonic = "fruit diesel lumber arena prevent skin soup little surround call panel twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "fall weird undo come north trend blind cage ecology saddle fog legend";
+var mnemonic = "oval then utility display memory tumble sample obvious erase stomach tackle female";

@@ -1,1 +1,1 @@
-var mnemonic = "canal same exhaust trim area crash evolve scorpion idle aim usage leader";
+var mnemonic = "grit extra north note hobby sphere deer forget hollow doctor tired length";

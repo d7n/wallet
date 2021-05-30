@@ -1,1 +1,1 @@
-var mnemonic = "chicken just surprise round muscle cost fresh pitch fly flee fit attend";
+var mnemonic = "assist convince axis upon prefer such beyond wink claim boost hour trial";

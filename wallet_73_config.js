@@ -1,1 +1,1 @@
-var mnemonic = "decade section outdoor feed mango track rally fan tide erupt silly kit";
+var mnemonic = "rain nice resemble glad frog industry tape language series armed link keen";

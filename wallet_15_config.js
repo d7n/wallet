@@ -1,1 +1,1 @@
-var mnemonic = "van coil solve picnic choose sea awkward shrug patrol coconut first planet";
+var mnemonic = "soft corn faith document giant unable hurdle lend gasp dynamic theory heart";

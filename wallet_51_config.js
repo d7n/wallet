@@ -1,1 +1,1 @@
-var mnemonic = "melody awkward amateur catch empower awesome cash cotton doll bar ladder fog";
+var mnemonic = "maze lens wish start paper bonus ancient used planet noise pave away";

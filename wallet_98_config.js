@@ -1,1 +1,1 @@
-var mnemonic = "forest scheme wagon utility help pride swing patient surface ask reveal exist";
+var mnemonic = "clutch club doll nose canoe spray reveal describe gain require bronze auction";

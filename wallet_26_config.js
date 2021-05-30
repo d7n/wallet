@@ -1,1 +1,1 @@
-var mnemonic = "suspect express clutch client moment slice home south balcony relax canyon peanut";
+var mnemonic = "food weather slow perfect system girl weekend bachelor double under recall wash";

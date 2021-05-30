@@ -1,1 +1,1 @@
-var mnemonic = "service afraid census pulse clarify addict fault paddle cruise later dice cabbage";
+var mnemonic = "duck frog banana setup soon scheme great oven void duty differ bargain";

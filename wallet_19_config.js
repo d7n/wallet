@@ -1,1 +1,1 @@
-var mnemonic = "artefact basic sponsor excite manual prison aerobic oak van faint cost human";
+var mnemonic = "spy cream yellow gorilla sunset provide glow tortoise tomorrow grow inch provide";

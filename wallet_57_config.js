@@ -1,1 +1,1 @@
-var mnemonic = "movie soap borrow find saddle income mean water rigid tissue shaft ice";
+var mnemonic = "cherry female boost clever push device stick panel hold churn twenty rebel";

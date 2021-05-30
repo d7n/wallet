@@ -1,1 +1,1 @@
-var mnemonic = "jar bone shrimp annual dog hope evoke charge trim oil nasty usual";
+var mnemonic = "hotel easy nephew talk segment mix prosper aerobic scan midnight light output";

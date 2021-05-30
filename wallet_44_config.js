@@ -1,1 +1,1 @@
-var mnemonic = "volcano spoil around soldier anxiety van town hover layer marine become turn";
+var mnemonic = "cloth lady dice spider obvious tired phrase control crucial ketchup orient pond";

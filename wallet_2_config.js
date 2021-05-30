@@ -1,1 +1,1 @@
-var mnemonic = "moral hover oven anger unfold keen female genre trust bid decrease weather";
+var mnemonic = "job rare utility expand total year worth where stereo pair run wage";

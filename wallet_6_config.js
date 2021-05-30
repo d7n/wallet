@@ -1,1 +1,1 @@
-var mnemonic = "shuffle evoke depth wire river fury sketch sea avoid wealth what rule";
+var mnemonic = "ready math join throw retire short steel foam sausage grape toward solve";

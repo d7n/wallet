@@ -1,1 +1,1 @@
-var mnemonic = "display panda woman grace abstract hire guilt collect account behave shift wrist";
+var mnemonic = "park reason science theory indicate crew file key clump supreme guitar away";

@@ -1,1 +1,1 @@
-var mnemonic = "crack forum penalty bus kick dog great wink genuine marriage enrich actor";
+var mnemonic = "segment father wolf exhaust tortoise parrot remain argue enemy chaos attack gas";

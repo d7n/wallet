@@ -1,1 +1,1 @@
-var mnemonic = "field left bid people saddle plunge phrase route inner analyst useless explain";
+var mnemonic = "crack hurdle beach mosquito just demise vibrant manual funny ring rich receive";

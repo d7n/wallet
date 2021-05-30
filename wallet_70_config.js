@@ -1,1 +1,1 @@
-var mnemonic = "upgrade horse eternal churn wedding velvet faith elite subway express blue during";
+var mnemonic = "same vicious carry joke argue jazz rally soon ankle charge airport bridge";

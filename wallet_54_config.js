@@ -1,1 +1,1 @@
-var mnemonic = "injury pizza welcome shallow casino toilet victory wash tail area capital oval";
+var mnemonic = "museum core cabbage become alley mask jar wear ivory bracket poverty issue";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss moral problem double worth exhibit tilt submit stamp before tornado report";
+var mnemonic = "earn casino empower surface business divide burden recipe dinner trouble present rally";

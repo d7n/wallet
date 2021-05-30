@@ -1,1 +1,1 @@
-var mnemonic = "survey nuclear dutch broccoli peace jazz sick cram robust repair omit embark";
+var mnemonic = "have sorry brother adapt citizen slam spare alley page beyond era twelve";

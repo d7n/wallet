@@ -1,1 +1,1 @@
-var mnemonic = "later outside excess virtual cycle know upper come grace school regret west";
+var mnemonic = "anxiety stand hen typical decide claw fashion split topic render hockey stable";

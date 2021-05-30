@@ -1,1 +1,1 @@
-var mnemonic = "south holiday plate knee child brick output swing cliff hedgehog hawk vault";
+var mnemonic = "raven proof glare corn lizard edit trust word truly clump history seven";

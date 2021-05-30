@@ -1,1 +1,1 @@
-var mnemonic = "gate book ceiling bring spike cactus head acid illegal barely yellow lend";
+var mnemonic = "second extend senior crumble route flat neglect twenty rival ice narrow wolf";

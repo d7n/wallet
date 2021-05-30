@@ -1,1 +1,1 @@
-var mnemonic = "tooth lonely pledge scare risk review zoo soda fan decorate ill erupt";
+var mnemonic = "throw coffee circle palm trouble excuse claw demise accuse delay dawn diet";

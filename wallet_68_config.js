@@ -1,1 +1,1 @@
-var mnemonic = "fish balcony biology fortune push iron image keep flavor athlete blame any";
+var mnemonic = "boss park deliver snap link income romance bundle globe shop weapon loan";

@@ -1,1 +1,1 @@
-var mnemonic = "seven release brass enact sing consider matter usage connect laugh gravity laugh";
+var mnemonic = "scene diary update never disorder fog wide teach clay engine hole zoo";

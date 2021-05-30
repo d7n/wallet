@@ -1,1 +1,1 @@
-var mnemonic = "divorce only april craft cigar drama crater lizard polar bird glory judge";
+var mnemonic = "still gap business trick fog mushroom evil shop diary boring elegant discover";

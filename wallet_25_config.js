@@ -1,1 +1,1 @@
-var mnemonic = "happy zero ankle shaft police glove double submit clap potato ocean danger";
+var mnemonic = "alpha library fossil purpose address drift anxiety drum trim south pluck stadium";

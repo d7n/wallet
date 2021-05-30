@@ -1,1 +1,1 @@
-var mnemonic = "monitor lunch law bachelor more deal shallow maple garage time accuse stumble";
+var mnemonic = "visit ride stay idea goose post scan sell episode tube cloud head";

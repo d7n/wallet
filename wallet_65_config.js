@@ -1,1 +1,1 @@
-var mnemonic = "message wide carpet cart expand tube nothing famous sugar amount cave media";
+var mnemonic = "rally rate sausage refuse famous warfare bridge wheat divert act camera member";

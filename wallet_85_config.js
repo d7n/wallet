@@ -1,1 +1,1 @@
-var mnemonic = "exotic usage vibrant industry very garbage best estate copy cable curtain blouse";
+var mnemonic = "renew spray company sketch badge electric battle normal brisk learn ramp neither";

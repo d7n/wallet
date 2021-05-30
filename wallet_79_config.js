@@ -1,1 +1,1 @@
-var mnemonic = "style clay wheel festival mystery beyond verify stool sauce only crime neutral";
+var mnemonic = "equip exclude churn zero menu world sign wreck flee dentist enact defy";

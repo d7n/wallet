@@ -1,1 +1,1 @@
-var mnemonic = "reflect gallery credit certain annual budget they antique among vacant tail team";
+var mnemonic = "prefer crawl bid elegant maple stadium squirrel cruise exhibit dolphin cabbage biology";

@@ -1,1 +1,1 @@
-var mnemonic = "brown simple sketch gasp owner gather crime flat cradle seven devote bomb";
+var mnemonic = "wave accuse rate spare smooth surge possible pill work room tone sample";

@@ -1,1 +1,1 @@
-var mnemonic = "apart recycle sad glory same globe vast extend patrol fabric panther type";
+var mnemonic = "night cement vacuum abuse one element shine live net discover hundred focus";

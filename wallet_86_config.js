@@ -1,1 +1,1 @@
-var mnemonic = "debate item segment glue slice practice cement journey relief stool thumb strong";
+var mnemonic = "learn flavor someone notice peanut nephew arrow way tool nuclear fit access";

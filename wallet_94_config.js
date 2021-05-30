@@ -1,1 +1,1 @@
-var mnemonic = "bulk lunar peanut energy donate quarter anchor noble acid enforce script dragon";
+var mnemonic = "polar remain lunar derive language inflict tattoo perfect narrow turn sport ecology";

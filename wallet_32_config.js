@@ -1,1 +1,1 @@
-var mnemonic = "actress manual crime damage crack concert wall become usual photo evil mistake";
+var mnemonic = "urge acquire journey scatter loan kidney together breeze ticket speak famous label";

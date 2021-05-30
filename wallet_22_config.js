@@ -1,1 +1,1 @@
-var mnemonic = "swamp gather rotate mix great broken rude sea smoke siege sibling key";
+var mnemonic = "prevent sad excite differ exchange anchor afford diamond task craft also stick";

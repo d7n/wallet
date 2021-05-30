@@ -1,1 +1,1 @@
-var mnemonic = "nuclear planet sell media hospital media wrist phrase off eyebrow much opera";
+var mnemonic = "trigger unable differ balcony argue judge unique chuckle rack taste pen pioneer";

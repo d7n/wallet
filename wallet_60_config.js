@@ -1,1 +1,1 @@
-var mnemonic = "vote citizen follow absent evil sponsor tree rule robot elevator oyster enforce";
+var mnemonic = "matter zoo educate fall immense inspire leg tree act arrange system wet";

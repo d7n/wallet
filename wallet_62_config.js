@@ -1,1 +1,1 @@
-var mnemonic = "fabric sense gift six confirm elbow put nature empty rookie write volcano";
+var mnemonic = "physical chef friend dismiss wink pledge purse assume beef double badge loop";

@@ -1,1 +1,1 @@
-var mnemonic = "review step hill barely amateur infant chimney youth dry butter prison dragon";
+var mnemonic = "fox keen muscle above fury attitude permit network receive later enough two";

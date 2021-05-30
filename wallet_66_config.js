@@ -1,1 +1,1 @@
-var mnemonic = "trim beyond curious inform country garbage easy truth globe layer federal lazy";
+var mnemonic = "giant social nation like limb square segment three member receive path chief";

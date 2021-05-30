@@ -1,1 +1,1 @@
-var mnemonic = "sing misery armor siren fortune hen fuel jacket joy buffalo garlic settle";
+var mnemonic = "spring cattle address weekend local mean dutch save match rib coast trigger";

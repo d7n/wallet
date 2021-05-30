@@ -1,1 +1,1 @@
-var mnemonic = "unaware intact happy crush involve firm tribe earn unlock extend tell middle";
+var mnemonic = "govern scout sand range cattle noise express hungry slot train goose dawn";

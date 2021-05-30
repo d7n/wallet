@@ -1,1 +1,1 @@
-var mnemonic = "ride tortoise fiscal wear occur accident coil spider arrow mom share gate";
+var mnemonic = "shiver pipe caution woman tuna expand equip focus melt explain element renew";

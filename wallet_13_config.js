@@ -1,1 +1,1 @@
-var mnemonic = "dragon dizzy work violin loyal enhance athlete buffalo improve furnace kingdom close";
+var mnemonic = "orchard atom dutch deposit clump ability hen luxury path syrup file want";

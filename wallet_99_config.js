@@ -1,1 +1,1 @@
-var mnemonic = "noble oven before donkey cook right plate veteran bean eager foam reopen";
+var mnemonic = "guard shift orange bread problem engage accuse rent verify immune steak injury";

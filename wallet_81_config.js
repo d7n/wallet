@@ -1,1 +1,1 @@
-var mnemonic = "duty shoulder once airport deliver hen question truly load mango tide pig";
+var mnemonic = "sniff undo over journey monitor photo task pulp strong junk payment swift";

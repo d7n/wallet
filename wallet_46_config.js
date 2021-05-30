@@ -1,1 +1,1 @@
-var mnemonic = "story talent bid scorpion dice page put wet corn verify donate flag";
+var mnemonic = "snow chase huge arctic broccoli repeat post outer enroll prepare army region";

@@ -1,1 +1,1 @@
-var mnemonic = "mom song runway turkey advice object holiday chase scheme ivory inherit crazy";
+var mnemonic = "pottery announce praise radio estate shrimp quote yard jelly cry auction blossom";

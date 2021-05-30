@@ -1,1 +1,1 @@
-var mnemonic = "impulse sure plug adapt disease list high top tissue tonight element priority";
+var mnemonic = "acquire vicious cave artwork normal elevator short topple brick female six absent";

@@ -1,1 +1,1 @@
-var mnemonic = "afford accuse between step olive bronze tennis run east empty genuine wish";
+var mnemonic = "state estate bicycle error diet witness melt strike kite valid diet ketchup";

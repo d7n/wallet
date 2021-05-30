@@ -1,1 +1,1 @@
-var mnemonic = "ankle doll bless output decline sample chair impulse stove style nephew dwarf";
+var mnemonic = "tunnel exercise next accuse wisdom grass open sudden film search cliff ill";

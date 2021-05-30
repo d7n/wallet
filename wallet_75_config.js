@@ -1,1 +1,1 @@
-var mnemonic = "blossom balcony glimpse wrong swarm toilet embody page maze network upgrade brisk";
+var mnemonic = "rack peasant great robust mammal correct chest panic vague expand father excuse";

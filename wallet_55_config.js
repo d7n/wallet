@@ -1,1 +1,1 @@
-var mnemonic = "shed layer retreat vocal grief uphold grab cash switch valid welcome true";
+var mnemonic = "track voyage enrich lazy danger catch eager hockey inflict slogan punch ozone";

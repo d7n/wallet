@@ -1,1 +1,1 @@
-var mnemonic = "much crush eagle drastic vicious snack aspect vocal advice promote deliver luxury";
+var mnemonic = "number sauce erosion found price olive scorpion wait smoke man basket write";
