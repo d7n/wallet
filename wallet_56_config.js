@@ -1,1 +1,1 @@
-var mnemonic = "again twelve fiber spend luxury snow virus finger horse people visit sting";
+var mnemonic = "crazy loyal beach nerve fade turn legal relax scene file load despair";

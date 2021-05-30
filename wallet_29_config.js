@@ -1,1 +1,1 @@
-var mnemonic = "best diagram scatter call myth permit rule sea day oak planet wave";
+var mnemonic = "town harvest celery element winner wrestle swift outer pudding gesture twin home";

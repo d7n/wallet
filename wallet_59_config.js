@@ -1,1 +1,1 @@
-var mnemonic = "feed wide member shed poem viable carpet addict legend burden flash dolphin";
+var mnemonic = "recipe left pioneer execute depend fashion original glow orange road luxury release";

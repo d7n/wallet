@@ -1,1 +1,1 @@
-var mnemonic = "cigar culture arrow huge parade rally matter useful impulse awake net enjoy";
+var mnemonic = "inner denial happy craft empower mesh harsh audit gasp danger repair rack";

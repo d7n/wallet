@@ -1,1 +1,1 @@
-var mnemonic = "eagle ticket fatigue legend color effort forward worry grid hobby beef road";
+var mnemonic = "deposit ice sadness tragic together drive below before sick tomato faint proud";

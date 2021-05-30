@@ -1,1 +1,1 @@
-var mnemonic = "verb youth silent absurd flip region indicate speak attract effort easily clown";
+var mnemonic = "grab board company apology action scale task volcano creek cheese exotic need";

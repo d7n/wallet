@@ -1,1 +1,1 @@
-var mnemonic = "duty believe balcony trial rally chest vacant pulse enrich winter apple easily";
+var mnemonic = "prevent weird van fortune opinion tumble diesel sorry merry inmate sweet extra";

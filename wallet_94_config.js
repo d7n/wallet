@@ -1,1 +1,1 @@
-var mnemonic = "castle spy outside picnic neck inhale confirm tobacco goat pig awkward search";
+var mnemonic = "comic nuclear foam write hip define vanish glass column funny body trim";

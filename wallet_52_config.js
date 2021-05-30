@@ -1,1 +1,1 @@
-var mnemonic = "thing beyond oval animal canoe bamboo rail door kite olympic velvet guilt";
+var mnemonic = "picnic tortoise edge start country twist design match busy example swear trust";

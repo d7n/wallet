@@ -1,1 +1,1 @@
-var mnemonic = "kick flight earth enjoy vague bridge motor joy rain leg fade unhappy";
+var mnemonic = "avoid tackle assault tribe estate junk define pass chapter snake proud crucial";

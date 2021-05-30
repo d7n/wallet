@@ -1,1 +1,1 @@
-var mnemonic = "ridge shoot buzz assist indicate famous hamster crystal oxygen antique giggle novel";
+var mnemonic = "tree grass bread dance bicycle claim spice galaxy wire damage crack buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "know wet explain seed carpet nut garlic also subway box myth glance";
+var mnemonic = "great credit fire force execute broken any purchase badge winter fringe fiction";

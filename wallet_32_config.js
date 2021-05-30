@@ -1,1 +1,1 @@
-var mnemonic = "lab spirit day kidney degree scrap change volume long rabbit hard busy";
+var mnemonic = "human orient law pet dolphin flee cat ask segment twice ginger enforce";

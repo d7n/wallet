@@ -1,1 +1,1 @@
-var mnemonic = "maze sadness wage tobacco bacon age brisk harsh problem visa damp decline";
+var mnemonic = "live tourist deposit deputy humble man item grunt govern salmon blind exit";

@@ -1,1 +1,1 @@
-var mnemonic = "moral soccer apple vacuum moment trial coast satisfy car denial exact wet";
+var mnemonic = "taxi gaze essence matrix mutual subject ordinary scissors toast nerve autumn kangaroo";

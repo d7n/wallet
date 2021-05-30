@@ -1,1 +1,1 @@
-var mnemonic = "shy thrive engage gun rice wise enroll clump concert grief step hockey";
+var mnemonic = "whisper unique scene obtain dream step family liar staff ship pupil scrub";

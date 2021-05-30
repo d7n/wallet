@@ -1,1 +1,1 @@
-var mnemonic = "page season run donor muscle input mobile math monitor silver any couple";
+var mnemonic = "duty present strike barely actor heart foam average scout lend peanut skull";

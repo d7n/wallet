@@ -1,1 +1,1 @@
-var mnemonic = "pond swear glory during legal garbage wonder infant animal card primary album";
+var mnemonic = "era intact disease usage bless good velvet peace happy useless invest squeeze";

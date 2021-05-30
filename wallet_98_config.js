@@ -1,1 +1,1 @@
-var mnemonic = "sock card forget bomb jelly discover walk segment type torch mask uncover";
+var mnemonic = "special notable food number alley field whisper gospel danger improve gadget lion";

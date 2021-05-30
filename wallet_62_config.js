@@ -1,1 +1,1 @@
-var mnemonic = "domain man thing warm upgrade jazz shine between capital any sister bronze";
+var mnemonic = "blush soldier foam cart pledge scene convince sibling punch spawn old category";

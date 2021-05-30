@@ -1,1 +1,1 @@
-var mnemonic = "license scout feed mind arch arrange phrase neutral enough grief genuine enjoy";
+var mnemonic = "differ game spring surprise yard hawk rail consider kitten piece tribe catalog";

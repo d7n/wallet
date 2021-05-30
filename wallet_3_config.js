@@ -1,1 +1,1 @@
-var mnemonic = "virtual degree fluid unhappy stool there north stove squeeze caught ribbon alcohol";
+var mnemonic = "forest dune burger invest cash iron latin focus citizen tomorrow pen lawn";

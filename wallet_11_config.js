@@ -1,1 +1,1 @@
-var mnemonic = "parade vacuum club hamster cement blue curious license cheese antique illness bright";
+var mnemonic = "expose attract junk plate old novel cram book cricket credit term resist";

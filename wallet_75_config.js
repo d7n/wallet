@@ -1,1 +1,1 @@
-var mnemonic = "theory current tomato loyal trophy final embrace client deliver evoke loan erosion";
+var mnemonic = "thunder suffer inspire young avocado seed clown satisfy feed spot crush potato";

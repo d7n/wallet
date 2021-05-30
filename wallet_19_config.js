@@ -1,1 +1,1 @@
-var mnemonic = "dish canyon very way absurd pumpkin inform history flag load mixed ring";
+var mnemonic = "aunt please cover glide lyrics awake trust arrive sorry toy laugh secret";

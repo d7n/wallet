@@ -1,1 +1,1 @@
-var mnemonic = "scout notice nothing into media scrub auction sleep jacket spirit bid trip";
+var mnemonic = "admit wait ball pool giant vanish sea wealth adapt tip brush captain";

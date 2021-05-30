@@ -1,1 +1,1 @@
-var mnemonic = "fine survey click ignore glad dial actress elephant disorder divert romance vintage";
+var mnemonic = "bitter combine humble ridge brick ice loyal iron allow fossil husband vicious";

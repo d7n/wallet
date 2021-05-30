@@ -1,1 +1,1 @@
-var mnemonic = "endorse flavor enhance evolve frown trip process inject security mind shock carbon";
+var mnemonic = "scissors this youth try couch lecture diary laundry depart estate ordinary pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "misery plate clinic random paddle gain buzz assault bamboo cheese glove very";
+var mnemonic = "topple dynamic image acquire system razor resource satisfy security force motor mimic";

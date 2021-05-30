@@ -1,1 +1,1 @@
-var mnemonic = "lyrics rack subject pizza smile tag home ready fold mass worth peace";
+var mnemonic = "second corn exile credit there flip december step write glass risk lawn";

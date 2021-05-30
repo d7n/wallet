@@ -1,1 +1,1 @@
-var mnemonic = "pig rebuild work civil piano release vague organ quarter force age jeans";
+var mnemonic = "cupboard giraffe slogan lobster first suit steak address bar outdoor eight final";

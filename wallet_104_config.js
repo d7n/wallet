@@ -1,1 +1,1 @@
-var mnemonic = "ripple shadow segment truth magnet enjoy envelope fiscal faith document wing math";
+var mnemonic = "guess surprise senior tree west long virtual soccer top cave shed worry";

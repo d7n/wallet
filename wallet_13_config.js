@@ -1,1 +1,1 @@
-var mnemonic = "imitate alcohol venture crane bargain kingdom city shiver resist wild debate define";
+var mnemonic = "hobby render nothing below flight allow invest write diagram final loan near";

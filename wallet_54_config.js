@@ -1,1 +1,1 @@
-var mnemonic = "tree job west cable arrange basic gown giggle tired pistol old craft";
+var mnemonic = "ball pet present festival life cram test dirt cloth shed wrestle coffee";

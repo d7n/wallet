@@ -1,1 +1,1 @@
-var mnemonic = "shoulder hundred assume child text barrel glance believe network enlist loyal scheme";
+var mnemonic = "fresh unknown multiply debris page oval sense reform damp online whisper risk";

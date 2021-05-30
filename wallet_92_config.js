@@ -1,1 +1,1 @@
-var mnemonic = "canvas fall mosquito pill record shove rate weasel guess farm tray domain";
+var mnemonic = "wedding horse neutral flavor false proof elder goose ostrich pill recall bulb";

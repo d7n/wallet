@@ -1,1 +1,1 @@
-var mnemonic = "author return mimic tumble broom short enlist bulb rare net session snow";
+var mnemonic = "program age now pitch finish coach scissors taxi nominee twist team admit";

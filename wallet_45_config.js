@@ -1,1 +1,1 @@
-var mnemonic = "erase step crawl cruise dog buddy joke hood ordinary predict foil table";
+var mnemonic = "crystal camera style kangaroo speak soon output team bullet warfare icon second";

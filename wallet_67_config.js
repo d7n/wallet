@@ -1,1 +1,1 @@
-var mnemonic = "elevator voice crash dumb paddle layer lift theory foster pave horn friend";
+var mnemonic = "can coast speak pond define judge accident depart truth machine describe verb";

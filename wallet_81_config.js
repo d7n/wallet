@@ -1,1 +1,1 @@
-var mnemonic = "belt play evil style earn vacuum radar trade leisure beach copy response";
+var mnemonic = "crazy cactus pet charge lawn lazy tired priority ankle screen escape chuckle";

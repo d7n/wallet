@@ -1,1 +1,1 @@
-var mnemonic = "gain husband cruise enable maid two reflect patch brush praise auction round";
+var mnemonic = "inform pledge kangaroo much youth crazy danger pluck owner fold rule source";

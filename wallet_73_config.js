@@ -1,1 +1,1 @@
-var mnemonic = "amount purchase want apple bacon hold real salon tragic seminar clean bring";
+var mnemonic = "place regular lecture crime minimum reflect truly logic grass federal minor wet";

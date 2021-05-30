@@ -1,1 +1,1 @@
-var mnemonic = "arena hundred atom select creek walk vast same rebel find blush artefact";
+var mnemonic = "second relief lift that fortune media space sponsor warfare digital minor goat";

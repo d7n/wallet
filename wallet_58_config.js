@@ -1,1 +1,1 @@
-var mnemonic = "monster awesome rude such always useful like debate hood seek limb enforce";
+var mnemonic = "suit tomorrow own fuel ivory fringe hard famous tissue pudding order theme";

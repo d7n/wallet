@@ -1,1 +1,1 @@
-var mnemonic = "model name live learn attend worth myth enough wisdom bitter boring solar";
+var mnemonic = "prize movie fly school turtle ahead curtain wife learn bleak winter brave";

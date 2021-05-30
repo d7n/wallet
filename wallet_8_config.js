@@ -1,1 +1,1 @@
-var mnemonic = "pond that sister human bright pyramid dose absent window crucial pipe ecology";
+var mnemonic = "sting race crouch large amateur window isolate hero present behave fantasy squirrel";

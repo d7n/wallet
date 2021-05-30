@@ -1,1 +1,1 @@
-var mnemonic = "marine sunset panic scan exit quick poem differ piece soft sense open";
+var mnemonic = "tip worth hollow abstract wear travel become uphold arrange resource broom antique";

@@ -1,1 +1,1 @@
-var mnemonic = "have cluster borrow debris shed gaze critic arrest normal problem genuine track";
+var mnemonic = "horse company alert bus gospel firm orange cat view session only auto";

@@ -1,1 +1,1 @@
-var mnemonic = "ill frown invite sphere strike goddess prepare long summer love puzzle ski";
+var mnemonic = "opera equal better basket member disorder bike weekend hen assume option tent";

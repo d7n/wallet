@@ -1,1 +1,1 @@
-var mnemonic = "urge small despair distance print verify copper aunt parent near olive bachelor";
+var mnemonic = "gold tube canoe brisk lens gallery bean smooth refuse foster seed alley";

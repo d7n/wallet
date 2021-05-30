@@ -1,1 +1,1 @@
-var mnemonic = "pair round canyon motion parrot monitor keen beef universe muscle cargo polar";
+var mnemonic = "calm relax runway winter crew tennis involve sponsor adult sketch capable bench";

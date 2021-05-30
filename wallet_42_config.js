@@ -1,1 +1,1 @@
-var mnemonic = "crater element stumble gloom aunt margin erosion romance woman human bullet poem";
+var mnemonic = "author narrow enemy better clown build clerk green student narrow bachelor swallow";

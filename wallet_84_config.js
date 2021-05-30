@@ -1,1 +1,1 @@
-var mnemonic = "alien remove runway slogan crawl glide autumn weather bubble comfort keep burger";
+var mnemonic = "health obey beach remove stuff garden require flat dune live pulse crouch";

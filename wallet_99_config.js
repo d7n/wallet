@@ -1,1 +1,1 @@
-var mnemonic = "begin inform ask upset stock evil note job attract sorry answer property";
+var mnemonic = "river observe tide topple wait domain picnic rib velvet summer isolate warrior";

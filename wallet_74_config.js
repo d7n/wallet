@@ -1,1 +1,1 @@
-var mnemonic = "leaf debris hen wasp memory super spike loan museum curious alcohol what";
+var mnemonic = "purchase differ speed olive wise pigeon year wrong repair muffin roast knee";

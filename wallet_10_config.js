@@ -1,1 +1,1 @@
-var mnemonic = "session audit dawn autumn dumb ensure media robust category goose disagree oil";
+var mnemonic = "blouse regret jungle wine throw high divide bounce note grant worry marine";

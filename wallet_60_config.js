@@ -1,1 +1,1 @@
-var mnemonic = "lizard destroy position blur obscure insect enrich senior rug pause series retire";
+var mnemonic = "have horn truth market about retreat easy avoid swear observe interest person";

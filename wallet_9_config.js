@@ -1,1 +1,1 @@
-var mnemonic = "solar network snow marine talent state market wait food end enroll vintage";
+var mnemonic = "close nerve legal amazing matrix frequent invite frozen mechanic end health sense";

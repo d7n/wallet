@@ -1,1 +1,1 @@
-var mnemonic = "pink chat mushroom follow worth awkward guide pizza drop pass six usual";
+var mnemonic = "start sting tower august apple buzz rate make frequent submit predict man";

@@ -1,1 +1,1 @@
-var mnemonic = "glove mixture opera off border student hurdle trumpet smoke sniff visa mystery";
+var mnemonic = "powder vehicle wish retire village surprise permit round rough coral smart proud";

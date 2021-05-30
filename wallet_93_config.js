@@ -1,1 +1,1 @@
-var mnemonic = "pink trip liberty ridge chronic sorry student defy punch near under slab";
+var mnemonic = "profit order marble slow agent marble purse program arrow amused vast tent";

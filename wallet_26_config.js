@@ -1,1 +1,1 @@
-var mnemonic = "mule office enhance stock sail range final arch neglect identify knock blind";
+var mnemonic = "increase hurry gentle size dizzy issue zebra turkey leave brick walnut glimpse";

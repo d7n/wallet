@@ -1,1 +1,1 @@
-var mnemonic = "grid dice sweet link wasp private repeat foam quick dismiss strategy fresh";
+var mnemonic = "execute first exile ring nuclear dove affair rival whisper blood hour arm";

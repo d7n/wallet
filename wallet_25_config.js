@@ -1,1 +1,1 @@
-var mnemonic = "response achieve sun unit simple crash satoshi main gaze civil ramp balance";
+var mnemonic = "dwarf bomb visa volcano mango oxygen process assume member income track silk";

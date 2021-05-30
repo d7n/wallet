@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rare pond forget rain polar toward retire access group bundle correct";
+var mnemonic = "grid give student ritual spend crowd purity nominee call chunk void method";

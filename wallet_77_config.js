@@ -1,1 +1,1 @@
-var mnemonic = "toy pipe meadow curious ghost shoe behave cupboard tower talent between tackle";
+var mnemonic = "pond august arrow maximum uncle cruel file jewel silk reason utility ring";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic update table kiss barrel fashion when jazz frost lawsuit gym anxiety";
+var mnemonic = "local three vacant satoshi cannon slogan infant belt cheese margin say hen";

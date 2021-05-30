@@ -1,1 +1,1 @@
-var mnemonic = "vital sport noise upset glare jungle twin close stand daughter acoustic output";
+var mnemonic = "minimum cross decorate muscle vintage essay fence grow stairs wrist express reward";

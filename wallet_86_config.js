@@ -1,1 +1,1 @@
-var mnemonic = "gate detail recipe face asset student final festival author cliff such boy";
+var mnemonic = "leaf once letter finish easily print subway tide prison keep sunset pumpkin";

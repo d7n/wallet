@@ -1,1 +1,1 @@
-var mnemonic = "bring girl thing slush broccoli ocean wreck place quality donate cherry annual";
+var mnemonic = "degree peace battle library speed about badge frost kiss author husband cruise";

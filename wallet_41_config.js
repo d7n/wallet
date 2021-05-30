@@ -1,1 +1,1 @@
-var mnemonic = "crawl library phrase valid mass slow wide barely cat ostrich medal control";
+var mnemonic = "power bounce mesh expand replace brand dog pigeon extend sister relax wild";

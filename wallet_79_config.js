@@ -1,1 +1,1 @@
-var mnemonic = "nurse grab kid another salon square icon say detect toast script awake";
+var mnemonic = "below mixture scout network embody infant diamond flag cube polar achieve coach";

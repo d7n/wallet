@@ -1,1 +1,1 @@
-var mnemonic = "pool able canvas junk jaguar someone head resist palace nature tuition fever";
+var mnemonic = "glove athlete hope home assist crumble motor speed beef size essence cry";

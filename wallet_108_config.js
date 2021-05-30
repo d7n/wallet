@@ -1,1 +1,1 @@
-var mnemonic = "void velvet enemy someone keep collect beach struggle win attitude soccer canoe";
+var mnemonic = "mystery donate pottery eye limit truth damp truck dinner resource trip shop";

@@ -1,1 +1,1 @@
-var mnemonic = "rich valve human eight occur affair join sauce man prosper spoil quality";
+var mnemonic = "artefact autumn asthma off hint issue around loud detail need extra lens";

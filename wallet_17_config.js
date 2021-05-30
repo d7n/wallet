@@ -1,1 +1,1 @@
-var mnemonic = "juice glass lock travel tail garment oak wing magic traffic announce humor";
+var mnemonic = "advance federal plastic win inmate hunt finish trip jar motion dilemma tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "main find display chaos wire drama cluster credit wagon aerobic ginger donate";
+var mnemonic = "sun captain course bridge fantasy fiscal picture famous want demise present country";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum exact together spy card breeze stumble absorb fade lens denial rubber";
+var mnemonic = "limit decrease burden lab crowd cheese lyrics payment view speak mail tray";

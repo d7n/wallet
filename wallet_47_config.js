@@ -1,1 +1,1 @@
-var mnemonic = "gentle fine fetch aisle tooth offer there cage galaxy arrest dolphin offer";
+var mnemonic = "parent tell very convince deer wrist panther benefit animal skirt wait ribbon";

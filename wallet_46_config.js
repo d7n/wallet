@@ -1,1 +1,1 @@
-var mnemonic = "peanut weekend chronic program casual shock mercy pink miracle stay hat usage";
+var mnemonic = "strong envelope try lunch embody ignore hen wheat swim express swarm doll";

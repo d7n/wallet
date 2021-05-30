@@ -1,1 +1,1 @@
-var mnemonic = "decorate elegant blush pink expire task armed style palace cycle month skate";
+var mnemonic = "frequent fruit evolve fence remove crop curious inhale into bargain thrive autumn";

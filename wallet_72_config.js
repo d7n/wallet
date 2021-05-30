@@ -1,1 +1,1 @@
-var mnemonic = "strong rookie world meat reveal empty spatial depth tool clarify you void";
+var mnemonic = "series famous warfare drill extend tilt inquiry talk shy list stay glare";

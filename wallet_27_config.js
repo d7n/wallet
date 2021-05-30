@@ -1,1 +1,1 @@
-var mnemonic = "nature include roof gasp assume comic sign seven before effort giggle control";
+var mnemonic = "brass define track target slam social today blanket syrup estate donate oak";

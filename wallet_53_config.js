@@ -1,1 +1,1 @@
-var mnemonic = "matter caught few enable shallow advice noble quarter blue produce obscure urban";
+var mnemonic = "fly remain memory humor alert dynamic coast enroll toe wedding guide betray";
