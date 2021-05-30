@@ -1,1 +1,1 @@
-var mnemonic = "shuffle clarify setup load model feature wool token dog attack blouse despair";
+var mnemonic = "check vast dumb toward mercy item grunt journey possible discover capable between";

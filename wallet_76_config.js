@@ -1,1 +1,1 @@
-var mnemonic = "entire illness timber intact veteran rural dust obvious chronic cattle hazard hole";
+var mnemonic = "hood paper toilet cluster salmon half later echo scorpion sunny library ostrich";

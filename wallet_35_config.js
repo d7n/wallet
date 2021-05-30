@@ -1,1 +1,1 @@
-var mnemonic = "add camera shoe maze capable lazy weasel omit pact gasp fitness private";
+var mnemonic = "fashion science fall edit slow stove thing suspect quantum win demise certain";

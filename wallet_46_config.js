@@ -1,1 +1,1 @@
-var mnemonic = "asset permit sock patient glance draw spatial knock grunt cricket canyon spatial";
+var mnemonic = "alcohol audit now account final market drive mail axis rifle rack surprise";

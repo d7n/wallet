@@ -1,1 +1,1 @@
-var mnemonic = "audit margin more senior diary luxury creek become aim merry panda ginger";
+var mnemonic = "place click try hire advance school artefact fox just harsh frequent desert";

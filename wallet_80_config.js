@@ -1,1 +1,1 @@
-var mnemonic = "grass useless sustain elevator antenna despair sister height version scare cloud pottery";
+var mnemonic = "violin planet weird cigar husband control property merry sign zone wash protect";

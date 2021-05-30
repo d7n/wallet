@@ -1,1 +1,1 @@
-var mnemonic = "token exercise right legal radio olive modify normal stable tide dignity wife";
+var mnemonic = "cook walk scare unusual remove poem popular please ranch animal hub junior";

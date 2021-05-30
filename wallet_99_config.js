@@ -1,1 +1,1 @@
-var mnemonic = "found repair stay public future ghost bird jungle garbage orchard grape shallow";
+var mnemonic = "nasty nurse gun model foam company inner lecture able emotion clutch soccer";

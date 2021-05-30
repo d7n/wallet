@@ -1,1 +1,1 @@
-var mnemonic = "erupt shy stick frost coyote liberty frequent style holiday chief power always";
+var mnemonic = "punch clap breeze chuckle truly elegant play festival attitude carry victory rural";

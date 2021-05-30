@@ -1,1 +1,1 @@
-var mnemonic = "orchard always biology bacon leopard orient human diesel horse version edge tackle";
+var mnemonic = "eagle pizza bounce much normal resemble helmet cat crush faculty dizzy snap";

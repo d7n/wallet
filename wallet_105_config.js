@@ -1,1 +1,1 @@
-var mnemonic = "right cage grape right valley say cream champion style nuclear welcome quarter";
+var mnemonic = "glimpse burden marble vague gesture town version whip flavor wine essence acid";

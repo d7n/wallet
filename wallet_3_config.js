@@ -1,1 +1,1 @@
-var mnemonic = "because negative divert today adapt dawn park rhythm snack melody skill hawk";
+var mnemonic = "code home lonely wealth lottery pave reject twice note giant surround diet";

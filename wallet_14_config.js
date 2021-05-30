@@ -1,1 +1,1 @@
-var mnemonic = "improve gravity burger host impact leaf apology inspire armor valid worth scene";
+var mnemonic = "lucky response vibrant essence diamond police fitness brand impact hobby stadium local";

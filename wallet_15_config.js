@@ -1,1 +1,1 @@
-var mnemonic = "jeans scorpion spray oxygen correct system tuna impact wolf recycle license share";
+var mnemonic = "orient nature roof brown warrior deal axis position holiday order satisfy below";

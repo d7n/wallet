@@ -1,1 +1,1 @@
-var mnemonic = "vendor level envelope bring affair fog kangaroo world clip ready orbit piece";
+var mnemonic = "rapid net citizen invite spring extend divide case design diary client capital";

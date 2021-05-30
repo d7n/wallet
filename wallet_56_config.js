@@ -1,1 +1,1 @@
-var mnemonic = "suggest chase chef gather leisure boring stick buddy spoon gravity seat leopard";
+var mnemonic = "they subject inquiry fault earn peanut intact soda bind hedgehog forest gain";

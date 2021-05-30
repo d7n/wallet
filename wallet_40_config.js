@@ -1,1 +1,1 @@
-var mnemonic = "shrimp harbor gospel public ridge cattle share silent vanish once age negative";
+var mnemonic = "swap else frog hair napkin capital sick gain version grass matter buddy";

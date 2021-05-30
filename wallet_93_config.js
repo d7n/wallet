@@ -1,1 +1,1 @@
-var mnemonic = "bamboo edit pitch equal crazy correct forest sentence today column south patch";
+var mnemonic = "topple reduce proud chicken involve cargo repair eager fine neck trial tail";

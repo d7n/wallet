@@ -1,1 +1,1 @@
-var mnemonic = "marine victory visa divide comic joy road maximum motor turn tunnel service";
+var mnemonic = "near power loop arrange moment electric liquid step grape skirt album behave";

@@ -1,1 +1,1 @@
-var mnemonic = "soon brand hidden jungle female tube spatial fresh urge enter decrease blood";
+var mnemonic = "follow indicate velvet armor cake crew situate drum category cover upon episode";

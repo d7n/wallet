@@ -1,1 +1,1 @@
-var mnemonic = "speak crater nut slice wrong iron kiss minor entire wheat matter fee";
+var mnemonic = "inhale spray over type pyramid matrix warm claw grape chimney possible proof";

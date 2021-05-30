@@ -1,1 +1,1 @@
-var mnemonic = "file company lobster search glow winner radar essence noble found guess bright";
+var mnemonic = "series hope sniff visa upset clock consider bleak wash wise taxi digital";

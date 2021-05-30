@@ -1,1 +1,1 @@
-var mnemonic = "wheel spray exhaust cupboard garlic evil country police camp exact palm route";
+var mnemonic = "cousin major pioneer pair rhythm unfair smoke zebra model bean ridge witness";

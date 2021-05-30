@@ -1,1 +1,1 @@
-var mnemonic = "cabin ill say ability cream mountain erupt tomorrow nuclear noble abandon beef";
+var mnemonic = "outdoor oven slab bar cruise typical bulk canvas solve base survey cloth";

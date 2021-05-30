@@ -1,1 +1,1 @@
-var mnemonic = "sustain cross fly winter organ gown acoustic snack grant wagon snake evidence";
+var mnemonic = "amount civil hat state guilt play glance tackle address despair method whisper";

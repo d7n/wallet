@@ -1,1 +1,1 @@
-var mnemonic = "congress ecology stand phrase practice taste valve balcony squirrel human level forest";
+var mnemonic = "tragic under absorb easily ethics play various fame angle evolve fog just";

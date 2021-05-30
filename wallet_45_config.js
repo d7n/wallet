@@ -1,1 +1,1 @@
-var mnemonic = "segment multiply echo diamond favorite staff boss gain frame foot patient cricket";
+var mnemonic = "bar spirit they board ill salmon divert toy spring predict little demand";

@@ -1,1 +1,1 @@
-var mnemonic = "weather exotic tilt exhaust spend glass game hobby pluck harbor sure promote";
+var mnemonic = "fish kiss warm foot sick ripple talk steak gorilla ill age happy";

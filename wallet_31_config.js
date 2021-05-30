@@ -1,1 +1,1 @@
-var mnemonic = "pear wine return hero valid twenty exhibit wreck top degree maple outer";
+var mnemonic = "emotion solar type ticket width glory cousin gospel art umbrella sauce all";

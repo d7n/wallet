@@ -1,1 +1,1 @@
-var mnemonic = "until laundry auto million jacket sugar nominee stuff donate barrel lonely convince";
+var mnemonic = "legend frequent fashion capital carpet toddler maid feed rigid best phrase choice";

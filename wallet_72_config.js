@@ -1,1 +1,1 @@
-var mnemonic = "cry enrich flush anxiety warm monster turn shed sentence broken approve online";
+var mnemonic = "birth fog light try memory month whale comfort spin slice village success";

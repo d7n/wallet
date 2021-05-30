@@ -1,1 +1,1 @@
-var mnemonic = "tube usual prosper carpet loan board razor wonder sister welcome punch sign";
+var mnemonic = "frame rare ten cousin helmet oil awful govern stable fortune dad liar";

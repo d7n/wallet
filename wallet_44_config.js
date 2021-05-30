@@ -1,1 +1,1 @@
-var mnemonic = "finish when wink expose focus dizzy knife advice penalty blanket switch emerge";
+var mnemonic = "art paper donor kind soldier fee move enter goose monitor author legal";

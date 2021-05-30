@@ -1,1 +1,1 @@
-var mnemonic = "embody damage awkward pudding fiber purse canal kidney vital patch jacket juice";
+var mnemonic = "lizard dial evolve electric hedgehog miss purity stamp hollow this uncle biology";

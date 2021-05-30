@@ -1,1 +1,1 @@
-var mnemonic = "damp pudding fruit oyster trend twice peanut maid spare erupt odor cable";
+var mnemonic = "sight just bracket camp alert congress cricket victory oil priority marble genius";

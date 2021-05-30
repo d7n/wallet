@@ -1,1 +1,1 @@
-var mnemonic = "whip patch orbit maze bronze mixture lawn job weather price acoustic abstract";
+var mnemonic = "habit profit sense drama donkey step consider blouse moment maid miracle blast";

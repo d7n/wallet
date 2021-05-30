@@ -1,1 +1,1 @@
-var mnemonic = "extend junior journey test door bacon since young tongue whale hen elbow";
+var mnemonic = "swallow victory need shuffle original panel jeans model wire sunset seek ladder";

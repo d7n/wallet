@@ -1,1 +1,1 @@
-var mnemonic = "unique rail typical pluck typical gravity weather replace attack slot wasp clap";
+var mnemonic = "shine asthma mobile baby trap shadow tumble scissors ketchup disease review genius";

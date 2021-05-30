@@ -1,1 +1,1 @@
-var mnemonic = "night lottery lazy fitness wasp farm team put afraid miss post federal";
+var mnemonic = "vicious pizza gap device coin oyster deliver update remind problem switch stuff";

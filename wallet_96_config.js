@@ -1,1 +1,1 @@
-var mnemonic = "weird chase original birth strategy skate palace basket crack thrive shed online";
+var mnemonic = "lend forum cat dragon thunder laptop ignore sort fence climb verify tube";

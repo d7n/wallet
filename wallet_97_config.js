@@ -1,1 +1,1 @@
-var mnemonic = "lumber protect index use engage farm belt sure awake country walk valley";
+var mnemonic = "surround spider junior swallow ring define render bamboo sport zoo danger quote";

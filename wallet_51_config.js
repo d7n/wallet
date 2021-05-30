@@ -1,1 +1,1 @@
-var mnemonic = "garden door beach shadow immense raccoon intact immense foil mechanic wrist green";
+var mnemonic = "miss fault ritual universe fork cancel crop adjust tomorrow van cricket only";

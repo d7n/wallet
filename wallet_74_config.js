@@ -1,1 +1,1 @@
-var mnemonic = "trick energy pig visual cabin lion language special unlock fold body repair";
+var mnemonic = "empty afraid valve celery middle enjoy wheat hour tape long mansion exotic";

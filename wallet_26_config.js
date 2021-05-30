@@ -1,1 +1,1 @@
-var mnemonic = "board sniff grit erase valve win chronic plastic acquire link critic devote";
+var mnemonic = "tenant suggest medal woman federal smart sell orange gather outside proud effort";

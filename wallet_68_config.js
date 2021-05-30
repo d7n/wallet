@@ -1,1 +1,1 @@
-var mnemonic = "artist build soldier normal talent song furnace occur company night defy length";
+var mnemonic = "green talk poverty mixture lecture snake visa scissors deliver addict box zone";

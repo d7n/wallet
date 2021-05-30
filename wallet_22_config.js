@@ -1,1 +1,1 @@
-var mnemonic = "acoustic zoo follow knock flavor word cereal dizzy track long caution job";
+var mnemonic = "carbon field zoo name chalk until travel thing gather cereal alien fossil";

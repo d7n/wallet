@@ -1,1 +1,1 @@
-var mnemonic = "fragile hen view inhale base affair matrix income own promote betray knife";
+var mnemonic = "emotion jump danger lounge input pause theme flat utility couch parade crush";

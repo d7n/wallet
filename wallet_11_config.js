@@ -1,1 +1,1 @@
-var mnemonic = "donate police elite abuse shield custom zone feature code pistol patch addict";
+var mnemonic = "never road unique opinion stick year width speed asthma view brain frequent";

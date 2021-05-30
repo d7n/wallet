@@ -1,1 +1,1 @@
-var mnemonic = "space critic connect slab uphold elbow mixture shrimp video forum escape pluck";
+var mnemonic = "assume trash outer boring syrup broom now raw crash purchase angry dress";

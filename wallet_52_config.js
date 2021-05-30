@@ -1,1 +1,1 @@
-var mnemonic = "title mask husband height gorilla fee dust rookie galaxy taste arctic column";
+var mnemonic = "swallow awkward swarm announce ceiling file pool dumb carry frog cram tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "sure record document illness elbow front forward sting bicycle bone world fix";
+var mnemonic = "outside rich like diesel welcome evidence over enough neither near little plate";

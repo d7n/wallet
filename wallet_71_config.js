@@ -1,1 +1,1 @@
-var mnemonic = "man laundry receive mail arctic hurdle stuff doll know hero injury gentle";
+var mnemonic = "brisk novel initial match title pitch pattern post increase exile enact cinnamon";

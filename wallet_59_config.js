@@ -1,1 +1,1 @@
-var mnemonic = "grain chimney jar foil usual chase boring present throw flower arrow blade";
+var mnemonic = "cloth donor iron rude marriage practice category food limb panic film fatal";

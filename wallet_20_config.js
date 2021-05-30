@@ -1,1 +1,1 @@
-var mnemonic = "false reason tent oak confirm divorce what remind fit camp elder wide";
+var mnemonic = "session unit track post three fault pitch unfold army win health manual";

@@ -1,1 +1,1 @@
-var mnemonic = "way put dog settle audit response glove replace force churn script acquire";
+var mnemonic = "furnace ribbon test tube muscle actual legend review name pave treat spare";

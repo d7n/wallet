@@ -1,1 +1,1 @@
-var mnemonic = "master true flee begin toy dirt lawn dentist apart mango glow frog";
+var mnemonic = "cousin boring aim decline stage pudding tuna love circle baby funny meat";

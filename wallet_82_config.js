@@ -1,1 +1,1 @@
-var mnemonic = "erupt drama fitness crucial slam similar stick riot super timber lucky slam";
+var mnemonic = "napkin confirm fire major bulb paddle ankle slight life goose place abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "jar panel clip celery perfect oyster way web useless tenant valid save";
+var mnemonic = "cabin civil capital exhaust moral pull visa clip bench antique culture bright";

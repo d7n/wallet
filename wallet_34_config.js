@@ -1,1 +1,1 @@
-var mnemonic = "volume spin retire spice vacuum morning present visa lizard universe input sleep";
+var mnemonic = "bachelor praise quick rural copper dizzy school green engine inner gossip peace";

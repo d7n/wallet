@@ -1,1 +1,1 @@
-var mnemonic = "leaf hip critic reveal such lift reason reflect put fog ignore cheese";
+var mnemonic = "minor current faith horse refuse miss destroy dignity script humor sell dilemma";

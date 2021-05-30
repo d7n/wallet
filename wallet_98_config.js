@@ -1,1 +1,1 @@
-var mnemonic = "spare base element anger success sniff bone outer oblige fun bitter similar";
+var mnemonic = "six purpose dutch concert heavy tobacco helmet essay course pact myself cigar";

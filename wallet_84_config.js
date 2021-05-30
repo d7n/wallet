@@ -1,1 +1,1 @@
-var mnemonic = "digital certain flash valid have penalty rescue broccoli release ensure oyster away";
+var mnemonic = "expand autumn flash laundry alien before lobster syrup mosquito plastic minor ankle";

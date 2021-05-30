@@ -1,1 +1,1 @@
-var mnemonic = "calm wage risk truth excite coconut day found fog small rich anxiety";
+var mnemonic = "fire differ install city gossip law decide blossom maple clog calm nasty";

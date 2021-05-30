@@ -1,1 +1,1 @@
-var mnemonic = "sad win open liberty indicate surge tobacco teach always fault load bread";
+var mnemonic = "humor loud citizen twenty sorry chimney globe wheat vintage program actor grunt";

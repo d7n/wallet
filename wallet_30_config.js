@@ -1,1 +1,1 @@
-var mnemonic = "bus claw sugar lesson speak tobacco refuse topic eye when solve festival";
+var mnemonic = "poverty unhappy please copy write board type sight surge jewel angle science";

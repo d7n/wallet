@@ -1,1 +1,1 @@
-var mnemonic = "inherit bullet speak kitten accident antique stem world version buzz castle drop";
+var mnemonic = "blur rice embrace fame language modify capable shadow slim warrior cheap steel";

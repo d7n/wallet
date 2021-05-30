@@ -1,1 +1,1 @@
-var mnemonic = "fun true family skill reveal convince there engine brass ahead galaxy share";
+var mnemonic = "truth taste tennis limb unable vast awkward hood cloud stadium sign vault";

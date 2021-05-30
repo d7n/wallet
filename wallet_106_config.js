@@ -1,1 +1,1 @@
-var mnemonic = "inmate aspect blue horror imitate nation reopen talk slam promote kitten speak";
+var mnemonic = "lizard town build little cost rotate omit arrest march velvet ability solar";

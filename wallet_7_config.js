@@ -1,1 +1,1 @@
-var mnemonic = "couple absurd page time seat miracle corn pizza shaft force very argue";
+var mnemonic = "spread verify civil slot disagree real super season game medal idea man";

@@ -1,1 +1,1 @@
-var mnemonic = "club law other despair fragile glove pair start era dignity denial hazard";
+var mnemonic = "enemy travel west better shrimp sand age bitter brisk print steel dignity";

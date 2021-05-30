@@ -1,1 +1,1 @@
-var mnemonic = "palace code slim monster where current dutch prefer sadness camera grass now";
+var mnemonic = "diamond evolve off sense cruise flower word claim donate seven viable wise";

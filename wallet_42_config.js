@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dwarf symbol post snap obtain trigger rifle foster begin spray wedding";
+var mnemonic = "vote observe twelve amused prepare shell swamp stay quarter unaware often enroll";

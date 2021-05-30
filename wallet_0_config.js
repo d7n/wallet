@@ -1,1 +1,1 @@
-var mnemonic = "bubble damp flee comfort couch purse parent edge combine stock since hover";
+var mnemonic = "voice sheriff spin burger runway dream clutch ginger sell side panic robust";

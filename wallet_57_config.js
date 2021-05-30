@@ -1,1 +1,1 @@
-var mnemonic = "foil side youth symbol script zone raven rubber elevator amazing sunny unaware";
+var mnemonic = "dolphin trade wish warm rescue air silk choice lamp face poem gate";

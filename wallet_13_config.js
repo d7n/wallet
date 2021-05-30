@@ -1,1 +1,1 @@
-var mnemonic = "govern sister topic thing minimum next mix version net body mind guide";
+var mnemonic = "fuel reduce donor tilt level combine route mandate follow mechanic arch evoke";

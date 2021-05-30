@@ -1,1 +1,1 @@
-var mnemonic = "plate solid medal dish hotel cactus raw arrest repair fortune runway timber";
+var mnemonic = "burden duty appear floor comic beef trade aware latin peace kitten dizzy";

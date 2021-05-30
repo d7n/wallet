@@ -1,1 +1,1 @@
-var mnemonic = "run into harbor lend sight ethics lemon submit response asthma arrow return";
+var mnemonic = "stairs pulse silk educate decorate shrimp skirt security involve margin ugly ten";

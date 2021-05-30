@@ -1,1 +1,1 @@
-var mnemonic = "repeat boss moon dog sniff message welcome occur betray loud reject donkey";
+var mnemonic = "kingdom depth toss photo extra beef grunt valid together essay aerobic tattoo";

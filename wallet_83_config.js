@@ -1,1 +1,1 @@
-var mnemonic = "mountain online stairs cattle tilt hidden wrestle depart dumb fatal sunset extend";
+var mnemonic = "drop upset have magic economy secret one cabin away enlist type erupt";

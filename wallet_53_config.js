@@ -1,1 +1,1 @@
-var mnemonic = "ski duck box brain unhappy patch volcano mango quiz dream clever student";
+var mnemonic = "width invest toy rent emerge dress mad faint feed egg sting police";

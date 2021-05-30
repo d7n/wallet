@@ -1,1 +1,1 @@
-var mnemonic = "position gossip zebra gasp suspect burger green season spirit wine mountain exist";
+var mnemonic = "enter rabbit range stuff garbage forest inspire cabin stamp exit census advance";

@@ -1,1 +1,1 @@
-var mnemonic = "corn tool chimney hollow oxygen spell naive govern cruise typical reveal cradle";
+var mnemonic = "enter divert explain combine rice child museum apart float only pattern virtual";

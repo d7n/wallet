@@ -1,1 +1,1 @@
-var mnemonic = "another art produce that panther wing country arrive off impose town scene";
+var mnemonic = "glare firm dog shop snake latin lawn thrive universe air unfair super";

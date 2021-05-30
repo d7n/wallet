@@ -1,1 +1,1 @@
-var mnemonic = "public tape carbon swarm dragon update govern scorpion popular opera century blood";
+var mnemonic = "float erupt talent oven arm struggle simple blast feel exit exclude army";

@@ -1,1 +1,1 @@
-var mnemonic = "client pencil hole indicate close raw awake blade equal moment fold inside";
+var mnemonic = "mansion media venture major author fluid topple unhappy history tackle torch gas";

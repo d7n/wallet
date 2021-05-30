@@ -1,1 +1,1 @@
-var mnemonic = "maximum found until coyote peasant term under lecture mammal slot boy cinnamon";
+var mnemonic = "garment chalk student agent soap addict access banana error ozone lucky velvet";
