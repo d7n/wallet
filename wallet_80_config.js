@@ -1,1 +1,1 @@
-var mnemonic = "lucky genuine grief hazard layer flavor parrot false good diet never tide";
+var mnemonic = "frequent come romance flower mixed riot size spray occur tent pyramid resemble";

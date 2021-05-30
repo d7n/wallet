@@ -1,1 +1,1 @@
-var mnemonic = "muffin drastic scrub price panic save parent february walnut rhythm snap camp";
+var mnemonic = "park twelve weather opera brown glass shed camera poverty dumb vacant empty";

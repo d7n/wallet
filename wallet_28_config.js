@@ -1,1 +1,1 @@
-var mnemonic = "sugar lyrics ivory weapon street beach border escape smile pyramid north dash";
+var mnemonic = "cloth say quote cool outside tent market truck unique indoor romance orange";

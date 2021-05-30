@@ -1,1 +1,1 @@
-var mnemonic = "end resist private security off visit damage easily flat stand dynamic sunny";
+var mnemonic = "unhappy chunk hollow shy oval kid come assault income impose feed dove";

@@ -1,1 +1,1 @@
-var mnemonic = "orient disorder skull major holiday glad review float era above where panther";
+var mnemonic = "exist mechanic balance wise only convince resist orphan path length tissue region";

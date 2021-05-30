@@ -1,1 +1,1 @@
-var mnemonic = "vehicle junior top depth hole lend stamp liquid term select lottery canvas";
+var mnemonic = "intact sentence envelope escape cry seat affair embody stool assault foil father";

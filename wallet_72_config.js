@@ -1,1 +1,1 @@
-var mnemonic = "little require priority verify sail element basket pulse crack auto wear journey";
+var mnemonic = "avocado leader tobacco feature evidence amount female volcano mirror phone demise agent";

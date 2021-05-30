@@ -1,1 +1,1 @@
-var mnemonic = "purchase together skirt where image dream model print action trip pyramid layer";
+var mnemonic = "interest scale anxiety army tilt upset hard inherit rose wheat torch giraffe";

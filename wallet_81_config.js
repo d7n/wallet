@@ -1,1 +1,1 @@
-var mnemonic = "indoor legal direct silent drop century shrimp tongue state timber brass news";
+var mnemonic = "donate decrease weird pact push lamp argue engage ride ten mad kid";

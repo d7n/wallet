@@ -1,1 +1,1 @@
-var mnemonic = "fruit desert leg dress payment much segment pretty cross lobster grunt reopen";
+var mnemonic = "cram cost vote turkey inject chapter love game awake retreat lamp harsh";

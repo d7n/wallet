@@ -1,1 +1,1 @@
-var mnemonic = "tiger suggest float hotel miracle prepare basket group congress job cactus journey";
+var mnemonic = "shoe final banner eyebrow master practice depend remain open appear tower torch";

@@ -1,1 +1,1 @@
-var mnemonic = "defense view crush life scissors town toilet blade kiwi example opinion before";
+var mnemonic = "normal load chaos biology sort hold setup sunny lobster wonder suggest culture";

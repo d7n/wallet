@@ -1,1 +1,1 @@
-var mnemonic = "shield lawn position better birth chalk butter cricket upper estate today panda";
+var mnemonic = "human inject slender moral bus alter lonely program extra bomb rapid produce";

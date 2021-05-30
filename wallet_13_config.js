@@ -1,1 +1,1 @@
-var mnemonic = "tilt just edit pistol safe food drift rack kiwi veteran cotton truth";
+var mnemonic = "receive almost alpha peanut column donate quit prosper merge ignore window logic";

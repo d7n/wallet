@@ -1,1 +1,1 @@
-var mnemonic = "twenty rough bread medal across improve history social trial father caution diet";
+var mnemonic = "document say february limb rice pond short waste exact unfair health small";

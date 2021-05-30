@@ -1,1 +1,1 @@
-var mnemonic = "orange symptom reduce riot rather trumpet produce wool typical rebel code two";
+var mnemonic = "picture lab fence know wink chaos swallow rude split tomato matrix game";

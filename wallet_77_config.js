@@ -1,1 +1,1 @@
-var mnemonic = "shoot biology mirror hover fruit sign alarm expect raw estate wise celery";
+var mnemonic = "erase rural index visa stumble legal test galaxy symbol group check inner";

@@ -1,1 +1,1 @@
-var mnemonic = "glance opera joy praise icon country endorse relief arrive rude spatial strong";
+var mnemonic = "magnet original dolphin garage spin universe grace electric mango nation deputy autumn";

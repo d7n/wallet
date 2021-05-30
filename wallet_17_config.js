@@ -1,1 +1,1 @@
-var mnemonic = "fantasy erupt aspect learn spray vintage squeeze tenant behave maid city spatial";
+var mnemonic = "spot spot fancy bracket vague abuse rib soldier swap certain gym someone";

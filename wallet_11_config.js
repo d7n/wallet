@@ -1,1 +1,1 @@
-var mnemonic = "defense wear kick clerk desk dizzy jeans great gaze response wild torch";
+var mnemonic = "outdoor issue acoustic author banana aim jazz trouble pen design vibrant hamster";

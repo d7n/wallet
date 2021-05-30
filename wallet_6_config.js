@@ -1,1 +1,1 @@
-var mnemonic = "kind flight drum gesture cost exist noodle car orbit yard video dynamic";
+var mnemonic = "foster devote kick scare link clap oyster lemon harbor luxury mail debate";

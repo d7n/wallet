@@ -1,1 +1,1 @@
-var mnemonic = "civil final remind way foam board august early slush zoo raise hen";
+var mnemonic = "donor satisfy record orient demand hero pair soda custom sugar private boy";

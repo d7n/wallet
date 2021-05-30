@@ -1,1 +1,1 @@
-var mnemonic = "bamboo harvest prevent say oyster middle return inhale collect meat orange sand";
+var mnemonic = "squeeze boil enforce fabric ring year also steel more convince relax goddess";

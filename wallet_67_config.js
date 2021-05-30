@@ -1,1 +1,1 @@
-var mnemonic = "try fish meat blast occur patrol logic claim share merge ahead ritual";
+var mnemonic = "inside laptop hobby donate crane example now script hollow special brother fly";

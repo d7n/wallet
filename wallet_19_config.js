@@ -1,1 +1,1 @@
-var mnemonic = "scrub poverty rely tornado shadow explain gaze online now angle exhibit goddess";
+var mnemonic = "junior grass broccoli dolphin void range exile rug garment sight circle elder";

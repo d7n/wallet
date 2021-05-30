@@ -1,1 +1,1 @@
-var mnemonic = "access antenna topic mother board journey note drift wine achieve field claim";
+var mnemonic = "witness love gadget strategy develop distance inherit foam plastic sketch idle found";

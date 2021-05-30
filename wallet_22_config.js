@@ -1,1 +1,1 @@
-var mnemonic = "remain fly trigger leg start ensure sadness august lecture slab expect faith";
+var mnemonic = "bright rocket panic palm gaze guess exist ahead phone yellow voyage silver";

@@ -1,1 +1,1 @@
-var mnemonic = "work dwarf arctic arch exile evoke village panther shell session absorb ill";
+var mnemonic = "cluster unfair wool beach weapon cotton bachelor essay level elevator camp lonely";

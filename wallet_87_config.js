@@ -1,1 +1,1 @@
-var mnemonic = "card hair quote below tobacco comic point twenty bike blue anchor mix";
+var mnemonic = "clarify dance hint curve wave fury angle mammal doll chunk inside check";

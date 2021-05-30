@@ -1,1 +1,1 @@
-var mnemonic = "sell volume leave avocado orphan polar earth shaft sketch crystal route orphan";
+var mnemonic = "loyal robust miss reduce wine master spare chunk task boil usage tank";

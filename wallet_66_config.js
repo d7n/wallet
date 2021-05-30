@@ -1,1 +1,1 @@
-var mnemonic = "verify net unlock urge silk uphold area maple stereo choice security cancel";
+var mnemonic = "then dutch accident erase copper stand lucky blame pumpkin glare dolphin business";

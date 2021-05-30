@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow foam hotel opera pave render stairs turtle share mistake input report";
+var mnemonic = "subject soap junk crystal relax energy satisfy knee forum hurdle diamond there";

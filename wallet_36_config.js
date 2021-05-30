@@ -1,1 +1,1 @@
-var mnemonic = "crop tide napkin fatigue eager catch enhance screen estate nasty onion disorder";
+var mnemonic = "offer misery leopard aerobic put rifle now pull cube enhance amount embrace";

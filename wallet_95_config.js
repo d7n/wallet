@@ -1,1 +1,1 @@
-var mnemonic = "salt antique law sphere modify person empower credit outer total shop inform";
+var mnemonic = "mule stove submit amazing kiss devote soon panel air group source denial";

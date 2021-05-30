@@ -1,1 +1,1 @@
-var mnemonic = "reason drip laugh rotate vocal machine copy one fragile eager derive knee";
+var mnemonic = "purse allow park future torch endless fade pudding symptom truth series fever";

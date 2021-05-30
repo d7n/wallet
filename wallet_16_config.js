@@ -1,1 +1,1 @@
-var mnemonic = "hurry draft fire hammer ozone success brown lift choose slender nominee draft";
+var mnemonic = "book camera organ amazing hurry depart shed lounge glare obvious casino awake";

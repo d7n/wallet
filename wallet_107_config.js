@@ -1,1 +1,1 @@
-var mnemonic = "walnut agent addict control economy adult primary ethics vague olive arrest master";
+var mnemonic = "network cargo talent moon stumble jealous during broom mosquito couple maid evil";

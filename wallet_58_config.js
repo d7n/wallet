@@ -1,1 +1,1 @@
-var mnemonic = "panel crystal try zoo cousin favorite beauty jacket earth profit demise domain";
+var mnemonic = "final blouse beef soccer bottom autumn lounge awkward pool because lounge upgrade";

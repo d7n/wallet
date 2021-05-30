@@ -1,1 +1,1 @@
-var mnemonic = "opera october busy bachelor pair figure fox decide sketch glass valid ocean";
+var mnemonic = "mother rigid daring crew example patch call nephew replace index bring dog";

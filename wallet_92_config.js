@@ -1,1 +1,1 @@
-var mnemonic = "enact owner all round loop narrow insect census refuse adjust inch around";
+var mnemonic = "wisdom bicycle sniff worry print oblige urge marine brave chicken help birth";

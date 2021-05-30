@@ -1,1 +1,1 @@
-var mnemonic = "chimney educate diesel change sketch ready arrive aunt vocal enhance scout parrot";
+var mnemonic = "absent offer wall company inner toss bounce keep wrestle silver rare loyal";

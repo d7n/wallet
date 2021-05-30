@@ -1,1 +1,1 @@
-var mnemonic = "rebuild need caught soda wear thunder alien antenna era juice accuse cotton";
+var mnemonic = "movie unlock bargain tornado name sand predict run fashion garment walnut sibling";

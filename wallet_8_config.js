@@ -1,1 +1,1 @@
-var mnemonic = "green canyon round viable weapon pencil impulse actor fruit evil crunch base";
+var mnemonic = "wonder damage tent bind sea hover story estate lemon apology sure tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "raise address escape two humor disagree course obscure orphan usage process decide";
+var mnemonic = "reject february kitchen autumn rabbit special trash ahead silver chief december path";

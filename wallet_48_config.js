@@ -1,1 +1,1 @@
-var mnemonic = "winter supreme seed miracle chair donkey cement bus old educate share expect";
+var mnemonic = "cat gravity rain during proud original civil essay turkey fiber dune used";

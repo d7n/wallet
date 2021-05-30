@@ -1,1 +1,1 @@
-var mnemonic = "whisper mule mother belt melody love night nut utility sting hold admit";
+var mnemonic = "pluck airport argue retire pond lamp element trial skill athlete scorpion wheat";

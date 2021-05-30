@@ -1,1 +1,1 @@
-var mnemonic = "prosper grant ripple lecture brick night calm forward into hover rural health";
+var mnemonic = "please erosion fabric inquiry clog glory network unaware bullet refuse tip text";

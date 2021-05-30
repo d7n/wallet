@@ -1,1 +1,1 @@
-var mnemonic = "sure all stadium author soup jar provide brave evidence regret memory pole";
+var mnemonic = "banana episode rely absent problem prize column tent say swallow celery pride";

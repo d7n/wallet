@@ -1,1 +1,1 @@
-var mnemonic = "affair cargo snake term identify eagle staff peasant entry season airport stumble";
+var mnemonic = "jelly later laptop symptom dinner fortune physical animal broken whale song jelly";

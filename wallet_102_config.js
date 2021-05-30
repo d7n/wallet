@@ -1,1 +1,1 @@
-var mnemonic = "flee garbage transfer spice buffalo arrive sport solution dice outdoor rather country";
+var mnemonic = "stomach morning toddler degree safe aspect thunder palace meat actual violin snake";

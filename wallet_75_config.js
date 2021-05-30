@@ -1,1 +1,1 @@
-var mnemonic = "garment endorse smooth cave fork unveil offer sick youth maximum journey list";
+var mnemonic = "gain tip school choose oak army engine gospel blur noodle devote pioneer";

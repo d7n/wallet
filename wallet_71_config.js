@@ -1,1 +1,1 @@
-var mnemonic = "cement relief share champion cabin muffin slender cotton decide acoustic lens wolf";
+var mnemonic = "maple orbit east spike patient wrestle dumb pet practice shiver thunder often";

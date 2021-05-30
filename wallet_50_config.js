@@ -1,1 +1,1 @@
-var mnemonic = "result run sad laugh maze vintage mix empty head pool work core";
+var mnemonic = "siren fresh rent process leg hand profit funny update indicate sound hand";

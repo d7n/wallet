@@ -1,1 +1,1 @@
-var mnemonic = "stock cram during science virtual sock nice actress heavy miracle hidden knock";
+var mnemonic = "vacuum voice garbage great glare dream explain portion poem school ready lady";

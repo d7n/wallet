@@ -1,1 +1,1 @@
-var mnemonic = "company pole topic dinosaur merge guitar diagram pony maze remove shadow bunker";
+var mnemonic = "into doctor canal anxiety gravity civil scrub analyst glow crush vote math";

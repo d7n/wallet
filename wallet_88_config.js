@@ -1,1 +1,1 @@
-var mnemonic = "animal ghost subway case bean riot rate approve duty inform load piano";
+var mnemonic = "cash gate link wealth brain skate grab imitate lumber motion bundle trash";

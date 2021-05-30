@@ -1,1 +1,1 @@
-var mnemonic = "symptom credit turtle mind concert silk dose baby sword execute athlete light";
+var mnemonic = "nice steak couple travel capital size tiger slot amazing sand velvet check";

@@ -1,1 +1,1 @@
-var mnemonic = "attract casino curtain toward vault female coin decrease like perfect middle gadget";
+var mnemonic = "rapid toward rubber cream cave example fat give manual misery clip park";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk decide duty head broccoli bench left peanut glow awake review limb";
+var mnemonic = "air debate cave sick truly avoid seminar pair element mountain when cherry";

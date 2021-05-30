@@ -1,1 +1,1 @@
-var mnemonic = "devote into like final update metal advance hurry sound vault illness release";
+var mnemonic = "enhance zero acoustic sudden palm pepper pipe north orchard kiss iron question";

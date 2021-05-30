@@ -1,1 +1,1 @@
-var mnemonic = "detect manage glass capable help mosquito provide erode divert famous sound great";
+var mnemonic = "symbol multiply lava album gentle skin garment demise escape curious decade left";

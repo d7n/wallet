@@ -1,1 +1,1 @@
-var mnemonic = "perfect always found matter federal fall act nut trumpet crowd edit strike";
+var mnemonic = "leg relief pyramid sure visual leave business mistake hat leopard concert soft";

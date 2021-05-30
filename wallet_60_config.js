@@ -1,1 +1,1 @@
-var mnemonic = "measure glory universe kitten know visual lemon friend olive surge patient scatter";
+var mnemonic = "guard shadow wait pretty river mean ranch column van alcohol candy remember";

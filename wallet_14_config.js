@@ -1,1 +1,1 @@
-var mnemonic = "lonely foot civil theory ship town silver visit puppy lyrics clay deputy";
+var mnemonic = "fiber sign merry agree waste skate mind harbor shrimp youth consider ill";

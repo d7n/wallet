@@ -1,1 +1,1 @@
-var mnemonic = "bus during perfect place juice submit ill opera hockey spray vast grab";
+var mnemonic = "hen rhythm layer arctic sausage march pride voice term spray wave normal";

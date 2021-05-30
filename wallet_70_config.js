@@ -1,1 +1,1 @@
-var mnemonic = "transfer trust armed course joke laptop today road cherry stage worth sing";
+var mnemonic = "tornado carry limb bleak giraffe measure trim address chef dolphin company other";

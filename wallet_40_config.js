@@ -1,1 +1,1 @@
-var mnemonic = "rhythm chat auto history manual feel layer amateur fluid word slab vanish";
+var mnemonic = "famous hundred mother forest mask almost crowd grass pause dish sponsor inject";

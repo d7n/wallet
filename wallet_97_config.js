@@ -1,1 +1,1 @@
-var mnemonic = "reject also list harsh fury fruit wedding phone antenna phone element swear";
+var mnemonic = "vendor zoo repair cage toward view reward tower spawn trumpet lady accident";

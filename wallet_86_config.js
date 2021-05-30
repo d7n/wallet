@@ -1,1 +1,1 @@
-var mnemonic = "key such ocean mom must talent industry whip little moment object oval";
+var mnemonic = "fold nerve diary ozone wagon family excess canal custom wolf taste margin";

@@ -1,1 +1,1 @@
-var mnemonic = "viable kit slot wife fatigue where security render initial ugly chicken flower";
+var mnemonic = "lonely legend hobby card bulb document flush load jelly whisper tackle save";

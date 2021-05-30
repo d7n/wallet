@@ -1,1 +1,1 @@
-var mnemonic = "message journey forget coin moon old dance tumble risk solar shoot bright";
+var mnemonic = "client repeat divide pink lava spell border jungle garage cement pudding coconut";

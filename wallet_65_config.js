@@ -1,1 +1,1 @@
-var mnemonic = "hill dress siren interest host season normal crack pioneer wish never you";
+var mnemonic = "token crunch glove deliver match column ladder image dog inherit remove asset";

@@ -1,1 +1,1 @@
-var mnemonic = "wait merry coil need suffer digital please digital drop harsh trouble region";
+var mnemonic = "ready document aisle exit casual violin tissue clump spoon erase injury cloth";

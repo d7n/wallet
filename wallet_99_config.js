@@ -1,1 +1,1 @@
-var mnemonic = "today smile another pipe sand donor cradle seek tray portion struggle budget";
+var mnemonic = "pistol leopard universe panda people mother interest entry zero beyond roast grape";

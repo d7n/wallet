@@ -1,1 +1,1 @@
-var mnemonic = "gun rule small uncover mean story cloth during jump identify balcony sure";
+var mnemonic = "favorite bulk rain minimum kidney festival primary taste twenty neglect limit special";

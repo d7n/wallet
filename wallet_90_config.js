@@ -1,1 +1,1 @@
-var mnemonic = "improve city credit wrap panda immune right friend female chicken involve strategy";
+var mnemonic = "canal country cupboard giggle still sad quick noble lottery aisle wealth whale";

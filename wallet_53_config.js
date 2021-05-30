@@ -1,1 +1,1 @@
-var mnemonic = "narrow sphere clip illegal dress behind into useless essay atom dentist maze";
+var mnemonic = "bench canyon round distance multiply file develop relief situate reform labor crack";

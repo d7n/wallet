@@ -1,1 +1,1 @@
-var mnemonic = "turtle light wheel exile nut clay like cruel denial trial forum admit";
+var mnemonic = "razor duty hard empower opera note survey step volume crop fever hire";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk jaguar wrist between ensure topple immune brother obey control immune parrot";
+var mnemonic = "spray gesture barrel beyond sell problem forum quit night other pet fatigue";

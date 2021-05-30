@@ -1,1 +1,1 @@
-var mnemonic = "grit utility finger work lion burst divorce review tell color satisfy master";
+var mnemonic = "uncle visa brush apart wish chunk electric equip grunt corn order motor";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud gym response short journey wait actual emerge library crumble ice perfect";
+var mnemonic = "normal dismiss bubble rack hair wrong duty beyond pass exact mention vendor";

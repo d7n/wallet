@@ -1,1 +1,1 @@
-var mnemonic = "outside maple area rail moment sauce loyal chaos donor mass hint purpose";
+var mnemonic = "grace lens salad gaze material muffin always flower knock toward convince pole";

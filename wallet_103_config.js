@@ -1,1 +1,1 @@
-var mnemonic = "proof police direct garbage mimic broom divide fashion render public possible carry";
+var mnemonic = "shuffle divorce gorilla artwork gentle churn lemon minute harbor maid sniff problem";

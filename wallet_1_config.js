@@ -1,1 +1,1 @@
-var mnemonic = "correct thumb urban essay vital shoulder long crop quantum wash gossip economy";
+var mnemonic = "reveal mountain seed village together obtain brick problem page glad morning panda";

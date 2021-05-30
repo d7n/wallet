@@ -1,1 +1,1 @@
-var mnemonic = "gloom stadium bunker breeze kite tunnel around term chronic science since eight";
+var mnemonic = "pave dirt lend salad alert orbit debate clump equal fence hedgehog over";

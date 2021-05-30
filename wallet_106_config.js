@@ -1,1 +1,1 @@
-var mnemonic = "ketchup donate veteran barrel rice toy inquiry beyond bag crane vast dinner";
+var mnemonic = "area okay frequent promote vivid access payment vocal soda loop layer quarter";

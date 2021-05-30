@@ -1,1 +1,1 @@
-var mnemonic = "slender disagree first hunt royal slender knock annual brisk recipe quick write";
+var mnemonic = "wild estate forest sponsor scout trumpet parent win draft rack garlic poem";

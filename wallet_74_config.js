@@ -1,1 +1,1 @@
-var mnemonic = "drop rack fatal harbor will service around harbor taxi original kitchen rigid";
+var mnemonic = "true salute barely require rely gallery swear wood undo toward ugly surface";

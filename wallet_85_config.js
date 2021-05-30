@@ -1,1 +1,1 @@
-var mnemonic = "mango business live crumble tissue sketch result health shuffle surprise victory chalk";
+var mnemonic = "decrease gossip loan shoulder adjust version pulp sentence garment one vital diamond";
