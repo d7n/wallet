@@ -1,1 +1,1 @@
-var mnemonic = "goose hip venue marriage reopen provide wasp conduct since youth mix luggage";
+var mnemonic = "episode glide cancel announce learn state pretty blush diagram sound peasant chuckle";

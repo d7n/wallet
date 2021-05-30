@@ -1,1 +1,1 @@
-var mnemonic = "luggage modify luggage element panic music right fox million skirt person crisp";
+var mnemonic = "foster once denial era lounge diesel churn opinion tool shallow nominee scissors";

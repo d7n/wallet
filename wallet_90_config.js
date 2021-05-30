@@ -1,1 +1,1 @@
-var mnemonic = "solution minimum void seat hill cause jazz holiday gentle equal thing liberty";
+var mnemonic = "ride banana saddle just average split custom invest midnight resource disagree pyramid";

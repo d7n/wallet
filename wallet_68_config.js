@@ -1,1 +1,1 @@
-var mnemonic = "annual crash want render coyote smart boss monitor pigeon assume bone february";
+var mnemonic = "pave unfold soup desk verify upon rebel popular hospital among maximum possible";

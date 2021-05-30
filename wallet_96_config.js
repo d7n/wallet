@@ -1,1 +1,1 @@
-var mnemonic = "soda south symptom curious absurd gain case ostrich armed garden confirm vibrant";
+var mnemonic = "exclude cup sugar shoe wish skirt health square jaguar zone chef gadget";

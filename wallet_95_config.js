@@ -1,1 +1,1 @@
-var mnemonic = "math attitude feel tired elevator panda wing fruit cinnamon always vapor plate";
+var mnemonic = "cushion direct pull wisdom high decrease master gain debris squirrel wash vacuum";

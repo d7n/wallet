@@ -1,1 +1,1 @@
-var mnemonic = "jazz horror pass symptom praise perfect blur blur tent spot grape fire";
+var mnemonic = "throw reject solar police dust enable innocent they bonus debate narrow explain";

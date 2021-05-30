@@ -1,1 +1,1 @@
-var mnemonic = "control second clay antenna cotton add heavy vault cliff wood smart glory";
+var mnemonic = "divide refuse session gloom wrist repeat pig female wall disagree claim snake";

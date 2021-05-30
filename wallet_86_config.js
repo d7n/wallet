@@ -1,1 +1,1 @@
-var mnemonic = "system raw must index kitten timber face elbow razor minor oak jewel";
+var mnemonic = "modify pool beyond panic tourist amateur found space wash tackle prison melt";

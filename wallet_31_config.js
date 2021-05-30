@@ -1,1 +1,1 @@
-var mnemonic = "donkey forest shine join wing need burst grace nephew tribe still drama";
+var mnemonic = "play color dune deal luxury steel hair good volcano twelve cat depend";

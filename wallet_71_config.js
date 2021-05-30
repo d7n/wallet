@@ -1,1 +1,1 @@
-var mnemonic = "cereal rare day mosquito social swamp truth rookie dog scout enable major";
+var mnemonic = "result toilet radar vapor people upset melody milk rotate such aisle mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "pear mango garden digital clean power sweet deny remind orchard swarm coyote";
+var mnemonic = "behave demand spice useless fame love crazy junior express leave regular gaze";

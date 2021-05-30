@@ -1,1 +1,1 @@
-var mnemonic = "consider village camera mandate want zero exact churn rule tomato good area";
+var mnemonic = "rebel manual snake topple grape math life victory expand powder vapor scheme";

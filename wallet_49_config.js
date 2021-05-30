@@ -1,1 +1,1 @@
-var mnemonic = "street picture uncover midnight sugar casino slender enemy middle purity blouse heavy";
+var mnemonic = "obtain frown below unable devote bitter accident anger course tool panther tool";

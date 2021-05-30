@@ -1,1 +1,1 @@
-var mnemonic = "account argue make shaft garment tape gift cereal tortoise coffee aisle wasp";
+var mnemonic = "awesome lion perfect garage cradle blossom glide spirit used congress add two";

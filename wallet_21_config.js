@@ -1,1 +1,1 @@
-var mnemonic = "mass always about anxiety swing coral stadium either city version nurse smoke";
+var mnemonic = "maximum palm sadness gasp dentist define gas depend exotic cube flock sad";

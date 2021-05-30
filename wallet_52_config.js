@@ -1,1 +1,1 @@
-var mnemonic = "grace sun winter prize rookie minimum tray april donkey eager common giant";
+var mnemonic = "tornado net design now slender gospel ahead delay wash busy iron hour";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix intact actor soccer solid monkey toss brand summer inherit feel parent";
+var mnemonic = "caution dynamic win peasant honey amused this idle number develop chair husband";

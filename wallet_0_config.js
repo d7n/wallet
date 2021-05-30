@@ -1,1 +1,1 @@
-var mnemonic = "sheriff portion one sorry shy harvest debate obscure parade rate final loud";
+var mnemonic = "rail private fiction elite service exhaust inquiry ride ten normal stick cook";

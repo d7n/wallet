@@ -1,1 +1,1 @@
-var mnemonic = "affair nothing basic card harsh ghost pause tornado mango method choice allow";
+var mnemonic = "dynamic expose city slow wool brave double boy reform there goose robust";

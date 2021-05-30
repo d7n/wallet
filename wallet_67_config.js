@@ -1,1 +1,1 @@
-var mnemonic = "void theme luxury spread gym item noble exotic recycle brand weasel lesson";
+var mnemonic = "thrive animal way inform arrange choose spin tilt update raw salute alcohol";

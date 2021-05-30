@@ -1,1 +1,1 @@
-var mnemonic = "eagle zebra sure scorpion disease work route ceiling guess tornado spice roast";
+var mnemonic = "sell kick detect prosper police divide strong orange say adapt found action";

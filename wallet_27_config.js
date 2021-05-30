@@ -1,1 +1,1 @@
-var mnemonic = "upgrade lonely turn rabbit comfort anger fame recall text suggest orphan film";
+var mnemonic = "mass drift smooth annual law example act violin fork quarter hill pet";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote hire elbow clean type already dentist faith true enlist dove echo";
+var mnemonic = "capable fiscal parent exclude speed woman toast spread tree scan broken mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "medal speak squirrel basic flat drink mention hat soap indicate balance cram";
+var mnemonic = "hover umbrella regular soap type all celery open target just rather beauty";

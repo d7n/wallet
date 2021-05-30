@@ -1,1 +1,1 @@
-var mnemonic = "nuclear truth rabbit alone mass target hollow forum jelly anxiety slot cash";
+var mnemonic = "acid sense key until aisle scale fetch art render best transfer saddle";

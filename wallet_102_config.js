@@ -1,1 +1,1 @@
-var mnemonic = "tail reunion sport inquiry mushroom combine essence river leaf envelope march will";
+var mnemonic = "cave demand response casino box sponsor debris guide urban apple town happy";

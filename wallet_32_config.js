@@ -1,1 +1,1 @@
-var mnemonic = "album balance wing runway call bounce lounge wise moon seat planet describe";
+var mnemonic = "marble capital enhance outside cross half learn drum shuffle senior diagram skull";

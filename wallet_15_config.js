@@ -1,1 +1,1 @@
-var mnemonic = "call trade able window roast silent business exclude dress water degree time";
+var mnemonic = "palm unaware doll spend illegal neutral cannon code actor baby cabbage lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "clump leader artefact acid vicious beauty bird inflict sea sleep foot already";
+var mnemonic = "aim amazing voice load rare giant replace night sick round kite skull";

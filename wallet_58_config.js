@@ -1,1 +1,1 @@
-var mnemonic = "cause flight hover current devote senior sketch practice mimic spirit swim search";
+var mnemonic = "lecture term arrest zebra alert dice during paddle setup great spy lend";

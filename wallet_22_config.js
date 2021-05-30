@@ -1,1 +1,1 @@
-var mnemonic = "balcony smooth shift runway media prevent lens major dirt erosion plate siege";
+var mnemonic = "upset chief bargain oak melt produce arena work cat escape gorilla rug";

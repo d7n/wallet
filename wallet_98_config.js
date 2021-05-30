@@ -1,1 +1,1 @@
-var mnemonic = "rose cause lady pencil donor hood runway charge veteran sniff detect tobacco";
+var mnemonic = "project nasty slice degree spike rabbit essence math motor bone spin improve";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen torch human ginger salute obscure nothing silent sentence eager hungry swarm";
+var mnemonic = "iron tunnel endless anger inch mystery vessel curious gadget price body march";

@@ -1,1 +1,1 @@
-var mnemonic = "inside impulse lonely decade shield castle boy jelly idle permit post celery";
+var mnemonic = "glad appear exhibit require hawk gap cannon wrestle impulse core collect grab";

@@ -1,1 +1,1 @@
-var mnemonic = "airport body human cotton candy damp wise foot roast dragon basic follow";
+var mnemonic = "unveil canoe close man bike vintage banner sing immune insane deputy loyal";

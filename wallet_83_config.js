@@ -1,1 +1,1 @@
-var mnemonic = "attack alert extra hire sketch calm ghost polar airport life short wire";
+var mnemonic = "runway correct track pistol october couple virtual toilet source sustain wash hedgehog";

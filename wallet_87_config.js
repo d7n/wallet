@@ -1,1 +1,1 @@
-var mnemonic = "grain lonely bone settle crop floor iron tilt blanket mind rose spin";
+var mnemonic = "office afraid liquid soldier aim wall clap beach test right draft burger";

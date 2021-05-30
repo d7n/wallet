@@ -1,1 +1,1 @@
-var mnemonic = "finish suggest roast thunder load gather angry seek era embrace carry absent";
+var mnemonic = "latin grief case depend cradle attend critic witness depth inflict require control";

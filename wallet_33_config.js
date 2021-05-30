@@ -1,1 +1,1 @@
-var mnemonic = "bundle cannon mercy inherit state pink hockey become olive scissors raw movie";
+var mnemonic = "error wonder turn rail pretty umbrella cost magic badge absorb depth october";

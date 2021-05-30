@@ -1,1 +1,1 @@
-var mnemonic = "swift oxygen coffee alley favorite peace second daughter pattern choice wire anger";
+var mnemonic = "guide goddess deer alert silver gallery jaguar kid worth jungle split ensure";

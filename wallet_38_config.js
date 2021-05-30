@@ -1,1 +1,1 @@
-var mnemonic = "know hard dignity venture rain evidence enact monster hip engine enhance mesh";
+var mnemonic = "base stove average canoe valve spawn genuine possible shop father blame cereal";

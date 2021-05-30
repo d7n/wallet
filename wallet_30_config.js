@@ -1,1 +1,1 @@
-var mnemonic = "hill frame peanut catch ride warm robot youth place culture judge cube";
+var mnemonic = "cave tackle jazz tornado toast giant thunder point nest essence edge element";

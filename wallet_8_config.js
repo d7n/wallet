@@ -1,1 +1,1 @@
-var mnemonic = "merry gift ancient stomach language general august chuckle ramp cattle spot gossip";
+var mnemonic = "glimpse leader skate obvious install forum together column snap access speak harbor";

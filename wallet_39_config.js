@@ -1,1 +1,1 @@
-var mnemonic = "aspect much reduce pluck scrap tumble easily youth cost when genre treat";
+var mnemonic = "cradle benefit act cost thought hour earn honey bulb estate laptop hazard";

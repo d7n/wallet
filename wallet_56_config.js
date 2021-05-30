@@ -1,1 +1,1 @@
-var mnemonic = "waste faith cart soda square brisk laptop casual patch combine twice recall";
+var mnemonic = "foil umbrella drink travel there moon sport primary toe curve action ramp";

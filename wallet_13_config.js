@@ -1,1 +1,1 @@
-var mnemonic = "shrimp train duty poem float cruise wrap actual collect rally weird update";
+var mnemonic = "caught history runway regular uphold truly unveil piece soccer scheme north come";

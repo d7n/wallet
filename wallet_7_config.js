@@ -1,1 +1,1 @@
-var mnemonic = "harbor lobster whisper goat armor wish economy milk room picnic use lottery";
+var mnemonic = "island cloth poem section focus spray phrase author cave swear unfold equal";

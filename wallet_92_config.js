@@ -1,1 +1,1 @@
-var mnemonic = "spring duty throw remember stone cable need since two hockey raven sight";
+var mnemonic = "they shrimp run rent vault hub disease radio announce gossip addict heart";

@@ -1,1 +1,1 @@
-var mnemonic = "forget police ancient need language number favorite baby twice rural group gift";
+var mnemonic = "canvas chuckle final baby ordinary aspect burst alert treat panel hand unhappy";

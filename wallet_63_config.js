@@ -1,1 +1,1 @@
-var mnemonic = "power pottery vicious romance defy melt afford pulp poem garbage midnight page";
+var mnemonic = "mask leg same ecology wall high bid extend ill month trap raccoon";

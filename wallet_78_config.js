@@ -1,1 +1,1 @@
-var mnemonic = "admit fitness hero mandate thank insect leaf chapter surprise ticket consider rifle";
+var mnemonic = "hamster lunch creek patrol wrestle tiny spike tomato narrow stamp bird eight";

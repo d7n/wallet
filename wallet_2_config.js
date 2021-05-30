@@ -1,1 +1,1 @@
-var mnemonic = "derive risk receive rib simple option dignity sand engage that payment eyebrow";
+var mnemonic = "swear weather half season grit salmon erosion fish noise normal seminar office";

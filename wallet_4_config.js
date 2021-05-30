@@ -1,1 +1,1 @@
-var mnemonic = "convince boat peanut elder novel aisle give raccoon snow belt tenant arrive";
+var mnemonic = "process lizard swap destroy chicken grid trial finger crew quick matrix pride";

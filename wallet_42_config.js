@@ -1,1 +1,1 @@
-var mnemonic = "message cash awesome cabbage quarter jewel toe worry diagram network open bike";
+var mnemonic = "labor pottery claim addict rather hockey leopard old verify buyer trumpet impulse";

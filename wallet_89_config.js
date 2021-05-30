@@ -1,1 +1,1 @@
-var mnemonic = "near tree buddy fancy wash ring delay good earn scorpion lens manual";
+var mnemonic = "fit salad people front alter aim private sibling bulb uncle office rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "cat wave vehicle athlete brick ripple dance toss gift member work foam";
+var mnemonic = "place exhaust boost extend pulp rally split enhance wheat true catch purchase";

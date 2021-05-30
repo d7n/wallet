@@ -1,1 +1,1 @@
-var mnemonic = "impulse economy reveal modify better wrap journey stable private message crime penalty";
+var mnemonic = "grain rule omit fit execute inspire shaft awful web arm soccer direct";

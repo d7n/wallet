@@ -1,1 +1,1 @@
-var mnemonic = "palace amazing health envelope crash truly panther bright select flower rival measure";
+var mnemonic = "inherit patch shock scorpion together quarter walk patient gain stone opera bridge";

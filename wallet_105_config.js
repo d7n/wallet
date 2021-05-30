@@ -1,1 +1,1 @@
-var mnemonic = "random eternal fame pride noise label action supply castle wing embark casino";
+var mnemonic = "assist any cargo fly obtain circle empower ecology aisle country wear frog";

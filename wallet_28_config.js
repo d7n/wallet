@@ -1,1 +1,1 @@
-var mnemonic = "bird kingdom lecture virus mean maple excuse fee asthma ketchup insect rare";
+var mnemonic = "easily lab timber soldier rigid news message parent bonus pass deposit rude";

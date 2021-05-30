@@ -1,1 +1,1 @@
-var mnemonic = "dolphin motion icon oval grunt supreme devote bomb betray off expand worry";
+var mnemonic = "kiss devote scatter deal corn sell name stumble agree garlic doll average";

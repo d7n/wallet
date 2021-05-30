@@ -1,1 +1,1 @@
-var mnemonic = "guitar situate venture victory popular gesture sense top liquid twist drink either";
+var mnemonic = "corn buddy doctor project oblige avoid echo dynamic humble journey feed excuse";

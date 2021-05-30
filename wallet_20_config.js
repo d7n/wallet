@@ -1,1 +1,1 @@
-var mnemonic = "olympic system defense crystal water neck jelly neither armed usage bridge tail";
+var mnemonic = "tortoise decline feed side chase wave carbon venture cart spot coast pig";

@@ -1,1 +1,1 @@
-var mnemonic = "slot bus mixture chimney pave system shiver wife scan impose shoulder reveal";
+var mnemonic = "evoke science powder similar prefer hint pretty mosquito fox make admit hope";

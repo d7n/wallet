@@ -1,1 +1,1 @@
-var mnemonic = "decide know tag dirt enact sweet team bird fortune minute oak walk";
+var mnemonic = "wasp until organ disorder liquid pupil business torch kingdom priority across token";

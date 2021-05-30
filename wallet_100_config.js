@@ -1,1 +1,1 @@
-var mnemonic = "arrow wave lawn update purity party juice crouch silly jeans physical twist";
+var mnemonic = "neither family more blush girl plate weird glass attend thrive caution favorite";

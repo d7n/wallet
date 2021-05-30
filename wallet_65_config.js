@@ -1,1 +1,1 @@
-var mnemonic = "surround talent shoe salt twenty ritual more consider path genre open more";
+var mnemonic = "wave obtain photo clever butter patient decrease nuclear gaze faculty print obey";

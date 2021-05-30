@@ -1,1 +1,1 @@
-var mnemonic = "food slow skill history ghost general cup ranch link nest wolf replace";
+var mnemonic = "chef build digital predict nominee mistake egg switch sudden boat miss aisle";

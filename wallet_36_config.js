@@ -1,1 +1,1 @@
-var mnemonic = "tunnel gorilla cute draw organ talk stone canal abandon problem cat vague";
+var mnemonic = "senior inside bird screen artwork light bridge kite smooth frost anger blush";

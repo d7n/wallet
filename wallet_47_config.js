@@ -1,1 +1,1 @@
-var mnemonic = "romance brass strategy frog olympic office prize explain figure upset rate quiz";
+var mnemonic = "ketchup manual cactus sibling board episode vocal replace van river cancel review";

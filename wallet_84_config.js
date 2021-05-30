@@ -1,1 +1,1 @@
-var mnemonic = "fruit artefact drift team vehicle reason blouse obvious change aware column shed";
+var mnemonic = "twice peasant vessel decline detect country beauty suit depend buddy endorse damp";

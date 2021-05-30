@@ -1,1 +1,1 @@
-var mnemonic = "marble fog tag before correct junior doll bridge curious release valve silk";
+var mnemonic = "luggage whisper grain illness base post front traffic mule maximum maid banner";

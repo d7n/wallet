@@ -1,1 +1,1 @@
-var mnemonic = "solid oxygen device spice science kidney jazz toward close gauge social system";
+var mnemonic = "modify muscle desert census inquiry thank valley ankle broken leave fold pig";

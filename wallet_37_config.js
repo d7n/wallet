@@ -1,1 +1,1 @@
-var mnemonic = "flame brand ability survey region helmet spend reason heart wreck coral source";
+var mnemonic = "afford alley three cream episode cradle level erupt shadow loan stable people";

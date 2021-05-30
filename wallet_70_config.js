@@ -1,1 +1,1 @@
-var mnemonic = "huge clog divide wood slim rule science birth dune shine voice sell";
+var mnemonic = "blame aspect maximum risk such permit final enter ocean arena garlic town";

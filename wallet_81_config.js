@@ -1,1 +1,1 @@
-var mnemonic = "inquiry brown dry fame winner fame diagram shed bitter display provide claw";
+var mnemonic = "wage invest body harbor floor tenant bid power arena decide indicate smooth";

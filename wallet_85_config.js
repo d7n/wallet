@@ -1,1 +1,1 @@
-var mnemonic = "derive middle intact version force palace toddler equip account panther april bomb";
+var mnemonic = "will anger awkward travel tilt antique kidney pool upper asset consider pupil";

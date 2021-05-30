@@ -1,1 +1,1 @@
-var mnemonic = "art rail foil shift desk release couch focus smart speed auction talent";
+var mnemonic = "know version element slam depth lizard clap dice engine suspect human hungry";

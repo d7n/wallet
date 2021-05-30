@@ -1,1 +1,1 @@
-var mnemonic = "armor shaft decorate lend age version magic velvet nut energy also animal";
+var mnemonic = "enlist hint leopard alien inspire baby spirit minimum coast lemon permit powder";

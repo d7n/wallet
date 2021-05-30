@@ -1,1 +1,1 @@
-var mnemonic = "erode never exile acid ball match isolate bind all express humor town";
+var mnemonic = "rotate scrub theme south stick rigid fat profit fan iron donor pen";

@@ -1,1 +1,1 @@
-var mnemonic = "little couple youth blood impulse crush visual cruise couple swallow crucial surprise";
+var mnemonic = "oil miss woman width matter best modify relax glow velvet chaos method";

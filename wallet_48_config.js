@@ -1,1 +1,1 @@
-var mnemonic = "motor syrup quick tuna piano mercy output wide swift genuine victory lizard";
+var mnemonic = "capable denial switch spare forest dad ball genius coyote inform finger neither";

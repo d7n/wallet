@@ -1,1 +1,1 @@
-var mnemonic = "pact jacket order acquire female hamster foam rookie noodle remember trend gain";
+var mnemonic = "stage simple coin motion kitten jelly sound verify when family blue feel";

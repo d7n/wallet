@@ -1,1 +1,1 @@
-var mnemonic = "payment toast rude nose park opinion bulb tackle innocent crew very economy";
+var mnemonic = "grid direct outdoor blouse deliver mutual vicious around tonight syrup habit blush";
