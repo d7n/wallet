@@ -1,1 +1,1 @@
-var mnemonic = "jelly dirt exclude symptom mother join famous prepare scatter celery only dizzy";
+var mnemonic = "claw talent seed crash afraid alert release potato season bitter nerve stick";

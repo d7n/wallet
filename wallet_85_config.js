@@ -1,1 +1,1 @@
-var mnemonic = "salad update retire critic weather question labor nuclear dilemma buzz either lamp";
+var mnemonic = "tail maximum arm term spoon field seven upset task page eight use";

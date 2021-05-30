@@ -1,1 +1,1 @@
-var mnemonic = "rebuild state spice blood tackle glide artist rather barrel grunt fit donate";
+var mnemonic = "rely couple century test unable weather youth salute fan jelly ship roast";

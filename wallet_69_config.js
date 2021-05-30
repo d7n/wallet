@@ -1,1 +1,1 @@
-var mnemonic = "chalk sure face equal tomorrow puzzle bulk left minimum what crystal myself";
+var mnemonic = "viable impact rhythm meat jealous canyon double drum joke must resource middle";

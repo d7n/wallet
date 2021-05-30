@@ -1,1 +1,1 @@
-var mnemonic = "slab dove muffin exercise artist base suffer auction gas whale motion harsh";
+var mnemonic = "cloud fish vault pupil liar raccoon theme bonus around hawk correct onion";

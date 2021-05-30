@@ -1,1 +1,1 @@
-var mnemonic = "exotic term champion reveal engine exhaust congress enemy uncover clip rabbit roof";
+var mnemonic = "drip analyst deny upset genre interest vault echo coconut casino unusual erode";

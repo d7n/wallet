@@ -1,1 +1,1 @@
-var mnemonic = "notable robust diesel save torch silent diary waste great insane illegal nephew";
+var mnemonic = "abstract hurry among net hope aware betray clip vault series violin inform";

@@ -1,1 +1,1 @@
-var mnemonic = "spice opinion hip first news immense fragile garment basic oblige gesture rib";
+var mnemonic = "hurry olympic chicken child hazard sound bracket broccoli unit cause leaf cube";

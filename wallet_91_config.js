@@ -1,1 +1,1 @@
-var mnemonic = "that vault unaware wedding fluid neutral network when run above despair balcony";
+var mnemonic = "symptom syrup badge manage army worth damage another notice decrease health fee";

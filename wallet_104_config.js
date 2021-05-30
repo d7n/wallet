@@ -1,1 +1,1 @@
-var mnemonic = "shoe about talent huge easy index party buzz fade legend tunnel husband";
+var mnemonic = "guide engage obey orient crater link limit power noise large crop around";

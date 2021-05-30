@@ -1,1 +1,1 @@
-var mnemonic = "music issue already increase amount glide near design swallow scrap tide salt";
+var mnemonic = "endless orient spy wave another across favorite mixed multiply artefact visual urge";

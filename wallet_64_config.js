@@ -1,1 +1,1 @@
-var mnemonic = "distance clog crouch exhaust various soccer cost jeans review link reflect regret";
+var mnemonic = "web cram extend hobby control genre situate enhance cinnamon brain what borrow";

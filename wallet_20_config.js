@@ -1,1 +1,1 @@
-var mnemonic = "elder false cloud list drift staff stumble mind before treat tragic happy";
+var mnemonic = "relief fit leader neutral witness window token purse naive wool announce yard";

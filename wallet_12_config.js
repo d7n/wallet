@@ -1,1 +1,1 @@
-var mnemonic = "humble industry eyebrow bachelor vicious twice exile dolphin addict staff distance reform";
+var mnemonic = "fork hobby success steak scrub settle hurt country toddler ancient view erode";

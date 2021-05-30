@@ -1,1 +1,1 @@
-var mnemonic = "limb detail crew access actor gun inhale cause slender digital first castle";
+var mnemonic = "merry inspire glare swift legal end find mass barrel matrix north level";

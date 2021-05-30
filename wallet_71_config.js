@@ -1,1 +1,1 @@
-var mnemonic = "shallow modify cattle clever include race pupil quick vanish teach above captain";
+var mnemonic = "hunt accuse lecture produce exile expire destroy affair extra purchase squirrel uncle";

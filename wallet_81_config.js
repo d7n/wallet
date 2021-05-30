@@ -1,1 +1,1 @@
-var mnemonic = "ticket uniform job destroy erode tag scout love arrest hollow idea sunny";
+var mnemonic = "chronic gold matrix truly awful test prize alone scene digital prevent trash";

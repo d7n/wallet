@@ -1,1 +1,1 @@
-var mnemonic = "bundle need oblige dinosaur ugly cradle mother heart quality apple evolve also";
+var mnemonic = "diamond cushion valve stock edit soldier dad tragic romance circle sniff lens";

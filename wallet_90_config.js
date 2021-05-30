@@ -1,1 +1,1 @@
-var mnemonic = "town rescue belt what legend ivory shadow cousin avoid easily hamster expire";
+var mnemonic = "miracle disagree arch build rose injury loop flight zebra token hint column";

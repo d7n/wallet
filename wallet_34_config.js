@@ -1,1 +1,1 @@
-var mnemonic = "lawn rubber scale spoil pulse afraid fork garbage begin loan abstract inject";
+var mnemonic = "volume valley tonight hamster snow metal economy gloom weasel quality slice dragon";

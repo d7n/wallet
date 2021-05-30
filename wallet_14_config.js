@@ -1,1 +1,1 @@
-var mnemonic = "video divert bench father height table window chief minute express worry write";
+var mnemonic = "rice remove puzzle poet fabric enlist raise clean visa admit dinosaur ranch";

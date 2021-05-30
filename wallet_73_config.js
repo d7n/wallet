@@ -1,1 +1,1 @@
-var mnemonic = "phone market universe nothing inspire drum any farm phone first gift law";
+var mnemonic = "kick manual blue raw above olive doctor sport skull wool sausage outside";

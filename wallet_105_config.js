@@ -1,1 +1,1 @@
-var mnemonic = "option right other razor morning answer arrive pencil satisfy setup also armor";
+var mnemonic = "few employ tortoise trial casino behave diagram romance service grunt hold purse";

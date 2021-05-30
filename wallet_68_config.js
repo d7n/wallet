@@ -1,1 +1,1 @@
-var mnemonic = "limb mixture suggest cool elephant napkin vicious roof man latin victory hamster";
+var mnemonic = "brass kingdom spot gadget liquid globe siege carbon snake surprise ball vivid";

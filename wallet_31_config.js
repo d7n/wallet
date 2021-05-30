@@ -1,1 +1,1 @@
-var mnemonic = "situate village foot trouble pencil erode citizen misery sunset shove peanut monitor";
+var mnemonic = "barrel cigar output jewel hospital police hedgehog captain original laugh short now";

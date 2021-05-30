@@ -1,1 +1,1 @@
-var mnemonic = "menu tiger purse goat album bean cigar foot trumpet peasant chimney flower";
+var mnemonic = "tribe invest vapor text panda start wise comic abandon produce nuclear chat";

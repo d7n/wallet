@@ -1,1 +1,1 @@
-var mnemonic = "lens snack love human exhaust dignity will witness minimum clay puzzle option";
+var mnemonic = "mammal employ artefact orphan monkey design skate dolphin only bone hello gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "merge govern glass tragic wife barely edge shift people together brick mountain";
+var mnemonic = "witness planet cram west mesh garage verb quick smile crime tiny boy";

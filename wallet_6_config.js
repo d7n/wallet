@@ -1,1 +1,1 @@
-var mnemonic = "wrap tank license crane chat zebra dizzy intact guess round celery car";
+var mnemonic = "prepare pelican turkey drum coffee museum filter festival ripple vote surge miss";

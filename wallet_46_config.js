@@ -1,1 +1,1 @@
-var mnemonic = "fit jelly decrease jacket next resemble measure ridge relief subject test road";
+var mnemonic = "just board trial entire fashion arctic eternal range duck bamboo egg tail";

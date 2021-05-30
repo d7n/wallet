@@ -1,1 +1,1 @@
-var mnemonic = "private leader ivory agree athlete clay mushroom town phrase vast mobile denial";
+var mnemonic = "roast weapon couch palm address nerve stay view riot cigar century fee";

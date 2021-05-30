@@ -1,1 +1,1 @@
-var mnemonic = "lunar fox congress kick mammal shrug puzzle column tree afford sunset idle";
+var mnemonic = "ability voice rival spread reject way evidence abandon cruise like angry load";

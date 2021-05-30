@@ -1,1 +1,1 @@
-var mnemonic = "hub tone increase hedgehog rookie parade student bind wagon odor exhaust tape";
+var mnemonic = "april drop possible coin call confirm mercy motion magic eagle glove champion";

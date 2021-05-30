@@ -1,1 +1,1 @@
-var mnemonic = "paper mutual coyote patient common badge flag ginger urge actress vacuum hollow";
+var mnemonic = "limb science wet vehicle guitar inspire actual deliver place echo artefact sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog cherry erode mix impose carry few tired april test matter machine";
+var mnemonic = "latin usual oxygen couch below enforce habit shallow early obvious evidence random";

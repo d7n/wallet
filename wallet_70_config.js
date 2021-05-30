@@ -1,1 +1,1 @@
-var mnemonic = "ski clean trend enforce speed design minute sick donor trip exchange sail";
+var mnemonic = "stumble shop poverty youth jealous rescue vital doll remain remember sell topic";

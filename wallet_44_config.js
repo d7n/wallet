@@ -1,1 +1,1 @@
-var mnemonic = "raven pelican sun dish remove drum thing bronze release goose like public";
+var mnemonic = "rug style tunnel side end author actor common trumpet waste tomato party";

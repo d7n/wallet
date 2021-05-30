@@ -1,1 +1,1 @@
-var mnemonic = "symbol traffic brown cupboard undo legend super portion over royal believe calm";
+var mnemonic = "pact era claim hundred parade crime rally argue section lady busy orient";

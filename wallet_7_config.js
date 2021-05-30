@@ -1,1 +1,1 @@
-var mnemonic = "admit suspect worth decrease holiday fly develop oak shoulder soap extend seed";
+var mnemonic = "prize unfair sentence puppy peace game amount write fork cheap horn crawl";

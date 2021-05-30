@@ -1,1 +1,1 @@
-var mnemonic = "father quantum army catalog position citizen razor buyer hip two summer system";
+var mnemonic = "sand elder various segment swarm demise ritual imitate employ velvet bright rubber";

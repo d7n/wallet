@@ -1,1 +1,1 @@
-var mnemonic = "soul banner people surprise clump exotic sea crisp head hungry spend figure";
+var mnemonic = "quality eager trial minor debris blur gauge various puzzle pink banner master";

@@ -1,1 +1,1 @@
-var mnemonic = "intact soon method fruit expand family theme stable move reform kangaroo adjust";
+var mnemonic = "appear ill sausage glimpse wild life often outside enact narrow tonight must";

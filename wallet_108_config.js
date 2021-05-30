@@ -1,1 +1,1 @@
-var mnemonic = "slam either dragon rice stay wife scale voyage raise where initial meadow";
+var mnemonic = "wet ahead certain team virus broccoli fall action leader nerve dawn tube";

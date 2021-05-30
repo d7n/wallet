@@ -1,1 +1,1 @@
-var mnemonic = "about wait monster double capital nothing license merit output secret correct perfect";
+var mnemonic = "wood strong donkey clump pyramid anchor shell volcano pool note rural much";

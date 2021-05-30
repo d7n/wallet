@@ -1,1 +1,1 @@
-var mnemonic = "fiction company rotate dial sing fat daring divert egg dose guilt shallow";
+var mnemonic = "brick vapor stick country pair head adult promote zebra blush eternal bacon";

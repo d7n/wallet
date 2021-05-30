@@ -1,1 +1,1 @@
-var mnemonic = "save year chief spider kidney fantasy amused shrug invite wash beyond payment";
+var mnemonic = "bomb damage artwork canvas dream rule success wrist annual volume unit refuse";

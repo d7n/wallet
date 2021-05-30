@@ -1,1 +1,1 @@
-var mnemonic = "priority gather absorb sun life hidden maze squirrel around admit youth time";
+var mnemonic = "neutral intact negative margin grant debate sign lyrics pistol turtle interest pencil";

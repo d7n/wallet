@@ -1,1 +1,1 @@
-var mnemonic = "stool humor fault supply crater upset negative observe garage problem rare aisle";
+var mnemonic = "vivid tribe invest initial canoe name dress arctic employ glass potato tenant";

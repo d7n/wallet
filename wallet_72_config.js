@@ -1,1 +1,1 @@
-var mnemonic = "turn fiscal slush explain auto trade witness option average vapor oxygen success";
+var mnemonic = "auction rail ceiling allow concert elevator dentist ketchup mountain cook abstract stem";

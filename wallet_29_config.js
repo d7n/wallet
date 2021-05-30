@@ -1,1 +1,1 @@
-var mnemonic = "can smart snow setup clip immune punch vote company age funny planet";
+var mnemonic = "man art joke iron cannon uncover hazard wet right cute solution end";

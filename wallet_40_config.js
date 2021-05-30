@@ -1,1 +1,1 @@
-var mnemonic = "few nominee aim resemble pool key whip love depart truck balcony lyrics";
+var mnemonic = "law gossip sketch tunnel come absent planet aunt spray chair hawk erosion";

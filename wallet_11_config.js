@@ -1,1 +1,1 @@
-var mnemonic = "morning diesel undo able joke lesson best wire they fringe impact legal";
+var mnemonic = "submit drive riot end cattle exchange easily attack panda sport once toilet";

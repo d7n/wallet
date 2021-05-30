@@ -1,1 +1,1 @@
-var mnemonic = "swamp bar spatial choice gate fiction job coffee vacuum upper federal finish";
+var mnemonic = "song appear tomorrow exhaust mango actual since praise style decrease view pelican";

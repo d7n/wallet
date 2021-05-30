@@ -1,1 +1,1 @@
-var mnemonic = "donor drift client tenant consider such announce tool credit endless rich toddler";
+var mnemonic = "level hero swarm buddy crunch neglect apology front between pottery sketch action";

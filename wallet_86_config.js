@@ -1,1 +1,1 @@
-var mnemonic = "oak punch town chief lonely insane pumpkin dash bubble region any long";
+var mnemonic = "lemon brief captain syrup gas bunker gospel volume salmon car pencil amused";

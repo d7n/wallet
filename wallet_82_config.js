@@ -1,1 +1,1 @@
-var mnemonic = "coral tooth light shoot plate thank street auto eternal forward shuffle bargain";
+var mnemonic = "bread hover pond rib obscure velvet boss spoil flat across account vault";

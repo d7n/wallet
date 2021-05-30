@@ -1,1 +1,1 @@
-var mnemonic = "range destroy soon leg patient have expose property column middle gentle left";
+var mnemonic = "begin hawk beyond purchase reveal snake monkey tent mirror index bomb sound";

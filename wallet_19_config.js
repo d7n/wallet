@@ -1,1 +1,1 @@
-var mnemonic = "few amazing control left pave foot egg doctor faint vehicle state cereal";
+var mnemonic = "party glimpse rely explain assist display spell yellow execute luggage evolve sand";

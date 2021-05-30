@@ -1,1 +1,1 @@
-var mnemonic = "october pave circle food avoid erosion runway regular game clown erupt guitar";
+var mnemonic = "evidence truck hunt oblige vote minor track chase involve danger jelly blur";

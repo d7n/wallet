@@ -1,1 +1,1 @@
-var mnemonic = "yellow spray twin jealous devote obscure okay gadget reflect brain column saddle";
+var mnemonic = "fetch check zero bird inform monitor such around quarter velvet ramp loan";

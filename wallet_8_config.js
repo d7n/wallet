@@ -1,1 +1,1 @@
-var mnemonic = "they village blush suffer grace genre lion range parent width awful credit";
+var mnemonic = "large fatigue despair drive harvest index broken setup helmet sing inspire blood";

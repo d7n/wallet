@@ -1,1 +1,1 @@
-var mnemonic = "symbol when lawn hotel nasty early remind famous side romance twelve left";
+var mnemonic = "relief immense divert despair unfold city captain throw damage say blur nasty";

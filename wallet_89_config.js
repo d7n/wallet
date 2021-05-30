@@ -1,1 +1,1 @@
-var mnemonic = "celery color ball weapon powder trial crystal stand high digital blur liberty";
+var mnemonic = "crazy select metal gym token dignity session bachelor neck portion congress snow";

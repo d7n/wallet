@@ -1,1 +1,1 @@
-var mnemonic = "test develop trap surface orchard salt clip bag present sadness post shuffle";
+var mnemonic = "silk famous mad issue annual drink beef elevator barely mother hobby rose";

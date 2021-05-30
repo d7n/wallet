@@ -1,1 +1,1 @@
-var mnemonic = "home sword agree pole goose day flee figure more junk lamp auto";
+var mnemonic = "desert disease color metal odor avoid middle hollow person drink fine bring";

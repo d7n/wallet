@@ -1,1 +1,1 @@
-var mnemonic = "pig identify acquire bean polar chronic toward manage easily rigid rail inspire";
+var mnemonic = "dove office goose post window another thumb lesson fever adjust rifle cancel";

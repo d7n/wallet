@@ -1,1 +1,1 @@
-var mnemonic = "struggle cover position venture planet ritual horror clown ramp aunt broom flash";
+var mnemonic = "toe hub shuffle initial blue awful brown type mirror emotion submit strong";

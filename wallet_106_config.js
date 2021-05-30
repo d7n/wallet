@@ -1,1 +1,1 @@
-var mnemonic = "grain nature chest swing sheriff smoke utility end possible found opera nose";
+var mnemonic = "piano cradle shove acoustic own online cheese giraffe aim uniform pilot shell";

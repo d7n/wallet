@@ -1,1 +1,1 @@
-var mnemonic = "ripple universe fever denial excuse lemon forget moment item mesh bag asset";
+var mnemonic = "inmate road clip service cycle churn boss heavy risk stable curve toddler";

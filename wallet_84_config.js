@@ -1,1 +1,1 @@
-var mnemonic = "belt host field negative whisper custom episode hour bulk will earn differ";
+var mnemonic = "gauge eternal merge remain local derive dwarf rough success correct target under";

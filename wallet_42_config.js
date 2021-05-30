@@ -1,1 +1,1 @@
-var mnemonic = "magnet solution dignity buyer unfair exotic lift upgrade output scare gesture farm";
+var mnemonic = "decline oak cinnamon fever annual artefact suit spider aware wagon tunnel organ";

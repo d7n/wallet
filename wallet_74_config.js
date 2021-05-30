@@ -1,1 +1,1 @@
-var mnemonic = "educate ghost neutral duty whisper hair trigger home defense machine alarm company";
+var mnemonic = "outside require junk summer sing sketch guard wine spread yellow satoshi item";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics rare wreck capital series this prize cupboard valve child oyster vehicle";
+var mnemonic = "miss photo wolf way fruit pizza canyon grow brother north clump fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "injury planet surprise gallery fade dragon ladder poet robust net dawn candy";
+var mnemonic = "leader patrol test fabric final random solution rabbit behave defense parade foil";

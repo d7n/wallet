@@ -1,1 +1,1 @@
-var mnemonic = "topple foot tonight among twist soccer method earn offer churn lesson rubber";
+var mnemonic = "come report trash core flag father gaze donkey return business depth south";

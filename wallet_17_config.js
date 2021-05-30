@@ -1,1 +1,1 @@
-var mnemonic = "quote arch another bench snack net walk pyramid lumber leaf fresh hope";
+var mnemonic = "essay pledge resource hungry ceiling rose frog monitor earn drop country hurdle";

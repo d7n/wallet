@@ -1,1 +1,1 @@
-var mnemonic = "fatal prize false chalk prize symbol begin final demand provide observe submit";
+var mnemonic = "supply squirrel inner dignity desk beyond wrong gesture glad trumpet ball absorb";

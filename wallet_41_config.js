@@ -1,1 +1,1 @@
-var mnemonic = "bracket dream chest anger chest fortune gesture salt metal cheese area wreck";
+var mnemonic = "put tuna dignity skin base prepare brass decline path danger around oak";

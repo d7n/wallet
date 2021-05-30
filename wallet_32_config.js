@@ -1,1 +1,1 @@
-var mnemonic = "comfort body trophy flower party rural cricket save much prevent major hint";
+var mnemonic = "stable main finish salt wheat barely canvas frozen hawk wool agent depth";

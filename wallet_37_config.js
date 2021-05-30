@@ -1,1 +1,1 @@
-var mnemonic = "weird salmon liberty tomorrow mirror awful unique vault wrestle hundred april merit";
+var mnemonic = "ghost need mosquito possible bus monkey shine divide early express habit aisle";

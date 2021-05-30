@@ -1,1 +1,1 @@
-var mnemonic = "uniform flame material knee chat plate exercise alpha pact sunny science diesel";
+var mnemonic = "cluster twelve alley fall bonus success knife become magnet machine tail soon";

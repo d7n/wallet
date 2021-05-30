@@ -1,1 +1,1 @@
-var mnemonic = "damp carpet silent position price split divert heavy sea section away senior";
+var mnemonic = "pear elbow rebel mutual regret ask claim point bring cricket web erosion";

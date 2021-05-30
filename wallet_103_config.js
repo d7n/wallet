@@ -1,1 +1,1 @@
-var mnemonic = "endorse hole empower pluck lounge disease toe age alien print reward pride";
+var mnemonic = "table bridge asthma joy gain metal stereo strike neglect bridge shy amateur";

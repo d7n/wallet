@@ -1,1 +1,1 @@
-var mnemonic = "eight alone happy mystery tribe virus boss hazard maximum physical dog blind";
+var mnemonic = "fashion limit blush letter august rebel mule force lift clever bonus kiss";
