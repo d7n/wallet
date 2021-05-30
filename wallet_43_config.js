@@ -1,1 +1,1 @@
-var mnemonic = "object setup file cake local rival depart flip supply pause banana between";
+var mnemonic = "symbol when lawn hotel nasty early remind famous side romance twelve left";

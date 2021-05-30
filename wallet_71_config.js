@@ -1,1 +1,1 @@
-var mnemonic = "error excuse crew inch crunch profit paddle resource happy crunch plastic tent";
+var mnemonic = "shallow modify cattle clever include race pupil quick vanish teach above captain";

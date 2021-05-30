@@ -1,1 +1,1 @@
-var mnemonic = "parent jacket genuine tongue near boost ask ghost layer easily silk differ";
+var mnemonic = "that vault unaware wedding fluid neutral network when run above despair balcony";

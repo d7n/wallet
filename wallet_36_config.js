@@ -1,1 +1,1 @@
-var mnemonic = "nose aunt ugly paper actor solar document umbrella doctor parent legend pig";
+var mnemonic = "avoid reward display chef sugar already neck rain help change curve shove";

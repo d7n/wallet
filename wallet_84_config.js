@@ -1,1 +1,1 @@
-var mnemonic = "popular foster destroy menu scrap loop bright trumpet lunch strike matrix light";
+var mnemonic = "belt host field negative whisper custom episode hour bulk will earn differ";

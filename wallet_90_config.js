@@ -1,1 +1,1 @@
-var mnemonic = "unique exhibit old angry shoulder dial diagram bicycle claim follow narrow cave";
+var mnemonic = "town rescue belt what legend ivory shadow cousin avoid easily hamster expire";

@@ -1,1 +1,1 @@
-var mnemonic = "survey elder client business fold height bamboo earn layer end sibling since";
+var mnemonic = "music issue already increase amount glide near design swallow scrap tide salt";

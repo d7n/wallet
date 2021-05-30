@@ -1,1 +1,1 @@
-var mnemonic = "lumber library athlete unlock since arrange media ostrich hint depend pair point";
+var mnemonic = "coral tooth light shoot plate thank street auto eternal forward shuffle bargain";

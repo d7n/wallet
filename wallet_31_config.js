@@ -1,1 +1,1 @@
-var mnemonic = "pass waste that blur neutral rubber enjoy amount nasty embark true punch";
+var mnemonic = "situate village foot trouble pencil erode citizen misery sunset shove peanut monitor";

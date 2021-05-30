@@ -1,1 +1,1 @@
-var mnemonic = "sense detect purpose electric prepare purse just focus capable clerk abstract autumn";
+var mnemonic = "bundle need oblige dinosaur ugly cradle mother heart quality apple evolve also";

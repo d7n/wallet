@@ -1,1 +1,1 @@
-var mnemonic = "swear depart mass essence bunker upper riot immense where book bus acquire";
+var mnemonic = "rebuild state spice blood tackle glide artist rather barrel grunt fit donate";

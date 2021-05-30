@@ -1,1 +1,1 @@
-var mnemonic = "also attack blue nut degree tube search track phrase giraffe carbon success";
+var mnemonic = "quote arch another bench snack net walk pyramid lumber leaf fresh hope";

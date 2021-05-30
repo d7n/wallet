@@ -1,1 +1,1 @@
-var mnemonic = "gap mercy lyrics mean recipe pink alien mask hello certain bonus warrior";
+var mnemonic = "save year chief spider kidney fantasy amused shrug invite wash beyond payment";

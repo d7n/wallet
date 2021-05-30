@@ -1,1 +1,1 @@
-var mnemonic = "tobacco delay outside gravity burden castle rebel sick strike figure book crater";
+var mnemonic = "annual dash congress pitch ketchup nest lawsuit able neutral strategy clinic illegal";

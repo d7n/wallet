@@ -1,1 +1,1 @@
-var mnemonic = "middle latin sorry hollow summer capable afford spice truck outer cherry reward";
+var mnemonic = "inner iron climb march crime owner magnet monster worry stairs length august";

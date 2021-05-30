@@ -1,1 +1,1 @@
-var mnemonic = "future place anxiety treat immune dignity leaf sadness equal reason ridge off";
+var mnemonic = "uniform flame material knee chat plate exercise alpha pact sunny science diesel";

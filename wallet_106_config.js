@@ -1,1 +1,1 @@
-var mnemonic = "crowd adjust escape own glory tape order athlete dilemma delay number snake";
+var mnemonic = "grain nature chest swing sheriff smoke utility end possible found opera nose";

@@ -1,1 +1,1 @@
-var mnemonic = "remind unlock team expand million comfort forward rain jar ladder local spatial";
+var mnemonic = "symbol traffic brown cupboard undo legend super portion over royal believe calm";

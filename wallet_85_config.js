@@ -1,1 +1,1 @@
-var mnemonic = "arrange pioneer code tube price match mimic upon bicycle private power tell";
+var mnemonic = "salad update retire critic weather question labor nuclear dilemma buzz either lamp";

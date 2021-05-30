@@ -1,1 +1,1 @@
-var mnemonic = "seven argue umbrella say proud general carry maze vendor family truly focus";
+var mnemonic = "snack road brass laugh much rice wise still river security maid detect";

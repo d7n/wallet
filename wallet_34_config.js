@@ -1,1 +1,1 @@
-var mnemonic = "coffee high carpet hurdle turtle rally blue fortune rookie wonder cloud hold";
+var mnemonic = "lawn rubber scale spoil pulse afraid fork garbage begin loan abstract inject";

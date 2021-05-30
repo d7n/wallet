@@ -1,1 +1,1 @@
-var mnemonic = "imitate dragon fiber syrup program miracle job list hill genuine security spare";
+var mnemonic = "spice opinion hip first news immense fragile garment basic oblige gesture rib";

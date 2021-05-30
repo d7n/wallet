@@ -1,1 +1,1 @@
-var mnemonic = "similar energy equip lecture rude addict hunt copy couple concert shift catch";
+var mnemonic = "october pave circle food avoid erosion runway regular game clown erupt guitar";

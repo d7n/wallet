@@ -1,1 +1,1 @@
-var mnemonic = "turkey exit scrub crisp fatigue flame abandon price junk achieve nature paddle";
+var mnemonic = "injury planet surprise gallery fade dragon ladder poet robust net dawn candy";

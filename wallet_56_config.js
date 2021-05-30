@@ -1,1 +1,1 @@
-var mnemonic = "ball sight camp bar real pencil occur spot pigeon upon job neck";
+var mnemonic = "notable robust diesel save torch silent diary waste great insane illegal nephew";

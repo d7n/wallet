@@ -1,1 +1,1 @@
-var mnemonic = "impose medal thing unusual soft vital fantasy broccoli high setup decide seed";
+var mnemonic = "stool humor fault supply crater upset negative observe garage problem rare aisle";

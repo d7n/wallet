@@ -1,1 +1,1 @@
-var mnemonic = "wreck enjoy review quantum picnic seek undo sea join upset divert swift";
+var mnemonic = "humble industry eyebrow bachelor vicious twice exile dolphin addict staff distance reform";

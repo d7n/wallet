@@ -1,1 +1,1 @@
-var mnemonic = "flavor alert leg obscure cheap worry divert rude short grain try piano";
+var mnemonic = "topple foot tonight among twist soccer method earn offer churn lesson rubber";

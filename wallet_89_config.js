@@ -1,1 +1,1 @@
-var mnemonic = "brave pulse noble oppose visa mirror sauce noise hand traffic athlete van";
+var mnemonic = "celery color ball weapon powder trial crystal stand high digital blur liberty";

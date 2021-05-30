@@ -1,1 +1,1 @@
-var mnemonic = "train cover champion smile exile ramp very rebuild valley eager virtual become";
+var mnemonic = "about wait monster double capital nothing license merit output secret correct perfect";

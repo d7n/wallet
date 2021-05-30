@@ -1,1 +1,1 @@
-var mnemonic = "small alone kidney twin level trouble suffer venture decide dress crazy school";
+var mnemonic = "home sword agree pole goose day flee figure more junk lamp auto";

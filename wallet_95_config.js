@@ -1,1 +1,1 @@
-var mnemonic = "stumble desk whisper floor east lumber empower behave pole rare enemy flight";
+var mnemonic = "paper mutual coyote patient common badge flag ginger urge actress vacuum hollow";

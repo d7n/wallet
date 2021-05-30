@@ -1,1 +1,1 @@
-var mnemonic = "often identify link tide drastic assume dinosaur unlock measure immune dwarf document";
+var mnemonic = "laugh crane cherry whisper guitar census giraffe diesel bachelor fantasy bubble olive";

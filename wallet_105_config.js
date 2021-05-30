@@ -1,1 +1,1 @@
-var mnemonic = "govern oak couch toy moon tackle glove aerobic mimic staff wife slot";
+var mnemonic = "option right other razor morning answer arrive pencil satisfy setup also armor";

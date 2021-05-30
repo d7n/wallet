@@ -1,1 +1,1 @@
-var mnemonic = "clarify alcohol used riot mushroom sight sing patient trade lake dune vacant";
+var mnemonic = "exotic term champion reveal engine exhaust congress enemy uncover clip rabbit roof";

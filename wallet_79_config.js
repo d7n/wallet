@@ -1,1 +1,1 @@
-var mnemonic = "bunker joke ketchup pigeon kind dutch process people orchard uncle tattoo purity";
+var mnemonic = "father quantum army catalog position citizen razor buyer hip two summer system";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn jar load student love trip shift panther pond grunt response polar";
+var mnemonic = "range destroy soon leg patient have expose property column middle gentle left";

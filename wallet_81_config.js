@@ -1,1 +1,1 @@
-var mnemonic = "tip isolate music region theory prosper riot coast truck pudding item gather";
+var mnemonic = "ticket uniform job destroy erode tag scout love arrest hollow idea sunny";

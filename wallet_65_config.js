@@ -1,1 +1,1 @@
-var mnemonic = "rescue turkey crucial student ozone modify cabin tortoise ladder damage absent addict";
+var mnemonic = "settle banana admit smile easily guess upper ice oil scan little rebuild";

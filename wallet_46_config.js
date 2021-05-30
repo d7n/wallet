@@ -1,1 +1,1 @@
-var mnemonic = "van bomb clinic coyote undo divide fall park sniff cradle credit patient";
+var mnemonic = "fit jelly decrease jacket next resemble measure ridge relief subject test road";

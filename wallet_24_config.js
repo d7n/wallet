@@ -1,1 +1,1 @@
-var mnemonic = "world hurry aim science useless spend velvet eyebrow panic brother april inch";
+var mnemonic = "menu tiger purse goat album bean cigar foot trumpet peasant chimney flower";

@@ -1,1 +1,1 @@
-var mnemonic = "south grow wage basket endless stone ramp ship real beach pause art";
+var mnemonic = "segment banana random evil battle bunker moral gun robot animal mushroom vintage";

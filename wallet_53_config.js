@@ -1,1 +1,1 @@
-var mnemonic = "elegant maple host mistake patient match light sleep wrong alien art right";
+var mnemonic = "donor drift client tenant consider such announce tool credit endless rich toddler";

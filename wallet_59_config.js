@@ -1,1 +1,1 @@
-var mnemonic = "this dish main when cream glow spray atom client gloom perfect still";
+var mnemonic = "fragile coil learn plug invite network image clump believe charge lizard cream";

@@ -1,1 +1,1 @@
-var mnemonic = "tower coral genius abstract royal march hunt just glimpse dust lens vacant";
+var mnemonic = "yellow spray twin jealous devote obscure okay gadget reflect brain column saddle";

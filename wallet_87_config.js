@@ -1,1 +1,1 @@
-var mnemonic = "inside arrange panic puppy ivory sort sibling paper hedgehog army cluster board";
+var mnemonic = "merge govern glass tragic wife barely edge shift people together brick mountain";

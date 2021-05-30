@@ -1,1 +1,1 @@
-var mnemonic = "afford tell cause talk stamp fit bamboo harvest wave exist repeat hurdle";
+var mnemonic = "distance clog crouch exhaust various soccer cost jeans review link reflect regret";

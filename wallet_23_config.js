@@ -1,1 +1,1 @@
-var mnemonic = "bulb copy conduct pretty type marble leader erode survey fuel whale tribe";
+var mnemonic = "slab dove muffin exercise artist base suffer auction gas whale motion harsh";

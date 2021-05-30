@@ -1,1 +1,1 @@
-var mnemonic = "extend cube kidney diet length below peanut ask lumber hair hover congress";
+var mnemonic = "test develop trap surface orchard salt clip bag present sadness post shuffle";

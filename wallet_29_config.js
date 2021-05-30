@@ -1,1 +1,1 @@
-var mnemonic = "crouch quarter book into advance tuition decrease half collect camera inside history";
+var mnemonic = "can smart snow setup clip immune punch vote company age funny planet";

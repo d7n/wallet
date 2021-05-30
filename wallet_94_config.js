@@ -1,1 +1,1 @@
-var mnemonic = "title raven life tag scorpion output mouse update island include tree inform";
+var mnemonic = "intact soon method fruit expand family theme stable move reform kangaroo adjust";

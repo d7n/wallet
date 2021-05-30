@@ -1,1 +1,1 @@
-var mnemonic = "radio loop yellow meadow flee infant recipe sunny mechanic riot magnet act";
+var mnemonic = "phone market universe nothing inspire drum any farm phone first gift law";

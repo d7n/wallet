@@ -1,1 +1,1 @@
-var mnemonic = "limb recipe fat pelican enact sort abstract gauge memory off fabric bonus";
+var mnemonic = "video divert bench father height table window chief minute express worry write";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil prepare hazard try explain toast attack floor ten effort laptop rabbit";
+var mnemonic = "lunar fox congress kick mammal shrug puzzle column tree afford sunset idle";

@@ -1,1 +1,1 @@
-var mnemonic = "shift maximum essence opinion suggest zoo saddle thumb gaze rubber crumble ladder";
+var mnemonic = "alpha will select physical tired dove critic extend jaguar expire spike common";

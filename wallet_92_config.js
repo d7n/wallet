@@ -1,1 +1,1 @@
-var mnemonic = "else aim tomorrow calm comic day wait scheme reward labor jelly fall";
+var mnemonic = "priority gather absorb sun life hidden maze squirrel around admit youth time";

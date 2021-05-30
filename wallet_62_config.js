@@ -1,1 +1,1 @@
-var mnemonic = "resource staff ship analyst town shiver fresh common potato expect height click";
+var mnemonic = "limb detail crew access actor gun inhale cause slender digital first castle";

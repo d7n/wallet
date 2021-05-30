@@ -1,1 +1,1 @@
-var mnemonic = "invite ill lottery find define inch relief sad valid today bone awesome";
+var mnemonic = "endorse hole empower pluck lounge disease toe age alien print reward pride";

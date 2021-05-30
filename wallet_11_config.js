@@ -1,1 +1,1 @@
-var mnemonic = "poverty paper already lab crowd sun wonder whisper stairs actress bamboo scatter";
+var mnemonic = "morning diesel undo able joke lesson best wire they fringe impact legal";

@@ -1,1 +1,1 @@
-var mnemonic = "live shield employ fury human wash canoe pear cart suspect oven charge";
+var mnemonic = "jelly dirt exclude symptom mother join famous prepare scatter celery only dizzy";

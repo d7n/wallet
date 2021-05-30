@@ -1,1 +1,1 @@
-var mnemonic = "weapon author banner rail opera theory cute furnace enact help board violin";
+var mnemonic = "they village blush suffer grace genre lion range parent width awful credit";

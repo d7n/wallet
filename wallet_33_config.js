@@ -1,1 +1,1 @@
-var mnemonic = "father balcony divorce label coin brave already lend what fall spice camp";
+var mnemonic = "mind chase cluster gym tackle devote correct expect situate mirror shed topple";

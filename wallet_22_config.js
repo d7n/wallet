@@ -1,1 +1,1 @@
-var mnemonic = "chuckle today okay measure joy banana strategy bright drip lens olive frame";
+var mnemonic = "acoustic angle room damage math segment test wire scare damage fire scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "lava gadget company juice cliff purse rug shallow cheap beyond cricket aware";
+var mnemonic = "hair swear good oven damp blade eternal crop soda wife attitude arctic";

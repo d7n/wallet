@@ -1,1 +1,1 @@
-var mnemonic = "monster bunker creek lizard sphere holiday boring gauge arrange loud topple gallery";
+var mnemonic = "soul banner people surprise clump exotic sea crisp head hungry spend figure";

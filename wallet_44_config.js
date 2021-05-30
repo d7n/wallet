@@ -1,1 +1,1 @@
-var mnemonic = "resist scheme rubber position traffic artefact dilemma hidden food rigid pencil rose";
+var mnemonic = "raven pelican sun dish remove drum thing bronze release goose like public";

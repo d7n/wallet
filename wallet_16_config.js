@@ -1,1 +1,1 @@
-var mnemonic = "practice foil walk moment purpose lake dash maple prosper long arena recycle";
+var mnemonic = "glance update bitter patch piano tuna wedding pottery now truck before effort";

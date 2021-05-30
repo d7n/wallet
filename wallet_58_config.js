@@ -1,1 +1,1 @@
-var mnemonic = "vast taste buyer ritual punch crowd body garage diagram unfold crane autumn";
+var mnemonic = "trade stem switch desert banana siren father alter account heavy woman economy";

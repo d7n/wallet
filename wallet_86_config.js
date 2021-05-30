@@ -1,1 +1,1 @@
-var mnemonic = "simple prison dog arm outer blame connect session parent glimpse jar reason";
+var mnemonic = "oak punch town chief lonely insane pumpkin dash bubble region any long";

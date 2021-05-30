@@ -1,1 +1,1 @@
-var mnemonic = "regular humor budget work spell silk list snow dolphin dry faith belt";
+var mnemonic = "position coast spider decline weasel ship immense rack job seek already wait";

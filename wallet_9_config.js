@@ -1,1 +1,1 @@
-var mnemonic = "move price culture sort window modify tomorrow laundry sudden hammer flee laugh";
+var mnemonic = "rain fresh gym lunch leave match gallery truth pilot enter skin embody";

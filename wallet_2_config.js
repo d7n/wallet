@@ -1,1 +1,1 @@
-var mnemonic = "orbit rich flavor original elite capable earn note retire govern end verb";
+var mnemonic = "spirit chief claw ordinary old want immense hammer call appear differ east";

@@ -1,1 +1,1 @@
-var mnemonic = "rough best dad clump kit expire govern design half lobster march ginger";
+var mnemonic = "shoe about talent huge easy index party buzz fade legend tunnel husband";

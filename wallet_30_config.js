@@ -1,1 +1,1 @@
-var mnemonic = "horn drip fire lazy false circle web market shaft vivid atom clarify";
+var mnemonic = "fiction company rotate dial sing fat daring divert egg dose guilt shallow";

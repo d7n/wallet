@@ -1,1 +1,1 @@
-var mnemonic = "discover audit anchor spike dial fitness seven until tape tell job spin";
+var mnemonic = "magnet solution dignity buyer unfair exotic lift upgrade output scare gesture farm";

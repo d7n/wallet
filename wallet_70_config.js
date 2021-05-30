@@ -1,1 +1,1 @@
-var mnemonic = "abandon start art winner identify mobile payment kangaroo melody human promote orchard";
+var mnemonic = "ski clean trend enforce speed design minute sick donor trip exchange sail";

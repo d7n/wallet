@@ -1,1 +1,1 @@
-var mnemonic = "eager rally task rib bubble clarify divert grit snow beach switch drama";
+var mnemonic = "hint extend health knock globe cricket slush jewel cheap rack notice large";

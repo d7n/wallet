@@ -1,1 +1,1 @@
-var mnemonic = "cook suit slam unveil denial humor auction dutch skate waste oak cloth";
+var mnemonic = "damp carpet silent position price split divert heavy sea section away senior";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy long crater sell illegal favorite shy pistol display happy attitude unlock";
+var mnemonic = "lens snack love human exhaust dignity will witness minimum clay puzzle option";

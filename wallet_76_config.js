@@ -1,1 +1,1 @@
-var mnemonic = "vivid clip soon circle outer response blossom man head dynamic hazard during";
+var mnemonic = "moon worry much where version laptop switch submit odor behind panel immune";

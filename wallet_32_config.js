@@ -1,1 +1,1 @@
-var mnemonic = "answer trick all screen useless shove ball rent dutch giggle able feature";
+var mnemonic = "comfort body trophy flower party rural cricket save much prevent major hint";

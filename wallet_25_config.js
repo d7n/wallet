@@ -1,1 +1,1 @@
-var mnemonic = "brush elite gas super vessel above grid morning romance ordinary blouse sunny";
+var mnemonic = "pig identify acquire bean polar chronic toward manage easily rigid rail inspire";

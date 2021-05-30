@@ -1,1 +1,1 @@
-var mnemonic = "run divert pen hover brisk broom pottery axis unfair harvest bird average";
+var mnemonic = "weird salmon liberty tomorrow mirror awful unique vault wrestle hundred april merit";

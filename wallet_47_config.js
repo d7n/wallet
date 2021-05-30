@@ -1,1 +1,1 @@
-var mnemonic = "account blur bottom level elbow laugh unable stock slide midnight robot clean";
+var mnemonic = "struggle cover position venture planet ritual horror clown ramp aunt broom flash";

@@ -1,1 +1,1 @@
-var mnemonic = "correct basket critic acid mail sand very any voice tragic enemy robust";
+var mnemonic = "salt flame coconut body song split slide memory urban idle pumpkin sibling";

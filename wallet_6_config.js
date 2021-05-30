@@ -1,1 +1,1 @@
-var mnemonic = "turkey scan skill basic minute clerk cross make answer scrub eight space";
+var mnemonic = "wrap tank license crane chat zebra dizzy intact guess round celery car";

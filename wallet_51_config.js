@@ -1,1 +1,1 @@
-var mnemonic = "garlic spoil mixed bid entry indicate color pulse spoon father fantasy naive";
+var mnemonic = "swamp bar spatial choice gate fiction job coffee vacuum upper federal finish";

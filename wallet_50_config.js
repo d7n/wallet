@@ -1,1 +1,1 @@
-var mnemonic = "party cattle grid bridge clap cruise vault blossom pole around tennis famous";
+var mnemonic = "fatal prize false chalk prize symbol begin final demand provide observe submit";

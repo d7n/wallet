@@ -1,1 +1,1 @@
-var mnemonic = "trap still witness current oil lunch state congress priority carry dizzy clay";
+var mnemonic = "napkin ceiling together talent sketch grief olympic actual sauce bracket educate light";

@@ -1,1 +1,1 @@
-var mnemonic = "middle snack expose garlic conduct heavy tired catalog detail leopard water close";
+var mnemonic = "turn fiscal slush explain auto trade witness option average vapor oxygen success";

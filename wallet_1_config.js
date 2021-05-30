@@ -1,1 +1,1 @@
-var mnemonic = "marriage flavor party grace jewel coil avoid need rubber push phrase educate";
+var mnemonic = "eight alone happy mystery tribe virus boss hazard maximum physical dog blind";

@@ -1,1 +1,1 @@
-var mnemonic = "route submit million execute orchard tongue social able divorce enact staff dignity";
+var mnemonic = "few nominee aim resemble pool key whip love depart truck balcony lyrics";

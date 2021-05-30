@@ -1,1 +1,1 @@
-var mnemonic = "judge multiply nature door admit normal leg venture novel brand gesture august";
+var mnemonic = "admit suspect worth decrease holiday fly develop oak shoulder soap extend seed";

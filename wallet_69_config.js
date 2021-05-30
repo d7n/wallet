@@ -1,1 +1,1 @@
-var mnemonic = "flash cargo fox decline unusual desk rebel soft during speak win impact";
+var mnemonic = "chalk sure face equal tomorrow puzzle bulk left minimum what crystal myself";
