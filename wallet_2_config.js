@@ -1,1 +1,1 @@
-var mnemonic = "segment orbit tool oxygen suit library open hero swamp blind distance nation";
+var mnemonic = "verify album step rifle beach gesture sweet ability stairs news march nuclear";

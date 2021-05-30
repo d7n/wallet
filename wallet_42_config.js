@@ -1,1 +1,1 @@
-var mnemonic = "timber regret coffee similar update skate buzz tribe pistol double believe flip";
+var mnemonic = "kitten nothing repeat agent buzz angle powder faint mutual burger excuse interest";

@@ -1,1 +1,1 @@
-var mnemonic = "armed sleep recall invite stumble hospital humble street master credit chicken hat";
+var mnemonic = "razor genre lobster bring popular tortoise outer ticket message elephant tennis drive";

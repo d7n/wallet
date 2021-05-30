@@ -1,1 +1,1 @@
-var mnemonic = "sand rice bonus vault guilt reward guide theory priority knee aisle crater";
+var mnemonic = "math pig life usage lazy gadget stomach destroy network evoke announce card";

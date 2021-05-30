@@ -1,1 +1,1 @@
-var mnemonic = "resource wagon jeans design crumble organ bone pet forum dolphin rare pig";
+var mnemonic = "spice foot vacuum miss buffalo nasty wife guard unusual luxury large urge";

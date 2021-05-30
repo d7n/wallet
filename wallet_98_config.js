@@ -1,1 +1,1 @@
-var mnemonic = "execute dove fury iron spot upset charge clever admit impact wrong silk";
+var mnemonic = "phone cloud stable occur flee gesture rural rapid tank strategy quiz property";

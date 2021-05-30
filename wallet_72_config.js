@@ -1,1 +1,1 @@
-var mnemonic = "throw seven under mansion nerve similar verb picnic shrug chat spare gauge";
+var mnemonic = "stove nature hospital face ship wagon never describe hawk guilt portion obscure";

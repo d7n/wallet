@@ -1,1 +1,1 @@
-var mnemonic = "hammer forward motion hamster casino morning grain ring kiwi between spawn usage";
+var mnemonic = "lady believe there forward they patient lady shed edge afraid magic correct";

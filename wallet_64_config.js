@@ -1,1 +1,1 @@
-var mnemonic = "school pipe hint despair point rescue stand donate column before setup voyage";
+var mnemonic = "ignore gym quarter solution ghost bachelor record peasant exile deposit device such";

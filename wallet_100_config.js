@@ -1,1 +1,1 @@
-var mnemonic = "license afford diagram occur roof mystery inflict twin convince dutch easy mystery";
+var mnemonic = "hole rice repair worth home where hold taxi common slender accident laptop";

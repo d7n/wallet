@@ -1,1 +1,1 @@
-var mnemonic = "friend narrow into manage orient umbrella skirt burger vendor level unveil jewel";
+var mnemonic = "neglect friend adult creek liquid puzzle adapt bike curious leg lottery glad";

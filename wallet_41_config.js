@@ -1,1 +1,1 @@
-var mnemonic = "scare wild effort civil strike unhappy settle foster gasp gravity great nose";
+var mnemonic = "sister cradle fold gauge put all alert canal trumpet pistol use area";

@@ -1,1 +1,1 @@
-var mnemonic = "mule annual load foam yellow battle cram caught canoe cake glue carbon";
+var mnemonic = "captain magic limb acquire game bargain ride refuse immune tortoise foam card";

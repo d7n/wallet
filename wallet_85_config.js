@@ -1,1 +1,1 @@
-var mnemonic = "plastic sound borrow hamster parrot spare crew change electric firm skull alien";
+var mnemonic = "tobacco curtain swarm dial decorate skin must essay top regret into provide";

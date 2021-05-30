@@ -1,1 +1,1 @@
-var mnemonic = "hundred need interest tube library depart unknown push crunch puppy wisdom hockey";
+var mnemonic = "tuna husband find letter industry cute flush symptom teach anxiety garlic grief";

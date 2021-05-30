@@ -1,1 +1,1 @@
-var mnemonic = "dilemma protect shield social image forest rail fuel fabric open bulk course";
+var mnemonic = "enlist champion novel tragic vivid pulse devote galaxy deer oxygen admit reject";

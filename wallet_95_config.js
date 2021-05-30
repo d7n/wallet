@@ -1,1 +1,1 @@
-var mnemonic = "tuition world token behind soft liberty below pear verify gift pattern curve";
+var mnemonic = "next lemon unfair bridge identify repair chair solar fiction verify egg cactus";

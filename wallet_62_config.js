@@ -1,1 +1,1 @@
-var mnemonic = "knock woman faint client supply peanut extend festival discover kiwi honey sibling";
+var mnemonic = "sugar pledge stage negative poet spell way glare view shop hen vote";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale define jelly bronze select region skull dad range pair sight sister";
+var mnemonic = "when knock area junk knock spin december pistol slide system ability correct";

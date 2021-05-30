@@ -1,1 +1,1 @@
-var mnemonic = "public mixed topic marble movie suggest zero side shuffle type thank adult";
+var mnemonic = "main shoot truly slush mixture leader viable sure bless scan twice jeans";

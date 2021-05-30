@@ -1,1 +1,1 @@
-var mnemonic = "joy chimney unveil give ski legend simple very total learn youth stock";
+var mnemonic = "pioneer chunk silk furnace photo secret exhibit torch owner strike scale tape";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza flock develop tortoise obscure hybrid paper sad risk wing write crew";
+var mnemonic = "same about stool patch multiply cactus injury cotton ride piano merit tackle";

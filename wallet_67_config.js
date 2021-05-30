@@ -1,1 +1,1 @@
-var mnemonic = "vacant energy hard wrestle grant foam sniff history genre rude ice expose";
+var mnemonic = "recycle vault food swing any stay review awesome embrace replace prevent gym";

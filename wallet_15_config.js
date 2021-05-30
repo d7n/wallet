@@ -1,1 +1,1 @@
-var mnemonic = "shaft luxury permit middle correct mushroom diagram since blood purchase test tower";
+var mnemonic = "source select donkey broom soldier flat limit dutch parade feel clump move";

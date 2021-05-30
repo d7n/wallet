@@ -1,1 +1,1 @@
-var mnemonic = "seminar oval fold afford original ozone fly skull deputy curtain talent please";
+var mnemonic = "frost token soup furnace reflect hobby open woman guide injury vast relief";

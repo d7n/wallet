@@ -1,1 +1,1 @@
-var mnemonic = "swallow rhythm afraid decide regret example member antenna edit another pride lift";
+var mnemonic = "usage there swift multiply club vendor flat beef island neither radar dream";

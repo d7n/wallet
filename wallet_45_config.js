@@ -1,1 +1,1 @@
-var mnemonic = "rail often they biology brand swallow lion earn hand economy sunset mixed";
+var mnemonic = "attack eager artwork leader peace hard hub zoo luggage trick dog spider";

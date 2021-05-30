@@ -1,1 +1,1 @@
-var mnemonic = "lizard adult blame faith pet bubble volume patch palace judge vacuum almost";
+var mnemonic = "ostrich until entire huge teach proof pledge lens brass cradle dash foster";

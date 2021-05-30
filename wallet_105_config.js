@@ -1,1 +1,1 @@
-var mnemonic = "essay fragile warm elder bonus sail oppose gasp situate pigeon permit puppy";
+var mnemonic = "dinner bridge aim clock kitchen buddy fish rubber gather color lumber over";

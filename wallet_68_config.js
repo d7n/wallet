@@ -1,1 +1,1 @@
-var mnemonic = "furnace flavor wink then fatigue fee forward guess vapor tonight hope slab";
+var mnemonic = "hospital foam enhance midnight blade mango wink now make island faint photo";

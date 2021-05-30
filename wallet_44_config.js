@@ -1,1 +1,1 @@
-var mnemonic = "term wire differ frown put surprise image angle purse walnut few meat";
+var mnemonic = "exit desk laugh under safe deputy lamp return pass bonus weasel topple";

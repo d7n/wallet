@@ -1,1 +1,1 @@
-var mnemonic = "bracket crater detect venue team chuckle lunar dwarf fever deposit person motor";
+var mnemonic = "large night idea betray relief bounce cube clap curve hero crater about";

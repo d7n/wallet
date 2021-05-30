@@ -1,1 +1,1 @@
-var mnemonic = "scene sniff sadness wink pool arrange frost still pizza dog off relief";
+var mnemonic = "crumble express real join banner ugly save upon you garage wear barrel";

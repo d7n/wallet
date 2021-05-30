@@ -1,1 +1,1 @@
-var mnemonic = "suspect popular destroy repeat stuff label fox danger glimpse board conduct elephant";
+var mnemonic = "pear else cliff water seminar good bubble symptom leisure again twice pigeon";

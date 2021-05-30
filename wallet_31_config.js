@@ -1,1 +1,1 @@
-var mnemonic = "rose library symptom slide aisle slim bone brother swear mean resemble spin";
+var mnemonic = "layer pistol submit memory depend cotton ripple siren weird plug sea shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact order wash inject october outside dose winter virus employ crawl solve";
+var mnemonic = "exit expect exotic undo fetch inch captain enlist coffee slide struggle injury";

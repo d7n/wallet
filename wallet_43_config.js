@@ -1,1 +1,1 @@
-var mnemonic = "crisp rich inch abuse wisdom leisure hundred roof brother drastic useless vessel";
+var mnemonic = "inject prosper trade chat list carry potato october gravity argue dice indoor";

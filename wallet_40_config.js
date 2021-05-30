@@ -1,1 +1,1 @@
-var mnemonic = "history address negative extend hold test legend artefact frog visa lecture option";
+var mnemonic = "build travel gorilla salute proud wing puppy else glory island unique mixture";

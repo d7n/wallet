@@ -1,1 +1,1 @@
-var mnemonic = "voyage vibrant hedgehog dash remain this digital lyrics motion boat genre huge";
+var mnemonic = "exact brave width today bulk lion carpet soldier pioneer there indicate toast";

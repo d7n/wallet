@@ -1,1 +1,1 @@
-var mnemonic = "easy balcony faint oven tonight topic project gown clerk region churn rate";
+var mnemonic = "famous lemon firm inside damage morning vehicle staff surround parade robot sunny";

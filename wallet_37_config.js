@@ -1,1 +1,1 @@
-var mnemonic = "upper segment illness plastic tip another corn stem awake cushion casual theory";
+var mnemonic = "ignore virus want exotic right absorb labor cruise meat bulb champion park";

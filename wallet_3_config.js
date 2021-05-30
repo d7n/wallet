@@ -1,1 +1,1 @@
-var mnemonic = "obscure announce glimpse delay half defense remember top idea enjoy inside text";
+var mnemonic = "away knock magic knock display spot super scout twelve blast flock relief";

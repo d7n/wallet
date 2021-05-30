@@ -1,1 +1,1 @@
-var mnemonic = "mail love margin enhance timber say remind memory regular type east hybrid";
+var mnemonic = "hidden join capital round attack pottery army album ring twenty nominee exist";

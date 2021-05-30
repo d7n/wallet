@@ -1,1 +1,1 @@
-var mnemonic = "video year claw leopard month nurse core tray fever coil work unknown";
+var mnemonic = "glass turkey few uphold nerve insect address summer virtual margin lesson diary";

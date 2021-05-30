@@ -1,1 +1,1 @@
-var mnemonic = "can coffee meadow bleak garden six amount empty better power screen topic";
+var mnemonic = "silver museum toilet clown yellow cloth naive seed chalk busy maid burger";

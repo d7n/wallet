@@ -1,1 +1,1 @@
-var mnemonic = "grain broom vault crane swamp solve quantum manual gaze strong end reunion";
+var mnemonic = "city hotel ice wheel throw orient face student ready sample verb riot";

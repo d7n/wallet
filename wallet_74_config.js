@@ -1,1 +1,1 @@
-var mnemonic = "follow topic clutch core school boss cup flight coach grow fall enact";
+var mnemonic = "betray reduce junk cliff mail connect afraid legend like mushroom purity sister";

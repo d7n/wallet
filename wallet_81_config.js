@@ -1,1 +1,1 @@
-var mnemonic = "social process crater helmet valid predict admit giraffe gauge attitude hungry fade";
+var mnemonic = "expire rotate apart photo night very wreck aware retire vicious develop enough";

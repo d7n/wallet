@@ -1,1 +1,1 @@
-var mnemonic = "color civil engine argue labor rain develop boil under brush awesome shrimp";
+var mnemonic = "spin blouse coin audit number humor tuition garlic alarm execute health board";

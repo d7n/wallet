@@ -1,1 +1,1 @@
-var mnemonic = "okay kit glimpse moon across youth prize jeans century escape comic tilt";
+var mnemonic = "library rigid online quit badge cause upper rug picnic noise palm entry";

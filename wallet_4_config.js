@@ -1,1 +1,1 @@
-var mnemonic = "property focus easily distance carpet lucky ignore wild market inside change delay";
+var mnemonic = "typical birth diary million swarm debris father oval original capable now dial";

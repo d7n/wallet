@@ -1,1 +1,1 @@
-var mnemonic = "close crater spread gorilla club demise wrong chaos borrow liquid duty dog";
+var mnemonic = "help phone pulse crime split caught cruise suit fall sustain slow aspect";

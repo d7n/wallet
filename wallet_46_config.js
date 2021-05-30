@@ -1,1 +1,1 @@
-var mnemonic = "then soul salad salad link initial slush recall glad frozen oval labor";
+var mnemonic = "valid shine decorate approve recycle trim silent sample right meat truly problem";

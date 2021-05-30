@@ -1,1 +1,1 @@
-var mnemonic = "conduct copper captain invest behind employ fuel stool crowd random acoustic elevator";
+var mnemonic = "vehicle syrup music shiver fossil strategy spread hockey devote swallow ramp caught";

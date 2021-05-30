@@ -1,1 +1,1 @@
-var mnemonic = "you acid swamp question two flip zebra spring involve hair liquid insect";
+var mnemonic = "cancel hamster prosper finger mask style reject rabbit angry much crunch olive";

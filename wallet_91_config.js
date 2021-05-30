@@ -1,1 +1,1 @@
-var mnemonic = "code loan cheap plate owner machine mango twice cliff annual exact impact";
+var mnemonic = "alter pulp produce city noodle resemble dilemma insane nature flat limb stadium";

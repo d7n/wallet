@@ -1,1 +1,1 @@
-var mnemonic = "crucial rare upset rare pull wear famous find wet hello gloom push";
+var mnemonic = "fork task quality saddle type tuna embrace scan kidney depend sure liberty";

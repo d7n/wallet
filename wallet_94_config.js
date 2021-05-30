@@ -1,1 +1,1 @@
-var mnemonic = "pear flower seven shift clinic light pumpkin clutch any glove transfer smooth";
+var mnemonic = "purpose melt nut sport over second home bus soap beyond view gaze";

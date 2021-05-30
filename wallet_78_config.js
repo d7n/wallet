@@ -1,1 +1,1 @@
-var mnemonic = "future bundle maid much twelve grant family canoe usual charge file sweet";
+var mnemonic = "echo upon elephant present remain element float marble enjoy nature myth main";

@@ -1,1 +1,1 @@
-var mnemonic = "name fish mass then antique disease symptom scene future gun barely snack";
+var mnemonic = "museum hamster antenna shallow only six twelve rebel affair author crash focus";

@@ -1,1 +1,1 @@
-var mnemonic = "notice omit wait similar fatigue axis draft stay clock foot apple reason";
+var mnemonic = "vacant quit flash sand kingdom pen brain science order tube short damp";

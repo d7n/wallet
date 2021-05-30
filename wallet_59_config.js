@@ -1,1 +1,1 @@
-var mnemonic = "hurry renew warm round indicate angle man field morning collect bless foam";
+var mnemonic = "depart cement catch print sport upgrade clip easy apart ginger initial sort";

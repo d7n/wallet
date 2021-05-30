@@ -1,1 +1,1 @@
-var mnemonic = "sunset gentle property nose genius priority august grunt only scrub foil attend";
+var mnemonic = "river soda salt awake traffic polar country frozen oxygen wrestle distance tunnel";

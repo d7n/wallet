@@ -1,1 +1,1 @@
-var mnemonic = "riot soda used adult volcano stone hello tell afraid bulb spice safe";
+var mnemonic = "rebel engine guard cigar shop brain fatal diamond nut matter outer desert";

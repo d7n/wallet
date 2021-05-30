@@ -1,1 +1,1 @@
-var mnemonic = "also fade fiction since thumb horse day welcome blue emerge message faith";
+var mnemonic = "neutral give practice airport defense dog supreme analyst race corn post wagon";

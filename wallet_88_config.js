@@ -1,1 +1,1 @@
-var mnemonic = "post butter photo gloom hood concert weasel chicken virtual song brand donkey";
+var mnemonic = "ski end cabbage pelican toss silk pave enemy increase adult secret mask";

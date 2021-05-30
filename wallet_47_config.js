@@ -1,1 +1,1 @@
-var mnemonic = "frost swamp spare leave quit domain uniform year around cloth sing argue";
+var mnemonic = "assault glove loop suggest ivory crucial split surge kidney what approve brain";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion collect tissue capital erase winter few zebra duty tongue slim prepare";
+var mnemonic = "people antique deliver unveil eye notice speak cousin wall mimic depth body";

@@ -1,1 +1,1 @@
-var mnemonic = "false group avocado scatter recycle marriage cost pistol around inject visual obtain";
+var mnemonic = "health envelope eight much onion trouble music fix level much material move";

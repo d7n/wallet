@@ -1,1 +1,1 @@
-var mnemonic = "evil cattle jealous file shield shallow rug february pen volume history wish";
+var mnemonic = "near female battle attract pilot tornado gentle square journey motor coffee same";

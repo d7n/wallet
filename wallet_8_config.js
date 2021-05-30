@@ -1,1 +1,1 @@
-var mnemonic = "slender grit van hunt acquire list beef level merge math renew paddle";
+var mnemonic = "ill future myth umbrella web easy fantasy know bulk priority tuna then";

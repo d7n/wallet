@@ -1,1 +1,1 @@
-var mnemonic = "follow snow tunnel other winter body carry unusual valley detail parade beauty";
+var mnemonic = "equal north bomb law visit sea push merge scrap common enemy method";

@@ -1,1 +1,1 @@
-var mnemonic = "gift track east woman write indicate disorder rose volcano still trial category";
+var mnemonic = "miss major aunt east position achieve liar camp fan cake grid finger";

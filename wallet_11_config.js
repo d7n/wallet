@@ -1,1 +1,1 @@
-var mnemonic = "jungle damage spray water smart much powder keep invite credit other menu";
+var mnemonic = "rack zone skirt series minimum relax vehicle achieve pen awesome misery elephant";

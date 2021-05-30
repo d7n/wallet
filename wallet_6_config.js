@@ -1,1 +1,1 @@
-var mnemonic = "deliver deal process thing luxury blur wolf resource leg fall pizza six";
+var mnemonic = "kick stomach pave hybrid hint burger lucky common also output phone seed";

@@ -1,1 +1,1 @@
-var mnemonic = "educate moon law border theme knock monster escape little bronze abandon arena";
+var mnemonic = "base square flush female outside kangaroo cram flame craft lunar cool favorite";

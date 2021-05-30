@@ -1,1 +1,1 @@
-var mnemonic = "unhappy divorce copper series erupt olympic thrive giraffe insect public fine camera";
+var mnemonic = "father neglect duty proud sick prison onion immune ramp tumble vanish desk";

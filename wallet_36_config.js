@@ -1,1 +1,1 @@
-var mnemonic = "verb december follow lake axis hedgehog zone relief spider film pyramid sock";
+var mnemonic = "raise fade penalty cover element kid example pipe praise divide cabin earn";

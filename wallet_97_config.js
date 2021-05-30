@@ -1,1 +1,1 @@
-var mnemonic = "brass aspect divide destroy sudden enroll lumber pause music autumn split tank";
+var mnemonic = "enrich rate hotel nest arrange unit confirm february ugly remove okay salute";

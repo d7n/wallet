@@ -1,1 +1,1 @@
-var mnemonic = "calm describe zero gauge student govern bright embrace gesture burst waste lesson";
+var mnemonic = "bridge rural stick jealous fortune cart beef sick essay olive decrease round";

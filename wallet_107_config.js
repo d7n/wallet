@@ -1,1 +1,1 @@
-var mnemonic = "hero core crop bike door skin acid defense panel helmet shed recall";
+var mnemonic = "bridge pause success series walnut sugar useful topple web legal visual cycle";

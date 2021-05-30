@@ -1,1 +1,1 @@
-var mnemonic = "fine slot smart afford author useful furnace focus destroy mouse pool hunt";
+var mnemonic = "luxury curious about opinion boring spread catalog slow wash approve six flight";

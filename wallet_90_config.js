@@ -1,1 +1,1 @@
-var mnemonic = "rally similar leave goat butter business talent glimpse father choice spin cherry";
+var mnemonic = "such arm acid into little erode satisfy hat depth normal route arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon earn ivory cannon sausage undo vessel poem belt toss put below";
+var mnemonic = "decade another vast rural source shift equip busy duty sunset kangaroo cram";

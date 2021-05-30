@@ -1,1 +1,1 @@
-var mnemonic = "shiver amateur idle paddle divert luxury game turtle ticket execute warfare panic";
+var mnemonic = "multiply off crumble iron misery wisdom pride quality pledge siege view rain";

@@ -1,1 +1,1 @@
-var mnemonic = "portion news clump skill skin domain risk real pistol black rigid plate";
+var mnemonic = "detail afford mouse pave only trust move staff tip program health cost";
