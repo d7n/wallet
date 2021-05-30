@@ -1,1 +1,1 @@
-var mnemonic = "aspect evoke manual book possible witness cruel toss thrive certain margin system";
+var mnemonic = "movie soap borrow find saddle income mean water rigid tissue shaft ice";

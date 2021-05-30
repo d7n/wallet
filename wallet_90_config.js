@@ -1,1 +1,1 @@
-var mnemonic = "shiver rotate skin have skill vendor expose vote black antenna success shiver";
+var mnemonic = "proud person assault riot object spike drip display volume assault hundred assume";

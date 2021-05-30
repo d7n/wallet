@@ -1,1 +1,1 @@
-var mnemonic = "power subject bullet prosper enact practice spell polar pistol hedgehog boost tuition";
+var mnemonic = "happy zero ankle shaft police glove double submit clap potato ocean danger";

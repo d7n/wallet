@@ -1,1 +1,1 @@
-var mnemonic = "seed enter property seed check office science cousin coin thunder evil pudding";
+var mnemonic = "fish balcony biology fortune push iron image keep flavor athlete blame any";

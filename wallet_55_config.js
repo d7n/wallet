@@ -1,1 +1,1 @@
-var mnemonic = "indoor improve return dynamic rifle window junior ice mask crowd essay agree";
+var mnemonic = "shed layer retreat vocal grief uphold grab cash switch valid welcome true";

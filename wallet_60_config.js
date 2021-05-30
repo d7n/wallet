@@ -1,1 +1,1 @@
-var mnemonic = "ability muscle rigid leader quantum depth tape crunch when diary animal twelve";
+var mnemonic = "vote citizen follow absent evil sponsor tree rule robot elevator oyster enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic tag barrel excite game dismiss trust grow trumpet coil plunge expect";
+var mnemonic = "injury pizza welcome shallow casino toilet victory wash tail area capital oval";

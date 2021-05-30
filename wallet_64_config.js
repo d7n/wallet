@@ -1,1 +1,1 @@
-var mnemonic = "must benefit happy false visual shaft impact tortoise bracket invite road occur";
+var mnemonic = "fruit into pulse reopen enlist young trial window win sting spoon tuna";

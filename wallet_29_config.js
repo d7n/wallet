@@ -1,1 +1,1 @@
-var mnemonic = "vital chest setup mom adapt trial time split essence then artwork toy";
+var mnemonic = "north feature afford ride drive spread dance zoo camp sugar ghost void";

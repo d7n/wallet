@@ -1,1 +1,1 @@
-var mnemonic = "popular tissue empty potato embrace hunt illegal rent immense vacuum divide north";
+var mnemonic = "crack forum penalty bus kick dog great wink genuine marriage enrich actor";

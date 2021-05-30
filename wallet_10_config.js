@@ -1,1 +1,1 @@
-var mnemonic = "city region fringe history bacon inmate odor salon shine wine network air";
+var mnemonic = "ankle doll bless output decline sample chair impulse stove style nephew dwarf";

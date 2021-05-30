@@ -1,1 +1,1 @@
-var mnemonic = "satoshi museum friend glove bullet tomorrow repeat door crime arrive lumber judge";
+var mnemonic = "divert breeze cross glance urge success wool fan churn wall island confirm";

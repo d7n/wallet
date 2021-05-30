@@ -1,1 +1,1 @@
-var mnemonic = "museum twice lonely afraid fun flavor author panther property unhappy viable punch";
+var mnemonic = "demand move dance crawl similar capable awake feel pact relief pizza habit";

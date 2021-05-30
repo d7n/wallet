@@ -1,1 +1,1 @@
-var mnemonic = "debate differ royal rescue comic current other swallow frog tank another final";
+var mnemonic = "neck equal north mercy control mimic alter purpose either mix wire cloud";

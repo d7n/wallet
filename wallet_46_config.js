@@ -1,1 +1,1 @@
-var mnemonic = "decorate tuna chalk gain lava barely surge feature music street tower shoot";
+var mnemonic = "story talent bid scorpion dice page put wet corn verify donate flag";

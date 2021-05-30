@@ -1,1 +1,1 @@
-var mnemonic = "apple indoor wheel fluid book uncle squeeze give mom maple glare cluster";
+var mnemonic = "achieve unfair day visa early firm blade people light hour electric width";

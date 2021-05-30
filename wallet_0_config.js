@@ -1,1 +1,1 @@
-var mnemonic = "wedding height spoil mosquito chapter similar recycle evidence essay confirm cargo update";
+var mnemonic = "monitor lunch law bachelor more deal shallow maple garage time accuse stumble";

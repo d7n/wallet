@@ -1,1 +1,1 @@
-var mnemonic = "type wrestle large pave mansion siren double blush left unveil rigid width";
+var mnemonic = "size marriage dizzy raise work relief shoot stem smart repeat voice sea";

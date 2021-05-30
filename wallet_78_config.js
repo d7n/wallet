@@ -1,1 +1,1 @@
-var mnemonic = "child dragon anchor calm ramp shock reopen office tiger about cable vacuum";
+var mnemonic = "slow salad artist enhance hurdle squeeze junk nest twenty onion brief leave";

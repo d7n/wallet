@@ -1,1 +1,1 @@
-var mnemonic = "slush cart still clown stereo cost slim promote select twin section patch";
+var mnemonic = "bright monster review birth unfair jealous orphan desert gallery aware raw ten";

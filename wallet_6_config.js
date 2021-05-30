@@ -1,1 +1,1 @@
-var mnemonic = "axis blouse volcano suggest rookie tackle surprise day owner that report scissors";
+var mnemonic = "shuffle evoke depth wire river fury sketch sea avoid wealth what rule";

@@ -1,1 +1,1 @@
-var mnemonic = "ten unfair repeat pottery earn dad vital bright night curious doctor tree";
+var mnemonic = "floor damp disagree caution buffalo upon disorder short derive surface suspect couch";

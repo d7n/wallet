@@ -1,1 +1,1 @@
-var mnemonic = "assume sword crime effort awake novel silver produce market slide start bike";
+var mnemonic = "jar bone shrimp annual dog hope evoke charge trim oil nasty usual";

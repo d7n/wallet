@@ -1,1 +1,1 @@
-var mnemonic = "convince net tail pumpkin fabric youth faculty benefit resource loan heart confirm";
+var mnemonic = "van coil solve picnic choose sea awkward shrug patrol coconut first planet";

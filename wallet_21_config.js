@@ -1,1 +1,1 @@
-var mnemonic = "problem prison hub jealous silent bunker method auction destroy rotate rule nuclear";
+var mnemonic = "pride mountain cattle moment wrap metal sunny drop exile anxiety lesson shell";

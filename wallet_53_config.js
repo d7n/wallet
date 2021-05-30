@@ -1,1 +1,1 @@
-var mnemonic = "funny stick brass search purse sock negative horror wet crush arrange material";
+var mnemonic = "question federal time exist insane excess current gap license dust glove planet";

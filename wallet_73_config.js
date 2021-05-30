@@ -1,1 +1,1 @@
-var mnemonic = "account reduce prefer mosquito liberty rubber wild dry virus liquid choose coach";
+var mnemonic = "decade section outdoor feed mango track rally fan tide erupt silly kit";

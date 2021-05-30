@@ -1,1 +1,1 @@
-var mnemonic = "upon garden analyst piano rookie ripple version adjust foster suffer program total";
+var mnemonic = "blue cycle hint tiger cost club olive furnace main breeze perfect clay";

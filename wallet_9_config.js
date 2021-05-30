@@ -1,1 +1,1 @@
-var mnemonic = "naive dignity hundred public only lonely craft idle monster hobby section south";
+var mnemonic = "survey nuclear dutch broccoli peace jazz sick cram robust repair omit embark";

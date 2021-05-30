@@ -1,1 +1,1 @@
-var mnemonic = "mixture metal afford into forum uncover imitate decide pistol runway flame barely";
+var mnemonic = "debate item segment glue slice practice cement journey relief stool thumb strong";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely protect asset scare patrol then note evidence ready era profit pepper";
+var mnemonic = "fantasy similar program tonight power audit guide grace already busy gauge bike";

@@ -1,1 +1,1 @@
-var mnemonic = "wife inherit monitor shrug eternal morning dawn twin wine toward wink orient";
+var mnemonic = "derive loan cargo keep minor corn avoid outside ankle alarm civil dumb";

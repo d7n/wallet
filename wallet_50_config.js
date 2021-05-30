@@ -1,1 +1,1 @@
-var mnemonic = "hurry book lava rent hire demand trigger small arrange rule rate crack";
+var mnemonic = "seven release brass enact sing consider matter usage connect laugh gravity laugh";

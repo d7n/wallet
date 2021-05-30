@@ -1,1 +1,1 @@
-var mnemonic = "inherit east despair caught remind item quiz alley strategy cigar jungle fitness";
+var mnemonic = "island cannon original simple prize spice normal sauce glue model cave vapor";

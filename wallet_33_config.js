@@ -1,1 +1,1 @@
-var mnemonic = "wasp define crazy much hurry vendor celery verify song dawn elegant believe";
+var mnemonic = "senior trap dinner family oval pudding dish crawl review head stage garlic";

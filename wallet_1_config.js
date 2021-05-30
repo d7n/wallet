@@ -1,1 +1,1 @@
-var mnemonic = "ranch bid stem sugar space race dial appear involve result trend bulb";
+var mnemonic = "divorce only april craft cigar drama crater lizard polar bird glory judge";

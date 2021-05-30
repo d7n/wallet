@@ -1,1 +1,1 @@
-var mnemonic = "divorce delay use then rib coast calm swing display gown document puzzle";
+var mnemonic = "impulse sure plug adapt disease list high top tissue tonight element priority";

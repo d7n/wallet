@@ -1,1 +1,1 @@
-var mnemonic = "general fortune client poverty subway ecology doll crawl wreck patch merit promote";
+var mnemonic = "style clay wheel festival mystery beyond verify stool sauce only crime neutral";

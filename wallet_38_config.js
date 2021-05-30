@@ -1,1 +1,1 @@
-var mnemonic = "shove misery embrace view napkin exhaust virtual decline sadness kiss display click";
+var mnemonic = "aspect ability skin spread forward exotic buzz exile high general ship clock";

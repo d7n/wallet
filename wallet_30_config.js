@@ -1,1 +1,1 @@
-var mnemonic = "barely bounce flash inner foot throw dune wear build resource kidney zero";
+var mnemonic = "volume lawsuit once wolf purse burst easily mix favorite scale upon apology";

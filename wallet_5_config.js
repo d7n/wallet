@@ -1,1 +1,1 @@
-var mnemonic = "suffer lottery pigeon wink lecture blur rookie auto muscle salute fine early";
+var mnemonic = "mom song runway turkey advice object holiday chase scheme ivory inherit crazy";

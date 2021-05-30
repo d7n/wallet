@@ -1,1 +1,1 @@
-var mnemonic = "inject penalty park wire puzzle gallery toss fat mammal deputy luxury brand";
+var mnemonic = "sick rib random exist relax later humble endorse bunker sick wage gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare pink program glue cancel poet lyrics advance absurd horn suspect sign";
+var mnemonic = "improve usual kingdom motor more pair canoe pelican artefact couch indicate foster";

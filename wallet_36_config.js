@@ -1,1 +1,1 @@
-var mnemonic = "annual basket bonus kitten box seed lens ordinary beach ask shell custom";
+var mnemonic = "ride tortoise fiscal wear occur accident coil spider arrow mom share gate";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel wine common obscure metal able nephew mechanic innocent radar include stage";
+var mnemonic = "guess nephew crunch birth chair drastic genius parrot awake loan nothing slim";

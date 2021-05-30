@@ -1,1 +1,1 @@
-var mnemonic = "spend soccer vital label under track finger crawl furnace hip kit head";
+var mnemonic = "legend jar curtain steak solution vital equal goddess pill slice blast upper";

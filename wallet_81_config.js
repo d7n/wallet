@@ -1,1 +1,1 @@
-var mnemonic = "extra crunch initial favorite evoke empower oval found subway consider glide inmate";
+var mnemonic = "duty shoulder once airport deliver hen question truly load mango tide pig";

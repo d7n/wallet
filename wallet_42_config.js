@@ -1,1 +1,1 @@
-var mnemonic = "devote invite evil crucial remind churn squeeze fog lumber employ eagle force";
+var mnemonic = "apart recycle sad glory same globe vast extend patrol fabric panther type";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle plug sting check oppose unusual guilt lunch casino sock coach mango";
+var mnemonic = "churn pupil welcome bronze erase wedding armed kit drum clay similar tiny";

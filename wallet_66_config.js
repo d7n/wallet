@@ -1,1 +1,1 @@
-var mnemonic = "ecology mask throw hair denial pet engage sunset scrap giraffe push exhibit";
+var mnemonic = "trim beyond curious inform country garbage easy truth globe layer federal lazy";

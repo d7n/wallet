@@ -1,1 +1,1 @@
-var mnemonic = "journey mask cinnamon evolve leg scheme confirm solid feed animal brass earth";
+var mnemonic = "afford accuse between step olive bronze tennis run east empty genuine wish";

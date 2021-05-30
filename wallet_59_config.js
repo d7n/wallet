@@ -1,1 +1,1 @@
-var mnemonic = "announce cat symbol wire sniff reveal mad unique idea sister junk post";
+var mnemonic = "chicken just surprise round muscle cost fresh pitch fly flee fit attend";

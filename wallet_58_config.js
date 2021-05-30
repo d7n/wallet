@@ -1,1 +1,1 @@
-var mnemonic = "text grief arrive tomato exotic smoke stamp below shiver lonely cupboard fiscal";
+var mnemonic = "fall weird undo come north trend blind cage ecology saddle fog legend";

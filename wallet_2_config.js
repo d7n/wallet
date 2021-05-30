@@ -1,1 +1,1 @@
-var mnemonic = "slot conduct pass skull winner prepare foster bar wall liar grape hockey";
+var mnemonic = "moral hover oven anger unfold keen female genre trust bid decrease weather";

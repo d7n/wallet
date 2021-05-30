@@ -1,1 +1,1 @@
-var mnemonic = "sea ramp ramp pole six sick between toe case glad era gym";
+var mnemonic = "pudding intact jacket wash uncle fault trick snap practice supply scrap month";

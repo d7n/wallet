@@ -1,1 +1,1 @@
-var mnemonic = "same grow stay ribbon enrich that hotel lava typical inform neutral habit";
+var mnemonic = "slab used wife struggle wrist chunk acquire erode town swear token obey";

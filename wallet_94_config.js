@@ -1,1 +1,1 @@
-var mnemonic = "captain virtual type throw dismiss physical law dash wealth entry burst tube";
+var mnemonic = "bulk lunar peanut energy donate quarter anchor noble acid enforce script dragon";

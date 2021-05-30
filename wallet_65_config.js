@@ -1,1 +1,1 @@
-var mnemonic = "human parent rocket leader identify dynamic novel remain treat film rookie winner";
+var mnemonic = "message wide carpet cart expand tube nothing famous sugar amount cave media";

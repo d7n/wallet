@@ -1,1 +1,1 @@
-var mnemonic = "case flower spell pill predict arena clutch cost shuffle valid come impulse";
+var mnemonic = "service afraid census pulse clarify addict fault paddle cruise later dice cabbage";

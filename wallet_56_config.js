@@ -1,1 +1,1 @@
-var mnemonic = "glide category squirrel drink session tag require during castle chase diary source";
+var mnemonic = "monkey lady click develop weather cave plug version noble earth huge sword";

@@ -1,1 +1,1 @@
-var mnemonic = "good near spin panel tortoise pyramid toilet addict goddess supply minimum cram";
+var mnemonic = "enrich pride chair pizza crater helmet swap series feature velvet deny donate";

@@ -1,1 +1,1 @@
-var mnemonic = "island drill absorb unusual wet decade notable gather athlete verb mask rigid";
+var mnemonic = "swamp gather rotate mix great broken rude sea smoke siege sibling key";

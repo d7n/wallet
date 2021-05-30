@@ -1,1 +1,1 @@
-var mnemonic = "release broccoli guilt strategy ketchup prize core few moon client only special";
+var mnemonic = "melody awkward amateur catch empower awesome cash cotton doll bar ladder fog";

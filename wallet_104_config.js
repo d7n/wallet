@@ -1,1 +1,1 @@
-var mnemonic = "enforce sister ghost method table moment amused style able candy rib clever";
+var mnemonic = "reflect gallery credit certain annual budget they antique among vacant tail team";

@@ -1,1 +1,1 @@
-var mnemonic = "teach deputy unaware apart price media lady enemy spice reopen purchase retire";
+var mnemonic = "review step hill barely amateur infant chimney youth dry butter prison dragon";

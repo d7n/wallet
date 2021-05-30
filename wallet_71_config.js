@@ -1,1 +1,1 @@
-var mnemonic = "lunch dutch shove blur pet medal clarify visa junior viable frown toast";
+var mnemonic = "resource bracket nation crisp divert grain flower hello inform lizard injury worth";

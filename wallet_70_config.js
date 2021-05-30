@@ -1,1 +1,1 @@
-var mnemonic = "cable floor shoe salute write punch attend abandon illness imitate multiply little";
+var mnemonic = "upgrade horse eternal churn wedding velvet faith elite subway express blue during";

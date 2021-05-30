@@ -1,1 +1,1 @@
-var mnemonic = "fancy mutual option expire senior stove multiply under spike suspect wrist giraffe";
+var mnemonic = "galaxy search outside gun canvas able capital link cram cook hobby horn";

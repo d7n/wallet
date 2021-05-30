@@ -1,1 +1,1 @@
-var mnemonic = "column reflect dignity cable vessel purchase inform increase cave soda enemy lemon";
+var mnemonic = "hospital year noise lab hood orphan solar appear earn blade tumble paper";

@@ -1,1 +1,1 @@
-var mnemonic = "jump demand exercise fancy review romance hope board odor spare bachelor cycle";
+var mnemonic = "remove access crash pupil garage sphere adjust woman march during pigeon hole";

@@ -1,1 +1,1 @@
-var mnemonic = "strike marriage arrow silk surprise matrix corn treat injury large immune pen";
+var mnemonic = "exotic usage vibrant industry very garbage best estate copy cable curtain blouse";

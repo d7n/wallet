@@ -1,1 +1,1 @@
-var mnemonic = "tomato bitter twin slow cost transfer solar spike close often parent state";
+var mnemonic = "fabric sense gift six confirm elbow put nature empty rookie write volcano";

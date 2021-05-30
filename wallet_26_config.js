@@ -1,1 +1,1 @@
-var mnemonic = "food capable pattern volume evolve laptop flag jazz fog hint crunch piano";
+var mnemonic = "suspect express clutch client moment slice home south balcony relax canyon peanut";

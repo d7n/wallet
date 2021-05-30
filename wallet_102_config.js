@@ -1,1 +1,1 @@
-var mnemonic = "rhythm staff travel embrace ticket bullet sock voice unveil design coach uncle";
+var mnemonic = "fade battle poverty chase awake exist predict offer royal monster chief potato";

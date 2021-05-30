@@ -1,1 +1,1 @@
-var mnemonic = "attitude idle twelve carry shy embark clip service bread slender invest hurt";
+var mnemonic = "much crush eagle drastic vicious snack aspect vocal advice promote deliver luxury";

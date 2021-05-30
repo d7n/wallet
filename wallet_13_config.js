@@ -1,1 +1,1 @@
-var mnemonic = "banana dirt afford pudding fox bachelor tornado bunker certain force domain resource";
+var mnemonic = "dragon dizzy work violin loyal enhance athlete buffalo improve furnace kingdom close";

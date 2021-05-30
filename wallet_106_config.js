@@ -1,1 +1,1 @@
-var mnemonic = "coin pelican critic wheel boy skill stuff since caution arrest apple alert";
+var mnemonic = "add march sick dutch proof drop hold hawk gown parade cousin rare";

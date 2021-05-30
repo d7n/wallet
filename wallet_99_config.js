@@ -1,1 +1,1 @@
-var mnemonic = "digital useful faint notice suffer rude wedding pledge shadow cross maid liar";
+var mnemonic = "noble oven before donkey cook right plate veteran bean eager foam reopen";

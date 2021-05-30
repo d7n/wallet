@@ -1,1 +1,1 @@
-var mnemonic = "satoshi grid muffin sort drama shadow aim wine powder split inner flat";
+var mnemonic = "gate book ceiling bring spike cactus head acid illegal barely yellow lend";

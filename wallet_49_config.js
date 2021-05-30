@@ -1,1 +1,1 @@
-var mnemonic = "dove manage speed next clutch proud inject royal wasp exhibit fire soap";
+var mnemonic = "morning oyster mimic disease upgrade letter smoke describe behave health good runway";

@@ -1,1 +1,1 @@
-var mnemonic = "home current rookie arrive fire seven lizard manual accuse video bag prosper";
+var mnemonic = "remove cave father long dash monitor merit glimpse execute fiction abuse object";

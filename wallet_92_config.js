@@ -1,1 +1,1 @@
-var mnemonic = "noble melody they dragon kingdom muffin tattoo ticket depth write gold legend";
+var mnemonic = "reason clay sauce party sweet season escape squirrel please trash fly sauce";

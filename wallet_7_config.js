@@ -1,1 +1,1 @@
-var mnemonic = "sustain dad sunset brisk tattoo mail dirt core stand answer critic trust";
+var mnemonic = "later outside excess virtual cycle know upper come grace school regret west";

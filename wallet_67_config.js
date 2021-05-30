@@ -1,1 +1,1 @@
-var mnemonic = "theme topic level prison earth alert verb demand junk quick enrich glimpse";
+var mnemonic = "dash acquire manual pioneer relax physical scene tape dog copy lounge until";

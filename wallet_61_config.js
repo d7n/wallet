@@ -1,1 +1,1 @@
-var mnemonic = "couple cotton wing expose charge feel dawn carbon topple sad anger slow";
+var mnemonic = "unaware intact happy crush involve firm tribe earn unlock extend tell middle";

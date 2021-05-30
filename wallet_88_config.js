@@ -1,1 +1,1 @@
-var mnemonic = "uphold elder prize home face hint catch possible satoshi credit item arrive";
+var mnemonic = "south holiday plate knee child brick output swing cliff hedgehog hawk vault";

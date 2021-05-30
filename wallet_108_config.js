@@ -1,1 +1,1 @@
-var mnemonic = "brand wreck ordinary exit bracket night inject float north disorder flock claw";
+var mnemonic = "kiss moral problem double worth exhibit tilt submit stamp before tornado report";

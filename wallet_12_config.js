@@ -1,1 +1,1 @@
-var mnemonic = "opera throw chimney adjust urban rule solid ten noble clerk love engine";
+var mnemonic = "dignity bus caught motion cheese team inflict history snack often piano pact";

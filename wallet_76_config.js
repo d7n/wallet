@@ -1,1 +1,1 @@
-var mnemonic = "chalk eight vacuum tree cook grunt sheriff cricket stool fire glass copper";
+var mnemonic = "nuclear planet sell media hospital media wrist phrase off eyebrow much opera";
