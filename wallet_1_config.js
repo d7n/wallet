@@ -1,1 +1,1 @@
-var mnemonic = "notice fade noise decline coin inherit oblige attend grief broken cabin suggest";
+var mnemonic = "tree almost kite south choose swarm swing degree inquiry retreat exist urge";

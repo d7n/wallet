@@ -1,1 +1,1 @@
-var mnemonic = "soft service input mule grace below dog dove forget music chimney range";
+var mnemonic = "ivory clever fence fade dilemma clown body neck climb east cliff alone";

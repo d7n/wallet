@@ -1,1 +1,1 @@
-var mnemonic = "erosion mom gossip struggle burden gold invite exact reward danger sick brown";
+var mnemonic = "fantasy blast warrior member bargain appear element tag pair vessel enact whisper";

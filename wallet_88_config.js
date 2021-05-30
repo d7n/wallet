@@ -1,1 +1,1 @@
-var mnemonic = "when force woman audit shed chimney blur doll color turtle tourist swamp";
+var mnemonic = "fold muffin judge affair power dumb armed rough old grid slide harsh";

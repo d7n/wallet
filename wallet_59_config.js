@@ -1,1 +1,1 @@
-var mnemonic = "person expand afford panda outdoor deputy silent fancy purity guilt lemon dismiss";
+var mnemonic = "engage follow upon edit act opinion space label tissue myself work dice";

@@ -1,1 +1,1 @@
-var mnemonic = "target crack reduce away liquid please vacant forward fence advice festival review";
+var mnemonic = "thank top symptom cattle smoke shy despair when truth clarify try inch";

@@ -1,1 +1,1 @@
-var mnemonic = "strong brush gauge spy trumpet cream mountain cigar jacket armor oppose decade";
+var mnemonic = "print sunset dust soon october lock feed leave net turkey feature cruel";

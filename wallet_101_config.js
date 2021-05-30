@@ -1,1 +1,1 @@
-var mnemonic = "faith feature drill early crush before mention lunar gas silver try phone";
+var mnemonic = "grid omit urban visual senior lawn short hospital exclude stairs toy leisure";

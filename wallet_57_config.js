@@ -1,1 +1,1 @@
-var mnemonic = "tent capable witness purpose account host emotion genuine electric village uniform plastic";
+var mnemonic = "aunt coil alien dry cement drop impulse denial immense twice pledge grunt";

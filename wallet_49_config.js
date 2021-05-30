@@ -1,1 +1,1 @@
-var mnemonic = "bubble blush display duty exclude gap outdoor assume disorder grass pizza van";
+var mnemonic = "kangaroo satisfy goose among legend brown thumb kitten thank barely flag client";

@@ -1,1 +1,1 @@
-var mnemonic = "twin mobile oval pumpkin absorb plastic below more float biology success athlete";
+var mnemonic = "mystery express escape alter baby since wild series hip firm barrel claim";

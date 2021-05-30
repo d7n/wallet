@@ -1,1 +1,1 @@
-var mnemonic = "error text fly recycle goose call direct bunker vintage kitten praise clean";
+var mnemonic = "idea genre speed initial obvious enroll ridge rail park frozen wage wonder";

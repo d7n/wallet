@@ -1,1 +1,1 @@
-var mnemonic = "current include curious lecture fit neutral buyer drive judge zone receive basket";
+var mnemonic = "stock sort beyond loud end stock clock else ivory table engage oak";

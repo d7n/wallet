@@ -1,1 +1,1 @@
-var mnemonic = "step buddy syrup female globe canoe history spot trick apart resource theme";
+var mnemonic = "peanut crowd future salad hello athlete stereo unique bird tomato ahead march";

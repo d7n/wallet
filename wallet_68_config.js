@@ -1,1 +1,1 @@
-var mnemonic = "drop decade culture leave fashion absent stock tube brown order icon submit";
+var mnemonic = "hero solution plate asthma celery matter clarify much bind absent cheap agree";

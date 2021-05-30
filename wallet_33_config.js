@@ -1,1 +1,1 @@
-var mnemonic = "afford anxiety just asthma letter axis happy narrow meadow silly balcony cactus";
+var mnemonic = "gospel cherry mammal sadness despair sun juice prefer fitness decrease despair mom";

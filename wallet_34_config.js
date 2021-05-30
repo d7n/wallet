@@ -1,1 +1,1 @@
-var mnemonic = "cause daring gown aisle twice panda sunny coconut divorce post desert daring";
+var mnemonic = "pulp flock charge island keep timber uphold capital banner destroy photo account";

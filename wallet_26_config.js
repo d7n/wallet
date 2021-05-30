@@ -1,1 +1,1 @@
-var mnemonic = "vast just nerve inform rule ladder result wreck pear expect tortoise quality";
+var mnemonic = "dilemma wing common crater buddy noble palm trade velvet return prefer quantum";

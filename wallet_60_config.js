@@ -1,1 +1,1 @@
-var mnemonic = "argue excuse task thought timber almost advice hunt exercise obtain rotate tube";
+var mnemonic = "grit lamp beach harsh tackle test winner nest interest sugar switch matrix";

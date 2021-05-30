@@ -1,1 +1,1 @@
-var mnemonic = "link gossip park floor lucky half hard either sunny artefact penalty seminar";
+var mnemonic = "kiwi frame primary example shadow science swarm lemon frost dragon eyebrow people";

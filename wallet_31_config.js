@@ -1,1 +1,1 @@
-var mnemonic = "calm kidney van fix jazz shy trend zero present clog sunset pitch";
+var mnemonic = "dragon ahead wide state acoustic mistake shove kid lend stem fabric airport";

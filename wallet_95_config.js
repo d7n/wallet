@@ -1,1 +1,1 @@
-var mnemonic = "bargain gaze pig decrease clerk bonus clerk immune cream behave cash solid";
+var mnemonic = "virtual decrease worry carbon illegal drive soldier office exercise antique shed air";

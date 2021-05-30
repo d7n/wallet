@@ -1,1 +1,1 @@
-var mnemonic = "normal jaguar eager like exact vacant minor eight welcome uncover fetch length";
+var mnemonic = "render essay consider tuition stereo delay control spawn bitter remind light risk";

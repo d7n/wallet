@@ -1,1 +1,1 @@
-var mnemonic = "ostrich remind cream cinnamon carbon funny acid fine fire away sting curious";
+var mnemonic = "space vessel tribe alpha budget pretty page produce armor reunion column casino";

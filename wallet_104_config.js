@@ -1,1 +1,1 @@
-var mnemonic = "art awake parrot clown apart hen shock cabbage broccoli labor fly leaf";
+var mnemonic = "sketch fox sound hub royal spider forward post shoot tunnel glad gadget";

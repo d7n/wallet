@@ -1,1 +1,1 @@
-var mnemonic = "casual review write volume weasel finger journey foster local sell layer orchard";
+var mnemonic = "ritual merit hungry execute youth nature off predict crew latin identify aunt";

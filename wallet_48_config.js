@@ -1,1 +1,1 @@
-var mnemonic = "early follow round slight ensure crouch name stick bomb permit recipe observe";
+var mnemonic = "raise helmet sense comfort broom animal include various tool limit swing attitude";

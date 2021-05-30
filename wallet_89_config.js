@@ -1,1 +1,1 @@
-var mnemonic = "quiz naive fury garage finish city laugh deliver develop card hamster tomato";
+var mnemonic = "honey staff spawn raw town dirt mail lock vicious spoil outdoor umbrella";

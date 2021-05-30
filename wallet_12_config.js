@@ -1,1 +1,1 @@
-var mnemonic = "egg cave zero aisle grid position pair census transfer shoe easily blast";
+var mnemonic = "powder reform purpose meat need social bomb media task aerobic multiply tobacco";

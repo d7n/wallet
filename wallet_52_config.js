@@ -1,1 +1,1 @@
-var mnemonic = "power gold dentist drum cat awkward scorpion laptop fiscal wolf destroy mask";
+var mnemonic = "island document wait pigeon ritual current hungry jar predict flower rocket gold";

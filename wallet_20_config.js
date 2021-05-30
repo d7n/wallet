@@ -1,1 +1,1 @@
-var mnemonic = "rabbit stone hint inmate cinnamon bachelor upgrade say cage hand survey pill";
+var mnemonic = "horror consider middle wish urban flag motor total silver hip into buddy";

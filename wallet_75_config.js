@@ -1,1 +1,1 @@
-var mnemonic = "athlete air decide trick pear bacon stable casual dance gun chicken more";
+var mnemonic = "warrior room flush pluck identify journey deputy refuse borrow evolve chef check";

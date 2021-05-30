@@ -1,1 +1,1 @@
-var mnemonic = "series plate drink smart frog similar laugh picture leisure minimum galaxy crumble";
+var mnemonic = "sense public elite dwarf tired insect topple fox fiber argue stereo gasp";

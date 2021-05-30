@@ -1,1 +1,1 @@
-var mnemonic = "street level solve camera wish pride duck safe donkey knee size cause";
+var mnemonic = "ship escape stove game engage property hand broken interest size wall need";

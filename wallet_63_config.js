@@ -1,1 +1,1 @@
-var mnemonic = "penalty glue girl transfer valid easy whale okay mushroom mixture fox guard";
+var mnemonic = "tower silent ethics brass spare side loop buyer gauge stay scorpion august";

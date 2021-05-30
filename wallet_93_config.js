@@ -1,1 +1,1 @@
-var mnemonic = "funny drama order prepare liar crouch chest umbrella note universe secret exhibit";
+var mnemonic = "noodle anger bulb garment cluster pigeon civil bird struggle provide south observe";

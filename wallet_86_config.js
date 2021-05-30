@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pluck envelope catch home faint sad pumpkin moment crunch congress stand";
+var mnemonic = "innocent already taxi bone ticket clap convince steak thunder panther shove science";

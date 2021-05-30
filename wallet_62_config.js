@@ -1,1 +1,1 @@
-var mnemonic = "video choose dance sketch harbor face minimum valve october rifle supreme sand";
+var mnemonic = "crazy common walk garlic scrub away brand glide general rail normal afford";

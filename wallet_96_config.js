@@ -1,1 +1,1 @@
-var mnemonic = "intact monitor fatigue absurd safe old write special reform swamp trigger palace";
+var mnemonic = "thumb vendor very wear soul nurse angry eager slim lottery leader scissors";

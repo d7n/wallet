@@ -1,1 +1,1 @@
-var mnemonic = "embark laugh super artist check emerge finger mouse teach stairs pattern pond";
+var mnemonic = "smart camp dentist pioneer liar dawn grass talent congress miss monster employ";

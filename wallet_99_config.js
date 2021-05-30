@@ -1,1 +1,1 @@
-var mnemonic = "unveil cabbage enroll penalty fiber cake believe echo gift region rally club";
+var mnemonic = "flag glass solar alien rate valve source actor clip dish husband manual";

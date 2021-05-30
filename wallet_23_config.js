@@ -1,1 +1,1 @@
-var mnemonic = "arrow camera resource lyrics lamp prison uncle doll stuff goose correct crew";
+var mnemonic = "canoe purse sing ordinary tone common toast divide review coil census mention";

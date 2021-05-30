@@ -1,1 +1,1 @@
-var mnemonic = "shine disorder end frost couple glance pave tourist melody crawl grab burst";
+var mnemonic = "rapid brisk table jelly noble blue banana unusual photo arctic okay always";

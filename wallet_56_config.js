@@ -1,1 +1,1 @@
-var mnemonic = "garbage relax zero bargain donate neither lava remind fat word control inject";
+var mnemonic = "tool grab exist height hold web wisdom pond way rapid prefer affair";

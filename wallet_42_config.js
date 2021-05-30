@@ -1,1 +1,1 @@
-var mnemonic = "opera follow ice supreme endorse tragic again liar bleak load phone truth";
+var mnemonic = "skull you wreck brisk harvest arch stairs devote gap sauce ripple churn";

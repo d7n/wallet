@@ -1,1 +1,1 @@
-var mnemonic = "click brief tuna truly clap amount noodle floor sure hollow shop brick";
+var mnemonic = "proud rhythm wife jaguar noble salon spice reward foster method slab possible";

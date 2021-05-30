@@ -1,1 +1,1 @@
-var mnemonic = "bronze tomorrow equal special practice enroll disagree course mechanic spot beyond actual";
+var mnemonic = "explain border walk ship apple sentence comfort choose volcano derive earth endorse";

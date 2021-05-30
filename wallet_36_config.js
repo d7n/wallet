@@ -1,1 +1,1 @@
-var mnemonic = "provide cause detail theme picnic tape able giant biology bean winner legend";
+var mnemonic = "joy stereo column bracket sort exhibit unaware snap chimney rail balcony spider";

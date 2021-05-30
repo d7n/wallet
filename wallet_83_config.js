@@ -1,1 +1,1 @@
-var mnemonic = "bronze vivid velvet rebel maximum also outdoor truck captain visa deputy predict";
+var mnemonic = "ready provide begin endless noble fancy wink rib salon donor yard float";

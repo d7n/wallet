@@ -1,1 +1,1 @@
-var mnemonic = "girl nice orange style oil need hen vendor promote warm brown estate";
+var mnemonic = "narrow glory ball enough behind duty depend drum option wolf cruise soup";

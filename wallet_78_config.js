@@ -1,1 +1,1 @@
-var mnemonic = "else slice board bid timber start deliver insane extend cost retire park";
+var mnemonic = "shield giraffe spider raven rally power industry baby sheriff flush body vast";

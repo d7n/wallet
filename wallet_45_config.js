@@ -1,1 +1,1 @@
-var mnemonic = "special weasel write old firm delay glow kind avoid recall easily faint";
+var mnemonic = "identify betray nothing hero marble virus bargain taxi else inflict shuffle minimum";

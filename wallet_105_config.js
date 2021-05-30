@@ -1,1 +1,1 @@
-var mnemonic = "uniform couch hood letter profit fantasy emotion sad useful square beef motion";
+var mnemonic = "liberty evoke oval brown chaos fire lumber leader tide pact rice range";

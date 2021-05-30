@@ -1,1 +1,1 @@
-var mnemonic = "crane parrot comic nose evoke west endorse film napkin eager elite night";
+var mnemonic = "minor chase neglect cinnamon cigar special fall fame mean fiscal coffee flower";

@@ -1,1 +1,1 @@
-var mnemonic = "black bean case nephew short table fork ladder retire inch desk episode";
+var mnemonic = "dilemma oppose nuclear story flash hedgehog imitate among bag list stone iron";

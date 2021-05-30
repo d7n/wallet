@@ -1,1 +1,1 @@
-var mnemonic = "draft search believe better federal cause task rack tent increase ribbon frequent";
+var mnemonic = "bullet angry pottery replace island power blossom drop farm clarify clump emotion";

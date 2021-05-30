@@ -1,1 +1,1 @@
-var mnemonic = "asset apple job account party naive blood soup away beauty copper base";
+var mnemonic = "duck empty current chimney like depart retreat pudding room actress recall forget";

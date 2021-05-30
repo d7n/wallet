@@ -1,1 +1,1 @@
-var mnemonic = "adjust myth zero century erode angry slogan actor essay hub vendor manage";
+var mnemonic = "wrist hamster battle rebel drink clump gap crowd glue fatal tide improve";

@@ -1,1 +1,1 @@
-var mnemonic = "feed school mind neutral perfect chef draw valley wasp quality note someone";
+var mnemonic = "degree pole achieve garbage spell lawn office hurry already quote race script";

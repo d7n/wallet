@@ -1,1 +1,1 @@
-var mnemonic = "genius power magic jungle cloth core lucky sun forest enhance blouse silent";
+var mnemonic = "mouse inside wise youth cool tennis creek rough vessel decline clean broccoli";

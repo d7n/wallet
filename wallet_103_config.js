@@ -1,1 +1,1 @@
-var mnemonic = "only hurry fall alley ugly will great forget fresh sail hero noble";
+var mnemonic = "wonder post mango believe case tissue immense quick audit spray magnet equip";

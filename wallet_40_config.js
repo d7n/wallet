@@ -1,1 +1,1 @@
-var mnemonic = "theory uncle flag expect ostrich lonely sponsor physical fuel middle deliver security";
+var mnemonic = "venture sausage virus muscle analyst image blouse roast sell turkey ripple engage";

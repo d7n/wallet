@@ -1,1 +1,1 @@
-var mnemonic = "person letter know helmet twist win neutral vendor occur visit undo nuclear";
+var mnemonic = "club giggle gentle goddess two hockey between rocket apart fresh clip affair";

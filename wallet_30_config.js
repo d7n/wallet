@@ -1,1 +1,1 @@
-var mnemonic = "era organ blast room pizza clinic orchard cattle vibrant chalk ticket husband";
+var mnemonic = "flee noise tray arrest session accuse tank world tackle main laugh region";

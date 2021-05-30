@@ -1,1 +1,1 @@
-var mnemonic = "urge suspect mercy dilemma twin catch fade doll novel raw pyramid jewel";
+var mnemonic = "umbrella thrive glimpse shoot exchange income weekend mimic slot hockey before warrior";

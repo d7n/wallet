@@ -1,1 +1,1 @@
-var mnemonic = "raccoon velvet west donate family shield shop thumb fall mule rubber pluck";
+var mnemonic = "course shadow echo pear kitten debris athlete raven pretty move grow runway";

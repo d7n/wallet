@@ -1,1 +1,1 @@
-var mnemonic = "goose submit sentence pumpkin sadness pulp galaxy select olympic taste physical client";
+var mnemonic = "manage home holiday rubber naive nuclear hurry gather favorite senior draft device";

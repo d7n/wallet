@@ -1,1 +1,1 @@
-var mnemonic = "naive chief witness curve useless minute void climb draw excess series enable";
+var mnemonic = "fluid want coast bicycle rail apart suspect disorder marble noise warm situate";

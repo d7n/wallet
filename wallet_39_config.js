@@ -1,1 +1,1 @@
-var mnemonic = "flip milk whip cat rebuild dentist transfer sibling advance spray auto alpha";
+var mnemonic = "dance sister orchard bike one bright yellow float nominee clutch critic six";

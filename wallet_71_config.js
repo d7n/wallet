@@ -1,1 +1,1 @@
-var mnemonic = "symbol wait must ball milk column deer angle ring wine fence virtual";
+var mnemonic = "they exhaust concert afford avocado regret portion picture muffin curve rich lawsuit";

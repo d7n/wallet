@@ -1,1 +1,1 @@
-var mnemonic = "hole tumble absurd tray about airport order friend stem taste occur assault";
+var mnemonic = "adapt globe urban immune lottery receive aerobic rhythm inmate busy street leader";

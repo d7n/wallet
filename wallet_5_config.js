@@ -1,1 +1,1 @@
-var mnemonic = "economy current pen depth identify similar mirror citizen vast ankle actual manage";
+var mnemonic = "mosquito table cricket engine copy balcony trap net vessel rival expire huge";

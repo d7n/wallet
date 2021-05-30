@@ -1,1 +1,1 @@
-var mnemonic = "expect saddle sort knife tourist enhance bunker crowd crumble table city talent";
+var mnemonic = "arctic margin hub price fan drum scheme wish pelican capable orange rate";

@@ -1,1 +1,1 @@
-var mnemonic = "friend void volume arch must ethics moral key sound elephant west bundle";
+var mnemonic = "donor phone modify picnic staff sweet sustain owner velvet perfect assault amused";

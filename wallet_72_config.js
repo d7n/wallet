@@ -1,1 +1,1 @@
-var mnemonic = "process sausage dog now message celery this cousin beyond dizzy become rely";
+var mnemonic = "clown firm oyster scheme region prevent atom burger seek guide photo better";

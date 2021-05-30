@@ -1,1 +1,1 @@
-var mnemonic = "grunt frozen network find fortune forget split dial neither frame alien strong";
+var mnemonic = "can want sorry scheme analyst vault trim pair crunch company peasant wage";

@@ -1,1 +1,1 @@
-var mnemonic = "person brother table notable artwork expose teach reopen dismiss hundred evidence defy";
+var mnemonic = "fresh point memory garage month peanut street deny good recall able famous";

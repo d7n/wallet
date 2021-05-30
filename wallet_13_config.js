@@ -1,1 +1,1 @@
-var mnemonic = "still surge middle message smooth candy random notable crane beach fantasy grab";
+var mnemonic = "essence analyst meat bind green pave harbor rug release thunder strategy exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe jar park process book walnut deal giant stand lounge total alter";
+var mnemonic = "bind invite always two basic segment smile slot wasp farm movie snake";

@@ -1,1 +1,1 @@
-var mnemonic = "mask lizard latin retire tiger danger around pipe liar panel company demand";
+var mnemonic = "attitude butter busy amount goddess category aunt differ runway clip slow napkin";

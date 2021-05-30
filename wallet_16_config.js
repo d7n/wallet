@@ -1,1 +1,1 @@
-var mnemonic = "private clip purse evil barely notice bracket opinion box must dune alert";
+var mnemonic = "sell under boat either emotion artefact brass chicken stone outdoor subway arena";

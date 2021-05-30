@@ -1,1 +1,1 @@
-var mnemonic = "fury hazard direct blast two welcome flat sausage jacket unknown universe mom";
+var mnemonic = "tray patrol fit stay false arrive trap feature step city kitten uncover";

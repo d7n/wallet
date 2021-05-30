@@ -1,1 +1,1 @@
-var mnemonic = "aerobic umbrella helmet auction poet book symptom grunt voyage exact fetch absorb";
+var mnemonic = "decline wise side rocket dash era fatigue congress worry tomorrow dinosaur submit";

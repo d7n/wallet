@@ -1,1 +1,1 @@
-var mnemonic = "debris horn balcony grid search clean wide flat book ceiling require evidence";
+var mnemonic = "adapt tiny april road topple robust rescue maximum almost lock trash such";

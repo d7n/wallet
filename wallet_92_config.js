@@ -1,1 +1,1 @@
-var mnemonic = "submit slice creek pool duty twice banana doctor forward horror motion clay";
+var mnemonic = "can federal ghost wreck swallow urban beyond carbon wreck case club cash";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle summer smile duck exist news range rare meadow idle subway uncle";
+var mnemonic = "anger vital slogan kit novel bus chicken matrix flush loop six question";

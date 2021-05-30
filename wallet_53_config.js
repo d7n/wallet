@@ -1,1 +1,1 @@
-var mnemonic = "bargain vault holiday circle member grunt lady typical duck deliver sample short";
+var mnemonic = "entry ozone slender salt master robot cabbage road bubble august cupboard accuse";
