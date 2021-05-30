@@ -1,1 +1,1 @@
-var mnemonic = "rent carbon bronze lamp salt stay charge creek pause clip whip music";
+var mnemonic = "erase step crawl cruise dog buddy joke hood ordinary predict foil table";

@@ -1,1 +1,1 @@
-var mnemonic = "okay web one stable write educate assist whip purchase valley wrong asthma";
+var mnemonic = "shoulder hundred assume child text barrel glance believe network enlist loyal scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "robust image trophy maple dish want kangaroo adjust approve desert wire man";
+var mnemonic = "best diagram scatter call myth permit rule sea day oak planet wave";

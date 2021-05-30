@@ -1,1 +1,1 @@
-var mnemonic = "tiger paddle window unable surround expand noble solution ranch model hero frequent";
+var mnemonic = "solar network snow marine talent state market wait food end enroll vintage";

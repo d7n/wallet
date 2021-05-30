@@ -1,1 +1,1 @@
-var mnemonic = "party ghost scissors fruit shadow joke spatial knock crush subway food gasp";
+var mnemonic = "endorse flavor enhance evolve frown trip process inject security mind shock carbon";

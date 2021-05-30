@@ -1,1 +1,1 @@
-var mnemonic = "later follow boat upset sibling girl rack weasel vacuum annual raven civil";
+var mnemonic = "peanut weekend chronic program casual shock mercy pink miracle stay hat usage";

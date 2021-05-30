@@ -1,1 +1,1 @@
-var mnemonic = "weird make present attract client extra armor ring orbit undo knife tooth";
+var mnemonic = "drip choose real steel grain tell lava road eager wagon mango spin";

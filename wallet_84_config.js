@@ -1,1 +1,1 @@
-var mnemonic = "bird weather render chunk give burst common fancy arrange barrel stage question";
+var mnemonic = "alien remove runway slogan crawl glide autumn weather bubble comfort keep burger";

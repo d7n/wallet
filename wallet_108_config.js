@@ -1,1 +1,1 @@
-var mnemonic = "vote jelly mention rebuild action kangaroo boost vote canyon tribe exclude anger";
+var mnemonic = "void velvet enemy someone keep collect beach struggle win attitude soccer canoe";

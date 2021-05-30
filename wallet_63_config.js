@@ -1,1 +1,1 @@
-var mnemonic = "extra gather air humor company favorite journey meat gasp this tongue runway";
+var mnemonic = "shy thrive engage gun rice wise enroll clump concert grief step hockey";

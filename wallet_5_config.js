@@ -1,1 +1,1 @@
-var mnemonic = "word educate sign pretty comic blanket nice area debris much whisper tortoise";
+var mnemonic = "borrow unfold daring twist jungle warrior heart reform rabbit topic replace spin";

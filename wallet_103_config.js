@@ -1,1 +1,1 @@
-var mnemonic = "wheat razor provide apology isolate fat latin raw praise vocal buzz august";
+var mnemonic = "execute note simple transfer cable viable scatter bread often wise smooth gasp";

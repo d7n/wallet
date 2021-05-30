@@ -1,1 +1,1 @@
-var mnemonic = "season romance donkey kangaroo license piano squirrel lecture keep moral glow empower";
+var mnemonic = "misery plate clinic random paddle gain buzz assault bamboo cheese glove very";

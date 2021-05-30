@@ -1,1 +1,1 @@
-var mnemonic = "verb lyrics squeeze weapon analyst timber orchard bunker now unusual rent dinosaur";
+var mnemonic = "ripple shadow segment truth magnet enjoy envelope fiscal faith document wing math";

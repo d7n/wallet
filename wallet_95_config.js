@@ -1,1 +1,1 @@
-var mnemonic = "half symptom advance walk apple patrol able upset defense return decrease point";
+var mnemonic = "current action stove jeans jungle vapor dune wild dutch spot write hungry";

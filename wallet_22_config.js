@@ -1,1 +1,1 @@
-var mnemonic = "either until angry index snake panel nephew universe record aspect merry mail";
+var mnemonic = "pair round canyon motion parrot monitor keen beef universe muscle cargo polar";

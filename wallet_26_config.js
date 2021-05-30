@@ -1,1 +1,1 @@
-var mnemonic = "observe final mosquito transfer silver planet update achieve evil boy tattoo hat";
+var mnemonic = "mule office enhance stock sail range final arch neglect identify knock blind";

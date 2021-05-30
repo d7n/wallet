@@ -1,1 +1,1 @@
-var mnemonic = "catalog crush shadow approve dish cute throw fork soda law virus measure";
+var mnemonic = "bring girl thing slush broccoli ocean wreck place quality donate cherry annual";

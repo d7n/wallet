@@ -1,1 +1,1 @@
-var mnemonic = "antenna erupt fuel nothing excite push tape quick hat dumb space lazy";
+var mnemonic = "lizard destroy position blur obscure insect enrich senior rug pause series retire";

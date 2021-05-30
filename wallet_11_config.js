@@ -1,1 +1,1 @@
-var mnemonic = "cricket fortune blade congress scorpion stumble iron naive home stage artist group";
+var mnemonic = "parade vacuum club hamster cement blue curious license cheese antique illness bright";

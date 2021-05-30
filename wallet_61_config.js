@@ -1,1 +1,1 @@
-var mnemonic = "resource path clump riot credit practice burden please autumn stable wet erode";
+var mnemonic = "maze sadness wage tobacco bacon age brisk harsh problem visa damp decline";

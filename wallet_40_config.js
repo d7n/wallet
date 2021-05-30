@@ -1,1 +1,1 @@
-var mnemonic = "kitten they bike limb interest couch drill educate keen wing blood pupil";
+var mnemonic = "gym key cement reform extra shuffle verify token festival key pepper rally";

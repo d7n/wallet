@@ -1,1 +1,1 @@
-var mnemonic = "veteran drum sadness solar cabin deer fade cradle lava issue team chronic";
+var mnemonic = "honey flavor aim clarify crane capital master oil ankle permit dress frog";

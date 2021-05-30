@@ -1,1 +1,1 @@
-var mnemonic = "alpha switch swear oppose blanket approve salute noodle right nest insect silent";
+var mnemonic = "session audit dawn autumn dumb ensure media robust category goose disagree oil";

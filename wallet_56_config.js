@@ -1,1 +1,1 @@
-var mnemonic = "soccer popular drink zoo buffalo rocket trust bronze owner sentence crazy riot";
+var mnemonic = "again twelve fiber spend luxury snow virus finger horse people visit sting";

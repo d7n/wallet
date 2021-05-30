@@ -1,1 +1,1 @@
-var mnemonic = "dune vacant joke flush woman clog direct piano patrol erosion clean spray";
+var mnemonic = "know wet explain seed carpet nut garlic also subway box myth glance";

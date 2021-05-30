@@ -1,1 +1,1 @@
-var mnemonic = "resemble owner situate key laundry soda rack absorb chuckle pony best camp";
+var mnemonic = "fine survey click ignore glad dial actress elephant disorder divert romance vintage";

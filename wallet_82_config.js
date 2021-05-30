@@ -1,1 +1,1 @@
-var mnemonic = "wolf door hope agent panther crunch engage kidney lottery dinosaur tomato come";
+var mnemonic = "decorate elegant blush pink expire task armed style palace cycle month skate";

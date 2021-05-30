@@ -1,1 +1,1 @@
-var mnemonic = "badge radio position buzz glimpse special normal crop era vicious wedding reform";
+var mnemonic = "grid dice sweet link wasp private repeat foam quick dismiss strategy fresh";

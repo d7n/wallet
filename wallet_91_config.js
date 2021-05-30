@@ -1,1 +1,1 @@
-var mnemonic = "veteran slender kind knee dinner coffee ring topic again coach search craft";
+var mnemonic = "holiday board release dismiss notable park air sun like hire bone giggle";

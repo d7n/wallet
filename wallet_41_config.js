@@ -1,1 +1,1 @@
-var mnemonic = "rocket public clever hope oppose bright raise above tissue tackle pill catch";
+var mnemonic = "crawl library phrase valid mass slow wide barely cat ostrich medal control";

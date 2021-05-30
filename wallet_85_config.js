@@ -1,1 +1,1 @@
-var mnemonic = "rebuild west knock attend forum mass half crouch choose fuel input metal";
+var mnemonic = "glove mixture opera off border student hurdle trumpet smoke sniff visa mystery";

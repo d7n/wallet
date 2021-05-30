@@ -1,1 +1,1 @@
-var mnemonic = "caution random wolf lesson holiday milk clap casual silly phrase observe broom";
+var mnemonic = "mask lunar slab dizzy left enemy region salon obtain deny follow loan";

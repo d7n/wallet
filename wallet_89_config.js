@@ -1,1 +1,1 @@
-var mnemonic = "net garbage evil ostrich knife chronic lawn pill phone donor wolf year";
+var mnemonic = "kick flight earth enjoy vague bridge motor joy rain leg fade unhappy";

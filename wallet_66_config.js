@@ -1,1 +1,1 @@
-var mnemonic = "outer dose together cry exhaust together crane update slight please brush digital";
+var mnemonic = "urge small despair distance print verify copper aunt parent near olive bachelor";

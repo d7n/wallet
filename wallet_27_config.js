@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wave cat kitchen chest behave gasp digital virtual prison scrub blanket";
+var mnemonic = "nature include roof gasp assume comic sign seven before effort giggle control";

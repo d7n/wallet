@@ -1,1 +1,1 @@
-var mnemonic = "know radio pizza virtual debate use prevent involve fall bridge raw copper";
+var mnemonic = "main find display chaos wire drama cluster credit wagon aerobic ginger donate";

@@ -1,1 +1,1 @@
-var mnemonic = "bar enemy blame wrong oppose fatal start desert multiply among chief pear";
+var mnemonic = "eagle ticket fatigue legend color effort forward worry grid hobby beef road";

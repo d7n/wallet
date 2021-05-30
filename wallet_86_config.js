@@ -1,1 +1,1 @@
-var mnemonic = "lecture bike alley wrong music okay bench rely carry table order buffalo";
+var mnemonic = "gate detail recipe face asset student final festival author cliff such boy";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate gorilla cook teach cereal pretty inmate pause double thumb brief ethics";
+var mnemonic = "pool able canvas junk jaguar someone head resist palace nature tuition fever";

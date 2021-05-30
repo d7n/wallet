@@ -1,1 +1,1 @@
-var mnemonic = "mixed dutch feature above toward portion same mention almost derive either candy";
+var mnemonic = "response achieve sun unit simple crash satoshi main gaze civil ramp balance";

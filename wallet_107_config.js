@@ -1,1 +1,1 @@
-var mnemonic = "ginger kangaroo tree scissors hamster window ridge appear idle remember cloth barely";
+var mnemonic = "tooth jelly eternal culture rally grant arch tortoise scale tiny resist spray";

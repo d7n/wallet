@@ -1,1 +1,1 @@
-var mnemonic = "tail plate hamster join cousin jewel spike cute crash desk outdoor alcohol";
+var mnemonic = "amount purchase want apple bacon hold real salon tragic seminar clean bring";

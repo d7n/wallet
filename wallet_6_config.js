@@ -1,1 +1,1 @@
-var mnemonic = "pride garlic canal trip nut drastic tenant vicious attract middle volcano client";
+var mnemonic = "license scout feed mind arch arrange phrase neutral enough grief genuine enjoy";

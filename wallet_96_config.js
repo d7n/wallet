@@ -1,1 +1,1 @@
-var mnemonic = "peace dinosaur repair burden guard borrow island enlist diagram blur wagon attack";
+var mnemonic = "front shaft teach grid sausage section minimum noble swear brave motor kitchen";

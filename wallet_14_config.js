@@ -1,1 +1,1 @@
-var mnemonic = "ladder manual brother early trigger twin amount parrot pole height bacon chaos";
+var mnemonic = "swarm man draft issue damage trade economy taxi snap road toy shoe";

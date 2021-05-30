@@ -1,1 +1,1 @@
-var mnemonic = "ridge horn always cereal situate ripple useful ahead inner lesson banana lamp";
+var mnemonic = "tired eyebrow fruit bottom reflect flip adapt coil resist speak edit hamster";

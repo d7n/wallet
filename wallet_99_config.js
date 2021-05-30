@@ -1,1 +1,1 @@
-var mnemonic = "song tiger inform bubble ability paper equal music enroll delay inherit human";
+var mnemonic = "begin inform ask upset stock evil note job attract sorry answer property";

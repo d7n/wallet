@@ -1,1 +1,1 @@
-var mnemonic = "salt dress dilemma unfold ladder behave leg true reopen demand enjoy news";
+var mnemonic = "vital sport noise upset glare jungle twin close stand daughter acoustic output";

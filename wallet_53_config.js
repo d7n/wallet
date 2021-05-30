@@ -1,1 +1,1 @@
-var mnemonic = "brain adapt peasant believe shed want walnut pear turtle balance urban price";
+var mnemonic = "matter caught few enable shallow advice noble quarter blue produce obscure urban";

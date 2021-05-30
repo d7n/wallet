@@ -1,1 +1,1 @@
-var mnemonic = "actual satoshi click brief crack travel sick inject frost grain problem potato";
+var mnemonic = "scout notice nothing into media scrub auction sleep jacket spirit bid trip";

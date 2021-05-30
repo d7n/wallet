@@ -1,1 +1,1 @@
-var mnemonic = "relief inject model coral ginger win exchange fluid mountain apple target between";
+var mnemonic = "feed wide member shed poem viable carpet addict legend burden flash dolphin";

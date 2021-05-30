@@ -1,1 +1,1 @@
-var mnemonic = "shift market into truly regular come maze slot pet card dance write";
+var mnemonic = "cigar culture arrow huge parade rally matter useful impulse awake net enjoy";

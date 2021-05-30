@@ -1,1 +1,1 @@
-var mnemonic = "guard elite wear senior antique honey whisper beyond electric exchange response pyramid";
+var mnemonic = "monster awesome rude such always useful like debate hood seek limb enforce";

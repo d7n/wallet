@@ -1,1 +1,1 @@
-var mnemonic = "horn before over kit visual breeze such just struggle zebra wet among";
+var mnemonic = "pond that sister human bright pyramid dose absent window crucial pipe ecology";

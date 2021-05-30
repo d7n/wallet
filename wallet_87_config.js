@@ -1,1 +1,1 @@
-var mnemonic = "dance weird inside slab radio small athlete buffalo twice property build worth";
+var mnemonic = "page season run donor muscle input mobile math monitor silver any couple";

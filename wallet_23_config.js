@@ -1,1 +1,1 @@
-var mnemonic = "nominee dinosaur ivory august more lucky fresh return turkey poverty check erosion";
+var mnemonic = "author return mimic tumble broom short enlist bulb rare net session snow";

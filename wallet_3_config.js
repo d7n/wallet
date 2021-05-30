@@ -1,1 +1,1 @@
-var mnemonic = "west pelican trap cabin frog vapor color giant prefer clever weekend first";
+var mnemonic = "virtual degree fluid unhappy stool there north stove squeeze caught ribbon alcohol";

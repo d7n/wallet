@@ -1,1 +1,1 @@
-var mnemonic = "hope buzz pitch noise surprise increase cute truly fortune hundred robust school";
+var mnemonic = "leaf debris hen wasp memory super spike loan museum curious alcohol what";

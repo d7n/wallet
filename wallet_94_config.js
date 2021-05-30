@@ -1,1 +1,1 @@
-var mnemonic = "moon economy version school chicken side name remember pigeon useful tape midnight";
+var mnemonic = "castle spy outside picnic neck inhale confirm tobacco goat pig awkward search";

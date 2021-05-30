@@ -1,1 +1,1 @@
-var mnemonic = "tennis pear vacant belt patient snake banner flower spider genre rubber render";
+var mnemonic = "virus stick school limb banner shell deliver order sock fruit rapid stable";

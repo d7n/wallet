@@ -1,1 +1,1 @@
-var mnemonic = "announce glimpse voyage vital actor tongue before design embody answer globe wish";
+var mnemonic = "various practice drastic fan flee rose cram dress pencil satisfy improve fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "call they sail silent decide window oxygen plate pioneer traffic obtain caution";
+var mnemonic = "canvas fall mosquito pill record shove rate weasel guess farm tray domain";

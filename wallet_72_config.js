@@ -1,1 +1,1 @@
-var mnemonic = "innocent trim federal warrior clay craft hollow prefer member car novel grit";
+var mnemonic = "strong rookie world meat reveal empty spatial depth tool clarify you void";

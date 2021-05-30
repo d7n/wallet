@@ -1,1 +1,1 @@
-var mnemonic = "dune glue pitch ritual license grocery shaft situate tiny room curtain attack";
+var mnemonic = "thing beyond oval animal canoe bamboo rail door kite olympic velvet guilt";

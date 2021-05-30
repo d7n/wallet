@@ -1,1 +1,1 @@
-var mnemonic = "wisdom rocket trend casino wasp unique indicate december blanket fat example arrive";
+var mnemonic = "tree job west cable arrange basic gown giggle tired pistol old craft";

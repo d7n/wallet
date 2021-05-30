@@ -1,1 +1,1 @@
-var mnemonic = "dawn piano seven black better rose foam vote plug option remember water";
+var mnemonic = "lab spirit day kidney degree scrap change volume long rabbit hard busy";

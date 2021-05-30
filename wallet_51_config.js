@@ -1,1 +1,1 @@
-var mnemonic = "blossom chef all detect dance ribbon hat damage circle combine smooth umbrella";
+var mnemonic = "industry material punch install cry story ghost claw proof treat real chunk";

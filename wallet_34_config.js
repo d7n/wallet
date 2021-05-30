@@ -1,1 +1,1 @@
-var mnemonic = "key slogan music squeeze pyramid bamboo tissue advice elegant prison blind category";
+var mnemonic = "arena hundred atom select creek walk vast same rebel find blush artefact";

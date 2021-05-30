@@ -1,1 +1,1 @@
-var mnemonic = "offer gaze forward abstract forum shadow fish fuel soon hope echo truck";
+var mnemonic = "juice glass lock travel tail garment oak wing magic traffic announce humor";

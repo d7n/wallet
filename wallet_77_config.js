@@ -1,1 +1,1 @@
-var mnemonic = "name mandate wood you excuse false trophy diagram just wood silver october";
+var mnemonic = "toy pipe meadow curious ghost shoe behave cupboard tower talent between tackle";

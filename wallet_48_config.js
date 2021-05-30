@@ -1,1 +1,1 @@
-var mnemonic = "payment neglect wisdom donkey embrace extra tuition license forward snake negative raw";
+var mnemonic = "duty believe balcony trial rally chest vacant pulse enrich winter apple easily";

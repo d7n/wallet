@@ -1,1 +1,1 @@
-var mnemonic = "item sniff crime right bunker traffic conduct subject sun maid salad clever";
+var mnemonic = "shell trumpet year twelve forget stumble air brain stairs ghost east turkey";

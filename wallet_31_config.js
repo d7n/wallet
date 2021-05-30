@@ -1,1 +1,1 @@
-var mnemonic = "tube basic absent prosper nose cannon verb novel screen gas promote donor";
+var mnemonic = "verb youth silent absurd flip region indicate speak attract effort easily clown";

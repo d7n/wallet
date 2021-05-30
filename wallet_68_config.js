@@ -1,1 +1,1 @@
-var mnemonic = "retire banner task exchange foster gather bless agent toast vital pride lyrics";
+var mnemonic = "fatigue rare pond forget rain polar toward retire access group bundle correct";

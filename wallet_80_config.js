@@ -1,1 +1,1 @@
-var mnemonic = "grape orient web pitch fan drum fun bone toast luggage vocal claw";
+var mnemonic = "rich valve human eight occur affair join sauce man prosper spoil quality";

@@ -1,1 +1,1 @@
-var mnemonic = "clap arrow ankle clinic advance gaze shine vehicle patch blind mention basic";
+var mnemonic = "pioneer walnut lawsuit method bone elephant enemy awesome that push maze miss";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard tooth health shop coin loop impose jump tone achieve thunder pyramid";
+var mnemonic = "pig rebuild work civil piano release vague organ quarter force age jeans";

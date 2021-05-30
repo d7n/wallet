@@ -1,1 +1,1 @@
-var mnemonic = "taste leaf inherit giraffe travel hedgehog regret nose section skill predict table";
+var mnemonic = "imitate alcohol venture crane bargain kingdom city shiver resist wild debate define";

@@ -1,1 +1,1 @@
-var mnemonic = "liar addict frequent banana stand knife yellow caught safe chef toss boost";
+var mnemonic = "model name live learn attend worth myth enough wisdom bitter boring solar";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel age wild invest romance kiwi thing spike improve relief casual movie";
+var mnemonic = "moral soccer apple vacuum moment trial coast satisfy car denial exact wet";

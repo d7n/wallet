@@ -1,1 +1,1 @@
-var mnemonic = "before evidence gasp jump mean glance shaft labor asthma stage earth ill";
+var mnemonic = "gentle fine fetch aisle tooth offer there cage galaxy arrest dolphin offer";

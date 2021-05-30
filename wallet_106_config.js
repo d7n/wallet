@@ -1,1 +1,1 @@
-var mnemonic = "beef loyal inject morning exclude life stadium meadow hybrid manage pelican jungle";
+var mnemonic = "lyrics rack subject pizza smile tag home ready fold mass worth peace";

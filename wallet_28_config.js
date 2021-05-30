@@ -1,1 +1,1 @@
-var mnemonic = "judge ankle garment impact mandate unfair custom base during script jealous diary";
+var mnemonic = "ridge shoot buzz assist indicate famous hamster crystal oxygen antique giggle novel";

@@ -1,1 +1,1 @@
-var mnemonic = "fly scorpion remain scissors found all inner truly make damage relax anchor";
+var mnemonic = "theory current tomato loyal trophy final embrace client deliver evoke loan erosion";

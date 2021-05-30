@@ -1,1 +1,1 @@
-var mnemonic = "tackle impulse cruel muffin mass armed lemon special supply gun oak gasp";
+var mnemonic = "nurse grab kid another salon square icon say detect toast script awake";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow all again trip brain bird enlist dentist recipe federal depend nest";
+var mnemonic = "dish canyon very way absurd pumpkin inform history flag load mixed ring";

@@ -1,1 +1,1 @@
-var mnemonic = "feed basic action stairs awesome width cousin uncle search manage toddler dutch";
+var mnemonic = "crater element stumble gloom aunt margin erosion romance woman human bullet poem";

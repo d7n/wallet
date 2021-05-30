@@ -1,1 +1,1 @@
-var mnemonic = "lens dog pelican switch crack direct matter era tape dinosaur beauty among";
+var mnemonic = "gain husband cruise enable maid two reflect patch brush praise auction round";

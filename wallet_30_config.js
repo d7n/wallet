@@ -1,1 +1,1 @@
-var mnemonic = "manual drama dog tribe vault clip exotic clinic quit crunch denial blood";
+var mnemonic = "keep region angry lab wine solve lunar memory reduce draw vintage garage";
