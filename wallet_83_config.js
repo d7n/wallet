@@ -1,1 +1,1 @@
-var mnemonic = "drop upset have magic economy secret one cabin away enlist type erupt";
+var mnemonic = "brass better special recycle need during regret light ramp riot crash grow";

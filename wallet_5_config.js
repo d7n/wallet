@@ -1,1 +1,1 @@
-var mnemonic = "garment chalk student agent soap addict access banana error ozone lucky velvet";
+var mnemonic = "economy boy kid cushion umbrella kangaroo course endless draft fire exact explain";

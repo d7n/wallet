@@ -1,1 +1,1 @@
-var mnemonic = "enter rabbit range stuff garbage forest inspire cabin stamp exit census advance";
+var mnemonic = "attitude seminar write approve gallery duty lemon maid purchase clump auction tone";

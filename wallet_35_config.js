@@ -1,1 +1,1 @@
-var mnemonic = "fashion science fall edit slow stove thing suspect quantum win demise certain";
+var mnemonic = "bicycle such tower slab trust chalk unveil book quote soap anger snap";

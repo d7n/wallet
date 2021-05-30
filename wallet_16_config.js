@@ -1,1 +1,1 @@
-var mnemonic = "cousin boring aim decline stage pudding tuna love circle baby funny meat";
+var mnemonic = "toast enact film safe heart someone gain ordinary senior school finger diesel";

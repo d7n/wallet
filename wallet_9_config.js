@@ -1,1 +1,1 @@
-var mnemonic = "emotion jump danger lounge input pause theme flat utility couch parade crush";
+var mnemonic = "speak thought pumpkin tray canoe hour delay route hip shadow monkey service";

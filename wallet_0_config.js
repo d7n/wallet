@@ -1,1 +1,1 @@
-var mnemonic = "voice sheriff spin burger runway dream clutch ginger sell side panic robust";
+var mnemonic = "keen vast coffee rival curtain leopard chicken betray fringe vicious unable arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire canvas trim nation zone correct festival scare mule viable twelve cash";
+var mnemonic = "gym shell brush wolf fluid race tide monitor inch govern whisper inside";

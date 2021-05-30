@@ -1,1 +1,1 @@
-var mnemonic = "code home lonely wealth lottery pave reject twice note giant surround diet";
+var mnemonic = "paddle kiss swarm snake brush print kingdom more plastic fox subway flash";

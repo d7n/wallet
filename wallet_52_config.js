@@ -1,1 +1,1 @@
-var mnemonic = "swallow awkward swarm announce ceiling file pool dumb carry frog cram tuition";
+var mnemonic = "edge west enhance baby rocket toss spring canal shiver october recipe salad";

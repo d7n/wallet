@@ -1,1 +1,1 @@
-var mnemonic = "legend frequent fashion capital carpet toddler maid feed rigid best phrase choice";
+var mnemonic = "merry leader another later bulb tube payment car real drip bronze dinner";

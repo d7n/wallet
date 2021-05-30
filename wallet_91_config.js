@@ -1,1 +1,1 @@
-var mnemonic = "ramp future surprise destroy win palm clinic skull you stairs leaf wise";
+var mnemonic = "month warfare morning merry napkin relax attitude crush dilemma blast depth exclude";

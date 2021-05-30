@@ -1,1 +1,1 @@
-var mnemonic = "topple reduce proud chicken involve cargo repair eager fine neck trial tail";
+var mnemonic = "sunny double crazy achieve jewel will team valve turtle genre tank donate";

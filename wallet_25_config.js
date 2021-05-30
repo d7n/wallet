@@ -1,1 +1,1 @@
-var mnemonic = "float erupt talent oven arm struggle simple blast feel exit exclude army";
+var mnemonic = "vehicle test bench world hen couple squirrel raw ensure yard piano again";

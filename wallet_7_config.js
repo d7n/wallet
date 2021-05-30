@@ -1,1 +1,1 @@
-var mnemonic = "spread verify civil slot disagree real super season game medal idea man";
+var mnemonic = "domain cousin egg erase door stool car jump talk vessel crowd amount";

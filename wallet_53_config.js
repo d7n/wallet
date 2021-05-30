@@ -1,1 +1,1 @@
-var mnemonic = "width invest toy rent emerge dress mad faint feed egg sting police";
+var mnemonic = "canal crater garlic ankle people health alert album congress coconut reason reunion";

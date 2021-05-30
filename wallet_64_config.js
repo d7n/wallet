@@ -1,1 +1,1 @@
-var mnemonic = "diamond evolve off sense cruise flower word claim donate seven viable wise";
+var mnemonic = "feel burger chaos home pencil perfect cinnamon car crime tent sick hidden";

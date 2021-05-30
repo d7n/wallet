@@ -1,1 +1,1 @@
-var mnemonic = "fire differ install city gossip law decide blossom maple clog calm nasty";
+var mnemonic = "abuse hour chest nice van three wonder spell bundle glimpse nerve assault";

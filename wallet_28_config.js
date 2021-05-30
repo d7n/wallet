@@ -1,1 +1,1 @@
-var mnemonic = "rapid net citizen invite spring extend divide case design diary client capital";
+var mnemonic = "volume tank turkey season address love arrow craft glory comic result pupil";

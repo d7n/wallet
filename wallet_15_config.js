@@ -1,1 +1,1 @@
-var mnemonic = "orient nature roof brown warrior deal axis position holiday order satisfy below";
+var mnemonic = "over title loyal taste present pull collect balcony robot pretty into oven";

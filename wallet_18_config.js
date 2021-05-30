@@ -1,1 +1,1 @@
-var mnemonic = "place click try hire advance school artefact fox just harsh frequent desert";
+var mnemonic = "situate body grace prosper boat bamboo extend mutual alien weekend spice property";

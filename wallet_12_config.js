@@ -1,1 +1,1 @@
-var mnemonic = "ice iron security shop useless other rocket fiscal erupt until pair milk";
+var mnemonic = "reward bomb near inmate inherit lens midnight wise inherit small denial local";

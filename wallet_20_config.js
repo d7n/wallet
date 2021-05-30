@@ -1,1 +1,1 @@
-var mnemonic = "session unit track post three fault pitch unfold army win health manual";
+var mnemonic = "company snap private rough primary install apple mercy buyer volume load old";

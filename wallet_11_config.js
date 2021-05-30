@@ -1,1 +1,1 @@
-var mnemonic = "never road unique opinion stick year width speed asthma view brain frequent";
+var mnemonic = "used degree idea duck fix actor swear give entry flower upon black";

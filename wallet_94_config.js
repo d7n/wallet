@@ -1,1 +1,1 @@
-var mnemonic = "tragic under absorb easily ethics play various fame angle evolve fog just";
+var mnemonic = "fresh snack exact lens gift lens large random repeat spread attitude observe";

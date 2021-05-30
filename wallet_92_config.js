@@ -1,1 +1,1 @@
-var mnemonic = "interest toy nose loyal shrimp monkey stadium trouble knife loud disease mango";
+var mnemonic = "canyon gossip excess unaware access lesson slogan rich invite wife around try";

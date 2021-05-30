@@ -1,1 +1,1 @@
-var mnemonic = "vicious pizza gap device coin oyster deliver update remind problem switch stuff";
+var mnemonic = "rate draft edit penalty sustain budget help afford time arrest catch toward";

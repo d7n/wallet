@@ -1,1 +1,1 @@
-var mnemonic = "frost train enrich hobby health divert above blush core melody near ignore";
+var mnemonic = "grunt submit desk champion inform pause oven vocal target open lady modify";

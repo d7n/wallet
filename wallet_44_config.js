@@ -1,1 +1,1 @@
-var mnemonic = "art paper donor kind soldier fee move enter goose monitor author legal";
+var mnemonic = "dentist motion pistol town credit swarm damage cannon require auto coach first";

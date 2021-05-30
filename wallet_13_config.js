@@ -1,1 +1,1 @@
-var mnemonic = "fuel reduce donor tilt level combine route mandate follow mechanic arch evoke";
+var mnemonic = "future oppose swim biology agree near hunt mixture match rhythm father mix";

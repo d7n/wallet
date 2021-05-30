@@ -1,1 +1,1 @@
-var mnemonic = "road pulp basket security alter indicate water spoon nice aim gadget answer";
+var mnemonic = "escape identify mechanic cross assist diesel dragon slam aisle twice balance movie";

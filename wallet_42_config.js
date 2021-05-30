@@ -1,1 +1,1 @@
-var mnemonic = "vote observe twelve amused prepare shell swamp stay quarter unaware often enroll";
+var mnemonic = "acid palm hospital wise shoulder special false mixture spell about gun ball";

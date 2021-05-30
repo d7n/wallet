@@ -1,1 +1,1 @@
-var mnemonic = "kingdom depth toss photo extra beef grunt valid together essay aerobic tattoo";
+var mnemonic = "hood arrange cattle quit exotic later recipe pizza zebra brush call salute";

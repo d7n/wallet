@@ -1,1 +1,1 @@
-var mnemonic = "fish kiss warm foot sick ripple talk steak gorilla ill age happy";
+var mnemonic = "next hockey elegant gap gallery broom grid wear army either fruit power";

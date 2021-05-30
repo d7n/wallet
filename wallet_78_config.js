@@ -1,1 +1,1 @@
-var mnemonic = "near power loop arrange moment electric liquid step grape skirt album behave";
+var mnemonic = "crawl amateur fly paddle carpet enter cigar flight island luggage mercy check";

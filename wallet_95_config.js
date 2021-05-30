@@ -1,1 +1,1 @@
-var mnemonic = "mansion media venture major author fluid topple unhappy history tackle torch gas";
+var mnemonic = "polar supreme august rebel still suffer miss coin undo strong normal trap";

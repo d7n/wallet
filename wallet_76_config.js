@@ -1,1 +1,1 @@
-var mnemonic = "hood paper toilet cluster salmon half later echo scorpion sunny library ostrich";
+var mnemonic = "into into wrist burger sense then ticket hundred enter chest law force";

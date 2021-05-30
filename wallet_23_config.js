@@ -1,1 +1,1 @@
-var mnemonic = "amount civil hat state guilt play glance tackle address despair method whisper";
+var mnemonic = "can fashion wrap flavor hard economy rabbit stable game help room gravity";

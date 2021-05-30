@@ -1,1 +1,1 @@
-var mnemonic = "swap else frog hair napkin capital sick gain version grass matter buddy";
+var mnemonic = "coffee used exotic wrestle certain panther level slow random crowd easily acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "series hope sniff visa upset clock consider bleak wash wise taxi digital";
+var mnemonic = "vintage popular husband weasel web injury unaware pioneer shop scout pond leopard";

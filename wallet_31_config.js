@@ -1,1 +1,1 @@
-var mnemonic = "emotion solar type ticket width glory cousin gospel art umbrella sauce all";
+var mnemonic = "foster draft lawn goose cool exhibit seed village friend cousin draw half";

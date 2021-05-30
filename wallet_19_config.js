@@ -1,1 +1,1 @@
-var mnemonic = "enrich endorse series unable carbon saddle design glory doll series bomb stick";
+var mnemonic = "worry such real trophy length sausage music alone basic hair build corn";

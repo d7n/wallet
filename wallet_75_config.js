@@ -1,1 +1,1 @@
-var mnemonic = "cousin major pioneer pair rhythm unfair smoke zebra model bean ridge witness";
+var mnemonic = "scrub cross turtle horn gym bonus monitor border setup divert flee sample";

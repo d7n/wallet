@@ -1,1 +1,1 @@
-var mnemonic = "six purpose dutch concert heavy tobacco helmet essay course pact myself cigar";
+var mnemonic = "clog snap antenna window deer choice mesh capable skin crop bachelor organ";

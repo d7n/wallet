@@ -1,1 +1,1 @@
-var mnemonic = "elegant dinner rigid document forest guitar pumpkin local royal mechanic gain history";
+var mnemonic = "moment tired wheat echo guitar unlock immense congress join front awful employ";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy travel west better shrimp sand age bitter brisk print steel dignity";
+var mnemonic = "shock physical goose horror license valve report around pigeon athlete envelope quarter";

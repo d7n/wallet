@@ -1,1 +1,1 @@
-var mnemonic = "poverty unhappy please copy write board type sight surge jewel angle science";
+var mnemonic = "woman option barely document wool royal coin boil gauge keep frog render";

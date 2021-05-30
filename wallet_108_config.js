@@ -1,1 +1,1 @@
-var mnemonic = "frame rare ten cousin helmet oil awful govern stable fortune dad liar";
+var mnemonic = "circle switch surround lake spring other lemon useful talent slide sibling behave";

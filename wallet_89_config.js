@@ -1,1 +1,1 @@
-var mnemonic = "blur rice embrace fame language modify capable shadow slim warrior cheap steel";
+var mnemonic = "gadget survey wrap make remain lens law trouble horse under work gadget";

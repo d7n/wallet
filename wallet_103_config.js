@@ -1,1 +1,1 @@
-var mnemonic = "ancient summer action gain blouse soccer enact above novel become kitten pioneer";
+var mnemonic = "milk virtual rally rail manage actress banner style glass ecology predict system";

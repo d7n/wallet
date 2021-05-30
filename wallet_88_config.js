@@ -1,1 +1,1 @@
-var mnemonic = "glare firm dog shop snake latin lawn thrive universe air unfair super";
+var mnemonic = "brass seven patrol path amused shy anchor fossil mechanic key account ahead";

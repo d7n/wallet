@@ -1,1 +1,1 @@
-var mnemonic = "alcohol audit now account final market drive mail axis rifle rack surprise";
+var mnemonic = "rack jar foil open dawn casino rotate harvest start riot neutral upon";

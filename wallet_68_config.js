@@ -1,1 +1,1 @@
-var mnemonic = "green talk poverty mixture lecture snake visa scissors deliver addict box zone";
+var mnemonic = "bulb clog identify knife bargain office depart suit lucky route assist wool";

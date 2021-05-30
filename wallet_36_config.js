@@ -1,1 +1,1 @@
-var mnemonic = "furnace ribbon test tube muscle actual legend review name pave treat spare";
+var mnemonic = "push anger vacuum quit twelve soccer trouble author unaware uniform pear spoon";

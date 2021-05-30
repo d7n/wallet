@@ -1,1 +1,1 @@
-var mnemonic = "inhale spray over type pyramid matrix warm claw grape chimney possible proof";
+var mnemonic = "choose invest achieve sing correct green banner transfer crunch cousin ill invite";

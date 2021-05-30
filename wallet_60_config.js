@@ -1,1 +1,1 @@
-var mnemonic = "follow indicate velvet armor cake crew situate drum category cover upon episode";
+var mnemonic = "grocery jeans region adjust develop sweet half run gasp invite milk farm";

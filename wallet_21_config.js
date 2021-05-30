@@ -1,1 +1,1 @@
-var mnemonic = "eagle pizza bounce much normal resemble helmet cat crush faculty dizzy snap";
+var mnemonic = "split anger moral drama execute axis maze story subway indoor put elegant";

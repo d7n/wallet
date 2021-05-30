@@ -1,1 +1,1 @@
-var mnemonic = "domain pause crumble toast tip salon prepare glow other plunge area corn";
+var mnemonic = "board girl champion dune twelve direct wish camera arrive essence venue balcony";

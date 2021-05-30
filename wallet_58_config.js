@@ -1,1 +1,1 @@
-var mnemonic = "swallow victory need shuffle original panel jeans model wire sunset seek ladder";
+var mnemonic = "lounge will another raven today fence slide trick sail puzzle reopen fence";

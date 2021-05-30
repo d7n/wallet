@@ -1,1 +1,1 @@
-var mnemonic = "miss fault ritual universe fork cancel crop adjust tomorrow van cricket only";
+var mnemonic = "erode glass six liberty suggest kitchen clutch slide until feel today unknown";

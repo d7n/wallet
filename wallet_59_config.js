@@ -1,1 +1,1 @@
-var mnemonic = "cloth donor iron rude marriage practice category food limb panic film fatal";
+var mnemonic = "section brief resist today test slogan waste modify casino animal noodle stick";

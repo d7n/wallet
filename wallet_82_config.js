@@ -1,1 +1,1 @@
-var mnemonic = "napkin confirm fire major bulb paddle ankle slight life goose place abandon";
+var mnemonic = "rabbit mother inspire loud find scale time victory fat blind fog swamp";

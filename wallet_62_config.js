@@ -1,1 +1,1 @@
-var mnemonic = "clever neglect you fee crunch siren business cactus couch oxygen child awful";
+var mnemonic = "option viable maid museum flip jungle salon moral piece oppose blade kidney";

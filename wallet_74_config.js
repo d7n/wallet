@@ -1,1 +1,1 @@
-var mnemonic = "empty afraid valve celery middle enjoy wheat hour tape long mansion exotic";
+var mnemonic = "only gold leaf observe service dynamic snack fatal warfare collect very display";

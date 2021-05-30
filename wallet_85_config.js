@@ -1,1 +1,1 @@
-var mnemonic = "minor current faith horse refuse miss destroy dignity script humor sell dilemma";
+var mnemonic = "tennis nephew opera clarify exhaust camera hospital warrior find usual modify beef";

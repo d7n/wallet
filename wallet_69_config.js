@@ -1,1 +1,1 @@
-var mnemonic = "lizard dial evolve electric hedgehog miss purity stamp hollow this uncle biology";
+var mnemonic = "ability soon drift winner decline impose eternal result visa absurd crawl accident";

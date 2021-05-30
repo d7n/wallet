@@ -1,1 +1,1 @@
-var mnemonic = "aim phrase abuse this topple ice about frame jelly doll dress toilet";
+var mnemonic = "shield glow between morning also gasp unknown twelve pole ritual enhance museum";

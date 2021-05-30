@@ -1,1 +1,1 @@
-var mnemonic = "violin planet weird cigar husband control property merry sign zone wash protect";
+var mnemonic = "apart rude doctor hungry famous rookie arena subway talk company squeeze pyramid";

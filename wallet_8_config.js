@@ -1,1 +1,1 @@
-var mnemonic = "enter divert explain combine rice child museum apart float only pattern virtual";
+var mnemonic = "ozone source drink traffic clerk sketch today axis cheap hospital culture bid";

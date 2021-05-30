@@ -1,1 +1,1 @@
-var mnemonic = "carbon field zoo name chalk until travel thing gather cereal alien fossil";
+var mnemonic = "stomach suspect fun original load alarm destroy race actual jar swamp liberty";

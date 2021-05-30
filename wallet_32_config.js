@@ -1,1 +1,1 @@
-var mnemonic = "assume trash outer boring syrup broom now raw crash purchase angry dress";
+var mnemonic = "humor ghost fade nature devote toddler system resist three gap transfer naive";

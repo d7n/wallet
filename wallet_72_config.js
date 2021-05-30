@@ -1,1 +1,1 @@
-var mnemonic = "birth fog light try memory month whale comfort spin slice village success";
+var mnemonic = "damp ill tip climb input ring nation nominee win barely odor quality";

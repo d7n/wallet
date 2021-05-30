@@ -1,1 +1,1 @@
-var mnemonic = "tenant suggest medal woman federal smart sell orange gather outside proud effort";
+var mnemonic = "napkin hurt grant either country path edge flame upgrade myth inflict season";

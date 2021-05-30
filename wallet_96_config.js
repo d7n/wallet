@@ -1,1 +1,1 @@
-var mnemonic = "lend forum cat dragon thunder laptop ignore sort fence climb verify tube";
+var mnemonic = "device tide remind risk spot produce beauty blue glow same memory floor";

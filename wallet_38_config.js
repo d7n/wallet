@@ -1,1 +1,1 @@
-var mnemonic = "miracle enough obey sport brisk cancel auto cloth knock damp tenant second";
+var mnemonic = "age open idle snap panther pioneer nurse monitor van wink easy paddle";

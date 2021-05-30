@@ -1,1 +1,1 @@
-var mnemonic = "bachelor praise quick rural copper dizzy school green engine inner gossip peace";
+var mnemonic = "super flower lonely obtain ginger hand call level all grocery gentle duty";

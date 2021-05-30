@@ -1,1 +1,1 @@
-var mnemonic = "habit profit sense drama donkey step consider blouse moment maid miracle blast";
+var mnemonic = "job slot olympic shoot relief extra wave powder coconut humor bounce begin";

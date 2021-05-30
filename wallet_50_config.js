@@ -1,1 +1,1 @@
-var mnemonic = "water copy short walk choice venture rubber define slide benefit recycle vacant";
+var mnemonic = "fresh boss style art sun paddle degree any finish salmon tube envelope";

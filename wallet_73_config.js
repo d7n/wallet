@@ -1,1 +1,1 @@
-var mnemonic = "sight just bracket camp alert congress cricket victory oil priority marble genius";
+var mnemonic = "man moment clay brush angle raw dinosaur loud space length give second";

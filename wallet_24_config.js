@@ -1,1 +1,1 @@
-var mnemonic = "custom you festival style tuition million pact refuse open stone aerobic shrug";
+var mnemonic = "faith symbol hood loan relief possible picnic metal hole tongue quarter maid";

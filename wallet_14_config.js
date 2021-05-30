@@ -1,1 +1,1 @@
-var mnemonic = "lucky response vibrant essence diamond police fitness brand impact hobby stadium local";
+var mnemonic = "benefit corn quit about mad polar despair teach beauty gas bullet thing";

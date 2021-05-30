@@ -1,1 +1,1 @@
-var mnemonic = "check vast dumb toward mercy item grunt journey possible discover capable between";
+var mnemonic = "program suspect uniform voyage cover era cost alpha dinner leopard midnight actual";

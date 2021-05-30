@@ -1,1 +1,1 @@
-var mnemonic = "brisk novel initial match title pitch pattern post increase exile enact cinnamon";
+var mnemonic = "olive once goose confirm moment enlist solar merry year orange portion labor";

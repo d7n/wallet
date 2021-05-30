@@ -1,1 +1,1 @@
-var mnemonic = "fluid cube tobacco unable chef manual actress endorse finger prize focus wise";
+var mnemonic = "firm muffin quote claw under credit cash brown card arch add bronze";

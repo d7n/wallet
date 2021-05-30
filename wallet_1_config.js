@@ -1,1 +1,1 @@
-var mnemonic = "awkward rural fantasy tattoo bronze scene ride omit pen law despair balance";
+var mnemonic = "town sentence major stairs glare example goddess exile gloom pioneer thrive erase";
