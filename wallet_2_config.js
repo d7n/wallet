@@ -1,1 +1,1 @@
-var mnemonic = "gate enable image beef square barrel ivory aisle pioneer tell expose day";
+var mnemonic = "marriage response snack pink east twelve arctic off easily jelly front critic";

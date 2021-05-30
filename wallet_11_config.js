@@ -1,1 +1,1 @@
-var mnemonic = "garment figure screen south uniform bean shaft measure edge balcony insane salute";
+var mnemonic = "raccoon chief reject swift faith fly tower spirit carbon spawn blame verify";

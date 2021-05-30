@@ -1,1 +1,1 @@
-var mnemonic = "chalk promote ginger label repeat lizard crystal imitate dumb garden elephant degree";
+var mnemonic = "school bacon wasp suffer ship blur pride lion ritual between cliff desert";

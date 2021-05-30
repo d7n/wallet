@@ -1,1 +1,1 @@
-var mnemonic = "stone nation nephew shy apart couple hockey vital demand menu one swamp";
+var mnemonic = "market tilt hire movie captain pony oak prize million rigid brush scan";

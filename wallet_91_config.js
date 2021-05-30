@@ -1,1 +1,1 @@
-var mnemonic = "april elite want north smile poem cook differ text chest forest prevent";
+var mnemonic = "transfer slam daughter youth style tourist lawsuit wild hat thank kit solution";

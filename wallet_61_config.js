@@ -1,1 +1,1 @@
-var mnemonic = "ghost roast cloth picnic lock butter topic stereo fault alone volcano tool";
+var mnemonic = "final humor claim lucky organ awake skirt spatial void sister suggest team";

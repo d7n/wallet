@@ -1,1 +1,1 @@
-var mnemonic = "game doll phone scene economy robot aim dial local detail mango fabric";
+var mnemonic = "dignity lava snake bone seat liar coffee rebel sunny stone elbow claw";

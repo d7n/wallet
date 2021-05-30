@@ -1,1 +1,1 @@
-var mnemonic = "man settle century switch whisper nephew battle funny enact manual raise swallow";
+var mnemonic = "marble salt other aerobic follow soon suggest ritual forum leisure fence occur";

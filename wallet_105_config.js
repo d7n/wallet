@@ -1,1 +1,1 @@
-var mnemonic = "better clarify borrow dirt mule also column velvet smile shiver walk circle";
+var mnemonic = "alley business luxury fitness pelican quarter salmon dress chief law sick program";

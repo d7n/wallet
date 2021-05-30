@@ -1,1 +1,1 @@
-var mnemonic = "theory lottery snow merit feed hammer gallery calm drift armed render moon";
+var mnemonic = "indoor stadium enrich kiss supreme rigid crowd mimic mimic say blade captain";

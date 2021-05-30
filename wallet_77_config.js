@@ -1,1 +1,1 @@
-var mnemonic = "tide orange chair taste trigger asset buyer cheese burst camp mixture want";
+var mnemonic = "lens bag collect message auto rug advance hidden hospital finish sustain elephant";

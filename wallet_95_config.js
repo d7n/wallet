@@ -1,1 +1,1 @@
-var mnemonic = "pipe empty scorpion escape mango bike leopard shrimp zone result betray mind";
+var mnemonic = "exhaust subway work forum art alcohol power final range elite token vocal";

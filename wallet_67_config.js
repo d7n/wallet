@@ -1,1 +1,1 @@
-var mnemonic = "hen wrong empower river deny earn crop learn twist talent shiver magic";
+var mnemonic = "immune field post fatal domain equal hard month crawl east pave wing";

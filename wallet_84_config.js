@@ -1,1 +1,1 @@
-var mnemonic = "attitude mushroom key whale place grace mobile little recipe joke country couple";
+var mnemonic = "oil parade token dog hand sheriff they gate clog alcohol admit shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "between moment grocery door embark rabbit small battle history search memory suggest";
+var mnemonic = "feed task will steel author myth talk junior upper bench gather produce";

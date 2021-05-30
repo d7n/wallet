@@ -1,1 +1,1 @@
-var mnemonic = "deer machine found absorb amount mouse keen better first weird betray syrup";
+var mnemonic = "quality cushion divorce caught will blame verb skill pass mean demand arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "betray gain wonder paddle private february drill people joke fish gap job";
+var mnemonic = "photo ranch silk ugly unusual number sentence glance yellow series artefact display";

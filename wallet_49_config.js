@@ -1,1 +1,1 @@
-var mnemonic = "sauce saddle race gentle double rude since honey endless genre grape describe";
+var mnemonic = "jazz dry wing pony science spoon replace orchard various faith goddess daughter";

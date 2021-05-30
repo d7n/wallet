@@ -1,1 +1,1 @@
-var mnemonic = "play silk neutral cabbage prison useful typical void box laptop divert advice";
+var mnemonic = "spring pelican tool insect twin solid below three chapter ribbon away tape";

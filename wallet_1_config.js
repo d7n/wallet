@@ -1,1 +1,1 @@
-var mnemonic = "film casual claim dawn neck kingdom confirm obvious buzz enough clown skull";
+var mnemonic = "blame symptom lawsuit blossom average want potato pluck crazy sick penalty cigar";

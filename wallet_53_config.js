@@ -1,1 +1,1 @@
-var mnemonic = "cancel around stuff skate toddler front can eagle eight bridge below soldier";
+var mnemonic = "tissue arrest void range weapon bulk dinner cross absent give edit panther";

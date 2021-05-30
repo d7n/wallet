@@ -1,1 +1,1 @@
-var mnemonic = "suggest silent square east worry gain world coyote advice coffee weird purity";
+var mnemonic = "wagon power syrup regular twenty vault brisk dove grid ivory awake attract";

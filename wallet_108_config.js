@@ -1,1 +1,1 @@
-var mnemonic = "donor depend middle vehicle mule purpose melody kiss dish party cook alpha";
+var mnemonic = "phone audit envelope gossip envelope solar fence hood today piano carpet alter";

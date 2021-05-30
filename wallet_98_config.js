@@ -1,1 +1,1 @@
-var mnemonic = "push lesson believe room practice olympic winner daring bundle ethics object dinosaur";
+var mnemonic = "love magic width uncover oak bird property split forum output medal wrap";

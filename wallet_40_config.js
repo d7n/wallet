@@ -1,1 +1,1 @@
-var mnemonic = "turn brief width various dad tool asset pond water provide dynamic coast";
+var mnemonic = "wealth short add drive faint slight month runway physical flight version stereo";

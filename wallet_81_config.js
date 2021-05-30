@@ -1,1 +1,1 @@
-var mnemonic = "monitor ignore alcohol pyramid better settle ill unfold inform comic bitter side";
+var mnemonic = "essence purpose brand next extend trap monster goose autumn fence sudden bullet";

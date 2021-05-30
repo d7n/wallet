@@ -1,1 +1,1 @@
-var mnemonic = "humble visit tiny possible tennis truth emotion farm grain super custom expect";
+var mnemonic = "visual choice record typical clump build glare permit improve fragile cruise that";

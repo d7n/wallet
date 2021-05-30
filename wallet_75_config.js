@@ -1,1 +1,1 @@
-var mnemonic = "stumble room recall since accident connect emotion erase siege ozone mango path";
+var mnemonic = "arrive roof prefer core major problem transfer nuclear become leader mango spirit";

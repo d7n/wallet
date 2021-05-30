@@ -1,1 +1,1 @@
-var mnemonic = "forget allow live length address couple eagle joke witness demand drift finger";
+var mnemonic = "recall aunt rabbit path ocean base stay security present hurdle salute tell";

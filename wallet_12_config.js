@@ -1,1 +1,1 @@
-var mnemonic = "gravity father word boat around atom attract entire demise slice outside stove";
+var mnemonic = "swift garage wire meat spread shrug potato little raw opera toward glove";

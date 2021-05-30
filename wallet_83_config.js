@@ -1,1 +1,1 @@
-var mnemonic = "dragon huge cancel physical auto asset brick snake twin fantasy axis balcony";
+var mnemonic = "tattoo utility tree weather suspect address hospital arrange quiz twist few decade";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong beach dentist skate carbon priority spring rack deliver hidden stand open";
+var mnemonic = "team idle rubber record sell bubble essence certain cement vague step muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess verb wheat dynamic typical salt shrimp finish one dentist call journey";
+var mnemonic = "civil initial doctor rate arrest lunch soccer equip object flame tape lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "oval soft cricket chronic bless duty program pass child silent arctic culture";
+var mnemonic = "yellow tuition motor reunion theory under squeeze toddler tent course fade giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "online able gap play desert square brand trumpet viable truth butter wish";
+var mnemonic = "cargo rule custom parent awake prevent furnace resist fit net planet direct";

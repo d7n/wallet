@@ -1,1 +1,1 @@
-var mnemonic = "patrol bullet crowd entire act clown disorder motion electric act cash awkward";
+var mnemonic = "damage basic document enemy high twelve cool rescue breeze ride rich fuel";

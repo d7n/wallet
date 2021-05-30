@@ -1,1 +1,1 @@
-var mnemonic = "marine lonely spare below idea kitchen design armor broccoli bus school foil";
+var mnemonic = "wear select ankle uphold logic appear sound report despair draw top sing";

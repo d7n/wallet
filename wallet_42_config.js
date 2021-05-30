@@ -1,1 +1,1 @@
-var mnemonic = "thing still beef thing inquiry pluck avocado marine lock flower abstract pulp";
+var mnemonic = "rapid radar oxygen hair among observe travel report suggest ancient luggage stone";

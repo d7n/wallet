@@ -1,1 +1,1 @@
-var mnemonic = "special kangaroo school night fun moon harbor afraid raven salad bundle blush";
+var mnemonic = "stumble modify tower fluid moment evolve bulk cotton crane latin sauce depend";

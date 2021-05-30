@@ -1,1 +1,1 @@
-var mnemonic = "forest flush debris twenty lamp climb rough stairs check jar rescue hold";
+var mnemonic = "frequent armed ivory coil catch cart cushion ready palace mouse reveal afford";

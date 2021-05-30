@@ -1,1 +1,1 @@
-var mnemonic = "surface unique famous genius moon silk tongue decline dinosaur need harbor auction";
+var mnemonic = "sell increase nothing come end harvest crew monkey must finish jazz double";

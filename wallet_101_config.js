@@ -1,1 +1,1 @@
-var mnemonic = "income define rule arena replace once insane bomb amazing spoon gravity say";
+var mnemonic = "manual tribe route horse cake member cream veteran monitor slight stay robust";

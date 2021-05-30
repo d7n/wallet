@@ -1,1 +1,1 @@
-var mnemonic = "cover dolphin dune drink cook liberty napkin tilt moral sentence practice garbage";
+var mnemonic = "tackle gentle stand hurry together chuckle december spray bright runway scheme common";

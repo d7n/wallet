@@ -1,1 +1,1 @@
-var mnemonic = "arrow million garbage helmet search wolf festival venue wrap bench chapter cinnamon";
+var mnemonic = "solve exit cereal message scheme tooth armed indoor cupboard budget assume tennis";

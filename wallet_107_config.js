@@ -1,1 +1,1 @@
-var mnemonic = "find boss debris shiver portion build together perfect demise deliver soldier leopard";
+var mnemonic = "broken amused direct life abandon uncle window egg desert unknown reward human";

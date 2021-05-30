@@ -1,1 +1,1 @@
-var mnemonic = "error urge drum shoulder light emotion smooth virtual solid veteran target thank";
+var mnemonic = "card dose bone chalk electric duty potato couch royal hub cube mystery";

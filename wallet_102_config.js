@@ -1,1 +1,1 @@
-var mnemonic = "wife tourist enroll tenant pink link fitness scrub jewel magic alley add";
+var mnemonic = "supply process predict attend shoulder over tent piece comic junior hurt sort";

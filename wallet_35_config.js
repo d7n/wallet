@@ -1,1 +1,1 @@
-var mnemonic = "hope lava leader duty humor athlete differ breeze cigar moon require pyramid";
+var mnemonic = "attend together dove decorate skate supreme patient alert girl chat maximum bird";

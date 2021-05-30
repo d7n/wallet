@@ -1,1 +1,1 @@
-var mnemonic = "raise season hundred two survey easily shuffle cause cause despair rally select";
+var mnemonic = "paper beauty leaf ugly delay family woman broccoli clinic celery alert animal";

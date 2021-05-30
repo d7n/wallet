@@ -1,1 +1,1 @@
-var mnemonic = "obscure warrior hunt pupil weasel gorilla knock sad cheap industry surround fringe";
+var mnemonic = "album piano sport journey state olympic lamp author alone feature account believe";

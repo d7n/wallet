@@ -1,1 +1,1 @@
-var mnemonic = "wash question hen safe intact unaware floor dish example transfer flip make";
+var mnemonic = "brown cage lab pride indicate oil write know mountain humble soon chunk";

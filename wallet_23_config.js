@@ -1,1 +1,1 @@
-var mnemonic = "unfair dish bundle program method tiger such ski calm kidney square extra";
+var mnemonic = "awake moral torch cross oblige field range base idea wreck lumber lonely";

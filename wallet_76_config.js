@@ -1,1 +1,1 @@
-var mnemonic = "finger artefact fitness glory census reunion scorpion welcome boss boring club egg";
+var mnemonic = "congress topple minor section food surge rough unit evolve absorb total lunch";

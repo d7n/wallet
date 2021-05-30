@@ -1,1 +1,1 @@
-var mnemonic = "pulp web metal fat cloth runway slim concert quantum top trade blouse";
+var mnemonic = "meadow session gun rack figure program message pigeon under vital draw demise";

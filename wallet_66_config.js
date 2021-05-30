@@ -1,1 +1,1 @@
-var mnemonic = "carpet shine fiction arch industry various trade option wagon echo order response";
+var mnemonic = "toddler lobster bleak hold desert pulse broccoli fence swarm account sting student";

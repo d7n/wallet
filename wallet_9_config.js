@@ -1,1 +1,1 @@
-var mnemonic = "tip quit odor large know match dog curtain frozen field grit wait";
+var mnemonic = "film such dog marine buddy black heart limb appear dress flower awkward";

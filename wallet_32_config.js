@@ -1,1 +1,1 @@
-var mnemonic = "gossip pilot salute fold detail pretty climb copper glad raw trial ripple";
+var mnemonic = "try vacuum glue repair dismiss glare purchase spatial payment make sell uniform";

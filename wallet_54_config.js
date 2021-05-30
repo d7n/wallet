@@ -1,1 +1,1 @@
-var mnemonic = "bargain verb stadium novel enter riot soap aim country number discover forward";
+var mnemonic = "cupboard modify federal olive pull mammal kid clerk hurry again museum picture";

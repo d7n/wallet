@@ -1,1 +1,1 @@
-var mnemonic = "orphan step ostrich twice uniform license remove member sell laptop nose noodle";
+var mnemonic = "sand barrel city bring arrest tilt live decrease fresh music steak knee";

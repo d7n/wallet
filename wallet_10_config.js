@@ -1,1 +1,1 @@
-var mnemonic = "random spoil praise gold sheriff load reflect sponsor mercy digital practice fatigue";
+var mnemonic = "job tongue album era slogan mixed lava fat extra riot edge cover";

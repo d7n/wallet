@@ -1,1 +1,1 @@
-var mnemonic = "merry giraffe food scrap parrot accuse trophy lesson gallery crawl payment identify";
+var mnemonic = "exhibit art space hint devote symptom announce atom equal six burden kid";

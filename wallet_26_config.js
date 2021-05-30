@@ -1,1 +1,1 @@
-var mnemonic = "legal drastic dizzy direct jaguar practice dentist face hello friend truth adjust";
+var mnemonic = "picnic mixture alone ramp model elevator knee argue april erase exact disorder";

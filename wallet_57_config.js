@@ -1,1 +1,1 @@
-var mnemonic = "summer decide oblige same ride analyst fine radar oven talk panel appear";
+var mnemonic = "brain initial define hedgehog inner taxi tomato avocado trigger share polar pig";

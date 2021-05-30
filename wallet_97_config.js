@@ -1,1 +1,1 @@
-var mnemonic = "amount wish hard legend inflict share chapter final rather credit lecture glass";
+var mnemonic = "wish keen salmon sweet measure code cart final charge shaft gossip hockey";

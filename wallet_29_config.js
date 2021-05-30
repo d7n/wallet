@@ -1,1 +1,1 @@
-var mnemonic = "oval tourist finish fault ordinary debate miracle picnic various worry labor dirt";
+var mnemonic = "milk lunar toe island original gain proud chair extra fold disagree drastic";

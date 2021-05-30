@@ -1,1 +1,1 @@
-var mnemonic = "acquire renew injury zone scorpion amazing broom wink feel roof screen advance";
+var mnemonic = "crane achieve seat journey always second amount coin smart turtle goddess rural";

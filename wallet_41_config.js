@@ -1,1 +1,1 @@
-var mnemonic = "camera sunny connect toy rubber river prefer dismiss leaf avoid rude promote";
+var mnemonic = "ethics wrist reform mail vacant thrive scene ice chronic solve rally average";

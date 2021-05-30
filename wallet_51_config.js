@@ -1,1 +1,1 @@
-var mnemonic = "curtain describe phone across hawk delay tomato enjoy youth hurry wreck prevent";
+var mnemonic = "chunk empower oyster blade keen stone switch trophy mom bid ill sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden prosper frog trim move course fuel silver seek erode dial sail";
+var mnemonic = "cube banana because film endless robust jacket hurdle sight garden series divert";

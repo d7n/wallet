@@ -1,1 +1,1 @@
-var mnemonic = "weekend absorb ceiling two female found tattoo develop dice nominee team earth";
+var mnemonic = "train patrol segment sport scissors mixture field tackle tiger off spike address";

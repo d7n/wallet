@@ -1,1 +1,1 @@
-var mnemonic = "kite piano cash rural attack hour elevator never runway express zone lawn";
+var mnemonic = "shed employ neutral hold rice climb club random proud journey repair produce";

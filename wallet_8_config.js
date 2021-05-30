@@ -1,1 +1,1 @@
-var mnemonic = "tree silver elevator account crumble issue item tenant provide casino indicate culture";
+var mnemonic = "this hurry credit carbon maid final nice wish true divide poverty detect";

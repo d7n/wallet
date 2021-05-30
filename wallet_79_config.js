@@ -1,1 +1,1 @@
-var mnemonic = "cheap demise neglect sample half broccoli hobby fringe simple crime outdoor position";
+var mnemonic = "beef mercy suggest entire erase room ginger punch dust chest curtain crouch";

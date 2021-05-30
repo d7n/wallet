@@ -1,1 +1,1 @@
-var mnemonic = "bracket since zero rapid tape decrease gold hard ability nut cinnamon expand";
+var mnemonic = "seed candy until wash measure stage slam assault stadium prize accident potato";

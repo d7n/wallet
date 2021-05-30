@@ -1,1 +1,1 @@
-var mnemonic = "bird grab drastic album gossip latin punch never virtual lawn neglect antique";
+var mnemonic = "people vendor siege color mixture lamp imitate stick liquid glance horse busy";

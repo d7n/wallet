@@ -1,1 +1,1 @@
-var mnemonic = "frog confirm develop ozone letter ugly pluck basket ball always blind honey";
+var mnemonic = "enemy bamboo buyer glide can village animal client stable inspire involve warfare";

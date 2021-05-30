@@ -1,1 +1,1 @@
-var mnemonic = "busy chest oil photo feature thunder industry demand beach path inmate soccer";
+var mnemonic = "audit voice text core reveal panel wealth quarter fruit narrow harvest summer";

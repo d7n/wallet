@@ -1,1 +1,1 @@
-var mnemonic = "design feel fiber magnet cover smart destroy inherit bamboo spike anxiety host";
+var mnemonic = "bag school target horse gasp camera ticket vital negative circle evil hospital";

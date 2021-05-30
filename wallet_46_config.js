@@ -1,1 +1,1 @@
-var mnemonic = "style snap polar diet soul tilt pumpkin coach party abandon hip develop";
+var mnemonic = "curve palace speed few neck tobacco broccoli celery winter quality search history";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly disease pair radar salute amount buzz fame garlic captain north dream";
+var mnemonic = "almost vessel beyond zone ride shadow mobile fuel sight slim dinner unit";

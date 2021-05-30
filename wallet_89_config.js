@@ -1,1 +1,1 @@
-var mnemonic = "peanut answer expand smoke soldier lazy merry today still ankle pool afraid";
+var mnemonic = "heart draw lecture run similar problem disorder industry check infant ladder bubble";

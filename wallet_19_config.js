@@ -1,1 +1,1 @@
-var mnemonic = "wine upper garment canyon cheap dignity slam uniform income mansion artist enforce";
+var mnemonic = "pluck peasant breeze muscle arctic inflict fat boat find hidden second vast";

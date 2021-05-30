@@ -1,1 +1,1 @@
-var mnemonic = "sorry delay amount glory sketch vessel such include total stool wire thrive";
+var mnemonic = "decide zoo entry remain odor crane olive deer live swim thing caution";

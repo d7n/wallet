@@ -1,1 +1,1 @@
-var mnemonic = "voice mix idle relax country target rely wing noble inquiry sunny lizard";
+var mnemonic = "obtain flock gorilla above grid prize input quality blossom bridge vault humble";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy pony retire eight diesel pole salmon extend laptop derive menu guitar";
+var mnemonic = "expire retreat slab rail blue arch endless naive alarm cousin trial enlist";

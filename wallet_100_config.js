@@ -1,1 +1,1 @@
-var mnemonic = "please employ order neglect flip captain blade egg lunar pride gadget wood";
+var mnemonic = "vessel found midnight drift hospital sphere hover olive nasty link wage bitter";

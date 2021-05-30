@@ -1,1 +1,1 @@
-var mnemonic = "palace math idle common rival shrug clap reward flush unfold advance inspire";
+var mnemonic = "weasel cereal section stay leaf emerge comic velvet outside drill make group";

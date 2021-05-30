@@ -1,1 +1,1 @@
-var mnemonic = "crowd original want cry robust broom bar that endless system sad notice";
+var mnemonic = "ladder stereo robust eight welcome jewel brass buzz cereal west virtual drill";

@@ -1,1 +1,1 @@
-var mnemonic = "silly west blanket depart distance clutch task rail apple medal degree shell";
+var mnemonic = "neither cattle street salmon act orient vibrant tomato rural social bronze accident";

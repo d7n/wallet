@@ -1,1 +1,1 @@
-var mnemonic = "wish define wink rich wire derive assume cargo input witness mango course";
+var mnemonic = "lawsuit job siren lobster cake coral slush height lava drink salad chalk";

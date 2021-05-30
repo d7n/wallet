@@ -1,1 +1,1 @@
-var mnemonic = "ride hood rack enemy flight zero raise zoo giraffe wheel final snap";
+var mnemonic = "culture goat wool mountain explain leaf neglect medal boss copper hospital switch";
