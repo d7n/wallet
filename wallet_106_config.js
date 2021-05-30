@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow exit fit gospel female parrot mechanic fortune spoon wife night under";
+var mnemonic = "fall mechanic dad industry inner fatigue brand apart slender remove busy color";

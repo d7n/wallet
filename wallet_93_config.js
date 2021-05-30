@@ -1,1 +1,1 @@
-var mnemonic = "pole tissue ready impose flower minor cupboard annual slice leisure pigeon mimic";
+var mnemonic = "exclude nuclear mixed must switch flush table enable pet narrow relax sustain";

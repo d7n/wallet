@@ -1,1 +1,1 @@
-var mnemonic = "matter zoo educate fall immense inspire leg tree act arrange system wet";
+var mnemonic = "leg crunch album rude angry check horror mutual desk prison sponsor purity";

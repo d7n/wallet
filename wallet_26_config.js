@@ -1,1 +1,1 @@
-var mnemonic = "food weather slow perfect system girl weekend bachelor double under recall wash";
+var mnemonic = "dragon fall attack pact special fortune toast plunge rough mushroom base prison";

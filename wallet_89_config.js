@@ -1,1 +1,1 @@
-var mnemonic = "artefact craft honey eight antenna believe enemy enroll vicious weather indicate chapter";
+var mnemonic = "timber castle nerve episode reason include setup print tilt sustain usual pencil";

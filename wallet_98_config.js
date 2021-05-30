@@ -1,1 +1,1 @@
-var mnemonic = "clutch club doll nose canoe spray reveal describe gain require bronze auction";
+var mnemonic = "seven retire pond surface marine latin situate hard bachelor crane vote now";

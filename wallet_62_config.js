@@ -1,1 +1,1 @@
-var mnemonic = "physical chef friend dismiss wink pledge purse assume beef double badge loop";
+var mnemonic = "skate mixed school crawl security ridge spare twice sweet figure march fit";

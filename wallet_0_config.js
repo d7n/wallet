@@ -1,1 +1,1 @@
-var mnemonic = "visit ride stay idea goose post scan sell episode tube cloud head";
+var mnemonic = "situate below keep rebuild voyage market exclude future sand casino pistol pave";

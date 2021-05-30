@@ -1,1 +1,1 @@
-var mnemonic = "soft corn faith document giant unable hurdle lend gasp dynamic theory heart";
+var mnemonic = "tonight valid actress exist snake mountain train hedgehog life acoustic parade noble";

@@ -1,1 +1,1 @@
-var mnemonic = "wave accuse rate spare smooth surge possible pill work room tone sample";
+var mnemonic = "attitude afraid nurse coffee anchor swear expose girl brush alpha rebuild mountain";

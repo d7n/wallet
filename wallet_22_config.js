@@ -1,1 +1,1 @@
-var mnemonic = "prevent sad excite differ exchange anchor afford diamond task craft also stick";
+var mnemonic = "shy mandate office network smile leave leader miracle sister shoulder object swear";

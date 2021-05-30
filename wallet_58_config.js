@@ -1,1 +1,1 @@
-var mnemonic = "oval then utility display memory tumble sample obvious erase stomach tackle female";
+var mnemonic = "empty will notice garbage flavor rookie way puppy clinic awake school trip";

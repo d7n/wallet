@@ -1,1 +1,1 @@
-var mnemonic = "behave almost jazz catalog add summer pill echo laundry cave renew address";
+var mnemonic = "credit leopard hub gauge gasp awake betray latin head dignity spin virus";

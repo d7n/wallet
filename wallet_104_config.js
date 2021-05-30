@@ -1,1 +1,1 @@
-var mnemonic = "prefer crawl bid elegant maple stadium squirrel cruise exhibit dolphin cabbage biology";
+var mnemonic = "average practice approve eager finger capital major until rapid glimpse green jungle";

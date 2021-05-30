@@ -1,1 +1,1 @@
-var mnemonic = "about claw used roast unveil erosion lunch list grocery top donate solve";
+var mnemonic = "type escape vast cabin gym butter cupboard enroll desert cause message rough";

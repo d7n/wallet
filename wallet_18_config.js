@@ -1,1 +1,1 @@
-var mnemonic = "number sauce erosion found price olive scorpion wait smoke man basket write";
+var mnemonic = "sun pelican nation maze remove sniff pink cinnamon fuel galaxy motor celery";

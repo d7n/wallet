@@ -1,1 +1,1 @@
-var mnemonic = "sniff undo over journey monitor photo task pulp strong junk payment swift";
+var mnemonic = "quick trip vocal exist fold vast hire moon skull taste athlete year";

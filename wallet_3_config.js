@@ -1,1 +1,1 @@
-var mnemonic = "second extend senior crumble route flat neglect twenty rival ice narrow wolf";
+var mnemonic = "price useless satoshi novel measure word notable blood approve city south limit";

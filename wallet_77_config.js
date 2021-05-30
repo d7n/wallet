@@ -1,1 +1,1 @@
-var mnemonic = "solution pull cat slush hero cover tiger trade cheese tail rug strike";
+var mnemonic = "body cabbage cereal pledge canal quit inner puzzle kangaroo celery trophy harvest";

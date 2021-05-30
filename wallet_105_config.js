@@ -1,1 +1,1 @@
-var mnemonic = "venue assume daring soap logic champion gentle museum link answer coyote helmet";
+var mnemonic = "remove mirror biology reward oyster forward waste victory wrong ten knee video";

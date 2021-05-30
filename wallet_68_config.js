@@ -1,1 +1,1 @@
-var mnemonic = "boss park deliver snap link income romance bundle globe shop weapon loan";
+var mnemonic = "glory office start jungle police arctic night letter track deer daughter visa";

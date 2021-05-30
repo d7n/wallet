@@ -1,1 +1,1 @@
-var mnemonic = "tray glad snap argue toddler mutual inmate luxury region skirt denial copper";
+var mnemonic = "whip inherit minute rack home pottery resist vast lounge diesel square immense";

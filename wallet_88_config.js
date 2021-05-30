@@ -1,1 +1,1 @@
-var mnemonic = "raven proof glare corn lizard edit trust word truly clump history seven";
+var mnemonic = "false street october nature blanket bottom quote floor art car ice pony";

@@ -1,1 +1,1 @@
-var mnemonic = "grit extra north note hobby sphere deer forget hollow doctor tired length";
+var mnemonic = "attend join current remember loud style critic common promote firm book hollow";

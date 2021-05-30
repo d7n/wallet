@@ -1,1 +1,1 @@
-var mnemonic = "maze lens wish start paper bonus ancient used planet noise pave away";
+var mnemonic = "lesson hobby enforce spawn category table cloud excuse loan term spider father";

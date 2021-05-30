@@ -1,1 +1,1 @@
-var mnemonic = "urge acquire journey scatter loan kidney together breeze ticket speak famous label";
+var mnemonic = "panther recycle huge brave impulse shuffle sister excess buddy minimum face have";

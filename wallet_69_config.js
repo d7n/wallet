@@ -1,1 +1,1 @@
-var mnemonic = "hotel easy nephew talk segment mix prosper aerobic scan midnight light output";
+var mnemonic = "recycle gadget fuel bid grace absent orphan mass fantasy share public law";

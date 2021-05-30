@@ -1,1 +1,1 @@
-var mnemonic = "scene diary update never disorder fog wide teach clay engine hole zoo";
+var mnemonic = "soon grid weekend neglect issue rebuild trick wet anchor violin fun result";

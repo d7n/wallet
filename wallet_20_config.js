@@ -1,1 +1,1 @@
-var mnemonic = "wall gain secret stay stable enough hope seminar bless verb orient wrong";
+var mnemonic = "stage detect shoe select become error afraid throw main dinosaur season curious";

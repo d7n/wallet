@@ -1,1 +1,1 @@
-var mnemonic = "rack peasant great robust mammal correct chest panic vague expand father excuse";
+var mnemonic = "use side benefit trash alarm lady vacant goddess traffic bless fun trophy";

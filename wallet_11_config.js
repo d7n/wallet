@@ -1,1 +1,1 @@
-var mnemonic = "state estate bicycle error diet witness melt strike kite valid diet ketchup";
+var mnemonic = "local avoid limit trumpet patrol inch rare crucial pottery fault trumpet what";

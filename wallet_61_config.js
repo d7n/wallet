@@ -1,1 +1,1 @@
-var mnemonic = "govern scout sand range cattle noise express hungry slot train goose dawn";
+var mnemonic = "milk twenty comfort expect subject lounge clinic tube vapor just explain valid";

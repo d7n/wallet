@@ -1,1 +1,1 @@
-var mnemonic = "siege response clarify start hybrid awful spawn turn dry fame emerge olympic";
+var mnemonic = "uphold mountain acoustic retire loyal phrase swear material doll next hurdle face";

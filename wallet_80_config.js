@@ -1,1 +1,1 @@
-var mnemonic = "space tribe maximum cattle track you consider box engage drop normal furnace";
+var mnemonic = "pipe warm satisfy nation category custom cabbage either top zone traffic river";

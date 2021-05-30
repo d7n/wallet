@@ -1,1 +1,1 @@
-var mnemonic = "tunnel exercise next accuse wisdom grass open sudden film search cliff ill";
+var mnemonic = "lawn capable behave author lawsuit snow fringe law magnet tree scissors ride";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas still mom evolve have magnet garbage half virtual cancel shiver point";
+var mnemonic = "flight weird limb victory dolphin cruel arm estate great clerk phrase alarm";

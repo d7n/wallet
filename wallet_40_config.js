@@ -1,1 +1,1 @@
-var mnemonic = "vapor image guess toast enough soft lawsuit vacant time check pitch neither";
+var mnemonic = "face fault witness penalty tobacco vicious figure supreme chaos fiscal insane desert";

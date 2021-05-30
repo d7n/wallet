@@ -1,1 +1,1 @@
-var mnemonic = "orchard atom dutch deposit clump ability hen luxury path syrup file want";
+var mnemonic = "ritual song liquid goose palace floor error lamp ugly surge assault champion";

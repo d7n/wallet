@@ -1,1 +1,1 @@
-var mnemonic = "curtain decade dial armor ketchup clock unveil ridge song struggle latin nature";
+var mnemonic = "dry jewel odor trade grief prefer broken cause attract detect canyon scale";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha library fossil purpose address drift anxiety drum trim south pluck stadium";
+var mnemonic = "apart coral dragon keep divorce hat route identify grunt sign hurdle frozen";

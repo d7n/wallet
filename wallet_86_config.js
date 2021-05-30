@@ -1,1 +1,1 @@
-var mnemonic = "learn flavor someone notice peanut nephew arrow way tool nuclear fit access";
+var mnemonic = "island clinic slight exhaust trust ostrich denial tattoo manual mansion much grit";

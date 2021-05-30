@@ -1,1 +1,1 @@
-var mnemonic = "protect disagree glass lunar rigid under soda smart siren sing decade door";
+var mnemonic = "company diet cluster accident manage client theme south clock suit junior surge";

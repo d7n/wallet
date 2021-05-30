@@ -1,1 +1,1 @@
-var mnemonic = "keen save develop isolate immune enroll region abstract crazy ghost gym since";
+var mnemonic = "final topple labor cat coach strategy powder people volume december trend mountain";

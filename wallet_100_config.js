@@ -1,1 +1,1 @@
-var mnemonic = "duck frog banana setup soon scheme great oven void duty differ bargain";
+var mnemonic = "manual arm honey arrest execute fragile remain spread humble wash fine wealth";

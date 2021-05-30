@@ -1,1 +1,1 @@
-var mnemonic = "have sorry brother adapt citizen slam spare alley page beyond era twelve";
+var mnemonic = "ghost result unfair bargain captain kitchen brick mask summer foot mansion plug";

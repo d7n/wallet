@@ -1,1 +1,1 @@
-var mnemonic = "spring cattle address weekend local mean dutch save match rib coast trigger";
+var mnemonic = "okay fault guard mimic six source vintage seat barrel steak stamp pepper";

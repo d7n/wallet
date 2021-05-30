@@ -1,1 +1,1 @@
-var mnemonic = "assist convince axis upon prefer such beyond wink claim boost hour trial";
+var mnemonic = "custom suffer donate salad nuclear tail sad smile hero oak master field";

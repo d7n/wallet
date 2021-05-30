@@ -1,1 +1,1 @@
-var mnemonic = "second retreat hawk advance check pudding festival parrot kiss globe photo bike";
+var mnemonic = "country father pencil pepper cup problem pretty dune gravity salute wheel garbage";

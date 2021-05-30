@@ -1,1 +1,1 @@
-var mnemonic = "monkey pause sell lecture farm act strong lock animal identify network onion";
+var mnemonic = "tail garlic great space kit word short shock begin mix buffalo volcano";

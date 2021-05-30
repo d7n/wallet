@@ -1,1 +1,1 @@
-var mnemonic = "trigger unable differ balcony argue judge unique chuckle rack taste pen pioneer";
+var mnemonic = "grape marble frown average police dragon idea crunch marriage shallow pause patient";

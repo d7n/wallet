@@ -1,1 +1,1 @@
-var mnemonic = "frown return tongue verb style order lake swarm upon abuse ensure census";
+var mnemonic = "muffin funny news bottom victory ahead party globe alley hole cross case";

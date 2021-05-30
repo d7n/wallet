@@ -1,1 +1,1 @@
-var mnemonic = "predict frown spend found virtual submit tonight fluid movie random blade hotel";
+var mnemonic = "tribe syrup maid release party frown ski note veteran nature scorpion color";

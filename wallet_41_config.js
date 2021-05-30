@@ -1,1 +1,1 @@
-var mnemonic = "bring crowd verb gold forum supply crisp mom found over anchor intact";
+var mnemonic = "bacon battle outside bachelor ugly payment chronic author sugar tower maid gym";

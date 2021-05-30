@@ -1,1 +1,1 @@
-var mnemonic = "rail make decide lottery hill issue ski believe decade pen alert color";
+var mnemonic = "balcony orient above ball alley dice hurt fresh drop talent omit swift";

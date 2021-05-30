@@ -1,1 +1,1 @@
-var mnemonic = "cloth lady dice spider obvious tired phrase control crucial ketchup orient pond";
+var mnemonic = "olive argue beyond appear around before confirm syrup net arrow sketch vessel";

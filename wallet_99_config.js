@@ -1,1 +1,1 @@
-var mnemonic = "guard shift orange bread problem engage accuse rent verify immune steak injury";
+var mnemonic = "chaos account figure spend general only recall stick country amused essay much";

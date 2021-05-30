@@ -1,1 +1,1 @@
-var mnemonic = "under flight rival choose wonder waste virtual slight force issue lucky unhappy";
+var mnemonic = "fragile absurd domain other way better fade west buyer column correct video";

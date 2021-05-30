@@ -1,1 +1,1 @@
-var mnemonic = "topic miracle bid metal accident bulk over tilt emerge nut unhappy wasp";
+var mnemonic = "grunt arrange violin drill maple grace click silent enemy deliver original fork";

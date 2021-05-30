@@ -1,1 +1,1 @@
-var mnemonic = "pottery announce praise radio estate shrimp quote yard jelly cry auction blossom";
+var mnemonic = "zebra crisp frame ability badge estate valve average penalty sight wash unusual";

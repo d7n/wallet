@@ -1,1 +1,1 @@
-var mnemonic = "track voyage enrich lazy danger catch eager hockey inflict slogan punch ozone";
+var mnemonic = "volcano banner tattoo daughter suit cube lyrics work genius also history frog";

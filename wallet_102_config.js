@@ -1,1 +1,1 @@
-var mnemonic = "kid miracle toe type nose luggage stable adjust safe gorilla cook bleak";
+var mnemonic = "crime remind session link smile senior gadget apart together check marine mom";

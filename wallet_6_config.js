@@ -1,1 +1,1 @@
-var mnemonic = "ready math join throw retire short steel foam sausage grape toward solve";
+var mnemonic = "question always swamp monster wish come flame feature obvious rice magnet rather";

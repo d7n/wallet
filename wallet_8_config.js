@@ -1,1 +1,1 @@
-var mnemonic = "segment father wolf exhaust tortoise parrot remain argue enemy chaos attack gas";
+var mnemonic = "half innocent blast lounge record deliver bag melt hint control coffee wise";

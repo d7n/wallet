@@ -1,1 +1,1 @@
-var mnemonic = "again annual make art typical trash obtain rapid farm vanish among later";
+var mnemonic = "tiger better black life tree gym auction spy wolf luggage twelve bargain";

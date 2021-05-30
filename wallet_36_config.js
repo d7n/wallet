@@ -1,1 +1,1 @@
-var mnemonic = "shiver pipe caution woman tuna expand equip focus melt explain element renew";
+var mnemonic = "confirm merry arm drip engage above once ticket attend expose soap suit";

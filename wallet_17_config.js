@@ -1,1 +1,1 @@
-var mnemonic = "neither design shrimp ring bless purity relax faculty innocent fine differ flavor";
+var mnemonic = "web purchase casual voice under found melt food detect razor strong jeans";

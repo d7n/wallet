@@ -1,1 +1,1 @@
-var mnemonic = "emerge female travel hamster syrup uncover grief sibling junior country brush fee";
+var mnemonic = "upgrade east degree innocent decrease near escape south occur citizen hat approve";

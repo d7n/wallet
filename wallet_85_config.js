@@ -1,1 +1,1 @@
-var mnemonic = "renew spray company sketch badge electric battle normal brisk learn ramp neither";
+var mnemonic = "loud romance supreme ankle oblige step drop pledge swap mimic behave upgrade";

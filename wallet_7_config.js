@@ -1,1 +1,1 @@
-var mnemonic = "anxiety stand hen typical decide claw fashion split topic render hockey stable";
+var mnemonic = "kidney permit swift choose name surprise immune dawn hard nerve just nation";

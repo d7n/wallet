@@ -1,1 +1,1 @@
-var mnemonic = "fruit diesel lumber arena prevent skin soup little surround call panel twelve";
+var mnemonic = "scene subject beyond fish rough pigeon struggle sausage virtual cabbage tobacco resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "polar remain lunar derive language inflict tattoo perfect narrow turn sport ecology";
+var mnemonic = "summer enter black weird exercise oyster inherit acid whale develop tomorrow range";

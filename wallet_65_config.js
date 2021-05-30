@@ -1,1 +1,1 @@
-var mnemonic = "rally rate sausage refuse famous warfare bridge wheat divert act camera member";
+var mnemonic = "loop laptop jewel mushroom garbage sing attitude cabbage afraid festival forum admit";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain surprise excite wagon employ benefit mad pave east repair pet whip";
+var mnemonic = "right citizen cup ripple draft palace board elite double fence solid remind";

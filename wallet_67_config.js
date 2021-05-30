@@ -1,1 +1,1 @@
-var mnemonic = "lava radio job oppose random turtle office purse moon crush occur wagon";
+var mnemonic = "kid bronze oblige swim sheriff bird either fever retreat company loan marble";

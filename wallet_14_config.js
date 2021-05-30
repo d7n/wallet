@@ -1,1 +1,1 @@
-var mnemonic = "win negative fix hamster water cave bread share produce neutral finger rocket";
+var mnemonic = "obscure sunset ghost wagon whisper delay gesture cigar sense chase zero arm";

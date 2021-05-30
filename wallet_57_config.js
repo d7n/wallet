@@ -1,1 +1,1 @@
-var mnemonic = "cherry female boost clever push device stick panel hold churn twenty rebel";
+var mnemonic = "produce alone move permit crisp veteran move endless goose goddess ozone cross";

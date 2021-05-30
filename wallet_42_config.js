@@ -1,1 +1,1 @@
-var mnemonic = "night cement vacuum abuse one element shine live net discover hundred focus";
+var mnemonic = "traffic deny replace index meadow game copper object maze sauce huge fog";

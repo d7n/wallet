@@ -1,1 +1,1 @@
-var mnemonic = "whip choose visa film dutch treat unveil ordinary cable gallery betray suit";
+var mnemonic = "echo sauce elder illness arctic appear path item they analyst employ canyon";

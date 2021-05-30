@@ -1,1 +1,1 @@
-var mnemonic = "away hazard insect pluck try craft tooth bike proof permit chronic enjoy";
+var mnemonic = "raccoon sick that vehicle fantasy only nominee talk spray affair entry equal";

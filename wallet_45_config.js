@@ -1,1 +1,1 @@
-var mnemonic = "milk fun mail section explain rack viable mix mad umbrella guitar noble";
+var mnemonic = "ritual uncover movie scorpion balcony maple boat erosion fury alter filter saddle";

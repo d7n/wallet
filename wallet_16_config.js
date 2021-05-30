@@ -1,1 +1,1 @@
-var mnemonic = "acquire vicious cave artwork normal elevator short topple brick female six absent";
+var mnemonic = "novel course fossil country mimic property fall anger cement hungry regret thought";

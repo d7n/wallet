@@ -1,1 +1,1 @@
-var mnemonic = "fly minor until donor valve oval cliff prepare frequent rural orchard foil";
+var mnemonic = "oak super gold develop habit indicate upper basket gas reason grab emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "hole regular medal spoon dance diamond admit person acid winner promote river";
+var mnemonic = "ghost lend great replace happy upper report silly develop few interest retreat";

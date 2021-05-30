@@ -1,1 +1,1 @@
-var mnemonic = "same vicious carry joke argue jazz rally soon ankle charge airport bridge";
+var mnemonic = "canvas lounge uphold clerk gesture strike relief unfair vault good switch enlist";

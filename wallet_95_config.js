@@ -1,1 +1,1 @@
-var mnemonic = "later often doctor enable ripple traffic soap monkey flat upper one buffalo";
+var mnemonic = "veteran budget whip prison protect mass primary angry magnet depth sauce economy";

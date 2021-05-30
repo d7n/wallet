@@ -1,1 +1,1 @@
-var mnemonic = "clutch trap body leave leaf office cloud guess hurry fancy obscure father";
+var mnemonic = "ribbon then fantasy blossom torch unfold brisk elevator text drip ugly blood";

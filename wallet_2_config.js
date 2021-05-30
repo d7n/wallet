@@ -1,1 +1,1 @@
-var mnemonic = "job rare utility expand total year worth where stereo pair run wage";
+var mnemonic = "appear dry follow core reward remain flee glimpse permit valve one lonely";

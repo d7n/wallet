@@ -1,1 +1,1 @@
-var mnemonic = "earn casino empower surface business divide burden recipe dinner trouble present rally";
+var mnemonic = "holiday silly page replace party off choice shoe document medal caution divert";

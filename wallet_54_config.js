@@ -1,1 +1,1 @@
-var mnemonic = "museum core cabbage become alley mask jar wear ivory bracket poverty issue";
+var mnemonic = "minimum surface type about bless park sort relief logic galaxy wheel actress";

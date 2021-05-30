@@ -1,1 +1,1 @@
-var mnemonic = "marriage treat example awesome route celery embark donkey chef people minute code";
+var mnemonic = "news sunny spring task intact reflect pottery oven cliff strategy tell breeze";

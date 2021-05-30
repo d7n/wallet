@@ -1,1 +1,1 @@
-var mnemonic = "ability summer boost surge hill neck agent enter taxi door advance immune";
+var mnemonic = "hollow elder person time wide income daughter turn swift excess bunker burst";

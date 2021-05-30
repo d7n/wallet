@@ -1,1 +1,1 @@
-var mnemonic = "giant social nation like limb square segment three member receive path chief";
+var mnemonic = "casino they hockey armed mixture spread absorb update omit arrest health rice";
