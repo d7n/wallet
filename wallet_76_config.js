@@ -1,1 +1,1 @@
-var mnemonic = "crucial hard audit boring voyage hobby trouble panel panic aspect average digital";
+var mnemonic = "chalk eight vacuum tree cook grunt sheriff cricket stool fire glass copper";

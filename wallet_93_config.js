@@ -1,1 +1,1 @@
-var mnemonic = "uniform bone lunch egg caution gift major knock illness kite maple clever";
+var mnemonic = "basket raccoon donor assault scrub hybrid canoe reject february direct clerk verb";

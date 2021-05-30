@@ -1,1 +1,1 @@
-var mnemonic = "unhappy summer horse romance rent plug squirrel foil outer trust uniform oyster";
+var mnemonic = "jaguar auto oblige bread size own avoid absorb whisper always cherry stereo";

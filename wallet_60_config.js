@@ -1,1 +1,1 @@
-var mnemonic = "ecology denial gorilla balcony settle afraid palm marine silver lamp distance indicate";
+var mnemonic = "ability muscle rigid leader quantum depth tape crunch when diary animal twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "patient crouch impact poem ugly room flush debris copper normal topple harvest";
+var mnemonic = "museum twice lonely afraid fun flavor author panther property unhappy viable punch";

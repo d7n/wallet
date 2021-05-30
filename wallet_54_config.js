@@ -1,1 +1,1 @@
-var mnemonic = "refuse tattoo offer viable success vast theory vicious bonus tiger arena art";
+var mnemonic = "acoustic tag barrel excite game dismiss trust grow trumpet coil plunge expect";

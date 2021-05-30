@@ -1,1 +1,1 @@
-var mnemonic = "story will target play law inmate palace voyage math aunt broccoli wall";
+var mnemonic = "rhythm staff travel embrace ticket bullet sock voice unveil design coach uncle";

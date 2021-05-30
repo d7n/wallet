@@ -1,1 +1,1 @@
-var mnemonic = "damage horn enroll illness option radio inspire praise manage acoustic access random";
+var mnemonic = "chalk pudding matter today awkward frown yard grit master cat amazing modify";

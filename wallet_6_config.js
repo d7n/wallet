@@ -1,1 +1,1 @@
-var mnemonic = "balcony wrist collect income title family head vanish voice frown budget carry";
+var mnemonic = "axis blouse volcano suggest rookie tackle surprise day owner that report scissors";

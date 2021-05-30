@@ -1,1 +1,1 @@
-var mnemonic = "voyage proof stairs mountain monkey power slim seat tower prosper library brain";
+var mnemonic = "annual basket bonus kitten box seed lens ordinary beach ask shell custom";

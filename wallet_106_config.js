@@ -1,1 +1,1 @@
-var mnemonic = "submit fruit drink accident celery artwork draw stool sand cave extra need";
+var mnemonic = "coin pelican critic wheel boy skill stuff since caution arrest apple alert";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster isolate coast history into nose swarm where coin hope cart cause";
+var mnemonic = "journey mask cinnamon evolve leg scheme confirm solid feed animal brass earth";

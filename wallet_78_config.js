@@ -1,1 +1,1 @@
-var mnemonic = "modify scan enact boat salt action chef squeeze setup behind erupt mention";
+var mnemonic = "child dragon anchor calm ramp shock reopen office tiger about cable vacuum";

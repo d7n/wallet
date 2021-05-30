@@ -1,1 +1,1 @@
-var mnemonic = "mixture garden slogan feed shop accident sketch quit crush select enlist cube";
+var mnemonic = "sell tunnel mass valve pride grape pair jewel brick dish color fork";

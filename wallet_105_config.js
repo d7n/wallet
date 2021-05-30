@@ -1,1 +1,1 @@
-var mnemonic = "donkey army furnace planet rural near exile napkin tell cattle scatter finger";
+var mnemonic = "spend soccer vital label under track finger crawl furnace hip kit head";

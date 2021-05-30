@@ -1,1 +1,1 @@
-var mnemonic = "gain twin enemy layer cash expose clump clinic soup ahead you slight";
+var mnemonic = "sea ramp ramp pole six sick between toe case glad era gym";

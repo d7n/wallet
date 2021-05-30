@@ -1,1 +1,1 @@
-var mnemonic = "argue alien unaware circle degree vivid defense limb aisle clay firm smooth";
+var mnemonic = "cable floor shoe salute write punch attend abandon illness imitate multiply little";

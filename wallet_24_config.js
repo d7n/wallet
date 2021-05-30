@@ -1,1 +1,1 @@
-var mnemonic = "bracket author crucial morning human vast leisure midnight chalk tunnel radar story";
+var mnemonic = "spike thing bar siren screen hint twin damage stereo impose cattle kit";

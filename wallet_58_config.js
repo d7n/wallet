@@ -1,1 +1,1 @@
-var mnemonic = "exotic number erase admit element twelve miracle almost reunion ordinary recycle erase";
+var mnemonic = "text grief arrive tomato exotic smoke stamp below shiver lonely cupboard fiscal";

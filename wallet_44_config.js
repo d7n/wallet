@@ -1,1 +1,1 @@
-var mnemonic = "tell salt agree autumn slow mercy faith dial brown exotic chaos eternal";
+var mnemonic = "survey glimpse minimum urge guard weather grocery piece raise cactus dose debate";

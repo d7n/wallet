@@ -1,1 +1,1 @@
-var mnemonic = "length crush luxury hurt such volume air ship heart sentence battle love";
+var mnemonic = "popular tissue empty potato embrace hunt illegal rent immense vacuum divide north";

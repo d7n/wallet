@@ -1,1 +1,1 @@
-var mnemonic = "plate mandate accident slender busy avoid twenty announce citizen elbow rival other";
+var mnemonic = "warfare pink program glue cancel poet lyrics advance absurd horn suspect sign";

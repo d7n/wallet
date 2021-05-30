@@ -1,1 +1,1 @@
-var mnemonic = "deputy then ocean vault dilemma evidence rug drift album process wedding credit";
+var mnemonic = "captain virtual type throw dismiss physical law dash wealth entry burst tube";

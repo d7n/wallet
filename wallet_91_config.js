@@ -1,1 +1,1 @@
-var mnemonic = "daughter dose viable public resemble juice label obey tourist rich bitter ozone";
+var mnemonic = "teach deputy unaware apart price media lady enemy spice reopen purchase retire";

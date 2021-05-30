@@ -1,1 +1,1 @@
-var mnemonic = "soft earth twenty ring enhance tuna ordinary vocal stand cup income limit";
+var mnemonic = "type wrestle large pave mansion siren double blush left unveil rigid width";

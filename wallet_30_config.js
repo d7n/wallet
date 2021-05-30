@@ -1,1 +1,1 @@
-var mnemonic = "cancel fatal expire custom aerobic sea hungry mechanic eye nephew flash buyer";
+var mnemonic = "barely bounce flash inner foot throw dune wear build resource kidney zero";

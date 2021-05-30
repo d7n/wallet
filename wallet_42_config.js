@@ -1,1 +1,1 @@
-var mnemonic = "welcome false size scrap tip slight cupboard timber violin okay flight medal";
+var mnemonic = "devote invite evil crucial remind churn squeeze fog lumber employ eagle force";

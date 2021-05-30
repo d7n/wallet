@@ -1,1 +1,1 @@
-var mnemonic = "vague net universe someone joy dumb below cheap once worry symbol virus";
+var mnemonic = "city region fringe history bacon inmate odor salon shine wine network air";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs float awkward innocent random certain borrow cook roof crowd rapid student";
+var mnemonic = "problem prison hub jealous silent bunker method auction destroy rotate rule nuclear";

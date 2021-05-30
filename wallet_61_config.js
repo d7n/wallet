@@ -1,1 +1,1 @@
-var mnemonic = "sort myth veteran reflect indicate flip inhale lobster man advice resource crucial";
+var mnemonic = "couple cotton wing expose charge feel dawn carbon topple sad anger slow";

@@ -1,1 +1,1 @@
-var mnemonic = "maple rude answer glue cheap empty clarify title cradle volcano real amused";
+var mnemonic = "case flower spell pill predict arena clutch cost shuffle valid come impulse";

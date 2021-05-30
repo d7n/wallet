@@ -1,1 +1,1 @@
-var mnemonic = "sniff stick burst spawn grocery finish render wish forget toss mechanic glass";
+var mnemonic = "box young cricket mansion grain fatigue approve choice february gentle cruise crew";

@@ -1,1 +1,1 @@
-var mnemonic = "stone twin cruise curious bind tide arrive whale arm cargo arrow brief";
+var mnemonic = "sad prepare potato siege play dynamic open social differ tip acid jungle";

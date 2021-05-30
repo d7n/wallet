@@ -1,1 +1,1 @@
-var mnemonic = "dizzy close join pill switch chest warrior program about voyage nasty spirit";
+var mnemonic = "wasp define crazy much hurry vendor celery verify song dawn elegant believe";

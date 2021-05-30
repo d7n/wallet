@@ -1,1 +1,1 @@
-var mnemonic = "doctor alert sponsor load stand avocado ignore primary milk cluster project deliver";
+var mnemonic = "brand wreck ordinary exit bracket night inject float north disorder flock claw";

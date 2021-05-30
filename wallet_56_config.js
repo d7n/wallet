@@ -1,1 +1,1 @@
-var mnemonic = "boss identify conduct edit mountain marine detect wasp evil bus detect scorpion";
+var mnemonic = "glide category squirrel drink session tag require during castle chase diary source";

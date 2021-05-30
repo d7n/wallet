@@ -1,1 +1,1 @@
-var mnemonic = "happy kid rebel suffer risk usage advice luxury tennis sport ability tuna";
+var mnemonic = "wedding height spoil mosquito chapter similar recycle evidence essay confirm cargo update";

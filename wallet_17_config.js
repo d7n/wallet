@@ -1,1 +1,1 @@
-var mnemonic = "settle steak image soldier case provide share belt orbit method beach various";
+var mnemonic = "jump demand exercise fancy review romance hope board odor spare bachelor cycle";

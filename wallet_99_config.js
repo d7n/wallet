@@ -1,1 +1,1 @@
-var mnemonic = "axis fruit toilet appear pretty knife alone cinnamon sniff clever client grain";
+var mnemonic = "digital useful faint notice suffer rude wedding pledge shadow cross maid liar";

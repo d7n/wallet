@@ -1,1 +1,1 @@
-var mnemonic = "chase damp surround muffin rib fog bomb thing torch spot fence wet";
+var mnemonic = "basket knife skill drift baby fringe album squeeze ball define moment cloud";

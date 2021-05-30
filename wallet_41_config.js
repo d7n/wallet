@@ -1,1 +1,1 @@
-var mnemonic = "struggle muscle cycle confirm slab east volcano sense dinosaur marble banana inch";
+var mnemonic = "good near spin panel tortoise pyramid toilet addict goddess supply minimum cram";

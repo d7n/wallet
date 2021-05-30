@@ -1,1 +1,1 @@
-var mnemonic = "venture license return symbol morning slice tornado north what swallow beach muscle";
+var mnemonic = "seed enter property seed check office science cousin coin thunder evil pudding";

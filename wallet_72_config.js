@@ -1,1 +1,1 @@
-var mnemonic = "course feed venture open spare benefit repair monitor cloth clerk viable case";
+var mnemonic = "ten unfair repeat pottery earn dad vital bright night curious doctor tree";

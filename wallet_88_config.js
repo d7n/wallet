@@ -1,1 +1,1 @@
-var mnemonic = "ostrich violin entire clay roast detail much warfare flame maze whisper detect";
+var mnemonic = "uphold elder prize home face hint catch possible satoshi credit item arrive";

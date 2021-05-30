@@ -1,1 +1,1 @@
-var mnemonic = "suspect deny despair alpha vivid child family spike shrimp gather alcohol roast";
+var mnemonic = "clog law govern soon repeat claw dismiss verify bright brass unaware zoo";

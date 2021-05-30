@@ -1,1 +1,1 @@
-var mnemonic = "chat zebra poem cool transfer little frown ball soon broken decrease either";
+var mnemonic = "ocean oppose early kind shrug eye crop salmon verify steel receive aunt";

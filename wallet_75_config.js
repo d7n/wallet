@@ -1,1 +1,1 @@
-var mnemonic = "smooth involve scissors into host express trick gossip dinner vague inherit grid";
+var mnemonic = "risk ticket saddle march floor exhibit mountain pizza loud hurry two announce";

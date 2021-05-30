@@ -1,1 +1,1 @@
-var mnemonic = "pattern pizza entry upon supreme submit climb bacon delay equip session poet";
+var mnemonic = "must benefit happy false visual shaft impact tortoise bracket invite road occur";

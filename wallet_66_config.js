@@ -1,1 +1,1 @@
-var mnemonic = "short rent lucky include guilt twin rent license rotate nurse mosquito sign";
+var mnemonic = "ecology mask throw hair denial pet engage sunset scrap giraffe push exhibit";

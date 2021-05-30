@@ -1,1 +1,1 @@
-var mnemonic = "ripple rebel fork parent glue bright submit damage absent nothing comic vast";
+var mnemonic = "aspect evoke manual book possible witness cruel toss thrive certain margin system";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware leave parent muffin since sunny powder vocal bird employ amount mad";
+var mnemonic = "satoshi grid muffin sort drama shadow aim wine powder split inner flat";

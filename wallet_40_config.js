@@ -1,1 +1,1 @@
-var mnemonic = "curve scare wire thing elephant country amused economy nest sausage embark ethics";
+var mnemonic = "wife inherit monitor shrug eternal morning dawn twin wine toward wink orient";

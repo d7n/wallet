@@ -1,1 +1,1 @@
-var mnemonic = "stone noise okay glide ship drama junk maid gasp shock educate turtle";
+var mnemonic = "indoor improve return dynamic rifle window junior ice mask crowd essay agree";

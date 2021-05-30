@@ -1,1 +1,1 @@
-var mnemonic = "decide aware balcony dynamic idle enroll idle jazz mansion youth ritual abuse";
+var mnemonic = "suffer lottery pigeon wink lecture blur rookie auto muscle salute fine early";

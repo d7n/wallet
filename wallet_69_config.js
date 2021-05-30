@@ -1,1 +1,1 @@
-var mnemonic = "pencil country solid body all own option quarter stem tiny trim embody";
+var mnemonic = "assume sword crime effort awake novel silver produce market slide start bike";

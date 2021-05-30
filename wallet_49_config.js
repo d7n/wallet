@@ -1,1 +1,1 @@
-var mnemonic = "index garlic love budget copper when pulse sure blast credit jealous blush";
+var mnemonic = "dove manage speed next clutch proud inject royal wasp exhibit fire soap";

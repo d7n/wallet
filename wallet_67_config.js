@@ -1,1 +1,1 @@
-var mnemonic = "couple zone broccoli eight inflict domain allow solar method school seminar violin";
+var mnemonic = "theme topic level prison earth alert verb demand junk quick enrich glimpse";

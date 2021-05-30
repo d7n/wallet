@@ -1,1 +1,1 @@
-var mnemonic = "opinion peace square want all charge dizzy manual jealous defy guess sweet";
+var mnemonic = "skirt analyst valid dinner length cousin end squirrel shallow axis reduce focus";

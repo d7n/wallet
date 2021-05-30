@@ -1,1 +1,1 @@
-var mnemonic = "turn refuse apart squirrel glue image fever faint young suspect insane they";
+var mnemonic = "strike marriage arrow silk surprise matrix corn treat injury large immune pen";

@@ -1,1 +1,1 @@
-var mnemonic = "only exist wash expect program idea lock course door boy foil pool";
+var mnemonic = "sustain dad sunset brisk tattoo mail dirt core stand answer critic trust";

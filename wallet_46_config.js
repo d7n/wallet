@@ -1,1 +1,1 @@
-var mnemonic = "seven average bridge grab public power ensure medal fold shove hurry long";
+var mnemonic = "decorate tuna chalk gain lava barely surge feature music street tower shoot";

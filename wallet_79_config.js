@@ -1,1 +1,1 @@
-var mnemonic = "coral public solve document vehicle canal dismiss battle fashion immense miss disease";
+var mnemonic = "general fortune client poverty subway ecology doll crawl wreck patch merit promote";

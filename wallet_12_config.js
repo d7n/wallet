@@ -1,1 +1,1 @@
-var mnemonic = "talent aisle quiz monitor where benefit remember picnic chaos escape work patrol";
+var mnemonic = "opera throw chimney adjust urban rule solid ten noble clerk love engine";

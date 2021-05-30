@@ -1,1 +1,1 @@
-var mnemonic = "picnic risk occur bulk exile sad truly possible tongue dilemma universe pilot";
+var mnemonic = "unable flock real before humor wage sunset oppose balance apple excite member";

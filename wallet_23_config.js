@@ -1,1 +1,1 @@
-var mnemonic = "skin roast grit planet veteran tumble family dove segment artefact jaguar chief";
+var mnemonic = "debate differ royal rescue comic current other swallow frog tank another final";

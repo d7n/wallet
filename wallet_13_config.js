@@ -1,1 +1,1 @@
-var mnemonic = "seat flash cinnamon push artist razor race leg during alter hotel pony";
+var mnemonic = "banana dirt afford pudding fox bachelor tornado bunker certain force domain resource";

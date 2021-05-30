@@ -1,1 +1,1 @@
-var mnemonic = "nose brush burst ladder trial canvas morning tumble vivid panda wife mimic";
+var mnemonic = "inherit east despair caught remind item quiz alley strategy cigar jungle fitness";

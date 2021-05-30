@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ordinary enact amazing submit key kidney proud tennis local orchard adult";
+var mnemonic = "announce cat symbol wire sniff reveal mad unique idea sister junk post";

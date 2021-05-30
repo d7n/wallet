@@ -1,1 +1,1 @@
-var mnemonic = "document wing awesome powder neutral believe give day phone pilot illness unit";
+var mnemonic = "inject penalty park wire puzzle gallery toss fat mammal deputy luxury brand";

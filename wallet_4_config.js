@@ -1,1 +1,1 @@
-var mnemonic = "diagram river burst hip stem split job obtain act venture train artwork";
+var mnemonic = "gain legal below sugar enhance course deliver laugh digital oblige viable universe";

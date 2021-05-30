@@ -1,1 +1,1 @@
-var mnemonic = "ivory capable friend draft drip prosper brass chest poverty fix vintage make";
+var mnemonic = "apple indoor wheel fluid book uncle squeeze give mom maple glare cluster";

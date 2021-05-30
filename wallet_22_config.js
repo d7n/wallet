@@ -1,1 +1,1 @@
-var mnemonic = "diet badge bicycle valley page bleak outside occur quarter cup shadow time";
+var mnemonic = "island drill absorb unusual wet decade notable gather athlete verb mask rigid";

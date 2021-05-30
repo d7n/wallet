@@ -1,1 +1,1 @@
-var mnemonic = "human else slot wheel misery split juice surround dumb gallery urge wood";
+var mnemonic = "human parent rocket leader identify dynamic novel remain treat film rookie winner";

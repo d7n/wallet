@@ -1,1 +1,1 @@
-var mnemonic = "rapid improve tissue inject exit absurd mango step replace truck affair dove";
+var mnemonic = "upon garden analyst piano rookie ripple version adjust foster suffer program total";

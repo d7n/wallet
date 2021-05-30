@@ -1,1 +1,1 @@
-var mnemonic = "gift acid exhibit hungry warfare crime judge borrow pupil polar suggest frog";
+var mnemonic = "food capable pattern volume evolve laptop flag jazz fog hint crunch piano";

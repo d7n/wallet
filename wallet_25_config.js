@@ -1,1 +1,1 @@
-var mnemonic = "dial will key cry rigid metal planet height possible jump cry song";
+var mnemonic = "power subject bullet prosper enact practice spell polar pistol hedgehog boost tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "stone lottery boss now mistake festival vocal social solar venue spatial hungry";
+var mnemonic = "idle addict unfair violin embrace lecture unable dish praise unfold stamp tip";

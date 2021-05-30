@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon mean select onion pizza twenty tobacco inside time nothing appear method";
+var mnemonic = "account reduce prefer mosquito liberty rubber wild dry virus liquid choose coach";

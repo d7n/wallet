@@ -1,1 +1,1 @@
-var mnemonic = "obey debate fruit stadium want dilemma polar claim engine hospital quantum swarm";
+var mnemonic = "same grow stay ribbon enrich that hotel lava typical inform neutral habit";

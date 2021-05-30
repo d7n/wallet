@@ -1,1 +1,1 @@
-var mnemonic = "shove upgrade raven solar employ canyon carry seven snack maid broom check";
+var mnemonic = "dawn pass salute live direct reason build settle captain raise enemy resource";

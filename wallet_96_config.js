@@ -1,1 +1,1 @@
-var mnemonic = "typical endorse ring dry avocado gift stage robot step toss proud own";
+var mnemonic = "fancy mutual option expire senior stove multiply under spike suspect wrist giraffe";

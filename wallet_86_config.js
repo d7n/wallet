@@ -1,1 +1,1 @@
-var mnemonic = "wide rural bridge little galaxy text cruise fox city depth oblige behind";
+var mnemonic = "mixture metal afford into forum uncover imitate decide pistol runway flame barely";

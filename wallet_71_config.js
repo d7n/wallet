@@ -1,1 +1,1 @@
-var mnemonic = "correct scorpion net elegant narrow session goddess very any finger awful rebuild";
+var mnemonic = "lunch dutch shove blur pet medal clarify visa junior viable frown toast";

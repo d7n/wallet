@@ -1,1 +1,1 @@
-var mnemonic = "media usual spin slender like dinosaur bunker grass advance ketchup select sort";
+var mnemonic = "tomato bitter twin slow cost transfer solar spike close often parent state";

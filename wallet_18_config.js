@@ -1,1 +1,1 @@
-var mnemonic = "noise aware fashion neck urban festival casual allow forum humble match novel";
+var mnemonic = "attitude idle twelve carry shy embark clip service bread slender invest hurt";

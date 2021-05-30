@@ -1,1 +1,1 @@
-var mnemonic = "mail crunch lobster wink sudden donate parrot win fiscal basic weather predict";
+var mnemonic = "satoshi museum friend glove bullet tomorrow repeat door crime arrive lumber judge";

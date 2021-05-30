@@ -1,1 +1,1 @@
-var mnemonic = "embrace ugly shield spoon fun squeeze custom surface doctor judge upgrade buddy";
+var mnemonic = "noble melody they dragon kingdom muffin tattoo ticket depth write gold legend";

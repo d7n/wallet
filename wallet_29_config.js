@@ -1,1 +1,1 @@
-var mnemonic = "culture bone frequent cruise surge submit account thank venture clinic sword soccer";
+var mnemonic = "vital chest setup mom adapt trial time split essence then artwork toy";
