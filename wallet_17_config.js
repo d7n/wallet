@@ -1,1 +1,1 @@
-var mnemonic = "island goddess nominee senior chief anchor immense upper enhance light unlock siege";
+var mnemonic = "route cloud sauce post jump course apart audit else struggle coin mutual";

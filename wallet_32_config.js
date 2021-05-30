@@ -1,1 +1,1 @@
-var mnemonic = "reject blossom identify crawl forum suggest agent save wrestle dizzy hamster slab";
+var mnemonic = "clever balcony hockey under pass giant panda gift cradle need glare unaware";

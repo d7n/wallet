@@ -1,1 +1,1 @@
-var mnemonic = "relax useful fitness lake group gift fold flag boy print field scan";
+var mnemonic = "chat sunny anger comfort piece nominee expect grocery fiction tobacco enough pig";

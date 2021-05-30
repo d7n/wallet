@@ -1,1 +1,1 @@
-var mnemonic = "tribe disease loan artefact ball supply solve reflect dose split theory dolphin";
+var mnemonic = "parent allow syrup next gloom twin deny wrestle final bus accident believe";

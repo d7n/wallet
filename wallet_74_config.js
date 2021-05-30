@@ -1,1 +1,1 @@
-var mnemonic = "frown pipe cause inherit coffee lend miss wheel dial divert lesson trade";
+var mnemonic = "pitch recycle butter exchange snap sure head coil wheat moment priority desk";

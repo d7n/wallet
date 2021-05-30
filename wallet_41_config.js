@@ -1,1 +1,1 @@
-var mnemonic = "reopen drive ship smooth enhance leader second capable brisk essence token defense";
+var mnemonic = "final page island forward aisle valley equip praise infant fee relief toss";

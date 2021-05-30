@@ -1,1 +1,1 @@
-var mnemonic = "excite tank hunt observe civil profit want way more lens pizza boring";
+var mnemonic = "silly expose execute vehicle volcano sample brave immune critic unusual empower beef";

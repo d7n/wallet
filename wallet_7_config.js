@@ -1,1 +1,1 @@
-var mnemonic = "blood lend desert violin inch lounge scatter dumb indoor album ripple position";
+var mnemonic = "volume mixed ridge vote book skirt extra gas armed wide gorilla hobby";

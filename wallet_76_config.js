@@ -1,1 +1,1 @@
-var mnemonic = "mention cradle lava shell toddler choice casual marble ice degree cat flock";
+var mnemonic = "jealous office bike place approve subway double gospel south ramp already rather";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter dune stove endorse flat album knock profit muffin bulb pumpkin business";
+var mnemonic = "amused dinosaur valley toe play radio patient view clutch diamond stage camp";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt happy kiwi perfect leisure trigger hour abandon soda butter caution arrive";
+var mnemonic = "movie airport empty early hover imitate blouse prevent rich quality sketch grit";

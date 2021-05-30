@@ -1,1 +1,1 @@
-var mnemonic = "beyond cream wine intact garden orbit robust float giggle slam remember valley";
+var mnemonic = "code drink shrimp diary cage nut party memory west craft give keep";

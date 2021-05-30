@@ -1,1 +1,1 @@
-var mnemonic = "cradle island kitchen budget refuse mixed dynamic gesture high fresh fetch guess";
+var mnemonic = "multiply expire perfect ugly blame happy defy banana shallow state young soul";

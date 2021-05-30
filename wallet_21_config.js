@@ -1,1 +1,1 @@
-var mnemonic = "people order turtle mad run property onion pudding patch category cash rocket";
+var mnemonic = "spike sustain replace runway pulse orient sample moon bind few balance evolve";

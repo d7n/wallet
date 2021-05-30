@@ -1,1 +1,1 @@
-var mnemonic = "mother inquiry lens token fashion hunt denial rent diet want solid net";
+var mnemonic = "just first disagree coin fluid end injury start denial limb monster display";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano company pledge minute trigger scrub inside you decorate question brisk false";
+var mnemonic = "now isolate void will struggle curve energy snake park cook pilot hood";

@@ -1,1 +1,1 @@
-var mnemonic = "large system because coyote pepper welcome run enact load cotton drip range";
+var mnemonic = "advice wrist box balcony convince one letter ginger illegal roast blame bind";

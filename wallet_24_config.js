@@ -1,1 +1,1 @@
-var mnemonic = "spare very gather still damage birth lazy history garden senior then flee";
+var mnemonic = "half unknown point mirror glad crash panic invite donate rival bench author";

@@ -1,1 +1,1 @@
-var mnemonic = "area ramp snake since issue egg rug very destroy uphold envelope blur";
+var mnemonic = "jacket tuition wagon tunnel wink sorry vast orange razor sustain pink repeat";

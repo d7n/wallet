@@ -1,1 +1,1 @@
-var mnemonic = "weasel shiver elbow oxygen vapor bridge similar board swamp clinic nut pull";
+var mnemonic = "sail true coral pudding donkey melt morning emotion lemon wreck absurd impact";

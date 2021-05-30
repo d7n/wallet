@@ -1,1 +1,1 @@
-var mnemonic = "south bulb buyer hope slice maple tape scrap winter lyrics love shield";
+var mnemonic = "theory worth unlock truck curious concert patch start wall brave arrive carbon";

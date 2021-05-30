@@ -1,1 +1,1 @@
-var mnemonic = "wagon siren spy tribe bag result loan hollow naive response loyal tribe";
+var mnemonic = "flash phrase certain enlist monitor dust purchase deny improve edge recall poem";

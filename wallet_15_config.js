@@ -1,1 +1,1 @@
-var mnemonic = "innocent tip nature panda globe argue case thing erupt year idea gap";
+var mnemonic = "cherry gate input spike satoshi also stone gentle front toast state spread";

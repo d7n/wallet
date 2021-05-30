@@ -1,1 +1,1 @@
-var mnemonic = "file gesture icon pluck gas saddle umbrella initial bronze income hollow kit";
+var mnemonic = "shell valley unhappy discover resemble day jar cup digital roast merit model";

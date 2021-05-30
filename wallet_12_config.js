@@ -1,1 +1,1 @@
-var mnemonic = "gain dose subject fetch mammal clip brick erosion antique elite bulk dynamic";
+var mnemonic = "venue erosion shoulder kidney rug bunker skull spell stuff access tube infant";

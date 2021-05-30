@@ -1,1 +1,1 @@
-var mnemonic = "coast nerve fix manual high rose lunch silent isolate reopen dawn dinner";
+var mnemonic = "royal trouble detail apology lava attitude purchase gorilla glove flee domain radar";

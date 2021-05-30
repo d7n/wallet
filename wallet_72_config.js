@@ -1,1 +1,1 @@
-var mnemonic = "edge congress miracle wolf animal nation all category dance upset display random";
+var mnemonic = "elite member design reveal divorce tonight what render addict pistol sample sting";

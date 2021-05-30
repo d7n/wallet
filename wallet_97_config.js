@@ -1,1 +1,1 @@
-var mnemonic = "train student turkey wreck friend river trust frequent always inch scare panther";
+var mnemonic = "issue lake fault spell push teach mule disagree neither select era remind";

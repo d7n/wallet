@@ -1,1 +1,1 @@
-var mnemonic = "motor salon return job quantum tiny century metal title oyster long twice";
+var mnemonic = "demise health soup census play demise stool write panther deal shell dismiss";

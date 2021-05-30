@@ -1,1 +1,1 @@
-var mnemonic = "depart lucky chicken anxiety stomach flat pony color private flash canal slice";
+var mnemonic = "ghost cream country cannon victory matrix sword badge speed wise cement device";

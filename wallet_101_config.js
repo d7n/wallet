@@ -1,1 +1,1 @@
-var mnemonic = "genre hard equip photo tattoo when clever useless hurry forum pelican trade";
+var mnemonic = "mesh tragic tenant youth flight off useless random pitch return detail police";

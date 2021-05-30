@@ -1,1 +1,1 @@
-var mnemonic = "matrix behind tornado legend matrix witness question senior siren about protect damp";
+var mnemonic = "fish oval insect comfort bullet early situate inherit forum board hundred spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "train process tackle super sauce arrive lady neck blue cabin perfect code";
+var mnemonic = "appear slight real shrimp possible raise evil prison engine ranch awkward tongue";

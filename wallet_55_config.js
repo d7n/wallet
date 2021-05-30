@@ -1,1 +1,1 @@
-var mnemonic = "hip library rent pass town mouse refuse syrup undo ten draw shaft";
+var mnemonic = "festival differ clown pulp magnet damage indoor sister excite fruit artwork dice";

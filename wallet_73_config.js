@@ -1,1 +1,1 @@
-var mnemonic = "drive buffalo hover army drop eternal forward truth shove coffee disorder shop";
+var mnemonic = "unusual rifle arena system antenna enable hamster woman tone safe asthma ignore";

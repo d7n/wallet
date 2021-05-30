@@ -1,1 +1,1 @@
-var mnemonic = "speak panther rent enforce grit swift visual burger firm industry draw upper";
+var mnemonic = "series inflict person flush salmon history flower leopard oval glare check game";

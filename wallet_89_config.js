@@ -1,1 +1,1 @@
-var mnemonic = "multiply betray clerk sleep mouse letter learn divorce chicken picture pelican wagon";
+var mnemonic = "supply kiss when ready pumpkin list cushion abandon endless miracle lawsuit reveal";

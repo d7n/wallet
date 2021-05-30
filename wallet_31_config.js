@@ -1,1 +1,1 @@
-var mnemonic = "improve lonely ahead tent cable twenty nice coast traffic weapon pond face";
+var mnemonic = "wheat eagle mouse measure sustain common boss crisp need tag mother enemy";

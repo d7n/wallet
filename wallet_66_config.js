@@ -1,1 +1,1 @@
-var mnemonic = "chief boring empower sock awake face lizard across demand faculty mask oak";
+var mnemonic = "vendor chair hybrid mirror verb unable lock delay fancy fan author toddler";

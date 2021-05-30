@@ -1,1 +1,1 @@
-var mnemonic = "dignity bounce clerk island nice fly real maid find toss report response";
+var mnemonic = "result detect fee toward version feature reason vault extra mouse library slow";

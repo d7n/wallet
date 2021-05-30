@@ -1,1 +1,1 @@
-var mnemonic = "mistake mad vivid cherry kiwi anger camera brand retreat oblige joy ignore";
+var mnemonic = "wealth frequent depart special goose corn hat pigeon pretty neck envelope gun";

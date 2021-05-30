@@ -1,1 +1,1 @@
-var mnemonic = "smile below proof fade spider churn issue around there project equal sea";
+var mnemonic = "liberty hero police outdoor suit topple weather spike fun claw monster pulp";

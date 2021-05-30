@@ -1,1 +1,1 @@
-var mnemonic = "sibling fish limb extra stay garden version apple mystery harbor deposit usage";
+var mnemonic = "column brief innocent apology exist whisper brisk promote immense menu cabbage barely";

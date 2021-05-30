@@ -1,1 +1,1 @@
-var mnemonic = "spatial orange axis useless palace hint core zoo woman cart trigger peasant";
+var mnemonic = "exit notable viable step normal lecture stool install below bunker waste tattoo";

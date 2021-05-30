@@ -1,1 +1,1 @@
-var mnemonic = "morning inject foster museum sentence casino inspire silent chef twelve woman scene";
+var mnemonic = "hidden album toss example sadness fan awful glide crucial memory month essence";

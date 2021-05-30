@@ -1,1 +1,1 @@
-var mnemonic = "hope attend barely below stick spare heart twelve blue cry thrive hybrid";
+var mnemonic = "tonight pluck quick where exchange royal payment glory quote dolphin shoe castle";

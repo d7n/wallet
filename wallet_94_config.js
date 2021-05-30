@@ -1,1 +1,1 @@
-var mnemonic = "demand believe canoe void radio extend juice radio notable option wire sweet";
+var mnemonic = "mask fiction useless sausage raise turtle point hockey awkward define retreat pledge";

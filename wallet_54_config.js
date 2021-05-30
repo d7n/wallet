@@ -1,1 +1,1 @@
-var mnemonic = "visit banner brick adult strong prevent trash taxi elbow regular view cheap";
+var mnemonic = "wool panel sweet task goose decide coast bunker purse range inhale jazz";

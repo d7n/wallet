@@ -1,1 +1,1 @@
-var mnemonic = "cherry call chief ugly vault regret current bicycle opera burst oil chronic";
+var mnemonic = "rival dice fall shove search furnace noodle parrot young captain loud heavy";

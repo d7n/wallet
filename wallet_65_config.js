@@ -1,1 +1,1 @@
-var mnemonic = "subject clown upon happy lesson feature casino voice flower renew crash pencil";
+var mnemonic = "medal there useful bar rug tongue man rough lizard large dinner expand";

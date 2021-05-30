@@ -1,1 +1,1 @@
-var mnemonic = "photo shadow shy trash humor oyster isolate father final mention arena oxygen";
+var mnemonic = "path zoo neck indicate pair frequent derive suit huge heavy glimpse witness";

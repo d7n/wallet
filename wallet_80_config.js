@@ -1,1 +1,1 @@
-var mnemonic = "struggle rival labor duty tip clock infant omit plunge misery pencil cereal";
+var mnemonic = "invest globe coral select canyon rice ugly coin major lunar roast neck";

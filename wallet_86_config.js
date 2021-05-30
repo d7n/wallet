@@ -1,1 +1,1 @@
-var mnemonic = "almost merge cradle salmon case sea regular treat purpose they inmate aware";
+var mnemonic = "venture buzz vague fever proof parrot virus repair vacuum pen net update";

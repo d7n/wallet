@@ -1,1 +1,1 @@
-var mnemonic = "magnet forget horn spread miracle child test brick note ensure volcano vapor";
+var mnemonic = "thank rather subway speed behind bargain comic total vague suspect better wild";

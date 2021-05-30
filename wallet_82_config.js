@@ -1,1 +1,1 @@
-var mnemonic = "puzzle sketch fruit hood tape one old ocean penalty nominee cover lottery";
+var mnemonic = "hawk mushroom primary clinic dad elephant derive burger cram guess bridge love";

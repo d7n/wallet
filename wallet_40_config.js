@@ -1,1 +1,1 @@
-var mnemonic = "truth sunset moral taxi surface initial belt act laptop remove fault praise";
+var mnemonic = "churn when pair identify cool case village pull motion grain rebuild bird";

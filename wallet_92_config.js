@@ -1,1 +1,1 @@
-var mnemonic = "wrestle gown fire raven garden erode hip marble thrive romance extra devote";
+var mnemonic = "quick drum cactus hood sign connect receive gospel private curious picnic road";

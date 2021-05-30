@@ -1,1 +1,1 @@
-var mnemonic = "swallow prevent love sibling mutual blade pistol focus owner loop cement spring";
+var mnemonic = "image hammer gospel hover ripple giant vital exhibit erode wonder bird impact";

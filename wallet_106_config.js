@@ -1,1 +1,1 @@
-var mnemonic = "solid lumber detect hip blood federal spike enact dad round cushion vendor";
+var mnemonic = "hen credit appear lyrics when image drive sound when vibrant need federal";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble piece zero program drop wrestle better phrase unknown announce pupil amateur";
+var mnemonic = "faith motor foster regret material champion enable okay client inside cousin voyage";

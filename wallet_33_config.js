@@ -1,1 +1,1 @@
-var mnemonic = "laugh wise across abstract opera amateur giggle system brush urge excite february";
+var mnemonic = "drive ladder scatter resist movie lonely goddess gap humble spot distance business";

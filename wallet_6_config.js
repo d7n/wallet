@@ -1,1 +1,1 @@
-var mnemonic = "sing follow fit wage hunt brand account vacuum hollow bomb royal poet";
+var mnemonic = "wheat license leg when mother produce police faculty will pizza upgrade spider";

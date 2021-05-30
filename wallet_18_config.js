@@ -1,1 +1,1 @@
-var mnemonic = "giant pink damage thrive install ahead truck live mind excite car spoon";
+var mnemonic = "describe relax saddle coral amount firm much donor reopen tuna civil replace";

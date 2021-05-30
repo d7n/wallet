@@ -1,1 +1,1 @@
-var mnemonic = "original behind high bronze couple people slide input deal inside cloth powder";
+var mnemonic = "high novel sail brand total reveal verify critic meat various magnet switch";

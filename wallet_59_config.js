@@ -1,1 +1,1 @@
-var mnemonic = "sell coyote upper fly party warrior want spoil level inhale flash danger";
+var mnemonic = "toilet drastic jealous cinnamon system zebra opinion abstract allow shaft winter jaguar";

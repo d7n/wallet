@@ -1,1 +1,1 @@
-var mnemonic = "orchard release canvas buzz ostrich lemon amateur oxygen erase claim process utility";
+var mnemonic = "unique industry joy nasty toast salt question mix example blue slim goat";

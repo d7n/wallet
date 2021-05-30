@@ -1,1 +1,1 @@
-var mnemonic = "job second eternal dune rug kit lobster obscure decrease twin radio globe";
+var mnemonic = "wage divorce sister hold punch love series person glide hobby sunset music";

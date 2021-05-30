@@ -1,1 +1,1 @@
-var mnemonic = "sort penalty cattle truck awake various use fence enrich must chair situate";
+var mnemonic = "rapid tissue people tilt spread gain flush army upper bargain pizza only";

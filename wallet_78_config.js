@@ -1,1 +1,1 @@
-var mnemonic = "casino fringe slide zone laptop clay solar diesel purse argue salute comic";
+var mnemonic = "vessel apart filter bridge chef electric shove barely reward protect pelican magic";

@@ -1,1 +1,1 @@
-var mnemonic = "hill harsh negative blast minute all resist degree okay body genre add";
+var mnemonic = "damage version work funny hard bright dust height arena vocal index one";

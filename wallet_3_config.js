@@ -1,1 +1,1 @@
-var mnemonic = "slight stem six remove jeans toe rude style illegal pair pony write";
+var mnemonic = "erupt finish diamond indicate major december wonder identify pen supply cheese butter";

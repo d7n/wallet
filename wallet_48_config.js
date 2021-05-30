@@ -1,1 +1,1 @@
-var mnemonic = "laundry parrot effort actress bronze lottery liar choose cry such injury kid";
+var mnemonic = "radar swap praise year dismiss crouch season adult excuse bean parent roof";

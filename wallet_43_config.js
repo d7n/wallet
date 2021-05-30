@@ -1,1 +1,1 @@
-var mnemonic = "balcony raw village faith coral supply bar vanish banner goat force column";
+var mnemonic = "poet pilot coffee breeze you egg hobby town behave october wife jazz";

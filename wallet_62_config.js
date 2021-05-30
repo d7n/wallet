@@ -1,1 +1,1 @@
-var mnemonic = "letter state column slab brain crisp athlete fossil actress gorilla polar able";
+var mnemonic = "gentle tired coconut crack summer spoil card pool wet velvet mystery connect";

@@ -1,1 +1,1 @@
-var mnemonic = "genre video target pigeon wide climb slim laugh lawsuit deer glare mango";
+var mnemonic = "pause surprise amateur dice flight anxiety proud thing unable pattern romance flat";

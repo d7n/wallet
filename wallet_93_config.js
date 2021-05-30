@@ -1,1 +1,1 @@
-var mnemonic = "alley stamp lunar total proud boat logic indicate real photo later midnight";
+var mnemonic = "cement oxygen pigeon audit mountain essence hungry box group slow stay tattoo";

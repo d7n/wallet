@@ -1,1 +1,1 @@
-var mnemonic = "junior divert throw put bus piano canyon switch trumpet pony another nest";
+var mnemonic = "solar adjust oak stove shock sign cover cloud vendor music wheel holiday";

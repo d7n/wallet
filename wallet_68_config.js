@@ -1,1 +1,1 @@
-var mnemonic = "health arrest industry bread onion siege crazy donor long prison leg deer";
+var mnemonic = "either material party either antenna loan west film silk unveil accident shell";

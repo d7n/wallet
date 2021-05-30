@@ -1,1 +1,1 @@
-var mnemonic = "air verb fuel soup indicate bunker essence attitude bike citizen infant clap";
+var mnemonic = "fashion mix tell glove later box pepper crowd magnet sudden crumble battle";

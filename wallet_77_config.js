@@ -1,1 +1,1 @@
-var mnemonic = "drift title weasel void skin mushroom attract one feature margin old purse";
+var mnemonic = "mimic hamster adjust gown wall infant draw crater city exercise exist trend";

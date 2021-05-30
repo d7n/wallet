@@ -1,1 +1,1 @@
-var mnemonic = "wisdom robust release steak lunch obvious sleep supreme hurt warrior employ mean";
+var mnemonic = "grace bleak drop turn ecology gloom purpose depart drop puppy place scrub";

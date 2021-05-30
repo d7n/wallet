@@ -1,1 +1,1 @@
-var mnemonic = "fiscal course garage short soft again letter expand item category tray lend";
+var mnemonic = "question ask west glimpse tuna defense discover injury jeans comic kiss drip";

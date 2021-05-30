@@ -1,1 +1,1 @@
-var mnemonic = "wood midnight shuffle borrow impose whisper snack heart adapt spirit easily gesture";
+var mnemonic = "already hedgehog emerge erosion device bleak evidence shrug apology salute scout holiday";

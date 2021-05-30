@@ -1,1 +1,1 @@
-var mnemonic = "warfare order feel exhaust cost genius future add tornado extend argue wrist";
+var mnemonic = "steel topple split unit inform permit trap head burst fat chuckle token";

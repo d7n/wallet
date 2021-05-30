@@ -1,1 +1,1 @@
-var mnemonic = "shift hello film glimpse auction inhale corn crane boil blue negative ginger";
+var mnemonic = "rotate diagram foam rug people couch guard tourist shoe sign deliver bean";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen patch impose seed rail eyebrow spice unaware doll sleep elder they";
+var mnemonic = "morning element calm outer keep identify virus avoid dragon effort avocado royal";

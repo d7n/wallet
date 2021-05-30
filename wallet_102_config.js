@@ -1,1 +1,1 @@
-var mnemonic = "pitch raccoon level outside topple demise bone space cactus rule dad decide";
+var mnemonic = "choose buyer smoke day blue horror type arrange liberty lab program write";

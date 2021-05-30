@@ -1,1 +1,1 @@
-var mnemonic = "theme phrase arch naive donkey robust scene flat settle three honey below";
+var mnemonic = "vehicle stuff fog snow lunch unable loan monkey suspect also alarm predict";

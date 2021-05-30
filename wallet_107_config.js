@@ -1,1 +1,1 @@
-var mnemonic = "scrub midnight mechanic stick marriage badge fever maze decade proof knock prefer";
+var mnemonic = "budget salad symptom update prepare sand nose divide region ivory decide soft";

@@ -1,1 +1,1 @@
-var mnemonic = "glance physical quantum casino kit nothing husband defy civil surprise immense cheese";
+var mnemonic = "give lunch will table liberty tone hazard axis alien meat hungry edit";

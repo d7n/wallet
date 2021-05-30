@@ -1,1 +1,1 @@
-var mnemonic = "situate melt dragon rate ocean drastic cousin sentence giraffe betray van intact";
+var mnemonic = "upset crucial sight water sort common globe couch process journey fat run";

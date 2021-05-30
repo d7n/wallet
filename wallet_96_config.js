@@ -1,1 +1,1 @@
-var mnemonic = "enhance idea special exile canvas ticket retreat eternal fabric easily drama shift";
+var mnemonic = "wish youth couch gentle spin oil evoke funny predict ride chair video";

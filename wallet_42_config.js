@@ -1,1 +1,1 @@
-var mnemonic = "green erode raw humble initial forward mosquito amount asthma arrow hello wagon";
+var mnemonic = "clump north ivory during width chief page hair wedding eyebrow cannon kite";

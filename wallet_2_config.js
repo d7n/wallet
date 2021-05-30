@@ -1,1 +1,1 @@
-var mnemonic = "wise multiply public where gap fire shiver ship okay avocado street cereal";
+var mnemonic = "broom gown spike dignity disease can pet deny cart drink seat spoon";
