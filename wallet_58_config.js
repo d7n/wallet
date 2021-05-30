@@ -1,1 +1,1 @@
-var mnemonic = "next coyote sibling hollow consider vague innocent holiday mosquito left vapor mad";
+var mnemonic = "scene sniff sadness wink pool arrange frost still pizza dog off relief";

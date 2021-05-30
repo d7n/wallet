@@ -1,1 +1,1 @@
-var mnemonic = "laptop again core code save betray side test pulp mandate height birth";
+var mnemonic = "reunion collect tissue capital erase winter few zebra duty tongue slim prepare";

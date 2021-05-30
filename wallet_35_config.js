@@ -1,1 +1,1 @@
-var mnemonic = "grunt rebuild day guilt mystery impact mind master stem genuine sugar moon";
+var mnemonic = "educate moon law border theme knock monster escape little bronze abandon arena";

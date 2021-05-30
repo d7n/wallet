@@ -1,1 +1,1 @@
-var mnemonic = "elite beach damage industry carpet diamond afford chat skirt express health pumpkin";
+var mnemonic = "can lunar chef grid squeeze frequent swap tooth winter will rule useless";

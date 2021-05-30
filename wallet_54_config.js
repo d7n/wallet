@@ -1,1 +1,1 @@
-var mnemonic = "congress fuel atom grab good exit vicious flash enjoy wild news tennis";
+var mnemonic = "salmon earn ivory cannon sausage undo vessel poem belt toss put below";

@@ -1,1 +1,1 @@
-var mnemonic = "physical session foot buzz material helmet enter fetch shoulder come dish bone";
+var mnemonic = "close crater spread gorilla club demise wrong chaos borrow liquid duty dog";

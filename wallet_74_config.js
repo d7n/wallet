@@ -1,1 +1,1 @@
-var mnemonic = "beauty success cereal gorilla glance crazy anxiety blue veteran quiz march sound";
+var mnemonic = "follow topic clutch core school boss cup flight coach grow fall enact";

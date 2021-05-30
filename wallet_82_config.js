@@ -1,1 +1,1 @@
-var mnemonic = "oxygen curtain blue alone border twist stone reveal open slice purpose digital";
+var mnemonic = "mountain pass remove rifle future kitchen draw horse young praise square rebuild";

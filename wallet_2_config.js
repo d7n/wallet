@@ -1,1 +1,1 @@
-var mnemonic = "hunt moment brother wisdom baby payment enjoy frog cruise rail device hobby";
+var mnemonic = "segment orbit tool oxygen suit library open hero swamp blind distance nation";

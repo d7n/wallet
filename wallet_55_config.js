@@ -1,1 +1,1 @@
-var mnemonic = "resource poem comic shoulder tree govern board voice hint kitchen pear small";
+var mnemonic = "thunder minor kangaroo ready horror december town moral camp swallow pet small";

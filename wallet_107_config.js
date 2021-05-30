@@ -1,1 +1,1 @@
-var mnemonic = "kid spike pair edit whip trouble scorpion hidden code accident return scorpion";
+var mnemonic = "hero core crop bike door skin acid defense panel helmet shed recall";

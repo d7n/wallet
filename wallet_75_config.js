@@ -1,1 +1,1 @@
-var mnemonic = "reduce trash antenna quit track wink garden acid vote peasant right venue";
+var mnemonic = "alert purpose appear sunny script pink torch close toast pretty year stay";

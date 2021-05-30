@@ -1,1 +1,1 @@
-var mnemonic = "puzzle open neutral business sustain aspect length gloom junk labor edit supreme";
+var mnemonic = "bracket crater detect venue team chuckle lunar dwarf fever deposit person motor";

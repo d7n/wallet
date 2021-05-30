@@ -1,1 +1,1 @@
-var mnemonic = "banana early enemy provide gain frost chronic wire add social fabric hour";
+var mnemonic = "school pipe hint despair point rescue stand donate column before setup voyage";

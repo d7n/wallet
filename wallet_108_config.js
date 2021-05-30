@@ -1,1 +1,1 @@
-var mnemonic = "tape relax seven sight matrix swift truth slim novel acid strong unusual";
+var mnemonic = "notice omit wait similar fatigue axis draft stay clock foot apple reason";

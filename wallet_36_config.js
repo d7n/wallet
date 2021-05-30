@@ -1,1 +1,1 @@
-var mnemonic = "middle warm fork mirror trophy team pelican menu cross problem stick bright";
+var mnemonic = "verb december follow lake axis hedgehog zone relief spider film pyramid sock";

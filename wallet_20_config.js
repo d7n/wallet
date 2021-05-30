@@ -1,1 +1,1 @@
-var mnemonic = "mystery select soap enter slogan decorate attitude stamp cabin blanket lock pitch";
+var mnemonic = "inhale define jelly bronze select region skull dad range pair sight sister";

@@ -1,1 +1,1 @@
-var mnemonic = "present electric dad upon flower index table keen loop bounce intact country";
+var mnemonic = "immune science reveal pole almost report toe siege shell degree cry day";

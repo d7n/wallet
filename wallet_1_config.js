@@ -1,1 +1,1 @@
-var mnemonic = "private burst believe artist mix middle top six return install black snow";
+var mnemonic = "hill unique wheel riot cargo spread figure defense raven trick alley dial";

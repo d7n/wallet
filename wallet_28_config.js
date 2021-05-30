@@ -1,1 +1,1 @@
-var mnemonic = "own auction episode spawn inform hire setup light candy fox rain expand";
+var mnemonic = "shiver amateur idle paddle divert luxury game turtle ticket execute warfare panic";

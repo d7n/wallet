@@ -1,1 +1,1 @@
-var mnemonic = "arm similar message click oil aerobic science skill emotion guilt promote belt";
+var mnemonic = "can coffee meadow bleak garden six amount empty better power screen topic";

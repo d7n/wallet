@@ -1,1 +1,1 @@
-var mnemonic = "open traffic satoshi bubble type wolf pond pluck hand kidney season gravity";
+var mnemonic = "tuition world token behind soft liberty below pear verify gift pattern curve";

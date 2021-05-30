@@ -1,1 +1,1 @@
-var mnemonic = "erosion abandon topple memory atom lucky infant twenty vehicle luxury winner half";
+var mnemonic = "artefact order wash inject october outside dose winter virus employ crawl solve";

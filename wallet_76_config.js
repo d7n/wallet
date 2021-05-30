@@ -1,1 +1,1 @@
-var mnemonic = "ball assist ghost stay text paddle juice program betray rail steak ability";
+var mnemonic = "mail love margin enhance timber say remind memory regular type east hybrid";

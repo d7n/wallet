@@ -1,1 +1,1 @@
-var mnemonic = "fantasy analyst walnut umbrella exchange work useful funny elephant must steel arm";
+var mnemonic = "gift track east woman write indicate disorder rose volcano still trial category";

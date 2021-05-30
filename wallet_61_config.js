@@ -1,1 +1,1 @@
-var mnemonic = "crack athlete dry annual silk return roof embark polar lazy sausage casino";
+var mnemonic = "rookie crisp danger neutral hybrid broken detail tail mimic agree brown category";

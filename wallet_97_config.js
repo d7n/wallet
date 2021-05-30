@@ -1,1 +1,1 @@
-var mnemonic = "buzz equal group claw flee loan gasp glide shoulder purse parent wild";
+var mnemonic = "brass aspect divide destroy sudden enroll lumber pause music autumn split tank";

@@ -1,1 +1,1 @@
-var mnemonic = "riot prize resemble swap trash mule chalk kitten office glad devote junk";
+var mnemonic = "rally similar leave goat butter business talent glimpse father choice spin cherry";

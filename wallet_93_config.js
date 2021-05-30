@@ -1,1 +1,1 @@
-var mnemonic = "wise album bronze fish hobby snow sure sausage hurdle slide naive height";
+var mnemonic = "you acid swamp question two flip zebra spring involve hair liquid insect";

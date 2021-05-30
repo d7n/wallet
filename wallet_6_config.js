@@ -1,1 +1,1 @@
-var mnemonic = "owner remind fish labor penalty mechanic squeeze pupil invite mirror clutch display";
+var mnemonic = "deliver deal process thing luxury blur wolf resource leg fall pizza six";

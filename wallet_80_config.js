@@ -1,1 +1,1 @@
-var mnemonic = "advice float relax letter weasel want usage assault flower point feature taste";
+var mnemonic = "kick virtual roof scatter rule empty crop fame east chief cloud scissors";

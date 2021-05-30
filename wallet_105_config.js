@@ -1,1 +1,1 @@
-var mnemonic = "mix maximum peanut butter suspect risk rookie feel palace brick polar alcohol";
+var mnemonic = "essay fragile warm elder bonus sail oppose gasp situate pigeon permit puppy";

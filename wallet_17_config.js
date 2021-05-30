@@ -1,1 +1,1 @@
-var mnemonic = "siege useful pencil inmate inflict name atom upset promote reject lion step";
+var mnemonic = "boil forum urban resist option census enhance silver ritual desert omit zone";

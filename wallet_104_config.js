@@ -1,1 +1,1 @@
-var mnemonic = "affair symptom parent error answer illegal idea point match old sight avocado";
+var mnemonic = "guilt often input left drop strike air moment collect small tired spare";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cinnamon knee guess craft gap lecture frog garbage sadness jeans dune";
+var mnemonic = "fade agent awful lift host angle group heart remind kangaroo nasty sand";

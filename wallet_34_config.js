@@ -1,1 +1,1 @@
-var mnemonic = "exchange faint olive belt aunt heavy blame onion view cat upon jeans";
+var mnemonic = "riot soda used adult volcano stone hello tell afraid bulb spice safe";

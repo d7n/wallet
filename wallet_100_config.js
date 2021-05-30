@@ -1,1 +1,1 @@
-var mnemonic = "virus position remember radar blue dial section country tomato wall obvious wave";
+var mnemonic = "license afford diagram occur roof mystery inflict twin convince dutch easy mystery";

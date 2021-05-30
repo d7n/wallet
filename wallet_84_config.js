@@ -1,1 +1,1 @@
-var mnemonic = "detect flip lazy tank entry come dawn design train amateur enough infant";
+var mnemonic = "pizza flock develop tortoise obscure hybrid paper sad risk wing write crew";

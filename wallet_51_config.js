@@ -1,1 +1,1 @@
-var mnemonic = "audit talk gentle sample fuel token equal lend sadness neither trumpet kangaroo";
+var mnemonic = "sand rice bonus vault guilt reward guide theory priority knee aisle crater";

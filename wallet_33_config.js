@@ -1,1 +1,1 @@
-var mnemonic = "fit sound bone nerve coin large infant chalk section nurse street zero";
+var mnemonic = "width flight guard unusual zone library open case museum switch demise style";

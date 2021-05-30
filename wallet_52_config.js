@@ -1,1 +1,1 @@
-var mnemonic = "sphere roast drive stage negative embark battle cloud salmon matter swap cradle";
+var mnemonic = "frown primary harbor kitchen ribbon cricket melt company annual slide image concert";

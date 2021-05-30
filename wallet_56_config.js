@@ -1,1 +1,1 @@
-var mnemonic = "forget orbit glue other believe able gather control animal champion whisper together";
+var mnemonic = "video year claw leopard month nurse core tray fever coil work unknown";

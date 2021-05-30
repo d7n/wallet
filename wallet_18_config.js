@@ -1,1 +1,1 @@
-var mnemonic = "envelope brain tuition high wreck truly mistake bullet service measure color hospital";
+var mnemonic = "suspect popular destroy repeat stuff label fox danger glimpse board conduct elephant";

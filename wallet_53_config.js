@@ -1,1 +1,1 @@
-var mnemonic = "slab transfer coconut cherry unable exotic box slice dragon usual fork capable";
+var mnemonic = "okay kit glimpse moon across youth prize jeans century escape comic tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract matter bleak debris whisper town hotel relief extra parrot rice vital";
+var mnemonic = "vacant energy hard wrestle grant foam sniff history genre rude ice expose";

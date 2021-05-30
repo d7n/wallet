@@ -1,1 +1,1 @@
-var mnemonic = "twenty axis vault hawk shaft unknown ignore rail announce bomb violin repeat";
+var mnemonic = "scare wild effort civil strike unhappy settle foster gasp gravity great nose";

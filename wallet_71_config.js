@@ -1,1 +1,1 @@
-var mnemonic = "note slogan repair mother planet develop flat post pool blush wasp crash";
+var mnemonic = "resource wagon jeans design crumble organ bone pet forum dolphin rare pig";

@@ -1,1 +1,1 @@
-var mnemonic = "boy praise finish step match climb dentist inch little upgrade syrup rice";
+var mnemonic = "plastic sound borrow hamster parrot spare crew change electric firm skull alien";

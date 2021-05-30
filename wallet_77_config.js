@@ -1,1 +1,1 @@
-var mnemonic = "pole lonely abuse dignity because champion hammer include sing cruel onion sponsor";
+var mnemonic = "conduct copper captain invest behind employ fuel stool crowd random acoustic elevator";

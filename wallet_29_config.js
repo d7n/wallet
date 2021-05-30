@@ -1,1 +1,1 @@
-var mnemonic = "snake spike tobacco model erase spoil license consider slot sting usual cactus";
+var mnemonic = "grain broom vault crane swamp solve quantum manual gaze strong end reunion";

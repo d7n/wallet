@@ -1,1 +1,1 @@
-var mnemonic = "wife during slide napkin crack ostrich robot family describe frequent minor increase";
+var mnemonic = "rose library symptom slide aisle slim bone brother swear mean resemble spin";

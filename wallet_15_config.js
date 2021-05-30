@@ -1,1 +1,1 @@
-var mnemonic = "injury bleak bulb clutch slab dash side wear practice peanut puppy apart";
+var mnemonic = "shaft luxury permit middle correct mushroom diagram since blood purchase test tower";

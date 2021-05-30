@@ -1,1 +1,1 @@
-var mnemonic = "unlock note uncle lonely skill essay video orbit original manual salmon start";
+var mnemonic = "calm describe zero gauge student govern bright embrace gesture burst waste lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin energy hour sing wrestle tent foil board front globe rocket inquiry";
+var mnemonic = "rail often they biology brand swallow lion earn hand economy sunset mixed";

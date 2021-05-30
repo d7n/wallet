@@ -1,1 +1,1 @@
-var mnemonic = "air choice edit capable gate trumpet twelve sudden often exhaust aim face";
+var mnemonic = "february lake theory chuckle table warfare tongue bench swamp skate decrease scheme";

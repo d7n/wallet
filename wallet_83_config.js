@@ -1,1 +1,1 @@
-var mnemonic = "tribe connect wonder cluster inject room another donor beef indicate endless cradle";
+var mnemonic = "dilemma protect shield social image forest rail fuel fabric open bulk course";

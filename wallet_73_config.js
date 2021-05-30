@@ -1,1 +1,1 @@
-var mnemonic = "diamond regular ability step rotate demise possible sudden waste topic border milk";
+var mnemonic = "armed sleep recall invite stumble hospital humble street master credit chicken hat";

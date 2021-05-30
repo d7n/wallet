@@ -1,1 +1,1 @@
-var mnemonic = "moon response person carry quit reunion boat bone during beauty crew surge";
+var mnemonic = "name fish mass then antique disease symptom scene future gun barely snack";

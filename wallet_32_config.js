@@ -1,1 +1,1 @@
-var mnemonic = "select know decide useful donate express fantasy border wool armed cost sea";
+var mnemonic = "sunset gentle property nose genius priority august grunt only scrub foil attend";

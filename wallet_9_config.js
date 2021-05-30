@@ -1,1 +1,1 @@
-var mnemonic = "alpha oblige throw lobster amused raven shed stone garment image trick bind";
+var mnemonic = "seminar oval fold afford original ozone fly skull deputy curtain talent please";

@@ -1,1 +1,1 @@
-var mnemonic = "whip fall dash robust major old enhance thank equal master group ice";
+var mnemonic = "portion news clump skill skin domain risk real pistol black rigid plate";

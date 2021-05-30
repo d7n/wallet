@@ -1,1 +1,1 @@
-var mnemonic = "animal trigger topple this mountain wish ancient young bracket wheel tomato wall";
+var mnemonic = "fine slot smart afford author useful furnace focus destroy mouse pool hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "choose wasp slim quiz lecture also tumble sentence bunker disease involve summer";
+var mnemonic = "obscure announce glimpse delay half defense remember top idea enjoy inside text";

@@ -1,1 +1,1 @@
-var mnemonic = "deny area kick behind inspire cancel curve member melt fortune vintage illegal";
+var mnemonic = "crucial rare upset rare pull wear famous find wet hello gloom push";

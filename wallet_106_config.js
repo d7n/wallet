@@ -1,1 +1,1 @@
-var mnemonic = "blast height speed stumble miracle example wrist defy hard silent travel typical";
+var mnemonic = "unhappy divorce copper series erupt olympic thrive giraffe insect public fine camera";

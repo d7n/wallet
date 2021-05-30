@@ -1,1 +1,1 @@
-var mnemonic = "mercy wave source foot fuel april tuition net universe arrest reunion alarm";
+var mnemonic = "term wire differ frown put surprise image angle purse walnut few meat";

@@ -1,1 +1,1 @@
-var mnemonic = "toast please oppose small power dynamic stick require reject front citizen chest";
+var mnemonic = "column element chef hour plunge tongue scrap what alcohol act process version";

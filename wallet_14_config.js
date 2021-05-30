@@ -1,1 +1,1 @@
-var mnemonic = "island fringe project control click oval brown pumpkin glue lottery health absorb";
+var mnemonic = "fiction never knock decline arch evidence uncle okay baby twice film head";

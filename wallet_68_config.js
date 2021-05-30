@@ -1,1 +1,1 @@
-var mnemonic = "input swap waste skate pattern various kit champion matter insane denial right";
+var mnemonic = "furnace flavor wink then fatigue fee forward guess vapor tonight hope slab";

@@ -1,1 +1,1 @@
-var mnemonic = "goat weird first fire pact awake tag canoe unique slot erode leaf";
+var mnemonic = "history address negative extend hold test legend artefact frog visa lecture option";

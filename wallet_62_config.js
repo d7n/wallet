@@ -1,1 +1,1 @@
-var mnemonic = "unhappy later swift fiscal inherit spot ancient escape choice motion dumb toddler";
+var mnemonic = "knock woman faint client supply peanut extend festival discover kiwi honey sibling";

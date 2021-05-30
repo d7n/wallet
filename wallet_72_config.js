@@ -1,1 +1,1 @@
-var mnemonic = "pony able outer balance flock insane renew phrase lottery bachelor jeans town";
+var mnemonic = "throw seven under mansion nerve similar verb picnic shrug chat spare gauge";

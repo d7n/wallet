@@ -1,1 +1,1 @@
-var mnemonic = "dawn major sorry depth energy penalty dizzy logic toward menu useful garden";
+var mnemonic = "also fade fiction since thumb horse day welcome blue emerge message faith";

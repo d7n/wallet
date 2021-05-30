@@ -1,1 +1,1 @@
-var mnemonic = "ahead file taxi chapter rely census riot head betray oblige modify usage";
+var mnemonic = "hundred need interest tube library depart unknown push crunch puppy wisdom hockey";

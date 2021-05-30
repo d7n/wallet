@@ -1,1 +1,1 @@
-var mnemonic = "smooth school mobile faith bar gospel smooth reform useless cherry become blouse";
+var mnemonic = "hobby fitness source team walnut loyal letter cactus garlic margin simple drift";

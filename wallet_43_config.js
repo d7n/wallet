@@ -1,1 +1,1 @@
-var mnemonic = "radar negative slab table start cigar captain reduce siege meat assault below";
+var mnemonic = "crisp rich inch abuse wisdom leisure hundred roof brother drastic useless vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly news file sign any arena hen script predict term roof affair";
+var mnemonic = "friend narrow into manage orient umbrella skirt burger vendor level unveil jewel";

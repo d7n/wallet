@@ -1,1 +1,1 @@
-var mnemonic = "south airport supply front unit van again example smile ask mass canyon";
+var mnemonic = "hurry renew warm round indicate angle man field morning collect bless foam";

@@ -1,1 +1,1 @@
-var mnemonic = "tent abstract unveil scrub company abstract neglect congress review picnic enable smooth";
+var mnemonic = "post butter photo gloom hood concert weasel chicken virtual song brand donkey";

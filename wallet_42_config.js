@@ -1,1 +1,1 @@
-var mnemonic = "session stone poverty cliff west box mirror ritual gorilla tuna pave tail";
+var mnemonic = "timber regret coffee similar update skate buzz tribe pistol double believe flip";

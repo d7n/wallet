@@ -1,1 +1,1 @@
-var mnemonic = "govern honey sight behave unknown pole rookie gentle equip lock welcome nut";
+var mnemonic = "swallow rhythm afraid decide regret example member antenna edit another pride lift";

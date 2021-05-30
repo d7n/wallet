@@ -1,1 +1,1 @@
-var mnemonic = "lobster transfer lizard brief army strong quarter vapor jacket real barely purpose";
+var mnemonic = "inject iron you submit congress team dawn mesh have angry noise develop";
