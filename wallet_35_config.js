@@ -1,1 +1,1 @@
-var mnemonic = "final topple labor cat coach strategy powder people volume december trend mountain";
+var mnemonic = "season name thumb recipe symptom print poet infant liquid title will forest";

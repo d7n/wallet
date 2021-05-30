@@ -1,1 +1,1 @@
-var mnemonic = "kidney permit swift choose name surprise immune dawn hard nerve just nation";
+var mnemonic = "secret leopard gospel early document element duty jar matter junk account weasel";

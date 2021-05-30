@@ -1,1 +1,1 @@
-var mnemonic = "glory office start jungle police arctic night letter track deer daughter visa";
+var mnemonic = "cactus jealous salute nominee forward glow pair polar public any time just";

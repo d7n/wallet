@@ -1,1 +1,1 @@
-var mnemonic = "apart coral dragon keep divorce hat route identify grunt sign hurdle frozen";
+var mnemonic = "cheese spoil hood trip side open render obscure wasp planet manage valley";

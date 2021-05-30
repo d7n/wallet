@@ -1,1 +1,1 @@
-var mnemonic = "loop laptop jewel mushroom garbage sing attitude cabbage afraid festival forum admit";
+var mnemonic = "trap frequent slab eye pig hurry strategy scare twenty feature feature diet";

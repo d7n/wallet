@@ -1,1 +1,1 @@
-var mnemonic = "shy mandate office network smile leave leader miracle sister shoulder object swear";
+var mnemonic = "weird enjoy ivory nose trend other motor initial way struggle price toward";

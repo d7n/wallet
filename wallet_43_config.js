@@ -1,1 +1,1 @@
-var mnemonic = "talk book square detail faculty nerve endless minor almost cool call nerve";
+var mnemonic = "mule supply love height bean march short scheme spin shield recycle item";

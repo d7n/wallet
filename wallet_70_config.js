@@ -1,1 +1,1 @@
-var mnemonic = "canvas lounge uphold clerk gesture strike relief unfair vault good switch enlist";
+var mnemonic = "dry metal sauce story laundry post ankle cycle cricket annual please zone";

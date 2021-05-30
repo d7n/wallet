@@ -1,1 +1,1 @@
-var mnemonic = "orbit very ghost buzz february scissors wrist donkey favorite silver upon powder";
+var mnemonic = "fine clock inject portion hello actor below gap hard ridge enable become";

@@ -1,1 +1,1 @@
-var mnemonic = "tail garlic great space kit word short shock begin mix buffalo volcano";
+var mnemonic = "right hood inhale student secret orange stadium human cinnamon field collect moment";

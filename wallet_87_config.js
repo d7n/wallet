@@ -1,1 +1,1 @@
-var mnemonic = "false about spoil guess agent impact decide month evil valve mystery glory";
+var mnemonic = "clinic skirt moon absent monkey own praise tent local unfair stage inquiry";

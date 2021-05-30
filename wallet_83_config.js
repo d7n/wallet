@@ -1,1 +1,1 @@
-var mnemonic = "dry jewel odor trade grief prefer broken cause attract detect canyon scale";
+var mnemonic = "deposit tunnel cereal emerge bundle magnet slight muscle catch medal jungle rain";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle gadget fuel bid grace absent orphan mass fantasy share public law";
+var mnemonic = "occur danger ladder crush insane humor person metal unfair tower build embark";

@@ -1,1 +1,1 @@
-var mnemonic = "produce alone move permit crisp veteran move endless goose goddess ozone cross";
+var mnemonic = "mail cancel finish shaft sense match across dismiss meadow boss arm top";

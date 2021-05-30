@@ -1,1 +1,1 @@
-var mnemonic = "fragile absurd domain other way better fade west buyer column correct video";
+var mnemonic = "seat chunk mass dragon captain present box planet gym maple lake add";

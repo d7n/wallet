@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sick that vehicle fantasy only nominee talk spray affair entry equal";
+var mnemonic = "trick must garlic emotion music piano pull test shell journey human trap";

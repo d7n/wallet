@@ -1,1 +1,1 @@
-var mnemonic = "veteran budget whip prison protect mass primary angry magnet depth sauce economy";
+var mnemonic = "purpose grit jaguar cradle horn custom output layer until muffin govern spend";

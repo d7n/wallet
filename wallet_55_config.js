@@ -1,1 +1,1 @@
-var mnemonic = "volcano banner tattoo daughter suit cube lyrics work genius also history frog";
+var mnemonic = "body barrel chase festival color vintage kingdom knock motion amazing liquid cigar";

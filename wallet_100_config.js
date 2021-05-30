@@ -1,1 +1,1 @@
-var mnemonic = "manual arm honey arrest execute fragile remain spread humble wash fine wealth";
+var mnemonic = "maze prepare hurdle thank myth apology edit behave minor glory spray undo";

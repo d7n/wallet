@@ -1,1 +1,1 @@
-var mnemonic = "holiday silly page replace party off choice shoe document medal caution divert";
+var mnemonic = "essence seed crater pass lens snack chaos lounge erode beef sad people";

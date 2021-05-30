@@ -1,1 +1,1 @@
-var mnemonic = "ritual song liquid goose palace floor error lamp ugly surge assault champion";
+var mnemonic = "exist vapor chair pave actress penalty sadness furnace bridge fruit lawsuit duck";

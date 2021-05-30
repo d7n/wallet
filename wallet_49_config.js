@@ -1,1 +1,1 @@
-var mnemonic = "grunt arrange violin drill maple grace click silent enemy deliver original fork";
+var mnemonic = "frequent extra blade brick pipe sight wedding hobby lyrics hat double pluck";

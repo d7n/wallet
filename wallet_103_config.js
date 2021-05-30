@@ -1,1 +1,1 @@
-var mnemonic = "upgrade east degree innocent decrease near escape south occur citizen hat approve";
+var mnemonic = "protect pumpkin gap error useless usage marine logic vague like rocket gun";

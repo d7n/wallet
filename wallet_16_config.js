@@ -1,1 +1,1 @@
-var mnemonic = "novel course fossil country mimic property fall anger cement hungry regret thought";
+var mnemonic = "proof angle energy topic slam cheap clown coyote flat else sorry orange";

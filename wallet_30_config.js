@@ -1,1 +1,1 @@
-var mnemonic = "mechanic blood enemy solve cradle wish dismiss pencil suit rack loan ski";
+var mnemonic = "assault word chalk tent horror pave guess math nut inner crucial enemy";

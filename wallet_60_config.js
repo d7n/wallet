@@ -1,1 +1,1 @@
-var mnemonic = "leg crunch album rude angry check horror mutual desk prison sponsor purity";
+var mnemonic = "captain supreme echo key clog pave artwork follow diet column outer come";

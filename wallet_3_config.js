@@ -1,1 +1,1 @@
-var mnemonic = "price useless satoshi novel measure word notable blood approve city south limit";
+var mnemonic = "assist guilt dice educate throw oven device pull spot coach able enjoy";

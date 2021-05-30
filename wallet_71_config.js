@@ -1,1 +1,1 @@
-var mnemonic = "tribe syrup maid release party frown ski note veteran nature scorpion color";
+var mnemonic = "impulse enroll result raise icon discover consider fine live cruel limb nut";

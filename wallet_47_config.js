@@ -1,1 +1,1 @@
-var mnemonic = "news sunny spring task intact reflect pottery oven cliff strategy tell breeze";
+var mnemonic = "document rice feel actress upon parade fix shadow mutual horse fun script";

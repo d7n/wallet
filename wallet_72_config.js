@@ -1,1 +1,1 @@
-var mnemonic = "whip inherit minute rack home pottery resist vast lounge diesel square immense";
+var mnemonic = "rhythm leave this taste captain voyage update appear huge snack print news";

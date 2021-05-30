@@ -1,1 +1,1 @@
-var mnemonic = "island clinic slight exhaust trust ostrich denial tattoo manual mansion much grit";
+var mnemonic = "mother gadget design truck inner abandon camera unfair song feature early helmet";

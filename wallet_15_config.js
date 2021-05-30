@@ -1,1 +1,1 @@
-var mnemonic = "tonight valid actress exist snake mountain train hedgehog life acoustic parade noble";
+var mnemonic = "harvest visual area clever era gain sense pink garlic bamboo clinic share";

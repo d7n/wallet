@@ -1,1 +1,1 @@
-var mnemonic = "casino they hockey armed mixture spread absorb update omit arrest health rice";
+var mnemonic = "miss lamp truth critic use afraid mule page marine idle motor duck";

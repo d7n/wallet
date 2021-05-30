@@ -1,1 +1,1 @@
-var mnemonic = "pipe warm satisfy nation category custom cabbage either top zone traffic river";
+var mnemonic = "riot twelve oxygen nose price apple frost coach used team vessel club";

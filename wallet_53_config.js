@@ -1,1 +1,1 @@
-var mnemonic = "company diet cluster accident manage client theme south clock suit junior surge";
+var mnemonic = "desk naive cheese pluck chicken prison adjust nut plate wealth comic degree";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm merry arm drip engage above once ticket attend expose soap suit";
+var mnemonic = "lock airport rose tree thought vehicle mirror violin front pear similar ginger";

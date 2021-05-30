@@ -1,1 +1,1 @@
-var mnemonic = "oak super gold develop habit indicate upper basket gas reason grab emerge";
+var mnemonic = "away letter excess steel address oval miracle lend subway tool brown video";

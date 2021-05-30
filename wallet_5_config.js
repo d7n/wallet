@@ -1,1 +1,1 @@
-var mnemonic = "zebra crisp frame ability badge estate valve average penalty sight wash unusual";
+var mnemonic = "buffalo assist syrup gather once melt balance lesson color bird error crime";

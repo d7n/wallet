@@ -1,1 +1,1 @@
-var mnemonic = "tiger better black life tree gym auction spy wolf luggage twelve bargain";
+var mnemonic = "parent club moment base stairs myth potato parade goddess reason wide wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "crime remind session link smile senior gadget apart together check marine mom";
+var mnemonic = "garage dutch arrive pistol seed oyster park mouse allow destroy decrease tongue";

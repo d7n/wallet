@@ -1,1 +1,1 @@
-var mnemonic = "stage detect shoe select become error afraid throw main dinosaur season curious";
+var mnemonic = "denial clay rhythm pipe naive flavor essay food surround garden mix spend";

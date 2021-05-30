@@ -1,1 +1,1 @@
-var mnemonic = "minimum surface type about bless park sort relief logic galaxy wheel actress";
+var mnemonic = "satoshi harsh purse flower scare alone fog average arm office vital aisle";

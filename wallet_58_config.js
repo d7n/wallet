@@ -1,1 +1,1 @@
-var mnemonic = "empty will notice garbage flavor rookie way puppy clinic awake school trip";
+var mnemonic = "hurt bacon throw vehicle fantasy minimum parent poverty fatigue culture coach food";

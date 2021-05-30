@@ -1,1 +1,1 @@
-var mnemonic = "credit leopard hub gauge gasp awake betray latin head dignity spin virus";
+var mnemonic = "affair property oblige wheat brief either sword bleak daring label task lion";

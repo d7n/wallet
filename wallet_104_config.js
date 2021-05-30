@@ -1,1 +1,1 @@
-var mnemonic = "average practice approve eager finger capital major until rapid glimpse green jungle";
+var mnemonic = "chicken shock echo holiday october proof insane clerk scout fatigue clown myself";

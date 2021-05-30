@@ -1,1 +1,1 @@
-var mnemonic = "toddler radio banner inhale woman general describe sad relief confirm stock trend";
+var mnemonic = "century donkey next alarm hope goat gather toward wise judge agree virtual";

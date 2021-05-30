@@ -1,1 +1,1 @@
-var mnemonic = "traffic deny replace index meadow game copper object maze sauce huge fog";
+var mnemonic = "brain defy interest finger human pioneer royal uphold faint tuition oyster machine";

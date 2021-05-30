@@ -1,1 +1,1 @@
-var mnemonic = "situate below keep rebuild voyage market exclude future sand casino pistol pave";
+var mnemonic = "acquire census security oyster tomato solar volcano retire ceiling carpet item episode";

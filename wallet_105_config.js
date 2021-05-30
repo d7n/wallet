@@ -1,1 +1,1 @@
-var mnemonic = "remove mirror biology reward oyster forward waste victory wrong ten knee video";
+var mnemonic = "gaze pair song weasel farm panther near delay cloud hand similar jaguar";

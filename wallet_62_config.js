@@ -1,1 +1,1 @@
-var mnemonic = "skate mixed school crawl security ridge spare twice sweet figure march fit";
+var mnemonic = "ramp fuel business toilet junk floor size agree autumn media awful arrive";

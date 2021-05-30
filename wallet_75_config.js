@@ -1,1 +1,1 @@
-var mnemonic = "use side benefit trash alarm lady vacant goddess traffic bless fun trophy";
+var mnemonic = "axis imitate timber trade escape damage again tenant hazard report morning silly";

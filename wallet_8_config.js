@@ -1,1 +1,1 @@
-var mnemonic = "half innocent blast lounge record deliver bag melt hint control coffee wise";
+var mnemonic = "churn inhale balcony powder tower again now narrow gap minute dice room";

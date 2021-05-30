@@ -1,1 +1,1 @@
-var mnemonic = "uphold mountain acoustic retire loyal phrase swear material doll next hurdle face";
+var mnemonic = "flock fox violin more parrot wealth habit cube differ traffic original sister";

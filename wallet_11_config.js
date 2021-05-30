@@ -1,1 +1,1 @@
-var mnemonic = "local avoid limit trumpet patrol inch rare crucial pottery fault trumpet what";
+var mnemonic = "glow salt gas imitate toilet kiwi gloom relief illness trip tiger mobile";

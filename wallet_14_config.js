@@ -1,1 +1,1 @@
-var mnemonic = "obscure sunset ghost wagon whisper delay gesture cigar sense chase zero arm";
+var mnemonic = "foot eternal alcohol clay praise mango any glow fat begin butter claw";

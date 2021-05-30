@@ -1,1 +1,1 @@
-var mnemonic = "suffer sister sting foil wet bid camp bulb van swift balance hair";
+var mnemonic = "primary erosion speed crisp ankle play seed mistake jaguar indoor industry team";

@@ -1,1 +1,1 @@
-var mnemonic = "okay fault guard mimic six source vintage seat barrel steak stamp pepper";
+var mnemonic = "move flag discover leisure margin control trust estate illegal observe real rate";

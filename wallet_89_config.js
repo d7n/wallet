@@ -1,1 +1,1 @@
-var mnemonic = "timber castle nerve episode reason include setup print tilt sustain usual pencil";
+var mnemonic = "achieve jungle road polar mouse liberty miss chicken result praise athlete double";

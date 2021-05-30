@@ -1,1 +1,1 @@
-var mnemonic = "dragon fall attack pact special fortune toast plunge rough mushroom base prison";
+var mnemonic = "tower celery image type bleak buyer end foil cousin cart false sort";

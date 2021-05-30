@@ -1,1 +1,1 @@
-var mnemonic = "quick trip vocal exist fold vast hire moon skull taste athlete year";
+var mnemonic = "vivid want grass boil elite stool jelly method infant final fine dignity";

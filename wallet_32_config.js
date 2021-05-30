@@ -1,1 +1,1 @@
-var mnemonic = "panther recycle huge brave impulse shuffle sister excess buddy minimum face have";
+var mnemonic = "treat unit alcohol quit east gloom team cabbage labor brick script canvas";

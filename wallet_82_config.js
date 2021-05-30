@@ -1,1 +1,1 @@
-var mnemonic = "alarm catch muscle lizard twice reveal mixture thumb erosion rifle wreck into";
+var mnemonic = "laptop innocent pistol false army bench venture online rack lizard reward inmate";

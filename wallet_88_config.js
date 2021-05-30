@@ -1,1 +1,1 @@
-var mnemonic = "false street october nature blanket bottom quote floor art car ice pony";
+var mnemonic = "bring decide next train season south employ nominee found book desk jaguar";

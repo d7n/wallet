@@ -1,1 +1,1 @@
-var mnemonic = "country father pencil pepper cup problem pretty dune gravity salute wheel garbage";
+var mnemonic = "strategy dirt slim rebuild decide solar expand hockey vessel champion select mercy";

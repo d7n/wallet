@@ -1,1 +1,1 @@
-var mnemonic = "hollow elder person time wide income daughter turn swift excess bunker burst";
+var mnemonic = "short parrot curve member web giraffe north project enrich observe pass ritual";

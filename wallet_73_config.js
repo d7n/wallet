@@ -1,1 +1,1 @@
-var mnemonic = "note tube opinion media then alpha dynamic neck sponsor clump glare urge";
+var mnemonic = "select shallow treat member floor night warrior alarm sample organ chronic avoid";

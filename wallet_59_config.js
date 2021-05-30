@@ -1,1 +1,1 @@
-var mnemonic = "custom suffer donate salad nuclear tail sad smile hero oak master field";
+var mnemonic = "until mask original tower table mobile unable creek tattoo occur rhythm flee";

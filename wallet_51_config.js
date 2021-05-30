@@ -1,1 +1,1 @@
-var mnemonic = "lesson hobby enforce spawn category table cloud excuse loan term spider father";
+var mnemonic = "bean profit just above amazing annual ball eight obtain debate sport strong";

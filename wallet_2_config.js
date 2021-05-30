@@ -1,1 +1,1 @@
-var mnemonic = "appear dry follow core reward remain flee glimpse permit valve one lonely";
+var mnemonic = "kingdom orchard allow window puppy edit wood cruel settle poet drift hair";

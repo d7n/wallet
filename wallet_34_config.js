@@ -1,1 +1,1 @@
-var mnemonic = "ribbon then fantasy blossom torch unfold brisk elevator text drip ugly blood";
+var mnemonic = "animal island success until beach color idle museum fruit material cup lesson";

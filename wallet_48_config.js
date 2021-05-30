@@ -1,1 +1,1 @@
-var mnemonic = "ghost lend great replace happy upper report silly develop few interest retreat";
+var mnemonic = "census become olympic estate cream guard mind tackle cream neck robot problem";

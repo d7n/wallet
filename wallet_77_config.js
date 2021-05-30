@@ -1,1 +1,1 @@
-var mnemonic = "body cabbage cereal pledge canal quit inner puzzle kangaroo celery trophy harvest";
+var mnemonic = "goddess shallow cannon brave later remain biology knife genius wheel creek asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "fall mechanic dad industry inner fatigue brand apart slender remove busy color";
+var mnemonic = "chef motion bean purpose beef height loud over enhance box sponsor junior";

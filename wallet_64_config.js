@@ -1,1 +1,1 @@
-var mnemonic = "type escape vast cabin gym butter cupboard enroll desert cause message rough";
+var mnemonic = "foam volcano credit advice dial genuine wonder ice game odor mesh venture";

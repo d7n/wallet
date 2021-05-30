@@ -1,1 +1,1 @@
-var mnemonic = "ritual uncover movie scorpion balcony maple boat erosion fury alter filter saddle";
+var mnemonic = "degree identify obvious differ snap long peace ride above bacon rib wrist";

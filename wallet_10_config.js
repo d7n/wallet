@@ -1,1 +1,1 @@
-var mnemonic = "lawn capable behave author lawsuit snow fringe law magnet tree scissors ride";
+var mnemonic = "broom prefer adjust tool toast strategy slight trial obey impulse oak dawn";

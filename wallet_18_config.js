@@ -1,1 +1,1 @@
-var mnemonic = "sun pelican nation maze remove sniff pink cinnamon fuel galaxy motor celery";
+var mnemonic = "scene dog own recipe sting pear leader tiny tree nasty pact fancy";

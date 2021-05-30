@@ -1,1 +1,1 @@
-var mnemonic = "summer enter black weird exercise oyster inherit acid whale develop tomorrow range";
+var mnemonic = "tuna limb swap mind upset switch trust true elegant infant fence skill";

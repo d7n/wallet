@@ -1,1 +1,1 @@
-var mnemonic = "over size horror tackle endless tool advance document endorse vibrant return leopard";
+var mnemonic = "maze person mouse flee air symptom swarm obey clip educate champion tiny";

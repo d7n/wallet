@@ -1,1 +1,1 @@
-var mnemonic = "question always swamp monster wish come flame feature obvious rice magnet rather";
+var mnemonic = "draft quality naive lamp unique doctor script project muscle kingdom dynamic expect";

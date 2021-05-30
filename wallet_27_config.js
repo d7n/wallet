@@ -1,1 +1,1 @@
-var mnemonic = "right citizen cup ripple draft palace board elite double fence solid remind";
+var mnemonic = "sorry road exist wash desert media gift worth all blame soccer genuine";

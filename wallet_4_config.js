@@ -1,1 +1,1 @@
-var mnemonic = "midnight leopard tube orbit fall practice fashion struggle blast inquiry nothing afford";
+var mnemonic = "session swamp record survey aunt offer deny cannon toss mosquito champion nest";

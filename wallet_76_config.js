@@ -1,1 +1,1 @@
-var mnemonic = "grape marble frown average police dragon idea crunch marriage shallow pause patient";
+var mnemonic = "stem surprise process document tooth theme clock vacant physical tip earth machine";

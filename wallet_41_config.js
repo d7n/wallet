@@ -1,1 +1,1 @@
-var mnemonic = "bacon battle outside bachelor ugly payment chronic author sugar tower maid gym";
+var mnemonic = "silent stomach short federal combine empower midnight offer sugar orient topic rival";

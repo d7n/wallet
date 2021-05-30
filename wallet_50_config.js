@@ -1,1 +1,1 @@
-var mnemonic = "soon grid weekend neglect issue rebuild trick wet anchor violin fun result";
+var mnemonic = "engine surround abstract twin major oval scorpion merit soup have trick maze";
