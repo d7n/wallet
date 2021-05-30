@@ -1,1 +1,1 @@
-var mnemonic = "minute baby rabbit clean walnut move breeze radio capable armed caution fury";
+var mnemonic = "also attack blue nut degree tube search track phrase giraffe carbon success";

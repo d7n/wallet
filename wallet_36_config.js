@@ -1,1 +1,1 @@
-var mnemonic = "improve sponsor flock lyrics museum toilet nothing aspect physical travel patient page";
+var mnemonic = "nose aunt ugly paper actor solar document umbrella doctor parent legend pig";

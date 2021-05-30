@@ -1,1 +1,1 @@
-var mnemonic = "easily faith joke liar report orange deliver evil carpet permit dutch square";
+var mnemonic = "stumble desk whisper floor east lumber empower behave pole rare enemy flight";

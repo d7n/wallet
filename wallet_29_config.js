@@ -1,1 +1,1 @@
-var mnemonic = "swear bamboo guess daughter concert come they image layer attack injury cloth";
+var mnemonic = "crouch quarter book into advance tuition decrease half collect camera inside history";

@@ -1,1 +1,1 @@
-var mnemonic = "hire staff dash neglect renew forget add grant drum rural column air";
+var mnemonic = "discover audit anchor spike dial fitness seven until tape tell job spin";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain kick mixture hotel couch expand february stomach ski summer transfer off";
+var mnemonic = "govern oak couch toy moon tackle glove aerobic mimic staff wife slot";

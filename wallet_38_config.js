@@ -1,1 +1,1 @@
-var mnemonic = "upon day wild jeans bind stool voyage lake among middle van vehicle";
+var mnemonic = "often identify link tide drastic assume dinosaur unlock measure immune dwarf document";

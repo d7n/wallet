@@ -1,1 +1,1 @@
-var mnemonic = "cash fish dutch jump dream now method sweet bring fee invest describe";
+var mnemonic = "limb recipe fat pelican enact sort abstract gauge memory off fabric bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant cook window flavor lottery tenant idea angle lucky soap evidence brief";
+var mnemonic = "account blur bottom level elbow laugh unable stock slide midnight robot clean";

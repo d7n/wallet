@@ -1,1 +1,1 @@
-var mnemonic = "chimney coin office powder sausage alter power require artwork have iron pony";
+var mnemonic = "lumber canal marriage endless try okay woman shove dice capital trade dice";

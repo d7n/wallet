@@ -1,1 +1,1 @@
-var mnemonic = "vital ticket voice speed dust village viable tobacco shop there glide man";
+var mnemonic = "sense detect purpose electric prepare purse just focus capable clerk abstract autumn";

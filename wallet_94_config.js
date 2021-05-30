@@ -1,1 +1,1 @@
-var mnemonic = "enemy culture divide couch brief awful noodle census tip rail hammer control";
+var mnemonic = "title raven life tag scorpion output mouse update island include tree inform";

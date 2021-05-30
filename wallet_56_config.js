@@ -1,1 +1,1 @@
-var mnemonic = "crop border knife firm loan boil garlic desert sauce improve child orchard";
+var mnemonic = "ball sight camp bar real pencil occur spot pigeon upon job neck";

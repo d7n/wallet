@@ -1,1 +1,1 @@
-var mnemonic = "beach card divide limb humor nest hire slow bind pool expire still";
+var mnemonic = "fancy long crater sell illegal favorite shy pistol display happy attitude unlock";

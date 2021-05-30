@@ -1,1 +1,1 @@
-var mnemonic = "random minor april layer theme weather clay robust initial wasp ocean silk";
+var mnemonic = "coffee high carpet hurdle turtle rally blue fortune rookie wonder cloud hold";

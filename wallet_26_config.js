@@ -1,1 +1,1 @@
-var mnemonic = "during treat belt onion chief cube credit series grow derive gesture gasp";
+var mnemonic = "regular humor budget work spell silk list snow dolphin dry faith belt";

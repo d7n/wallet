@@ -1,1 +1,1 @@
-var mnemonic = "monitor drastic skirt used arm unfold twist right portion napkin pig couch";
+var mnemonic = "middle snack expose garlic conduct heavy tired catalog detail leopard water close";

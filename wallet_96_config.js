@@ -1,1 +1,1 @@
-var mnemonic = "truly argue jaguar state local clap wish short rich horn eight jazz";
+var mnemonic = "receive size history idle black hint welcome eight thumb spare bar balance";

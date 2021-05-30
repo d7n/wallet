@@ -1,1 +1,1 @@
-var mnemonic = "craft expire frost device motion output author upon october benefit wet runway";
+var mnemonic = "else aim tomorrow calm comic day wait scheme reward labor jelly fall";

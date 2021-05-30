@@ -1,1 +1,1 @@
-var mnemonic = "marine orbit side aisle random cover reward admit mosquito fork service sheriff";
+var mnemonic = "similar energy equip lecture rude addict hunt copy couple concert shift catch";

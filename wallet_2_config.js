@@ -1,1 +1,1 @@
-var mnemonic = "voice circle autumn concert claim below alcohol verb mixture result hip text";
+var mnemonic = "orbit rich flavor original elite capable earn note retire govern end verb";

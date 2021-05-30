@@ -1,1 +1,1 @@
-var mnemonic = "lounge put save suit beach faith survey alley blanket chapter there degree";
+var mnemonic = "transfer web noise net rug board culture prison melt small person icon";

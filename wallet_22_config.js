@@ -1,1 +1,1 @@
-var mnemonic = "tool knife helmet height alpha crew ostrich horse shock leader success demand";
+var mnemonic = "chuckle today okay measure joy banana strategy bright drip lens olive frame";

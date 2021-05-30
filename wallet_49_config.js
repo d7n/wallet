@@ -1,1 +1,1 @@
-var mnemonic = "change cradle shrimp twin genre helmet noble network question obscure practice release";
+var mnemonic = "correct basket critic acid mail sand very any voice tragic enemy robust";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet lake robot energy more thumb brush lab oak clay joy immune";
+var mnemonic = "abandon start art winner identify mobile payment kangaroo melody human promote orchard";

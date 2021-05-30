@@ -1,1 +1,1 @@
-var mnemonic = "wall puzzle sudden horn extend middle outer post genuine sauce peasant whale";
+var mnemonic = "image industry kidney estate mother unique dwarf leave spell tomato boy change";

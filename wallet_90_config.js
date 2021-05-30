@@ -1,1 +1,1 @@
-var mnemonic = "silver produce fantasy crazy awesome dragon tag suit error exile denial spy";
+var mnemonic = "unique exhibit old angry shoulder dial diagram bicycle claim follow narrow cave";

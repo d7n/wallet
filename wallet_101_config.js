@@ -1,1 +1,1 @@
-var mnemonic = "crowd cereal truth infant swallow wrist absurd noble laundry pluck reform health";
+var mnemonic = "cook suit slam unveil denial humor auction dutch skate waste oak cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "tide ball trophy viable step thrive electric dismiss ocean medal tongue resemble";
+var mnemonic = "brush elite gas super vessel above grid morning romance ordinary blouse sunny";

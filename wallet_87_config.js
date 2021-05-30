@@ -1,1 +1,1 @@
-var mnemonic = "voice one slender mechanic option reunion insect math raven person spawn soon";
+var mnemonic = "inside arrange panic puppy ivory sort sibling paper hedgehog army cluster board";

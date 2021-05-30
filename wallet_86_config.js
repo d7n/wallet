@@ -1,1 +1,1 @@
-var mnemonic = "urban square jealous dove sentence gorilla cable beach crumble chalk wild armor";
+var mnemonic = "simple prison dog arm outer blame connect session parent glimpse jar reason";

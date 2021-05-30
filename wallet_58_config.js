@@ -1,1 +1,1 @@
-var mnemonic = "tornado bike frown social school deputy theory category sauce fragile jacket chimney";
+var mnemonic = "vast taste buyer ritual punch crowd body garage diagram unfold crane autumn";

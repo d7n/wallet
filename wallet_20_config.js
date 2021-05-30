@@ -1,1 +1,1 @@
-var mnemonic = "that save leisure deer toss describe cart rail flower shine copy sing";
+var mnemonic = "rebel program frozen head dune judge avocado amused coconut deputy tragic sugar";

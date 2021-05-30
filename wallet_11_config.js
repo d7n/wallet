@@ -1,1 +1,1 @@
-var mnemonic = "retire analyst horror ice recall warfare margin never owner nation stuff exit";
+var mnemonic = "poverty paper already lab crowd sun wonder whisper stairs actress bamboo scatter";

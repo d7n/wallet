@@ -1,1 +1,1 @@
-var mnemonic = "frown response hollow tattoo final valley hurt code defy enough certain ski";
+var mnemonic = "survey elder client business fold height bamboo earn layer end sibling since";

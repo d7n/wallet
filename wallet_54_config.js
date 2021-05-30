@@ -1,1 +1,1 @@
-var mnemonic = "solution own tourist weather north burden science reason bone write impulse weasel";
+var mnemonic = "impose medal thing unusual soft vital fantasy broccoli high setup decide seed";

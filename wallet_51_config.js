@@ -1,1 +1,1 @@
-var mnemonic = "sure alcohol focus expect volcano stay minor note skate guide industry arm";
+var mnemonic = "garlic spoil mixed bid entry indicate color pulse spoon father fantasy naive";

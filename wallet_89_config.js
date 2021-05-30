@@ -1,1 +1,1 @@
-var mnemonic = "monster wool indicate fence pave unlock shoulder flower gravity angle pepper journey";
+var mnemonic = "brave pulse noble oppose visa mirror sauce noise hand traffic athlete van";

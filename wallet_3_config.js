@@ -1,1 +1,1 @@
-var mnemonic = "armor fashion distance sunset vicious elbow blame humble spread demise barely absorb";
+var mnemonic = "clarify alcohol used riot mushroom sight sing patient trade lake dune vacant";

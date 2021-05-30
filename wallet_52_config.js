@@ -1,1 +1,1 @@
-var mnemonic = "equal amused bronze hockey meadow sorry entire vote run license guide anchor";
+var mnemonic = "lava gadget company juice cliff purse rug shallow cheap beyond cricket aware";

@@ -1,1 +1,1 @@
-var mnemonic = "print parrot mercy verify urge weekend drama void prize cry protect calm";
+var mnemonic = "judge multiply nature door admit normal leg venture novel brand gesture august";

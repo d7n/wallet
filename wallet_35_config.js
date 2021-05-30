@@ -1,1 +1,1 @@
-var mnemonic = "prison give main easy start couple stock fatigue hello high inspire update";
+var mnemonic = "gap mercy lyrics mean recipe pink alien mask hello certain bonus warrior";

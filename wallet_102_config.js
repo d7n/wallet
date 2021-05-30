@@ -1,1 +1,1 @@
-var mnemonic = "spy view minor much stage able hedgehog oyster maximum volume token absorb";
+var mnemonic = "monster bunker creek lizard sphere holiday boring gauge arrange loud topple gallery";

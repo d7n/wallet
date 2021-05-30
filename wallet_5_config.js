@@ -1,1 +1,1 @@
-var mnemonic = "middle gap endless swap garage cigar session mother roof extend alcohol muffin";
+var mnemonic = "pupil prepare hazard try explain toast attack floor ten effort laptop rabbit";

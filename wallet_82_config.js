@@ -1,1 +1,1 @@
-var mnemonic = "opinion calm velvet city client athlete merge door print million expose bunker";
+var mnemonic = "lumber library athlete unlock since arrange media ostrich hint depend pair point";

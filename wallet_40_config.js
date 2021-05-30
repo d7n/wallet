@@ -1,1 +1,1 @@
-var mnemonic = "ski duty bless improve insane occur fiscal bird gesture oxygen garlic letter";
+var mnemonic = "route submit million execute orchard tongue social able divorce enact staff dignity";

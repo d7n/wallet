@@ -1,1 +1,1 @@
-var mnemonic = "say wisdom list code weekend swamp slight twenty excess rebel goose feel";
+var mnemonic = "popular foster destroy menu scrap loop bright trumpet lunch strike matrix light";

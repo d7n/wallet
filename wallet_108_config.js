@@ -1,1 +1,1 @@
-var mnemonic = "access sea cause attend oxygen lab travel mouse mountain ordinary dad win";
+var mnemonic = "galaxy ritual depth unique dinner afraid pupil style mirror purpose unable account";

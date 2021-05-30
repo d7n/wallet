@@ -1,1 +1,1 @@
-var mnemonic = "minute royal retire crazy glad hill swallow episode evolve upper thing wear";
+var mnemonic = "error excuse crew inch crunch profit paddle resource happy crunch plastic tent";

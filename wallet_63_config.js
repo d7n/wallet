@@ -1,1 +1,1 @@
-var mnemonic = "embark later behind nothing cabin pyramid elbow elephant shell lawsuit damage dutch";
+var mnemonic = "stage mule object hold old silent engage cool laundry asthma team tooth";

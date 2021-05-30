@@ -1,1 +1,1 @@
-var mnemonic = "you amazing aim crash speed spike buddy perfect level kick hip dragon";
+var mnemonic = "father balcony divorce label coin brave already lend what fall spice camp";

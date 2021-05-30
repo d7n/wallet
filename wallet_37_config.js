@@ -1,1 +1,1 @@
-var mnemonic = "mule piano lunch vendor senior sausage soap visa ski patient result toe";
+var mnemonic = "run divert pen hover brisk broom pottery axis unfair harvest bird average";

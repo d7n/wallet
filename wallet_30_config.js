@@ -1,1 +1,1 @@
-var mnemonic = "earth thumb dish require tunnel sleep select palace ignore charge relax write";
+var mnemonic = "horn drip fire lazy false circle web market shaft vivid atom clarify";

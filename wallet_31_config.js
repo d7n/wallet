@@ -1,1 +1,1 @@
-var mnemonic = "regular duck flee alert attend breeze fame royal glove run pistol true";
+var mnemonic = "pass waste that blur neutral rubber enjoy amount nasty embark true punch";

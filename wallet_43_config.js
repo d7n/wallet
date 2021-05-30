@@ -1,1 +1,1 @@
-var mnemonic = "where consider turkey normal ski custom record oblige south about recipe raw";
+var mnemonic = "object setup file cake local rival depart flip supply pause banana between";

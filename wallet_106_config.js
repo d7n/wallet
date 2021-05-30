@@ -1,1 +1,1 @@
-var mnemonic = "radar holiday wrong length view apart nature tribe fatal road bacon smoke";
+var mnemonic = "crowd adjust escape own glory tape order athlete dilemma delay number snake";

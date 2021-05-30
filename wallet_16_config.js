@@ -1,1 +1,1 @@
-var mnemonic = "razor pear parrot solid salmon measure enlist ocean tilt random cloth music";
+var mnemonic = "practice foil walk moment purpose lake dash maple prosper long arena recycle";

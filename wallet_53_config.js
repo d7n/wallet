@@ -1,1 +1,1 @@
-var mnemonic = "month spring ivory pudding defense wave dynamic despair february tattoo bracket eternal";
+var mnemonic = "elegant maple host mistake patient match light sleep wrong alien art right";

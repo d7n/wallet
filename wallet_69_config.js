@@ -1,1 +1,1 @@
-var mnemonic = "emotion half eight oblige wrong type rose aisle giraffe foster rain combine";
+var mnemonic = "flash cargo fox decline unusual desk rebel soft during speak win impact";

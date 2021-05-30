@@ -1,1 +1,1 @@
-var mnemonic = "picnic airport omit axis chaos consider world sugar siege hotel mind connect";
+var mnemonic = "answer trick all screen useless shove ball rent dutch giggle able feature";

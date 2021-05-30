@@ -1,1 +1,1 @@
-var mnemonic = "possible million sister beef hazard truly hub paper expose candy valve happy";
+var mnemonic = "move price culture sort window modify tomorrow laundry sudden hammer flee laugh";

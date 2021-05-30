@@ -1,1 +1,1 @@
-var mnemonic = "original oval clerk become clock isolate volcano million final piano front oblige";
+var mnemonic = "future place anxiety treat immune dignity leaf sadness equal reason ridge off";

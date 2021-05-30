@@ -1,1 +1,1 @@
-var mnemonic = "pilot fat slide venture tennis inherit vast embody brush marriage trash tray";
+var mnemonic = "spell half cricket audit knife patient novel lamp novel travel cause ribbon";

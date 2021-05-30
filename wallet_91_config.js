@@ -1,1 +1,1 @@
-var mnemonic = "suffer rural survey axis team horse chief much leader proof flight chalk";
+var mnemonic = "parent jacket genuine tongue near boost ask ghost layer easily silk differ";

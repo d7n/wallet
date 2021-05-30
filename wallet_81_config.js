@@ -1,1 +1,1 @@
-var mnemonic = "canoe tool flip arrive endorse april security ghost arrive shine search liar";
+var mnemonic = "tip isolate music region theory prosper riot coast truck pudding item gather";

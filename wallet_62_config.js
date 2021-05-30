@@ -1,1 +1,1 @@
-var mnemonic = "jump bean evolve usage between eternal run chest lamp other ring olympic";
+var mnemonic = "resource staff ship analyst town shiver fresh common potato expect height click";

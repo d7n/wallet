@@ -1,1 +1,1 @@
-var mnemonic = "decorate panel crowd truth step erupt coast coin above gold surprise cave";
+var mnemonic = "bunker joke ketchup pigeon kind dutch process people orchard uncle tattoo purity";

@@ -1,1 +1,1 @@
-var mnemonic = "goose adapt defy field state wire tank world summer asthma account paddle";
+var mnemonic = "trap still witness current oil lunch state congress priority carry dizzy clay";

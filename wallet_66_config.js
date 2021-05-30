@@ -1,1 +1,1 @@
-var mnemonic = "okay expire refuse feed shift rate surround laptop unhappy grow soul step";
+var mnemonic = "flavor alert leg obscure cheap worry divert rude short grain try piano";

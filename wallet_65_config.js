@@ -1,1 +1,1 @@
-var mnemonic = "saddle word pupil web action during inspire key this civil nothing discover";
+var mnemonic = "rescue turkey crucial student ozone modify cabin tortoise ladder damage absent addict";

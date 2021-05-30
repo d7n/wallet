@@ -1,1 +1,1 @@
-var mnemonic = "grid tortoise near angle alpha above exhibit produce police swap essay visa";
+var mnemonic = "world hurry aim science useless spend velvet eyebrow panic brother april inch";

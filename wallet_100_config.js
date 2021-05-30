@@ -1,1 +1,1 @@
-var mnemonic = "essence key thank similar hurdle employ elevator hat attack chapter tuition evil";
+var mnemonic = "seven argue umbrella say proud general carry maze vendor family truly focus";

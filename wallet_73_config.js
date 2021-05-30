@@ -1,1 +1,1 @@
-var mnemonic = "harsh physical crack screen mandate need island cake blast sauce embody install";
+var mnemonic = "radio loop yellow meadow flee infant recipe sunny mechanic riot magnet act";

@@ -1,1 +1,1 @@
-var mnemonic = "pass amateur rate shock relax talent one tube that planet lion public";
+var mnemonic = "eager rally task rib bubble clarify divert grit snow beach switch drama";

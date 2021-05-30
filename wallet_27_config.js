@@ -1,1 +1,1 @@
-var mnemonic = "curious nose panther tomato never cram sentence scrub adult van high velvet";
+var mnemonic = "spot resemble sand disorder dune trip clip treat bind corn nasty top";

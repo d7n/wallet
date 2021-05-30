@@ -1,1 +1,1 @@
-var mnemonic = "wonder leader amused cup zebra iron frequent honey borrow tray that jungle";
+var mnemonic = "train cover champion smile exile ramp very rebuild valley eager virtual become";

@@ -1,1 +1,1 @@
-var mnemonic = "legal draw pistol flee cliff will winner flush tattoo report balcony release";
+var mnemonic = "swear depart mass essence bunker upper riot immense where book bus acquire";

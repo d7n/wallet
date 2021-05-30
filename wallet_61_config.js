@@ -1,1 +1,1 @@
-var mnemonic = "reopen office width space toe cliff upset help warrior nephew neglect anchor";
+var mnemonic = "tower coral genius abstract royal march hunt just glimpse dust lens vacant";

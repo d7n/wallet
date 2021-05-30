@@ -1,1 +1,1 @@
-var mnemonic = "brand whip shy magnet total tomorrow equip submit often maple cigar cube";
+var mnemonic = "middle latin sorry hollow summer capable afford spice truck outer cherry reward";

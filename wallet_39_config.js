@@ -1,1 +1,1 @@
-var mnemonic = "screen outside pigeon dignity story wet inch junk guitar praise bonus pluck";
+var mnemonic = "extend cube kidney diet length below peanut ask lumber hair hover congress";

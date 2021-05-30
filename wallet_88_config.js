@@ -1,1 +1,1 @@
-var mnemonic = "uphold ahead lizard crane shrimp amount tumble exhibit antique sense giggle pottery";
+var mnemonic = "remind unlock team expand million comfort forward rain jar ladder local spatial";

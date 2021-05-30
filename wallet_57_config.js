@@ -1,1 +1,1 @@
-var mnemonic = "snake envelope body physical join panel picture master meadow elbow avoid wrestle";
+var mnemonic = "tobacco delay outside gravity burden castle rebel sick strike figure book crater";

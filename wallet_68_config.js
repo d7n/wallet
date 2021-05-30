@@ -1,1 +1,1 @@
-var mnemonic = "approve symptom render blur teach fine mango relax sauce buddy crucial share";
+var mnemonic = "celery flush cannon steel mad round venture segment castle vessel jungle damp";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky before one soup obvious bind amateur profit ecology off unknown diesel";
+var mnemonic = "imitate dragon fiber syrup program miracle job list hill genuine security spare";

@@ -1,1 +1,1 @@
-var mnemonic = "angry first tackle clump video virtual symbol cement stairs february holiday member";
+var mnemonic = "party cattle grid bridge clap cruise vault blossom pole around tennis famous";

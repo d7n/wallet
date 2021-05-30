@@ -1,1 +1,1 @@
-var mnemonic = "ugly width web critic dentist opera bundle tail solid miss hat flat";
+var mnemonic = "trip merit clump tourist pizza stable pig ridge chicken female muffin talk";

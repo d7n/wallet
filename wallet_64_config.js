@@ -1,1 +1,1 @@
-var mnemonic = "turkey hammer erode two galaxy steak health super sport keep improve valley";
+var mnemonic = "afford tell cause talk stamp fit bamboo harvest wave exist repeat hurdle";

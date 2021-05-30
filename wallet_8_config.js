@@ -1,1 +1,1 @@
-var mnemonic = "onion one slot ostrich dice dirt mutual resource special what gesture good";
+var mnemonic = "weapon author banner rail opera theory cute furnace enact help board violin";
