@@ -1,1 +1,1 @@
-var mnemonic = "absent offer wall company inner toss bounce keep wrestle silver rare loyal";
+var mnemonic = "version cream elevator manual mandate stable miracle loan donkey coral august middle";

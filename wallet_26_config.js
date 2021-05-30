@@ -1,1 +1,1 @@
-var mnemonic = "intact ceiling sand vivid double enemy core useless october cost salad kiss";
+var mnemonic = "quarter electric agree include nasty piano play verb print toilet busy duty";

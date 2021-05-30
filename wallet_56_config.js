@@ -1,1 +1,1 @@
-var mnemonic = "wink version creek leave doctor section argue vapor era acoustic switch alcohol";
+var mnemonic = "enforce clay adapt toward brave novel stay example profit final cable cereal";

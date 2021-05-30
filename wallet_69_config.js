@@ -1,1 +1,1 @@
-var mnemonic = "nice steak couple travel capital size tiger slot amazing sand velvet check";
+var mnemonic = "drastic oppose later good observe attitude deny bachelor shadow mandate swim salute";

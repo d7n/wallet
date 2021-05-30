@@ -1,1 +1,1 @@
-var mnemonic = "symbol multiply lava album gentle skin garment demise escape curious decade left";
+var mnemonic = "gauge equal fabric code behave valid clip vault mosquito remember sample biology";

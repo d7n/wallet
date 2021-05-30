@@ -1,1 +1,1 @@
-var mnemonic = "unhappy chunk hollow shy oval kid come assault income impose feed dove";
+var mnemonic = "purpose fabric right march walnut income hope poem bamboo engage clock aerobic";

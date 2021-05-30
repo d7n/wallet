@@ -1,1 +1,1 @@
-var mnemonic = "offer misery leopard aerobic put rifle now pull cube enhance amount embrace";
+var mnemonic = "stick mammal help gun mobile garden giant float same ahead inmate message";

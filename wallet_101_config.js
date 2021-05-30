@@ -1,1 +1,1 @@
-var mnemonic = "spray gesture barrel beyond sell problem forum quit night other pet fatigue";
+var mnemonic = "choice topic penalty tattoo topple wisdom congress apology offer summer make habit";

@@ -1,1 +1,1 @@
-var mnemonic = "grace lens salad gaze material muffin always flower knock toward convince pole";
+var mnemonic = "movie margin scare prevent base dutch urge stadium small wisdom eternal wrist";

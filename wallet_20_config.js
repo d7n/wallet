@@ -1,1 +1,1 @@
-var mnemonic = "adjust flock weapon sugar hair sea sustain olympic lunch various shiver treat";
+var mnemonic = "already indoor tower typical eight protect wreck party harvest crunch embody leave";

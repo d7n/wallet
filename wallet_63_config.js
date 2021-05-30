@@ -1,1 +1,1 @@
-var mnemonic = "loyal robust miss reduce wine master spare chunk task boil usage tank";
+var mnemonic = "tornado remind gold hotel universe raven pulp exit story shed render clerk";

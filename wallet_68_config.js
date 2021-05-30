@@ -1,1 +1,1 @@
-var mnemonic = "volume range blast congress debris canoe proud inner always trend claw attend";
+var mnemonic = "review document puppy portion ripple hundred silk embody wrist boost vendor siege";

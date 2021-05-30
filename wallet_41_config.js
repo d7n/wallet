@@ -1,1 +1,1 @@
-var mnemonic = "donor satisfy record orient demand hero pair soda custom sugar private boy";
+var mnemonic = "buzz matter body sport repair pluck mechanic pass unveil become egg venue";

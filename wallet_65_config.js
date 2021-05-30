@@ -1,1 +1,1 @@
-var mnemonic = "token crunch glove deliver match column ladder image dog inherit remove asset";
+var mnemonic = "spy leg tool sheriff green valid lizard false rhythm legal bounce arrange";

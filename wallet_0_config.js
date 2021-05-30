@@ -1,1 +1,1 @@
-var mnemonic = "elephant inject north column plug repeat hobby away loan round offer solve";
+var mnemonic = "umbrella chef wealth photo cost ice off valid emerge jealous pony impact";

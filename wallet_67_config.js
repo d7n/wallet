@@ -1,1 +1,1 @@
-var mnemonic = "inside laptop hobby donate crane example now script hollow special brother fly";
+var mnemonic = "abstract convince unlock pole change remain auction upper box canal trumpet key";

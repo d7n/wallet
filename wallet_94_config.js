@@ -1,1 +1,1 @@
-var mnemonic = "hen rhythm layer arctic sausage march pride voice term spray wave normal";
+var mnemonic = "want draft senior wrong illegal slim sand wild endless damage boss rookie";

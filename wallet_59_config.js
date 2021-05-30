@@ -1,1 +1,1 @@
-var mnemonic = "interest scale anxiety army tilt upset hard inherit rose wheat torch giraffe";
+var mnemonic = "train pet explain jealous night glide sheriff jazz fence mixed raccoon destroy";

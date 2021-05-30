@@ -1,1 +1,1 @@
-var mnemonic = "shuffle divorce gorilla artwork gentle churn lemon minute harbor maid sniff problem";
+var mnemonic = "churn wreck correct employ cattle type early false online glow refuse hurt";

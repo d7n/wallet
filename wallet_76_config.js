@@ -1,1 +1,1 @@
-var mnemonic = "client repeat divide pink lava spell border jungle garage cement pudding coconut";
+var mnemonic = "matrix trouble page news kiwi enact fluid scheme blood spot unusual satoshi";

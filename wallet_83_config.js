@@ -1,1 +1,1 @@
-var mnemonic = "place swift dose chuckle health punch tooth royal ecology wreck idle bless";
+var mnemonic = "mandate now judge parent liar color habit poverty strategy satoshi flavor citizen";

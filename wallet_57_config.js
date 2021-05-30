@@ -1,1 +1,1 @@
-var mnemonic = "balance rice syrup manage swift question escape help resource track shop edge";
+var mnemonic = "middle heavy surprise snap address library surge feed now humble donor legal";

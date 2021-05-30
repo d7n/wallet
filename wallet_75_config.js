@@ -1,1 +1,1 @@
-var mnemonic = "gain tip school choose oak army engine gospel blur noodle devote pioneer";
+var mnemonic = "vendor blue ostrich smoke napkin whale prison wish disease merry nuclear color";

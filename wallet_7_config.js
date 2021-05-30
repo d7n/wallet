@@ -1,1 +1,1 @@
-var mnemonic = "mother rigid daring crew example patch call nephew replace index bring dog";
+var mnemonic = "trouble spray twelve venue intact found glimpse liar appear song flat other";

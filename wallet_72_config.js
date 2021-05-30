@@ -1,1 +1,1 @@
-var mnemonic = "avocado leader tobacco feature evidence amount female volcano mirror phone demise agent";
+var mnemonic = "picture door fever slogan over square steel bargain trend hundred cool dad";

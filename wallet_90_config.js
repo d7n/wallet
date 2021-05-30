@@ -1,1 +1,1 @@
-var mnemonic = "canal country cupboard giggle still sad quick noble lottery aisle wealth whale";
+var mnemonic = "away knock machine loyal trick clock parade ladder lonely sick shadow science";

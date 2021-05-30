@@ -1,1 +1,1 @@
-var mnemonic = "few convince turn broom survey enforce popular enforce scale sword check idle";
+var mnemonic = "tennis nice invest custom hub royal like can used type naive music";

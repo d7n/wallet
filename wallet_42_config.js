@@ -1,1 +1,1 @@
-var mnemonic = "document say february limb rice pond short waste exact unfair health small";
+var mnemonic = "double goddess sweet salmon safe powder term match amused trial smart board";

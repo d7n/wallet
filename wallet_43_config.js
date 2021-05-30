@@ -1,1 +1,1 @@
-var mnemonic = "rapid toward rubber cream cave example fat give manual misery clip park";
+var mnemonic = "birth sketch idle cash exercise breeze afraid possible chair retreat rubber allow";

@@ -1,1 +1,1 @@
-var mnemonic = "erase rural index visa stumble legal test galaxy symbol group check inner";
+var mnemonic = "net tackle above yard about various rice era include soon rough expire";

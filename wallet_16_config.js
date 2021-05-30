@@ -1,1 +1,1 @@
-var mnemonic = "book camera organ amazing hurry depart shed lounge glare obvious casino awake";
+var mnemonic = "legend trap dash lady degree promote stay aim trust find lobster pilot";

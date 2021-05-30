@@ -1,1 +1,1 @@
-var mnemonic = "clarify dance hint curve wave fury angle mammal doll chunk inside check";
+var mnemonic = "total trim chaos renew help scheme shrimp cup amount lamp casino friend";

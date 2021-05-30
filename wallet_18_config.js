@@ -1,1 +1,1 @@
-var mnemonic = "human inject slender moral bus alter lonely program extra bomb rapid produce";
+var mnemonic = "number embrace couch end luxury will nest law mesh glass survey wise";

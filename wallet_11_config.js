@@ -1,1 +1,1 @@
-var mnemonic = "outdoor issue acoustic author banana aim jazz trouble pen design vibrant hamster";
+var mnemonic = "arrest script soccer hour proud paddle exotic grace yard grocery swift horse";

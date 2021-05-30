@@ -1,1 +1,1 @@
-var mnemonic = "frequent come romance flower mixed riot size spray occur tent pyramid resemble";
+var mnemonic = "disorder brand parrot rally improve fresh country hover poem where truly oven";

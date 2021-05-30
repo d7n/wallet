@@ -1,1 +1,1 @@
-var mnemonic = "normal load chaos biology sort hold setup sunny lobster wonder suggest culture";
+var mnemonic = "excite vessel mimic crowd actual happy audit organ shine coach wool dish";

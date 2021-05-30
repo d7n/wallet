@@ -1,1 +1,1 @@
-var mnemonic = "spot spot fancy bracket vague abuse rib soldier swap certain gym someone";
+var mnemonic = "embrace suffer sign scale axis discover extra tip clay fever present cattle";

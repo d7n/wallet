@@ -1,1 +1,1 @@
-var mnemonic = "pluck airport argue retire pond lamp element trial skill athlete scorpion wheat";
+var mnemonic = "paper punch venue digital duty frog sport good exile guard certain hotel";

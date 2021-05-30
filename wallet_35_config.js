@@ -1,1 +1,1 @@
-var mnemonic = "vacuum voice garbage great glare dream explain portion poem school ready lady";
+var mnemonic = "much purpose easily truth timber wage lazy defense adult divorce simple rich";

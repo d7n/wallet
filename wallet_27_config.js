@@ -1,1 +1,1 @@
-var mnemonic = "era finish fashion before foot mass virtual type silk exercise chronic ceiling";
+var mnemonic = "rookie cat crumble search damp cruel disagree pipe company vast hollow rather";

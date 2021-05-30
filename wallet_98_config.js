@@ -1,1 +1,1 @@
-var mnemonic = "banana episode rely absent problem prize column tent say swallow celery pride";
+var mnemonic = "milk hand autumn brain draft cousin banana dust tail tell improve work";

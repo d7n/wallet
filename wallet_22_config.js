@@ -1,1 +1,1 @@
-var mnemonic = "bright rocket panic palm gaze guess exist ahead phone yellow voyage silver";
+var mnemonic = "lend focus clog spirit leader execute mass toss reunion solution sustain motor";

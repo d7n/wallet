@@ -1,1 +1,1 @@
-var mnemonic = "ready document aisle exit casual violin tissue clump spoon erase injury cloth";
+var mnemonic = "veteran jar heavy video guide notice pass fade cycle style again sock";

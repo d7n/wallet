@@ -1,1 +1,1 @@
-var mnemonic = "donate decrease weird pact push lamp argue engage ride ten mad kid";
+var mnemonic = "present gather pioneer second clever moral must hedgehog year amused autumn noise";

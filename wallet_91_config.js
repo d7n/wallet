@@ -1,1 +1,1 @@
-var mnemonic = "leg relief pyramid sure visual leave business mistake hat leopard concert soft";
+var mnemonic = "virus voice clever medal image century grit token like caution pumpkin tackle";

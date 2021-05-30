@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ramp drastic eagle sand describe fat extra assume chicken review visa";
+var mnemonic = "link around soft huge main helmet jacket sure stool trim nice rabbit";

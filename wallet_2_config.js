@@ -1,1 +1,1 @@
-var mnemonic = "cram cost vote turkey inject chapter love game awake retreat lamp harsh";
+var mnemonic = "abandon inhale amused exhaust sand junior since lawn nasty attitude grab gate";

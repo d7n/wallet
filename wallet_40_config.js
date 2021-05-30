@@ -1,1 +1,1 @@
-var mnemonic = "famous hundred mother forest mask almost crowd grass pause dish sponsor inject";
+var mnemonic = "energy liquid actress involve boil congress dial upgrade face fit cabin slam";

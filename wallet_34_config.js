@@ -1,1 +1,1 @@
-var mnemonic = "visa armor ready extend calm kick chimney festival apart solar robot dice";
+var mnemonic = "hint bounce cost labor gap vanish film cabbage country piece public jaguar";

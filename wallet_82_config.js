@@ -1,1 +1,1 @@
-var mnemonic = "supply unfold thank seek prize meat what write design sing era arrange";
+var mnemonic = "disorder perfect click fashion shuffle cliff source cloth winter bread fever hard";

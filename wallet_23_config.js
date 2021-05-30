@@ -1,1 +1,1 @@
-var mnemonic = "depth best portion slender sound edge inspire gesture remember small express symptom";
+var mnemonic = "dry journey hello grow wait noble dry conduct cry raw human obvious";

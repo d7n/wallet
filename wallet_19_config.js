@@ -1,1 +1,1 @@
-var mnemonic = "junior grass broccoli dolphin void range exile rug garment sight circle elder";
+var mnemonic = "craft advice burden wrap quality easily oval draft ordinary nothing chronic tag";

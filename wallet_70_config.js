@@ -1,1 +1,1 @@
-var mnemonic = "tornado carry limb bleak giraffe measure trim address chef dolphin company other";
+var mnemonic = "material universe immense turkey silk hidden tenant elite butter into recipe swear";

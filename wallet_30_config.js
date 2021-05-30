@@ -1,1 +1,1 @@
-var mnemonic = "lonely legend hobby card bulb document flush load jelly whisper tackle save";
+var mnemonic = "umbrella misery west shift polar project bicycle bottom emerge cry cannon green";

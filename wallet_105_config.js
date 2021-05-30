@@ -1,1 +1,1 @@
-var mnemonic = "reject february kitchen autumn rabbit special trash ahead silver chief december path";
+var mnemonic = "legend tone gentle limb car defy stone food wine news limb critic";

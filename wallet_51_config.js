@@ -1,1 +1,1 @@
-var mnemonic = "shoe final banner eyebrow master practice depend remain open appear tower torch";
+var mnemonic = "reunion caution divorce display local figure sight original wine knife stock jar";

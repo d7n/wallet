@@ -1,1 +1,1 @@
-var mnemonic = "fold nerve diary ozone wagon family excess canal custom wolf taste margin";
+var mnemonic = "warm abandon pause faint average chalk track twin drastic movie planet mosquito";

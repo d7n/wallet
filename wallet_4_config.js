@@ -1,1 +1,1 @@
-var mnemonic = "jelly later laptop symptom dinner fortune physical animal broken whale song jelly";
+var mnemonic = "organ only anchor smart level confirm rocket crouch holiday lift plate corn";

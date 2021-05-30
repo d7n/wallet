@@ -1,1 +1,1 @@
-var mnemonic = "please erosion fabric inquiry clog glory network unaware bullet refuse tip text";
+var mnemonic = "that bounce choose unfold ripple blue lawsuit mixed slim surprise float mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "area okay frequent promote vivid access payment vocal soda loop layer quarter";
+var mnemonic = "extra reveal major nation lunch voyage busy foot purity pelican borrow noise";

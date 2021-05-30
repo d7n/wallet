@@ -1,1 +1,1 @@
-var mnemonic = "receive almost alpha peanut column donate quit prosper merge ignore window logic";
+var mnemonic = "faculty patient smooth pole work pottery wonder welcome result enrich eternal estate";

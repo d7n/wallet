@@ -1,1 +1,1 @@
-var mnemonic = "cluster unfair wool beach weapon cotton bachelor essay level elevator camp lonely";
+var mnemonic = "surround aerobic know accuse acid cargo chief use midnight man park oxygen";

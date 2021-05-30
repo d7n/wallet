@@ -1,1 +1,1 @@
-var mnemonic = "wild estate forest sponsor scout trumpet parent win draft rack garlic poem";
+var mnemonic = "business symbol column urge carbon diesel run elder inner boost border asset";

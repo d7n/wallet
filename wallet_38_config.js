@@ -1,1 +1,1 @@
-var mnemonic = "purse allow park future torch endless fade pudding symptom truth series fever";
+var mnemonic = "curtain decade opinion liquid prosper void snack evidence deer original dismiss clap";

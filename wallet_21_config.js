@@ -1,1 +1,1 @@
-var mnemonic = "intact sentence envelope escape cry seat affair embody stool assault foil father";
+var mnemonic = "enforce spray subway measure above bitter enough garage defy convince access amateur";

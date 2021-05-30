@@ -1,1 +1,1 @@
-var mnemonic = "exist mechanic balance wise only convince resist orphan path length tissue region";
+var mnemonic = "will hazard clutch garment gallery damp correct love slide three quote media";

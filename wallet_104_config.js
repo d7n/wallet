@@ -1,1 +1,1 @@
-var mnemonic = "spell unable vocal turkey envelope scrap decide easily rather year lonely bamboo";
+var mnemonic = "tank lunar thunder defense together tape now family horror rescue provide stone";

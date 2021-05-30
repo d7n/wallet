@@ -1,1 +1,1 @@
-var mnemonic = "mule stove submit amazing kiss devote soon panel air group source denial";
+var mnemonic = "liquid medal job just age alone tribe protect tide february harsh holiday";

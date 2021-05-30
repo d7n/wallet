@@ -1,1 +1,1 @@
-var mnemonic = "final blouse beef soccer bottom autumn lounge awkward pool because lounge upgrade";
+var mnemonic = "dice update similar merit umbrella tag before grief tree blur grace tired";

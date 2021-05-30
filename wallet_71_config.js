@@ -1,1 +1,1 @@
-var mnemonic = "maple orbit east spike patient wrestle dumb pet practice shiver thunder often";
+var mnemonic = "hair laugh enemy weasel pen border catalog potato enlist weather race help";

@@ -1,1 +1,1 @@
-var mnemonic = "siren fresh rent process leg hand profit funny update indicate sound hand";
+var mnemonic = "helmet tiger energy acquire false until blue undo tenant illegal during empty";

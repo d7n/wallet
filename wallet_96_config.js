@@ -1,1 +1,1 @@
-var mnemonic = "uncle visa brush apart wish chunk electric equip grunt corn order motor";
+var mnemonic = "small royal wisdom surge armor all three talk swamp river float supply";

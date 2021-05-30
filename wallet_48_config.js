@@ -1,1 +1,1 @@
-var mnemonic = "cat gravity rain during proud original civil essay turkey fiber dune used";
+var mnemonic = "vivid alarm trumpet police machine ensure scrub remember order blouse swift cart";

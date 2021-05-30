@@ -1,1 +1,1 @@
-var mnemonic = "movie unlock bargain tornado name sand predict run fashion garment walnut sibling";
+var mnemonic = "absurd arm question video spare update uncover practice veteran sibling guilt naive";

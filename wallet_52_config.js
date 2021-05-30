@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dust air border odor drip spare violin alley soda coach capital";
+var mnemonic = "pupil suspect fruit word shine employ amazing sock ketchup detail rate royal";

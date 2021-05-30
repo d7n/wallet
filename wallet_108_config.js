@@ -1,1 +1,1 @@
-var mnemonic = "normal dismiss bubble rack hair wrong duty beyond pass exact mention vendor";
+var mnemonic = "soup lonely end inmate tide unique stable nasty merry sound orient foam";

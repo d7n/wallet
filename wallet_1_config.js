@@ -1,1 +1,1 @@
-var mnemonic = "reveal mountain seed village together obtain brick problem page glad morning panda";
+var mnemonic = "robust number dismiss text pen narrow crash lava abuse pig enough zone";

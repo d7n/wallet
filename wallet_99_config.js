@@ -1,1 +1,1 @@
-var mnemonic = "pistol leopard universe panda people mother interest entry zero beyond roast grape";
+var mnemonic = "arctic kidney wheat segment energy festival syrup hollow inspire zero bomb filter";

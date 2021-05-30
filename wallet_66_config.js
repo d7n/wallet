@@ -1,1 +1,1 @@
-var mnemonic = "then dutch accident erase copper stand lucky blame pumpkin glare dolphin business";
+var mnemonic = "nothing scatter unknown setup protect ghost deputy result cube host vacuum desert";

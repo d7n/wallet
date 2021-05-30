@@ -1,1 +1,1 @@
-var mnemonic = "coach photo can apology funny plug inspire cheap caught invite sketch stay";
+var mnemonic = "decide leopard fat survey claim best obscure purity attend movie job churn";

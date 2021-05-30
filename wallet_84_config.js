@@ -1,1 +1,1 @@
-var mnemonic = "enhance zero acoustic sudden palm pepper pipe north orchard kiss iron question";
+var mnemonic = "fit curious wreck doctor harbor climb carpet person harbor clown garage window";

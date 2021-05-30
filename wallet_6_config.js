@@ -1,1 +1,1 @@
-var mnemonic = "foster devote kick scare link clap oyster lemon harbor luxury mail debate";
+var mnemonic = "bachelor grunt sign theory blue patrol jeans champion taxi success tenant able";

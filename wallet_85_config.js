@@ -1,1 +1,1 @@
-var mnemonic = "decrease gossip loan shoulder adjust version pulp sentence garment one vital diamond";
+var mnemonic = "rate share ranch dress inject common reject scorpion summer diary arm tragic";

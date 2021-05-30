@@ -1,1 +1,1 @@
-var mnemonic = "subject soap junk crystal relax energy satisfy knee forum hurdle diamond there";
+var mnemonic = "fade erode saddle vintage frozen wink scissors accuse meat outside roof pyramid";

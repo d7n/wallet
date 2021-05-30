@@ -1,1 +1,1 @@
-var mnemonic = "magnet original dolphin garage spin universe grace electric mango nation deputy autumn";
+var mnemonic = "hair excite salt meat december code shuffle portion pudding slab submit foil";

@@ -1,1 +1,1 @@
-var mnemonic = "razor duty hard empower opera note survey step volume crop fever hire";
+var mnemonic = "student virtual inject knee bid finger life live obey achieve gas fiber";

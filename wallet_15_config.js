@@ -1,1 +1,1 @@
-var mnemonic = "pave dirt lend salad alert orbit debate clump equal fence hedgehog over";
+var mnemonic = "gentle duck satoshi hole myth quote trim smoke cousin add what oblige";

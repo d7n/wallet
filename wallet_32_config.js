@@ -1,1 +1,1 @@
-var mnemonic = "park twelve weather opera brown glass shed camera poverty dumb vacant empty";
+var mnemonic = "icon smooth oil pave tongue faint clump meat pelican couch bacon awful";

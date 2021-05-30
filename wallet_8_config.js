@@ -1,1 +1,1 @@
-var mnemonic = "wonder damage tent bind sea hover story estate lemon apology sure tiger";
+var mnemonic = "sister bunker party leader ugly replace phone gym name eager soldier often";

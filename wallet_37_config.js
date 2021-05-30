@@ -1,1 +1,1 @@
-var mnemonic = "give sound feel drill argue cruel license visit bulb close crowd rent";
+var mnemonic = "robot pig then truck entry observe price armed stereo symbol thank drift";

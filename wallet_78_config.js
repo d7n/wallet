@@ -1,1 +1,1 @@
-var mnemonic = "favorite bulk rain minimum kidney festival primary taste twenty neglect limit special";
+var mnemonic = "egg jaguar ivory off cloth estate kid diary boat tragic example stable";
