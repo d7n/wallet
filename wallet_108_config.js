@@ -1,1 +1,1 @@
-var mnemonic = "light impose problem cute desk enemy faculty become clump habit rich glimpse";
+var mnemonic = "access sea cause attend oxygen lab travel mouse mountain ordinary dad win";

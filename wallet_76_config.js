@@ -1,1 +1,1 @@
-var mnemonic = "cube fly track give faith noise upper filter multiply interest luggage point";
+var mnemonic = "learn match neglect library march evidence response state wheel slot kind between";

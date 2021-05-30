@@ -1,1 +1,1 @@
-var mnemonic = "canoe survey strike ocean sister angle hard inflict student lunar learn conduct";
+var mnemonic = "lounge put save suit beach faith survey alley blanket chapter there degree";

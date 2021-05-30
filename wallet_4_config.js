@@ -1,1 +1,1 @@
-var mnemonic = "toss extra rigid into clip almost inmate item civil truly galaxy dress";
+var mnemonic = "ugly width web critic dentist opera bundle tail solid miss hat flat";

@@ -1,1 +1,1 @@
-var mnemonic = "solid work income there melt maze recipe liar culture quote leopard strategy";
+var mnemonic = "approve symptom render blur teach fine mango relax sauce buddy crucial share";

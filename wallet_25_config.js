@@ -1,1 +1,1 @@
-var mnemonic = "true bean vault actor true peace either copy alpha aunt humble future";
+var mnemonic = "tide ball trophy viable step thrive electric dismiss ocean medal tongue resemble";

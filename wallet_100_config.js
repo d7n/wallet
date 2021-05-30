@@ -1,1 +1,1 @@
-var mnemonic = "obey spin tired shiver strong split jacket rookie illness live network gym";
+var mnemonic = "essence key thank similar hurdle employ elevator hat attack chapter tuition evil";

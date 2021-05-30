@@ -1,1 +1,1 @@
-var mnemonic = "hero hurt derive bread hunt check girl clever feature share upgrade brick";
+var mnemonic = "uphold ahead lizard crane shrimp amount tumble exhibit antique sense giggle pottery";

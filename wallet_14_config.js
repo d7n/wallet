@@ -1,1 +1,1 @@
-var mnemonic = "start control idea mountain sadness thunder shed muffin tube motion engine antique";
+var mnemonic = "cash fish dutch jump dream now method sweet bring fee invest describe";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe enter urge solar crucial champion desert utility divide ranch nest liberty";
+var mnemonic = "essay pipe atom man maid apple nut shove canoe pretty skill switch";

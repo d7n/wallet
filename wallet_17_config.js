@@ -1,1 +1,1 @@
-var mnemonic = "first stairs minimum inch oxygen surge quality render affair skill enough host";
+var mnemonic = "minute baby rabbit clean walnut move breeze radio capable armed caution fury";

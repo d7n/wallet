@@ -1,1 +1,1 @@
-var mnemonic = "canoe raw dwarf curious earn follow brand survey shuffle wagon build wasp";
+var mnemonic = "original oval clerk become clock isolate volcano million final piano front oblige";

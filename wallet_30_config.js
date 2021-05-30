@@ -1,1 +1,1 @@
-var mnemonic = "asthma chief sponsor thrive poverty mandate spread focus water powder dash blame";
+var mnemonic = "earth thumb dish require tunnel sleep select palace ignore charge relax write";

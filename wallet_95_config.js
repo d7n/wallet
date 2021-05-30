@@ -1,1 +1,1 @@
-var mnemonic = "water monster immense sea snap three allow parade hedgehog rich code stomach";
+var mnemonic = "easily faith joke liar report orange deliver evil carpet permit dutch square";

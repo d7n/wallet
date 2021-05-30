@@ -1,1 +1,1 @@
-var mnemonic = "kidney rocket foil raven neglect loud gospel hat weather example green else";
+var mnemonic = "mandate such cream elbow forget negative tuna valid human can loud moral";

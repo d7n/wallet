@@ -1,1 +1,1 @@
-var mnemonic = "rent token cherry loud rough toilet number endless camera hamster you pink";
+var mnemonic = "vital ticket voice speed dust village viable tobacco shop there glide man";

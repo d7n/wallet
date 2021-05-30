@@ -1,1 +1,1 @@
-var mnemonic = "minor bicycle aerobic pudding room foil during rich south used dash sword";
+var mnemonic = "during treat belt onion chief cube credit series grow derive gesture gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy noble food weasel deal tool van digital they panda render wealth";
+var mnemonic = "improve sponsor flock lyrics museum toilet nothing aspect physical travel patient page";

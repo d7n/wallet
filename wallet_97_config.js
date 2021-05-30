@@ -1,1 +1,1 @@
-var mnemonic = "pill nothing prefer silly enforce legal panther multiply lake common river below";
+var mnemonic = "frown response hollow tattoo final valley hurt code defy enough certain ski";

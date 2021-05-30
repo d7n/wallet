@@ -1,1 +1,1 @@
-var mnemonic = "salad hazard various favorite elegant record nerve rule merge blossom term normal";
+var mnemonic = "voice one slender mechanic option reunion insect math raven person spawn soon";

@@ -1,1 +1,1 @@
-var mnemonic = "start solar ugly layer dutch chase oblige code wrestle opinion undo afraid";
+var mnemonic = "onion one slot ostrich dice dirt mutual resource special what gesture good";

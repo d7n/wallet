@@ -1,1 +1,1 @@
-var mnemonic = "neutral balcony guilt family nephew eternal pill fence when clump heart effort";
+var mnemonic = "grain bacon popular green thrive cost similar zone nephew mean person differ";

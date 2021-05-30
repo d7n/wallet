@@ -1,1 +1,1 @@
-var mnemonic = "exit neglect flavor toy hair make cereal garment decorate hollow merge sting";
+var mnemonic = "soccer fall route lamp clap cloth bullet jaguar power burger alter oblige";

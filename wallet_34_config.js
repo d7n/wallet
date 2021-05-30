@@ -1,1 +1,1 @@
-var mnemonic = "credit slot foster aware escape ill pyramid photo parrot window maid mobile";
+var mnemonic = "random minor april layer theme weather clay robust initial wasp ocean silk";

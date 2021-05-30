@@ -1,1 +1,1 @@
-var mnemonic = "cargo sort jeans twin hand garbage since rough reveal provide assume bid";
+var mnemonic = "sure alcohol focus expect volcano stay minor note skate guide industry arm";

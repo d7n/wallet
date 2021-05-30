@@ -1,1 +1,1 @@
-var mnemonic = "winter then file hello giggle law salad dolphin shallow road sort sudden";
+var mnemonic = "upon day wild jeans bind stool voyage lake among middle van vehicle";

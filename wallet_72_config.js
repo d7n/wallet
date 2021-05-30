@@ -1,1 +1,1 @@
-var mnemonic = "cradle around oval flash lonely confirm bulb tomorrow track genius divorce walnut";
+var mnemonic = "monitor drastic skirt used arm unfold twist right portion napkin pig couch";

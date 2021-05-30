@@ -1,1 +1,1 @@
-var mnemonic = "hammer mirror meat insane want base typical ride play sponsor cinnamon dust";
+var mnemonic = "spy view minor much stage able hedgehog oyster maximum volume token absorb";

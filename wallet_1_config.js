@@ -1,1 +1,1 @@
-var mnemonic = "melt wreck margin treat arctic helmet infant sorry jazz monster police clap";
+var mnemonic = "bag auction evoke tiger auto combine swift aspect fit federal champion shy";

@@ -1,1 +1,1 @@
-var mnemonic = "census actress great almost shop organ cheese about stock result shift message";
+var mnemonic = "harsh physical crack screen mandate need island cake blast sauce embody install";

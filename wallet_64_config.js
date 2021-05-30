@@ -1,1 +1,1 @@
-var mnemonic = "fame still genre distance color neck list diary people meadow dizzy artefact";
+var mnemonic = "turkey hammer erode two galaxy steak health super sport keep improve valley";

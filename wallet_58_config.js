@@ -1,1 +1,1 @@
-var mnemonic = "inner rally frequent control cheap impact panic whip beach piece excite very";
+var mnemonic = "tornado bike frown social school deputy theory category sauce fragile jacket chimney";

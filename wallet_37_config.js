@@ -1,1 +1,1 @@
-var mnemonic = "mix fix circle recall ticket utility inside universe grunt quote bronze over";
+var mnemonic = "mule piano lunch vendor senior sausage soap visa ski patient result toe";

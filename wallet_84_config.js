@@ -1,1 +1,1 @@
-var mnemonic = "steel rich few shop muffin clump round swamp immune grain outside muscle";
+var mnemonic = "say wisdom list code weekend swamp slight twenty excess rebel goose feel";

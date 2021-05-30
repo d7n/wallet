@@ -1,1 +1,1 @@
-var mnemonic = "shield pledge sword mountain destroy cluster minute gun slide power spider token";
+var mnemonic = "peasant cook window flavor lottery tenant idea angle lucky soap evidence brief";

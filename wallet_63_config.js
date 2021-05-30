@@ -1,1 +1,1 @@
-var mnemonic = "chalk spot define bleak gasp lunar barely topple soul breeze truly strong";
+var mnemonic = "embark later behind nothing cabin pyramid elbow elephant shell lawsuit damage dutch";

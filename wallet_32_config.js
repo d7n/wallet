@@ -1,1 +1,1 @@
-var mnemonic = "hard arrow manual around floor thrive swing wait bag slush item laundry";
+var mnemonic = "picnic airport omit axis chaos consider world sugar siege hotel mind connect";

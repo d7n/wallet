@@ -1,1 +1,1 @@
-var mnemonic = "alpha boring base beyond slide exchange rude change candy medal lyrics alien";
+var mnemonic = "crop border knife firm loan boil garlic desert sauce improve child orchard";

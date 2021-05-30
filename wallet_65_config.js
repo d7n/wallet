@@ -1,1 +1,1 @@
-var mnemonic = "famous exchange enrich other sleep spare vital rough behave patch danger maximum";
+var mnemonic = "saddle word pupil web action during inspire key this civil nothing discover";

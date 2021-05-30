@@ -1,1 +1,1 @@
-var mnemonic = "net festival mind silly pond enroll zoo time assist capital found combine";
+var mnemonic = "prison give main easy start couple stock fatigue hello high inspire update";

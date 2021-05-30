@@ -1,1 +1,1 @@
-var mnemonic = "abandon profit zebra civil secret lava resemble naive oven kangaroo recycle nasty";
+var mnemonic = "wall puzzle sudden horn extend middle outer post genuine sauce peasant whale";

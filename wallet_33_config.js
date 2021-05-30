@@ -1,1 +1,1 @@
-var mnemonic = "utility slot army illegal wisdom sport noise outdoor toe hobby small lemon";
+var mnemonic = "you amazing aim crash speed spike buddy perfect level kick hip dragon";

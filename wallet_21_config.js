@@ -1,1 +1,1 @@
-var mnemonic = "other size advice ability grain month toilet auction alarm wrap adapt because";
+var mnemonic = "chimney coin office powder sausage alter power require artwork have iron pony";

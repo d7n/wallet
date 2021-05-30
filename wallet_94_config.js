@@ -1,1 +1,1 @@
-var mnemonic = "oak live umbrella husband roof subject drink van kid zone nerve cross";
+var mnemonic = "enemy culture divide couch brief awful noodle census tip rail hammer control";

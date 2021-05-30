@@ -1,1 +1,1 @@
-var mnemonic = "style recall festival curtain anger noodle more kitchen disagree buddy shine rent";
+var mnemonic = "wonder leader amused cup zebra iron frequent honey borrow tray that jungle";

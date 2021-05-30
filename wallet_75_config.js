@@ -1,1 +1,1 @@
-var mnemonic = "evolve trouble drastic crisp salad image seven escape soft code large fame";
+var mnemonic = "city blind galaxy south tower believe bubble grief find move mule extra";

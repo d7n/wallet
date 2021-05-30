@@ -1,1 +1,1 @@
-var mnemonic = "brand badge chalk match nerve race spice elegant section column evolve square";
+var mnemonic = "process float slot stock trash ability frame shy celery spring attack drift";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic agree random fault goat pink vague urban brave bullet rapid pencil";
+var mnemonic = "marine orbit side aisle random cover reward admit mosquito fork service sheriff";

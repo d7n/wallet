@@ -1,1 +1,1 @@
-var mnemonic = "ladder issue depart pyramid swamp gorilla sponsor yard crouch struggle album sheriff";
+var mnemonic = "angry first tackle clump video virtual symbol cement stairs february holiday member";

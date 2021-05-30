@@ -1,1 +1,1 @@
-var mnemonic = "ripple country address brand year solar december gossip ball donkey olive fault";
+var mnemonic = "allow virtual sorry smile puzzle remind machine merit actress then company math";

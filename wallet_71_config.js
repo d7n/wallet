@@ -1,1 +1,1 @@
-var mnemonic = "involve world family arrive cram trial icon lizard inside permit turkey initial";
+var mnemonic = "minute royal retire crazy glad hill swallow episode evolve upper thing wear";

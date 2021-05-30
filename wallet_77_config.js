@@ -1,1 +1,1 @@
-var mnemonic = "world false medal execute supreme piece avoid sell cereal evidence session pudding";
+var mnemonic = "invite cricket large drastic already diagram connect exotic stumble possible anger knee";

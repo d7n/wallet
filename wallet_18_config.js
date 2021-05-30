@@ -1,1 +1,1 @@
-var mnemonic = "rocket control immune vacuum useful window crawl sick around tuna cloud option";
+var mnemonic = "lava divert bring way grief security steel tuna foot version phone case";

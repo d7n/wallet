@@ -1,1 +1,1 @@
-var mnemonic = "tree doll shine club harsh exhibit disease board trigger fault hawk speak";
+var mnemonic = "voice circle autumn concert claim below alcohol verb mixture result hip text";

@@ -1,1 +1,1 @@
-var mnemonic = "before gate dynamic sheriff crouch yard among twin room stairs afford endless";
+var mnemonic = "stand walk weapon return eyebrow eternal castle accident amateur twist gorilla stand";

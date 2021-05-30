@@ -1,1 +1,1 @@
-var mnemonic = "buzz flag submit view alien enrich dumb ready tone resist pottery depart";
+var mnemonic = "retire analyst horror ice recall warfare margin never owner nation stuff exit";

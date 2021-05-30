@@ -1,1 +1,1 @@
-var mnemonic = "unfold tuition tissue abuse silent raven topic pride creek talent arrow kangaroo";
+var mnemonic = "hire staff dash neglect renew forget add grant drum rural column air";

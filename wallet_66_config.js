@@ -1,1 +1,1 @@
-var mnemonic = "once expire bar trap example moment maze impose sister clown vintage stereo";
+var mnemonic = "okay expire refuse feed shift rate surround laptop unhappy grow soul step";

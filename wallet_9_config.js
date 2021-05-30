@@ -1,1 +1,1 @@
-var mnemonic = "dumb habit ill setup student off island tree solution protect indoor daughter";
+var mnemonic = "possible million sister beef hazard truly hub paper expose candy valve happy";

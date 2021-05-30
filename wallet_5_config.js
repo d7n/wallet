@@ -1,1 +1,1 @@
-var mnemonic = "gym object gasp vital act clinic abandon load color always that youth";
+var mnemonic = "middle gap endless swap garage cigar session mother roof extend alcohol muffin";

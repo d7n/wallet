@@ -1,1 +1,1 @@
-var mnemonic = "excuse lumber betray cancel regular eager salon fit hamster trick penalty either";
+var mnemonic = "change cradle shrimp twin genre helmet noble network question obscure practice release";

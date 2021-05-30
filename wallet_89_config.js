@@ -1,1 +1,1 @@
-var mnemonic = "force plastic young delay series swallow solution immune combine deliver diesel party";
+var mnemonic = "monster wool indicate fence pave unlock shoulder flower gravity angle pepper journey";

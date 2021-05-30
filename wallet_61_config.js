@@ -1,1 +1,1 @@
-var mnemonic = "under have robot dinner luxury cliff deliver mansion chief lyrics appear fortune";
+var mnemonic = "reopen office width space toe cliff upset help warrior nephew neglect anchor";

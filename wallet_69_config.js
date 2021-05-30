@@ -1,1 +1,1 @@
-var mnemonic = "walk cliff pencil delay easily supply head access auction album slogan chunk";
+var mnemonic = "emotion half eight oblige wrong type rose aisle giraffe foster rain combine";

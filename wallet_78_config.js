@@ -1,1 +1,1 @@
-var mnemonic = "exotic total hunt lumber recall saddle mean manage typical twin home coast";
+var mnemonic = "pass amateur rate shock relax talent one tube that planet lion public";

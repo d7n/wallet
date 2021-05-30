@@ -1,1 +1,1 @@
-var mnemonic = "fence suit first kitten discover shiver borrow social same regular frog hen";
+var mnemonic = "tool knife helmet height alpha crew ostrich horse shock leader success demand";

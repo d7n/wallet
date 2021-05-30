@@ -1,1 +1,1 @@
-var mnemonic = "brown essay salt stock earn wasp fiction wedding forget useful gossip jeans";
+var mnemonic = "save habit decade badge yellow entry excite motor size candy extend hat";

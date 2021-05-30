@@ -1,1 +1,1 @@
-var mnemonic = "small census merry damage image demand vendor milk limit ladder private junior";
+var mnemonic = "radar holiday wrong length view apart nature tribe fatal road bacon smoke";

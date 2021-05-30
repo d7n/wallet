@@ -1,1 +1,1 @@
-var mnemonic = "tribe fitness glide bean during ensure soup cart stable arena corn cradle";
+var mnemonic = "make switch seek split spend apple notable garlic believe credit plastic tattoo";

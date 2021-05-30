@@ -1,1 +1,1 @@
-var mnemonic = "wreck island outer edge salt artefact desert estate solve flavor fit pet";
+var mnemonic = "urban square jealous dove sentence gorilla cable beach crumble chalk wild armor";

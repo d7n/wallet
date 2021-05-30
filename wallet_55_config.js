@@ -1,1 +1,1 @@
-var mnemonic = "wise zone near super conduct build swarm patch anger glory kind grief";
+var mnemonic = "beach card divide limb humor nest hire slow bind pool expire still";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse best idea orient reveal lottery symbol dynamic food debate first draft";
+var mnemonic = "print parrot mercy verify urge weekend drama void prize cry protect calm";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk soon amazing invest unknown record stadium skin hour neutral miss regret";
+var mnemonic = "month spring ivory pudding defense wave dynamic despair february tattoo bracket eternal";

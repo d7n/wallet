@@ -1,1 +1,1 @@
-var mnemonic = "demand dice hire evil horror fame luggage shy decorate stone benefit during";
+var mnemonic = "legal draw pistol flee cliff will winner flush tattoo report balcony release";

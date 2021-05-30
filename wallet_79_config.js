@@ -1,1 +1,1 @@
-var mnemonic = "identify census bike cancel airport rabbit board bid mouse setup okay file";
+var mnemonic = "decorate panel crowd truth step erupt coast coin above gold surprise cave";

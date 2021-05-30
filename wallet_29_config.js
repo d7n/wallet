@@ -1,1 +1,1 @@
-var mnemonic = "perfect sugar fence enforce heart decline metal ginger rocket pipe sign quick";
+var mnemonic = "swear bamboo guess daughter concert come they image layer attack injury cloth";

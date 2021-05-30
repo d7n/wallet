@@ -1,1 +1,1 @@
-var mnemonic = "ignore shuffle angry despair liquid bar prefer shoulder asthma drum bird oval";
+var mnemonic = "brand whip shy magnet total tomorrow equip submit often maple cigar cube";

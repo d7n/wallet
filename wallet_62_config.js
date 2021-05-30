@@ -1,1 +1,1 @@
-var mnemonic = "smart blush tribe pigeon vault mimic elephant trial into crane congress jazz";
+var mnemonic = "jump bean evolve usage between eternal run chest lamp other ring olympic";

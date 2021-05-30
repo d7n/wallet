@@ -1,1 +1,1 @@
-var mnemonic = "ceiling elite girl impact love face describe renew garage just below bicycle";
+var mnemonic = "trumpet lake robot energy more thumb brush lab oak clay joy immune";

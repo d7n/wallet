@@ -1,1 +1,1 @@
-var mnemonic = "gap pilot pepper lumber empty idle motor erase clinic blouse column draft";
+var mnemonic = "where consider turkey normal ski custom record oblige south about recipe raw";

@@ -1,1 +1,1 @@
-var mnemonic = "change glad detail roast oval become toddler pull truly elder gift feed";
+var mnemonic = "crowd cereal truth infant swallow wrist absurd noble laundry pluck reform health";

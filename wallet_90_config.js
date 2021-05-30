@@ -1,1 +1,1 @@
-var mnemonic = "raven domain canal art shell security dad follow fun blossom point digital";
+var mnemonic = "silver produce fantasy crazy awesome dragon tag suit error exile denial spy";

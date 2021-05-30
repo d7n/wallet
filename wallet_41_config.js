@@ -1,1 +1,1 @@
-var mnemonic = "market uphold venture pair nephew smooth panic planet space reward topic suspect";
+var mnemonic = "pilot fat slide venture tennis inherit vast embody brush marriage trash tray";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate potato brand lend fish over grit bulk knee script around agent";
+var mnemonic = "razor pear parrot solid salmon measure enlist ocean tilt random cloth music";

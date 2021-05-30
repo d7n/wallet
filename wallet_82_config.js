@@ -1,1 +1,1 @@
-var mnemonic = "melody ecology now verb sting august raise elder evidence speed unaware prevent";
+var mnemonic = "opinion calm velvet city client athlete merge door print million expose bunker";

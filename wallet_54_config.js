@@ -1,1 +1,1 @@
-var mnemonic = "cluster essay deny hard eager dose forest jaguar catalog receive disorder grain";
+var mnemonic = "solution own tourist weather north burden science reason bone write impulse weasel";

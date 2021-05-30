@@ -1,1 +1,1 @@
-var mnemonic = "cabbage pelican win diamond endless liquid audit episode squirrel crazy cement parade";
+var mnemonic = "fever firm lens toilet surround kick degree raise lion crack once race";

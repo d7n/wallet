@@ -1,1 +1,1 @@
-var mnemonic = "screen private ugly crop energy onion wealth glove work link pet vibrant";
+var mnemonic = "suffer rural survey axis team horse chief much leader proof flight chalk";

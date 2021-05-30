@@ -1,1 +1,1 @@
-var mnemonic = "rail master news predict add vehicle grief pen actress artefact lady mansion";
+var mnemonic = "man evolve tail erosion winter acid mom amateur capital soup hill connect";

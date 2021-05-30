@@ -1,1 +1,1 @@
-var mnemonic = "concert close balcony copy crucial empty flame become abuse riot oxygen chest";
+var mnemonic = "armor fashion distance sunset vicious elbow blame humble spread demise barely absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge photo suspect awesome trial rail casino fog coral awesome garage champion";
+var mnemonic = "sustain kick mixture hotel couch expand february stomach ski summer transfer off";

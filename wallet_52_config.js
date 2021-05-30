@@ -1,1 +1,1 @@
-var mnemonic = "brush neck spirit risk milk double horn source baby avoid rubber entire";
+var mnemonic = "equal amused bronze hockey meadow sorry entire vote run license guide anchor";

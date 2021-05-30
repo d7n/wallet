@@ -1,1 +1,1 @@
-var mnemonic = "key camera flame ozone before bird execute patrol stock spirit fault spring";
+var mnemonic = "snake envelope body physical join panel picture master meadow elbow avoid wrestle";
