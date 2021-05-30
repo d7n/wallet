@@ -1,1 +1,1 @@
-var mnemonic = "night scene era seed radar myth cupboard view river pottery horse together";
+var mnemonic = "cook loop water shoulder tornado off trigger embody library lady limit guilt";

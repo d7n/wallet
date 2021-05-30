@@ -1,1 +1,1 @@
-var mnemonic = "around lonely comic work usual mixed angle robust nose gloom right amused";
+var mnemonic = "cupboard cloth glory daughter host fold betray unit identify paper merit blind";

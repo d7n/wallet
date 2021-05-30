@@ -1,1 +1,1 @@
-var mnemonic = "scatter grab memory song gate rack develop canvas ketchup into sugar syrup";
+var mnemonic = "year special icon shuffle bench leisure claim expand benefit guide festival myself";

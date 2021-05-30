@@ -1,1 +1,1 @@
-var mnemonic = "enjoy unveil one delay misery method episode increase milk family ill hamster";
+var mnemonic = "era deny parent drive drop mother dismiss fat rice thank bundle car";

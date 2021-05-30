@@ -1,1 +1,1 @@
-var mnemonic = "safe century illness acid silent tortoise board captain embark prosper donkey arrange";
+var mnemonic = "ski unable hair canoe split absorb ignore hen anxiety waste general start";

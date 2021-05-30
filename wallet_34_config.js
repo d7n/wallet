@@ -1,1 +1,1 @@
-var mnemonic = "liquid knife express broken life emotion immune door desert dynamic nut ahead";
+var mnemonic = "copper script taste infant bomb genre pill dish civil tribe wave stick";

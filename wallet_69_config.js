@@ -1,1 +1,1 @@
-var mnemonic = "insect pink you rebuild vote name swim garage magnet success quarter cluster";
+var mnemonic = "equal scissors sword organ across symbol dizzy way dove discover winter fringe";

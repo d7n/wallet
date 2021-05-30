@@ -1,1 +1,1 @@
-var mnemonic = "make young replace prison obey insane cluster scare mansion climb cushion armed";
+var mnemonic = "gauge general quick awake script lake spirit renew push stool fabric kidney";

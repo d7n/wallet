@@ -1,1 +1,1 @@
-var mnemonic = "circle bamboo oak omit ocean enable own cactus picnic limb push junior";
+var mnemonic = "alcohol hotel derive local confirm desert early age thumb door sleep fetch";

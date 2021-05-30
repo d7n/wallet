@@ -1,1 +1,1 @@
-var mnemonic = "shed liquid ill female entire habit crew plastic tent flat abstract coach";
+var mnemonic = "install hat winter rice nothing neither dolphin promote metal square time clap";

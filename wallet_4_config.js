@@ -1,1 +1,1 @@
-var mnemonic = "tree shaft insect abuse there they jungle globe deliver cabin reason hub";
+var mnemonic = "layer hunt time artist genius fine lounge wasp estate dynamic garage police";

@@ -1,1 +1,1 @@
-var mnemonic = "october evolve protect tray lesson drink involve tuition dutch primary success radar";
+var mnemonic = "obtain involve grid way swamp have output wink vintage merry doll rhythm";

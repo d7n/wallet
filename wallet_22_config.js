@@ -1,1 +1,1 @@
-var mnemonic = "rigid invite phrase patch shoulder monster build control plunge fruit exist horn";
+var mnemonic = "drill feel peace bounce raise mix believe approve viable tree protect swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "mango web debate minimum someone obvious track dust scorpion evidence staff system";
+var mnemonic = "ketchup flip piano orphan predict holiday name place common army mix census";

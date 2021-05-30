@@ -1,1 +1,1 @@
-var mnemonic = "slogan vehicle barely cloud pond memory dune tank excuse vapor nation easily";
+var mnemonic = "maple pretty camp phrase toddler open notice lock multiply tilt spirit boss";

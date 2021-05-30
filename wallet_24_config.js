@@ -1,1 +1,1 @@
-var mnemonic = "motor remember arrive plate kiwi trip mom question frequent observe cable roast";
+var mnemonic = "approve discover aisle soda fiscal flight history pottery near surge stand erase";

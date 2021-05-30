@@ -1,1 +1,1 @@
-var mnemonic = "gloom bus butter message elevator side leave cash athlete water circle alarm";
+var mnemonic = "below woman town process essence together invest solar destroy hold poverty radio";

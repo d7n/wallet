@@ -1,1 +1,1 @@
-var mnemonic = "mammal teach impact infant trim strategy mule cattle pave faint modify copy";
+var mnemonic = "scan property razor combine rigid chair disagree web treat step physical shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose vote multiply wagon journey erosion net quick hotel rug symbol caught";
+var mnemonic = "capable surprise film just cube then vacant wise bundle ranch topple family";

@@ -1,1 +1,1 @@
-var mnemonic = "stool bacon twist plastic huge thunder quit globe fossil labor donkey memory";
+var mnemonic = "coffee shock shadow settle hammer arrest arctic quick annual purse auction order";

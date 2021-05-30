@@ -1,1 +1,1 @@
-var mnemonic = "human belt clay canal unaware across maximum journey shaft staff canoe bottom";
+var mnemonic = "chest comic desert vacant sort eternal actress rib seven decrease slot eagle";

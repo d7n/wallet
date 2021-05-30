@@ -1,1 +1,1 @@
-var mnemonic = "seat rebuild kitten void fault crumble actual spin panel local year vivid";
+var mnemonic = "father process much husband once slot stamp elder lock air hurt midnight";

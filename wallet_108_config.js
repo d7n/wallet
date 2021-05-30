@@ -1,1 +1,1 @@
-var mnemonic = "stove purse kitten split wet waste six dance remind garment word such";
+var mnemonic = "theory panda stuff upper where round fork quick harbor bulb knee such";

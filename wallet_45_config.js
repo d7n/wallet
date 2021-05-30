@@ -1,1 +1,1 @@
-var mnemonic = "blur pelican evidence age before badge diet toy inject small main tuition";
+var mnemonic = "six belt winner boring bounce sibling light trouble frequent north kiss dinosaur";

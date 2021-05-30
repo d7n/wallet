@@ -1,1 +1,1 @@
-var mnemonic = "anchor tomato reduce saddle slush tornado glad blur absorb fresh book wear";
+var mnemonic = "very ramp issue sock umbrella squirrel lens use reflect erase inside pull";

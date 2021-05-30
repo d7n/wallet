@@ -1,1 +1,1 @@
-var mnemonic = "valley next begin type tired drama seek deer solid prison castle dash";
+var mnemonic = "result area resemble crisp indicate false movie canoe idle three squirrel enemy";

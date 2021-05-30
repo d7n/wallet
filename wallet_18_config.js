@@ -1,1 +1,1 @@
-var mnemonic = "practice deliver couch target degree salmon rough govern quantum clean label any";
+var mnemonic = "unable amused reason great walnut spider report scout quote add seat swing";

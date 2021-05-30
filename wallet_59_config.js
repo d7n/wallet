@@ -1,1 +1,1 @@
-var mnemonic = "afraid volume ride basic chimney uphold quiz hungry middle cousin fiscal sword";
+var mnemonic = "hospital toddler idle exhaust ketchup almost awake drill library wing audit budget";

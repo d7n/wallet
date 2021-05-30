@@ -1,1 +1,1 @@
-var mnemonic = "bid select mass regret please display correct ahead almost nothing margin post";
+var mnemonic = "recipe prosper check choose when hockey ecology nothing another charge carry hurdle";

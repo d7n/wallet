@@ -1,1 +1,1 @@
-var mnemonic = "borrow faint shoot brisk dawn idea novel spell salt wild circle country";
+var mnemonic = "filter breeze size hotel turkey icon include acid black shaft old grass";

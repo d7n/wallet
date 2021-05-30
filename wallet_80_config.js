@@ -1,1 +1,1 @@
-var mnemonic = "bone ginger penalty spread artwork nest enforce useless fashion view runway organ";
+var mnemonic = "until thumb salt urban across hybrid future fun awesome drill brave giant";

@@ -1,1 +1,1 @@
-var mnemonic = "practice report woman pepper gospel unique bar diet argue worry alarm gauge";
+var mnemonic = "resist figure push hub survey daughter gym glimpse panther lab method since";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit half elite soul vast wise bleak curious bread milk item before";
+var mnemonic = "prosper fox enable engine few clean remember emotion play lucky domain kid";

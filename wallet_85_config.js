@@ -1,1 +1,1 @@
-var mnemonic = "silent aisle convince century egg focus steel autumn verify upon utility title";
+var mnemonic = "honey digital silver excite gown tuna worth egg pig include month opera";

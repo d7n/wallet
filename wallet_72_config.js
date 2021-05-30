@@ -1,1 +1,1 @@
-var mnemonic = "cup oxygen junior fever check pave patrol gloom clutch earn sorry risk";
+var mnemonic = "inmate boil biology scheme remember vague echo still idea napkin exotic lumber";

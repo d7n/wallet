@@ -1,1 +1,1 @@
-var mnemonic = "discover opinion rich pioneer deer odor damage goose east reveal desert agree";
+var mnemonic = "cart habit raise group rigid vapor card table area decide blame outside";

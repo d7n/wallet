@@ -1,1 +1,1 @@
-var mnemonic = "pair good flavor enough trial slide render genius rice practice stable spell";
+var mnemonic = "horror health shield grain bless infant asset quit sun affair chimney remain";

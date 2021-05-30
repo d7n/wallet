@@ -1,1 +1,1 @@
-var mnemonic = "move twice remove dilemma soccer similar utility glue polar bamboo camera aunt";
+var mnemonic = "capable file cage shop dynamic resource all match holiday cousin logic timber";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe divert proud romance outer level claim salon recall punch company pair";
+var mnemonic = "earn area hurry notable soup dry loop grow crazy ostrich dynamic rhythm";

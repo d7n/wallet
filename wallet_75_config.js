@@ -1,1 +1,1 @@
-var mnemonic = "electric worry stick pepper sphere morning quality space demand weapon valley wire";
+var mnemonic = "visual choose example fame stereo amazing evidence immune already shrimp dose curious";

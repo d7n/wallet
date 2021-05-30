@@ -1,1 +1,1 @@
-var mnemonic = "economy bench swap sample spring flat bridge kick champion afford toddler mad";
+var mnemonic = "much clarify drift style rug glare say clutch immense useless garden supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "sing divorce action essay often stomach live eager okay useful evidence ancient";
+var mnemonic = "follow scare yard shine tenant future section achieve put suggest garbage father";

@@ -1,1 +1,1 @@
-var mnemonic = "salute cross situate word rely affair crouch caution kiss bean coffee embody";
+var mnemonic = "silver razor stand cotton measure salute long reveal aim decide system early";

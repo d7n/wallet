@@ -1,1 +1,1 @@
-var mnemonic = "private mobile bomb detail hybrid fun tone chalk warm unknown faint sketch";
+var mnemonic = "foam wisdom category wrong bachelor later blue mass remember fox amount youth";

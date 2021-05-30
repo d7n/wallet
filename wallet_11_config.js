@@ -1,1 +1,1 @@
-var mnemonic = "soda salad fall lawsuit sorry unfair tornado fancy surprise actress rescue punch";
+var mnemonic = "success walnut rabbit ask short discover shoulder hub blur asthma resist pill";

@@ -1,1 +1,1 @@
-var mnemonic = "diet snake afraid ship scout spoon sunny target surface stay neglect bracket";
+var mnemonic = "alone author connect stuff buffalo armor regular labor apple frame iron above";

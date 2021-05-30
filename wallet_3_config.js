@@ -1,1 +1,1 @@
-var mnemonic = "tuition inflict absurd ladder swallow list embark method start wheel swamp alpha";
+var mnemonic = "fitness hurt despair noise degree maid float section fury cotton detect road";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle pupil rose strike library skirt crack error report help spy half";
+var mnemonic = "pink library crack trip buzz infant machine old beyond pipe humor season";

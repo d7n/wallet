@@ -1,1 +1,1 @@
-var mnemonic = "memory daughter awful sort purchase tail task track reject output donor half";
+var mnemonic = "common virus satisfy guide negative culture awake peanut narrow laundry actual undo";

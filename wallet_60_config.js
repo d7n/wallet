@@ -1,1 +1,1 @@
-var mnemonic = "artist piece patient vendor common anger alert draft stay dune note penalty";
+var mnemonic = "nest able warrior penalty shell early subject error video situate sight visa";

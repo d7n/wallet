@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tide force struggle aspect wash drama broccoli jar diesel habit unfair";
+var mnemonic = "phrase omit entry thing broken sunny useless hurt live excuse fine fee";

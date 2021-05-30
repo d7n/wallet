@@ -1,1 +1,1 @@
-var mnemonic = "length found crash unable crush pride lock measure pistol smart snap evidence";
+var mnemonic = "cheap forest hurt vehicle onion response planet cheap father unfair fringe boil";

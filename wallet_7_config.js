@@ -1,1 +1,1 @@
-var mnemonic = "lens donkey patrol skate universe produce float alpha ten teach volcano dose";
+var mnemonic = "often side security shoulder dash width endorse cram recycle nephew deal brand";

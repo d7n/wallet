@@ -1,1 +1,1 @@
-var mnemonic = "script live strategy party year equal citizen monitor require topple scare donor";
+var mnemonic = "invest jewel denial clean predict bachelor dial prison adult lunar blanket pet";

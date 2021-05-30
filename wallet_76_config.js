@@ -1,1 +1,1 @@
-var mnemonic = "ridge hawk dizzy muscle age dumb during angle diesel clump elbow toast";
+var mnemonic = "this monster coyote pulse spy biology before juice skin powder girl oyster";

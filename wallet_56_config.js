@@ -1,1 +1,1 @@
-var mnemonic = "mix inside portion purity pipe arrange family drink robust vast giraffe album";
+var mnemonic = "acoustic zero actress solution exotic monkey chat biology gym glass fault connect";

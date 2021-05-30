@@ -1,1 +1,1 @@
-var mnemonic = "room sock engine evidence tiny piano treat acoustic round zoo scorpion purity";
+var mnemonic = "pudding stumble truck shine sand raise human gym diet tiny diagram pole";

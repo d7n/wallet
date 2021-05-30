@@ -1,1 +1,1 @@
-var mnemonic = "inhale crisp claim flush swarm oyster uncle easily harvest slender save injury";
+var mnemonic = "music save case another glass material cash post weasel dynamic kangaroo toe";

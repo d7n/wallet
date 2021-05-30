@@ -1,1 +1,1 @@
-var mnemonic = "any marble still diesel service lucky language duck width true beach detail";
+var mnemonic = "high mutual arm lawn nasty gossip silver surge bar time today pet";

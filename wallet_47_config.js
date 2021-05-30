@@ -1,1 +1,1 @@
-var mnemonic = "vacant advance fiction island camera nose knee angry taxi eager funny crane";
+var mnemonic = "wasp earn apart offer print acquire pattern abstract monster source people copy";

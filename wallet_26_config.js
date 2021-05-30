@@ -1,1 +1,1 @@
-var mnemonic = "relax supply wall thing twelve floor vessel flash limb remind tongue doll";
+var mnemonic = "apple forest forest what survey fossil hamster run ocean asset ten elder";

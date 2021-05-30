@@ -1,1 +1,1 @@
-var mnemonic = "unhappy purse crumble trash again main movie rubber affair bag guilt web";
+var mnemonic = "remind glimpse mutual family athlete pause glide such bird put stadium online";

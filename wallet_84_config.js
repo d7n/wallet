@@ -1,1 +1,1 @@
-var mnemonic = "violin addict fame paddle end couch run word throw afford cabin void";
+var mnemonic = "force finger trust sick traffic maple grit dutch omit they core rain";

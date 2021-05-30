@@ -1,1 +1,1 @@
-var mnemonic = "truth roof tuition view online winter tuna bonus diesel protect crater analyst";
+var mnemonic = "alien punch detail south cause just shoot when that entire ugly twist";

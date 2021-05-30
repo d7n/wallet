@@ -1,1 +1,1 @@
-var mnemonic = "skull pluck member hurt layer bird reduce phrase ginger addict globe wing";
+var mnemonic = "number artist crater expand surround almost violin tourist increase erupt organ spell";

@@ -1,1 +1,1 @@
-var mnemonic = "custom bright actress audit permit wash picture project select antenna patch pen";
+var mnemonic = "race ritual increase gown furnace end face riot parade chief minimum company";

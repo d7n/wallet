@@ -1,1 +1,1 @@
-var mnemonic = "sun supply toward human valve satoshi tool between auction doctor record stem";
+var mnemonic = "resist extend cage spoon tonight alone spread report eye love gain rare";

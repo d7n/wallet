@@ -1,1 +1,1 @@
-var mnemonic = "walnut pony sugar punch toe saddle heavy pulp foam craft athlete detail";
+var mnemonic = "misery arch east wrong aisle direct artist phrase person apart orphan flower";

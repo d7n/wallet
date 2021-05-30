@@ -1,1 +1,1 @@
-var mnemonic = "install fame visual remove network decide spot rocket tragic avocado enter planet";
+var mnemonic = "tray benefit album menu match loyal bleak comic owner aim wear kiss";

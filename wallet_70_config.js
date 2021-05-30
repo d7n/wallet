@@ -1,1 +1,1 @@
-var mnemonic = "prevent refuse drop social throw farm rabbit permit usage captain ancient thing";
+var mnemonic = "rapid define nurse ordinary exhaust cigar promote measure lawn circle inmate sibling";

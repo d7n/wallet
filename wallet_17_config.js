@@ -1,1 +1,1 @@
-var mnemonic = "virtual cloud museum surprise version labor mountain easily gasp school coyote cool";
+var mnemonic = "protect since stool veteran table fragile broken magnet clump fade venue tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "balance powder window apple transfer wrist talk nasty decade copy duck afford";
+var mnemonic = "below auction cereal february rally resource edit delay misery unknown fat gadget";

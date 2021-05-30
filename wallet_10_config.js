@@ -1,1 +1,1 @@
-var mnemonic = "vast update company citizen slab answer fluid trial share immense curious chapter";
+var mnemonic = "exclude monkey visit essay cruise picnic tape picture recipe output term resource";

@@ -1,1 +1,1 @@
-var mnemonic = "brush make inherit divorce settle layer portion stove reject gain wait bulk";
+var mnemonic = "case often model lumber usage meat spatial mixture indicate motor blur seven";

@@ -1,1 +1,1 @@
-var mnemonic = "differ remind melt acoustic jeans crush useful close pave note caution cigar";
+var mnemonic = "audit fun welcome cross define inmate maximum what rare brass faint absurd";

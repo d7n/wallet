@@ -1,1 +1,1 @@
-var mnemonic = "again mansion check boy penalty summer differ eager best inspire balcony cinnamon";
+var mnemonic = "cargo library dinner auto sheriff paddle casual tone blue sister chef denial";

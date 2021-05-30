@@ -1,1 +1,1 @@
-var mnemonic = "push ski hello dilemma frown congress lady convince puppy nominee athlete now";
+var mnemonic = "stand erupt domain cloud chapter solar rocket neither inside ghost inside promote";

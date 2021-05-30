@@ -1,1 +1,1 @@
-var mnemonic = "resist drive curious master slush cereal torch rifle own churn someone illness";
+var mnemonic = "animal alter east tiny aware stay crash extend cheese market divert relief";

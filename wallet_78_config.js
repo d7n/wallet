@@ -1,1 +1,1 @@
-var mnemonic = "act trust month boss give fade click budget visit amateur useful range";
+var mnemonic = "domain wasp apology car walnut acquire top neither exotic alcohol train team";

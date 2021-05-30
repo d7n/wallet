@@ -1,1 +1,1 @@
-var mnemonic = "morning bid nation avoid cactus sign about damage metal angry robust hedgehog";
+var mnemonic = "suggest captain ill laptop matter noise bench staff kangaroo draft box cigar";

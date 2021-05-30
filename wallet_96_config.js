@@ -1,1 +1,1 @@
-var mnemonic = "curve arctic surround pitch attitude rubber champion panda wagon echo spring frost";
+var mnemonic = "service hood want crane social oak dish wolf bean ensure fit grant";

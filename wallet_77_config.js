@@ -1,1 +1,1 @@
-var mnemonic = "occur behave evolve clown diagram pioneer portion enter silly add february absorb";
+var mnemonic = "appear giraffe artefact amused judge unit just gravity leg kite crew odor";

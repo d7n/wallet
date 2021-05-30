@@ -1,1 +1,1 @@
-var mnemonic = "critic suspect will gravity boil glance divorce cloth expand lumber visual sorry";
+var mnemonic = "tree shiver honey excite buyer panda clarify zone because hill enjoy again";

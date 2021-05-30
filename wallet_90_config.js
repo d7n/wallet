@@ -1,1 +1,1 @@
-var mnemonic = "hurry solution rely race front toe insane cliff treat light zebra punch";
+var mnemonic = "ancient silent rude music actual meat theory speak miss horn place erosion";

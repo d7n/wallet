@@ -1,1 +1,1 @@
-var mnemonic = "clown guide tonight certain liberty tobacco depth bench refuse quarter naive safe";
+var mnemonic = "donate benefit twin cushion script decade inhale place thank effort slender jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor awake modify potato entire magic nerve palm physical favorite outside illness";
+var mnemonic = "clog eight snake two civil law flock quality boring silly idea when";

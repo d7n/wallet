@@ -1,1 +1,1 @@
-var mnemonic = "thumb pass pioneer tragic pact august stone slush usage curtain orbit search";
+var mnemonic = "rubber mountain exchange kidney buddy taste force horror upset hobby sound trap";

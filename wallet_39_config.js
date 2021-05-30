@@ -1,1 +1,1 @@
-var mnemonic = "icon again strike raven achieve amused entry various goat upon bright armor";
+var mnemonic = "pause cinnamon faculty equip sick check father pond truck client soul patient";
