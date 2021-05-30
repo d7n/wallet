@@ -1,1 +1,1 @@
-var mnemonic = "system tomato collect mystery family tortoise labor blossom draft catalog humble kick";
+var mnemonic = "intact salt describe extend crystal betray history response unknown fold business vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "life prevent assist where lobster cycle athlete salute hill pear merit canoe";
+var mnemonic = "guess eternal riot force animal sausage menu crisp river true wash lyrics";

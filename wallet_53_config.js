@@ -1,1 +1,1 @@
-var mnemonic = "left tongue palm annual soon couple feature loan abandon target truly dash";
+var mnemonic = "burst involve raven much coffee prison exact target core advance moon safe";

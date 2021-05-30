@@ -1,1 +1,1 @@
-var mnemonic = "farm day certain virus payment attract heavy release pass quote fix extend";
+var mnemonic = "eager tornado stuff firm coyote chief sugar pink core topple assist visual";

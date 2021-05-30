@@ -1,1 +1,1 @@
-var mnemonic = "call chapter april trophy artist ahead predict ice deliver alarm fit used";
+var mnemonic = "shuffle dream quality liquid oval hunt vacant reflect trim film wisdom royal";

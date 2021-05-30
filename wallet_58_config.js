@@ -1,1 +1,1 @@
-var mnemonic = "home middle busy image tissue seed frost robot butter unusual record supreme";
+var mnemonic = "purchase object project panel group describe rich public raccoon sketch wreck cradle";

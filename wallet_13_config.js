@@ -1,1 +1,1 @@
-var mnemonic = "use unfold then orchard another payment prosper width enable clap chef forward";
+var mnemonic = "lemon busy game subway ranch credit pause hard animal panda unaware adapt";

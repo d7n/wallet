@@ -1,1 +1,1 @@
-var mnemonic = "dwarf surge tennis unique diary clock core grab any hood cycle observe";
+var mnemonic = "garlic throw urge long fold skull visit army diary goat attack valve";

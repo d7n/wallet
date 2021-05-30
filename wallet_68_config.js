@@ -1,1 +1,1 @@
-var mnemonic = "stand captain ceiling place library shoot erode hub bar raven energy enroll";
+var mnemonic = "unveil element major buddy tattoo ramp detail object desert ability dress design";

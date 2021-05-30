@@ -1,1 +1,1 @@
-var mnemonic = "beef group rocket age sunset aisle lesson surround chaos ancient fish bracket";
+var mnemonic = "symbol mobile stereo remain improve catch vehicle morning taxi hat version asthma";

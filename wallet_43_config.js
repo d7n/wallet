@@ -1,1 +1,1 @@
-var mnemonic = "image squeeze police method nominee protect pear used blur effort perfect love";
+var mnemonic = "drink essay solid way member actress ghost finger wood session gravity solve";

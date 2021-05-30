@@ -1,1 +1,1 @@
-var mnemonic = "hint frame much sun engage trigger globe cigar discover melt polar twelve";
+var mnemonic = "follow shield term office clerk void glass document flame mask lady bargain";

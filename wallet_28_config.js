@@ -1,1 +1,1 @@
-var mnemonic = "potato sea pull gauge diet fame cost actual gap stove venue empower";
+var mnemonic = "dignity shield attract relief step immense plunge broken junk east burden true";

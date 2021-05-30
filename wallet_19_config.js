@@ -1,1 +1,1 @@
-var mnemonic = "slim window bullet depart piece enable muffin bring cousin fiscal assist detail";
+var mnemonic = "image chronic fold explain enough dune fit kind offer copper engage pole";

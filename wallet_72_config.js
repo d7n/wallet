@@ -1,1 +1,1 @@
-var mnemonic = "note snow pill garbage more focus lyrics robust you local busy live";
+var mnemonic = "upgrade sadness circle input citizen breeze novel garlic alpha motion divorce gloom";

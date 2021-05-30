@@ -1,1 +1,1 @@
-var mnemonic = "victory valve promote firm grunt vessel regret mom income sure nominee topic";
+var mnemonic = "ritual earth history thrive photo save moment protect purpose trophy oval capital";

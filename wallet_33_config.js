@@ -1,1 +1,1 @@
-var mnemonic = "blood giant fever able inquiry cool dilemma congress source detect produce pole";
+var mnemonic = "winner choose surface galaxy dial elegant glass alter print require ring someone";

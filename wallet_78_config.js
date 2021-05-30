@@ -1,1 +1,1 @@
-var mnemonic = "gate jelly capital they net holiday arch fly ocean place brisk ship";
+var mnemonic = "blush few mouse amused record roast weekend trend alert lift glove exclude";

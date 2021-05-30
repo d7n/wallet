@@ -1,1 +1,1 @@
-var mnemonic = "woman movie purity select know then faith cart captain story uphold click";
+var mnemonic = "banner invest forward erode sister private travel monkey other faith steak coyote";

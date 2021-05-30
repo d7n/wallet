@@ -1,1 +1,1 @@
-var mnemonic = "hero idle above among path traffic split blade mutual diary indicate dream";
+var mnemonic = "video over undo resemble soda flock nut ostrich weekend furnace clip cloud";

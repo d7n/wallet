@@ -1,1 +1,1 @@
-var mnemonic = "runway observe ensure right gospel paddle gaze sick thought assist radio flavor";
+var mnemonic = "scare demise stool derive place write element galaxy labor trend husband inform";

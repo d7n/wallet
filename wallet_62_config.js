@@ -1,1 +1,1 @@
-var mnemonic = "relax term tackle success pretty abandon way recall spend draft normal squeeze";
+var mnemonic = "swear alarm birth garden liberty clay cabbage present kite cause rocket minor";

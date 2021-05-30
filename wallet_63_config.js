@@ -1,1 +1,1 @@
-var mnemonic = "myself fade keep where endorse pudding powder person slice memory half dad";
+var mnemonic = "want unknown lawsuit grocery student glow assault object oven fold sign dawn";

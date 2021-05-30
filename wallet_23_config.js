@@ -1,1 +1,1 @@
-var mnemonic = "drastic goat spice suffer salad eagle group near silly loud rhythm busy";
+var mnemonic = "slam expose switch welcome panther still please remember want cost bachelor wrestle";

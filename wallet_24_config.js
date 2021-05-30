@@ -1,1 +1,1 @@
-var mnemonic = "trash vital gown increase marble radar cement steel pact soft tragic giant";
+var mnemonic = "blast mountain property tribe equip curious dice fog usual speak bus donate";

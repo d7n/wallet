@@ -1,1 +1,1 @@
-var mnemonic = "attend east kangaroo awesome actor affair sniff hammer kid culture horn logic";
+var mnemonic = "museum chronic ketchup man put true gun shiver gap clerk elite ticket";

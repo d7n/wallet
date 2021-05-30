@@ -1,1 +1,1 @@
-var mnemonic = "coconut slogan amazing vote kidney skin pony basic extend month omit south";
+var mnemonic = "hidden student cushion verify banana zebra winner add hello fossil around planet";

@@ -1,1 +1,1 @@
-var mnemonic = "tool desk census december ski security insect exit regret bright wish feature";
+var mnemonic = "fresh deposit force kite arrow talk surround act exhibit ready damage rail";

@@ -1,1 +1,1 @@
-var mnemonic = "airport brother powder disagree scheme sister erosion elbow energy frequent pond stereo";
+var mnemonic = "offer ancient three very toe surround grant enact vapor flower silk pear";

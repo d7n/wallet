@@ -1,1 +1,1 @@
-var mnemonic = "problem clap source capable opinion smooth pipe symptom blame crucial tattoo mimic";
+var mnemonic = "infant clog shrimp half knee they finish engage monitor december volume border";

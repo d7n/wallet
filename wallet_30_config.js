@@ -1,1 +1,1 @@
-var mnemonic = "proof saddle soccer student wink lake boat defense cactus dog heart space";
+var mnemonic = "debate gorilla aim acid peace observe vast final silly manual fiscal asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch number vital shoot pave illness wise measure smile eager maple maze";
+var mnemonic = "save pull tiger clip tuition neglect suspect open cake warm violin cram";

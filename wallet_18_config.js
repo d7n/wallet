@@ -1,1 +1,1 @@
-var mnemonic = "canvas stuff relief chronic fever ceiling broccoli aim book design cheap absurd";
+var mnemonic = "ostrich bridge wrong state hazard clump mimic cart subject silent pledge coach";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow brass legend female soon man gold nation vanish reduce ability width";
+var mnemonic = "disease farm retire maze rhythm donkey sustain home cluster wool grunt spatial";

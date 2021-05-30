@@ -1,1 +1,1 @@
-var mnemonic = "rebuild ostrich social hello annual doctor party match power effort city tomorrow";
+var mnemonic = "tomorrow message guard laundry hour train unusual fragile fringe amount liquid vendor";

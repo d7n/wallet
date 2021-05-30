@@ -1,1 +1,1 @@
-var mnemonic = "price aunt cruel apple dune attend logic cement infant seat ahead glue";
+var mnemonic = "genre coach rough unveil economy join tribe fat doctor target rent install";

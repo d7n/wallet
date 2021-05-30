@@ -1,1 +1,1 @@
-var mnemonic = "urban cannon mask next loop vital office bind wet wild tongue risk";
+var mnemonic = "deny juice wonder music catch jazz craft then divert saddle discover canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "bench jelly sell dynamic all seven moral lemon balcony type goddess over";
+var mnemonic = "state vivid track bar fragile vintage rack solar social word giraffe add";

@@ -1,1 +1,1 @@
-var mnemonic = "smart valid magic garden trap loan toy oak abandon valve citizen kitten";
+var mnemonic = "middle piece caught shadow ginger unhappy link table void spy loud hen";

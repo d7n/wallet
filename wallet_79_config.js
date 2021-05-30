@@ -1,1 +1,1 @@
-var mnemonic = "car critic tumble margin critic daring bamboo pottery often before antenna easy";
+var mnemonic = "eye fee rib buffalo lumber essay kangaroo napkin chapter palace involve paddle";

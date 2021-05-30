@@ -1,1 +1,1 @@
-var mnemonic = "open local inmate few warm ahead school arrow soon fresh three knife";
+var mnemonic = "frog wife space roof kind minimum exercise honey club online brand canvas";

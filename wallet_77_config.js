@@ -1,1 +1,1 @@
-var mnemonic = "street exchange border when skull beach vicious grid train coast cricket tape";
+var mnemonic = "foot curtain income razor two math pond disease measure wrist pilot skirt";

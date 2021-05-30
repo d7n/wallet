@@ -1,1 +1,1 @@
-var mnemonic = "expect cat news twenty crater mirror speed simple pudding inside alert fabric";
+var mnemonic = "camera topple cloth ability chaos profit wreck decorate just arena share fault";

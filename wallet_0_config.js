@@ -1,1 +1,1 @@
-var mnemonic = "enhance exile shrimp draft plug twenty hotel cradle vague pupil spider divorce";
+var mnemonic = "maximum will slam nominee found crouch deposit assist favorite phrase orphan rival";

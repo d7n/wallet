@@ -1,1 +1,1 @@
-var mnemonic = "task category steak notice bamboo annual crane stove struggle hair churn scale";
+var mnemonic = "angry reopen auction shrug book law idea trim federal vicious room trap";

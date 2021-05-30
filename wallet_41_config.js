@@ -1,1 +1,1 @@
-var mnemonic = "wage more roof fence ship uncover disease pride honey amateur isolate foot";
+var mnemonic = "sun mesh dragon whale already excite cycle ride evoke extend salute spray";

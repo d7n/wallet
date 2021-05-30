@@ -1,1 +1,1 @@
-var mnemonic = "fix now family pottery open edge yellow drastic clip mobile oak average";
+var mnemonic = "random ill draft bleak diet subway coyote rice claw color glad piano";

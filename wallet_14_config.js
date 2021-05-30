@@ -1,1 +1,1 @@
-var mnemonic = "crack sentence protect march ticket grace delay bargain auto inch initial sudden";
+var mnemonic = "dad return caught note record cycle position lunch culture grass dragon sock";

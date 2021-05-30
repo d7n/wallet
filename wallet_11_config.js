@@ -1,1 +1,1 @@
-var mnemonic = "hair video blanket game venue august describe shiver title author shoulder foster";
+var mnemonic = "enforce inject multiply task either matter patient taxi target reform market index";

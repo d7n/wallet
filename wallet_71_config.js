@@ -1,1 +1,1 @@
-var mnemonic = "shiver december ranch pulp abuse remain return live kind noble flower egg";
+var mnemonic = "column visit please abstract bitter slogan flash path menu wolf north race";

@@ -1,1 +1,1 @@
-var mnemonic = "stem display wool wire demise invest need pattern cage asthma rigid process";
+var mnemonic = "baby luxury good divide pull lizard diesel walnut health bunker muffin skull";

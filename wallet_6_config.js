@@ -1,1 +1,1 @@
-var mnemonic = "slogan alone flock host catch copy cycle small aunt genius multiply correct";
+var mnemonic = "spray kiwi current baby seven daughter quick cup scene ship ugly soccer";

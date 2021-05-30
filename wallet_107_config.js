@@ -1,1 +1,1 @@
-var mnemonic = "ensure olympic pass soldier august palace scout aisle depart purchase minor over";
+var mnemonic = "tree follow news already vacuum similar analyst funny crack cool earn aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "woman pelican industry peace pilot wage dignity warfare bench ensure gadget angry";
+var mnemonic = "end trust debris focus resemble bicycle motion shock ridge tiger math degree";

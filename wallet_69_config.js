@@ -1,1 +1,1 @@
-var mnemonic = "era human brush uniform sand fence sign liar dice ranch feature top";
+var mnemonic = "acquire arrest charge sound churn mystery critic apple split alien exercise senior";

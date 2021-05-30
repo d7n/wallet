@@ -1,1 +1,1 @@
-var mnemonic = "setup guilt woman print private toward goat stuff firm throw body little";
+var mnemonic = "win tennis intact mandate convince capital year venture tip ten bleak powder";

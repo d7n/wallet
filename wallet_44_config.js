@@ -1,1 +1,1 @@
-var mnemonic = "room shaft alone recycle good enemy tunnel hockey connect trophy endless utility";
+var mnemonic = "face recall genuine sort sphere skate miracle much country boost wagon globe";

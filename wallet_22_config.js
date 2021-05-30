@@ -1,1 +1,1 @@
-var mnemonic = "pepper sound kiwi sail vendor bullet blossom donkey promote piece option month";
+var mnemonic = "balance angle unit skull idle title alley world try near dune equal";

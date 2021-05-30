@@ -1,1 +1,1 @@
-var mnemonic = "giraffe emotion parrot cannon dolphin crouch follow veteran galaxy identify own bamboo";
+var mnemonic = "change chaos illegal few tray truth beach wide round they symbol upper";

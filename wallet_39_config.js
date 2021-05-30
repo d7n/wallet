@@ -1,1 +1,1 @@
-var mnemonic = "tornado sense media paper metal foam pioneer myth couch inner walnut acquire";
+var mnemonic = "note help guard absent list window hospital paper culture concert topple marine";

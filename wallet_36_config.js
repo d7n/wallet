@@ -1,1 +1,1 @@
-var mnemonic = "actress cash stamp alpha father cave marriage immune rack silent install praise";
+var mnemonic = "polar mango bid sun promote ethics retire floor sick poet flock toss";

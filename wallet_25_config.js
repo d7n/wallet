@@ -1,1 +1,1 @@
-var mnemonic = "interest security joke random smoke abandon link faint front foil push ugly";
+var mnemonic = "response point leaf vintage adjust glory fortune orphan glance season equip peace";

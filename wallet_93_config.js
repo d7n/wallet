@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fury stove relax turtle neither alone such asthma honey diamond horn";
+var mnemonic = "nerve master immune learn lens now loop tornado swarm heavy reunion electric";

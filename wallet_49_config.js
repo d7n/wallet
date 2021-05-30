@@ -1,1 +1,1 @@
-var mnemonic = "bus rice cradle token buddy afraid grow peace fan prevent agent glimpse";
+var mnemonic = "library protect record used cushion song guard exhibit tourist dress element empty";

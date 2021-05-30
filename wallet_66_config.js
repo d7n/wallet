@@ -1,1 +1,1 @@
-var mnemonic = "aerobic faint economy improve autumn season true turkey there pear wood sport";
+var mnemonic = "lady liquid cry odor wash reunion razor actor village daring fiscal because";

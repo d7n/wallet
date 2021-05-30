@@ -1,1 +1,1 @@
-var mnemonic = "until nephew chimney gain borrow story neglect divert tool badge chaos real";
+var mnemonic = "cannon annual connect sister vapor garment miracle beyond mountain merry one tree";

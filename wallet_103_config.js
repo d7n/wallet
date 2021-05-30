@@ -1,1 +1,1 @@
-var mnemonic = "sun team ripple despair wet green shaft august sister enough jaguar nasty";
+var mnemonic = "act exile faith tattoo avoid rebuild license daughter accuse umbrella huge prosper";

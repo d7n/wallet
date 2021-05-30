@@ -1,1 +1,1 @@
-var mnemonic = "fiber radar mushroom demise crumble wage infant column brother island bread like";
+var mnemonic = "session provide simple rack method weird letter camera bachelor can garment fancy";

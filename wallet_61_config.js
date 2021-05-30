@@ -1,1 +1,1 @@
-var mnemonic = "kiwi tube venture envelope subject leave valve foot lend hunt brush enemy";
+var mnemonic = "hurt stairs dice busy now loud duty quick orbit during beach primary";

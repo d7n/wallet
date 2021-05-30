@@ -1,1 +1,1 @@
-var mnemonic = "funny heavy note uphold fade melt post sister wheat power zero boss";
+var mnemonic = "velvet chest refuse normal card mechanic scissors impose fly drink kiwi alpha";

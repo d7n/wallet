@@ -1,1 +1,1 @@
-var mnemonic = "acid hotel forum have impose december clinic tackle olympic whisper concert burger";
+var mnemonic = "siren coyote fall sunny victory circle above reduce lobster sure journey float";

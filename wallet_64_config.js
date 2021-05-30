@@ -1,1 +1,1 @@
-var mnemonic = "trim term typical bicycle grant auction view calm drift feed screen curious";
+var mnemonic = "great rhythm pulse sand defense toy level cigar robust flag enjoy mind";

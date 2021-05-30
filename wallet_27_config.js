@@ -1,1 +1,1 @@
-var mnemonic = "key suggest machine accuse blast crazy bachelor ask machine bundle harbor account";
+var mnemonic = "month destroy measure adapt juice biology deposit gather utility crash toilet oppose";

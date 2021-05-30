@@ -1,1 +1,1 @@
-var mnemonic = "aisle month valid topic gain elite nothing wrap disagree poem often health";
+var mnemonic = "vintage story name orange keen quick noble coral fiber uncover extra electric";

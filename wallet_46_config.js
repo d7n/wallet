@@ -1,1 +1,1 @@
-var mnemonic = "clog mention leg there repair athlete shine tooth glass pepper dirt dance";
+var mnemonic = "matrix casual plastic reunion swing holiday humor stick bundle tiny table pulse";

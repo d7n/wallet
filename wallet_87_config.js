@@ -1,1 +1,1 @@
-var mnemonic = "shop write ripple know you local rebel expand over spirit what winner";
+var mnemonic = "burst false gold keen finger horn toddler bread height knock like social";

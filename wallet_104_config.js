@@ -1,1 +1,1 @@
-var mnemonic = "omit frequent kiss bonus later nature december album help power public teach";
+var mnemonic = "spot club damp rent gesture route habit fame enlist airport egg ankle";

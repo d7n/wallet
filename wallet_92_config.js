@@ -1,1 +1,1 @@
-var mnemonic = "party pretty gap float unfold tennis wish cube wave obey olympic stove";
+var mnemonic = "spend simple ceiling draft thrive elder evil wild resemble wagon response example";

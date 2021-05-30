@@ -1,1 +1,1 @@
-var mnemonic = "upon rival gaze oven build member pulp govern belt review suffer seven";
+var mnemonic = "guide brown peasant day congress quit drum faint wheel entry you exist";

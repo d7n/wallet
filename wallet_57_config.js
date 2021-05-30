@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gate swim speed wear split aware merge elegant mimic melody cool";
+var mnemonic = "hobby brain expire palm unveil hunt high dinosaur clinic turkey shadow phrase";

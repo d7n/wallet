@@ -1,1 +1,1 @@
-var mnemonic = "between deer crew rice finish reject clinic party weird cement network owner";
+var mnemonic = "spring woman fox permit tissue you corn alcohol room easily shadow enrich";

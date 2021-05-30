@@ -1,1 +1,1 @@
-var mnemonic = "pave inject reject wonder leave slice tattoo wheel please web survey acquire";
+var mnemonic = "ankle sketch zone wisdom appear veteran kit scatter mammal bounce wire fox";

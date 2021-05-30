@@ -1,1 +1,1 @@
-var mnemonic = "join measure fork work only inject grain egg stone face walk trash";
+var mnemonic = "evidence rule leader enlist earn where such sail august eternal round atom";

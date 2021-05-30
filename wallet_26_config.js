@@ -1,1 +1,1 @@
-var mnemonic = "once recycle glove phone put gas later peace giggle answer accuse trip";
+var mnemonic = "motor loan oppose gap brand abandon oxygen model address degree runway funny";

@@ -1,1 +1,1 @@
-var mnemonic = "way slot culture crop afford all inject frozen element perfect purpose drink";
+var mnemonic = "melody hamster tomorrow orient afford film fall permit leg echo copper notice";
