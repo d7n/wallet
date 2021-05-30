@@ -1,1 +1,1 @@
-var mnemonic = "diary attend zone various screen deliver wall doctor wood chef lion cricket";
+var mnemonic = "health arrest industry bread onion siege crazy donor long prison leg deer";

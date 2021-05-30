@@ -1,1 +1,1 @@
-var mnemonic = "ticket castle hero correct attitude pepper ring museum pilot bitter thing away";
+var mnemonic = "situate melt dragon rate ocean drastic cousin sentence giraffe betray van intact";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe other drive deliver fitness during pledge spice hope scissors bronze inflict";
+var mnemonic = "orchard release canvas buzz ostrich lemon amateur oxygen erase claim process utility";

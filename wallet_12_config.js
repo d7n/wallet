@@ -1,1 +1,1 @@
-var mnemonic = "drum suggest dinner orphan leaf cloth hat add dilemma eager camp scene";
+var mnemonic = "gain dose subject fetch mammal clip brick erosion antique elite bulk dynamic";

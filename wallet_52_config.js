@@ -1,1 +1,1 @@
-var mnemonic = "wolf detail eight upon wedding prevent mandate rhythm spin powder vessel cupboard";
+var mnemonic = "permit group entire episode chicken globe profit kidney recycle effort turkey bunker";

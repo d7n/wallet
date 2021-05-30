@@ -1,1 +1,1 @@
-var mnemonic = "airport idea chief tooth prize never head time then sponsor damp adjust";
+var mnemonic = "shift hello film glimpse auction inhale corn crane boil blue negative ginger";

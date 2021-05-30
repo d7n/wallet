@@ -1,1 +1,1 @@
-var mnemonic = "west police consider wedding open uphold gaze harsh wonder congress shift angle";
+var mnemonic = "sort penalty cattle truck awake various use fence enrich must chair situate";

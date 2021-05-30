@@ -1,1 +1,1 @@
-var mnemonic = "witness shove judge hurry giant mango burger today source merit buzz gun";
+var mnemonic = "truth sunset moral taxi surface initial belt act laptop remove fault praise";

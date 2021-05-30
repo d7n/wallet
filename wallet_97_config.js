@@ -1,1 +1,1 @@
-var mnemonic = "credit sibling solution scatter rely category try vacuum runway educate vault such";
+var mnemonic = "train student turkey wreck friend river trust frequent always inch scare panther";

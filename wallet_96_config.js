@@ -1,1 +1,1 @@
-var mnemonic = "tomato portion scheme lumber addict hint human era monkey size base tape";
+var mnemonic = "enhance idea special exile canvas ticket retreat eternal fabric easily drama shift";

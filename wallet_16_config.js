@@ -1,1 +1,1 @@
-var mnemonic = "horn build hazard because actress ankle butter velvet company eager affair belt";
+var mnemonic = "breeze produce oyster evolve original blind party sure police now iron oxygen";

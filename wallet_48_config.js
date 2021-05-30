@@ -1,1 +1,1 @@
-var mnemonic = "nuclear saddle fancy castle client deny inspire shy quote enlist power whip";
+var mnemonic = "laundry parrot effort actress bronze lottery liar choose cry such injury kid";

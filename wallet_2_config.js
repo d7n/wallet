@@ -1,1 +1,1 @@
-var mnemonic = "detect input engine ethics calm cotton rotate split seminar scale desert coil";
+var mnemonic = "wise multiply public where gap fire shiver ship okay avocado street cereal";

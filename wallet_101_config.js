@@ -1,1 +1,1 @@
-var mnemonic = "silent pottery front video portion brisk law glue toss upgrade minute disease";
+var mnemonic = "genre hard equip photo tattoo when clever useless hurry forum pelican trade";

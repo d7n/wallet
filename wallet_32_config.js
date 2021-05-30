@@ -1,1 +1,1 @@
-var mnemonic = "repair speak merit tag whale exhibit put oven protect pretty today trust";
+var mnemonic = "reject blossom identify crawl forum suggest agent save wrestle dizzy hamster slab";

@@ -1,1 +1,1 @@
-var mnemonic = "cream recycle universe dragon subway outdoor pretty load turn olympic hand upset";
+var mnemonic = "balcony raw village faith coral supply bar vanish banner goat force column";

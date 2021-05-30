@@ -1,1 +1,1 @@
-var mnemonic = "daring scrub speed other frequent tornado price grocery abandon push social equip";
+var mnemonic = "excite tank hunt observe civil profit want way more lens pizza boring";

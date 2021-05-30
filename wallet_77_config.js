@@ -1,1 +1,1 @@
-var mnemonic = "cry badge sketch raw conduct typical embody prison outer jewel rebuild onion";
+var mnemonic = "drift title weasel void skin mushroom attract one feature margin old purse";

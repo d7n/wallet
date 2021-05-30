@@ -1,1 +1,1 @@
-var mnemonic = "guard survey reject dentist guilt snow predict slot truck release vote vast";
+var mnemonic = "beauty useful raven supply subject know photo try panda genre hobby lemon";

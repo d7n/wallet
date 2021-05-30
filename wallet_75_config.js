@@ -1,1 +1,1 @@
-var mnemonic = "left fancy swear crew middle one jazz initial arrest arrive evoke diet";
+var mnemonic = "theme phrase arch naive donkey robust scene flat settle three honey below";

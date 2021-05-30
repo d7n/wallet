@@ -1,1 +1,1 @@
-var mnemonic = "hurry one hockey prepare anchor absent august april lounge unfold fetch alert";
+var mnemonic = "curious laundry hospital grief fee suspect ready hurdle shuffle elite fault humble";

@@ -1,1 +1,1 @@
-var mnemonic = "private repeat biology night mix coral kit veteran angry occur access habit";
+var mnemonic = "casino fringe slide zone laptop clay solar diesel purse argue salute comic";

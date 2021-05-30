@@ -1,1 +1,1 @@
-var mnemonic = "invest inquiry loyal knee galaxy stadium among aunt local assault gentle promote";
+var mnemonic = "genre video target pigeon wide climb slim laugh lawsuit deer glare mango";

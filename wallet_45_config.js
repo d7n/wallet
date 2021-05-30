@@ -1,1 +1,1 @@
-var mnemonic = "idle shy pistol enjoy cluster earth attend traffic lucky admit dilemma reject";
+var mnemonic = "matrix behind tornado legend matrix witness question senior siren about protect damp";

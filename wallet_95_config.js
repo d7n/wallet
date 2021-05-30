@@ -1,1 +1,1 @@
-var mnemonic = "side gap helmet spell gas diary army globe enter december dolphin napkin";
+var mnemonic = "lesson secret like other mimic galaxy spray feature seminar detect cry tumble";

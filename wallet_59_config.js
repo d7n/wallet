@@ -1,1 +1,1 @@
-var mnemonic = "rebel elite gather feed steel trophy below exchange crisp divert juice hero";
+var mnemonic = "sell coyote upper fly party warrior want spoil level inhale flash danger";

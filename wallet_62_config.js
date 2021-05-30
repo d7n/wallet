@@ -1,1 +1,1 @@
-var mnemonic = "render refuse mansion now deputy owner green swift puppy sample firm grass";
+var mnemonic = "letter state column slab brain crisp athlete fossil actress gorilla polar able";

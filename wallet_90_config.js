@@ -1,1 +1,1 @@
-var mnemonic = "empower lounge item love jewel symptom layer mansion ice pet dignity decorate";
+var mnemonic = "train process tackle super sauce arrive lady neck blue cabin perfect code";

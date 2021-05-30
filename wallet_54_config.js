@@ -1,1 +1,1 @@
-var mnemonic = "into banana dizzy useless potato ring strike useless shove accident achieve size";
+var mnemonic = "visit banner brick adult strong prevent trash taxi elbow regular view cheap";

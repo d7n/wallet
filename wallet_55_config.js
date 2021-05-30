@@ -1,1 +1,1 @@
-var mnemonic = "math ginger length magic puppy tissue consider cycle suspect unfair pair armed";
+var mnemonic = "hip library rent pass town mouse refuse syrup undo ten draw shaft";

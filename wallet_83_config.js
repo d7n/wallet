@@ -1,1 +1,1 @@
-var mnemonic = "student tornado erupt stem craft annual couple twenty just trial title ramp";
+var mnemonic = "south bulb buyer hope slice maple tape scrap winter lyrics love shield";

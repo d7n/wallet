@@ -1,1 +1,1 @@
-var mnemonic = "yard umbrella cherry fine giraffe regret siren knee that argue magnet plate";
+var mnemonic = "fiscal course garage short soft again letter expand item category tray lend";

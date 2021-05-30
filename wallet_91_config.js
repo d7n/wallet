@@ -1,1 +1,1 @@
-var mnemonic = "fit ostrich picture mandate wagon science rich woman castle hover mind tissue";
+var mnemonic = "motor salon return job quantum tiny century metal title oyster long twice";

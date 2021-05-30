@@ -1,1 +1,1 @@
-var mnemonic = "sudden crater morning level quantum real speak angle frog whisper spring flash";
+var mnemonic = "mention cradle lava shell toddler choice casual marble ice degree cat flock";

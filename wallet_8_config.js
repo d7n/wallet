@@ -1,1 +1,1 @@
-var mnemonic = "faint rapid airport pyramid wheel access subject govern disorder easily child call";
+var mnemonic = "bubble piece zero program drop wrestle better phrase unknown announce pupil amateur";

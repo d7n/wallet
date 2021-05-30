@@ -1,1 +1,1 @@
-var mnemonic = "loop ivory system scan hat verb planet few race outdoor night pen";
+var mnemonic = "junior divert throw put bus piano canyon switch trumpet pony another nest";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic bridge supply because bubble lesson remain case catch system chest muffin";
+var mnemonic = "hill harsh negative blast minute all resist degree okay body genre add";

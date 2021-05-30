@@ -1,1 +1,1 @@
-var mnemonic = "obvious treat yellow like ball direct lonely window slab dragon talk average";
+var mnemonic = "spatial orange axis useless palace hint core zoo woman cart trigger peasant";

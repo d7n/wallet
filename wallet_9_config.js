@@ -1,1 +1,1 @@
-var mnemonic = "soft friend sugar number put penalty surge sweet ski attack lumber bean";
+var mnemonic = "volcano company pledge minute trigger scrub inside you decorate question brisk false";

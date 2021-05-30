@@ -1,1 +1,1 @@
-var mnemonic = "bunker icon receive find panic story solid left glad wise ranch canoe";
+var mnemonic = "bitter dune stove endorse flat album knock profit muffin bulb pumpkin business";

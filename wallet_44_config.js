@@ -1,1 +1,1 @@
-var mnemonic = "image maze copper pact vibrant audit real install spoon foam absurd now";
+var mnemonic = "glance physical quantum casino kit nothing husband defy civil surprise immense cheese";

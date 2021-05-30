@@ -1,1 +1,1 @@
-var mnemonic = "adult danger carry churn reduce exact neck fall fit box weapon ill";
+var mnemonic = "wood midnight shuffle borrow impose whisper snack heart adapt spirit easily gesture";

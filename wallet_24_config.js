@@ -1,1 +1,1 @@
-var mnemonic = "hurt check toss random three turtle cabin motor brother jacket sustain price";
+var mnemonic = "spare very gather still damage birth lazy history garden senior then flee";

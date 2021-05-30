@@ -1,1 +1,1 @@
-var mnemonic = "radio employ penalty thank prefer oppose decade design fresh shoulder industry measure";
+var mnemonic = "beyond cream wine intact garden orbit robust float giggle slam remember valley";

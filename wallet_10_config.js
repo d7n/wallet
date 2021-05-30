@@ -1,1 +1,1 @@
-var mnemonic = "ten process cup answer morning forget palace guess main million vibrant tongue";
+var mnemonic = "morning inject foster museum sentence casino inspire silent chef twelve woman scene";

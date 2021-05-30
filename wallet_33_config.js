@@ -1,1 +1,1 @@
-var mnemonic = "artefact property steel able voice practice daring achieve gasp zero royal tired";
+var mnemonic = "laugh wise across abstract opera amateur giggle system brush urge excite february";

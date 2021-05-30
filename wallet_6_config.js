@@ -1,1 +1,1 @@
-var mnemonic = "level achieve mail bomb door order above impose together woman camera weasel";
+var mnemonic = "sing follow fit wage hunt brand account vacuum hollow bomb royal poet";

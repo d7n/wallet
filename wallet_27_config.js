@@ -1,1 +1,1 @@
-var mnemonic = "major topple coral grunt vocal essence cigar involve regular arrow expect smart";
+var mnemonic = "cherry call chief ugly vault regret current bicycle opera burst oil chronic";

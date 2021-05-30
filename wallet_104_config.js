@@ -1,1 +1,1 @@
-var mnemonic = "primary diagram ability dirt review tired mention advice super spin critic dynamic";
+var mnemonic = "warfare order feel exhaust cost genius future add tornado extend argue wrist";

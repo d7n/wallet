@@ -1,1 +1,1 @@
-var mnemonic = "silk baby mesh eager dial wire dance ability middle twelve climb fish";
+var mnemonic = "lumber tenant reject autumn behind scatter culture food layer toss below side";

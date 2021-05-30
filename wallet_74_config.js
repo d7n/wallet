@@ -1,1 +1,1 @@
-var mnemonic = "room marine library kidney choose dress wild penalty permit infant broccoli gold";
+var mnemonic = "frown pipe cause inherit coffee lend miss wheel dial divert lesson trade";

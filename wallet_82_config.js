@@ -1,1 +1,1 @@
-var mnemonic = "blood drum anchor else loud ticket merge pilot toast neck together bridge";
+var mnemonic = "puzzle sketch fruit hood tape one old ocean penalty nominee cover lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "detect feed wing always long pass smoke grab scout essay funny display";
+var mnemonic = "wagon siren spy tribe bag result loan hollow naive response loyal tribe";

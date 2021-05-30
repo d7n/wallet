@@ -1,1 +1,1 @@
-var mnemonic = "puppy melt link street already episode marriage duck rally resist reject meat";
+var mnemonic = "wrestle gown fire raven garden erode hip marble thrive romance extra devote";

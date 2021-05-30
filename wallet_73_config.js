@@ -1,1 +1,1 @@
-var mnemonic = "frown sting garbage top share kick daring random gold grit flush hurdle";
+var mnemonic = "drive buffalo hover army drop eternal forward truth shove coffee disorder shop";

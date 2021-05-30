@@ -1,1 +1,1 @@
-var mnemonic = "mother raw inherit negative brief slim tenant ecology season mix robust tortoise";
+var mnemonic = "blood lend desert violin inch lounge scatter dumb indoor album ripple position";

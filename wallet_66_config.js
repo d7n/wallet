@@ -1,1 +1,1 @@
-var mnemonic = "alley video practice embrace biology park cash brain addict right donor library";
+var mnemonic = "chief boring empower sock awake face lizard across demand faculty mask oak";

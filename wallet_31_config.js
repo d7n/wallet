@@ -1,1 +1,1 @@
-var mnemonic = "road pass clip early pigeon subject unhappy maple wife gravity disorder twin";
+var mnemonic = "improve lonely ahead tent cable twenty nice coast traffic weapon pond face";

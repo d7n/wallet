@@ -1,1 +1,1 @@
-var mnemonic = "empty symptom lava sight busy analyst describe rude super struggle analyst awesome";
+var mnemonic = "scrub midnight mechanic stick marriage badge fever maze decade proof knock prefer";

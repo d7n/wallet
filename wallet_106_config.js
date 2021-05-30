@@ -1,1 +1,1 @@
-var mnemonic = "error upon lens gain reduce ugly pyramid board uphold treat predict stairs";
+var mnemonic = "solid lumber detect hip blood federal spike enact dad round cushion vendor";

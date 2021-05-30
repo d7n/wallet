@@ -1,1 +1,1 @@
-var mnemonic = "oblige admit crash anxiety ski vessel brief plunge benefit catch cannon scan";
+var mnemonic = "edge congress miracle wolf animal nation all category dance upset display random";

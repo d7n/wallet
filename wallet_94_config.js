@@ -1,1 +1,1 @@
-var mnemonic = "physical board portion clinic exhaust melody pact cage switch amateur split portion";
+var mnemonic = "demand believe canoe void radio extend juice radio notable option wire sweet";

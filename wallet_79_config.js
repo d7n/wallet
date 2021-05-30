@@ -1,1 +1,1 @@
-var mnemonic = "flock noble decide blouse income devote child couple december day hood purity";
+var mnemonic = "air verb fuel soup indicate bunker essence attitude bike citizen infant clap";

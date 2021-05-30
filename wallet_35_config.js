@@ -1,1 +1,1 @@
-var mnemonic = "bench love dismiss wave couch area cabin disagree differ crawl error cushion";
+var mnemonic = "motion sorry auction stomach avoid punch hunt myth clip foster update donate";

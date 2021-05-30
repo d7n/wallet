@@ -1,1 +1,1 @@
-var mnemonic = "transfer mechanic inside depart mango dress crunch mass crowd taste hole frog";
+var mnemonic = "tribe disease loan artefact ball supply solve reflect dose split theory dolphin";

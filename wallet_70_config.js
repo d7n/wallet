@@ -1,1 +1,1 @@
-var mnemonic = "normal purchase hawk claw rack book casual unhappy medal embark dizzy cushion";
+var mnemonic = "pole nature universe monkey broom layer pepper bachelor giant dutch dance skirt";

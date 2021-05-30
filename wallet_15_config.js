@@ -1,1 +1,1 @@
-var mnemonic = "helmet afraid meadow shiver input risk walk moment business maple logic define";
+var mnemonic = "innocent tip nature panda globe argue case thing erupt year idea gap";

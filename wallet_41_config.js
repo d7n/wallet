@@ -1,1 +1,1 @@
-var mnemonic = "fan aunt cloud behave furnace trend review mixture flip tip hundred accident";
+var mnemonic = "reopen drive ship smooth enhance leader second capable brisk essence token defense";

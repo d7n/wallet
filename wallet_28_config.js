@@ -1,1 +1,1 @@
-var mnemonic = "dolphin blush choice burst item thunder tragic west gorilla alone aware million";
+var mnemonic = "grow satoshi calm aspect point must scout run aunt bring remember harsh";

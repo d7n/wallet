@@ -1,1 +1,1 @@
-var mnemonic = "retire love skate lunch process verb change remove exist shuffle effort cat";
+var mnemonic = "dignity bounce clerk island nice fly real maid find toss report response";

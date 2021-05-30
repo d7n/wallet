@@ -1,1 +1,1 @@
-var mnemonic = "kid visa sausage spoil guard emotion canoe dumb orphan banana borrow theme";
+var mnemonic = "cradle island kitchen budget refuse mixed dynamic gesture high fresh fetch guess";

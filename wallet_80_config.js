@@ -1,1 +1,1 @@
-var mnemonic = "canoe dumb radio index work captain love breeze route bargain expire dress";
+var mnemonic = "struggle rival labor duty tip clock infant omit plunge misery pencil cereal";

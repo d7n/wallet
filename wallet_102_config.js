@@ -1,1 +1,1 @@
-var mnemonic = "access lumber sponsor rich dutch tragic soccer soft just develop heavy chef";
+var mnemonic = "pitch raccoon level outside topple demise bone space cactus rule dad decide";

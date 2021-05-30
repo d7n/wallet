@@ -1,1 +1,1 @@
-var mnemonic = "put bring weird chief main document toast local attitude gospel fiscal swallow";
+var mnemonic = "wisdom robust release steak lunch obvious sleep supreme hurt warrior employ mean";

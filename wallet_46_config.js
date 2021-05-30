@@ -1,1 +1,1 @@
-var mnemonic = "great cushion glue ketchup antique wrap banana fiction assume proof balance spider";
+var mnemonic = "depart lucky chicken anxiety stomach flat pony color private flash canal slice";

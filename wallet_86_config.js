@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tornado unfair soap faint tonight maple famous skirt casino option immense";
+var mnemonic = "almost merge cradle salmon case sea regular treat purpose they inmate aware";

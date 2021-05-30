@@ -1,1 +1,1 @@
-var mnemonic = "donor vague cute borrow call august squeeze clinic protect insect gap push";
+var mnemonic = "weasel shiver elbow oxygen vapor bridge similar board swamp clinic nut pull";

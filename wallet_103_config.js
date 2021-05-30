@@ -1,1 +1,1 @@
-var mnemonic = "problem reason duck reveal payment control bright apart sleep resource napkin pony";
+var mnemonic = "area ramp snake since issue egg rug very destroy uphold envelope blur";

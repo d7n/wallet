@@ -1,1 +1,1 @@
-var mnemonic = "light doll tackle today soap sustain unfold devote inspire cancel educate despair";
+var mnemonic = "mother inquiry lens token fashion hunt denial rent diet want solid net";

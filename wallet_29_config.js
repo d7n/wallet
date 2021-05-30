@@ -1,1 +1,1 @@
-var mnemonic = "account two morning pupil theory road pond shift survey mirror balance globe";
+var mnemonic = "original behind high bronze couple people slide input deal inside cloth powder";

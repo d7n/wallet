@@ -1,1 +1,1 @@
-var mnemonic = "crumble fiber light gallery forum blossom bitter balance equal notice radar shadow";
+var mnemonic = "multiply betray clerk sleep mouse letter learn divorce chicken picture pelican wagon";

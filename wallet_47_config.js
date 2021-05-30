@@ -1,1 +1,1 @@
-var mnemonic = "infant churn wait mobile fan frown proud auction pizza recycle crucial viable";
+var mnemonic = "sibling fish limb extra stay garden version apple mystery harbor deposit usage";

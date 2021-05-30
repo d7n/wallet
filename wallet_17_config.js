@@ -1,1 +1,1 @@
-var mnemonic = "steel beach mind ticket ahead expect exhibit cart session wife bag barely";
+var mnemonic = "island goddess nominee senior chief anchor immense upper enhance light unlock siege";
