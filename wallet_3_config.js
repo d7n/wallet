@@ -1,1 +1,1 @@
-var mnemonic = "forest dune burger invest cash iron latin focus citizen tomorrow pen lawn";
+var mnemonic = "draw door razor fault road vacant little arena way weather ginger juice";

@@ -1,1 +1,1 @@
-var mnemonic = "parent tell very convince deer wrist panther benefit animal skirt wait ribbon";
+var mnemonic = "umbrella where ship leg gorilla pulp tomato raven venue agent offer alien";

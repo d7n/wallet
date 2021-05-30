@@ -1,1 +1,1 @@
-var mnemonic = "admit wait ball pool giant vanish sea wealth adapt tip brush captain";
+var mnemonic = "game help express enemy sight kitchen sugar debris rough midnight domain oyster";

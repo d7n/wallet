@@ -1,1 +1,1 @@
-var mnemonic = "sun captain course bridge fantasy fiscal picture famous want demise present country";
+var mnemonic = "gift wheel flat deliver segment once child super century pink argue enough";

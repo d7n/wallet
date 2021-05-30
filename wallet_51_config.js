@@ -1,1 +1,1 @@
-var mnemonic = "need van focus mobile people seek birth burger fetch spawn leg owner";
+var mnemonic = "budget olive lift between derive sell work motor auction adult similar betray";

@@ -1,1 +1,1 @@
-var mnemonic = "moon before exercise decrease tip allow trade win clean slender traffic capital";
+var mnemonic = "citizen maximum label antenna spend library bread spare family upset claim major";

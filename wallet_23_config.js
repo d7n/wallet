@@ -1,1 +1,1 @@
-var mnemonic = "program age now pitch finish coach scissors taxi nominee twist team admit";
+var mnemonic = "cricket office fame pact express level decrease oxygen grape hair gap resource";

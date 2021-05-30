@@ -1,1 +1,1 @@
-var mnemonic = "toast bamboo truth picnic chase wreck lion little muscle soul resource utility";
+var mnemonic = "pelican security cactus city winter false mountain lunar glory gate mesh wise";

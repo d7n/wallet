@@ -1,1 +1,1 @@
-var mnemonic = "local three vacant satoshi cannon slogan infant belt cheese margin say hen";
+var mnemonic = "now shop drastic cousin physical vacuum armed box never churn lonely pony";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors this youth try couch lecture diary laundry depart estate ordinary pluck";
+var mnemonic = "traffic inmate tree canyon admit milk that sad rice wool sugar sign";

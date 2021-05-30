@@ -1,1 +1,1 @@
-var mnemonic = "crazy loyal beach nerve fade turn legal relax scene file load despair";
+var mnemonic = "nut sheriff judge apple enhance lounge dragon cluster success rebuild cereal meadow";

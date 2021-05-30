@@ -1,1 +1,1 @@
-var mnemonic = "blush soldier foam cart pledge scene convince sibling punch spawn old category";
+var mnemonic = "nut unfold poet journey hen valid mimic horse brick peasant sad soul";

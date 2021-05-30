@@ -1,1 +1,1 @@
-var mnemonic = "sting race crouch large amateur window isolate hero present behave fantasy squirrel";
+var mnemonic = "pulse friend hip youth deliver cabin badge drip pledge scheme muscle genuine";

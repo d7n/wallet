@@ -1,1 +1,1 @@
-var mnemonic = "health obey beach remove stuff garden require flat dune live pulse crouch";
+var mnemonic = "soccer gentle situate arm path clump clerk evolve must damage during slow";

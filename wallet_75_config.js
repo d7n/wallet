@@ -1,1 +1,1 @@
-var mnemonic = "thunder suffer inspire young avocado seed clown satisfy feed spot crush potato";
+var mnemonic = "foam festival mutual village derive convince plunge moral clean inner dice lottery";

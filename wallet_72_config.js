@@ -1,1 +1,1 @@
-var mnemonic = "series famous warfare drill extend tilt inquiry talk shy list stay glare";
+var mnemonic = "fringe appear accident electric machine town title dress middle leg swing supply";

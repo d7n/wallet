@@ -1,1 +1,1 @@
-var mnemonic = "grocery annual virtual melody shallow release door furnace list pottery afraid junior";
+var mnemonic = "soup margin tiger nest glimpse project always orange sniff category scale equal";

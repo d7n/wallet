@@ -1,1 +1,1 @@
-var mnemonic = "document fetch immune frozen warm drop design join swing clown sausage oil";
+var mnemonic = "danger choose raccoon wrestle tonight option ladder front salad hold vanish arrow";

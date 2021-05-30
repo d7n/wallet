@@ -1,1 +1,1 @@
-var mnemonic = "limit decrease burden lab crowd cheese lyrics payment view speak mail tray";
+var mnemonic = "nest oxygen recycle amount knock excuse call wood butter hair rabbit cross";

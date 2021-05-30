@@ -1,1 +1,1 @@
-var mnemonic = "link lounge cancel tornado emerge hunt burst change height excuse problem path";
+var mnemonic = "canvas budget board flat gentle hour job flock drum pigeon wisdom ripple";

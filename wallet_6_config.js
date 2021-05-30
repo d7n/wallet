@@ -1,1 +1,1 @@
-var mnemonic = "differ game spring surprise yard hawk rail consider kitten piece tribe catalog";
+var mnemonic = "this portion slight build switch knife visual pool coach topple wasp purse";

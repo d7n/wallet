@@ -1,1 +1,1 @@
-var mnemonic = "live tourist deposit deputy humble man item grunt govern salmon blind exit";
+var mnemonic = "spider tomorrow pill observe board turkey reunion gain add clog dress deposit";

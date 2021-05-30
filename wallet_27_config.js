@@ -1,1 +1,1 @@
-var mnemonic = "brass define track target slam social today blanket syrup estate donate oak";
+var mnemonic = "essence rescue pear frame certain sand dial hat suspect endorse food elbow";

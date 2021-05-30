@@ -1,1 +1,1 @@
-var mnemonic = "fresh unknown multiply debris page oval sense reform damp online whisper risk";
+var mnemonic = "dust top spatial kiwi daring demise useful dust royal render abuse useful";

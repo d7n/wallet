@@ -1,1 +1,1 @@
-var mnemonic = "host liquid alert above nominee heart similar spread horse aim frozen broccoli";
+var mnemonic = "wrap daughter ship calm radio lazy loop legal powder renew topic nerve";

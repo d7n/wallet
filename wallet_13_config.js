@@ -1,1 +1,1 @@
-var mnemonic = "hobby render nothing below flight allow invest write diagram final loan near";
+var mnemonic = "critic remind repeat screen rapid kind nose jazz bitter any entire run";

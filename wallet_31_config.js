@@ -1,1 +1,1 @@
-var mnemonic = "grab board company apology action scale task volcano creek cheese exotic need";
+var mnemonic = "train abandon liberty crisp friend lock wink earn trigger fade neck stem";

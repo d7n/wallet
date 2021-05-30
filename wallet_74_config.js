@@ -1,1 +1,1 @@
-var mnemonic = "purchase differ speed olive wise pigeon year wrong repair muffin roast knee";
+var mnemonic = "universe argue sentence crowd sponsor federal frame muscle chimney kid boy fire";

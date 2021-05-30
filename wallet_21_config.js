@@ -1,1 +1,1 @@
-var mnemonic = "horse company alert bus gospel firm orange cat view session only auto";
+var mnemonic = "outdoor aerobic monkey borrow license disease grape bright rather bulb fold cupboard";

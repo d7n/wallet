@@ -1,1 +1,1 @@
-var mnemonic = "prize movie fly school turtle ahead curtain wife learn bleak winter brave";
+var mnemonic = "monitor screen pitch neutral nature slender drill wild glass amused canoe wire";

@@ -1,1 +1,1 @@
-var mnemonic = "vault then bag silent peanut crater math monitor scene planet embody recycle";
+var mnemonic = "screen pear grape remain future rude soccer library swear install copy silver";

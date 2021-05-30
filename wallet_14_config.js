@@ -1,1 +1,1 @@
-var mnemonic = "dash flat opinion happy huge excuse fee edit jealous cube stomach wheel";
+var mnemonic = "pistol upset hammer tool burden danger loyal dial design hub zoo rapid";

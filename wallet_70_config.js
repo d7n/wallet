@@ -1,1 +1,1 @@
-var mnemonic = "inform pledge kangaroo much youth crazy danger pluck owner fold rule source";
+var mnemonic = "spirit violin health loud ridge cattle disorder above crazy demand unfold toss";

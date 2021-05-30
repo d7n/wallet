@@ -1,1 +1,1 @@
-var mnemonic = "whisper unique scene obtain dream step family liar staff ship pupil scrub";
+var mnemonic = "empower song electric buffalo shop dice punch stuff boy luggage antenna clock";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent fruit evolve fence remove crop curious inhale into bargain thrive autumn";
+var mnemonic = "lunch dove wood night scare spatial horn original ritual crisp sad school";

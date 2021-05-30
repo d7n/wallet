@@ -1,1 +1,1 @@
-var mnemonic = "canvas range trash inject when item innocent midnight unveil one belt guitar";
+var mnemonic = "pool kick reopen wrist hour adjust shy avoid extra trophy stool health";

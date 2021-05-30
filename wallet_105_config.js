@@ -1,1 +1,1 @@
-var mnemonic = "minimum cross decorate muscle vintage essay fence grow stairs wrist express reward";
+var mnemonic = "adjust kit lumber cup ghost smoke prosper salon rookie era valley anchor";

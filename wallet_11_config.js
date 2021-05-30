@@ -1,1 +1,1 @@
-var mnemonic = "expose attract junk plate old novel cram book cricket credit term resist";
+var mnemonic = "case mammal guilt powder sauce recall side oven grant warfare ketchup aware";

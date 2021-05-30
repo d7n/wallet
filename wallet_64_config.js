@@ -1,1 +1,1 @@
-var mnemonic = "charge bicycle seven stay bone moral bench vacuum slam mesh width kite";
+var mnemonic = "fan clarify meadow model case chalk text harsh safe aunt crater arrest";

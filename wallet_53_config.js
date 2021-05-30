@@ -1,1 +1,1 @@
-var mnemonic = "fly remain memory humor alert dynamic coast enroll toe wedding guide betray";
+var mnemonic = "slight chaos stick question maid umbrella mobile bid index phrase glare physical";

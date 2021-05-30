@@ -1,1 +1,1 @@
-var mnemonic = "tip worth hollow abstract wear travel become uphold arrange resource broom antique";
+var mnemonic = "oyster version round scrub goat volume repeat minimum story sweet group tag";

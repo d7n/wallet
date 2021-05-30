@@ -1,1 +1,1 @@
-var mnemonic = "expand music leisure spice civil violin smile rebuild mean fog jelly hammer";
+var mnemonic = "license other almost motion invest shoe bless crop unit want journey category";

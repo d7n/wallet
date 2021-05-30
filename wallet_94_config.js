@@ -1,1 +1,1 @@
-var mnemonic = "comic nuclear foam write hip define vanish glass column funny body trim";
+var mnemonic = "belt trust chronic lyrics hamster initial ice main crush potato bamboo october";

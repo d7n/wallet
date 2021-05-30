@@ -1,1 +1,1 @@
-var mnemonic = "win vivid switch congress mobile blanket income topple monitor barely measure hurt";
+var mnemonic = "right stand mom spoon fog supply warm winter episode royal myself card";

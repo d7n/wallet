@@ -1,1 +1,1 @@
-var mnemonic = "second relief lift that fortune media space sponsor warfare digital minor goat";
+var mnemonic = "treat sniff turkey report recall fly holiday judge guard gather always shaft";

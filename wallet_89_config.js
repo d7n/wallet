@@ -1,1 +1,1 @@
-var mnemonic = "avoid tackle assault tribe estate junk define pass chapter snake proud crucial";
+var mnemonic = "robust park hurry tower deposit protect gate treat second glare worth debris";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy cactus pet charge lawn lazy tired priority ankle screen escape chuckle";
+var mnemonic = "divorce salt ticket snake train security length business daring siege soft onion";

@@ -1,1 +1,1 @@
-var mnemonic = "author obvious romance science pride guitar pull rug people theme child insane";
+var mnemonic = "life such canoe twice remind client tissue volume pear nose piece sign";

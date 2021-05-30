@@ -1,1 +1,1 @@
-var mnemonic = "picnic tortoise edge start country twist design match busy example swear trust";
+var mnemonic = "stomach blame lesson custom remove actor question ribbon window sunny idea blanket";

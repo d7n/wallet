@@ -1,1 +1,1 @@
-var mnemonic = "place regular lecture crime minimum reflect truly logic grass federal minor wet";
+var mnemonic = "coffee flip tonight garden liberty age observe position raccoon shrimp mechanic stumble";

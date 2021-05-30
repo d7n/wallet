@@ -1,1 +1,1 @@
-var mnemonic = "suit tomorrow own fuel ivory fringe hard famous tissue pudding order theme";
+var mnemonic = "more vacant trim deputy service minute bulk cherry lunch practice certain burst";

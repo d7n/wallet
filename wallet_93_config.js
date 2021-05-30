@@ -1,1 +1,1 @@
-var mnemonic = "profit order marble slow agent marble purse program arrow amused vast tent";
+var mnemonic = "butter innocent warrior exit chair antenna depend antenna camera maximum start success";

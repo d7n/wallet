@@ -1,1 +1,1 @@
-var mnemonic = "aunt please cover glide lyrics awake trust arrive sorry toy laugh secret";
+var mnemonic = "steel garbage material heavy wreck stereo torch corn define pool harbor crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "below mixture scout network embody infant diamond flag cube polar achieve coach";
+var mnemonic = "spirit beauty story cube hunt kiss track daring solve machine radar mouse";

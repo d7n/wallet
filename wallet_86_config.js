@@ -1,1 +1,1 @@
-var mnemonic = "leaf once letter finish easily print subway tide prison keep sunset pumpkin";
+var mnemonic = "pact solve flame blouse kidney town caught power elevator exhibit network police";

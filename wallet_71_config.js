@@ -1,1 +1,1 @@
-var mnemonic = "brass napkin win foster gospel eye candy plug verb else staff buffalo";
+var mnemonic = "bundle input absurd hobby miss harsh fashion elder budget divide wink soda";

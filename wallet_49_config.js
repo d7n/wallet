@@ -1,1 +1,1 @@
-var mnemonic = "bitter combine humble ridge brick ice loyal iron allow fossil husband vicious";
+var mnemonic = "moral absent fall seek agent crane boy sense excuse year soon green";

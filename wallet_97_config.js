@@ -1,1 +1,1 @@
-var mnemonic = "tissue energy style melt blouse neck vessel hobby wheat junk ostrich ice";
+var mnemonic = "afraid nature leave animal hip assist wolf tomorrow power whip slice actress";

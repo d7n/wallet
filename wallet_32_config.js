@@ -1,1 +1,1 @@
-var mnemonic = "human orient law pet dolphin flee cat ask segment twice ginger enforce";
+var mnemonic = "frost normal balcony mouse chair egg segment toy hire armed dirt sugar";

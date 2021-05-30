@@ -1,1 +1,1 @@
-var mnemonic = "topic piece core alpha bring axis magnet nominee regular seven enrich movie";
+var mnemonic = "dismiss kite abuse avoid differ parade expose raccoon plunge stuff glad can";

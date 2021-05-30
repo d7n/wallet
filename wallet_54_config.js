@@ -1,1 +1,1 @@
-var mnemonic = "ball pet present festival life cram test dirt cloth shed wrestle coffee";
+var mnemonic = "card below voice hero great entire obey suspect odor tell produce flock";

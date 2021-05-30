@@ -1,1 +1,1 @@
-var mnemonic = "era intact disease usage bless good velvet peace happy useless invest squeeze";
+var mnemonic = "come income beyond ocean bronze laugh card decade luggage stumble diary distance";

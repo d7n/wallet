@@ -1,1 +1,1 @@
-var mnemonic = "artefact autumn asthma off hint issue around loud detail need extra lens";
+var mnemonic = "render tower bounce fancy retreat donor hurdle pair stone supply attend dress";

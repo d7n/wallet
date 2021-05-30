@@ -1,1 +1,1 @@
-var mnemonic = "dwarf bomb visa volcano mango oxygen process assume member income track silk";
+var mnemonic = "friend deputy where blame poverty crazy juice open crush unable rigid crumble";

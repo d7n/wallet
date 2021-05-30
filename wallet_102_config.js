@@ -1,1 +1,1 @@
-var mnemonic = "deposit ice sadness tragic together drive below before sick tomato faint proud";
+var mnemonic = "pact keep seek spike horn reveal carry imitate balcony control leg yellow";

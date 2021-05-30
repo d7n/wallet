@@ -1,1 +1,1 @@
-var mnemonic = "have horn truth market about retreat easy avoid swear observe interest person";
+var mnemonic = "harsh people wage lunar original because stable document goat galaxy act decade";

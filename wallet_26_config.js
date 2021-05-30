@@ -1,1 +1,1 @@
-var mnemonic = "increase hurry gentle size dizzy issue zebra turkey leave brick walnut glimpse";
+var mnemonic = "supreme fancy rigid ladder report suspect carry any fine fall promote baby";

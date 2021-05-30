@@ -1,1 +1,1 @@
-var mnemonic = "powder vehicle wish retire village surprise permit round rough coral smart proud";
+var mnemonic = "right deal waste answer ill convince enrich very usual mouse endorse snake";

@@ -1,1 +1,1 @@
-var mnemonic = "close nerve legal amazing matrix frequent invite frozen mechanic end health sense";
+var mnemonic = "together slush sister century riot other lift eight boss chimney nice fault";

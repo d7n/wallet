@@ -1,1 +1,1 @@
-var mnemonic = "prevent weird van fortune opinion tumble diesel sorry merry inmate sweet extra";
+var mnemonic = "traffic glory business potato arctic conduct giggle rigid vapor liar veteran genuine";

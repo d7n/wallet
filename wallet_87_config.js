@@ -1,1 +1,1 @@
-var mnemonic = "duty present strike barely actor heart foam average scout lend peanut skull";
+var mnemonic = "leisure holiday across level raven home panel neglect cage connect banner lock";

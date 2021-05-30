@@ -1,1 +1,1 @@
-var mnemonic = "degree peace battle library speed about badge frost kiss author husband cruise";
+var mnemonic = "mystery purchase fiscal tonight toast core spray sketch page cheese lunch dial";

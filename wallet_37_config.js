@@ -1,1 +1,1 @@
-var mnemonic = "cupboard giraffe slogan lobster first suit steak address bar outdoor eight final";
+var mnemonic = "spawn mandate found ecology enroll leg nature between soul update awkward demand";

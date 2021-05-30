@@ -1,1 +1,1 @@
-var mnemonic = "inner denial happy craft empower mesh harsh audit gasp danger repair rack";
+var mnemonic = "panic kangaroo cruise wave price extend render sand anchor giant elbow chaos";

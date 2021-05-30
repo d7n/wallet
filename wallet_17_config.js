@@ -1,1 +1,1 @@
-var mnemonic = "advance federal plastic win inmate hunt finish trip jar motion dilemma tortoise";
+var mnemonic = "wife citizen laugh chase calm decide siege maze core galaxy pen tide";

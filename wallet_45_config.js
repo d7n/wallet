@@ -1,1 +1,1 @@
-var mnemonic = "crystal camera style kangaroo speak soon output team bullet warfare icon second";
+var mnemonic = "pink border foster sword casino liar govern defense sister source weather fatal";

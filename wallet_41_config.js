@@ -1,1 +1,1 @@
-var mnemonic = "power bounce mesh expand replace brand dog pigeon extend sister relax wild";
+var mnemonic = "ill friend state educate faith subject affair filter price sign sausage asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "special notable food number alley field whisper gospel danger improve gadget lion";
+var mnemonic = "tiger book balance exchange talent life token wolf busy crawl creek quick";

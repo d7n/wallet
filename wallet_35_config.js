@@ -1,1 +1,1 @@
-var mnemonic = "other shuffle science hope unveil fit sister arrive duty marriage room they";
+var mnemonic = "develop stone judge faint novel trip naive place village sweet cost special";

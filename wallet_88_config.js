@@ -1,1 +1,1 @@
-var mnemonic = "prosper large blur obvious later kidney point notice gas debate real doll";
+var mnemonic = "lawsuit document foil march body gym tennis borrow warrior sure shove potato";

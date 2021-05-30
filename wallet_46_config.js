@@ -1,1 +1,1 @@
-var mnemonic = "strong envelope try lunch embody ignore hen wheat swim express swarm doll";
+var mnemonic = "domain wink hungry sudden soap dog brother okay room vague neglect neither";

@@ -1,1 +1,1 @@
-var mnemonic = "guess surprise senior tree west long virtual soccer top cave shed worry";
+var mnemonic = "myself half monkey fold pet photo dragon sadness follow jar limb present";

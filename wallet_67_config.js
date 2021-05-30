@@ -1,1 +1,1 @@
-var mnemonic = "can coast speak pond define judge accident depart truth machine describe verb";
+var mnemonic = "tumble satoshi between motor miss reduce network magic devote toast reduce vicious";

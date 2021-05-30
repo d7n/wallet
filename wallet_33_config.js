@@ -1,1 +1,1 @@
-var mnemonic = "opera equal better basket member disorder bike weekend hen assume option tent";
+var mnemonic = "token badge advice brush detect chimney draft below high dismiss busy deer";

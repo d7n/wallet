@@ -1,1 +1,1 @@
-var mnemonic = "town harvest celery element winner wrestle swift outer pudding gesture twin home";
+var mnemonic = "move august pumpkin price before save normal dune medal elbow inch height";

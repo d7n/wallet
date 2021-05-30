@@ -1,1 +1,1 @@
-var mnemonic = "recipe left pioneer execute depend fashion original glow orange road luxury release";
+var mnemonic = "custom ship famous hat green myth pulp morning index primary cake blade";

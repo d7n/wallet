@@ -1,1 +1,1 @@
-var mnemonic = "taxi gaze essence matrix mutual subject ordinary scissors toast nerve autumn kangaroo";
+var mnemonic = "famous clean payment kid title wonder rigid carbon young theme buzz never";

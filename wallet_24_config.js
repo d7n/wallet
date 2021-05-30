@@ -1,1 +1,1 @@
-var mnemonic = "great credit fire force execute broken any purchase badge winter fringe fiction";
+var mnemonic = "interest fog casino eager empower sort oblige alcohol fragile never road wire";

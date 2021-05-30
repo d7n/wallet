@@ -1,1 +1,1 @@
-var mnemonic = "abstract burst day script salon ankle quality power usage brick grace donate";
+var mnemonic = "wrestle pyramid holiday already eyebrow useful wire unknown joy imitate ivory perfect";

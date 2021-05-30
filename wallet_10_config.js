@@ -1,1 +1,1 @@
-var mnemonic = "blouse regret jungle wine throw high divide bounce note grant worry marine";
+var mnemonic = "force unusual film exchange industry wish razor axis say museum urban rally";

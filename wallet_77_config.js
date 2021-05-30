@@ -1,1 +1,1 @@
-var mnemonic = "pond august arrow maximum uncle cruel file jewel silk reason utility ring";
+var mnemonic = "tape blast print skill gadget indicate narrow behind topple manual taste armor";

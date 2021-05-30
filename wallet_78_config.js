@@ -1,1 +1,1 @@
-var mnemonic = "worry novel talk coil come rabbit reflect negative hundred office build rocket";
+var mnemonic = "voyage sunset anger dentist category develop group roof point young sphere setup";
