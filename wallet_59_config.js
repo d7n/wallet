@@ -1,1 +1,1 @@
-var mnemonic = "hair demand music spend among large illegal husband any manual surface gravity";
+var mnemonic = "south airport supply front unit van again example smile ask mass canyon";

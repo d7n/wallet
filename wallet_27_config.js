@@ -1,1 +1,1 @@
-var mnemonic = "twelve panther escape sea lawsuit lawn vehicle test drift shine coral mad";
+var mnemonic = "shiver boat change unhappy fatal legal saddle rose impact carry tenant angle";

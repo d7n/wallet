@@ -1,1 +1,1 @@
-var mnemonic = "bacon cart stand among wisdom rough limit phone review traffic cherry grace";
+var mnemonic = "snake spike tobacco model erase spoil license consider slot sting usual cactus";

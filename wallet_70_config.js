@@ -1,1 +1,1 @@
-var mnemonic = "point equip funny dose history service craft chuckle bunker crash sick uphold";
+var mnemonic = "volume post three bike basket response analyst office only undo fever village";

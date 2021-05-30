@@ -1,1 +1,1 @@
-var mnemonic = "lesson tonight live hope ability answer paddle actual fresh main afraid season";
+var mnemonic = "latin slim left proof verify shoot exclude firm lunar breeze tooth wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "word asthma mad dragon monster bitter best humor chapter animal round robust";
+var mnemonic = "middle warm fork mirror trophy team pelican menu cross problem stick bright";

@@ -1,1 +1,1 @@
-var mnemonic = "frame pepper series innocent put powder iron crack begin final lava capable";
+var mnemonic = "this inhale grunt praise toast barrel wife goddess vintage broccoli flag tilt";

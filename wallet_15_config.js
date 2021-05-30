@@ -1,1 +1,1 @@
-var mnemonic = "sniff tornado silly visa tragic debris morning same frown expose phone leisure";
+var mnemonic = "injury bleak bulb clutch slab dash side wear practice peanut puppy apart";

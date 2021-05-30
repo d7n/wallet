@@ -1,1 +1,1 @@
-var mnemonic = "anger dentist hurt breeze badge guard style child pyramid certain top indicate";
+var mnemonic = "radar negative slab table start cigar captain reduce siege meat assault below";

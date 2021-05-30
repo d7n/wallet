@@ -1,1 +1,1 @@
-var mnemonic = "length slow green chaos casino hidden kingdom isolate width off hand ridge";
+var mnemonic = "beef home analyst brain mountain heart finger again web forget trophy whip";

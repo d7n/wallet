@@ -1,1 +1,1 @@
-var mnemonic = "spring robust chief rain misery rib obey senior swallow barrel swift pigeon";
+var mnemonic = "success pattern tiger brass click verb sleep laundry canvas salute flee sell";

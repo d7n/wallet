@@ -1,1 +1,1 @@
-var mnemonic = "just tennis very dignity ritual crouch stay lawn away kingdom about pizza";
+var mnemonic = "note slogan repair mother planet develop flat post pool blush wasp crash";

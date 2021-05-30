@@ -1,1 +1,1 @@
-var mnemonic = "belt nurse patient bulk resource rice dust clutch soccer artefact powder boost";
+var mnemonic = "choose wasp slim quiz lecture also tumble sentence bunker disease involve summer";

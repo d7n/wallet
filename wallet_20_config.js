@@ -1,1 +1,1 @@
-var mnemonic = "foster rule sight vendor color copy shaft street century detect early recycle";
+var mnemonic = "mystery select soap enter slogan decorate attitude stamp cabin blanket lock pitch";

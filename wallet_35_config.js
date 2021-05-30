@@ -1,1 +1,1 @@
-var mnemonic = "pupil regular recall equip cute distance game much crowd ability paddle six";
+var mnemonic = "grunt rebuild day guilt mystery impact mind master stem genuine sugar moon";

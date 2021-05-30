@@ -1,1 +1,1 @@
-var mnemonic = "coin whale hospital note fatal illegal digital vital pattern frost cake initial";
+var mnemonic = "affair symptom parent error answer illegal idea point match old sight avocado";

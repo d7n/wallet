@@ -1,1 +1,1 @@
-var mnemonic = "modify runway flash bottom excuse lava fruit sunset model range output plunge";
+var mnemonic = "unhappy later swift fiscal inherit spot ancient escape choice motion dumb toddler";

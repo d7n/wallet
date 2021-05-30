@@ -1,1 +1,1 @@
-var mnemonic = "grape useful wage actor sustain enlist host leopard regret update spoil sport";
+var mnemonic = "series common surprise cherry envelope orchard question village next season pelican buzz";

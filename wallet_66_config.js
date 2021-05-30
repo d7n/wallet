@@ -1,1 +1,1 @@
-var mnemonic = "sunset future cat rabbit kingdom hip shell where dinner bitter very involve";
+var mnemonic = "mother degree isolate afraid walk enhance relax connect double true embark drive";

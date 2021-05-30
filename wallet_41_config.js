@@ -1,1 +1,1 @@
-var mnemonic = "term chalk hire cupboard refuse valley view tired stairs broom surge infant";
+var mnemonic = "twenty axis vault hawk shaft unknown ignore rail announce bomb violin repeat";

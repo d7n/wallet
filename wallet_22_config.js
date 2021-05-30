@@ -1,1 +1,1 @@
-var mnemonic = "balance empower enlist coconut reward muffin depart earth bless color sausage broken";
+var mnemonic = "laptop again core code save betray side test pulp mandate height birth";

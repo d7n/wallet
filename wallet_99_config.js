@@ -1,1 +1,1 @@
-var mnemonic = "badge love flower muscle trigger stumble fantasy artefact ostrich matter caution blind";
+var mnemonic = "arm similar message click oil aerobic science skill emotion guilt promote belt";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon valve okay smooth sauce drink slice subway spot sell web drum";
+var mnemonic = "sphere roast drive stage negative embark battle cloud salmon matter swap cradle";

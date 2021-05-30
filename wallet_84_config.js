@@ -1,1 +1,1 @@
-var mnemonic = "genuine draft boss medal tomato delay visual angle lucky item hood various";
+var mnemonic = "detect flip lazy tank entry come dawn design train amateur enough infant";

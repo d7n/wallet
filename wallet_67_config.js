@@ -1,1 +1,1 @@
-var mnemonic = "segment custom session decade quote safe cute theme team snake fragile save";
+var mnemonic = "abstract matter bleak debris whisper town hotel relief extra parrot rice vital";

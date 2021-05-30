@@ -1,1 +1,1 @@
-var mnemonic = "carry wait fire veteran favorite oil heart grab february maid whip walk";
+var mnemonic = "input swap waste skate pattern various kit champion matter insane denial right";

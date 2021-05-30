@@ -1,1 +1,1 @@
-var mnemonic = "gift limb strategy deer kiwi fruit cabbage tree bridge submit seek result";
+var mnemonic = "smooth school mobile faith bar gospel smooth reform useless cherry become blouse";

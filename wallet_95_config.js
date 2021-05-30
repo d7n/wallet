@@ -1,1 +1,1 @@
-var mnemonic = "pizza doll capital amazing other grape pizza paddle axis artist inquiry sponsor";
+var mnemonic = "open traffic satoshi bubble type wolf pond pluck hand kidney season gravity";

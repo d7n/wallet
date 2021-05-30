@@ -1,1 +1,1 @@
-var mnemonic = "large just arrest average carpet market deny earn upon armor potato bag";
+var mnemonic = "tent abstract unveil scrub company abstract neglect congress review picnic enable smooth";

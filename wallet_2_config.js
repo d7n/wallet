@@ -1,1 +1,1 @@
-var mnemonic = "friend category core extra tent student nose home input try index race";
+var mnemonic = "hunt moment brother wisdom baby payment enjoy frog cruise rail device hobby";

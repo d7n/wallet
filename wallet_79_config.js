@@ -1,1 +1,1 @@
-var mnemonic = "result link canoe easy vacant cigar bridge hole album bomb about wrap";
+var mnemonic = "fantasy analyst walnut umbrella exchange work useful funny elephant must steel arm";

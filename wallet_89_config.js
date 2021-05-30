@@ -1,1 +1,1 @@
-var mnemonic = "park ill crack vintage defy clump enjoy current teach buyer dentist auction";
+var mnemonic = "aerobic cinnamon knee guess craft gap lecture frog garbage sadness jeans dune";

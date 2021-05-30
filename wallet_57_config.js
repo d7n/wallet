@@ -1,1 +1,1 @@
-var mnemonic = "net spray obey motion priority ancient term oven supreme skate casual toast";
+var mnemonic = "whip fall dash robust major old enhance thank equal master group ice";

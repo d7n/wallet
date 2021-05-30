@@ -1,1 +1,1 @@
-var mnemonic = "wedding update moment fatigue february address alert cycle ordinary shop city student";
+var mnemonic = "pumpkin energy hour sing wrestle tent foil board front globe rocket inquiry";

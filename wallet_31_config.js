@@ -1,1 +1,1 @@
-var mnemonic = "carbon glove ride shell flat confirm afford inside tourist baby stairs card";
+var mnemonic = "wife during slide napkin crack ostrich robot family describe frequent minor increase";

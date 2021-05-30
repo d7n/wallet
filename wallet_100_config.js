@@ -1,1 +1,1 @@
-var mnemonic = "sauce fortune scan torch gorilla major lunar rib menu smoke bone breeze";
+var mnemonic = "virus position remember radar blue dial section country tomato wall obvious wave";

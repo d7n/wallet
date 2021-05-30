@@ -1,1 +1,1 @@
-var mnemonic = "worth pottery recipe faint federal fence slam usage grief swamp nest daring";
+var mnemonic = "exotic detail catch rent crisp drip unveil dice ensure miss truck lend";

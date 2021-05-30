@@ -1,1 +1,1 @@
-var mnemonic = "tenant case tape foot delay disease victory worry come merge gain same";
+var mnemonic = "unlock note uncle lonely skill essay video orbit original manual salmon start";

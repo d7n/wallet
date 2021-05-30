@@ -1,1 +1,1 @@
-var mnemonic = "track hand present execute twice wise symbol gather busy group mystery scan";
+var mnemonic = "puzzle open neutral business sustain aspect length gloom junk labor edit supreme";

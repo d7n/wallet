@@ -1,1 +1,1 @@
-var mnemonic = "guess add office wasp limit false mutual derive you away pottery sell";
+var mnemonic = "own auction episode spawn inform hire setup light candy fox rain expand";

@@ -1,1 +1,1 @@
-var mnemonic = "nest document decade rude hero final ice steel turtle identify during describe";
+var mnemonic = "island fringe project control click oval brown pumpkin glue lottery health absorb";

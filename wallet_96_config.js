@@ -1,1 +1,1 @@
-var mnemonic = "oak marriage rose sing hood final weekend capable sweet fish chat tobacco";
+var mnemonic = "renew soon hundred payment sauce crumble timber amount lens vessel push innocent";

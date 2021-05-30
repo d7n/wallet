@@ -1,1 +1,1 @@
-var mnemonic = "hen custom suit rich phrase asset distance middle diet suspect equal siren";
+var mnemonic = "session stone poverty cliff west box mirror ritual gorilla tuna pave tail";

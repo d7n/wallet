@@ -1,1 +1,1 @@
-var mnemonic = "limb task abstract intact body joke badge duty prepare recall flip coin";
+var mnemonic = "ball assist ghost stay text paddle juice program betray rail steak ability";

@@ -1,1 +1,1 @@
-var mnemonic = "cube relief boring stool task solution eight wrong blade talk caution say";
+var mnemonic = "oxygen curtain blue alone border twist stone reveal open slice purpose digital";

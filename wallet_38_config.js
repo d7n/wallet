@@ -1,1 +1,1 @@
-var mnemonic = "satoshi biology cupboard option street clever attack toe actual cream hero horn";
+var mnemonic = "elite beach damage industry carpet diamond afford chat skirt express health pumpkin";

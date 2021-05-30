@@ -1,1 +1,1 @@
-var mnemonic = "warm aisle scene soda payment labor illegal moon civil minor steak assault";
+var mnemonic = "empty dove predict pyramid hole region vital series account brief erode brother";

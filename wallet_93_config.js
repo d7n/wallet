@@ -1,1 +1,1 @@
-var mnemonic = "omit degree rate wood piano south time baby cruise puppy trim outside";
+var mnemonic = "wise album bronze fish hobby snow sure sausage hurdle slide naive height";

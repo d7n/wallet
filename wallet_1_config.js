@@ -1,1 +1,1 @@
-var mnemonic = "disagree acid hole approve essence assist behind mass melt century song wrong";
+var mnemonic = "private burst believe artist mix middle top six return install black snow";

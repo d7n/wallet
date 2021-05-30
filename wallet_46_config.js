@@ -1,1 +1,1 @@
-var mnemonic = "visa stock panther offer aspect jewel addict urban mercy visa dignity pulp";
+var mnemonic = "spoil permit mixed amazing portion soon bottom unusual push indicate aware twice";

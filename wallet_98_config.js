@@ -1,1 +1,1 @@
-var mnemonic = "cannon news sustain change verb sunny often agree coral crazy assume pilot";
+var mnemonic = "system brush tide foot street flash gold decade afraid author paper immune";

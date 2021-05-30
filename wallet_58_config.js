@@ -1,1 +1,1 @@
-var mnemonic = "mushroom toe sure frequent develop adjust outside draft flush pitch heavy fame";
+var mnemonic = "next coyote sibling hollow consider vague innocent holiday mosquito left vapor mad";

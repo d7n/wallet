@@ -1,1 +1,1 @@
-var mnemonic = "release army debris stamp roof front beach broccoli cattle settle include kitten";
+var mnemonic = "select know decide useful donate express fantasy border wool armed cost sea";

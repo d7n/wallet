@@ -1,1 +1,1 @@
-var mnemonic = "old phrase panther ask old salute steel rigid drip cross rally episode";
+var mnemonic = "genuine describe ankle guess dilemma top brave young father zero army length";

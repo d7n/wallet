@@ -1,1 +1,1 @@
-var mnemonic = "spring turtle uncle prefer good valve inner lottery stuff glare coconut churn";
+var mnemonic = "mix maximum peanut butter suspect risk rookie feel palace brick polar alcohol";

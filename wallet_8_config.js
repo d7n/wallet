@@ -1,1 +1,1 @@
-var mnemonic = "begin truly process wrist river craft lyrics milk practice fee ancient patrol";
+var mnemonic = "length angry hand shield joy neutral antenna involve view finger page always";

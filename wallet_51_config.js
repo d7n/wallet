@@ -1,1 +1,1 @@
-var mnemonic = "point assist shiver crumble economy teach balcony cycle clap limit devote wool";
+var mnemonic = "audit talk gentle sample fuel token equal lend sadness neither trumpet kangaroo";

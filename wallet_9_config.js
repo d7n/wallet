@@ -1,1 +1,1 @@
-var mnemonic = "yellow frozen want monitor energy review unknown bargain vivid coil fresh pulse";
+var mnemonic = "alpha oblige throw lobster amused raven shed stone garment image trick bind";

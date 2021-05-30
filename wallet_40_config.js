@@ -1,1 +1,1 @@
-var mnemonic = "other clap lounge page crouch enact credit skill laundry airport mushroom quality";
+var mnemonic = "goat weird first fire pact awake tag canoe unique slot erode leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt benefit ice casual wagon moral burger build legal pass canoe stuff";
+var mnemonic = "consider critic grass flock orphan actual zoo original axis market female proof";

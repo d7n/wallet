@@ -1,1 +1,1 @@
-var mnemonic = "first tell hungry limb impose chimney erase early bulb fit couple tenant";
+var mnemonic = "this notable text twenty curve across zero water solar deputy magic obscure";

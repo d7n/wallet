@@ -1,1 +1,1 @@
-var mnemonic = "buzz visual floor legend cricket reason attend high second shiver intact tiger";
+var mnemonic = "owner remind fish labor penalty mechanic squeeze pupil invite mirror clutch display";

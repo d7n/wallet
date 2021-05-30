@@ -1,1 +1,1 @@
-var mnemonic = "october industry crack window recall proof tackle fiber medal story interest wood";
+var mnemonic = "deny area kick behind inspire cancel curve member melt fortune vintage illegal";

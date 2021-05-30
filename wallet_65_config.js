@@ -1,1 +1,1 @@
-var mnemonic = "runway model oven liberty hover birth faint south ticket foam course erase";
+var mnemonic = "ivory civil clown west mad hollow liar march cheap sauce elephant abstract";

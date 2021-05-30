@@ -1,1 +1,1 @@
-var mnemonic = "random valid purse body globe buzz choose lonely drill pudding diary author";
+var mnemonic = "roof glove dizzy extend shock truth other fade expand boat toast disease";

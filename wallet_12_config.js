@@ -1,1 +1,1 @@
-var mnemonic = "cactus action party repeat giant casino like maple reject float crystal devote";
+var mnemonic = "present electric dad upon flower index table keen loop bounce intact country";

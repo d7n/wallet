@@ -1,1 +1,1 @@
-var mnemonic = "rescue undo educate nerve universe air police clip measure unhappy exile meat";
+var mnemonic = "riot prize resemble swap trash mule chalk kitten office glad devote junk";

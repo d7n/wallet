@@ -1,1 +1,1 @@
-var mnemonic = "diesel embrace member borrow time salad crazy offer badge fury friend insane";
+var mnemonic = "blast height speed stumble miracle example wrist defy hard silent travel typical";

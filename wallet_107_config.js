@@ -1,1 +1,1 @@
-var mnemonic = "evil blouse across expect same program emotion food amused invite globe embark";
+var mnemonic = "kid spike pair edit whip trouble scorpion hidden code accident return scorpion";

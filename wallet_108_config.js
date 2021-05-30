@@ -1,1 +1,1 @@
-var mnemonic = "close stumble pond angle sure setup similar situate buyer music neck excuse";
+var mnemonic = "tape relax seven sight matrix swift truth slim novel acid strong unusual";

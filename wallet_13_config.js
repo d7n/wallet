@@ -1,1 +1,1 @@
-var mnemonic = "thank wonder neglect photo scheme city kind olympic idea resist dad ring";
+var mnemonic = "dawn major sorry depth energy penalty dizzy logic toward menu useful garden";

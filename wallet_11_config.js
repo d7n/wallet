@@ -1,1 +1,1 @@
-var mnemonic = "copper blind myself flavor hair control veteran certain energy envelope switch copy";
+var mnemonic = "brown twelve leisure mimic future rescue wisdom seat affair canyon collect clay";

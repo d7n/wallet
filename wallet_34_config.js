@@ -1,1 +1,1 @@
-var mnemonic = "welcome select force glory purity marble plug kangaroo limb inch wagon regular";
+var mnemonic = "exchange faint olive belt aunt heavy blame onion view cat upon jeans";

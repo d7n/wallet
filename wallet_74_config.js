@@ -1,1 +1,1 @@
-var mnemonic = "fire able quiz only thrive ball hybrid twenty truck inch dinner neutral";
+var mnemonic = "beauty success cereal gorilla glance crazy anxiety blue veteran quiz march sound";

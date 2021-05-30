@@ -1,1 +1,1 @@
-var mnemonic = "voice powder keen return term six owner skirt sell marble blind false";
+var mnemonic = "toast please oppose small power dynamic stick require reject front citizen chest";

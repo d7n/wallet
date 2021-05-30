@@ -1,1 +1,1 @@
-var mnemonic = "volume gate flip mesh proof close era settle usage insect midnight coffee";
+var mnemonic = "erosion abandon topple memory atom lucky infant twenty vehicle luxury winner half";

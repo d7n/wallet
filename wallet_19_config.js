@@ -1,1 +1,1 @@
-var mnemonic = "voice good cigar scrub muffin illegal edit viable icon rocket toast hurt";
+var mnemonic = "lobster transfer lizard brief army strong quarter vapor jacket real barely purpose";

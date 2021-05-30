@@ -1,1 +1,1 @@
-var mnemonic = "cushion delay century toy clever enhance above west maze board unaware damp";
+var mnemonic = "pony able outer balance flock insane renew phrase lottery bachelor jeans town";

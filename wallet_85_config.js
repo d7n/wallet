@@ -1,1 +1,1 @@
-var mnemonic = "track smoke toilet remember embody bar sport favorite fruit autumn code tube";
+var mnemonic = "boy praise finish step match climb dentist inch little upgrade syrup rice";

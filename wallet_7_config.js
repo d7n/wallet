@@ -1,1 +1,1 @@
-var mnemonic = "muscle rapid hammer risk lemon fence off include wedding crime arrive spend";
+var mnemonic = "jelly news file sign any arena hen script predict term roof affair";

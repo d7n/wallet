@@ -1,1 +1,1 @@
-var mnemonic = "hen column until mango oven pledge honey width raven skill music drift";
+var mnemonic = "slab transfer coconut cherry unable exotic box slice dragon usual fork capable";

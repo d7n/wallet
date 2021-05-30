@@ -1,1 +1,1 @@
-var mnemonic = "gravity siren cart hollow thunder pen brown seminar used quarter believe deny";
+var mnemonic = "fit sound bone nerve coin large infant chalk section nurse street zero";

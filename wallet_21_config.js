@@ -1,1 +1,1 @@
-var mnemonic = "excite hat panic inflict gloom wise game inform mixed bridge plug poem";
+var mnemonic = "ahead file taxi chapter rely census riot head betray oblige modify usage";

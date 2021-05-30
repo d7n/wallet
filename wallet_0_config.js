@@ -1,1 +1,1 @@
-var mnemonic = "pupil page champion mirror priority tomato brave defy enemy library baby sort";
+var mnemonic = "income shoe drift please project syrup gauge pause mesh tell source author";

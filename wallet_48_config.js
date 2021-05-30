@@ -1,1 +1,1 @@
-var mnemonic = "just share tortoise master someone someone much poverty horn green exhaust divorce";
+var mnemonic = "air choice edit capable gate trumpet twelve sudden often exhaust aim face";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy soul garlic liberty six level alarm defy target alpha weather fantasy";
+var mnemonic = "animal trigger topple this mountain wish ancient young bracket wheel tomato wall";

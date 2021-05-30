@@ -1,1 +1,1 @@
-var mnemonic = "excess worth hurry account spice olympic neutral exclude earth vanish skate process";
+var mnemonic = "buzz equal group claw flee loan gasp glide shoulder purse parent wild";

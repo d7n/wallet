@@ -1,1 +1,1 @@
-var mnemonic = "maple flock cash raw route canvas voyage marble steak double recall parent";
+var mnemonic = "moon response person carry quit reunion boat bone during beauty crew surge";

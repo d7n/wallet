@@ -1,1 +1,1 @@
-var mnemonic = "music all all flush exile addict clip surge expose kite universe nasty";
+var mnemonic = "reduce trash antenna quit track wink garden acid vote peasant right venue";

@@ -1,1 +1,1 @@
-var mnemonic = "snack swing survey switch nest deal prison flight success laptop way mail";
+var mnemonic = "pole lonely abuse dignity because champion hammer include sing cruel onion sponsor";

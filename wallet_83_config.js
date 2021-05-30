@@ -1,1 +1,1 @@
-var mnemonic = "gather true cram curtain cheese ladder decorate climb approve shine excuse venue";
+var mnemonic = "tribe connect wonder cluster inject room another donor beef indicate endless cradle";
