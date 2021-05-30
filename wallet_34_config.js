@@ -1,1 +1,1 @@
-var mnemonic = "rebel engine guard cigar shop brain fatal diamond nut matter outer desert";
+var mnemonic = "credit slot foster aware escape ill pyramid photo parrot window maid mobile";

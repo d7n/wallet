@@ -1,1 +1,1 @@
-var mnemonic = "kitten dolphin work camera soap action ball aisle extra ensure just eternal";
+var mnemonic = "snake omit bamboo magnet slow left grid culture have artist more aware";

@@ -1,1 +1,1 @@
-var mnemonic = "speed kit video follow act outdoor adjust shaft snap begin bone awake";
+var mnemonic = "minor bicycle aerobic pudding room foil during rich south used dash sword";

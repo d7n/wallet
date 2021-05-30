@@ -1,1 +1,1 @@
-var mnemonic = "enlist champion novel tragic vivid pulse devote galaxy deer oxygen admit reject";
+var mnemonic = "ripple country address brand year solar december gossip ball donkey olive fault";

@@ -1,1 +1,1 @@
-var mnemonic = "math pig life usage lazy gadget stomach destroy network evoke announce card";
+var mnemonic = "cargo sort jeans twin hand garbage since rough reveal provide assume bid";

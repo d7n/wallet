@@ -1,1 +1,1 @@
-var mnemonic = "valid shine decorate approve recycle trim silent sample right meat truly problem";
+var mnemonic = "kidney rocket foil raven neglect loud gospel hat weather example green else";

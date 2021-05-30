@@ -1,1 +1,1 @@
-var mnemonic = "stove nature hospital face ship wagon never describe hawk guilt portion obscure";
+var mnemonic = "cradle around oval flash lonely confirm bulb tomorrow track genius divorce walnut";

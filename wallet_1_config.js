@@ -1,1 +1,1 @@
-var mnemonic = "pistol junk neither bridge hundred rally pistol end submit answer fitness tell";
+var mnemonic = "melt wreck margin treat arctic helmet infant sorry jazz monster police clap";

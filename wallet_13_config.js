@@ -1,1 +1,1 @@
-var mnemonic = "neutral give practice airport defense dog supreme analyst race corn post wagon";
+var mnemonic = "canoe raw dwarf curious earn follow brand survey shuffle wagon build wasp";

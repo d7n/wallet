@@ -1,1 +1,1 @@
-var mnemonic = "write sister hunt onion quarter stock must shrimp flush major torch dismiss";
+var mnemonic = "before gate dynamic sheriff crouch yard among twin room stairs afford endless";

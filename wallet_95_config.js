@@ -1,1 +1,1 @@
-var mnemonic = "next lemon unfair bridge identify repair chair solar fiction verify egg cactus";
+var mnemonic = "water monster immense sea snap three allow parade hedgehog rich code stomach";

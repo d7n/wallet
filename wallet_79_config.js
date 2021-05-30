@@ -1,1 +1,1 @@
-var mnemonic = "miss major aunt east position achieve liar camp fan cake grid finger";
+var mnemonic = "identify census bike cancel airport rabbit board bid mouse setup okay file";

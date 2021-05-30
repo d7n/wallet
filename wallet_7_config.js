@@ -1,1 +1,1 @@
-var mnemonic = "neglect friend adult creek liquid puzzle adapt bike curious leg lottery glad";
+var mnemonic = "accuse best idea orient reveal lottery symbol dynamic food debate first draft";

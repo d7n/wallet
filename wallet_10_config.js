@@ -1,1 +1,1 @@
-var mnemonic = "ostrich until entire huge teach proof pledge lens brass cradle dash foster";
+var mnemonic = "ignore shuffle angry despair liquid bar prefer shoulder asthma drum bird oval";

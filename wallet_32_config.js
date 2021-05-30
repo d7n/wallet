@@ -1,1 +1,1 @@
-var mnemonic = "river soda salt awake traffic polar country frozen oxygen wrestle distance tunnel";
+var mnemonic = "hard arrow manual around floor thrive swing wait bag slush item laundry";

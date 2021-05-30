@@ -1,1 +1,1 @@
-var mnemonic = "typical birth diary million swarm debris father oval original capable now dial";
+var mnemonic = "toss extra rigid into clip almost inmate item civil truly galaxy dress";

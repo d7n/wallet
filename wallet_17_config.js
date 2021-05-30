@@ -1,1 +1,1 @@
-var mnemonic = "furnace gentle nurse dance security strike infant wing antenna divorce empower sheriff";
+var mnemonic = "first stairs minimum inch oxygen surge quality render affair skill enough host";

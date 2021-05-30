@@ -1,1 +1,1 @@
-var mnemonic = "cancel hamster prosper finger mask style reject rabbit angry much crunch olive";
+var mnemonic = "abandon profit zebra civil secret lava resemble naive oven kangaroo recycle nasty";

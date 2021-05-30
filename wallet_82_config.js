@@ -1,1 +1,1 @@
-var mnemonic = "hollow rebuild ginger frog long physical student truth street guitar carry symbol";
+var mnemonic = "melody ecology now verb sting august raise elder evidence speed unaware prevent";

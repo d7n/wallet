@@ -1,1 +1,1 @@
-var mnemonic = "dinner bridge aim clock kitchen buddy fish rubber gather color lumber over";
+var mnemonic = "gauge photo suspect awesome trial rail casino fog coral awesome garage champion";

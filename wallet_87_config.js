@@ -1,1 +1,1 @@
-var mnemonic = "bridge rural stick jealous fortune cart beef sick essay olive decrease round";
+var mnemonic = "salad hazard various favorite elegant record nerve rule merge blossom term normal";

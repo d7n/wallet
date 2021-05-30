@@ -1,1 +1,1 @@
-var mnemonic = "verify album step rifle beach gesture sweet ability stairs news march nuclear";
+var mnemonic = "tree doll shine club harsh exhibit disease board trigger fault hawk speak";

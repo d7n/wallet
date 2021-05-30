@@ -1,1 +1,1 @@
-var mnemonic = "exact brave width today bulk lion carpet soldier pioneer there indicate toast";
+var mnemonic = "excuse lumber betray cancel regular eager salon fit hamster trick penalty either";

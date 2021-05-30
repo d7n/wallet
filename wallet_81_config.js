@@ -1,1 +1,1 @@
-var mnemonic = "expire rotate apart photo night very wreck aware retire vicious develop enough";
+var mnemonic = "disorder ostrich winner issue wolf address consider snack blossom below soft home";

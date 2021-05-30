@@ -1,1 +1,1 @@
-var mnemonic = "anchor amount general rifle model protect expose admit illness yard air often";
+var mnemonic = "utility slot army illegal wisdom sport noise outdoor toe hobby small lemon";

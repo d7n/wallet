@@ -1,1 +1,1 @@
-var mnemonic = "kitten nothing repeat agent buzz angle powder faint mutual burger excuse interest";
+var mnemonic = "unfold tuition tissue abuse silent raven topic pride creek talent arrow kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna husband find letter industry cute flush symptom teach anxiety garlic grief";
+var mnemonic = "other size advice ability grain month toilet auction alarm wrap adapt because";

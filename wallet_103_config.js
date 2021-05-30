@@ -1,1 +1,1 @@
-var mnemonic = "exit expect exotic undo fetch inch captain enlist coffee slide struggle injury";
+var mnemonic = "neutral balcony guilt family nephew eternal pill fence when clump heart effort";

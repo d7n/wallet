@@ -1,1 +1,1 @@
-var mnemonic = "library rigid online quit badge cause upper rug picnic noise palm entry";
+var mnemonic = "chalk soon amazing invest unknown record stadium skin hour neutral miss regret";

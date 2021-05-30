@@ -1,1 +1,1 @@
-var mnemonic = "crumble express real join banner ugly save upon you garage wear barrel";
+var mnemonic = "inner rally frequent control cheap impact panic whip beach piece excite very";

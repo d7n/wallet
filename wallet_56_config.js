@@ -1,1 +1,1 @@
-var mnemonic = "glass turkey few uphold nerve insect address summer virtual margin lesson diary";
+var mnemonic = "alpha boring base beyond slide exchange rude change candy medal lyrics alien";

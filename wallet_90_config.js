@@ -1,1 +1,1 @@
-var mnemonic = "such arm acid into little erode satisfy hat depth normal route arrest";
+var mnemonic = "raven domain canal art shell security dad follow fun blossom point digital";

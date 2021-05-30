@@ -1,1 +1,1 @@
-var mnemonic = "bridge pause success series walnut sugar useful topple web legal visual cycle";
+var mnemonic = "lift auction about attitude reject carry way resist kid fetch music penalty";

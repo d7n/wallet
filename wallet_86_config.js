@@ -1,1 +1,1 @@
-var mnemonic = "main shoot truly slush mixture leader viable sure bless scan twice jeans";
+var mnemonic = "wreck island outer edge salt artefact desert estate solve flavor fit pet";

@@ -1,1 +1,1 @@
-var mnemonic = "museum hamster antenna shallow only six twelve rebel affair author crash focus";
+var mnemonic = "chalk spot define bleak gasp lunar barely topple soul breeze truly strong";

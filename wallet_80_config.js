@@ -1,1 +1,1 @@
-var mnemonic = "omit blood august element normal stay memory choose duck drive purchase silver";
+var mnemonic = "brand badge chalk match nerve race spice elegant section column evolve square";

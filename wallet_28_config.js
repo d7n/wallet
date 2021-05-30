@@ -1,1 +1,1 @@
-var mnemonic = "multiply off crumble iron misery wisdom pride quality pledge siege view rain";
+var mnemonic = "exit neglect flavor toy hair make cereal garment decorate hollow merge sting";

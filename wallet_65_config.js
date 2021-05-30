@@ -1,1 +1,1 @@
-var mnemonic = "time domain lawn glory general tool outside together mother blouse track flash";
+var mnemonic = "famous exchange enrich other sleep spare vital rough behave patch danger maximum";

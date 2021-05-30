@@ -1,1 +1,1 @@
-var mnemonic = "base square flush female outside kangaroo cram flame craft lunar cool favorite";
+var mnemonic = "net festival mind silly pond enroll zoo time assist capital found combine";

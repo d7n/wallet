@@ -1,1 +1,1 @@
-var mnemonic = "frost token soup furnace reflect hobby open woman guide injury vast relief";
+var mnemonic = "dumb habit ill setup student off island tree solution protect indoor daughter";

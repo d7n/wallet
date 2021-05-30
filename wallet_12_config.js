@@ -1,1 +1,1 @@
-var mnemonic = "rib hub faith debate swim keep orange skin guard buddy salute audit";
+var mnemonic = "tribe fitness glide bean during ensure soup cart stable arena corn cradle";

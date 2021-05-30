@@ -1,1 +1,1 @@
-var mnemonic = "city hotel ice wheel throw orient face student ready sample verb riot";
+var mnemonic = "perfect sugar fence enforce heart decline metal ginger rocket pipe sign quick";

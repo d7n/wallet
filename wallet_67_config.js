@@ -1,1 +1,1 @@
-var mnemonic = "recycle vault food swing any stay review awesome embrace replace prevent gym";
+var mnemonic = "demand dice hire evil horror fame luggage shy decorate stone benefit during";

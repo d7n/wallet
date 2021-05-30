@@ -1,1 +1,1 @@
-var mnemonic = "someone hospital seed army bind remove spare small royal unveil leave fade";
+var mnemonic = "winter then file hello giggle law salad dolphin shallow road sort sudden";

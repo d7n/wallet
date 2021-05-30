@@ -1,1 +1,1 @@
-var mnemonic = "father neglect duty proud sick prison onion immune ramp tumble vanish desk";
+var mnemonic = "small census merry damage image demand vendor milk limit ladder private junior";

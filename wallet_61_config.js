@@ -1,1 +1,1 @@
-var mnemonic = "impulse grunt charge pyramid actor prize movie success comfort glad lobster witness";
+var mnemonic = "under have robot dinner luxury cliff deliver mansion chief lyrics appear fortune";

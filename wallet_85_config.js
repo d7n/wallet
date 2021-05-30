@@ -1,1 +1,1 @@
-var mnemonic = "tobacco curtain swarm dial decorate skin must essay top regret into provide";
+var mnemonic = "write analyst initial elder universe art melody tissue copper kingdom left slender";

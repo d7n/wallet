@@ -1,1 +1,1 @@
-var mnemonic = "kick stomach pave hybrid hint burger lucky common also output phone seed";
+var mnemonic = "cabbage pelican win diamond endless liquid audit episode squirrel crazy cement parade";

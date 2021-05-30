@@ -1,1 +1,1 @@
-var mnemonic = "hospital foam enhance midnight blade mango wink now make island faint photo";
+var mnemonic = "solid work income there melt maze recipe liar culture quote leopard strategy";

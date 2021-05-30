@@ -1,1 +1,1 @@
-var mnemonic = "rack zone skirt series minimum relax vehicle achieve pen awesome misery elephant";
+var mnemonic = "buzz flag submit view alien enrich dumb ready tone resist pottery depart";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose melt nut sport over second home bus soap beyond view gaze";
+var mnemonic = "oak live umbrella husband roof subject drink van kid zone nerve cross";

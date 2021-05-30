@@ -1,1 +1,1 @@
-var mnemonic = "phone cloud stable occur flee gesture rural rapid tank strategy quiz property";
+var mnemonic = "rent token cherry loud rough toilet number endless camera hamster you pink";

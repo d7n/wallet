@@ -1,1 +1,1 @@
-var mnemonic = "hair code vicious guard legal educate perfect license good protect balance dove";
+var mnemonic = "style recall festival curtain anger noodle more kitchen disagree buddy shine rent";

@@ -1,1 +1,1 @@
-var mnemonic = "topple observe normal average exit scare first inflict fly once taste short";
+var mnemonic = "once expire bar trap example moment maze impose sister clown vintage stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "away knock magic knock display spot super scout twelve blast flock relief";
+var mnemonic = "concert close balcony copy crucial empty flame become abuse riot oxygen chest";

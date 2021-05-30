@@ -1,1 +1,1 @@
-var mnemonic = "layer pistol submit memory depend cotton ripple siren weird plug sea shuffle";
+var mnemonic = "table robust admit fun collect state pull laptop rebel used alarm tattoo";

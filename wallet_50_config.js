@@ -1,1 +1,1 @@
-var mnemonic = "pioneer chunk silk furnace photo secret exhibit torch owner strike scale tape";
+var mnemonic = "ladder issue depart pyramid swamp gorilla sponsor yard crouch struggle album sheriff";

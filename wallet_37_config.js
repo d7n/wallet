@@ -1,1 +1,1 @@
-var mnemonic = "ignore virus want exotic right absorb labor cruise meat bulb champion park";
+var mnemonic = "mix fix circle recall ticket utility inside universe grunt quote bronze over";

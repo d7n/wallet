@@ -1,1 +1,1 @@
-var mnemonic = "build travel gorilla salute proud wing puppy else glory island unique mixture";
+var mnemonic = "nature already faculty divorce baby install believe liquid forum gesture nice spike";

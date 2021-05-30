@@ -1,1 +1,1 @@
-var mnemonic = "lady believe there forward they patient lady shed edge afraid magic correct";
+var mnemonic = "tilt cluster subway prosper rubber adjust certain despair village pass luggage badge";

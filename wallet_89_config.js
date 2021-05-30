@@ -1,1 +1,1 @@
-var mnemonic = "invest cruel fury orphan outside ramp crouch west prize sell service fork";
+var mnemonic = "force plastic young delay series swallow solution immune combine deliver diesel party";

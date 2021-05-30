@@ -1,1 +1,1 @@
-var mnemonic = "hole rice repair worth home where hold taxi common slender accident laptop";
+var mnemonic = "obey spin tired shiver strong split jacket rookie illness live network gym";

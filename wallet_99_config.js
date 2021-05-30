@@ -1,1 +1,1 @@
-var mnemonic = "silver museum toilet clown yellow cloth naive seed chalk busy maid burger";
+var mnemonic = "canoe survey strike ocean sister angle hard inflict student lunar learn conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "betray reduce junk cliff mail connect afraid legend like mushroom purity sister";
+var mnemonic = "rail master news predict add vehicle grief pen actress artefact lady mansion";

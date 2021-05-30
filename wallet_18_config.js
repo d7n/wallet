@@ -1,1 +1,1 @@
-var mnemonic = "pear else cliff water seminar good bubble symptom leisure again twice pigeon";
+var mnemonic = "rocket control immune vacuum useful window crawl sick around tuna cloud option";

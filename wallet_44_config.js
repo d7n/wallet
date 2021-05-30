@@ -1,1 +1,1 @@
-var mnemonic = "exit desk laugh under safe deputy lamp return pass bonus weasel topple";
+var mnemonic = "amused country family summer jacket nothing shift session toss rude idle extra";

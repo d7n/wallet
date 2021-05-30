@@ -1,1 +1,1 @@
-var mnemonic = "famous lemon firm inside damage morning vehicle staff surround parade robot sunny";
+var mnemonic = "asthma chief sponsor thrive poverty mandate spread focus water powder dash blame";

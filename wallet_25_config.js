@@ -1,1 +1,1 @@
-var mnemonic = "equal north bomb law visit sea push merge scrap common enemy method";
+var mnemonic = "true bean vault actor true peace either copy alpha aunt humble future";

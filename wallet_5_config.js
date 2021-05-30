@@ -1,1 +1,1 @@
-var mnemonic = "luxury curious about opinion boring spread catalog slow wash approve six flight";
+var mnemonic = "gym object gasp vital act clinic abandon load color always that youth";

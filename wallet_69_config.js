@@ -1,1 +1,1 @@
-var mnemonic = "captain magic limb acquire game bargain ride refuse immune tortoise foam card";
+var mnemonic = "walk cliff pencil delay easily supply head access auction album slogan chunk";

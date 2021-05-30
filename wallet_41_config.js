@@ -1,1 +1,1 @@
-var mnemonic = "sister cradle fold gauge put all alert canal trumpet pistol use area";
+var mnemonic = "market uphold venture pair nephew smooth panic planet space reward topic suspect";

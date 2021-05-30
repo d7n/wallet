@@ -1,1 +1,1 @@
-var mnemonic = "sting muscle junior define pumpkin garage castle wood swamp witness dismiss cycle";
+var mnemonic = "busy toddler swamp crew early loud ankle journey renew turkey salmon whale";

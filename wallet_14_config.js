@@ -1,1 +1,1 @@
-var mnemonic = "razor boil detect earth fantasy dove symptom spike post tone hold around";
+var mnemonic = "start control idea mountain sadness thunder shed muffin tube motion engine antique";

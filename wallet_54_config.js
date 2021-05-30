@@ -1,1 +1,1 @@
-var mnemonic = "decade another vast rural source shift equip busy duty sunset kangaroo cram";
+var mnemonic = "cluster essay deny hard eager dose forest jaguar catalog receive disorder grain";

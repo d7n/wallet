@@ -1,1 +1,1 @@
-var mnemonic = "ignore gym quarter solution ghost bachelor record peasant exile deposit device such";
+var mnemonic = "fame still genre distance color neck list diary people meadow dizzy artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant quit flash sand kingdom pen brain science order tube short damp";
+var mnemonic = "light impose problem cute desk enemy faculty become clump habit rich glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "large night idea betray relief bounce cube clap curve hero crater about";
+var mnemonic = "mandate potato brand lend fish over grit bulk knee script around agent";

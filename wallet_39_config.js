@@ -1,1 +1,1 @@
-var mnemonic = "near female battle attract pilot tornado gentle square journey motor coffee same";
+var mnemonic = "label bird lesson turn snake where strong venue way toward bicycle uphold";

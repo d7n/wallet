@@ -1,1 +1,1 @@
-var mnemonic = "help phone pulse crime split caught cruise suit fall sustain slow aspect";
+var mnemonic = "hammer mirror meat insane want base typical ride play sponsor cinnamon dust";

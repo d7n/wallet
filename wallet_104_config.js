@@ -1,1 +1,1 @@
-var mnemonic = "credit fade relief question fit excess connect smile sphere main region tissue";
+var mnemonic = "help trip plastic use kite remove flash fine invest throw island local";

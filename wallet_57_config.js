@@ -1,1 +1,1 @@
-var mnemonic = "detail afford mouse pave only trust move staff tip program health cost";
+var mnemonic = "key camera flame ozone before bird execute patrol stock spirit fault spring";

@@ -1,1 +1,1 @@
-var mnemonic = "echo upon elephant present remain element float marble enjoy nature myth main";
+var mnemonic = "exotic total hunt lumber recall saddle mean manage typical twin home coast";

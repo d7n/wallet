@@ -1,1 +1,1 @@
-var mnemonic = "spice foot vacuum miss buffalo nasty wife guard unusual luxury large urge";
+var mnemonic = "involve world family arrive cram trial icon lizard inside permit turkey initial";

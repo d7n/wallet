@@ -1,1 +1,1 @@
-var mnemonic = "same about stool patch multiply cactus injury cotton ride piano merit tackle";
+var mnemonic = "steel rich few shop muffin clump round swamp immune grain outside muscle";

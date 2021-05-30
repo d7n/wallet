@@ -1,1 +1,1 @@
-var mnemonic = "razor genre lobster bring popular tortoise outer ticket message elephant tennis drive";
+var mnemonic = "census actress great almost shop organ cheese about stock result shift message";

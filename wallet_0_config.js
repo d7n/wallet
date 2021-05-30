@@ -1,1 +1,1 @@
-var mnemonic = "spin blouse coin audit number humor tuition garlic alarm execute health board";
+var mnemonic = "skirt odor horn stay claim stool bright alley trouble scatter reform away";

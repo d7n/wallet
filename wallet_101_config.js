@@ -1,1 +1,1 @@
-var mnemonic = "usage there swift multiply club vendor flat beef island neither radar dream";
+var mnemonic = "change glad detail roast oval become toddler pull truly elder gift feed";

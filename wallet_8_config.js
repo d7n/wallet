@@ -1,1 +1,1 @@
-var mnemonic = "ill future myth umbrella web easy fantasy know bulk priority tuna then";
+var mnemonic = "start solar ugly layer dutch chase oblige code wrestle opinion undo afraid";

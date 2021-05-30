@@ -1,1 +1,1 @@
-var mnemonic = "kitten system subway giant inside library disagree breeze empty reform alcohol tenant";
+var mnemonic = "evolve trouble drastic crisp salad image seven escape soft code large fame";

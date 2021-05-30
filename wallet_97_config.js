@@ -1,1 +1,1 @@
-var mnemonic = "enrich rate hotel nest arrange unit confirm february ugly remove okay salute";
+var mnemonic = "pill nothing prefer silly enforce legal panther multiply lake common river below";
