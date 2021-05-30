@@ -1,1 +1,1 @@
-var mnemonic = "chef motion bean purpose beef height loud over enhance box sponsor junior";
+var mnemonic = "typical census garbage beach sunny delay pact young cattle love wedding penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop innocent pistol false army bench venture online rack lizard reward inmate";
+var mnemonic = "faith green thought city scan adapt outdoor prevent wreck better bounce upset";

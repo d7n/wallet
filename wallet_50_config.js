@@ -1,1 +1,1 @@
-var mnemonic = "engine surround abstract twin major oval scorpion merit soup have trick maze";
+var mnemonic = "debate damp once ranch result glow deliver recall exist recycle spike session";

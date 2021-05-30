@@ -1,1 +1,1 @@
-var mnemonic = "harvest visual area clever era gain sense pink garlic bamboo clinic share";
+var mnemonic = "sheriff inhale select offer pear certain beyond mercy soap badge rug leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "short parrot curve member web giraffe north project enrich observe pass ritual";
+var mnemonic = "enter bunker zoo give artwork blouse alone frog also goddess hand trade";

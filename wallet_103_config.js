@@ -1,1 +1,1 @@
-var mnemonic = "protect pumpkin gap error useless usage marine logic vague like rocket gun";
+var mnemonic = "arctic moment wash erosion east staff huge room fix fence mean floor";

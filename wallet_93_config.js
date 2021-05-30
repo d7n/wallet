@@ -1,1 +1,1 @@
-var mnemonic = "daring neglect woman float twenty identify mother elite bullet dinner shadow boss";
+var mnemonic = "theme chapter pave match indicate proud erode spice rebel wet share clock";

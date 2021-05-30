@@ -1,1 +1,1 @@
-var mnemonic = "seat chunk mass dragon captain present box planet gym maple lake add";
+var mnemonic = "large gaze trust giant bundle stereo patch slide million acoustic term area";

@@ -1,1 +1,1 @@
-var mnemonic = "secret leopard gospel early document element duty jar matter junk account weasel";
+var mnemonic = "blanket skin faith kitten feature topple bamboo bottom subway camera siege exit";

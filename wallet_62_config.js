@@ -1,1 +1,1 @@
-var mnemonic = "ramp fuel business toilet junk floor size agree autumn media awful arrive";
+var mnemonic = "pause layer judge merit region era dinosaur owner game multiply moment banana";

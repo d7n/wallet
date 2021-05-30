@@ -1,1 +1,1 @@
-var mnemonic = "clinic skirt moon absent monkey own praise tent local unfair stage inquiry";
+var mnemonic = "roast manage camp rebel diet spoil strong slab try ceiling hidden cup";

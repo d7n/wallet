@@ -1,1 +1,1 @@
-var mnemonic = "satoshi harsh purse flower scare alone fog average arm office vital aisle";
+var mnemonic = "walnut weather ride gather later gas chuckle science suffer match canyon zone";

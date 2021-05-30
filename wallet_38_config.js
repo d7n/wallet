@@ -1,1 +1,1 @@
-var mnemonic = "parent club moment base stairs myth potato parade goddess reason wide wrist";
+var mnemonic = "fence legal artefact meadow mandate ladder current fruit base effort over feel";

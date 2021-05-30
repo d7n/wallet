@@ -1,1 +1,1 @@
-var mnemonic = "draft quality naive lamp unique doctor script project muscle kingdom dynamic expect";
+var mnemonic = "frozen where rule million bright sick leg draw type clarify pizza pudding";

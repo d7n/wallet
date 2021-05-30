@@ -1,1 +1,1 @@
-var mnemonic = "rhythm leave this taste captain voyage update appear huge snack print news";
+var mnemonic = "then praise slide clerk nut round funny ritual chunk antique object goat";

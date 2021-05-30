@@ -1,1 +1,1 @@
-var mnemonic = "century donkey next alarm hope goat gather toward wise judge agree virtual";
+var mnemonic = "sock rubber rocket service broom custom easily possible more diary attend deny";

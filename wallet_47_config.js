@@ -1,1 +1,1 @@
-var mnemonic = "document rice feel actress upon parade fix shadow mutual horse fun script";
+var mnemonic = "praise soup urban spot best spoil salon bright bomb kick zone flash";

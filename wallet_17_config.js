@@ -1,1 +1,1 @@
-var mnemonic = "juice six sunny rice time exotic spirit gospel fish nest moment soon";
+var mnemonic = "genuine buyer invite fault parent jump very bounce praise useful captain loyal";

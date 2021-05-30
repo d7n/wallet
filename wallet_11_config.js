@@ -1,1 +1,1 @@
-var mnemonic = "glow salt gas imitate toilet kiwi gloom relief illness trip tiger mobile";
+var mnemonic = "soul chat legend gravity inquiry year debris wheel palace lamp cigar humble";

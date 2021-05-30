@@ -1,1 +1,1 @@
-var mnemonic = "buffalo assist syrup gather once melt balance lesson color bird error crime";
+var mnemonic = "reflect dirt egg drop poet release obey brass manage amused marriage empty";

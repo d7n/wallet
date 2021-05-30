@@ -1,1 +1,1 @@
-var mnemonic = "cactus jealous salute nominee forward glow pair polar public any time just";
+var mnemonic = "thank matter leisure august pole such great inquiry high team tip jaguar";

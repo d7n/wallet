@@ -1,1 +1,1 @@
-var mnemonic = "desk naive cheese pluck chicken prison adjust nut plate wealth comic degree";
+var mnemonic = "strong squeeze today knife owner extend feel behind benefit limit radio jazz";

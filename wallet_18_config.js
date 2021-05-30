@@ -1,1 +1,1 @@
-var mnemonic = "scene dog own recipe sting pear leader tiny tree nasty pact fancy";
+var mnemonic = "slab act lumber reason talent east ten wash outdoor camera slam blossom";

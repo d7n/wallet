@@ -1,1 +1,1 @@
-var mnemonic = "strategy dirt slim rebuild decide solar expand hockey vessel champion select mercy";
+var mnemonic = "road option crunch couch bulk mansion lottery annual wise mystery side grape";

@@ -1,1 +1,1 @@
-var mnemonic = "denial clay rhythm pipe naive flavor essay food surround garden mix spend";
+var mnemonic = "sudden derive bench swim picture join verb diet fire random vote engage";

@@ -1,1 +1,1 @@
-var mnemonic = "occur danger ladder crush insane humor person metal unfair tower build embark";
+var mnemonic = "devote shadow light damage crop job scissors kind truly state bubble lake";

@@ -1,1 +1,1 @@
-var mnemonic = "primary erosion speed crisp ankle play seed mistake jaguar indoor industry team";
+var mnemonic = "lava decorate sting three hazard kitten milk dove demise wagon burger similar";

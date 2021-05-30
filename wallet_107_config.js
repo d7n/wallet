@@ -1,1 +1,1 @@
-var mnemonic = "skin sweet move rural sail patch gossip shuffle leader over short dynamic";
+var mnemonic = "jeans bring churn shrimp relax spray clay fog autumn river front depend";

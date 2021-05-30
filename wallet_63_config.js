@@ -1,1 +1,1 @@
-var mnemonic = "much city swing script case spend final despair north body coral consider";
+var mnemonic = "interest develop holiday ecology improve boost shell wedding recall soda also first";

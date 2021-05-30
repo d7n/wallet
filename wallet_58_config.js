@@ -1,1 +1,1 @@
-var mnemonic = "hurt bacon throw vehicle fantasy minimum parent poverty fatigue culture coach food";
+var mnemonic = "fat twin stamp lion useful inspire stable helmet mention mistake woman attitude";

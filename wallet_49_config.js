@@ -1,1 +1,1 @@
-var mnemonic = "frequent extra blade brick pipe sight wedding hobby lyrics hat double pluck";
+var mnemonic = "thumb when diagram advice repair point fish space control opinion often panda";

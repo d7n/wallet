@@ -1,1 +1,1 @@
-var mnemonic = "maze prepare hurdle thank myth apology edit behave minor glory spray undo";
+var mnemonic = "gallery island april diet topic honey gather office filter penalty dish light";

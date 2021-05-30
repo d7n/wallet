@@ -1,1 +1,1 @@
-var mnemonic = "mother gadget design truck inner abandon camera unfair song feature early helmet";
+var mnemonic = "multiply pumpkin gorilla maid wedding wide imitate snap solution team note appear";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese spoil hood trip side open render obscure wasp planet manage valley";
+var mnemonic = "digital guard script office word hill warrior divide inch whisper cover soda";

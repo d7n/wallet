@@ -1,1 +1,1 @@
-var mnemonic = "table swing cook effort hedgehog bachelor drink jeans theory ranch drive crazy";
+var mnemonic = "glow wedding order trick portion error nation valid present master economy mistake";

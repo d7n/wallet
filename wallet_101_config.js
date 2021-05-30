@@ -1,1 +1,1 @@
-var mnemonic = "omit cash return about hamster sport dirt design expand hockey attitude label";
+var mnemonic = "kit bridge opinion region build marine butter bring year guitar tennis jazz";

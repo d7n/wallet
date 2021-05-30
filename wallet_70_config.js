@@ -1,1 +1,1 @@
-var mnemonic = "dry metal sauce story laundry post ankle cycle cricket annual please zone";
+var mnemonic = "pear bleak fatigue emotion sketch scissors lawn inch around grant orchard web";

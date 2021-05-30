@@ -1,1 +1,1 @@
-var mnemonic = "achieve jungle road polar mouse liberty miss chicken result praise athlete double";
+var mnemonic = "comfort devote phone inflict toss isolate amused cute doctor bread large saddle";

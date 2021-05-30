@@ -1,1 +1,1 @@
-var mnemonic = "assault word chalk tent horror pave guess math nut inner crucial enemy";
+var mnemonic = "steel huge marriage bar extra struggle street luggage demise polar fatigue wish";

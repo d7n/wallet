@@ -1,1 +1,1 @@
-var mnemonic = "acquire census security oyster tomato solar volcano retire ceiling carpet item episode";
+var mnemonic = "live group cupboard slab cable extend valve hat polar sponsor game hunt";

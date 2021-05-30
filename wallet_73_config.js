@@ -1,1 +1,1 @@
-var mnemonic = "select shallow treat member floor night warrior alarm sample organ chronic avoid";
+var mnemonic = "pelican ceiling blind bubble monkey benefit pole tattoo clerk oak fat ramp";

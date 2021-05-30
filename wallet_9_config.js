@@ -1,1 +1,1 @@
-var mnemonic = "thunder shine coconut gorilla base doctor owner purity dumb over together return";
+var mnemonic = "trade crucial program income enough pizza logic achieve antenna basic twist area";

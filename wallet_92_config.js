@@ -1,1 +1,1 @@
-var mnemonic = "flock fox violin more parrot wealth habit cube differ traffic original sister";
+var mnemonic = "tide bone oil reflect mad cave girl board enlist imitate evoke until";

@@ -1,1 +1,1 @@
-var mnemonic = "sort crawl empty moon diamond power horse tiny energy another short hip";
+var mnemonic = "fee wish arm advice spatial fault boat jacket carbon cluster icon poet";

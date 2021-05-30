@@ -1,1 +1,1 @@
-var mnemonic = "sorry road exist wash desert media gift worth all blame soccer genuine";
+var mnemonic = "picture hurry jungle trap flavor large when output scatter gospel brain crunch";

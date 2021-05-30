@@ -1,1 +1,1 @@
-var mnemonic = "nominee dove boy gym key transfer early require window fine moon key";
+var mnemonic = "hand gift suggest crucial purse option magic earth distance ignore roast valid";

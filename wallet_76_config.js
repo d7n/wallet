@@ -1,1 +1,1 @@
-var mnemonic = "stem surprise process document tooth theme clock vacant physical tip earth machine";
+var mnemonic = "spin knock fabric stone object gravity tooth trophy angle arctic seek poet";

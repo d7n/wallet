@@ -1,1 +1,1 @@
-var mnemonic = "vivid want grass boil elite stool jelly method infant final fine dignity";
+var mnemonic = "change order lunar rain also story bright notable biology february play check";

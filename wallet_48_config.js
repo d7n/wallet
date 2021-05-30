@@ -1,1 +1,1 @@
-var mnemonic = "census become olympic estate cream guard mind tackle cream neck robot problem";
+var mnemonic = "warm service cattle basket other dash swift mosquito major quick foam letter";

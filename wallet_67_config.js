@@ -1,1 +1,1 @@
-var mnemonic = "struggle burst tail box sunset build rate suspect virus creek legal pattern";
+var mnemonic = "metal dog banana conduct when mail upgrade person ready midnight favorite cotton";

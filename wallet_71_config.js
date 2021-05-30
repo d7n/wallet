@@ -1,1 +1,1 @@
-var mnemonic = "impulse enroll result raise icon discover consider fine live cruel limb nut";
+var mnemonic = "neither cushion action box suspect deny foot toy raw harvest artwork advice";

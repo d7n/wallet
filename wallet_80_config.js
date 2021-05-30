@@ -1,1 +1,1 @@
-var mnemonic = "riot twelve oxygen nose price apple frost coach used team vessel club";
+var mnemonic = "people typical swing universe execute tattoo state face silver claim burden mix";

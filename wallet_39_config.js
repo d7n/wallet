@@ -1,1 +1,1 @@
-var mnemonic = "system link skate seminar ill copy hair matrix slogan east blood win";
+var mnemonic = "weasel equal move catch wedding jacket cricket knee cereal believe total unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "famous record weird keep gospel rib salad victory grace universe critic peasant";
+var mnemonic = "axis destroy typical knock safe alpha myself night hair lonely situate glimpse";

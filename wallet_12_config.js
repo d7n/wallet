@@ -1,1 +1,1 @@
-var mnemonic = "utility mixture blade dog equal polar solar very hidden team banner lonely";
+var mnemonic = "skin extend turkey catalog common way pilot labor game wait eight pair";

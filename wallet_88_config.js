@@ -1,1 +1,1 @@
-var mnemonic = "bring decide next train season south employ nominee found book desk jaguar";
+var mnemonic = "one save ensure shine electric mouse frequent blanket layer leg universe turtle";

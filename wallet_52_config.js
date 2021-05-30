@@ -1,1 +1,1 @@
-var mnemonic = "advance blast swap olympic pattern abandon toddler digital letter maple ill bench";
+var mnemonic = "market swallow purchase budget credit tennis orphan stuff where evidence sentence bullet";

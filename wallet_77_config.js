@@ -1,1 +1,1 @@
-var mnemonic = "goddess shallow cannon brave later remain biology knife genius wheel creek asthma";
+var mnemonic = "load predict melody wrist impose clinic grit youth first broom write brick";

@@ -1,1 +1,1 @@
-var mnemonic = "season industry blur cross injury bring monkey manual combine urge pizza spatial";
+var mnemonic = "left squeeze elegant ramp rescue emotion antenna coral prison thumb major vivid";

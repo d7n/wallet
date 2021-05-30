@@ -1,1 +1,1 @@
-var mnemonic = "peace jacket wish infant book buffalo december excess labor response oven rotate";
+var mnemonic = "survey exercise member make review alert clarify toss minor you upon envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit tunnel cereal emerge bundle magnet slight muscle catch medal jungle rain";
+var mnemonic = "seat behind fog can celery dice razor toward eagle cube dove orient";

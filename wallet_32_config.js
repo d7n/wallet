@@ -1,1 +1,1 @@
-var mnemonic = "treat unit alcohol quit east gloom team cabbage labor brick script canvas";
+var mnemonic = "interest strong learn jazz bike wave vicious mother lucky normal winter machine";

@@ -1,1 +1,1 @@
-var mnemonic = "foot eternal alcohol clay praise mango any glow fat begin butter claw";
+var mnemonic = "arrive august camp hand same wet enemy dash spin run junior blouse";

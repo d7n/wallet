@@ -1,1 +1,1 @@
-var mnemonic = "amazing purpose pig answer ship stamp adapt vintage donor fiscal fuel blood";
+var mnemonic = "table split sausage code noble million lamp use aim crouch say bottom";

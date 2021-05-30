@@ -1,1 +1,1 @@
-var mnemonic = "right hood inhale student secret orange stadium human cinnamon field collect moment";
+var mnemonic = "whale walk alarm quiz treat clarify mail employ general reason person door";

@@ -1,1 +1,1 @@
-var mnemonic = "animal island success until beach color idle museum fruit material cup lesson";
+var mnemonic = "boss toward snow van wish reduce address try wife weird depth surprise";

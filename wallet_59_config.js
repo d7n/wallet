@@ -1,1 +1,1 @@
-var mnemonic = "until mask original tower table mobile unable creek tattoo occur rhythm flee";
+var mnemonic = "general fatigue valid clarify acoustic suspect trial canvas illness include zoo cook";

@@ -1,1 +1,1 @@
-var mnemonic = "churn inhale balcony powder tower again now narrow gap minute dice room";
+var mnemonic = "also rent inherit rely metal avocado will trade hurt olive need option";

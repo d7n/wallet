@@ -1,1 +1,1 @@
-var mnemonic = "axis imitate timber trade escape damage again tenant hazard report morning silly";
+var mnemonic = "dash weather theory mass weekend ostrich term illegal come nothing barely autumn";

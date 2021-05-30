@@ -1,1 +1,1 @@
-var mnemonic = "mule supply love height bean march short scheme spin shield recycle item";
+var mnemonic = "brown emotion matrix lawsuit help slot worth license own trophy spin grass";

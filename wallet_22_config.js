@@ -1,1 +1,1 @@
-var mnemonic = "weird enjoy ivory nose trend other motor initial way struggle price toward";
+var mnemonic = "couple enact dinosaur topple unaware virus flight faint rug joke lend apple";

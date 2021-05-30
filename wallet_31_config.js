@@ -1,1 +1,1 @@
-var mnemonic = "budget jealous blanket patch smart behave pilot spend aunt super friend destroy";
+var mnemonic = "busy canal what panel frown whisper impose swallow bounce soldier aim slow";

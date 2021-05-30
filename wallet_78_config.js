@@ -1,1 +1,1 @@
-var mnemonic = "away letter excess steel address oval miracle lend subway tool brown video";
+var mnemonic = "coral need property ankle poet galaxy price lamp wise boat chicken snow";

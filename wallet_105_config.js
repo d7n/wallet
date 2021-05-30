@@ -1,1 +1,1 @@
-var mnemonic = "gaze pair song weasel farm panther near delay cloud hand similar jaguar";
+var mnemonic = "task fabric use catalog fatigue garment school hunt float strike foil fiber";

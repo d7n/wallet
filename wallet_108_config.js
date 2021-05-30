@@ -1,1 +1,1 @@
-var mnemonic = "essence seed crater pass lens snack chaos lounge erode beef sad people";
+var mnemonic = "inner famous pulp lens inherit allow asthma fog floor assault penalty install";

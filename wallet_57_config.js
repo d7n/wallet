@@ -1,1 +1,1 @@
-var mnemonic = "mail cancel finish shaft sense match across dismiss meadow boss arm top";
+var mnemonic = "always asthma test air wing arrive undo custom paddle warfare antique found";

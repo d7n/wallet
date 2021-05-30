@@ -1,1 +1,1 @@
-var mnemonic = "diet laundry vivid torch art address sing about hold wait giggle must";
+var mnemonic = "lucky check relief reveal dragon raise village aisle harsh chimney exhaust canoe";

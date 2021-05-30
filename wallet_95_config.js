@@ -1,1 +1,1 @@
-var mnemonic = "purpose grit jaguar cradle horn custom output layer until muffin govern spend";
+var mnemonic = "find fabric paper wagon owner rifle elite dutch fortune endorse essay unfold";

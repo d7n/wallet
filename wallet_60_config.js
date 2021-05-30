@@ -1,1 +1,1 @@
-var mnemonic = "captain supreme echo key clog pave artwork follow diet column outer come";
+var mnemonic = "degree nasty nation smile divert jungle cart cash assist park slogan stomach";

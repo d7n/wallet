@@ -1,1 +1,1 @@
-var mnemonic = "supreme alley notice clay canyon enlist dust pepper stove noble father session";
+var mnemonic = "easy earn outside dash wolf reform wrap cheap become use category pond";

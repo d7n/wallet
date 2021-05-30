@@ -1,1 +1,1 @@
-var mnemonic = "kingdom orchard allow window puppy edit wood cruel settle poet drift hair";
+var mnemonic = "lesson release rain cross muffin excess travel inch derive pottery immense merge";

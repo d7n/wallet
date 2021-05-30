@@ -1,1 +1,1 @@
-var mnemonic = "maze person mouse flee air symptom swarm obey clip educate champion tiny";
+var mnemonic = "gossip obscure cage release olive annual inch gown slow super member swear";

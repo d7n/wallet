@@ -1,1 +1,1 @@
-var mnemonic = "chicken shock echo holiday october proof insane clerk scout fatigue clown myself";
+var mnemonic = "olive senior submit message company deliver ivory assist rally print pudding purse";

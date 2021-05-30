@@ -1,1 +1,1 @@
-var mnemonic = "tower celery image type bleak buyer end foil cousin cart false sort";
+var mnemonic = "off above know muffin crystal mixture pattern drink marble library very loud";

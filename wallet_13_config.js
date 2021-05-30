@@ -1,1 +1,1 @@
-var mnemonic = "exist vapor chair pave actress penalty sadness furnace bridge fruit lawsuit duck";
+var mnemonic = "roast position embark jelly echo success wood tank trip eight monitor spoon";

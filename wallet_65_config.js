@@ -1,1 +1,1 @@
-var mnemonic = "trap frequent slab eye pig hurry strategy scare twenty feature feature diet";
+var mnemonic = "hub quantum dust broom language blast stove dwarf emotion phrase chalk runway";

@@ -1,1 +1,1 @@
-var mnemonic = "brain defy interest finger human pioneer royal uphold faint tuition oyster machine";
+var mnemonic = "chalk degree mango empower blur cupboard pulse chicken special atom car alone";

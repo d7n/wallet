@@ -1,1 +1,1 @@
-var mnemonic = "broom prefer adjust tool toast strategy slight trial obey impulse oak dawn";
+var mnemonic = "fix crash gift win naive over lemon bullet bind toilet define chapter";

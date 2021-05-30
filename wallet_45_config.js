@@ -1,1 +1,1 @@
-var mnemonic = "degree identify obvious differ snap long peace ride above bacon rib wrist";
+var mnemonic = "smart rocket kitchen little dress victory song library head science border net";

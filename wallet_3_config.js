@@ -1,1 +1,1 @@
-var mnemonic = "assist guilt dice educate throw oven device pull spot coach able enjoy";
+var mnemonic = "fit also outside shift urge sick artefact domain put reward ship effort";

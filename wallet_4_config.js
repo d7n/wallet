@@ -1,1 +1,1 @@
-var mnemonic = "session swamp record survey aunt offer deny cannon toss mosquito champion nest";
+var mnemonic = "way laugh rain crystal delay birth case lift install rose love inspire";
