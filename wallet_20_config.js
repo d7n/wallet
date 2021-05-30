@@ -1,1 +1,1 @@
-var mnemonic = "horror consider middle wish urban flag motor total silver hip into buddy";
+var mnemonic = "hat idle sing camp wool gesture primary knife public movie achieve caught";

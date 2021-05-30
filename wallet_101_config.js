@@ -1,1 +1,1 @@
-var mnemonic = "grid omit urban visual senior lawn short hospital exclude stairs toy leisure";
+var mnemonic = "spring erosion sense jealous design goose copper require win congress tunnel talk";

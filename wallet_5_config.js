@@ -1,1 +1,1 @@
-var mnemonic = "mosquito table cricket engine copy balcony trap net vessel rival expire huge";
+var mnemonic = "lemon hybrid erupt text screen place tonight release ill arrow proud spring";

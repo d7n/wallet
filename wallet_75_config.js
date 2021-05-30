@@ -1,1 +1,1 @@
-var mnemonic = "warrior room flush pluck identify journey deputy refuse borrow evolve chef check";
+var mnemonic = "debate where intact pioneer galaxy cook expect cactus include access talk diary";

@@ -1,1 +1,1 @@
-var mnemonic = "drive ladder bounce wisdom ten anger goddess tooth length liberty polar couple";
+var mnemonic = "throw mosquito egg twin few message inquiry frown fiction predict account hill";

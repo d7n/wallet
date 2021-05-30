@@ -1,1 +1,1 @@
-var mnemonic = "fuel quote bulb goddess stomach report fault blur very kind job capital";
+var mnemonic = "axis cinnamon buffalo place buyer neither subject diamond cherry rule unfair shop";

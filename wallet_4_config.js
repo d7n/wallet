@@ -1,1 +1,1 @@
-var mnemonic = "proud rhythm wife jaguar noble salon spice reward foster method slab possible";
+var mnemonic = "shove tunnel success marine day glare lobster similar addict clock tumble poet";

@@ -1,1 +1,1 @@
-var mnemonic = "eye guard frown behind fly ready repeat harvest scout torch tribe volcano";
+var mnemonic = "soft coral broom kiss oppose property endless thank grit travel boil coyote";

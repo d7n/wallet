@@ -1,1 +1,1 @@
-var mnemonic = "sense public elite dwarf tired insect topple fox fiber argue stereo gasp";
+var mnemonic = "also defy peasant now receive erode angry walnut head come arrive enter";

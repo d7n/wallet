@@ -1,1 +1,1 @@
-var mnemonic = "duck empty current chimney like depart retreat pudding room actress recall forget";
+var mnemonic = "purse entry cook couple impose eyebrow slide tilt super benefit cabin unfold";

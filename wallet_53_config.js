@@ -1,1 +1,1 @@
-var mnemonic = "entry ozone slender salt master robot cabbage road bubble august cupboard accuse";
+var mnemonic = "live make clap hunt peasant balance mule sick grief fame gesture differ";

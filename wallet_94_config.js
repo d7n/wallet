@@ -1,1 +1,1 @@
-var mnemonic = "mouse inside wise youth cool tennis creek rough vessel decline clean broccoli";
+var mnemonic = "pelican pulse yellow spread possible refuse security already slight list lake always";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi frame primary example shadow science swarm lemon frost dragon eyebrow people";
+var mnemonic = "youth reduce fine grass moment belt humble series heart lazy coral solution";

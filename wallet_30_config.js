@@ -1,1 +1,1 @@
-var mnemonic = "flee noise tray arrest session accuse tank world tackle main laugh region";
+var mnemonic = "laugh circle exercise fold below mountain name sphere clap runway fossil type";

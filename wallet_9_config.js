@@ -1,1 +1,1 @@
-var mnemonic = "narrow glory ball enough behind duty depend drum option wolf cruise soup";
+var mnemonic = "electric adult sun dismiss enable excess time mixed guilt unaware repeat tumble";

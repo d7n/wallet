@@ -1,1 +1,1 @@
-var mnemonic = "anger vital slogan kit novel bus chicken matrix flush loop six question";
+var mnemonic = "ball pair icon coconut flavor quick wagon knife grit husband fancy stairs";

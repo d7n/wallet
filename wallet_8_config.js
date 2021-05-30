@@ -1,1 +1,1 @@
-var mnemonic = "mouse warm plastic biology swap alarm industry impose century tone render build";
+var mnemonic = "rug later napkin flock ticket nominee heavy leave fly couch mix upgrade";

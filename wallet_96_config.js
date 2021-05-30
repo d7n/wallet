@@ -1,1 +1,1 @@
-var mnemonic = "thumb vendor very wear soul nurse angry eager slim lottery leader scissors";
+var mnemonic = "glad trumpet gather exclude absurd sing brief wrong fog wolf ignore nasty";

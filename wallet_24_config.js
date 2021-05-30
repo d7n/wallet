@@ -1,1 +1,1 @@
-var mnemonic = "ivory clever fence fade dilemma clown body neck climb east cliff alone";
+var mnemonic = "advance fire ugly allow ill click reward crumble planet jump glimpse stadium";

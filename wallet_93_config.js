@@ -1,1 +1,1 @@
-var mnemonic = "noodle anger bulb garment cluster pigeon civil bird struggle provide south observe";
+var mnemonic = "board spring clutch common sunny shrug rebuild tired arena lady upset saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic sense quantum jealous bundle coach seminar autumn artwork pulse dizzy half";
+var mnemonic = "nature subject marriage loop exile purse path draft frog beauty worth decrease";

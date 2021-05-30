@@ -1,1 +1,1 @@
-var mnemonic = "adapt globe urban immune lottery receive aerobic rhythm inmate busy street leader";
+var mnemonic = "silk moment deliver beyond digital earn wing diamond depend mouse coast profit";

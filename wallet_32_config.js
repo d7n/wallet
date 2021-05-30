@@ -1,1 +1,1 @@
-var mnemonic = "ship escape stove game engage property hand broken interest size wall need";
+var mnemonic = "belt visit syrup senior update virtual brick dice act tragic village visual";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo satisfy goose among legend brown thumb kitten thank barely flag client";
+var mnemonic = "mango spoil arctic trigger despair mountain method buyer exile pottery gravity catch";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid brisk table jelly noble blue banana unusual photo arctic okay always";
+var mnemonic = "simple square salad nature pistol lake behind baby divide shift steak casino";

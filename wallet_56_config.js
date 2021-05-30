@@ -1,1 +1,1 @@
-var mnemonic = "tool grab exist height hold web wisdom pond way rapid prefer affair";
+var mnemonic = "noise quality female fitness test shop pencil arrest recycle drip early pyramid";

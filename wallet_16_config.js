@@ -1,1 +1,1 @@
-var mnemonic = "sell under boat either emotion artefact brass chicken stone outdoor subway arena";
+var mnemonic = "coach horn hover aspect teach goat silent federal energy must napkin dial";

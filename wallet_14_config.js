@@ -1,1 +1,1 @@
-var mnemonic = "manage home holiday rubber naive nuclear hurry gather favorite senior draft device";
+var mnemonic = "broccoli damage ridge income rhythm deny chapter size stock buddy tissue guess";

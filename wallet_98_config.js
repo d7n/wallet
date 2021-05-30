@@ -1,1 +1,1 @@
-var mnemonic = "degree pole achieve garbage spell lawn office hurry already quote race script";
+var mnemonic = "copper dove ahead whisper chimney fat increase crumble potato inject mean mother";

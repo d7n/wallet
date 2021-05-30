@@ -1,1 +1,1 @@
-var mnemonic = "aunt coil alien dry cement drop impulse denial immense twice pledge grunt";
+var mnemonic = "short draw spawn pledge repair marriage random captain speed mechanic narrow derive";

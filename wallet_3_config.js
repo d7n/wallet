@@ -1,1 +1,1 @@
-var mnemonic = "adapt tiny april road topple robust rescue maximum almost lock trash such";
+var mnemonic = "reform round oak market hospital excess mutual reason exile walnut strong climb";

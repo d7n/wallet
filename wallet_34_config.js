@@ -1,1 +1,1 @@
-var mnemonic = "pulp flock charge island keep timber uphold capital banner destroy photo account";
+var mnemonic = "produce easily toddler transfer walk inflict pigeon become whale side agree expand";

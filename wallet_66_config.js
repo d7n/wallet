@@ -1,1 +1,1 @@
-var mnemonic = "thank top symptom cattle smoke shy despair when truth clarify try inch";
+var mnemonic = "wedding good name forward weekend replace physical arrive face erosion bike idea";

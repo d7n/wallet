@@ -1,1 +1,1 @@
-var mnemonic = "gospel cherry mammal sadness despair sun juice prefer fitness decrease despair mom";
+var mnemonic = "fruit hood cactus tumble assume dice food embark result beach boring stairs";

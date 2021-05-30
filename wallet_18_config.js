@@ -1,1 +1,1 @@
-var mnemonic = "scissors antique orphan reward prefer armed bag stuff boil crumble youth stove";
+var mnemonic = "rapid dumb antique also ticket silly year chicken skin option sugar chronic";

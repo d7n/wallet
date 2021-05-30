@@ -1,1 +1,1 @@
-var mnemonic = "wonder post mango believe case tissue immense quick audit spray magnet equip";
+var mnemonic = "road urge brush theory pistol famous friend arrest just anchor object mountain";

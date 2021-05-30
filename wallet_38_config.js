@@ -1,1 +1,1 @@
-var mnemonic = "attitude butter busy amount goddess category aunt differ runway clip slow napkin";
+var mnemonic = "doctor make target weasel tragic mind such hobby quality yellow toast property";

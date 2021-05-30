@@ -1,1 +1,1 @@
-var mnemonic = "powder reform purpose meat need social bomb media task aerobic multiply tobacco";
+var mnemonic = "clinic century size gravity chest maze very hurt tag marble trumpet tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "render essay consider tuition stereo delay control spawn bitter remind light risk";
+var mnemonic = "burger effort aisle easy mail method clip certain around note attitude master";

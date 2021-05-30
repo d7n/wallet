@@ -1,1 +1,1 @@
-var mnemonic = "they exhaust concert afford avocado regret portion picture muffin curve rich lawsuit";
+var mnemonic = "enact infant bless parrot also actress air abstract laptop learn draw congress";

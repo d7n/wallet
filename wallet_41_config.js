@@ -1,1 +1,1 @@
-var mnemonic = "stock sort beyond loud end stock clock else ivory table engage oak";
+var mnemonic = "fish degree note joy sword fossil dust rough opera staff ball leave";

@@ -1,1 +1,1 @@
-var mnemonic = "broom proof local dove element friend try step develop index recipe gadget";
+var mnemonic = "curious upgrade lottery diet slice tenant soda bottom boss venue web sniff";

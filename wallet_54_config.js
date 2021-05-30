@@ -1,1 +1,1 @@
-var mnemonic = "correct climb honey tennis aspect charge master feel notable online blast leg";
+var mnemonic = "better rookie strategy wise group bulk treat will since sand size arrange";

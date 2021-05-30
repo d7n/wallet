@@ -1,1 +1,1 @@
-var mnemonic = "explain border walk ship apple sentence comfort choose volcano derive earth endorse";
+var mnemonic = "bar steel oblige column nasty album margin spell act wedding simple next";

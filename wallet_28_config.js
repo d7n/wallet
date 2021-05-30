@@ -1,1 +1,1 @@
-var mnemonic = "umbrella thrive glimpse shoot exchange income weekend mimic slot hockey before warrior";
+var mnemonic = "pledge prize wide express there lady faint chronic level nature average topic";

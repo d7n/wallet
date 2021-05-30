@@ -1,1 +1,1 @@
-var mnemonic = "relax real country inspire lunch usage bike penalty august arctic identify frozen";
+var mnemonic = "text bargain dilemma clap glow venue message jewel junior way buzz spot";

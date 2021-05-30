@@ -1,1 +1,1 @@
-var mnemonic = "home answer exotic clap roof hint pact cinnamon brief trouble carpet hurt";
+var mnemonic = "sudden chronic transfer erode divert ship document onion father lecture mention slight";

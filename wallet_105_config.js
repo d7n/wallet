@@ -1,1 +1,1 @@
-var mnemonic = "liberty evoke oval brown chaos fire lumber leader tide pact rice range";
+var mnemonic = "grab shiver loyal habit number enroll help curve panther rare siege super";

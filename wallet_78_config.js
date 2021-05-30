@@ -1,1 +1,1 @@
-var mnemonic = "shield giraffe spider raven rally power industry baby sheriff flush body vast";
+var mnemonic = "iron appear require good purse beef champion plastic violin coin arrow liar";

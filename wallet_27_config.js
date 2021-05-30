@@ -1,1 +1,1 @@
-var mnemonic = "arctic margin hub price fan drum scheme wish pelican capable orange rate";
+var mnemonic = "air music melt manage fragile awesome hill fan matrix clay lamp village";

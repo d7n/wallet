@@ -1,1 +1,1 @@
-var mnemonic = "fantasy blast warrior member bargain appear element tag pair vessel enact whisper";
+var mnemonic = "demise great delay royal switch buddy antenna random cherry slab level ranch";

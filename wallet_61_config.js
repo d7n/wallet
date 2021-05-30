@@ -1,1 +1,1 @@
-var mnemonic = "basic street blush core clap adapt frost give hunt diary resist melody";
+var mnemonic = "wall wheel tortoise napkin bread orbit muffin wool tip depart child industry";

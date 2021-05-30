@@ -1,1 +1,1 @@
-var mnemonic = "fluid want coast bicycle rail apart suspect disorder marble noise warm situate";
+var mnemonic = "amount rate october oblige know wink plate arrange nominee cousin brother sudden";

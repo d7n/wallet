@@ -1,1 +1,1 @@
-var mnemonic = "virtual decrease worry carbon illegal drive soldier office exercise antique shed air";
+var mnemonic = "kite gadget frog that claw employ grass income captain mass device leg";

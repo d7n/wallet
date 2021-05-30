@@ -1,1 +1,1 @@
-var mnemonic = "island document wait pigeon ritual current hungry jar predict flower rocket gold";
+var mnemonic = "position gossip blouse tail middle treat concert amazing february increase robust hello";

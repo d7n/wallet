@@ -1,1 +1,1 @@
-var mnemonic = "innocent already taxi bone ticket clap convince steak thunder panther shove science";
+var mnemonic = "local still before atom crew truth add plug use end bachelor street";

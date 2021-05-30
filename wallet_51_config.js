@@ -1,1 +1,1 @@
-var mnemonic = "mystery express escape alter baby since wild series hip firm barrel claim";
+var mnemonic = "finish unaware crazy donate write affair wine husband blade alarm crew crystal";

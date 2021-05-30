@@ -1,1 +1,1 @@
-var mnemonic = "grit lamp beach harsh tackle test winner nest interest sugar switch matrix";
+var mnemonic = "urban vibrant method spoon rack neutral butter enrich valve clog dad struggle";

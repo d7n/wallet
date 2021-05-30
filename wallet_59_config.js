@@ -1,1 +1,1 @@
-var mnemonic = "engage follow upon edit act opinion space label tissue myself work dice";
+var mnemonic = "nurse border vibrant glide atom obvious small color rabbit unveil evoke weasel";

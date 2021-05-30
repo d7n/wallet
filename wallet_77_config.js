@@ -1,1 +1,1 @@
-var mnemonic = "bullet angry pottery replace island power blossom drop farm clarify clump emotion";
+var mnemonic = "plug friend assist churn adapt faint spoon author erase gain like bicycle";

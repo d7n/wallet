@@ -1,1 +1,1 @@
-var mnemonic = "honey staff spawn raw town dirt mail lock vicious spoil outdoor umbrella";
+var mnemonic = "office mother problem crash luggage result double debris turtle grain vanish board";

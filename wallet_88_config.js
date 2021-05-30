@@ -1,1 +1,1 @@
-var mnemonic = "fold muffin judge affair power dumb armed rough old grid slide harsh";
+var mnemonic = "despair pistol cruel together buffalo puzzle whale collect gain morning wave music";

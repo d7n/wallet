@@ -1,1 +1,1 @@
-var mnemonic = "venture sausage virus muscle analyst image blouse roast sell turkey ripple engage";
+var mnemonic = "race luggage hope title differ monitor occur symptom divide silk young orient";

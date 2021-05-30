@@ -1,1 +1,1 @@
-var mnemonic = "grab favorite solar flat security unaware pitch impulse limit ozone reason announce";
+var mnemonic = "donate report castle jump crane critic task rebel live cupboard broom garlic";

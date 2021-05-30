@@ -1,1 +1,1 @@
-var mnemonic = "idea genre speed initial obvious enroll ridge rail park frozen wage wonder";
+var mnemonic = "extend possible demise critic prefer improve mixed industry panda still diary hollow";

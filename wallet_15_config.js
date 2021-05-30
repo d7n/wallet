@@ -1,1 +1,1 @@
-var mnemonic = "figure spawn denial stage stamp winner cattle shock allow type abandon total";
+var mnemonic = "genius change special edge remain hedgehog cruise night typical dumb also breeze";

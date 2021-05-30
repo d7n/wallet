@@ -1,1 +1,1 @@
-var mnemonic = "tray patrol fit stay false arrive trap feature step city kitten uncover";
+var mnemonic = "again clip train gentle grocery scheme sadness august frost agent dumb best";

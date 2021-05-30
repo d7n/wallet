@@ -1,1 +1,1 @@
-var mnemonic = "tree almost kite south choose swarm swing degree inquiry retreat exist urge";
+var mnemonic = "tribe steel ready repair close believe punch radar valid program beauty arrange";

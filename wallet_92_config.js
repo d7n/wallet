@@ -1,1 +1,1 @@
-var mnemonic = "can federal ghost wreck swallow urban beyond carbon wreck case club cash";
+var mnemonic = "food urge try primary skull option label transfer brain poem mandate vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma oppose nuclear story flash hedgehog imitate among bag list stone iron";
+var mnemonic = "near burden taxi industry echo clay cool tenant soul genre emerge mouse";

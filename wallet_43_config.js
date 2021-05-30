@@ -1,1 +1,1 @@
-var mnemonic = "ritual merit hungry execute youth nature off predict crew latin identify aunt";
+var mnemonic = "spirit boring album absurd swarm mushroom erase mother illegal record smooth midnight";

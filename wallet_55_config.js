@@ -1,1 +1,1 @@
-var mnemonic = "print sunset dust soon october lock feed leave net turkey feature cruel";
+var mnemonic = "royal put reunion absorb exact virus scare magic always quantum banner lecture";

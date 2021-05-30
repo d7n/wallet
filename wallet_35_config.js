@@ -1,1 +1,1 @@
-var mnemonic = "donor phone modify picnic staff sweet sustain owner velvet perfect assault amused";
+var mnemonic = "raccoon brand already school table tiny wedding angry idle submit hip vapor";

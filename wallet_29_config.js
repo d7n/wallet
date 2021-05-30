@@ -1,1 +1,1 @@
-var mnemonic = "peanut crowd future salad hello athlete stereo unique bird tomato ahead march";
+var mnemonic = "miss track border weather misery grain olympic purity firm aerobic live lion";

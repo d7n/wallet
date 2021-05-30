@@ -1,1 +1,1 @@
-var mnemonic = "boss sing hip door spring taxi arch brand elbow betray embrace raw";
+var mnemonic = "reflect trash deer remain fine mask regret gap then settle bar couple";

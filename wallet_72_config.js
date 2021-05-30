@@ -1,1 +1,1 @@
-var mnemonic = "clown firm oyster scheme region prevent atom burger seek guide photo better";
+var mnemonic = "range alone kiwi safe enhance response elbow page enter drink slot peace";

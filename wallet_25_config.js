@@ -1,1 +1,1 @@
-var mnemonic = "shove enhance bind joy foster clown wish knee evidence bounce gather have";
+var mnemonic = "kit smile brave about saddle chair snack borrow mirror matter attitude topple";

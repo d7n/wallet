@@ -1,1 +1,1 @@
-var mnemonic = "canoe purse sing ordinary tone common toast divide review coil census mention";
+var mnemonic = "word follow act motion enact shell frame large old praise boy already";

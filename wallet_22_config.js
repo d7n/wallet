@@ -1,1 +1,1 @@
-var mnemonic = "space vessel tribe alpha budget pretty page produce armor reunion column casino";
+var mnemonic = "borrow latin song label vanish frown lawn castle oxygen mirror patch ill";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh point memory garage month peanut street deny good recall able famous";
+var mnemonic = "trigger weasel ignore tenant real tube couch exact brush someone add subject";

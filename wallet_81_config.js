@@ -1,1 +1,1 @@
-var mnemonic = "announce safe fee relax share cram oven kit useful horn upgrade tattoo";
+var mnemonic = "muffin volume arrange resemble debate project garment ticket recall express disease dial";

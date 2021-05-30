@@ -1,1 +1,1 @@
-var mnemonic = "minor chase neglect cinnamon cigar special fall fame mean fiscal coffee flower";
+var mnemonic = "picnic canvas unfold split omit behind ribbon census spoil chapter tray size";

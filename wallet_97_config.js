@@ -1,1 +1,1 @@
-var mnemonic = "wrist hamster battle rebel drink clump gap crowd glue fatal tide improve";
+var mnemonic = "squirrel eight twin remember what floor fury laugh unfair struggle poverty aunt";

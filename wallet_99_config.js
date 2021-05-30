@@ -1,1 +1,1 @@
-var mnemonic = "flag glass solar alien rate valve source actor clip dish husband manual";
+var mnemonic = "scare grab way gesture artefact wagon library width badge subject wing ocean";

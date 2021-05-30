@@ -1,1 +1,1 @@
-var mnemonic = "course shadow echo pear kitten debris athlete raven pretty move grow runway";
+var mnemonic = "scatter riot powder illness idle month coyote pyramid sea bounce suggest frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "essence analyst meat bind green pave harbor rug release thunder strategy exhaust";
+var mnemonic = "poem latin media camera goddess dragon hollow govern sleep sea course magic";

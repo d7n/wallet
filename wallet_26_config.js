@@ -1,1 +1,1 @@
-var mnemonic = "dilemma wing common crater buddy noble palm trade velvet return prefer quantum";
+var mnemonic = "glare later spray arch rotate slam clip real chef frog crawl wrap";

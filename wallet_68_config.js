@@ -1,1 +1,1 @@
-var mnemonic = "hero solution plate asthma celery matter clarify much bind absent cheap agree";
+var mnemonic = "wheat remind rabbit alter army pattern craft area movie neglect spice spell";

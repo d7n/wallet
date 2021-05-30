@@ -1,1 +1,1 @@
-var mnemonic = "matter gather dizzy manual sponsor panic bounce spend seek demise bonus can";
+var mnemonic = "nephew crater mean differ soon focus snow danger wire fossil sponsor talk";

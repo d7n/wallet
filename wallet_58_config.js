@@ -1,1 +1,1 @@
-var mnemonic = "decline wise side rocket dash era fatigue congress worry tomorrow dinosaur submit";
+var mnemonic = "debate use obscure recipe uncover shove behind dilemma miss balance lonely industry";

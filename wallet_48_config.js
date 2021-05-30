@@ -1,1 +1,1 @@
-var mnemonic = "raise helmet sense comfort broom animal include various tool limit swing attitude";
+var mnemonic = "hair replace muffin wild solve trouble damage great relax champion useless city";

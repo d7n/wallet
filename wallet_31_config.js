@@ -1,1 +1,1 @@
-var mnemonic = "dragon ahead wide state acoustic mistake shove kid lend stem fabric airport";
+var mnemonic = "coin glance spare burden dirt benefit degree brother about pave sweet gossip";
