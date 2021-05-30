@@ -1,1 +1,1 @@
-var mnemonic = "barrel cigar output jewel hospital police hedgehog captain original laugh short now";
+var mnemonic = "truth name surge rain radio fine woman left reflect april assault fiber";

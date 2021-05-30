@@ -1,1 +1,1 @@
-var mnemonic = "fashion limit blush letter august rebel mule force lift clever bonus kiss";
+var mnemonic = "refuse crystal vague prosper slush bread soccer shield history melt series follow";

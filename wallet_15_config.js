@@ -1,1 +1,1 @@
-var mnemonic = "before auto refuse grunt vapor entire veteran canvas void color frozen nasty";
+var mnemonic = "prefer auction give brisk clog frequent castle ready razor current pattern light";

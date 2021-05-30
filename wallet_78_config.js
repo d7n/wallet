@@ -1,1 +1,1 @@
-var mnemonic = "jungle magic spawn motion enact renew release harbor mechanic cloud gorilla fetch";
+var mnemonic = "sell leg arrow tuition opinion mule chief sight guide drum can clean";

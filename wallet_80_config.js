@@ -1,1 +1,1 @@
-var mnemonic = "olive pride spend degree diary whale vanish slight above shed rocket spring";
+var mnemonic = "flight machine canyon occur deer north cage couple plug hero canvas trash";

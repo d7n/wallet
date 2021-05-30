@@ -1,1 +1,1 @@
-var mnemonic = "merry inspire glare swift legal end find mass barrel matrix north level";
+var mnemonic = "column pepper giraffe female crawl fashion private moral weekend quarter spend reform";

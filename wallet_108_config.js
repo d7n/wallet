@@ -1,1 +1,1 @@
-var mnemonic = "wet ahead certain team virus broccoli fall action leader nerve dawn tube";
+var mnemonic = "wrist raise there bus point still inch trigger network hockey rare sadness";

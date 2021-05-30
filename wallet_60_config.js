@@ -1,1 +1,1 @@
-var mnemonic = "wood strong donkey clump pyramid anchor shell volcano pool note rural much";
+var mnemonic = "vehicle figure able melt afraid unlock august display empower spoil credit actual";

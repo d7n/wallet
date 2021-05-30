@@ -1,1 +1,1 @@
-var mnemonic = "dove office goose post window another thumb lesson fever adjust rifle cancel";
+var mnemonic = "attract beyond month strategy scan flock rural basket repeat uniform wolf permit";

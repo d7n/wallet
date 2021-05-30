@@ -1,1 +1,1 @@
-var mnemonic = "song appear tomorrow exhaust mango actual since praise style decrease view pelican";
+var mnemonic = "arm aisle pause object usual always process achieve actress mansion priority match";

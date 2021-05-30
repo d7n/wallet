@@ -1,1 +1,1 @@
-var mnemonic = "rice remove puzzle poet fabric enlist raise clean visa admit dinosaur ranch";
+var mnemonic = "badge clever rough frequent fragile slim treat hand always carbon dirt hat";

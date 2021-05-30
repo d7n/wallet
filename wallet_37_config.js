@@ -1,1 +1,1 @@
-var mnemonic = "ghost need mosquito possible bus monkey shine divide early express habit aisle";
+var mnemonic = "thunder buffalo echo number inside exile regular exercise medal mammal repeat deliver";

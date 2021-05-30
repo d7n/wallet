@@ -1,1 +1,1 @@
-var mnemonic = "access slab exchange seed expire involve ribbon broom resemble grass twice decorate";
+var mnemonic = "pistol dilemma close census mango forget result order hawk wine upset keep";

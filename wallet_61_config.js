@@ -1,1 +1,1 @@
-var mnemonic = "fetch check zero bird inform monitor such around quarter velvet ramp loan";
+var mnemonic = "thrive moral pattern canal panda little finish ramp diary inquiry tell immense";

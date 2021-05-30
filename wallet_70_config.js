@@ -1,1 +1,1 @@
-var mnemonic = "stumble shop poverty youth jealous rescue vital doll remain remember sell topic";
+var mnemonic = "sentence razor sign remain conduct upgrade urban cloth segment fetch swarm vault";

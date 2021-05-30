@@ -1,1 +1,1 @@
-var mnemonic = "wash behind solid stamp couple recipe couch layer priority nothing another bulb";
+var mnemonic = "program world become debate loyal number adapt visual original rose doctor planet";

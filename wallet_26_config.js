@@ -1,1 +1,1 @@
-var mnemonic = "mesh child party uncle series injury beach make girl popular engine relief";
+var mnemonic = "upper grace glow element erosion caution liquid custom saddle notice game burden";

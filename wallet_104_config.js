@@ -1,1 +1,1 @@
-var mnemonic = "guide engage obey orient crater link limit power noise large crop around";
+var mnemonic = "fruit aerobic account party bracket visa cook dress long state toast fuel";

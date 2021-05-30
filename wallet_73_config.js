@@ -1,1 +1,1 @@
-var mnemonic = "kick manual blue raw above olive doctor sport skull wool sausage outside";
+var mnemonic = "purchase boat fold muffin shield magnet main expand toast puppy theme advice";

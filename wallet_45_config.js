@@ -1,1 +1,1 @@
-var mnemonic = "evidence truck hunt oblige vote minor track chase involve danger jelly blur";
+var mnemonic = "advice material lobster engine dragon knee sail come milk old faint habit";

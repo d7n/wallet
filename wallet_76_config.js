@@ -1,1 +1,1 @@
-var mnemonic = "hen exhaust meat hazard service address tuna jacket draw desk peanut erosion";
+var mnemonic = "chapter travel arrow damage duty meat vague assist clerk monster glad possible";

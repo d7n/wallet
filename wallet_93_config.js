@@ -1,1 +1,1 @@
-var mnemonic = "kiwi slice slow mansion sand elevator surge negative barrel emerge horn spice";
+var mnemonic = "chase canvas embrace small right initial bring into animal narrow dolphin maximum";

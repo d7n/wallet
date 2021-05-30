@@ -1,1 +1,1 @@
-var mnemonic = "diamond cushion valve stock edit soldier dad tragic romance circle sniff lens";
+var mnemonic = "tennis auction hospital confirm soul present short agent address concert round into";

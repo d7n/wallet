@@ -1,1 +1,1 @@
-var mnemonic = "latin usual oxygen couch below enforce habit shallow early obvious evidence random";
+var mnemonic = "grass more task error onion taste current aware exercise accident save buddy";

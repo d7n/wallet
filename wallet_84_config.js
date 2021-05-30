@@ -1,1 +1,1 @@
-var mnemonic = "gauge eternal merge remain local derive dwarf rough success correct target under";
+var mnemonic = "guitar bright audit happy road jealous rare lecture tool before catalog apart";

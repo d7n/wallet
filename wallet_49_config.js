@@ -1,1 +1,1 @@
-var mnemonic = "chief nice reduce bottom fence toe valley dove high observe figure human";
+var mnemonic = "define foam renew disease reward report enhance position together fossil allow cost";

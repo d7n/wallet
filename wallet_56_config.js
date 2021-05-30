@@ -1,1 +1,1 @@
-var mnemonic = "abstract hurry among net hope aware betray clip vault series violin inform";
+var mnemonic = "cause pizza amazing quiz toilet famous usual know snow mansion time shaft";

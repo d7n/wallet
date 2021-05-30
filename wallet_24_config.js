@@ -1,1 +1,1 @@
-var mnemonic = "tribe invest vapor text panda start wise comic abandon produce nuclear chat";
+var mnemonic = "wave company license situate priority end steel wise trade stuff elder race";

@@ -1,1 +1,1 @@
-var mnemonic = "tail maximum arm term spoon field seven upset task page eight use";
+var mnemonic = "twelve just unfold frost glide afford stem sight edge party fruit scatter";

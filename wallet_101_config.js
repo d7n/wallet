@@ -1,1 +1,1 @@
-var mnemonic = "pear elbow rebel mutual regret ask claim point bring cricket web erosion";
+var mnemonic = "hip dignity dismiss praise tackle inject enemy live giggle immune clump meat";

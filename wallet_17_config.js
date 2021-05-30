@@ -1,1 +1,1 @@
-var mnemonic = "essay pledge resource hungry ceiling rose frog monitor earn drop country hurdle";
+var mnemonic = "purity behave vote loop arena onion ancient sun black year case orient";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee mammal until damage fog coconut three puppy crop position primary chase";
+var mnemonic = "major focus kick lumber assist ivory slight hair spring release now birth";

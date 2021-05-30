@@ -1,1 +1,1 @@
-var mnemonic = "decline oak cinnamon fever annual artefact suit spider aware wagon tunnel organ";
+var mnemonic = "grape run ridge corn warrior legend goose risk goat because wage trick";

@@ -1,1 +1,1 @@
-var mnemonic = "sand elder various segment swarm demise ritual imitate employ velvet bright rubber";
+var mnemonic = "zero toe inherit poem group nerve reopen gap lunar gown sweet owner";

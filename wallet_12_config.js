@@ -1,1 +1,1 @@
-var mnemonic = "fork hobby success steak scrub settle hurt country toddler ancient view erode";
+var mnemonic = "real favorite slide paddle kingdom trumpet segment caught royal december there letter";

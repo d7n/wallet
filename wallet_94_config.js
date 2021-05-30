@@ -1,1 +1,1 @@
-var mnemonic = "appear ill sausage glimpse wild life often outside enact narrow tonight must";
+var mnemonic = "process mesh differ chalk crouch else blast ribbon fresh can hybrid parade";

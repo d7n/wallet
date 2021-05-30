@@ -1,1 +1,1 @@
-var mnemonic = "silk famous mad issue annual drink beef elevator barely mother hobby rose";
+var mnemonic = "march matter blade amount midnight similar position embody duty become cry sample";

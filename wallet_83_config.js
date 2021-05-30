@@ -1,1 +1,1 @@
-var mnemonic = "inmate road clip service cycle churn boss heavy risk stable curve toddler";
+var mnemonic = "forget tilt coin afford rely fiction deal stuff human buzz distance term";

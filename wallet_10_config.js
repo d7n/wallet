@@ -1,1 +1,1 @@
-var mnemonic = "panic piece ramp okay leg burst flush fruit fee uniform urban ladder";
+var mnemonic = "view buffalo sibling swallow decade pony brisk field guard please marriage citizen";

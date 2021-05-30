@@ -1,1 +1,1 @@
-var mnemonic = "bomb damage artwork canvas dream rule success wrist annual volume unit refuse";
+var mnemonic = "paddle cheese trophy vintage shaft spread wool umbrella pluck usual panther cushion";

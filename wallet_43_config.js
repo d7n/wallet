@@ -1,1 +1,1 @@
-var mnemonic = "relief immense divert despair unfold city captain throw damage say blur nasty";
+var mnemonic = "announce wing keep pear board trick apple defy time coffee race fringe";

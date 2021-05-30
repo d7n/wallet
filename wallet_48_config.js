@@ -1,1 +1,1 @@
-var mnemonic = "excuse weekend van lion method palace manage snake screen someone injury require";
+var mnemonic = "cattle license retire middle mind camera race snack tube ring script either";

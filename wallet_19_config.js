@@ -1,1 +1,1 @@
-var mnemonic = "party glimpse rely explain assist display spell yellow execute luggage evolve sand";
+var mnemonic = "giant swift cement program swap bid pistol crucial simple gentle collect account";

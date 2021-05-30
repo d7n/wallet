@@ -1,1 +1,1 @@
-var mnemonic = "relief fit leader neutral witness window token purse naive wool announce yard";
+var mnemonic = "forward mushroom display ketchup call novel bench legal aspect frog tobacco worry";

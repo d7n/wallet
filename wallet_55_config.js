@@ -1,1 +1,1 @@
-var mnemonic = "mammal employ artefact orphan monkey design skate dolphin only bone hello gorilla";
+var mnemonic = "rib creek amazing word asthma hunt canoe vehicle brisk response excess bus";

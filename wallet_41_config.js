@@ -1,1 +1,1 @@
-var mnemonic = "put tuna dignity skin base prepare brass decline path danger around oak";
+var mnemonic = "galaxy story spice catch penalty old range fluid pottery roast sauce license";

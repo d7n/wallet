@@ -1,1 +1,1 @@
-var mnemonic = "level hero swarm buddy crunch neglect apology front between pottery sketch action";
+var mnemonic = "wasp cause one paddle control educate mesh joke first latin lab group";

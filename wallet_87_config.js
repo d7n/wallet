@@ -1,1 +1,1 @@
-var mnemonic = "witness planet cram west mesh garage verb quick smile crime tiny boy";
+var mnemonic = "suffer giant spike another wrestle mechanic that ready public gift repeat system";

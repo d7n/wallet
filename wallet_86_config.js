@@ -1,1 +1,1 @@
-var mnemonic = "lemon brief captain syrup gas bunker gospel volume salmon car pencil amused";
+var mnemonic = "target cake lawsuit disorder family venue zoo fury federal idea antique include";

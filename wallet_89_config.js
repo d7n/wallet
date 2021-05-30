@@ -1,1 +1,1 @@
-var mnemonic = "crazy select metal gym token dignity session bachelor neck portion congress snow";
+var mnemonic = "know crush script wood sustain vast future orchard play loyal inject economy";

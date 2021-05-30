@@ -1,1 +1,1 @@
-var mnemonic = "endless orient spy wave another across favorite mixed multiply artefact visual urge";
+var mnemonic = "zoo mango orbit bounce stumble lyrics view transfer boil tribe harbor drill";

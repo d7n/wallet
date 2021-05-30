@@ -1,1 +1,1 @@
-var mnemonic = "hunt accuse lecture produce exile expire destroy affair extra purchase squirrel uncle";
+var mnemonic = "retire throw search meadow clap crystal fossil cabin south model luxury hungry";

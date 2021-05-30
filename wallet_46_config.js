@@ -1,1 +1,1 @@
-var mnemonic = "just board trial entire fashion arctic eternal range duck bamboo egg tail";
+var mnemonic = "leader planet rocket meat column flock wink pill mistake ancient search basket";

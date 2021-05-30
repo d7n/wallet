@@ -1,1 +1,1 @@
-var mnemonic = "pact era claim hundred parade crime rally argue section lady busy orient";
+var mnemonic = "track few south blouse typical desert father torch artefact salute palace eagle";

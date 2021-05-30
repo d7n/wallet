@@ -1,1 +1,1 @@
-var mnemonic = "broken heavy tragic disease opinion avocado practice embark model eternal unhappy aunt";
+var mnemonic = "aisle forget crowd figure borrow march view boss ozone best want lounge";

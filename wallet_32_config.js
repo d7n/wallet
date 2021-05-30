@@ -1,1 +1,1 @@
-var mnemonic = "stable main finish salt wheat barely canvas frozen hawk wool agent depth";
+var mnemonic = "occur potato ring patient flash farm stomach clinic cement knee view idle";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic gold matrix truly awful test prize alone scene digital prevent trash";
+var mnemonic = "crane degree vacuum rebel guilt rebel food rebuild true salad interest industry";

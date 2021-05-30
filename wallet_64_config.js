@@ -1,1 +1,1 @@
-var mnemonic = "web cram extend hobby control genre situate enhance cinnamon brain what borrow";
+var mnemonic = "goddess peasant roof come volcano life tourist spread chunk drink vanish again";

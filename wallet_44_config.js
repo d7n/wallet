@@ -1,1 +1,1 @@
-var mnemonic = "rug style tunnel side end author actor common trumpet waste tomato party";
+var mnemonic = "prefer sand load divide pen nose kitchen border yellow camp render soda";

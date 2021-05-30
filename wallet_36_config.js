@@ -1,1 +1,1 @@
-var mnemonic = "guard review lift victory sweet shove jazz potato pumpkin slam embody short";
+var mnemonic = "insane state wheel pear index drip put illegal cushion bus business argue";

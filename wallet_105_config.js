@@ -1,1 +1,1 @@
-var mnemonic = "few employ tortoise trial casino behave diagram romance service grunt hold purse";
+var mnemonic = "knock grid cannon foot volcano motor chat mandate bicycle brother tissue creek";

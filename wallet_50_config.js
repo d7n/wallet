@@ -1,1 +1,1 @@
-var mnemonic = "supply squirrel inner dignity desk beyond wrong gesture glad trumpet ball absorb";
+var mnemonic = "helmet used submit print thank tree quality faint camera bachelor marine enrich";

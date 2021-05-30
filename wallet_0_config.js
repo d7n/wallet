@@ -1,1 +1,1 @@
-var mnemonic = "hurry olympic chicken child hazard sound bracket broccoli unit cause leaf cube";
+var mnemonic = "poem icon rebel anger small original wrap knee super column frown harbor";

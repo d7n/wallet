@@ -1,1 +1,1 @@
-var mnemonic = "claw talent seed crash afraid alert release potato season bitter nerve stick";
+var mnemonic = "wet tattoo box walnut delay giant pulse flock yellow proud gain cave";

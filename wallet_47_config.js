@@ -1,1 +1,1 @@
-var mnemonic = "toe hub shuffle initial blue awful brown type mirror emotion submit strong";
+var mnemonic = "track chapter unfold deer over party retire amateur sugar head leave excuse";

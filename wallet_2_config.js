@@ -1,1 +1,1 @@
-var mnemonic = "night favorite wear bonus join believe sentence cupboard lazy brisk confirm craft";
+var mnemonic = "near dune document end fantasy dove win try method purchase achieve time";

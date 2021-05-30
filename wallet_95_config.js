@@ -1,1 +1,1 @@
-var mnemonic = "limb science wet vehicle guitar inspire actual deliver place echo artefact sunset";
+var mnemonic = "merry virtual tourist rival cliff private ankle enrich door zoo whip license";

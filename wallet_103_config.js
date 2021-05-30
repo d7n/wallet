@@ -1,1 +1,1 @@
-var mnemonic = "table bridge asthma joy gain metal stereo strike neglect bridge shy amateur";
+var mnemonic = "dose spin ostrich assault manual scatter toy label judge axis fatigue series";

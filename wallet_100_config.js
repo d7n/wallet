@@ -1,1 +1,1 @@
-var mnemonic = "sand guilt fade raw vast code waste wheel liar boy loyal put";
+var mnemonic = "lizard answer inflict harvest song stadium angle that sketch act nice street";

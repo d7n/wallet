@@ -1,1 +1,1 @@
-var mnemonic = "viable impact rhythm meat jealous canyon double drum joke must resource middle";
+var mnemonic = "panther steel response section valve rack horn fatigue fortune away one regular";

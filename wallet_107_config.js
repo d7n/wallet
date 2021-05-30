@@ -1,1 +1,1 @@
-var mnemonic = "leader patrol test fabric final random solution rabbit behave defense parade foil";
+var mnemonic = "lab casino genre cup gown aware wave giant fade senior cliff blast";

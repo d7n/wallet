@@ -1,1 +1,1 @@
-var mnemonic = "outside require junk summer sing sketch guard wine spread yellow satoshi item";
+var mnemonic = "tower scrap century hole risk puppy hub food mass dolphin quote chief";

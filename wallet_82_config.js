@@ -1,1 +1,1 @@
-var mnemonic = "bread hover pond rib obscure velvet boss spoil flat across account vault";
+var mnemonic = "object crush expire solid hundred nation total crush burst trouble opinion cause";

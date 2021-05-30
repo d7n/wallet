@@ -1,1 +1,1 @@
-var mnemonic = "drip analyst deny upset genre interest vault echo coconut casino unusual erode";
+var mnemonic = "cross must brisk list girl deputy element bag sample trophy old kind";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral intact negative margin grant debate sign lyrics pistol turtle interest pencil";
+var mnemonic = "ripple park belt thank sand sun humor kit weasel outdoor maple circle";

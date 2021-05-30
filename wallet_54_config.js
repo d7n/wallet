@@ -1,1 +1,1 @@
-var mnemonic = "vivid tribe invest initial canoe name dress arctic employ glass potato tenant";
+var mnemonic = "reunion town lawsuit sugar garbage rebel device village climb month prepare arena";

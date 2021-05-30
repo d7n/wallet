@@ -1,1 +1,1 @@
-var mnemonic = "large fatigue despair drive harvest index broken setup helmet sing inspire blood";
+var mnemonic = "empty market fruit hidden organ problem wave desert affair corn quantum tool";

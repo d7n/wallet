@@ -1,1 +1,1 @@
-var mnemonic = "play solution wire pool dose aim false dawn above cousin hotel merry";
+var mnemonic = "gym acquire illegal earn vanish rent monster genius poem nurse gown middle";

@@ -1,1 +1,1 @@
-var mnemonic = "admit consider end age point lava silver vacuum skill chase judge hover";
+var mnemonic = "misery area congress copy staff sketch call action tuition film finish trip";

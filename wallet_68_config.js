@@ -1,1 +1,1 @@
-var mnemonic = "brass kingdom spot gadget liquid globe siege carbon snake surprise ball vivid";
+var mnemonic = "panel goat salmon address blood series tool glass pioneer version absent height";

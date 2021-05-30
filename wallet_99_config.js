@@ -1,1 +1,1 @@
-var mnemonic = "april drop possible coin call confirm mercy motion magic eagle glove champion";
+var mnemonic = "reopen core attack animal ancient target secret flag stable sword level must";

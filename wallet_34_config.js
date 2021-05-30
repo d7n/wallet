@@ -1,1 +1,1 @@
-var mnemonic = "volume valley tonight hamster snow metal economy gloom weasel quality slice dragon";
+var mnemonic = "hundred expand cancel field upper episode magnet invite work salad deny bar";

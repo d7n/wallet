@@ -1,1 +1,1 @@
-var mnemonic = "side ecology original lazy emotion twice wolf noble wink focus thrive diagram";
+var mnemonic = "census elbow silly soccer post reject obtain debate light cabin happy glide";

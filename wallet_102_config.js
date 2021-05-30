@@ -1,1 +1,1 @@
-var mnemonic = "quality eager trial minor debris blur gauge various puzzle pink banner master";
+var mnemonic = "second frog curtain snap forum merry swing any sea mammal helmet buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "desert disease color metal odor avoid middle hollow person drink fine bring";
+var mnemonic = "also prepare canoe update expect strong slot salt green left antique switch";

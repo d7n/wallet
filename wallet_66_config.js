@@ -1,1 +1,1 @@
-var mnemonic = "come report trash core flag father gaze donkey return business depth south";
+var mnemonic = "vacant cloth tornado regular fuel fitness harvest install pact wolf video like";

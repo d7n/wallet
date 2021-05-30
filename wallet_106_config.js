@@ -1,1 +1,1 @@
-var mnemonic = "piano cradle shove acoustic own online cheese giraffe aim uniform pilot shell";
+var mnemonic = "bacon night decorate fiction ugly era cancel only present delay agree ahead";

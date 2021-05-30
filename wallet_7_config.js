@@ -1,1 +1,1 @@
-var mnemonic = "prize unfair sentence puppy peace game amount write fork cheap horn crawl";
+var mnemonic = "spell lyrics force unfold sweet monster hat round debris merry hurt barrel";

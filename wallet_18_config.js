@@ -1,1 +1,1 @@
-var mnemonic = "begin hawk beyond purchase reveal snake monkey tent mirror index bomb sound";
+var mnemonic = "dragon unfair peace helmet hurry citizen label primary diesel mixed that echo";

@@ -1,1 +1,1 @@
-var mnemonic = "man art joke iron cannon uncover hazard wet right cute solution end";
+var mnemonic = "caught live lawn inform asthma hamster confirm misery believe glow ticket knock";

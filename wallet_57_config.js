@@ -1,1 +1,1 @@
-var mnemonic = "okay flip direct apology exist fog fox pill rich window bind priority";
+var mnemonic = "genius major extra cabbage rain glory duck rebuild abstract ketchup fashion exclude";

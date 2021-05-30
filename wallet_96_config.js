@@ -1,1 +1,1 @@
-var mnemonic = "miss photo wolf way fruit pizza canyon grow brother north clump fitness";
+var mnemonic = "predict nothing silent october saddle comic innocent vote path fresh sun space";

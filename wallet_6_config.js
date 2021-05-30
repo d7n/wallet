@@ -1,1 +1,1 @@
-var mnemonic = "prepare pelican turkey drum coffee museum filter festival ripple vote surge miss";
+var mnemonic = "mass power stage satisfy blast reward present rely blind error hip diagram";

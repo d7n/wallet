@@ -1,1 +1,1 @@
-var mnemonic = "brick vapor stick country pair head adult promote zebra blush eternal bacon";
+var mnemonic = "turkey shift catalog patch army oval entire opera gesture antique sadness swarm";

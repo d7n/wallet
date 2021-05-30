@@ -1,1 +1,1 @@
-var mnemonic = "law gossip sketch tunnel come absent planet aunt spray chair hawk erosion";
+var mnemonic = "episode million enact sing caught unlock youth grain ecology scene empty maximum";

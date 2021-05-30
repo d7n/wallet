@@ -1,1 +1,1 @@
-var mnemonic = "soccer orient vintage soon display weekend about result federal tunnel donkey bomb";
+var mnemonic = "inmate drama ask foster outside arch vast before veteran setup oblige race";
