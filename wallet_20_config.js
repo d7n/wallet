@@ -1,1 +1,1 @@
-var mnemonic = "race ritual increase gown furnace end face riot parade chief minimum company";
+var mnemonic = "okay web one stable write educate assist whip purchase valley wrong asthma";

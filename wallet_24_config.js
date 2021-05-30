@@ -1,1 +1,1 @@
-var mnemonic = "approve discover aisle soda fiscal flight history pottery near surge stand erase";
+var mnemonic = "dune vacant joke flush woman clog direct piano patrol erosion clean spray";

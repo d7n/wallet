@@ -1,1 +1,1 @@
-var mnemonic = "obtain involve grid way swamp have output wink vintage merry doll rhythm";
+var mnemonic = "sunset devote lunch fold canal truly cost hope hawk false glide equal";

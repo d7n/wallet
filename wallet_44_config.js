@@ -1,1 +1,1 @@
-var mnemonic = "cook loop water shoulder tornado off trigger embody library lady limit guilt";
+var mnemonic = "shift market into truly regular come maze slot pet card dance write";

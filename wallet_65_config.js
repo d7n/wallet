@@ -1,1 +1,1 @@
-var mnemonic = "over stick orange youth enable upon agree beyond yard vapor hurry slab";
+var mnemonic = "warrior auction forest slow trash cup miracle enlist pool someone adjust milk";

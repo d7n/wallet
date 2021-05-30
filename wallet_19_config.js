@@ -1,1 +1,1 @@
-var mnemonic = "acoustic round proud enforce menu inquiry charge school excuse tortoise infant brush";
+var mnemonic = "tomorrow all again trip brain bird enlist dentist recipe federal depend nest";

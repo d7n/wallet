@@ -1,1 +1,1 @@
-var mnemonic = "alien punch detail south cause just shoot when that entire ugly twist";
+var mnemonic = "moon economy version school chicken side name remember pigeon useful tape midnight";

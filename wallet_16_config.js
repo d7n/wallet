@@ -1,1 +1,1 @@
-var mnemonic = "gospel cover length silly diesel plunge habit safe toward nuclear achieve hospital";
+var mnemonic = "party ghost scissors fruit shadow joke spatial knock crush subway food gasp";

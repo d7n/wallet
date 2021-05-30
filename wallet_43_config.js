@@ -1,1 +1,1 @@
-var mnemonic = "misery arch east wrong aisle direct artist phrase person apart orphan flower";
+var mnemonic = "elephant theory cup length pride smart announce move fence cup reveal sentence";

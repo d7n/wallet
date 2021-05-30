@@ -1,1 +1,1 @@
-var mnemonic = "pudding stumble truck shine sand raise human gym diet tiny diagram pole";
+var mnemonic = "later follow boat upset sibling girl rack weasel vacuum annual raven civil";

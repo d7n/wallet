@@ -1,1 +1,1 @@
-var mnemonic = "high mutual arm lawn nasty gossip silver surge bar time today pet";
+var mnemonic = "mixed dutch feature above toward portion same mention almost derive either candy";

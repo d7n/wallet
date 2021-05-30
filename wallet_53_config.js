@@ -1,1 +1,1 @@
-var mnemonic = "glimpse obey budget skill myth skirt luggage affair fashion blood parrot just";
+var mnemonic = "brain adapt peasant believe shed want walnut pear turtle balance urban price";

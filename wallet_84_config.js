@@ -1,1 +1,1 @@
-var mnemonic = "force finger trust sick traffic maple grit dutch omit they core rain";
+var mnemonic = "bird weather render chunk give burst common fancy arrange barrel stage question";

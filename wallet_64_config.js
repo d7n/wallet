@@ -1,1 +1,1 @@
-var mnemonic = "resist extend cage spoon tonight alone spread report eye love gain rare";
+var mnemonic = "help enough letter throw among aspect forward filter pistol shy slide tiger";

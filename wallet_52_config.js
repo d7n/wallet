@@ -1,1 +1,1 @@
-var mnemonic = "case often model lumber usage meat spatial mixture indicate motor blur seven";
+var mnemonic = "dune glue pitch ritual license grocery shaft situate tiny room curtain attack";

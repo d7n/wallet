@@ -1,1 +1,1 @@
-var mnemonic = "copper script taste infant bomb genre pill dish civil tribe wave stick";
+var mnemonic = "key slogan music squeeze pyramid bamboo tissue advice elegant prison blind category";

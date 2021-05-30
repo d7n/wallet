@@ -1,1 +1,1 @@
-var mnemonic = "manual orient print tonight present brush label social wear name reflect wash";
+var mnemonic = "horn before over kit visual breeze such just struggle zebra wet among";

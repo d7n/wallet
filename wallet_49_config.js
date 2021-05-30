@@ -1,1 +1,1 @@
-var mnemonic = "pink library crack trip buzz infant machine old beyond pipe humor season";
+var mnemonic = "resemble owner situate key laundry soda rack absorb chuckle pony best camp";

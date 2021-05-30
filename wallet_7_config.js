@@ -1,1 +1,1 @@
-var mnemonic = "often side security shoulder dash width endorse cram recycle nephew deal brand";
+var mnemonic = "ordinary gallery already dress install apart cushion volcano only faculty minute train";

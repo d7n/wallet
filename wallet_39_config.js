@@ -1,1 +1,1 @@
-var mnemonic = "pause cinnamon faculty equip sick check father pond truck client soul patient";
+var mnemonic = "ridge horn always cereal situate ripple useful ahead inner lesson banana lamp";

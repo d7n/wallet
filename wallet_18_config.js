@@ -1,1 +1,1 @@
-var mnemonic = "unable amused reason great walnut spider report scout quote add seat swing";
+var mnemonic = "season romance donkey kangaroo license piano squirrel lecture keep moral glow empower";

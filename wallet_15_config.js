@@ -1,1 +1,1 @@
-var mnemonic = "scan property razor combine rigid chair disagree web treat step physical shoulder";
+var mnemonic = "spy wolf unveil price orphan jungle curtain country speed spatial silly innocent";

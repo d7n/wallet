@@ -1,1 +1,1 @@
-var mnemonic = "equal scissors sword organ across symbol dizzy way dove discover winter fringe";
+var mnemonic = "caution random wolf lesson holiday milk clap casual silly phrase observe broom";

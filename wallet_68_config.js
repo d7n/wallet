@@ -1,1 +1,1 @@
-var mnemonic = "capable surprise film just cube then vacant wise bundle ranch topple family";
+var mnemonic = "retire banner task exchange foster gather bless agent toast vital pride lyrics";

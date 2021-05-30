@@ -1,1 +1,1 @@
-var mnemonic = "alcohol hotel derive local confirm desert early age thumb door sleep fetch";
+var mnemonic = "actual satoshi click brief crack travel sick inject frost grain problem potato";

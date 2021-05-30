@@ -1,1 +1,1 @@
-var mnemonic = "couple plunge undo donkey test rent zero clown coral harsh aspect pull";
+var mnemonic = "fuel age wild invest romance kiwi thing spike improve relief casual movie";

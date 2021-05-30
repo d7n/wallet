@@ -1,1 +1,1 @@
-var mnemonic = "fitness hurt despair noise degree maid float section fury cotton detect road";
+var mnemonic = "west pelican trap cabin frog vapor color giant prefer clever weekend first";

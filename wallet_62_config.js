@@ -1,1 +1,1 @@
-var mnemonic = "ancient humble primary utility upgrade song clerk erosion act noble shed panda";
+var mnemonic = "water cash object reform guide ethics measure sadness vapor alley snow among";

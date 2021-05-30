@@ -1,1 +1,1 @@
-var mnemonic = "horror health shield grain bless infant asset quit sun affair chimney remain";
+var mnemonic = "tail plate hamster join cousin jewel spike cute crash desk outdoor alcohol";

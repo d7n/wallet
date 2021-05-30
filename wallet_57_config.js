@@ -1,1 +1,1 @@
-var mnemonic = "animal alter east tiny aware stay crash extend cheese market divert relief";
+var mnemonic = "weird make present attract client extra armor ring orbit undo knife tooth";

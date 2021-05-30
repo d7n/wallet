@@ -1,1 +1,1 @@
-var mnemonic = "much clarify drift style rug glare say clutch immense useless garden supreme";
+var mnemonic = "regular month harvest frequent organ ignore beyond fiction kitchen injury frozen dizzy";

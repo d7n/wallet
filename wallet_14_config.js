@@ -1,1 +1,1 @@
-var mnemonic = "result area resemble crisp indicate false movie canoe idle three squirrel enemy";
+var mnemonic = "ladder manual brother early trigger twin amount parrot pole height bacon chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "stand erupt domain cloud chapter solar rocket neither inside ghost inside promote";
+var mnemonic = "outer dose together cry exhaust together crane update slight please brush digital";

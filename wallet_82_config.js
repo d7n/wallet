@@ -1,1 +1,1 @@
-var mnemonic = "cheap forest hurt vehicle onion response planet cheap father unfair fringe boil";
+var mnemonic = "wolf door hope agent panther crunch engage kidney lottery dinosaur tomato come";

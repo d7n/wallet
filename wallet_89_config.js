@@ -1,1 +1,1 @@
-var mnemonic = "prosper fox enable engine few clean remember emotion play lucky domain kid";
+var mnemonic = "net garbage evil ostrich knife chronic lawn pill phone donor wolf year";

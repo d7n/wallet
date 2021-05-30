@@ -1,1 +1,1 @@
-var mnemonic = "cart habit raise group rigid vapor card table area decide blame outside";
+var mnemonic = "wisdom rocket trend casino wasp unique indicate december blanket fat example arrive";

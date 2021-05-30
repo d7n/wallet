@@ -1,1 +1,1 @@
-var mnemonic = "goddess deny manage border cushion satisfy hood song scare amazing mystery turkey";
+var mnemonic = "wheat razor provide apology isolate fat latin raw praise vocal buzz august";

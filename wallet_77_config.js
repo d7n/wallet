@@ -1,1 +1,1 @@
-var mnemonic = "appear giraffe artefact amused judge unit just gravity leg kite crew odor";
+var mnemonic = "name mandate wood you excuse false trophy diagram just wood silver october";

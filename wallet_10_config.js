@@ -1,1 +1,1 @@
-var mnemonic = "exclude monkey visit essay cruise picnic tape picture recipe output term resource";
+var mnemonic = "alpha switch swear oppose blanket approve salute noodle right nest insect silent";

@@ -1,1 +1,1 @@
-var mnemonic = "invest jewel denial clean predict bachelor dial prison adult lunar blanket pet";
+var mnemonic = "aerobic wave cat kitchen chest behave gasp digital virtual prison scrub blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "six belt winner boring bounce sibling light trouble frequent north kiss dinosaur";
+var mnemonic = "rent carbon bronze lamp salt stay charge creek pause clip whip music";

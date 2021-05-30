@@ -1,1 +1,1 @@
-var mnemonic = "rapid define nurse ordinary exhaust cigar promote measure lawn circle inmate sibling";
+var mnemonic = "lens dog pelican switch crack direct matter era tape dinosaur beauty among";

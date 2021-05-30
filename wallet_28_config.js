@@ -1,1 +1,1 @@
-var mnemonic = "clog eight snake two civil law flock quality boring silly idea when";
+var mnemonic = "judge ankle garment impact mandate unfair custom base during script jealous diary";

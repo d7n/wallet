@@ -1,1 +1,1 @@
-var mnemonic = "honey digital silver excite gown tuna worth egg pig include month opera";
+var mnemonic = "rebuild west knock attend forum mass half crouch choose fuel input metal";

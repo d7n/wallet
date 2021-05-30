@@ -1,1 +1,1 @@
-var mnemonic = "help liberty carbon theme infant sheriff chalk divert ski wolf tissue pause";
+var mnemonic = "badge radio position buzz glimpse special normal crop era vicious wedding reform";

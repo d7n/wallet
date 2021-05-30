@@ -1,1 +1,1 @@
-var mnemonic = "maple pretty camp phrase toddler open notice lock multiply tilt spirit boss";
+var mnemonic = "fat clinic owner spatial machine sword blast oven pen rubber oval quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "layer hunt time artist genius fine lounge wasp estate dynamic garage police";
+var mnemonic = "know radio pizza virtual debate use prevent involve fall bridge raw copper";

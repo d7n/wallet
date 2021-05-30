@@ -1,1 +1,1 @@
-var mnemonic = "ski unable hair canoe split absorb ignore hen anxiety waste general start";
+var mnemonic = "tackle impulse cruel muffin mass armed lemon special supply gun oak gasp";

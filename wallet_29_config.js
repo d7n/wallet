@@ -1,1 +1,1 @@
-var mnemonic = "gauge general quick awake script lake spirit renew push stool fabric kidney";
+var mnemonic = "robust image trophy maple dish want kangaroo adjust approve desert wire man";

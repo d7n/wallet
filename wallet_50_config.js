@@ -1,1 +1,1 @@
-var mnemonic = "resist figure push hub survey daughter gym glimpse panther lab method since";
+var mnemonic = "liar addict frequent banana stand knife yellow caught safe chef toss boost";

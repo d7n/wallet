@@ -1,1 +1,1 @@
-var mnemonic = "tray benefit album menu match loyal bleak comic owner aim wear kiss";
+var mnemonic = "bar enemy blame wrong oppose fatal start desert multiply among chief pear";

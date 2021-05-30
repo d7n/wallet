@@ -1,1 +1,1 @@
-var mnemonic = "donate benefit twin cushion script decade inhale place thank effort slender jaguar";
+var mnemonic = "truth dad bring flush chair unfold knife wait deliver nice angle unknown";

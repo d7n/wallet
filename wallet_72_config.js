@@ -1,1 +1,1 @@
-var mnemonic = "inmate boil biology scheme remember vague echo still idea napkin exotic lumber";
+var mnemonic = "innocent trim federal warrior clay craft hollow prefer member car novel grit";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine reason cloud cart special admit couple pole claim clip embark great";
+var mnemonic = "feed basic action stairs awesome width cousin uncle search manage toddler dutch";

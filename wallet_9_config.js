@@ -1,1 +1,1 @@
-var mnemonic = "tree shiver honey excite buyer panda clarify zone because hill enjoy again";
+var mnemonic = "tiger paddle window unable surround expand noble solution ranch model hero frequent";

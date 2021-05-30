@@ -1,1 +1,1 @@
-var mnemonic = "recall ignore clerk motor catalog target there knife tiger sure fuel spice";
+var mnemonic = "imitate gorilla cook teach cereal pretty inmate pause double thumb brief ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "audit fun welcome cross define inmate maximum what rare brass faint absurd";
+var mnemonic = "tennis pear vacant belt patient snake banner flower spider genre rubber render";

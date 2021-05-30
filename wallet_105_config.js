@@ -1,1 +1,1 @@
-var mnemonic = "capable file cage shop dynamic resource all match holiday cousin logic timber";
+var mnemonic = "salt dress dilemma unfold ladder behave leg true reopen demand enjoy news";

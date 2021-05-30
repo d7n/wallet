@@ -1,1 +1,1 @@
-var mnemonic = "success walnut rabbit ask short discover shoulder hub blur asthma resist pill";
+var mnemonic = "cricket fortune blade congress scorpion stumble iron naive home stage artist group";

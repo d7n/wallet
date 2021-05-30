@@ -1,1 +1,1 @@
-var mnemonic = "install hat winter rice nothing neither dolphin promote metal square time clap";
+var mnemonic = "denial art estate ghost ill when strong print east once treat able";

@@ -1,1 +1,1 @@
-var mnemonic = "below auction cereal february rally resource edit delay misery unknown fat gadget";
+var mnemonic = "cloth layer nation monster nothing industry trophy hill mention behind uniform maid";

@@ -1,1 +1,1 @@
-var mnemonic = "earn area hurry notable soup dry loop grow crazy ostrich dynamic rhythm";
+var mnemonic = "hope buzz pitch noise surprise increase cute truly fortune hundred robust school";

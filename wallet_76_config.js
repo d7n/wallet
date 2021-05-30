@@ -1,1 +1,1 @@
-var mnemonic = "this monster coyote pulse spy biology before juice skin powder girl oyster";
+var mnemonic = "list bread primary utility badge brown table key hybrid awkward tube essay";

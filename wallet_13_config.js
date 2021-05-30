@@ -1,1 +1,1 @@
-var mnemonic = "suggest captain ill laptop matter noise bench staff kangaroo draft box cigar";
+var mnemonic = "taste leaf inherit giraffe travel hedgehog regret nose section skill predict table";

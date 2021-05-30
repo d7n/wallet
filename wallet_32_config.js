@@ -1,1 +1,1 @@
-var mnemonic = "very ramp issue sock umbrella squirrel lens use reflect erase inside pull";
+var mnemonic = "dawn piano seven black better rose foam vote plug option remember water";

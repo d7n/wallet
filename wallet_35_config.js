@@ -1,1 +1,1 @@
-var mnemonic = "filter breeze size hotel turkey icon include acid black shaft old grass";
+var mnemonic = "suffer shoulder ghost planet trim current soup eyebrow butter festival clap cliff";

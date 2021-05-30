@@ -1,1 +1,1 @@
-var mnemonic = "follow scare yard shine tenant future section achieve put suggest garbage father";
+var mnemonic = "occur brother sadness lift tone add begin group soccer stay inherit omit";

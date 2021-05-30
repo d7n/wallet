@@ -1,1 +1,1 @@
-var mnemonic = "number artist crater expand surround almost violin tourist increase erupt organ spell";
+var mnemonic = "lizard tooth health shop coin loop impose jump tone achieve thunder pyramid";

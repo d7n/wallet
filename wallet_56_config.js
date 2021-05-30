@@ -1,1 +1,1 @@
-var mnemonic = "acoustic zero actress solution exotic monkey chat biology gym glass fault connect";
+var mnemonic = "soccer popular drink zoo buffalo rocket trust bronze owner sentence crazy riot";

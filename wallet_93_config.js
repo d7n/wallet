@@ -1,1 +1,1 @@
-var mnemonic = "phrase omit entry thing broken sunny useless hurt live excuse fine fee";
+var mnemonic = "possible banana final knife coil need divide tail leisure erupt snap acquire";

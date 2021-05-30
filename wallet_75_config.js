@@ -1,1 +1,1 @@
-var mnemonic = "visual choose example fame stereo amazing evidence immune already shrimp dose curious";
+var mnemonic = "fly scorpion remain scissors found all inner truly make damage relax anchor";

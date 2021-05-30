@@ -1,1 +1,1 @@
-var mnemonic = "stove burden scrub egg repair clip boring reject sight ask donate security";
+var mnemonic = "lecture bike alley wrong music okay bench rely carry table order buffalo";

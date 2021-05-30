@@ -1,1 +1,1 @@
-var mnemonic = "era deny parent drive drop mother dismiss fat rice thank bundle car";
+var mnemonic = "spy machine century hungry latin win enroll mountain day cash verify party";

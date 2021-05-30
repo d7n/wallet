@@ -1,1 +1,1 @@
-var mnemonic = "remind glimpse mutual family athlete pause glide such bird put stadium online";
+var mnemonic = "kitten they bike limb interest couch drill educate keen wing blood pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "father process much husband once slot stamp elder lock air hurt midnight";
+var mnemonic = "guard elite wear senior antique honey whisper beyond electric exchange response pyramid";

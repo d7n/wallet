@@ -1,1 +1,1 @@
-var mnemonic = "protect since stool veteran table fragile broken magnet clump fade venue tiny";
+var mnemonic = "offer gaze forward abstract forum shadow fish fuel soon hope echo truck";

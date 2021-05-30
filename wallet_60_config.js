@@ -1,1 +1,1 @@
-var mnemonic = "nest able warrior penalty shell early subject error video situate sight visa";
+var mnemonic = "antenna erupt fuel nothing excite push tape quick hat dumb space lazy";

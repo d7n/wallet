@@ -1,1 +1,1 @@
-var mnemonic = "foam wisdom category wrong bachelor later blue mass remember fox amount youth";
+var mnemonic = "manual drama dog tribe vault clip exotic clinic quit crunch denial blood";

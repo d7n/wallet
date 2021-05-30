@@ -1,1 +1,1 @@
-var mnemonic = "hospital toddler idle exhaust ketchup almost awake drill library wing audit budget";
+var mnemonic = "relief inject model coral ginger win exchange fluid mountain apple target between";

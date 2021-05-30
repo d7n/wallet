@@ -1,1 +1,1 @@
-var mnemonic = "remember upset dignity grit tortoise pony smooth door screen economy regret language";
+var mnemonic = "half symptom advance walk apple patrol able upset defense return decrease point";

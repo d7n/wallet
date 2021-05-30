@@ -1,1 +1,1 @@
-var mnemonic = "lunch boss degree law cigar chimney island intact myth unlock warfare retire";
+var mnemonic = "resource path clump riot credit practice burden please autumn stable wet erode";

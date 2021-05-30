@@ -1,1 +1,1 @@
-var mnemonic = "drill feel peace bounce raise mix believe approve viable tree protect swarm";
+var mnemonic = "either until angry index snake panel nephew universe record aspect merry mail";

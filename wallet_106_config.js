@@ -1,1 +1,1 @@
-var mnemonic = "chest comic desert vacant sort eternal actress rib seven decrease slot eagle";
+var mnemonic = "beef loyal inject morning exclude life stadium meadow hybrid manage pelican jungle";

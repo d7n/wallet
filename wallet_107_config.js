@@ -1,1 +1,1 @@
-var mnemonic = "rubber mountain exchange kidney buddy taste force horror upset hobby sound trap";
+var mnemonic = "ginger kangaroo tree scissors hamster window ridge appear idle remember cloth barely";

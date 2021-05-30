@@ -1,1 +1,1 @@
-var mnemonic = "cargo library dinner auto sheriff paddle casual tone blue sister chef denial";
+var mnemonic = "call they sail silent decide window oxygen plate pioneer traffic obtain caution";

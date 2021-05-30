@@ -1,1 +1,1 @@
-var mnemonic = "leg auction dismiss viable useless circle attitude picnic ankle peace motion isolate";
+var mnemonic = "tube basic absent prosper nose cannon verb novel screen gas promote donor";

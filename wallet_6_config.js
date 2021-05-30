@@ -1,1 +1,1 @@
-var mnemonic = "ketchup flip piano orphan predict holiday name place common army mix census";
+var mnemonic = "pride garlic canal trip nut drastic tenant vicious attract middle volcano client";

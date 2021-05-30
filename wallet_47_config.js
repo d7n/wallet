@@ -1,1 +1,1 @@
-var mnemonic = "wasp earn apart offer print acquire pattern abstract monster source people copy";
+var mnemonic = "before evidence gasp jump mean glance shaft labor asthma stage earth ill";
