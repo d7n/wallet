@@ -1,1 +1,1 @@
-var mnemonic = "spend simple ceiling draft thrive elder evil wild resemble wagon response example";
+var mnemonic = "error urge drum shoulder light emotion smooth virtual solid veteran target thank";

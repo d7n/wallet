@@ -1,1 +1,1 @@
-var mnemonic = "guess eternal riot force animal sausage menu crisp river true wash lyrics";
+var mnemonic = "dwarf secret doctor cherry balance stem hour tube flower observe bachelor lounge";

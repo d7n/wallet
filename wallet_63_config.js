@@ -1,1 +1,1 @@
-var mnemonic = "want unknown lawsuit grocery student glow assault object oven fold sign dawn";
+var mnemonic = "theory lottery snow merit feed hammer gallery calm drift armed render moon";

@@ -1,1 +1,1 @@
-var mnemonic = "offer ancient three very toe surround grant enact vapor flower silk pear";
+var mnemonic = "gravity father word boat around atom attract entire demise slice outside stove";

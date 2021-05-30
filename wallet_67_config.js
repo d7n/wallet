@@ -1,1 +1,1 @@
-var mnemonic = "ritual earth history thrive photo save moment protect purpose trophy oval capital";
+var mnemonic = "hen wrong empower river deny earn crop learn twist talent shiver magic";

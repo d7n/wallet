@@ -1,1 +1,1 @@
-var mnemonic = "gather frequent flame spice youth bus general twelve tip mutual good garment";
+var mnemonic = "goddess verb wheat dynamic typical salt shrimp finish one dentist call journey";

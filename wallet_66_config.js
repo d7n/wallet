@@ -1,1 +1,1 @@
-var mnemonic = "lady liquid cry odor wash reunion razor actor village daring fiscal because";
+var mnemonic = "carpet shine fiction arch industry various trade option wagon echo order response";

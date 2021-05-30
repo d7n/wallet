@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow message guard laundry hour train unusual fragile fringe amount liquid vendor";
+var mnemonic = "tip quit odor large know match dog curtain frozen field grit wait";

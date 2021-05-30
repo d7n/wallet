@@ -1,1 +1,1 @@
-var mnemonic = "guide brown peasant day congress quit drum faint wheel entry you exist";
+var mnemonic = "suggest silent square east worry gain world coyote advice coffee weird purity";

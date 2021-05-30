@@ -1,1 +1,1 @@
-var mnemonic = "truth horse rocket practice cover bless hat slim busy empower step conduct";
+var mnemonic = "man settle century switch whisper nephew battle funny enact manual raise swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "intact salt describe extend crystal betray history response unknown fold business vanish";
+var mnemonic = "bargain verb stadium novel enter riot soap aim country number discover forward";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade sadness circle input citizen breeze novel garlic alpha motion divorce gloom";
+var mnemonic = "online able gap play desert square brand trumpet viable truth butter wish";

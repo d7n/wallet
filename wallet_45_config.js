@@ -1,1 +1,1 @@
-var mnemonic = "ski rhythm glide silent net transfer island village fame huge elephant cover";
+var mnemonic = "obscure warrior hunt pupil weasel gorilla knock sad cheap industry surround fringe";

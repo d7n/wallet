@@ -1,1 +1,1 @@
-var mnemonic = "acquire arrest charge sound churn mystery critic apple split alien exercise senior";
+var mnemonic = "tent ensure wrong salt immune swap divorce close virus life congress arena";

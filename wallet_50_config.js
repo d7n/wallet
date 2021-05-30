@@ -1,1 +1,1 @@
-var mnemonic = "basket grief sun steak trouble brief category pig crime thought innocent knock";
+var mnemonic = "forget allow live length address couple eagle joke witness demand drift finger";

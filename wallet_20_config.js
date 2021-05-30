@@ -1,1 +1,1 @@
-var mnemonic = "siren coyote fall sunny victory circle above reduce lobster sure journey float";
+var mnemonic = "design feel fiber magnet cover smart destroy inherit bamboo spike anxiety host";

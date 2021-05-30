@@ -1,1 +1,1 @@
-var mnemonic = "enforce inject multiply task either matter patient taxi target reform market index";
+var mnemonic = "garment figure screen south uniform bean shaft measure edge balcony insane salute";

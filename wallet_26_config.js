@@ -1,1 +1,1 @@
-var mnemonic = "motor loan oppose gap brand abandon oxygen model address degree runway funny";
+var mnemonic = "legal drastic dizzy direct jaguar practice dentist face hello friend truth adjust";

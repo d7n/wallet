@@ -1,1 +1,1 @@
-var mnemonic = "miracle million six cloud hawk holiday catalog upon vapor grace biology news";
+var mnemonic = "finger artefact fitness glory census reunion scorpion welcome boss boring club egg";

@@ -1,1 +1,1 @@
-var mnemonic = "similar cattle black crack crowd used arch detail charge enhance fly episode";
+var mnemonic = "crater lamp small dynamic sweet fitness talent beach life essay weapon version";

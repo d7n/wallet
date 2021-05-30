@@ -1,1 +1,1 @@
-var mnemonic = "maze armed weather lemon moon advance receive smoke pond load want group";
+var mnemonic = "tree silver elevator account crumble issue item tenant provide casino indicate culture";

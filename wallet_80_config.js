@@ -1,1 +1,1 @@
-var mnemonic = "session provide simple rack method weird letter camera bachelor can garment fancy";
+var mnemonic = "cover dolphin dune drink cook liberty napkin tilt moral sentence practice garbage";

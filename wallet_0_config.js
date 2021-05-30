@@ -1,1 +1,1 @@
-var mnemonic = "maximum will slam nominee found crouch deposit assist favorite phrase orphan rival";
+var mnemonic = "chalk promote ginger label repeat lizard crystal imitate dumb garden elephant degree";

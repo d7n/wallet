@@ -1,1 +1,1 @@
-var mnemonic = "burst false gold keen finger horn toddler bread height knock like social";
+var mnemonic = "voice mix idle relax country target rely wing noble inquiry sunny lizard";

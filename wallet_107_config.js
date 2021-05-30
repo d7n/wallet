@@ -1,1 +1,1 @@
-var mnemonic = "tree follow news already vacuum similar analyst funny crack cool earn aspect";
+var mnemonic = "find boss debris shiver portion build together perfect demise deliver soldier leopard";

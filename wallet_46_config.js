@@ -1,1 +1,1 @@
-var mnemonic = "matrix casual plastic reunion swing holiday humor stick bundle tiny table pulse";
+var mnemonic = "style snap polar diet soul tilt pumpkin coach party abandon hip develop";

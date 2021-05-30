@@ -1,1 +1,1 @@
-var mnemonic = "save pull tiger clip tuition neglect suspect open cake warm violin cram";
+var mnemonic = "push lesson believe room practice olympic winner daring bundle ethics object dinosaur";

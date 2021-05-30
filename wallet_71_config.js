@@ -1,1 +1,1 @@
-var mnemonic = "column visit please abstract bitter slogan flash path menu wolf north race";
+var mnemonic = "marine lonely spare below idea kitchen design armor broccoli bus school foil";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet chest refuse normal card mechanic scissors impose fly drink kiwi alpha";
+var mnemonic = "kid decide orchard cause easily tackle typical later today device tonight luggage";

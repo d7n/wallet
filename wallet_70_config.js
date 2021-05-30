@@ -1,1 +1,1 @@
-var mnemonic = "frog wife space roof kind minimum exercise honey club online brand canvas";
+var mnemonic = "shiver field method unfair canoe estate elephant another engage kangaroo vivid bag";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase object project panel group describe rich public raccoon sketch wreck cradle";
+var mnemonic = "wrong beach dentist skate carbon priority spring rack deliver hidden stand open";

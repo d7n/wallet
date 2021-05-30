@@ -1,1 +1,1 @@
-var mnemonic = "attitude solution borrow swap episode wife search roast annual review kiwi blind";
+var mnemonic = "cycle pyramid matter panic scorpion demise curve garment tilt tree federal spring";

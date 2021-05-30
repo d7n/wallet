@@ -1,1 +1,1 @@
-var mnemonic = "girl wire clerk urban reward throw shine radio umbrella menu road leg";
+var mnemonic = "forest flush debris twenty lamp climb rough stairs check jar rescue hold";

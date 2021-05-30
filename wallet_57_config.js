@@ -1,1 +1,1 @@
-var mnemonic = "hobby brain expire palm unveil hunt high dinosaur clinic turkey shadow phrase";
+var mnemonic = "summer decide oblige same ride analyst fine radar oven talk panel appear";

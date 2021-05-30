@@ -1,1 +1,1 @@
-var mnemonic = "video over undo resemble soda flock nut ostrich weekend furnace clip cloud";
+var mnemonic = "street skirt shuffle host choice wise virtual betray reason ancient predict find";

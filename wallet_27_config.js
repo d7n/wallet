@@ -1,1 +1,1 @@
-var mnemonic = "month destroy measure adapt juice biology deposit gather utility crash toilet oppose";
+var mnemonic = "between moment grocery door embark rabbit small battle history search memory suggest";

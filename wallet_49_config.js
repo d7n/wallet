@@ -1,1 +1,1 @@
-var mnemonic = "library protect record used cushion song guard exhibit tourist dress element empty";
+var mnemonic = "sauce saddle race gentle double rude since honey endless genre grape describe";

@@ -1,1 +1,1 @@
-var mnemonic = "swear alarm birth garden liberty clay cabbage present kite cause rocket minor";
+var mnemonic = "merry giraffe food scrap parrot accuse trophy lesson gallery crawl payment identify";

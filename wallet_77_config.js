@@ -1,1 +1,1 @@
-var mnemonic = "foot curtain income razor two math pond disease measure wrist pilot skirt";
+var mnemonic = "tide orange chair taste trigger asset buyer cheese burst camp mixture want";

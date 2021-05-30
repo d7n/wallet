@@ -1,1 +1,1 @@
-var mnemonic = "ready dolphin cheese material knife argue record anxiety actress marble smart salt";
+var mnemonic = "turn brief width various dad tool asset pond water provide dynamic coast";

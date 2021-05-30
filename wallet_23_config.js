@@ -1,1 +1,1 @@
-var mnemonic = "slam expose switch welcome panther still please remember want cost bachelor wrestle";
+var mnemonic = "unfair dish bundle program method tiger such ski calm kidney square extra";

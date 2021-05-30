@@ -1,1 +1,1 @@
-var mnemonic = "act exile faith tattoo avoid rebuild license daughter accuse umbrella huge prosper";
+var mnemonic = "weekend absorb ceiling two female found tattoo develop dice nominee team earth";

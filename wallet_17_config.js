@@ -1,1 +1,1 @@
-var mnemonic = "always belt fan recall letter cave donkey reform lucky comfort upset picnic";
+var mnemonic = "silly west blanket depart distance clutch task rail apple medal degree shell";

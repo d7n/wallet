@@ -1,1 +1,1 @@
-var mnemonic = "vast steak solve churn just noise carbon margin correct feed fat version";
+var mnemonic = "peanut answer expand smoke soldier lazy merry today still ankle pool afraid";

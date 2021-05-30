@@ -1,1 +1,1 @@
-var mnemonic = "dad return caught note record cycle position lunch culture grass dragon sock";
+var mnemonic = "deer machine found absorb amount mouse keen better first weird betray syrup";

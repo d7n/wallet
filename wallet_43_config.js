@@ -1,1 +1,1 @@
-var mnemonic = "drink essay solid way member actress ghost finger wood session gravity solve";
+var mnemonic = "wash question hen safe intact unaware floor dish example transfer flip make";

@@ -1,1 +1,1 @@
-var mnemonic = "burst involve raven much coffee prison exact target core advance moon safe";
+var mnemonic = "cancel around stuff skate toddler front can eagle eight bridge below soldier";

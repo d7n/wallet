@@ -1,1 +1,1 @@
-var mnemonic = "fresh deposit force kite arrow talk surround act exhibit ready damage rail";
+var mnemonic = "tent detect hunt travel rifle power toss pear until forget unhappy clean";

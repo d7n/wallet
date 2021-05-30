@@ -1,1 +1,1 @@
-var mnemonic = "until exact weekend identify adjust awkward fold myself liberty shaft fury cruel";
+var mnemonic = "monitor ignore alcohol pyramid better settle ill unfold inform comic bitter side";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage story name orange keen quick noble coral fiber uncover extra electric";
+var mnemonic = "curtain describe phone across hawk delay tomato enjoy youth hurry wreck prevent";

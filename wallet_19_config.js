@@ -1,1 +1,1 @@
-var mnemonic = "image chronic fold explain enough dune fit kind offer copper engage pole";
+var mnemonic = "wine upper garment canyon cheap dignity slam uniform income mansion artist enforce";

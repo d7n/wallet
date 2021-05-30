@@ -1,1 +1,1 @@
-var mnemonic = "polar mango bid sun promote ethics retire floor sick poet flock toss";
+var mnemonic = "palace math idle common rival shrug clap reward flush unfold advance inspire";

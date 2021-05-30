@@ -1,1 +1,1 @@
-var mnemonic = "ankle sketch zone wisdom appear veteran kit scatter mammal bounce wire fox";
+var mnemonic = "ride hood rack enemy flight zero raise zoo giraffe wheel final snap";

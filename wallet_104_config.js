@@ -1,1 +1,1 @@
-var mnemonic = "spot club damp rent gesture route habit fame enlist airport egg ankle";
+var mnemonic = "tonight topic network debris vocal theme label average student enhance young cover";

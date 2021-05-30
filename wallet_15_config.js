@@ -1,1 +1,1 @@
-var mnemonic = "change chaos illegal few tray truth beach wide round they symbol upper";
+var mnemonic = "angry estate race mango blade spare prosper fox seat index soda club";

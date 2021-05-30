@@ -1,1 +1,1 @@
-var mnemonic = "firm clog spare organ artefact rigid comfort remain process record grape love";
+var mnemonic = "dragon huge cancel physical auto asset brick snake twin fantasy axis balcony";

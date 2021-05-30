@@ -1,1 +1,1 @@
-var mnemonic = "weasel debate electric document hunt company coil spy essence month cover seek";
+var mnemonic = "raise season hundred two survey easily shuffle cause cause despair rally select";

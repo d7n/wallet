@@ -1,1 +1,1 @@
-var mnemonic = "blast mountain property tribe equip curious dice fog usual speak bus donate";
+var mnemonic = "orphan step ostrich twice uniform license remove member sell laptop nose noodle";

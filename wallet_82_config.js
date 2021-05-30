@@ -1,1 +1,1 @@
-var mnemonic = "random ill draft bleak diet subway coyote rice claw color glad piano";
+var mnemonic = "betray gain wonder paddle private february drill people joke fish gap job";

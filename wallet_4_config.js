@@ -1,1 +1,1 @@
-var mnemonic = "infant clog shrimp half knee they finish engage monitor december volume border";
+var mnemonic = "mammal benefit tuition kangaroo bottom humor tissue pond arctic cake excite fiction";

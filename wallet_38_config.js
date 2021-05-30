@@ -1,1 +1,1 @@
-var mnemonic = "follow shield term office clerk void glass document flame mask lady bargain";
+var mnemonic = "special kangaroo school night fun moon harbor afraid raven salad bundle blush";

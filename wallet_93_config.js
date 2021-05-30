@@ -1,1 +1,1 @@
-var mnemonic = "nerve master immune learn lens now loop tornado swarm heavy reunion electric";
+var mnemonic = "crowd original want cry robust broom bar that endless system sad notice";

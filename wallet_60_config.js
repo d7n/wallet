@@ -1,1 +1,1 @@
-var mnemonic = "endless blame output atom door bright area pill lumber obtain infant reopen";
+var mnemonic = "game doll phone scene economy robot aim dial local detail mango fabric";

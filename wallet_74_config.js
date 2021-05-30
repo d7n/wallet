@@ -1,1 +1,1 @@
-var mnemonic = "collect someone engine vocal robust deal life wheel dolphin method unlock drink";
+var mnemonic = "stone nation nephew shy apart couple hockey vital demand menu one swamp";

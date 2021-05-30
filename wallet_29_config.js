@@ -1,1 +1,1 @@
-var mnemonic = "gather uniform clump few adapt bright front universe uncle mixed length pool";
+var mnemonic = "oval tourist finish fault ordinary debate miracle picnic various worry labor dirt";

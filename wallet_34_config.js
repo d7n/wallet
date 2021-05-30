@@ -1,1 +1,1 @@
-var mnemonic = "evidence rule leader enlist earn where such sail august eternal round atom";
+var mnemonic = "surface unique famous genius moon silk tongue decline dinosaur need harbor auction";

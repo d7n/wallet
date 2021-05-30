@@ -1,1 +1,1 @@
-var mnemonic = "middle piece caught shadow ginger unhappy link table void spy loud hen";
+var mnemonic = "please employ order neglect flip captain blade egg lunar pride gadget wood";

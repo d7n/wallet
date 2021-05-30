@@ -1,1 +1,1 @@
-var mnemonic = "museum chronic ketchup man put true gun shiver gap clerk elite ticket";
+var mnemonic = "brave drink spawn mushroom clown dignity daring cry timber member coach business";

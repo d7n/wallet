@@ -1,1 +1,1 @@
-var mnemonic = "end trust debris focus resemble bicycle motion shock ridge tiger math degree";
+var mnemonic = "amount wish hard legend inflict share chapter final rather credit lecture glass";

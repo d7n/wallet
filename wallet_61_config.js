@@ -1,1 +1,1 @@
-var mnemonic = "hurt stairs dice busy now loud duty quick orbit during beach primary";
+var mnemonic = "ghost roast cloth picnic lock butter topic stereo fault alone volcano tool";

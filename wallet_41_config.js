@@ -1,1 +1,1 @@
-var mnemonic = "sun mesh dragon whale already excite cycle ride evoke extend salute spray";
+var mnemonic = "camera sunny connect toy rubber river prefer dismiss leaf avoid rude promote";

@@ -1,1 +1,1 @@
-var mnemonic = "response point leaf vintage adjust glory fortune orphan glance season equip peace";
+var mnemonic = "bird grab drastic album gossip latin punch never virtual lawn neglect antique";

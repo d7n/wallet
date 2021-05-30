@@ -1,1 +1,1 @@
-var mnemonic = "great rhythm pulse sand defense toy level cigar robust flag enjoy mind";
+var mnemonic = "walk gold math consider over blood client season spray fresh baby wrong";

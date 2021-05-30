@@ -1,1 +1,1 @@
-var mnemonic = "disease farm retire maze rhythm donkey sustain home cluster wool grunt spatial";
+var mnemonic = "play silk neutral cabbage prison useful typical void box laptop divert advice";

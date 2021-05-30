@@ -1,1 +1,1 @@
-var mnemonic = "scare demise stool derive place write element galaxy labor trend husband inform";
+var mnemonic = "gate enable image beef square barrel ivory aisle pioneer tell expose day";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon annual connect sister vapor garment miracle beyond mountain merry one tree";
+var mnemonic = "frog confirm develop ozone letter ugly pluck basket ball always blind honey";

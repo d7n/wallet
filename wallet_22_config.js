@@ -1,1 +1,1 @@
-var mnemonic = "balance angle unit skull idle title alley world try near dune equal";
+var mnemonic = "oval soft cricket chronic bless duty program pass child silent arctic culture";

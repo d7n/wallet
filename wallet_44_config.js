@@ -1,1 +1,1 @@
-var mnemonic = "face recall genuine sort sphere skate miracle much country boost wagon globe";
+var mnemonic = "sudden prosper frog trim move course fuel silver seek erode dial sail";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion review swamp eye wagon solar holiday tag soccer project leisure affair";
+var mnemonic = "stumble room recall since accident connect emotion erase siege ozone mango path";

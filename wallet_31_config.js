@@ -1,1 +1,1 @@
-var mnemonic = "spring woman fox permit tissue you corn alcohol room easily shadow enrich";
+var mnemonic = "bracket since zero rapid tape decrease gold hard ability nut cinnamon expand";

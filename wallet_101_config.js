@@ -1,1 +1,1 @@
-var mnemonic = "state vivid track bar fragile vintage rack solar social word giraffe add";
+var mnemonic = "income define rule arena replace once insane bomb amazing spoon gravity say";

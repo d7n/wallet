@@ -1,1 +1,1 @@
-var mnemonic = "genre coach rough unveil economy join tribe fat doctor target rent install";
+var mnemonic = "random spoil praise gold sheriff load reflect sponsor mercy digital practice fatigue";

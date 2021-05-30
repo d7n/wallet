@@ -1,1 +1,1 @@
-var mnemonic = "differ flock flush place travel february fashion wine crop place silk pudding";
+var mnemonic = "gossip pilot salute fold detail pretty climb copper glad raw trial ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle dream quality liquid oval hunt vacant reflect trim film wisdom royal";
+var mnemonic = "wife tourist enroll tenant pink link fitness scrub jewel magic alley add";

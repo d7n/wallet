@@ -1,1 +1,1 @@
-var mnemonic = "note help guard absent list window hospital paper culture concert topple marine";
+var mnemonic = "jelly disease pair radar salute amount buzz fame garlic captain north dream";

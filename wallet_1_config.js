@@ -1,1 +1,1 @@
-var mnemonic = "baby luxury good divide pull lizard diesel walnut health bunker muffin skull";
+var mnemonic = "film casual claim dawn neck kingdom confirm obvious buzz enough clown skull";

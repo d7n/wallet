@@ -1,1 +1,1 @@
-var mnemonic = "camera topple cloth ability chaos profit wreck decorate just arena share fault";
+var mnemonic = "doctor zero rocket kiwi release pistol minimum lake steak boil agent insane";

@@ -1,1 +1,1 @@
-var mnemonic = "eye fee rib buffalo lumber essay kangaroo napkin chapter palace involve paddle";
+var mnemonic = "cheap demise neglect sample half broccoli hobby fringe simple crime outdoor position";

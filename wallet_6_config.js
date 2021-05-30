@@ -1,1 +1,1 @@
-var mnemonic = "spray kiwi current baby seven daughter quick cup scene ship ugly soccer";
+var mnemonic = "humble visit tiny possible tennis truth emotion farm grain super custom expect";

@@ -1,1 +1,1 @@
-var mnemonic = "winner choose surface galaxy dial elegant glass alter print require ring someone";
+var mnemonic = "sorry delay amount glory sketch vessel such include total stool wire thrive";

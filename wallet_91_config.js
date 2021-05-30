@@ -1,1 +1,1 @@
-var mnemonic = "banner invest forward erode sister private travel monkey other faith steak coyote";
+var mnemonic = "april elite want north smile poem cook differ text chest forest prevent";

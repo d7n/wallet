@@ -1,1 +1,1 @@
-var mnemonic = "deny juice wonder music catch jazz craft then divert saddle discover canvas";
+var mnemonic = "admit march mad ozone enjoy panic outdoor comic mansion eternal any correct";

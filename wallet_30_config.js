@@ -1,1 +1,1 @@
-var mnemonic = "debate gorilla aim acid peace observe vast final silly manual fiscal asthma";
+var mnemonic = "arrow million garbage helmet search wolf festival venue wrap bench chapter cinnamon";
