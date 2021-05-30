@@ -1,1 +1,1 @@
-var mnemonic = "spring pelican tool insect twin solid below three chapter ribbon away tape";
+var mnemonic = "empower lounge item love jewel symptom layer mansion ice pet dignity decorate";

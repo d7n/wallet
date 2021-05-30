@@ -1,1 +1,1 @@
-var mnemonic = "blame symptom lawsuit blossom average want potato pluck crazy sick penalty cigar";
+var mnemonic = "invest inquiry loyal knee galaxy stadium among aunt local assault gentle promote";

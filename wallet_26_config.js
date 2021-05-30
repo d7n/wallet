@@ -1,1 +1,1 @@
-var mnemonic = "picnic mixture alone ramp model elevator knee argue april erase exact disorder";
+var mnemonic = "genre black worth youth shop sketch park roast october cover fuel spatial";

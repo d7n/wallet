@@ -1,1 +1,1 @@
-var mnemonic = "school bacon wasp suffer ship blur pride lion ritual between cliff desert";
+var mnemonic = "angry pledge scare artist attitude night fancy task parade web multiply bulb";

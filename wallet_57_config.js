@@ -1,1 +1,1 @@
-var mnemonic = "brain initial define hedgehog inner taxi tomato avocado trigger share polar pig";
+var mnemonic = "yard umbrella cherry fine giraffe regret siren knee that argue magnet plate";

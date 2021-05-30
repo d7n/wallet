@@ -1,1 +1,1 @@
-var mnemonic = "indoor stadium enrich kiss supreme rigid crowd mimic mimic say blade captain";
+var mnemonic = "slot ghost stage sister ticket mesh under reopen produce copy jealous square";

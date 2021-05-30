@@ -1,1 +1,1 @@
-var mnemonic = "feed task will steel author myth talk junior upper bench gather produce";
+var mnemonic = "major topple coral grunt vocal essence cigar involve regular arrow expect smart";

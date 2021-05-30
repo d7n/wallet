@@ -1,1 +1,1 @@
-var mnemonic = "marriage response snack pink east twelve arctic off easily jelly front critic";
+var mnemonic = "detect input engine ethics calm cotton rotate split seminar scale desert coil";

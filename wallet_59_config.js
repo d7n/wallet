@@ -1,1 +1,1 @@
-var mnemonic = "lunch truck say public secret dad awful pistol steak provide subject combine";
+var mnemonic = "rebel elite gather feed steel trophy below exchange crisp divert juice hero";

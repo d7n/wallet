@@ -1,1 +1,1 @@
-var mnemonic = "swift garage wire meat spread shrug potato little raw opera toward glove";
+var mnemonic = "drum suggest dinner orphan leaf cloth hat add dilemma eager camp scene";

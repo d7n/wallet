@@ -1,1 +1,1 @@
-var mnemonic = "raccoon chief reject swift faith fly tower spirit carbon spawn blame verify";
+var mnemonic = "light doll tackle today soap sustain unfold devote inspire cancel educate despair";

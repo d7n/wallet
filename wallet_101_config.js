@@ -1,1 +1,1 @@
-var mnemonic = "manual tribe route horse cake member cream veteran monitor slight stay robust";
+var mnemonic = "silent pottery front video portion brisk law glue toss upgrade minute disease";

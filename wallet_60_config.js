@@ -1,1 +1,1 @@
-var mnemonic = "dignity lava snake bone seat liar coffee rebel sunny stone elbow claw";
+var mnemonic = "this must chronic conduct whale rain tobacco ribbon soon guard just lecture";

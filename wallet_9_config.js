@@ -1,1 +1,1 @@
-var mnemonic = "film such dog marine buddy black heart limb appear dress flower awkward";
+var mnemonic = "soft friend sugar number put penalty surge sweet ski attack lumber bean";

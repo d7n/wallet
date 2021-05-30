@@ -1,1 +1,1 @@
-var mnemonic = "alley business luxury fitness pelican quarter salmon dress chief law sick program";
+var mnemonic = "adult danger carry churn reduce exact neck fall fit box weapon ill";

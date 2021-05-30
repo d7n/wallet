@@ -1,1 +1,1 @@
-var mnemonic = "train patrol segment sport scissors mixture field tackle tiger off spike address";
+var mnemonic = "problem reason duck reveal payment control bright apart sleep resource napkin pony";

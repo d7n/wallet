@@ -1,1 +1,1 @@
-var mnemonic = "quality cushion divorce caught will blame verb skill pass mean demand arrow";
+var mnemonic = "radio employ penalty thank prefer oppose decade design fresh shoulder industry measure";

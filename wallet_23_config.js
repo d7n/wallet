@@ -1,1 +1,1 @@
-var mnemonic = "awake moral torch cross oblige field range base idea wreck lumber lonely";
+var mnemonic = "kid visa sausage spoil guard emotion canoe dumb orphan banana borrow theme";

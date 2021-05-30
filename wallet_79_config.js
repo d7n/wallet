@@ -1,1 +1,1 @@
-var mnemonic = "beef mercy suggest entire erase room ginger punch dust chest curtain crouch";
+var mnemonic = "flock noble decide blouse income devote child couple december day hood purity";

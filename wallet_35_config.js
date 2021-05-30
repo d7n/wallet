@@ -1,1 +1,1 @@
-var mnemonic = "attend together dove decorate skate supreme patient alert girl chat maximum bird";
+var mnemonic = "bench love dismiss wave couch area cabin disagree differ crawl error cushion";

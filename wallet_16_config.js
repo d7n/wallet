@@ -1,1 +1,1 @@
-var mnemonic = "tail wife random erupt hint harbor identify seminar grow jump hero cloth";
+var mnemonic = "horn build hazard because actress ankle butter velvet company eager affair belt";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd sock elegant lecture harsh water announce desert shadow elegant elite venture";
+var mnemonic = "retire love skate lunch process verb change remove exist shuffle effort cat";

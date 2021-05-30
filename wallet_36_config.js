@@ -1,1 +1,1 @@
-var mnemonic = "weasel cereal section stay leaf emerge comic velvet outside drill make group";
+var mnemonic = "daring scrub speed other frequent tornado price grocery abandon push social equip";

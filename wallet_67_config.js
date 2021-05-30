@@ -1,1 +1,1 @@
-var mnemonic = "immune field post fatal domain equal hard month crawl east pave wing";
+var mnemonic = "obvious treat yellow like ball direct lonely window slab dragon talk average";

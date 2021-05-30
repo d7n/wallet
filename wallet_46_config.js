@@ -1,1 +1,1 @@
-var mnemonic = "curve palace speed few neck tobacco broccoli celery winter quality search history";
+var mnemonic = "great cushion glue ketchup antique wrap banana fiction assume proof balance spider";

@@ -1,1 +1,1 @@
-var mnemonic = "almost vessel beyond zone ride shadow mobile fuel sight slim dinner unit";
+var mnemonic = "airport idea chief tooth prize never head time then sponsor damp adjust";

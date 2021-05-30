@@ -1,1 +1,1 @@
-var mnemonic = "oil parade token dog hand sheriff they gate clog alcohol admit shoulder";
+var mnemonic = "impulse vacant entire that cloth mother vote half begin plug hurry cloth";

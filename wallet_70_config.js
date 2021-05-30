@@ -1,1 +1,1 @@
-var mnemonic = "diesel minute buddy base hollow until mean identify sure cave sail crush";
+var mnemonic = "normal purchase hawk claw rack book casual unhappy medal embark dizzy cushion";

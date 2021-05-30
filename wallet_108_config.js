@@ -1,1 +1,1 @@
-var mnemonic = "phone audit envelope gossip envelope solar fence hood today piano carpet alter";
+var mnemonic = "panther festival case margin divorce online festival gasp must pretty bargain answer";

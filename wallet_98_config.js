@@ -1,1 +1,1 @@
-var mnemonic = "love magic width uncover oak bird property split forum output medal wrap";
+var mnemonic = "recall scissors tomato light coast sport throw primary upset genuine state swap";

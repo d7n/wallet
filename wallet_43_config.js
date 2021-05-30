@@ -1,1 +1,1 @@
-var mnemonic = "brown cage lab pride indicate oil write know mountain humble soon chunk";
+var mnemonic = "cream recycle universe dragon subway outdoor pretty load turn olympic hand upset";

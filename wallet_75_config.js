@@ -1,1 +1,1 @@
-var mnemonic = "arrive roof prefer core major problem transfer nuclear become leader mango spirit";
+var mnemonic = "left fancy swear crew middle one jazz initial arrest arrive evoke diet";

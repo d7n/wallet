@@ -1,1 +1,1 @@
-var mnemonic = "state enhance artist inspire sight open sport limb edge treat destroy negative";
+var mnemonic = "height wise rich edit lyrics sauce birth science disagree hurt destroy drama";

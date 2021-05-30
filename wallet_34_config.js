@@ -1,1 +1,1 @@
-var mnemonic = "sell increase nothing come end harvest crew monkey must finish jazz double";
+var mnemonic = "family cry connect engage guitar artwork weekend bracket surge result never stomach";

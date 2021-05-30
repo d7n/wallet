@@ -1,1 +1,1 @@
-var mnemonic = "ethics wrist reform mail vacant thrive scene ice chronic solve rally average";
+var mnemonic = "fan aunt cloud behave furnace trend review mixture flip tip hundred accident";

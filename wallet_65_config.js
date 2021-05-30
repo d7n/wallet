@@ -1,1 +1,1 @@
-var mnemonic = "frequent armed ivory coil catch cart cushion ready palace mouse reveal afford";
+var mnemonic = "measure pilot impulse disease black jacket good shift elite weird wealth table";

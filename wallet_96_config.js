@@ -1,1 +1,1 @@
-var mnemonic = "buddy legal uniform busy trophy strategy melody hover pen rent man choose";
+var mnemonic = "tomato portion scheme lumber addict hint human era monkey size base tape";

@@ -1,1 +1,1 @@
-var mnemonic = "expose describe vacuum economy zebra true rug common matter endless enhance machine";
+var mnemonic = "frown sting garbage top share kick daring random gold grit flush hurdle";

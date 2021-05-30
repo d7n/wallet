@@ -1,1 +1,1 @@
-var mnemonic = "card dose bone chalk electric duty potato couch royal hub cube mystery";
+var mnemonic = "puppy melt link street already episode marriage duck rally resist reject meat";

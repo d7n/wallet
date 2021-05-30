@@ -1,1 +1,1 @@
-var mnemonic = "market tilt hire movie captain pony oak prize million rigid brush scan";
+var mnemonic = "room marine library kidney choose dress wild penalty permit infant broccoli gold";

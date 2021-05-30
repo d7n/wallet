@@ -1,1 +1,1 @@
-var mnemonic = "heart draw lecture run similar problem disorder industry check infant ladder bubble";
+var mnemonic = "crumble fiber light gallery forum blossom bitter balance equal notice radar shadow";

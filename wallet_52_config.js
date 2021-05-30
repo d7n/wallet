@@ -1,1 +1,1 @@
-var mnemonic = "rain display spider rhythm strategy century second sketch air empower health easy";
+var mnemonic = "wolf detail eight upon wedding prevent mandate rhythm spin powder vessel cupboard";

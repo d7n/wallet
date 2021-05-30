@@ -1,1 +1,1 @@
-var mnemonic = "civil initial doctor rate arrest lunch soccer equip object flame tape lunch";
+var mnemonic = "put bring weird chief main document toast local attitude gospel fiscal swallow";

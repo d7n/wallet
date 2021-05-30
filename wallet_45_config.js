@@ -1,1 +1,1 @@
-var mnemonic = "album piano sport journey state olympic lamp author alone feature account believe";
+var mnemonic = "idle shy pistol enjoy cluster earth attend traffic lucky admit dilemma reject";

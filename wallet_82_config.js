@@ -1,1 +1,1 @@
-var mnemonic = "photo ranch silk ugly unusual number sentence glance yellow series artefact display";
+var mnemonic = "blood drum anchor else loud ticket merge pilot toast neck together bridge";

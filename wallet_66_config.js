@@ -1,1 +1,1 @@
-var mnemonic = "toddler lobster bleak hold desert pulse broccoli fence swarm account sting student";
+var mnemonic = "alley video practice embrace biology park cash brain addict right donor library";

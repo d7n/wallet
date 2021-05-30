@@ -1,1 +1,1 @@
-var mnemonic = "audit voice text core reveal panel wealth quarter fruit narrow harvest summer";
+var mnemonic = "dolphin blush choice burst item thunder tragic west gorilla alone aware million";

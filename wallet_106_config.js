@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon toy aerobic security guilt gun inch snake vacuum lottery hour stumble";
+var mnemonic = "error upon lens gain reduce ugly pyramid board uphold treat predict stairs";

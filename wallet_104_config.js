@@ -1,1 +1,1 @@
-var mnemonic = "tiger minimum clutch scare olive swarm autumn spot payment dolphin sword engage";
+var mnemonic = "primary diagram ability dirt review tired mention advice super spin critic dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "solve exit cereal message scheme tooth armed indoor cupboard budget assume tennis";
+var mnemonic = "west police consider wedding open uphold gaze harsh wonder congress shift angle";

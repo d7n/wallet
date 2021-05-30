@@ -1,1 +1,1 @@
-var mnemonic = "people vendor siege color mixture lamp imitate stick liquid glance horse busy";
+var mnemonic = "clinic coffee review parade catalog recycle document exotic bean alter file earth";

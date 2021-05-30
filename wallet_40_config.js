@@ -1,1 +1,1 @@
-var mnemonic = "wealth short add drive faint slight month runway physical flight version stereo";
+var mnemonic = "witness shove judge hurry giant mango burger today source merit buzz gun";

@@ -1,1 +1,1 @@
-var mnemonic = "damage basic document enemy high twelve cool rescue breeze ride rich fuel";
+var mnemonic = "mother raw inherit negative brief slim tenant ecology season mix robust tortoise";

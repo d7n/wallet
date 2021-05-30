@@ -1,1 +1,1 @@
-var mnemonic = "milk lunar toe island original gain proud chair extra fold disagree drastic";
+var mnemonic = "account two morning pupil theory road pond shift survey mirror balance globe";

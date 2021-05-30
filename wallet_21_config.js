@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit job siren lobster cake coral slush height lava drink salad chalk";
+var mnemonic = "execute horse alarm silly gaze absent shrimp consider record van into junk";

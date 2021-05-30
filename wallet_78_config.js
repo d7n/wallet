@@ -1,1 +1,1 @@
-var mnemonic = "insane style fix achieve wink index recipe east trade round tiger flag";
+var mnemonic = "private repeat biology night mix coral kit veteran angry occur access habit";

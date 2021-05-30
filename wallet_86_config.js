@@ -1,1 +1,1 @@
-var mnemonic = "wagon power syrup regular twenty vault brisk dove grid ivory awake attract";
+var mnemonic = "hurdle tornado unfair soap faint tonight maple famous skirt casino option immense";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz dry wing pony science spoon replace orchard various faith goddess daughter";
+var mnemonic = "ticket castle hero correct attitude pepper ring museum pilot bitter thing away";

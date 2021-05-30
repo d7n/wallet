@@ -1,1 +1,1 @@
-var mnemonic = "congress topple minor section food surge rough unit evolve absorb total lunch";
+var mnemonic = "sudden crater morning level quantum real speak angle frog whisper spring flash";

@@ -1,1 +1,1 @@
-var mnemonic = "expire retreat slab rail blue arch endless naive alarm cousin trial enlist";
+var mnemonic = "broken plate pigeon damage invest general camera half lion airport slice cupboard";

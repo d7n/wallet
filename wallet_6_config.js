@@ -1,1 +1,1 @@
-var mnemonic = "visual choice record typical clump build glare permit improve fragile cruise that";
+var mnemonic = "level achieve mail bomb door order above impose together woman camera weasel";

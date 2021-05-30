@@ -1,1 +1,1 @@
-var mnemonic = "crane achieve seat journey always second amount coin smart turtle goddess rural";
+var mnemonic = "raise armed pass century father museum loop prison interest soap cotton audit";

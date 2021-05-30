@@ -1,1 +1,1 @@
-var mnemonic = "try vacuum glue repair dismiss glare purchase spatial payment make sell uniform";
+var mnemonic = "repair speak merit tag whale exhibit put oven protect pretty today trust";

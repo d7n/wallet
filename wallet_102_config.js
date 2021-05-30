@@ -1,1 +1,1 @@
-var mnemonic = "supply process predict attend shoulder over tent piece comic junior hurt sort";
+var mnemonic = "access lumber sponsor rich dutch tragic soccer soft just develop heavy chef";

@@ -1,1 +1,1 @@
-var mnemonic = "this hurry credit carbon maid final nice wish true divide poverty detect";
+var mnemonic = "faint rapid airport pyramid wheel access subject govern disorder easily child call";

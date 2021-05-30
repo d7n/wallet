@@ -1,1 +1,1 @@
-var mnemonic = "team idle rubber record sell bubble essence certain cement vague step muffin";
+var mnemonic = "runway social march mass farm fall wedding capital shock rebel between knife";

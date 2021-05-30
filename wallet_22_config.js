@@ -1,1 +1,1 @@
-var mnemonic = "yellow tuition motor reunion theory under squeeze toddler tent course fade giggle";
+var mnemonic = "rhythm just sustain play action faith boost inside what grab ostrich scatter";

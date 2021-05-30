@@ -1,1 +1,1 @@
-var mnemonic = "shed employ neutral hold rice climb club random proud journey repair produce";
+var mnemonic = "diary attend zone various screen deliver wall doctor wood chef lion cricket";

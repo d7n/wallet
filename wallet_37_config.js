@@ -1,1 +1,1 @@
-var mnemonic = "fortune feel cherry knife slam cost prize ghost fame debate hurt seven";
+var mnemonic = "garment tuna lucky term rely ozone true away else pumpkin couple spray";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder stereo robust eight welcome jewel brass buzz cereal west virtual drill";
+var mnemonic = "beauty defy patch camp clap nephew bacon moral month bridge vessel kite";

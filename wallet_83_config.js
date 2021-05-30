@@ -1,1 +1,1 @@
-var mnemonic = "tattoo utility tree weather suspect address hospital arrange quiz twist few decade";
+var mnemonic = "student tornado erupt stem craft annual couple twenty just trial title ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid radar oxygen hair among observe travel report suggest ancient luggage stone";
+var mnemonic = "control drift rocket wreck shoot clerk exit cruise mistake lava load siren";

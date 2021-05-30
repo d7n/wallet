@@ -1,1 +1,1 @@
-var mnemonic = "broken amused direct life abandon uncle window egg desert unknown reward human";
+var mnemonic = "empty symptom lava sight busy analyst describe rude super struggle analyst awesome";

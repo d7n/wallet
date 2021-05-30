@@ -1,1 +1,1 @@
-var mnemonic = "wish keen salmon sweet measure code cart final charge shaft gossip hockey";
+var mnemonic = "credit sibling solution scatter rely category try vacuum runway educate vault such";

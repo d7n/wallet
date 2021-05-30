@@ -1,1 +1,1 @@
-var mnemonic = "culture goat wool mountain explain leaf neglect medal boss copper hospital switch";
+var mnemonic = "loop ivory system scan hat verb planet few race outdoor night pen";

@@ -1,1 +1,1 @@
-var mnemonic = "essence purpose brand next extend trap monster goose autumn fence sudden bullet";
+var mnemonic = "shoe other drive deliver fitness during pledge spice hope scissors bronze inflict";

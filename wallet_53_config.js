@@ -1,1 +1,1 @@
-var mnemonic = "tissue arrest void range weapon bulk dinner cross absent give edit panther";
+var mnemonic = "below quote garlic language tackle lesson toss adult hungry hobby tell gaze";

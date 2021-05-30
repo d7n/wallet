@@ -1,1 +1,1 @@
-var mnemonic = "meadow session gun rack figure program message pigeon under vital draw demise";
+var mnemonic = "embark deliver belt draft water seed say mirror color runway pipe catch";

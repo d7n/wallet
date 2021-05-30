@@ -1,1 +1,1 @@
-var mnemonic = "salt analyst indicate knee version two region soon canoe bacon cannon proof";
+var mnemonic = "guard survey reject dentist guilt snow predict slot truck release vote vast";

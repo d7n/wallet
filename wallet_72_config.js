@@ -1,1 +1,1 @@
-var mnemonic = "cargo rule custom parent awake prevent furnace resist fit net planet direct";
+var mnemonic = "oblige admit crash anxiety ski vessel brief plunge benefit catch cannon scan";

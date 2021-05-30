@@ -1,1 +1,1 @@
-var mnemonic = "wear select ankle uphold logic appear sound report despair draw top sing";
+var mnemonic = "bunker icon receive find panic story solid left glad wise ranch canoe";

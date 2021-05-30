@@ -1,1 +1,1 @@
-var mnemonic = "tackle gentle stand hurry together chuckle december spray bright runway scheme common";
+var mnemonic = "canoe dumb radio index work captain love breeze route bargain expire dress";

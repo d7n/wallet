@@ -1,1 +1,1 @@
-var mnemonic = "stumble modify tower fluid moment evolve bulk cotton crane latin sauce depend";
+var mnemonic = "donor vague cute borrow call august squeeze clinic protect insect gap push";

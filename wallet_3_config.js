@@ -1,1 +1,1 @@
-var mnemonic = "slogan term goddess weekend sell desert lift age window divert pony rookie";
+var mnemonic = "health invite base fashion account school around slight wall ripple thunder battle";

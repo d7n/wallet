@@ -1,1 +1,1 @@
-var mnemonic = "exhibit art space hint devote symptom announce atom equal six burden kid";
+var mnemonic = "render refuse mansion now deputy owner green swift puppy sample firm grass";

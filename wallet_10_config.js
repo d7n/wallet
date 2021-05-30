@@ -1,1 +1,1 @@
-var mnemonic = "job tongue album era slogan mixed lava fat extra riot edge cover";
+var mnemonic = "ten process cup answer morning forget palace guess main million vibrant tongue";

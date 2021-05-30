@@ -1,1 +1,1 @@
-var mnemonic = "volume click alcohol movie father abstract truth slight owner ship jewel frown";
+var mnemonic = "tragic famous pole wrist end print elevator seek wisdom manage chapter define";

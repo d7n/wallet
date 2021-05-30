@@ -1,1 +1,1 @@
-var mnemonic = "ship amateur pride coconut dumb hat term online twenty bright journey ostrich";
+var mnemonic = "infant churn wait mobile fan frown proud auction pizza recycle crucial viable";

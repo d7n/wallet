@@ -1,1 +1,1 @@
-var mnemonic = "chunk empower oyster blade keen stone switch trophy mom bid ill sauce";
+var mnemonic = "detect feed wing always long pass smoke grab scout essay funny display";
