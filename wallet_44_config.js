@@ -1,1 +1,1 @@
-var mnemonic = "prefer sand load divide pen nose kitchen border yellow camp render soda";
+var mnemonic = "entire tell combine raccoon grain normal grunt eagle party lazy february sun";

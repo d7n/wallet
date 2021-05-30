@@ -1,1 +1,1 @@
-var mnemonic = "retire throw search meadow clap crystal fossil cabin south model luxury hungry";
+var mnemonic = "pear donor frown effort multiply return cricket tilt price novel hole duck";

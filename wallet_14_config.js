@@ -1,1 +1,1 @@
-var mnemonic = "badge clever rough frequent fragile slim treat hand always carbon dirt hat";
+var mnemonic = "hen sustain junk ridge divorce upset version around portion anger blood twin";

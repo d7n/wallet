@@ -1,1 +1,1 @@
-var mnemonic = "empty market fruit hidden organ problem wave desert affair corn quantum tool";
+var mnemonic = "shy there radio foam quote wink need dinosaur since body already sound";

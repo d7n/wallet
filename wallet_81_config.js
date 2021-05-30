@@ -1,1 +1,1 @@
-var mnemonic = "crane degree vacuum rebel guilt rebel food rebuild true salad interest industry";
+var mnemonic = "exchange test march doctor tourist spare odor canyon parent cup soon churn";

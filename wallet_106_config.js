@@ -1,1 +1,1 @@
-var mnemonic = "bacon night decorate fiction ugly era cancel only present delay agree ahead";
+var mnemonic = "lemon stumble butter toe canoe glare clever enable document cement life carry";

@@ -1,1 +1,1 @@
-var mnemonic = "know crush script wood sustain vast future orchard play loyal inject economy";
+var mnemonic = "retire gold doctor grass garlic time moon arch title entry venue private";

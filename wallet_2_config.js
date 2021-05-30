@@ -1,1 +1,1 @@
-var mnemonic = "near dune document end fantasy dove win try method purchase achieve time";
+var mnemonic = "stereo pretty riot cash mule light sport garage puppy tennis pair dish";

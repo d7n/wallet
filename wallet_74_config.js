@@ -1,1 +1,1 @@
-var mnemonic = "tower scrap century hole risk puppy hub food mass dolphin quote chief";
+var mnemonic = "novel mushroom interest catalog iron genuine myth hen kiss cream chief piece";

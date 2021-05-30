@@ -1,1 +1,1 @@
-var mnemonic = "dose spin ostrich assault manual scatter toy label judge axis fatigue series";
+var mnemonic = "fun file south usage toe wild syrup absurd setup size kangaroo ankle";

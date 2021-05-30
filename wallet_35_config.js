@@ -1,1 +1,1 @@
-var mnemonic = "paddle cheese trophy vintage shaft spread wool umbrella pluck usual panther cushion";
+var mnemonic = "flower injury symptom veteran man width sand must burst mouse survey home";

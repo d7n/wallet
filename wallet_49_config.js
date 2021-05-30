@@ -1,1 +1,1 @@
-var mnemonic = "define foam renew disease reward report enhance position together fossil allow cost";
+var mnemonic = "long short spray mean weapon piece shiver proof knock snap december elbow";

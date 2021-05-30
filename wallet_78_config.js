@@ -1,1 +1,1 @@
-var mnemonic = "sell leg arrow tuition opinion mule chief sight guide drum can clean";
+var mnemonic = "million winter soldier excite maid mechanic current machine parent repair dinner cover";

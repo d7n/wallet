@@ -1,1 +1,1 @@
-var mnemonic = "cause pizza amazing quiz toilet famous usual know snow mansion time shaft";
+var mnemonic = "buyer question once echo hour burden leopard weapon habit reunion heavy liberty";

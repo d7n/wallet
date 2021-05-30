@@ -1,1 +1,1 @@
-var mnemonic = "caught live lawn inform asthma hamster confirm misery believe glow ticket knock";
+var mnemonic = "jacket wage year saddle pass water round theory fade actual west drastic";

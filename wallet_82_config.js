@@ -1,1 +1,1 @@
-var mnemonic = "object crush expire solid hundred nation total crush burst trouble opinion cause";
+var mnemonic = "either beach drift glad pelican melody embrace spirit blame cricket struggle alone";

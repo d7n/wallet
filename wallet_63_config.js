@@ -1,1 +1,1 @@
-var mnemonic = "inmate drama ask foster outside arch vast before veteran setup oblige race";
+var mnemonic = "cram direct firm spatial install memory then crew scheme wet mesh mixture";

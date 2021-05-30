@@ -1,1 +1,1 @@
-var mnemonic = "this casino dose wear what sauce moon visual arrive mind nice cloth";
+var mnemonic = "unusual trash cherry park exile cube clump chunk yard display list mail";

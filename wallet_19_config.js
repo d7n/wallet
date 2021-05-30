@@ -1,1 +1,1 @@
-var mnemonic = "giant swift cement program swap bid pistol crucial simple gentle collect account";
+var mnemonic = "blast flavor trend double remember usage vibrant knee arctic engine diamond party";

@@ -1,1 +1,1 @@
-var mnemonic = "census elbow silly soccer post reject obtain debate light cabin happy glide";
+var mnemonic = "hunt pupil hockey smart connect sport figure salon moment opinion duck genuine";

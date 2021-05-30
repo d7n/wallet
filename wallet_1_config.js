@@ -1,1 +1,1 @@
-var mnemonic = "refuse crystal vague prosper slush bread soccer shield history melt series follow";
+var mnemonic = "scissors hurry time divert alter focus shield bracket borrow use require market";

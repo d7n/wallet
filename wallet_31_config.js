@@ -1,1 +1,1 @@
-var mnemonic = "truth name surge rain radio fine woman left reflect april assault fiber";
+var mnemonic = "coin average shrimp inflict wisdom cloud educate lemon plug puzzle verb kitchen";

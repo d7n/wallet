@@ -1,1 +1,1 @@
-var mnemonic = "lizard answer inflict harvest song stadium angle that sketch act nice street";
+var mnemonic = "present garment seven faculty jeans blame alcohol joke vehicle better culture urban";

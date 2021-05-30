@@ -1,1 +1,1 @@
-var mnemonic = "forget tilt coin afford rely fiction deal stuff human buzz distance term";
+var mnemonic = "vendor salt pair invest buffalo hockey about name ocean enough ecology series";

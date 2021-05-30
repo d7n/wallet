@@ -1,1 +1,1 @@
-var mnemonic = "view buffalo sibling swallow decade pony brisk field guard please marriage citizen";
+var mnemonic = "tray original review craft property pact quantum nominee matrix three become mountain";

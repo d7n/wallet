@@ -1,1 +1,1 @@
-var mnemonic = "rather feature indoor sample girl combine danger assault cruel holiday void science";
+var mnemonic = "private indicate truly master butter thumb weapon glide width assist chat balance";

@@ -1,1 +1,1 @@
-var mnemonic = "grass more task error onion taste current aware exercise accident save buddy";
+var mnemonic = "gift change deposit mammal armed potato cause index legal list typical avocado";

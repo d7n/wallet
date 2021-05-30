@@ -1,1 +1,1 @@
-var mnemonic = "prefer auction give brisk clog frequent castle ready razor current pattern light";
+var mnemonic = "region street trumpet polar example side puzzle analyst render dismiss olive window";

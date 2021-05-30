@@ -1,1 +1,1 @@
-var mnemonic = "paper tumble alpha essence push cream knock duck kit marriage bread omit";
+var mnemonic = "together fiction leisure animal observe assault faith undo trigger scissors mushroom imitate";

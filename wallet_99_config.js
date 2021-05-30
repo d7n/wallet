@@ -1,1 +1,1 @@
-var mnemonic = "reopen core attack animal ancient target secret flag stable sword level must";
+var mnemonic = "boring seed airport diagram swap demise script shock flower dolphin misery tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "biology jump steel chase process bachelor invite stereo face mail cement honey";
+var mnemonic = "deliver original cause engine jar maid moral mouse clinic canyon gentle panda";

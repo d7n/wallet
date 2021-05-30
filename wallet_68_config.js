@@ -1,1 +1,1 @@
-var mnemonic = "panel goat salmon address blood series tool glass pioneer version absent height";
+var mnemonic = "black sing emerge nest visa decide finger latin narrow remind rate priority";

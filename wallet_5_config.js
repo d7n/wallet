@@ -1,1 +1,1 @@
-var mnemonic = "excuse lamp lens olive loan couch right melt body frog chat attend";
+var mnemonic = "hobby engage draw grass inmate prosper orange pigeon cause skill stadium avocado";

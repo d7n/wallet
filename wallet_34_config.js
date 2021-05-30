@@ -1,1 +1,1 @@
-var mnemonic = "hundred expand cancel field upper episode magnet invite work salad deny bar";
+var mnemonic = "tree purity evolve phone repeat help just midnight climb doctor magic approve";

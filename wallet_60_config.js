@@ -1,1 +1,1 @@
-var mnemonic = "vehicle figure able melt afraid unlock august display empower spoil credit actual";
+var mnemonic = "nephew now primary story casual theory drift fabric suggest humor damage service";

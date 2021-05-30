@@ -1,1 +1,1 @@
-var mnemonic = "hip dignity dismiss praise tackle inject enemy live giggle immune clump meat";
+var mnemonic = "shadow tank combine link hood baby buffalo mango robot favorite predict elder";

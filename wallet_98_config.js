@@ -1,1 +1,1 @@
-var mnemonic = "tennis auction hospital confirm soul present short agent address concert round into";
+var mnemonic = "sketch latin surface slab chunk hawk egg correct one focus derive add";

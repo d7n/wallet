@@ -1,1 +1,1 @@
-var mnemonic = "flight machine canyon occur deer north cage couple plug hero canvas trash";
+var mnemonic = "pyramid eye tilt volcano rival just balance next country planet frequent pretty";

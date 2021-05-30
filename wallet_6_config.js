@@ -1,1 +1,1 @@
-var mnemonic = "mass power stage satisfy blast reward present rely blind error hip diagram";
+var mnemonic = "inject fever peanut grid cruise horror valid badge remember fashion wall detail";

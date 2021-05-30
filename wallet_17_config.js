@@ -1,1 +1,1 @@
-var mnemonic = "purity behave vote loop arena onion ancient sun black year case orient";
+var mnemonic = "atom dirt come misery gym almost dance laundry awake tribe disagree journey";

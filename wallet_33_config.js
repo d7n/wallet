@@ -1,1 +1,1 @@
-var mnemonic = "misery area congress copy staff sketch call action tuition film finish trip";
+var mnemonic = "goose faculty swing sketch invest mutual prison idle rely dutch toilet drive";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon unfair peace helmet hurry citizen label primary diesel mixed that echo";
+var mnemonic = "goat wasp sunny grid march bar section gospel feel movie just bean";

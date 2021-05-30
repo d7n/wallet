@@ -1,1 +1,1 @@
-var mnemonic = "attract beyond month strategy scan flock rural basket repeat uniform wolf permit";
+var mnemonic = "like bicycle another west enjoy inhale gospel embody mimic tomato proud spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp cause one paddle control educate mesh joke first latin lab group";
+var mnemonic = "discover seek sock quote segment pair giraffe purpose owner anchor typical bunker";

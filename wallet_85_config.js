@@ -1,1 +1,1 @@
-var mnemonic = "twelve just unfold frost glide afford stem sight edge party fruit scatter";
+var mnemonic = "nation snake myself gravity brain wait castle wrap horse avocado sting rabbit";

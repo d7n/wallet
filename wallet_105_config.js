@@ -1,1 +1,1 @@
-var mnemonic = "knock grid cannon foot volcano motor chat mandate bicycle brother tissue creek";
+var mnemonic = "express despair mass tourist milk hat foil connect flower judge leaf patient";

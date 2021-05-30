@@ -1,1 +1,1 @@
-var mnemonic = "pistol dilemma close census mango forget result order hawk wine upset keep";
+var mnemonic = "toy junk slow sniff add document want globe case float eternal depart";

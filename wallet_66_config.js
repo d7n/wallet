@@ -1,1 +1,1 @@
-var mnemonic = "vacant cloth tornado regular fuel fitness harvest install pact wolf video like";
+var mnemonic = "recycle regret culture scrub convince lawn skate glass faculty head quit crisp";

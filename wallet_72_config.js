@@ -1,1 +1,1 @@
-var mnemonic = "meadow husband winner actor kick gadget athlete face bean celery grid soldier";
+var mnemonic = "connect problem tragic subject spend tape damp fit quarter myself ethics help";

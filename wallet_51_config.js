@@ -1,1 +1,1 @@
-var mnemonic = "arm aisle pause object usual always process achieve actress mansion priority match";
+var mnemonic = "student pear bubble shuffle fancy mirror decline saddle mail muscle rely churn";

@@ -1,1 +1,1 @@
-var mnemonic = "target cake lawsuit disorder family venue zoo fury federal idea antique include";
+var mnemonic = "again dynamic tag pill inherit oval twist animal drastic anchor novel word";

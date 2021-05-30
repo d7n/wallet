@@ -1,1 +1,1 @@
-var mnemonic = "planet envelope ankle bring abandon taste cost know color visit dose tackle";
+var mnemonic = "way april neither glance leader shaft crack isolate okay believe maze patch";

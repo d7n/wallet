@@ -1,1 +1,1 @@
-var mnemonic = "law lyrics type mirror silly more abandon since slam candy wrap about";
+var mnemonic = "when tuition celery naive link pigeon tray year foam detail keen sing";

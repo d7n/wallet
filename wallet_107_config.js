@@ -1,1 +1,1 @@
-var mnemonic = "lab casino genre cup gown aware wave giant fade senior cliff blast";
+var mnemonic = "almost sibling light motion little abstract adjust damage pioneer exhibit page stereo";

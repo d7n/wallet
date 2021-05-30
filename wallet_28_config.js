@@ -1,1 +1,1 @@
-var mnemonic = "also prepare canoe update expect strong slot salt green left antique switch";
+var mnemonic = "stem swamp visit math reflect elegant odor congress hollow defy elevator notice";

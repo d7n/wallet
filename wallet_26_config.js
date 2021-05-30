@@ -1,1 +1,1 @@
-var mnemonic = "upper grace glow element erosion caution liquid custom saddle notice game burden";
+var mnemonic = "laptop flee bottom ability region plug seat inhale used ketchup install adapt";

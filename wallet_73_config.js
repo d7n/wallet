@@ -1,1 +1,1 @@
-var mnemonic = "purchase boat fold muffin shield magnet main expand toast puppy theme advice";
+var mnemonic = "file match ivory moon harsh science ride sorry match velvet giggle acoustic";

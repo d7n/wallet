@@ -1,1 +1,1 @@
-var mnemonic = "suffer giant spike another wrestle mechanic that ready public gift repeat system";
+var mnemonic = "wheat chalk dose neither shove duck body never resemble fault hazard during";

@@ -1,1 +1,1 @@
-var mnemonic = "insane state wheel pear index drip put illegal cushion bus business argue";
+var mnemonic = "raven betray toward clay undo appear buyer home fossil make hair people";

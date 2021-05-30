@@ -1,1 +1,1 @@
-var mnemonic = "turkey shift catalog patch army oval entire opera gesture antique sadness swarm";
+var mnemonic = "inspire hill unhappy milk sibling bundle leave blanket profit frozen moment coast";

@@ -1,1 +1,1 @@
-var mnemonic = "poem icon rebel anger small original wrap knee super column frown harbor";
+var mnemonic = "furnace hybrid faculty annual trust private nasty sing require silver steak sister";

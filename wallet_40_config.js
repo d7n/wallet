@@ -1,1 +1,1 @@
-var mnemonic = "episode million enact sing caught unlock youth grain ecology scene empty maximum";
+var mnemonic = "decide output about anger prize glove junk history rice about cook dynamic";

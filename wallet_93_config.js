@@ -1,1 +1,1 @@
-var mnemonic = "chase canvas embrace small right initial bring into animal narrow dolphin maximum";
+var mnemonic = "always magic satoshi swift base random problem cushion tragic hat romance upset";

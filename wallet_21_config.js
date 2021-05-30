@@ -1,1 +1,1 @@
-var mnemonic = "major focus kick lumber assist ivory slight hair spring release now birth";
+var mnemonic = "trust blast hip raven eye grain argue clock adjust fix unknown depend";

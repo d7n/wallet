@@ -1,1 +1,1 @@
-var mnemonic = "program world become debate loyal number adapt visual original rose doctor planet";
+var mnemonic = "annual social initial post neutral drink diet furnace suspect feel slide gym";

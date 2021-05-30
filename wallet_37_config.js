@@ -1,1 +1,1 @@
-var mnemonic = "thunder buffalo echo number inside exile regular exercise medal mammal repeat deliver";
+var mnemonic = "render gentle wild island imitate paper wait defy mandate inquiry real history";

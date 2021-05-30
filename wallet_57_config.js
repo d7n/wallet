@@ -1,1 +1,1 @@
-var mnemonic = "genius major extra cabbage rain glory duck rebuild abstract ketchup fashion exclude";
+var mnemonic = "analyst scare energy increase embrace venue bargain eagle method oyster robot peace";

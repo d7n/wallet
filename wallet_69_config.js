@@ -1,1 +1,1 @@
-var mnemonic = "panther steel response section valve rack horn fatigue fortune away one regular";
+var mnemonic = "enable script fox badge believe field stem trumpet split gap gather april";

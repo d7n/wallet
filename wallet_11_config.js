@@ -1,1 +1,1 @@
-var mnemonic = "layer include answer strike rifle game present later matter valve type magic";
+var mnemonic = "cheap answer believe alone divorce elegant there chimney bracket burst club inject";

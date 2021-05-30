@@ -1,1 +1,1 @@
-var mnemonic = "spell lyrics force unfold sweet monster hat round debris merry hurt barrel";
+var mnemonic = "tiny rude aerobic section setup legal loud adjust rice exhibit ordinary wheat";

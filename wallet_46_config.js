@@ -1,1 +1,1 @@
-var mnemonic = "leader planet rocket meat column flock wink pill mistake ancient search basket";
+var mnemonic = "surprise copy syrup tide cargo tell clown security wedding vague debate main";

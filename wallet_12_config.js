@@ -1,1 +1,1 @@
-var mnemonic = "real favorite slide paddle kingdom trumpet segment caught royal december there letter";
+var mnemonic = "cousin curious switch company acid empty angry sadness tilt pet enjoy trade";

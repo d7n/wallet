@@ -1,1 +1,1 @@
-var mnemonic = "civil old canal sign toast skill disorder mansion hard zero glow hawk";
+var mnemonic = "leg discover clutch climb enjoy health deny swap day lawsuit setup vote";

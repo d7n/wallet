@@ -1,1 +1,1 @@
-var mnemonic = "advice material lobster engine dragon knee sail come milk old faint habit";
+var mnemonic = "horse dinosaur field slab castle balance drip spirit blood student ritual common";

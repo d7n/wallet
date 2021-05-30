@@ -1,1 +1,1 @@
-var mnemonic = "process mesh differ chalk crouch else blast ribbon fresh can hybrid parade";
+var mnemonic = "goat message general brown grocery grief learn laundry pelican shrug swap hour";

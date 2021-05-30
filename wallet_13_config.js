@@ -1,1 +1,1 @@
-var mnemonic = "decline angry tuna pair drop fold rocket tattoo arm among breeze fresh";
+var mnemonic = "series salon slam today half drift guitar artist ill tomorrow search review";

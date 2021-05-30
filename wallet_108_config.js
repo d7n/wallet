@@ -1,1 +1,1 @@
-var mnemonic = "wrist raise there bus point still inch trigger network hockey rare sadness";
+var mnemonic = "hope raven lazy talk kit lunar army during check pause account sign";

@@ -1,1 +1,1 @@
-var mnemonic = "track few south blouse typical desert father torch artefact salute palace eagle";
+var mnemonic = "place resist arena network accident file thumb easy vocal brass horn parent";

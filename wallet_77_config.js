@@ -1,1 +1,1 @@
-var mnemonic = "lawn pony quit host second direct cube hurt code coil have coach";
+var mnemonic = "digital they biology office flag rocket memory firm floor amount kidney curtain";

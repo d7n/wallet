@@ -1,1 +1,1 @@
-var mnemonic = "march matter blade amount midnight similar position embody duty become cry sample";
+var mnemonic = "echo begin pact super leaf farm slab hollow usage pig like long";

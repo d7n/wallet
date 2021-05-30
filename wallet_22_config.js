@@ -1,1 +1,1 @@
-var mnemonic = "aisle forget crowd figure borrow march view boss ozone best want lounge";
+var mnemonic = "deny demand mosquito forest venue inhale panther tackle divorce spot blanket spin";

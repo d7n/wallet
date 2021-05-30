@@ -1,1 +1,1 @@
-var mnemonic = "announce wing keep pear board trick apple defy time coffee race fringe";
+var mnemonic = "cloth december rack bird august govern cube split since fat aware ride";

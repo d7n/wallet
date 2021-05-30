@@ -1,1 +1,1 @@
-var mnemonic = "guitar bright audit happy road jealous rare lecture tool before catalog apart";
+var mnemonic = "same buzz produce glance gossip question marriage visit over clump club imitate";

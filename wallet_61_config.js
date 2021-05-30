@@ -1,1 +1,1 @@
-var mnemonic = "thrive moral pattern canal panda little finish ramp diary inquiry tell immense";
+var mnemonic = "orange high unique erase omit urban hurt hamster boring select bid lemon";

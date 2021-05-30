@@ -1,1 +1,1 @@
-var mnemonic = "apart service trash pistol rescue submit strike umbrella shine inflict connect chunk";
+var mnemonic = "mixed point spawn blast peasant crush ritual chalk thrive silly hurry question";

@@ -1,1 +1,1 @@
-var mnemonic = "track chapter unfold deer over party retire amateur sugar head leave excuse";
+var mnemonic = "sample upset machine merit six hand bench hybrid stick trial noodle right";

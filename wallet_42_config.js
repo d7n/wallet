@@ -1,1 +1,1 @@
-var mnemonic = "grape run ridge corn warrior legend goose risk goat because wage trick";
+var mnemonic = "effort actress dial trend bright inject gaze viable lucky inhale eager gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "predict nothing silent october saddle comic innocent vote path fresh sun space";
+var mnemonic = "hire meat valley soccer defense below december exact gain absurd join cause";

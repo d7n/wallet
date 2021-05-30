@@ -1,1 +1,1 @@
-var mnemonic = "second frog curtain snap forum merry swing any sea mammal helmet buffalo";
+var mnemonic = "aspect choice hope moon lunar betray pencil input say two faint wife";

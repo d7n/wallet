@@ -1,1 +1,1 @@
-var mnemonic = "zero toe inherit poem group nerve reopen gap lunar gown sweet owner";
+var mnemonic = "pen hamster call pig hidden still finger kidney say grace tennis direct";

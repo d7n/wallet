@@ -1,1 +1,1 @@
-var mnemonic = "forward mushroom display ketchup call novel bench legal aspect frog tobacco worry";
+var mnemonic = "rookie fluid patient strike laptop park bullet loan double stereo zebra utility";

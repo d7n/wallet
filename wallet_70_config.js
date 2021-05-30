@@ -1,1 +1,1 @@
-var mnemonic = "sentence razor sign remain conduct upgrade urban cloth segment fetch swarm vault";
+var mnemonic = "hospital renew bar flower magic dismiss cream gadget visual left scrap roast";

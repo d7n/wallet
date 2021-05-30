@@ -1,1 +1,1 @@
-var mnemonic = "galaxy story spice catch penalty old range fluid pottery roast sauce license";
+var mnemonic = "refuse trouble shop dice used prevent this deliver soda awesome machine settle";

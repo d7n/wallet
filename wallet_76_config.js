@@ -1,1 +1,1 @@
-var mnemonic = "chapter travel arrow damage duty meat vague assist clerk monster glad possible";
+var mnemonic = "wrist million afford balance drill future boss month smart disease hawk vast";
