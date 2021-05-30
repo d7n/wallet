@@ -1,1 +1,1 @@
-var mnemonic = "catalog middle donor drift light help much jump occur donate wonder amused";
+var mnemonic = "obey debate fruit stadium want dilemma polar claim engine hospital quantum swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "funny glow blur topple casino put tongue happy glue bench wealth body";
+var mnemonic = "voyage proof stairs mountain monkey power slim seat tower prosper library brain";

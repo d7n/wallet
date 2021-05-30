@@ -1,1 +1,1 @@
-var mnemonic = "noise bachelor flip spirit sick rib unveil gloom suit useful utility tail";
+var mnemonic = "obscure vocal visa legal employ sheriff grief rude sort attend march team";

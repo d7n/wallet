@@ -1,1 +1,1 @@
-var mnemonic = "hero number grunt mosquito erode solution stool gadget large transfer love race";
+var mnemonic = "picnic risk occur bulk exile sad truly possible tongue dilemma universe pilot";

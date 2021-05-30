@@ -1,1 +1,1 @@
-var mnemonic = "truck awful bird clever title drive conduct document there agent sick enjoy";
+var mnemonic = "course feed venture open spare benefit repair monitor cloth clerk viable case";

@@ -1,1 +1,1 @@
-var mnemonic = "bless catch crowd inner mistake enforce bike vanish cake blue peasant lounge";
+var mnemonic = "talent aisle quiz monitor where benefit remember picnic chaos escape work patrol";

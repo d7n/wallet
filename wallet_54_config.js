@@ -1,1 +1,1 @@
-var mnemonic = "snack veteran glimpse obscure blanket mistake ice throw broom vacant harbor garbage";
+var mnemonic = "refuse tattoo offer viable success vast theory vicious bonus tiger arena art";

@@ -1,1 +1,1 @@
-var mnemonic = "truly olive author panther breeze usage flock merge right announce piece join";
+var mnemonic = "seven average bridge grab public power ensure medal fold shove hurry long";

@@ -1,1 +1,1 @@
-var mnemonic = "today ring foam require health stomach million behind hand faith young outer";
+var mnemonic = "bracket author crucial morning human vast leisure midnight chalk tunnel radar story";

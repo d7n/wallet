@@ -1,1 +1,1 @@
-var mnemonic = "pull version fog credit ensure paddle figure hint spatial amount custom cactus";
+var mnemonic = "check range yellow image garment style multiply mammal say bargain grid clog";

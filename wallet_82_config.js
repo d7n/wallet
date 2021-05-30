@@ -1,1 +1,1 @@
-var mnemonic = "snack champion rack debate menu swing blue mandate puzzle jazz alone elbow";
+var mnemonic = "shock swarm ladder favorite mountain dilemma cable oven kite whisper access turtle";

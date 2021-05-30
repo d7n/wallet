@@ -1,1 +1,1 @@
-var mnemonic = "wheat pride best year situate satisfy hire alcohol calm sudden cement myself";
+var mnemonic = "stone noise okay glide ship drama junk maid gasp shock educate turtle";

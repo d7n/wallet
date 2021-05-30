@@ -1,1 +1,1 @@
-var mnemonic = "raven minimum always nephew useless obtain palace wife forest shed bulk episode";
+var mnemonic = "donkey army furnace planet rural near exile napkin tell cattle scatter finger";

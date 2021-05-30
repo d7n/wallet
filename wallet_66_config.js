@@ -1,1 +1,1 @@
-var mnemonic = "spawn taxi divide night north unhappy ladder best reduce talk cheese neck";
+var mnemonic = "short rent lucky include guilt twin rent license rotate nurse mosquito sign";

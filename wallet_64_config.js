@@ -1,1 +1,1 @@
-var mnemonic = "nose essence canvas couple horse million goose primary eyebrow utility long arrive";
+var mnemonic = "pattern pizza entry upon supreme submit climb bacon delay equip session poet";

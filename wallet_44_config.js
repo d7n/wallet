@@ -1,1 +1,1 @@
-var mnemonic = "flash question magnet bean cradle aim baby right pioneer magnet urge drink";
+var mnemonic = "tell salt agree autumn slow mercy faith dial brown exotic chaos eternal";

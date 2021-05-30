@@ -1,1 +1,1 @@
-var mnemonic = "green arrest misery make company music affair hover junk help eight brand";
+var mnemonic = "deputy then ocean vault dilemma evidence rug drift album process wedding credit";

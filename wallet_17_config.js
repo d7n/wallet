@@ -1,1 +1,1 @@
-var mnemonic = "bring clap wish marriage bike glance mixture reject arena jeans another fire";
+var mnemonic = "settle steak image soldier case provide share belt orbit method beach various";

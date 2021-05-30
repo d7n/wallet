@@ -1,1 +1,1 @@
-var mnemonic = "lamp real wine wish awful agent bulk unique artist upset turkey silent";
+var mnemonic = "pencil country solid body all own option quarter stem tiny trim embody";

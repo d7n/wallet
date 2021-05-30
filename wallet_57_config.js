@@ -1,1 +1,1 @@
-var mnemonic = "history half real rebuild divert canal bundle hover law slow laundry toe";
+var mnemonic = "ripple rebel fork parent glue bright submit damage absent nothing comic vast";

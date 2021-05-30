@@ -1,1 +1,1 @@
-var mnemonic = "hover spot snake stable wrap wisdom roast airport law keen oil cheese";
+var mnemonic = "note trial spike slice peace input divide rib snow smoke doctor guitar";

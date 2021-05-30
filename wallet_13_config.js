@@ -1,1 +1,1 @@
-var mnemonic = "whip vacuum vocal rival business still usual sleep interest menu cool sudden";
+var mnemonic = "seat flash cinnamon push artist razor race leg during alter hotel pony";

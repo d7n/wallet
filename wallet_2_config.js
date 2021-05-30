@@ -1,1 +1,1 @@
-var mnemonic = "tilt cousin skin chat square unhappy fee camp plug pair puzzle minor";
+var mnemonic = "ability allow salmon left panda power novel velvet measure razor prefer zoo";

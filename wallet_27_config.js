@@ -1,1 +1,1 @@
-var mnemonic = "property summer inject squirrel music faint collect version tone problem maple combine";
+var mnemonic = "soft earth twenty ring enhance tuna ordinary vocal stand cup income limit";

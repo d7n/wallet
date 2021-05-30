@@ -1,1 +1,1 @@
-var mnemonic = "glory ginger later apart similar confirm swallow awful resist panther struggle hundred";
+var mnemonic = "turn refuse apart squirrel glue image fever faint young suspect insane they";

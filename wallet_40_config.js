@@ -1,1 +1,1 @@
-var mnemonic = "wheat solution west suspect kangaroo save brother flight smile biology engine boost";
+var mnemonic = "curve scare wire thing elephant country amused economy nest sausage embark ethics";

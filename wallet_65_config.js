@@ -1,1 +1,1 @@
-var mnemonic = "hope crop model about broken loud chief deny concert actual debate exclude";
+var mnemonic = "human else slot wheel misery split juice surround dumb gallery urge wood";

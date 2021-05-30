@@ -1,1 +1,1 @@
-var mnemonic = "dentist list current copper express idle water market ignore gadget situate finger";
+var mnemonic = "unhappy summer horse romance rent plug squirrel foil outer trust uniform oyster";

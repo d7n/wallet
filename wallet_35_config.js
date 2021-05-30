@@ -1,1 +1,1 @@
-var mnemonic = "trade history stem hawk floor tourist brief kind acid minute pizza typical";
+var mnemonic = "rescue outside dose plug eternal jungle balance lottery meadow neck good much";

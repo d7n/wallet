@@ -1,1 +1,1 @@
-var mnemonic = "knife reform price meadow arch section manage core already betray avoid ancient";
+var mnemonic = "happy kid rebel suffer risk usage advice luxury tennis sport ability tuna";

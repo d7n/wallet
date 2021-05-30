@@ -1,1 +1,1 @@
-var mnemonic = "accident useless kidney elbow vehicle usual custom live throw creek member seminar";
+var mnemonic = "cancel fatal expire custom aerobic sea hungry mechanic eye nephew flash buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "verify kangaroo grab surprise viable same bracket urge museum trial boss journey";
+var mnemonic = "embrace ugly shield spoon fun squeeze custom surface doctor judge upgrade buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf shoulder boring edge fever quick afford mechanic subway sing rain field";
+var mnemonic = "decide aware balcony dynamic idle enroll idle jazz mansion youth ritual abuse";

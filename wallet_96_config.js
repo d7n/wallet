@@ -1,1 +1,1 @@
-var mnemonic = "pull mixed puppy clog reunion vague oppose blood transfer unhappy steak resist";
+var mnemonic = "typical endorse ring dry avocado gift stage robot step toss proud own";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion venue fix toddler hedgehog science draft thought need banner resource seed";
+var mnemonic = "dial will key cry rigid metal planet height possible jump cry song";

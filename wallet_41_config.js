@@ -1,1 +1,1 @@
-var mnemonic = "awkward pole weasel scrub frost bean innocent tumble mosquito try shop benefit";
+var mnemonic = "struggle muscle cycle confirm slab east volcano sense dinosaur marble banana inch";

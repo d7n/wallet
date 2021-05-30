@@ -1,1 +1,1 @@
-var mnemonic = "answer flag artwork number midnight hungry solution example ritual shuffle strike mad";
+var mnemonic = "uniform bone lunch egg caution gift major knock illness kite maple clever";

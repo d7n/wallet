@@ -1,1 +1,1 @@
-var mnemonic = "board ship close device group quote birth search position lunch obey thrive";
+var mnemonic = "smooth involve scissors into host express trick gossip dinner vague inherit grid";

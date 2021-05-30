@@ -1,1 +1,1 @@
-var mnemonic = "beyond daring useless jungle sustain enrich life tray purity reward during antenna";
+var mnemonic = "only exist wash expect program idea lock course door boy foil pool";

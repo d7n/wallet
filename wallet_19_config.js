@@ -1,1 +1,1 @@
-var mnemonic = "argue cloud school help mercy rather cactus mandate bulb giraffe size casino";
+var mnemonic = "famous glass erode floor episode famous secret cattle friend try concert clog";

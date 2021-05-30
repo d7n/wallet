@@ -1,1 +1,1 @@
-var mnemonic = "convince robust key charge busy blouse skin dress shoot trigger bomb same";
+var mnemonic = "coral public solve document vehicle canal dismiss battle fashion immense miss disease";

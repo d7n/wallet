@@ -1,1 +1,1 @@
-var mnemonic = "ostrich pass inform rude joke traffic antique sand stand case tortoise become";
+var mnemonic = "venture license return symbol morning slice tornado north what swallow beach muscle";

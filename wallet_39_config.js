@@ -1,1 +1,1 @@
-var mnemonic = "enter position lend achieve few bag crater canyon race firm exit dry";
+var mnemonic = "stone twin cruise curious bind tide arrive whale arm cargo arrow brief";

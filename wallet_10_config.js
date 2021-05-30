@@ -1,1 +1,1 @@
-var mnemonic = "guitar gorilla fuel decline pipe bike warrior ginger sound project patient acoustic";
+var mnemonic = "vague net universe someone joy dumb below cheap once worry symbol virus";

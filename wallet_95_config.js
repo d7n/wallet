@@ -1,1 +1,1 @@
-var mnemonic = "dad reunion vapor protect mistake celery come frown quarter prevent tank intact";
+var mnemonic = "document wing awesome powder neutral believe give day phone pilot illness unit";

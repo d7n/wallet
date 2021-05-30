@@ -1,1 +1,1 @@
-var mnemonic = "enjoy web discover hero title inspire tail decrease verb small identify people";
+var mnemonic = "mixture garden slogan feed shop accident sketch quit crush select enlist cube";

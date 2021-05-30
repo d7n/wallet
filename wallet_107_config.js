@@ -1,1 +1,1 @@
-var mnemonic = "bubble pledge shiver subway october machine frown space tray team negative school";
+var mnemonic = "opinion peace square want all charge dizzy manual jealous defy guess sweet";

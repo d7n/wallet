@@ -1,1 +1,1 @@
-var mnemonic = "rebuild situate margin very spring uncover host family naive nephew large leg";
+var mnemonic = "ecology denial gorilla balcony settle afraid palm marine silver lamp distance indicate";

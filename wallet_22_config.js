@@ -1,1 +1,1 @@
-var mnemonic = "balance horn spell staff announce bind cruel fence orient fatal club hour";
+var mnemonic = "diet badge bicycle valley page bleak outside occur quarter cup shadow time";

@@ -1,1 +1,1 @@
-var mnemonic = "leave few love humble tomorrow pride empower cram impose ancient early mimic";
+var mnemonic = "suspect deny despair alpha vivid child family spike shrimp gather alcohol roast";

@@ -1,1 +1,1 @@
-var mnemonic = "credit float earn talk legend party river stairs divorce truly become bulb";
+var mnemonic = "daughter dose viable public resemble juice label obey tourist rich bitter ozone";

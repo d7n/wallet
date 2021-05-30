@@ -1,1 +1,1 @@
-var mnemonic = "exit when apple menu impulse claim school wrap guide wrong focus soft";
+var mnemonic = "occur certain tumble capital bulk paper elevator virus dream glide icon hello";

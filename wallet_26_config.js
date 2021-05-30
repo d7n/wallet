@@ -1,1 +1,1 @@
-var mnemonic = "crater call shiver street nothing bench girl flag decide own pen govern";
+var mnemonic = "gift acid exhibit hungry warfare crime judge borrow pupil polar suggest frog";

@@ -1,1 +1,1 @@
-var mnemonic = "brain brick hover eagle smoke include pencil balcony dream delay cost cabbage";
+var mnemonic = "victory repair comic diet cousin today above hub liar detect milk raven";

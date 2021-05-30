@@ -1,1 +1,1 @@
-var mnemonic = "rare expire fat island dentist wood word state then capable tool result";
+var mnemonic = "culture bone frequent cruise surge submit account thank venture clinic sword soccer";

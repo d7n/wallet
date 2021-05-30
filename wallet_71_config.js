@@ -1,1 +1,1 @@
-var mnemonic = "cube hobby appear recall situate aware coil torch symptom brother anger hour";
+var mnemonic = "correct scorpion net elegant narrow session goddess very any finger awful rebuild";

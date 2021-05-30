@@ -1,1 +1,1 @@
-var mnemonic = "pilot habit airport now boost leave fame ski cricket shift kidney outside";
+var mnemonic = "chase damp surround muffin rib fog bomb thing torch spot fence wet";

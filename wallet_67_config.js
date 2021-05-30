@@ -1,1 +1,1 @@
-var mnemonic = "that cake crime leader forward kid oil happy attack cheese animal remove";
+var mnemonic = "couple zone broccoli eight inflict domain allow solar method school seminar violin";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual cycle senior hard media cloth busy raise vocal almost above marriage";
+var mnemonic = "promote aware emerge awesome sample uncle traffic response silent kit blush cupboard";

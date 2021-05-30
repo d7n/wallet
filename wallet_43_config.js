@@ -1,1 +1,1 @@
-var mnemonic = "place useful gadget scene enlist frost uphold arena salon twist ticket bubble";
+var mnemonic = "ivory capable friend draft drip prosper brass chest poverty fix vintage make";

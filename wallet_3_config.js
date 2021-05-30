@@ -1,1 +1,1 @@
-var mnemonic = "limit machine boy casino tell asset ring nasty warfare key bounce reduce";
+var mnemonic = "unaware leave parent muffin since sunny powder vocal bird employ amount mad";

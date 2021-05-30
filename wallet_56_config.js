@@ -1,1 +1,1 @@
-var mnemonic = "agree reopen rigid humor expire cheese bean bleak cargo family syrup burden";
+var mnemonic = "boss identify conduct edit mountain marine detect wasp evil bus detect scorpion";

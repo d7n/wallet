@@ -1,1 +1,1 @@
-var mnemonic = "digital hire type dirt black crew goose ridge half match domain pen";
+var mnemonic = "motion fee youth east advice squeeze leader pear cinnamon cushion enrich notice";

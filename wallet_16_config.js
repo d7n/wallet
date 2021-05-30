@@ -1,1 +1,1 @@
-var mnemonic = "girl collect wreck health rival thank kangaroo interest stage couch connect pottery";
+var mnemonic = "enroll nest drift bargain network donkey slow mechanic mimic goddess entire finish";

@@ -1,1 +1,1 @@
-var mnemonic = "hand wife tuna nurse arena sell uphold drip basic stand lesson problem";
+var mnemonic = "gain twin enemy layer cash expose clump clinic soup ahead you slight";

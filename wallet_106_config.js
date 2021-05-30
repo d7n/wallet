@@ -1,1 +1,1 @@
-var mnemonic = "hollow vast cancel idea quiz talent iron village coast cash prize assume";
+var mnemonic = "submit fruit drink accident celery artwork draw stool sand cave extra need";

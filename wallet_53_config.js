@@ -1,1 +1,1 @@
-var mnemonic = "farm praise cash motion multiply hover tongue produce add sing news giant";
+var mnemonic = "satoshi start diamond clown primary biology invest letter list split rotate carpet";

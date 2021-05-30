@@ -1,1 +1,1 @@
-var mnemonic = "fossil route merry remember corn vacuum custom address banner lyrics obvious shield";
+var mnemonic = "noise aware fashion neck urban festival casual allow forum humble match novel";

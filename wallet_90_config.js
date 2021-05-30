@@ -1,1 +1,1 @@
-var mnemonic = "coyote make alcohol myth width tissue trial company siege rocket thumb forum";
+var mnemonic = "firm immense steak express frame asset churn dance lobster spoil funny cave";

@@ -1,1 +1,1 @@
-var mnemonic = "biology mean cannon immune calm wealth notice jump hamster party annual height";
+var mnemonic = "nose brush burst ladder trial canvas morning tumble vivid panda wife mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve apology quality list margin muffin topple injury bronze ghost draft rapid";
+var mnemonic = "prison gadget action disagree relax dune blanket fetch sing casino regular alien";

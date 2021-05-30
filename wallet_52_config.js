@@ -1,1 +1,1 @@
-var mnemonic = "chase naive risk charge urge poet orient people disease gesture shuffle fence";
+var mnemonic = "sniff stick burst spawn grocery finish render wish forget toss mechanic glass";

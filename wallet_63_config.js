@@ -1,1 +1,1 @@
-var mnemonic = "fault tape antenna sleep income canal blade pride strategy spot cement human";
+var mnemonic = "damage horn enroll illness option radio inspire praise manage acoustic access random";

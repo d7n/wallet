@@ -1,1 +1,1 @@
-var mnemonic = "horse manual mammal shove chronic stick agent toast income oyster service apple";
+var mnemonic = "hurdle ordinary enact amazing submit key kidney proud tennis local orchard adult";

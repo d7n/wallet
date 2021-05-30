@@ -1,1 +1,1 @@
-var mnemonic = "deal rely wing spell leave tiger reduce camp labor van disagree cricket";
+var mnemonic = "index garlic love budget copper when pulse sure blast credit jealous blush";

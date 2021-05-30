@@ -1,1 +1,1 @@
-var mnemonic = "shock only stairs open awake lonely duck silk cousin detail soon again";
+var mnemonic = "ostrich violin entire clay roast detail much warfare flame maze whisper detect";

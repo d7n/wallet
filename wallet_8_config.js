@@ -1,1 +1,1 @@
-var mnemonic = "view radar genuine exercise tool pony mean focus museum oblige blade region";
+var mnemonic = "length crush luxury hurt such volume air ship heart sentence battle love";

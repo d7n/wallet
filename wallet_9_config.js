@@ -1,1 +1,1 @@
-var mnemonic = "neither betray lottery silent penalty range tumble movie regret pledge file sentence";
+var mnemonic = "will hammer budget forest wasp comfort manual fragile inmate oyster divert type";

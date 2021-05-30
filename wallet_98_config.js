@@ -1,1 +1,1 @@
-var mnemonic = "goose sadness crime entire use lyrics glow renew thing kingdom wedding stuff";
+var mnemonic = "chat zebra poem cool transfer little frown ball soon broken decrease either";

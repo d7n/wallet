@@ -1,1 +1,1 @@
-var mnemonic = "dial unable where quantum loan dose logic protect annual diet trust client";
+var mnemonic = "skin roast grit planet veteran tumble family dove segment artefact jaguar chief";

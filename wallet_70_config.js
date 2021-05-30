@@ -1,1 +1,1 @@
-var mnemonic = "obvious recall glare peace what memory labor maid industry sibling crack gauge";
+var mnemonic = "argue alien unaware circle degree vivid defense limb aisle clay firm smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "square material position rug twist that forum artwork key mouse bubble claim";
+var mnemonic = "balcony wrist collect income title family head vanish voice frown budget carry";

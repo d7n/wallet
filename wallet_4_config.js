@@ -1,1 +1,1 @@
-var mnemonic = "measure bean story mushroom need ancient mass fine script joy start flavor";
+var mnemonic = "diagram river burst hip stem split job obtain act venture train artwork";

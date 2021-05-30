@@ -1,1 +1,1 @@
-var mnemonic = "guitar brief staff cash young brush shop cigar risk celery deny father";
+var mnemonic = "doctor alert sponsor load stand avocado ignore primary milk cluster project deliver";

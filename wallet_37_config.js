@@ -1,1 +1,1 @@
-var mnemonic = "absorb feature tattoo boil build home chair wisdom angry liar rough field";
+var mnemonic = "stone lottery boss now mistake festival vocal social solar venue spatial hungry";

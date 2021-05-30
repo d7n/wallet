@@ -1,1 +1,1 @@
-var mnemonic = "taste split define oyster viable depend simple afford primary term scare occur";
+var mnemonic = "axis fruit toilet appear pretty knife alone cinnamon sniff clever client grain";

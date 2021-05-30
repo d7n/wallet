@@ -1,1 +1,1 @@
-var mnemonic = "release churn response midnight garage exclude nephew party proof walnut olive rural";
+var mnemonic = "exotic number erase admit element twelve miracle almost reunion ordinary recycle erase";

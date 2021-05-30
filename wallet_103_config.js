@@ -1,1 +1,1 @@
-var mnemonic = "celery helmet anxiety ready uncle ordinary correct okay fun nut hire again";
+var mnemonic = "tube rare test permit deposit before flame visit awkward bottom toward proud";

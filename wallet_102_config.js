@@ -1,1 +1,1 @@
-var mnemonic = "arm fragile vivid truly barely soap bitter attract bitter unfair slow original";
+var mnemonic = "story will target play law inmate palace voyage math aunt broccoli wall";

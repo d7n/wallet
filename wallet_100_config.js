@@ -1,1 +1,1 @@
-var mnemonic = "recycle craft jealous salad van bird perfect chaos artefact movie large dress";
+var mnemonic = "maple rude answer glue cheap empty clarify title cradle volcano real amused";

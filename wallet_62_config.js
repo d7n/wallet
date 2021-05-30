@@ -1,1 +1,1 @@
-var mnemonic = "admit lab spell pudding paper erode home sibling shadow topple siren divorce";
+var mnemonic = "media usual spin slender like dinosaur bunker grass advance ketchup select sort";

@@ -1,1 +1,1 @@
-var mnemonic = "cause story stereo glimpse pottery pluck volcano novel piece citizen popular ankle";
+var mnemonic = "shove upgrade raven solar employ canyon carry seven snack maid broom check";
