@@ -1,1 +1,1 @@
-var mnemonic = "speak thought pumpkin tray canoe hour delay route hip shadow monkey service";
+var mnemonic = "battle hotel diesel flag amateur mercy leopard icon alert plug regular region";

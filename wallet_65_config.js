@@ -1,1 +1,1 @@
-var mnemonic = "shock physical goose horror license valve report around pigeon athlete envelope quarter";
+var mnemonic = "satoshi trend shy defy allow harvest rebel board parrot ghost usual moment";

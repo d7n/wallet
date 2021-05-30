@@ -1,1 +1,1 @@
-var mnemonic = "apart rude doctor hungry famous rookie arena subway talk company squeeze pyramid";
+var mnemonic = "sting sausage toddler hurry wine feature lady resource labor mother way palace";

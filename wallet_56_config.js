@@ -1,1 +1,1 @@
-var mnemonic = "icon jealous garment season napkin acquire deny heavy blue deer doll skin";
+var mnemonic = "much aerobic chimney increase stomach rigid aware broken have endorse choice destroy";

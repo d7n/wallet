@@ -1,1 +1,1 @@
-var mnemonic = "toast enact film safe heart someone gain ordinary senior school finger diesel";
+var mnemonic = "lady direct hedgehog picnic unable omit volcano turn elite cinnamon cash say";

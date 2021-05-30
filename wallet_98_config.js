@@ -1,1 +1,1 @@
-var mnemonic = "clog snap antenna window deer choice mesh capable skin crop bachelor organ";
+var mnemonic = "lobster forget civil thumb chat obscure foot patch diary skirt green weather";

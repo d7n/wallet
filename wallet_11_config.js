@@ -1,1 +1,1 @@
-var mnemonic = "used degree idea duck fix actor swear give entry flower upon black";
+var mnemonic = "view noise force antique belt very very begin leader shop trim direct";

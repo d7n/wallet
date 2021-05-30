@@ -1,1 +1,1 @@
-var mnemonic = "lounge will another raven today fence slide trick sail puzzle reopen fence";
+var mnemonic = "hero atom regular window fold fatal easily miss gather strong health very";

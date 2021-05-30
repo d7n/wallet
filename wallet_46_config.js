@@ -1,1 +1,1 @@
-var mnemonic = "rack jar foil open dawn casino rotate harvest start riot neutral upon";
+var mnemonic = "wool burger credit chair fall typical alien charge kitchen rigid ramp vessel";

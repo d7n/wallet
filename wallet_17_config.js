@@ -1,1 +1,1 @@
-var mnemonic = "begin spice soup license myself token exit pave file stairs exist nest";
+var mnemonic = "guard hungry member drastic soon scale bitter decade devote sunset rubber bid";

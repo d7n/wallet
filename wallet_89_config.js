@@ -1,1 +1,1 @@
-var mnemonic = "gadget survey wrap make remain lens law trouble horse under work gadget";
+var mnemonic = "amateur patch crucial upgrade copy chronic apology axis fat image tuna return";

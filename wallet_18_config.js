@@ -1,1 +1,1 @@
-var mnemonic = "situate body grace prosper boat bamboo extend mutual alien weekend spice property";
+var mnemonic = "grass bracket stock fossil poet board adjust wife cage lunar behind change";

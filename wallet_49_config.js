@@ -1,1 +1,1 @@
-var mnemonic = "border impose volume tomorrow wet system gadget shield hospital pill damage skirt";
+var mnemonic = "various used chapter blood ignore screen organ seat then much wheel left";

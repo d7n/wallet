@@ -1,1 +1,1 @@
-var mnemonic = "brass seven patrol path amused shy anchor fossil mechanic key account ahead";
+var mnemonic = "impulse goose wrestle ridge hold gown route achieve abandon wonder major patrol";

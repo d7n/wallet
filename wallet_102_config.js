@@ -1,1 +1,1 @@
-var mnemonic = "grunt submit desk champion inform pause oven vocal target open lady modify";
+var mnemonic = "child magic chimney way orange onion upon honey ordinary only east foot";

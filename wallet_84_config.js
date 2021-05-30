@@ -1,1 +1,1 @@
-var mnemonic = "author thank green bomb myself throw odor annual enemy govern credit mango";
+var mnemonic = "ridge settle exchange piece mail wasp all clutch remind until ski humble";

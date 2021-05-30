@@ -1,1 +1,1 @@
-var mnemonic = "board girl champion dune twelve direct wish camera arrive essence venue balcony";
+var mnemonic = "judge quiz vibrant pluck human legend level fly floor lens enroll west";

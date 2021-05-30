@@ -1,1 +1,1 @@
-var mnemonic = "foster draft lawn goose cool exhibit seed village friend cousin draw half";
+var mnemonic = "relax dutch mom resource human artist virus horse kick tourist camera clock";

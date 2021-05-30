@@ -1,1 +1,1 @@
-var mnemonic = "moment tired wheat echo guitar unlock immense congress join front awful employ";
+var mnemonic = "jump paper knock amount earth sheriff display wire pupil mystery uniform damp";

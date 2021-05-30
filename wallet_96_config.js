@@ -1,1 +1,1 @@
-var mnemonic = "device tide remind risk spot produce beauty blue glow same memory floor";
+var mnemonic = "omit remain suffer accuse this control monitor wrestle found wisdom next boost";

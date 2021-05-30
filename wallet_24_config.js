@@ -1,1 +1,1 @@
-var mnemonic = "faith symbol hood loan relief possible picnic metal hole tongue quarter maid";
+var mnemonic = "cook share mistake cake maid swing stick color hockey nephew feel sunny";

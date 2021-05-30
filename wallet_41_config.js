@@ -1,1 +1,1 @@
-var mnemonic = "swap husband output quarter excess frost cancel pioneer orphan panic ability annual";
+var mnemonic = "riot skull goose small great embrace envelope crisp spring toe wild divorce";

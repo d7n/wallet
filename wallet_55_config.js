@@ -1,1 +1,1 @@
-var mnemonic = "firm muffin quote claw under credit cash brown card arch add bronze";
+var mnemonic = "blue crime member congress mouse daughter twenty jelly scout box mansion excess";

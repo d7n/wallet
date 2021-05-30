@@ -1,1 +1,1 @@
-var mnemonic = "resource reopen fit fantasy quote hair belt below success kitchen betray near";
+var mnemonic = "ship agree snake advice conduct dizzy eye usual tiger soft paper thank";

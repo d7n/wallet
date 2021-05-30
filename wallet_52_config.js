@@ -1,1 +1,1 @@
-var mnemonic = "edge west enhance baby rocket toss spring canal shiver october recipe salad";
+var mnemonic = "alone old supreme tree inside cave collect prison topic gold heavy dish";

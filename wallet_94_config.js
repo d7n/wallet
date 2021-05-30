@@ -1,1 +1,1 @@
-var mnemonic = "fresh snack exact lens gift lens large random repeat spread attitude observe";
+var mnemonic = "save cliff weekend method okay magic carbon output police sunny bicycle sing";

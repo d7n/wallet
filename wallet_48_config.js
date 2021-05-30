@@ -1,1 +1,1 @@
-var mnemonic = "biology taxi vacuum happy garment sense afraid ranch ketchup injury nurse term";
+var mnemonic = "mammal west spider tell true member feed smooth wrist sketch much cute";

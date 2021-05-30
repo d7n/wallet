@@ -1,1 +1,1 @@
-var mnemonic = "merry leader another later bulb tube payment car real drip bronze dinner";
+var mnemonic = "burger veteran mule antenna sand dolphin turtle flush whip use rude scatter";

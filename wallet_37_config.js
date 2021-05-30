@@ -1,1 +1,1 @@
-var mnemonic = "clump ship regret nasty river boring absorb fork about stone ready arrange";
+var mnemonic = "debris present allow quit image army grain try bargain forward axis glory";

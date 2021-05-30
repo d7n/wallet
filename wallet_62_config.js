@@ -1,1 +1,1 @@
-var mnemonic = "option viable maid museum flip jungle salon moral piece oppose blade kidney";
+var mnemonic = "glad hand barely supreme lottery solid warm dwarf trouble pen lawsuit ask";

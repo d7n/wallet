@@ -1,1 +1,1 @@
-var mnemonic = "milk virtual rally rail manage actress banner style glass ecology predict system";
+var mnemonic = "topple fabric prefer choose garden cable climb eternal clean canvas six hundred";

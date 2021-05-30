@@ -1,1 +1,1 @@
-var mnemonic = "hood arrange cattle quit exotic later recipe pizza zebra brush call salute";
+var mnemonic = "suggest ready off board job phone rate kiwi wire prize hollow coil";

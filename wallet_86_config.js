@@ -1,1 +1,1 @@
-var mnemonic = "august sick must slush mule pact carbon convince toddler produce gentle limit";
+var mnemonic = "cube common address client pull toast setup aunt major high barrel merge";

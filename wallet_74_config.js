@@ -1,1 +1,1 @@
-var mnemonic = "only gold leaf observe service dynamic snack fatal warfare collect very display";
+var mnemonic = "hope certain powder upon since tribe segment together spider wedding ocean rail";

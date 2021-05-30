@@ -1,1 +1,1 @@
-var mnemonic = "into into wrist burger sense then ticket hundred enter chest law force";
+var mnemonic = "ahead jar vibrant drastic void retire demand easily cool soap gospel bar";

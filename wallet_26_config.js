@@ -1,1 +1,1 @@
-var mnemonic = "napkin hurt grant either country path edge flame upgrade myth inflict season";
+var mnemonic = "dumb sing toast group cook limb pond cupboard dream wool ignore quote";

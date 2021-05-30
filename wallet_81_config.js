@@ -1,1 +1,1 @@
-var mnemonic = "job slot olympic shoot relief extra wave powder coconut humor bounce begin";
+var mnemonic = "erosion husband roof double ugly mammal salt attend machine cricket nation atom";

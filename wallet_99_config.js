@@ -1,1 +1,1 @@
-var mnemonic = "trial master milk virus dynamic snake gentle patch coin team pig horror";
+var mnemonic = "scale battle regular unveil van depend usage dose domain lawsuit poet hammer";

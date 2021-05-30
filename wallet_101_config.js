@@ -1,1 +1,1 @@
-var mnemonic = "escape identify mechanic cross assist diesel dragon slam aisle twice balance movie";
+var mnemonic = "swim phone sock guess supply fiction bounce develop laundry spawn forum crouch";

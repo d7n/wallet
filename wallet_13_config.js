@@ -1,1 +1,1 @@
-var mnemonic = "future oppose swim biology agree near hunt mixture match rhythm father mix";
+var mnemonic = "claim sail reform already execute slush net obscure rude boost first outer";

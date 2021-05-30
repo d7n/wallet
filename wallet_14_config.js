@@ -1,1 +1,1 @@
-var mnemonic = "benefit corn quit about mad polar despair teach beauty gas bullet thing";
+var mnemonic = "sunset cage judge hammer stamp lady trip virtual test gossip chef joke";

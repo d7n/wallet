@@ -1,1 +1,1 @@
-var mnemonic = "vintage popular husband weasel web injury unaware pioneer shop scout pond leopard";
+var mnemonic = "hockey twelve market machine crowd stumble file fiber panda another combine income";

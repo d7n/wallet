@@ -1,1 +1,1 @@
-var mnemonic = "dial chimney stay seed piece myself divide square lake lunch special veteran";
+var mnemonic = "bird excuse chimney exact extend plunge recall benefit funny vivid cup lamp";

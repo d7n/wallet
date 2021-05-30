@@ -1,1 +1,1 @@
-var mnemonic = "polar supreme august rebel still suffer miss coin undo strong normal trap";
+var mnemonic = "bicycle bicycle comfort waste can denial forward gospel urban lounge taste ecology";

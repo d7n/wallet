@@ -1,1 +1,1 @@
-var mnemonic = "canal crater garlic ankle people health alert album congress coconut reason reunion";
+var mnemonic = "nest waste fatigue then position coast reopen palace team juice area stay";

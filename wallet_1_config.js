@@ -1,1 +1,1 @@
-var mnemonic = "town sentence major stairs glare example goddess exile gloom pioneer thrive erase";
+var mnemonic = "rapid daring play tail menu ritual palm divide gym crawl script put";

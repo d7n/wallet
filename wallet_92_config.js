@@ -1,1 +1,1 @@
-var mnemonic = "canyon gossip excess unaware access lesson slogan rich invite wife around try";
+var mnemonic = "naive claim pyramid position impose pact gaze range canal paddle bridge goat";

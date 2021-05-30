@@ -1,1 +1,1 @@
-var mnemonic = "sunny double crazy achieve jewel will team valve turtle genre tank donate";
+var mnemonic = "logic rally bomb feed own joy ranch blind valley kid pupil prosper";

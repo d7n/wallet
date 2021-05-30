@@ -1,1 +1,1 @@
-var mnemonic = "company snap private rough primary install apple mercy buyer volume load old";
+var mnemonic = "sail cheese notice impose select nerve fiscal diamond jar attitude claim glad";

@@ -1,1 +1,1 @@
-var mnemonic = "month warfare morning merry napkin relax attitude crush dilemma blast depth exclude";
+var mnemonic = "salmon small client buddy rally trap cactus idle guitar wonder ignore dust";

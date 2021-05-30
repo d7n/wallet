@@ -1,1 +1,1 @@
-var mnemonic = "liar visit gown anger palace universe beauty tooth infant only split apart";
+var mnemonic = "notice flock almost opera layer fork alarm monster symbol engage resemble edit";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude seminar write approve gallery duty lemon maid purchase clump auction tone";
+var mnemonic = "atom caution smoke lyrics useful oval comfort hole main visa interest frost";

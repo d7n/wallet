@@ -1,1 +1,1 @@
-var mnemonic = "erode glass six liberty suggest kitchen clutch slide until feel today unknown";
+var mnemonic = "ramp kitten bomb ribbon twin tornado avocado genuine afford rival accuse present";

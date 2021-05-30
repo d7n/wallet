@@ -1,1 +1,1 @@
-var mnemonic = "rabbit mother inspire loud find scale time victory fat blind fog swamp";
+var mnemonic = "chest abuse will plug coil fiction call van clinic like disease abstract";

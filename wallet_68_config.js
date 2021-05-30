@@ -1,1 +1,1 @@
-var mnemonic = "bulb clog identify knife bargain office depart suit lucky route assist wool";
+var mnemonic = "tip race federal prosper nation wrist picture advice impulse level puppy train";

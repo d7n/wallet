@@ -1,1 +1,1 @@
-var mnemonic = "keen vast coffee rival curtain leopard chicken betray fringe vicious unable arrive";
+var mnemonic = "pear lucky guess grow proud gaze nature sibling intact upset game van";

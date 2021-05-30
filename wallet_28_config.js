@@ -1,1 +1,1 @@
-var mnemonic = "volume tank turkey season address love arrow craft glory comic result pupil";
+var mnemonic = "dragon peasant burger husband anchor useful sign cargo hospital reason bitter vivid";

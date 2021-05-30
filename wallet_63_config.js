@@ -1,1 +1,1 @@
-var mnemonic = "gym shell brush wolf fluid race tide monitor inch govern whisper inside";
+var mnemonic = "fossil push chimney raven grit pig regret smart sand skull term gravity";

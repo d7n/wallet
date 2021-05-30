@@ -1,1 +1,1 @@
-var mnemonic = "robust skirt escape crane right off grace tube crumble alarm outer muscle";
+var mnemonic = "crew normal diary bulk hobby surge neck diet weasel chapter plastic focus";

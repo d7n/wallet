@@ -1,1 +1,1 @@
-var mnemonic = "reward bomb near inmate inherit lens midnight wise inherit small denial local";
+var mnemonic = "enlist thank middle salmon way modify ozone jewel humor vintage key cool";

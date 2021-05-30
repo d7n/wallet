@@ -1,1 +1,1 @@
-var mnemonic = "feel burger chaos home pencil perfect cinnamon car crime tent sick hidden";
+var mnemonic = "design angry surface hollow glass tornado radio tooth twin false chaos loan";

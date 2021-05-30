@@ -1,1 +1,1 @@
-var mnemonic = "bicycle such tower slab trust chalk unveil book quote soap anger snap";
+var mnemonic = "girl sell mechanic priority task pluck endorse attend across jungle pulse verb";

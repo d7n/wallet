@@ -1,1 +1,1 @@
-var mnemonic = "sea stumble donor shop various corn sell camera strategy news general tongue";
+var mnemonic = "soup dress grunt live there sheriff feature science student payment eye whale";

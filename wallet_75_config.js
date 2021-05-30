@@ -1,1 +1,1 @@
-var mnemonic = "scrub cross turtle horn gym bonus monitor border setup divert flee sample";
+var mnemonic = "oppose ritual profit evil auction snap enable hold crumble mass corn final";

@@ -1,1 +1,1 @@
-var mnemonic = "program suspect uniform voyage cover era cost alpha dinner leopard midnight actual";
+var mnemonic = "victory click holiday observe bus adult blast whale allow grant simple smoke";

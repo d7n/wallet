@@ -1,1 +1,1 @@
-var mnemonic = "grocery jeans region adjust develop sweet half run gasp invite milk farm";
+var mnemonic = "quiz palace glide polar swift devote brother holiday goat nerve expect insect";

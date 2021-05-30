@@ -1,1 +1,1 @@
-var mnemonic = "can fashion wrap flavor hard economy rabbit stable game help room gravity";
+var mnemonic = "spread maze movie cage crouch cover road cycle invest stool mistake benefit";

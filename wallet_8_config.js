@@ -1,1 +1,1 @@
-var mnemonic = "ozone source drink traffic clerk sketch today axis cheap hospital culture bid";
+var mnemonic = "fresh engage print mango else sleep cactus taxi humor because squirrel act";

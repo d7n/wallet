@@ -1,1 +1,1 @@
-var mnemonic = "tennis nephew opera clarify exhaust camera hospital warrior find usual modify beef";
+var mnemonic = "fun cry pattern capital reunion trumpet chaos path loyal thought post kind";

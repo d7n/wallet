@@ -1,1 +1,1 @@
-var mnemonic = "next hockey elegant gap gallery broom grid wear army either fruit power";
+var mnemonic = "area empower fetch unlock voyage faculty crater suit make tail ready better";

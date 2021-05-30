@@ -1,1 +1,1 @@
-var mnemonic = "coffee used exotic wrestle certain panther level slow random crowd easily acquire";
+var mnemonic = "note earth heavy shiver moon cross ranch jaguar round decide joy census";

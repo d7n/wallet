@@ -1,1 +1,1 @@
-var mnemonic = "humor ghost fade nature devote toddler system resist three gap transfer naive";
+var mnemonic = "sword shield name major muscle replace search voyage measure approve assist finish";

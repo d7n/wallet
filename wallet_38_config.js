@@ -1,1 +1,1 @@
-var mnemonic = "age open idle snap panther pioneer nurse monitor van wink easy paddle";
+var mnemonic = "evidence napkin half prize ten neck miracle tennis true spend tag meadow";

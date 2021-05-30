@@ -1,1 +1,1 @@
-var mnemonic = "endorse doctor flat album brief become depart paper century orbit harvest honey";
+var mnemonic = "fashion bind vast language donate dream furnace person boss amateur raccoon access";

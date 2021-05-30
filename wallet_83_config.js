@@ -1,1 +1,1 @@
-var mnemonic = "brass better special recycle need during regret light ramp riot crash grow";
+var mnemonic = "snack kingdom hurt govern human view magnet upper useful theme horn file";

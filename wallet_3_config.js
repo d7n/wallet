@@ -1,1 +1,1 @@
-var mnemonic = "paddle kiss swarm snake brush print kingdom more plastic fox subway flash";
+var mnemonic = "drop kitten police flip stomach fluid enroll aware grape across balance chaos";

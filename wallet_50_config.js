@@ -1,1 +1,1 @@
-var mnemonic = "fresh boss style art sun paddle degree any finish salmon tube envelope";
+var mnemonic = "shrimp crime erode cute kind law marble taxi law bomb phrase bracket";

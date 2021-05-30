@@ -1,1 +1,1 @@
-var mnemonic = "beyond science wealth travel vicious shrimp achieve social actress fit tenant snack";
+var mnemonic = "curve lens stereo prefer orange mobile nurse acid perfect vendor suspect swear";

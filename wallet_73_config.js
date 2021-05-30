@@ -1,1 +1,1 @@
-var mnemonic = "man moment clay brush angle raw dinosaur loud space length give second";
+var mnemonic = "follow eye focus grunt wave net primary ancient jungle silk moral history";

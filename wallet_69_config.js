@@ -1,1 +1,1 @@
-var mnemonic = "ability soon drift winner decline impose eternal result visa absurd crawl accident";
+var mnemonic = "they betray tide chapter embody country crucial matrix chunk movie step shed";

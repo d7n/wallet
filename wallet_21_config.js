@@ -1,1 +1,1 @@
-var mnemonic = "split anger moral drama execute axis maze story subway indoor put elegant";
+var mnemonic = "cycle people device penalty fire world huge neither stumble choice invite squeeze";

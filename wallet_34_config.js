@@ -1,1 +1,1 @@
-var mnemonic = "super flower lonely obtain ginger hand call level all grocery gentle duty";
+var mnemonic = "glass upset number say flash nominee imitate acoustic act brown tip addict";

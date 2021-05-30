@@ -1,1 +1,1 @@
-var mnemonic = "economy boy kid cushion umbrella kangaroo course endless draft fire exact explain";
+var mnemonic = "person lava already attitude tourist inside van wire ribbon urban industry nurse";

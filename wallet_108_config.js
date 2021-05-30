@@ -1,1 +1,1 @@
-var mnemonic = "circle switch surround lake spring other lemon useful talent slide sibling behave";
+var mnemonic = "issue name certain meat toward such race casual spider pill risk unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "section brief resist today test slogan waste modify casino animal noodle stick";
+var mnemonic = "enough fetch window cross truly slam coast winner twin jewel agent jealous";

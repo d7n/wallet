@@ -1,1 +1,1 @@
-var mnemonic = "over title loyal taste present pull collect balcony robot pretty into oven";
+var mnemonic = "false chicken silent warm question crush curtain census view sell round such";

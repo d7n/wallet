@@ -1,1 +1,1 @@
-var mnemonic = "vehicle test bench world hen couple squirrel raw ensure yard piano again";
+var mnemonic = "chimney margin tornado arrange tattoo bind base tortoise nominee love tail belt";

@@ -1,1 +1,1 @@
-var mnemonic = "crane bachelor owner design crumble century test pepper marble flag agent obtain";
+var mnemonic = "inspire cover dentist decade film vote catalog punch trumpet balance long indicate";

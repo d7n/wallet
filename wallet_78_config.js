@@ -1,1 +1,1 @@
-var mnemonic = "crawl amateur fly paddle carpet enter cigar flight island luggage mercy check";
+var mnemonic = "quick icon try park roast cool fringe rule fashion elegant arctic fitness";
