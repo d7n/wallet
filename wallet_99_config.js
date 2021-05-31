@@ -1,1 +1,1 @@
-var mnemonic = "rural minimum oxygen recall remember fix naive rapid alpha confirm erupt near";
+var mnemonic = "tourist lyrics wool kidney reunion thought chronic craft hybrid flower just certain";

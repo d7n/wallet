@@ -1,1 +1,1 @@
-var mnemonic = "sail sun differ purpose joke wreck swamp forest soap satisfy crater chat";
+var mnemonic = "flock flame ball lock radar conduct firm couple digital sniff nothing sphere";

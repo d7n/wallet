@@ -1,1 +1,1 @@
-var mnemonic = "prepare illegal business tone cancel stomach piece hybrid crowd agent glove vague";
+var mnemonic = "joke allow excuse nothing motor attitude heavy ramp reject leave basic margin";

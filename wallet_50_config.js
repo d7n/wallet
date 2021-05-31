@@ -1,1 +1,1 @@
-var mnemonic = "exact rib panther picnic delay wine danger library puppy noble define payment";
+var mnemonic = "tilt final snap bird slender solution print rib wood spatial trust rigid";

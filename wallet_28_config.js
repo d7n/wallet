@@ -1,1 +1,1 @@
-var mnemonic = "adult rate project head spice damp people gauge discover pattern survey barely";
+var mnemonic = "marble tourist waste spare inherit audit mouse follow panda panic coin liquid";

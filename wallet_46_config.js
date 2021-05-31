@@ -1,1 +1,1 @@
-var mnemonic = "theory wet icon congress urban core leg gentle page drama alert choice";
+var mnemonic = "burden boil arrive bronze seat shop news insect rib since quote icon";

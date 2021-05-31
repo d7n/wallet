@@ -1,1 +1,1 @@
-var mnemonic = "about club bounce crucial acid mass furnace spirit second just clap riot";
+var mnemonic = "glass water wink alcohol salon ring donate weather grace strategy salute air";

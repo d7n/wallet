@@ -1,1 +1,1 @@
-var mnemonic = "olympic climb game scene soup thumb chuckle between grant lyrics reopen funny";
+var mnemonic = "weapon oxygen unit jazz strategy junior illness sniff life loop this unaware";

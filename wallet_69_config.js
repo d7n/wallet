@@ -1,1 +1,1 @@
-var mnemonic = "disorder now pet token taxi village rapid coconut afraid vendor drop future";
+var mnemonic = "vocal cigar huge turtle whisper enter nominee evolve divorce observe memory play";

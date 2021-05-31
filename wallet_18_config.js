@@ -1,1 +1,1 @@
-var mnemonic = "use blush switch arrive clutch moral stage current indicate damp notice trigger";
+var mnemonic = "coach total mimic next monster double hello output patient echo sun voice";

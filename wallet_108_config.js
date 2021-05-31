@@ -1,1 +1,1 @@
-var mnemonic = "dry kiss pigeon unable enforce trick ramp sure velvet inquiry blue now";
+var mnemonic = "runway race west wing pilot enable tell train betray calm laundry act";

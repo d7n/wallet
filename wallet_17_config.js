@@ -1,1 +1,1 @@
-var mnemonic = "update bracket mouse pact acquire lemon network vibrant nice blade afraid viable";
+var mnemonic = "finish era similar normal grow tide ramp erase latin hour fault setup";

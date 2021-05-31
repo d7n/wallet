@@ -1,1 +1,1 @@
-var mnemonic = "normal observe element nominee vicious twist arrest punch right link estate school";
+var mnemonic = "drink grief truth stem joke surface park neck exact season will during";

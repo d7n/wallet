@@ -1,1 +1,1 @@
-var mnemonic = "mimic cream guitar surround steel picture beef amused jaguar dinosaur sick air";
+var mnemonic = "foil dizzy able smoke olive derive group limit eternal lyrics tennis hollow";

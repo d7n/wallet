@@ -1,1 +1,1 @@
-var mnemonic = "market coral question source adapt object inherit route engine burger bachelor kiwi";
+var mnemonic = "doctor middle naive box diary since angry explain way attack cable august";

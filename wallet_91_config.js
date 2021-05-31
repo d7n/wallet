@@ -1,1 +1,1 @@
-var mnemonic = "pond inside slush video mixed armed movie fuel olive during gather elevator";
+var mnemonic = "equip trash nuclear earn actor vast occur anger south since prepare title";

@@ -1,1 +1,1 @@
-var mnemonic = "better stadium spring topple season verb dust lend goat verb clump moral";
+var mnemonic = "timber credit old whip payment grape pioneer measure clutch envelope donor doll";

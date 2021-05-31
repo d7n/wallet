@@ -1,1 +1,1 @@
-var mnemonic = "kidney ball dumb coyote insane bridge bitter round royal omit balcony organ";
+var mnemonic = "anxiety october blur nerve foster dizzy push umbrella tonight future wink run";

@@ -1,1 +1,1 @@
-var mnemonic = "solve win subject arrest sadness recall select luggage hope crunch alter oil";
+var mnemonic = "develop patrol alert assault pave north intact problem scissors foil sphere sorry";

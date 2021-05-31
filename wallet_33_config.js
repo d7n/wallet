@@ -1,1 +1,1 @@
-var mnemonic = "debate daring enlist measure broom cheese climb pony laundry frog vessel height";
+var mnemonic = "strike liquid eagle believe lunar economy awkward artefact pen script cattle craft";

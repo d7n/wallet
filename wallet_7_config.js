@@ -1,1 +1,1 @@
-var mnemonic = "mule tenant abandon cloud sing skirt shy deliver female love reopen seek";
+var mnemonic = "cave close metal daughter gold hobby rose palm erupt travel have crawl";

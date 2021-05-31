@@ -1,1 +1,1 @@
-var mnemonic = "favorite news scan nice chuckle visit quote pattern actress wreck radio mushroom";
+var mnemonic = "column turkey candy thought grid doll undo kiwi walk habit chalk upper";

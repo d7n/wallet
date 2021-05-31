@@ -1,1 +1,1 @@
-var mnemonic = "west divide assist arena audit sell own trophy leopard minor abuse urge";
+var mnemonic = "ecology laptop million mule theory below glance say subject cage sort moment";

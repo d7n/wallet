@@ -1,1 +1,1 @@
-var mnemonic = "away purpose violin faculty exercise cigar sock crystal image inquiry luxury aisle";
+var mnemonic = "since casino base kingdom velvet fabric ice innocent robust cook aware burst";

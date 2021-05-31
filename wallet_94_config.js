@@ -1,1 +1,1 @@
-var mnemonic = "first resemble fee trade cushion hole flavor giant matter lumber truck able";
+var mnemonic = "glare assist wall dish advance fantasy then blood wall swift exclude air";

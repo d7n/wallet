@@ -1,1 +1,1 @@
-var mnemonic = "faint young filter valley plate thumb race trigger bunker rule lounge economy";
+var mnemonic = "ecology object march flash pause body shell common lion clarify air original";

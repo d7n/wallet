@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit issue veteran minimum salmon soul round receive garden wagon limit absorb";
+var mnemonic = "edit suspect mistake pet best noise cancel broom torch alpha song next";

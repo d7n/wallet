@@ -1,1 +1,1 @@
-var mnemonic = "runway primary print crash arrest call stone luxury churn million quit solution";
+var mnemonic = "clean casino amazing produce frost unlock scrub wrong render art guilt tape";

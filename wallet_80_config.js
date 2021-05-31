@@ -1,1 +1,1 @@
-var mnemonic = "exchange return finish slide swear honey advice coral pepper admit inherit piece";
+var mnemonic = "sight young grocery chimney orchard accuse powder crouch more hip notable series";

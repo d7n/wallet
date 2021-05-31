@@ -1,1 +1,1 @@
-var mnemonic = "ugly abstract artist retreat cattle pave change pigeon stomach green chicken option";
+var mnemonic = "supreme legal exist rough process arrive list satisfy artist kite laugh renew";

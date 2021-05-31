@@ -1,1 +1,1 @@
-var mnemonic = "saddle cigar wood sister dune modify wild trial tent diamond math best";
+var mnemonic = "maximum crystal light embrace empty predict magnet exit real submit someone chicken";

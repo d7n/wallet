@@ -1,1 +1,1 @@
-var mnemonic = "update foster arrow candy depart coast match struggle sock found smoke budget";
+var mnemonic = "foam opinion birth draft envelope latin return sick cabin prevent mushroom empty";

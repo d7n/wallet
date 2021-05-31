@@ -1,1 +1,1 @@
-var mnemonic = "shift glow fatigue online marriage increase couple spice theme announce kiwi turtle";
+var mnemonic = "turtle chase jeans garbage brand dinosaur coral humor yard cheap vague kid";

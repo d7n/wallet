@@ -1,1 +1,1 @@
-var mnemonic = "wrestle expire test song crisp faint calm hood match atom behind snap";
+var mnemonic = "broken fan response six humor food rack end accident buffalo opera brick";

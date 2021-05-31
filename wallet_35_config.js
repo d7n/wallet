@@ -1,1 +1,1 @@
-var mnemonic = "merit various time fancy maximum scrap agent online obey casual dose dwarf";
+var mnemonic = "earn spell trigger eight jewel mass add kit leave fog dog urban";

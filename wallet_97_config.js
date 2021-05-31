@@ -1,1 +1,1 @@
-var mnemonic = "margin stamp vapor wrist brick tuna match umbrella letter involve exercise digital";
+var mnemonic = "immune slow pull social figure arctic piano arrest aerobic train season action";

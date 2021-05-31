@@ -1,1 +1,1 @@
-var mnemonic = "virtual balcony milk tourist issue blue glance wish nasty motor milk envelope";
+var mnemonic = "network air problem feed identify provide liquid medal draft tuition win tag";

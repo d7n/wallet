@@ -1,1 +1,1 @@
-var mnemonic = "puppy polar random truth oil crowd need fiber bachelor vivid crucial credit";
+var mnemonic = "mobile paddle figure survey elegant peace abstract rifle thought trial rotate faith";

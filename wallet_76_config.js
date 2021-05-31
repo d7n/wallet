@@ -1,1 +1,1 @@
-var mnemonic = "police duty step buzz select bunker immune below genuine offer grass uncover";
+var mnemonic = "shoot gallery song task voyage crowd invest bird merry announce riot tunnel";

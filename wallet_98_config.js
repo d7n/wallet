@@ -1,1 +1,1 @@
-var mnemonic = "shield path zoo summer mother silent owner fish later diagram fall noise";
+var mnemonic = "head hour clever apart remove furnace pilot canoe hurry rival fragile soda";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest pair nurse festival submit master shiver tenant sunny unfold primary agree";
+var mnemonic = "rent atom bubble brand frozen theory expose they hand knock machine best";

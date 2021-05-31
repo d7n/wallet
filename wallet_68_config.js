@@ -1,1 +1,1 @@
-var mnemonic = "sausage horn practice coin north cram sword minor green endless poverty scene";
+var mnemonic = "rescue transfer panel gallery south theme lake metal hotel crowd canvas talent";

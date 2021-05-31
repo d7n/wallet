@@ -1,1 +1,1 @@
-var mnemonic = "scene chase title ankle toward off reform camp urge lake miss popular";
+var mnemonic = "profit blade salon kick only then fault eye business mystery phrase hospital";

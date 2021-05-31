@@ -1,1 +1,1 @@
-var mnemonic = "thrive gauge client token kit quantum message gentle squeeze left kiwi census";
+var mnemonic = "best hard universe script time off choice index evolve middle enrich country";

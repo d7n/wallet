@@ -1,1 +1,1 @@
-var mnemonic = "high stereo sugar embrace host cliff garment ribbon panel mom online future";
+var mnemonic = "sniff faculty supreme episode emotion link scorpion visa cannon deputy middle kingdom";

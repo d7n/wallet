@@ -1,1 +1,1 @@
-var mnemonic = "fancy machine hip claim hair abstract glimpse tuna number bicycle sun siren";
+var mnemonic = "clarify basket ritual tonight barely cheap hard tail wine wine obscure awkward";

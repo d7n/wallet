@@ -1,1 +1,1 @@
-var mnemonic = "chat gate pencil soft excuse salmon person mixed filter team awesome empower";
+var mnemonic = "donate moment oxygen become riot melt wisdom radar consider trap robust fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "post color dragon system comic habit job sad bachelor believe also settle";
+var mnemonic = "dad mass envelope zone claw win pledge injury brush scan candy tell";

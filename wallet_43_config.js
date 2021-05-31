@@ -1,1 +1,1 @@
-var mnemonic = "combine museum merge measure life topic dumb empty face rebel motion pear";
+var mnemonic = "sunny clean yellow lemon receive hen over grape target hip bitter test";

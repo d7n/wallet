@@ -1,1 +1,1 @@
-var mnemonic = "cube joy raccoon manual public pumpkin sad ocean eye balance sport toe";
+var mnemonic = "giraffe organ average brush mouse retire mention day napkin used garbage forget";

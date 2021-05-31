@@ -1,1 +1,1 @@
-var mnemonic = "ginger path wrist among clever gun future hotel because warfare cargo wear";
+var mnemonic = "sort stuff purchase unveil sphere cup example canyon idle wire shock demise";

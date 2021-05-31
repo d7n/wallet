@@ -1,1 +1,1 @@
-var mnemonic = "bag plate tomato bus erode ceiling wide artwork soup embrace loop priority";
+var mnemonic = "brand shock door rib warrior earn million atom pear cattle lonely measure";

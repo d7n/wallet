@@ -1,1 +1,1 @@
-var mnemonic = "space armor render conduct know credit squeeze prepare pattern report seven embark";
+var mnemonic = "absent able seven baby forest fiber adapt retire toddler lunar oak lock";

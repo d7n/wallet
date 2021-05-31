@@ -1,1 +1,1 @@
-var mnemonic = "link odor census finish glance leopard shiver universe setup regular else switch";
+var mnemonic = "rough august glimpse child convince sample extend weasel benefit card shuffle curtain";

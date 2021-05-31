@@ -1,1 +1,1 @@
-var mnemonic = "nephew parrot wait night little easily debate daughter elder okay bicycle immune";
+var mnemonic = "chronic room ride income excite october liar super rookie coyote hint eye";

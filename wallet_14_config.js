@@ -1,1 +1,1 @@
-var mnemonic = "stable surprise forum area scale supreme often notable remember focus bracket salt";
+var mnemonic = "reason girl valve describe sea vehicle flash pumpkin inch soldier hole expand";

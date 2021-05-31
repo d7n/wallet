@@ -1,1 +1,1 @@
-var mnemonic = "already soon wing neither finger check miss assist impact consider pipe vote";
+var mnemonic = "thing globe forest foam young ketchup update piece song step gesture fan";

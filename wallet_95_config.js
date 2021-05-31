@@ -1,1 +1,1 @@
-var mnemonic = "sweet dish medal obey flash letter such satisfy gasp hollow hard phone";
+var mnemonic = "improve absurd genuine action valid catalog oil source drink mixture unusual evidence";

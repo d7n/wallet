@@ -1,1 +1,1 @@
-var mnemonic = "start age promote divorce march zone outdoor opinion thunder payment horse solar";
+var mnemonic = "sick travel awesome swallow patrol october ivory scout badge cinnamon arrange moment";

@@ -1,1 +1,1 @@
-var mnemonic = "worry abuse amount law present shuffle riot hole drum phone recall wolf";
+var mnemonic = "breeze raven hedgehog squeeze entire item injury wrap tourist super good waste";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel sort girl brush daughter mirror win laundry joke hen right rain";
+var mnemonic = "track alone use correct slight print logic fade drift jeans suffer refuse";

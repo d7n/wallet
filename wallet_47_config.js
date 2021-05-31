@@ -1,1 +1,1 @@
-var mnemonic = "crime high clock stadium learn visit survey okay defense cigar grab female";
+var mnemonic = "cereal firm birth symptom law pen deliver panther reason leopard miracle mercy";

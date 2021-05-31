@@ -1,1 +1,1 @@
-var mnemonic = "garden nature flag chef ethics until link sick accuse hospital turtle green";
+var mnemonic = "dolphin judge stone fire favorite shrug blade unusual damp vapor sense exotic";

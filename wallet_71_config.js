@@ -1,1 +1,1 @@
-var mnemonic = "taste easily pitch appear timber gold harvest discover surround bulb behave kidney";
+var mnemonic = "help dash absorb local curtain box outside will merit fringe card dash";

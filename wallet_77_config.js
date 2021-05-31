@@ -1,1 +1,1 @@
-var mnemonic = "ginger chat circle can notice timber energy admit check crop item clip";
+var mnemonic = "mosquito orbit like chunk voice alert wool silver proud concert heavy concert";

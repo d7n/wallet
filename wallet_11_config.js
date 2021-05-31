@@ -1,1 +1,1 @@
-var mnemonic = "furnace prosper news organ fragile chief wall ginger expect engine kit aim";
+var mnemonic = "mammal expose filter hair divert enter tree cause window marine jungle symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "dash crumble leg youth video retire rain tuition spider suspect local lucky";
+var mnemonic = "say grief pudding forest hour enjoy ball reunion plate bicycle inquiry cupboard";

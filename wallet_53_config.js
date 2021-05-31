@@ -1,1 +1,1 @@
-var mnemonic = "black uphold intact employ helmet lamp ivory flag unhappy assault neutral minimum";
+var mnemonic = "alert eagle gesture minimum open margin retire number false tribe toss manage";

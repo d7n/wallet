@@ -1,1 +1,1 @@
-var mnemonic = "twelve seed again plunge crumble first slight unlock ostrich next column gold";
+var mnemonic = "teach deny bacon foster observe lady skin planet wild correct father around";

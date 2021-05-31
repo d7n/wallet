@@ -1,1 +1,1 @@
-var mnemonic = "village thank angle prize budget spy cereal image wheel pumpkin ripple clerk";
+var mnemonic = "leader tone today panther win escape gym energy student world produce use";

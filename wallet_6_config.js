@@ -1,1 +1,1 @@
-var mnemonic = "reject squeeze toilet fade orange bird cloth knock language fluid unfair sorry";
+var mnemonic = "gain search era shift effort void height wish idle action swarm inflict";

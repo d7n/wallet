@@ -1,1 +1,1 @@
-var mnemonic = "crawl dash tool ozone invite shy amount release aisle near month wine";
+var mnemonic = "journey exile flock disease spray exhaust ocean foil rescue glue evolve erase";

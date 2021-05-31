@@ -1,1 +1,1 @@
-var mnemonic = "ritual bitter lake duck much sight misery aspect sauce crew science motor";
+var mnemonic = "final lava nut agree time furnace fever play capable earth crater spider";

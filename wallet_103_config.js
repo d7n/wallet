@@ -1,1 +1,1 @@
-var mnemonic = "afraid tuna harvest tragic banner case cactus swim exit grid act wash";
+var mnemonic = "ordinary mutual step size raven electric razor quarter powder praise patrol ride";

@@ -1,1 +1,1 @@
-var mnemonic = "network broken good hint buffalo treat vocal engage fun alarm soda runway";
+var mnemonic = "battle orange master economy message duty once sample actor spy file wise";

@@ -1,1 +1,1 @@
-var mnemonic = "level estate harbor repair enjoy tired fog treat guitar task snack essence";
+var mnemonic = "amazing curtain slam kidney balcony sunny apple candy offer joy car mom";

@@ -1,1 +1,1 @@
-var mnemonic = "field leaf hair hard tuition bachelor winner helmet coin brush credit fiction";
+var mnemonic = "space wire airport bean elegant empower index tunnel deal poet oblige labor";

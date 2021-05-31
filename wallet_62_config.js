@@ -1,1 +1,1 @@
-var mnemonic = "ethics elevator spell illegal spring force hurt grid stove ceiling thrive climb";
+var mnemonic = "burst maid wrap advance spoil north hold giggle flee slim diesel work";

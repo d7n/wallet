@@ -1,1 +1,1 @@
-var mnemonic = "defy cover snake space sand correct proof opera castle lottery adjust elegant";
+var mnemonic = "april actor evoke scrap theory describe witness mutual trim shift direct stamp";

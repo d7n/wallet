@@ -1,1 +1,1 @@
-var mnemonic = "minimum spike used wall gain burst veteran brisk web cube caution bicycle";
+var mnemonic = "ripple vital satoshi scheme stem acid reflect kid burger pyramid stool domain";

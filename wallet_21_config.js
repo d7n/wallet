@@ -1,1 +1,1 @@
-var mnemonic = "juice rigid legend friend home kick hole age purity midnight true seminar";
+var mnemonic = "trend magnet shiver song update black gap winter chair viable blur debate";

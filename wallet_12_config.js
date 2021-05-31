@@ -1,1 +1,1 @@
-var mnemonic = "detect slim dawn glare tooth spice arrange sea spike ahead sail crush";
+var mnemonic = "monitor laundry inside light before crucial blade math patch submit match deal";

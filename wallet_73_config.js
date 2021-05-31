@@ -1,1 +1,1 @@
-var mnemonic = "bulb naive catalog family eagle embrace strategy aim bounce inject gate episode";
+var mnemonic = "like child issue visit small maximum repair across require raw crater slot";

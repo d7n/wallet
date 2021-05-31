@@ -1,1 +1,1 @@
-var mnemonic = "oblige comfort average poem outer dismiss fiction soda shift nerve aisle divorce";
+var mnemonic = "wreck cargo outer dust enroll shoulder math auction legend thunder above camp";

@@ -1,1 +1,1 @@
-var mnemonic = "master apple visual member thought smoke december key address path depart picture";
+var mnemonic = "bulb mushroom run damp scheme rotate grunt favorite chronic punch drink reason";

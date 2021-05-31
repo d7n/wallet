@@ -1,1 +1,1 @@
-var mnemonic = "business divide usage original catalog account move globe cradle agent crucial chase";
+var mnemonic = "very elbow success legend monster drastic route choice surprise amused reduce erosion";

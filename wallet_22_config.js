@@ -1,1 +1,1 @@
-var mnemonic = "ring direct mixture genre pizza hair truth unhappy shove basket alien panic";
+var mnemonic = "gas own ritual sign economy document involve kidney also beyond initial affair";

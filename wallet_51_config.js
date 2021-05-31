@@ -1,1 +1,1 @@
-var mnemonic = "blossom practice bullet battle art enforce edge oven oak master match yard";
+var mnemonic = "unfair era kangaroo genius dice public memory swarm room dumb tenant casino";

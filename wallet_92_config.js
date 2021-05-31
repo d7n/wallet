@@ -1,1 +1,1 @@
-var mnemonic = "kingdom salad coin merge gentle shoulder fever april prepare cake fiber canyon";
+var mnemonic = "two increase other race crystal inform admit vicious carbon humor maze inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "wear baby avoid portion frame hawk height economy flush luxury shoot banner";
+var mnemonic = "wasp eternal pond peanut abstract rifle wisdom behave top together festival poem";

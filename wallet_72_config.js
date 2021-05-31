@@ -1,1 +1,1 @@
-var mnemonic = "vague trumpet invite siren used jazz hedgehog fashion video grab salute real";
+var mnemonic = "violin pride fatigue drink myself fan aerobic trend tennis repair symptom twin";

@@ -1,1 +1,1 @@
-var mnemonic = "injury float begin vocal student decrease clap lift various fantasy swim celery";
+var mnemonic = "ceiling trash toy pumpkin novel usual march flat surround essay piano couch";

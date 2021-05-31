@@ -1,1 +1,1 @@
-var mnemonic = "deer liar arch dish youth one tortoise duty merge moral inspire type";
+var mnemonic = "become repair beef work tobacco immune coin since maple power clown cage";
