@@ -1,1 +1,1 @@
-var mnemonic = "lend security margin leave cactus example excite enrich tuna very rhythm zero";
+var mnemonic = "wedding secret clean ozone insane someone alarm document secret maximum crop waste";

@@ -1,1 +1,1 @@
-var mnemonic = "sample toss turkey polar tree nuclear fury pen visual wish matrix soon";
+var mnemonic = "sun rule boost outdoor unveil genuine coil leopard other scrap aunt scale";

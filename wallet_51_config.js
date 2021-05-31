@@ -1,1 +1,1 @@
-var mnemonic = "crucial degree match coil depart bundle rather either song tooth bind blanket";
+var mnemonic = "brand zero valley purchase since main detect hole sail omit oval ticket";

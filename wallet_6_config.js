@@ -1,1 +1,1 @@
-var mnemonic = "cherry hidden lion volume loud feature oil same oblige farm oppose leaf";
+var mnemonic = "penalty cheese juice best normal nest pelican slam grit spatial excess coconut";

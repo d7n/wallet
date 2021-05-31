@@ -1,1 +1,1 @@
-var mnemonic = "sing ship surge salt rich lounge there execute south nephew eternal emotion";
+var mnemonic = "favorite company alert stem original market luggage off relax orient govern slush";

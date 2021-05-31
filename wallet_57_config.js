@@ -1,1 +1,1 @@
-var mnemonic = "lyrics melody trial craft hammer crack client country caution toast brisk tuition";
+var mnemonic = "base journey weekend festival flavor lyrics faculty head scare task hover way";

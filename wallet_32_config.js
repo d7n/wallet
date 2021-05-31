@@ -1,1 +1,1 @@
-var mnemonic = "dog tuna code sell method sunny sleep more human book easy lady";
+var mnemonic = "whip forward length term army there stove arrest gas enact fiscal speed";

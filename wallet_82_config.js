@@ -1,1 +1,1 @@
-var mnemonic = "notable chat aunt unfold whisper tip claim shiver prosper gauge allow relief";
+var mnemonic = "solve annual diagram welcome blur weird ketchup traffic glove wing torch wide";

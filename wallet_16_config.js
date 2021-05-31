@@ -1,1 +1,1 @@
-var mnemonic = "task proof trash scheme noble social once hour useful oven history soda";
+var mnemonic = "hundred slender wish keen prosper early clap volcano quote pink remind slide";

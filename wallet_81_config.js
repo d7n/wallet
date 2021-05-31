@@ -1,1 +1,1 @@
-var mnemonic = "remain above level tragic group tell win victory liberty awful provide frozen";
+var mnemonic = "tree multiply stay phrase unveil behind drive island luggage wheat bulb mansion";

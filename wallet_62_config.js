@@ -1,1 +1,1 @@
-var mnemonic = "enrich hub dinosaur alarm second misery tissue surprise sponsor build elbow gauge";
+var mnemonic = "security shoe aisle video unfold bird hockey staff volume few burden moral";

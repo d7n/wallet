@@ -1,1 +1,1 @@
-var mnemonic = "broom skate coconut patrol amused supply sight antique matrix leader amount general";
+var mnemonic = "argue flight fringe crack goat wolf swift pottery mosquito tongue apology author";

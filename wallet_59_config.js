@@ -1,1 +1,1 @@
-var mnemonic = "tortoise better illegal they nation apology subway history rely dentist draft observe";
+var mnemonic = "canoe gather conduct pool recipe fury page month sound enforce shaft boy";

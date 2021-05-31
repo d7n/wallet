@@ -1,1 +1,1 @@
-var mnemonic = "grunt life plate copy shoot switch physical plate boss breeze element trick";
+var mnemonic = "crucial payment finish episode jump ball short rough load brother vote bamboo";

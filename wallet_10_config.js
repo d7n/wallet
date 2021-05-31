@@ -1,1 +1,1 @@
-var mnemonic = "change dilemma little embark cupboard pepper echo nurse where hedgehog switch put";
+var mnemonic = "trash camp monitor jeans echo prefer piece annual kangaroo brick sauce liberty";

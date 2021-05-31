@@ -1,1 +1,1 @@
-var mnemonic = "opinion insane priority pencil industry casual thought moral tuna square ticket together";
+var mnemonic = "pride very plug jealous repair swing view alter girl speed wise potato";

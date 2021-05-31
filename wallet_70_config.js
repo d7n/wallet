@@ -1,1 +1,1 @@
-var mnemonic = "egg subway fly eager now patient keep venture arena chunk wisdom dress";
+var mnemonic = "friend like large shiver sight much cactus away puppy bulb cloth language";

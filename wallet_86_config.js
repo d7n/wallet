@@ -1,1 +1,1 @@
-var mnemonic = "pause stove open cycle delay motor heart twenty history trick jazz paper";
+var mnemonic = "gallery castle beyond switch ethics logic install finish depart crouch property empower";

@@ -1,1 +1,1 @@
-var mnemonic = "special avoid thing broom tooth weapon plate detect pair know nasty dutch";
+var mnemonic = "vast avoid fabric admit heavy six snack vintage steel change document among";

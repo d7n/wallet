@@ -1,1 +1,1 @@
-var mnemonic = "stable share note soccer copy middle enroll garage crowd couple order pen";
+var mnemonic = "minimum seven magic absorb crunch clever auto air satoshi ivory found post";

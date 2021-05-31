@@ -1,1 +1,1 @@
-var mnemonic = "skate awkward throw sense random pipe slot obey dizzy couch merit banner";
+var mnemonic = "father island casino usage furnace develop bus trend enact embrace tennis plastic";

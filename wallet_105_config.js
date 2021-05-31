@@ -1,1 +1,1 @@
-var mnemonic = "label fashion nest afford evil right decade garbage glass sheriff other bulb";
+var mnemonic = "vanish various sugar satisfy merge tail bone theme audit hood law assume";

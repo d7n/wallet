@@ -1,1 +1,1 @@
-var mnemonic = "rail require alpha position crush glow bunker account stairs actual fat daughter";
+var mnemonic = "cement flip walk gospel critic wasp basket pigeon dash mango volume apart";

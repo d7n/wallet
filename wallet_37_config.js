@@ -1,1 +1,1 @@
-var mnemonic = "crouch ready supply mountain foil pull balance act rent almost video matter";
+var mnemonic = "example gallery idle advice trophy congress property where bean grain witness visual";

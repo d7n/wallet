@@ -1,1 +1,1 @@
-var mnemonic = "walnut receive knee crunch enroll chicken stone cushion flash clean label puzzle";
+var mnemonic = "victory wish sugar erode exist amount fire area act team cactus major";

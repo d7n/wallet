@@ -1,1 +1,1 @@
-var mnemonic = "dust rural joke foot accident film light panda ocean stove chalk vicious";
+var mnemonic = "twelve thing famous summer legend gown unfold stomach modify rigid true evolve";

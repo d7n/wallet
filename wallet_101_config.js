@@ -1,1 +1,1 @@
-var mnemonic = "safe label shield anger carpet exhibit when castle engine recipe light brain";
+var mnemonic = "way print toe list endorse short disease punch success doctor kite brief";

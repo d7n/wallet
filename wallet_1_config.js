@@ -1,1 +1,1 @@
-var mnemonic = "success impose cave woman capital critic grab vehicle easily feature science large";
+var mnemonic = "mandate hurry hover crane blouse crash shield useless vote idea try viable";

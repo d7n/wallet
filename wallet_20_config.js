@@ -1,1 +1,1 @@
-var mnemonic = "mention miss feed husband unit bitter roast peace lamp smile area hero";
+var mnemonic = "crouch summer summer harsh gaze prison card method danger candy misery reward";

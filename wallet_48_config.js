@@ -1,1 +1,1 @@
-var mnemonic = "pause liquid sad equal text awake meat ranch reunion brave reward welcome";
+var mnemonic = "night snake fresh nominee oak destroy mechanic expand oil tennis process dance";

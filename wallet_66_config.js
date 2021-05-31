@@ -1,1 +1,1 @@
-var mnemonic = "hill door stereo shuffle decorate mixed zebra wonder all athlete first chunk";
+var mnemonic = "indicate life rule acquire fan glory defy bean monster duck raw dumb";

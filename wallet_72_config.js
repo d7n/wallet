@@ -1,1 +1,1 @@
-var mnemonic = "arm buddy bus trust goat mail cattle leaf pond excess actor sniff";
+var mnemonic = "hard keen token lift fire fat involve hurry snow write burger bone";

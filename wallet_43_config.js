@@ -1,1 +1,1 @@
-var mnemonic = "include major auction logic panther depth state soap festival great orbit isolate";
+var mnemonic = "valid alpha seed blast spawn oven bulk guess pledge drink stairs step";

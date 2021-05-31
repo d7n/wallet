@@ -1,1 +1,1 @@
-var mnemonic = "daring oxygen urban buyer forget weekend collect situate annual giggle engage dune";
+var mnemonic = "pepper pistol render label ice payment early hen home sand crater wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "one spatial goddess essence calm flavor season injury wrong canvas net lock";
+var mnemonic = "kidney post correct fog hood memory rescue legend vital seek bacon immense";

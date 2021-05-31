@@ -1,1 +1,1 @@
-var mnemonic = "gravity smart bone trip finish gauge fatigue arm angry film raise switch";
+var mnemonic = "perfect slab shrimp robot flower edit document track verb tackle jazz margin";

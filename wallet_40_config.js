@@ -1,1 +1,1 @@
-var mnemonic = "place tunnel stool once whale aerobic girl portion brain reduce plate wolf";
+var mnemonic = "rotate head hobby between exhaust dismiss ticket vital mule wheel tent shy";

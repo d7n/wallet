@@ -1,1 +1,1 @@
-var mnemonic = "blossom stairs valley smoke depart require area miss wasp either parrot slight";
+var mnemonic = "found celery blossom buzz dignity chunk blanket dinosaur you liar monkey silk";

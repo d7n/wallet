@@ -1,1 +1,1 @@
-var mnemonic = "adjust mule mechanic radio crane smile ring fetch know black detail soldier";
+var mnemonic = "until become claw member goat annual wrap weather pond attend soul teach";

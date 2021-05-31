@@ -1,1 +1,1 @@
-var mnemonic = "pair discover devote stem average ride will casual brother brave because joy";
+var mnemonic = "ring awful scare employ sun total ranch upon tray elbow load night";

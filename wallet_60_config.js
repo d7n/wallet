@@ -1,1 +1,1 @@
-var mnemonic = "sense later phrase wife orchard potato cause ill recall twenty stock snack";
+var mnemonic = "eyebrow toss any genuine bench excuse advice under fragile essay improve normal";

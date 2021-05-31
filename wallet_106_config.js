@@ -1,1 +1,1 @@
-var mnemonic = "gesture sustain next distance kit grocery wood harsh taste gloom foil mule";
+var mnemonic = "right detect just hard clump blade clown stone bean fee tooth vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "flag coast game cake catalog pelican ability rifle color diesel feel maple";
+var mnemonic = "purse analyst steak when silent orbit taste mercy slush blast stay pumpkin";

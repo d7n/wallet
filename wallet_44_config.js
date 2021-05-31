@@ -1,1 +1,1 @@
-var mnemonic = "globe dilemma glide road cement yellow brown fossil innocent agent cereal royal";
+var mnemonic = "valid custom collect believe hint before ensure crucial street pole satisfy aware";

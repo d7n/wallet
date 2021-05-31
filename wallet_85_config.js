@@ -1,1 +1,1 @@
-var mnemonic = "exclude armor venture soda amount scatter major fancy liberty theme open dumb";
+var mnemonic = "melody document alley various comic insane trend risk edge soul attack valve";

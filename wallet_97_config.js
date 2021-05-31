@@ -1,1 +1,1 @@
-var mnemonic = "castle bus rack leisure sorry film pepper guilt clinic insect found add";
+var mnemonic = "pool during chaos clog artefact pigeon immune annual fitness repair neutral flat";

@@ -1,1 +1,1 @@
-var mnemonic = "middle issue grunt learn voyage sight kitten there disease super logic body";
+var mnemonic = "device icon uncover enemy shine decrease kind dynamic zoo horror cart library";

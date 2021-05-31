@@ -1,1 +1,1 @@
-var mnemonic = "flag drama raccoon spider piece pony book chicken picnic below armed merit";
+var mnemonic = "recipe borrow whale universe perfect lesson attitude stable swing margin choice cradle";

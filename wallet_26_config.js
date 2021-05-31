@@ -1,1 +1,1 @@
-var mnemonic = "antenna blossom they put lizard gloom accident wear reunion retire frequent off";
+var mnemonic = "flag hello milk cinnamon erode then monitor sunset december favorite aware test";

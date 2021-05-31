@@ -1,1 +1,1 @@
-var mnemonic = "empower forest unveil drum deer ring tortoise identify pipe style miracle maximum";
+var mnemonic = "august art hazard dinosaur icon avoid sentence capable must hood nose banana";

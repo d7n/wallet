@@ -1,1 +1,1 @@
-var mnemonic = "exit remind feel quarter stage garment vault shuffle impact sorry symbol quarter";
+var mnemonic = "poem rapid fold betray true sausage long cage number knock tomato betray";

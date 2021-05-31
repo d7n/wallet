@@ -1,1 +1,1 @@
-var mnemonic = "gold judge whale income drive govern tool sudden finger wedding daughter seed";
+var mnemonic = "future approve burden toddler survey announce lion blanket afford bench tank soft";

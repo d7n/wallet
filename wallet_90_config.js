@@ -1,1 +1,1 @@
-var mnemonic = "consider muffin vibrant rate fun long inhale private question logic catalog advance";
+var mnemonic = "pizza match cricket road arm elegant fix wall discover fence code cheese";

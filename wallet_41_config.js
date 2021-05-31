@@ -1,1 +1,1 @@
-var mnemonic = "remain follow junior empty cave innocent obtain manual unusual receive mutual jar";
+var mnemonic = "ten curtain churn write kidney whip rough exercise deputy bulb august author";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect indicate eight eagle father estate follow under cash nothing ask equip";
+var mnemonic = "fortune lend junior sing poet property potato neither arena thumb ring debate";

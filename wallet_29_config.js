@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rain old reject session army rent employ drip harvest pluck kangaroo";
+var mnemonic = "obtain visit various virtual infant act spy relief rail box knee dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel aunt muscle arena travel balance later apart hood melt between sugar";
+var mnemonic = "sample bridge absent worry cloth cry ocean crew wrestle addict ask helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "current model patrol panda carry around require security antenna theme boat suit";
+var mnemonic = "pull because struggle drink unit pulse earn arrive crunch rebel corn equip";

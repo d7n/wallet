@@ -1,1 +1,1 @@
-var mnemonic = "reopen fold stay choice stable staff team squirrel material army roast stand";
+var mnemonic = "issue yard phrase follow olive hip gadget blood soul point lava engine";

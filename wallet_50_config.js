@@ -1,1 +1,1 @@
-var mnemonic = "eye diesel left during chalk bid lonely output cloth travel tilt avoid";
+var mnemonic = "until small emerge arch grow wet small since material goose stay obey";

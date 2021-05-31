@@ -1,1 +1,1 @@
-var mnemonic = "bicycle volume plunge opinion ready venture depth name invite gap arrange eye";
+var mnemonic = "theory nuclear vintage secret equal hungry language diet arrest cover still miracle";

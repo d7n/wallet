@@ -1,1 +1,1 @@
-var mnemonic = "mesh wolf ridge prefer talk security pool section around version spy inner";
+var mnemonic = "couple nuclear penalty scan inspire valid comfort again success seven perfect demise";

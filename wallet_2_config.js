@@ -1,1 +1,1 @@
-var mnemonic = "enough symbol humble intact mom animal refuse broccoli arctic bronze bronze super";
+var mnemonic = "grain stable pumpkin left view lemon pipe cloud pond palm enlist point";

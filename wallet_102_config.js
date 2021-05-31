@@ -1,1 +1,1 @@
-var mnemonic = "lounge flat kiwi brown salon prison original super fantasy rapid damp narrow";
+var mnemonic = "hedgehog calm alarm shock twice pave middle color frozen valid caution aware";

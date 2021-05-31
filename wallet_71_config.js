@@ -1,1 +1,1 @@
-var mnemonic = "frequent piano art clutch couch mercy spice silk strong glue grit dawn";
+var mnemonic = "entire panther decide custom estate music space viable year sugar syrup mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "wood assume wreck rug size decorate grant obey pen husband ozone service";
+var mnemonic = "half bright book powder arm pepper penalty ankle wreck case imitate heavy";

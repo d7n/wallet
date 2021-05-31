@@ -1,1 +1,1 @@
-var mnemonic = "normal multiply bomb creek soon rival focus rifle copper latin where regular";
+var mnemonic = "above mouse artwork dad maximum drip spray elevator that crowd metal uphold";

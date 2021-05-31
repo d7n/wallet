@@ -1,1 +1,1 @@
-var mnemonic = "fox budget spatial brisk need impact inhale april about pilot sense town";
+var mnemonic = "canal concert cancel dust man wage angle spirit squirrel clock aisle fault";

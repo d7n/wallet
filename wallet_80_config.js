@@ -1,1 +1,1 @@
-var mnemonic = "stock double cabin indicate leaf miracle isolate vendor panther ancient match monitor";
+var mnemonic = "perfect manual husband ripple rebel mesh cloud midnight glass unveil lounge length";

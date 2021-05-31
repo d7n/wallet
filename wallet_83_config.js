@@ -1,1 +1,1 @@
-var mnemonic = "hard oak fitness face salute fence ranch security village when subject city";
+var mnemonic = "senior describe focus around throw quantum address firm key cactus team chicken";

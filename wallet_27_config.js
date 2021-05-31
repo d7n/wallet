@@ -1,1 +1,1 @@
-var mnemonic = "reunion emerge boat discover barely exit dove menu illness advance lunar twenty";
+var mnemonic = "resemble traffic rude moment track elegant frame pen major fuel reveal village";

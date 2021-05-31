@@ -1,1 +1,1 @@
-var mnemonic = "palm miracle nasty topic either climb six office gospel slam gossip case";
+var mnemonic = "dance sketch clutch cross truly rural comic build pepper surprise face dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "slush present flavor carpet right cricket antique blouse health cinnamon kiss quick";
+var mnemonic = "expire wet test ugly recycle toddler suggest glide wreck uncle yard clap";

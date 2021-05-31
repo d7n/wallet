@@ -1,1 +1,1 @@
-var mnemonic = "dumb link head dinner bubble manage kind manage oppose enrich biology visa";
+var mnemonic = "coconut morning want busy green bamboo session lion shock memory isolate country";

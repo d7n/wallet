@@ -1,1 +1,1 @@
-var mnemonic = "vague welcome way sand series pride discover nominee rib quality fringe dress";
+var mnemonic = "else student kit hire lawn train large suit alarm planet tide tuna";

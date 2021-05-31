@@ -1,1 +1,1 @@
-var mnemonic = "ivory enter space purity kit maximum hockey critic upper pulse acoustic frame";
+var mnemonic = "slow bread kind you stuff impose horror fiscal congress appear color kitten";

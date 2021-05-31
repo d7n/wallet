@@ -1,1 +1,1 @@
-var mnemonic = "radar question long gauge maple sphere era race paddle east quiz august";
+var mnemonic = "renew outside pitch funny term trash brother stick rose call include card";

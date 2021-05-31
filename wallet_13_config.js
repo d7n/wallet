@@ -1,1 +1,1 @@
-var mnemonic = "imitate version swallow kitchen cannon derive sock shadow series solution mask flame";
+var mnemonic = "sudden again remember become raise ill unknown body initial ecology cost exact";

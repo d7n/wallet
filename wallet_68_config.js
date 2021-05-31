@@ -1,1 +1,1 @@
-var mnemonic = "excuse prepare afford relief capital public spike bag scrub goddess mesh cement";
+var mnemonic = "rigid meat sight shop have arrow meadow gasp secret isolate problem slice";

@@ -1,1 +1,1 @@
-var mnemonic = "city happy ramp butter vanish lift huge jazz race alter lift ride";
+var mnemonic = "swamp gold hole slight umbrella benefit where miss silk cradle ugly slab";

@@ -1,1 +1,1 @@
-var mnemonic = "choose blind forward woman crowd citizen carbon peasant imitate among inform icon";
+var mnemonic = "lecture build orient object stadium turkey ensure borrow wait pilot scale dolphin";

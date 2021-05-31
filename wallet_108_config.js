@@ -1,1 +1,1 @@
-var mnemonic = "later script gate afford battle bulb happy genuine frown vessel toss wise";
+var mnemonic = "tide female reason veteran pole replace dust search insane dose clog snack";

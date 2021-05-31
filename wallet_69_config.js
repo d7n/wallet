@@ -1,1 +1,1 @@
-var mnemonic = "soda witness call carpet chef blue hill hunt effort connect web hub";
+var mnemonic = "maid adjust blossom around project replace sign leopard gown become laugh unit";

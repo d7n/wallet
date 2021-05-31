@@ -1,1 +1,1 @@
-var mnemonic = "congress anger tourist rice sign toss spray angle casual put fantasy trap";
+var mnemonic = "join move write crack imitate inquiry later mule design blossom immune zone";

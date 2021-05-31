@@ -1,1 +1,1 @@
-var mnemonic = "fitness wheat era cause hotel skill bulk tuna indoor spy usage lava";
+var mnemonic = "story right rabbit situate eager noise pumpkin kitchen stone target token cluster";

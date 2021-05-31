@@ -1,1 +1,1 @@
-var mnemonic = "stereo swarm please outside slow fog endorse gorilla front point lawn pupil";
+var mnemonic = "allow ranch admit gospel argue toy shrimp vendor invest identify fix fatal";

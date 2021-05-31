@@ -1,1 +1,1 @@
-var mnemonic = "arrive analyst bike oppose calm rebel where chronic run visa stand bronze";
+var mnemonic = "mirror chronic gold usual gentle miss idle toast twelve then drink lion";

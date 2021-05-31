@@ -1,1 +1,1 @@
-var mnemonic = "wood avoid ugly answer kite mercy post guilt orchard favorite analyst hundred";
+var mnemonic = "busy trend man arrest clip issue hard biology oblige brand cancel olive";

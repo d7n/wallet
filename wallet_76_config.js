@@ -1,1 +1,1 @@
-var mnemonic = "kitten settle rate shoe gasp stage level slogan stock enough fruit apart";
+var mnemonic = "size sure margin kite donkey actor turkey pool foil exchange alter tonight";

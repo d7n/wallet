@@ -1,1 +1,1 @@
-var mnemonic = "light disease great task bacon siren budget huge debate isolate lawn elevator";
+var mnemonic = "tip cake add cement enhance creek wisdom vital dice thrive expire chaos";

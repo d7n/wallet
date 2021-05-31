@@ -1,1 +1,1 @@
-var mnemonic = "question this side device renew pulse destroy wreck boy ask youth busy";
+var mnemonic = "battle robot they huge cross rubber pupil praise swap state because monster";

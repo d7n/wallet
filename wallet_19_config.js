@@ -1,1 +1,1 @@
-var mnemonic = "fit hover eagle copy very toward physical fossil chief toward unique town";
+var mnemonic = "stem turtle maple gaze wave stomach rally segment ancient pull grunt attitude";
