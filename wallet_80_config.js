@@ -1,1 +1,1 @@
-var mnemonic = "perfect manual husband ripple rebel mesh cloud midnight glass unveil lounge length";
+var mnemonic = "friend chair merit unable skate crucial soul coconut sort gesture train analyst";

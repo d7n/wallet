@@ -1,1 +1,1 @@
-var mnemonic = "whisper fold basic install tumble teach flush monkey urge wife cruel nerve";
+var mnemonic = "speed sponsor relief crawl fossil mercy scout profit whip nothing tip trend";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp gold hole slight umbrella benefit where miss silk cradle ugly slab";
+var mnemonic = "submit number topic identify act energy vast ask treat tent amazing faith";

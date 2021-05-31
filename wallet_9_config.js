@@ -1,1 +1,1 @@
-var mnemonic = "lecture build orient object stadium turkey ensure borrow wait pilot scale dolphin";
+var mnemonic = "invite boring rebel inflict obscure sight affair document vivid melt craft describe";

@@ -1,1 +1,1 @@
-var mnemonic = "argue flight fringe crack goat wolf swift pottery mosquito tongue apology author";
+var mnemonic = "code flight honey club teach force cycle waste jar embark define hub";

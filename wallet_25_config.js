@@ -1,1 +1,1 @@
-var mnemonic = "august art hazard dinosaur icon avoid sentence capable must hood nose banana";
+var mnemonic = "away math switch bargain space orient glare quiz pluck ocean camp near";

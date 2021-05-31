@@ -1,1 +1,1 @@
-var mnemonic = "sun rule boost outdoor unveil genuine coil leopard other scrap aunt scale";
+var mnemonic = "found service require wagon ketchup author cable simple melody chat bubble echo";

@@ -1,1 +1,1 @@
-var mnemonic = "flag hello milk cinnamon erode then monitor sunset december favorite aware test";
+var mnemonic = "cross under puzzle area north fatal fragile mammal cousin lake boring addict";

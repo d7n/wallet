@@ -1,1 +1,1 @@
-var mnemonic = "slow bread kind you stuff impose horror fiscal congress appear color kitten";
+var mnemonic = "claim arrest stool own song nice eye wife brush rent report athlete";

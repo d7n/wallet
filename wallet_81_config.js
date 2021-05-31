@@ -1,1 +1,1 @@
-var mnemonic = "tree multiply stay phrase unveil behind drive island luggage wheat bulb mansion";
+var mnemonic = "coil husband coffee innocent wedding night half category allow intact leaf tattoo";

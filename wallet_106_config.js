@@ -1,1 +1,1 @@
-var mnemonic = "right detect just hard clump blade clown stone bean fee tooth vendor";
+var mnemonic = "enough close item early barrel pole universe boil wear monster find muscle";

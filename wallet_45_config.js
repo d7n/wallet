@@ -1,1 +1,1 @@
-var mnemonic = "couple nuclear penalty scan inspire valid comfort again success seven perfect demise";
+var mnemonic = "marriage fault bird then creek cash craft song chronic regret lottery suit";

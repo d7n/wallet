@@ -1,1 +1,1 @@
-var mnemonic = "stem turtle maple gaze wave stomach rally segment ancient pull grunt attitude";
+var mnemonic = "shine unaware found enact rabbit wage retire siege soda ring crouch glare";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel kangaroo umbrella traffic dinosaur various school domain type behind magic fossil";
+var mnemonic = "setup round boat silk provide issue diagram border force text plastic sun";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune lend junior sing poet property potato neither arena thumb ring debate";
+var mnemonic = "senior grab fat fancy kiwi boost angle pact thing word umbrella walnut";

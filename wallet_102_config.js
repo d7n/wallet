@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog calm alarm shock twice pave middle color frozen valid caution aware";
+var mnemonic = "hold differ gossip bind violin citizen comic time general wet embark sail";

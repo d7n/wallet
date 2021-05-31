@@ -1,1 +1,1 @@
-var mnemonic = "eagle razor between raven lumber myth sword void member state grow click";
+var mnemonic = "economy pond spare elegant glance target wonder shrimp agent forum bleak cement";

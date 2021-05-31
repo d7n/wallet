@@ -1,1 +1,1 @@
-var mnemonic = "mandate hurry hover crane blouse crash shield useless vote idea try viable";
+var mnemonic = "service gain occur castle object mule all minor oppose oak patient dynamic";

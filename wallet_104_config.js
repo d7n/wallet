@@ -1,1 +1,1 @@
-var mnemonic = "purse analyst steak when silent orbit taste mercy slush blast stay pumpkin";
+var mnemonic = "useless focus apology key eager ride language oblige ill avoid busy fit";

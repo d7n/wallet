@@ -1,1 +1,1 @@
-var mnemonic = "crucial payment finish episode jump ball short rough load brother vote bamboo";
+var mnemonic = "jump patient school claim parade waste middle photo faint shiver alarm sample";

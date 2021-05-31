@@ -1,1 +1,1 @@
-var mnemonic = "media viable bronze anxiety wrap sport drip concert weird crater episode quiz";
+var mnemonic = "captain weather jaguar hill brush potato concert afford concert mention silk sunny";

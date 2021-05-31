@@ -1,1 +1,1 @@
-var mnemonic = "valid alpha seed blast spawn oven bulk guess pledge drink stairs step";
+var mnemonic = "unique surge twin lesson ride cattle ripple quantum lawsuit neutral either point";

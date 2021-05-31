@@ -1,1 +1,1 @@
-var mnemonic = "security shoe aisle video unfold bird hockey staff volume few burden moral";
+var mnemonic = "toe kite rule coin wage baby rack fiscal behind survey obscure clean";

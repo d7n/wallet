@@ -1,1 +1,1 @@
-var mnemonic = "brand zero valley purchase since main detect hole sail omit oval ticket";
+var mnemonic = "middle dentist entry cabin myth nut version floor cactus attend coral fix";

@@ -1,1 +1,1 @@
-var mnemonic = "busy trend man arrest clip issue hard biology oblige brand cancel olive";
+var mnemonic = "grit bomb course ankle pause rice december season later icon school false";

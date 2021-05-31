@@ -1,1 +1,1 @@
-var mnemonic = "coconut morning want busy green bamboo session lion shock memory isolate country";
+var mnemonic = "access drive elevator fiber then lemon very vintage exit tone aerobic soap";

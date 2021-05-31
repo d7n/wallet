@@ -1,1 +1,1 @@
-var mnemonic = "bean anchor coil rare wear faith stereo bullet amazing neutral time ten";
+var mnemonic = "normal nominee flag universe solution spirit addict expire cousin void virtual service";

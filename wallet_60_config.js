@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow toss any genuine bench excuse advice under fragile essay improve normal";
+var mnemonic = "bike outer gesture asthma earn wise time sick ginger clerk amused october";

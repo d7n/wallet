@@ -1,1 +1,1 @@
-var mnemonic = "example gallery idle advice trophy congress property where bean grain witness visual";
+var mnemonic = "august dignity year bamboo beef input chuckle equal coyote donkey crowd prison";

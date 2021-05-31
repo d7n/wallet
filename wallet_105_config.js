@@ -1,1 +1,1 @@
-var mnemonic = "vanish various sugar satisfy merge tail bone theme audit hood law assume";
+var mnemonic = "minor profit penalty jeans broken short voice gather fold engine chronic carry";

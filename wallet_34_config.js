@@ -1,1 +1,1 @@
-var mnemonic = "renew outside pitch funny term trash brother stick rose call include card";
+var mnemonic = "that trim scatter sail silk camera across tilt volcano dirt quality nut";

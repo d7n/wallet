@@ -1,1 +1,1 @@
-var mnemonic = "favorite company alert stem original market luggage off relax orient govern slush";
+var mnemonic = "leisure buyer merge short stick custom gasp beyond citizen flame lake camera";

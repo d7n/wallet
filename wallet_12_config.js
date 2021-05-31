@@ -1,1 +1,1 @@
-var mnemonic = "father island casino usage furnace develop bus trend enact embrace tennis plastic";
+var mnemonic = "two pizza try gap index boss super label flash tackle stick column";

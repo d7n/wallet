@@ -1,1 +1,1 @@
-var mnemonic = "indicate life rule acquire fan glory defy bean monster duck raw dumb";
+var mnemonic = "zebra salad easily canvas final borrow kitchen stove raise target curtain street";

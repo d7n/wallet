@@ -1,1 +1,1 @@
-var mnemonic = "kidney post correct fog hood memory rescue legend vital seek bacon immense";
+var mnemonic = "spawn better brain captain slow surprise adapt gesture cool fall gallery snow";

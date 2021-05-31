@@ -1,1 +1,1 @@
-var mnemonic = "fat situate bounce dirt census wheat settle correct mistake size push tongue";
+var mnemonic = "one parent double truth style finger double tip alarm pattern capital retire";

@@ -1,1 +1,1 @@
-var mnemonic = "night snake fresh nominee oak destroy mechanic expand oil tennis process dance";
+var mnemonic = "afford blossom crowd garment crumble hood focus term soul country submit divide";

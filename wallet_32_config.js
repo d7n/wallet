@@ -1,1 +1,1 @@
-var mnemonic = "whip forward length term army there stove arrest gas enact fiscal speed";
+var mnemonic = "pole express range axis truly dilemma clump easily gather language song chicken";

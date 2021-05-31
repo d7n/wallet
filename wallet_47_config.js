@@ -1,1 +1,1 @@
-var mnemonic = "theory nuclear vintage secret equal hungry language diet arrest cover still miracle";
+var mnemonic = "future open ball junk version tiger harvest risk plate athlete winner outdoor";

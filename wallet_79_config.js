@@ -1,1 +1,1 @@
-var mnemonic = "half bright book powder arm pepper penalty ankle wreck case imitate heavy";
+var mnemonic = "please wheat mountain shed umbrella immune fall fun tooth hamster nice sorry";

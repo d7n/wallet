@@ -1,1 +1,1 @@
-var mnemonic = "cement flip walk gospel critic wasp basket pigeon dash mango volume apart";
+var mnemonic = "august runway able occur treat rice service grab island check crunch interest";

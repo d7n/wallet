@@ -1,1 +1,1 @@
-var mnemonic = "future approve burden toddler survey announce lion blanket afford bench tank soft";
+var mnemonic = "pink wheat master mutual involve visa devote cushion basic viable ordinary place";

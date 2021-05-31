@@ -1,1 +1,1 @@
-var mnemonic = "battle robot they huge cross rubber pupil praise swap state because monster";
+var mnemonic = "moment food chalk image enter private remain winner leader plug sentence useful";

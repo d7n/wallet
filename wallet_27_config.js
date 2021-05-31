@@ -1,1 +1,1 @@
-var mnemonic = "resemble traffic rude moment track elegant frame pen major fuel reveal village";
+var mnemonic = "buzz rack sustain float slam topple forest lounge main under spatial coil";

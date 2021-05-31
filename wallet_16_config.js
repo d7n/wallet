@@ -1,1 +1,1 @@
-var mnemonic = "hundred slender wish keen prosper early clap volcano quote pink remind slide";
+var mnemonic = "possible input acoustic virtual museum strategy foil feature eight bonus hint subway";

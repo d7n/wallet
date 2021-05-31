@@ -1,1 +1,1 @@
-var mnemonic = "size sure margin kite donkey actor turkey pool foil exchange alter tonight";
+var mnemonic = "oxygen wonder cake plate seed fee gauge relief above attend between stairs";

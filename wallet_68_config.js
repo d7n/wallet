@@ -1,1 +1,1 @@
-var mnemonic = "rigid meat sight shop have arrow meadow gasp secret isolate problem slice";
+var mnemonic = "sword fun mandate flower clown exile tip pistol amused burst language choose";

@@ -1,1 +1,1 @@
-var mnemonic = "story right rabbit situate eager noise pumpkin kitchen stone target token cluster";
+var mnemonic = "vehicle legal day brisk cover emotion under prize north toss harbor black";

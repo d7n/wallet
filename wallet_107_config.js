@@ -1,1 +1,1 @@
-var mnemonic = "cook review desk august attract abuse unhappy topple nominee solve wash invite";
+var mnemonic = "resemble slice inform idea tissue canyon offer smart force demise donor share";

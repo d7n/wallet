@@ -1,1 +1,1 @@
-var mnemonic = "recipe borrow whale universe perfect lesson attitude stable swing margin choice cradle";
+var mnemonic = "cat bundle jar chat master spring snow cheap sword raccoon pizza valve";

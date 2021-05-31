@@ -1,1 +1,1 @@
-var mnemonic = "ring awful scare employ sun total ranch upon tray elbow load night";
+var mnemonic = "feel other body boy dinosaur scatter green until blame mean theme unusual";

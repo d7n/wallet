@@ -1,1 +1,1 @@
-var mnemonic = "pepper pistol render label ice payment early hen home sand crater wonder";
+var mnemonic = "promote water palace peasant flower bicycle gain visa trip laundry front law";

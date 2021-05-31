@@ -1,1 +1,1 @@
-var mnemonic = "friend like large shiver sight much cactus away puppy bulb cloth language";
+var mnemonic = "shiver same artefact impact hockey impact milk knock lonely marble burst feed";

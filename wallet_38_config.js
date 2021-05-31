@@ -1,1 +1,1 @@
-var mnemonic = "poem rapid fold betray true sausage long cage number knock tomato betray";
+var mnemonic = "absent prefer manage enjoy know snap melt shoot anchor jewel door void";

@@ -1,1 +1,1 @@
-var mnemonic = "circle coconut initial antenna veteran visa truly globe guilt evil kingdom mention";
+var mnemonic = "raise hedgehog egg dash excuse cloth step wisdom hobby involve reject label";

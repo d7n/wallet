@@ -1,1 +1,1 @@
-var mnemonic = "tip cake add cement enhance creek wisdom vital dice thrive expire chaos";
+var mnemonic = "disagree issue solution injury umbrella gadget garage mushroom beach that mouse woman";

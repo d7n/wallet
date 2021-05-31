@@ -1,1 +1,1 @@
-var mnemonic = "hard keen token lift fire fat involve hurry snow write burger bone";
+var mnemonic = "below inch faint merge census round ticket index alert common fetch ring";

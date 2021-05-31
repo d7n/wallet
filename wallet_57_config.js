@@ -1,1 +1,1 @@
-var mnemonic = "base journey weekend festival flavor lyrics faculty head scare task hover way";
+var mnemonic = "deal trust one adult fun ready super emotion all report main steel";

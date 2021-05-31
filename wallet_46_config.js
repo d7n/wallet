@@ -1,1 +1,1 @@
-var mnemonic = "wedding secret clean ozone insane someone alarm document secret maximum crop waste";
+var mnemonic = "ski cancel genius fantasy discover say quit utility tourist mirror you glide";

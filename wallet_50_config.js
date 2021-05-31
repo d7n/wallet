@@ -1,1 +1,1 @@
-var mnemonic = "until small emerge arch grow wet small since material goose stay obey";
+var mnemonic = "pencil pear barely off two census pipe prepare mercy eternal merry ten";

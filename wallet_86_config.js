@@ -1,1 +1,1 @@
-var mnemonic = "gallery castle beyond switch ethics logic install finish depart crouch property empower";
+var mnemonic = "possible deposit web busy speed stock private trip rude fade digital tobacco";

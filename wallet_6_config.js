@@ -1,1 +1,1 @@
-var mnemonic = "penalty cheese juice best normal nest pelican slam grit spatial excess coconut";
+var mnemonic = "credit wise iron warm shop stone innocent prison myself minimum flower lens";

@@ -1,1 +1,1 @@
-var mnemonic = "duck tobacco coil crystal ready limb spell hobby royal stone report maze";
+var mnemonic = "pole clap aisle call steel punch potato mango credit custom rifle october";

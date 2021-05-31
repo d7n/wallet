@@ -1,1 +1,1 @@
-var mnemonic = "solve annual diagram welcome blur weird ketchup traffic glove wing torch wide";
+var mnemonic = "boy sweet rain sheriff matter clinic hero air catalog ensure volume muffin";

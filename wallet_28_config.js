@@ -1,1 +1,1 @@
-var mnemonic = "victory wish sugar erode exist amount fire area act team cactus major";
+var mnemonic = "blind lava black monster join parent relax scatter doctor market recipe fix";

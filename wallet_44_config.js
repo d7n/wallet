@@ -1,1 +1,1 @@
-var mnemonic = "valid custom collect believe hint before ensure crucial street pole satisfy aware";
+var mnemonic = "notice pool pony will drip cat soap breeze cluster genius scrub deliver";

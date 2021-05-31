@@ -1,1 +1,1 @@
-var mnemonic = "vast avoid fabric admit heavy six snack vintage steel change document among";
+var mnemonic = "task car nest pulp ghost library wet curve champion glove ankle genuine";

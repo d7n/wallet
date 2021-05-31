@@ -1,1 +1,1 @@
-var mnemonic = "minimum seven magic absorb crunch clever auto air satoshi ivory found post";
+var mnemonic = "rather become december abstract shoulder thought radar club concert phrase anchor useful";

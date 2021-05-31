@@ -1,1 +1,1 @@
-var mnemonic = "join move write crack imitate inquiry later mule design blossom immune zone";
+var mnemonic = "trophy science assume relax embody yellow toilet vague genius upset rice produce";

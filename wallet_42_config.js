@@ -1,1 +1,1 @@
-var mnemonic = "dance sketch clutch cross truly rural comic build pepper surprise face dismiss";
+var mnemonic = "ranch bullet slight unit blush crack picture disorder cotton talent engine ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza match cricket road arm elegant fix wall discover fence code cheese";
+var mnemonic = "acid diesel lake garage old choose turn proud expose identify double math";

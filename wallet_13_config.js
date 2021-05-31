@@ -1,1 +1,1 @@
-var mnemonic = "sudden again remember become raise ill unknown body initial ecology cost exact";
+var mnemonic = "uphold board jar hunt kind mercy wise farm balcony chapter love coast";

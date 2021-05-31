@@ -1,1 +1,1 @@
-var mnemonic = "hero remain place split brother end silent blur live social wonder toward";
+var mnemonic = "wet camera enrich spin hedgehog topic october pony general stem minimum arrange";

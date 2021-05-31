@@ -1,1 +1,1 @@
-var mnemonic = "mirror chronic gold usual gentle miss idle toast twelve then drink lion";
+var mnemonic = "else fly combine setup tent exist topple unhappy setup bitter bitter observe";

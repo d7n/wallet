@@ -1,1 +1,1 @@
-var mnemonic = "tiny picnic forward response reflect gallery circle relief pledge label half play";
+var mnemonic = "lobster link hamster process scout paddle grass scorpion shield brand humble lonely";

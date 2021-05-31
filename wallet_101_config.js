@@ -1,1 +1,1 @@
-var mnemonic = "way print toe list endorse short disease punch success doctor kite brief";
+var mnemonic = "nose receive wool erosion jewel head joke lemon mystery volume member mixture";

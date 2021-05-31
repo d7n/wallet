@@ -1,1 +1,1 @@
-var mnemonic = "above mouse artwork dad maximum drip spray elevator that crowd metal uphold";
+var mnemonic = "execute genre harvest render lion canyon raven width wrong anchor jacket much";

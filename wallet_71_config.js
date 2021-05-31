@@ -1,1 +1,1 @@
-var mnemonic = "entire panther decide custom estate music space viable year sugar syrup mechanic";
+var mnemonic = "swarm display lock power able name crew ship kid fat match relief";

@@ -1,1 +1,1 @@
-var mnemonic = "write rabbit debris ostrich warfare vivid actress draw atom today gasp ability";
+var mnemonic = "diesel deal fossil range abandon inform total stage please paper fork bag";

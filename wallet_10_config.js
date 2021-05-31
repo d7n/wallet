@@ -1,1 +1,1 @@
-var mnemonic = "trash camp monitor jeans echo prefer piece annual kangaroo brick sauce liberty";
+var mnemonic = "stairs reward jaguar uncle salon pen east fluid cat smoke wisdom mad";

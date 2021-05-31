@@ -1,1 +1,1 @@
-var mnemonic = "tide female reason veteran pole replace dust search insane dose clog snack";
+var mnemonic = "boy entire tumble bird allow delay field lumber crazy dinosaur solid train";

@@ -1,1 +1,1 @@
-var mnemonic = "grain stable pumpkin left view lemon pipe cloud pond palm enlist point";
+var mnemonic = "kite pistol deposit puppy arrange front symptom novel immune reopen fruit vessel";

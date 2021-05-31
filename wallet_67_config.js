@@ -1,1 +1,1 @@
-var mnemonic = "canal concert cancel dust man wage angle spirit squirrel clock aisle fault";
+var mnemonic = "exit casino lesson flame viable domain elephant sugar local suit crazy shock";

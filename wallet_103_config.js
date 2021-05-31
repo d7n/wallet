@@ -1,1 +1,1 @@
-var mnemonic = "pride very plug jealous repair swing view alter girl speed wise potato";
+var mnemonic = "hen toe mammal carry exile match tissue glue frozen wood confirm joy";

@@ -1,1 +1,1 @@
-var mnemonic = "else student kit hire lawn train large suit alarm planet tide tuna";
+var mnemonic = "mom waste dismiss crawl motion choose course certain vendor basket captain shine";

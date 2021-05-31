@@ -1,1 +1,1 @@
-var mnemonic = "expire wet test ugly recycle toddler suggest glide wreck uncle yard clap";
+var mnemonic = "pitch armed lizard length payment increase erase measure true innocent brush word";

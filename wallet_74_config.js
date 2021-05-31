@@ -1,1 +1,1 @@
-var mnemonic = "access price abuse rally vault enrich ghost bird drama disorder give own";
+var mnemonic = "color torch proud pet riot current undo icon tornado office exile identify";

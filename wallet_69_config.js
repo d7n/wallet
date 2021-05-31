@@ -1,1 +1,1 @@
-var mnemonic = "maid adjust blossom around project replace sign leopard gown become laugh unit";
+var mnemonic = "start danger check sea beach secret excite orphan swear hover envelope child";

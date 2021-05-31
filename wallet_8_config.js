@@ -1,1 +1,1 @@
-var mnemonic = "allow ranch admit gospel argue toy shrimp vendor invest identify fix fatal";
+var mnemonic = "magic crop code shift noise father flat way safe siege unit lucky";

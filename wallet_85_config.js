@@ -1,1 +1,1 @@
-var mnemonic = "melody document alley various comic insane trend risk edge soul attack valve";
+var mnemonic = "hard east install erase pyramid casino fruit evil owner decide wait open";
