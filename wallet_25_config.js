@@ -1,1 +1,1 @@
-var mnemonic = "frost quantum humble gift cable now wedding foster coconut insect ghost spend";
+var mnemonic = "battle spring access gas retreat gentle talent swear exact trumpet bone slot";

@@ -1,1 +1,1 @@
-var mnemonic = "check skull roof cabin confirm fiction finish drift crash honey car hood";
+var mnemonic = "extra pudding bargain blame same asthma armor day stumble cloth sauce health";

@@ -1,1 +1,1 @@
-var mnemonic = "educate hobby iron document they title hockey net humble emotion poverty thank";
+var mnemonic = "skin dentist soup solar unique burst noise toilet broccoli between guitar crush";

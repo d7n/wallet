@@ -1,1 +1,1 @@
-var mnemonic = "jazz people cheese affair buddy media sport wise bless ankle miss across";
+var mnemonic = "coconut uphold rain buddy poem later merit diamond tiny cage final hurt";

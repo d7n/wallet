@@ -1,1 +1,1 @@
-var mnemonic = "tomato quick hole school early double wealth shield february change thank panda";
+var mnemonic = "cake master analyst when fix cushion math skate face shallow foil road";

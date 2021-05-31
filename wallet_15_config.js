@@ -1,1 +1,1 @@
-var mnemonic = "north ancient shine drill injury bunker embrace island owner mobile switch deal";
+var mnemonic = "host rival stuff move settle salon edge sock brave proud reward reopen";

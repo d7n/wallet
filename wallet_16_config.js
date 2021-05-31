@@ -1,1 +1,1 @@
-var mnemonic = "illegal shoot vast smart august palace dismiss draw any pride receive reveal";
+var mnemonic = "foot snake figure where master invite zone fire ribbon defense tooth spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred travel soap margin amazing visa network silk train wave mistake hurry";
+var mnemonic = "clump grab shaft leader pink fiscal state bounce anxiety armed coast very";

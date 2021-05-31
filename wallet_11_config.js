@@ -1,1 +1,1 @@
-var mnemonic = "ginger another fame ten long wrist target spring midnight bar melody learn";
+var mnemonic = "assault word cheese control hidden shallow good kite dilemma recycle humble shoulder";

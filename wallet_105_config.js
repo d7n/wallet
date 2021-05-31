@@ -1,1 +1,1 @@
-var mnemonic = "topic spin seminar warm scare illegal cross slice wire public seven jar";
+var mnemonic = "erosion father hard brass calm unfold market medal resemble author meadow armor";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual rug half noise mass rival anchor lab female stereo person about";
+var mnemonic = "camera issue grain robust breeze business frown grass giraffe ahead mystery bid";

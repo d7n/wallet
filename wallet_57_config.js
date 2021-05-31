@@ -1,1 +1,1 @@
-var mnemonic = "jaguar you perfect thing athlete dignity hedgehog cruel habit hero track afraid";
+var mnemonic = "toy ghost pet minor street juice hockey decline melt author quality connect";

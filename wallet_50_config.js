@@ -1,1 +1,1 @@
-var mnemonic = "oven wasp feel flee kingdom denial utility uncle little angry humor glue";
+var mnemonic = "please lazy bless garbage demise speed minute sibling sudden certain grunt network";

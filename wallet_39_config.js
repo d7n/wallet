@@ -1,1 +1,1 @@
-var mnemonic = "chair valve surround borrow couch anxiety brush twice once palace music sunset";
+var mnemonic = "bridge space boy indicate result top wine embrace brother beauty token lawsuit";

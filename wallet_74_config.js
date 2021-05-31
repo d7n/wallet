@@ -1,1 +1,1 @@
-var mnemonic = "wait obey void crazy profit pave word model suit wise virus volume";
+var mnemonic = "fetch crunch output toast lock host actual poverty novel shield phone wear";

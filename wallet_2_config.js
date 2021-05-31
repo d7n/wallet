@@ -1,1 +1,1 @@
-var mnemonic = "law umbrella argue silver luggage real scheme test tent yellow ready lobster";
+var mnemonic = "bring off crazy fit calm knee crash album boost click poet friend";

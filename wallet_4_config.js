@@ -1,1 +1,1 @@
-var mnemonic = "wood above surge melt satisfy funny guard parent matrix report skill music";
+var mnemonic = "hobby decline more finger say wreck crowd trust explain cattle law canyon";

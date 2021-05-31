@@ -1,1 +1,1 @@
-var mnemonic = "crouch jazz weather rib initial buzz same bright runway mansion dentist boat";
+var mnemonic = "right surprise toy wet rural thrive nominee assist subway great lunch element";

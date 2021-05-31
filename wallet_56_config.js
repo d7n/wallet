@@ -1,1 +1,1 @@
-var mnemonic = "boil race mammal chief speed force wheat child script knife gown tent";
+var mnemonic = "fish fresh zoo security fever festival chat pyramid wreck sign today ball";

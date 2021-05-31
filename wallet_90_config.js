@@ -1,1 +1,1 @@
-var mnemonic = "expose weasel practice column illegal skirt approve series swing drama spawn select";
+var mnemonic = "company useful leaf bonus winter solar casino hotel mad lake physical pluck";

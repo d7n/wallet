@@ -1,1 +1,1 @@
-var mnemonic = "point together second believe tackle flavor glad woman banana bubble asthma happy";
+var mnemonic = "hospital tail snap execute surprise exclude bar assist know priority dash color";

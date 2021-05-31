@@ -1,1 +1,1 @@
-var mnemonic = "repeat ranch close pear chimney clerk despair beauty idle tattoo blade offer";
+var mnemonic = "aspect blouse palace tattoo shy robust have parrot hat uphold spatial obscure";

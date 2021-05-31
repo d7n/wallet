@@ -1,1 +1,1 @@
-var mnemonic = "rebuild true aerobic list common grace balance animal survey scare horse razor";
+var mnemonic = "adult urban hover huge slab sphere culture barrel horse physical divorce token";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon grit forest orchard enroll wave food trigger entry spray famous barrel";
+var mnemonic = "prize right mouse wheat turtle spike luggage whale fitness month barrel want";

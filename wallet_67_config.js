@@ -1,1 +1,1 @@
-var mnemonic = "yellow major draft point umbrella patch clown there true fire service dwarf";
+var mnemonic = "extra struggle viable start double ethics nephew modify draft eager smile flush";

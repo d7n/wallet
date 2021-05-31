@@ -1,1 +1,1 @@
-var mnemonic = "cheese total north food property clock bag crunch devote assist hobby turkey";
+var mnemonic = "grant faint heart garbage cargo satoshi gesture genius situate salute fish clap";

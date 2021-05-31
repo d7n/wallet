@@ -1,1 +1,1 @@
-var mnemonic = "plate despair autumn glass stone bid lunch few lamp point engage patch";
+var mnemonic = "valid black road love slim aspect want yellow recall early when obey";

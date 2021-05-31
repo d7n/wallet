@@ -1,1 +1,1 @@
-var mnemonic = "little prefer long atom employ easy scissors ladder assault section cannon phone";
+var mnemonic = "deer grid grass green elite parade spider song scene verify intact fury";

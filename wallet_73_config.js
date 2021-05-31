@@ -1,1 +1,1 @@
-var mnemonic = "deputy elder wool floor blind finger lounge gauge panel bag great cabin";
+var mnemonic = "present response cherry wish legal midnight smooth ugly inject spirit wrap brave";

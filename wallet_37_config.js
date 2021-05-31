@@ -1,1 +1,1 @@
-var mnemonic = "wolf decrease cream outside model crunch wreck surround bottom ivory win rail";
+var mnemonic = "unhappy girl soft hip ethics exit grid unlock bicycle drastic release snake";

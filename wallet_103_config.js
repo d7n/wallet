@@ -1,1 +1,1 @@
-var mnemonic = "various athlete what upgrade love coral found salon athlete flower title benefit";
+var mnemonic = "obey giggle donkey orient matter praise pyramid this advance speed relax upset";

@@ -1,1 +1,1 @@
-var mnemonic = "object pave spider acoustic sponsor peanut school prosper night mango what evoke";
+var mnemonic = "evidence eagle pulse race retire neck brother yard chase pledge long exercise";

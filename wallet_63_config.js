@@ -1,1 +1,1 @@
-var mnemonic = "enemy subway sound cross help smile monitor void total tell great dawn";
+var mnemonic = "sing now alien canvas because spice acoustic pumpkin exact abstract relief dragon";

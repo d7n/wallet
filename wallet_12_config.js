@@ -1,1 +1,1 @@
-var mnemonic = "pipe inspire father august evolve dizzy very detect photo dragon catalog lawn";
+var mnemonic = "soon nothing citizen ticket nominee wolf trend kit call celery tuna shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "snap sail chief begin drip shiver trip town company nice gossip tiny";
+var mnemonic = "chair enroll album exotic relief various mass exotic pudding coffee say use";

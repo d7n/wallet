@@ -1,1 +1,1 @@
-var mnemonic = "spider mushroom pave lucky increase oyster off mother much dutch leisure sibling";
+var mnemonic = "ripple metal sunny purchase pyramid copy typical play blue soccer symbol flock";

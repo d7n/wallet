@@ -1,1 +1,1 @@
-var mnemonic = "save fly suit table bring demise shield team ladder rotate net mixture";
+var mnemonic = "gun lion panther appear glue insane bargain guitar purchase flip wrap index";

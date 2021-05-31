@@ -1,1 +1,1 @@
-var mnemonic = "forward radar roof noise enhance narrow this morning vague glory damp cage";
+var mnemonic = "butter prison space exit bundle extra pulse kangaroo rude flee smart refuse";

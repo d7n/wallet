@@ -1,1 +1,1 @@
-var mnemonic = "decline planet boss educate slide marble spoon stock hurry upon pipe decorate";
+var mnemonic = "seminar wise little sure notable dune swim episode crowd anchor pen unusual";

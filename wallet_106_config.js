@@ -1,1 +1,1 @@
-var mnemonic = "muffin latin script anxiety engine tonight electric vibrant girl width movie crawl";
+var mnemonic = "pink perfect awkward about hill rely follow bind shove arch million apple";

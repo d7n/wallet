@@ -1,1 +1,1 @@
-var mnemonic = "relief jazz dolphin squeeze noise soon mistake sugar seat armor fine duty";
+var mnemonic = "window edge consider derive wealth patrol drill project trim senior sick member";

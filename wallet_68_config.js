@@ -1,1 +1,1 @@
-var mnemonic = "impact gloom seminar level cruise hint gaze fever leg crew general duck";
+var mnemonic = "when twice best lucky move brand real brave chalk demise turkey good";

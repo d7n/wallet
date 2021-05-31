@@ -1,1 +1,1 @@
-var mnemonic = "purity toilet chair scene mesh suggest runway pilot diet size because curious";
+var mnemonic = "cattle describe maid similar believe depend alter future cinnamon enough clean core";

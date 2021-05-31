@@ -1,1 +1,1 @@
-var mnemonic = "quote soon mad report sentence dog genre guide budget mango educate square";
+var mnemonic = "review armor blade gold reward nerve coach notice tiny parrot someone mail";

@@ -1,1 +1,1 @@
-var mnemonic = "wife stem casual risk brief recycle violin grow rookie bonus road make";
+var mnemonic = "drive spend invite suffer lend outer together quit road guilt push short";

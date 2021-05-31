@@ -1,1 +1,1 @@
-var mnemonic = "crater aim expire security predict robot hobby hill brass wolf knife turkey";
+var mnemonic = "lobster bulb denial summer glass blossom choice manage slush barely grocery gown";

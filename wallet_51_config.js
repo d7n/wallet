@@ -1,1 +1,1 @@
-var mnemonic = "devote faculty wheel ketchup midnight note laugh solution hire crush sun glow";
+var mnemonic = "promote oil net two anchor coyote judge crunch pond hip throw glance";

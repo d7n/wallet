@@ -1,1 +1,1 @@
-var mnemonic = "diesel immune first actual document scatter abstract habit guess unfold few anger";
+var mnemonic = "claim grab tobacco huge moon doctor toast glass fruit shrimp reflect tube";

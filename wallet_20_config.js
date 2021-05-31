@@ -1,1 +1,1 @@
-var mnemonic = "tonight assume naive siren sketch pyramid post state legal amazing decrease trumpet";
+var mnemonic = "random scale drastic creek wage trend pill remove ghost stool drink gadget";

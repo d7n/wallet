@@ -1,1 +1,1 @@
-var mnemonic = "hip slab ready impulse time chuckle early taxi manual bubble hotel civil";
+var mnemonic = "girl solve talent fat minor grit search maid ramp quit isolate ride";

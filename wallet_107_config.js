@@ -1,1 +1,1 @@
-var mnemonic = "suffer describe special salad loop shift slow spy toast million jump champion";
+var mnemonic = "option fly fly winter file organ absorb wool trash enrich crunch fire";

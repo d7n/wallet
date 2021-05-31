@@ -1,1 +1,1 @@
-var mnemonic = "library length delay wood truly private guilt mosquito sense dirt cute lottery";
+var mnemonic = "device taste wink harsh fluid circle crazy void certain antique satisfy luggage";

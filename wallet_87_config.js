@@ -1,1 +1,1 @@
-var mnemonic = "answer disorder tackle ramp salute panic gather car run add noble panther";
+var mnemonic = "gossip toss impact luggage remember tragic ready dog victory garden answer group";

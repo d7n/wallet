@@ -1,1 +1,1 @@
-var mnemonic = "coast increase image social swing crime poet boring acquire urban carpet farm";
+var mnemonic = "kiwi warm hello job often cattle pulp rocket submit wrist pepper year";

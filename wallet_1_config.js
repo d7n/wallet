@@ -1,1 +1,1 @@
-var mnemonic = "stool usual fit ensure rifle correct flash hybrid vanish above route cotton";
+var mnemonic = "shove teach barrel orchard note shiver surge hidden reflect patient join great";

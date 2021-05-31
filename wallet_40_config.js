@@ -1,1 +1,1 @@
-var mnemonic = "side clown avoid monitor relax surge special dumb summer utility devote spice";
+var mnemonic = "flee salt second runway topple series access grace amused journey ranch athlete";

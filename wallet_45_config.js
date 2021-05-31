@@ -1,1 +1,1 @@
-var mnemonic = "midnight camera rude need senior jazz cricket slight fog pudding labor piano";
+var mnemonic = "reject vibrant fatigue home dune notice east rack lift cruise owner load";

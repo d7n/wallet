@@ -1,1 +1,1 @@
-var mnemonic = "undo pride carpet protect horror aware badge monitor gentle agree pony street";
+var mnemonic = "bring wet begin melt follow design essay atom right unveil tuition discover";

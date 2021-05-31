@@ -1,1 +1,1 @@
-var mnemonic = "also bid fuel domain fringe title found conduct call pulse april purchase";
+var mnemonic = "pony marine borrow moral infant citizen option vehicle idea skull parrot enhance";

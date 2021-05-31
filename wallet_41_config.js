@@ -1,1 +1,1 @@
-var mnemonic = "aim major word jelly mechanic toilet shrimp shell into dentist beauty payment";
+var mnemonic = "ancient then rain use grape royal document demand suffer federal doctor engage";

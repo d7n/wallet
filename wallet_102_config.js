@@ -1,1 +1,1 @@
-var mnemonic = "shaft educate buddy desk equip toy this still harvest dismiss rocket magic";
+var mnemonic = "better author ancient diesel spell diesel employ ready hour blast knock sail";

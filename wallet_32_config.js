@@ -1,1 +1,1 @@
-var mnemonic = "wedding laptop void clip typical kite burst van borrow apple pink devote";
+var mnemonic = "denial tornado program bless little crystal machine erupt clever priority cry report";

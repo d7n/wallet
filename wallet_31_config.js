@@ -1,1 +1,1 @@
-var mnemonic = "cube effort order maid bottom wise proud buddy empty grab collect reduce";
+var mnemonic = "glare buddy sudden scatter hawk blast crop profit record pencil whale save";

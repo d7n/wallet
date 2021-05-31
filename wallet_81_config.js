@@ -1,1 +1,1 @@
-var mnemonic = "unknown mistake slogan until panic dream donkey image sugar office cereal ignore";
+var mnemonic = "boil lobster execute easily buffalo fabric obtain alter grid faculty knee return";

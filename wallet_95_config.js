@@ -1,1 +1,1 @@
-var mnemonic = "drift police almost estate banana plate faith leisure collect cool obvious school";
+var mnemonic = "voyage image notice clever innocent park renew toss ignore there side priority";

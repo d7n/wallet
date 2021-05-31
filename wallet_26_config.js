@@ -1,1 +1,1 @@
-var mnemonic = "concert two ladder region trade song age cradle crouch school stomach delay";
+var mnemonic = "swarm color grace acoustic vivid anger twelve explain analyst nephew toast reward";

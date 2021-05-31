@@ -1,1 +1,1 @@
-var mnemonic = "scout mask merry cable mind tackle gun salmon notable remain first human";
+var mnemonic = "matter clutch exhibit mutual hobby cliff clump pepper prevent young humor nose";

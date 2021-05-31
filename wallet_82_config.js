@@ -1,1 +1,1 @@
-var mnemonic = "impact select thought ahead audit shoe genuine nurse image better bright better";
+var mnemonic = "axis surge milk that combine give code canoe round wing wink mask";

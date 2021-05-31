@@ -1,1 +1,1 @@
-var mnemonic = "palm lens cherry sauce approve legal exit spell woman shield list outdoor";
+var mnemonic = "payment paper luggage web menu great hamster hawk chat mixed casino catch";

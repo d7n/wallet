@@ -1,1 +1,1 @@
-var mnemonic = "own thing color owner ocean artist where hill zero find atom grid";
+var mnemonic = "picnic question drop sock seek brass category spider blanket team shallow around";

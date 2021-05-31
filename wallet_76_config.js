@@ -1,1 +1,1 @@
-var mnemonic = "welcome helmet turtle velvet budget truly enrich shaft garment immune more bacon";
+var mnemonic = "awkward size able milk axis ramp produce spice monster pretty meat shed";

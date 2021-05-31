@@ -1,1 +1,1 @@
-var mnemonic = "better silly click punch bus power arrest food velvet frame faint damage";
+var mnemonic = "story flower review trip tool pigeon broccoli blanket print zebra critic network";

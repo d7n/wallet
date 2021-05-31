@@ -1,1 +1,1 @@
-var mnemonic = "lens eight garment always fluid lock brief ice arrive cereal inner pulp";
+var mnemonic = "cactus thrive key crunch kit shove train oval glimpse youth street verb";

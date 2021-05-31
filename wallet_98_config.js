@@ -1,1 +1,1 @@
-var mnemonic = "rebel card again pioneer wrestle pull power clever minimum extend service emotion";
+var mnemonic = "screen talk survey fever inquiry need burden desert work fancy retire nest";

@@ -1,1 +1,1 @@
-var mnemonic = "hero solution glad pizza gain permit ivory crunch rabbit offer lobster member";
+var mnemonic = "orbit chunk divorce sound throw slow extra doctor dilemma celery sponsor educate";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed trap you process wife notice expire jealous frown purity neutral simple";
+var mnemonic = "wild organ harsh pelican across sense bridge fantasy congress final proud estate";

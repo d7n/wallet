@@ -1,1 +1,1 @@
-var mnemonic = "tilt harvest guard august impulse media battle open glance resist amount region";
+var mnemonic = "labor govern mosquito merry proof bonus rice trumpet nuclear desert pill enhance";

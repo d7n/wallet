@@ -1,1 +1,1 @@
-var mnemonic = "turn bean olive fabric tool swamp satisfy recycle still world head drastic";
+var mnemonic = "gold jealous cannon tired muffin attract zebra exclude pottery shock speak pause";

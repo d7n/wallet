@@ -1,1 +1,1 @@
-var mnemonic = "swamp intact brief into spoil punch twin weekend elbow pizza habit bicycle";
+var mnemonic = "good clay health type aunt core swamp empty chalk because result chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "parent hip refuse script simple cat fiction original rude airport fall urban";
+var mnemonic = "slight range duck dice oblige duck there list budget civil notice pride";

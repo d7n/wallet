@@ -1,1 +1,1 @@
-var mnemonic = "hero trim genuine old pilot best flip middle sock raven glide hood";
+var mnemonic = "robust obscure number category armor sibling mom group ancient glare truth gift";

@@ -1,1 +1,1 @@
-var mnemonic = "coil brave palace salute wealth limb rug cube demise vintage quick sweet";
+var mnemonic = "say laugh gospel bachelor stomach drama patrol portion bus still velvet endless";

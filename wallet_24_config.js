@@ -1,1 +1,1 @@
-var mnemonic = "course random among junk gravity rack trip distance yellow random mosquito replace";
+var mnemonic = "attract bar basic ocean protect stairs cabin mad must world blush rice";

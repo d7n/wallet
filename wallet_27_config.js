@@ -1,1 +1,1 @@
-var mnemonic = "bullet tuition fan range just speak column hazard rally peanut minor endless";
+var mnemonic = "toy soda flower super defense sponsor verify lake kiwi winter latin genre";

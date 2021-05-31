@@ -1,1 +1,1 @@
-var mnemonic = "wrist suffer song find purpose snake copper valley degree frozen carpet shock";
+var mnemonic = "replace polar top rare iron sick steel minimum into unknown settle collect";

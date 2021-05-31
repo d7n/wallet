@@ -1,1 +1,1 @@
-var mnemonic = "guitar life file spell claim kit above near garment eternal conduct bomb";
+var mnemonic = "round flower swamp frozen empty helmet situate position brick river used disease";

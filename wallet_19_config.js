@@ -1,1 +1,1 @@
-var mnemonic = "grow announce exchange fault slim correct hamster until cross caught either process";
+var mnemonic = "slim journey together tide envelope dragon luxury quick boost doll fuel cannon";

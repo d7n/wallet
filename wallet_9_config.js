@@ -1,1 +1,1 @@
-var mnemonic = "method citizen faculty unknown quarter tiger sentence display neglect double garlic spawn";
+var mnemonic = "differ repeat cloud obscure state punch actor awesome advice fan hub dad";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster adult sign dad pride silly endorse voyage waste priority chapter core";
+var mnemonic = "click trim click daring genuine axis repeat pledge cute dash bracket intact";
