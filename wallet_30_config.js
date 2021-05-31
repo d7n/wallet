@@ -1,1 +1,1 @@
-var mnemonic = "forward drive crawl quick check stuff child oven jungle gap meat naive";
+var mnemonic = "fringe quality truck meat eyebrow general observe powder toddler forget trash someone";

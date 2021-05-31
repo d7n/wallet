@@ -1,1 +1,1 @@
-var mnemonic = "dice doll top captain banana alone civil exotic what swallow toe aware";
+var mnemonic = "stick exotic yellow mimic style shield claim produce best never vault trumpet";

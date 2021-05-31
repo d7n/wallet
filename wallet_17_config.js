@@ -1,1 +1,1 @@
-var mnemonic = "damp feel rose skirt annual alone smart filter major weapon arena project";
+var mnemonic = "trip erase parrot garbage crack trim entry diary earth retreat buzz moment";

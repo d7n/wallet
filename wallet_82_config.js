@@ -1,1 +1,1 @@
-var mnemonic = "gym crystal bomb problem horn plunge tape throw strong comfort arrow dog";
+var mnemonic = "tortoise test suspect unaware detect moral bird siege circle siege total venture";

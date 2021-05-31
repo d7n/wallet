@@ -1,1 +1,1 @@
-var mnemonic = "swim rally genius crush jungle canvas farm only winter update dentist grocery";
+var mnemonic = "near turtle oblige fame arch idea left breeze vapor affair hard siren";

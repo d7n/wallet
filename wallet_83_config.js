@@ -1,1 +1,1 @@
-var mnemonic = "demise harbor true recipe resist ocean panda aunt resemble squeeze rebuild soda";
+var mnemonic = "purchase stage home monster mystery dad thing help trap bonus risk grain";

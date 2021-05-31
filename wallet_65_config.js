@@ -1,1 +1,1 @@
-var mnemonic = "echo slender oppose mistake cheese famous toilet segment orange renew school base";
+var mnemonic = "dune crime bird shaft wide agent angry basket safe debate august reject";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow intact cliff nuclear pause word they crime soft donkey taxi parade";
+var mnemonic = "brand jar noodle image sunset box boat budget spot kite voyage silly";

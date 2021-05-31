@@ -1,1 +1,1 @@
-var mnemonic = "vast tool penalty urban jelly domain tragic replace camera tent staff cup";
+var mnemonic = "biology message page mention slush erosion remove assault glare punch cupboard network";

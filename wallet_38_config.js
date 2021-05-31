@@ -1,1 +1,1 @@
-var mnemonic = "damp spawn rule switch inflict slide hard caution exercise loop frame bounce";
+var mnemonic = "nice region whisper crystal meadow off donate material noise wide arctic carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse bubble appear possible dentist clarify pumpkin quantum cabin minimum pencil afraid";
+var mnemonic = "razor engine plug rate future cage upset quote abstract lawsuit amazing genre";

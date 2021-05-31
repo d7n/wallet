@@ -1,1 +1,1 @@
-var mnemonic = "athlete kingdom will slot six cover horror scan waste oppose tennis million";
+var mnemonic = "collect accident future panther rice now level goddess adjust vocal shallow source";

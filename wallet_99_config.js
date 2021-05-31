@@ -1,1 +1,1 @@
-var mnemonic = "obtain regular memory outdoor change loyal water wise vapor license bamboo shoot";
+var mnemonic = "immense catalog unfold suit fox captain surround eternal replace since country that";

@@ -1,1 +1,1 @@
-var mnemonic = "also digital type champion distance brisk sad anxiety work artist nephew obscure";
+var mnemonic = "purchase have hill distance boy lunar forward muscle pink captain force another";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket anger identify bulk fuel isolate angry kidney table broken truck day";
+var mnemonic = "allow possible start come hour betray fashion easy supply hold power wear";

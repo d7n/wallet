@@ -1,1 +1,1 @@
-var mnemonic = "faith staff novel income method liquid menu diary swim two captain advance";
+var mnemonic = "weird stool chase fix dinner unknown oven aspect swim royal glance neutral";

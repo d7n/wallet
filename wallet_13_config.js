@@ -1,1 +1,1 @@
-var mnemonic = "engine foster visa icon depth fire kiwi enough minor spider grit element";
+var mnemonic = "fit treat joy message bomb usage endless puzzle tank elbow biology trick";

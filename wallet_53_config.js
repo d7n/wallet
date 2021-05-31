@@ -1,1 +1,1 @@
-var mnemonic = "sausage issue hedgehog ring reunion tenant include ancient farm gap capital zebra";
+var mnemonic = "giant split good level velvet offer gun discover clown doll almost pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "member cereal frog palace act mail learn wife dice fringe ripple mask";
+var mnemonic = "orphan tooth oil task zebra science work winner utility write stove twelve";

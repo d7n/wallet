@@ -1,1 +1,1 @@
-var mnemonic = "master fine saddle hard fluid once will suffer border route travel hover";
+var mnemonic = "about employ right under bullet valve rule increase proud key outdoor promote";

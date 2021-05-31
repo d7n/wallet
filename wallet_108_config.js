@@ -1,1 +1,1 @@
-var mnemonic = "hello junior critic model chaos ensure reduce erase supply gesture nuclear deal";
+var mnemonic = "citizen flock elite cement bounce require work plastic consider garment whisper bar";

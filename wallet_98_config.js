@@ -1,1 +1,1 @@
-var mnemonic = "buffalo pyramid wasp wealth rally produce pause lonely liberty lunar famous action";
+var mnemonic = "wing farm comic kangaroo play jeans sign amazing shiver exact coin blush";

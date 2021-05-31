@@ -1,1 +1,1 @@
-var mnemonic = "wife spray object skin ask just elite few misery danger crane lottery";
+var mnemonic = "west easy song region basket inherit rhythm front process rug lumber junior";

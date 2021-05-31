@@ -1,1 +1,1 @@
-var mnemonic = "deputy patch cave agent jelly topple virus size push mechanic joke faculty";
+var mnemonic = "deliver patient such quality beef blossom hurry rubber noise egg mosquito awesome";

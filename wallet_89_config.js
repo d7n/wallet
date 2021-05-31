@@ -1,1 +1,1 @@
-var mnemonic = "inch shed jewel strong language mansion myself draft sample off easy cluster";
+var mnemonic = "summer mechanic gloom soon truth inflict rapid clip survey oak never acid";

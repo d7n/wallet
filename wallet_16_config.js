@@ -1,1 +1,1 @@
-var mnemonic = "total derive jacket wave famous gap aware miss toast now tornado safe";
+var mnemonic = "electric estate neglect butter struggle over zoo art brick gym coach era";

@@ -1,1 +1,1 @@
-var mnemonic = "easily picnic original jar exotic indicate scrub toe fan dust deposit attack";
+var mnemonic = "analyst ocean legend web delay option abstract observe begin violin woman crouch";

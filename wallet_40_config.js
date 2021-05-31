@@ -1,1 +1,1 @@
-var mnemonic = "supply change ecology shrimp goat ahead little secret twelve weekend stone pony";
+var mnemonic = "find amused affair table foot payment theory west brush dice little obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "door process sand labor once outside dinner enter maid tail because daughter";
+var mnemonic = "meat panther goose palace circle sorry parent ladder wonder pilot alcohol middle";

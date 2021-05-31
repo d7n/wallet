@@ -1,1 +1,1 @@
-var mnemonic = "surprise skirt blame busy promote horror market wave assist sand tragic screen";
+var mnemonic = "copper dutch never pave dutch column father candy border rare leopard length";

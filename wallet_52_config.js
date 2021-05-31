@@ -1,1 +1,1 @@
-var mnemonic = "forward earn jelly kit essence notable senior language famous praise lunch peace";
+var mnemonic = "common celery gift uncle pluck mix loud category gaze intact uncover need";

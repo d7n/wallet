@@ -1,1 +1,1 @@
-var mnemonic = "volcano swap find evidence child egg grit dilemma ivory ethics picnic absent";
+var mnemonic = "erosion book debris uphold course report merry say awesome usage gallery farm";

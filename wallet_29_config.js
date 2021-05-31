@@ -1,1 +1,1 @@
-var mnemonic = "path second vote ancient vague secret attend misery course thunder connect whale";
+var mnemonic = "square intact dynamic shallow output soap profit mouse tennis extend brush private";

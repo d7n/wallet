@@ -1,1 +1,1 @@
-var mnemonic = "clown arctic manage country legal north lens smile blouse frost patch report";
+var mnemonic = "critic guitar keen omit thumb race social direct broken draft ridge icon";

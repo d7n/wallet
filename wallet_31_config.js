@@ -1,1 +1,1 @@
-var mnemonic = "soft gate hello witness giraffe cream junior portion envelope awake script kiss";
+var mnemonic = "alcohol organ safe include rapid wave inject south beauty flame visual atom";

@@ -1,1 +1,1 @@
-var mnemonic = "toast feature ice awake above aspect demise aunt mutual wheel door sudden";
+var mnemonic = "punch drop unfold bullet object room humor pave stuff ugly update escape";

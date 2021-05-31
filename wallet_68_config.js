@@ -1,1 +1,1 @@
-var mnemonic = "castle toilet clarify debate desert always learn patch inmate away merry rug";
+var mnemonic = "alcohol goddess lab cheap relax size regret feed arrow disorder fresh rare";

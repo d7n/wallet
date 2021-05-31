@@ -1,1 +1,1 @@
-var mnemonic = "pitch next park twist lazy blade beauty rude promote spare between swift";
+var mnemonic = "shield will front double that bean plate humble glow man chase blush";

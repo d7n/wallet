@@ -1,1 +1,1 @@
-var mnemonic = "place decorate color small soda school exclude later imitate wash rely angle";
+var mnemonic = "surge flight ghost crowd item scrub moment evil casino few receive science";

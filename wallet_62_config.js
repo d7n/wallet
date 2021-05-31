@@ -1,1 +1,1 @@
-var mnemonic = "photo puppy account excuse gospel habit buzz lava company erode knee letter";
+var mnemonic = "disorder impulse fitness mule prosper jewel sting occur timber atom glue muffin";

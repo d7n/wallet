@@ -1,1 +1,1 @@
-var mnemonic = "palace equip gym improve legend recycle fee side pulp source dice icon";
+var mnemonic = "boy coast supply public sauce faculty broom weasel arrange slice opera system";

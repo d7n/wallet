@@ -1,1 +1,1 @@
-var mnemonic = "scheme bargain sight weather practice design help mosquito comic mandate exhaust limit";
+var mnemonic = "noise pretty time decide opera embody follow desk dry keen trade calm";

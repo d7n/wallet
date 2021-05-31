@@ -1,1 +1,1 @@
-var mnemonic = "write design year hand tenant tackle erode jaguar trial olympic usual elevator";
+var mnemonic = "pair way offer cradle win ginger test despair kite wisdom trade pig";

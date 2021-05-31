@@ -1,1 +1,1 @@
-var mnemonic = "lumber host ripple certain jump skin spoon obtain ugly cook render useful";
+var mnemonic = "fever guess insect boil onion auto captain genius uniform foster march educate";

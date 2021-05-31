@@ -1,1 +1,1 @@
-var mnemonic = "rhythm dice accident that cost require basket verb loud decline window black";
+var mnemonic = "hundred similar innocent believe ocean hybrid memory nut struggle used client banner";

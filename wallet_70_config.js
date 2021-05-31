@@ -1,1 +1,1 @@
-var mnemonic = "destroy crumble little universe purity true eager dawn column mass peace pitch";
+var mnemonic = "sausage keep frost code excess hill beyond anger powder color license during";

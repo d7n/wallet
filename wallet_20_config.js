@@ -1,1 +1,1 @@
-var mnemonic = "pudding scare pottery next camp shadow image interest secret rent aisle quote";
+var mnemonic = "sell toss tennis melody pulp supreme hunt spy awkward popular hockey path";

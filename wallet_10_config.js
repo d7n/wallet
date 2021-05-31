@@ -1,1 +1,1 @@
-var mnemonic = "lonely title ecology piece genuine tilt panel today pepper cousin eternal sight";
+var mnemonic = "shock skate olympic genre clay doctor earn live project chase two bread";

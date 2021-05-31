@@ -1,1 +1,1 @@
-var mnemonic = "grain moral muffin layer clay hub trouble near transfer motor prefer peasant";
+var mnemonic = "rescue wise fatigue found abstract uncle length pioneer staff lawn banner sign";

@@ -1,1 +1,1 @@
-var mnemonic = "robot release air hollow treat ten cancel label fame vintage wave drop";
+var mnemonic = "cloud broccoli ozone edge boat attack column huge entry since quick hunt";

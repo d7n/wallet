@@ -1,1 +1,1 @@
-var mnemonic = "young guide anchor slender village depth wild ability swing crash zone orchard";
+var mnemonic = "access amazing express bike element sugar between element federal submit garden display";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite dog surge primary alpha that diamond laugh bar earth remember pencil";
+var mnemonic = "charge tenant shine tower faculty broccoli clutch blossom entire verify amateur mule";

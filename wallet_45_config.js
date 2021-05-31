@@ -1,1 +1,1 @@
-var mnemonic = "birth acid maple episode cycle loyal drama bar already laugh size exotic";
+var mnemonic = "elbow unknown oval plate pigeon safe gallery gun rhythm wash garlic rely";

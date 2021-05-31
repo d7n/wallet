@@ -1,1 +1,1 @@
-var mnemonic = "clog neutral miss outdoor clump march squirrel afford depend inner actress problem";
+var mnemonic = "wise gauge when fortune north typical coffee deliver clarify still rack below";

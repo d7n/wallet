@@ -1,1 +1,1 @@
-var mnemonic = "release crane together escape tired moral tunnel coyote curious stereo celery wrong";
+var mnemonic = "amount wrestle turkey apology amateur gift rally home turn nephew nose auction";

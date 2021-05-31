@@ -1,1 +1,1 @@
-var mnemonic = "enjoy taxi stable drink nation motor hamster cousin flee purity museum nasty";
+var mnemonic = "town sense fragile athlete cloud cute budget banana security middle quality such";

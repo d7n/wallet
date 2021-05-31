@@ -1,1 +1,1 @@
-var mnemonic = "eight olive ozone transfer rent marble lottery inside mirror anchor track employ";
+var mnemonic = "team fan curious patient game arctic eye pause face pretty screen guess";

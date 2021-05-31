@@ -1,1 +1,1 @@
-var mnemonic = "exhibit coconut card bunker soccer fruit imitate horn own weapon cousin crunch";
+var mnemonic = "license card wise dust joke success umbrella trip same true snap choice";

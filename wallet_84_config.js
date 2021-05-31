@@ -1,1 +1,1 @@
-var mnemonic = "picnic enjoy hand post region fat concert hobby tiny town tongue fork";
+var mnemonic = "shove future bus nephew punch tell nice shoot hammer swarm grunt oven";

@@ -1,1 +1,1 @@
-var mnemonic = "test upper toward glimpse inform prefer grid deliver vague collect silver they";
+var mnemonic = "candy behind bread daring daughter pigeon joke series today guilt cup neck";

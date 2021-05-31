@@ -1,1 +1,1 @@
-var mnemonic = "safe olympic oyster toward alcohol industry grace rifle ostrich surround such fortune";
+var mnemonic = "still slam choose industry laptop task put system sphere leader tackle faint";

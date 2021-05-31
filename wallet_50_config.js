@@ -1,1 +1,1 @@
-var mnemonic = "stem identify during grace sorry hire rebuild later list drink trap almost";
+var mnemonic = "label balcony empty term tone valid slide anger minor cancel ripple peasant";

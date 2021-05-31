@@ -1,1 +1,1 @@
-var mnemonic = "snack trim define disagree pet sister human tattoo settle assault oak math";
+var mnemonic = "stadium tuna resource alert throw aspect recipe axis unlock clerk middle begin";

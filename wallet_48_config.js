@@ -1,1 +1,1 @@
-var mnemonic = "shuffle document spawn hint depth zebra debris liquid fruit night walk rough";
+var mnemonic = "jeans true around increase obscure benefit rude insect sort attitude evoke vibrant";

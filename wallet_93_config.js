@@ -1,1 +1,1 @@
-var mnemonic = "birth clap city blast sense loyal autumn reflect ethics search cream ready";
+var mnemonic = "exhibit all depend future box nice melody coconut blood valid digital wing";

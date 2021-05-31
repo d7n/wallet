@@ -1,1 +1,1 @@
-var mnemonic = "glove once cushion ghost window lamp student play seed claw wide photo";
+var mnemonic = "page more fan salmon negative pelican stomach test pluck galaxy wing close";

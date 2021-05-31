@@ -1,1 +1,1 @@
-var mnemonic = "high impulse pencil oppose unit double honey wire list grow slight become";
+var mnemonic = "loyal rice retire tragic cat edit spider mass humble become ocean van";

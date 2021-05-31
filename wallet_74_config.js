@@ -1,1 +1,1 @@
-var mnemonic = "around home excite brick place okay angle viable basket ice feed raw";
+var mnemonic = "vehicle cheese road volume cram void august verify indoor trip grace time";

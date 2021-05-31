@@ -1,1 +1,1 @@
-var mnemonic = "wheat luxury shine flower retire ask fury sheriff range answer host loud";
+var mnemonic = "clock final wise liar stick mouse snap clump purse clay capable sudden";

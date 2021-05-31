@@ -1,1 +1,1 @@
-var mnemonic = "arch oxygen sell hour law rigid joy gold aerobic help snow sorry";
+var mnemonic = "dinosaur wear jump drip bird can toe bubble rude collect cry riot";

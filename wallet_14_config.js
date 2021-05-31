@@ -1,1 +1,1 @@
-var mnemonic = "hole shaft shiver lawn alley learn flee vibrant tonight scout regular what";
+var mnemonic = "army lady notice position time useless change small south cheese lab little";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid salad dress thunder dilemma lobster sick cat beef hurdle reject payment";
+var mnemonic = "sound side magnet violin cable prevent level knee seminar detect tube defense";

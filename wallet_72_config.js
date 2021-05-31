@@ -1,1 +1,1 @@
-var mnemonic = "safe ill lake lottery tissue august able invest accuse junk caught talent";
+var mnemonic = "arrest hollow between chef ecology segment arrow benefit code cover august develop";

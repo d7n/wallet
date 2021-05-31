@@ -1,1 +1,1 @@
-var mnemonic = "urge smile twice athlete behave dragon behave virtual sick chaos lion left";
+var mnemonic = "satoshi congress attract ski master emotion flee cabbage call knife turkey brave";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology brave work dial vapor smooth office pool innocent upgrade used flip";
+var mnemonic = "mom arch decrease trouble logic assault saddle dry alert earth ocean roast";

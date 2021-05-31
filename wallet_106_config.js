@@ -1,1 +1,1 @@
-var mnemonic = "busy mirror core copper airport asthma dolphin comic section purchase eternal cave";
+var mnemonic = "absurd giraffe need elite since drill tunnel unhappy drop sunny false asset";

@@ -1,1 +1,1 @@
-var mnemonic = "insane snow motion certain museum tomato exhaust rebel again tray amateur divert";
+var mnemonic = "effort column metal unfair envelope rail civil pen permit local foot exact";

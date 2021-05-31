@@ -1,1 +1,1 @@
-var mnemonic = "victory comfort member sing what render sign frost code brown tenant effort";
+var mnemonic = "dinosaur opera quit episode input arrange cannon spider million find dilemma stool";

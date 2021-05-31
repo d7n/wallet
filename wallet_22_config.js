@@ -1,1 +1,1 @@
-var mnemonic = "million mass poverty robust cruise casual fiscal chuckle equal law east reject";
+var mnemonic = "extend indoor maximum curtain junior sing tortoise custom woman liquid future robust";

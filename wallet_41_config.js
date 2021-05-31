@@ -1,1 +1,1 @@
-var mnemonic = "tuition finger buffalo royal teach area quote side absorb blossom grain boost";
+var mnemonic = "civil describe wedding moment crop invite pass smile embark kitten blade trip";
