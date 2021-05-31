@@ -1,1 +1,1 @@
-var mnemonic = "marble measure coconut lunar left tape regret glare wisdom chimney offer approve";
+var mnemonic = "cat latin fuel nation category top chapter hunt patch egg focus web";

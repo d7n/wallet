@@ -1,1 +1,1 @@
-var mnemonic = "cry marble mouse season enact unusual cushion much zebra dune essay uncover";
+var mnemonic = "trust census simple canyon close obey jump rich battle allow pigeon genius";

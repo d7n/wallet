@@ -1,1 +1,1 @@
-var mnemonic = "limit rough physical relief grass resist moon toilet trip excite imitate shaft";
+var mnemonic = "twelve unlock stadium segment keep uphold donate method quick goddess trumpet wrap";

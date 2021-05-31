@@ -1,1 +1,1 @@
-var mnemonic = "march dumb kite category kid vivid future fox cradle pipe priority kiwi";
+var mnemonic = "toward luxury drink normal goddess acquire slight hour monkey useless female achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "kick bird decorate enforce enhance mercy summer misery into fat ankle short";
+var mnemonic = "bottom convince trade key predict illness tourist hen cry income cool foster";

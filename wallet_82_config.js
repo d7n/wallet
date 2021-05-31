@@ -1,1 +1,1 @@
-var mnemonic = "snow demise flash kitchen middle crouch effort swift suspect awesome diesel evil";
+var mnemonic = "common such around sight marriage frost beef labor put suspect outdoor author";

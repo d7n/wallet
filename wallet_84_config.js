@@ -1,1 +1,1 @@
-var mnemonic = "glove chunk spice shop dizzy history label address source slush final great";
+var mnemonic = "lunar opera nation buyer pact add job virus deal frown soccer evoke";

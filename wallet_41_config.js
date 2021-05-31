@@ -1,1 +1,1 @@
-var mnemonic = "bubble shift wagon top crisp hill north blind length code mixture hello";
+var mnemonic = "pride custom use fury execute mirror stumble oval addict broken knock danger";

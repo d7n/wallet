@@ -1,1 +1,1 @@
-var mnemonic = "sustain correct fly glare kiwi auto fork smoke easily ridge margin rely";
+var mnemonic = "split reunion strong announce sing dirt view tent away glory autumn siege";

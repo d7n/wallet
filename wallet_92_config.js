@@ -1,1 +1,1 @@
-var mnemonic = "certain type riot conduct avocado owner height ostrich wedding spare goose depend";
+var mnemonic = "jealous olympic drop civil february walk extend health idea element earn local";

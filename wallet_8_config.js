@@ -1,1 +1,1 @@
-var mnemonic = "shrimp iron approve barely panic barely cake student call enroll wolf hope";
+var mnemonic = "wood blur insect neither response enable target swamp round plastic diary chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "shove size title sick ginger address circle dish predict since boost twelve";
+var mnemonic = "planet book age crop observe galaxy novel pink depth bacon obvious senior";

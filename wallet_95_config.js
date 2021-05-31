@@ -1,1 +1,1 @@
-var mnemonic = "three ribbon truck six job salmon divide choose patrol catch idle flush";
+var mnemonic = "funny debate claim code august cannon adjust analyst chaos maple reform equal";

@@ -1,1 +1,1 @@
-var mnemonic = "arm cheese lucky dial loyal thumb frequent bus donkey mystery concert defy";
+var mnemonic = "weekend canyon shoe border miss slam lecture plate extend cheap clump toast";

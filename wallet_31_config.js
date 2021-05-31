@@ -1,1 +1,1 @@
-var mnemonic = "pigeon weekend liquid stadium about decline source slush vacuum flush embark spice";
+var mnemonic = "erupt palm solution ahead mean identify segment jump twist relief note drive";

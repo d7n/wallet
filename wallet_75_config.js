@@ -1,1 +1,1 @@
-var mnemonic = "modify loud umbrella plunge glue two lumber sleep punch proud explain twist";
+var mnemonic = "document dumb worth vendor tissue zebra radio lucky hurdle invite hundred cradle";

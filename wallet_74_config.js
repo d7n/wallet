@@ -1,1 +1,1 @@
-var mnemonic = "sunny ring nerve sketch used source route jungle trip lunar bundle have";
+var mnemonic = "hidden tool diagram chat model verb scrap about gather name brief common";

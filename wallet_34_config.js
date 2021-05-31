@@ -1,1 +1,1 @@
-var mnemonic = "faint mix company eight carpet profit mail vapor behave spider seminar basic";
+var mnemonic = "whale around census welcome lunch cabbage point traffic few craft solid bulb";

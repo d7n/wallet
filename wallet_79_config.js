@@ -1,1 +1,1 @@
-var mnemonic = "sample hammer room also wrestle belt arm bind lava engage lucky about";
+var mnemonic = "torch misery fee juice detail item cycle print echo expire deer banner";

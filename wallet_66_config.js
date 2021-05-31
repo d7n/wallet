@@ -1,1 +1,1 @@
-var mnemonic = "depart hold awesome cry text orphan plunge bike check load recipe during";
+var mnemonic = "issue kitten pill volcano boat game office above circle junior range lumber";

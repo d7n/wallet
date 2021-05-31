@@ -1,1 +1,1 @@
-var mnemonic = "fall snake galaxy royal interest scheme ridge noise board stadium stand divert";
+var mnemonic = "load orbit quarter feed twenty shoulder woman liberty village fragile trash betray";

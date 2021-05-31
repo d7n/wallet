@@ -1,1 +1,1 @@
-var mnemonic = "silver observe slender census recipe nurse spatial say involve path path attract";
+var mnemonic = "frozen apology fame brand tenant below worth pilot sunny lend enable summer";

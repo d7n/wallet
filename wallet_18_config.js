@@ -1,1 +1,1 @@
-var mnemonic = "joke suffer arrange gadget account dismiss border repair cheap limit usage summer";
+var mnemonic = "example age tent urge ladder artwork scheme step dust lamp wool glow";

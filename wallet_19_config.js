@@ -1,1 +1,1 @@
-var mnemonic = "behave wool rally tongue remain worth input quarter angry undo snake shove";
+var mnemonic = "boss pass boost mule lizard leader duty despair link magic unveil gain";

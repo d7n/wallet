@@ -1,1 +1,1 @@
-var mnemonic = "arm winter broom once rare profit alley knee danger welcome sign allow";
+var mnemonic = "cement meat luxury glove fork immune amount zone upon expand lunch social";

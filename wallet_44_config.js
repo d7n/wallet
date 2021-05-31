@@ -1,1 +1,1 @@
-var mnemonic = "collect lend panel system champion spare hazard job decorate crack online marble";
+var mnemonic = "divert glory sibling fork agree tissue west misery venture scare calm taxi";

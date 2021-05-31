@@ -1,1 +1,1 @@
-var mnemonic = "discover fat daring leg spoil typical unique color laugh zone finger sentence";
+var mnemonic = "prize guess gossip hybrid mirror ski often novel own rebuild discover silver";

@@ -1,1 +1,1 @@
-var mnemonic = "legend modify media ocean interest brown law unfold wet episode weasel sun";
+var mnemonic = "morning ready field tag dress sting royal yellow cost unique pool exotic";

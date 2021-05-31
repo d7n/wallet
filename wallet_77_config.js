@@ -1,1 +1,1 @@
-var mnemonic = "person repair unveil page flame renew tribe hello cram true maze harbor";
+var mnemonic = "portion number spawn trust dish wide refuse steel wear doll indicate will";

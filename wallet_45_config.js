@@ -1,1 +1,1 @@
-var mnemonic = "laundry twenty neutral cross this purity inject you foil curve alter unique";
+var mnemonic = "fiction claim old meat crisp large eye stove frost bright verb danger";

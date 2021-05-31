@@ -1,1 +1,1 @@
-var mnemonic = "fiber bike wonder leg elder glance daughter adjust dose actress enhance demise";
+var mnemonic = "hint night dumb true mammal someone analyst engine ensure enroll donor jelly";

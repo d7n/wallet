@@ -1,1 +1,1 @@
-var mnemonic = "drum shock fluid grab ladder slim holiday mansion apart rally rain brush";
+var mnemonic = "twist floor text copy science false ten coin toy enable combine clay";

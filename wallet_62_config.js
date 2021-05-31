@@ -1,1 +1,1 @@
-var mnemonic = "movie warm cargo enough menu dry mix velvet shoulder south timber tribe";
+var mnemonic = "purpose team order fresh harvest private example frost royal casino empty goat";

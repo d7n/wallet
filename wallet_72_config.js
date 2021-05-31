@@ -1,1 +1,1 @@
-var mnemonic = "rigid survey boil erupt veteran silly valve ginger proud vague rent blanket";
+var mnemonic = "frog timber canoe absurd connect diesel library skill century bar desert brass";

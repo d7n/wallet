@@ -1,1 +1,1 @@
-var mnemonic = "shoot arrest gauge crop sample this occur various pluck cash auto point";
+var mnemonic = "skate oyster success response leader best life hood differ whip grid tiger";

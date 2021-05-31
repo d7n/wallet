@@ -1,1 +1,1 @@
-var mnemonic = "empower neither year treat six forget sting kitten battle lady cat social";
+var mnemonic = "eager page cinnamon captain vintage swarm random keep license spike assume comic";

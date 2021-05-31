@@ -1,1 +1,1 @@
-var mnemonic = "spider wild capital artefact subway fury excite mushroom execute seek gain cushion";
+var mnemonic = "latin museum useful match notice border people pizza mind wisdom kid crew";

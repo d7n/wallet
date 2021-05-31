@@ -1,1 +1,1 @@
-var mnemonic = "pipe airport antique pitch emerge sibling receive rent sand immune broccoli board";
+var mnemonic = "secret muffin best uniform bean strong yard fold debris office climb season";

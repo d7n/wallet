@@ -1,1 +1,1 @@
-var mnemonic = "cherry suggest boy zoo review fat concert father drive merry nephew rapid";
+var mnemonic = "exchange ring wink insect float fix detail learn myself seat bulb skill";

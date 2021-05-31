@@ -1,1 +1,1 @@
-var mnemonic = "mammal twelve brass stumble soul vibrant milk deposit planet alpha world glass";
+var mnemonic = "cradle brave aisle weapon chuckle fuel collect ball grace pistol wheel old";

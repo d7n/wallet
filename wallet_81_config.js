@@ -1,1 +1,1 @@
-var mnemonic = "flash faculty energy demand when blood slogan change quiz shed gas illness";
+var mnemonic = "olive robot merge donor recycle host path lamp grow educate video honey";

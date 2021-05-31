@@ -1,1 +1,1 @@
-var mnemonic = "online quit urban coral current alone under business develop they pepper rotate";
+var mnemonic = "before crunch asset choice cool skin claim safe trap destroy nation year";

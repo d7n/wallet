@@ -1,1 +1,1 @@
-var mnemonic = "summer jump inspire faint keep vintage truth scout autumn army food cliff";
+var mnemonic = "toward puppy subject crush east puzzle biology habit pumpkin party open catch";

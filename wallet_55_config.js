@@ -1,1 +1,1 @@
-var mnemonic = "yellow surprise indicate hair gentle drink clutch wedding pitch someone prosper citizen";
+var mnemonic = "child artwork abuse oppose punch proud gossip often pudding fashion slow camera";

@@ -1,1 +1,1 @@
-var mnemonic = "bike harsh pear case visa next best drive gadget impose slush accuse";
+var mnemonic = "lion wash chaos learn season couple width beyond various orange join fence";

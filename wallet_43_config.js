@@ -1,1 +1,1 @@
-var mnemonic = "bike motion urge october embrace cloth pumpkin fury doll muffin busy noble";
+var mnemonic = "rent always address safe cram domain aspect cheap sample left omit random";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon moon axis lounge enough list resist grant capable argue scorpion punch";
+var mnemonic = "omit solar orbit dice fish snack adult enable tenant century frequent current";

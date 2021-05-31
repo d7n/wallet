@@ -1,1 +1,1 @@
-var mnemonic = "master maple luggage farm crime garbage milk hope able story danger circle";
+var mnemonic = "term scorpion guess wonder task wild version tobacco old pretty three vast";

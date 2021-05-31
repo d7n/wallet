@@ -1,1 +1,1 @@
-var mnemonic = "cluster useful echo agree public trial jelly region brisk spawn glad rival";
+var mnemonic = "aerobic indoor sponsor engage coast crush forget memory cake audit ritual famous";

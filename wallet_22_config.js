@@ -1,1 +1,1 @@
-var mnemonic = "dawn chef girl squirrel million actual gorilla garment number rebel local primary";
+var mnemonic = "render room forget north myth access buzz leg humble bunker change place";

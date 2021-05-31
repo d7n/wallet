@@ -1,1 +1,1 @@
-var mnemonic = "debate next hip talent famous dynamic ritual science slice during flight typical";
+var mnemonic = "alien cloth powder similar chunk arch clump grace twice lawn harsh include";

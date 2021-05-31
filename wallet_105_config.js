@@ -1,1 +1,1 @@
-var mnemonic = "cheap miss report flame pool stable slam point future half catch below";
+var mnemonic = "mean index quit account manual youth chat carry light market rude matter";

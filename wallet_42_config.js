@@ -1,1 +1,1 @@
-var mnemonic = "mail swarm logic lottery grant asthma buyer icon truth intact leader radar";
+var mnemonic = "jacket poet chalk throw vault wine employ truck shaft dragon below bless";

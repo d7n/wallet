@@ -1,1 +1,1 @@
-var mnemonic = "decline grant return ribbon elbow shock eight sentence achieve electric hollow afraid";
+var mnemonic = "bring caution fancy birth able december ship drive impact short chicken lecture";

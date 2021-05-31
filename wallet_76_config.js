@@ -1,1 +1,1 @@
-var mnemonic = "inner hand deny sad sadness odor traffic pitch spell century start start";
+var mnemonic = "castle file dwarf smooth wait lizard fog agree eyebrow peasant thrive credit";

@@ -1,1 +1,1 @@
-var mnemonic = "people fiber argue lady winner inform february modify burden casino soda media";
+var mnemonic = "scissors obscure shine digital style almost speed dirt unique taste bring swing";

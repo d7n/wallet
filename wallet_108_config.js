@@ -1,1 +1,1 @@
-var mnemonic = "damage brown token illness whip speak opera buyer comic solar estate tiny";
+var mnemonic = "brisk episode mutual tail october harvest solution stuff shift state tray doll";

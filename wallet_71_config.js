@@ -1,1 +1,1 @@
-var mnemonic = "pizza antenna heavy faith steel shop palm blouse bubble major access crash";
+var mnemonic = "erosion option shock same video club castle swamp unusual fever ship fish";

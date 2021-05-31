@@ -1,1 +1,1 @@
-var mnemonic = "sheriff vivid cabin similar belt around train denial police wrong twin hotel";
+var mnemonic = "galaxy payment load hollow strong fiction appear zoo gather edit brisk outer";

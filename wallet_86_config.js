@@ -1,1 +1,1 @@
-var mnemonic = "cart recycle unit cherry cliff crew february local service text entire harbor";
+var mnemonic = "mystery above pipe interest quick chuckle subject arrow enhance supply budget together";

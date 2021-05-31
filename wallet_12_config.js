@@ -1,1 +1,1 @@
-var mnemonic = "slam scout hard whip dial pencil attract super badge question copper debate";
+var mnemonic = "share few stereo shove where resemble cotton genre edit toddler certain emerge";

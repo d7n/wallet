@@ -1,1 +1,1 @@
-var mnemonic = "time wrap fly movie canvas kidney mammal salon quality remove accident slender";
+var mnemonic = "bar soap dilemma cement mixed fiscal enable language enough consider unique habit";

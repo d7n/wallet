@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo future all resist garment come nephew present pioneer corn olive weekend";
+var mnemonic = "camp patch pond magic mammal feel onion concert buddy pitch april hockey";

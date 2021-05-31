@@ -1,1 +1,1 @@
-var mnemonic = "chalk panther lyrics faculty cake width subject flight utility board matrix crew";
+var mnemonic = "lion unhappy pulp have material expose work crane culture hybrid weekend observe";

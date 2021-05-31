@@ -1,1 +1,1 @@
-var mnemonic = "farm nest spoil cereal card flush canyon slight father mango welcome check";
+var mnemonic = "cement rack aunt circle grow life swallow demand lesson notice vocal improve";

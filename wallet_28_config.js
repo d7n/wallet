@@ -1,1 +1,1 @@
-var mnemonic = "decade burden immense match jeans this mother among rocket bronze observe begin";
+var mnemonic = "poem provide stove wire rifle world donate crisp early mixture slender arrow";

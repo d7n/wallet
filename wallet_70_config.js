@@ -1,1 +1,1 @@
-var mnemonic = "salad device object melt amused prevent split roof turn race conduct vocal";
+var mnemonic = "picnic capable tray solution rescue glue fire curtain blast trap learn shuffle";

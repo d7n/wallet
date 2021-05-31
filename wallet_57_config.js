@@ -1,1 +1,1 @@
-var mnemonic = "elegant pumpkin bounce marble tumble alone pledge tuition increase pole engine verify";
+var mnemonic = "hunt cabin spin position border device volume garlic lazy twelve east liberty";

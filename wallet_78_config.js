@@ -1,1 +1,1 @@
-var mnemonic = "leisure motor blast network intact forward island deal hollow fossil ecology photo";
+var mnemonic = "misery empower labor direct idea print various boost cheese shrimp service boss";

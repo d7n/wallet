@@ -1,1 +1,1 @@
-var mnemonic = "equal resist prefer avocado night cart poet price slice profit lottery myself";
+var mnemonic = "sight flush gauge okay trip crane describe draft torch wish autumn virtual";

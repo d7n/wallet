@@ -1,1 +1,1 @@
-var mnemonic = "ice crystal glare charge fury hill core mercy diesel salmon turtle cannon";
+var mnemonic = "suggest twin lake level there burst cannon whale mixture link fatigue wreck";

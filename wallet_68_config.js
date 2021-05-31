@@ -1,1 +1,1 @@
-var mnemonic = "december panther bulb dinner interest olive trade inquiry champion fox orphan rich";
+var mnemonic = "glow welcome tunnel six risk swear energy shine bring milk frog country";

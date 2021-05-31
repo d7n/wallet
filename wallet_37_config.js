@@ -1,1 +1,1 @@
-var mnemonic = "parent ability borrow unhappy salon group hood average goat relax cook slogan";
+var mnemonic = "athlete dragon grid jazz library loan sell joke slogan print someone culture";

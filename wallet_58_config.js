@@ -1,1 +1,1 @@
-var mnemonic = "cannon gain flock copy tortoise afraid garden absorb mind permit clay little";
+var mnemonic = "rotate tuna crunch sell kidney narrow bring online gloom nose bomb chief";

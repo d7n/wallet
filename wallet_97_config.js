@@ -1,1 +1,1 @@
-var mnemonic = "relief glad provide cool mule broccoli core peasant run swim hill weekend";
+var mnemonic = "session stock potato slam range vicious utility split salute novel two hover";

@@ -1,1 +1,1 @@
-var mnemonic = "cake spy arrest flavor correct key tourist mistake tribe differ develop print";
+var mnemonic = "melt truth unknown master feed believe weird flip denial reunion magic cover";

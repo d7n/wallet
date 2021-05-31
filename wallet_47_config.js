@@ -1,1 +1,1 @@
-var mnemonic = "main elegant gown broom foam movie flush fish shadow shaft bike buzz";
+var mnemonic = "harvest fancy cube shove hair turn dilemma antique lunar record denial silk";

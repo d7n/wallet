@@ -1,1 +1,1 @@
-var mnemonic = "next other pulp gravity fine crumble around tissue height again brass position";
+var mnemonic = "unfold catch bag found naive secret spice vessel true explain clump water";

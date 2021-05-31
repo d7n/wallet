@@ -1,1 +1,1 @@
-var mnemonic = "foot square frost tackle alter flame piano you amount volcano advice receive";
+var mnemonic = "proof priority abuse black will game smile remind much coyote good table";

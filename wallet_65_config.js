@@ -1,1 +1,1 @@
-var mnemonic = "country wall affair achieve olive soldier thunder quick hungry language square hood";
+var mnemonic = "clutch response praise wire gold yard orient rent lonely mansion basic drink";

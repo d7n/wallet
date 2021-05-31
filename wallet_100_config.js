@@ -1,1 +1,1 @@
-var mnemonic = "blanket strategy omit public omit umbrella twin tent motor noodle ginger fuel";
+var mnemonic = "proud glory sword shield ranch fly shed job whale liberty awkward easy";

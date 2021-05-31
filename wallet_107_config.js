@@ -1,1 +1,1 @@
-var mnemonic = "rebel law dolphin vacuum retreat rose kitten guilt spin exchange cattle disorder";
+var mnemonic = "jar cost involve round crack cause review method violin fancy uniform gauge";

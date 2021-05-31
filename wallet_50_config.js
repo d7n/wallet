@@ -1,1 +1,1 @@
-var mnemonic = "gesture pulse faith gentle double retreat absurd trade remain sunny lumber stage";
+var mnemonic = "roof wide unhappy song whip harbor sea heart supreme clown initial provide";

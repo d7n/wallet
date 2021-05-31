@@ -1,1 +1,1 @@
-var mnemonic = "emerge inflict torch table amateur lawn twelve assist pull evolve ordinary grocery";
+var mnemonic = "hood carbon gas genre fury between volcano must mom olympic riot logic";

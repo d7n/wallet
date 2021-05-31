@@ -1,1 +1,1 @@
-var mnemonic = "cigar amused borrow wasp reflect social alert grace first try crater round";
+var mnemonic = "tell ozone fall kidney draft pistol danger robot promote flip treat brother";

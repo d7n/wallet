@@ -1,1 +1,1 @@
-var mnemonic = "unfair response laptop range rough ball winner report call cabin empower trash";
+var mnemonic = "brisk antique nice smile collect draft time raw flock hunt scheme craft";

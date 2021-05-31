@@ -1,1 +1,1 @@
-var mnemonic = "thank view luggage aerobic fold edit furnace fitness ostrich blouse brown crisp";
+var mnemonic = "train local warfare three print develop bullet home peasant stone erupt alley";

@@ -1,1 +1,1 @@
-var mnemonic = "column luggage remove best draw dentist borrow tomato leave boy divorce era";
+var mnemonic = "drum ocean about fault giggle kick grace glad wise eyebrow negative rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "catch mean duck rack midnight pass clever truth aim daughter cluster mammal";
+var mnemonic = "organ gown breeze ten hunt copy alter fun awkward obvious aim coach";

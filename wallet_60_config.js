@@ -1,1 +1,1 @@
-var mnemonic = "balcony wife spend execute around evolve busy until blade bomb lizard nothing";
+var mnemonic = "oven address month few item gym cactus bounce crawl soldier dignity fit";
