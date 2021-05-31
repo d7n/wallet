@@ -1,1 +1,1 @@
-var mnemonic = "jeans true around increase obscure benefit rude insect sort attitude evoke vibrant";
+var mnemonic = "awkward resemble social dream scan venture poverty staff fork valid flee street";

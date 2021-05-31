@@ -1,1 +1,1 @@
-var mnemonic = "charge tenant shine tower faculty broccoli clutch blossom entire verify amateur mule";
+var mnemonic = "siege year credit mango receive rose flavor much slender motion october fly";

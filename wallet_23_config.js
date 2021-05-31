@@ -1,1 +1,1 @@
-var mnemonic = "amount wrestle turkey apology amateur gift rally home turn nephew nose auction";
+var mnemonic = "valley expire cruel pause drive hand uncle whip trade balance sunset supreme";

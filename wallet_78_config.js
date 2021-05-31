@@ -1,1 +1,1 @@
-var mnemonic = "reveal sunset street pill oyster inflict august stamp gospel image thrive pistol";
+var mnemonic = "nasty apology real pink seven foam indoor fall off melt upgrade chef";

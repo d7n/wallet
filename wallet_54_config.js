@@ -1,1 +1,1 @@
-var mnemonic = "sock math delay silly maid grit because tree bamboo cry review maze";
+var mnemonic = "toy prevent title network chalk sad coach inspire praise nurse vapor brick";

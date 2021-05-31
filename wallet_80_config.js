@@ -1,1 +1,1 @@
-var mnemonic = "walk pattern call palace abandon trick swamp note coffee leg trade grab";
+var mnemonic = "torch resemble debris normal remain wool north stereo mixed element salad tent";

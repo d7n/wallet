@@ -1,1 +1,1 @@
-var mnemonic = "razor engine plug rate future cage upset quote abstract lawsuit amazing genre";
+var mnemonic = "clown region dash tenant wash churn grocery sport advice absorb early code";

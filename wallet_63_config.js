@@ -1,1 +1,1 @@
-var mnemonic = "female ivory speak deny pelican update loop aim assume unlock kid tourist";
+var mnemonic = "tragic donkey social hint cancel observe jaguar erosion song candy damp omit";

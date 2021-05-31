@@ -1,1 +1,1 @@
-var mnemonic = "punch drop unfold bullet object room humor pave stuff ugly update escape";
+var mnemonic = "river abuse element air disease music degree plate forward pumpkin panda mercy";

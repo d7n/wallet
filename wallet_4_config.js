@@ -1,1 +1,1 @@
-var mnemonic = "satoshi congress attract ski master emotion flee cabbage call knife turkey brave";
+var mnemonic = "elder pelican ketchup tooth visa foam leopard olive rocket reward clog master";

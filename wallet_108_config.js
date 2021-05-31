@@ -1,1 +1,1 @@
-var mnemonic = "citizen flock elite cement bounce require work plastic consider garment whisper bar";
+var mnemonic = "post ski parent cage elegant shaft tone air discover oven owner plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "weird stool chase fix dinner unknown oven aspect swim royal glance neutral";
+var mnemonic = "inform awake fruit about cool quit chicken glimpse check cream nest lake";

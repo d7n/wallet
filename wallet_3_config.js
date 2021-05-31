@@ -1,1 +1,1 @@
-var mnemonic = "collect accident future panther rice now level goddess adjust vocal shallow source";
+var mnemonic = "fury giraffe case ahead indicate absorb amount thrive inch aisle lesson parrot";

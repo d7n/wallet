@@ -1,1 +1,1 @@
-var mnemonic = "purchase stage home monster mystery dad thing help trap bonus risk grain";
+var mnemonic = "express shrug question wealth liberty theory action neutral denial ordinary wage next";

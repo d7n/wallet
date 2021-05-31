@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur opera quit episode input arrange cannon spider million find dilemma stool";
+var mnemonic = "crucial hero forward unveil exotic farm amount hurry web sleep soft slush";

@@ -1,1 +1,1 @@
-var mnemonic = "endless awake car garage kingdom run mystery cute honey pause little grocery";
+var mnemonic = "forest protect resource lunch grocery inch fetch need arrange ability custom air";

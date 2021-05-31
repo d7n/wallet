@@ -1,1 +1,1 @@
-var mnemonic = "stadium tuna resource alert throw aspect recipe axis unlock clerk middle begin";
+var mnemonic = "chat album tragic ribbon rookie frame candy tree random cherry never response";

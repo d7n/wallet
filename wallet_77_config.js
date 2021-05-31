@@ -1,1 +1,1 @@
-var mnemonic = "allow possible start come hour betray fashion easy supply hold power wear";
+var mnemonic = "reward pelican two move swap media faculty sing trial promote coin shoot";

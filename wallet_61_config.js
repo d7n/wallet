@@ -1,1 +1,1 @@
-var mnemonic = "shield will front double that bean plate humble glow man chase blush";
+var mnemonic = "disorder age casual coral drift one despair blood weather upon type flight";

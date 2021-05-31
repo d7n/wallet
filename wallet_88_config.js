@@ -1,1 +1,1 @@
-var mnemonic = "group dinosaur avoid seminar half quantum relief harsh black famous audit humble";
+var mnemonic = "donor monster among side reward pottery position family laptop honey night copy";

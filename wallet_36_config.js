@@ -1,1 +1,1 @@
-var mnemonic = "still slam choose industry laptop task put system sphere leader tackle faint";
+var mnemonic = "gesture solution series produce guard island zebra picnic sign echo canoe vanish";

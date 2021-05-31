@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wear jump drip bird can toe bubble rude collect cry riot";
+var mnemonic = "oval ceiling rice vital pond push diary picture balance garbage about behave";

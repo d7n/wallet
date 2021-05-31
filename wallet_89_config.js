@@ -1,1 +1,1 @@
-var mnemonic = "summer mechanic gloom soon truth inflict rapid clip survey oak never acid";
+var mnemonic = "neither craft chronic glide lens axis dove close feed again butter double";

@@ -1,1 +1,1 @@
-var mnemonic = "noise pretty time decide opera embody follow desk dry keen trade calm";
+var mnemonic = "boss identify unique number supply wheel print nature sister fence slim auto";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst ocean legend web delay option abstract observe begin violin woman crouch";
+var mnemonic = "cushion lady autumn sample cattle flat vicious toy topic whisper limit salute";

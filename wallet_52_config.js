@@ -1,1 +1,1 @@
-var mnemonic = "common celery gift uncle pluck mix loud category gaze intact uncover need";
+var mnemonic = "equal divide random board arctic tape nice cement double muffin caught lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "trip erase parrot garbage crack trim entry diary earth retreat buzz moment";
+var mnemonic = "grass slab next pipe blanket swim inspire boat brief avocado later goat";

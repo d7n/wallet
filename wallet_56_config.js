@@ -1,1 +1,1 @@
-var mnemonic = "west easy song region basket inherit rhythm front process rug lumber junior";
+var mnemonic = "region egg give harsh now potato keep angle raven palm aspect start";

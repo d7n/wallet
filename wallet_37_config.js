@@ -1,1 +1,1 @@
-var mnemonic = "eternal wool hand globe hammer purpose defy wear regular suit enough whip";
+var mnemonic = "wagon scale license breeze task balance ritual start hundred frozen country goat";

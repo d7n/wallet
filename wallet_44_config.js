@@ -1,1 +1,1 @@
-var mnemonic = "candy behind bread daring daughter pigeon joke series today guilt cup neck";
+var mnemonic = "home steel idea unlock amused bronze device this eager black subway vibrant";

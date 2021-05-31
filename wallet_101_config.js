@@ -1,1 +1,1 @@
-var mnemonic = "harbor shed damp path burst sphere exhaust idle soldier sweet manual blush";
+var mnemonic = "try nuclear junior patient degree solution garment gasp agent ring broom hungry";

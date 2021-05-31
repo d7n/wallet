@@ -1,1 +1,1 @@
-var mnemonic = "immense catalog unfold suit fox captain surround eternal replace since country that";
+var mnemonic = "skin avoid ranch index spread release charge cage vapor rice orient fold";

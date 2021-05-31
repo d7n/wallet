@@ -1,1 +1,1 @@
-var mnemonic = "about employ right under bullet valve rule increase proud key outdoor promote";
+var mnemonic = "soap purse secret negative become crush coffee broccoli truly flight away bomb";

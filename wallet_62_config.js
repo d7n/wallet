@@ -1,1 +1,1 @@
-var mnemonic = "disorder impulse fitness mule prosper jewel sting occur timber atom glue muffin";
+var mnemonic = "dance drastic vintage future enrich cause gadget idea lawn erosion public play";

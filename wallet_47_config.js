@@ -1,1 +1,1 @@
-var mnemonic = "rescue wise fatigue found abstract uncle length pioneer staff lawn banner sign";
+var mnemonic = "renew nasty talent weekend universe salad nuclear earth million disease promote forget";

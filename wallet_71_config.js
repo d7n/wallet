@@ -1,1 +1,1 @@
-var mnemonic = "clock final wise liar stick mouse snap clump purse clay capable sudden";
+var mnemonic = "stay baby because quantum example spice moment sunset accuse interest absurd enough";

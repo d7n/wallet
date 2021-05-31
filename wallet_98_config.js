@@ -1,1 +1,1 @@
-var mnemonic = "wing farm comic kangaroo play jeans sign amazing shiver exact coin blush";
+var mnemonic = "unable mom kangaroo cash note infant tray movie sail expose crime motion";

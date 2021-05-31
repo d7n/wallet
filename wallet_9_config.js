@@ -1,1 +1,1 @@
-var mnemonic = "stick exotic yellow mimic style shield claim produce best never vault trumpet";
+var mnemonic = "sunny just segment waste finish decade hedgehog snow flavor dizzy obtain dose";

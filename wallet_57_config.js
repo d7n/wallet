@@ -1,1 +1,1 @@
-var mnemonic = "sample grid pen father steel dizzy orange menu energy uncover sing fashion";
+var mnemonic = "mechanic permit label please fame worry now whisper inject upgrade mixture lecture";

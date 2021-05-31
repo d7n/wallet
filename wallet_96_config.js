@@ -1,1 +1,1 @@
-var mnemonic = "hundred similar innocent believe ocean hybrid memory nut struggle used client banner";
+var mnemonic = "cricket cave length abandon car trap cement source dress virus tail cloud";

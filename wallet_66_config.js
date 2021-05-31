@@ -1,1 +1,1 @@
-var mnemonic = "fever guess insect boil onion auto captain genius uniform foster march educate";
+var mnemonic = "outdoor amateur alley disorder oblige motor time note island local tunnel timber";

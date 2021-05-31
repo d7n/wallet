@@ -1,1 +1,1 @@
-var mnemonic = "dune crime bird shaft wide agent angry basket safe debate august reject";
+var mnemonic = "celery roast useful voice change sugar exotic layer airport symbol dirt guide";

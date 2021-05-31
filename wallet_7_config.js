@@ -1,1 +1,1 @@
-var mnemonic = "mansion gap usage shrimp shaft wild bright fortune speed tilt square lizard";
+var mnemonic = "gadget young expect goose cherry emerge satisfy excuse left more cactus hospital";

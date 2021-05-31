@@ -1,1 +1,1 @@
-var mnemonic = "fit treat joy message bomb usage endless puzzle tank elbow biology trick";
+var mnemonic = "join ecology butter capital grunt sibling obvious ancient awkward crime choose company";

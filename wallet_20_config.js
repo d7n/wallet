@@ -1,1 +1,1 @@
-var mnemonic = "sell toss tennis melody pulp supreme hunt spy awkward popular hockey path";
+var mnemonic = "addict tribe potato wood oppose diesel tape dune nurse catch avoid ring";

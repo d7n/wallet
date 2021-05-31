@@ -1,1 +1,1 @@
-var mnemonic = "sausage keep frost code excess hill beyond anger powder color license during";
+var mnemonic = "exact cabbage tank resemble moon impose wide noise immense promote air risk";

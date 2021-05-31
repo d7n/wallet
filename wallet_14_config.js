@@ -1,1 +1,1 @@
-var mnemonic = "army lady notice position time useless change small south cheese lab little";
+var mnemonic = "predict century happy manual describe invite merit lizard music recall chunk pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol organ safe include rapid wave inject south beauty flame visual atom";
+var mnemonic = "paddle upset repeat glue few hollow inherit frog spread pudding furnace farm";

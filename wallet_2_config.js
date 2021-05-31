@@ -1,1 +1,1 @@
-var mnemonic = "near turtle oblige fame arch idea left breeze vapor affair hard siren";
+var mnemonic = "menu domain orphan silver angry trim icon scout stuff pigeon nothing beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "nice region whisper crystal meadow off donate material noise wide arctic carpet";
+var mnemonic = "vacuum hold keen giggle miss junior pencil neck season sand surface only";

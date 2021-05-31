@@ -1,1 +1,1 @@
-var mnemonic = "label balcony empty term tone valid slide anger minor cancel ripple peasant";
+var mnemonic = "replace viable slow talk describe box enemy best sleep bonus answer talk";

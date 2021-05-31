@@ -1,1 +1,1 @@
-var mnemonic = "thought frown involve impact clutch symptom over six owner used kite link";
+var mnemonic = "expect orphan anxiety inch elbow rocket belt across vintage health unusual mother";

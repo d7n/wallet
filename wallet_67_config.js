@@ -1,1 +1,1 @@
-var mnemonic = "mom arch decrease trouble logic assault saddle dry alert earth ocean roast";
+var mnemonic = "spy poem dizzy picture jungle science gossip expect conduct trust soul fold";

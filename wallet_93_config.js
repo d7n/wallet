@@ -1,1 +1,1 @@
-var mnemonic = "exhibit all depend future box nice melody coconut blood valid digital wing";
+var mnemonic = "where father miss kid absurd slide cabbage fluid ability banner bus history";

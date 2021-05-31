@@ -1,1 +1,1 @@
-var mnemonic = "critic guitar keen omit thumb race social direct broken draft ridge icon";
+var mnemonic = "subway comic pipe cancel end inquiry grow frog liberty pole truly extra";

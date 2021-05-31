@@ -1,1 +1,1 @@
-var mnemonic = "pair way offer cradle win ginger test despair kite wisdom trade pig";
+var mnemonic = "until erase front despair height ivory lobster attack engage captain before motion";

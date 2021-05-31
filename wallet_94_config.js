@@ -1,1 +1,1 @@
-var mnemonic = "scare kidney tackle trouble cheap poet together air strike mixture fantasy sibling";
+var mnemonic = "enhance ignore vendor trophy snap wash rival target give prefer hire boring";

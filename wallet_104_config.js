@@ -1,1 +1,1 @@
-var mnemonic = "erosion book debris uphold course report merry say awesome usage gallery farm";
+var mnemonic = "minute huge photo tilt bean distance ginger arrive busy fish silent name";

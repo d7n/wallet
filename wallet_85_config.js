@@ -1,1 +1,1 @@
-var mnemonic = "access amazing express bike element sugar between element federal submit garden display";
+var mnemonic = "hedgehog able solve window discover express marine veteran also patch strong sample";

@@ -1,1 +1,1 @@
-var mnemonic = "town sense fragile athlete cloud cute budget banana security middle quality such";
+var mnemonic = "leave walk couple winter tray indicate swear gloom skirt distance involve train";

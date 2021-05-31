@@ -1,1 +1,1 @@
-var mnemonic = "square intact dynamic shallow output soap profit mouse tennis extend brush private";
+var mnemonic = "rose midnight expire caught second prize crunch wrong spread empty company neutral";

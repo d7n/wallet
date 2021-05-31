@@ -1,1 +1,1 @@
-var mnemonic = "fresh gentle chest lawn myth mirror empower purpose wool great invite warrior";
+var mnemonic = "day vote invest mountain upon control symptom secret where approve lake vault";

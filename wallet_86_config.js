@@ -1,1 +1,1 @@
-var mnemonic = "brand jar noodle image sunset box boat budget spot kite voyage silly";
+var mnemonic = "output treat fee arrest climb tag clarify taxi result keen fluid guard";

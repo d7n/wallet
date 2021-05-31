@@ -1,1 +1,1 @@
-var mnemonic = "aunt between stay march trial wrong kiss great robust shoulder suit suffer";
+var mnemonic = "comic reward swarm blame length end brief width core cupboard enter split";

@@ -1,1 +1,1 @@
-var mnemonic = "giant split good level velvet offer gun discover clown doll almost pulse";
+var mnemonic = "toward canoe alley need guess tip drum rule fruit aerobic noodle wife";

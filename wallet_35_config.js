@@ -1,1 +1,1 @@
-var mnemonic = "slot suspect nuclear little chest hello bundle cinnamon scatter grow cotton violin";
+var mnemonic = "reason goddess super target ketchup anger favorite seek speed prefer friend nature";

@@ -1,1 +1,1 @@
-var mnemonic = "license card wise dust joke success umbrella trip same true snap choice";
+var mnemonic = "ill hybrid measure canyon update either same seven fiction foil mesh exile";

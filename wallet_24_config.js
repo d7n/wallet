@@ -1,1 +1,1 @@
-var mnemonic = "wise gauge when fortune north typical coffee deliver clarify still rack below";
+var mnemonic = "cement toss toe write kit forward furnace miss uncle entire cherry rice";

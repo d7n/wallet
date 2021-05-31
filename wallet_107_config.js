@@ -1,1 +1,1 @@
-var mnemonic = "syrup side ladder worth dance key cost hunt fatal wine crew actress";
+var mnemonic = "between term lesson eager shuffle ride damp combine live wire net seed";

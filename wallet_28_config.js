@@ -1,1 +1,1 @@
-var mnemonic = "jacket differ mixture siege ivory plunge valid blade supply credit salad cube";
+var mnemonic = "drill chief will glass cover social light uphold moral forest tuition attend";

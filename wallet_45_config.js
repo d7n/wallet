@@ -1,1 +1,1 @@
-var mnemonic = "elbow unknown oval plate pigeon safe gallery gun rhythm wash garlic rely";
+var mnemonic = "guitar work vital pet rate mimic fantasy adapt amount umbrella duty mind";

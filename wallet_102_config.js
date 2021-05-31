@@ -1,1 +1,1 @@
-var mnemonic = "loyal rice retire tragic cat edit spider mass humble become ocean van";
+var mnemonic = "family pistol gain cause wild frog loud orphan nasty suggest mouse valley";

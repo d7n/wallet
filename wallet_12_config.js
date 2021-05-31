@@ -1,1 +1,1 @@
-var mnemonic = "bulb color erase same relax machine birth oyster grant girl special farm";
+var mnemonic = "gallery goddess gauge system motor repair hawk left panda lesson rabbit nature";

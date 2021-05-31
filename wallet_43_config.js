@@ -1,1 +1,1 @@
-var mnemonic = "blame easily dirt rare type entry abstract exit treat worry jar oyster";
+var mnemonic = "target park orange sail wash reduce ignore curve answer cruise punch breeze";

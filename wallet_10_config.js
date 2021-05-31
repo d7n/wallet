@@ -1,1 +1,1 @@
-var mnemonic = "shock skate olympic genre clay doctor earn live project chase two bread";
+var mnemonic = "crash once uniform female kid sadness across tower laundry window orient old";

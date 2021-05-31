@@ -1,1 +1,1 @@
-var mnemonic = "tortoise test suspect unaware detect moral bird siege circle siege total venture";
+var mnemonic = "head scale helmet under salmon own ignore wealth forest theme explain shiver";

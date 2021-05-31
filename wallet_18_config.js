@@ -1,1 +1,1 @@
-var mnemonic = "cloud broccoli ozone edge boat attack column huge entry since quick hunt";
+var mnemonic = "use legal vibrant unit snap rack shuffle suggest recipe zoo honey medal";

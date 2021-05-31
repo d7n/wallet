@@ -1,1 +1,1 @@
-var mnemonic = "copper dutch never pave dutch column father candy border rare leopard length";
+var mnemonic = "wire rose subway noble divert board very feed resist legal offer member";

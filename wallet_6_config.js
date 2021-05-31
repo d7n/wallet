@@ -1,1 +1,1 @@
-var mnemonic = "deliver patient such quality beef blossom hurry rubber noise egg mosquito awesome";
+var mnemonic = "middle era response swim goat educate dynamic obscure flavor guard cricket pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "future orphan glimpse hour current celery kiss faint disorder crater arena beach";
+var mnemonic = "aerobic earth wheat solution already drum neither spend diary rain lounge wonder";

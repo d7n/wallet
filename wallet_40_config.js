@@ -1,1 +1,1 @@
-var mnemonic = "find amused affair table foot payment theory west brush dice little obvious";
+var mnemonic = "tube guard level another repair size trial tenant hurry seat roast riot";

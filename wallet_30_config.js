@@ -1,1 +1,1 @@
-var mnemonic = "fringe quality truck meat eyebrow general observe powder toddler forget trash someone";
+var mnemonic = "chunk tree embrace shoulder subject kiwi thrive vicious peasant tongue mirror width";

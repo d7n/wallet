@@ -1,1 +1,1 @@
-var mnemonic = "fire bag donkey wagon furnace hunt champion armed harbor priority divorce trap";
+var mnemonic = "try drink text viable nuclear feel baby antique pool modify chief arch";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture guard bench fever pioneer usage ritual tuna casual visit where response";
+var mnemonic = "reopen inflict firm tonight recycle dawn survey tourist debate creek cheap rib";

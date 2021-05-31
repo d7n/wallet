@@ -1,1 +1,1 @@
-var mnemonic = "shove future bus nephew punch tell nice shoot hammer swarm grunt oven";
+var mnemonic = "coin blind vital wreck burger candy calm front toast about pretty group";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol goddess lab cheap relax size regret feed arrow disorder fresh rare";
+var mnemonic = "lunar finish muffin absorb toe vehicle jar mix badge luxury paper vague";

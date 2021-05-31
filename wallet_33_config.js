@@ -1,1 +1,1 @@
-var mnemonic = "sound side magnet violin cable prevent level knee seminar detect tube defense";
+var mnemonic = "main celery empty hood olive pledge annual bag oil popular effort proof";

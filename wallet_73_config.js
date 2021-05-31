@@ -1,1 +1,1 @@
-var mnemonic = "effort column metal unfair envelope rail civil pen permit local foot exact";
+var mnemonic = "sun cradle biology still today impulse build exact plastic iron wait execute";

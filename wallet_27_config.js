@@ -1,1 +1,1 @@
-var mnemonic = "biology message page mention slush erosion remove assault glare punch cupboard network";
+var mnemonic = "soldier slender enable soccer search very glad decorate bar pulse cat omit";
