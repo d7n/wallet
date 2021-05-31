@@ -1,1 +1,1 @@
-var mnemonic = "luxury oppose brave race scare say permit spare letter illegal split twice";
+var mnemonic = "domain media cloth draw enjoy canyon unfold traffic brother supply truly certain";

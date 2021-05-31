@@ -1,1 +1,1 @@
-var mnemonic = "area laugh purchase file engine absurd acid noble save robust guilt vanish";
+var mnemonic = "unlock useless carbon stadium ankle congress extend kitten pink club slab multiply";

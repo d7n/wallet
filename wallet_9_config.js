@@ -1,1 +1,1 @@
-var mnemonic = "city ball flee weasel popular insect exercise narrow chronic similar river mom";
+var mnemonic = "easily already peasant purity toward monitor country address test hobby bread mosquito";

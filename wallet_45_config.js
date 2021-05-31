@@ -1,1 +1,1 @@
-var mnemonic = "need output diamond tornado worry owner vacant wear wine mushroom used leg";
+var mnemonic = "endorse wild build flee movie enhance zebra undo harsh candy admit antique";

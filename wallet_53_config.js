@@ -1,1 +1,1 @@
-var mnemonic = "lab volume nephew screen run artefact asthma faith mimic coral lucky spend";
+var mnemonic = "crew sad obvious april inject grunt essence index nice idea tribe aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb kitten cabin sail choose cousin taxi render carry blanket fluid rotate";
+var mnemonic = "hint arch biology very galaxy cash sunny enemy vehicle old travel age";

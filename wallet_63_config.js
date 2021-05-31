@@ -1,1 +1,1 @@
-var mnemonic = "blush civil tool ice weekend upset flee taxi attract prosper derive busy";
+var mnemonic = "address price bind noise unusual rail lawn drive gasp mammal library web";

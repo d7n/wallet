@@ -1,1 +1,1 @@
-var mnemonic = "build civil tower task secret arch champion romance rose soap practice industry";
+var mnemonic = "roast village flash wet until property various invite okay result mistake change";

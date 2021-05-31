@@ -1,1 +1,1 @@
-var mnemonic = "picnic nut wagon plastic congress rally release nasty sword opinion luggage happy";
+var mnemonic = "hybrid offer hood taxi clay cluster original define traffic domain rather proof";

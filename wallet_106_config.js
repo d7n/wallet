@@ -1,1 +1,1 @@
-var mnemonic = "regular salmon car deputy exercise chuckle minimum casino city owner apology potato";
+var mnemonic = "other mass else giant food rural hour final laugh mobile problem sniff";

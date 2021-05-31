@@ -1,1 +1,1 @@
-var mnemonic = "nominee exclude craft cancel wire please critic anxiety improve crumble sample tilt";
+var mnemonic = "split cram basic magnet start clay evoke glare sock method tilt input";

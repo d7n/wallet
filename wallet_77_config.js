@@ -1,1 +1,1 @@
-var mnemonic = "evidence ladder pledge interest shed share volume forum chef vague able olympic";
+var mnemonic = "misery recall tornado diagram guard ostrich option basket gaze bamboo lumber when";

@@ -1,1 +1,1 @@
-var mnemonic = "pass melody couch card scrub degree fire timber salt spring heavy section";
+var mnemonic = "category stay truth wing round lake youth tackle off female actress state";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion square news flee luggage village share differ rough work shrug actual";
+var mnemonic = "total goat fossil hospital equal cross palace desk toilet dawn misery turn";

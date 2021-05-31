@@ -1,1 +1,1 @@
-var mnemonic = "toilet satisfy upset goose utility word lens slam excite unknown crime adult";
+var mnemonic = "lesson taxi cave spring destroy cancel rifle phone unveil nasty fat chimney";

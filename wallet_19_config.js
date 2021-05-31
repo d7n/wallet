@@ -1,1 +1,1 @@
-var mnemonic = "obtain siege afford shrimp caution assume bless similar ivory solar load pioneer";
+var mnemonic = "divert fog club nice end comic digital party concert goddess sketch notice";

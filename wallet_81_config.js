@@ -1,1 +1,1 @@
-var mnemonic = "mobile century dust spray neutral error tilt vacant year sun beauty forum";
+var mnemonic = "fringe velvet same young hint ghost deny fat slow fitness fire diesel";

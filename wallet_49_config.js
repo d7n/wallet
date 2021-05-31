@@ -1,1 +1,1 @@
-var mnemonic = "lecture supreme crucial silver comic answer nuclear discover alley girl birth inside";
+var mnemonic = "decorate gym visual glass defense chuckle common guilt bottom hollow pelican skin";

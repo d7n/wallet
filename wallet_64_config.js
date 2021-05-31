@@ -1,1 +1,1 @@
-var mnemonic = "weekend lunch retreat section lava height category rely actor canal sentence clip";
+var mnemonic = "cute trend uncover box what sample oil fossil hedgehog right inmate menu";

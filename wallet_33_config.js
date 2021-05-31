@@ -1,1 +1,1 @@
-var mnemonic = "slab oxygen consider rain pitch unit opinion eager box crazy bike derive";
+var mnemonic = "turn icon shift climb jacket siege dawn human lucky universe analyst reopen";

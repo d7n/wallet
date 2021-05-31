@@ -1,1 +1,1 @@
-var mnemonic = "race regret sausage upset wrist someone smooth jacket ecology spoon end where";
+var mnemonic = "rally slogan depth robust fantasy napkin ahead lyrics target hair flee danger";

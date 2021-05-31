@@ -1,1 +1,1 @@
-var mnemonic = "session before hand display execute waste fat bacon prefer also immune supreme";
+var mnemonic = "garage repeat toy satisfy lumber sister buddy nominee diagram input east off";

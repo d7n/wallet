@@ -1,1 +1,1 @@
-var mnemonic = "galaxy acid wink stomach depth judge confirm damage immense misery festival luggage";
+var mnemonic = "gaze long later accident high minor early dash input lesson steel man";

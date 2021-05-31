@@ -1,1 +1,1 @@
-var mnemonic = "twice enjoy sound violin way rescue hobby resemble donate future coast index";
+var mnemonic = "burger certain stick syrup dilemma scale open snake toe answer plug deal";

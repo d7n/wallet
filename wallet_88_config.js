@@ -1,1 +1,1 @@
-var mnemonic = "vote gentle bounce cute token actress suffer combine vocal remind story time";
+var mnemonic = "text tilt icon surge summer trophy need awkward video bottom appear grit";

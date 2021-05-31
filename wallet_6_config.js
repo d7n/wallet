@@ -1,1 +1,1 @@
-var mnemonic = "script relief belt flight risk interest farm mirror surge laundry purity bullet";
+var mnemonic = "goose fire rare ethics smart vessel scissors success kit enforce lottery claim";

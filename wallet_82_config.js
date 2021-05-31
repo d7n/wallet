@@ -1,1 +1,1 @@
-var mnemonic = "ivory rent meat cram alone switch dinosaur climb midnight gain wealth kiss";
+var mnemonic = "text dutch more horn wall firm become surface lounge love excuse fun";

@@ -1,1 +1,1 @@
-var mnemonic = "second great control duck note jacket couch bamboo benefit brick random vicious";
+var mnemonic = "zone adjust silly ice subway lunch problem toss example false uphold top";

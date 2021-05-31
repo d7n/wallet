@@ -1,1 +1,1 @@
-var mnemonic = "royal achieve useless three bulk soft clip need casino adapt search leave";
+var mnemonic = "orchard force insect smile awesome diamond float lift attitude wear palace common";

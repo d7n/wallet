@@ -1,1 +1,1 @@
-var mnemonic = "approve fresh punch double position wheel wet unaware ignore elbow middle decide";
+var mnemonic = "vibrant cram witness ethics business farm gallery require you winner chuckle cricket";

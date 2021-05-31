@@ -1,1 +1,1 @@
-var mnemonic = "wrap soda ritual dry member focus detail connect trip sick breeze ball";
+var mnemonic = "couch sudden maximum indicate sudden cruise festival skin honey ceiling vehicle vessel";

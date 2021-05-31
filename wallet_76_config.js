@@ -1,1 +1,1 @@
-var mnemonic = "heart calm oil undo can impulse dragon tilt fox fossil real belt";
+var mnemonic = "fever dinner pill index stage color ethics stay brisk monkey unfair hill";

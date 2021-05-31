@@ -1,1 +1,1 @@
-var mnemonic = "voyage mention omit city always fat ripple subway blush vague gossip weird";
+var mnemonic = "column advice riot patch gloom quote genre few chronic judge warfare soup";

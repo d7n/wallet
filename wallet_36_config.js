@@ -1,1 +1,1 @@
-var mnemonic = "scene duck leave throw mesh submit day tide eagle fine episode sense";
+var mnemonic = "cable accuse detail defy fat daughter curtain split differ champion lend wire";

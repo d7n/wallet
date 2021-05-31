@@ -1,1 +1,1 @@
-var mnemonic = "insane dolphin donor three angry sister zebra token tooth card drill dirt";
+var mnemonic = "try baby alpha click dress coin settle carry plastic ritual brain hurdle";

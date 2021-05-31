@@ -1,1 +1,1 @@
-var mnemonic = "second edit festival fringe purity text visual bubble parent noodle palace domain";
+var mnemonic = "fox human amateur bridge better tumble coast topple cradle one laugh buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "frost library pilot stamp invite garage tongue aim amateur year cricket arrow";
+var mnemonic = "round call stairs chuckle latin rather brush fish hire siren raccoon envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney subway tilt swing dash toddler sister anxiety idle noodle always fine";
+var mnemonic = "rug coin deal find swap surface inhale humble bar reward balcony pony";

@@ -1,1 +1,1 @@
-var mnemonic = "machine portion banner supreme enact abandon tip night piece athlete maximum trend";
+var mnemonic = "gold fortune invest mango amount raw yard empower flower tragic perfect cash";

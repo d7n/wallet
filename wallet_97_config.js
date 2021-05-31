@@ -1,1 +1,1 @@
-var mnemonic = "there holiday dance night shoot cool climb patch hub movie text cushion";
+var mnemonic = "slide alone midnight gym woman often million cluster cereal make example barely";

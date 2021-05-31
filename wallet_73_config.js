@@ -1,1 +1,1 @@
-var mnemonic = "myth topple hazard lyrics spring sheriff around gun pool want jump exit";
+var mnemonic = "salute estate census glad relax swarm myth roof spider sure trim asset";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey hamster angle impulse timber label spare flash model spike finger harsh";
+var mnemonic = "reopen dumb elegant hat output tired series wish enjoy vital tree output";

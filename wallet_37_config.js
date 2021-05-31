@@ -1,1 +1,1 @@
-var mnemonic = "devote expect left always edge aerobic insane nurse exit stock moon erosion";
+var mnemonic = "casual width aisle want slide pioneer color country bamboo cube hip hope";

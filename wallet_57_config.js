@@ -1,1 +1,1 @@
-var mnemonic = "large basic silk vacuum soldier lunar purpose kite boring license click brand";
+var mnemonic = "measure diagram pitch pistol abstract gold gaze inhale crowd cost velvet artist";

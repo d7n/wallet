@@ -1,1 +1,1 @@
-var mnemonic = "shoot rail cabbage blame talent winner close ball pilot abuse again piano";
+var mnemonic = "cliff pill rather basket expire used wire type sunset photo stomach noodle";

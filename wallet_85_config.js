@@ -1,1 +1,1 @@
-var mnemonic = "trash trial melt rate one also hammer essence select father lady improve";
+var mnemonic = "left occur helmet grocery napkin announce crater shy wash mean banana tide";

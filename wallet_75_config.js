@@ -1,1 +1,1 @@
-var mnemonic = "test huge mercy sand infant resource forward hire pizza magnet jealous tiny";
+var mnemonic = "crucial thought inside dilemma license shadow work cause illegal orchard cram thumb";

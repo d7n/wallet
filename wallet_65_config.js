@@ -1,1 +1,1 @@
-var mnemonic = "health quit giraffe rice spring grid woman curve wine donor often sell";
+var mnemonic = "banana leopard love vocal book labor catalog clutch fortune picture tomato tragic";

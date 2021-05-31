@@ -1,1 +1,1 @@
-var mnemonic = "age daughter suggest chef olive glass boss bench dawn rabbit trade term";
+var mnemonic = "beauty winner friend reform flat hybrid pizza punch mesh festival curtain donor";

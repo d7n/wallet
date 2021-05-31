@@ -1,1 +1,1 @@
-var mnemonic = "spare link permit deal cause pave flat embark deny glory nature slot";
+var mnemonic = "dance amateur produce stock life injury mystery educate zebra live abuse squeeze";

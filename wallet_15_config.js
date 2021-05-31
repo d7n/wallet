@@ -1,1 +1,1 @@
-var mnemonic = "eagle hurdle sting essence want charge yard express display okay income cradle";
+var mnemonic = "unaware squirrel magic famous improve electric upon pass fringe card abandon decline";

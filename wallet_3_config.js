@@ -1,1 +1,1 @@
-var mnemonic = "master prefer believe leaf dune result ride gentle body physical skate wash";
+var mnemonic = "captain purse state phone wrap make one tissue sea fitness girl asthma";

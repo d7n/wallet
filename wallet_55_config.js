@@ -1,1 +1,1 @@
-var mnemonic = "ball frame pilot ankle render all recall essay level shed scale beef";
+var mnemonic = "marriage blame utility rent lesson hungry stock scorpion code trip trumpet cheap";

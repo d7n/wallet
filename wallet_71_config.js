@@ -1,1 +1,1 @@
-var mnemonic = "leisure floor entry car shiver bread lucky poem owner oppose appear green";
+var mnemonic = "absent deliver law people loyal frog occur worry rough abstract save logic";

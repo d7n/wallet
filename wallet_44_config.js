@@ -1,1 +1,1 @@
-var mnemonic = "fiscal grab cream lion glass young forest head apology give walnut general";
+var mnemonic = "time tag bench now toilet wing similar velvet betray pudding snap choose";

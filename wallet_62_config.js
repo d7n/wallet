@@ -1,1 +1,1 @@
-var mnemonic = "radio liquid slide enlist tornado love enhance crack december usage lamp clown";
+var mnemonic = "access mammal forward into laundry immense dune sign century help maximum boy";

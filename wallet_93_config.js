@@ -1,1 +1,1 @@
-var mnemonic = "knee busy sun room educate universe dismiss image buyer behave typical water";
+var mnemonic = "heavy device damage ghost twin sleep attitude field traffic heavy math rule";

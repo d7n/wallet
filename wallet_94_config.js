@@ -1,1 +1,1 @@
-var mnemonic = "snack into myth myself wet master baby spike spy humble since clock";
+var mnemonic = "industry manage test motion thing riot reunion math shadow rib limit cube";

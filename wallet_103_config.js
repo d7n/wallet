@@ -1,1 +1,1 @@
-var mnemonic = "pulp rack truly fog fence second people liquid scene liberty alley shock";
+var mnemonic = "theory case tip praise level cricket fit girl theory file enact key";

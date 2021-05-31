@@ -1,1 +1,1 @@
-var mnemonic = "bachelor seat behave truth answer omit nature delay off cart measure test";
+var mnemonic = "mammal cage ride sweet olive trophy train soup razor old pluck female";

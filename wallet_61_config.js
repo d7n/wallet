@@ -1,1 +1,1 @@
-var mnemonic = "split summer evolve recall praise imitate execute same sun head sauce stand";
+var mnemonic = "organ genius potato base slender federal memory reform chuckle assist hotel honey";

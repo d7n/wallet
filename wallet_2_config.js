@@ -1,1 +1,1 @@
-var mnemonic = "antenna injury conduct venture sort faculty man field love fossil stairs fantasy";
+var mnemonic = "champion edit hedgehog quality ahead client surge author truth wire urban pact";

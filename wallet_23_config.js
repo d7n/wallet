@@ -1,1 +1,1 @@
-var mnemonic = "metal retreat vague reject glare essence gaze language ice change need want";
+var mnemonic = "tape tent economy sad seed piece biology toast spawn august diesel auto";

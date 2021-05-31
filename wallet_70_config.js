@@ -1,1 +1,1 @@
-var mnemonic = "keen shop worry spice coil arrive patrol vote siege tortoise lock during";
+var mnemonic = "blind shed churn leisure save kiss brain muffin noble attract solar find";

@@ -1,1 +1,1 @@
-var mnemonic = "inside cloth play exchange bargain utility alert joke solve account ride curious";
+var mnemonic = "gather shoulder satisfy dinner health link love punch ski lucky battle panther";

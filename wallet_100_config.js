@@ -1,1 +1,1 @@
-var mnemonic = "merit easy panic pink robust multiply eager steak spider bean phone sister";
+var mnemonic = "fabric vivid soda kite usage income sick wedding physical valley bunker ensure";

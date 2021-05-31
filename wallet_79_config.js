@@ -1,1 +1,1 @@
-var mnemonic = "clip odor park debris runway final vast loyal clerk venue wide until";
+var mnemonic = "vacuum record fence gallery conduct crumble noise relax coyote member cushion summer";

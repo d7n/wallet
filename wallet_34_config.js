@@ -1,1 +1,1 @@
-var mnemonic = "flame warfare pill parrot police shift series slim scrap near basket elephant";
+var mnemonic = "love sugar increase glare witness tribe sadness baby rain host stuff dragon";

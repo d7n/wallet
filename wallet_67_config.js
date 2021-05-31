@@ -1,1 +1,1 @@
-var mnemonic = "uniform bread rebuild split absent praise uncle anxiety toddler repair tomato rely";
+var mnemonic = "jealous midnight foster maze crunch print room catch either liar dust wink";

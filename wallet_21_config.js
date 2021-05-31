@@ -1,1 +1,1 @@
-var mnemonic = "auto minute special breeze either arctic smoke fat already success industry input";
+var mnemonic = "soda walnut brief country comfort dog cave mystery ski aware door obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "lab shy body stock tooth crawl quantum tuition cloth guilt sweet sunset";
+var mnemonic = "lizard fiction journey used exchange grow lesson harsh then fan edit decide";

@@ -1,1 +1,1 @@
-var mnemonic = "priority catalog artist arena family broken spawn own cabin jaguar unique grab";
+var mnemonic = "one lend flip ostrich shiver idea life gap marriage girl hazard kitten";

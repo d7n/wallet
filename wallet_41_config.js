@@ -1,1 +1,1 @@
-var mnemonic = "wine shoulder you lunar keen history jewel inquiry deer horse repeat lava";
+var mnemonic = "eager man involve improve pulp wisdom clip empty measure nature lend return";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust always end menu dish give curve predict develop copper eyebrow mixed";
+var mnemonic = "all concert ignore primary help extend pig tube neck change mean believe";

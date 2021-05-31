@@ -1,1 +1,1 @@
-var mnemonic = "combine cushion grow frequent nut void unable member thumb shy vault axis";
+var mnemonic = "fold siren divorce hidden cake desert suit moment time grape coconut help";

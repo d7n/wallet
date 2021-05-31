@@ -1,1 +1,1 @@
-var mnemonic = "auto tree what wedding spell ready more meat blame boat tortoise permit";
+var mnemonic = "will roof myth coffee guess universe napkin session post blossom brave culture";

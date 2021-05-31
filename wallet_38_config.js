@@ -1,1 +1,1 @@
-var mnemonic = "swallow notice gun imitate cactus emotion rocket adapt phone bless protect simple";
+var mnemonic = "attend artwork rifle blade process also tiny analyst glory damage rice bag";

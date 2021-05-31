@@ -1,1 +1,1 @@
-var mnemonic = "chaos capable wash lunar plate enhance tourist alter ordinary admit they firm";
+var mnemonic = "puzzle style access impact decline shy allow polar gift section amused leopard";

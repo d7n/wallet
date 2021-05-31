@@ -1,1 +1,1 @@
-var mnemonic = "bus vendor novel mass sibling feed soon wire cost path imitate three";
+var mnemonic = "version tube virus angry way hen vapor coach current jungle view remind";

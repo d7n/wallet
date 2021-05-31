@@ -1,1 +1,1 @@
-var mnemonic = "traffic police tenant plastic portion gap tape organ deposit scout virus spawn";
+var mnemonic = "shop tumble put ten excuse essence dance chronic print fatigue remain ribbon";

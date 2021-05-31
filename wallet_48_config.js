@@ -1,1 +1,1 @@
-var mnemonic = "garbage cherry aerobic penalty balcony vapor vendor hand bag trigger silver anxiety";
+var mnemonic = "shadow artwork cook invest number cement exercise submit blind agent fringe develop";

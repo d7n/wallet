@@ -1,1 +1,1 @@
-var mnemonic = "easy tree razor crack gadget lake wear apart enjoy vacant dad sea";
+var mnemonic = "bonus usage slice beyond enable narrow thrive scout rigid boy rival nominee";

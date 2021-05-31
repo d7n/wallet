@@ -1,1 +1,1 @@
-var mnemonic = "shock modify success mechanic abuse super add online midnight perfect follow frequent";
+var mnemonic = "airport fabric churn kind album urban pull clay topple once dragon final";

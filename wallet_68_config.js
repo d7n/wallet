@@ -1,1 +1,1 @@
-var mnemonic = "machine must unhappy warfare this manage pull answer want true tiger clutch";
+var mnemonic = "toddler forward false grief verb devote erase before method human main harvest";

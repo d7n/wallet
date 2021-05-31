@@ -1,1 +1,1 @@
-var mnemonic = "type icon plunge trial member polar segment lend clay border void wish";
+var mnemonic = "ozone you riot woman assist forget skate fence swear fame anchor kiwi";

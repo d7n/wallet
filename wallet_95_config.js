@@ -1,1 +1,1 @@
-var mnemonic = "slab grief often taste limb sphere puppy verb replace brand avoid place";
+var mnemonic = "dress fold exist tower secret own upset hat chunk manage any true";

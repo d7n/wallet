@@ -1,1 +1,1 @@
-var mnemonic = "shrimp depart divide calm save just maid pigeon enter movie orphan chair";
+var mnemonic = "cargo receive saddle reform cradle burst dentist craft off radio flame chat";

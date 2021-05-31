@@ -1,1 +1,1 @@
-var mnemonic = "already cigar song auto inquiry family unit dynamic dilemma solar ranch flat";
+var mnemonic = "lonely vast betray rate goddess drill elder ripple trophy actress any firm";

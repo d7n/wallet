@@ -1,1 +1,1 @@
-var mnemonic = "more early hover lottery private pair mule wing illegal chase credit coral";
+var mnemonic = "jump snap notable name gas expand elegant unhappy zebra machine share very";

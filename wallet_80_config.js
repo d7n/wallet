@@ -1,1 +1,1 @@
-var mnemonic = "wire mosquito wrong mango beef response access ribbon visual rebel spike animal";
+var mnemonic = "hire weapon foot entire army primary ritual load rabbit exit gather filter";
