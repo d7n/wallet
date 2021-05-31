@@ -1,1 +1,1 @@
-var mnemonic = "cradle brave aisle weapon chuckle fuel collect ball grace pistol wheel old";
+var mnemonic = "rule best giggle illegal comic wedding segment notice place gadget coffee filter";

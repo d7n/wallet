@@ -1,1 +1,1 @@
-var mnemonic = "whale around census welcome lunch cabbage point traffic few craft solid bulb";
+var mnemonic = "bring hire blur ramp hamster rabbit govern actor rice farm mango human";

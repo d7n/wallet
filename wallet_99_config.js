@@ -1,1 +1,1 @@
-var mnemonic = "galaxy payment load hollow strong fiction appear zoo gather edit brisk outer";
+var mnemonic = "real happy foil casual adapt easy mystery flavor also tilt pudding crazy";

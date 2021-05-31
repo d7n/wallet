@@ -1,1 +1,1 @@
-var mnemonic = "orange pencil flavor sister crisp color medal crucial trophy board joy metal";
+var mnemonic = "update inspire curve awkward deer design august rather sister scatter minimum topple";

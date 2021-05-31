@@ -1,1 +1,1 @@
-var mnemonic = "robot office fresh sand text gallery scorpion text basic tragic dose bike";
+var mnemonic = "demand economy frequent siren please liar city lesson tired balcony elevator erupt";

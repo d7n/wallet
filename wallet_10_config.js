@@ -1,1 +1,1 @@
-var mnemonic = "term scorpion guess wonder task wild version tobacco old pretty three vast";
+var mnemonic = "apart maid green funny easily exotic elephant twice nut barrel keen tip";

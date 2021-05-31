@@ -1,1 +1,1 @@
-var mnemonic = "exhibit online gaze awkward squeeze ketchup lunar inherit valley imitate donkey exit";
+var mnemonic = "accident engage finger quiz disease blind absurd orange legal frequent behind tower";

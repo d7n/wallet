@@ -1,1 +1,1 @@
-var mnemonic = "sing illegal just diary inside odor speed never sea gaze humble erase";
+var mnemonic = "interest void immense guide stumble say profit kitten shine fork brisk theme";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk episode mutual tail october harvest solution stuff shift state tray doll";
+var mnemonic = "where grow truck favorite plunge laptop drink mom bicycle accident chalk rebel";

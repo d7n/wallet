@@ -1,1 +1,1 @@
-var mnemonic = "erosion option shock same video club castle swamp unusual fever ship fish";
+var mnemonic = "gown toast jaguar bamboo riot valve west steak year trigger strike turtle";

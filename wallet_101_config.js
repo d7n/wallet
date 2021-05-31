@@ -1,1 +1,1 @@
-var mnemonic = "lion unhappy pulp have material expose work crane culture hybrid weekend observe";
+var mnemonic = "intact leg siren offer market kiss soul glad rail fee conduct limb";

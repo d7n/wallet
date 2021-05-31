@@ -1,1 +1,1 @@
-var mnemonic = "morning ready field tag dress sting royal yellow cost unique pool exotic";
+var mnemonic = "beef moon stove flower evoke glove trend hawk door truck burden dress";

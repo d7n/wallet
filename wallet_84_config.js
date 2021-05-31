@@ -1,1 +1,1 @@
-var mnemonic = "lunar opera nation buyer pact add job virus deal frown soccer evoke";
+var mnemonic = "play ostrich oblige cross clean fatal win quiz team claw naive sure";

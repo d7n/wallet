@@ -1,1 +1,1 @@
-var mnemonic = "proud glory sword shield ranch fly shed job whale liberty awkward easy";
+var mnemonic = "crawl open antenna adjust shine muscle shiver train winter horn tail dry";

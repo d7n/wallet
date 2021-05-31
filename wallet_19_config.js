@@ -1,1 +1,1 @@
-var mnemonic = "boss pass boost mule lizard leader duty despair link magic unveil gain";
+var mnemonic = "gentle habit tip tongue busy hungry plug chunk fame share project tomorrow";

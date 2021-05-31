@@ -1,1 +1,1 @@
-var mnemonic = "bar soap dilemma cement mixed fiscal enable language enough consider unique habit";
+var mnemonic = "velvet hand space thumb dumb diamond island decade hello salt payment dilemma";

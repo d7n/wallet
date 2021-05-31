@@ -1,1 +1,1 @@
-var mnemonic = "beauty witness fantasy steel dad inner slush banana leopard swift burden master";
+var mnemonic = "lounge mercy panther canal bring heavy donate update picture wage pupil acquire";

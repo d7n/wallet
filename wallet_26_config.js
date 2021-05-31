@@ -1,1 +1,1 @@
-var mnemonic = "proof priority abuse black will game smile remind much coyote good table";
+var mnemonic = "want buffalo problem van lazy puppy endless guard vital luggage stomach already";

@@ -1,1 +1,1 @@
-var mnemonic = "upon area left great flush genuine weird blur poem actual reopen butter";
+var mnemonic = "fan kitten wrong cannon bacon tiny attend miracle chicken smile model glove";

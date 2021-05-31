@@ -1,1 +1,1 @@
-var mnemonic = "prize guess gossip hybrid mirror ski often novel own rebuild discover silver";
+var mnemonic = "fetch combine craft hood search defy valid core scissors obtain witness carpet";

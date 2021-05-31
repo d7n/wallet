@@ -1,1 +1,1 @@
-var mnemonic = "toward puppy subject crush east puzzle biology habit pumpkin party open catch";
+var mnemonic = "scissors crouch march miracle border veteran sign stomach friend hurry corn cement";

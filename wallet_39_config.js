@@ -1,1 +1,1 @@
-var mnemonic = "bottom convince trade key predict illness tourist hen cry income cool foster";
+var mnemonic = "music crouch click witness rebel glass act fault gorilla ecology sauce enrich";

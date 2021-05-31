@@ -1,1 +1,1 @@
-var mnemonic = "cement meat luxury glove fork immune amount zone upon expand lunch social";
+var mnemonic = "balcony reject dish apology hybrid lunar bunker mouse leisure nasty picture style";

@@ -1,1 +1,1 @@
-var mnemonic = "young become short inform gap piano cry chat into canal nut leaf";
+var mnemonic = "clump cable good joy comic sweet action sense faith gold album liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "share few stereo shove where resemble cotton genre edit toddler certain emerge";
+var mnemonic = "slogan spare stool stock amused crane impose steak neglect anchor slogan this";

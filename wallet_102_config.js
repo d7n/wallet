@@ -1,1 +1,1 @@
-var mnemonic = "frozen apology fame brand tenant below worth pilot sunny lend enable summer";
+var mnemonic = "wait hamster next catch giraffe silver era hidden pull iron radio shrug";

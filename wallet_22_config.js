@@ -1,1 +1,1 @@
-var mnemonic = "render room forget north myth access buzz leg humble bunker change place";
+var mnemonic = "rather lend whip stuff various audit media educate august lyrics actor various";

@@ -1,1 +1,1 @@
-var mnemonic = "alien cloth powder similar chunk arch clump grace twice lawn harsh include";
+var mnemonic = "kiwi unit shed object chef flee rival surprise skull gloom fiction feed";

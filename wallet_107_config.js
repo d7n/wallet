@@ -1,1 +1,1 @@
-var mnemonic = "jar cost involve round crack cause review method violin fancy uniform gauge";
+var mnemonic = "occur twin ill shoot staff enhance amazing marriage stage claw cause erase";

@@ -1,1 +1,1 @@
-var mnemonic = "junior label arrive until nerve ten silent monitor spatial believe joy arrow";
+var mnemonic = "antique march maximum solve snap lobster absurd quarter milk onion master armed";

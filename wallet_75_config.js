@@ -1,1 +1,1 @@
-var mnemonic = "document dumb worth vendor tissue zebra radio lucky hurdle invite hundred cradle";
+var mnemonic = "attract ketchup often raven marriage crouch venue pudding wide jacket fashion tube";

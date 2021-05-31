@@ -1,1 +1,1 @@
-var mnemonic = "session stock potato slam range vicious utility split salute novel two hover";
+var mnemonic = "sing saddle match rib select service blue build trick divide tomorrow correct";

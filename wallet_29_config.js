@@ -1,1 +1,1 @@
-var mnemonic = "unfold catch bag found naive secret spice vessel true explain clump water";
+var mnemonic = "legend used boost always foil parent crane giraffe wasp cousin supply screen";

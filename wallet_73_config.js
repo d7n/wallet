@@ -1,1 +1,1 @@
-var mnemonic = "camp patch pond magic mammal feel onion concert buddy pitch april hockey";
+var mnemonic = "begin horse stereo nation invest pumpkin include wrong energy secret music mouse";

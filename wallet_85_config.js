@@ -1,1 +1,1 @@
-var mnemonic = "decide gadget spend price acoustic until mobile grain kitten wrap rude rebel";
+var mnemonic = "flush claim ignore solution cradle fault reunion whale noble between rookie fury";

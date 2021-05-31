@@ -1,1 +1,1 @@
-var mnemonic = "latin museum useful match notice border people pizza mind wisdom kid crew";
+var mnemonic = "globe kidney chapter rigid noodle strike demand reveal glow forum armed exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "olive robot merge donor recycle host path lamp grow educate video honey";
+var mnemonic = "bubble below chase scout resemble lottery bless shed glue citizen notable violin";

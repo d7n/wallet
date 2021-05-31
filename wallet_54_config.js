@@ -1,1 +1,1 @@
-var mnemonic = "tell ozone fall kidney draft pistol danger robot promote flip treat brother";
+var mnemonic = "bachelor concert salt cattle curtain immense traffic left anxiety aim either enforce";

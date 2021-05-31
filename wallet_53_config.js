@@ -1,1 +1,1 @@
-var mnemonic = "fruit pave movie upon boat amused link stand essence gaze brain hub";
+var mnemonic = "monkey science evidence labor submit ready veteran spend stuff mercy bachelor blame";

@@ -1,1 +1,1 @@
-var mnemonic = "hint night dumb true mammal someone analyst engine ensure enroll donor jelly";
+var mnemonic = "legal awful carpet play tunnel manage ability face victory account shadow illness";

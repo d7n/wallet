@@ -1,1 +1,1 @@
-var mnemonic = "toward luxury drink normal goddess acquire slight hour monkey useless female achieve";
+var mnemonic = "couch island step inhale danger tobacco miss corn across style power nut";

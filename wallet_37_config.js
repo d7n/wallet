@@ -1,1 +1,1 @@
-var mnemonic = "athlete dragon grid jazz library loan sell joke slogan print someone culture";
+var mnemonic = "kidney slogan sure april about marriage stairs antenna amount junior pudding boost";

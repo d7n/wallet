@@ -1,1 +1,1 @@
-var mnemonic = "rotate tuna crunch sell kidney narrow bring online gloom nose bomb chief";
+var mnemonic = "illness next draw remind another finish material blanket rely special member miracle";

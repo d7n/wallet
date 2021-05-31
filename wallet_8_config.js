@@ -1,1 +1,1 @@
-var mnemonic = "wood blur insect neither response enable target swamp round plastic diary chaos";
+var mnemonic = "silly dragon hour street beach crucial forget surround check dust kick tape";

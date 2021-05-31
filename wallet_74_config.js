@@ -1,1 +1,1 @@
-var mnemonic = "hidden tool diagram chat model verb scrap about gather name brief common";
+var mnemonic = "sheriff curve give hope blanket cushion prison gasp limit text first nasty";

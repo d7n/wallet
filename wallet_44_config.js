@@ -1,1 +1,1 @@
-var mnemonic = "divert glory sibling fork agree tissue west misery venture scare calm taxi";
+var mnemonic = "child admit hurry ketchup layer brass main ivory myth dash scorpion hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery above pipe interest quick chuckle subject arrow enhance supply budget together";
+var mnemonic = "welcome begin wagon pool client time option erosion stereo antenna sail offer";

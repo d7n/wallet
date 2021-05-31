@@ -1,1 +1,1 @@
-var mnemonic = "common such around sight marriage frost beef labor put suspect outdoor author";
+var mnemonic = "excuse slice cattle slight absent income frame raccoon eight rubber master scissors";

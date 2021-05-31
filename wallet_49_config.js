@@ -1,1 +1,1 @@
-var mnemonic = "naive great town charge jeans absent access cricket crazy capital subject broccoli";
+var mnemonic = "flag tunnel evil between traffic pole alone force armed sleep april doll";

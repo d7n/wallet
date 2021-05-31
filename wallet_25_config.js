@@ -1,1 +1,1 @@
-var mnemonic = "hood carbon gas genre fury between volcano must mom olympic riot logic";
+var mnemonic = "advance target denial kit risk bone wash width ridge rotate empty salad";

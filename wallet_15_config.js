@@ -1,1 +1,1 @@
-var mnemonic = "drum ocean about fault giggle kick grace glad wise eyebrow negative rotate";
+var mnemonic = "call theme pumpkin lyrics blame this sentence crime cheap execute barrel memory";

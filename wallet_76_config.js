@@ -1,1 +1,1 @@
-var mnemonic = "castle file dwarf smooth wait lizard fog agree eyebrow peasant thrive credit";
+var mnemonic = "raise grocery wrap always pill april donkey dish fly fit worry couch";

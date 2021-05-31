@@ -1,1 +1,1 @@
-var mnemonic = "mean index quit account manual youth chat carry light market rude matter";
+var mnemonic = "describe now harbor disorder detect fatal slight share similar pet danger physical";

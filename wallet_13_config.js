@@ -1,1 +1,1 @@
-var mnemonic = "load orbit quarter feed twenty shoulder woman liberty village fragile trash betray";
+var mnemonic = "possible exotic seek phrase isolate receive squirrel fatal dial text outside toss";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous olympic drop civil february walk extend health idea element earn local";
+var mnemonic = "margin museum athlete delay slender resource shed hungry whip regular verb drama";

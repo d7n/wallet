@@ -1,1 +1,1 @@
-var mnemonic = "scissors obscure shine digital style almost speed dirt unique taste bring swing";
+var mnemonic = "copy farm brand payment kidney corn indicate sting axis gain claw sort";

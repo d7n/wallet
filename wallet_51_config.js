@@ -1,1 +1,1 @@
-var mnemonic = "flower awkward raven holiday fatigue kiwi aisle animal end maze notice error";
+var mnemonic = "squeeze loud pigeon medal vote canoe door garbage harsh surface immune mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction claim old meat crisp large eye stove frost bright verb danger";
+var mnemonic = "refuse thought initial pair credit frown soup tortoise resist angry either possible";

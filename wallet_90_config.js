@@ -1,1 +1,1 @@
-var mnemonic = "lion wash chaos learn season couple width beyond various orange join fence";
+var mnemonic = "elephant senior invite picture yellow rack orient subway economy shrug tribe dizzy";

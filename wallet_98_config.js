@@ -1,1 +1,1 @@
-var mnemonic = "eager page cinnamon captain vintage swarm random keep license spike assume comic";
+var mnemonic = "tent mad all upgrade mad photo venue borrow guess point crash lock";

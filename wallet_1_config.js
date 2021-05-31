@@ -1,1 +1,1 @@
-var mnemonic = "planet book age crop observe galaxy novel pink depth bacon obvious senior";
+var mnemonic = "depart female current prepare mule excite option puppy luxury crew enact stove";

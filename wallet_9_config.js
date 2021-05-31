@@ -1,1 +1,1 @@
-var mnemonic = "bring caution fancy birth able december ship drive impact short chicken lecture";
+var mnemonic = "sponsor cover height twenty they vintage park deny boil grass nature raise";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt palm solution ahead mean identify segment jump twist relief note drive";
+var mnemonic = "giggle fashion sure invite venture sand glad little venture narrow gather tattoo";

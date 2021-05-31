@@ -1,1 +1,1 @@
-var mnemonic = "frog timber canoe absurd connect diesel library skill century bar desert brass";
+var mnemonic = "over aim medal proud ladder waste riot hedgehog whale six error delay";

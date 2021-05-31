@@ -1,1 +1,1 @@
-var mnemonic = "funny debate claim code august cannon adjust analyst chaos maple reform equal";
+var mnemonic = "cotton surge phrase mutual beef rough vital enjoy beyond faith wonder comfort";

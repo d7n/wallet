@@ -1,1 +1,1 @@
-var mnemonic = "torch misery fee juice detail item cycle print echo expire deer banner";
+var mnemonic = "round belt owner random head sample upper holiday aim damage rescue grape";

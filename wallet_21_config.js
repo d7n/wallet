@@ -1,1 +1,1 @@
-var mnemonic = "trust census simple canyon close obey jump rich battle allow pigeon genius";
+var mnemonic = "skull vendor hill program letter mammal snake nuclear seat between future couch";

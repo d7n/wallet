@@ -1,1 +1,1 @@
-var mnemonic = "fatal local screen order barrel library quantum sun lottery junior drip twelve";
+var mnemonic = "shift such cream okay knock warm water cigar cross guard solve today";

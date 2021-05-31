@@ -1,1 +1,1 @@
-var mnemonic = "sight flush gauge okay trip crane describe draft torch wish autumn virtual";
+var mnemonic = "physical stage nest mad flat circle harvest squeeze robust original guilt empty";

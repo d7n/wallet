@@ -1,1 +1,1 @@
-var mnemonic = "portion number spawn trust dish wide refuse steel wear doll indicate will";
+var mnemonic = "drink kick topple assist reduce general submit cool club gossip million above";

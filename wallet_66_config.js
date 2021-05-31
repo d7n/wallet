@@ -1,1 +1,1 @@
-var mnemonic = "issue kitten pill volcano boat game office above circle junior range lumber";
+var mnemonic = "crater farm math snap clay report just exist frown summer vibrant addict";

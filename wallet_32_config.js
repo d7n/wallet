@@ -1,1 +1,1 @@
-var mnemonic = "health shiver vocal tornado coast inch car weapon van actor region leaf";
+var mnemonic = "sting office detect wedding canyon kick olive parade fade coconut teach plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "before crunch asset choice cool skin claim safe trap destroy nation year";
+var mnemonic = "grow course stay sound cereal page match skirt hand emerge asset have";

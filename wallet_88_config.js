@@ -1,1 +1,1 @@
-var mnemonic = "cement rack aunt circle grow life swallow demand lesson notice vocal improve";
+var mnemonic = "mercy runway sport fit balcony stem inch utility noodle answer problem seminar";

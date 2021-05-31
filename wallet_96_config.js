@@ -1,1 +1,1 @@
-var mnemonic = "often stadium hood above token farm achieve honey auction melody bacon erosion";
+var mnemonic = "draw define kick mean crime shield elite leaf remind torch clock flock";

@@ -1,1 +1,1 @@
-var mnemonic = "dose table across rally path heart balance chicken cream toddler razor popular";
+var mnemonic = "staff air egg silver damage cube crisp client blanket rookie drill emotion";

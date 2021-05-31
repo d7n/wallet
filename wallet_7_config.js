@@ -1,1 +1,1 @@
-var mnemonic = "secret muffin best uniform bean strong yard fold debris office climb season";
+var mnemonic = "bonus invite melody opinion siren prison slab model romance remember pilot alert";

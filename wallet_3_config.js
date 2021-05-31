@@ -1,1 +1,1 @@
-var mnemonic = "exchange ring wink insect float fix detail learn myself seat bulb skill";
+var mnemonic = "express begin curious uniform crystal spray habit trim profit vacant amazing hen";

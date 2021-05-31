@@ -1,1 +1,1 @@
-var mnemonic = "picnic capable tray solution rescue glue fire curtain blast trap learn shuffle";
+var mnemonic = "arena script position deer immune ill hollow stuff tree screen regret tackle";

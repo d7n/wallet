@@ -1,1 +1,1 @@
-var mnemonic = "hunt cabin spin position border device volume garlic lazy twelve east liberty";
+var mnemonic = "worry position genre fantasy leisure surprise mistake rent veteran jungle true priority";

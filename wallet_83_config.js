@@ -1,1 +1,1 @@
-var mnemonic = "train local warfare three print develop bullet home peasant stone erupt alley";
+var mnemonic = "fury supply pause cancel kick nasty whisper vital person bounce shoot negative";

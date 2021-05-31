@@ -1,1 +1,1 @@
-var mnemonic = "child artwork abuse oppose punch proud gossip often pudding fashion slow camera";
+var mnemonic = "advice vessel plunge tank cable green kitchen arena unknown token grow grant";

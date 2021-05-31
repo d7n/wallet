@@ -1,1 +1,1 @@
-var mnemonic = "cat latin fuel nation category top chapter hunt patch egg focus web";
+var mnemonic = "liberty wish income message sponsor cause small child private armor breeze path";

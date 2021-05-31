@@ -1,1 +1,1 @@
-var mnemonic = "twelve unlock stadium segment keep uphold donate method quick goddess trumpet wrap";
+var mnemonic = "inspire chief jazz pond hover busy grow road unlock paper paper keen";

@@ -1,1 +1,1 @@
-var mnemonic = "organ gown breeze ten hunt copy alter fun awkward obvious aim coach";
+var mnemonic = "vocal fine suit hockey beauty clever ghost glow simple unlock motor silk";

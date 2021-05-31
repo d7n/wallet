@@ -1,1 +1,1 @@
-var mnemonic = "omit solar orbit dice fish snack adult enable tenant century frequent current";
+var mnemonic = "quiz vapor core soccer refuse tomato income future vital capable vehicle service";

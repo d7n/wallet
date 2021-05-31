@@ -1,1 +1,1 @@
-var mnemonic = "weekend canyon shoe border miss slam lecture plate extend cheap clump toast";
+var mnemonic = "prefer word priority guess hidden horror near dentist use tuition convince muscle";

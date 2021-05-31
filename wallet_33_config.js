@@ -1,1 +1,1 @@
-var mnemonic = "skate oyster success response leader best life hood differ whip grid tiger";
+var mnemonic = "boy pulse brain eternal moon motor jacket choice cram filter cause lake";

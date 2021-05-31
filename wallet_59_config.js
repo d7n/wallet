@@ -1,1 +1,1 @@
-var mnemonic = "suggest twin lake level there burst cannon whale mixture link fatigue wreck";
+var mnemonic = "sad pepper retire labor jazz debate bird wild tag fence alert into";

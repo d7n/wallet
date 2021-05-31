@@ -1,1 +1,1 @@
-var mnemonic = "example age tent urge ladder artwork scheme step dust lamp wool glow";
+var mnemonic = "much genuine bunker cream comfort view bulb alley deal champion hunt rookie";

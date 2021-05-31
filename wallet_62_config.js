@@ -1,1 +1,1 @@
-var mnemonic = "purpose team order fresh harvest private example frost royal casino empty goat";
+var mnemonic = "engine curve fever trim poverty nasty road swamp coconut renew live space";

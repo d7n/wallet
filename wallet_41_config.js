@@ -1,1 +1,1 @@
-var mnemonic = "pride custom use fury execute mirror stumble oval addict broken knock danger";
+var mnemonic = "breeze sausage silly trial essence evidence hungry pen expect sport panther invite";

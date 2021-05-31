@@ -1,1 +1,1 @@
-var mnemonic = "music face agree always know maximum menu strong pitch ski stairs crane";
+var mnemonic = "strike oblige float food bamboo shed bind vapor differ cool age either";

@@ -1,1 +1,1 @@
-var mnemonic = "misery empower labor direct idea print various boost cheese shrimp service boss";
+var mnemonic = "sudden daughter recall situate life fault rug fatal tell depend wheel early";

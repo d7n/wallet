@@ -1,1 +1,1 @@
-var mnemonic = "melt truth unknown master feed believe weird flip denial reunion magic cover";
+var mnemonic = "amazing stumble merry mushroom program rebuild coast dance bread average soul wine";
