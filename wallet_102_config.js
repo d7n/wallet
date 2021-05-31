@@ -1,1 +1,1 @@
-var mnemonic = "stock record write simple embrace fatigue hundred cushion simple usage cram refuse";
+var mnemonic = "special insane airport absorb thrive diamond festival divide bar friend similar venture";

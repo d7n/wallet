@@ -1,1 +1,1 @@
-var mnemonic = "frost common soon broom hero hood recipe whip swap oxygen cycle wrong";
+var mnemonic = "must pepper thrive clever tired retire gloom melt near device pioneer apple";

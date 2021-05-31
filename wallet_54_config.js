@@ -1,1 +1,1 @@
-var mnemonic = "title unusual credit mango receive detail exercise cattle forum high ethics coin";
+var mnemonic = "sorry immune more try arrow unhappy chimney barely control raw mixture length";

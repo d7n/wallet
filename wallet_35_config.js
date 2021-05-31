@@ -1,1 +1,1 @@
-var mnemonic = "cram pepper burden nasty elbow peasant dove skill cricket present exhibit boat";
+var mnemonic = "prosper loan grocery aware segment basket climb embrace nasty gather vessel awake";

@@ -1,1 +1,1 @@
-var mnemonic = "fat help chimney remember obscure edge bottom castle want castle crack address";
+var mnemonic = "extend blind visa tunnel cave category find involve original confirm truth abuse";

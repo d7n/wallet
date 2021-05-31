@@ -1,1 +1,1 @@
-var mnemonic = "escape grass vague problem sphere feel south repeat cage movie imitate also";
+var mnemonic = "picnic clay undo derive frog endorse wolf unveil daughter burger harbor uniform";

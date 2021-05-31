@@ -1,1 +1,1 @@
-var mnemonic = "hunt floor record sell ladder warfare sibling token laugh degree blast unable";
+var mnemonic = "sound fetch used ahead easy region rack favorite cement recipe you kind";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory help volume milk upper tilt side brain velvet bike panic coil";
+var mnemonic = "lazy sound home food husband tiny fiber approve option globe same hurdle";

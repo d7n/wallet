@@ -1,1 +1,1 @@
-var mnemonic = "over reward saddle oppose foam planet dance pig hobby insect tonight nest";
+var mnemonic = "caution rescue south rigid spring alien will bulb unknown never neck diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch wear easy duck remind three notice stomach awful grass helmet grid";
+var mnemonic = "indicate cereal tooth pride alone muscle produce swamp poet lawsuit mimic fruit";

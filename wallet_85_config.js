@@ -1,1 +1,1 @@
-var mnemonic = "duty bless candy glare improve dwarf dirt seat flush keen laptop mountain";
+var mnemonic = "vessel book wife melt hundred draw phrase connect obey isolate divide grow";

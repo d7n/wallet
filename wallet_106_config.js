@@ -1,1 +1,1 @@
-var mnemonic = "body rotate silver diesel interest wall bag current case dinner predict fix";
+var mnemonic = "phone north tiger balance trouble build crouch medal ticket round chest dismiss";

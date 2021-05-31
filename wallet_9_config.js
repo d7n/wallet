@@ -1,1 +1,1 @@
-var mnemonic = "spray van tongue lizard baby near furnace document never civil few alert";
+var mnemonic = "moral alien grain carbon merry theme muffin deposit nephew seven into chapter";

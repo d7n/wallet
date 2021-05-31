@@ -1,1 +1,1 @@
-var mnemonic = "degree seek lunch primary soup stadium north enlist display mechanic trash uncover";
+var mnemonic = "rate auction stumble kiss foster unlock trouble what perfect stand desert say";

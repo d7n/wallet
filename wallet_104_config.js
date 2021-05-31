@@ -1,1 +1,1 @@
-var mnemonic = "sea top situate style mystery liar stadium cross change market ribbon tail";
+var mnemonic = "sponsor require feed stick act viable cattle industry trip achieve angry move";

@@ -1,1 +1,1 @@
-var mnemonic = "once height domain excuse deliver asset lock scorpion vehicle evoke noise element";
+var mnemonic = "remain west media another gun gentle comic comic useful fish okay suspect";

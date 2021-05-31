@@ -1,1 +1,1 @@
-var mnemonic = "exist arctic toss audit grain provide sniff noble devote stool horror cup";
+var mnemonic = "suggest grow obtain swap balance hire alert renew maple federal cargo rhythm";

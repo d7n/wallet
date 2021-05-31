@@ -1,1 +1,1 @@
-var mnemonic = "suit farm year wrist about scout age keen exile program silk project";
+var mnemonic = "bottom wild satoshi muffin axis wood middle holiday utility tip gloom rib";

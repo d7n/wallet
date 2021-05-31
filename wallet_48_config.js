@@ -1,1 +1,1 @@
-var mnemonic = "candy zone path shed valley useful fat knock adapt cup viable mesh";
+var mnemonic = "jungle life raw follow scissors fresh scissors tank vault poet trigger smart";

@@ -1,1 +1,1 @@
-var mnemonic = "fault vibrant shoulder radio ghost jar cheap museum clown century dash claw";
+var mnemonic = "source indicate employ switch zebra exhibit rhythm answer make mesh brain faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "include else mobile bacon leave strategy nose supreme kidney walnut way diet";
+var mnemonic = "merit age make inmate butter amateur hedgehog ocean adapt bunker ordinary angry";

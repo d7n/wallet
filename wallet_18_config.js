@@ -1,1 +1,1 @@
-var mnemonic = "bus slow elder hire funny ill cement cousin effort now leg zoo";
+var mnemonic = "basic person faith phone orange lobster loan soup denial aisle erase remove";

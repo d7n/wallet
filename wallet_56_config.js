@@ -1,1 +1,1 @@
-var mnemonic = "limb pact creek average split uniform spare evolve click rough wash raccoon";
+var mnemonic = "step vocal kind crack host shed ribbon real occur leisure reform artefact";

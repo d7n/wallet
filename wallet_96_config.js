@@ -1,1 +1,1 @@
-var mnemonic = "mom goat portion sugar purchase ecology space flag fitness nephew camp knee";
+var mnemonic = "abuse laptop gym seed knife away agent liar settle nice loyal income";

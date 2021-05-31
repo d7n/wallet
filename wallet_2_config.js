@@ -1,1 +1,1 @@
-var mnemonic = "field claw frost bomb example street crystal clever umbrella need scan skirt";
+var mnemonic = "poet festival index solar rack top cry uncover seat trend inhale voyage";

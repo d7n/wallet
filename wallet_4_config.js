@@ -1,1 +1,1 @@
-var mnemonic = "diesel whip slam appear shine thank actor bike sense extra firm setup";
+var mnemonic = "estate wisdom thunder veteran fatigue give setup mother dish labor basic awesome";

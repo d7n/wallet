@@ -1,1 +1,1 @@
-var mnemonic = "fabric raven legend magnet fitness fat spice speak sausage spoon acoustic legal";
+var mnemonic = "cousin bright mimic laptop drastic accuse speed believe spread mosquito step butter";

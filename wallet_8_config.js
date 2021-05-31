@@ -1,1 +1,1 @@
-var mnemonic = "emerge chef grain castle thought spy gaze sample slush cave fashion among";
+var mnemonic = "message myth moment shoulder garment nature piece enroll venture crush erupt reflect";

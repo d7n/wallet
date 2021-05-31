@@ -1,1 +1,1 @@
-var mnemonic = "green net swap rabbit spy lawsuit mouse slender brother hold mirror peasant";
+var mnemonic = "prize destroy room detail bargain fence winter enemy exchange image series special";

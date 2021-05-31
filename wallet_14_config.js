@@ -1,1 +1,1 @@
-var mnemonic = "protect cycle senior inmate improve nominee scale crane fabric assist wagon voice";
+var mnemonic = "design cabin sword industry alarm below intact glad raise make notable kite";

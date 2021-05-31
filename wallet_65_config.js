@@ -1,1 +1,1 @@
-var mnemonic = "mass pitch label coil that flat badge farm tape crane visual umbrella";
+var mnemonic = "fuel three blush repeat paper obey twice column title machine garment devote";

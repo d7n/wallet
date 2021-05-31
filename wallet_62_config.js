@@ -1,1 +1,1 @@
-var mnemonic = "giant wide either file orchard become just simple violin shine cup sentence";
+var mnemonic = "menu message choice series shield profit industry around produce crawl object nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "choice absent okay build face prevent found convince jazz cute sketch dream";
+var mnemonic = "dad train twist visual old bird smart they business memory hamster helmet";

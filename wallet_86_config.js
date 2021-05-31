@@ -1,1 +1,1 @@
-var mnemonic = "more pact story matter season belt involve six evidence any similar home";
+var mnemonic = "valid reform ethics gun erupt mixture later color axis jungle flat practice";

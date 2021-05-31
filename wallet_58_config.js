@@ -1,1 +1,1 @@
-var mnemonic = "turtle emotion scissors flat weapon face bitter notable useful arrange slight industry";
+var mnemonic = "nerve chronic employ tennis question curtain sunset dutch saddle fury hard wage";

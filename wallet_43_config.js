@@ -1,1 +1,1 @@
-var mnemonic = "frozen deputy island comic humor cluster club hello half boost dinosaur fat";
+var mnemonic = "hedgehog exit this situate bulb canal country tongue keen stone found canoe";

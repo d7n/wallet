@@ -1,1 +1,1 @@
-var mnemonic = "dizzy rotate like depth float frequent crowd tell infant roast umbrella enter";
+var mnemonic = "liberty cruise mountain robust carpet kiwi normal subway achieve truly random banner";

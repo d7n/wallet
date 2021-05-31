@@ -1,1 +1,1 @@
-var mnemonic = "purity wagon panda assault music around pipe tonight gain region forget sauce";
+var mnemonic = "leg boat write onion verify spread kangaroo broom athlete slogan approve century";

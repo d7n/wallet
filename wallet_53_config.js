@@ -1,1 +1,1 @@
-var mnemonic = "noise found guide great apart note senior brush you gown shoulder castle";
+var mnemonic = "congress save like scale intact govern canal label slam discover original merit";

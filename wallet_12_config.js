@@ -1,1 +1,1 @@
-var mnemonic = "crawl vital cargo document acquire pulp height reunion camera spoon electric bracket";
+var mnemonic = "shift slam gravity merge scrub entire goose violin pet fence have priority";

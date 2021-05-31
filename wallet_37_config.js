@@ -1,1 +1,1 @@
-var mnemonic = "leopard enrich penalty fee switch casino monkey visit license bunker enhance seed";
+var mnemonic = "secret reflect alarm horror negative kingdom super next decline biology fat grief";

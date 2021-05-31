@@ -1,1 +1,1 @@
-var mnemonic = "donate crunch scissors donor all member desert sausage armor relax puzzle equal";
+var mnemonic = "extend dragon merry marine dismiss dust six report sadness fresh boil scissors";

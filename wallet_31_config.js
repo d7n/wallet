@@ -1,1 +1,1 @@
-var mnemonic = "absurd beef turtle erupt angle flavor negative arrow fall embody omit rural";
+var mnemonic = "badge usual message speed desert ostrich opera brief brown asthma myth fitness";

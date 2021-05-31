@@ -1,1 +1,1 @@
-var mnemonic = "glance december level success feel topic detect increase dilemma cook picture party";
+var mnemonic = "casino spend pudding once animal ladder token stumble load mix flee dragon";

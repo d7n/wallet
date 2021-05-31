@@ -1,1 +1,1 @@
-var mnemonic = "lava change usage found divert relief afraid mad neither enemy hat what";
+var mnemonic = "fancy faith message common message travel hero rather midnight catalog indoor pride";

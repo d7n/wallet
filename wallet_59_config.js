@@ -1,1 +1,1 @@
-var mnemonic = "quick cover isolate august eternal famous hundred pitch cotton confirm profit slender";
+var mnemonic = "pool way ivory limit arrow hospital grape dance balcony bronze poet rent";

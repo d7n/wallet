@@ -1,1 +1,1 @@
-var mnemonic = "outer light double around civil enroll time together lift embark able vocal";
+var mnemonic = "mouse sleep please blossom pupil gown shoe toss champion flavor frost number";

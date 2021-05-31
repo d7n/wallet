@@ -1,1 +1,1 @@
-var mnemonic = "health shadow clay stumble galaxy hen kick voice mask crowd moment decorate";
+var mnemonic = "aunt drip crouch cupboard tired fossil unlock swift claim fortune cattle wolf";

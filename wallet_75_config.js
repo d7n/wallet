@@ -1,1 +1,1 @@
-var mnemonic = "clown entire reject supply frog day sphere fame major rich pig they";
+var mnemonic = "subway home loop mystery usage toddler eye face outdoor bullet noodle happy";

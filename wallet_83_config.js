@@ -1,1 +1,1 @@
-var mnemonic = "endless case lawsuit gauge talk violin awkward give pear infant climb venture";
+var mnemonic = "violin artist screen minute gentle ecology inch autumn lawsuit cook random anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "someone oppose staff fit pool fiscal oak quarter genre green leopard neither";
+var mnemonic = "pattern news panther you scare ignore april announce dove arrow task pelican";

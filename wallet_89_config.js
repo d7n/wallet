@@ -1,1 +1,1 @@
-var mnemonic = "reunion lend brand quality hat clip pluck web swear ignore outside catalog";
+var mnemonic = "kick coconut riot job mercy casual help thing coral limb melt inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "coach alpha carpet canyon base asset orange roof crucial friend improve find";
+var mnemonic = "betray nation comfort doll crazy hand gown annual cake ski brand inner";

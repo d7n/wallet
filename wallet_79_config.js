@@ -1,1 +1,1 @@
-var mnemonic = "usage bounce regret moon essay west confirm glory end ethics already kitchen";
+var mnemonic = "turkey obey pledge because victory document spray cake strong own gym bounce";

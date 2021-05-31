@@ -1,1 +1,1 @@
-var mnemonic = "budget reflect solid mind slab point timber know main amount muffin deposit";
+var mnemonic = "element sustain frame cheap path resemble cloud base boy buzz night thank";

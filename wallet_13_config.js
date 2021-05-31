@@ -1,1 +1,1 @@
-var mnemonic = "result blade summer hint rural limit situate morning struggle distance shallow trigger";
+var mnemonic = "shrug rally fever intact worth happy salt soccer noodle gym coconut rubber";

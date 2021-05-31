@@ -1,1 +1,1 @@
-var mnemonic = "surge unable poem alarm truly hand silver flee february nest plug coach";
+var mnemonic = "fury danger fade clump abuse hybrid panda guide matrix twice symptom decline";

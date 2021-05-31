@@ -1,1 +1,1 @@
-var mnemonic = "business surround guess ladder acoustic blood resource member hub main ignore magic";
+var mnemonic = "sister ethics picture announce smart run recycle tool dose curtain tornado arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "popular elephant mirror whale jelly creek broken bridge question squirrel wet salmon";
+var mnemonic = "refuse loop wink trial impulse found method lottery want valid crime beyond";

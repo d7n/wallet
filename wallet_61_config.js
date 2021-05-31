@@ -1,1 +1,1 @@
-var mnemonic = "economy verb goose bright cute soul flip wash physical arrow rescue victory";
+var mnemonic = "term spirit plunge above typical hood hungry original insect dove minimum guard";

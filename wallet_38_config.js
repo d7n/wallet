@@ -1,1 +1,1 @@
-var mnemonic = "rocket angry unaware angry daring beyond filter shuffle carry snow cute ginger";
+var mnemonic = "moral minute reflect base butter pencil sting frost drink paper feature amateur";

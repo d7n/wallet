@@ -1,1 +1,1 @@
-var mnemonic = "planet gather swift chat betray repair harsh laundry wire margin ancient system";
+var mnemonic = "path virus limit kick jewel february buffalo okay ask embark degree rocket";

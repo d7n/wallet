@@ -1,1 +1,1 @@
-var mnemonic = "disagree release into mistake wolf option moment word among time attack concert";
+var mnemonic = "spider main answer panic clock solve agree daring gather suffer napkin fever";

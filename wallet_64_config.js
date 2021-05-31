@@ -1,1 +1,1 @@
-var mnemonic = "news auto earth promote jaguar nasty spy surface walk laundry junior plastic";
+var mnemonic = "term bronze net borrow hope special wrist purpose spatial push enforce axis";

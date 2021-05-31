@@ -1,1 +1,1 @@
-var mnemonic = "capital object tragic shell wise cousin giraffe fire bench cute discover popular";
+var mnemonic = "mechanic lecture beach obscure then use caution bind solar cloth broccoli six";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster surprise entry decade machine obscure safe chimney canvas sail flame fatal";
+var mnemonic = "company height design practice liquid oval human movie boss sock occur tennis";

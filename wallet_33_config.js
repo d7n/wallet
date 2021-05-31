@@ -1,1 +1,1 @@
-var mnemonic = "south two client frown begin congress problem soda film fancy soul imitate";
+var mnemonic = "catch combine address bullet stable coach circle door maximum valve palace reward";

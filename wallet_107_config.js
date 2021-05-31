@@ -1,1 +1,1 @@
-var mnemonic = "hover elbow elephant radar tell beauty jealous degree capable gesture friend solve";
+var mnemonic = "thing nurse screen core boy tongue pelican fire syrup interest weekend swarm";

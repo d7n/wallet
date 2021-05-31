@@ -1,1 +1,1 @@
-var mnemonic = "polar gentle similar crucial menu plunge approve hunt want harvest invest hat";
+var mnemonic = "hidden lemon cash embark orange speak view sunset sell turtle rural machine";

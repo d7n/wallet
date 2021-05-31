@@ -1,1 +1,1 @@
-var mnemonic = "beauty foster palm frequent push hover bacon arm ski tree mouse push";
+var mnemonic = "laptop cave dumb transfer hole spy garage alert solve slogan drink actress";

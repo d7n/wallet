@@ -1,1 +1,1 @@
-var mnemonic = "lady sort survey actress lonely sock copper already brass blossom razor sister";
+var mnemonic = "quantum inmate scheme sight taxi grape smart airport need pepper imitate twenty";

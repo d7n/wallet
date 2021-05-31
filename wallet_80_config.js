@@ -1,1 +1,1 @@
-var mnemonic = "luggage degree cargo choice catch urban eager finish follow entry half crucial";
+var mnemonic = "quantum wise crisp odor island smile cream robot exact section verb cruel";

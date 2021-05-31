@@ -1,1 +1,1 @@
-var mnemonic = "transfer luxury shrimp limit attract ask source click leg kite cabin library";
+var mnemonic = "flight hidden crowd caution size sell coin town fly open pattern stairs";

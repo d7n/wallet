@@ -1,1 +1,1 @@
-var mnemonic = "priority piano space humble vivid art slide craft frost extra garlic ring";
+var mnemonic = "problem talk vivid grant follow estate rare print stone brown edge verb";

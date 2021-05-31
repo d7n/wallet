@@ -1,1 +1,1 @@
-var mnemonic = "prison labor aware hello digital worry cheese erode cradle glimpse teach satoshi";
+var mnemonic = "gossip solution work airport ladder host someone drill glue tired mule slide";

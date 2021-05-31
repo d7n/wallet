@@ -1,1 +1,1 @@
-var mnemonic = "bulk small draft feature february catalog poverty during midnight settle affair lava";
+var mnemonic = "crime ice story must deal hope little follow unaware egg garbage february";

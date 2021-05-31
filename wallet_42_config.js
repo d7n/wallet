@@ -1,1 +1,1 @@
-var mnemonic = "domain tail energy foster dinner chalk faith wreck name opera consider crew";
+var mnemonic = "parrot blood science boy olympic poverty cheese shrug cactus frequent jelly fish";

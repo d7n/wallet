@@ -1,1 +1,1 @@
-var mnemonic = "absent attend connect icon kiwi gesture kit senior lounge road cluster garden";
+var mnemonic = "drill coral narrow atom mother rally nerve junk carbon devote exclude exhibit";

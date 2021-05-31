@@ -1,1 +1,1 @@
-var mnemonic = "heart when around helmet siren gift capable group side toward enemy cup";
+var mnemonic = "layer correct witness sheriff nose stable unknown solid bind rack home loyal";

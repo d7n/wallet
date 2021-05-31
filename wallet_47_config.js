@@ -1,1 +1,1 @@
-var mnemonic = "coffee purpose ride business yellow race you offer point float inject high";
+var mnemonic = "place hope elephant few chronic verify oyster electric index merit join shrug";

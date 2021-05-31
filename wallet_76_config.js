@@ -1,1 +1,1 @@
-var mnemonic = "wall romance february path trust depth move bundle brand image slam source";
+var mnemonic = "witness certain frost recall document balcony robot mesh brush unaware seat word";

@@ -1,1 +1,1 @@
-var mnemonic = "interest egg square clip pudding key select check card excuse rose entry";
+var mnemonic = "ensure potato jeans upset argue phone sibling wonder element simple crazy race";

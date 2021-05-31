@@ -1,1 +1,1 @@
-var mnemonic = "toy alpha crystal same awake pilot bird draw impact front stuff advice";
+var mnemonic = "primary present practice sample oblige view slender ecology loyal ball nephew group";

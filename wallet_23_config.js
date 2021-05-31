@@ -1,1 +1,1 @@
-var mnemonic = "concert pumpkin march pair opera insect mean arrive report enable involve curtain";
+var mnemonic = "ecology broccoli staff knife gun sting nuclear kangaroo cliff express orchard blood";

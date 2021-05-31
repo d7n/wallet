@@ -1,1 +1,1 @@
-var mnemonic = "aspect annual essay cluster patient hedgehog luxury usage arch trash invite indoor";
+var mnemonic = "elevator reward control seminar icon area vacant rocket table retire ceiling trophy";

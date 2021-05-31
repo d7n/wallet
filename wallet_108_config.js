@@ -1,1 +1,1 @@
-var mnemonic = "march source target trial image sausage judge leave mystery surface hockey book";
+var mnemonic = "conduct above card bronze chaos fine lecture desert energy prevent planet local";

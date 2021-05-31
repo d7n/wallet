@@ -1,1 +1,1 @@
-var mnemonic = "bread struggle material avoid inform trust fox breeze move ribbon spot mushroom";
+var mnemonic = "reveal oven mind dizzy control possible job bottom clinic hurry make loud";
