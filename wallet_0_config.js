@@ -1,1 +1,1 @@
-var mnemonic = "hire skin goat pilot assist plug city issue grab govern advance also";
+var mnemonic = "dynamic barrel vote swim lecture rack ripple reward phrase hedgehog hard quote";

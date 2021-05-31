@@ -1,1 +1,1 @@
-var mnemonic = "gentle bless assault water pencil system sugar pitch reopen sadness corn stumble";
+var mnemonic = "wait enroll ridge convince tired vocal utility dignity teach fiscal medal wet";

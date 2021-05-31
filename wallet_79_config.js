@@ -1,1 +1,1 @@
-var mnemonic = "farm twice police kiwi avoid city eye humor claw rival will purse";
+var mnemonic = "arctic angry fame love whip shaft trim hour nut scorpion circle hungry";

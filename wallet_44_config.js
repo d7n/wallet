@@ -1,1 +1,1 @@
-var mnemonic = "napkin quarter act purpose trap occur task kiwi pigeon west cherry final";
+var mnemonic = "credit invest lava clay field behave pitch tilt virtual reject token glory";

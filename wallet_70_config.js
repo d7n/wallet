@@ -1,1 +1,1 @@
-var mnemonic = "violin know make stem flavor father fury better forum grief protect decide";
+var mnemonic = "tree affair jump volume casual ask swear snap review canal frog beef";

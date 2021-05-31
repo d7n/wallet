@@ -1,1 +1,1 @@
-var mnemonic = "weasel pulp fever donate blade language blur victory shine slot vague faculty";
+var mnemonic = "onion tool same steel curious border myth race swim long spy economy";

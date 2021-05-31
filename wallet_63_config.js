@@ -1,1 +1,1 @@
-var mnemonic = "jelly intact possible bench apple drift emerge pigeon live faculty faculty upset";
+var mnemonic = "scrub stay episode quantum country sauce lift laptop bar angry body skin";

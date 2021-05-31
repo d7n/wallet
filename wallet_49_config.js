@@ -1,1 +1,1 @@
-var mnemonic = "width fabric give mean hand patient pluck scatter dinner sauce post rely";
+var mnemonic = "supreme tray piano secret knee half giggle simple sun wage miracle bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket you dream zero water verify city suit steak summer dwarf slam";
+var mnemonic = "gold balcony meadow virtual syrup chronic clarify device dignity drift paper either";

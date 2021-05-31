@@ -1,1 +1,1 @@
-var mnemonic = "crisp prepare coyote top hold upper valley hip quantum grief axis pond";
+var mnemonic = "claim sample panel reward door expose twice utility any scrub section garbage";

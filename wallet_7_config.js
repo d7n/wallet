@@ -1,1 +1,1 @@
-var mnemonic = "stove grain practice quarter couple focus nothing arena together island sample monkey";
+var mnemonic = "lady sword term pottery elder snack fine yard busy tonight slush amused";

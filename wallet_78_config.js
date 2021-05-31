@@ -1,1 +1,1 @@
-var mnemonic = "virus image picture enroll enjoy cheap holiday blind trust knock long state";
+var mnemonic = "general basket pudding victory manual toe you fame gather solve notice make";

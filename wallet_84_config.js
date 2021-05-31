@@ -1,1 +1,1 @@
-var mnemonic = "option velvet tip autumn waste castle snap ribbon amused coffee black fatigue";
+var mnemonic = "old destroy scrap category pool unlock twist enjoy outer defense chicken empower";

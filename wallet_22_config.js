@@ -1,1 +1,1 @@
-var mnemonic = "stool account glad drip seek decorate witness swallow garment field assist wine";
+var mnemonic = "mushroom buffalo rural alcohol fame truck kidney uniform brush already planet because";

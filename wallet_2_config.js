@@ -1,1 +1,1 @@
-var mnemonic = "ski deal ostrich old choice ahead library idea hunt dirt myth soul";
+var mnemonic = "civil walnut canvas oil divert pole keen cloth journey inquiry matter crew";

@@ -1,1 +1,1 @@
-var mnemonic = "engine domain recall help zebra library inside lazy solid earth stand cabbage";
+var mnemonic = "unaware exchange lonely fade broom memory behave theory lyrics park extra wise";

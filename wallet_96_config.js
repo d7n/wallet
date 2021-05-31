@@ -1,1 +1,1 @@
-var mnemonic = "embody sight parade spin cattle valid kiwi record upgrade entry mercy decline";
+var mnemonic = "cotton artefact various citizen hire excuse paper mouse major frozen mechanic control";

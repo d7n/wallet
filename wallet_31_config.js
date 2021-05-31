@@ -1,1 +1,1 @@
-var mnemonic = "fix fantasy route head capable correct job exhaust glory winner lonely web";
+var mnemonic = "spoil daring water pupil theory eye finger concert fish reform insect vacuum";

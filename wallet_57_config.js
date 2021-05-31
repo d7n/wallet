@@ -1,1 +1,1 @@
-var mnemonic = "monster dilemma sustain twist wine mix floor bachelor happy journey crumble blade";
+var mnemonic = "manual waste verify window near cook aunt strategy scrub attitude vast sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "hero smooth erupt pact champion edge relief tomato zero march auto poet";
+var mnemonic = "grunt rate jewel charge hint omit knife rural gain science laundry satoshi";

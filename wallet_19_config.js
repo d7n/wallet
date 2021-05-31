@@ -1,1 +1,1 @@
-var mnemonic = "tide assume hunt force check ripple ecology coconut frozen wise pull space";
+var mnemonic = "error office fence art keen engage among skate stay scene grace like";

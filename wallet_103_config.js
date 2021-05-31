@@ -1,1 +1,1 @@
-var mnemonic = "busy warrior keep visa floor flat ivory expand silk slot fortune purpose";
+var mnemonic = "recall hungry price erode peasant iron love trigger upset theme device robust";

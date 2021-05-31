@@ -1,1 +1,1 @@
-var mnemonic = "bachelor faith say all april client infant tattoo flock cannon acoustic flight";
+var mnemonic = "exhibit device harvest quantum motion rookie budget twin burger moral hurry mule";

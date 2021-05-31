@@ -1,1 +1,1 @@
-var mnemonic = "trade term tongue express monster ball pelican north invest seat shock connect";
+var mnemonic = "coast fresh flock prison glass chimney cash clock pencil industry frost skirt";

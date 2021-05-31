@@ -1,1 +1,1 @@
-var mnemonic = "pig usual option butter mule middle rebel swift melt diamond million lottery";
+var mnemonic = "slim live tissue host ethics glad valley usual there bean buzz never";

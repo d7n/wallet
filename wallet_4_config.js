@@ -1,1 +1,1 @@
-var mnemonic = "prefer resist afraid chunk myself snap brown bright setup fine chunk maid";
+var mnemonic = "yard plunge material thank desk cube sight true can jewel story margin";

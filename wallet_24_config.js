@@ -1,1 +1,1 @@
-var mnemonic = "cabin paper brave asset edit veteran clutch major jazz black fun bread";
+var mnemonic = "legal under leaf burger shift youth flavor hamster toe test target surround";

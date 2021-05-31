@@ -1,1 +1,1 @@
-var mnemonic = "bicycle truly rib flower produce cost bamboo stem gallery marriage cluster build";
+var mnemonic = "creek ball scene wisdom execute quit cheese pear sniff marriage excite kite";

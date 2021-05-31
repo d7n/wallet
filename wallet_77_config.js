@@ -1,1 +1,1 @@
-var mnemonic = "erosion tail van position category coast glory proud regret giggle grain river";
+var mnemonic = "daring rely stove scheme couch next hybrid apology express tomorrow wisdom maximum";

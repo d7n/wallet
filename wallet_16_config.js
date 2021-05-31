@@ -1,1 +1,1 @@
-var mnemonic = "ticket shoot dice game during pony fork word verify mansion theme kingdom";
+var mnemonic = "lesson danger cheap zone onion comfort alpha concert point lyrics unfold sense";

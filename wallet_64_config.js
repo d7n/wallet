@@ -1,1 +1,1 @@
-var mnemonic = "sunny typical frown cart write fiscal harvest banner deputy chest pioneer inch";
+var mnemonic = "tourist crush spring amazing invite illness wagon exist kidney beef duck spot";

@@ -1,1 +1,1 @@
-var mnemonic = "quote trouble real dignity clever essence such twice repair myself swarm boost";
+var mnemonic = "into artefact welcome marine below fresh thunder fork noble depart party elephant";

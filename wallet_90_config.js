@@ -1,1 +1,1 @@
-var mnemonic = "monster task liquid trust intact canal donkey piece wrong report horror chef";
+var mnemonic = "huge girl adjust yellow subject identify vintage immune smoke receive echo copy";

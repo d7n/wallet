@@ -1,1 +1,1 @@
-var mnemonic = "language umbrella bulb plunge next armor tackle tackle country chase early pencil";
+var mnemonic = "clap response crucial treat cable collect wreck fox gun pioneer fever pledge";

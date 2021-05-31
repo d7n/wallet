@@ -1,1 +1,1 @@
-var mnemonic = "fury item brown message entry cake mirror educate adult advance account offer";
+var mnemonic = "device mushroom attract tree disorder notable violin swallow degree fiber theme soccer";

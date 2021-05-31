@@ -1,1 +1,1 @@
-var mnemonic = "outdoor guard limit shell ill grain voyage monitor mercy liquid glue elite";
+var mnemonic = "rose shoe heavy music electric surge order steak bomb menu boy grunt";

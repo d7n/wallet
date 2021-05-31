@@ -1,1 +1,1 @@
-var mnemonic = "deputy penalty benefit hobby index bring team blood distance paddle cotton office";
+var mnemonic = "major crew drift license lens only steel thunder student expand seminar digital";

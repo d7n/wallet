@@ -1,1 +1,1 @@
-var mnemonic = "swap rural repeat mouse legend round weasel coach mixed coral faculty olive";
+var mnemonic = "ankle rib always try then diesel heavy labor knife debate number thank";

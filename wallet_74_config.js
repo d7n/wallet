@@ -1,1 +1,1 @@
-var mnemonic = "lesson vintage dinner urban push blanket deny punch wire bunker opera thought";
+var mnemonic = "train drama clarify shop game assume thank key hope copy deal mask";

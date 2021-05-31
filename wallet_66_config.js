@@ -1,1 +1,1 @@
-var mnemonic = "fold blast announce curious control asset shadow sausage million segment spider forum";
+var mnemonic = "indicate hungry teach elbow benefit pill trouble body crime town sunset sun";

@@ -1,1 +1,1 @@
-var mnemonic = "double memory entire add arrest clarify seed skirt whisper amazing theme mother";
+var mnemonic = "symptom holiday sphere old punch firm surprise alarm half shock frown prevent";

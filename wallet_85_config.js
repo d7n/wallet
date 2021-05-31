@@ -1,1 +1,1 @@
-var mnemonic = "song business cage arrest segment actress badge vital unique hire wave reopen";
+var mnemonic = "daughter sauce select inspire armed term chat repeat neither speak quantum fresh";

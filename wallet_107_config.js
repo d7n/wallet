@@ -1,1 +1,1 @@
-var mnemonic = "bone boost photo prepare match acid odor object south index jewel artist";
+var mnemonic = "whip noble lounge arrow october install praise length also liar woman any";

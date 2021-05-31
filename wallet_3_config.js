@@ -1,1 +1,1 @@
-var mnemonic = "enjoy this silly orchard dirt bicycle observe opinion spider tree album ribbon";
+var mnemonic = "shield duty loyal wisdom thought broom script miss gallery adjust creek bone";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck guide roof birth only orphan cute crime swift fatigue miss rude";
+var mnemonic = "shove margin agree sad office all hat cancel sun hidden vacuum cost";

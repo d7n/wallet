@@ -1,1 +1,1 @@
-var mnemonic = "bid repeat minimum nut hidden recipe south elephant fabric reveal vote spread";
+var mnemonic = "grant idea account pole garage also coach betray tower lottery embark pony";

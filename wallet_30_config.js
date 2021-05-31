@@ -1,1 +1,1 @@
-var mnemonic = "flip link urge satoshi sheriff measure mass order junk code void music";
+var mnemonic = "twin borrow list catch daughter crush draft kingdom series clog duck true";

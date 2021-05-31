@@ -1,1 +1,1 @@
-var mnemonic = "number pepper empower result tell fly trip awful educate cross luggage gym";
+var mnemonic = "where drink multiply gentle course autumn man screen siren tray unusual sight";

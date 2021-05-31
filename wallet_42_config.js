@@ -1,1 +1,1 @@
-var mnemonic = "music receive ticket toward donate crunch daughter advice casino short fan meadow";
+var mnemonic = "crisp vital reveal elegant glove unique ostrich image describe antenna smile bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "property diesel robot enable brisk purpose violin oak wheel grape volcano cushion";
+var mnemonic = "mechanic any shop rely ring toy foam twice bounce claw lizard that";

@@ -1,1 +1,1 @@
-var mnemonic = "candy push uniform catch doll tired live tone room able dinner gain";
+var mnemonic = "alley million donkey rescue poem learn wrestle play disease slim history fly";

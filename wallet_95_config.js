@@ -1,1 +1,1 @@
-var mnemonic = "violin prison balance gesture inherit burger slush relax because captain bunker include";
+var mnemonic = "increase screen success wear leaf give divide lazy earn toss relief giant";

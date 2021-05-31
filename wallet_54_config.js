@@ -1,1 +1,1 @@
-var mnemonic = "chef romance feature someone hill love window base critic report enemy renew";
+var mnemonic = "stamp response sad version festival tongue foot casual item slight canvas kid";

@@ -1,1 +1,1 @@
-var mnemonic = "potato liar chronic screen submit erode eyebrow detail piano denial runway female";
+var mnemonic = "paper nerve athlete already bread dust develop praise visual word ivory curve";

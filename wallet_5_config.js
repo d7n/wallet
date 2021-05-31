@@ -1,1 +1,1 @@
-var mnemonic = "argue comfort blossom ill robust perfect abuse frame hunt smart ranch cigar";
+var mnemonic = "trap ancient ill predict tooth wall crane twelve label hurt corn thank";

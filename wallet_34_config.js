@@ -1,1 +1,1 @@
-var mnemonic = "sea olive kiss jelly tonight crouch cool neck burger convince rely fatal";
+var mnemonic = "craft tongue coconut awesome reduce panther unique mistake oppose orphan sugar enough";

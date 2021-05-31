@@ -1,1 +1,1 @@
-var mnemonic = "peanut organ buyer ridge royal fresh obtain nature dinosaur lyrics wisdom taste";
+var mnemonic = "good palace amateur menu drive cupboard wood coffee gravity gauge tent torch";

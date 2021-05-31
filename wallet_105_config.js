@@ -1,1 +1,1 @@
-var mnemonic = "vague error conduct brass start output hair clock despair sister tortoise ladder";
+var mnemonic = "harvest apple stool pony picnic dune chair enhance day trap arrange love";

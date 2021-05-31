@@ -1,1 +1,1 @@
-var mnemonic = "text nature found happy oven admit system fit turn door axis picnic";
+var mnemonic = "elevator govern box cook rally boring sun dog off puppy denial aware";

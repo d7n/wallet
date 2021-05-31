@@ -1,1 +1,1 @@
-var mnemonic = "churn master diamond ramp wrap crane wait divide cool chest scout initial";
+var mnemonic = "possible track olive awake legend size client fluid library pilot juice elbow";

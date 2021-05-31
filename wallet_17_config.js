@@ -1,1 +1,1 @@
-var mnemonic = "bonus define have beauty blur net dune velvet bicycle version wealth pitch";
+var mnemonic = "pencil check farm orient favorite ahead express earth elephant bleak fortune awful";

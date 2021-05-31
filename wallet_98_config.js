@@ -1,1 +1,1 @@
-var mnemonic = "radar ticket parade iron tired pigeon mango lawn time february dune sister";
+var mnemonic = "trade theme mass pepper fish same puppy erode argue armed immune series";

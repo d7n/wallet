@@ -1,1 +1,1 @@
-var mnemonic = "major city then major aerobic word dial alter famous equal kidney disorder";
+var mnemonic = "when police desk license gloom distance marble napkin winner endorse agent dust";

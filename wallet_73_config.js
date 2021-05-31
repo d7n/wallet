@@ -1,1 +1,1 @@
-var mnemonic = "fabric hope fabric edit sad stone scissors tone trophy need always piece";
+var mnemonic = "clip shield give cancel choice cancel sing solve usual bind flame license";

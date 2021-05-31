@@ -1,1 +1,1 @@
-var mnemonic = "exile rapid west night melt despair session unknown virus armed tomato game";
+var mnemonic = "spend large mercy duck unhappy brown decide genius wish valve miss since";

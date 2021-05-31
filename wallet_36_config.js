@@ -1,1 +1,1 @@
-var mnemonic = "spread finger raven tomato arrive wool vague wasp give unaware crater same";
+var mnemonic = "treat leopard good dolphin violin legal immune camp robot firm degree idle";

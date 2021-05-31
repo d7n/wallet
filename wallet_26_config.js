@@ -1,1 +1,1 @@
-var mnemonic = "model flight orient original panel final artefact waste disorder edge group penalty";
+var mnemonic = "shine tortoise phone loan inherit explain purpose play vicious brave brave size";

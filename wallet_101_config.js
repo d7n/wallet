@@ -1,1 +1,1 @@
-var mnemonic = "joy need power dwarf naive disagree taste future simple pepper dust stumble";
+var mnemonic = "hover involve glory skate discover cube cat fold chest unknown rifle cinnamon";

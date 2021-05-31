@@ -1,1 +1,1 @@
-var mnemonic = "office wrist spot loud clock gas flee alley bless ketchup monkey carbon";
+var mnemonic = "cigar pilot expire book vast dog police social birth garment west motion";

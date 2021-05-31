@@ -1,1 +1,1 @@
-var mnemonic = "moon file abandon walnut oil country pitch story analyst reform silent quantum";
+var mnemonic = "abandon march illness pluck venture shoulder just tonight old conduct spread mass";

@@ -1,1 +1,1 @@
-var mnemonic = "service void excite modify voice dilemma dumb marine one avocado mobile dove";
+var mnemonic = "roof six display express mango group gesture enroll potato pull theory leisure";

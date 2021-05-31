@@ -1,1 +1,1 @@
-var mnemonic = "govern journey click shrug loan jazz crawl route news opera series memory";
+var mnemonic = "sleep spend season nation forward end struggle rifle cup submit arch move";

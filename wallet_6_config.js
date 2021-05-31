@@ -1,1 +1,1 @@
-var mnemonic = "scissors enhance term crumble parrot hurt airport upset cage injury old deal";
+var mnemonic = "humble truly modify tide left during spider lock frown crop letter flag";

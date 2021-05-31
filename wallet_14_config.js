@@ -1,1 +1,1 @@
-var mnemonic = "snack razor bid west scale hawk endorse science isolate arrive abstract wasp";
+var mnemonic = "tissue plunge frozen follow cannon beach vocal try congress firm limit relief";

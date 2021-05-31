@@ -1,1 +1,1 @@
-var mnemonic = "afford wife alcohol talent bind rifle feel very couple lawsuit cool spell";
+var mnemonic = "sphere weasel girl unique faculty give whale spider latin shield submit crowd";

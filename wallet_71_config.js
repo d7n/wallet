@@ -1,1 +1,1 @@
-var mnemonic = "actual afraid amateur seven tower nuclear moment razor keep cupboard agent shield";
+var mnemonic = "trouble crouch combine toward tornado atom general help easily bench useful maple";

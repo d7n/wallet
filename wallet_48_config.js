@@ -1,1 +1,1 @@
-var mnemonic = "dose crane sister summer deputy run front okay excess member sketch garlic";
+var mnemonic = "holiday record ramp lend sort jelly joy wage gaze bubble between finger";

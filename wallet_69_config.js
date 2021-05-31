@@ -1,1 +1,1 @@
-var mnemonic = "arrange borrow kite shell puppy volume door silent screen diagram search wet";
+var mnemonic = "message setup lunch flame photo teach width rigid peace match feature knee";

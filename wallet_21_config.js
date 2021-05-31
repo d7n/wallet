@@ -1,1 +1,1 @@
-var mnemonic = "electric fly west swap sudden slab beauty fruit liberty crime jump history";
+var mnemonic = "husband lava harvest inject wait vote knife solar road wine curtain parent";

@@ -1,1 +1,1 @@
-var mnemonic = "armed later purchase charge under grit purity forward close indicate pizza lonely";
+var mnemonic = "comfort essence ten foot soccer foot tomato off video identify mouse member";

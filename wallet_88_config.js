@@ -1,1 +1,1 @@
-var mnemonic = "grid way useless resemble eight cave worry save glad trend want elephant";
+var mnemonic = "sunny federal clinic pitch minor cycle brother equip language spice wear tennis";

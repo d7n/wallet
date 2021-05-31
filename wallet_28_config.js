@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog segment report cushion private shrimp thumb mass region able primary typical";
+var mnemonic = "educate youth blouse bike camp fabric credit relief gate tank universe hidden";

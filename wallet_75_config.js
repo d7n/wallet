@@ -1,1 +1,1 @@
-var mnemonic = "mechanic vintage harsh process fringe alcohol either media slim mandate myself surround";
+var mnemonic = "use potato craft improve alone then skate sphere squeeze foam isolate erode";

@@ -1,1 +1,1 @@
-var mnemonic = "skin agent bike one enrich planet frown female exhibit later shine enjoy";
+var mnemonic = "opera rough vital ten any rail front empower loop poem error thunder";

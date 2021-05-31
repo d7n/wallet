@@ -1,1 +1,1 @@
-var mnemonic = "typical aspect sense grit pull field time cradle law claim gasp opinion";
+var mnemonic = "appear amateur soap stereo wisdom enlist scorpion lawn paper above globe planet";

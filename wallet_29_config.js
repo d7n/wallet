@@ -1,1 +1,1 @@
-var mnemonic = "bus potato come jelly bind force anger wood trophy elevator treat apple";
+var mnemonic = "spread strategy vacuum that robust sauce where uncover poem discover finish hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber drift voice lyrics owner educate boss industry anchor mandate coin lend";
+var mnemonic = "effort pool trial month solar chest disorder journey improve warm throw romance";

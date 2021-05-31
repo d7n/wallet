@@ -1,1 +1,1 @@
-var mnemonic = "candy slow labor okay armed ethics romance increase tongue credit gift trust";
+var mnemonic = "jaguar album pause together brain intact shy defy blind glory enable print";

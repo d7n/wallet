@@ -1,1 +1,1 @@
-var mnemonic = "quote buzz spin shop forest begin funny fatigue leisure gold over fade";
+var mnemonic = "lumber nice hobby secret good random pulp stand romance anxiety thunder turn";

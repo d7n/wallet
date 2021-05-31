@@ -1,1 +1,1 @@
-var mnemonic = "aunt mammal transfer inside rival simple crumble swear reduce hollow side mechanic";
+var mnemonic = "laugh casino tissue empower mansion moon hover group copper cradle heart ghost";

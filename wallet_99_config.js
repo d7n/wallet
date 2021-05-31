@@ -1,1 +1,1 @@
-var mnemonic = "fold project apple paddle quick eyebrow omit giraffe sock blur dinosaur endless";
+var mnemonic = "glance pepper canvas column night round check insect absorb puzzle key hybrid";

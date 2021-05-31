@@ -1,1 +1,1 @@
-var mnemonic = "banana lesson hybrid gravity accuse photo quarter smile possible usual pink reflect";
+var mnemonic = "else cloud stadium flame mixture sadness clown lunch gadget short card very";

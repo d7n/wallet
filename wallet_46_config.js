@@ -1,1 +1,1 @@
-var mnemonic = "fancy sure tube iron lumber ramp earn kitten rug rural label benefit";
+var mnemonic = "manual inquiry nothing draw habit field biology ill float atom pioneer define";

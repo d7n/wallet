@@ -1,1 +1,1 @@
-var mnemonic = "pill dwarf bird area whisper vintage cram scorpion husband fold code kiss";
+var mnemonic = "fault winter spray sadness blossom canyon convince dune bronze book sell wasp";
