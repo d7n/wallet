@@ -1,1 +1,1 @@
-var mnemonic = "length favorite bullet review custom foam patch nest youth latin surprise gym";
+var mnemonic = "child goat ring spring engage hour dutch skate alarm stable green size";

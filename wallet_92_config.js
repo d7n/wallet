@@ -1,1 +1,1 @@
-var mnemonic = "build come cash winter skate spider vault pottery immense exotic scout hint";
+var mnemonic = "venue slogan humble canvas kit brief sing glory aerobic dragon try engage";

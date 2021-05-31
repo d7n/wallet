@@ -1,1 +1,1 @@
-var mnemonic = "tent rally vivid fatal accuse thing panther index clog nature guide pet";
+var mnemonic = "bubble unaware evolve kitchen beef clip web erupt donor bullet trip vague";

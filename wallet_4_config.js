@@ -1,1 +1,1 @@
-var mnemonic = "bring human chalk baby flavor noble aim laundry express turtle camp venue";
+var mnemonic = "reunion mesh tent say west shoulder volume mail love cancel satisfy predict";

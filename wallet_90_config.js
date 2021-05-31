@@ -1,1 +1,1 @@
-var mnemonic = "venture cinnamon vacant violin seven blood blouse grit alert buffalo blanket owner";
+var mnemonic = "dune fever enter sun struggle whale practice nest fatigue slab attack opera";

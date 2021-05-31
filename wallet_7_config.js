@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo salon what series twin whip dynamic express tooth toy title right";
+var mnemonic = "ticket bag today wasp immense corn feed rent amateur ride spirit candy";

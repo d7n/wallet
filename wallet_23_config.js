@@ -1,1 +1,1 @@
-var mnemonic = "hire evil super glue unaware endorse flock pact edge exhibit umbrella fresh";
+var mnemonic = "misery local scrap session tuition believe bicycle analyst miracle slogan grape embrace";

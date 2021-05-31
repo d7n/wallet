@@ -1,1 +1,1 @@
-var mnemonic = "drink lift wrong giggle salute script base pair find teach major popular";
+var mnemonic = "large manage solar sword budget mystery forward decline other when copy renew";

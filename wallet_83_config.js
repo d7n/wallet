@@ -1,1 +1,1 @@
-var mnemonic = "chest evidence say spread donate such quit bike become inquiry find truth";
+var mnemonic = "online glow post hope flee grab game neck allow just ocean key";

@@ -1,1 +1,1 @@
-var mnemonic = "picture tube abandon hope loud warfare once owner bag board flee priority";
+var mnemonic = "merge spatial cause magic foam spare flat funny timber inform okay select";

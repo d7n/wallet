@@ -1,1 +1,1 @@
-var mnemonic = "mad powder resemble betray buzz business expect reform rare popular goose split";
+var mnemonic = "replace gown skull obey swallow velvet modify suggest affair grow damage later";

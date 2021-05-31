@@ -1,1 +1,1 @@
-var mnemonic = "empower ice thumb note false slam adjust grain champion start quantum chief";
+var mnemonic = "script stock three soda extend candy fold cash fuel clog acquire marine";

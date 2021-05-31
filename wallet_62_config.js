@@ -1,1 +1,1 @@
-var mnemonic = "skirt blood fault virus basket supreme dutch type tobacco correct seat board";
+var mnemonic = "history sugar trouble crawl cool grass stove physical hero sorry hip leg";

@@ -1,1 +1,1 @@
-var mnemonic = "junk session rapid blossom payment stable topic worth pond inhale control view";
+var mnemonic = "soap easy kiwi green advance phone follow shoot flavor pen define isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "similar stairs indicate slush animal hen early goose unknown divert unveil tornado";
+var mnemonic = "cost bean poem manage extend alarm million seven grief expose smoke urban";

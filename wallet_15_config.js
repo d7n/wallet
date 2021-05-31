@@ -1,1 +1,1 @@
-var mnemonic = "man host crater elbow shoe blame chief hurt toss pull balance glide";
+var mnemonic = "grow dad image wise base local rough fancy amused cute hope type";

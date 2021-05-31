@@ -1,1 +1,1 @@
-var mnemonic = "tornado myself fall style hazard left orchard bless certain coil amazing inch";
+var mnemonic = "slot end shell beef dress clutch detail allow fresh birth lumber increase";

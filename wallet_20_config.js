@@ -1,1 +1,1 @@
-var mnemonic = "climb card core neglect sun method scan engage confirm evil veteran color";
+var mnemonic = "ceiling across brown inspire school firm reopen second gentle kid second ocean";

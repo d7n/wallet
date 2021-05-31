@@ -1,1 +1,1 @@
-var mnemonic = "used skull frog boil strong course veteran share crouch ensure short essay";
+var mnemonic = "truth short popular equip frequent route satoshi return chest unfold buyer stereo";

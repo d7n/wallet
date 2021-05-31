@@ -1,1 +1,1 @@
-var mnemonic = "garment basic hurt bid asset coyote adult only company census drip disease";
+var mnemonic = "expire voice crop cloth cycle trash avoid creek mistake prison bottom conduct";

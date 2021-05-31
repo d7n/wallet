@@ -1,1 +1,1 @@
-var mnemonic = "melody forget inmate dress now resist parrot observe position hidden across quick";
+var mnemonic = "memory toast satoshi deer gallery unknown east wild depart question poverty injury";

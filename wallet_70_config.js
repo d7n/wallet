@@ -1,1 +1,1 @@
-var mnemonic = "recall parrot hospital phone sibling dog clog erode brother ozone misery mystery";
+var mnemonic = "voyage dilemma cable physical rose lawn pony potato tattoo pioneer flower smart";

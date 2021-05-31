@@ -1,1 +1,1 @@
-var mnemonic = "expand version spread credit holiday shy crush rubber room crew make system";
+var mnemonic = "fault history valid team screen borrow sauce claim athlete rent merge color";

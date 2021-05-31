@@ -1,1 +1,1 @@
-var mnemonic = "often vivid bubble novel retreat permit disease student cactus junior awful embark";
+var mnemonic = "current captain best immense ahead beef crawl endless disagree poem income predict";

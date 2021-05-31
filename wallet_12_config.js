@@ -1,1 +1,1 @@
-var mnemonic = "blade scale isolate price tuition athlete scissors chef check domain clog breeze";
+var mnemonic = "bomb crouch intact detect few focus achieve tortoise inform tomato glide equal";

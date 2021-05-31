@@ -1,1 +1,1 @@
-var mnemonic = "junk unlock pupil salt obscure detect clip service increase fade lunch trick";
+var mnemonic = "film agree salon street essence impulse grain grit embody result any trigger";

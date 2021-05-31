@@ -1,1 +1,1 @@
-var mnemonic = "honey language three region recycle grain illegal stereo blossom current cupboard weapon";
+var mnemonic = "chuckle warm trumpet face section green debris author gloom license gossip math";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor capital ladder enact machine fee swim oak another regret crawl liar";
+var mnemonic = "vapor pipe stomach party sentence over hurdle afraid gain accident refuse audit";

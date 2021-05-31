@@ -1,1 +1,1 @@
-var mnemonic = "second fee senior six mean canyon fortune layer tray source rose salt";
+var mnemonic = "elephant excuse father emerge sausage chalk entire ignore better road bright sell";

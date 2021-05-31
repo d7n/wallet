@@ -1,1 +1,1 @@
-var mnemonic = "mutual bid coach list hood cycle small frequent credit napkin hat flock";
+var mnemonic = "ethics sheriff tent impulse tool market hire wish rich business garden trust";

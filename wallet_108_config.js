@@ -1,1 +1,1 @@
-var mnemonic = "private ritual since exit fantasy record must spike doctor picture sleep prosper";
+var mnemonic = "rib hover inmate chat broken lake display junk rhythm board member time";

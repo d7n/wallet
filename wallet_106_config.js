@@ -1,1 +1,1 @@
-var mnemonic = "sock narrow save silk dutch notable shuffle monitor prefer shrug ball staff";
+var mnemonic = "any above system success inform minimum reward food draft push reward circle";

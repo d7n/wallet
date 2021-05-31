@@ -1,1 +1,1 @@
-var mnemonic = "marble annual cupboard suffer situate vocal essay improve brisk trend put audit";
+var mnemonic = "diagram ozone steak remember dash accuse legal exercise inch solution thumb session";

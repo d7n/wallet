@@ -1,1 +1,1 @@
-var mnemonic = "found surface hurdle gesture tent wealth cinnamon around stay domain police eight";
+var mnemonic = "aisle favorite sheriff draft perfect indoor potato boost camera tone neutral thing";

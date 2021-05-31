@@ -1,1 +1,1 @@
-var mnemonic = "deliver derive accuse blood arrow army scrub method item tip fantasy brief";
+var mnemonic = "cherry gossip embark slight pulp walnut day tennis similar region maximum level";

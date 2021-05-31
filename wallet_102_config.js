@@ -1,1 +1,1 @@
-var mnemonic = "beach swear usual replace car diamond demand worth diagram delay kit organ";
+var mnemonic = "rich erode remove size chalk super clock giraffe fan cause eager syrup";

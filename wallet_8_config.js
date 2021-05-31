@@ -1,1 +1,1 @@
-var mnemonic = "famous exit correct fresh century horse reform actor unable island dilemma music";
+var mnemonic = "number copy thank sibling tent crater volcano relief blossom either razor midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "camera other exile forum private sort weather reason steak pretty swamp skin";
+var mnemonic = "street question loud usual camera dune involve uniform enrich upper aunt slab";

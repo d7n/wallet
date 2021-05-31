@@ -1,1 +1,1 @@
-var mnemonic = "smooth famous antenna upper chief mail warfare shrimp practice mystery parade snake";
+var mnemonic = "ramp choose express enforce penalty neutral carbon symbol kit dignity power clown";

@@ -1,1 +1,1 @@
-var mnemonic = "behave please faint thrive churn curious artwork barrel auto output scout december";
+var mnemonic = "wild sand bus know hazard struggle crush hollow gate rubber bid gesture";

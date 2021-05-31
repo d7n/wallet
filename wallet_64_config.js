@@ -1,1 +1,1 @@
-var mnemonic = "medal ecology remain field come artefact all gentle toast drill shove another";
+var mnemonic = "enemy tornado soul naive sugar sweet mother control blast regular hub sad";

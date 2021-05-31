@@ -1,1 +1,1 @@
-var mnemonic = "marble account kidney resemble amount luxury snow embark exotic extend math betray";
+var mnemonic = "meadow feed seed social sun equal harvest trim square front heavy bag";

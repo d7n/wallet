@@ -1,1 +1,1 @@
-var mnemonic = "hire knife tired snap false bench clutch budget obvious brisk noise soul";
+var mnemonic = "vacuum aerobic album screen boss whisper ignore alien weekend engage essence slow";

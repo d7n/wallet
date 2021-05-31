@@ -1,1 +1,1 @@
-var mnemonic = "broccoli picnic split chicken dove essay cage quality kidney rescue secret excuse";
+var mnemonic = "shine accident half casino honey century wish body crucial acquire negative cage";

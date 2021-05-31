@@ -1,1 +1,1 @@
-var mnemonic = "must water merge shed fragile join erode hidden side demand annual devote";
+var mnemonic = "add cabin enforce slogan trap upgrade fragile walnut crawl casino car sort";

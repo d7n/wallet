@@ -1,1 +1,1 @@
-var mnemonic = "always subject soul congress biology car repeat bind vicious ivory script hard";
+var mnemonic = "task risk wreck verb hero rude custom ranch fame move rescue school";

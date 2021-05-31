@@ -1,1 +1,1 @@
-var mnemonic = "urge like situate damage skull virus wink strike daring news abuse equal";
+var mnemonic = "slender absurd punch can bid injury private indicate leg mystery opinion giant";

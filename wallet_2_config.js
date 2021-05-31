@@ -1,1 +1,1 @@
-var mnemonic = "bargain aim dignity tank midnight cousin visa pupil inspire three split ridge";
+var mnemonic = "segment pepper olive own jeans erase lunch door can endless embark chicken";

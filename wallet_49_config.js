@@ -1,1 +1,1 @@
-var mnemonic = "pottery sister talent caution broom novel tuna antique confirm brisk diesel help";
+var mnemonic = "cabin size fragile monitor meadow anxiety zero skate scan unfold flip zero";

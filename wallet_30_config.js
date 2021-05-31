@@ -1,1 +1,1 @@
-var mnemonic = "dinner act fat omit detect match tell staff clean buddy draft expire";
+var mnemonic = "minimum brother please submit month vapor purpose scale retreat round stage clown";

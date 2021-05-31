@@ -1,1 +1,1 @@
-var mnemonic = "web nice cradle frozen goddess blame valid shift hair ketchup seven easily";
+var mnemonic = "audit shrug only soccer page stand alter purse evil enhance spawn what";

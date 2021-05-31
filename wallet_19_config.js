@@ -1,1 +1,1 @@
-var mnemonic = "deer kiss harsh grant swift sell claim winner carpet mobile bread firm";
+var mnemonic = "grain below display lizard garden hollow sugar view fatal rice disorder onion";

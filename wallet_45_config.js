@@ -1,1 +1,1 @@
-var mnemonic = "alley science pig mansion tomorrow absorb cram tree sense shoe olympic swear";
+var mnemonic = "artist tip virus chest catalog host hurdle space hurt myself rude social";

@@ -1,1 +1,1 @@
-var mnemonic = "oil hair december term pitch point first visa eager diamond armor oyster";
+var mnemonic = "earth mirror dry merge school file amazing fix alpha exotic country state";

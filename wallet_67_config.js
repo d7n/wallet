@@ -1,1 +1,1 @@
-var mnemonic = "produce junior truth office extra label wood square observe hand slush square";
+var mnemonic = "injury weird erase electric ridge arctic armed small episode merry senior lens";

@@ -1,1 +1,1 @@
-var mnemonic = "around settle congress gift bachelor push filter advice ghost cry brand credit";
+var mnemonic = "process wrestle ship save duty want detail cart woman empower bomb company";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil soldier chief oil wear blast harsh job lawn smile crowd object";
+var mnemonic = "design marine marble glass coral nest citizen one fog strategy glare uphold";

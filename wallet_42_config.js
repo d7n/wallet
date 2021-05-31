@@ -1,1 +1,1 @@
-var mnemonic = "tuition dial swarm atom crack exchange private thought electric brick viable duck";
+var mnemonic = "reason mercy fine pilot south truth sell payment famous year across impact";

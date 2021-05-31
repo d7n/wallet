@@ -1,1 +1,1 @@
-var mnemonic = "team access adult ankle gown raccoon account pretty reopen unhappy coconut system";
+var mnemonic = "leaf virus point invest forward border extra aisle admit virtual drift judge";

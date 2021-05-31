@@ -1,1 +1,1 @@
-var mnemonic = "wood habit toilet spatial penalty person best duty asset slender neglect cry";
+var mnemonic = "grief solar blossom joke task wing educate quality utility morning slab enforce";

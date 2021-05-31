@@ -1,1 +1,1 @@
-var mnemonic = "noodle can pilot sure retire victory judge hundred family spread catalog pupil";
+var mnemonic = "ordinary alcohol cabin winter tunnel ostrich side risk column east safe limit";

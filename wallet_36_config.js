@@ -1,1 +1,1 @@
-var mnemonic = "cheese photo pretty clap deposit border west message latin crash purity dumb";
+var mnemonic = "rare drink lecture cotton skirt improve autumn later assault pattern turtle invest";

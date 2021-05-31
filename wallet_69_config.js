@@ -1,1 +1,1 @@
-var mnemonic = "type describe host skin melody document rug drop poem legal solar point";
+var mnemonic = "cloud praise scout this artefact give lazy sunny fold volcano obvious broom";

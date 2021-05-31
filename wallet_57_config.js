@@ -1,1 +1,1 @@
-var mnemonic = "audit enroll limit polar potato spell sail silent broom omit result offer";
+var mnemonic = "sample enrich hat little kit certain sport chimney blossom water miss defense";

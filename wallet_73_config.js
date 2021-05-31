@@ -1,1 +1,1 @@
-var mnemonic = "student shoot fall solve rude subway crawl cotton bus magic warm fire";
+var mnemonic = "awful main rebuild spin adapt same earth message unhappy force gate impact";

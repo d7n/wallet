@@ -1,1 +1,1 @@
-var mnemonic = "concert wave horse ankle awesome weekend memory add you more stomach claim";
+var mnemonic = "decade decline father escape patch vocal year marble main bus disorder salon";

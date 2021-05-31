@@ -1,1 +1,1 @@
-var mnemonic = "amount sleep poverty okay scatter draft frozen ride tail crawl enforce certain";
+var mnemonic = "purse permit basket inherit wise retreat shed pelican sweet wolf pattern that";

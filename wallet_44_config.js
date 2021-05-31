@@ -1,1 +1,1 @@
-var mnemonic = "party gain used salute suspect clock ostrich weird saddle warm drama solar";
+var mnemonic = "since lock gaze clerk duty sibling junior change combine fragile alarm never";

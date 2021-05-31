@@ -1,1 +1,1 @@
-var mnemonic = "mother saddle breeze wet obey tortoise embody print birth body despair whale";
+var mnemonic = "medal comic normal grace fiber clap mule zero satisfy cake payment invest";

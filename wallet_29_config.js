@@ -1,1 +1,1 @@
-var mnemonic = "universe junior split lunar earth entire time hotel bar excess verify stumble";
+var mnemonic = "carbon habit exact two brisk diesel keen super cup enter pulse aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "attract bargain dry ozone lift primary spring unable auto dawn taste plunge";
+var mnemonic = "unable trophy pond fuel exist badge swap drill myth deliver enforce omit";

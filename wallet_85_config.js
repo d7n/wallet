@@ -1,1 +1,1 @@
-var mnemonic = "twice save crazy alley radar brush century erosion world person alter safe";
+var mnemonic = "stool treat hunt jacket ugly short soda stumble pottery ignore equip choose";

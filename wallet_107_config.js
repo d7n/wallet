@@ -1,1 +1,1 @@
-var mnemonic = "wave satoshi load helmet chapter measure sorry force wrestle student defense promote";
+var mnemonic = "nothing fiber clarify chef broken cup trouble pass august next diet bless";

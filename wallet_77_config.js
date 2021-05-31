@@ -1,1 +1,1 @@
-var mnemonic = "someone warfare minor shift swap enjoy ceiling slide mandate antique pelican please";
+var mnemonic = "gadget bonus struggle stadium practice corn lab artwork click harbor april rate";

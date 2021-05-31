@@ -1,1 +1,1 @@
-var mnemonic = "swim link bottom uniform monitor lumber gym card reject trial certain story";
+var mnemonic = "youth tuition arctic hire wash swallow indicate crack half outer wet endless";

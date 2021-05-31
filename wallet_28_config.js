@@ -1,1 +1,1 @@
-var mnemonic = "casino team oblige tunnel bronze spy then caught cactus citizen doll prefer";
+var mnemonic = "pelican wheel hub swing analyst fringe found elegant cheese energy business usage";

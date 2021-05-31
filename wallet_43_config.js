@@ -1,1 +1,1 @@
-var mnemonic = "purse double increase canyon drip bamboo nest earn title panda lyrics task";
+var mnemonic = "paper record term news govern common suspect hurry taste amount coral concert";

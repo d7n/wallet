@@ -1,1 +1,1 @@
-var mnemonic = "cotton warrior retire purpose inquiry party young sphere wealth combine obey teach";
+var mnemonic = "sketch salute thank actress mass abuse piece nerve air sock loud another";

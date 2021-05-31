@@ -1,1 +1,1 @@
-var mnemonic = "angle lesson used december express canal able embrace bright eager fun common";
+var mnemonic = "win mail dash impulse spy crater doctor awkward garbage club that pipe";

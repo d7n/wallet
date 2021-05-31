@@ -1,1 +1,1 @@
-var mnemonic = "spray latin edit scorpion build law doll forward peanut reason shrimp core";
+var mnemonic = "plate dad hotel stool tennis cliff alcohol there odor race chunk mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "gate core feature dish miracle early angry palm vicious genre gadget figure";
+var mnemonic = "squirrel please area zebra midnight item camera sweet refuse dog change occur";

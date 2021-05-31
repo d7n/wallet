@@ -1,1 +1,1 @@
-var mnemonic = "burst buzz fatal pencil resource key spice clutch review interest supreme asthma";
+var mnemonic = "flock combine remind rookie under balcony divorce fine style walnut animal fade";
