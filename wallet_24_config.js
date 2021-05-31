@@ -1,1 +1,1 @@
-var mnemonic = "refuse loop wink trial impulse found method lottery want valid crime beyond";
+var mnemonic = "force learn derive identify skirt obey diagram parade husband minor basket emerge";

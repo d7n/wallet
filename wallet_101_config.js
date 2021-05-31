@@ -1,1 +1,1 @@
-var mnemonic = "lazy sound home food husband tiny fiber approve option globe same hurdle";
+var mnemonic = "safe label shield anger carpet exhibit when castle engine recipe light brain";

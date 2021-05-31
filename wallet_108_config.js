@@ -1,1 +1,1 @@
-var mnemonic = "conduct above card bronze chaos fine lecture desert energy prevent planet local";
+var mnemonic = "later script gate afford battle bulb happy genuine frown vessel toss wise";

@@ -1,1 +1,1 @@
-var mnemonic = "lens canal try strong educate coconut shrimp nothing umbrella solar inject file";
+var mnemonic = "eye diesel left during chalk bid lonely output cloth travel tilt avoid";

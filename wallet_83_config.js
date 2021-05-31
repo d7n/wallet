@@ -1,1 +1,1 @@
-var mnemonic = "violin artist screen minute gentle ecology inch autumn lawsuit cook random anchor";
+var mnemonic = "hard oak fitness face salute fence ranch security village when subject city";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden lemon cash embark orange speak view sunset sell turtle rural machine";
+var mnemonic = "change dilemma little embark cupboard pepper echo nurse where hedgehog switch put";

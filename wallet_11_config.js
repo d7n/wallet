@@ -1,1 +1,1 @@
-var mnemonic = "sister ethics picture announce smart run recycle tool dose curtain tornado arrange";
+var mnemonic = "fitness wheat era cause hotel skill bulk tuna indoor spy usage lava";

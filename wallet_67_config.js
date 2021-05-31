@@ -1,1 +1,1 @@
-var mnemonic = "quantum inmate scheme sight taxi grape smart airport need pepper imitate twenty";
+var mnemonic = "fox budget spatial brisk need impact inhale april about pilot sense town";

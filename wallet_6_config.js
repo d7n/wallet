@@ -1,1 +1,1 @@
-var mnemonic = "merit age make inmate butter amateur hedgehog ocean adapt bunker ordinary angry";
+var mnemonic = "cherry hidden lion volume loud feature oil same oblige farm oppose leaf";

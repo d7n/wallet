@@ -1,1 +1,1 @@
-var mnemonic = "special insane airport absorb thrive diamond festival divide bar friend similar venture";
+var mnemonic = "lounge flat kiwi brown salon prison original super fantasy rapid damp narrow";

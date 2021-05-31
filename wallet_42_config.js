@@ -1,1 +1,1 @@
-var mnemonic = "parrot blood science boy olympic poverty cheese shrug cactus frequent jelly fish";
+var mnemonic = "palm miracle nasty topic either climb six office gospel slam gossip case";

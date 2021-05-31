@@ -1,1 +1,1 @@
-var mnemonic = "sponsor require feed stick act viable cattle industry trip achieve angry move";
+var mnemonic = "flag coast game cake catalog pelican ability rifle color diesel feel maple";

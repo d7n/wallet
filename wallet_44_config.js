@@ -1,1 +1,1 @@
-var mnemonic = "casino spend pudding once animal ladder token stumble load mix flee dragon";
+var mnemonic = "globe dilemma glide road cement yellow brown fossil innocent agent cereal royal";

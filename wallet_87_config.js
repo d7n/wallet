@@ -1,1 +1,1 @@
-var mnemonic = "guitar track mail soccer excuse agent auto exchange jaguar deer dog public";
+var mnemonic = "stable fog april attitude pioneer pave fade toddler verify weird turn found";

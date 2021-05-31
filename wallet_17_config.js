@@ -1,1 +1,1 @@
-var mnemonic = "combine nest motor omit genuine raccoon evoke noble debate leaf hobby inflict";
+var mnemonic = "pair discover devote stem average ride will casual brother brave because joy";

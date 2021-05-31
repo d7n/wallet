@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hold glance dismiss absent glue divide ribbon hat vast swim atom";
+var mnemonic = "walnut receive knee crunch enroll chicken stone cushion flash clean label puzzle";

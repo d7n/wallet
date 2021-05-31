@@ -1,1 +1,1 @@
-var mnemonic = "slab razor know visit cute decrease thing supply deal wine cruel cactus";
+var mnemonic = "hill door stereo shuffle decorate mixed zebra wonder all athlete first chunk";

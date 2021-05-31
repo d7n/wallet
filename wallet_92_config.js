@@ -1,1 +1,1 @@
-var mnemonic = "element sustain frame cheap path resemble cloud base boy buzz night thank";
+var mnemonic = "walk drill jazz subway load other destroy pill liberty pen main reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing chronic rule curve festival silk across lemon again exchange inject easy";
+var mnemonic = "empower forest unveil drum deer ring tortoise identify pipe style miracle maximum";

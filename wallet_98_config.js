@@ -1,1 +1,1 @@
-var mnemonic = "staff modify decrease length problem this volcano female decade general option wreck";
+var mnemonic = "broom skate coconut patrol amused supply sight antique matrix leader amount general";

@@ -1,1 +1,1 @@
-var mnemonic = "juice zone notable round finger hair company warfare prevent split decade outdoor";
+var mnemonic = "lend security margin leave cactus example excite enrich tuna very rhythm zero";

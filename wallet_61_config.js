@@ -1,1 +1,1 @@
-var mnemonic = "term spirit plunge above typical hood hungry original insect dove minimum guard";
+var mnemonic = "suspect indicate eight eagle father estate follow under cash nothing ask equip";

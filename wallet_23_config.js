@@ -1,1 +1,1 @@
-var mnemonic = "ecology broccoli staff knife gun sting nuclear kangaroo cliff express orchard blood";
+var mnemonic = "dumb link head dinner bubble manage kind manage oppose enrich biology visa";

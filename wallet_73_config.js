@@ -1,1 +1,1 @@
-var mnemonic = "indicate cereal tooth pride alone muscle produce swamp poet lawsuit mimic fruit";
+var mnemonic = "gold judge whale income drive govern tool sudden finger wedding daughter seed";

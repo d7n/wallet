@@ -1,1 +1,1 @@
-var mnemonic = "number imitate glance wonder aunt renew mandate wing dinner ankle virtual shift";
+var mnemonic = "notable chat aunt unfold whisper tip claim shiver prosper gauge allow relief";

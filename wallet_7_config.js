@@ -1,1 +1,1 @@
-var mnemonic = "primary present practice sample oblige view slender ecology loyal ball nephew group";
+var mnemonic = "one spatial goddess essence calm flavor season injury wrong canvas net lock";

@@ -1,1 +1,1 @@
-var mnemonic = "step vocal kind crack host shed ribbon real occur leisure reform artefact";
+var mnemonic = "gravity smart bone trip finish gauge fatigue arm angry film raise switch";

@@ -1,1 +1,1 @@
-var mnemonic = "catch combine address bullet stable coach circle door maximum valve palace reward";
+var mnemonic = "congress anger tourist rice sign toss spray angle casual put fantasy trap";

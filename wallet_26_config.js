@@ -1,1 +1,1 @@
-var mnemonic = "suggest grow obtain swap balance hire alert renew maple federal cargo rhythm";
+var mnemonic = "antenna blossom they put lizard gloom accident wear reunion retire frequent off";

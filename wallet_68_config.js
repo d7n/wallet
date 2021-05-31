@@ -1,1 +1,1 @@
-var mnemonic = "kiwi leaf trash various dune quiz equal net sick salute power doll";
+var mnemonic = "excuse prepare afford relief capital public spike bag scrub goddess mesh cement";

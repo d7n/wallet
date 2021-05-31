@@ -1,1 +1,1 @@
-var mnemonic = "phone north tiger balance trouble build crouch medal ticket round chest dismiss";
+var mnemonic = "gesture sustain next distance kit grocery wood harsh taste gloom foil mule";

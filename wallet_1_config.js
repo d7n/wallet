@@ -1,1 +1,1 @@
-var mnemonic = "rate auction stumble kiss foster unlock trouble what perfect stand desert say";
+var mnemonic = "success impose cave woman capital critic grab vehicle easily feature science large";

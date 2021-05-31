@@ -1,1 +1,1 @@
-var mnemonic = "prosper loan grocery aware segment basket climb embrace nasty gather vessel awake";
+var mnemonic = "dust rural joke foot accident film light panda ocean stove chalk vicious";

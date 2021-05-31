@@ -1,1 +1,1 @@
-var mnemonic = "valid reform ethics gun erupt mixture later color axis jungle flat practice";
+var mnemonic = "pause stove open cycle delay motor heart twenty history trick jazz paper";

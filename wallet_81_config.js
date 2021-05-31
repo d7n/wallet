@@ -1,1 +1,1 @@
-var mnemonic = "eager surround section glare ostrich razor hammer gesture lamp horror twice humble";
+var mnemonic = "remain above level tragic group tell win victory liberty awful provide frozen";

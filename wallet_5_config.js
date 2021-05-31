@@ -1,1 +1,1 @@
-var mnemonic = "mechanic lecture beach obscure then use caution bind solar cloth broccoli six";
+var mnemonic = "vague welcome way sand series pride discover nominee rib quality fringe dress";

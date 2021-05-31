@@ -1,1 +1,1 @@
-var mnemonic = "aisle brisk describe comic pretty cycle soda resource bundle casino oven high";
+var mnemonic = "lend option spoon minute ball liquid deal glare entry animal asthma crime";

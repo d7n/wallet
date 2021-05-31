@@ -1,1 +1,1 @@
-var mnemonic = "problem talk vivid grant follow estate rare print stone brown edge verb";
+var mnemonic = "crucial degree match coil depart bundle rather either song tooth bind blanket";

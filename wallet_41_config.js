@@ -1,1 +1,1 @@
-var mnemonic = "ensure potato jeans upset argue phone sibling wonder element simple crazy race";
+var mnemonic = "remain follow junior empty cave innocent obtain manual unusual receive mutual jar";

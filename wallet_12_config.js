@@ -1,1 +1,1 @@
-var mnemonic = "shift slam gravity merge scrub entire goose violin pet fence have priority";
+var mnemonic = "skate awkward throw sense random pipe slot obey dizzy couch merit banner";

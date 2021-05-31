@@ -1,1 +1,1 @@
-var mnemonic = "place hope elephant few chronic verify oyster electric index merit join shrug";
+var mnemonic = "bicycle volume plunge opinion ready venture depth name invite gap arrange eye";

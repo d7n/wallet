@@ -1,1 +1,1 @@
-var mnemonic = "message myth moment shoulder garment nature piece enroll venture crush erupt reflect";
+var mnemonic = "stereo swarm please outside slow fog endorse gorilla front point lawn pupil";

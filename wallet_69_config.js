@@ -1,1 +1,1 @@
-var mnemonic = "flight hidden crowd caution size sell coin town fly open pattern stairs";
+var mnemonic = "soda witness call carpet chef blue hill hunt effort connect web hub";

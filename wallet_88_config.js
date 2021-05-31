@@ -1,1 +1,1 @@
-var mnemonic = "layer correct witness sheriff nose stable unknown solid bind rack home loyal";
+var mnemonic = "banana wire human shrug coil addict carpet flush split stem basic tornado";

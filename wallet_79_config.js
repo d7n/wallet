@@ -1,1 +1,1 @@
-var mnemonic = "turkey obey pledge because victory document spray cake strong own gym bounce";
+var mnemonic = "wood assume wreck rug size decorate grant obey pen husband ozone service";

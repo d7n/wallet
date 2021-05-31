@@ -1,1 +1,1 @@
-var mnemonic = "kick coconut riot job mercy casual help thing coral limb melt inflict";
+var mnemonic = "middle issue grunt learn voyage sight kitten there disease super logic body";

@@ -1,1 +1,1 @@
-var mnemonic = "caution rescue south rigid spring alien will bulb unknown never neck diamond";
+var mnemonic = "place tunnel stool once whale aerobic girl portion brain reduce plate wolf";

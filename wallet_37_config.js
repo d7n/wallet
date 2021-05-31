@@ -1,1 +1,1 @@
-var mnemonic = "secret reflect alarm horror negative kingdom super next decline biology fat grief";
+var mnemonic = "crouch ready supply mountain foil pull balance act rent almost video matter";

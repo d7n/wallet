@@ -1,1 +1,1 @@
-var mnemonic = "unaware shield engine salon mobile stereo speak bid foam knife breeze divorce";
+var mnemonic = "castle bus rack leisure sorry film pepper guilt clinic insect found add";

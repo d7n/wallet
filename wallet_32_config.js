@@ -1,1 +1,1 @@
-var mnemonic = "drill coral narrow atom mother rally nerve junk carbon devote exclude exhibit";
+var mnemonic = "dog tuna code sell method sunny sleep more human book easy lady";

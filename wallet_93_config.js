@@ -1,1 +1,1 @@
-var mnemonic = "sound fetch used ahead easy region rack favorite cement recipe you kind";
+var mnemonic = "cancel aunt muscle arena travel balance later apart hood melt between sugar";

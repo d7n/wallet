@@ -1,1 +1,1 @@
-var mnemonic = "witness certain frost recall document balcony robot mesh brush unaware seat word";
+var mnemonic = "kitten settle rate shoe gasp stage level slogan stock enough fruit apart";

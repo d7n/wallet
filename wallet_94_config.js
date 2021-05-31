@@ -1,1 +1,1 @@
-var mnemonic = "spider main answer panic clock solve agree daring gather suffer napkin fever";
+var mnemonic = "special avoid thing broom tooth weapon plate detect pair know nasty dutch";

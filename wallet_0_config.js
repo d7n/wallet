@@ -1,1 +1,1 @@
-var mnemonic = "stool better rare anchor gentle grass electric panel permit first canal stick";
+var mnemonic = "omit rain tired truly feel educate visa cigar october cruise regular bulk";

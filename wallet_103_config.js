@@ -1,1 +1,1 @@
-var mnemonic = "busy tuna cactus harbor seat force crawl close cool clean quick involve";
+var mnemonic = "opinion insane priority pencil industry casual thought moral tuna square ticket together";

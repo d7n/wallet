@@ -1,1 +1,1 @@
-var mnemonic = "safe denial girl estate tortoise tornado bike upgrade gossip pudding core slice";
+var mnemonic = "slush present flavor carpet right cricket antique blouse health cinnamon kiss quick";

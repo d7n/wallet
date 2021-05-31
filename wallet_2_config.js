@@ -1,1 +1,1 @@
-var mnemonic = "poet festival index solar rack top cry uncover seat trend inhale voyage";
+var mnemonic = "enough symbol humble intact mom animal refuse broccoli arctic bronze bronze super";

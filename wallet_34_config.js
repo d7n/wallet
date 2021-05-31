@@ -1,1 +1,1 @@
-var mnemonic = "gossip solution work airport ladder host someone drill glue tired mule slide";
+var mnemonic = "radar question long gauge maple sphere era race paddle east quiz august";

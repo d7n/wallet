@@ -1,1 +1,1 @@
-var mnemonic = "extend blind visa tunnel cave category find involve original confirm truth abuse";
+var mnemonic = "normal multiply bomb creek soon rival focus rifle copper latin where regular";

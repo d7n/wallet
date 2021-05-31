@@ -1,1 +1,1 @@
-var mnemonic = "abuse laptop gym seed knife away agent liar settle nice loyal income";
+var mnemonic = "trial visa finish kite devote raccoon maid arch high brown left couple";

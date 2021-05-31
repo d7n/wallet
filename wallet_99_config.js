@@ -1,1 +1,1 @@
-var mnemonic = "picnic clay undo derive frog endorse wolf unveil daughter burger harbor uniform";
+var mnemonic = "current model patrol panda carry around require security antenna theme boat suit";

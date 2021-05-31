@@ -1,1 +1,1 @@
-var mnemonic = "sorry immune more try arrow unhappy chimney barely control raw mixture length";
+var mnemonic = "arrive analyst bike oppose calm rebel where chronic run visa stand bronze";

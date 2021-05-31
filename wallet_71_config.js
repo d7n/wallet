@@ -1,1 +1,1 @@
-var mnemonic = "reveal oven mind dizzy control possible job bottom clinic hurry make loud";
+var mnemonic = "frequent piano art clutch couch mercy spice silk strong glue grit dawn";

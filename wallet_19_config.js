@@ -1,1 +1,1 @@
-var mnemonic = "elevator reward control seminar icon area vacant rocket table retire ceiling trophy";
+var mnemonic = "fit hover eagle copy very toward physical fossil chief toward unique town";

@@ -1,1 +1,1 @@
-var mnemonic = "company height design practice liquid oval human movie boss sock occur tennis";
+var mnemonic = "mesh wolf ridge prefer talk security pool section around version spy inner";

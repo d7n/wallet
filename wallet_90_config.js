@@ -1,1 +1,1 @@
-var mnemonic = "pattern news panther you scare ignore april announce dove arrow task pelican";
+var mnemonic = "consider muffin vibrant rate fun long inhale private question logic catalog advance";

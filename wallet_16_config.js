@@ -1,1 +1,1 @@
-var mnemonic = "bottom wild satoshi muffin axis wood middle holiday utility tip gloom rib";
+var mnemonic = "task proof trash scheme noble social once hour useful oven history soda";

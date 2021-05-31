@@ -1,1 +1,1 @@
-var mnemonic = "leg boat write onion verify spread kangaroo broom athlete slogan approve century";
+var mnemonic = "arctic toilet toe combine shop scale survey kind wheat glimpse return saddle";

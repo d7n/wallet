@@ -1,1 +1,1 @@
-var mnemonic = "subway home loop mystery usage toddler eye face outdoor bullet noodle happy";
+var mnemonic = "broccoli grant denial mammal review collect word engage seek grape foot dignity";

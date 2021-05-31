@@ -1,1 +1,1 @@
-var mnemonic = "similar actual climb walnut margin box gallery tuition else canoe cannon among";
+var mnemonic = "stable share note soccer copy middle enroll garage crowd couple order pen";

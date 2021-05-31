@@ -1,1 +1,1 @@
-var mnemonic = "laptop cave dumb transfer hole spy garage alert solve slogan drink actress";
+var mnemonic = "grunt life plate copy shoot switch physical plate boss breeze element trick";

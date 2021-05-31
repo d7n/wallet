@@ -1,1 +1,1 @@
-var mnemonic = "first robust muffin fetch lake concert infant clap glide resist spider apology";
+var mnemonic = "crop unknown suspect blouse ritual custom rent unaware nothing glance chase twist";

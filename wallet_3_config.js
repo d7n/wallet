@@ -1,1 +1,1 @@
-var mnemonic = "extend dragon merry marine dismiss dust six report sadness fresh boil scissors";
+var mnemonic = "question this side device renew pulse destroy wreck boy ask youth busy";

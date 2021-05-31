@@ -1,1 +1,1 @@
-var mnemonic = "source indicate employ switch zebra exhibit rhythm answer make mesh brain faculty";
+var mnemonic = "lyrics melody trial craft hammer crack client country caution toast brisk tuition";

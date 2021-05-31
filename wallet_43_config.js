@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog exit this situate bulb canal country tongue keen stone found canoe";
+var mnemonic = "include major auction logic panther depth state soap festival great orbit isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle life raw follow scissors fresh scissors tank vault poet trigger smart";
+var mnemonic = "pause liquid sad equal text awake meat ranch reunion brave reward welcome";

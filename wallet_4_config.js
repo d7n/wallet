@@ -1,1 +1,1 @@
-var mnemonic = "estate wisdom thunder veteran fatigue give setup mother dish labor basic awesome";
+var mnemonic = "sample toss turkey polar tree nuclear fury pen visual wish matrix soon";

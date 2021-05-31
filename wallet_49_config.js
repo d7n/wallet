@@ -1,1 +1,1 @@
-var mnemonic = "must pepper thrive clever tired retire gloom melt near device pioneer apple";
+var mnemonic = "adjust mule mechanic radio crane smile ring fetch know black detail soldier";

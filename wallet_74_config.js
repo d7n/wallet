@@ -1,1 +1,1 @@
-var mnemonic = "dad train twist visual old bird smart they business memory hamster helmet";
+var mnemonic = "border nominee clap spoil midnight movie double age inspire drink spider carry";

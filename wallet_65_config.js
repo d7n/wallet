@@ -1,1 +1,1 @@
-var mnemonic = "fuel three blush repeat paper obey twice column title machine garment devote";
+var mnemonic = "rail require alpha position crush glow bunker account stairs actual fat daughter";

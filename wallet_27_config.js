@@ -1,1 +1,1 @@
-var mnemonic = "mouse sleep please blossom pupil gown shoe toss champion flavor frost number";
+var mnemonic = "reunion emerge boat discover barely exit dove menu illness advance lunar twenty";

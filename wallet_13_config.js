@@ -1,1 +1,1 @@
-var mnemonic = "shrug rally fever intact worth happy salt soccer noodle gym coconut rubber";
+var mnemonic = "imitate version swallow kitchen cannon derive sock shadow series solution mask flame";

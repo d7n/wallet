@@ -1,1 +1,1 @@
-var mnemonic = "cousin bright mimic laptop drastic accuse speed believe spread mosquito step butter";
+var mnemonic = "light disease great task bacon siren budget huge debate isolate lawn elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "betray nation comfort doll crazy hand gown annual cake ski brand inner";
+var mnemonic = "outdoor rain old reject session army rent employ drip harvest pluck kangaroo";

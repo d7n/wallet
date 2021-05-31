@@ -1,1 +1,1 @@
-var mnemonic = "aunt drip crouch cupboard tired fossil unlock swift claim fortune cattle wolf";
+var mnemonic = "must zone claim report parent fluid truly basic until scene tiny dream";

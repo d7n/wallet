@@ -1,1 +1,1 @@
-var mnemonic = "prize destroy room detail bargain fence winter enemy exchange image series special";
+var mnemonic = "sense later phrase wife orchard potato cause ill recall twenty stock snack";

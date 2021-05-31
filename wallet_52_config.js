@@ -1,1 +1,1 @@
-var mnemonic = "tent olive tragic check hire possible town million inspire recall hockey weapon";
+var mnemonic = "wood avoid ugly answer kite mercy post guilt orchard favorite analyst hundred";

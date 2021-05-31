@@ -1,1 +1,1 @@
-var mnemonic = "fury danger fade clump abuse hybrid panda guide matrix twice symptom decline";
+var mnemonic = "daring oxygen urban buyer forget weekend collect situate annual giggle engage dune";

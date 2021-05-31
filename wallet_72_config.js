@@ -1,1 +1,1 @@
-var mnemonic = "crime ice story must deal hope little follow unaware egg garbage february";
+var mnemonic = "arm buddy bus trust goat mail cattle leaf pond excess actor sniff";

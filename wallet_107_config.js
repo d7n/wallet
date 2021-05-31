@@ -1,1 +1,1 @@
-var mnemonic = "thing nurse screen core boy tongue pelican fire syrup interest weekend swarm";
+var mnemonic = "timber just nut ten juice market suffer disease tattoo tool copper lawsuit";

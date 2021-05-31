@@ -1,1 +1,1 @@
-var mnemonic = "moral minute reflect base butter pencil sting frost drink paper feature amateur";
+var mnemonic = "exit remind feel quarter stage garment vault shuffle impact sorry symbol quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "path virus limit kick jewel february buffalo okay ask embark degree rocket";
+var mnemonic = "ivory enter space purity kit maximum hockey critic upper pulse acoustic frame";

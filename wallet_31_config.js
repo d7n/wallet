@@ -1,1 +1,1 @@
-var mnemonic = "badge usual message speed desert ostrich opera brief brown asthma myth fitness";
+var mnemonic = "blossom stairs valley smoke depart require area miss wasp either parrot slight";
