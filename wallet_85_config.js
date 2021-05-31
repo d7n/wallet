@@ -1,1 +1,1 @@
-var mnemonic = "scare similar hat opera bundle fortune shop remind concert concert doctor athlete";
+var mnemonic = "useful perfect average ozone country moment prize satoshi badge address charge giant";

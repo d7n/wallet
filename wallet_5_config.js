@@ -1,1 +1,1 @@
-var mnemonic = "student pioneer disagree hint upon float pink switch sheriff edge unfair robust";
+var mnemonic = "novel clean join afford polar beach stick hello select enroll enlist hidden";

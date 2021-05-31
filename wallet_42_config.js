@@ -1,1 +1,1 @@
-var mnemonic = "actress page reunion anger test meat fitness pull silver vague project earn";
+var mnemonic = "raccoon smoke pupil two sunny diet junk improve loan damage history absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "stage bag ozone vintage network relief romance great can select afford flush";
+var mnemonic = "case raccoon lumber gym barrel skull core athlete sorry first alley paddle";

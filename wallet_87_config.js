@@ -1,1 +1,1 @@
-var mnemonic = "drama multiply unknown feel rely lava valid aerobic depend pink morning pause";
+var mnemonic = "drive mass cotton mammal omit cash they luggage light code found peace";

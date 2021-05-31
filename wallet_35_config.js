@@ -1,1 +1,1 @@
-var mnemonic = "display earth bulb garbage rent clerk drastic soccer flag fatigue solid primary";
+var mnemonic = "loan mention firm horn dinosaur doll bean engage hamster annual apple attack";

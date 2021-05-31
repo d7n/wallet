@@ -1,1 +1,1 @@
-var mnemonic = "vintage adult cheap round rhythm define update isolate supply obscure wrist annual";
+var mnemonic = "wool blind urge until enough denial wish shy moment early machine swallow";

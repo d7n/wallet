@@ -1,1 +1,1 @@
-var mnemonic = "lucky bronze human gospel bulk mass humble denial present cloth month chat";
+var mnemonic = "tomorrow flock twelve give scare target seminar version energy frog drift reason";

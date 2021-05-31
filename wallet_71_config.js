@@ -1,1 +1,1 @@
-var mnemonic = "question ladder rib old time scrub cross develop income another leader viable";
+var mnemonic = "cheap blanket thank bulk culture shoulder rigid grit employ crush intact chimney";

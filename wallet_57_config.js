@@ -1,1 +1,1 @@
-var mnemonic = "unaware promote buddy garlic parent jungle such deposit emerge scene live bid";
+var mnemonic = "blood decade mom visual genre october shoe float control image high walk";

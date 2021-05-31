@@ -1,1 +1,1 @@
-var mnemonic = "step edit option prepare gift merge visa zone board motor subway length";
+var mnemonic = "margin sample subject jaguar voyage buyer anger damage tourist blind advice ill";

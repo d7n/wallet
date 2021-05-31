@@ -1,1 +1,1 @@
-var mnemonic = "jacket skin chapter moon daring onion fever monster easy taxi extend garment";
+var mnemonic = "brown funny spike rigid seat three angle middle mother need result violin";

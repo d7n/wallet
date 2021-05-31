@@ -1,1 +1,1 @@
-var mnemonic = "debate final fat tent poet asset spider solution before crash become hobby";
+var mnemonic = "old come there slice hawk siege such confirm dwarf river short model";

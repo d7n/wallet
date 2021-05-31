@@ -1,1 +1,1 @@
-var mnemonic = "thing before poverty spatial farm dirt skull noise submit logic pencil pause";
+var mnemonic = "trumpet impulse tourist reject plunge old frequent fatigue morning shoulder film safe";

@@ -1,1 +1,1 @@
-var mnemonic = "story tiger deal concert review culture shrug boost advice bone total series";
+var mnemonic = "vocal suggest retreat much warrior pet indoor require mesh edit annual age";

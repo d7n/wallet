@@ -1,1 +1,1 @@
-var mnemonic = "tilt tail odor enforce kit lizard response vehicle cannon matrix please effort";
+var mnemonic = "tattoo soon excite immense remove law use gallery monster borrow evoke life";

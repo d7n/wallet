@@ -1,1 +1,1 @@
-var mnemonic = "brand fly memory clap sponsor legal pepper extend exist coin disorder cereal";
+var mnemonic = "wrap hand tilt wheat verify orange dumb life discover document common diary";

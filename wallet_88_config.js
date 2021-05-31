@@ -1,1 +1,1 @@
-var mnemonic = "winter woman news feel road hamster swarm rebuild couch galaxy junk main";
+var mnemonic = "gentle boss ill fly such chapter humble rule leader bulk chief enemy";

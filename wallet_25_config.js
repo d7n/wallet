@@ -1,1 +1,1 @@
-var mnemonic = "beyond better bean misery fit mystery blast sense draft predict hair any";
+var mnemonic = "horror normal inch recall middle daughter arrest luxury knock output rigid discover";

@@ -1,1 +1,1 @@
-var mnemonic = "winter puzzle budget focus unable oak dream cement lecture world genre indicate";
+var mnemonic = "coral cherry target bulb void seek harsh venture fan goddess present sample";

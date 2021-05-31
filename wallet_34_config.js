@@ -1,1 +1,1 @@
-var mnemonic = "vote final kiss impose damp section course wrestle gas now coast pupil";
+var mnemonic = "belt life cover fox help evoke deal bag absent topic small flat";

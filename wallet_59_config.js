@@ -1,1 +1,1 @@
-var mnemonic = "hockey cement snow chuckle nature regular bean tray live yard venture depart";
+var mnemonic = "remove disease spot ugly cheese raven shine accident dice video often author";

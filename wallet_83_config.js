@@ -1,1 +1,1 @@
-var mnemonic = "chimney fly tortoise outdoor world smile twice wheat proud mistake shy pluck";
+var mnemonic = "broccoli moral dash unhappy element error diamond speed whisper wide square guess";

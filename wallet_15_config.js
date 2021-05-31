@@ -1,1 +1,1 @@
-var mnemonic = "like pelican subject quick world eagle grab exchange jeans private snap manage";
+var mnemonic = "cement together rally fever arch wide monster own tone such attack capable";

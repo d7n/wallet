@@ -1,1 +1,1 @@
-var mnemonic = "fire verify nothing like capable unusual mom other people dirt hurry during";
+var mnemonic = "enlist surprise amused neck butter gaze animal shift tide gather barely mixture";

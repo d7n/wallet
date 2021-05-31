@@ -1,1 +1,1 @@
-var mnemonic = "donate wrist ghost page used peanut ensure siege essence viable employ rival";
+var mnemonic = "smile innocent yellow need design salon garlic mesh ethics treat maple lab";

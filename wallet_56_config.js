@@ -1,1 +1,1 @@
-var mnemonic = "school spike author inherit like divorce leopard predict flower canoe april step";
+var mnemonic = "crush agree beauty jealous fortune depend wish whale subway board army transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "theme casual around sad hour quick fatigue control remain reason verb travel";
+var mnemonic = "donkey syrup churn know viable lava coconut pride rack witness anxiety behave";

@@ -1,1 +1,1 @@
-var mnemonic = "iron thought helmet palace reject arrow peace category jump round credit night";
+var mnemonic = "muffin force simple race that enough gap ceiling thrive express coconut siren";

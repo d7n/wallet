@@ -1,1 +1,1 @@
-var mnemonic = "track hole captain mountain crime pistol short ice keen fly cake fruit";
+var mnemonic = "common above essence broccoli deer smoke practice uncle cute galaxy slow utility";

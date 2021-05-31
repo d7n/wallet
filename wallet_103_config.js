@@ -1,1 +1,1 @@
-var mnemonic = "venture best idea salad list foil infant chest require secret business relax";
+var mnemonic = "melt puzzle grief moral maze fox flush tiny trumpet ethics offer ivory";

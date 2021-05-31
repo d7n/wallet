@@ -1,1 +1,1 @@
-var mnemonic = "logic auction venue affair toss attack dream track bike erosion mushroom penalty";
+var mnemonic = "voice sausage claim front very assist language lens tone distance resist ethics";

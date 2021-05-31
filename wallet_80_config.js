@@ -1,1 +1,1 @@
-var mnemonic = "begin situate buddy couple trust lunar blood quick razor tower text envelope";
+var mnemonic = "piano dune off seed town tired slight kiss victory mad actress describe";

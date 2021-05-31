@@ -1,1 +1,1 @@
-var mnemonic = "protect sand echo pudding crouch layer elbow leopard capital mimic funny river";
+var mnemonic = "measure turkey negative unusual victory lab unique orchard fetch rubber trial weasel";

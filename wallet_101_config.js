@@ -1,1 +1,1 @@
-var mnemonic = "tired shed relief noodle bright dirt blush echo hand output group gift";
+var mnemonic = "excess deposit stem gauge choose visa north ripple race vast slim opera";

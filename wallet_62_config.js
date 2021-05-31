@@ -1,1 +1,1 @@
-var mnemonic = "know glue argue brave grab huge ghost story organ stadium awkward million";
+var mnemonic = "bounce cup whale void head axis aisle flower point merge start elder";

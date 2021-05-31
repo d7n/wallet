@@ -1,1 +1,1 @@
-var mnemonic = "much rhythm noise vocal you prefer crisp plug creek gain interest rifle";
+var mnemonic = "grief exchange spray jungle magnet also gown fruit extra snap bag curve";

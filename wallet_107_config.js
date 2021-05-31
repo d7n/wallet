@@ -1,1 +1,1 @@
-var mnemonic = "metal cloth utility obey consider drink cotton female black mean celery when";
+var mnemonic = "perfect cushion addict nut limb cube amateur such sunny outdoor scout bottom";

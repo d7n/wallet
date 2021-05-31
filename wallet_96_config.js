@@ -1,1 +1,1 @@
-var mnemonic = "donkey relief proof ethics veteran cotton together winter stage garage caught omit";
+var mnemonic = "river base enough net wave trip book access prosper about tired argue";

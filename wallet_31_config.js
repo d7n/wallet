@@ -1,1 +1,1 @@
-var mnemonic = "rotate day panel ball edge lawsuit way slim woman mesh dawn fat";
+var mnemonic = "luxury hollow all liberty tank bike tree burden bind muffin elevator bulk";

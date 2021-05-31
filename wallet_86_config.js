@@ -1,1 +1,1 @@
-var mnemonic = "monster foster eyebrow slab divert carry father tomato ritual circle grape spoil";
+var mnemonic = "vessel result best junk alter decade chalk thumb reflect life wave twelve";

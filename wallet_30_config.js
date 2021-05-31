@@ -1,1 +1,1 @@
-var mnemonic = "wall garment stumble cause powder analyst pull slab purpose convince since atom";
+var mnemonic = "chalk dwarf trick ketchup pet twice bring dad skill yard evil vibrant";

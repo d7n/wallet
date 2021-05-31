@@ -1,1 +1,1 @@
-var mnemonic = "depend luxury crash desert fruit hospital three custom crane legend film tongue";
+var mnemonic = "layer tennis furnace segment busy grace cargo crawl produce floor option you";

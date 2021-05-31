@@ -1,1 +1,1 @@
-var mnemonic = "trap math hockey net shine sunset outdoor prosper banner sister celery over";
+var mnemonic = "flat sound wheat glow private scatter price garlic pigeon lobster knee current";

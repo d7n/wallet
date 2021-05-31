@@ -1,1 +1,1 @@
-var mnemonic = "erupt notice luggage scrub fashion dilemma churn youth very supply brush infant";
+var mnemonic = "step ostrich chat give symbol able disease cover cereal chuckle desk describe";

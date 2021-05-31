@@ -1,1 +1,1 @@
-var mnemonic = "merge canal vendor brother duck luxury elite dust wealth lottery inhale ostrich";
+var mnemonic = "quality suit home error supply wolf kangaroo save warrior equal fringe minimum";

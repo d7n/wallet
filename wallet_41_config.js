@@ -1,1 +1,1 @@
-var mnemonic = "barely work immune drill goat biology act buzz garden involve silly fan";
+var mnemonic = "any setup govern unaware village fence catch fold judge embody army payment";

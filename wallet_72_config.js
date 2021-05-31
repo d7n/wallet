@@ -1,1 +1,1 @@
-var mnemonic = "journey orient lumber hammer loop beach another visual slam fee sock quarter";
+var mnemonic = "involve real slow unveil ski eager steak later measure rain crystal uphold";

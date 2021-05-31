@@ -1,1 +1,1 @@
-var mnemonic = "meadow educate elder letter cup wealth trouble good snap step derive accuse";
+var mnemonic = "polar bitter author make upper dynamic employ notice female basic ranch dove";

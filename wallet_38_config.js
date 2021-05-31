@@ -1,1 +1,1 @@
-var mnemonic = "allow arrive outer club inflict merry party piano junk intact flush wet";
+var mnemonic = "stadium smooth please world join clever deposit toward mammal bracket sand potato";

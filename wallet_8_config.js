@@ -1,1 +1,1 @@
-var mnemonic = "never glad damp claim imitate exact cradle gasp green rebuild filter dignity";
+var mnemonic = "gloom day clay soon cave brain reopen promote popular enough hub rather";

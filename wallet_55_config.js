@@ -1,1 +1,1 @@
-var mnemonic = "state sorry hand purse island harbor essence error farm core cover awful";
+var mnemonic = "inner inquiry elbow skin drum avocado sport maid early more stomach sponsor";

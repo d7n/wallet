@@ -1,1 +1,1 @@
-var mnemonic = "cruise history announce maximum unlock misery velvet staff uncover gold hello cook";
+var mnemonic = "soda taxi rather worry hand have velvet left pull season floor stick";

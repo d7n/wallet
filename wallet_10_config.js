@@ -1,1 +1,1 @@
-var mnemonic = "move toy jump quick absurd merge shell busy love prosper lumber day";
+var mnemonic = "upset high feature betray until fresh reward jungle step canyon nasty key";

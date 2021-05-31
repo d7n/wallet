@@ -1,1 +1,1 @@
-var mnemonic = "renew action couple lava entry owner attack father bomb fork boy huge";
+var mnemonic = "release sure alarm grow liberty donate judge toast black hint okay oven";

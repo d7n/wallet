@@ -1,1 +1,1 @@
-var mnemonic = "tent above screen surface coin mixed actress crane seat idle edit cereal";
+var mnemonic = "evidence lend supply soon length misery worth hero blossom curious check tourist";

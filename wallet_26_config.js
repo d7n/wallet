@@ -1,1 +1,1 @@
-var mnemonic = "empty galaxy brother private exile roast nice memory crack nut very wasp";
+var mnemonic = "settle fat cradle chef civil property bitter abstract able blast add swear";

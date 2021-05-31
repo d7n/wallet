@@ -1,1 +1,1 @@
-var mnemonic = "unfold balance basket announce tenant office mobile conduct pottery regret gaze vital";
+var mnemonic = "knife swarm potato head wear nuclear check onion car lend discover alarm";

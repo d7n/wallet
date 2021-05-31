@@ -1,1 +1,1 @@
-var mnemonic = "income service face express foot gap guess clinic salad eyebrow involve latin";
+var mnemonic = "bonus egg worth economy exchange jungle puppy because foot onion night infant";

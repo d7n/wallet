@@ -1,1 +1,1 @@
-var mnemonic = "tide possible couch merge pen earth pony endless thing sweet wash fog";
+var mnemonic = "volcano upgrade elephant valid gallery foot shove carpet south leader extra cost";

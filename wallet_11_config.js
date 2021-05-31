@@ -1,1 +1,1 @@
-var mnemonic = "agent glance pony inform midnight blind ecology idle combine guitar robust chef";
+var mnemonic = "curious body ticket benefit medal bleak donkey wisdom replace round color super";

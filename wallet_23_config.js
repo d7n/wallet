@@ -1,1 +1,1 @@
-var mnemonic = "stand cream thought cycle black indicate traffic van radar occur sentence consider";
+var mnemonic = "episode lucky flush shrug crane better emotion tower bacon laundry keep post";

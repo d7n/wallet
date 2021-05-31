@@ -1,1 +1,1 @@
-var mnemonic = "tooth denial pumpkin grain cherry broom fold shrug trust lion jacket inherit";
+var mnemonic = "obtain saddle vital pioneer huge era blast electric return tool relief economy";

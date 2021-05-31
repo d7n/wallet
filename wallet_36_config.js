@@ -1,1 +1,1 @@
-var mnemonic = "sibling lobster visual tip ski unlock ordinary title dynamic typical pool bicycle";
+var mnemonic = "seed blind trip wink drop boost negative jaguar jealous list throw embody";

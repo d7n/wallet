@@ -1,1 +1,1 @@
-var mnemonic = "coast palm option mom scan green poet announce slab pulse tail clog";
+var mnemonic = "review vendor outside unknown turn occur bulk fringe weasel emerge song vacant";

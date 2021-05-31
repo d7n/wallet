@@ -1,1 +1,1 @@
-var mnemonic = "action snap hen emotion entry spend tiny rose disease zebra decorate reveal";
+var mnemonic = "start device tiny effort village wait moral saddle food picnic pool share";

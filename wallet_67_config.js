@@ -1,1 +1,1 @@
-var mnemonic = "hand rice athlete adjust item mother mouse path peace course demise annual";
+var mnemonic = "ugly artefact bid expect sting toilet wrestle pledge almost struggle apple shuffle";

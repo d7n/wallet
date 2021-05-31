@@ -1,1 +1,1 @@
-var mnemonic = "jeans dawn nut defy rural small fragile wet rather since logic special";
+var mnemonic = "hammer burst gas umbrella vendor apart bulk brass exile glide maximum same";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess race picnic baby blur chat symbol dash erode tourist act fiction";
+var mnemonic = "whale two note hold brass utility adjust silent cool struggle drill shift";

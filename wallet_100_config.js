@@ -1,1 +1,1 @@
-var mnemonic = "sentence panda injury device noble tray tree dizzy like update toe breeze";
+var mnemonic = "fox robust prize disorder distance table youth inflict isolate tag scissors voice";

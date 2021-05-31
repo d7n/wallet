@@ -1,1 +1,1 @@
-var mnemonic = "burden side side scale claim forward tissue gap nice gloom narrow timber";
+var mnemonic = "tiger blood ready earth depart panic please best large pilot throw stereo";

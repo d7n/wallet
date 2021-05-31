@@ -1,1 +1,1 @@
-var mnemonic = "december silk regret loan struggle involve young dice drive rent grow trigger";
+var mnemonic = "enact brown develop problem team repeat black excess federal salt develop erosion";

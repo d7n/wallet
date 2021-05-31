@@ -1,1 +1,1 @@
-var mnemonic = "file such team rather coil middle latin crime despair deposit spoon income";
+var mnemonic = "lazy beauty sure video duty cruel mass upset member question waste spice";

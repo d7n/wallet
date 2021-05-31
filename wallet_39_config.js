@@ -1,1 +1,1 @@
-var mnemonic = "dice scrap route what term together salute interest someone fine antenna siege";
+var mnemonic = "upset earth damage convince luggage deal language atom manage memory token goose";

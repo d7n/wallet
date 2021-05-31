@@ -1,1 +1,1 @@
-var mnemonic = "blur dove always heavy poet will trouble ticket country boost identify explain";
+var mnemonic = "usage carry approve uphold steel surge sound drift describe false live edge";

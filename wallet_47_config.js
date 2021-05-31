@@ -1,1 +1,1 @@
-var mnemonic = "double middle siren weird mutual arrange brain hold stone solution mushroom motion";
+var mnemonic = "target excess pitch solution desert tell just detail charge grocery stage repair";

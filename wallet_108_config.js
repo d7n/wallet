@@ -1,1 +1,1 @@
-var mnemonic = "better hurry skull promote survey salmon sight pupil segment page chapter inside";
+var mnemonic = "endless silly wink enemy enable rather december project topic wine shuffle claw";

@@ -1,1 +1,1 @@
-var mnemonic = "crack potato father bronze company seat wreck admit still apart oyster feature";
+var mnemonic = "soda present skate shiver flee toward vibrant vacuum enjoy sibling aim desk";

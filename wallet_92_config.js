@@ -1,1 +1,1 @@
-var mnemonic = "dry soda demise income price dawn squirrel solid oil mask hamster erupt";
+var mnemonic = "giggle depth frame race surge cable vanish jar boil tiger forum glue";

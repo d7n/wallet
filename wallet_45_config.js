@@ -1,1 +1,1 @@
-var mnemonic = "melody aware day know suffer material hard pool snake leopard taxi stairs";
+var mnemonic = "stable search depend call exact share color obey supply nation spot symptom";

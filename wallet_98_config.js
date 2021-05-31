@@ -1,1 +1,1 @@
-var mnemonic = "bulk soap strike escape fog leg come bicycle infant escape ask volcano";
+var mnemonic = "trumpet sweet plate knife slab forget advice shaft mistake solve upper grape";

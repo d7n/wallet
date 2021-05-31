@@ -1,1 +1,1 @@
-var mnemonic = "assume rescue imitate process fatal gorilla call click rally dice radio direct";
+var mnemonic = "afford pupil concert act inquiry response almost excuse ready raise mule color";

@@ -1,1 +1,1 @@
-var mnemonic = "upper idle rigid clerk mouse critic cheese excess slab swap milk shrug";
+var mnemonic = "pelican brave scorpion powder spoil boy estate feature they expand cherry step";

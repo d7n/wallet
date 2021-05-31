@@ -1,1 +1,1 @@
-var mnemonic = "three winter hill else text setup modify choice found slot work oven";
+var mnemonic = "they calm flat boil pen echo deny unique wolf clever age unfold";

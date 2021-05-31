@@ -1,1 +1,1 @@
-var mnemonic = "give penalty disease brother fabric aware airport also surround gasp tonight taxi";
+var mnemonic = "nature order monkey size winter version fly honey beach prevent hip fade";

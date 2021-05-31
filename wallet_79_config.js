@@ -1,1 +1,1 @@
-var mnemonic = "unfair during rude weekend cruel mail dirt core roof person bike number";
+var mnemonic = "diagram educate enrich matter gas soap lazy trim undo crack fork kite";
