@@ -1,1 +1,1 @@
-var mnemonic = "jaguar coach game verb member zoo benefit taxi lumber roof price nothing";
+var mnemonic = "butter exotic tiny plunge glare enough dove route suit rice story layer";

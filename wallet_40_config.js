@@ -1,1 +1,1 @@
-var mnemonic = "float mean invest bulb repair marine night rice wolf source labor fiction";
+var mnemonic = "kitten merge result mutual cliff anxiety arrow fault rely problem leg palm";

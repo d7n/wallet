@@ -1,1 +1,1 @@
-var mnemonic = "error remember true ceiling device all unfair upon vessel finger opera merge";
+var mnemonic = "essay extra frame turkey fire quarter soon shell shoe now discover virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "huge supply front dumb deal puzzle tackle volcano focus sun ask demand";
+var mnemonic = "toddler fat moral elephant judge across illegal earth genuine often vicious suffer";

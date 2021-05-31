@@ -1,1 +1,1 @@
-var mnemonic = "neglect slab guitar expand exotic palm cruise diet diary employ scorpion umbrella";
+var mnemonic = "bubble history dolphin blossom nature myself pause foot poverty ranch other story";

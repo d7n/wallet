@@ -1,1 +1,1 @@
-var mnemonic = "opinion few chronic sketch wisdom guess urge box omit nature board walnut";
+var mnemonic = "pause guard mention text upon stumble toss drill shop latin joy supply";

@@ -1,1 +1,1 @@
-var mnemonic = "hole quality nature emerge wasp stone bonus arrive spice exhibit friend fashion";
+var mnemonic = "gloom member combine keep deer clap snake minute round replace gym science";

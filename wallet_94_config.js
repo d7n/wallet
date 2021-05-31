@@ -1,1 +1,1 @@
-var mnemonic = "couch cupboard brave bring dentist trial blame unit blame cake ticket razor";
+var mnemonic = "lens unveil amount purpose mail snack prepare slush want traffic identify length";

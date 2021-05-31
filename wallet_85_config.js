@@ -1,1 +1,1 @@
-var mnemonic = "return royal wasp grow supreme pave conduct actress electric swap garden come";
+var mnemonic = "giant mask metal tornado problem nice acid own hunt clerk hat empower";

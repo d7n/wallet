@@ -1,1 +1,1 @@
-var mnemonic = "cluster tray office boat true hunt jealous claw orange base glass broom";
+var mnemonic = "govern mind subject wink carry barely carbon custom now indicate since luxury";

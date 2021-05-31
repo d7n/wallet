@@ -1,1 +1,1 @@
-var mnemonic = "trust treat couple critic supreme rate lunar scorpion beach list orchard accuse";
+var mnemonic = "exile oven turn review fabric add leg protect bonus shallow embark pattern";

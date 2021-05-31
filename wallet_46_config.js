@@ -1,1 +1,1 @@
-var mnemonic = "weapon hungry timber owner defense van observe flee helmet junior sauce poverty";
+var mnemonic = "kingdom bleak gesture about sight switch whip diagram salad super man legal";

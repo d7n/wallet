@@ -1,1 +1,1 @@
-var mnemonic = "loyal category absent open water live area pudding leg club credit month";
+var mnemonic = "truck near lumber cash garlic develop diesel piano cupboard shoot throw library";

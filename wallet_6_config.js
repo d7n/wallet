@@ -1,1 +1,1 @@
-var mnemonic = "web vanish speak draft joy glue people furnace assist open rabbit shaft";
+var mnemonic = "prevent result tooth frame now bridge primary dismiss betray approve mountain wrong";

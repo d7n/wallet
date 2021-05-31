@@ -1,1 +1,1 @@
-var mnemonic = "destroy search aspect exercise vacant fly aisle portion glow jealous else climb";
+var mnemonic = "volcano fatal social scale flip about negative decide insect slim session oven";

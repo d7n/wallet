@@ -1,1 +1,1 @@
-var mnemonic = "job assume near state manual monster scissors bench require warfare multiply butter";
+var mnemonic = "rotate chuckle empower audit nasty scorpion sustain mail tail edit speed motor";

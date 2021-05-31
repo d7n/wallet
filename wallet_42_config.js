@@ -1,1 +1,1 @@
-var mnemonic = "air hire winter army middle ten solve festival gas garment error glory";
+var mnemonic = "act angle about leader primary fatal penalty utility beauty taste movie good";

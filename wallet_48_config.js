@@ -1,1 +1,1 @@
-var mnemonic = "nominee finish wealth media wagon puzzle mountain clown water unhappy magnet quiz";
+var mnemonic = "domain mother dynamic easily noise awful female crunch swallow change bomb air";

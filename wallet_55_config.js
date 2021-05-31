@@ -1,1 +1,1 @@
-var mnemonic = "runway island margin require observe robot equip someone athlete obey plastic silver";
+var mnemonic = "middle south glimpse nose digital valley reduce apart notable fancy clog broom";

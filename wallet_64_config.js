@@ -1,1 +1,1 @@
-var mnemonic = "noise gas skirt home execute you genre twist swarm vendor good fresh";
+var mnemonic = "bubble genre fee industry yellow flavor fox excuse stone permit candy axis";

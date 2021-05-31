@@ -1,1 +1,1 @@
-var mnemonic = "bottom detail canvas slide refuse mule fashion bird patient veteran unique wool";
+var mnemonic = "mention engine balance man oxygen thank setup topic expect fork amount congress";

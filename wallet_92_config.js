@@ -1,1 +1,1 @@
-var mnemonic = "style drastic spatial animal salute pig steak father very verb know brother";
+var mnemonic = "deal panic buzz robust firm shop brown boat lobster identify menu furnace";

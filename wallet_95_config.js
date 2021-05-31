@@ -1,1 +1,1 @@
-var mnemonic = "actor trip lamp quality eager mutual cancel okay chat item clip yard";
+var mnemonic = "casual pass caught flash photo castle tail raise sphere next picture general";

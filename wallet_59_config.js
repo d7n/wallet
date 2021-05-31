@@ -1,1 +1,1 @@
-var mnemonic = "same minimum innocent hole zebra slab fitness humble embark quarter glide goat";
+var mnemonic = "piece entire element kangaroo cotton language need tissue eternal energy puzzle way";

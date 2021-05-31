@@ -1,1 +1,1 @@
-var mnemonic = "motor hero beach skill swap rally wise film hungry green bacon want";
+var mnemonic = "gym elite swim print exhaust finger general debris candy crime damp fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "random gorilla chief rug notice exact claw fold claw vault split olive";
+var mnemonic = "shove position pitch boy slush bamboo kite sadness mean worth eager dinner";

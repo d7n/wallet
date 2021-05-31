@@ -1,1 +1,1 @@
-var mnemonic = "purchase grid hope defy lunar loan hint federal divorce draw hybrid price";
+var mnemonic = "arch climb drink actual woman solve adapt daring minor diamond harsh chuckle";

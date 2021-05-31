@@ -1,1 +1,1 @@
-var mnemonic = "memory picture lemon ignore insane rich expect vault knee manage tide alone";
+var mnemonic = "mother hello upset twin lawn hungry fiscal universe card then monkey ask";

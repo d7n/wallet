@@ -1,1 +1,1 @@
-var mnemonic = "enjoy easily coast shed comfort start another beef thumb kangaroo pitch planet";
+var mnemonic = "yard artwork wealth orphan coast filter mind account quit behave charge raw";

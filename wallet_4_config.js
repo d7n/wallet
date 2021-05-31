@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mass decorate please hotel scorpion project jeans few world family kick";
+var mnemonic = "fury gravity game amateur neck update emotion faint copper globe tired goose";

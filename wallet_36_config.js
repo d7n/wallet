@@ -1,1 +1,1 @@
-var mnemonic = "local awake doll wool gift pledge fat right copy enlist tortoise engage";
+var mnemonic = "chicken bulb winter struggle ghost army spawn napkin draw praise arctic fresh";

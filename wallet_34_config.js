@@ -1,1 +1,1 @@
-var mnemonic = "liar unable illegal prison injury sheriff cheap flee squirrel mule monkey hospital";
+var mnemonic = "wink zone double wine liar depart agree vendor asthma pluck loop match";

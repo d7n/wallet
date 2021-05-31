@@ -1,1 +1,1 @@
-var mnemonic = "clip lounge exotic river fabric beef fish dog grab pact shield favorite";
+var mnemonic = "speak fantasy hotel sword gloom sport solve soda spider bullet sniff tube";

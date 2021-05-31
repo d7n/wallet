@@ -1,1 +1,1 @@
-var mnemonic = "spawn again start buzz dawn addict gospel security cattle leaf assume recycle";
+var mnemonic = "evidence angry skate random else require target grass aim taste noodle try";

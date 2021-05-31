@@ -1,1 +1,1 @@
-var mnemonic = "color crisp labor taste never fatigue couch topic protect month season fiber";
+var mnemonic = "stem main wire roof retreat main arch age lawsuit noise judge skill";

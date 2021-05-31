@@ -1,1 +1,1 @@
-var mnemonic = "enact sunset outer walk office sock bulk pumpkin practice soldier dad bachelor";
+var mnemonic = "power glass giggle february face lift fat blush swear switch soap shop";

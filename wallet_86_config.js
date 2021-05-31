@@ -1,1 +1,1 @@
-var mnemonic = "pilot chaos someone lava cost payment wave cute plastic type split normal";
+var mnemonic = "coconut actual smart rail tell mule wink foster soccer guitar wave venture";

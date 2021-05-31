@@ -1,1 +1,1 @@
-var mnemonic = "resist disease pig obvious attend gap tail faculty nation wood cruise silver";
+var mnemonic = "enforce label junior series display august birth hub catch strong harbor private";

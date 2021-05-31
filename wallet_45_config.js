@@ -1,1 +1,1 @@
-var mnemonic = "endorse frown pull stage easy blood radar shield thing fold rather domain";
+var mnemonic = "arrive urban believe oil solar stuff mountain solid bind empty chalk best";

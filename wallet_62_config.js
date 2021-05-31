@@ -1,1 +1,1 @@
-var mnemonic = "orchard hill length cinnamon animal gorilla scissors horse pipe pudding basket budget";
+var mnemonic = "lottery pave agent smile sort pulse shoot light ship clown blind can";

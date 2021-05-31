@@ -1,1 +1,1 @@
-var mnemonic = "pact seven fortune plug control program one street design sick avoid nice";
+var mnemonic = "ritual addict strong profit quote that knee turkey venue gloom knife grid";

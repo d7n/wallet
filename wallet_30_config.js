@@ -1,1 +1,1 @@
-var mnemonic = "inject veteran cover method good romance begin crazy slogan sketch duty viable";
+var mnemonic = "fiction kidney glove south radar vacant average reopen portion remember film social";

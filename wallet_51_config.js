@@ -1,1 +1,1 @@
-var mnemonic = "twin reopen auto issue ball bracket unhappy life note cover brass reform";
+var mnemonic = "embrace hunt today any that purity calm dynamic pass next retreat mention";

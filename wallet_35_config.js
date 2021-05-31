@@ -1,1 +1,1 @@
-var mnemonic = "behave cloud peace green narrow elder diagram spell dial essence praise patch";
+var mnemonic = "misery leisure step way bird brass gloom merry annual predict always palm";

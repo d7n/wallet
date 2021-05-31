@@ -1,1 +1,1 @@
-var mnemonic = "utility popular idea tonight clinic ozone diet share zebra piano hawk thumb";
+var mnemonic = "scorpion ethics stool flag gentle mammal scrub retreat innocent supply wet wrist";

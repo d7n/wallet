@@ -1,1 +1,1 @@
-var mnemonic = "mail gentle alpha shine math initial march owner segment rifle shell balance";
+var mnemonic = "sick paddle canyon hat pig able jewel weapon clinic prison ethics act";

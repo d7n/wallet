@@ -1,1 +1,1 @@
-var mnemonic = "reduce seven sock distance access confirm option summer volcano oyster farm actress";
+var mnemonic = "fat flat universe nest velvet museum screen bonus swift craft palace level";

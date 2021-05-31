@@ -1,1 +1,1 @@
-var mnemonic = "various amateur exit crime volcano globe ivory morning aisle fluid harsh safe";
+var mnemonic = "around bounce width lesson sentence near unusual inherit peasant dizzy fatigue home";

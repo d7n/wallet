@@ -1,1 +1,1 @@
-var mnemonic = "ensure delay immense flush mystery slice water orbit doctor sword hidden hill";
+var mnemonic = "end custom ugly fragile spatial album peasant rubber million primary salon oblige";

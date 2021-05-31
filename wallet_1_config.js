@@ -1,1 +1,1 @@
-var mnemonic = "forum foot discover accuse nose dream nephew grit tunnel toe empty buddy";
+var mnemonic = "citizen expect desert prison leave atom radio fiber street badge husband dumb";

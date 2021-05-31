@@ -1,1 +1,1 @@
-var mnemonic = "employ milk cake brisk turtle about average unhappy upper leader fox blue";
+var mnemonic = "learn real industry way grocery lizard refuse farm panic mistake act fence";

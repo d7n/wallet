@@ -1,1 +1,1 @@
-var mnemonic = "orient orange isolate render endless stairs oblige stage jewel fluid remain shiver";
+var mnemonic = "knife shoe runway owner tornado draw debate gun auto used false noble";

@@ -1,1 +1,1 @@
-var mnemonic = "have income run baby angry turn party barely scale surprise rifle spread";
+var mnemonic = "large spray transfer sure salute decline panel cube swear friend outside culture";

@@ -1,1 +1,1 @@
-var mnemonic = "employ frozen twelve below train gallery reopen blue april confirm you roof";
+var mnemonic = "actress chaos panda attract found patrol fatal slogan token august onion beef";

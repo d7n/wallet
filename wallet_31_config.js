@@ -1,1 +1,1 @@
-var mnemonic = "fever purpose decorate vital inform auction apart inflict wife fog guard space";
+var mnemonic = "primary rude pumpkin child ribbon taxi town tuna dance old rude old";

@@ -1,1 +1,1 @@
-var mnemonic = "chef treat aspect course major speak avoid bike author afford spoil rain";
+var mnemonic = "demise shell design spin biology useless roof squeeze outside live second relax";

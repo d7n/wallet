@@ -1,1 +1,1 @@
-var mnemonic = "design chalk supreme miracle monitor fault security equip obey nominee ecology ring";
+var mnemonic = "destroy spare toward school mass sense much finger flat feature dust wine";

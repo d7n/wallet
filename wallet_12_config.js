@@ -1,1 +1,1 @@
-var mnemonic = "fix width put payment you radar jewel whip gaze brush best dog";
+var mnemonic = "quote response regret foot remove pulp fiction rare virtual news gather real";

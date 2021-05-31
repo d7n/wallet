@@ -1,1 +1,1 @@
-var mnemonic = "still divorce palm tribe high hawk impulse praise offer twin coast verify";
+var mnemonic = "same wall island quiz million actor canyon arena elbow lunar badge element";

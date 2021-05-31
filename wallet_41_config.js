@@ -1,1 +1,1 @@
-var mnemonic = "trick nest rhythm digital popular sponsor label rally resist bright puzzle wave";
+var mnemonic = "add insect glove glass mesh task sea deer ticket gravity comfort right";

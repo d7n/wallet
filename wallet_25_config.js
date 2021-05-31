@@ -1,1 +1,1 @@
-var mnemonic = "glad shaft kitten oblige book master frost arctic museum buffalo senior panda";
+var mnemonic = "intact more exotic illegal asset lizard hotel same ranch stumble veteran state";

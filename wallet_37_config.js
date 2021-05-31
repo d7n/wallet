@@ -1,1 +1,1 @@
-var mnemonic = "kidney coil atom half govern pair kangaroo hold polar reveal derive disease";
+var mnemonic = "sniff vote spell orange divorce smooth glory jelly tank verb unlock report";

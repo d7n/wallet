@@ -1,1 +1,1 @@
-var mnemonic = "idle radar above fantasy swim across remind park gauge extra magnet humor";
+var mnemonic = "cotton program transfer actress blood south custom inhale fox entry program frame";

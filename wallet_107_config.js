@@ -1,1 +1,1 @@
-var mnemonic = "cake govern scissors endorse regular puzzle acquire arrest jar divert evoke wrist";
+var mnemonic = "worth match great clown silent destroy season tonight fit render wonder boil";

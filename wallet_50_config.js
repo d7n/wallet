@@ -1,1 +1,1 @@
-var mnemonic = "absent spell ranch surface treat gadget solid razor pact zero october shrug";
+var mnemonic = "better engine sting tilt candy junk outside pulse tongue boost liberty remove";

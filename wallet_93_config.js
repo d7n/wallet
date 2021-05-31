@@ -1,1 +1,1 @@
-var mnemonic = "rebel spoil affair flag pact train wife despair burden lady pluck primary";
+var mnemonic = "grid neglect describe supreme brown thing power march adapt spring fog canoe";

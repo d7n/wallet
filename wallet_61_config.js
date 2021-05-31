@@ -1,1 +1,1 @@
-var mnemonic = "club uncle own theory certain ugly cash sure universe place journey supply";
+var mnemonic = "now parade limb snap catalog thunder hungry forward twenty wrap catch jump";

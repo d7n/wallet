@@ -1,1 +1,1 @@
-var mnemonic = "liar satisfy basic antique major lake before practice enjoy entry limit attract";
+var mnemonic = "loyal grid hazard guitar kitten diesel chat pill inch sunny loan junior";

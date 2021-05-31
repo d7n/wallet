@@ -1,1 +1,1 @@
-var mnemonic = "skill pride unfair kingdom theory multiply proof shrug zero fox retire unit";
+var mnemonic = "basic drill drink kiwi bottom fetch buddy original spider drama receive fold";

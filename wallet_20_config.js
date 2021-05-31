@@ -1,1 +1,1 @@
-var mnemonic = "clerk child nation suffer success machine beyond scheme blush situate wide vacuum";
+var mnemonic = "degree task badge online edit enter barely curve shed surprise clump cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "clean pill stone door filter raise illegal double waste evolve supply input";
+var mnemonic = "sudden captain blanket shiver inflict stairs ecology gloom wage entry print frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "loan jaguar private loyal scheme milk agent thank stomach code ghost vivid";
+var mnemonic = "exist drama tattoo blanket truly miss peanut laugh puzzle divide van dog";

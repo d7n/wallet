@@ -1,1 +1,1 @@
-var mnemonic = "cement under eye album swap can scatter estate grow abuse pioneer enable";
+var mnemonic = "gasp allow long assault phrase apart sudden mule always hub between economy";

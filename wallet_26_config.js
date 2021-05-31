@@ -1,1 +1,1 @@
-var mnemonic = "veteran tenant belt pottery siren real another run sudden grit million yard";
+var mnemonic = "dry snow scatter master purchase swarm taxi time snake asset upper future";

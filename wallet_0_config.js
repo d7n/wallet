@@ -1,1 +1,1 @@
-var mnemonic = "helmet orange chief pupil wage grain turn visit grace skill bean search";
+var mnemonic = "plate book world meadow country senior relief draft travel drink embrace fall";

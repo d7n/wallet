@@ -1,1 +1,1 @@
-var mnemonic = "visa uncle supreme mountain enter like chief witness direct kiwi sibling flower";
+var mnemonic = "endorse gift never mushroom father orchard keep spread primary aisle glory width";

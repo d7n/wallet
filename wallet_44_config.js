@@ -1,1 +1,1 @@
-var mnemonic = "remove carpet fuel arrange fade hidden exist lava satisfy tired pottery tell";
+var mnemonic = "lounge hunt essay need panic piano slush antenna away smooth olympic novel";

@@ -1,1 +1,1 @@
-var mnemonic = "green reopen water cotton raccoon fluid piano fix leopard exhaust thought cargo";
+var mnemonic = "mimic fold almost bulb anchor cruise spoon sense sample clown clay scare";

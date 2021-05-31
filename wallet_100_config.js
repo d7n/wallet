@@ -1,1 +1,1 @@
-var mnemonic = "budget grit fold despair used brother cause goat guess hazard dragon year";
+var mnemonic = "decrease pudding mail rally oil duck kitten match hood lounge dwarf crunch";

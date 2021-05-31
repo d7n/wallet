@@ -1,1 +1,1 @@
-var mnemonic = "hold episode canoe cinnamon either just auction blush brick eye discover indoor";
+var mnemonic = "burst nerve museum course ahead magic valve aspect arm fun travel hungry";

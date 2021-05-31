@@ -1,1 +1,1 @@
-var mnemonic = "surround canal vague bulk clever first unfair rib swear govern denial common";
+var mnemonic = "vacant sentence rotate blanket priority cinnamon bright goat manage hint negative before";

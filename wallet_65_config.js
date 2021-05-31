@@ -1,1 +1,1 @@
-var mnemonic = "index rude bundle exhibit spike bag sustain uncle average payment caution more";
+var mnemonic = "arrive label finger shrimp enrich ribbon exist double female runway follow vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "easy bridge couple check radio inspire globe wool fringe merry pill museum";
+var mnemonic = "genuine oval equal pledge lunch swing rather column run kiss spread want";

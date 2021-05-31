@@ -1,1 +1,1 @@
-var mnemonic = "month famous leave slide fringe survey term raccoon donate isolate lonely crash";
+var mnemonic = "cousin culture jar throw love feature pumpkin swift glimpse off top puzzle";

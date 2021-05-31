@@ -1,1 +1,1 @@
-var mnemonic = "shock amazing keep trigger fall miss donor treat clog miracle plunge output";
+var mnemonic = "young bright crash borrow essay charge black crouch raccoon sand moral occur";

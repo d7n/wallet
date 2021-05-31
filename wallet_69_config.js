@@ -1,1 +1,1 @@
-var mnemonic = "impact happy term prevent between valley virtual opinion word name scrap bean";
+var mnemonic = "issue unhappy basic gesture decrease deliver fall view fan hat artefact color";

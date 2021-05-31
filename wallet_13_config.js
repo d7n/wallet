@@ -1,1 +1,1 @@
-var mnemonic = "rifle limb lesson private unique term swarm ketchup orange sibling ancient erode";
+var mnemonic = "custom struggle actor amateur pair trap day possible hip case mandate mixed";
