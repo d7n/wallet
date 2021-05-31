@@ -1,1 +1,1 @@
-var mnemonic = "senior urban bright picture rotate success sand blue truth abuse pair mouse";
+var mnemonic = "name mother yellow trade cancel shoulder design gauge include tail path paddle";

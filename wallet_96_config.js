@@ -1,1 +1,1 @@
-var mnemonic = "riot width rent joke entire that final burden biology chair demise one";
+var mnemonic = "carpet detect grit rifle beef win dad guide gauge diamond buffalo model";

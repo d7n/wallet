@@ -1,1 +1,1 @@
-var mnemonic = "issue wink adult first same private beauty snap away quiz erupt abuse";
+var mnemonic = "merit open upset fall steak armor message cousin disorder section pipe enroll";

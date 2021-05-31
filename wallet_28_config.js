@@ -1,1 +1,1 @@
-var mnemonic = "tube deal mean fall air escape convince ignore social palace stock phrase";
+var mnemonic = "canal humble mixture mean vessel float myth enemy peanut gate smart exact";

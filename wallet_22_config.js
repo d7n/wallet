@@ -1,1 +1,1 @@
-var mnemonic = "sand lonely enrich exhibit denial online weird puppy one bicycle hospital hill";
+var mnemonic = "boy prosper husband nominee analyst suspect shine punch athlete envelope tourist achieve";

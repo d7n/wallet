@@ -1,1 +1,1 @@
-var mnemonic = "vanish pulp trim glove scout adapt destroy travel art feel liar roof";
+var mnemonic = "skate weird horse consider iron palace width shrug math local frozen code";

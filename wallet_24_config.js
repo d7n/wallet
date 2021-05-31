@@ -1,1 +1,1 @@
-var mnemonic = "inch dad version adult rough pet excess crane leaf wire december abandon";
+var mnemonic = "remember aisle melody patrol stand pyramid stairs disagree birth match great pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend deputy region scheme guess opinion season width sad prevent area second";
+var mnemonic = "twist coach hip seek genre tail attitude dash never forget divide case";

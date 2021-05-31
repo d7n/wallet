@@ -1,1 +1,1 @@
-var mnemonic = "burger negative elevator talk skate keen weekend fashion essay pencil toe become";
+var mnemonic = "media excuse logic sick defense wrestle eager leg dilemma wedding expire wheel";

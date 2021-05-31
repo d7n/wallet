@@ -1,1 +1,1 @@
-var mnemonic = "frame become salmon rifle daughter side broken click thunder symptom pole jeans";
+var mnemonic = "drop fold laugh make prefer rally canoe home rule amateur there flock";

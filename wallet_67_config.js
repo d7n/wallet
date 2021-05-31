@@ -1,1 +1,1 @@
-var mnemonic = "weapon erosion charge theory frost cousin chicken inner clap nest beach nose";
+var mnemonic = "laptop hospital olive flat hub awkward hedgehog coach flower beach wolf gym";

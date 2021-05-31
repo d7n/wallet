@@ -1,1 +1,1 @@
-var mnemonic = "town clip wealth double curve shuffle actor smooth husband climb solve extend";
+var mnemonic = "practice license bunker broom slab volume armor cinnamon valley cross volcano today";

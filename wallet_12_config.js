@@ -1,1 +1,1 @@
-var mnemonic = "slab genius inhale busy magnet glad weasel drastic foam end embark soft";
+var mnemonic = "general gospel volume almost kit rain unusual order modify boy siren illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty allow public attract crowd okay nothing uniform angle primary pumpkin actor";
+var mnemonic = "push identify island seek caught divert exotic gauge future best little undo";

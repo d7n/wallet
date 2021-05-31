@@ -1,1 +1,1 @@
-var mnemonic = "dad whisper rotate gaze useless despair disorder human obtain rent country mesh";
+var mnemonic = "core enable enough sick about people pair execute head actress glare giant";

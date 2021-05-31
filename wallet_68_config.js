@@ -1,1 +1,1 @@
-var mnemonic = "analyst truly narrow person monitor rib melody tired spy essay flag upper";
+var mnemonic = "cancel sudden word grass enough sound gesture warfare surface inspire action avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "cart squirrel air flip kit airport net trip nurse cruel bar lottery";
+var mnemonic = "castle camp heavy auction dream express index pattern scale slim once extra";

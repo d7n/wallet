@@ -1,1 +1,1 @@
-var mnemonic = "adapt quantum market galaxy option swallow engine birth grab subject sense achieve";
+var mnemonic = "original clump upgrade emotion fever patrol margin dish local only resemble write";

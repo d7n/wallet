@@ -1,1 +1,1 @@
-var mnemonic = "hurdle moral piece into uphold custom response mule danger child match aspect";
+var mnemonic = "cabbage cupboard hollow tribe patient exit hawk elder virtual display include legend";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy option dash fury drop voyage roof permit motor enact mistake level";
+var mnemonic = "border question wedding social beauty acoustic dignity defense wolf fetch dinner orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy comic scorpion butter creek trouble maze salt govern sun cricket omit";
+var mnemonic = "lock sock rose unveil arrange invite scale able high belt during such";

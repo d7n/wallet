@@ -1,1 +1,1 @@
-var mnemonic = "cook exhibit diary fame horn illness pottery strike umbrella enroll orphan empower";
+var mnemonic = "edit discover robot ritual hurry symbol grocery champion sphere eager zero song";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle galaxy skull leave present three ankle pitch biology scan circle oval";
+var mnemonic = "security skin ancient metal grant coil must flock donate actor noble layer";

@@ -1,1 +1,1 @@
-var mnemonic = "brief winner orchard immense game doll sister remind situate again bracket churn";
+var mnemonic = "type decade rookie pave tree win couch theme crawl city ritual sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "crew ill churn boss unable boat reunion person menu mesh barely reduce";
+var mnemonic = "mind enhance solid cannon film embark deposit dress shoe need soul artwork";

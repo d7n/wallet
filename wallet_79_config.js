@@ -1,1 +1,1 @@
-var mnemonic = "purity sausage bundle picture leaf primary theme state present volume fortune divide";
+var mnemonic = "argue symbol build artwork theory deputy merge note such course squirrel owner";

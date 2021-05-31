@@ -1,1 +1,1 @@
-var mnemonic = "wrong relax agent bamboo dose next library liar spider blade indoor glory";
+var mnemonic = "public element monkey jump couple blanket drastic rural split disease quiz disorder";

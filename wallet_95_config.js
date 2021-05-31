@@ -1,1 +1,1 @@
-var mnemonic = "armor vast crew actor cube pass wrestle thumb web renew bus multiply";
+var mnemonic = "bar great hood inflict rack pole amateur ivory destroy asset robust mad";

@@ -1,1 +1,1 @@
-var mnemonic = "stage school always guitar swamp old depend glory flight slight upon stove";
+var mnemonic = "loud library axis dutch journey large visa range remove between model reward";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle space strike churn vast library nurse giraffe kind rifle oppose nature";
+var mnemonic = "east skill betray south calm build aim reflect tide parrot burst panic";

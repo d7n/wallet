@@ -1,1 +1,1 @@
-var mnemonic = "lonely dress license stove want symbol plug potato cycle sudden attract prepare";
+var mnemonic = "crater fluid antenna moment alpha space goat mystery name ritual pink forum";

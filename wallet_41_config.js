@@ -1,1 +1,1 @@
-var mnemonic = "place love flush custom allow rose park process lunar cube calm deputy";
+var mnemonic = "pride kitchen roof boring street alien action ready upset require special opinion";

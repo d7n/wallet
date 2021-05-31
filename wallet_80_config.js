@@ -1,1 +1,1 @@
-var mnemonic = "family goddess divide element inject either fashion area fortune discover ostrich transfer";
+var mnemonic = "toddler cabbage belt earth subject stomach end shiver perfect urban script recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel acid deal whale target blind vacant window fresh document stable excess";
+var mnemonic = "embark embark arrow patient bottom moment harvest wall behind tent sick kingdom";

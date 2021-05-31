@@ -1,1 +1,1 @@
-var mnemonic = "swift thrive small route fragile portion witness canoe evil resist giggle twelve";
+var mnemonic = "material that mimic tired hedgehog point tray garden someone boss token pear";

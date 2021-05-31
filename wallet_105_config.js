@@ -1,1 +1,1 @@
-var mnemonic = "tray soon mule leopard fall taste cause oak hurdle master clock deposit";
+var mnemonic = "gravity almost private hint leisure sphere include snap cruel write toast mansion";

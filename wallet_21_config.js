@@ -1,1 +1,1 @@
-var mnemonic = "success educate draft ripple shock win gorilla recycle chase hungry ecology next";
+var mnemonic = "wrestle purchase beach tragic engine floor cruel jar awful eye law olympic";

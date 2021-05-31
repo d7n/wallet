@@ -1,1 +1,1 @@
-var mnemonic = "tank general yellow prize local entry abandon echo oblige actress else stamp";
+var mnemonic = "toddler frame enact upgrade talent vivid stuff under pink sight ozone hub";

@@ -1,1 +1,1 @@
-var mnemonic = "edit claw wait mean never thrive treat gentle check half remain skin";
+var mnemonic = "weasel mobile jealous kind truck bag thing short cash ethics early iron";

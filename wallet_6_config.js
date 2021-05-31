@@ -1,1 +1,1 @@
-var mnemonic = "much air music model excess urban foil afraid denial coconut rate frame";
+var mnemonic = "truck blush soda pizza liar fragile can play upper final giraffe festival";

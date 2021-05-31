@@ -1,1 +1,1 @@
-var mnemonic = "valid heart veteran scene number cheap winter roof base wait donkey first";
+var mnemonic = "share record whisper divert bonus health belt permit upgrade comic control stamp";

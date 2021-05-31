@@ -1,1 +1,1 @@
-var mnemonic = "garden typical bench absent intact game noodle radio special edge lawsuit home";
+var mnemonic = "crater jump soda deliver follow exchange deny enhance warfare heart shop budget";

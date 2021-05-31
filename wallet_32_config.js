@@ -1,1 +1,1 @@
-var mnemonic = "vacant tent amateur pattern alpha negative three silver onion success zone rug";
+var mnemonic = "rail endless cruise awake census oppose cigar option dress prosper portion ocean";

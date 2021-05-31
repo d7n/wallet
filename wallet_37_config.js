@@ -1,1 +1,1 @@
-var mnemonic = "marriage awkward latin scan focus inflict dignity bulb coral column sound flip";
+var mnemonic = "achieve type alter shy gloom snap diagram absent laptop person hotel traffic";

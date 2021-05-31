@@ -1,1 +1,1 @@
-var mnemonic = "improve humble husband panic caught immense lift ozone obey image labor license";
+var mnemonic = "version wrap glimpse aspect insect goose topple pear enable vapor avoid raven";

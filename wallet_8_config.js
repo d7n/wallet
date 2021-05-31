@@ -1,1 +1,1 @@
-var mnemonic = "renew follow baby final tortoise reward menu tail advance material cream junior";
+var mnemonic = "salmon amazing candy pet chef fold vital author bundle armor surround eye";

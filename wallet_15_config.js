@@ -1,1 +1,1 @@
-var mnemonic = "absurd sign visit problem castle clog snow junk lens mimic giraffe edit";
+var mnemonic = "slogan direct jar into surface modify super aerobic month bird wrist timber";

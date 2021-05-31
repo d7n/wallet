@@ -1,1 +1,1 @@
-var mnemonic = "brown control solve wall panther abuse shrimp sense error life slender sell";
+var mnemonic = "wrap creek pact zoo double broccoli sleep wild myself once space daring";

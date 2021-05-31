@@ -1,1 +1,1 @@
-var mnemonic = "lens electric cram subject spring various cage acquire win blade thank nut";
+var mnemonic = "glass peace matrix year will indicate banana tragic visit desert floor chapter";

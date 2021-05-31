@@ -1,1 +1,1 @@
-var mnemonic = "menu solution cupboard enough plunge gun tourist cook media immense entry brisk";
+var mnemonic = "fatigue clock answer vendor speak security ostrich awful tissue dizzy garlic lyrics";

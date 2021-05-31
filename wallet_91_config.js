@@ -1,1 +1,1 @@
-var mnemonic = "remain firm stool female captain mercy three route sadness reflect exhibit tourist";
+var mnemonic = "enhance method winner noble hero defy catch zoo make surge virtual private";

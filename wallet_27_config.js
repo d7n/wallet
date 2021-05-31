@@ -1,1 +1,1 @@
-var mnemonic = "pyramid silver athlete angle sort shell vicious electric motor atom echo festival";
+var mnemonic = "detail road hour pupil twin tomato egg aspect venture clip rigid panda";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction knock toast vibrant thunder hidden girl method creek follow program bridge";
+var mnemonic = "there address either leisure winter napkin twice evidence setup session bubble property";

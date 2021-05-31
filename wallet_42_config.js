@@ -1,1 +1,1 @@
-var mnemonic = "equip skirt wave unable pledge absorb bamboo neither faint dinosaur tribe pupil";
+var mnemonic = "warrior reject giraffe prosper swing cat burden burger latin actor strategy legal";

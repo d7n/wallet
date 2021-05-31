@@ -1,1 +1,1 @@
-var mnemonic = "tower topple next casino crew doll tiny wall accuse device code tomorrow";
+var mnemonic = "lava town legend bounce bacon citizen earn deliver supreme harsh tide account";

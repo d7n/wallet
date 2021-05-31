@@ -1,1 +1,1 @@
-var mnemonic = "myth genre defy frog abandon element burger argue sheriff sail upon brown";
+var mnemonic = "immune option proof relax human math gain gown dignity found foster slush";

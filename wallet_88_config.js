@@ -1,1 +1,1 @@
-var mnemonic = "deny olive mandate hotel movie grace name grace hole poverty knife anger";
+var mnemonic = "just despair spike material rain youth young turtle girl present resource aisle";

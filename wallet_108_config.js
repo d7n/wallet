@@ -1,1 +1,1 @@
-var mnemonic = "food wire hedgehog food exhaust flame oyster old strategy curtain panther woman";
+var mnemonic = "steel guard garage pony luxury love vendor elder burst damp unusual sad";

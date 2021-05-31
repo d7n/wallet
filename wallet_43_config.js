@@ -1,1 +1,1 @@
-var mnemonic = "elbow police film margin film journey wave genuine grit crane endorse maximum";
+var mnemonic = "sail flight crunch genuine dress never fix planet antenna sniff action awake";

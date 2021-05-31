@@ -1,1 +1,1 @@
-var mnemonic = "power glory cost jar view magic royal occur leopard celery elite nation";
+var mnemonic = "raise heavy divert bicycle indoor broom awful pair gentle hour that walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "broken estate awkward urge slam gift negative inherit adult flock fine crop";
+var mnemonic = "citizen target sketch cement peanut six number bar tide hungry elephant gesture";

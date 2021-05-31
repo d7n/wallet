@@ -1,1 +1,1 @@
-var mnemonic = "novel parrot vibrant purpose water breeze crane hockey crash pen neck exercise";
+var mnemonic = "hold size trigger blade dune humble ladder resemble render bring bean hard";

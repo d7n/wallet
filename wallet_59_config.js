@@ -1,1 +1,1 @@
-var mnemonic = "party decade donor suspect fat able cry feed casino inhale siege evoke";
+var mnemonic = "pepper detail aware involve load net turkey later leave symbol holiday culture";

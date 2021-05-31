@@ -1,1 +1,1 @@
-var mnemonic = "captain wagon grit uncover hope ocean kind donate eternal fun decide define";
+var mnemonic = "erode image fade stand rely fluid slide brick weather pair deposit toward";

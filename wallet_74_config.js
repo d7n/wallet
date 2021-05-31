@@ -1,1 +1,1 @@
-var mnemonic = "world hybrid measure bacon table van nasty pen crouch assume mixed inject";
+var mnemonic = "clarify awkward happy route invite hobby alert gold blur hint ten umbrella";

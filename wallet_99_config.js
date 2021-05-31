@@ -1,1 +1,1 @@
-var mnemonic = "arrive mistake forget anger decade era torch betray enough because between fluid";
+var mnemonic = "slush banner error travel typical cream squirrel since artist stumble dumb rival";

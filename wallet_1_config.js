@@ -1,1 +1,1 @@
-var mnemonic = "earth sense oyster truth remember thing garbage horror inflict empower lion foil";
+var mnemonic = "girl rebuild okay banner theme clean refuse property leader flat shine around";

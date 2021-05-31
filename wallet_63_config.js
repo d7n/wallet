@@ -1,1 +1,1 @@
-var mnemonic = "cupboard effort give tiger client never piano tooth pepper ride glass arrest";
+var mnemonic = "object beauty venture distance into omit claim absorb report upper urban fragile";

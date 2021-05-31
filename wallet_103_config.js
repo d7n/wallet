@@ -1,1 +1,1 @@
-var mnemonic = "actress science relax trip entire machine possible approve scorpion snap issue dirt";
+var mnemonic = "bargain eagle naive exclude either point embody neutral ancient country brisk session";

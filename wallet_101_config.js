@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow plug cluster game exotic find lounge wish enroll similar before noodle";
+var mnemonic = "fat vivid stereo leave frog group local uniform small soup diesel can";

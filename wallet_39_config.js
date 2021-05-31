@@ -1,1 +1,1 @@
-var mnemonic = "whip topic other today fresh mandate picture dolphin deliver sentence own winner";
+var mnemonic = "spread demise raven true opera duck wise clarify what cannon home foam";

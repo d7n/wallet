@@ -1,1 +1,1 @@
-var mnemonic = "junk enemy quote artefact better alarm flash park female fan test alarm";
+var mnemonic = "confirm tell mystery merry idea bundle oxygen defense duty sing nose yellow";

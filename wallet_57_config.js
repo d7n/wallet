@@ -1,1 +1,1 @@
-var mnemonic = "drop flat town turtle put trip question cloth cotton nothing little choice";
+var mnemonic = "mixed reunion blast helmet reject square label shy share steel twist social";

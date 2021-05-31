@@ -1,1 +1,1 @@
-var mnemonic = "action agent infant target puppy maze sell whip lazy any until brave";
+var mnemonic = "volcano major swap mushroom own earth guide earn toddler cage response jaguar";

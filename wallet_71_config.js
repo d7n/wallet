@@ -1,1 +1,1 @@
-var mnemonic = "entry surge degree claw envelope morning siren awkward close ticket camera debate";
+var mnemonic = "useful imitate feel submit special claw drift verb boil original fragile cycle";

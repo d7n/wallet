@@ -1,1 +1,1 @@
-var mnemonic = "carry whale beach reduce fetch pass pave island business amount orchard method";
+var mnemonic = "win fossil salt month quote live mimic attend hint urge finish amused";

@@ -1,1 +1,1 @@
-var mnemonic = "sound coconut oven service alley book spin road install moral universe cave";
+var mnemonic = "oven action cherry lend juice force recall demand canyon muffin claim warrior";

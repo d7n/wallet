@@ -1,1 +1,1 @@
-var mnemonic = "spoil what rent liberty daughter stereo razor sniff lottery cupboard blind solve";
+var mnemonic = "snap rose clinic decrease forget desert man eager drum buzz trumpet capable";

@@ -1,1 +1,1 @@
-var mnemonic = "spare rate brass gain absorb size knock planet wonder nature artwork sauce";
+var mnemonic = "exercise pudding relief image slim arm index engage type notice code enemy";

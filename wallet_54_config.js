@@ -1,1 +1,1 @@
-var mnemonic = "method long diagram bring diet web margin unknown love outdoor butter outer";
+var mnemonic = "protect duck topic lamp half attitude inflict remember leader fossil time kid";

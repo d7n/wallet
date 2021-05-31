@@ -1,1 +1,1 @@
-var mnemonic = "found voyage protect trash hollow salon smoke clerk private large ceiling hard";
+var mnemonic = "trouble elite kite gown immense twice card offer enough cube dance toe";

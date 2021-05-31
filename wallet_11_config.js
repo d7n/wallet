@@ -1,1 +1,1 @@
-var mnemonic = "game drift cool welcome true film fatigue axis curtain setup vintage release";
+var mnemonic = "current nurse special come blouse novel smooth company kiwi arrive embark split";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle curious shock guide diet coast ranch hungry logic safe skirt army";
+var mnemonic = "oven toilet secret model panda rely frost dog report yellow social allow";

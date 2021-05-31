@@ -1,1 +1,1 @@
-var mnemonic = "manage enforce chapter reduce planet capital valve obey hub surround busy humor";
+var mnemonic = "card destroy ramp left item switch unhappy can diary flag endorse mango";

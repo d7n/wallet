@@ -1,1 +1,1 @@
-var mnemonic = "design invite hurt shine pole rug egg unable surface draw oval disease";
+var mnemonic = "motion lemon eagle barrel panic ridge clog conduct cinnamon elbow crack survey";

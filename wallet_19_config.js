@@ -1,1 +1,1 @@
-var mnemonic = "enhance bamboo tackle route velvet garment unlock situate act tell private tornado";
+var mnemonic = "electric mother mutual trash team pink powder swim purity code series mirror";

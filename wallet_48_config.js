@@ -1,1 +1,1 @@
-var mnemonic = "dolphin forget vibrant mystery fee video winner oyster claim make pass topic";
+var mnemonic = "make salad anger help gauge asthma drill clarify casual abstract expect often";

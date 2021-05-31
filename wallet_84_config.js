@@ -1,1 +1,1 @@
-var mnemonic = "barely glide design expect erosion apology stand ski hybrid share since come";
+var mnemonic = "random issue guide mind jacket lend cliff person today stick success enemy";

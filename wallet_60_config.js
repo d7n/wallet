@@ -1,1 +1,1 @@
-var mnemonic = "side video crunch popular film rain cake sunny educate elephant shadow remove";
+var mnemonic = "session opinion gun daughter swear picture box athlete morning dinosaur acquire hole";

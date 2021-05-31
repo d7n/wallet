@@ -1,1 +1,1 @@
-var mnemonic = "piece happy boat skate climb snap scrap hunt interest fancy brisk digital";
+var mnemonic = "truth example case thumb impose census dish crime fortune egg approve bunker";

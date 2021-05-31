@@ -1,1 +1,1 @@
-var mnemonic = "task raccoon grocery sustain begin artefact rookie lady eagle field increase buddy";
+var mnemonic = "walnut plunge detect shop junk tuna neither boy camp kite immune perfect";
