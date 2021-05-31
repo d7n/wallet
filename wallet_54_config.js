@@ -1,1 +1,1 @@
-var mnemonic = "solid enact egg carpet post dizzy weird manual dove broccoli dice broccoli";
+var mnemonic = "visit can range beyond west desert decade garlic enact assault dove infant";

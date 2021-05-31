@@ -1,1 +1,1 @@
-var mnemonic = "pupil man human maximum scout grunt drill garment deposit expire lazy fee";
+var mnemonic = "bubble outside bronze employ picture avocado normal hat echo garden copy police";

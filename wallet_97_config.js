@@ -1,1 +1,1 @@
-var mnemonic = "library suffer palm mind series spice suspect dragon beyond repeat resist keen";
+var mnemonic = "ozone vanish drastic few attitude clump coconut rail buyer rib audit neck";

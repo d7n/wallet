@@ -1,1 +1,1 @@
-var mnemonic = "equal erase impose electric rare hedgehog reflect speak photo speed proud rough";
+var mnemonic = "average spray brick manual assume favorite aunt surround dove dinner high guitar";

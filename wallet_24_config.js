@@ -1,1 +1,1 @@
-var mnemonic = "cute manage crumble lift remember derive virus about cinnamon nothing patch script";
+var mnemonic = "document immense struggle exchange grunt draft orange neck leopard best peanut thrive";

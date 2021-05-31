@@ -1,1 +1,1 @@
-var mnemonic = "sorry slam wise fatigue echo struggle wild entire option often know response";
+var mnemonic = "remind toilet bubble consider city sight goose divide message list scheme deputy";

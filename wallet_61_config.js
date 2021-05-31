@@ -1,1 +1,1 @@
-var mnemonic = "asthma design slice object success agent about finish pelican dune love liberty";
+var mnemonic = "mercy offer dress dumb prosper crew orphan parade holiday enter inform barely";

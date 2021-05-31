@@ -1,1 +1,1 @@
-var mnemonic = "piece forum wood inhale sort garage knock hospital cricket retreat token damp";
+var mnemonic = "warrior ship derive rib window guitar flee excite inquiry board knife common";

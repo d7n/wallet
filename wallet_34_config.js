@@ -1,1 +1,1 @@
-var mnemonic = "abuse damage bulb toast tennis hunt color exercise mule coyote sponsor huge";
+var mnemonic = "lamp coffee crew obtain small elephant soup remind ride anger inform hard";

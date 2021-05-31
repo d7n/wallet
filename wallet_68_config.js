@@ -1,1 +1,1 @@
-var mnemonic = "urge result famous danger fan purse travel visa crush yard hamster almost";
+var mnemonic = "soul else ribbon drift prepare chronic occur liberty tilt enlist animal kitchen";

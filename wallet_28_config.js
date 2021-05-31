@@ -1,1 +1,1 @@
-var mnemonic = "useless toy impulse soda force grape switch fit habit escape ring loud";
+var mnemonic = "pretty light reward helmet tree orphan frown depart casual security slow census";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon pilot east settle citizen amount usage test humor addict away cabin";
+var mnemonic = "fiber abuse dismiss stand emerge share ankle nerve fit belt crucial talk";

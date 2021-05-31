@@ -1,1 +1,1 @@
-var mnemonic = "wisdom submit blossom burger trade forum pattern arm emotion island clog family";
+var mnemonic = "exist tragic become employ seat frame color dinner critic universe reflect target";

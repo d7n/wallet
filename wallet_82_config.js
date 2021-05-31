@@ -1,1 +1,1 @@
-var mnemonic = "below lawn kangaroo sick course margin food animal maid timber equip push";
+var mnemonic = "remove shell moon dry feed endless wise transfer coral cannon mule web";

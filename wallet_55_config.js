@@ -1,1 +1,1 @@
-var mnemonic = "disease response delay false field wild portion penalty ladder else stem poet";
+var mnemonic = "call vacuum federal join foil cash green earth novel transfer old odor";

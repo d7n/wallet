@@ -1,1 +1,1 @@
-var mnemonic = "ozone record monster sing check throw absurd slide this frequent eight sort";
+var mnemonic = "accident corn huge tenant say talent theme learn bubble assume caution emerge";

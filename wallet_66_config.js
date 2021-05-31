@@ -1,1 +1,1 @@
-var mnemonic = "there rack grid code ridge demise spike frozen west parrot mesh book";
+var mnemonic = "mind awkward time security wrong quality exercise stand scan thought piano prosper";

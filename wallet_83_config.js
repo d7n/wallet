@@ -1,1 +1,1 @@
-var mnemonic = "vanish genre worry mandate camp artwork useful search intact raw nurse away";
+var mnemonic = "long fall walnut season hundred stairs undo gaze address hawk scout dizzy";

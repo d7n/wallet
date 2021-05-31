@@ -1,1 +1,1 @@
-var mnemonic = "goat unhappy dwarf ridge harvest push laundry awesome three loan science virtual";
+var mnemonic = "flag sudden zone safe wreck rival because dentist another safe nest pig";

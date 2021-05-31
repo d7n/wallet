@@ -1,1 +1,1 @@
-var mnemonic = "garbage custom eternal fashion hold pair fortune piano benefit average mind under";
+var mnemonic = "case salmon calm dice duty tent flavor panda glimpse material avoid equal";

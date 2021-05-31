@@ -1,1 +1,1 @@
-var mnemonic = "town timber hood basket decrease document bronze steel pair note empower video";
+var mnemonic = "clean fiber raise fat tired series bridge resource magnet toward surface retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric cost emerge tribe strike bamboo rare similar talk embrace fragile talent";
+var mnemonic = "monster maid globe fold maple carbon undo travel soft electric bounce comic";

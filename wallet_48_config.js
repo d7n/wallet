@@ -1,1 +1,1 @@
-var mnemonic = "labor sail valid stone daring rail road delay office stairs letter high";
+var mnemonic = "curious club brother episode tattoo yard buddy surface model game naive bag";

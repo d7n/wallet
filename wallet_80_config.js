@@ -1,1 +1,1 @@
-var mnemonic = "cook about vault relax image elephant expand expire label proof gallery avocado";
+var mnemonic = "usual govern battle century fresh mule rib laugh cube clay eye valley";

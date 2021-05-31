@@ -1,1 +1,1 @@
-var mnemonic = "clump glue differ spray wolf depend stick toe eye wreck top addict";
+var mnemonic = "wall boat miracle ill soup swim deal endorse hire breeze base myself";

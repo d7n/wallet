@@ -1,1 +1,1 @@
-var mnemonic = "prevent oval music reopen base ethics accuse glance display matter paddle render";
+var mnemonic = "remove bronze shallow switch ahead rebuild spoon inquiry also cancel crush woman";

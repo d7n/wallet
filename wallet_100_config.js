@@ -1,1 +1,1 @@
-var mnemonic = "add squeeze piece devote celery grab inform acoustic relax riot unit mind";
+var mnemonic = "luggage cabin foam awful tongue mixture ramp scissors frequent wood above scout";

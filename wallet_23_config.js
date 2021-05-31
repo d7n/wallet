@@ -1,1 +1,1 @@
-var mnemonic = "depend candy labor toward thought library because medal limit benefit hollow dry";
+var mnemonic = "lake spatial busy crime ridge advice chicken hammer velvet push range notice";

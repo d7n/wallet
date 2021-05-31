@@ -1,1 +1,1 @@
-var mnemonic = "spray uncover forum fiction turtle grant drip tonight meadow jump virus benefit";
+var mnemonic = "afraid divorce gasp link stable give endorse inherit salad evil child cruise";

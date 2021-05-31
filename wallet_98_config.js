@@ -1,1 +1,1 @@
-var mnemonic = "solution knee tilt there noise rack chase blue fog sausage divert fault";
+var mnemonic = "picnic lazy burger hedgehog student bleak pulp salad soul addict mail gas";

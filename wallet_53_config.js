@@ -1,1 +1,1 @@
-var mnemonic = "inhale green deny ball view burden like maze food olive return remain";
+var mnemonic = "castle guess broom oak cat flash cream unfair dog depth exist ocean";

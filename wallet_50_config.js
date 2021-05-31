@@ -1,1 +1,1 @@
-var mnemonic = "behave equal cup pause curious save stool utility bulk chuckle best arrange";
+var mnemonic = "horror author dinner uphold toe front rather aerobic electric inflict illness lens";

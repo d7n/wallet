@@ -1,1 +1,1 @@
-var mnemonic = "unique weapon reason tuna upset fame clown mystery portion exchange muffin soldier";
+var mnemonic = "blossom cover laugh noble hand bottom enroll bronze melody report setup mountain";

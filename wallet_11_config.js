@@ -1,1 +1,1 @@
-var mnemonic = "pen room monster waste parade disorder what multiply order name auction express";
+var mnemonic = "life capable secret rude paddle easily actual memory govern fade original embrace";

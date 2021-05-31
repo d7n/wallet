@@ -1,1 +1,1 @@
-var mnemonic = "subject adapt equip melody chief cycle antique cement warfare green valid exercise";
+var mnemonic = "warrior diesel place thumb seed bubble recycle immune rescue turn tooth shuffle";

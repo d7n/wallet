@@ -1,1 +1,1 @@
-var mnemonic = "member average silk boost recall jazz detect toddler net fatal jungle soap";
+var mnemonic = "garbage drop buffalo tattoo pigeon reflect glance upper cabbage group answer post";

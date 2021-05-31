@@ -1,1 +1,1 @@
-var mnemonic = "exist midnight spatial limb unfair shell almost wet nut slice lucky trust";
+var mnemonic = "mask unknown seed pair voyage concert try hedgehog thank shell van crime";

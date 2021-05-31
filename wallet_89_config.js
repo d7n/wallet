@@ -1,1 +1,1 @@
-var mnemonic = "tennis clerk apart broccoli grow learn sock three awake pause impose mad";
+var mnemonic = "adult protect asthma tribe ladder off illness force tape gravity fancy door";

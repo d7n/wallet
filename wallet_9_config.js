@@ -1,1 +1,1 @@
-var mnemonic = "museum badge flip crouch wrist emotion category hospital pulse naive wrap cake";
+var mnemonic = "token plate tackle open civil degree lonely light lady fat fortune damage";

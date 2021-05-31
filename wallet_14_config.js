@@ -1,1 +1,1 @@
-var mnemonic = "globe into bottom desk tackle wedding sock trophy track parrot method rabbit";
+var mnemonic = "pioneer pond style announce siege they slush genre blur valve region special";

@@ -1,1 +1,1 @@
-var mnemonic = "foster stool clay inch message sock kangaroo day mule youth series cabin";
+var mnemonic = "spin lunch noodle soup tribe enrich bread blanket seminar acoustic end language";

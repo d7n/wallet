@@ -1,1 +1,1 @@
-var mnemonic = "winter mandate ethics cream margin hard ask frequent logic impulse plate pink";
+var mnemonic = "confirm plunge lounge leisure cat plastic vanish gather engage tornado ecology wise";

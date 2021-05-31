@@ -1,1 +1,1 @@
-var mnemonic = "glance history poem mountain observe worth favorite find inspire cram glad good";
+var mnemonic = "escape orphan announce cash charge bounce trouble dizzy vacant wisdom update slender";

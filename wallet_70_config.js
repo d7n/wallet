@@ -1,1 +1,1 @@
-var mnemonic = "vault stay couple donkey maze wide stomach place possible hello believe fiber";
+var mnemonic = "jeans stock draw aunt atom shove around update error only taxi mango";

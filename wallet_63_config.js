@@ -1,1 +1,1 @@
-var mnemonic = "title boat junior quarter tape urge thrive movie indicate juice alpha matter";
+var mnemonic = "august expose harvest shuffle image popular pumpkin rack sauce life media circle";

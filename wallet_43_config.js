@@ -1,1 +1,1 @@
-var mnemonic = "argue barely vivid loan skate spoon melody chalk phrase skill snack insane";
+var mnemonic = "wrestle network normal odor proof tuition embrace similar owner turkey annual verify";

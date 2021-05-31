@@ -1,1 +1,1 @@
-var mnemonic = "mesh eagle across crowd favorite ability pool over catch beef decide village";
+var mnemonic = "list choose runway rather broccoli cream sell employ royal rich tide absurd";

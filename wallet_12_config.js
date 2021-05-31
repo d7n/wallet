@@ -1,1 +1,1 @@
-var mnemonic = "soccer path goddess jeans rifle goat security transfer fruit balance stereo visit";
+var mnemonic = "scatter lucky produce brown lab useful dilemma harbor field evil absent better";

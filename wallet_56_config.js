@@ -1,1 +1,1 @@
-var mnemonic = "wealth sister seminar brush glad merit sea near siren dad melody leopard";
+var mnemonic = "express rent citizen just mosquito logic conduct mobile require excuse monkey word";

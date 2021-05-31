@@ -1,1 +1,1 @@
-var mnemonic = "angry feed salon soda bird marble honey uncle mercy toss ticket assume";
+var mnemonic = "vivid pudding lesson live mean belt brave exhibit frame memory monitor turkey";

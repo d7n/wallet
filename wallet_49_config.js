@@ -1,1 +1,1 @@
-var mnemonic = "curtain keep habit sustain sorry lecture mosquito trend guilt orbit fit cave";
+var mnemonic = "income access twist render swim flat spy false scorpion offer lounge omit";

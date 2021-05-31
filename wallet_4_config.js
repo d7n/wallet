@@ -1,1 +1,1 @@
-var mnemonic = "prepare setup reason inform unaware humor nothing search during vivid gentle neck";
+var mnemonic = "stone vocal drama garment notice voice isolate lady help very reject cement";

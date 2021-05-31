@@ -1,1 +1,1 @@
-var mnemonic = "weekend rescue border dinosaur giant arrange setup elephant same feed atom phone";
+var mnemonic = "army smooth rely else scare useless era artist cycle drive news purse";

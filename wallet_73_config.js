@@ -1,1 +1,1 @@
-var mnemonic = "cabbage exchange steel october lonely wide leisure produce common gloom cherry pen";
+var mnemonic = "whisper mail need comfort detect fun evidence spray rotate tower sick protect";

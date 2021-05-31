@@ -1,1 +1,1 @@
-var mnemonic = "female head soldier shop help ticket then right dignity struggle beef random";
+var mnemonic = "aerobic gasp hazard require regret blouse because parrot awake joke fruit lizard";

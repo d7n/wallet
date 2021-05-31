@@ -1,1 +1,1 @@
-var mnemonic = "system impact captain tunnel alone response kangaroo nasty loan furnace jungle wrong";
+var mnemonic = "fancy cave adjust weasel middle toy spice voice smart age rule very";

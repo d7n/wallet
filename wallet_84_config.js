@@ -1,1 +1,1 @@
-var mnemonic = "beach monkey turtle minute lemon sample mansion cloud keen tail practice rotate";
+var mnemonic = "ring night action elegant divide cupboard figure often end absent manual awake";

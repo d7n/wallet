@@ -1,1 +1,1 @@
-var mnemonic = "waste patrol elevator wet pizza sweet laptop again shock broken entire wish";
+var mnemonic = "lamp bicycle east common idle school wing earn pair prosper until nose";

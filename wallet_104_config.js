@@ -1,1 +1,1 @@
-var mnemonic = "legal reject pretty lyrics vast panel suggest tobacco mammal enjoy gas obtain";
+var mnemonic = "replace butter resource jewel turn west hill cousin organ luxury involve defense";

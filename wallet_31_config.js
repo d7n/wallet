@@ -1,1 +1,1 @@
-var mnemonic = "task guard then palace cattle valley goose physical into charge security demise";
+var mnemonic = "tonight devote sugar surprise boy deer sunny bundle sunny useless balcony agree";

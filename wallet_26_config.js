@@ -1,1 +1,1 @@
-var mnemonic = "actress violin chair ordinary advance tip near broken easily elbow arrest soon";
+var mnemonic = "hour vapor require web junior blouse monkey quality pulp boost fan lunar";

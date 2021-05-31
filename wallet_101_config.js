@@ -1,1 +1,1 @@
-var mnemonic = "immense quiz item balcony love else basket village captain blame code intact";
+var mnemonic = "lab history across window quality naive regret tragic network shell cause timber";

@@ -1,1 +1,1 @@
-var mnemonic = "number suffer thrive reunion transfer coach glove jazz pioneer oil elegant point";
+var mnemonic = "essay dragon early father climb segment wide soccer attitude arctic anger fatal";

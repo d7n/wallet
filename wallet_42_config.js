@@ -1,1 +1,1 @@
-var mnemonic = "legal bracket change weapon badge law present innocent goat minimum noble shadow";
+var mnemonic = "cross welcome arch goose ocean minute turkey miracle chunk champion urge add";

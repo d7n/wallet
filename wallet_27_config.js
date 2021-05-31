@@ -1,1 +1,1 @@
-var mnemonic = "owner topple impose panic patrol wood rail inform boat idea limit resource";
+var mnemonic = "salmon buffalo hidden extra juice adult relax medal flight valve unhappy team";

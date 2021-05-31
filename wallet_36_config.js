@@ -1,1 +1,1 @@
-var mnemonic = "tip cluster almost warm panel audit talk truth wave arctic fabric true";
+var mnemonic = "focus among friend payment clip river great race mom pond fold verify";

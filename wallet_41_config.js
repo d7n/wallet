@@ -1,1 +1,1 @@
-var mnemonic = "region until basket purity large view volcano artwork fall novel crunch high";
+var mnemonic = "goose amused wolf trouble soldier soldier movie spy candy pepper trash guide";

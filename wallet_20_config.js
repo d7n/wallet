@@ -1,1 +1,1 @@
-var mnemonic = "salmon debris shaft edge bone feature jaguar symbol limb panic hobby corn";
+var mnemonic = "cage quality joy cat timber siege winter ability witness pair end loan";

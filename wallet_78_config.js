@@ -1,1 +1,1 @@
-var mnemonic = "quantum inhale total tonight twice dentist party parent spatial equal dial useful";
+var mnemonic = "dilemma reunion conduct oven just night wall steel note uphold acid rack";

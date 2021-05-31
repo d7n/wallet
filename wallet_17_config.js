@@ -1,1 +1,1 @@
-var mnemonic = "oak admit giggle foster task affair couch decorate sunset hobby wish chief";
+var mnemonic = "ski cactus hour alien burger love minute point maple trip reason reform";

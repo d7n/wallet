@@ -1,1 +1,1 @@
-var mnemonic = "remember surround floor text rack veteran globe club square tourist flower quantum";
+var mnemonic = "hire scan split glare helmet galaxy blade fruit wrist drop notice spend";

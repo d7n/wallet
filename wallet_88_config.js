@@ -1,1 +1,1 @@
-var mnemonic = "stand monitor suggest lounge eight shallow skirt math length rely critic omit";
+var mnemonic = "shallow wish angry piano hunt lottery fire tool earth card replace cargo";

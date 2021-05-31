@@ -1,1 +1,1 @@
-var mnemonic = "okay afraid rhythm roast device siren drum ostrich clog ticket ensure side";
+var mnemonic = "bulb kingdom dignity cargo access table flight advice glory prepare wear govern";

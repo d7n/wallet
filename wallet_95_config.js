@@ -1,1 +1,1 @@
-var mnemonic = "under obscure elbow elite name develop rack anger shaft artist eyebrow enforce";
+var mnemonic = "dynamic clinic fiscal zone promote enemy liar gather vast digital combine muscle";

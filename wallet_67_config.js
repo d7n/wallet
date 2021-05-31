@@ -1,1 +1,1 @@
-var mnemonic = "spin toy comfort glad output razor twelve scene reveal lemon habit again";
+var mnemonic = "ugly eyebrow sweet silent choose stadium indoor recall pitch key lawn juice";

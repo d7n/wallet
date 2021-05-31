@@ -1,1 +1,1 @@
-var mnemonic = "medal help bargain casual purchase planet keen regret credit task pyramid clap";
+var mnemonic = "gentle spike alpha easy final educate gaze announce diesel apple balcony raccoon";

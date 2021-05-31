@@ -1,1 +1,1 @@
-var mnemonic = "supply joy version fury arch hungry view satisfy minimum symbol matter blade";
+var mnemonic = "actual winter destroy mass jacket current step gate section spare immune choose";

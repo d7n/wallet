@@ -1,1 +1,1 @@
-var mnemonic = "comic final gorilla fame over wisdom month police road dilemma clump churn";
+var mnemonic = "life zoo grit breeze duck shift lemon harbor father arena develop pull";

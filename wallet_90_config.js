@@ -1,1 +1,1 @@
-var mnemonic = "nice option town vocal payment common drip boy calm insect kitten raven";
+var mnemonic = "improve regular flight stamp path flash urban nerve also law cream journey";

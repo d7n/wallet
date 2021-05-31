@@ -1,1 +1,1 @@
-var mnemonic = "access swear another banana decrease penalty bag swim emotion tuition business pulse";
+var mnemonic = "cliff friend hen limb lunch wreck exhibit sample grass violin banana route";

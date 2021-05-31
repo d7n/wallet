@@ -1,1 +1,1 @@
-var mnemonic = "fault only asset dismiss admit army shoe donor child neutral say mobile";
+var mnemonic = "cliff crowd balance trumpet dove hunt swing rocket crater dress gauge require";

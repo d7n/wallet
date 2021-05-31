@@ -1,1 +1,1 @@
-var mnemonic = "dish cup toe fork belt sense envelope base decrease emotion long attack";
+var mnemonic = "cheese cable wire this fabric guilt link spoon cross welcome bacon smoke";

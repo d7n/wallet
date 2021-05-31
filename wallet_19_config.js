@@ -1,1 +1,1 @@
-var mnemonic = "near seed forward canal fuel wide future desk allow design army bitter";
+var mnemonic = "park ensure rubber mind eagle quick deal until reason present mass pony";

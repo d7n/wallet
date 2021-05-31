@@ -1,1 +1,1 @@
-var mnemonic = "beef tackle bargain diamond stick gallery high gravity punch clog document crouch";
+var mnemonic = "gospel change ketchup buffalo opinion electric one liquid stable perfect valley achieve";

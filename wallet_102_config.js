@@ -1,1 +1,1 @@
-var mnemonic = "convince avocado cannon quality birth evoke future album kind lamp drift machine";
+var mnemonic = "rail chaos refuse car catalog ladder surprise lesson amount unknown gown spare";

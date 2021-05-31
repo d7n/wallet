@@ -1,1 +1,1 @@
-var mnemonic = "theory organ silly enact gate suffer owner inspire mango almost lift cushion";
+var mnemonic = "spread coconut unlock wage net eager lake audit cycle detail bulb angle";

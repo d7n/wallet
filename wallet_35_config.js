@@ -1,1 +1,1 @@
-var mnemonic = "dentist system celery tissue devote loan weasel opinion syrup annual jaguar mushroom";
+var mnemonic = "basic hand swear vapor virtual spray ghost fork luxury subject clean pair";

@@ -1,1 +1,1 @@
-var mnemonic = "math runway hand injury cousin welcome venture leave leisure across drama bitter";
+var mnemonic = "plastic high payment tooth sudden success weather vendor panel already board field";

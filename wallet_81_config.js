@@ -1,1 +1,1 @@
-var mnemonic = "erase retire mask december fragile salad holiday session size someone keen wheel";
+var mnemonic = "badge thrive cause cram trophy legend rely pride laugh view omit essay";

@@ -1,1 +1,1 @@
-var mnemonic = "double emerge wish upgrade warm eyebrow prepare obtain walnut own lottery fatal";
+var mnemonic = "sustain toilet vocal argue domain attack diary royal fun will voice gaze";

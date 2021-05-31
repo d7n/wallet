@@ -1,1 +1,1 @@
-var mnemonic = "reduce sport sign ecology elite shield lion bracket run apart inch evoke";
+var mnemonic = "wonder hamster hundred bless praise trumpet mistake ring trade elder like fury";
