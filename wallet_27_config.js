@@ -1,1 +1,1 @@
-var mnemonic = "pass novel erupt flower daughter whale hurry inject indoor execute harvest upper";
+var mnemonic = "basket chuckle crunch pudding arrest jazz about retire pull library sniff clerk";

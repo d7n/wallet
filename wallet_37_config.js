@@ -1,1 +1,1 @@
-var mnemonic = "venture hidden lake upon high visit fit wife knee peanut repair drill";
+var mnemonic = "surround problem novel violin render target friend noodle proud milk sight confirm";

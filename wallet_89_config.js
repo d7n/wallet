@@ -1,1 +1,1 @@
-var mnemonic = "place umbrella shrug illegal earn flavor law champion uncover exclude machine legal";
+var mnemonic = "kangaroo cube giraffe surge hidden month wreck forward crunch cross leader syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle lion bless caught interest dance they frame parade cricket ribbon impose";
+var mnemonic = "marine faculty tribe vault robust circle feel sign drill vital coast drill";

@@ -1,1 +1,1 @@
-var mnemonic = "hip banana remove noise eternal method retire once blood also dog gauge";
+var mnemonic = "neutral protect tattoo divide draft foster service stock entry swing happy noble";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha monster dust payment depend plug ridge riot rain diamond run pottery";
+var mnemonic = "display tourist dance trophy exercise solid useless inhale wrestle acid spread sibling";

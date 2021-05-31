@@ -1,1 +1,1 @@
-var mnemonic = "course unfold steak eight flight camp zone tortoise render parrot blade limit";
+var mnemonic = "list equal hole alert unit tooth verb rain equal breeze behind hover";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb meadow issue trophy price arrive unable aerobic scheme wreck awesome thank";
+var mnemonic = "annual treat tribe barely crisp wasp dilemma correct silver pulp fault dial";

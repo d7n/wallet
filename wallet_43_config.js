@@ -1,1 +1,1 @@
-var mnemonic = "upon advance lunar mom note front three salon dog census dirt depend";
+var mnemonic = "wife load master degree pride cycle craft pill digital acquire hungry maple";

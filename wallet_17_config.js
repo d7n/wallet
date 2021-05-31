@@ -1,1 +1,1 @@
-var mnemonic = "course guitar cart female fortune jazz science scatter cool spell stomach move";
+var mnemonic = "radar earn cover ribbon mention fame enable prison feel south once pass";

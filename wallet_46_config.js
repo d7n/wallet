@@ -1,1 +1,1 @@
-var mnemonic = "rebuild cry forum number famous draft hidden book reveal blast before lab";
+var mnemonic = "armed regular major save slab early boss mention deer lend radar kangaroo";

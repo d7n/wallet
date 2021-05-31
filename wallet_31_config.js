@@ -1,1 +1,1 @@
-var mnemonic = "estate mixed begin absent prefer prosper domain any trip shrug round fit";
+var mnemonic = "knee disagree visa million cloud visual parade animal toward cloth volcano region";

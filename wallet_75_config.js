@@ -1,1 +1,1 @@
-var mnemonic = "sport various tornado cube myself copy page million else fan hidden milk";
+var mnemonic = "sort deny buzz retreat surprise afford gadget left input token hundred toast";

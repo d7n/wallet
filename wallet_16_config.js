@@ -1,1 +1,1 @@
-var mnemonic = "found adapt today mind replace secret pool issue imitate advice mad wisdom";
+var mnemonic = "destroy inject return license fox best warm above ritual fluid luxury impose";

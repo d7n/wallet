@@ -1,1 +1,1 @@
-var mnemonic = "test goose foil weird fashion trust idle corn earn man summer click";
+var mnemonic = "cruise woman rare subject lounge affair sunny void antenna dinner stool heavy";

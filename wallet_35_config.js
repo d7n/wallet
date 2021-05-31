@@ -1,1 +1,1 @@
-var mnemonic = "dirt produce pig board palace patch soup staff reform theory team flat";
+var mnemonic = "cash cabbage match fantasy energy improve subject glass lawn choice barely wrestle";

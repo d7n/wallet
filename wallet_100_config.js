@@ -1,1 +1,1 @@
-var mnemonic = "afford assault year scan matter battle plate stumble elder leader supply vanish";
+var mnemonic = "grid disease cigar rapid hire session effort sibling swamp scale robust wait";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen saddle glance main voyage require business donate cinnamon dose staff lucky";
+var mnemonic = "practice typical flame deposit illegal mansion opera embody slender actual sun isolate";

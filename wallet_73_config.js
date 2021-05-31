@@ -1,1 +1,1 @@
-var mnemonic = "broom pigeon salon crunch number cradle august husband duck shaft hair canvas";
+var mnemonic = "goose love display piece large rail soon thought grocery lab rebuild broken";

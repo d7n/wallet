@@ -1,1 +1,1 @@
-var mnemonic = "cash tell false scrap sunset worth solar recipe shell tattoo weekend nothing";
+var mnemonic = "civil armor inner digital song barely valve grape trick upon fitness claw";

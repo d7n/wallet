@@ -1,1 +1,1 @@
-var mnemonic = "mixture plate soldier boil gown correct suspect fatal whip ability flock sadness";
+var mnemonic = "video giraffe priority donate bitter melt ice army shy window consider ignore";

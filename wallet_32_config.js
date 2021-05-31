@@ -1,1 +1,1 @@
-var mnemonic = "network cushion usual tilt reject style evidence dumb aisle edge since same";
+var mnemonic = "ginger jewel man cloth funny depth across easy ring era field warm";

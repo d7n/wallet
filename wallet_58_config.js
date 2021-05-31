@@ -1,1 +1,1 @@
-var mnemonic = "brick manage heavy hen omit boss immune range include stay surprise nice";
+var mnemonic = "rally that medal afraid alert flush organ recipe garage chronic divorce purse";

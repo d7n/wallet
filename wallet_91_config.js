@@ -1,1 +1,1 @@
-var mnemonic = "ahead tumble flush symptom decrease merge result regret auction typical train aware";
+var mnemonic = "palm subway decorate true upon slim wheat drive health price mandate pizza";

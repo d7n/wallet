@@ -1,1 +1,1 @@
-var mnemonic = "seek mystery cram chicken close chimney journey render empower vanish jaguar coast";
+var mnemonic = "ask logic soft supply yard engage art motor call disagree during panel";

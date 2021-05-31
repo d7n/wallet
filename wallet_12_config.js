@@ -1,1 +1,1 @@
-var mnemonic = "tackle rich cook bachelor town relax erode measure catalog buyer volcano dune";
+var mnemonic = "glass case turtle stadium prosper humor because stumble correct outer breeze cradle";

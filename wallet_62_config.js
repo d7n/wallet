@@ -1,1 +1,1 @@
-var mnemonic = "dose fence later alarm eagle awesome quote reduce frown tray celery frozen";
+var mnemonic = "test ring tornado smile nothing about dog avoid survey rough amazing piano";

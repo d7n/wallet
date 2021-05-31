@@ -1,1 +1,1 @@
-var mnemonic = "valley sample interest reform style firm bicycle alter accident always satoshi foot";
+var mnemonic = "excuse pumpkin found curtain ripple feature high couch pen enter mansion dilemma";

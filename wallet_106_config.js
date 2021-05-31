@@ -1,1 +1,1 @@
-var mnemonic = "diary dragon resist normal win year fee mother burden debris man good";
+var mnemonic = "have sunset all special soon thrive pill weather fossil voyage spawn noodle";

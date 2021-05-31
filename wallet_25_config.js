@@ -1,1 +1,1 @@
-var mnemonic = "fox pool physical mail dove excuse shop rail extra school wall kitchen";
+var mnemonic = "nothing dynamic satisfy turkey toddler plate pond hip size unfold surge destroy";

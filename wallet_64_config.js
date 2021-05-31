@@ -1,1 +1,1 @@
-var mnemonic = "wish ripple move depart disease welcome october write silly bone invite cover";
+var mnemonic = "online general surface choice need crew atom have field dance can put";

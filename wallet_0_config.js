@@ -1,1 +1,1 @@
-var mnemonic = "seek curve response divert grab valve grab crime victory bacon leave pill";
+var mnemonic = "swift picture illness vanish innocent vendor witness certain defense pitch this purity";

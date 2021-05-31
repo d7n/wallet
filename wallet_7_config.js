@@ -1,1 +1,1 @@
-var mnemonic = "increase bind rural tuition civil warrior tag dream private spend lobster romance";
+var mnemonic = "plug credit accident ancient rival trim sure spatial lunar walnut bench neck";

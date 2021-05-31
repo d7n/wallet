@@ -1,1 +1,1 @@
-var mnemonic = "tag assault grant dish impact job tonight next viable endless acid clog";
+var mnemonic = "wrong seek gold smart catch world flavor again dad satisfy mention foster";

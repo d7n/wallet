@@ -1,1 +1,1 @@
-var mnemonic = "sadness trust inquiry buddy three cushion fringe siren claw double sad stock";
+var mnemonic = "negative wear dose million genius document pony gesture object observe feed above";

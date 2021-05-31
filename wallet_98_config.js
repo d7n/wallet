@@ -1,1 +1,1 @@
-var mnemonic = "news pigeon adult abstract night divide snake inch place robot dust try";
+var mnemonic = "dad spoil priority mimic adapt humble chef claim work morning world wrong";

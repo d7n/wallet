@@ -1,1 +1,1 @@
-var mnemonic = "purpose cause swing orchard portion share arrange attack trumpet unfair stick inherit";
+var mnemonic = "put license nation lunch girl horse report between grocery coast slab dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin spatial spice diesel energy right easily lamp transfer speed expect tail";
+var mnemonic = "roast hurry void symptom muscle nation obey afraid ski pistol settle trick";

@@ -1,1 +1,1 @@
-var mnemonic = "wet foil castle aware sentence leave picnic bless address call used gravity";
+var mnemonic = "man ladder museum puzzle maximum lab parent salmon near build used flock";

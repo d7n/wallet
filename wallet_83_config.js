@@ -1,1 +1,1 @@
-var mnemonic = "opera legal wonder program arctic chunk morning labor injury snake usage panic";
+var mnemonic = "peanut squeeze attract pony pyramid bone spider kit change target whisper develop";

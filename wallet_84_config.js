@@ -1,1 +1,1 @@
-var mnemonic = "police sock claim camera punch gorilla camera change battle office multiply galaxy";
+var mnemonic = "ancient where hidden minute coin magnet lounge federal auto wisdom special abstract";

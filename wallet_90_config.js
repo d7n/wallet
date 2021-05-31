@@ -1,1 +1,1 @@
-var mnemonic = "hollow choose also awkward twist atom harsh purchase earth august cross message";
+var mnemonic = "knock session olympic poverty solution collect aisle weather orange civil lyrics easily";

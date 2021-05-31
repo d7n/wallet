@@ -1,1 +1,1 @@
-var mnemonic = "intact ahead lunch future sponsor venture unveil image elevator sunset doctor embrace";
+var mnemonic = "surround category female stumble loyal strong major raccoon fury razor donor alley";

@@ -1,1 +1,1 @@
-var mnemonic = "roast latin element cube shield local stairs dove harsh axis sell repair";
+var mnemonic = "avoid jump joy shuffle awful razor alley mammal shrimp moon human share";

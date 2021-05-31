@@ -1,1 +1,1 @@
-var mnemonic = "chapter spatial speak wagon can light clarify below orchard captain menu possible";
+var mnemonic = "half wage master nurse wasp radio garment drastic loud broken pluck ozone";

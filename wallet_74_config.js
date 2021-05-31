@@ -1,1 +1,1 @@
-var mnemonic = "domain hope august clinic spider thumb squeeze rail imitate cattle table light";
+var mnemonic = "cake project intact organ error index able cloth despair spike whale desert";

@@ -1,1 +1,1 @@
-var mnemonic = "foster thunder ginger arctic suit truth hour cattle vacuum desert luxury electric";
+var mnemonic = "anchor deposit street hello region amused until fog second veteran elder shrug";

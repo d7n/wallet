@@ -1,1 +1,1 @@
-var mnemonic = "inhale ship worth know hole forest miracle flip series globe mixture famous";
+var mnemonic = "choose bean another donor right veteran feature similar curve lucky almost toss";

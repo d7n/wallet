@@ -1,1 +1,1 @@
-var mnemonic = "hospital infant tobacco skill valid unaware seat happy person bring fury scrub";
+var mnemonic = "false bronze burst repeat black volcano gloom elite odor perfect project potato";

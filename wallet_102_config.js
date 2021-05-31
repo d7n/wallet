@@ -1,1 +1,1 @@
-var mnemonic = "fat surround old effort narrow mom fish dirt bachelor exotic kind rookie";
+var mnemonic = "judge exact between saddle hospital screen month want clock equal upper ivory";

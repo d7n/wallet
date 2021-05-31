@@ -1,1 +1,1 @@
-var mnemonic = "birth tourist follow prosper crack awesome cupboard nation random service imitate spend";
+var mnemonic = "pistol daughter tobacco chaos age tourist cake real someone coffee vibrant swift";

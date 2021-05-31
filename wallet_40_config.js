@@ -1,1 +1,1 @@
-var mnemonic = "fatal execute era gasp valley fantasy hint purse tiger marriage radar more";
+var mnemonic = "resist economy shallow struggle trust civil inhale nest dawn chief giggle judge";

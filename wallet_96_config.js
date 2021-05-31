@@ -1,1 +1,1 @@
-var mnemonic = "across crisp goose shrug arm cotton remind balance guard mask powder disagree";
+var mnemonic = "funny deer bubble light van stereo cat throw problem angry brush melody";

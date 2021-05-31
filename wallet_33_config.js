@@ -1,1 +1,1 @@
-var mnemonic = "guide rule swamp fiscal hunt galaxy erosion donkey segment glow bless recipe";
+var mnemonic = "insect flock fix coyote behave cream key because digital arrange lonely hope";

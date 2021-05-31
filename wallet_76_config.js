@@ -1,1 +1,1 @@
-var mnemonic = "silly easily since that silly profit security mind regular must forget arch";
+var mnemonic = "change witness stay rigid render garment jaguar cruel disease nation ramp surround";

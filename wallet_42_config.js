@@ -1,1 +1,1 @@
-var mnemonic = "vacant story butter actual tomorrow garden mistake life matter maze marriage equip";
+var mnemonic = "portion clay shoulder car camera panic laptop embark cage retire gravity regular";

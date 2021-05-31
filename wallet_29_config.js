@@ -1,1 +1,1 @@
-var mnemonic = "ghost session undo jump giggle bulb nothing cook bless consider error forward";
+var mnemonic = "toddler angle bubble gloom security shift outdoor wrong around one regular monster";

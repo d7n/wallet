@@ -1,1 +1,1 @@
-var mnemonic = "aisle crater cat junior giggle idle either velvet polar young ankle slight";
+var mnemonic = "horror gentle grocery electric next axis belt trash oval surprise buffalo share";

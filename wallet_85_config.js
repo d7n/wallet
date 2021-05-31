@@ -1,1 +1,1 @@
-var mnemonic = "noise uncle chalk worth assist prefer aspect thunder spot december school deny";
+var mnemonic = "accuse hedgehog lemon female wonder eye media undo inherit shoe extra cool";

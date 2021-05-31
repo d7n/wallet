@@ -1,1 +1,1 @@
-var mnemonic = "airport tag faint old error laundry list taste client immense foster robot";
+var mnemonic = "wish immense december uphold tornado nut paper slender coin order cream sleep";

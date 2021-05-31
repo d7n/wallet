@@ -1,1 +1,1 @@
-var mnemonic = "pistol apart heavy neutral oxygen regret leader nuclear best topic route item";
+var mnemonic = "exchange satoshi swap myself hamster this glance laugh pause vivid person glance";

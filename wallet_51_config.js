@@ -1,1 +1,1 @@
-var mnemonic = "six bring brass rude require hotel answer law surprise rebuild resource retire";
+var mnemonic = "hidden much squeeze shrug exile zebra flee fashion original blouse law strike";

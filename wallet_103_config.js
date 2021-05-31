@@ -1,1 +1,1 @@
-var mnemonic = "practice attract manage eyebrow code version cruel nominee zone birth grunt panic";
+var mnemonic = "panther mountain twenty gas mistake cousin apology detect work dutch edit scorpion";

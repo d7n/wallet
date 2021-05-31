@@ -1,1 +1,1 @@
-var mnemonic = "drop legend dignity oak suggest denial claim rich define trend trumpet order";
+var mnemonic = "author nephew reward abandon surprise crawl embody slam armed spy sketch solve";

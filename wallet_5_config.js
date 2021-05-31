@@ -1,1 +1,1 @@
-var mnemonic = "flee limit neither gentle play coast unusual uphold gasp split suit goat";
+var mnemonic = "large shaft rookie run artefact weekend dolphin trend famous advance trip chest";

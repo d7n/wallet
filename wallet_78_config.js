@@ -1,1 +1,1 @@
-var mnemonic = "radio wonder original sentence moral type cloud soup ancient artefact delay gesture";
+var mnemonic = "latin capable clean ranch family champion warfare ahead annual melody aim habit";

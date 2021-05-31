@@ -1,1 +1,1 @@
-var mnemonic = "lesson pact fork dilemma advice neglect hub happy penalty ski blush wise";
+var mnemonic = "invest twelve surprise arch under risk tiny radio garlic help quit switch";

@@ -1,1 +1,1 @@
-var mnemonic = "enable uncover expand exchange accident sister shiver twin become quote target face";
+var mnemonic = "veteran radar piano minimum aim wing pear double blush renew opinion bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "subway trim slender language drama best special slush sword betray slice vocal";
+var mnemonic = "matrix wish ghost spot arrest motion stairs spin spirit crisp gauge reunion";

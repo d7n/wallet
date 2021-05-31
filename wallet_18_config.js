@@ -1,1 +1,1 @@
-var mnemonic = "diesel curve damp know rival youth pizza stamp void market parade issue";
+var mnemonic = "together hundred control make wine eager genre history very erode punch twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "insane chimney sniff disease release insane neither friend exercise wrong canoe able";
+var mnemonic = "organ distance engage jelly depart pilot skull reunion space large width gaze";

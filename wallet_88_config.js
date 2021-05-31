@@ -1,1 +1,1 @@
-var mnemonic = "time blur adjust mail amazing fatigue chuckle egg wreck bundle drip avoid";
+var mnemonic = "brush industry bone beauty dinner away cement rib nation great betray light";

@@ -1,1 +1,1 @@
-var mnemonic = "surround intact turtle dignity you tone orient main neutral sunset net upset";
+var mnemonic = "uncle cool kick art supreme treat repair purchase bunker object aisle wisdom";

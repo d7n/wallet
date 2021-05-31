@@ -1,1 +1,1 @@
-var mnemonic = "vanish gym safe oil coach stereo fame net uncle divert guess key";
+var mnemonic = "client scout feature rubber monster velvet ceiling awake mom real robot security";

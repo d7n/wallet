@@ -1,1 +1,1 @@
-var mnemonic = "actual wise ritual diet angry garment female sudden this second session regular";
+var mnemonic = "coin kiwi maple desert since away lobster timber child front skull budget";

@@ -1,1 +1,1 @@
-var mnemonic = "mask hobby laugh book universe magic youth file portion amateur radar list";
+var mnemonic = "plate sense width olympic shrug access tail later identify client check venture";

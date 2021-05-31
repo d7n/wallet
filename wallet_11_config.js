@@ -1,1 +1,1 @@
-var mnemonic = "aerobic twice crunch animal fashion word mail evolve notice hip zero virus";
+var mnemonic = "park erode slight silver mind strong lava candy empower seek swear pause";

@@ -1,1 +1,1 @@
-var mnemonic = "produce sleep infant cattle large kitchen rain addict sport clip tool expect";
+var mnemonic = "shove outdoor van arena razor magnet summer horror payment wise cage always";

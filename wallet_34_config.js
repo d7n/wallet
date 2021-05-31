@@ -1,1 +1,1 @@
-var mnemonic = "acquire silk effort effort onion salad useful amazing rifle actual finger hope";
+var mnemonic = "hair enlist rebel budget degree lucky large nice anxiety neither patient random";

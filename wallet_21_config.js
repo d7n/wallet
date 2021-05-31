@@ -1,1 +1,1 @@
-var mnemonic = "ask clog fuel heavy title scorpion staff unique lava ring chunk federal";
+var mnemonic = "brain retreat outer increase syrup hand caught shield cram shift purchase region";

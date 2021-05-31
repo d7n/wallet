@@ -1,1 +1,1 @@
-var mnemonic = "polar shuffle measure ocean sister absent bar genius parade swear sister caught";
+var mnemonic = "depth game resemble doll bring venture side hedgehog juice theory muffin cage";

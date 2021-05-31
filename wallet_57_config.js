@@ -1,1 +1,1 @@
-var mnemonic = "replace panther dice fine orphan patrol input path material vote annual permit";
+var mnemonic = "air draft pledge thought scan retire among autumn pole strike copper avocado";

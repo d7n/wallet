@@ -1,1 +1,1 @@
-var mnemonic = "worry enlist name sheriff rib hybrid execute chunk baby ivory tattoo connect";
+var mnemonic = "dwarf virus doll panda soccer text chest swallow sausage glass wedding detail";

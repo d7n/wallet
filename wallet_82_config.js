@@ -1,1 +1,1 @@
-var mnemonic = "mansion topple review wisdom short trust spatial sick reward nurse feature pony";
+var mnemonic = "kite spike fluid nation humor grocery average main address kidney hat blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "motion wing ball present alcohol act approve since step comfort pledge face";
+var mnemonic = "imitate health churn cover ladder forest easy improve alley box quit calm";

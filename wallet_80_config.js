@@ -1,1 +1,1 @@
-var mnemonic = "window poet that math ramp example digital mixed thunder cloth mango deposit";
+var mnemonic = "drip captain slab harsh salute obscure sick lumber blue anchor elegant brick";

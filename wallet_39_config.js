@@ -1,1 +1,1 @@
-var mnemonic = "mirror flower shiver sentence aerobic enact sausage innocent undo wine left horse";
+var mnemonic = "indoor crater helmet gasp discover outdoor idea short august thing canvas game";

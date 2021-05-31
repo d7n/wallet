@@ -1,1 +1,1 @@
-var mnemonic = "mansion daring return athlete position flat onion stay borrow above rebuild diary";
+var mnemonic = "enhance pioneer mix smoke bright item damage photo despair defy stem only";

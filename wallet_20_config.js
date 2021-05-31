@@ -1,1 +1,1 @@
-var mnemonic = "bonus sword trial again win uphold beyond once brother fragile lend window";
+var mnemonic = "obvious arrest large fossil jump lens indoor volcano true need gauge easy";
