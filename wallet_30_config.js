@@ -1,1 +1,1 @@
-var mnemonic = "harsh south adjust rather simple trust better nature zero helmet neutral portion";
+var mnemonic = "yard sphere flush auto undo elevator vanish feel mansion melody knock split";

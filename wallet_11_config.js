@@ -1,1 +1,1 @@
-var mnemonic = "vehicle legal day brisk cover emotion under prize north toss harbor black";
+var mnemonic = "junk must march degree nest dance clump leader hunt candy piano arch";

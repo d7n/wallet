@@ -1,1 +1,1 @@
-var mnemonic = "jungle begin together reject dizzy pear hire belt grass because atom various";
+var mnemonic = "blur square kind ankle nothing odor surface earth view wisdom ability turtle";

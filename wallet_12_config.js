@@ -1,1 +1,1 @@
-var mnemonic = "two pizza try gap index boss super label flash tackle stick column";
+var mnemonic = "grid cherry regret width drama exit truck tide fame tiger people burger";

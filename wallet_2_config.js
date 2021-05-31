@@ -1,1 +1,1 @@
-var mnemonic = "kite pistol deposit puppy arrange front symptom novel immune reopen fruit vessel";
+var mnemonic = "early unique gold hollow family enable fit above demand sweet imitate promote";

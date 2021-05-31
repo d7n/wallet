@@ -1,1 +1,1 @@
-var mnemonic = "coil husband coffee innocent wedding night half category allow intact leaf tattoo";
+var mnemonic = "food edit boat satoshi meadow soup maple hurry fall faint twelve penalty";

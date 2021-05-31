@@ -1,1 +1,1 @@
-var mnemonic = "away math switch bargain space orient glare quiz pluck ocean camp near";
+var mnemonic = "snow depth nominee real boss cube ivory garden soul shift fabric race";

@@ -1,1 +1,1 @@
-var mnemonic = "raise hedgehog egg dash excuse cloth step wisdom hobby involve reject label";
+var mnemonic = "era check garbage cart face quit tent document guilt grief clap cart";

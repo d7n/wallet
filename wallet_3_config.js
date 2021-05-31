@@ -1,1 +1,1 @@
-var mnemonic = "moment food chalk image enter private remain winner leader plug sentence useful";
+var mnemonic = "device clinic script crop occur beach sponsor theme woman anchor ring very";

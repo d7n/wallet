@@ -1,1 +1,1 @@
-var mnemonic = "august dignity year bamboo beef input chuckle equal coyote donkey crowd prison";
+var mnemonic = "drama bounce twist have capital impulse kitten derive system cruel robust song";

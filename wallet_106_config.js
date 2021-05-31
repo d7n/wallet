@@ -1,1 +1,1 @@
-var mnemonic = "enough close item early barrel pole universe boil wear monster find muscle";
+var mnemonic = "motor search salad fabric creek wear jeans make upon index wrong provide";

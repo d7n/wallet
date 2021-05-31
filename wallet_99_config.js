@@ -1,1 +1,1 @@
-var mnemonic = "logic myself meadow plastic step devote reunion crater awesome scene amount jacket";
+var mnemonic = "assault deal consider repeat violin agree cool sauce invite uniform hub naive";

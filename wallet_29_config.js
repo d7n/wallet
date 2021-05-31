@@ -1,1 +1,1 @@
-var mnemonic = "rail six document interest pen trash cart meat exotic near elite hard";
+var mnemonic = "mistake gallery valid stadium box employ present danger seminar hub lock dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure buyer merge short stick custom gasp beyond citizen flame lake camera";
+var mnemonic = "render grab mammal atom truck orbit tackle torch sleep plate when gasp";

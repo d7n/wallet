@@ -1,1 +1,1 @@
-var mnemonic = "else fly combine setup tent exist topple unhappy setup bitter bitter observe";
+var mnemonic = "exhibit demise catch unveil flee easy fade fox shock document typical unusual";

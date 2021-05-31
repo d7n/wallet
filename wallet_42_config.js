@@ -1,1 +1,1 @@
-var mnemonic = "ranch bullet slight unit blush crack picture disorder cotton talent engine ceiling";
+var mnemonic = "wait digital invite team power catalog erupt speak differ alter utility sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory grab flash extra volcano power side sort amateur spatial ostrich insect";
+var mnemonic = "belt bicycle enrich galaxy drift supreme history case culture uncle slim group";

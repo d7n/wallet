@@ -1,1 +1,1 @@
-var mnemonic = "deal trust one adult fun ready super emotion all report main steel";
+var mnemonic = "try very notice trust figure plunge book pistol gauge apple fiction spare";

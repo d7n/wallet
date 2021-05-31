@@ -1,1 +1,1 @@
-var mnemonic = "that trim scatter sail silk camera across tilt volcano dirt quality nut";
+var mnemonic = "forget inner public unfold portion shaft sad citizen glare inquiry fortune angle";

@@ -1,1 +1,1 @@
-var mnemonic = "boy entire tumble bird allow delay field lumber crazy dinosaur solid train";
+var mnemonic = "gold unlock donkey oval urge chunk tower first flag extra rent wave";

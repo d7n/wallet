@@ -1,1 +1,1 @@
-var mnemonic = "senior grab fat fancy kiwi boost angle pact thing word umbrella walnut";
+var mnemonic = "picture bag nerve potato waste position crucial evidence badge cost trigger soup";

@@ -1,1 +1,1 @@
-var mnemonic = "magic crop code shift noise father flat way safe siege unit lucky";
+var mnemonic = "hip problem demand joke twin cancel denial pet ocean seed twin goose";

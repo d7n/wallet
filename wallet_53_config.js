@@ -1,1 +1,1 @@
-var mnemonic = "submit number topic identify act energy vast ask treat tent amazing faith";
+var mnemonic = "dynamic muscle forum fatigue other goat type crisp lucky cup strategy stand";

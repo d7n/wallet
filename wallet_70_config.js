@@ -1,1 +1,1 @@
-var mnemonic = "shiver same artefact impact hockey impact milk knock lonely marble burst feed";
+var mnemonic = "pole grant apart flush vessel select sausage fiction armed office rebuild same";

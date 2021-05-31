@@ -1,1 +1,1 @@
-var mnemonic = "ski cancel genius fantasy discover say quit utility tourist mirror you glide";
+var mnemonic = "gas vault hockey excuse lemon dignity flag speak face benefit stairs today";

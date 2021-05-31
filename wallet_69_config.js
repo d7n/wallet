@@ -1,1 +1,1 @@
-var mnemonic = "start danger check sea beach secret excite orphan swear hover envelope child";
+var mnemonic = "ugly stumble awesome seven depend letter trap odor slot tiger damage radio";

@@ -1,1 +1,1 @@
-var mnemonic = "jump patient school claim parade waste middle photo faint shiver alarm sample";
+var mnemonic = "census switch aunt paper awful canoe coast coyote circle slender undo angle";

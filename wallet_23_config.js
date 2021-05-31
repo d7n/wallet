@@ -1,1 +1,1 @@
-var mnemonic = "access drive elevator fiber then lemon very vintage exit tone aerobic soap";
+var mnemonic = "rose number pretty joke eyebrow pact vital flavor lake tribe lamp exhibit";

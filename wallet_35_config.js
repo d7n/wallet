@@ -1,1 +1,1 @@
-var mnemonic = "defense slim search reward small exhaust poem invest struggle learn mistake alley";
+var mnemonic = "dial awesome item aerobic mushroom avoid scissors spirit genuine silly north expose";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra salad easily canvas final borrow kitchen stove raise target curtain street";
+var mnemonic = "urge abstract latin evidence belt cluster simple pumpkin put camera foam puppy";

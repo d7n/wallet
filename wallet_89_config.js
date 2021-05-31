@@ -1,1 +1,1 @@
-var mnemonic = "oak polar dumb join smile choice certain soccer question never square conduct";
+var mnemonic = "retire jealous empower sister account custom inherit put effort index sport boat";

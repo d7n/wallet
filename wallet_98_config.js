@@ -1,1 +1,1 @@
-var mnemonic = "code flight honey club teach force cycle waste jar embark define hub";
+var mnemonic = "tip race random toward donate drift horn punch during horn travel balcony";

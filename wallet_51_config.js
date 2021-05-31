@@ -1,1 +1,1 @@
-var mnemonic = "middle dentist entry cabin myth nut version floor cactus attend coral fix";
+var mnemonic = "absorb symptom file chuckle clump lens notice session input bubble hidden state";

@@ -1,1 +1,1 @@
-var mnemonic = "one parent double truth style finger double tip alarm pattern capital retire";
+var mnemonic = "balcony myth pill sample clever harvest expose survey aspect improve volume frown";

@@ -1,1 +1,1 @@
-var mnemonic = "nose receive wool erosion jewel head joke lemon mystery volume member mixture";
+var mnemonic = "birth attend section head fault merge coffee pig license husband rubber drop";

@@ -1,1 +1,1 @@
-var mnemonic = "task car nest pulp ghost library wet curve champion glove ankle genuine";
+var mnemonic = "session slide base divorce voyage equal enforce ethics boat nothing black blur";

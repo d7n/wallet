@@ -1,1 +1,1 @@
-var mnemonic = "possible input acoustic virtual museum strategy foil feature eight bonus hint subway";
+var mnemonic = "category course analyst paddle entire early casual execute cost fatigue script twist";

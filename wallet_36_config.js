@@ -1,1 +1,1 @@
-var mnemonic = "disagree issue solution injury umbrella gadget garage mushroom beach that mouse woman";
+var mnemonic = "pig mass stage eternal lawsuit hair two dwarf pool elder remember diamond";

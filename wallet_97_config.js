@@ -1,1 +1,1 @@
-var mnemonic = "timber robot web glimpse prison escape spoil join broom tail must athlete";
+var mnemonic = "false faint resemble youth bonus pluck burden ask about crush lunar cabin";

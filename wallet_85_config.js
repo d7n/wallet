@@ -1,1 +1,1 @@
-var mnemonic = "hard east install erase pyramid casino fruit evil owner decide wait open";
+var mnemonic = "fan carpet hip glow multiply skill energy work shine owner goddess draw";

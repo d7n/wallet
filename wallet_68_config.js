@@ -1,1 +1,1 @@
-var mnemonic = "sword fun mandate flower clown exile tip pistol amused burst language choose";
+var mnemonic = "sleep phrase circle glory obey hold camp agent gift ladder next rack";

@@ -1,1 +1,1 @@
-var mnemonic = "normal nominee flag universe solution spirit addict expire cousin void virtual service";
+var mnemonic = "regular upgrade spare royal canvas sing reopen head kingdom bounce kick casino";

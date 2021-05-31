@@ -1,1 +1,1 @@
-var mnemonic = "exit casino lesson flame viable domain elephant sugar local suit crazy shock";
+var mnemonic = "capital normal certain pistol raw future dog offer gauge before honey hedgehog";

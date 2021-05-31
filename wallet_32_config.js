@@ -1,1 +1,1 @@
-var mnemonic = "pole express range axis truly dilemma clump easily gather language song chicken";
+var mnemonic = "female brief side bitter rule leg neither devote gadget just hire tray";

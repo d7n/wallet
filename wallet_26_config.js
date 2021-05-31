@@ -1,1 +1,1 @@
-var mnemonic = "cross under puzzle area north fatal fragile mammal cousin lake boring addict";
+var mnemonic = "call pulp nasty fan lawsuit faith genre olympic despair despair yellow warm";

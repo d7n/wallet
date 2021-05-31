@@ -1,1 +1,1 @@
-var mnemonic = "blind lava black monster join parent relax scatter doctor market recipe fix";
+var mnemonic = "canoe bag green wink until dawn wife dose mushroom unhappy hockey dismiss";

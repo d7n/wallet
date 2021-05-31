@@ -1,1 +1,1 @@
-var mnemonic = "rely edge elegant bottom token mobile inner another material rally fossil wisdom";
+var mnemonic = "exotic desk happy album sphere arctic desk brown midnight busy excite length";

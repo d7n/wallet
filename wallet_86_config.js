@@ -1,1 +1,1 @@
-var mnemonic = "possible deposit web busy speed stock private trip rude fade digital tobacco";
+var mnemonic = "copper ozone develop stomach mercy crater belt media ski swear error easily";

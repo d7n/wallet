@@ -1,1 +1,1 @@
-var mnemonic = "promote water palace peasant flower bicycle gain visa trip laundry front law";
+var mnemonic = "strike problem true party small milk satisfy property flag sad chuckle walnut";

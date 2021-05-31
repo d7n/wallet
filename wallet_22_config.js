@@ -1,1 +1,1 @@
-var mnemonic = "lobster link hamster process scout paddle grass scorpion shield brand humble lonely";
+var mnemonic = "reward another flee pizza method knock rescue price shift fever lab melody";

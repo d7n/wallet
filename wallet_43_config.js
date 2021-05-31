@@ -1,1 +1,1 @@
-var mnemonic = "unique surge twin lesson ride cattle ripple quantum lawsuit neutral either point";
+var mnemonic = "drive barrel squeeze rifle idea wrap increase lawsuit tobacco bind skull dry";

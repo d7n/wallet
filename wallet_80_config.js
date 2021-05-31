@@ -1,1 +1,1 @@
-var mnemonic = "friend chair merit unable skate crucial soul coconut sort gesture train analyst";
+var mnemonic = "waste blood angry firm knife notice protect match knife emerge fun youth";

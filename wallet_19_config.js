@@ -1,1 +1,1 @@
-var mnemonic = "shine unaware found enact rabbit wage retire siege soda ring crouch glare";
+var mnemonic = "slide century shoot admit chapter pink drip forum bracket exit canvas marriage";

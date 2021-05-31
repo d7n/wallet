@@ -1,1 +1,1 @@
-var mnemonic = "pistol alone thing forget cherry image glove sauce ripple tattoo grain wish";
+var mnemonic = "trust mosquito identify lamp mixed laundry wait snake circle negative unfair paper";

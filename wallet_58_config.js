@@ -1,1 +1,1 @@
-var mnemonic = "setup round boat silk provide issue diagram border force text plastic sun";
+var mnemonic = "monster toss maximum topple waste shiver hybrid replace power throw fashion confirm";

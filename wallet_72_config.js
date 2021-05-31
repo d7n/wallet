@@ -1,1 +1,1 @@
-var mnemonic = "below inch faint merge census round ticket index alert common fetch ring";
+var mnemonic = "catch obvious sadness expect enlist explain column abuse bring cluster hole coil";

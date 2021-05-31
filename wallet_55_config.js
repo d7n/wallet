@@ -1,1 +1,1 @@
-var mnemonic = "execute genre harvest render lion canyon raven width wrong anchor jacket much";
+var mnemonic = "laugh sphere tattoo attend huge cancel shiver list agree embody logic bridge";

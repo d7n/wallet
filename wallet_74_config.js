@@ -1,1 +1,1 @@
-var mnemonic = "color torch proud pet riot current undo icon tornado office exile identify";
+var mnemonic = "fee trip way shrug service cloud scrub lend tiger escape negative nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "august runway able occur treat rice service grab island check crunch interest";
+var mnemonic = "ugly hedgehog sustain pink west convince boil rule loud display silk expire";

@@ -1,1 +1,1 @@
-var mnemonic = "claim arrest stool own song nice eye wife brush rent report athlete";
+var mnemonic = "camera kingdom school wrist antique forest shuffle cry afraid fantasy maximum nation";

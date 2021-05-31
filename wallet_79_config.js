@@ -1,1 +1,1 @@
-var mnemonic = "please wheat mountain shed umbrella immune fall fun tooth hamster nice sorry";
+var mnemonic = "armed poet appear gym tumble apple harvest creek salon aunt mimic strike";

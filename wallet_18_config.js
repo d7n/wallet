@@ -1,1 +1,1 @@
-var mnemonic = "speed sponsor relief crawl fossil mercy scout profit whip nothing tip trend";
+var mnemonic = "mutual pair select cloth swear mom suspect note involve vault enemy height";

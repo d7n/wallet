@@ -1,1 +1,1 @@
-var mnemonic = "agent goose penalty cloud night equal dial runway swim spring blind kite";
+var mnemonic = "melt habit exercise claw cycle sadness slush goat enter torch bring impose";

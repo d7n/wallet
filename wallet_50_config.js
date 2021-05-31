@@ -1,1 +1,1 @@
-var mnemonic = "pencil pear barely off two census pipe prepare mercy eternal merry ten";
+var mnemonic = "master bachelor reward common sketch one viable assist boost crazy leave mesh";

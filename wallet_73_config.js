@@ -1,1 +1,1 @@
-var mnemonic = "pink wheat master mutual involve visa devote cushion basic viable ordinary place";
+var mnemonic = "stick pumpkin announce nut arm rebel cash have round vintage upgrade nominee";

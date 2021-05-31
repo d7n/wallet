@@ -1,1 +1,1 @@
-var mnemonic = "alley impact table play equal cup goddess lunch medal tail gadget priority";
+var mnemonic = "wide praise script deliver perfect elite illegal scare foster strike sister scout";

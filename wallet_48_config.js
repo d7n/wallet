@@ -1,1 +1,1 @@
-var mnemonic = "afford blossom crowd garment crumble hood focus term soul country submit divide";
+var mnemonic = "junk amateur crazy rhythm aunt poverty mutual wonder wage index planet jazz";

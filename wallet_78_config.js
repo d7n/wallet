@@ -1,1 +1,1 @@
-var mnemonic = "economy pond spare elegant glance target wonder shrimp agent forum bleak cement";
+var mnemonic = "city upgrade moment gather fruit hunt tuna news mesh detail couple various";

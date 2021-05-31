@@ -1,1 +1,1 @@
-var mnemonic = "arena second throw orphan joy draft amazing denial eternal start churn enforce";
+var mnemonic = "toilet prize crash sea ahead collect worth strong pulp code twist model";

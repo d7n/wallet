@@ -1,1 +1,1 @@
-var mnemonic = "absent prefer manage enjoy know snap melt shoot anchor jewel door void";
+var mnemonic = "apple tiny elegant hollow aim daughter trend second chronic height blind insect";

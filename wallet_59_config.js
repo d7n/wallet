@@ -1,1 +1,1 @@
-var mnemonic = "main soft fault traffic pony borrow wide chicken local picture limb then";
+var mnemonic = "flash monkey tonight owner faith craft segment street outer balance dust anger";

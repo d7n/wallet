@@ -1,1 +1,1 @@
-var mnemonic = "pitch armed lizard length payment increase erase measure true innocent brush word";
+var mnemonic = "twist weapon enlist combine human daughter hole luggage sick foil fragile romance";

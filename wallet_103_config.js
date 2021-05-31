@@ -1,1 +1,1 @@
-var mnemonic = "hen toe mammal carry exile match tissue glue frozen wood confirm joy";
+var mnemonic = "panic emerge slam focus breeze lecture joke clump any major pupil walnut";

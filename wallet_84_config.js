@@ -1,1 +1,1 @@
-var mnemonic = "rather become december abstract shoulder thought radar club concert phrase anchor useful";
+var mnemonic = "dinosaur syrup catalog trend visit hamster armor say tower opinion heavy genius";

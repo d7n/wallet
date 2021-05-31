@@ -1,1 +1,1 @@
-var mnemonic = "swarm display lock power able name crew ship kid fat match relief";
+var mnemonic = "club wish obvious virus noise sting clay hammer game nasty valley describe";

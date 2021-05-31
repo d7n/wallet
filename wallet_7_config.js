@@ -1,1 +1,1 @@
-var mnemonic = "spawn better brain captain slow surprise adapt gesture cool fall gallery snow";
+var mnemonic = "casino legend attract cram desk erode spider near home bone link cannon";

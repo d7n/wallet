@@ -1,1 +1,1 @@
-var mnemonic = "found service require wagon ketchup author cable simple melody chat bubble echo";
+var mnemonic = "note fruit rhythm leader odor bridge gun bulb seven inspire payment strategy";

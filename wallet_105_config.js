@@ -1,1 +1,1 @@
-var mnemonic = "minor profit penalty jeans broken short voice gather fold engine chronic carry";
+var mnemonic = "mule piece faint divert hamster rice now purpose utility strike trouble large";

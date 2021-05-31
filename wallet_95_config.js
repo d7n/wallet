@@ -1,1 +1,1 @@
-var mnemonic = "cat bundle jar chat master spring snow cheap sword raccoon pizza valve";
+var mnemonic = "blue sheriff pony civil tired horror staff volcano offer illegal stick fade";

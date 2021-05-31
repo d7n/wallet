@@ -1,1 +1,1 @@
-var mnemonic = "misery marriage main mind orchard movie unknown citizen spice stumble village try";
+var mnemonic = "price grape physical blast basic poet fall attract pony resource return girl";

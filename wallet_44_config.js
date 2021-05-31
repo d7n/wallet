@@ -1,1 +1,1 @@
-var mnemonic = "notice pool pony will drip cat soap breeze cluster genius scrub deliver";
+var mnemonic = "father release wash manage total monster rival night world lake potato virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "service gain occur castle object mule all minor oppose oak patient dynamic";
+var mnemonic = "manual hand spot grace dinner hurdle peanut loud shield admit model response";

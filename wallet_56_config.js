@@ -1,1 +1,1 @@
-var mnemonic = "category defense mention cabin piece same earth hammer eye fall excess burger";
+var mnemonic = "camp praise trigger rotate boss fortune author torch glance chief tortoise table";

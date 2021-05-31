@@ -1,1 +1,1 @@
-var mnemonic = "buzz rack sustain float slam topple forest lounge main under spatial coil";
+var mnemonic = "swift rude robot tuna middle resemble treat twenty auto daring brother session";

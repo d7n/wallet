@@ -1,1 +1,1 @@
-var mnemonic = "toe kite rule coin wage baby rack fiscal behind survey obscure clean";
+var mnemonic = "random fit cruel message share shoe drift basic retire lesson genuine lucky";

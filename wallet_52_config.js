@@ -1,1 +1,1 @@
-var mnemonic = "grit bomb course ankle pause rice december season later icon school false";
+var mnemonic = "excuse gown index venue mountain chronic tank wait tattoo mimic recycle squeeze";

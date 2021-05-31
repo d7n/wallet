@@ -1,1 +1,1 @@
-var mnemonic = "feel other body boy dinosaur scatter green until blame mean theme unusual";
+var mnemonic = "panic near sustain spend area teach practice kidney spray jazz anger spawn";

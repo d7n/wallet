@@ -1,1 +1,1 @@
-var mnemonic = "pole clap aisle call steel punch potato mango credit custom rifle october";
+var mnemonic = "lonely convince shock cheese sphere until rely solid fall about supply place";

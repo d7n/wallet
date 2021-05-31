@@ -1,1 +1,1 @@
-var mnemonic = "resemble slice inform idea tissue canyon offer smart force demise donor share";
+var mnemonic = "wolf swift chalk account spike van dizzy sell bunker focus roast addict";

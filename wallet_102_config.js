@@ -1,1 +1,1 @@
-var mnemonic = "hold differ gossip bind violin citizen comic time general wet embark sail";
+var mnemonic = "idea laugh afford worry clarify arrest sea rare solve health clarify amateur";

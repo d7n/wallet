@@ -1,1 +1,1 @@
-var mnemonic = "invite boring rebel inflict obscure sight affair document vivid melt craft describe";
+var mnemonic = "memory captain express vibrant alone zoo anger aisle motion vanish culture spare";

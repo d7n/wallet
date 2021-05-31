@@ -1,1 +1,1 @@
-var mnemonic = "future open ball junk version tiger harvest risk plate athlete winner outdoor";
+var mnemonic = "drink tunnel rude large person online market feed bread ask prefer slice";
