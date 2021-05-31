@@ -1,1 +1,1 @@
-var mnemonic = "grain below display lizard garden hollow sugar view fatal rice disorder onion";
+var mnemonic = "dutch push author twin detect cube solid zebra spin egg rice cage";

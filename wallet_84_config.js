@@ -1,1 +1,1 @@
-var mnemonic = "slender absurd punch can bid injury private indicate leg mystery opinion giant";
+var mnemonic = "steel degree release universe circle bridge people ice enact interest coconut end";

@@ -1,1 +1,1 @@
-var mnemonic = "reason mercy fine pilot south truth sell payment famous year across impact";
+var mnemonic = "rebel unfair medal wasp rib birth body once hint buddy adjust scatter";

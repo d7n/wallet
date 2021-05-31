@@ -1,1 +1,1 @@
-var mnemonic = "monkey napkin ritual debris age cliff pulse citizen trophy ring husband skin";
+var mnemonic = "sample solve until code neither ramp use buffalo normal august put practice";

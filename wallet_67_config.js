@@ -1,1 +1,1 @@
-var mnemonic = "injury weird erase electric ridge arctic armed small episode merry senior lens";
+var mnemonic = "tool mosquito pigeon wait tool maid nest cement fiber useless humble cricket";

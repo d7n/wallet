@@ -1,1 +1,1 @@
-var mnemonic = "elephant excuse father emerge sausage chalk entire ignore better road bright sell";
+var mnemonic = "crumble impact barrel adapt jelly lizard feature present report dog dust region";

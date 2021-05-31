@@ -1,1 +1,1 @@
-var mnemonic = "script stock three soda extend candy fold cash fuel clog acquire marine";
+var mnemonic = "wear very modify wisdom dentist shell already again exchange captain owner minimum";

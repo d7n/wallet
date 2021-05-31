@@ -1,1 +1,1 @@
-var mnemonic = "slot end shell beef dress clutch detail allow fresh birth lumber increase";
+var mnemonic = "album renew wide they wall bone culture achieve today flight ecology brave";

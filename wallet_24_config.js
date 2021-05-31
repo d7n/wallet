@@ -1,1 +1,1 @@
-var mnemonic = "attend happy argue want aisle juice roast sting skate little cement muscle";
+var mnemonic = "indicate foil absorb cattle brush worry owner sock sunset ocean visit culture";

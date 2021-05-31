@@ -1,1 +1,1 @@
-var mnemonic = "cost bean poem manage extend alarm million seven grief expose smoke urban";
+var mnemonic = "balance around hole gorilla napkin rotate remain catalog capable flush olympic pear";

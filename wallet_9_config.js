@@ -1,1 +1,1 @@
-var mnemonic = "exercise desk hard sugar trash rule field have denial young notable thumb";
+var mnemonic = "region indicate decide joy chest soccer travel option switch wealth click slot";

@@ -1,1 +1,1 @@
-var mnemonic = "shine accident half casino honey century wish body crucial acquire negative cage";
+var mnemonic = "foil amateur above elite wolf health humble acquire phrase sad moon hub";

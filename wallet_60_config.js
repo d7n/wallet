@@ -1,1 +1,1 @@
-var mnemonic = "bubble unaware evolve kitchen beef clip web erupt donor bullet trip vague";
+var mnemonic = "laundry loud agree family blame draw main magnet paddle student eyebrow knee";

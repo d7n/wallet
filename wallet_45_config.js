@@ -1,1 +1,1 @@
-var mnemonic = "artist tip virus chest catalog host hurdle space hurt myself rude social";
+var mnemonic = "arrest tell mountain resource fame stem vault hybrid girl chest pass honey";

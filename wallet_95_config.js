@@ -1,1 +1,1 @@
-var mnemonic = "squirrel please area zebra midnight item camera sweet refuse dog change occur";
+var mnemonic = "replace age believe sudden bid point initial toddler clump wreck empty security";

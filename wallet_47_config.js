@@ -1,1 +1,1 @@
-var mnemonic = "add cabin enforce slogan trap upgrade fragile walnut crawl casino car sort";
+var mnemonic = "whale nest garlic project awake attract term erase birth bundle flip wet";

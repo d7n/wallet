@@ -1,1 +1,1 @@
-var mnemonic = "sketch salute thank actress mass abuse piece nerve air sock loud another";
+var mnemonic = "rate adult control aim pig moon medal forget beef option potato erupt";

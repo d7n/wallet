@@ -1,1 +1,1 @@
-var mnemonic = "bronze sauce citizen inform unveil patient online click holiday egg furnace east";
+var mnemonic = "venture stone afraid fluid ordinary slender govern viable boy pave arrest amateur";

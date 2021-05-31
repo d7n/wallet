@@ -1,1 +1,1 @@
-var mnemonic = "aisle favorite sheriff draft perfect indoor potato boost camera tone neutral thing";
+var mnemonic = "kangaroo divorce recipe census stereo biology loud thought mix fruit add escape";

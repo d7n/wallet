@@ -1,1 +1,1 @@
-var mnemonic = "warm bamboo heavy victory toe school patient valley follow caution denial exotic";
+var mnemonic = "survey quality glare lady hurt weather finish eternal sun hurry prevent winter";

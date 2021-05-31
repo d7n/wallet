@@ -1,1 +1,1 @@
-var mnemonic = "voyage dilemma cable physical rose lawn pony potato tattoo pioneer flower smart";
+var mnemonic = "search bless position expire solution spell limb airport elbow solar scheme year";

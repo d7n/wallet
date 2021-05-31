@@ -1,1 +1,1 @@
-var mnemonic = "depart struggle clerk reduce worth orphan federal poem magic flavor print bright";
+var mnemonic = "friend blossom harbor nuclear object grunt obvious panda scene apple member either";

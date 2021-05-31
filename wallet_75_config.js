@@ -1,1 +1,1 @@
-var mnemonic = "ethics sheriff tent impulse tool market hire wish rich business garden trust";
+var mnemonic = "knock burden rubber shop omit live machine winner pause mimic need write";

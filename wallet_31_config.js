@@ -1,1 +1,1 @@
-var mnemonic = "street question loud usual camera dune involve uniform enrich upper aunt slab";
+var mnemonic = "trophy remind improve staff nuclear ramp creek member student sustain pigeon genre";

@@ -1,1 +1,1 @@
-var mnemonic = "acid door cruel virus father ladder garden orphan correct repeat lecture brave";
+var mnemonic = "wish offer whale jealous usual language sauce village daughter artefact current purity";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud praise scout this artefact give lazy sunny fold volcano obvious broom";
+var mnemonic = "maid must tail firm appear moral grant about perfect path twice toy";

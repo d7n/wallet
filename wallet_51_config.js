@@ -1,1 +1,1 @@
-var mnemonic = "dumb disease normal piece mother castle ethics beef label pave clock cluster";
+var mnemonic = "food matrix access ribbon sponsor slim harbor moment diagram team seed badge";

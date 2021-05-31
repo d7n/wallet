@@ -1,1 +1,1 @@
-var mnemonic = "dust elder picture lottery type meadow typical broccoli unable grunt rapid village";
+var mnemonic = "trumpet zoo people absorb spirit bacon soda govern inherit obscure pelican tube";

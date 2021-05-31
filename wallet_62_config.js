@@ -1,1 +1,1 @@
-var mnemonic = "history sugar trouble crawl cool grass stove physical hero sorry hip leg";
+var mnemonic = "size settle offer hunt work moment sister fetch stuff member symbol practice";

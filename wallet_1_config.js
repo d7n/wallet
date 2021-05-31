@@ -1,1 +1,1 @@
-var mnemonic = "diagram ozone steak remember dash accuse legal exercise inch solution thumb session";
+var mnemonic = "divorce crunch inject absorb stumble hurt timber cause draw high often feed";

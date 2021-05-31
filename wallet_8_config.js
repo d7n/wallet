@@ -1,1 +1,1 @@
-var mnemonic = "number copy thank sibling tent crater volcano relief blossom either razor midnight";
+var mnemonic = "possible destroy drama wagon sick relief large injury garlic half liberty rule";

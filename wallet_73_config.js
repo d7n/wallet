@@ -1,1 +1,1 @@
-var mnemonic = "awful main rebuild spin adapt same earth message unhappy force gate impact";
+var mnemonic = "ramp swim often ski chapter rule vessel upset text drink simple you";

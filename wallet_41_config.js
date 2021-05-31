@@ -1,1 +1,1 @@
-var mnemonic = "wild sand bus know hazard struggle crush hollow gate rubber bid gesture";
+var mnemonic = "setup swamp main wedding theory cheap tired caution side patrol cricket pet";

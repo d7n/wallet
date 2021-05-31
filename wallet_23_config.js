@@ -1,1 +1,1 @@
-var mnemonic = "misery local scrap session tuition believe bicycle analyst miracle slogan grape embrace";
+var mnemonic = "regular tape insect until fall boat quote wrestle opinion protect goose grid";

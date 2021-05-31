@@ -1,1 +1,1 @@
-var mnemonic = "fault history valid team screen borrow sauce claim athlete rent merge color";
+var mnemonic = "blast width diamond fiscal ginger alert because seed tide diesel beef universe";

@@ -1,1 +1,1 @@
-var mnemonic = "design marine marble glass coral nest citizen one fog strategy glare uphold";
+var mnemonic = "language try have afraid sweet fabric speak patient denial tape bright present";

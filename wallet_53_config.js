@@ -1,1 +1,1 @@
-var mnemonic = "merge spatial cause magic foam spare flat funny timber inform okay select";
+var mnemonic = "one jeans vicious ethics cheap glimpse blast tenant cherry banner shoot hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "current captain best immense ahead beef crawl endless disagree poem income predict";
+var mnemonic = "mountain fame trophy volume manage image day order dumb guess genuine twin";

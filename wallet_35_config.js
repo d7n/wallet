@@ -1,1 +1,1 @@
-var mnemonic = "memory toast satoshi deer gallery unknown east wild depart question poverty injury";
+var mnemonic = "real piano hazard zero note replace dust episode once mystery rookie letter";

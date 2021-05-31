@@ -1,1 +1,1 @@
-var mnemonic = "online glow post hope flee grab game neck allow just ocean key";
+var mnemonic = "gravity vibrant milk spare scissors bulb drum hen supreme horn black weasel";

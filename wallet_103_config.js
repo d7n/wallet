@@ -1,1 +1,1 @@
-var mnemonic = "burden scale twist negative typical ginger flower derive exile assault lift bulb";
+var mnemonic = "small bundle spy faculty assault patrol consider dentist polar curtain army sugar";

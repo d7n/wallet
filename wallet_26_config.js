@@ -1,1 +1,1 @@
-var mnemonic = "replace gown skull obey swallow velvet modify suggest affair grow damage later";
+var mnemonic = "opera river grunt govern actress swift system script lava season luggage used";

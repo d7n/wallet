@@ -1,1 +1,1 @@
-var mnemonic = "rare drink lecture cotton skirt improve autumn later assault pattern turtle invest";
+var mnemonic = "prefer tomorrow saddle tell luggage sea raven drum popular bubble hold senior";

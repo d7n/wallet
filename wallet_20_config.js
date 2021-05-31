@@ -1,1 +1,1 @@
-var mnemonic = "ceiling across brown inspire school firm reopen second gentle kid second ocean";
+var mnemonic = "another pattern sense cricket dune caution access fiber flame tooth fatigue cattle";

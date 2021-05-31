@@ -1,1 +1,1 @@
-var mnemonic = "ramp choose express enforce penalty neutral carbon symbol kit dignity power clown";
+var mnemonic = "find decline stay ski rude away wisdom doll tortoise border couple pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm control lady exile deal push pond mask horse forward tattoo razor";
+var mnemonic = "slam rapid achieve trick plastic select flush wet tree fossil leaf raw";

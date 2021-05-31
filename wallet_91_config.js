@@ -1,1 +1,1 @@
-var mnemonic = "chuckle warm trumpet face section green debris author gloom license gossip math";
+var mnemonic = "fatal language state weekend wrestle mammal cigar bounce swear birth theme lesson";

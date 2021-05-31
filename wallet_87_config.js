@@ -1,1 +1,1 @@
-var mnemonic = "medal comic normal grace fiber clap mule zero satisfy cake payment invest";
+var mnemonic = "language chef once kid either awful palace unfair bargain cart rich corn";

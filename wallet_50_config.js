@@ -1,1 +1,1 @@
-var mnemonic = "cherry gossip embark slight pulp walnut day tennis similar region maximum level";
+var mnemonic = "this keen umbrella super cereal doll siege someone shaft replace minute blanket";

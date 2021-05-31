@@ -1,1 +1,1 @@
-var mnemonic = "stool treat hunt jacket ugly short soda stumble pottery ignore equip choose";
+var mnemonic = "order kit maid camp print laundry bread sentence lyrics language frequent remain";

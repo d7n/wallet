@@ -1,1 +1,1 @@
-var mnemonic = "minimum brother please submit month vapor purpose scale retreat round stage clown";
+var mnemonic = "alcohol shoe language shock upper nurse flower rival dragon narrow nominee power";

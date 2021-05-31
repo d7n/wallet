@@ -1,1 +1,1 @@
-var mnemonic = "cousin mixed trade glass leisure dish diamond paper there vocal salmon brisk";
+var mnemonic = "remember march scan mosquito treat machine screen educate slim mail blood acquire";

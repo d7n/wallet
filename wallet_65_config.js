@@ -1,1 +1,1 @@
-var mnemonic = "soap easy kiwi green advance phone follow shoot flavor pen define isolate";
+var mnemonic = "little alcohol outside ship crouch guilt file belt favorite exercise noodle trouble";

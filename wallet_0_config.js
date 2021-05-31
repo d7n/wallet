@@ -1,1 +1,1 @@
-var mnemonic = "pen point increase pioneer unique eager affair image spell news certain aerobic";
+var mnemonic = "lens stage now attitude sad goddess coin census much fiber guilt regret";

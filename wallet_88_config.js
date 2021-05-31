@@ -1,1 +1,1 @@
-var mnemonic = "task risk wreck verb hero rude custom ranch fame move rescue school";
+var mnemonic = "winner light mother original six party urge rather broccoli domain critic until";

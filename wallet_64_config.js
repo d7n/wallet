@@ -1,1 +1,1 @@
-var mnemonic = "enemy tornado soul naive sugar sweet mother control blast regular hub sad";
+var mnemonic = "hollow exit uncle useless grocery unlock write science oppose relax evidence mind";

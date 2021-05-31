@@ -1,1 +1,1 @@
-var mnemonic = "dune fever enter sun struggle whale practice nest fatigue slab attack opera";
+var mnemonic = "reject document online maze dog pull firm gentle tortoise tone exhibit floor";

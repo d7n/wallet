@@ -1,1 +1,1 @@
-var mnemonic = "sample enrich hat little kit certain sport chimney blossom water miss defense";
+var mnemonic = "unfold gorilla castle sick recall educate airport install account client suggest brick";

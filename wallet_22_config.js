@@ -1,1 +1,1 @@
-var mnemonic = "child goat ring spring engage hour dutch skate alarm stable green size";
+var mnemonic = "feed calm lens two good course brisk such pole bacon ranch kiwi";

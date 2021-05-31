@@ -1,1 +1,1 @@
-var mnemonic = "large manage solar sword budget mystery forward decline other when copy renew";
+var mnemonic = "artist foam carbon check chaos special help stamp city range include property";

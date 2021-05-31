@@ -1,1 +1,1 @@
-var mnemonic = "nothing fiber clarify chef broken cup trouble pass august next diet bless";
+var mnemonic = "myself swing around wild family smile bonus ugly want chef nest physical";

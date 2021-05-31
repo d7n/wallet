@@ -1,1 +1,1 @@
-var mnemonic = "grief solar blossom joke task wing educate quality utility morning slab enforce";
+var mnemonic = "omit eight gift liar midnight first veteran wave cage chronic oppose danger";

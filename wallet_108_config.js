@@ -1,1 +1,1 @@
-var mnemonic = "rib hover inmate chat broken lake display junk rhythm board member time";
+var mnemonic = "noble civil picnic priority family biology joy upon exhibit party lamp whip";

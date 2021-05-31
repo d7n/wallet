@@ -1,1 +1,1 @@
-var mnemonic = "win mail dash impulse spy crater doctor awkward garbage club that pipe";
+var mnemonic = "kangaroo glass found tomato dune ripple pledge bone marble ostrich powder exhibit";

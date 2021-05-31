@@ -1,1 +1,1 @@
-var mnemonic = "broom payment cross into tribe globe glue lab unlock before smooth spare";
+var mnemonic = "ice lens enable fat pulse inspire sauce human april misery suit horse";

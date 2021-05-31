@@ -1,1 +1,1 @@
-var mnemonic = "concert foil good announce erase rug civil exile engine brave start issue";
+var mnemonic = "top lawn satisfy nice adult cost street wedding sail modify dress possible";

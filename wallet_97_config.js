@@ -1,1 +1,1 @@
-var mnemonic = "mask allow blouse tooth venue key year great height face tell dilemma";
+var mnemonic = "room valve calm vivid sport test fortune decade this message swear kidney";

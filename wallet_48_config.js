@@ -1,1 +1,1 @@
-var mnemonic = "shoe guide faith lazy proof load owner dice today firm tunnel village";
+var mnemonic = "ice volcano blue lizard ocean question panic arctic ill crime trade expire";

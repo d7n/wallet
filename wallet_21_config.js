@@ -1,1 +1,1 @@
-var mnemonic = "youth tuition arctic hire wash swallow indicate crack half outer wet endless";
+var mnemonic = "ceiling gorilla issue daring black fruit whisper morning lunar address margin lens";

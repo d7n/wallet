@@ -1,1 +1,1 @@
-var mnemonic = "address where brass hard inform forest promote punch tomato render among choose";
+var mnemonic = "clutch suggest motion leader orchard hunt come that soldier input hold lunch";

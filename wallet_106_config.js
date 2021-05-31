@@ -1,1 +1,1 @@
-var mnemonic = "any above system success inform minimum reward food draft push reward circle";
+var mnemonic = "luxury follow toast remember memory guard calm pyramid wait detect eye ladder";

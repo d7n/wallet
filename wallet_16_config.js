@@ -1,1 +1,1 @@
-var mnemonic = "truth short popular equip frequent route satoshi return chest unfold buyer stereo";
+var mnemonic = "reject reunion easily puppy evoke ignore trade sister example term empower confirm";

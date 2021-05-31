@@ -1,1 +1,1 @@
-var mnemonic = "ticket bag today wasp immense corn feed rent amateur ride spirit candy";
+var mnemonic = "bulb dance blur ranch vivid federal lunch anchor wage width crop velvet";

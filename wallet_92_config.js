@@ -1,1 +1,1 @@
-var mnemonic = "venue slogan humble canvas kit brief sing glory aerobic dragon try engage";
+var mnemonic = "young kid gap priority spin body pioneer match student swamp farm grass";

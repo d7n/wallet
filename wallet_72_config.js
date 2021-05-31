@@ -1,1 +1,1 @@
-var mnemonic = "ordinary alcohol cabin winter tunnel ostrich side risk column east safe limit";
+var mnemonic = "license program above used cruel crew purse park envelope until raccoon dance";

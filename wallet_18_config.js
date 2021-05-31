@@ -1,1 +1,1 @@
-var mnemonic = "audit shrug only soccer page stand alter purse evil enhance spawn what";
+var mnemonic = "steel unfair language mad couple hair play manage oxygen shoe security time";

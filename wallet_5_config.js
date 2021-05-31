@@ -1,1 +1,1 @@
-var mnemonic = "earth mirror dry merge school file amazing fix alpha exotic country state";
+var mnemonic = "undo vital maze curtain olive say elder appear unfair mushroom lift bunker";

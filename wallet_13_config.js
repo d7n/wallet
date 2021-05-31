@@ -1,1 +1,1 @@
-var mnemonic = "decade decline father escape patch vocal year marble main bus disorder salon";
+var mnemonic = "bottom hero cave april lunch ship phone idea steel display sibling climb";

@@ -1,1 +1,1 @@
-var mnemonic = "unable trophy pond fuel exist badge swap drill myth deliver enforce omit";
+var mnemonic = "wrist wash screen moment index arena supply spatial grain alone twin artist";

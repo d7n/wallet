@@ -1,1 +1,1 @@
-var mnemonic = "expire voice crop cloth cycle trash avoid creek mistake prison bottom conduct";
+var mnemonic = "where great traffic initial beach define fold rude piece someone apple casual";

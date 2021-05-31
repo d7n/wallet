@@ -1,1 +1,1 @@
-var mnemonic = "leaf virus point invest forward border extra aisle admit virtual drift judge";
+var mnemonic = "vacuum mandate hood bargain coconut grass include foil defy final flavor slab";

@@ -1,1 +1,1 @@
-var mnemonic = "flock combine remind rookie under balcony divorce fine style walnut animal fade";
+var mnemonic = "pair point spider labor guard message enough blade pigeon forget life life";

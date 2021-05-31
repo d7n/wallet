@@ -1,1 +1,1 @@
-var mnemonic = "segment pepper olive own jeans erase lunch door can endless embark chicken";
+var mnemonic = "place pipe home ability grain scout hole abstract behind reopen cactus soccer";

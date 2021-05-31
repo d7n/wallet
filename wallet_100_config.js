@@ -1,1 +1,1 @@
-var mnemonic = "wage wire satoshi pole company parent muffin sand purchase knife aunt awake";
+var mnemonic = "quote juice sight arctic laundry flush assault use follow switch provide arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "possible horn fever venue oxygen tilt beach horn kitchen dwarf rotate feed";
+var mnemonic = "earth muscle indoor step bachelor wasp craft soup beauty awkward hat bridge";

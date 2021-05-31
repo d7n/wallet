@@ -1,1 +1,1 @@
-var mnemonic = "bomb crouch intact detect few focus achieve tortoise inform tomato glide equal";
+var mnemonic = "lunar rice glide acoustic crane icon common sunny oxygen script column lobster";
