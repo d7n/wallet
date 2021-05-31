@@ -1,1 +1,1 @@
-var mnemonic = "silk ankle include journey artefact earn subject photo maze squirrel slide correct";
+var mnemonic = "inch tray sheriff menu position mask tenant name legend install airport coil";

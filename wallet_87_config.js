@@ -1,1 +1,1 @@
-var mnemonic = "way lounge laundry tennis offer swallow drum cream sting slim exact session";
+var mnemonic = "retreat fragile inhale ivory raccoon box mouse betray urge retire cheese erode";

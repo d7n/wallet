@@ -1,1 +1,1 @@
-var mnemonic = "funny learn shed text divide list sadness town lesson liberty jungle zero";
+var mnemonic = "among drip jungle sleep blame feature spatial habit concert bachelor typical town";

@@ -1,1 +1,1 @@
-var mnemonic = "nut dune cradle sphere sudden state either involve mixture prepare spike dizzy";
+var mnemonic = "salt ramp giraffe bright vital snow razor enable nothing prosper habit wing";

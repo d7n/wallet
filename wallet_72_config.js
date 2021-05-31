@@ -1,1 +1,1 @@
-var mnemonic = "chief genuine provide sadness garlic caught patch wire immense team ski couple";
+var mnemonic = "friend unlock mother lawn across honey edge tray smart occur mother system";

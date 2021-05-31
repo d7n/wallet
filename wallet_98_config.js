@@ -1,1 +1,1 @@
-var mnemonic = "maximum cigar ordinary mansion auto twin hamster shadow panic thank machine increase";
+var mnemonic = "warm use this lonely inside delay style nothing twist behave maid ostrich";

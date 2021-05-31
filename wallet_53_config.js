@@ -1,1 +1,1 @@
-var mnemonic = "grace flock fall layer enlist glance stay account wreck cherry pulse genuine";
+var mnemonic = "robot vital polar bomb chicken salute lunch equal exclude popular since admit";

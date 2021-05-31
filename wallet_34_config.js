@@ -1,1 +1,1 @@
-var mnemonic = "broom property situate vanish plastic nuclear congress leader lecture sweet aspect ability";
+var mnemonic = "whale tip about either knee access dirt sunny ancient empty motion digital";

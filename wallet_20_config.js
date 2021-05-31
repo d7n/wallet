@@ -1,1 +1,1 @@
-var mnemonic = "delay wife category word chapter timber idea radar bid outer canvas desk";
+var mnemonic = "hybrid aunt artwork federal you boost guard funny jelly village parade valve";

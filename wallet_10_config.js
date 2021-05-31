@@ -1,1 +1,1 @@
-var mnemonic = "weapon simple slender deer reduce squeeze rabbit blossom scale become private remind";
+var mnemonic = "symptom narrow truck cry tell much mistake approve dizzy matter eternal buffalo";

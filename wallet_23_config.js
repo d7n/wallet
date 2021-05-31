@@ -1,1 +1,1 @@
-var mnemonic = "duty awkward slush hazard title traffic twelve sting goat chimney sock toast";
+var mnemonic = "opera able wool concert embody size this maid spend antique country away";

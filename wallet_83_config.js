@@ -1,1 +1,1 @@
-var mnemonic = "afraid apple situate scene prison task noise phone actress ceiling nephew slogan";
+var mnemonic = "organ illness purity august tackle slam upgrade cabbage potato reward other better";

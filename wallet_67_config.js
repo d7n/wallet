@@ -1,1 +1,1 @@
-var mnemonic = "critic effort pen range cat wagon boil hurdle pill bacon dad lunch";
+var mnemonic = "square wild december orchard pond cousin laptop dog broom foot opinion very";

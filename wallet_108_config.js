@@ -1,1 +1,1 @@
-var mnemonic = "radio seminar put rail giraffe coconut other predict parent elevator distance improve";
+var mnemonic = "grant mushroom rapid chat remember pond method siren chimney mosquito climb arrive";

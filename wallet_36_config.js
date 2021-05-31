@@ -1,1 +1,1 @@
-var mnemonic = "dish similar tone wheat shock brand volume type globe moral mail letter";
+var mnemonic = "square charge such van essay ordinary exercise rude first puzzle jar train";

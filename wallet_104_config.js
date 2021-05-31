@@ -1,1 +1,1 @@
-var mnemonic = "risk east joke silk bean hospital neither story start deliver town engine";
+var mnemonic = "disorder monster cause shy milk traffic save senior amateur grain echo shine";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid twist shaft bus pear envelope feel crime wood phrase panther copper";
+var mnemonic = "join visa ecology glare maple glory begin inquiry expect timber legend range";

@@ -1,1 +1,1 @@
-var mnemonic = "note soft engine comic tell dilemma solution bulk typical drink vacant casual";
+var mnemonic = "diamond south auction address gravity pool alert door auction outside art nurse";

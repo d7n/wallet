@@ -1,1 +1,1 @@
-var mnemonic = "slab picture pair traffic elevator keep fox attack recipe visa science person";
+var mnemonic = "merge open picnic charge drink engine runway enact unit fruit plastic search";

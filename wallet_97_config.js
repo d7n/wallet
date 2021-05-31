@@ -1,1 +1,1 @@
-var mnemonic = "crush neutral unaware wish position obscure wash street loan burden embody pig";
+var mnemonic = "abandon other lawsuit smile wrist capable prevent lobster switch lunch make claim";

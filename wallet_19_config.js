@@ -1,1 +1,1 @@
-var mnemonic = "receive blossom level inquiry risk give want dawn admit pair destroy nephew";
+var mnemonic = "chase hundred sketch useless monster all episode million waste drip gift spend";

@@ -1,1 +1,1 @@
-var mnemonic = "like exact bronze stamp oblige special pool elegant seek keep shine shed";
+var mnemonic = "offer letter faith put answer mix pear merge cereal rule brass inch";

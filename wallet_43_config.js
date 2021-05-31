@@ -1,1 +1,1 @@
-var mnemonic = "short maze fantasy jungle winter such crucial marble acquire gift find deer";
+var mnemonic = "era dragon where crouch before coconut inner smoke female cigar practice caution";

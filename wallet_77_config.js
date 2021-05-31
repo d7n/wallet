@@ -1,1 +1,1 @@
-var mnemonic = "orchard grunt word present mechanic wrong pair cherry keep bird write one";
+var mnemonic = "toddler worry lemon lobster army true filter letter place wonder evoke marriage";

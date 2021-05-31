@@ -1,1 +1,1 @@
-var mnemonic = "dog behave diamond success give clog easy attack render bus art grass";
+var mnemonic = "wool thrive tape thought draft pride holiday bread coast metal search then";

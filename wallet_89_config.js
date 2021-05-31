@@ -1,1 +1,1 @@
-var mnemonic = "manual double hobby own journey service fabric naive anchor enhance company amateur";
+var mnemonic = "random maze firm biology judge alpha actor reward huge stairs system employ";

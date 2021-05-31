@@ -1,1 +1,1 @@
-var mnemonic = "fork evidence misery hungry veteran laundry father poet jar range mobile about";
+var mnemonic = "credit road business make total wash tomorrow jealous bargain find melt hen";

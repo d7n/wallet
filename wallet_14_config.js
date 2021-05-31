@@ -1,1 +1,1 @@
-var mnemonic = "achieve honey invest attitude jazz ball bright sausage couple adult feed garlic";
+var mnemonic = "pitch love husband clean east couple inject carpet beauty door survey hazard";

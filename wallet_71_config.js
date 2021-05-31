@@ -1,1 +1,1 @@
-var mnemonic = "mosquito abandon toward rich air entry wish immune shove okay camp flee";
+var mnemonic = "nest obscure argue mule lawsuit next drum awake hill shiver identify such";

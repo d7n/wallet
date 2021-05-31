@@ -1,1 +1,1 @@
-var mnemonic = "poet lobster glove witness ramp frown drama skin today carpet globe inch";
+var mnemonic = "lock truck undo jealous debate violin drive soon pistol rival raise outer";

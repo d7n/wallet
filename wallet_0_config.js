@@ -1,1 +1,1 @@
-var mnemonic = "erosion forum badge ghost shoulder weather message civil zebra sorry super message";
+var mnemonic = "breeze message crew nut solar endorse inform mutual blur front gold anger";

@@ -1,1 +1,1 @@
-var mnemonic = "eight render arrest slim board network lounge eye melody assume power pyramid";
+var mnemonic = "legal cliff nothing ivory peasant enrich pluck rescue transfer crack mandate involve";

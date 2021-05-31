@@ -1,1 +1,1 @@
-var mnemonic = "moon best tackle fan kick universe sweet motor cactus hood theory entire";
+var mnemonic = "key find version long city spawn recycle swamp bonus dash harsh drastic";

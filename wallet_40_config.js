@@ -1,1 +1,1 @@
-var mnemonic = "matter shoot tail poet six rough brief protect sheriff ankle wrestle athlete";
+var mnemonic = "enjoy rescue spirit patrol until infant joy unveil opinion proud news purity";

@@ -1,1 +1,1 @@
-var mnemonic = "release sorry decide drop pill puppy eight taste open seed exchange club";
+var mnemonic = "ketchup small cart insane innocent minimum road ivory firm siege fortune degree";

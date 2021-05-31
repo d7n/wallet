@@ -1,1 +1,1 @@
-var mnemonic = "assume vehicle cargo dial also energy harsh reward kangaroo hole cattle obvious";
+var mnemonic = "head beauty wild path quantum melody drink ivory screen zone express else";

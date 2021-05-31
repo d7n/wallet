@@ -1,1 +1,1 @@
-var mnemonic = "require school robust arrive panic spot immune nothing equip peace lawn fog";
+var mnemonic = "stuff great amused oyster wage wasp innocent brass switch weapon initial earn";

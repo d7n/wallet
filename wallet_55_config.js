@@ -1,1 +1,1 @@
-var mnemonic = "thought bargain coin sleep october question advance insane reopen army always limit";
+var mnemonic = "day door rare leisure hover predict debris icon potato minor multiply pond";

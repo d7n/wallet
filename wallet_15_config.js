@@ -1,1 +1,1 @@
-var mnemonic = "next issue sketch mix mom number disease beach museum cricket rescue below";
+var mnemonic = "decide choice quantum teach nothing dirt gravity slender parrot text accuse lumber";

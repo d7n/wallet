@@ -1,1 +1,1 @@
-var mnemonic = "spin announce people multiply mesh grid find calm lend pepper barrel spirit";
+var mnemonic = "inside attitude interest student ignore quiz garlic hood bleak ankle industry corn";

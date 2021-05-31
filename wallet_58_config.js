@@ -1,1 +1,1 @@
-var mnemonic = "surface slender decide amazing near raccoon broom seven below loud eternal stone";
+var mnemonic = "bike know acquire icon quantum between armed pumpkin slab episode glass nothing";

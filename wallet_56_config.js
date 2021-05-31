@@ -1,1 +1,1 @@
-var mnemonic = "black protect frost neck admit life small shoulder math logic giant glimpse";
+var mnemonic = "vague frame save negative bracket female lens goose hello nice remind ozone";

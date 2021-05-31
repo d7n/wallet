@@ -1,1 +1,1 @@
-var mnemonic = "notable next science fence celery more dust machine invite enlist sugar expire";
+var mnemonic = "eternal subway track crunch armed remain kingdom boy door pencil obvious either";

@@ -1,1 +1,1 @@
-var mnemonic = "betray garage reopen original top undo margin crowd lounge lobster kiss collect";
+var mnemonic = "slender pulp lens helmet upgrade velvet misery noodle recycle ceiling exist differ";

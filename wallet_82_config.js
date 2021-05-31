@@ -1,1 +1,1 @@
-var mnemonic = "busy off toilet say clap carbon retire shine image media equal canvas";
+var mnemonic = "pipe airport melt oyster rose final first river midnight zebra foil ahead";

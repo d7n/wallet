@@ -1,1 +1,1 @@
-var mnemonic = "poet glue swear royal current salad aware acquire tide gym ticket arctic";
+var mnemonic = "scout toss kingdom edge guard jaguar nerve butter alone diamond sponsor melody";

@@ -1,1 +1,1 @@
-var mnemonic = "steel rigid clump grace soon party kit drive work wait sample glory";
+var mnemonic = "analyst armed return wall rely spell dilemma color exit puzzle civil drill";

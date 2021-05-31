@@ -1,1 +1,1 @@
-var mnemonic = "uncle offer surprise tank narrow snake rookie will wild alien bargain energy";
+var mnemonic = "maple pull city ozone mass undo capable later van path goddess deliver";

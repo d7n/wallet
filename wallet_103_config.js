@@ -1,1 +1,1 @@
-var mnemonic = "spend ensure dignity genuine budget light laundry essay flower impact faculty ahead";
+var mnemonic = "transfer arrest spatial reopen option absent method afraid combine sound toddler journey";

@@ -1,1 +1,1 @@
-var mnemonic = "drop gas you often forget faculty suffer chest poverty town exhibit enough";
+var mnemonic = "caution wool turkey frog salad option jeans general snow finger install asset";

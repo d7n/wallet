@@ -1,1 +1,1 @@
-var mnemonic = "axis daughter note boy suit virtual movie craft resemble artist artist sniff";
+var mnemonic = "snow wrap asset aisle cat obey only empty want way theme online";

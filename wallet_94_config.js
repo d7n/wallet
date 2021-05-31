@@ -1,1 +1,1 @@
-var mnemonic = "april boost famous vague armor kidney regular metal raw vehicle ability mercy";
+var mnemonic = "cycle diary object sausage donate dad amused country twist moment review laundry";

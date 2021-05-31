@@ -1,1 +1,1 @@
-var mnemonic = "vicious tilt fire blush tumble okay ketchup negative curtain convince sight topple";
+var mnemonic = "poem symptom original similar vacant cheap initial flame all want hood drill";

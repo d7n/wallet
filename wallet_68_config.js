@@ -1,1 +1,1 @@
-var mnemonic = "chunk hint another grocery insane donate seek bread metal check sail hour";
+var mnemonic = "aspect around twelve letter worry battle want bridge anxiety agent elevator knee";

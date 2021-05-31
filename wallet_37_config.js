@@ -1,1 +1,1 @@
-var mnemonic = "cabin shine clerk bleak pulse wide element trick scorpion syrup hurry slight";
+var mnemonic = "spike wheel defense company kind vague innocent possible sleep spoon spy egg";

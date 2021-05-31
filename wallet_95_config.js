@@ -1,1 +1,1 @@
-var mnemonic = "hawk task purchase measure primary father language defense oak snow tide urge";
+var mnemonic = "tail slot art degree under vocal visit churn humor flat final gospel";

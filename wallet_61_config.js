@@ -1,1 +1,1 @@
-var mnemonic = "fluid fossil plastic border opinion coach drive squeeze random cram raw height";
+var mnemonic = "concert impulse autumn oppose unusual raven hobby census force negative cycle useful";

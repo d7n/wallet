@@ -1,1 +1,1 @@
-var mnemonic = "fabric virtual gauge brand spike wet light young stumble north twist wall";
+var mnemonic = "before lava help return among custom guilt thumb toss rice brisk deny";

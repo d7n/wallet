@@ -1,1 +1,1 @@
-var mnemonic = "essay finger athlete grid fury bronze donor win post adapt island sight";
+var mnemonic = "amused goat small mobile urban skirt lecture virus sentence only husband couple";

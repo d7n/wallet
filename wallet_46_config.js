@@ -1,1 +1,1 @@
-var mnemonic = "onion banana furnace business lawn vessel october deer custom narrow scorpion detect";
+var mnemonic = "card category cook pill ribbon ostrich same develop seed kingdom online chicken";

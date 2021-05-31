@@ -1,1 +1,1 @@
-var mnemonic = "ocean dolphin feed warm crime castle enlist route galaxy spy rug nasty";
+var mnemonic = "all erupt trophy maid topic expire feel behind crucial reform fever glad";

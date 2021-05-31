@@ -1,1 +1,1 @@
-var mnemonic = "wheat tiger target shove soap frown trip kingdom alter extend indicate pudding";
+var mnemonic = "clutch call stay tape neutral couch load auto fiscal attitude nominee story";

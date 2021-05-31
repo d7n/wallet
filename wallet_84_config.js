@@ -1,1 +1,1 @@
-var mnemonic = "knee useful recall team bullet solution identify idle pony female notice sniff";
+var mnemonic = "cheap disease situate miss foil photo warfare behind scare debris scale trust";

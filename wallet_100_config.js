@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mechanic coil wrestle film sock torch noise soda plate staff sugar";
+var mnemonic = "clarify owner pull shield gym latin shield chuckle enact modify party become";

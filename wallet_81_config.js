@@ -1,1 +1,1 @@
-var mnemonic = "east heart please soon wear carpet sound end helmet battle devote start";
+var mnemonic = "table bulk please actual task diary suffer bird helmet delay problem sorry";

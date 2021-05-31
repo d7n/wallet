@@ -1,1 +1,1 @@
-var mnemonic = "artist time cross myself gauge sign rescue sword isolate convince prison fringe";
+var mnemonic = "vintage grace gospel theme render venture refuse become random tower friend warm";

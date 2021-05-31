@@ -1,1 +1,1 @@
-var mnemonic = "bar topic elbow mimic jar ladder parade comfort blade gasp gorilla fruit";
+var mnemonic = "expect someone human behind arch confirm remove rough happy enlist immune find";

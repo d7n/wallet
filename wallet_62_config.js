@@ -1,1 +1,1 @@
-var mnemonic = "seminar satisfy stumble skull weird next stool silly soap opinion curious brass";
+var mnemonic = "evidence release border grunt control weird trim stand replace charge amazing moral";

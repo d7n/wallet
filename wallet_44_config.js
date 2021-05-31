@@ -1,1 +1,1 @@
-var mnemonic = "youth company trust luggage sail captain draw venue allow tooth custom bid";
+var mnemonic = "invite hunt come friend slush joy moon survey admit emerge agent vocal";

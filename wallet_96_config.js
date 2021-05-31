@@ -1,1 +1,1 @@
-var mnemonic = "solve view toward dentist eight cotton armor retire senior spot ginger stay";
+var mnemonic = "early broken merge glad merit evidence zone fork bottom car transfer sorry";

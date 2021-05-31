@@ -1,1 +1,1 @@
-var mnemonic = "define female lift maid before rookie carbon scan coil coconut hire expire";
+var mnemonic = "identify mean spin sustain frown reunion possible lock tattoo ritual thumb neglect";

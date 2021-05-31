@@ -1,1 +1,1 @@
-var mnemonic = "soap creek orchard axis link grass cry oil flush worth enroll shed";
+var mnemonic = "refuse assume brown before glare fee start evoke retire echo area lawsuit";

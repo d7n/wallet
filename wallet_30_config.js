@@ -1,1 +1,1 @@
-var mnemonic = "coil smile truck sing hundred pass trend wink focus mobile monster invite";
+var mnemonic = "round soup fetch yard job unable victory bean corn foam cheese symptom";

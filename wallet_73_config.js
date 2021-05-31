@@ -1,1 +1,1 @@
-var mnemonic = "vicious convince puzzle similar crazy cheap real sniff poverty box void horn";
+var mnemonic = "dawn little survey keen initial affair poet slide number blouse false game";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey again pretty traffic cake senior dynamic above punch leg advance soul";
+var mnemonic = "skirt hammer filter slender verb cinnamon vessel run belt appear extra city";

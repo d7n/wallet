@@ -1,1 +1,1 @@
-var mnemonic = "club wrap mobile ribbon beyond ocean tell fault butter fragile citizen chief";
+var mnemonic = "glory alone defense stick attract eyebrow jelly jazz month survey burger survey";

@@ -1,1 +1,1 @@
-var mnemonic = "wise wheat over fix true dress harvest half flag title scheme buyer";
+var mnemonic = "cereal vault retreat story venue chef cave expire cry random float airport";

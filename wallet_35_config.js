@@ -1,1 +1,1 @@
-var mnemonic = "announce double join cat task wrap core mask divert wave nut busy";
+var mnemonic = "emotion hurry brown floor chicken sock truck mountain fade plastic drift butter";

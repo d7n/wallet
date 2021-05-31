@@ -1,1 +1,1 @@
-var mnemonic = "attitude pact term success kick stomach shoulder cheese exit wing current range";
+var mnemonic = "already jacket sock muffin inquiry will enact attend extra turtle cook upper";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic nothing enemy kit chuckle seek entire clock size monitor often code";
+var mnemonic = "text verb ready kingdom trip rain zebra update sick basic cricket ivory";

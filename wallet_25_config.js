@@ -1,1 +1,1 @@
-var mnemonic = "tag above total flight today million bronze tourist energy simple caught midnight";
+var mnemonic = "breeze current day liar huge own more image wealth wall school mouse";

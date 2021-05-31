@@ -1,1 +1,1 @@
-var mnemonic = "seminar pig cargo army panel flock cotton gorilla manage taste multiply image";
+var mnemonic = "coral afraid tree napkin win risk pretty limb moral wheel eight bring";

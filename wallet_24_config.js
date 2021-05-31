@@ -1,1 +1,1 @@
-var mnemonic = "swear tomato destroy noodle milk enlist settle donate horn response produce wrist";
+var mnemonic = "creek arm fashion push over echo harvest teach air proof viable smile";

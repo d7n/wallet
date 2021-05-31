@@ -1,1 +1,1 @@
-var mnemonic = "web mask lunar team suspect caution cancel asthma liberty offer lamp fiscal";
+var mnemonic = "find book execute hobby high enough age float book gallery hip garment";

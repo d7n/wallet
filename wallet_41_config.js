@@ -1,1 +1,1 @@
-var mnemonic = "palace outer other sadness yellow joy surface record distance often menu bench";
+var mnemonic = "imitate cactus spring roast manual leader will dragon label digital laugh swift";

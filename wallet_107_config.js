@@ -1,1 +1,1 @@
-var mnemonic = "velvet above rival fatigue provide modify nation salt great olympic tired remove";
+var mnemonic = "wasp cruel decrease egg room require rival brown rigid glance soap setup";

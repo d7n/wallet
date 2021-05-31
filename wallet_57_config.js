@@ -1,1 +1,1 @@
-var mnemonic = "trip chef weasel illegal apple turn toddler floor cloud hurt turn demise";
+var mnemonic = "unlock later acoustic lucky clinic false dentist useless pool palace electric jacket";

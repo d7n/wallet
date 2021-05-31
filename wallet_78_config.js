@@ -1,1 +1,1 @@
-var mnemonic = "increase pipe moon spike pet chuckle august amount casual birth below heavy";
+var mnemonic = "labor cat gloom gym actress harbor angry member resemble wagon welcome atom";

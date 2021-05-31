@@ -1,1 +1,1 @@
-var mnemonic = "region mom purchase below title glove age salt diet exact tail dynamic";
+var mnemonic = "resemble gather auto buyer pen salmon plunge hungry ski umbrella weird pet";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic humor smart safe hard sing enhance marble price rule bulb cart";
+var mnemonic = "drama canoe vault loud vivid nose horror across orbit combine resist cake";
