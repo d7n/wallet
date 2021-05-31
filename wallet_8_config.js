@@ -1,1 +1,1 @@
-var mnemonic = "enhance sorry height screen cotton slow gun admit depth rug lake curtain";
+var mnemonic = "rain regret behave cheese rail east trumpet donate metal order negative puzzle";

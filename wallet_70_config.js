@@ -1,1 +1,1 @@
-var mnemonic = "thrive february orient water wing tobacco diesel birth bomb sun prize weapon";
+var mnemonic = "history shift jacket anchor theme angry run any cereal toss change kind";

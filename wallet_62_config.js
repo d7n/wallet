@@ -1,1 +1,1 @@
-var mnemonic = "shop glory heart tree tray slush museum success outdoor float anger rhythm";
+var mnemonic = "loan expect glory fruit pelican garment scene punch tilt april where snack";

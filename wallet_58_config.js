@@ -1,1 +1,1 @@
-var mnemonic = "genre diagram kitchen twelve motion excess inch suggest kidney sphere announce electric";
+var mnemonic = "sting lunar romance lizard essence vintage neutral push left eager marriage arrange";

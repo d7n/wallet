@@ -1,1 +1,1 @@
-var mnemonic = "dove culture someone rule sense swing put parent sudden engine modify detect";
+var mnemonic = "scissors topic broom mirror magic funny fly captain film cloud across length";

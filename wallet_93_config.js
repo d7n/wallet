@@ -1,1 +1,1 @@
-var mnemonic = "royal spot lobster profit bacon health carpet tomorrow execute cheese admit tool";
+var mnemonic = "debate girl boost sport permit demand visual embark hurry awkward job again";

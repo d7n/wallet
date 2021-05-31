@@ -1,1 +1,1 @@
-var mnemonic = "south slot casino taste ski another hip symbol tone shaft mom open";
+var mnemonic = "march pride deputy place element wheel treat pet pear olympic waste volcano";

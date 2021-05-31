@@ -1,1 +1,1 @@
-var mnemonic = "vicious false rather saddle manual jealous property mutual ozone pulse embody deputy";
+var mnemonic = "club dog canal lift doll cousin find crumble increase hunt retreat kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "rival topic toast conduct pulse good senior wine diary income hold sand";
+var mnemonic = "receive toddler island usual melody clay cross lunch float relax ivory garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb merge apology blush album more glow stick review fault catalog design";
+var mnemonic = "tenant genuine share code then book tower report kick orbit chase start";

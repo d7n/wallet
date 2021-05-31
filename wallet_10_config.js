@@ -1,1 +1,1 @@
-var mnemonic = "vivid table patient miss brush friend mammal hazard capable movie mosquito divert";
+var mnemonic = "goat confirm now enlist have panic execute carbon any note file sausage";

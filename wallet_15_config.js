@@ -1,1 +1,1 @@
-var mnemonic = "muscle bachelor learn shallow goat rude water cup father keep quit fork";
+var mnemonic = "panda source ginger soccer harbor flip sphere sphere math matrix treat morning";

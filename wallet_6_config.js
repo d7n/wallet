@@ -1,1 +1,1 @@
-var mnemonic = "frequent guilt razor tooth pottery select client hawk pond zero misery brother";
+var mnemonic = "loop feature total melt dial intact flame hollow ahead puzzle submit air";

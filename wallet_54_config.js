@@ -1,1 +1,1 @@
-var mnemonic = "dentist wire offer slam leave purchase vast upon walk program solar novel";
+var mnemonic = "ball live cluster follow slam script clay oak evolve fiscal cloth often";

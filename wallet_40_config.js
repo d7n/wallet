@@ -1,1 +1,1 @@
-var mnemonic = "foam shiver conduct barely twenty awkward radio bulb mass rug mechanic sort";
+var mnemonic = "fiscal pudding wasp execute bone section purchase under trophy hair connect strategy";

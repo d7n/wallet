@@ -1,1 +1,1 @@
-var mnemonic = "security fit average vehicle trash boss pitch fine budget van update update";
+var mnemonic = "prefer remember middle walk poet road art shine siren palace stem protect";

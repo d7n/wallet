@@ -1,1 +1,1 @@
-var mnemonic = "hawk develop enroll tooth proud portion waste resist kangaroo promote fish genius";
+var mnemonic = "lift cushion shock bulk battle curious inner shadow deny caution black tank";

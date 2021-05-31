@@ -1,1 +1,1 @@
-var mnemonic = "grief display course recall manual direct museum mechanic galaxy skill other simple";
+var mnemonic = "afford area absorb cotton fetch speak lock wing seminar hello gasp nuclear";

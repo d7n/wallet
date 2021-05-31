@@ -1,1 +1,1 @@
-var mnemonic = "okay cup fuel noble glass rich adult soon swear believe balcony normal";
+var mnemonic = "road robust practice family entire mule stumble stumble school affair blouse battle";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tree thought betray noise tumble balance dinner slender chef height ozone";
+var mnemonic = "early verify hobby reward address aerobic economy input expose town short theme";

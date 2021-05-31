@@ -1,1 +1,1 @@
-var mnemonic = "accident ability oppose timber real solid cry law casual unfold elite butter";
+var mnemonic = "knock today fragile monkey address pyramid rival source horror pig peace lizard";

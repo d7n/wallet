@@ -1,1 +1,1 @@
-var mnemonic = "beach dish blast alter okay current body trade shell journey wolf office";
+var mnemonic = "track govern forum waste shove follow wasp evolve fly arch coconut remember";

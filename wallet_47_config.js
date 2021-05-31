@@ -1,1 +1,1 @@
-var mnemonic = "word dinosaur merit butter miracle usage clap like stand comic voice green";
+var mnemonic = "city april sentence mean auto orange rotate purse crime spray hungry broken";

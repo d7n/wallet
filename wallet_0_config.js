@@ -1,1 +1,1 @@
-var mnemonic = "property evoke name pyramid exist tribe shine scrub seminar mobile now grid";
+var mnemonic = "faint know great shove enough exchange wish better north put dwarf pass";

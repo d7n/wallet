@@ -1,1 +1,1 @@
-var mnemonic = "finger habit body object age blouse comfort unfold river miracle ignore cluster";
+var mnemonic = "shove shrug style carpet moral parent quick bacon impact lion forward bulb";

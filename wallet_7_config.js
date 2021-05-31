@@ -1,1 +1,1 @@
-var mnemonic = "advice arm letter arrive hello neutral receive kitchen carbon craft dust purpose";
+var mnemonic = "fiscal panel portion betray jaguar honey light inflict actual slab shed feed";

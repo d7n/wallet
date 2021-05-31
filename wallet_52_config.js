@@ -1,1 +1,1 @@
-var mnemonic = "domain will honey fold blast acquire earn remember breeze repeat pledge venture";
+var mnemonic = "orient true badge play return business sheriff capable review pink congress aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "domain filter crowd topic alcohol brown page fabric mandate coin image assault";
+var mnemonic = "garlic swift zebra jewel remove hundred scrap tuition witness work saddle bacon";

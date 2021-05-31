@@ -1,1 +1,1 @@
-var mnemonic = "maximum service chalk autumn critic angry little coffee buyer jaguar elegant auto";
+var mnemonic = "risk hotel sense seat citizen announce flee thing equip squirrel belt exile";

@@ -1,1 +1,1 @@
-var mnemonic = "strike lens gym earth fury doctor relax federal clean group question royal";
+var mnemonic = "often cabbage trash become arrange endorse tray buzz fix drink carpet afraid";

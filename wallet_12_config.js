@@ -1,1 +1,1 @@
-var mnemonic = "blouse budget parrot trust hazard upon whale express impulse loop route message";
+var mnemonic = "cattle erosion leader health comfort artwork mercy double business fitness chat only";

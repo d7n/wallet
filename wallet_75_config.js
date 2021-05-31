@@ -1,1 +1,1 @@
-var mnemonic = "view blossom master future night banana ghost alpha liberty canvas prosper cost";
+var mnemonic = "note resemble grass love vapor trouble damp review reveal tragic offer clinic";

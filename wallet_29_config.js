@@ -1,1 +1,1 @@
-var mnemonic = "garbage trigger advance walnut skin alarm guard wise little void brisk segment";
+var mnemonic = "subject swarm drastic under soul helmet next pet draft solar lady sure";

@@ -1,1 +1,1 @@
-var mnemonic = "easily lumber broken stumble spray pill sheriff thrive congress nuclear vacuum valve";
+var mnemonic = "robot number warrior mind rate cherry merge neutral lucky grab genre canyon";

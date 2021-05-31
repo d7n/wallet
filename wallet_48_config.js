@@ -1,1 +1,1 @@
-var mnemonic = "alley flush delay width opera flight grass execute use track digital catalog";
+var mnemonic = "century window reject nose impose goat chunk space invest shallow kiss kind";

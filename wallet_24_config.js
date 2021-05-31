@@ -1,1 +1,1 @@
-var mnemonic = "labor tank real boil found curious hub cheap educate isolate belt exercise";
+var mnemonic = "pool more finger fat update tourist muffin dance impose crack soul fortune";

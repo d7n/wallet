@@ -1,1 +1,1 @@
-var mnemonic = "faint win cradle burden anger kidney inflict rate upper laugh ranch also";
+var mnemonic = "strong work right luggage curious sketch little merry brave survey student bag";

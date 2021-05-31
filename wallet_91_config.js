@@ -1,1 +1,1 @@
-var mnemonic = "ready adapt repair sentence apple maximum trouble spare fruit series jewel labor";
+var mnemonic = "orchard wheel maple water virtual hidden grace trap flip delay illness merry";

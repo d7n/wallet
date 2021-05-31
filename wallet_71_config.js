@@ -1,1 +1,1 @@
-var mnemonic = "emerge flip bamboo also disagree reflect scan avocado guess device buyer document";
+var mnemonic = "tribe clock fringe purchase truth hybrid rather impulse switch hobby blur pool";

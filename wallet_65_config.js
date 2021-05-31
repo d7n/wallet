@@ -1,1 +1,1 @@
-var mnemonic = "crystal crawl survey retreat until riot perfect coffee certain clock hold source";
+var mnemonic = "shrimp pony layer lizard badge impact base muscle window vacant tip pass";

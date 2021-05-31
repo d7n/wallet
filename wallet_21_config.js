@@ -1,1 +1,1 @@
-var mnemonic = "project lamp narrow text soup mention kiss pudding tuition piece thrive mosquito";
+var mnemonic = "street donate stable stay choose lens sport cable like cotton genius much";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk crunch please shift hotel rebuild elephant dress onion point ankle lazy";
+var mnemonic = "foam chief puzzle escape accuse sunny universe produce kid shaft survey belt";

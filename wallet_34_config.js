@@ -1,1 +1,1 @@
-var mnemonic = "fee use coach afford client blood metal wealth stay coral almost visa";
+var mnemonic = "weasel ship cause need member captain scare foster help clean speak gap";

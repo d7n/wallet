@@ -1,1 +1,1 @@
-var mnemonic = "occur glad burden panel solar captain mixture soft team simple strike jewel";
+var mnemonic = "hair napkin cactus salute youth kind cargo advice teach waste border razor";

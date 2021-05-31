@@ -1,1 +1,1 @@
-var mnemonic = "office into square noodle review bleak design inch shoot mutual symptom rude";
+var mnemonic = "tattoo brand trumpet pause buyer hawk impact column move verify current cinnamon";

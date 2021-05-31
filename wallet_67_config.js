@@ -1,1 +1,1 @@
-var mnemonic = "stage cotton spring frost secret jacket margin pottery tray title better flag";
+var mnemonic = "ginger egg under body forward bar skate bullet confirm cost tiny ridge";

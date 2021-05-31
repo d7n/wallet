@@ -1,1 +1,1 @@
-var mnemonic = "run obey hundred report spike ill dismiss october six lucky cousin must";
+var mnemonic = "load fork couch camera salad rain ball task check boost goddess input";

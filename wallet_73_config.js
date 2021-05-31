@@ -1,1 +1,1 @@
-var mnemonic = "dose jar tool whisper avoid remove trip canyon offer pull cool where";
+var mnemonic = "eight torch dice trick bid current portion develop health endless border regular";

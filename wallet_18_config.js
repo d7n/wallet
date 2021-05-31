@@ -1,1 +1,1 @@
-var mnemonic = "steak skill family float august blind debris evolve broccoli autumn border exclude";
+var mnemonic = "input company broken wear also army machine friend rug envelope measure lawn";

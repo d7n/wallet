@@ -1,1 +1,1 @@
-var mnemonic = "basic elevator foil subject sphere school wreck onion vapor glow egg length";
+var mnemonic = "mimic very once coach sing craft soda only please advance luxury admit";

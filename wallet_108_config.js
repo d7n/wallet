@@ -1,1 +1,1 @@
-var mnemonic = "one endorse bar joy know drink fall eight era shine company matrix";
+var mnemonic = "tiny yellow enroll boring athlete arrange cotton click maple retreat voice early";

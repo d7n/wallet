@@ -1,1 +1,1 @@
-var mnemonic = "apart shock toy black able supreme scale round very throw search wall";
+var mnemonic = "reunion oven nephew neglect bag protect neutral cloth shoe cinnamon harvest stairs";

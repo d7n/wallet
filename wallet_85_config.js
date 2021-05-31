@@ -1,1 +1,1 @@
-var mnemonic = "they museum save develop universe lecture slogan love organ logic fun average";
+var mnemonic = "rough ahead manual glory tongue have evoke debate require join solution search";

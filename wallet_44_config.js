@@ -1,1 +1,1 @@
-var mnemonic = "armor want step race wagon cruel cactus submit keep auto throw exist";
+var mnemonic = "guitar lemon sure economy stairs outdoor then nose satoshi universe shoulder demise";

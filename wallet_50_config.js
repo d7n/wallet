@@ -1,1 +1,1 @@
-var mnemonic = "inch hurt apology lift source price village army chaos proud fortune imitate";
+var mnemonic = "dice carpet hub bind pioneer sponsor exchange turn below kid truck below";

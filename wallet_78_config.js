@@ -1,1 +1,1 @@
-var mnemonic = "vintage glow program pelican bracket dizzy when chapter cube seed decade arch";
+var mnemonic = "tilt sudden yard jacket nut page employ milk sauce lens prosper hand";

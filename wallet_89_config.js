@@ -1,1 +1,1 @@
-var mnemonic = "demand divide prepare deputy vital practice cancel toy first heart sentence arena";
+var mnemonic = "arch comic into announce symbol coast cause sign orange artist junk surround";

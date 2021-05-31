@@ -1,1 +1,1 @@
-var mnemonic = "swallow enrich truth pulse nephew poem video infant wing fox legal close";
+var mnemonic = "glare unlock asset reward cradle february tattoo permit supply worry lesson joke";

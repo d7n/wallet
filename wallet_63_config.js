@@ -1,1 +1,1 @@
-var mnemonic = "close always guilt remind lava crunch dial wagon pulse portion victory ankle";
+var mnemonic = "ship affair grape famous have cargo dilemma orbit trigger inhale egg benefit";

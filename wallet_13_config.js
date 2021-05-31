@@ -1,1 +1,1 @@
-var mnemonic = "bleak shadow wing shoulder topple olive sugar cattle swim hood large typical";
+var mnemonic = "adapt fee grid grape input inherit enable spy hawk wealth regular obvious";

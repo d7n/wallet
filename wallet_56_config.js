@@ -1,1 +1,1 @@
-var mnemonic = "pull flight resemble file step crazy basic cliff tower wreck desert monster";
+var mnemonic = "champion jacket captain grief news develop monkey orphan avocado diary replace agent";

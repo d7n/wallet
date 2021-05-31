@@ -1,1 +1,1 @@
-var mnemonic = "valid dirt glare observe ankle never teach exile jazz short clerk small";
+var mnemonic = "discover razor wheel void carbon open spot bargain spawn spice require image";

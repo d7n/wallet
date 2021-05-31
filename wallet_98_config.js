@@ -1,1 +1,1 @@
-var mnemonic = "theory volcano wonder chimney try sheriff logic rate taxi magic soup vapor";
+var mnemonic = "room cheap task voice width company afraid razor cinnamon immense famous nerve";

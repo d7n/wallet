@@ -1,1 +1,1 @@
-var mnemonic = "hotel husband acid layer major stand ride anger unhappy sugar exile virus";
+var mnemonic = "forget gain green verb chat worry desert priority turkey excuse tone lobster";

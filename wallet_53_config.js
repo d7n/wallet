@@ -1,1 +1,1 @@
-var mnemonic = "diet argue gate gospel slide seven sock lottery sunny devote state hobby";
+var mnemonic = "brain urge ticket gloom abuse chapter trophy wing opinion will train duck";

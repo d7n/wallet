@@ -1,1 +1,1 @@
-var mnemonic = "stone poem winter elephant enjoy wise country apple force cage dust glimpse";
+var mnemonic = "van shell turtle absorb post twelve coin tool mad settle toward cabbage";

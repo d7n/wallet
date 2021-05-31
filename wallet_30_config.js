@@ -1,1 +1,1 @@
-var mnemonic = "rhythm sphere opera ivory better ill dial grid use cement ankle stay";
+var mnemonic = "tiger left market letter brave pride teach glow genuine present paper bracket";

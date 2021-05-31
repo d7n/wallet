@@ -1,1 +1,1 @@
-var mnemonic = "elegant oblige butter title fatal smooth plug oblige oxygen seed beauty bag";
+var mnemonic = "fix update attack crowd knock video liquid marble nut reveal spy category";

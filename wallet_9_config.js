@@ -1,1 +1,1 @@
-var mnemonic = "book duty lunch hungry nothing ability latin toward salute future circle knee";
+var mnemonic = "brain outdoor verify reward blur shuffle wood guess panther sell session review";

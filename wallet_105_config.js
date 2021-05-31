@@ -1,1 +1,1 @@
-var mnemonic = "web differ catalog point parrot vintage finger drive upset size cement clog";
+var mnemonic = "another robust slender side blast truck cement dry output crash gloom hotel";

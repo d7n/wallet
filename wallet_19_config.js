@@ -1,1 +1,1 @@
-var mnemonic = "rough web gospel simple fresh stadium network rural shoot vault tunnel share";
+var mnemonic = "mercy dynamic clip iron travel harsh cover zone change become critic leg";

@@ -1,1 +1,1 @@
-var mnemonic = "manage brown oak soccer chronic cash ask answer hurry own bring bomb";
+var mnemonic = "coyote sun accident toast lens tobacco ordinary stuff describe artefact share chair";

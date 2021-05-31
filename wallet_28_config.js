@@ -1,1 +1,1 @@
-var mnemonic = "shy ill stumble miracle inflict local marine diary random celery tortoise joke";
+var mnemonic = "gentle keep hollow cement bicycle design maximum raccoon wave wise suspect end";

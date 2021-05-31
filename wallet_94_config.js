@@ -1,1 +1,1 @@
-var mnemonic = "shallow much essence horse until obvious boil bacon rib woman solution hero";
+var mnemonic = "skate morning visit student wrong maid inquiry issue lava fever wave soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "horror hello okay burst burger spy pizza cute claim enough yellow more";
+var mnemonic = "width garden ghost auto devote color lemon simple over filter wealth skirt";

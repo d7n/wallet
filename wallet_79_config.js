@@ -1,1 +1,1 @@
-var mnemonic = "monitor immense bean best spell ramp senior remain pipe sudden milk illegal";
+var mnemonic = "version city damage stereo response foster isolate company onion small pulp eternal";

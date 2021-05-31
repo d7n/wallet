@@ -1,1 +1,1 @@
-var mnemonic = "inquiry flower toddler surge kid flock pass frown balance royal acquire census";
+var mnemonic = "flush people fat anxiety amused trouble brass pet artist raccoon forest pave";

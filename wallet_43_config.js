@@ -1,1 +1,1 @@
-var mnemonic = "spot give surprise frozen lava virus grace napkin surface test swing outside";
+var mnemonic = "health before govern afford modify valid island police give vanish laugh imitate";

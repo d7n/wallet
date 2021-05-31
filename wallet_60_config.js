@@ -1,1 +1,1 @@
-var mnemonic = "puppy spider lion frog oppose mutual edit fragile embrace route example hollow";
+var mnemonic = "arrest air fiber answer urban funny board over own ritual wish depend";

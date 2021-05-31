@@ -1,1 +1,1 @@
-var mnemonic = "wolf satisfy remove target mandate galaxy power ivory fan offer settle cargo";
+var mnemonic = "kiwi hen bounce pig aim replace undo ketchup invest human suggest inflict";

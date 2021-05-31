@@ -1,1 +1,1 @@
-var mnemonic = "dismiss wise garlic crime fresh story promote rain pledge two admit one";
+var mnemonic = "fragile embrace casual total float unit come measure height hill lab garden";

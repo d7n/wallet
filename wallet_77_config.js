@@ -1,1 +1,1 @@
-var mnemonic = "junior that slow nephew labor render party wheat enlist sauce apology smart";
+var mnemonic = "dragon jewel mule maid come replace obscure rose child where oppose huge";

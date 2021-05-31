@@ -1,1 +1,1 @@
-var mnemonic = "jaguar wear flight cave category twelve rifle panda regret march rookie extra";
+var mnemonic = "grunt rookie afford game alter process success sample source true boring scale";

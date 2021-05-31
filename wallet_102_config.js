@@ -1,1 +1,1 @@
-var mnemonic = "fox damp account insect teach soldier recall staff unaware cloth main parent";
+var mnemonic = "planet pizza lift naive source vivid clutch knee help settle fault rural";

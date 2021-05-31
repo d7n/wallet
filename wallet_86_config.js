@@ -1,1 +1,1 @@
-var mnemonic = "humble roof doll warrior rocket cluster place fabric notice twelve entire curve";
+var mnemonic = "lunar limb tenant rose produce enemy salad dad portion village confirm disorder";
