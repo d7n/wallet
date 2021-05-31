@@ -1,1 +1,1 @@
-var mnemonic = "comfort essence ten foot soccer foot tomato off video identify mouse member";
+var mnemonic = "oyster sight dove end cabbage fatigue base planet solar name autumn holiday";

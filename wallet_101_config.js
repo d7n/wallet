@@ -1,1 +1,1 @@
-var mnemonic = "hover involve glory skate discover cube cat fold chest unknown rifle cinnamon";
+var mnemonic = "engine decade business roast wet sword smooth beach curtain report slight shuffle";

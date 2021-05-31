@@ -1,1 +1,1 @@
-var mnemonic = "unaware exchange lonely fade broom memory behave theory lyrics park extra wise";
+var mnemonic = "clever girl coach airport system library cross poem steel sunny rifle almost";

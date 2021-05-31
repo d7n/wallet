@@ -1,1 +1,1 @@
-var mnemonic = "exhibit device harvest quantum motion rookie budget twin burger moral hurry mule";
+var mnemonic = "depend token between swallow noise tree lab junior borrow earn profit rail";

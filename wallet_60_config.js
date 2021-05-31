@@ -1,1 +1,1 @@
-var mnemonic = "recycle zebra monkey demand patient rally upset tool husband fortune piano hen";
+var mnemonic = "garage dwarf kiwi reward scene cabin find absent main minor flee twenty";

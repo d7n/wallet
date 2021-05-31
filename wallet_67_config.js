@@ -1,1 +1,1 @@
-var mnemonic = "wait enroll ridge convince tired vocal utility dignity teach fiscal medal wet";
+var mnemonic = "junior angry wise slim know almost cry again dry engage test move";

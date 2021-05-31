@@ -1,1 +1,1 @@
-var mnemonic = "fault winter spray sadness blossom canyon convince dune bronze book sell wasp";
+var mnemonic = "kangaroo royal scale test depth valve dune document course soccer share same";

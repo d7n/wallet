@@ -1,1 +1,1 @@
-var mnemonic = "huge girl adjust yellow subject identify vintage immune smoke receive echo copy";
+var mnemonic = "man sugar spoon grit seed garage load thank gloom brush lazy shell";

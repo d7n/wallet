@@ -1,1 +1,1 @@
-var mnemonic = "claim sample panel reward door expose twice utility any scrub section garbage";
+var mnemonic = "erupt quantum fee salmon aerobic sea orphan lunar click skill skate cry";

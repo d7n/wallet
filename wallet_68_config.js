@@ -1,1 +1,1 @@
-var mnemonic = "indicate hand hire fabric crash deputy settle rate message leopard impulse spy";
+var mnemonic = "boat produce cool wagon own symbol symptom hope purse march detail wash";

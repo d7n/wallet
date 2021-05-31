@@ -1,1 +1,1 @@
-var mnemonic = "general basket pudding victory manual toe you fame gather solve notice make";
+var mnemonic = "opinion hint silent provide witness answer regret victory march jazz burst alert";

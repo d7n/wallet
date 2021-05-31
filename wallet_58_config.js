@@ -1,1 +1,1 @@
-var mnemonic = "mechanic any shop rely ring toy foam twice bounce claw lizard that";
+var mnemonic = "vibrant nut fossil skate current merit subject plug accident shell fiscal segment";

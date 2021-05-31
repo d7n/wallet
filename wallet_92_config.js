@@ -1,1 +1,1 @@
-var mnemonic = "coast fresh flock prison glass chimney cash clock pencil industry frost skirt";
+var mnemonic = "manage two auction miss crystal high collect blanket inflict replace involve rib";

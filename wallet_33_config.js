@@ -1,1 +1,1 @@
-var mnemonic = "bench doctor vague dinosaur virus park spatial antenna steak upset truck stay";
+var mnemonic = "drive rifle shove color fault siren awkward table soap before satoshi final";

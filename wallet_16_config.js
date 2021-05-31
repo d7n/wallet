@@ -1,1 +1,1 @@
-var mnemonic = "lesson danger cheap zone onion comfort alpha concert point lyrics unfold sense";
+var mnemonic = "squeeze ghost notable swear north boss equal silly warrior beach cricket double";

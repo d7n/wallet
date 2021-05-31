@@ -1,1 +1,1 @@
-var mnemonic = "gift river initial laugh shield figure buffalo nut clarify cannon group machine";
+var mnemonic = "garbage resist wear child bulb oval horn still hire drift insane purchase";

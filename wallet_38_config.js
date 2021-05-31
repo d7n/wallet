@@ -1,1 +1,1 @@
-var mnemonic = "jaguar album pause together brain intact shy defy blind glory enable print";
+var mnemonic = "casino need know spoil heavy place muscle relief arena salt maid bundle";

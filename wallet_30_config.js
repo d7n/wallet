@@ -1,1 +1,1 @@
-var mnemonic = "twin borrow list catch daughter crush draft kingdom series clog duck true";
+var mnemonic = "frog lock slot urban jeans clutch hour stadium situate bacon rabbit record";

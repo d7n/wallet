@@ -1,1 +1,1 @@
-var mnemonic = "increase screen success wear leaf give divide lazy earn toss relief giant";
+var mnemonic = "horror shrug nature enjoy error easy ball prepare riot daughter bomb away";

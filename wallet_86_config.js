@@ -1,1 +1,1 @@
-var mnemonic = "reject fatal video casino license hand supply boring finger major future maximum";
+var mnemonic = "almost side spider occur autumn embrace bachelor joy gym remind digital next";

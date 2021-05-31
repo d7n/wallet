@@ -1,1 +1,1 @@
-var mnemonic = "twin bus crater crane obscure fat symptom include blue tenant coast toss";
+var mnemonic = "injury metal shield theme brush agent miss solid walk dirt squirrel gallery";

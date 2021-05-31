@@ -1,1 +1,1 @@
-var mnemonic = "holiday record ramp lend sort jelly joy wage gaze bubble between finger";
+var mnemonic = "mansion under daring olive meat enable goat rescue hazard deny clog wolf";

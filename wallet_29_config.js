@@ -1,1 +1,1 @@
-var mnemonic = "spread strategy vacuum that robust sauce where uncover poem discover finish hurry";
+var mnemonic = "energy carbon unable render vendor time uncover science detail pond urge muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "major crew drift license lens only steel thunder student expand seminar digital";
+var mnemonic = "depend rice custom similar time afraid skull measure topple meadow keen cage";

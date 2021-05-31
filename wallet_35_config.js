@@ -1,1 +1,1 @@
-var mnemonic = "effort pool trial month solar chest disorder journey improve warm throw romance";
+var mnemonic = "pulp foil square news noise hurt gym stick uphold size drum west";

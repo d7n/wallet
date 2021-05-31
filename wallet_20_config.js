@@ -1,1 +1,1 @@
-var mnemonic = "paper nerve athlete already bread dust develop praise visual word ivory curve";
+var mnemonic = "recipe daring shed twist flash enhance toe february suffer double often sniff";

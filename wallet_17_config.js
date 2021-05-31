@@ -1,1 +1,1 @@
-var mnemonic = "pencil check farm orient favorite ahead express earth elephant bleak fortune awful";
+var mnemonic = "supply section black woman follow that stay october scare soup axis begin";

@@ -1,1 +1,1 @@
-var mnemonic = "possible track olive awake legend size client fluid library pilot juice elbow";
+var mnemonic = "marble ready satisfy panel edit purse shoulder movie coin filter face refuse";

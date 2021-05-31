@@ -1,1 +1,1 @@
-var mnemonic = "recall hungry price erode peasant iron love trigger upset theme device robust";
+var mnemonic = "another happy kingdom special age debris job ostrich census help trial dose";

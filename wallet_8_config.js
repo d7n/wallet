@@ -1,1 +1,1 @@
-var mnemonic = "reform cereal alpha swing immense exercise umbrella minute saddle that scrub antenna";
+var mnemonic = "document goose engine capital swallow ritual vault embark trigger ensure enter bridge";

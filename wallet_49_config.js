@@ -1,1 +1,1 @@
-var mnemonic = "supreme tray piano secret knee half giggle simple sun wage miracle bleak";
+var mnemonic = "caught dolphin hybrid knock pistol twin cricket stool supreme ask decide panther";

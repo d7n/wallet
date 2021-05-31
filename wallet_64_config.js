@@ -1,1 +1,1 @@
-var mnemonic = "tourist crush spring amazing invite illness wagon exist kidney beef duck spot";
+var mnemonic = "swear glow thunder anxiety liar sphere merge saddle pair embrace say brisk";

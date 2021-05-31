@@ -1,1 +1,1 @@
-var mnemonic = "spoil daring water pupil theory eye finger concert fish reform insect vacuum";
+var mnemonic = "spice surge cruise ethics veteran shrug image drastic noble sell elite narrow";

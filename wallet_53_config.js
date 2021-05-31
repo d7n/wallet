@@ -1,1 +1,1 @@
-var mnemonic = "elevator govern box cook rally boring sun dog off puppy denial aware";
+var mnemonic = "twelve olympic never connect farm supreme talent busy drink visa patch ten";

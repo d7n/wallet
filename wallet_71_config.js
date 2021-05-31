@@ -1,1 +1,1 @@
-var mnemonic = "trouble crouch combine toward tornado atom general help easily bench useful maple";
+var mnemonic = "ginger make unaware liar impulse shuffle culture tiny whisper cost sense potato";

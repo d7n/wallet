@@ -1,1 +1,1 @@
-var mnemonic = "cigar pilot expire book vast dog police social birth garment west motion";
+var mnemonic = "simple spin emerge hollow palm impact today gold poem sausage wing smooth";

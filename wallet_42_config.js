@@ -1,1 +1,1 @@
-var mnemonic = "crisp vital reveal elegant glove unique ostrich image describe antenna smile bubble";
+var mnemonic = "roast bag small cool gym expire obtain control monitor type worth deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep spend season nation forward end struggle rifle cup submit arch move";
+var mnemonic = "process gadget exile tone oak shop syrup mass zone blossom recycle future";

@@ -1,1 +1,1 @@
-var mnemonic = "legal under leaf burger shift youth flavor hamster toe test target surround";
+var mnemonic = "picture insect rural party slim crew man basic laundry evidence resist melt";

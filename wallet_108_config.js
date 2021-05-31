@@ -1,1 +1,1 @@
-var mnemonic = "good palace amateur menu drive cupboard wood coffee gravity gauge tent torch";
+var mnemonic = "endless cheap gloom turtle ivory conduct neglect property adult cruel pizza river";

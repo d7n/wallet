@@ -1,1 +1,1 @@
-var mnemonic = "tissue plunge frozen follow cannon beach vocal try congress firm limit relief";
+var mnemonic = "fancy start quarter cable loan rescue endless whisper practice page normal margin";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden foam notice region profit rule rail shadow awake frost coffee odor";
+var mnemonic = "buffalo joy trophy original width surprise empty tell lucky hood best globe";

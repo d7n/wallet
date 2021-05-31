@@ -1,1 +1,1 @@
-var mnemonic = "often pigeon path toss cotton amused benefit shop garment suffer isolate diamond";
+var mnemonic = "one vanish yard scare deny tiny scale disagree response sunny jewel clever";

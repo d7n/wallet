@@ -1,1 +1,1 @@
-var mnemonic = "old destroy scrap category pool unlock twist enjoy outer defense chicken empower";
+var mnemonic = "dutch burden goddess wheel rail item differ axis mechanic involve dress embark";

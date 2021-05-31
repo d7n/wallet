@@ -1,1 +1,1 @@
-var mnemonic = "clap response crucial treat cable collect wreck fox gun pioneer fever pledge";
+var mnemonic = "inject major destroy scissors delay become since style steak way degree voice";

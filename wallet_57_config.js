@@ -1,1 +1,1 @@
-var mnemonic = "manual waste verify window near cook aunt strategy scrub attitude vast sweet";
+var mnemonic = "similar poverty festival average alarm order best bachelor lawn diet lend disagree";

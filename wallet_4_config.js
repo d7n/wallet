@@ -1,1 +1,1 @@
-var mnemonic = "yard plunge material thank desk cube sight true can jewel story margin";
+var mnemonic = "tomato tip quick task pattern cactus behind vast final dignity choice bid";

@@ -1,1 +1,1 @@
-var mnemonic = "where drink multiply gentle course autumn man screen siren tray unusual sight";
+var mnemonic = "connect miracle pink salmon region heavy solution age fix hello hand body";

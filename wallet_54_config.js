@@ -1,1 +1,1 @@
-var mnemonic = "stamp response sad version festival tongue foot casual item slight canvas kid";
+var mnemonic = "eternal gasp curve brown move shiver oblige mind object shadow flight jacket";

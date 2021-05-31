@@ -1,1 +1,1 @@
-var mnemonic = "correct shell jaguar card hand grab wall bubble tongue face blossom erase";
+var mnemonic = "buddy update giraffe shed riot twice quantum announce code pact shoe dune";

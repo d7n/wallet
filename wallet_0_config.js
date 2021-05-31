@@ -1,1 +1,1 @@
-var mnemonic = "dynamic barrel vote swim lecture rack ripple reward phrase hedgehog hard quote";
+var mnemonic = "cement uncover electric weird magic film seek recall sudden daring world state";

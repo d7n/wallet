@@ -1,1 +1,1 @@
-var mnemonic = "train drama clarify shop game assume thank key hope copy deal mask";
+var mnemonic = "guess oblige roast ocean detail usual stem spot payment brain cute sudden";

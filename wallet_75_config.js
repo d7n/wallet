@@ -1,1 +1,1 @@
-var mnemonic = "use potato craft improve alone then skate sphere squeeze foam isolate erode";
+var mnemonic = "cat kangaroo lava enlist shoulder miracle box hedgehog grunt volume want steel";

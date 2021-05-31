@@ -1,1 +1,1 @@
-var mnemonic = "awkward brass update join tuition minor country object country output vapor release";
+var mnemonic = "brick rabbit alcohol another picture omit soul recipe rocket scatter danger hole";

@@ -1,1 +1,1 @@
-var mnemonic = "educate youth blouse bike camp fabric credit relief gate tank universe hidden";
+var mnemonic = "term income fringe lounge fish cabin amateur pitch ozone awesome found middle";

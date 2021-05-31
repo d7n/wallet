@@ -1,1 +1,1 @@
-var mnemonic = "scrub stay episode quantum country sauce lift laptop bar angry body skin";
+var mnemonic = "they spare guitar unfair isolate spring kitchen gun penalty friend edit wrestle";

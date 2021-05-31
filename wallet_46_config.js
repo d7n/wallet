@@ -1,1 +1,1 @@
-var mnemonic = "manual inquiry nothing draw habit field biology ill float atom pioneer define";
+var mnemonic = "bus trumpet sense zoo dynamic guitar system lawsuit finger insane exchange wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "device mushroom attract tree disorder notable violin swallow degree fiber theme soccer";
+var mnemonic = "copy angle devote gasp arch cousin moment clip empty deny despair blur";

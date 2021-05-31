@@ -1,1 +1,1 @@
-var mnemonic = "slim live tissue host ethics glad valley usual there bean buzz never";
+var mnemonic = "liar post then casino rude rose blur stumble amount habit number caught";

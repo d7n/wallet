@@ -1,1 +1,1 @@
-var mnemonic = "rose shoe heavy music electric surge order steak bomb menu boy grunt";
+var mnemonic = "expect radar service parade dream zero monitor until vehicle onion pulse web";

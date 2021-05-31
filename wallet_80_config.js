@@ -1,1 +1,1 @@
-var mnemonic = "roof six display express mango group gesture enroll potato pull theory leisure";
+var mnemonic = "shed surge measure discover today armed impulse armed olympic cup razor snap";

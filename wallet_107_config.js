@@ -1,1 +1,1 @@
-var mnemonic = "whip noble lounge arrow october install praise length also liar woman any";
+var mnemonic = "matter law grid toast mystery phone away credit path cage disagree know";

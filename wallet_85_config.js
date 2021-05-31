@@ -1,1 +1,1 @@
-var mnemonic = "daughter sauce select inspire armed term chat repeat neither speak quantum fresh";
+var mnemonic = "retire next pair area hazard soft then panel pride hurdle trade piano";

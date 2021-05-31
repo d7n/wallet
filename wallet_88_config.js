@@ -1,1 +1,1 @@
-var mnemonic = "sunny federal clinic pitch minor cycle brother equip language spice wear tennis";
+var mnemonic = "top wild cave manage cave north phone luxury gravity abandon mystery gather";

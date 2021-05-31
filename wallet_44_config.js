@@ -1,1 +1,1 @@
-var mnemonic = "credit invest lava clay field behave pitch tilt virtual reject token glory";
+var mnemonic = "wolf hurdle cannon universe element plastic lizard stamp hundred casual earth edit";

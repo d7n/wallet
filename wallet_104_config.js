@@ -1,1 +1,1 @@
-var mnemonic = "sphere weasel girl unique faculty give whale spider latin shield submit crowd";
+var mnemonic = "federal feel excuse unveil find afford steel height opera doll depart chief";

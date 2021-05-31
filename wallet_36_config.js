@@ -1,1 +1,1 @@
-var mnemonic = "treat leopard good dolphin violin legal immune camp robot firm degree idle";
+var mnemonic = "salute broccoli able vote ladder pitch tell detect duck dress hunt imitate";

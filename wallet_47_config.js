@@ -1,1 +1,1 @@
-var mnemonic = "grant idea account pole garage also coach betray tower lottery embark pony";
+var mnemonic = "catch display harvest annual wisdom twin brown capable oxygen add super analyst";

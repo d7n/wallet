@@ -1,1 +1,1 @@
-var mnemonic = "indicate hungry teach elbow benefit pill trouble body crime town sunset sun";
+var mnemonic = "pilot tribe helmet curve toe aim orient express nature anger trim mixture";

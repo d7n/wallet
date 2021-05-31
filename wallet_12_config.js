@@ -1,1 +1,1 @@
-var mnemonic = "else cloud stadium flame mixture sadness clown lunch gadget short card very";
+var mnemonic = "regret depend tenant fence virus step elevator clump mushroom choice dust liar";

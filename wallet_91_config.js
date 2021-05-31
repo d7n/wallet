@@ -1,1 +1,1 @@
-var mnemonic = "ankle rib always try then diesel heavy labor knife debate number thank";
+var mnemonic = "cinnamon vast sheriff salute kiss eight leisure come harvest soccer tag arm";

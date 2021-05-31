@@ -1,1 +1,1 @@
-var mnemonic = "harvest apple stool pony picnic dune chair enhance day trap arrange love";
+var mnemonic = "drop domain open sand wink room execute devote rural check drift catalog";

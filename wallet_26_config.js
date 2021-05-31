@@ -1,1 +1,1 @@
-var mnemonic = "shine tortoise phone loan inherit explain purpose play vicious brave brave size";
+var mnemonic = "icon begin abuse west unfair permit nation chat ready matrix famous urge";

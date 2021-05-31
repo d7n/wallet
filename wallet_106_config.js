@@ -1,1 +1,1 @@
-var mnemonic = "estate cool hurdle mistake traffic cancel awful zero cluster check rhythm together";
+var mnemonic = "call much betray remember clock portion train sad broken minor style holiday";

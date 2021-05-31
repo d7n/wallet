@@ -1,1 +1,1 @@
-var mnemonic = "gold balcony meadow virtual syrup chronic clarify device dignity drift paper either";
+var mnemonic = "betray female item gift march permit skate meat village lyrics gym month";

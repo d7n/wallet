@@ -1,1 +1,1 @@
-var mnemonic = "cotton artefact various citizen hire excuse paper mouse major frozen mechanic control";
+var mnemonic = "defense thing degree ankle notice impulse echo cheese canyon scout soccer clean";

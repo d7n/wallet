@@ -1,1 +1,1 @@
-var mnemonic = "error office fence art keen engage among skate stay scene grace like";
+var mnemonic = "husband liberty better vendor brave property cross next powder hover hub ridge";

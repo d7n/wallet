@@ -1,1 +1,1 @@
-var mnemonic = "clip shield give cancel choice cancel sing solve usual bind flame license";
+var mnemonic = "wear often verify space bronze gas muscle fringe inside noise response cable";

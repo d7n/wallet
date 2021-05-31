@@ -1,1 +1,1 @@
-var mnemonic = "trap ancient ill predict tooth wall crane twelve label hurt corn thank";
+var mnemonic = "under lake modify patient soccer seminar logic model witness abstract engage trim";

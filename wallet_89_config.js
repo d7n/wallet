@@ -1,1 +1,1 @@
-var mnemonic = "creek ball scene wisdom execute quit cheese pear sniff marriage excite kite";
+var mnemonic = "sleep town swallow account fiction buddy garden away few ecology mean spin";

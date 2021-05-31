@@ -1,1 +1,1 @@
-var mnemonic = "when police desk license gloom distance marble napkin winner endorse agent dust";
+var mnemonic = "loan yard rude want twin fire caught future where pair share switch";

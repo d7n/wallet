@@ -1,1 +1,1 @@
-var mnemonic = "craft tongue coconut awesome reduce panther unique mistake oppose orphan sugar enough";
+var mnemonic = "usage file solution jungle dove say grain lunch other frost casino crystal";

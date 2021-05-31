@@ -1,1 +1,1 @@
-var mnemonic = "water monster giggle naive long alley guitar muffin cry put purchase faculty";
+var mnemonic = "athlete stuff matter faint door vital enrich lemon gauge stove unusual turn";

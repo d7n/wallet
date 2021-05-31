@@ -1,1 +1,1 @@
-var mnemonic = "humble truly modify tide left during spider lock frown crop letter flag";
+var mnemonic = "current public number toy flee green fox eternal normal slight settle actor";

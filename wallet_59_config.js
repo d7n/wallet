@@ -1,1 +1,1 @@
-var mnemonic = "onion tool same steel curious border myth race swim long spy economy";
+var mnemonic = "unable poem transfer critic toast economy extend shoulder fever grunt increase medal";

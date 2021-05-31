@@ -1,1 +1,1 @@
-var mnemonic = "tree affair jump volume casual ask swear snap review canal frog beef";
+var mnemonic = "potato noble record action infant obvious toward blade ancient east carbon index";

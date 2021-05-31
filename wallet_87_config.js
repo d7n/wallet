@@ -1,1 +1,1 @@
-var mnemonic = "shove margin agree sad office all hat cancel sun hidden vacuum cost";
+var mnemonic = "belt hub motor flavor odor few legend patient purity much situate second";

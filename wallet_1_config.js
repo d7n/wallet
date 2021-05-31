@@ -1,1 +1,1 @@
-var mnemonic = "laugh casino tissue empower mansion moon hover group copper cradle heart ghost";
+var mnemonic = "couple book latin brick spawn judge opera capital cotton draft sight oyster";

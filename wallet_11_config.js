@@ -1,1 +1,1 @@
-var mnemonic = "spend large mercy duck unhappy brown decide genius wish valve miss since";
+var mnemonic = "kick amazing odor shell tent dirt section ability setup now print depth";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon march illness pluck venture shoulder just tonight old conduct spread mass";
+var mnemonic = "receive exile timber domain emotion merry inmate sell unaware cattle melody hybrid";

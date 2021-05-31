@@ -1,1 +1,1 @@
-var mnemonic = "daring rely stove scheme couch next hybrid apology express tomorrow wisdom maximum";
+var mnemonic = "shop valid holiday smoke major leisure cradle mountain slot beach manual hire";

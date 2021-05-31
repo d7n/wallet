@@ -1,1 +1,1 @@
-var mnemonic = "arctic angry fame love whip shaft trim hour nut scorpion circle hungry";
+var mnemonic = "level tackle deal lunar piece keen muffin slogan sustain bundle admit labor";

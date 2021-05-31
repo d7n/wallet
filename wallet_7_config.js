@@ -1,1 +1,1 @@
-var mnemonic = "lady sword term pottery elder snack fine yard busy tonight slush amused";
+var mnemonic = "crouch tongue seven huge order solve utility index clerk reunion beauty biology";

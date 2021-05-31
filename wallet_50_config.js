@@ -1,1 +1,1 @@
-var mnemonic = "appear amateur soap stereo wisdom enlist scorpion lawn paper above globe planet";
+var mnemonic = "between hip voyage potato quit electric peasant skull elegant flavor horn live";
