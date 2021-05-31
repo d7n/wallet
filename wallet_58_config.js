@@ -1,1 +1,1 @@
-var mnemonic = "crash swift track ozone volume hint urban mansion castle practice echo sample";
+var mnemonic = "type icon plunge trial member polar segment lend clay border void wish";

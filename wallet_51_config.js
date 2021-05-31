@@ -1,1 +1,1 @@
-var mnemonic = "clap ship egg scrub market under guard reason fever turn castle soft";
+var mnemonic = "chaos capable wash lunar plate enhance tourist alter ordinary admit they firm";

@@ -1,1 +1,1 @@
-var mnemonic = "engine leader flight purity scale three slow heavy board congress garlic quote";
+var mnemonic = "auto tree what wedding spell ready more meat blame boat tortoise permit";

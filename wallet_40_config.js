@@ -1,1 +1,1 @@
-var mnemonic = "bronze anxiety palm transfer swear slush wet team rare eight auction devote";
+var mnemonic = "guilt alcohol strike capital nasty denial wire estate loyal outdoor victory rice";

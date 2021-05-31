@@ -1,1 +1,1 @@
-var mnemonic = "exchange wire volume address cargo title aisle canoe kingdom later deputy lemon";
+var mnemonic = "large basic silk vacuum soldier lunar purpose kite boring license click brand";

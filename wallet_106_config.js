@@ -1,1 +1,1 @@
-var mnemonic = "copper define volcano drift label own arrest neck still jealous parent cup";
+var mnemonic = "regular salmon car deputy exercise chuckle minimum casino city owner apology potato";

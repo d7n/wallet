@@ -1,1 +1,1 @@
-var mnemonic = "afford fit broccoli treat skull short gate inject dragon text cheese lecture";
+var mnemonic = "heart calm oil undo can impulse dragon tilt fox fossil real belt";

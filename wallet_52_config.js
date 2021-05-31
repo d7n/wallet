@@ -1,1 +1,1 @@
-var mnemonic = "potato point tiny august squeeze collect exchange subway train romance teach square";
+var mnemonic = "bid upper orchard gesture audit cable when response pistol pigeon roast common";

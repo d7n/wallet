@@ -1,1 +1,1 @@
-var mnemonic = "symptom pepper typical corn settle happy patient casino offer quality cash right";
+var mnemonic = "lecture supreme crucial silver comic answer nuclear discover alley girl birth inside";

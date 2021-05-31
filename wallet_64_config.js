@@ -1,1 +1,1 @@
-var mnemonic = "jump gallery bamboo salon jump damp fatigue excess width century tail reject";
+var mnemonic = "weekend lunch retreat section lava height category rely actor canal sentence clip";

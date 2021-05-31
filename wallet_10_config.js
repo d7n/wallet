@@ -1,1 +1,1 @@
-var mnemonic = "result display hidden addict drama sand response shrug sort social explain shuffle";
+var mnemonic = "combine cushion grow frequent nut void unable member thumb shy vault axis";

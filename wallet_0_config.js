@@ -1,1 +1,1 @@
-var mnemonic = "squeeze box pigeon material dish universe asset protect slim category gloom sort";
+var mnemonic = "age daughter suggest chef olive glass boss bench dawn rabbit trade term";

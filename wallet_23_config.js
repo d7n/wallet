@@ -1,1 +1,1 @@
-var mnemonic = "wet bachelor shove universe across help legend obvious plate local prefer verb";
+var mnemonic = "metal retreat vague reject glare essence gaze language ice change need want";

@@ -1,1 +1,1 @@
-var mnemonic = "predict burger stereo arrow vehicle type mix proud copper license uniform ranch";
+var mnemonic = "wire mosquito wrong mango beef response access ribbon visual rebel spike animal";

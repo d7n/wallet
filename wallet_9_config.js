@@ -1,1 +1,1 @@
-var mnemonic = "movie display remind dial sibling give disease detail weekend novel trip interest";
+var mnemonic = "city ball flee weasel popular insect exercise narrow chronic similar river mom";

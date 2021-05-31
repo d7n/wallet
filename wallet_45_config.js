@@ -1,1 +1,1 @@
-var mnemonic = "distance mammal image obtain squeeze whisper six charge fine moral gadget right";
+var mnemonic = "need output diamond tornado worry owner vacant wear wine mushroom used leg";

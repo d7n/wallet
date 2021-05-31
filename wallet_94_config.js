@@ -1,1 +1,1 @@
-var mnemonic = "icon tail banner nerve churn diamond rural fog what velvet tide fence";
+var mnemonic = "snack into myth myself wet master baby spike spy humble since clock";

@@ -1,1 +1,1 @@
-var mnemonic = "common ankle price illegal tomato rebuild hair planet woman inmate obey lens";
+var mnemonic = "stomach green hint crowd lazy skull book carpet doll speed brave tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "tray name crazy hobby october mammal whip truly adjust approve police combine";
+var mnemonic = "script relief belt flight risk interest farm mirror surge laundry purity bullet";

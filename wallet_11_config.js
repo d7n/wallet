@@ -1,1 +1,1 @@
-var mnemonic = "liquid net image noodle acoustic visual tonight reason way tattoo razor chapter";
+var mnemonic = "galaxy acid wink stomach depth judge confirm damage immense misery festival luggage";

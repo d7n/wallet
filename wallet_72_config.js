@@ -1,1 +1,1 @@
-var mnemonic = "sustain swallow person before domain suspect gauge stadium theme position legend adjust";
+var mnemonic = "bachelor seat behave truth answer omit nature delay off cart measure test";

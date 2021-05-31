@@ -1,1 +1,1 @@
-var mnemonic = "fault riot twice comfort tribe snack someone home carry spoon nasty lion";
+var mnemonic = "approve fresh punch double position wheel wet unaware ignore elbow middle decide";

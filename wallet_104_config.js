@@ -1,1 +1,1 @@
-var mnemonic = "future message century wait peace guitar ticket admit armed found worth usage";
+var mnemonic = "diary snack genre able leopard sentence assault dial project mammal paddle income";

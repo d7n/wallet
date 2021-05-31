@@ -1,1 +1,1 @@
-var mnemonic = "position issue orchard miracle east you enact mail scout carry crystal stool";
+var mnemonic = "obtain siege afford shrimp caution assume bless similar ivory solar load pioneer";

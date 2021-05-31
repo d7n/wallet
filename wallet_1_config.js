@@ -1,1 +1,1 @@
-var mnemonic = "damp intact describe found almost fancy flight afraid visa room build bubble";
+var mnemonic = "adjust always end menu dish give curve predict develop copper eyebrow mixed";

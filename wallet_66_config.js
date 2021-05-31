@@ -1,1 +1,1 @@
-var mnemonic = "canyon nasty credit pig cattle during oxygen hand arrange unit cliff floor";
+var mnemonic = "luxury oppose brave race scare say permit spare letter illegal split twice";

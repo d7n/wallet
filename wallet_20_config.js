@@ -1,1 +1,1 @@
-var mnemonic = "move recall lawn reunion reject pioneer token damage banana favorite author faint";
+var mnemonic = "easy tree razor crack gadget lake wear apart enjoy vacant dad sea";

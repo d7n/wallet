@@ -1,1 +1,1 @@
-var mnemonic = "tide problem tennis umbrella spin fish abuse inner magic doctor either drastic";
+var mnemonic = "second edit festival fringe purity text visual bubble parent noodle palace domain";

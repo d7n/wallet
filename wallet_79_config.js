@@ -1,1 +1,1 @@
-var mnemonic = "sail pulse tuna spin park version smooth rocket legend omit soul eagle";
+var mnemonic = "clip odor park debris runway final vast loyal clerk venue wide until";

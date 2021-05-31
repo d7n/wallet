@@ -1,1 +1,1 @@
-var mnemonic = "kidney spider piano maximum trip ring salad grocery mind ticket wife web";
+var mnemonic = "shoot rail cabbage blame talent winner close ball pilot abuse again piano";

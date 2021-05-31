@@ -1,1 +1,1 @@
-var mnemonic = "gather alone stable census vanish pistol verb maid recycle umbrella deal youth";
+var mnemonic = "master prefer believe leaf dune result ride gentle body physical skate wash";

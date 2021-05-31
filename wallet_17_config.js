@@ -1,1 +1,1 @@
-var mnemonic = "artwork crew upon paddle later list predict album play frozen cover consider";
+var mnemonic = "royal achieve useless three bulk soft clip need casino adapt search leave";

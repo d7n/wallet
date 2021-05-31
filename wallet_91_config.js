@@ -1,1 +1,1 @@
-var mnemonic = "scare fever worth crisp wire useless peanut denial reform pitch genius tool";
+var mnemonic = "pass melody couch card scrub degree fire timber salt spring heavy section";

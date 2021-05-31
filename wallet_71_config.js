@@ -1,1 +1,1 @@
-var mnemonic = "verify hybrid ship arrange perfect aisle grow cake gym jelly mean delay";
+var mnemonic = "leisure floor entry car shiver bread lucky poem owner oppose appear green";

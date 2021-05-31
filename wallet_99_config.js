@@ -1,1 +1,1 @@
-var mnemonic = "purse thought bid vibrant snap forest way perfect school leader desert retire";
+var mnemonic = "vanish athlete scheme unfold knee impulse rack weapon walk sort eager net";

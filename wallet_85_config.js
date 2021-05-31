@@ -1,1 +1,1 @@
-var mnemonic = "what town adult nature rotate good rally split else swarm crystal deposit";
+var mnemonic = "trash trial melt rate one also hammer essence select father lady improve";

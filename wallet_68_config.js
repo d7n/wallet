@@ -1,1 +1,1 @@
-var mnemonic = "hood wet biology sun defy host caught stand cannon want october fine";
+var mnemonic = "machine must unhappy warfare this manage pull answer want true tiger clutch";

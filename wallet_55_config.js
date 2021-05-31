@@ -1,1 +1,1 @@
-var mnemonic = "fold require behave sibling have call unique mushroom adjust sort twelve bulb";
+var mnemonic = "ball frame pilot ankle render all recall essay level shed scale beef";

@@ -1,1 +1,1 @@
-var mnemonic = "slice three hen salute nasty decade walnut wreck town banner orphan license";
+var mnemonic = "eagle hurdle sting essence want charge yard express display okay income cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "grief clerk advice useless ginger trend shove morning medal brand boost crush";
+var mnemonic = "twice enjoy sound violin way rescue hobby resemble donate future coast index";

@@ -1,1 +1,1 @@
-var mnemonic = "trade evil detect swallow bring reform jump wear share reason warm fork";
+var mnemonic = "evidence ladder pledge interest shed share volume forum chef vague able olympic";

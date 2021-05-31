@@ -1,1 +1,1 @@
-var mnemonic = "duty cluster brave menu exclude seat tourist mixed saddle empty sentence oak";
+var mnemonic = "wine shoulder you lunar keen history jewel inquiry deer horse repeat lava";

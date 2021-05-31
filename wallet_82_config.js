@@ -1,1 +1,1 @@
-var mnemonic = "setup height chalk glow absurd insane home squirrel tongue degree giant impose";
+var mnemonic = "ivory rent meat cram alone switch dinosaur climb midnight gain wealth kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "model category crater push fox brush return coyote just female link tattoo";
+var mnemonic = "machine portion banner supreme enact abandon tip night piece athlete maximum trend";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion truck vacant arctic wheel differ stand reopen bulb rookie awake bean";
+var mnemonic = "merit easy panic pink robust multiply eager steak spider bean phone sister";

@@ -1,1 +1,1 @@
-var mnemonic = "erode sad boost hidden topple turkey unlock axis correct thumb junior primary";
+var mnemonic = "uniform bread rebuild split absent praise uncle anxiety toddler repair tomato rely";

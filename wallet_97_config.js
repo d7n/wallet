@@ -1,1 +1,1 @@
-var mnemonic = "local dose cheese promote win spike pony crawl cinnamon history student embrace";
+var mnemonic = "there holiday dance night shoot cool climb patch hub movie text cushion";

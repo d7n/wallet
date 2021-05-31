@@ -1,1 +1,1 @@
-var mnemonic = "rack yard scorpion attract blade tragic trial expect question boat noble vacuum";
+var mnemonic = "myth topple hazard lyrics spring sheriff around gun pool want jump exit";

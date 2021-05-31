@@ -1,1 +1,1 @@
-var mnemonic = "favorite picnic athlete tip shiver potato build profit super vessel pen sort";
+var mnemonic = "race regret sausage upset wrist someone smooth jacket ecology spoon end where";

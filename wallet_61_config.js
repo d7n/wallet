@@ -1,1 +1,1 @@
-var mnemonic = "praise neck country absorb also license body vague noodle carry journey voice";
+var mnemonic = "split summer evolve recall praise imitate execute same sun head sauce stand";

@@ -1,1 +1,1 @@
-var mnemonic = "party grit giggle injury tone float fire cabin boy faith simple decide";
+var mnemonic = "bus vendor novel mass sibling feed soon wire cost path imitate three";

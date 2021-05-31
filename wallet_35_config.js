@@ -1,1 +1,1 @@
-var mnemonic = "insect market task town exhibit satoshi salad aim public fun laundry harvest";
+var mnemonic = "build civil tower task secret arch champion romance rose soap practice industry";

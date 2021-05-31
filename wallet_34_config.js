@@ -1,1 +1,1 @@
-var mnemonic = "acquire unknown unknown person talent slide ramp heavy few trip sunset decide";
+var mnemonic = "flame warfare pill parrot police shift series slim scrap near basket elephant";

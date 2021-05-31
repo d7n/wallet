@@ -1,1 +1,1 @@
-var mnemonic = "vapor drastic thing twice mask alarm wreck submit outer gravity garage where";
+var mnemonic = "voyage mention omit city always fat ripple subway blush vague gossip weird";

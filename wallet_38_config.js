@@ -1,1 +1,1 @@
-var mnemonic = "fan onion boy chest ensure sound vacuum song blast plastic daughter feel";
+var mnemonic = "swallow notice gun imitate cactus emotion rocket adapt phone bless protect simple";

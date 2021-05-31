@@ -1,1 +1,1 @@
-var mnemonic = "online insane suit dilemma gate chief pitch learn stem employ pitch squeeze";
+var mnemonic = "radio liquid slide enlist tornado love enhance crack december usage lamp clown";

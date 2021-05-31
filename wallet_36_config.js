@@ -1,1 +1,1 @@
-var mnemonic = "gospel upgrade stay beyond add outside develop corn girl guard wine sword";
+var mnemonic = "scene duck leave throw mesh submit day tide eagle fine episode sense";

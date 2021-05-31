@@ -1,1 +1,1 @@
-var mnemonic = "wrist swarm illegal sword reform stomach disorder banana differ opera powder develop";
+var mnemonic = "caught motion expect cycle seven buzz auction travel toe pluck west prison";

@@ -1,1 +1,1 @@
-var mnemonic = "square debate inform sheriff resist balcony table forget antenna addict banner reject";
+var mnemonic = "lock pull civil city pig glow urge bronze dove nest recipe pistol";

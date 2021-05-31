@@ -1,1 +1,1 @@
-var mnemonic = "measure liquid street retreat weekend awful claim smart clean feed nerve gold";
+var mnemonic = "slab oxygen consider rain pitch unit opinion eager box crazy bike derive";

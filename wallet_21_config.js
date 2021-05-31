@@ -1,1 +1,1 @@
-var mnemonic = "public kitten tribe useless obey leg mammal blossom helmet also airport fever";
+var mnemonic = "auto minute special breeze either arctic smoke fat already success industry input";

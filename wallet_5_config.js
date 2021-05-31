@@ -1,1 +1,1 @@
-var mnemonic = "weird crime marriage mass cereal loud movie sample east fatal calm misery";
+var mnemonic = "spawn sponsor service purity seed argue tomorrow sudden absorb salt proud torch";

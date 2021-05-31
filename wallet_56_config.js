@@ -1,1 +1,1 @@
-var mnemonic = "brown dinosaur bottom goddess busy swamp ocean urge buffalo rule bag transfer";
+var mnemonic = "shrimp depart divide calm save just maid pigeon enter movie orphan chair";

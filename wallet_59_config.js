@@ -1,1 +1,1 @@
-var mnemonic = "weekend mask crush eagle lottery airport normal future hidden farm peace way";
+var mnemonic = "insane dolphin donor three angry sister zebra token tooth card drill dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "lend unhappy nice village thunder strategy hedgehog color divorce better vendor venue";
+var mnemonic = "second great control duck note jacket couch bamboo benefit brick random vicious";

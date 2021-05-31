@@ -1,1 +1,1 @@
-var mnemonic = "bring avocado surround bubble travel produce hard easy goat ribbon stable book";
+var mnemonic = "example strategy farm conduct question trick recall latin goat fragile age fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "other rural brief sausage virus cloth bar marriage key cruise peasant dice";
+var mnemonic = "frost library pilot stamp invite garage tongue aim amateur year cricket arrow";

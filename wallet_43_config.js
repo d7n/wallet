@@ -1,1 +1,1 @@
-var mnemonic = "scare mean sock verb strong huge heavy ribbon inflict capable opera isolate";
+var mnemonic = "priority catalog artist arena family broken spawn own cabin jaguar unique grab";

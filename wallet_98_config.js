@@ -1,1 +1,1 @@
-var mnemonic = "act hair sea six upper fork tobacco toe obscure lyrics adult soccer";
+var mnemonic = "word link banana dust welcome trim derive exile wing picnic pledge net";

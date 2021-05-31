@@ -1,1 +1,1 @@
-var mnemonic = "scrub labor tennis shock pretty hub odor arena knock mention express angry";
+var mnemonic = "nominee exclude craft cancel wire please critic anxiety improve crumble sample tilt";

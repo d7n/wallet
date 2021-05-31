@@ -1,1 +1,1 @@
-var mnemonic = "dinner naive raven shrimp solution mammal used collect dream write bird sorry";
+var mnemonic = "devote expect left always edge aerobic insane nurse exit stock moon erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "knee amateur menu friend roast goose cool evil world rich thrive forward";
+var mnemonic = "town south parrot pear upon crush tube elephant fuel false sea olive";

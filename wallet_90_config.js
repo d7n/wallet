@@ -1,1 +1,1 @@
-var mnemonic = "obvious owner found exhaust hotel alcohol tourist ability interest emerge emotion canoe";
+var mnemonic = "shock modify success mechanic abuse super add online midnight perfect follow frequent";

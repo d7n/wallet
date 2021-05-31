@@ -1,1 +1,1 @@
-var mnemonic = "arch must capable gun camera elite meat wave dash unfold fox erode";
+var mnemonic = "wrap soda ritual dry member focus detail connect trip sick breeze ball";

@@ -1,1 +1,1 @@
-var mnemonic = "library token banner mango worry clip share rude team dish hair end";
+var mnemonic = "inside cloth play exchange bargain utility alert joke solve account ride curious";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt element usage obscure music wine daughter firm garment there since sudden";
+var mnemonic = "paddle imitate adjust range muscle exclude three more mammal sea wild force";

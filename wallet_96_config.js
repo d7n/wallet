@@ -1,1 +1,1 @@
-var mnemonic = "card glare typical price empower awkward lemon address alter guilt promote bench";
+var mnemonic = "donkey hamster angle impulse timber label spare flash model spike finger harsh";

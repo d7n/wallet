@@ -1,1 +1,1 @@
-var mnemonic = "govern master letter holiday defy next insane resist parrot never neutral alarm";
+var mnemonic = "floor enrich uphold best link burst amount way gossip enroll extend inform";

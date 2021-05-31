@@ -1,1 +1,1 @@
-var mnemonic = "crack universe chest effort ribbon news pupil tackle polar story nut armor";
+var mnemonic = "slab grief often taste limb sphere puppy verb replace brand avoid place";

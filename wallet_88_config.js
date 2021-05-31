@@ -1,1 +1,1 @@
-var mnemonic = "stomach middle correct reform toddler oak boss gesture public project detail hire";
+var mnemonic = "vote gentle bounce cute token actress suffer combine vocal remind story time";

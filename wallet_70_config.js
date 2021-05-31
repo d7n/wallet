@@ -1,1 +1,1 @@
-var mnemonic = "together cheese dove achieve gold mystery comfort sword fuel tube swarm inhale";
+var mnemonic = "keen shop worry spice coil arrive patrol vote siege tortoise lock during";

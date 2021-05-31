@@ -1,1 +1,1 @@
-var mnemonic = "athlete pottery inside confirm mouse upper clown tuition october dutch penalty enforce";
+var mnemonic = "garbage cherry aerobic penalty balcony vapor vendor hand bag trigger silver anxiety";

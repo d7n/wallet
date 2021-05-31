@@ -1,1 +1,1 @@
-var mnemonic = "label weekend shock dolphin lesson level smooth shell citizen rich soap episode";
+var mnemonic = "kidney subway tilt swing dash toddler sister anxiety idle noodle always fine";

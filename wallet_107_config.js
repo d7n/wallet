@@ -1,1 +1,1 @@
-var mnemonic = "mad chair path two category gossip saddle inch load sand trial duty";
+var mnemonic = "spare link permit deal cause pave flat embark deny glory nature slot";

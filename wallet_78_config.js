@@ -1,1 +1,1 @@
-var mnemonic = "below badge prepare soldier region crumble envelope cat sister drill section dinosaur";
+var mnemonic = "bomb kitten cabin sail choose cousin taxi render carry blanket fluid rotate";

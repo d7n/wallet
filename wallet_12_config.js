@@ -1,1 +1,1 @@
-var mnemonic = "cereal property audit dice solution box meadow buffalo viable come this unit";
+var mnemonic = "already cigar song auto inquiry family unit dynamic dilemma solar ranch flat";

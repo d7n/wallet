@@ -1,1 +1,1 @@
-var mnemonic = "recipe sun century occur harvest solve private humor unfold century word clock";
+var mnemonic = "toilet satisfy upset goose utility word lens slam excite unknown crime adult";

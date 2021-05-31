@@ -1,1 +1,1 @@
-var mnemonic = "detect canyon exhaust suffer giraffe job cradle hidden grocery potato economy spoon";
+var mnemonic = "fiscal grab cream lion glass young forest head apology give walnut general";

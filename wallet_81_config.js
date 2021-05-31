@@ -1,1 +1,1 @@
-var mnemonic = "tragic budget ecology bullet broccoli liar stage kit dog lizard tide journey";
+var mnemonic = "mobile century dust spray neutral error tilt vacant year sun beauty forum";

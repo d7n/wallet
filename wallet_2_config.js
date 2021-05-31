@@ -1,1 +1,1 @@
-var mnemonic = "fade size latin escape ball joy client erode eagle body october swamp";
+var mnemonic = "antenna injury conduct venture sort faculty man field love fossil stairs fantasy";

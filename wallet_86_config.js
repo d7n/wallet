@@ -1,1 +1,1 @@
-var mnemonic = "promote nose offer taxi morning canyon crew identify panther snake trial keep";
+var mnemonic = "traffic police tenant plastic portion gap tape organ deposit scout virus spawn";
