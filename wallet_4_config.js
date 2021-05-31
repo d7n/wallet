@@ -1,1 +1,1 @@
-var mnemonic = "hobby decline more finger say wreck crowd trust explain cattle law canyon";
+var mnemonic = "beach dish blast alter okay current body trade shell journey wolf office";

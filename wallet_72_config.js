@@ -1,1 +1,1 @@
-var mnemonic = "review grain tenant almost under observe when know secret hood tumble wife";
+var mnemonic = "teach throw soap pencil nephew choose flush nominee day protect rubber destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "gold jealous cannon tired muffin attract zebra exclude pottery shock speak pause";
+var mnemonic = "puppy spider lion frog oppose mutual edit fragile embrace route example hollow";

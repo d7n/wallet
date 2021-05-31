@@ -1,1 +1,1 @@
-var mnemonic = "grant faint heart garbage cargo satoshi gesture genius situate salute fish clap";
+var mnemonic = "sure deputy glad huge exhaust pottery also cactus hold urban rebel earth";

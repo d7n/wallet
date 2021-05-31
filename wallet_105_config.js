@@ -1,1 +1,1 @@
-var mnemonic = "erosion father hard brass calm unfold market medal resemble author meadow armor";
+var mnemonic = "web differ catalog point parrot vintage finger drive upset size cement clog";

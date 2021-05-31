@@ -1,1 +1,1 @@
-var mnemonic = "option fly fly winter file organ absorb wool trash enrich crunch fire";
+var mnemonic = "key fame gravity silent rally replace universe grab relief possible yard patient";

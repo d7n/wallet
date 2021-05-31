@@ -1,1 +1,1 @@
-var mnemonic = "matter clutch exhibit mutual hobby cliff clump pepper prevent young humor nose";
+var mnemonic = "frequent guilt razor tooth pottery select client hawk pond zero misery brother";

@@ -1,1 +1,1 @@
-var mnemonic = "glare buddy sudden scatter hawk blast crop profit record pencil whale save";
+var mnemonic = "grief display course recall manual direct museum mechanic galaxy skill other simple";

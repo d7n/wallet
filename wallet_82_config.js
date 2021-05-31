@@ -1,1 +1,1 @@
-var mnemonic = "axis surge milk that combine give code canoe round wing wink mask";
+var mnemonic = "east circle ticket pony siege seed chef oblige security culture buffalo card";

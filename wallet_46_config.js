@@ -1,1 +1,1 @@
-var mnemonic = "kiwi warm hello job often cattle pulp rocket submit wrist pepper year";
+var mnemonic = "vicious false rather saddle manual jealous property mutual ozone pulse embody deputy";

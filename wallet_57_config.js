@@ -1,1 +1,1 @@
-var mnemonic = "toy ghost pet minor street juice hockey decline melt author quality connect";
+var mnemonic = "stone poem winter elephant enjoy wise country apple force cage dust glimpse";

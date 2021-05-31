@@ -1,1 +1,1 @@
-var mnemonic = "lobster bulb denial summer glass blossom choice manage slush barely grocery gown";
+var mnemonic = "finger habit body object age blouse comfort unfold river miracle ignore cluster";

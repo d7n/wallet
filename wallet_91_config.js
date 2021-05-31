@@ -1,1 +1,1 @@
-var mnemonic = "slight range duck dice oblige duck there list budget civil notice pride";
+var mnemonic = "ready adapt repair sentence apple maximum trouble spare fruit series jewel labor";

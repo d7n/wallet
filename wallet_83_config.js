@@ -1,1 +1,1 @@
-var mnemonic = "skin dentist soup solar unique burst noise toilet broccoli between guitar crush";
+var mnemonic = "dismiss wise garlic crime fresh story promote rain pledge two admit one";

@@ -1,1 +1,1 @@
-var mnemonic = "device taste wink harsh fluid circle crazy void certain antique satisfy luggage";
+var mnemonic = "hotel husband acid layer major stand ride anger unhappy sugar exile virus";

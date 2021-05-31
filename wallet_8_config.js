@@ -1,1 +1,1 @@
-var mnemonic = "neutral actress harbor total pulp nominee believe belt recall pottery pigeon isolate";
+var mnemonic = "enhance sorry height screen cotton slow gun admit depth rug lake curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "slim journey together tide envelope dragon luxury quick boost doll fuel cannon";
+var mnemonic = "rough web gospel simple fresh stadium network rural shoot vault tunnel share";

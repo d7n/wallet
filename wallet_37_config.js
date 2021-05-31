@@ -1,1 +1,1 @@
-var mnemonic = "unhappy girl soft hip ethics exit grid unlock bicycle drastic release snake";
+var mnemonic = "scorpion tree thought betray noise tumble balance dinner slender chef height ozone";

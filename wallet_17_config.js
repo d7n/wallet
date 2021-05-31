@@ -1,1 +1,1 @@
-var mnemonic = "assault pioneer exercise witness awkward stick dignity series again achieve awful access";
+var mnemonic = "tragic clown valley lonely fossil ring cargo state beauty punch neither stone";

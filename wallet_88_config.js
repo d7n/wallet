@@ -1,1 +1,1 @@
-var mnemonic = "little afford spray income glass mango rail myth peanut badge diet air";
+var mnemonic = "bitter delay image vital aware struggle sun idea believe alert approve mean";

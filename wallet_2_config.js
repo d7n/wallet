@@ -1,1 +1,1 @@
-var mnemonic = "bring off crazy fit calm knee crash album boost click poet friend";
+var mnemonic = "inquiry flower toddler surge kid flock pass frown balance royal acquire census";

@@ -1,1 +1,1 @@
-var mnemonic = "window edge consider derive wealth patrol drill project trim senior sick member";
+var mnemonic = "renew travel talk coach gesture yard wall van web save faith autumn";

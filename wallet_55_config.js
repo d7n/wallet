@@ -1,1 +1,1 @@
-var mnemonic = "rally vote cement level father marine resource photo blood analyst adult chapter";
+var mnemonic = "reveal cube light mad found hair lobster safe ostrich truly deer opinion";

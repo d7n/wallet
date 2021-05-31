@@ -1,1 +1,1 @@
-var mnemonic = "coconut uphold rain buddy poem later merit diamond tiny cage final hurt";
+var mnemonic = "vivid table patient miss brush friend mammal hazard capable movie mosquito divert";

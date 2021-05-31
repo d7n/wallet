@@ -1,1 +1,1 @@
-var mnemonic = "clump grab shaft leader pink fiscal state bounce anxiety armed coast very";
+var mnemonic = "fee use coach afford client blood metal wealth stay coral almost visa";

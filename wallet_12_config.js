@@ -1,1 +1,1 @@
-var mnemonic = "soon nothing citizen ticket nominee wolf trend kit call celery tuna shrug";
+var mnemonic = "blouse budget parrot trust hazard upon whale express impulse loop route message";

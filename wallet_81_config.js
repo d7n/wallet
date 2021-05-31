@@ -1,1 +1,1 @@
-var mnemonic = "boil lobster execute easily buffalo fabric obtain alter grid faculty knee return";
+var mnemonic = "caught smoke fan aisle media shed screen foot mixed flush ordinary submit";

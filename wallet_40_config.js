@@ -1,1 +1,1 @@
-var mnemonic = "flee salt second runway topple series access grace amused journey ranch athlete";
+var mnemonic = "foam shiver conduct barely twenty awkward radio bulb mass rug mechanic sort";

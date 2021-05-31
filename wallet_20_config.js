@@ -1,1 +1,1 @@
-var mnemonic = "random scale drastic creek wage trend pill remove ghost stool drink gadget";
+var mnemonic = "drive giggle speak wreck tortoise comic rifle jealous earth pottery bargain hurry";

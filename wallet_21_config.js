@@ -1,1 +1,1 @@
-var mnemonic = "hello toddler rubber bar remember cereal minor spike unit alter common state";
+var mnemonic = "project lamp narrow text soup mention kiss pudding tuition piece thrive mosquito";

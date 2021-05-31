@@ -1,1 +1,1 @@
-var mnemonic = "gun lion panther appear glue insane bargain guitar purchase flip wrap index";
+var mnemonic = "bleak shadow wing shoulder topple olive sugar cattle swim hood large typical";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake dumb easily know exit modify elite focus sustain tail invite shoe";
+var mnemonic = "okay cup fuel noble glass rich adult soon swear believe balcony normal";

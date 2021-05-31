@@ -1,1 +1,1 @@
-var mnemonic = "prize right mouse wheat turtle spike luggage whale fitness month barrel want";
+var mnemonic = "occur glad burden panel solar captain mixture soft team simple strike jewel";

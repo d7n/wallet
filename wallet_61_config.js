@@ -1,1 +1,1 @@
-var mnemonic = "wild organ harsh pelican across sense bridge fantasy congress final proud estate";
+var mnemonic = "valid dirt glare observe ankle never teach exile jazz short clerk small";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle describe maid similar believe depend alter future cinnamon enough clean core";
+var mnemonic = "spot give surprise frozen lava virus grace napkin surface test swing outside";

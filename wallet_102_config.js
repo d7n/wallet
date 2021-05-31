@@ -1,1 +1,1 @@
-var mnemonic = "better author ancient diesel spell diesel employ ready hour blast knock sail";
+var mnemonic = "fox damp account insect teach soldier recall staff unaware cloth main parent";

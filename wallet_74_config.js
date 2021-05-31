@@ -1,1 +1,1 @@
-var mnemonic = "fetch crunch output toast lock host actual poverty novel shield phone wear";
+var mnemonic = "filter sphere once cover runway fire arm push clean unhappy slight coral";

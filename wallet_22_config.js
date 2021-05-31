@@ -1,1 +1,1 @@
-var mnemonic = "cake master analyst when fix cushion math skate face shallow foil road";
+var mnemonic = "maximum service chalk autumn critic angry little coffee buyer jaguar elegant auto";

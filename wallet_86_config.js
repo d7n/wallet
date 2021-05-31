@@ -1,1 +1,1 @@
-var mnemonic = "adult urban hover huge slab sphere culture barrel horse physical divorce token";
+var mnemonic = "humble roof doll warrior rocket cluster place fabric notice twelve entire curve";

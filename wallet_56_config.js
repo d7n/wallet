@@ -1,1 +1,1 @@
-var mnemonic = "fish fresh zoo security fever festival chat pyramid wreck sign today ball";
+var mnemonic = "pull flight resemble file step crazy basic cliff tower wreck desert monster";

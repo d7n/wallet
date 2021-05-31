@@ -1,1 +1,1 @@
-var mnemonic = "engage clog online chuckle style nice fish perfect sing street distance guess";
+var mnemonic = "domain filter crowd topic alcohol brown page fabric mandate coin image assault";

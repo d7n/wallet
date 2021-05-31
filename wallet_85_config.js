@@ -1,1 +1,1 @@
-var mnemonic = "aspect blouse palace tattoo shy robust have parrot hat uphold spatial obscure";
+var mnemonic = "they museum save develop universe lecture slogan love organ logic fun average";

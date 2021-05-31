@@ -1,1 +1,1 @@
-var mnemonic = "right surprise toy wet rural thrive nominee assist subway great lunch element";
+var mnemonic = "junior that slow nephew labor render party wheat enlist sauce apology smart";

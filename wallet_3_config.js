@@ -1,1 +1,1 @@
-var mnemonic = "vote once radio legal guess hand measure immense better human tackle post";
+var mnemonic = "hawk develop enroll tooth proud portion waste resist kangaroo promote fish genius";

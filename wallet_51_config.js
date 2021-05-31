@@ -1,1 +1,1 @@
-var mnemonic = "promote oil net two anchor coyote judge crunch pond hip throw glance";
+var mnemonic = "horror hello okay burst burger spy pizza cute claim enough yellow more";

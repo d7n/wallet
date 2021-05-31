@@ -1,1 +1,1 @@
-var mnemonic = "say laugh gospel bachelor stomach drama patrol portion bus still velvet endless";
+var mnemonic = "royal spot lobster profit bacon health carpet tomorrow execute cheese admit tool";

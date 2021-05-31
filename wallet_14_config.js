@@ -1,1 +1,1 @@
-var mnemonic = "key orchard task original potato nation always silver grid exchange enable bachelor";
+var mnemonic = "they couple theory stone pudding kit water shield plunge paddle more turkey";

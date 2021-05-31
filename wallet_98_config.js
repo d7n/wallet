@@ -1,1 +1,1 @@
-var mnemonic = "screen talk survey fever inquiry need burden desert work fancy retire nest";
+var mnemonic = "theory volcano wonder chimney try sheriff logic rate taxi magic soup vapor";

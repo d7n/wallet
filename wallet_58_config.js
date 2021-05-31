@@ -1,1 +1,1 @@
-var mnemonic = "seminar wise little sure notable dune swim episode crowd anchor pen unusual";
+var mnemonic = "genre diagram kitchen twelve motion excess inch suggest kidney sphere announce electric";

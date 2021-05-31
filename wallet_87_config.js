@@ -1,1 +1,1 @@
-var mnemonic = "gossip toss impact luggage remember tragic ready dog victory garden answer group";
+var mnemonic = "dove culture someone rule sense swing put parent sudden engine modify detect";

@@ -1,1 +1,1 @@
-var mnemonic = "battle spring access gas retreat gentle talent swear exact trumpet bone slot";
+var mnemonic = "easily lumber broken stumble spray pill sheriff thrive congress nuclear vacuum valve";

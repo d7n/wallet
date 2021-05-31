@@ -1,1 +1,1 @@
-var mnemonic = "assault word cheese control hidden shallow good kite dilemma recycle humble shoulder";
+var mnemonic = "manage brown oak soccer chronic cash ask answer hurry own bring bomb";

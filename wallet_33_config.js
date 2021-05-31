@@ -1,1 +1,1 @@
-var mnemonic = "replace polar top rare iron sick steel minimum into unknown settle collect";
+var mnemonic = "south slot casino taste ski another hip symbol tone shaft mom open";

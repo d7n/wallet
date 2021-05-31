@@ -1,1 +1,1 @@
-var mnemonic = "voyage image notice clever innocent park renew toss ignore there side priority";
+var mnemonic = "bulb merge apology blush album more glow stick review fault catalog design";

@@ -1,1 +1,1 @@
-var mnemonic = "mango erase tip kid truth maple bird combine theme screen sea enter";
+var mnemonic = "garbage trigger advance walnut skin alarm guard wise little void brisk segment";

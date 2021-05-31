@@ -1,1 +1,1 @@
-var mnemonic = "present response cherry wish legal midnight smooth ugly inject spirit wrap brave";
+var mnemonic = "dose jar tool whisper avoid remove trip canyon offer pull cool where";

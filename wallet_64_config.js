@@ -1,1 +1,1 @@
-var mnemonic = "robust obscure number category armor sibling mom group ancient glare truth gift";
+var mnemonic = "basic elevator foil subject sphere school wreck onion vapor glow egg length";

@@ -1,1 +1,1 @@
-var mnemonic = "good clay health type aunt core swamp empty chalk because result chimney";
+var mnemonic = "word dinosaur merit butter miracle usage clap like stand comic voice green";

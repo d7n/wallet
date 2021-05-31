@@ -1,1 +1,1 @@
-var mnemonic = "sing now alien canvas because spice acoustic pumpkin exact abstract relief dragon";
+var mnemonic = "close always guilt remind lava crunch dial wagon pulse portion victory ankle";

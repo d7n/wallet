@@ -1,1 +1,1 @@
-var mnemonic = "hub announce decrease furnace draw witness raw shove field shock fitness catalog";
+var mnemonic = "apart shock toy black able supreme scale round very throw search wall";

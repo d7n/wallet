@@ -1,1 +1,1 @@
-var mnemonic = "evidence eagle pulse race retire neck brother yard chase pledge long exercise";
+var mnemonic = "crystal crawl survey retreat until riot perfect coffee certain clock hold source";

@@ -1,1 +1,1 @@
-var mnemonic = "extra pudding bargain blame same asthma armor day stumble cloth sauce health";
+var mnemonic = "actress canal spice slab caution gesture vivid utility owner garage doctor fetch";

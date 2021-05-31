@@ -1,1 +1,1 @@
-var mnemonic = "drive spend invite suffer lend outer together quit road guilt push short";
+var mnemonic = "city recycle garden dignity bench sword sugar festival tide monster base right";

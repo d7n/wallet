@@ -1,1 +1,1 @@
-var mnemonic = "check unfair boost twice patient loud ancient labor apart feel iron year";
+var mnemonic = "office into square noodle review bleak design inch shoot mutual symptom rude";

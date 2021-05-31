@@ -1,1 +1,1 @@
-var mnemonic = "review armor blade gold reward nerve coach notice tiny parrot someone mail";
+var mnemonic = "miss maximum code kitchen bleak romance entire access enable client cook click";

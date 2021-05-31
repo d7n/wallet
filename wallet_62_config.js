@@ -1,1 +1,1 @@
-var mnemonic = "labor govern mosquito merry proof bonus rice trumpet nuclear desert pill enhance";
+var mnemonic = "shop glory heart tree tray slush museum success outdoor float anger rhythm";

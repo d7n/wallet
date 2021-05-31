@@ -1,1 +1,1 @@
-var mnemonic = "claim grab tobacco huge moon doctor toast glass fruit shrimp reflect tube";
+var mnemonic = "steak skill family float august blind debris evolve broccoli autumn border exclude";

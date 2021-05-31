@@ -1,1 +1,1 @@
-var mnemonic = "ancient then rain use grape royal document demand suffer federal doctor engage";
+var mnemonic = "dice mass sound taste wasp sadness busy enemy badge cliff draft pilot";

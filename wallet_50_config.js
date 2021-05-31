@@ -1,1 +1,1 @@
-var mnemonic = "please lazy bless garbage demise speed minute sibling sudden certain grunt network";
+var mnemonic = "inch hurt apology lift source price village army chaos proud fortune imitate";

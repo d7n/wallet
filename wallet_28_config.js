@@ -1,1 +1,1 @@
-var mnemonic = "protect genuine salad shoe inspire report swamp husband doll edge copper gesture";
+var mnemonic = "shy ill stumble miracle inflict local marine diary random celery tortoise joke";

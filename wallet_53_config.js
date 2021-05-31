@@ -1,1 +1,1 @@
-var mnemonic = "noble photo mule glad rude swamp oblige useless brush nothing tired hawk";
+var mnemonic = "diet argue gate gospel slide seven sock lottery sunny devote state hobby";

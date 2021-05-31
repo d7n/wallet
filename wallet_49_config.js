@@ -1,1 +1,1 @@
-var mnemonic = "item chuckle buzz symbol coil boil say improve arrange pretty crawl hill";
+var mnemonic = "rival topic toast conduct pulse good senior wine diary income hold sand";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm color grace acoustic vivid anger twelve explain analyst nephew toast reward";
+var mnemonic = "wolf satisfy remove target mandate galaxy power ivory fan offer settle cargo";

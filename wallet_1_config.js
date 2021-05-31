@@ -1,1 +1,1 @@
-var mnemonic = "shove teach barrel orchard note shiver surge hidden reflect patient join great";
+var mnemonic = "strike lens gym earth fury doctor relax federal clean group question royal";

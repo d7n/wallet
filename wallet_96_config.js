@@ -1,1 +1,1 @@
-var mnemonic = "bring wet begin melt follow design essay atom right unveil tuition discover";
+var mnemonic = "bridge observe label eagle elder frozen appear insect baby garbage range ramp";

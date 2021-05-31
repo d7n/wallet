@@ -1,1 +1,1 @@
-var mnemonic = "media phrase cube misery decline fetch negative luxury rose timber canyon left";
+var mnemonic = "one endorse bar joy know drink fall eight era shine company matrix";

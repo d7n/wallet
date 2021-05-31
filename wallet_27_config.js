@@ -1,1 +1,1 @@
-var mnemonic = "toy soda flower super defense sponsor verify lake kiwi winter latin genre";
+var mnemonic = "swallow enrich truth pulse nephew poem video infant wing fox legal close";

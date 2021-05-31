@@ -1,1 +1,1 @@
-var mnemonic = "awkward size able milk axis ramp produce spice monster pretty meat shed";
+var mnemonic = "snack execute script enhance picnic jazz square loud orphan jealous equip north";

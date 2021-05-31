@@ -1,1 +1,1 @@
-var mnemonic = "mutual flavor steel apart mass mixture hidden pet gun cake cancel ethics";
+var mnemonic = "vintage glow program pelican bracket dizzy when chapter cube seed decade arch";

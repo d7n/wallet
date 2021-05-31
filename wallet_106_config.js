@@ -1,1 +1,1 @@
-var mnemonic = "pink perfect awkward about hill rely follow bind shove arch million apple";
+var mnemonic = "fame poverty tennis jazz inquiry engage school typical husband ribbon civil glass";

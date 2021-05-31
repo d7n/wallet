@@ -1,1 +1,1 @@
-var mnemonic = "picnic question drop sock seek brass category spider blanket team shallow around";
+var mnemonic = "demand divide prepare deputy vital practice cancel toy first heart sentence arena";

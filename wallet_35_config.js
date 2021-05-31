@@ -1,1 +1,1 @@
-var mnemonic = "camera issue grain robust breeze business frown grass giraffe ahead mystery bid";
+var mnemonic = "faint win cradle burden anger kidney inflict rate upper laugh ranch also";

@@ -1,1 +1,1 @@
-var mnemonic = "butter prison space exit bundle extra pulse kangaroo rude flee smart refuse";
+var mnemonic = "thrive february orient water wing tobacco diesel birth bomb sun prize weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "where guide mountain clinic version vehicle stem suggest olympic gallery bar defense";
+var mnemonic = "view blossom master future night banana ghost alpha liberty canvas prosper cost";

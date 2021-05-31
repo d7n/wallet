@@ -1,1 +1,1 @@
-var mnemonic = "empty chronic sausage smooth master wear exotic tortoise attack picture theory purse";
+var mnemonic = "shallow much essence horse until obvious boil bacon rib woman solution hero";
