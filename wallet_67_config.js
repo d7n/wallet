@@ -1,1 +1,1 @@
-var mnemonic = "junior angry wise slim know almost cry again dry engage test move";
+var mnemonic = "hat flash divorce exact tiger egg ecology friend bread kitchen knee utility";

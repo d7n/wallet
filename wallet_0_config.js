@@ -1,1 +1,1 @@
-var mnemonic = "cement uncover electric weird magic film seek recall sudden daring world state";
+var mnemonic = "device system fatal idea crucial crime phone bless hen evolve vanish soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "betray female item gift march permit skate meat village lyrics gym month";
+var mnemonic = "wheel forward pave basket tribe void crop sign wedding rotate cup lounge";

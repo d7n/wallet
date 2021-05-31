@@ -1,1 +1,1 @@
-var mnemonic = "copy angle devote gasp arch cousin moment clip empty deny despair blur";
+var mnemonic = "various vanish grow excite cancel vicious crazy true whisper mushroom team ribbon";

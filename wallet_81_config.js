@@ -1,1 +1,1 @@
-var mnemonic = "clever girl coach airport system library cross poem steel sunny rifle almost";
+var mnemonic = "final witness host eight detail use embrace glow slab ship civil turn";

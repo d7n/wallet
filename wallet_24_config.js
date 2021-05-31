@@ -1,1 +1,1 @@
-var mnemonic = "picture insect rural party slim crew man basic laundry evidence resist melt";
+var mnemonic = "fault range impose horse exclude occur shop cat verb receive cluster loop";

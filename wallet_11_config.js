@@ -1,1 +1,1 @@
-var mnemonic = "kick amazing odor shell tent dirt section ability setup now print depth";
+var mnemonic = "view sister inhale army become chimney forest right view sand time provide";

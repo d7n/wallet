@@ -1,1 +1,1 @@
-var mnemonic = "energy carbon unable render vendor time uncover science detail pond urge muffin";
+var mnemonic = "trumpet ski entire finger announce consider left morning state chicken blur carry";

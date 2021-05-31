@@ -1,1 +1,1 @@
-var mnemonic = "roast bag small cool gym expire obtain control monitor type worth deposit";
+var mnemonic = "dream mom deputy will home term polar carry adapt arrange issue future";

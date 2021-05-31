@@ -1,1 +1,1 @@
-var mnemonic = "connect miracle pink salmon region heavy solution age fix hello hand body";
+var mnemonic = "syrup shadow page glory useful artwork hood night balance system come pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "salute broccoli able vote ladder pitch tell detect duck dress hunt imitate";
+var mnemonic = "draw journey banana lottery mutual between door budget memory quote inherit ranch";

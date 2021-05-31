@@ -1,1 +1,1 @@
-var mnemonic = "ten bamboo chest boat answer one tube parent end can obscure smart";
+var mnemonic = "garage holiday bone regret husband stone service hip media adapt scatter share";

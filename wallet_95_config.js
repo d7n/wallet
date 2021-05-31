@@ -1,1 +1,1 @@
-var mnemonic = "horror shrug nature enjoy error easy ball prepare riot daughter bomb away";
+var mnemonic = "plate similar fade result scale then cement verb connect brave trust trophy";

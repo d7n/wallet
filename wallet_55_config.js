@@ -1,1 +1,1 @@
-var mnemonic = "process gadget exile tone oak shop syrup mass zone blossom recycle future";
+var mnemonic = "nurse matrix credit opinion path label immune practice gossip girl wing joke";

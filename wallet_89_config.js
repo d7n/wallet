@@ -1,1 +1,1 @@
-var mnemonic = "sleep town swallow account fiction buddy garden away few ecology mean spin";
+var mnemonic = "impact twin phrase horn exist spray floor wide coyote dust jar miss";

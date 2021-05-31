@@ -1,1 +1,1 @@
-var mnemonic = "depend rice custom similar time afraid skull measure topple meadow keen cage";
+var mnemonic = "box stuff jump top bus lecture position oven novel melt cycle will";

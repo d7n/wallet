@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ghost notable swear north boss equal silly warrior beach cricket double";
+var mnemonic = "leg smart pipe sound crew try just naive timber zone thumb proud";

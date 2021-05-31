@@ -1,1 +1,1 @@
-var mnemonic = "bus trumpet sense zoo dynamic guitar system lawsuit finger insane exchange wheel";
+var mnemonic = "bid kick cry twelve length clog tumble major gather feed cannon decrease";

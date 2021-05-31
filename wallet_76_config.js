@@ -1,1 +1,1 @@
-var mnemonic = "depend token between swallow noise tree lab junior borrow earn profit rail";
+var mnemonic = "home toe daughter office arch brain cement galaxy future balance truth pull";

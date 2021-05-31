@@ -1,1 +1,1 @@
-var mnemonic = "defense thing degree ankle notice impulse echo cheese canyon scout soccer clean";
+var mnemonic = "galaxy seven coin future creek slush intact fix rough thought embody turtle";

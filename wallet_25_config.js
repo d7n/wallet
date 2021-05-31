@@ -1,1 +1,1 @@
-var mnemonic = "virtual marriage degree scissors gospel cheap bind congress cloth cluster truly creek";
+var mnemonic = "over sunny alarm gun tent cancel follow sweet key profit market what";

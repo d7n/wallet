@@ -1,1 +1,1 @@
-var mnemonic = "garbage resist wear child bulb oval horn still hire drift insane purchase";
+var mnemonic = "reveal sea obvious palm soon dumb boil erode more friend then equip";

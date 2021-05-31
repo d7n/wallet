@@ -1,1 +1,1 @@
-var mnemonic = "buddy update giraffe shed riot twice quantum announce code pact shoe dune";
+var mnemonic = "present desk rural hello install coffee over inside host castle cruel coral";

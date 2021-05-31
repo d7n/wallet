@@ -1,1 +1,1 @@
-var mnemonic = "twelve olympic never connect farm supreme talent busy drink visa patch ten";
+var mnemonic = "century moon orient loop tenant give tide furnace acid daring barely vibrant";

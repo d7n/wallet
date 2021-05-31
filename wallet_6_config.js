@@ -1,1 +1,1 @@
-var mnemonic = "current public number toy flee green fox eternal normal slight settle actor";
+var mnemonic = "step toward repair security patrol mistake palace addict worry festival permit ritual";

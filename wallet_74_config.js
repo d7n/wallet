@@ -1,1 +1,1 @@
-var mnemonic = "guess oblige roast ocean detail usual stem spot payment brain cute sudden";
+var mnemonic = "bounce rather winter view crawl naive voyage kid type barrel penalty shy";

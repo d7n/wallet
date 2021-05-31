@@ -1,1 +1,1 @@
-var mnemonic = "belt hub motor flavor odor few legend patient purity much situate second";
+var mnemonic = "original pass between siren space sudden zoo ivory age daring domain asset";

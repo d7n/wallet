@@ -1,1 +1,1 @@
-var mnemonic = "level tackle deal lunar piece keen muffin slogan sustain bundle admit labor";
+var mnemonic = "keep vast suggest once avoid icon census figure nose level forum elevator";

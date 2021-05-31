@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon vast sheriff salute kiss eight leisure come harvest soccer tag arm";
+var mnemonic = "canvas select very trouble ride remind friend pool flip whale intact onion";

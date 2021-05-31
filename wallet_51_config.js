@@ -1,1 +1,1 @@
-var mnemonic = "injury metal shield theme brush agent miss solid walk dirt squirrel gallery";
+var mnemonic = "opinion chapter gorilla inhale sting parade swamp beef swallow hazard scene catch";

@@ -1,1 +1,1 @@
-var mnemonic = "unable poem transfer critic toast economy extend shoulder fever grunt increase medal";
+var mnemonic = "universe door vivid arena coil common prosper mix pledge security right lesson";

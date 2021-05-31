@@ -1,1 +1,1 @@
-var mnemonic = "dutch burden goddess wheel rail item differ axis mechanic involve dress embark";
+var mnemonic = "person forget degree resource dizzy indoor tail eyebrow hero suit alert biology";

@@ -1,1 +1,1 @@
-var mnemonic = "eight one speak cabin bronze people vault luggage picture minor lazy annual";
+var mnemonic = "stand hunt suffer forest lonely chimney tiger remain also slight enrich chicken";

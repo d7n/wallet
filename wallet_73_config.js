@@ -1,1 +1,1 @@
-var mnemonic = "wear often verify space bronze gas muscle fringe inside noise response cable";
+var mnemonic = "dry develop orphan throw quit already senior feel genuine witness vanish affair";

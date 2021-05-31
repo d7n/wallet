@@ -1,1 +1,1 @@
-var mnemonic = "regret depend tenant fence virus step elevator clump mushroom choice dust liar";
+var mnemonic = "obtain bridge wife kitchen hand zebra seek dizzy address tragic grief try";

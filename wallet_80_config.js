@@ -1,1 +1,1 @@
-var mnemonic = "shed surge measure discover today armed impulse armed olympic cup razor snap";
+var mnemonic = "inquiry spoil because sunset need caught box cloth initial boy maid clutch";

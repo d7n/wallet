@@ -1,1 +1,1 @@
-var mnemonic = "one vanish yard scare deny tiny scale disagree response sunny jewel clever";
+var mnemonic = "garage extend occur tackle leopard express increase where search pause laugh hill";

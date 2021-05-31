@@ -1,1 +1,1 @@
-var mnemonic = "they spare guitar unfair isolate spring kitchen gun penalty friend edit wrestle";
+var mnemonic = "gasp demand print motor final public witness rain repair grid sight spawn";

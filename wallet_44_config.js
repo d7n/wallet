@@ -1,1 +1,1 @@
-var mnemonic = "wolf hurdle cannon universe element plastic lizard stamp hundred casual earth edit";
+var mnemonic = "tag decline drink tomato polar sick you resemble defy size debate dad";

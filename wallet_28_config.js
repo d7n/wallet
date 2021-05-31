@@ -1,1 +1,1 @@
-var mnemonic = "term income fringe lounge fish cabin amateur pitch ozone awesome found middle";
+var mnemonic = "vacant dumb mosquito faculty together twelve purpose symbol toast oyster enrich neck";

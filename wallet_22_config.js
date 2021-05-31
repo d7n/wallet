@@ -1,1 +1,1 @@
-var mnemonic = "cage tip neutral hole dolphin shield calm humor prevent caution awkward sadness";
+var mnemonic = "differ review result math comfort dress rich index slogan sound symbol limit";

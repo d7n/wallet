@@ -1,1 +1,1 @@
-var mnemonic = "garage dwarf kiwi reward scene cabin find absent main minor flee twenty";
+var mnemonic = "expand lady cycle key fetch output smile ignore bitter horror prison bunker";

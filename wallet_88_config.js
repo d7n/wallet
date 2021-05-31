@@ -1,1 +1,1 @@
-var mnemonic = "top wild cave manage cave north phone luxury gravity abandon mystery gather";
+var mnemonic = "glimpse select medal vibrant post web screen aim name holiday jump victory";

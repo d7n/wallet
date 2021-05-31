@@ -1,1 +1,1 @@
-var mnemonic = "federal feel excuse unveil find afford steel height opera doll depart chief";
+var mnemonic = "column royal cash meat kit hole donkey diagram oppose canoe pudding pair";

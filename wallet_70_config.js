@@ -1,1 +1,1 @@
-var mnemonic = "potato noble record action infant obvious toward blade ancient east carbon index";
+var mnemonic = "couple win fee security injury word business empty envelope fossil close engine";

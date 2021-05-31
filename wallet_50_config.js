@@ -1,1 +1,1 @@
-var mnemonic = "between hip voyage potato quit electric peasant skull elegant flavor horn live";
+var mnemonic = "token plunge boost gather alone hat skirt strategy potato teach forum situate";

@@ -1,1 +1,1 @@
-var mnemonic = "boat produce cool wagon own symbol symptom hope purse march detail wash";
+var mnemonic = "mean logic drip solid behind shuffle consider today surge eager gesture make";

@@ -1,1 +1,1 @@
-var mnemonic = "simple spin emerge hollow palm impact today gold poem sausage wing smooth";
+var mnemonic = "filter pony slice modify you small track notable ketchup island key property";

@@ -1,1 +1,1 @@
-var mnemonic = "catch display harvest annual wisdom twin brown capable oxygen add super analyst";
+var mnemonic = "record salt unveil hedgehog civil gaze echo damage raccoon dry ability clean";

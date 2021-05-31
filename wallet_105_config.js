@@ -1,1 +1,1 @@
-var mnemonic = "drop domain open sand wink room execute devote rural check drift catalog";
+var mnemonic = "library endorse drip sibling vanish ghost wrong ghost rack uniform ask mom";

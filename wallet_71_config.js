@@ -1,1 +1,1 @@
-var mnemonic = "ginger make unaware liar impulse shuffle culture tiny whisper cost sense potato";
+var mnemonic = "faith firm brush place uniform object avocado pair buyer region setup divert";

@@ -1,1 +1,1 @@
-var mnemonic = "before net minimum join thought rule town much two early plastic solar";
+var mnemonic = "erode elbow model when target tongue reflect company master vital torch mechanic";

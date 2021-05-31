@@ -1,1 +1,1 @@
-var mnemonic = "mansion under daring olive meat enable goat rescue hazard deny clog wolf";
+var mnemonic = "soldier match giggle defense eternal always catalog amused disagree awkward chapter drive";

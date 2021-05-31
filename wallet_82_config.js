@@ -1,1 +1,1 @@
-var mnemonic = "buffalo joy trophy original width surprise empty tell lucky hood best globe";
+var mnemonic = "velvet reflect south spike decline legend human busy clog coach wisdom buzz";

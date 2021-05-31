@@ -1,1 +1,1 @@
-var mnemonic = "call much betray remember clock portion train sad broken minor style holiday";
+var mnemonic = "perfect magic raise digital pulp tackle guilt lock logic convince enlist scrub";

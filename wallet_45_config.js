@@ -1,1 +1,1 @@
-var mnemonic = "traffic sense number source toss cigar love memory viable idea legal maple";
+var mnemonic = "forward twice distance actor around foot output protect sure spoil shield humble";

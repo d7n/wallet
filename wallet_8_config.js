@@ -1,1 +1,1 @@
-var mnemonic = "document goose engine capital swallow ritual vault embark trigger ensure enter bridge";
+var mnemonic = "corn excite tiny kitten copper urban south screen scout basic lyrics chronic";

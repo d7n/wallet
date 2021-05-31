@@ -1,1 +1,1 @@
-var mnemonic = "pulp foil square news noise hurt gym stick uphold size drum west";
+var mnemonic = "rookie tribe relief best funny number ladder sun whip harvest lumber nerve";

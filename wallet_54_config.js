@@ -1,1 +1,1 @@
-var mnemonic = "eternal gasp curve brown move shiver oblige mind object shadow flight jacket";
+var mnemonic = "city learn venue indicate foot guitar settle robust balcony fault receive visual";

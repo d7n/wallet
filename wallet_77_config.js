@@ -1,1 +1,1 @@
-var mnemonic = "shop valid holiday smoke major leisure cradle mountain slot beach manual hire";
+var mnemonic = "reason vessel spatial success earn tonight consider holiday already retire wedding donor";

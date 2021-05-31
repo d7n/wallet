@@ -1,1 +1,1 @@
-var mnemonic = "armor pistol napkin net hunt spring miracle piano fabric portion regular ball";
+var mnemonic = "print finger over believe exchange route pattern gospel mention sweet they remind";

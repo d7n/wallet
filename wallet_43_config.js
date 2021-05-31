@@ -1,1 +1,1 @@
-var mnemonic = "minimum news couch betray unlock demise thumb leader deer bean miss gown";
+var mnemonic = "cute announce year picture piano maple egg possible clinic artwork lunar action";

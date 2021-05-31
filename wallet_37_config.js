@@ -1,1 +1,1 @@
-var mnemonic = "expect radar service parade dream zero monitor until vehicle onion pulse web";
+var mnemonic = "absent legend timber day prevent grass achieve arch volume public calm cross";

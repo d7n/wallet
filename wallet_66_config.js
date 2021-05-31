@@ -1,1 +1,1 @@
-var mnemonic = "pilot tribe helmet curve toe aim orient express nature anger trim mixture";
+var mnemonic = "hard easily tide suggest dune giant system proof hamster spell glue group";

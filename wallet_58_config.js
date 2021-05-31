@@ -1,1 +1,1 @@
-var mnemonic = "vibrant nut fossil skate current merit subject plug accident shell fiscal segment";
+var mnemonic = "surge super pottery gauge enough peasant protect prosper stock garden armed bring";

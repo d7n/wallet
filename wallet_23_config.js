@@ -1,1 +1,1 @@
-var mnemonic = "receive exile timber domain emotion merry inmate sell unaware cattle melody hybrid";
+var mnemonic = "taxi offer clever february inmate text envelope smoke fan blood cook narrow";

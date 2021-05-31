@@ -1,1 +1,1 @@
-var mnemonic = "boring invite refuse abuse truly whip urge asset canal kingdom draw team";
+var mnemonic = "hope miss story weasel limit erode vocal weapon romance frequent depend lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut race clown lyrics sock veteran meadow anger private client badge dutch";
+var mnemonic = "domain end today valid bacon decide obscure roast limb float harbor recipe";

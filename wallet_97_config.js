@@ -1,1 +1,1 @@
-var mnemonic = "athlete stuff matter faint door vital enrich lemon gauge stove unusual turn";
+var mnemonic = "sister tongue attend visual mimic circle street gym tuition foil consider design";

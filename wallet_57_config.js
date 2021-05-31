@@ -1,1 +1,1 @@
-var mnemonic = "similar poverty festival average alarm order best bachelor lawn diet lend disagree";
+var mnemonic = "swallow fancy zoo recipe identify update direct eagle spell keen dynamic garden";

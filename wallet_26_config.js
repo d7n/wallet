@@ -1,1 +1,1 @@
-var mnemonic = "icon begin abuse west unfair permit nation chat ready matrix famous urge";
+var mnemonic = "tackle plate pistol jungle enable lyrics census chief music wide best two";

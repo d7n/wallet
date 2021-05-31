@@ -1,1 +1,1 @@
-var mnemonic = "casino need know spoil heavy place muscle relief arena salt maid bundle";
+var mnemonic = "stumble bleak coconut often tuna speed welcome puppy quantum victory bean galaxy";

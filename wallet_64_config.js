@@ -1,1 +1,1 @@
-var mnemonic = "swear glow thunder anxiety liar sphere merge saddle pair embrace say brisk";
+var mnemonic = "foil warfare tag endorse surface crop zebra boat split laugh acoustic spray";

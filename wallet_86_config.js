@@ -1,1 +1,1 @@
-var mnemonic = "almost side spider occur autumn embrace bachelor joy gym remind digital next";
+var mnemonic = "royal spoon tool away super absent wheel eager slogan lake hello excuse";

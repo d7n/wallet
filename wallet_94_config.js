@@ -1,1 +1,1 @@
-var mnemonic = "legal monitor half host indicate nurse dust story clarify walnut crater isolate";
+var mnemonic = "royal estate lounge inhale safe betray assist rival ceiling exist ostrich sample";

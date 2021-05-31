@@ -1,1 +1,1 @@
-var mnemonic = "caught dolphin hybrid knock pistol twin cricket stool supreme ask decide panther";
+var mnemonic = "announce clap hope finish throw dynamic topple raw safe praise spring hedgehog";

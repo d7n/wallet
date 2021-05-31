@@ -1,1 +1,1 @@
-var mnemonic = "cat kangaroo lava enlist shoulder miracle box hedgehog grunt volume want steel";
+var mnemonic = "evolve vapor attack boost carry property fitness earn enforce gather gain bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "frog lock slot urban jeans clutch hour stadium situate bacon rabbit record";
+var mnemonic = "coffee foil lift wreck worth wreck cup mushroom day supreme pulse help";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup once truck cook plastic regular best slight stove train play diagram";
+var mnemonic = "worth bone when wait canoe text sun pink media gauge blossom until";

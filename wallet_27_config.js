@@ -1,1 +1,1 @@
-var mnemonic = "brick rabbit alcohol another picture omit soul recipe rocket scatter danger hole";
+var mnemonic = "below wear traffic camera pencil correct gown awesome soap diamond file mango";

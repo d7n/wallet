@@ -1,1 +1,1 @@
-var mnemonic = "engine decade business roast wet sword smooth beach curtain report slight shuffle";
+var mnemonic = "inject rubber below alien heart daring planet rib person man hollow talk";

@@ -1,1 +1,1 @@
-var mnemonic = "retire next pair area hazard soft then panel pride hurdle trade piano";
+var mnemonic = "enroll alter wrap bubble lounge silent require theme hope cattle solution main";

@@ -1,1 +1,1 @@
-var mnemonic = "usage file solution jungle dove say grain lunch other frost casino crystal";
+var mnemonic = "upset elder dinosaur diagram extend seat pioneer narrow nest frost try eager";

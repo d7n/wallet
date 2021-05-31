@@ -1,1 +1,1 @@
-var mnemonic = "recipe daring shed twist flash enhance toe february suffer double often sniff";
+var mnemonic = "jazz hole mouse sea put banner vault unable inmate ignore twin two";

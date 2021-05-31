@@ -1,1 +1,1 @@
-var mnemonic = "endless cheap gloom turtle ivory conduct neglect property adult cruel pizza river";
+var mnemonic = "cake size boost repeat weird civil great shell knee blouse pelican virus";

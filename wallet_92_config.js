@@ -1,1 +1,1 @@
-var mnemonic = "manage two auction miss crystal high collect blanket inflict replace involve rib";
+var mnemonic = "meat equip rich arrow garage cruel clerk phone walk coyote coast relax";

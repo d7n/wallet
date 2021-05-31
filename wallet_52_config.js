@@ -1,1 +1,1 @@
-var mnemonic = "oyster sight dove end cabbage fatigue base planet solar name autumn holiday";
+var mnemonic = "guess harsh cable flavor sting other swing month modify alcohol dizzy sort";

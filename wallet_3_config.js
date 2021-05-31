@@ -1,1 +1,1 @@
-var mnemonic = "pattern stable home payment vocal female sustain tree catalog typical gym tuna";
+var mnemonic = "pause win buyer firm beef rate depend cable canoe raw glue banner";

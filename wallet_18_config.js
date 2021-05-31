@@ -1,1 +1,1 @@
-var mnemonic = "inject major destroy scissors delay become since style steak way degree voice";
+var mnemonic = "vital kit lottery main sadness weekend waste crane draw gloom hip fix";

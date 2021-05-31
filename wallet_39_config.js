@@ -1,1 +1,1 @@
-var mnemonic = "liar post then casino rude rose blur stumble amount habit number caught";
+var mnemonic = "century citizen catalog very flat imitate alley idle leader crawl afford miss";

@@ -1,1 +1,1 @@
-var mnemonic = "matter law grid toast mystery phone away credit path cage disagree know";
+var mnemonic = "extra office pitch ring benefit word tide bike diesel farm cube choice";

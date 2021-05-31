@@ -1,1 +1,1 @@
-var mnemonic = "erupt quantum fee salmon aerobic sea orphan lunar click skill skate cry";
+var mnemonic = "news egg glory obvious tongue slide mercy female face word illegal list";

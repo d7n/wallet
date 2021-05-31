@@ -1,1 +1,1 @@
-var mnemonic = "marble ready satisfy panel edit purse shoulder movie coin filter face refuse";
+var mnemonic = "giant impulse guard gift sail fortune vendor tissue focus royal zero earth";
