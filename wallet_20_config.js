@@ -1,1 +1,1 @@
-var mnemonic = "degree task badge online edit enter barely curve shed surprise clump cigar";
+var mnemonic = "sustain correct fly glare kiwi auto fork smoke easily ridge margin rely";

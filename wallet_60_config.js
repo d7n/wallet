@@ -1,1 +1,1 @@
-var mnemonic = "bubble history dolphin blossom nature myself pause foot poverty ranch other story";
+var mnemonic = "balcony wife spend execute around evolve busy until blade bomb lizard nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "birth carbon segment involve unveil quick gown electric report powder lamp salad";
+var mnemonic = "depart hold awesome cry text orphan plunge bike check load recipe during";

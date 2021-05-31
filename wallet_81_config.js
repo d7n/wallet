@@ -1,1 +1,1 @@
-var mnemonic = "toddler fat moral elephant judge across illegal earth genuine often vicious suffer";
+var mnemonic = "flash faculty energy demand when blood slogan change quiz shed gas illness";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden captain blanket shiver inflict stairs ecology gloom wage entry print frequent";
+var mnemonic = "kick bird decorate enforce enhance mercy summer misery into fat ankle short";

@@ -1,1 +1,1 @@
-var mnemonic = "shove position pitch boy slush bamboo kite sadness mean worth eager dinner";
+var mnemonic = "column luggage remove best draw dentist borrow tomato leave boy divorce era";

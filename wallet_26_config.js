@@ -1,1 +1,1 @@
-var mnemonic = "dry snow scatter master purchase swarm taxi time snake asset upper future";
+var mnemonic = "foot square frost tackle alter flame piano you amount volcano advice receive";

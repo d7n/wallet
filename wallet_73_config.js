@@ -1,1 +1,1 @@
-var mnemonic = "evidence angry skate random else require target grass aim taste noodle try";
+var mnemonic = "kangaroo future all resist garment come nephew present pioneer corn olive weekend";

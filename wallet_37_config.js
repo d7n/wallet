@@ -1,1 +1,1 @@
-var mnemonic = "sniff vote spell orange divorce smooth glory jelly tank verb unlock report";
+var mnemonic = "parent ability borrow unhappy salon group hood average goat relax cook slogan";

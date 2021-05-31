@@ -1,1 +1,1 @@
-var mnemonic = "misery leisure step way bird brass gloom merry annual predict always palm";
+var mnemonic = "unfair response laptop range rough ball winner report call cabin empower trash";

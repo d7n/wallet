@@ -1,1 +1,1 @@
-var mnemonic = "sick paddle canyon hat pig able jewel weapon clinic prison ethics act";
+var mnemonic = "inner hand deny sad sadness odor traffic pitch spell century start start";

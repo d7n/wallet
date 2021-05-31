@@ -1,1 +1,1 @@
-var mnemonic = "arrive urban believe oil solar stuff mountain solid bind empty chalk best";
+var mnemonic = "laundry twenty neutral cross this purity inject you foil curve alter unique";

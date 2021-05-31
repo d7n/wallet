@@ -1,1 +1,1 @@
-var mnemonic = "note security fabric bronze frozen enjoy icon unusual panel tuition thank govern";
+var mnemonic = "main elegant gown broom foam movie flush fish shadow shaft bike buzz";

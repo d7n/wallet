@@ -1,1 +1,1 @@
-var mnemonic = "vacant sentence rotate blanket priority cinnamon bright goat manage hint negative before";
+var mnemonic = "summer jump inspire faint keep vintage truth scout autumn army food cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "now parade limb snap catalog thunder hungry forward twenty wrap catch jump";
+var mnemonic = "time wrap fly movie canvas kidney mammal salon quality remove accident slender";

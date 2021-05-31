@@ -1,1 +1,1 @@
-var mnemonic = "cousin culture jar throw love feature pumpkin swift glimpse off top puzzle";
+var mnemonic = "void service live rookie amused sock bounce insect shine gesture attitude reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "primary rude pumpkin child ribbon taxi town tuna dance old rude old";
+var mnemonic = "pigeon weekend liquid stadium about decline source slush vacuum flush embark spice";

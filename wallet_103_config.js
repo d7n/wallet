@@ -1,1 +1,1 @@
-var mnemonic = "source suggest ritual noodle mango jelly way replace cushion first float cargo";
+var mnemonic = "debate next hip talent famous dynamic ritual science slice during flight typical";

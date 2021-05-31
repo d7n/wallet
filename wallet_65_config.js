@@ -1,1 +1,1 @@
-var mnemonic = "arrive label finger shrimp enrich ribbon exist double female runway follow vacuum";
+var mnemonic = "country wall affair achieve olive soldier thunder quick hungry language square hood";

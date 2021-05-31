@@ -1,1 +1,1 @@
-var mnemonic = "prevent result tooth frame now bridge primary dismiss betray approve mountain wrong";
+var mnemonic = "fog ecology velvet defense expose drastic lonely hover army medal shrimp cash";

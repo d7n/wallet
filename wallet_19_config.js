@@ -1,1 +1,1 @@
-var mnemonic = "envelope south comfort relief soda net then desk dilemma ten pig sorry";
+var mnemonic = "behave wool rally tongue remain worth input quarter angry undo snake shove";

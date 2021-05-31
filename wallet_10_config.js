@@ -1,1 +1,1 @@
-var mnemonic = "demise shell design spin biology useless roof squeeze outside live second relax";
+var mnemonic = "master maple luggage farm crime garbage milk hope able story danger circle";

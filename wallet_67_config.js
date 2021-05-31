@@ -1,1 +1,1 @@
-var mnemonic = "essay extra frame turkey fire quarter soon shell shoe now discover virtual";
+var mnemonic = "arm cheese lucky dial loyal thumb frequent bus donkey mystery concert defy";

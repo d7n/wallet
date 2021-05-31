@@ -1,1 +1,1 @@
-var mnemonic = "crumble much kidney shrug grief dignity ship vendor jealous cotton audit host";
+var mnemonic = "empower neither year treat six forget sting kitten battle lady cat social";

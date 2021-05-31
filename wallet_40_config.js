@@ -1,1 +1,1 @@
-var mnemonic = "kitten merge result mutual cliff anxiety arrow fault rely problem leg palm";
+var mnemonic = "supply must pear aerobic eight light hip perfect enhance wife raise goat";

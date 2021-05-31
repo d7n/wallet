@@ -1,1 +1,1 @@
-var mnemonic = "casual pass caught flash photo castle tail raise sphere next picture general";
+var mnemonic = "three ribbon truck six job salmon divide choose patrol catch idle flush";

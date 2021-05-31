@@ -1,1 +1,1 @@
-var mnemonic = "quote response regret foot remove pulp fiction rare virtual news gather real";
+var mnemonic = "slam scout hard whip dial pencil attract super badge question copper debate";

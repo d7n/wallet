@@ -1,1 +1,1 @@
-var mnemonic = "kingdom bleak gesture about sight switch whip diagram salad super man legal";
+var mnemonic = "march dumb kite category kid vivid future fox cradle pipe priority kiwi";

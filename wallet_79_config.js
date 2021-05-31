@@ -1,1 +1,1 @@
-var mnemonic = "mimic fold almost bulb anchor cruise spoon sense sample clown clay scare";
+var mnemonic = "sample hammer room also wrestle belt arm bind lava engage lucky about";

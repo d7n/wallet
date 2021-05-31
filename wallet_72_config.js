@@ -1,1 +1,1 @@
-var mnemonic = "butter exotic tiny plunge glare enough dove route suit rice story layer";
+var mnemonic = "rigid survey boil erupt veteran silly valve ginger proud vague rent blanket";

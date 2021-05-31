@@ -1,1 +1,1 @@
-var mnemonic = "bubble genre fee industry yellow flavor fox excuse stone permit candy axis";
+var mnemonic = "drum shock fluid grab ladder slim holiday mansion apart rally rain brush";

@@ -1,1 +1,1 @@
-var mnemonic = "soup unfold weekend yard another time cigar aspect green recipe hope south";
+var mnemonic = "bike motion urge october embrace cloth pumpkin fury doll muffin busy noble";

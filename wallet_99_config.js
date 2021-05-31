@@ -1,1 +1,1 @@
-var mnemonic = "same wall island quiz million actor canyon arena elbow lunar badge element";
+var mnemonic = "sheriff vivid cabin similar belt around train denial police wrong twin hotel";

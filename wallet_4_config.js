@@ -1,1 +1,1 @@
-var mnemonic = "fury gravity game amateur neck update emotion faint copper globe tired goose";
+var mnemonic = "raccoon moon axis lounge enough list resist grant capable argue scorpion punch";

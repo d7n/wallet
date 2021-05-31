@@ -1,1 +1,1 @@
-var mnemonic = "yard artwork wealth orphan coast filter mind account quit behave charge raw";
+var mnemonic = "connect prosper script buddy retire artefact exact sell egg toe quality whale";

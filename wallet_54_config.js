@@ -1,1 +1,1 @@
-var mnemonic = "obtain describe ridge vacant minimum island intact shuffle dignity ranch loyal mutual";
+var mnemonic = "cigar amused borrow wasp reflect social alert grace first try crater round";

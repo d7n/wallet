@@ -1,1 +1,1 @@
-var mnemonic = "time budget snow admit vivid vacant pulse health brown gold oval quantum";
+var mnemonic = "thank view luggage aerobic fold edit furnace fitness ostrich blouse brown crisp";

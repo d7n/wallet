@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ethics stool flag gentle mammal scrub retreat innocent supply wet wrist";
+var mnemonic = "clarify tobacco unit rice wage foam awkward defense yellow slogan asset grain";

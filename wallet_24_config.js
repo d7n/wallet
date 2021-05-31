@@ -1,1 +1,1 @@
-var mnemonic = "pause guard mention text upon stumble toss drill shop latin joy supply";
+var mnemonic = "only review body float twenty smart fragile canvas include cart security end";

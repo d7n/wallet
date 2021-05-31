@@ -1,1 +1,1 @@
-var mnemonic = "since cargo sure trouble top poverty myself silver announce average draft ugly";
+var mnemonic = "mammal twelve brass stumble soul vibrant milk deposit planet alpha world glass";

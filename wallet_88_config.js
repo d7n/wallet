@@ -1,1 +1,1 @@
-var mnemonic = "gasp allow long assault phrase apart sudden mule always hub between economy";
+var mnemonic = "farm nest spoil cereal card flush canyon slight father mango welcome check";

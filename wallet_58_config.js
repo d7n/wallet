@@ -1,1 +1,1 @@
-var mnemonic = "genuine oval equal pledge lunch swing rather column run kiss spread want";
+var mnemonic = "cannon gain flock copy tortoise afraid garden absorb mind permit clay little";

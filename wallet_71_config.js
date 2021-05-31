@@ -1,1 +1,1 @@
-var mnemonic = "exile oven turn review fabric add leg protect bonus shallow embark pattern";
+var mnemonic = "pizza antenna heavy faith steel shop palm blouse bubble major access crash";

@@ -1,1 +1,1 @@
-var mnemonic = "pool reopen rubber robot receive text divide hurt tribe elder gossip spatial";
+var mnemonic = "snow demise flash kitchen middle crouch effort swift suspect awesome diesel evil";

@@ -1,1 +1,1 @@
-var mnemonic = "arch climb drink actual woman solve adapt daring minor diamond harsh chuckle";
+var mnemonic = "damage brown token illness whip speak opera buyer comic solar estate tiny";

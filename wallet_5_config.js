@@ -1,1 +1,1 @@
-var mnemonic = "end custom ugly fragile spatial album peasant rubber million primary salon oblige";
+var mnemonic = "erase over cabin attend wife girl legal feature can trash student actress";

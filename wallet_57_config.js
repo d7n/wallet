@@ -1,1 +1,1 @@
-var mnemonic = "stem main wire roof retreat main arch age lawsuit noise judge skill";
+var mnemonic = "elegant pumpkin bounce marble tumble alone pledge tuition increase pole engine verify";

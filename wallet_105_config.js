@@ -1,1 +1,1 @@
-var mnemonic = "destroy spare toward school mass sense much finger flat feature dust wine";
+var mnemonic = "cheap miss report flame pool stable slam point future half catch below";

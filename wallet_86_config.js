@@ -1,1 +1,1 @@
-var mnemonic = "coconut actual smart rail tell mule wink foster soccer guitar wave venture";
+var mnemonic = "cart recycle unit cherry cliff crew february local service text entire harbor";

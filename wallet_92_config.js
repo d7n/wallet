@@ -1,1 +1,1 @@
-var mnemonic = "deal panic buzz robust firm shop brown boat lobster identify menu furnace";
+var mnemonic = "certain type riot conduct avocado owner height ostrich wedding spare goose depend";

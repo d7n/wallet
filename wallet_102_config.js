@@ -1,1 +1,1 @@
-var mnemonic = "exist drama tattoo blanket truly miss peanut laugh puzzle divide van dog";
+var mnemonic = "silver observe slender census recipe nurse spatial say involve path path attract";

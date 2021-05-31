@@ -1,1 +1,1 @@
-var mnemonic = "better engine sting tilt candy junk outside pulse tongue boost liberty remove";
+var mnemonic = "gesture pulse faith gentle double retreat absurd trade remain sunny lumber stage";

@@ -1,1 +1,1 @@
-var mnemonic = "piece entire element kangaroo cotton language need tissue eternal energy puzzle way";
+var mnemonic = "ice crystal glare charge fury hill core mercy diesel salmon turtle cannon";

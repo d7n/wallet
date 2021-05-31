@@ -1,1 +1,1 @@
-var mnemonic = "rotate chuckle empower audit nasty scorpion sustain mail tail edit speed motor";
+var mnemonic = "olive utility frost awful aisle eyebrow normal wire they thunder truck scatter";

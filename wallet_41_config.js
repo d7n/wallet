@@ -1,1 +1,1 @@
-var mnemonic = "add insect glove glass mesh task sea deer ticket gravity comfort right";
+var mnemonic = "bubble shift wagon top crisp hill north blind length code mixture hello";

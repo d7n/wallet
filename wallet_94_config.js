@@ -1,1 +1,1 @@
-var mnemonic = "lens unveil amount purpose mail snack prepare slush want traffic identify length";
+var mnemonic = "pear dove public device act monkey exchange gain step cruel saddle harsh";

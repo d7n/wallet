@@ -1,1 +1,1 @@
-var mnemonic = "basic drill drink kiwi bottom fetch buddy original spider drama receive fold";
+var mnemonic = "discover fat daring leg spoil typical unique color laugh zone finger sentence";

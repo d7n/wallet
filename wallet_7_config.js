@@ -1,1 +1,1 @@
-var mnemonic = "truck near lumber cash garlic develop diesel piano cupboard shoot throw library";
+var mnemonic = "pipe airport antique pitch emerge sibling receive rent sand immune broccoli board";

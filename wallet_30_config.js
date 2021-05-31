@@ -1,1 +1,1 @@
-var mnemonic = "fiction kidney glove south radar vacant average reopen portion remember film social";
+var mnemonic = "pause absent tuna input install recipe observe tray force announce rubber genius";

@@ -1,1 +1,1 @@
-var mnemonic = "power glass giggle february face lift fat blush swear switch soap shop";
+var mnemonic = "hood rigid survey regret minimum token bleak smart reunion spell gown month";

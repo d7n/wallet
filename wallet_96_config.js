@@ -1,1 +1,1 @@
-var mnemonic = "actress chaos panda attract found patrol fatal slogan token august onion beef";
+var mnemonic = "puppy butter correct oxygen lend angle usage clip story shadow find fun";

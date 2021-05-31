@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tent coil all mosquito machine rookie emerge garage inside follow express";
+var mnemonic = "joke suffer arrange gadget account dismiss border repair cheap limit usage summer";

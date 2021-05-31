@@ -1,1 +1,1 @@
-var mnemonic = "govern mind subject wink carry barely carbon custom now indicate since luxury";
+var mnemonic = "blossom enforce police mammal tattoo wheat arena onion sunny narrow soul airport";

@@ -1,1 +1,1 @@
-var mnemonic = "intact more exotic illegal asset lizard hotel same ranch stumble veteran state";
+var mnemonic = "emerge inflict torch table amateur lawn twelve assist pull evolve ordinary grocery";

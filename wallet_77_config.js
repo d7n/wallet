@@ -1,1 +1,1 @@
-var mnemonic = "cotton program transfer actress blood south custom inhale fox entry program frame";
+var mnemonic = "person repair unveil page flame renew tribe hello cram true maze harbor";

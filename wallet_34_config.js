@@ -1,1 +1,1 @@
-var mnemonic = "wink zone double wine liar depart agree vendor asthma pluck loop match";
+var mnemonic = "faint mix company eight carpet profit mail vapor behave spider seminar basic";

@@ -1,1 +1,1 @@
-var mnemonic = "learn real industry way grocery lizard refuse farm panic mistake act fence";
+var mnemonic = "sunny ring nerve sketch used source route jungle trip lunar bundle have";

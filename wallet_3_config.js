@@ -1,1 +1,1 @@
-var mnemonic = "large spray transfer sure salute decline panel cube swear friend outside culture";
+var mnemonic = "cherry suggest boy zoo review fat concert father drive merry nephew rapid";

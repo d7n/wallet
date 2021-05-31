@@ -1,1 +1,1 @@
-var mnemonic = "speak fantasy hotel sword gloom sport solve soda spider bullet sniff tube";
+var mnemonic = "cry marble mouse season enact unusual cushion much zebra dune essay uncover";

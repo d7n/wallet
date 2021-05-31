@@ -1,1 +1,1 @@
-var mnemonic = "sort consider display grace exclude hotel skull book stay dragon long try";
+var mnemonic = "dawn chef girl squirrel million actual gorilla garment number rebel local primary";

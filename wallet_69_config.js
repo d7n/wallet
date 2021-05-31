@@ -1,1 +1,1 @@
-var mnemonic = "issue unhappy basic gesture decrease deliver fall view fan hat artefact color";
+var mnemonic = "fiber bike wonder leg elder glance daughter adjust dose actress enhance demise";

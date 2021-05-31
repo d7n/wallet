@@ -1,1 +1,1 @@
-var mnemonic = "voyage broken focus beef cool correct person valid build slam ridge team";
+var mnemonic = "modify loud umbrella plunge glue two lumber sleep punch proud explain twist";

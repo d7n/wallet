@@ -1,1 +1,1 @@
-var mnemonic = "chicken bulb winter struggle ghost army spawn napkin draw praise arctic fresh";
+var mnemonic = "equal resist prefer avocado night cart poet price slice profit lottery myself";

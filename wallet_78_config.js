@@ -1,1 +1,1 @@
-var mnemonic = "stamp curious clap bulk fame mom exhaust endorse exercise forum voyage hire";
+var mnemonic = "leisure motor blast network intact forward island deal hollow fossil ecology photo";

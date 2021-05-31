@@ -1,1 +1,1 @@
-var mnemonic = "fat flat universe nest velvet museum screen bonus swift craft palace level";
+var mnemonic = "salad device object melt amused prevent split roof turn race conduct vocal";

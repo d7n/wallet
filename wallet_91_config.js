@@ -1,1 +1,1 @@
-var mnemonic = "knife shoe runway owner tornado draw debate gun auto used false noble";
+var mnemonic = "people fiber argue lady winner inform february modify burden casino soda media";

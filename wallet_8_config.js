@@ -1,1 +1,1 @@
-var mnemonic = "genuine rural laptop increase economy crack announce same kick item host catch";
+var mnemonic = "shrimp iron approve barely panic barely cake student call enroll wolf hope";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace hunt today any that purity calm dynamic pass next retreat mention";
+var mnemonic = "female choose urban dinner alcohol nominee minor purse license powder shiver fantasy";

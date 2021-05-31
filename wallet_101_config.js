@@ -1,1 +1,1 @@
-var mnemonic = "ritual addict strong profit quote that knee turkey venue gloom knife grid";
+var mnemonic = "chalk panther lyrics faculty cake width subject flight utility board matrix crew";

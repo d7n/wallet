@@ -1,1 +1,1 @@
-var mnemonic = "enforce label junior series display august birth hub catch strong harbor private";
+var mnemonic = "december panther bulb dinner interest olive trade inquiry champion fox orphan rich";

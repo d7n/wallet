@@ -1,1 +1,1 @@
-var mnemonic = "citizen expect desert prison leave atom radio fiber street badge husband dumb";
+var mnemonic = "shove size title sick ginger address circle dish predict since boost twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "plate book world meadow country senior relief draft travel drink embrace fall";
+var mnemonic = "dragon quantum crazy timber doctor lake slight proof erode glove couple raw";

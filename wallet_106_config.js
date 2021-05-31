@@ -1,1 +1,1 @@
-var mnemonic = "make swamp service claim sweet because better wire consider forward town cupboard";
+var mnemonic = "cake spy arrest flavor correct key tourist mistake tribe differ develop print";

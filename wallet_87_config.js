@@ -1,1 +1,1 @@
-var mnemonic = "loyal grid hazard guitar kitten diesel chat pill inch sunny loan junior";
+var mnemonic = "arm winter broom once rare profit alley knee danger welcome sign allow";

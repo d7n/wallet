@@ -1,1 +1,1 @@
-var mnemonic = "worth match great clown silent destroy season tonight fit render wonder boil";
+var mnemonic = "rebel law dolphin vacuum retreat rose kitten guilt spin exchange cattle disorder";

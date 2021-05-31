@@ -1,1 +1,1 @@
-var mnemonic = "young bright crash borrow essay charge black crouch raccoon sand moral occur";
+var mnemonic = "online quit urban coral current alone under business develop they pepper rotate";

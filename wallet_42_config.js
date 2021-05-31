@@ -1,1 +1,1 @@
-var mnemonic = "act angle about leader primary fatal penalty utility beauty taste movie good";
+var mnemonic = "mail swarm logic lottery grant asthma buyer icon truth intact leader radar";

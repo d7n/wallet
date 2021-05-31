@@ -1,1 +1,1 @@
-var mnemonic = "inside title eager wash melody law during north can reunion mimic exist";
+var mnemonic = "catch mean duck rack midnight pass clever truth aim daughter cluster mammal";

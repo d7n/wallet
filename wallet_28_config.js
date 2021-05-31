@@ -1,1 +1,1 @@
-var mnemonic = "gloom member combine keep deer clap snake minute round replace gym science";
+var mnemonic = "decade burden immense match jeans this mother among rocket bronze observe begin";

@@ -1,1 +1,1 @@
-var mnemonic = "grid neglect describe supreme brown thing power march adapt spring fog canoe";
+var mnemonic = "legend modify media ocean interest brown law unfold wet episode weasel sun";

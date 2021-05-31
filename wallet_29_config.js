@@ -1,1 +1,1 @@
-var mnemonic = "gym elite swim print exhaust finger general debris candy crime damp fresh";
+var mnemonic = "next other pulp gravity fine crumble around tissue height again brass position";

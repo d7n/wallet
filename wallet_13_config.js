@@ -1,1 +1,1 @@
-var mnemonic = "custom struggle actor amateur pair trap day possible hip case mandate mixed";
+var mnemonic = "fall snake galaxy royal interest scheme ridge noise board stadium stand divert";

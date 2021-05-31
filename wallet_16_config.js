@@ -1,1 +1,1 @@
-var mnemonic = "mention engine balance man oxygen thank setup topic expect fork amount congress";
+var mnemonic = "cluster useful echo agree public trial jelly region brisk spawn glad rival";
