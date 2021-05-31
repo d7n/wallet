@@ -1,1 +1,1 @@
-var mnemonic = "version cream elevator manual mandate stable miracle loan donkey coral august middle";
+var mnemonic = "double middle siren weird mutual arrange brain hold stone solution mushroom motion";

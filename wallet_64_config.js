@@ -1,1 +1,1 @@
-var mnemonic = "fence lava sound bubble candy bright involve sleep soon pistol lonely tube";
+var mnemonic = "three winter hill else text setup modify choice found slot work oven";

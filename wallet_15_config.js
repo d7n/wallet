@@ -1,1 +1,1 @@
-var mnemonic = "gentle duck satoshi hole myth quote trim smoke cousin add what oblige";
+var mnemonic = "like pelican subject quick world eagle grab exchange jeans private snap manage";

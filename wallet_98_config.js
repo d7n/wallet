@@ -1,1 +1,1 @@
-var mnemonic = "milk hand autumn brain draft cousin banana dust tail tell improve work";
+var mnemonic = "bulk soap strike escape fog leg come bicycle infant escape ask volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado remind gold hotel universe raven pulp exit story shed render clerk";
+var mnemonic = "stage bag ozone vintage network relief romance great can select afford flush";

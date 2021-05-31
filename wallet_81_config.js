@@ -1,1 +1,1 @@
-var mnemonic = "present gather pioneer second clever moral must hedgehog year amused autumn noise";
+var mnemonic = "current sudden great extra nest clarify net govern frog ocean distance beyond";

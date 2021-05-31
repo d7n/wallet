@@ -1,1 +1,1 @@
-var mnemonic = "enforce clay adapt toward brave novel stay example profit final cable cereal";
+var mnemonic = "school spike author inherit like divorce leopard predict flower canoe april step";

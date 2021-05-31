@@ -1,1 +1,1 @@
-var mnemonic = "purpose fabric right march walnut income hope poem bamboo engage clock aerobic";
+var mnemonic = "blur dove always heavy poet will trouble ticket country boost identify explain";

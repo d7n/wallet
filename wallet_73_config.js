@@ -1,1 +1,1 @@
-var mnemonic = "flat equal another federal high bag vicious sugar vapor accuse rude typical";
+var mnemonic = "more huge fossil custom toilet surge convince avoid pond bless glove cage";

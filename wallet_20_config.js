@@ -1,1 +1,1 @@
-var mnemonic = "already indoor tower typical eight protect wreck party harvest crunch embody leave";
+var mnemonic = "winter puzzle budget focus unable oak dream cement lecture world genre indicate";

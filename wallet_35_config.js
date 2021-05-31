@@ -1,1 +1,1 @@
-var mnemonic = "much purpose easily truth timber wage lazy defense adult divorce simple rich";
+var mnemonic = "display earth bulb garbage rent clerk drastic soccer flag fatigue solid primary";

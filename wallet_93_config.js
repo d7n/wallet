@@ -1,1 +1,1 @@
-var mnemonic = "live build length clap miss silk tennis economy leg blush outdoor sugar";
+var mnemonic = "entire inquiry matter sample bag forget step motion raven island account affair";

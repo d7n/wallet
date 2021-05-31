@@ -1,1 +1,1 @@
-var mnemonic = "middle heavy surprise snap address library surge feed now humble donor legal";
+var mnemonic = "unaware promote buddy garlic parent jungle such deposit emerge scene live bid";

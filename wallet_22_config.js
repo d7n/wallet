@@ -1,1 +1,1 @@
-var mnemonic = "lend focus clog spirit leader execute mass toss reunion solution sustain motor";
+var mnemonic = "uniform anger hover absurd spell eight notice track agent hotel file camera";

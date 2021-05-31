@@ -1,1 +1,1 @@
-var mnemonic = "abstract convince unlock pole change remain auction upper box canal trumpet key";
+var mnemonic = "hand rice athlete adjust item mother mouse path peace course demise annual";

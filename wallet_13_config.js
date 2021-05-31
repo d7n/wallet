@@ -1,1 +1,1 @@
-var mnemonic = "faculty patient smooth pole work pottery wonder welcome result enrich eternal estate";
+var mnemonic = "renew action couple lava entry owner attack father bomb fork boy huge";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard ticket blush airport angry believe sail will easily gather link exist";
+var mnemonic = "meadow educate elder letter cup wealth trouble good snap step derive accuse";

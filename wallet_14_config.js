@@ -1,1 +1,1 @@
-var mnemonic = "float afford million drink since flight salon correct that health dirt treat";
+var mnemonic = "vintage adult cheap round rhythm define update isolate supply obscure wrist annual";

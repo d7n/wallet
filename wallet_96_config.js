@@ -1,1 +1,1 @@
-var mnemonic = "small royal wisdom surge armor all three talk swamp river float supply";
+var mnemonic = "donkey relief proof ethics veteran cotton together winter stage garage caught omit";

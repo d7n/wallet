@@ -1,1 +1,1 @@
-var mnemonic = "nation cushion random torch normal palm music sea abstract insane trophy divorce";
+var mnemonic = "sentence panda injury device noble tray tree dizzy like update toe breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "away knock machine loyal trick clock parade ladder lonely sick shadow science";
+var mnemonic = "weather alpha tone dolphin slide day physical vehicle ticket dish unknown labor";

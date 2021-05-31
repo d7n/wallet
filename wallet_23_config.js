@@ -1,1 +1,1 @@
-var mnemonic = "dry journey hello grow wait noble dry conduct cry raw human obvious";
+var mnemonic = "stand cream thought cycle black indicate traffic van radar occur sentence consider";

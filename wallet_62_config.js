@@ -1,1 +1,1 @@
-var mnemonic = "that bounce choose unfold ripple blue lawsuit mixed slim surprise float mercy";
+var mnemonic = "know glue argue brave grab huge ghost story organ stadium awkward million";

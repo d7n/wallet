@@ -1,1 +1,1 @@
-var mnemonic = "material universe immense turkey silk hidden tenant elite butter into recipe swear";
+var mnemonic = "merge canal vendor brother duck luxury elite dust wealth lottery inhale ostrich";

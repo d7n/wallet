@@ -1,1 +1,1 @@
-var mnemonic = "picture door fever slogan over square steel bargain trend hundred cool dad";
+var mnemonic = "journey orient lumber hammer loop beach another visual slam fee sock quarter";

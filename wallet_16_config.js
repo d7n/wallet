@@ -1,1 +1,1 @@
-var mnemonic = "legend trap dash lady degree promote stay aim trust find lobster pilot";
+var mnemonic = "plunge fabric remind fancy you voice detect toss immune sort cheap alien";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest script soccer hour proud paddle exotic grace yard grocery swift horse";
+var mnemonic = "agent glance pony inform midnight blind ecology idle combine guitar robust chef";

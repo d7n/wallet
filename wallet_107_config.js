@@ -1,1 +1,1 @@
-var mnemonic = "puppy dress shoe clinic waste fix believe trim ketchup solve kite gold";
+var mnemonic = "metal cloth utility obey consider drink cotton female black mean celery when";

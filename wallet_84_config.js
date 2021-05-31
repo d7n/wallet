@@ -1,1 +1,1 @@
-var mnemonic = "fit curious wreck doctor harbor climb carpet person harbor clown garage window";
+var mnemonic = "unfold balance basket announce tenant office mobile conduct pottery regret gaze vital";

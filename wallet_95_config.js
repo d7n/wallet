@@ -1,1 +1,1 @@
-var mnemonic = "liquid medal job just age alone tribe protect tide february harsh holiday";
+var mnemonic = "page sausage galaxy abuse steel boring left limb transfer enact ocean crash";

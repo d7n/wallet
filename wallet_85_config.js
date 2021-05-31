@@ -1,1 +1,1 @@
-var mnemonic = "rate share ranch dress inject common reject scorpion summer diary arm tragic";
+var mnemonic = "scare similar hat opera bundle fortune shop remind concert concert doctor athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "number embrace couch end luxury will nest law mesh glass survey wise";
+var mnemonic = "december silk regret loan struggle involve young dice drive rent grow trigger";

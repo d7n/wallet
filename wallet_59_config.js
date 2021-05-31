@@ -1,1 +1,1 @@
-var mnemonic = "train pet explain jealous night glide sheriff jazz fence mixed raccoon destroy";
+var mnemonic = "hockey cement snow chuckle nature regular bean tray live yard venture depart";

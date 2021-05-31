@@ -1,1 +1,1 @@
-var mnemonic = "net tackle above yard about various rice era include soon rough expire";
+var mnemonic = "final tennis pigeon craft square drive cream spend relax apology frost glance";

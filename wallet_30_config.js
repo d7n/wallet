@@ -1,1 +1,1 @@
-var mnemonic = "umbrella misery west shift polar project bicycle bottom emerge cry cannon green";
+var mnemonic = "wall garment stumble cause powder analyst pull slab purpose convince since atom";

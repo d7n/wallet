@@ -1,1 +1,1 @@
-var mnemonic = "matrix trouble page news kiwi enact fluid scheme blood spot unusual satoshi";
+var mnemonic = "track hole captain mountain crime pistol short ice keen fly cake fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "tank lunar thunder defense together tape now family horror rescue provide stone";
+var mnemonic = "arch elite virtual ostrich fringe soul expand enable collect explain hope amateur";

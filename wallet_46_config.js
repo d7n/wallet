@@ -1,1 +1,1 @@
-var mnemonic = "excite vessel mimic crowd actual happy audit organ shine coach wool dish";
+var mnemonic = "give penalty disease brother fabric aware airport also surround gasp tonight taxi";

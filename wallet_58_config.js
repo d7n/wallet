@@ -1,1 +1,1 @@
-var mnemonic = "dice update similar merit umbrella tag before grief tree blur grace tired";
+var mnemonic = "logic auction venue affair toss attack dream track bike erosion mushroom penalty";

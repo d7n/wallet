@@ -1,1 +1,1 @@
-var mnemonic = "abandon inhale amused exhaust sand junior since lawn nasty attitude grab gate";
+var mnemonic = "trap math hockey net shine sunset outdoor prosper banner sister celery over";

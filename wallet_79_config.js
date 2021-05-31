@@ -1,1 +1,1 @@
-var mnemonic = "student virtual inject knee bid finger life live obey achieve gas fiber";
+var mnemonic = "unfair during rude weekend cruel mail dirt core roof person bike number";

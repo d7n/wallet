@@ -1,1 +1,1 @@
-var mnemonic = "business symbol column urge carbon diesel run elder inner boost border asset";
+var mnemonic = "state sorry hand purse island harbor essence error farm core cover awful";

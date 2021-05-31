@@ -1,1 +1,1 @@
-var mnemonic = "egg jaguar ivory off cloth estate kid diary boat tragic example stable";
+var mnemonic = "lunch casual leader announce car lounge talk auto trash bless angle profit";

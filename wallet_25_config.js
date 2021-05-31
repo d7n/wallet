@@ -1,1 +1,1 @@
-var mnemonic = "movie margin scare prevent base dutch urge stadium small wisdom eternal wrist";
+var mnemonic = "beyond better bean misery fit mystery blast sense draft predict hair any";

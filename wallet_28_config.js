@@ -1,1 +1,1 @@
-var mnemonic = "treat unhappy crash radio agent poet song pulse badge bag beach pelican";
+var mnemonic = "debate final fat tent poet asset spider solution before crash become hobby";

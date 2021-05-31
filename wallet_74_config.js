@@ -1,1 +1,1 @@
-var mnemonic = "senior tortoise side ranch reward rocket drum armed sorry start sadness life";
+var mnemonic = "goddess race picnic baby blur chat symbol dash erode tourist act fiction";

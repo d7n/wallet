@@ -1,1 +1,1 @@
-var mnemonic = "veteran jar heavy video guide notice pass fade cycle style again sock";
+var mnemonic = "dice scrap route what term together salute interest someone fine antenna siege";

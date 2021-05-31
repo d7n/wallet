@@ -1,1 +1,1 @@
-var mnemonic = "nothing scatter unknown setup protect ghost deputy result cube host vacuum desert";
+var mnemonic = "devote cloud sign swing fiber base hand unlock airport enlist industry siren";

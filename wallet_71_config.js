@@ -1,1 +1,1 @@
-var mnemonic = "hair laugh enemy weasel pen border catalog potato enlist weather race help";
+var mnemonic = "question ladder rib old time scrub cross develop income another leader viable";

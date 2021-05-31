@@ -1,1 +1,1 @@
-var mnemonic = "peanut two demand music snack unique acoustic bunker ribbon early charge time";
+var mnemonic = "thing before poverty spatial farm dirt skull noise submit logic pencil pause";

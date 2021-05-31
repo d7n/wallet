@@ -1,1 +1,1 @@
-var mnemonic = "paper punch venue digital duty frog sport good exile guard certain hotel";
+var mnemonic = "income service face express foot gap guess clinic salad eyebrow involve latin";

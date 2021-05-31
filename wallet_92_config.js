@@ -1,1 +1,1 @@
-var mnemonic = "essence viable maid script minor true awkward shield wheat deposit material birth";
+var mnemonic = "dry soda demise income price dawn squirrel solid oil mask hamster erupt";

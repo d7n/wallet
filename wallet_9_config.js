@@ -1,1 +1,1 @@
-var mnemonic = "surround aerobic know accuse acid cargo chief use midnight man park oxygen";
+var mnemonic = "action snap hen emotion entry spend tiny rose disease zebra decorate reveal";

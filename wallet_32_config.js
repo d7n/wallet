@@ -1,1 +1,1 @@
-var mnemonic = "icon smooth oil pave tongue faint clump meat pelican couch bacon awful";
+var mnemonic = "coast palm option mom scan green poet announce slab pulse tail clog";

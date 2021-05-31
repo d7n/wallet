@@ -1,1 +1,1 @@
-var mnemonic = "reunion caution divorce display local figure sight original wine knife stock jar";
+var mnemonic = "beef nothing control curious pitch dolphin uphold together follow hobby mosquito tomorrow";

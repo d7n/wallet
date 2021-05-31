@@ -1,1 +1,1 @@
-var mnemonic = "absurd arm question video spare update uncover practice veteran sibling guilt naive";
+var mnemonic = "student pioneer disagree hint upon float pink switch sheriff edge unfair robust";

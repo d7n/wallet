@@ -1,1 +1,1 @@
-var mnemonic = "warm abandon pause faint average chalk track twin drastic movie planet mosquito";
+var mnemonic = "monster foster eyebrow slab divert carry father tomato ritual circle grape spoil";

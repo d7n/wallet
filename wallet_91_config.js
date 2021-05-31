@@ -1,1 +1,1 @@
-var mnemonic = "virus voice clever medal image century grit token like caution pumpkin tackle";
+var mnemonic = "tilt tail odor enforce kit lizard response vehicle cannon matrix please effort";

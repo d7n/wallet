@@ -1,1 +1,1 @@
-var mnemonic = "penalty citizen suspect galaxy final appear casual exchange mad scrub pudding face";
+var mnemonic = "winter woman news feel road hamster swarm rebuild couch galaxy junk main";

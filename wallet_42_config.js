@@ -1,1 +1,1 @@
-var mnemonic = "double goddess sweet salmon safe powder term match amused trial smart board";
+var mnemonic = "actress page reunion anger test meat fitness pull silver vague project earn";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce spray subway measure above bitter enough garage defy convince access amateur";
+var mnemonic = "step edit option prepare gift merge visa zone board motor subway length";

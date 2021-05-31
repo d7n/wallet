@@ -1,1 +1,1 @@
-var mnemonic = "will hazard clutch garment gallery damp correct love slide three quote media";
+var mnemonic = "melody aware day know suffer material hard pool snake leopard taxi stairs";

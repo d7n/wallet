@@ -1,1 +1,1 @@
-var mnemonic = "choice topic penalty tattoo topple wisdom congress apology offer summer make habit";
+var mnemonic = "tired shed relief noodle bright dirt blush echo hand output group gift";

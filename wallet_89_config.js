@@ -1,1 +1,1 @@
-var mnemonic = "link around soft huge main helmet jacket sure stool trim nice rabbit";
+var mnemonic = "story tiger deal concert review culture shrug boost advice bone total series";

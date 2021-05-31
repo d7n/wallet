@@ -1,1 +1,1 @@
-var mnemonic = "spy leg tool sheriff green valid lizard false rhythm legal bounce arrange";
+var mnemonic = "predict private decrease wise now upset coach roof gesture man debris marble";

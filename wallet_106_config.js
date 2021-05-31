@@ -1,1 +1,1 @@
-var mnemonic = "extra reveal major nation lunch voyage busy foot purity pelican borrow noise";
+var mnemonic = "burden side side scale claim forward tissue gap nice gloom narrow timber";

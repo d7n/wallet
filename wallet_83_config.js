@@ -1,1 +1,1 @@
-var mnemonic = "mandate now judge parent liar color habit poverty strategy satoshi flavor citizen";
+var mnemonic = "chimney fly tortoise outdoor world smile twice wheat proud mistake shy pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis nice invest custom hub royal like can used type naive music";
+var mnemonic = "rotate day panel ball edge lawsuit way slim woman mesh dawn fat";

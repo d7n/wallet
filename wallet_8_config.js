@@ -1,1 +1,1 @@
-var mnemonic = "sister bunker party leader ugly replace phone gym name eager soldier often";
+var mnemonic = "never glad damp claim imitate exact cradle gasp green rebuild filter dignity";

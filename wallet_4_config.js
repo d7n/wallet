@@ -1,1 +1,1 @@
-var mnemonic = "organ only anchor smart level confirm rocket crouch holiday lift plate corn";
+var mnemonic = "artefact umbrella enable universe give celery task escape spoon master pumpkin shield";

@@ -1,1 +1,1 @@
-var mnemonic = "inside pact van fiber man mesh venture tiger start reform army acoustic";
+var mnemonic = "cruise history announce maximum unlock misery velvet staff uncover gold hello cook";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder perfect click fashion shuffle cliff source cloth winter bread fever hard";
+var mnemonic = "kitchen inquiry borrow trial duty capital region toy hill attitude appear merge";

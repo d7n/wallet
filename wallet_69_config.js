@@ -1,1 +1,1 @@
-var mnemonic = "drastic oppose later good observe attitude deny bachelor shadow mandate swim salute";
+var mnemonic = "theme casual around sad hour quick fatigue control remain reason verb travel";

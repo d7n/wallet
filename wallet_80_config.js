@@ -1,1 +1,1 @@
-var mnemonic = "disorder brand parrot rally improve fresh country hover poem where truly oven";
+var mnemonic = "begin situate buddy couple trust lunar blood quick razor tower text envelope";

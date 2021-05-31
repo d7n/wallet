@@ -1,1 +1,1 @@
-var mnemonic = "vendor blue ostrich smoke napkin whale prison wish disease merry nuclear color";
+var mnemonic = "jacket skin chapter moon daring onion fever monster easy taxi extend garment";

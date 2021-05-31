@@ -1,1 +1,1 @@
-var mnemonic = "quarter electric agree include nasty piano play verb print toilet busy duty";
+var mnemonic = "empty galaxy brother private exile roast nice memory crack nut very wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "birth sketch idle cash exercise breeze afraid possible chair retreat rubber allow";
+var mnemonic = "tooth denial pumpkin grain cherry broom fold shrug trust lion jacket inherit";

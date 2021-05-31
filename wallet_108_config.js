@@ -1,1 +1,1 @@
-var mnemonic = "soup lonely end inmate tide unique stable nasty merry sound orient foam";
+var mnemonic = "better hurry skull promote survey salmon sight pupil segment page chapter inside";

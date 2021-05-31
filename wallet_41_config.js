@@ -1,1 +1,1 @@
-var mnemonic = "buzz matter body sport repair pluck mechanic pass unveil become egg venue";
+var mnemonic = "barely work immune drill goat biology act buzz garden involve silly fan";

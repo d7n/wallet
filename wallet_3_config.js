@@ -1,1 +1,1 @@
-var mnemonic = "hair excite salt meat december code shuffle portion pudding slab submit foil";
+var mnemonic = "depend luxury crash desert fruit hospital three custom crane legend film tongue";

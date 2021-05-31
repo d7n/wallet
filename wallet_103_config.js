@@ -1,1 +1,1 @@
-var mnemonic = "churn wreck correct employ cattle type early false online glow refuse hurt";
+var mnemonic = "venture best idea salad list foil infant chest require secret business relax";

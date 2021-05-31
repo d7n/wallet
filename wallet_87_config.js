@@ -1,1 +1,1 @@
-var mnemonic = "total trim chaos renew help scheme shrimp cup amount lamp casino friend";
+var mnemonic = "drama multiply unknown feel rely lava valid aerobic depend pink morning pause";

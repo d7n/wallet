@@ -1,1 +1,1 @@
-var mnemonic = "curtain decade opinion liquid prosper void snack evidence deer original dismiss clap";
+var mnemonic = "allow arrive outer club inflict merry party piano junk intact flush wet";

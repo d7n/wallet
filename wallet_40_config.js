@@ -1,1 +1,1 @@
-var mnemonic = "energy liquid actress involve boil congress dial upgrade face fit cabin slam";
+var mnemonic = "inner expand element expire essence book volume oven dizzy supply return sun";

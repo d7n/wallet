@@ -1,1 +1,1 @@
-var mnemonic = "robust number dismiss text pen narrow crash lava abuse pig enough zone";
+var mnemonic = "bottom symbol decline soup silent human ceiling roof strike warrior prosper model";

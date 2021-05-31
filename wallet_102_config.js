@@ -1,1 +1,1 @@
-var mnemonic = "mix liberty diary replace debate palace secret kitchen enemy web color tissue";
+var mnemonic = "tent above screen surface coin mixed actress crane seat idle edit cereal";

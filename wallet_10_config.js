@@ -1,1 +1,1 @@
-var mnemonic = "vacant repair machine palace follow happy horse fiscal zero crucial tuna injury";
+var mnemonic = "move toy jump quick absurd merge shell busy love prosper lumber day";

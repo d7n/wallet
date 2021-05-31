@@ -1,1 +1,1 @@
-var mnemonic = "embrace suffer sign scale axis discover extra tip clay fever present cattle";
+var mnemonic = "document main govern used ability salad pond capable cupboard toilet enact fury";

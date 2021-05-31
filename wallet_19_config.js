@@ -1,1 +1,1 @@
-var mnemonic = "craft advice burden wrap quality easily oval draft ordinary nothing chronic tag";
+var mnemonic = "donate wrist ghost page used peanut ensure siege essence viable employ rival";

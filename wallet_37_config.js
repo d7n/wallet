@@ -1,1 +1,1 @@
-var mnemonic = "robot pig then truck entry observe price armed stereo symbol thank drift";
+var mnemonic = "protect sand echo pudding crouch layer elbow leopard capital mimic funny river";
