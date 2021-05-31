@@ -1,1 +1,1 @@
-var mnemonic = "own trip tennis step tape miracle woman bicycle impose ordinary hurdle flower";
+var mnemonic = "palace equip gym improve legend recycle fee side pulp source dice icon";

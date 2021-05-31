@@ -1,1 +1,1 @@
-var mnemonic = "wrong jazz display scheme pair autumn shaft shove brief face noodle awful";
+var mnemonic = "friend apple music sleep consider stick elite enact segment hockey view clock";

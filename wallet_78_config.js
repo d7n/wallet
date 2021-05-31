@@ -1,1 +1,1 @@
-var mnemonic = "train soul service woman aim rib ivory feel arrive flight pull cross";
+var mnemonic = "sustain neck negative core run pizza split guard style move utility shoe";

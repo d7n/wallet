@@ -1,1 +1,1 @@
-var mnemonic = "disagree buddy country abandon beach bottom bench develop detect federal suit protect";
+var mnemonic = "birth acid maple episode cycle loyal drama bar already laugh size exotic";

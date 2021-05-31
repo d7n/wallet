@@ -1,1 +1,1 @@
-var mnemonic = "occur famous damp perfect add egg few oxygen merry prefer boost camera";
+var mnemonic = "rocket anger identify bulk fuel isolate angry kidney table broken truck day";

@@ -1,1 +1,1 @@
-var mnemonic = "cook chunk citizen carry year powder liquid enact machine tank beef renew";
+var mnemonic = "faith staff novel income method liquid menu diary swim two captain advance";

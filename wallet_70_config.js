@@ -1,1 +1,1 @@
-var mnemonic = "swallow slab delay hurry dumb pioneer miracle put giant cargo border antique";
+var mnemonic = "destroy crumble little universe purity true eager dawn column mass peace pitch";

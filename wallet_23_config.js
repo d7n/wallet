@@ -1,1 +1,1 @@
-var mnemonic = "nothing weekend language practice save picnic crack battle banana cement patrol brother";
+var mnemonic = "release crane together escape tired moral tunnel coyote curious stereo celery wrong";

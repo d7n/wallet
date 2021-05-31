@@ -1,1 +1,1 @@
-var mnemonic = "moon certain one saddle width figure reject trust execute crowd phone elder";
+var mnemonic = "robot release air hollow treat ten cancel label fame vintage wave drop";

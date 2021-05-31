@@ -1,1 +1,1 @@
-var mnemonic = "west black disorder spare menu soft miss slide damage brief word bone";
+var mnemonic = "million mass poverty robust cruise casual fiscal chuckle equal law east reject";

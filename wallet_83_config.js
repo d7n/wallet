@@ -1,1 +1,1 @@
-var mnemonic = "fragile fault medal right virtual crouch evil pencil fence survey blast flight";
+var mnemonic = "demise harbor true recipe resist ocean panda aunt resemble squeeze rebuild soda";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz riot exchange stand toe enjoy hidden cigar thumb endorse split ask";
+var mnemonic = "tuition finger buffalo royal teach area quote side absorb blossom grain boost";

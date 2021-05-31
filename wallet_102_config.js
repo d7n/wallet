@@ -1,1 +1,1 @@
-var mnemonic = "add festival riot brisk grain escape sauce junk general home half hover";
+var mnemonic = "high impulse pencil oppose unit double honey wire list grow slight become";

@@ -1,1 +1,1 @@
-var mnemonic = "circle holiday number leave night office voyage ship bunker room hurdle roof";
+var mnemonic = "swim rally genius crush jungle canvas farm only winter update dentist grocery";

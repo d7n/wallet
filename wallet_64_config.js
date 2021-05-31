@@ -1,1 +1,1 @@
-var mnemonic = "gaze plunge major dutch valley bachelor clutch stereo prefer rival various tooth";
+var mnemonic = "drum shoot odor member custom december indicate venue option cactus lobster patient";

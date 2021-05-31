@@ -1,1 +1,1 @@
-var mnemonic = "man kangaroo other sample shop invest pupil manage victory screen title divide";
+var mnemonic = "picnic enjoy hand post region fat concert hobby tiny town tongue fork";

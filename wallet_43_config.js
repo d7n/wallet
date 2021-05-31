@@ -1,1 +1,1 @@
-var mnemonic = "march regret need satisfy omit surge april sun firm dolphin sniff dawn";
+var mnemonic = "animal digital drift uphold you fancy head frown genre oak tooth ostrich";

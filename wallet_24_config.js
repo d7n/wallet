@@ -1,1 +1,1 @@
-var mnemonic = "evil visit lawn height trust genuine card spin border solution intact subway";
+var mnemonic = "clog neutral miss outdoor clump march squirrel afford depend inner actress problem";

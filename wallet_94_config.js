@@ -1,1 +1,1 @@
-var mnemonic = "state liar above infant gate panther river lazy cousin inhale affair ticket";
+var mnemonic = "toward victory quote gadget clever legend grid rude mother error woman camp";

@@ -1,1 +1,1 @@
-var mnemonic = "few write left damage donate mutual cricket someone unlock bullet rival genius";
+var mnemonic = "insane idea pupil wild south symptom bench devote session dragon express fiscal";

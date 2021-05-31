@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow program kind gauge undo debate soul away tiger world behave team";
+var mnemonic = "bundle tortoise express peanut public pair identify scout credit urge chat boat";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder capable advance glow dutch stem question small river engine provide engage";
+var mnemonic = "birth clap city blast sense loyal autumn reflect ethics search cream ready";

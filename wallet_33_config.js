@@ -1,1 +1,1 @@
-var mnemonic = "erosion weapon wall clog burden actual property above burst clever remain remove";
+var mnemonic = "pyramid salad dress thunder dilemma lobster sick cat beef hurdle reject payment";

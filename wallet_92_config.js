@@ -1,1 +1,1 @@
-var mnemonic = "age solid eight simple girl chair gossip manual direct kind pull trick";
+var mnemonic = "surprise skirt blame busy promote horror market wave assist sand tragic screen";

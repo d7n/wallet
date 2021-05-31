@@ -1,1 +1,1 @@
-var mnemonic = "web riot into lunch trial tray insect canoe assault slow humble twenty";
+var mnemonic = "victory comfort member sing what render sign frost code brown tenant effort";

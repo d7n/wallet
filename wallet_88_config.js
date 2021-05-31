@@ -1,1 +1,1 @@
-var mnemonic = "lounge slogan business face such number script pass confirm frost shrug scorpion";
+var mnemonic = "cheap buffalo edge fitness bone wife track learn inflict circle lounge recycle";

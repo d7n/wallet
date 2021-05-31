@@ -1,1 +1,1 @@
-var mnemonic = "shoe thing vibrant resist muffin pear obtain baby recipe long panel huge";
+var mnemonic = "door process sand labor once outside dinner enter maid tail because daughter";

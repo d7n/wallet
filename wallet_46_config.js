@@ -1,1 +1,1 @@
-var mnemonic = "top body example endless enough ordinary dice glance clap gloom news fence";
+var mnemonic = "master fine saddle hard fluid once will suffer border route travel hover";

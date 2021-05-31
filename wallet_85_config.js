@@ -1,1 +1,1 @@
-var mnemonic = "orphan couple square off write puppy visual pretty daring shadow genius announce";
+var mnemonic = "young guide anchor slender village depth wild ability swing crash zone orchard";

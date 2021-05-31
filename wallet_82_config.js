@@ -1,1 +1,1 @@
-var mnemonic = "game drip abandon still electric camera rose identify success damp helmet ribbon";
+var mnemonic = "gym crystal bomb problem horn plunge tape throw strong comfort arrow dog";

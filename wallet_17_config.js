@@ -1,1 +1,1 @@
-var mnemonic = "train hazard quit jump gasp gadget layer repeat machine goose super hotel";
+var mnemonic = "damp feel rose skirt annual alone smart filter major weapon arena project";

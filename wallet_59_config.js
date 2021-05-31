@@ -1,1 +1,1 @@
-var mnemonic = "cushion erode wool suspect client inflict diamond huge hundred pole picnic deny";
+var mnemonic = "machine own pen quality festival shift before essence reopen child sound mule";

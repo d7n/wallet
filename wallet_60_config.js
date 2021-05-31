@@ -1,1 +1,1 @@
-var mnemonic = "fiber shove sunset lawn vehicle order matrix brush useful misery kangaroo object";
+var mnemonic = "also digital type champion distance brisk sad anxiety work artist nephew obscure";

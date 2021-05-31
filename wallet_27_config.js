@@ -1,1 +1,1 @@
-var mnemonic = "certain rotate pottery prepare soap drama fault table injury crater jaguar concert";
+var mnemonic = "vast tool penalty urban jelly domain tragic replace camera tent staff cup";

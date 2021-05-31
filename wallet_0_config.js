@@ -1,1 +1,1 @@
-var mnemonic = "stove gap subway rather front direct game anchor boat luxury spread famous";
+var mnemonic = "crop mimic distance outside resist powder stay oxygen gallery pipe lawn air";

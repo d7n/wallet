@@ -1,1 +1,1 @@
-var mnemonic = "fat boy slight fly stereo fine gain soft veteran badge inch measure";
+var mnemonic = "forward drive crawl quick check stuff child oven jungle gap meat naive";

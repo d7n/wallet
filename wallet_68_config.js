@@ -1,1 +1,1 @@
-var mnemonic = "reason gate remain vote usage luggage brother catalog aisle fold divert hazard";
+var mnemonic = "castle toilet clarify debate desert always learn patch inmate away merry rug";

@@ -1,1 +1,1 @@
-var mnemonic = "giant jar flight legal female someone aspect green first net elite faith";
+var mnemonic = "carbon gravity galaxy glory boost burger hunt twelve meat achieve soul install";

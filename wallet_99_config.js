@@ -1,1 +1,1 @@
-var mnemonic = "crucial announce slice tomato merit session ozone payment pride example cool amazing";
+var mnemonic = "obtain regular memory outdoor change loyal water wise vapor license bamboo shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "six milk region song velvet dad brass tank banner vendor hidden wool";
+var mnemonic = "lumber host ripple certain jump skin spoon obtain ugly cook render useful";

@@ -1,1 +1,1 @@
-var mnemonic = "witness paper raw other either metal spawn robot artefact obey twin enable";
+var mnemonic = "around home excite brick place okay angle viable basket ice feed raw";

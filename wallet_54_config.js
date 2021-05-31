@@ -1,1 +1,1 @@
-var mnemonic = "climb ritual rent settle impose inside glove include crisp mad close bunker";
+var mnemonic = "tilt attack slam stamp guard trend cheese curious then online slice example";

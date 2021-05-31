@@ -1,1 +1,1 @@
-var mnemonic = "torch pitch stool report news answer play actress tomorrow empower south allow";
+var mnemonic = "athlete kingdom will slot six cover horror scan waste oppose tennis million";

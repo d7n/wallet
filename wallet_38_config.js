@@ -1,1 +1,1 @@
-var mnemonic = "cheap initial decline punch pepper code mobile place end slide problem lake";
+var mnemonic = "damp spawn rule switch inflict slide hard caution exercise loop frame bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "repair border drastic rude awesome potato trigger genuine adult ensure express other";
+var mnemonic = "write design year hand tenant tackle erode jaguar trial olympic usual elevator";

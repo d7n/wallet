@@ -1,1 +1,1 @@
-var mnemonic = "wait bacon slow student fat abandon inherit issue creek laundry beauty quit";
+var mnemonic = "wife spray object skin ask just elite few misery danger crane lottery";

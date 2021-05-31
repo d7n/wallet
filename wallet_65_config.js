@@ -1,1 +1,1 @@
-var mnemonic = "cargo behind leaf panda file bar nerve surface local excite replace pony";
+var mnemonic = "echo slender oppose mistake cheese famous toilet segment orange renew school base";

@@ -1,1 +1,1 @@
-var mnemonic = "short symptom path balcony approve shove inflict mixture plug baby twin large";
+var mnemonic = "emerge survey hybrid sentence thought churn fatal want sentence certain toe gaze";

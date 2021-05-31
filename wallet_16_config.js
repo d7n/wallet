@@ -1,1 +1,1 @@
-var mnemonic = "syrup lens celery cactus clutch current try misery type earn limit injury";
+var mnemonic = "total derive jacket wave famous gap aware miss toast now tornado safe";

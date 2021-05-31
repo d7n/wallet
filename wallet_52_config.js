@@ -1,1 +1,1 @@
-var mnemonic = "hunt found sword attack weather length recycle tip midnight walnut dad august";
+var mnemonic = "forward earn jelly kit essence notable senior language famous praise lunch peace";

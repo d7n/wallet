@@ -1,1 +1,1 @@
-var mnemonic = "sugar story trigger kidney talk cargo cement vapor leave nuclear bullet fitness";
+var mnemonic = "liberty address remember ripple neither express man conduct sand cover blush furnace";

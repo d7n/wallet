@@ -1,1 +1,1 @@
-var mnemonic = "december rare consider purity resource fee ring athlete word rent daring alien";
+var mnemonic = "insane snow motion certain museum tomato exhaust rebel again tray amateur divert";

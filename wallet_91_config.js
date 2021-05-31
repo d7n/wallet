@@ -1,1 +1,1 @@
-var mnemonic = "rookie wink prize cloud universe regret calm sister arrange caution nerve carpet";
+var mnemonic = "glove once cushion ghost window lamp student play seed claw wide photo";

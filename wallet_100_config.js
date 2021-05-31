@@ -1,1 +1,1 @@
-var mnemonic = "sausage lawsuit select cattle runway mirror ignore artefact gossip sort dentist coast";
+var mnemonic = "senior today casual fish state fuel clinic ball ivory thought chunk runway";

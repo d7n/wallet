@@ -1,1 +1,1 @@
-var mnemonic = "industry marble festival renew polar gadget nominee come vault hybrid happy town";
+var mnemonic = "urge smile twice athlete behave dragon behave virtual sick chaos lion left";

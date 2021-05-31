@@ -1,1 +1,1 @@
-var mnemonic = "athlete master conduct stable claim mammal dirt derive afraid length raw damage";
+var mnemonic = "attract trouble nice orange rubber girl oxygen parent advice glass culture entry";

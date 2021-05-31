@@ -1,1 +1,1 @@
-var mnemonic = "reform island artefact loop club rather december gorilla layer utility genius sweet";
+var mnemonic = "unit maple gaze this tomato estate burst grace guide race job click";

@@ -1,1 +1,1 @@
-var mnemonic = "demand sad circle dirt artist slender slab become begin uncle clean lend";
+var mnemonic = "enable rib angle identify pill build post eight day demise hard school";

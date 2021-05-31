@@ -1,1 +1,1 @@
-var mnemonic = "mandate level abstract gate cabbage typical collect decade quick window object swift";
+var mnemonic = "arch oxygen sell hour law rigid joy gold aerobic help snow sorry";

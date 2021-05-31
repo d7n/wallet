@@ -1,1 +1,1 @@
-var mnemonic = "disagree this seed farm witness wonder chronic butter squeeze flush ivory era";
+var mnemonic = "photo puppy account excuse gospel habit buzz lava company erode knee letter";

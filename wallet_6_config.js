@@ -1,1 +1,1 @@
-var mnemonic = "bottom toe habit limb want glare exhaust race frog spread vivid thunder";
+var mnemonic = "deputy patch cave agent jelly topple virus size push mechanic joke faculty";

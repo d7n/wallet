@@ -1,1 +1,1 @@
-var mnemonic = "churn cushion beach spin glove exchange gallery evolve custom canvas brown opinion";
+var mnemonic = "clown arctic manage country legal north lens smile blouse frost patch report";

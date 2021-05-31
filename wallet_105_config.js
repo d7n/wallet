@@ -1,1 +1,1 @@
-var mnemonic = "clever zero belt emotion square vehicle trim name expire width region excite";
+var mnemonic = "monkey immune caution caught champion unique nose cruel top health shop around";

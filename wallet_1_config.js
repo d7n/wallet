@@ -1,1 +1,1 @@
-var mnemonic = "select repeat album swim rubber clump buffalo solar number arctic strong girl";
+var mnemonic = "exhibit coconut card bunker soccer fruit imitate horn own weapon cousin crunch";

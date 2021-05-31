@@ -1,1 +1,1 @@
-var mnemonic = "snack praise artwork wild protect release display pipe word shock brown seat";
+var mnemonic = "hello junior critic model chaos ensure reduce erase supply gesture nuclear deal";

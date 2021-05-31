@@ -1,1 +1,1 @@
-var mnemonic = "cook inherit announce borrow page clay alien pulse small hope congress illness";
+var mnemonic = "safe ill lake lottery tissue august able invest accuse junk caught talent";

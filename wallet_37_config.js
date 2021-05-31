@@ -1,1 +1,1 @@
-var mnemonic = "neither love future crane bacon orbit shallow aisle goddess priority spend artwork";
+var mnemonic = "rain major tuition benefit valley mad emerge wheat fitness gesture step double";

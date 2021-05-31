@@ -1,1 +1,1 @@
-var mnemonic = "around pottery cargo cruise fever case penalty morning decorate all august capital";
+var mnemonic = "easily picnic original jar exotic indicate scrub toe fan dust deposit attack";

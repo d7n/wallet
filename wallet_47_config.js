@@ -1,1 +1,1 @@
-var mnemonic = "mistake refuse skill common actor pill pause long define certain burden boost";
+var mnemonic = "grain moral muffin layer clay hub trouble near transfer motor prefer peasant";

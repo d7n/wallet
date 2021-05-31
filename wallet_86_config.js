@@ -1,1 +1,1 @@
-var mnemonic = "eagle orphan express pyramid demise grit explain gorilla gym pet volume tumble";
+var mnemonic = "swallow intact cliff nuclear pause word they crime soft donkey taxi parade";

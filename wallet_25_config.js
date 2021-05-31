@@ -1,1 +1,1 @@
-var mnemonic = "dust detect equip bacon jungle warm fuel thing elbow swear whale fossil";
+var mnemonic = "come dutch cake insane poem behave rice guitar fetch ship base tourist";

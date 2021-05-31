@@ -1,1 +1,1 @@
-var mnemonic = "cancel manual curtain cheese pistol core together question arrest close present truly";
+var mnemonic = "pill goose fiction noodle inhale noodle next iron chair window shell draw";

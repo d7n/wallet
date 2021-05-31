@@ -1,1 +1,1 @@
-var mnemonic = "squeeze curtain weapon army initial enroll raw hamster expand edge stomach dust";
+var mnemonic = "spin canal blossom erode anxiety depart faint essence patrol pigeon draft hood";

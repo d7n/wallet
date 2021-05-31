@@ -1,1 +1,1 @@
-var mnemonic = "budget exact surge fluid cotton fitness screen stick target dragon better slab";
+var mnemonic = "supply change ecology shrimp goat ahead little secret twelve weekend stone pony";

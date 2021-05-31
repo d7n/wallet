@@ -1,1 +1,1 @@
-var mnemonic = "project theory innocent kick tumble keep proud border pretty gold rhythm walnut";
+var mnemonic = "shuffle document spawn hint depth zebra debris liquid fruit night walk rough";

@@ -1,1 +1,1 @@
-var mnemonic = "rough zoo forum utility card upper bargain seminar one used observe market";
+var mnemonic = "journey lava defy shuffle off bind marine salmon half must act energy";

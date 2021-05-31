@@ -1,1 +1,1 @@
-var mnemonic = "seminar nasty next army shove rather bounce blossom obey tube submit broken";
+var mnemonic = "busy mirror core copper airport asthma dolphin comic section purchase eternal cave";

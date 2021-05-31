@@ -1,1 +1,1 @@
-var mnemonic = "daughter glad nerve admit divert vanish moment turtle eternal survey mosquito sugar";
+var mnemonic = "volcano swap find evidence child egg grit dilemma ivory ethics picnic absent";

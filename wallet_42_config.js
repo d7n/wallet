@@ -1,1 +1,1 @@
-var mnemonic = "sunny cannon agree print thing nest pioneer meadow fatal vacuum infant bargain";
+var mnemonic = "place decorate color small soda school exclude later imitate wash rely angle";

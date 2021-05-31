@@ -1,1 +1,1 @@
-var mnemonic = "ghost know web initial world depart trash tool rare chuckle gesture desk";
+var mnemonic = "member cereal frog palace act mail learn wife dice fringe ripple mask";

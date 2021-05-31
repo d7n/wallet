@@ -1,1 +1,1 @@
-var mnemonic = "mask index account spray roast magnet upper nothing hero tray indoor gloom";
+var mnemonic = "pitch next park twist lazy blade beauty rude promote spare between swift";

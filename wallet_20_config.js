@@ -1,1 +1,1 @@
-var mnemonic = "verb cycle coffee roast okay control gap punch auto script trust net";
+var mnemonic = "pudding scare pottery next camp shadow image interest secret rent aisle quote";

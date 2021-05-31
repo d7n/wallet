@@ -1,1 +1,1 @@
-var mnemonic = "episode grain announce siren legal flock vacant toast vanish tower wise grant";
+var mnemonic = "dice doll top captain banana alone civil exotic what swallow toe aware";

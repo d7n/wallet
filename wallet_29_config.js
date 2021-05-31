@@ -1,1 +1,1 @@
-var mnemonic = "vintage leisure win sustain basic rabbit notable either talk keep echo virtual";
+var mnemonic = "path second vote ancient vague secret attend misery course thunder connect whale";

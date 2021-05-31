@@ -1,1 +1,1 @@
-var mnemonic = "goat anxiety park idea smart teach blast eight fury crawl giant marine";
+var mnemonic = "eight olive ozone transfer rent marble lottery inside mirror anchor track employ";

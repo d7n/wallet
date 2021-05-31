@@ -1,1 +1,1 @@
-var mnemonic = "teach check guess lens earth copy toward poem coral cry shine glare";
+var mnemonic = "hole shaft shiver lawn alley learn flee vibrant tonight scout regular what";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat bubble oval body rare robust image vicious laugh demise team obey";
+var mnemonic = "hedgehog fault punch diamond crisp excuse forget tongue drink kiwi slight supply";

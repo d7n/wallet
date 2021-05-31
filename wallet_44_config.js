@@ -1,1 +1,1 @@
-var mnemonic = "soccer combine exile assume arena salute rocket august lab learn celery enrich";
+var mnemonic = "test upper toward glimpse inform prefer grid deliver vague collect silver they";

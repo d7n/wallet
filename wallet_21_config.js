@@ -1,1 +1,1 @@
-var mnemonic = "talk below panic squeeze decade curious bomb divide inherit price hat hero";
+var mnemonic = "favorite dog surge primary alpha that diamond laugh bar earth remember pencil";

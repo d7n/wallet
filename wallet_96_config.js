@@ -1,1 +1,1 @@
-var mnemonic = "pistol high scene easily health blur safe rookie street good sniff catch";
+var mnemonic = "rhythm dice accident that cost require basket verb loud decline window black";

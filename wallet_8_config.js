@@ -1,1 +1,1 @@
-var mnemonic = "frequent cactus liberty fall run point train scorpion panda motion solution trumpet";
+var mnemonic = "sand skill arrow strategy steak either wheel enemy method upon ethics team";

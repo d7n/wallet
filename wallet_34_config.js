@@ -1,1 +1,1 @@
-var mnemonic = "level valid concert era galaxy message embrace review wink robust theme sock";
+var mnemonic = "refuse bubble appear possible dentist clarify pumpkin quantum cabin minimum pencil afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "alone embrace possible negative oval profit alarm mercy fine upon jeans muscle";
+var mnemonic = "stable jar pass clinic flee enjoy above ride gain penalty again carry";
