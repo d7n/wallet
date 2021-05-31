@@ -1,1 +1,1 @@
-var mnemonic = "play ostrich oblige cross clean fatal win quiz team claw naive sure";
+var mnemonic = "budget antique foster snake attend victory benefit decline frown midnight liar smile";

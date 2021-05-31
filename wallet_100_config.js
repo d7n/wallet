@@ -1,1 +1,1 @@
-var mnemonic = "crawl open antenna adjust shine muscle shiver train winter horn tail dry";
+var mnemonic = "into vault since wagon whale timber charge wheel post message address unveil";

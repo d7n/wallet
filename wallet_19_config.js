@@ -1,1 +1,1 @@
-var mnemonic = "gentle habit tip tongue busy hungry plug chunk fame share project tomorrow";
+var mnemonic = "scene chase title ankle toward off reform camp urge lake miss popular";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cover height twenty they vintage park deny boil grass nature raise";
+var mnemonic = "virtual balcony milk tourist issue blue glance wish nasty motor milk envelope";

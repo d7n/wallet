@@ -1,1 +1,1 @@
-var mnemonic = "excuse slice cattle slight absent income frame raccoon eight rubber master scissors";
+var mnemonic = "minimum spike used wall gain burst veteran brisk web cube caution bicycle";

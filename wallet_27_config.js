@@ -1,1 +1,1 @@
-var mnemonic = "update inspire curve awkward deer design august rather sister scatter minimum topple";
+var mnemonic = "midnight struggle city prize coin power sauce company frown chief wolf tornado";

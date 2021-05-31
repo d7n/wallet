@@ -1,1 +1,1 @@
-var mnemonic = "liberty wish income message sponsor cause small child private armor breeze path";
+var mnemonic = "stable surprise forum area scale supreme often notable remember focus bracket salt";

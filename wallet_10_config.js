@@ -1,1 +1,1 @@
-var mnemonic = "apart maid green funny easily exotic elephant twice nut barrel keen tip";
+var mnemonic = "wrestle expire test song crisp faint calm hood match atom behind snap";

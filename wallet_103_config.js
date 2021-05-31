@@ -1,1 +1,1 @@
-var mnemonic = "kiwi unit shed object chef flee rival surprise skull gloom fiction feed";
+var mnemonic = "afraid tuna harvest tragic banner case cactus swim exit grid act wash";

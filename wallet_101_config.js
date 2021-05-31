@@ -1,1 +1,1 @@
-var mnemonic = "intact leg siren offer market kiss soul glad rail fee conduct limb";
+var mnemonic = "garden nature flag chef ethics until link sick accuse hospital turtle green";

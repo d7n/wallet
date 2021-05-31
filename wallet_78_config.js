@@ -1,1 +1,1 @@
-var mnemonic = "sudden daughter recall situate life fault rug fatal tell depend wheel early";
+var mnemonic = "level estate harbor repair enjoy tired fog treat guitar task snack essence";

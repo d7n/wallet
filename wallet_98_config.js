@@ -1,1 +1,1 @@
-var mnemonic = "tent mad all upgrade mad photo venue borrow guess point crash lock";
+var mnemonic = "shield path zoo summer mother silent owner fish later diagram fall noise";

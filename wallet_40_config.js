@@ -1,1 +1,1 @@
-var mnemonic = "antique march maximum solve snap lobster absurd quarter milk onion master armed";
+var mnemonic = "puppy polar random truth oil crowd need fiber bachelor vivid crucial credit";

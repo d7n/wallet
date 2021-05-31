@@ -1,1 +1,1 @@
-var mnemonic = "arena script position deer immune ill hollow stuff tree screen regret tackle";
+var mnemonic = "catalog civil caution scorpion initial barely noble wonder split finger pattern twist";

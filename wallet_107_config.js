@@ -1,1 +1,1 @@
-var mnemonic = "occur twin ill shoot staff enhance amazing marriage stage claw cause erase";
+var mnemonic = "hotel sort girl brush daughter mirror win laundry joke hen right rain";

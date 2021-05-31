@@ -1,1 +1,1 @@
-var mnemonic = "real happy foil casual adapt easy mystery flavor also tilt pudding crazy";
+var mnemonic = "rural minimum oxygen recall remember fix naive rapid alpha confirm erupt near";

@@ -1,1 +1,1 @@
-var mnemonic = "staff air egg silver damage cube crisp client blanket rookie drill emotion";
+var mnemonic = "first resemble fee trade cushion hole flavor giant matter lumber truck able";

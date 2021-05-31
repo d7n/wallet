@@ -1,1 +1,1 @@
-var mnemonic = "coach carry rocket blouse wedding warm skull divert myth lecture wrap stove";
+var mnemonic = "chat gate pencil soft excuse salmon person mixed filter team awesome empower";

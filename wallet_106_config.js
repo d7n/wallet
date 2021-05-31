@@ -1,1 +1,1 @@
-var mnemonic = "amazing stumble merry mushroom program rebuild coast dance bread average soul wine";
+var mnemonic = "ugly abstract artist retreat cattle pave change pigeon stomach green chicken option";

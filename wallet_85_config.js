@@ -1,1 +1,1 @@
-var mnemonic = "flush claim ignore solution cradle fault reunion whale noble between rookie fury";
+var mnemonic = "thrive gauge client token kit quantum message gentle squeeze left kiwi census";

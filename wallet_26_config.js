@@ -1,1 +1,1 @@
-var mnemonic = "want buffalo problem van lazy puppy endless guard vital luggage stomach already";
+var mnemonic = "wear baby avoid portion frame hawk height economy flush luxury shoot banner";

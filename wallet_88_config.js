@@ -1,1 +1,1 @@
-var mnemonic = "mercy runway sport fit balcony stem inch utility noodle answer problem seminar";
+var mnemonic = "prepare illegal business tone cancel stomach piece hybrid crowd agent glove vague";

@@ -1,1 +1,1 @@
-var mnemonic = "advice vessel plunge tank cable green kitchen arena unknown token grow grant";
+var mnemonic = "rigid keen spare riot bronze erode cup embark put siege mistake sudden";

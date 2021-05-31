@@ -1,1 +1,1 @@
-var mnemonic = "gown toast jaguar bamboo riot valve west steak year trigger strike turtle";
+var mnemonic = "taste easily pitch appear timber gold harvest discover surround bulb behave kidney";

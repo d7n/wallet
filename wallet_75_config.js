@@ -1,1 +1,1 @@
-var mnemonic = "attract ketchup often raven marriage crouch venue pudding wide jacket fashion tube";
+var mnemonic = "runway primary print crash arrest call stone luxury churn million quit solution";

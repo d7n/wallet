@@ -1,1 +1,1 @@
-var mnemonic = "fetch combine craft hood search defy valid core scissors obtain witness carpet";
+var mnemonic = "lucky script jealous join scrub there next become pudding peasant match license";

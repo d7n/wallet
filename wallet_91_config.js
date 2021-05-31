@@ -1,1 +1,1 @@
-var mnemonic = "copy farm brand payment kidney corn indicate sting axis gain claw sort";
+var mnemonic = "pond inside slush video mixed armed movie fuel olive during gather elevator";

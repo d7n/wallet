@@ -1,1 +1,1 @@
-var mnemonic = "worry position genre fantasy leisure surprise mistake rent veteran jungle true priority";
+var mnemonic = "crawl dash tool ozone invite shy amount release aisle near month wine";

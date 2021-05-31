@@ -1,1 +1,1 @@
-var mnemonic = "raise grocery wrap always pill april donkey dish fly fit worry couch";
+var mnemonic = "police duty step buzz select bunker immune below genuine offer grass uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "cart iron nothing yard admit radar plunge cable cancel bar write sort";
+var mnemonic = "lawsuit issue veteran minimum salmon soul round receive garden wagon limit absorb";

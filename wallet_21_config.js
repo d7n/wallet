@@ -1,1 +1,1 @@
-var mnemonic = "skull vendor hill program letter mammal snake nuclear seat between future couch";
+var mnemonic = "juice rigid legend friend home kick hole age purity midnight true seminar";

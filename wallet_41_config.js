@@ -1,1 +1,1 @@
-var mnemonic = "breeze sausage silly trial essence evidence hungry pen expect sport panther invite";
+var mnemonic = "dash crumble leg youth video retire rain tuition spider suspect local lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant senior invite picture yellow rack orient subway economy shrug tribe dizzy";
+var mnemonic = "abstract pilot flower dial undo board cabin sadness true try attitude wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon atom mad prize sock armor erode better umbrella paddle good night";
+var mnemonic = "adult rate project head spice damp people gauge discover pattern survey barely";

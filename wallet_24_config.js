@@ -1,1 +1,1 @@
-var mnemonic = "demand economy frequent siren please liar city lesson tired balcony elevator erupt";
+var mnemonic = "ritual bitter lake duck much sight misery aspect sauce crew science motor";

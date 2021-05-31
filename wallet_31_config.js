@@ -1,1 +1,1 @@
-var mnemonic = "giggle fashion sure invite venture sand glad little venture narrow gather tattoo";
+var mnemonic = "injury float begin vocal student decrease clap lift various fantasy swim celery";

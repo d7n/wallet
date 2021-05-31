@@ -1,1 +1,1 @@
-var mnemonic = "sad pepper retire labor jazz debate bird wild tag fence alert into";
+var mnemonic = "ginger path wrist among clever gun future hotel because warfare cargo wear";

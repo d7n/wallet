@@ -1,1 +1,1 @@
-var mnemonic = "prefer word priority guess hidden horror near dentist use tuition convince muscle";
+var mnemonic = "saddle cigar wood sister dune modify wild trial tent diamond math best";

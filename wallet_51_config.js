@@ -1,1 +1,1 @@
-var mnemonic = "squeeze loud pigeon medal vote canoe door garbage harsh surface immune mixture";
+var mnemonic = "blossom practice bullet battle art enforce edge oven oak master match yard";

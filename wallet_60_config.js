@@ -1,1 +1,1 @@
-var mnemonic = "piano pass page invite tube devote august hub crazy whisper assume field";
+var mnemonic = "field leaf hair hard tuition bachelor winner helmet coin brush credit fiction";

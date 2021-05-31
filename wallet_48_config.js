@@ -1,1 +1,1 @@
-var mnemonic = "strike oblige float food bamboo shed bind vapor differ cool age either";
+var mnemonic = "matter fame cruise deer era year educate jacket punch pigeon once flight";

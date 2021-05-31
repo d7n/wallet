@@ -1,1 +1,1 @@
-var mnemonic = "fury supply pause cancel kick nasty whisper vital person bounce shoot negative";
+var mnemonic = "liberty toddler female differ man magnet depth endless success giggle common cross";

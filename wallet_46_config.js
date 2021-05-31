@@ -1,1 +1,1 @@
-var mnemonic = "couch island step inhale danger tobacco miss corn across style power nut";
+var mnemonic = "theory wet icon congress urban core leg gentle page drama alert choice";

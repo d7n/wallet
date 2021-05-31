@@ -1,1 +1,1 @@
-var mnemonic = "kidney slogan sure april about marriage stairs antenna amount junior pudding boost";
+var mnemonic = "electric city number elite inhale mandate defy virtual edit cake happy sail";

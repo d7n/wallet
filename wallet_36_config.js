@@ -1,1 +1,1 @@
-var mnemonic = "physical stage nest mad flat circle harvest squeeze robust original guilt empty";
+var mnemonic = "olympic climb game scene soup thumb chuckle between grant lyrics reopen funny";

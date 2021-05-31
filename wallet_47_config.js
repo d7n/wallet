@@ -1,1 +1,1 @@
-var mnemonic = "solid boring expand kingdom prosper just oxygen kit exact pause mixed tail";
+var mnemonic = "crime high clock stadium learn visit survey okay defense cigar grab female";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey science evidence labor submit ready veteran spend stuff mercy bachelor blame";
+var mnemonic = "black uphold intact employ helmet lamp ivory flag unhappy assault neutral minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "crater farm math snap clay report just exist frown summer vibrant addict";
+var mnemonic = "link odor census finish glance leopard shiver universe setup regular else switch";

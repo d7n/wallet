@@ -1,1 +1,1 @@
-var mnemonic = "fluid recipe pet symbol remain parade advance road tiny palace ready hold";
+var mnemonic = "sausage horn practice coin north cram sword minor green endless poverty scene";

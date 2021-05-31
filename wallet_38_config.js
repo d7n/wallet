@@ -1,1 +1,1 @@
-var mnemonic = "inspire chief jazz pond hover busy grow road unlock paper paper keen";
+var mnemonic = "oblige comfort average poem outer dismiss fiction soda shift nerve aisle divorce";

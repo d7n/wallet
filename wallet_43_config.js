@@ -1,1 +1,1 @@
-var mnemonic = "cheap ready jewel exhibit olympic super install primary hurt help tennis field";
+var mnemonic = "combine museum merge measure life topic dumb empty face rebel motion pear";

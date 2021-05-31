@@ -1,1 +1,1 @@
-var mnemonic = "child admit hurry ketchup layer brass main ivory myth dash scorpion hazard";
+var mnemonic = "deer liar arch dish youth one tortoise duty merge moral inspire type";

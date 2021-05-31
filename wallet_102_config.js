@@ -1,1 +1,1 @@
-var mnemonic = "wait hamster next catch giraffe silver era hidden pull iron radio shrug";
+var mnemonic = "shift glow fatigue online marriage increase couple spice theme announce kiwi turtle";

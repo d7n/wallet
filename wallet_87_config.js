@@ -1,1 +1,1 @@
-var mnemonic = "balcony reject dish apology hybrid lunar bunker mouse leisure nasty picture style";
+var mnemonic = "start age promote divorce march zone outdoor opinion thunder payment horse solar";

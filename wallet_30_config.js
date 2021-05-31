@@ -1,1 +1,1 @@
-var mnemonic = "accident engage finger quiz disease blind absurd orange legal frequent behind tower";
+var mnemonic = "cube joy raccoon manual public pumpkin sad ocean eye balance sport toe";

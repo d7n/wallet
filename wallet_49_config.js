@@ -1,1 +1,1 @@
-var mnemonic = "flag tunnel evil between traffic pole alone force armed sleep april doll";
+var mnemonic = "favorite news scan nice chuckle visit quote pattern actress wreck radio mushroom";

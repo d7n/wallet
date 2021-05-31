@@ -1,1 +1,1 @@
-var mnemonic = "slogan spare stool stock amused crane impose steak neglect anchor slogan this";
+var mnemonic = "detect slim dawn glare tooth spice arrange sea spike ahead sail crush";

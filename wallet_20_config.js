@@ -1,1 +1,1 @@
-var mnemonic = "end someone remember arrive rhythm space early parent ski earth this bid";
+var mnemonic = "faint young filter valley plate thumb race trigger bunker rule lounge economy";

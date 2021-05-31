@@ -1,1 +1,1 @@
-var mnemonic = "shadow brother practice pipe fitness nerve street chef raccoon warm wire debate";
+var mnemonic = "nephew parrot wait night little easily debate daughter elder okay bicycle immune";

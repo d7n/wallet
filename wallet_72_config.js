@@ -1,1 +1,1 @@
-var mnemonic = "over aim medal proud ladder waste riot hedgehog whale six error delay";
+var mnemonic = "vague trumpet invite siren used jazz hedgehog fashion video grab salute real";

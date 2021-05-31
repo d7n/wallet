@@ -1,1 +1,1 @@
-var mnemonic = "bonus invite melody opinion siren prison slab model romance remember pilot alert";
+var mnemonic = "mule tenant abandon cloud sing skirt shy deliver female love reopen seek";

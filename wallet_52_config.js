@@ -1,1 +1,1 @@
-var mnemonic = "vocal fine suit hockey beauty clever ghost glow simple unlock motor silk";
+var mnemonic = "twelve seed again plunge crumble first slight unlock ostrich next column gold";

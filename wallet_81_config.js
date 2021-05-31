@@ -1,1 +1,1 @@
-var mnemonic = "bubble below chase scout resemble lottery bless shed glue citizen notable violin";
+var mnemonic = "kidney ball dumb coyote insane bridge bitter round royal omit balcony organ";

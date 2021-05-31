@@ -1,1 +1,1 @@
-var mnemonic = "have tower man acoustic banana luggage toward include mask outside try fire";
+var mnemonic = "sail sun differ purpose joke wreck swamp forest soap satisfy crater chat";

@@ -1,1 +1,1 @@
-var mnemonic = "boy pulse brain eternal moon motor jacket choice cram filter cause lake";
+var mnemonic = "debate daring enlist measure broom cheese climb pony laundry frog vessel height";

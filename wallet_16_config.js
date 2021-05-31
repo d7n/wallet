@@ -1,1 +1,1 @@
-var mnemonic = "clock guide gauge castle benefit chief garage pupil current pitch where toss";
+var mnemonic = "network broken good hint buffalo treat vocal engage fun alarm soda runway";

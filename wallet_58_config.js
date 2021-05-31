@@ -1,1 +1,1 @@
-var mnemonic = "illness next draw remind another finish material blanket rely special member miracle";
+var mnemonic = "business divide usage original catalog account move globe cradle agent crucial chase";

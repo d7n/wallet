@@ -1,1 +1,1 @@
-var mnemonic = "shift such cream okay knock warm water cigar cross guard solve today";
+var mnemonic = "reject squeeze toilet fade orange bird cloth knock language fluid unfair sorry";

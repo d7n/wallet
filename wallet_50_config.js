@@ -1,1 +1,1 @@
-var mnemonic = "basket lawn sphere strike business april stool lazy muffin unit tuna exhaust";
+var mnemonic = "exact rib panther picnic delay wine danger library puppy noble define payment";

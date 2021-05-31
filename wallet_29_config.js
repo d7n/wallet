@@ -1,1 +1,1 @@
-var mnemonic = "legend used boost always foil parent crane giraffe wasp cousin supply screen";
+var mnemonic = "about club bounce crucial acid mass furnace spirit second just clap riot";

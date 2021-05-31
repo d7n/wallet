@@ -1,1 +1,1 @@
-var mnemonic = "call theme pumpkin lyrics blame this sentence crime cheap execute barrel memory";
+var mnemonic = "three minute science output shadow inmate rather wing earn march verify friend";

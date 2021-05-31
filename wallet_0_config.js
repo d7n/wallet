@@ -1,1 +1,1 @@
-var mnemonic = "clump cable good joy comic sweet action sense faith gold album liquid";
+var mnemonic = "master apple visual member thought smoke december key address path depart picture";

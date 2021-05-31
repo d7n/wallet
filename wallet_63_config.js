@@ -1,1 +1,1 @@
-var mnemonic = "interest void immense guide stumble say profit kitten shine fork brisk theme";
+var mnemonic = "west divide assist arena audit sell own trophy leopard minor abuse urge";

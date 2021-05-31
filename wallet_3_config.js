@@ -1,1 +1,1 @@
-var mnemonic = "express begin curious uniform crystal spray habit trim profit vacant amazing hen";
+var mnemonic = "post color dragon system comic habit job sad bachelor believe also settle";

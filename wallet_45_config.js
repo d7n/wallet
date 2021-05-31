@@ -1,1 +1,1 @@
-var mnemonic = "refuse thought initial pair credit frown soup tortoise resist angry either possible";
+var mnemonic = "market coral question source adapt object inherit route engine burger bachelor kiwi";

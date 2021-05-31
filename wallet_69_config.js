@@ -1,1 +1,1 @@
-var mnemonic = "legal awful carpet play tunnel manage ability face victory account shadow illness";
+var mnemonic = "disorder now pet token taxi village rapid coconut afraid vendor drop future";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet hand space thumb dumb diamond island decade hello salt payment dilemma";
+var mnemonic = "album pave enrich juice blossom peace fly chapter pact tent stomach type";

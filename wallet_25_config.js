@@ -1,1 +1,1 @@
-var mnemonic = "advance target denial kit risk bone wash width ridge rotate empty salad";
+var mnemonic = "brush original oppose soup alarm test obtain raccoon loop position brisk country";

@@ -1,1 +1,1 @@
-var mnemonic = "silly dragon hour street beach crucial forget surround check dust kick tape";
+var mnemonic = "normal observe element nominee vicious twist arrest punch right link estate school";

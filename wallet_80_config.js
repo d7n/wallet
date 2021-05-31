@@ -1,1 +1,1 @@
-var mnemonic = "rule best giggle illegal comic wedding segment notice place gadget coffee filter";
+var mnemonic = "exchange return finish slide swear honey advice coral pepper admit inherit piece";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge mercy panther canal bring heavy donate update picture wage pupil acquire";
+var mnemonic = "furnace prosper news organ fragile chief wall ginger expect engine kit aim";

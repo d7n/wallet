@@ -1,1 +1,1 @@
-var mnemonic = "possible exotic seek phrase isolate receive squirrel fatal dial text outside toss";
+var mnemonic = "viable cloth shift hub fit case question moon custom ring cream mix";

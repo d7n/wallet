@@ -1,1 +1,1 @@
-var mnemonic = "sheriff curve give hope blanket cushion prison gasp limit text first nasty";
+var mnemonic = "solve win subject arrest sadness recall select luggage hope crunch alter oil";

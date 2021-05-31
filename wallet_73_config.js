@@ -1,1 +1,1 @@
-var mnemonic = "begin horse stereo nation invest pumpkin include wrong energy secret music mouse";
+var mnemonic = "bulb naive catalog family eagle embrace strategy aim bounce inject gate episode";

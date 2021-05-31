@@ -1,1 +1,1 @@
-var mnemonic = "pulp orbit news neck journey reduce flag run cable alley alcohol lesson";
+var mnemonic = "update bracket mouse pact acquire lemon network vibrant nice blade afraid viable";

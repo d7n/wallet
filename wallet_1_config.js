@@ -1,1 +1,1 @@
-var mnemonic = "depart female current prepare mule excite option puppy luxury crew enact stove";
+var mnemonic = "update foster arrow candy depart coast match struggle sock found smoke budget";

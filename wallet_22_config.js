@@ -1,1 +1,1 @@
-var mnemonic = "rather lend whip stuff various audit media educate august lyrics actor various";
+var mnemonic = "ring direct mixture genre pizza hair truth unhappy shove basket alien panic";
