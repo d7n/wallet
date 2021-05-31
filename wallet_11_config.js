@@ -1,1 +1,1 @@
-var mnemonic = "coyote sun accident toast lens tobacco ordinary stuff describe artefact share chair";
+var mnemonic = "reward excess mandate faculty inform push voice claim flee add rice dolphin";

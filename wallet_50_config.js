@@ -1,1 +1,1 @@
-var mnemonic = "dice carpet hub bind pioneer sponsor exchange turn below kid truck below";
+var mnemonic = "water involve prepare real stock level chalk tonight pulse wrist extend soul";

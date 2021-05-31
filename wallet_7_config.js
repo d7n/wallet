@@ -1,1 +1,1 @@
-var mnemonic = "fiscal panel portion betray jaguar honey light inflict actual slab shed feed";
+var mnemonic = "curious real base quantum over bike cattle hunt divert echo ahead spare";

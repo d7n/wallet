@@ -1,1 +1,1 @@
-var mnemonic = "glare unlock asset reward cradle february tattoo permit supply worry lesson joke";
+var mnemonic = "blouse glimpse winner spring virtual length jeans animal plate youth upset winner";

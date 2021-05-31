@@ -1,1 +1,1 @@
-var mnemonic = "off certain chat keen mixture mad wheat drastic supreme common crowd flight";
+var mnemonic = "sign bacon fee wrestle scorpion bullet range glance lucky glance strategy around";

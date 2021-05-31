@@ -1,1 +1,1 @@
-var mnemonic = "robot number warrior mind rate cherry merge neutral lucky grab genre canyon";
+var mnemonic = "machine assume mind verb tumble kingdom promote grow rather permit mirror ozone";

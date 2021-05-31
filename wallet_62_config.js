@@ -1,1 +1,1 @@
-var mnemonic = "loan expect glory fruit pelican garment scene punch tilt april where snack";
+var mnemonic = "tragic setup clog flame start scare example stamp level piano acoustic speed";

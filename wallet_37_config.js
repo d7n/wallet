@@ -1,1 +1,1 @@
-var mnemonic = "early verify hobby reward address aerobic economy input expose town short theme";
+var mnemonic = "arrange thank device alien toilet obey enter strategy fever stereo path call";

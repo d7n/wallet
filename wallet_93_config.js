@@ -1,1 +1,1 @@
-var mnemonic = "debate girl boost sport permit demand visual embark hurry awkward job again";
+var mnemonic = "burst stage install service mammal crop woman print high since dress detect";

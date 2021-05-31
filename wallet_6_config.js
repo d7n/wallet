@@ -1,1 +1,1 @@
-var mnemonic = "loop feature total melt dial intact flame hollow ahead puzzle submit air";
+var mnemonic = "acid outdoor will cruel solution skate jungle design month awful firm motion";

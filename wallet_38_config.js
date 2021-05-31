@@ -1,1 +1,1 @@
-var mnemonic = "road robust practice family entire mule stumble stumble school affair blouse battle";
+var mnemonic = "noise cost waste pony travel over oil begin knock traffic remember rhythm";

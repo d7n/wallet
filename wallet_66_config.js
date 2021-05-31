@@ -1,1 +1,1 @@
-var mnemonic = "tattoo brand trumpet pause buyer hawk impact column move verify current cinnamon";
+var mnemonic = "earth desert pluck knee fabric slogan excite hunt simple just helmet salt";

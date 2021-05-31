@@ -1,1 +1,1 @@
-var mnemonic = "mercy dynamic clip iron travel harsh cover zone change become critic leg";
+var mnemonic = "stock fire brief debris explain dinosaur arctic labor cave clump enable come";

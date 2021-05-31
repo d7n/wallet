@@ -1,1 +1,1 @@
-var mnemonic = "arrest air fiber answer urban funny board over own ritual wish depend";
+var mnemonic = "marble boring mix want wild gun elevator knock color success equal tide";

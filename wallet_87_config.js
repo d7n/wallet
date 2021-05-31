@@ -1,1 +1,1 @@
-var mnemonic = "scissors topic broom mirror magic funny fly captain film cloud across length";
+var mnemonic = "welcome turn paper satisfy tortoise agent clean fame celery income fun seed";

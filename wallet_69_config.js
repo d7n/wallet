@@ -1,1 +1,1 @@
-var mnemonic = "sunny weekend deputy gesture often fly more borrow fiber taste tiny will";
+var mnemonic = "left rhythm ozone cluster layer sunset extra repair captain park debris sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "zone enlist uncover hill black orchard mushroom garden advance farm want close";
+var mnemonic = "brown mutual beyond kitchen casual catalog lumber margin hub decrease trust diesel";

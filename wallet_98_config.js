@@ -1,1 +1,1 @@
-var mnemonic = "room cheap task voice width company afraid razor cinnamon immense famous nerve";
+var mnemonic = "machine tomorrow balance rib salute art velvet decrease check paper dog vacant";

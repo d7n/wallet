@@ -1,1 +1,1 @@
-var mnemonic = "forget gain green verb chat worry desert priority turkey excuse tone lobster";
+var mnemonic = "confirm bind rough satoshi false vapor syrup perfect sister cause skirt destroy";

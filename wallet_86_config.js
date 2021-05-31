@@ -1,1 +1,1 @@
-var mnemonic = "lunar limb tenant rose produce enemy salad dad portion village confirm disorder";
+var mnemonic = "table wrong upset between reunion razor dry parent detail hospital series plate";

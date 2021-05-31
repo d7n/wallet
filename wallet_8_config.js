@@ -1,1 +1,1 @@
-var mnemonic = "rain regret behave cheese rail east trumpet donate metal order negative puzzle";
+var mnemonic = "sand banner fabric fox same shine coconut claw clarify nest chimney donor";

@@ -1,1 +1,1 @@
-var mnemonic = "lens lecture jungle code wrong hill surprise other ill grain shoot bleak";
+var mnemonic = "course sausage apology enough asset upset jar whale crouch cherry cigar report";

@@ -1,1 +1,1 @@
-var mnemonic = "goat confirm now enlist have panic execute carbon any note file sausage";
+var mnemonic = "squirrel immense estate crop bundle parent knee link success net birth promote";

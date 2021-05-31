@@ -1,1 +1,1 @@
-var mnemonic = "novel urban power maple true dinosaur garlic length estate vendor exchange business";
+var mnemonic = "canvas foot genre toss physical split deliver powder milk fire slender violin";

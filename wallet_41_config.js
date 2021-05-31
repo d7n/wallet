@@ -1,1 +1,1 @@
-var mnemonic = "family van error involve cinnamon social rail found creek purchase canal slim";
+var mnemonic = "dad volume develop lunar alert eye tail imitate base pistol crash kitchen";

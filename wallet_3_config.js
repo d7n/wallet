@@ -1,1 +1,1 @@
-var mnemonic = "lift cushion shock bulk battle curious inner shadow deny caution black tank";
+var mnemonic = "elegant timber cross illness joy visit wreck interest attract skirt wink lounge";

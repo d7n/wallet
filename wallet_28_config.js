@@ -1,1 +1,1 @@
-var mnemonic = "gentle keep hollow cement bicycle design maximum raccoon wave wise suspect end";
+var mnemonic = "laptop mother club begin decline brief banner travel reward supreme frog bamboo";

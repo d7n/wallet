@@ -1,1 +1,1 @@
-var mnemonic = "trigger swallow year zoo face garlic genius wheel dolphin gaze venue blind";
+var mnemonic = "genius beach female box music romance stone best unaware electric divide hold";

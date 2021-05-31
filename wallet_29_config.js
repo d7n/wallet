@@ -1,1 +1,1 @@
-var mnemonic = "subject swarm drastic under soul helmet next pet draft solar lady sure";
+var mnemonic = "favorite math reveal digital gorilla pumpkin peasant claim erase oil slam crash";

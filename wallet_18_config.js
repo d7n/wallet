@@ -1,1 +1,1 @@
-var mnemonic = "input company broken wear also army machine friend rug envelope measure lawn";
+var mnemonic = "hawk flame envelope modify math drama theme fence luxury program hurry balance";

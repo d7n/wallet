@@ -1,1 +1,1 @@
-var mnemonic = "about state blind scrub cancel luggage gas cry artist universe much clutch";
+var mnemonic = "wave hand depth clog negative boil proof trigger gadget rookie shallow huge";

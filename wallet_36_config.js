@@ -1,1 +1,1 @@
-var mnemonic = "hair napkin cactus salute youth kind cargo advice teach waste border razor";
+var mnemonic = "ready defense label arm increase blood syrup liquid tennis pencil hello enough";

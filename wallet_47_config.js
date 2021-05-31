@@ -1,1 +1,1 @@
-var mnemonic = "city april sentence mean auto orange rotate purse crime spray hungry broken";
+var mnemonic = "nasty embrace gorilla whisper rival trade carry mother myth mountain zero pull";

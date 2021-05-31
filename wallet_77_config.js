@@ -1,1 +1,1 @@
-var mnemonic = "dragon jewel mule maid come replace obscure rose child where oppose huge";
+var mnemonic = "tongue depart taxi company flower tool net summer fantasy hurt gesture throw";

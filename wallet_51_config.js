@@ -1,1 +1,1 @@
-var mnemonic = "width garden ghost auto devote color lemon simple over filter wealth skirt";
+var mnemonic = "master marine feed visual pulse type toe planet spider vehicle science taste";

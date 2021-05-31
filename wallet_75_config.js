@@ -1,1 +1,1 @@
-var mnemonic = "note resemble grass love vapor trouble damp review reveal tragic offer clinic";
+var mnemonic = "detail silk energy receive have check report shoulder empower burden flat play";

@@ -1,1 +1,1 @@
-var mnemonic = "knock today fragile monkey address pyramid rival source horror pig peace lizard";
+var mnemonic = "leaf brick toddler rookie garment chaos awake aim eyebrow hybrid credit idea";

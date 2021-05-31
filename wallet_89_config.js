@@ -1,1 +1,1 @@
-var mnemonic = "arch comic into announce symbol coast cause sign orange artist junk surround";
+var mnemonic = "cinnamon capable illegal regular height keep aim fruit catalog cat cart matrix";

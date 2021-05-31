@@ -1,1 +1,1 @@
-var mnemonic = "risk hotel sense seat citizen announce flee thing equip squirrel belt exile";
+var mnemonic = "ozone bless record entire skill cactus annual cube humor student crazy bag";

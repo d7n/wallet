@@ -1,1 +1,1 @@
-var mnemonic = "another robust slender side blast truck cement dry output crash gloom hotel";
+var mnemonic = "index popular crawl verify purchase inside indoor cliff garden atom picture angle";

@@ -1,1 +1,1 @@
-var mnemonic = "brain outdoor verify reward blur shuffle wood guess panther sell session review";
+var mnemonic = "torch pumpkin coin fog curtain focus copper announce atom vote brick cliff";

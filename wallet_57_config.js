@@ -1,1 +1,1 @@
-var mnemonic = "van shell turtle absorb post twelve coin tool mad settle toward cabbage";
+var mnemonic = "mystery creek keep raise parade force luxury drill resist lens check sail";

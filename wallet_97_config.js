@@ -1,1 +1,1 @@
-var mnemonic = "blanket supply shove aunt crisp jungle present culture essence oppose rain wasp";
+var mnemonic = "palace pumpkin cool maid fork spell donate wonder brother virus cream can";

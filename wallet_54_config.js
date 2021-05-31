@@ -1,1 +1,1 @@
-var mnemonic = "ball live cluster follow slam script clay oak evolve fiscal cloth often";
+var mnemonic = "jump eternal drift assist snap symptom access multiply glow maple lock guard";

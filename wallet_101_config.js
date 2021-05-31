@@ -1,1 +1,1 @@
-var mnemonic = "load fork couch camera salad rain ball task check boost goddess input";
+var mnemonic = "mansion hockey harvest undo require huge fox wire drift brother brave vibrant";

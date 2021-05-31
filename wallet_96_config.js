@@ -1,1 +1,1 @@
-var mnemonic = "pass elite hurt reduce page cry lady broccoli matrix defense knock achieve";
+var mnemonic = "split taxi super taste evolve tape loyal layer mechanic require corn feature";

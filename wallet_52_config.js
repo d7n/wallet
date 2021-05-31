@@ -1,1 +1,1 @@
-var mnemonic = "orient true badge play return business sheriff capable review pink congress aerobic";
+var mnemonic = "appear solution silk talk flip purpose timber final similar diagram seven tribe";

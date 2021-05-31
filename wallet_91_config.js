@@ -1,1 +1,1 @@
-var mnemonic = "orchard wheel maple water virtual hidden grace trap flip delay illness merry";
+var mnemonic = "inflict menu elite shock door loyal right innocent agree gasp indoor million";

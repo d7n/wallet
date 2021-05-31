@@ -1,1 +1,1 @@
-var mnemonic = "guitar lemon sure economy stairs outdoor then nose satoshi universe shoulder demise";
+var mnemonic = "insect between split tired sick crime young secret foil holiday phone license";

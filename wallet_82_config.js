@@ -1,1 +1,1 @@
-var mnemonic = "tortoise mouse mushroom cover popular describe supply used better gun elite accident";
+var mnemonic = "leaf season argue bike hundred bounce grit genuine track jealous decline number";

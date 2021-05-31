@@ -1,1 +1,1 @@
-var mnemonic = "expose rack dress industry nominee before engage physical boss tooth wild swim";
+var mnemonic = "horse entry guilt vendor place ignore era lecture burger motor just member";

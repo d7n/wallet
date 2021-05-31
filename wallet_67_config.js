@@ -1,1 +1,1 @@
-var mnemonic = "ginger egg under body forward bar skate bullet confirm cost tiny ridge";
+var mnemonic = "century brisk priority law fault voyage eight junk emerge uncover calm logic";

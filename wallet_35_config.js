@@ -1,1 +1,1 @@
-var mnemonic = "strong work right luggage curious sketch little merry brave survey student bag";
+var mnemonic = "sure gaze hurdle forum regret apple swap craft bone brief exercise decrease";

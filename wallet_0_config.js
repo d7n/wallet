@@ -1,1 +1,1 @@
-var mnemonic = "faint know great shove enough exchange wish better north put dwarf pass";
+var mnemonic = "cactus parade dog borrow sample rack fly broccoli kangaroo wrestle warm faint";

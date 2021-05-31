@@ -1,1 +1,1 @@
-var mnemonic = "ugly release market farm mesh either grass laugh weasel captain toddler junior";
+var mnemonic = "improve early punch mushroom fresh degree provide cry stay prevent turkey innocent";

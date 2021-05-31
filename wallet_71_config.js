@@ -1,1 +1,1 @@
-var mnemonic = "tribe clock fringe purchase truth hybrid rather impulse switch hobby blur pool";
+var mnemonic = "coyote cushion window cotton bone metal faint plug great gym walk shell";

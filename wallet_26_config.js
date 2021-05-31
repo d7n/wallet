@@ -1,1 +1,1 @@
-var mnemonic = "kiwi hen bounce pig aim replace undo ketchup invest human suggest inflict";
+var mnemonic = "hair core dream duty elegant again online grow clown laptop strike satoshi";

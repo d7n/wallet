@@ -1,1 +1,1 @@
-var mnemonic = "nasty expand bar harvest exchange broccoli connect pink loud observe brother forget";
+var mnemonic = "wall rabbit aunt decline chef verify bicycle finish render undo space lunch";

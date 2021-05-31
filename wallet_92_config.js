@@ -1,1 +1,1 @@
-var mnemonic = "shove shrug style carpet moral parent quick bacon impact lion forward bulb";
+var mnemonic = "device cable cross blue shock blush skin equal fever allow pear snow";

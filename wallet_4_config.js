@@ -1,1 +1,1 @@
-var mnemonic = "track govern forum waste shove follow wasp evolve fly arch coconut remember";
+var mnemonic = "busy east pig lesson relax travel catch skull borrow tobacco letter sniff";

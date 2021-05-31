@@ -1,1 +1,1 @@
-var mnemonic = "club dog canal lift doll cousin find crumble increase hunt retreat kitchen";
+var mnemonic = "elevator stand sniff rely figure license lottery slim garment major endorse spray";

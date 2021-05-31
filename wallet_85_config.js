@@ -1,1 +1,1 @@
-var mnemonic = "rough ahead manual glory tongue have evoke debate require join solution search";
+var mnemonic = "until bag moon uphold danger chunk captain blood civil belt expect vessel";

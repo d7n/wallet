@@ -1,1 +1,1 @@
-var mnemonic = "often cabbage trash become arrange endorse tray buzz fix drink carpet afraid";
+var mnemonic = "cousin fat invest share puppy master parade choice kiss midnight insect over";

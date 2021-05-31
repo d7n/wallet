@@ -1,1 +1,1 @@
-var mnemonic = "nature space favorite survey change walk real idle cage dash borrow offer";
+var mnemonic = "pave picture dress enable recycle lottery bubble lady velvet nominee uphold chronic";

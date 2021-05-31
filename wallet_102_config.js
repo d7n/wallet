@@ -1,1 +1,1 @@
-var mnemonic = "planet pizza lift naive source vivid clutch knee help settle fault rural";
+var mnemonic = "mixed loan girl yard tongue hurry ill lawsuit retreat fat force choice";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt fee grid grape input inherit enable spy hawk wealth regular obvious";
+var mnemonic = "extra goat lend left useful essay grow tuna erase shy before foam";

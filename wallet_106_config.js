@@ -1,1 +1,1 @@
-var mnemonic = "page manual plastic install loyal fiction flush fresh sponsor express over host";
+var mnemonic = "barrel expose roof hood recipe picnic illegal already engage whisper lucky switch";

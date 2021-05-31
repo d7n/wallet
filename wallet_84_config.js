@@ -1,1 +1,1 @@
-var mnemonic = "garlic swift zebra jewel remove hundred scrap tuition witness work saddle bacon";
+var mnemonic = "little you mirror damp absorb hero major garbage legend crack help syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile embrace casual total float unit come measure height hill lab garden";
+var mnemonic = "ring spare excuse emotion artefact crane soda drift hard deer giraffe admit";

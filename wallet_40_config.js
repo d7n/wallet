@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pudding wasp execute bone section purchase under trophy hair connect strategy";
+var mnemonic = "follow away furnace manage denial brief furnace lazy acid order clinic cram";

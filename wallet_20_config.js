@@ -1,1 +1,1 @@
-var mnemonic = "pass swarm north abuse enlist electric buffalo family scissors inhale sunny file";
+var mnemonic = "same state comic syrup remind chair south comfort scrub record limit expire";

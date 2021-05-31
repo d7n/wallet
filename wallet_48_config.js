@@ -1,1 +1,1 @@
-var mnemonic = "century window reject nose impose goat chunk space invest shallow kiss kind";
+var mnemonic = "moment kite grid upper dignity crystal lounge prize spare proof apart labor";

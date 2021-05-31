@@ -1,1 +1,1 @@
-var mnemonic = "light guilt describe actual flee axis retire drastic elite camera finish upon";
+var mnemonic = "sheriff soul truck huge rescue marine census sad couple nerve mobile miss";

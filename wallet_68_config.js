@@ -1,1 +1,1 @@
-var mnemonic = "grunt rookie afford game alter process success sample source true boring scale";
+var mnemonic = "labor sun radar law tobacco alley snap chapter program civil royal level";

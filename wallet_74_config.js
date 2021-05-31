@@ -1,1 +1,1 @@
-var mnemonic = "lady creek aware snake lemon tongue assume opera category field expire bounce";
+var mnemonic = "parade sand stuff pole oblige hospital neither master quick dynamic foster pair";

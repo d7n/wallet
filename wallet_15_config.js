@@ -1,1 +1,1 @@
-var mnemonic = "panda source ginger soccer harbor flip sphere sphere math matrix treat morning";
+var mnemonic = "talent rally holiday soldier buffalo wrong column chicken ostrich away eight roof";

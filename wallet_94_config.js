@@ -1,1 +1,1 @@
-var mnemonic = "skate morning visit student wrong maid inquiry issue lava fever wave soldier";
+var mnemonic = "board jewel fitness ketchup wish human shed enlist soap deposit hero evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "eight torch dice trick bid current portion develop health endless border regular";
+var mnemonic = "grid puzzle diary any basket goose cigar business orbit double yellow mule";

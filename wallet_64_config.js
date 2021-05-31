@@ -1,1 +1,1 @@
-var mnemonic = "mimic very once coach sing craft soda only please advance luxury admit";
+var mnemonic = "want catalog embark mail scan stone have educate trumpet bird anger liberty";

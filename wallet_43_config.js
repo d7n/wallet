@@ -1,1 +1,1 @@
-var mnemonic = "health before govern afford modify valid island police give vanish laugh imitate";
+var mnemonic = "tube prize marble merry thunder soft sting budget write actress raccoon urban";

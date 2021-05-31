@@ -1,1 +1,1 @@
-var mnemonic = "height yard brain brain fossil ugly wink tired immune question peace lens";
+var mnemonic = "drive sketch knife race fortune coconut milk symbol reform until reform hobby";

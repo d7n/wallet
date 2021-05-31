@@ -1,1 +1,1 @@
-var mnemonic = "immense tuition emerge collect wage guess raven film follow problem miracle original";
+var mnemonic = "fiction acoustic flush length dance total orbit immune kiwi liar silly cluster";

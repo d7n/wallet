@@ -1,1 +1,1 @@
-var mnemonic = "fix update attack crowd knock video liquid marble nut reveal spy category";
+var mnemonic = "open cabbage success second possible silent slide blossom shield excess dragon drip";

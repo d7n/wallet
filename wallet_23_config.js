@@ -1,1 +1,1 @@
-var mnemonic = "reunion oven nephew neglect bag protect neutral cloth shoe cinnamon harvest stairs";
+var mnemonic = "net bitter meat buffalo west defense involve unique across lady false rose";
