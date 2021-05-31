@@ -1,1 +1,1 @@
-var mnemonic = "ugly hedgehog sustain pink west convince boil rule loud display silk expire";
+var mnemonic = "junk session rapid blossom payment stable topic worth pond inhale control view";

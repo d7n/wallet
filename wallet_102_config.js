@@ -1,1 +1,1 @@
-var mnemonic = "idea laugh afford worry clarify arrest sea rare solve health clarify amateur";
+var mnemonic = "beach swear usual replace car diamond demand worth diagram delay kit organ";

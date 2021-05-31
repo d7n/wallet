@@ -1,1 +1,1 @@
-var mnemonic = "orphan net vault flag custom model lucky victory enemy law clown motion";
+var mnemonic = "roof chaos virtual false drill canvas estate unfair vicious process theory vote";

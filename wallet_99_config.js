@@ -1,1 +1,1 @@
-var mnemonic = "assault deal consider repeat violin agree cool sauce invite uniform hub naive";
+var mnemonic = "later truly install appear rug absurd fever glue kangaroo age want tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "blur square kind ankle nothing odor surface earth view wisdom ability turtle";
+var mnemonic = "burst buzz fatal pencil resource key spice clutch review interest supreme asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet prize crash sea ahead collect worth strong pulp code twist model";
+var mnemonic = "robust tunnel little produce trick van primary easy inform buzz omit useful";

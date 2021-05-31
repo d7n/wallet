@@ -1,1 +1,1 @@
-var mnemonic = "exhibit demise catch unveil flee easy fade fox shock document typical unusual";
+var mnemonic = "cruise core lab festival salt rain surge chief donkey few write rubber";

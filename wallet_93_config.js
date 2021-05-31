@@ -1,1 +1,1 @@
-var mnemonic = "trust mosquito identify lamp mixed laundry wait snake circle negative unfair paper";
+var mnemonic = "quit clinic mixed magnet borrow federal odor reward tube core wreck move";

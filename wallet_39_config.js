@@ -1,1 +1,1 @@
-var mnemonic = "era check garbage cart face quit tent document guilt grief clap cart";
+var mnemonic = "second fee senior six mean canyon fortune layer tray source rose salt";

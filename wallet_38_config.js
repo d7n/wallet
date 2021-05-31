@@ -1,1 +1,1 @@
-var mnemonic = "apple tiny elegant hollow aim daughter trend second chronic height blind insect";
+var mnemonic = "bachelor network ski february patient hold sniff hollow tray pencil hazard course";

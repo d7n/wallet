@@ -1,1 +1,1 @@
-var mnemonic = "flash monkey tonight owner faith craft segment street outer balance dust anger";
+var mnemonic = "icon atom notable door daughter egg latin increase month rain voyage multiply";

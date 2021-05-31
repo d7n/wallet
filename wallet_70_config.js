@@ -1,1 +1,1 @@
-var mnemonic = "pole grant apart flush vessel select sausage fiction armed office rebuild same";
+var mnemonic = "recall parrot hospital phone sibling dog clog erode brother ozone misery mystery";

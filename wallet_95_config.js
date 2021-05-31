@@ -1,1 +1,1 @@
-var mnemonic = "blue sheriff pony civil tired horror staff volcano offer illegal stick fade";
+var mnemonic = "gate core feature dish miracle early angry palm vicious genre gadget figure";

@@ -1,1 +1,1 @@
-var mnemonic = "junk amateur crazy rhythm aunt poverty mutual wonder wage index planet jazz";
+var mnemonic = "enhance already hurdle zoo home coach box special fatigue pride radar hour";

@@ -1,1 +1,1 @@
-var mnemonic = "figure brick require bicycle drop team liar warrior kidney alpha marble blame";
+var mnemonic = "mother saddle breeze wet obey tortoise embody print birth body despair whale";

@@ -1,1 +1,1 @@
-var mnemonic = "reward another flee pizza method knock rescue price shift fever lab melody";
+var mnemonic = "length favorite bullet review custom foam patch nest youth latin surprise gym";

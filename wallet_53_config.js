@@ -1,1 +1,1 @@
-var mnemonic = "dynamic muscle forum fatigue other goat type crisp lucky cup strategy stand";
+var mnemonic = "picture tube abandon hope loud warfare once owner bag board flee priority";

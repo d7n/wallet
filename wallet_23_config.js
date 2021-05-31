@@ -1,1 +1,1 @@
-var mnemonic = "rose number pretty joke eyebrow pact vital flavor lake tribe lamp exhibit";
+var mnemonic = "hire evil super glue unaware endorse flock pact edge exhibit umbrella fresh";

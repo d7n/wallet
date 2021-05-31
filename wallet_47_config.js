@@ -1,1 +1,1 @@
-var mnemonic = "drink tunnel rude large person online market feed bread ask prefer slice";
+var mnemonic = "must water merge shed fragile join erode hidden side demand annual devote";

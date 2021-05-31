@@ -1,1 +1,1 @@
-var mnemonic = "fee trip way shrug service cloud scrub lend tiger escape negative nothing";
+var mnemonic = "wood habit toilet spatial penalty person best duty asset slender neglect cry";

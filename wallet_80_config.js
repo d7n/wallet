@@ -1,1 +1,1 @@
-var mnemonic = "waste blood angry firm knife notice protect match knife emerge fun youth";
+var mnemonic = "around settle congress gift bachelor push filter advice ghost cry brand credit";

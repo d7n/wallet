@@ -1,1 +1,1 @@
-var mnemonic = "pig mass stage eternal lawsuit hair two dwarf pool elder remember diamond";
+var mnemonic = "cheese photo pretty clap deposit border west message latin crash purity dumb";

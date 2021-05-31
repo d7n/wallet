@@ -1,1 +1,1 @@
-var mnemonic = "call pulp nasty fan lawsuit faith genre olympic despair despair yellow warm";
+var mnemonic = "mad powder resemble betray buzz business expect reform rare popular goose split";

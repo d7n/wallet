@@ -1,1 +1,1 @@
-var mnemonic = "solid bulb giraffe public panda edge bind will danger over canyon decline";
+var mnemonic = "amount sleep poverty okay scatter draft frozen ride tail crawl enforce certain";

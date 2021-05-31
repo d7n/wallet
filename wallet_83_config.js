@@ -1,1 +1,1 @@
-var mnemonic = "exotic desk happy album sphere arctic desk brown midnight busy excite length";
+var mnemonic = "chest evidence say spread donate such quit bike become inquiry find truth";

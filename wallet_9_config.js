@@ -1,1 +1,1 @@
-var mnemonic = "memory captain express vibrant alone zoo anger aisle motion vanish culture spare";
+var mnemonic = "gesture degree extend rapid quantum acquire tongue slab photo aspect increase rate";

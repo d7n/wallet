@@ -1,1 +1,1 @@
-var mnemonic = "price grape physical blast basic poet fall attract pony resource return girl";
+var mnemonic = "build come cash winter skate spider vault pottery immense exotic scout hint";

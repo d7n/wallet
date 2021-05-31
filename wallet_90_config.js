@@ -1,1 +1,1 @@
-var mnemonic = "before assist hurdle foam virtual upset room trap candy sister oak any";
+var mnemonic = "venture cinnamon vacant violin seven blood blouse grit alert buffalo blanket owner";

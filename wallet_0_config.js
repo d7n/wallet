@@ -1,1 +1,1 @@
-var mnemonic = "balcony myth pill sample clever harvest expose survey aspect improve volume frown";
+var mnemonic = "pass people idle undo upon enact shield fluid radar palm car silent";

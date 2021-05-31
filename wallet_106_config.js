@@ -1,1 +1,1 @@
-var mnemonic = "motor search salad fabric creek wear jeans make upon index wrong provide";
+var mnemonic = "sock narrow save silk dutch notable shuffle monitor prefer shrug ball staff";

@@ -1,1 +1,1 @@
-var mnemonic = "strike problem true party small milk satisfy property flag sad chuckle walnut";
+var mnemonic = "move disorder offer blade wink luxury level maximum soap hurdle siege wild";

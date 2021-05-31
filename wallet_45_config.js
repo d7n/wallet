@@ -1,1 +1,1 @@
-var mnemonic = "quality submit frequent flower cheap cabbage doctor mad flip fringe father laundry";
+var mnemonic = "alley science pig mansion tomorrow absorb cram tree sense shoe olympic swear";

@@ -1,1 +1,1 @@
-var mnemonic = "casino legend attract cram desk erode spider near home bone link cannon";
+var mnemonic = "kangaroo salon what series twin whip dynamic express tooth toy title right";

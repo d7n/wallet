@@ -1,1 +1,1 @@
-var mnemonic = "armed poet appear gym tumble apple harvest creek salon aunt mimic strike";
+var mnemonic = "junk unlock pupil salt obscure detect clip service increase fade lunch trick";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury together era dad item hub cat project lizard enlist glimpse poverty";
+var mnemonic = "brief quantum fog mask fetch sibling charge snow ivory knife bulk slight";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh sphere tattoo attend huge cancel shiver list agree embody logic bridge";
+var mnemonic = "tornado myself fall style hazard left orchard bless certain coil amazing inch";

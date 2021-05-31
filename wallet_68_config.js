@@ -1,1 +1,1 @@
-var mnemonic = "sleep phrase circle glory obey hold camp agent gift ladder next rack";
+var mnemonic = "replace boost skate food donate belt act fantasy blast pill dilemma spend";

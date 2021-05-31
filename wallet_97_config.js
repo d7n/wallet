@@ -1,1 +1,1 @@
-var mnemonic = "false faint resemble youth bonus pluck burden ask about crush lunar cabin";
+var mnemonic = "tone member patch athlete dismiss immense asthma spin note cloth pull lunar";

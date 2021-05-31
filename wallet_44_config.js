@@ -1,1 +1,1 @@
-var mnemonic = "father release wash manage total monster rival night world lake potato virtual";
+var mnemonic = "party gain used salute suspect clock ostrich weird saddle warm drama solar";

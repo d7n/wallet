@@ -1,1 +1,1 @@
-var mnemonic = "camera kingdom school wrist antique forest shuffle cry afraid fantasy maximum nation";
+var mnemonic = "honey language three region recycle grain illegal stereo blossom current cupboard weapon";

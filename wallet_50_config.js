@@ -1,1 +1,1 @@
-var mnemonic = "master bachelor reward common sketch one viable assist boost crazy leave mesh";
+var mnemonic = "deliver derive accuse blood arrow army scrub method item tip fantasy brief";

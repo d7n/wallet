@@ -1,1 +1,1 @@
-var mnemonic = "slide century shoot admit chapter pink drip forum bracket exit canvas marriage";
+var mnemonic = "deer kiss harsh grant swift sell claim winner carpet mobile bread firm";

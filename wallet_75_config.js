@@ -1,1 +1,1 @@
-var mnemonic = "charge bar half chicken october trust clarify lion toilet word silk help";
+var mnemonic = "mutual bid coach list hood cycle small frequent credit napkin hat flock";

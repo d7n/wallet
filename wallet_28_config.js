@@ -1,1 +1,1 @@
-var mnemonic = "canoe bag green wink until dawn wife dose mushroom unhappy hockey dismiss";
+var mnemonic = "casino team oblige tunnel bronze spy then caught cactus citizen doll prefer";

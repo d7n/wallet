@@ -1,1 +1,1 @@
-var mnemonic = "snow depth nominee real boss cube ivory garden soul shift fabric race";
+var mnemonic = "motion attend buyer apology garlic hill glove affair desert artist solution purity";

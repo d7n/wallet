@@ -1,1 +1,1 @@
-var mnemonic = "wait digital invite team power catalog erupt speak differ alter utility sponsor";
+var mnemonic = "tuition dial swarm atom crack exchange private thought electric brick viable duck";

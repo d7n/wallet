@@ -1,1 +1,1 @@
-var mnemonic = "surprise timber melody enter mass common weather awful portion pigeon scan pledge";
+var mnemonic = "concert wave horse ankle awesome weekend memory add you more stomach claim";

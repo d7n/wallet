@@ -1,1 +1,1 @@
-var mnemonic = "mandate carbon chicken hazard breeze nice normal key local eagle exotic energy";
+var mnemonic = "tent rally vivid fatal accuse thing panther index clog nature guide pet";

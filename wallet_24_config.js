@@ -1,1 +1,1 @@
-var mnemonic = "lonely convince shock cheese sphere until rely solid fall about supply place";
+var mnemonic = "loyal unique second add snap devote inform equip actual van photo orange";

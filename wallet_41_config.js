@@ -1,1 +1,1 @@
-var mnemonic = "melt habit exercise claw cycle sadness slush goat enter torch bring impose";
+var mnemonic = "behave please faint thrive churn curious artwork barrel auto output scout december";

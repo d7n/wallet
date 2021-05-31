@@ -1,1 +1,1 @@
-var mnemonic = "session slide base divorce voyage equal enforce ethics boat nothing black blur";
+var mnemonic = "smooth famous antenna upper chief mail warfare shrimp practice mystery parade snake";

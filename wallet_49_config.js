@@ -1,1 +1,1 @@
-var mnemonic = "material reason message prize twist end club child face educate hair fiction";
+var mnemonic = "pottery sister talent caution broom novel tuna antique confirm brisk diesel help";

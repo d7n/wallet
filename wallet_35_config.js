@@ -1,1 +1,1 @@
-var mnemonic = "dial awesome item aerobic mushroom avoid scissors spirit genuine silly north expose";
+var mnemonic = "melody forget inmate dress now resist parrot observe position hidden across quick";

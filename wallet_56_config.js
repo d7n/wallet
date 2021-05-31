@@ -1,1 +1,1 @@
-var mnemonic = "camp praise trigger rotate boss fortune author torch glance chief tortoise table";
+var mnemonic = "dinosaur stove punch addict differ agree south pear slim spray plunge power";

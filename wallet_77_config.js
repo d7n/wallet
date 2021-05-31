@@ -1,1 +1,1 @@
-var mnemonic = "twist weapon enlist combine human daughter hole luggage sick foil fragile romance";
+var mnemonic = "someone warfare minor shift swap enjoy ceiling slide mandate antique pelican please";

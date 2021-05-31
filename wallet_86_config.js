@@ -1,1 +1,1 @@
-var mnemonic = "copper ozone develop stomach mercy crater belt media ski swear error easily";
+var mnemonic = "pupil soldier chief oil wear blast harsh job lawn smile crowd object";

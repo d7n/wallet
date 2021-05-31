@@ -1,1 +1,1 @@
-var mnemonic = "female brief side bitter rule leg neither devote gadget just hire tray";
+var mnemonic = "engage reduce indoor birth there shuffle rally curious misery source industry predict";

@@ -1,1 +1,1 @@
-var mnemonic = "drama bounce twist have capital impulse kitten derive system cruel robust song";
+var mnemonic = "tonight flower grow zebra eternal catalog raccoon rebuild high stumble wash month";

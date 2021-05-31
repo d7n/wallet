@@ -1,1 +1,1 @@
-var mnemonic = "census switch aunt paper awful canoe coast coyote circle slender undo angle";
+var mnemonic = "man host crater elbow shoe blame chief hurt toss pull balance glide";

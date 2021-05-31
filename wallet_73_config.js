@@ -1,1 +1,1 @@
-var mnemonic = "stick pumpkin announce nut arm rebel cash have round vintage upgrade nominee";
+var mnemonic = "student shoot fall solve rude subway crawl cotton bus magic warm fire";

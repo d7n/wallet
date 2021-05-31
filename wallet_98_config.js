@@ -1,1 +1,1 @@
-var mnemonic = "tip race random toward donate drift horn punch during horn travel balcony";
+var mnemonic = "found surface hurdle gesture tent wealth cinnamon around stay domain police eight";

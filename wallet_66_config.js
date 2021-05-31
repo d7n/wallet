@@ -1,1 +1,1 @@
-var mnemonic = "urge abstract latin evidence belt cluster simple pumpkin put camera foam puppy";
+var mnemonic = "spray latin edit scorpion build law doll forward peanut reason shrimp core";

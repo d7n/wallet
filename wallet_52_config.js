@@ -1,1 +1,1 @@
-var mnemonic = "excuse gown index venue mountain chronic tank wait tattoo mimic recycle squeeze";
+var mnemonic = "pupil cricket field rally taxi napkin fold very evolve method attract harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling quiz vivid renew toilet list emerge image humble scare reward immune";
+var mnemonic = "always subject soul congress biology car repeat bind vicious ivory script hard";

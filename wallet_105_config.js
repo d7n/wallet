@@ -1,1 +1,1 @@
-var mnemonic = "mule piece faint divert hamster rice now purpose utility strike trouble large";
+var mnemonic = "garment basic hurt bid asset coyote adult only company census drip disease";

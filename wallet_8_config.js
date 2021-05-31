@@ -1,1 +1,1 @@
-var mnemonic = "hip problem demand joke twin cancel denial pet ocean seed twin goose";
+var mnemonic = "famous exit correct fresh century horse reform actor unable island dilemma music";

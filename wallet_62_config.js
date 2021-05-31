@@ -1,1 +1,1 @@
-var mnemonic = "random fit cruel message share shoe drift basic retire lesson genuine lucky";
+var mnemonic = "skirt blood fault virus basket supreme dutch type tobacco correct seat board";

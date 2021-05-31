@@ -1,1 +1,1 @@
-var mnemonic = "miracle egg scatter protect lamp cross between crunch joy used height box";
+var mnemonic = "marble account kidney resemble amount luxury snow embark exotic extend math betray";

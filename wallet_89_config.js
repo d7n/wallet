@@ -1,1 +1,1 @@
-var mnemonic = "retire jealous empower sister account custom inherit put effort index sport boat";
+var mnemonic = "attract bargain dry ozone lift primary spring unable auto dawn taste plunge";

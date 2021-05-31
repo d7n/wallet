@@ -1,1 +1,1 @@
-var mnemonic = "panic near sustain spend area teach practice kidney spray jazz anger spawn";
+var mnemonic = "elbow gift vibrant upper suggest domain mercy false hold fault tumble legend";

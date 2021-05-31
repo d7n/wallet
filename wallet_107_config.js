@@ -1,1 +1,1 @@
-var mnemonic = "wolf swift chalk account spike van dizzy sell bunker focus roast addict";
+var mnemonic = "wave satoshi load helmet chapter measure sorry force wrestle student defense promote";

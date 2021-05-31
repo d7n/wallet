@@ -1,1 +1,1 @@
-var mnemonic = "swift rude robot tuna middle resemble treat twenty auto daring brother session";
+var mnemonic = "expand version spread credit holiday shy crush rubber room crew make system";

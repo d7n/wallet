@@ -1,1 +1,1 @@
-var mnemonic = "fan carpet hip glow multiply skill energy work shine owner goddess draw";
+var mnemonic = "twice save crazy alley radar brush century erosion world person alter safe";

@@ -1,1 +1,1 @@
-var mnemonic = "monster toss maximum topple waste shiver hybrid replace power throw fashion confirm";
+var mnemonic = "rule high peasant hunt auction knee mixture jewel top cricket duck left";

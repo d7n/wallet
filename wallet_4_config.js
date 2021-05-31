@@ -1,1 +1,1 @@
-var mnemonic = "note fruit rhythm leader odor bridge gun bulb seven inspire payment strategy";
+var mnemonic = "bring human chalk baby flavor noble aim laundry express turtle camp venue";

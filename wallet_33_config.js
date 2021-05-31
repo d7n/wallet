@@ -1,1 +1,1 @@
-var mnemonic = "hazard indoor thought alter domain betray oven you skin impact magic purse";
+var mnemonic = "team access adult ankle gown raccoon account pretty reopen unhappy coconut system";

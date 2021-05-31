@@ -1,1 +1,1 @@
-var mnemonic = "ugly stumble awesome seven depend letter trap odor slot tiger damage radio";
+var mnemonic = "type describe host skin melody document rug drop poem legal solar point";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb symptom file chuckle clump lens notice session input bubble hidden state";
+var mnemonic = "about surface burst punch bar number cheese room meat margin when awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "capital normal certain pistol raw future dog offer gauge before honey hedgehog";
+var mnemonic = "produce junior truth office extra label wood square observe hand slush square";

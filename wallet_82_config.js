@@ -1,1 +1,1 @@
-var mnemonic = "turkey snow group approve tilt coffee link oxygen resemble whip orbit direct";
+var mnemonic = "similar stairs indicate slush animal hen early goose unknown divert unveil tornado";

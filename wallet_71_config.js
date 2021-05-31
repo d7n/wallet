@@ -1,1 +1,1 @@
-var mnemonic = "club wish obvious virus noise sting clay hammer game nasty valley describe";
+var mnemonic = "angle lesson used december express canal able embrace bright eager fun common";

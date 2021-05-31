@@ -1,1 +1,1 @@
-var mnemonic = "drive barrel squeeze rifle idea wrap increase lawsuit tobacco bind skull dry";
+var mnemonic = "purse double increase canyon drip bamboo nest earn title panda lyrics task";

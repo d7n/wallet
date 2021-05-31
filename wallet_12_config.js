@@ -1,1 +1,1 @@
-var mnemonic = "grid cherry regret width drama exit truck tide fame tiger people burger";
+var mnemonic = "blade scale isolate price tuition athlete scissors chef check domain clog breeze";

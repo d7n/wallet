@@ -1,1 +1,1 @@
-var mnemonic = "mutual pair select cloth swear mom suspect note involve vault enemy height";
+var mnemonic = "web nice cradle frozen goddess blame valid shift hair ketchup seven easily";

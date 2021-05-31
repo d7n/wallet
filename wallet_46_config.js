@@ -1,1 +1,1 @@
-var mnemonic = "gas vault hockey excuse lemon dignity flag speak face benefit stairs today";
+var mnemonic = "sing near retire enable clay science frown onion forum athlete margin worth";

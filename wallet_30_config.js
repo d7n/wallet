@@ -1,1 +1,1 @@
-var mnemonic = "yard sphere flush auto undo elevator vanish feel mansion melody knock split";
+var mnemonic = "dinner act fat omit detect match tell staff clean buddy draft expire";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake gallery valid stadium box employ present danger seminar hub lock dismiss";
+var mnemonic = "universe junior split lunar earth entire time hotel bar excess verify stumble";

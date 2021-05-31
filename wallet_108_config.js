@@ -1,1 +1,1 @@
-var mnemonic = "gold unlock donkey oval urge chunk tower first flag extra rent wave";
+var mnemonic = "private ritual since exit fantasy record must spike doctor picture sleep prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "try very notice trust figure plunge book pistol gauge apple fiction spare";
+var mnemonic = "audit enroll limit polar potato spell sail silent broom omit result offer";

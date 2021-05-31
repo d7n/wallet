@@ -1,1 +1,1 @@
-var mnemonic = "wide praise script deliver perfect elite illegal scare foster strike sister scout";
+var mnemonic = "camera other exile forum private sort weather reason steak pretty swamp skin";

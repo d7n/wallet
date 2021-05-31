@@ -1,1 +1,1 @@
-var mnemonic = "early unique gold hollow family enable fit above demand sweet imitate promote";
+var mnemonic = "bargain aim dignity tank midnight cousin visa pupil inspire three split ridge";

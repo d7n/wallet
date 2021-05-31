@@ -1,1 +1,1 @@
-var mnemonic = "render grab mammal atom truck orbit tackle torch sleep plate when gasp";
+var mnemonic = "medal ecology remain field come artefact all gentle toast drill shove another";

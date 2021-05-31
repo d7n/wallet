@@ -1,1 +1,1 @@
-var mnemonic = "spring until pumpkin march strike hospital object friend vapor obscure cabin butter";
+var mnemonic = "hire knife tired snap false bench clutch budget obvious brisk noise soul";
