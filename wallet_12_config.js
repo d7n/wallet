@@ -1,1 +1,1 @@
-var mnemonic = "sight fortune auction siege arm tail badge foot bleak ramp fall taste";
+var mnemonic = "memory ball ring bullet laptop wage pact motion evoke obvious earn patch";

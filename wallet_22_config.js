@@ -1,1 +1,1 @@
-var mnemonic = "panic wedding hole mom start giraffe eternal alley into fly day aerobic";
+var mnemonic = "album renew earn blade senior ready spatial goddess marble example jealous push";

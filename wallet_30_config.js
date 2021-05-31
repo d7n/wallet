@@ -1,1 +1,1 @@
-var mnemonic = "burden stone naive sport echo eyebrow cause cross casual exchange tiny secret";
+var mnemonic = "control float alpha disagree tilt release poem day weekend option degree major";

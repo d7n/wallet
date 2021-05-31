@@ -1,1 +1,1 @@
-var mnemonic = "poet above stool flame motor beach cherry dismiss glow load busy sweet";
+var mnemonic = "vault miracle scheme grit security short ocean brother lemon crime lift trial";

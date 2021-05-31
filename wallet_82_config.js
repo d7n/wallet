@@ -1,1 +1,1 @@
-var mnemonic = "struggle olive daughter hawk spray dad achieve parrot season collect wink belt";
+var mnemonic = "fun room elephant lucky search aspect tomorrow coin coffee retire wasp local";

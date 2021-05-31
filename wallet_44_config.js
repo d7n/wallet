@@ -1,1 +1,1 @@
-var mnemonic = "arrow siren trigger imitate crouch laundry rude script chicken ribbon boy tourist";
+var mnemonic = "error brown sea afford hole chief scatter matter merry oyster broom domain";

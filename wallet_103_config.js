@@ -1,1 +1,1 @@
-var mnemonic = "thunder stool order mesh glow assume prepare adjust expose gun input glue";
+var mnemonic = "friend exact genre slam super kitchen evolve pony someone right museum orbit";

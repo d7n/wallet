@@ -1,1 +1,1 @@
-var mnemonic = "guilt skin assist carry curious trade cute ugly joke wear around open";
+var mnemonic = "canvas knee ranch private card curtain repair clean adult decorate melt pipe";

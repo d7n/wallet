@@ -1,1 +1,1 @@
-var mnemonic = "enjoy much dignity gorilla unknown tackle better foil forget car pet youth";
+var mnemonic = "zebra boost stem lion travel rib essay crazy husband finish century minor";

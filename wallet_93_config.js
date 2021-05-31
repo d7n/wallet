@@ -1,1 +1,1 @@
-var mnemonic = "crater goat south track face gain dune plastic wave tattoo pony wear";
+var mnemonic = "vessel wink found repeat chapter reduce blame host machine palm decide scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "glory rocket mesh route illegal someone eternal economy window join music undo";
+var mnemonic = "hand load minimum average slight solution lamp problem capable mirror pitch nuclear";

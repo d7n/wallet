@@ -1,1 +1,1 @@
-var mnemonic = "bottom pledge stamp orbit bonus network human soldier normal fresh omit lady";
+var mnemonic = "brass very torch pottery tomato flame home hawk history plate novel beach";

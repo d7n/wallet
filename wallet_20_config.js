@@ -1,1 +1,1 @@
-var mnemonic = "various repair hover test attend they ice frown equip season hurdle auto";
+var mnemonic = "remember glimpse adult budget punch attitude kitten robot verb cannon fancy exile";

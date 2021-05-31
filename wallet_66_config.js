@@ -1,1 +1,1 @@
-var mnemonic = "strike relief clutch stomach smoke chicken peace aerobic erosion grit strategy sick";
+var mnemonic = "detail canoe dial column gentle belt crew decorate fantasy cram clown first";

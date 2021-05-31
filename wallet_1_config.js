@@ -1,1 +1,1 @@
-var mnemonic = "hundred despair entry bounce brave unhappy flock glue speed engine insect way";
+var mnemonic = "advice aim electric hurry slender assault identify satisfy sugar outdoor tired monkey";

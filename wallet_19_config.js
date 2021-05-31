@@ -1,1 +1,1 @@
-var mnemonic = "hurry diagram budget half often thumb midnight harsh expect air mass machine";
+var mnemonic = "seven trap echo buzz range appear wife can plunge comic vote pact";

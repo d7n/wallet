@@ -1,1 +1,1 @@
-var mnemonic = "approve swift nominee silk cricket piano salmon olympic leg depend much purchase";
+var mnemonic = "large daughter charge burden amount virtual fade exhaust mosquito state method indoor";

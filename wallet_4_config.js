@@ -1,1 +1,1 @@
-var mnemonic = "grief thumb junior warrior nice beach gather drama history device bracket boost";
+var mnemonic = "void pill valve kitchen again faith breeze iron void shed aware divert";

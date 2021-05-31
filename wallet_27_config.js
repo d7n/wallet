@@ -1,1 +1,1 @@
-var mnemonic = "cabin lumber buddy volume board extra logic tomorrow diamond train breeze wave";
+var mnemonic = "strategy cousin vague bid across void tennis glide oppose fancy limit mesh";

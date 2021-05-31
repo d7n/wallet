@@ -1,1 +1,1 @@
-var mnemonic = "head remember tornado limb hurt extend polar have chat word more antenna";
+var mnemonic = "birth twelve canvas pioneer retreat bright garlic dance memory host diagram nest";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle sniff actor edit raven inherit split fresh riot hat salt atom";
+var mnemonic = "attract prize arena stick this celery then large unable life ride warfare";

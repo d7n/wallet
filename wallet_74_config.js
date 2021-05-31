@@ -1,1 +1,1 @@
-var mnemonic = "pipe pact reason satisfy apart bundle pulse wife inherit cup proud suspect";
+var mnemonic = "record lava neglect run trigger uncle seven field burden lecture essay shift";

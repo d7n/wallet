@@ -1,1 +1,1 @@
-var mnemonic = "range defy doll bitter interest still select unable total document put roast";
+var mnemonic = "patch sauce renew myself actor negative wool solar find nuclear phrase village";

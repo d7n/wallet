@@ -1,1 +1,1 @@
-var mnemonic = "spin plug venture siege normal decade juice praise twist bronze coach split";
+var mnemonic = "envelope sound orient hospital claim turkey twice bicycle option abandon dice wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "consider knee crisp raise clown rose over pause dish evidence alpha shy";
+var mnemonic = "arch lion engine impact road praise neutral phone fox post metal between";

@@ -1,1 +1,1 @@
-var mnemonic = "super dismiss ready fine common law right glad hockey slam wolf word";
+var mnemonic = "steak good unveil narrow benefit favorite kingdom torch nothing they valid grace";

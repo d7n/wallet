@@ -1,1 +1,1 @@
-var mnemonic = "limb kit item march best fantasy alpha suit cabin first trick section";
+var mnemonic = "just mutual lucky address pair poverty junior stock gate rigid spend city";

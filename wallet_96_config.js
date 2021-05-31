@@ -1,1 +1,1 @@
-var mnemonic = "chest bean grid prosper bottom display devote begin attract jealous hold cabin";
+var mnemonic = "else bag flush jazz height west speed total turtle figure try juice";

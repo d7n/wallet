@@ -1,1 +1,1 @@
-var mnemonic = "upgrade oyster patient soap fork goddess mention immense enrich worry ship stadium";
+var mnemonic = "enter tank armed useful girl planet rival rookie tilt rain parade gain";

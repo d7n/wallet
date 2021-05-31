@@ -1,1 +1,1 @@
-var mnemonic = "hour thank chimney satoshi square suspect sign hill minute road artefact paper";
+var mnemonic = "observe labor escape puzzle setup wisdom power gold country entire robust age";

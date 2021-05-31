@@ -1,1 +1,1 @@
-var mnemonic = "test noodle evil scout burden cheap camp solid brass near harvest party";
+var mnemonic = "among into relief infant pole catch boil hawk situate day turtle betray";

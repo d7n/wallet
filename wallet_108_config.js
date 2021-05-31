@@ -1,1 +1,1 @@
-var mnemonic = "father convince artwork cement poem argue friend zebra remain roof room arrive";
+var mnemonic = "alley rhythm pizza rent across always jeans claim total process example little";

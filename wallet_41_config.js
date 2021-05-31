@@ -1,1 +1,1 @@
-var mnemonic = "speak flame soon rail valid weekend inform kick dirt tag hurdle oxygen";
+var mnemonic = "festival large change grace winner walnut grief fox stock receive depend need";

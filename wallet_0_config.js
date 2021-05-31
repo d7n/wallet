@@ -1,1 +1,1 @@
-var mnemonic = "tail sweet alert forget extend minor harvest clump crisp parent rubber bulb";
+var mnemonic = "walnut stereo equal public response delay vivid buyer hero laptop green home";

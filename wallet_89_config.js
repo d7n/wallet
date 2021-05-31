@@ -1,1 +1,1 @@
-var mnemonic = "happy reveal cricket wrap trim basic actor kid issue zoo scan month";
+var mnemonic = "metal mind pass remember demand oval install adult globe acquire amateur fox";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage never want chat message easy cram girl decide birth speak whip";
+var mnemonic = "now invite taste floor vacant crop carpet snack science skate sick misery";

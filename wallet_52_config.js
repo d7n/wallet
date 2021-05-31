@@ -1,1 +1,1 @@
-var mnemonic = "fault small physical reduce depend clinic hold inherit decide nothing hundred spin";
+var mnemonic = "meat guide unlock ball weather flip acquire magnet infant other inform muffin";

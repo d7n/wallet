@@ -1,1 +1,1 @@
-var mnemonic = "web neither mirror step butter example tumble swear share banner fragile sheriff";
+var mnemonic = "hole ankle flag alarm portion logic favorite point edit craft soda goose";

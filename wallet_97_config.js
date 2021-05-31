@@ -1,1 +1,1 @@
-var mnemonic = "claw pigeon stairs visit creek enjoy sight clean kite tumble hand soul";
+var mnemonic = "sphere galaxy chief give agent chaos recycle version sting common scale mad";

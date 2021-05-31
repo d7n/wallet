@@ -1,1 +1,1 @@
-var mnemonic = "jealous echo girl leisure fancy cram winner business agree blast foil attack";
+var mnemonic = "captain furnace artwork orphan tooth expose another remove flag supply scissors flavor";

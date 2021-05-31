@@ -1,1 +1,1 @@
-var mnemonic = "globe museum clog price wasp various antenna course build pluck ceiling fashion";
+var mnemonic = "gentle frequent payment foil dial chef loop dutch leave certain mule sword";

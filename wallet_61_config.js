@@ -1,1 +1,1 @@
-var mnemonic = "cherry canvas mammal offer month bachelor position gun hood cherry impulse office";
+var mnemonic = "whale mask talent claw arrange poverty salute van around rose ten awesome";

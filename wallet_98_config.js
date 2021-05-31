@@ -1,1 +1,1 @@
-var mnemonic = "forward soft sick nice scale drill zero easily weapon carry jelly decorate";
+var mnemonic = "picture frequent olympic mystery wisdom bulk crop urge inhale beef raise coconut";

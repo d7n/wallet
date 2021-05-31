@@ -1,1 +1,1 @@
-var mnemonic = "fly animal shop draw joy inside column lonely valve code other zebra";
+var mnemonic = "envelope canoe average can silk humble armor market price solid mystery grit";

@@ -1,1 +1,1 @@
-var mnemonic = "swim impulse okay chaos trim purpose two atom ice vague federal movie";
+var mnemonic = "view index parrot marriage spin total top advance endorse capable place vague";

@@ -1,1 +1,1 @@
-var mnemonic = "year radar bean tennis abuse special sadness current stool allow knock there";
+var mnemonic = "pitch coconut early wife invite ladder nest sure stage rather toast hospital";

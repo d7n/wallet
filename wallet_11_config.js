@@ -1,1 +1,1 @@
-var mnemonic = "ice faith day snake cannon cook wealth book odor cradle rain sauce";
+var mnemonic = "steak garlic fruit scrap sock bless exit short bulb glare vintage setup";

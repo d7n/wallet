@@ -1,1 +1,1 @@
-var mnemonic = "point either series slight inhale toddler wish spatial diesel child object bounce";
+var mnemonic = "better glass foam walnut kiwi horror luxury choice anger century sing volcano";

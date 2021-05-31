@@ -1,1 +1,1 @@
-var mnemonic = "fabric opinion item already then patrol subject pilot aspect excuse bitter bright";
+var mnemonic = "place hockey adult uniform suspect impulse artefact satisfy satisfy snack grace rely";

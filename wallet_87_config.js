@@ -1,1 +1,1 @@
-var mnemonic = "marriage quantum amateur sock asset diamond fence clean oblige bitter arrest fringe";
+var mnemonic = "dinosaur hole version perfect april potato range exercise nose three harsh issue";

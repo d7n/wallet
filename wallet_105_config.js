@@ -1,1 +1,1 @@
-var mnemonic = "torch city diamond fabric rather quit flush swear elite general village album";
+var mnemonic = "silk eight awful decade document faint daughter sustain flavor steak fragile record";

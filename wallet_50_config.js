@@ -1,1 +1,1 @@
-var mnemonic = "you like oval culture donor praise turkey shock jeans online click squeeze";
+var mnemonic = "pudding wheel age envelope bonus useless fire donate involve universe paddle afraid";

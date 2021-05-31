@@ -1,1 +1,1 @@
-var mnemonic = "aim second stable broken erase nice almost initial impose bunker impact mistake";
+var mnemonic = "imitate pony year kid syrup absorb arm rack property wear gate field";

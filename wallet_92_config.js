@@ -1,1 +1,1 @@
-var mnemonic = "identify fog mail hurry token torch battle twin material lottery fiscal jump";
+var mnemonic = "access blood mimic slender zero engine absent dice leg congress argue mushroom";

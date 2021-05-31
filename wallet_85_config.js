@@ -1,1 +1,1 @@
-var mnemonic = "unhappy again swift inch focus desk become switch result friend aware target";
+var mnemonic = "accident have business kiwi announce mango solution sight weather recall run save";

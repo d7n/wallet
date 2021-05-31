@@ -1,1 +1,1 @@
-var mnemonic = "flip short embody merge recall great ordinary ten sell blue organ peasant";
+var mnemonic = "injury jump garment spot lecture habit neglect vintage grain tackle random struggle";

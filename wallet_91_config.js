@@ -1,1 +1,1 @@
-var mnemonic = "crew rescue guide vibrant suit draw regret card science shallow paddle limb";
+var mnemonic = "bridge broken urban exact party diet despair venue kite attract enact outdoor";

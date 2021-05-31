@@ -1,1 +1,1 @@
-var mnemonic = "battle chat ensure excess income hybrid mirror demise ten loud false area";
+var mnemonic = "guilt crater extend index digital grant bring awful room example earn input";

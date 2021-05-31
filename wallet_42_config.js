@@ -1,1 +1,1 @@
-var mnemonic = "loud asset praise coffee behave pitch carbon suit soul will cheap globe";
+var mnemonic = "minor surge ski inside soon museum hold stadium mountain box arena snow";

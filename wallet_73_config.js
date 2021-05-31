@@ -1,1 +1,1 @@
-var mnemonic = "fish entire tooth spider chapter cannon apple trophy reason park often mutual";
+var mnemonic = "uphold stage usage float ridge glory inherit clay senior pitch robot rotate";

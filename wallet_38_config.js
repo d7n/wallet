@@ -1,1 +1,1 @@
-var mnemonic = "tape spirit devote praise reduce dry warrior rhythm beef forward erosion marine";
+var mnemonic = "lemon dawn smooth inherit magnet pepper flavor huge flight negative banner diesel";

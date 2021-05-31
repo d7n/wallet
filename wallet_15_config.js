@@ -1,1 +1,1 @@
-var mnemonic = "sample pluck inquiry oxygen lunch only naive spoon general exist involve keep";
+var mnemonic = "write dilemma frog urban where lucky swift sweet party want month cactus";

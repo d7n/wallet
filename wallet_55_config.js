@@ -1,1 +1,1 @@
-var mnemonic = "mosquito cream glory hospital cousin fog fetch enter visit measure solar exclude";
+var mnemonic = "another lawn country dance output permit text remain energy random enhance avoid";

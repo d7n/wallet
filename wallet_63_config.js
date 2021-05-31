@@ -1,1 +1,1 @@
-var mnemonic = "quote day rice open clip silk umbrella person rebel wood drastic net";
+var mnemonic = "quantum olympic defy media razor family skill gravity choose police humor morning";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar stable choose squirrel toast normal crime plate mandate raccoon private fringe";
+var mnemonic = "nurse sleep prevent throw oppose rival velvet kitchen item hurry famous visa";

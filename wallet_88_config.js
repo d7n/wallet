@@ -1,1 +1,1 @@
-var mnemonic = "payment distance social bag video broccoli twist melt rude sign tortoise dish";
+var mnemonic = "treat scare diagram pole step increase soldier achieve urban decade harsh echo";

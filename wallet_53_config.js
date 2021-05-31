@@ -1,1 +1,1 @@
-var mnemonic = "draft result six rigid mimic venture inflict unfold gaze whisper key brick";
+var mnemonic = "aim element crowd finger loop display mixed medal pear crowd skin oppose";

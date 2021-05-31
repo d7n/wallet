@@ -1,1 +1,1 @@
-var mnemonic = "journey soccer twin link merit birth witness album hair view march cute";
+var mnemonic = "quarter olympic problem sad smile initial clinic desk amused gallery oppose retreat";

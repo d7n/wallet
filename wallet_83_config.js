@@ -1,1 +1,1 @@
-var mnemonic = "nominee scatter drastic renew hunt leader manual quarter runway latin weapon sugar";
+var mnemonic = "lyrics cannon bargain wife include vote evoke yard stone install raw mom";

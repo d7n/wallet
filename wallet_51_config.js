@@ -1,1 +1,1 @@
-var mnemonic = "powder silver woman unfold scan wrap wife desert excite term soul off";
+var mnemonic = "sun group body venue choose comic amused celery clump entry busy merry";

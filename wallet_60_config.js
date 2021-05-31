@@ -1,1 +1,1 @@
-var mnemonic = "update steak tiny pass wrong slight play unknown fee jelly marriage jungle";
+var mnemonic = "eye repeat evolve denial egg lobster glimpse broken arrow crime better celery";

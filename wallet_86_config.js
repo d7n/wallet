@@ -1,1 +1,1 @@
-var mnemonic = "indoor erode segment birth kitten front risk fresh nurse service gather truth";
+var mnemonic = "piece essence tenant motion onion zero series estate valve harsh tool road";

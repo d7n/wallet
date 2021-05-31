@@ -1,1 +1,1 @@
-var mnemonic = "surge retreat gospel south obtain tonight green quick nest favorite oppose inch";
+var mnemonic = "memory hospital renew asset afraid chuckle inject tomorrow mushroom winner reject sadness";

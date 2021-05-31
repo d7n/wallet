@@ -1,1 +1,1 @@
-var mnemonic = "fall sustain gauge health garden verify satisfy poverty remain guilt lion coil";
+var mnemonic = "wear dinosaur feed tuition mango wonder innocent wedding have spend pink like";

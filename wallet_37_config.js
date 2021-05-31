@@ -1,1 +1,1 @@
-var mnemonic = "island slot ridge virtual silly art dry rotate walnut hand spare chase";
+var mnemonic = "trophy weapon husband husband trick dash sweet sign crash trigger blossom face";

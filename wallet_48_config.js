@@ -1,1 +1,1 @@
-var mnemonic = "glad abstract ceiling cable verb session evoke surface leg ordinary more neither";
+var mnemonic = "inhale tide dumb pioneer alley renew expose fan session case scare runway";

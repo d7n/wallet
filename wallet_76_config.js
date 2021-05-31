@@ -1,1 +1,1 @@
-var mnemonic = "party change glance pulse act borrow render kiwi swarm green outdoor jacket";
+var mnemonic = "renew push solar vendor very forest march brave shock minute patient indicate";

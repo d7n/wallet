@@ -1,1 +1,1 @@
-var mnemonic = "virus correct sponsor amazing paddle tree luxury act act mask despair salad";
+var mnemonic = "choice vibrant beyond rapid sail hawk chronic sting bike alley slogan brick";

@@ -1,1 +1,1 @@
-var mnemonic = "home dinosaur confirm knock detail sentence earth mixture spider rebuild obscure cave";
+var mnemonic = "meadow hurry curious vicious tray rigid biology damp ancient humor mind advice";

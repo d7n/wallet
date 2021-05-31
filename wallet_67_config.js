@@ -1,1 +1,1 @@
-var mnemonic = "innocent slow cheap deliver nurse swap damp visa mimic noise school witness";
+var mnemonic = "follow caution clock mom answer spider boring trade session author life cupboard";

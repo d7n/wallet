@@ -1,1 +1,1 @@
-var mnemonic = "major prevent olive someone cushion stove stable mushroom start then recipe recall";
+var mnemonic = "catalog foam use skill legend proud organ dream fringe inhale logic captain";

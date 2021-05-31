@@ -1,1 +1,1 @@
-var mnemonic = "visual main battle option ask easy exercise divide pigeon divide reward earn";
+var mnemonic = "ocean owner busy cool rice biology daring public world wire crash viable";

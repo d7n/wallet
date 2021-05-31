@@ -1,1 +1,1 @@
-var mnemonic = "canoe swap cake bronze unaware element crack poet inject blade solve honey";
+var mnemonic = "squirrel any primary make reopen convince much ahead embody knife actress brand";

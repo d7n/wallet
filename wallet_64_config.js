@@ -1,1 +1,1 @@
-var mnemonic = "identify canvas glass false wine job humor flat obey voyage tonight thing";
+var mnemonic = "human enemy auto kitten exhaust odor walnut brief verb happy inch list";

@@ -1,1 +1,1 @@
-var mnemonic = "mask scale access ridge velvet shadow alter gentle stable vote member breeze";
+var mnemonic = "kiwi enemy chuckle foster space trash cement erosion gadget smooth please train";

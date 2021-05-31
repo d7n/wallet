@@ -1,1 +1,1 @@
-var mnemonic = "abstract frequent trophy speak approve burger used flash spice onion garden wine";
+var mnemonic = "exist other tumble concert pulp family shy gloom armor aunt trophy test";

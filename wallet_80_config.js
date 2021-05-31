@@ -1,1 +1,1 @@
-var mnemonic = "boat trophy diamond mom clinic vehicle flavor plastic inner enable hockey peace";
+var mnemonic = "fantasy mercy foster hurt wrong donkey safe trial verb educate perfect buffalo";

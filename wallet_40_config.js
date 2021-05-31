@@ -1,1 +1,1 @@
-var mnemonic = "hammer gloom innocent busy spin spend erosion energy tiger thing stem record";
+var mnemonic = "divide sunset evolve humor seek science awesome lake dismiss learn mother cheese";

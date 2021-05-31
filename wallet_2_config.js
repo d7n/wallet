@@ -1,1 +1,1 @@
-var mnemonic = "robot tag album page old same embrace seed van replace crush element";
+var mnemonic = "service width speak pulse note lawsuit squirrel hold slight best expose alien";

@@ -1,1 +1,1 @@
-var mnemonic = "wood wreck camera layer movie roof vintage cigar uncover misery rain talk";
+var mnemonic = "kitchen consider example ocean organ organ acid loud put hidden comic venture";

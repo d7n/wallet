@@ -1,1 +1,1 @@
-var mnemonic = "desert flag pencil fade license spin zebra hawk faint sail oblige bargain";
+var mnemonic = "afraid upset desk ranch bone insect worth monkey injury drill comic object";
