@@ -1,1 +1,1 @@
-var mnemonic = "cause obscure over pluck settle chair decline pattern noodle ceiling face essence";
+var mnemonic = "oxygen arena cannon slush tragic kick account fame marriage issue tortoise harsh";

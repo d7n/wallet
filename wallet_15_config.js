@@ -1,1 +1,1 @@
-var mnemonic = "bulb kingdom dignity cargo access table flight advice glory prepare wear govern";
+var mnemonic = "next issue sketch mix mom number disease beach museum cricket rescue below";

@@ -1,1 +1,1 @@
-var mnemonic = "list choose runway rather broccoli cream sell employ royal rich tide absurd";
+var mnemonic = "require school robust arrive panic spot immune nothing equip peace lawn fog";

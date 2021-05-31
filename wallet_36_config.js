@@ -1,1 +1,1 @@
-var mnemonic = "focus among friend payment clip river great race mom pond fold verify";
+var mnemonic = "dish similar tone wheat shock brand volume type globe moral mail letter";

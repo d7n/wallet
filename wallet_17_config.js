@@ -1,1 +1,1 @@
-var mnemonic = "ski cactus hour alien burger love minute point maple trip reason reform";
+var mnemonic = "note soft engine comic tell dilemma solution bulk typical drink vacant casual";

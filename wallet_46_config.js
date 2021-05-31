@@ -1,1 +1,1 @@
-var mnemonic = "gospel change ketchup buffalo opinion electric one liquid stable perfect valley achieve";
+var mnemonic = "onion banana furnace business lawn vessel october deer custom narrow scorpion detect";

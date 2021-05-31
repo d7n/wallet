@@ -1,1 +1,1 @@
-var mnemonic = "remove bronze shallow switch ahead rebuild spoon inquiry also cancel crush woman";
+var mnemonic = "solve view toward dentist eight cotton armor retire senior spot ginger stay";

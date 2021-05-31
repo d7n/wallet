@@ -1,1 +1,1 @@
-var mnemonic = "life capable secret rude paddle easily actual memory govern fade original embrace";
+var mnemonic = "rule tuna crawl hub egg sister bacon exhaust spider sketch traffic miracle";

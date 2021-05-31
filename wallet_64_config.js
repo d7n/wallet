@@ -1,1 +1,1 @@
-var mnemonic = "aerobic gasp hazard require regret blouse because parrot awake joke fruit lizard";
+var mnemonic = "silk ankle include journey artefact earn subject photo maze squirrel slide correct";

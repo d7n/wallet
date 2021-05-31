@@ -1,1 +1,1 @@
-var mnemonic = "cross welcome arch goose ocean minute turkey miracle chunk champion urge add";
+var mnemonic = "lawsuit theory glimpse enhance napkin donate path shadow galaxy later split yellow";

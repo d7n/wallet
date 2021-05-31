@@ -1,1 +1,1 @@
-var mnemonic = "tonight devote sugar surprise boy deer sunny bundle sunny useless balcony agree";
+var mnemonic = "multiply junk water injury sugar gap fruit sauce pear calm enjoy sustain";

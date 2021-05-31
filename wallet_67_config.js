@@ -1,1 +1,1 @@
-var mnemonic = "ugly eyebrow sweet silent choose stadium indoor recall pitch key lawn juice";
+var mnemonic = "critic effort pen range cat wagon boil hurdle pill bacon dad lunch";

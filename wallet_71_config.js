@@ -1,1 +1,1 @@
-var mnemonic = "blossom cover laugh noble hand bottom enroll bronze melody report setup mountain";
+var mnemonic = "mosquito abandon toward rich air entry wish immune shove okay camp flee";

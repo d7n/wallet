@@ -1,1 +1,1 @@
-var mnemonic = "express rent citizen just mosquito logic conduct mobile require excuse monkey word";
+var mnemonic = "black protect frost neck admit life small shoulder math logic giant glimpse";

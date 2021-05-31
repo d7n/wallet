@@ -1,1 +1,1 @@
-var mnemonic = "lamp coffee crew obtain small elephant soup remind ride anger inform hard";
+var mnemonic = "broom property situate vanish plastic nuclear congress leader lecture sweet aspect ability";

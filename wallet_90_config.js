@@ -1,1 +1,1 @@
-var mnemonic = "improve regular flight stamp path flash urban nerve also law cream journey";
+var mnemonic = "artist time cross myself gauge sign rescue sword isolate convince prison fringe";

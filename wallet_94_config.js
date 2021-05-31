@@ -1,1 +1,1 @@
-var mnemonic = "warrior ship derive rib window guitar flee excite inquiry board knife common";
+var mnemonic = "april boost famous vague armor kidney regular metal raw vehicle ability mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "soul else ribbon drift prepare chronic occur liberty tilt enlist animal kitchen";
+var mnemonic = "chunk hint another grocery insane donate seek bread metal check sail hour";

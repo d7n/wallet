@@ -1,1 +1,1 @@
-var mnemonic = "long fall walnut season hundred stairs undo gaze address hawk scout dizzy";
+var mnemonic = "afraid apple situate scene prison task noise phone actress ceiling nephew slogan";

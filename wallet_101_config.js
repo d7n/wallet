@@ -1,1 +1,1 @@
-var mnemonic = "lab history across window quality naive regret tragic network shell cause timber";
+var mnemonic = "afraid twist shaft bus pear envelope feel crime wood phrase panther copper";

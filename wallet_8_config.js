@@ -1,1 +1,1 @@
-var mnemonic = "gap rhythm plug grid valve oyster outdoor amount step uncle ahead immense";
+var mnemonic = "fork evidence misery hungry veteran laundry father poet jar range mobile about";

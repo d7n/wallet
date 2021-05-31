@@ -1,1 +1,1 @@
-var mnemonic = "rose soup toss vessel change acquire awake laundry tourist stem turkey achieve";
+var mnemonic = "funny learn shed text divide list sadness town lesson liberty jungle zero";

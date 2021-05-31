@@ -1,1 +1,1 @@
-var mnemonic = "remind toilet bubble consider city sight goose divide message list scheme deputy";
+var mnemonic = "ocean dolphin feed warm crime castle enlist route galaxy spy rug nasty";

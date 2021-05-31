@@ -1,1 +1,1 @@
-var mnemonic = "plastic high payment tooth sudden success weather vendor panel already board field";
+var mnemonic = "switch icon vessel slow warfare thought vital dance museum rebel upon inherit";

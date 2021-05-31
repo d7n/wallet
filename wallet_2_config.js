@@ -1,1 +1,1 @@
-var mnemonic = "main initial wedding ritual denial online erosion century boil fan fury climb";
+var mnemonic = "seminar pig cargo army panel flock cotton gorilla manage taste multiply image";

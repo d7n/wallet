@@ -1,1 +1,1 @@
-var mnemonic = "stone vocal drama garment notice voice isolate lady help very reject cement";
+var mnemonic = "poet lobster glove witness ramp frown drama skin today carpet globe inch";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior diesel place thumb seed bubble recycle immune rescue turn tooth shuffle";
+var mnemonic = "cover female damage coconut valley canvas result general mobile retreat resist echo";

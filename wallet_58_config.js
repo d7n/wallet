@@ -1,1 +1,1 @@
-var mnemonic = "spread coconut unlock wage net eager lake audit cycle detail bulb angle";
+var mnemonic = "surface slender decide amazing near raccoon broom seven below loud eternal stone";

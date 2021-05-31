@@ -1,1 +1,1 @@
-var mnemonic = "pretty light reward helmet tree orphan frown depart casual security slow census";
+var mnemonic = "essay finger athlete grid fury bronze donor win post adapt island sight";

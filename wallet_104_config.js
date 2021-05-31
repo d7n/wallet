@@ -1,1 +1,1 @@
-var mnemonic = "replace butter resource jewel turn west hill cousin organ luxury involve defense";
+var mnemonic = "risk east joke silk bean hospital neither story start deliver town engine";

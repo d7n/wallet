@@ -1,1 +1,1 @@
-var mnemonic = "actual winter destroy mass jacket current step gate section spare immune choose";
+var mnemonic = "orchard grunt word present mechanic wrong pair cherry keep bird write one";

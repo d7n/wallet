@@ -1,1 +1,1 @@
-var mnemonic = "army smooth rely else scare useless era artist cycle drive news purse";
+var mnemonic = "spin announce people multiply mesh grid find calm lend pepper barrel spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "escape orphan announce cash charge bounce trouble dizzy vacant wisdom update slender";
+var mnemonic = "club wrap mobile ribbon beyond ocean tell fault butter fragile citizen chief";

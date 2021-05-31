@@ -1,1 +1,1 @@
-var mnemonic = "pioneer pond style announce siege they slush genre blur valve region special";
+var mnemonic = "achieve honey invest attitude jazz ball bright sausage couple adult feed garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic clinic fiscal zone promote enemy liar gather vast digital combine muscle";
+var mnemonic = "hawk task purchase measure primary father language defense oak snow tide urge";

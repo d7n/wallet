@@ -1,1 +1,1 @@
-var mnemonic = "sister advance spend obvious sock harvest liar ostrich tag property obscure sorry";
+var mnemonic = "coil smile truck sing hundred pass trend wink focus mobile monster invite";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff friend hen limb lunch wreck exhibit sample grass violin banana route";
+var mnemonic = "picnic nothing enemy kit chuckle seek entire clock size monitor often code";

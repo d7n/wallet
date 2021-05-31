@@ -1,1 +1,1 @@
-var mnemonic = "dilemma reunion conduct oven just night wall steel note uphold acid rack";
+var mnemonic = "increase pipe moon spike pet chuckle august amount casual birth below heavy";

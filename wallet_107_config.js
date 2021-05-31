@@ -1,1 +1,1 @@
-var mnemonic = "another hazard front exclude open flag stay survey night muscle floor arena";
+var mnemonic = "velvet above rival fatigue provide modify nation salt great olympic tired remove";

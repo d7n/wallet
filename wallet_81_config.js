@@ -1,1 +1,1 @@
-var mnemonic = "badge thrive cause cram trophy legend rely pride laugh view omit essay";
+var mnemonic = "east heart please soon wear carpet sound end helmet battle devote start";

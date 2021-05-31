@@ -1,1 +1,1 @@
-var mnemonic = "wonder hamster hundred bless praise trumpet mistake ring trade elder like fury";
+var mnemonic = "final patient protect state boss casual ancient summer price night true agent";

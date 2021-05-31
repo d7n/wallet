@@ -1,1 +1,1 @@
-var mnemonic = "accident corn huge tenant say talent theme learn bubble assume caution emerge";
+var mnemonic = "valid math album diet east provide sort siege hospital main verify ring";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage cabin foam awful tongue mixture ramp scissors frequent wood above scout";
+var mnemonic = "nuclear mechanic coil wrestle film sock torch noise soda plate staff sugar";

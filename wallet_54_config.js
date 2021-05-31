@@ -1,1 +1,1 @@
-var mnemonic = "visit can range beyond west desert decade garlic enact assault dove infant";
+var mnemonic = "vicious tilt fire blush tumble okay ketchup negative curtain convince sight topple";

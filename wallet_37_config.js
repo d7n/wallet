@@ -1,1 +1,1 @@
-var mnemonic = "afraid divorce gasp link stable give endorse inherit salad evil child cruise";
+var mnemonic = "cabin shine clerk bleak pulse wide element trick scorpion syrup hurry slight";

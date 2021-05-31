@@ -1,1 +1,1 @@
-var mnemonic = "vivid pudding lesson live mean belt brave exhibit frame memory monitor turkey";
+var mnemonic = "slab picture pair traffic elevator keep fox attack recipe visa science person";

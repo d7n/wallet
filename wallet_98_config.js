@@ -1,1 +1,1 @@
-var mnemonic = "picnic lazy burger hedgehog student bleak pulp salad soul addict mail gas";
+var mnemonic = "maximum cigar ordinary mansion auto twin hamster shadow panic thank machine increase";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy offer dress dumb prosper crew orphan parade holiday enter inform barely";
+var mnemonic = "fluid fossil plastic border opinion coach drive squeeze random cram raw height";

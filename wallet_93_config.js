@@ -1,1 +1,1 @@
-var mnemonic = "gentle spike alpha easy final educate gaze announce diesel apple balcony raccoon";
+var mnemonic = "fabric virtual gauge brand spike wet light young stumble north twist wall";

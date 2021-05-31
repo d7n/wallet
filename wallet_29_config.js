@@ -1,1 +1,1 @@
-var mnemonic = "garbage drop buffalo tattoo pigeon reflect glance upper cabbage group answer post";
+var mnemonic = "assume vehicle cargo dial also energy harsh reward kangaroo hole cattle obvious";

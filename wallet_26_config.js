@@ -1,1 +1,1 @@
-var mnemonic = "hour vapor require web junior blouse monkey quality pulp boost fan lunar";
+var mnemonic = "axis daughter note boy suit virtual movie craft resemble artist artist sniff";

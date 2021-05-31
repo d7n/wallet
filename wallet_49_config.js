@@ -1,1 +1,1 @@
-var mnemonic = "income access twist render swim flat spy false scorpion offer lounge omit";
+var mnemonic = "steel rigid clump grace soon party kit drive work wait sample glory";

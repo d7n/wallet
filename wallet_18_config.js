@@ -1,1 +1,1 @@
-var mnemonic = "life zoo grit breeze duck shift lemon harbor father arena develop pull";
+var mnemonic = "coyote equal rotate response phrase pilot uniform air piano digital destroy chat";

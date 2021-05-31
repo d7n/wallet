@@ -1,1 +1,1 @@
-var mnemonic = "lab mix regular pill page shadow distance correct confirm satoshi banana project";
+var mnemonic = "best faith modify legend victory flat film punch swap avocado cactus axis";

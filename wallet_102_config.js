@@ -1,1 +1,1 @@
-var mnemonic = "rail chaos refuse car catalog ladder surprise lesson amount unknown gown spare";
+var mnemonic = "world buzz actual inquiry body play slab suffer ethics slender nothing used";

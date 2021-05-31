@@ -1,1 +1,1 @@
-var mnemonic = "clean fiber raise fat tired series bridge resource magnet toward surface retreat";
+var mnemonic = "tag above total flight today million bronze tourist energy simple caught midnight";

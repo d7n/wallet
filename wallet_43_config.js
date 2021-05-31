@@ -1,1 +1,1 @@
-var mnemonic = "wrestle network normal odor proof tuition embrace similar owner turkey annual verify";
+var mnemonic = "short maze fantasy jungle winter such crucial marble acquire gift find deer";

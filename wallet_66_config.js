@@ -1,1 +1,1 @@
-var mnemonic = "mind awkward time security wrong quality exercise stand scan thought piano prosper";
+var mnemonic = "nut dune cradle sphere sudden state either involve mixture prepare spike dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm plunge lounge leisure cat plastic vanish gather engage tornado ecology wise";
+var mnemonic = "define female lift maid before rookie carbon scan coil coconut hire expire";

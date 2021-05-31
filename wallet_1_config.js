@@ -1,1 +1,1 @@
-var mnemonic = "soccer moral door fence govern learn coin wash apart sauce dolphin solution";
+var mnemonic = "large dash volcano noise unusual bridge dizzy drill embark fit retreat inmate";

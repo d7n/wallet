@@ -1,1 +1,1 @@
-var mnemonic = "goose amused wolf trouble soldier soldier movie spy candy pepper trash guide";
+var mnemonic = "palace outer other sadness yellow joy surface record distance often menu bench";

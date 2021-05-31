@@ -1,1 +1,1 @@
-var mnemonic = "ozone vanish drastic few attitude clump coconut rail buyer rib audit neck";
+var mnemonic = "crush neutral unaware wish position obscure wash street loan burden embody pig";

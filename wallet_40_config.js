@@ -1,1 +1,1 @@
-var mnemonic = "focus shove test scrub success ketchup account beyond churn logic decorate reveal";
+var mnemonic = "matter shoot tail poet six rough brief protect sheriff ankle wrestle athlete";

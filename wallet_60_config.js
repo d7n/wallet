@@ -1,1 +1,1 @@
-var mnemonic = "able again empty burst unfold file copy state panic squirrel vanish bullet";
+var mnemonic = "solar skirt shift symptom easily sheriff sibling upgrade jungle today modify result";

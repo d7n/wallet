@@ -1,1 +1,1 @@
-var mnemonic = "analyst mask boss know pond come chicken weekend order mixed will deer";
+var mnemonic = "load obtain stereo blood riot absorb trap hammer asthma stamp fabric moon";

@@ -1,1 +1,1 @@
-var mnemonic = "mask unknown seed pair voyage concert try hedgehog thank shell van crime";
+var mnemonic = "trip chef weasel illegal apple turn toddler floor cloud hurt turn demise";

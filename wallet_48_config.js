@@ -1,1 +1,1 @@
-var mnemonic = "curious club brother episode tattoo yard buddy surface model game naive bag";
+var mnemonic = "eight render arrest slim board network lounge eye melody assume power pyramid";

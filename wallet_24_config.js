@@ -1,1 +1,1 @@
-var mnemonic = "document immense struggle exchange grunt draft orange neck leopard best peanut thrive";
+var mnemonic = "swear tomato destroy noodle milk enlist settle donate horn response produce wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "castle guess broom oak cat flash cream unfair dog depth exist ocean";
+var mnemonic = "grace flock fall layer enlist glance stay account wreck cherry pulse genuine";

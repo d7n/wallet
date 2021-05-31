@@ -1,1 +1,1 @@
-var mnemonic = "sustain toilet vocal argue domain attack diary royal fun will voice gaze";
+var mnemonic = "radio seminar put rail giraffe coconut other predict parent elevator distance improve";

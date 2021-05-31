@@ -1,1 +1,1 @@
-var mnemonic = "battle rhythm sell cause wish swarm cruel vintage emotion hip crack license";
+var mnemonic = "poet glue swear royal current salad aware acquire tide gym ticket arctic";

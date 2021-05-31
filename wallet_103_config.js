@@ -1,1 +1,1 @@
-var mnemonic = "flag sudden zone safe wreck rival because dentist another safe nest pig";
+var mnemonic = "spend ensure dignity genuine budget light laundry essay flower impact faculty ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon buffalo hidden extra juice adult relax medal flight valve unhappy team";
+var mnemonic = "moon best tackle fan kick universe sweet motor cactus hood theory entire";

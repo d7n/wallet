@@ -1,1 +1,1 @@
-var mnemonic = "lake spatial busy crime ridge advice chicken hammer velvet push range notice";
+var mnemonic = "duty awkward slush hazard title traffic twelve sting goat chimney sock toast";

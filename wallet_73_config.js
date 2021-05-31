@@ -1,1 +1,1 @@
-var mnemonic = "whisper mail need comfort detect fun evidence spray rotate tower sick protect";
+var mnemonic = "vicious convince puzzle similar crazy cheap real sniff poverty box void horn";

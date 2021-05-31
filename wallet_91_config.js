@@ -1,1 +1,1 @@
-var mnemonic = "lock light gold boss poet sure parent neutral convince define animal speed";
+var mnemonic = "uncle offer surprise tank narrow snake rookie will wild alien bargain energy";

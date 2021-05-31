@@ -1,1 +1,1 @@
-var mnemonic = "monster maid globe fold maple carbon undo travel soft electric bounce comic";
+var mnemonic = "wheat tiger target shove soap frown trip kingdom alter extend indicate pudding";

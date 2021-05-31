@@ -1,1 +1,1 @@
-var mnemonic = "usual govern battle century fresh mule rib laugh cube clay eye valley";
+var mnemonic = "oyster badge unhappy insect lens slogan family cannon allow enemy submit alpha";

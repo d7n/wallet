@@ -1,1 +1,1 @@
-var mnemonic = "case salmon calm dice duty tent flavor panda glimpse material avoid equal";
+var mnemonic = "seminar satisfy stumble skull weird next stool silly soap opinion curious brass";

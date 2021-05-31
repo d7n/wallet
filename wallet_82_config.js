@@ -1,1 +1,1 @@
-var mnemonic = "remove shell moon dry feed endless wise transfer coral cannon mule web";
+var mnemonic = "busy off toilet say clap carbon retire shine image media equal canvas";

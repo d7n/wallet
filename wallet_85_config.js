@@ -1,1 +1,1 @@
-var mnemonic = "exist tragic become employ seat frame color dinner critic universe reflect target";
+var mnemonic = "turkey again pretty traffic cake senior dynamic above punch leg advance soul";

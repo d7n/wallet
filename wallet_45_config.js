@@ -1,1 +1,1 @@
-var mnemonic = "lamp bicycle east common idle school wing earn pair prosper until nose";
+var mnemonic = "region mom purchase below title glove age salt diet exact tail dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "hire scan split glare helmet galaxy blade fruit wrist drop notice spend";
+var mnemonic = "erosion forum badge ghost shoulder weather message civil zebra sorry super message";

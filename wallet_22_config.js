@@ -1,1 +1,1 @@
-var mnemonic = "coil funny luxury strike float join nasty song wonder ugly truth whip";
+var mnemonic = "notable next science fence celery more dust machine invite enlist sugar expire";

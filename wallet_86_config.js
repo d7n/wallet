@@ -1,1 +1,1 @@
-var mnemonic = "thunder vapor never already guilt mansion elegant retire purpose cricket put plate";
+var mnemonic = "web mask lunar team suspect caution cancel asthma liberty offer lamp fiscal";

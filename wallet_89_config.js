@@ -1,1 +1,1 @@
-var mnemonic = "adult protect asthma tribe ladder off illness force tape gravity fancy door";
+var mnemonic = "manual double hobby own journey service fabric naive anchor enhance company amateur";

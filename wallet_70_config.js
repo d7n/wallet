@@ -1,1 +1,1 @@
-var mnemonic = "jeans stock draw aunt atom shove around update error only taxi mango";
+var mnemonic = "dog behave diamond success give clog easy attack render bus art grass";

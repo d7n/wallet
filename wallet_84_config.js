@@ -1,1 +1,1 @@
-var mnemonic = "ring night action elegant divide cupboard figure often end absent manual awake";
+var mnemonic = "knee useful recall team bullet solution identify idle pony female notice sniff";

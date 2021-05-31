@@ -1,1 +1,1 @@
-var mnemonic = "park ensure rubber mind eagle quick deal until reason present mass pony";
+var mnemonic = "receive blossom level inquiry risk give want dawn admit pair destroy nephew";

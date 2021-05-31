@@ -1,1 +1,1 @@
-var mnemonic = "scatter lucky produce brown lab useful dilemma harbor field evil absent better";
+var mnemonic = "release sorry decide drop pill puppy eight taste open seed exchange club";

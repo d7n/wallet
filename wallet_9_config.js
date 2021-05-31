@@ -1,1 +1,1 @@
-var mnemonic = "token plate tackle open civil degree lonely light lady fat fortune damage";
+var mnemonic = "mass silk enhance force donate spring program easily blame matrix fancy minute";

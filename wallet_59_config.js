@@ -1,1 +1,1 @@
-var mnemonic = "cliff crowd balance trumpet dove hunt swing rocket crater dress gauge require";
+var mnemonic = "misery deal chunk liberty oven place leader emotion promote knock lecture rule";
