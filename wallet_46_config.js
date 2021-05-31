@@ -1,1 +1,1 @@
-var mnemonic = "special dirt meat infant egg sadness unaware negative spider fresh rule foster";
+var mnemonic = "sniff dragon rabbit clog unveil nephew expose media ticket unfair floor accident";

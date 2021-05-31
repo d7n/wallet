@@ -1,1 +1,1 @@
-var mnemonic = "make cabin enhance will husband gun where solution magnet level program shoulder";
+var mnemonic = "protect cycle senior inmate improve nominee scale crane fabric assist wagon voice";

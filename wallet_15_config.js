@@ -1,1 +1,1 @@
-var mnemonic = "alcohol custom awesome draft twenty virtual finger salad region truck wash remind";
+var mnemonic = "beauty foster palm frequent push hover bacon arm ski tree mouse push";

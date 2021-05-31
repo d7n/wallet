@@ -1,1 +1,1 @@
-var mnemonic = "check judge crash hero save scatter bright melt glove bubble human save";
+var mnemonic = "leopard enrich penalty fee switch casino monkey visit license bunker enhance seed";

@@ -1,1 +1,1 @@
-var mnemonic = "science hockey topple noodle topic current useless rack correct prevent tip bid";
+var mnemonic = "absent attend connect icon kiwi gesture kit senior lounge road cluster garden";

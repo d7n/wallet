@@ -1,1 +1,1 @@
-var mnemonic = "weird fox faculty october bless grid exist lemon you hunt account search";
+var mnemonic = "priority piano space humble vivid art slide craft frost extra garlic ring";

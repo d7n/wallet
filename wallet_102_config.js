@@ -1,1 +1,1 @@
-var mnemonic = "glide reason hurt depart tiger beach soft winter upon female chronic rotate";
+var mnemonic = "stock record write simple embrace fatigue hundred cushion simple usage cram refuse";

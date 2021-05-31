@@ -1,1 +1,1 @@
-var mnemonic = "seven rookie cost waste film slush under spell monkey grace reunion enroll";
+var mnemonic = "absurd beef turtle erupt angle flavor negative arrow fall embody omit rural";

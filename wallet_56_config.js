@@ -1,1 +1,1 @@
-var mnemonic = "present solution rotate fee vivid guitar olive mention shove exhibit decrease people";
+var mnemonic = "limb pact creek average split uniform spare evolve click rough wash raccoon";

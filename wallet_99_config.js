@@ -1,1 +1,1 @@
-var mnemonic = "lemon fossil silly diamond eternal bring police assault rare planet blood invest";
+var mnemonic = "escape grass vague problem sphere feel south repeat cage movie imitate also";

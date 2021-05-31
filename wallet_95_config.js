@@ -1,1 +1,1 @@
-var mnemonic = "input shiver boy often entire flash size gap ethics sword mountain hollow";
+var mnemonic = "voyage garlic primary income bunker produce general quote hair virtual athlete advice";

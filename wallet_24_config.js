@@ -1,1 +1,1 @@
-var mnemonic = "forget steel segment connect width shed price unknown fringe put clock elbow";
+var mnemonic = "popular elephant mirror whale jelly creek broken bridge question squirrel wet salmon";

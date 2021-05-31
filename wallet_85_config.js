@@ -1,1 +1,1 @@
-var mnemonic = "rhythm once battle tourist gorilla industry tennis oak click skull bonus gauge";
+var mnemonic = "duty bless candy glare improve dwarf dirt seat flush keen laptop mountain";

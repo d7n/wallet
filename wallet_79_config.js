@@ -1,1 +1,1 @@
-var mnemonic = "live valve quote fire people anchor original front absent loyal promote address";
+var mnemonic = "usage bounce regret moon essay west confirm glory end ethics already kitchen";

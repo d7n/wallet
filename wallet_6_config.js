@@ -1,1 +1,1 @@
-var mnemonic = "hollow invite nephew plug pear entry crowd gallery book indicate profit decide";
+var mnemonic = "include else mobile bacon leave strategy nose supreme kidney walnut way diet";

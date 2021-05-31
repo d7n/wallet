@@ -1,1 +1,1 @@
-var mnemonic = "attract month actual unable sport link sweet where perfect scale canyon canoe";
+var mnemonic = "result blade summer hint rural limit situate morning struggle distance shallow trigger";

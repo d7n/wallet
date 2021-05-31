@@ -1,1 +1,1 @@
-var mnemonic = "patrol sick vote afraid fence only catch aware yard depend hat ball";
+var mnemonic = "bread struggle material avoid inform trust fox breeze move ribbon spot mushroom";

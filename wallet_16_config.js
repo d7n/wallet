@@ -1,1 +1,1 @@
-var mnemonic = "metal then crime camp siren image shoe switch real fall lecture hope";
+var mnemonic = "suit farm year wrist about scout age keen exile program silk project";

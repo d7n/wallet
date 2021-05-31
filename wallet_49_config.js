@@ -1,1 +1,1 @@
-var mnemonic = "woman hockey shuffle kiss clump feed flame inmate circle ozone lamp silly";
+var mnemonic = "frost common soon broom hero hood recipe whip swap oxygen cycle wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "bar around survey close minor pistol arrange filter betray woman crumble video";
+var mnemonic = "lobster surprise entry decade machine obscure safe chimney canvas sail flame fatal";

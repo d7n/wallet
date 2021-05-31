@@ -1,1 +1,1 @@
-var mnemonic = "six pool main possible toss business tuna all depart flight essay come";
+var mnemonic = "weasel maximum heavy favorite victory anchor faculty attend scrap milk feel lab";

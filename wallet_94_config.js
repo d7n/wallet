@@ -1,1 +1,1 @@
-var mnemonic = "subway benefit heavy column brown also tree trick jewel tired concert sentence";
+var mnemonic = "disagree release into mistake wolf option moment word among time attack concert";

@@ -1,1 +1,1 @@
-var mnemonic = "solution scare bleak artwork legend bleak brisk dwarf priority skull speed sweet";
+var mnemonic = "arrest sample lonely announce million burden fatal model shift bus panic pudding";

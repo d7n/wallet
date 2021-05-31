@@ -1,1 +1,1 @@
-var mnemonic = "razor allow comfort hello peanut error ice spice duty cloud cabin salad";
+var mnemonic = "domain tail energy foster dinner chalk faith wreck name opera consider crew";

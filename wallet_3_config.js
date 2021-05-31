@@ -1,1 +1,1 @@
-var mnemonic = "traffic cousin glare armor engine oppose swim lesson feed speed pig wage";
+var mnemonic = "donate crunch scissors donor all member desert sausage armor relax puzzle equal";

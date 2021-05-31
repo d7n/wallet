@@ -1,1 +1,1 @@
-var mnemonic = "employ become bargain solar replace elite hover crush ability human dove soap";
+var mnemonic = "fat help chimney remember obscure edge bottom castle want castle crack address";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon bitter drift cabin vendor guard toast document opinion faith abuse remove";
+var mnemonic = "rocket angry unaware angry daring beyond filter shuffle carry snow cute ginger";

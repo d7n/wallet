@@ -1,1 +1,1 @@
-var mnemonic = "lizard rebuild gesture burden speak spoil prepare spy light plate dog draft";
+var mnemonic = "crawl vital cargo document acquire pulp height reunion camera spoon electric bracket";

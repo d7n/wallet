@@ -1,1 +1,1 @@
-var mnemonic = "protect taxi light chest dress kick hour menu tube gift brisk suit";
+var mnemonic = "candy zone path shed valley useful fat knock adapt cup viable mesh";

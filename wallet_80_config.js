@@ -1,1 +1,1 @@
-var mnemonic = "laptop sweet stable poet truth afraid border delay neutral coffee trip already";
+var mnemonic = "luggage degree cargo choice catch urban eager finish follow entry half crucial";

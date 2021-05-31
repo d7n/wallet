@@ -1,1 +1,1 @@
-var mnemonic = "where casual bus usual purchase thumb mystery find inmate toy situate million";
+var mnemonic = "coffee purpose ride business yellow race you offer point float inject high";

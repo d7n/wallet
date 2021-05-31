@@ -1,1 +1,1 @@
-var mnemonic = "memory basket sense flight acid test zero appear aim grid craft hint";
+var mnemonic = "frozen deputy island comic humor cluster club hello half boost dinosaur fat";

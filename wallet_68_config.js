@@ -1,1 +1,1 @@
-var mnemonic = "trial dwarf march erase flash city two rookie impact virus bicycle relax";
+var mnemonic = "kick suggest owner useless pole custom digital mercy virtual need govern east";

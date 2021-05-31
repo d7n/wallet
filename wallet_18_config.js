@@ -1,1 +1,1 @@
-var mnemonic = "enact galaxy human monster reform lunar scan give squirrel audit voice board";
+var mnemonic = "bus slow elder hire funny ill cement cousin effort now leg zoo";

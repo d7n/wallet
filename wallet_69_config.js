@@ -1,1 +1,1 @@
-var mnemonic = "wink clay drive reunion just orphan super metal wedding tragic basket citizen";
+var mnemonic = "transfer luxury shrimp limit attract ask source click leg kite cabin library";

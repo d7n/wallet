@@ -1,1 +1,1 @@
-var mnemonic = "ranch behind bicycle able blossom festival debris potato coach cradle screen calm";
+var mnemonic = "ivory help volume milk upper tilt side brain velvet bike panic coil";

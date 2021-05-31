@@ -1,1 +1,1 @@
-var mnemonic = "holiday dust dwarf giraffe bread echo balance fly forum acid quantum carpet";
+var mnemonic = "march source target trial image sausage judge leave mystery surface hockey book";

@@ -1,1 +1,1 @@
-var mnemonic = "exile urban glimpse grape chair leader acquire hope toddler head craft drive";
+var mnemonic = "noise found guide great apart note senior brush you gown shoulder castle";

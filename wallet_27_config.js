@@ -1,1 +1,1 @@
-var mnemonic = "silent chaos knife walnut lamp gesture pistol forum zone core win can";
+var mnemonic = "outer light double around civil enroll time together lift embark able vocal";

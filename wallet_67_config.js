@@ -1,1 +1,1 @@
-var mnemonic = "mass beach calm polar now curtain weather apart radar share visual pig";
+var mnemonic = "lady sort survey actress lonely sock copper already brass blossom razor sister";

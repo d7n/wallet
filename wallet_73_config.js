@@ -1,1 +1,1 @@
-var mnemonic = "panel diesel health mask excite open double orient crowd wear small swing";
+var mnemonic = "lunch wear easy duck remind three notice stomach awful grass helmet grid";

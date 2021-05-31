@@ -1,1 +1,1 @@
-var mnemonic = "ski letter toast deposit seed state sort raccoon dumb silly tuna soup";
+var mnemonic = "endless case lawsuit gauge talk violin awkward give pear infant climb venture";

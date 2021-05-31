@@ -1,1 +1,1 @@
-var mnemonic = "moon ski obey flag tiny glimpse document enhance bring tourist shine depart";
+var mnemonic = "planet gather swift chat betray repair harsh laundry wire margin ancient system";

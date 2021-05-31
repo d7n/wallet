@@ -1,1 +1,1 @@
-var mnemonic = "liberty train hidden bone enact subject festival disagree author trouble flower battle";
+var mnemonic = "lava change usage found divert relief afraid mad neither enemy hat what";

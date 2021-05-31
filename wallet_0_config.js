@@ -1,1 +1,1 @@
-var mnemonic = "donor proud example multiply type danger earn laundry slide ketchup govern border";
+var mnemonic = "churn spell person common crunch skill audit rookie found huge diesel party";

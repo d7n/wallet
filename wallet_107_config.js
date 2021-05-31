@@ -1,1 +1,1 @@
-var mnemonic = "hour conduct phrase spell pond cake vast outdoor cherry food staff know";
+var mnemonic = "hover elbow elephant radar tell beauty jealous degree capable gesture friend solve";

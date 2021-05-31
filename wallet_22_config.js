@@ -1,1 +1,1 @@
-var mnemonic = "remain bounce blind hazard ask mandate kind garbage loop exchange slogan cake";
+var mnemonic = "health shadow clay stumble galaxy hen kick voice mask crowd moment decorate";

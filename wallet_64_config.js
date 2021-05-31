@@ -1,1 +1,1 @@
-var mnemonic = "elite large unhappy diary remember jelly estate burger nasty quote loan alarm";
+var mnemonic = "news auto earth promote jaguar nasty spy surface walk laundry junior plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "nest mechanic train differ proud mountain angry dwarf lady absorb neither risk";
+var mnemonic = "spray van tongue lizard baby near furnace document never civil few alert";

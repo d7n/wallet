@@ -1,1 +1,1 @@
-var mnemonic = "episode web program museum butter demise damage author busy laundry leader all";
+var mnemonic = "field claw frost bomb example street crystal clever umbrella need scan skirt";

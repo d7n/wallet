@@ -1,1 +1,1 @@
-var mnemonic = "nuclear inside can canal royal often evoke fall space border suffer gravity";
+var mnemonic = "degree seek lunch primary soup stadium north enlist display mechanic trash uncover";

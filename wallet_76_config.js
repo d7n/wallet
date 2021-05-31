@@ -1,1 +1,1 @@
-var mnemonic = "friend fever plastic rotate unknown local boil crucial repeat mushroom fabric peasant";
+var mnemonic = "wall romance february path trust depth move bundle brand image slam source";

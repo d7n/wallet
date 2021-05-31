@@ -1,1 +1,1 @@
-var mnemonic = "trumpet electric discover adjust horn mask innocent upon organ sketch dumb hover";
+var mnemonic = "green net swap rabbit spy lawsuit mouse slender brother hold mirror peasant";

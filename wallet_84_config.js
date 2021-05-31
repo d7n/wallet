@@ -1,1 +1,1 @@
-var mnemonic = "unfair outer edge tonight category word banner buzz shaft rely jeans quick";
+var mnemonic = "forget pioneer rocket noodle bring umbrella switch clock cage elder guilt evil";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry benefit city umbrella consider since version amount mad spider gadget unknown";
+var mnemonic = "concert pumpkin march pair opera insect mean arrive report enable involve curtain";

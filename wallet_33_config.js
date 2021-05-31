@@ -1,1 +1,1 @@
-var mnemonic = "trick tomorrow avoid pair donate run debris major emotion card raw offer";
+var mnemonic = "south two client frown begin congress problem soda film fancy soul imitate";

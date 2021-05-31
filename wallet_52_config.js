@@ -1,1 +1,1 @@
-var mnemonic = "brown ketchup chuckle ancient cousin toilet execute noodle embrace goose have alter";
+var mnemonic = "umbrella second antenna various raccoon enrich law add midnight bring dawn cabin";

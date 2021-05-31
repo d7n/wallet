@@ -1,1 +1,1 @@
-var mnemonic = "glimpse lobster drastic island ready wide clarify boring link system cargo feature";
+var mnemonic = "diesel whip slam appear shine thank actor bike sense extra firm setup";

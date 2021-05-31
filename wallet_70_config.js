@@ -1,1 +1,1 @@
-var mnemonic = "armor stable ensure flower transfer document cigar celery bacon anchor mobile lend";
+var mnemonic = "miss small liquid will filter grit shrug coyote tattoo real drop slab";

@@ -1,1 +1,1 @@
-var mnemonic = "brush dolphin category bless coil blue glory slush wagon ticket slot apology";
+var mnemonic = "choice absent okay build face prevent found convince jazz cute sketch dream";

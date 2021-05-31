@@ -1,1 +1,1 @@
-var mnemonic = "ginger measure renew quit hollow velvet screen round forget dash coil harvest";
+var mnemonic = "over reward saddle oppose foam planet dance pig hobby insect tonight nest";

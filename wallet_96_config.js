@@ -1,1 +1,1 @@
-var mnemonic = "direct essence egg shaft wife banana mechanic clean spider beef mixed update";
+var mnemonic = "mom goat portion sugar purchase ecology space flag fitness nephew camp knee";

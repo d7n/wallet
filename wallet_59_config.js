@@ -1,1 +1,1 @@
-var mnemonic = "panic kiss ball plunge clay atom degree flight smart portion canyon bleak";
+var mnemonic = "quick cover isolate august eternal famous hundred pitch cotton confirm profit slender";

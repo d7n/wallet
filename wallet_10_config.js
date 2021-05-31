@@ -1,1 +1,1 @@
-var mnemonic = "sign acoustic clog scan robot rose green slight rally logic dash toss";
+var mnemonic = "polar gentle similar crucial menu plunge approve hunt want harvest invest hat";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom exact allow tennis rural list execute argue embody one cluster bamboo";
+var mnemonic = "prison labor aware hello digital worry cheese erode cradle glimpse teach satoshi";

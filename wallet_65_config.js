@@ -1,1 +1,1 @@
-var mnemonic = "grit front lonely harvest range cost banana core material slow scale frozen";
+var mnemonic = "mass pitch label coil that flat badge farm tape crane visual umbrella";

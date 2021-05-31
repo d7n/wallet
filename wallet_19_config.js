@@ -1,1 +1,1 @@
-var mnemonic = "company digital process cabbage fit cushion spend cupboard hotel knock combine expire";
+var mnemonic = "aspect annual essay cluster patient hedgehog luxury usage arch trash invite indoor";

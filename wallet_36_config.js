@@ -1,1 +1,1 @@
-var mnemonic = "online sauce crunch october area mercy wealth promote orbit fabric rug join";
+var mnemonic = "fabric raven legend magnet fitness fat spice speak sausage spoon acoustic legal";

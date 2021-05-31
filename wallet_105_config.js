@@ -1,1 +1,1 @@
-var mnemonic = "office tomorrow kangaroo proof ankle library news domain capital beef merge tragic";
+var mnemonic = "once height domain excuse deliver asset lock scorpion vehicle evoke noise element";

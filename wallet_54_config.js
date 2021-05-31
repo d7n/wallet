@@ -1,1 +1,1 @@
-var mnemonic = "fringe option vote hidden earth raw range tray pencil track boring resource";
+var mnemonic = "title unusual credit mango receive detail exercise cattle forum high ethics coin";

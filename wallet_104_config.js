@@ -1,1 +1,1 @@
-var mnemonic = "second rebel negative audit leaf arena science cupboard heavy merit when split";
+var mnemonic = "sea top situate style mystery liar stadium cross change market ribbon tail";

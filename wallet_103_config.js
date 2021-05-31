@@ -1,1 +1,1 @@
-var mnemonic = "thunder state silver spot cash cause drive use flee gesture tragic member";
+var mnemonic = "limit acoustic amateur slice island soap orchard afraid hotel glare few mimic";

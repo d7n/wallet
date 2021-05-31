@@ -1,1 +1,1 @@
-var mnemonic = "unfair oil tube life paper indicate swift retreat almost copper swing scrub";
+var mnemonic = "exist arctic toss audit grain provide sniff noble devote stool horror cup";

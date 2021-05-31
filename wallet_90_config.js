@@ -1,1 +1,1 @@
-var mnemonic = "welcome ten issue sketch tiger example shock rough salute clinic gate double";
+var mnemonic = "someone oppose staff fit pool fiscal oak quarter genre green leopard neither";

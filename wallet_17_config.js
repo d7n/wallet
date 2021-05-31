@@ -1,1 +1,1 @@
-var mnemonic = "random pulse dove direct enforce suit affair crazy dust face clown envelope";
+var mnemonic = "mosquito solid ice mutual hire code roast toast spoil slush transfer swift";

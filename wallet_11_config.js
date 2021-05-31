@@ -1,1 +1,1 @@
-var mnemonic = "drip pig isolate stomach acquire velvet dance margin comic baby expand drill";
+var mnemonic = "business surround guess ladder acoustic blood resource member hub main ignore magic";

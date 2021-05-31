@@ -1,1 +1,1 @@
-var mnemonic = "exile unit early raise place apology sad danger rival sun adult juice";
+var mnemonic = "reunion lend brand quality hat clip pluck web swear ignore outside catalog";

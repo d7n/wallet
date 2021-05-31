@@ -1,1 +1,1 @@
-var mnemonic = "siege knee tower party tunnel west favorite rice wine family pool relief";
+var mnemonic = "hurt tiger bike provide lunch chaos inspire recall crater insane popular abandon";

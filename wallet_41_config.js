@@ -1,1 +1,1 @@
-var mnemonic = "also gospel behave toy account lawsuit glass flower good settle observe basket";
+var mnemonic = "interest egg square clip pudding key select check card excuse rose entry";

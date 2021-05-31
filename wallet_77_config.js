@@ -1,1 +1,1 @@
-var mnemonic = "call column pepper fun put split useless surge access fold left blanket";
+var mnemonic = "pond absorb insect galaxy frequent over police lady invest glove copper bean";

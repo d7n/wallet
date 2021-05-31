@@ -1,1 +1,1 @@
-var mnemonic = "surround mesh rotate coyote actress enemy mirror reduce arrow dinosaur attitude blue";
+var mnemonic = "curve caught wine steel mean ranch stereo alter lawn hope lyrics parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "humble budget couch model lottery text message window oak jelly garment citizen";
+var mnemonic = "under diary ensure banana pencil stock motion remain wrap august chat service";

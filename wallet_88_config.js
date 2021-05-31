@@ -1,1 +1,1 @@
-var mnemonic = "sibling rescue impulse mule square cart patrol burden school prosper price fatigue";
+var mnemonic = "heart when around helmet siren gift capable group side toward enemy cup";

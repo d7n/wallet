@@ -1,1 +1,1 @@
-var mnemonic = "giraffe quick blade matter harsh trust oblige lizard chef sea era afraid";
+var mnemonic = "rally all magic cactus curtain extend soap glory false bean morning ring";

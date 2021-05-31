@@ -1,1 +1,1 @@
-var mnemonic = "day lava cherry food smile ticket notice width castle cheap plunge oven";
+var mnemonic = "clown entire reject supply frog day sphere fame major rich pig they";

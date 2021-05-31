@@ -1,1 +1,1 @@
-var mnemonic = "position please kitten keep rule address repair powder atom group chase ritual";
+var mnemonic = "coach alpha carpet canyon base asset orange roof crucial friend improve find";

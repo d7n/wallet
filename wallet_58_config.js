@@ -1,1 +1,1 @@
-var mnemonic = "leg radio north wink rug pretty amazing whale barely post laptop general";
+var mnemonic = "turtle emotion scissors flat weapon face bitter notable useful arrange slight industry";

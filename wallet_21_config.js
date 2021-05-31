@@ -1,1 +1,1 @@
-var mnemonic = "win mutual index cross parrot gauge hub key silver city galaxy bomb";
+var mnemonic = "sun egg noise all swamp enroll shop fiscal attract bulb bench people";

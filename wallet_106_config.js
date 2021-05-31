@@ -1,1 +1,1 @@
-var mnemonic = "insect rib powder harvest usage donkey spider cheap evidence garbage sport term";
+var mnemonic = "body rotate silver diesel interest wall bag current case dinner predict fix";

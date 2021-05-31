@@ -1,1 +1,1 @@
-var mnemonic = "neither piano dish mandate huge pride bacon note copper label lady legal";
+var mnemonic = "capital object tragic shell wise cousin giraffe fire bench cute discover popular";

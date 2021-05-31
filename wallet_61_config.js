@@ -1,1 +1,1 @@
-var mnemonic = "burst sell spring dinosaur whip seed laundry velvet flush square spatial uncle";
+var mnemonic = "economy verb goose bright cute soul flip wash physical arrow rescue victory";

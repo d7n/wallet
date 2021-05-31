@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin throw leader eyebrow cabin actor truck trim fancy perfect accuse can";
+var mnemonic = "toy alpha crystal same awake pilot bird draw impact front stuff advice";

@@ -1,1 +1,1 @@
-var mnemonic = "brass share fish shoe swarm museum neither tired sort indicate insect alien";
+var mnemonic = "trouble drop syrup thought purpose youth sell hundred drip calm lamp luxury";

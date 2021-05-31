@@ -1,1 +1,1 @@
-var mnemonic = "boil suit ticket dog wreck tobacco boil acid price kite strike cute";
+var mnemonic = "budget reflect solid mind slab point timber know main amount muffin deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "empower lock behave cabbage amount shy bridge slush bicycle cat acquire peasant";
+var mnemonic = "more pact story matter season belt involve six evidence any similar home";
