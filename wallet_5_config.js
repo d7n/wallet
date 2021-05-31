@@ -1,1 +1,1 @@
-var mnemonic = "lunar jacket shell curve hurry gap where scan survey elbow dynamic brick";
+var mnemonic = "jealous echo girl leisure fancy cram winner business agree blast foil attack";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish crumble truly like glow noodle squeeze silk exhaust pool earth risk";
+var mnemonic = "point either series slight inhale toddler wish spatial diesel child object bounce";

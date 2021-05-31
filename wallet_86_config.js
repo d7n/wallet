@@ -1,1 +1,1 @@
-var mnemonic = "sorry garage sorry power sting roast chef divert found harbor later crouch";
+var mnemonic = "indoor erode segment birth kitten front risk fresh nurse service gather truth";

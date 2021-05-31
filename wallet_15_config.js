@@ -1,1 +1,1 @@
-var mnemonic = "surprise arrange twin vivid flower session rural knock young expect boring yellow";
+var mnemonic = "sample pluck inquiry oxygen lunch only naive spoon general exist involve keep";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry control bus frown require furnace inject reform awful run know attitude";
+var mnemonic = "burden stone naive sport echo eyebrow cause cross casual exchange tiny secret";

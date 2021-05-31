@@ -1,1 +1,1 @@
-var mnemonic = "liberty vibrant goat alarm thought toilet glass erupt just lend load claim";
+var mnemonic = "year radar bean tennis abuse special sadness current stool allow knock there";

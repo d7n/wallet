@@ -1,1 +1,1 @@
-var mnemonic = "happy list fancy leader team ahead police swim shove problem diesel zebra";
+var mnemonic = "drift domain ostrich leaf master ranch dentist fame lesson lunch warfare win";

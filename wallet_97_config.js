@@ -1,1 +1,1 @@
-var mnemonic = "glory caution prepare across glory dutch forget what special fiscal drama machine";
+var mnemonic = "claw pigeon stairs visit creek enjoy sight clean kite tumble hand soul";

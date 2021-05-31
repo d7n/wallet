@@ -1,1 +1,1 @@
-var mnemonic = "daughter pistol educate marine skin frequent top rely crop ski holiday adjust";
+var mnemonic = "limb kit item march best fantasy alpha suit cabin first trick section";

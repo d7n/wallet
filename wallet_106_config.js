@@ -1,1 +1,1 @@
-var mnemonic = "milk banner pilot general together response index spring firm night border napkin";
+var mnemonic = "clutch blanket churn kit grant junk benefit soft junk now enjoy uphold";

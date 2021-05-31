@@ -1,1 +1,1 @@
-var mnemonic = "rifle grunt action luggage pony cable pet neck strategy bone guilt ceiling";
+var mnemonic = "stereo glow sort box actress crash extend receive reason thing state spoon";

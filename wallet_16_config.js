@@ -1,1 +1,1 @@
-var mnemonic = "detail heart weather move early bone tool stereo soldier opera inform space";
+var mnemonic = "battle chat ensure excess income hybrid mirror demise ten loud false area";

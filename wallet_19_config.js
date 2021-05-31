@@ -1,1 +1,1 @@
-var mnemonic = "heart check key couch october crush sorry vote staff because inside great";
+var mnemonic = "hurry diagram budget half often thumb midnight harsh expect air mass machine";

@@ -1,1 +1,1 @@
-var mnemonic = "together choose vote fluid fly suit notice census neither butter endorse wage";
+var mnemonic = "aim second stable broken erase nice almost initial impose bunker impact mistake";

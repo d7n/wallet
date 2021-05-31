@@ -1,1 +1,1 @@
-var mnemonic = "raw wave execute busy vivid acquire clinic hurdle movie extend orbit rack";
+var mnemonic = "panic wedding hole mom start giraffe eternal alley into fly day aerobic";

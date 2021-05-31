@@ -1,1 +1,1 @@
-var mnemonic = "spend rebuild service time any vicious flag run gravity odor couch flag";
+var mnemonic = "enjoy much dignity gorilla unknown tackle better foil forget car pet youth";

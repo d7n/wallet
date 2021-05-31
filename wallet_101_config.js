@@ -1,1 +1,1 @@
-var mnemonic = "click subject twist walk season ski kind novel staff maximum puzzle update";
+var mnemonic = "visual main battle option ask easy exercise divide pigeon divide reward earn";

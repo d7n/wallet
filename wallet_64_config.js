@@ -1,1 +1,1 @@
-var mnemonic = "domain repair hand inside deliver hire toast pen govern inmate maple grant";
+var mnemonic = "identify canvas glass false wine job humor flat obey voyage tonight thing";

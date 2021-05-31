@@ -1,1 +1,1 @@
-var mnemonic = "gas artwork extend gossip carbon soccer video treat height alley sauce true";
+var mnemonic = "super dismiss ready fine common law right glad hockey slam wolf word";

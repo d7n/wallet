@@ -1,1 +1,1 @@
-var mnemonic = "pond burger act skull public captain uniform mercy hill ancient code cheap";
+var mnemonic = "voyage never want chat message easy cram girl decide birth speak whip";

@@ -1,1 +1,1 @@
-var mnemonic = "glove motor mistake still reopen shaft raise dust barely frequent goose grape";
+var mnemonic = "match oval echo tape crisp fringe other sword tenant dwarf leave rain";

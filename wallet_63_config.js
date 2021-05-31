@@ -1,1 +1,1 @@
-var mnemonic = "reduce galaxy student angry donkey rebel leader rebuild power debris piece shrimp";
+var mnemonic = "quote day rice open clip silk umbrella person rebel wood drastic net";

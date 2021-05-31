@@ -1,1 +1,1 @@
-var mnemonic = "food test battle floor nuclear cluster disease ship brain gaze fix code";
+var mnemonic = "swim impulse okay chaos trim purpose two atom ice vague federal movie";

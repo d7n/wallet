@@ -1,1 +1,1 @@
-var mnemonic = "actor boat turkey throw average uncover merry eyebrow slush album athlete offer";
+var mnemonic = "unhappy again swift inch focus desk become switch result friend aware target";

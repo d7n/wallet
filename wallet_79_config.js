@@ -1,1 +1,1 @@
-var mnemonic = "express blossom already flee ketchup rescue organ palm arctic faint guard ball";
+var mnemonic = "fly animal shop draw joy inside column lonely valve code other zebra";

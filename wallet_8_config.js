@@ -1,1 +1,1 @@
-var mnemonic = "creek lock slim fresh fit primary analyst chief hole claw drastic fetch";
+var mnemonic = "web neither mirror step butter example tumble swear share banner fragile sheriff";

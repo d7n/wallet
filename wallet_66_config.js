@@ -1,1 +1,1 @@
-var mnemonic = "arctic over museum outdoor table silly rack fortune payment fragile vanish add";
+var mnemonic = "strike relief clutch stomach smoke chicken peace aerobic erosion grit strategy sick";

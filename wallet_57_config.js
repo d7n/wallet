@@ -1,1 +1,1 @@
-var mnemonic = "able raven wire work token nothing abstract mirror horror when awkward multiply";
+var mnemonic = "major prevent olive someone cushion stove stable mushroom start then recipe recall";

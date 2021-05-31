@@ -1,1 +1,1 @@
-var mnemonic = "member slush tornado park crowd language size audit age network possible turkey";
+var mnemonic = "repair vintage phrase lawsuit fish trick lizard wink empty among during child";

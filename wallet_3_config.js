@@ -1,1 +1,1 @@
-var mnemonic = "phone flavor spread this swift hard penalty pave clog urge clump control";
+var mnemonic = "surge retreat gospel south obtain tonight green quick nest favorite oppose inch";

@@ -1,1 +1,1 @@
-var mnemonic = "cable believe beef model endorse habit dial bronze write floor scrap say";
+var mnemonic = "desert flag pencil fade license spin zebra hawk faint sail oblige bargain";

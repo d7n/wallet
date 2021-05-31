@@ -1,1 +1,1 @@
-var mnemonic = "dune force vague price luggage remember maid lamp please problem hour sketch";
+var mnemonic = "march enforce sting snow gasp example mercy bleak salon dad figure helmet";

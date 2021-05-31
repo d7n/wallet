@@ -1,1 +1,1 @@
-var mnemonic = "seat tool join year antenna speed glance skate expect shift buzz alpha";
+var mnemonic = "marriage quantum amateur sock asset diamond fence clean oblige bitter arrest fringe";

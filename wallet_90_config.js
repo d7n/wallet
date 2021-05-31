@@ -1,1 +1,1 @@
-var mnemonic = "mushroom saddle nuclear fortune fame stock pluck habit chalk equip toe tape";
+var mnemonic = "range defy doll bitter interest still select unable total document put roast";

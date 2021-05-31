@@ -1,1 +1,1 @@
-var mnemonic = "unhappy zebra organ abstract system alert glue milk parent hip share wheel";
+var mnemonic = "nominee scatter drastic renew hunt leader manual quarter runway latin weapon sugar";

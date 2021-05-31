@@ -1,1 +1,1 @@
-var mnemonic = "silly cat injury walnut pudding chef scrub penalty spice small chair scare";
+var mnemonic = "mosquito cream glory hospital cousin fog fetch enter visit measure solar exclude";

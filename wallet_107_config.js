@@ -1,1 +1,1 @@
-var mnemonic = "uncle rack town blossom leisure segment oblige daring sister rebuild time dumb";
+var mnemonic = "sad snow spoil spirit skin divorce gaze stadium defense crop defy twin";

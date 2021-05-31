@@ -1,1 +1,1 @@
-var mnemonic = "artefact donor symbol final member feel layer enjoy time squirrel ripple boat";
+var mnemonic = "crater romance fine claw speak provide access slab viable derive fatal today";

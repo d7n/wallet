@@ -1,1 +1,1 @@
-var mnemonic = "prepare suit garlic country echo eternal broccoli injury split tissue arctic element";
+var mnemonic = "wood wreck camera layer movie roof vintage cigar uncover misery rain talk";

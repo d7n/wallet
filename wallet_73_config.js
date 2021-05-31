@@ -1,1 +1,1 @@
-var mnemonic = "shock suggest morning skin slam swallow result twelve wrong repair tourist execute";
+var mnemonic = "fish entire tooth spider chapter cannon apple trophy reason park often mutual";

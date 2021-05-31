@@ -1,1 +1,1 @@
-var mnemonic = "ghost reward scout van solid midnight price pistol ugly recycle sea butter";
+var mnemonic = "tape spirit devote praise reduce dry warrior rhythm beef forward erosion marine";

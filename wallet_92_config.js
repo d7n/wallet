@@ -1,1 +1,1 @@
-var mnemonic = "august bundle cliff blade bulb copper forget barely grab border garage modify";
+var mnemonic = "identify fog mail hurry token torch battle twin material lottery fiscal jump";

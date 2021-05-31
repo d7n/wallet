@@ -1,1 +1,1 @@
-var mnemonic = "cake build piano hour already unique reopen distance nerve nasty mushroom citizen";
+var mnemonic = "consider knee crisp raise clown rose over pause dish evidence alpha shy";

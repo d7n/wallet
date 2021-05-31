@@ -1,1 +1,1 @@
-var mnemonic = "desert ripple clarify material code cross version video correct behind rough convince";
+var mnemonic = "hammer gloom innocent busy spin spend erosion energy tiger thing stem record";

@@ -1,1 +1,1 @@
-var mnemonic = "position turn cruel slow lumber kitchen dream twelve alter obtain mimic oyster";
+var mnemonic = "innocent slow cheap deliver nurse swap damp visa mimic noise school witness";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate observe jewel oblige adjust banana analyst buffalo sign prize during tissue";
+var mnemonic = "mask scale access ridge velvet shadow alter gentle stable vote member breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "pond domain grocery repeat angle endless meadow sausage ankle famous soap process";
+var mnemonic = "cherry canvas mammal offer month bachelor position gun hood cherry impulse office";

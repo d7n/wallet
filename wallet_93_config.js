@@ -1,1 +1,1 @@
-var mnemonic = "sheriff opinion ready maid fine birth kitchen spider cattle treat able apart";
+var mnemonic = "crater goat south track face gain dune plastic wave tattoo pony wear";

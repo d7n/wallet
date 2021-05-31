@@ -1,1 +1,1 @@
-var mnemonic = "bubble range nothing glove embrace smooth display tilt gather gospel perfect attract";
+var mnemonic = "party change glance pulse act borrow render kiwi swarm green outdoor jacket";

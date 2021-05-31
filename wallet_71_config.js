@@ -1,1 +1,1 @@
-var mnemonic = "asthma tattoo habit that absent tiny man capital limit harbor exercise gas";
+var mnemonic = "abstract frequent trophy speak approve burger used flash spice onion garden wine";

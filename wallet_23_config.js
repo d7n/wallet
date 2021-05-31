@@ -1,1 +1,1 @@
-var mnemonic = "curtain kind budget album click travel exit shrimp annual sibling author matrix";
+var mnemonic = "upgrade oyster patient soap fork goddess mention immense enrich worry ship stadium";

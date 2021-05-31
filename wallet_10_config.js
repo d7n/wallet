@@ -1,1 +1,1 @@
-var mnemonic = "canoe quick owner accident outside discover robot cargo design tilt west report";
+var mnemonic = "guilt skin assist carry curious trade cute ugly joke wear around open";

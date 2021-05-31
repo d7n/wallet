@@ -1,1 +1,1 @@
-var mnemonic = "box sting hope cabin blame climb program nation cereal ocean grant soon";
+var mnemonic = "fabric opinion item already then patrol subject pilot aspect excuse bitter bright";

@@ -1,1 +1,1 @@
-var mnemonic = "help measure armor amateur omit unlock snack rival stereo hundred boy patient";
+var mnemonic = "habit luggage dragon roast laugh opera label cheese annual nice laugh exchange";

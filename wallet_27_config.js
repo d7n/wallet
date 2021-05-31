@@ -1,1 +1,1 @@
-var mnemonic = "off mobile vote clutch advice between entry yard best satisfy grape clip";
+var mnemonic = "cabin lumber buddy volume board extra logic tomorrow diamond train breeze wave";

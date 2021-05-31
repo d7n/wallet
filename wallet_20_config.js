@@ -1,1 +1,1 @@
-var mnemonic = "husband reunion diary test lumber diamond company foster candy game click pilot";
+var mnemonic = "various repair hover test attend they ice frown equip season hurdle auto";

@@ -1,1 +1,1 @@
-var mnemonic = "hat green ensure pilot smoke cabbage warrior panther outdoor diagram snow hole";
+var mnemonic = "update steak tiny pass wrong slight play unknown fee jelly marriage jungle";

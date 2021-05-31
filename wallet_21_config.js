@@ -1,1 +1,1 @@
-var mnemonic = "matrix walk awake canyon puppy noble sock skill mass excite nuclear ski";
+var mnemonic = "test noodle evil scout burden cheap camp solid brass near harvest party";

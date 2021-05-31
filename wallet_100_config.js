@@ -1,1 +1,1 @@
-var mnemonic = "logic athlete brass click ghost twenty since trip toward family few cluster";
+var mnemonic = "flock hungry garbage creek ahead style nominee reject patient weird else bring";

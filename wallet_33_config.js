@@ -1,1 +1,1 @@
-var mnemonic = "soldier unfair motor gorilla elder point ice song blanket motion lock december";
+var mnemonic = "hour thank chimney satoshi square suspect sign hill minute road artefact paper";

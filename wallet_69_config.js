@@ -1,1 +1,1 @@
-var mnemonic = "street inquiry provide couple endless library magic build rigid idea defense picture";
+var mnemonic = "canoe swap cake bronze unaware element crack poet inject blade solve honey";

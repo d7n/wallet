@@ -1,1 +1,1 @@
-var mnemonic = "organ depend air trumpet dinner few horror protect game click spot creek";
+var mnemonic = "crew rescue guide vibrant suit draw regret card science shallow paddle limb";

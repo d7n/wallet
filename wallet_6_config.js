@@ -1,1 +1,1 @@
-var mnemonic = "rebuild you bird version rally crack bracket dilemma soda skate peasant remind";
+var mnemonic = "flip short embody merge recall great ordinary ten sell blue organ peasant";

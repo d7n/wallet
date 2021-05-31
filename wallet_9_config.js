@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bleak asthma salt empower canyon cargo attract snake pear inherit goddess";
+var mnemonic = "buzz unaware vehicle grab zone aim craft lion involve august odor capable";

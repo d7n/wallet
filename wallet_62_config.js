@@ -1,1 +1,1 @@
-var mnemonic = "devote potato school rally wild reward junk degree daughter know permit movie";
+var mnemonic = "approve swift nominee silk cricket piano salmon olympic leg depend much purchase";

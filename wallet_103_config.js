@@ -1,1 +1,1 @@
-var mnemonic = "talent dutch ride interest stove truly nut voyage risk wrap clown drift";
+var mnemonic = "thunder stool order mesh glow assume prepare adjust expose gun input glue";

@@ -1,1 +1,1 @@
-var mnemonic = "current online retire collect head arrest pizza path shop boy glue want";
+var mnemonic = "panther fancy bird snake whale truth forum rabbit distance crack possible concert";

@@ -1,1 +1,1 @@
-var mnemonic = "best car chicken legend nose banana bar vivid hurt cruise reopen alcohol";
+var mnemonic = "boat trophy diamond mom clinic vehicle flavor plastic inner enable hockey peace";

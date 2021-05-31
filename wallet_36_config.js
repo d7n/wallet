@@ -1,1 +1,1 @@
-var mnemonic = "hobby vacuum day shove jeans oppose bicycle motion hospital knife install surface";
+var mnemonic = "bottom pledge stamp orbit bonus network human soldier normal fresh omit lady";

@@ -1,1 +1,1 @@
-var mnemonic = "describe primary can fragile verify venue stem six fluid spin core spread";
+var mnemonic = "admit alley paddle scout suffer minimum electric common quote hair adult relax";

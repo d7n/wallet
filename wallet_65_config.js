@@ -1,1 +1,1 @@
-var mnemonic = "require enhance seminar cause april good jar kick rate source relief depart";
+var mnemonic = "member carbon vast clay sweet nut treat similar regret true bulb setup";

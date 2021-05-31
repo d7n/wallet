@@ -1,1 +1,1 @@
-var mnemonic = "melody exchange motor else original rent absent caught volume fox leader curve";
+var mnemonic = "struggle olive daughter hawk spray dad achieve parrot season collect wink belt";

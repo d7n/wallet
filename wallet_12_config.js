@@ -1,1 +1,1 @@
-var mnemonic = "either review fault crack lawn elegant town cigar predict open divert diary";
+var mnemonic = "sight fortune auction siege arm tail badge foot bleak ramp fall taste";

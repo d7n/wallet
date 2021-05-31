@@ -1,1 +1,1 @@
-var mnemonic = "chalk call stove mammal large business artefact crane scheme tiny tuition express";
+var mnemonic = "speak flame soon rail valid weekend inform kick dirt tag hurdle oxygen";

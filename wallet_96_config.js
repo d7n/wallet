@@ -1,1 +1,1 @@
-var mnemonic = "avoid identify myth unit find dentist train noise stay hood best knife";
+var mnemonic = "chest bean grid prosper bottom display devote begin attract jealous hold cabin";

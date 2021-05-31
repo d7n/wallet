@@ -1,1 +1,1 @@
-var mnemonic = "attitude theme engage frame taste retreat exhaust hunt early pluck carry acoustic";
+var mnemonic = "glad abstract ceiling cable verb session evoke surface leg ordinary more neither";

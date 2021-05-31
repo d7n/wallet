@@ -1,1 +1,1 @@
-var mnemonic = "harbor fury place accident ribbon strike cupboard head inhale brief rough kite";
+var mnemonic = "caught practice tunnel ask muffin target twin echo bind gain parent razor";

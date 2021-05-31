@@ -1,1 +1,1 @@
-var mnemonic = "fee myself life unique across wrong kiwi monitor opera supply eager trend";
+var mnemonic = "island slot ridge virtual silly art dry rotate walnut hand spare chase";

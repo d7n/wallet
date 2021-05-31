@@ -1,1 +1,1 @@
-var mnemonic = "smile save robot earn snow pepper bracket lizard island rent simple opera";
+var mnemonic = "journey soccer twin link merit birth witness album hair view march cute";

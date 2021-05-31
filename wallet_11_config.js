@@ -1,1 +1,1 @@
-var mnemonic = "merry lion print equip error indoor sentence abandon term weasel retreat evolve";
+var mnemonic = "ice faith day snake cannon cook wealth book odor cradle rain sauce";

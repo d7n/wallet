@@ -1,1 +1,1 @@
-var mnemonic = "layer master vendor mercy bread guitar power roast laundry belt video scissors";
+var mnemonic = "globe museum clog price wasp various antenna course build pluck ceiling fashion";

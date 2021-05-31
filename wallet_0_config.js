@@ -1,1 +1,1 @@
-var mnemonic = "suspect pig clap kind piano brick moment water punch pill engine ritual";
+var mnemonic = "tail sweet alert forget extend minor harvest clump crisp parent rubber bulb";

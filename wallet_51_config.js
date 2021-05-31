@@ -1,1 +1,1 @@
-var mnemonic = "orchard uncover april scene merge clerk tail merry book spoon never prevent";
+var mnemonic = "powder silver woman unfold scan wrap wife desert excite term soul off";

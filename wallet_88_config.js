@@ -1,1 +1,1 @@
-var mnemonic = "copy shallow flavor grace screen library mammal mountain chief resemble perfect stereo";
+var mnemonic = "payment distance social bag video broccoli twist melt rude sign tortoise dish";

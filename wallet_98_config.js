@@ -1,1 +1,1 @@
-var mnemonic = "arrive double valve laundry remain tumble mirror bone help network usual color";
+var mnemonic = "forward soft sick nice scale drill zero easily weapon carry jelly decorate";

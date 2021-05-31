@@ -1,1 +1,1 @@
-var mnemonic = "swim smile stamp involve cake pole crawl trash limit hurt shell shrimp";
+var mnemonic = "head remember tornado limb hurt extend polar have chat word more antenna";

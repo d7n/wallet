@@ -1,1 +1,1 @@
-var mnemonic = "utility earn hungry solid share vital together lottery piano divide erosion slice";
+var mnemonic = "pipe pact reason satisfy apart bundle pulse wife inherit cup proud suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal jewel web brother glad cross hollow spring bring head found fee";
+var mnemonic = "badge strong absorb orbit banana fiscal hold cup gentle soon retreat because";

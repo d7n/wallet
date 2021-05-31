@@ -1,1 +1,1 @@
-var mnemonic = "private sunset endorse crisp injury junk hello cave vessel foil verb stadium";
+var mnemonic = "hundred despair entry bounce brave unhappy flock glue speed engine insect way";

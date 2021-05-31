@@ -1,1 +1,1 @@
-var mnemonic = "outside rather asthma art unknown wife update barely syrup follow maid choice";
+var mnemonic = "virus correct sponsor amazing paddle tree luxury act act mask despair salad";

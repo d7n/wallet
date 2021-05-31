@@ -1,1 +1,1 @@
-var mnemonic = "mixed suffer flavor pepper neck shift search depth hurry agent track blade";
+var mnemonic = "robot tag album page old same embrace seed van replace crush element";

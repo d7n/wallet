@@ -1,1 +1,1 @@
-var mnemonic = "dentist blind bulb gown enrich envelope mobile group crush scout mad fun";
+var mnemonic = "loud asset praise coffee behave pitch carbon suit soul will cheap globe";

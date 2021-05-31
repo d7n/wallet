@@ -1,1 +1,1 @@
-var mnemonic = "over still obvious unlock smoke sponsor gravity surge cotton install loop tennis";
+var mnemonic = "spin plug venture siege normal decade juice praise twist bronze coach split";
