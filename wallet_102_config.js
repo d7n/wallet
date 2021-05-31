@@ -1,1 +1,1 @@
-var mnemonic = "tattoo comfort first second riot fitness video rain sorry fresh hover shed";
+var mnemonic = "loan jaguar private loyal scheme milk agent thank stomach code ghost vivid";

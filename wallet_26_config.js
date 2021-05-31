@@ -1,1 +1,1 @@
-var mnemonic = "web pledge trouble alpha vehicle draw proof drip sample note hover bargain";
+var mnemonic = "veteran tenant belt pottery siren real another run sudden grit million yard";

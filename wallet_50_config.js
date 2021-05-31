@@ -1,1 +1,1 @@
-var mnemonic = "beyond exclude bottom review street whale supply antenna voice vacant sentence distance";
+var mnemonic = "absent spell ranch surface treat gadget solid razor pact zero october shrug";

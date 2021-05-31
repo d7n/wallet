@@ -1,1 +1,1 @@
-var mnemonic = "kite nerve melody ramp brick escape crack capital pistol combine sauce average";
+var mnemonic = "loyal category absent open water live area pudding leg club credit month";

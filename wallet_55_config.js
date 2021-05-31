@@ -1,1 +1,1 @@
-var mnemonic = "door pulse hard setup abandon wish bracket train inmate loyal frown member";
+var mnemonic = "runway island margin require observe robot equip someone athlete obey plastic silver";

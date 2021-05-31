@@ -1,1 +1,1 @@
-var mnemonic = "crash cupboard rug square mad mandate slow silver night genre still oppose";
+var mnemonic = "ensure delay immense flush mystery slice water orbit doctor sword hidden hill";

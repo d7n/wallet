@@ -1,1 +1,1 @@
-var mnemonic = "riot random amused process silk guilt tobacco enrich floor want subway scale";
+var mnemonic = "hold episode canoe cinnamon either just auction blush brick eye discover indoor";

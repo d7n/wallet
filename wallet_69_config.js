@@ -1,1 +1,1 @@
-var mnemonic = "pen supply strike drive allow dash ghost zebra mixture clarify nominee work";
+var mnemonic = "impact happy term prevent between valley virtual opinion word name scrap bean";

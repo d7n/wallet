@@ -1,1 +1,1 @@
-var mnemonic = "phone identify salute desert when taste another slim hour solve pencil dice";
+var mnemonic = "about tribe elite advice lounge visual urge stuff call favorite plate caution";

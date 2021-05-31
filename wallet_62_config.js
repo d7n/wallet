@@ -1,1 +1,1 @@
-var mnemonic = "demise tissue shadow scorpion focus clump injury rely hand leopard ready grain";
+var mnemonic = "orchard hill length cinnamon animal gorilla scissors horse pipe pudding basket budget";

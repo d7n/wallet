@@ -1,1 +1,1 @@
-var mnemonic = "panther melt desk notable tank razor amused bid mimic bicycle wise salon";
+var mnemonic = "nominee finish wealth media wagon puzzle mountain clown water unhappy magnet quiz";

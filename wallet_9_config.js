@@ -1,1 +1,1 @@
-var mnemonic = "glimpse exhibit rich nominee party giant test side street rate situate twist";
+var mnemonic = "error giraffe diagram uphold town expect price major phone pipe patient honey";

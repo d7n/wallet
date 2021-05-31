@@ -1,1 +1,1 @@
-var mnemonic = "capable juice sample net wedding ghost feel output health unit family term";
+var mnemonic = "club uncle own theory certain ugly cash sure universe place journey supply";

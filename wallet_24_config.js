@@ -1,1 +1,1 @@
-var mnemonic = "sustain auto young meadow question donor split other company plate process advance";
+var mnemonic = "opinion few chronic sketch wisdom guess urge box omit nature board walnut";

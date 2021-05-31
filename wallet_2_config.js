@@ -1,1 +1,1 @@
-var mnemonic = "arctic unfold away taxi cube tennis nominee hotel trap people sport simple";
+var mnemonic = "surround canal vague bulk clever first unfair rib swear govern denial common";

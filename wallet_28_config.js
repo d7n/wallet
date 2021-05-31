@@ -1,1 +1,1 @@
-var mnemonic = "order pride pattern visit jazz opinion artefact retreat famous very blossom disease";
+var mnemonic = "hole quality nature emerge wasp stone bonus arrive spice exhibit friend fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar sail elegant rather attitude goose eight remove task risk title ceiling";
+var mnemonic = "erupt army kidney wonder clutch jungle scene gorilla legal merge valley unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "page chicken act dizzy rough neither wolf fringe fog truth interest can";
+var mnemonic = "pact seven fortune plug control program one street design sick avoid nice";

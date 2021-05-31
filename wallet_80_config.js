@@ -1,1 +1,1 @@
-var mnemonic = "client pause element warfare phone mobile radio fun clarify enough problem aim";
+var mnemonic = "animal tape equip collect broken barrel paper index gloom vehicle maze fox";

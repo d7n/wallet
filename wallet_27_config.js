@@ -1,1 +1,1 @@
-var mnemonic = "option hover alley scorpion asthma lyrics urge reveal inspire shadow unable drastic";
+var mnemonic = "visa uncle supreme mountain enter like chief witness direct kiwi sibling flower";

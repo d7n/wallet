@@ -1,1 +1,1 @@
-var mnemonic = "girl pave upper analyst smoke bird chronic exile use wage soda music";
+var mnemonic = "remove carpet fuel arrange fade hidden exist lava satisfy tired pottery tell";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum blade address spend jazz knee nut flash any slide ankle common";
+var mnemonic = "weapon hungry timber owner defense van observe flee helmet junior sauce poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran deputy pen distance bitter select trick diet trap broom parrot learn";
+var mnemonic = "rifle limb lesson private unique term swarm ketchup orange sibling ancient erode";

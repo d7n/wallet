@@ -1,1 +1,1 @@
-var mnemonic = "believe clown napkin amused sort inch senior pluck debate announce spin palace";
+var mnemonic = "stock door artwork where vanish rebuild solve custom lumber shoe gold shiver";

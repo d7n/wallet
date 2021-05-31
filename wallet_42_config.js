@@ -1,1 +1,1 @@
-var mnemonic = "cancel ugly honey guilt nice peanut know subject hollow knife assault gesture";
+var mnemonic = "air hire winter army middle ten solve festival gas garment error glory";

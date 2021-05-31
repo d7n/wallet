@@ -1,1 +1,1 @@
-var mnemonic = "digital shop come rabbit endless merry pizza useless rude debate million latin";
+var mnemonic = "fever purpose decorate vital inform auction apart inflict wife fog guard space";

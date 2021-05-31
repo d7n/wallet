@@ -1,1 +1,1 @@
-var mnemonic = "quick decide cry thunder bundle staff asthma anxiety snack forward gym satoshi";
+var mnemonic = "trust treat couple critic supreme rate lunar scorpion beach list orchard accuse";

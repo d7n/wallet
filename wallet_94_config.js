@@ -1,1 +1,1 @@
-var mnemonic = "armed base rocket aware ring fluid donate say inhale leopard solid unknown";
+var mnemonic = "couch cupboard brave bring dentist trial blame unit blame cake ticket razor";

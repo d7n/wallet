@@ -1,1 +1,1 @@
-var mnemonic = "insect tobacco close pelican become parrot obscure degree naive tank bulb kitten";
+var mnemonic = "bottom detail canvas slide refuse mule fashion bird patient veteran unique wool";

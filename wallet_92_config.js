@@ -1,1 +1,1 @@
-var mnemonic = "arrive fever ten cover lunar trap vacant truck pelican emotion crumble gentle";
+var mnemonic = "style drastic spatial animal salute pig steak father very verb know brother";

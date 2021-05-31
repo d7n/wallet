@@ -1,1 +1,1 @@
-var mnemonic = "upset net shove daughter now pluck atom hello eager uncover impact skull";
+var mnemonic = "local awake doll wool gift pledge fat right copy enlist tortoise engage";

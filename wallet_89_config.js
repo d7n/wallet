@@ -1,1 +1,1 @@
-var mnemonic = "valid blame first project system faint planet mango trouble worry evidence cabbage";
+var mnemonic = "shock amazing keep trigger fall miss donor treat clog miracle plunge output";

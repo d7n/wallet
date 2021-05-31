@@ -1,1 +1,1 @@
-var mnemonic = "boss couch draw orbit neglect fruit skate wet rate noodle kingdom what";
+var mnemonic = "critic token month reduce iron income target athlete metal cabbage valid youth";

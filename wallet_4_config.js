@@ -1,1 +1,1 @@
-var mnemonic = "damage mesh spider rose level legal keen mention main mercy matrix unfold";
+var mnemonic = "exhaust mass decorate please hotel scorpion project jeans few world family kick";

@@ -1,1 +1,1 @@
-var mnemonic = "cement evoke diet chase target salute dove rate heart awful wave witness";
+var mnemonic = "destroy search aspect exercise vacant fly aisle portion glow jealous else climb";

@@ -1,1 +1,1 @@
-var mnemonic = "siren adapt quarter field cart wing virtual plug grab pig push sock";
+var mnemonic = "more swim escape fury desk infant brush save south pride symptom monitor";

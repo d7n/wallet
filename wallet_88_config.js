@@ -1,1 +1,1 @@
-var mnemonic = "arrow sheriff ahead orbit sketch income someone attack original chief result fitness";
+var mnemonic = "cement under eye album swap can scatter estate grow abuse pioneer enable";

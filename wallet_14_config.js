@@ -1,1 +1,1 @@
-var mnemonic = "denial salute monster excuse course able night boy whisper mountain joke timber";
+var mnemonic = "doctor mask canyon panel leader sudden whisper trumpet section already raw chalk";

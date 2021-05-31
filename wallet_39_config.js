@@ -1,1 +1,1 @@
-var mnemonic = "undo course foster couple major blouse lab pumpkin shed candy cash garden";
+var mnemonic = "clean pill stone door filter raise illegal double waste evolve supply input";

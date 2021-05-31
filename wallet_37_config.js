@@ -1,1 +1,1 @@
-var mnemonic = "grit genius daring track struggle dynamic ranch symbol screen claim swap thunder";
+var mnemonic = "kidney coil atom half govern pair kangaroo hold polar reveal derive disease";

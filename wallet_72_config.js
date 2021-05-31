@@ -1,1 +1,1 @@
-var mnemonic = "hamster device output neither enter goat left brass make turn change once";
+var mnemonic = "jaguar coach game verb member zoo benefit taxi lumber roof price nothing";

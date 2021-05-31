@@ -1,1 +1,1 @@
-var mnemonic = "tiger spot craft camp margin space duck upset imitate lucky critic iron";
+var mnemonic = "index rude bundle exhibit spike bag sustain uncle average payment caution more";

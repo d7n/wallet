@@ -1,1 +1,1 @@
-var mnemonic = "crucial tennis recall also blanket genuine curtain coast obvious grab spread delay";
+var mnemonic = "actor trip lamp quality eager mutual cancel okay chat item clip yard";

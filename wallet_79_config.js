@@ -1,1 +1,1 @@
-var mnemonic = "six network unable cute rhythm actress again review two south unit shuffle";
+var mnemonic = "green reopen water cotton raccoon fluid piano fix leopard exhaust thought cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "call screen unfair little tissue mountain load judge clarify faith coach increase";
+var mnemonic = "noise gas skirt home execute you genre twist swarm vendor good fresh";

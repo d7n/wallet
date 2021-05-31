@@ -1,1 +1,1 @@
-var mnemonic = "someone similar grain ball awful draw over monster tobacco spy confirm diamond";
+var mnemonic = "neglect slab guitar expand exotic palm cruise diet diary employ scorpion umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "build unaware practice grunt prison grief fork reject reopen female tiny pill";
+var mnemonic = "enjoy easily coast shed comfort start another beef thumb kangaroo pitch planet";

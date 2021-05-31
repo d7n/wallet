@@ -1,1 +1,1 @@
-var mnemonic = "cloth ribbon decade increase enemy retreat surprise you select pumpkin lady welcome";
+var mnemonic = "employ milk cake brisk turtle about average unhappy upper leader fox blue";

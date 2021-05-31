@@ -1,1 +1,1 @@
-var mnemonic = "shell worth matter tool egg home steak author enter woman saddle finger";
+var mnemonic = "clerk child nation suffer success machine beyond scheme blush situate wide vacuum";

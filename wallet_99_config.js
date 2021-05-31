@@ -1,1 +1,1 @@
-var mnemonic = "begin gravity strike autumn alert envelope car artwork dutch unaware ramp trip";
+var mnemonic = "still divorce palm tribe high hawk impulse praise offer twin coast verify";

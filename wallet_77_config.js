@@ -1,1 +1,1 @@
-var mnemonic = "cactus emotion hockey shove tip upgrade furnace service adapt gown coffee allow";
+var mnemonic = "idle radar above fantasy swim across remind park gauge extra magnet humor";

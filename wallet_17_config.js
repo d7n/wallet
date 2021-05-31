@@ -1,1 +1,1 @@
-var mnemonic = "lock radio unfair reward payment main winner affair dice casual notice palace";
+var mnemonic = "cluster tray office boat true hunt jealous claw orange base glass broom";

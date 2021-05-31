@@ -1,1 +1,1 @@
-var mnemonic = "hat meat address drive honey zone pole warfare foil inflict ship sad";
+var mnemonic = "glad shaft kitten oblige book master frost arctic museum buffalo senior panda";

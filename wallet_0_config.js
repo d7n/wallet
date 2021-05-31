@@ -1,1 +1,1 @@
-var mnemonic = "depend squeeze trust tattoo riot demand chuckle play again rib oven asthma";
+var mnemonic = "helmet orange chief pupil wage grain turn visit grace skill bean search";

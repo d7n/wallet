@@ -1,1 +1,1 @@
-var mnemonic = "clean stone panel country good gospel judge market race merit symptom favorite";
+var mnemonic = "job assume near state manual monster scissors bench require warfare multiply butter";

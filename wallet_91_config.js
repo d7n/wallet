@@ -1,1 +1,1 @@
-var mnemonic = "lake print mention water kit regret eye raise clay shaft smoke zoo";
+var mnemonic = "orient orange isolate render endless stairs oblige stage jewel fluid remain shiver";

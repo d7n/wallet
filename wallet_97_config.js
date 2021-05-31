@@ -1,1 +1,1 @@
-var mnemonic = "garbage fix gown urge rack library echo story auction upon lounge frog";
+var mnemonic = "various amateur exit crime volcano globe ivory morning aisle fluid harsh safe";

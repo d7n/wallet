@@ -1,1 +1,1 @@
-var mnemonic = "tattoo surface course cart metal resist wolf describe prepare expect rack spray";
+var mnemonic = "utility popular idea tonight clinic ozone diet share zebra piano hawk thumb";

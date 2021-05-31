@@ -1,1 +1,1 @@
-var mnemonic = "rose video output match tumble canal top elbow learn verb access minute";
+var mnemonic = "forum foot discover accuse nose dream nephew grit tunnel toe empty buddy";

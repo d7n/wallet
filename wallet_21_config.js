@@ -1,1 +1,1 @@
-var mnemonic = "dream section wheel once beef rate short canyon inflict chunk breeze unknown";
+var mnemonic = "clip lounge exotic river fabric beef fish dog grab pact shield favorite";

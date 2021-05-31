@@ -1,1 +1,1 @@
-var mnemonic = "globe excess glass mosquito tongue grape symbol flag target rate wage column";
+var mnemonic = "endorse frown pull stage easy blood radar shield thing fold rather domain";

@@ -1,1 +1,1 @@
-var mnemonic = "evil scrap run torch boy blouse wild repeat urban photo anxiety sleep";
+var mnemonic = "jungle fog scorpion blood clip protect knock swim suit jar flag fiction";

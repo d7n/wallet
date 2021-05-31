@@ -1,1 +1,1 @@
-var mnemonic = "afford wall orchard say trend expire zebra brother install spot knee you";
+var mnemonic = "enact sunset outer walk office sock bulk pumpkin practice soldier dad bachelor";

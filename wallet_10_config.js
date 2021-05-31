@@ -1,1 +1,1 @@
-var mnemonic = "clarify scout green slice company helmet tiger poverty awesome bind quote uphold";
+var mnemonic = "chef treat aspect course major speak avoid bike author afford spoil rain";

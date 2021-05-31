@@ -1,1 +1,1 @@
-var mnemonic = "spell vintage core obtain inform antique immune summer lounge craft flight dice";
+var mnemonic = "pilot chaos someone lava cost payment wave cute plastic type split normal";

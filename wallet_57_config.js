@@ -1,1 +1,1 @@
-var mnemonic = "since segment hollow obscure alarm laptop simple angry gun music main lift";
+var mnemonic = "color crisp labor taste never fatigue couch topic protect month season fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "file boy enforce lunch garlic ahead magic summer analyst phone dentist noodle";
+var mnemonic = "easy bridge couple check radio inspire globe wool fringe merry pill museum";

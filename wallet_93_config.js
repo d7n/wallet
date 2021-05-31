@@ -1,1 +1,1 @@
-var mnemonic = "trend print talent thunder between dune rain blade cake stage false crazy";
+var mnemonic = "rebel spoil affair flag pact train wife despair burden lady pluck primary";

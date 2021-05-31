@@ -1,1 +1,1 @@
-var mnemonic = "border other buffalo melody coach pottery inmate all water hospital cover forward";
+var mnemonic = "liar unable illegal prison injury sheriff cheap flee squirrel mule monkey hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "slam multiply meat slush puppy seven mad comic use glide noodle whale";
+var mnemonic = "fix width put payment you radar jewel whip gaze brush best dog";

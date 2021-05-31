@@ -1,1 +1,1 @@
-var mnemonic = "auction panic label bleak check mirror olympic clap puzzle rebuild aspect prosper";
+var mnemonic = "same minimum innocent hole zebra slab fitness humble embark quarter glide goat";

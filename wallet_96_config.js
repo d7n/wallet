@@ -1,1 +1,1 @@
-var mnemonic = "minute abstract quote embrace sadness penalty pact polar argue task biology inject";
+var mnemonic = "employ frozen twelve below train gallery reopen blue april confirm you roof";

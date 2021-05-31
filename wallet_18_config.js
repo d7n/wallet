@@ -1,1 +1,1 @@
-var mnemonic = "motion there broccoli text trim marble trust innocent business lava fire devote";
+var mnemonic = "strike shield stomach chimney exercise tank stick address month profit border toy";

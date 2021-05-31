@@ -1,1 +1,1 @@
-var mnemonic = "viable thumb market neck exhibit come section captain electric book wife shrimp";
+var mnemonic = "return royal wasp grow supreme pave conduct actress electric swap garden come";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow awesome smile reward document glory left learn differ dismiss budget fox";
+var mnemonic = "random gorilla chief rug notice exact claw fold claw vault split olive";

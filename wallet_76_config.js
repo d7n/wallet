@@ -1,1 +1,1 @@
-var mnemonic = "great scan horse cart dose sword camera ten joy inflict exist elegant";
+var mnemonic = "mail gentle alpha shine math initial march owner segment rifle shell balance";

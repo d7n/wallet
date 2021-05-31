@@ -1,1 +1,1 @@
-var mnemonic = "kitten patient soldier unknown mother ball quality strike disorder color orbit poem";
+var mnemonic = "memory picture lemon ignore insane rich expect vault knee manage tide alone";

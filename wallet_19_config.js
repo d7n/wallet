@@ -1,1 +1,1 @@
-var mnemonic = "cost welcome reduce grape cinnamon palm identify black toy edit comfort volume";
+var mnemonic = "consider dynamic oxygen unhappy neglect soap obscure bone fury slam wing online";

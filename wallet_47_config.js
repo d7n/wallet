@@ -1,1 +1,1 @@
-var mnemonic = "stool multiply essay seminar snake cream exist runway author spray sick client";
+var mnemonic = "black pause tomato dignity such helmet thunder palm farm room lounge again";

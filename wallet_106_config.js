@@ -1,1 +1,1 @@
-var mnemonic = "impact that cost crash maze card check rail squirrel math rubber return";
+var mnemonic = "salt alien moral chalk ceiling rude link mosquito bulk craft raise loud";

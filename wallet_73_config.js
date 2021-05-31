@@ -1,1 +1,1 @@
-var mnemonic = "ocean border ketchup fat truly blanket deer garment mistake umbrella soon book";
+var mnemonic = "spawn again start buzz dawn addict gospel security cattle leaf assume recycle";

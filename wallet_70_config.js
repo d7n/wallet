@@ -1,1 +1,1 @@
-var mnemonic = "inmate permit gift kid arrive danger napkin cube usage quantum fabric possible";
+var mnemonic = "reduce seven sock distance access confirm option summer volcano oyster farm actress";

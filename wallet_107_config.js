@@ -1,1 +1,1 @@
-var mnemonic = "afford crazy behind nation upper devote ripple author client tool volcano arm";
+var mnemonic = "cake govern scissors endorse regular puzzle acquire arrest jar divert evoke wrist";

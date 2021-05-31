@@ -1,1 +1,1 @@
-var mnemonic = "tomato river prepare bean room pitch remind indicate orphan glow crumble post";
+var mnemonic = "have income run baby angry turn party barely scale surprise rifle spread";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel common paddle loud monster seminar mimic ankle young measure angle lab";
+var mnemonic = "budget grit fold despair used brother cause goat guess hazard dragon year";

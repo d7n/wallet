@@ -1,1 +1,1 @@
-var mnemonic = "either anger frog echo prepare punch acquire vault work seed bulb armed";
+var mnemonic = "celery craft awkward road renew boat calm fatigue focus swear deal grief";

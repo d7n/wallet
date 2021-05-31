@@ -1,1 +1,1 @@
-var mnemonic = "enlist fatigue galaxy weather panic valve long nice wish student fault divorce";
+var mnemonic = "purchase grid hope defy lunar loan hint federal divorce draw hybrid price";

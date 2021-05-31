@@ -1,1 +1,1 @@
-var mnemonic = "crazy cancel egg develop dirt dynamic style chef minute cancel replace method";
+var mnemonic = "twin reopen auto issue ball bracket unhappy life note cover brass reform";

@@ -1,1 +1,1 @@
-var mnemonic = "silent limb issue add globe pair output onion trick erase annual keep";
+var mnemonic = "behave cloud peace green narrow elder diagram spell dial essence praise patch";

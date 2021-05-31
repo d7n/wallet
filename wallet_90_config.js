@@ -1,1 +1,1 @@
-var mnemonic = "broken cheese dynamic venue hip season together swallow destroy goat liquid boy";
+var mnemonic = "bullet hood donate neither proof family warm chronic raise hundred clerk sure";

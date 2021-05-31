@@ -1,1 +1,1 @@
-var mnemonic = "valid access mask valid primary surge public apology donkey film eye season";
+var mnemonic = "design chalk supreme miracle monitor fault security equip obey nominee ecology ring";
