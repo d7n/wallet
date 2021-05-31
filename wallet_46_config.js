@@ -1,1 +1,1 @@
-var mnemonic = "armed regular major save slab early boss mention deer lend radar kangaroo";
+var mnemonic = "special dirt meat infant egg sadness unaware negative spider fresh rule foster";

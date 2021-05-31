@@ -1,1 +1,1 @@
-var mnemonic = "resist economy shallow struggle trust civil inhale nest dawn chief giggle judge";
+var mnemonic = "ginger measure renew quit hollow velvet screen round forget dash coil harvest";

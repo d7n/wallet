@@ -1,1 +1,1 @@
-var mnemonic = "video giraffe priority donate bitter melt ice army shy window consider ignore";
+var mnemonic = "spatial garment negative toast glimpse parent beef error sentence hip either thing";

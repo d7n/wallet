@@ -1,1 +1,1 @@
-var mnemonic = "rally that medal afraid alert flush organ recipe garage chronic divorce purse";
+var mnemonic = "leg radio north wink rug pretty amazing whale barely post laptop general";

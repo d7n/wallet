@@ -1,1 +1,1 @@
-var mnemonic = "annual treat tribe barely crisp wasp dilemma correct silver pulp fault dial";
+var mnemonic = "upset box eight staff female salad spend sunny action present loud timber";

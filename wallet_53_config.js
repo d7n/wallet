@@ -1,1 +1,1 @@
-var mnemonic = "dwarf virus doll panda soccer text chest swallow sausage glass wedding detail";
+var mnemonic = "exile urban glimpse grape chair leader acquire hope toddler head craft drive";

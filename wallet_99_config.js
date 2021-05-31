@@ -1,1 +1,1 @@
-var mnemonic = "since whip deer genre first crew render excuse drastic sniff love double";
+var mnemonic = "lemon fossil silly diamond eternal bring police assault rare planet blood invest";

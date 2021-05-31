@@ -1,1 +1,1 @@
-var mnemonic = "surround category female stumble loyal strong major raccoon fury razor donor alley";
+var mnemonic = "grit front lonely harvest range cost banana core material slow scale frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut squeeze attract pony pyramid bone spider kit change target whisper develop";
+var mnemonic = "ski letter toast deposit seed state sort raccoon dumb silly tuna soup";

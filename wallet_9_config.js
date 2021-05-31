@@ -1,1 +1,1 @@
-var mnemonic = "practice typical flame deposit illegal mansion opera embody slender actual sun isolate";
+var mnemonic = "nest mechanic train differ proud mountain angry dwarf lady absorb neither risk";

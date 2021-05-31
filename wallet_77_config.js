@@ -1,1 +1,1 @@
-var mnemonic = "neutral protect tattoo divide draft foster service stock entry swing happy noble";
+var mnemonic = "call column pepper fun put split useless surge access fold left blanket";

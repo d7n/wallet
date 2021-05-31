@@ -1,1 +1,1 @@
-var mnemonic = "echo punch usage hungry card sister tool always calm ordinary nature yard";
+var mnemonic = "busy bone warrior use fire armed express matter business entire stick unit";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse hedgehog lemon female wonder eye media undo inherit shoe extra cool";
+var mnemonic = "rhythm once battle tourist gorilla industry tennis oak click skull bonus gauge";

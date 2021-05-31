@@ -1,1 +1,1 @@
-var mnemonic = "avoid jump joy shuffle awful razor alley mammal shrimp moon human share";
+var mnemonic = "glimpse lobster drastic island ready wide clarify boring link system cargo feature";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate health churn cover ladder forest easy improve alley box quit calm";
+var mnemonic = "where casual bus usual purchase thumb mystery find inmate toy situate million";

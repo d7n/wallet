@@ -1,1 +1,1 @@
-var mnemonic = "civil armor inner digital song barely valve grape trick upon fitness claw";
+var mnemonic = "subway benefit heavy column brown also tree trick jewel tired concert sentence";

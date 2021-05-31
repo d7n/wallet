@@ -1,1 +1,1 @@
-var mnemonic = "brain retreat outer increase syrup hand caught shield cram shift purchase region";
+var mnemonic = "win mutual index cross parrot gauge hub key silver city galaxy bomb";

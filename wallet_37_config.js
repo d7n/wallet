@@ -1,1 +1,1 @@
-var mnemonic = "surround problem novel violin render target friend noodle proud milk sight confirm";
+var mnemonic = "check judge crash hero save scatter bright melt glove bubble human save";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle grace puppy wink struggle easy until marine dilemma mandate virus glow";
+var mnemonic = "hollow invite nephew plug pear entry crowd gallery book indicate profit decide";

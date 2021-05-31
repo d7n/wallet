@@ -1,1 +1,1 @@
-var mnemonic = "judge exact between saddle hospital screen month want clock equal upper ivory";
+var mnemonic = "glide reason hurt depart tiger beach soft winter upon female chronic rotate";

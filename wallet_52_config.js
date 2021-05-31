@@ -1,1 +1,1 @@
-var mnemonic = "put license nation lunch girl horse report between grocery coast slab dignity";
+var mnemonic = "brown ketchup chuckle ancient cousin toilet execute noodle embrace goose have alter";

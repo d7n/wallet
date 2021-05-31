@@ -1,1 +1,1 @@
-var mnemonic = "choose bean another donor right veteran feature similar curve lucky almost toss";
+var mnemonic = "forget steel segment connect width shed price unknown fringe put clock elbow";

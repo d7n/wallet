@@ -1,1 +1,1 @@
-var mnemonic = "insect flock fix coyote behave cream key because digital arrange lonely hope";
+var mnemonic = "trick tomorrow avoid pair donate run debris major emotion card raw offer";

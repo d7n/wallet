@@ -1,1 +1,1 @@
-var mnemonic = "excuse pumpkin found curtain ripple feature high couch pen enter mansion dilemma";
+var mnemonic = "office tomorrow kangaroo proof ankle library news domain capital beef merge tragic";

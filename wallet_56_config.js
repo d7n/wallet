@@ -1,1 +1,1 @@
-var mnemonic = "endless bright shed tornado hunt deny nominee slogan rubber wreck churn problem";
+var mnemonic = "present solution rotate fee vivid guitar olive mention shove exhibit decrease people";

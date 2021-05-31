@@ -1,1 +1,1 @@
-var mnemonic = "indoor crater helmet gasp discover outdoor idea short august thing canvas game";
+var mnemonic = "slight diary oblige barrel rural aware general inform field soup boss room";

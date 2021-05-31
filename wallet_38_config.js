@@ -1,1 +1,1 @@
-var mnemonic = "zone unlock tide trigger foot demise nephew final vicious rabbit hub patch";
+var mnemonic = "salmon bitter drift cabin vendor guard toast document opinion faith abuse remove";

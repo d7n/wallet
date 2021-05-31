@@ -1,1 +1,1 @@
-var mnemonic = "half wage master nurse wasp radio garment drastic loud broken pluck ozone";
+var mnemonic = "remain bounce blind hazard ask mandate kind garbage loop exchange slogan cake";

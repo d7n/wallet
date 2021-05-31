@@ -1,1 +1,1 @@
-var mnemonic = "museum bounce midnight crunch fabric ugly history clarify vacuum hour gas indicate";
+var mnemonic = "unfair oil tube life paper indicate swift retreat almost copper swing scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "dad spoil priority mimic adapt humble chef claim work morning world wrong";
+var mnemonic = "brass share fish shoe swarm museum neither tired sort indicate insect alien";

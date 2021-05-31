@@ -1,1 +1,1 @@
-var mnemonic = "funny deer bubble light van stereo cat throw problem angry brush melody";
+var mnemonic = "direct essence egg shaft wife banana mechanic clean spider beef mixed update";

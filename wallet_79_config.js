@@ -1,1 +1,1 @@
-var mnemonic = "client scout feature rubber monster velvet ceiling awake mom real robot security";
+var mnemonic = "live valve quote fire people anchor original front absent loyal promote address";

@@ -1,1 +1,1 @@
-var mnemonic = "online general surface choice need crew atom have field dance can put";
+var mnemonic = "elite large unhappy diary remember jelly estate burger nasty quote loan alarm";

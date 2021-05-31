@@ -1,1 +1,1 @@
-var mnemonic = "false bronze burst repeat black volcano gloom elite odor perfect project potato";
+var mnemonic = "trial dwarf march erase flash city two rookie impact virus bicycle relax";

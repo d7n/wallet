@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur antenna essay glance keen tomato pass undo spread turn bench tumble";
+var mnemonic = "protect taxi light chest dress kick hour menu tube gift brisk suit";

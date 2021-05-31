@@ -1,1 +1,1 @@
-var mnemonic = "sort deny buzz retreat surprise afford gadget left input token hundred toast";
+var mnemonic = "day lava cherry food smile ticket notice width castle cheap plunge oven";

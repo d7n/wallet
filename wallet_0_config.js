@@ -1,1 +1,1 @@
-var mnemonic = "swift picture illness vanish innocent vendor witness certain defense pitch this purity";
+var mnemonic = "donor proud example multiply type danger earn laundry slide ketchup govern border";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle cool kick art supreme treat repair purchase bunker object aisle wisdom";
+var mnemonic = "ranch behind bicycle able blossom festival debris potato coach cradle screen calm";

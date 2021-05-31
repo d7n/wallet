@@ -1,1 +1,1 @@
-var mnemonic = "hawk hospital foot quantum human depth great annual lonely estate weapon luggage";
+var mnemonic = "employ become bargain solar replace elite hover crush ability human dove soap";

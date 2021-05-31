@@ -1,1 +1,1 @@
-var mnemonic = "drip captain slab harsh salute obscure sick lumber blue anchor elegant brick";
+var mnemonic = "laptop sweet stable poet truth afraid border delay neutral coffee trip already";

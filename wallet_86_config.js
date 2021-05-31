@@ -1,1 +1,1 @@
-var mnemonic = "utility welcome bamboo room cram shoulder hurt carbon size public until like";
+var mnemonic = "empower lock behave cabbage amount shy bridge slush bicycle cat acquire peasant";

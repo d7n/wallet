@@ -1,1 +1,1 @@
-var mnemonic = "large shaft rookie run artefact weekend dolphin trend famous advance trip chest";
+var mnemonic = "neither piano dish mandate huge pride bacon note copper label lady legal";

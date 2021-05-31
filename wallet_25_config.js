@@ -1,1 +1,1 @@
-var mnemonic = "nothing dynamic satisfy turkey toddler plate pond hip size unfold surge destroy";
+var mnemonic = "solution scare bleak artwork legend bleak brisk dwarf priority skull speed sweet";

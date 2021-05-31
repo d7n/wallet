@@ -1,1 +1,1 @@
-var mnemonic = "negative wear dose million genius document pony gesture object observe feed above";
+var mnemonic = "holiday dust dwarf giraffe bread echo balance fly forum acid quantum carpet";

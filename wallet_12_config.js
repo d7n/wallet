@@ -1,1 +1,1 @@
-var mnemonic = "glass case turtle stadium prosper humor because stumble correct outer breeze cradle";
+var mnemonic = "lizard rebuild gesture burden speak spoil prepare spy light plate dog draft";

@@ -1,1 +1,1 @@
-var mnemonic = "horror gentle grocery electric next axis belt trash oval surprise buffalo share";
+var mnemonic = "humble budget couch model lottery text message window oak jelly garment citizen";

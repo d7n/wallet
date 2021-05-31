@@ -1,1 +1,1 @@
-var mnemonic = "shove outdoor van arena razor magnet summer horror payment wise cage always";
+var mnemonic = "mass beach calm polar now curtain weather apart radar share visual pig";

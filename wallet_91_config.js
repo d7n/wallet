@@ -1,1 +1,1 @@
-var mnemonic = "palm subway decorate true upon slim wheat drive health price mandate pizza";
+var mnemonic = "moon ski obey flag tiny glimpse document enhance bring tourist shine depart";

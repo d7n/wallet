@@ -1,1 +1,1 @@
-var mnemonic = "ancient where hidden minute coin magnet lounge federal auto wisdom special abstract";
+var mnemonic = "unfair outer edge tonight category word banner buzz shaft rely jeans quick";

@@ -1,1 +1,1 @@
-var mnemonic = "change witness stay rigid render garment jaguar cruel disease nation ramp surround";
+var mnemonic = "friend fever plastic rotate unknown local boil crucial repeat mushroom fabric peasant";

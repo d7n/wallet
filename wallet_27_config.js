@@ -1,1 +1,1 @@
-var mnemonic = "basket chuckle crunch pudding arrest jazz about retire pull library sniff clerk";
+var mnemonic = "silent chaos knife walnut lamp gesture pistol forum zone core win can";

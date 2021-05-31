@@ -1,1 +1,1 @@
-var mnemonic = "destroy inject return license fox best warm above ritual fluid luxury impose";
+var mnemonic = "metal then crime camp siren image shoe switch real fall lecture hope";

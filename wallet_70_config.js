@@ -1,1 +1,1 @@
-var mnemonic = "matrix wish ghost spot arrest motion stairs spin spirit crisp gauge reunion";
+var mnemonic = "armor stable ensure flower transfer document cigar celery bacon anchor mobile lend";

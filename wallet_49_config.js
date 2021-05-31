@@ -1,1 +1,1 @@
-var mnemonic = "grief city vibrant evidence settle token mansion embark special question region opera";
+var mnemonic = "woman hockey shuffle kiss clump feed flame inmate circle ozone lamp silly";

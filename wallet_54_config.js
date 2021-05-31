@@ -1,1 +1,1 @@
-var mnemonic = "veteran radar piano minimum aim wing pear double blush renew opinion bundle";
+var mnemonic = "fringe option vote hidden earth raw range tray pencil track boring resource";

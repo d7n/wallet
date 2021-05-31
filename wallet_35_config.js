@@ -1,1 +1,1 @@
-var mnemonic = "cash cabbage match fantasy energy improve subject glass lawn choice barely wrestle";
+var mnemonic = "believe way profit brick jacket shrug myself hundred topic collect logic reveal";

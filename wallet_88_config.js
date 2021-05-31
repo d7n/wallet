@@ -1,1 +1,1 @@
-var mnemonic = "brush industry bone beauty dinner away cement rib nation great betray light";
+var mnemonic = "sibling rescue impulse mule square cart patrol burden school prosper price fatigue";

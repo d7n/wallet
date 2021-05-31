@@ -1,1 +1,1 @@
-var mnemonic = "radar earn cover ribbon mention fame enable prison feel south once pass";
+var mnemonic = "random pulse dove direct enforce suit affair crazy dust face clown envelope";

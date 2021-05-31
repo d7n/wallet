@@ -1,1 +1,1 @@
-var mnemonic = "organ distance engage jelly depart pilot skull reunion space large width gaze";
+var mnemonic = "episode web program museum butter demise damage author busy laundry leader all";

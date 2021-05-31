@@ -1,1 +1,1 @@
-var mnemonic = "coin kiwi maple desert since away lobster timber child front skull budget";
+var mnemonic = "cruise fence weather peasant eyebrow must cook sketch easy quiz sketch worry";

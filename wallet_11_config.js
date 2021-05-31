@@ -1,1 +1,1 @@
-var mnemonic = "park erode slight silver mind strong lava candy empower seek swear pause";
+var mnemonic = "drip pig isolate stomach acquire velvet dance margin comic baby expand drill";

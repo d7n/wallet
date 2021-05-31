@@ -1,1 +1,1 @@
-var mnemonic = "wish immense december uphold tornado nut paper slender coin order cream sleep";
+var mnemonic = "burst sell spring dinosaur whip seed laundry velvet flush square spatial uncle";

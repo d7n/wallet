@@ -1,1 +1,1 @@
-var mnemonic = "draft ship evil peasant solar maximum magic peanut remember helmet afraid crunch";
+var mnemonic = "second rebel negative audit leaf arena science cupboard heavy merit when split";

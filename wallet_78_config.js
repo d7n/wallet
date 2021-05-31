@@ -1,1 +1,1 @@
-var mnemonic = "latin capable clean ranch family champion warfare ahead annual melody aim habit";
+var mnemonic = "liberty train hidden bone enact subject festival disagree author trouble flower battle";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance pioneer mix smoke bright item damage photo despair defy stem only";
+var mnemonic = "inquiry benefit city umbrella consider since version amount mad spider gadget unknown";

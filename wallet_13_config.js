@@ -1,1 +1,1 @@
-var mnemonic = "exchange satoshi swap myself hamster this glance laugh pause vivid person glance";
+var mnemonic = "attract month actual unable sport link sweet where perfect scale canyon canoe";

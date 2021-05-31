@@ -1,1 +1,1 @@
-var mnemonic = "plug credit accident ancient rival trim sure spatial lunar walnut bench neck";
+var mnemonic = "pumpkin throw leader eyebrow cabin actor truck trim fancy perfect accuse can";

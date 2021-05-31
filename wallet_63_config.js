@@ -1,1 +1,1 @@
-var mnemonic = "husband chimney wait menu bulb permit rally camera roof cruel bamboo brick";
+var mnemonic = "unfold twelve age rich maid satisfy bottom visual proof stomach soap under";

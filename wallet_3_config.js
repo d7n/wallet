@@ -1,1 +1,1 @@
-var mnemonic = "banner noodle toss awake remember asthma venture can hedgehog blush rabbit scorpion";
+var mnemonic = "traffic cousin glare armor engine oppose swim lesson feed speed pig wage";

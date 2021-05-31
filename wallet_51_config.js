@@ -1,1 +1,1 @@
-var mnemonic = "hidden much squeeze shrug exile zebra flee fashion original blouse law strike";
+var mnemonic = "weird fox faculty october bless grid exist lemon you hunt account search";

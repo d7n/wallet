@@ -1,1 +1,1 @@
-var mnemonic = "wrong seek gold smart catch world flavor again dad satisfy mention foster";
+var mnemonic = "spirit off promote cabbage they fortune hunt roof lab letter envelope profit";

@@ -1,1 +1,1 @@
-var mnemonic = "marine faculty tribe vault robust circle feel sign drill vital coast drill";
+var mnemonic = "panic kiss ball plunge clay atom degree flight smart portion canyon bleak";

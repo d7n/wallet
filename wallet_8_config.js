@@ -1,1 +1,1 @@
-var mnemonic = "number canvas garbage twenty pioneer argue embark fame solve stereo judge bird";
+var mnemonic = "crucial menu seminar group social funny liar zebra indicate slender trash latin";

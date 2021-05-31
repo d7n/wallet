@@ -1,1 +1,1 @@
-var mnemonic = "pistol daughter tobacco chaos age tourist cake real someone coffee vibrant swift";
+var mnemonic = "siege knee tower party tunnel west favorite rice wine family pool relief";

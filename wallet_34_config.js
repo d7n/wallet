@@ -1,1 +1,1 @@
-var mnemonic = "hair enlist rebel budget degree lucky large nice anxiety neither patient random";
+var mnemonic = "blossom exact allow tennis rural list execute argue embody one cluster bamboo";

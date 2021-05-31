@@ -1,1 +1,1 @@
-var mnemonic = "invest twelve surprise arch under risk tiny radio garlic help quit switch";
+var mnemonic = "patrol sick vote afraid fence only catch aware yard depend hat ball";

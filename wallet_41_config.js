@@ -1,1 +1,1 @@
-var mnemonic = "plate sense width olympic shrug access tail later identify client check venture";
+var mnemonic = "also gospel behave toy account lawsuit glass flower good settle observe basket";

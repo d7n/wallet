@@ -1,1 +1,1 @@
-var mnemonic = "kite spike fluid nation humor grocery average main address kidney hat blossom";
+var mnemonic = "six pool main possible toss business tuna all depart flight essay come";

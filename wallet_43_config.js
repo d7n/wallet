@@ -1,1 +1,1 @@
-var mnemonic = "wife load master degree pride cycle craft pill digital acquire hungry maple";
+var mnemonic = "memory basket sense flight acid test zero appear aim grid craft hint";

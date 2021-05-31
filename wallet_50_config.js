@@ -1,1 +1,1 @@
-var mnemonic = "uncover estate thank photo nest cushion history input display invest ridge mechanic";
+var mnemonic = "giraffe quick blade matter harsh trust oblige lizard chef sea era afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "display tourist dance trophy exercise solid useless inhale wrestle acid spread sibling";
+var mnemonic = "hour conduct phrase spell pond cake vast outdoor cherry food staff know";

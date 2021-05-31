@@ -1,1 +1,1 @@
-var mnemonic = "author nephew reward abandon surprise crawl embody slam armed spy sketch solve";
+var mnemonic = "wink clay drive reunion just orphan super metal wedding tragic basket citizen";

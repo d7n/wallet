@@ -1,1 +1,1 @@
-var mnemonic = "cake project intact organ error index able cloth despair spike whale desert";
+var mnemonic = "brush dolphin category bless coil blue glory slush wagon ticket slot apology";

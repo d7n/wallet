@@ -1,1 +1,1 @@
-var mnemonic = "panther mountain twenty gas mistake cousin apology detect work dutch edit scorpion";
+var mnemonic = "thunder state silver spot cash cause drive use flee gesture tragic member";

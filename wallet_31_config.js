@@ -1,1 +1,1 @@
-var mnemonic = "knee disagree visa million cloud visual parade animal toward cloth volcano region";
+var mnemonic = "seven rookie cost waste film slush under spell monkey grace reunion enroll";

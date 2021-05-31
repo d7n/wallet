@@ -1,1 +1,1 @@
-var mnemonic = "ask logic soft supply yard engage art motor call disagree during panel";
+var mnemonic = "boil suit ticket dog wreck tobacco boil acid price kite strike cute";

@@ -1,1 +1,1 @@
-var mnemonic = "together hundred control make wine eager genre history very erode punch twelve";
+var mnemonic = "enact galaxy human monster reform lunar scan give squirrel audit voice board";

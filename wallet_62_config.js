@@ -1,1 +1,1 @@
-var mnemonic = "test ring tornado smile nothing about dog avoid survey rough amazing piano";
+var mnemonic = "insect teach erase door stool scout guitar afford cruise undo online load";

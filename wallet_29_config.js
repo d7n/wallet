@@ -1,1 +1,1 @@
-var mnemonic = "toddler angle bubble gloom security shift outdoor wrong around one regular monster";
+var mnemonic = "position please kitten keep rule address repair powder atom group chase ritual";

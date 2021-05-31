@@ -1,1 +1,1 @@
-var mnemonic = "style hello pelican diet brand claim blanket charge what submit head crowd";
+var mnemonic = "sign acoustic clog scan robot rose green slight rally logic dash toss";

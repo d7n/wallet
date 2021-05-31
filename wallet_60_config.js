@@ -1,1 +1,1 @@
-var mnemonic = "hamster casual grain position sing universe appear word supply boil joy bubble";
+var mnemonic = "trumpet electric discover adjust horn mask innocent upon organ sketch dumb hover";

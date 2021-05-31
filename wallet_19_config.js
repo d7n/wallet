@@ -1,1 +1,1 @@
-var mnemonic = "voice umbrella century bike traffic warrior sick caught admit banana type legal";
+var mnemonic = "company digital process cabbage fit cushion spend cupboard hotel knock combine expire";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious arrest large fossil jump lens indoor volcano true need gauge easy";
+var mnemonic = "finish general host picnic appear medal culture desk expire chaos enemy brave";

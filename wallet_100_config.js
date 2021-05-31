@@ -1,1 +1,1 @@
-var mnemonic = "grid disease cigar rapid hire session effort sibling swamp scale robust wait";
+var mnemonic = "smile timber slot butter tree dose cart upon found pull pony timber";
