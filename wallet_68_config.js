@@ -1,1 +1,1 @@
-var mnemonic = "slam rapid achieve trick plastic select flush wet tree fossil leaf raw";
+var mnemonic = "urge result famous danger fan purse travel visa crush yard hamster almost";

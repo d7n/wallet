@@ -1,1 +1,1 @@
-var mnemonic = "steel unfair language mad couple hair play manage oxygen shoe security time";
+var mnemonic = "comic final gorilla fame over wisdom month police road dilemma clump churn";

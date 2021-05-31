@@ -1,1 +1,1 @@
-var mnemonic = "wear very modify wisdom dentist shell already again exchange captain owner minimum";
+var mnemonic = "access swear another banana decrease penalty bag swim emotion tuition business pulse";

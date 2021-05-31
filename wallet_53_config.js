@@ -1,1 +1,1 @@
-var mnemonic = "one jeans vicious ethics cheap glimpse blast tenant cherry banner shoot hybrid";
+var mnemonic = "inhale green deny ball view burden like maze food olive return remain";

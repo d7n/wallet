@@ -1,1 +1,1 @@
-var mnemonic = "prevent electric fragile smooth puzzle diesel tape shield sight love episode reunion";
+var mnemonic = "theory organ silly enact gate suffer owner inspire mango almost lift cushion";

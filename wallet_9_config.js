@@ -1,1 +1,1 @@
-var mnemonic = "region indicate decide joy chest soccer travel option switch wealth click slot";
+var mnemonic = "museum badge flip crouch wrist emotion category hospital pulse naive wrap cake";

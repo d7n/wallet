@@ -1,1 +1,1 @@
-var mnemonic = "balance around hole gorilla napkin rotate remain catalog capable flush olympic pear";
+var mnemonic = "below lawn kangaroo sick course margin food animal maid timber equip push";

@@ -1,1 +1,1 @@
-var mnemonic = "tool mosquito pigeon wait tool maid nest cement fiber useless humble cricket";
+var mnemonic = "spin toy comfort glad output razor twelve scene reveal lemon habit again";

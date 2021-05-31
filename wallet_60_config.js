@@ -1,1 +1,1 @@
-var mnemonic = "laundry loud agree family blame draw main magnet paddle student eyebrow knee";
+var mnemonic = "omit stock theme wait piano few absorb into deputy flash flower motor";

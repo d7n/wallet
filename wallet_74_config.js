@@ -1,1 +1,1 @@
-var mnemonic = "omit eight gift liar midnight first veteran wave cage chronic oppose danger";
+var mnemonic = "list trust else tool olive sight cross rib sheriff trim panel antenna";

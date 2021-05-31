@@ -1,1 +1,1 @@
-var mnemonic = "ice lens enable fat pulse inspire sauce human april misery suit horse";
+var mnemonic = "title boat junior quarter tape urge thrive movie indicate juice alpha matter";

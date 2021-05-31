@@ -1,1 +1,1 @@
-var mnemonic = "dutch push author twin detect cube solid zebra spin egg rice cage";
+var mnemonic = "near seed forward canal fuel wide future desk allow design army bitter";

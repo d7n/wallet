@@ -1,1 +1,1 @@
-var mnemonic = "prefer tomorrow saddle tell luggage sea raven drum popular bubble hold senior";
+var mnemonic = "tip cluster almost warm panel audit talk truth wave arctic fabric true";

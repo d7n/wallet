@@ -1,1 +1,1 @@
-var mnemonic = "myth bar rabbit deny swamp stomach rally warrior when impulse bean album";
+var mnemonic = "cook about vault relax image elephant expand expire label proof gallery avocado";

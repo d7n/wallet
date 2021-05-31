@@ -1,1 +1,1 @@
-var mnemonic = "earth muscle indoor step bachelor wasp craft soup beauty awkward hat bridge";
+var mnemonic = "globe into bottom desk tackle wedding sock trophy track parrot method rabbit";

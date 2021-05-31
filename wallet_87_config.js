@@ -1,1 +1,1 @@
-var mnemonic = "language chef once kid either awful palace unfair bargain cart rich corn";
+var mnemonic = "dish cup toe fork belt sense envelope base decrease emotion long attack";

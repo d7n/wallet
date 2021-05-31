@@ -1,1 +1,1 @@
-var mnemonic = "reject document online maze dog pull firm gentle tortoise tone exhibit floor";
+var mnemonic = "nice option town vocal payment common drip boy calm insect kitten raven";

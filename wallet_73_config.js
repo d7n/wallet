@@ -1,1 +1,1 @@
-var mnemonic = "ramp swim often ski chapter rule vessel upset text drink simple you";
+var mnemonic = "cabbage exchange steel october lonely wide leisure produce common gloom cherry pen";

@@ -1,1 +1,1 @@
-var mnemonic = "find decline stay ski rude away wisdom doll tortoise border couple pencil";
+var mnemonic = "piece forum wood inhale sort garage knock hospital cricket retreat token damp";

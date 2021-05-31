@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mandate hood bargain coconut grass include foil defy final flavor slab";
+var mnemonic = "angry feed salon soda bird marble honey uncle mercy toss ticket assume";

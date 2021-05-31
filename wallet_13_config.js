@@ -1,1 +1,1 @@
-var mnemonic = "bottom hero cave april lunch ship phone idea steel display sibling climb";
+var mnemonic = "canyon pilot east settle citizen amount usage test humor addict away cabin";

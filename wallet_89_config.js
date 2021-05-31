@@ -1,1 +1,1 @@
-var mnemonic = "wrist wash screen moment index arena supply spatial grain alone twin artist";
+var mnemonic = "tennis clerk apart broccoli grow learn sock three awake pause impose mad";

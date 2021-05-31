@@ -1,1 +1,1 @@
-var mnemonic = "quote juice sight arctic laundry flush assault use follow switch provide arrive";
+var mnemonic = "add squeeze piece devote celery grab inform acoustic relax riot unit mind";

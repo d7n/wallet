@@ -1,1 +1,1 @@
-var mnemonic = "tail pottery wine cute flock inhale risk clump nation west yellow gentle";
+var mnemonic = "medal help bargain casual purchase planet keen regret credit task pyramid clap";

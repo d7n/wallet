@@ -1,1 +1,1 @@
-var mnemonic = "sample solve until code neither ramp use buffalo normal august put practice";
+var mnemonic = "solid enact egg carpet post dizzy weird manual dove broccoli dice broccoli";

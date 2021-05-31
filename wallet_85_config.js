@@ -1,1 +1,1 @@
-var mnemonic = "order kit maid camp print laundry bread sentence lyrics language frequent remain";
+var mnemonic = "wisdom submit blossom burger trade forum pattern arm emotion island clog family";

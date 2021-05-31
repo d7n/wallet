@@ -1,1 +1,1 @@
-var mnemonic = "quality amazing clip cluster put render invite near valley toddler elbow kite";
+var mnemonic = "equal erase impose electric rare hedgehog reflect speak photo speed proud rough";

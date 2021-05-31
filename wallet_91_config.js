@@ -1,1 +1,1 @@
-var mnemonic = "fatal language state weekend wrestle mammal cigar bounce swear birth theme lesson";
+var mnemonic = "usual warrior burst three drama battle crime moon hand myself vast subway";

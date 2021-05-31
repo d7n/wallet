@@ -1,1 +1,1 @@
-var mnemonic = "lunar rice glide acoustic crane icon common sunny oxygen script column lobster";
+var mnemonic = "soccer path goddess jeans rifle goat security transfer fruit balance stereo visit";

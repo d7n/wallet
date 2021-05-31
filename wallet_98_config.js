@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo divorce recipe census stereo biology loud thought mix fruit add escape";
+var mnemonic = "solution knee tilt there noise rack chase blue fog sausage divert fault";

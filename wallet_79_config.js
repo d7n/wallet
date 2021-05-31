@@ -1,1 +1,1 @@
-var mnemonic = "shaft scare ugly island gospel inject collect potato cute hand bike season";
+var mnemonic = "rapid fatal twin mother faint explain accuse tunnel just identify edge you";

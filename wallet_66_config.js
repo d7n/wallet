@@ -1,1 +1,1 @@
-var mnemonic = "affair tornado trust rose economy thrive urge green market snack peace over";
+var mnemonic = "there rack grid code ridge demise spike frozen west parrot mesh book";

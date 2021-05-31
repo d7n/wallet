@@ -1,1 +1,1 @@
-var mnemonic = "mosquito panda organ bread joy venue never cricket return parade assume crew";
+var mnemonic = "mesh eagle across crowd favorite ability pool over catch beef decide village";

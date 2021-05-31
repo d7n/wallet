@@ -1,1 +1,1 @@
-var mnemonic = "object arrest illness catalog gaze seat blood divert rocket peasant brass useless";
+var mnemonic = "member average silk boost recall jazz detect toddler net fatal jungle soap";

@@ -1,1 +1,1 @@
-var mnemonic = "ice volcano blue lizard ocean question panic arctic ill crime trade expire";
+var mnemonic = "labor sail valid stone daring rail road delay office stairs letter high";

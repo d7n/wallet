@@ -1,1 +1,1 @@
-var mnemonic = "wheat fetch antenna belt cause wonder infant square humble remove race giraffe";
+var mnemonic = "abuse damage bulb toast tennis hunt color exercise mule coyote sponsor huge";

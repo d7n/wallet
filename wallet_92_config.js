@@ -1,1 +1,1 @@
-var mnemonic = "young kid gap priority spin body pioneer match student swamp farm grass";
+var mnemonic = "oyster rigid tiny pill struggle owner turn opinion flat coral blame wage";

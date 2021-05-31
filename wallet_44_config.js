@@ -1,1 +1,1 @@
-var mnemonic = "basket sheriff before device someone add group copper abandon section seminar one";
+var mnemonic = "foster stool clay inch message sock kangaroo day mule youth series cabin";

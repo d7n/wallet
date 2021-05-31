@@ -1,1 +1,1 @@
-var mnemonic = "boat issue razor catalog avocado belt nut salt solid yard disagree arrive";
+var mnemonic = "legal reject pretty lyrics vast panel suggest tobacco mammal enjoy gas obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain fame trophy volume manage image day order dumb guess genuine twin";
+var mnemonic = "quantum inhale total tonight twice dentist party parent spatial equal dial useful";

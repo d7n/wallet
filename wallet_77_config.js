@@ -1,1 +1,1 @@
-var mnemonic = "stock cage exit carry skirt hair view boring bottom taste perfect program";
+var mnemonic = "supply joy version fury arch hungry view satisfy minimum symbol matter blade";

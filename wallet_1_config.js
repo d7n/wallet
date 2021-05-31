@@ -1,1 +1,1 @@
-var mnemonic = "divorce crunch inject absorb stumble hurt timber cause draw high often feed";
+var mnemonic = "dumb nose anger object illegal much garden eager fatal enjoy little soft";

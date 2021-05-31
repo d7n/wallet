@@ -1,1 +1,1 @@
-var mnemonic = "trumpet zoo people absorb spirit bacon soda govern inherit obscure pelican tube";
+var mnemonic = "beef tackle bargain diamond stick gallery high gravity punch clog document crouch";

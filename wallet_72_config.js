@@ -1,1 +1,1 @@
-var mnemonic = "license program above used cruel crew purse park envelope until raccoon dance";
+var mnemonic = "wonder swallow state chase real city minute hospital dream excite load nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold gorilla castle sick recall educate airport install account client suggest brick";
+var mnemonic = "exist midnight spatial limb unfair shell almost wet nut slice lucky trust";

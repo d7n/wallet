@@ -1,1 +1,1 @@
-var mnemonic = "remember march scan mosquito treat machine screen educate slim mail blood acquire";
+var mnemonic = "spray uncover forum fiction turtle grant drip tonight meadow jump virus benefit";

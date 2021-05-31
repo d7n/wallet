@@ -1,1 +1,1 @@
-var mnemonic = "real piano hazard zero note replace dust episode once mystery rookie letter";
+var mnemonic = "dentist system celery tissue devote loan weasel opinion syrup annual jaguar mushroom";

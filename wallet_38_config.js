@@ -1,1 +1,1 @@
-var mnemonic = "clutch suggest motion leader orchard hunt come that soldier input hold lunch";
+var mnemonic = "reduce sport sign ecology elite shield lion bracket run apart inch evoke";

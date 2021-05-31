@@ -1,1 +1,1 @@
-var mnemonic = "maid must tail firm appear moral grant about perfect path twice toy";
+var mnemonic = "system impact captain tunnel alone response kangaroo nasty loan furnace jungle wrong";

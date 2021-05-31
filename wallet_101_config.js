@@ -1,1 +1,1 @@
-var mnemonic = "foil amateur above elite wolf health humble acquire phrase sad moon hub";
+var mnemonic = "immense quiz item balcony love else basket village captain blame code intact";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury follow toast remember memory guard calm pyramid wait detect eye ladder";
+var mnemonic = "subject adapt equip melody chief cycle antique cement warfare green valid exercise";

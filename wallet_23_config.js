@@ -1,1 +1,1 @@
-var mnemonic = "regular tape insect until fall boat quote wrestle opinion protect goose grid";
+var mnemonic = "depend candy labor toward thought library because medal limit benefit hollow dry";

@@ -1,1 +1,1 @@
-var mnemonic = "common dune imitate disagree husband payment napkin glove faint absorb animal enhance";
+var mnemonic = "soon mammal erupt asset syrup enhance vicious trend earn swarm misery title";

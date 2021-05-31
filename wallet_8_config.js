@@ -1,1 +1,1 @@
-var mnemonic = "possible destroy drama wagon sick relief large injury garlic half liberty rule";
+var mnemonic = "scale canvas soldier pool salute target salon sort shift outdoor crowd siren";

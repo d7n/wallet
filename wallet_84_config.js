@@ -1,1 +1,1 @@
-var mnemonic = "steel degree release universe circle bridge people ice enact interest coconut end";
+var mnemonic = "beach monkey turtle minute lemon sample mansion cloud keen tail practice rotate";

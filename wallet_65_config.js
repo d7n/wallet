@@ -1,1 +1,1 @@
-var mnemonic = "little alcohol outside ship crouch guilt file belt favorite exercise noodle trouble";
+var mnemonic = "glance history poem mountain observe worth favorite find inspire cram glad good";

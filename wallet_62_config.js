@@ -1,1 +1,1 @@
-var mnemonic = "size settle offer hunt work moment sister fetch stuff member symbol practice";
+var mnemonic = "garbage custom eternal fashion hold pair fortune piano benefit average mind under";

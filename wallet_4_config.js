@@ -1,1 +1,1 @@
-var mnemonic = "into lazy mind coyote faint rotate brush meat stuff notice label lucky";
+var mnemonic = "prepare setup reason inform unaware humor nothing search during vivid gentle neck";

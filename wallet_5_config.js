@@ -1,1 +1,1 @@
-var mnemonic = "undo vital maze curtain olive say elder appear unfair mushroom lift bunker";
+var mnemonic = "pupil man human maximum scout grunt drill garment deposit expire lazy fee";

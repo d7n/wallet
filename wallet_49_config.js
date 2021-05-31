@@ -1,1 +1,1 @@
-var mnemonic = "host online manage emotion aim cause mail all bullet deputy solve hundred";
+var mnemonic = "curtain keep habit sustain sorry lecture mosquito trend guilt orbit fit cave";

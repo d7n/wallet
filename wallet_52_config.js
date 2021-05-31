@@ -1,1 +1,1 @@
-var mnemonic = "survey quality glare lady hurt weather finish eternal sun hurry prevent winter";
+var mnemonic = "video today able aunt mad critic state palm scorpion eagle bench cute";

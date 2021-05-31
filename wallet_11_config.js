@@ -1,1 +1,1 @@
-var mnemonic = "rate adult control aim pig moon medal forget beef option potato erupt";
+var mnemonic = "pen room monster waste parade disorder what multiply order name auction express";

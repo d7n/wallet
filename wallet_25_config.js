@@ -1,1 +1,1 @@
-var mnemonic = "venture stone afraid fluid ordinary slender govern viable boy pave arrest amateur";
+var mnemonic = "town timber hood basket decrease document bronze steel pair note empower video";

@@ -1,1 +1,1 @@
-var mnemonic = "hover seminar admit stadium wide mushroom you two misery collect switch climb";
+var mnemonic = "argue barely vivid loan skate spoon melody chalk phrase skill snack insane";

@@ -1,1 +1,1 @@
-var mnemonic = "whale nest garlic project awake attract term erase birth bundle flip wet";
+var mnemonic = "ozone record monster sing check throw absurd slide this frequent eight sort";

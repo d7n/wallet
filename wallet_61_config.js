@@ -1,1 +1,1 @@
-var mnemonic = "resist fat swing coconut tail dwarf carry weather provide rookie neutral tag";
+var mnemonic = "asthma design slice object success agent about finish pelican dune love liberty";

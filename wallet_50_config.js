@@ -1,1 +1,1 @@
-var mnemonic = "this keen umbrella super cereal doll siege someone shaft replace minute blanket";
+var mnemonic = "behave equal cup pause curious save stool utility bulk chuckle best arrange";

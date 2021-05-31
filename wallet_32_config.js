@@ -1,1 +1,1 @@
-var mnemonic = "wish offer whale jealous usual language sauce village daughter artefact current purity";
+var mnemonic = "clump glue differ spray wolf depend stick toe eye wreck top addict";

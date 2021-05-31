@@ -1,1 +1,1 @@
-var mnemonic = "artist foam carbon check chaos special help stamp city range include property";
+var mnemonic = "erase retire mask december fragile salad holiday session size someone keen wheel";

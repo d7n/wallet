@@ -1,1 +1,1 @@
-var mnemonic = "language try have afraid sweet fabric speak patient denial tape bright present";
+var mnemonic = "horn animal egg urge group heart sign viable mad person produce embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "will sorry stand round bomb enter awake round cruise finish mammal economy";
+var mnemonic = "useless toy impulse soda force grape switch fit habit escape ring loud";

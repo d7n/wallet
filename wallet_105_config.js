@@ -1,1 +1,1 @@
-var mnemonic = "where great traffic initial beach define fold rude piece someone apple casual";
+var mnemonic = "winter mandate ethics cream margin hard ask frequent logic impulse plate pink";

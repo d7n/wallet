@@ -1,1 +1,1 @@
-var mnemonic = "blast width diamond fiscal ginger alert because seed tide diesel beef universe";
+var mnemonic = "owner topple impose panic patrol wood rail inform boat idea limit resource";

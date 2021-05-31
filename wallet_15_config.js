@@ -1,1 +1,1 @@
-var mnemonic = "tuition pill wasp combine session rebel mention glass sponsor novel stove vendor";
+var mnemonic = "okay afraid rhythm roast device siren drum ostrich clog ticket ensure side";

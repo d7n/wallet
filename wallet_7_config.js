@@ -1,1 +1,1 @@
-var mnemonic = "bulb dance blur ranch vivid federal lunch anchor wage width crop velvet";
+var mnemonic = "weekend rescue border dinosaur giant arrange setup elephant same feed atom phone";

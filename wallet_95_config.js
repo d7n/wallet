@@ -1,1 +1,1 @@
-var mnemonic = "replace age believe sudden bid point initial toddler clump wreck empty security";
+var mnemonic = "under obscure elbow elite name develop rack anger shaft artist eyebrow enforce";

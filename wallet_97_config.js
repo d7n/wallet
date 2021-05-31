@@ -1,1 +1,1 @@
-var mnemonic = "room valve calm vivid sport test fortune decade this message swear kidney";
+var mnemonic = "library suffer palm mind series spice suspect dragon beyond repeat resist keen";

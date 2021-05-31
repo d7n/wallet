@@ -1,1 +1,1 @@
-var mnemonic = "setup swamp main wedding theory cheap tired caution side patrol cricket pet";
+var mnemonic = "region until basket purity large view volcano artwork fall novel crunch high";

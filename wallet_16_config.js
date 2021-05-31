@@ -1,1 +1,1 @@
-var mnemonic = "reject reunion easily puppy evoke ignore trade sister example term empower confirm";
+var mnemonic = "grit exercise fly relief middle situate fringe nuclear canal inherit wage runway";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest tell mountain resource fame stem vault hybrid girl chest pass honey";
+var mnemonic = "waste patrol elevator wet pizza sweet laptop again shock broken entire wish";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel unfair medal wasp rib birth body once hint buddy adjust scatter";
+var mnemonic = "legal bracket change weapon badge law present innocent goat minimum noble shadow";

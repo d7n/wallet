@@ -1,1 +1,1 @@
-var mnemonic = "food matrix access ribbon sponsor slim harbor moment diagram team seed badge";
+var mnemonic = "number suffer thrive reunion transfer coach glove jazz pioneer oil elegant point";

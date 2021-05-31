@@ -1,1 +1,1 @@
-var mnemonic = "hollow exit uncle useless grocery unlock write science oppose relax evidence mind";
+var mnemonic = "female head soldier shop help ticket then right dignity struggle beef random";

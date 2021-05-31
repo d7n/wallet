@@ -1,1 +1,1 @@
-var mnemonic = "crumble impact barrel adapt jelly lizard feature present report dog dust region";
+var mnemonic = "fabric cost emerge tribe strike bamboo rare similar talk embrace fragile talent";

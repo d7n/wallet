@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tornado enroll rely portion scrub bullet perfect people invite split help";
+var mnemonic = "wealth sister seminar brush glad merit sea near siren dad melody leopard";

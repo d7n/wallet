@@ -1,1 +1,1 @@
-var mnemonic = "another pattern sense cricket dune caution access fiber flame tooth fatigue cattle";
+var mnemonic = "salmon debris shaft edge bone feature jaguar symbol limb panic hobby corn";

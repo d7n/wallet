@@ -1,1 +1,1 @@
-var mnemonic = "indicate foil absorb cattle brush worry owner sock sunset ocean visit culture";
+var mnemonic = "cute manage crumble lift remember derive virus about cinnamon nothing patch script";

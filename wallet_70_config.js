@@ -1,1 +1,1 @@
-var mnemonic = "search bless position expire solution spell limb airport elbow solar scheme year";
+var mnemonic = "vault stay couple donkey maze wide stomach place possible hello believe fiber";

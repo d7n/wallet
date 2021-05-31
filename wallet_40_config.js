@@ -1,1 +1,1 @@
-var mnemonic = "pair point spider labor guard message enough blade pigeon forget life life";
+var mnemonic = "awkward tag bunker anxiety ugly gadget draft pass sponsor engage walnut owner";

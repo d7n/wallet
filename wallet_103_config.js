@@ -1,1 +1,1 @@
-var mnemonic = "small bundle spy faculty assault patrol consider dentist polar curtain army sugar";
+var mnemonic = "goat unhappy dwarf ridge harvest push laundry awesome three loan science virtual";

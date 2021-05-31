@@ -1,1 +1,1 @@
-var mnemonic = "album renew wide they wall bone culture achieve today flight ecology brave";
+var mnemonic = "disease response delay false field wild portion penalty ladder else stem poet";

@@ -1,1 +1,1 @@
-var mnemonic = "place pipe home ability grain scout hole abstract behind reopen cactus soccer";
+var mnemonic = "laugh crater dumb jump silver awful poet resist rifle deal essence traffic";

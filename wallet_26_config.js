@@ -1,1 +1,1 @@
-var mnemonic = "opera river grunt govern actress swift system script lava season luggage used";
+var mnemonic = "actress violin chair ordinary advance tip near broken easily elbow arrest soon";

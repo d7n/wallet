@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo glass found tomato dune ripple pledge bone marble ostrich powder exhibit";
+var mnemonic = "unique weapon reason tuna upset fame clown mystery portion exchange muffin soldier";
