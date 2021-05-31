@@ -1,1 +1,1 @@
-var mnemonic = "chimney east chief misery tilt say swift slice pledge gaze love all";
+var mnemonic = "party decade donor suspect fat able cry feed casino inhale siege evoke";

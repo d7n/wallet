@@ -1,1 +1,1 @@
-var mnemonic = "fancy always garlic label awful prefer cereal poem caught thought hammer chair";
+var mnemonic = "aisle galaxy skull leave present three ankle pitch biology scan circle oval";

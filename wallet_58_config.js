@@ -1,1 +1,1 @@
-var mnemonic = "build betray pencil lesson manual tumble style section apart chronic remove nephew";
+var mnemonic = "myth genre defy frog abandon element burger argue sheriff sail upon brown";

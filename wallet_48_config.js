@@ -1,1 +1,1 @@
-var mnemonic = "fruit harvest peasant swamp famous symptom panther season wedding antique say life";
+var mnemonic = "dolphin forget vibrant mystery fee video winner oyster claim make pass topic";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory deposit network estate flavor system patient ketchup spare unaware earn kitchen";
+var mnemonic = "sand lonely enrich exhibit denial online weird puppy one bicycle hospital hill";

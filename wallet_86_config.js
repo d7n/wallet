@@ -1,1 +1,1 @@
-var mnemonic = "under legal annual mixture fashion call canal word fabric pet either sample";
+var mnemonic = "vanish pulp trim glove scout adapt destroy travel art feel liar roof";

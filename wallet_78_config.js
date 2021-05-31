@@ -1,1 +1,1 @@
-var mnemonic = "miss twenty flame usage better recipe random usage reflect climb use sustain";
+var mnemonic = "own retire grow test excuse immune sea food cause escape gallery observe";

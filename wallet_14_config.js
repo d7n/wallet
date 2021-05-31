@@ -1,1 +1,1 @@
-var mnemonic = "dream garment nose ensure switch during frown celery erupt equip gold method";
+var mnemonic = "hurdle moral piece into uphold custom response mule danger child match aspect";

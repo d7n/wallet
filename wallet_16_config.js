@@ -1,1 +1,1 @@
-var mnemonic = "promote sell vast tongue seek forget solar now camp rifle equip section";
+var mnemonic = "stage school always guitar swamp old depend glory flight slight upon stove";

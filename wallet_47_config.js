@@ -1,1 +1,1 @@
-var mnemonic = "walnut zone swamp age ticket airport mandate staff lunar absorb broccoli taxi";
+var mnemonic = "senior urban bright picture rotate success sand blue truth abuse pair mouse";

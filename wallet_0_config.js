@@ -1,1 +1,1 @@
-var mnemonic = "wheel alter sugar city neglect sand cannon asset noise robot note front";
+var mnemonic = "strategy comic scorpion butter creek trouble maze salt govern sun cricket omit";

@@ -1,1 +1,1 @@
-var mnemonic = "radio swim muffin deer cotton mouse sick ship mixture dust glow hunt";
+var mnemonic = "satoshi guitar kind segment blind index grace sail chaos acquire panic jump";

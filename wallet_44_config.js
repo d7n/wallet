@@ -1,1 +1,1 @@
-var mnemonic = "tip aim indicate fix panic marble nuclear panel ribbon page rose turn";
+var mnemonic = "nation pumpkin deputy later spare upset sentence fragile heavy tip access surface";

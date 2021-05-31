@@ -1,1 +1,1 @@
-var mnemonic = "accident valve alter still torch atom candy acquire slim fossil pause clutch";
+var mnemonic = "idle pact combine kangaroo donor illegal hat faculty man initial design plate";

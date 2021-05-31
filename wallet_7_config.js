@@ -1,1 +1,1 @@
-var mnemonic = "bike floor board marble tube amount retreat attitude pole pond floor crunch";
+var mnemonic = "lens electric cram subject spring various cage acquire win blade thank nut";

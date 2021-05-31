@@ -1,1 +1,1 @@
-var mnemonic = "potato make caught hospital radar shield slim toilet furnace crane soda return";
+var mnemonic = "lonely dress license stove want symbol plug potato cycle sudden attract prepare";

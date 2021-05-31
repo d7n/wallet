@@ -1,1 +1,1 @@
-var mnemonic = "wonder flush tape enhance tower suggest topic cotton pole sure verb critic";
+var mnemonic = "key venture enter tomato buddy december snake chat expose mass front donor";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle ramp demand novel now slogan follow famous buffalo depend slam must";
+var mnemonic = "vacant tent amateur pattern alpha negative three silver onion success zone rug";

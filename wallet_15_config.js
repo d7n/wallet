@@ -1,1 +1,1 @@
-var mnemonic = "race october stand april satisfy nation sell october receive cake narrow chat";
+var mnemonic = "absurd sign visit problem castle clog snow junk lens mimic giraffe edit";

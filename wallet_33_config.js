@@ -1,1 +1,1 @@
-var mnemonic = "home among grunt nest visa donkey castle trophy disease echo private note";
+var mnemonic = "slice lawsuit resist wool scare birth shed void present oyster reflect illness";

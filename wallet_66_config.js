@@ -1,1 +1,1 @@
-var mnemonic = "lumber omit jewel curious fold extend bench velvet maid fashion tool purity";
+var mnemonic = "brief winner orchard immense game doll sister remind situate again bracket churn";

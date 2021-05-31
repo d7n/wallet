@@ -1,1 +1,1 @@
-var mnemonic = "bind famous glad hello use cage vast leg flat marble dutch coach";
+var mnemonic = "equip skirt wave unable pledge absorb bamboo neither faint dinosaur tribe pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "expect barely donkey busy reopen rude faith essay spawn message upon expose";
+var mnemonic = "remain firm stool female captain mercy three route sadness reflect exhibit tourist";

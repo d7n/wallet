@@ -1,1 +1,1 @@
-var mnemonic = "case aware rib update start athlete great scrub mean library tourist glad";
+var mnemonic = "position sniff feature radio neck rough smoke rain brown member gas scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "book census setup minor trim merry shell wood business burger vapor sponsor";
+var mnemonic = "family goddess divide element inject either fashion area fortune discover ostrich transfer";

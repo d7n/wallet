@@ -1,1 +1,1 @@
-var mnemonic = "master inmate dragon allow exhaust hurdle vicious toward detail beyond clever unveil";
+var mnemonic = "actress science relax trip entire machine possible approve scorpion snap issue dirt";

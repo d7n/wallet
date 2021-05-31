@@ -1,1 +1,1 @@
-var mnemonic = "vendor explain thank shallow sudden laptop blouse game badge toss tornado noodle";
+var mnemonic = "issue wink adult first same private beauty snap away quiz erupt abuse";

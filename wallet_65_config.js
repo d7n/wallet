@@ -1,1 +1,1 @@
-var mnemonic = "crop horn ethics motor daring tattoo truck finger chicken ordinary cherry salon";
+var mnemonic = "swift thrive small route fragile portion witness canoe evil resist giggle twelve";

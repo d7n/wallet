@@ -1,1 +1,1 @@
-var mnemonic = "grant design hour royal wine meadow vanish frozen payment prize census gadget";
+var mnemonic = "riot width rent joke entire that final burden biology chair demise one";

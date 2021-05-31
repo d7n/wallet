@@ -1,1 +1,1 @@
-var mnemonic = "zoo gather bullet furnace chair hair rib aerobic captain surface stick addict";
+var mnemonic = "place love flush custom allow rose park process lunar cube calm deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct spin crash bus wealth duck scene tilt drop pact matrix become";
+var mnemonic = "burger negative elevator talk skate keen weekend fashion essay pencil toe become";

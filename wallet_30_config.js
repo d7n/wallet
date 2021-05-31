@@ -1,1 +1,1 @@
-var mnemonic = "maple age nature market act crime brand more agent garlic protect abandon";
+var mnemonic = "carry whale beach reduce fetch pass pave island business amount orchard method";

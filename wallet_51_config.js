@@ -1,1 +1,1 @@
-var mnemonic = "direct resource spirit chronic inspire message whip shrimp forum kangaroo hybrid say";
+var mnemonic = "dad whisper rotate gaze useless despair disorder human obtain rent country mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "control differ until beach jaguar grow virtual stomach phone lawsuit coral lake";
+var mnemonic = "garden typical bench absent intact game noodle radio special edge lawsuit home";

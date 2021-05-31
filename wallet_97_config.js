@@ -1,1 +1,1 @@
-var mnemonic = "neither census confirm erode unaware leaf case proud dwarf evil cargo mail";
+var mnemonic = "crew ill churn boss unable boat reunion person menu mesh barely reduce";

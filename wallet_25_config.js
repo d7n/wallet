@@ -1,1 +1,1 @@
-var mnemonic = "ozone category match peasant today muffin echo mystery day august bounce grow";
+var mnemonic = "improve humble husband panic caught immense lift ozone obey image labor license";

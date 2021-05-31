@@ -1,1 +1,1 @@
-var mnemonic = "attend acquire galaxy bread this wine lady test capable muscle enemy control";
+var mnemonic = "tube deal mean fall air escape convince ignore social palace stock phrase";

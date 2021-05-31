@@ -1,1 +1,1 @@
-var mnemonic = "smile tourist steak click quantum surround dice journey silk giant equip hotel";
+var mnemonic = "side video crunch popular film rain cake sunny educate elephant shadow remove";

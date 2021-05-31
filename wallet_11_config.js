@@ -1,1 +1,1 @@
-var mnemonic = "ordinary barrel ship force nominee copper trash close hazard tone kitchen region";
+var mnemonic = "game drift cool welcome true film fatigue axis curtain setup vintage release";

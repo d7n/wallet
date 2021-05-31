@@ -1,1 +1,1 @@
-var mnemonic = "mail note pear call maid bright barrel wire effort voice round era";
+var mnemonic = "captain wagon grit uncover hope ocean kind donate eternal fun decide define";

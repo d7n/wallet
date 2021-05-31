@@ -1,1 +1,1 @@
-var mnemonic = "minute empty column melody win broken reason text arena dune raccoon bunker";
+var mnemonic = "menu solution cupboard enough plunge gun tourist cook media immense entry brisk";

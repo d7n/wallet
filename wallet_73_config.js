@@ -1,1 +1,1 @@
-var mnemonic = "weapon energy syrup hope leopard child adapt olympic abandon sugar gorilla sheriff";
+var mnemonic = "valid heart veteran scene number cheap winter roof base wait donkey first";

@@ -1,1 +1,1 @@
-var mnemonic = "decade squeeze jazz inject truth afford travel twelve buzz crawl split crunch";
+var mnemonic = "town clip wealth double curve shuffle actor smooth husband climb solve extend";

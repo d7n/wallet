@@ -1,1 +1,1 @@
-var mnemonic = "plunge coffee dumb client mechanic weapon worry hello dragon already reflect inject";
+var mnemonic = "junk enemy quote artefact better alarm flash park female fan test alarm";

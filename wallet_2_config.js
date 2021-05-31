@@ -1,1 +1,1 @@
-var mnemonic = "visual dune young clog virtual doctor trap street casual found gasp frost";
+var mnemonic = "spare rate brass gain absorb size knock planet wonder nature artwork sauce";

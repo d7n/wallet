@@ -1,1 +1,1 @@
-var mnemonic = "cargo device cousin behind unfair kind crystal wagon universe suggest destroy glare";
+var mnemonic = "whip topic other today fresh mandate picture dolphin deliver sentence own winner";

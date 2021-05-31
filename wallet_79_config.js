@@ -1,1 +1,1 @@
-var mnemonic = "bless time faint sort vague sunny present deputy latin achieve wrist royal";
+var mnemonic = "purity sausage bundle picture leaf primary theme state present volume fortune divide";

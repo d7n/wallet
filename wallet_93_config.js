@@ -1,1 +1,1 @@
-var mnemonic = "dumb ridge pottery toward heart shiver either can among all few suffer";
+var mnemonic = "adapt quantum market galaxy option swallow engine birth grab subject sense achieve";

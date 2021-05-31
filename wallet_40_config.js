@@ -1,1 +1,1 @@
-var mnemonic = "flag ship cross umbrella night reason nice blast million furnace knife grape";
+var mnemonic = "skate cruel ahead salmon soft convince pattern tattoo flock tag arm smart";

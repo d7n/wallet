@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog clip broken skill antenna oblige renew nerve margin welcome what deliver";
+var mnemonic = "penalty allow public attract crowd okay nothing uniform angle primary pumpkin actor";

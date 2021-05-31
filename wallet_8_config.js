@@ -1,1 +1,1 @@
-var mnemonic = "lunar rigid midnight various useful air wet advice furnace tennis extend trial";
+var mnemonic = "renew follow baby final tortoise reward menu tail advance material cream junior";

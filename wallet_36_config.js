@@ -1,1 +1,1 @@
-var mnemonic = "december now pretty length smoke fit verb blossom result lion wise club";
+var mnemonic = "task raccoon grocery sustain begin artefact rookie lady eagle field increase buddy";

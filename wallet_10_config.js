@@ -1,1 +1,1 @@
-var mnemonic = "law beyond list tenant donor defy drum teach defy credit company prevent";
+var mnemonic = "weekend deputy region scheme guess opinion season width sad prevent area second";

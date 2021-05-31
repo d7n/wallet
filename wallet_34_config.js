@@ -1,1 +1,1 @@
-var mnemonic = "visa adjust blame filter buffalo senior magic employ firm patrol flight response";
+var mnemonic = "cart squirrel air flip kit airport net trip nurse cruel bar lottery";

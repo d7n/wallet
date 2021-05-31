@@ -1,1 +1,1 @@
-var mnemonic = "blade negative retreat mention reduce choice exist meadow oil galaxy coach false";
+var mnemonic = "six harvest abandon identify sad orchard change area potato verify phone lonely";

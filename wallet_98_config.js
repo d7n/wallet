@@ -1,1 +1,1 @@
-var mnemonic = "boat sugar capable fresh myself suit odor give poem daughter cake witness";
+var mnemonic = "destroy option dash fury drop voyage roof permit motor enact mistake level";

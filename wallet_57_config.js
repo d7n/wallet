@@ -1,1 +1,1 @@
-var mnemonic = "minute immune select faint bar large venture dish goose enact found west";
+var mnemonic = "drop flat town turtle put trip question cloth cotton nothing little choice";

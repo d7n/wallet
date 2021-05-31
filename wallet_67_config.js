@@ -1,1 +1,1 @@
-var mnemonic = "above decorate sentence company toe annual cruel divert ugly gain tilt system";
+var mnemonic = "weapon erosion charge theory frost cousin chicken inner clap nest beach nose";

@@ -1,1 +1,1 @@
-var mnemonic = "cart clutch spike identify source stone defense woman elder render gap virus";
+var mnemonic = "weasel acid deal whale target blind vacant window fresh document stable excess";

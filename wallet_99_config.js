@@ -1,1 +1,1 @@
-var mnemonic = "trumpet lounge tomato oval diamond warrior emotion chicken park mean retreat invite";
+var mnemonic = "arrive mistake forget anger decade era torch betray enough because between fluid";

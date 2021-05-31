@@ -1,1 +1,1 @@
-var mnemonic = "riot myself dinosaur shiver soccer deputy any elevator deny saddle depth expand";
+var mnemonic = "broken estate awkward urge slam gift negative inherit adult flock fine crop";

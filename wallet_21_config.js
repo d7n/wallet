@@ -1,1 +1,1 @@
-var mnemonic = "document child reason aunt vicious ripple apple neck wrist globe tribe silver";
+var mnemonic = "success educate draft ripple shock win gorilla recycle chase hungry ecology next";

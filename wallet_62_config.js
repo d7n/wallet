@@ -1,1 +1,1 @@
-var mnemonic = "occur pigeon accident return recipe tail segment cart gap medal element return";
+var mnemonic = "tank general yellow prize local entry abandon echo oblige actress else stamp";

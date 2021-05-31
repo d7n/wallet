@@ -1,1 +1,1 @@
-var mnemonic = "rail quote issue occur month all congress spin fever sad school ice";
+var mnemonic = "design invite hurt shine pole rug egg unable surface draw oval disease";

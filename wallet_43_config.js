@@ -1,1 +1,1 @@
-var mnemonic = "middle hospital age action point tooth doctor father margin coach response warfare";
+var mnemonic = "elbow police film margin film journey wave genuine grit crane endorse maximum";

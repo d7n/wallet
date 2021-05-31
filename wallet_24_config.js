@@ -1,1 +1,1 @@
-var mnemonic = "neutral apple urban clutch chaos chronic raven brand warrior squeeze custom alpha";
+var mnemonic = "inch dad version adult rough pet excess crane leaf wire december abandon";

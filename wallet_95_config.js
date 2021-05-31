@@ -1,1 +1,1 @@
-var mnemonic = "wire dismiss swear half congress prefer behind business custom predict adapt erosion";
+var mnemonic = "armor vast crew actor cube pass wrestle thumb web renew bus multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "valve baby govern price relax token hurt recall morning embrace first speak";
+var mnemonic = "manage enforce chapter reduce planet capital valve obey hub surround busy humor";

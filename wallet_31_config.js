@@ -1,1 +1,1 @@
-var mnemonic = "dune theory piano vapor science ginger truly text stairs toy mobile sugar";
+var mnemonic = "fiction knock toast vibrant thunder hidden girl method creek follow program bridge";

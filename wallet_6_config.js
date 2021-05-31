@@ -1,1 +1,1 @@
-var mnemonic = "dizzy rule disagree person rhythm history actor ozone major horse bike dismiss";
+var mnemonic = "much air music model excess urban foil afraid denial coconut rate frame";

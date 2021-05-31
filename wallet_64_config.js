@@ -1,1 +1,1 @@
-var mnemonic = "glass axis local thank curtain assist device decline habit pig icon shrug";
+var mnemonic = "found voyage protect trash hollow salon smoke clerk private large ceiling hard";

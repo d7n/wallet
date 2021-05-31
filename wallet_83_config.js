@@ -1,1 +1,1 @@
-var mnemonic = "egg glory dance exhibit north pear jealous hockey canyon pitch entry artwork";
+var mnemonic = "tower topple next casino crew doll tiny wall accuse device code tomorrow";

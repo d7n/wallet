@@ -1,1 +1,1 @@
-var mnemonic = "public search diamond parent innocent adult deputy menu pulp charge install orphan";
+var mnemonic = "slab genius inhale busy magnet glad weasel drastic foam end embark soft";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid inherit chase artist caught wear retreat what virus inspire exhaust session";
+var mnemonic = "world hybrid measure bacon table van nasty pen crouch assume mixed inject";

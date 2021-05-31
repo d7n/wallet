@@ -1,1 +1,1 @@
-var mnemonic = "today country document network film proud rule mail wing great farm swift";
+var mnemonic = "novel parrot vibrant purpose water breeze crane hockey crash pen neck exercise";

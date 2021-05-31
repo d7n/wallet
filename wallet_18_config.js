@@ -1,1 +1,1 @@
-var mnemonic = "fire parrot defy mean tourist patient planet hurt crucial panda exist medal";
+var mnemonic = "piece happy boat skate climb snap scrap hunt interest fancy brisk digital";

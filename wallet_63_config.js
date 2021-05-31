@@ -1,1 +1,1 @@
-var mnemonic = "only angry way essence forward quick close front parrot relax depth rescue";
+var mnemonic = "cupboard effort give tiger client never piano tooth pepper ride glass arrest";

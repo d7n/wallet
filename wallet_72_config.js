@@ -1,1 +1,1 @@
-var mnemonic = "inflict lady tongue detail error best wrap you kiss echo such edge";
+var mnemonic = "husband mushroom left diamond ring decline liquid half say crystal safe often";

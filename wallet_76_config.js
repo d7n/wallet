@@ -1,1 +1,1 @@
-var mnemonic = "engine pretty coil aim fortune bring dice slogan skull lock easy insane";
+var mnemonic = "cook exhibit diary fame horn illness pottery strike umbrella enroll orphan empower";

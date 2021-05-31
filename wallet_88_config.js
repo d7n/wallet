@@ -1,1 +1,1 @@
-var mnemonic = "hamster equal use throw immense rookie rose fragile congress version come industry";
+var mnemonic = "deny olive mandate hotel movie grace name grace hole poverty knife anger";

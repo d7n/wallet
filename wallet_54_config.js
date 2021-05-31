@@ -1,1 +1,1 @@
-var mnemonic = "mix kingdom good weasel system entry purchase calm utility flavor scare sort";
+var mnemonic = "method long diagram bring diet web margin unknown love outdoor butter outer";

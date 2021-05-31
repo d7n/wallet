@@ -1,1 +1,1 @@
-var mnemonic = "random resemble pledge athlete spring seed member peanut chaos chaos absorb season";
+var mnemonic = "pyramid silver athlete angle sort shell vicious electric motor atom echo festival";

@@ -1,1 +1,1 @@
-var mnemonic = "safe blur coffee vault enter fade sunset mobile witness between core foot";
+var mnemonic = "table village like host rose sustain jump kangaroo now alone hollow question";

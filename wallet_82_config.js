@@ -1,1 +1,1 @@
-var mnemonic = "curve cinnamon giraffe opinion client symbol twelve problem copy have expect flavor";
+var mnemonic = "will tennis crack black toddler scissors around wool exit clinic manual have";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch fatal theme end taste bunker calm popular mad patient labor remind";
+var mnemonic = "power glory cost jar view magic royal occur leopard celery elite nation";

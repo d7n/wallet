@@ -1,1 +1,1 @@
-var mnemonic = "audit income just impulse kiss volcano mouse mechanic slush wheat journey emotion";
+var mnemonic = "frame become salmon rifle daughter side broken click thunder symptom pole jeans";

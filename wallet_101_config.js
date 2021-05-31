@@ -1,1 +1,1 @@
-var mnemonic = "quit law doll coil pig kiwi beach security beyond coyote pair video";
+var mnemonic = "eyebrow plug cluster game exotic find lounge wish enroll similar before noodle";

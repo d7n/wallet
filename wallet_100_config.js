@@ -1,1 +1,1 @@
-var mnemonic = "gown sheriff snake insect slot antique artist rival pelican invite message online";
+var mnemonic = "action agent infant target puppy maze sell whip lazy any until brave";

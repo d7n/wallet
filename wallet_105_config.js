@@ -1,1 +1,1 @@
-var mnemonic = "annual file custom client clown jungle van domain wasp drip present alarm";
+var mnemonic = "tray soon mule leopard fall taste cause oak hurdle master clock deposit";

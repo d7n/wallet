@@ -1,1 +1,1 @@
-var mnemonic = "dismiss evolve memory buddy sand unlock dish home cigar drive sell prize";
+var mnemonic = "insane emotion accuse typical pass stomach uphold tongue crucial fine early dash";

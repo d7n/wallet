@@ -1,1 +1,1 @@
-var mnemonic = "woman age valve home destroy middle canvas object witness common replace mimic";
+var mnemonic = "marriage awkward latin scan focus inflict dignity bulb coral column sound flip";

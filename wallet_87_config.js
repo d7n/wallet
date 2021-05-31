@@ -1,1 +1,1 @@
-var mnemonic = "mansion myself cheap paper stable access enrich crumble fold primary helmet account";
+var mnemonic = "wrong relax agent bamboo dose next library liar spider blade indoor glory";

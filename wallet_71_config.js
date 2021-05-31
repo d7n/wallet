@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rotate venture bargain amateur dizzy glimpse recycle impulse crouch borrow nest";
+var mnemonic = "entry surge degree claw envelope morning siren awkward close ticket camera debate";
