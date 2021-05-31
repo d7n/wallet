@@ -1,1 +1,1 @@
-var mnemonic = "motion lemon eagle barrel panic ridge clog conduct cinnamon elbow crack survey";
+var mnemonic = "ball organ capital stumble solve photo inner ignore wide bus toast possible";

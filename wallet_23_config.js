@@ -1,1 +1,1 @@
-var mnemonic = "drop fold laugh make prefer rally canoe home rule amateur there flock";
+var mnemonic = "nothing weekend language practice save picnic crack battle banana cement patrol brother";

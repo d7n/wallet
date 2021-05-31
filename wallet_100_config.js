@@ -1,1 +1,1 @@
-var mnemonic = "volcano major swap mushroom own earth guide earn toddler cage response jaguar";
+var mnemonic = "sausage lawsuit select cattle runway mirror ignore artefact gossip sort dentist coast";

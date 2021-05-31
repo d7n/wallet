@@ -1,1 +1,1 @@
-var mnemonic = "enhance method winner noble hero defy catch zoo make surge virtual private";
+var mnemonic = "rookie wink prize cloud universe regret calm sister arrange caution nerve carpet";

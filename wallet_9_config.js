@@ -1,1 +1,1 @@
-var mnemonic = "merit open upset fall steak armor message cousin disorder section pipe enroll";
+var mnemonic = "episode grain announce siren legal flock vacant toast vanish tower wise grant";

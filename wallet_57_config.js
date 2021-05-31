@@ -1,1 +1,1 @@
-var mnemonic = "mixed reunion blast helmet reject square label shy share steel twist social";
+var mnemonic = "demand sad circle dirt artist slender slab become begin uncle clean lend";

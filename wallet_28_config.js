@@ -1,1 +1,1 @@
-var mnemonic = "canal humble mixture mean vessel float myth enemy peanut gate smart exact";
+var mnemonic = "few write left damage donate mutual cricket someone unlock bullet rival genius";

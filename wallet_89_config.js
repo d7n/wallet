@@ -1,1 +1,1 @@
-var mnemonic = "wool excite toward arch pigeon radar flame position orient core angle physical";
+var mnemonic = "shallow tell destroy under polar cook aspect daring talk fix library extra";

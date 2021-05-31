@@ -1,1 +1,1 @@
-var mnemonic = "hold size trigger blade dune humble ladder resemble render bring bean hard";
+var mnemonic = "rough zoo forum utility card upper bargain seminar one used observe market";

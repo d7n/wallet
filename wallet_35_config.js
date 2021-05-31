@@ -1,1 +1,1 @@
-var mnemonic = "media excuse logic sick defense wrestle eager leg dilemma wedding expire wheel";
+var mnemonic = "first element penalty debris east chair apology barrel radio roof romance tornado";

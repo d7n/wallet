@@ -1,1 +1,1 @@
-var mnemonic = "ride defy hip moon broccoli gospel romance range issue celery buyer vast";
+var mnemonic = "occur famous damp perfect add egg few oxygen merry prefer boost camera";

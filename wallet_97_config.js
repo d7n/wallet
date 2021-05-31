@@ -1,1 +1,1 @@
-var mnemonic = "mind enhance solid cannon film embark deposit dress shoe need soul artwork";
+var mnemonic = "tomorrow program kind gauge undo debate soul away tiger world behave team";

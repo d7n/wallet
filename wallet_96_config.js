@@ -1,1 +1,1 @@
-var mnemonic = "carpet detect grit rifle beef win dad guide gauge diamond buffalo model";
+var mnemonic = "pistol high scene easily health blur safe rookie street good sniff catch";

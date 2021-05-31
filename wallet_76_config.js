@@ -1,1 +1,1 @@
-var mnemonic = "edit discover robot ritual hurry symbol grocery champion sphere eager zero song";
+var mnemonic = "wrong jazz display scheme pair autumn shaft shove brief face noodle awful";

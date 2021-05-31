@@ -1,1 +1,1 @@
-var mnemonic = "immune option proof relax human math gain gown dignity found foster slush";
+var mnemonic = "churn cushion beach spin glove exchange gallery evolve custom canvas brown opinion";

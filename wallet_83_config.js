@@ -1,1 +1,1 @@
-var mnemonic = "lava town legend bounce bacon citizen earn deliver supreme harsh tide account";
+var mnemonic = "fragile fault medal right virtual crouch evil pencil fence survey blast flight";

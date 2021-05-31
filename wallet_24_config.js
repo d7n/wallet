@@ -1,1 +1,1 @@
-var mnemonic = "remember aisle melody patrol stand pyramid stairs disagree birth match great pumpkin";
+var mnemonic = "evil visit lawn height trust genuine card spin border solution intact subway";

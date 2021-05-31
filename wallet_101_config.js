@@ -1,1 +1,1 @@
-var mnemonic = "fat vivid stereo leave frog group local uniform small soup diesel can";
+var mnemonic = "squeeze curtain weapon army initial enroll raw hamster expand edge stomach dust";

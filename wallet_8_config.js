@@ -1,1 +1,1 @@
-var mnemonic = "salmon amazing candy pet chef fold vital author bundle armor surround eye";
+var mnemonic = "frequent cactus liberty fall run point train scorpion panda motion solution trumpet";

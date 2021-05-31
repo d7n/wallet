@@ -1,1 +1,1 @@
-var mnemonic = "type decade rookie pave tree win couch theme crawl city ritual sleep";
+var mnemonic = "six milk region song velvet dad brass tank banner vendor hidden wool";

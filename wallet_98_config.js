@@ -1,1 +1,1 @@
-var mnemonic = "border question wedding social beauty acoustic dignity defense wolf fetch dinner orphan";
+var mnemonic = "marble nose practice spoil sand coconut that because pyramid ranch immune pistol";

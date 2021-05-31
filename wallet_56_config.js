@@ -1,1 +1,1 @@
-var mnemonic = "practice license bunker broom slab volume armor cinnamon valley cross volcano today";
+var mnemonic = "wait bacon slow student fat abandon inherit issue creek laundry beauty quit";

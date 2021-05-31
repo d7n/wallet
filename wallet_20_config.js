@@ -1,1 +1,1 @@
-var mnemonic = "lemon effort asset super solar case mango guitar soccer donkey word federal";
+var mnemonic = "verb cycle coffee roast okay control gap punch auto script trust net";

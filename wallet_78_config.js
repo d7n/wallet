@@ -1,1 +1,1 @@
-var mnemonic = "angry under cloud panther little drill way aware dose donkey icon issue";
+var mnemonic = "train soul service woman aim rib ivory feel arrive flight pull cross";

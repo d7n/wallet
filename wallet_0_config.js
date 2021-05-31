@@ -1,1 +1,1 @@
-var mnemonic = "lock sock rose unveil arrange invite scale able high belt during such";
+var mnemonic = "stove gap subway rather front direct game anchor boat luxury spread famous";

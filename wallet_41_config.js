@@ -1,1 +1,1 @@
-var mnemonic = "pride kitchen roof boring street alien action ready upset require special opinion";
+var mnemonic = "buzz riot exchange stand toe enjoy hidden cigar thumb endorse split ask";

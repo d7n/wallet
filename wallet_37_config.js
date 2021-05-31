@@ -1,1 +1,1 @@
-var mnemonic = "achieve type alter shy gloom snap diagram absent laptop person hotel traffic";
+var mnemonic = "neither love future crane bacon orbit shallow aisle goddess priority spend artwork";

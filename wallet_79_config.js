@@ -1,1 +1,1 @@
-var mnemonic = "argue symbol build artwork theory deputy merge note such course squirrel owner";
+var mnemonic = "ghost know web initial world depart trash tool rare chuckle gesture desk";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior reject giraffe prosper swing cat burden burger latin actor strategy legal";
+var mnemonic = "sunny cannon agree print thing nest pioneer meadow fatal vacuum infant bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom trumpet bullet soft indicate ship garment index shrug visit praise certain";
+var mnemonic = "budget exact surge fluid cotton fitness screen stick target dragon better slab";

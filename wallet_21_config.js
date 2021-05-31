@@ -1,1 +1,1 @@
-var mnemonic = "wrestle purchase beach tragic engine floor cruel jar awful eye law olympic";
+var mnemonic = "talk below panic squeeze decade curious bomb divide inherit price hat hero";

@@ -1,1 +1,1 @@
-var mnemonic = "soup museum column wire tomorrow pact solution goat eyebrow half clinic correct";
+var mnemonic = "erosion weapon wall clog burden actual property above burst clever remain remove";

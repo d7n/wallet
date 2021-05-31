@@ -1,1 +1,1 @@
-var mnemonic = "crater fluid antenna moment alpha space goat mystery name ritual pink forum";
+var mnemonic = "antenna prevent sniff tackle fortune like client furnace page interest between add";

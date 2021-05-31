@@ -1,1 +1,1 @@
-var mnemonic = "loud library axis dutch journey large visa range remove between model reward";
+var mnemonic = "syrup lens celery cactus clutch current try misery type earn limit injury";

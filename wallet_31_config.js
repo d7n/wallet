@@ -1,1 +1,1 @@
-var mnemonic = "there address either leisure winter napkin twice evidence setup session bubble property";
+var mnemonic = "remain doctor excite giggle nasty all cabbage cute property blossom moral stove";

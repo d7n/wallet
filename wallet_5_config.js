@@ -1,1 +1,1 @@
-var mnemonic = "bitter album dog defy note moral sphere area tackle main accident diary";
+var mnemonic = "alone embrace possible negative oval profit alarm mercy fine upon jeans muscle";

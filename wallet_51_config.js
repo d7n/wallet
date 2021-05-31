@@ -1,1 +1,1 @@
-var mnemonic = "core enable enough sick about people pair execute head actress glare giant";
+var mnemonic = "cook chunk citizen carry year powder liquid enact machine tank beef renew";

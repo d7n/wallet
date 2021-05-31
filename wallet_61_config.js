@@ -1,1 +1,1 @@
-var mnemonic = "erode image fade stand rely fluid slide brick weather pair deposit toward";
+var mnemonic = "mask index account spray roast magnet upper nothing hero tray indoor gloom";

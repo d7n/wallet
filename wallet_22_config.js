@@ -1,1 +1,1 @@
-var mnemonic = "boy prosper husband nominee analyst suspect shine punch athlete envelope tourist achieve";
+var mnemonic = "west black disorder spare menu soft miss slide damage brief word bone";

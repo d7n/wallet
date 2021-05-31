@@ -1,1 +1,1 @@
-var mnemonic = "original clump upgrade emotion fever patrol margin dish local only resemble write";
+var mnemonic = "wonder capable advance glow dutch stem question small river engine provide engage";

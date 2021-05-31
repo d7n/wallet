@@ -1,1 +1,1 @@
-var mnemonic = "current nurse special come blouse novel smooth company kiwi arrive embark split";
+var mnemonic = "repair border drastic rude awesome potato trigger genuine adult ensure express other";

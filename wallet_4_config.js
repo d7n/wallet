@@ -1,1 +1,1 @@
-var mnemonic = "crater jump soda deliver follow exchange deny enhance warfare heart shop budget";
+var mnemonic = "industry marble festival renew polar gadget nominee come vault hybrid happy town";

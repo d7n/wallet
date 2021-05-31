@@ -1,1 +1,1 @@
-var mnemonic = "win fossil salt month quote live mimic attend hint urge finish amused";
+var mnemonic = "fat boy slight fly stereo fine gain soft veteran badge inch measure";

@@ -1,1 +1,1 @@
-var mnemonic = "oven action cherry lend juice force recall demand canyon muffin claim warrior";
+var mnemonic = "top body example endless enough ordinary dice glance clap gloom news fence";

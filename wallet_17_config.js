@@ -1,1 +1,1 @@
-var mnemonic = "embark embark arrow patient bottom moment harvest wall behind tent sick kingdom";
+var mnemonic = "train hazard quit jump gasp gadget layer repeat machine goose super hotel";

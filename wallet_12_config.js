@@ -1,1 +1,1 @@
-var mnemonic = "general gospel volume almost kit rain unusual order modify boy siren illegal";
+var mnemonic = "athlete master conduct stable claim mammal dirt derive afraid length raw damage";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram farm spatial bracket excuse essence royal length believe avoid swear fan";
+var mnemonic = "add festival riot brisk grain escape sauce junk general home half hover";

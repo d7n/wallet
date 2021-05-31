@@ -1,1 +1,1 @@
-var mnemonic = "electric mother mutual trash team pink powder swim purity code series mirror";
+var mnemonic = "skirt chalk normal ask brain drum weapon surround tilt tuna trophy put";

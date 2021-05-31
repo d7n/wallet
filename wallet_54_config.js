@@ -1,1 +1,1 @@
-var mnemonic = "protect duck topic lamp half attitude inflict remember leader fossil time kid";
+var mnemonic = "climb ritual rent settle impose inside glove include crisp mad close bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler frame enact upgrade talent vivid stuff under pink sight ozone hub";
+var mnemonic = "disagree this seed farm witness wonder chronic butter squeeze flush ivory era";

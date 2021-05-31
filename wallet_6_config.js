@@ -1,1 +1,1 @@
-var mnemonic = "truck blush soda pizza liar fragile can play upper final giraffe festival";
+var mnemonic = "bottom toe habit limb want glare exhaust race frog spread vivid thunder";

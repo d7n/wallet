@@ -1,1 +1,1 @@
-var mnemonic = "detail road hour pupil twin tomato egg aspect venture clip rigid panda";
+var mnemonic = "certain rotate pottery prepare soap drama fault table injury crater jaguar concert";

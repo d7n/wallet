@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cup wet pony recipe because ribbon follow assault cargo gossip moment";
+var mnemonic = "soccer combine exile assume arena salute rocket august lab learn celery enrich";

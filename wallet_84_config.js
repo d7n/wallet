@@ -1,1 +1,1 @@
-var mnemonic = "random issue guide mind jacket lend cliff person today stick success enemy";
+var mnemonic = "man kangaroo other sample shop invest pupil manage victory screen title divide";

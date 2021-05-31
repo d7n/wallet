@@ -1,1 +1,1 @@
-var mnemonic = "just despair spike material rain youth young turtle girl present resource aisle";
+var mnemonic = "lounge slogan business face such number script pass confirm frost shrug scorpion";

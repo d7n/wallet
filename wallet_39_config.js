@@ -1,1 +1,1 @@
-var mnemonic = "spread demise raven true opera duck wise clarify what cannon home foam";
+var mnemonic = "giant jar flight legal female someone aspect green first net elite faith";

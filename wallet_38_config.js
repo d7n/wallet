@@ -1,1 +1,1 @@
-var mnemonic = "security skin ancient metal grant coil must flock donate actor noble layer";
+var mnemonic = "cheap initial decline punch pepper code mobile place end slide problem lake";

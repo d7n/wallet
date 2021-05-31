@@ -1,1 +1,1 @@
-var mnemonic = "material that mimic tired hedgehog point tray garden someone boss token pear";
+var mnemonic = "cargo behind leaf panda file bar nerve surface local excite replace pony";

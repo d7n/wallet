@@ -1,1 +1,1 @@
-var mnemonic = "trouble elite kite gown immense twice card offer enough cube dance toe";
+var mnemonic = "gaze plunge major dutch valley bachelor clutch stereo prefer rival various tooth";

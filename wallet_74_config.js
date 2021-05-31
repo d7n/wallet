@@ -1,1 +1,1 @@
-var mnemonic = "clarify awkward happy route invite hobby alert gold blur hint ten umbrella";
+var mnemonic = "witness paper raw other either metal spawn robot artefact obey twin enable";

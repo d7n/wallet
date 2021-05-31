@@ -1,1 +1,1 @@
-var mnemonic = "weasel mobile jealous kind truck bag thing short cash ethics early iron";
+var mnemonic = "disagree buddy country abandon beach bottom bench develop detect federal suit protect";

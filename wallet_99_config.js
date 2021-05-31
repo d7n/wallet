@@ -1,1 +1,1 @@
-var mnemonic = "slush banner error travel typical cream squirrel since artist stumble dumb rival";
+var mnemonic = "crucial announce slice tomato merit session ozone payment pride example cool amazing";

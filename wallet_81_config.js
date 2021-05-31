@@ -1,1 +1,1 @@
-var mnemonic = "east skill betray south calm build aim reflect tide parrot burst panic";
+var mnemonic = "number absurd absurd industry involve early talent hunt crush leg reunion stage";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect harsh six romance rabbit visual fish peace begin health object uphold";
+var mnemonic = "mandate level abstract gate cabbage typical collect decade quick window object swift";

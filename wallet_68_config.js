@@ -1,1 +1,1 @@
-var mnemonic = "cancel sudden word grass enough sound gesture warfare surface inspire action avocado";
+var mnemonic = "reason gate remain vote usage luggage brother catalog aisle fold divert hazard";

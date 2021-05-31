@@ -1,1 +1,1 @@
-var mnemonic = "laptop hospital olive flat hub awkward hedgehog coach flower beach wolf gym";
+var mnemonic = "decade arch canal opera endless brief model cave april phrase remind blue";

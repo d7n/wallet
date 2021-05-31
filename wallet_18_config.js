@@ -1,1 +1,1 @@
-var mnemonic = "truth example case thumb impose census dish crime fortune egg approve bunker";
+var mnemonic = "moon certain one saddle width figure reject trust execute crowd phone elder";

@@ -1,1 +1,1 @@
-var mnemonic = "card destroy ramp left item switch unhappy can diary flag endorse mango";
+var mnemonic = "wheat bubble oval body rare robust image vicious laugh demise team obey";

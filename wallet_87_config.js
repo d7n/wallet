@@ -1,1 +1,1 @@
-var mnemonic = "public element monkey jump couple blanket drastic rural split disease quiz disorder";
+var mnemonic = "goat anxiety park idea smart teach blast eight fury crawl giant marine";

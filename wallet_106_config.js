@@ -1,1 +1,1 @@
-var mnemonic = "game three hungry hair husband behind job private doctor degree music control";
+var mnemonic = "seminar nasty next army shove rather bounce blossom obey tube submit broken";

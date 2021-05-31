@@ -1,1 +1,1 @@
-var mnemonic = "oven toilet secret model panda rely frost dog report yellow social allow";
+var mnemonic = "vintage leisure win sustain basic rabbit notable either talk keep echo virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "steel guard garage pony luxury love vendor elder burst damp unusual sad";
+var mnemonic = "snack praise artwork wild protect release display pipe word shock brown seat";

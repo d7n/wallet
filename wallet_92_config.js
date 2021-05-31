@@ -1,1 +1,1 @@
-var mnemonic = "limb lift fault swallow april aisle clarify claim clog special recall dad";
+var mnemonic = "age solid eight simple girl chair gossip manual direct kind pull trick";

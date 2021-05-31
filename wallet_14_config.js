@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cupboard hollow tribe patient exit hawk elder virtual display include legend";
+var mnemonic = "teach check guess lens earth copy toward poem coral cry shine glare";

@@ -1,1 +1,1 @@
-var mnemonic = "sail flight crunch genuine dress never fix planet antenna sniff action awake";
+var mnemonic = "march regret need satisfy omit surge april sun firm dolphin sniff dawn";

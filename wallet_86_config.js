@@ -1,1 +1,1 @@
-var mnemonic = "skate weird horse consider iron palace width shrug math local frozen code";
+var mnemonic = "eagle orphan express pyramid demise grit explain gorilla gym pet volume tumble";

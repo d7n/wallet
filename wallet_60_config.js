@@ -1,1 +1,1 @@
-var mnemonic = "session opinion gun daughter swear picture box athlete morning dinosaur acquire hole";
+var mnemonic = "fiber shove sunset lawn vehicle order matrix brush useful misery kangaroo object";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue clock answer vendor speak security ostrich awful tissue dizzy garlic lyrics";
+var mnemonic = "cancel manual curtain cheese pistol core together question arrest close present truly";

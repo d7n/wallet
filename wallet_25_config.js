@@ -1,1 +1,1 @@
-var mnemonic = "version wrap glimpse aspect insect goose topple pear enable vapor avoid raven";
+var mnemonic = "dust detect equip bacon jungle warm fuel thing elbow swear whale fossil";

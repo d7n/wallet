@@ -1,1 +1,1 @@
-var mnemonic = "citizen target sketch cement peanut six number bar tide hungry elephant gesture";
+var mnemonic = "swallow slab delay hurry dumb pioneer miracle put giant cargo border antique";

@@ -1,1 +1,1 @@
-var mnemonic = "castle camp heavy auction dream express index pattern scale slim once extra";
+var mnemonic = "level valid concert era galaxy message embrace review wink robust theme sock";

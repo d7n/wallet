@@ -1,1 +1,1 @@
-var mnemonic = "share record whisper divert bonus health belt permit upgrade comic control stamp";
+var mnemonic = "december rare consider purity resource fee ring athlete word rent daring alien";

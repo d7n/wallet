@@ -1,1 +1,1 @@
-var mnemonic = "raise heavy divert bicycle indoor broom awful pair gentle hour that walnut";
+var mnemonic = "state liar above infant gate panther river lazy cousin inhale affair ticket";

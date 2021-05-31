@@ -1,1 +1,1 @@
-var mnemonic = "slogan direct jar into surface modify super aerobic month bird wrist timber";
+var mnemonic = "vicious rival option month emerge present cram dial number tissue mail shove";

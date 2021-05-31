@@ -1,1 +1,1 @@
-var mnemonic = "wood clump solve laptop mobile tone assault reopen kidney fringe tuna mind";
+var mnemonic = "web riot into lunch trial tray insect canoe assault slow humble twenty";
