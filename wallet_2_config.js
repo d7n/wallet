@@ -1,1 +1,1 @@
-var mnemonic = "champion edit hedgehog quality ahead client surge author truth wire urban pact";
+var mnemonic = "law umbrella argue silver luggage real scheme test tent yellow ready lobster";

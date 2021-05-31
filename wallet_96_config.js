@@ -1,1 +1,1 @@
-var mnemonic = "reopen dumb elegant hat output tired series wish enjoy vital tree output";
+var mnemonic = "undo pride carpet protect horror aware badge monitor gentle agree pony street";

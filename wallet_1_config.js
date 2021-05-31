@@ -1,1 +1,1 @@
-var mnemonic = "all concert ignore primary help extend pig tube neck change mean believe";
+var mnemonic = "stool usual fit ensure rifle correct flash hybrid vanish above route cotton";

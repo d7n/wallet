@@ -1,1 +1,1 @@
-var mnemonic = "cute trend uncover box what sample oil fossil hedgehog right inmate menu";
+var mnemonic = "hero trim genuine old pilot best flip middle sock raven glide hood";

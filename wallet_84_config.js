@@ -1,1 +1,1 @@
-var mnemonic = "pattern crawl critic royal main museum diet mother print dutch robust myth";
+var mnemonic = "olive used desk edit town pumpkin alert bacon enable urban slight edit";

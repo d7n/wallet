@@ -1,1 +1,1 @@
-var mnemonic = "mammal cage ride sweet olive trophy train soup razor old pluck female";
+var mnemonic = "quote monkey floor cluster height giggle require process wrap era rule pull";

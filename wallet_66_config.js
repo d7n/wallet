@@ -1,1 +1,1 @@
-var mnemonic = "domain media cloth draw enjoy canyon unfold traffic brother supply truly certain";
+var mnemonic = "vendor flag swap tool stamp hip flight steak brand poem gauge field";

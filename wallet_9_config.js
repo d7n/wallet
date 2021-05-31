@@ -1,1 +1,1 @@
-var mnemonic = "easily already peasant purity toward monitor country address test hobby bread mosquito";
+var mnemonic = "method citizen faculty unknown quarter tiger sentence display neglect double garlic spawn";

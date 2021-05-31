@@ -1,1 +1,1 @@
-var mnemonic = "hire weapon foot entire army primary ritual load rabbit exit gather filter";
+var mnemonic = "cheese total north food property clock bag crunch devote assist hobby turkey";

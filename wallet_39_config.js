@@ -1,1 +1,1 @@
-var mnemonic = "rally slogan depth robust fantasy napkin ahead lyrics target hair flee danger";
+var mnemonic = "chair valve surround borrow couch anxiety brush twice once palace music sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "text dutch more horn wall firm become surface lounge love excuse fun";
+var mnemonic = "impact select thought ahead audit shoe genuine nurse image better bright better";

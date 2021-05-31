@@ -1,1 +1,1 @@
-var mnemonic = "soda walnut brief country comfort dog cave mystery ski aware door obscure";
+var mnemonic = "drive tube scatter orange luxury sick cross fan curious floor drink spell";

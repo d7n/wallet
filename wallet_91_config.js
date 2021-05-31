@@ -1,1 +1,1 @@
-var mnemonic = "category stay truth wing round lake youth tackle off female actress state";
+var mnemonic = "parent hip refuse script simple cat fiction original rude airport fall urban";

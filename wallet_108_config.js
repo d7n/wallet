@@ -1,1 +1,1 @@
-var mnemonic = "rug coin deal find swap surface inhale humble bar reward balcony pony";
+var mnemonic = "onion brain write festival coyote kit auto grunt engine engine bag current";

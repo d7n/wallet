@@ -1,1 +1,1 @@
-var mnemonic = "zone adjust silly ice subway lunch problem toss example false uphold top";
+var mnemonic = "hero solution glad pizza gain permit ivory crunch rabbit offer lobster member";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial thought inside dilemma license shadow work cause illegal orchard cram thumb";
+var mnemonic = "uphold nephew drop civil enforce best stumble wedding more exact peanut artwork";

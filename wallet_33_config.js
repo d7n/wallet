@@ -1,1 +1,1 @@
-var mnemonic = "turn icon shift climb jacket siege dawn human lucky universe analyst reopen";
+var mnemonic = "wrist suffer song find purpose snake copper valley degree frozen carpet shock";

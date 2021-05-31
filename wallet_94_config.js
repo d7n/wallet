@@ -1,1 +1,1 @@
-var mnemonic = "industry manage test motion thing riot reunion math shadow rib limit cube";
+var mnemonic = "place machine impact traffic glove bargain ignore mobile glide enough slot genius";

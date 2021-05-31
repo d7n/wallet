@@ -1,1 +1,1 @@
-var mnemonic = "spread nephew second crop bulk oppose benefit harsh make ring sure ten";
+var mnemonic = "wait divide frog nest six soup time shrimp adapt cherry intact leaf";

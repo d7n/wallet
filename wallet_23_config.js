@@ -1,1 +1,1 @@
-var mnemonic = "tape tent economy sad seed piece biology toast spawn august diesel auto";
+var mnemonic = "release six destroy universe lyrics series side rude emerge matrix reopen guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "situate elevator foam farm day casual cluster skirt daring around remain tumble";
+var mnemonic = "frost quantum humble gift cable now wedding foster coconut insect ghost spend";

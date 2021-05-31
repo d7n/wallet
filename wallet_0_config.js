@@ -1,1 +1,1 @@
-var mnemonic = "beauty winner friend reform flat hybrid pizza punch mesh festival curtain donor";
+var mnemonic = "lens eight garment always fluid lock brief ice arrive cereal inner pulp";

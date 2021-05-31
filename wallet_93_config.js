@@ -1,1 +1,1 @@
-var mnemonic = "heavy device damage ghost twin sleep attitude field traffic heavy math rule";
+var mnemonic = "coil brave palace salute wealth limb rug cube demise vintage quick sweet";

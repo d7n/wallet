@@ -1,1 +1,1 @@
-var mnemonic = "gather shoulder satisfy dinner health link love punch ski lucky battle panther";
+var mnemonic = "course random among junk gravity rack trip distance yellow random mosquito replace";

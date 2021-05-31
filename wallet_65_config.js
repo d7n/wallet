@@ -1,1 +1,1 @@
-var mnemonic = "banana leopard love vocal book labor catalog clutch fortune picture tomato tragic";
+var mnemonic = "object pave spider acoustic sponsor peanut school prosper night mango what evoke";

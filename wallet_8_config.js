@@ -1,1 +1,1 @@
-var mnemonic = "axis mass salon drama dune vacant return man chuckle cabin put help";
+var mnemonic = "saddle better famous empower orange biology knock match install solar blast cluster";

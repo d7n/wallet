@@ -1,1 +1,1 @@
-var mnemonic = "column advice riot patch gloom quote genre few chronic judge warfare soup";
+var mnemonic = "answer disorder tackle ramp salute panic gather car run add noble panther";

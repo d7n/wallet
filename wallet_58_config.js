@@ -1,1 +1,1 @@
-var mnemonic = "ozone you riot woman assist forget skate fence swear fame anchor kiwi";
+var mnemonic = "decline planet boss educate slide marble spoon stock hurry upon pipe decorate";

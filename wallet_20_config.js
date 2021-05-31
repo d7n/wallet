@@ -1,1 +1,1 @@
-var mnemonic = "bonus usage slice beyond enable narrow thrive scout rigid boy rival nominee";
+var mnemonic = "tonight assume naive siren sketch pyramid post state legal amazing decrease trumpet";

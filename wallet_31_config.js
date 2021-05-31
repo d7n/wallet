@@ -1,1 +1,1 @@
-var mnemonic = "version tube virus angry way hen vapor coach current jungle view remind";
+var mnemonic = "cube effort order maid bottom wise proud buddy empty grab collect reduce";

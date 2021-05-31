@@ -1,1 +1,1 @@
-var mnemonic = "unfold assault enact inspire race sting velvet home evolve royal observe trap";
+var mnemonic = "coast increase image social swing crime poet boring acquire urban carpet farm";

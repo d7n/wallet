@@ -1,1 +1,1 @@
-var mnemonic = "burger certain stick syrup dilemma scale open snake toe answer plug deal";
+var mnemonic = "bullet tuition fan range just speak column hazard rally peanut minor endless";

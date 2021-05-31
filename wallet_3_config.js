@@ -1,1 +1,1 @@
-var mnemonic = "captain purse state phone wrap make one tissue sea fitness girl asthma";
+var mnemonic = "space hint arrow found remove try nurse love oxygen check six series";

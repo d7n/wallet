@@ -1,1 +1,1 @@
-var mnemonic = "eager man involve improve pulp wisdom clip empty measure nature lend return";
+var mnemonic = "aim major word jelly mechanic toilet shrimp shell into dentist beauty payment";

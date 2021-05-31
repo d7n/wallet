@@ -1,1 +1,1 @@
-var mnemonic = "shop tumble put ten excuse essence dance chronic print fatigue remain ribbon";
+var mnemonic = "rebuild true aerobic list common grace balance animal survey scare horse razor";

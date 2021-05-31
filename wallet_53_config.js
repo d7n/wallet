@@ -1,1 +1,1 @@
-var mnemonic = "crew sad obvious april inject grunt essence index nice idea tribe aunt";
+var mnemonic = "wear panda episode photo say claim bottom lecture problem arena tonight walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "cable accuse detail defy fat daughter curtain split differ champion lend wire";
+var mnemonic = "salmon grit forest orchard enroll wave food trigger entry spray famous barrel";

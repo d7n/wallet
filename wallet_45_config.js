@@ -1,1 +1,1 @@
-var mnemonic = "endorse wild build flee movie enhance zebra undo harsh candy admit antique";
+var mnemonic = "midnight camera rude need senior jazz cricket slight fog pudding labor piano";

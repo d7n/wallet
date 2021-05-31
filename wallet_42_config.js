@@ -1,1 +1,1 @@
-var mnemonic = "jump snap notable name gas expand elegant unhappy zebra machine share very";
+var mnemonic = "wife stem casual risk brief recycle violin grow rookie bonus road make";

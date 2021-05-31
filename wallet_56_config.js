@@ -1,1 +1,1 @@
-var mnemonic = "cargo receive saddle reform cradle burst dentist craft off radio flame chat";
+var mnemonic = "boil race mammal chief speed force wheat child script knife gown tent";

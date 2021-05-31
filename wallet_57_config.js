@@ -1,1 +1,1 @@
-var mnemonic = "measure diagram pitch pistol abstract gold gaze inhale crowd cost velvet artist";
+var mnemonic = "jaguar you perfect thing athlete dignity hedgehog cruel habit hero track afraid";

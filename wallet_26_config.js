@@ -1,1 +1,1 @@
-var mnemonic = "impose unaware best truly stadium trip hurt type hundred mother despair response";
+var mnemonic = "concert two ladder region trade song age cradle crouch school stomach delay";

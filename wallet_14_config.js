@@ -1,1 +1,1 @@
-var mnemonic = "cheap hawk fresh input romance shallow obey sugar rain define diamond october";
+var mnemonic = "trade verb cream library enable skill wrestle lucky beach review army sibling";

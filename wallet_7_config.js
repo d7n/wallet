@@ -1,1 +1,1 @@
-var mnemonic = "lesson taxi cave spring destroy cancel rifle phone unveil nasty fat chimney";
+var mnemonic = "also bid fuel domain fringe title found conduct call pulse april purchase";

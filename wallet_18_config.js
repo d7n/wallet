@@ -1,1 +1,1 @@
-var mnemonic = "genre width question cousin lawsuit duty artwork eight drink vast follow bachelor";
+var mnemonic = "diesel immune first actual document scatter abstract habit guess unfold few anger";

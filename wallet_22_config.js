@@ -1,1 +1,1 @@
-var mnemonic = "unlock useless carbon stadium ankle congress extend kitten pink club slab multiply";
+var mnemonic = "tomato quick hole school early double wealth shield february change thank panda";

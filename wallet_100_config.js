@@ -1,1 +1,1 @@
-var mnemonic = "fabric vivid soda kite usage income sick wedding physical valley bunker ensure";
+var mnemonic = "spider mushroom pave lucky increase oyster off mother much dutch leisure sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely vast betray rate goddess drill elder ripple trophy actress any firm";
+var mnemonic = "pipe inspire father august evolve dizzy very detect photo dragon catalog lawn";

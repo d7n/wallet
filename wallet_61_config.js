@@ -1,1 +1,1 @@
-var mnemonic = "organ genius potato base slender federal memory reform chuckle assist hotel honey";
+var mnemonic = "mixed trap you process wife notice expire jealous frown purity neutral simple";

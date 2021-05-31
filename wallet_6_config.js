@@ -1,1 +1,1 @@
-var mnemonic = "goose fire rare ethics smart vessel scissors success kit enforce lottery claim";
+var mnemonic = "scout mask merry cable mind tackle gun salmon notable remain first human";

@@ -1,1 +1,1 @@
-var mnemonic = "blind shed churn leisure save kiss brain muffin noble attract solar find";
+var mnemonic = "forward radar roof noise enhance narrow this morning vague glory damp cage";

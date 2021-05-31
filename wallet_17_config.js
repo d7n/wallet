@@ -1,1 +1,1 @@
-var mnemonic = "orchard force insect smile awesome diamond float lift attitude wear palace common";
+var mnemonic = "trouble speak wire source public enroll annual viable loop detail diamond aerobic";

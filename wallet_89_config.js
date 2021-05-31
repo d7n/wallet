@@ -1,1 +1,1 @@
-var mnemonic = "couch sudden maximum indicate sudden cruise festival skin honey ceiling vehicle vessel";
+var mnemonic = "own thing color owner ocean artist where hill zero find atom grid";

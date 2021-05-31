@@ -1,1 +1,1 @@
-var mnemonic = "marriage blame utility rent lesson hungry stock scorpion code trip trumpet cheap";
+var mnemonic = "hundred rain budget black happy that accident panther gentle input hole connect";

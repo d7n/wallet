@@ -1,1 +1,1 @@
-var mnemonic = "theory case tip praise level cricket fit girl theory file enact key";
+var mnemonic = "various athlete what upgrade love coral found salon athlete flower title benefit";

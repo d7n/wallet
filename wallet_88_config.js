@@ -1,1 +1,1 @@
-var mnemonic = "text tilt icon surge summer trophy need awkward video bottom appear grit";
+var mnemonic = "enter smooth wide fitness crunch bargain wise magic element bike offer rely";

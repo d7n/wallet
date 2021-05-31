@@ -1,1 +1,1 @@
-var mnemonic = "decorate gym visual glass defense chuckle common guilt bottom hollow pelican skin";
+var mnemonic = "safe acoustic palm force snack join olive rally butter pelican jewel design";

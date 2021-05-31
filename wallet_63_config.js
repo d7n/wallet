@@ -1,1 +1,1 @@
-var mnemonic = "address price bind noise unusual rail lawn drive gasp mammal library web";
+var mnemonic = "enemy subway sound cross help smile monitor void total tell great dawn";

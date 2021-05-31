@@ -1,1 +1,1 @@
-var mnemonic = "vacuum record fence gallery conduct crumble noise relax coyote member cushion summer";
+var mnemonic = "better silly click punch bus power arrest food velvet frame faint damage";

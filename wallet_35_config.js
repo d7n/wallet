@@ -1,1 +1,1 @@
-var mnemonic = "roast village flash wet until property various invite okay result mistake change";
+var mnemonic = "virtual rug half noise mass rival anchor lab female stereo person about";

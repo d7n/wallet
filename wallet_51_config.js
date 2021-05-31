@@ -1,1 +1,1 @@
-var mnemonic = "puzzle style access impact decline shy allow polar gift section amused leopard";
+var mnemonic = "devote faculty wheel ketchup midnight note laugh solution hire crush sun glow";

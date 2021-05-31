@@ -1,1 +1,1 @@
-var mnemonic = "flock security lawn jeans soccer slide paper destroy rely staff sound twelve";
+var mnemonic = "relief jazz dolphin squeeze noise soon mistake sugar seat armor fine duty";

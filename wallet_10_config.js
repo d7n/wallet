@@ -1,1 +1,1 @@
-var mnemonic = "fold siren divorce hidden cake desert suit moment time grape coconut help";
+var mnemonic = "jazz people cheese affair buddy media sport wise bless ankle miss across";

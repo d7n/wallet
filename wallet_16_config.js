@@ -1,1 +1,1 @@
-var mnemonic = "hybrid offer hood taxi clay cluster original define traffic domain rather proof";
+var mnemonic = "illegal shoot vast smart august palace dismiss draw any pride receive reveal";

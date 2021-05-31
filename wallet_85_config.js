@@ -1,1 +1,1 @@
-var mnemonic = "left occur helmet grocery napkin announce crater shy wash mean banana tide";
+var mnemonic = "repeat ranch close pear chimney clerk despair beauty idle tattoo blade offer";

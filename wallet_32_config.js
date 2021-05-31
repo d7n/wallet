@@ -1,1 +1,1 @@
-var mnemonic = "total goat fossil hospital equal cross palace desk toilet dawn misery turn";
+var mnemonic = "wedding laptop void clip typical kite burst van borrow apple pink devote";

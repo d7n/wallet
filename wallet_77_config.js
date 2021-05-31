@@ -1,1 +1,1 @@
-var mnemonic = "misery recall tornado diagram guard ostrich option basket gaze bamboo lumber when";
+var mnemonic = "crouch jazz weather rib initial buzz same bright runway mansion dentist boat";

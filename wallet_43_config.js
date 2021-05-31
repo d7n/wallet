@@ -1,1 +1,1 @@
-var mnemonic = "one lend flip ostrich shiver idea life gap marriage girl hazard kitten";
+var mnemonic = "purity toilet chair scene mesh suggest runway pilot diet size because curious";

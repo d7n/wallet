@@ -1,1 +1,1 @@
-var mnemonic = "airport fabric churn kind album urban pull clay topple once dragon final";
+var mnemonic = "expose weasel practice column illegal skirt approve series swing drama spawn select";

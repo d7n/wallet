@@ -1,1 +1,1 @@
-var mnemonic = "hint arch biology very galaxy cash sunny enemy vehicle old travel age";
+var mnemonic = "nothing protect machine bean divorce sudden lock genius east proud throw valve";

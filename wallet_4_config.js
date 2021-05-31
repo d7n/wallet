@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cram witness ethics business farm gallery require you winner chuckle cricket";
+var mnemonic = "wood above surge melt satisfy funny guard parent matrix report skill music";

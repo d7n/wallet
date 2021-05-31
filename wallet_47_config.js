@@ -1,1 +1,1 @@
-var mnemonic = "cliff pill rather basket expire used wire type sunset photo stomach noodle";
+var mnemonic = "swamp intact brief into spoil punch twin weekend elbow pizza habit bicycle";

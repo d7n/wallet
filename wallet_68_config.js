@@ -1,1 +1,1 @@
-var mnemonic = "toddler forward false grief verb devote erase before method human main harvest";
+var mnemonic = "impact gloom seminar level cruise hint gaze fever leg crew general duck";

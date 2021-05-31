@@ -1,1 +1,1 @@
-var mnemonic = "salute estate census glad relax swarm myth roof spider sure trim asset";
+var mnemonic = "deputy elder wool floor blind finger lounge gauge panel bag great cabin";

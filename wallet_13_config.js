@@ -1,1 +1,1 @@
-var mnemonic = "expose auction favorite romance inform another essence critic vibrant mule match unhappy";
+var mnemonic = "save fly suit table bring demise shield team ladder rotate net mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze long later accident high minor early dash input lesson steel man";
+var mnemonic = "ginger another fame ten long wrist target spring midnight bar melody learn";

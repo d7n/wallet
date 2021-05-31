@@ -1,1 +1,1 @@
-var mnemonic = "divert fog club nice end comic digital party concert goddess sketch notice";
+var mnemonic = "grow announce exchange fault slim correct hamster until cross caught either process";

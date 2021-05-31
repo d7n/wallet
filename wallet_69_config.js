@@ -1,1 +1,1 @@
-var mnemonic = "close dizzy similar garlic aunt right creek sister hockey board sauce churn";
+var mnemonic = "snap sail chief begin drip shiver trip town company nice gossip tiny";

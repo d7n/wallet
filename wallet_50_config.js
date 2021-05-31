@@ -1,1 +1,1 @@
-var mnemonic = "orphan coyote connect suffer scout local foster mask allow only illness picnic";
+var mnemonic = "oven wasp feel flee kingdom denial utility uncle little angry humor glue";

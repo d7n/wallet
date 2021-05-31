@@ -1,1 +1,1 @@
-var mnemonic = "split cram basic magnet start clay evoke glare sock method tilt input";
+var mnemonic = "educate hobby iron document they title hockey net humble emotion poverty thank";

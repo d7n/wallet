@@ -1,1 +1,1 @@
-var mnemonic = "try baby alpha click dress coin settle carry plastic ritual brain hurdle";
+var mnemonic = "library length delay wood truly private guilt mosquito sense dirt cute lottery";

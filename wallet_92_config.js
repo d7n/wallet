@@ -1,1 +1,1 @@
-var mnemonic = "round call stairs chuckle latin rather brush fish hire siren raccoon envelope";
+var mnemonic = "crater aim expire security predict robot hobby hill brass wolf knife turkey";

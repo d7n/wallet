@@ -1,1 +1,1 @@
-var mnemonic = "dress fold exist tower secret own upset hat chunk manage any true";
+var mnemonic = "drift police almost estate banana plate faith leisure collect cool obvious school";

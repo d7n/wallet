@@ -1,1 +1,1 @@
-var mnemonic = "access mammal forward into laundry immense dune sign century help maximum boy";
+var mnemonic = "tilt harvest guard august impulse media battle open glance resist amount region";

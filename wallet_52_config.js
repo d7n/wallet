@@ -1,1 +1,1 @@
-var mnemonic = "purpose act gain weekend curtain swallow latin effort flash evidence gesture supreme";
+var mnemonic = "plate despair autumn glass stone bid lunch few lamp point engage patch";

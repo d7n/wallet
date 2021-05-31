@@ -1,1 +1,1 @@
-var mnemonic = "attend artwork rifle blade process also tiny analyst glory damage rice bag";
+var mnemonic = "hard involve grass jungle negative need genius they disagree relax hub coral";

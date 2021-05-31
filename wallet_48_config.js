@@ -1,1 +1,1 @@
-var mnemonic = "shadow artwork cook invest number cement exercise submit blind agent fringe develop";
+var mnemonic = "hip slab ready impulse time chuckle early taxi manual bubble hotel civil";

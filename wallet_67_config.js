@@ -1,1 +1,1 @@
-var mnemonic = "jealous midnight foster maze crunch print room catch either liar dust wink";
+var mnemonic = "yellow major draft point umbrella patch clown there true fire service dwarf";
