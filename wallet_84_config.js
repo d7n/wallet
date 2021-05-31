@@ -1,1 +1,1 @@
-var mnemonic = "cheap disease situate miss foil photo warfare behind scare debris scale trust";
+var mnemonic = "option velvet tip autumn waste castle snap ribbon amused coffee black fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage grace gospel theme render venture refuse become random tower friend warm";
+var mnemonic = "monster task liquid trust intact canal donkey piece wrong report horror chef";

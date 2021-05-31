@@ -1,1 +1,1 @@
-var mnemonic = "clarify owner pull shield gym latin shield chuckle enact modify party become";
+var mnemonic = "major city then major aerobic word dial alter famous equal kidney disorder";

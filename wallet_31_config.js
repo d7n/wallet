@@ -1,1 +1,1 @@
-var mnemonic = "moment erase piano federal patrol swim rely direct join total jacket film";
+var mnemonic = "fix fantasy route head capable correct job exhaust glory winner lonely web";

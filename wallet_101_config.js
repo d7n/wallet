@@ -1,1 +1,1 @@
-var mnemonic = "join visa ecology glare maple glory begin inquiry expect timber legend range";
+var mnemonic = "joy need power dwarf naive disagree taste future simple pepper dust stumble";

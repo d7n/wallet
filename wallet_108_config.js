@@ -1,1 +1,1 @@
-var mnemonic = "grant mushroom rapid chat remember pond method siren chimney mosquito climb arrive";
+var mnemonic = "peanut organ buyer ridge royal fresh obtain nature dinosaur lyrics wisdom taste";

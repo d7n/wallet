@@ -1,1 +1,1 @@
-var mnemonic = "invite hunt come friend slush joy moon survey admit emerge agent vocal";
+var mnemonic = "napkin quarter act purpose trap occur task kiwi pigeon west cherry final";

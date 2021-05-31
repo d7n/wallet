@@ -1,1 +1,1 @@
-var mnemonic = "evidence release border grunt control weird trim stand replace charge amazing moral";
+var mnemonic = "fury item brown message entry cake mirror educate adult advance account offer";

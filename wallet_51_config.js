@@ -1,1 +1,1 @@
-var mnemonic = "caution wool turkey frog salad option jeans general snow finger install asset";
+var mnemonic = "oblige enhance chuckle security next shoulder light essence liar cluster coach current";

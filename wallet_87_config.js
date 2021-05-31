@@ -1,1 +1,1 @@
-var mnemonic = "retreat fragile inhale ivory raccoon box mouse betray urge retire cheese erode";
+var mnemonic = "pluck guide roof birth only orphan cute crime swift fatigue miss rude";

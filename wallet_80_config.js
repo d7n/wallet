@@ -1,1 +1,1 @@
-var mnemonic = "piece ketchup injury evolve relax swap sorry expect vapor heavy canoe want";
+var mnemonic = "service void excite modify voice dilemma dumb marine one avocado mobile dove";

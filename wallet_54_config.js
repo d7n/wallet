@@ -1,1 +1,1 @@
-var mnemonic = "poem symptom original similar vacant cheap initial flame all want hood drill";
+var mnemonic = "chef romance feature someone hill love window base critic report enemy renew";

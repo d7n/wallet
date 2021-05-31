@@ -1,1 +1,1 @@
-var mnemonic = "creek arm fashion push over echo harvest teach air proof viable smile";
+var mnemonic = "cabin paper brave asset edit veteran clutch major jazz black fun bread";

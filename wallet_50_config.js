@@ -1,1 +1,1 @@
-var mnemonic = "cereal vault retreat story venue chef cave expire cry random float airport";
+var mnemonic = "typical aspect sense grit pull field time cradle law claim gasp opinion";

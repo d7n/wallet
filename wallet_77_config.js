@@ -1,1 +1,1 @@
-var mnemonic = "toddler worry lemon lobster army true filter letter place wonder evoke marriage";
+var mnemonic = "erosion tail van position category coast glory proud regret giggle grain river";

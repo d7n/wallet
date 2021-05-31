@@ -1,1 +1,1 @@
-var mnemonic = "unlock later acoustic lucky clinic false dentist useless pool palace electric jacket";
+var mnemonic = "monster dilemma sustain twist wine mix floor bachelor happy journey crumble blade";

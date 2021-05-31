@@ -1,1 +1,1 @@
-var mnemonic = "inch tray sheriff menu position mask tenant name legend install airport coil";
+var mnemonic = "sunny typical frown cart write fiscal harvest banner deputy chest pioneer inch";

@@ -1,1 +1,1 @@
-var mnemonic = "head beauty wild path quantum melody drink ivory screen zone express else";
+var mnemonic = "bus potato come jelly bind force anger wood trophy elevator treat apple";

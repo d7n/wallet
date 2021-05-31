@@ -1,1 +1,1 @@
-var mnemonic = "key find version long city spawn recycle swamp bonus dash harsh drastic";
+var mnemonic = "inherit fade canoe universe truly better pelican clever filter unfold combine kitchen";

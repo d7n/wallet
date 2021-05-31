@@ -1,1 +1,1 @@
-var mnemonic = "round soup fetch yard job unable victory bean corn foam cheese symptom";
+var mnemonic = "flip link urge satoshi sheriff measure mass order junk code void music";

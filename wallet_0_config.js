@@ -1,1 +1,1 @@
-var mnemonic = "breeze message crew nut solar endorse inform mutual blur front gold anger";
+var mnemonic = "hire skin goat pilot assist plug city issue grab govern advance also";

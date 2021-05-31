@@ -1,1 +1,1 @@
-var mnemonic = "pitch love husband clean east couple inject carpet beauty door survey hazard";
+var mnemonic = "snack razor bid west scale hawk endorse science isolate arrive abstract wasp";

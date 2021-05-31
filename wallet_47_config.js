@@ -1,1 +1,1 @@
-var mnemonic = "dance tongue easy work stem female soul swim humble muffin prefer census";
+var mnemonic = "bid repeat minimum nut hidden recipe south elephant fabric reveal vote spread";

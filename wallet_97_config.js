@@ -1,1 +1,1 @@
-var mnemonic = "abandon other lawsuit smile wrist capable prevent lobster switch lunch make claim";
+var mnemonic = "desert senior forum hunt east twice tiny slight scheme display cotton unit";

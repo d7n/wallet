@@ -1,1 +1,1 @@
-var mnemonic = "resemble gather auto buyer pen salmon plunge hungry ski umbrella weird pet";
+var mnemonic = "advance range ketchup nasty profit state sibling wheat clog kidney next arm";

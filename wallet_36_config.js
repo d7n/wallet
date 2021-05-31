@@ -1,1 +1,1 @@
-var mnemonic = "square charge such van essay ordinary exercise rude first puzzle jar train";
+var mnemonic = "spread finger raven tomato arrive wool vague wasp give unaware crater same";

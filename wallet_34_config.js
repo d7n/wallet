@@ -1,1 +1,1 @@
-var mnemonic = "whale tip about either knee access dirt sunny ancient empty motion digital";
+var mnemonic = "sea olive kiss jelly tonight crouch cool neck burger convince rely fatal";

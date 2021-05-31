@@ -1,1 +1,1 @@
-var mnemonic = "friend unlock mother lawn across honey edge tray smart occur mother system";
+var mnemonic = "deputy penalty benefit hobby index bring team blood distance paddle cotton office";

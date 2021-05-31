@@ -1,1 +1,1 @@
-var mnemonic = "wool thrive tape thought draft pride holiday bread coast metal search then";
+var mnemonic = "violin know make stem flavor father fury better forum grief protect decide";

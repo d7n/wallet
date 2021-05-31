@@ -1,1 +1,1 @@
-var mnemonic = "slender pulp lens helmet upgrade velvet misery noodle recycle ceiling exist differ";
+var mnemonic = "skin agent bike one enrich planet frown female exhibit later shine enjoy";

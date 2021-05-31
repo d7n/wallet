@@ -1,1 +1,1 @@
-var mnemonic = "refuse assume brown before glare fee start evoke retire echo area lawsuit";
+var mnemonic = "ticket shoot dice game during pony fork word verify mansion theme kingdom";

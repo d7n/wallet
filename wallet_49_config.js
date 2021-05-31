@@ -1,1 +1,1 @@
-var mnemonic = "analyst armed return wall rely spell dilemma color exit puzzle civil drill";
+var mnemonic = "width fabric give mean hand patient pluck scatter dinner sauce post rely";

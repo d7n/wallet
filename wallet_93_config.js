@@ -1,1 +1,1 @@
-var mnemonic = "before lava help return among custom guilt thumb toss rice brisk deny";
+var mnemonic = "ticket you dream zero water verify city suit steak summer dwarf slam";

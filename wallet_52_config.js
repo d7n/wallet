@@ -1,1 +1,1 @@
-var mnemonic = "scout toss kingdom edge guard jaguar nerve butter alone diamond sponsor melody";
+var mnemonic = "armed later purchase charge under grit purity forward close indicate pizza lonely";

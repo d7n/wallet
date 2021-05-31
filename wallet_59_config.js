@@ -1,1 +1,1 @@
-var mnemonic = "judge canoe casino expose divorce siren illness grace farm mean angle eagle";
+var mnemonic = "weasel pulp fever donate blade language blur victory shine slot vague faculty";

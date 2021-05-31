@@ -1,1 +1,1 @@
-var mnemonic = "table bulk please actual task diary suffer bird helmet delay problem sorry";
+var mnemonic = "engine domain recall help zebra library inside lazy solid earth stand cabbage";

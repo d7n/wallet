@@ -1,1 +1,1 @@
-var mnemonic = "expect someone human behind arch confirm remove rough happy enlist immune find";
+var mnemonic = "argue comfort blossom ill robust perfect abuse frame hunt smart ranch cigar";

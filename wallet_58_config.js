@@ -1,1 +1,1 @@
-var mnemonic = "bike know acquire icon quantum between armed pumpkin slab episode glass nothing";
+var mnemonic = "property diesel robot enable brisk purpose violin oak wheel grape volcano cushion";

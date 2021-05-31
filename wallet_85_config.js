@@ -1,1 +1,1 @@
-var mnemonic = "skirt hammer filter slender verb cinnamon vessel run belt appear extra city";
+var mnemonic = "song business cage arrest segment actress badge vital unique hire wave reopen";

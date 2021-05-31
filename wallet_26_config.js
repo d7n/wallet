@@ -1,1 +1,1 @@
-var mnemonic = "snow wrap asset aisle cat obey only empty want way theme online";
+var mnemonic = "model flight orient original panel final artefact waste disorder edge group penalty";

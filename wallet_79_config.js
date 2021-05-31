@@ -1,1 +1,1 @@
-var mnemonic = "weird slot calm beef refuse fluid derive vicious regret pilot seat corn";
+var mnemonic = "farm twice police kiwi avoid city eye humor claw rival will purse";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch call stay tape neutral couch load auto fiscal attitude nominee story";
+var mnemonic = "pig usual option butter mule middle rebel swift melt diamond million lottery";

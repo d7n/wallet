@@ -1,1 +1,1 @@
-var mnemonic = "need bike couch odor enemy butter yard hope garbage nation hurt sugar";
+var mnemonic = "physical crater split museum rescue ethics buzz left meat moral call shadow";

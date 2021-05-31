@@ -1,1 +1,1 @@
-var mnemonic = "breeze current day liar huge own more image wealth wall school mouse";
+var mnemonic = "quote trouble real dignity clever essence such twice repair myself swarm boost";

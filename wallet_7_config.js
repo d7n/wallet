@@ -1,1 +1,1 @@
-var mnemonic = "inside attitude interest student ignore quiz garlic hood bleak ankle industry corn";
+var mnemonic = "stove grain practice quarter couple focus nothing arena together island sample monkey";

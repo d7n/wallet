@@ -1,1 +1,1 @@
-var mnemonic = "decide choice quantum teach nothing dirt gravity slender parrot text accuse lumber";
+var mnemonic = "office wrist spot loud clock gas flee alley bless ketchup monkey carbon";

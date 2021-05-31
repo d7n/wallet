@@ -1,1 +1,1 @@
-var mnemonic = "find book execute hobby high enough age float book gallery hip garment";
+var mnemonic = "crush manage nice glide occur sure high trouble prosper scale elevator gossip";

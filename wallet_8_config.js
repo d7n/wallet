@@ -1,1 +1,1 @@
-var mnemonic = "credit road business make total wash tomorrow jealous bargain find melt hen";
+var mnemonic = "planet pelican beauty hidden apart taxi hip clever final addict dismiss happy";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe airport melt oyster rose final first river midnight zebra foil ahead";
+var mnemonic = "educate evolve barrel fiber toss actor raw team indicate gossip caught doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "pole garment fine morning nephew jar matrix question hand mom heavy stand";
+var mnemonic = "aunt mammal transfer inside rival simple crumble swear reduce hollow side mechanic";

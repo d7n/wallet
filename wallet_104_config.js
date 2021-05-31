@@ -1,1 +1,1 @@
-var mnemonic = "disorder monster cause shy milk traffic save senior amateur grain echo shine";
+var mnemonic = "afford wife alcohol talent bind rifle feel very couple lawsuit cool spell";

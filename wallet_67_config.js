@@ -1,1 +1,1 @@
-var mnemonic = "square wild december orchard pond cousin laptop dog broom foot opinion very";
+var mnemonic = "gentle bless assault water pencil system sugar pitch reopen sadness corn stumble";

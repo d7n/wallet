@@ -1,1 +1,1 @@
-var mnemonic = "organ illness purity august tackle slam upgrade cabbage potato reward other better";
+var mnemonic = "hero smooth erupt pact champion edge relief tomato zero march auto poet";

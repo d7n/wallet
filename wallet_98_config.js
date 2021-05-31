@@ -1,1 +1,1 @@
-var mnemonic = "warm use this lonely inside delay style nothing twist behave maid ostrich";
+var mnemonic = "radar ticket parade iron tired pigeon mango lawn time february dune sister";

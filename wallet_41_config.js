@@ -1,1 +1,1 @@
-var mnemonic = "imitate cactus spring roast manual leader will dragon label digital laugh swift";
+var mnemonic = "number pepper empower result tell fly trip awful educate cross luggage gym";

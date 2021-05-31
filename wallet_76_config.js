@@ -1,1 +1,1 @@
-var mnemonic = "all erupt trophy maid topic expire feel behind crucial reform fever glad";
+var mnemonic = "bachelor faith say all april client infant tattoo flock cannon acoustic flight";

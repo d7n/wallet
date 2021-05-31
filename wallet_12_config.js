@@ -1,1 +1,1 @@
-var mnemonic = "ketchup small cart insane innocent minimum road ivory firm siege fortune degree";
+var mnemonic = "banana lesson hybrid gravity accuse photo quarter smile possible usual pink reflect";

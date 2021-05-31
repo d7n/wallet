@@ -1,1 +1,1 @@
-var mnemonic = "wasp cruel decrease egg room require rival brown rigid glance soap setup";
+var mnemonic = "bone boost photo prepare match acid odor object south index jewel artist";

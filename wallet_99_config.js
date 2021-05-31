@@ -1,1 +1,1 @@
-var mnemonic = "stuff great amused oyster wage wasp innocent brass switch weapon initial earn";
+var mnemonic = "fold project apple paddle quick eyebrow omit giraffe sock blur dinosaur endless";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn little survey keen initial affair poet slide number blouse false game";
+var mnemonic = "fabric hope fabric edit sad stone scissors tone trophy need always piece";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion hurry brown floor chicken sock truck mountain fade plastic drift butter";
+var mnemonic = "fiber drift voice lyrics owner educate boss industry anchor mandate coin lend";

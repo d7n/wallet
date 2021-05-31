@@ -1,1 +1,1 @@
-var mnemonic = "drama canoe vault loud vivid nose horror across orbit combine resist cake";
+var mnemonic = "jelly intact possible bench apple drift emerge pigeon live faculty faculty upset";

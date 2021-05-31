@@ -1,1 +1,1 @@
-var mnemonic = "legal cliff nothing ivory peasant enrich pluck rescue transfer crack mandate involve";
+var mnemonic = "dose crane sister summer deputy run front okay excess member sketch garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "chase hundred sketch useless monster all episode million waste drip gift spend";
+var mnemonic = "tide assume hunt force check ripple ecology coconut frozen wise pull space";

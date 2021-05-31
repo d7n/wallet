@@ -1,1 +1,1 @@
-var mnemonic = "vague frame save negative bracket female lens goose hello nice remind ozone";
+var mnemonic = "approve script high spirit sand regular busy skill author abstract country slide";

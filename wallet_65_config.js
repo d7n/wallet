@@ -1,1 +1,1 @@
-var mnemonic = "glory alone defense stick attract eyebrow jelly jazz month survey burger survey";
+var mnemonic = "quote buzz spin shop forest begin funny fatigue leisure gold over fade";

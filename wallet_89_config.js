@@ -1,1 +1,1 @@
-var mnemonic = "random maze firm biology judge alpha actor reward huge stairs system employ";
+var mnemonic = "bicycle truly rib flower produce cost bamboo stem gallery marriage cluster build";

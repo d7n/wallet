@@ -1,1 +1,1 @@
-var mnemonic = "offer letter faith put answer mix pear merge cereal rule brass inch";
+var mnemonic = "crisp prepare coyote top hold upper valley hip quantum grief axis pond";

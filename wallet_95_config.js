@@ -1,1 +1,1 @@
-var mnemonic = "tail slot art degree under vocal visit churn humor flat final gospel";
+var mnemonic = "violin prison balance gesture inherit burger slush relax because captain bunker include";

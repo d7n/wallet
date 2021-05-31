@@ -1,1 +1,1 @@
-var mnemonic = "coral afraid tree napkin win risk pretty limb moral wheel eight bring";
+var mnemonic = "ski deal ostrich old choice ahead library idea hunt dirt myth soul";

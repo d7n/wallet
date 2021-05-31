@@ -1,1 +1,1 @@
-var mnemonic = "monkey biology token budget monster tool cruise what alcohol bulb ranch program";
+var mnemonic = "build code salute hospital host payment delay skill season man six limb";

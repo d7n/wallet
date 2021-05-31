@@ -1,1 +1,1 @@
-var mnemonic = "salt ramp giraffe bright vital snow razor enable nothing prosper habit wing";
+var mnemonic = "fold blast announce curious control asset shadow sausage million segment spider forum";

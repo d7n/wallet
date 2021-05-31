@@ -1,1 +1,1 @@
-var mnemonic = "recall token gain company crisp clerk float industry eternal drama struggle marble";
+var mnemonic = "scissors enhance term crumble parrot hurt airport upset cage injury old deal";

@@ -1,1 +1,1 @@
-var mnemonic = "merge open picnic charge drink engine runway enact unit fruit plastic search";
+var mnemonic = "truly grace enact waste crystal pass organ wish churn you sausage solve";

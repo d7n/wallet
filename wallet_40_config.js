@@ -1,1 +1,1 @@
-var mnemonic = "enjoy rescue spirit patrol until infant joy unveil opinion proud news purity";
+var mnemonic = "candy push uniform catch doll tired live tone room able dinner gain";

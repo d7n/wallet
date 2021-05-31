@@ -1,1 +1,1 @@
-var mnemonic = "jewel globe book margin kangaroo loop vacuum quick drip life artefact allow";
+var mnemonic = "music receive ticket toward donate crunch daughter advice casino short fan meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "concert impulse autumn oppose unusual raven hobby census force negative cycle useful";
+var mnemonic = "churn master diamond ramp wrap crane wait divide cool chest scout initial";

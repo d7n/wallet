@@ -1,1 +1,1 @@
-var mnemonic = "early broken merge glad merit evidence zone fork bottom car transfer sorry";
+var mnemonic = "embody sight parade spin cattle valid kiwi record upgrade entry mercy decline";

@@ -1,1 +1,1 @@
-var mnemonic = "maple pull city ozone mass undo capable later van path goddess deliver";
+var mnemonic = "swap rural repeat mouse legend round weasel coach mixed coral faculty olive";

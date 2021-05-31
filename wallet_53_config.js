@@ -1,1 +1,1 @@
-var mnemonic = "robot vital polar bomb chicken salute lunch equal exclude popular since admit";
+var mnemonic = "text nature found happy oven admit system fit turn door axis picnic";

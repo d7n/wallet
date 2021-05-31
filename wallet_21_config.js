@@ -1,1 +1,1 @@
-var mnemonic = "among drip jungle sleep blame feature spatial habit concert bachelor typical town";
+var mnemonic = "electric fly west swap sudden slab beauty fruit liberty crime jump history";

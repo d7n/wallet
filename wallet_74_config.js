@@ -1,1 +1,1 @@
-var mnemonic = "theme mass meat glove survey draw hand air sort economy wise volcano";
+var mnemonic = "lesson vintage dinner urban push blanket deny punch wire bunker opera thought";

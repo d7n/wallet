@@ -1,1 +1,1 @@
-var mnemonic = "scorpion old convince squeeze ice want already supreme still outside silent second";
+var mnemonic = "mechanic vintage harsh process fringe alcohol either media slim mandate myself surround";

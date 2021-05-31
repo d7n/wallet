@@ -1,1 +1,1 @@
-var mnemonic = "hybrid aunt artwork federal you boost guard funny jelly village parade valve";
+var mnemonic = "potato liar chronic screen submit erode eyebrow detail piano denial runway female";

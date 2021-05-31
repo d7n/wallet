@@ -1,1 +1,1 @@
-var mnemonic = "diamond south auction address gravity pool alert door auction outside art nurse";
+var mnemonic = "bonus define have beauty blur net dune velvet bicycle version wealth pitch";

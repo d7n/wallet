@@ -1,1 +1,1 @@
-var mnemonic = "eternal subway track crunch armed remain kingdom boy door pencil obvious either";
+var mnemonic = "stool account glad drip seek decorate witness swallow garment field assist wine";
