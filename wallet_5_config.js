@@ -1,1 +1,1 @@
-var mnemonic = "health bullet behind clean kind else oxygen soccer journey enemy word road";
+var mnemonic = "lunar jacket shell curve hurry gap where scan survey elbow dynamic brick";

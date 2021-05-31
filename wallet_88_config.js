@@ -1,1 +1,1 @@
-var mnemonic = "donor monster among side reward pottery position family laptop honey night copy";
+var mnemonic = "copy shallow flavor grace screen library mammal mountain chief resemble perfect stereo";

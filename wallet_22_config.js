@@ -1,1 +1,1 @@
-var mnemonic = "ankle giggle payment spot drastic face extend jungle tunnel fan history empower";
+var mnemonic = "raw wave execute busy vivid acquire clinic hurdle movie extend orbit rack";

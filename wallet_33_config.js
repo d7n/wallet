@@ -1,1 +1,1 @@
-var mnemonic = "main celery empty hood olive pledge annual bag oil popular effort proof";
+var mnemonic = "soldier unfair motor gorilla elder point ice song blanket motion lock december";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar work vital pet rate mimic fantasy adapt amount umbrella duty mind";
+var mnemonic = "outside rather asthma art unknown wife update barely syrup follow maid choice";

@@ -1,1 +1,1 @@
-var mnemonic = "post ski parent cage elegant shaft tone air discover oven owner plastic";
+var mnemonic = "galaxy essence case wink gap detect cover happy multiply wrist call machine";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fresh runway join critic caught buyer easily know scheme possible entry";
+var mnemonic = "express blossom already flee ketchup rescue organ palm arctic faint guard ball";

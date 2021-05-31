@@ -1,1 +1,1 @@
-var mnemonic = "torch resemble debris normal remain wool north stereo mixed element salad tent";
+var mnemonic = "best car chicken legend nose banana bar vivid hurt cruise reopen alcohol";

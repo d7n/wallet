@@ -1,1 +1,1 @@
-var mnemonic = "coin blind vital wreck burger candy calm front toast about pretty group";
+var mnemonic = "smile save robot earn snow pepper bracket lizard island rent simple opera";

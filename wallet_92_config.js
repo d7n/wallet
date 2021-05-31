@@ -1,1 +1,1 @@
-var mnemonic = "wire rose subway noble divert board very feed resist legal offer member";
+var mnemonic = "august bundle cliff blade bulb copper forget barely grab border garage modify";

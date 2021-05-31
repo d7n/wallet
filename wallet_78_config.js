@@ -1,1 +1,1 @@
-var mnemonic = "nasty apology real pink seven foam indoor fall off melt upgrade chef";
+var mnemonic = "pond burger act skull public captain uniform mercy hill ancient code cheap";

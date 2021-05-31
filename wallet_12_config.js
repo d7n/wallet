@@ -1,1 +1,1 @@
-var mnemonic = "gallery goddess gauge system motor repair hawk left panda lesson rabbit nature";
+var mnemonic = "either review fault crack lawn elegant town cigar predict open divert diary";

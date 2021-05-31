@@ -1,1 +1,1 @@
-var mnemonic = "until erase front despair height ivory lobster attack engage captain before motion";
+var mnemonic = "merry lion print equip error indoor sentence abandon term weasel retreat evolve";

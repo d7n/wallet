@@ -1,1 +1,1 @@
-var mnemonic = "siege year credit mango receive rose flavor much slender motion october fly";
+var mnemonic = "matrix walk awake canyon puppy noble sock skill mass excite nuclear ski";

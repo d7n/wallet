@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog able solve window discover express marine veteran also patch strong sample";
+var mnemonic = "actor boat turkey throw average uncover merry eyebrow slush album athlete offer";

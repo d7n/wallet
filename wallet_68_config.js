@@ -1,1 +1,1 @@
-var mnemonic = "lunar finish muffin absorb toe vehicle jar mix badge luxury paper vague";
+var mnemonic = "box sting hope cabin blame climb program nation cereal ocean grant soon";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle upset repeat glue few hollow inherit frog spread pudding furnace farm";
+var mnemonic = "together choose vote fluid fly suit notice census neither butter endorse wage";

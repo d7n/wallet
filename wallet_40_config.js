@@ -1,1 +1,1 @@
-var mnemonic = "tube guard level another repair size trial tenant hurry seat roast riot";
+var mnemonic = "desert ripple clarify material code cross version video correct behind rough convince";

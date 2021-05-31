@@ -1,1 +1,1 @@
-var mnemonic = "expect orphan anxiety inch elbow rocket belt across vintage health unusual mother";
+var mnemonic = "current online retire collect head arrest pizza path shop boy glue want";

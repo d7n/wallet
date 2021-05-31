@@ -1,1 +1,1 @@
-var mnemonic = "reopen inflict firm tonight recycle dawn survey tourist debate creek cheap rib";
+var mnemonic = "glory caution prepare across glory dutch forget what special fiscal drama machine";

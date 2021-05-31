@@ -1,1 +1,1 @@
-var mnemonic = "head scale helmet under salmon own ignore wealth forest theme explain shiver";
+var mnemonic = "melody exchange motor else original rent absent caught volume fox leader curve";

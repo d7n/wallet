@@ -1,1 +1,1 @@
-var mnemonic = "mechanic permit label please fame worry now whisper inject upgrade mixture lecture";
+var mnemonic = "able raven wire work token nothing abstract mirror horror when awkward multiply";

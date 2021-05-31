@@ -1,1 +1,1 @@
-var mnemonic = "cricket cave length abandon car trap cement source dress virus tail cloud";
+var mnemonic = "avoid identify myth unit find dentist train noise stay hood best knife";

@@ -1,1 +1,1 @@
-var mnemonic = "renew nasty talent weekend universe salad nuclear earth million disease promote forget";
+var mnemonic = "harbor fury place accident ribbon strike cupboard head inhale brief rough kite";

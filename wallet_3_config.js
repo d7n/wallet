@@ -1,1 +1,1 @@
-var mnemonic = "fury giraffe case ahead indicate absorb amount thrive inch aisle lesson parrot";
+var mnemonic = "phone flavor spread this swift hard penalty pave clog urge clump control";

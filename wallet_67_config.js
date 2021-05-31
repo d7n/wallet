@@ -1,1 +1,1 @@
-var mnemonic = "spy poem dizzy picture jungle science gossip expect conduct trust soul fold";
+var mnemonic = "position turn cruel slow lumber kitchen dream twelve alter obtain mimic oyster";

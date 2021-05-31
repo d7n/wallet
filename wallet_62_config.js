@@ -1,1 +1,1 @@
-var mnemonic = "dance drastic vintage future enrich cause gadget idea lawn erosion public play";
+var mnemonic = "devote potato school rally wild reward junk degree daughter know permit movie";

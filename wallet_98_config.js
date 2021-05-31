@@ -1,1 +1,1 @@
-var mnemonic = "unable mom kangaroo cash note infant tray movie sail expose crime motion";
+var mnemonic = "arrive double valve laundry remain tumble mirror bone help network usual color";

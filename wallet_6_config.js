@@ -1,1 +1,1 @@
-var mnemonic = "middle era response swim goat educate dynamic obscure flavor guard cricket pulp";
+var mnemonic = "rebuild you bird version rally crack bracket dilemma soda skate peasant remind";

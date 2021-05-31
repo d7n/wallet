@@ -1,1 +1,1 @@
-var mnemonic = "target park orange sail wash reduce ignore curve answer cruise punch breeze";
+var mnemonic = "prepare suit garlic country echo eternal broccoli injury split tissue arctic element";

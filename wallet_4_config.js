@@ -1,1 +1,1 @@
-var mnemonic = "elder pelican ketchup tooth visa foam leopard olive rocket reward clog master";
+var mnemonic = "business invite person latin vocal wage head tuna fall behind turkey nose";

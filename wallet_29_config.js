@@ -1,1 +1,1 @@
-var mnemonic = "rose midnight expire caught second prize crunch wrong spread empty company neutral";
+var mnemonic = "liberty vibrant goat alarm thought toilet glass erupt just lend load claim";

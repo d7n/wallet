@@ -1,1 +1,1 @@
-var mnemonic = "aerobic earth wheat solution already drum neither spend diary rain lounge wonder";
+var mnemonic = "mushroom saddle nuclear fortune fame stock pluck habit chalk equip toe tape";

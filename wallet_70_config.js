@@ -1,1 +1,1 @@
-var mnemonic = "exact cabbage tank resemble moon impose wide noise immense promote air risk";
+var mnemonic = "happy list fancy leader team ahead police swim shove problem diesel zebra";

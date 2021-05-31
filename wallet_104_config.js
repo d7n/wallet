@@ -1,1 +1,1 @@
-var mnemonic = "minute huge photo tilt bean distance ginger arrive busy fish silent name";
+var mnemonic = "scout clever rally museum eyebrow please object adjust vast present tiny target";

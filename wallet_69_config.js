@@ -1,1 +1,1 @@
-var mnemonic = "velvet undo forward frequent cactus record broken narrow guard solution airport remember";
+var mnemonic = "street inquiry provide couple endless library magic build rigid idea defense picture";

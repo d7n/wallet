@@ -1,1 +1,1 @@
-var mnemonic = "sunny just segment waste finish decade hedgehog snow flavor dizzy obtain dose";
+var mnemonic = "nuclear bleak asthma salt empower canyon cargo attract snake pear inherit goddess";

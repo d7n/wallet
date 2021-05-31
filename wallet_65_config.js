@@ -1,1 +1,1 @@
-var mnemonic = "celery roast useful voice change sugar exotic layer airport symbol dirt guide";
+var mnemonic = "require enhance seminar cause april good jar kick rate source relief depart";

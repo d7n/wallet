@@ -1,1 +1,1 @@
-var mnemonic = "crucial hero forward unveil exotic farm amount hurry web sleep soft slush";
+var mnemonic = "help measure armor amateur omit unlock snack rival stereo hundred boy patient";

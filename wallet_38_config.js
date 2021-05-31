@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hold keen giggle miss junior pencil neck season sand surface only";
+var mnemonic = "ghost reward scout van solid midnight price pistol ugly recycle sea butter";

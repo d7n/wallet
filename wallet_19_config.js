@@ -1,1 +1,1 @@
-var mnemonic = "leave walk couple winter tray indicate swear gloom skirt distance involve train";
+var mnemonic = "heart check key couch october crush sorry vote staff because inside great";

@@ -1,1 +1,1 @@
-var mnemonic = "slice card hat write onion crisp rib clay citizen struggle pumpkin novel";
+var mnemonic = "creek lock slim fresh fit primary analyst chief hole claw drastic fetch";

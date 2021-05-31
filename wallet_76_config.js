@@ -1,1 +1,1 @@
-var mnemonic = "forest protect resource lunch grocery inch fetch need arrange ability custom air";
+var mnemonic = "bubble range nothing glove embrace smooth display tilt gather gospel perfect attract";

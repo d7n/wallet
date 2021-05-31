@@ -1,1 +1,1 @@
-var mnemonic = "soap purse secret negative become crush coffee broccoli truly flight away bomb";
+var mnemonic = "over still obvious unlock smoke sponsor gravity surge cotton install loop tennis";

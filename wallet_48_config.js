@@ -1,1 +1,1 @@
-var mnemonic = "awkward resemble social dream scan venture poverty staff fork valid flee street";
+var mnemonic = "attitude theme engage frame taste retreat exhaust hunt early pluck carry acoustic";

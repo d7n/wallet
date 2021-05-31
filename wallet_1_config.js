@@ -1,1 +1,1 @@
-var mnemonic = "ill hybrid measure canyon update either same seven fiction foil mesh exile";
+var mnemonic = "private sunset endorse crisp injury junk hello cave vessel foil verb stadium";

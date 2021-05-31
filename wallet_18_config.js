@@ -1,1 +1,1 @@
-var mnemonic = "use legal vibrant unit snap rack shuffle suggest recipe zoo honey medal";
+var mnemonic = "inmate observe jewel oblige adjust banana analyst buffalo sign prize during tissue";

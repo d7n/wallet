@@ -1,1 +1,1 @@
-var mnemonic = "drill chief will glass cover social light uphold moral forest tuition attend";
+var mnemonic = "turkey buffalo behind envelope gun spawn fashion grab push lecture tell coral";

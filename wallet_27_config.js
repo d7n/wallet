@@ -1,1 +1,1 @@
-var mnemonic = "soldier slender enable soccer search very glad decorate bar pulse cat omit";
+var mnemonic = "off mobile vote clutch advice between entry yard best satisfy grape clip";

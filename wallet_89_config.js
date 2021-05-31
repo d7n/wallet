@@ -1,1 +1,1 @@
-var mnemonic = "neither craft chronic glide lens axis dove close feed again butter double";
+var mnemonic = "scorpion arctic ramp athlete member dismiss robot lift virtual camera idea view";

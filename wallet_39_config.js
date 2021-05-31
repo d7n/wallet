@@ -1,1 +1,1 @@
-var mnemonic = "try drink text viable nuclear feel baby antique pool modify chief arch";
+var mnemonic = "member slush tornado park crowd language size audit age network possible turkey";

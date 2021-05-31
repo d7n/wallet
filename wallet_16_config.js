@@ -1,1 +1,1 @@
-var mnemonic = "satisfy bitter dash science cousin affair dolphin style peanut palace good joke";
+var mnemonic = "detail heart weather move early bone tool stereo soldier opera inform space";

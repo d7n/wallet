@@ -1,1 +1,1 @@
-var mnemonic = "reward pelican two move swap media faculty sing trial promote coin shoot";
+var mnemonic = "spend rebuild service time any vicious flag run gravity odor couch flag";

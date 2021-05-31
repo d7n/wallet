@@ -1,1 +1,1 @@
-var mnemonic = "chunk tree embrace shoulder subject kiwi thrive vicious peasant tongue mirror width";
+var mnemonic = "laundry control bus frown require furnace inject reform awful run know attitude";

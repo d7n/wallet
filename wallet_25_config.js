@@ -1,1 +1,1 @@
-var mnemonic = "day vote invest mountain upon control symptom secret where approve lake vault";
+var mnemonic = "grunt feed victory bread nurse crunch odor ripple portion path swift below";

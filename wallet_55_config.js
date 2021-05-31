@@ -1,1 +1,1 @@
-var mnemonic = "cushion lady autumn sample cattle flat vicious toy topic whisper limit salute";
+var mnemonic = "silly cat injury walnut pudding chef scrub penalty spice small chair scare";

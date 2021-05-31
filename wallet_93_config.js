@@ -1,1 +1,1 @@
-var mnemonic = "where father miss kid absurd slide cabbage fluid ability banner bus history";
+var mnemonic = "sheriff opinion ready maid fine birth kitchen spider cattle treat able apart";

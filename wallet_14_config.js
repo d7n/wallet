@@ -1,1 +1,1 @@
-var mnemonic = "predict century happy manual describe invite merit lizard music recall chunk pigeon";
+var mnemonic = "rifle grunt action luggage pony cable pet neck strategy bone guilt ceiling";

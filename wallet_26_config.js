@@ -1,1 +1,1 @@
-var mnemonic = "source emerge strike stereo giraffe side media nest scare swift client primary";
+var mnemonic = "junk blush upset fall cannon august lunch engine post suit town swallow";

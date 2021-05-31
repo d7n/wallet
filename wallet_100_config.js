@@ -1,1 +1,1 @@
-var mnemonic = "champion among fame inject town genre hamster expose guitar candy aware bless";
+var mnemonic = "logic athlete brass click ghost twenty since trip toward family few cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "grass slab next pipe blanket swim inspire boat brief avocado later goat";
+var mnemonic = "cake build piano hour already unique reopen distance nerve nasty mushroom citizen";

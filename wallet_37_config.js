@@ -1,1 +1,1 @@
-var mnemonic = "wagon scale license breeze task balance ritual start hundred frozen country goat";
+var mnemonic = "fee myself life unique across wrong kiwi monitor opera supply eager trend";

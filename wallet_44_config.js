@@ -1,1 +1,1 @@
-var mnemonic = "home steel idea unlock amused bronze device this eager black subway vibrant";
+var mnemonic = "apart alcohol property honey stamp empty mansion mobile make jungle delay edge";

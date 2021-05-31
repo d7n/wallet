@@ -1,1 +1,1 @@
-var mnemonic = "subway comic pipe cancel end inquiry grow frog liberty pole truly extra";
+var mnemonic = "never poverty flavor festival rabbit sheriff able proof invite entry deal inquiry";

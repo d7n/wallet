@@ -1,1 +1,1 @@
-var mnemonic = "try nuclear junior patient degree solution garment gasp agent ring broom hungry";
+var mnemonic = "click subject twist walk season ski kind novel staff maximum puzzle update";

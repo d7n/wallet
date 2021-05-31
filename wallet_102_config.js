@@ -1,1 +1,1 @@
-var mnemonic = "family pistol gain cause wild frog loud orphan nasty suggest mouse valley";
+var mnemonic = "swim smile stamp involve cake pole crawl trash limit hurt shell shrimp";

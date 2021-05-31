@@ -1,1 +1,1 @@
-var mnemonic = "update middle net arena switch index scrap skate dose rail melody lock";
+var mnemonic = "artefact donor symbol final member feel layer enjoy time squirrel ripple boat";

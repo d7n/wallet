@@ -1,1 +1,1 @@
-var mnemonic = "oval ceiling rice vital pond push diary picture balance garbage about behave";
+var mnemonic = "task become stone cool neck country ecology enjoy such pipe venue oyster";

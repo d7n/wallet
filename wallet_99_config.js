@@ -1,1 +1,1 @@
-var mnemonic = "skin avoid ranch index spread release charge cage vapor rice orient fold";
+var mnemonic = "layer master vendor mercy bread guitar power roast laundry belt video scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "camera kidney organ crane height frown various shoulder fine unknown since picnic";
+var mnemonic = "seat tool join year antenna speed glance skate expect shift buzz alpha";

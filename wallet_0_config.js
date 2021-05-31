@@ -1,1 +1,1 @@
-var mnemonic = "control icon chapter rival purpose process swarm robot woman truly will arrive";
+var mnemonic = "suspect pig clap kind piano brick moment water punch pill engine ritual";

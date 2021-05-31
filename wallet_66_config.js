@@ -1,1 +1,1 @@
-var mnemonic = "outdoor amateur alley disorder oblige motor time note island local tunnel timber";
+var mnemonic = "arctic over museum outdoor table silly rack fortune payment fragile vanish add";

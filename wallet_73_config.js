@@ -1,1 +1,1 @@
-var mnemonic = "sun cradle biology still today impulse build exact plastic iron wait execute";
+var mnemonic = "shock suggest morning skin slam swallow result twelve wrong repair tourist execute";

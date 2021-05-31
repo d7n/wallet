@@ -1,1 +1,1 @@
-var mnemonic = "assist unique hurdle few rack believe absurd over also sun elegant live";
+var mnemonic = "cable believe beef model endorse habit dial bronze write floor scrap say";

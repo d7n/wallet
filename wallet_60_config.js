@@ -1,1 +1,1 @@
-var mnemonic = "fatigue awesome mirror silent trap decade cage adult faith eyebrow swift morning";
+var mnemonic = "hat green ensure pilot smoke cabbage warrior panther outdoor diagram snow hole";

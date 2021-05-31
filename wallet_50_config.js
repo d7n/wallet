@@ -1,1 +1,1 @@
-var mnemonic = "replace viable slow talk describe box enemy best sleep bonus answer talk";
+var mnemonic = "guitar mad quantum scale display display maple poverty elder tool obvious menu";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion fitness razor history lunar beef play salon region sunset gospel tackle";
+var mnemonic = "dentist blind bulb gown enrich envelope mobile group crush scout mad fun";

@@ -1,1 +1,1 @@
-var mnemonic = "express shrug question wealth liberty theory action neutral denial ordinary wage next";
+var mnemonic = "unhappy zebra organ abstract system alert glue milk parent hip share wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "cement toss toe write kit forward furnace miss uncle entire cherry rice";
+var mnemonic = "gas artwork extend gossip carbon soccer video treat height alley sauce true";

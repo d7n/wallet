@@ -1,1 +1,1 @@
-var mnemonic = "output treat fee arrest climb tag clarify taxi result keen fluid guard";
+var mnemonic = "sorry garage sorry power sting roast chef divert found harbor later crouch";

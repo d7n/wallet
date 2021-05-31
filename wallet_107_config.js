@@ -1,1 +1,1 @@
-var mnemonic = "between term lesson eager shuffle ride damp combine live wire net seed";
+var mnemonic = "uncle rack town blossom leisure segment oblige daring sister rebuild time dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar tool ceiling today fruit consider tongue various entry lottery regret increase";
+var mnemonic = "utility earn hungry solid share vital together lottery piano divide erosion slice";

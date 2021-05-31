@@ -1,1 +1,1 @@
-var mnemonic = "join ecology butter capital grunt sibling obvious ancient awkward crime choose company";
+var mnemonic = "vanish crumble truly like glow noodle squeeze silk exhaust pool earth risk";

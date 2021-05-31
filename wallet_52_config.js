@@ -1,1 +1,1 @@
-var mnemonic = "equal divide random board arctic tape nice cement double muffin caught lecture";
+var mnemonic = "what draw bacon donor erase ancient bacon yellow actress cake category true";

@@ -1,1 +1,1 @@
-var mnemonic = "glass better crane scout average educate boat relax today hat draw mask";
+var mnemonic = "chalk call stove mammal large business artefact crane scheme tiny tuition express";

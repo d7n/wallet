@@ -1,1 +1,1 @@
-var mnemonic = "addict tribe potato wood oppose diesel tape dune nurse catch avoid ring";
+var mnemonic = "husband reunion diary test lumber diamond company foster candy game click pilot";
