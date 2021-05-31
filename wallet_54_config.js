@@ -1,1 +1,1 @@
-var mnemonic = "city learn venue indicate foot guitar settle robust balcony fault receive visual";
+var mnemonic = "payment equip wealth wood rice hurt cupboard spell poem zone walk wine";

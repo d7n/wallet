@@ -1,1 +1,1 @@
-var mnemonic = "stand hunt suffer forest lonely chimney tiger remain also slight enrich chicken";
+var mnemonic = "bronze anxiety palm transfer swear slush wet team rare eight auction devote";

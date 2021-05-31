@@ -1,1 +1,1 @@
-var mnemonic = "view sister inhale army become chimney forest right view sand time provide";
+var mnemonic = "liquid net image noodle acoustic visual tonight reason way tattoo razor chapter";

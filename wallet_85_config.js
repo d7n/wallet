@@ -1,1 +1,1 @@
-var mnemonic = "enroll alter wrap bubble lounge silent require theme hope cattle solution main";
+var mnemonic = "what town adult nature rotate good rally split else swarm crystal deposit";

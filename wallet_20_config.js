@@ -1,1 +1,1 @@
-var mnemonic = "jazz hole mouse sea put banner vault unable inmate ignore twin two";
+var mnemonic = "move recall lawn reunion reject pioneer token damage banana favorite author faint";

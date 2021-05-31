@@ -1,1 +1,1 @@
-var mnemonic = "clip what paddle try marriage cash bounce erupt gorilla nasty man robust";
+var mnemonic = "below badge prepare soldier region crumble envelope cat sister drill section dinosaur";

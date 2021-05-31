@@ -1,1 +1,1 @@
-var mnemonic = "reveal sea obvious palm soon dumb boil erode more friend then equip";
+var mnemonic = "brown dinosaur bottom goddess busy swamp ocean urge buffalo rule bag transfer";

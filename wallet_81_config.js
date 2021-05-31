@@ -1,1 +1,1 @@
-var mnemonic = "final witness host eight detail use embrace glow slab ship civil turn";
+var mnemonic = "tragic budget ecology bullet broccoli liar stage kit dog lizard tide journey";

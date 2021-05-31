@@ -1,1 +1,1 @@
-var mnemonic = "taxi offer clever february inmate text envelope smoke fan blood cook narrow";
+var mnemonic = "wet bachelor shove universe across help legend obvious plate local prefer verb";

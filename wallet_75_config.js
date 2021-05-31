@@ -1,1 +1,1 @@
-var mnemonic = "evolve vapor attack boost carry property fitness earn enforce gather gain bomb";
+var mnemonic = "regret average enemy slender speed outside accuse legend travel huge buffalo cousin";

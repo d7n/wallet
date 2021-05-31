@@ -1,1 +1,1 @@
-var mnemonic = "column royal cash meat kit hole donkey diagram oppose canoe pudding pair";
+var mnemonic = "future message century wait peace guitar ticket admit armed found worth usage";

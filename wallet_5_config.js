@@ -1,1 +1,1 @@
-var mnemonic = "anxiety adult portion side wife muscle interest rookie ability pulse nothing quantum";
+var mnemonic = "weird crime marriage mass cereal loud movie sample east fatal calm misery";

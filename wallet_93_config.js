@@ -1,1 +1,1 @@
-var mnemonic = "wheel forward pave basket tribe void crop sign wedding rotate cup lounge";
+var mnemonic = "ticket desk connect reform omit brain cloud adapt spot chapter sport demand";

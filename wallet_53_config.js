@@ -1,1 +1,1 @@
-var mnemonic = "century moon orient loop tenant give tide furnace acid daring barely vibrant";
+var mnemonic = "fit salt repair cook hundred ice warm when wise task stadium logic";

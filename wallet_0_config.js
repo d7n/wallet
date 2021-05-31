@@ -1,1 +1,1 @@
-var mnemonic = "device system fatal idea crucial crime phone bless hen evolve vanish soccer";
+var mnemonic = "squeeze box pigeon material dish universe asset protect slim category gloom sort";

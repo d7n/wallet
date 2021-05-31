@@ -1,1 +1,1 @@
-var mnemonic = "domain end today valid bacon decide obscure roast limb float harbor recipe";
+var mnemonic = "blame donor glory dilemma drink together device cruel increase addict awful also";

@@ -1,1 +1,1 @@
-var mnemonic = "cake size boost repeat weird civil great shell knee blouse pelican virus";
+var mnemonic = "label weekend shock dolphin lesson level smooth shell citizen rich soap episode";

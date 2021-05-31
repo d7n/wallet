@@ -1,1 +1,1 @@
-var mnemonic = "opinion chapter gorilla inhale sting parade swamp beef swallow hazard scene catch";
+var mnemonic = "clap ship egg scrub market under guard reason fever turn castle soft";

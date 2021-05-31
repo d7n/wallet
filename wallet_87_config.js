@@ -1,1 +1,1 @@
-var mnemonic = "original pass between siren space sudden zoo ivory age daring domain asset";
+var mnemonic = "vapor drastic thing twice mask alarm wreck submit outer gravity garage where";

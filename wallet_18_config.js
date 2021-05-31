@@ -1,1 +1,1 @@
-var mnemonic = "vital kit lottery main sadness weekend waste crane draw gloom hip fix";
+var mnemonic = "square debate inform sheriff resist balcony table forget antenna addict banner reject";

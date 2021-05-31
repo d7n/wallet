@@ -1,1 +1,1 @@
-var mnemonic = "material robot volume stairs shoe brick memory job matrix focus island wife";
+var mnemonic = "topic wave alpha grant brown satoshi gain sense detail bottom cloth check";

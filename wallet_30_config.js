@@ -1,1 +1,1 @@
-var mnemonic = "coffee foil lift wreck worth wreck cup mushroom day supreme pulse help";
+var mnemonic = "lend unhappy nice village thunder strategy hedgehog color divorce better vendor venue";

@@ -1,1 +1,1 @@
-var mnemonic = "dream mom deputy will home term polar carry adapt arrange issue future";
+var mnemonic = "goat before home scissors add student oil name hobby exhaust ahead forget";

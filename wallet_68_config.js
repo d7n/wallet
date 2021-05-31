@@ -1,1 +1,1 @@
-var mnemonic = "mean logic drip solid behind shuffle consider today surge eager gesture make";
+var mnemonic = "hood wet biology sun defy host caught stand cannon want october fine";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse matrix credit opinion path label immune practice gossip girl wing joke";
+var mnemonic = "fold require behave sibling have call unique mushroom adjust sort twelve bulb";

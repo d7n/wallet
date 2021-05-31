@@ -1,1 +1,1 @@
-var mnemonic = "news egg glory obvious tongue slide mercy female face word illegal list";
+var mnemonic = "canvas laptop already phone canal open midnight question sort improve clap various";

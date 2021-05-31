@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ski entire finger announce consider left morning state chicken blur carry";
+var mnemonic = "wrist swarm illegal sword reform stomach disorder banana differ opera powder develop";

@@ -1,1 +1,1 @@
-var mnemonic = "cute announce year picture piano maple egg possible clinic artwork lunar action";
+var mnemonic = "scare mean sock verb strong huge heavy ribbon inflict capable opera isolate";

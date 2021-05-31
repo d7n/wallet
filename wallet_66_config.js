@@ -1,1 +1,1 @@
-var mnemonic = "hard easily tide suggest dune giant system proof hamster spell glue group";
+var mnemonic = "canyon nasty credit pig cattle during oxygen hand arrange unit cliff floor";

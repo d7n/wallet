@@ -1,1 +1,1 @@
-var mnemonic = "dry develop orphan throw quit already senior feel genuine witness vanish affair";
+var mnemonic = "rack yard scorpion attract blade tragic trial expect question boat noble vacuum";

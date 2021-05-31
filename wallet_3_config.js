@@ -1,1 +1,1 @@
-var mnemonic = "pause win buyer firm beef rate depend cable canoe raw glue banner";
+var mnemonic = "gather alone stable census vanish pistol verb maid recycle umbrella deal youth";

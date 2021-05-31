@@ -1,1 +1,1 @@
-var mnemonic = "token plunge boost gather alone hat skirt strategy potato teach forum situate";
+var mnemonic = "common ankle price illegal tomato rebuild hair planet woman inmate obey lens";

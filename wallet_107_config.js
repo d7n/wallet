@@ -1,1 +1,1 @@
-var mnemonic = "extra office pitch ring benefit word tide bike diesel farm cube choice";
+var mnemonic = "mad chair path two category gossip saddle inch load sand trial duty";

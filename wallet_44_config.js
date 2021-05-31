@@ -1,1 +1,1 @@
-var mnemonic = "tag decline drink tomato polar sick you resemble defy size debate dad";
+var mnemonic = "detect canyon exhaust suffer giraffe job cradle hidden grocery potato economy spoon";

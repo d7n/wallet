@@ -1,1 +1,1 @@
-var mnemonic = "syrup shadow page glory useful artwork hood night balance system come pyramid";
+var mnemonic = "duty cluster brave menu exclude seat tourist mixed saddle empty sentence oak";

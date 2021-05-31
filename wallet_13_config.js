@@ -1,1 +1,1 @@
-var mnemonic = "hope miss story weasel limit erode vocal weapon romance frequent depend lumber";
+var mnemonic = "favorite lunch supreme thought time hurt win canvas oyster diamond potato secret";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant dumb mosquito faculty together twelve purpose symbol toast oyster enrich neck";
+var mnemonic = "mansion mammal diary meadow brief rigid hood anchor cheap swift carpet enlist";

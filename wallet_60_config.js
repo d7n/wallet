@@ -1,1 +1,1 @@
-var mnemonic = "expand lady cycle key fetch output smile ignore bitter horror prison bunker";
+var mnemonic = "tide problem tennis umbrella spin fish abuse inner magic doctor either drastic";

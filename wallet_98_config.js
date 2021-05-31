@@ -1,1 +1,1 @@
-var mnemonic = "erode elbow model when target tongue reflect company master vital torch mechanic";
+var mnemonic = "act hair sea six upper fork tobacco toe obscure lyrics adult soccer";

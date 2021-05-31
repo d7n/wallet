@@ -1,1 +1,1 @@
-var mnemonic = "tomato happy speak armor pause magnet boy trigger wink island february verb";
+var mnemonic = "merry give reunion outdoor birth share truly sea picture march bunker lesson";

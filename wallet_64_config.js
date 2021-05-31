@@ -1,1 +1,1 @@
-var mnemonic = "foil warfare tag endorse surface crop zebra boat split laugh acoustic spray";
+var mnemonic = "jump gallery bamboo salon jump damp fatigue excess width century tail reject";

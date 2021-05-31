@@ -1,1 +1,1 @@
-var mnemonic = "reason vessel spatial success earn tonight consider holiday already retire wedding donor";
+var mnemonic = "trade evil detect swallow bring reform jump wear share reason warm fork";

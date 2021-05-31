@@ -1,1 +1,1 @@
-var mnemonic = "box stuff jump top bus lecture position oven novel melt cycle will";
+var mnemonic = "sustain swallow person before domain suspect gauge stadium theme position legend adjust";

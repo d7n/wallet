@@ -1,1 +1,1 @@
-var mnemonic = "sister tongue attend visual mimic circle street gym tuition foil consider design";
+var mnemonic = "local dose cheese promote win spike pony crawl cinnamon history student embrace";

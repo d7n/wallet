@@ -1,1 +1,1 @@
-var mnemonic = "record salt unveil hedgehog civil gaze echo damage raccoon dry ability clean";
+var mnemonic = "kidney spider piano maximum trip ring salad grocery mind ticket wife web";

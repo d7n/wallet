@@ -1,1 +1,1 @@
-var mnemonic = "differ review result math comfort dress rich index slogan sound symbol limit";
+var mnemonic = "lumber hammer grab wear venture mountain oyster inner robust couch battle awesome";

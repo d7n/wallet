@@ -1,1 +1,1 @@
-var mnemonic = "input solid limb claw grab sorry soldier alarm chief job benefit soccer";
+var mnemonic = "measure liquid street retreat weekend awful claim smart clean feed nerve gold";

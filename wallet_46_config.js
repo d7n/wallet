@@ -1,1 +1,1 @@
-var mnemonic = "bid kick cry twelve length clog tumble major gather feed cannon decrease";
+var mnemonic = "bring avocado surround bubble travel produce hard easy goat ribbon stable book";

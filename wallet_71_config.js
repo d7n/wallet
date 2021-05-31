@@ -1,1 +1,1 @@
-var mnemonic = "faith firm brush place uniform object avocado pair buyer region setup divert";
+var mnemonic = "verify hybrid ship arrange perfect aisle grow cake gym jelly mean delay";

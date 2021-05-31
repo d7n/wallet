@@ -1,1 +1,1 @@
-var mnemonic = "step toward repair security patrol mistake palace addict worry festival permit ritual";
+var mnemonic = "tray name crazy hobby october mammal whip truly adjust approve police combine";

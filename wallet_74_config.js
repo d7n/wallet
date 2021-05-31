@@ -1,1 +1,1 @@
-var mnemonic = "bounce rather winter view crawl naive voyage kid type barrel penalty shy";
+var mnemonic = "grunt element usage obscure music wine daughter firm garment there since sudden";

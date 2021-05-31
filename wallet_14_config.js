@@ -1,1 +1,1 @@
-var mnemonic = "gather peanut ocean road scrap panda kiss globe oak tell diamond add";
+var mnemonic = "acquire egg story worry plastic strategy castle maple stomach same mango oppose";

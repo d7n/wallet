@@ -1,1 +1,1 @@
-var mnemonic = "glimpse select medal vibrant post web screen aim name holiday jump victory";
+var mnemonic = "stomach middle correct reform toddler oak boss gesture public project detail hire";

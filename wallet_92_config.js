@@ -1,1 +1,1 @@
-var mnemonic = "meat equip rich arrow garage cruel clerk phone walk coyote coast relax";
+var mnemonic = "other rural brief sausage virus cloth bar marriage key cruise peasant dice";

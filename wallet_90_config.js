@@ -1,1 +1,1 @@
-var mnemonic = "table intact gasp afraid label bamboo scale glide garment stone omit guitar";
+var mnemonic = "obvious owner found exhaust hotel alcohol tourist ability interest emerge emotion canoe";

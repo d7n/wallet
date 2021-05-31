@@ -1,1 +1,1 @@
-var mnemonic = "swallow fancy zoo recipe identify update direct eagle spell keen dynamic garden";
+var mnemonic = "exchange wire volume address cargo title aisle canoe kingdom later deputy lemon";

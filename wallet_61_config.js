@@ -1,1 +1,1 @@
-var mnemonic = "giant impulse guard gift sail fortune vendor tissue focus royal zero earth";
+var mnemonic = "praise neck country absorb also license body vague noodle carry journey voice";

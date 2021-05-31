@@ -1,1 +1,1 @@
-var mnemonic = "upset elder dinosaur diagram extend seat pioneer narrow nest frost try eager";
+var mnemonic = "acquire unknown unknown person talent slide ramp heavy few trip sunset decide";

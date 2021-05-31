@@ -1,1 +1,1 @@
-var mnemonic = "render force half grid tiger orchard wet choice armed wolf poverty coach";
+var mnemonic = "group online case stool sample olive bargain female retire camp permit asset";

@@ -1,1 +1,1 @@
-var mnemonic = "gym detect better clog mass cradle heart minor gentle know spike code";
+var mnemonic = "emotion truck vacant arctic wheel differ stand reopen bulb rookie awake bean";

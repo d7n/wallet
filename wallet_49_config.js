@@ -1,1 +1,1 @@
-var mnemonic = "announce clap hope finish throw dynamic topple raw safe praise spring hedgehog";
+var mnemonic = "symptom pepper typical corn settle happy patient casino offer quality cash right";

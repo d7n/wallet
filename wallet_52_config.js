@@ -1,1 +1,1 @@
-var mnemonic = "guess harsh cable flavor sting other swing month modify alcohol dizzy sort";
+var mnemonic = "potato point tiny august squeeze collect exchange subway train romance teach square";

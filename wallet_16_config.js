@@ -1,1 +1,1 @@
-var mnemonic = "leg smart pipe sound crew try just naive timber zone thumb proud";
+var mnemonic = "cheap prison secret purse plastic debris boat loyal network pipe erode toe";

@@ -1,1 +1,1 @@
-var mnemonic = "corn excite tiny kitten copper urban south screen scout basic lyrics chronic";
+var mnemonic = "give neither normal gown piece air sentence rural matrix online rich female";

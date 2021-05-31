@@ -1,1 +1,1 @@
-var mnemonic = "tape border above output autumn return rubber emotion trumpet hawk daughter jeans";
+var mnemonic = "recipe sun century occur harvest solve private humor unfold century word clock";

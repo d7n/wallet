@@ -1,1 +1,1 @@
-var mnemonic = "galaxy seven coin future creek slush intact fix rough thought embody turtle";
+var mnemonic = "card glare typical price empower awkward lemon address alter guilt promote bench";

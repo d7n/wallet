@@ -1,1 +1,1 @@
-var mnemonic = "rookie tribe relief best funny number ladder sun whip harvest lumber nerve";
+var mnemonic = "insect market task town exhibit satoshi salad aim public fun laundry harvest";

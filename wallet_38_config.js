@@ -1,1 +1,1 @@
-var mnemonic = "stumble bleak coconut often tuna speed welcome puppy quantum victory bean galaxy";
+var mnemonic = "fan onion boy chest ensure sound vacuum song blast plastic daughter feel";

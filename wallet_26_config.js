@@ -1,1 +1,1 @@
-var mnemonic = "tackle plate pistol jungle enable lyrics census chief music wide best two";
+var mnemonic = "recall soldier cake aunt lawsuit crawl day clutch poem energy system gentle";

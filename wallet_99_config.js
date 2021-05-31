@@ -1,1 +1,1 @@
-var mnemonic = "worth bone when wait canoe text sun pink media gauge blossom until";
+var mnemonic = "purse thought bid vibrant snap forest way perfect school leader desert retire";

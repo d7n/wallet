@@ -1,1 +1,1 @@
-var mnemonic = "mixture weapon slogan kind tobacco tiny industry donkey tiger hybrid riot obtain";
+var mnemonic = "fade size latin escape ball joy client erode eagle body october swamp";

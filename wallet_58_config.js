@@ -1,1 +1,1 @@
-var mnemonic = "surge super pottery gauge enough peasant protect prosper stock garden armed bring";
+var mnemonic = "crash swift track ozone volume hint urban mansion castle practice echo sample";

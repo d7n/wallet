@@ -1,1 +1,1 @@
-var mnemonic = "royal estate lounge inhale safe betray assist rival ceiling exist ostrich sample";
+var mnemonic = "icon tail banner nerve churn diamond rural fog what velvet tide fence";

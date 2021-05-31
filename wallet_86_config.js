@@ -1,1 +1,1 @@
-var mnemonic = "royal spoon tool away super absent wheel eager slogan lake hello excuse";
+var mnemonic = "promote nose offer taxi morning canyon crew identify panther snake trial keep";

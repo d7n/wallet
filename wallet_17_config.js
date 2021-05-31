@@ -1,1 +1,1 @@
-var mnemonic = "sugar economy shine interest champion slice outside reject erupt smile derive pig";
+var mnemonic = "artwork crew upon paddle later list predict album play frozen cover consider";

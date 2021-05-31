@@ -1,1 +1,1 @@
-var mnemonic = "plate similar fade result scale then cement verb connect brave trust trophy";
+var mnemonic = "crack universe chest effort ribbon news pupil tackle polar story nut armor";

@@ -1,1 +1,1 @@
-var mnemonic = "spare life boat hurt method glimpse various drift humble lumber test toss";
+var mnemonic = "damp intact describe found almost fancy flight afraid visa room build bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "filter pony slice modify you small track notable ketchup island key property";
+var mnemonic = "slice three hen salute nasty decade walnut wreck town banner orphan license";

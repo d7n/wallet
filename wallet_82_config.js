@@ -1,1 +1,1 @@
-var mnemonic = "velvet reflect south spike decline legend human busy clog coach wisdom buzz";
+var mnemonic = "setup height chalk glow absurd insane home squirrel tongue degree giant impose";

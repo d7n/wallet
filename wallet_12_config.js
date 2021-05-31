@@ -1,1 +1,1 @@
-var mnemonic = "obtain bridge wife kitchen hand zebra seek dizzy address tragic grief try";
+var mnemonic = "cereal property audit dice solution box meadow buffalo viable come this unit";

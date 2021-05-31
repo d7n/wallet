@@ -1,1 +1,1 @@
-var mnemonic = "garage extend occur tackle leopard express increase where search pause laugh hill";
+var mnemonic = "result display hidden addict drama sand response shrug sort social explain shuffle";

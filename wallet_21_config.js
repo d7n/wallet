@@ -1,1 +1,1 @@
-var mnemonic = "print finger over believe exchange route pattern gospel mention sweet they remind";
+var mnemonic = "public kitten tribe useless obey leg mammal blossom helmet also airport fever";

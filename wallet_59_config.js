@@ -1,1 +1,1 @@
-var mnemonic = "universe door vivid arena coil common prosper mix pledge security right lesson";
+var mnemonic = "weekend mask crush eagle lottery airport normal future hidden farm peace way";

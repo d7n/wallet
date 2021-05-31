@@ -1,1 +1,1 @@
-var mnemonic = "library endorse drip sibling vanish ghost wrong ghost rack uniform ask mom";
+var mnemonic = "engine leader flight purity scale three slow heavy board congress garlic quote";

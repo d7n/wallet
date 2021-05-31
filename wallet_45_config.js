@@ -1,1 +1,1 @@
-var mnemonic = "forward twice distance actor around foot output protect sure spoil shield humble";
+var mnemonic = "distance mammal image obtain squeeze whisper six charge fine moral gadget right";

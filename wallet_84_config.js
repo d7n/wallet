@@ -1,1 +1,1 @@
-var mnemonic = "person forget degree resource dizzy indoor tail eyebrow hero suit alert biology";
+var mnemonic = "govern master letter holiday defy next insane resist parrot never neutral alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "fault range impose horse exclude occur shop cat verb receive cluster loop";
+var mnemonic = "library token banner mango worry clip share rude team dish hair end";

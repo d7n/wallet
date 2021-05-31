@@ -1,1 +1,1 @@
-var mnemonic = "keep vast suggest once avoid icon census figure nose level forum elevator";
+var mnemonic = "sail pulse tuna spin park version smooth rocket legend omit soul eagle";

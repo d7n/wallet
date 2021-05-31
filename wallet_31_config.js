@@ -1,1 +1,1 @@
-var mnemonic = "derive image evolve noble chaos rate hub dragon soul frame mind office";
+var mnemonic = "party grit giggle injury tone float fire cabin boy faith simple decide";
