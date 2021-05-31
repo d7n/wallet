@@ -1,1 +1,1 @@
-var mnemonic = "false over venture immune one wet denial december climb island clever increase";
+var mnemonic = "woman age valve home destroy middle canvas object witness common replace mimic";

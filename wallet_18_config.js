@@ -1,1 +1,1 @@
-var mnemonic = "coach total mimic next monster double hello output patient echo sun voice";
+var mnemonic = "fire parrot defy mean tourist patient planet hurt crucial panda exist medal";

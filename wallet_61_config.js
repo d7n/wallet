@@ -1,1 +1,1 @@
-var mnemonic = "fiscal power belt describe hard tongue hawk project feel sheriff zero save";
+var mnemonic = "mail note pear call maid bright barrel wire effort voice round era";

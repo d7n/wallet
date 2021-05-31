@@ -1,1 +1,1 @@
-var mnemonic = "best hard universe script time off choice index evolve middle enrich country";
+var mnemonic = "plunge coffee dumb client mechanic weapon worry hello dragon already reflect inject";

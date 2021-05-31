@@ -1,1 +1,1 @@
-var mnemonic = "since casino base kingdom velvet fabric ice innocent robust cook aware burst";
+var mnemonic = "dumb ridge pottery toward heart shiver either can among all few suffer";

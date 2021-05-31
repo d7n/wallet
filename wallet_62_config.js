@@ -1,1 +1,1 @@
-var mnemonic = "burst maid wrap advance spoil north hold giggle flee slim diesel work";
+var mnemonic = "occur pigeon accident return recipe tail segment cart gap medal element return";

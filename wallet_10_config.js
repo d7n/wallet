@@ -1,1 +1,1 @@
-var mnemonic = "broken fan response six humor food rack end accident buffalo opera brick";
+var mnemonic = "law beyond list tenant donor defy drum teach defy credit company prevent";

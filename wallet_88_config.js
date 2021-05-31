@@ -1,1 +1,1 @@
-var mnemonic = "joke allow excuse nothing motor attitude heavy ramp reject leave basic margin";
+var mnemonic = "hamster equal use throw immense rookie rose fragile congress version come industry";

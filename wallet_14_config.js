@@ -1,1 +1,1 @@
-var mnemonic = "reason girl valve describe sea vehicle flash pumpkin inch soldier hole expand";
+var mnemonic = "dream garment nose ensure switch during frown celery erupt equip gold method";

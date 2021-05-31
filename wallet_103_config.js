@@ -1,1 +1,1 @@
-var mnemonic = "ordinary mutual step size raven electric razor quarter powder praise patrol ride";
+var mnemonic = "master inmate dragon allow exhaust hurdle vicious toward detail beyond clever unveil";

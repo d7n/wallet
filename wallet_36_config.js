@@ -1,1 +1,1 @@
-var mnemonic = "weapon oxygen unit jazz strategy junior illness sniff life loop this unaware";
+var mnemonic = "december now pretty length smoke fit verb blossom result lion wise club";

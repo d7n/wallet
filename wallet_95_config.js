@@ -1,1 +1,1 @@
-var mnemonic = "improve absurd genuine action valid catalog oil source drink mixture unusual evidence";
+var mnemonic = "wire dismiss swear half congress prefer behind business custom predict adapt erosion";

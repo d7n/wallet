@@ -1,1 +1,1 @@
-var mnemonic = "drink grief truth stem joke surface park neck exact season will during";
+var mnemonic = "lunar rigid midnight various useful air wet advice furnace tennis extend trial";

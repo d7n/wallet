@@ -1,1 +1,1 @@
-var mnemonic = "wreck cargo outer dust enroll shoulder math auction legend thunder above camp";
+var mnemonic = "fancy always garlic label awful prefer cereal poem caught thought hammer chair";

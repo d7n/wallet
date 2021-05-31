@@ -1,1 +1,1 @@
-var mnemonic = "cereal firm birth symptom law pen deliver panther reason leopard miracle mercy";
+var mnemonic = "walnut zone swamp age ticket airport mandate staff lunar absorb broccoli taxi";

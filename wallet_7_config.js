@@ -1,1 +1,1 @@
-var mnemonic = "cave close metal daughter gold hobby rose palm erupt travel have crawl";
+var mnemonic = "bike floor board marble tube amount retreat attitude pole pond floor crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify basket ritual tonight barely cheap hard tail wine wine obscure awkward";
+var mnemonic = "annual file custom client clown jungle van domain wasp drip present alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "marble tourist waste spare inherit audit mouse follow panda panic coin liquid";
+var mnemonic = "attend acquire galaxy bread this wine lady test capable muscle enemy control";

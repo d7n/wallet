@@ -1,1 +1,1 @@
-var mnemonic = "finish era similar normal grow tide ramp erase latin hour fault setup";
+var mnemonic = "cart clutch spike identify source stone defense woman elder render gap virus";

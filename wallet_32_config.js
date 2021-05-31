@@ -1,1 +1,1 @@
-var mnemonic = "thing globe forest foam young ketchup update piece song step gesture fan";
+var mnemonic = "muscle ramp demand novel now slogan follow famous buffalo depend slam must";

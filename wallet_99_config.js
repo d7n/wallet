@@ -1,1 +1,1 @@
-var mnemonic = "tourist lyrics wool kidney reunion thought chronic craft hybrid flower just certain";
+var mnemonic = "trumpet lounge tomato oval diamond warrior emotion chicken park mean retreat invite";

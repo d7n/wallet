@@ -1,1 +1,1 @@
-var mnemonic = "dolphin judge stone fire favorite shrug blade unusual damp vapor sense exotic";
+var mnemonic = "quit law doll coil pig kiwi beach security beyond coyote pair video";

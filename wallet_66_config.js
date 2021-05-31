@@ -1,1 +1,1 @@
-var mnemonic = "rough august glimpse child convince sample extend weasel benefit card shuffle curtain";
+var mnemonic = "lumber omit jewel curious fold extend bench velvet maid fashion tool purity";

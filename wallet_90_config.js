@@ -1,1 +1,1 @@
-var mnemonic = "amount smooth grass during apology step velvet bench pink trouble auto similar";
+var mnemonic = "valve baby govern price relax token hurt recall morning embrace first speak";

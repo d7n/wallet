@@ -1,1 +1,1 @@
-var mnemonic = "shop beauty naive promote width resemble property sheriff achieve cargo age dutch";
+var mnemonic = "grant design hour royal wine meadow vanish frozen payment prize census gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "alert eagle gesture minimum open margin retire number false tribe toss manage";
+var mnemonic = "potato make caught hospital radar shield slim toilet furnace crane soda return";

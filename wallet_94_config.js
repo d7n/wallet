@@ -1,1 +1,1 @@
-var mnemonic = "glare assist wall dish advance fantasy then blood wall swift exclude air";
+var mnemonic = "sketch fatal theme end taste bunker calm popular mad patient labor remind";

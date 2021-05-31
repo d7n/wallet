@@ -1,1 +1,1 @@
-var mnemonic = "gap debate goat void scout garlic lady lazy hole pull over twin";
+var mnemonic = "random resemble pledge athlete spring seed member peanut chaos chaos absorb season";

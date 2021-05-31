@@ -1,1 +1,1 @@
-var mnemonic = "dad mass envelope zone claw win pledge injury brush scan candy tell";
+var mnemonic = "dismiss evolve memory buddy sand unlock dish home cigar drive sell prize";

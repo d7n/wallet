@@ -1,1 +1,1 @@
-var mnemonic = "ceiling trash toy pumpkin novel usual march flat surround essay piano couch";
+var mnemonic = "dune theory piano vapor science ginger truly text stairs toy mobile sugar";

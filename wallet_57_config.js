@@ -1,1 +1,1 @@
-var mnemonic = "journey exile flock disease spray exhaust ocean foil rescue glue evolve erase";
+var mnemonic = "minute immune select faint bar large venture dish goose enact found west";

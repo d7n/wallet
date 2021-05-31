@@ -1,1 +1,1 @@
-var mnemonic = "doctor middle naive box diary since angry explain way attack cable august";
+var mnemonic = "oblige kid solar clown ritual taste wish swim file awake problem praise";

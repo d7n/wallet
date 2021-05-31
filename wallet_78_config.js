@@ -1,1 +1,1 @@
-var mnemonic = "amazing curtain slam kidney balcony sunny apple candy offer joy car mom";
+var mnemonic = "miss twenty flame usage better recipe random usage reflect climb use sustain";

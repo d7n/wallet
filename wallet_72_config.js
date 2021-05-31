@@ -1,1 +1,1 @@
-var mnemonic = "violin pride fatigue drink myself fan aerobic trend tennis repair symptom twin";
+var mnemonic = "inflict lady tongue detail error best wrap you kiss echo such edge";

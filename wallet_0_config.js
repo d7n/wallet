@@ -1,1 +1,1 @@
-var mnemonic = "bulb mushroom run damp scheme rotate grunt favorite chronic punch drink reason";
+var mnemonic = "wheel alter sugar city neglect sand cannon asset noise robot note front";

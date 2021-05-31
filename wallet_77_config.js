@@ -1,1 +1,1 @@
-var mnemonic = "mosquito orbit like chunk voice alert wool silver proud concert heavy concert";
+var mnemonic = "wonder flush tape enhance tower suggest topic cotton pole sure verb critic";

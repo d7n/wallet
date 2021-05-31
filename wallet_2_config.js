@@ -1,1 +1,1 @@
-var mnemonic = "sniff faculty supreme episode emotion link scorpion visa cannon deputy middle kingdom";
+var mnemonic = "visual dune young clog virtual doctor trap street casual found gasp frost";

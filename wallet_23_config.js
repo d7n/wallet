@@ -1,1 +1,1 @@
-var mnemonic = "april actor evoke scrap theory describe witness mutual trim shift direct stamp";
+var mnemonic = "audit income just impulse kiss volcano mouse mechanic slush wheat journey emotion";

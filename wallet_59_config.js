@@ -1,1 +1,1 @@
-var mnemonic = "sort stuff purchase unveil sphere cup example canyon idle wire shock demise";
+var mnemonic = "chimney east chief misery tilt say swift slice pledge gaze love all";

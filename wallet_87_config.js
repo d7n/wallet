@@ -1,1 +1,1 @@
-var mnemonic = "sick travel awesome swallow patrol october ivory scout badge cinnamon arrange moment";
+var mnemonic = "mansion myself cheap paper stable access enrich crumble fold primary helmet account";

@@ -1,1 +1,1 @@
-var mnemonic = "network air problem feed identify provide liquid medal draft tuition win tag";
+var mnemonic = "vendor explain thank shallow sudden laptop blouse game badge toss tornado noodle";

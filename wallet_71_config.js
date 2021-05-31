@@ -1,1 +1,1 @@
-var mnemonic = "help dash absorb local curtain box outside will merit fringe card dash";
+var mnemonic = "pigeon rotate venture bargain amateur dizzy glimpse recycle impulse crouch borrow nest";

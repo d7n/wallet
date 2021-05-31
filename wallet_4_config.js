@@ -1,1 +1,1 @@
-var mnemonic = "timber credit old whip payment grape pioneer measure clutch envelope donor doll";
+var mnemonic = "control differ until beach jaguar grow virtual stomach phone lawsuit coral lake";

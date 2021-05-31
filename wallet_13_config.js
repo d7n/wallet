@@ -1,1 +1,1 @@
-var mnemonic = "myself lend word broom capable shoulder deliver pave hill mail connect angle";
+var mnemonic = "trumpet life chalk spy modify quality control torch meat end sad humble";

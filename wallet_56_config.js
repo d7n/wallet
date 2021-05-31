@@ -1,1 +1,1 @@
-var mnemonic = "foil dizzy able smoke olive derive group limit eternal lyrics tennis hollow";
+var mnemonic = "decade squeeze jazz inject truth afford travel twelve buzz crawl split crunch";

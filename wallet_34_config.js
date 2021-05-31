@@ -1,1 +1,1 @@
-var mnemonic = "pigeon steel actress quit random head peanut situate six negative little right";
+var mnemonic = "visa adjust blame filter buffalo senior magic employ firm patrol flight response";

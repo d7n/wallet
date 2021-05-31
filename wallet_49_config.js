@@ -1,1 +1,1 @@
-var mnemonic = "column turkey candy thought grid doll undo kiwi walk habit chalk upper";
+var mnemonic = "case aware rib update start athlete great scrub mean library tourist glad";

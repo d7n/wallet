@@ -1,1 +1,1 @@
-var mnemonic = "tornado glance knee boring toe twin wool once head enroll flash response";
+var mnemonic = "fruit harvest peasant swamp famous symptom panther season wedding antique say life";

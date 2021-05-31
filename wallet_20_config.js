@@ -1,1 +1,1 @@
-var mnemonic = "ecology object march flash pause body shell common lion clarify air original";
+var mnemonic = "bubble fever margin hill pass great replace rapid caught spray coast body";

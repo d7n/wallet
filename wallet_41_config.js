@@ -1,1 +1,1 @@
-var mnemonic = "say grief pudding forest hour enjoy ball reunion plate bicycle inquiry cupboard";
+var mnemonic = "zoo gather bullet furnace chair hair rib aerobic captain surface stick addict";

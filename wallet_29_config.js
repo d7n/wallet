@@ -1,1 +1,1 @@
-var mnemonic = "glass water wink alcohol salon ring donate weather grace strategy salute air";
+var mnemonic = "below search sentence effort brother document orchard head once cake knee need";

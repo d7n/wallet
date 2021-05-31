@@ -1,1 +1,1 @@
-var mnemonic = "strike liquid eagle believe lunar economy awkward artefact pen script cattle craft";
+var mnemonic = "home among grunt nest visa donkey castle trophy disease echo private note";

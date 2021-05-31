@@ -1,1 +1,1 @@
-var mnemonic = "sunny clean yellow lemon receive hen over grape target hip bitter test";
+var mnemonic = "middle hospital age action point tooth doctor father margin coach response warfare";

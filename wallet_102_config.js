@@ -1,1 +1,1 @@
-var mnemonic = "turtle chase jeans garbage brand dinosaur coral humor yard cheap vague kid";
+var mnemonic = "eye idle monkey error welcome deputy allow ability two size unique erode";

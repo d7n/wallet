@@ -1,1 +1,1 @@
-var mnemonic = "earn spell trigger eight jewel mass add kit leave fog dog urban";
+var mnemonic = "conduct spin crash bus wealth duck scene tilt drop pact matrix become";

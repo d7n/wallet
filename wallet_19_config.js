@@ -1,1 +1,1 @@
-var mnemonic = "profit blade salon kick only then fault eye business mystery phrase hospital";
+var mnemonic = "possible muscle reason disagree connect phone edge crunch speak winter wagon debris";

@@ -1,1 +1,1 @@
-var mnemonic = "absent able seven baby forest fiber adapt retire toddler lunar oak lock";
+var mnemonic = "bless time faint sort vague sunny present deputy latin achieve wrist royal";

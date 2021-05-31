@@ -1,1 +1,1 @@
-var mnemonic = "final lava nut agree time furnace fever play capable earth crater spider";
+var mnemonic = "neutral apple urban clutch chaos chronic raven brand warrior squeeze custom alpha";

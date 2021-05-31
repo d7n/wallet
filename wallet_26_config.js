@@ -1,1 +1,1 @@
-var mnemonic = "wasp eternal pond peanut abstract rifle wisdom behave top together festival poem";
+var mnemonic = "minute empty column melody win broken reason text arena dune raccoon bunker";

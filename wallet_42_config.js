@@ -1,1 +1,1 @@
-var mnemonic = "flock flame ball lock radar conduct firm couple digital sniff nothing sphere";
+var mnemonic = "bind famous glad hello use cage vast leg flat marble dutch coach";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen fuel mad improve tunnel model food thumb dove rare detect exhibit";
+var mnemonic = "race october stand april satisfy nation sell october receive cake narrow chat";

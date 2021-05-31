@@ -1,1 +1,1 @@
-var mnemonic = "donate moment oxygen become riot melt wisdom radar consider trap robust fluid";
+var mnemonic = "light deer entry timber clean assist caution amateur just cycle crystal often";

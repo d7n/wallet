@@ -1,1 +1,1 @@
-var mnemonic = "shoot gallery song task voyage crowd invest bird merry announce riot tunnel";
+var mnemonic = "engine pretty coil aim fortune bring dice slogan skull lock easy insane";

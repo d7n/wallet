@@ -1,1 +1,1 @@
-var mnemonic = "rent atom bubble brand frozen theory expose they hand knock machine best";
+var mnemonic = "mix kingdom good weasel system entry purchase calm utility flavor scare sort";

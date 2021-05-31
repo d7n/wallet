@@ -1,1 +1,1 @@
-var mnemonic = "edit suspect mistake pet best noise cancel broom torch alpha song next";
+var mnemonic = "glass axis local thank curtain assist device decline habit pig icon shrug";

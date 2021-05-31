@@ -1,1 +1,1 @@
-var mnemonic = "mammal expose filter hair divert enter tree cause window marine jungle symptom";
+var mnemonic = "ordinary barrel ship force nominee copper trash close hazard tone kitchen region";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair era kangaroo genius dice public memory swarm room dumb tenant casino";
+var mnemonic = "direct resource spirit chronic inspire message whip shrimp forum kangaroo hybrid say";

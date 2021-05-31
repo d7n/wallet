@@ -1,1 +1,1 @@
-var mnemonic = "until once clerk ball flat boy copper coach choose affair flat plate";
+var mnemonic = "riot myself dinosaur shiver soccer deputy any elevator deny saddle depth expand";

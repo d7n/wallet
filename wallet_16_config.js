@@ -1,1 +1,1 @@
-var mnemonic = "battle orange master economy message duty once sample actor spy file wise";
+var mnemonic = "promote sell vast tongue seek forget solar now camp rifle equip section";

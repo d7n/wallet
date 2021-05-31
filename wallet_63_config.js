@@ -1,1 +1,1 @@
-var mnemonic = "ecology laptop million mule theory below glance say subject cage sort moment";
+var mnemonic = "only angry way essence forward quick close front parrot relax depth rescue";

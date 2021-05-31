@@ -1,1 +1,1 @@
-var mnemonic = "forward letter sea name marine wasp oppose echo maid loud doctor help";
+var mnemonic = "gown sheriff snake insect slot antique artist rival pelican invite message online";

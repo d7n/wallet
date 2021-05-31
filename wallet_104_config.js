@@ -1,1 +1,1 @@
-var mnemonic = "electric nerve fold obscure excite fabric robust equip round chalk boss cup";
+var mnemonic = "clerk bid bargain load diary ankle inflict pull custom tank comfort satisfy";

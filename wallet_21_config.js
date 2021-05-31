@@ -1,1 +1,1 @@
-var mnemonic = "trend magnet shiver song update black gap winter chair viable blur debate";
+var mnemonic = "document child reason aunt vicious ripple apple neck wrist globe tribe silver";

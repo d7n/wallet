@@ -1,1 +1,1 @@
-var mnemonic = "mobile paddle figure survey elegant peace abstract rifle thought trial rotate faith";
+var mnemonic = "flag ship cross umbrella night reason nice blast million furnace knife grape";

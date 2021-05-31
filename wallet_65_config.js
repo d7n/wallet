@@ -1,1 +1,1 @@
-var mnemonic = "chronic room ride income excite october liar super rookie coyote hint eye";
+var mnemonic = "crop horn ethics motor daring tattoo truck finger chicken ordinary cherry salon";

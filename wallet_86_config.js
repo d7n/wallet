@@ -1,1 +1,1 @@
-var mnemonic = "breeze raven hedgehog squeeze entire item injury wrap tourist super good waste";
+var mnemonic = "under legal annual mixture fashion call canal word fabric pet either sample";

@@ -1,1 +1,1 @@
-var mnemonic = "leader tone today panther win escape gym energy student world produce use";
+var mnemonic = "cargo device cousin behind unfair kind crystal wagon universe suggest destroy glare";

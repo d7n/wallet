@@ -1,1 +1,1 @@
-var mnemonic = "two increase other race crystal inform admit vicious carbon humor maze inflict";
+var mnemonic = "radio swim muffin deer cotton mouse sick ship mixture dust glow hunt";

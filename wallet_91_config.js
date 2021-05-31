@@ -1,1 +1,1 @@
-var mnemonic = "equip trash nuclear earn actor vast occur anger south since prepare title";
+var mnemonic = "expect barely donkey busy reopen rude faith essay spawn message upon expose";

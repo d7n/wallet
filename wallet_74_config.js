@@ -1,1 +1,1 @@
-var mnemonic = "develop patrol alert assault pave north intact problem scissors foil sphere sorry";
+var mnemonic = "liquid inherit chase artist caught wear retreat what virus inspire exhaust session";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence crack school update hollow shiver youth blame virtual slogan average modify";
+var mnemonic = "switch glory wisdom raccoon clap neither army degree repair that danger retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "become repair beef work tobacco immune coin since maple power clown cage";
+var mnemonic = "tip aim indicate fix panic marble nuclear panel ribbon page rose turn";

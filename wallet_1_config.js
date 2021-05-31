@@ -1,1 +1,1 @@
-var mnemonic = "foam opinion birth draft envelope latin return sick cabin prevent mushroom empty";
+var mnemonic = "float shed rug news wrong worry appear magnet head runway shaft ocean";

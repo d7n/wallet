@@ -1,1 +1,1 @@
-var mnemonic = "tilt final snap bird slender solution print rib wood spatial trust rigid";
+var mnemonic = "rail quote issue occur month all congress spin fever sad school ice";

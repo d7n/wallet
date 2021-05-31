@@ -1,1 +1,1 @@
-var mnemonic = "monitor laundry inside light before crucial blade math patch submit match deal";
+var mnemonic = "public search diamond parent innocent adult deputy menu pulp charge install orphan";

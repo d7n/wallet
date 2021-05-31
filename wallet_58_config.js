@@ -1,1 +1,1 @@
-var mnemonic = "very elbow success legend monster drastic route choice surprise amused reduce erosion";
+var mnemonic = "build betray pencil lesson manual tumble style section apart chronic remove nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "teach deny bacon foster observe lady skin planet wild correct father around";
+var mnemonic = "hedgehog clip broken skill antenna oblige renew nerve margin welcome what deliver";

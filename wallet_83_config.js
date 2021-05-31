@@ -1,1 +1,1 @@
-var mnemonic = "spy admit swap labor little farm hidden wisdom cry trophy calm review";
+var mnemonic = "egg glory dance exhibit north pear jealous hockey canyon pitch entry artwork";

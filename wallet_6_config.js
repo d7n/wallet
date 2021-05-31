@@ -1,1 +1,1 @@
-var mnemonic = "gain search era shift effort void height wish idle action swarm inflict";
+var mnemonic = "dizzy rule disagree person rhythm history actor ozone major horse bike dismiss";
