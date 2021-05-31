@@ -1,1 +1,1 @@
-var mnemonic = "place hockey adult uniform suspect impulse artefact satisfy satisfy snack grace rely";
+var mnemonic = "hospital infant tobacco skill valid unaware seat happy person bring fury scrub";

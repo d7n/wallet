@@ -1,1 +1,1 @@
-var mnemonic = "write dilemma frog urban where lucky swift sweet party want month cactus";
+var mnemonic = "test goose foil weird fashion trust idle corn earn man summer click";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen consider example ocean organ organ acid loud put hidden comic venture";
+var mnemonic = "upon advance lunar mom note front three salon dog census dirt depend";

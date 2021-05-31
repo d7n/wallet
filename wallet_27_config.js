@@ -1,1 +1,1 @@
-var mnemonic = "strategy cousin vague bid across void tennis glide oppose fancy limit mesh";
+var mnemonic = "pass novel erupt flower daughter whale hurry inject indoor execute harvest upper";

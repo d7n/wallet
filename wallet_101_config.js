@@ -1,1 +1,1 @@
-var mnemonic = "ocean owner busy cool rice biology daring public world wire crash viable";
+var mnemonic = "surround intact turtle dignity you tone orient main neutral sunset net upset";

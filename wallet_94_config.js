@@ -1,1 +1,1 @@
-var mnemonic = "distance table chicken pill comfort van rib heavy rack polar radar finish";
+var mnemonic = "cash tell false scrap sunset worth solar recipe shell tattoo weekend nothing";

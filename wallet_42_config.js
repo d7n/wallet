@@ -1,1 +1,1 @@
-var mnemonic = "minor surge ski inside soon museum hold stadium mountain box arena snow";
+var mnemonic = "vacant story butter actual tomorrow garden mistake life matter maze marriage equip";

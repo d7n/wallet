@@ -1,1 +1,1 @@
-var mnemonic = "steak good unveil narrow benefit favorite kingdom torch nothing they valid grace";
+var mnemonic = "inhale ship worth know hole forest miracle flip series globe mixture famous";

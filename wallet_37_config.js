@@ -1,1 +1,1 @@
-var mnemonic = "trophy weapon husband husband trick dash sweet sign crash trigger blossom face";
+var mnemonic = "venture hidden lake upon high visit fit wife knee peanut repair drill";

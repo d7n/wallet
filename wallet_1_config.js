@@ -1,1 +1,1 @@
-var mnemonic = "advice aim electric hurry slender assault identify satisfy sugar outdoor tired monkey";
+var mnemonic = "cousin spatial spice diesel energy right easily lamp transfer speed expect tail";

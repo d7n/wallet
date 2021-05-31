@@ -1,1 +1,1 @@
-var mnemonic = "exist other tumble concert pulp family shy gloom armor aunt trophy test";
+var mnemonic = "lesson pact fork dilemma advice neglect hub happy penalty ski blush wise";

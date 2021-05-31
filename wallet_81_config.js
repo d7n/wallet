@@ -1,1 +1,1 @@
-var mnemonic = "mercy select cram awake melt rigid boost tourist notice tank laugh adult";
+var mnemonic = "birth tourist follow prosper crack awesome cupboard nation random service imitate spend";

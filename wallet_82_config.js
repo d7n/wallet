@@ -1,1 +1,1 @@
-var mnemonic = "fun room elephant lucky search aspect tomorrow coin coffee retire wasp local";
+var mnemonic = "mansion topple review wisdom short trust spatial sick reward nurse feature pony";

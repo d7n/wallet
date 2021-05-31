@@ -1,1 +1,1 @@
-var mnemonic = "album renew earn blade senior ready spatial goddess marble example jealous push";
+var mnemonic = "chapter spatial speak wagon can light clarify below orchard captain menu possible";

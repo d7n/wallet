@@ -1,1 +1,1 @@
-var mnemonic = "divide sunset evolve humor seek science awesome lake dismiss learn mother cheese";
+var mnemonic = "fatal execute era gasp valley fantasy hint purse tiger marriage radar more";

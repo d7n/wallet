@@ -1,1 +1,1 @@
-var mnemonic = "nurse sleep prevent throw oppose rival velvet kitchen item hurry famous visa";
+var mnemonic = "sport various tornado cube myself copy page million else fan hidden milk";

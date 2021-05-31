@@ -1,1 +1,1 @@
-var mnemonic = "silk eight awful decade document faint daughter sustain flavor steak fragile record";
+var mnemonic = "valley sample interest reform style firm bicycle alter accident always satoshi foot";

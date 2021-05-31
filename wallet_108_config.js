@@ -1,1 +1,1 @@
-var mnemonic = "alley rhythm pizza rent across always jeans claim total process example little";
+var mnemonic = "sadness trust inquiry buddy three cushion fringe siren claw double sad stock";

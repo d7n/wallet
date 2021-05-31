@@ -1,1 +1,1 @@
-var mnemonic = "meat guide unlock ball weather flip acquire magnet infant other inform muffin";
+var mnemonic = "purpose cause swing orchard portion share arrange attack trumpet unfair stick inherit";

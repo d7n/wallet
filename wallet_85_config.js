@@ -1,1 +1,1 @@
-var mnemonic = "accident have business kiwi announce mango solution sight weather recall run save";
+var mnemonic = "noise uncle chalk worth assist prefer aspect thunder spot december school deny";

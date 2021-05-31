@@ -1,1 +1,1 @@
-var mnemonic = "captain furnace artwork orphan tooth expose another remove flag supply scissors flavor";
+var mnemonic = "flee limit neither gentle play coast unusual uphold gasp split suit goat";

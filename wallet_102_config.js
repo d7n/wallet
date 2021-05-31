@@ -1,1 +1,1 @@
-var mnemonic = "birth twelve canvas pioneer retreat bright garlic dance memory host diagram nest";
+var mnemonic = "fat surround old effort narrow mom fish dirt bachelor exotic kind rookie";

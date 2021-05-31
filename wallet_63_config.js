@@ -1,1 +1,1 @@
-var mnemonic = "quantum olympic defy media razor family skill gravity choose police humor morning";
+var mnemonic = "slice tonight rug yard pulse april alley among parade blind tiger salad";

@@ -1,1 +1,1 @@
-var mnemonic = "record lava neglect run trigger uncle seven field burden lecture essay shift";
+var mnemonic = "domain hope august clinic spider thumb squeeze rail imitate cattle table light";

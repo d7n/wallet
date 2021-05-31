@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hole version perfect april potato range exercise nose three harsh issue";
+var mnemonic = "steel raccoon never april riot eight just unique wink beach fury jungle";

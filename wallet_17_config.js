@@ -1,1 +1,1 @@
-var mnemonic = "arch lion engine impact road praise neutral phone fox post metal between";
+var mnemonic = "course guitar cart female fortune jazz science scatter cool spell stomach move";

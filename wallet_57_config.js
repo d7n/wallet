@@ -1,1 +1,1 @@
-var mnemonic = "catalog foam use skill legend proud organ dream fringe inhale logic captain";
+var mnemonic = "replace panther dice fine orphan patrol input path material vote annual permit";

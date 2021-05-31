@@ -1,1 +1,1 @@
-var mnemonic = "festival large change grace winner walnut grief fox stock receive depend need";
+var mnemonic = "mask hobby laugh book universe magic youth file portion amateur radar list";

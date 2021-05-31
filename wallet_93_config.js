@@ -1,1 +1,1 @@
-var mnemonic = "vessel wink found repeat chapter reduce blame host machine palm decide scatter";
+var mnemonic = "mixture plate soldier boil gown correct suspect fatal whip ability flock sadness";

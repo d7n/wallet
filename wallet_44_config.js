@@ -1,1 +1,1 @@
-var mnemonic = "error brown sea afford hole chief scatter matter merry oyster broom domain";
+var mnemonic = "polar shuffle measure ocean sister absent bar genius parade swear sister caught";

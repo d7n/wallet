@@ -1,1 +1,1 @@
-var mnemonic = "fantasy mercy foster hurt wrong donkey safe trial verb educate perfect buffalo";
+var mnemonic = "window poet that math ramp example digital mixed thunder cloth mango deposit";

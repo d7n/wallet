@@ -1,1 +1,1 @@
-var mnemonic = "observe labor escape puzzle setup wisdom power gold country entire robust age";
+var mnemonic = "guide rule swamp fiscal hunt galaxy erosion donkey segment glow bless recipe";

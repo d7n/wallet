@@ -1,1 +1,1 @@
-var mnemonic = "pitch coconut early wife invite ladder nest sure stage rather toast hospital";
+var mnemonic = "ghost session undo jump giggle bulb nothing cook bless consider error forward";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope sound orient hospital claim turkey twice bicycle option abandon dice wolf";
+var mnemonic = "rebuild cry forum number famous draft hidden book reveal blast before lab";

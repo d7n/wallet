@@ -1,1 +1,1 @@
-var mnemonic = "friend exact genre slam super kitchen evolve pony someone right museum orbit";
+var mnemonic = "practice attract manage eyebrow code version cruel nominee zone birth grunt panic";

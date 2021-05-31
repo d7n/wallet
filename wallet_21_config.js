@@ -1,1 +1,1 @@
-var mnemonic = "among into relief infant pole catch boil hawk situate day turtle betray";
+var mnemonic = "ask clog fuel heavy title scorpion staff unique lava ring chunk federal";

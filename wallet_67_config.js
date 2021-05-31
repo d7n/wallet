@@ -1,1 +1,1 @@
-var mnemonic = "follow caution clock mom answer spider boring trade session author life cupboard";
+var mnemonic = "produce sleep infant cattle large kitchen rain addict sport clip tool expect";

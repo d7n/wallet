@@ -1,1 +1,1 @@
-var mnemonic = "orient melt episode where segment install trap water blouse bone few proud";
+var mnemonic = "mirror flower shiver sentence aerobic enact sausage innocent undo wine left horse";

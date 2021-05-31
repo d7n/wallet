@@ -1,1 +1,1 @@
-var mnemonic = "large daughter charge burden amount virtual fade exhaust mosquito state method indoor";
+var mnemonic = "dose fence later alarm eagle awesome quote reduce frown tray celery frozen";

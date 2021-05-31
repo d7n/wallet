@@ -1,1 +1,1 @@
-var mnemonic = "vault miracle scheme grit security short ocean brother lemon crime lift trial";
+var mnemonic = "damage seven already language finish expire over sweet certain jazz direct question";

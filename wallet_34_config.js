@@ -1,1 +1,1 @@
-var mnemonic = "tourist kite bachelor sentence genius dream unusual rely guide thunder move long";
+var mnemonic = "acquire silk effort effort onion salad useful amazing rifle actual finger hope";

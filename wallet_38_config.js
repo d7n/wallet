@@ -1,1 +1,1 @@
-var mnemonic = "lemon dawn smooth inherit magnet pepper flavor huge flight negative banner diesel";
+var mnemonic = "tackle favorite spatial goose own rely normal ankle finger track wage first";

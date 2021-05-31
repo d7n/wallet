@@ -1,1 +1,1 @@
-var mnemonic = "memory ball ring bullet laptop wage pact motion evoke obvious earn patch";
+var mnemonic = "tackle rich cook bachelor town relax erode measure catalog buyer volcano dune";

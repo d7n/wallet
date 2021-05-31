@@ -1,1 +1,1 @@
-var mnemonic = "lumber zone glue sponsor remind escape trouble observe obscure welcome firm basket";
+var mnemonic = "cradle lion bless caught interest dance they frame parade cricket ribbon impose";

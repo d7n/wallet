@@ -1,1 +1,1 @@
-var mnemonic = "sun group body venue choose comic amused celery clump entry busy merry";
+var mnemonic = "six bring brass rude require hotel answer law surprise rebuild resource retire";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter olympic problem sad smile initial clinic desk amused gallery oppose retreat";
+var mnemonic = "police sock claim camera punch gorilla camera change battle office multiply galaxy";

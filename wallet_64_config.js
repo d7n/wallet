@@ -1,1 +1,1 @@
-var mnemonic = "human enemy auto kitten exhaust odor walnut brief verb happy inch list";
+var mnemonic = "wish ripple move depart disease welcome october write silly bone invite cover";

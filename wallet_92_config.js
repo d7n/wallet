@@ -1,1 +1,1 @@
-var mnemonic = "access blood mimic slender zero engine absent dice leg congress argue mushroom";
+var mnemonic = "seek mystery cram chicken close chimney journey render empower vanish jaguar coast";

@@ -1,1 +1,1 @@
-var mnemonic = "now invite taste floor vacant crop carpet snack science skate sick misery";
+var mnemonic = "radio wonder original sentence moral type cloud soup ancient artefact delay gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "rain volcano check bonus stuff faint hand poverty song claw sister measure";
+var mnemonic = "alpha monster dust payment depend plug ridge riot rain diamond run pottery";

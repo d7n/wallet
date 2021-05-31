@@ -1,1 +1,1 @@
-var mnemonic = "hole ankle flag alarm portion logic favorite point edit craft soda goose";
+var mnemonic = "man venue cube rabbit endless glance jungle lion degree album develop stove";

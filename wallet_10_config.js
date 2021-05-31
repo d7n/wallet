@@ -1,1 +1,1 @@
-var mnemonic = "canvas knee ranch private card curtain repair clean adult decorate melt pipe";
+var mnemonic = "agent allow casino ask proof survey describe image hunt sunset dream ranch";

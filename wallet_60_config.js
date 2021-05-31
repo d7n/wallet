@@ -1,1 +1,1 @@
-var mnemonic = "eye repeat evolve denial egg lobster glimpse broken arrow crime better celery";
+var mnemonic = "click blast name meat explain bleak alone weekend pig wedding vapor flock";

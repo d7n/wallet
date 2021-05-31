@@ -1,1 +1,1 @@
-var mnemonic = "island kangaroo chalk skirt unit clinic tenant funny quote table slam olympic";
+var mnemonic = "intact ahead lunch future sponsor venture unveil image elevator sunset doctor embrace";

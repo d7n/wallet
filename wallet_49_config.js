@@ -1,1 +1,1 @@
-var mnemonic = "priority dose pulse scrap reward despair into exile surprise asthma antique enough";
+var mnemonic = "gorilla boring attend damage cabin lyrics garment atom agent orange mean art";

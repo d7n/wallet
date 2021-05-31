@@ -1,1 +1,1 @@
-var mnemonic = "just mutual lucky address pair poverty junior stock gate rigid spend city";
+var mnemonic = "table afford trick beef gas lunch destroy mail fragile exotic reveal better";

@@ -1,1 +1,1 @@
-var mnemonic = "metal mind pass remember demand oval install adult globe acquire amateur fox";
+var mnemonic = "place umbrella shrug illegal earn flavor law champion uncover exclude machine legal";

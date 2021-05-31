@@ -1,1 +1,1 @@
-var mnemonic = "treat scare diagram pole step increase soldier achieve urban decade harsh echo";
+var mnemonic = "time blur adjust mail amazing fatigue chuckle egg wreck bundle drip avoid";

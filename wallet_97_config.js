@@ -1,1 +1,1 @@
-var mnemonic = "sphere galaxy chief give agent chaos recycle version sting common scale mad";
+var mnemonic = "actual wise ritual diet angry garment female sudden this second session regular";

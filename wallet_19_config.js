@@ -1,1 +1,1 @@
-var mnemonic = "seven trap echo buzz range appear wife can plunge comic vote pact";
+var mnemonic = "swim gift august crystal million cruel school jump belt robust dawn matter";

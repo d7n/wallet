@@ -1,1 +1,1 @@
-var mnemonic = "kiwi enemy chuckle foster space trash cement erosion gadget smooth please train";
+var mnemonic = "diesel curve damp know rival youth pizza stamp void market parade issue";

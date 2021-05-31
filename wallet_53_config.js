@@ -1,1 +1,1 @@
-var mnemonic = "aim element crowd finger loop display mixed medal pear crowd skin oppose";
+var mnemonic = "worry enlist name sheriff rib hybrid execute chunk baby ivory tattoo connect";

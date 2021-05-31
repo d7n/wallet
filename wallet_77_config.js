@@ -1,1 +1,1 @@
-var mnemonic = "zebra boost stem lion travel rib essay crazy husband finish century minor";
+var mnemonic = "hip banana remove noise eternal method retire once blood also dog gauge";

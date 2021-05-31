@@ -1,1 +1,1 @@
-var mnemonic = "envelope canoe average can silk humble armor market price solid mystery grit";
+var mnemonic = "vanish gym safe oil coach stereo fame net uncle divert guess key";

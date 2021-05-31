@@ -1,1 +1,1 @@
-var mnemonic = "memory hospital renew asset afraid chuckle inject tomorrow mushroom winner reject sadness";
+var mnemonic = "moon vibrant imitate car diet reunion whale stock ankle amount plunge segment";

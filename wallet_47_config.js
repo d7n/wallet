@@ -1,1 +1,1 @@
-var mnemonic = "episode crazy major crane roof name vault disorder choose accuse doll vague";
+var mnemonic = "motion wing ball present alcohol act approve since step comfort pledge face";

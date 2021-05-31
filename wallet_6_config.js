@@ -1,1 +1,1 @@
-var mnemonic = "injury jump garment spot lecture habit neglect vintage grain tackle random struggle";
+var mnemonic = "swear moment spoil asset across viable empower surface paddle brave diamond burger";

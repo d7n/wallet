@@ -1,1 +1,1 @@
-var mnemonic = "another lawn country dance output permit text remain energy random enhance avoid";
+var mnemonic = "pool main muffin blast mixture undo stuff believe dirt fatigue edit weekend";

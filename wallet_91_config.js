@@ -1,1 +1,1 @@
-var mnemonic = "bridge broken urban exact party diet despair venue kite attract enact outdoor";
+var mnemonic = "ahead tumble flush symptom decrease merge result regret auction typical train aware";

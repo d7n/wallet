@@ -1,1 +1,1 @@
-var mnemonic = "patch sauce renew myself actor negative wool solar find nuclear phrase village";
+var mnemonic = "hollow choose also awkward twist atom harsh purchase earth august cross message";

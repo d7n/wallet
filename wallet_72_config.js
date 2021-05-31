@@ -1,1 +1,1 @@
-var mnemonic = "rebuild coach ribbon prepare perfect illegal chair piece metal eye half dance";
+var mnemonic = "thumb meadow issue trophy price arrive unable aerobic scheme wreck awesome thank";

@@ -1,1 +1,1 @@
-var mnemonic = "control float alpha disagree tilt release poem day weekend option degree major";
+var mnemonic = "tag assault grant dish impact job tonight next viable endless acid clog";

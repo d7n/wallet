@@ -1,1 +1,1 @@
-var mnemonic = "insane box insane empty quiz custom gas village mandate arrow dove dawn";
+var mnemonic = "citizen saddle glance main voyage require business donate cinnamon dose staff lucky";

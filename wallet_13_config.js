@@ -1,1 +1,1 @@
-var mnemonic = "better glass foam walnut kiwi horror luxury choice anger century sing volcano";
+var mnemonic = "pistol apart heavy neutral oxygen regret leader nuclear best topic route item";

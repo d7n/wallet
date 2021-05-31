@@ -1,1 +1,1 @@
-var mnemonic = "picture frequent olympic mystery wisdom bulk crop urge inhale beef raise coconut";
+var mnemonic = "news pigeon adult abstract night divide snake inch place robot dust try";

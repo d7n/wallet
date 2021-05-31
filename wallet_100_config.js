@@ -1,1 +1,1 @@
-var mnemonic = "globe together creek celery victory fashion sick reunion frog symbol album add";
+var mnemonic = "afford assault year scan matter battle plate stumble elder leader supply vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "else bag flush jazz height west speed total turtle figure try juice";
+var mnemonic = "across crisp goose shrug arm cotton remind balance guard mask powder disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate pony year kid syrup absorb arm rack property wear gate field";
+var mnemonic = "estate mixed begin absent prefer prosper domain any trip shrug round fit";

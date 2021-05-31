@@ -1,1 +1,1 @@
-var mnemonic = "guilt crater extend index digital grant bring awful room example earn input";
+var mnemonic = "found adapt today mind replace secret pool issue imitate advice mad wisdom";

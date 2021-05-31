@@ -1,1 +1,1 @@
-var mnemonic = "choice vibrant beyond rapid sail hawk chronic sting bike alley slogan brick";
+var mnemonic = "wet foil castle aware sentence leave picnic bless address call used gravity";

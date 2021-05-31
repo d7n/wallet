@@ -1,1 +1,1 @@
-var mnemonic = "hand load minimum average slight solution lamp problem capable mirror pitch nuclear";
+var mnemonic = "aisle crater cat junior giggle idle either velvet polar young ankle slight";

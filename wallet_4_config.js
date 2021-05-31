@@ -1,1 +1,1 @@
-var mnemonic = "void pill valve kitchen again faith breeze iron void shed aware divert";
+var mnemonic = "roast latin element cube shield local stairs dove harsh axis sell repair";

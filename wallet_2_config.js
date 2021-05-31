@@ -1,1 +1,1 @@
-var mnemonic = "service width speak pulse note lawsuit squirrel hold slight best expose alien";
+var mnemonic = "insane chimney sniff disease release insane neither friend exercise wrong canoe able";

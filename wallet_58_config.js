@@ -1,1 +1,1 @@
-var mnemonic = "wear dinosaur feed tuition mango wonder innocent wedding have spend pink like";
+var mnemonic = "brick manage heavy hen omit boss immune range include stay surprise nice";

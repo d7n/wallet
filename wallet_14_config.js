@@ -1,1 +1,1 @@
-var mnemonic = "shield warfare panel cage pull atom nuclear replace apology roof assume hat";
+var mnemonic = "foster thunder ginger arctic suit truth hour cattle vacuum desert luxury electric";

@@ -1,1 +1,1 @@
-var mnemonic = "steak garlic fruit scrap sock bless exit short bulb glare vintage setup";
+var mnemonic = "aerobic twice crunch animal fashion word mail evolve notice hip zero virus";

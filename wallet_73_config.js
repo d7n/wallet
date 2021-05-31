@@ -1,1 +1,1 @@
-var mnemonic = "uphold stage usage float ridge glory inherit clay senior pitch robot rotate";
+var mnemonic = "broom pigeon salon crunch number cradle august husband duck shaft hair canvas";
