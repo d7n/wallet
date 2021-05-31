@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow flock twelve give scare target seminar version energy frog drift reason";
+var mnemonic = "armed base rocket aware ring fluid donate say inhale leopard solid unknown";

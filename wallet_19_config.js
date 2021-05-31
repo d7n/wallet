@@ -1,1 +1,1 @@
-var mnemonic = "smile innocent yellow need design salon garlic mesh ethics treat maple lab";
+var mnemonic = "cost welcome reduce grape cinnamon palm identify black toy edit comfort volume";

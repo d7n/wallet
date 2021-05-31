@@ -1,1 +1,1 @@
-var mnemonic = "fox robust prize disorder distance table youth inflict isolate tag scissors voice";
+var mnemonic = "gospel common paddle loud monster seminar mimic ankle young measure angle lab";

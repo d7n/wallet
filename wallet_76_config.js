@@ -1,1 +1,1 @@
-var mnemonic = "common above essence broccoli deer smoke practice uncle cute galaxy slow utility";
+var mnemonic = "great scan horse cart dose sword camera ten joy inflict exist elegant";

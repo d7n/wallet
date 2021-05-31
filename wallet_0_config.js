@@ -1,1 +1,1 @@
-var mnemonic = "pony raccoon angry item vibrant slow author jealous parade sunny smoke seminar";
+var mnemonic = "depend squeeze trust tattoo riot demand chuckle play again rib oven asthma";

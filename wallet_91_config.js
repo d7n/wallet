@@ -1,1 +1,1 @@
-var mnemonic = "tattoo soon excite immense remove law use gallery monster borrow evoke life";
+var mnemonic = "lake print mention water kit regret eye raise clay shaft smoke zoo";

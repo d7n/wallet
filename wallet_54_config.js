@@ -1,1 +1,1 @@
-var mnemonic = "soda taxi rather worry hand have velvet left pull season floor stick";
+var mnemonic = "cushion citizen detect usage round inner nation protect rate horse fantasy medal";

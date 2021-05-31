@@ -1,1 +1,1 @@
-var mnemonic = "lounge prosper slam flock expire alert banner chimney impose father custom machine";
+var mnemonic = "tiger spot craft camp margin space duck upset imitate lucky critic iron";

@@ -1,1 +1,1 @@
-var mnemonic = "typical swallow series average humble album miss sample few pet rich utility";
+var mnemonic = "cactus emotion hockey shove tip upgrade furnace service adapt gown coffee allow";

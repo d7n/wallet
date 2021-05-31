@@ -1,1 +1,1 @@
-var mnemonic = "old come there slice hawk siege such confirm dwarf river short model";
+var mnemonic = "order pride pattern visit jazz opinion artefact retreat famous very blossom disease";

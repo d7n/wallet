@@ -1,1 +1,1 @@
-var mnemonic = "retreat small actor before bargain sustain car finger aspect quick kit river";
+var mnemonic = "crazy cancel egg develop dirt dynamic style chef minute cancel replace method";

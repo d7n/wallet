@@ -1,1 +1,1 @@
-var mnemonic = "soda present skate shiver flee toward vibrant vacuum enjoy sibling aim desk";
+var mnemonic = "afford wall orchard say trend expire zebra brother install spot knee you";

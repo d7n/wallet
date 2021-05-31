@@ -1,1 +1,1 @@
-var mnemonic = "polar bitter author make upper dynamic employ notice female basic ranch dove";
+var mnemonic = "someone similar grain ball awful draw over monster tobacco spy confirm diamond";

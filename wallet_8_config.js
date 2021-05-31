@@ -1,1 +1,1 @@
-var mnemonic = "gloom day clay soon cave brain reopen promote popular enough hub rather";
+var mnemonic = "boss couch draw orbit neglect fruit skate wet rate noodle kingdom what";

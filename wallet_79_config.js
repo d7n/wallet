@@ -1,1 +1,1 @@
-var mnemonic = "diagram educate enrich matter gas soap lazy trim undo crack fork kite";
+var mnemonic = "six network unable cute rhythm actress again review two south unit shuffle";

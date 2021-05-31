@@ -1,1 +1,1 @@
-var mnemonic = "remove disease spot ugly cheese raven shine accident dice video often author";
+var mnemonic = "auction panic label bleak check mirror olympic clap puzzle rebuild aspect prosper";

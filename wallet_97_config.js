@@ -1,1 +1,1 @@
-var mnemonic = "grief exchange spray jungle magnet also gown fruit extra snap bag curve";
+var mnemonic = "garbage fix gown urge rack library echo story auction upon lounge frog";

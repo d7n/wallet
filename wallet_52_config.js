@@ -1,1 +1,1 @@
-var mnemonic = "hammer burst gas umbrella vendor apart bulk brass exile glide maximum same";
+var mnemonic = "member profit decrease simple term insect hill kitten heart much park tongue";

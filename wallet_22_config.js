@@ -1,1 +1,1 @@
-var mnemonic = "gym juice level produce age tail eager stage series furnace culture dog";
+var mnemonic = "siren adapt quarter field cart wing virtual plug grab pig push sock";

@@ -1,1 +1,1 @@
-var mnemonic = "creek social drift purchase social able post fury mad destroy evidence field";
+var mnemonic = "phone identify salute desert when taste another slim hour solve pencil dice";

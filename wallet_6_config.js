@@ -1,1 +1,1 @@
-var mnemonic = "adult edge knock solid cigar topic monkey toast struggle planet delay popular";
+var mnemonic = "library island mammal boat night then scorpion divorce aerobic piano bracket deputy";

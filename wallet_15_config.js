@@ -1,1 +1,1 @@
-var mnemonic = "cement together rally fever arch wide monster own tone such attack capable";
+var mnemonic = "elbow awesome smile reward document glory left learn differ dismiss budget fox";

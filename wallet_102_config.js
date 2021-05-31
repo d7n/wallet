@@ -1,1 +1,1 @@
-var mnemonic = "evidence lend supply soon length misery worth hero blossom curious check tourist";
+var mnemonic = "tattoo comfort first second riot fitness video rain sorry fresh hover shed";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap blanket thank bulk culture shoulder rigid grit employ crush intact chimney";
+var mnemonic = "quick decide cry thunder bundle staff asthma anxiety snack forward gym satoshi";

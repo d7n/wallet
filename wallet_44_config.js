@@ -1,1 +1,1 @@
-var mnemonic = "trumpet impulse tourist reject plunge old frequent fatigue morning shoulder film safe";
+var mnemonic = "girl pave upper analyst smoke bird chronic exile use wage soda music";

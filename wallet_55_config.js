@@ -1,1 +1,1 @@
-var mnemonic = "inner inquiry elbow skin drum avocado sport maid early more stomach sponsor";
+var mnemonic = "door pulse hard setup abandon wish bracket train inmate loyal frown member";

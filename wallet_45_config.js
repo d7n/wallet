@@ -1,1 +1,1 @@
-var mnemonic = "stable search depend call exact share color obey supply nation spot symptom";
+var mnemonic = "globe excess glass mosquito tongue grape symbol flag target rate wage column";

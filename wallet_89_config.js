@@ -1,1 +1,1 @@
-var mnemonic = "vocal suggest retreat much warrior pet indoor require mesh edit annual age";
+var mnemonic = "valid blame first project system faint planet mango trouble worry evidence cabbage";

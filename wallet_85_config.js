@@ -1,1 +1,1 @@
-var mnemonic = "useful perfect average ozone country moment prize satoshi badge address charge giant";
+var mnemonic = "viable thumb market neck exhibit come section captain electric book wife shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel result best junk alter decade chalk thumb reflect life wave twelve";
+var mnemonic = "spell vintage core obtain inform antique immune summer lounge craft flight dice";

@@ -1,1 +1,1 @@
-var mnemonic = "drive mass cotton mammal omit cash they luggage light code found peace";
+var mnemonic = "vital slide husband trophy know review below call traffic iron enemy spatial";

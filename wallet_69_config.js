@@ -1,1 +1,1 @@
-var mnemonic = "donkey syrup churn know viable lava coconut pride rack witness anxiety behave";
+var mnemonic = "pen supply strike drive allow dash ghost zebra mixture clarify nominee work";

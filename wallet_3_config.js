@@ -1,1 +1,1 @@
-var mnemonic = "layer tennis furnace segment busy grace cargo crawl produce floor option you";
+var mnemonic = "tomato river prepare bean room pitch remind indicate orphan glow crumble post";

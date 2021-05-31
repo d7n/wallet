@@ -1,1 +1,1 @@
-var mnemonic = "piano dune off seed town tired slight kiss victory mad actress describe";
+var mnemonic = "client pause element warfare phone mobile radio fun clarify enough problem aim";

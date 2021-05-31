@@ -1,1 +1,1 @@
-var mnemonic = "faculty snake sausage opinion egg monster primary october axis renew nephew monster";
+var mnemonic = "amazing dragon know reveal lawn mouse churn couch sustain cheese level city";

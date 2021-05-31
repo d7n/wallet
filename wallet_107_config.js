@@ -1,1 +1,1 @@
-var mnemonic = "perfect cushion addict nut limb cube amateur such sunny outdoor scout bottom";
+var mnemonic = "afford crazy behind nation upper devote ripple author client tool volcano arm";

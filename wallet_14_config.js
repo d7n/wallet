@@ -1,1 +1,1 @@
-var mnemonic = "wool blind urge until enough denial wish shy moment early machine swallow";
+var mnemonic = "denial salute monster excuse course able night boy whisper mountain joke timber";

@@ -1,1 +1,1 @@
-var mnemonic = "upset high feature betray until fresh reward jungle step canyon nasty key";
+var mnemonic = "clarify scout green slice company helmet tiger poverty awesome bind quote uphold";

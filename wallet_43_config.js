@@ -1,1 +1,1 @@
-var mnemonic = "obtain saddle vital pioneer huge era blast electric return tool relief economy";
+var mnemonic = "either anger frog echo prepare punch acquire vault work seed bulb armed";

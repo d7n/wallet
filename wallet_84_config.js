@@ -1,1 +1,1 @@
-var mnemonic = "knife swarm potato head wear nuclear check onion car lend discover alarm";
+var mnemonic = "device pink piece raven oil flip shell south ethics sick fancy emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella solar bachelor potato buddy network where text idea habit wide dizzy";
+var mnemonic = "ocean border ketchup fat truly blanket deer garment mistake umbrella soon book";

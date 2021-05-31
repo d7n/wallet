@@ -1,1 +1,1 @@
-var mnemonic = "they calm flat boil pen echo deny unique wolf clever age unfold";
+var mnemonic = "call screen unfair little tissue mountain load judge clarify faith coach increase";

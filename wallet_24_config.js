@@ -1,1 +1,1 @@
-var mnemonic = "enlist surprise amused neck butter gaze animal shift tide gather barely mixture";
+var mnemonic = "sustain auto young meadow question donor split other company plate process advance";

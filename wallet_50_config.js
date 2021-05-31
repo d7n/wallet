@@ -1,1 +1,1 @@
-var mnemonic = "wrap hand tilt wheat verify orange dumb life discover document common diary";
+var mnemonic = "beyond exclude bottom review street whale supply antenna voice vacant sentence distance";

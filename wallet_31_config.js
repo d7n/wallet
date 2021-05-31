@@ -1,1 +1,1 @@
-var mnemonic = "luxury hollow all liberty tank bike tree burden bind muffin elevator bulk";
+var mnemonic = "digital shop come rabbit endless merry pizza useless rude debate million latin";

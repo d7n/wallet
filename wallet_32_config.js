@@ -1,1 +1,1 @@
-var mnemonic = "review vendor outside unknown turn occur bulk fringe weasel emerge song vacant";
+var mnemonic = "absurd coin direct only gym bottom chase hole middle mystery grief quit";

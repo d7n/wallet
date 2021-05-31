@@ -1,1 +1,1 @@
-var mnemonic = "bless obvious dove ivory trigger gesture hour nuclear evil shuffle fee abuse";
+var mnemonic = "panther melt desk notable tank razor amused bid mimic bicycle wise salon";

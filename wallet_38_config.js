@@ -1,1 +1,1 @@
-var mnemonic = "stadium smooth please world join clever deposit toward mammal bracket sand potato";
+var mnemonic = "cement evoke diet chase target salute dove rate heart awful wave witness";

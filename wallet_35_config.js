@@ -1,1 +1,1 @@
-var mnemonic = "loan mention firm horn dinosaur doll bean engage hamster annual apple attack";
+var mnemonic = "silent limb issue add globe pair output onion trick erase annual keep";

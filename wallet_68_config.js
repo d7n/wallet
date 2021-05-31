@@ -1,1 +1,1 @@
-var mnemonic = "volcano upgrade elephant valid gallery foot shove carpet south leader extra cost";
+var mnemonic = "sick flavor awful already pioneer hurt blade order good stone height dirt";

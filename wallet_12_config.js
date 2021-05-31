@@ -1,1 +1,1 @@
-var mnemonic = "muffin force simple race that enough gap ceiling thrive express coconut siren";
+var mnemonic = "slam multiply meat slush puppy seven mad comic use glide noodle whale";

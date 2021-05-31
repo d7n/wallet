@@ -1,1 +1,1 @@
-var mnemonic = "family buyer fruit cradle ladder title apology length spoon coffee review maze";
+var mnemonic = "decline calm figure catch truly flock rocket hollow gentle mandate twin usual";

@@ -1,1 +1,1 @@
-var mnemonic = "horror normal inch recall middle daughter arrest luxury knock output rigid discover";
+var mnemonic = "hat meat address drive honey zone pole warfare foil inflict ship sad";

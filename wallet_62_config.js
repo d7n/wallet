@@ -1,1 +1,1 @@
-var mnemonic = "bounce cup whale void head axis aisle flower point merge start elder";
+var mnemonic = "demise tissue shadow scorpion focus clump injury rely hand leopard ready grain";

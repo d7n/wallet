@@ -1,1 +1,1 @@
-var mnemonic = "blood decade mom visual genre october shoe float control image high walk";
+var mnemonic = "since segment hollow obscure alarm laptop simple angry gun music main lift";

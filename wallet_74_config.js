@@ -1,1 +1,1 @@
-var mnemonic = "whale two note hold brass utility adjust silent cool struggle drill shift";
+var mnemonic = "cloth ribbon decade increase enemy retreat surprise you select pumpkin lady welcome";

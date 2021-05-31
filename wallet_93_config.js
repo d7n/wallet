@@ -1,1 +1,1 @@
-var mnemonic = "soul inch stay please fortune north equal harvest please cliff dinner peanut";
+var mnemonic = "trend print talent thunder between dune rain blade cake stage false crazy";

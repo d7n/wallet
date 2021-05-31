@@ -1,1 +1,1 @@
-var mnemonic = "endless silly wink enemy enable rather december project topic wine shuffle claw";
+var mnemonic = "enlist fatigue galaxy weather panic valve long nice wish student fault divorce";

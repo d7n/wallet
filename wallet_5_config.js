@@ -1,1 +1,1 @@
-var mnemonic = "novel clean join afford polar beach stick hello select enroll enlist hidden";
+var mnemonic = "crash cupboard rug square mad mandate slow silver night genre still oppose";

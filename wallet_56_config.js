@@ -1,1 +1,1 @@
-var mnemonic = "crush agree beauty jealous fortune depend wish whale subway board army transfer";
+var mnemonic = "kitten patient soldier unknown mother ball quality strike disorder color orbit poem";

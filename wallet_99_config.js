@@ -1,1 +1,1 @@
-var mnemonic = "step ostrich chat give symbol able disease cover cereal chuckle desk describe";
+var mnemonic = "begin gravity strike autumn alert envelope car artwork dutch unaware ramp trip";

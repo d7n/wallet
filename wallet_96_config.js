@@ -1,1 +1,1 @@
-var mnemonic = "river base enough net wave trip book access prosper about tired argue";
+var mnemonic = "minute abstract quote embrace sadness penalty pact polar argue task biology inject";

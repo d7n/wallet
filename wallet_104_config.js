@@ -1,1 +1,1 @@
-var mnemonic = "chapter struggle speak praise slogan barrel health april web simple govern sock";
+var mnemonic = "nasty organ habit reunion silly resemble toe split purse salon chronic throw";

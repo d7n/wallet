@@ -1,1 +1,1 @@
-var mnemonic = "resist umbrella table best crouch when shock number orient dove bubble album";
+var mnemonic = "damage mesh spider rose level legal keen mention main mercy matrix unfold";

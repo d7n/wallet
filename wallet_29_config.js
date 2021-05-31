@@ -1,1 +1,1 @@
-var mnemonic = "bonus egg worth economy exchange jungle puppy because foot onion night infant";
+var mnemonic = "ostrich yard century kidney agent zone joke mistake close love during live";

@@ -1,1 +1,1 @@
-var mnemonic = "curious body ticket benefit medal bleak donkey wisdom replace round color super";
+var mnemonic = "clean stone panel country good gospel judge market race merit symptom favorite";

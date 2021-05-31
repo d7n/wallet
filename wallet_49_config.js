@@ -1,1 +1,1 @@
-var mnemonic = "usage carry approve uphold steel surge sound drift describe false live edge";
+var mnemonic = "tattoo surface course cart metal resist wolf describe prepare expect rack spray";

@@ -1,1 +1,1 @@
-var mnemonic = "excess deposit stem gauge choose visa north ripple race vast slim opera";
+var mnemonic = "page chicken act dizzy rough neither wolf fringe fog truth interest can";

@@ -1,1 +1,1 @@
-var mnemonic = "belt life cover fox help evoke deal bag absent topic small flat";
+var mnemonic = "border other buffalo melody coach pottery inmate all water hospital cover forward";

@@ -1,1 +1,1 @@
-var mnemonic = "case raccoon lumber gym barrel skull core athlete sorry first alley paddle";
+var mnemonic = "build unaware practice grunt prison grief fork reject reopen female tiny pill";

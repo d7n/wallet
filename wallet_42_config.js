@@ -1,1 +1,1 @@
-var mnemonic = "raccoon smoke pupil two sunny diet junk improve loan damage history absorb";
+var mnemonic = "cancel ugly honey guilt nice peanut know subject hollow knife assault gesture";

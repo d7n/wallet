@@ -1,1 +1,1 @@
-var mnemonic = "chalk dwarf trick ketchup pet twice bring dad skill yard evil vibrant";
+var mnemonic = "prosper dash train assault sponsor announce zebra cover farm mercy detect page";

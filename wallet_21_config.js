@@ -1,1 +1,1 @@
-var mnemonic = "margin sample subject jaguar voyage buyer anger damage tourist blind advice ill";
+var mnemonic = "dream section wheel once beef rate short canyon inflict chunk breeze unknown";

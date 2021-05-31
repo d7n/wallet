@@ -1,1 +1,1 @@
-var mnemonic = "brown funny spike rigid seat three angle middle mother need result violin";
+var mnemonic = "cigar sail elegant rather attitude goose eight remove task risk title ceiling";

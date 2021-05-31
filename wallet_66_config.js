@@ -1,1 +1,1 @@
-var mnemonic = "link dice first demise earn file dynamic collect shove input glow zero";
+var mnemonic = "evil scrap run torch boy blouse wild repeat urban photo anxiety sleep";

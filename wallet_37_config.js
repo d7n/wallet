@@ -1,1 +1,1 @@
-var mnemonic = "measure turkey negative unusual victory lab unique orchard fetch rubber trial weasel";
+var mnemonic = "grit genius daring track struggle dynamic ranch symbol screen claim swap thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "coral cherry target bulb void seek harsh venture fan goddess present sample";
+var mnemonic = "shell worth matter tool egg home steak author enter woman saddle finger";

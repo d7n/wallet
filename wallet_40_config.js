@@ -1,1 +1,1 @@
-var mnemonic = "vehicle slush wheat food beauty ordinary help load bronze flock giggle soup";
+var mnemonic = "build total end then mass brush actress all room spread lesson velvet";

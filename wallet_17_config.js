@@ -1,1 +1,1 @@
-var mnemonic = "absent certain pig demand arm belt permit life stay drive prison wire";
+var mnemonic = "lock radio unfair reward payment main winner affair dice casual notice palace";

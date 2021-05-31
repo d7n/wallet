@@ -1,1 +1,1 @@
-var mnemonic = "giggle depth frame race surge cable vanish jar boil tiger forum glue";
+var mnemonic = "arrive fever ten cover lunar trap vacant truck pelican emotion crumble gentle";

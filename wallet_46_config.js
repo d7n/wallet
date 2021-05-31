@@ -1,1 +1,1 @@
-var mnemonic = "nature order monkey size winter version fly honey beach prevent hip fade";
+var mnemonic = "maximum blade address spend jazz knee nut flash any slide ankle common";

@@ -1,1 +1,1 @@
-var mnemonic = "seed blind trip wink drop boost negative jaguar jealous list throw embody";
+var mnemonic = "upset net shove daughter now pluck atom hello eager uncover impact skull";

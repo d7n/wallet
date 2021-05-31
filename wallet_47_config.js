@@ -1,1 +1,1 @@
-var mnemonic = "target excess pitch solution desert tell just detail charge grocery stage repair";
+var mnemonic = "stool multiply essay seminar snake cream exist runway author spray sick client";

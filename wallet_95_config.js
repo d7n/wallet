@@ -1,1 +1,1 @@
-var mnemonic = "outer team upon doll eager subject ethics table robust plate fun symptom";
+var mnemonic = "crucial tennis recall also blanket genuine curtain coast obvious grab spread delay";

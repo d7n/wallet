@@ -1,1 +1,1 @@
-var mnemonic = "start device tiny effort village wait moral saddle food picnic pool share";
+var mnemonic = "glimpse exhibit rich nominee party giant test side street rate situate twist";

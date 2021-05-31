@@ -1,1 +1,1 @@
-var mnemonic = "gentle boss ill fly such chapter humble rule leader bulk chief enemy";
+var mnemonic = "arrow sheriff ahead orbit sketch income someone attack original chief result fitness";

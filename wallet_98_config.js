@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sweet plate knife slab forget advice shaft mistake solve upper grape";
+var mnemonic = "cost decrease car lesson correct repeat position pluck chapter relief fan parade";

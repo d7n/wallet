@@ -1,1 +1,1 @@
-var mnemonic = "soul skin combine any huge alcohol crop shoulder fitness photo bleak day";
+var mnemonic = "broken cheese dynamic venue hip season together swallow destroy goat liquid boy";

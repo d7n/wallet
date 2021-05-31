@@ -1,1 +1,1 @@
-var mnemonic = "quality suit home error supply wolf kangaroo save warrior equal fringe minimum";
+var mnemonic = "inmate permit gift kid arrive danger napkin cube usage quantum fabric possible";

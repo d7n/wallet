@@ -1,1 +1,1 @@
-var mnemonic = "voice sausage claim front very assist language lens tone distance resist ethics";
+var mnemonic = "file boy enforce lunch garlic ahead magic summer analyst phone dentist noodle";

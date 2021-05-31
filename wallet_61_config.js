@@ -1,1 +1,1 @@
-var mnemonic = "afford pupil concert act inquiry response almost excuse ready raise mule color";
+var mnemonic = "capable juice sample net wedding ghost feel output health unit family term";
