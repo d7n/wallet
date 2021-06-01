@@ -1,1 +1,1 @@
-var mnemonic = "flat blame repeat gorilla short cotton jacket duck tomorrow girl suit lamp";
+var mnemonic = "unique spoil digital total prize language arrow rain federal frequent comic forest";

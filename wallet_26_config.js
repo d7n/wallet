@@ -1,1 +1,1 @@
-var mnemonic = "digital like belt smooth monster develop cake fiber case peasant tone dizzy";
+var mnemonic = "kangaroo length fiscal disagree aim cram spider pyramid release female magnet alarm";

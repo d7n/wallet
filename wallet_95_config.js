@@ -1,1 +1,1 @@
-var mnemonic = "sword tip bridge glare moment crumble human wood vast curious bullet green";
+var mnemonic = "always frown inquiry advice analyst rubber egg human plate bulk impact will";

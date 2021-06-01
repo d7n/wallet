@@ -1,1 +1,1 @@
-var mnemonic = "obtain shove budget jar mixture theme please fault cabbage injury weather room";
+var mnemonic = "lake neither tube toe elegant author account double tone narrow mule force";

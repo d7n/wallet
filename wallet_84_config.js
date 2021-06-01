@@ -1,1 +1,1 @@
-var mnemonic = "soccer razor spirit canoe swarm legend insect drama gown year large interest";
+var mnemonic = "release wave donkey during soda laptop kangaroo begin spike remove state machine";

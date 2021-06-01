@@ -1,1 +1,1 @@
-var mnemonic = "salon crawl copy regret horn army bring destroy teach tray carpet bachelor";
+var mnemonic = "segment rice sense tide quantum slush whale install only nose solid across";

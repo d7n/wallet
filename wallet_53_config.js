@@ -1,1 +1,1 @@
-var mnemonic = "agent garage diamond body dream three side shield eye guard rude sell";
+var mnemonic = "pigeon fire erase slide staff unfair basket village mask space immune stock";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward inspire trend lift skull you measure always adult onion mystery extra";
+var mnemonic = "payment unlock shock rural million man damage adapt equip festival audit lobster";

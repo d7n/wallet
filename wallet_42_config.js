@@ -1,1 +1,1 @@
-var mnemonic = "pole find hawk ranch never breeze pave inject image rubber express govern";
+var mnemonic = "lounge bounce behind stick smart claw frog resource autumn robot ready wage";

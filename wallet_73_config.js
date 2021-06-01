@@ -1,1 +1,1 @@
-var mnemonic = "burst unknown animal pupil analyst rose decorate garden raw stool cover hunt";
+var mnemonic = "april surface shoe predict virus monster car imitate bench test visa balcony";

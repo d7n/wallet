@@ -1,1 +1,1 @@
-var mnemonic = "winter wagon thumb ginger blouse know scatter dismiss toss pause jump dizzy";
+var mnemonic = "analyst shoulder wisdom pudding repeat green visit host sniff nasty defense super";

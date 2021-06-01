@@ -1,1 +1,1 @@
-var mnemonic = "wife door castle immune fantasy sport kingdom own demand truth artefact outside";
+var mnemonic = "video orchard derive vast rebuild load dwarf actress eternal poverty long sick";

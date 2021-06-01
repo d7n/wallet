@@ -1,1 +1,1 @@
-var mnemonic = "aisle twist mutual version punch prosper canal radar head feature uphold describe";
+var mnemonic = "pole toy body husband zoo awake blanket idea shove spread bread pitch";

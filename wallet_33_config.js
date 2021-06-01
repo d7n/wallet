@@ -1,1 +1,1 @@
-var mnemonic = "express leg ill sing build call face dust blouse calm powder student";
+var mnemonic = "effort extend core govern first moral issue note adult public fresh bird";

@@ -1,1 +1,1 @@
-var mnemonic = "faint battle social quality sing abandon alert luxury fresh second casual armor";
+var mnemonic = "cause opera lab lunar wave argue soon input risk brown immune acid";

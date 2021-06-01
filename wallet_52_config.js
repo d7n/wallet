@@ -1,1 +1,1 @@
-var mnemonic = "loud pitch reflect citizen man protect speed mandate olive toilet chaos engine";
+var mnemonic = "host clay east resist pass act focus urban below iron melody result";

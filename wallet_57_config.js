@@ -1,1 +1,1 @@
-var mnemonic = "village hand skull pet coconut possible involve jump sail script gallery world";
+var mnemonic = "section alert fancy raven anchor talk announce tube love huge fortune street";

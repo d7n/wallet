@@ -1,1 +1,1 @@
-var mnemonic = "quarter vacant jealous home nurse hammer fresh asset erase endorse million slush";
+var mnemonic = "elephant vendor grant detect hotel frequent prize edge measure more fork camp";

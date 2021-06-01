@@ -1,1 +1,1 @@
-var mnemonic = "aware wood swift vanish small carpet you kiwi empty patrol trial field";
+var mnemonic = "borrow repeat cinnamon degree celery erode middle moon guard ginger key cliff";

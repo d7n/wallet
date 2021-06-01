@@ -1,1 +1,1 @@
-var mnemonic = "steel sunny blast borrow private naive adapt broken chat shoot twin goat";
+var mnemonic = "oval addict wife holiday bicycle clip silk frozen honey few dinosaur sunny";

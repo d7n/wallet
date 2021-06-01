@@ -1,1 +1,1 @@
-var mnemonic = "reject because mistake amount pilot mango ivory behind rather dinosaur chef bullet";
+var mnemonic = "sense account convince can side nuclear winner safe material galaxy say steel";

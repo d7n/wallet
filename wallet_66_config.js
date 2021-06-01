@@ -1,1 +1,1 @@
-var mnemonic = "lion same sister ask assist hundred gather detect juice fish swear door";
+var mnemonic = "year material fence toward dumb produce garbage element wheel motor unfold fruit";

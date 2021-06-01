@@ -1,1 +1,1 @@
-var mnemonic = "found mask obscure nice stand thrive peace similar wrap memory ramp evidence";
+var mnemonic = "aware drill gossip hole uphold foil penalty east butter trap bottom layer";

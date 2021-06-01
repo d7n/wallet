@@ -1,1 +1,1 @@
-var mnemonic = "charge melody dragon supply lucky frown drip spirit nuclear vanish rifle proud";
+var mnemonic = "pole beef busy excite message valid squirrel jelly say tumble genuine job";

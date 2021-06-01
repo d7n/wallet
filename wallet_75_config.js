@@ -1,1 +1,1 @@
-var mnemonic = "wolf deal when sad slender wasp strong laundry claim future weekend nest";
+var mnemonic = "flee believe describe bulb debate vast bubble way city hero search stadium";

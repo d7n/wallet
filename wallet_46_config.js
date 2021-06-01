@@ -1,1 +1,1 @@
-var mnemonic = "action join cement sell wife replace rally shine crack diagram common near";
+var mnemonic = "leopard loud notice crucial inform dismiss luggage object idea degree august release";

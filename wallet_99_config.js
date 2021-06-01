@@ -1,1 +1,1 @@
-var mnemonic = "wise alley ill ten loop silk chase gasp draft swift race rally";
+var mnemonic = "hub virtual smile prosper private toward razor twenty second wagon achieve stable";

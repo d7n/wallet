@@ -1,1 +1,1 @@
-var mnemonic = "lens cup enable anger chuckle flower uphold dutch mercy mimic fire pumpkin";
+var mnemonic = "silk silver barely harbor twenty pact cattle cricket enter smile candy bless";

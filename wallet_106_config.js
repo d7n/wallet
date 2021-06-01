@@ -1,1 +1,1 @@
-var mnemonic = "main version spirit champion execute illegal loyal job hazard diary odor fade";
+var mnemonic = "seek equip notable abstract student myth hen know escape over wise outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "engine film tomorrow window argue boy guard mother wife wife pitch notable";
+var mnemonic = "drink act slender man satoshi viable around maze topple tomato better woman";

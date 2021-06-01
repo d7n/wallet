@@ -1,1 +1,1 @@
-var mnemonic = "blur output burger evidence dust possible core strategy knife damage garden lecture";
+var mnemonic = "educate fault such mom earn amateur piano claim will slice off owner";

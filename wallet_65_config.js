@@ -1,1 +1,1 @@
-var mnemonic = "brisk fun judge cream prize motion already field eight parent script fossil";
+var mnemonic = "swear excuse island crawl utility start tennis trap save ghost inner fall";

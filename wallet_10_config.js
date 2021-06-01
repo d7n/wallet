@@ -1,1 +1,1 @@
-var mnemonic = "fragile unfold piano endless faith onion possible forward priority trigger round upgrade";
+var mnemonic = "arrange onion enroll skate enroll stamp charge issue lift trim damp fatigue";

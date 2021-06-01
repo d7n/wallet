@@ -1,1 +1,1 @@
-var mnemonic = "laugh predict oblige stand language cup spoon soft ship place same boost";
+var mnemonic = "fortune general hurdle urge hole spread plate pride mouse transfer wealth property";

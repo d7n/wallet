@@ -1,1 +1,1 @@
-var mnemonic = "cigar pelican ethics culture enjoy harvest shield hard scrub crowd vicious timber";
+var mnemonic = "tourist badge vintage post feel thumb stumble obscure kiss coral amazing roast";

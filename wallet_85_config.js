@@ -1,1 +1,1 @@
-var mnemonic = "load horror peasant swamp goat poet kite leaf mercy mammal guilt miss";
+var mnemonic = "lemon conduct runway shoe veteran wrestle field retire suspect lamp key series";

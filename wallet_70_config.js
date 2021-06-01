@@ -1,1 +1,1 @@
-var mnemonic = "nuclear print gasp symbol garbage chef genuine opera achieve arch step budget";
+var mnemonic = "angry primary response toy call opera foam actual skirt desert pride fault";

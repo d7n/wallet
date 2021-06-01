@@ -1,1 +1,1 @@
-var mnemonic = "come razor harvest roof ritual resource negative aisle punch satoshi peace spread";
+var mnemonic = "invite impulse repeat attitude market soft measure swarm diamond awful cram harbor";

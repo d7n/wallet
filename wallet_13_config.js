@@ -1,1 +1,1 @@
-var mnemonic = "copper autumn leave assist coral obtain device track broom area amateur pluck";
+var mnemonic = "tent educate green attract useful prepare hold local clarify rent large enlist";

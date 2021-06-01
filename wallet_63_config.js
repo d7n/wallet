@@ -1,1 +1,1 @@
-var mnemonic = "silk diet trip spatial oil clump twice mountain endorse provide lemon method";
+var mnemonic = "ceiling ecology kite reform tribe assist rhythm isolate palace swing banner cake";

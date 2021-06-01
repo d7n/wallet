@@ -1,1 +1,1 @@
-var mnemonic = "type stone radio crawl quick silent fuel uniform excuse wet document neglect";
+var mnemonic = "dutch stable town deposit arrest shuffle brisk display punch life tonight spawn";

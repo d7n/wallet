@@ -1,1 +1,1 @@
-var mnemonic = "sting strong velvet enable ritual note tip that craft left neutral jealous";
+var mnemonic = "shiver sunny language oppose theory join salt height river slide oyster enact";

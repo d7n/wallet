@@ -1,1 +1,1 @@
-var mnemonic = "oxygen online current news bone promote friend panda sorry sketch people knee";
+var mnemonic = "credit night deposit pact wage embrace skin old input improve ski amount";

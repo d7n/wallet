@@ -1,1 +1,1 @@
-var mnemonic = "pudding ribbon ketchup crystal ecology future change dinner upset leader room amazing";
+var mnemonic = "final glass cover mystery palm core gadget patrol bubble weird sun message";

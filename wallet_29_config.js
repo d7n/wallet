@@ -1,1 +1,1 @@
-var mnemonic = "swing suggest evil diet young pencil purpose salt october exotic practice crash";
+var mnemonic = "beach genuine obtain skull offer message leopard certain ketchup quick top boss";

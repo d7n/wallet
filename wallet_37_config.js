@@ -1,1 +1,1 @@
-var mnemonic = "farm power crack dinner void alien blush hundred echo capital melody govern";
+var mnemonic = "wide long bomb render afraid shift magnet bike patch mountain energy unique";

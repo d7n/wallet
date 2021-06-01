@@ -1,1 +1,1 @@
-var mnemonic = "because act inform magnet shoot fit clever utility possible guard glove lens";
+var mnemonic = "pepper arm draw calm uphold hedgehog armed fossil job goose range unfold";

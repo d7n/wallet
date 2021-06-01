@@ -1,1 +1,1 @@
-var mnemonic = "describe harbor expose forum shallow announce engine beef denial edge drink shoe";
+var mnemonic = "fantasy number garbage layer lake define frost cycle body addict actress smooth";

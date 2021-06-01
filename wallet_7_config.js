@@ -1,1 +1,1 @@
-var mnemonic = "license spot flat cement abuse question dog census random you another share";
+var mnemonic = "dove tobacco purchase hospital option defy dentist broccoli morning garden cigar middle";

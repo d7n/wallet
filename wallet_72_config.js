@@ -1,1 +1,1 @@
-var mnemonic = "runway cattle settle daring there mouse snack search fetch laugh purity approve";
+var mnemonic = "legend village bright stumble globe once nasty secret report borrow grace shove";

@@ -1,1 +1,1 @@
-var mnemonic = "blade minute provide alien during wear student artwork multiply romance clay rescue";
+var mnemonic = "tribe victory trial dismiss direct road bachelor mule tumble near reveal mushroom";

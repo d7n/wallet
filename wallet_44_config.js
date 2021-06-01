@@ -1,1 +1,1 @@
-var mnemonic = "charge drip marble future edge enough popular alley average devote fire later";
+var mnemonic = "play bone valid affair cage uphold ski again derive drift furnace below";

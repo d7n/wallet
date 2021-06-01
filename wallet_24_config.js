@@ -1,1 +1,1 @@
-var mnemonic = "expect train town airport deliver update bench prison scan cabbage chef modify";
+var mnemonic = "manual neglect frequent nest indoor dinosaur girl bridge shiver alley lizard develop";

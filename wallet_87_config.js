@@ -1,1 +1,1 @@
-var mnemonic = "spread learn ginger mirror grit flush motion can stage scare answer tunnel";
+var mnemonic = "jazz canoe blind laugh ramp come swap exchange uncover author link cancel";

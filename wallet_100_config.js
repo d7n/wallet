@@ -1,1 +1,1 @@
-var mnemonic = "under kingdom hen jungle space zebra undo raw inch bind already stone";
+var mnemonic = "master eternal favorite tumble dish fashion excess cycle hobby dinosaur chuckle crater";

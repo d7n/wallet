@@ -1,1 +1,1 @@
-var mnemonic = "innocent hub ribbon wagon rival move comic brother blade refuse there weird";
+var mnemonic = "twelve rhythm letter desert during broccoli aspect couple syrup stereo pig time";

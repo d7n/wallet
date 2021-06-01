@@ -1,1 +1,1 @@
-var mnemonic = "reopen good van coyote skate video sausage hire scheme guard desert disorder";
+var mnemonic = "speed route link north find brown credit panic found flash icon erosion";

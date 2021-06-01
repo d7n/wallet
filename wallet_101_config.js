@@ -1,1 +1,1 @@
-var mnemonic = "hello snap human draft inspire demise target later toward brush jump knock";
+var mnemonic = "flower million grant slight two place warfare include tenant knife legal mention";

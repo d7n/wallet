@@ -1,1 +1,1 @@
-var mnemonic = "deal six poverty sponsor method same end romance swallow erode stomach traffic";
+var mnemonic = "wing option acquire marble urban mail spoon swift foil orchard real call";

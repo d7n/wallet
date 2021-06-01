@@ -1,1 +1,1 @@
-var mnemonic = "gravity coin model enhance genre hurdle endless soccer parade rough camp anxiety";
+var mnemonic = "gloom endless business satisfy fiction stuff fox galaxy soup strike improve renew";

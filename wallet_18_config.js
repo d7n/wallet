@@ -1,1 +1,1 @@
-var mnemonic = "venue cook devote early grant oyster tonight rent arrive hunt ancient athlete";
+var mnemonic = "pig when category glue seminar piano now wheel nerve faint someone park";

@@ -1,1 +1,1 @@
-var mnemonic = "life sea mean oxygen human bottom crane speed radio dawn height nominee";
+var mnemonic = "surge spirit pole bind ostrich aware dog april destroy north busy cover";

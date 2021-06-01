@@ -1,1 +1,1 @@
-var mnemonic = "burden rescue artefact panic warfare nerve naive shaft page bracket sick empty";
+var mnemonic = "palm apart acquire edge impulse always rally wear runway scissors enjoy stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon dentist topic potato bicycle curious blast game term mango forest odor";
+var mnemonic = "trigger cliff bid human bid planet boat foster powder rescue silk coast";

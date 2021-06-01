@@ -1,1 +1,1 @@
-var mnemonic = "drill buddy cinnamon pull estate cook pioneer donate stool weird link invest";
+var mnemonic = "nurse surprise guess outer abuse uncover peace suggest enforce little mimic family";

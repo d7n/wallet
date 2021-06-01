@@ -1,1 +1,1 @@
-var mnemonic = "during screen gold cash upgrade vintage setup awkward mechanic daring embark lounge";
+var mnemonic = "coil border arrest toast galaxy fresh project veteran soap silk catalog penalty";

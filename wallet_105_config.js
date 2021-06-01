@@ -1,1 +1,1 @@
-var mnemonic = "multiply shine avocado nurse music ocean useless garden like virtual kick claw";
+var mnemonic = "immune jeans turtle sudden change surge dentist you capable zero nasty victory";

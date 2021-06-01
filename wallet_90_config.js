@@ -1,1 +1,1 @@
-var mnemonic = "ancient juice hurry iron brief candy opinion shield live describe diary before";
+var mnemonic = "put adult used wood enemy issue number gentle mean animal catalog heart";

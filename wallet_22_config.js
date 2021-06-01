@@ -1,1 +1,1 @@
-var mnemonic = "vault slice mutual black secret mandate poet side degree elite bitter diary";
+var mnemonic = "clutch lawn fancy museum scan paper sea shift foil car width mutual";

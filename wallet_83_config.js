@@ -1,1 +1,1 @@
-var mnemonic = "utility ready wheel nerve donate seek rich still harvest sausage census cattle";
+var mnemonic = "trouble purse liar actress finish scheme empower tornado muscle bless kite mystery";

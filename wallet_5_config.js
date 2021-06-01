@@ -1,1 +1,1 @@
-var mnemonic = "element giant aware rate diagram art leopard try cage involve utility boat";
+var mnemonic = "toddler series spell dance unhappy dragon column erase theory hero place million";

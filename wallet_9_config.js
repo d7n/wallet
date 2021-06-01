@@ -1,1 +1,1 @@
-var mnemonic = "until quote squeeze roof puzzle cherry develop barrel athlete toward depth subway";
+var mnemonic = "nation mystery peanut margin absurd crop network depth frog cross pretty sleep";

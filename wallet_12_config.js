@@ -1,1 +1,1 @@
-var mnemonic = "bleak moral typical frost element rude cattle better guide face access snake";
+var mnemonic = "east dance marriage urge order voyage vendor kite humor cost scrap viable";

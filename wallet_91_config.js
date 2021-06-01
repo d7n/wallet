@@ -1,1 +1,1 @@
-var mnemonic = "accident feature fabric cat oyster bird rotate canal clutch dilemma orbit soul";
+var mnemonic = "enhance settle bomb wine sudden similar bread strike grid agent recall access";

@@ -1,1 +1,1 @@
-var mnemonic = "alley bulb orchard live gorilla silk spring inject collect build blouse rice";
+var mnemonic = "assault exact young improve earn orange pet random curve unusual imitate tilt";

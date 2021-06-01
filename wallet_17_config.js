@@ -1,1 +1,1 @@
-var mnemonic = "ribbon arrow pause skin shrimp allow youth sausage skirt road flight now";
+var mnemonic = "ring journey social trim scene velvet cargo wonder crane match nice long";

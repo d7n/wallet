@@ -1,1 +1,1 @@
-var mnemonic = "pass globe client soup danger broken train drill dignity cry vault sphere";
+var mnemonic = "diagram crisp bean unknown lumber frequent joy cycle fire liar shy truth";

@@ -1,1 +1,1 @@
-var mnemonic = "mass result master real popular current enter vote human author rebel beauty";
+var mnemonic = "stock correct chapter jar shift kick gaze two chat human plunge tackle";

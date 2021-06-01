@@ -1,1 +1,1 @@
-var mnemonic = "trigger kit envelope gift lizard define pave hood smoke bachelor prison worth";
+var mnemonic = "observe dutch plug puzzle kitten hamster tenant enter theme thing other kind";

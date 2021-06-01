@@ -1,1 +1,1 @@
-var mnemonic = "group trumpet toe episode level smoke hour drastic wall tumble dose wire";
+var mnemonic = "devote lizard duck quarter ill caught weasel sad random digital jealous sentence";

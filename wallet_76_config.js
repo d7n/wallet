@@ -1,1 +1,1 @@
-var mnemonic = "they palm initial goat mammal dash taxi banana rally organ loud volcano";
+var mnemonic = "canoe globe multiply submit genuine parrot sorry bronze day latin source innocent";

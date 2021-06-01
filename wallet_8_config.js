@@ -1,1 +1,1 @@
-var mnemonic = "direct bacon marine reward produce vapor finish dad excuse resist pair body";
+var mnemonic = "matter claim lottery decrease spice thumb state decade economy switch about address";

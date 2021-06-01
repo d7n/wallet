@@ -1,1 +1,1 @@
-var mnemonic = "audit polar tornado uncover tired decade occur use spider seminar decline parent";
+var mnemonic = "pledge addict region drink ring section time describe hurdle hammer fan super";

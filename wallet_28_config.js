@@ -1,1 +1,1 @@
-var mnemonic = "brass heart unable hood cry shrug amazing wasp curve elevator claim onion";
+var mnemonic = "tuition bamboo kind step wheat build cereal auto consider wait talent address";

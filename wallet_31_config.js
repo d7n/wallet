@@ -1,1 +1,1 @@
-var mnemonic = "ritual observe resist connect gun document real wage endless style anxiety flip";
+var mnemonic = "clever wedding trash cupboard coin drop boring river final hawk anxiety tank";

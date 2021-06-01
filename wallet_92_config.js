@@ -1,1 +1,1 @@
-var mnemonic = "unable obvious zero chimney elevator sister fatigue connect orchard twelve welcome when";
+var mnemonic = "envelope pottery document erode want labor name finger note left sock announce";

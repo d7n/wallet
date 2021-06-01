@@ -1,1 +1,1 @@
-var mnemonic = "saddle crunch monster much front quantum offer total genius like frame destroy";
+var mnemonic = "embark laundry happy topic easily will apart promote misery trigger sunny resource";

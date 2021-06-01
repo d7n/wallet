@@ -1,1 +1,1 @@
-var mnemonic = "juice offer chief wine major rotate rally helmet outer swim true fold";
+var mnemonic = "practice easily olive wisdom exhibit title surround once choose breeze disease text";

@@ -1,1 +1,1 @@
-var mnemonic = "echo amazing infant cradle unusual air ring diet clutch height recall galaxy";
+var mnemonic = "key swap enrich monitor job village six enter destroy stage violin various";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel gallery quote hint notable alone ten device black diagram sick reject";
+var mnemonic = "web volcano spot forest warrior riot victory typical meadow dry decrease velvet";

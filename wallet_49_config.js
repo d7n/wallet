@@ -1,1 +1,1 @@
-var mnemonic = "unusual year ranch pledge adult settle memory phone trigger language tower foster";
+var mnemonic = "allow eye picnic pottery black april eager disagree shaft maid total fault";

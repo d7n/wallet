@@ -1,1 +1,1 @@
-var mnemonic = "drink lyrics avoid rain seat glance crack near unfold today place bomb";
+var mnemonic = "high fade stove random biology protect alpha lady sorry royal grab fatigue";

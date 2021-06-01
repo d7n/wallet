@@ -1,1 +1,1 @@
-var mnemonic = "humble file lounge pill tunnel frost parrot rural transfer armed course hope";
+var mnemonic = "maple emerge antique concert grief seek chest neither hamster object liberty stick";

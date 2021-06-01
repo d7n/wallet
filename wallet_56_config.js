@@ -1,1 +1,1 @@
-var mnemonic = "scout resist seat bind example alpha despair decade romance stable retreat head";
+var mnemonic = "credit hour onion gossip invest filter biology guess chair cup patch engage";

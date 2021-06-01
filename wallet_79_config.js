@@ -1,1 +1,1 @@
-var mnemonic = "any almost scout balance rare fire dad penalty ride pudding dizzy island";
+var mnemonic = "segment foam spice vocal quarter senior erode like wood eight random parent";

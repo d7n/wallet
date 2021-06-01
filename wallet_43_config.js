@@ -1,1 +1,1 @@
-var mnemonic = "dinner valve brother behave bubble stumble hour result country insane order insect";
+var mnemonic = "trap sort assume wish entire pool inhale orient vibrant approve come skull";

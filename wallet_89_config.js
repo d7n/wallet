@@ -1,1 +1,1 @@
-var mnemonic = "census feel innocent twenty ahead fall staff fly strategy alien weapon actual";
+var mnemonic = "then process fine throw grunt absent direct color sense region indicate dynamic";

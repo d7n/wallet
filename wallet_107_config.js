@@ -1,1 +1,1 @@
-var mnemonic = "legend staff vendor ticket poem ordinary success young maximum need bottom pencil";
+var mnemonic = "garbage elevator mad situate modify sell imitate ball tell oval good about";
