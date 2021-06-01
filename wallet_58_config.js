@@ -1,1 +1,1 @@
-var mnemonic = "merge jewel girl lava scissors lizard worry heart stone embody man media";
+var mnemonic = "dentist bike senior what cry seminar humor mutual great useful try cargo";

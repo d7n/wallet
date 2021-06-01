@@ -1,1 +1,1 @@
-var mnemonic = "frown drill embrace scissors alone length enforce become print fever host heart";
+var mnemonic = "clog income cool sail betray taxi wool buzz gift globe august love";

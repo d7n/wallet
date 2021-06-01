@@ -1,1 +1,1 @@
-var mnemonic = "silly basic toe speak worth notable deputy twice antique foam wife work";
+var mnemonic = "horn mixed real fever various bulk city twist diet crisp exclude cannon";

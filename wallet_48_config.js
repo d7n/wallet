@@ -1,1 +1,1 @@
-var mnemonic = "monkey soul tissue weapon camera snow celery cloud ready decorate seat forward";
+var mnemonic = "drill list public carbon island leopard invite final symbol attitude crystal offer";

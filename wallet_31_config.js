@@ -1,1 +1,1 @@
-var mnemonic = "spike media erosion laugh brother much trial aisle north siren play brass";
+var mnemonic = "special educate shoulder author taste old leg fox excess sort shallow version";

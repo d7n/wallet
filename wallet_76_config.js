@@ -1,1 +1,1 @@
-var mnemonic = "cable latin vintage lock head degree head fish owner caution athlete repair";
+var mnemonic = "sick shallow defense march critic parent allow ladder income dove mistake accuse";

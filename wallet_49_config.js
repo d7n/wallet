@@ -1,1 +1,1 @@
-var mnemonic = "during stick story obtain bubble owner syrup skirt apart piano nice acid";
+var mnemonic = "nerve dream very giraffe sad stomach rail keep inform give mind retreat";

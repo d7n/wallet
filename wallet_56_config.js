@@ -1,1 +1,1 @@
-var mnemonic = "bring aim minor purse clown jaguar unit pet sick manage trend recipe";
+var mnemonic = "snack admit left chair profit cat proof theory exist usage puzzle globe";

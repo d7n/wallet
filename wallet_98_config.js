@@ -1,1 +1,1 @@
-var mnemonic = "alcohol empty jeans base chunk glimpse winner kangaroo lunch suspect magic neglect";
+var mnemonic = "nominee solve sort right medal diagram three scatter mixed blanket piece pass";

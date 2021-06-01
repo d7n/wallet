@@ -1,1 +1,1 @@
-var mnemonic = "blur average category bacon rigid shuffle private powder maple reward property fluid";
+var mnemonic = "expand wood blast suffer awesome pyramid analyst grunt work issue uncle deal";

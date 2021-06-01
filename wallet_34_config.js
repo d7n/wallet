@@ -1,1 +1,1 @@
-var mnemonic = "primary knee sure club hip virus obtain stereo almost rabbit master army";
+var mnemonic = "gospel blue dentist artwork result cream drift caught wife father letter describe";

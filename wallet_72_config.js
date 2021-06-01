@@ -1,1 +1,1 @@
-var mnemonic = "wink notable stock clock brain funny method elite hospital finish secret poet";
+var mnemonic = "forum second inject avocado solution seed blade wish sun tip park exchange";

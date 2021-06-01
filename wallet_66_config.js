@@ -1,1 +1,1 @@
-var mnemonic = "razor glory frame peanut debate lucky all fire depart merry calm diagram";
+var mnemonic = "rely local cotton dumb awesome attend violin crush forest case plunge memory";

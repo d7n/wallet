@@ -1,1 +1,1 @@
-var mnemonic = "escape angry sock skin fiscal alpha firm arena comfort load equal tongue";
+var mnemonic = "giraffe garbage sight milk bring faint puppy decorate then alien dust visual";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor beauty economy hamster kidney barrel skill scrap immense dish dice explain";
+var mnemonic = "stumble lounge toilet nest meadow foster maple fan grace gospel domain address";

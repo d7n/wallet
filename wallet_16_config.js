@@ -1,1 +1,1 @@
-var mnemonic = "vacuum position invite defense tomorrow curious deposit found combine list walk tiny";
+var mnemonic = "rough cruise devote start gauge rose brass surprise intact grocery month general";

@@ -1,1 +1,1 @@
-var mnemonic = "actress swap all usage violin size enforce noble fault glory sudden valid";
+var mnemonic = "forward reject fly great unfold average mixture old accuse avoid shell wish";

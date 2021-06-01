@@ -1,1 +1,1 @@
-var mnemonic = "dash venture apart regret artwork physical wealth purity oval market depend length";
+var mnemonic = "crowd series kid fiber surround hazard usual arrange pond destroy retreat pass";

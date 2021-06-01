@@ -1,1 +1,1 @@
-var mnemonic = "avoid feed peasant unique exile topple fabric march erode neither violin tide";
+var mnemonic = "snap damage chef gather region embark kitchen cash verify title misery raccoon";

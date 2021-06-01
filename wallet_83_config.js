@@ -1,1 +1,1 @@
-var mnemonic = "mango mention nurse artwork injury unique can divert away shuffle sense dream";
+var mnemonic = "maid element nominee clarify slam elder december game section polar matrix bone";

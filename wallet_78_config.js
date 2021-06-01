@@ -1,1 +1,1 @@
-var mnemonic = "jump help benefit arm brief detail you until mouse gadget inner robust";
+var mnemonic = "aisle pelican profit pepper love switch inflict ugly sauce unfair insane return";

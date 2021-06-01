@@ -1,1 +1,1 @@
-var mnemonic = "giggle ski crawl series divide treat muffin envelope exact cluster assume river";
+var mnemonic = "random spend error online manual swift accuse payment still unfold try green";

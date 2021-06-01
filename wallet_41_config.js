@@ -1,1 +1,1 @@
-var mnemonic = "sugar theme beach brisk mother property truck weasel turkey garment weapon artefact";
+var mnemonic = "only gold mouse bridge coffee round approve soul vocal occur mask jazz";

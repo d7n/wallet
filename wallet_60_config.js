@@ -1,1 +1,1 @@
-var mnemonic = "elite crumble retire host unknown cry fatal rent dwarf attract cruel bundle";
+var mnemonic = "loyal stove mouse horror parent insect bench neutral hundred punch avoid bar";

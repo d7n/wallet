@@ -1,1 +1,1 @@
-var mnemonic = "birth express curtain axis fitness canvas myth impulse champion drip retire valley";
+var mnemonic = "wrap brief now lesson clarify bike wide pony hello believe inside mention";

@@ -1,1 +1,1 @@
-var mnemonic = "chase connect cheap amount goat manual end chief bonus hood private combine";
+var mnemonic = "typical only mask cabbage rhythm march between gesture purse lyrics cheese illegal";

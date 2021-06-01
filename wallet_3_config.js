@@ -1,1 +1,1 @@
-var mnemonic = "foil borrow carpet argue damage soul artist garden pave history mule always";
+var mnemonic = "win mystery mystery welcome twelve reunion topic ugly open catch female shy";

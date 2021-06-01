@@ -1,1 +1,1 @@
-var mnemonic = "myself again impact roof someone jungle naive have tongue bone appear mixed";
+var mnemonic = "trouble box bomb knee immune toss divorce endless march sort rich file";

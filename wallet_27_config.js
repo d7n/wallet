@@ -1,1 +1,1 @@
-var mnemonic = "wage city ice timber three donor topple person shaft once rude vibrant";
+var mnemonic = "blast vehicle lend lock cup ripple salmon mandate lecture hope scrub festival";

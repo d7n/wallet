@@ -1,1 +1,1 @@
-var mnemonic = "globe spot grass swim gold ski just pond doll hover grant essay";
+var mnemonic = "rare file dynamic include antenna dice dish dentist differ recall approve mutual";

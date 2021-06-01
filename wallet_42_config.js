@@ -1,1 +1,1 @@
-var mnemonic = "banner exclude unlock idle floor wonder blame anger crash beyond know warrior";
+var mnemonic = "island hero vault town alien increase idle odor puzzle merge phrase raise";

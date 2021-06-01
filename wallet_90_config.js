@@ -1,1 +1,1 @@
-var mnemonic = "paper bring message agent ceiling all entry rose position toward layer rain";
+var mnemonic = "dutch bid scatter long chaos small shop language sniff fury save sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot advance receive honey nasty diagram pyramid metal rule curve blossom donkey";
+var mnemonic = "home focus outdoor reduce neck blur seat jelly sand version sadness carry";

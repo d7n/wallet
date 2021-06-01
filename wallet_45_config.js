@@ -1,1 +1,1 @@
-var mnemonic = "bottom try crack cherry guilt property pistol faculty bright black garment aerobic";
+var mnemonic = "slice announce globe similar laptop nut hurdle gloom discover episode obscure that";

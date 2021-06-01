@@ -1,1 +1,1 @@
-var mnemonic = "soccer kingdom lend thank audit pelican victory script supreme banana law broken";
+var mnemonic = "unique funny solution sure again panic example wait blush canvas stage dutch";

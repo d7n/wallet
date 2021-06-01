@@ -1,1 +1,1 @@
-var mnemonic = "share know siren skill scatter eight error cover frequent ensure valve echo";
+var mnemonic = "swamp trap guard champion juice rent vault candy crucial mountain design clap";

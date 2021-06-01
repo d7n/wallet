@@ -1,1 +1,1 @@
-var mnemonic = "swear rival clog profit pact same conduct gym panel roast victory draw";
+var mnemonic = "artefact hood cinnamon olympic brown parent neither salmon advance jar crane noble";

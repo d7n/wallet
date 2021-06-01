@@ -1,1 +1,1 @@
-var mnemonic = "flash together all awake asthma virtual image mushroom awful core junk utility";
+var mnemonic = "ice load electric whip wise flame sound exchange gesture clarify jar quarter";

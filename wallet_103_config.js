@@ -1,1 +1,1 @@
-var mnemonic = "awful dwarf favorite frost rail idle cattle cereal long hungry view flower";
+var mnemonic = "soccer devote umbrella response subway rare other cinnamon news timber sea eagle";

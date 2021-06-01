@@ -1,1 +1,1 @@
-var mnemonic = "rally process sing shallow curtain now chase afraid gym sketch actual winter";
+var mnemonic = "merry hand donkey ketchup color people strong solution hamster forget creek bullet";

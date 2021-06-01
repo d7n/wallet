@@ -1,1 +1,1 @@
-var mnemonic = "usage laundry walnut visual all seat vacuum safe entry mosquito side rule";
+var mnemonic = "real used dilemma result push unknown world stadium slush wonder narrow tenant";

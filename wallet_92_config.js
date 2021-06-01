@@ -1,1 +1,1 @@
-var mnemonic = "city music mixture slot pull exotic spot tuition start jelly lecture screen";
+var mnemonic = "explain sword team weapon bless circle cool detect sea addict music warfare";

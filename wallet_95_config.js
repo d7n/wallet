@@ -1,1 +1,1 @@
-var mnemonic = "bounce dad monkey state ensure trip screen weekend elder scene turtle rug";
+var mnemonic = "that access hazard change crucial trash melt ladder tomato future strike tone";

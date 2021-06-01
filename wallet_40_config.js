@@ -1,1 +1,1 @@
-var mnemonic = "tooth melody gorilla match baby hunt barely alarm swear empower diagram fox";
+var mnemonic = "hazard bounce popular tank mixture sword lady usual venture index kiwi claw";

@@ -1,1 +1,1 @@
-var mnemonic = "hello naive list easily fuel wheat evolve illegal budget rocket brown predict";
+var mnemonic = "churn pulse when staff lounge scheme detect pencil august project crop sign";

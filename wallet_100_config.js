@@ -1,1 +1,1 @@
-var mnemonic = "bicycle motor border urban deliver curve oxygen menu buyer mask vicious energy";
+var mnemonic = "leave elbow waste wreck people tiny empower finish review holiday inch mom";

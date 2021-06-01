@@ -1,1 +1,1 @@
-var mnemonic = "tackle maximum bracket sphere vehicle radar coffee walnut clock type moral ball";
+var mnemonic = "issue venture ghost sad embody throw mind nature ugly raven shoe slab";

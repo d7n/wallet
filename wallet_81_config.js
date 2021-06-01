@@ -1,1 +1,1 @@
-var mnemonic = "rescue roast garment agent next depth disorder guilt long appear grace put";
+var mnemonic = "pride squeeze card setup tattoo fuel select violin aim cart electric leisure";

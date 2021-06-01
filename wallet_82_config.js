@@ -1,1 +1,1 @@
-var mnemonic = "ready three recycle weekend canvas possible swear mom void office wrist pitch";
+var mnemonic = "mind cross dwarf gorilla letter bone stove throw autumn honey disagree oil";

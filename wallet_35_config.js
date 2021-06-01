@@ -1,1 +1,1 @@
-var mnemonic = "credit job clever move kitchen easily fiscal wedding silly ivory sad inherit";
+var mnemonic = "chicken scale attitude teach canvas buzz visual horse remove best fashion balance";

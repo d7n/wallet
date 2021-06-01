@@ -1,1 +1,1 @@
-var mnemonic = "drama rural hover cradle trumpet goat earn fortune ostrich knee tell jealous";
+var mnemonic = "opinion enroll chicken illness trap chat bottom forget over goat pizza pink";

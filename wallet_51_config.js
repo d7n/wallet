@@ -1,1 +1,1 @@
-var mnemonic = "antique clip illegal world helmet joke biology wild plunge raven shiver novel";
+var mnemonic = "load orbit afford involve end finger loan maze unfold festival mix census";

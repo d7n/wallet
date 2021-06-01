@@ -1,1 +1,1 @@
-var mnemonic = "weapon tilt journey recycle labor ripple impose cotton green tongue latin acoustic";
+var mnemonic = "clock razor source kind inner chicken dawn sentence witness laugh engine bullet";

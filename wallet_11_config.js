@@ -1,1 +1,1 @@
-var mnemonic = "thumb punch marriage real kite hazard convince neck message print shove slogan";
+var mnemonic = "diesel spare any easy uniform artwork husband arch average expand nest connect";

@@ -1,1 +1,1 @@
-var mnemonic = "skate clean confirm theory whisper laugh diamond train north evidence program demand";
+var mnemonic = "measure nerve turkey horse orphan icon present easily industry oven occur giant";

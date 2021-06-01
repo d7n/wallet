@@ -1,1 +1,1 @@
-var mnemonic = "edit vital gown thought delay angry laugh diary magic fee mandate galaxy";
+var mnemonic = "gift acoustic coast hollow toe vault adapt humor veteran artwork tank smoke";

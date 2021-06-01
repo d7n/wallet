@@ -1,1 +1,1 @@
-var mnemonic = "journey planet quiz horror ready dinosaur coyote uncover else edit smooth minute";
+var mnemonic = "hobby tuna issue project acquire buzz include aerobic choice obvious style palace";

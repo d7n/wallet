@@ -1,1 +1,1 @@
-var mnemonic = "entry oak athlete second rule point physical purse egg wrong cloth report";
+var mnemonic = "merge pig ahead earth true skull slide bind choose amount age noise";

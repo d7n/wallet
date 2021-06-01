@@ -1,1 +1,1 @@
-var mnemonic = "dynamic shield health stand draft acquire roast wreck business blur reveal magnet";
+var mnemonic = "mistake adjust charge adjust permit damage private giant erode weird text curious";

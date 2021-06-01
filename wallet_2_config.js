@@ -1,1 +1,1 @@
-var mnemonic = "recall sad basket unhappy remind wave insect bless forum hand club damp";
+var mnemonic = "armed over volcano apart monkey economy derive where soap thought seek horn";

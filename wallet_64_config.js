@@ -1,1 +1,1 @@
-var mnemonic = "funny polar vote sunny mention park wreck suggest sea ripple spoil chat";
+var mnemonic = "urge rich skin assault garden rent island amateur they stairs clarify pen";

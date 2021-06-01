@@ -1,1 +1,1 @@
-var mnemonic = "crawl author gossip magnet similar when leave earth jelly firm mother cloth";
+var mnemonic = "kind hammer climb rescue call pact sugar eternal clown talk novel diagram";

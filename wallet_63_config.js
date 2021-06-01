@@ -1,1 +1,1 @@
-var mnemonic = "spoon glance drum owner section smart royal forget enough noise glue nasty";
+var mnemonic = "inherit hotel layer ozone average rotate snap demise bronze truly mixed draw";

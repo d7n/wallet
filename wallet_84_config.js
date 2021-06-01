@@ -1,1 +1,1 @@
-var mnemonic = "clip frost any pretty wolf repeat tilt heavy disagree drift scout inch";
+var mnemonic = "knife silent insane emotion wealth chief alter wood foot diesel cross occur";

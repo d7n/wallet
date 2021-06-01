@@ -1,1 +1,1 @@
-var mnemonic = "grocery bunker angry color nature bridge cotton kick produce team march leopard";
+var mnemonic = "then van pride zone tunnel sausage cause robust wealth express truck fox";

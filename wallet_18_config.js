@@ -1,1 +1,1 @@
-var mnemonic = "razor iron shoot hunt giraffe legal open virus oxygen desk degree seven";
+var mnemonic = "book amused across protect excess surprise room toward fix favorite want grass";

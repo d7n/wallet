@@ -1,1 +1,1 @@
-var mnemonic = "bicycle carbon melody squirrel slogan great car eye moon lake priority decade";
+var mnemonic = "limit ostrich protect maximum window degree laundry scissors clean now stay victory";

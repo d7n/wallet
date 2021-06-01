@@ -1,1 +1,1 @@
-var mnemonic = "tired bacon loyal audit lemon absorb pipe super valid stem able magnet";
+var mnemonic = "surface license unaware thing old bicycle envelope relax rally emerge base letter";

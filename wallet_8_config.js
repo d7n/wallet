@@ -1,1 +1,1 @@
-var mnemonic = "old play confirm refuse symbol below action hurry enhance health tilt vanish";
+var mnemonic = "cricket depend mix jewel hundred swim mind manual real honey achieve lens";

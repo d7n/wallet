@@ -1,1 +1,1 @@
-var mnemonic = "drastic split neck mass glove wonder symbol write fine dignity scare faint";
+var mnemonic = "ramp kid lab faculty jewel aunt can apology adjust agree notice design";

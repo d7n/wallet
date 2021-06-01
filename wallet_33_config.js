@@ -1,1 +1,1 @@
-var mnemonic = "friend citizen night enter recycle found harsh proof ask renew govern thrive";
+var mnemonic = "receive dune dish canoe advice cotton lizard pig rude blind blue pattern";

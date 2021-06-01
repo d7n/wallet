@@ -1,1 +1,1 @@
-var mnemonic = "parade venture height check inherit duck owner roast employ figure patch crack";
+var mnemonic = "consider coin baby chief arctic swim ankle rival story shallow analyst mistake";

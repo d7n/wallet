@@ -1,1 +1,1 @@
-var mnemonic = "head cup acquire mixture siege quit spoil wait fashion coast cluster math";
+var mnemonic = "cruise average mix rifle purpose round able what better soccer convince leg";

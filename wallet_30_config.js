@@ -1,1 +1,1 @@
-var mnemonic = "huge tongue tag what source helmet apple spot avoid brisk scan valley";
+var mnemonic = "entire jealous kite gallery follow hip service energy flush alcohol valley essence";

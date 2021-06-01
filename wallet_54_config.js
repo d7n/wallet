@@ -1,1 +1,1 @@
-var mnemonic = "capable month jewel leopard body river always parade skill coconut south hero";
+var mnemonic = "scrap cause process install manual debate below topic strong spirit ice festival";

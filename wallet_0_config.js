@@ -1,1 +1,1 @@
-var mnemonic = "swarm hub tortoise border filter wool genius candy genuine social little buddy";
+var mnemonic = "elephant artwork marine soldier hurdle hurdle pioneer sniff fluid divorce local above";

@@ -1,1 +1,1 @@
-var mnemonic = "season guide predict model panel sunny such drum rhythm grid prosper leave";
+var mnemonic = "column snow rack grain pave fun gospel secret picture public practice chimney";

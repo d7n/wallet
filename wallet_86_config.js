@@ -1,1 +1,1 @@
-var mnemonic = "winner reflect alter snow advice below seven sketch clean knife rural stem";
+var mnemonic = "staff stool defense pluck rifle wage balance caught shield erase dune giggle";

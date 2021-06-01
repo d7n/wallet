@@ -1,1 +1,1 @@
-var mnemonic = "wisdom turkey pudding nurse security room decide seven describe wood lumber daring";
+var mnemonic = "friend supply label fiction impose super vocal weird glass scan analyst excuse";

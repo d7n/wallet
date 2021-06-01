@@ -1,1 +1,1 @@
-var mnemonic = "vintage chuckle present alone glue thumb torch fame search add step shop";
+var mnemonic = "rent flee vehicle actress poet mouse aspect embark tilt volcano rude picnic";

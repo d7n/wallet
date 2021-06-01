@@ -1,1 +1,1 @@
-var mnemonic = "slush original wash marriage now knife tray summer phrase brick assault sphere";
+var mnemonic = "piece obey donkey mean silk include arena skull board torch tape vast";

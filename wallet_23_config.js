@@ -1,1 +1,1 @@
-var mnemonic = "oval dutch ocean split erode apology deny when body result census empty";
+var mnemonic = "earn teach ill town palm pride tragic rely left swim fun squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar virtual squirrel outer question device glove game model adult law sail";
+var mnemonic = "speak butter scheme emerge leopard carry velvet bless copper amount guitar slush";

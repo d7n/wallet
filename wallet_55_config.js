@@ -1,1 +1,1 @@
-var mnemonic = "crane drama buddy execute nurse certain cup faint onion someone object enjoy";
+var mnemonic = "music wonder replace melody ask sport switch cheese away gospel syrup live";
