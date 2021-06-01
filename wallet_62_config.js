@@ -1,1 +1,1 @@
-var mnemonic = "habit priority pencil peasant want vessel vacuum traffic cry purse car term";
+var mnemonic = "echo embark lens that dilemma jacket garlic brief village front tank fork";

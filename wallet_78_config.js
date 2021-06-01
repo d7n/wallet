@@ -1,1 +1,1 @@
-var mnemonic = "web essence close rapid inspire thunder oak patch paper bring sauce mom";
+var mnemonic = "crucial pretty square vacant sister train response slogan crunch cement discover turtle";

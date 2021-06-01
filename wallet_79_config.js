@@ -1,1 +1,1 @@
-var mnemonic = "budget zero unaware door rapid road inherit ring monkey clown cereal require";
+var mnemonic = "tenant leopard item curtain fire harsh pave latin magic feed hole blur";

@@ -1,1 +1,1 @@
-var mnemonic = "problem salmon note they enough knife kiss repair nut river sister gasp";
+var mnemonic = "exist lens relief pride oval cattle local reopen neither carbon solid fun";

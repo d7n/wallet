@@ -1,1 +1,1 @@
-var mnemonic = "hungry cable sun ethics soup chicken near art obscure island brother box";
+var mnemonic = "bottom seek improve civil script actual web bottom taxi process broom position";

@@ -1,1 +1,1 @@
-var mnemonic = "horn hen legend potato fetch buffalo risk student exercise thrive toy skill";
+var mnemonic = "ugly curve snap give debate uncle borrow purpose zone calm bar spy";

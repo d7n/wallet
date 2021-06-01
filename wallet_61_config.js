@@ -1,1 +1,1 @@
-var mnemonic = "style mimic feed denial author sure barrel about drink grape nest mixture";
+var mnemonic = "monkey enroll spoon jungle bacon private retreat credit fringe nut dynamic zoo";

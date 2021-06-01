@@ -1,1 +1,1 @@
-var mnemonic = "agree blind grass sample fetch melt slender pact frozen sudden execute acoustic";
+var mnemonic = "bounce raven coast reunion hollow foster only humble much torch weird ivory";

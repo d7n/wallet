@@ -1,1 +1,1 @@
-var mnemonic = "arrest claw ridge test gauge remove ranch trend clerk visual describe blanket";
+var mnemonic = "old monitor defense early silk exclude toilet hire exist wedding hero year";

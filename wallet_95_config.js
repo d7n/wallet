@@ -1,1 +1,1 @@
-var mnemonic = "tragic eye menu finger door borrow then caught ocean firm autumn ozone";
+var mnemonic = "village cotton saddle any network barrel arena pyramid twenty nest night relax";

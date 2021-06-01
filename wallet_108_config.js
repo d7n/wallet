@@ -1,1 +1,1 @@
-var mnemonic = "begin valid oppose present clip soccer picture salad offer surge hair sure";
+var mnemonic = "clock asthma seven kid hood divert property reopen situate throw trouble reduce";

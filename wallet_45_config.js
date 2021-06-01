@@ -1,1 +1,1 @@
-var mnemonic = "garden find tennis language tube funny head phone inside price machine biology";
+var mnemonic = "bulk vote fault solar angry mean manage sword stereo miracle bleak deer";

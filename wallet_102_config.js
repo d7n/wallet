@@ -1,1 +1,1 @@
-var mnemonic = "between learn mixture saddle oblige evidence adapt rhythm final stairs cake inform";
+var mnemonic = "shell hunt equal embark spike leave edit crater monitor orbit arm stomach";

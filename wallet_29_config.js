@@ -1,1 +1,1 @@
-var mnemonic = "uniform employ slot tackle diary equip usage divide material hen ten van";
+var mnemonic = "push keen ski have urban mammal liquid cross legend clog remove ordinary";

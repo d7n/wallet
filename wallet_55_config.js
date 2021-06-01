@@ -1,1 +1,1 @@
-var mnemonic = "much punch enroll web mind few setup shield way infant crack wild";
+var mnemonic = "chicken basic demand frequent obtain verb only purity feature ticket box unique";

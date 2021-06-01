@@ -1,1 +1,1 @@
-var mnemonic = "whale winter salute certain dose sugar limit upon approve ivory focus mass";
+var mnemonic = "allow cube globe jaguar twice direct expand motion print sugar unaware begin";

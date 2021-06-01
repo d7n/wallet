@@ -1,1 +1,1 @@
-var mnemonic = "bean sail morning acid mean siren rib good carry edge sound page";
+var mnemonic = "quantum clean uncle gather crystal rely round cave festival invest farm cigar";

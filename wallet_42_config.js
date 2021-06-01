@@ -1,1 +1,1 @@
-var mnemonic = "record worry view sponsor pledge sad nature error rely stadium hard uphold";
+var mnemonic = "access monkey cannon unit shaft remain tumble include assault acquire double hurt";

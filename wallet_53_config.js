@@ -1,1 +1,1 @@
-var mnemonic = "equip profit buyer fly leisure stove duck body upset hundred resist book";
+var mnemonic = "crush demise slim aerobic mandate latin plunge crane festival wine stage execute";

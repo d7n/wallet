@@ -1,1 +1,1 @@
-var mnemonic = "knee hazard among update bunker excuse destroy endless rare surround obvious radio";
+var mnemonic = "matter trust round fame anger baby define hero kind swear pioneer utility";

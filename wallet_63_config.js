@@ -1,1 +1,1 @@
-var mnemonic = "merge design seven rude check license curtain menu paper total table lottery";
+var mnemonic = "figure light appear stadium aim oyster humor crucial record violin stone spread";

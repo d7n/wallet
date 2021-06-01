@@ -1,1 +1,1 @@
-var mnemonic = "typical warm team globe say south grab shiver become novel cabbage cry";
+var mnemonic = "fury nice lady clog vessel empower seed increase diamond script winner analyst";

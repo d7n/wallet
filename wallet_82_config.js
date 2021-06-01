@@ -1,1 +1,1 @@
-var mnemonic = "flash crush wrong roof fitness core shadow liar junk hurdle dilemma fall";
+var mnemonic = "kingdom sustain olive vintage blade essay family nest exhibit piece animal gravity";

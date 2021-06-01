@@ -1,1 +1,1 @@
-var mnemonic = "knife unique soft sugar prepare gloom together trend demand lava income neither";
+var mnemonic = "good possible wait sword amused convince describe upper radar initial lab act";

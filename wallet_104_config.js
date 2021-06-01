@@ -1,1 +1,1 @@
-var mnemonic = "entire valve grid enrich taxi mean mother way cash onion maximum organ";
+var mnemonic = "wrap symbol vanish quantum easy muffin brush borrow twist shield portion better";

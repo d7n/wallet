@@ -1,1 +1,1 @@
-var mnemonic = "hour disagree search cable match save rib gym sorry legend olympic palm";
+var mnemonic = "reveal web smooth boat mesh silver gap goat author exit super never";

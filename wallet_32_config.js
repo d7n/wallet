@@ -1,1 +1,1 @@
-var mnemonic = "cycle diary goose banana rug simple ship report reunion beyond rural math";
+var mnemonic = "exit snow note admit renew zero derive where eagle cousin fun guide";

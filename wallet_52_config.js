@@ -1,1 +1,1 @@
-var mnemonic = "erupt innocent increase alley police hen bachelor couple cook link wall cricket";
+var mnemonic = "tone meat want skate exchange smooth castle soccer usage medal name dragon";

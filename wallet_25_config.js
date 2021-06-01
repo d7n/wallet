@@ -1,1 +1,1 @@
-var mnemonic = "milk early tennis script ritual busy able wolf powder siren album lawsuit";
+var mnemonic = "cousin seat cliff actual deposit inside topic dawn flat screen enrich salt";

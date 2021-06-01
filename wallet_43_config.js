@@ -1,1 +1,1 @@
-var mnemonic = "crouch medal more latin place hawk crazy ignore people best second degree";
+var mnemonic = "quote brass try observe token trophy shell dress palace draft chest ethics";

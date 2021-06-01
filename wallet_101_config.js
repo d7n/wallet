@@ -1,1 +1,1 @@
-var mnemonic = "ask possible boy pepper flame blood roast lyrics emerge home stereo depend";
+var mnemonic = "mandate volcano increase luggage volcano casual margin daring awesome bitter stool fiber";

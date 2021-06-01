@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow absorb layer noodle help return old ivory amateur riot brain erase";
+var mnemonic = "expire toddler talent gorilla tuna disease gather crush fluid drive biology envelope";

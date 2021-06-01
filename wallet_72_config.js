@@ -1,1 +1,1 @@
-var mnemonic = "river solution mountain grow together traffic witness comic genuine clump monkey already";
+var mnemonic = "ozone walk immense exile tent pond fee pull antique beauty creek shuffle";

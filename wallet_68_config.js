@@ -1,1 +1,1 @@
-var mnemonic = "crunch poem street lucky twice great cricket ensure awful fox evidence journey";
+var mnemonic = "tongue action spray million deer shiver dry abstract wrap video announce metal";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew odor hurry auction stone violin blood ability banana grain oak firm";
+var mnemonic = "dune tourist pulp shop crisp slender cage artist decrease submit opinion dove";

@@ -1,1 +1,1 @@
-var mnemonic = "mango nominee fatal first neglect retreat angle stand century paddle earn chief";
+var mnemonic = "novel melt uncle miss strategy wine upgrade scatter inherit tooth property near";

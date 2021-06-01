@@ -1,1 +1,1 @@
-var mnemonic = "bind occur biology retire need month spot attract summer sad into spell";
+var mnemonic = "near vacant across finish devote tragic shrimp talent cruise huge wink cycle";

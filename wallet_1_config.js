@@ -1,1 +1,1 @@
-var mnemonic = "bread group capable violin hundred divorce regret actual angry coin easily ostrich";
+var mnemonic = "disagree tuition because ice upgrade retreat steel finger final cash rhythm luxury";

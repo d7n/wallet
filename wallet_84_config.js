@@ -1,1 +1,1 @@
-var mnemonic = "beyond memory maid dwarf write swallow hedgehog bridge pulse omit bleak shine";
+var mnemonic = "elegant device plate home ribbon since visa apple spawn dumb hamster hill";

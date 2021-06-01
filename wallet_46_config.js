@@ -1,1 +1,1 @@
-var mnemonic = "buzz guess science bubble tooth world spider betray early vital gossip demise";
+var mnemonic = "auto comic stove minor toilet father female beauty force border wise away";

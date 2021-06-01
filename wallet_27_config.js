@@ -1,1 +1,1 @@
-var mnemonic = "cheese crew cup cabbage smart skill hazard long matter room mutual ski";
+var mnemonic = "dolphin pool police fire will gather remind ensure quarter audit blossom science";

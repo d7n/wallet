@@ -1,1 +1,1 @@
-var mnemonic = "unveil original slim emotion thumb leave dirt aerobic choose hard cradle moral";
+var mnemonic = "mammal hard scout symptom gossip betray cattle dial inherit furnace myth mail";

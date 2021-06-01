@@ -1,1 +1,1 @@
-var mnemonic = "direct believe lava chalk alcohol grid submit force frozen bird mixed convince";
+var mnemonic = "stem stereo blind rough theory upgrade jeans boy wet transfer engine divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "room primary oyster stomach repeat burst layer virus wait genre siren blanket";
+var mnemonic = "ship tooth shadow milk find festival expose clog struggle prize label snack";

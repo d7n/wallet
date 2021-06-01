@@ -1,1 +1,1 @@
-var mnemonic = "blast story vote cream night sell key copy inmate fatal place ritual";
+var mnemonic = "glance miracle sport old cinnamon tongue future swift hollow immune polar machine";

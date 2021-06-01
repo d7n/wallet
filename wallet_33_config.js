@@ -1,1 +1,1 @@
-var mnemonic = "sing install immense immune kitchen index involve pass notable chase sun quit";
+var mnemonic = "zoo flee afford track brave jealous recipe easy chunk antenna deputy talk";

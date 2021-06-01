@@ -1,1 +1,1 @@
-var mnemonic = "easily student blood media drip ramp slight off youth nerve glow promote";
+var mnemonic = "mystery inform neglect flee need chef coin install repeat marble alarm author";

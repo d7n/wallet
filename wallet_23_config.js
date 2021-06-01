@@ -1,1 +1,1 @@
-var mnemonic = "large impact crouch sample drive target flash whale cherry truth kangaroo member";
+var mnemonic = "meat demise law situate photo minute multiply pear unhappy half medal acquire";

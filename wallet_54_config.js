@@ -1,1 +1,1 @@
-var mnemonic = "nut sunny inform sausage wagon food reduce response issue motion immense ten";
+var mnemonic = "pigeon bone phrase bench obvious deputy below behind bread whale grab left";

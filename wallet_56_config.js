@@ -1,1 +1,1 @@
-var mnemonic = "fitness reject display belt bid copper digital space play urban betray hundred";
+var mnemonic = "family confirm famous toe carpet next benefit normal document gauge west orange";

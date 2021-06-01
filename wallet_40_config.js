@@ -1,1 +1,1 @@
-var mnemonic = "dirt zone shoulder add area genre clever depart mystery answer conduct pave";
+var mnemonic = "extend leave unusual glory either object eight street exhibit kitten input glare";

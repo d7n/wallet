@@ -1,1 +1,1 @@
-var mnemonic = "gauge paper limit width alone love thank hurry abstract diamond pole kiss";
+var mnemonic = "beauty soap put thought bronze lucky chase nothing suspect retire team verb";

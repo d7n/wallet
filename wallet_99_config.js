@@ -1,1 +1,1 @@
-var mnemonic = "prepare solution myself intact satisfy sadness defy pretty neither observe youth virus";
+var mnemonic = "indicate smile year sudden million blush current ketchup vacant state country orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "arena extend coconut shock ship draw vehicle lizard genre connect win rifle";
+var mnemonic = "wait flower stumble harbor grass fever hockey debris option december process arrow";

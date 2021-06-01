@@ -1,1 +1,1 @@
-var mnemonic = "angle cradle rare squirrel tragic dice engine exact accuse coral illegal verb";
+var mnemonic = "bronze program teach donate example ecology one table control current first you";

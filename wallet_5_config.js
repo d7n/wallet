@@ -1,1 +1,1 @@
-var mnemonic = "domain beauty quiz race mansion thank brown area eye inflict kitten mean";
+var mnemonic = "envelope lecture lecture purity amount jar subway blast fragile course exercise thank";

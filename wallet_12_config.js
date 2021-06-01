@@ -1,1 +1,1 @@
-var mnemonic = "onion mountain bind large symptom slam donor often insane punch vintage flower";
+var mnemonic = "detail cram camp output radar curious element slot neutral van dust void";

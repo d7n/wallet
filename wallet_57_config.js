@@ -1,1 +1,1 @@
-var mnemonic = "bring wage robot math imitate track two stone nuclear pill lumber august";
+var mnemonic = "joke female entire kiss audit tail ten uncover digital zoo attack grant";

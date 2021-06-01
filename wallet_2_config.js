@@ -1,1 +1,1 @@
-var mnemonic = "spatial apart shell misery normal license bullet cry term sample lawn select";
+var mnemonic = "regular hollow beyond obvious middle erode crumble finger bamboo party fall east";

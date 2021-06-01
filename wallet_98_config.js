@@ -1,1 +1,1 @@
-var mnemonic = "beyond crowd across document salmon arrange north toward wool wrist venue rifle";
+var mnemonic = "brain proud enough seven game rally equal reward future welcome month uncle";

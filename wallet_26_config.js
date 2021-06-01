@@ -1,1 +1,1 @@
-var mnemonic = "funny absorb electric sketch eyebrow stage energy learn twenty focus aunt figure";
+var mnemonic = "broom jewel cereal team taste word border acid fit twist eagle always";

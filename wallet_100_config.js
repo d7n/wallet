@@ -1,1 +1,1 @@
-var mnemonic = "ten bar toward copy negative recycle crawl arm flush genius canvas web";
+var mnemonic = "include apart divorce system pole alley town forest battle humble social process";

@@ -1,1 +1,1 @@
-var mnemonic = "order enrich scorpion lawsuit fade topic text index lumber rib island lobster";
+var mnemonic = "thumb permit valve company frame rubber pole cry ordinary hello frequent popular";

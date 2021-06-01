@@ -1,1 +1,1 @@
-var mnemonic = "record bicycle apart element fossil case seek impose leopard timber have violin";
+var mnemonic = "brother youth divert border kite purpose green lab obey health diagram morning";

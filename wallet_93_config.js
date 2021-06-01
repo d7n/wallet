@@ -1,1 +1,1 @@
-var mnemonic = "mesh kit system rain marriage option equip mobile flip speak pull gesture";
+var mnemonic = "awkward salute angle earn local butter style panel jump play tape bullet";

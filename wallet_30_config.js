@@ -1,1 +1,1 @@
-var mnemonic = "couch defy decrease mass ripple degree giggle pulse orchard okay tribe mistake";
+var mnemonic = "come elevator cigar toast age robot twenty tragic bacon chuckle breeze dignity";

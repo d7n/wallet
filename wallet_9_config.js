@@ -1,1 +1,1 @@
-var mnemonic = "clutch soda purpose cost black artist sure regret innocent forum tumble labor";
+var mnemonic = "until safe mesh dry double funny jar roast aspect seven earth correct";

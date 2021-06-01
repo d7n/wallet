@@ -1,1 +1,1 @@
-var mnemonic = "drop shuffle salute day federal teach table orbit fame prison dog elegant";
+var mnemonic = "film tomorrow used hole elevator ensure jar metal young quick song wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "august arrest palm moment february pool blur word wreck borrow market thunder";
+var mnemonic = "color spoon panic truck coin wheel denial diesel minor job dial copper";

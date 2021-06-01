@@ -1,1 +1,1 @@
-var mnemonic = "rigid devote open gas gate connect lab chaos bachelor cattle never carpet";
+var mnemonic = "squirrel crane pulse earn dinner super kingdom goat media safe shiver demand";

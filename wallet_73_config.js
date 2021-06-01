@@ -1,1 +1,1 @@
-var mnemonic = "safe push tomorrow civil enforce glimpse candy summer dutch reunion unveil another";
+var mnemonic = "dice online crush knife trigger junior kangaroo captain green another impose snap";

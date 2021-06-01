@@ -1,1 +1,1 @@
-var mnemonic = "elephant garbage crew finger crumble mimic truth sign foam story element erosion";
+var mnemonic = "jewel fruit wisdom round raccoon vessel sketch champion silver system rail swallow";

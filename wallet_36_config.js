@@ -1,1 +1,1 @@
-var mnemonic = "rigid shop ecology clay daughter soft hurdle bomb bullet dish bulk mechanic";
+var mnemonic = "capital cake appear bleak follow style cancel stereo only library crawl board";

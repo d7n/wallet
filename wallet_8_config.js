@@ -1,1 +1,1 @@
-var mnemonic = "tuna improve nasty second fever deputy forward planet inmate stem industry dance";
+var mnemonic = "coin brain apple hammer prepare hidden mango biology cake piece few punch";

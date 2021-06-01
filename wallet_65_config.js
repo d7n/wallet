@@ -1,1 +1,1 @@
-var mnemonic = "collect deposit wagon evoke run filter couple vapor attack divorce immense pig";
+var mnemonic = "boil hope club aerobic lizard drastic rhythm version fetch panda summer tiger";

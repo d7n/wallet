@@ -1,1 +1,1 @@
-var mnemonic = "ghost speak donor receive media public penalty judge buzz month rain fiscal";
+var mnemonic = "pole oblige spring chapter skull movie music seat inspire hand plate lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "surge loop boss radio current kangaroo expire draw brother kangaroo horror zero";
+var mnemonic = "deposit motion hood flavor describe great cancel solve require monitor milk security";

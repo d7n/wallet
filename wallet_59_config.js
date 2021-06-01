@@ -1,1 +1,1 @@
-var mnemonic = "dash icon endless tobacco control tongue surge charge robust panel cram act";
+var mnemonic = "pact weasel possible rough noble kitchen hour warfare almost visit peasant unlock";

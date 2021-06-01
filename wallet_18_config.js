@@ -1,1 +1,1 @@
-var mnemonic = "sea orange orange famous obvious nothing hazard baby chief ladder evidence solution";
+var mnemonic = "prevent argue guide year mandate police lock typical foot random young improve";

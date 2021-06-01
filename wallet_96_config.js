@@ -1,1 +1,1 @@
-var mnemonic = "bless denial someone outdoor outer hurry garage alone buddy exotic believe share";
+var mnemonic = "fitness during version rubber typical grid fury wide control embody party clump";

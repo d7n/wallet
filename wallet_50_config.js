@@ -1,1 +1,1 @@
-var mnemonic = "one hedgehog web galaxy cabbage submit now fatigue search bronze style olive";
+var mnemonic = "goddess sting debate thought traffic easily spoon learn cancel denial cricket chat";

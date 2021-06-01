@@ -1,1 +1,1 @@
-var mnemonic = "brain put leave tent chest alcohol decade differ broccoli obscure joke intact";
+var mnemonic = "sunny chalk assume intact category monster squeeze name shock artwork material ability";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch notable erase again family orchard crouch type various genre resemble orbit";
+var mnemonic = "fee notable struggle snack hen boring universe display airport fish movie rather";

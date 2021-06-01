@@ -1,1 +1,1 @@
-var mnemonic = "swift away spatial sphere mule cricket surround asthma since miss burst crazy";
+var mnemonic = "april envelope rocket large shell uncover because ivory earth muscle cousin jar";

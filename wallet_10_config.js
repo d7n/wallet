@@ -1,1 +1,1 @@
-var mnemonic = "lift admit cargo rigid segment come unveil valley element permit cricket double";
+var mnemonic = "hope egg episode limb wheat century neglect muscle begin prosper narrow silly";

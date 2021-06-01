@@ -1,1 +1,1 @@
-var mnemonic = "sadness escape account exclude initial plug parade garbage until latin apology type";
+var mnemonic = "present coil evidence soldier myth track tiger ocean caught ribbon praise change";

@@ -1,1 +1,1 @@
-var mnemonic = "bring duty morning elephant truly oxygen amazing ordinary puzzle cross kitten key";
+var mnemonic = "entire grab trigger render deliver swamp price mobile vote taste pretty divide";

@@ -1,1 +1,1 @@
-var mnemonic = "style torch video bike noble obtain tongue rigid prison agent toe dizzy";
+var mnemonic = "jacket hunt alpha swarm clap dizzy sweet fork pepper pitch rigid catch";

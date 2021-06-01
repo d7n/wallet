@@ -1,1 +1,1 @@
-var mnemonic = "east science category bench crash labor pause design coach twelve jazz enough";
+var mnemonic = "shoot visit silk country invest anxiety canoe wave short acquire invest fog";

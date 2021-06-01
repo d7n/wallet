@@ -1,1 +1,1 @@
-var mnemonic = "talent lift loan roast neither business stable token sunset extend online media";
+var mnemonic = "gaze provide obscure oppose master engine thrive snake head august way trap";

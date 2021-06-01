@@ -1,1 +1,1 @@
-var mnemonic = "space thrive cloth mansion impose destroy blur okay roof march remain marriage";
+var mnemonic = "frequent wrist couple desert leopard stove afford jealous scrub twist truth always";

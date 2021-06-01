@@ -1,1 +1,1 @@
-var mnemonic = "pretty upgrade gauge miss medal holiday genre gallery want evil harvest nut";
+var mnemonic = "salt poem drive speed recipe soft scrub silly document build turn raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "happy hobby describe inner topple young alter degree wheat buyer material box";
+var mnemonic = "battle unable top fan sock kitchen gesture tell brass asset infant jaguar";
