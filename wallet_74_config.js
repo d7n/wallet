@@ -1,1 +1,1 @@
-var mnemonic = "gauge swarm clean style stick build burden supreme ignore pumpkin gravity legal";
+var mnemonic = "barrel attract differ reveal shove pizza allow mad thunder mansion wise aim";

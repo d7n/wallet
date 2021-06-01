@@ -1,1 +1,1 @@
-var mnemonic = "wish define candy admit thank monitor remember ignore target slice segment denial";
+var mnemonic = "impulse mad obvious fashion isolate domain verify near manage tip pony wire";

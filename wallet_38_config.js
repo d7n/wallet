@@ -1,1 +1,1 @@
-var mnemonic = "dentist inject symptom under input bone buyer negative have wreck wave swallow";
+var mnemonic = "bulb hire traffic purity demand express spike long final distance accuse state";

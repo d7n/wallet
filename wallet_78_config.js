@@ -1,1 +1,1 @@
-var mnemonic = "decrease meat scene source there oyster jeans absurd chair need consider drop";
+var mnemonic = "space drum hope invite mean fog wall flavor fruit taxi number else";

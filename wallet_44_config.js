@@ -1,1 +1,1 @@
-var mnemonic = "outdoor glad solve mimic shift timber ankle example pledge illegal nerve banana";
+var mnemonic = "surface square elder history ghost abstract upset digital appear seat monster crawl";

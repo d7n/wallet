@@ -1,1 +1,1 @@
-var mnemonic = "wisdom ribbon hood wreck miss can make tackle barrel fiction ridge clarify";
+var mnemonic = "move awake road crazy day share deer average group gorilla cake blush";

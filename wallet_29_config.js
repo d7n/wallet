@@ -1,1 +1,1 @@
-var mnemonic = "load blade hand proud virtual uniform ankle decade idle quick soon monkey";
+var mnemonic = "fruit merry blame twin blossom brisk super rubber swift lesson extra disagree";

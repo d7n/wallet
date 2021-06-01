@@ -1,1 +1,1 @@
-var mnemonic = "field until ankle reform pink snack order glory cabin state soul okay";
+var mnemonic = "service disagree sudden ignore castle film twin bread fold width squeeze column";

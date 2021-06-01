@@ -1,1 +1,1 @@
-var mnemonic = "clap radar diary float below picnic result knee height midnight naive today";
+var mnemonic = "spy comic noble tag scissors undo media voice diamond boil dutch minimum";

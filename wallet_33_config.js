@@ -1,1 +1,1 @@
-var mnemonic = "bright trumpet tape tragic captain rigid raw slam open museum mandate shine";
+var mnemonic = "click such short grunt mass comic lawsuit screen tornado before elder magnet";

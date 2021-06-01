@@ -1,1 +1,1 @@
-var mnemonic = "shallow hat public egg crazy tenant myth egg decorate regular burger umbrella";
+var mnemonic = "bitter toss voyage squirrel affair core pear bus neither cactus lawn quote";

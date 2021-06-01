@@ -1,1 +1,1 @@
-var mnemonic = "intact step repair ring essay weasel destroy figure cool easily double trigger";
+var mnemonic = "easily bar consider double immune siege assume enrich spread ladder immune cost";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive excite next priority hammer tornado faculty uncle matter churn fall clap";
+var mnemonic = "bike chest ginger box large body husband beyond bridge winner tattoo citizen";

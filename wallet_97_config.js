@@ -1,1 +1,1 @@
-var mnemonic = "time almost capital steak still route general carry fun cattle heart brown";
+var mnemonic = "quit curtain gold dragon affair receive decline alpha control lawsuit blast afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "stick sunny regular extra spell dress smile club humble violin segment phone";
+var mnemonic = "prosper oyster calm home bachelor negative prevent penalty click nasty route fatigue";

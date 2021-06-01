@@ -1,1 +1,1 @@
-var mnemonic = "want glove seat leopard receive birth burger again foster chronic novel spin";
+var mnemonic = "able enemy include combine improve novel blast ridge remember robot alcohol spoon";

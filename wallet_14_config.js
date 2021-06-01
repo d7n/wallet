@@ -1,1 +1,1 @@
-var mnemonic = "pull friend vast abuse icon crop review reward december margin uniform hill";
+var mnemonic = "raven legend scorpion pear stay reward casino cancel exit kid tooth chef";

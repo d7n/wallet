@@ -1,1 +1,1 @@
-var mnemonic = "favorite link curtain urge elevator romance stock crane mask happy laugh focus";
+var mnemonic = "soldier parade hybrid orient confirm already cover foot comfort start quit stand";

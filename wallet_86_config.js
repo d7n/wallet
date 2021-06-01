@@ -1,1 +1,1 @@
-var mnemonic = "enemy hungry able manage clip orbit depth join canal kangaroo talent lesson";
+var mnemonic = "pig pear twelve fuel infant tissue source invite over resource sight bird";

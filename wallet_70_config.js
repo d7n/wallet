@@ -1,1 +1,1 @@
-var mnemonic = "best squeeze person actress biology vote digital adult hedgehog recall call north";
+var mnemonic = "during rent behind balance legal execute fade first diagram slam decade finish";

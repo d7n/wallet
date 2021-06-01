@@ -1,1 +1,1 @@
-var mnemonic = "case view drift force gold more arch deal civil disorder define minor";
+var mnemonic = "method scale life nominee inform divert portion throw tribe tiger donor notice";

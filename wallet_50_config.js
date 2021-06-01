@@ -1,1 +1,1 @@
-var mnemonic = "park across coral month sell total armor zoo civil summer shrug blast";
+var mnemonic = "annual worry wise jar plate ankle trial video resemble distance craft valid";

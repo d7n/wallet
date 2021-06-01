@@ -1,1 +1,1 @@
-var mnemonic = "satoshi trim ordinary income board deliver seat ribbon crumble guess caution remove";
+var mnemonic = "camera elephant cool please spray another fall husband identify october cat way";

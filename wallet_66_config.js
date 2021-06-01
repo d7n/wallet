@@ -1,1 +1,1 @@
-var mnemonic = "okay feed green silver flock emotion repeat track monkey false isolate flower";
+var mnemonic = "adjust very either vicious protect whisper beach wrestle army duck fiscal minor";

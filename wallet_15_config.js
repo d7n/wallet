@@ -1,1 +1,1 @@
-var mnemonic = "target expect lobster warrior dwarf peace steak decorate crucial tennis butter brown";
+var mnemonic = "rocket arena fire blood aim diary hello amateur gauge reveal night ring";

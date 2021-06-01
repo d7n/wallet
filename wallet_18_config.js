@@ -1,1 +1,1 @@
-var mnemonic = "bag inch you vehicle crumble light lawn example tone awake reflect portion";
+var mnemonic = "slab rabbit scan original treat crucial wedding calm live carbon awful someone";

@@ -1,1 +1,1 @@
-var mnemonic = "old still tenant lend online primary plate castle cat hunt horror accident";
+var mnemonic = "example rubber divide cloth animal drill lesson session detail drama north traffic";

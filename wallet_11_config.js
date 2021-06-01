@@ -1,1 +1,1 @@
-var mnemonic = "lens jacket young boss cool okay middle panda animal sport suspect arena";
+var mnemonic = "stool grief make crystal cluster brush cabbage radio magic myth fatigue angle";

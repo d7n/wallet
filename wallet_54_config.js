@@ -1,1 +1,1 @@
-var mnemonic = "pull advice swift captain jump run stadium sudden nominee emotion make excite";
+var mnemonic = "cereal magic rate correct circle silver hybrid wait sea sense blur wasp";

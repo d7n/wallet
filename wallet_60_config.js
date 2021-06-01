@@ -1,1 +1,1 @@
-var mnemonic = "borrow balcony genre brass evidence group uphold sun bubble kind shed neither";
+var mnemonic = "author clean flavor divert hurry survey purity share team cause disease since";

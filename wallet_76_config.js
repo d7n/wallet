@@ -1,1 +1,1 @@
-var mnemonic = "noise organ alarm turtle echo enforce divert pet dumb assume clever second";
+var mnemonic = "develop arena beauty tank oak grab feel mirror envelope motor spring tumble";

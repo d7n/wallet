@@ -1,1 +1,1 @@
-var mnemonic = "across give bag below file robot room slice dance lady ribbon expire";
+var mnemonic = "okay emotion acid trade welcome captain almost harvest man sheriff daring glide";

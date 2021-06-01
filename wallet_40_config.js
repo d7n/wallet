@@ -1,1 +1,1 @@
-var mnemonic = "label once enact sock isolate beyond subway advice thrive clock fringe mail";
+var mnemonic = "blanket giant drop worry then zone adjust receive blush size share vendor";

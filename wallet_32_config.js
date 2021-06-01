@@ -1,1 +1,1 @@
-var mnemonic = "shed mean desk call exist youth regular soul cool broccoli radio venture";
+var mnemonic = "exercise kitchen pudding top raccoon hurdle fine spend blush spot replace armor";

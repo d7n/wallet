@@ -1,1 +1,1 @@
-var mnemonic = "month tenant chest boy family harsh dawn brown alien frog atom noble";
+var mnemonic = "program gossip summer mirror close bacon grass truly concert tape remain ring";

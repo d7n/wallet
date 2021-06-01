@@ -1,1 +1,1 @@
-var mnemonic = "course scheme honey bargain wing hobby choose typical road behind evil entry";
+var mnemonic = "asthma ranch isolate neglect donor friend drill guess salad vivid monitor provide";

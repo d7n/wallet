@@ -1,1 +1,1 @@
-var mnemonic = "head wolf side blanket fringe poverty success ancient solid visa recycle agent";
+var mnemonic = "apology swallow van leisure spot turkey ceiling action position inch surround nerve";

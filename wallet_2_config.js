@@ -1,1 +1,1 @@
-var mnemonic = "barely noodle pact vehicle illegal kidney become pink cart escape theme oval";
+var mnemonic = "sphere tumble rural ghost mountain fruit liberty inform desert region account rigid";

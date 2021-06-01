@@ -1,1 +1,1 @@
-var mnemonic = "visual genre define coach rubber live mail eagle jealous mountain angle aim";
+var mnemonic = "supreme grow mechanic wreck little toast artwork soft live powder scale lottery";

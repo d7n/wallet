@@ -1,1 +1,1 @@
-var mnemonic = "bus frame engage try bid regular field lunch rocket fatal sign tube";
+var mnemonic = "split defense renew country twice obscure mixed hobby slow perfect unique public";

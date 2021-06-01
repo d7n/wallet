@@ -1,1 +1,1 @@
-var mnemonic = "change tag risk boil burst model banner chef armor drip tiny core";
+var mnemonic = "inner theme green camp mango surround desert fossil wing rice lounge famous";

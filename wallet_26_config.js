@@ -1,1 +1,1 @@
-var mnemonic = "crystal behind defense invest notice scene barely goat magnet ethics act impose";
+var mnemonic = "nuclear rug above detail panic goddess room element spatial desert gadget cradle";

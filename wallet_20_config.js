@@ -1,1 +1,1 @@
-var mnemonic = "bachelor monkey appear scare rough wealth inhale portion fit primary thing paddle";
+var mnemonic = "slush uniform exhibit below tool shift rug guitar hammer prepare loyal topple";

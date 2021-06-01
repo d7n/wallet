@@ -1,1 +1,1 @@
-var mnemonic = "advice network member deny pulse select below inhale audit vehicle staff chef";
+var mnemonic = "advice thing choose gesture fade velvet list spy paddle brain tray merry";

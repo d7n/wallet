@@ -1,1 +1,1 @@
-var mnemonic = "mule action traffic only series potato act minute result veteran lava stuff";
+var mnemonic = "surge extra pigeon game kick purse tooth canoe minimum immense super oxygen";

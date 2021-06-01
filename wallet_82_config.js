@@ -1,1 +1,1 @@
-var mnemonic = "economy note federal rival hockey bamboo flush again april lens private knock";
+var mnemonic = "garden brand ensure ice trophy vapor rain aware come crystal hurry twist";

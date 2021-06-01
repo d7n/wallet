@@ -1,1 +1,1 @@
-var mnemonic = "faculty option movie fever lava frost chapter love forest alien dinner choice";
+var mnemonic = "hello entire six exercise found spare gadget vital sock typical analyst rich";

@@ -1,1 +1,1 @@
-var mnemonic = "future document admit sleep exercise front pigeon swift weather void mutual version";
+var mnemonic = "health dust inflict leisure image provide more learn science spy when actress";

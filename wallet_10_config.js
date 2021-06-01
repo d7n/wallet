@@ -1,1 +1,1 @@
-var mnemonic = "image travel museum use comfort click wedding shield affair doll clarify arch";
+var mnemonic = "senior tomato phrase lizard erase symptom vault bus canyon orient actress extra";

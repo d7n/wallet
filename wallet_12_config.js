@@ -1,1 +1,1 @@
-var mnemonic = "better defy disagree danger robot second case shrimp economy elephant achieve cable";
+var mnemonic = "choice admit blood arrive expect enemy tail modify renew ramp uphold flavor";

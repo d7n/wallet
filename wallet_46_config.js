@@ -1,1 +1,1 @@
-var mnemonic = "carbon hybrid host thumb style once involve fan choice crouch buddy twelve";
+var mnemonic = "cattle treat album arrest police nice burger happy salt record either anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "vault noble elder slender wing borrow drum success cable useful trust broccoli";
+var mnemonic = "focus bargain leg lamp cost urban mechanic dynamic select wish force victory";

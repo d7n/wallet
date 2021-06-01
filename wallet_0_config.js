@@ -1,1 +1,1 @@
-var mnemonic = "gown gold inner cry inch source horn busy net mother task gather";
+var mnemonic = "spend guess write warm curve dolphin keep diary comic adjust shoot pig";

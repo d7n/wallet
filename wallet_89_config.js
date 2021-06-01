@@ -1,1 +1,1 @@
-var mnemonic = "artist toward open truly ceiling corn idle nephew essence wrestle nose hurt";
+var mnemonic = "truth across legend measure truth awful charge soap giggle tent vast remain";

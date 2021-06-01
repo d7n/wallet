@@ -1,1 +1,1 @@
-var mnemonic = "eye gallery crop virus night detail insect seven answer mystery multiply real";
+var mnemonic = "witness beef hidden mule wash labor tell answer song someone claw goddess";

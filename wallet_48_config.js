@@ -1,1 +1,1 @@
-var mnemonic = "syrup rural pioneer fork rally bundle dwarf field meat normal kidney blame";
+var mnemonic = "knife leaf mobile job era enough train turkey ostrich tongue visa knock";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton earth wall involve organ vital science hospital control outer across firm";
+var mnemonic = "trim leaf disagree mercy fog entry marine negative romance nice oil indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "fold bubble one champion video nose wreck rebel group baby around dish";
+var mnemonic = "hawk broken federal enter exit hawk canoe gallery scan ritual thought aisle";

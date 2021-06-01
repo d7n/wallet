@@ -1,1 +1,1 @@
-var mnemonic = "pledge cart syrup vault kid indoor search olympic jewel card math broom";
+var mnemonic = "stay truly multiply badge hotel surprise defense guard sell chicken ready slight";

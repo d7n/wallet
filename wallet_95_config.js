@@ -1,1 +1,1 @@
-var mnemonic = "kiwi ride abstract dial spell degree original region degree field accident give";
+var mnemonic = "box siren venue enrich such skin arm spike farm arm swarm crucial";

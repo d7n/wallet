@@ -1,1 +1,1 @@
-var mnemonic = "rack lawn history spoon wild learn slush ten believe frost swing check";
+var mnemonic = "cover history grid resource ticket maximum tide donate suggest leopard same vehicle";

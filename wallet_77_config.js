@@ -1,1 +1,1 @@
-var mnemonic = "keep heart inflict slam physical apple abstract ensure famous start type cat";
+var mnemonic = "affair essay object real recall silent atom rich illegal lamp autumn civil";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom rate magnet sister blue share stem gasp century brave size frozen";
+var mnemonic = "bomb leisure garden predict six upset twice genre athlete fragile cake bright";

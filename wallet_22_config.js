@@ -1,1 +1,1 @@
-var mnemonic = "hurdle polar collect enough congress forget apple timber oyster enforce enough rotate";
+var mnemonic = "robust ethics truck skate matter decade phone edit since clock grace agree";

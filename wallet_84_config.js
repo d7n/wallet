@@ -1,1 +1,1 @@
-var mnemonic = "utility love average mad install other abandon rely crucial mushroom that all";
+var mnemonic = "bike satoshi entire gravity clap elephant banner huge stay degree easy thunder";

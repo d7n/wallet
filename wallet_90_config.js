@@ -1,1 +1,1 @@
-var mnemonic = "analyst lucky settle spy mind narrow salad roast fold below relax jungle";
+var mnemonic = "hidden today law scan ridge chicken grid gate cram ocean smart daring";

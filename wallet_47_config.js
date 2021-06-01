@@ -1,1 +1,1 @@
-var mnemonic = "fancy student session creek review lunar glare setup olympic typical code foam";
+var mnemonic = "winner neglect basket upgrade mistake put lunch spot silent illness now odor";

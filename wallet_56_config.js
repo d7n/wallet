@@ -1,1 +1,1 @@
-var mnemonic = "park pilot minor couch debris repair kingdom soft mechanic rebel leaf neck";
+var mnemonic = "lady offer skate second alien vehicle option top connect hello primary salad";

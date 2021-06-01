@@ -1,1 +1,1 @@
-var mnemonic = "ankle logic grow rival leader because hope acquire relax beef table range";
+var mnemonic = "kit usual remain gospel abuse ring anchor garage clown know huge mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal intact metal gesture toss diesel myself sweet faith place pretty cattle";
+var mnemonic = "champion tongue autumn crack cram loud wide rack cliff august attack eight";

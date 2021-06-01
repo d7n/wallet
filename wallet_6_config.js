@@ -1,1 +1,1 @@
-var mnemonic = "trash easy addict quiz enlist author license truly impulse foster alarm must";
+var mnemonic = "child poverty lamp neutral glory blur spell abuse copy bone desert absurd";

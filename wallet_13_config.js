@@ -1,1 +1,1 @@
-var mnemonic = "discover void brief empty chaos loan enroll credit girl surprise prison shift";
+var mnemonic = "rally used birth pumpkin word escape field wet now loud dial wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "victory cricket hill sister license rather property drastic dose little item cancel";
+var mnemonic = "twin try aerobic snake similar gloom journey live depart raw swear elevator";

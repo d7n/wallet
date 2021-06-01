@@ -1,1 +1,1 @@
-var mnemonic = "vault swear eye correct olive bleak minute unhappy trial machine mix quit";
+var mnemonic = "heavy vibrant able spray wild maple ugly coach claw next until sketch";

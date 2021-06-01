@@ -1,1 +1,1 @@
-var mnemonic = "behave mountain off spirit neglect face floor fabric mutual desert ripple cluster";
+var mnemonic = "narrow legend brisk hard pattern fan rookie chair upper gather fruit vault";

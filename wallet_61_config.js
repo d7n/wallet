@@ -1,1 +1,1 @@
-var mnemonic = "wrap season hurdle injury auto pitch yellow grass garment video cake globe";
+var mnemonic = "opera pelican time ritual pioneer auto afraid permit island popular amused attract";

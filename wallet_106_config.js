@@ -1,1 +1,1 @@
-var mnemonic = "cancel sight lazy affair opera virtual minimum game quantum hobby local warrior";
+var mnemonic = "slight business upper mixed kitten finger luxury gold dad verb smart hold";

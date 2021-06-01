@@ -1,1 +1,1 @@
-var mnemonic = "mimic warm hole wrist dress main chimney motor upgrade parade desk bone";
+var mnemonic = "neither gym hockey polar kangaroo frog horn pipe above desk payment true";

@@ -1,1 +1,1 @@
-var mnemonic = "sword mammal obvious home damp raccoon silk sadness auto omit thank feed";
+var mnemonic = "shrug title culture conduct siege master grab coast category differ rifle level";

@@ -1,1 +1,1 @@
-var mnemonic = "payment toward hip ribbon model top wisdom say isolate pair despair pattern";
+var mnemonic = "across glimpse they garlic easy scissors ocean rookie quiz feel gold column";

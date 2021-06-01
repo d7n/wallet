@@ -1,1 +1,1 @@
-var mnemonic = "will include fossil merit define cover wolf parrot north midnight negative idle";
+var mnemonic = "night mammal unit know roast reunion tomato solid deposit ozone music secret";

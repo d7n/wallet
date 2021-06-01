@@ -1,1 +1,1 @@
-var mnemonic = "tongue cattle rack ladder honey pave mimic nuclear banana slab crew stairs";
+var mnemonic = "cover spoil where learn open outside hurt assume type name sugar badge";

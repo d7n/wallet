@@ -1,1 +1,1 @@
-var mnemonic = "judge reform cruise glass base auction drift fluid head poverty shift pencil";
+var mnemonic = "assume grit aware item mouse update destroy trumpet blur hub august term";

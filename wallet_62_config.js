@@ -1,1 +1,1 @@
-var mnemonic = "leisure magnet program mention parent point science stable section shy talent goddess";
+var mnemonic = "skill deal ecology earn disagree rebuild tonight magnet spray chef nose retire";
