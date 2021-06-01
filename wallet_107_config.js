@@ -1,1 +1,1 @@
-var mnemonic = "type inhale region conduct example omit swear flush number legal time clown";
+var mnemonic = "virtual assault nephew boring spend tumble hint bomb minimum pulp lottery pretty";

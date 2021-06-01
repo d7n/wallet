@@ -1,1 +1,1 @@
-var mnemonic = "puzzle spring setup region chase hope master noble misery history flock walk";
+var mnemonic = "february wedding electric black notice abandon scorpion notice pill perfect sleep carry";

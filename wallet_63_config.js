@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur tiny comfort fork later parent click express goddess course speak engage";
+var mnemonic = "robot concert mesh kid business raven attract knee world miracle inform air";

@@ -1,1 +1,1 @@
-var mnemonic = "photo tray case draw puppy inspire puppy coffee recycle often wild flag";
+var mnemonic = "pizza truly long push system lobster pond quiz brisk century prefer example";

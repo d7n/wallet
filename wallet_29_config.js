@@ -1,1 +1,1 @@
-var mnemonic = "flee satisfy bacon mandate summer virus consider teach wrap assume rail plug";
+var mnemonic = "purity bus snap describe access discover green practice stove inform erupt legend";

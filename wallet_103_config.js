@@ -1,1 +1,1 @@
-var mnemonic = "glory fun clip rather oven fatal razor cream wood shuffle area insect";
+var mnemonic = "access chair diet iron couch nature forget crystal found culture famous clip";

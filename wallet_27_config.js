@@ -1,1 +1,1 @@
-var mnemonic = "hungry nation resource artefact drip romance cinnamon century target shiver zero shadow";
+var mnemonic = "original shoulder sniff ice network tired balance turkey private scheme bridge distance";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet across echo path client close monster light fatigue monster riot cost";
+var mnemonic = "girl punch flush pupil brick fork flash stand excite occur torch path";

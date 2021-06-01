@@ -1,1 +1,1 @@
-var mnemonic = "language know neck end horn small decline inch empty gate unlock around";
+var mnemonic = "flip soldier aspect document interest flight jewel attract rug cause bunker coral";

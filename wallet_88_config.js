@@ -1,1 +1,1 @@
-var mnemonic = "machine census calm increase uncle biology zebra filter fitness machine furnace vapor";
+var mnemonic = "zebra issue tower grace token shuffle canvas island balance card want obscure";

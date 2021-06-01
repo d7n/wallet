@@ -1,1 +1,1 @@
-var mnemonic = "assault current frozen creek civil slam sock dance trip bounce solid solar";
+var mnemonic = "only plug used range attitude mango danger abuse feel short vote capable";

@@ -1,1 +1,1 @@
-var mnemonic = "pave round know unusual visa cherry decorate exotic also hawk prefer rotate";
+var mnemonic = "glare arrange payment regular great obvious improve shadow crack scissors heavy inner";

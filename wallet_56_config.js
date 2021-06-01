@@ -1,1 +1,1 @@
-var mnemonic = "item crime tree used uncle decrease audit october second opera all real";
+var mnemonic = "give mobile sausage draft exhaust army more lift globe unfair impact exclude";

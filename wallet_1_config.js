@@ -1,1 +1,1 @@
-var mnemonic = "common pulp egg tired blind supply similar donate beach expose taxi pipe";
+var mnemonic = "foster sweet tongue clarify strategy diet fold course word kit silly power";

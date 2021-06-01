@@ -1,1 +1,1 @@
-var mnemonic = "toward detail century comic shaft often clock wing budget logic pupil sustain";
+var mnemonic = "wear cube vivid neither forward trust grocery father angle cover october off";

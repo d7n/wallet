@@ -1,1 +1,1 @@
-var mnemonic = "adult street few van hockey apology half barely chief sense patrol banner";
+var mnemonic = "dilemma choose mirror west setup drip father crater client isolate armor lawsuit";

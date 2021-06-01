@@ -1,1 +1,1 @@
-var mnemonic = "apple jeans crystal fade brand team laundry lucky junk capital crush train";
+var mnemonic = "enforce remove pet inflict script hedgehog cargo toe lemon mechanic pigeon strike";

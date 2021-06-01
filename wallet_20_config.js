@@ -1,1 +1,1 @@
-var mnemonic = "delay castle nothing six hard ski accuse wreck turkey unveil bike rather";
+var mnemonic = "stable merry gadget attend essay robust ten dumb december south gift merge";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bless panic piece flag solid concert hazard return decorate review street";
+var mnemonic = "ladder hurdle pink repair mask share funny twenty quote turn agree auction";

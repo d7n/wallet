@@ -1,1 +1,1 @@
-var mnemonic = "blossom chronic ceiling impose crane fish much common angle topic quarter wreck";
+var mnemonic = "rookie opinion own height emerge hawk measure creek filter spatial final battle";

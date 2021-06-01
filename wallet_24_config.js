@@ -1,1 +1,1 @@
-var mnemonic = "organ want raven still pair learn million fiscal yard capital float prosper";
+var mnemonic = "hello pioneer only balcony injury mountain squeeze infant vivid imitate baby bachelor";

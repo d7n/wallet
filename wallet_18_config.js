@@ -1,1 +1,1 @@
-var mnemonic = "cigar basket olympic rookie fetch deal use marble toe mandate borrow wood";
+var mnemonic = "wrap success note inform minor drip champion category elephant clock indoor wealth";

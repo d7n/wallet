@@ -1,1 +1,1 @@
-var mnemonic = "state seed accident figure misery bracket treat husband impact assume poem knock";
+var mnemonic = "remind snack receive beef drink abstract melt country digital grant corn century";

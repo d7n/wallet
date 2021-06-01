@@ -1,1 +1,1 @@
-var mnemonic = "cube recipe staff sausage defense myself section shoot soul truck subway rescue";
+var mnemonic = "month talk obey viable pumpkin memory lens blade entire erode evidence stick";

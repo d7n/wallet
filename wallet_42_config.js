@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin search roast salon fortune proof cloth thunder void month camera page";
+var mnemonic = "treat collect slim cave avoid city shoulder gentle luxury eyebrow chair pass";

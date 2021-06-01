@@ -1,1 +1,1 @@
-var mnemonic = "critic rescue castle clip salute move client aware trial decide wool attract";
+var mnemonic = "brush say conduct act kidney right spell random outer input rich cloth";

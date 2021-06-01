@@ -1,1 +1,1 @@
-var mnemonic = "kitchen kick dinner board van glide picture that vast elbow snow give";
+var mnemonic = "dizzy student cool found canyon flag renew pen engage control flee half";

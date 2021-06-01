@@ -1,1 +1,1 @@
-var mnemonic = "charge answer flag mesh athlete test balance purse explain effort reunion today";
+var mnemonic = "pig fan grief husband erosion casual permit box ripple brave fix amazing";

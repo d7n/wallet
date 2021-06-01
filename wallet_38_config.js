@@ -1,1 +1,1 @@
-var mnemonic = "lesson gas rebuild song clog sail bargain pride pelican crew time rose";
+var mnemonic = "nose patrol hungry verify power crisp position giraffe episode donate list final";

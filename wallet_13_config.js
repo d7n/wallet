@@ -1,1 +1,1 @@
-var mnemonic = "found track gather vault begin length own quality banana tired salute useful";
+var mnemonic = "celery guitar light reflect cotton grief hazard snack social gravity modify nerve";

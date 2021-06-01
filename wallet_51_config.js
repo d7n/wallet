@@ -1,1 +1,1 @@
-var mnemonic = "slide cross stamp suit small nice soccer shallow debris notice regret disorder";
+var mnemonic = "rhythm mango announce ticket news tube twice ketchup question job beach hundred";

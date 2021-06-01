@@ -1,1 +1,1 @@
-var mnemonic = "actual spatial mention bitter exact agree diary sibling robust peasant season fox";
+var mnemonic = "secret letter brand damp shoulder inspire alley toward convince solid indicate cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy erode aunt high bamboo shop purpose inch gravity surround cup sugar";
+var mnemonic = "under basket divide daring lounge artefact grab visual inflict divide trial banana";

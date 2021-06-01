@@ -1,1 +1,1 @@
-var mnemonic = "head current enhance table oyster small piece nurse awake warrior february modify";
+var mnemonic = "tobacco material box minimum awesome fiber lottery crowd wonder fantasy figure normal";

@@ -1,1 +1,1 @@
-var mnemonic = "physical help smoke depend height thank swamp record affair fan bubble almost";
+var mnemonic = "coast column where gold snack indoor wink style super behind asthma copper";

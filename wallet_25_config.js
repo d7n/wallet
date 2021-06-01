@@ -1,1 +1,1 @@
-var mnemonic = "ketchup alcohol forum runway before glide until alter shell erosion destroy diet";
+var mnemonic = "video hen million amateur panic token grunt aerobic same lady annual caught";

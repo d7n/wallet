@@ -1,1 +1,1 @@
-var mnemonic = "candy load kingdom seed shallow word require diamond cricket magic excess suit";
+var mnemonic = "tonight horse letter trial spend dirt enough theme shell plastic parade nature";

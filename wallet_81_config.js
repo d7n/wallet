@@ -1,1 +1,1 @@
-var mnemonic = "history limb stand ramp sniff smoke swap amount dynamic face april group";
+var mnemonic = "credit then home before test acid vital plastic add deposit element rely";

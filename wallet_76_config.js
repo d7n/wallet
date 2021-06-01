@@ -1,1 +1,1 @@
-var mnemonic = "meat shed moment profit ocean artefact seek glimpse oppose shop museum motion";
+var mnemonic = "script rookie buyer mass drive story mystery broom oak approve myth version";

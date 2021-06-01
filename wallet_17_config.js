@@ -1,1 +1,1 @@
-var mnemonic = "anxiety jeans frog youth junk width pill brown tissue enroll picture chalk";
+var mnemonic = "useless rent comfort test guilt arm turn motion valid piano retire bulk";

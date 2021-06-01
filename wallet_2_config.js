@@ -1,1 +1,1 @@
-var mnemonic = "lumber predict grow relax trash bid fresh divert rail bacon pigeon cinnamon";
+var mnemonic = "fee mirror pioneer fiber embark scrap goddess siege increase home oppose shuffle";

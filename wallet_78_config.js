@@ -1,1 +1,1 @@
-var mnemonic = "chapter rate rabbit journey escape asthma certain harbor force misery sell decide";
+var mnemonic = "soap sweet like absorb leisure misery page obtain detail sign peace fame";

@@ -1,1 +1,1 @@
-var mnemonic = "control health rate antenna render rebel equip return fashion catalog stock kite";
+var mnemonic = "author remain caught hold heavy member fame advance theory adjust know smile";

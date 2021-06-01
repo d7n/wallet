@@ -1,1 +1,1 @@
-var mnemonic = "symbol year scare toast bench select fall leave jazz spell erupt minor";
+var mnemonic = "food orient grass odor actor sausage argue travel future shrimp spray fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "record often culture canyon autumn credit soda camp sound dawn wire family";
+var mnemonic = "annual pledge brave sort avoid slush stool intact scrub diesel clinic bottom";

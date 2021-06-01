@@ -1,1 +1,1 @@
-var mnemonic = "polar mercy maid legend knock ten hope cannon stadium nurse horn old";
+var mnemonic = "text virus humble silly relief strong embody uniform junk table donor reject";

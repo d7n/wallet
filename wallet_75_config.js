@@ -1,1 +1,1 @@
-var mnemonic = "vehicle moral major pen rocket average leaf sight acquire solution someone theory";
+var mnemonic = "front taxi float illegal slab mandate lazy card honey easily senior lunar";

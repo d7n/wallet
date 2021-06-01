@@ -1,1 +1,1 @@
-var mnemonic = "reflect turn weekend glass latin sudden sweet wheel short rule embrace catch";
+var mnemonic = "trouble fish farm repeat claw state soul involve riot veteran flush keep";

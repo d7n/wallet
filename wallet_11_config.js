@@ -1,1 +1,1 @@
-var mnemonic = "rookie average want eye hedgehog novel gorilla claim goddess assault state priority";
+var mnemonic = "never world best welcome control sunny robust donkey camp cushion pepper slow";

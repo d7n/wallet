@@ -1,1 +1,1 @@
-var mnemonic = "loyal shield pulse viable addict draft response hedgehog assault butter live ozone";
+var mnemonic = "shiver vessel label flat grape margin dance cave version pattern toe plate";

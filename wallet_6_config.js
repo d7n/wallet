@@ -1,1 +1,1 @@
-var mnemonic = "desk bone blast swear alert move picnic tail time silent inherit settle";
+var mnemonic = "gospel valley lucky gossip scatter joy jelly wedding concert canal juice sort";

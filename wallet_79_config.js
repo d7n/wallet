@@ -1,1 +1,1 @@
-var mnemonic = "sausage element involve craft border nurse rotate alien approve wink correct tree";
+var mnemonic = "field exclude pupil unveil basket hamster gossip develop swallow chase salon mixture";

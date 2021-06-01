@@ -1,1 +1,1 @@
-var mnemonic = "derive rent region scrap axis able peace motor ethics eagle brush robot";
+var mnemonic = "head together can increase width attitude tongue person traffic round coil gesture";

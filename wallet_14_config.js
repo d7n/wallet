@@ -1,1 +1,1 @@
-var mnemonic = "utility cheap surprise quit sentence rail such creek blood reform bind leg";
+var mnemonic = "coconut life about audit veteran lounge sunset chicken fault stairs upper black";

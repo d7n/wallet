@@ -1,1 +1,1 @@
-var mnemonic = "sphere please coyote prosper veteran flavor host glare acoustic habit disagree flash";
+var mnemonic = "fever library stand axis dish inside usual ski nose echo rural brass";

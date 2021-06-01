@@ -1,1 +1,1 @@
-var mnemonic = "movie pond salad movie script casual long foot tennis add parrot hundred";
+var mnemonic = "hunt wheel since creek addict horse thing check report various clever help";

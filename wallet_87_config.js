@@ -1,1 +1,1 @@
-var mnemonic = "brick among general athlete debate another trend twice where please ensure auction";
+var mnemonic = "grass awkward cupboard search void way disagree smooth fruit unusual cruel disorder";

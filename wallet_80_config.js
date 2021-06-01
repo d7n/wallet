@@ -1,1 +1,1 @@
-var mnemonic = "dragon coin power attack hello carry earn hungry brisk mixture rural ball";
+var mnemonic = "brief case pull index rival host accuse lucky chair dinosaur shy reflect";

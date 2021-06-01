@@ -1,1 +1,1 @@
-var mnemonic = "state supreme rack easily youth random jeans tray claim elbow tenant core";
+var mnemonic = "program pelican learn license fiction weasel forest walk tackle multiply kite suffer";

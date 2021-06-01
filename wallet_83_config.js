@@ -1,1 +1,1 @@
-var mnemonic = "when rifle another female already plate green hawk gauge april filter tornado";
+var mnemonic = "weapon okay team occur roof stomach riot ritual certain syrup job seven";

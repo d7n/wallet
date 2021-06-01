@@ -1,1 +1,1 @@
-var mnemonic = "correct senior laptop few soup wash school better learn affair vocal nothing";
+var mnemonic = "carpet waste can fruit prize demise album rural plunge trophy resist regular";

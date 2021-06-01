@@ -1,1 +1,1 @@
-var mnemonic = "multiply lemon used arch wrist sword kind diesel slam truth skirt loyal";
+var mnemonic = "reveal expand pattern drift breeze travel cherry find brief couch old leg";

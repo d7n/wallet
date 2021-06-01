@@ -1,1 +1,1 @@
-var mnemonic = "thank tornado luxury history shine coral film buddy wrist fatigue blind master";
+var mnemonic = "age grape supply disagree try idle main unknown infant copy asset fatal";

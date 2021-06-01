@@ -1,1 +1,1 @@
-var mnemonic = "squeeze erode garden juice ensure crisp sign term fish ceiling size outer";
+var mnemonic = "silent insect cart like about cute good repeat swallow column frozen dial";

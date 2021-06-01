@@ -1,1 +1,1 @@
-var mnemonic = "barrel curtain alley cousin rebel want review cross group first around fury";
+var mnemonic = "exchange found park aunt bar foster person save drip join ring olympic";

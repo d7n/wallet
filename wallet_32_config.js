@@ -1,1 +1,1 @@
-var mnemonic = "tool choose cream leg settle bind bounce praise unique donkey catch tourist";
+var mnemonic = "drive plug relief soldier tragic dog case switch casual toilet move assist";

@@ -1,1 +1,1 @@
-var mnemonic = "pear payment tree chest run area glass park angle mutual frog maple";
+var mnemonic = "liberty peasant real forget switch carpet farm illegal friend spoon invest daughter";

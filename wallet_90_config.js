@@ -1,1 +1,1 @@
-var mnemonic = "barely behave window slide reason shoulder post blush put round program shine";
+var mnemonic = "comfort shell sell siege ripple neglect thought jeans sausage illness police general";

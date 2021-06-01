@@ -1,1 +1,1 @@
-var mnemonic = "teach garage glare chaos danger account soul grunt gadget romance bargain science";
+var mnemonic = "piece glass phrase prefer theme bicycle ghost cycle inner drip oblige vehicle";

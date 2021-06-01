@@ -1,1 +1,1 @@
-var mnemonic = "sort muffin design soup surge fossil teach virus velvet vague author potato";
+var mnemonic = "stay fan example civil search country draft topic exchange come ability valley";

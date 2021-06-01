@@ -1,1 +1,1 @@
-var mnemonic = "shuffle move piece drop nice alien brass return moral scrub zero boost";
+var mnemonic = "zone attack vivid nerve business math plug grunt bulk cabin auto soap";

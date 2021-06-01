@@ -1,1 +1,1 @@
-var mnemonic = "lamp sample column pass fork vicious smart scale sheriff violin pizza hotel";
+var mnemonic = "citizen creek direct breeze lunch flash problem sport hidden exhaust develop law";

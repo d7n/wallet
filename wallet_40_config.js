@@ -1,1 +1,1 @@
-var mnemonic = "power frown left apart chef auction solution enroll smooth trend morning sphere";
+var mnemonic = "position weekend crater wave setup soft riot cheese earn valley depth athlete";

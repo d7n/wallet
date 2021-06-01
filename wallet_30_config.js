@@ -1,1 +1,1 @@
-var mnemonic = "kidney choose eternal turn ocean thrive wall empower inform fatal outside during";
+var mnemonic = "begin enjoy already spread collect grow panic tornado echo impose mimic company";

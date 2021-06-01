@@ -1,1 +1,1 @@
-var mnemonic = "fence joy utility test game budget churn clinic arrange kite twist cabbage";
+var mnemonic = "cream mutual divide they alpha police hero journey below curious verb country";

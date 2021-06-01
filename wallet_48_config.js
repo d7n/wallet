@@ -1,1 +1,1 @@
-var mnemonic = "like donor cry such drip use second ten human embrace health physical";
+var mnemonic = "mind coin bag mixed misery decorate noodle remove scout volume mother lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "tower they match tackle grief gravity replace movie blush action better benefit";
+var mnemonic = "accuse birth mule daughter choice alien city virus ritual plastic toast poem";

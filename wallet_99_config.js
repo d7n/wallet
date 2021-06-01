@@ -1,1 +1,1 @@
-var mnemonic = "shadow notable slim candy unusual warfare fade acid hobby wolf grit town";
+var mnemonic = "extra picture always void man mechanic toast ride easily easily warrior exhibit";

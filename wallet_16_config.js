@@ -1,1 +1,1 @@
-var mnemonic = "gun nuclear cattle patient valley erode quarter salad piece battle plunge lab";
+var mnemonic = "raw must december rocket short bean order armed letter elite random tuna";

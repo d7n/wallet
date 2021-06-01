@@ -1,1 +1,1 @@
-var mnemonic = "marriage fold behind ahead taste phrase tuition dizzy shuffle aisle sustain boost";
+var mnemonic = "resource script short fossil choice betray whale fetch dinner junior leader gap";

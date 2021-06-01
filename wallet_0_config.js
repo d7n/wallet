@@ -1,1 +1,1 @@
-var mnemonic = "process betray lucky peasant master save water ketchup slab aware mystery cram";
+var mnemonic = "solid clerk drama cup stone two brick penalty trash athlete offer deliver";

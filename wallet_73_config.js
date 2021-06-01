@@ -1,1 +1,1 @@
-var mnemonic = "circle pluck soup gadget praise cute dream later room creek north vintage";
+var mnemonic = "erase bid modify portion educate together mad empower bunker rug wheel feed";

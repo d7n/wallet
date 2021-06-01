@@ -1,1 +1,1 @@
-var mnemonic = "shuffle number chapter noble they family bless patient inmate long wheel fringe";
+var mnemonic = "sight axis similar wet deer weekend initial submit father inhale bachelor destroy";

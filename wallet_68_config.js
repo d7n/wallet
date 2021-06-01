@@ -1,1 +1,1 @@
-var mnemonic = "hobby book awesome govern lend mountain mix frost ready glory birth gather";
+var mnemonic = "annual brown west expand eager vendor unknown power execute clock eye goose";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse glare release slight hockey divorce cook entire member disease solution decide";
+var mnemonic = "oil achieve curious emerge light orange income develop stomach category cushion two";

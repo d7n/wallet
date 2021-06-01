@@ -1,1 +1,1 @@
-var mnemonic = "excite achieve cigar crash park virus cruel attend panel pave buyer twice";
+var mnemonic = "near arctic scout net cage foot demise female update afraid push purchase";

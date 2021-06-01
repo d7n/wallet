@@ -1,1 +1,1 @@
-var mnemonic = "recipe fit slim also sister coil top chaos thrive glass amateur mystery";
+var mnemonic = "genius two sing able bike pistol trial slim poem hammer airport pony";

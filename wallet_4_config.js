@@ -1,1 +1,1 @@
-var mnemonic = "scrub smoke toss lift avocado emerge fuel rotate bundle garlic hint pole";
+var mnemonic = "monster angry heart peasant blind female hover arena bitter kitchen sea club";

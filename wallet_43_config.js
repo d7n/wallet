@@ -1,1 +1,1 @@
-var mnemonic = "lake electric obvious drink dial guide bronze feed buzz plate thing upset";
+var mnemonic = "seed term diet veteran asthma often remain limb scatter civil vast false";

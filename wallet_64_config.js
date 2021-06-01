@@ -1,1 +1,1 @@
-var mnemonic = "devote region during say weather hen saddle proof upgrade cycle parent century";
+var mnemonic = "warfare such puppy lobster produce cute iron almost come trade someone naive";

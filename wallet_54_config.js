@@ -1,1 +1,1 @@
-var mnemonic = "solid all lonely south charge develop fluid steel angry cost wrist favorite";
+var mnemonic = "apology remain dismiss world fitness song nice muffin maple street organ escape";

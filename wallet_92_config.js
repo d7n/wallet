@@ -1,1 +1,1 @@
-var mnemonic = "merge illegal poem language congress old palace floor pass skill cactus produce";
+var mnemonic = "speed empty away erupt own evolve inform metal void fog amused hospital";

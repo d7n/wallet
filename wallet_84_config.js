@@ -1,1 +1,1 @@
-var mnemonic = "over horse guitar tooth rubber crystal twist peace retreat sister bubble fury";
+var mnemonic = "eagle hollow garden sample resist chimney horror number lemon major inch course";

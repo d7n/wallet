@@ -1,1 +1,1 @@
-var mnemonic = "school minimum expose attack search radar language annual category huge wreck father";
+var mnemonic = "bar desk throw drill axis scrap near start about liquid february perfect";
