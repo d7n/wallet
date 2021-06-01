@@ -1,1 +1,1 @@
-var mnemonic = "fabric mesh alcohol observe mosquito warm oppose rain crawl sweet good dwarf";
+var mnemonic = "anchor gaze alter lamp despair spice wine entry pave kid nominee north";

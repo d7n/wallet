@@ -1,1 +1,1 @@
-var mnemonic = "similar busy enhance quarter siege lend place jaguar category below pistol smile";
+var mnemonic = "crater surprise ensure team general brand strong harvest dwarf nothing rather dose";

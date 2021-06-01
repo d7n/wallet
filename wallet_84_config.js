@@ -1,1 +1,1 @@
-var mnemonic = "heavy tackle shoot labor giggle evil plug blanket page foam goat foil";
+var mnemonic = "inflict offer tackle umbrella pony pig roof knock blossom joke solid kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "chef liberty include sugar globe slam tobacco left shoot wise rack simple";
+var mnemonic = "search heavy table congress warfare quarter tobacco hunt attend food immune bird";

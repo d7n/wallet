@@ -1,1 +1,1 @@
-var mnemonic = "visa similar pitch consider absorb peasant evil strong grain play oppose pear";
+var mnemonic = "measure trouble grunt vocal once soap silk bean drill mushroom impose food";

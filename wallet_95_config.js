@@ -1,1 +1,1 @@
-var mnemonic = "drama input column hair attitude debate process label illegal clap reopen alone";
+var mnemonic = "parrot tissue wrap twin recall vibrant argue card nest despair crew breeze";

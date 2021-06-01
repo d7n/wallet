@@ -1,1 +1,1 @@
-var mnemonic = "account sense usual tomorrow current card south cute pudding food drift prefer";
+var mnemonic = "enemy nest valve vessel jewel whip moon unfold true jewel shuffle shadow";

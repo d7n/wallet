@@ -1,1 +1,1 @@
-var mnemonic = "pull abuse mobile suspect globe attract canvas oil quick correct economy outdoor";
+var mnemonic = "fatigue reveal stadium city vanish another material vehicle veteran flush crumble simple";

@@ -1,1 +1,1 @@
-var mnemonic = "bench envelope circle glue once admit lawn bundle federal follow divorce inject";
+var mnemonic = "maze there stem danger grass uncle october equal leader expect border lumber";

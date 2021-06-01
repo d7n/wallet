@@ -1,1 +1,1 @@
-var mnemonic = "smart business medal hen cook version today syrup ramp wave now arrow";
+var mnemonic = "ahead brief party digital motor want fault humble boost clay shell tree";

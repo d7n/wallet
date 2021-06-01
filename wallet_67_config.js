@@ -1,1 +1,1 @@
-var mnemonic = "worth banner universe hamster movie loop melody govern today hammer pudding comfort";
+var mnemonic = "phrase person grid film list wealth birth rack cheese pottery cool oven";

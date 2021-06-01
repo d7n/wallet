@@ -1,1 +1,1 @@
-var mnemonic = "poet elegant practice icon live rain like unit portion extend change total";
+var mnemonic = "shrimp genuine fuel orbit unique own ecology initial ill jump envelope bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "purity enable donor inch exclude cycle unable tattoo trouble later major way";
+var mnemonic = "debate cake happy decline appear rocket champion gorilla announce custom tribe doctor";

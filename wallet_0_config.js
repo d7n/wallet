@@ -1,1 +1,1 @@
-var mnemonic = "promote obvious donor burger alert dinosaur valley jungle cage group depth artist";
+var mnemonic = "castle west weasel inside adapt vault space artefact hundred electric rude rapid";

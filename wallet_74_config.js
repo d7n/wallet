@@ -1,1 +1,1 @@
-var mnemonic = "banana fence human depth already false scissors toast long exchange sadness slim";
+var mnemonic = "skate whale judge balance tell expire wash conduct brand fall rail decline";

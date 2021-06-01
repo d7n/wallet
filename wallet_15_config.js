@@ -1,1 +1,1 @@
-var mnemonic = "sorry spirit you nest goose aim number pupil echo index shoe security";
+var mnemonic = "half skill egg health easy refuse abstract all copy aware fame lens";

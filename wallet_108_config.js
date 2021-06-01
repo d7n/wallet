@@ -1,1 +1,1 @@
-var mnemonic = "remind leg wash slight force yellow word wash subject fossil blossom expose";
+var mnemonic = "try rose wheat wine room spider shy friend unhappy news outside gentle";

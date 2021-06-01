@@ -1,1 +1,1 @@
-var mnemonic = "banner hockey ill device dice chicken slam wall sponsor force remind improve";
+var mnemonic = "sing dawn settle sure meat finger action pride pretty tag device prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "blade suspect edge winter move cricket monster amateur obscure agent patch float";
+var mnemonic = "odor leaf robot penalty shove south shoe crucial gaze soap put bring";

@@ -1,1 +1,1 @@
-var mnemonic = "hope system oyster expect glad neutral believe void little cause advance large";
+var mnemonic = "key canal sight kick mask always talent absorb orchard cheap ginger finger";

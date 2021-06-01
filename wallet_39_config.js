@@ -1,1 +1,1 @@
-var mnemonic = "soccer arena coast section obtain local sauce tennis bean wealth bag rigid";
+var mnemonic = "whisper box inject prize hat cabin leisure obscure symptom light hospital shift";

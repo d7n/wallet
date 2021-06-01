@@ -1,1 +1,1 @@
-var mnemonic = "festival certain stereo current inside now multiply erode hand weapon lend affair";
+var mnemonic = "fence put scout clever bulk wage quick jewel hole debate retire canvas";

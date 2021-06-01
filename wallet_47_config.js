@@ -1,1 +1,1 @@
-var mnemonic = "away impose accident leader toward tiny agree hunt copy depend pond resist";
+var mnemonic = "genius twenty wine actress live pen tackle job surprise rent system arrive";

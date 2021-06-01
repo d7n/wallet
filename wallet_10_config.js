@@ -1,1 +1,1 @@
-var mnemonic = "dove auction total among final simple maple fold present audit civil unit";
+var mnemonic = "industry autumn grid fossil all comic theme adjust ride venue reward arrange";

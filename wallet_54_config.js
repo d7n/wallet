@@ -1,1 +1,1 @@
-var mnemonic = "home phrase anger caution require resource champion echo job solar deny oak";
+var mnemonic = "year renew summer palm aspect celery network receive enter elevator rural stone";

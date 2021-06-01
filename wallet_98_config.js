@@ -1,1 +1,1 @@
-var mnemonic = "tiger kangaroo canvas table twist amount garment unit jump reject despair author";
+var mnemonic = "amazing sunset flower tornado control sing grape return affair omit cousin weasel";

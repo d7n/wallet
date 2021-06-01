@@ -1,1 +1,1 @@
-var mnemonic = "visa thing super ski wonder genre basic source fox harbor minor auction";
+var mnemonic = "risk veteran side jaguar balcony nice change again cradle marriage behind talent";

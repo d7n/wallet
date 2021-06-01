@@ -1,1 +1,1 @@
-var mnemonic = "fruit grief hero seed build police cinnamon gold soap volcano disorder cliff";
+var mnemonic = "rack gloom rough unusual blossom measure autumn patch drip mesh desert push";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar economy discover chat allow blur sword auto label marble spirit mandate";
+var mnemonic = "guard renew head swing raw educate sea tennis observe auction sand trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "love change idle insect piano length horse during maze prize theme wasp";
+var mnemonic = "cricket observe approve equal stem mixture donate round elevator clap base amazing";

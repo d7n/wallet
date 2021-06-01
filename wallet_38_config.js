@@ -1,1 +1,1 @@
-var mnemonic = "asthma hazard unknown chase vote truly invite pattern rent dolphin wall aisle";
+var mnemonic = "piece creek flock stool slush muffin net ignore expect aerobic roof century";

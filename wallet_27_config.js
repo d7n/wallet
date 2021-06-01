@@ -1,1 +1,1 @@
-var mnemonic = "rack pulse engine vanish lesson noodle fence answer gossip indicate appear chief";
+var mnemonic = "wrestle antenna planet basket drift hover local clinic globe reflect civil shove";

@@ -1,1 +1,1 @@
-var mnemonic = "test plunge bomb cart sight lamp jewel evidence fortune broccoli diary camera";
+var mnemonic = "post hedgehog engage winter toss link connect craft supreme multiply off kitten";

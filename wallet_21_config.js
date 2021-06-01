@@ -1,1 +1,1 @@
-var mnemonic = "pause feature repeat laptop detect accident quit farm bright era inch man";
+var mnemonic = "home glance cabbage riot label visa junior police song split hope coach";

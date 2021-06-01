@@ -1,1 +1,1 @@
-var mnemonic = "engage person entire wonder deer paddle loop leopard baby mean brief furnace";
+var mnemonic = "width crawl narrow effort album erosion domain tank double radio blur chair";

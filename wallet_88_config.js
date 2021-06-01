@@ -1,1 +1,1 @@
-var mnemonic = "disagree submit candy whip weather ritual steel gauge position access obey tornado";
+var mnemonic = "skate squeeze legend kitten clown movie orchard choose survey demise gallery radio";

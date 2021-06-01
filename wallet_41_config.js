@@ -1,1 +1,1 @@
-var mnemonic = "asthma thrive cinnamon replace square spawn toy art destroy render arm effort";
+var mnemonic = "color language gesture merit fringe loan bacon piano trick cancel involve live";

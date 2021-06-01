@@ -1,1 +1,1 @@
-var mnemonic = "gate diagram original pause advance boss sand goat bicycle whale screen hat";
+var mnemonic = "judge opera oyster coconut gain tree fatigue return broom escape demand damage";

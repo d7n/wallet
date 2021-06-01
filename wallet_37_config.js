@@ -1,1 +1,1 @@
-var mnemonic = "must exile mystery bulb purse motor panel ranch cement ugly dignity huge";
+var mnemonic = "ocean keep drift glove gate salad accident harvest long cable script jump";

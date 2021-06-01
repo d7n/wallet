@@ -1,1 +1,1 @@
-var mnemonic = "change cause dirt exclude crew fire remain trick series peanut citizen loan";
+var mnemonic = "buzz nuclear dentist current buffalo patch mountain message twist glass globe physical";

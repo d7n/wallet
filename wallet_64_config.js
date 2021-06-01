@@ -1,1 +1,1 @@
-var mnemonic = "room slide obscure parade flush rescue small vast sort other bulb spring";
+var mnemonic = "embrace close win sign orange enforce safe pave skin deer canyon wool";

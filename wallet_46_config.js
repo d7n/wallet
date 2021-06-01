@@ -1,1 +1,1 @@
-var mnemonic = "owner duck gas glove hint never bleak ill funny chapter dust risk";
+var mnemonic = "pair today patch thing mirror average inquiry head sight cliff industry cancel";

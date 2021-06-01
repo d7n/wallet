@@ -1,1 +1,1 @@
-var mnemonic = "sheriff sense chef stay debate comic wreck pig allow grass fabric pencil";
+var mnemonic = "summer exhibit congress fix history champion twelve trade text crane clump this";

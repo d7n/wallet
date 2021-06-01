@@ -1,1 +1,1 @@
-var mnemonic = "fee stool icon wisdom physical lyrics actual debate learn web trip clinic";
+var mnemonic = "job balance vital mean goose throw envelope mass gym wolf equal ski";

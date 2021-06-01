@@ -1,1 +1,1 @@
-var mnemonic = "feature layer adult expire spring elite tenant timber thought black bundle gloom";
+var mnemonic = "legal arrange bitter cage attack air hurry embrace elephant random sing infant";

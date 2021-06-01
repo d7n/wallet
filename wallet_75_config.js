@@ -1,1 +1,1 @@
-var mnemonic = "couch narrow sunny injury cousin misery error kind code beef victory sail";
+var mnemonic = "crime leisure name busy choice gift piece canal asset twin anchor left";

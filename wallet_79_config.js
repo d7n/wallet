@@ -1,1 +1,1 @@
-var mnemonic = "jaguar sustain ski exhaust inch gun mouse jelly cycle afford donor win";
+var mnemonic = "album nation chapter time drip spirit error attract author ketchup joy truth";

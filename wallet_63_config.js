@@ -1,1 +1,1 @@
-var mnemonic = "drill comfort damp glance twist puzzle few aware camp nurse palace breeze";
+var mnemonic = "stadium vacuum dragon bone disorder toilet bone weird quality call tourist wash";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy note keen select pond patient wrestle enforce garden garbage zero champion";
+var mnemonic = "diamond market lady pottery inform nature net recipe kid cycle toast custom";

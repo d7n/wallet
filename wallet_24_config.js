@@ -1,1 +1,1 @@
-var mnemonic = "bean marriage arm horn elbow soon matrix fall brown unknown resource void";
+var mnemonic = "arrange layer exile safe average model lawsuit rigid category grit apple buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "pen exchange course stairs kangaroo silk oyster glow season welcome surprise hire";
+var mnemonic = "come come search umbrella lava tunnel kite drift insane congress steak wise";

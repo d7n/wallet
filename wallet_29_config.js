@@ -1,1 +1,1 @@
-var mnemonic = "inspire pave awkward tornado faith minute dose plunge dawn disorder predict relief";
+var mnemonic = "suspect decide script leaf endorse chicken alcohol cycle pull army denial rural";

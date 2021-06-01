@@ -1,1 +1,1 @@
-var mnemonic = "hundred black mobile symbol noble sing seven capital venture clean frown absurd";
+var mnemonic = "report decrease okay minor squeeze language robust save process cream sail vault";

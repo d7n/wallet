@@ -1,1 +1,1 @@
-var mnemonic = "urban scale zoo unfair memory fault achieve maze suit chunk pulp usual";
+var mnemonic = "ocean busy ribbon burst industry census bulb output spatial early make allow";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt crop orient asthma salmon trap guilt track unaware gold used have";
+var mnemonic = "used vehicle tool meadow slow day sense blind machine stool sudden right";

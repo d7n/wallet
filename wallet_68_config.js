@@ -1,1 +1,1 @@
-var mnemonic = "image system degree december uncle favorite dizzy behave connect urge easily hello";
+var mnemonic = "party door possible state citizen dice mean exercise waste sad crash asthma";

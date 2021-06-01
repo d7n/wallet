@@ -1,1 +1,1 @@
-var mnemonic = "sadness mind diamond private buzz raven disorder neglect manual nut situate name";
+var mnemonic = "alpha feed connect machine stock picture diet property vacuum salute order matrix";

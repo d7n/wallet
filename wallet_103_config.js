@@ -1,1 +1,1 @@
-var mnemonic = "infant episode above narrow absorb mail cruel tower loud topple other index";
+var mnemonic = "pen castle transfer bag boring toilet shell blossom fence color render turn";

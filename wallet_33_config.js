@@ -1,1 +1,1 @@
-var mnemonic = "coil truck breeze goat elbow crawl talent often foam cousin manual ready";
+var mnemonic = "defense luxury music vicious ability fossil chef mixed wife prize brush embark";

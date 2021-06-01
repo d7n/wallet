@@ -1,1 +1,1 @@
-var mnemonic = "media push guard depend liberty matter pear snow oven pet toe maze";
+var mnemonic = "indoor ski sad issue recycle message diagram pave return spell sound inform";

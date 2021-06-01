@@ -1,1 +1,1 @@
-var mnemonic = "sign casual size strike awful dress meadow concert recall install pulp trust";
+var mnemonic = "increase space march thought steel example trust drop crater harsh valid answer";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty section afford shift mask admit eye web novel bless final spider";
+var mnemonic = "seminar vague remind earth concert unlock lava gospel town scout mom stand";

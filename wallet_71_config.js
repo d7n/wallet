@@ -1,1 +1,1 @@
-var mnemonic = "ball initial tray ordinary orphan proud siege snake struggle trend mixture push";
+var mnemonic = "field behave elite arrive velvet arch inmate stairs ramp morning hurdle mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "metal frequent please scatter toddler toilet naive rhythm monitor shrug enforce nothing";
+var mnemonic = "zone million loan cheese kit empty angry enter climb pony image cactus";

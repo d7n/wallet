@@ -1,1 +1,1 @@
-var mnemonic = "way pizza animal find uniform accident hotel deny discover course actor one";
+var mnemonic = "inject oil man bus olympic wagon erosion live text captain setup modify";

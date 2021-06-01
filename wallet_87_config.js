@@ -1,1 +1,1 @@
-var mnemonic = "critic boat denial scissors need dream strike train enact phone mandate expire";
+var mnemonic = "diet demand race throw modify envelope prosper gap pill acquire enforce mom";

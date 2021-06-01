@@ -1,1 +1,1 @@
-var mnemonic = "jealous excuse second gravity orphan solid ten disagree announce concert connect nasty";
+var mnemonic = "beyond bundle divide area collect ribbon aware decorate scale clutch trophy shock";

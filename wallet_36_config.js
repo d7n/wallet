@@ -1,1 +1,1 @@
-var mnemonic = "auto morning tongue benefit glare decade notice brother update lizard true pitch";
+var mnemonic = "basic bridge usual disease enable asset merit resist screen okay about oval";

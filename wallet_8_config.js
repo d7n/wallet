@@ -1,1 +1,1 @@
-var mnemonic = "stone naive defense guess hair bulk tiger search cluster pair design topic";
+var mnemonic = "walk demise enough ticket pet present lemon puppy solar onion library slim";

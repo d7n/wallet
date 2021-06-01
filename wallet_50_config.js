@@ -1,1 +1,1 @@
-var mnemonic = "trigger zebra flat lawsuit panel turkey tumble inside sphere uniform supply left";
+var mnemonic = "inhale urban robust mask eager dawn west mystery toddler post reopen will";

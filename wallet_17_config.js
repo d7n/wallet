@@ -1,1 +1,1 @@
-var mnemonic = "lumber tower toast oven still grid menu lounge arch solution nerve include";
+var mnemonic = "toward phone person wealth turkey trap laugh horn friend edit chimney suspect";

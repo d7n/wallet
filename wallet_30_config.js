@@ -1,1 +1,1 @@
-var mnemonic = "harsh stairs sweet uphold quality erode possible jealous panda glad bread hurry";
+var mnemonic = "manual clump rescue panther merge client dash ill wild split boring web";

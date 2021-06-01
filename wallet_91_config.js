@@ -1,1 +1,1 @@
-var mnemonic = "fun noble fox ride system fat brief school volume lab extra margin";
+var mnemonic = "science gown tornado advance valve buddy degree file near ghost awkward crowd";

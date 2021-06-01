@@ -1,1 +1,1 @@
-var mnemonic = "agree already nominee call more alone time urge oblige dash unaware ancient";
+var mnemonic = "glory second occur soccer chaos curious viable vessel vocal oval eager pottery";

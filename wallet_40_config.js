@@ -1,1 +1,1 @@
-var mnemonic = "general bargain veteran rifle coconut collect example over wink fatal distance drill";
+var mnemonic = "muffin old length between exhaust ghost guard aim skull exchange virus hockey";

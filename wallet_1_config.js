@@ -1,1 +1,1 @@
-var mnemonic = "stamp clog protect ready maple say disorder plug garbage ginger heavy student";
+var mnemonic = "legend holiday waste edge include avocado program mind nature project debris tribe";

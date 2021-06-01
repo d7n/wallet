@@ -1,1 +1,1 @@
-var mnemonic = "world color problem skate already already burden denial slow uphold fossil report";
+var mnemonic = "client record erosion gown business drop dentist frog job tell obey negative";

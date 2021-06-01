@@ -1,1 +1,1 @@
-var mnemonic = "tip gadget hundred lonely roast project model what maid senior beyond opera";
+var mnemonic = "slim neutral hold deal topple used chef police whale motion clap plastic";

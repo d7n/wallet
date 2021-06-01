@@ -1,1 +1,1 @@
-var mnemonic = "badge gas section response title naive monster spread hobby junior over favorite";
+var mnemonic = "frog nature trial satisfy soccer doll ocean velvet reflect blind traffic method";

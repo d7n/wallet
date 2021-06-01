@@ -1,1 +1,1 @@
-var mnemonic = "erase bulb surface punch carpet clump lottery remove main lock gap luxury";
+var mnemonic = "collect between insect three vast narrow family sauce crash host naive sample";

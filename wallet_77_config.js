@@ -1,1 +1,1 @@
-var mnemonic = "fruit best excess truly avoid impact jewel protect payment kidney eye sheriff";
+var mnemonic = "gather forest detail wreck embark hamster arrow document grid capital settle afford";

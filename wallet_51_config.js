@@ -1,1 +1,1 @@
-var mnemonic = "cattle swarm bracket buffalo ritual wealth juice exist chuckle shine buzz victory";
+var mnemonic = "front upset topple cliff taxi holiday coil anger rate spawn amazing lend";

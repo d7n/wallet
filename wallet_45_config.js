@@ -1,1 +1,1 @@
-var mnemonic = "goat festival slogan tail swear truth lobster planet burger any shoot soul";
+var mnemonic = "drum essay frown biology noble delay weird warfare entire horn sphere hundred";

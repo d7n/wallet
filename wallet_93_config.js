@@ -1,1 +1,1 @@
-var mnemonic = "cycle sniff vacuum jelly air about business insane goat fame pond scale";
+var mnemonic = "garlic company patrol neither rebel acid history fine mechanic betray enact royal";

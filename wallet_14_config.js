@@ -1,1 +1,1 @@
-var mnemonic = "sand symbol crime fox measure liquid heart junior festival cute liberty cable";
+var mnemonic = "conduct glare couple rapid era cement fatigue oblige neutral upset asset under";

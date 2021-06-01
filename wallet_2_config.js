@@ -1,1 +1,1 @@
-var mnemonic = "spike sign make bone share way tonight exhibit senior hedgehog neglect abstract";
+var mnemonic = "slender vital coin three fall evoke budget magnet movie double insect strike";

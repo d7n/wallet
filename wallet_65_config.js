@@ -1,1 +1,1 @@
-var mnemonic = "reason pledge asthma network hollow oven remove boss figure annual trim volume";
+var mnemonic = "attend dress alone pill account scare fox weird rural snow column zone";

@@ -1,1 +1,1 @@
-var mnemonic = "sport nice budget clean initial liquid execute reveal until mom pause pattern";
+var mnemonic = "tape portion someone slogan eight iron hurt naive ceiling remain pony pattern";

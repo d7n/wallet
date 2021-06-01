@@ -1,1 +1,1 @@
-var mnemonic = "illegal property usual spoil disorder marble salad elder ancient truly crash dream";
+var mnemonic = "caught twin unaware mask nominee demise whisper tail clinic few genius fiscal";

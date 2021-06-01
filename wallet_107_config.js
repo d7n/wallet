@@ -1,1 +1,1 @@
-var mnemonic = "tribe dawn erupt force orbit forget moment image involve clip beauty cattle";
+var mnemonic = "robot nice scorpion short critic donkey top bind layer window derive dawn";

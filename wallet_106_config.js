@@ -1,1 +1,1 @@
-var mnemonic = "whale junk boil pipe charge resource end side oblige math field sure";
+var mnemonic = "attack bird loud kingdom board market peace future place floor across carpet";
