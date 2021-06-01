@@ -1,1 +1,1 @@
-var mnemonic = "ocean busy ribbon burst industry census bulb output spatial early make allow";
+var mnemonic = "entire bench sell bitter turn course knife hip rescue slim struggle holiday";

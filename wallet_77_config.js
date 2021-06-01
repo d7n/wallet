@@ -1,1 +1,1 @@
-var mnemonic = "gather forest detail wreck embark hamster arrow document grid capital settle afford";
+var mnemonic = "field decrease vicious copy balance sense member dignity journey abstract scrub tobacco";

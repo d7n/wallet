@@ -1,1 +1,1 @@
-var mnemonic = "defense luxury music vicious ability fossil chef mixed wife prize brush embark";
+var mnemonic = "edge absorb enhance ecology lion body eagle twist patrol dawn hospital special";

@@ -1,1 +1,1 @@
-var mnemonic = "science gown tornado advance valve buddy degree file near ghost awkward crowd";
+var mnemonic = "lawsuit nature obtain rabbit marine display ramp stand energy fruit vacuum coast";

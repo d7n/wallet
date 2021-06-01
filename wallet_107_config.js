@@ -1,1 +1,1 @@
-var mnemonic = "robot nice scorpion short critic donkey top bind layer window derive dawn";
+var mnemonic = "cheese afraid brief drip vehicle quit vital post civil tuna loan render";

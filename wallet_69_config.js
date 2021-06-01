@@ -1,1 +1,1 @@
-var mnemonic = "increase space march thought steel example trust drop crater harsh valid answer";
+var mnemonic = "high feed wet tag mountain damp dove inner ahead dune basket cross";

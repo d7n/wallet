@@ -1,1 +1,1 @@
-var mnemonic = "glory second occur soccer chaos curious viable vessel vocal oval eager pottery";
+var mnemonic = "demise practice brush effort defense mobile service cram gasp wing sure okay";

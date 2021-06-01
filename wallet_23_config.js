@@ -1,1 +1,1 @@
-var mnemonic = "measure trouble grunt vocal once soap silk bean drill mushroom impose food";
+var mnemonic = "sail crazy custom spice universe armed truck cereal rug theory include caution";

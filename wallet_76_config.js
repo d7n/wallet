@@ -1,1 +1,1 @@
-var mnemonic = "debate cake happy decline appear rocket champion gorilla announce custom tribe doctor";
+var mnemonic = "trade scissors hidden live amazing width crumble tuition twist below awful panther";

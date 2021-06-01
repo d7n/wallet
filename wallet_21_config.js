@@ -1,1 +1,1 @@
-var mnemonic = "home glance cabbage riot label visa junior police song split hope coach";
+var mnemonic = "detect tackle sausage material fashion leader drop tomorrow pink chalk chapter enable";

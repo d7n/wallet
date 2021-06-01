@@ -1,1 +1,1 @@
-var mnemonic = "genius twenty wine actress live pen tackle job surprise rent system arrive";
+var mnemonic = "disease siren session ball lift use door silly quit drastic voyage unique";

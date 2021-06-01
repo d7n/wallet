@@ -1,1 +1,1 @@
-var mnemonic = "diamond market lady pottery inform nature net recipe kid cycle toast custom";
+var mnemonic = "legal cover destroy wine strong turtle carbon innocent spin fold only guitar";

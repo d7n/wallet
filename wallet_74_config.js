@@ -1,1 +1,1 @@
-var mnemonic = "skate whale judge balance tell expire wash conduct brand fall rail decline";
+var mnemonic = "cruise walnut mean knee need patch there jaguar leaf cluster island cabin";

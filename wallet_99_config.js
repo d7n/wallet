@@ -1,1 +1,1 @@
-var mnemonic = "sing dawn settle sure meat finger action pride pretty tag device prevent";
+var mnemonic = "desert exile ring aisle talent race dress glad anger quarter ill lab";

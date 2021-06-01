@@ -1,1 +1,1 @@
-var mnemonic = "zone million loan cheese kit empty angry enter climb pony image cactus";
+var mnemonic = "friend tooth dizzy world system safe route despair agree company position sea";

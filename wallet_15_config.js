@@ -1,1 +1,1 @@
-var mnemonic = "half skill egg health easy refuse abstract all copy aware fame lens";
+var mnemonic = "piano lion matrix record resource erosion inner audit hen animal region girl";

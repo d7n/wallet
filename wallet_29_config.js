@@ -1,1 +1,1 @@
-var mnemonic = "suspect decide script leaf endorse chicken alcohol cycle pull army denial rural";
+var mnemonic = "expire pupil silly rescue stuff add shoe kind brisk argue science noble";

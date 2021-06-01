@@ -1,1 +1,1 @@
-var mnemonic = "fence put scout clever bulk wage quick jewel hole debate retire canvas";
+var mnemonic = "pigeon analyst mention day pair category tonight enjoy world industry milk club";

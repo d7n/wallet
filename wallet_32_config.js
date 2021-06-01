@@ -1,1 +1,1 @@
-var mnemonic = "blood pencil argue member resource eight blue dutch legal crack manual cake";
+var mnemonic = "smooth oval resist hard material noodle primary young bitter erode useless faculty";

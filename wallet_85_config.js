@@ -1,1 +1,1 @@
-var mnemonic = "truck vintage tired any drink lion useless bring napkin romance banner curve";
+var mnemonic = "fury excuse bus truly century aware tumble govern hurdle park prevent put";

@@ -1,1 +1,1 @@
-var mnemonic = "odor leaf robot penalty shove south shoe crucial gaze soap put bring";
+var mnemonic = "then brief wash safe taxi ensure salad gold grit jeans slab supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "skate squeeze legend kitten clown movie orchard choose survey demise gallery radio";
+var mnemonic = "relax narrow crater bachelor cat nasty scissors employ elite urge someone soup";

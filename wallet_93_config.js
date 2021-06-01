@@ -1,1 +1,1 @@
-var mnemonic = "garlic company patrol neither rebel acid history fine mechanic betray enact royal";
+var mnemonic = "fine subway bicycle sort raven cluster seminar little clog dust concert column";

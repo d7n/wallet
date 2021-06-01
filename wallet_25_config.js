@@ -1,1 +1,1 @@
-var mnemonic = "enemy nest valve vessel jewel whip moon unfold true jewel shuffle shadow";
+var mnemonic = "episode hockey consider jaguar cage scorpion toy hollow cricket debate rate argue";

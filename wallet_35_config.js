@@ -1,1 +1,1 @@
-var mnemonic = "field divert portion stable random crunch glad tool cage point magic monitor";
+var mnemonic = "danger trash what awesome repair twist display middle pistol easy member rare";

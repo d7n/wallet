@@ -1,1 +1,1 @@
-var mnemonic = "organ treat loop wonder income veteran brave mom wrong mandate bacon idle";
+var mnemonic = "entry mango liquid basic wine mixture fine useful human chicken clog box";

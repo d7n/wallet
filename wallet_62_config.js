@@ -1,1 +1,1 @@
-var mnemonic = "oxygen chase current escape bullet pool circle later night song ramp pair";
+var mnemonic = "crane order cram pyramid wrist submit royal denial case beef capital level";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot tissue wrap twin recall vibrant argue card nest despair crew breeze";
+var mnemonic = "pony peanut pencil neglect speak tired clay rebel theme polar buddy health";

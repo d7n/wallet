@@ -1,1 +1,1 @@
-var mnemonic = "diet demand race throw modify envelope prosper gap pill acquire enforce mom";
+var mnemonic = "fossil size hover buzz shoe top analyst offer invest bitter profit perfect";

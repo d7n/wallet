@@ -1,1 +1,1 @@
-var mnemonic = "muffin old length between exhaust ghost guard aim skull exchange virus hockey";
+var mnemonic = "penalty kite gain squirrel popular jealous spider jump foster dumb lend all";

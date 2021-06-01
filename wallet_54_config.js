@@ -1,1 +1,1 @@
-var mnemonic = "year renew summer palm aspect celery network receive enter elevator rural stone";
+var mnemonic = "want describe vicious session delay depend language you uniform lemon rain butter";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor ski sad issue recycle message diagram pave return spell sound inform";
+var mnemonic = "chronic letter output path believe exotic west gown wink tenant like almost";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket observe approve equal stem mixture donate round elevator clap base amazing";
+var mnemonic = "poet merry grit nurse try save occur base dice pluck woman body";

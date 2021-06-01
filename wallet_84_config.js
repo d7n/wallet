@@ -1,1 +1,1 @@
-var mnemonic = "inflict offer tackle umbrella pony pig roof knock blossom joke solid kingdom";
+var mnemonic = "slight sentence they intact crop morning screen remain state twist calm beauty";

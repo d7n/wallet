@@ -1,1 +1,1 @@
-var mnemonic = "castle west weasel inside adapt vault space artefact hundred electric rude rapid";
+var mnemonic = "put season feature stuff anger lounge turn sunny mixed vanish opinion reject";

@@ -1,1 +1,1 @@
-var mnemonic = "project round swear man topple grocery velvet athlete buyer clean canoe keen";
+var mnemonic = "negative either black indoor oxygen glory habit lamp glue guard helmet annual";

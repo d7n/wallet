@@ -1,1 +1,1 @@
-var mnemonic = "wrestle antenna planet basket drift hover local clinic globe reflect civil shove";
+var mnemonic = "stove razor carpet vast host draft duty cross symbol deliver board rent";

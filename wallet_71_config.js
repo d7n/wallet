@@ -1,1 +1,1 @@
-var mnemonic = "field behave elite arrive velvet arch inmate stairs ramp morning hurdle mercy";
+var mnemonic = "oven bunker famous deal stool imitate call reunion need emotion much brain";

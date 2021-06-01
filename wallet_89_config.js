@@ -1,1 +1,1 @@
-var mnemonic = "legal arrange bitter cage attack air hurry embrace elephant random sing infant";
+var mnemonic = "ketchup issue sure pretty absent neutral gold blanket program lens toy fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel swap hollow abstract pull life luggage lawsuit wall squirrel surround absurd";
+var mnemonic = "cousin foot embrace act foil diamond foam fun multiply render scan duty";

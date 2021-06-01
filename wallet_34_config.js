@@ -1,1 +1,1 @@
-var mnemonic = "mushroom federal that swear million sponsor leisure monkey dynamic all romance neck";
+var mnemonic = "situate escape myself pride radio cricket program offer two tell priority audit";

@@ -1,1 +1,1 @@
-var mnemonic = "key canal sight kick mask always talent absorb orchard cheap ginger finger";
+var mnemonic = "dog swap invest symptom victory muffin lonely dose property tool plastic slender";

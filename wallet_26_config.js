@@ -1,1 +1,1 @@
-var mnemonic = "come come search umbrella lava tunnel kite drift insane congress steak wise";
+var mnemonic = "bonus sunset jeans insane task already swallow omit depart dance patrol mountain";

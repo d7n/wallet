@@ -1,1 +1,1 @@
-var mnemonic = "crater surprise ensure team general brand strong harvest dwarf nothing rather dose";
+var mnemonic = "spoil engage minimum zone zone vacuum idea erupt apple raccoon equip apology";

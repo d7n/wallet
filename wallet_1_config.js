@@ -1,1 +1,1 @@
-var mnemonic = "legend holiday waste edge include avocado program mind nature project debris tribe";
+var mnemonic = "enable spirit chicken siege raw river myth virtual casual huge paper moral";

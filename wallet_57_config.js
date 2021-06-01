@@ -1,1 +1,1 @@
-var mnemonic = "enable jealous mercy sport circle drive bulk planet cattle empower hen cube";
+var mnemonic = "slight child expect crop zero impulse jacket art economy airport skate excuse";

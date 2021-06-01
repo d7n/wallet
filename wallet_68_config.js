@@ -1,1 +1,1 @@
-var mnemonic = "party door possible state citizen dice mean exercise waste sad crash asthma";
+var mnemonic = "toe embody rabbit impulse pair junk stuff burden stick follow symptom ocean";

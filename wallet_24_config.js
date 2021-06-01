@@ -1,1 +1,1 @@
-var mnemonic = "arrange layer exile safe average model lawsuit rigid category grit apple buzz";
+var mnemonic = "giggle brother february orbit wisdom wing intact alley cluster grain citizen garlic";

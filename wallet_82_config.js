@@ -1,1 +1,1 @@
-var mnemonic = "risk veteran side jaguar balcony nice change again cradle marriage behind talent";
+var mnemonic = "erode regret eagle buffalo cute bargain fit busy almost flight pyramid visual";

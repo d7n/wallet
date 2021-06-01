@@ -1,1 +1,1 @@
-var mnemonic = "slim neutral hold deal topple used chef police whale motion clap plastic";
+var mnemonic = "layer bus student picture galaxy project glance junior master diamond kick safe";

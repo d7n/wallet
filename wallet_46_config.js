@@ -1,1 +1,1 @@
-var mnemonic = "pair today patch thing mirror average inquiry head sight cliff industry cancel";
+var mnemonic = "uncover brief sauce camp system execute gloom whale ten hour skin media";

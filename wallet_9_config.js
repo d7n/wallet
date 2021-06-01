@@ -1,1 +1,1 @@
-var mnemonic = "razor change tomorrow sure stay benefit slam pass era burger entire loop";
+var mnemonic = "grass genre emotion old fine smooth liquid faculty oil bullet day raise";

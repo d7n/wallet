@@ -1,1 +1,1 @@
-var mnemonic = "attend dress alone pill account scare fox weird rural snow column zone";
+var mnemonic = "lawsuit fee mirror author country inside comic awesome swarm mosquito way across";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper box inject prize hat cabin leisure obscure symptom light hospital shift";
+var mnemonic = "blossom sudden indicate runway hill later column defy online charge risk sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "caught twin unaware mask nominee demise whisper tail clinic few genius fiscal";
+var mnemonic = "mountain frost tribe again dash betray child capital shallow ready volcano mirror";

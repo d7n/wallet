@@ -1,1 +1,1 @@
-var mnemonic = "post hedgehog engage winter toss link connect craft supreme multiply off kitten";
+var mnemonic = "rug twin shy duty brown pull engage raw slogan allow tourist loan";

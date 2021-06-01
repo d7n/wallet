@@ -1,1 +1,1 @@
-var mnemonic = "toward phone person wealth turkey trap laugh horn friend edit chimney suspect";
+var mnemonic = "achieve issue keep excess immense carbon year obey enjoy erupt nerve off";

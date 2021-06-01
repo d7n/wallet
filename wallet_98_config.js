@@ -1,1 +1,1 @@
-var mnemonic = "amazing sunset flower tornado control sing grape return affair omit cousin weasel";
+var mnemonic = "lumber east guess squeeze depart gate useful chest rigid live share dragon";

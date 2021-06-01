@@ -1,1 +1,1 @@
-var mnemonic = "anchor gaze alter lamp despair spice wine entry pave kid nominee north";
+var mnemonic = "wide raccoon winter pioneer reform sustain indicate flock symptom bus hip urge";

@@ -1,1 +1,1 @@
-var mnemonic = "piece creek flock stool slush muffin net ignore expect aerobic roof century";
+var mnemonic = "thing forward october left spell roast rice act chest machine rigid speak";

@@ -1,1 +1,1 @@
-var mnemonic = "slender vital coin three fall evoke budget magnet movie double insect strike";
+var mnemonic = "head define side man pottery huge noodle episode elder metal grit combine";

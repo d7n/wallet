@@ -1,1 +1,1 @@
-var mnemonic = "industry autumn grid fossil all comic theme adjust ride venue reward arrange";
+var mnemonic = "fish slot mistake copper section caution bid picture result stool desert curious";

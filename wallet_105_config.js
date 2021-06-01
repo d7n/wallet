@@ -1,1 +1,1 @@
-var mnemonic = "alpha feed connect machine stock picture diet property vacuum salute order matrix";
+var mnemonic = "debris humble effort patch hurry august truly where wave slush floor only";

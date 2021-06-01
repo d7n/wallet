@@ -1,1 +1,1 @@
-var mnemonic = "report decrease okay minor squeeze language robust save process cream sail vault";
+var mnemonic = "slam cart mouse measure trust local immune blue exhibit bar hour elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "manual clump rescue panther merge client dash ill wild split boring web";
+var mnemonic = "color wood woman depth magnet coyote jelly fall dial bring glide mango";

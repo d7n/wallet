@@ -1,1 +1,1 @@
-var mnemonic = "walk demise enough ticket pet present lemon puppy solar onion library slim";
+var mnemonic = "water under valley accuse client fragile crowd prepare claw tunnel extra isolate";

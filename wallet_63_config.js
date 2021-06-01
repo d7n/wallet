@@ -1,1 +1,1 @@
-var mnemonic = "stadium vacuum dragon bone disorder toilet bone weird quality call tourist wash";
+var mnemonic = "vendor differ innocent empty arrange intact twist hamster there toss horn entire";

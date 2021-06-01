@@ -1,1 +1,1 @@
-var mnemonic = "alarm sight attract repair liquid witness ski monkey labor stadium medal energy";
+var mnemonic = "whip stay slot company idle inherit veteran sentence switch achieve scorpion fragile";

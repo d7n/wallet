@@ -1,1 +1,1 @@
-var mnemonic = "attack bird loud kingdom board market peace future place floor across carpet";
+var mnemonic = "trick rabbit arctic film dose ketchup among uncover east purchase frown relax";

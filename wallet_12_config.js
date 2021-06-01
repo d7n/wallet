@@ -1,1 +1,1 @@
-var mnemonic = "seminar vague remind earth concert unlock lava gospel town scout mom stand";
+var mnemonic = "dove marble suggest entire arrive injury buffalo solid obvious inspire vacuum ramp";

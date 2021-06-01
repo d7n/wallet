@@ -1,1 +1,1 @@
-var mnemonic = "drum essay frown biology noble delay weird warfare entire horn sphere hundred";
+var mnemonic = "crumble bleak patient elder visual uniform beyond spice rose damp cycle milk";

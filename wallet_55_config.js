@@ -1,1 +1,1 @@
-var mnemonic = "judge opera oyster coconut gain tree fatigue return broom escape demand damage";
+var mnemonic = "bag name current man sad excuse tomato language bachelor window calm whisper";

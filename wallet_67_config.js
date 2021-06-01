@@ -1,1 +1,1 @@
-var mnemonic = "phrase person grid film list wealth birth rack cheese pottery cool oven";
+var mnemonic = "banana theme wish pole sad abuse prison buddy crystal total cost escape";

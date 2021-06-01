@@ -1,1 +1,1 @@
-var mnemonic = "embrace close win sign orange enforce safe pave skin deer canyon wool";
+var mnemonic = "system crisp artwork great run agree jealous gym steak number sign place";

@@ -1,1 +1,1 @@
-var mnemonic = "crime leisure name busy choice gift piece canal asset twin anchor left";
+var mnemonic = "crumble analyst orchard topic script minor cricket pipe slogan cable safe describe";

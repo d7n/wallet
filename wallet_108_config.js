@@ -1,1 +1,1 @@
-var mnemonic = "try rose wheat wine room spider shy friend unhappy news outside gentle";
+var mnemonic = "office mimic crowd balance weekend bachelor box warrior amused jealous wire aim";

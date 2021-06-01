@@ -1,1 +1,1 @@
-var mnemonic = "job balance vital mean goose throw envelope mass gym wolf equal ski";
+var mnemonic = "solar turn laugh tragic clump february uncle inherit excess funny drop rigid";

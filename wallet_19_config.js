@@ -1,1 +1,1 @@
-var mnemonic = "inject oil man bus olympic wagon erosion live text captain setup modify";
+var mnemonic = "onion more enrich width scrap cable build define brain narrow region police";

@@ -1,1 +1,1 @@
-var mnemonic = "guard renew head swing raw educate sea tennis observe auction sand trigger";
+var mnemonic = "chalk pair polar foil hip begin fuel inhale capital pet gadget talent";

@@ -1,1 +1,1 @@
-var mnemonic = "basic bridge usual disease enable asset merit resist screen okay about oval";
+var mnemonic = "almost they pet turn police engage judge mango profit inside wonder wrap";

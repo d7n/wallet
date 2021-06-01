@@ -1,1 +1,1 @@
-var mnemonic = "beyond bundle divide area collect ribbon aware decorate scale clutch trophy shock";
+var mnemonic = "hospital shadow pulp supply food left work brother drum basket thrive hurry";

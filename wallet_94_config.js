@@ -1,1 +1,1 @@
-var mnemonic = "fatigue reveal stadium city vanish another material vehicle veteran flush crumble simple";
+var mnemonic = "display include dose stick alien analyst opera lesson credit pond almost color";

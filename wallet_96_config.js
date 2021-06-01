@@ -1,1 +1,1 @@
-var mnemonic = "maze there stem danger grass uncle october equal leader expect border lumber";
+var mnemonic = "clay power quality corn tobacco spice come language captain clown west exercise";

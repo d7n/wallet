@@ -1,1 +1,1 @@
-var mnemonic = "tape portion someone slogan eight iron hurt naive ceiling remain pony pattern";
+var mnemonic = "burst jeans grow couch always fine sad brave fatal define rally recall";

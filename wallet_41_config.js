@@ -1,1 +1,1 @@
-var mnemonic = "color language gesture merit fringe loan bacon piano trick cancel involve live";
+var mnemonic = "drum fan sock feed exact soccer practice lift tooth again effort doll";

@@ -1,1 +1,1 @@
-var mnemonic = "front upset topple cliff taxi holiday coil anger rate spawn amazing lend";
+var mnemonic = "border tower work genre desert enemy patch mutual crouch tooth dawn inch";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean keep drift glove gate salad accident harvest long cable script jump";
+var mnemonic = "symptom episode tenant february noise ensure ridge today humor decline world obvious";

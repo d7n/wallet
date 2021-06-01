@@ -1,1 +1,1 @@
-var mnemonic = "summer exhibit congress fix history champion twelve trade text crane clump this";
+var mnemonic = "cave message scan service kingdom provide snack pottery jaguar video layer faint";

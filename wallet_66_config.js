@@ -1,1 +1,1 @@
-var mnemonic = "shrimp genuine fuel orbit unique own ecology initial ill jump envelope bicycle";
+var mnemonic = "tenant asthma speak radar glory bench glue favorite fossil suggest guard foam";

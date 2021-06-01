@@ -1,1 +1,1 @@
-var mnemonic = "buzz nuclear dentist current buffalo patch mountain message twist glass globe physical";
+var mnemonic = "immune truth brick gossip guilt obscure dwarf wave battle purpose match glare";

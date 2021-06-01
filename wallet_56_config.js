@@ -1,1 +1,1 @@
-var mnemonic = "firm ten just become bright sort rifle front thank worth art gesture";
+var mnemonic = "sun exhaust seat noodle umbrella life tree perfect stage shoe among note";

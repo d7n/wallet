@@ -1,1 +1,1 @@
-var mnemonic = "mail access twist layer style raise between wave arrive infant use defense";
+var mnemonic = "faculty pilot athlete bomb spice merry neither record advice glance autumn way";

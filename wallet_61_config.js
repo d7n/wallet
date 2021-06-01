@@ -1,1 +1,1 @@
-var mnemonic = "ahead brief party digital motor want fault humble boost clay shell tree";
+var mnemonic = "fire surface key illegal rebel suggest sun obvious among mammal initial end";
