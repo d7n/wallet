@@ -1,1 +1,1 @@
-var mnemonic = "actress total zoo toe custom ozone poet inmate push feed bitter kick";
+var mnemonic = "wear radar leg response day floor other holiday argue manage horse memory";

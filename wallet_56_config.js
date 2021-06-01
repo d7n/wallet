@@ -1,1 +1,1 @@
-var mnemonic = "family confirm famous toe carpet next benefit normal document gauge west orange";
+var mnemonic = "cable essay draft conduct coconut gold erode promote decade sweet member coyote";

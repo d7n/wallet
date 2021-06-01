@@ -1,1 +1,1 @@
-var mnemonic = "chicken basic demand frequent obtain verb only purity feature ticket box unique";
+var mnemonic = "dynamic oil charge brother advice divide desk agree close acquire coffee trip";

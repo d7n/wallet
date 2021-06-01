@@ -1,1 +1,1 @@
-var mnemonic = "quantum clean uncle gather crystal rely round cave festival invest farm cigar";
+var mnemonic = "birth clump spell fantasy sheriff execute near thumb interest bird mobile hair";

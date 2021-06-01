@@ -1,1 +1,1 @@
-var mnemonic = "inner stairs floor tired spy height welcome tank dismiss confirm glare concert";
+var mnemonic = "floor word resource brother coast seminar image use course enemy slam very";

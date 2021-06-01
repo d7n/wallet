@@ -1,1 +1,1 @@
-var mnemonic = "prevent argue guide year mandate police lock typical foot random young improve";
+var mnemonic = "fatigue arena track remain mixture oblige recycle caught trophy borrow journey broken";

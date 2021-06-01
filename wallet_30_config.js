@@ -1,1 +1,1 @@
-var mnemonic = "come elevator cigar toast age robot twenty tragic bacon chuckle breeze dignity";
+var mnemonic = "artefact afford call alley rifle quit claw myself barely monitor screen beyond";

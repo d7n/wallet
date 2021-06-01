@@ -1,1 +1,1 @@
-var mnemonic = "jacket hunt alpha swarm clap dizzy sweet fork pepper pitch rigid catch";
+var mnemonic = "dentist harbor display approve ten wheel neglect metal permit mouse drop blanket";

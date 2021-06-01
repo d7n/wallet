@@ -1,1 +1,1 @@
-var mnemonic = "fitness during version rubber typical grid fury wide control embody party clump";
+var mnemonic = "transfer answer marine awake report bridge spring must normal hole fuel plug";

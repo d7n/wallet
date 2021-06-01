@@ -1,1 +1,1 @@
-var mnemonic = "ozone walk immense exile tent pond fee pull antique beauty creek shuffle";
+var mnemonic = "inhale giant exotic economy home chalk onion dice brave large special boy";

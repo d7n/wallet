@@ -1,1 +1,1 @@
-var mnemonic = "fee notable struggle snack hen boring universe display airport fish movie rather";
+var mnemonic = "height just vendor clip current noble science someone scale heavy blur school";

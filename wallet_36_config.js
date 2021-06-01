@@ -1,1 +1,1 @@
-var mnemonic = "capital cake appear bleak follow style cancel stereo only library crawl board";
+var mnemonic = "response autumn month oppose peasant exhibit dumb stool measure travel parent crush";

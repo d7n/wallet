@@ -1,1 +1,1 @@
-var mnemonic = "crush demise slim aerobic mandate latin plunge crane festival wine stage execute";
+var mnemonic = "drive lecture ride regret boat slam group solar custom panther copper gate";

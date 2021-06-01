@@ -1,1 +1,1 @@
-var mnemonic = "color spoon panic truck coin wheel denial diesel minor job dial copper";
+var mnemonic = "creek member fuel drink script luggage best empower speak target display energy";

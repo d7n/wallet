@@ -1,1 +1,1 @@
-var mnemonic = "entire grab trigger render deliver swamp price mobile vote taste pretty divide";
+var mnemonic = "ethics tobacco expire mistake include defy sand damage cover umbrella upon differ";

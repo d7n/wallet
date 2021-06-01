@@ -1,1 +1,1 @@
-var mnemonic = "exist lens relief pride oval cattle local reopen neither carbon solid fun";
+var mnemonic = "claw tell raccoon capital tonight goat bridge present display call sponsor high";

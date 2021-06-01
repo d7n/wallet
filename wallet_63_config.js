@@ -1,1 +1,1 @@
-var mnemonic = "figure light appear stadium aim oyster humor crucial record violin stone spread";
+var mnemonic = "doll ignore travel bunker unfair holiday replace pitch learn sketch acquire boost";

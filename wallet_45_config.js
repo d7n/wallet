@@ -1,1 +1,1 @@
-var mnemonic = "bulk vote fault solar angry mean manage sword stereo miracle bleak deer";
+var mnemonic = "luxury current rural pen camp member save alley bulb museum behind blouse";

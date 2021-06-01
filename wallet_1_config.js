@@ -1,1 +1,1 @@
-var mnemonic = "disagree tuition because ice upgrade retreat steel finger final cash rhythm luxury";
+var mnemonic = "south oxygen grape auction neutral joke erode bright equip key pill sphere";

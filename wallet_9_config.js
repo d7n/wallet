@@ -1,1 +1,1 @@
-var mnemonic = "until safe mesh dry double funny jar roast aspect seven earth correct";
+var mnemonic = "giant aisle trigger canoe speak alien shoot vacant aspect equip eager rural";

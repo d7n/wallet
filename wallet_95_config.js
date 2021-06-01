@@ -1,1 +1,1 @@
-var mnemonic = "village cotton saddle any network barrel arena pyramid twenty nest night relax";
+var mnemonic = "surface matrix expand start steel shuffle tomorrow orient hip daughter ritual gorilla";

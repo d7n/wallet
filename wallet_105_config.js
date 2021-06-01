@@ -1,1 +1,1 @@
-var mnemonic = "jewel fruit wisdom round raccoon vessel sketch champion silver system rail swallow";
+var mnemonic = "muscle trust soul indicate churn pipe office sand across plate foil ozone";

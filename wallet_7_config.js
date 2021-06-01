@@ -1,1 +1,1 @@
-var mnemonic = "expire toddler talent gorilla tuna disease gather crush fluid drive biology envelope";
+var mnemonic = "energy survey tomorrow marine jelly coil wonder sister guide snow silly caught";

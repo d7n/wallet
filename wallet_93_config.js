@@ -1,1 +1,1 @@
-var mnemonic = "awkward salute angle earn local butter style panel jump play tape bullet";
+var mnemonic = "thunder punch hood giant scout ship harsh indoor vocal usual outer monitor";

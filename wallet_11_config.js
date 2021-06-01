@@ -1,1 +1,1 @@
-var mnemonic = "april envelope rocket large shell uncover because ivory earth muscle cousin jar";
+var mnemonic = "gap pledge jazz double clap mesh cement pill brave vintage salute foam";

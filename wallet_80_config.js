@@ -1,1 +1,1 @@
-var mnemonic = "salt poem drive speed recipe soft scrub silly document build turn raccoon";
+var mnemonic = "easily bunker absorb weird negative minute later squirrel leaf peace west boss";

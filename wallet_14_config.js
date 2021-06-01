@@ -1,1 +1,1 @@
-var mnemonic = "bottom seek improve civil script actual web bottom taxi process broom position";
+var mnemonic = "grocery sting usage gesture arrow boy typical giggle include cat lava valid";

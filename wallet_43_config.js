@@ -1,1 +1,1 @@
-var mnemonic = "quote brass try observe token trophy shell dress palace draft chest ethics";
+var mnemonic = "include boost trash memory deliver supreme ice feed lion cigar urban dolphin";

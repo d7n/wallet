@@ -1,1 +1,1 @@
-var mnemonic = "shell hunt equal embark spike leave edit crater monitor orbit arm stomach";
+var mnemonic = "kitten upset word release actor uniform volume swing make rib bone remain";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope lecture lecture purity amount jar subway blast fragile course exercise thank";
+var mnemonic = "adjust civil slam about cup buyer drum acquire nation report coil plate";

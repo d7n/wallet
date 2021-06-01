@@ -1,1 +1,1 @@
-var mnemonic = "goddess sting debate thought traffic easily spoon learn cancel denial cricket chat";
+var mnemonic = "artist among prefer author powder immune chaos retreat more print return patient";

@@ -1,1 +1,1 @@
-var mnemonic = "blast clay public tuition champion endorse deputy resemble gallery grace field voyage";
+var mnemonic = "picture slight square crater tooth want broccoli enroll card slice document type";

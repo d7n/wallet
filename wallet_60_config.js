@@ -1,1 +1,1 @@
-var mnemonic = "dune tourist pulp shop crisp slender cage artist decrease submit opinion dove";
+var mnemonic = "busy mail velvet inch bring south spy fatal that plug rich purity";

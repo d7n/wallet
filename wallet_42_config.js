@@ -1,1 +1,1 @@
-var mnemonic = "access monkey cannon unit shaft remain tumble include assault acquire double hurt";
+var mnemonic = "wine alert open away success wire vital taxi twice canvas scene ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "echo embark lens that dilemma jacket garlic brief village front tank fork";
+var mnemonic = "crouch forest correct have peace earth solve sunny tenant antenna drum loud";

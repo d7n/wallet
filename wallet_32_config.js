@@ -1,1 +1,1 @@
-var mnemonic = "exit snow note admit renew zero derive where eagle cousin fun guide";
+var mnemonic = "pilot limit creek gun goat oppose rookie name copper size crunch please";

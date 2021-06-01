@@ -1,1 +1,1 @@
-var mnemonic = "monkey enroll spoon jungle bacon private retreat credit fringe nut dynamic zoo";
+var mnemonic = "crisp soap play crowd olive gain awake sign left swap guilt pair";

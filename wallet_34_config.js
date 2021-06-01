@@ -1,1 +1,1 @@
-var mnemonic = "present coil evidence soldier myth track tiger ocean caught ribbon praise change";
+var mnemonic = "like magic point core surface because sadness inch best abandon ski addict";

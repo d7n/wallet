@@ -1,1 +1,1 @@
-var mnemonic = "reveal web smooth boat mesh silver gap goat author exit super never";
+var mnemonic = "occur vital sheriff denial minute barely cloud biology perfect lens churn heavy";

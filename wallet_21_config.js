@@ -1,1 +1,1 @@
-var mnemonic = "gaze provide obscure oppose master engine thrive snake head august way trap";
+var mnemonic = "conduct smoke burger name outdoor accident punch afford throw wrestle thought giraffe";

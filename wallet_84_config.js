@@ -1,1 +1,1 @@
-var mnemonic = "elegant device plate home ribbon since visa apple spawn dumb hamster hill";
+var mnemonic = "toward split problem across embark split thumb cash promote always amazing follow";

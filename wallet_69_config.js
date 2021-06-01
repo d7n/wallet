@@ -1,1 +1,1 @@
-var mnemonic = "shoot visit silk country invest anxiety canoe wave short acquire invest fog";
+var mnemonic = "garage thunder resource spread seven nation finger grant bounce subway bright wave";

@@ -1,1 +1,1 @@
-var mnemonic = "allow cube globe jaguar twice direct expand motion print sugar unaware begin";
+var mnemonic = "tip spare ancient strategy forget renew hawk work soldier skate miracle autumn";

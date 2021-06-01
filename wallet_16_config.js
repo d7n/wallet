@@ -1,1 +1,1 @@
-var mnemonic = "ship tooth shadow milk find festival expose clog struggle prize label snack";
+var mnemonic = "topic romance humble tribe circle canoe lucky chronic weasel into guide have";

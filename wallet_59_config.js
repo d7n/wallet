@@ -1,1 +1,1 @@
-var mnemonic = "pact weasel possible rough noble kitchen hour warfare almost visit peasant unlock";
+var mnemonic = "key until rice february hip icon flee off crash pride caught come";

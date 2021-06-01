@@ -1,1 +1,1 @@
-var mnemonic = "tongue action spray million deer shiver dry abstract wrap video announce metal";
+var mnemonic = "wife unable ice surprise lumber error flight cover transfer cabbage pudding position";

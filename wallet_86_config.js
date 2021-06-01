@@ -1,1 +1,1 @@
-var mnemonic = "siren genius thought brisk pool essay awake educate inch border walk lizard";
+var mnemonic = "olive rather brand gentle morning issue gain tennis divorce reflect valid solid";

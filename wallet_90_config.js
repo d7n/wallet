@@ -1,1 +1,1 @@
-var mnemonic = "beauty soap put thought bronze lucky chase nothing suspect retire team verb";
+var mnemonic = "symptom behave impulse shy offer raccoon unhappy wealth annual bulb upset toddler";

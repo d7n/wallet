@@ -1,1 +1,1 @@
-var mnemonic = "push keen ski have urban mammal liquid cross legend clog remove ordinary";
+var mnemonic = "learn dynamic aware umbrella shrimp target wall drive acoustic palm gown figure";

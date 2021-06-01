@@ -1,1 +1,1 @@
-var mnemonic = "brain proud enough seven game rally equal reward future welcome month uncle";
+var mnemonic = "observe clever boat process term amused grace teach fluid describe merit cherry";

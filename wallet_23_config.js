@@ -1,1 +1,1 @@
-var mnemonic = "meat demise law situate photo minute multiply pear unhappy half medal acquire";
+var mnemonic = "laundry chest decade general gown magnet pool dream control arrange emotion corn";

@@ -1,1 +1,1 @@
-var mnemonic = "good possible wait sword amused convince describe upper radar initial lab act";
+var mnemonic = "scan tree wonder wine rabbit derive step fame service deal dignity vacuum";

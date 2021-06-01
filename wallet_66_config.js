@@ -1,1 +1,1 @@
-var mnemonic = "verify honey cute solar urban unit coyote season foam above wall kingdom";
+var mnemonic = "essence genre hair ice car various robot machine save trigger antenna aware";

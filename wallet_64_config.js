@@ -1,1 +1,1 @@
-var mnemonic = "during jeans corn room taxi measure food ten cushion repair lobster owner";
+var mnemonic = "domain borrow penalty vibrant uniform remember illness despair bundle energy portion firm";

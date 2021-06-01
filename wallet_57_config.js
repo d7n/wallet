@@ -1,1 +1,1 @@
-var mnemonic = "joke female entire kiss audit tail ten uncover digital zoo attack grant";
+var mnemonic = "riot educate slight life assault mother spawn fine lounge globe bone weather";

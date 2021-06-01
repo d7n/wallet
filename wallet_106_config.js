@@ -1,1 +1,1 @@
-var mnemonic = "mystery inform neglect flee need chef coin install repeat marble alarm author";
+var mnemonic = "radar solar blue pretty write want leader work left property useless mass";

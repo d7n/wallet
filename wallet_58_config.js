@@ -1,1 +1,1 @@
-var mnemonic = "useless drastic noodle little lesson asset text car supply quote drip always";
+var mnemonic = "adapt word team faith allow umbrella leg verify gesture check provide tackle";

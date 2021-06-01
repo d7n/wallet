@@ -1,1 +1,1 @@
-var mnemonic = "squirrel crane pulse earn dinner super kingdom goat media safe shiver demand";
+var mnemonic = "crowd degree dragon eye survey spoon minimum violin divert process coffee south";

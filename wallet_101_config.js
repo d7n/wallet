@@ -1,1 +1,1 @@
-var mnemonic = "mandate volcano increase luggage volcano casual margin daring awesome bitter stool fiber";
+var mnemonic = "window hold bundle differ nominee twice draw flag whisper someone chat thank";

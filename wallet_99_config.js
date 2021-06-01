@@ -1,1 +1,1 @@
-var mnemonic = "indicate smile year sudden million blush current ketchup vacant state country orchard";
+var mnemonic = "supply demand manual shrimp unlock siege expose depart beach video ride moon";

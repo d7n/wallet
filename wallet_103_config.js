@@ -1,1 +1,1 @@
-var mnemonic = "bronze program teach donate example ecology one table control current first you";
+var mnemonic = "tone spot menu photo pretty off gloom west dirt random ten bean";

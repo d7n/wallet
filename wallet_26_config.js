@@ -1,1 +1,1 @@
-var mnemonic = "broom jewel cereal team taste word border acid fit twist eagle always";
+var mnemonic = "tissue test snap pigeon wolf glue inmate prepare stamp weather replace aim";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin seat cliff actual deposit inside topic dawn flat screen enrich salt";
+var mnemonic = "steak black essence hybrid owner blossom glide hood matrix raccoon network enough";

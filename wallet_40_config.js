@@ -1,1 +1,1 @@
-var mnemonic = "extend leave unusual glory either object eight street exhibit kitten input glare";
+var mnemonic = "velvet churn gate over total disease salute tomorrow language dust season dignity";

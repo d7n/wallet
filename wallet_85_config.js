@@ -1,1 +1,1 @@
-var mnemonic = "stem stereo blind rough theory upgrade jeans boy wet transfer engine divorce";
+var mnemonic = "absorb sea access always bargain harvest strategy narrow spider leader soap print";

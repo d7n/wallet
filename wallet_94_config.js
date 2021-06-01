@@ -1,1 +1,1 @@
-var mnemonic = "frequent wrist couple desert leopard stove afford jealous scrub twist truth always";
+var mnemonic = "salt home circle morning tell truck decrease project shine paddle copy stay";

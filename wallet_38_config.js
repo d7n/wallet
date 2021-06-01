@@ -1,1 +1,1 @@
-var mnemonic = "pole oblige spring chapter skull movie music seat inspire hand plate lesson";
+var mnemonic = "gain spike swift glance match hover work admit audit cradle prosper method";

@@ -1,1 +1,1 @@
-var mnemonic = "auto comic stove minor toilet father female beauty force border wise away";
+var mnemonic = "afraid grape style grid stable acoustic nothing marble lens act kind sting";

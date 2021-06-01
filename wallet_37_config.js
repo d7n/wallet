@@ -1,1 +1,1 @@
-var mnemonic = "bounce raven coast reunion hollow foster only humble much torch weird ivory";
+var mnemonic = "minor rule pool host fat mango time excuse need erase increase again";

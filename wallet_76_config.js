@@ -1,1 +1,1 @@
-var mnemonic = "mammal hard scout symptom gossip betray cattle dial inherit furnace myth mail";
+var mnemonic = "subject inflict oppose differ release common wide cliff legal pepper web useless";

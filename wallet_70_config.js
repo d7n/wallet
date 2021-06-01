@@ -1,1 +1,1 @@
-var mnemonic = "sort pioneer position task grab bamboo orange fashion ridge index item year";
+var mnemonic = "cram agree uniform satisfy true thunder approve behind involve science audit nice";

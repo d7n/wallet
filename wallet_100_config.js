@@ -1,1 +1,1 @@
-var mnemonic = "include apart divorce system pole alley town forest battle humble social process";
+var mnemonic = "stomach grit alert miracle design hunt park either hospital over eagle trophy";

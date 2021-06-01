@@ -1,1 +1,1 @@
-var mnemonic = "near vacant across finish devote tragic shrimp talent cruise huge wink cycle";
+var mnemonic = "bind skin review corn prevent claim speed country boil garment guitar saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "fury nice lady clog vessel empower seed increase diamond script winner analyst";
+var mnemonic = "parrot verb fortune crack stand silk festival unfold typical salute funny cycle";

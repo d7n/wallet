@@ -1,1 +1,1 @@
-var mnemonic = "regular hollow beyond obvious middle erode crumble finger bamboo party fall east";
+var mnemonic = "cushion print motion uniform just milk board panda hip vehicle gaze phone";

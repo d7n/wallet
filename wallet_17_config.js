@@ -1,1 +1,1 @@
-var mnemonic = "deposit motion hood flavor describe great cancel solve require monitor milk security";
+var mnemonic = "sheriff planet decide trade unaware clean guitar pelican cricket ship surge wonder";

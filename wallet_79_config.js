@@ -1,1 +1,1 @@
-var mnemonic = "tenant leopard item curtain fire harsh pave latin magic feed hole blur";
+var mnemonic = "biology idle oak goddess spring endless legal nest grit firm furnace cart";

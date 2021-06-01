@@ -1,1 +1,1 @@
-var mnemonic = "wait flower stumble harbor grass fever hockey debris option december process arrow";
+var mnemonic = "output chair social million another repeat spend used maid crater situate prize";

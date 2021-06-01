@@ -1,1 +1,1 @@
-var mnemonic = "sunny chalk assume intact category monster squeeze name shock artwork material ability";
+var mnemonic = "derive vapor soldier comic faint casual year vocal focus steak roof badge";

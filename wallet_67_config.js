@@ -1,1 +1,1 @@
-var mnemonic = "destroy void cupboard sudden notice clump item express method select lucky amount";
+var mnemonic = "radio anxiety enlist man kingdom image they garage hunt ribbon omit talk";

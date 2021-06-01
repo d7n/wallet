@@ -1,1 +1,1 @@
-var mnemonic = "brother youth divert border kite purpose green lab obey health diagram morning";
+var mnemonic = "shoot tone unusual decorate length two success neck orchard rich sell river";

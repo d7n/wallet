@@ -1,1 +1,1 @@
-var mnemonic = "glance miracle sport old cinnamon tongue future swift hollow immune polar machine";
+var mnemonic = "guide devote cancel stable issue submit door chest indoor boil track trend";

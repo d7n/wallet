@@ -1,1 +1,1 @@
-var mnemonic = "matter trust round fame anger baby define hero kind swear pioneer utility";
+var mnemonic = "special matter cram income payment giraffe tobacco notable olive orchard exist olympic";
