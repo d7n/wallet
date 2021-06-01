@@ -1,1 +1,1 @@
-var mnemonic = "rotate loop toy again merge agent season avocado refuse connect mandate keen";
+var mnemonic = "clever match chair absurd stairs wine imitate battle oil material famous laundry";

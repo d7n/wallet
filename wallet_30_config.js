@@ -1,1 +1,1 @@
-var mnemonic = "quick service north element steel fetch float horror fish stereo rough margin";
+var mnemonic = "fold pumpkin public upon rib roast output various design stock nominee arrange";

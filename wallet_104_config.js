@@ -1,1 +1,1 @@
-var mnemonic = "theory broccoli frame permit space feature speak potato machine youth slab hamster";
+var mnemonic = "file smile daring shove nature initial project cargo desert sibling video disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic street merit steel smoke step wish stay supply icon middle chalk";
+var mnemonic = "segment supply lens enemy knife guard bulk survey theory quantum ticket popular";

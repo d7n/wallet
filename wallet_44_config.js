@@ -1,1 +1,1 @@
-var mnemonic = "mechanic upgrade swallow grid prosper strike phone rug vault club train bounce";
+var mnemonic = "cup aspect escape best connect indicate kitchen bus question valley type gain";

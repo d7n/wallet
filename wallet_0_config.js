@@ -1,1 +1,1 @@
-var mnemonic = "polar champion gossip club grit often dress zero zebra guard cruise riot";
+var mnemonic = "nurse false element asset unveil alter year exhibit vocal artist tool crouch";

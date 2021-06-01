@@ -1,1 +1,1 @@
-var mnemonic = "grain output silent garlic country mother ugly unknown orient noise pyramid smart";
+var mnemonic = "video immune dutch absurd asset wedding pencil glow remove layer winter found";

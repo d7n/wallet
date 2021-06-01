@@ -1,1 +1,1 @@
-var mnemonic = "process rigid food kind require various scan cargo veteran smooth resource exhibit";
+var mnemonic = "visit render improve silver auto useless spatial fine crime flower onion equal";

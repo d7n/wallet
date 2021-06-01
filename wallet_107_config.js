@@ -1,1 +1,1 @@
-var mnemonic = "brave enact square gather enable rice height sport current achieve giant shoe";
+var mnemonic = "sorry rookie wisdom suspect bird melt veteran scatter limit champion finger cotton";

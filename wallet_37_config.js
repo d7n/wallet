@@ -1,1 +1,1 @@
-var mnemonic = "lamp vibrant monster shift treat vacant basic element debate detail leopard bread";
+var mnemonic = "adjust rent express emerge wash wedding physical force room blur patch found";

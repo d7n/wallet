@@ -1,1 +1,1 @@
-var mnemonic = "grace crime diagram stove good rookie yellow indoor bronze wing cotton gun";
+var mnemonic = "surround indicate fitness base public runway industry effort rabbit pig timber enemy";

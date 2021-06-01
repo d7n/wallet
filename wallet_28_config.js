@@ -1,1 +1,1 @@
-var mnemonic = "job title subway answer comfort stove fee honey color police like law";
+var mnemonic = "amazing ripple lunar cable beyond rival ahead option screen debate liquid toy";

@@ -1,1 +1,1 @@
-var mnemonic = "comic amused canoe clay area luxury desk liquid galaxy menu album cup";
+var mnemonic = "harsh sibling liberty route decline ostrich junior divide knock excess beach wall";

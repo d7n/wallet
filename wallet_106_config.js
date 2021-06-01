@@ -1,1 +1,1 @@
-var mnemonic = "surge around prize track blouse actress polar chunk rack lottery burden sock";
+var mnemonic = "glad october half shift fade law riot ribbon casual account meadow shove";

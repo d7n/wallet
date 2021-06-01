@@ -1,1 +1,1 @@
-var mnemonic = "guide chaos defense east kite erase caught fix address rice dinner harvest";
+var mnemonic = "craft refuse split glimpse business dilemma castle eagle tray behave bonus cost";

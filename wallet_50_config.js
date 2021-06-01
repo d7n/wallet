@@ -1,1 +1,1 @@
-var mnemonic = "dumb collect agree flip trip shock soccer middle sure refuse slam off";
+var mnemonic = "balcony clown owner net cake helmet session entry hurry topic indicate casino";

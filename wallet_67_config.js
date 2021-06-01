@@ -1,1 +1,1 @@
-var mnemonic = "curtain resource avocado join bench divide sight pride scene ocean squeeze stuff";
+var mnemonic = "casual skate heavy kit sister noise swarm hold wine pet giant path";

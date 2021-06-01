@@ -1,1 +1,1 @@
-var mnemonic = "pass wealth ball wagon major cruise bean note lonely situate office heart";
+var mnemonic = "artwork mirror relax taxi acquire tone saddle boring resemble process bone target";

@@ -1,1 +1,1 @@
-var mnemonic = "shop cliff similar brisk final boil muffin fly mail response child wire";
+var mnemonic = "express mind media flower enlist hawk twice similar stage core scissors vanish";

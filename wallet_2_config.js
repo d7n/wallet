@@ -1,1 +1,1 @@
-var mnemonic = "gossip syrup trip hen palm among sponsor food movie spray achieve rude";
+var mnemonic = "truly throw victory trumpet radar scout ring strike claim flock above sand";

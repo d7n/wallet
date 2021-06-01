@@ -1,1 +1,1 @@
-var mnemonic = "version color decrease argue junk layer regret control ill loyal admit catch";
+var mnemonic = "mercy embark kidney embrace crowd increase pottery improve surface drum rely razor";

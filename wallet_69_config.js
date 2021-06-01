@@ -1,1 +1,1 @@
-var mnemonic = "virtual then shoulder author innocent bundle glance vanish champion tunnel olympic reveal";
+var mnemonic = "remove spell club biology front edit absent opera dentist knock video song";

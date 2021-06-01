@@ -1,1 +1,1 @@
-var mnemonic = "remind use small club never place tragic gain reform skirt flower logic";
+var mnemonic = "lend wise kiss all chef follow fine invite spare crime crush beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "trick trick lucky victory endless sadness gate result antique word bubble uncover";
+var mnemonic = "tide art elegant reduce brush into indoor possible okay blur cricket accuse";

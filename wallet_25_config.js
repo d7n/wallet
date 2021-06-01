@@ -1,1 +1,1 @@
-var mnemonic = "cup employ arch market rose fence uncover step glass escape inside item";
+var mnemonic = "confirm congress wedding duck few tragic rebel seed economy grab sleep taste";

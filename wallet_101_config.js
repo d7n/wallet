@@ -1,1 +1,1 @@
-var mnemonic = "deal idle load crush stage inquiry water ski sheriff mother dismiss rhythm";
+var mnemonic = "action quality knee viable attract hip congress couch pool sponsor iron gown";

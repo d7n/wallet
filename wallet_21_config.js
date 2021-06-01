@@ -1,1 +1,1 @@
-var mnemonic = "seek snow ecology voice surround venture soul audit enemy elephant insect erase";
+var mnemonic = "jelly eyebrow humble round helmet remember sound wedding hero pony sleep pole";

@@ -1,1 +1,1 @@
-var mnemonic = "advance trial aerobic very rice casual tower undo gate can stuff deliver";
+var mnemonic = "donate tomorrow blush evidence kangaroo total staff hint pole vote review soup";

@@ -1,1 +1,1 @@
-var mnemonic = "rain tray master uncover step design top immense they boring broken arena";
+var mnemonic = "invest illness round bicycle west hockey blur nurse beyond enemy comfort endless";

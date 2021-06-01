@@ -1,1 +1,1 @@
-var mnemonic = "also tennis obey embrace fresh certain invest layer reward work drop skate";
+var mnemonic = "same addict deliver sniff wire true design reflect hover hollow come trophy";

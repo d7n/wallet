@@ -1,1 +1,1 @@
-var mnemonic = "crush team orange mule miss minimum uphold tilt giggle hire describe hat";
+var mnemonic = "decide digital word arrow oil earn plastic kit squeeze wear fix fantasy";

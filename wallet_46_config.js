@@ -1,1 +1,1 @@
-var mnemonic = "either tooth cherry capable east screen receive salad consider gesture beef alert";
+var mnemonic = "input hollow main blush anxiety credit park empower size cradle predict update";

@@ -1,1 +1,1 @@
-var mnemonic = "document field monkey negative grief torch action artist story box brisk local";
+var mnemonic = "dose entire verb water earth avocado deposit disagree hammer actor retreat stuff";

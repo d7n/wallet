@@ -1,1 +1,1 @@
-var mnemonic = "next fold actress country friend vacuum glory cushion spray frog circle output";
+var mnemonic = "fitness scale salon burst hotel excite holiday dust unhappy alcohol sniff sunny";

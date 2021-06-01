@@ -1,1 +1,1 @@
-var mnemonic = "alert negative easy maple human property swift shove salon february finish tennis";
+var mnemonic = "coil swear sun turkey robust buffalo income garage cause song captain gorilla";

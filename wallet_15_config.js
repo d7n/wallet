@@ -1,1 +1,1 @@
-var mnemonic = "gloom flower device carry science away cheese liar cousin small expand inform";
+var mnemonic = "head illness ride double elegant obvious level know town catch just awkward";

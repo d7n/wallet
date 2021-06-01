@@ -1,1 +1,1 @@
-var mnemonic = "more tuition where sorry view problem behind tray action salmon razor twice";
+var mnemonic = "soft photo remind defense liar ginger length blood fence oil random crucial";

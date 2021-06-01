@@ -1,1 +1,1 @@
-var mnemonic = "expire just soft clinic scorpion jar dragon struggle gate pull hurdle fiction";
+var mnemonic = "occur vendor battle science increase shoe because ugly apology icon file bring";

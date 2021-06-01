@@ -1,1 +1,1 @@
-var mnemonic = "east gadget ankle dance wagon inherit sea fetch harvest scrap fit split";
+var mnemonic = "ride blast argue release enable motor mesh train sunset knock verb soon";

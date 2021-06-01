@@ -1,1 +1,1 @@
-var mnemonic = "category around actress humor exhibit almost holiday rebuild tilt pottery acoustic blanket";
+var mnemonic = "dentist sample survey squeeze pet water dilemma moon notice wet anger volume";

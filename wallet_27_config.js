@@ -1,1 +1,1 @@
-var mnemonic = "shed beauty sample betray blame into mandate found mandate unit invest elite";
+var mnemonic = "excess venture normal nerve monkey pass captain acquire weird end speed gym";

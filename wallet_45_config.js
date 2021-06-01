@@ -1,1 +1,1 @@
-var mnemonic = "harvest gasp uncle long milk debate cloth certain bread crunch lab forget";
+var mnemonic = "arctic develop slight sword park dose merge until orient away switch emerge";

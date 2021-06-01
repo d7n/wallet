@@ -1,1 +1,1 @@
-var mnemonic = "make alone maple aunt clinic welcome blood clip month expose dose lion";
+var mnemonic = "frozen coil slush kid kick circle vintage exhaust novel walnut cake grant";

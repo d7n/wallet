@@ -1,1 +1,1 @@
-var mnemonic = "junk accident credit valid flush tail later human payment bitter imitate soda";
+var mnemonic = "bulk brass borrow congress cute item ask heavy logic pig orbit mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor wear put later easy six video obey core border digital fold";
+var mnemonic = "police shuffle such segment chuckle hen lift slam toddler circle legend curious";

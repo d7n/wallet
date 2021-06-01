@@ -1,1 +1,1 @@
-var mnemonic = "uncover recycle rookie order naive reward outdoor cool flee hard soldier age";
+var mnemonic = "current reduce nerve evidence someone economy month click cave cycle undo phrase";

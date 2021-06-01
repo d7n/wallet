@@ -1,1 +1,1 @@
-var mnemonic = "argue add oak camp deposit desk rough husband series oil someone wish";
+var mnemonic = "essence polar juice foster title sustain hole neither voyage six appear until";

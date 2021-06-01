@@ -1,1 +1,1 @@
-var mnemonic = "zoo dignity place raise describe lottery visa drastic frozen blue pet motor";
+var mnemonic = "tuna text age crime move evoke they conduct raccoon mention puppy beach";

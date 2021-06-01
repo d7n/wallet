@@ -1,1 +1,1 @@
-var mnemonic = "retreat fiber climb crack accuse betray toilet myth bamboo gallery vintage height";
+var mnemonic = "response crumble traffic viable erase over swing muffin nut valve timber return";

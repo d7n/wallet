@@ -1,1 +1,1 @@
-var mnemonic = "human jacket field monkey violin solar bridge expose among hard bonus physical";
+var mnemonic = "clever blind hundred tip parade narrow also motor fatigue mansion nice wolf";

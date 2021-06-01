@@ -1,1 +1,1 @@
-var mnemonic = "reject midnight question illegal firm because feature impact paddle salad flash educate";
+var mnemonic = "model ask expect trade list country survey dove install dismiss window cage";

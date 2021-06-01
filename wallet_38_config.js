@@ -1,1 +1,1 @@
-var mnemonic = "city dune blur copy flat rapid unhappy entry quit member buffalo firm";
+var mnemonic = "bone green snack solution destroy powder dutch salon yellow alarm impose gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve opinion patch renew casino abandon gift retire end access pizza song";
+var mnemonic = "diet chunk crumble stairs become dutch morning consider grocery steel kid view";

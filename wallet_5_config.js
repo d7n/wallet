@@ -1,1 +1,1 @@
-var mnemonic = "burger monkey blood bring vanish swallow sting neglect nest praise stay utility";
+var mnemonic = "grow dune scout relief fault fault merge stem fatal palace good profit";

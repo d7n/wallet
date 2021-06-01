@@ -1,1 +1,1 @@
-var mnemonic = "verb breeze tail drop cruel sketch pipe tape case thrive erupt beyond";
+var mnemonic = "idle device govern soup trap shell away mechanic amused diamond atom satoshi";

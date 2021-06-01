@@ -1,1 +1,1 @@
-var mnemonic = "spring scan humble salmon combine force trouble height worry gate arrive soul";
+var mnemonic = "sweet ice punch laugh atom label once congress lawn regret attract item";

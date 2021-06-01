@@ -1,1 +1,1 @@
-var mnemonic = "mutual tribe year similar great vivid bargain dry february spray trash bus";
+var mnemonic = "bunker peasant rebuild ritual toast course antenna amount payment laugh any quick";

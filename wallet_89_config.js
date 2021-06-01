@@ -1,1 +1,1 @@
-var mnemonic = "emerge magic gold avocado gesture garment wall check random note below forget";
+var mnemonic = "item genius island problem depart page census imitate limb vague call wish";

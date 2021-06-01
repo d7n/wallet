@@ -1,1 +1,1 @@
-var mnemonic = "ginger mercy figure same trim drink burger level engage alarm erupt guilt";
+var mnemonic = "moment poem tank believe brass fence glance vicious jaguar nerve script settle";

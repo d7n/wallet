@@ -1,1 +1,1 @@
-var mnemonic = "vague olive ostrich power same intact oblige pluck skill cause pioneer prosper";
+var mnemonic = "unhappy athlete inhale step gesture mammal isolate jazz exchange host provide canal";

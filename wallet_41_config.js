@@ -1,1 +1,1 @@
-var mnemonic = "fashion write fence forget nasty glove element oblige candy robust print jar";
+var mnemonic = "circle brass kit tape gesture assist forum nest spoon cool bread family";

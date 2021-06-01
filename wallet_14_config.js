@@ -1,1 +1,1 @@
-var mnemonic = "brisk reward inmate cherry outside risk stove easy wife machine treat typical";
+var mnemonic = "plate pyramid ill jaguar bike impact mobile must become tree recipe judge";

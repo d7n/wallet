@@ -1,1 +1,1 @@
-var mnemonic = "poem welcome inquiry aerobic fluid blue merit april swim pill clinic best";
+var mnemonic = "win slim ensure alley lyrics sunny sure soup sound federal tornado cabin";

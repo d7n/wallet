@@ -1,1 +1,1 @@
-var mnemonic = "argue annual seed priority where alter together script spend quality enough mention";
+var mnemonic = "normal reflect unknown oven survey better fossil umbrella radio chest cool melt";

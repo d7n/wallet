@@ -1,1 +1,1 @@
-var mnemonic = "fold industry deer amount sausage ahead doll ginger say frost timber need";
+var mnemonic = "world lake portion slender symptom drill cave enough marble math orchard obtain";

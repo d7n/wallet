@@ -1,1 +1,1 @@
-var mnemonic = "clarify gold fiscal hello include forward special toast lemon spike become walnut";
+var mnemonic = "property onion also midnight guilt insane push slogan recycle lizard obvious whip";

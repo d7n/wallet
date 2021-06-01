@@ -1,1 +1,1 @@
-var mnemonic = "axis trade delay like sun burden main resist hire you hotel cupboard";
+var mnemonic = "blood pause scorpion change room capital panther father chair toe decrease humble";

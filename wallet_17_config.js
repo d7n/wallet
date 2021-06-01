@@ -1,1 +1,1 @@
-var mnemonic = "phrase gentle timber inspire road immune maid scrub border ladder mind tongue";
+var mnemonic = "wine tail index bag face core soul tornado cushion master quote shiver";

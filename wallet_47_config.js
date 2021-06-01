@@ -1,1 +1,1 @@
-var mnemonic = "thumb off lunch close trip oblige spoon tiger twice cupboard rice august";
+var mnemonic = "joy broken mind squeeze punch sense zebra ritual interest glare width loan";

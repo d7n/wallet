@@ -1,1 +1,1 @@
-var mnemonic = "twin current state inspire crisp slot wrap connect faculty wool bomb energy";
+var mnemonic = "calm loyal subject yellow elevator silk foster eagle mention six obscure asset";

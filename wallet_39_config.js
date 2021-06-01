@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hotel view man liberty winter badge position verb traffic weasel play";
+var mnemonic = "loud lemon action arrange auction alpha denial degree february dad other web";

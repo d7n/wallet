@@ -1,1 +1,1 @@
-var mnemonic = "chicken genuine claw result noble torch satoshi broken toddler either pottery slow";
+var mnemonic = "man pig poverty fiber choose sleep wide license awesome elegant genius velvet";

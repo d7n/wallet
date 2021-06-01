@@ -1,1 +1,1 @@
-var mnemonic = "crawl visit deliver derive recycle indicate illegal eternal tank post cancel letter";
+var mnemonic = "sister among asthma spike rifle vehicle version culture wait gesture sting foster";

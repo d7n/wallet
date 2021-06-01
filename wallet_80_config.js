@@ -1,1 +1,1 @@
-var mnemonic = "indoor blame process expire surround day tenant silly lesson boil end sadness";
+var mnemonic = "about finish burst profit task glow pave critic crash lend bridge over";

@@ -1,1 +1,1 @@
-var mnemonic = "speed park basket sauce lemon into add album joke victory tumble demand";
+var mnemonic = "tool polar prize length start cheap tide seed second sniff rate release";

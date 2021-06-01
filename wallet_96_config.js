@@ -1,1 +1,1 @@
-var mnemonic = "real tree soldier cute ostrich empty arrest inner exclude bulk code latin";
+var mnemonic = "snack prefer pistol combine trim arrest fire heart hunt inch river choose";

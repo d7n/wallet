@@ -1,1 +1,1 @@
-var mnemonic = "extra cover hero play history garage salon pilot senior conduct dose need";
+var mnemonic = "uncover limb panel olympic crouch brand choice grace exact morning page bright";

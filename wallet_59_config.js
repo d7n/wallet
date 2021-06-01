@@ -1,1 +1,1 @@
-var mnemonic = "current craft genre parent lens chair awful torch surprise congress dove gravity";
+var mnemonic = "video crime pen bottom gym gasp liberty dinosaur barely design fat lawsuit";

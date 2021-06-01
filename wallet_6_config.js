@@ -1,1 +1,1 @@
-var mnemonic = "hybrid pair damp any topple invest napkin fold dress distance kitten use";
+var mnemonic = "acid middle come blossom metal lemon cattle differ donate segment limit cost";

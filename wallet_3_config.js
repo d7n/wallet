@@ -1,1 +1,1 @@
-var mnemonic = "brass unveil purpose dice mixed antenna swift chief ghost material curious demand";
+var mnemonic = "come man clock broom detail tumble spoil typical code turkey fatal repeat";

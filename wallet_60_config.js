@@ -1,1 +1,1 @@
-var mnemonic = "inch hawk panda intact category erase floor crumble angry deputy picnic member";
+var mnemonic = "label peace ice foil error pilot depart youth able error disagree help";

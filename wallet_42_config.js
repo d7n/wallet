@@ -1,1 +1,1 @@
-var mnemonic = "wheat knock trap pair prefer tell film deputy cool govern tennis gym";
+var mnemonic = "subway march believe market canyon tornado chat spawn else pelican account twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "damp disagree approve inside appear tobacco feed brave advance february use swear";
+var mnemonic = "debate bomb cinnamon imitate design develop farm cloud tool about eternal chunk";

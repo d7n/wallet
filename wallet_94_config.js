@@ -1,1 +1,1 @@
-var mnemonic = "toss grace right cost eye myth party grit one scare banner frog";
+var mnemonic = "quiz champion disagree ice cloth elephant expect street wreck swim drill drift";

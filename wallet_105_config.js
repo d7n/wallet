@@ -1,1 +1,1 @@
-var mnemonic = "pattern prison loyal vehicle primary side dog city swallow hockey town frown";
+var mnemonic = "vast brother battle rice that story ski wire void uniform scout planet";

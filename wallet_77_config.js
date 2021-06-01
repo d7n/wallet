@@ -1,1 +1,1 @@
-var mnemonic = "kind reduce typical cruel van culture quick lizard rose fire sadness pause";
+var mnemonic = "story jelly rival secret prepare morning prosper upset auction expand flee boy";

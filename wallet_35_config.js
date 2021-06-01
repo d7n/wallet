@@ -1,1 +1,1 @@
-var mnemonic = "short trumpet flame wheel come shell release zoo wrestle bracket midnight rigid";
+var mnemonic = "hero dial hub clean distance magic bulb dynamic attend label artefact huge";
