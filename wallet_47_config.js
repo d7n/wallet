@@ -1,1 +1,1 @@
-var mnemonic = "nasty embrace gorilla whisper rival trade carry mother myth mountain zero pull";
+var mnemonic = "fatal core forum pilot minute raise crazy potato discover client hurry drift";

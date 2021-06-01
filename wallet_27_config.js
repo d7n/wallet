@@ -1,1 +1,1 @@
-var mnemonic = "blouse glimpse winner spring virtual length jeans animal plate youth upset winner";
+var mnemonic = "glory portion noodle sudden indoor globe gentle foster roof segment pony leaf";

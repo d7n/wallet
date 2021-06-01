@@ -1,1 +1,1 @@
-var mnemonic = "index popular crawl verify purchase inside indoor cliff garden atom picture angle";
+var mnemonic = "result clap floor forest ring potato jungle access remove tiny elephant burst";

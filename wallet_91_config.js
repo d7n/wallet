@@ -1,1 +1,1 @@
-var mnemonic = "inflict menu elite shock door loyal right innocent agree gasp indoor million";
+var mnemonic = "hint festival middle fuel response elite plug planet someone magic grunt fiber";

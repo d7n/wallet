@@ -1,1 +1,1 @@
-var mnemonic = "limb scrub label first ripple rude tired sweet rough stomach acoustic naive";
+var mnemonic = "swamp dentist able monster crawl license victory table shaft legal appear keep";

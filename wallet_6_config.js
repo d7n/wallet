@@ -1,1 +1,1 @@
-var mnemonic = "acid outdoor will cruel solution skate jungle design month awful firm motion";
+var mnemonic = "pony hurt news stone cigar original noise nature option boat right athlete";

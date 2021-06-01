@@ -1,1 +1,1 @@
-var mnemonic = "little you mirror damp absorb hero major garbage legend crack help syrup";
+var mnemonic = "weather effort nest vacuum enlist predict try science entry vapor close comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "dad volume develop lunar alert eye tail imitate base pistol crash kitchen";
+var mnemonic = "such spread artwork despair vocal dignity question force chunk kidney race expose";

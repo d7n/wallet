@@ -1,1 +1,1 @@
-var mnemonic = "grid puzzle diary any basket goose cigar business orbit double yellow mule";
+var mnemonic = "inquiry sure because credit always gas butter local carbon beauty fresh science";

@@ -1,1 +1,1 @@
-var mnemonic = "bar valid sea congress unhappy speed weird join thrive report polar oblige";
+var mnemonic = "program weekend source record hat cinnamon dolphin vote bright pretty obvious pink";

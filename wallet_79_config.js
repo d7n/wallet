@@ -1,1 +1,1 @@
-var mnemonic = "bridge limit junk muscle drastic alert stereo laugh occur smart gospel mixture";
+var mnemonic = "estate fix claw file session square gown dove sun dry unique slam";

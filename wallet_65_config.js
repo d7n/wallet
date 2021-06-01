@@ -1,1 +1,1 @@
-var mnemonic = "dynamic early scare milk luggage extra drive jacket sister flower error blind";
+var mnemonic = "card first never battle gospel area permit worry knife combine entry judge";

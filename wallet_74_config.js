@@ -1,1 +1,1 @@
-var mnemonic = "parade sand stuff pole oblige hospital neither master quick dynamic foster pair";
+var mnemonic = "pool kiss green swing sponsor will tunnel undo kitchen lock cricket behave";

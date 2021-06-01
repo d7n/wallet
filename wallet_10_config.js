@@ -1,1 +1,1 @@
-var mnemonic = "squirrel immense estate crop bundle parent knee link success net birth promote";
+var mnemonic = "already pudding still make two digital lake sell youth cement ignore charge";

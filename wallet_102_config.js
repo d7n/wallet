@@ -1,1 +1,1 @@
-var mnemonic = "mixed loan girl yard tongue hurry ill lawsuit retreat fat force choice";
+var mnemonic = "key inside hair anchor pride gesture corn swim crane early kitchen vital";

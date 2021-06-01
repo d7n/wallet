@@ -1,1 +1,1 @@
-var mnemonic = "coyote raccoon surge own any announce blood labor notable ordinary phrase hidden";
+var mnemonic = "inch allow pitch brick work damp author foot quick again topple mirror";

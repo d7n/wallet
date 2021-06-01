@@ -1,1 +1,1 @@
-var mnemonic = "burst stage install service mammal crop woman print high since dress detect";
+var mnemonic = "bunker cake there pipe analyst next sunset noise cushion chronic you asthma";

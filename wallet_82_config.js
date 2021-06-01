@@ -1,1 +1,1 @@
-var mnemonic = "leaf season argue bike hundred bounce grit genuine track jealous decline number";
+var mnemonic = "unaware start between escape crater guitar spike bonus flame april omit enable";

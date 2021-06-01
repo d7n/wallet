@@ -1,1 +1,1 @@
-var mnemonic = "hawk flame envelope modify math drama theme fence luxury program hurry balance";
+var mnemonic = "play assume grant crop ankle wreck pony tree lady fee arena holiday";

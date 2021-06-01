@@ -1,1 +1,1 @@
-var mnemonic = "ozone bless record entire skill cactus annual cube humor student crazy bag";
+var mnemonic = "camera enlist run output cigar bulb example service mom upon arch tomato";

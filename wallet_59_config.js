@@ -1,1 +1,1 @@
-var mnemonic = "confirm bind rough satoshi false vapor syrup perfect sister cause skirt destroy";
+var mnemonic = "consider cereal glad immense annual pause close tongue minimum ivory lecture fog";

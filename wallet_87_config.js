@@ -1,1 +1,1 @@
-var mnemonic = "welcome turn paper satisfy tortoise agent clean fame celery income fun seed";
+var mnemonic = "tomato strong human boss toss where dinosaur lava submit smile vanish busy";

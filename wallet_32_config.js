@@ -1,1 +1,1 @@
-var mnemonic = "pave picture dress enable recycle lottery bubble lady velvet nominee uphold chronic";
+var mnemonic = "outdoor erode depend trip bubble paper motion inform rug ghost grow sustain";

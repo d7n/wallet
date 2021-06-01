@@ -1,1 +1,1 @@
-var mnemonic = "chimney obvious have own celery sock beyond today round buyer pencil response";
+var mnemonic = "endless stereo promote kitchen lawsuit modify narrow ridge forum proof absent elder";

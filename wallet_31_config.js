@@ -1,1 +1,1 @@
-var mnemonic = "baby margin shoulder scissors blind snow indoor giraffe snake betray shadow venture";
+var mnemonic = "final smooth engage fantasy fiscal share milk strong mind keep tide finger";

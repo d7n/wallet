@@ -1,1 +1,1 @@
-var mnemonic = "violin flag project budget river wing gift derive mule image divert face";
+var mnemonic = "veteran flash shallow path pelican rocket weather tennis honey robust never kid";

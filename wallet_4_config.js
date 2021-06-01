@@ -1,1 +1,1 @@
-var mnemonic = "busy east pig lesson relax travel catch skull borrow tobacco letter sniff";
+var mnemonic = "host assume fruit stem space trumpet duck battle diamond index beach desert";

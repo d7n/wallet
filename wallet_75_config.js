@@ -1,1 +1,1 @@
-var mnemonic = "detail silk energy receive have check report shoulder empower burden flat play";
+var mnemonic = "casino angle winner mixed carpet magic prevent range side mutual poem congress";

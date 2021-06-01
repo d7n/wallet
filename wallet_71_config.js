@@ -1,1 +1,1 @@
-var mnemonic = "coyote cushion window cotton bone metal faint plug great gym walk shell";
+var mnemonic = "grain squirrel usage dog salmon note exist muscle region neck bean embody";

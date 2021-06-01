@@ -1,1 +1,1 @@
-var mnemonic = "labor sun radar law tobacco alley snap chapter program civil royal level";
+var mnemonic = "village erode napkin suggest spot belt game bracket cluster awful health reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "open cabbage success second possible silent slide blossom shield excess dragon drip";
+var mnemonic = "law obey whisper panda shadow garden basic doll dust sword else donkey";

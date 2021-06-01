@@ -1,1 +1,1 @@
-var mnemonic = "fresh garden stick transfer soccer stairs train better install sample distance icon";
+var mnemonic = "patient lonely picture wreck define vapor borrow orient always run broom stamp";

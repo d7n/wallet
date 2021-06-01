@@ -1,1 +1,1 @@
-var mnemonic = "tongue depart taxi company flower tool net summer fantasy hurt gesture throw";
+var mnemonic = "equip apology ignore aspect comic crush found symbol awesome crew garment possible";

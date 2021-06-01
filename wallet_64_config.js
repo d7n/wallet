@@ -1,1 +1,1 @@
-var mnemonic = "want catalog embark mail scan stone have educate trumpet bird anger liberty";
+var mnemonic = "unusual million spare cactus census comic empty tilt there window price virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction acoustic flush length dance total orbit immune kiwi liar silly cluster";
+var mnemonic = "peace material obscure tornado absorb kitchen name heart jacket pink fatal educate";

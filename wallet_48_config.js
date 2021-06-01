@@ -1,1 +1,1 @@
-var mnemonic = "moment kite grid upper dignity crystal lounge prize spare proof apart labor";
+var mnemonic = "situate guess initial enter sphere link before possible like change much zone";

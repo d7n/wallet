@@ -1,1 +1,1 @@
-var mnemonic = "talent rally holiday soldier buffalo wrong column chicken ostrich away eight roof";
+var mnemonic = "innocent note mention liquid fantasy achieve they decide know poem combine output";

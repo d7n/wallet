@@ -1,1 +1,1 @@
-var mnemonic = "silly present quarter merge join twenty hurry runway strategy essence solution tree";
+var mnemonic = "puzzle develop side humble umbrella exhibit axis invest click genre shop scorpion";

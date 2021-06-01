@@ -1,1 +1,1 @@
-var mnemonic = "cousin fat invest share puppy master parade choice kiss midnight insect over";
+var mnemonic = "inch neither toilet remind sleep prepare engine canoe spawn eye tank cross";

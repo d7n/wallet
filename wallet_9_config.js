@@ -1,1 +1,1 @@
-var mnemonic = "torch pumpkin coin fog curtain focus copper announce atom vote brick cliff";
+var mnemonic = "flag rebuild tone area regular decide giant friend trouble spoil join vast";

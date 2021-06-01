@@ -1,1 +1,1 @@
-var mnemonic = "machine tomorrow balance rib salute art velvet decrease check paper dog vacant";
+var mnemonic = "chicken recall check artist raven trip sauce three merit chair vehicle space";

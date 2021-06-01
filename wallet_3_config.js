@@ -1,1 +1,1 @@
-var mnemonic = "elegant timber cross illness joy visit wreck interest attract skirt wink lounge";
+var mnemonic = "dust simple review lawsuit tobacco few sand someone artist patient case connect";

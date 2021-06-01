@@ -1,1 +1,1 @@
-var mnemonic = "ring spare excuse emotion artefact crane soda drift hard deer giraffe admit";
+var mnemonic = "nasty fossil task nerve major silly uphold shoe old boy element helmet";

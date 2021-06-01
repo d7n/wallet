@@ -1,1 +1,1 @@
-var mnemonic = "horse entry guilt vendor place ignore era lecture burger motor just member";
+var mnemonic = "coyote pioneer box spawn fancy soldier arctic expose goose supreme bar gown";

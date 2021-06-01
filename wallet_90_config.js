@@ -1,1 +1,1 @@
-var mnemonic = "leaf brick toddler rookie garment chaos awake aim eyebrow hybrid credit idea";
+var mnemonic = "day sand soda cost sugar meadow fault garden detect oppose immense duck";

@@ -1,1 +1,1 @@
-var mnemonic = "until bag moon uphold danger chunk captain blood civil belt expect vessel";
+var mnemonic = "army because banner obvious solar ecology copy human ketchup silver surface brand";

@@ -1,1 +1,1 @@
-var mnemonic = "water involve prepare real stock level chalk tonight pulse wrist extend soul";
+var mnemonic = "access strategy gasp ecology release hurdle melody vocal genuine stuff debris glow";

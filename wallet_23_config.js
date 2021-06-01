@@ -1,1 +1,1 @@
-var mnemonic = "net bitter meat buffalo west defense involve unique across lady false rose";
+var mnemonic = "rookie inspire memory monkey rubber gym table pipe vault remind chief choice";

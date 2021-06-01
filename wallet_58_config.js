@@ -1,1 +1,1 @@
-var mnemonic = "acid view proud any sheriff item embark fiscal ring slender moon nerve";
+var mnemonic = "alley blue benefit table crisp auto exact repair actual idle social season";

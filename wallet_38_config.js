@@ -1,1 +1,1 @@
-var mnemonic = "noise cost waste pony travel over oil begin knock traffic remember rhythm";
+var mnemonic = "blush approve wide local verify shy lunar object dinner field evidence pulp";

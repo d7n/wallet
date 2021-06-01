@@ -1,1 +1,1 @@
-var mnemonic = "cactus parade dog borrow sample rack fly broccoli kangaroo wrestle warm faint";
+var mnemonic = "level truly nose armor ethics old lock length identify pyramid text age";

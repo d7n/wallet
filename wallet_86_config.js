@@ -1,1 +1,1 @@
-var mnemonic = "table wrong upset between reunion razor dry parent detail hospital series plate";
+var mnemonic = "identify brain lion rapid damage pond kidney shuffle punch bench sentence can";

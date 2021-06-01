@@ -1,1 +1,1 @@
-var mnemonic = "laptop mother club begin decline brief banner travel reward supreme frog bamboo";
+var mnemonic = "tribe sand indicate viable pupil involve hard erupt already offer autumn switch";

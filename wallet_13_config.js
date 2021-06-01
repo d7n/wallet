@@ -1,1 +1,1 @@
-var mnemonic = "extra goat lend left useful essay grow tuna erase shy before foam";
+var mnemonic = "receive raccoon outside reflect wealth prevent finish cancel wise crater letter project";

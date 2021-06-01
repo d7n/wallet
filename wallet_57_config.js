@@ -1,1 +1,1 @@
-var mnemonic = "mystery creek keep raise parade force luxury drill resist lens check sail";
+var mnemonic = "aware promote sunset night identify feature tip rely jealous pigeon grunt bread";

@@ -1,1 +1,1 @@
-var mnemonic = "express once fun click wheat shaft normal order gaze bomb error design";
+var mnemonic = "stable camp grace glance chicken lawn beach wrist divorce monitor limb trust";

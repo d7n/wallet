@@ -1,1 +1,1 @@
-var mnemonic = "device cable cross blue shock blush skin equal fever allow pear snow";
+var mnemonic = "skate pause when ring either gun road cloud all shrimp kangaroo muffin";

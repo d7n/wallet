@@ -1,1 +1,1 @@
-var mnemonic = "arrange thank device alien toilet obey enter strategy fever stereo path call";
+var mnemonic = "sunset window giggle convince track inherit clarify fitness pool fold forward awesome";

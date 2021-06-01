@@ -1,1 +1,1 @@
-var mnemonic = "marble boring mix want wild gun elevator knock color success equal tide";
+var mnemonic = "stock oil rain trend lazy dutch slow ten again boil prosper baby";

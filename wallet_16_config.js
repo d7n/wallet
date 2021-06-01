@@ -1,1 +1,1 @@
-var mnemonic = "improve early punch mushroom fresh degree provide cry stay prevent turkey innocent";
+var mnemonic = "duck adjust track victory rocket display staff crew rare able entry garment";

@@ -1,1 +1,1 @@
-var mnemonic = "capable dolphin describe gap spot front behave check winter health rather crack";
+var mnemonic = "door sun garden village awesome alcohol viable lyrics guide fan finish flat";

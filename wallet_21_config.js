@@ -1,1 +1,1 @@
-var mnemonic = "nice column planet genius equip boat verify gap fever pink thrive weird";
+var mnemonic = "inmate thumb buffalo picture win kangaroo faculty common meadow fancy twin luxury";

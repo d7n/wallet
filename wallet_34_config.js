@@ -1,1 +1,1 @@
-var mnemonic = "habit much fun cushion swift craft ramp latin wool ramp outside text";
+var mnemonic = "vessel notable curious help stock spider ensure orphan juice update group wealth";

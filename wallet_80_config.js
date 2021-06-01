@@ -1,1 +1,1 @@
-var mnemonic = "sign bacon fee wrestle scorpion bullet range glance lucky glance strategy around";
+var mnemonic = "wolf fit fine rival reason grass antenna coffee property bench twice ugly";

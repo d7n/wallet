@@ -1,1 +1,1 @@
-var mnemonic = "master marine feed visual pulse type toe planet spider vehicle science taste";
+var mnemonic = "tragic recipe much hour silver razor oval pair umbrella blast step problem";

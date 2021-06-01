@@ -1,1 +1,1 @@
-var mnemonic = "brown mutual beyond kitchen casual catalog lumber margin hub decrease trust diesel";
+var mnemonic = "visit immense mechanic infant prison pattern solution castle picture afraid law orange";

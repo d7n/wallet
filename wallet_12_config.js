@@ -1,1 +1,1 @@
-var mnemonic = "oil parrot critic cup again sail oak zoo easily negative laptop solar";
+var mnemonic = "shield jeans fade usage pioneer clinic rare salute truth nothing indicate regret";

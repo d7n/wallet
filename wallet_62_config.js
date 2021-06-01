@@ -1,1 +1,1 @@
-var mnemonic = "tragic setup clog flame start scare example stamp level piano acoustic speed";
+var mnemonic = "thought fame theory always force squirrel town believe modify connect reason solve";

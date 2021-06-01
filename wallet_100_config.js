@@ -1,1 +1,1 @@
-var mnemonic = "close similar mouse charge best spider library state lottery intact elegant toe";
+var mnemonic = "bubble crumble isolate auto stumble soft make match tank taxi victory thunder";

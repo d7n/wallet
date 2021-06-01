@@ -1,1 +1,1 @@
-var mnemonic = "course sausage apology enough asset upset jar whale crouch cherry cigar report";
+var mnemonic = "negative glare diesel van advance goat merit rare require label ankle clown";

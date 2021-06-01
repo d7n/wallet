@@ -1,1 +1,1 @@
-var mnemonic = "jump eternal drift assist snap symptom access multiply glow maple lock guard";
+var mnemonic = "nation cheap address boil citizen finger electric chat select crisp practice bike";

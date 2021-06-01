@@ -1,1 +1,1 @@
-var mnemonic = "machine assume mind verb tumble kingdom promote grow rather permit mirror ozone";
+var mnemonic = "pottery enough text little thought fun candy luxury nation total patient inside";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco girl gate abuse forward frog duty bean elite develop you dream";
+var mnemonic = "leaf nurse gasp boat leader august eager excite name limit very crane";

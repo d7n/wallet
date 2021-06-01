@@ -1,1 +1,1 @@
-var mnemonic = "barrel expose roof hood recipe picnic illegal already engage whisper lucky switch";
+var mnemonic = "apart avoid youth permit acoustic sadness image okay inmate fever suffer glad";

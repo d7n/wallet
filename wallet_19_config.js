@@ -1,1 +1,1 @@
-var mnemonic = "stock fire brief debris explain dinosaur arctic labor cave clump enable come";
+var mnemonic = "forget obey spend field era knock winner stay strategy ordinary neither deputy";

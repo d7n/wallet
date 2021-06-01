@@ -1,1 +1,1 @@
-var mnemonic = "sand banner fabric fox same shine coconut claw clarify nest chimney donor";
+var mnemonic = "brush poet cover buyer wife sorry forest edit cover device concert gun";

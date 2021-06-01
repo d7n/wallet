@@ -1,1 +1,1 @@
-var mnemonic = "drive sketch knife race fortune coconut milk symbol reform until reform hobby";
+var mnemonic = "describe bounce guess pilot chat view fatigue film ask web much share";

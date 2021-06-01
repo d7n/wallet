@@ -1,1 +1,1 @@
-var mnemonic = "reward excess mandate faculty inform push voice claim flee add rice dolphin";
+var mnemonic = "demise fat fantasy corn system rough expand intact eyebrow nuclear reward license";

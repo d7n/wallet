@@ -1,1 +1,1 @@
-var mnemonic = "move merit caution flag autumn pretty urban lava skin sure relax clip";
+var mnemonic = "prison ramp drive lesson winter buddy used rice ketchup unhappy size illegal";

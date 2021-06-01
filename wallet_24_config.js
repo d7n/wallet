@@ -1,1 +1,1 @@
-var mnemonic = "skin enjoy remove junk tribe draft chef festival steel harbor cave engage";
+var mnemonic = "wing demand zebra music trial click gaze good repeat daring choose page";

@@ -1,1 +1,1 @@
-var mnemonic = "insect between split tired sick crime young secret foil holiday phone license";
+var mnemonic = "easily list subway captain birth quiz submit deny wise become volcano loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "appear solution silk talk flip purpose timber final similar diagram seven tribe";
+var mnemonic = "practice pyramid trap menu predict day vacant miss town divorce slab steak";

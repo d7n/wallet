@@ -1,1 +1,1 @@
-var mnemonic = "elevator stand sniff rely figure license lottery slim garment major endorse spray";
+var mnemonic = "outer hip chief volume cloth nuclear grit nominee pepper basic blossom motion";

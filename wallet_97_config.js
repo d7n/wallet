@@ -1,1 +1,1 @@
-var mnemonic = "palace pumpkin cool maid fork spell donate wonder brother virus cream can";
+var mnemonic = "length river letter sphere expand truth bacon bracket charge aunt young lens";

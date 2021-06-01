@@ -1,1 +1,1 @@
-var mnemonic = "earth desert pluck knee fabric slogan excite hunt simple just helmet salt";
+var mnemonic = "camp fork safe flower exclude excite expand fiber oxygen hurry tail hockey";
