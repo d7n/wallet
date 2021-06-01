@@ -1,1 +1,1 @@
-var mnemonic = "trend monster step vanish float cancel fog disorder always mixture blossom asset";
+var mnemonic = "lonely danger boat educate fan rose erupt concert sweet shrimp maple churn";

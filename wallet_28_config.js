@@ -1,1 +1,1 @@
-var mnemonic = "magnet medal world accident kangaroo chaos envelope misery frozen butter learn guide";
+var mnemonic = "person scorpion zebra melody thought soon stumble nuclear negative edge tail chicken";

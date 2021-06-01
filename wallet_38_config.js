@@ -1,1 +1,1 @@
-var mnemonic = "modify alter pull choose access chalk ship laugh noble clog whale raise";
+var mnemonic = "lemon evil help afford position diary enjoy learn obscure photo pull enjoy";

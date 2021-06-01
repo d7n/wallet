@@ -1,1 +1,1 @@
-var mnemonic = "embark hood opinion knife cross devote quantum still general december foot barely";
+var mnemonic = "suggest silver bleak grace tumble wool limit melody great phrase stage melody";

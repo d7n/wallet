@@ -1,1 +1,1 @@
-var mnemonic = "neck obvious term trophy virus pact spatial dentist isolate matrix job prevent";
+var mnemonic = "sunny this island nothing fence toast finger remember spread very lottery turn";

@@ -1,1 +1,1 @@
-var mnemonic = "brand roof sign wine act van rural opinion math faint oil shiver";
+var mnemonic = "wool close word display change organ party sell oval obvious height green";

@@ -1,1 +1,1 @@
-var mnemonic = "already wine fatigue task survey toddler remember merit panda wash menu feed";
+var mnemonic = "can globe thunder again gate fit assist december volume loop spawn elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "curious talent laugh barrel gentle humor refuse slender tongue extra spread furnace";
+var mnemonic = "nerve album split upgrade guide poet rabbit script breeze common dirt pair";

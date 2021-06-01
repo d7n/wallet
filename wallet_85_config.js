@@ -1,1 +1,1 @@
-var mnemonic = "slam tourist fiber corn square cream rough matter reveal ranch sure inspire";
+var mnemonic = "old claw rhythm rhythm hundred window clarify rib liar action width submit";

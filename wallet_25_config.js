@@ -1,1 +1,1 @@
-var mnemonic = "risk smart differ beauty wrap brand ignore already apple hedgehog spare party";
+var mnemonic = "nest height spirit suspect spread sweet carbon vivid tomato olympic inspire gauge";

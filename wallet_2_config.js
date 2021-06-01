@@ -1,1 +1,1 @@
-var mnemonic = "fiscal member dignity abandon praise exile monster dentist sight rookie polar machine";
+var mnemonic = "eye universe swear mandate crop behind casino risk episode sock genre lemon";

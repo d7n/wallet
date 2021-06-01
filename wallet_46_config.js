@@ -1,1 +1,1 @@
-var mnemonic = "broccoli balcony tired afraid girl shadow body cage play waste smooth shed";
+var mnemonic = "liar brief earn chalk fog camp mansion guitar replace small glimpse ozone";

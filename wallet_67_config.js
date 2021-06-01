@@ -1,1 +1,1 @@
-var mnemonic = "much pepper answer scare profit state silver sibling defy wisdom laugh volume";
+var mnemonic = "fix domain fever fortune rug pony blur crack sport horse layer flee";

@@ -1,1 +1,1 @@
-var mnemonic = "grace coach useless child arctic fog fragile member balcony consider extend chest";
+var mnemonic = "eight convince cattle style mouse cactus galaxy gadget alarm proud scissors doll";

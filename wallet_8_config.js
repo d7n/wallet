@@ -1,1 +1,1 @@
-var mnemonic = "junk tone middle remember solution note sustain abstract rude choice voice cousin";
+var mnemonic = "wage mask universe dream sight elephant remove exist hood maze sausage despair";

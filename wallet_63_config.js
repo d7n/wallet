@@ -1,1 +1,1 @@
-var mnemonic = "toe one giggle proud distance ivory game clean burger measure general mouse";
+var mnemonic = "length bargain crane leg castle behind east car crawl action accuse slot";

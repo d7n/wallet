@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bomb melody pink penalty supreme symptom scheme idle rude certain news";
+var mnemonic = "orbit air length armor galaxy employ gun morning february exotic conduct nut";

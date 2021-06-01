@@ -1,1 +1,1 @@
-var mnemonic = "cactus senior cake panther guard merry city comic argue submit eyebrow dutch";
+var mnemonic = "flavor during salt divide chief two silly donor novel huge brand birth";

@@ -1,1 +1,1 @@
-var mnemonic = "detail sketch sport material pitch clog outside egg peanut involve segment diary";
+var mnemonic = "hood net forum what fiber seminar mixed render wrap pulse assume rail";

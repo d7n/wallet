@@ -1,1 +1,1 @@
-var mnemonic = "blade anger bitter warrior menu route oven junior reason steel defense coral";
+var mnemonic = "turn science fly antenna write job lecture fiscal they rail talent alert";

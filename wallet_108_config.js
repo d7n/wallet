@@ -1,1 +1,1 @@
-var mnemonic = "neither truly clump inquiry gold elder good scale brother absorb crouch ring";
+var mnemonic = "dragon harbor sock uncle burger income gloom way photo warm journey engage";

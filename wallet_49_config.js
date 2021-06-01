@@ -1,1 +1,1 @@
-var mnemonic = "negative interest rain angle cool grant hint ranch liquid double maple magnet";
+var mnemonic = "present appear uncover love desk creek behave stairs label hospital error lobster";

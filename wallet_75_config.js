@@ -1,1 +1,1 @@
-var mnemonic = "arrest ski endorse scout enjoy long maid prison tennis mean cherry device";
+var mnemonic = "dream reunion custom reopen dilemma hawk virtual jaguar insane model enact oval";

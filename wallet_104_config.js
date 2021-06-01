@@ -1,1 +1,1 @@
-var mnemonic = "ocean train recall era diesel fashion ivory cliff joy range door relief";
+var mnemonic = "rally health pen desk miss region sign gauge oak enhance abstract pill";

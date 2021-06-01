@@ -1,1 +1,1 @@
-var mnemonic = "dust diary honey swim decline mention divorce art vessel secret claim prize";
+var mnemonic = "item assist right pattern sibling motion act ginger gorilla upon vocal child";

@@ -1,1 +1,1 @@
-var mnemonic = "slab enough abandon charge tell denial truly apple slow engage twenty sun";
+var mnemonic = "provide tray fluid stairs walnut among vocal board stove barrel bar spell";

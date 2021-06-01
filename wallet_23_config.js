@@ -1,1 +1,1 @@
-var mnemonic = "vessel chair swear ginger retire viable uncover muffin affair asthma banner limb";
+var mnemonic = "garlic train escape custom age margin proud people squeeze kind cancel sound";

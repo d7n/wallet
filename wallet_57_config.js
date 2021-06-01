@@ -1,1 +1,1 @@
-var mnemonic = "weird view sister virtual cup harbor general salmon wasp artwork dynamic dolphin";
+var mnemonic = "supply evolve blanket race spring million top number frequent cloth escape erode";

@@ -1,1 +1,1 @@
-var mnemonic = "soul current job sibling pistol chronic surround arctic stable junior roast green";
+var mnemonic = "project toward version assume turn assist only uphold edge achieve else lava";

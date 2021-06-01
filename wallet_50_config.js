@@ -1,1 +1,1 @@
-var mnemonic = "era atom jealous carry cotton point pulse poet prepare flip bulk oyster";
+var mnemonic = "drink ritual tray cricket fee project venue room child legal lounge fortune";

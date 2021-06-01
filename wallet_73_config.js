@@ -1,1 +1,1 @@
-var mnemonic = "venture curve sister achieve autumn people attend warfare offer peasant party journey";
+var mnemonic = "strike universe avoid fragile empty setup nuclear matter boy genius imitate vivid";

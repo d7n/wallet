@@ -1,1 +1,1 @@
-var mnemonic = "cave demand album toward snack unlock aisle kind agree forget ensure winter";
+var mnemonic = "question knife leopard elegant about crash divert know cotton nation much village";

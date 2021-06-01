@@ -1,1 +1,1 @@
-var mnemonic = "wasp myself tumble loop skin void recall task useless crouch mandate donor";
+var mnemonic = "bulb forest paddle usual collect guess own cream present badge renew want";

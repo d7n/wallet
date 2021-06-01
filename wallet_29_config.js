@@ -1,1 +1,1 @@
-var mnemonic = "mad already general pink ability denial surface judge equip sudden mesh struggle";
+var mnemonic = "pull rack surface ramp romance connect hybrid screen country deer clever guard";

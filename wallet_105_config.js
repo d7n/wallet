@@ -1,1 +1,1 @@
-var mnemonic = "machine photo decrease pull kick find silly proud rapid mad high flag";
+var mnemonic = "outer pulp height before neither chief kit gas glow guard same oblige";

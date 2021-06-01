@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit clog pledge awful inform breeze castle garment farm hole gauge monitor";
+var mnemonic = "behave reopen audit park margin congress once ten until various wrap jelly";

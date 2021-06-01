@@ -1,1 +1,1 @@
-var mnemonic = "mad damp blur orphan hundred banana run chicken army chalk circle remove";
+var mnemonic = "kiwi sing rigid vast banner legal fork find water skull huge tunnel";

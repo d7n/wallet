@@ -1,1 +1,1 @@
-var mnemonic = "reveal west better pony calm need broken donkey wise spider purchase share";
+var mnemonic = "vessel approve reason surface wish enrich rather future review energy sail kiwi";

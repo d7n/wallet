@@ -1,1 +1,1 @@
-var mnemonic = "jar swim slush rookie silk razor true this cherry seminar miracle midnight";
+var mnemonic = "boring force render fun joke great property near own pipe disease ride";

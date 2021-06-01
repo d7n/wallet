@@ -1,1 +1,1 @@
-var mnemonic = "world neck youth index brick arrange faculty decide current excuse turkey face";
+var mnemonic = "mango fit lemon toast gather author crash prison floor drive net tag";

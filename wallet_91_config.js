@@ -1,1 +1,1 @@
-var mnemonic = "master ball broken vital height over clay high suit laugh hurry purse";
+var mnemonic = "upgrade board spell trophy climb bottom photo swallow lesson fetch pool enable";

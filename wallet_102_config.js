@@ -1,1 +1,1 @@
-var mnemonic = "account matter piece love shed toddler source whip author unhappy notable remove";
+var mnemonic = "recycle safe rural swing blood gather inmate nothing champion genre novel month";

@@ -1,1 +1,1 @@
-var mnemonic = "alone garlic point jealous summer sheriff enhance climb culture fork horse curtain";
+var mnemonic = "seminar area skin wall protect wage immense orange prepare casino census inch";

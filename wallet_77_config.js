@@ -1,1 +1,1 @@
-var mnemonic = "hire mixed garbage check bring orchard addict inform velvet blast swim remind";
+var mnemonic = "music soda sting vehicle pigeon utility sunset syrup draft afraid venture table";

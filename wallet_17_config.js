@@ -1,1 +1,1 @@
-var mnemonic = "fall local onion frog grunt game another brother lava during vessel author";
+var mnemonic = "cheese captain aisle pioneer bleak moral you give combine already radar slam";

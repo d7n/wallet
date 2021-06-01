@@ -1,1 +1,1 @@
-var mnemonic = "music lab present actor sheriff owner narrow because wrestle battle label kick";
+var mnemonic = "dismiss offer insect pudding wolf drastic burst night chair rule purity problem";

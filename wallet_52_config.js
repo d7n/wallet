@@ -1,1 +1,1 @@
-var mnemonic = "eagle bulb purse champion lecture divide say pink broom sad uncover erupt";
+var mnemonic = "artwork angle soccer tunnel ripple floor dizzy cancel story organ normal capable";

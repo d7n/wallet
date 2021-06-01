@@ -1,1 +1,1 @@
-var mnemonic = "thunder trend dune turkey humble exile moment lift loyal naive tongue remain";
+var mnemonic = "exotic patrol empty talent lake luxury speed shield peace process puppy act";

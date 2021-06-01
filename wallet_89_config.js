@@ -1,1 +1,1 @@
-var mnemonic = "flag crack valley rescue knife wrap pause spin story type hotel drink";
+var mnemonic = "enough pizza monitor leisure bean draw leopard ethics antique limb kidney huge";

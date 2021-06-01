@@ -1,1 +1,1 @@
-var mnemonic = "sense practice pave tongue equip assume easily belt laugh abstract nuclear buzz";
+var mnemonic = "lemon mail vital job strong since expose wink broccoli enroll always mom";

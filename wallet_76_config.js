@@ -1,1 +1,1 @@
-var mnemonic = "oyster fish october hour rent fall fly quiz expose coil gravity winner";
+var mnemonic = "visa tennis talent color east rabbit donkey empty spot maximum metal dolphin";

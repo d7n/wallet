@@ -1,1 +1,1 @@
-var mnemonic = "pool vessel dune matter bike afraid message stay around release rate bridge";
+var mnemonic = "table gloom lumber sock observe beach fat square fox smoke fantasy alien";

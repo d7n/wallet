@@ -1,1 +1,1 @@
-var mnemonic = "oppose predict company sleep label dynamic body aim bridge menu text tongue";
+var mnemonic = "fox market elder rocket sort frozen book naive inherit famous copy south";

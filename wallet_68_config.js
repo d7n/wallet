@@ -1,1 +1,1 @@
-var mnemonic = "boil weapon relief junk crowd warm drastic cigar elite trouble farm quantum";
+var mnemonic = "poet roast reunion click float slice runway improve tissue tell they child";

@@ -1,1 +1,1 @@
-var mnemonic = "message flock air layer family grab method satisfy sugar critic success crouch";
+var mnemonic = "job profit matrix pigeon book inch mobile put riot blue ethics bread";

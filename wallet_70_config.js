@@ -1,1 +1,1 @@
-var mnemonic = "perfect initial zoo scatter admit fuel garlic junk record lounge cream more";
+var mnemonic = "garage artwork icon crazy bamboo bottom luxury ticket master silver grow bonus";

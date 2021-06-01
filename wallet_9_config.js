@@ -1,1 +1,1 @@
-var mnemonic = "maximum equal senior auction useless produce illness virus reward crack valve clutch";
+var mnemonic = "obscure list artwork powder produce miracle napkin dress vault project maple flee";

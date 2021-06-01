@@ -1,1 +1,1 @@
-var mnemonic = "title flame issue recipe nose pulse arch ceiling bench bacon spice actual";
+var mnemonic = "champion kitchen quarter attract opinion ocean weird rigid lonely neck crowd cook";

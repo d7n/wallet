@@ -1,1 +1,1 @@
-var mnemonic = "chimney palace brown people liquid uniform hidden palm curve input minor please";
+var mnemonic = "speak quit slight palm claw leader theory dentist plug notable donate gravity";

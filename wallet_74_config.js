@@ -1,1 +1,1 @@
-var mnemonic = "stone aim welcome train cotton envelope choose light neglect round coach law";
+var mnemonic = "swift account length evidence sun curtain dish turtle second excite garlic boy";

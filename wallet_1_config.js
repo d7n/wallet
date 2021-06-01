@@ -1,1 +1,1 @@
-var mnemonic = "initial utility steak divert ranch abandon table flavor flush process cheap silly";
+var mnemonic = "lab strategy shiver across refuse rural ginger wisdom stove fix flush elegant";

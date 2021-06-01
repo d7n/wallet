@@ -1,1 +1,1 @@
-var mnemonic = "virtual panel panic neglect glory arm web group pigeon alpha about spin";
+var mnemonic = "small expire fortune between visit mesh dose animal gain scheme rather undo";

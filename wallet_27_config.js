@@ -1,1 +1,1 @@
-var mnemonic = "chronic long fence bonus planet guard awful casino range seminar wall bubble";
+var mnemonic = "matrix borrow crystal speak unhappy loop essence mechanic barrel reform seed virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "paper kick method glance earn march diamond quick celery material carbon zebra";
+var mnemonic = "circle garden conduct feel practice rubber advance day inform help worth green";

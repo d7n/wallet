@@ -1,1 +1,1 @@
-var mnemonic = "awkward illegal use color title truth fish essence eager brisk stick artist";
+var mnemonic = "catch naive theory struggle unhappy right hill teach mushroom boat boost vacuum";

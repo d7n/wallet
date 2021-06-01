@@ -1,1 +1,1 @@
-var mnemonic = "situate latin iron section addict alter city fun trust replace adapt right";
+var mnemonic = "expand unhappy steak park amused giggle impose shy depend fork wagon betray";

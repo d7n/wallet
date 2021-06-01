@@ -1,1 +1,1 @@
-var mnemonic = "foam use bread improve learn pear people average expand course shaft pudding";
+var mnemonic = "engine collect mixture treat dose cheese brown jar inform sell farm limb";

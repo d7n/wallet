@@ -1,1 +1,1 @@
-var mnemonic = "seek ginger apple bring cradle club limit romance dizzy chair execute climb";
+var mnemonic = "odor radio act silk latin sort anxiety solution cricket suit teach evidence";

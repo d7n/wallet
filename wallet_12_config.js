@@ -1,1 +1,1 @@
-var mnemonic = "jelly milk coin conduct divert foil elder snake item ordinary asset outside";
+var mnemonic = "toast time grid bag funny forum ahead fly call dial envelope donor";

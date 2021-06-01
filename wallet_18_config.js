@@ -1,1 +1,1 @@
-var mnemonic = "field kick torch today twelve improve grunt when cabin injury amateur pair";
+var mnemonic = "crisp dance glory link gauge middle garlic choice betray foam joke mixture";

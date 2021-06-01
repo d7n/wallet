@@ -1,1 +1,1 @@
-var mnemonic = "pizza kite fish riot grab recipe nature list twist eternal punch castle";
+var mnemonic = "perfect bullet bid ribbon cabbage include only fit glove volcano cup business";

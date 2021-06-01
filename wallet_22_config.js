@@ -1,1 +1,1 @@
-var mnemonic = "express parrot seminar brass hotel display angle bracket dad yellow response result";
+var mnemonic = "cheap inform sail quarter produce approve gallery cushion hole man deposit chicken";

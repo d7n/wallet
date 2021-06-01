@@ -1,1 +1,1 @@
-var mnemonic = "dragon tissue prosper cheap misery squeeze scrap street mixture senior feel valve";
+var mnemonic = "snap legal trumpet iron property nerve industry manage laptop city buffalo arrive";

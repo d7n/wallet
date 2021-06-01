@@ -1,1 +1,1 @@
-var mnemonic = "retire flame into coral life blanket craft quit autumn milk earth demand";
+var mnemonic = "tornado matter mansion rubber cute shift witness auction volume daughter grace life";

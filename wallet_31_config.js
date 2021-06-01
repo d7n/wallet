@@ -1,1 +1,1 @@
-var mnemonic = "range upon divert option pyramid artist blind moon recycle inquiry expect indoor";
+var mnemonic = "wage logic debate begin recycle despair mobile second print glory gadget ship";

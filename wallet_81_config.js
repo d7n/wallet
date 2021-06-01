@@ -1,1 +1,1 @@
-var mnemonic = "tool middle tail rubber galaxy output live lonely scatter pond sauce ginger";
+var mnemonic = "damp wear scan cause trumpet giant pigeon solve icon equal dizzy eagle";

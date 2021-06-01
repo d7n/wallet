@@ -1,1 +1,1 @@
-var mnemonic = "base guard dune clock child renew kit utility cereal poem subway few";
+var mnemonic = "brush trend zebra anxiety caution soap noble payment dog column account club";

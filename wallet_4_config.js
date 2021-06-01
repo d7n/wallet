@@ -1,1 +1,1 @@
-var mnemonic = "long angle ignore crucial lucky emerge absurd bench brick goose shine chuckle";
+var mnemonic = "fork physical caught clever cruise puppy evolve torch minimum weapon fabric pulp";

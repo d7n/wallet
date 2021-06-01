@@ -1,1 +1,1 @@
-var mnemonic = "mechanic canyon eight point fiscal lunar inflict device tongue ranch bulb believe";
+var mnemonic = "phrase action text venue galaxy play sniff flash liberty sibling marble strong";

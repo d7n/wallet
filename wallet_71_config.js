@@ -1,1 +1,1 @@
-var mnemonic = "frown kit eagle kit today chuckle suggest path cabin enrich ski buffalo";
+var mnemonic = "useless dynamic super worth awesome current slab exhibit uniform across indicate matrix";

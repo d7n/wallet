@@ -1,1 +1,1 @@
-var mnemonic = "jacket select hint fancy parent end canal brown debris web bargain miracle";
+var mnemonic = "poet shop sea faculty crawl core kid age network pill cabbage master";

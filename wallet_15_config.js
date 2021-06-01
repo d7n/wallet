@@ -1,1 +1,1 @@
-var mnemonic = "desk dizzy hamster connect size speak tattoo comfort provide pear parent bitter";
+var mnemonic = "chuckle tone acquire grant ramp symptom traffic echo goddess author cloth squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "glass dignity diesel basket corn mansion solar bacon language empty frog then";
+var mnemonic = "seminar subway lazy mammal wear wolf cargo hello physical unlock olive wide";

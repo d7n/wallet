@@ -1,1 +1,1 @@
-var mnemonic = "dove midnight blood lend huge beach legal enhance van unfair ticket phone";
+var mnemonic = "team combine post insane fuel regret short raise december tonight equip already";

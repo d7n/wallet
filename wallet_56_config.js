@@ -1,1 +1,1 @@
-var mnemonic = "arctic nose device grass cliff logic blood two gravity luxury glare latin";
+var mnemonic = "busy idea piano giraffe view eye charge awesome burden drop winner lizard";

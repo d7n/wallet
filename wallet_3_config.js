@@ -1,1 +1,1 @@
-var mnemonic = "tissue mother moral tiger cover walk three truck hotel panther midnight quiz";
+var mnemonic = "heavy inspire first dad insane iron dragon kitchen edge smart aerobic critic";

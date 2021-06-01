@@ -1,1 +1,1 @@
-var mnemonic = "field defy outer expire outside lumber local bridge shift want hamster grace";
+var mnemonic = "caution damp link muffin admit meadow extend satoshi perfect school trim absorb";

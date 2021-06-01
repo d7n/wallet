@@ -1,1 +1,1 @@
-var mnemonic = "bright raven theme artefact pen review supreme diamond crack loyal paddle clean";
+var mnemonic = "journey dove polar tone tackle peanut sad actor draw involve duck liar";
