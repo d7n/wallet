@@ -1,1 +1,1 @@
-var mnemonic = "age grape supply disagree try idle main unknown infant copy asset fatal";
+var mnemonic = "once story beyond girl cheap whale accident dumb carry wheat unable real";

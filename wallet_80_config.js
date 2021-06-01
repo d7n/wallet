@@ -1,1 +1,1 @@
-var mnemonic = "brief case pull index rival host accuse lucky chair dinosaur shy reflect";
+var mnemonic = "attract rule chaos amazing unveil tree labor awesome plug alert history fine";

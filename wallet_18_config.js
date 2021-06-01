@@ -1,1 +1,1 @@
-var mnemonic = "wrap success note inform minor drip champion category elephant clock indoor wealth";
+var mnemonic = "romance lock wall afraid pave warm couple saddle ask sign hockey sunny";

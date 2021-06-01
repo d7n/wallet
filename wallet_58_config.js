@@ -1,1 +1,1 @@
-var mnemonic = "carpet waste can fruit prize demise album rural plunge trophy resist regular";
+var mnemonic = "tape current help season arrow gift juice illegal female sunny flock sport";

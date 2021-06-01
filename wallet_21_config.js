@@ -1,1 +1,1 @@
-var mnemonic = "exchange found park aunt bar foster person save drip join ring olympic";
+var mnemonic = "gospel shadow sadness whisper canal comfort elder wagon pretty tongue industry save";

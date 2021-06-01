@@ -1,1 +1,1 @@
-var mnemonic = "program pelican learn license fiction weasel forest walk tackle multiply kite suffer";
+var mnemonic = "result search impulse blame crisp bridge film runway dumb slim noble weird";

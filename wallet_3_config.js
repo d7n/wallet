@@ -1,1 +1,1 @@
-var mnemonic = "resource script short fossil choice betray whale fetch dinner junior leader gap";
+var mnemonic = "conduct viable scissors vote derive dune hello invest category rack runway proof";

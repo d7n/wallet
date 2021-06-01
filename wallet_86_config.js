@@ -1,1 +1,1 @@
-var mnemonic = "secret letter brand damp shoulder inspire alley toward convince solid indicate cactus";
+var mnemonic = "vital deal adult tornado remember flock turkey humor fit liquid thank extra";

@@ -1,1 +1,1 @@
-var mnemonic = "return leopard cover crew unable rocket idle stairs mobile poem brown dizzy";
+var mnemonic = "goose teach kitchen tourist cliff film balcony bunker month job advance effort";

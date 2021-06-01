@@ -1,1 +1,1 @@
-var mnemonic = "virtual assault nephew boring spend tumble hint bomb minimum pulp lottery pretty";
+var mnemonic = "task moment ribbon treat reveal under cash nothing actress luxury laugh play";

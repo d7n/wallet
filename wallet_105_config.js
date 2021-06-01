@@ -1,1 +1,1 @@
-var mnemonic = "february wedding electric black notice abandon scorpion notice pill perfect sleep carry";
+var mnemonic = "inquiry kick search swear tide broccoli wheat ensure cruel suffer clay vacuum";

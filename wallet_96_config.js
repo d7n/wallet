@@ -1,1 +1,1 @@
-var mnemonic = "dizzy student cool found canyon flag renew pen engage control flee half";
+var mnemonic = "good follow quantum athlete number rude seminar keen file option extra dream";

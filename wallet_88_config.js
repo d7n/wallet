@@ -1,1 +1,1 @@
-var mnemonic = "zebra issue tower grace token shuffle canvas island balance card want obscure";
+var mnemonic = "quit bid amused brush home kite smooth asset boil unable lion fade";

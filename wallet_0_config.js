@@ -1,1 +1,1 @@
-var mnemonic = "solid clerk drama cup stone two brick penalty trash athlete offer deliver";
+var mnemonic = "bench extra impose renew range cement appear differ emotion thing tower rug";

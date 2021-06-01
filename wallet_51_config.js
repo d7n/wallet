@@ -1,1 +1,1 @@
-var mnemonic = "rhythm mango announce ticket news tube twice ketchup question job beach hundred";
+var mnemonic = "crystal enhance limb deny put sure garage camera gift note cable miracle";

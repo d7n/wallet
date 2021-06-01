@@ -1,1 +1,1 @@
-var mnemonic = "monster angry heart peasant blind female hover arena bitter kitchen sea club";
+var mnemonic = "flip evil assist run pulp tank knife caution arrow any machine often";

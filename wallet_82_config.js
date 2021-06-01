@@ -1,1 +1,1 @@
-var mnemonic = "flip soldier aspect document interest flight jewel attract rug cause bunker coral";
+var mnemonic = "coin fossil group rare shine habit clap scare cave canvas neither bike";

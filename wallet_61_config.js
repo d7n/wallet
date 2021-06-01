@@ -1,1 +1,1 @@
-var mnemonic = "still short broom uncle hollow recycle topic maximum laugh company sadness orchard";
+var mnemonic = "split start notice little extra whale piece depth embrace advice taste bubble";

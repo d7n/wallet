@@ -1,1 +1,1 @@
-var mnemonic = "raw must december rocket short bean order armed letter elite random tuna";
+var mnemonic = "desk flat guess morning autumn typical program century exotic patient endless chef";

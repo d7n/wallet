@@ -1,1 +1,1 @@
-var mnemonic = "hello pioneer only balcony injury mountain squeeze infant vivid imitate baby bachelor";
+var mnemonic = "correct shiver vehicle chat ethics absent broccoli tackle human crisp orange indoor";

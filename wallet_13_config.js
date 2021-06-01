@@ -1,1 +1,1 @@
-var mnemonic = "celery guitar light reflect cotton grief hazard snack social gravity modify nerve";
+var mnemonic = "benefit same hover wagon march street hard cheap degree canoe spare weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty peasant real forget switch carpet farm illegal friend spoon invest daughter";
+var mnemonic = "correct hollow index bundle talent throw task answer rabbit faculty sniff path";

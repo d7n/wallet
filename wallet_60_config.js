@@ -1,1 +1,1 @@
-var mnemonic = "tobacco material box minimum awesome fiber lottery crowd wonder fantasy figure normal";
+var mnemonic = "pigeon spawn never oyster perfect assume super under burden move quiz outer";

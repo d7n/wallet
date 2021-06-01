@@ -1,1 +1,1 @@
-var mnemonic = "oil achieve curious emerge light orange income develop stomach category cushion two";
+var mnemonic = "issue pitch truly motion trade bulk garbage silent grab hammer join army";

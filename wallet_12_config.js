@@ -1,1 +1,1 @@
-var mnemonic = "near arctic scout net cage foot demise female update afraid push purchase";
+var mnemonic = "blur render infant faint point trend abstract ceiling security beyond hurdle plunge";

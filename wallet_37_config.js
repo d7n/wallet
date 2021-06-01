@@ -1,1 +1,1 @@
-var mnemonic = "idea auto nation ring method stomach smart divert motor stereo gravity lesson";
+var mnemonic = "forget always plate army whale current medal fork siege steel hawk satisfy";

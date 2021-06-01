@@ -1,1 +1,1 @@
-var mnemonic = "coconut life about audit veteran lounge sunset chicken fault stairs upper black";
+var mnemonic = "never protect swim negative trigger wait monkey mesh submit smart ski supreme";

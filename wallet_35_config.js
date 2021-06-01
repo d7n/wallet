@@ -1,1 +1,1 @@
-var mnemonic = "hunt wheel since creek addict horse thing check report various clever help";
+var mnemonic = "problem educate perfect sand amount rifle tag enrich tattoo mass scheme sample";

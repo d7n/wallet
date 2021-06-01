@@ -1,1 +1,1 @@
-var mnemonic = "rookie opinion own height emerge hawk measure creek filter spatial final battle";
+var mnemonic = "make high matter memory dentist insect mesh float social diary shaft brain";

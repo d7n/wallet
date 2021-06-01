@@ -1,1 +1,1 @@
-var mnemonic = "reveal expand pattern drift breeze travel cherry find brief couch old leg";
+var mnemonic = "cushion autumn moral wrong sport hand average describe sugar jaguar catalog pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel valley lucky gossip scatter joy jelly wedding concert canal juice sort";
+var mnemonic = "frog squirrel spring enlist punch impact tongue dragon stone notice reason collect";

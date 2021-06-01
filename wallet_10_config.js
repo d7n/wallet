@@ -1,1 +1,1 @@
-var mnemonic = "head together can increase width attitude tongue person traffic round coil gesture";
+var mnemonic = "carpet assist grab recipe ethics suspect reflect wet opera calm cake enable";

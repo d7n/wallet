@@ -1,1 +1,1 @@
-var mnemonic = "helmet unveil disorder toss solid sun congress skin reunion horror favorite film";
+var mnemonic = "weasel stage ask argue pretty carpet jacket album liar sword cushion space";

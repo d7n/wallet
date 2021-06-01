@@ -1,1 +1,1 @@
-var mnemonic = "field exclude pupil unveil basket hamster gossip develop swallow chase salon mixture";
+var mnemonic = "unusual biology rule rough season wave guilt scatter style million lamp twist";

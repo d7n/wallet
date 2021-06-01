@@ -1,1 +1,1 @@
-var mnemonic = "sight axis similar wet deer weekend initial submit father inhale bachelor destroy";
+var mnemonic = "service same oyster key female nuclear science neutral time zero anger noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "food orient grass odor actor sausage argue travel future shrimp spray fetch";
+var mnemonic = "spell trend dice roof congress pause gate mule escape access drill dry";

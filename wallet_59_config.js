@@ -1,1 +1,1 @@
-var mnemonic = "endless million save argue black dish wife link people abstract approve sudden";
+var mnemonic = "canvas express merry cactus outer usage pupil soap opinion crater rhythm great";

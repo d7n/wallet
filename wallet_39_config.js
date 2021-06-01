@@ -1,1 +1,1 @@
-var mnemonic = "pizza truly long push system lobster pond quiz brisk century prefer example";
+var mnemonic = "tissue festival midnight lounge say gentle there stand build pulp skull foil";

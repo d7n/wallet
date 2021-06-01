@@ -1,1 +1,1 @@
-var mnemonic = "annual pledge brave sort avoid slush stool intact scrub diesel clinic bottom";
+var mnemonic = "account city copy vote learn sun suggest mad excuse around roof humble";

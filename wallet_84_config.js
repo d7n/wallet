@@ -1,1 +1,1 @@
-var mnemonic = "eagle hollow garden sample resist chimney horror number lemon major inch course";
+var mnemonic = "garden crouch sustain apology gravity dignity sail tilt wheel sign best train";

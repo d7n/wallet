@@ -1,1 +1,1 @@
-var mnemonic = "life soldier where choose engage decorate quote hat throw sponsor token witness";
+var mnemonic = "exhaust actress cloth manual cute hurry among lake urban fabric soft interest";

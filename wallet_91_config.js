@@ -1,1 +1,1 @@
-var mnemonic = "cream mutual divide they alpha police hero journey below curious verb country";
+var mnemonic = "present wasp popular health laugh coral sun vast lecture camera dial defense";

@@ -1,1 +1,1 @@
-var mnemonic = "annual brown west expand eager vendor unknown power execute clock eye goose";
+var mnemonic = "violin night biology exercise hover menu vital alcohol venture air hundred gasp";

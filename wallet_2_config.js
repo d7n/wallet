@@ -1,1 +1,1 @@
-var mnemonic = "fee mirror pioneer fiber embark scrap goddess siege increase home oppose shuffle";
+var mnemonic = "poverty salt business cool ripple gain frequent sunset evil churn bulb huge";

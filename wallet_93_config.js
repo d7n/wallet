@@ -1,1 +1,1 @@
-var mnemonic = "federal shoot hen addict bacon apple apple fiction yellow tomorrow faint sustain";
+var mnemonic = "butter play tape gown loan voice obvious exhaust foster close canyon raccoon";

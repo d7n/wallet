@@ -1,1 +1,1 @@
-var mnemonic = "erase bid modify portion educate together mad empower bunker rug wheel feed";
+var mnemonic = "wood immune flag across creek scorpion flight trick duck connect weird purpose";

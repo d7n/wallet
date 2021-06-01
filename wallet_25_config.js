@@ -1,1 +1,1 @@
-var mnemonic = "video hen million amateur panic token grunt aerobic same lady annual caught";
+var mnemonic = "antenna reform genre father regular quarter flee affair always method energy habit";

@@ -1,1 +1,1 @@
-var mnemonic = "never world best welcome control sunny robust donkey camp cushion pepper slow";
+var mnemonic = "nose absurd flavor hair alley discover parrot olive brief venue bounce acid";

@@ -1,1 +1,1 @@
-var mnemonic = "process music glory december elbow poverty kit silent scare alter dinosaur mass";
+var mnemonic = "roast diary three detect either tribe outdoor hood box jacket couple correct";

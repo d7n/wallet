@@ -1,1 +1,1 @@
-var mnemonic = "drive plug relief soldier tragic dog case switch casual toilet move assist";
+var mnemonic = "problem hover admit congress display beauty usual breeze fit page evil coil";

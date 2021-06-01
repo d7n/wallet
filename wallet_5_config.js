@@ -1,1 +1,1 @@
-var mnemonic = "only plug used range attitude mango danger abuse feel short vote capable";
+var mnemonic = "local wall skull sudden oil dust patch kite quit sausage wide blur";

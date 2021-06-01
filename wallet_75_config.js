@@ -1,1 +1,1 @@
-var mnemonic = "front taxi float illegal slab mandate lazy card honey easily senior lunar";
+var mnemonic = "solar jacket kangaroo learn garlic whip bargain disease secret program start muffin";

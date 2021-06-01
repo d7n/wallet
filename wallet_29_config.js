@@ -1,1 +1,1 @@
-var mnemonic = "purity bus snap describe access discover green practice stove inform erupt legend";
+var mnemonic = "fever today plug ghost rather tribe three comic resist mercy devote path";

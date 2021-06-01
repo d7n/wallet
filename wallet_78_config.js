@@ -1,1 +1,1 @@
-var mnemonic = "soap sweet like absorb leisure misery page obtain detail sign peace fame";
+var mnemonic = "hire merge pass display unique custom choose space column isolate stuff nest";

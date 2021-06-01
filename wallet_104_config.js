@@ -1,1 +1,1 @@
-var mnemonic = "silent insect cart like about cute good repeat swallow column frozen dial";
+var mnemonic = "flag earth receive cancel gravity case pig swim trumpet relax satoshi tip";

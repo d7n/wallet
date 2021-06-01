@@ -1,1 +1,1 @@
-var mnemonic = "grow sand cart blush adjust mobile entire gesture lesson coffee kid odor";
+var mnemonic = "little mimic silly idle shrug kick tell artefact tomorrow ring velvet gap";

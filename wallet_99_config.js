@@ -1,1 +1,1 @@
-var mnemonic = "extra picture always void man mechanic toast ride easily easily warrior exhibit";
+var mnemonic = "absorb school unusual also torch shock lizard tone phone coyote series olive";

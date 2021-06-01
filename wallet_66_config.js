@@ -1,1 +1,1 @@
-var mnemonic = "piece glass phrase prefer theme bicycle ghost cycle inner drip oblige vehicle";
+var mnemonic = "job large juice genre accident tonight border until tank angle agent during";

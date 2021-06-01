@@ -1,1 +1,1 @@
-var mnemonic = "brush say conduct act kidney right spell random outer input rich cloth";
+var mnemonic = "nephew height bench adjust wild upset brand scrap muscle season screen pond";

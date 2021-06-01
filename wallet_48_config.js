@@ -1,1 +1,1 @@
-var mnemonic = "mind coin bag mixed misery decorate noodle remove scout volume mother lounge";
+var mnemonic = "brass shop roast order jacket engine replace letter advice adult crush before";

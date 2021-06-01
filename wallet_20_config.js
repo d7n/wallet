@@ -1,1 +1,1 @@
-var mnemonic = "stable merry gadget attend essay robust ten dumb december south gift merge";
+var mnemonic = "deal divert favorite drip help stone chase address melody first side define";

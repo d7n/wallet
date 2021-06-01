@@ -1,1 +1,1 @@
-var mnemonic = "wear cube vivid neither forward trust grocery father angle cover october off";
+var mnemonic = "play oxygen bunker include toss marble lesson hurdle slogan panel rail alley";

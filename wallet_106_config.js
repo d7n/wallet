@@ -1,1 +1,1 @@
-var mnemonic = "decorate winner awesome volume burst identify laundry transfer lemon noodle ginger wife";
+var mnemonic = "acid smart nurse book cushion target maximum pair retire oxygen soul harsh";

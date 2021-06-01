@@ -1,1 +1,1 @@
-var mnemonic = "treat collect slim cave avoid city shoulder gentle luxury eyebrow chair pass";
+var mnemonic = "gloom bottom annual now grow fault deer scare march heart axis above";

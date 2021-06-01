@@ -1,1 +1,1 @@
-var mnemonic = "genius two sing able bike pistol trial slim poem hammer airport pony";
+var mnemonic = "win price only flush unfold cinnamon thing vessel atom toward cute float";

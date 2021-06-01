@@ -1,1 +1,1 @@
-var mnemonic = "comfort shell sell siege ripple neglect thought jeans sausage illness police general";
+var mnemonic = "tone country narrow dance bullet bench remove tunnel flower machine pair night";

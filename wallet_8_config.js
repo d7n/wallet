@@ -1,1 +1,1 @@
-var mnemonic = "bar desk throw drill axis scrap near start about liquid february perfect";
+var mnemonic = "skull follow emotion armor hello ill cattle sick search gravity kingdom shop";

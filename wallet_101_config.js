@@ -1,1 +1,1 @@
-var mnemonic = "author remain caught hold heavy member fame advance theory adjust know smile";
+var mnemonic = "client nominee simple tape sibling midnight book rural turn margin habit decrease";

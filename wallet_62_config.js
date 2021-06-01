@@ -1,1 +1,1 @@
-var mnemonic = "zone attack vivid nerve business math plug grunt bulk cabin auto soap";
+var mnemonic = "chuckle board swarm earth kiwi piano wage habit pigeon blossom like gadget";

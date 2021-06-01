@@ -1,1 +1,1 @@
-var mnemonic = "apology remain dismiss world fitness song nice muffin maple street organ escape";
+var mnemonic = "betray repeat relief ice enforce invest deliver front merge slogan advance pelican";

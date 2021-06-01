@@ -1,1 +1,1 @@
-var mnemonic = "text virus humble silly relief strong embody uniform junk table donor reject";
+var mnemonic = "crowd advice stairs vote frost swear rhythm thank nuclear maximum metal jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "script rookie buyer mass drive story mystery broom oak approve myth version";
+var mnemonic = "clap blue thing portion waste note cancel wash toy improve tape clerk";

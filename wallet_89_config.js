@@ -1,1 +1,1 @@
-var mnemonic = "citizen creek direct breeze lunch flash problem sport hidden exhaust develop law";
+var mnemonic = "arrest mixture conduct sick awesome badge recycle butter purchase kingdom tower stamp";

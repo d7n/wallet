@@ -1,1 +1,1 @@
-var mnemonic = "nose patrol hungry verify power crisp position giraffe episode donate list final";
+var mnemonic = "brother endorse strike walnut multiply pair diamond pilot shed ripple silly squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn buffalo swing large morning brief prepare vast casual cycle document student";
+var mnemonic = "inmate perfect alcohol voice ecology task elevator gloom siren gym acid dice";

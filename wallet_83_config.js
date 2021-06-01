@@ -1,1 +1,1 @@
-var mnemonic = "weapon okay team occur roof stomach riot ritual certain syrup job seven";
+var mnemonic = "high spin west innocent cross seminar next romance outside sunset speed brisk";

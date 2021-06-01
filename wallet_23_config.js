@@ -1,1 +1,1 @@
-var mnemonic = "enforce remove pet inflict script hedgehog cargo toe lemon mechanic pigeon strike";
+var mnemonic = "umbrella much film mail panel draft infant media join pudding rebel allow";

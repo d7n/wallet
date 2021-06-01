@@ -1,1 +1,1 @@
-var mnemonic = "speed empty away erupt own evolve inform metal void fog amused hospital";
+var mnemonic = "wave echo web unfold media income afraid drive scheme base old spread";

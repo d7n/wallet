@@ -1,1 +1,1 @@
-var mnemonic = "robot concert mesh kid business raven attract knee world miracle inform air";
+var mnemonic = "truck unveil file job key cliff cram warm about grow jelly cake";

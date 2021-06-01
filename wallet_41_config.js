@@ -1,1 +1,1 @@
-var mnemonic = "girl punch flush pupil brick fork flash stand excite occur torch path";
+var mnemonic = "across purchase trash silver glass amount truth inflict elephant climb clay travel";

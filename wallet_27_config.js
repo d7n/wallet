@@ -1,1 +1,1 @@
-var mnemonic = "original shoulder sniff ice network tired balance turkey private scheme bridge distance";
+var mnemonic = "chalk admit target matrix match output congress quantum attract soldier emotion fall";

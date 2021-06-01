@@ -1,1 +1,1 @@
-var mnemonic = "cause balcony rule marriage spin pill vessel siege empower snow mail cart";
+var mnemonic = "suspect flush merit humble once cart helmet fork thought dragon aerobic mansion";

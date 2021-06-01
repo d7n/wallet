@@ -1,1 +1,1 @@
-var mnemonic = "seed term diet veteran asthma often remain limb scatter civil vast false";
+var mnemonic = "crash luxury hidden mobile comic start hold oval warfare metal adjust merge";

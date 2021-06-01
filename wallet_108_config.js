@@ -1,1 +1,1 @@
-var mnemonic = "accuse birth mule daughter choice alien city virus ritual plastic toast poem";
+var mnemonic = "defy couch scare deal embrace apart age spirit unit echo obtain album";

@@ -1,1 +1,1 @@
-var mnemonic = "remind snack receive beef drink abstract melt country digital grant corn century";
+var mnemonic = "main web language asthma wolf lazy brother outer ramp route release divide";

@@ -1,1 +1,1 @@
-var mnemonic = "coast column where gold snack indoor wink style super behind asthma copper";
+var mnemonic = "all hip three float license vocal solar echo purse bonus abstract indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight horse letter trial spend dirt enough theme shell plastic parade nature";
+var mnemonic = "identify toy oak envelope monster harvest stand slim lemon wide bonus party";

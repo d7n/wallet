@@ -1,1 +1,1 @@
-var mnemonic = "grass awkward cupboard search void way disagree smooth fruit unusual cruel disorder";
+var mnemonic = "blossom satisfy tomato indoor because mirror faculty social brush old path dolphin";

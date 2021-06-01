@@ -1,1 +1,1 @@
-var mnemonic = "give mobile sausage draft exhaust army more lift globe unfair impact exclude";
+var mnemonic = "regular net crater pride cigar state any zebra notice else pattern grape";

@@ -1,1 +1,1 @@
-var mnemonic = "pig fan grief husband erosion casual permit box ripple brave fix amazing";
+var mnemonic = "imitate power artist pole ritual finger flash obvious unique narrow thrive welcome";

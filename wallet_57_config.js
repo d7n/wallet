@@ -1,1 +1,1 @@
-var mnemonic = "stay fan example civil search country draft topic exchange come ability valley";
+var mnemonic = "arena sword web rice more neck logic success surprise often fabric punch";
