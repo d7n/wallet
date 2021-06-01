@@ -1,1 +1,1 @@
-var mnemonic = "patient empower recycle bounce essence spare more narrow rebel need bullet point";
+var mnemonic = "sausage element involve craft border nurse rotate alien approve wink correct tree";

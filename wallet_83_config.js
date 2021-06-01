@@ -1,1 +1,1 @@
-var mnemonic = "cost stamp bind strike grunt grunt slot mean focus sell harsh daring";
+var mnemonic = "when rifle another female already plate green hawk gauge april filter tornado";

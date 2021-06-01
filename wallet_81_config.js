@@ -1,1 +1,1 @@
-var mnemonic = "marriage twice party confirm state swift echo depend tribe capable issue insane";
+var mnemonic = "history limb stand ramp sniff smoke swap amount dynamic face april group";

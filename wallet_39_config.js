@@ -1,1 +1,1 @@
-var mnemonic = "type anchor swap response title leave maximum liberty jewel aerobic basket light";
+var mnemonic = "photo tray case draw puppy inspire puppy coffee recycle often wild flag";

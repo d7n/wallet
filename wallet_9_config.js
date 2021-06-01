@@ -1,1 +1,1 @@
-var mnemonic = "fresh apology screen fox then artwork sign swap promote able miss mansion";
+var mnemonic = "loud barely also stay recycle glove best athlete push exchange soon check";

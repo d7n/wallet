@@ -1,1 +1,1 @@
-var mnemonic = "maze canyon draft crisp pull father brief execute action ask ahead because";
+var mnemonic = "derive rent region scrap axis able peace motor ethics eagle brush robot";

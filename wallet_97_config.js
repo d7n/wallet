@@ -1,1 +1,1 @@
-var mnemonic = "swallow blush paddle sleep vital oyster swim steak planet ask organ echo";
+var mnemonic = "candy load kingdom seed shallow word require diamond cricket magic excess suit";

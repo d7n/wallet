@@ -1,1 +1,1 @@
-var mnemonic = "find surround then gallery usual lumber spread win accuse popular music soldier";
+var mnemonic = "movie pond salad movie script casual long foot tennis add parrot hundred";

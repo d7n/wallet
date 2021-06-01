@@ -1,1 +1,1 @@
-var mnemonic = "safe index nerve start oblige desk push economy verify render video mail";
+var mnemonic = "puzzle spring setup region chase hope master noble misery history flock walk";

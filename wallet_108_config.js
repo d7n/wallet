@@ -1,1 +1,1 @@
-var mnemonic = "lamp shoulder unit ankle room wedding arrow forward art urban gold situate";
+var mnemonic = "tower they match tackle grief gravity replace movie blush action better benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel stuff lawsuit cream patrol design coconut travel royal noise priority miss";
+var mnemonic = "excuse glare release slight hockey divorce cook entire member disease solution decide";

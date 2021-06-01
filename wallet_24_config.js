@@ -1,1 +1,1 @@
-var mnemonic = "earth mind shadow subway document limit drama bubble bundle fine code crew";
+var mnemonic = "organ want raven still pair learn million fiscal yard capital float prosper";

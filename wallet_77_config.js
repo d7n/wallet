@@ -1,1 +1,1 @@
-var mnemonic = "disease silk faculty tube fatigue damage biology orbit social mesh west stable";
+var mnemonic = "multiply lemon used arch wrist sword kind diesel slam truth skirt loyal";

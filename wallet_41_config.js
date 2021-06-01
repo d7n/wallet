@@ -1,1 +1,1 @@
-var mnemonic = "ski capital destroy typical salad depend among drip hub walk health buyer";
+var mnemonic = "velvet across echo path client close monster light fatigue monster riot cost";

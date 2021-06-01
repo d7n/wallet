@@ -1,1 +1,1 @@
-var mnemonic = "spy either lion become over basic wall knife cram accident hip weekend";
+var mnemonic = "exhaust bless panic piece flag solid concert hazard return decorate review street";

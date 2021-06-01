@@ -1,1 +1,1 @@
-var mnemonic = "fringe kite conduct success judge velvet update brand wild poet table donate";
+var mnemonic = "blossom chronic ceiling impose crane fish much common angle topic quarter wreck";

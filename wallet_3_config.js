@@ -1,1 +1,1 @@
-var mnemonic = "puppy patient pencil upset east wave drum obtain odor tip swarm donkey";
+var mnemonic = "marriage fold behind ahead taste phrase tuition dizzy shuffle aisle sustain boost";

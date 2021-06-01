@@ -1,1 +1,1 @@
-var mnemonic = "gap vapor rich spice under unaware trumpet smart demise daughter plug arrive";
+var mnemonic = "delay castle nothing six hard ski accuse wreck turkey unveil bike rather";

@@ -1,1 +1,1 @@
-var mnemonic = "embark stick man much salute assist sweet fold egg loud junior goat";
+var mnemonic = "process betray lucky peasant master save water ketchup slab aware mystery cram";

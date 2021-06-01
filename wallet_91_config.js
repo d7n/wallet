@@ -1,1 +1,1 @@
-var mnemonic = "trade hundred kite scale resist fog remind near elegant valve digital please";
+var mnemonic = "fence joy utility test game budget churn clinic arrange kite twist cabbage";

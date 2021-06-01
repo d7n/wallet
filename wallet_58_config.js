@@ -1,1 +1,1 @@
-var mnemonic = "expose note great deal vacuum human silly spot hungry chef bind force";
+var mnemonic = "correct senior laptop few soup wash school better learn affair vocal nothing";

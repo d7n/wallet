@@ -1,1 +1,1 @@
-var mnemonic = "ability company badge reward crop urge cliff manual neglect camp typical business";
+var mnemonic = "dinosaur tiny comfort fork later parent click express goddess course speak engage";

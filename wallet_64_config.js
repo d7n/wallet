@@ -1,1 +1,1 @@
-var mnemonic = "dish flame drum attitude gap senior nation under inject arm pattern teach";
+var mnemonic = "devote region during say weather hen saddle proof upgrade cycle parent century";

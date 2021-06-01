@@ -1,1 +1,1 @@
-var mnemonic = "abstract mix hover setup blue dizzy sauce siege strong tragic follow spoil";
+var mnemonic = "gun nuclear cattle patient valley erode quarter salad piece battle plunge lab";

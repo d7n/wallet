@@ -1,1 +1,1 @@
-var mnemonic = "vault ball goat zebra around blur funny wrong fish head hint mask";
+var mnemonic = "barely behave window slide reason shoulder post blush put round program shine";

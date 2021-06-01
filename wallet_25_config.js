@@ -1,1 +1,1 @@
-var mnemonic = "gather review access then orchard once fog pledge panther action nest jazz";
+var mnemonic = "ketchup alcohol forum runway before glide until alter shell erosion destroy diet";

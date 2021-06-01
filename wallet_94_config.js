@@ -1,1 +1,1 @@
-var mnemonic = "victory inject wine injury mountain during roast degree ability awake nurse clump";
+var mnemonic = "zebra tonight theme enhance reason shrug illness pause chicken gate master among";

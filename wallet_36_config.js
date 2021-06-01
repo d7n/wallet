@@ -1,1 +1,1 @@
-var mnemonic = "nominee clip little shoot cannon trap van dream online gun record garage";
+var mnemonic = "recipe fit slim also sister coil top chaos thrive glass amateur mystery";

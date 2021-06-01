@@ -1,1 +1,1 @@
-var mnemonic = "veteran wrap muscle rival jacket sniff feel penalty outdoor master shaft remain";
+var mnemonic = "squeeze erode garden juice ensure crisp sign term fish ceiling size outer";

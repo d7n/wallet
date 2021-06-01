@@ -1,1 +1,1 @@
-var mnemonic = "month exit chat garlic leader organ carbon snake resist timber horse ketchup";
+var mnemonic = "rookie average want eye hedgehog novel gorilla claim goddess assault state priority";

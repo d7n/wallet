@@ -1,1 +1,1 @@
-var mnemonic = "kiss number blouse one reduce priority purity globe best diagram suffer fox";
+var mnemonic = "actual spatial mention bitter exact agree diary sibling robust peasant season fox";

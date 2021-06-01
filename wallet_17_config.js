@@ -1,1 +1,1 @@
-var mnemonic = "black era expire universe retire bus copy gentle easy near vehicle practice";
+var mnemonic = "anxiety jeans frog youth junk width pill brown tissue enroll picture chalk";

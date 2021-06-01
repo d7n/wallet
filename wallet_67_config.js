@@ -1,1 +1,1 @@
-var mnemonic = "churn toward front grant armed doctor panda stick zoo choose reject stage";
+var mnemonic = "critic rescue castle clip salute move client aware trial decide wool attract";

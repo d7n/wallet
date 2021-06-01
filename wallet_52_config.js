@@ -1,1 +1,1 @@
-var mnemonic = "repair brick audit lunar exhibit square discover hole mean junior inmate inflict";
+var mnemonic = "charge answer flag mesh athlete test balance purse explain effort reunion today";

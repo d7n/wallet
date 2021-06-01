@@ -1,1 +1,1 @@
-var mnemonic = "distance finger piano jaguar correct wife payment base whip sock black chimney";
+var mnemonic = "school minimum expose attack search radar language annual category huge wreck father";

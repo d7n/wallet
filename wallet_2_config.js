@@ -1,1 +1,1 @@
-var mnemonic = "click copper discover prevent tool birth pole tonight oblige curtain help valley";
+var mnemonic = "lumber predict grow relax trash bid fresh divert rail bacon pigeon cinnamon";

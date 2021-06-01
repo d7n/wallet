@@ -1,1 +1,1 @@
-var mnemonic = "away silk decline pattern find fitness shell smoke license meadow connect develop";
+var mnemonic = "loyal shield pulse viable addict draft response hedgehog assault butter live ozone";

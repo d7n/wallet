@@ -1,1 +1,1 @@
-var mnemonic = "parent member tumble float carpet february cabin danger wheat expand top topic";
+var mnemonic = "shuffle number chapter noble they family bless patient inmate long wheel fringe";

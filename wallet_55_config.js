@@ -1,1 +1,1 @@
-var mnemonic = "act movie taste lonely enrich rude bread syrup lunar oyster above face";
+var mnemonic = "seat blanket mango rapid corn visit disorder major flock logic veteran luxury";

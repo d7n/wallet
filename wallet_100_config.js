@@ -1,1 +1,1 @@
-var mnemonic = "fun report kitchen strategy cave way february pill owner bullet because solve";
+var mnemonic = "regular update emotion oval daring identify square convince nephew student twice option";

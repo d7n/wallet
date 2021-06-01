@@ -1,1 +1,1 @@
-var mnemonic = "govern live gallery glide fashion track hungry accident consider gorilla document visual";
+var mnemonic = "kidney choose eternal turn ocean thrive wall empower inform fatal outside during";

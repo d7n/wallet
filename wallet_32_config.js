@@ -1,1 +1,1 @@
-var mnemonic = "farm actual wood vacant rose board winter modify way alarm lucky erode";
+var mnemonic = "tool choose cream leg settle bind bounce praise unique donkey catch tourist";

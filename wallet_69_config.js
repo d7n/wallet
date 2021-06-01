@@ -1,1 +1,1 @@
-var mnemonic = "job stock shine hood brown stem cigar silver fringe scorpion sibling draw";
+var mnemonic = "glow gadget actual model pact moon era brass spare goat other buyer";

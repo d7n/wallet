@@ -1,1 +1,1 @@
-var mnemonic = "slot imitate attack flock hawk cash neglect inquiry youth ankle economy burst";
+var mnemonic = "kitchen kick dinner board van glide picture that vast elbow snow give";

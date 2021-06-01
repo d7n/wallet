@@ -1,1 +1,1 @@
-var mnemonic = "blanket treat want moral board sugar view cricket tongue uphold truly sign";
+var mnemonic = "polar mercy maid legend knock ten hope cannon stadium nurse horn old";

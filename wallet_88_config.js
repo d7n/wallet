@@ -1,1 +1,1 @@
-var mnemonic = "gate enough point salute head miss tiger domain glass govern volcano display";
+var mnemonic = "machine census calm increase uncle biology zebra filter fitness machine furnace vapor";

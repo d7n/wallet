@@ -1,1 +1,1 @@
-var mnemonic = "decade divide seven gain vessel rookie movie display ocean shiver paddle cancel";
+var mnemonic = "merge illegal poem language congress old palace floor pass skill cactus produce";

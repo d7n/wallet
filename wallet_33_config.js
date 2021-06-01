@@ -1,1 +1,1 @@
-var mnemonic = "prevent online distance evil coral artefact silk despair audit plug assault panda";
+var mnemonic = "pear payment tree chest run area glass park angle mutual frog maple";

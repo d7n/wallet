@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo about response execute cotton shoulder vivid crush diary worth pause rescue";
+var mnemonic = "apple jeans crystal fade brand team laundry lucky junk capital crush train";

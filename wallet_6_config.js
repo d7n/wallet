@@ -1,1 +1,1 @@
-var mnemonic = "example monitor seed fruit absurd jealous similar cigar convince then screen armed";
+var mnemonic = "desk bone blast swear alert move picnic tail time silent inherit settle";

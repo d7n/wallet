@@ -1,1 +1,1 @@
-var mnemonic = "meat aerobic letter real also infant cat market caution around ball very";
+var mnemonic = "meat shed moment profit ocean artefact seek glimpse oppose shop museum motion";

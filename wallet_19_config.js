@@ -1,1 +1,1 @@
-var mnemonic = "century silver peace army try soup drama venture soup company copy second";
+var mnemonic = "state supreme rack easily youth random jeans tray claim elbow tenant core";

@@ -1,1 +1,1 @@
-var mnemonic = "census lazy offer roof oxygen tennis frog kind check pave car gorilla";
+var mnemonic = "adult street few van hockey apology half barely chief sense patrol banner";

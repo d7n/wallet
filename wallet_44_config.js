@@ -1,1 +1,1 @@
-var mnemonic = "toast connect fancy estate super public lounge round lady this snap basic";
+var mnemonic = "thank tornado luxury history shine coral film buddy wrist fatigue blind master";

@@ -1,1 +1,1 @@
-var mnemonic = "describe index guitar amateur increase saddle embrace arctic area crack bicycle favorite";
+var mnemonic = "you question frost side soldier smart hello inside hat foster airport purchase";

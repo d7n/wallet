@@ -1,1 +1,1 @@
-var mnemonic = "rookie tip range soccer flight again scrap impulse dove kiss steel kiwi";
+var mnemonic = "shadow notable slim candy unusual warfare fade acid hobby wolf grit town";

@@ -1,1 +1,1 @@
-var mnemonic = "need penalty net jaguar young debate fuel million found great easy blush";
+var mnemonic = "cube recipe staff sausage defense myself section shoot soul truck subway rescue";

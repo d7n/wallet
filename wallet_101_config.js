@@ -1,1 +1,1 @@
-var mnemonic = "detail slim wrist supply sentence ready fog dose logic video industry unlock";
+var mnemonic = "control health rate antenna render rebel equip return fashion catalog stock kite";

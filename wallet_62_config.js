@@ -1,1 +1,1 @@
-var mnemonic = "table casino crime property govern sister nurse outdoor blouse exact either direct";
+var mnemonic = "shuffle move piece drop nice alien brass return moral scrub zero boost";

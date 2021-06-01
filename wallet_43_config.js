@@ -1,1 +1,1 @@
-var mnemonic = "affair young couple height piece alley hybrid figure auction end stem conduct";
+var mnemonic = "lake electric obvious drink dial guide bronze feed buzz plate thing upset";

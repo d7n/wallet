@@ -1,1 +1,1 @@
-var mnemonic = "video library crouch abuse damage fresh write argue nurse mind record payment";
+var mnemonic = "chapter rate rabbit journey escape asthma certain harbor force misery sell decide";

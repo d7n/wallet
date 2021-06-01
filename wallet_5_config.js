@@ -1,1 +1,1 @@
-var mnemonic = "movie coyote frozen fatigue bounce neither pilot animal want yellow math core";
+var mnemonic = "assault current frozen creek civil slam sock dance trip bounce solid solar";

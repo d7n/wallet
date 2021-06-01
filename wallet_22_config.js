@@ -1,1 +1,1 @@
-var mnemonic = "nut unfair siege body easily clip board tribe memory blossom alpha cruise";
+var mnemonic = "symbol year scare toast bench select fall leave jazz spell erupt minor";

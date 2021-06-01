@@ -1,1 +1,1 @@
-var mnemonic = "obey ship menu present arch usual already bomb move intact pumpkin diet";
+var mnemonic = "head current enhance table oyster small piece nurse awake warrior february modify";

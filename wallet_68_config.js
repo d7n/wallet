@@ -1,1 +1,1 @@
-var mnemonic = "fancy scatter ethics skirt transfer black cannon satoshi purpose shaft border whisper";
+var mnemonic = "hobby book awesome govern lend mountain mix frost ready glory birth gather";

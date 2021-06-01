@@ -1,1 +1,1 @@
-var mnemonic = "wash song stay symbol enforce library squirrel frame detail cross text pistol";
+var mnemonic = "tree axis enact grab one fury damage draw stairs patient help cube";

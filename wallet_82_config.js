@@ -1,1 +1,1 @@
-var mnemonic = "breeze nature genre same surround retire wine enhance cousin lion grain blind";
+var mnemonic = "language know neck end horn small decline inch empty gate unlock around";

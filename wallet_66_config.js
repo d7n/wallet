@@ -1,1 +1,1 @@
-var mnemonic = "connect puzzle muffin price clever december bulb cause couch estate salt whip";
+var mnemonic = "teach garage glare chaos danger account soul grunt gadget romance bargain science";

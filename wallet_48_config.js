@@ -1,1 +1,1 @@
-var mnemonic = "waste put coffee chapter stairs become area enough beauty gym minor response";
+var mnemonic = "like donor cry such drip use second ten human embrace health physical";

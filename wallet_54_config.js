@@ -1,1 +1,1 @@
-var mnemonic = "enough cup fork cinnamon south cradle civil junior slight soccer aunt buddy";
+var mnemonic = "solid all lonely south charge develop fluid steel angry cost wrist favorite";

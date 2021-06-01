@@ -1,1 +1,1 @@
-var mnemonic = "bread marriage next average dad horn hold illness renew harbor wash idea";
+var mnemonic = "pave round know unusual visa cherry decorate exotic also hawk prefer rotate";

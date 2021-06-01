@@ -1,1 +1,1 @@
-var mnemonic = "climb soup modify phone hope amount fire ribbon enroll run dilemma always";
+var mnemonic = "utility cheap surprise quit sentence rail such creek blood reform bind leg";

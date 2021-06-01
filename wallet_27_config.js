@@ -1,1 +1,1 @@
-var mnemonic = "anger output sketch inner glare reduce chuckle rich trend cancel sweet spring";
+var mnemonic = "hungry nation resource artefact drip romance cinnamon century target shiver zero shadow";

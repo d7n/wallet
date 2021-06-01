@@ -1,1 +1,1 @@
-var mnemonic = "multiply monitor clog garment sunset spoil faint hurry size torch mosquito glow";
+var mnemonic = "mandate wheel smoke rival planet joke bachelor panic trash rent today alarm";

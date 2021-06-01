@@ -1,1 +1,1 @@
-var mnemonic = "visit enact viable alone clip flip rescue suit smoke trumpet stamp capable";
+var mnemonic = "circle pluck soup gadget praise cute dream later room creek north vintage";

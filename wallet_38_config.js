@@ -1,1 +1,1 @@
-var mnemonic = "boil add document dinner muscle simple main imitate catalog erosion turtle crater";
+var mnemonic = "lesson gas rebuild song clog sail bargain pride pelican crew time rose";

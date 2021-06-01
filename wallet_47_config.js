@@ -1,1 +1,1 @@
-var mnemonic = "lecture void flock raw jewel differ illegal direct pudding bachelor zoo budget";
+var mnemonic = "dice cigar link alter actual wink wrestle immense capital good pull farm";

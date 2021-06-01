@@ -1,1 +1,1 @@
-var mnemonic = "valid act slush wash crack multiply despair urban tray depart left gap";
+var mnemonic = "brick among general athlete debate another trend twice where please ensure auction";

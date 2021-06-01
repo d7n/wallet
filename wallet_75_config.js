@@ -1,1 +1,1 @@
-var mnemonic = "pig pretty awesome kind execute develop captain razor chapter wreck pause material";
+var mnemonic = "vehicle moral major pen rocket average leaf sight acquire solution someone theory";
