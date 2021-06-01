@@ -1,1 +1,1 @@
-var mnemonic = "inflict budget duty arm return peanut hub top post fatal inject jazz";
+var mnemonic = "material ten silk confirm there square intact dog stick mad depth great";

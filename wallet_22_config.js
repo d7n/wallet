@@ -1,1 +1,1 @@
-var mnemonic = "ripple flush estate badge raven gate correct calm cash blanket camp crawl";
+var mnemonic = "marine this involve device blame remove direct tuna doll method tape shallow";

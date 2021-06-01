@@ -1,1 +1,1 @@
-var mnemonic = "gesture ahead predict mad rice stage drill glad curtain exhibit dog gap";
+var mnemonic = "hero fabric corn prepare online finger film lunch way buzz fun field";

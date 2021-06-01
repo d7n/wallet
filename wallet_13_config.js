@@ -1,1 +1,1 @@
-var mnemonic = "march together sea quality render oil dog super anger sustain success mosquito";
+var mnemonic = "fan advance note width urban clerk ball monitor arctic devote present fortune";

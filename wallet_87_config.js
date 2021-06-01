@@ -1,1 +1,1 @@
-var mnemonic = "elephant excess fitness dilemma peace latin exile episode toy coast hat danger";
+var mnemonic = "phone horse cherry rocket disagree adjust middle scheme color diet edit ski";

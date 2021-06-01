@@ -1,1 +1,1 @@
-var mnemonic = "humor reform speed gloom father bonus boss match copy liberty hedgehog salt";
+var mnemonic = "mind wagon group lunar light history joy drip impact hunt feed cradle";

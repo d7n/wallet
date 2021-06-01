@@ -1,1 +1,1 @@
-var mnemonic = "praise winter shrimp tornado rally sudden cost hand cluster mimic review must";
+var mnemonic = "fall tiger drop spare force once debate ghost enhance small coconut trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber elegant argue panic screen expire initial liquid casino jelly embody warm";
+var mnemonic = "damp spread wrong ability vague wash grit debate print surround crisp gauge";

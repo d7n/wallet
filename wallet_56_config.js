@@ -1,1 +1,1 @@
-var mnemonic = "file achieve offer mountain cave hood wrong celery own sunset wild dune";
+var mnemonic = "wise onion welcome profit asset urban exhaust rival item joy price hazard";

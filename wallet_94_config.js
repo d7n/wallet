@@ -1,1 +1,1 @@
-var mnemonic = "marine scheme subway bring elevator cross certain one limit car buffalo assault";
+var mnemonic = "bronze armed health month assault refuse ugly marine kit evil carry speed";

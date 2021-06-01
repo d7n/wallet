@@ -1,1 +1,1 @@
-var mnemonic = "scare rabbit walnut only lock about again crystal upgrade maple tape author";
+var mnemonic = "bus panda dynamic fame virus laundry sand piece timber truly attitude matter";

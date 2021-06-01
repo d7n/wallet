@@ -1,1 +1,1 @@
-var mnemonic = "index angle casino simple bundle alcohol blossom asset hobby upon rail work";
+var mnemonic = "fancy range coin silly apple process carpet trumpet fire tattoo embark riot";

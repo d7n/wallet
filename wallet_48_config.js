@@ -1,1 +1,1 @@
-var mnemonic = "actual agree habit hungry settle win grunt mind solution shadow unknown horror";
+var mnemonic = "broom pride void wet spoil remove mimic evoke thunder grief bulk galaxy";

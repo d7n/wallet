@@ -1,1 +1,1 @@
-var mnemonic = "soccer core undo hungry symptom method sibling neck random scale bring silk";
+var mnemonic = "reform capable better delay network install marriage shoot polar stove city dose";

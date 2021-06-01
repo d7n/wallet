@@ -1,1 +1,1 @@
-var mnemonic = "limit cause local eagle parent cabin muscle note junior deputy educate upper";
+var mnemonic = "genre arrange few child major jar matter soap success talent coin interest";

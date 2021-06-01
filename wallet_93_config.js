@@ -1,1 +1,1 @@
-var mnemonic = "half boring settle visa shoe hurt fruit merit twenty task comfort pen";
+var mnemonic = "civil recall tray crouch pony buffalo mix timber prosper foot business wait";

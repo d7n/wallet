@@ -1,1 +1,1 @@
-var mnemonic = "pink supply turkey web drift drum lava service gloom idle law range";
+var mnemonic = "rescue silly victory cabbage phrase only slow fix armor water siege menu";

@@ -1,1 +1,1 @@
-var mnemonic = "hip aspect style three wire popular flock lumber garlic pass correct warm";
+var mnemonic = "depth miss right prize impose swamp lawsuit almost water sense flush dish";

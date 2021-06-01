@@ -1,1 +1,1 @@
-var mnemonic = "glove surge calm subway shadow rocket pepper repair dilemma flag boring either";
+var mnemonic = "shove shoot clean then unveil fit soccer elite water bless gaze dizzy";

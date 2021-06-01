@@ -1,1 +1,1 @@
-var mnemonic = "burden armed barrel ripple bar horse patrol witness adapt inquiry fringe panic";
+var mnemonic = "toss expect resist wisdom blanket plastic elevator prize inner swallow spy oven";

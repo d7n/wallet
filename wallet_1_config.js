@@ -1,1 +1,1 @@
-var mnemonic = "width park snack assume fly expand woman weapon gorilla case unfair affair";
+var mnemonic = "learn trial history tiger olive length toward pepper only gesture hard tomato";

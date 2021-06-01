@@ -1,1 +1,1 @@
-var mnemonic = "mention excuse spike monkey grab genre planet collect expose roof cannon input";
+var mnemonic = "trap gallery tape riot erase betray evidence guide few profit swing fine";

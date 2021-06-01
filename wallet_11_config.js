@@ -1,1 +1,1 @@
-var mnemonic = "palm tomato elder alarm poem ecology present truth news magic snake embark";
+var mnemonic = "devote civil tone prefer illness crisp equip enter quarter eagle topic mean";

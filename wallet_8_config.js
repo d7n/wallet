@@ -1,1 +1,1 @@
-var mnemonic = "picture bird refuse survey pencil people refuse you prison lonely doll rapid";
+var mnemonic = "goddess episode cake effort math fan rifle pudding expect island social food";

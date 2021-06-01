@@ -1,1 +1,1 @@
-var mnemonic = "farm place visit soft joke denial arrow album end lesson glory basket";
+var mnemonic = "avoid neutral horse loop confirm deliver happy organ town rule industry jewel";

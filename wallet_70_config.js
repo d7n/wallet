@@ -1,1 +1,1 @@
-var mnemonic = "example wall trust bleak innocent give ring wedding clarify gesture hero jacket";
+var mnemonic = "brave blossom recipe bounce tornado slam first disease board embark useful cheese";

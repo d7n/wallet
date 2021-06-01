@@ -1,1 +1,1 @@
-var mnemonic = "estate panel plate nerve clutch stadium cause noise laptop refuse release increase";
+var mnemonic = "common adult miss discover acoustic client duty sunny eagle pet join joke";

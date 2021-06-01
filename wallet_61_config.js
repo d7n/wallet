@@ -1,1 +1,1 @@
-var mnemonic = "stand weapon shadow royal script victory ancient asthma auction fat snow decrease";
+var mnemonic = "task end vendor pull alien hill spike embrace solid alter spring canoe";

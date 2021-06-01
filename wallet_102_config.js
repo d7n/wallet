@@ -1,1 +1,1 @@
-var mnemonic = "fragile sea swear soap sense sweet meadow rescue remain clever crouch husband";
+var mnemonic = "garbage estate prepare cluster capital donate solid taste autumn rally action weekend";

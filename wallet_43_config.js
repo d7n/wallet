@@ -1,1 +1,1 @@
-var mnemonic = "cruise welcome monitor immune point upgrade web rotate trust merge lemon vessel";
+var mnemonic = "fluid hungry road judge gaze cube enlist require stairs fan powder income";

@@ -1,1 +1,1 @@
-var mnemonic = "across right exotic inherit nominee brass access frozen crater actual slight often";
+var mnemonic = "actress crunch claw tongue tribe wonder cloud recall image state play vote";

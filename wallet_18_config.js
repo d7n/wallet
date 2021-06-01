@@ -1,1 +1,1 @@
-var mnemonic = "bread physical age rain birth census trigger yard pen improve minimum photo";
+var mnemonic = "keep victory inflict brother vendor below because orphan today hint work fade";

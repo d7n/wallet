@@ -1,1 +1,1 @@
-var mnemonic = "cube clerk snake nominee room damp museum bike stock oblige quantum twin";
+var mnemonic = "garden become alert produce power law farm able away live forum blur";

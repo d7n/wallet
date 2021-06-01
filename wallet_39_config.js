@@ -1,1 +1,1 @@
-var mnemonic = "desk survey author payment finger profit worth endorse clutch piano sea story";
+var mnemonic = "banana drill major void grab patient door tent title next truck either";

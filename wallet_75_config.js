@@ -1,1 +1,1 @@
-var mnemonic = "viable nose found spike fitness never pig addict health talk average tackle";
+var mnemonic = "reflect shop drip tuition bounce inch kit guide boring army trial dance";

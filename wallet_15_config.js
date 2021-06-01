@@ -1,1 +1,1 @@
-var mnemonic = "manual useful bridge universe rookie rapid arrest already interest shield pipe current";
+var mnemonic = "govern cube turtle crunch mind cliff main job tool street edit budget";

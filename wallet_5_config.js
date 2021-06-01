@@ -1,1 +1,1 @@
-var mnemonic = "initial benefit boat globe pitch lumber rail inspire become security tomorrow size";
+var mnemonic = "engage matrix name reunion dune two all torch filter night jump scene";

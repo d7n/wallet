@@ -1,1 +1,1 @@
-var mnemonic = "marine tackle slab benefit suggest pretty allow choice fame spatial turkey punch";
+var mnemonic = "sock test room virus face install dilemma erode coin cannon ball mouse";

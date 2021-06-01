@@ -1,1 +1,1 @@
-var mnemonic = "host hat material earth seat sketch royal believe advance pyramid humor almost";
+var mnemonic = "casino raw iron company regular spend jar foam airport solve glass virtual";

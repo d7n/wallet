@@ -1,1 +1,1 @@
-var mnemonic = "target wine similar yellow indicate they best negative nurse reform increase box";
+var mnemonic = "athlete great conduct message exclude cluster soldier struggle maple predict faint girl";

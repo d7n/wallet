@@ -1,1 +1,1 @@
-var mnemonic = "trigger joy word huge submit nice stadium dream sunny track mixture style";
+var mnemonic = "coral insane snap napkin rookie dress welcome upgrade snack attitude appear typical";

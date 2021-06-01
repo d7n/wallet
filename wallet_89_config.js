@@ -1,1 +1,1 @@
-var mnemonic = "level cover simple news patch convince arch iron shove lock miss unhappy";
+var mnemonic = "bronze trust weapon gospel pelican educate south connect write casual conduct bitter";

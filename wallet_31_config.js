@@ -1,1 +1,1 @@
-var mnemonic = "winner view prevent spring pave need chaos second must disease wrap warm";
+var mnemonic = "bomb edge essence never this water draw upset pudding produce animal bracket";

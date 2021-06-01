@@ -1,1 +1,1 @@
-var mnemonic = "valley half hollow cabbage cannon subject kidney giraffe celery hold happy oblige";
+var mnemonic = "input sorry trip define shiver tortoise ahead dress mad obey fantasy hood";

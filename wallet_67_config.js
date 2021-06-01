@@ -1,1 +1,1 @@
-var mnemonic = "nose follow fluid zebra antenna drive mention sea sustain nothing lab cool";
+var mnemonic = "absurd camp canal shell flower garage anxiety fringe hybrid usage judge clay";

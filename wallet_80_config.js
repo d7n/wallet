@@ -1,1 +1,1 @@
-var mnemonic = "use invest derive image cigar agent few lumber oyster unknown this bottom";
+var mnemonic = "female zebra female wire clinic penalty clerk speed jacket anger clap quality";

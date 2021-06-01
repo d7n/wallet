@@ -1,1 +1,1 @@
-var mnemonic = "already crop must stool cinnamon lend mistake trim century ice draft sample";
+var mnemonic = "penalty head tiger someone tomorrow meadow immune hybrid blame desert radio snow";

@@ -1,1 +1,1 @@
-var mnemonic = "leg tank holiday tonight exhibit truck strike salon trust crew balcony saddle";
+var mnemonic = "hour ignore connect one height junior walnut hire fan defense jar produce";

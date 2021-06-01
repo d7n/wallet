@@ -1,1 +1,1 @@
-var mnemonic = "cherry ladder snow expose buyer hungry subway catch champion balance plunge expire";
+var mnemonic = "output royal hollow relief excess aim green rally lake please hire inquiry";

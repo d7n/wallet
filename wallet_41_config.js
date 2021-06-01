@@ -1,1 +1,1 @@
-var mnemonic = "scrap phone must indicate slush armed icon garlic oyster space about company";
+var mnemonic = "item monster render damage ability intact engine polar humor syrup foster vapor";

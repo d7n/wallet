@@ -1,1 +1,1 @@
-var mnemonic = "grid wasp range sure north appear already address word junk couple vanish";
+var mnemonic = "oval inquiry save husband under clump decide industry soul bring tray monitor";

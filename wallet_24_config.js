@@ -1,1 +1,1 @@
-var mnemonic = "review save combine twelve draw forget happy maze correct risk voyage middle";
+var mnemonic = "one bind jealous above census cargo glass photo beach submit pluck device";

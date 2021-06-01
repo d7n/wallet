@@ -1,1 +1,1 @@
-var mnemonic = "net picnic sell long friend until weird cage arrange any shuffle dizzy";
+var mnemonic = "rural parent season photo topic short color kick leader bomb stamp alpha";

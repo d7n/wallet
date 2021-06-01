@@ -1,1 +1,1 @@
-var mnemonic = "romance hat debate dress write write limb legend castle swing sausage total";
+var mnemonic = "catch blossom deer shift music review chronic series pink often summer cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup attitude liberty sick weird slam south clump limit popular taxi access";
+var mnemonic = "eye treat hub mom question great rifle write enough anchor soon because";

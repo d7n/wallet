@@ -1,1 +1,1 @@
-var mnemonic = "tail miss spice forum energy boring text board flag ramp senior sight";
+var mnemonic = "hard describe jeans exhibit despair rocket apple rural arctic soon fire tuna";

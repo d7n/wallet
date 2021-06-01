@@ -1,1 +1,1 @@
-var mnemonic = "risk disagree unaware describe climb alarm beauty toss check celery mail broccoli";
+var mnemonic = "wear miss receive gallery deposit throw multiply drop cook knife nature puppy";

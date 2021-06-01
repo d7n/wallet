@@ -1,1 +1,1 @@
-var mnemonic = "credit book keen salute citizen prison differ delay robot silent minor endorse";
+var mnemonic = "lake please repair library unlock margin lawsuit length concert sense fox curious";

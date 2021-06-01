@@ -1,1 +1,1 @@
-var mnemonic = "scrub security issue only comfort squirrel zoo tube gentle magnet multiply reject";
+var mnemonic = "false fury owner core trend way liar hospital number fiber wood shop";

@@ -1,1 +1,1 @@
-var mnemonic = "car portion chalk physical sight earth lion salon damage suggest notable erode";
+var mnemonic = "mammal web monster cable goddess crop cook sick salt enforce scare artwork";

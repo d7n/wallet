@@ -1,1 +1,1 @@
-var mnemonic = "mosquito cluster slogan chef view develop muffin tobacco ketchup brass grid aisle";
+var mnemonic = "steel erase armor scissors spin maid have purpose bottom month life wish";

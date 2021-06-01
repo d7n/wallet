@@ -1,1 +1,1 @@
-var mnemonic = "yellow mix slogan paper concert found raise door knee steel ozone sentence";
+var mnemonic = "worth vast jewel vacuum matrix kangaroo inspire mammal glimpse poverty escape curious";

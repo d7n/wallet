@@ -1,1 +1,1 @@
-var mnemonic = "shoe luxury antique cannon latin hunt burden mixture era craft define oak";
+var mnemonic = "escape defense cream crush alien into rough target monitor relief census drink";

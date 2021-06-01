@@ -1,1 +1,1 @@
-var mnemonic = "you zoo face clutch museum weather split tiger enjoy mutual minimum injury";
+var mnemonic = "total six reopen speak rival remind doctor chapter tide leisure okay company";

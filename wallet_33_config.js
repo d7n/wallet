@@ -1,1 +1,1 @@
-var mnemonic = "own choice beach adapt better pitch world stomach reduce reveal divide just";
+var mnemonic = "rail dose green clap winter draft entire differ lake sauce build clinic";

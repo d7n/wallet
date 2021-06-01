@@ -1,1 +1,1 @@
-var mnemonic = "lyrics unusual wheel jump orphan punch marine vacuum hard mind thrive color";
+var mnemonic = "memory veteran way craft double advance bicycle fortune pilot bitter grace wing";

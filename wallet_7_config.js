@@ -1,1 +1,1 @@
-var mnemonic = "same valid giant derive canyon music ugly battle front slot initial enforce";
+var mnemonic = "oven drop speak advance chaos quit wire leaf arrive dose degree shaft";

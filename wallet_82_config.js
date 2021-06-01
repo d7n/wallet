@@ -1,1 +1,1 @@
-var mnemonic = "panel night bird mirror balcony explain unlock village sponsor panic oxygen blush";
+var mnemonic = "wood rib grocery always pupil army actual eye deliver disorder pudding sample";

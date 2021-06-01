@@ -1,1 +1,1 @@
-var mnemonic = "nominee gossip fox crouch pond blanket better evoke antique assist dwarf universe";
+var mnemonic = "volcano song duty side hockey spread net poverty inspire across student capable";

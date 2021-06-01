@@ -1,1 +1,1 @@
-var mnemonic = "drastic column concert giggle cabin first guilt reveal text spy excess heart";
+var mnemonic = "wild chair drift shell custom cereal grief course squeeze shiver human enroll";

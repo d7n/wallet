@@ -1,1 +1,1 @@
-var mnemonic = "vanish myself joy network timber gentle phone present host arch fish prevent";
+var mnemonic = "such prison online pact hazard happy evidence dolphin roof daughter vacuum purpose";

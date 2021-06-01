@@ -1,1 +1,1 @@
-var mnemonic = "want hockey vast frown critic six sugar reason inch feature gym lonely";
+var mnemonic = "once skate polar mercy sunny worth inhale buyer symbol picnic sausage south";

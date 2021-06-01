@@ -1,1 +1,1 @@
-var mnemonic = "gravity mean improve direct strategy bronze category similar retire arch balance away";
+var mnemonic = "glory damp visit saddle pond become arctic ugly link piece hollow mutual";

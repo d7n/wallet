@@ -1,1 +1,1 @@
-var mnemonic = "aisle sorry miracle rare outdoor dash must prize own exact acquire health";
+var mnemonic = "tiny attend kid cabbage expect shiver movie brown army age world split";

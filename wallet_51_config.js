@@ -1,1 +1,1 @@
-var mnemonic = "path total cereal ugly lunar quit turkey grunt raise vicious unable jump";
+var mnemonic = "input jelly major race hire update letter engine unveil tuna above gate";

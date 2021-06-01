@@ -1,1 +1,1 @@
-var mnemonic = "glow approve include joke lonely eye course orchard spoil cushion boat cycle";
+var mnemonic = "black click indicate they urban minimum parrot october offer diesel siege absorb";

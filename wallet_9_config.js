@@ -1,1 +1,1 @@
-var mnemonic = "ivory trap fine derive club hedgehog nest rare harbor lobster plug minute";
+var mnemonic = "warrior dizzy february clutch royal patient father question such cross kiwi reason";

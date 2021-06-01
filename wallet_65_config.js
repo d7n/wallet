@@ -1,1 +1,1 @@
-var mnemonic = "catalog eagle number motor jump gift you record develop toy phone dismiss";
+var mnemonic = "position either cave world ship raise source extend ten affair wear butter";

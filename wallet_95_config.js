@@ -1,1 +1,1 @@
-var mnemonic = "win soldier silk ride fan toilet foam track fiber foster ignore scatter";
+var mnemonic = "amateur grow weasel audit mystery solid aunt then soon elephant debris since";

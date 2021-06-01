@@ -1,1 +1,1 @@
-var mnemonic = "actor raccoon chalk rebel modify merry echo mention joy pelican frame stuff";
+var mnemonic = "scorpion general vendor laundry join bus true rookie afraid couch monkey like";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic stereo gesture disease unveil script athlete response miss elegant view aim";
+var mnemonic = "employ labor page involve vapor market true detail famous limb fall weird";

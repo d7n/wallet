@@ -1,1 +1,1 @@
-var mnemonic = "sweet scale leisure account decade earth lend thumb crucial lecture token trick";
+var mnemonic = "until tobacco bag sausage crowd exact blur small mixture security drip hawk";

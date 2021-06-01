@@ -1,1 +1,1 @@
-var mnemonic = "cloth gift vibrant word erode medal owner tooth mouse gown soft soldier";
+var mnemonic = "suit issue leader afraid suffer bonus few improve supply pluck duck this";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle ice acoustic elbow crush pass quarter click vault marble galaxy banana";
+var mnemonic = "proof foam route onion captain pupil sleep odor cricket bind recycle width";

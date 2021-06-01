@@ -1,1 +1,1 @@
-var mnemonic = "rival rocket valve situate verb hidden audit peasant omit code body spare";
+var mnemonic = "humble must blast skull aspect light sea harvest reveal rabbit recycle exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "person fatal hole catch joy immense curious paddle shed canal tunnel illegal";
+var mnemonic = "edit offer drama gossip sponsor rare maple script useless cost other autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "stay canoe monkey apart name transfer left space chaos provide swear pulp";
+var mnemonic = "daughter wave side scrub bottom night soda valid grass boil term swamp";
