@@ -1,1 +1,1 @@
-var mnemonic = "once story beyond girl cheap whale accident dumb carry wheat unable real";
+var mnemonic = "assault swift mango used muscle brush athlete kind stamp balcony model wage";

@@ -1,1 +1,1 @@
-var mnemonic = "account city copy vote learn sun suggest mad excuse around roof humble";
+var mnemonic = "board flight orchard cook elbow fish give energy smoke artist sleep betray";

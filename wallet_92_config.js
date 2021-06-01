@@ -1,1 +1,1 @@
-var mnemonic = "wave echo web unfold media income afraid drive scheme base old spread";
+var mnemonic = "artist neck outside garbage hold access rookie silk inspire chest predict squirrel";

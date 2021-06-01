@@ -1,1 +1,1 @@
-var mnemonic = "brother endorse strike walnut multiply pair diamond pilot shed ripple silly squirrel";
+var mnemonic = "height leader client require stove melt best control desk infant dragon involve";

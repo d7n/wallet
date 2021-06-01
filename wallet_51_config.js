@@ -1,1 +1,1 @@
-var mnemonic = "crystal enhance limb deny put sure garage camera gift note cable miracle";
+var mnemonic = "scene clock multiply circle dynamic dutch empower key oxygen nephew mask true";

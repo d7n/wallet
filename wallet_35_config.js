@@ -1,1 +1,1 @@
-var mnemonic = "problem educate perfect sand amount rifle tag enrich tattoo mass scheme sample";
+var mnemonic = "original kiss forget surface timber liar ancient tonight dice tomorrow meat chimney";

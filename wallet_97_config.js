@@ -1,1 +1,1 @@
-var mnemonic = "identify toy oak envelope monster harvest stand slim lemon wide bonus party";
+var mnemonic = "magnet left blame cabin crop elder force maximum minute combine wait length";

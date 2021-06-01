@@ -1,1 +1,1 @@
-var mnemonic = "crash luxury hidden mobile comic start hold oval warfare metal adjust merge";
+var mnemonic = "camera color surge wrestle throw meadow critic frame key social title exclude";

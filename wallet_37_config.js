@@ -1,1 +1,1 @@
-var mnemonic = "forget always plate army whale current medal fork siege steel hawk satisfy";
+var mnemonic = "trial oil test right miracle between theme onion joke scatter border gold";

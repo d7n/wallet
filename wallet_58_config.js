@@ -1,1 +1,1 @@
-var mnemonic = "tape current help season arrow gift juice illegal female sunny flock sport";
+var mnemonic = "ramp clutch upper tent then animal air shrimp divert monkey tragic dose";

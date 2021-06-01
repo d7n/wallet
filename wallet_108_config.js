@@ -1,1 +1,1 @@
-var mnemonic = "defy couch scare deal embrace apart age spirit unit echo obtain album";
+var mnemonic = "place soup peasant lyrics virtual fiscal list spirit cash canoe erupt useless";

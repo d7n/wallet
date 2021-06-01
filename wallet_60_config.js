@@ -1,1 +1,1 @@
-var mnemonic = "pigeon spawn never oyster perfect assume super under burden move quiz outer";
+var mnemonic = "thank unable sketch refuse setup submit sauce original topic hub helmet gun";

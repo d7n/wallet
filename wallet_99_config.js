@@ -1,1 +1,1 @@
-var mnemonic = "absorb school unusual also torch shock lizard tone phone coyote series olive";
+var mnemonic = "gallery school volcano own melt direct engine gravity violin pioneer setup orphan";

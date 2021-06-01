@@ -1,1 +1,1 @@
-var mnemonic = "spell trend dice roof congress pause gate mule escape access drill dry";
+var mnemonic = "floor crime student medal force camera above level timber detail access stairs";

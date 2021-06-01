@@ -1,1 +1,1 @@
-var mnemonic = "conduct viable scissors vote derive dune hello invest category rack runway proof";
+var mnemonic = "dream genuine cannon sell vote pen fog first slot holiday despair crane";

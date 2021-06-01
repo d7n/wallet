@@ -1,1 +1,1 @@
-var mnemonic = "blossom satisfy tomato indoor because mirror faculty social brush old path dolphin";
+var mnemonic = "suggest axis flower wood ridge exclude chef park job inspire chair episode";

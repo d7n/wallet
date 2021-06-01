@@ -1,1 +1,1 @@
-var mnemonic = "flip evil assist run pulp tank knife caution arrow any machine often";
+var mnemonic = "tip entire rotate potato disorder evoke tissue era question manual crouch reunion";

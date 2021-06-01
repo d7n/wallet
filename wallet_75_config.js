@@ -1,1 +1,1 @@
-var mnemonic = "solar jacket kangaroo learn garlic whip bargain disease secret program start muffin";
+var mnemonic = "pet win found noble around orbit collect exit suffer around ladder analyst";

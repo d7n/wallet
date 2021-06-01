@@ -1,1 +1,1 @@
-var mnemonic = "acid smart nurse book cushion target maximum pair retire oxygen soul harsh";
+var mnemonic = "type project ripple magnet smooth inside awkward assume mirror twice always people";

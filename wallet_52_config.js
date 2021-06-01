@@ -1,1 +1,1 @@
-var mnemonic = "imitate power artist pole ritual finger flash obvious unique narrow thrive welcome";
+var mnemonic = "inform fiction diesel usage sunny safe bird knife add relief sentence shop";

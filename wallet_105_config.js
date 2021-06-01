@@ -1,1 +1,1 @@
-var mnemonic = "inquiry kick search swear tide broccoli wheat ensure cruel suffer clay vacuum";
+var mnemonic = "tuna rotate section shoe left trigger garment lunar erupt recycle seat misery";

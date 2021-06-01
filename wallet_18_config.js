@@ -1,1 +1,1 @@
-var mnemonic = "romance lock wall afraid pave warm couple saddle ask sign hockey sunny";
+var mnemonic = "gym breeze stand ranch pipe cruise area report race album chair opinion";

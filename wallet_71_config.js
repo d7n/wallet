@@ -1,1 +1,1 @@
-var mnemonic = "coconut extra extend grunt catch actress slide summer crunch certain awesome gas";
+var mnemonic = "canoe viable off face garlic quantum virus force candy sample sight expose";

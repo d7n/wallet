@@ -1,1 +1,1 @@
-var mnemonic = "play oxygen bunker include toss marble lesson hurdle slogan panel rail alley";
+var mnemonic = "parade delay casual letter carpet witness laundry fee link mandate frown pink";

@@ -1,1 +1,1 @@
-var mnemonic = "truck unveil file job key cliff cram warm about grow jelly cake";
+var mnemonic = "uphold pelican blade year emotion glory more cable vocal mercy taste narrow";

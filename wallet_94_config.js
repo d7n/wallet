@@ -1,1 +1,1 @@
-var mnemonic = "weasel stage ask argue pretty carpet jacket album liar sword cushion space";
+var mnemonic = "panic arm satoshi melody patrol tell axis mercy ugly page oven vapor";

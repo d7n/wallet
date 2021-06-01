@@ -1,1 +1,1 @@
-var mnemonic = "carpet assist grab recipe ethics suspect reflect wet opera calm cake enable";
+var mnemonic = "olympic flag monkey ethics sustain boy brave burden afford color rule inside";

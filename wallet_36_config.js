@@ -1,1 +1,1 @@
-var mnemonic = "win price only flush unfold cinnamon thing vessel atom toward cute float";
+var mnemonic = "evil keep thing garment churn mandate cat senior reduce tube what reflect";

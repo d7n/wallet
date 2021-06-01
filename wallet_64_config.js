@@ -1,1 +1,1 @@
-var mnemonic = "ribbon combine edge unhappy analyst drip age lunch toy organ little spend";
+var mnemonic = "spoil clutch render uniform toward oil tired unknown fame novel core useless";

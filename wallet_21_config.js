@@ -1,1 +1,1 @@
-var mnemonic = "gospel shadow sadness whisper canal comfort elder wagon pretty tongue industry save";
+var mnemonic = "better easy lizard soda wage like glance receive fish ice noodle paddle";

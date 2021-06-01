@@ -1,1 +1,1 @@
-var mnemonic = "salt merry day stick wagon month enact can recycle few west buffalo";
+var mnemonic = "warrior crunch cabbage oven hidden trade hybrid success case response away oblige";

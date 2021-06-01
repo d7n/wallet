@@ -1,1 +1,1 @@
-var mnemonic = "goose teach kitchen tourist cliff film balcony bunker month job advance effort";
+var mnemonic = "advice job coast code release trust retire hotel quiz earth myth agree";

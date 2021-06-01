@@ -1,1 +1,1 @@
-var mnemonic = "prepare dune cube catch foam twelve enough unit convince segment supply case";
+var mnemonic = "razor vast capital jump increase effort hedgehog myself vague fitness awkward pony";

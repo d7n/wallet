@@ -1,1 +1,1 @@
-var mnemonic = "comfort diesel battle hood window certain catch mixture into thought concert symptom";
+var mnemonic = "tragic table ten movie uniform cradle coin there teach ask draft welcome";

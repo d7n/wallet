@@ -1,1 +1,1 @@
-var mnemonic = "service same oyster key female nuclear science neutral time zero anger noodle";
+var mnemonic = "hill grant modify subject junk quit spatial fossil throw when sing hill";

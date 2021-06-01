@@ -1,1 +1,1 @@
-var mnemonic = "task moment ribbon treat reveal under cash nothing actress luxury laugh play";
+var mnemonic = "error keep dry dirt dash rough interest solar allow cave response genre";

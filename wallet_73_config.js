@@ -1,1 +1,1 @@
-var mnemonic = "wood immune flag across creek scorpion flight trick duck connect weird purpose";
+var mnemonic = "sphere fat front chapter derive accident doctor museum erupt slim expire heart";

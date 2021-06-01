@@ -1,1 +1,1 @@
-var mnemonic = "make high matter memory dentist insect mesh float social diary shaft brain";
+var mnemonic = "wasp fitness nerve when chair room manual relax illness ball bacon despair";

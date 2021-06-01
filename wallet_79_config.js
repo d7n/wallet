@@ -1,1 +1,1 @@
-var mnemonic = "unusual biology rule rough season wave guilt scatter style million lamp twist";
+var mnemonic = "camera syrup middle cattle jealous polar punch gown dragon concert about toss";

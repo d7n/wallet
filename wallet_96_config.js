@@ -1,1 +1,1 @@
-var mnemonic = "good follow quantum athlete number rude seminar keen file option extra dream";
+var mnemonic = "fragile remember tribe seek weapon tragic swamp manual skill provide tourist immune";

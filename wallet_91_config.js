@@ -1,1 +1,1 @@
-var mnemonic = "present wasp popular health laugh coral sun vast lecture camera dial defense";
+var mnemonic = "famous scrub riot detail add journey marine beef hope fruit photo ignore";

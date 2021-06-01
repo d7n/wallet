@@ -1,1 +1,1 @@
-var mnemonic = "high spin west innocent cross seminar next romance outside sunset speed brisk";
+var mnemonic = "offer patrol foam bar debate gate renew frequent chronic nasty reason auto";

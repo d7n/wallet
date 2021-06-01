@@ -1,1 +1,1 @@
-var mnemonic = "benefit same hover wagon march street hard cheap degree canoe spare weapon";
+var mnemonic = "barrel tomorrow hope near cage prepare guess wife laugh sand laptop render";

@@ -1,1 +1,1 @@
-var mnemonic = "job large juice genre accident tonight border until tank angle agent during";
+var mnemonic = "cram episode domain polar negative nation bulb match journey crop magnet plate";

@@ -1,1 +1,1 @@
-var mnemonic = "deal divert favorite drip help stone chase address melody first side define";
+var mnemonic = "whale purse draft say swift acquire buddy type celery trophy rally idle";

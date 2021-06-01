@@ -1,1 +1,1 @@
-var mnemonic = "arrest mixture conduct sick awesome badge recycle butter purchase kingdom tower stamp";
+var mnemonic = "fan metal hunt office below path crucial daring kitchen addict onion weather";

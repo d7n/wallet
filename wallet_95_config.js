@@ -1,1 +1,1 @@
-var mnemonic = "caught stumble boost knife era emotion cattle vicious maze vital rubber float";
+var mnemonic = "fabric dinosaur off kangaroo strategy unlock zero lake river smart bicycle tackle";

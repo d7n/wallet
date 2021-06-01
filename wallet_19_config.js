@@ -1,1 +1,1 @@
-var mnemonic = "result search impulse blame crisp bridge film runway dumb slim noble weird";
+var mnemonic = "captain owner deliver try blush hand noodle word swear digital farm upper";

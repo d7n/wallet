@@ -1,1 +1,1 @@
-var mnemonic = "attract rule chaos amazing unveil tree labor awesome plug alert history fine";
+var mnemonic = "breeze globe tortoise purse wall coffee bundle door attract actual truck bottom";

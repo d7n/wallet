@@ -1,1 +1,1 @@
-var mnemonic = "action tiger shaft light shock comic torch drop play maple three reason";
+var mnemonic = "mosquito finish luggage method define access cruel shrug stand direct below join";

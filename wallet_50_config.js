@@ -1,1 +1,1 @@
-var mnemonic = "upon awful wink bullet valley bubble pilot kit chimney sock middle manual";
+var mnemonic = "danger tribe turkey balance awkward pumpkin olive laptop charge wave arctic theme";

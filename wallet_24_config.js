@@ -1,1 +1,1 @@
-var mnemonic = "correct shiver vehicle chat ethics absent broccoli tackle human crisp orange indoor";
+var mnemonic = "good then real mother fun baby write little grocery promote indoor wash";

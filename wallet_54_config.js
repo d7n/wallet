@@ -1,1 +1,1 @@
-var mnemonic = "betray repeat relief ice enforce invest deliver front merge slogan advance pelican";
+var mnemonic = "broom cost float dove they shuffle noble scorpion inner select edge cotton";

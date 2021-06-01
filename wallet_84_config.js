@@ -1,1 +1,1 @@
-var mnemonic = "garden crouch sustain apology gravity dignity sail tilt wheel sign best train";
+var mnemonic = "message mistake poem cat crime wrestle void dad strike clever equal sketch";

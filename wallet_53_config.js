@@ -1,1 +1,1 @@
-var mnemonic = "rifle seed baby crime tag bright skin gown path retreat dish impulse";
+var mnemonic = "meadow squeeze awful private crash lemon coin run opera round turtle slab";

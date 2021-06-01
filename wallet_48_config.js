@@ -1,1 +1,1 @@
-var mnemonic = "brass shop roast order jacket engine replace letter advice adult crush before";
+var mnemonic = "urban deliver play slim slab cabbage disagree roast bubble able someone oxygen";

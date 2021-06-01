@@ -1,1 +1,1 @@
-var mnemonic = "local wall skull sudden oil dust patch kite quit sausage wide blur";
+var mnemonic = "capital staff draft suit minute pave catch borrow mountain inject patch prize";

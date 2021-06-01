@@ -1,1 +1,1 @@
-var mnemonic = "roast diary three detect either tribe outdoor hood box jacket couple correct";
+var mnemonic = "letter tornado maze drop rookie fee opinion token garage disease february trial";

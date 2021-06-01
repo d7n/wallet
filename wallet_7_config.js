@@ -1,1 +1,1 @@
-var mnemonic = "exhaust actress cloth manual cute hurry among lake urban fabric soft interest";
+var mnemonic = "artefact piece shell gospel alone same fever answer month crucial satoshi text";

@@ -1,1 +1,1 @@
-var mnemonic = "clap blue thing portion waste note cancel wash toy improve tape clerk";
+var mnemonic = "loyal hole kiwi fire horn mosquito bless lamp width crater build hawk";

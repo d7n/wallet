@@ -1,1 +1,1 @@
-var mnemonic = "gloom bottom annual now grow fault deer scare march heart axis above";
+var mnemonic = "human quick tree humor punch equal hospital spawn suffer spend mix come";

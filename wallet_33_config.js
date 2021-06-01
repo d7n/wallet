@@ -1,1 +1,1 @@
-var mnemonic = "correct hollow index bundle talent throw task answer rabbit faculty sniff path";
+var mnemonic = "crouch limit outer style wait matrix hill fatigue expect switch caution blue";

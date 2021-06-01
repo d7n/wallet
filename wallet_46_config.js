@@ -1,1 +1,1 @@
-var mnemonic = "sad concert feel zone twelve plunge tuna knife inspire rather purpose coyote";
+var mnemonic = "dish planet bleak return fever ribbon will animal derive cotton solve spot";

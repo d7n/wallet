@@ -1,1 +1,1 @@
-var mnemonic = "tone country narrow dance bullet bench remove tunnel flower machine pair night";
+var mnemonic = "acquire anxiety regret problem surprise fold execute dwarf invite seek fashion foam";

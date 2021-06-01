@@ -1,1 +1,1 @@
-var mnemonic = "violin night biology exercise hover menu vital alcohol venture air hundred gasp";
+var mnemonic = "interest bring useless razor panic hip picture hurt leader diagram glow pen";

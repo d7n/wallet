@@ -1,1 +1,1 @@
-var mnemonic = "tissue festival midnight lounge say gentle there stand build pulp skull foil";
+var mnemonic = "dry sense reunion trust tonight awake autumn online vapor color ramp client";

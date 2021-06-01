@@ -1,1 +1,1 @@
-var mnemonic = "stable wasp extend soda tobacco waste grape brave juice razor body chapter";
+var mnemonic = "hundred soda spice decline churn loan drift sunset share tumble glad track";

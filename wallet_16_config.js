@@ -1,1 +1,1 @@
-var mnemonic = "desk flat guess morning autumn typical program century exotic patient endless chef";
+var mnemonic = "label lonely region ribbon tooth tray figure cute possible pair rural clog";

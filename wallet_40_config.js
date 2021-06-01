@@ -1,1 +1,1 @@
-var mnemonic = "glass tennis vanish carry skull crunch near gap daughter month observe clutch";
+var mnemonic = "frequent hazard job old grass again digital lady fringe lizard idle best";

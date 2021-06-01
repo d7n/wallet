@@ -1,1 +1,1 @@
-var mnemonic = "crowd advice stairs vote frost swear rhythm thank nuclear maximum metal jaguar";
+var mnemonic = "bus menu theory abstract inquiry sword cheap clarify there muffin dragon humble";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate perfect alcohol voice ecology task elevator gloom siren gym acid dice";
+var mnemonic = "stable kingdom hybrid bottom april right install chalk napkin fruit certain axis";

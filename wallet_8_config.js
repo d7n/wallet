@@ -1,1 +1,1 @@
-var mnemonic = "skull follow emotion armor hello ill cattle sick search gravity kingdom shop";
+var mnemonic = "grid upset law else elevator web crack task caution stadium cactus raccoon";

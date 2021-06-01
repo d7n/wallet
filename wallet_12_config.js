@@ -1,1 +1,1 @@
-var mnemonic = "blur render infant faint point trend abstract ceiling security beyond hurdle plunge";
+var mnemonic = "explain bless raise stable negative tackle moral reason bubble return dinner visa";

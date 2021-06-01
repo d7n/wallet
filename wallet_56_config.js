@@ -1,1 +1,1 @@
-var mnemonic = "regular net crater pride cigar state any zebra notice else pattern grape";
+var mnemonic = "before small resist still mercy behind network repair rough seat patch ivory";

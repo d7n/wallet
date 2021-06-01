@@ -1,1 +1,1 @@
-var mnemonic = "umbrella much film mail panel draft infant media join pudding rebel allow";
+var mnemonic = "dash struggle end prize luxury settle payment orange submit question muscle orbit";

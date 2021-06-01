@@ -1,1 +1,1 @@
-var mnemonic = "flag earth receive cancel gravity case pig swim trumpet relax satoshi tip";
+var mnemonic = "planet rather narrow enter fiscal toast mistake inform sword identify suffer eye";

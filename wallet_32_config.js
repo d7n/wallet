@@ -1,1 +1,1 @@
-var mnemonic = "problem hover admit congress display beauty usual breeze fit page evil coil";
+var mnemonic = "flock enhance scatter chair legal card outside tiny boss again rough road";

@@ -1,1 +1,1 @@
-var mnemonic = "theory east donor tilt fuel hawk monkey flame illegal sadness banana income";
+var mnemonic = "dawn cricket actress hollow question shift visa bread pear aisle now shell";

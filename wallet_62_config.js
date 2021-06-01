@@ -1,1 +1,1 @@
-var mnemonic = "chuckle board swarm earth kiwi piano wage habit pigeon blossom like gadget";
+var mnemonic = "angry bone mule solution series air about tilt rifle try peace first";

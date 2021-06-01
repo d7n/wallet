@@ -1,1 +1,1 @@
-var mnemonic = "poverty salt business cool ripple gain frequent sunset evil churn bulb huge";
+var mnemonic = "gossip sweet tunnel average air duty crater okay disease crumble swim hood";

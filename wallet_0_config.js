@@ -1,1 +1,1 @@
-var mnemonic = "bench extra impose renew range cement appear differ emotion thing tower rug";
+var mnemonic = "decline use price honey cheese tonight topic long holiday team phone leader";

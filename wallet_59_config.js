@@ -1,1 +1,1 @@
-var mnemonic = "canvas express merry cactus outer usage pupil soap opinion crater rhythm great";
+var mnemonic = "rebel goose scrub bridge network vague raise recall eight they breeze february";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk admit target matrix match output congress quantum attract soldier emotion fall";
+var mnemonic = "holiday horror dynamic ritual chicken staff cradle immune wise fade caught sound";

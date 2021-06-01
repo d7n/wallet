@@ -1,1 +1,1 @@
-var mnemonic = "little mimic silly idle shrug kick tell artefact tomorrow ring velvet gap";
+var mnemonic = "quantum auction north common person forum copper orbit blade angry fruit diesel";

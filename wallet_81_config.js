@@ -1,1 +1,1 @@
-var mnemonic = "tilt blast clarify walnut belt circle pretty dawn unaware utility merge core";
+var mnemonic = "trumpet come shallow wheel method theory film broken swarm brick learn shove";

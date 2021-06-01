@@ -1,1 +1,1 @@
-var mnemonic = "hire merge pass display unique custom choose space column isolate stuff nest";
+var mnemonic = "cradle scorpion before man verify rate home fish palm phone iron lock";

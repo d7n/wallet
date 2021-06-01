@@ -1,1 +1,1 @@
-var mnemonic = "quit bid amused brush home kite smooth asset boil unable lion fade";
+var mnemonic = "will scale ridge gaze supreme surge talent uniform flower step drift myself";

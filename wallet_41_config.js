@@ -1,1 +1,1 @@
-var mnemonic = "across purchase trash silver glass amount truth inflict elephant climb clay travel";
+var mnemonic = "affair guard chair vocal almost crowd green fitness asthma glove goose domain";

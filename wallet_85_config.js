@@ -1,1 +1,1 @@
-var mnemonic = "all hip three float license vocal solar echo purse bonus abstract indoor";
+var mnemonic = "spy grief estate jaguar priority like wisdom december lion tragic crumble wear";

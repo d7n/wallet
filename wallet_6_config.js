@@ -1,1 +1,1 @@
-var mnemonic = "frog squirrel spring enlist punch impact tongue dragon stone notice reason collect";
+var mnemonic = "chair dilemma cup coffee couch toss wheat evidence fan turn icon desk";

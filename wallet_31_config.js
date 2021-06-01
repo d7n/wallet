@@ -1,1 +1,1 @@
-var mnemonic = "main web language asthma wolf lazy brother outer ramp route release divide";
+var mnemonic = "sail husband edge add awake endorse dove bind flash crawl rent memory";
