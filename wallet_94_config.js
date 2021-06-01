@@ -1,1 +1,1 @@
-var mnemonic = "display include dose stick alien analyst opera lesson credit pond almost color";
+var mnemonic = "chunk stage token muffin knee owner bonus rebuild quick offer quantum system";

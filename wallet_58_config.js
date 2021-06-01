@@ -1,1 +1,1 @@
-var mnemonic = "burst jeans grow couch always fine sad brave fatal define rally recall";
+var mnemonic = "move tell swift gesture extend liar nominee chase wink job library weather";

@@ -1,1 +1,1 @@
-var mnemonic = "layer bus student picture galaxy project glance junior master diamond kick safe";
+var mnemonic = "table desert network curious lawsuit dilemma mystery youth laundry trim riot treat";

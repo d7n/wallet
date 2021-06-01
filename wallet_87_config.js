@@ -1,1 +1,1 @@
-var mnemonic = "fossil size hover buzz shoe top analyst offer invest bitter profit perfect";
+var mnemonic = "asthma tribe raw dinner glimpse benefit dove stadium night inner net hotel";

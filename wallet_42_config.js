@@ -1,1 +1,1 @@
-var mnemonic = "then brief wash safe taxi ensure salad gold grit jeans slab supreme";
+var mnemonic = "bracket fat achieve better gallery daughter soul october half void fit win";

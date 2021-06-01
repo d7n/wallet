@@ -1,1 +1,1 @@
-var mnemonic = "faculty pilot athlete bomb spice merry neither record advice glance autumn way";
+var mnemonic = "check nuclear assume anger pizza sight fragile metal crash often spice balcony";

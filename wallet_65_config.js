@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit fee mirror author country inside comic awesome swarm mosquito way across";
+var mnemonic = "pelican used february rookie step struggle evoke join transfer spider error life";

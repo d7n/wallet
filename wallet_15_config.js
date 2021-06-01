@@ -1,1 +1,1 @@
-var mnemonic = "piano lion matrix record resource erosion inner audit hen animal region girl";
+var mnemonic = "erase coin marine host marriage frown fiscal angry evidence embark axis outside";

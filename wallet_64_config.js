@@ -1,1 +1,1 @@
-var mnemonic = "system crisp artwork great run agree jealous gym steak number sign place";
+var mnemonic = "south age slot auction carpet cargo sea tissue axis rib disease shell";

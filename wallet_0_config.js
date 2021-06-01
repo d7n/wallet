@@ -1,1 +1,1 @@
-var mnemonic = "put season feature stuff anger lounge turn sunny mixed vanish opinion reject";
+var mnemonic = "either soup unique sugar alert nuclear popular tenant pet broken address area";

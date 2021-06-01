@@ -1,1 +1,1 @@
-var mnemonic = "fish slot mistake copper section caution bid picture result stool desert curious";
+var mnemonic = "nose index panic blush father glass earn mirror sleep doll core note";

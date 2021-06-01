@@ -1,1 +1,1 @@
-var mnemonic = "coil into jaguar hole logic object iron slab century spin wheat kitchen";
+var mnemonic = "bind disagree mother fiscal orbit sentence arrow bulk intact plastic lizard spike";

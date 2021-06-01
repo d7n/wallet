@@ -1,1 +1,1 @@
-var mnemonic = "ketchup issue sure pretty absent neutral gold blanket program lens toy fetch";
+var mnemonic = "prevent sunny undo strong shallow shuffle science symptom ordinary script engage park";

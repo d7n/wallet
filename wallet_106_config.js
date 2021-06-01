@@ -1,1 +1,1 @@
-var mnemonic = "trick rabbit arctic film dose ketchup among uncover east purchase frown relax";
+var mnemonic = "coil find song metal company either achieve leave excess hero body space";

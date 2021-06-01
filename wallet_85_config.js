@@ -1,1 +1,1 @@
-var mnemonic = "fury excuse bus truly century aware tumble govern hurdle park prevent put";
+var mnemonic = "repeat repair fade festival across cliff fever turn uncover rather flag pretty";

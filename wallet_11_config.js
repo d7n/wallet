@@ -1,1 +1,1 @@
-var mnemonic = "negative either black indoor oxygen glory habit lamp glue guard helmet annual";
+var mnemonic = "fox run truth burst month screen home thank power piano tornado muscle";

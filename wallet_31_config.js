@@ -1,1 +1,1 @@
-var mnemonic = "sample inflict payment text symbol discover sand flavor flee luxury lounge fire";
+var mnemonic = "half buddy faculty dinosaur stable sadness occur desk invite shaft renew pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "expire pupil silly rescue stuff add shoe kind brisk argue science noble";
+var mnemonic = "omit flower certain call tent dune process cement armed drink pitch march";

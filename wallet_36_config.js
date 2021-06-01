@@ -1,1 +1,1 @@
-var mnemonic = "almost they pet turn police engage judge mango profit inside wonder wrap";
+var mnemonic = "pulp proud strategy oval light key balcony vendor okay ready supreme noble";

@@ -1,1 +1,1 @@
-var mnemonic = "debris humble effort patch hurry august truly where wave slush floor only";
+var mnemonic = "scan method alien limit spot around course luggage wage loyal during shove";

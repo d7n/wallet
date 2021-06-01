@@ -1,1 +1,1 @@
-var mnemonic = "average fan shallow lake doctor million bird venture blast spoil engine afford";
+var mnemonic = "family wrist invest bomb ribbon web usage valve never pen grow sad";

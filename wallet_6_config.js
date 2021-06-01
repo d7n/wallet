@@ -1,1 +1,1 @@
-var mnemonic = "rug twin shy duty brown pull engage raw slogan allow tourist loan";
+var mnemonic = "reject aspect avocado draw tuna today word egg frog elegant rice input";

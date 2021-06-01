@@ -1,1 +1,1 @@
-var mnemonic = "want describe vicious session delay depend language you uniform lemon rain butter";
+var mnemonic = "brown army credit topple glance gentle fetch hazard basic aunt payment spike";

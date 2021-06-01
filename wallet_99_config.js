@@ -1,1 +1,1 @@
-var mnemonic = "desert exile ring aisle talent race dress glad anger quarter ill lab";
+var mnemonic = "there differ sing laugh garbage drop very story divert seat shrimp jazz";

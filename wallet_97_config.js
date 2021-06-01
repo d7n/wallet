@@ -1,1 +1,1 @@
-var mnemonic = "chest arrive match hundred shoulder potato shoot tray nephew news gain sword";
+var mnemonic = "february fossil job stereo doll slice piece drastic eight child owner address";

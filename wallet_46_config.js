@@ -1,1 +1,1 @@
-var mnemonic = "uncover brief sauce camp system execute gloom whale ten hour skin media";
+var mnemonic = "dinosaur swift afford know where sunset certain cheese hint hill hospital lazy";

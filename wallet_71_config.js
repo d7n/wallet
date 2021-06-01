@@ -1,1 +1,1 @@
-var mnemonic = "oven bunker famous deal stool imitate call reunion need emotion much brain";
+var mnemonic = "one cloud wall urge furnace mail country warm draft giant chef parent";

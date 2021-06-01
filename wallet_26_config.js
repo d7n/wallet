@@ -1,1 +1,1 @@
-var mnemonic = "bonus sunset jeans insane task already swallow omit depart dance patrol mountain";
+var mnemonic = "forum cave elevator skull pistol venue quiz prosper spell deer cool tape";

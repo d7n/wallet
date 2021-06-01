@@ -1,1 +1,1 @@
-var mnemonic = "dog swap invest symptom victory muffin lonely dose property tool plastic slender";
+var mnemonic = "miracle lonely impose spice scorpion april intact year company promote forest blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "process hunt song elevator year ability carbon pluck local cash tongue arrest";
+var mnemonic = "job taste confirm deny learn clock tomorrow vast permit pride bundle world";

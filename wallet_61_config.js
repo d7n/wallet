@@ -1,1 +1,1 @@
-var mnemonic = "fire surface key illegal rebel suggest sun obvious among mammal initial end";
+var mnemonic = "name eager carbon width barrel system repair learn enforce tenant keen toddler";

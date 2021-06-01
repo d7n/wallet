@@ -1,1 +1,1 @@
-var mnemonic = "grass genre emotion old fine smooth liquid faculty oil bullet day raise";
+var mnemonic = "venue steel dumb emerge trial butter apart slot april icon mobile subject";

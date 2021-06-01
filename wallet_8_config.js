@@ -1,1 +1,1 @@
-var mnemonic = "water under valley accuse client fragile crowd prepare claw tunnel extra isolate";
+var mnemonic = "bone tragic year exercise dust warm state gym absorb hungry napkin transfer";

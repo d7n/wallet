@@ -1,1 +1,1 @@
-var mnemonic = "thing forward october left spell roast rice act chest machine rigid speak";
+var mnemonic = "harbor december conduct arctic pretty shop volcano exist able buddy urge bag";

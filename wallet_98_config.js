@@ -1,1 +1,1 @@
-var mnemonic = "lumber east guess squeeze depart gate useful chest rigid live share dragon";
+var mnemonic = "employ trade direct until second share buzz fiscal raise another plug damp";

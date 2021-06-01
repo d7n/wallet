@@ -1,1 +1,1 @@
-var mnemonic = "chronic letter output path believe exotic west gown wink tenant like almost";
+var mnemonic = "sound genius improve speak kingdom rural program crowd brand syrup raise repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "friend tooth dizzy world system safe route despair agree company position sea";
+var mnemonic = "radio mule tumble patrol dinosaur base effort foot blade detail need cream";

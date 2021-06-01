@@ -1,1 +1,1 @@
-var mnemonic = "cave message scan service kingdom provide snack pottery jaguar video layer faint";
+var mnemonic = "future walk sing giggle sample payment west patrol into clog reunion hope";

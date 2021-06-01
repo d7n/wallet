@@ -1,1 +1,1 @@
-var mnemonic = "whip stay slot company idle inherit veteran sentence switch achieve scorpion fragile";
+var mnemonic = "fiction shuffle rigid boy void blouse empower usage achieve asthma jacket aisle";

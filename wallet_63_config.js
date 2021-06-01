@@ -1,1 +1,1 @@
-var mnemonic = "vendor differ innocent empty arrange intact twist hamster there toss horn entire";
+var mnemonic = "credit glance unit broken please napkin snake shop load comfort diary trash";

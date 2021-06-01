@@ -1,1 +1,1 @@
-var mnemonic = "stove razor carpet vast host draft duty cross symbol deliver board rent";
+var mnemonic = "yard pilot manage weapon day distance leopard brisk brother prefer attitude ramp";

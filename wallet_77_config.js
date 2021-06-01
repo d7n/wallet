@@ -1,1 +1,1 @@
-var mnemonic = "field decrease vicious copy balance sense member dignity journey abstract scrub tobacco";
+var mnemonic = "garden identify upper depth grief orange business wedding save health artwork park";

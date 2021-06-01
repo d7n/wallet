@@ -1,1 +1,1 @@
-var mnemonic = "wide raccoon winter pioneer reform sustain indicate flock symptom bus hip urge";
+var mnemonic = "join fault pupil refuse reason kick link toy split clap shine buddy";

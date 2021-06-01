@@ -1,1 +1,1 @@
-var mnemonic = "merit organ involve kick pottery treat opinion tenant nut debris vanish same";
+var mnemonic = "infant orbit soon viable recall history smart ranch wreck chicken harvest cheese";

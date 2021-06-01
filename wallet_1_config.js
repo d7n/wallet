@@ -1,1 +1,1 @@
-var mnemonic = "enable spirit chicken siege raw river myth virtual casual huge paper moral";
+var mnemonic = "table stamp rare medal snap equal patrol color become roof sponsor soul";

@@ -1,1 +1,1 @@
-var mnemonic = "throw quality bleak entire seminar guilt tower deal elegant submit scrap claw";
+var mnemonic = "biology brief turkey room mechanic real action panda split roast swear expect";

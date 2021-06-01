@@ -1,1 +1,1 @@
-var mnemonic = "entire bench sell bitter turn course knife hip rescue slim struggle holiday";
+var mnemonic = "supply little claw route where fit kind proof enjoy sphere capable history";

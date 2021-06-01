@@ -1,1 +1,1 @@
-var mnemonic = "achieve issue keep excess immense carbon year obey enjoy erupt nerve off";
+var mnemonic = "excite fever still flash capable soon behave funny wedding creek combine cover";

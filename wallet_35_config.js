@@ -1,1 +1,1 @@
-var mnemonic = "danger trash what awesome repair twist display middle pistol easy member rare";
+var mnemonic = "assault mixed light fame normal strategy title hurdle flower response empower merry";

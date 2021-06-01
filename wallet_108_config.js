@@ -1,1 +1,1 @@
-var mnemonic = "office mimic crowd balance weekend bachelor box warrior amused jealous wire aim";
+var mnemonic = "tower number over hazard pepper what alley lamp mean modify explain credit";

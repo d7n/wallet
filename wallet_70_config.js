@@ -1,1 +1,1 @@
-var mnemonic = "hospital shadow pulp supply food left work brother drum basket thrive hurry";
+var mnemonic = "degree switch assist rally enable song squeeze envelope cream original major north";

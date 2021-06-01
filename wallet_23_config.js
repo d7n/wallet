@@ -1,1 +1,1 @@
-var mnemonic = "sail crazy custom spice universe armed truck cereal rug theory include caution";
+var mnemonic = "confirm area better helmet jar truck light interest bread oak ice cactus";

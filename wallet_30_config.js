@@ -1,1 +1,1 @@
-var mnemonic = "color wood woman depth magnet coyote jelly fall dial bring glide mango";
+var mnemonic = "nerve sting acquire picnic abstract palm raccoon settle tuna arctic subject mask";

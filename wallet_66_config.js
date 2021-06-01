@@ -1,1 +1,1 @@
-var mnemonic = "tenant asthma speak radar glory bench glue favorite fossil suggest guard foam";
+var mnemonic = "dose artwork ribbon conduct glimpse fury edge vague tone want protect luggage";

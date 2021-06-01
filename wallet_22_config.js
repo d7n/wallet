@@ -1,1 +1,1 @@
-var mnemonic = "legal cover destroy wine strong turtle carbon innocent spin fold only guitar";
+var mnemonic = "flee account modify place melody evil custom cheese veteran cruise bomb process";

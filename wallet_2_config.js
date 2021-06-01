@@ -1,1 +1,1 @@
-var mnemonic = "head define side man pottery huge noodle episode elder metal grit combine";
+var mnemonic = "shell secret motor police story favorite olive urban fluid wine junior office";

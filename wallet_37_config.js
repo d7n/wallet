@@ -1,1 +1,1 @@
-var mnemonic = "symptom episode tenant february noise ensure ridge today humor decline world obvious";
+var mnemonic = "consider pepper diamond sound cousin photo peasant dial anxiety knock around fork";

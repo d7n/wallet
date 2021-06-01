@@ -1,1 +1,1 @@
-var mnemonic = "crane order cram pyramid wrist submit royal denial case beef capital level";
+var mnemonic = "parent poem fruit girl tip egg conduct fade exclude bone exist own";

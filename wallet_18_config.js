@@ -1,1 +1,1 @@
-var mnemonic = "entry mango liquid basic wine mixture fine useful human chicken clog box";
+var mnemonic = "gym author quick resource negative mention sadness margin pulse cruise pencil view";

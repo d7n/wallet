@@ -1,1 +1,1 @@
-var mnemonic = "penalty kite gain squirrel popular jealous spider jump foster dumb lend all";
+var mnemonic = "develop cricket visual height disorder style toast horse arrive ceiling fox anchor";

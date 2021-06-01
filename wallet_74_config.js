@@ -1,1 +1,1 @@
-var mnemonic = "cruise walnut mean knee need patch there jaguar leaf cluster island cabin";
+var mnemonic = "convince maple season life castle door busy pig dynamic stairs course utility";

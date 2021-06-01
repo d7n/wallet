@@ -1,1 +1,1 @@
-var mnemonic = "bag name current man sad excuse tomato language bachelor window calm whisper";
+var mnemonic = "wrist fatal vintage aspect chicken actual maze ladder voyage slender truck surround";

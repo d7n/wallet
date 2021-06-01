@@ -1,1 +1,1 @@
-var mnemonic = "rely lab cover venture gloom thumb brain junk water mask entire airport";
+var mnemonic = "blur possible shop carbon magnet fade fit attract like similar problem pyramid";

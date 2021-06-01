@@ -1,1 +1,1 @@
-var mnemonic = "chalk pair polar foil hip begin fuel inhale capital pet gadget talent";
+var mnemonic = "truck letter auto general north correct visit merge arm toilet system spawn";

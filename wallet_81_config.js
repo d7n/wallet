@@ -1,1 +1,1 @@
-var mnemonic = "immune truth brick gossip guilt obscure dwarf wave battle purpose match glare";
+var mnemonic = "defense define lamp large select want segment beach endless unfair march service";

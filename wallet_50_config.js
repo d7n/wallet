@@ -1,1 +1,1 @@
-var mnemonic = "venue wrestle average humble kitten crew view similar away sting hotel entry";
+var mnemonic = "soul love lift depend banner cave awesome manage game transfer just trash";

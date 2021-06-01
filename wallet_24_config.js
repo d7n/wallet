@@ -1,1 +1,1 @@
-var mnemonic = "giggle brother february orbit wisdom wing intact alley cluster grain citizen garlic";
+var mnemonic = "nominee joke ostrich domain income bone theory release usage desk paddle harbor";

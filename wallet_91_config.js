@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit nature obtain rabbit marine display ramp stand energy fruit vacuum coast";
+var mnemonic = "visual square limit milk attitude switch mixture frame easily jaguar still budget";

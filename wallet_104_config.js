@@ -1,1 +1,1 @@
-var mnemonic = "beach thunder cave wish hope field sauce thumb describe verb more arctic";
+var mnemonic = "unhappy plunge appear ill amount riot creek vote submit tumble elbow shoe";

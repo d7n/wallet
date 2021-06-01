@@ -1,1 +1,1 @@
-var mnemonic = "right shop decade unique recycle pistol control soldier poet legal ripple lounge";
+var mnemonic = "amused alarm ugly shadow world coffee usual humor buddy brush supreme wise";

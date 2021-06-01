@@ -1,1 +1,1 @@
-var mnemonic = "pigeon analyst mention day pair category tonight enjoy world industry milk club";
+var mnemonic = "cup fan rookie farm erode analyst tell buyer planet sniff mask poem";

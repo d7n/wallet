@@ -1,1 +1,1 @@
-var mnemonic = "situate escape myself pride radio cricket program offer two tell priority audit";
+var mnemonic = "edge voyage reopen clock nurse depth pigeon motor naive half much submit";

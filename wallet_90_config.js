@@ -1,1 +1,1 @@
-var mnemonic = "broken drift raccoon tonight isolate shell congress skin layer tomato more rebel";
+var mnemonic = "will plunge slight piece hollow nuclear favorite clog pattern wedding donor bless";

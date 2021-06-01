@@ -1,1 +1,1 @@
-var mnemonic = "poet merry grit nurse try save occur base dice pluck woman body";
+var mnemonic = "trap title cat energy sound mixed exact allow canal found tip brain";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese afraid brief drip vehicle quit vital post civil tuna loan render";
+var mnemonic = "when round beauty network grief asset balance infant fee fossil error permit";

@@ -1,1 +1,1 @@
-var mnemonic = "episode hockey consider jaguar cage scorpion toy hollow cricket debate rate argue";
+var mnemonic = "ladder mention rose current disagree spice amused price cherry pepper tobacco tackle";

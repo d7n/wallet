@@ -1,1 +1,1 @@
-var mnemonic = "trade scissors hidden live amazing width crumble tuition twist below awful panther";
+var mnemonic = "thing zebra scene brother funny select emotion rural wheat horn brother table";

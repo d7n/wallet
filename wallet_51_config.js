@@ -1,1 +1,1 @@
-var mnemonic = "border tower work genre desert enemy patch mutual crouch tooth dawn inch";
+var mnemonic = "shine tilt gaze oil expand pupil found prison seek regret civil another";

@@ -1,1 +1,1 @@
-var mnemonic = "solar turn laugh tragic clump february uncle inherit excess funny drop rigid";
+var mnemonic = "razor report civil castle edit raw piece prize kangaroo awesome fringe pulp";

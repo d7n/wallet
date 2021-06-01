@@ -1,1 +1,1 @@
-var mnemonic = "banana theme wish pole sad abuse prison buddy crystal total cost escape";
+var mnemonic = "they dose logic inflict world cream sphere fiber tobacco able mouse vacant";

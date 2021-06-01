@@ -1,1 +1,1 @@
-var mnemonic = "task surface few glad wreck stumble merry axis flock napkin merit purity";
+var mnemonic = "depth announce excite snap convince exclude reduce supreme tenant trumpet remind apology";

@@ -1,1 +1,1 @@
-var mnemonic = "dove marble suggest entire arrive injury buffalo solid obvious inspire vacuum ramp";
+var mnemonic = "pitch bracket culture tree lock robot cause detail vintage piece vendor craft";

@@ -1,1 +1,1 @@
-var mnemonic = "high feed wet tag mountain damp dove inner ahead dune basket cross";
+var mnemonic = "approve young lens spy exist ivory awkward turkey client enlist canoe hen";

@@ -1,1 +1,1 @@
-var mnemonic = "erode regret eagle buffalo cute bargain fit busy almost flight pyramid visual";
+var mnemonic = "menu invite spread bundle vivid length dignity you drip labor jealous sword";

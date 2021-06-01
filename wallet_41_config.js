@@ -1,1 +1,1 @@
-var mnemonic = "drum fan sock feed exact soccer practice lift tooth again effort doll";
+var mnemonic = "blanket circle abstract valve cram pigeon then decade beyond thumb power cricket";

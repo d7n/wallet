@@ -1,1 +1,1 @@
-var mnemonic = "choice exile share ask goose will tag three pass where unique where";
+var mnemonic = "supreme opinion can beauty flag rose cereal repeat science thank tragic swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "slight sentence they intact crop morning screen remain state twist calm beauty";
+var mnemonic = "barely album lunar desert solve accuse crop direct ensure solution old fee";

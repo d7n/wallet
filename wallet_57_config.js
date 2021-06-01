@@ -1,1 +1,1 @@
-var mnemonic = "slight child expect crop zero impulse jacket art economy airport skate excuse";
+var mnemonic = "april obey general report own shield school equal mind marble jelly hood";

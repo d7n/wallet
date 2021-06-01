@@ -1,1 +1,1 @@
-var mnemonic = "edge absorb enhance ecology lion body eagle twist patrol dawn hospital special";
+var mnemonic = "trigger napkin casino fame casual mixture certain rough welcome canoe frequent stone";
