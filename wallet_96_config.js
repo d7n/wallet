@@ -1,1 +1,1 @@
-var mnemonic = "catalog poet sunny race tiny satoshi wall easy rather brick cover rigid";
+var mnemonic = "tenant coin throw maid bamboo recall oven harbor vapor amateur alpha month";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure kidney robot mobile target process crystal turtle guitar receive tell fog";
+var mnemonic = "okay luggage party funny hospital uncover cube close aim segment kick teach";

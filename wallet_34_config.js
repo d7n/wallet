@@ -1,1 +1,1 @@
-var mnemonic = "hybrid museum talk story float true clap eight rain hurry barrel ride";
+var mnemonic = "diary plastic rack current space guess assault blood source coffee flag science";

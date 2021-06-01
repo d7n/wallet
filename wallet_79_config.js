@@ -1,1 +1,1 @@
-var mnemonic = "casino west hour april pave filter certain steel brick moment fox duck";
+var mnemonic = "meat asset work acquire reform item few marriage cross card shock affair";

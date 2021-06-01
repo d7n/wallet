@@ -1,1 +1,1 @@
-var mnemonic = "subway ocean jump always call soda alter bean song pole luggage noble";
+var mnemonic = "obvious forward twenty recall word detect apology deposit absurd false cargo figure";

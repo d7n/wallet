@@ -1,1 +1,1 @@
-var mnemonic = "payment grief idea weapon choose member violin custom knife century rate latin";
+var mnemonic = "jungle envelope cheap used mule toddler govern patient property valid omit amused";

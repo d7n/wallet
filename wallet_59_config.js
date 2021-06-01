@@ -1,1 +1,1 @@
-var mnemonic = "ten room language plunge super alone prevent margin naive foil desk assist";
+var mnemonic = "theory language video exit hood bonus basic north picture lift extend voyage";

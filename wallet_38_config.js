@@ -1,1 +1,1 @@
-var mnemonic = "track lyrics entry deny park rose poet again chaos talent cruel weasel";
+var mnemonic = "miracle crunch vital reduce nut common hobby speed evoke question swift carpet";

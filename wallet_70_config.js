@@ -1,1 +1,1 @@
-var mnemonic = "volume breeze noble rescue spy walk property hamster escape wife thought matter";
+var mnemonic = "hood diary cereal hazard tiger friend frequent another seek scatter surprise dizzy";

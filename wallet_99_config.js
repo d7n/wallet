@@ -1,1 +1,1 @@
-var mnemonic = "disease young relax awesome burger economy uphold possible worth expire grow one";
+var mnemonic = "rebuild erode ticket next gather business actor visa climb sword laptop main";

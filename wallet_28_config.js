@@ -1,1 +1,1 @@
-var mnemonic = "good raw arrive head certain chimney seed business film inside boy enemy";
+var mnemonic = "void toss margin reform list egg sting fortune fine slide black friend";

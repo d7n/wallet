@@ -1,1 +1,1 @@
-var mnemonic = "elbow mail stable shoot educate feed dirt town first sauce enough coin";
+var mnemonic = "route caught zone vintage art damage hero uphold job lamp that lounge";

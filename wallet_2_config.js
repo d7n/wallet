@@ -1,1 +1,1 @@
-var mnemonic = "wing crane medal safe flight describe lend cake unhappy tongue crane shed";
+var mnemonic = "city beef distance item citizen able city math endless eagle also spoon";

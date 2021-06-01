@@ -1,1 +1,1 @@
-var mnemonic = "stereo few play west hamster long caution airport mail holiday purpose rocket";
+var mnemonic = "almost world forum episode loyal hunt monitor myself tattoo lounge grit gossip";

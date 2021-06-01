@@ -1,1 +1,1 @@
-var mnemonic = "reopen cook news icon display list neutral maple farm undo save tape";
+var mnemonic = "bulk keen damp symptom melody paddle reward suspect limb alert easily cattle";

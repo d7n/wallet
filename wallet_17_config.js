@@ -1,1 +1,1 @@
-var mnemonic = "topic bargain hat addict era brother muffin film pool cruel turkey goat";
+var mnemonic = "mimic churn egg wine autumn convince judge fatal magnet marble husband scrub";

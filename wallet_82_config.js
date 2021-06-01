@@ -1,1 +1,1 @@
-var mnemonic = "before security pupil frozen amused alien team gather conduct welcome mind exile";
+var mnemonic = "bachelor chef universe vanish sort foot cricket ten bridge cradle issue snake";

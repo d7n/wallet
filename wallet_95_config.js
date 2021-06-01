@@ -1,1 +1,1 @@
-var mnemonic = "sea mosquito pitch giant pluck donate arena turkey move list around casual";
+var mnemonic = "unable sight cliff deputy north please right yard join ceiling miss horn";

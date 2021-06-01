@@ -1,1 +1,1 @@
-var mnemonic = "direct index prison switch theory rural sound search advice winner vast gloom";
+var mnemonic = "fit hobby flip render purpose derive calm apology exile cook promote solar";

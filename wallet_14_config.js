@@ -1,1 +1,1 @@
-var mnemonic = "immune car vintage wish crumble page noble phrase globe glory auction word";
+var mnemonic = "physical oblige valley much sight net cereal antique morning switch general aisle";

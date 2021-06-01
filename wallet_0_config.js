@@ -1,1 +1,1 @@
-var mnemonic = "found dice humble bitter desert inmate office cement width spice fence hamster";
+var mnemonic = "yellow shield squeeze good symptom picnic genuine perfect velvet purpose aerobic pledge";

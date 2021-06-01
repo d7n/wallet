@@ -1,1 +1,1 @@
-var mnemonic = "exit bench blood weapon kind green people close tip crunch point cross";
+var mnemonic = "minimum flip dial found degree client author poverty often because oyster kind";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse opinion rich finger wrong ladder forward ask jazz logic crime like";
+var mnemonic = "behave frame salt stool announce arrest wish session film album bronze chase";

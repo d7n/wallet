@@ -1,1 +1,1 @@
-var mnemonic = "praise heavy mystery army bring sorry equal maze float obscure follow rely";
+var mnemonic = "old ability number problem couple consider hybrid consider crystal since copper demand";

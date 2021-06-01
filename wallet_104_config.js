@@ -1,1 +1,1 @@
-var mnemonic = "note loop answer toy fit orbit pen wink feel wage put feel";
+var mnemonic = "dad sword enrich correct earn crazy spoon gloom hidden reduce piano discover";

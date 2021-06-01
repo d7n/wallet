@@ -1,1 +1,1 @@
-var mnemonic = "fitness soul volume strike obey fetch aerobic lens update pulp fashion design";
+var mnemonic = "dash meat local wedding wheat prosper misery broccoli fiscal logic potato venture";

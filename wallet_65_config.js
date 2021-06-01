@@ -1,1 +1,1 @@
-var mnemonic = "layer curve actor annual swing member obvious security extend rubber element hold";
+var mnemonic = "load remove express forest good main worry brush inch keep bulk basic";

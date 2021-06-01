@@ -1,1 +1,1 @@
-var mnemonic = "radar income load dignity remind sniff drop casual ocean yellow material bulk";
+var mnemonic = "sail august strategy poem capable escape alarm velvet moral scheme ready burden";

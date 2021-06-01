@@ -1,1 +1,1 @@
-var mnemonic = "brief capable roast lamp angle oyster duty salad receive rail help cram";
+var mnemonic = "quote analyst smile decorate order half add pride mountain edit upgrade master";

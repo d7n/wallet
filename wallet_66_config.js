@@ -1,1 +1,1 @@
-var mnemonic = "long little world motor inner push ancient puppy peace topple mercy original";
+var mnemonic = "arm excess hover cement unfair improve rigid arm ice door stone flush";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion fan screen alone fit era session saddle sample stereo nuclear pass";
+var mnemonic = "drama online theme animal knock emotion moon casual absurd leisure bundle gown";

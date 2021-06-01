@@ -1,1 +1,1 @@
-var mnemonic = "razor sting letter snap swear tool tiger zero people heavy mechanic lottery";
+var mnemonic = "seven flip student brief evoke sunny flash convince tonight panda arrest sheriff";

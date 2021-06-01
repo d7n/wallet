@@ -1,1 +1,1 @@
-var mnemonic = "aerobic blame length decrease private add shine dirt property cost suspect catch";
+var mnemonic = "execute tooth immune clap two deal film crater stage similar resemble author";

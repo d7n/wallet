@@ -1,1 +1,1 @@
-var mnemonic = "you there concert before win orange illegal estate blanket expire path clay";
+var mnemonic = "clever absorb figure urban regular comic trouble announce basket mirror gorilla flavor";

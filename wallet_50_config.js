@@ -1,1 +1,1 @@
-var mnemonic = "pact slide machine august much predict expire expire february shock scrub focus";
+var mnemonic = "flock attract gentle egg powder feed table cabbage chief shift regular bonus";

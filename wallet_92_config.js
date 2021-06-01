@@ -1,1 +1,1 @@
-var mnemonic = "pair rose license puppy next ball hollow adapt eager loop adjust metal";
+var mnemonic = "alert powder scrub bridge desert ankle join unable caught lucky camp mimic";

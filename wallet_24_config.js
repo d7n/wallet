@@ -1,1 +1,1 @@
-var mnemonic = "magic poet fee mean worth jungle year hero cram favorite half trip";
+var mnemonic = "orange replace fetch exhaust someone upon shaft excite alert vapor push surge";

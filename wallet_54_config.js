@@ -1,1 +1,1 @@
-var mnemonic = "perfect merry black prison move sail rocket expire enroll tiny comfort pumpkin";
+var mnemonic = "address knife leader elephant swear attack sorry misery flush cute exotic assist";

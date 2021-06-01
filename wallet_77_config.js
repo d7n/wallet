@@ -1,1 +1,1 @@
-var mnemonic = "session spray unusual legend cage cloth agree can calm unique cruise opera";
+var mnemonic = "high token tongue cream badge size card assault seven put spy violin";

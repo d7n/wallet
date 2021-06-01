@@ -1,1 +1,1 @@
-var mnemonic = "family chapter twice help loan bag correct fall shiver wish kiss real";
+var mnemonic = "organ minor lunar box wasp wise road topic code warrior panel final";

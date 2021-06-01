@@ -1,1 +1,1 @@
-var mnemonic = "kite canyon butter plate brave smile frost walk isolate coin modify three";
+var mnemonic = "purity trap puzzle baby drop bicycle fish immense charge series banana reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion item rare race tissue achieve door female repair fold pen bronze";
+var mnemonic = "suffer comic delay figure fall remain stand antenna lottery nation crazy parrot";

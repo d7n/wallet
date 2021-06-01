@@ -1,1 +1,1 @@
-var mnemonic = "excite inject keep attend unusual siege vintage army shine then hobby bus";
+var mnemonic = "pride word glory cushion box runway smile album success like slogan woman";

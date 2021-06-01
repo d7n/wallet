@@ -1,1 +1,1 @@
-var mnemonic = "garment improve galaxy purity slide typical news coral potato orphan vendor burst";
+var mnemonic = "alcohol gesture mimic hard rhythm strong october kitten genius usual vacant antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "attract absurd local mushroom lounge define super cruel stage cable nut rally";
+var mnemonic = "case resist recycle genius umbrella oyster science portion debate hundred wasp paper";

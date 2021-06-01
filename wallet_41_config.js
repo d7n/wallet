@@ -1,1 +1,1 @@
-var mnemonic = "test genre decorate debris clock below leaf knee chaos napkin piano tiger";
+var mnemonic = "result cake round roof ahead fossil this suit super smooth sugar volume";

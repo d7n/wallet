@@ -1,1 +1,1 @@
-var mnemonic = "open cotton few plunge nasty warfare ignore blossom cable bubble diamond wise";
+var mnemonic = "slim coconut chuckle suffer ring vessel indoor catalog claim soft tent tape";

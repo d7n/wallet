@@ -1,1 +1,1 @@
-var mnemonic = "enlist arena require egg dice segment various twist august nominee across ladder";
+var mnemonic = "discover warrior traffic minimum menu original flag faint polar text truly drum";

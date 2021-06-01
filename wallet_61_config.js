@@ -1,1 +1,1 @@
-var mnemonic = "announce treat best brown alter food benefit leaf alien biology parade sponsor";
+var mnemonic = "flip gaze radar elder eagle mistake steak trick dinner forward dentist cross";

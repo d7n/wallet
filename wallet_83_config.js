@@ -1,1 +1,1 @@
-var mnemonic = "one abstract cram differ harvest hazard destroy toilet advance bonus love violin";
+var mnemonic = "trap tourist shrug crumble tree prevent upon rail chicken quit immense glove";

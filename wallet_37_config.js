@@ -1,1 +1,1 @@
-var mnemonic = "tooth noise minimum armed gaze dog debris dignity solar clump card matrix";
+var mnemonic = "kitten bid key lawn observe danger embody embody supreme front gun crumble";

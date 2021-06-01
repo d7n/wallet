@@ -1,1 +1,1 @@
-var mnemonic = "ozone burst control gauge wall random busy winter valid source omit either";
+var mnemonic = "toilet upper birth magic response become position admit miracle wage whisper gallery";

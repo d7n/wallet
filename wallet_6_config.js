@@ -1,1 +1,1 @@
-var mnemonic = "peace skate patrol better betray better helmet car motor crime margin attack";
+var mnemonic = "park suffer radio buyer melt soup spoil tomorrow shed warm gun cable";

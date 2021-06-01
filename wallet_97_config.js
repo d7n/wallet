@@ -1,1 +1,1 @@
-var mnemonic = "increase vocal already uniform seed mail page power require song spirit equal";
+var mnemonic = "need dune vicious tobacco hint acoustic series build steak deal act they";

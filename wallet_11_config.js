@@ -1,1 +1,1 @@
-var mnemonic = "satoshi frown fox wrong machine immune account alter birth bus reopen hood";
+var mnemonic = "tissue noble hungry sphere scheme stairs sadness asthma giant pelican paddle garden";

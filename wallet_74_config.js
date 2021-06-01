@@ -1,1 +1,1 @@
-var mnemonic = "judge cause space cradle shield hour say offer donor blood sketch task";
+var mnemonic = "know foster label try casual toddler seek magic cigar forest thing sausage";

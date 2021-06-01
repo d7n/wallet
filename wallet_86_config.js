@@ -1,1 +1,1 @@
-var mnemonic = "effort response parent park kingdom cattle extra trend box lion flat skirt";
+var mnemonic = "industry eagle that same evoke federal stand cradle very oyster drift walnut";

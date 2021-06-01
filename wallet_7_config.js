@@ -1,1 +1,1 @@
-var mnemonic = "monitor prosper hundred ride parent swear tape high food humor kiwi walk";
+var mnemonic = "bind atom problem material near room strike suggest gadget resource advance believe";

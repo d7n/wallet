@@ -1,1 +1,1 @@
-var mnemonic = "chat sniff bubble patrol shine reflect twenty enough simple code angry skill";
+var mnemonic = "target husband cigar pledge afford early cruise puppy rookie soda crash exercise";

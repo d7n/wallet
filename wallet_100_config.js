@@ -1,1 +1,1 @@
-var mnemonic = "disagree table number guess pelican thrive stuff priority intact budget green citizen";
+var mnemonic = "excess prize smile few employ alter certain fortune carpet warrior fold glove";

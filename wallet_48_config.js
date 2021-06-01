@@ -1,1 +1,1 @@
-var mnemonic = "box more debris chest monster luxury foil distance pilot hub dial fetch";
+var mnemonic = "pulse nose concert sudden manual pulse grass party hurry garlic season stable";

@@ -1,1 +1,1 @@
-var mnemonic = "script exercise mansion copy juice brain speak novel curve critic kangaroo source";
+var mnemonic = "dwarf strategy blast stock barrel swamp accuse leg lounge squirrel weapon broken";

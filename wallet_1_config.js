@@ -1,1 +1,1 @@
-var mnemonic = "design relief deputy sell visa enemy novel april wheel like tragic flee";
+var mnemonic = "baby quit boring hurt neglect iron above wonder issue clog clog always";

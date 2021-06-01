@@ -1,1 +1,1 @@
-var mnemonic = "burger virus have attitude letter immune board dentist art goat sphere history";
+var mnemonic = "debris other warrior fuel alpha member census riot clerk desk typical margin";

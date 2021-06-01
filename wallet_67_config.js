@@ -1,1 +1,1 @@
-var mnemonic = "harbor kind grain refuse segment someone atom gallery broom violin couch cat";
+var mnemonic = "two flavor nasty tone room display inside memory poverty tower upon lucky";

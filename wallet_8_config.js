@@ -1,1 +1,1 @@
-var mnemonic = "join strike talent patient proud between hover famous grant sign box rescue";
+var mnemonic = "medal sea frog order frozen meat proud acid follow boring hotel dismiss";

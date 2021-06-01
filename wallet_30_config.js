@@ -1,1 +1,1 @@
-var mnemonic = "learn robust must wonder nothing lucky achieve tell auto genuine jelly door";
+var mnemonic = "submit real stone build hawk toward excuse exit slush report horn planet";

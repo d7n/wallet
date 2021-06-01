@@ -1,1 +1,1 @@
-var mnemonic = "worth grab aim answer cry behind payment tired resist patrol primary practice";
+var mnemonic = "detect glass chaos hotel slam drum onion slot peanut image asthma physical";

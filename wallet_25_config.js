@@ -1,1 +1,1 @@
-var mnemonic = "trophy keep river skull tomato client danger abandon special dance alpha reveal";
+var mnemonic = "own uniform arctic broken erosion human other return rely aware safe trade";

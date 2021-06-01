@@ -1,1 +1,1 @@
-var mnemonic = "viable casual little slush often rule top taxi sad example collect life";
+var mnemonic = "strong clock bleak cool practice tuna neither blossom wedding pipe whisper indicate";

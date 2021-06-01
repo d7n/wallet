@@ -1,1 +1,1 @@
-var mnemonic = "rescue tissue ankle pave distance tomato extra laugh problem nature shoe this";
+var mnemonic = "hill flock gospel yellow lesson toy scan thought check burger inside leave";

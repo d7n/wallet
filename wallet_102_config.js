@@ -1,1 +1,1 @@
-var mnemonic = "loan patch feature spawn shield advice bracket hover mistake where sell lyrics";
+var mnemonic = "remain cigar need option october stable action engine force auction ripple unit";

@@ -1,1 +1,1 @@
-var mnemonic = "raise farm immune copy grocery cute orient life spy engine room scale";
+var mnemonic = "celery renew coast estate syrup coach yard reflect punch inform cliff morning";

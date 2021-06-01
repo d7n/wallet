@@ -1,1 +1,1 @@
-var mnemonic = "code seat lobster simple climb still priority steak dizzy foil make swear";
+var mnemonic = "excite right lemon excuse author erode famous liquid peasant feel vacant snap";

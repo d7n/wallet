@@ -1,1 +1,1 @@
-var mnemonic = "fever segment trend issue gap increase group mandate exit cram mixture unfold";
+var mnemonic = "deposit uphold monster choice foil arrest cannon cake input during common cover";

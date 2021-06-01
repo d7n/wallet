@@ -1,1 +1,1 @@
-var mnemonic = "resist need basket seek track foam champion capital angle initial north ghost";
+var mnemonic = "surface glance chuckle emotion pigeon increase wreck army during celery occur laugh";

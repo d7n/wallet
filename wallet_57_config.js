@@ -1,1 +1,1 @@
-var mnemonic = "diary clap install anchor six text kidney order surround rain utility blossom";
+var mnemonic = "delay swarm icon egg spike beach area story favorite patient pair liar";

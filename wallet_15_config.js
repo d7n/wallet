@@ -1,1 +1,1 @@
-var mnemonic = "name pass repair steak perfect sail rough garlic file cable gauge chief";
+var mnemonic = "basic chest lonely concert spot harbor iron emotion resist raccoon tube carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "actual suggest color slam profit bean wide chapter omit hip will aisle";
+var mnemonic = "already gloom trip clap round pluck panther again dish sunny crucial tennis";

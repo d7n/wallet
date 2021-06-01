@@ -1,1 +1,1 @@
-var mnemonic = "denial replace perfect detect person review rocket color sample green poem tiny";
+var mnemonic = "tissue jar juice wash peace cave grass rain adjust immense bounce away";

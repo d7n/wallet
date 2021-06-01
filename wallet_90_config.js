@@ -1,1 +1,1 @@
-var mnemonic = "fade genuine love rather few walnut bench thank scatter coconut okay betray";
+var mnemonic = "crush party evidence common twelve what abuse charge arctic romance letter hood";

@@ -1,1 +1,1 @@
-var mnemonic = "thank prevent hammer rack memory whisper someone cannon skin tired wagon accident";
+var mnemonic = "shuffle combine alarm cancel silver inner cactus planet occur armor toward cherry";

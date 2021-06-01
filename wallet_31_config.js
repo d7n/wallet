@@ -1,1 +1,1 @@
-var mnemonic = "action sudden gallery fancy erosion maple unfair marine crouch antique candy core";
+var mnemonic = "phone wine era illness lumber eight jewel spice stay jeans admit attitude";

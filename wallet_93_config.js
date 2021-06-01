@@ -1,1 +1,1 @@
-var mnemonic = "together blouse void vanish airport memory want home hip radar plunge soon";
+var mnemonic = "give expand giraffe blood heart face void later agent scheme unusual jazz";

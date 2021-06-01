@@ -1,1 +1,1 @@
-var mnemonic = "october pioneer reform liberty vacuum lunar steak render brief area rich glow";
+var mnemonic = "image silver early dragon tank abstract tell loud barrel phone apple rally";

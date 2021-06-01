@@ -1,1 +1,1 @@
-var mnemonic = "vague warfare cliff village pupil child predict unlock idle story mean travel";
+var mnemonic = "torch claw vanish patrol situate again timber situate art proof aim peace";

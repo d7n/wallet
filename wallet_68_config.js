@@ -1,1 +1,1 @@
-var mnemonic = "tomato eternal tuition oil bid fiber school ridge trigger disagree tonight tree";
+var mnemonic = "budget apple top cage current brave can almost dog despair cage blanket";

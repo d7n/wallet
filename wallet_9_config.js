@@ -1,1 +1,1 @@
-var mnemonic = "hope upset answer pave mushroom hammer gap mask puppy circle toilet amount";
+var mnemonic = "attitude travel invest prevent prepare mixed frame thing search laugh key party";
