@@ -1,1 +1,1 @@
-var mnemonic = "express involve oblige urge employ despair isolate canyon jaguar repair home space";
+var mnemonic = "mimic teach thunder summer famous age glow purity april wait remove lesson";

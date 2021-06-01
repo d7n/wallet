@@ -1,1 +1,1 @@
-var mnemonic = "flag rebuild tone area regular decide giant friend trouble spoil join vast";
+var mnemonic = "shed bottom weird table sentence auto jazz economy culture side fork couple";

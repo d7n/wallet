@@ -1,1 +1,1 @@
-var mnemonic = "camp fork safe flower exclude excite expand fiber oxygen hurry tail hockey";
+var mnemonic = "normal demand diet huge juice hotel gentle frog angle then bird payment";

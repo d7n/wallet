@@ -1,1 +1,1 @@
-var mnemonic = "apart avoid youth permit acoustic sadness image okay inmate fever suffer glad";
+var mnemonic = "brick story satoshi duck already final pledge nurse sad fantasy love vital";

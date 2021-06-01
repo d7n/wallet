@@ -1,1 +1,1 @@
-var mnemonic = "faint drink crowd camp tooth relax ugly faith ozone lunch early wash";
+var mnemonic = "blade can sting police firm couple razor rigid budget useless proof gun";

@@ -1,1 +1,1 @@
-var mnemonic = "card first never battle gospel area permit worry knife combine entry judge";
+var mnemonic = "avoid spray decide actor mimic warrior diet inner barrel cave novel book";

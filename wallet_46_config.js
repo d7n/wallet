@@ -1,1 +1,1 @@
-var mnemonic = "outer hip chief volume cloth nuclear grit nominee pepper basic blossom motion";
+var mnemonic = "husband lamp diary help negative census urban rabbit begin sustain regret advance";

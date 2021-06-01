@@ -1,1 +1,1 @@
-var mnemonic = "coyote pioneer box spawn fancy soldier arctic expose goose supreme bar gown";
+var mnemonic = "pretty lucky real stable slice essence parade fold script multiply team topic";

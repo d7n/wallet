@@ -1,1 +1,1 @@
-var mnemonic = "chicken recall check artist raven trip sauce three merit chair vehicle space";
+var mnemonic = "ill position excite clown bag switch custom fluid brain census sphere ride";

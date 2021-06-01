@@ -1,1 +1,1 @@
-var mnemonic = "any ordinary enjoy pluck sound insane vault grace degree army wise better";
+var mnemonic = "sentence news ocean split tenant royal dilemma shallow mask garage fabric awake";

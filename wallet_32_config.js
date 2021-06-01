@@ -1,1 +1,1 @@
-var mnemonic = "outdoor erode depend trip bubble paper motion inform rug ghost grow sustain";
+var mnemonic = "misery muscle weekend mushroom rain beef stove account ill palm viable hotel";

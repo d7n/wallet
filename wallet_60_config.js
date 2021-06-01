@@ -1,1 +1,1 @@
-var mnemonic = "stock oil rain trend lazy dutch slow ten again boil prosper baby";
+var mnemonic = "female modify chase wish clever news cat verb soon ramp bean kiwi";

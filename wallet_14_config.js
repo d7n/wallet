@@ -1,1 +1,1 @@
-var mnemonic = "negative glare diesel van advance goat merit rare require label ankle clown";
+var mnemonic = "plug mass stem absent cargo mouse kidney bullet party photo farm resource";

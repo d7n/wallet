@@ -1,1 +1,1 @@
-var mnemonic = "pony hurt news stone cigar original noise nature option boat right athlete";
+var mnemonic = "funny bird rice shaft math rebel festival absurd beach wine movie box";

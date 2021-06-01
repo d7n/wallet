@@ -1,1 +1,1 @@
-var mnemonic = "inquiry sure because credit always gas butter local carbon beauty fresh science";
+var mnemonic = "unveil expect sausage jaguar solve blanket census install silver skull visa royal";

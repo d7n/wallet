@@ -1,1 +1,1 @@
-var mnemonic = "veteran flash shallow path pelican rocket weather tennis honey robust never kid";
+var mnemonic = "album reveal fabric absorb ivory card access decrease source joke gravity physical";

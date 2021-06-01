@@ -1,1 +1,1 @@
-var mnemonic = "play assume grant crop ankle wreck pony tree lady fee arena holiday";
+var mnemonic = "artwork whisper sword spawn ship supply lonely aisle donor dawn circle rule";

@@ -1,1 +1,1 @@
-var mnemonic = "peace material obscure tornado absorb kitchen name heart jacket pink fatal educate";
+var mnemonic = "dinosaur kid border patch violin print mimic boat nut depend survey object";

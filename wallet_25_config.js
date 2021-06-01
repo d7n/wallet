@@ -1,1 +1,1 @@
-var mnemonic = "pottery enough text little thought fun candy luxury nation total patient inside";
+var mnemonic = "increase either virus remind order spider feature tool aware bid will cost";

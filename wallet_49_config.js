@@ -1,1 +1,1 @@
-var mnemonic = "puzzle develop side humble umbrella exhibit axis invest click genre shop scorpion";
+var mnemonic = "few during code direct consider summer brand license act pattern floor immune";

@@ -1,1 +1,1 @@
-var mnemonic = "metal close stem atom decade evil test useless evil proof donkey surround";
+var mnemonic = "ribbon law donor iron weather one alley arm speak repeat reveal track";

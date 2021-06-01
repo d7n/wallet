@@ -1,1 +1,1 @@
-var mnemonic = "glory portion noodle sudden indoor globe gentle foster roof segment pony leaf";
+var mnemonic = "width junior dance fiction pledge team jelly carbon wedding coil flip shift";

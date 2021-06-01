@@ -1,1 +1,1 @@
-var mnemonic = "sunset window giggle convince track inherit clarify fitness pool fold forward awesome";
+var mnemonic = "degree any town multiply doctor snack wrong scare remain motion unfold fee";

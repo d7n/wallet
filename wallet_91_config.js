@@ -1,1 +1,1 @@
-var mnemonic = "hint festival middle fuel response elite plug planet someone magic grunt fiber";
+var mnemonic = "melody brisk live else tiny where tone split above impose crack diary";

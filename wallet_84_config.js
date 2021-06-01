@@ -1,1 +1,1 @@
-var mnemonic = "weather effort nest vacuum enlist predict try science entry vapor close comfort";
+var mnemonic = "erase reduce business mother scatter silk manage rubber dirt bamboo shadow affair";

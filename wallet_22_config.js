@@ -1,1 +1,1 @@
-var mnemonic = "camera enlist run output cigar bulb example service mom upon arch tomato";
+var mnemonic = "bundle figure feature victory balcony method hollow sunny shed choose soul hair";

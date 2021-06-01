@@ -1,1 +1,1 @@
-var mnemonic = "model cereal across swear want general claw spoon bleak outside eight praise";
+var mnemonic = "add caution lab crowd laundry duck record anger baby palm genius step";

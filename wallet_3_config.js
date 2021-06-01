@@ -1,1 +1,1 @@
-var mnemonic = "dust simple review lawsuit tobacco few sand someone artist patient case connect";
+var mnemonic = "vehicle dolphin member embrace enact upon rival weather sort garage artwork tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic recipe much hour silver razor oval pair umbrella blast step problem";
+var mnemonic = "trophy outer time valve leave couch antique hollow finger gauge black goat";

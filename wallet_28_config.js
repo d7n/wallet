@@ -1,1 +1,1 @@
-var mnemonic = "tribe sand indicate viable pupil involve hard erupt already offer autumn switch";
+var mnemonic = "horror garbage tube blast choice nation unaware stone duty flip room sport";

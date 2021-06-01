@@ -1,1 +1,1 @@
-var mnemonic = "estate fix claw file session square gown dove sun dry unique slam";
+var mnemonic = "milk clown joke merge series destroy humble ski display hurt dwarf slender";

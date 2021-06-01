@@ -1,1 +1,1 @@
-var mnemonic = "describe bounce guess pilot chat view fatigue film ask web much share";
+var mnemonic = "camp loop legend mixed gravity forget divert brief rent injury between kiss";

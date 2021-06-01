@@ -1,1 +1,1 @@
-var mnemonic = "inch neither toilet remind sleep prepare engine canoe spawn eye tank cross";
+var mnemonic = "clever music cable nation swarm symptom thank sentence observe normal winter scrap";

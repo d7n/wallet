@@ -1,1 +1,1 @@
-var mnemonic = "skate pause when ring either gun road cloud all shrimp kangaroo muffin";
+var mnemonic = "found lend eye nerve deer capable law width obtain virtual arrest local";

@@ -1,1 +1,1 @@
-var mnemonic = "demise fat fantasy corn system rough expand intact eyebrow nuclear reward license";
+var mnemonic = "develop medal transfer gate rough keen liberty mansion rail rare sick deny";

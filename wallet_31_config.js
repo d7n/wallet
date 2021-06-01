@@ -1,1 +1,1 @@
-var mnemonic = "final smooth engage fantasy fiscal share milk strong mind keep tide finger";
+var mnemonic = "area trophy sample mix keep exhibit host edit police despair soccer soap";

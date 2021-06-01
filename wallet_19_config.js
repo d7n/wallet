@@ -1,1 +1,1 @@
-var mnemonic = "forget obey spend field era knock winner stay strategy ordinary neither deputy";
+var mnemonic = "order toilet case library fatal jeans cream exhaust whale index crush topic";

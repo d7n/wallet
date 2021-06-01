@@ -1,1 +1,1 @@
-var mnemonic = "prison ramp drive lesson winter buddy used rice ketchup unhappy size illegal";
+var mnemonic = "toe picnic normal timber fork black below winter eagle spot shove viable";

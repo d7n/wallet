@@ -1,1 +1,1 @@
-var mnemonic = "camp tree under luggage elephant quality beef control spoil nice clean climb";
+var mnemonic = "suggest razor voyage orbit useful dilemma salon under vintage drum force exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "crime curve alert carpet use raw later crack visa vibrant uniform advice";
+var mnemonic = "bounce elbow oven lemon brand vault one ivory describe force chronic rely";

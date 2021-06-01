@@ -1,1 +1,1 @@
-var mnemonic = "day sand soda cost sugar meadow fault garden detect oppose immense duck";
+var mnemonic = "math awful uncle honey caught true match craft crater dentist balcony unhappy";

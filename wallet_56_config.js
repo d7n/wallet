@@ -1,1 +1,1 @@
-var mnemonic = "door sun garden village awesome alcohol viable lyrics guide fan finish flat";
+var mnemonic = "benefit solve popular person setup submit traffic warrior sure egg embark eternal";

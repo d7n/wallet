@@ -1,1 +1,1 @@
-var mnemonic = "magnet trial width goat seed sting toast lawsuit toward what orbit trick";
+var mnemonic = "guitar art now athlete pledge quiz weasel visa april stable thunder arrive";

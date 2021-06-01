@@ -1,1 +1,1 @@
-var mnemonic = "brush poet cover buyer wife sorry forest edit cover device concert gun";
+var mnemonic = "material supply tortoise solve camera aware segment acquire foam lab again hub";

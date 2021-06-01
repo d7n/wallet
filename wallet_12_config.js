@@ -1,1 +1,1 @@
-var mnemonic = "shield jeans fade usage pioneer clinic rare salute truth nothing indicate regret";
+var mnemonic = "exercise oblige able address hello daring reason donkey decide chunk pen symptom";

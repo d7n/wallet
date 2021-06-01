@@ -1,1 +1,1 @@
-var mnemonic = "program weekend source record hat cinnamon dolphin vote bright pretty obvious pink";
+var mnemonic = "plug cabin quick guess world afford wrestle light gift noble doctor blossom";

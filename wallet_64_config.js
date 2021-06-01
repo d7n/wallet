@@ -1,1 +1,1 @@
-var mnemonic = "unusual million spare cactus census comic empty tilt there window price virtual";
+var mnemonic = "eye illness enforce weasel maze opinion motor chunk scare panel movie chat";

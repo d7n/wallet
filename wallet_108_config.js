@@ -1,1 +1,1 @@
-var mnemonic = "inch allow pitch brick work damp author foot quick again topple mirror";
+var mnemonic = "rely tattoo love buyer gym absent work piano trim humor damage spirit";

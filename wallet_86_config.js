@@ -1,1 +1,1 @@
-var mnemonic = "identify brain lion rapid damage pond kidney shuffle punch bench sentence can";
+var mnemonic = "zoo vibrant ritual photo plastic giggle toilet pet rally judge blanket trial";

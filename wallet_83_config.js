@@ -1,1 +1,1 @@
-var mnemonic = "nasty fossil task nerve major silly uphold shoe old boy element helmet";
+var mnemonic = "urban waste sister wall fog skate machine time sniff school metal cram";

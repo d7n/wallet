@@ -1,1 +1,1 @@
-var mnemonic = "host assume fruit stem space trumpet duck battle diamond index beach desert";
+var mnemonic = "remain pull gather course fatigue mom layer hint sock local enforce creek";

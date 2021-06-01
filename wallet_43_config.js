@@ -1,1 +1,1 @@
-var mnemonic = "tube length salute two label cute life cup example version exotic enhance";
+var mnemonic = "venture width nuclear draw salt fragile favorite penalty say amused manage hurry";

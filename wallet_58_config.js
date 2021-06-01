@@ -1,1 +1,1 @@
-var mnemonic = "alley blue benefit table crisp auto exact repair actual idle social season";
+var mnemonic = "behind board fine steel before life security barrel armor hub faith auction";

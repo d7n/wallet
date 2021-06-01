@@ -1,1 +1,1 @@
-var mnemonic = "fatal core forum pilot minute raise crazy potato discover client hurry drift";
+var mnemonic = "account celery phone armor midnight body ask like inhale aspect antenna beauty";

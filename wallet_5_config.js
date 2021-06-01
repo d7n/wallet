@@ -1,1 +1,1 @@
-var mnemonic = "square same social normal allow alpha square sleep town moment elder doctor";
+var mnemonic = "machine young page gloom stone exile popular foil source vanish meat first";

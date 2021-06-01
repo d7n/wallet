@@ -1,1 +1,1 @@
-var mnemonic = "wolf fit fine rival reason grass antenna coffee property bench twice ugly";
+var mnemonic = "snow erode sport choice prison entire what primary blood two ski cruise";

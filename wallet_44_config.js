@@ -1,1 +1,1 @@
-var mnemonic = "easily list subway captain birth quiz submit deny wise become volcano loyal";
+var mnemonic = "north popular skirt also honey ceiling seat shed hospital cloth leopard old";

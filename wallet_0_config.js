@@ -1,1 +1,1 @@
-var mnemonic = "level truly nose armor ethics old lock length identify pyramid text age";
+var mnemonic = "suspect barrel laptop coyote emerge brand must hollow region just answer recipe";

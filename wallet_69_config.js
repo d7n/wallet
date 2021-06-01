@@ -1,1 +1,1 @@
-var mnemonic = "drill raw ring license cream bulb sting divorce nest smoke want mass";
+var mnemonic = "document plastic lonely scout become used abuse erase female fiction horn paper";

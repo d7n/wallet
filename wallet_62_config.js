@@ -1,1 +1,1 @@
-var mnemonic = "thought fame theory always force squirrel town believe modify connect reason solve";
+var mnemonic = "dog bounce swap music various crew hover prize bleak dose kitchen cart";

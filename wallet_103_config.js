@@ -1,1 +1,1 @@
-var mnemonic = "start recycle mass split indicate fetch main supply hint sibling educate ball";
+var mnemonic = "exist naive wedding praise tenant potato ahead hobby another fine copper whisper";

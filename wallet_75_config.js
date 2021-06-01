@@ -1,1 +1,1 @@
-var mnemonic = "casino angle winner mixed carpet magic prevent range side mutual poem congress";
+var mnemonic = "airport tube idle below boring truly urge muffin joy mansion drastic price";

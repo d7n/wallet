@@ -1,1 +1,1 @@
-var mnemonic = "tomato strong human boss toss where dinosaur lava submit smile vanish busy";
+var mnemonic = "churn time loud robust clean heavy allow cute fan desk father science";

@@ -1,1 +1,1 @@
-var mnemonic = "insane offer click duck another airport slide close dad hero plastic animal";
+var mnemonic = "panel client hover vicious flip response autumn swim mean project win unknown";

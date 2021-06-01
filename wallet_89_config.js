@@ -1,1 +1,1 @@
-var mnemonic = "small aim dirt else fabric problem end put delay hunt relax ball";
+var mnemonic = "donkey praise six mountain chat voyage green elder oblige harbor tortoise manage";

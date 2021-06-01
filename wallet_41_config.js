@@ -1,1 +1,1 @@
-var mnemonic = "such spread artwork despair vocal dignity question force chunk kidney race expose";
+var mnemonic = "syrup prosper marble blouse also mystery toe slight motion crater eye bamboo";

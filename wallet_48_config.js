@@ -1,1 +1,1 @@
-var mnemonic = "situate guess initial enter sphere link before possible like change much zone";
+var mnemonic = "digital coconut birth inflict unhappy gauge load ugly injury sense rocket patrol";

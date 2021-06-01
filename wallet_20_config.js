@@ -1,1 +1,1 @@
-var mnemonic = "mercy meadow future glad put cherry crunch bundle pear problem guitar castle";
+var mnemonic = "vast find round clever arctic trouble car scatter bronze puppy buffalo boil";

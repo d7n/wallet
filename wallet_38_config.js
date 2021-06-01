@@ -1,1 +1,1 @@
-var mnemonic = "blush approve wide local verify shy lunar object dinner field evidence pulp";
+var mnemonic = "harbor high spin people steak abstract mountain mixture narrow junior fun loyal";

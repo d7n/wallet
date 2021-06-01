@@ -1,1 +1,1 @@
-var mnemonic = "army because banner obvious solar ecology copy human ketchup silver surface brand";
+var mnemonic = "issue sport chest wire glow floor calm lecture miss action dwarf render";

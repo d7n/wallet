@@ -1,1 +1,1 @@
-var mnemonic = "result clap floor forest ring potato jungle access remove tiny elephant burst";
+var mnemonic = "decrease analyst skill snack thrive joy seek tattoo pattern purpose embark under";

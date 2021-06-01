@@ -1,1 +1,1 @@
-var mnemonic = "consider cereal glad immense annual pause close tongue minimum ivory lecture fog";
+var mnemonic = "salon loyal engage chat alarm rabbit screen senior desert receive calm empower";

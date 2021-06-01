@@ -1,1 +1,1 @@
-var mnemonic = "cereal office tongue betray purpose impact acquire when process master squirrel ethics";
+var mnemonic = "divide wreck measure crunch couple pond recipe turn cereal bounce sorry reunion";

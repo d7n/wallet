@@ -1,1 +1,1 @@
-var mnemonic = "rookie inspire memory monkey rubber gym table pipe vault remind chief choice";
+var mnemonic = "heavy element veteran install foam evil laugh wife amount crowd minor better";

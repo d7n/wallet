@@ -1,1 +1,1 @@
-var mnemonic = "law obey whisper panda shadow garden basic doll dust sword else donkey";
+var mnemonic = "bulb tornado pepper electric bean mouse defense garment lunch tip own thumb";

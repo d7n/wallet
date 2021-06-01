@@ -1,1 +1,1 @@
-var mnemonic = "practice pyramid trap menu predict day vacant miss town divorce slab steak";
+var mnemonic = "snap slide extra prosper extend tumble horn patient sister donate mistake glass";

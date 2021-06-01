@@ -1,1 +1,1 @@
-var mnemonic = "cherry someone outside raw ugly increase detail curtain valid snack blade mixed";
+var mnemonic = "between left require media biology gasp stand salute annual gas add jeans";

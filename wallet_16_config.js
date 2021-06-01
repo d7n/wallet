@@ -1,1 +1,1 @@
-var mnemonic = "duck adjust track victory rocket display staff crew rare able entry garment";
+var mnemonic = "ethics hazard resemble life often sunny extra gadget latin glance rapid sentence";

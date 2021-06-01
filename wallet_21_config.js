@@ -1,1 +1,1 @@
-var mnemonic = "inmate thumb buffalo picture win kangaroo faculty common meadow fancy twin luxury";
+var mnemonic = "stumble execute kite obey labor impose large shoe grape emerge discover caught";

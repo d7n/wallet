@@ -1,1 +1,1 @@
-var mnemonic = "useless solid wheat cliff people original forest left among pride squirrel crystal";
+var mnemonic = "evil end broom pupil dinner diary option trick spider tortoise forward vast";

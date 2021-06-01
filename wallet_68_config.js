@@ -1,1 +1,1 @@
-var mnemonic = "village erode napkin suggest spot belt game bracket cluster awful health reunion";
+var mnemonic = "wrap stove accident grief guilt buffalo easily clog deliver control spoon stool";

@@ -1,1 +1,1 @@
-var mnemonic = "nation cheap address boil citizen finger electric chat select crisp practice bike";
+var mnemonic = "vacant seat thing label involve tube artefact retire sentence must foil rose";

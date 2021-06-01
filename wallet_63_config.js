@@ -1,1 +1,1 @@
-var mnemonic = "leaf nurse gasp boat leader august eager excite name limit very crane";
+var mnemonic = "grow reduce humble smooth suit hint trend service thank note item loyal";

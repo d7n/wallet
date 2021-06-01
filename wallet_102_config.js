@@ -1,1 +1,1 @@
-var mnemonic = "key inside hair anchor pride gesture corn swim crane early kitchen vital";
+var mnemonic = "glide supply cinnamon veteran valley tuition sustain code vital course canyon cry";

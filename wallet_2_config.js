@@ -1,1 +1,1 @@
-var mnemonic = "endless stereo promote kitchen lawsuit modify narrow ridge forum proof absent elder";
+var mnemonic = "cloud immune scare visa ketchup spoil someone process siege curve ice theme";

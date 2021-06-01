@@ -1,1 +1,1 @@
-var mnemonic = "length river letter sphere expand truth bacon bracket charge aunt young lens";
+var mnemonic = "glad shed retreat trim bag excuse gather vacant fantasy water steak step";

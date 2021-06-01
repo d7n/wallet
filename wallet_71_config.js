@@ -1,1 +1,1 @@
-var mnemonic = "grain squirrel usage dog salmon note exist muscle region neck bean embody";
+var mnemonic = "sun fish way toy tag receive blue catch noble remove cover fly";

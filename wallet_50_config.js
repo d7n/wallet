@@ -1,1 +1,1 @@
-var mnemonic = "access strategy gasp ecology release hurdle melody vocal genuine stuff debris glow";
+var mnemonic = "license twist enter crime canyon around ribbon body cloud mix cute elite";

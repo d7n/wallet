@@ -1,1 +1,1 @@
-var mnemonic = "stable camp grace glance chicken lawn beach wrist divorce monitor limb trust";
+var mnemonic = "race black jeans daughter sell talk economy fire grow nature congress memory";

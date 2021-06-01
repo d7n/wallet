@@ -1,1 +1,1 @@
-var mnemonic = "visit immense mechanic infant prison pattern solution castle picture afraid law orange";
+var mnemonic = "village drum garden cliff window history huge ripple silly slow column cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "attract dignity tunnel raw crazy help feed release guide hair bleak increase";
+var mnemonic = "urge alpha cool utility cushion address wrap mad law summer chimney hamster";

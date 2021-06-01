@@ -1,1 +1,1 @@
-var mnemonic = "vessel notable curious help stock spider ensure orphan juice update group wealth";
+var mnemonic = "offer more charge light boat prize spoon guilt estate draft melt mango";

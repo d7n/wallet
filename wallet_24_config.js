@@ -1,1 +1,1 @@
-var mnemonic = "wing demand zebra music trial click gaze good repeat daring choose page";
+var mnemonic = "beach acid ostrich pink cradle camp reunion opinion issue sweet below into";
