@@ -1,1 +1,1 @@
-var mnemonic = "acquire prepare inquiry random involve soul shell mansion tissue acoustic sister horror";
+var mnemonic = "climb scorpion grid welcome soft during lawsuit imitate juice misery catch tip";

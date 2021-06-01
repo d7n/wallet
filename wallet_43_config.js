@@ -1,1 +1,1 @@
-var mnemonic = "know rose grocery reason great whip genuine punch trend snake gaze immune";
+var mnemonic = "file wife hungry riot shrug garlic stick excite profit addict object early";

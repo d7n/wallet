@@ -1,1 +1,1 @@
-var mnemonic = "room blanket neither tower enrich follow clock demise provide abstract domain dose";
+var mnemonic = "area error soap behave tattoo unaware accident certain narrow high master blush";

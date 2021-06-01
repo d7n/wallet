@@ -1,1 +1,1 @@
-var mnemonic = "dance dry mango abstract frost divide obtain tent mesh stereo twenty beach";
+var mnemonic = "resource swallow mercy return raw luxury insane suspect barrel brisk flock size";

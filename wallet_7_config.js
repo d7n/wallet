@@ -1,1 +1,1 @@
-var mnemonic = "copper bar review fossil spider tackle duty rough script scale fame beauty";
+var mnemonic = "run mother warrior utility canal panther blade rough limit intact staff oval";

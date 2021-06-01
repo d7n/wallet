@@ -1,1 +1,1 @@
-var mnemonic = "bottom leave fine patch black end bacon unfair vehicle narrow pitch this";
+var mnemonic = "neither ball square long sell body trumpet planet soup useless fever decline";

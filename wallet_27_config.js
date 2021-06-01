@@ -1,1 +1,1 @@
-var mnemonic = "fall excess opera exchange dawn chest put region exclude left impulse dolphin";
+var mnemonic = "escape lumber foam damage hat virtual oppose search flower they say bonus";

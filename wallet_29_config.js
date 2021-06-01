@@ -1,1 +1,1 @@
-var mnemonic = "useful differ exotic hurdle lucky win grief feed pioneer jungle drink evoke";
+var mnemonic = "dutch smile deliver cherry dismiss kangaroo rhythm cable improve size inmate cattle";

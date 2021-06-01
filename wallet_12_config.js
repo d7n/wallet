@@ -1,1 +1,1 @@
-var mnemonic = "hip across rapid deposit kind insane alert glass pull slow donkey tragic";
+var mnemonic = "render burger reveal member prepare inside next scorpion leave huge narrow boring";

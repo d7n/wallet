@@ -1,1 +1,1 @@
-var mnemonic = "casino mystery crunch elder unlock spread table glory vehicle walnut shy banana";
+var mnemonic = "victory butter rotate ozone divorce taste return stool fury crouch cheese steak";

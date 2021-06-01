@@ -1,1 +1,1 @@
-var mnemonic = "return lounge video hover mind bright pluck steak dad avocado smooth upper";
+var mnemonic = "property rabbit welcome tip yellow shrimp matter lava opera fringe stand loyal";

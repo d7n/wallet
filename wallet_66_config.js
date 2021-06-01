@@ -1,1 +1,1 @@
-var mnemonic = "shaft giggle reason check receive enforce erosion slow lazy pair winter truth";
+var mnemonic = "come edge talent cliff proud theory task stock casino image oven explain";

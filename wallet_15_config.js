@@ -1,1 +1,1 @@
-var mnemonic = "crack bless grape original frozen script whale fun announce paddle sentence silver";
+var mnemonic = "garment vendor usage master ride dog leg cash long orange lawn staff";

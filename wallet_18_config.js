@@ -1,1 +1,1 @@
-var mnemonic = "tent flag suspect require digital rich bag wisdom range museum chat floor";
+var mnemonic = "notable file shoulder critic torch jaguar all drive music dizzy index vacuum";

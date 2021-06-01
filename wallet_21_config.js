@@ -1,1 +1,1 @@
-var mnemonic = "crash home isolate humor execute scrap smooth cry push kiwi cancel pretty";
+var mnemonic = "wife hood salute fetch awake warfare garbage believe combine cheap size ghost";

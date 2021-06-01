@@ -1,1 +1,1 @@
-var mnemonic = "wheat wisdom sock obtain cube receive skin cram pig divorce extra pride";
+var mnemonic = "speed earth fame whisper sadness jazz method model shock mad normal garage";

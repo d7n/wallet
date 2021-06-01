@@ -1,1 +1,1 @@
-var mnemonic = "cram hint skirt plate churn above absurd eyebrow bachelor club pigeon stove";
+var mnemonic = "swim flee super hero fox purchase model near grocery cycle verify noble";

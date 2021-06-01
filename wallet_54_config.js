@@ -1,1 +1,1 @@
-var mnemonic = "front unfold scrap fatigue print claim tennis fiber okay display similar merit";
+var mnemonic = "wash green that avoid above bean broom grant merit can reason buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke cream phrase tag radio blue robust acid off mutual stomach lady";
+var mnemonic = "diagram this furnace come enter wrap cram ritual job roof cute regret";

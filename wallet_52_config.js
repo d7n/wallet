@@ -1,1 +1,1 @@
-var mnemonic = "scare captain muffin minimum nuclear hover roast kick pony record hurry rain";
+var mnemonic = "young crowd fame nuclear media work neck smile ribbon cream blush gun";

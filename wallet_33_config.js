@@ -1,1 +1,1 @@
-var mnemonic = "ripple good impact iron flip plastic popular spy laugh jazz foil logic";
+var mnemonic = "flag relax eagle admit bronze ask capable fox effort tenant useless sad";

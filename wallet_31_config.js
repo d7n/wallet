@@ -1,1 +1,1 @@
-var mnemonic = "cargo sign fever shock method sun omit luggage derive will onion review";
+var mnemonic = "rack wrong napkin art pride lab direct what gesture worth pelican script";

@@ -1,1 +1,1 @@
-var mnemonic = "awful climb bid size isolate goddess broccoli picture slight mind economy woman";
+var mnemonic = "become forum drink thrive young better quarter daughter permit category width dress";

@@ -1,1 +1,1 @@
-var mnemonic = "around army regular winter dawn tennis glove comfort crystal nation spawn spin";
+var mnemonic = "soda skirt stool trip divert miss stereo range domain chuckle replace omit";

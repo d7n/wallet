@@ -1,1 +1,1 @@
-var mnemonic = "satoshi repeat bar pluck tunnel travel creek casino prevent awesome auction sun";
+var mnemonic = "razor group various ten skull visual fun face kid help wheat survey";

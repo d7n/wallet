@@ -1,1 +1,1 @@
-var mnemonic = "earth anger hire toast dress patch layer volume comfort fiction banana clutch";
+var mnemonic = "disagree enforce patrol collect blanket flock choice desert pencil caution motion diary";

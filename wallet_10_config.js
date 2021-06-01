@@ -1,1 +1,1 @@
-var mnemonic = "popular february parade figure core inherit kiwi differ exact cube series link";
+var mnemonic = "hand butter lizard update business dumb market kidney hazard impose bracket essay";

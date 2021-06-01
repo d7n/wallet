@@ -1,1 +1,1 @@
-var mnemonic = "pledge castle shield video meadow oyster excuse wood above spray account leave";
+var mnemonic = "then tornado donate grass west thrive strategy snow river desk dream farm";

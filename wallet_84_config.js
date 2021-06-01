@@ -1,1 +1,1 @@
-var mnemonic = "job note cash attitude cancel trash balcony couch legal kitchen bridge abandon";
+var mnemonic = "little drill glory zero priority upgrade primary universe ancient salon size october";

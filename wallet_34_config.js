@@ -1,1 +1,1 @@
-var mnemonic = "faint six often assault renew month nurse biology step safe frown annual";
+var mnemonic = "flame suggest dust blue sorry turtle lemon phone stem canvas slight hour";

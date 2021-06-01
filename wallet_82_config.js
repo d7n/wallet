@@ -1,1 +1,1 @@
-var mnemonic = "over fashion squeeze travel art media false exact cupboard such fold depend";
+var mnemonic = "mutual congress marine carry fortune section swap picture vacuum awake theory sustain";

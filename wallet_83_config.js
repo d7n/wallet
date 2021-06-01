@@ -1,1 +1,1 @@
-var mnemonic = "sick upon giraffe work entire over teach mobile bone cinnamon rain kit";
+var mnemonic = "wise renew island nuclear vessel hero dumb glove humble creek treat hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "between all announce again month brief ozone bachelor service cactus multiply ginger";
+var mnemonic = "jeans toward silver page price unique view isolate gesture depart share noble";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom heavy shuffle maze cotton trend bracket innocent random amateur ancient easy";
+var mnemonic = "negative nurse latin general phone sure glare flower day hawk you material";

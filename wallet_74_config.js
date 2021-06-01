@@ -1,1 +1,1 @@
-var mnemonic = "sister friend entire render gentle left mirror clock level mom maze tree";
+var mnemonic = "sniff armor arena off sketch kitchen monkey vote border dinner pepper surprise";

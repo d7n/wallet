@@ -1,1 +1,1 @@
-var mnemonic = "fame surprise fitness dish echo decrease idle vacuum hire immune allow enemy";
+var mnemonic = "chief thing ticket orphan kitchen delay police brush gaze sign merit fan";

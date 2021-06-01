@@ -1,1 +1,1 @@
-var mnemonic = "drift actual identify disease catalog sleep bicycle erase winner elder problem muffin";
+var mnemonic = "tomorrow art mechanic concert yellow hamster pull jungle unable never unable search";

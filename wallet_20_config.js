@@ -1,1 +1,1 @@
-var mnemonic = "armed foster frozen cart youth enough blade great survey manage genuine disease";
+var mnemonic = "fly awesome candy police pact wife issue pave couple wolf into fiber";

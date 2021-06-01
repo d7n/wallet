@@ -1,1 +1,1 @@
-var mnemonic = "call genre profit hospital cram pride ability solution claim client one suit";
+var mnemonic = "ordinary muscle swim music else noise stove usage debate legend sustain quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum eager cereal unable guilt start diesel idea hand layer fun satisfy";
+var mnemonic = "enforce addict subway can calm trade team gorilla upset maid thing color";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom piece tone mechanic erode cool arrest course rude knock victory tag";
+var mnemonic = "weekend repair age defy symptom script flight female process ginger vacuum bronze";

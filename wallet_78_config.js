@@ -1,1 +1,1 @@
-var mnemonic = "domain close trophy castle photo sketch garment jealous kite exist brown abuse";
+var mnemonic = "expose wire minor hockey action frown avocado rare chalk decide armed bleak";

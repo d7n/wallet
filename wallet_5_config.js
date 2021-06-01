@@ -1,1 +1,1 @@
-var mnemonic = "ankle lumber bitter inherit gold repair talent bullet scrub give impulse quality";
+var mnemonic = "velvet crime shoulder mix prefer clump drill approve already deer joke garlic";

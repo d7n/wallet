@@ -1,1 +1,1 @@
-var mnemonic = "fade liar unveil sense little rifle piece two stadium close shine famous";
+var mnemonic = "mouse card promote strike rebuild sweet note aware vintage soft margin lecture";

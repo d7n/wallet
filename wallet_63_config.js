@@ -1,1 +1,1 @@
-var mnemonic = "viable ready crunch brief siege ketchup very proud ability float dice mistake";
+var mnemonic = "add group what silver reason please hotel frozen stage satisfy squeeze dawn";

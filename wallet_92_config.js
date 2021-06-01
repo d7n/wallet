@@ -1,1 +1,1 @@
-var mnemonic = "pizza wasp stay soul junk hammer ordinary jelly enhance speak gown slam";
+var mnemonic = "then lend shock estate duty bus twenty dragon critic unveil income across";

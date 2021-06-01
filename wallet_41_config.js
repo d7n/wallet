@@ -1,1 +1,1 @@
-var mnemonic = "object sort tourist slogan buddy rapid mom disorder remain okay aunt hurt";
+var mnemonic = "doll venue bargain orchard rabbit sausage polar snap soldier fat frost measure";

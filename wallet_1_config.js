@@ -1,1 +1,1 @@
-var mnemonic = "siren bundle tomato talent elder text suffer fitness mystery next system garage";
+var mnemonic = "resemble repair giraffe that table magnet embark summer detail false cannon vintage";

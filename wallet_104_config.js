@@ -1,1 +1,1 @@
-var mnemonic = "monster involve analyst lecture harbor debris hire until wheat point erosion receive";
+var mnemonic = "panic horse apart aim scorpion cruel trash wage filter elephant layer then";

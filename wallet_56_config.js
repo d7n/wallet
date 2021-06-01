@@ -1,1 +1,1 @@
-var mnemonic = "cause mutual ski relief wild alcohol comic awful uncle stick logic fade";
+var mnemonic = "about void exile diagram owner abuse raccoon village material sure digital only";

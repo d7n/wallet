@@ -1,1 +1,1 @@
-var mnemonic = "forget blanket dilemma clarify run combine wasp work tuna step isolate prevent";
+var mnemonic = "clog twelve leaf wing crunch similar dumb cool globe minor pitch usage";

@@ -1,1 +1,1 @@
-var mnemonic = "kite ten thrive sauce slice reason peanut unusual admit father any require";
+var mnemonic = "mouse all soup fade rifle buyer spend awkward print escape steak sure";

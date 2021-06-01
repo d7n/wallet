@@ -1,1 +1,1 @@
-var mnemonic = "sister such cushion expand drink fork pattern weird tornado theory license pool";
+var mnemonic = "sword merit fruit radar announce angle crucial brain chronic office measure icon";

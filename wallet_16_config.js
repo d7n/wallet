@@ -1,1 +1,1 @@
-var mnemonic = "select ribbon supply mansion pattern trash crouch virtual icon that put fiber";
+var mnemonic = "track inquiry vanish fiber gate minor worth fatigue slice square cram north";

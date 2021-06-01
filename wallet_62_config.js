@@ -1,1 +1,1 @@
-var mnemonic = "snap tomato leave arrow arm draw advance bird prosper december easily balance";
+var mnemonic = "science sell mule visual tunnel vote atom reject relief short claw clock";

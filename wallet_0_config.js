@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit next hotel bronze session ancient park coin scorpion hospital level crack";
+var mnemonic = "luggage source jungle must essence truly phrase envelope online call festival drink";

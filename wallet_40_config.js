@@ -1,1 +1,1 @@
-var mnemonic = "margin gaze toddler man thought thrive alter host crunch roof proud erupt";
+var mnemonic = "inmate chef soul enter crumble breeze insane over empower head east pear";

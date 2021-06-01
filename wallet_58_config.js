@@ -1,1 +1,1 @@
-var mnemonic = "plastic memory flee lend speak emotion team book hint nurse novel error";
+var mnemonic = "meadow blue cost science next history bachelor apart pair cake before bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune pave rigid note shop town fire grain speed mushroom powder few";
+var mnemonic = "oxygen thrive grab online drink genuine must guitar whisper vendor party example";

@@ -1,1 +1,1 @@
-var mnemonic = "deny uphold essay cross leaf inject fly scan sunset kitten execute wreck";
+var mnemonic = "opinion grape foam across still foster chief setup cluster multiply cube office";

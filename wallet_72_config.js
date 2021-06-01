@@ -1,1 +1,1 @@
-var mnemonic = "account sign talent bench gift tackle matter bronze artist author comic tape";
+var mnemonic = "film sudden music buyer fly olive universe noise tide busy movie govern";

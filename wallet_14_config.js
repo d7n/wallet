@@ -1,1 +1,1 @@
-var mnemonic = "edit elevator begin penalty pill uncover expand narrow public knee alpha flip";
+var mnemonic = "regular clerk message eager level clap glad cat shrug myself deputy meadow";

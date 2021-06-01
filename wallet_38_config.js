@@ -1,1 +1,1 @@
-var mnemonic = "section okay together cruise asthma impose rice desk elephant pitch album note";
+var mnemonic = "sunset swap retire void hungry tool area glad age element early drift";

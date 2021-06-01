@@ -1,1 +1,1 @@
-var mnemonic = "bless assault seven cactus beef swallow reason camp bronze salad milk magnet";
+var mnemonic = "romance liberty circle unfold refuse betray current boost render school spray review";

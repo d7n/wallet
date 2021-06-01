@@ -1,1 +1,1 @@
-var mnemonic = "predict bounce cat change harsh lunch birth trial frost grocery attitude casual";
+var mnemonic = "link forget mesh random valid doll gravity exit rib trumpet pet give";

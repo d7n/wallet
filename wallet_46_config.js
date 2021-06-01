@@ -1,1 +1,1 @@
-var mnemonic = "february survey fragile arrive bright clown initial bread depend bike knife orient";
+var mnemonic = "purity veteran nothing water index luxury rent garage allow frost pulp ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "manual judge wet body penalty nasty subject orphan essay inspire mule age";
+var mnemonic = "skull side step honey require topple vocal stamp two music mimic label";

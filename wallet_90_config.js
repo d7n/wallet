@@ -1,1 +1,1 @@
-var mnemonic = "hurry real allow spray hammer rate fiscal shield similar afford confirm slide";
+var mnemonic = "grace decrease scorpion snow corn power walnut body fire eight race dice";

@@ -1,1 +1,1 @@
-var mnemonic = "credit donate umbrella light apology punch lonely bicycle cream jealous universe city";
+var mnemonic = "erosion glad onion glove defy all permit train canyon season knife midnight";

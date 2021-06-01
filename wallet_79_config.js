@@ -1,1 +1,1 @@
-var mnemonic = "announce yellow gentle vessel mountain uncle portion empty initial urban obscure harsh";
+var mnemonic = "else portion tiger employ echo venture twelve receive grass whisper slim swift";

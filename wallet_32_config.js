@@ -1,1 +1,1 @@
-var mnemonic = "patch faith captain quit mechanic glue arm flee swim system sell check";
+var mnemonic = "visa layer mention aunt endorse skirt oyster visit dash nut loyal ski";

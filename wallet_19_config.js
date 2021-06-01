@@ -1,1 +1,1 @@
-var mnemonic = "federal guitar west galaxy hole certain hidden purchase main rug winter riot";
+var mnemonic = "trade miss goose various symptom swim dream grid dynamic skull subject zero";

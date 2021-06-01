@@ -1,1 +1,1 @@
-var mnemonic = "credit enough repeat text margin company tone dad express clarify coil lawsuit";
+var mnemonic = "brown fever oak mystery add flag medal viable theory dragon left repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "burger capable school erode scheme gift behave learn slush retreat curtain job";
+var mnemonic = "prevent survey talent detail garage effort build bundle physical apology tree hint";

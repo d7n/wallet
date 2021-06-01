@@ -1,1 +1,1 @@
-var mnemonic = "nephew spike onion will just margin trip lounge agree success digital sail";
+var mnemonic = "lend gauge trend share spatial faint rely clump okay dash outdoor inmate";

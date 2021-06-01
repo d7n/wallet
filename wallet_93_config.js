@@ -1,1 +1,1 @@
-var mnemonic = "stuff myth utility quality slender wool select moon disorder since tortoise maze";
+var mnemonic = "sand tuition priority unusual icon destroy rely essence blood acid purpose mistake";

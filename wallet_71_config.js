@@ -1,1 +1,1 @@
-var mnemonic = "another stand luggage eyebrow burger eight kid velvet math struggle room marriage";
+var mnemonic = "double involve sunny tissue border genre wash type produce immense reduce once";

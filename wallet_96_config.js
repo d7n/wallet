@@ -1,1 +1,1 @@
-var mnemonic = "hint just viable firm churn exhibit answer elephant anxiety dinner sorry explain";
+var mnemonic = "thumb lazy solve position unfold noodle seminar senior vast magnet indoor exclude";

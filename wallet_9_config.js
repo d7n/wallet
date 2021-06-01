@@ -1,1 +1,1 @@
-var mnemonic = "sphere fat cruel airport innocent circle space ask glass shove define slam";
+var mnemonic = "bind work snow board better sure hurt settle grape elephant comfort mask";

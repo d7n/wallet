@@ -1,1 +1,1 @@
-var mnemonic = "barely almost health position setup cereal enact tattoo neglect endless hair wood";
+var mnemonic = "broccoli actor cruel motion ice stadium decade surprise asthma toss online tide";

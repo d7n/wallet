@@ -1,1 +1,1 @@
-var mnemonic = "virtual soap decorate clutch fork mixed hint wait verify legal wreck people";
+var mnemonic = "breeze echo insane coconut shift exchange napkin rent section also crush chat";

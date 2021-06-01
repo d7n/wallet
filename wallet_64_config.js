@@ -1,1 +1,1 @@
-var mnemonic = "cause velvet jacket matter country please budget mammal echo casual carry mass";
+var mnemonic = "invite maid salute motion prison answer airport field math purity rotate amateur";

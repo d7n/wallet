@@ -1,1 +1,1 @@
-var mnemonic = "muffin inmate adjust loan evolve avocado injury there damp nature popular settle";
+var mnemonic = "off rely almost popular physical fade amused clinic kite delay banner option";

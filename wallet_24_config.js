@@ -1,1 +1,1 @@
-var mnemonic = "gold girl marble inch only uncle ritual correct renew bridge horn misery";
+var mnemonic = "vintage lift spider spare live diary expect silk weather tuition broken thrive";

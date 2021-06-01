@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cycle south example relief matter kitten pretty want essay crisp decide";
+var mnemonic = "scrap awake find abuse cargo apple mercy own riot gloom expose real";

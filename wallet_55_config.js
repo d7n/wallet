@@ -1,1 +1,1 @@
-var mnemonic = "elite social dutch toast stomach pull basic soul draft mouse range diet";
+var mnemonic = "appear balcony soup ecology steel finish hockey case city edge eager bleak";

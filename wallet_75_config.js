@@ -1,1 +1,1 @@
-var mnemonic = "engine grunt test core hundred antenna field sample paper news city load";
+var mnemonic = "minute indoor salmon damage amused seed fortune shaft flee sauce arena roast";

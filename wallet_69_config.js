@@ -1,1 +1,1 @@
-var mnemonic = "luggage poem glide motion upset crisp ride catch casino very female patrol";
+var mnemonic = "spawn genre never core expect pistol school radar fortune accuse supply abstract";

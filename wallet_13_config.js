@@ -1,1 +1,1 @@
-var mnemonic = "essence subway horse twice replace letter spread you media agent zebra inspire";
+var mnemonic = "deliver lesson company place fragile diet destroy grape salad damage february museum";

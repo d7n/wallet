@@ -1,1 +1,1 @@
-var mnemonic = "town execute street vendor case audit survey quick crack able island prepare";
+var mnemonic = "chest force ribbon actress culture blouse hungry lift piece click soap process";

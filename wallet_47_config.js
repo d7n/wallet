@@ -1,1 +1,1 @@
-var mnemonic = "invite caution seat poem drip slight siren chief nest joy dry sponsor";
+var mnemonic = "work grab power kind twin then swallow roast thunder couple dragon load";
