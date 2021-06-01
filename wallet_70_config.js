@@ -1,1 +1,1 @@
-var mnemonic = "pilot fly panel fox imitate autumn material fox cause napkin satisfy essence";
+var mnemonic = "chronic address girl olympic vivid manage budget purse husband recall scissors cushion";

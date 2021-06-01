@@ -1,1 +1,1 @@
-var mnemonic = "aerobic march hint floor ability spike march foster win leave goose setup";
+var mnemonic = "pledge idea keep recycle grief garbage below region hat bird sad either";

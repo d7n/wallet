@@ -1,1 +1,1 @@
-var mnemonic = "dry unaware general vintage category year sister famous wool melt chief farm";
+var mnemonic = "face car rabbit toy animal ignore item path lecture intact hockey cruise";

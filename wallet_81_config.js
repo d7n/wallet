@@ -1,1 +1,1 @@
-var mnemonic = "neither cotton ranch hole explain taxi surge fury surge bread put income";
+var mnemonic = "gospel village pave jungle access bundle flush learn turn mention scrap industry";

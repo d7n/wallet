@@ -1,1 +1,1 @@
-var mnemonic = "radar output orient open expose ride cage almost chief obey tongue multiply";
+var mnemonic = "maple skull stay egg lens uncle lava deposit grief topple west since";

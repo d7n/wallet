@@ -1,1 +1,1 @@
-var mnemonic = "rack globe liar blanket cigar icon defense venture high flip tonight teach";
+var mnemonic = "pudding edge human glue frown day broken tree parent waste volcano arctic";

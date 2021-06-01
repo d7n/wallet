@@ -1,1 +1,1 @@
-var mnemonic = "alcohol soon light forget web soap window ugly powder piano gossip awesome";
+var mnemonic = "garage amazing poem lava furnace cost supply strong crop gloom bamboo fringe";

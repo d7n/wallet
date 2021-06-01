@@ -1,1 +1,1 @@
-var mnemonic = "stove puzzle early since vague blade deputy grit buzz net material act";
+var mnemonic = "lemon rate bag pumpkin shine heart century army letter glue auction boost";

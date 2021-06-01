@@ -1,1 +1,1 @@
-var mnemonic = "truly they tide tube office mercy dragon journey liberty vital mouse claim";
+var mnemonic = "wild glow crowd soul obscure promote proud left doctor oblige heavy scrub";

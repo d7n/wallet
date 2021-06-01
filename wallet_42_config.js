@@ -1,1 +1,1 @@
-var mnemonic = "report exhaust possible during define age laugh web art misery quit useful";
+var mnemonic = "monitor usage express shoulder drink obvious spin top luxury survey enrich potato";

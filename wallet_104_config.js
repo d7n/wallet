@@ -1,1 +1,1 @@
-var mnemonic = "sing senior surface coach ride cycle mule shiver lawsuit return dirt obey";
+var mnemonic = "pencil burger capital sand history city fiction file burger bachelor angry about";

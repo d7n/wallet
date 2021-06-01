@@ -1,1 +1,1 @@
-var mnemonic = "uncover parade already coffee mango floor thrive trust salute learn style loyal";
+var mnemonic = "idle unusual shove price major young hazard screen debris brick caught lyrics";

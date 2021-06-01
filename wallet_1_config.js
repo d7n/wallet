@@ -1,1 +1,1 @@
-var mnemonic = "finger gravity steel lesson muscle write click income normal fashion tail gift";
+var mnemonic = "exhaust gesture news small taste nasty bus federal junior hair crack float";

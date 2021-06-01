@@ -1,1 +1,1 @@
-var mnemonic = "victory weird traffic frame burden leg rely skirt bag prize object dice";
+var mnemonic = "awesome size valve pattern cart huge key cement entire hill badge flip";

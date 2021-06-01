@@ -1,1 +1,1 @@
-var mnemonic = "excess fiscal clock gate echo reflect taxi talk behind east throw unveil";
+var mnemonic = "sibling once above million aisle bubble peace swing prize snake grab mean";

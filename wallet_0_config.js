@@ -1,1 +1,1 @@
-var mnemonic = "outdoor aunt monitor suggest problem video denial hidden regret quote dog ankle";
+var mnemonic = "excess catalog regret faculty point devote orient slush steel sock light choose";

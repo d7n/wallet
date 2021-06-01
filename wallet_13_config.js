@@ -1,1 +1,1 @@
-var mnemonic = "patch project shy north strike march divorce logic range scout tail rubber";
+var mnemonic = "drift salad hand twice lens engine evidence quit genius course mouse limb";

@@ -1,1 +1,1 @@
-var mnemonic = "panel board moral purse chuckle drop tape loud broken card fit swap";
+var mnemonic = "wrap bunker lecture tragic fish bean rose trophy luxury useful fringe damp";

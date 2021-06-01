@@ -1,1 +1,1 @@
-var mnemonic = "lion liquid major faint report capable about motor skin amused coyote tip";
+var mnemonic = "tired casino luxury cup crucial mesh head enrich eye dirt minor arrive";

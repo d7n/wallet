@@ -1,1 +1,1 @@
-var mnemonic = "cancel govern trouble text cute welcome craft valley arrange plug uncle hedgehog";
+var mnemonic = "fiction either glove cactus october stool second material update glance raw space";

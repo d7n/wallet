@@ -1,1 +1,1 @@
-var mnemonic = "decrease fruit chapter wool day south guitar sauce poem thing pelican moral";
+var mnemonic = "brass garage denial relief middle day umbrella squirrel memory scrub abuse globe";

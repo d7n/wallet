@@ -1,1 +1,1 @@
-var mnemonic = "fever fatal cloth potato gadget keep behind grass grain moral year slam";
+var mnemonic = "word next echo couch exchange gaze else patrol join right gun unfair";

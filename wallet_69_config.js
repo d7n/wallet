@@ -1,1 +1,1 @@
-var mnemonic = "crane throw dolphin save timber smile trick myth silly merit put inhale";
+var mnemonic = "elephant library castle public crew brother abstract brass mean absurd scrap federal";

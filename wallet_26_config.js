@@ -1,1 +1,1 @@
-var mnemonic = "episode water provide lens tunnel solar august shoe update math plunge own";
+var mnemonic = "leave history public defy erode ozone nothing view cotton stool vast side";

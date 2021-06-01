@@ -1,1 +1,1 @@
-var mnemonic = "library master game delay citizen coconut humble dwarf hat adult symbol horror";
+var mnemonic = "apple hedgehog orphan mansion chronic staff advice canyon limit require act sword";

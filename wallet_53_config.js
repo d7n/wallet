@@ -1,1 +1,1 @@
-var mnemonic = "nose lunch opera hockey sea arch media fancy approve item wasp pistol";
+var mnemonic = "memory minor wash dice opera wink drive slab giggle resource replace accident";

@@ -1,1 +1,1 @@
-var mnemonic = "scan celery front bless fantasy casino skin special flight false faint pledge";
+var mnemonic = "bridge must isolate wife room just swear runway cave melody meat universe";

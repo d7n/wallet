@@ -1,1 +1,1 @@
-var mnemonic = "review trip ribbon talent mirror summer clay file rib unhappy fuel error";
+var mnemonic = "enroll path bind joy patient huge desert fury power alert strike fabric";

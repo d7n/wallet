@@ -1,1 +1,1 @@
-var mnemonic = "mesh bonus glory river junk secret toast shed hybrid travel decade uphold";
+var mnemonic = "spawn ski motor celery remove immune busy tortoise ask trap hotel cement";

@@ -1,1 +1,1 @@
-var mnemonic = "dove inmate parrot cross replace trade legal step order scene check foot";
+var mnemonic = "maximum treat hire abstract dust reject vocal palace pig castle belt helmet";

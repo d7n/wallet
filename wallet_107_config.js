@@ -1,1 +1,1 @@
-var mnemonic = "canyon thing board settle bunker winner media reveal neglect effort wire film";
+var mnemonic = "step image color inmate sugar hint auction brown enable actress best injury";

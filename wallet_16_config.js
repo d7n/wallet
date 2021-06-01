@@ -1,1 +1,1 @@
-var mnemonic = "permit autumn battle clean comic palm subway cook arrange rude virtual height";
+var mnemonic = "rug whip possible style rice solar couch awkward outer mind violin rich";

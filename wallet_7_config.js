@@ -1,1 +1,1 @@
-var mnemonic = "broken bargain exhibit track myself flavor number train fiscal wisdom win aspect";
+var mnemonic = "budget dose seek message hard setup pulp approve quality poet royal scatter";

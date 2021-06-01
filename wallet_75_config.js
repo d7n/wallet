@@ -1,1 +1,1 @@
-var mnemonic = "oak marble glance system bag share pass mouse amount essay purity rely";
+var mnemonic = "present hunt there leg midnight frequent current banner clay veteran struggle clock";

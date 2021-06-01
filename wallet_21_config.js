@@ -1,1 +1,1 @@
-var mnemonic = "cactus struggle chalk confirm erode attitude local pizza quiz law butter quarter";
+var mnemonic = "monster gown arm tribe reopen volume thumb vivid mandate fatal labor mule";

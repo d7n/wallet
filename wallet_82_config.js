@@ -1,1 +1,1 @@
-var mnemonic = "jungle gym rather never garbage sort ivory stove return myself faith oppose";
+var mnemonic = "naive tortoise actor sting genius hero gown switch negative camera wheat mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "pull under silent prefer frog end play give nice timber blame armor";
+var mnemonic = "response possible lens become people outer small trumpet goat milk relax quarter";

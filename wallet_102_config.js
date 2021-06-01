@@ -1,1 +1,1 @@
-var mnemonic = "juice coffee love label until million emerge kitchen lake woman drive drift";
+var mnemonic = "ill fragile food expand soft tattoo question cheese globe heavy popular turn";

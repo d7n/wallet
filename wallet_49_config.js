@@ -1,1 +1,1 @@
-var mnemonic = "recipe piano scatter unique loan tissue undo upset tongue consider mean club";
+var mnemonic = "tomato filter vibrant shy column axis host know face diet work monitor";

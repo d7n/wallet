@@ -1,1 +1,1 @@
-var mnemonic = "little bag summer dwarf admit sand frog science physical first clown mixture";
+var mnemonic = "roast equal expire ball return nest video thunder alpha blush hub share";

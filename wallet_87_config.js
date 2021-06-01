@@ -1,1 +1,1 @@
-var mnemonic = "curious brisk clock grain cook task wet flight chicken claw satoshi salute";
+var mnemonic = "guide bag list strategy tenant addict vintage cake swamp tornado helmet expose";

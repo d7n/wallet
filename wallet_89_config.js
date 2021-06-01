@@ -1,1 +1,1 @@
-var mnemonic = "chief rapid deputy weasel heart coast element depth want ivory cycle march";
+var mnemonic = "fluid bleak energy anger knee unfair ticket monkey trigger already fetch shop";

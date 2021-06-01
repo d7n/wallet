@@ -1,1 +1,1 @@
-var mnemonic = "organ alien tell hundred craft surround during pencil viable have celery wreck";
+var mnemonic = "cabbage prosper impact proof heart elite trophy awake later interest junk fork";

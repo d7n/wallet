@@ -1,1 +1,1 @@
-var mnemonic = "inspire blood energy tree believe easy cave visit oil segment leopard tilt";
+var mnemonic = "crew quick lucky quiz range option dice exit federal fantasy ethics patch";

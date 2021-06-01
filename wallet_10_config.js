@@ -1,1 +1,1 @@
-var mnemonic = "curve romance shed duck arrange south exhaust unable myself jelly island once";
+var mnemonic = "sure pink broccoli hub audit client notice enact animal box result bitter";

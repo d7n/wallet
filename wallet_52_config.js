@@ -1,1 +1,1 @@
-var mnemonic = "veteran fold session hill sad potato sugar oil soap reject doctor legend";
+var mnemonic = "blood shoe wrist crystal rose october control gospel fall vacuum dinner keen";

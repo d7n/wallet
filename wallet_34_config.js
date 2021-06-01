@@ -1,1 +1,1 @@
-var mnemonic = "snow frozen lobster cave click matter skirt best sleep erase write destroy";
+var mnemonic = "table clinic again camera drive viable design forest artefact song coconut trophy";

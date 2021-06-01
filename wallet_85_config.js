@@ -1,1 +1,1 @@
-var mnemonic = "tribe interest stadium front split legal street fold vital life post bring";
+var mnemonic = "accident scorpion crouch race mouse cage exhibit various ill shiver multiply mail";

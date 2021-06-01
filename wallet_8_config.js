@@ -1,1 +1,1 @@
-var mnemonic = "capital twelve rubber spoil own stick know below rifle appear paddle fantasy";
+var mnemonic = "borrow expire boss thought denial craft august resource they intact thrive assault";

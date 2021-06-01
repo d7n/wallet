@@ -1,1 +1,1 @@
-var mnemonic = "enlist bubble test sudden armed final bone goddess spare law daughter vicious";
+var mnemonic = "glove pistol light riot wrist giant artwork equal turn april arrow ski";

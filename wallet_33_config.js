@@ -1,1 +1,1 @@
-var mnemonic = "bunker decade stomach ring divert fragile regret rather dragon sugar voice middle";
+var mnemonic = "stock disorder check confirm bike charge response liar maid feel scale enhance";

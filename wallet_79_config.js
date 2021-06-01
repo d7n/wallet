@@ -1,1 +1,1 @@
-var mnemonic = "grain night flat genius zero kit industry rapid dad slam today maid";
+var mnemonic = "goddess bird girl female gown resemble wave bomb bar north zero clinic";

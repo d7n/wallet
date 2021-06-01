@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon ice caution trap anger need base collect senior trouble hawk will";
+var mnemonic = "cool amount round suffer intact spice cross tourist normal lounge diamond gather";

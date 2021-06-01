@@ -1,1 +1,1 @@
-var mnemonic = "chaos parade symbol notable lonely degree enter obey demand senior draw endorse";
+var mnemonic = "shoot rookie bullet diary there meat turtle tribe analyst famous senior live";

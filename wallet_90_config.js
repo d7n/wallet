@@ -1,1 +1,1 @@
-var mnemonic = "subject silver unaware cage razor club aerobic notice sad bleak family chaos";
+var mnemonic = "spawn trick give kidney remind radar tornado love indicate expand face escape";

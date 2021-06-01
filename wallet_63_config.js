@@ -1,1 +1,1 @@
-var mnemonic = "lobster teach buyer hurry grit blood wedding curtain elevator dolphin tide dad";
+var mnemonic = "canoe chunk piece arrange vintage rain concert wrestle order belt uniform turtle";

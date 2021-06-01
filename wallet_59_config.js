@@ -1,1 +1,1 @@
-var mnemonic = "spell motor verify enhance very learn human obscure connect seminar first loyal";
+var mnemonic = "melody display submit echo review pole violin vague weapon hard sustain plunge";

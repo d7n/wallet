@@ -1,1 +1,1 @@
-var mnemonic = "change ghost drink swallow amazing believe cheap bounce blade lava torch return";
+var mnemonic = "fat lab case inflict field siren tip library trigger draw involve spray";

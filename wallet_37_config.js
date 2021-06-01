@@ -1,1 +1,1 @@
-var mnemonic = "close crop explain index width acid rebuild tunnel disease pool achieve people";
+var mnemonic = "ticket camp sugar update merge unique toast crane category affair client early";

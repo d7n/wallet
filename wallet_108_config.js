@@ -1,1 +1,1 @@
-var mnemonic = "spy cram grocery feel fly saddle woman brown affair rifle fame brain";
+var mnemonic = "buffalo roast stumble music level elite about speak retreat inform denial depth";

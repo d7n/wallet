@@ -1,1 +1,1 @@
-var mnemonic = "make earth meadow fence waste asset build great beef castle wonder beef";
+var mnemonic = "debris wild lesson submit flame scatter wasp melt bulb strike birth unveil";

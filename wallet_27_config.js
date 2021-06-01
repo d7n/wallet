@@ -1,1 +1,1 @@
-var mnemonic = "jazz arena bicycle solid warrior never burden chat aim square street slogan";
+var mnemonic = "govern gap energy erosion glove young spoon neck summer salute pattern abuse";

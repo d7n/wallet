@@ -1,1 +1,1 @@
-var mnemonic = "fat orphan index neither barrel animal rigid camp hard rate primary snake";
+var mnemonic = "math agree panic magnet column tower misery bulb zoo update adult various";

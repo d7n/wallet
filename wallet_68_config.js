@@ -1,1 +1,1 @@
-var mnemonic = "high amused parrot mean salon oil profit island minimum swift type tank";
+var mnemonic = "attitude nuclear style fitness cluster prefer crucial husband bring decade mandate betray";

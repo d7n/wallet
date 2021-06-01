@@ -1,1 +1,1 @@
-var mnemonic = "conduct screen cram mandate hope goat couch hospital pond ranch day dash";
+var mnemonic = "trade right sunny liquid crumble joke embark neither easily planet column open";

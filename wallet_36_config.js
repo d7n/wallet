@@ -1,1 +1,1 @@
-var mnemonic = "path result fortune immune acoustic benefit pitch then diamond fog endorse bone";
+var mnemonic = "earth hard gun usual lesson verify quarter ten north popular episode repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "fee pretty recall tornado tube valley panel carry claw artist picnic saddle";
+var mnemonic = "volume tornado group rescue ball recall ladder pottery same crater unique keep";

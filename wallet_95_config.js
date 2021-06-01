@@ -1,1 +1,1 @@
-var mnemonic = "economy exist apology circle sense dragon much glow wide frost dismiss pole";
+var mnemonic = "blossom retire violin little economy involve enrich usual crumble lesson poet tragic";

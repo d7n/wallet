@@ -1,1 +1,1 @@
-var mnemonic = "bring wait kiss time proof universe luxury demand risk version spend broccoli";
+var mnemonic = "adapt clap entry solution master build alien snap taxi private derive metal";

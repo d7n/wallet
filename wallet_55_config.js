@@ -1,1 +1,1 @@
-var mnemonic = "pyramid market stable wheat angle solution convince normal oval sad pull stem";
+var mnemonic = "dash shine outer sausage check secret blanket arrive struggle basic swap multiply";

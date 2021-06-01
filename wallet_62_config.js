@@ -1,1 +1,1 @@
-var mnemonic = "skin economy stereo glide bridge steel web field pass borrow life cabin";
+var mnemonic = "sport member glass gasp palm school limb apart arrive peanut slush trumpet";

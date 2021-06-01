@@ -1,1 +1,1 @@
-var mnemonic = "outer hurdle charge heavy involve champion hazard base ball margin exhibit voyage";
+var mnemonic = "random donkey security always happy anxiety radio million cliff plate video marble";

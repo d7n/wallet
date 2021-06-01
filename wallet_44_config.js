@@ -1,1 +1,1 @@
-var mnemonic = "train vicious antique stairs rule try magic civil device magnet awkward exist";
+var mnemonic = "adjust trick noble penalty memory camp polar visa tissue nothing force practice";

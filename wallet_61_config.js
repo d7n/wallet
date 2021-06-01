@@ -1,1 +1,1 @@
-var mnemonic = "rival jacket treat genuine bring leave hawk shine humor memory boy cake";
+var mnemonic = "goat tuna devote song worry soft yard extend asthma exclude amateur bacon";

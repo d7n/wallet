@@ -1,1 +1,1 @@
-var mnemonic = "solution light rubber maid video immune release arena napkin firm exit bid";
+var mnemonic = "latin green stage hidden kite peanut ethics when always average onion buzz";

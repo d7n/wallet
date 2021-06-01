@@ -1,1 +1,1 @@
-var mnemonic = "cushion tray shop mule flag pluck episode valley tip leaf comfort ridge";
+var mnemonic = "imitate dune wheel frozen chalk rigid cute suffer rare awkward budget exchange";

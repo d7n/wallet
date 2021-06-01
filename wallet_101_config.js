@@ -1,1 +1,1 @@
-var mnemonic = "beef cost eye jealous muffin raise wisdom omit taste clown cook draft";
+var mnemonic = "buffalo knee arena ticket arctic figure foster shadow glad manual reason pipe";

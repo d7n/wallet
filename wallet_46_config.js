@@ -1,1 +1,1 @@
-var mnemonic = "clock banana black hundred moral spin trend festival dice brand suggest rent";
+var mnemonic = "open mandate resemble magic repeat problem garden plastic comic approve tourist coffee";

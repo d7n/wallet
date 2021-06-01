@@ -1,1 +1,1 @@
-var mnemonic = "badge protect snow best diesel elegant under gravity bracket prepare cricket screen";
+var mnemonic = "morning original camera only explain sound denial modify season hair december high";

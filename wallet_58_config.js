@@ -1,1 +1,1 @@
-var mnemonic = "wash foil hand donor lend develop announce can breeze school gauge coral";
+var mnemonic = "mix pitch agree odor fancy solid stairs inmate invest casual phrase fire";

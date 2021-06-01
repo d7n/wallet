@@ -1,1 +1,1 @@
-var mnemonic = "attract symptom wreck panel force culture shaft innocent endorse model cram butter";
+var mnemonic = "acoustic example capital hamster receive kiss silly forum degree soccer again wire";

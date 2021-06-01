@@ -1,1 +1,1 @@
-var mnemonic = "deny panther pulp chalk fish level shoulder essence solar tube earth field";
+var mnemonic = "peace deer teach pair suggest lava evil inner bring mention ranch regret";

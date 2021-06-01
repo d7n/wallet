@@ -1,1 +1,1 @@
-var mnemonic = "enrich vibrant sentence humor opera stamp gain twin attract oxygen sniff seven";
+var mnemonic = "promote journey trumpet park rescue prize coconut rib chapter match giggle joy";

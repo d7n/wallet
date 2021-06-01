@@ -1,1 +1,1 @@
-var mnemonic = "hair point dance fox extend wool moral regret oyster song never erosion";
+var mnemonic = "method salt metal economy develop shock raccoon name fatal alien also brush";

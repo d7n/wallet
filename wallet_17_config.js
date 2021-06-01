@@ -1,1 +1,1 @@
-var mnemonic = "news skin better stand wish sauce relax toddler enter index pony olive";
+var mnemonic = "blur patrol way slab tube run coconut bread search banana cross pluck";

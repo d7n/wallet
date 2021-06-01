@@ -1,1 +1,1 @@
-var mnemonic = "put track various turn increase height worry rent trade chronic bench tiger";
+var mnemonic = "sphere super kind purpose lumber dwarf boat target cover village riot major";

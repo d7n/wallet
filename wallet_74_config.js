@@ -1,1 +1,1 @@
-var mnemonic = "impact hero unfold boost scrap social shuffle canal hire found worth front";
+var mnemonic = "purity glare amused tube random trust buffalo curtain uphold maid tomato home";

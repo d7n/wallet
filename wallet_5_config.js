@@ -1,1 +1,1 @@
-var mnemonic = "mansion alone myself thought deposit that shaft era trick jealous crash upset";
+var mnemonic = "fee alcohol bid please floor summer absurd nasty arctic valley magnet little";

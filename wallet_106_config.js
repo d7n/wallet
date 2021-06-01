@@ -1,1 +1,1 @@
-var mnemonic = "alter yellow bunker test profit pottery stomach village math twice acid deer";
+var mnemonic = "tortoise extend hundred mean divide pistol diet cabin trouble ribbon below lunch";

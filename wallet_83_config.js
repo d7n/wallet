@@ -1,1 +1,1 @@
-var mnemonic = "frozen call file tube bread balance aunt loop try runway oyster post";
+var mnemonic = "state brain category squeeze record tool neglect hill urban debris already cliff";
