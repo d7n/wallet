@@ -1,1 +1,1 @@
-var mnemonic = "fork physical caught clever cruise puppy evolve torch minimum weapon fabric pulp";
+var mnemonic = "artwork canyon donate define device control prefer great sentence grab weather cover";

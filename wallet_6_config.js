@@ -1,1 +1,1 @@
-var mnemonic = "job profit matrix pigeon book inch mobile put riot blue ethics bread";
+var mnemonic = "vicious citizen inherit swamp assault six tape wave video magic find truth";

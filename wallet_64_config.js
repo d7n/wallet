@@ -1,1 +1,1 @@
-var mnemonic = "orbit air length armor galaxy employ gun morning february exotic conduct nut";
+var mnemonic = "boil various head weekend wear bacon output practice vault enter flush talk";

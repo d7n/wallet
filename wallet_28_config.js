@@ -1,1 +1,1 @@
-var mnemonic = "person scorpion zebra melody thought soon stumble nuclear negative edge tail chicken";
+var mnemonic = "palm next idle salt category fresh interest very reason unknown engage salmon";

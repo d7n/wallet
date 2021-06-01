@@ -1,1 +1,1 @@
-var mnemonic = "lemon evil help afford position diary enjoy learn obscure photo pull enjoy";
+var mnemonic = "crew vanish visual cactus crawl menu judge save peace clip soda space";

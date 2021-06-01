@@ -1,1 +1,1 @@
-var mnemonic = "garage artwork icon crazy bamboo bottom luxury ticket master silver grow bonus";
+var mnemonic = "pulse rival unusual strategy exist pluck please surface credit regular art clown";

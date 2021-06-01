@@ -1,1 +1,1 @@
-var mnemonic = "gorilla laptop afford link episode face north puzzle empower ecology actress bridge";
+var mnemonic = "media impact click easily math hello taxi apology build hazard slam tomato";

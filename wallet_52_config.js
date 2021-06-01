@@ -1,1 +1,1 @@
-var mnemonic = "artwork angle soccer tunnel ripple floor dizzy cancel story organ normal capable";
+var mnemonic = "bottom artwork empty service tool bring explain photo tackle olympic tennis chapter";

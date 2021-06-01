@@ -1,1 +1,1 @@
-var mnemonic = "flavor during salt divide chief two silly donor novel huge brand birth";
+var mnemonic = "club enroll siren apology change army mass original saddle satisfy already answer";

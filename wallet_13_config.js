@@ -1,1 +1,1 @@
-var mnemonic = "mail glue cannon veteran pulp hurt coral raven oak abandon correct border";
+var mnemonic = "blush ceiling slam actor luggage bird knock blade simple morning jungle enhance";

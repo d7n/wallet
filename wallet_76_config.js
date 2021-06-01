@@ -1,1 +1,1 @@
-var mnemonic = "visa tennis talent color east rabbit donkey empty spot maximum metal dolphin";
+var mnemonic = "attitude suit celery piece style nasty carpet column magic employ adjust yellow";

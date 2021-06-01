@@ -1,1 +1,1 @@
-var mnemonic = "monster grant load shoulder town major sorry wing chunk grab that oblige";
+var mnemonic = "popular sibling deal test shoot moral beyond exclude orphan tragic cricket layer";

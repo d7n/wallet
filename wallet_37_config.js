@@ -1,1 +1,1 @@
-var mnemonic = "odor liar artefact enemy wealth inch unfair stumble chunk glory solar pipe";
+var mnemonic = "accident truth rigid bamboo silver dad inform patient idea soldier rich feature";

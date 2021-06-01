@@ -1,1 +1,1 @@
-var mnemonic = "lonely danger boat educate fan rose erupt concert sweet shrimp maple churn";
+var mnemonic = "appear bless wink mercy split few access ankle manual exit loan wet";

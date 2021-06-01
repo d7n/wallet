@@ -1,1 +1,1 @@
-var mnemonic = "south visit organ winter tragic happy grief blast remind client curious blossom";
+var mnemonic = "tiny similar beef end method piano decorate pig jump tenant frozen pepper";

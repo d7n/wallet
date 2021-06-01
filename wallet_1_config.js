@@ -1,1 +1,1 @@
-var mnemonic = "lab strategy shiver across refuse rural ginger wisdom stove fix flush elegant";
+var mnemonic = "unfair relief exercise walk display maze spread frequent virus join harbor soul";

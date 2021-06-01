@@ -1,1 +1,1 @@
-var mnemonic = "music soda sting vehicle pigeon utility sunset syrup draft afraid venture table";
+var mnemonic = "person inspire camera royal license destroy animal choice february diagram solid circle";

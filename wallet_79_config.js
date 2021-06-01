@@ -1,1 +1,1 @@
-var mnemonic = "fine arm elegant distance inherit vague hard museum deer legend crucial bleak";
+var mnemonic = "friend picture surface south prize wage model merit domain echo elephant age";

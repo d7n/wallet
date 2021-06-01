@@ -1,1 +1,1 @@
-var mnemonic = "present appear uncover love desk creek behave stairs label hospital error lobster";
+var mnemonic = "spare night vocal damage flush thrive struggle universe flock senior gasp island";

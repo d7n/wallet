@@ -1,1 +1,1 @@
-var mnemonic = "damp wear scan cause trumpet giant pigeon solve icon equal dizzy eagle";
+var mnemonic = "ticket upper rural general shell come letter thought car settle zone tray";

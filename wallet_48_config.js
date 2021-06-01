@@ -1,1 +1,1 @@
-var mnemonic = "circle garden conduct feel practice rubber advance day inform help worth green";
+var mnemonic = "right potato mosquito anger amazing decide strike congress illness spice purse zebra";

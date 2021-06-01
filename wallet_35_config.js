@@ -1,1 +1,1 @@
-var mnemonic = "mother trade shove blue pelican indoor plunge initial stove water dove minimum";
+var mnemonic = "lake solar jar then orange dice train often zone space stem cannon";

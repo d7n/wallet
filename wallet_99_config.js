@@ -1,1 +1,1 @@
-var mnemonic = "replace garden tennis april until modify mean wide column weapon exercise relax";
+var mnemonic = "body venue true thing danger cloth input window teach torch chaos dragon";

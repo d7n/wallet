@@ -1,1 +1,1 @@
-var mnemonic = "champion kitchen quarter attract opinion ocean weird rigid lonely neck crowd cook";
+var mnemonic = "valid hire hazard blame inject citizen tribe walnut relax burden gap approve";

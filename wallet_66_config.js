@@ -1,1 +1,1 @@
-var mnemonic = "odor radio act silk latin sort anxiety solution cricket suit teach evidence";
+var mnemonic = "monitor shaft laptop above ice stove antenna alien spoil cousin ahead squeeze";

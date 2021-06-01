@@ -1,1 +1,1 @@
-var mnemonic = "length bargain crane leg castle behind east car crawl action accuse slot";
+var mnemonic = "make view nephew heart tone broom bamboo once blanket price view toilet";

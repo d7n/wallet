@@ -1,1 +1,1 @@
-var mnemonic = "swift account length evidence sun curtain dish turtle second excite garlic boy";
+var mnemonic = "glad best supreme crater cart clog labor clip divert badge check laptop";

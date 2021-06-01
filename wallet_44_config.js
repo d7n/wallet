@@ -1,1 +1,1 @@
-var mnemonic = "seminar area skin wall protect wage immense orange prepare casino census inch";
+var mnemonic = "tunnel sentence pool delay energy junior ship recipe math express february bring";

@@ -1,1 +1,1 @@
-var mnemonic = "club win home roof must muscle case theory catch address venue leg";
+var mnemonic = "dial drift file sauce raccoon legend normal oxygen lottery pumpkin social retreat";

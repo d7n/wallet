@@ -1,1 +1,1 @@
-var mnemonic = "hood net forum what fiber seminar mixed render wrap pulse assume rail";
+var mnemonic = "stadium oven square cotton risk loyal rough never proud hedgehog industry cricket";

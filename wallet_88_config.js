@@ -1,1 +1,1 @@
-var mnemonic = "muffin protect gold stable afraid attract style absent warm pelican ceiling flash";
+var mnemonic = "embody announce assume waste analyst burger arrow flag modify move wet hurdle";

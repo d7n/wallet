@@ -1,1 +1,1 @@
-var mnemonic = "bulb forest paddle usual collect guess own cream present badge renew want";
+var mnemonic = "member rally reduce leisure used actress busy coral alcohol true direct hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "provide tray fluid stairs walnut among vocal board stove barrel bar spell";
+var mnemonic = "auto spike thrive share same hair decrease swift anxiety arena action theme";

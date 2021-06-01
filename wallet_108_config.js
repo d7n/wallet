@@ -1,1 +1,1 @@
-var mnemonic = "dragon harbor sock uncle burger income gloom way photo warm journey engage";
+var mnemonic = "fresh art elegant wise swamp fatigue vibrant accuse model beef unfold paper";

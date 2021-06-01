@@ -1,1 +1,1 @@
-var mnemonic = "shift ski unaware month primary escape cancel express giggle into wrong solution";
+var mnemonic = "ripple small close suffer toddler same drift trophy march surface wing canal";

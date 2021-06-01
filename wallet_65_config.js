@@ -1,1 +1,1 @@
-var mnemonic = "small expire fortune between visit mesh dose animal gain scheme rather undo";
+var mnemonic = "video subway success giggle stomach rain improve bronze noble cupboard second banana";

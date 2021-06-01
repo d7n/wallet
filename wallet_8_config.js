@@ -1,1 +1,1 @@
-var mnemonic = "wage mask universe dream sight elephant remove exist hood maze sausage despair";
+var mnemonic = "enemy rotate truck accuse exhibit drop rain shrimp lesson provide kite jungle";

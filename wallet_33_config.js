@@ -1,1 +1,1 @@
-var mnemonic = "dash office rack same visual earn tape police ghost lemon poem axis";
+var mnemonic = "creek high genius notable crumble boss believe train crush dog spring word";

@@ -1,1 +1,1 @@
-var mnemonic = "boring force render fun joke great property near own pipe disease ride";
+var mnemonic = "brown weather chase ugly oval weapon shrug sentence among entry play warfare";

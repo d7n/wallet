@@ -1,1 +1,1 @@
-var mnemonic = "mango fit lemon toast gather author crash prison floor drive net tag";
+var mnemonic = "adjust traffic humble jungle weird crater this frozen cluster again another scatter";

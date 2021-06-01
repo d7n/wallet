@@ -1,1 +1,1 @@
-var mnemonic = "tornado matter mansion rubber cute shift witness auction volume daughter grace life";
+var mnemonic = "submit impulse problem wrist path inhale again silent over online legend inch";

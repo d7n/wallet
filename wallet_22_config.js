@@ -1,1 +1,1 @@
-var mnemonic = "cheap inform sail quarter produce approve gallery cushion hole man deposit chicken";
+var mnemonic = "blouse frog ranch gas find top crush host frown vintage tribe empty";

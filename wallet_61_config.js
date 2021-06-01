@@ -1,1 +1,1 @@
-var mnemonic = "phrase action text venue galaxy play sniff flash liberty sibling marble strong";
+var mnemonic = "enforce uniform brush alert stem human carpet bubble evil ask staff grow";

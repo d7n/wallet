@@ -1,1 +1,1 @@
-var mnemonic = "poet roast reunion click float slice runway improve tissue tell they child";
+var mnemonic = "future recall dirt lion pride frost face pottery cheese ramp edge foot";

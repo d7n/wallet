@@ -1,1 +1,1 @@
-var mnemonic = "speak quit slight palm claw leader theory dentist plug notable donate gravity";
+var mnemonic = "hundred element accuse smoke witness current oyster unlock behind jewel under stool";

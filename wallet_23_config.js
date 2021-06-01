@@ -1,1 +1,1 @@
-var mnemonic = "garlic train escape custom age margin proud people squeeze kind cancel sound";
+var mnemonic = "early light person until wide modify uniform easily east guide gossip depend";

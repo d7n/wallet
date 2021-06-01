@@ -1,1 +1,1 @@
-var mnemonic = "rally health pen desk miss region sign gauge oak enhance abstract pill";
+var mnemonic = "desert push number level say meat carpet various solar resource south enhance";

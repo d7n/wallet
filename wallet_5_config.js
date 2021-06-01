@@ -1,1 +1,1 @@
-var mnemonic = "sunny this island nothing fence toast finger remember spread very lottery turn";
+var mnemonic = "daughter brick hybrid fantasy segment edit supreme kiss road divert spread heart";

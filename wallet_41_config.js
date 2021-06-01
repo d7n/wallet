@@ -1,1 +1,1 @@
-var mnemonic = "team combine post insane fuel regret short raise december tonight equip already";
+var mnemonic = "nature cram retreat want rotate minimum six device huge cart will nasty";

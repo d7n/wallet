@@ -1,1 +1,1 @@
-var mnemonic = "question knife leopard elegant about crash divert know cotton nation much village";
+var mnemonic = "dial stage craft strategy speak offer theme spend evidence void guess tourist";

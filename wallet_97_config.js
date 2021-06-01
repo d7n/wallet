@@ -1,1 +1,1 @@
-var mnemonic = "eight convince cattle style mouse cactus galaxy gadget alarm proud scissors doll";
+var mnemonic = "fence turkey situate burst debate pretty december laptop impose grief ready abandon";

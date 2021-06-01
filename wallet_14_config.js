@@ -1,1 +1,1 @@
-var mnemonic = "fox market elder rocket sort frozen book naive inherit famous copy south";
+var mnemonic = "sound that hybrid slush enemy crowd result girl garment record happy leisure";

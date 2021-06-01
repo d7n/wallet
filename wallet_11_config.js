@@ -1,1 +1,1 @@
-var mnemonic = "turn science fly antenna write job lecture fiscal they rail talent alert";
+var mnemonic = "spell grass mechanic embark accuse prevent honey bulk latin doctor east coconut";

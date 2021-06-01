@@ -1,1 +1,1 @@
-var mnemonic = "victory soup dream olympic admit swamp cloud useful minimum regular success degree";
+var mnemonic = "baby castle shoe moment bonus very ostrich nest say panther beach mosquito";

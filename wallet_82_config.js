@@ -1,1 +1,1 @@
-var mnemonic = "caution damp link muffin admit meadow extend satoshi perfect school trim absorb";
+var mnemonic = "when erupt analyst invite bridge phrase weather music sad trend spot inspire";

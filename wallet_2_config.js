@@ -1,1 +1,1 @@
-var mnemonic = "eye universe swear mandate crop behind casino risk episode sock genre lemon";
+var mnemonic = "size mix success sauce goose wet midnight spot sketch wild gate blanket";

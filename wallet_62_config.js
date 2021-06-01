@@ -1,1 +1,1 @@
-var mnemonic = "seminar subway lazy mammal wear wolf cargo hello physical unlock olive wide";
+var mnemonic = "ceiling wrist memory spot purse fun priority inner pumpkin sing agree rapid";

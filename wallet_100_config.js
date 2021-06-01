@@ -1,1 +1,1 @@
-var mnemonic = "wool close word display change organ party sell oval obvious height green";
+var mnemonic = "match pudding suggest tongue charge mango maid ivory february shift afford organ";

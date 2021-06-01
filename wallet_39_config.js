@@ -1,1 +1,1 @@
-var mnemonic = "betray mass strategy real sad clown convince when reopen sea alert main";
+var mnemonic = "dose beauty day intact forget put rich dune acoustic holiday cabin verify";

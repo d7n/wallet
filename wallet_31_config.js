@@ -1,1 +1,1 @@
-var mnemonic = "wage logic debate begin recycle despair mobile second print glory gadget ship";
+var mnemonic = "inform unit unknown trick once hotel donor install token kite pony artist";

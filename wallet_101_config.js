@@ -1,1 +1,1 @@
-var mnemonic = "perfect bullet bid ribbon cabbage include only fit glove volcano cup business";
+var mnemonic = "exclude orchard clown sniff photo century spell card coast verb produce waste";

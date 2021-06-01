@@ -1,1 +1,1 @@
-var mnemonic = "fix domain fever fortune rug pony blur crack sport horse layer flee";
+var mnemonic = "embody car rigid path taste bind color nominee input month jewel pair";

@@ -1,1 +1,1 @@
-var mnemonic = "journey dove polar tone tackle peanut sad actor draw involve duck liar";
+var mnemonic = "middle inmate lonely dust fire satoshi omit point warm fury broccoli music";

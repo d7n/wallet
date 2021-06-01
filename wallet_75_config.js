@@ -1,1 +1,1 @@
-var mnemonic = "dream reunion custom reopen dilemma hawk virtual jaguar insane model enact oval";
+var mnemonic = "velvet office wine blind forward behave learn jewel clean zero know item";

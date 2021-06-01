@@ -1,1 +1,1 @@
-var mnemonic = "nerve album split upgrade guide poet rabbit script breeze common dirt pair";
+var mnemonic = "nephew cargo apology blouse cool kiss hello border fire intact scrap chuckle";

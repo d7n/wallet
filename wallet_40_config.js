@@ -1,1 +1,1 @@
-var mnemonic = "engine collect mixture treat dose cheese brown jar inform sell farm limb";
+var mnemonic = "alarm friend mention test cage action buzz intact stand woman traffic tunnel";

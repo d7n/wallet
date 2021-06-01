@@ -1,1 +1,1 @@
-var mnemonic = "useless dynamic super worth awesome current slab exhibit uniform across indicate matrix";
+var mnemonic = "knife initial olive visa symptom curve couple bid core alpha roast firm";

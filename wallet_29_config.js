@@ -1,1 +1,1 @@
-var mnemonic = "pull rack surface ramp romance connect hybrid screen country deer clever guard";
+var mnemonic = "tiny asset spawn immense shuffle hub once dynamic humble shrug dance use";

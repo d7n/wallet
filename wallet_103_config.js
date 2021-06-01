@@ -1,1 +1,1 @@
-var mnemonic = "project toward version assume turn assist only uphold edge achieve else lava";
+var mnemonic = "neither present onion stick balcony armor misery wrong orphan thought clarify crouch";

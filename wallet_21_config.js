@@ -1,1 +1,1 @@
-var mnemonic = "item assist right pattern sibling motion act ginger gorilla upon vocal child";
+var mnemonic = "achieve rare squeeze lock crop banana service live dash today bring oxygen";

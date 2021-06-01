@@ -1,1 +1,1 @@
-var mnemonic = "body wine what turkey answer forget tackle tornado script scene reunion weather";
+var mnemonic = "earn absurd yard horse own little leg material debris pottery latin print";

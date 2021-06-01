@@ -1,1 +1,1 @@
-var mnemonic = "catch naive theory struggle unhappy right hill teach mushroom boat boost vacuum";
+var mnemonic = "sign fresh evoke cook abandon leader aware crater balance tone dawn resource";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic patrol empty talent lake luxury speed shield peace process puppy act";
+var mnemonic = "volcano couple argue accident cube mobile law team drip aim special found";

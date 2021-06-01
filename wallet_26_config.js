@@ -1,1 +1,1 @@
-var mnemonic = "expand unhappy steak park amused giggle impose shy depend fork wagon betray";
+var mnemonic = "repair truck spy result soldier sort illness note insect morning pulse service";

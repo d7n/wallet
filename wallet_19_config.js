@@ -1,1 +1,1 @@
-var mnemonic = "poet shop sea faculty crawl core kid age network pill cabbage master";
+var mnemonic = "wear topic load tell drift quote hill token kingdom this blur cash";

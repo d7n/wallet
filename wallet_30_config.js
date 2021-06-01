@@ -1,1 +1,1 @@
-var mnemonic = "behave reopen audit park margin congress once ten until various wrap jelly";
+var mnemonic = "giggle occur opera venue price limb citizen sleep cage physical gym lion";

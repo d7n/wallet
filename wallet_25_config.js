@@ -1,1 +1,1 @@
-var mnemonic = "nest height spirit suspect spread sweet carbon vivid tomato olympic inspire gauge";
+var mnemonic = "matter taxi agent regret grace legend anger fringe wrong foot remind wedding";

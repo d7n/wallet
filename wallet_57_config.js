@@ -1,1 +1,1 @@
-var mnemonic = "supply evolve blanket race spring million top number frequent cloth escape erode";
+var mnemonic = "pig valid chalk distance lawsuit impose vacuum field plug digital random scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese captain aisle pioneer bleak moral you give combine already radar slam";
+var mnemonic = "below peace spend tent minute badge either grocery lab grain payment mansion";

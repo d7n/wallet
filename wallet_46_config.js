@@ -1,1 +1,1 @@
-var mnemonic = "liar brief earn chalk fog camp mansion guitar replace small glimpse ozone";
+var mnemonic = "law flame brief hungry creek siege ancient index wasp monitor garment honey";

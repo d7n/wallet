@@ -1,1 +1,1 @@
-var mnemonic = "old claw rhythm rhythm hundred window clarify rib liar action width submit";
+var mnemonic = "habit weather measure salad else base exist wall sick shed duck diagram";

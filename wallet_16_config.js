@@ -1,1 +1,1 @@
-var mnemonic = "govern original music dolphin increase survey siren salmon hidden entry eyebrow where";
+var mnemonic = "burden fantasy rescue fiber clarify moon code traffic planet airport labor random";

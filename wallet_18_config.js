@@ -1,1 +1,1 @@
-var mnemonic = "crisp dance glory link gauge middle garlic choice betray foam joke mixture";
+var mnemonic = "wagon dad cute wrist swap health drive photo section today bracket scare";

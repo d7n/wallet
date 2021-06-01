@@ -1,1 +1,1 @@
-var mnemonic = "field film left holiday cook harbor defy kingdom fantasy accident early hello";
+var mnemonic = "drama tank sponsor dirt travel monitor will angle inhale truck echo travel";

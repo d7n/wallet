@@ -1,1 +1,1 @@
-var mnemonic = "vessel approve reason surface wish enrich rather future review energy sail kiwi";
+var mnemonic = "syrup base chef gesture this science visual have track valid salon exile";

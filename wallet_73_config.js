@@ -1,1 +1,1 @@
-var mnemonic = "strike universe avoid fragile empty setup nuclear matter boy genius imitate vivid";
+var mnemonic = "pretty bamboo review click because harbor panel actor news buyer milk present";

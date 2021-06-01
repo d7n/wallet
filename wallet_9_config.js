@@ -1,1 +1,1 @@
-var mnemonic = "obscure list artwork powder produce miracle napkin dress vault project maple flee";
+var mnemonic = "acquire quality alert there throw wish power draft fan obvious dog save";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss offer insect pudding wolf drastic burst night chair rule purity problem";
+var mnemonic = "amazing main moon front document kangaroo shrimp toddler jeans lamp swear symptom";

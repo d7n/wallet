@@ -1,1 +1,1 @@
-var mnemonic = "search original float region situate avocado economy amateur shove master manage pizza";
+var mnemonic = "ceiling voice add exchange huge sugar icon oil salmon club weasel humble";

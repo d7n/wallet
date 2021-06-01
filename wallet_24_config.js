@@ -1,1 +1,1 @@
-var mnemonic = "kiwi sing rigid vast banner legal fork find water skull huge tunnel";
+var mnemonic = "fire ozone swift bounce secret gate error join wish thought client enlist";

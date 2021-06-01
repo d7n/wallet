@@ -1,1 +1,1 @@
-var mnemonic = "suggest silver bleak grace tumble wool limit melody great phrase stage melody";
+var mnemonic = "estate stairs cage sunny unable deputy assume expand town auction kit zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "snap legal trumpet iron property nerve industry manage laptop city buffalo arrive";
+var mnemonic = "moral shaft involve predict chase share sell pause fatigue better decline planet";
