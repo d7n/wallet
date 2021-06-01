@@ -1,1 +1,1 @@
-var mnemonic = "churn pulse when staff lounge scheme detect pencil august project crop sign";
+var mnemonic = "mansion scout bind summer ugly foster ridge mouse isolate near seven leisure";

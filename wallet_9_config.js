@@ -1,1 +1,1 @@
-var mnemonic = "friend supply label fiction impose super vocal weird glass scan analyst excuse";
+var mnemonic = "pond kite lyrics shiver stadium bundle fly weird glance jaguar gentle will";

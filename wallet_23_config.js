@@ -1,1 +1,1 @@
-var mnemonic = "earn teach ill town palm pride tragic rely left swim fun squeeze";
+var mnemonic = "busy input kidney option shed myth drop buffalo topic measure neglect forward";

@@ -1,1 +1,1 @@
-var mnemonic = "staff stool defense pluck rifle wage balance caught shield erase dune giggle";
+var mnemonic = "endorse anchor valve quarter black rural torch daughter cinnamon mean misery cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "error author tone build hold label rival minute piece tomorrow behind strong";
+var mnemonic = "glass draw later hip idle ripple purchase novel area drastic good sense";

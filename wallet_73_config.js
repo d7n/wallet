@@ -1,1 +1,1 @@
-var mnemonic = "rent wheat talk wish float unit avocado swarm jar when assume decade";
+var mnemonic = "fun dial output merit monitor ignore rescue curious evoke salmon used right";

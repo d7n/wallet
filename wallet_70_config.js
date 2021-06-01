@@ -1,1 +1,1 @@
-var mnemonic = "giraffe garbage sight milk bring faint puppy decorate then alien dust visual";
+var mnemonic = "kitten tattoo moment salmon wheat major vacuum witness inherit interest oval apart";

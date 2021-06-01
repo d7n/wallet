@@ -1,1 +1,1 @@
-var mnemonic = "trouble box bomb knee immune toss divorce endless march sort rich file";
+var mnemonic = "fever edit update mention say ahead february pizza memory brave survey reflect";

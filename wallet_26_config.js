@@ -1,1 +1,1 @@
-var mnemonic = "relax glow hammer ensure vivid skirt initial kick village insane valve diesel";
+var mnemonic = "poverty monster when attend fatigue spider parent slender frog amateur seed next";

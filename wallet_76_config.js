@@ -1,1 +1,1 @@
-var mnemonic = "sick shallow defense march critic parent allow ladder income dove mistake accuse";
+var mnemonic = "inside jaguar upper system fluid place calm foam steak can bitter two";

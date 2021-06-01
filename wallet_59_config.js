@@ -1,1 +1,1 @@
-var mnemonic = "forward reject fly great unfold average mixture old accuse avoid shell wish";
+var mnemonic = "disagree siege work entire drive inside step afford stairs work foster skate";

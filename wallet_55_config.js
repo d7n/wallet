@@ -1,1 +1,1 @@
-var mnemonic = "music wonder replace melody ask sport switch cheese away gospel syrup live";
+var mnemonic = "grab eternal ritual foam visit vapor kiwi sad trophy task cruise dizzy";

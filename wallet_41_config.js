@@ -1,1 +1,1 @@
-var mnemonic = "only gold mouse bridge coffee round approve soul vocal occur mask jazz";
+var mnemonic = "coin become adapt pool odor cluster loan supply void elephant sword wise";

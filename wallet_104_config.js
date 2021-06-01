@@ -1,1 +1,1 @@
-var mnemonic = "float yard hurt frown offer session oak oval chunk receive stick identify";
+var mnemonic = "cute wreck morning ranch abstract balcony trade general census deer theory hammer";

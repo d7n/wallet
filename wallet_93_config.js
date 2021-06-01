@@ -1,1 +1,1 @@
-var mnemonic = "bean chief desert any upgrade drill uncover fat twist iron symptom skin";
+var mnemonic = "rural holiday potato moral mutual eager deputy dash monster orphan glimpse air";

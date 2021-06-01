@@ -1,1 +1,1 @@
-var mnemonic = "chimney tomato angle pony boil caution aware fine shallow charge social alcohol";
+var mnemonic = "inform bracket pulp bicycle radar unaware today mystery park tortoise acoustic oxygen";

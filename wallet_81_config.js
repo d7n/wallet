@@ -1,1 +1,1 @@
-var mnemonic = "pride squeeze card setup tattoo fuel select violin aim cart electric leisure";
+var mnemonic = "table nephew often label cotton slide indoor faith bread awkward february three";

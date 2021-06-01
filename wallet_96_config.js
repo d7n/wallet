@@ -1,1 +1,1 @@
-var mnemonic = "artefact hood cinnamon olympic brown parent neither salmon advance jar crane noble";
+var mnemonic = "minor erupt symptom sea fit height shoulder power share eight junk color";

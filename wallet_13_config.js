@@ -1,1 +1,1 @@
-var mnemonic = "stumble lounge toilet nest meadow foster maple fan grace gospel domain address";
+var mnemonic = "tape toss famous mesh funny exit snake merit illness couch abstract armor";

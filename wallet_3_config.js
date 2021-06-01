@@ -1,1 +1,1 @@
-var mnemonic = "win mystery mystery welcome twelve reunion topic ugly open catch female shy";
+var mnemonic = "nurse circle offer range glare adapt manage produce wrist garlic seek dice";

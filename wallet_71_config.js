@@ -1,1 +1,1 @@
-var mnemonic = "glare upgrade repair mutual marble chapter gun hold distance object sort forward";
+var mnemonic = "glass match toward amazing coast gas nephew evil later invest acoustic skate";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic giant mistake effort taxi canal test open sunny only bridge try";
+var mnemonic = "foil bright judge toward warrior balcony afraid cause frost small sample citizen";

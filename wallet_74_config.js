@@ -1,1 +1,1 @@
-var mnemonic = "near ritual still rocket donate license toss best tourist beef olympic filter";
+var mnemonic = "hybrid comfort green fine page artefact cliff around evoke fiber merge donor";

@@ -1,1 +1,1 @@
-var mnemonic = "clog income cool sail betray taxi wool buzz gift globe august love";
+var mnemonic = "total utility play lamp clutch recycle humble custom novel distance strike shuffle";

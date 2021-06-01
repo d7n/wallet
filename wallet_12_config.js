@@ -1,1 +1,1 @@
-var mnemonic = "rib prepare treat sort resist mesh myth muffin reunion beauty ticket permit";
+var mnemonic = "glove skirt eye crew journey foil hello regular symbol yellow vocal occur";

@@ -1,1 +1,1 @@
-var mnemonic = "home focus outdoor reduce neck blur seat jelly sand version sadness carry";
+var mnemonic = "romance around describe one sponsor index trade say other metal warfare there";

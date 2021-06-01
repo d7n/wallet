@@ -1,1 +1,1 @@
-var mnemonic = "special educate shoulder author taste old leg fox excess sort shallow version";
+var mnemonic = "spawn front guide steel arm eternal electric news doctor leisure spatial crash";

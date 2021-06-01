@@ -1,1 +1,1 @@
-var mnemonic = "scrap cause process install manual debate below topic strong spirit ice festival";
+var mnemonic = "daughter genius proud network dwarf business pottery project awake ostrich water pluck";

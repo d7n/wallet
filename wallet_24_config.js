@@ -1,1 +1,1 @@
-var mnemonic = "opinion enroll chicken illness trap chat bottom forget over goat pizza pink";
+var mnemonic = "mirror high escape attitude media run table reject ecology goose baby summer";

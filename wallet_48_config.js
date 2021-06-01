@@ -1,1 +1,1 @@
-var mnemonic = "drill list public carbon island leopard invite final symbol attitude crystal offer";
+var mnemonic = "fluid gesture essence diagram soul sell boil feature quit bind possible vibrant";

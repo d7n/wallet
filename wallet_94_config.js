@@ -1,1 +1,1 @@
-var mnemonic = "crowd series kid fiber surround hazard usual arrange pond destroy retreat pass";
+var mnemonic = "miracle cover casual kitchen join punch marriage throw emotion blush dinosaur summer";

@@ -1,1 +1,1 @@
-var mnemonic = "rent flee vehicle actress poet mouse aspect embark tilt volcano rude picnic";
+var mnemonic = "cover neither inside window toast quote because shrug ranch bind code trend";

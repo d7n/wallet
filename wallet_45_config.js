@@ -1,1 +1,1 @@
-var mnemonic = "slice announce globe similar laptop nut hurdle gloom discover episode obscure that";
+var mnemonic = "vocal elbow slender tiny walnut prison predict dutch verb clown horse traffic";

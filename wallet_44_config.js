@@ -1,1 +1,1 @@
-var mnemonic = "piece obey donkey mean silk include arena skull board torch tape vast";
+var mnemonic = "empty color space sea affair deputy attend hood palace front eight blast";

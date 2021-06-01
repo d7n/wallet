@@ -1,1 +1,1 @@
-var mnemonic = "purity narrow ring kitten chest curious kiwi lyrics label rack canal tuition";
+var mnemonic = "today odor grain quote thrive worth normal crack scrub jewel energy hedgehog";

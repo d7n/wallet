@@ -1,1 +1,1 @@
-var mnemonic = "knife silent insane emotion wealth chief alter wood foot diesel cross occur";
+var mnemonic = "public above security artwork silly price lazy town jewel code tunnel pluck";

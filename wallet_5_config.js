@@ -1,1 +1,1 @@
-var mnemonic = "unique funny solution sure again panic example wait blush canvas stage dutch";
+var mnemonic = "fever horn vast give scout behind bicycle accident lecture clutch silent begin";

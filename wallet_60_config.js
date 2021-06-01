@@ -1,1 +1,1 @@
-var mnemonic = "loyal stove mouse horror parent insect bench neutral hundred punch avoid bar";
+var mnemonic = "canyon rebuild imitate mango neglect helmet aerobic misery meat clean curious toy";

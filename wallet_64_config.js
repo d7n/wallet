@@ -1,1 +1,1 @@
-var mnemonic = "urge rich skin assault garden rent island amateur they stairs clarify pen";
+var mnemonic = "valid enforce van stay ozone six under stay lens proof skull tornado";

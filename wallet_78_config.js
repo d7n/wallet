@@ -1,1 +1,1 @@
-var mnemonic = "aisle pelican profit pepper love switch inflict ugly sauce unfair insane return";
+var mnemonic = "balance dose dry kitchen push recall warm clump spoon slender vital beach";

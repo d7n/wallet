@@ -1,1 +1,1 @@
-var mnemonic = "mistake adjust charge adjust permit damage private giant erode weird text curious";
+var mnemonic = "cram urge core beef same fat light wrestle school enemy unaware case";

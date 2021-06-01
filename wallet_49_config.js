@@ -1,1 +1,1 @@
-var mnemonic = "nerve dream very giraffe sad stomach rail keep inform give mind retreat";
+var mnemonic = "expire host olive enjoy mad such reason pink pet switch genuine carpet";

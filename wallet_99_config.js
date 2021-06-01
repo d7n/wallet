@@ -1,1 +1,1 @@
-var mnemonic = "decline horn jeans scale blind vicious guitar wild castle mail label traffic";
+var mnemonic = "garbage monkey atom energy document hire soda oppose man field kidney laptop";

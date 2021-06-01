@@ -1,1 +1,1 @@
-var mnemonic = "cruise average mix rifle purpose round able what better soccer convince leg";
+var mnemonic = "talent faint science cactus trash eager bounce enable situate maze cave illegal";

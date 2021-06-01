@@ -1,1 +1,1 @@
-var mnemonic = "limit ostrich protect maximum window degree laundry scissors clean now stay victory";
+var mnemonic = "tumble furnace garage expand miracle captain glimpse sugar sell clutch neutral display";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch bid scatter long chaos small shop language sniff fury save sheriff";
+var mnemonic = "limit speak column gentle case idle radio festival faith thrive canal roof";

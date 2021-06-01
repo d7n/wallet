@@ -1,1 +1,1 @@
-var mnemonic = "spy around system crime dinner decide proud economy picnic exhaust plug myself";
+var mnemonic = "message knee chief river range diet jar swallow vocal hotel bag observe";

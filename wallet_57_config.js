@@ -1,1 +1,1 @@
-var mnemonic = "issue venture ghost sad embody throw mind nature ugly raven shoe slab";
+var mnemonic = "exact elephant leisure artist office people around gallery total follow nephew during";

@@ -1,1 +1,1 @@
-var mnemonic = "mind cross dwarf gorilla letter bone stove throw autumn honey disagree oil";
+var mnemonic = "awake silver cause ribbon scatter group plate afford embark faint benefit merit";

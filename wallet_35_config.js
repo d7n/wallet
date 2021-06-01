@@ -1,1 +1,1 @@
-var mnemonic = "chicken scale attitude teach canvas buzz visual horse remove best fashion balance";
+var mnemonic = "edge develop cable mother eagle random spy fabric jacket diamond pledge walnut";

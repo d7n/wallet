@@ -1,1 +1,1 @@
-var mnemonic = "speak butter scheme emerge leopard carry velvet bless copper amount guitar slush";
+var mnemonic = "century concert moral length special fence found into skirt leader atom daughter";

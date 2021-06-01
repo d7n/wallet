@@ -1,1 +1,1 @@
-var mnemonic = "ice load electric whip wise flame sound exchange gesture clarify jar quarter";
+var mnemonic = "again pony market useless raw nuclear fat craft bring clock angry nothing";

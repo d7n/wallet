@@ -1,1 +1,1 @@
-var mnemonic = "measure nerve turkey horse orphan icon present easily industry oven occur giant";
+var mnemonic = "segment retreat repeat nature acid coast scissors solar vapor february worry citizen";

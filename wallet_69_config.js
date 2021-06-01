@@ -1,1 +1,1 @@
-var mnemonic = "purity impulse detect town easily avocado abuse spare olympic phrase job stem";
+var mnemonic = "parent pond image tongue airport fancy april receive topple loud sweet toilet";

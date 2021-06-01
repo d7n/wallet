@@ -1,1 +1,1 @@
-var mnemonic = "soul skull capital perfect resist reopen either punch pact rude theme oblige";
+var mnemonic = "enter exotic cable wild brass manage squirrel hamster twelve staff little genuine";

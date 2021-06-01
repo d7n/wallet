@@ -1,1 +1,1 @@
-var mnemonic = "island hero vault town alien increase idle odor puzzle merge phrase raise";
+var mnemonic = "theory claim disease amount review wrestle below march achieve enhance cash license";

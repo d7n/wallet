@@ -1,1 +1,1 @@
-var mnemonic = "elephant artwork marine soldier hurdle hurdle pioneer sniff fluid divorce local above";
+var mnemonic = "stone sport clever moon require exile recipe heart soul spoon round maze";

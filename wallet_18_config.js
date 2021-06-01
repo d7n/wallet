@@ -1,1 +1,1 @@
-var mnemonic = "book amused across protect excess surprise room toward fix favorite want grass";
+var mnemonic = "hurdle train toast street awesome crunch present final brain dirt miss genre";

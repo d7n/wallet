@@ -1,1 +1,1 @@
-var mnemonic = "real used dilemma result push unknown world stadium slush wonder narrow tenant";
+var mnemonic = "furnace winner honey frequent winter crouch hour wedding exotic buzz rice magnet";

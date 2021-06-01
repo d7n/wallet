@@ -1,1 +1,1 @@
-var mnemonic = "hobby tuna issue project acquire buzz include aerobic choice obvious style palace";
+var mnemonic = "hood sad witness friend improve gospel chase task scatter mask grass fever";

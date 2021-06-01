@@ -1,1 +1,1 @@
-var mnemonic = "soccer devote umbrella response subway rare other cinnamon news timber sea eagle";
+var mnemonic = "eye enrich mouse select return lend fly embody security hospital round ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "era marble supreme feature giant decrease pink often pulp rug learn trend";
+var mnemonic = "left differ host layer try woman world cycle spice material book rail";

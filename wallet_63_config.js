@@ -1,1 +1,1 @@
-var mnemonic = "inherit hotel layer ozone average rotate snap demise bronze truly mixed draw";
+var mnemonic = "donkey great palm spy bid only drink defense business skull tattoo close";

@@ -1,1 +1,1 @@
-var mnemonic = "rely local cotton dumb awesome attend violin crush forest case plunge memory";
+var mnemonic = "basket enable athlete umbrella dirt clap icon pudding mobile feature donor example";

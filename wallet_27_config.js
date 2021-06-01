@@ -1,1 +1,1 @@
-var mnemonic = "blast vehicle lend lock cup ripple salmon mandate lecture hope scrub festival";
+var mnemonic = "topic noise salute chapter loyal midnight toward crater peace brown track apple";

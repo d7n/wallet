@@ -1,1 +1,1 @@
-var mnemonic = "cricket depend mix jewel hundred swim mind manual real honey achieve lens";
+var mnemonic = "ticket fee climb clarify bicycle rug behind rabbit junk blue soccer lumber";

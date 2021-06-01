@@ -1,1 +1,1 @@
-var mnemonic = "snack admit left chair profit cat proof theory exist usage puzzle globe";
+var mnemonic = "vanish traffic force saddle caught have few actress illegal food drift ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "typical only mask cabbage rhythm march between gesture purse lyrics cheese illegal";
+var mnemonic = "much field auction real pear ozone own fetch please broken urban very";

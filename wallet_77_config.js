@@ -1,1 +1,1 @@
-var mnemonic = "horn mixed real fever various bulk city twist diet crisp exclude cannon";
+var mnemonic = "library shiver suit vapor catalog strong life hero rain envelope hand episode";

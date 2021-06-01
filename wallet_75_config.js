@@ -1,1 +1,1 @@
-var mnemonic = "rare file dynamic include antenna dice dish dentist differ recall approve mutual";
+var mnemonic = "enjoy sign disease enemy vault evoke grab defy amateur satisfy grace pretty";

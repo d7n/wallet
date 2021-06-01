@@ -1,1 +1,1 @@
-var mnemonic = "surface license unaware thing old bicycle envelope relax rally emerge base letter";
+var mnemonic = "develop cancel bread race open child sustain wrist area gloom thing animal";

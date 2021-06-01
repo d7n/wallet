@@ -1,1 +1,1 @@
-var mnemonic = "then van pride zone tunnel sausage cause robust wealth express truck fox";
+var mnemonic = "addict cycle exile antique grab cricket twelve kitten boring parade initial struggle";

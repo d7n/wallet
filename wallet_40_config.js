@@ -1,1 +1,1 @@
-var mnemonic = "hazard bounce popular tank mixture sword lady usual venture index kiwi claw";
+var mnemonic = "kite copper idle pigeon track venue table quarter blur announce swing opera";

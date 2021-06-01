@@ -1,1 +1,1 @@
-var mnemonic = "erode boat diagram present amused kangaroo orient village mesh photo tattoo fashion";
+var mnemonic = "unfair bid giant sign trouble hidden brother solid lottery tent label master";

@@ -1,1 +1,1 @@
-var mnemonic = "consider coin baby chief arctic swim ankle rival story shallow analyst mistake";
+var mnemonic = "expire rely alert vicious method aisle brisk build endless wait remember lab";

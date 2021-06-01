@@ -1,1 +1,1 @@
-var mnemonic = "physical ice essay tray analyst vibrant claw bread rose ethics chronic helmet";
+var mnemonic = "stamp ten receive stand tent deal caught urge demise syrup exotic hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel blue dentist artwork result cream drift caught wife father letter describe";
+var mnemonic = "club beauty various actor art merge witness aunt process grit bubble tomato";

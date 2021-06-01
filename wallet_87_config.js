@@ -1,1 +1,1 @@
-var mnemonic = "chaos celery exit oval harbor craft exclude diamond sudden ketchup shiver thunder";
+var mnemonic = "begin spread crop fade mimic catch open alley lumber beauty initial stick";

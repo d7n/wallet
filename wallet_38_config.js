@@ -1,1 +1,1 @@
-var mnemonic = "kind hammer climb rescue call pact sugar eternal clown talk novel diagram";
+var mnemonic = "crush hard marine way return garment oblige refuse gasp dust base nut";

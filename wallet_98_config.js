@@ -1,1 +1,1 @@
-var mnemonic = "nominee solve sort right medal diagram three scatter mixed blanket piece pass";
+var mnemonic = "rally stumble family joke rescue squirrel rotate giraffe lab harvest right assist";

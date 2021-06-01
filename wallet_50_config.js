@@ -1,1 +1,1 @@
-var mnemonic = "swamp trap guard champion juice rent vault candy crucial mountain design clap";
+var mnemonic = "syrup crystal another illegal guess put space polar middle sketch office crack";

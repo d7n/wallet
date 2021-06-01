@@ -1,1 +1,1 @@
-var mnemonic = "dentist bike senior what cry seminar humor mutual great useful try cargo";
+var mnemonic = "nasty chuckle mixture faith spike fine muscle midnight kit initial response clinic";

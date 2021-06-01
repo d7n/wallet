@@ -1,1 +1,1 @@
-var mnemonic = "that access hazard change crucial trash melt ladder tomato future strike tone";
+var mnemonic = "leopard small split gaze buyer tumble tide tooth resist move cup icon";

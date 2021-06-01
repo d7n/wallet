@@ -1,1 +1,1 @@
-var mnemonic = "employ unaware small duty pave toast hen minimum cat vacant maple desert";
+var mnemonic = "shop harsh awful include spring girl leg shadow certain oyster happy stand";

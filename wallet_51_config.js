@@ -1,1 +1,1 @@
-var mnemonic = "load orbit afford involve end finger loan maze unfold festival mix census";
+var mnemonic = "nature saddle dog weapon crisp profit manual useless throw ignore face dinosaur";

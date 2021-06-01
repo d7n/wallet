@@ -1,1 +1,1 @@
-var mnemonic = "expand wood blast suffer awesome pyramid analyst grunt work issue uncle deal";
+var mnemonic = "picture chef kidney vital border oxygen brisk open fatigue film fold supply";

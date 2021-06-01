@@ -1,1 +1,1 @@
-var mnemonic = "rough cruise devote start gauge rose brass surprise intact grocery month general";
+var mnemonic = "kangaroo believe club major world mercy ring spend flash item theme genre";

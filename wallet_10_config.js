@@ -1,1 +1,1 @@
-var mnemonic = "merry hand donkey ketchup color people strong solution hamster forget creek bullet";
+var mnemonic = "mirror mind three output only adjust copper jacket tube wood diamond just";

@@ -1,1 +1,1 @@
-var mnemonic = "armed over volcano apart monkey economy derive where soap thought seek horn";
+var mnemonic = "step detail parade prosper history rebel analyst laptop proud army start crazy";

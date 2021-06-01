@@ -1,1 +1,1 @@
-var mnemonic = "forum second inject avocado solution seed blade wish sun tip park exchange";
+var mnemonic = "bitter post length rifle task come vibrant addict noise bomb squirrel amazing";
