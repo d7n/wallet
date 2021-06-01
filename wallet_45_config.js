@@ -1,1 +1,1 @@
-var mnemonic = "vocal elbow slender tiny walnut prison predict dutch verb clown horse traffic";
+var mnemonic = "slender mechanic utility coach artist capable private snap stereo match angle music";

@@ -1,1 +1,1 @@
-var mnemonic = "club beauty various actor art merge witness aunt process grit bubble tomato";
+var mnemonic = "orange peanut media weird issue transfer wide social wisdom cave diamond pencil";

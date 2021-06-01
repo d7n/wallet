@@ -1,1 +1,1 @@
-var mnemonic = "nature saddle dog weapon crisp profit manual useless throw ignore face dinosaur";
+var mnemonic = "wink tortoise shrug scrap result slice firm edit summer indicate hand capital";

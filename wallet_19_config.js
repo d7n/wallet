@@ -1,1 +1,1 @@
-var mnemonic = "romance around describe one sponsor index trade say other metal warfare there";
+var mnemonic = "thought space color crop tent fee car grant assault arctic ability pigeon";

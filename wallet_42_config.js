@@ -1,1 +1,1 @@
-var mnemonic = "theory claim disease amount review wrestle below march achieve enhance cash license";
+var mnemonic = "renew champion satisfy tourist magic exact cruel middle fold sentence work drift";

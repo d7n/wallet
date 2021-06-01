@@ -1,1 +1,1 @@
-var mnemonic = "valid enforce van stay ozone six under stay lens proof skull tornado";
+var mnemonic = "rude tomato shed wish priority vendor ranch pizza neglect odor square interest";

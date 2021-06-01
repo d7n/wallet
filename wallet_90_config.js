@@ -1,1 +1,1 @@
-var mnemonic = "limit speak column gentle case idle radio festival faith thrive canal roof";
+var mnemonic = "lobster year weapon gather hover series brother equip huge sail hammer dove";

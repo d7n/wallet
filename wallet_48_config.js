@@ -1,1 +1,1 @@
-var mnemonic = "fluid gesture essence diagram soul sell boil feature quit bind possible vibrant";
+var mnemonic = "sing survey club spray harbor conduct replace broccoli visa gadget virtual light";

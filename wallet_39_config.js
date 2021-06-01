@@ -1,1 +1,1 @@
-var mnemonic = "again pony market useless raw nuclear fat craft bring clock angry nothing";
+var mnemonic = "depth junk cake panel deliver clown absurd soccer uniform tag magic wrong";

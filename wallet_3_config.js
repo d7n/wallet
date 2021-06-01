@@ -1,1 +1,1 @@
-var mnemonic = "nurse circle offer range glare adapt manage produce wrist garlic seek dice";
+var mnemonic = "train anxiety skate scout achieve cat door carry pool pause need vicious";

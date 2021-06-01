@@ -1,1 +1,1 @@
-var mnemonic = "mirror high escape attitude media run table reject ecology goose baby summer";
+var mnemonic = "mixture hood shine lounge fiction wedding type twice letter market among local";

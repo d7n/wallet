@@ -1,1 +1,1 @@
-var mnemonic = "fun dial output merit monitor ignore rescue curious evoke salmon used right";
+var mnemonic = "flight dove achieve become nasty burger beauty never tag problem canoe blood";

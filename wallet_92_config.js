@@ -1,1 +1,1 @@
-var mnemonic = "federal neglect neglect father visit hope market innocent test oak crawl pond";
+var mnemonic = "remember license language spice hammer tongue afraid lazy mouse rabbit luxury canoe";

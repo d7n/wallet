@@ -1,1 +1,1 @@
-var mnemonic = "edit verify token muffin enough rude admit pear stomach derive orchard attend";
+var mnemonic = "salad aerobic region legal loud stand metal unknown wait that poverty odor";

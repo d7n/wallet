@@ -1,1 +1,1 @@
-var mnemonic = "transfer glad leg behave fat quality shield promote spoil scan blame damage";
+var mnemonic = "oval donate work cement whisper plate cluster bunker drink desk legal smart";

@@ -1,1 +1,1 @@
-var mnemonic = "parent pond image tongue airport fancy april receive topple loud sweet toilet";
+var mnemonic = "story ability rice type wish fortune slow detail manage liberty walk patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror mind three output only adjust copper jacket tube wood diamond just";
+var mnemonic = "shiver eyebrow love put unveil abandon sunny gun water abandon crush purity";

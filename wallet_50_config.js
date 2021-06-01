@@ -1,1 +1,1 @@
-var mnemonic = "syrup crystal another illegal guess put space polar middle sketch office crack";
+var mnemonic = "august obtain explain ranch vacant beyond float firm frame sail useful artwork";

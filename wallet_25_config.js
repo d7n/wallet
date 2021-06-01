@@ -1,1 +1,1 @@
-var mnemonic = "cram urge core beef same fat light wrestle school enemy unaware case";
+var mnemonic = "hidden motion nerve soul industry anchor pulse moral account egg pigeon protect";

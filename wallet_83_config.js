@@ -1,1 +1,1 @@
-var mnemonic = "miracle best surge slice wonder normal long napkin runway gift category property";
+var mnemonic = "fitness wrist cabbage nut lesson distance play isolate burst inhale scan yellow";

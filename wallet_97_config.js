@@ -1,1 +1,1 @@
-var mnemonic = "stamp cruise ozone scan rifle column short movie jungle attract chef impose";
+var mnemonic = "virus problem surface print machine valley limit butter power debris manage lounge";

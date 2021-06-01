@@ -1,1 +1,1 @@
-var mnemonic = "enjoy sign disease enemy vault evoke grab defy amateur satisfy grace pretty";
+var mnemonic = "glory border truly flee distance genius another remember share hybrid maximum chronic";

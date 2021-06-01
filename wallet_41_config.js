@@ -1,1 +1,1 @@
-var mnemonic = "coin become adapt pool odor cluster loan supply void elephant sword wise";
+var mnemonic = "street swamp love lady process timber nurse night conduct answer gesture trap";

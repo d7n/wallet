@@ -1,1 +1,1 @@
-var mnemonic = "leopard small split gaze buyer tumble tide tooth resist move cup icon";
+var mnemonic = "expose parrot bunker face list injury quit monkey invite magnet crazy detect";

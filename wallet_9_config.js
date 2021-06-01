@@ -1,1 +1,1 @@
-var mnemonic = "pond kite lyrics shiver stadium bundle fly weird glance jaguar gentle will";
+var mnemonic = "napkin add tail come chief master sing giant erupt mystery switch funny";

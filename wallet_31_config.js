@@ -1,1 +1,1 @@
-var mnemonic = "spawn front guide steel arm eternal electric news doctor leisure spatial crash";
+var mnemonic = "kiwi junior grain thumb fly file odor receive film park neutral seek";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid comfort green fine page artefact cliff around evoke fiber merge donor";
+var mnemonic = "tool casual stairs master control bar tumble script burden mango warm health";

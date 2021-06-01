@@ -1,1 +1,1 @@
-var mnemonic = "library shiver suit vapor catalog strong life hero rain envelope hand episode";
+var mnemonic = "robust fix enforce avoid steak tray invest input lesson reopen turtle clean";

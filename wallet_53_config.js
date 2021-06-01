@@ -1,1 +1,1 @@
-var mnemonic = "master another farm note memory strike kid robot capable shift sad dumb";
+var mnemonic = "black penalty shield city ankle glue globe project pioneer keep forest green";

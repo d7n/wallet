@@ -1,1 +1,1 @@
-var mnemonic = "table nephew often label cotton slide indoor faith bread awkward february three";
+var mnemonic = "castle never lock federal cute soccer dial raccoon pluck hurry nation layer";

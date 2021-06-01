@@ -1,1 +1,1 @@
-var mnemonic = "canyon rebuild imitate mango neglect helmet aerobic misery meat clean curious toy";
+var mnemonic = "neutral eager loud rabbit ahead lazy current shoot deliver game host answer";

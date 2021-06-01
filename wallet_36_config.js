@@ -1,1 +1,1 @@
-var mnemonic = "stamp ten receive stand tent deal caught urge demise syrup exotic hurdle";
+var mnemonic = "hospital unhappy yard depth skate chicken egg rare guide chronic insane vendor";

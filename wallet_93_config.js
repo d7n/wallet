@@ -1,1 +1,1 @@
-var mnemonic = "rural holiday potato moral mutual eager deputy dash monster orphan glimpse air";
+var mnemonic = "recycle rural narrow club just layer salute wrestle evidence carry cage garment";

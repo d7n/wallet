@@ -1,1 +1,1 @@
-var mnemonic = "public above security artwork silly price lazy town jewel code tunnel pluck";
+var mnemonic = "lumber search excuse kite wheat sign ranch bachelor leaf gate hedgehog describe";

@@ -1,1 +1,1 @@
-var mnemonic = "fever horn vast give scout behind bicycle accident lecture clutch silent begin";
+var mnemonic = "fix devote phrase surprise awesome hybrid above rescue service certain adult table";

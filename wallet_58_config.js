@@ -1,1 +1,1 @@
-var mnemonic = "nasty chuckle mixture faith spike fine muscle midnight kit initial response clinic";
+var mnemonic = "tribe furnace huge castle dutch sketch whale twelve favorite capital income hamster";

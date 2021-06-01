@@ -1,1 +1,1 @@
-var mnemonic = "donkey great palm spy bid only drink defense business skull tattoo close";
+var mnemonic = "scheme radio punch payment elephant mimic street liberty kangaroo strategy heavy green";

@@ -1,1 +1,1 @@
-var mnemonic = "expire host olive enjoy mad such reason pink pet switch genuine carpet";
+var mnemonic = "view trigger prosper skull cloth language unusual original album card people remember";

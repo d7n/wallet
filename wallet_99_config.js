@@ -1,1 +1,1 @@
-var mnemonic = "garbage monkey atom energy document hire soda oppose man field kidney laptop";
+var mnemonic = "conduct test trophy burst gap vehicle basic badge write pluck decorate desert";

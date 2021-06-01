@@ -1,1 +1,1 @@
-var mnemonic = "bitter post length rifle task come vibrant addict noise bomb squirrel amazing";
+var mnemonic = "orchard social venture viable market initial spin admit trophy vault helmet hire";

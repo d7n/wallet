@@ -1,1 +1,1 @@
-var mnemonic = "inside jaguar upper system fluid place calm foam steak can bitter two";
+var mnemonic = "great board great quality green appear snow shove pair best soup future";

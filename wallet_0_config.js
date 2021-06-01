@@ -1,1 +1,1 @@
-var mnemonic = "stone sport clever moon require exile recipe heart soul spoon round maze";
+var mnemonic = "frame park wheat slam suspect rail remember guess gun chat gorilla coast";

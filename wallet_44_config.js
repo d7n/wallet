@@ -1,1 +1,1 @@
-var mnemonic = "empty color space sea affair deputy attend hood palace front eight blast";
+var mnemonic = "shine allow pave buddy vote habit squirrel acid kiwi staff spirit frown";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace winner honey frequent winter crouch hour wedding exotic buzz rice magnet";
+var mnemonic = "venture exercise black differ dress loan kidney bamboo top multiply bag relax";

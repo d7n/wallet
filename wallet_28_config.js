@@ -1,1 +1,1 @@
-var mnemonic = "foil bright judge toward warrior balcony afraid cause frost small sample citizen";
+var mnemonic = "rural oxygen smooth empty boring barrel pigeon party punch phone slogan grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "glass match toward amazing coast gas nephew evil later invest acoustic skate";
+var mnemonic = "jacket camp agent lamp thought twist lottery void tackle wagon fault volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "fever edit update mention say ahead february pizza memory brave survey reflect";
+var mnemonic = "fragile polar inform train this target crisp rather youth about attend mind";

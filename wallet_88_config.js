@@ -1,1 +1,1 @@
-var mnemonic = "talent faint science cactus trash eager bounce enable situate maze cave illegal";
+var mnemonic = "trap upgrade gift weather together impact result swap donor exhibit advice extra";

@@ -1,1 +1,1 @@
-var mnemonic = "crush hard marine way return garment oblige refuse gasp dust base nut";
+var mnemonic = "cry label scrap practice chronic teach estate supreme adjust aisle liberty shove";

@@ -1,1 +1,1 @@
-var mnemonic = "total utility play lamp clutch recycle humble custom novel distance strike shuffle";
+var mnemonic = "quiz copper high curious cable unable female annual few leave crystal timber";

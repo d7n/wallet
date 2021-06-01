@@ -1,1 +1,1 @@
-var mnemonic = "much field auction real pear ozone own fetch please broken urban very";
+var mnemonic = "man sample cup twin crazy run beach hockey deliver divert blur panel";

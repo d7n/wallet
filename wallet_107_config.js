@@ -1,1 +1,1 @@
-var mnemonic = "enter exotic cable wild brass manage squirrel hamster twelve staff little genuine";
+var mnemonic = "volume fuel charge unaware ceiling surprise speak half caught urge artefact develop";

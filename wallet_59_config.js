@@ -1,1 +1,1 @@
-var mnemonic = "disagree siege work entire drive inside step afford stairs work foster skate";
+var mnemonic = "audit eternal snow pottery agent gather post real sheriff scrub kitten kitchen";

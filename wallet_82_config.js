@@ -1,1 +1,1 @@
-var mnemonic = "awake silver cause ribbon scatter group plate afford embark faint benefit merit";
+var mnemonic = "junior witness birth wink tortoise wedding size fetch enhance spice amateur grow";

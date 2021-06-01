@@ -1,1 +1,1 @@
-var mnemonic = "inform bracket pulp bicycle radar unaware today mystery park tortoise acoustic oxygen";
+var mnemonic = "reform alert refuse impose rich apology two lift rough sausage divorce fringe";

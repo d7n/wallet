@@ -1,1 +1,1 @@
-var mnemonic = "shop harsh awful include spring girl leg shadow certain oyster happy stand";
+var mnemonic = "cry road false spread point abandon dune move govern ship wall cactus";

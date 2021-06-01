@@ -1,1 +1,1 @@
-var mnemonic = "unfair bid giant sign trouble hidden brother solid lottery tent label master";
+var mnemonic = "blast crime square jazz human anxiety panther champion tackle audit grant alpha";

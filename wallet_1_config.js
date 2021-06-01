@@ -1,1 +1,1 @@
-var mnemonic = "today odor grain quote thrive worth normal crack scrub jewel energy hedgehog";
+var mnemonic = "energy cupboard possible bid beyond snap dial protect assault power luxury must";

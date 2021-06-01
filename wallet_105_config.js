@@ -1,1 +1,1 @@
-var mnemonic = "seminar burden theme drive portion prison mixed nasty auction want elder submit";
+var mnemonic = "three tooth staff step jealous involve super text public mad surface during";

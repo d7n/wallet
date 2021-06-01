@@ -1,1 +1,1 @@
-var mnemonic = "stand future need exchange armed next extend ask arrange isolate couple hotel";
+var mnemonic = "pass front quarter anchor used wish afford celery when bottom lazy wheel";

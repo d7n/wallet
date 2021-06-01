@@ -1,1 +1,1 @@
-var mnemonic = "picture chef kidney vital border oxygen brisk open fatigue film fold supply";
+var mnemonic = "thing pulse sense afraid view enrich roast either pitch chat pass inside";

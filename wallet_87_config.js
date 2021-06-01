@@ -1,1 +1,1 @@
-var mnemonic = "begin spread crop fade mimic catch open alley lumber beauty initial stick";
+var mnemonic = "tortoise way urge chuckle dilemma virus waste jealous capital clerk frown luggage";

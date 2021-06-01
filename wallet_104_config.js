@@ -1,1 +1,1 @@
-var mnemonic = "cute wreck morning ranch abstract balcony trade general census deer theory hammer";
+var mnemonic = "mean hidden green lamp wage street draw differ atom wonder beauty matrix";

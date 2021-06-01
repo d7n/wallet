@@ -1,1 +1,1 @@
-var mnemonic = "busy input kidney option shed myth drop buffalo topic measure neglect forward";
+var mnemonic = "lake power process bleak analyst trick organ company girl text heavy clutch";

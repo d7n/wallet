@@ -1,1 +1,1 @@
-var mnemonic = "poverty monster when attend fatigue spider parent slender frog amateur seed next";
+var mnemonic = "earth borrow gas convince pair invest large discover release crystal stove once";

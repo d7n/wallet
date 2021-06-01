@@ -1,1 +1,1 @@
-var mnemonic = "cover neither inside window toast quote because shrug ranch bind code trend";
+var mnemonic = "nurse swing own rubber tower leg assist lucky question rhythm idea cube";

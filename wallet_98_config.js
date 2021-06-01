@@ -1,1 +1,1 @@
-var mnemonic = "rally stumble family joke rescue squirrel rotate giraffe lab harvest right assist";
+var mnemonic = "loud fly flash oblige welcome finger time century found eyebrow jump vessel";

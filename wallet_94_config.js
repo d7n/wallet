@@ -1,1 +1,1 @@
-var mnemonic = "miracle cover casual kitchen join punch marriage throw emotion blush dinosaur summer";
+var mnemonic = "rubber junk laptop differ garment chase scale second clown egg dune dignity";

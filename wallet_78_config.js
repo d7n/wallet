@@ -1,1 +1,1 @@
-var mnemonic = "balance dose dry kitchen push recall warm clump spoon slender vital beach";
+var mnemonic = "moral lemon quiz era waste kingdom blade garlic idle puppy join fortune";

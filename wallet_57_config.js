@@ -1,1 +1,1 @@
-var mnemonic = "exact elephant leisure artist office people around gallery total follow nephew during";
+var mnemonic = "main bicycle ribbon crush dumb thumb culture firm pattern ozone minor century";

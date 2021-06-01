@@ -1,1 +1,1 @@
-var mnemonic = "endorse anchor valve quarter black rural torch daughter cinnamon mean misery cruise";
+var mnemonic = "about zebra report hill exist mechanic bottom plug despair upgrade match arrow";

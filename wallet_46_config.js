@@ -1,1 +1,1 @@
-var mnemonic = "addict cycle exile antique grab cricket twelve kitten boring parade initial struggle";
+var mnemonic = "accuse pulp protect cave stick announce rebuild scissors loyal tail gorilla silver";

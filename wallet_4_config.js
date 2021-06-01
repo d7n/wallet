@@ -1,1 +1,1 @@
-var mnemonic = "develop cancel bread race open child sustain wrist area gloom thing animal";
+var mnemonic = "horror rate clown fox wine spring next pull suggest wire safe outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter genius proud network dwarf business pottery project awake ostrich water pluck";
+var mnemonic = "angry future ski industry cousin rail enrich absorb dinosaur upset high gospel";

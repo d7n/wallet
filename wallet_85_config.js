@@ -1,1 +1,1 @@
-var mnemonic = "tumble furnace garage expand miracle captain glimpse sugar sell clutch neutral display";
+var mnemonic = "casual render cheap ride fruit flush seminar card true boss void arrive";

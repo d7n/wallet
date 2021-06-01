@@ -1,1 +1,1 @@
-var mnemonic = "hood sad witness friend improve gospel chase task scatter mask grass fever";
+var mnemonic = "sister utility scale drama shuffle word spice leisure still approve enemy supreme";

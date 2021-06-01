@@ -1,1 +1,1 @@
-var mnemonic = "engage unusual glass sentence curtain antique skull piano glue grace adult citizen";
+var mnemonic = "field supply prison donor metal resource clock display pond quit jealous top";

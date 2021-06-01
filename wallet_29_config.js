@@ -1,1 +1,1 @@
-var mnemonic = "left differ host layer try woman world cycle spice material book rail";
+var mnemonic = "dragon carpet dawn any sing base first diet lesson mimic town enter";

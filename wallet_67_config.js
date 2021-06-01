@@ -1,1 +1,1 @@
-var mnemonic = "return veteran rain pulse chaos race pen neck soul history above mention";
+var mnemonic = "cram across become pause force share pull expose half border owner west";

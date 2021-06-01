@@ -1,1 +1,1 @@
-var mnemonic = "topic noise salute chapter loyal midnight toward crater peace brown track apple";
+var mnemonic = "seven identify tube bonus frost kingdom goddess error merit hazard special solar";

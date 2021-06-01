@@ -1,1 +1,1 @@
-var mnemonic = "expire rely alert vicious method aisle brisk build endless wait remember lab";
+var mnemonic = "scene deer scatter pattern hover siren weasel craft grass inherit organ garlic";

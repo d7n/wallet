@@ -1,1 +1,1 @@
-var mnemonic = "ticket fee climb clarify bicycle rug behind rabbit junk blue soccer lumber";
+var mnemonic = "crack canyon fame crucial body note run feature spring rough suit second";

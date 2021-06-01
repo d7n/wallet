@@ -1,1 +1,1 @@
-var mnemonic = "kitten tattoo moment salmon wheat major vacuum witness inherit interest oval apart";
+var mnemonic = "enroll uniform ethics napkin injury admit response mass fabric prevent army crack";

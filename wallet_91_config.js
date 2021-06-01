@@ -1,1 +1,1 @@
-var mnemonic = "airport slow cruel stone castle across horror yellow magnet pave pilot mountain";
+var mnemonic = "ahead destroy melt expand siren neck toilet symptom agree omit member coffee";

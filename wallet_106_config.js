@@ -1,1 +1,1 @@
-var mnemonic = "job total arctic pull vast verb comfort mule awful convince human art";
+var mnemonic = "raw fashion misery autumn witness blood combine alpha quantum day gasp mushroom";

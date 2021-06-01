@@ -1,1 +1,1 @@
-var mnemonic = "kite copper idle pigeon track venue table quarter blur announce swing opera";
+var mnemonic = "flash smooth thunder dish sustain naive inquiry lemon ice measure have brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "segment retreat repeat nature acid coast scissors solar vapor february worry citizen";
+var mnemonic = "success tag path hero question illegal update slogan head pill wait tuition";

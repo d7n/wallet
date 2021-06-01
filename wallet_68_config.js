@@ -1,1 +1,1 @@
-var mnemonic = "message knee chief river range diet jar swallow vocal hotel bag observe";
+var mnemonic = "funny devote devote cricket pigeon ski rescue enrich parrot pilot gift chronic";

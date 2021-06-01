@@ -1,1 +1,1 @@
-var mnemonic = "size glimpse august only zebra amount before remain farm guess panic virus";
+var mnemonic = "tennis cat sudden toddler loan calm pattern kiss noise normal actual taxi";

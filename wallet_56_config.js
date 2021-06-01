@@ -1,1 +1,1 @@
-var mnemonic = "vanish traffic force saddle caught have few actress illegal food drift ecology";
+var mnemonic = "burden uphold bitter clay submit dose camera ghost become just inflict evil";

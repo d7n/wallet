@@ -1,1 +1,1 @@
-var mnemonic = "organ napkin real lounge happy bleak royal spin time blanket alcohol bless";
+var mnemonic = "pond crawl debate spoil detail valid choice image make glue wrong nerve";

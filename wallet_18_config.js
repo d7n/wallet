@@ -1,1 +1,1 @@
-var mnemonic = "hurdle train toast street awesome crunch present final brain dirt miss genre";
+var mnemonic = "avocado twist fame issue rate donate verify dumb color pudding bench critic";

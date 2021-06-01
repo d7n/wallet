@@ -1,1 +1,1 @@
-var mnemonic = "eye enrich mouse select return lend fly embody security hospital round ahead";
+var mnemonic = "seat pencil track model reflect dial appear table loop worry repeat swing";

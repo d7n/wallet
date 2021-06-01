@@ -1,1 +1,1 @@
-var mnemonic = "edge develop cable mother eagle random spy fabric jacket diamond pledge walnut";
+var mnemonic = "prize lift main forward unlock boost gate evidence advice scorpion hurt skin";

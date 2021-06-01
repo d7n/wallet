@@ -1,1 +1,1 @@
-var mnemonic = "grab eternal ritual foam visit vapor kiwi sad trophy task cruise dizzy";
+var mnemonic = "radio jacket coin stumble nest twice industry equal tone phone palm range";
