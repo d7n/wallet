@@ -1,1 +1,1 @@
-var mnemonic = "much brief know anger since butter apology sphere ahead huge media lift";
+var mnemonic = "trim protect virus bird clump virtual ripple display also disease pledge myself";

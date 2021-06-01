@@ -1,1 +1,1 @@
-var mnemonic = "borrow stock bike hidden female wild hour cloud corn confirm pond tourist";
+var mnemonic = "city wheel proof divide another pepper push comfort genre mask approve dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "become illness point sun trash nerve april tortoise measure must fatigue magnet";
+var mnemonic = "version quote bread fancy inquiry weapon between surround spin endorse unusual glory";

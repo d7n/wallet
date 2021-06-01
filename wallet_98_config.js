@@ -1,1 +1,1 @@
-var mnemonic = "prevent lawn snap member stick lift best soon impulse bird swear dove";
+var mnemonic = "renew distance cabin beach opinion village crumble decorate odor fruit bachelor frown";

@@ -1,1 +1,1 @@
-var mnemonic = "robust tongue amount usual reveal coyote token parade indicate ignore fish crisp";
+var mnemonic = "display flat chronic trade rule learn inch alcohol helmet code alpha digital";

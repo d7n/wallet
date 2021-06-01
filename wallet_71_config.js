@@ -1,1 +1,1 @@
-var mnemonic = "sleep rice olive brother more symbol brush clap october embody tragic sugar";
+var mnemonic = "unable next copy argue dirt position arrest nephew apart ribbon menu tag";

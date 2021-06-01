@@ -1,1 +1,1 @@
-var mnemonic = "trophy choice fish direct bless glue fat spawn bacon allow purse corn";
+var mnemonic = "silk spell glory attend display powder brave among reveal mystery joy coach";

@@ -1,1 +1,1 @@
-var mnemonic = "inch clerk pill panther credit blanket rebel real fit wild neglect scorpion";
+var mnemonic = "keen shed cream scrap search mechanic come whisper curve cat slight slam";

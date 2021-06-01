@@ -1,1 +1,1 @@
-var mnemonic = "swap fame stem marble move earth album burst under trick lend echo";
+var mnemonic = "wage club brief gesture mansion regret vital satisfy tree over cook scan";

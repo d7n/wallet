@@ -1,1 +1,1 @@
-var mnemonic = "confirm enter neither regular own unfair arm buzz mansion portion violin curve";
+var mnemonic = "egg chimney police curve cross unfair sport silent hover fever chaos tone";

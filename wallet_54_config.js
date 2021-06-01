@@ -1,1 +1,1 @@
-var mnemonic = "concert marriage tourist trick custom case robot hybrid embody about oppose crater";
+var mnemonic = "wash ahead until claim kick food useless put satisfy dolphin gravity mirror";

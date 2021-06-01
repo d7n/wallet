@@ -1,1 +1,1 @@
-var mnemonic = "layer legal add people slot siren dash razor predict raise devote forward";
+var mnemonic = "mango year grant energy sock grape virus mule custom traffic device stomach";

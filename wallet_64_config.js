@@ -1,1 +1,1 @@
-var mnemonic = "begin twice force castle connect gauge student stomach convince return valley sand";
+var mnemonic = "picnic scissors crazy undo approve lizard lawsuit ride clarify floor unusual eagle";

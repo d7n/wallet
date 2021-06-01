@@ -1,1 +1,1 @@
-var mnemonic = "person faint spice drift melt unique elder butter live trim blush fossil";
+var mnemonic = "crunch correct sting acquire visual over tiger erosion cry raw right doctor";

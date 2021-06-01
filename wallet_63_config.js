@@ -1,1 +1,1 @@
-var mnemonic = "unable method always outside file wheat able peasant tired network prosper dance";
+var mnemonic = "rabbit they uncover boil stereo harbor into ice charge region cotton mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bus satoshi body say bunker uphold liberty friend enjoy pave hard";
+var mnemonic = "phrase olympic tonight medal wagon misery gorilla portion door cupboard afraid they";

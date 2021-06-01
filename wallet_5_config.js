@@ -1,1 +1,1 @@
-var mnemonic = "silly zone sock top ladder pull lyrics rubber absent soul awesome child";
+var mnemonic = "situate acoustic now fiscal regret farm color boy acid post large board";

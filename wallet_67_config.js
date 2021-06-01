@@ -1,1 +1,1 @@
-var mnemonic = "wear race hedgehog powder bleak injury chase include easily wage shallow meat";
+var mnemonic = "base cable milk region bulb sing orphan bright depth coin gospel merge";

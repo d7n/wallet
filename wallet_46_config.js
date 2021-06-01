@@ -1,1 +1,1 @@
-var mnemonic = "lady include future crash express there attend produce spot garlic scissors vast";
+var mnemonic = "disorder page curve poem word hidden demand hollow length horn asset bubble";

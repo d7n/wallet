@@ -1,1 +1,1 @@
-var mnemonic = "wool forest velvet unique loop small issue call evidence frozen film outer";
+var mnemonic = "minimum please perfect grief calm change legal vapor bench cost ceiling hawk";

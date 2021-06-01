@@ -1,1 +1,1 @@
-var mnemonic = "journey sound round giant foster boring way citizen wet catch wisdom bottom";
+var mnemonic = "ghost imitate have ankle loyal violin carpet picture symptom maximum crane size";

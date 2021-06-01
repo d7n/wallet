@@ -1,1 +1,1 @@
-var mnemonic = "organ volume summer beef scene humble boil harbor round impact observe mosquito";
+var mnemonic = "treat special peace extra menu rifle fade little child crew addict talk";

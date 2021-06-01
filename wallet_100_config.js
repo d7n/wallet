@@ -1,1 +1,1 @@
-var mnemonic = "number already remind frost column stick hen attack panic word volcano disagree";
+var mnemonic = "atom rough remember work leg dance parade crawl crumble hurdle marriage borrow";

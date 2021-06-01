@@ -1,1 +1,1 @@
-var mnemonic = "light panda column diagram sustain eagle siege sting safe total language inner";
+var mnemonic = "tissue midnight cabbage mango birth crouch express sibling pen escape gap calm";

@@ -1,1 +1,1 @@
-var mnemonic = "joke earth arrow lemon spring document ready arm away image above alley";
+var mnemonic = "humor mix gasp assault lady truck picnic crime mimic nurse flush consider";

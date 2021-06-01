@@ -1,1 +1,1 @@
-var mnemonic = "ladder salt vault holiday hockey obtain shrimp involve infant reunion trumpet will";
+var mnemonic = "purpose all spirit more dad extend few rate dawn million female spirit";

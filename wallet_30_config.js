@@ -1,1 +1,1 @@
-var mnemonic = "interest rib motor topic buzz shuffle portion joy street excuse frown total";
+var mnemonic = "ordinary nuclear empty hip audit fine bag uphold frequent pony illness interest";

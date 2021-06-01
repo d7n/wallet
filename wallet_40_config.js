@@ -1,1 +1,1 @@
-var mnemonic = "ghost title august dinner require coast around armed cute fragile joy rich";
+var mnemonic = "neglect wagon also mixed robot insect addict marine own weekend cover lottery";

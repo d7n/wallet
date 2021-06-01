@@ -1,1 +1,1 @@
-var mnemonic = "reopen have now lobster only device faculty gravity evidence lyrics combine harbor";
+var mnemonic = "quarter nice online gallery describe live flush figure vendor vacuum dentist ocean";

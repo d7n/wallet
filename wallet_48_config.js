@@ -1,1 +1,1 @@
-var mnemonic = "shoulder flame tunnel they energy occur lecture accuse craft ripple tired tail";
+var mnemonic = "physical feed demand evoke tennis lift extend curtain undo universe give mixed";

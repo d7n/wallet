@@ -1,1 +1,1 @@
-var mnemonic = "color three pride never sick vehicle when nerve bleak antique wall vague";
+var mnemonic = "spot dolphin prison medal arrange mosquito morning uphold turn report step brave";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare alley shoe assist battle prize venture expire evoke correct slender sight";
+var mnemonic = "disagree blanket degree common all twice sustain scheme material belt easy raw";

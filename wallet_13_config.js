@@ -1,1 +1,1 @@
-var mnemonic = "ordinary clutch upon author april safe dinner kitchen woman fashion popular false";
+var mnemonic = "hobby can educate forum dentist shoulder use segment ticket return busy tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "file enemy board rice ozone vicious clinic shield copy mimic chat any";
+var mnemonic = "voice cigar taxi jealous shell waste burden super smooth fossil demand expose";

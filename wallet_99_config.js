@@ -1,1 +1,1 @@
-var mnemonic = "dirt coin stick evidence hood input creek foot blast happy clown cereal";
+var mnemonic = "actual health accuse vault resemble miracle devote never tissue sense matrix dove";

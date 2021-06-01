@@ -1,1 +1,1 @@
-var mnemonic = "define food weapon neither fish weasel describe exhibit quit laundry tortoise cloth";
+var mnemonic = "key pistol intact armed rely code wisdom heavy crime lunch loud athlete";

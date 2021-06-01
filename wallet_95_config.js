@@ -1,1 +1,1 @@
-var mnemonic = "clean spy express victory truth record gloom only agent blush laptop update";
+var mnemonic = "color lyrics final shoot surround hold off grant egg code ceiling morning";

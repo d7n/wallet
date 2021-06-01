@@ -1,1 +1,1 @@
-var mnemonic = "subway gauge custom love curve pluck throw all now path dentist pride";
+var mnemonic = "spread anchor absurd illness galaxy essay predict saddle two lady swarm visual";

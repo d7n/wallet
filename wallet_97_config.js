@@ -1,1 +1,1 @@
-var mnemonic = "curious chest clump install problem dynamic ribbon extend save foster between unusual";
+var mnemonic = "resource test add vocal rhythm early butter sample cloth mention remind join";

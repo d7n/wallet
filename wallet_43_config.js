@@ -1,1 +1,1 @@
-var mnemonic = "until two suit goddess almost power eyebrow behave never adapt tomato crime";
+var mnemonic = "donor blossom pyramid giraffe budget oval cake doctor used beef head insect";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer pistol live nominee bless blast rude lunar hurt twin table exercise";
+var mnemonic = "crush history dice solve minimum casino route bubble wink pyramid master civil";

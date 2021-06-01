@@ -1,1 +1,1 @@
-var mnemonic = "ordinary urge sting bounce only grain state connect child prize oyster trophy";
+var mnemonic = "code enact jazz market soccer shoe loan pudding cup stuff increase drill";

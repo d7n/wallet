@@ -1,1 +1,1 @@
-var mnemonic = "kite rival equal chest settle cable sort effort viable pencil firm burst";
+var mnemonic = "pig shop viable learn hard way awful cigar rack enjoy under host";

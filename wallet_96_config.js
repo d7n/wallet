@@ -1,1 +1,1 @@
-var mnemonic = "box attitude swarm frozen help bring smile okay cash acoustic bracket slam";
+var mnemonic = "pilot inside frequent someone tray dirt loan curious naive degree sport catch";

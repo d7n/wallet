@@ -1,1 +1,1 @@
-var mnemonic = "valve control stand disagree tennis head wing effort pool ripple number pledge";
+var mnemonic = "sound reason indoor quit shrimp draw angle twin valve elite bullet solar";

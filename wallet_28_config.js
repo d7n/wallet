@@ -1,1 +1,1 @@
-var mnemonic = "civil torch reopen antenna deal curtain million force media bachelor rifle novel";
+var mnemonic = "creek promote kitten thought gentle suffer video robust man grit lobster party";

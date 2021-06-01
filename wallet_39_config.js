@@ -1,1 +1,1 @@
-var mnemonic = "cycle coil train dose margin inhale topic essence siege letter skin stock";
+var mnemonic = "game there weird yellow believe ticket circle diet mountain pupil diary fiscal";

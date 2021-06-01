@@ -1,1 +1,1 @@
-var mnemonic = "crop item monster wait deal attack slide prize spare barely lamp grape";
+var mnemonic = "just whisper equip you ginger please explain climb stock dignity benefit among";

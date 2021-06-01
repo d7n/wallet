@@ -1,1 +1,1 @@
-var mnemonic = "crash win era latin pink faint rug asset shrimp gallery then lawn";
+var mnemonic = "sibling traffic turtle soft reward cement code blast expire curious rack alarm";

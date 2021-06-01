@@ -1,1 +1,1 @@
-var mnemonic = "diagram shrimp bag improve maid birth junk draw caution wool fuel spoil";
+var mnemonic = "tell distance kitten source arrange enjoy expand table excite source tent lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "moment foster used among gate liberty monitor payment toy jar degree eyebrow";
+var mnemonic = "inform tornado silly behind rocket broom chaos busy lava expose awkward upset";

@@ -1,1 +1,1 @@
-var mnemonic = "age swim oven seed empty hedgehog inside boat general sense drum toe";
+var mnemonic = "bitter trip matrix drastic fade battle october letter menu surge around village";

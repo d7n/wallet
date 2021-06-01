@@ -1,1 +1,1 @@
-var mnemonic = "enact utility inmate rare trumpet inhale cabbage snake dream winter clever route";
+var mnemonic = "muffin parent nose media fold chef worry ritual poem identify duty cactus";

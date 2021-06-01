@@ -1,1 +1,1 @@
-var mnemonic = "appear pattern brief bar plastic old bridge creek express make cage defense";
+var mnemonic = "autumn trap garbage shine put program better castle razor leopard marine town";

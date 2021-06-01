@@ -1,1 +1,1 @@
-var mnemonic = "feature brain senior focus vapor magic list bitter dismiss picture busy gown";
+var mnemonic = "brother brush frame foster local soda clog multiply about relief produce denial";

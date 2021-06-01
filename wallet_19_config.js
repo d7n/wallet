@@ -1,1 +1,1 @@
-var mnemonic = "route nominee atom auction pool power eye artist raven middle six carry";
+var mnemonic = "analyst sphere correct stairs chair vacant boring feature unhappy actress marine input";

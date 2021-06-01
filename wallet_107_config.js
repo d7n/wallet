@@ -1,1 +1,1 @@
-var mnemonic = "silent seed erase curtain claw cotton still task announce easily credit copper";
+var mnemonic = "innocent wise maze jazz mansion switch motion health pelican bird script ability";

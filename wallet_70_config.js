@@ -1,1 +1,1 @@
-var mnemonic = "jazz devote coral rigid swallow spice diagram twelve void auction coil urge";
+var mnemonic = "what average spoon stock sunny crouch fortune front bird observe bunker buffalo";

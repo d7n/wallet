@@ -1,1 +1,1 @@
-var mnemonic = "uniform custom legal huge edge island print output random remove soul six";
+var mnemonic = "lawn donkey settle diary style forest scatter truck dragon tone shock size";

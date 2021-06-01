@@ -1,1 +1,1 @@
-var mnemonic = "country treat dream liar tower sausage youth beyond brick marble diet join";
+var mnemonic = "repeat put noise tired eagle slab reform return vivid error trick false";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze execute say address adapt warfare awful business seminar buffalo nice flash";
+var mnemonic = "dove escape language blood hunt correct coral visual attack struggle income walk";

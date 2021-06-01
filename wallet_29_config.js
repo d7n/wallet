@@ -1,1 +1,1 @@
-var mnemonic = "room cheese above visit bundle toddler leg audit slight delay word also";
+var mnemonic = "skin unveil once behind core promote bundle antenna multiply once deal lecture";

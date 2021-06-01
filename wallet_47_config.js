@@ -1,1 +1,1 @@
-var mnemonic = "ketchup ordinary resist scale crowd cover chief book force toilet curve motion";
+var mnemonic = "spray piece pull jewel doctor dream student amazing honey calm illness cigar";

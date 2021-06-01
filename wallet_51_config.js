@@ -1,1 +1,1 @@
-var mnemonic = "better brown dish crater install winner naive mango spread twice wait gallery";
+var mnemonic = "marble snap adapt observe garage alien damage park worth undo badge lake";

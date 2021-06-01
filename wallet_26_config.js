@@ -1,1 +1,1 @@
-var mnemonic = "stamp life execute canoe address draft always grace rice mirror describe cube";
+var mnemonic = "govern oblige stage curious mixture unlock start obvious drastic travel axis seed";

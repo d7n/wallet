@@ -1,1 +1,1 @@
-var mnemonic = "fitness enough smoke casino uphold toy blouse repeat convince whisper tornado air";
+var mnemonic = "hill ranch voice breeze ecology want divide hip best system tiger woman";

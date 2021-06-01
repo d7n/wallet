@@ -1,1 +1,1 @@
-var mnemonic = "brass army grab prize monkey select butter left doctor knife identify able";
+var mnemonic = "pioneer cream clog grunt foster work cement spin depart badge hood moral";

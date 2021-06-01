@@ -1,1 +1,1 @@
-var mnemonic = "fork field rent walnut run group tank pilot victory claim easily arrest";
+var mnemonic = "swear frost pelican kid marriage aisle egg much since ugly planet erosion";

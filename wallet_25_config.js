@@ -1,1 +1,1 @@
-var mnemonic = "style bring valve lyrics evidence bachelor insect romance dirt month judge become";
+var mnemonic = "crazy have curve noble teach ride patrol explain bronze aisle teach caught";

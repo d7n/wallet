@@ -1,1 +1,1 @@
-var mnemonic = "fantasy base joy ranch achieve deposit cushion network glance north border riot";
+var mnemonic = "identify enrich install laugh decorate mango false sadness gravity upon broken term";

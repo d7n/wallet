@@ -1,1 +1,1 @@
-var mnemonic = "problem glide cart gossip section east bid cruel finger kiss ginger legend";
+var mnemonic = "energy filter ecology effort rhythm increase okay into gold mule laundry enrich";

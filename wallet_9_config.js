@@ -1,1 +1,1 @@
-var mnemonic = "broccoli wage where trim obtain proof luxury spatial scale leave tonight turkey";
+var mnemonic = "lazy veteran salad birth stock situate chief fine bread wall maze entire";

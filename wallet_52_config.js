@@ -1,1 +1,1 @@
-var mnemonic = "menu soldier dog claw truck cup toward vague sure disagree season salt";
+var mnemonic = "agent duty learn fox ceiling laundry cluster heavy live play middle install";

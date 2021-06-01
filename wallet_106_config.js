@@ -1,1 +1,1 @@
-var mnemonic = "bulk analyst weapon attract vague equal require crouch license sure clinic glow";
+var mnemonic = "lobster market guilt churn appear hand broken quantum snack grab alcohol bird";

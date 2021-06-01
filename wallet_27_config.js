@@ -1,1 +1,1 @@
-var mnemonic = "alley please ski grain silver cat shine coffee dizzy midnight snap humor";
+var mnemonic = "caution choose stumble myth banner enforce goat physical goddess drift stem weapon";

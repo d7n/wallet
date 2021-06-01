@@ -1,1 +1,1 @@
-var mnemonic = "robot upper shield helmet cannon harsh letter girl lion panther floor lend";
+var mnemonic = "bird theme slow method melody door ranch mom relief success car kitten";

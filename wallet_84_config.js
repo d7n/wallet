@@ -1,1 +1,1 @@
-var mnemonic = "hip nominee they symbol gather beach update candy tackle observe bronze sun";
+var mnemonic = "upgrade wave pizza input rookie lunar girl dove drive noble kiwi diagram";

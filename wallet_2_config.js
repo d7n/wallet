@@ -1,1 +1,1 @@
-var mnemonic = "cupboard crop dune mass enforce winner syrup couch alien reveal object morning";
+var mnemonic = "put name enough year pepper wait sting magnet unknown border struggle truly";

@@ -1,1 +1,1 @@
-var mnemonic = "robot bridge disorder behind verify nation grid suggest nothing emerge flash chimney";
+var mnemonic = "payment fluid stamp sport velvet giraffe exhaust ugly scene consider neither trigger";

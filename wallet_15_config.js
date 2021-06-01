@@ -1,1 +1,1 @@
-var mnemonic = "purchase media suit bleak prefer vague horn sort erode program whale bone";
+var mnemonic = "coffee paddle report neck park state alpha pulp fault type soda way";

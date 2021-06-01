@@ -1,1 +1,1 @@
-var mnemonic = "you resource horn uncle sense mother wall carbon behave female vague march";
+var mnemonic = "boost salt amateur curtain input stone clarify pause destroy table renew latin";

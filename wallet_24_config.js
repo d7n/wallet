@@ -1,1 +1,1 @@
-var mnemonic = "weather sugar crew write order syrup dismiss frozen hammer parade suffer clever";
+var mnemonic = "suspect purchase modify unveil mango brain eternal social kitchen warm rabbit raw";

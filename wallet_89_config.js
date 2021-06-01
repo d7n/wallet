@@ -1,1 +1,1 @@
-var mnemonic = "pride jar pyramid day double bean critic arch bar hard dress weasel";
+var mnemonic = "carbon taste knee buyer sausage child anger gesture doll alley hub wheat";

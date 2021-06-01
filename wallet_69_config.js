@@ -1,1 +1,1 @@
-var mnemonic = "chef rural nuclear rude knife cruel kind wait robot tackle carpet nasty";
+var mnemonic = "slush aunt approve rain all juice unusual carbon height amateur sweet vintage";

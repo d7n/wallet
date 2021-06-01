@@ -1,1 +1,1 @@
-var mnemonic = "marine load cement warrior excite dog arrange connect utility sphere hunt cube";
+var mnemonic = "bread reject melody joke panther host bike brisk canal core knee venture";

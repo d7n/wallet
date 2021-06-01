@@ -1,1 +1,1 @@
-var mnemonic = "timber task pitch speed drip radar iron misery ask garage library tray";
+var mnemonic = "couple card hospital stick category steak pelican immense clever busy idea zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "notable feed harbor eight reduce stand raw subject mail clip dawn weather";
+var mnemonic = "device slight maximum keen below coyote hen salon thumb creek minimum kingdom";

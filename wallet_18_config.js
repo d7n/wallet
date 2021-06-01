@@ -1,1 +1,1 @@
-var mnemonic = "horn timber cactus fade buffalo nature crane era catch predict slice prepare";
+var mnemonic = "taste clarify glad sheriff insane license square clarify glide armor only version";

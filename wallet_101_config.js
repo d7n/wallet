@@ -1,1 +1,1 @@
-var mnemonic = "dynamic truck solve wide resemble luxury sport dad galaxy answer jacket absent";
+var mnemonic = "science random general unveil harbor act powder play decrease razor meadow car";
