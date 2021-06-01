@@ -1,1 +1,1 @@
-var mnemonic = "mad original finish myself twelve aspect impose basic volume raccoon then weird";
+var mnemonic = "library wheat answer scissors search salute cattle cherry perfect tell kite drive";

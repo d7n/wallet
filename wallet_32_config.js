@@ -1,1 +1,1 @@
-var mnemonic = "detect crouch spend naive clip original right boss guide easy banana atom";
+var mnemonic = "game soon truth that metal sad flee sell retreat curtain museum hawk";

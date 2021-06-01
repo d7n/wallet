@@ -1,1 +1,1 @@
-var mnemonic = "resource melt local umbrella person detect trophy pipe impact marble random search";
+var mnemonic = "young blame bind ten party kite believe scale payment mixed couch what";

@@ -1,1 +1,1 @@
-var mnemonic = "electric ripple column latin lawn adult diet honey unique business pill live";
+var mnemonic = "sustain poem width blood duck omit wagon better crazy claw bless hurry";

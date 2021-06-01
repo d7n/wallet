@@ -1,1 +1,1 @@
-var mnemonic = "nurse cost world slush sunset print tell original reward era fun pride";
+var mnemonic = "wife own family prevent pelican fruit keen join holiday interest acquire remove";

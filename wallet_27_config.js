@@ -1,1 +1,1 @@
-var mnemonic = "atom modify wink kiwi blanket mirror prefer target script summer boat opera";
+var mnemonic = "record siren small embody lock nuclear anchor horse brass armed book gas";

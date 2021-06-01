@@ -1,1 +1,1 @@
-var mnemonic = "answer radar tent ensure intact stairs neutral enforce thunder marriage current brother";
+var mnemonic = "exact option warm wheel hurt bridge flower rabbit depart cherry cabbage jealous";

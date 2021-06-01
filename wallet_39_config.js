@@ -1,1 +1,1 @@
-var mnemonic = "fiction north merit enhance define palm river lazy clump audit system tenant";
+var mnemonic = "price episode bomb mistake ladder neither motor detail speak toddler airport labor";

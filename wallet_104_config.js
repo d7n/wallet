@@ -1,1 +1,1 @@
-var mnemonic = "steel fat narrow chef inner tobacco cash tiny narrow crouch write jewel";
+var mnemonic = "mad sing culture engage hamster giggle crush spoon hedgehog fury broken boss";

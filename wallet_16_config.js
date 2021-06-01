@@ -1,1 +1,1 @@
-var mnemonic = "random fine blade lift elegant hole buddy state know tired silent ivory";
+var mnemonic = "pulse door pretty skirt grocery scatter fork phrase only glove gain patrol";

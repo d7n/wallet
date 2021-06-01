@@ -1,1 +1,1 @@
-var mnemonic = "infant hover mercy lava black dilemma rhythm answer true disagree lyrics find";
+var mnemonic = "render uniform rely they cruise session hat occur primary proud truck churn";

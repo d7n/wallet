@@ -1,1 +1,1 @@
-var mnemonic = "payment curious impact educate menu submit unusual pepper isolate cup vicious flat";
+var mnemonic = "basic decade muscle legal mistake exchange electric unlock farm crash cluster cash";

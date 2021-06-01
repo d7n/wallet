@@ -1,1 +1,1 @@
-var mnemonic = "jacket soup truck alter horn silly daring lounge pulse tool address bachelor";
+var mnemonic = "asthma private rack illness verify muscle exhaust blush hover secret crane cost";

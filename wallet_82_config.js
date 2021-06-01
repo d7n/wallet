@@ -1,1 +1,1 @@
-var mnemonic = "cereal tonight wedding alley observe grass rival romance cliff neck giggle seed";
+var mnemonic = "vicious proof walnut skate cash crowd subway lyrics gain pill accuse kid";

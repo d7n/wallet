@@ -1,1 +1,1 @@
-var mnemonic = "panel erupt math sadness mystery husband better art orchard caution mixed lamp";
+var mnemonic = "breeze want fatal blush film slam life fault anger ritual gravity strike";

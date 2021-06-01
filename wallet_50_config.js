@@ -1,1 +1,1 @@
-var mnemonic = "put witness surprise swing civil small play danger wet decide wheel bleak";
+var mnemonic = "tuition fruit boost robust together oval regular husband dismiss axis fan autumn";

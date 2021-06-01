@@ -1,1 +1,1 @@
-var mnemonic = "submit daring myth since satisfy release spoil crush super eyebrow shoulder define";
+var mnemonic = "similar pill flock math suffer cloud oyster struggle aim shrug endorse scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "night angry grunt neither supply wonder soccer imitate stay permit tell quick";
+var mnemonic = "oval pumpkin night quarter credit under people cave omit aim spin effort";

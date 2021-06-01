@@ -1,1 +1,1 @@
-var mnemonic = "midnight artefact viable donate swim veteran oblige key coffee team object fiction";
+var mnemonic = "chef shop enrich sustain vocal valid crack stomach submit gossip west build";

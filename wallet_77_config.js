@@ -1,1 +1,1 @@
-var mnemonic = "doll giraffe museum tone help average foam divide kid differ rhythm domain";
+var mnemonic = "cereal wool web embark baby since invest finger evil daughter upper umbrella";

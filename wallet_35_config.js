@@ -1,1 +1,1 @@
-var mnemonic = "source creek moon employ spatial town sight someone submit fringe poet pizza";
+var mnemonic = "hair mesh future shy dream corn install fresh timber steak damage describe";

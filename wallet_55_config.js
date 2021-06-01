@@ -1,1 +1,1 @@
-var mnemonic = "staff rally exist bubble put blind urge owner question solve quality provide";
+var mnemonic = "cloth naive raccoon glue dizzy sheriff drama city tongue black bid enrich";

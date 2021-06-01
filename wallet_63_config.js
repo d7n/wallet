@@ -1,1 +1,1 @@
-var mnemonic = "aspect gun frozen giggle resemble neglect moral oblige front note turkey chronic";
+var mnemonic = "insect shrug jungle wonder mesh hen police put tissue will grace moon";

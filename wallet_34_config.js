@@ -1,1 +1,1 @@
-var mnemonic = "quality true diesel crazy staff hidden hungry upgrade blood announce border tomato";
+var mnemonic = "tree lawsuit document parent strike equip noodle animal square jacket angry spell";

@@ -1,1 +1,1 @@
-var mnemonic = "upper need spring oak tourist switch when off remove garage alien settle";
+var mnemonic = "submit pink thumb thank mule clutch shove snake rifle cruise innocent jealous";

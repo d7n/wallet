@@ -1,1 +1,1 @@
-var mnemonic = "alien alarm spray equip remain record minor guard solution give tunnel toward";
+var mnemonic = "dial weapon virtual wild toilet slot habit mad transfer awkward outer rich";

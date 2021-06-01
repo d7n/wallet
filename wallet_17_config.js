@@ -1,1 +1,1 @@
-var mnemonic = "someone fine margin inmate exhaust brave crucial choose margin general net welcome";
+var mnemonic = "desk mechanic sample fade wreck wreck trap kangaroo eternal insane head museum";

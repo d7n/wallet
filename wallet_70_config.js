@@ -1,1 +1,1 @@
-var mnemonic = "where area inherit trade corn owner obvious dial coach hamster already mountain";
+var mnemonic = "inherit alpha hat reflect tent coach year gasp nothing sentence only desert";

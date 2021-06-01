@@ -1,1 +1,1 @@
-var mnemonic = "nominee eye copy dog isolate live strategy below awesome strike flag steel";
+var mnemonic = "crazy false light lucky sorry episode bus lecture nephew head impact pyramid";

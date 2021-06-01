@@ -1,1 +1,1 @@
-var mnemonic = "pattern segment mix latin follow glimpse high lunar evolve parrot school knock";
+var mnemonic = "decline merit chief style brother book main below once museum menu arm";

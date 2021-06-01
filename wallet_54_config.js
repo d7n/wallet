@@ -1,1 +1,1 @@
-var mnemonic = "dust wife dove grocery game inner gather outdoor light lend title jeans";
+var mnemonic = "aspect liar uniform bean height ill ugly sword lucky bullet isolate mother";

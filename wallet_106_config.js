@@ -1,1 +1,1 @@
-var mnemonic = "enhance prevent judge quick acoustic torch emotion certain wire ensure survey actor";
+var mnemonic = "gossip audit lonely wear soap suggest foot retreat shaft consider around verify";

@@ -1,1 +1,1 @@
-var mnemonic = "report jeans finger little wedding voice wheel nice soap improve curious wrestle";
+var mnemonic = "trade lend such sea diamond firm include weapon exhaust pumpkin next exercise";

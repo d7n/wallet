@@ -1,1 +1,1 @@
-var mnemonic = "lizard boil casino aim lazy nut shoot moon amused scrub cup enrich";
+var mnemonic = "bamboo enact transfer boss group vapor renew honey scrub antique message air";

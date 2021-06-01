@@ -1,1 +1,1 @@
-var mnemonic = "surface panda inhale idea night adapt current rose omit autumn dial boil";
+var mnemonic = "index struggle dignity under stairs foam marble buddy tip plastic used where";

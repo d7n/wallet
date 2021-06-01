@@ -1,1 +1,1 @@
-var mnemonic = "stable around hamster general baby bubble proud sell fan fiction worry swing";
+var mnemonic = "cement juice sell erase bamboo axis rigid echo blame property lucky parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "chef relief random tent album relax shrug chronic visa captain cross uncle";
+var mnemonic = "hand range edge maple wheat general oyster assume false weapon snack leader";

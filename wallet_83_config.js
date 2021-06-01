@@ -1,1 +1,1 @@
-var mnemonic = "inform bleak member select suggest verify advance bulk engine rack exotic scene";
+var mnemonic = "olympic surface flush globe dune subway joy spider must merge talk drive";

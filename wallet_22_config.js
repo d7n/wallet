@@ -1,1 +1,1 @@
-var mnemonic = "emerge spawn swear sunny identify question coast explain marine caution stage weasel";
+var mnemonic = "leisure remain shrug bid empower cheap word old bone waste punch mean";

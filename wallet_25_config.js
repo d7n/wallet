@@ -1,1 +1,1 @@
-var mnemonic = "ceiling coral tape exile frozen believe desk simple vehicle beach roast flock";
+var mnemonic = "supply digital float decorate alcohol pistol gas tail crawl seat sniff spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "step green raise enroll whisper tourist prize negative advance dance castle hole";
+var mnemonic = "lens enlist candy surprise apology lumber walk prevent casual olympic sister midnight";

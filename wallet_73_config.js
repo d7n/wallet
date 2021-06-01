@@ -1,1 +1,1 @@
-var mnemonic = "feel napkin advance remember scorpion bus trade rescue onion alcohol hat worry";
+var mnemonic = "popular sudden seminar must soccer stable season muffin remain wish common salt";

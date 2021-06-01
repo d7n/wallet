@@ -1,1 +1,1 @@
-var mnemonic = "near protect lamp pudding worth fuel prefer ski husband over slogan valid";
+var mnemonic = "habit border laundry curious thing salon avocado since give jewel fine vintage";

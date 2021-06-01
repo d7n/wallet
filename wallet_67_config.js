@@ -1,1 +1,1 @@
-var mnemonic = "potato extra expire egg wheat dash oven today famous road this upset";
+var mnemonic = "tourist corn replace poet nerve erase elegant pistol force entry ranch soon";

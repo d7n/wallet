@@ -1,1 +1,1 @@
-var mnemonic = "kid town clay width garden glare gate poverty pupil away sister doctor";
+var mnemonic = "what road display immense embark sudden sphere heavy chicken vital great upon";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn web step pause bridge bamboo lecture drama account flee field wink";
+var mnemonic = "repair gaze poem unlock sing prison dash bacon shop seven gift wage";

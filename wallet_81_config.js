@@ -1,1 +1,1 @@
-var mnemonic = "call saddle museum hollow bottom cute science believe adapt duty settle addict";
+var mnemonic = "mixed crew loan patch step seminar bleak large earn fiction pepper comfort";

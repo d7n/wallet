@@ -1,1 +1,1 @@
-var mnemonic = "brass amused fan scatter toward spy employ smooth captain shop narrow slow";
+var mnemonic = "tower country found october net leg disease envelope knock pass vessel load";

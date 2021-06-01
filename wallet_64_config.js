@@ -1,1 +1,1 @@
-var mnemonic = "edge glue lawn bus extend enlist turtle language race coil orchard catch";
+var mnemonic = "eagle gloom grit pencil panther machine genius adult nominee mango kite require";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon abandon silent fury artwork remind cup track opinion camera neck pond";
+var mnemonic = "gauge drill dismiss come wood pretty sad neck little impact sail arrow";

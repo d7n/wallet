@@ -1,1 +1,1 @@
-var mnemonic = "dad fossil bitter barely occur axis estate culture inform huge goat tumble";
+var mnemonic = "above shed extend ready mother begin crawl trash quick nut angry steel";

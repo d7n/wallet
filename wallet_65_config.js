@@ -1,1 +1,1 @@
-var mnemonic = "dragon neutral question regret file still vendor country flame cup gauge fire";
+var mnemonic = "similar soul agent solid enjoy dignity puppy family nose battle assault truth";

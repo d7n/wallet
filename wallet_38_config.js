@@ -1,1 +1,1 @@
-var mnemonic = "color trick chalk october panel gloom gift glove scare time split ill";
+var mnemonic = "busy level about isolate dust mistake guide ginger kangaroo churn surge shrug";

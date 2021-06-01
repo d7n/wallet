@@ -1,1 +1,1 @@
-var mnemonic = "tornado survey insect water vintage tomato speak hobby lens wagon meat actual";
+var mnemonic = "kit payment hockey end rookie exchange frame rich juice argue cloud own";

@@ -1,1 +1,1 @@
-var mnemonic = "valid stadium craft scout father crater source divorce topic puppy scheme craft";
+var mnemonic = "dash pink uphold cotton hobby bulk mention target pony bachelor woman copy";

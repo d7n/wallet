@@ -1,1 +1,1 @@
-var mnemonic = "lift box bone half pilot elegant burger open kite wave airport chapter";
+var mnemonic = "witness bird song emotion torch occur violin tuition town april enemy charge";

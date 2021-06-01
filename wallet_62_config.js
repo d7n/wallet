@@ -1,1 +1,1 @@
-var mnemonic = "digital recall bracket burst wedding patch guess grace rookie material wealth lonely";
+var mnemonic = "enroll practice never kitten dose soft laundry brother apology scale face furnace";

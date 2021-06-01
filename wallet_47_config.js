@@ -1,1 +1,1 @@
-var mnemonic = "ring proud quantum rabbit news puzzle sand park water sleep movie any";
+var mnemonic = "initial lens actual assault fence panda then tooth wall afford lunch badge";

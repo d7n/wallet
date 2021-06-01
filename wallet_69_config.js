@@ -1,1 +1,1 @@
-var mnemonic = "dose render push ship stove below junior wide need also bunker script";
+var mnemonic = "this best fury game disease boy alien regular elephant track kidney still";

@@ -1,1 +1,1 @@
-var mnemonic = "that pact heavy patrol acid whale cup twice garage fault blur raven";
+var mnemonic = "huge emotion supreme future strike sort crouch novel chase absorb tenant powder";

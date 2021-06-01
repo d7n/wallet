@@ -1,1 +1,1 @@
-var mnemonic = "raise legend embody beauty pen now clerk found scrap usual sauce live";
+var mnemonic = "vintage fade trade rebuild magic ivory throw garbage fiber corn bag screen";

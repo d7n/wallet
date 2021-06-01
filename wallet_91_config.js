@@ -1,1 +1,1 @@
-var mnemonic = "husband write surface embark grab peasant panel unfold victory profit belt sword";
+var mnemonic = "foot cricket disagree position apology ketchup exercise trust road twelve delay team";

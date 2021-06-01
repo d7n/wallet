@@ -1,1 +1,1 @@
-var mnemonic = "biology expire bounce ten mango empty resource dolphin desk evoke kitchen blush";
+var mnemonic = "help scheme sausage peanut gift borrow bitter toward deposit above elevator common";

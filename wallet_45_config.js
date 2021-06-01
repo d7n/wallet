@@ -1,1 +1,1 @@
-var mnemonic = "embark arrive endorse window dance wrestle joke boost any dial wrestle shell";
+var mnemonic = "either recall tide gossip wild injury kick manage robot margin box sister";

@@ -1,1 +1,1 @@
-var mnemonic = "raise blur defy label envelope teach panic basic stem guess creek shaft";
+var mnemonic = "diesel code ecology clever fee height achieve opinion vault chaos average engine";

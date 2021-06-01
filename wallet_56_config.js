@@ -1,1 +1,1 @@
-var mnemonic = "castle ride square time pulse lesson conduct detect pause maid smoke tortoise";
+var mnemonic = "prison risk camp envelope unique answer poet cheese able risk giggle wrap";

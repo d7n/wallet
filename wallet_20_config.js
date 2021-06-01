@@ -1,1 +1,1 @@
-var mnemonic = "creek stand night accident impulse donate fiction captain kind more butter neither";
+var mnemonic = "zero toss exhaust pond found car enact legend very moon busy gold";

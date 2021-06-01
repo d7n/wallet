@@ -1,1 +1,1 @@
-var mnemonic = "cry uncover mercy thank fantasy mixed bridge cool hip quit renew subway";
+var mnemonic = "desk little panel sweet cream genuine sport become exile grocery fever mandate";

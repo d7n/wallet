@@ -1,1 +1,1 @@
-var mnemonic = "custom chaos gas wall teach butter gown hood legal hazard venture run";
+var mnemonic = "define shadow winter stone oxygen oyster isolate injury mind rotate rough tape";

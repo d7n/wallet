@@ -1,1 +1,1 @@
-var mnemonic = "rapid mouse kangaroo dutch clump list subway occur pipe pottery unable breeze";
+var mnemonic = "test bounce parent pelican season tattoo patient health inside valve zone also";

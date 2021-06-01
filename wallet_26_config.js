@@ -1,1 +1,1 @@
-var mnemonic = "weather six blouse sketch ready squeeze bright forum satoshi spend pattern uncover";
+var mnemonic = "gaze satisfy loud mercy glare dirt enter arena glare nasty invite enrich";

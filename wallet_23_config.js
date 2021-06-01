@@ -1,1 +1,1 @@
-var mnemonic = "quantum mad police alien basket shoot border release coyote reunion alpha wrong";
+var mnemonic = "gorilla margin behave sign canyon oblige upper hamster frozen obtain bundle habit";

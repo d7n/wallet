@@ -1,1 +1,1 @@
-var mnemonic = "mention museum siren film bomb use bamboo repeat favorite retire peace warm";
+var mnemonic = "today supply review fringe enroll ten stem crater cliff heavy replace coach";

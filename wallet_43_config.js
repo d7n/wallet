@@ -1,1 +1,1 @@
-var mnemonic = "pencil word analyst goat olive exclude code milk sense fit kiwi spot";
+var mnemonic = "busy hamster various runway stone prosper onion alert spike above rice file";

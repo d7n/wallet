@@ -1,1 +1,1 @@
-var mnemonic = "imitate grid consider neck system device off same athlete grain perfect satoshi";
+var mnemonic = "enemy conduct dirt head extend expire donor coin wide ritual elegant cliff";

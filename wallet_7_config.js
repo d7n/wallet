@@ -1,1 +1,1 @@
-var mnemonic = "engage work dolphin initial charge tired sponsor plastic purchase century click rather";
+var mnemonic = "clump confirm essence uncle layer rural legal rookie segment swap proof shoot";

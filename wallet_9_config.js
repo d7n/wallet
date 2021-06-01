@@ -1,1 +1,1 @@
-var mnemonic = "session ostrich plug voice neck slide hospital keep execute hire roof industry";
+var mnemonic = "legal clap differ announce time ridge usage arm almost divorce adapt ridge";

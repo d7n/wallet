@@ -1,1 +1,1 @@
-var mnemonic = "plug lab athlete nominee violin utility wall ripple chase glove often party";
+var mnemonic = "sense split engine coin filter regular plunge mountain hamster patrol car wrestle";

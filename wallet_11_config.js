@@ -1,1 +1,1 @@
-var mnemonic = "hill cave subway omit divert degree return famous amused upgrade icon tobacco";
+var mnemonic = "mind trick never ugly claim village senior quality over kangaroo brisk library";

@@ -1,1 +1,1 @@
-var mnemonic = "reason sample fee idle science input churn wing rebel hero explain couch";
+var mnemonic = "magnet giraffe boost soccer sight radar extra arena version fragile also gold";

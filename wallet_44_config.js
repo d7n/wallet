@@ -1,1 +1,1 @@
-var mnemonic = "slot banana brain acquire skill bomb child elder west elevator cage jacket";
+var mnemonic = "deal gloom tired clap cake essence other warrior wild lazy uncle twice";

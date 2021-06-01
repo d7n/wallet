@@ -1,1 +1,1 @@
-var mnemonic = "ice armor indoor tool distance spy lottery sick regret fall salute menu";
+var mnemonic = "fluid flash follow frost mercy mean emerge save miracle rigid glory gauge";

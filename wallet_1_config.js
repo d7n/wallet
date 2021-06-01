@@ -1,1 +1,1 @@
-var mnemonic = "remain violin treat decrease damage mention ensure earn clay patient digital glory";
+var mnemonic = "estate kite fire birth leisure truck vote permit basic desert scare ten";

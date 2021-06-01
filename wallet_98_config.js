@@ -1,1 +1,1 @@
-var mnemonic = "filter move duty apart cigar fall umbrella mother fringe column again leopard";
+var mnemonic = "ribbon beyond open pepper output fatal craft kit sad crew goose close";

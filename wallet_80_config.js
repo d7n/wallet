@@ -1,1 +1,1 @@
-var mnemonic = "bless clock situate light gym whip zoo trumpet robot oven pill nation";
+var mnemonic = "write more snow night modify size popular glory sound owner add bomb";

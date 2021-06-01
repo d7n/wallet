@@ -1,1 +1,1 @@
-var mnemonic = "proud apart deny chronic champion lion duck symptom episode civil erupt surge";
+var mnemonic = "notable witness theory immense turn clip ecology access argue gorilla turtle inspire";
