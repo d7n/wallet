@@ -1,1 +1,1 @@
-var mnemonic = "garage swallow surface curtain cradle mystery draft climb spray veteran window hard";
+var mnemonic = "nut unfair siege body easily clip board tribe memory blossom alpha cruise";

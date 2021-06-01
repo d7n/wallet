@@ -1,1 +1,1 @@
-var mnemonic = "off space uncover kingdom hobby bacon attitude butter apology old spike faint";
+var mnemonic = "table casino crime property govern sister nurse outdoor blouse exact either direct";

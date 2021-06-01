@@ -1,1 +1,1 @@
-var mnemonic = "tilt dance asset page monitor print clean drop evolve caught nose monkey";
+var mnemonic = "boil add document dinner muscle simple main imitate catalog erosion turtle crater";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble reunion warm party earn fall tag involve hurdle quiz rifle normal";
+var mnemonic = "slot imitate attack flock hawk cash neglect inquiry youth ankle economy burst";

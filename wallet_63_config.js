@@ -1,1 +1,1 @@
-var mnemonic = "buyer deer depend possible crucial crawl bright similar stadium curtain shop price";
+var mnemonic = "ability company badge reward crop urge cliff manual neglect camp typical business";

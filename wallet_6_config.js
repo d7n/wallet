@@ -1,1 +1,1 @@
-var mnemonic = "nerve badge outdoor desk lamp beach grief rubber festival pupil soap neither";
+var mnemonic = "example monitor seed fruit absurd jealous similar cigar convince then screen armed";

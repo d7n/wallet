@@ -1,1 +1,1 @@
-var mnemonic = "buddy peace then attend piece enlist focus movie inhale approve can hat";
+var mnemonic = "gather review access then orchard once fog pledge panther action nest jazz";

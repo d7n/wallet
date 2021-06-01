@@ -1,1 +1,1 @@
-var mnemonic = "unhappy party empower rocket federal chair hen farm citizen reject square soul";
+var mnemonic = "maze canyon draft crisp pull father brief execute action ask ahead because";

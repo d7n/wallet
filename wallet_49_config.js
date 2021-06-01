@@ -1,1 +1,1 @@
-var mnemonic = "grit volcano eternal damp cage slender upper scene daughter addict emotion seven";
+var mnemonic = "fringe kite conduct success judge velvet update brand wild poet table donate";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal vast stool winter taxi nest story digital sniff wave home process";
+var mnemonic = "spy either lion become over basic wall knife cram accident hip weekend";

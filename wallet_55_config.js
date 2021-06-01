@@ -1,1 +1,1 @@
-var mnemonic = "ramp garage skill symbol bundle door boy actual brave abuse indoor zero";
+var mnemonic = "act movie taste lonely enrich rude bread syrup lunar oyster above face";

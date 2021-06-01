@@ -1,1 +1,1 @@
-var mnemonic = "bounce repeat cancel fold tilt lamp play train hub tornado best educate";
+var mnemonic = "expose note great deal vacuum human silly spot hungry chef bind force";

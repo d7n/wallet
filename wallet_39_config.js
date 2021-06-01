@@ -1,1 +1,1 @@
-var mnemonic = "flash dragon please shrimp order mule age common student virtual banner idea";
+var mnemonic = "type anchor swap response title leave maximum liberty jewel aerobic basket light";

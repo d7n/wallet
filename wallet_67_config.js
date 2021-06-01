@@ -1,1 +1,1 @@
-var mnemonic = "peasant initial rival mix pigeon music ladder kingdom combine mouse despair curve";
+var mnemonic = "churn toward front grant armed doctor panda stick zoo choose reject stage";

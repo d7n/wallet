@@ -1,1 +1,1 @@
-var mnemonic = "escape injury key equal horror green awake welcome foot math lunar rebuild";
+var mnemonic = "claw fury noodle noodle economy dwarf fine crime omit junk wing artwork";

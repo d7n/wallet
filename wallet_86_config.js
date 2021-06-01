@@ -1,1 +1,1 @@
-var mnemonic = "grass reopen proud medal immense first half cloud attitude runway negative helmet";
+var mnemonic = "kiss number blouse one reduce priority purity globe best diagram suffer fox";

@@ -1,1 +1,1 @@
-var mnemonic = "include attack lawsuit unable head dizzy museum dial trouble decrease domain business";
+var mnemonic = "embark stick man much salute assist sweet fold egg loud junior goat";

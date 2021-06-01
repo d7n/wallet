@@ -1,1 +1,1 @@
-var mnemonic = "wise swamp thought require ready rookie popular world luxury athlete jewel trap";
+var mnemonic = "version example zoo clump around crew van gather super cream end heavy";

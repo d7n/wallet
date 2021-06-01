@@ -1,1 +1,1 @@
-var mnemonic = "patrol struggle song alarm rich wagon camera march blossom series bulk used";
+var mnemonic = "victory inject wine injury mountain during roast degree ability awake nurse clump";

@@ -1,1 +1,1 @@
-var mnemonic = "finish alpha weather ramp civil wine example symbol now trigger reopen good";
+var mnemonic = "gloom wisdom design tail merge shallow quick payment maze rail gesture dress";

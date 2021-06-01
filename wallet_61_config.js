@@ -1,1 +1,1 @@
-var mnemonic = "december wrap idle refuse pact wait laptop peace boss sting now toss";
+var mnemonic = "degree firm vault brave book hurdle scorpion shed clutch act scan salad";

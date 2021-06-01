@@ -1,1 +1,1 @@
-var mnemonic = "rely slice catalog again lazy super fly invest asthma correct trust fiber";
+var mnemonic = "govern live gallery glide fashion track hungry accident consider gorilla document visual";

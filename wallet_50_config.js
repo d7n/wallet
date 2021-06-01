@@ -1,1 +1,1 @@
-var mnemonic = "cash message derive length opera open robot buzz culture top promote future";
+var mnemonic = "confirm time huge crush west brick moral time token defense water obscure";

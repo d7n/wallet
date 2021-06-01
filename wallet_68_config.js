@@ -1,1 +1,1 @@
-var mnemonic = "sustain script floor blush now potato member say salute analyst goose daring";
+var mnemonic = "fancy scatter ethics skirt transfer black cannon satoshi purpose shaft border whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby perfect vehicle fancy balance hazard cancel rent potato omit sell estate";
+var mnemonic = "fresh apology screen fox then artwork sign swap promote able miss mansion";

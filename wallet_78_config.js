@@ -1,1 +1,1 @@
-var mnemonic = "iron snap chat repeat frog critic blast frog depend patient amount element";
+var mnemonic = "video library crouch abuse damage fresh write argue nurse mind record payment";

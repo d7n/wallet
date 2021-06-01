@@ -1,1 +1,1 @@
-var mnemonic = "accuse soup pulp iron caught pave process monkey diesel nest slow divorce";
+var mnemonic = "repair brick audit lunar exhibit square discover hole mean junior inmate inflict";

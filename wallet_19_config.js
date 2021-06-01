@@ -1,1 +1,1 @@
-var mnemonic = "else whip chuckle inquiry voyage vicious dial weekend poem essence material drop";
+var mnemonic = "century silver peace army try soup drama venture soup company copy second";

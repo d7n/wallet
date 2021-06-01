@@ -1,1 +1,1 @@
-var mnemonic = "frown idea eagle earth unfair trap boost weapon suffer oxygen kangaroo funny";
+var mnemonic = "reduce tray error gather text shrimp average kit switch priority decrease banner";

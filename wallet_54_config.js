@@ -1,1 +1,1 @@
-var mnemonic = "truth able area rate ribbon dove mercy key jar awkward lyrics seed";
+var mnemonic = "enough cup fork cinnamon south cradle civil junior slight soccer aunt buddy";

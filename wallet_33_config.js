@@ -1,1 +1,1 @@
-var mnemonic = "reward make ship gloom sick cliff stairs vintage square slot option climb";
+var mnemonic = "prevent online distance evil coral artefact silk despair audit plug assault panda";

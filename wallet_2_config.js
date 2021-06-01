@@ -1,1 +1,1 @@
-var mnemonic = "fancy sauce walnut town oppose industry payment measure fancy detect earn surround";
+var mnemonic = "click copper discover prevent tool birth pole tonight oblige curtain help valley";

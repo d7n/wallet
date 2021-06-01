@@ -1,1 +1,1 @@
-var mnemonic = "express struggle embody destroy very brush harbor sell unknown romance unlock lawn";
+var mnemonic = "lecture void flock raw jewel differ illegal direct pudding bachelor zoo budget";

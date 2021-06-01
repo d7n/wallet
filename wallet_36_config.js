@@ -1,1 +1,1 @@
-var mnemonic = "embrace scorpion festival act view hotel bench depend enact fan buddy voyage";
+var mnemonic = "nominee clip little shoot cannon trap van dream online gun record garage";

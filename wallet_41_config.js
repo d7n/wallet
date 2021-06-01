@@ -1,1 +1,1 @@
-var mnemonic = "you soap deputy job fork rabbit model shrimp possible almost rookie wage";
+var mnemonic = "ski capital destroy typical salad depend among drip hub walk health buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt cup either party tobacco loud hint achieve manage electric stereo bacon";
+var mnemonic = "waste put coffee chapter stairs become area enough beauty gym minor response";

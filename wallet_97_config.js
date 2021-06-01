@@ -1,1 +1,1 @@
-var mnemonic = "term crime salt rhythm total judge gas sport clinic drink honey crush";
+var mnemonic = "swallow blush paddle sleep vital oyster swim steak planet ask organ echo";

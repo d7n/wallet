@@ -1,1 +1,1 @@
-var mnemonic = "boring share series multiply blush flag direct run cable soldier emerge keen";
+var mnemonic = "job stock shine hood brown stem cigar silver fringe scorpion sibling draw";

@@ -1,1 +1,1 @@
-var mnemonic = "develop pluck tongue airport dial medal such wage field memory famous immense";
+var mnemonic = "gate enough point salute head miss tiger domain glass govern volcano display";

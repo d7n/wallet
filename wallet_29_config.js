@@ -1,1 +1,1 @@
-var mnemonic = "cube used reopen corn humor captain assault clutch before asthma rigid tooth";
+var mnemonic = "pudding deal length enlist few pizza mushroom execute wild bag can daughter";

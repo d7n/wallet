@@ -1,1 +1,1 @@
-var mnemonic = "poem taste flee lamp zero thunder misery genre glove cactus merit nose";
+var mnemonic = "stuff injury tomato broccoli little sustain edge pelican chaos noise kite flower";

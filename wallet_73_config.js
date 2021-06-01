@@ -1,1 +1,1 @@
-var mnemonic = "cluster nose purpose gun hundred sister catalog submit glad poem indicate cage";
+var mnemonic = "visit enact viable alone clip flip rescue suit smoke trumpet stamp capable";

@@ -1,1 +1,1 @@
-var mnemonic = "judge account produce original ribbon labor cheap nation hunt body barrel exhibit";
+var mnemonic = "pink must position aerobic supreme extra confirm rigid critic feature govern satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "sort regular mammal nation mutual outdoor skate rich exact dress rapid castle";
+var mnemonic = "rebuild quote bag mother dice dwarf cram hockey exchange conduct matrix wonder";

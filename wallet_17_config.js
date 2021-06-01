@@ -1,1 +1,1 @@
-var mnemonic = "addict race fiber chef keen cinnamon wild luggage once harsh lemon student";
+var mnemonic = "black era expire universe retire bus copy gentle easy near vehicle practice";

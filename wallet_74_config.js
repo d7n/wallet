@@ -1,1 +1,1 @@
-var mnemonic = "attend foster edit maid render dutch fence endorse wing rough unknown alien";
+var mnemonic = "hotel stuff lawsuit cream patrol design coconut travel royal noise priority miss";

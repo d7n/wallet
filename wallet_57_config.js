@@ -1,1 +1,1 @@
-var mnemonic = "wood eagle bench step begin monster critic curtain rose theme toward creek";
+var mnemonic = "work tray brick leisure length orchard advance teach amount royal attack piece";

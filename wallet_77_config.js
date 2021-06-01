@@ -1,1 +1,1 @@
-var mnemonic = "document appear dirt wheel frown cash enlist river maze hill ripple swing";
+var mnemonic = "disease silk faculty tube fatigue damage biology orbit social mesh west stable";

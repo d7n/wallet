@@ -1,1 +1,1 @@
-var mnemonic = "update lake nominee urban silver puppy cram guide lift uniform company parrot";
+var mnemonic = "wise harsh beyond web primary sugar person dash lounge when immune fly";

@@ -1,1 +1,1 @@
-var mnemonic = "save cushion add luggage cement tuition album source gold tourist fashion proof";
+var mnemonic = "month exit chat garlic leader organ carbon snake resist timber horse ketchup";

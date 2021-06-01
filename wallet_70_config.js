@@ -1,1 +1,1 @@
-var mnemonic = "junk north kind moment spy sunset enable faith tribe equip huge scorpion";
+var mnemonic = "away silk decline pattern find fitness shell smoke license meadow connect develop";

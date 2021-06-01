@@ -1,1 +1,1 @@
-var mnemonic = "wolf hurdle piece connect setup brass ivory wedding much coach voyage toilet";
+var mnemonic = "earth mind shadow subway document limit drama bubble bundle fine code crew";

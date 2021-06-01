@@ -1,1 +1,1 @@
-var mnemonic = "citizen rent upset proud student liquid pill book hammer chief pony power";
+var mnemonic = "vault ball goat zebra around blur funny wrong fish head hint mask";

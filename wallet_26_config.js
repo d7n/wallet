@@ -1,1 +1,1 @@
-var mnemonic = "enroll remain axis rapid regular feel horse front boil soon sail upon";
+var mnemonic = "parent member tumble float carpet february cabin danger wheat expand top topic";

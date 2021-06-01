@@ -1,1 +1,1 @@
-var mnemonic = "bunker fortune decorate talk spare broccoli egg wheat raise six pond salon";
+var mnemonic = "aunt during equal inmate slush almost long express squeeze salute response vocal";

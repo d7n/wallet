@@ -1,1 +1,1 @@
-var mnemonic = "math item seven crystal claim spread bulb blur unknown rent maximum fortune";
+var mnemonic = "rice casual dust permit together volume slight bike action grow cost alien";

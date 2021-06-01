@@ -1,1 +1,1 @@
-var mnemonic = "theory rotate effort move animal armed jewel estate swallow delay sausage chalk";
+var mnemonic = "abstract mix hover setup blue dizzy sauce siege strong tragic follow spoil";

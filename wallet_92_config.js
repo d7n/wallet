@@ -1,1 +1,1 @@
-var mnemonic = "three train ketchup minor morning category upper muffin climb viable candy armed";
+var mnemonic = "decade divide seven gain vessel rookie movie display ocean shiver paddle cancel";

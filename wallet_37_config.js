@@ -1,1 +1,1 @@
-var mnemonic = "goddess parent mind margin disagree just angle invest steel clinic enhance velvet";
+var mnemonic = "orbit below chef come want meadow wool movie lunar old click aerobic";

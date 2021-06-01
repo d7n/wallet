@@ -1,1 +1,1 @@
-var mnemonic = "avoid solid blame bitter hobby ice menu conduct hidden shaft behind clown";
+var mnemonic = "sun poverty auction earn easily frequent absent virtual intact build word job";

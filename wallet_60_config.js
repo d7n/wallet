@@ -1,1 +1,1 @@
-var mnemonic = "until idle swim kangaroo mountain shallow until glide often crush collect deny";
+var mnemonic = "obey ship menu present arch usual already bomb move intact pumpkin diet";

@@ -1,1 +1,1 @@
-var mnemonic = "auto praise other valve innocent rocket risk absent ghost grief tribe aunt";
+var mnemonic = "lamp shoulder unit ankle room wedding arrow forward art urban gold situate";

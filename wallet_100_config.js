@@ -1,1 +1,1 @@
-var mnemonic = "film flip okay wisdom since retire stem vault term nerve random glance";
+var mnemonic = "fun report kitchen strategy cave way february pill owner bullet because solve";

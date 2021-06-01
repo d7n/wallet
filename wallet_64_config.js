@@ -1,1 +1,1 @@
-var mnemonic = "unfair noise calm zebra bottom surface car suggest toddler drop daring emerge";
+var mnemonic = "dish flame drum attitude gap senior nation under inject arm pattern teach";

@@ -1,1 +1,1 @@
-var mnemonic = "sort original farm round emerge bonus swap energy tiny attitude detect evoke";
+var mnemonic = "describe index guitar amateur increase saddle embrace arctic area crack bicycle favorite";

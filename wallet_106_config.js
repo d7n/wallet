@@ -1,1 +1,1 @@
-var mnemonic = "caution erosion bird load practice soap cushion canoe firm common wool year";
+var mnemonic = "multiply monitor clog garment sunset spoil faint hurry size torch mosquito glow";

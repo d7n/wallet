@@ -1,1 +1,1 @@
-var mnemonic = "upon review fog filter devote merit process cereal unfold offer crack priority";
+var mnemonic = "marriage twice party confirm state swift echo depend tribe capable issue insane";

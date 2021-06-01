@@ -1,1 +1,1 @@
-var mnemonic = "bread say prefer elite couch drift purity slim cool busy decline lecture";
+var mnemonic = "enough decide truck random ring original skull wisdom morning flight oyster endorse";

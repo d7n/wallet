@@ -1,1 +1,1 @@
-var mnemonic = "humble odor taxi dove base choice bean cupboard margin firm mandate sister";
+var mnemonic = "toast connect fancy estate super public lounge round lady this snap basic";

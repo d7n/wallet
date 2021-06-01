@@ -1,1 +1,1 @@
-var mnemonic = "guard theory yellow method obvious eager lonely lock parent glad rate draft";
+var mnemonic = "cost stamp bind strike grunt grunt slot mean focus sell harsh daring";

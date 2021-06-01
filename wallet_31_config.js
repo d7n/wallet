@@ -1,1 +1,1 @@
-var mnemonic = "huge alert test other sound awesome jealous code glide bike exist fiction";
+var mnemonic = "burger call soon mixture fame gas whale wild correct add cat rhythm";

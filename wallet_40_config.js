@@ -1,1 +1,1 @@
-var mnemonic = "exercise govern wool price paper six cousin rookie scrap thrive spatial electric";
+var mnemonic = "middle vessel topple globe lava dutch bomb silly crazy title primary hurdle";

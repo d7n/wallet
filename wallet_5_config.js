@@ -1,1 +1,1 @@
-var mnemonic = "ceiling black advice sniff online omit matter gauge ring alone potato shoulder";
+var mnemonic = "movie coyote frozen fatigue bounce neither pilot animal want yellow math core";

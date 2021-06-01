@@ -1,1 +1,1 @@
-var mnemonic = "spy practice police bus style absorb kitten skin film begin old daughter";
+var mnemonic = "distance finger piano jaguar correct wife payment base whip sock black chimney";

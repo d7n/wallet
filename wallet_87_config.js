@@ -1,1 +1,1 @@
-var mnemonic = "perfect miracle pilot hover face spider swing such oak kitchen wet live";
+var mnemonic = "valid act slush wash crack multiply despair urban tray depart left gap";

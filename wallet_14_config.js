@@ -1,1 +1,1 @@
-var mnemonic = "merry able upper amount lonely leaf measure frog riot inspire puppy theory";
+var mnemonic = "climb soup modify phone hope amount fire ribbon enroll run dilemma always";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker blur grape prison frog barrel industry latin dutch reunion myth know";
+var mnemonic = "recycle quote spin raven embody trust wine please smoke wedding web scatter";

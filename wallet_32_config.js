@@ -1,1 +1,1 @@
-var mnemonic = "taste include between chest above siege liquid coin book rebuild brain maze";
+var mnemonic = "farm actual wood vacant rose board winter modify way alarm lucky erode";

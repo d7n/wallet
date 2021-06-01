@@ -1,1 +1,1 @@
-var mnemonic = "private surface vintage rhythm topic news often follow upset swap shine lava";
+var mnemonic = "security regular rude prize olympic express gown property destroy nuclear chicken say";

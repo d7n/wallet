@@ -1,1 +1,1 @@
-var mnemonic = "accident shoe near dizzy achieve brown mandate sadness time distance arrest bind";
+var mnemonic = "alley lawn wild renew tail barely guilt someone claw alert lesson luggage";

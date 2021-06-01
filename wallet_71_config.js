@@ -1,1 +1,1 @@
-var mnemonic = "hip sock custom swear idle august analyst wild donate aunt fold enter";
+var mnemonic = "gossip digital vessel december delay build seminar kite quick record donate shed";

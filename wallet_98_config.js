@@ -1,1 +1,1 @@
-var mnemonic = "burden mechanic abuse noodle early good leisure curtain smile spice quick disagree";
+var mnemonic = "blanket treat want moral board sugar view cricket tongue uphold truly sign";

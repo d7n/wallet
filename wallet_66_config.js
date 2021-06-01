@@ -1,1 +1,1 @@
-var mnemonic = "ugly notice team zoo about explain dilemma engage height practice rapid hotel";
+var mnemonic = "connect puzzle muffin price clever december bulb cause couch estate salt whip";

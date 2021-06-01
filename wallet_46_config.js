@@ -1,1 +1,1 @@
-var mnemonic = "urban era unusual abandon gallery security before insane task decline birth skin";
+var mnemonic = "bread marriage next average dad horn hold illness renew harbor wash idea";

@@ -1,1 +1,1 @@
-var mnemonic = "clever sunset invest vocal ugly perfect series unveil fire tooth phrase boy";
+var mnemonic = "false solid either casino receive toward lock second vintage organ smile system";

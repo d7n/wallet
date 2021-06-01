@@ -1,1 +1,1 @@
-var mnemonic = "trade trap shield spend keen congress absent stable globe fire tunnel awkward";
+var mnemonic = "next travel fiscal render immune anchor engine tattoo siren mixture jacket kangaroo";

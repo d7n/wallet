@@ -1,1 +1,1 @@
-var mnemonic = "curve weekend beauty salute yard where recall insane belt creek ring ribbon";
+var mnemonic = "tone sure series repair polar bulk fruit awful brown morning lazy yard";

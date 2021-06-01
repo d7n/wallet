@@ -1,1 +1,1 @@
-var mnemonic = "wonder fruit shield afford midnight speed answer because glow canoe space reason";
+var mnemonic = "find surround then gallery usual lumber spread win accuse popular music soldier";

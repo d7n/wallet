@@ -1,1 +1,1 @@
-var mnemonic = "script return struggle crane pigeon zero media illness awake topple couch junior";
+var mnemonic = "safe index nerve start oblige desk push economy verify render video mail";
