@@ -1,1 +1,1 @@
-var mnemonic = "ripple obscure bomb punch empower youth old soft celery warfare better call";
+var mnemonic = "copper bar review fossil spider tackle duty rough script scale fame beauty";

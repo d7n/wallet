@@ -1,1 +1,1 @@
-var mnemonic = "endorse water strong mansion dumb okay useless ocean install project mercy chair";
+var mnemonic = "acquire prepare inquiry random involve soul shell mansion tissue acoustic sister horror";

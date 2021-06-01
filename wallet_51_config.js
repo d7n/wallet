@@ -1,1 +1,1 @@
-var mnemonic = "oppose soon actual dad lounge note vivid guess garage broccoli caution question";
+var mnemonic = "satoshi repeat bar pluck tunnel travel creek casino prevent awesome auction sun";

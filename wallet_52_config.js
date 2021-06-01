@@ -1,1 +1,1 @@
-var mnemonic = "anxiety myth copy lawsuit urge tool sauce party major already float coffee";
+var mnemonic = "scare captain muffin minimum nuclear hover roast kick pony record hurry rain";

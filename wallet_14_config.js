@@ -1,1 +1,1 @@
-var mnemonic = "gather beyond female have text tide ghost tell winner actress brief sleep";
+var mnemonic = "edit elevator begin penalty pill uncover expand narrow public knee alpha flip";

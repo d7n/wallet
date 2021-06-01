@@ -1,1 +1,1 @@
-var mnemonic = "cliff leaf hat resist among divorce coffee grain replace scare pass range";
+var mnemonic = "armed foster frozen cart youth enough blade great survey manage genuine disease";

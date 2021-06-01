@@ -1,1 +1,1 @@
-var mnemonic = "mobile zero genius dawn joy cattle fragile slender message leg creek salad";
+var mnemonic = "cram hint skirt plate churn above absurd eyebrow bachelor club pigeon stove";

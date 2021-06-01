@@ -1,1 +1,1 @@
-var mnemonic = "since stumble hamster match filter gold walk injury crouch reject gold pencil";
+var mnemonic = "pizza wasp stay soul junk hammer ordinary jelly enhance speak gown slam";

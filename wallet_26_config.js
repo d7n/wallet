@@ -1,1 +1,1 @@
-var mnemonic = "fade dignity occur during what govern shift raw parade night spider joy";
+var mnemonic = "shrimp try height above clog undo source usual repeat sphere large head";

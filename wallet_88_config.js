@@ -1,1 +1,1 @@
-var mnemonic = "match camp mobile success stomach floor title entry hub unaware isolate inner";
+var mnemonic = "fortune pave rigid note shop town fire grain speed mushroom powder few";

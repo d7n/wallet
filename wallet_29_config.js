@@ -1,1 +1,1 @@
-var mnemonic = "crew nominee wrong link extend crane today wire tag federal garden knock";
+var mnemonic = "useful differ exotic hurdle lucky win grief feed pioneer jungle drink evoke";

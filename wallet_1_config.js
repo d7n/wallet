@@ -1,1 +1,1 @@
-var mnemonic = "coin ocean bulb arrow cinnamon siege moon false enough income oven ready";
+var mnemonic = "siren bundle tomato talent elder text suffer fitness mystery next system garage";

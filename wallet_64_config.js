@@ -1,1 +1,1 @@
-var mnemonic = "nut glide phrase whisper twist spin amazing tourist fragile enact car cancel";
+var mnemonic = "cause velvet jacket matter country please budget mammal echo casual carry mass";

@@ -1,1 +1,1 @@
-var mnemonic = "apart cricket scheme turn trust lemon swim evil hip length minimum ribbon";
+var mnemonic = "earth anger hire toast dress patch layer volume comfort fiction banana clutch";

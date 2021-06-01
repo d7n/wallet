@@ -1,1 +1,1 @@
-var mnemonic = "pilot north spatial onion delay aerobic split minute problem comfort people heart";
+var mnemonic = "front unfold scrap fatigue print claim tennis fiber okay display similar merit";

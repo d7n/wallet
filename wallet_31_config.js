@@ -1,1 +1,1 @@
-var mnemonic = "power pair blast debate ribbon town wink cost regular meat love ancient";
+var mnemonic = "cargo sign fever shock method sun omit luggage derive will onion review";

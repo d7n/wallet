@@ -1,1 +1,1 @@
-var mnemonic = "inflict despair meat leave hood gold like cable hero damage sorry path";
+var mnemonic = "predict bounce cat change harsh lunch birth trial frost grocery attitude casual";

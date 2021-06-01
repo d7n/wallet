@@ -1,1 +1,1 @@
-var mnemonic = "unit connect bone fly rescue gravity pudding purpose forum logic shed sustain";
+var mnemonic = "another stand luggage eyebrow burger eight kid velvet math struggle room marriage";

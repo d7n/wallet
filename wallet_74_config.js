@@ -1,1 +1,1 @@
-var mnemonic = "title swear fall awake dwarf delay humor galaxy plastic carbon legal nasty";
+var mnemonic = "sister friend entire render gentle left mirror clock level mom maze tree";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis crack cattle major since civil sponsor impact syrup easy match claw";
+var mnemonic = "crack bless grape original frozen script whale fun announce paddle sentence silver";

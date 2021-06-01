@@ -1,1 +1,1 @@
-var mnemonic = "never until seminar scatter cotton curious bitter decade nuclear pause large scrub";
+var mnemonic = "describe march saddle cherry face approve coin cash diesel lake buzz menu";

@@ -1,1 +1,1 @@
-var mnemonic = "auto road carpet believe tumble staff slender girl pencil any father solve";
+var mnemonic = "elite social dutch toast stomach pull basic soul draft mouse range diet";

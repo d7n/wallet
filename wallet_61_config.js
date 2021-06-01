@@ -1,1 +1,1 @@
-var mnemonic = "face sock carbon powder resist pumpkin waste immune frequent venue radio near";
+var mnemonic = "dance dry mango abstract frost divide obtain tent mesh stereo twenty beach";

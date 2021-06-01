@@ -1,1 +1,1 @@
-var mnemonic = "lens number faith dress amount antique tenant hurdle ancient couple knee fatigue";
+var mnemonic = "battle spend cactus image dolphin delay deer february trouble envelope blast evil";

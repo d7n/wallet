@@ -1,1 +1,1 @@
-var mnemonic = "track galaxy bracket rapid ivory alpha kit iron beach pair digital mammal";
+var mnemonic = "patch faith captain quit mechanic glue arm flee swim system sell check";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt fan three defense top nerve put simple outdoor stadium tattoo patch";
+var mnemonic = "credit donate umbrella light apology punch lonely bicycle cream jealous universe city";

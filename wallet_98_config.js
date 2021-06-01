@@ -1,1 +1,1 @@
-var mnemonic = "inflict kidney later harvest slush mom fence yard nuclear wise question merit";
+var mnemonic = "effort boring issue okay safe wreck distance kitten horse hen slot lake";

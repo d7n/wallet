@@ -1,1 +1,1 @@
-var mnemonic = "feed survey vital mushroom sibling velvet innocent summer grant welcome avoid symptom";
+var mnemonic = "announce yellow gentle vessel mountain uncle portion empty initial urban obscure harsh";

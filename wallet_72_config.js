@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit reflect beauty often meat clap play venture local stairs grass marble";
+var mnemonic = "account sign talent bench gift tackle matter bronze artist author comic tape";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend verify easy reduce drift ridge such injury tissue pause tribe column";
+var mnemonic = "gold girl marble inch only uncle ritual correct renew bridge horn misery";

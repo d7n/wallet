@@ -1,1 +1,1 @@
-var mnemonic = "life govern imitate need private yellow math fame glimpse cancel coach chronic";
+var mnemonic = "gift devote large mansion any circle conduct acquire friend grant odor gasp";

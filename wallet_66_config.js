@@ -1,1 +1,1 @@
-var mnemonic = "general print keen odor later clerk pluck design despair useful cloth churn";
+var mnemonic = "shaft giggle reason check receive enforce erosion slow lazy pair winter truth";

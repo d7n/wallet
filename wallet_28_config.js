@@ -1,1 +1,1 @@
-var mnemonic = "mind naive burden debris similar wheel resource pumpkin rhythm invite divert sort";
+var mnemonic = "mushroom heavy shuffle maze cotton trend bracket innocent random amateur ancient easy";

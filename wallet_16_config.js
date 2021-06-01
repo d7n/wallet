@@ -1,1 +1,1 @@
-var mnemonic = "dash bamboo reunion mule jazz energy under pink demand delay napkin timber";
+var mnemonic = "select ribbon supply mansion pattern trash crouch virtual icon that put fiber";

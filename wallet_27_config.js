@@ -1,1 +1,1 @@
-var mnemonic = "under identify humor road denial awake lumber make enter saddle jealous hole";
+var mnemonic = "fall excess opera exchange dawn chest put region exclude left impulse dolphin";

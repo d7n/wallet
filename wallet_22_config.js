@@ -1,1 +1,1 @@
-var mnemonic = "peace aim search code proud rice promote citizen inform gown caught hover";
+var mnemonic = "bless assault seven cactus beef swallow reason camp bronze salad milk magnet";

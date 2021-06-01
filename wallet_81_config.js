@@ -1,1 +1,1 @@
-var mnemonic = "circle predict year august gun word polar casual concert dial evolve today";
+var mnemonic = "suspect stereo hundred rookie coyote popular throw shallow decade fire joy pause";

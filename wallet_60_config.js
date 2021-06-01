@@ -1,1 +1,1 @@
-var mnemonic = "cruel input inch side grid goddess filter afraid pony render change myself";
+var mnemonic = "forget blanket dilemma clarify run combine wasp work tuna step isolate prevent";

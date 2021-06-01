@@ -1,1 +1,1 @@
-var mnemonic = "truly bitter wild patch input doctor walnut burger rent average jar cloth";
+var mnemonic = "mechanic cycle south example relief matter kitten pretty want essay crisp decide";

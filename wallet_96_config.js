@@ -1,1 +1,1 @@
-var mnemonic = "area lens must curious clutch portion palace twist position combine law already";
+var mnemonic = "hint just viable firm churn exhibit answer elephant anxiety dinner sorry explain";

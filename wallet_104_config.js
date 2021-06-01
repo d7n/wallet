@@ -1,1 +1,1 @@
-var mnemonic = "depth churn loan hotel message among add rate mountain sustain web crack";
+var mnemonic = "monster involve analyst lecture harbor debris hire until wheat point erosion receive";

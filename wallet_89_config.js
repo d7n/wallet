@@ -1,1 +1,1 @@
-var mnemonic = "merry exile magic bind nurse tired sting true leg lucky alien useful";
+var mnemonic = "regret please desk business keep extra attack float echo bid nose service";

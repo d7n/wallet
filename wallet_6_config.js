@@ -1,1 +1,1 @@
-var mnemonic = "flash member beyond custom input volume record wool elephant logic ecology salute";
+var mnemonic = "casino mystery crunch elder unlock spread table glory vehicle walnut shy banana";

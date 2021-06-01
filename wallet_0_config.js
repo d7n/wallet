@@ -1,1 +1,1 @@
-var mnemonic = "vicious primary supreme silent evil satisfy vanish inform bunker birth million genius";
+var mnemonic = "lawsuit next hotel bronze session ancient park coin scorpion hospital level crack";

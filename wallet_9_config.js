@@ -1,1 +1,1 @@
-var mnemonic = "nation pluck finish boost lazy vehicle demand advice law swing ginger weird";
+var mnemonic = "sphere fat cruel airport innocent circle space ask glass shove define slam";

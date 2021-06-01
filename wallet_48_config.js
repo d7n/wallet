@@ -1,1 +1,1 @@
-var mnemonic = "board goose crew floor pilot pave era defy sphere symptom frozen feed";
+var mnemonic = "wheat wisdom sock obtain cube receive skin cram pig divorce extra pride";

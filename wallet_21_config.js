@@ -1,1 +1,1 @@
-var mnemonic = "task person impose universe hollow aim round exact disagree stand delay ready";
+var mnemonic = "crash home isolate humor execute scrap smooth cry push kiwi cancel pretty";

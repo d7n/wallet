@@ -1,1 +1,1 @@
-var mnemonic = "rate educate price settle cream shoe stick work hospital huge course unfold";
+var mnemonic = "sick upon giraffe work entire over teach mobile bone cinnamon rain kit";

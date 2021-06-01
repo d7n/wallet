@@ -1,1 +1,1 @@
-var mnemonic = "essence guilt famous tornado dice farm wood venue turn detect dizzy bounce";
+var mnemonic = "fade liar unveil sense little rifle piece two stadium close shine famous";

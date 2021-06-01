@@ -1,1 +1,1 @@
-var mnemonic = "hill veteran blanket absurd sphere poem virtual figure apology slogan poverty acid";
+var mnemonic = "awesome mesh live ranch stay build thank evil evoke base there upon";

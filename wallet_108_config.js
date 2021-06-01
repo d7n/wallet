@@ -1,1 +1,1 @@
-var mnemonic = "until broccoli letter pool forget dignity sell since best region hint protect";
+var mnemonic = "drift actual identify disease catalog sleep bicycle erase winner elder problem muffin";

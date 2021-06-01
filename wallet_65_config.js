@@ -1,1 +1,1 @@
-var mnemonic = "midnight vote soul marble rude depend normal tennis eagle way kangaroo correct";
+var mnemonic = "nephew spike onion will just margin trip lounge agree success digital sail";

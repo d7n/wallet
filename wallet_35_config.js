@@ -1,1 +1,1 @@
-var mnemonic = "have message govern matrix provide believe abstract tackle kid isolate damp furnace";
+var mnemonic = "lounge climb hard sight patient cotton gun found stumble behave truly teach";

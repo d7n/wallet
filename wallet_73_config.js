@@ -1,1 +1,1 @@
-var mnemonic = "bike final slim cigar smile crowd tent answer open this crack nerve";
+var mnemonic = "grain object drama prosper steel emotion spin boss primary else april nothing";

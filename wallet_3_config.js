@@ -1,1 +1,1 @@
-var mnemonic = "wall slot mansion evil dentist click install deputy consider heart whisper tip";
+var mnemonic = "deny uphold essay cross leaf inject fly scan sunset kitten execute wreck";

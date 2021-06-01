@@ -1,1 +1,1 @@
-var mnemonic = "clarify myth project just hurdle coyote file jacket feel verb nuclear audit";
+var mnemonic = "luggage poem glide motion upset crisp ride catch casino very female patrol";

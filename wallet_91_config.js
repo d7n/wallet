@@ -1,1 +1,1 @@
-var mnemonic = "skate actor suggest mention ranch predict cat fee strike fitness furnace still";
+var mnemonic = "cube curious west ketchup moon industry ensure myth coral combine maze weather";

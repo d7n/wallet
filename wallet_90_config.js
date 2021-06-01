@@ -1,1 +1,1 @@
-var mnemonic = "travel relief able ahead drift coconut raccoon submit shock trouble room laundry";
+var mnemonic = "hurry real allow spray hammer rate fiscal shield similar afford confirm slide";

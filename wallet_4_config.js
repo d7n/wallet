@@ -1,1 +1,1 @@
-var mnemonic = "category public hole jealous drama alert cute saddle autumn punch gallery someone";
+var mnemonic = "barely almost health position setup cereal enact tattoo neglect endless hair wood";

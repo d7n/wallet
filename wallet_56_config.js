@@ -1,1 +1,1 @@
-var mnemonic = "about twist often smart rare float ramp wing relief pet erase fatal";
+var mnemonic = "cause mutual ski relief wild alcohol comic awful uncle stick logic fade";

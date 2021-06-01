@@ -1,1 +1,1 @@
-var mnemonic = "brown discover tuna engage buzz rather rack vintage breeze artwork foam ensure";
+var mnemonic = "room blanket neither tower enrich follow clock demise provide abstract domain dose";

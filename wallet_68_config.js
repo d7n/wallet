@@ -1,1 +1,1 @@
-var mnemonic = "elephant employ coach punch purchase off please about village cram deliver denial";
+var mnemonic = "between all announce again month brief ozone bachelor service cactus multiply ginger";

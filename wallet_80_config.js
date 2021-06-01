@@ -1,1 +1,1 @@
-var mnemonic = "sail kind clap remember flock cat before ketchup input sleep picnic rule";
+var mnemonic = "wisdom piece tone mechanic erode cool arrest course rude knock victory tag";

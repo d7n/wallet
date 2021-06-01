@@ -1,1 +1,1 @@
-var mnemonic = "balance caught start abuse guitar lake forest mule dilemma wheel mango address";
+var mnemonic = "credit enough repeat text margin company tone dad express clarify coil lawsuit";

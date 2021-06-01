@@ -1,1 +1,1 @@
-var mnemonic = "diamond unveil danger slab liberty popular there day useless knife limit axis";
+var mnemonic = "hip across rapid deposit kind insane alert glass pull slow donkey tragic";

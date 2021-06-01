@@ -1,1 +1,1 @@
-var mnemonic = "economy fork slow drive narrow weekend busy vast matter infant anxiety void";
+var mnemonic = "essence subway horse twice replace letter spread you media agent zebra inspire";

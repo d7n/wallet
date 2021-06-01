@@ -1,1 +1,1 @@
-var mnemonic = "wild apart cliff finger pull round task road aspect saddle oval casino";
+var mnemonic = "large sand december hard seek plunge foot hold elder jealous dilemma minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "check silver bench broom sell spot pond dilemma since jar vivid taxi";
+var mnemonic = "federal guitar west galaxy hole certain hidden purchase main rug winter riot";

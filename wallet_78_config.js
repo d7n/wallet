@@ -1,1 +1,1 @@
-var mnemonic = "bronze assume feature bulb flight chaos skin expose fit crane wife print";
+var mnemonic = "domain close trophy castle photo sketch garment jealous kite exist brown abuse";

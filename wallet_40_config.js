@@ -1,1 +1,1 @@
-var mnemonic = "message cousin toss citizen joy outdoor illegal shove develop lesson assist riot";
+var mnemonic = "margin gaze toddler man thought thrive alter host crunch roof proud erupt";

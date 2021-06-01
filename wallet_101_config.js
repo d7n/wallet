@@ -1,1 +1,1 @@
-var mnemonic = "gorilla junior review undo fashion cave predict crawl wood monkey into birth";
+var mnemonic = "call genre profit hospital cram pride ability solution claim client one suit";

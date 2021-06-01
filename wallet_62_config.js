@@ -1,1 +1,1 @@
-var mnemonic = "urge old diamond pear abuse notable border start pioneer meadow beyond humble";
+var mnemonic = "snap tomato leave arrow arm draw advance bird prosper december easily balance";

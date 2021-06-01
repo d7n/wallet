@@ -1,1 +1,1 @@
-var mnemonic = "dash erupt defy that vast knee color chalk mind extend vehicle six";
+var mnemonic = "town execute street vendor case audit survey quick crack able island prepare";

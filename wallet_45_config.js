@@ -1,1 +1,1 @@
-var mnemonic = "village ability sad include trim agree frame path illegal real climb pond";
+var mnemonic = "fame surprise fitness dish echo decrease idle vacuum hire immune allow enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "parent cupboard quiz sadness spawn impact city glare spin argue evolve rely";
+var mnemonic = "plastic memory flee lend speak emotion team book hint nurse novel error";

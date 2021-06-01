@@ -1,1 +1,1 @@
-var mnemonic = "swing flat satisfy return legend merge still armed peanut crop panther child";
+var mnemonic = "over fashion squeeze travel art media false exact cupboard such fold depend";

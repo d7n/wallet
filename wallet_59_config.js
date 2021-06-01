@@ -1,1 +1,1 @@
-var mnemonic = "balcony thunder glare fog unfair trumpet mouse defense net quote urban fence";
+var mnemonic = "virtual soap decorate clutch fork mixed hint wait verify legal wreck people";

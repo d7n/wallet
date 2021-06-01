@@ -1,1 +1,1 @@
-var mnemonic = "nuclear price address weekend open term thing twice sausage picture detect marriage";
+var mnemonic = "replace guard decline yellow gospel light wisdom umbrella ritual board poem then";

@@ -1,1 +1,1 @@
-var mnemonic = "cart fabric entry lake canoe rice sword ginger hat acid gospel pink";
+var mnemonic = "know rose grocery reason great whip genuine punch trend snake gaze immune";

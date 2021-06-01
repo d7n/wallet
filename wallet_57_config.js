@@ -1,1 +1,1 @@
-var mnemonic = "limit improve wheel subject excuse veteran thing roof owner list priority hospital";
+var mnemonic = "burger capable school erode scheme gift behave learn slush retreat curtain job";

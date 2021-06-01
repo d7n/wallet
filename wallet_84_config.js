@@ -1,1 +1,1 @@
-var mnemonic = "crawl worry assist degree advance sad barrel photo life actor piano raven";
+var mnemonic = "job note cash attitude cancel trash balcony couch legal kitchen bridge abandon";

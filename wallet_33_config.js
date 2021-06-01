@@ -1,1 +1,1 @@
-var mnemonic = "orchard bright gossip plate soap before screen page slam cart come spin";
+var mnemonic = "ripple good impact iron flip plastic popular spy laugh jazz foil logic";

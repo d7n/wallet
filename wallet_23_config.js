@@ -1,1 +1,1 @@
-var mnemonic = "scrub pair also later blood ready maid side visa ahead alter teach";
+var mnemonic = "manual judge wet body penalty nasty subject orphan essay inspire mule age";

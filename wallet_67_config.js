@@ -1,1 +1,1 @@
-var mnemonic = "point drink foster one found say bench equal parade defy live afford";
+var mnemonic = "unfold erase monkey brisk pitch coin mango deliver erase wheel cook long";

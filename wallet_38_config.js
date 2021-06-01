@@ -1,1 +1,1 @@
-var mnemonic = "series era grit mouse manage mix daughter machine mercy eternal order giant";
+var mnemonic = "section okay together cruise asthma impose rice desk elephant pitch album note";

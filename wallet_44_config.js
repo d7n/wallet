@@ -1,1 +1,1 @@
-var mnemonic = "area sketch message seed barely segment bracket pitch until lunar tuition find";
+var mnemonic = "around army regular winter dawn tennis glove comfort crystal nation spawn spin";
