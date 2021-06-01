@@ -1,1 +1,1 @@
-var mnemonic = "match delay antenna chase mimic resemble round option razor lumber track deputy";
+var mnemonic = "accident feature fabric cat oyster bird rotate canal clutch dilemma orbit soul";

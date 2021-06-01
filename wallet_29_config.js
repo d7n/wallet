@@ -1,1 +1,1 @@
-var mnemonic = "tiny asset spawn immense shuffle hub once dynamic humble shrug dance use";
+var mnemonic = "swing suggest evil diet young pencil purpose salt october exotic practice crash";

@@ -1,1 +1,1 @@
-var mnemonic = "sound that hybrid slush enemy crowd result girl garment record happy leisure";
+var mnemonic = "alley bulb orchard live gorilla silk spring inject collect build blouse rice";

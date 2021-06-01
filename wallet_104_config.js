@@ -1,1 +1,1 @@
-var mnemonic = "desert push number level say meat carpet various solar resource south enhance";
+var mnemonic = "crucial inspire blanket marriage unhappy jacket month open arena universe unique peanut";

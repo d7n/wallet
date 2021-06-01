@@ -1,1 +1,1 @@
-var mnemonic = "body venue true thing danger cloth input window teach torch chaos dragon";
+var mnemonic = "wise alley ill ten loop silk chase gasp draft swift race rally";

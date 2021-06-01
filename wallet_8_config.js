@@ -1,1 +1,1 @@
-var mnemonic = "enemy rotate truck accuse exhibit drop rain shrimp lesson provide kite jungle";
+var mnemonic = "direct bacon marine reward produce vapor finish dad excuse resist pair body";

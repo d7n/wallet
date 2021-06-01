@@ -1,1 +1,1 @@
-var mnemonic = "law flame brief hungry creek siege ancient index wasp monitor garment honey";
+var mnemonic = "action join cement sell wife replace rally shine crack diagram common near";

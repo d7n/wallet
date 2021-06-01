@@ -1,1 +1,1 @@
-var mnemonic = "sand legend what chapter dad leg rather magnet evidence snow extra crack";
+var mnemonic = "multiply shine avocado nurse music ocean useless garden like virtual kick claw";

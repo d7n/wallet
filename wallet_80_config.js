@@ -1,1 +1,1 @@
-var mnemonic = "fat enter exhibit proof basic hidden test grunt response miracle car hard";
+var mnemonic = "life sea mean oxygen human bottom crane speed radio dawn height nominee";

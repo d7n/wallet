@@ -1,1 +1,1 @@
-var mnemonic = "stadium oven square cotton risk loyal rough never proud hedgehog industry cricket";
+var mnemonic = "ancient juice hurry iron brief candy opinion shield live describe diary before";

@@ -1,1 +1,1 @@
-var mnemonic = "embody announce assume waste analyst burger arrow flag modify move wet hurdle";
+var mnemonic = "like protect interest soft pond setup garage where kidney season staff change";

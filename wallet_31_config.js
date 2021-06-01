@@ -1,1 +1,1 @@
-var mnemonic = "inform unit unknown trick once hotel donor install token kite pony artist";
+var mnemonic = "ritual observe resist connect gun document real wage endless style anxiety flip";

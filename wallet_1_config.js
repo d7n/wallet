@@ -1,1 +1,1 @@
-var mnemonic = "unfair relief exercise walk display maze spread frequent virus join harbor soul";
+var mnemonic = "engine film tomorrow window argue boy guard mother wife wife pitch notable";

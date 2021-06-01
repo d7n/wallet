@@ -1,1 +1,1 @@
-var mnemonic = "media impact click easily math hello taxi apology build hazard slam tomato";
+var mnemonic = "blade minute provide alien during wear student artwork multiply romance clay rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "moral shaft involve predict chase share sell pause fatigue better decline planet";
+var mnemonic = "burden rescue artefact panic warfare nerve naive shaft page bracket sick empty";

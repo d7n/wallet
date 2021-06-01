@@ -1,1 +1,1 @@
-var mnemonic = "dial stage craft strategy speak offer theme spend evidence void guess tourist";
+var mnemonic = "agent garage diamond body dream three side shield eye guard rude sell";

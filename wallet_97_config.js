@@ -1,1 +1,1 @@
-var mnemonic = "fence turkey situate burst debate pretty december laptop impose grief ready abandon";
+var mnemonic = "dry wage theory tank denial illegal insect humble slender dawn kiss despair";

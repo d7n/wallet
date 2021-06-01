@@ -1,1 +1,1 @@
-var mnemonic = "essence brief snack either solution fly wood require coast regular bean canyon";
+var mnemonic = "drill buddy cinnamon pull estate cook pioneer donate stool weird link invest";

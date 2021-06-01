@@ -1,1 +1,1 @@
-var mnemonic = "syrup base chef gesture this science visual have track valid salon exile";
+var mnemonic = "trigger kit envelope gift lizard define pave hood smoke bachelor prison worth";

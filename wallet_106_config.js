@@ -1,1 +1,1 @@
-var mnemonic = "popular sibling deal test shoot moral beyond exclude orphan tragic cricket layer";
+var mnemonic = "main version spirit champion execute illegal loyal job hazard diary odor fade";

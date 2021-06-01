@@ -1,1 +1,1 @@
-var mnemonic = "hundred element accuse smoke witness current oyster unlock behind jewel under stool";
+var mnemonic = "oxygen online current news bone promote friend panda sorry sketch people knee";

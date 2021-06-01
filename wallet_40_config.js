@@ -1,1 +1,1 @@
-var mnemonic = "alarm friend mention test cage action buzz intact stand woman traffic tunnel";
+var mnemonic = "found mask obscure nice stand thrive peace similar wrap memory ramp evidence";

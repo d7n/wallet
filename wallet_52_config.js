@@ -1,1 +1,1 @@
-var mnemonic = "bottom artwork empty service tool bring explain photo tackle olympic tennis chapter";
+var mnemonic = "loud pitch reflect citizen man protect speed mandate olive toilet chaos engine";

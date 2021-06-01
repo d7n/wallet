@@ -1,1 +1,1 @@
-var mnemonic = "fetch artwork trophy twin speed service pistol swallow off leaf group call";
+var mnemonic = "bleak moral typical frost element rude cattle better guide face access snake";

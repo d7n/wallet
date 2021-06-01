@@ -1,1 +1,1 @@
-var mnemonic = "lake solar jar then orange dice train often zone space stem cannon";
+var mnemonic = "drink lyrics avoid rain seat glance crack near unfold today place bomb";

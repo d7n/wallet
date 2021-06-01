@@ -1,1 +1,1 @@
-var mnemonic = "dial drift file sauce raccoon legend normal oxygen lottery pumpkin social retreat";
+var mnemonic = "cigar pelican ethics culture enjoy harvest shield hard scrub crowd vicious timber";

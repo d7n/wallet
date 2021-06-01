@@ -1,1 +1,1 @@
-var mnemonic = "drama tank sponsor dirt travel monitor will angle inhale truck echo travel";
+var mnemonic = "pole find hawk ranch never breeze pave inject image rubber express govern";

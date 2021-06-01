@@ -1,1 +1,1 @@
-var mnemonic = "estate stairs cage sunny unable deputy assume expand town auction kit zebra";
+var mnemonic = "utility ready wheel nerve donate seek rich still harvest sausage census cattle";

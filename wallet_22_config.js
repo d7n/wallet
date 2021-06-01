@@ -1,1 +1,1 @@
-var mnemonic = "blouse frog ranch gas find top crush host frown vintage tribe empty";
+var mnemonic = "vault slice mutual black secret mandate poet side degree elite bitter diary";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude orchard clown sniff photo century spell card coast verb produce waste";
+var mnemonic = "hello snap human draft inspire demise target later toward brush jump knock";

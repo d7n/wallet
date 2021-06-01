@@ -1,1 +1,1 @@
-var mnemonic = "capable wheat insect ring say payment private art anchor actual possible door";
+var mnemonic = "group trumpet toe episode level smoke hour drastic wall tumble dose wire";

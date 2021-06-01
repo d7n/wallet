@@ -1,1 +1,1 @@
-var mnemonic = "right potato mosquito anger amazing decide strike congress illness spice purse zebra";
+var mnemonic = "pudding ribbon ketchup crystal ecology future change dinner upset leader room amazing";

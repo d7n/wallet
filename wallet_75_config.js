@@ -1,1 +1,1 @@
-var mnemonic = "velvet office wine blind forward behave learn jewel clean zero know item";
+var mnemonic = "wolf deal when sad slender wasp strong laundry claim future weekend nest";

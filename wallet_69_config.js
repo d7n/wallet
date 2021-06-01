@@ -1,1 +1,1 @@
-var mnemonic = "tiny similar beef end method piano decorate pig jump tenant frozen pepper";
+var mnemonic = "bone drum artwork acid game cat network lazy trumpet glow toilet finish";

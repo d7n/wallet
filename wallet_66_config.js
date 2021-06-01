@@ -1,1 +1,1 @@
-var mnemonic = "monitor shaft laptop above ice stove antenna alien spoil cousin ahead squeeze";
+var mnemonic = "lion same sister ask assist hundred gather detect juice fish swear door";

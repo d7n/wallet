@@ -1,1 +1,1 @@
-var mnemonic = "adjust traffic humble jungle weird crater this frozen cluster again another scatter";
+var mnemonic = "soccer razor spirit canoe swarm legend insect drama gown year large interest";

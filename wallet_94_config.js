@@ -1,1 +1,1 @@
-var mnemonic = "aim fluid eight learn document endless olive viable leaf prefer phrase vital";
+var mnemonic = "audit polar tornado uncover tired decade occur use spider seminar decline parent";

@@ -1,1 +1,1 @@
-var mnemonic = "friend picture surface south prize wage model merit domain echo elephant age";
+var mnemonic = "any almost scout balance rare fire dad penalty ride pudding dizzy island";

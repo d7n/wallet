@@ -1,1 +1,1 @@
-var mnemonic = "success wrestle laptop dose street budget swear ship vendor erase ice market";
+var mnemonic = "dragon dentist topic potato bicycle curious blast game term mango forest odor";

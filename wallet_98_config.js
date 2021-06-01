@@ -1,1 +1,1 @@
-var mnemonic = "valid hire hazard blame inject citizen tribe walnut relax burden gap approve";
+var mnemonic = "pass globe client soup danger broken train drill dignity cry vault sphere";

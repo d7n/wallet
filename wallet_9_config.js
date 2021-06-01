@@ -1,1 +1,1 @@
-var mnemonic = "acquire quality alert there throw wish power draft fan obvious dog save";
+var mnemonic = "until quote squeeze roof puzzle cherry develop barrel athlete toward depth subway";

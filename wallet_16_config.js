@@ -1,1 +1,1 @@
-var mnemonic = "burden fantasy rescue fiber clarify moon code traffic planet airport labor random";
+var mnemonic = "type stone radio crawl quick silent fuel uniform excuse wet document neglect";

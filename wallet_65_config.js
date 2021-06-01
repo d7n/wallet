@@ -1,1 +1,1 @@
-var mnemonic = "video subway success giggle stomach rain improve bronze noble cupboard second banana";
+var mnemonic = "brisk fun judge cream prize motion already field eight parent script fossil";

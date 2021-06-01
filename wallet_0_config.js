@@ -1,1 +1,1 @@
-var mnemonic = "sign fresh evoke cook abandon leader aware crater balance tone dawn resource";
+var mnemonic = "lens cup enable anger chuckle flower uphold dutch mercy mimic fire pumpkin";

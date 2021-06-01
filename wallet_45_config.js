@@ -1,1 +1,1 @@
-var mnemonic = "appear bless wink mercy split few access ankle manual exit loan wet";
+var mnemonic = "laugh predict oblige stand language cup spoon soft ship place same boost";

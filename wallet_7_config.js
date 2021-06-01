@@ -1,1 +1,1 @@
-var mnemonic = "member rally reduce leisure used actress busy coral alcohol true direct hedgehog";
+var mnemonic = "license spot flat cement abuse question dog census random you another share";

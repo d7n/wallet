@@ -1,1 +1,1 @@
-var mnemonic = "spell grass mechanic embark accuse prevent honey bulk latin doctor east coconut";
+var mnemonic = "during screen gold cash upgrade vintage setup awkward mechanic daring embark lounge";

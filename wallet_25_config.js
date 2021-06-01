@@ -1,1 +1,1 @@
-var mnemonic = "matter taxi agent regret grace legend anger fringe wrong foot remind wedding";
+var mnemonic = "fashion proof sock game report clump depth fancy approve name carry false";

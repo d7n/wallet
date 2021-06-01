@@ -1,1 +1,1 @@
-var mnemonic = "glad best supreme crater cart clog labor clip divert badge check laptop";
+var mnemonic = "scatter baby property stamp vote upgrade just wing someone off abandon supreme";

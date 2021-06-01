@@ -1,1 +1,1 @@
-var mnemonic = "auto spike thrive share same hair decrease swift anxiety arena action theme";
+var mnemonic = "aisle twist mutual version punch prosper canal radar head feature uphold describe";

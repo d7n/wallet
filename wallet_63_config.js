@@ -1,1 +1,1 @@
-var mnemonic = "make view nephew heart tone broom bamboo once blanket price view toilet";
+var mnemonic = "silk diet trip spatial oil clump twice mountain endorse provide lemon method";

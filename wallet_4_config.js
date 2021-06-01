@@ -1,1 +1,1 @@
-var mnemonic = "artwork canyon donate define device control prefer great sentence grab weather cover";
+var mnemonic = "awkward inspire trend lift skull you measure always adult onion mystery extra";

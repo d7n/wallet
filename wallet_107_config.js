@@ -1,1 +1,1 @@
-var mnemonic = "ripple small close suffer toddler same drift trophy march surface wing canal";
+var mnemonic = "legend staff vendor ticket poem ordinary success young maximum need bottom pencil";

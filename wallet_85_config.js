@@ -1,1 +1,1 @@
-var mnemonic = "habit weather measure salad else base exist wall sick shed duck diagram";
+var mnemonic = "load horror peasant swamp goat poet kite leaf mercy mammal guilt miss";

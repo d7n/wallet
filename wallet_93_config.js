@@ -1,1 +1,1 @@
-var mnemonic = "volcano couple argue accident cube mobile law team drip aim special found";
+var mnemonic = "innocent hub ribbon wagon rival move comic brother blade refuse there weird";

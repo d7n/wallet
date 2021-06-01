@@ -1,1 +1,1 @@
-var mnemonic = "brain coach copy forest win monster focus solid ancient shop pumpkin idle";
+var mnemonic = "reopen good van coyote skate video sausage hire scheme guard desert disorder";

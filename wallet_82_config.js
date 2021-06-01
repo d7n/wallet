@@ -1,1 +1,1 @@
-var mnemonic = "when erupt analyst invite bridge phrase weather music sad trend spot inspire";
+var mnemonic = "humble file lounge pill tunnel frost parrot rural transfer armed course hope";

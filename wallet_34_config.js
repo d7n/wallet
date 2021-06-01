@@ -1,1 +1,1 @@
-var mnemonic = "ceiling voice add exchange huge sugar icon oil salmon club weasel humble";
+var mnemonic = "flat blame repeat gorilla short cotton jacket duck tomorrow girl suit lamp";

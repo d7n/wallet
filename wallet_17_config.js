@@ -1,1 +1,1 @@
-var mnemonic = "below peace spend tent minute badge either grocery lab grain payment mansion";
+var mnemonic = "ribbon arrow pause skin shrimp allow youth sausage skirt road flight now";

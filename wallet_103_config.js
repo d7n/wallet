@@ -1,1 +1,1 @@
-var mnemonic = "neither present onion stick balcony armor misery wrong orphan thought clarify crouch";
+var mnemonic = "come razor harvest roof ritual resource negative aisle punch satoshi peace spread";

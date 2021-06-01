@@ -1,1 +1,1 @@
-var mnemonic = "spare night vocal damage flush thrive struggle universe flock senior gasp island";
+var mnemonic = "unusual year ranch pledge adult settle memory phone trigger language tower foster";

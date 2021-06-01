@@ -1,1 +1,1 @@
-var mnemonic = "fire ozone swift bounce secret gate error join wish thought client enlist";
+var mnemonic = "expect train town airport deliver update bench prison scan cabbage chef modify";

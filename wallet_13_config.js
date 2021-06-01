@@ -1,1 +1,1 @@
-var mnemonic = "blush ceiling slam actor luggage bird knock blade simple morning jungle enhance";
+var mnemonic = "copper autumn leave assist coral obtain device track broom area amateur pluck";

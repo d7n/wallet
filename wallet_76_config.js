@@ -1,1 +1,1 @@
-var mnemonic = "attitude suit celery piece style nasty carpet column magic employ adjust yellow";
+var mnemonic = "they palm initial goat mammal dash taxi banana rally organ loud volcano";

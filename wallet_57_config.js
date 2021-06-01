@@ -1,1 +1,1 @@
-var mnemonic = "pig valid chalk distance lawsuit impose vacuum field plug digital random scissors";
+var mnemonic = "village hand skull pet coconut possible involve jump sail script gallery world";

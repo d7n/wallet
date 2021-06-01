@@ -1,1 +1,1 @@
-var mnemonic = "person inspire camera royal license destroy animal choice february diagram solid circle";
+var mnemonic = "flash remember chair salad near attitude false orchard enhance artefact trade tobacco";

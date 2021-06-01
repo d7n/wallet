@@ -1,1 +1,1 @@
-var mnemonic = "earn absurd yard horse own little leg material debris pottery latin print";
+var mnemonic = "echo amazing infant cradle unusual air ring diet clutch height recall galaxy";

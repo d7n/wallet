@@ -1,1 +1,1 @@
-var mnemonic = "boil various head weekend wear bacon output practice vault enter flush talk";
+var mnemonic = "sting strong velvet enable ritual note tip that craft left neutral jealous";

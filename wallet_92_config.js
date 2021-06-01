@@ -1,1 +1,1 @@
-var mnemonic = "submit impulse problem wrist path inhale again silent over online legend inch";
+var mnemonic = "unable obvious zero chimney elevator sister fatigue connect orchard twelve welcome when";

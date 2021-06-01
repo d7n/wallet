@@ -1,1 +1,1 @@
-var mnemonic = "supreme awake combine unfair sort wheat involve omit cancel option rent able";
+var mnemonic = "illness wage issue easy better aspect cover soft inspire auto primary clog";

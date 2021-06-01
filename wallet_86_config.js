@@ -1,1 +1,1 @@
-var mnemonic = "middle inmate lonely dust fire satoshi omit point warm fury broccoli music";
+var mnemonic = "game lunar tuna cloth bird swamp diagram hobby obvious accident calm soccer";

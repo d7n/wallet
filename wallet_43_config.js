@@ -1,1 +1,1 @@
-var mnemonic = "baby castle shoe moment bonus very ostrich nest say panther beach mosquito";
+var mnemonic = "dinner valve brother behave bubble stumble hour result country insane order insect";

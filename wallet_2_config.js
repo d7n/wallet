@@ -1,1 +1,1 @@
-var mnemonic = "size mix success sauce goose wet midnight spot sketch wild gate blanket";
+var mnemonic = "because act inform magnet shoot fit clever utility possible guard glove lens";

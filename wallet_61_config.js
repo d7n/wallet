@@ -1,1 +1,1 @@
-var mnemonic = "enforce uniform brush alert stem human carpet bubble evil ask staff grow";
+var mnemonic = "deal six poverty sponsor method same end romance swallow erode stomach traffic";

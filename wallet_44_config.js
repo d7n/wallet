@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sentence pool delay energy junior ship recipe math express february bring";
+var mnemonic = "charge drip marble future edge enough popular alley average devote fire later";

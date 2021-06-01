@@ -1,1 +1,1 @@
-var mnemonic = "vicious citizen inherit swamp assault six tape wave video magic find truth";
+var mnemonic = "saddle crunch monster much front quantum offer total genius like frame destroy";

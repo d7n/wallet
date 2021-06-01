@@ -1,1 +1,1 @@
-var mnemonic = "match pudding suggest tongue charge mango maid ivory february shift afford organ";
+var mnemonic = "under kingdom hen jungle space zebra undo raw inch bind already stone";

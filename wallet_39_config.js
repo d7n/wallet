@@ -1,1 +1,1 @@
-var mnemonic = "dose beauty day intact forget put rich dune acoustic holiday cabin verify";
+var mnemonic = "salon crawl copy regret horn army bring destroy teach tray carpet bachelor";

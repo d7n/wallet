@@ -1,1 +1,1 @@
-var mnemonic = "manage gallery sure girl cave diary inch curtain reward glide parrot lab";
+var mnemonic = "winter wagon thumb ginger blouse know scatter dismiss toss pause jump dizzy";

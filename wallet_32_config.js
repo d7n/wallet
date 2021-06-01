@@ -1,1 +1,1 @@
-var mnemonic = "monitor kid fee melt zero pear style cruise actual secret sing dumb";
+var mnemonic = "wife door castle immune fantasy sport kingdom own demand truth artefact outside";

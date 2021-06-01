@@ -1,1 +1,1 @@
-var mnemonic = "palm next idle salt category fresh interest very reason unknown engage salmon";
+var mnemonic = "brass heart unable hood cry shrug amazing wasp curve elevator claim onion";

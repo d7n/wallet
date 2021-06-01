@@ -1,1 +1,1 @@
-var mnemonic = "nephew cargo apology blouse cool kiss hello border fire intact scrap chuckle";
+var mnemonic = "quarter vacant jealous home nurse hammer fresh asset erase endorse million slush";

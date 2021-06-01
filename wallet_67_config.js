@@ -1,1 +1,1 @@
-var mnemonic = "embody car rigid path taste bind color nominee input month jewel pair";
+var mnemonic = "reject because mistake amount pilot mango ivory behind rather dinosaur chef bullet";

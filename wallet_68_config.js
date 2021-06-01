@@ -1,1 +1,1 @@
-var mnemonic = "future recall dirt lion pride frost face pottery cheese ramp edge foot";
+var mnemonic = "diesel gallery quote hint notable alone ten device black diagram sick reject";

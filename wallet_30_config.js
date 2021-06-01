@@ -1,1 +1,1 @@
-var mnemonic = "giggle occur opera venue price limb citizen sleep cage physical gym lion";
+var mnemonic = "obtain shove budget jar mixture theme please fault cabbage injury weather room";
