@@ -1,1 +1,1 @@
-var mnemonic = "field supply prison donor metal resource clock display pond quit jealous top";
+var mnemonic = "ghost only census reason home update more timber convince motion tongue chalk";

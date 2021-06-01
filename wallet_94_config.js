@@ -1,1 +1,1 @@
-var mnemonic = "rubber junk laptop differ garment chase scale second clown egg dune dignity";
+var mnemonic = "marine scheme subway bring elevator cross certain one limit car buffalo assault";

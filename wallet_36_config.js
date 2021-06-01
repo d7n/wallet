@@ -1,1 +1,1 @@
-var mnemonic = "hospital unhappy yard depth skate chicken egg rare guide chronic insane vendor";
+var mnemonic = "shoe luxury antique cannon latin hunt burden mixture era craft define oak";

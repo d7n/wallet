@@ -1,1 +1,1 @@
-var mnemonic = "fix devote phrase surprise awesome hybrid above rescue service certain adult table";
+var mnemonic = "initial benefit boat globe pitch lumber rail inspire become security tomorrow size";

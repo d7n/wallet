@@ -1,1 +1,1 @@
-var mnemonic = "wink tortoise shrug scrap result slice firm edit summer indicate hand capital";
+var mnemonic = "path total cereal ugly lunar quit turkey grunt raise vicious unable jump";

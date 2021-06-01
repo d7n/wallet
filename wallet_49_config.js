@@ -1,1 +1,1 @@
-var mnemonic = "view trigger prosper skull cloth language unusual original album card people remember";
+var mnemonic = "mention excuse spike monkey grab genre planet collect expose roof cannon input";

@@ -1,1 +1,1 @@
-var mnemonic = "volume fuel charge unaware ceiling surprise speak half caught urge artefact develop";
+var mnemonic = "host hat material earth seat sketch royal believe advance pyramid humor almost";

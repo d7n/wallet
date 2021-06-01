@@ -1,1 +1,1 @@
-var mnemonic = "sister utility scale drama shuffle word spice leisure still approve enemy supreme";
+var mnemonic = "leg tank holiday tonight exhibit truck strike salon trust crew balcony saddle";

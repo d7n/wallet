@@ -1,1 +1,1 @@
-var mnemonic = "isolate hammer dish weather swing quantum frost tunnel fetch net fame evil";
+var mnemonic = "nominee gossip fox crouch pond blanket better evoke antique assist dwarf universe";

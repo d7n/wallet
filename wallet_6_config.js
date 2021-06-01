@@ -1,1 +1,1 @@
-var mnemonic = "cry road false spread point abandon dune move govern ship wall cactus";
+var mnemonic = "estate panel plate nerve clutch stadium cause noise laptop refuse release increase";

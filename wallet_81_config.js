@@ -1,1 +1,1 @@
-var mnemonic = "castle never lock federal cute soccer dial raccoon pluck hurry nation layer";
+var mnemonic = "person fatal hole catch joy immense curious paddle shed canal tunnel illegal";

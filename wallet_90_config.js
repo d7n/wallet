@@ -1,1 +1,1 @@
-var mnemonic = "lobster year weapon gather hover series brother equip huge sail hammer dove";
+var mnemonic = "scrub security issue only comfort squirrel zoo tube gentle magnet multiply reject";

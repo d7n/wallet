@@ -1,1 +1,1 @@
-var mnemonic = "mean hidden green lamp wage street draw differ atom wonder beauty matrix";
+var mnemonic = "drastic column concert giggle cabin first guilt reveal text spy excess heart";

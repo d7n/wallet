@@ -1,1 +1,1 @@
-var mnemonic = "avocado twist fame issue rate donate verify dumb color pudding bench critic";
+var mnemonic = "bread physical age rain birth census trigger yard pen improve minimum photo";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson dinosaur chuckle injury wool able vague remind use what sudden cabin";
+var mnemonic = "manual useful bridge universe rookie rapid arrest already interest shield pipe current";

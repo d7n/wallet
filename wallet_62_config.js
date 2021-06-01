@@ -1,1 +1,1 @@
-var mnemonic = "public banana dinosaur derive cool grief grocery kind mind solar travel salad";
+var mnemonic = "net picnic sell long friend until weird cage arrange any shuffle dizzy";

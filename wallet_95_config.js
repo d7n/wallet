@@ -1,1 +1,1 @@
-var mnemonic = "expose parrot bunker face list injury quit monkey invite magnet crazy detect";
+var mnemonic = "win soldier silk ride fan toilet foam track fiber foster ignore scatter";

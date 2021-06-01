@@ -1,1 +1,1 @@
-var mnemonic = "mixture hood shine lounge fiction wedding type twice letter market among local";
+var mnemonic = "review save combine twelve draw forget happy maze correct risk voyage middle";

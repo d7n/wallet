@@ -1,1 +1,1 @@
-var mnemonic = "seat pencil track model reflect dial appear table loop worry repeat swing";
+var mnemonic = "lyrics unusual wheel jump orphan punch marine vacuum hard mind thrive color";

@@ -1,1 +1,1 @@
-var mnemonic = "drill mandate tiger guide detail clown travel monkey catch tide service pill";
+var mnemonic = "mosquito cluster slogan chef view develop muffin tobacco ketchup brass grid aisle";

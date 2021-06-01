@@ -1,1 +1,1 @@
-var mnemonic = "lake power process bleak analyst trick organ company girl text heavy clutch";
+var mnemonic = "organ stable series destroy solution cost clutch van during play volcano critic";

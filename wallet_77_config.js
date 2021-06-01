@@ -1,1 +1,1 @@
-var mnemonic = "robust fix enforce avoid steak tray invest input lesson reopen turtle clean";
+var mnemonic = "pink supply turkey web drift drum lava service gloom idle law range";

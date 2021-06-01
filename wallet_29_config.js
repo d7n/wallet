@@ -1,1 +1,1 @@
-var mnemonic = "dragon carpet dawn any sing base first diet lesson mimic town enter";
+var mnemonic = "want hockey vast frown critic six sugar reason inch feature gym lonely";

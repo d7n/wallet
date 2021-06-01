@@ -1,1 +1,1 @@
-var mnemonic = "moral lemon quiz era waste kingdom blade garlic idle puppy join fortune";
+var mnemonic = "struggle phrase pond plug era umbrella such coach one paddle firm dream";

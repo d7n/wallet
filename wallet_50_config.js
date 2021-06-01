@@ -1,1 +1,1 @@
-var mnemonic = "august obtain explain ranch vacant beyond float firm frame sail useful artwork";
+var mnemonic = "rubber elegant argue panic screen expire initial liquid casino jelly embody warm";

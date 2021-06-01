@@ -1,1 +1,1 @@
-var mnemonic = "slender mechanic utility coach artist capable private snap stereo match angle music";
+var mnemonic = "bullet fame board priority bind glue kind alley jar inmate umbrella grocery";

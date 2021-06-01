@@ -1,1 +1,1 @@
-var mnemonic = "rural oxygen smooth empty boring barrel pigeon party punch phone slogan grunt";
+var mnemonic = "gesture ahead predict mad rice stage drill glad curtain exhibit dog gap";

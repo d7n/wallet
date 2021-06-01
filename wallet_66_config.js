@@ -1,1 +1,1 @@
-var mnemonic = "rival explain grace page jacket match orchard deposit obtain exercise grid shift";
+var mnemonic = "tail miss spice forum energy boring text board flag ramp senior sight";

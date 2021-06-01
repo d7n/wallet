@@ -1,1 +1,1 @@
-var mnemonic = "evoke blush disagree super lazy copy brave ozone flavor rare junk input";
+var mnemonic = "use invest derive image cigar agent few lumber oyster unknown this bottom";

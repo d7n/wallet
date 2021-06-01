@@ -1,1 +1,1 @@
-var mnemonic = "fitness wrist cabbage nut lesson distance play isolate burst inhale scan yellow";
+var mnemonic = "party near balcony wine teach adapt sail ancient woman south melody drama";

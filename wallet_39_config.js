@@ -1,1 +1,1 @@
-var mnemonic = "depth junk cake panel deliver clown absurd soccer uniform tag magic wrong";
+var mnemonic = "desk survey author payment finger profit worth endorse clutch piano sea story";

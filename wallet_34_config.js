@@ -1,1 +1,1 @@
-var mnemonic = "orange peanut media weird issue transfer wide social wisdom cave diamond pencil";
+var mnemonic = "glow approve include joke lonely eye course orchard spoil cushion boat cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "flash smooth thunder dish sustain naive inquiry lemon ice measure have brisk";
+var mnemonic = "clever afraid correct coast lawn rail ostrich beyond clip wire list make";

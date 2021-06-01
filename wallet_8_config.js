@@ -1,1 +1,1 @@
-var mnemonic = "crack canyon fame crucial body note run feature spring rough suit second";
+var mnemonic = "picture bird refuse survey pencil people refuse you prison lonely doll rapid";

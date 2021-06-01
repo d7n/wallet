@@ -1,1 +1,1 @@
-var mnemonic = "story ability rice type wish fortune slow detail manage liberty walk patrol";
+var mnemonic = "stay canoe monkey apart name transfer left space chaos provide swear pulp";

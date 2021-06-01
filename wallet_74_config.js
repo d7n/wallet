@@ -1,1 +1,1 @@
-var mnemonic = "tool casual stairs master control bar tumble script burden mango warm health";
+var mnemonic = "actor attend purse simple weird pig add punch feed better become foot";

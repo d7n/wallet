@@ -1,1 +1,1 @@
-var mnemonic = "trap upgrade gift weather together impact result swap donor exhibit advice extra";
+var mnemonic = "globe slot welcome clown fossil debris equip win betray tank engage oak";

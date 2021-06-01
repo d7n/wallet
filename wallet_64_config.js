@@ -1,1 +1,1 @@
-var mnemonic = "rude tomato shed wish priority vendor ranch pizza neglect odor square interest";
+var mnemonic = "yellow mix slogan paper concert found raise door knee steel ozone sentence";

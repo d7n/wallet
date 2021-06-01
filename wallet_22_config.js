@@ -1,1 +1,1 @@
-var mnemonic = "nurse swing own rubber tower leg assist lucky question rhythm idea cube";
+var mnemonic = "ripple flush estate badge raven gate correct calm cash blanket camp crawl";

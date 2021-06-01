@@ -1,1 +1,1 @@
-var mnemonic = "salad aerobic region legal loud stand metal unknown wait that poverty odor";
+var mnemonic = "palm tomato elder alarm poem ecology present truth news magic snake embark";

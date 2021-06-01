@@ -1,1 +1,1 @@
-var mnemonic = "scheme radio punch payment elephant mimic street liberty kangaroo strategy heavy green";
+var mnemonic = "glove surge calm subway shadow rocket pepper repair dilemma flag boring either";

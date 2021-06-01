@@ -1,1 +1,1 @@
-var mnemonic = "main bicycle ribbon crush dumb thumb culture firm pattern ozone minor century";
+var mnemonic = "mimic stereo gesture disease unveil script athlete response miss elegant view aim";

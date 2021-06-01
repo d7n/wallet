@@ -1,1 +1,1 @@
-var mnemonic = "tortoise way urge chuckle dilemma virus waste jealous capital clerk frown luggage";
+var mnemonic = "elephant excess fitness dilemma peace latin exile episode toy coast hat danger";

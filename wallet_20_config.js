@@ -1,1 +1,1 @@
-var mnemonic = "awful ladder super mask raw amused resist oil remove genre oven glass";
+var mnemonic = "cherry ladder snow expose buyer hungry subway catch champion balance plunge expire";

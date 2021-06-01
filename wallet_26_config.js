@@ -1,1 +1,1 @@
-var mnemonic = "earth borrow gas convince pair invest large discover release crystal stove once";
+var mnemonic = "trigger joy word huge submit nice stadium dream sunny track mixture style";

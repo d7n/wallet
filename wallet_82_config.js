@@ -1,1 +1,1 @@
-var mnemonic = "junior witness birth wink tortoise wedding size fetch enhance spice amateur grow";
+var mnemonic = "panel night bird mirror balcony explain unlock village sponsor panic oxygen blush";

@@ -1,1 +1,1 @@
-var mnemonic = "wear turkey one about iron middle table service film steel tent type";
+var mnemonic = "craft nerve fresh faith alert attack acquire silly buzz grant guide luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "shine allow pave buddy vote habit squirrel acid kiwi staff spirit frown";
+var mnemonic = "index angle casino simple bundle alcohol blossom asset hobby upon rail work";

@@ -1,1 +1,1 @@
-var mnemonic = "burden uphold bitter clay submit dose camera ghost become just inflict evil";
+var mnemonic = "file achieve offer mountain cave hood wrong celery own sunset wild dune";

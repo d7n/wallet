@@ -1,1 +1,1 @@
-var mnemonic = "remember license language spice hammer tongue afraid lazy mouse rabbit luxury canoe";
+var mnemonic = "cloth gift vibrant word erode medal owner tooth mouse gown soft soldier";

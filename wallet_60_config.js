@@ -1,1 +1,1 @@
-var mnemonic = "neutral eager loud rabbit ahead lazy current shoot deliver game host answer";
+var mnemonic = "emerge ethics squirrel aware switch window sight glue arrow battle elephant conduct";

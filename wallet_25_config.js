@@ -1,1 +1,1 @@
-var mnemonic = "hidden motion nerve soul industry anchor pulse moral account egg pigeon protect";
+var mnemonic = "limit cause local eagle parent cabin muscle note junior deputy educate upper";

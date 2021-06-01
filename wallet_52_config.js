@@ -1,1 +1,1 @@
-var mnemonic = "tennis cat sudden toddler loan calm pattern kiss noise normal actual taxi";
+var mnemonic = "hip aspect style three wire popular flock lumber garlic pass correct warm";

@@ -1,1 +1,1 @@
-var mnemonic = "sing survey club spray harbor conduct replace broccoli visa gadget virtual light";
+var mnemonic = "actual agree habit hungry settle win grunt mind solution shadow unknown horror";

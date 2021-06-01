@@ -1,1 +1,1 @@
-var mnemonic = "kiwi junior grain thumb fly file odor receive film park neutral seek";
+var mnemonic = "winner view prevent spring pave need chaos second must disease wrap warm";

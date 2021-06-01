@@ -1,1 +1,1 @@
-var mnemonic = "black penalty shield city ankle glue globe project pioneer keep forest green";
+var mnemonic = "across right exotic inherit nominee brass access frozen crater actual slight often";

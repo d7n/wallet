@@ -1,1 +1,1 @@
-var mnemonic = "cram across become pause force share pull expose half border owner west";
+var mnemonic = "nose follow fluid zebra antenna drive mention sea sustain nothing lab cool";

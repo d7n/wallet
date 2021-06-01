@@ -1,1 +1,1 @@
-var mnemonic = "thing pulse sense afraid view enrich roast either pitch chat pass inside";
+var mnemonic = "level cover simple news patch convince arch iron shove lock miss unhappy";

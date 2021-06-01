@@ -1,1 +1,1 @@
-var mnemonic = "reform alert refuse impose rich apology two lift rough sausage divorce fringe";
+var mnemonic = "burden armed barrel ripple bar horse patrol witness adapt inquiry fringe panic";

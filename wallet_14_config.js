@@ -1,1 +1,1 @@
-var mnemonic = "option arrange install pull mesh citizen lamp worry joy vintage hidden rotate";
+var mnemonic = "wagon toast sunny decorate until crisp seed ramp cup lava lounge month";

@@ -1,1 +1,1 @@
-var mnemonic = "train anxiety skate scout achieve cat door carry pool pause need vicious";
+var mnemonic = "choose calm home sort sight where soft twelve lemon portion place trumpet";

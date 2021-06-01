@@ -1,1 +1,1 @@
-var mnemonic = "napkin add tail come chief master sing giant erupt mystery switch funny";
+var mnemonic = "ivory trap fine derive club hedgehog nest rare harbor lobster plug minute";

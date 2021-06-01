@@ -1,1 +1,1 @@
-var mnemonic = "session face train scare horn goat town crouch mixed spike improve shop";
+var mnemonic = "delay record merge sense cute material tuna turkey top wear squirrel mind";

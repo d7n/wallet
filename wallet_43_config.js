@@ -1,1 +1,1 @@
-var mnemonic = "pond crawl debate spoil detail valid choice image make glue wrong nerve";
+var mnemonic = "cruise welcome monitor immune point upgrade web rotate trust merge lemon vessel";

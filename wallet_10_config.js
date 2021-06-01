@@ -1,1 +1,1 @@
-var mnemonic = "shiver eyebrow love put unveil abandon sunny gun water abandon crush purity";
+var mnemonic = "car portion chalk physical sight earth lion salon damage suggest notable erode";

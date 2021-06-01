@@ -1,1 +1,1 @@
-var mnemonic = "seven identify tube bonus frost kingdom goddess error merit hazard special solar";
+var mnemonic = "risk disagree unaware describe climb alarm beauty toss check celery mail broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "panic bubble broom success man country prison broom stumble moon nuclear indicate";
+var mnemonic = "farm place visit soft joke denial arrow album end lesson glory basket";

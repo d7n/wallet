@@ -1,1 +1,1 @@
-var mnemonic = "tribe furnace huge castle dutch sketch whale twelve favorite capital income hamster";
+var mnemonic = "level drift mimic embrace quantum basket behind panther broccoli switch carbon pony";

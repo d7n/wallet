@@ -1,1 +1,1 @@
-var mnemonic = "fragile polar inform train this target crisp rather youth about attend mind";
+var mnemonic = "fragile sea swear soap sense sweet meadow rescue remain clever crouch husband";

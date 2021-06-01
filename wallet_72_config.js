@@ -1,1 +1,1 @@
-var mnemonic = "orchard social venture viable market initial spin admit trophy vault helmet hire";
+var mnemonic = "already crop must stool cinnamon lend mistake trim century ice draft sample";

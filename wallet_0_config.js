@@ -1,1 +1,1 @@
-var mnemonic = "frame park wheat slam suspect rail remember guess gun chat gorilla coast";
+var mnemonic = "trumpet power occur crash host six easily monkey pilot deposit canyon employ";

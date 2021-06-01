@@ -1,1 +1,1 @@
-var mnemonic = "jacket camp agent lamp thought twist lottery void tackle wagon fault volcano";
+var mnemonic = "marine tackle slab benefit suggest pretty allow choice fame spatial turkey punch";

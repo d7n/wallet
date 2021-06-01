@@ -1,1 +1,1 @@
-var mnemonic = "funny devote devote cricket pigeon ski rescue enrich parrot pilot gift chronic";
+var mnemonic = "humor reform speed gloom father bonus boss match copy liberty hedgehog salt";

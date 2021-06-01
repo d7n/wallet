@@ -1,1 +1,1 @@
-var mnemonic = "angry future ski industry cousin rail enrich absorb dinosaur upset high gospel";
+var mnemonic = "cube clerk snake nominee room damp museum bike stock oblige quantum twin";

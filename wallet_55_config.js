@@ -1,1 +1,1 @@
-var mnemonic = "radio jacket coin stumble nest twice industry equal tone phone palm range";
+var mnemonic = "stand immune member cinnamon credit oblige umbrella same follow coconut alter spend";

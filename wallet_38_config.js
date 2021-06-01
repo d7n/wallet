@@ -1,1 +1,1 @@
-var mnemonic = "cry label scrap practice chronic teach estate supreme adjust aisle liberty shove";
+var mnemonic = "sweet scale leisure account decade earth lend thumb crucial lecture token trick";

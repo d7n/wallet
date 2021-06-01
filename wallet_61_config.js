@@ -1,1 +1,1 @@
-var mnemonic = "man sample cup twin crazy run beach hockey deliver divert blur panel";
+var mnemonic = "stand weapon shadow royal script victory ancient asthma auction fat snow decrease";

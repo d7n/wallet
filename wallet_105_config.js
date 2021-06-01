@@ -1,1 +1,1 @@
-var mnemonic = "three tooth staff step jealous involve super text public mad surface during";
+var mnemonic = "scare rabbit walnut only lock about again crystal upgrade maple tape author";

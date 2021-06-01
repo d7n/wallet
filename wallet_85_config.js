@@ -1,1 +1,1 @@
-var mnemonic = "casual render cheap ride fruit flush seminar card true boss void arrive";
+var mnemonic = "credit book keen salute citizen prison differ delay robot silent minor endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "great board great quality green appear snow shove pair best soup future";
+var mnemonic = "inflict budget duty arm return peanut hub top post fatal inject jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "energy cupboard possible bid beyond snap dial protect assault power luxury must";
+var mnemonic = "width park snack assume fly expand woman weapon gorilla case unfair affair";

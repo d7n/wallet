@@ -1,1 +1,1 @@
-var mnemonic = "enroll uniform ethics napkin injury admit response mass fabric prevent army crack";
+var mnemonic = "example wall trust bleak innocent give ring wedding clarify gesture hero jacket";

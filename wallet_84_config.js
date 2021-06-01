@@ -1,1 +1,1 @@
-var mnemonic = "lumber search excuse kite wheat sign ranch bachelor leaf gate hedgehog describe";
+var mnemonic = "rifle ice acoustic elbow crush pass quarter click vault marble galaxy banana";

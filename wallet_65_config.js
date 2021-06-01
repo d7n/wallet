@@ -1,1 +1,1 @@
-var mnemonic = "brass parade coral gift glide voyage air flat begin fetch salmon valley";
+var mnemonic = "catalog eagle number motor jump gift you record develop toy phone dismiss";

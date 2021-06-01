@@ -1,1 +1,1 @@
-var mnemonic = "about zebra report hill exist mechanic bottom plug despair upgrade match arrow";
+var mnemonic = "romance hat debate dress write write limb legend castle swing sausage total";

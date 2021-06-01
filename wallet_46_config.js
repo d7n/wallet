@@ -1,1 +1,1 @@
-var mnemonic = "accuse pulp protect cave stick announce rebuild scissors loyal tail gorilla silver";
+var mnemonic = "aisle sorry miracle rare outdoor dash must prize own exact acquire health";

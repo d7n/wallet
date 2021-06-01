@@ -1,1 +1,1 @@
-var mnemonic = "flight dove achieve become nasty burger beauty never tag problem canoe blood";
+var mnemonic = "praise winter shrimp tornado rally sudden cost hand cluster mimic review must";

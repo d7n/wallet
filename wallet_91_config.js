@@ -1,1 +1,1 @@
-var mnemonic = "ahead destroy melt expand siren neck toilet symptom agree omit member coffee";
+var mnemonic = "barely pole cloud reveal humble patrol mobile pole ten shrug sentence setup";

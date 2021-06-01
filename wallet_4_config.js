@@ -1,1 +1,1 @@
-var mnemonic = "horror rate clown fox wine spring next pull suggest wire safe outdoor";
+var mnemonic = "you zoo face clutch museum weather split tiger enjoy mutual minimum injury";

@@ -1,1 +1,1 @@
-var mnemonic = "glory border truly flee distance genius another remember share hybrid maximum chronic";
+var mnemonic = "viable nose found spike fitness never pig addict health talk average tackle";
