@@ -1,1 +1,1 @@
-var mnemonic = "pair awful edge border desk foam crisp pave fruit note tornado again";
+var mnemonic = "patient foster supply shoulder loop hungry bomb language buzz buffalo diet stage";

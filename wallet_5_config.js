@@ -1,1 +1,1 @@
-var mnemonic = "spice glow case fortune canoe source true custom artefact casual relax pair";
+var mnemonic = "silly zone sock top ladder pull lyrics rubber absent soul awesome child";

@@ -1,1 +1,1 @@
-var mnemonic = "erode sentence session wreck spoil refuse high neck humor collect coral wife";
+var mnemonic = "warfare alley shoe assist battle prize venture expire evoke correct slender sight";

@@ -1,1 +1,1 @@
-var mnemonic = "brand paper tired caution clever random twenty grant nation stuff figure enact";
+var mnemonic = "color three pride never sick vehicle when nerve bleak antique wall vague";

@@ -1,1 +1,1 @@
-var mnemonic = "equal license impose search sniff divert gap document master identify pond tone";
+var mnemonic = "light panda column diagram sustain eagle siege sting safe total language inner";

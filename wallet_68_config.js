@@ -1,1 +1,1 @@
-var mnemonic = "lion immense clump income smooth elbow slide disorder veteran flee vehicle one";
+var mnemonic = "diagram shrimp bag improve maid birth junk draw caution wool fuel spoil";

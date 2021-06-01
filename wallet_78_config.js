@@ -1,1 +1,1 @@
-var mnemonic = "arrow art chaos inform oak pencil brown process endless amount hurt swamp";
+var mnemonic = "confirm enter neither regular own unfair arm buzz mansion portion violin curve";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise myself dress grant total immense mango alcohol walnut pulp matrix fantasy";
+var mnemonic = "subway gauge custom love curve pluck throw all now path dentist pride";

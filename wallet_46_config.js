@@ -1,1 +1,1 @@
-var mnemonic = "flip buffalo chest brave crater fence offer ugly guilt improve pluck pudding";
+var mnemonic = "lady include future crash express there attend produce spot garlic scissors vast";

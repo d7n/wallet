@@ -1,1 +1,1 @@
-var mnemonic = "elite major bicycle under onion reason bomb trial blossom aunt more wing";
+var mnemonic = "concert marriage tourist trick custom case robot hybrid embody about oppose crater";

@@ -1,1 +1,1 @@
-var mnemonic = "badge news believe glare wedding life space double fat act level hub";
+var mnemonic = "uniform custom legal huge edge island print output random remove soul six";

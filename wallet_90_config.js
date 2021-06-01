@@ -1,1 +1,1 @@
-var mnemonic = "pluck abstract crunch judge first actual pizza child foam sun brass egg";
+var mnemonic = "orient whisper mother mutual real often marriage caution student fever replace crystal";

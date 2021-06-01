@@ -1,1 +1,1 @@
-var mnemonic = "region guitar weekend crack bundle swing moon smile common section arm record";
+var mnemonic = "alley please ski grain silver cat shine coffee dizzy midnight snap humor";

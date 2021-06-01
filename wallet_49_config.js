@@ -1,1 +1,1 @@
-var mnemonic = "cancel skull barrel display under era artist spread spring memory tuna finish";
+var mnemonic = "crash win era latin pink faint rug asset shrimp gallery then lawn";

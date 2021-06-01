@@ -1,1 +1,1 @@
-var mnemonic = "level display husband ostrich what pause strike scrap bargain benefit gap swear";
+var mnemonic = "fantasy base joy ranch achieve deposit cushion network glance north border riot";

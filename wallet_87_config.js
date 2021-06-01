@@ -1,1 +1,1 @@
-var mnemonic = "drift fortune aim rubber review chicken plastic year reduce marble animal ordinary";
+var mnemonic = "reopen have now lobster only device faculty gravity evidence lyrics combine harbor";

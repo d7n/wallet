@@ -1,1 +1,1 @@
-var mnemonic = "wet eternal breeze next rescue kit type steel remove dynamic slam exit";
+var mnemonic = "define food weapon neither fish weasel describe exhibit quit laundry tortoise cloth";

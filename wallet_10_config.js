@@ -1,1 +1,1 @@
-var mnemonic = "shed scissors paddle puppy north deal prepare patient sleep afford outside connect";
+var mnemonic = "casual melody leader bacon rail clutch kitten guess shaft result bulb audit";

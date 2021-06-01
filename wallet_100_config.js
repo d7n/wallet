@@ -1,1 +1,1 @@
-var mnemonic = "rule apology elegant sweet next proud sand volume frequent time achieve phrase";
+var mnemonic = "number already remind frost column stick hen attack panic word volcano disagree";

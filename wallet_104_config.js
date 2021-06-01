@@ -1,1 +1,1 @@
-var mnemonic = "dream benefit brother clump upgrade poem mask angle moment stage topple exile";
+var mnemonic = "today syrup maximum meat lizard fall spatial stomach borrow armed rookie scrub";

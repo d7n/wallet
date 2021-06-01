@@ -1,1 +1,1 @@
-var mnemonic = "faith know erupt employ vintage hour harvest among rocket core romance exhaust";
+var mnemonic = "become illness point sun trash nerve april tortoise measure must fatigue magnet";

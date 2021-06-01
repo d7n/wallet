@@ -1,1 +1,1 @@
-var mnemonic = "acquire once slice exile cloud nasty good cinnamon subway camp token pig";
+var mnemonic = "hip nominee they symbol gather beach update candy tackle observe bronze sun";

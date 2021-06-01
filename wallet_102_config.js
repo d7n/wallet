@@ -1,1 +1,1 @@
-var mnemonic = "argue magic laugh useless trial measure lecture settle wire jaguar insect tenant";
+var mnemonic = "hammer pistol live nominee bless blast rude lunar hurt twin table exercise";

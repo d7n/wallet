@@ -1,1 +1,1 @@
-var mnemonic = "mention smoke olympic shrug type negative whisper negative obey mirror spirit paper";
+var mnemonic = "shoulder flame tunnel they energy occur lecture accuse craft ripple tired tail";

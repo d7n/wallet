@@ -1,1 +1,1 @@
-var mnemonic = "sail false govern bean coin hen affair nose coin little undo custom";
+var mnemonic = "shadow execute budget dress tomorrow embark bracket oxygen ball blue ramp syrup";

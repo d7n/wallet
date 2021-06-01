@@ -1,1 +1,1 @@
-var mnemonic = "now science shiver bounce impulse margin lizard alley pistol library scrub arctic";
+var mnemonic = "robot upper shield helmet cannon harsh letter girl lion panther floor lend";

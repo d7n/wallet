@@ -1,1 +1,1 @@
-var mnemonic = "maid beach envelope frozen liar custom teach clap token cute noble genre";
+var mnemonic = "curious chest clump install problem dynamic ribbon extend save foster between unusual";

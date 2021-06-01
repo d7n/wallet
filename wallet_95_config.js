@@ -1,1 +1,1 @@
-var mnemonic = "achieve island tiny chronic praise matter jewel rich tag nation blast soldier";
+var mnemonic = "clean spy express victory truth record gloom only agent blush laptop update";

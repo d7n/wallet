@@ -1,1 +1,1 @@
-var mnemonic = "urge blossom access cable mouse file pass seek concert train lazy symbol";
+var mnemonic = "chef rural nuclear rude knife cruel kind wait robot tackle carpet nasty";

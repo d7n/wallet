@@ -1,1 +1,1 @@
-var mnemonic = "wage puppy tag middle deny invest science chapter stove shiver situate legal";
+var mnemonic = "prize filter net crack exchange sketch recipe cheese object material print hundred";

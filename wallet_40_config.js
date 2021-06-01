@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow prize sustain anxiety half banner dash dash close table phone spread";
+var mnemonic = "ghost title august dinner require coast around armed cute fragile joy rich";

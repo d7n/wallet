@@ -1,1 +1,1 @@
-var mnemonic = "snow differ base tortoise naive poet wall tag six gather dash dawn";
+var mnemonic = "stamp life execute canoe address draft always grace rice mirror describe cube";

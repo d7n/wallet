@@ -1,1 +1,1 @@
-var mnemonic = "kind armor suffer coil fringe melt brown resemble eye gloom drift question";
+var mnemonic = "kite rival equal chest settle cable sort effort viable pencil firm burst";

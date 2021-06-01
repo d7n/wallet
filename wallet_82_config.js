@@ -1,1 +1,1 @@
-var mnemonic = "awesome banner amount advance sock history couple tennis soon upper hover present";
+var mnemonic = "breeze execute say address adapt warfare awful business seminar buffalo nice flash";

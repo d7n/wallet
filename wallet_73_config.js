@@ -1,1 +1,1 @@
-var mnemonic = "jacket frequent bus member few insane model fortune apology like certain planet";
+var mnemonic = "six shoot garment nice tag hello damp morning kitchen wrap tower public";

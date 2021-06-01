@@ -1,1 +1,1 @@
-var mnemonic = "ripple quarter level spirit lyrics regular mention science apart quote pencil saddle";
+var mnemonic = "purchase media suit bleak prefer vague horn sort erode program whale bone";

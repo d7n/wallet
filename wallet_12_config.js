@@ -1,1 +1,1 @@
-var mnemonic = "electric novel nerve brush deer cricket chuckle test glide forget fat pioneer";
+var mnemonic = "history genre visit salute hungry fog sphere bunker flower expand meadow clerk";

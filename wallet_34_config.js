@@ -1,1 +1,1 @@
-var mnemonic = "program access juice cross viable body shadow chef bless pact spring twice";
+var mnemonic = "file enemy board rice ozone vicious clinic shield copy mimic chat any";

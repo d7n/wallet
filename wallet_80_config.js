@@ -1,1 +1,1 @@
-var mnemonic = "topple valley tag dance frozen slab tuna wool swallow sport sauce lend";
+var mnemonic = "age swim oven seed empty hedgehog inside boat general sense drum toe";

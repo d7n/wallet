@@ -1,1 +1,1 @@
-var mnemonic = "grace office mind fuel heavy wonder drift pupil bicycle waste differ exhaust";
+var mnemonic = "title office impulse accuse undo pond lucky measure toe fever kitchen abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "spot kitchen wonder alone dream unusual museum chef mix wealth demand giraffe";
+var mnemonic = "much brief know anger since butter apology sphere ahead huge media lift";

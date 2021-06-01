@@ -1,1 +1,1 @@
-var mnemonic = "coffee stone pigeon mixture pole dash harvest pond document salon weasel silly";
+var mnemonic = "wear race hedgehog powder bleak injury chase include easily wage shallow meat";

@@ -1,1 +1,1 @@
-var mnemonic = "lava panther above velvet author outdoor oblige wear celery scorpion parent predict";
+var mnemonic = "robust tongue amount usual reveal coyote token parade indicate ignore fish crisp";

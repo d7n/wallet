@@ -1,1 +1,1 @@
-var mnemonic = "damp portion enjoy brain maze bargain cook fragile fence kind salon shallow";
+var mnemonic = "country treat dream liar tower sausage youth beyond brick marble diet join";

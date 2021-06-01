@@ -1,1 +1,1 @@
-var mnemonic = "idle wrestle already good mutual version ball alone quit empower grit method";
+var mnemonic = "fitness enough smoke casino uphold toy blouse repeat convince whisper tornado air";

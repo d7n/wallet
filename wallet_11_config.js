@@ -1,1 +1,1 @@
-var mnemonic = "beauty fossil afford shuffle advice cart dust indoor cause sister onion beauty";
+var mnemonic = "layer legal add people slot siren dash razor predict raise devote forward";

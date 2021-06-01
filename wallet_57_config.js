@@ -1,1 +1,1 @@
-var mnemonic = "flame butter wrap blind that yellow citizen glue polar original celery explain";
+var mnemonic = "document weasel cry amused loud crumble matter chest submit praise jacket neutral";

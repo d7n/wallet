@@ -1,1 +1,1 @@
-var mnemonic = "dance bulk vessel run salt mirror drift initial hub forget luxury motor";
+var mnemonic = "broccoli wage where trim obtain proof luxury spatial scale leave tonight turkey";

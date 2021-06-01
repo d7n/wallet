@@ -1,1 +1,1 @@
-var mnemonic = "bus salute scheme section play swap jeans trick remove cousin acoustic size";
+var mnemonic = "pride jar pyramid day double bean critic arch bar hard dress weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "dog spirit chicken spoon will pattern belt south rival harsh equal reflect";
+var mnemonic = "fork field rent walnut run group tank pilot victory claim easily arrest";

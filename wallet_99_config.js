@@ -1,1 +1,1 @@
-var mnemonic = "soft journey isolate oyster pilot crumble artefact useful surge million alien squeeze";
+var mnemonic = "dirt coin stick evidence hood input creek foot blast happy clown cereal";

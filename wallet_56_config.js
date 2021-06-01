@@ -1,1 +1,1 @@
-var mnemonic = "concert soldier camera skin tackle dune confirm keep boat parent again sniff";
+var mnemonic = "vehicle bus satoshi body say bunker uphold liberty friend enjoy pave hard";

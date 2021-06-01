@@ -1,1 +1,1 @@
-var mnemonic = "tackle target open tennis thing egg lesson ready axis endorse clarify jungle";
+var mnemonic = "person faint spice drift melt unique elder butter live trim blush fossil";

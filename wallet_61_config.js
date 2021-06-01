@@ -1,1 +1,1 @@
-var mnemonic = "float project maple analyst renew expect bar foster insane cream super glad";
+var mnemonic = "appear pattern brief bar plastic old bridge creek express make cage defense";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk raven warfare glide fresh broccoli response apart spin picnic convince middle";
+var mnemonic = "jazz devote coral rigid swallow spice diagram twelve void auction coil urge";

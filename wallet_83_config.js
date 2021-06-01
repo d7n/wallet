@@ -1,1 +1,1 @@
-var mnemonic = "load champion kiss discover cloth oak this category piece kind ship water";
+var mnemonic = "deer crunch ski hair giant author hard trust hold mansion thank hub";

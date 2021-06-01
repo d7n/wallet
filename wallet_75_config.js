@@ -1,1 +1,1 @@
-var mnemonic = "gift rug dream area ordinary chase water only news tornado foot crystal";
+var mnemonic = "ladder salt vault holiday hockey obtain shrimp involve infant reunion trumpet will";

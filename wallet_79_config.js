@@ -1,1 +1,1 @@
-var mnemonic = "lady check host execute excuse urban panther matrix absorb real bike upset";
+var mnemonic = "valve control stand disagree tennis head wing effort pool ripple number pledge";

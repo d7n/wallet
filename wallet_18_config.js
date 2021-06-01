@@ -1,1 +1,1 @@
-var mnemonic = "gloom else crisp midnight broccoli bag ankle game theme mother search educate";
+var mnemonic = "horn timber cactus fade buffalo nature crane era catch predict slice prepare";

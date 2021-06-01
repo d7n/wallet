@@ -1,1 +1,1 @@
-var mnemonic = "upper symptom collect pretty enlist onion three knife convince margin myth share";
+var mnemonic = "joke earth arrow lemon spring document ready arm away image above alley";

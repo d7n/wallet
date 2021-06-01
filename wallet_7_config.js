@@ -1,1 +1,1 @@
-var mnemonic = "potato final census custom history silk immense oblige own picnic shy embrace";
+var mnemonic = "ordinary urge sting bounce only grain state connect child prize oyster trophy";

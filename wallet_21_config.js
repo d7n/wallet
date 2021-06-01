@@ -1,1 +1,1 @@
-var mnemonic = "small method loan either today garment foam main inmate page undo club";
+var mnemonic = "trophy choice fish direct bless glue fat spawn bacon allow purse corn";

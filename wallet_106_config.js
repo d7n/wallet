@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ginger vault fuel display portion phrase dizzy industry silent fantasy deputy";
+var mnemonic = "bulk analyst weapon attract vague equal require crouch license sure clinic glow";

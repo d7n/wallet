@@ -1,1 +1,1 @@
-var mnemonic = "ignore find other success ordinary they nice siege drive parade refuse bulk";
+var mnemonic = "organ volume summer beef scene humble boil harbor round impact observe mosquito";

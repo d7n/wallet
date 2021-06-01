@@ -1,1 +1,1 @@
-var mnemonic = "reject insect cannon evidence inspire scrub olive chat usual funny tuition federal";
+var mnemonic = "route nominee atom auction pool power eye artist raven middle six carry";

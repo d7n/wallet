@@ -1,1 +1,1 @@
-var mnemonic = "profit juice head hotel february company elite maze book pink sand cycle";
+var mnemonic = "borrow stock bike hidden female wild hour cloud corn confirm pond tourist";

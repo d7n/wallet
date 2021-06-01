@@ -1,1 +1,1 @@
-var mnemonic = "wash hello sense flag ring luxury document panic isolate mom scrap cube";
+var mnemonic = "cupboard crop dune mass enforce winner syrup couch alien reveal object morning";

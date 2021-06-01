@@ -1,1 +1,1 @@
-var mnemonic = "neutral great dismiss plate slush erode unfold recycle strong category often rather";
+var mnemonic = "feed balcony cousin blood festival lamp clinic never return just sorry host";

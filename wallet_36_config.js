@@ -1,1 +1,1 @@
-var mnemonic = "symptom shield popular rhythm clip alcohol bike uncle gas asthma renew express";
+var mnemonic = "robot bridge disorder behind verify nation grid suggest nothing emerge flash chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "rude ten endless axis build panther harsh age morning wheel marble east";
+var mnemonic = "enact utility inmate rare trumpet inhale cabbage snake dream winter clever route";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol true possible green project fan truck priority clerk coconut file decide";
+var mnemonic = "inch clerk pill panther credit blanket rebel real fit wild neglect scorpion";

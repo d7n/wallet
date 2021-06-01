@@ -1,1 +1,1 @@
-var mnemonic = "movie orange mobile thunder gun abuse village harsh awkward someone cover uphold";
+var mnemonic = "remain thunder arena moral skull ribbon fluid owner luggage lift tail rookie";

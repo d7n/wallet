@@ -1,1 +1,1 @@
-var mnemonic = "author valid become kitten dance roof smoke husband wire science convince daughter";
+var mnemonic = "box attitude swarm frozen help bring smile okay cash acoustic bracket slam";

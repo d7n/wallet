@@ -1,1 +1,1 @@
-var mnemonic = "border gadget job verify mandate swamp kind flame uncle fit mom invest";
+var mnemonic = "civil torch reopen antenna deal curtain million force media bachelor rifle novel";

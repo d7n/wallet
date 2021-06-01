@@ -1,1 +1,1 @@
-var mnemonic = "portion wool arrow stairs pole recipe aspect assault wish outside better fork";
+var mnemonic = "sleep rice olive brother more symbol brush clap october embody tragic sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "alone curtain float seek wolf word become pupil expire dizzy update object";
+var mnemonic = "menu soldier dog claw truck cup toward vague sure disagree season salt";

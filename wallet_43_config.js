@@ -1,1 +1,1 @@
-var mnemonic = "globe walnut swarm exist hawk vendor busy glimpse buzz margin author movie";
+var mnemonic = "until two suit goddess almost power eyebrow behave never adapt tomato crime";

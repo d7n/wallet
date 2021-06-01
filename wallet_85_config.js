@@ -1,1 +1,1 @@
-var mnemonic = "language example script clap estate doctor dial twist search ribbon expose library";
+var mnemonic = "timber task pitch speed drip radar iron misery ask garage library tray";

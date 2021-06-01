@@ -1,1 +1,1 @@
-var mnemonic = "hire crowd absorb danger shift screen motion source please shoulder meat talent";
+var mnemonic = "emotion tone globe envelope decorate mother reveal primary author caution faculty purity";

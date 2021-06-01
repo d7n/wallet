@@ -1,1 +1,1 @@
-var mnemonic = "visit unknown oven industry account permit receive eight limb exist before wish";
+var mnemonic = "problem glide cart gossip section east bid cruel finger kiss ginger legend";

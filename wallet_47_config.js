@@ -1,1 +1,1 @@
-var mnemonic = "uncover bid tumble maximum hunt minimum remind avoid party rural leader trim";
+var mnemonic = "ketchup ordinary resist scale crowd cover chief book force toilet curve motion";

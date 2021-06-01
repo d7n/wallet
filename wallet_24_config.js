@@ -1,1 +1,1 @@
-var mnemonic = "faculty lens find two image torch alert reward coyote couch hen liberty";
+var mnemonic = "weather sugar crew write order syrup dismiss frozen hammer parade suffer clever";

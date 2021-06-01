@@ -1,1 +1,1 @@
-var mnemonic = "item throw pencil ivory lava clean alcohol traffic sponsor gorilla exercise frog";
+var mnemonic = "brass army grab prize monkey select butter left doctor knife identify able";

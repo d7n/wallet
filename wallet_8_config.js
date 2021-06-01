@@ -1,1 +1,1 @@
-var mnemonic = "lion quarter half rapid garlic language kangaroo turtle jealous rough certain chicken";
+var mnemonic = "hollow veteran hair green aim capital box blame order vicious gloom gold";
