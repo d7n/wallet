@@ -1,1 +1,1 @@
-var mnemonic = "tone craft fine battle grid patch sword rookie record next ridge hollow";
+var mnemonic = "start head shock evidence drastic mountain smile funny winter chunk deputy budget";

@@ -1,1 +1,1 @@
-var mnemonic = "icon gravity service together athlete wreck capable awake thrive axis spy erase";
+var mnemonic = "broken dry marine maple game soul lemon slogan cricket identify phrase pole";

@@ -1,1 +1,1 @@
-var mnemonic = "corn tail valve observe table true gather crater height orange shoulder bleak";
+var mnemonic = "topple exhibit rural fetch float elder best trophy erupt trouble stay rare";

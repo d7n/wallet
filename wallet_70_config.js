@@ -1,1 +1,1 @@
-var mnemonic = "ill tuna doll luggage found sick sleep planet echo material street zone";
+var mnemonic = "long december survey call able notice depth can boring habit piano impact";

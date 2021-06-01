@@ -1,1 +1,1 @@
-var mnemonic = "steak wealth strike fox disease basic match regret team list valley steel";
+var mnemonic = "omit craft notable first pledge ribbon surge spike theory like palm rally";

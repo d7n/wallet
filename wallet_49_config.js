@@ -1,1 +1,1 @@
-var mnemonic = "olive ginger plate reveal measure volume settle spike bullet radio regret expose";
+var mnemonic = "few athlete quantum spider collect grow swear soda drama evoke entry science";

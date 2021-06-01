@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow stumble borrow blue water raccoon enroll split avocado ramp card grid";
+var mnemonic = "cable involve sample lake clean attract economy family inherit able demand step";

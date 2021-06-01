@@ -1,1 +1,1 @@
-var mnemonic = "pink swarm unknown raise kiwi cool crouch spend fat idea ten cause";
+var mnemonic = "tuna oxygen timber town model shy auction wash twist gain soccer veteran";

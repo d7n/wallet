@@ -1,1 +1,1 @@
-var mnemonic = "embrace credit exit debate square pull best stick pipe fresh random inquiry";
+var mnemonic = "chief sell artwork sight napkin enrich ecology garden arrange blush nasty owner";

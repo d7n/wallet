@@ -1,1 +1,1 @@
-var mnemonic = "disagree federal index calm woman usual hurry end route flush crowd coyote";
+var mnemonic = "doctor arch breeze tuna usual game spray embody pony beef time pair";

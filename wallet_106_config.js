@@ -1,1 +1,1 @@
-var mnemonic = "very sausage job genre guitar stem thumb ghost adjust amount coyote egg";
+var mnemonic = "hurt master drift special denial boost total human control velvet brisk outside";

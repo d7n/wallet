@@ -1,1 +1,1 @@
-var mnemonic = "february pretty atom grid doctor buzz gloom tuition type final behave keep";
+var mnemonic = "armed island exercise sweet like claw write zebra clutch clean type indoor";

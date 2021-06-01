@@ -1,1 +1,1 @@
-var mnemonic = "top stool farm unaware dragon hurry report genius tackle exotic gesture ripple";
+var mnemonic = "ability urban approve gift advance fade verify script deposit bring eagle aerobic";

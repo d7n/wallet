@@ -1,1 +1,1 @@
-var mnemonic = "palm bunker kiss fiber sibling never boil injury feel jacket camp deny";
+var mnemonic = "flame auto happy guide chimney voyage abuse nice resist diesel link angry";

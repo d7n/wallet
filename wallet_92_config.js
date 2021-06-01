@@ -1,1 +1,1 @@
-var mnemonic = "window february donate habit merry winter chair above level churn civil gather";
+var mnemonic = "aisle sail stool slow keen boost since remind switch october view leg";

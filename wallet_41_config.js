@@ -1,1 +1,1 @@
-var mnemonic = "warm saddle crystal boring scorpion rocket immune symbol electric doll tiny cupboard";
+var mnemonic = "acid anchor life define absent weird all hedgehog apology danger raise dust";

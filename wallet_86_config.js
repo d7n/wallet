@@ -1,1 +1,1 @@
-var mnemonic = "return image pumpkin envelope bitter salmon daughter check eight diamond rigid suspect";
+var mnemonic = "paper toss multiply fish nasty that cake rate material muscle disagree there";

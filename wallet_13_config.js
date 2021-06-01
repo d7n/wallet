@@ -1,1 +1,1 @@
-var mnemonic = "fork piano neither mirror two educate essence under pizza much trust novel";
+var mnemonic = "give jaguar strategy supreme exotic sport safe deny cycle tooth faith thumb";

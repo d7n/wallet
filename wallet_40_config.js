@@ -1,1 +1,1 @@
-var mnemonic = "suggest agree patch night crush genius captain ribbon impulse mask random cross";
+var mnemonic = "discover duck shock lunch report afraid outdoor rather lecture side remove puzzle";

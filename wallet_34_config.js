@@ -1,1 +1,1 @@
-var mnemonic = "fix expire during eye year domain great party axis gentle easily forest";
+var mnemonic = "upgrade typical battle mansion noise atom maple pigeon rug echo machine sample";

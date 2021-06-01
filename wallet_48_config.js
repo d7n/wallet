@@ -1,1 +1,1 @@
-var mnemonic = "chef toss behave ethics sadness twice vendor submit evoke setup penalty crater";
+var mnemonic = "design acoustic circle slice dwarf cry critic shoe truth spy cross satisfy";

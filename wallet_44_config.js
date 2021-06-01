@@ -1,1 +1,1 @@
-var mnemonic = "ranch marble exile soccer start merge purity camp exclude always evidence solve";
+var mnemonic = "ahead dove meadow elephant surface ritual chapter cry soda talent salt level";

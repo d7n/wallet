@@ -1,1 +1,1 @@
-var mnemonic = "slide edit luggage fossil home honey envelope sword trophy stumble decide night";
+var mnemonic = "carpet tip oak miracle vintage circle glance celery segment front twist deal";

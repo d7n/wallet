@@ -1,1 +1,1 @@
-var mnemonic = "axis home lounge achieve horse grass job husband type sheriff spin jaguar";
+var mnemonic = "sponsor onion couple pig puppy flag analyst rubber riot company pill estate";

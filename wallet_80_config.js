@@ -1,1 +1,1 @@
-var mnemonic = "increase lyrics unhappy wheat isolate bind hurt reward say devote zoo defense";
+var mnemonic = "embrace much tube promote submit time card mom future stairs undo shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage tape matrix bargain behave gravity odor rent panel suit better sheriff";
+var mnemonic = "deer elegant table humble water correct either route impact volume nurse rely";

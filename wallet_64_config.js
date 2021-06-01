@@ -1,1 +1,1 @@
-var mnemonic = "very piece inside luggage multiply cloud sea verb cost cabin boil field";
+var mnemonic = "rely color tunnel carry fault arrive power genre result celery under mansion";

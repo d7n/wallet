@@ -1,1 +1,1 @@
-var mnemonic = "joke bullet shrug finger shift category initial receive wrong gift pony verify";
+var mnemonic = "hole hello echo spot finger bless boat donkey stock near bridge coconut";

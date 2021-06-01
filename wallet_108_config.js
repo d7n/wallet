@@ -1,1 +1,1 @@
-var mnemonic = "knock cabin voice shrug execute female hint fame float vibrant ship brief";
+var mnemonic = "fiction vacant pride merry discover unhappy column identify sail knee learn siege";

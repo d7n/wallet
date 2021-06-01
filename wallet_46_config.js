@@ -1,1 +1,1 @@
-var mnemonic = "leopard liquid wasp lunar intact burden cover slide glide task relax regret";
+var mnemonic = "riot judge drink dose humble thunder nest afford connect black fluid certain";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb sunset supreme jungle column tackle radio goddess forward expose sell liberty";
+var mnemonic = "axis plug uncle hand tennis scan shiver battle first odor steel maximum";

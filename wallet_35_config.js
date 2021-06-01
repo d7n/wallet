@@ -1,1 +1,1 @@
-var mnemonic = "tower acid shuffle arrow shine alley struggle build claim canal glimpse erase";
+var mnemonic = "accuse language wait retreat merge clown proof mango squirrel easily endless please";

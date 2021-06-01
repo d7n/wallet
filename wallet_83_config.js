@@ -1,1 +1,1 @@
-var mnemonic = "library exercise panda person glance have vehicle math tip reunion favorite nut";
+var mnemonic = "cruise pair exhaust dynamic evolve joy enable snack owner place share evil";

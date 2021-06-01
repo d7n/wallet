@@ -1,1 +1,1 @@
-var mnemonic = "slogan cheap attitude envelope cook guilt dry pool finish because solution patient";
+var mnemonic = "cost census lecture pen lawn segment kind town have napkin spell pioneer";

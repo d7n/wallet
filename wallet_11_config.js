@@ -1,1 +1,1 @@
-var mnemonic = "social roof door comic problem enemy ivory problem recycle swear camera advice";
+var mnemonic = "copper segment order sauce element taste forget lab increase stuff raven ancient";

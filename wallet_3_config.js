@@ -1,1 +1,1 @@
-var mnemonic = "must tool try police galaxy accident panda drip belt daughter boring fatal";
+var mnemonic = "loop tribe buzz bid crucial settle walnut army engage burger soul refuse";

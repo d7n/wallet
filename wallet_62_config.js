@@ -1,1 +1,1 @@
-var mnemonic = "vague jealous rug vivid mean talk shove flush water column supreme artist";
+var mnemonic = "eye rate goat gas hamster write begin apple record verify scrub element";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra oven great plug story wisdom earn flip taste actual merry enter";
+var mnemonic = "mountain slab check reunion evidence sponsor strike ghost normal east wonder paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf field learn trend produce must because eternal tell put pause sign";
+var mnemonic = "immense drift aunt grid power thing effort drop wet meat double dance";

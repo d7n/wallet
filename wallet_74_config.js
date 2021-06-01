@@ -1,1 +1,1 @@
-var mnemonic = "inspire good alpha treat shoot shell doll section victory bonus rude item";
+var mnemonic = "draw snow wire margin swear trust steak truck artist spring maximum fiscal";

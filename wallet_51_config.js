@@ -1,1 +1,1 @@
-var mnemonic = "miracle blouse holiday way scorpion flush extend verify museum morning burden load";
+var mnemonic = "dilemma absent orient tomorrow diet gym cabin march match medal window trophy";

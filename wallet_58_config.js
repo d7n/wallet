@@ -1,1 +1,1 @@
-var mnemonic = "figure lunar deputy mistake paddle segment cotton end reward repair tongue once";
+var mnemonic = "muscle help vanish chair access eagle rely excite promote confirm culture elevator";

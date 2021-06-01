@@ -1,1 +1,1 @@
-var mnemonic = "this sword nuclear useless super cinnamon actual struggle noise range inquiry inherit";
+var mnemonic = "kid problem cactus infant fortune insect eyebrow token mandate enhance dignity promote";

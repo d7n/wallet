@@ -1,1 +1,1 @@
-var mnemonic = "velvet code oven wear comfort chapter sister decline multiply awful style simple";
+var mnemonic = "reform whisper awesome tell night act butter hand response brisk jaguar rabbit";

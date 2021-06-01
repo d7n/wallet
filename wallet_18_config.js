@@ -1,1 +1,1 @@
-var mnemonic = "solid minute present floor short ability enter staff sock unit harbor whale";
+var mnemonic = "cry grant awake mystery tomato foil guitar among merry awful history text";

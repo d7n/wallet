@@ -1,1 +1,1 @@
-var mnemonic = "stumble borrow bomb various high page nothing puzzle hat prison area same";
+var mnemonic = "opera retreat select click ugly spot endless very avocado maple away stool";

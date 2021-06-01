@@ -1,1 +1,1 @@
-var mnemonic = "divide vivid coral goat cupboard icon expand audit cook say drama slim";
+var mnemonic = "unable cloth hammer april base series bean miracle side kind rabbit brother";

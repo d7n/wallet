@@ -1,1 +1,1 @@
-var mnemonic = "certain retreat best differ level winner bottom easy vivid swing own team";
+var mnemonic = "any step alert alley surge fancy poem basic chicken feature snake claw";

@@ -1,1 +1,1 @@
-var mnemonic = "undo hat ring rose absurd process trap thumb cable beauty basket clutch";
+var mnemonic = "bacon stem dish pen autumn holiday fold bus jungle where render parent";

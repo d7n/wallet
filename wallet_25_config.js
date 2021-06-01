@@ -1,1 +1,1 @@
-var mnemonic = "tape author muffin goose neutral recycle can reveal leader destroy brisk little";
+var mnemonic = "blush trend wet slender balcony parent emerge trigger organ ethics execute thank";

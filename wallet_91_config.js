@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fog merge bread rescue lab fee brain forward hollow pond kiwi";
+var mnemonic = "sword fantasy silent weasel grain intact post kitten tilt dune material genuine";

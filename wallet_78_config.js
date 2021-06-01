@@ -1,1 +1,1 @@
-var mnemonic = "fabric humor kitchen escape horse raven prefer miss mule attitude silly egg";
+var mnemonic = "excess digital ceiling hollow beef open wear pretty unusual velvet sense nephew";

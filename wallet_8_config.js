@@ -1,1 +1,1 @@
-var mnemonic = "grid define replace choose cave medal blouse bring course answer eyebrow chalk";
+var mnemonic = "flame food garden bullet lonely detect cinnamon stumble unusual repeat crash misery";

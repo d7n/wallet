@@ -1,1 +1,1 @@
-var mnemonic = "service clay copy hamster enlist genuine any print other category siren lobster";
+var mnemonic = "view sock crouch still luggage gadget crystal cloth sad neck color fancy";

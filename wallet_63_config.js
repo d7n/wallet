@@ -1,1 +1,1 @@
-var mnemonic = "trash audit quick loop shock baby fault course butter gown just soccer";
+var mnemonic = "door input spin pigeon flat inform south pledge like usage bread hobby";

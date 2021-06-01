@@ -1,1 +1,1 @@
-var mnemonic = "imitate artefact dash grace liar convince reflect lecture galaxy spread spice chat";
+var mnemonic = "usual snap garment menu flock embrace bracket race pave ensure swamp couple";

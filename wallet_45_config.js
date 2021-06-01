@@ -1,1 +1,1 @@
-var mnemonic = "cancel shoulder another elbow trust organ hint armed then volume vacant trouble";
+var mnemonic = "repair tide panther imitate day symbol carpet sense mom point debris baby";

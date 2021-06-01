@@ -1,1 +1,1 @@
-var mnemonic = "fit raven tooth subject coconut nice lens unusual wisdom car hill panda";
+var mnemonic = "grid hotel struggle wife drip injury kiwi run erase odor perfect churn";

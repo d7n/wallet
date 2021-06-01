@@ -1,1 +1,1 @@
-var mnemonic = "poem pumpkin pony high imitate rich gather bread primary matter cool series";
+var mnemonic = "parrot weekend yellow frown fish patch carry must letter donor garlic steak";

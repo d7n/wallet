@@ -1,1 +1,1 @@
-var mnemonic = "before method nephew luggage swing glance endorse identify lake column robot climb";
+var mnemonic = "noise demise tissue pull year embody retreat alien tiny chair churn athlete";

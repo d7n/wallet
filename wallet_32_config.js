@@ -1,1 +1,1 @@
-var mnemonic = "wall worry either promote comic loyal obey arrive melt wall hat birth";
+var mnemonic = "glow wall delay sustain banner foam curve pyramid inspire pool old spare";

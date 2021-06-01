@@ -1,1 +1,1 @@
-var mnemonic = "orphan goose position trade current nasty such jeans noise text faint pony";
+var mnemonic = "siren toward elevator firm tuna enter cost throw bubble left fire carry";

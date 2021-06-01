@@ -1,1 +1,1 @@
-var mnemonic = "still later valid try elevator asthma electric south ring ill bike foam";
+var mnemonic = "tourist undo amount foil subject carry melody practice jungle century address dog";

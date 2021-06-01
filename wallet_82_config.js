@@ -1,1 +1,1 @@
-var mnemonic = "worth happy weapon hen erase symptom manage creek alcohol total one fat";
+var mnemonic = "topple rookie wine glue expect stamp leopard uphold tennis coast year panic";

@@ -1,1 +1,1 @@
-var mnemonic = "term describe educate domain hawk praise hospital runway own day display machine";
+var mnemonic = "palace wagon fiber arm grief cool champion claw point inflict chunk fall";

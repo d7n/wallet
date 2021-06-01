@@ -1,1 +1,1 @@
-var mnemonic = "sweet witness output satisfy coffee shell deal kit share year random boil";
+var mnemonic = "cross kind fantasy arrest observe educate skull syrup aisle neutral giggle random";

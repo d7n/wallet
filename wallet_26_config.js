@@ -1,1 +1,1 @@
-var mnemonic = "tornado arm silent mutual maximum into physical tower rifle evil cancel unknown";
+var mnemonic = "light wolf scan capital novel test chair fine sport pole offer motion";

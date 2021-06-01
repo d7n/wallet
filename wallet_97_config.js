@@ -1,1 +1,1 @@
-var mnemonic = "nuclear doctor table earth destroy dwarf gravity method dry harvest over alpha";
+var mnemonic = "short return cattle acid nice arch reopen brown senior shallow intact sentence";

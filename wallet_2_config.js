@@ -1,1 +1,1 @@
-var mnemonic = "elephant fruit tomato remember consider angle middle proof travel crawl sunny purse";
+var mnemonic = "ribbon jaguar useless fence guilt agree sibling call fever dignity charge what";

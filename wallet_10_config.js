@@ -1,1 +1,1 @@
-var mnemonic = "belt august razor slush ceiling piano orchard input gift hurry march excuse";
+var mnemonic = "river dad clump venture sample shell say hip furnace cloud atom hundred";

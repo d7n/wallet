@@ -1,1 +1,1 @@
-var mnemonic = "garbage law slender divide famous piano host rhythm potato december mountain matter";
+var mnemonic = "mad because squirrel hint employ child speak warrior people banner error unknown";

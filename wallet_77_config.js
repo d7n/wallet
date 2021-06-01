@@ -1,1 +1,1 @@
-var mnemonic = "beauty mandate neither oblige shock solution powder impose hammer earn inject pilot";
+var mnemonic = "beef right mother blame physical steel pride doll project fiction ride second";

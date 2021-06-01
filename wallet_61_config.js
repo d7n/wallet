@@ -1,1 +1,1 @@
-var mnemonic = "half balcony burst any pilot hundred code claw fantasy clump leg clerk";
+var mnemonic = "chief common all history minimum bonus coin boss smile what alter forward";

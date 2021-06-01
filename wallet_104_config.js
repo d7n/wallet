@@ -1,1 +1,1 @@
-var mnemonic = "virtual age dragon inch job bread check recall glue season come search";
+var mnemonic = "average girl exercise visa mix uncover submit purse cradle neck appear domain";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden duty polar violin agree dinosaur rather volcano lamp ice pig regular";
+var mnemonic = "destroy uphold scorpion school pass giraffe trouble picnic hire midnight talent piano";

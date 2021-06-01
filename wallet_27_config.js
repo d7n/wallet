@@ -1,1 +1,1 @@
-var mnemonic = "leave tower exile ring what model market antique cram hold indoor breeze";
+var mnemonic = "rent pencil speak abandon assume pattern company february general muscle menu choice";

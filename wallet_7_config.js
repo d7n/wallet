@@ -1,1 +1,1 @@
-var mnemonic = "please area remember scrap planet loan market spawn barely flavor sugar roast";
+var mnemonic = "sight box fade ankle detect rude swarm roof desk desk giraffe ridge";

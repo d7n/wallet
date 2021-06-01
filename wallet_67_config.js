@@ -1,1 +1,1 @@
-var mnemonic = "athlete flat actress bounce hello ship aware erupt title give discover people";
+var mnemonic = "glove they skull smile laugh guard effort fall group office fatal ivory";

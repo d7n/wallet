@@ -1,1 +1,1 @@
-var mnemonic = "gold analyst cabin kiwi sock oppose delay warfare come indoor turn offer";
+var mnemonic = "enough tonight range order decade subway orchard glide debate intact adjust barely";

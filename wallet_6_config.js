@@ -1,1 +1,1 @@
-var mnemonic = "drive immense valley arrive entire hope stool large verify short budget wolf";
+var mnemonic = "senior force waste latin twelve cabbage swift venture refuse knee also typical";

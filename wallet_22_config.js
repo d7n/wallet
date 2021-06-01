@@ -1,1 +1,1 @@
-var mnemonic = "very open visual perfect hover ski dog debris clip act girl switch";
+var mnemonic = "foster tiger blade outdoor unknown glory game crater friend vibrant fine brother";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow order grunt balcony rhythm marine frequent surface hill enjoy volcano mind";
+var mnemonic = "sentence must arrest derive horror match room joke leisure thing food chief";

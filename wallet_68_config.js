@@ -1,1 +1,1 @@
-var mnemonic = "clinic camp code identify cancel cliff gift excuse evil fury hybrid goat";
+var mnemonic = "hope ramp main phrase knock project about balance project ivory shoulder pattern";

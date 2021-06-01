@@ -1,1 +1,1 @@
-var mnemonic = "grass farm achieve mention predict thing web case desert vocal length crowd";
+var mnemonic = "dance video gift electric width off stick gift enforce toward cliff chapter";

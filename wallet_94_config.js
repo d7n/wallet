@@ -1,1 +1,1 @@
-var mnemonic = "horror quick prison world extra best square solar squirrel fix cycle depth";
+var mnemonic = "crush goddess enlist scissors flee boy helmet toe girl father flame defense";

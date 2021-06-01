@@ -1,1 +1,1 @@
-var mnemonic = "ozone pumpkin forum front slight priority advice bacon capable sport avoid valley";
+var mnemonic = "wrong patrol live ill faint cupboard divorce blanket feed track runway file";

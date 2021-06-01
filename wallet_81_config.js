@@ -1,1 +1,1 @@
-var mnemonic = "clutch sunset define must acid return engage wrap nerve index oil alter";
+var mnemonic = "abuse age cycle oak escape hospital credit about artwork flee make engine";

@@ -1,1 +1,1 @@
-var mnemonic = "nation glide deposit hundred element celery either scrub main trim flip already";
+var mnemonic = "caution fee guitar unknown spin away sense fat range use alter room";

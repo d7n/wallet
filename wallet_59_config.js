@@ -1,1 +1,1 @@
-var mnemonic = "add poem hard food scout return review echo siege leave able same";
+var mnemonic = "scorpion crater street sword police vehicle man photo puppy merge fantasy real";

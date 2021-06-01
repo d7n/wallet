@@ -1,1 +1,1 @@
-var mnemonic = "effort punch demand stock stay leave occur rude few search promote orphan";
+var mnemonic = "priority notice pitch border hammer afford attack jelly wealth cause brush hand";

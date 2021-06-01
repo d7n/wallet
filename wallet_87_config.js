@@ -1,1 +1,1 @@
-var mnemonic = "risk loan shoot donkey flower fence amused village sugar list farm diary";
+var mnemonic = "advance idle battle fossil lens riot liquid post fiction load nerve noble";

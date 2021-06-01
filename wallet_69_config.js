@@ -1,1 +1,1 @@
-var mnemonic = "rubber orphan like state also describe north version evil crew tell hidden";
+var mnemonic = "dilemma bicycle make theory suggest flush ugly duck wave snap era below";

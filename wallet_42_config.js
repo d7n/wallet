@@ -1,1 +1,1 @@
-var mnemonic = "above elegant income blood strike cube boil accuse chicken suit hammer current";
+var mnemonic = "love pottery garden narrow mystery bullet style situate measure raise deny mix";

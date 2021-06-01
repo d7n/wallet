@@ -1,1 +1,1 @@
-var mnemonic = "just donkey frog powder rotate one wood render way vintage mystery first";
+var mnemonic = "loan heavy wage round globe arrest hungry frown spirit tennis evil ten";

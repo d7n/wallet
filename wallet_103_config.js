@@ -1,1 +1,1 @@
-var mnemonic = "load supreme walnut gas oval practice grass ill lobster lecture dream decade";
+var mnemonic = "pitch tank cheese guilt scene gloom hurdle spot kiwi sustain maze salmon";

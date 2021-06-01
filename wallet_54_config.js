@@ -1,1 +1,1 @@
-var mnemonic = "miracle stick lion palm satoshi sustain neck pupil soon supreme patient wage";
+var mnemonic = "core better drama wise canyon bar orchard moment useful giraffe age sad";

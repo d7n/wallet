@@ -1,1 +1,1 @@
-var mnemonic = "outer diary benefit toddler twelve trumpet fluid apology paper ice ignore inside";
+var mnemonic = "flight sick idea pen focus hazard false toward merry once eight swim";
