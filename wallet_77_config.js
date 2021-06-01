@@ -1,1 +1,1 @@
-var mnemonic = "crouch space merit punch bar canyon tonight logic love tattoo panic snack";
+var mnemonic = "keep heart inflict slam physical apple abstract ensure famous start type cat";

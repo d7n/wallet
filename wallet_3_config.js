@@ -1,1 +1,1 @@
-var mnemonic = "nurse surprise guess outer abuse uncover peace suggest enforce little mimic family";
+var mnemonic = "raw orange hip use cereal surprise smile magic tenant gift video task";

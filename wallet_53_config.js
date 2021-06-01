@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fire erase slide staff unfair basket village mask space immune stock";
+var mnemonic = "chase volume pride kidney matrix palm defense exclude cake recall ability agent";

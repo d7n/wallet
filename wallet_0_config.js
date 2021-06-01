@@ -1,1 +1,1 @@
-var mnemonic = "silk silver barely harbor twenty pact cattle cricket enter smile candy bless";
+var mnemonic = "gown gold inner cry inch source horn busy net mother task gather";

@@ -1,1 +1,1 @@
-var mnemonic = "release wave donkey during soda laptop kangaroo begin spike remove state machine";
+var mnemonic = "utility love average mad install other abandon rely crucial mushroom that all";

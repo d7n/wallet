@@ -1,1 +1,1 @@
-var mnemonic = "tent educate green attract useful prepare hold local clarify rent large enlist";
+var mnemonic = "discover void brief empty chaos loan enroll credit girl surprise prison shift";

@@ -1,1 +1,1 @@
-var mnemonic = "stock correct chapter jar shift kick gaze two chat human plunge tackle";
+var mnemonic = "judge reform cruise glass base auction drift fluid head poverty shift pencil";

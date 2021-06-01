@@ -1,1 +1,1 @@
-var mnemonic = "matter claim lottery decrease spice thumb state decade economy switch about address";
+var mnemonic = "satoshi trim ordinary income board deliver seat ribbon crumble guess caution remove";

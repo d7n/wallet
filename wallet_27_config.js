@@ -1,1 +1,1 @@
-var mnemonic = "cause opera lab lunar wave argue soon input risk brown immune acid";
+var mnemonic = "vault swear eye correct olive bleak minute unhappy trial machine mix quit";

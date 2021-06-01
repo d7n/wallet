@@ -1,1 +1,1 @@
-var mnemonic = "analyst shoulder wisdom pudding repeat green visit host sniff nasty defense super";
+var mnemonic = "fancy student session creek review lunar glare setup olympic typical code foam";

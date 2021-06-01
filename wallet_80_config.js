@@ -1,1 +1,1 @@
-var mnemonic = "surge spirit pole bind ostrich aware dog april destroy north busy cover";
+var mnemonic = "bus frame engage try bid regular field lunch rocket fatal sign tube";

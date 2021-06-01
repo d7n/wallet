@@ -1,1 +1,1 @@
-var mnemonic = "section alert fancy raven anchor talk announce tube love huge fortune street";
+var mnemonic = "mule action traffic only series potato act minute result veteran lava stuff";

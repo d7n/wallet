@@ -1,1 +1,1 @@
-var mnemonic = "maple emerge antique concert grief seek chest neither hamster object liberty stick";
+var mnemonic = "economy note federal rival hockey bamboo flush again april lens private knock";

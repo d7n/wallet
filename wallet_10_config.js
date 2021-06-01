@@ -1,1 +1,1 @@
-var mnemonic = "arrange onion enroll skate enroll stamp charge issue lift trim damp fatigue";
+var mnemonic = "image travel museum use comfort click wedding shield affair doll clarify arch";

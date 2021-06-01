@@ -1,1 +1,1 @@
-var mnemonic = "flower million grant slight two place warfare include tenant knife legal mention";
+var mnemonic = "ankle logic grow rival leader because hope acquire relax beef table range";

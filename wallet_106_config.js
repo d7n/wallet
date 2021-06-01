@@ -1,1 +1,1 @@
-var mnemonic = "seek equip notable abstract student myth hen know escape over wise outdoor";
+var mnemonic = "cancel sight lazy affair opera virtual minimum game quantum hobby local warrior";

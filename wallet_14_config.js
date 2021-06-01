@@ -1,1 +1,1 @@
-var mnemonic = "assault exact young improve earn orange pet random curve unusual imitate tilt";
+var mnemonic = "pull friend vast abuse icon crop review reward december margin uniform hill";

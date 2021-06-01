@@ -1,1 +1,1 @@
-var mnemonic = "video orchard derive vast rebuild load dwarf actress eternal poverty long sick";
+var mnemonic = "shed mean desk call exist youth regular soul cool broccoli radio venture";

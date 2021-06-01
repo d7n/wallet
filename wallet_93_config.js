@@ -1,1 +1,1 @@
-var mnemonic = "twelve rhythm letter desert during broccoli aspect couple syrup stereo pig time";
+var mnemonic = "family exit orphan buzz mammal volcano rapid chapter bone series lounge unfold";

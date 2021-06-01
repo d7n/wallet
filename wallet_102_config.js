@@ -1,1 +1,1 @@
-var mnemonic = "drastic casino pony foster alone setup grain file ozone wide rich raise";
+var mnemonic = "admit eager beach cloth system ill idle canvas depth mirror enforce left";

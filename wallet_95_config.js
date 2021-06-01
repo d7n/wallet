@@ -1,1 +1,1 @@
-var mnemonic = "always frown inquiry advice analyst rubber egg human plate bulk impact will";
+var mnemonic = "kiwi ride abstract dial spell degree original region degree field accident give";

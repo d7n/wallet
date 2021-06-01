@@ -1,1 +1,1 @@
-var mnemonic = "fortune general hurdle urge hole spread plate pride mouse transfer wealth property";
+var mnemonic = "favorite link curtain urge elevator romance stock crane mask happy laugh focus";

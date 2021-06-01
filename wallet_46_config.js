@@ -1,1 +1,1 @@
-var mnemonic = "leopard loud notice crucial inform dismiss luggage object idea degree august release";
+var mnemonic = "carbon hybrid host thumb style once involve fan choice crouch buddy twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo length fiscal disagree aim cram spider pyramid release female magnet alarm";
+var mnemonic = "crystal behind defense invest notice scene barely goat magnet ethics act impose";

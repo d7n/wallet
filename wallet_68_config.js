@@ -1,1 +1,1 @@
-var mnemonic = "web volcano spot forest warrior riot victory typical meadow dry decrease velvet";
+var mnemonic = "want glove seat leopard receive birth burger again foster chronic novel spin";

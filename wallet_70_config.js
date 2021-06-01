@@ -1,1 +1,1 @@
-var mnemonic = "angry primary response toy call opera foam actual skirt desert pride fault";
+var mnemonic = "best squeeze person actress biology vote digital adult hedgehog recall call north";

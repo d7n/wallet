@@ -1,1 +1,1 @@
-var mnemonic = "borrow repeat cinnamon degree celery erode middle moon guard ginger key cliff";
+var mnemonic = "dentist inject symptom under input bone buyer negative have wreck wave swallow";

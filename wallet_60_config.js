@@ -1,1 +1,1 @@
-var mnemonic = "observe dutch plug puzzle kitten hamster tenant enter theme thing other kind";
+var mnemonic = "borrow balcony genre brass evidence group uphold sun bubble kind shed neither";

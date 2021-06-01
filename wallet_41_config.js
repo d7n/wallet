@@ -1,1 +1,1 @@
-var mnemonic = "educate fault such mom earn amateur piano claim will slice off owner";
+var mnemonic = "future document admit sleep exercise front pigeon swift weather void mutual version";

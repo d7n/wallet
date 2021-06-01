@@ -1,1 +1,1 @@
-var mnemonic = "host clay east resist pass act focus urban below iron melody result";
+var mnemonic = "layer capital credit sponsor reunion organ oxygen exit coconut reopen into state";

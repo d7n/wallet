@@ -1,1 +1,1 @@
-var mnemonic = "embark laundry happy topic easily will apart promote misery trigger sunny resource";
+var mnemonic = "trash easy addict quiz enlist author license truly impulse foster alarm must";

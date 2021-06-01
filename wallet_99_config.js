@@ -1,1 +1,1 @@
-var mnemonic = "hub virtual smile prosper private toward razor twenty second wagon achieve stable";
+var mnemonic = "across give bag below file robot room slice dance lady ribbon expire";

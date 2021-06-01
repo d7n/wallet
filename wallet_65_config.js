@@ -1,1 +1,1 @@
-var mnemonic = "swear excuse island crawl utility start tennis trap save ghost inner fall";
+var mnemonic = "install panic wreck tiny copper submit destroy student blanket process wear uncle";

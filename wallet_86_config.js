@@ -1,1 +1,1 @@
-var mnemonic = "cancel symbol deputy rate craft hedgehog flower raw depth panda uphold depend";
+var mnemonic = "enemy hungry able manage clip orbit depth join canal kangaroo talent lesson";

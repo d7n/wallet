@@ -1,1 +1,1 @@
-var mnemonic = "practice easily olive wisdom exhibit title surround once choose breeze disease text";
+var mnemonic = "target expect lobster warrior dwarf peace steak decorate crucial tennis butter brown";

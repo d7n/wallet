@@ -1,1 +1,1 @@
-var mnemonic = "tribe victory trial dismiss direct road bachelor mule tumble near reveal mushroom";
+var mnemonic = "case view drift force gold more arch deal civil disorder define minor";

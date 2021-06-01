@@ -1,1 +1,1 @@
-var mnemonic = "master eternal favorite tumble dish fashion excess cycle hobby dinosaur chuckle crater";
+var mnemonic = "mixture this video quick spray raccoon shiver erase amazing finish fine century";

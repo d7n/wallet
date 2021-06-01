@@ -1,1 +1,1 @@
-var mnemonic = "high fade stove random biology protect alpha lady sorry royal grab fatigue";
+var mnemonic = "monitor long roast never loyal vault guilt proud prosper utility metal snap";

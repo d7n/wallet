@@ -1,1 +1,1 @@
-var mnemonic = "can fancy position depend reflect ten script series walk keep orchard coyote";
+var mnemonic = "first pet tag minor alone height maximum tortoise electric trust any unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble purse liar actress finish scheme empower tornado muscle bless kite mystery";
+var mnemonic = "add orphan any security index ghost chunk fly loan february fuel behave";

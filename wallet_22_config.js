@@ -1,1 +1,1 @@
-var mnemonic = "clutch lawn fancy museum scan paper sea shift foil car width mutual";
+var mnemonic = "hurdle polar collect enough congress forget apple timber oyster enforce enough rotate";

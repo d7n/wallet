@@ -1,1 +1,1 @@
-var mnemonic = "put adult used wood enemy issue number gentle mean animal catalog heart";
+var mnemonic = "analyst lucky settle spy mind narrow salad roast fold below relax jungle";

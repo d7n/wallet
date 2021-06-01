@@ -1,1 +1,1 @@
-var mnemonic = "unique spoil digital total prize language arrow rain federal frequent comic forest";
+var mnemonic = "mimic warm hole wrist dress main chimney motor upgrade parade desk bone";

@@ -1,1 +1,1 @@
-var mnemonic = "oval addict wife holiday bicycle clip silk frozen honey few dinosaur sunny";
+var mnemonic = "old still tenant lend online primary plate castle cat hunt horror accident";

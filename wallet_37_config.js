@@ -1,1 +1,1 @@
-var mnemonic = "wide long bomb render afraid shift magnet bike patch mountain energy unique";
+var mnemonic = "blossom rate magnet sister blue share stem gasp century brave size frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "pole toy body husband zoo awake blanket idea shove spread bread pitch";
+var mnemonic = "field until ankle reform pink snack order glory cabin state soul okay";

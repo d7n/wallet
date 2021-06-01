@@ -1,1 +1,1 @@
-var mnemonic = "then process fine throw grunt absent direct color sense region indicate dynamic";
+var mnemonic = "artist toward open truly ceiling corn idle nephew essence wrestle nose hurt";

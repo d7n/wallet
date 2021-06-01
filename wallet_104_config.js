@@ -1,1 +1,1 @@
-var mnemonic = "twenty garbage vote wing tattoo bag thought wait surface unaware cube rack";
+var mnemonic = "behave mountain off spirit neglect face floor fabric mutual desert ripple cluster";

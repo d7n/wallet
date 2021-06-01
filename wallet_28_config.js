@@ -1,1 +1,1 @@
-var mnemonic = "tuition bamboo kind step wheat build cereal auto consider wait talent address";
+var mnemonic = "comfort couch time blind hurt sunny album wrist army wait answer advice";

@@ -1,1 +1,1 @@
-var mnemonic = "legend village bright stumble globe once nasty secret report borrow grace shove";
+var mnemonic = "green morning popular fury note tool dance sing cake post load share";

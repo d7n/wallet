@@ -1,1 +1,1 @@
-var mnemonic = "measure style poverty check cruise assume hurdle record sample neither proud silk";
+var mnemonic = "visual genre define coach rubber live mail eagle jealous mountain angle aim";

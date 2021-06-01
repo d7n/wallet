@@ -1,1 +1,1 @@
-var mnemonic = "segment rice sense tide quantum slush whale install only nose solid across";
+var mnemonic = "together symptom cross again sting guilt pipe bar dress volume logic fog";

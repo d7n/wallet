@@ -1,1 +1,1 @@
-var mnemonic = "palm apart acquire edge impulse always rally wear runway scissors enjoy stadium";
+var mnemonic = "clap radar diary float below picnic result knee height midnight naive today";

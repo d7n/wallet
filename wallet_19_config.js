@@ -1,1 +1,1 @@
-var mnemonic = "gloom endless business satisfy fiction stuff fox galaxy soup strike improve renew";
+var mnemonic = "tongue cattle rack ladder honey pave mimic nuclear banana slab crew stairs";

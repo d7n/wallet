@@ -1,1 +1,1 @@
-var mnemonic = "sense account convince can side nuclear winner safe material galaxy say steel";
+var mnemonic = "stick sunny regular extra spell dress smile club humble violin segment phone";

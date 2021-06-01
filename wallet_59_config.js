@@ -1,1 +1,1 @@
-var mnemonic = "tourist badge vintage post feel thumb stumble obscure kiss coral amazing roast";
+var mnemonic = "change tag risk boil burst model banner chef armor drip tiny core";

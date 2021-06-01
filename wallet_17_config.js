@@ -1,1 +1,1 @@
-var mnemonic = "ring journey social trim scene velvet cargo wonder crane match nice long";
+var mnemonic = "mammal intact metal gesture toss diesel myself sweet faith place pretty cattle";

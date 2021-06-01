@@ -1,1 +1,1 @@
-var mnemonic = "wing option acquire marble urban mail spoon swift foil orchard real call";
+var mnemonic = "wrap season hurdle injury auto pitch yellow grass garment video cake globe";

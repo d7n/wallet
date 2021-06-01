@@ -1,1 +1,1 @@
-var mnemonic = "pole beef busy excite message valid squirrel jelly say tumble genuine job";
+var mnemonic = "advice network member deny pulse select below inhale audit vehicle staff chef";

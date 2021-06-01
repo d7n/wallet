@@ -1,1 +1,1 @@
-var mnemonic = "pledge addict region drink ring section time describe hurdle hammer fan super";
+var mnemonic = "walk buffalo mechanic match adapt hold nuclear share dinner lesson length fat";

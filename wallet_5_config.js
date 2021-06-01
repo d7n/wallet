@@ -1,1 +1,1 @@
-var mnemonic = "toddler series spell dance unhappy dragon column erase theory hero place million";
+var mnemonic = "shallow hat public egg crazy tenant myth egg decorate regular burger umbrella";

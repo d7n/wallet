@@ -1,1 +1,1 @@
-var mnemonic = "trap sort assume wish entire pool inhale orient vibrant approve come skull";
+var mnemonic = "away canyon pioneer dog jump bind marble bacon catch crash slow fold";

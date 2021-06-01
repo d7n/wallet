@@ -1,1 +1,1 @@
-var mnemonic = "key swap enrich monitor job village six enter destroy stage violin various";
+var mnemonic = "bachelor monkey appear scare rough wealth inhale portion fit primary thing paddle";

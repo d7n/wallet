@@ -1,1 +1,1 @@
-var mnemonic = "speed route link north find brown credit panic found flash icon erosion";
+var mnemonic = "decrease meat scene source there oyster jeans absurd chair need consider drop";

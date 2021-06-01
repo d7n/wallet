@@ -1,1 +1,1 @@
-var mnemonic = "play bone valid affair cage uphold ski again derive drift furnace below";
+var mnemonic = "outdoor glad solve mimic shift timber ankle example pledge illegal nerve banana";

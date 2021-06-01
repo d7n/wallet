@@ -1,1 +1,1 @@
-var mnemonic = "year material fence toward dumb produce garbage element wheel motor unfold fruit";
+var mnemonic = "okay feed green silver flock emotion repeat track monkey false isolate flower";

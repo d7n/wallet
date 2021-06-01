@@ -1,1 +1,1 @@
-var mnemonic = "lounge bounce behind stick smart claw frog resource autumn robot ready wage";
+var mnemonic = "head wolf side blanket fringe poverty success ancient solid visa recycle agent";

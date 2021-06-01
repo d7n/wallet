@@ -1,1 +1,1 @@
-var mnemonic = "beach genuine obtain skull offer message leopard certain ketchup quick top boss";
+var mnemonic = "load blade hand proud virtual uniform ankle decade idle quick soon monkey";

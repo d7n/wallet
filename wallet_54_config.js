@@ -1,1 +1,1 @@
-var mnemonic = "credit night deposit pact wage embrace skin old input improve ski amount";
+var mnemonic = "pull advice swift captain jump run stadium sudden nominee emotion make excite";

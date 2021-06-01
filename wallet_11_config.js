@@ -1,1 +1,1 @@
-var mnemonic = "coil border arrest toast galaxy fresh project veteran soap silk catalog penalty";
+var mnemonic = "lens jacket young boss cool okay middle panda animal sport suspect arena";

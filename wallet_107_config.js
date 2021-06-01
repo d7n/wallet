@@ -1,1 +1,1 @@
-var mnemonic = "garbage elevator mad situate modify sell imitate ball tell oval good about";
+var mnemonic = "sword mammal obvious home damp raccoon silk sadness auto omit thank feed";

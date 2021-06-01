@@ -1,1 +1,1 @@
-var mnemonic = "dutch stable town deposit arrest shuffle brisk display punch life tonight spawn";
+var mnemonic = "fit fiber clarify enact wrestle since hungry vivid fantasy company smile antique";

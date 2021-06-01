@@ -1,1 +1,1 @@
-var mnemonic = "trigger cliff bid human bid planet boat foster powder rescue silk coast";
+var mnemonic = "park across coral month sell total armor zoo civil summer shrug blast";

@@ -1,1 +1,1 @@
-var mnemonic = "pig when category glue seminar piano now wheel nerve faint someone park";
+var mnemonic = "bag inch you vehicle crumble light lawn example tone awake reflect portion";

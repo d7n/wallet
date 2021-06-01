@@ -1,1 +1,1 @@
-var mnemonic = "allow eye picnic pottery black april eager disagree shaft maid total fault";
+var mnemonic = "month tenant chest boy family harsh dawn brown alien frog atom noble";

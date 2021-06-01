@@ -1,1 +1,1 @@
-var mnemonic = "flee believe describe bulb debate vast bubble way city hero search stadium";
+var mnemonic = "snack mystery spider bullet sustain peasant armed walk wealth process universe wear";

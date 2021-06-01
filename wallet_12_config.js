@@ -1,1 +1,1 @@
-var mnemonic = "east dance marriage urge order voyage vendor kite humor cost scrap viable";
+var mnemonic = "better defy disagree danger robot second case shrimp economy elephant achieve cable";

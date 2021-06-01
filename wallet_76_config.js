@@ -1,1 +1,1 @@
-var mnemonic = "canoe globe multiply submit genuine parrot sorry bronze day latin source innocent";
+var mnemonic = "noise organ alarm turtle echo enforce divert pet dumb assume clever second";

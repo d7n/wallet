@@ -1,1 +1,1 @@
-var mnemonic = "diagram crisp bean unknown lumber frequent joy cycle fire liar shy truth";
+var mnemonic = "device country few thing control butter eight scare lyrics security culture enemy";

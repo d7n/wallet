@@ -1,1 +1,1 @@
-var mnemonic = "front vote elevator praise castle illness practice night ramp regret lava follow";
+var mnemonic = "intact step repair ring essay weasel destroy figure cool easily double trigger";

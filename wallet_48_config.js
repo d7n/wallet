@@ -1,1 +1,1 @@
-var mnemonic = "final glass cover mystery palm core gadget patrol bubble weird sun message";
+var mnemonic = "syrup rural pioneer fork rally bundle dwarf field meat normal kidney blame";

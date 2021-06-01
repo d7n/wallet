@@ -1,1 +1,1 @@
-var mnemonic = "segment foam spice vocal quarter senior erode like wood eight random parent";
+var mnemonic = "arrive excite next priority hammer tornado faculty uncle matter churn fall clap";

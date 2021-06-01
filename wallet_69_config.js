@@ -1,1 +1,1 @@
-var mnemonic = "potato huge invite suggest parade noodle crew brave force wage video actual";
+var mnemonic = "faculty option movie fever lava frost chapter love forest alien dinner choice";

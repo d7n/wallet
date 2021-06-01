@@ -1,1 +1,1 @@
-var mnemonic = "life fluid february rate quit audit van drip run vapor smooth orchard";
+var mnemonic = "gauge swarm clean style stick build burden supreme ignore pumpkin gravity legal";

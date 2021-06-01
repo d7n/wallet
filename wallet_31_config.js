@@ -1,1 +1,1 @@
-var mnemonic = "clever wedding trash cupboard coin drop boring river final hawk anxiety tank";
+var mnemonic = "payment toward hip ribbon model top wisdom say isolate pair despair pattern";

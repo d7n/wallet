@@ -1,1 +1,1 @@
-var mnemonic = "drink act slender man satoshi viable around maze topple tomato better woman";
+var mnemonic = "pledge cart syrup vault kid indoor search olympic jewel card math broom";

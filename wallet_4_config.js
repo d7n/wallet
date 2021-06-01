@@ -1,1 +1,1 @@
-var mnemonic = "payment unlock shock rural million man damage adapt equip festival audit lobster";
+var mnemonic = "wink end during fiction end gain weather animal primary mean position comic";

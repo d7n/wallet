@@ -1,1 +1,1 @@
-var mnemonic = "immune jeans turtle sudden change surge dentist you capable zero nasty victory";
+var mnemonic = "jar relax mad unfold boring bridge spawn remember scrap future weekend motion";

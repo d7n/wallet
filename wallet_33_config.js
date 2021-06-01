@@ -1,1 +1,1 @@
-var mnemonic = "effort extend core govern first moral issue note adult public fresh bird";
+var mnemonic = "bright trumpet tape tragic captain rigid raw slam open museum mandate shine";

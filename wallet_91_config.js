@@ -1,1 +1,1 @@
-var mnemonic = "enhance settle bomb wine sudden similar bread strike grid agent recall access";
+var mnemonic = "course scheme honey bargain wing hobby choose typical road behind evil entry";

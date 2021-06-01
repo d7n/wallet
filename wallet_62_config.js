@@ -1,1 +1,1 @@
-var mnemonic = "whale fit robot outer chicken mass surprise delay know october puzzle that";
+var mnemonic = "leisure magnet program mention parent point science stable section shy talent goddess";

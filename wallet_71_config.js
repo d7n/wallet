@@ -1,1 +1,1 @@
-var mnemonic = "fantasy number garbage layer lake define frost cycle body addict actress smooth";
+var mnemonic = "rack lawn history spoon wild learn slush ten believe frost swing check";

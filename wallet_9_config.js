@@ -1,1 +1,1 @@
-var mnemonic = "nation mystery peanut margin absurd crop network depth frog cross pretty sleep";
+var mnemonic = "aisle smooth december awkward enemy portion destroy switch damp dolphin beach grace";
