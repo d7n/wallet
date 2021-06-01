@@ -1,1 +1,1 @@
-var mnemonic = "lend gauge trend share spatial faint rely clump okay dash outdoor inmate";
+var mnemonic = "monitor first favorite brush three resemble group main awful various much onion";

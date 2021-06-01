@@ -1,1 +1,1 @@
-var mnemonic = "broccoli actor cruel motion ice stadium decade surprise asthma toss online tide";
+var mnemonic = "security swift gold dust sell dinosaur gun food visa distance mouse world";

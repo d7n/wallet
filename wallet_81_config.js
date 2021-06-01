@@ -1,1 +1,1 @@
-var mnemonic = "reject theme eager panther piano wide weird fruit casual dance target around";
+var mnemonic = "neither cotton ranch hole explain taxi surge fury surge bread put income";

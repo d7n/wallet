@@ -1,1 +1,1 @@
-var mnemonic = "expose wire minor hockey action frown avocado rare chalk decide armed bleak";
+var mnemonic = "draw cliff library absurd citizen image seek ladder hold tiny material accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "property rabbit welcome tip yellow shrimp matter lava opera fringe stand loyal";
+var mnemonic = "marble maple couch topic already pact erosion nerve spread sleep slogan warfare";

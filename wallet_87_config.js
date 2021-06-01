@@ -1,1 +1,1 @@
-var mnemonic = "enforce addict subway can calm trade team gorilla upset maid thing color";
+var mnemonic = "curious brisk clock grain cook task wet flight chicken claw satoshi salute";

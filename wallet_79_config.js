@@ -1,1 +1,1 @@
-var mnemonic = "else portion tiger employ echo venture twelve receive grass whisper slim swift";
+var mnemonic = "grain night flat genius zero kit industry rapid dad slam today maid";

@@ -1,1 +1,1 @@
-var mnemonic = "finish hope toast eight suggest air usage pill waste cake strategy wood";
+var mnemonic = "flock jealous narrow impact vague math leave vacuum miss best spoon lend";

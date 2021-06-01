@@ -1,1 +1,1 @@
-var mnemonic = "goat blind turtle camera over wish clever asthma drive believe disagree fluid";
+var mnemonic = "outer hurdle charge heavy involve champion hazard base ball margin exhibit voyage";

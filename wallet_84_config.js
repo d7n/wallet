@@ -1,1 +1,1 @@
-var mnemonic = "little drill glory zero priority upgrade primary universe ancient salon size october";
+var mnemonic = "chaos parade symbol notable lonely degree enter obey demand senior draw endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle pig office slide try comfort pioneer include naive ripple agree define";
+var mnemonic = "enrich vibrant sentence humor opera stamp gain twin attract oxygen sniff seven";

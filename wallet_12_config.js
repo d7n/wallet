@@ -1,1 +1,1 @@
-var mnemonic = "render burger reveal member prepare inside next scorpion leave huge narrow boring";
+var mnemonic = "immense design fetch prosper lady inside search alcohol tell eager oxygen music";

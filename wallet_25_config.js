@@ -1,1 +1,1 @@
-var mnemonic = "lottery enact bus truly modify student young blade dove humble weasel wish";
+var mnemonic = "make earth meadow fence waste asset build great beef castle wonder beef";

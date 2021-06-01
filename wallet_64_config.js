@@ -1,1 +1,1 @@
-var mnemonic = "invite maid salute motion prison answer airport field math purity rotate amateur";
+var mnemonic = "excess fiscal clock gate echo reflect taxi talk behind east throw unveil";

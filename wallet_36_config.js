@@ -1,1 +1,1 @@
-var mnemonic = "ticket all toward beef antique chronic fun often mutual brave bike visual";
+var mnemonic = "path result fortune immune acoustic benefit pitch then diamond fog endorse bone";

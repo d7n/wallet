@@ -1,1 +1,1 @@
-var mnemonic = "scrap awake find abuse cargo apple mercy own riot gloom expose real";
+var mnemonic = "attract symptom wreck panel force culture shaft innocent endorse model cram butter";

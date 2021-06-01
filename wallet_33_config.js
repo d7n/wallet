@@ -1,1 +1,1 @@
-var mnemonic = "flag relax eagle admit bronze ask capable fox effort tenant useless sad";
+var mnemonic = "bunker decade stomach ring divert fragile regret rather dragon sugar voice middle";

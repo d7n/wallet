@@ -1,1 +1,1 @@
-var mnemonic = "fly awesome candy police pact wife issue pave couple wolf into fiber";
+var mnemonic = "organ alien tell hundred craft surround during pencil viable have celery wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "bind work snow board better sure hurt settle grape elephant comfort mask";
+var mnemonic = "cinnamon ice caution trap anger need base collect senior trouble hawk will";

@@ -1,1 +1,1 @@
-var mnemonic = "track inquiry vanish fiber gate minor worth fatigue slice square cram north";
+var mnemonic = "permit autumn battle clean comic palm subway cook arrange rude virtual height";

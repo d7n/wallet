@@ -1,1 +1,1 @@
-var mnemonic = "win struggle noble trip hope section believe palace rifle solid sadness motor";
+var mnemonic = "enlist bubble test sudden armed final bone goddess spare law daughter vicious";

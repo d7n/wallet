@@ -1,1 +1,1 @@
-var mnemonic = "chest force ribbon actress culture blouse hungry lift piece click soap process";
+var mnemonic = "conduct screen cram mandate hope goat couch hospital pond ranch day dash";

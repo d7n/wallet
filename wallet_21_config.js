@@ -1,1 +1,1 @@
-var mnemonic = "wife hood salute fetch awake warfare garbage believe combine cheap size ghost";
+var mnemonic = "cactus struggle chalk confirm erode attitude local pizza quiz law butter quarter";

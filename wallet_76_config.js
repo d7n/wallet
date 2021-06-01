@@ -1,1 +1,1 @@
-var mnemonic = "neither ball square long sell body trumpet planet soup useless fever decline";
+var mnemonic = "bring wait kiss time proof universe luxury demand risk version spend broccoli";

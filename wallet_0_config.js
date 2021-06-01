@@ -1,1 +1,1 @@
-var mnemonic = "luggage source jungle must essence truly phrase envelope online call festival drink";
+var mnemonic = "outdoor aunt monitor suggest problem video denial hidden regret quote dog ankle";

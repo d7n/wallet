@@ -1,1 +1,1 @@
-var mnemonic = "double involve sunny tissue border genre wash type produce immense reduce once";
+var mnemonic = "fat orphan index neither barrel animal rigid camp hard rate primary snake";

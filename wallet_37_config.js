@@ -1,1 +1,1 @@
-var mnemonic = "disagree enforce patrol collect blanket flock choice desert pencil caution motion diary";
+var mnemonic = "close crop explain index width acid rebuild tunnel disease pool achieve people";

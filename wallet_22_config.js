@@ -1,1 +1,1 @@
-var mnemonic = "romance liberty circle unfold refuse betray current boost render school spray review";
+var mnemonic = "little bag summer dwarf admit sand frog science physical first clown mixture";

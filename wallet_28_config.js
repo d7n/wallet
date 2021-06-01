@@ -1,1 +1,1 @@
-var mnemonic = "negative nurse latin general phone sure glare flower day hawk you material";
+var mnemonic = "radar output orient open expose ride cage almost chief obey tongue multiply";

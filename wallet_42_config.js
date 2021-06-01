@@ -1,1 +1,1 @@
-var mnemonic = "area error soap behave tattoo unaware accident certain narrow high master blush";
+var mnemonic = "report exhaust possible during define age laugh web art misery quit useful";

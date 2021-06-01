@@ -1,1 +1,1 @@
-var mnemonic = "deliver lesson company place fragile diet destroy grape salad damage february museum";
+var mnemonic = "patch project shy north strike march divorce logic range scout tail rubber";

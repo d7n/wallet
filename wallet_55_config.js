@@ -1,1 +1,1 @@
-var mnemonic = "appear balcony soup ecology steel finish hockey case city edge eager bleak";
+var mnemonic = "pyramid market stable wheat angle solution convince normal oval sad pull stem";

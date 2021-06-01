@@ -1,1 +1,1 @@
-var mnemonic = "brown fever oak mystery add flag medal viable theory dragon left repeat";
+var mnemonic = "layer treat air act voyage zero any add until balance episode embark";

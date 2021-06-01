@@ -1,1 +1,1 @@
-var mnemonic = "garment vendor usage master ride dog leg cash long orange lawn staff";
+var mnemonic = "cushion tray shop mule flag pluck episode valley tip leaf comfort ridge";

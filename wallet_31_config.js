@@ -1,1 +1,1 @@
-var mnemonic = "rack wrong napkin art pride lab direct what gesture worth pelican script";
+var mnemonic = "carpet wheat inquiry heavy kidney increase enroll ball rail report cruise seminar";

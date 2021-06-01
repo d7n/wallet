@@ -1,1 +1,1 @@
-var mnemonic = "velvet crime shoulder mix prefer clump drill approve already deer joke garlic";
+var mnemonic = "mansion alone myself thought deposit that shaft era trick jealous crash upset";

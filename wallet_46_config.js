@@ -1,1 +1,1 @@
-var mnemonic = "purity veteran nothing water index luxury rent garage allow frost pulp ensure";
+var mnemonic = "clock banana black hundred moral spin trend festival dice brand suggest rent";

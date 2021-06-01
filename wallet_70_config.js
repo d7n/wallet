@@ -1,1 +1,1 @@
-var mnemonic = "climb scorpion grid welcome soft during lawsuit imitate juice misery catch tip";
+var mnemonic = "pilot fly panel fox imitate autumn material fox cause napkin satisfy essence";

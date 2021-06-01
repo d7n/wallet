@@ -1,1 +1,1 @@
-var mnemonic = "chief thing ticket orphan kitchen delay police brush gaze sign merit fan";
+var mnemonic = "inspire blood energy tree believe easy cave visit oil segment leopard tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "plate social chronic agree analyst inflict abandon resist jaguar march tent tooth";
+var mnemonic = "deny panther pulp chalk fish level shoulder essence solar tube earth field";

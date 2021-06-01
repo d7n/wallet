@@ -1,1 +1,1 @@
-var mnemonic = "meadow blue cost science next history bachelor apart pair cake before bunker";
+var mnemonic = "wash foil hand donor lend develop announce can breeze school gauge coral";

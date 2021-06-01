@@ -1,1 +1,1 @@
-var mnemonic = "wise renew island nuclear vessel hero dumb glove humble creek treat hobby";
+var mnemonic = "frozen call file tube bread balance aunt loop try runway oyster post";

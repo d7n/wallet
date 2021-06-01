@@ -1,1 +1,1 @@
-var mnemonic = "resource swallow mercy return raw luxury insane suspect barrel brisk flock size";
+var mnemonic = "rival jacket treat genuine bring leave hawk shine humor memory boy cake";

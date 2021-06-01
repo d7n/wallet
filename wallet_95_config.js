@@ -1,1 +1,1 @@
-var mnemonic = "monitor undo tennis actual duty angle shine already divide gown around axis";
+var mnemonic = "economy exist apology circle sense dragon much glow wide frost dismiss pole";

@@ -1,1 +1,1 @@
-var mnemonic = "come edge talent cliff proud theory task stock casino image oven explain";
+var mnemonic = "cruise cycle world spatial arm dog enrich phone wish step brand truth";

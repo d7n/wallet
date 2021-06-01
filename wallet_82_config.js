@@ -1,1 +1,1 @@
-var mnemonic = "mutual congress marine carry fortune section swap picture vacuum awake theory sustain";
+var mnemonic = "jungle gym rather never garbage sort ivory stove return myself faith oppose";

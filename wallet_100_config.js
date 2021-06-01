@@ -1,1 +1,1 @@
-var mnemonic = "swim flee super hero fox purchase model near grocery cycle verify noble";
+var mnemonic = "truly they tide tube office mercy dragon journey liberty vital mouse claim";

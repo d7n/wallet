@@ -1,1 +1,1 @@
-var mnemonic = "visa layer mention aunt endorse skirt oyster visit dash nut loyal ski";
+var mnemonic = "victory weird traffic frame burden leg rely skirt bag prize object dice";

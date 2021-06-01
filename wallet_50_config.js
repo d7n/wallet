@@ -1,1 +1,1 @@
-var mnemonic = "off rely almost popular physical fade amused clinic kite delay banner option";
+var mnemonic = "dove inmate parrot cross replace trade legal step order scene check foot";

@@ -1,1 +1,1 @@
-var mnemonic = "panic horse apart aim scorpion cruel trash wage filter elephant layer then";
+var mnemonic = "sing senior surface coach ride cycle mule shiver lawsuit return dirt obey";

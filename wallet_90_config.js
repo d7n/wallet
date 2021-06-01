@@ -1,1 +1,1 @@
-var mnemonic = "grace decrease scorpion snow corn power walnut body fire eight race dice";
+var mnemonic = "subject silver unaware cage razor club aerobic notice sad bleak family chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "file wife hungry riot shrug garlic stick excite profit addict object early";
+var mnemonic = "lion liquid major faint report capable about motor skin amused coyote tip";

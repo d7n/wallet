@@ -1,1 +1,1 @@
-var mnemonic = "symbol puppy egg room gospel toy core moral mail unhappy neutral post";
+var mnemonic = "dry unaware general vintage category year sister famous wool melt chief farm";

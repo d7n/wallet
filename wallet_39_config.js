@@ -1,1 +1,1 @@
-var mnemonic = "blind simple urban main repeat ticket champion dad age odor gain sad";
+var mnemonic = "put track various turn increase height worry rent trade chronic bench tiger";

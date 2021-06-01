@@ -1,1 +1,1 @@
-var mnemonic = "hand butter lizard update business dumb market kidney hazard impose bracket essay";
+var mnemonic = "curve romance shed duck arrange south exhaust unable myself jelly island once";

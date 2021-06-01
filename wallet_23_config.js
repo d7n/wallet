@@ -1,1 +1,1 @@
-var mnemonic = "skull side step honey require topple vocal stamp two music mimic label";
+var mnemonic = "review trip ribbon talent mirror summer clay file rib unhappy fuel error";

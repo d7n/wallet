@@ -1,1 +1,1 @@
-var mnemonic = "settle popular donate wool inmate general all crush boring raven fence certain";
+var mnemonic = "nose lunch opera hockey sea arch media fancy approve item wasp pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans toward silver page price unique view isolate gesture depart share noble";
+var mnemonic = "high amused parrot mean salon oil profit island minimum swift type tank";

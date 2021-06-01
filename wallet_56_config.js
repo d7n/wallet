@@ -1,1 +1,1 @@
-var mnemonic = "about void exile diagram owner abuse raccoon village material sure digital only";
+var mnemonic = "alcohol soon light forget web soap window ugly powder piano gossip awesome";

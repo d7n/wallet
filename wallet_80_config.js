@@ -1,1 +1,1 @@
-var mnemonic = "weekend repair age defy symptom script flight female process ginger vacuum bronze";
+var mnemonic = "moon degree fun boat host region unfold vibrant universe unknown fame ball";

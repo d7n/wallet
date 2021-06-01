@@ -1,1 +1,1 @@
-var mnemonic = "soda skirt stool trip divert miss stereo range domain chuckle replace omit";
+var mnemonic = "train vicious antique stairs rule try magic civil device magnet awkward exist";

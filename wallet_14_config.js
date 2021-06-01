@@ -1,1 +1,1 @@
-var mnemonic = "regular clerk message eager level clap glad cat shrug myself deputy meadow";
+var mnemonic = "vocal ribbon pretty drama august target ocean control bulk sheriff faith exchange";

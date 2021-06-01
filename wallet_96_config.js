@@ -1,1 +1,1 @@
-var mnemonic = "thumb lazy solve position unfold noodle seminar senior vast magnet indoor exclude";
+var mnemonic = "cancel govern trouble text cute welcome craft valley arrange plug uncle hedgehog";

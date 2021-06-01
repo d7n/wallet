@@ -1,1 +1,1 @@
-var mnemonic = "prevent survey talent detail garage effort build bundle physical apology tree hint";
+var mnemonic = "april garbage idea juice nurse prefer aunt medal sell cherry century mutual";

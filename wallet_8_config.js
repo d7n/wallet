@@ -1,1 +1,1 @@
-var mnemonic = "link forget mesh random valid doll gravity exit rib trumpet pet give";
+var mnemonic = "capital twelve rubber spoil own stick know below rifle appear paddle fantasy";

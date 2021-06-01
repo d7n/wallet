@@ -1,1 +1,1 @@
-var mnemonic = "diagram this furnace come enter wrap cram ritual job roof cute regret";
+var mnemonic = "scan celery front bless fantasy casino skin special flight false faint pledge";

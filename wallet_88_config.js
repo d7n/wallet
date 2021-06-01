@@ -1,1 +1,1 @@
-var mnemonic = "oxygen thrive grab online drink genuine must guitar whisper vendor party example";
+var mnemonic = "decrease fruit chapter wool day south guitar sauce poem thing pelican moral";

@@ -1,1 +1,1 @@
-var mnemonic = "speed earth fame whisper sadness jazz method model shock mad normal garage";
+var mnemonic = "enjoy october country page ensure physical bullet mimic situate trigger protect champion";

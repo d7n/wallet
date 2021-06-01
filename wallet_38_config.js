@@ -1,1 +1,1 @@
-var mnemonic = "sunset swap retire void hungry tool area glad age element early drift";
+var mnemonic = "rack globe liar blanket cigar icon defense venture high flip tonight teach";

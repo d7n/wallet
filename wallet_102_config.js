@@ -1,1 +1,1 @@
-var mnemonic = "mouse card promote strike rebuild sweet note aware vintage soft margin lecture";
+var mnemonic = "juice coffee love label until million emerge kitchen lake woman drive drift";

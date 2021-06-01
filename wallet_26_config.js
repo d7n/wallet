@@ -1,1 +1,1 @@
-var mnemonic = "adapt atom invite brief birth collect portion label palm lemon glow arrange";
+var mnemonic = "episode water provide lens tunnel solar august shoe update math plunge own";

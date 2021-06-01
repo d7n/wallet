@@ -1,1 +1,1 @@
-var mnemonic = "victory butter rotate ozone divorce taste return stool fury crouch cheese steak";
+var mnemonic = "solution light rubber maid video immune release arena napkin firm exit bid";

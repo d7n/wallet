@@ -1,1 +1,1 @@
-var mnemonic = "inmate chef soul enter crumble breeze insane over empower head east pear";
+var mnemonic = "stove puzzle early since vague blade deputy grit buzz net material act";

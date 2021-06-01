@@ -1,1 +1,1 @@
-var mnemonic = "add group what silver reason please hotel frozen stage satisfy squeeze dawn";
+var mnemonic = "lobster teach buyer hurry grit blood wedding curtain elevator dolphin tide dad";

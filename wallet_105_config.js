@@ -1,1 +1,1 @@
-var mnemonic = "drip turn skull roof oven select sketch wedding nominee assume report top";
+var mnemonic = "uncover parade already coffee mango floor thrive trust salute learn style loyal";

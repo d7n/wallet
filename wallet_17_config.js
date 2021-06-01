@@ -1,1 +1,1 @@
-var mnemonic = "mouse all soup fade rifle buyer spend awkward print escape steak sure";
+var mnemonic = "news skin better stand wish sauce relax toddler enter index pony olive";

@@ -1,1 +1,1 @@
-var mnemonic = "extra common sibling maze devote punch accident wire addict able habit minimum";
+var mnemonic = "fee pretty recall tornado tube valley panel carry claw artist picnic saddle";

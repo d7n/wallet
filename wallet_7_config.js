@@ -1,1 +1,1 @@
-var mnemonic = "run mother warrior utility canal panther blade rough limit intact staff oval";
+var mnemonic = "broken bargain exhibit track myself flavor number train fiscal wisdom win aspect";

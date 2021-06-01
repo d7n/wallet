@@ -1,1 +1,1 @@
-var mnemonic = "clog twelve leaf wing crunch similar dumb cool globe minor pitch usage";
+var mnemonic = "aerobic march hint floor ability spike march foster win leave goose setup";

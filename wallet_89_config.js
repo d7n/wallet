@@ -1,1 +1,1 @@
-var mnemonic = "sphere region twist index tongue smoke label extend foster sound dilemma prosper";
+var mnemonic = "chief rapid deputy weasel heart coast element depth want ivory cycle march";

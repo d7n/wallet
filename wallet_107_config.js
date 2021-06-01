@@ -1,1 +1,1 @@
-var mnemonic = "then tornado donate grass west thrive strategy snow river desk dream farm";
+var mnemonic = "canyon thing board settle bunker winner media reveal neglect effort wire film";

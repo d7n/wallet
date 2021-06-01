@@ -1,1 +1,1 @@
-var mnemonic = "young crowd fame nuclear media work neck smile ribbon cream blush gun";
+var mnemonic = "veteran fold session hill sad potato sugar oil soap reject doctor legend";

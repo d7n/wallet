@@ -1,1 +1,1 @@
-var mnemonic = "razor group various ten skull visual fun face kid help wheat survey";
+var mnemonic = "mesh bonus glory river junk secret toast shed hybrid travel decade uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "minute indoor salmon damage amused seed fortune shaft flee sauce arena roast";
+var mnemonic = "oak marble glance system bag share pass mouse amount essay purity rely";

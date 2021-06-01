@@ -1,1 +1,1 @@
-var mnemonic = "science sell mule visual tunnel vote atom reject relief short claw clock";
+var mnemonic = "skin economy stereo glide bridge steel web field pass borrow life cabin";

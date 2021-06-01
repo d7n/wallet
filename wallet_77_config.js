@@ -1,1 +1,1 @@
-var mnemonic = "erosion glad onion glove defy all permit train canyon season knife midnight";
+var mnemonic = "change ghost drink swallow amazing believe cheap bounce blade lava torch return";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch smile deliver cherry dismiss kangaroo rhythm cable improve size inmate cattle";
+var mnemonic = "library master game delay citizen coconut humble dwarf hat adult symbol horror";

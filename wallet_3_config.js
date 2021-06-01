@@ -1,1 +1,1 @@
-var mnemonic = "opinion grape foam across still foster chief setup cluster multiply cube office";
+var mnemonic = "rocket supreme pilot dilemma artwork fox area enable gather team renew pull";

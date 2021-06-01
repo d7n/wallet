@@ -1,1 +1,1 @@
-var mnemonic = "vintage lift spider spare live diary expect silk weather tuition broken thrive";
+var mnemonic = "media split scorpion infant venture soul monkey pioneer wild among project screen";

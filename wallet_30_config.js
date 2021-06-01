@@ -1,1 +1,1 @@
-var mnemonic = "sword merit fruit radar announce angle crucial brain chronic office measure icon";
+var mnemonic = "wide normal caution avocado door gift smooth okay crazy quality lucky concert";

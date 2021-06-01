@@ -1,1 +1,1 @@
-var mnemonic = "wash green that avoid above bean broom grant merit can reason buzz";
+var mnemonic = "badge protect snow best diesel elegant under gravity bracket prepare cricket screen";
