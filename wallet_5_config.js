@@ -1,1 +1,1 @@
-var mnemonic = "grow dune scout relief fault fault merge stem fatal palace good profit";
+var mnemonic = "ask toy waste summer bind fuel view height strike banana debris blast";

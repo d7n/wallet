@@ -1,1 +1,1 @@
-var mnemonic = "tide art elegant reduce brush into indoor possible okay blur cricket accuse";
+var mnemonic = "echo chronic seven heart ketchup live language cycle female edge address fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "plate pyramid ill jaguar bike impact mobile must become tree recipe judge";
+var mnemonic = "local lesson treat like come benefit once sustain seek question heart embark";

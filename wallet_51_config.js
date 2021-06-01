@@ -1,1 +1,1 @@
-var mnemonic = "ill jungle field art squirrel lonely aware robot umbrella silver tool select";
+var mnemonic = "talent funny veteran emotion future license lamp wash flight smart truly hat";

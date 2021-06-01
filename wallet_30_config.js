@@ -1,1 +1,1 @@
-var mnemonic = "fold pumpkin public upon rib roast output various design stock nominee arrange";
+var mnemonic = "dice relief require nature tape convince laptop unfair hat maid primary warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "decline erupt arrest hard key ability nuclear original mango sign crime speed";
+var mnemonic = "interest small section when impact tornado teach kiwi slice spy obvious swim";

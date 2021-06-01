@@ -1,1 +1,1 @@
-var mnemonic = "video crime pen bottom gym gasp liberty dinosaur barely design fat lawsuit";
+var mnemonic = "slogan slab cotton truly vacuum destroy fresh stock net bag bus crowd";

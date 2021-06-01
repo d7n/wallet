@@ -1,1 +1,1 @@
-var mnemonic = "glad october half shift fade law riot ribbon casual account meadow shove";
+var mnemonic = "april bus day tuna dolphin job supreme cute champion smoke regular alter";

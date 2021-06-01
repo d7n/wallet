@@ -1,1 +1,1 @@
-var mnemonic = "duck brass simple shock era submit process forum pledge pause mule latin";
+var mnemonic = "labor cricket control theory hungry impact snack orchard bleak festival member dial";

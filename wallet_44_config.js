@@ -1,1 +1,1 @@
-var mnemonic = "cup aspect escape best connect indicate kitchen bus question valley type gain";
+var mnemonic = "glass match arrow punch foil quarter outdoor ridge offer blame wisdom pottery";

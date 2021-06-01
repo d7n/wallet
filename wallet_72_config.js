@@ -1,1 +1,1 @@
-var mnemonic = "battle original soup fox fitness endorse boil lucky economy false impulse diagram";
+var mnemonic = "canoe toy enough impulse decline eager scrap mad series agent month ask";

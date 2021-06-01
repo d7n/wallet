@@ -1,1 +1,1 @@
-var mnemonic = "visit render improve silver auto useless spatial fine crime flower onion equal";
+var mnemonic = "usual damp load pill slim admit regret letter tool blouse wise bid";

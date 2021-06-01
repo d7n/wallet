@@ -1,1 +1,1 @@
-var mnemonic = "excess venture normal nerve monkey pass captain acquire weird end speed gym";
+var mnemonic = "cigar hospital toddler adult middle interest fall sheriff metal letter toddler door";

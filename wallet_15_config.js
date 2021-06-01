@@ -1,1 +1,1 @@
-var mnemonic = "head illness ride double elegant obvious level know town catch just awkward";
+var mnemonic = "dry turtle piece rabbit gaze gaze laugh loud cinnamon lazy time bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "blood pause scorpion change room capital panther father chair toe decrease humble";
+var mnemonic = "february enemy certain ridge robust favorite matrix current garlic garbage eyebrow gesture";

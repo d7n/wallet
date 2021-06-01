@@ -1,1 +1,1 @@
-var mnemonic = "trumpet order ship pull lake slight injury rail robot predict auto hotel";
+var mnemonic = "basket stone tenant wisdom card add december orbit leader bike fuel under";

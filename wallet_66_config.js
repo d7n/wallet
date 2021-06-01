@@ -1,1 +1,1 @@
-var mnemonic = "model ask expect trade list country survey dove install dismiss window cage";
+var mnemonic = "spike swarm cover split rude account cattle mirror stairs hockey soda film";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy embark kidney embrace crowd increase pottery improve surface drum rely razor";
+var mnemonic = "devote enjoy shine carbon course tube boost pitch trap illness swim health";

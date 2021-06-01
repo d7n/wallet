@@ -1,1 +1,1 @@
-var mnemonic = "clever match chair absurd stairs wine imitate battle oil material famous laundry";
+var mnemonic = "collect upgrade exchange stairs black twelve broom van limb slow virus sunny";

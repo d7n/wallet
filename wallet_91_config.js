@@ -1,1 +1,1 @@
-var mnemonic = "borrow senior arm vital zebra lift happy marriage alert congress unknown satoshi";
+var mnemonic = "warm awkward sunny ball achieve move tank sadness excite wheat blossom advance";

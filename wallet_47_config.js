@@ -1,1 +1,1 @@
-var mnemonic = "joy broken mind squeeze punch sense zebra ritual interest glare width loan";
+var mnemonic = "luxury symbol that alley text mouse gauge cattle electric debate brass harsh";

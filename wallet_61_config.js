@@ -1,1 +1,1 @@
-var mnemonic = "frozen coil slush kid kick circle vintage exhaust novel walnut cake grant";
+var mnemonic = "believe foster fetch cool license tooth guide general abstract have lawsuit lab";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork mirror relax taxi acquire tone saddle boring resemble process bone target";
+var mnemonic = "light myself review nice pattern path model pink certain lock regular issue";

@@ -1,1 +1,1 @@
-var mnemonic = "castle north heavy own couch satisfy spider wage radio arrow raven flame";
+var mnemonic = "swap pole lobster month junior debris woman crush pave connect fee fox";

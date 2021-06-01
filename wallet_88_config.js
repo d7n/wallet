@@ -1,1 +1,1 @@
-var mnemonic = "reveal country wall worth ivory crazy make alley fuel danger evil athlete";
+var mnemonic = "cactus arena leopard siren patrol welcome before siege heavy disagree raise flee";

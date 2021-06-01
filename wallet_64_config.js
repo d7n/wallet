@@ -1,1 +1,1 @@
-var mnemonic = "above crumble dismiss grocery casino impose giggle thought banner hamster afford congress";
+var mnemonic = "bike wagon chair educate chunk armed effort rescue virtual mountain benefit razor";

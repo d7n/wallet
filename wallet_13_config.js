@@ -1,1 +1,1 @@
-var mnemonic = "win slim ensure alley lyrics sunny sure soup sound federal tornado cabin";
+var mnemonic = "friend culture buddy april burger always camera misery dinner monitor proud hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse false element asset unveil alter year exhibit vocal artist tool crouch";
+var mnemonic = "figure rookie when dolphin asthma until reflect tiny digital settle steak library";

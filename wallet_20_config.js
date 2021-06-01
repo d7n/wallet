@@ -1,1 +1,1 @@
-var mnemonic = "normal reflect unknown oven survey better fossil umbrella radio chest cool melt";
+var mnemonic = "scissors increase science safe yard practice honey thank enjoy slow nephew village";

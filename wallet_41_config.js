@@ -1,1 +1,1 @@
-var mnemonic = "circle brass kit tape gesture assist forum nest spoon cool bread family";
+var mnemonic = "scrub clock fat pool secret junior lawn fence artwork silent design direct";

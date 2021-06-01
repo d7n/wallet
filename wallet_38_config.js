@@ -1,1 +1,1 @@
-var mnemonic = "bone green snack solution destroy powder dutch salon yellow alarm impose gauge";
+var mnemonic = "trial voice lock shrimp junk soon grant destroy current usual dad staff";

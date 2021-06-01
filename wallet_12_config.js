@@ -1,1 +1,1 @@
-var mnemonic = "essence polar juice foster title sustain hole neither voyage six appear until";
+var mnemonic = "plunge reveal allow radio expire keep tobacco head awkward culture code guitar";

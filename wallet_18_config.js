@@ -1,1 +1,1 @@
-var mnemonic = "excite sponsor under trigger private potato illegal merry grid duck today audit";
+var mnemonic = "gorilla donor walk cart enough alarm joy noble fuel ankle rent nest";

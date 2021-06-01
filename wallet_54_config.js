@@ -1,1 +1,1 @@
-var mnemonic = "property onion also midnight guilt insane push slogan recycle lizard obvious whip";
+var mnemonic = "museum side garden brand luxury clever bitter hazard sugar buffalo leave swallow";

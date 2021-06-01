@@ -1,1 +1,1 @@
-var mnemonic = "balcony clown owner net cake helmet session entry hurry topic indicate casino";
+var mnemonic = "project alpha rally receive damp elephant tenant carry truth maze trophy possible";

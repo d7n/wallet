@@ -1,1 +1,1 @@
-var mnemonic = "iron crowd sight leader stage empower entire file tail retreat include bright";
+var mnemonic = "memory cute lamp feel truck woman elevator addict void flower typical popular";

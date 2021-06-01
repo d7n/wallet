@@ -1,1 +1,1 @@
-var mnemonic = "craft refuse split glimpse business dilemma castle eagle tray behave bonus cost";
+var mnemonic = "scale february hammer jungle resist stamp pioneer chat horse crunch morning pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "story jelly rival secret prepare morning prosper upset auction expand flee boy";
+var mnemonic = "spin kingdom lazy melt elephant end spawn armed skirt hawk offer cave";

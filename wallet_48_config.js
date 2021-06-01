@@ -1,1 +1,1 @@
-var mnemonic = "unhappy athlete inhale step gesture mammal isolate jazz exchange host provide canal";
+var mnemonic = "bamboo breeze glance another follow follow cream warm anxiety trial cat level";

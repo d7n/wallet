@@ -1,1 +1,1 @@
-var mnemonic = "file smile daring shove nature initial project cargo desert sibling video disorder";
+var mnemonic = "pill gold attend snap range carry rude capital version crazy giggle life";

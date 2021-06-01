@@ -1,1 +1,1 @@
-var mnemonic = "come man clock broom detail tumble spoil typical code turkey fatal repeat";
+var mnemonic = "hundred denial saddle become lecture stone culture video enrich zone feature music";

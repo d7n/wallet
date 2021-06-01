@@ -1,1 +1,1 @@
-var mnemonic = "loud lemon action arrange auction alpha denial degree february dad other web";
+var mnemonic = "wreck over kangaroo language same anger sibling liberty choice asthma purse middle";

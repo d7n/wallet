@@ -1,1 +1,1 @@
-var mnemonic = "tool polar prize length start cheap tide seed second sniff rate release";
+var mnemonic = "act glimpse pipe swamp visa shrug kitten broom income large thrive south";

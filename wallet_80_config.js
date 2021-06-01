@@ -1,1 +1,1 @@
-var mnemonic = "about finish burst profit task glow pave critic crash lend bridge over";
+var mnemonic = "point picture frost jealous mix rice library man erosion remind walk cannon";

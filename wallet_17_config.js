@@ -1,1 +1,1 @@
-var mnemonic = "wine tail index bag face core soul tornado cushion master quote shiver";
+var mnemonic = "clock say spawn true book sentence brown awesome trap antique cricket melt";

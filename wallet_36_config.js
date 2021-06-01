@@ -1,1 +1,1 @@
-var mnemonic = "bunker peasant rebuild ritual toast course antenna amount payment laugh any quick";
+var mnemonic = "defense hammer nerve festival length cloth ridge surge unusual smooth nephew echo";

@@ -1,1 +1,1 @@
-var mnemonic = "ride blast argue release enable motor mesh train sunset knock verb soon";
+var mnemonic = "warm company antique inner beef beyond document effort city shield bamboo helmet";

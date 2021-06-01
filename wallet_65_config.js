@@ -1,1 +1,1 @@
-var mnemonic = "decide digital word arrow oil earn plastic kit squeeze wear fix fantasy";
+var mnemonic = "ten delay balcony online impose perfect portion cage together bright acid urban";

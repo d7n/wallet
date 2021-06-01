@@ -1,1 +1,1 @@
-var mnemonic = "coil swear sun turkey robust buffalo income garage cause song captain gorilla";
+var mnemonic = "great smart cattle response talent bread describe credit ankle ribbon fruit crowd";

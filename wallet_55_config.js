@@ -1,1 +1,1 @@
-var mnemonic = "exile blue burger agent square blade sweet slide orphan act hub civil";
+var mnemonic = "easy bundle airport order raw episode among appear brick catch curve sight";

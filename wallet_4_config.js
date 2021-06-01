@@ -1,1 +1,1 @@
-var mnemonic = "police shuffle such segment chuckle hen lift slam toddler circle legend curious";
+var mnemonic = "super shock draw finger victory absorb just senior average because resemble three";

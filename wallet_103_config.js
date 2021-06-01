@@ -1,1 +1,1 @@
-var mnemonic = "fluid deer nut project become hurry deny illegal shield view walnut purse";
+var mnemonic = "iron scheme phrase creek sauce cotton place pig suffer success remove wine";

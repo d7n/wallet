@@ -1,1 +1,1 @@
-var mnemonic = "lend wise kiss all chef follow fine invite spare crime crush beyond";
+var mnemonic = "spice extra visual wash tell noble actor embrace chair favorite gentle manual";

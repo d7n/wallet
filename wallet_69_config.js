@@ -1,1 +1,1 @@
-var mnemonic = "remove spell club biology front edit absent opera dentist knock video song";
+var mnemonic = "double misery throw stock pioneer sauce unique symbol valid screen merit paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "sister among asthma spike rifle vehicle version culture wait gesture sting foster";
+var mnemonic = "armed arctic supreme sort review citizen obvious key measure pelican rival flip";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly eyebrow humble round helmet remember sound wedding hero pony sleep pole";
+var mnemonic = "lift breeze winter catch avoid shine notice bulb runway easy horn upper";

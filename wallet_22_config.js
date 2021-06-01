@@ -1,1 +1,1 @@
-var mnemonic = "harsh sibling liberty route decline ostrich junior divide knock excess beach wall";
+var mnemonic = "dutch kiwi mention blossom village palm damage shell scene reduce air mom";

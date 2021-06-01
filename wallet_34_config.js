@@ -1,1 +1,1 @@
-var mnemonic = "flip viable dish ramp coyote sample obey flat certain aerobic chair vote";
+var mnemonic = "appear pilot near moment naive air allow element debate brother jaguar squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "clever blind hundred tip parade narrow also motor fatigue mansion nice wolf";
+var mnemonic = "smart arena anchor slush gate struggle almost squirrel indicate collect trial arrange";

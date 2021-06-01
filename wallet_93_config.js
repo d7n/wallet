@@ -1,1 +1,1 @@
-var mnemonic = "debate bomb cinnamon imitate design develop farm cloud tool about eternal chunk";
+var mnemonic = "retreat bronze runway denial hope junk base forest slam sudden door coral";

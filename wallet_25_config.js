@@ -1,1 +1,1 @@
-var mnemonic = "confirm congress wedding duck few tragic rebel seed economy grab sleep taste";
+var mnemonic = "story warrior scorpion artist mercy feed illegal delay wagon hair elder current";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover limb panel olympic crouch brand choice grace exact morning page bright";
+var mnemonic = "repair merge member ask gloom chaos summer shallow rich sheriff lonely still";

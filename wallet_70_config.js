@@ -1,1 +1,1 @@
-var mnemonic = "drama wave menu cost exit feed ribbon load alarm glance tired smoke";
+var mnemonic = "amazing trade lesson target fever radio original sausage crew future pill soup";

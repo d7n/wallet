@@ -1,1 +1,1 @@
-var mnemonic = "response crumble traffic viable erase over swing muffin nut valve timber return";
+var mnemonic = "explain rubber slogan fox energy erupt infant fetch sense educate session pill";

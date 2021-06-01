@@ -1,1 +1,1 @@
-var mnemonic = "rural recall fork drum spoon veteran light mixture february borrow toy bargain";
+var mnemonic = "curve person castle income sniff exist senior they mistake sheriff lunar oil";

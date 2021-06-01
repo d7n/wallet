@@ -1,1 +1,1 @@
-var mnemonic = "video immune dutch absurd asset wedding pencil glow remove layer winter found";
+var mnemonic = "deer hand confirm bounce fringe course regular neutral forum neck gun city";

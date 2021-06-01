@@ -1,1 +1,1 @@
-var mnemonic = "input hollow main blush anxiety credit park empower size cradle predict update";
+var mnemonic = "frog struggle master thunder force jungle rebel dawn brave destroy cousin undo";

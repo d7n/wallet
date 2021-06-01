@@ -1,1 +1,1 @@
-var mnemonic = "snack prefer pistol combine trim arrest fire heart hunt inch river choose";
+var mnemonic = "enable swift hospital faculty senior inside genuine basic exchange gym tip invite";

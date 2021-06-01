@@ -1,1 +1,1 @@
-var mnemonic = "express mind media flower enlist hawk twice similar stage core scissors vanish";
+var mnemonic = "total tray together volume slide spread crash catalog chunk float jaguar food";

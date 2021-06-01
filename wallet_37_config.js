@@ -1,1 +1,1 @@
-var mnemonic = "adjust rent express emerge wash wedding physical force room blur patch found";
+var mnemonic = "exact survey check giant caution spy end random few fruit luxury couch";

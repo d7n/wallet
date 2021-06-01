@@ -1,1 +1,1 @@
-var mnemonic = "sweet ice punch laugh atom label once congress lawn regret attract item";
+var mnemonic = "sister connect draft repair loop during chair luxury sleep term unfair bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "soft photo remind defense liar ginger length blood fence oil random crucial";
+var mnemonic = "mask sponsor purse annual rhythm force swear tunnel length strike upper horn";

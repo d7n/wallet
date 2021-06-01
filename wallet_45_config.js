@@ -1,1 +1,1 @@
-var mnemonic = "arctic develop slight sword park dose merge until orient away switch emerge";
+var mnemonic = "tube final system prevent absurd surround limit ask layer town organ upset";

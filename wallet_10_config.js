@@ -1,1 +1,1 @@
-var mnemonic = "moment poem tank believe brass fence glance vicious jaguar nerve script settle";
+var mnemonic = "notice pen find caught mimic math awkward damage dwarf siege permit increase";

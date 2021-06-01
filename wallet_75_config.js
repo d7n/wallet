@@ -1,1 +1,1 @@
-var mnemonic = "calm loyal subject yellow elevator silk foster eagle mention six obscure asset";
+var mnemonic = "bulk river awful work scrub relief force feature weekend awake that dress";

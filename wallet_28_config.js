@@ -1,1 +1,1 @@
-var mnemonic = "amazing ripple lunar cable beyond rival ahead option screen debate liquid toy";
+var mnemonic = "pact ivory six soccer decade woman fly soon element orphan surface under";

@@ -1,1 +1,1 @@
-var mnemonic = "dose entire verb water earth avocado deposit disagree hammer actor retreat stuff";
+var mnemonic = "gun green elder agree filter cradle bacon simple fuel visit potato swallow";

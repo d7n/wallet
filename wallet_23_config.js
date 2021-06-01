@@ -1,1 +1,1 @@
-var mnemonic = "occur vendor battle science increase shoe because ugly apology icon file bring";
+var mnemonic = "tip hat execute fit gesture symbol adapt end rib pledge lecture nominee";

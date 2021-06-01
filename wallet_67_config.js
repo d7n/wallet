@@ -1,1 +1,1 @@
-var mnemonic = "casual skate heavy kit sister noise swarm hold wine pet giant path";
+var mnemonic = "net mango excess afford crop twist result what diesel clip tube giggle";

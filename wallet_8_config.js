@@ -1,1 +1,1 @@
-var mnemonic = "diet chunk crumble stairs become dutch morning consider grocery steel kid view";
+var mnemonic = "jaguar grid hour shiver urge group lonely primary foster long bargain identify";

@@ -1,1 +1,1 @@
-var mnemonic = "label peace ice foil error pilot depart youth able error disagree help";
+var mnemonic = "game kick trap expose multiply favorite claw nephew field spice million sport";

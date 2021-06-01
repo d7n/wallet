@@ -1,1 +1,1 @@
-var mnemonic = "diesel steak census tumble spice rookie follow gas car slender genre visa";
+var mnemonic = "media few document warfare tag cereal tiger thing always magic stamp evolve";

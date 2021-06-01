@@ -1,1 +1,1 @@
-var mnemonic = "sorry rookie wisdom suspect bird melt veteran scatter limit champion finger cotton";
+var mnemonic = "rain gain arrive warm high early lock error mind funny satisfy repeat";

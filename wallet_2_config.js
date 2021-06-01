@@ -1,1 +1,1 @@
-var mnemonic = "truly throw victory trumpet radar scout ring strike claim flock above sand";
+var mnemonic = "soap smooth material right check citizen apology pole liquid drama unaware horror";

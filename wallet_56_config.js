@@ -1,1 +1,1 @@
-var mnemonic = "idle device govern soup trap shell away mechanic amused diamond atom satoshi";
+var mnemonic = "supply park distance neglect sunset evidence excuse square pottery mad cake pupil";

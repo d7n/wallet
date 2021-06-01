@@ -1,1 +1,1 @@
-var mnemonic = "subway march believe market canyon tornado chat spawn else pelican account twelve";
+var mnemonic = "genius inherit inject motion midnight warrior pen rack ozone grass coil craft";

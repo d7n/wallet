@@ -1,1 +1,1 @@
-var mnemonic = "tuna text age crime move evoke they conduct raccoon mention puppy beach";
+var mnemonic = "axis pigeon melt ethics connect comfort country since repeat sight action iron";

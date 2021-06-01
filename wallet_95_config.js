@@ -1,1 +1,1 @@
-var mnemonic = "rice output bracket evolve shadow paper zero ozone ginger angle trend drop";
+var mnemonic = "twin blouse wheat deer box game pluck huge rail deal gap purpose";

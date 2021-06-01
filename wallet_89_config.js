@@ -1,1 +1,1 @@
-var mnemonic = "item genius island problem depart page census imitate limb vague call wish";
+var mnemonic = "twice bicycle photo onion entire oval aim armor range illegal tourist uncover";

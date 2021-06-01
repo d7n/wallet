@@ -1,1 +1,1 @@
-var mnemonic = "hero dial hub clean distance magic bulb dynamic attend label artefact huge";
+var mnemonic = "light table lift float modify lounge garbage siren grass sure car odor";

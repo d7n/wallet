@@ -1,1 +1,1 @@
-var mnemonic = "invest illness round bicycle west hockey blur nurse beyond enemy comfort endless";
+var mnemonic = "goose axis ghost obvious nature matrix note misery monster swamp nephew edit";

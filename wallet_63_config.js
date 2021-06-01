@@ -1,1 +1,1 @@
-var mnemonic = "print valid position wrong odor trade minimum hole high life cinnamon iron";
+var mnemonic = "connect pill soda twist raw attract invite erupt credit suggest ostrich hawk";

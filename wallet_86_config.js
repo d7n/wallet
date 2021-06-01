@@ -1,1 +1,1 @@
-var mnemonic = "dentist sample survey squeeze pet water dilemma moon notice wet anger volume";
+var mnemonic = "cliff citizen mule acid orange crash spy cargo sort escape wood punch";

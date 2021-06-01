@@ -1,1 +1,1 @@
-var mnemonic = "segment supply lens enemy knife guard bulk survey theory quantum ticket popular";
+var mnemonic = "gift supreme name fragile alter lesson august game decrease dignity copy panel";
