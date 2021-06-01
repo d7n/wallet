@@ -1,1 +1,1 @@
-var mnemonic = "earth hard gun usual lesson verify quarter ten north popular episode repeat";
+var mnemonic = "auto morning tongue benefit glare decade notice brother update lizard true pitch";

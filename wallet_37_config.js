@@ -1,1 +1,1 @@
-var mnemonic = "ticket camp sugar update merge unique toast crane category affair client early";
+var mnemonic = "must exile mystery bulb purse motor panel ranch cement ugly dignity huge";

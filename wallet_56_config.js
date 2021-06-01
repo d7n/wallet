@@ -1,1 +1,1 @@
-var mnemonic = "garage amazing poem lava furnace cost supply strong crop gloom bamboo fringe";
+var mnemonic = "suggest slender lizard move fossil extra warm blossom author custom group drill";

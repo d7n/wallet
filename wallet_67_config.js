@@ -1,1 +1,1 @@
-var mnemonic = "office rent power spike plug candy coyote zero deposit loud ostrich valley";
+var mnemonic = "worth banner universe hamster movie loop melody govern today hammer pudding comfort";

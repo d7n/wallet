@@ -1,1 +1,1 @@
-var mnemonic = "fat lab case inflict field siren tip library trigger draw involve spray";
+var mnemonic = "fruit best excess truly avoid impact jewel protect payment kidney eye sheriff";

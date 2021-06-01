@@ -1,1 +1,1 @@
-var mnemonic = "step image color inmate sugar hint auction brown enable actress best injury";
+var mnemonic = "tribe dawn erupt force orbit forget moment image involve clip beauty cattle";

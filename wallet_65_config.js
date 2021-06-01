@@ -1,1 +1,1 @@
-var mnemonic = "enter marine flash soft limb attitude depart valid under toy make beyond";
+var mnemonic = "reason pledge asthma network hollow oven remove boss figure annual trim volume";

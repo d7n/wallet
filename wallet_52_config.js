@@ -1,1 +1,1 @@
-var mnemonic = "blood shoe wrist crystal rose october control gospel fall vacuum dinner keen";
+var mnemonic = "metal frequent please scatter toddler toilet naive rhythm monitor shrug enforce nothing";

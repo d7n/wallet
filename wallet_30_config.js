@@ -1,1 +1,1 @@
-var mnemonic = "return dutch elephant guess enemy permit follow oblige obvious message hurdle circle";
+var mnemonic = "harsh stairs sweet uphold quality erode possible jealous panda glad bread hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "trade right sunny liquid crumble joke embark neither easily planet column open";
+var mnemonic = "omit rich put soul music clock palm best voice zero clay exile";

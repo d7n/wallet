@@ -1,1 +1,1 @@
-var mnemonic = "adjust trick noble penalty memory camp polar visa tissue nothing force practice";
+var mnemonic = "media push guard depend liberty matter pear snow oven pet toe maze";

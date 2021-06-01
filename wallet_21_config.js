@@ -1,1 +1,1 @@
-var mnemonic = "monster gown arm tribe reopen volume thumb vivid mandate fatal labor mule";
+var mnemonic = "pause feature repeat laptop detect accident quit farm bright era inch man";

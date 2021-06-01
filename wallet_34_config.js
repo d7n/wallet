@@ -1,1 +1,1 @@
-var mnemonic = "table clinic again camera drive viable design forest artefact song coconut trophy";
+var mnemonic = "city apart own sell clutch immune error piece vacant inner purity cute";

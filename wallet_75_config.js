@@ -1,1 +1,1 @@
-var mnemonic = "present hunt there leg midnight frequent current banner clay veteran struggle clock";
+var mnemonic = "couch narrow sunny injury cousin misery error kind code beef victory sail";

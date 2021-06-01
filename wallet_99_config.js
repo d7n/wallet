@@ -1,1 +1,1 @@
-var mnemonic = "volume tornado group rescue ball recall ladder pottery same crater unique keep";
+var mnemonic = "banner hockey ill device dice chicken slam wall sponsor force remind improve";

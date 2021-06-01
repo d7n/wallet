@@ -1,1 +1,1 @@
-var mnemonic = "cabbage prosper impact proof heart elite trophy awake later interest junk fork";
+var mnemonic = "short heavy gorilla dove betray suspect miss kiss common miracle fade shrug";

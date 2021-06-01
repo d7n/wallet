@@ -1,1 +1,1 @@
-var mnemonic = "blur patrol way slab tube run coconut bread search banana cross pluck";
+var mnemonic = "lumber tower toast oven still grid menu lounge arch solution nerve include";

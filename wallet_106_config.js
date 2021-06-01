@@ -1,1 +1,1 @@
-var mnemonic = "tortoise extend hundred mean divide pistol diet cabin trouble ribbon below lunch";
+var mnemonic = "whale junk boil pipe charge resource end side oblige math field sure";

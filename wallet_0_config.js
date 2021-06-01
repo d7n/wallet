@@ -1,1 +1,1 @@
-var mnemonic = "excess catalog regret faculty point devote orient slush steel sock light choose";
+var mnemonic = "promote obvious donor burger alert dinosaur valley jungle cage group depth artist";

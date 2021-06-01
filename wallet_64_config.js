@@ -1,1 +1,1 @@
-var mnemonic = "sibling once above million aisle bubble peace swing prize snake grab mean";
+var mnemonic = "room slide obscure parade flush rescue small vast sort other bulb spring";

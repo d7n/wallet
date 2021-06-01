@@ -1,1 +1,1 @@
-var mnemonic = "sure pink broccoli hub audit client notice enact animal box result bitter";
+var mnemonic = "dove auction total among final simple maple fold present audit civil unit";

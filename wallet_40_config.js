@@ -1,1 +1,1 @@
-var mnemonic = "lemon rate bag pumpkin shine heart century army letter glue auction boost";
+var mnemonic = "general bargain veteran rifle coconut collect example over wink fatal distance drill";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot rookie bullet diary there meat turtle tribe analyst famous senior live";
+var mnemonic = "heavy tackle shoot labor giggle evil plug blanket page foam goat foil";

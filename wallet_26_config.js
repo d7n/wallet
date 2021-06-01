@@ -1,1 +1,1 @@
-var mnemonic = "leave history public defy erode ozone nothing view cotton stool vast side";
+var mnemonic = "pen exchange course stairs kangaroo silk oyster glow season welcome surprise hire";

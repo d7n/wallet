@@ -1,1 +1,1 @@
-var mnemonic = "debris wild lesson submit flame scatter wasp melt bulb strike birth unveil";
+var mnemonic = "account sense usual tomorrow current card south cute pudding food drift prefer";

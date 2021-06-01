@@ -1,1 +1,1 @@
-var mnemonic = "borrow expire boss thought denial craft august resource they intact thrive assault";
+var mnemonic = "stone naive defense guess hair bulk tiger search cluster pair design topic";

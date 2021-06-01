@@ -1,1 +1,1 @@
-var mnemonic = "canoe chunk piece arrange vintage rain concert wrestle order belt uniform turtle";
+var mnemonic = "drill comfort damp glance twist puzzle few aware camp nurse palace breeze";

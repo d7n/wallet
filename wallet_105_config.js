@@ -1,1 +1,1 @@
-var mnemonic = "idle unusual shove price major young hazard screen debris brick caught lyrics";
+var mnemonic = "sadness mind diamond private buzz raven disorder neglect manual nut situate name";

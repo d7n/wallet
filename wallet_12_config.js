@@ -1,1 +1,1 @@
-var mnemonic = "pave announce miracle series remind green worth verb fashion welcome drastic device";
+var mnemonic = "pretty section afford shift mask admit eye web novel bless final spider";

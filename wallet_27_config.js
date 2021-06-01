@@ -1,1 +1,1 @@
-var mnemonic = "govern gap energy erosion glove young spoon neck summer salute pattern abuse";
+var mnemonic = "rack pulse engine vanish lesson noodle fence answer gossip indicate appear chief";

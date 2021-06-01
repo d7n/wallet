@@ -1,1 +1,1 @@
-var mnemonic = "olympic tide pioneer tray sample stomach treat century scorpion spring share taxi";
+var mnemonic = "bean marriage arm horn elbow soon matrix fall brown unknown resource void";

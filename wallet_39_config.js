@@ -1,1 +1,1 @@
-var mnemonic = "sphere super kind purpose lumber dwarf boat target cover village riot major";
+var mnemonic = "soccer arena coast section obtain local sauce tennis bean wealth bag rigid";

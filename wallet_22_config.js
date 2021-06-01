@@ -1,1 +1,1 @@
-var mnemonic = "roast equal expire ball return nest video thunder alpha blush hub share";
+var mnemonic = "puppy note keen select pond patient wrestle enforce garden garbage zero champion";

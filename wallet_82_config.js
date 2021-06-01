@@ -1,1 +1,1 @@
-var mnemonic = "naive tortoise actor sting genius hero gown switch negative camera wheat mesh";
+var mnemonic = "visa thing super ski wonder genre basic source fox harbor minor auction";

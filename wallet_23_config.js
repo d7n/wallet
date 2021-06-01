@@ -1,1 +1,1 @@
-var mnemonic = "enroll path bind joy patient huge desert fury power alert strike fabric";
+var mnemonic = "visa similar pitch consider absorb peasant evil strong grain play oppose pear";

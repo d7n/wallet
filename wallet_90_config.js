@@ -1,1 +1,1 @@
-var mnemonic = "spawn trick give kidney remind radar tornado love indicate expand face escape";
+var mnemonic = "world color problem skate already already burden denial slow uphold fossil report";

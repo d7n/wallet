@@ -1,1 +1,1 @@
-var mnemonic = "budget dose seek message hard setup pulp approve quality poet royal scatter";
+var mnemonic = "urban scale zoo unfair memory fault achieve maze suit chunk pulp usual";

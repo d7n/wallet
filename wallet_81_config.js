@@ -1,1 +1,1 @@
-var mnemonic = "gospel village pave jungle access bundle flush learn turn mention scrap industry";
+var mnemonic = "change cause dirt exclude crew fire remain trick series peanut citizen loan";

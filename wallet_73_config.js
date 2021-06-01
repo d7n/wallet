@@ -1,1 +1,1 @@
-var mnemonic = "peace deer teach pair suggest lava evil inner bring mention ranch regret";
+var mnemonic = "sheriff sense chef stay debate comic wreck pig allow grass fabric pencil";

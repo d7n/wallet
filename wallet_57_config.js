@@ -1,1 +1,1 @@
-var mnemonic = "pistol begin clinic latin usage lonely whip please sun supreme client elevator";
+var mnemonic = "craft vicious visual weather bless dilemma pulse fall city busy scatter gaze";

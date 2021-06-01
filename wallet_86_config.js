@@ -1,1 +1,1 @@
-var mnemonic = "bridge must isolate wife room just swear runway cave melody meat universe";
+var mnemonic = "history elder bean crisp dragon grow crazy cage law glow country potato";

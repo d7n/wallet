@@ -1,1 +1,1 @@
-var mnemonic = "buffalo roast stumble music level elite about speak retreat inform denial depth";
+var mnemonic = "remind leg wash slight force yellow word wash subject fossil blossom expose";

@@ -1,1 +1,1 @@
-var mnemonic = "wild glow crowd soul obscure promote proud left doctor oblige heavy scrub";
+var mnemonic = "weather venture barrel access abandon gaze connect search day giggle ten exchange";

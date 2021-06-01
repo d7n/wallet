@@ -1,1 +1,1 @@
-var mnemonic = "powder machine decrease lawn casino news pyramid bargain fire scare execute outside";
+var mnemonic = "poet elegant practice icon live rain like unit portion extend change total";

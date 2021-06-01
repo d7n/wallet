@@ -1,1 +1,1 @@
-var mnemonic = "word next echo couch exchange gaze else patrol join right gun unfair";
+var mnemonic = "slim normal elegant cradle genre throw vapor volcano sting agent pledge glance";

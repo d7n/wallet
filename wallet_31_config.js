@@ -1,1 +1,1 @@
-var mnemonic = "fame feel custom pull lumber future pudding narrow fetch claim dilemma lyrics";
+var mnemonic = "that pill chapter run impulse relax laugh success erase grant debate endorse";

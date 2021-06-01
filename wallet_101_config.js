@@ -1,1 +1,1 @@
-var mnemonic = "buffalo knee arena ticket arctic figure foster shadow glad manual reason pipe";
+var mnemonic = "hope system oyster expect glad neutral believe void little cause advance large";

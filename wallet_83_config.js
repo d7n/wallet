@@ -1,1 +1,1 @@
-var mnemonic = "state brain category squeeze record tool neglect hill urban debris already cliff";
+var mnemonic = "similar busy enhance quarter siege lend place jaguar category below pistol smile";

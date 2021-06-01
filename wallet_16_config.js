@@ -1,1 +1,1 @@
-var mnemonic = "rug whip possible style rice solar couch awkward outer mind violin rich";
+var mnemonic = "fabric mesh alcohol observe mosquito warm oppose rain crawl sweet good dwarf";

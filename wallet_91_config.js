@@ -1,1 +1,1 @@
-var mnemonic = "glove pistol light riot wrist giant artwork equal turn april arrow ski";
+var mnemonic = "fun noble fox ride system fat brief school volume lab extra margin";

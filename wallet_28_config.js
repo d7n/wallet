@@ -1,1 +1,1 @@
-var mnemonic = "maple skull stay egg lens uncle lava deposit grief topple west since";
+var mnemonic = "fee stool icon wisdom physical lyrics actual debate learn web trip clinic";

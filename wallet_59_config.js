@@ -1,1 +1,1 @@
-var mnemonic = "melody display submit echo review pole violin vague weapon hard sustain plunge";
+var mnemonic = "quote major actor soda fun history account hammer amateur inquiry enact gift";

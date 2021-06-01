@@ -1,1 +1,1 @@
-var mnemonic = "elephant library castle public crew brother abstract brass mean absurd scrap federal";
+var mnemonic = "sign casual size strike awful dress meadow concert recall install pulp trust";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit install female pulp scout pill obey already conduct sign cherry web";
+var mnemonic = "away impose accident leader toward tiny agree hunt copy depend pond resist";

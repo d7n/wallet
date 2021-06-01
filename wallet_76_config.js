@@ -1,1 +1,1 @@
-var mnemonic = "adapt clap entry solution master build alien snap taxi private derive metal";
+var mnemonic = "purity enable donor inch exclude cycle unable tattoo trouble later major way";

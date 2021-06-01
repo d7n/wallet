@@ -1,1 +1,1 @@
-var mnemonic = "fiction either glove cactus october stool second material update glance raw space";
+var mnemonic = "bench envelope circle glue once admit lawn bundle federal follow divorce inject";

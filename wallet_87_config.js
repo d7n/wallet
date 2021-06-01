@@ -1,1 +1,1 @@
-var mnemonic = "guide bag list strategy tenant addict vintage cake swamp tornado helmet expose";
+var mnemonic = "critic boat denial scissors need dream strike train enact phone mandate expire";

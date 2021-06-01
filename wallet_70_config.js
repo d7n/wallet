@@ -1,1 +1,1 @@
-var mnemonic = "chronic address girl olympic vivid manage budget purse husband recall scissors cushion";
+var mnemonic = "jealous excuse second gravity orphan solid ten disagree announce concert connect nasty";

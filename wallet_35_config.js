@@ -1,1 +1,1 @@
-var mnemonic = "promote journey trumpet park rescue prize coconut rib chapter match giggle joy";
+var mnemonic = "flower voice monkey flip analyst female deal echo alarm stumble forest laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "purity glare amused tube random trust buffalo curtain uphold maid tomato home";
+var mnemonic = "banana fence human depth already false scissors toast long exchange sadness slim";

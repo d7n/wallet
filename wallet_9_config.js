@@ -1,1 +1,1 @@
-var mnemonic = "cool amount round suffer intact spice cross tourist normal lounge diamond gather";
+var mnemonic = "tribe drum wage brass wisdom opera birth deputy drill joy enjoy any";

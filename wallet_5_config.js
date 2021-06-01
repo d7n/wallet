@@ -1,1 +1,1 @@
-var mnemonic = "fee alcohol bid please floor summer absurd nasty arctic valley magnet little";
+var mnemonic = "fruit grief hero seed build police cinnamon gold soap volcano disorder cliff";

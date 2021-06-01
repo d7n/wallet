@@ -1,1 +1,1 @@
-var mnemonic = "forward robust expose high select material clinic maple pumpkin about notable sweet";
+var mnemonic = "festival certain stereo current inside now multiply erode hand weapon lend affair";

@@ -1,1 +1,1 @@
-var mnemonic = "legal flat athlete habit charge bundle enter muffin foil eternal sell coast";
+var mnemonic = "erase bulb surface punch carpet clump lottery remove main lock gap luxury";

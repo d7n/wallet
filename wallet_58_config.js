@@ -1,1 +1,1 @@
-var mnemonic = "mix pitch agree odor fancy solid stairs inmate invest casual phrase fire";
+var mnemonic = "sport nice budget clean initial liquid execute reveal until mom pause pattern";

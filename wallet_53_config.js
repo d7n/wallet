@@ -1,1 +1,1 @@
-var mnemonic = "memory minor wash dice opera wink drive slab giggle resource replace accident";
+var mnemonic = "tip gadget hundred lonely roast project model what maid senior beyond opera";

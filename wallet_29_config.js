@@ -1,1 +1,1 @@
-var mnemonic = "apple hedgehog orphan mansion chronic staff advice canyon limit require act sword";
+var mnemonic = "inspire pave awkward tornado faith minute dose plunge dawn disorder predict relief";

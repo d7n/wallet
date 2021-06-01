@@ -1,1 +1,1 @@
-var mnemonic = "method salt metal economy develop shock raccoon name fatal alien also brush";
+var mnemonic = "way pizza animal find uniform accident hotel deny discover course actor one";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor usage express shoulder drink obvious spin top luxury survey enrich potato";
+var mnemonic = "blade suspect edge winter move cricket monster amateur obscure agent patch float";

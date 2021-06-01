@@ -1,1 +1,1 @@
-var mnemonic = "pencil burger capital sand history city fiction file burger bachelor angry about";
+var mnemonic = "chef liberty include sugar globe slam tobacco left shoot wise rack simple";

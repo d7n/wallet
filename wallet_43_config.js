@@ -1,1 +1,1 @@
-var mnemonic = "tired casino luxury cup crucial mesh head enrich eye dirt minor arrive";
+var mnemonic = "hundred black mobile symbol noble sing seven capital venture clean frown absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gesture news small taste nasty bus federal junior hair crack float";
+var mnemonic = "stamp clog protect ready maple say disorder plug garbage ginger heavy student";

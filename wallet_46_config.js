@@ -1,1 +1,1 @@
-var mnemonic = "open mandate resemble magic repeat problem garden plastic comic approve tourist coffee";
+var mnemonic = "owner duck gas glove hint never bleak ill funny chapter dust risk";

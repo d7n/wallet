@@ -1,1 +1,1 @@
-var mnemonic = "medal hint destroy gold buyer husband aspect address claim copper bike loyal";
+var mnemonic = "badge gas section response title naive monster spread hobby junior over favorite";

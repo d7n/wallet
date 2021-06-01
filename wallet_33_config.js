@@ -1,1 +1,1 @@
-var mnemonic = "stock disorder check confirm bike charge response liar maid feel scale enhance";
+var mnemonic = "coil truck breeze goat elbow crawl talent often foam cousin manual ready";

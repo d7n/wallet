@@ -1,1 +1,1 @@
-var mnemonic = "pledge idea keep recycle grief garbage below region hat bird sad either";
+var mnemonic = "alien chicken dice price accident magic cotton leg select note giant body";

@@ -1,1 +1,1 @@
-var mnemonic = "goat tuna devote song worry soft yard extend asthma exclude amateur bacon";
+var mnemonic = "smart business medal hen cook version today syrup ramp wave now arrow";

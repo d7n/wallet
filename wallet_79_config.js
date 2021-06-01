@@ -1,1 +1,1 @@
-var mnemonic = "goddess bird girl female gown resemble wave bomb bar north zero clinic";
+var mnemonic = "jaguar sustain ski exhaust inch gun mouse jelly cycle afford donor win";

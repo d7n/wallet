@@ -1,1 +1,1 @@
-var mnemonic = "sport member glass gasp palm school limb apart arrive peanut slush trumpet";
+var mnemonic = "tooth law once peanut small copy robust alone link warfare icon glare";

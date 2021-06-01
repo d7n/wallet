@@ -1,1 +1,1 @@
-var mnemonic = "spawn ski motor celery remove immune busy tortoise ask trap hotel cement";
+var mnemonic = "cattle swarm bracket buffalo ritual wealth juice exist chuckle shine buzz victory";

@@ -1,1 +1,1 @@
-var mnemonic = "random donkey security always happy anxiety radio million cliff plate video marble";
+var mnemonic = "tiger kangaroo canvas table twist amount garment unit jump reject despair author";

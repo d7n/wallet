@@ -1,1 +1,1 @@
-var mnemonic = "alone inquiry total pool have mechanic raise post minimum nice jaguar naive";
+var mnemonic = "spike sign make bone share way tonight exhibit senior hedgehog neglect abstract";

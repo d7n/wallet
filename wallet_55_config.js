@@ -1,1 +1,1 @@
-var mnemonic = "dash shine outer sausage check secret blanket arrive struggle basic swap multiply";
+var mnemonic = "gate diagram original pause advance boss sand goat bicycle whale screen hat";

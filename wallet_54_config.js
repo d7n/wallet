@@ -1,1 +1,1 @@
-var mnemonic = "morning original camera only explain sound denial modify season hair december high";
+var mnemonic = "home phrase anger caution require resource champion echo job solar deny oak";

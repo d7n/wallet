@@ -1,1 +1,1 @@
-var mnemonic = "attitude nuclear style fitness cluster prefer crucial husband bring decade mandate betray";
+var mnemonic = "image system degree december uncle favorite dizzy behave connect urge easily hello";

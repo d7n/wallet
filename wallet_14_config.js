@@ -1,1 +1,1 @@
-var mnemonic = "venue apology weasel stereo version express edge mesh comfort happy obvious sauce";
+var mnemonic = "sand symbol crime fox measure liquid heart junior festival cute liberty cable";

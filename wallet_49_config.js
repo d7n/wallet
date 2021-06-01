@@ -1,1 +1,1 @@
-var mnemonic = "tomato filter vibrant shy column axis host know face diet work monitor";
+var mnemonic = "skirt wait sister absurd since alien trust where ozone tiger announce essence";

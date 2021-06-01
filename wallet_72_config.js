@@ -1,1 +1,1 @@
-var mnemonic = "black crouch course usual swallow awful begin diamond protect donor lecture drum";
+var mnemonic = "cigar economy discover chat allow blur sword auto label marble spirit mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "stock census pupil angle build reduce bleak isolate jungle plate lawn merge";
+var mnemonic = "grunt crop orient asthma salmon trap guilt track unaware gold used have";

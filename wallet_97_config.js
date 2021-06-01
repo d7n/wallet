@@ -1,1 +1,1 @@
-var mnemonic = "acoustic example capital hamster receive kiss silly forum degree soccer again wire";
+var mnemonic = "engage person entire wonder deer paddle loop leopard baby mean brief furnace";

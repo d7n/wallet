@@ -1,1 +1,1 @@
-var mnemonic = "maximum treat hire abstract dust reject vocal palace pig castle belt helmet";
+var mnemonic = "trigger zebra flat lawsuit panel turkey tumble inside sphere uniform supply left";

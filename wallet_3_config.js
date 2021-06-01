@@ -1,1 +1,1 @@
-var mnemonic = "grit skirt enough athlete gain glad spice permit upset pear yard also";
+var mnemonic = "agree already nominee call more alone time urge oblige dash unaware ancient";

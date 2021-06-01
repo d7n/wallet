@@ -1,1 +1,1 @@
-var mnemonic = "ill fragile food expand soft tattoo question cheese globe heavy popular turn";
+var mnemonic = "illegal property usual spoil disorder marble salad elder ancient truly crash dream";

@@ -1,1 +1,1 @@
-var mnemonic = "slight inner glass abstract toilet verify gravity stereo chunk slab property faculty";
+var mnemonic = "anger coil mansion open elbow hedgehog upon display wall lounge olive zebra";
