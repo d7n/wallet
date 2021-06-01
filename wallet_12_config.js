@@ -1,1 +1,1 @@
-var mnemonic = "chef shop enrich sustain vocal valid crack stomach submit gossip west build";
+var mnemonic = "worth grab aim answer cry behind payment tired resist patrol primary practice";

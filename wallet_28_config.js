@@ -1,1 +1,1 @@
-var mnemonic = "agent arm afford bounce join stamp diet plunge inform rather spoon proud";
+var mnemonic = "good raw arrive head certain chimney seed business film inside boy enemy";

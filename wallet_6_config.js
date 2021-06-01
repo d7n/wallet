@@ -1,1 +1,1 @@
-var mnemonic = "deer chaos blind enable half bless boss siege void sun already off";
+var mnemonic = "peace skate patrol better betray better helmet car motor crime margin attack";

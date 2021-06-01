@@ -1,1 +1,1 @@
-var mnemonic = "cloth naive raccoon glue dizzy sheriff drama city tongue black bid enrich";
+var mnemonic = "brief capable roast lamp angle oyster duty salad receive rail help cram";

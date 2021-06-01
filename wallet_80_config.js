@@ -1,1 +1,1 @@
-var mnemonic = "write more snow night modify size popular glory sound owner add bomb";
+var mnemonic = "sea solid nature drink coil boring pyramid parade firm puzzle dice tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "price episode bomb mistake ladder neither motor detail speak toddler airport labor";
+var mnemonic = "code seat lobster simple climb still priority steak dizzy foil make swear";

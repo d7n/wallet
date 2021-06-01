@@ -1,1 +1,1 @@
-var mnemonic = "gorilla margin behave sign canyon oblige upper hamster frozen obtain bundle habit";
+var mnemonic = "october pioneer reform liberty vacuum lunar steak render brief area rich glow";

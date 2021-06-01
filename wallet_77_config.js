@@ -1,1 +1,1 @@
-var mnemonic = "cereal wool web embark baby since invest finger evil daughter upper umbrella";
+var mnemonic = "session spray unusual legend cage cloth agree can calm unique cruise opera";

@@ -1,1 +1,1 @@
-var mnemonic = "cement juice sell erase bamboo axis rigid echo blame property lucky parrot";
+var mnemonic = "excite inject keep attend unusual siege vintage army shine then hobby bus";

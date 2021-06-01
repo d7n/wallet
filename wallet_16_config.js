@@ -1,1 +1,1 @@
-var mnemonic = "pulse door pretty skirt grocery scatter fork phrase only glove gain patrol";
+var mnemonic = "combine cinnamon soap trouble fog tag snack flat lumber dilemma rather vivid";

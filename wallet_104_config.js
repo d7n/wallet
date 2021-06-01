@@ -1,1 +1,1 @@
-var mnemonic = "mad sing culture engage hamster giggle crush spoon hedgehog fury broken boss";
+var mnemonic = "note loop answer toy fit orbit pen wink feel wage put feel";

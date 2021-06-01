@@ -1,1 +1,1 @@
-var mnemonic = "tree lawsuit document parent strike equip noodle animal square jacket angry spell";
+var mnemonic = "hybrid museum talk story float true clap eight rain hurry barrel ride";

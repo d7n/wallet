@@ -1,1 +1,1 @@
-var mnemonic = "diesel code ecology clever fee height achieve opinion vault chaos average engine";
+var mnemonic = "river thrive vast salt cram lobster duck cricket custom base track blame";

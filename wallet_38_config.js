@@ -1,1 +1,1 @@
-var mnemonic = "busy level about isolate dust mistake guide ginger kangaroo churn surge shrug";
+var mnemonic = "track lyrics entry deny park rose poet again chaos talent cruel weasel";

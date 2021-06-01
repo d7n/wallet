@@ -1,1 +1,1 @@
-var mnemonic = "habit border laundry curious thing salon avocado since give jewel fine vintage";
+var mnemonic = "raise farm immune copy grocery cute orient life spy engine room scale";

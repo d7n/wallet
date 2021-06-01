@@ -1,1 +1,1 @@
-var mnemonic = "game soon truth that metal sad flee sell retreat curtain museum hawk";
+var mnemonic = "leisure kidney robot mobile target process crystal turtle guitar receive tell fog";

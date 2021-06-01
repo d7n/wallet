@@ -1,1 +1,1 @@
-var mnemonic = "spice mask bulk version party range spatial will ethics ugly rifle drastic";
+var mnemonic = "immune car vintage wish crumble page noble phrase globe glory auction word";

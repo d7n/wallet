@@ -1,1 +1,1 @@
-var mnemonic = "bamboo enact transfer boss group vapor renew honey scrub antique message air";
+var mnemonic = "fade genuine love rather few walnut bench thank scatter coconut okay betray";

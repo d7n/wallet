@@ -1,1 +1,1 @@
-var mnemonic = "index struggle dignity under stairs foam marble buddy tip plastic used where";
+var mnemonic = "reopen cook news icon display list neutral maple farm undo save tape";

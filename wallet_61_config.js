@@ -1,1 +1,1 @@
-var mnemonic = "sister lucky observe stem rookie life garment flame style panel cherry captain";
+var mnemonic = "announce treat best brown alter food benefit leaf alien biology parade sponsor";

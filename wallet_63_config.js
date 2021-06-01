@@ -1,1 +1,1 @@
-var mnemonic = "insect shrug jungle wonder mesh hen police put tissue will grace moon";
+var mnemonic = "fashion item rare race tissue achieve door female repair fold pen bronze";

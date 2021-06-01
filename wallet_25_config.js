@@ -1,1 +1,1 @@
-var mnemonic = "supply digital float decorate alcohol pistol gas tail crawl seat sniff spirit";
+var mnemonic = "trophy keep river skull tomato client danger abandon special dance alpha reveal";

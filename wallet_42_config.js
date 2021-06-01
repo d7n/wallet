@@ -1,1 +1,1 @@
-var mnemonic = "kit payment hockey end rookie exchange frame rich juice argue cloud own";
+var mnemonic = "subway ocean jump always call soda alter bean song pole luggage noble";

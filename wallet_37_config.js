@@ -1,1 +1,1 @@
-var mnemonic = "define shadow winter stone oxygen oyster isolate injury mind rotate rough tape";
+var mnemonic = "tooth noise minimum armed gaze dog debris dignity solar clump card matrix";

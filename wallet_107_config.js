@@ -1,1 +1,1 @@
-var mnemonic = "exact option warm wheel hurt bridge flower rabbit depart cherry cabbage jealous";
+var mnemonic = "ivory grace vital economy must describe vacuum ocean cannon pet decrease topic";

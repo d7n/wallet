@@ -1,1 +1,1 @@
-var mnemonic = "similar pill flock math suffer cloud oyster struggle aim shrug endorse scorpion";
+var mnemonic = "garment improve galaxy purity slide typical news coral potato orphan vendor burst";

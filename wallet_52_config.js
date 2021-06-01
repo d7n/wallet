@@ -1,1 +1,1 @@
-var mnemonic = "magnet giraffe boost soccer sight radar extra arena version fragile also gold";
+var mnemonic = "rely spot dish museum copy wolf coach impose carry coffee circle camp";

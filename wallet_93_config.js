@@ -1,1 +1,1 @@
-var mnemonic = "enemy conduct dirt head extend expire donor coin wide ritual elegant cliff";
+var mnemonic = "together blouse void vanish airport memory want home hip radar plunge soon";

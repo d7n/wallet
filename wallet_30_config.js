@@ -1,1 +1,1 @@
-var mnemonic = "witness bird song emotion torch occur violin tuition town april enemy charge";
+var mnemonic = "learn robust must wonder nothing lucky achieve tell auto genuine jelly door";

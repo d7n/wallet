@@ -1,1 +1,1 @@
-var mnemonic = "unique pyramid guide ticket post happy leg yellow lemon fix provide guess";
+var mnemonic = "casino west hour april pave filter certain steel brick moment fox duck";

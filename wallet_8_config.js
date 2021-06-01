@@ -1,1 +1,1 @@
-var mnemonic = "before unfold fan meadow end unique produce essence quarter judge mirror improve";
+var mnemonic = "join strike talent patient proud between hover famous grant sign box rescue";

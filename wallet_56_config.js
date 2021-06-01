@@ -1,1 +1,1 @@
-var mnemonic = "prison risk camp envelope unique answer poet cheese able risk giggle wrap";
+var mnemonic = "direct index prison switch theory rural sound search advice winner vast gloom";

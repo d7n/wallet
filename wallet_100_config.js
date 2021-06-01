@@ -1,1 +1,1 @@
-var mnemonic = "today supply review fringe enroll ten stem crater cliff heavy replace coach";
+var mnemonic = "disagree table number guess pelican thrive stuff priority intact budget green citizen";

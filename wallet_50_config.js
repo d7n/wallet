@@ -1,1 +1,1 @@
-var mnemonic = "tuition fruit boost robust together oval regular husband dismiss axis fan autumn";
+var mnemonic = "pact slide machine august much predict expire expire february shock scrub focus";

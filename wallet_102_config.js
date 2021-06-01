@@ -1,1 +1,1 @@
-var mnemonic = "basic decade muscle legal mistake exchange electric unlock farm crash cluster cash";
+var mnemonic = "loan patch feature spawn shield advice bracket hover mistake where sell lyrics";

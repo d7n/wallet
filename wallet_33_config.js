@@ -1,1 +1,1 @@
-var mnemonic = "mistake empty reward brush dragon paper long mandate elbow junk lion sustain";
+var mnemonic = "excuse opinion rich finger wrong ladder forward ask jazz logic crime like";

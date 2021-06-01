@@ -1,1 +1,1 @@
-var mnemonic = "two tiger prosper various pattern soccer prosper urge update act total crazy";
+var mnemonic = "exit bench blood weapon kind green people close tip crunch point cross";

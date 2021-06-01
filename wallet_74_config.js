@@ -1,1 +1,1 @@
-var mnemonic = "eye use melody payment cactus very twenty wine umbrella express better guitar";
+var mnemonic = "judge cause space cradle shield hour say offer donor blood sketch task";

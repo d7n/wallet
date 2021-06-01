@@ -1,1 +1,1 @@
-var mnemonic = "asthma private rack illness verify muscle exhaust blush hover secret crane cost";
+var mnemonic = "sea mosquito pitch giant pluck donate arena turkey move list around casual";

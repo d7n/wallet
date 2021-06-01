@@ -1,1 +1,1 @@
-var mnemonic = "lens enlist candy surprise apology lumber walk prevent casual olympic sister midnight";
+var mnemonic = "wing crane medal safe flight describe lend cake unhappy tongue crane shed";

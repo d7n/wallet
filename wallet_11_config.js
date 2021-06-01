@@ -1,1 +1,1 @@
-var mnemonic = "mind trick never ugly claim village senior quality over kangaroo brisk library";
+var mnemonic = "satoshi frown fox wrong machine immune account alter birth bus reopen hood";

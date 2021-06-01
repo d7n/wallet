@@ -1,1 +1,1 @@
-var mnemonic = "submit pink thumb thank mule clutch shove snake rifle cruise innocent jealous";
+var mnemonic = "name pass repair steak perfect sail rough garlic file cable gauge chief";

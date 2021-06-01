@@ -1,1 +1,1 @@
-var mnemonic = "desk mechanic sample fade wreck wreck trap kangaroo eternal insane head museum";
+var mnemonic = "topic bargain hat addict era brother muffin film pool cruel turkey goat";

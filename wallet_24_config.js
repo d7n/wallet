@@ -1,1 +1,1 @@
-var mnemonic = "above shed extend ready mother begin crawl trash quick nut angry steel";
+var mnemonic = "magic poet fee mean worth jungle year hero cram favorite half trip";

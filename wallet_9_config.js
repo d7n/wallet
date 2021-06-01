@@ -1,1 +1,1 @@
-var mnemonic = "legal clap differ announce time ridge usage arm almost divorce adapt ridge";
+var mnemonic = "hope upset answer pave mushroom hammer gap mask puppy circle toilet amount";

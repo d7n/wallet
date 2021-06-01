@@ -1,1 +1,1 @@
-var mnemonic = "gaze satisfy loud mercy glare dirt enter arena glare nasty invite enrich";
+var mnemonic = "payment grief idea weapon choose member violin custom knife century rate latin";

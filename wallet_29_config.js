@@ -1,1 +1,1 @@
-var mnemonic = "huge emotion supreme future strike sort crouch novel chase absorb tenant powder";
+var mnemonic = "seven invite conduct meat salt pair obtain expire mixed roof struggle team";

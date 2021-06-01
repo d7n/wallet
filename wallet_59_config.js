@@ -1,1 +1,1 @@
-var mnemonic = "desk little panel sweet cream genuine sport become exile grocery fever mandate";
+var mnemonic = "ten room language plunge super alone prevent margin naive foil desk assist";

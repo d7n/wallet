@@ -1,1 +1,1 @@
-var mnemonic = "estate kite fire birth leisure truck vote permit basic desert scare ten";
+var mnemonic = "design relief deputy sell visa enemy novel april wheel like tragic flee";

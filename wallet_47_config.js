@@ -1,1 +1,1 @@
-var mnemonic = "initial lens actual assault fence panda then tooth wall afford lunch badge";
+var mnemonic = "viable casual little slush often rule top taxi sad example collect life";

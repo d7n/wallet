@@ -1,1 +1,1 @@
-var mnemonic = "hero ignore local pumpkin green husband chat sight shield issue magic health";
+var mnemonic = "increase vocal already uniform seed mail page power require song spirit equal";

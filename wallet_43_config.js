@@ -1,1 +1,1 @@
-var mnemonic = "busy hamster various runway stone prosper onion alert spike above rice file";
+var mnemonic = "thank prevent hammer rack memory whisper someone cannon skin tired wagon accident";

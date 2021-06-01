@@ -1,1 +1,1 @@
-var mnemonic = "sustain poem width blood duck omit wagon better crazy claw bless hurry";
+var mnemonic = "tomato eternal tuition oil bid fiber school ridge trigger disagree tonight tree";

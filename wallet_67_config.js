@@ -1,1 +1,1 @@
-var mnemonic = "tourist corn replace poet nerve erase elegant pistol force entry ranch soon";
+var mnemonic = "harbor kind grain refuse segment someone atom gallery broom violin couch cat";

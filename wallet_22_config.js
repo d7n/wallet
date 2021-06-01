@@ -1,1 +1,1 @@
-var mnemonic = "leisure remain shrug bid empower cheap word old bone waste punch mean";
+var mnemonic = "elbow mail stable shoot educate feed dirt town first sauce enough coin";

@@ -1,1 +1,1 @@
-var mnemonic = "oval pumpkin night quarter credit under people cave omit aim spin effort";
+var mnemonic = "simple six pink nest space access appear unfold sand disease rotate loud";

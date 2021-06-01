@@ -1,1 +1,1 @@
-var mnemonic = "library wheat answer scissors search salute cattle cherry perfect tell kite drive";
+var mnemonic = "disease young relax awesome burger economy uphold possible worth expire grow one";

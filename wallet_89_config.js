@@ -1,1 +1,1 @@
-var mnemonic = "bullet immense ritual urban minor trim pact endless clap disorder excite try";
+var mnemonic = "endless awake anchor twist believe effort stove clerk lab great eagle distance";

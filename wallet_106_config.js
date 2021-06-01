@@ -1,1 +1,1 @@
-var mnemonic = "gossip audit lonely wear soap suggest foot retreat shaft consider around verify";
+var mnemonic = "burger virus have attitude letter immune board dentist art goat sphere history";

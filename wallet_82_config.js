@@ -1,1 +1,1 @@
-var mnemonic = "vicious proof walnut skate cash crowd subway lyrics gain pill accuse kid";
+var mnemonic = "before security pupil frozen amused alien team gather conduct welcome mind exile";

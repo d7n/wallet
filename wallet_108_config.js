@@ -1,1 +1,1 @@
-var mnemonic = "assume soap when fuel caution manual excite toast ranch way strategy piano";
+var mnemonic = "matter bachelor forum buyer often beauty game betray practice trim range brother";

@@ -1,1 +1,1 @@
-var mnemonic = "decline merit chief style brother book main below once museum menu arm";
+var mnemonic = "foster differ brand dry ramp gain sun exotic shallow list vivid drill";

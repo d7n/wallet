@@ -1,1 +1,1 @@
-var mnemonic = "fluid flash follow frost mercy mean emerge save miracle rigid glory gauge";
+var mnemonic = "test genre decorate debris clock below leaf knee chaos napkin piano tiger";

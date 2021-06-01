@@ -1,1 +1,1 @@
-var mnemonic = "hair mesh future shy dream corn install fresh timber steak damage describe";
+var mnemonic = "enlist arena require egg dice segment various twist august nominee across ladder";

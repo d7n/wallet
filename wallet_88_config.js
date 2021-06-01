@@ -1,1 +1,1 @@
-var mnemonic = "festival shrug chalk agent novel market rotate over resource phone runway burger";
+var mnemonic = "family chapter twice help loan bag correct fall shiver wish kiss real";

@@ -1,1 +1,1 @@
-var mnemonic = "wife own family prevent pelican fruit keen join holiday interest acquire remove";
+var mnemonic = "open cotton few plunge nasty warfare ignore blossom cable bubble diamond wise";

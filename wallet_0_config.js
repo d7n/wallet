@@ -1,1 +1,1 @@
-var mnemonic = "breeze want fatal blush film slam life fault anger ritual gravity strike";
+var mnemonic = "found dice humble bitter desert inmate office cement width spice fence hamster";

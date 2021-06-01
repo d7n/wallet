@@ -1,1 +1,1 @@
-var mnemonic = "vintage fade trade rebuild magic ivory throw garbage fiber corn bag screen";
+var mnemonic = "box more debris chest monster luxury foil distance pilot hub dial fetch";

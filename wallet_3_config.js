@@ -1,1 +1,1 @@
-var mnemonic = "repair gaze poem unlock sing prison dash bacon shop seven gift wage";
+var mnemonic = "script exercise mansion copy juice brain speak novel curve critic kangaroo source";

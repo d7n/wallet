@@ -1,1 +1,1 @@
-var mnemonic = "ribbon beyond open pepper output fatal craft kit sad crew goose close";
+var mnemonic = "razor sting letter snap swear tool tiger zero people heavy mechanic lottery";

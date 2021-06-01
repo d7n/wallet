@@ -1,1 +1,1 @@
-var mnemonic = "deal gloom tired clap cake essence other warrior wild lazy uncle twice";
+var mnemonic = "denial replace perfect detect person review rocket color sample green poem tiny";

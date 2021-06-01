@@ -1,1 +1,1 @@
-var mnemonic = "crazy false light lucky sorry episode bus lecture nephew head impact pyramid";
+var mnemonic = "load segment spatial indoor proud until resist snap phrase happy portion dwarf";

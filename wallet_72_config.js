@@ -1,1 +1,1 @@
-var mnemonic = "hand range edge maple wheat general oyster assume false weapon snack leader";
+var mnemonic = "alien dynamic train that april deliver prosper please useful wait clip make";

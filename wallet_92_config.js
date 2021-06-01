@@ -1,1 +1,1 @@
-var mnemonic = "myself desert broom pattern hold bless brick bus chapter ethics jar equal";
+var mnemonic = "pair rose license puppy next ball hollow adapt eager loop adjust metal";

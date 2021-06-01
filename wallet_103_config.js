@@ -1,1 +1,1 @@
-var mnemonic = "icon bone broken corn payment time wife cheap mobile youth amateur credit";
+var mnemonic = "number giraffe body sweet chef sustain glue grow ancient crisp monitor resist";

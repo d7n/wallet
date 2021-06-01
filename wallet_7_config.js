@@ -1,1 +1,1 @@
-var mnemonic = "clump confirm essence uncle layer rural legal rookie segment swap proof shoot";
+var mnemonic = "monitor prosper hundred ride parent swear tape high food humor kiwi walk";

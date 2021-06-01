@@ -1,1 +1,1 @@
-var mnemonic = "either recall tide gossip wild injury kick manage robot margin box sister";
+var mnemonic = "stereo few play west hamster long caution airport mail holiday purpose rocket";

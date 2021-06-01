@@ -1,1 +1,1 @@
-var mnemonic = "foot cricket disagree position apology ketchup exercise trust road twelve delay team";
+var mnemonic = "ankle gym clump outer update salt syrup jacket game garage pull invite";

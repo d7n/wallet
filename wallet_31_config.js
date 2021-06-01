@@ -1,1 +1,1 @@
-var mnemonic = "year keen lion night radar seed unusual entry thought casino retreat swim";
+var mnemonic = "action sudden gallery fancy erosion maple unfair marine crouch antique candy core";

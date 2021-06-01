@@ -1,1 +1,1 @@
-var mnemonic = "dash pink uphold cotton hobby bulk mention target pony bachelor woman copy";
+var mnemonic = "feel insect danger worry water cream wheat fabric film garbage card group";

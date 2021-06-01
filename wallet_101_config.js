@@ -1,1 +1,1 @@
-var mnemonic = "test bounce parent pelican season tattoo patient health inside valve zone also";
+var mnemonic = "fitness soul volume strike obey fetch aerobic lens update pulp fashion design";

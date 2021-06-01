@@ -1,1 +1,1 @@
-var mnemonic = "notable witness theory immense turn clip ecology access argue gorilla turtle inspire";
+var mnemonic = "rescue tissue ankle pave distance tomato extra laugh problem nature shoe this";

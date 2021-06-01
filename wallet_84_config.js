@@ -1,1 +1,1 @@
-var mnemonic = "enact miss host hundred behind era laptop long vacuum turn wet neglect";
+var mnemonic = "aerobic blame length decrease private add shine dirt property cost suspect catch";

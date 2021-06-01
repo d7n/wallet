@@ -1,1 +1,1 @@
-var mnemonic = "this best fury game disease boy alien regular elephant track kidney still";
+var mnemonic = "chat sniff bubble patrol shine reflect twenty enough simple code angry skill";

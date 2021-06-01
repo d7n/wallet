@@ -1,1 +1,1 @@
-var mnemonic = "dial weapon virtual wild toilet slot habit mad transfer awkward outer rich";
+var mnemonic = "diary clap install anchor six text kidney order surround rain utility blossom";

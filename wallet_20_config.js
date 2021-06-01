@@ -1,1 +1,1 @@
-var mnemonic = "zero toss exhaust pond found car enact legend very moon busy gold";
+var mnemonic = "desert lemon recall blade noble tortoise kiss truth wing benefit remain ability";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle gloom grit pencil panther machine genius adult nominee mango kite require";
+var mnemonic = "fever segment trend issue gap increase group mandate exit cram mixture unfold";

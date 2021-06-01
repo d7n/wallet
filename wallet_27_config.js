@@ -1,1 +1,1 @@
-var mnemonic = "record siren small embody lock nuclear anchor horse brass armed book gas";
+var mnemonic = "ozone burst control gauge wall random busy winter valid source omit either";

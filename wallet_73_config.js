@@ -1,1 +1,1 @@
-var mnemonic = "popular sudden seminar must soccer stable season muffin remain wish common salt";
+var mnemonic = "vague warfare cliff village pupil child predict unlock idle story mean travel";

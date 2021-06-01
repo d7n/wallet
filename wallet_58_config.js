@@ -1,1 +1,1 @@
-var mnemonic = "elbow arrive snack cloud wrestle bar frozen cover helmet genius legend speed";
+var mnemonic = "actual suggest color slam profit bean wide chapter omit hip will aisle";

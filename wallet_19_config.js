@@ -1,1 +1,1 @@
-var mnemonic = "render uniform rely they cruise session hat occur primary proud truck churn";
+var mnemonic = "cushion fan screen alone fit era session saddle sample stereo nuclear pass";

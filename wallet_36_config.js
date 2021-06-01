@@ -1,1 +1,1 @@
-var mnemonic = "trade lend such sea diamond firm include weapon exhaust pumpkin next exercise";
+var mnemonic = "praise heavy mystery army bring sorry equal maze float obscure follow rely";

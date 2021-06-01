@@ -1,1 +1,1 @@
-var mnemonic = "olympic surface flush globe dune subway joy spider must merge talk drive";
+var mnemonic = "one abstract cram differ harvest hazard destroy toilet advance bonus love violin";

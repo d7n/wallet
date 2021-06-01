@@ -1,1 +1,1 @@
-var mnemonic = "young blame bind ten party kite believe scale payment mixed couch what";
+var mnemonic = "effort response parent park kingdom cattle extra trend box lion flat skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "better cause message pond surface harvest scare tomorrow void nation warm inner";
+var mnemonic = "catalog poet sunny race tiny satoshi wall easy rather brick cover rigid";
