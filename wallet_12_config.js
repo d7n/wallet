@@ -1,1 +1,1 @@
-var mnemonic = "explain bless raise stable negative tackle moral reason bubble return dinner visa";
+var mnemonic = "glory place torch disagree bind grocery ocean canyon venture wave great point";

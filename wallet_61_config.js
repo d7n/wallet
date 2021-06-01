@@ -1,1 +1,1 @@
-var mnemonic = "parrot friend undo enlist seek chalk flag alpha soap enjoy giraffe uncover";
+var mnemonic = "chase connect cheap amount goat manual end chief bonus hood private combine";

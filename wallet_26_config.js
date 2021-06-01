@@ -1,1 +1,1 @@
-var mnemonic = "hill grant modify subject junk quit spatial fossil throw when sing hill";
+var mnemonic = "use ski isolate perfect mountain rare fetch exclude stadium snow unusual scene";

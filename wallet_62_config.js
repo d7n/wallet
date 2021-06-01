@@ -1,1 +1,1 @@
-var mnemonic = "angry bone mule solution series air about tilt rifle try peace first";
+var mnemonic = "hello naive list easily fuel wheat evolve illegal budget rocket brown predict";

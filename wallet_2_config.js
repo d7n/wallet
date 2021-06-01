@@ -1,1 +1,1 @@
-var mnemonic = "gossip sweet tunnel average air duty crater okay disease crumble swim hood";
+var mnemonic = "recall sad basket unhappy remind wave insect bless forum hand club damp";

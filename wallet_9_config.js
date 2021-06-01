@@ -1,1 +1,1 @@
-var mnemonic = "mercy sentence banner wife already ability primary fee leaf erupt final december";
+var mnemonic = "wisdom turkey pudding nurse security room decide seven describe wood lumber daring";

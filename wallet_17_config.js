@@ -1,1 +1,1 @@
-var mnemonic = "scrub wood because broccoli stable grief hawk olive face deny analyst candy";
+var mnemonic = "absurd nasty trick mother laugh midnight broken nation involve normal brave emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "board flight orchard cook elbow fish give energy smoke artist sleep betray";
+var mnemonic = "myself again impact roof someone jungle naive have tongue bone appear mixed";

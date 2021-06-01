@@ -1,1 +1,1 @@
-var mnemonic = "rabbit crowd wall father wrap country pottery answer earth famous torch dirt";
+var mnemonic = "thumb punch marriage real kite hazard convince neck message print shove slogan";

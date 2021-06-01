@@ -1,1 +1,1 @@
-var mnemonic = "artist neck outside garbage hold access rookie silk inspire chest predict squirrel";
+var mnemonic = "city music mixture slot pull exotic spot tuition start jelly lecture screen";

@@ -1,1 +1,1 @@
-var mnemonic = "message mistake poem cat crime wrestle void dad strike clever equal sketch";
+var mnemonic = "clip frost any pretty wolf repeat tilt heavy disagree drift scout inch";

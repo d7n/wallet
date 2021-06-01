@@ -1,1 +1,1 @@
-var mnemonic = "advice job coast code release trust retire hotel quiz earth myth agree";
+var mnemonic = "hobby token total witness fun extra dish lobster tiger family space exchange";

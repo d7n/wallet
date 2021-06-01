@@ -1,1 +1,1 @@
-var mnemonic = "error keep dry dirt dash rough interest solar allow cave response genre";
+var mnemonic = "cover flash vivid void nurse sorry divert park save arrive clump dash";

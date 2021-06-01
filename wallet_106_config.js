@@ -1,1 +1,1 @@
-var mnemonic = "type project ripple magnet smooth inside awkward assume mirror twice always people";
+var mnemonic = "drastic split neck mass glove wonder symbol write fine dignity scare faint";

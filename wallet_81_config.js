@@ -1,1 +1,1 @@
-var mnemonic = "trumpet come shallow wheel method theory film broken swarm brick learn shove";
+var mnemonic = "rescue roast garment agent next depth disorder guilt long appear grace put";

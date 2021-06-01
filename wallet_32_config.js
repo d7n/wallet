@@ -1,1 +1,1 @@
-var mnemonic = "flock enhance scatter chair legal card outside tiny boss again rough road";
+var mnemonic = "frown drill embrace scissors alone length enforce become print fever host heart";

@@ -1,1 +1,1 @@
-var mnemonic = "cram episode domain polar negative nation bulb match journey crop magnet plate";
+var mnemonic = "razor glory frame peanut debate lucky all fire depart merry calm diagram";

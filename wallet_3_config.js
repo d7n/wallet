@@ -1,1 +1,1 @@
-var mnemonic = "dream genuine cannon sell vote pen fog first slot holiday despair crane";
+var mnemonic = "foil borrow carpet argue damage soul artist garden pave history mule always";

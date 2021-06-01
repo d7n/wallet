@@ -1,1 +1,1 @@
-var mnemonic = "spoil clutch render uniform toward oil tired unknown fame novel core useless";
+var mnemonic = "funny polar vote sunny mention park wreck suggest sea ripple spoil chat";

@@ -1,1 +1,1 @@
-var mnemonic = "evil keep thing garment churn mandate cat senior reduce tube what reflect";
+var mnemonic = "horror follow stereo hat action kangaroo taxi casino please joy where amazing";

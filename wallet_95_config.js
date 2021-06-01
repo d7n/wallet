@@ -1,1 +1,1 @@
-var mnemonic = "fabric dinosaur off kangaroo strategy unlock zero lake river smart bicycle tackle";
+var mnemonic = "bounce dad monkey state ensure trip screen weekend elder scene turtle rug";

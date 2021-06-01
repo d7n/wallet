@@ -1,1 +1,1 @@
-var mnemonic = "wasp fitness nerve when chair room manual relax illness ball bacon despair";
+var mnemonic = "during stick story obtain bubble owner syrup skirt apart piano nice acid";

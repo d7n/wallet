@@ -1,1 +1,1 @@
-var mnemonic = "label lonely region ribbon tooth tray figure cute possible pair rural clog";
+var mnemonic = "vacuum position invite defense tomorrow curious deposit found combine list walk tiny";

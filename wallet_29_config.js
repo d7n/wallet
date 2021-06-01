@@ -1,1 +1,1 @@
-var mnemonic = "shed delay dinner city lizard already dizzy adapt whip cake express holiday";
+var mnemonic = "finish ramp bike spray tooth engage country mutual inner cart subway success";

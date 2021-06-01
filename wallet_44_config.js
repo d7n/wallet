@@ -1,1 +1,1 @@
-var mnemonic = "assault swift mango used muscle brush athlete kind stamp balcony model wage";
+var mnemonic = "slush original wash marriage now knife tray summer phrase brick assault sphere";

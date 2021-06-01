@@ -1,1 +1,1 @@
-var mnemonic = "will scale ridge gaze supreme surge talent uniform flower step drift myself";
+var mnemonic = "head cup acquire mixture siege quit spoil wait fashion coast cluster math";

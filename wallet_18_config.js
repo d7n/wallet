@@ -1,1 +1,1 @@
-var mnemonic = "gym breeze stand ranch pipe cruise area report race album chair opinion";
+var mnemonic = "razor iron shoot hunt giraffe legal open virus oxygen desk degree seven";

@@ -1,1 +1,1 @@
-var mnemonic = "good then real mother fun baby write little grocery promote indoor wash";
+var mnemonic = "drama rural hover cradle trumpet goat earn fortune ostrich knee tell jealous";

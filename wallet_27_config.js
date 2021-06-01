@@ -1,1 +1,1 @@
-var mnemonic = "holiday horror dynamic ritual chicken staff cradle immune wise fade caught sound";
+var mnemonic = "wage city ice timber three donor topple person shaft once rude vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "better easy lizard soda wage like glance receive fish ice noodle paddle";
+var mnemonic = "journey planet quiz horror ready dinosaur coyote uncover else edit smooth minute";

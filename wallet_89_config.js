@@ -1,1 +1,1 @@
-var mnemonic = "fan metal hunt office below path crucial daring kitchen addict onion weather";
+var mnemonic = "blur average category bacon rigid shuffle private powder maple reward property fluid";

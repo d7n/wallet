@@ -1,1 +1,1 @@
-var mnemonic = "ramp clutch upper tent then animal air shrimp divert monkey tragic dose";
+var mnemonic = "merge jewel girl lava scissors lizard worry heart stone embody man media";

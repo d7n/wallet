@@ -1,1 +1,1 @@
-var mnemonic = "spy grief estate jaguar priority like wisdom december lion tragic crumble wear";
+var mnemonic = "bicycle carbon melody squirrel slogan great car eye moon lake priority decade";

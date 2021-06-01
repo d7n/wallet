@@ -1,1 +1,1 @@
-var mnemonic = "breeze globe tortoise purse wall coffee bundle door attract actual truck bottom";
+var mnemonic = "seminar virtual squirrel outer question device glove game model adult law sail";

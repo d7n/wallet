@@ -1,1 +1,1 @@
-var mnemonic = "gallery school volcano own melt direct engine gravity violin pioneer setup orphan";
+var mnemonic = "lake youth novel bone winner above dress bullet snow coconut shaft noodle";

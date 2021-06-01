@@ -1,1 +1,1 @@
-var mnemonic = "tuna rotate section shoe left trigger garment lunar erupt recycle seat misery";
+var mnemonic = "inject cricket ready oyster develop smooth priority embrace eagle sort flame topic";

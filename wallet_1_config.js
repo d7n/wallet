@@ -1,1 +1,1 @@
-var mnemonic = "swap uniform ghost state bless shiver spy example caught rabbit artist collect";
+var mnemonic = "exhaust equal accuse require almost equal clinic middle shiver average shell valve";

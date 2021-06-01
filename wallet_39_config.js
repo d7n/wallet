@@ -1,1 +1,1 @@
-var mnemonic = "dry sense reunion trust tonight awake autumn online vapor color ramp client";
+var mnemonic = "flash together all awake asthma virtual image mushroom awful core junk utility";

@@ -1,1 +1,1 @@
-var mnemonic = "camera syrup middle cattle jealous polar punch gown dragon concert about toss";
+var mnemonic = "umbrella note biology cover body route review renew define east south agree";

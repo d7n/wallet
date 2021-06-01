@@ -1,1 +1,1 @@
-var mnemonic = "panic arm satoshi melody patrol tell axis mercy ugly page oven vapor";
+var mnemonic = "dash venture apart regret artwork physical wealth purity oval market depend length";

@@ -1,1 +1,1 @@
-var mnemonic = "sail husband edge add awake endorse dove bind flash crawl rent memory";
+var mnemonic = "spike media erosion laugh brother much trial aisle north siren play brass";

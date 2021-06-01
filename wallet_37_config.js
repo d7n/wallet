@@ -1,1 +1,1 @@
-var mnemonic = "trial oil test right miracle between theme onion joke scatter border gold";
+var mnemonic = "skate clean confirm theory whisper laugh diamond train north evidence program demand";

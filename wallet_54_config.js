@@ -1,1 +1,1 @@
-var mnemonic = "broom cost float dove they shuffle noble scorpion inner select edge cotton";
+var mnemonic = "capable month jewel leopard body river always parade skill coconut south hero";

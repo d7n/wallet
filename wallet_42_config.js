@@ -1,1 +1,1 @@
-var mnemonic = "human quick tree humor punch equal hospital spawn suffer spend mix come";
+var mnemonic = "banner exclude unlock idle floor wonder blame anger crash beyond know warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "parade delay casual letter carpet witness laundry fee link mandate frown pink";
+var mnemonic = "primary knee sure club hip virus obtain stereo almost rabbit master army";

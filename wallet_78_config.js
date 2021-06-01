@@ -1,1 +1,1 @@
-var mnemonic = "cradle scorpion before man verify rate home fish palm phone iron lock";
+var mnemonic = "jump help benefit arm brief detail you until mouse gadget inner robust";

@@ -1,1 +1,1 @@
-var mnemonic = "danger tribe turkey balance awkward pumpkin olive laptop charge wave arctic theme";
+var mnemonic = "share know siren skill scatter eight error cover frequent ensure valve echo";

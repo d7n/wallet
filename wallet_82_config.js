@@ -1,1 +1,1 @@
-var mnemonic = "coil turtle enough goat sibling bridge hybrid frown hamster garage where evil";
+var mnemonic = "ready three recycle weekend canvas possible swear mom void office wrist pitch";

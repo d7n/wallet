@@ -1,1 +1,1 @@
-var mnemonic = "seminar inquiry shine glory seat attitude polar inflict miss screen recycle section";
+var mnemonic = "entry oak athlete second rule point physical purse egg wrong cloth report";

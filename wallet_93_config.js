@@ -1,1 +1,1 @@
-var mnemonic = "find turn verb dad hospital owner close dawn royal choose ship grant";
+var mnemonic = "author stadium burger result infant core refuse access cabin recall decade space";

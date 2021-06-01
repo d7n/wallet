@@ -1,1 +1,1 @@
-var mnemonic = "floor crime student medal force camera above level timber detail access stairs";
+var mnemonic = "vintage chuckle present alone glue thumb torch fame search add step shop";

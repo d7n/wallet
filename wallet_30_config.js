@@ -1,1 +1,1 @@
-var mnemonic = "green maid rally boring cancel attitude shock essay area ostrich card pistol";
+var mnemonic = "huge tongue tag what source helmet apple spot avoid brisk scan valley";

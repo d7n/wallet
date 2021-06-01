@@ -1,1 +1,1 @@
-var mnemonic = "bus menu theory abstract inquiry sword cheap clarify there muffin dragon humble";
+var mnemonic = "alcohol empty jeans base chunk glimpse winner kangaroo lunch suspect magic neglect";

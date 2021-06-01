@@ -1,1 +1,1 @@
-var mnemonic = "canoe viable off face garlic quantum virus force candy sample sight expose";
+var mnemonic = "dentist fury shine dog sniff wagon industry section girl young beach vintage";

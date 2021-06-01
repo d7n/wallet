@@ -1,1 +1,1 @@
-var mnemonic = "urban deliver play slim slab cabbage disagree roast bubble able someone oxygen";
+var mnemonic = "monkey soul tissue weapon camera snow celery cloud ready decorate seat forward";

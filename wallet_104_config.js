@@ -1,1 +1,1 @@
-var mnemonic = "planet rather narrow enter fiscal toast mistake inform sword identify suffer eye";
+var mnemonic = "wear display evoke cloth output rule season coconut super swallow also can";

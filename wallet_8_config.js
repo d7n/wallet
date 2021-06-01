@@ -1,1 +1,1 @@
-var mnemonic = "grid upset law else elevator web crack task caution stadium cactus raccoon";
+var mnemonic = "old play confirm refuse symbol below action hurry enhance health tilt vanish";

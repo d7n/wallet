@@ -1,1 +1,1 @@
-var mnemonic = "inform fiction diesel usage sunny safe bird knife add relief sentence shop";
+var mnemonic = "birth express curtain axis fitness canvas myth impulse champion drip retire valley";

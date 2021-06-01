@@ -1,1 +1,1 @@
-var mnemonic = "system current symbol work destroy remove buyer derive guilt debris laundry repeat";
+var mnemonic = "winner reflect alter snow advice below seven sketch clean knife rural stem";

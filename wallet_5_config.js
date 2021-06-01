@@ -1,1 +1,1 @@
-var mnemonic = "capital staff draft suit minute pave catch borrow mountain inject patch prize";
+var mnemonic = "soccer kingdom lend thank audit pelican victory script supreme banana law broken";

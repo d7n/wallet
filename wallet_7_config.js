@@ -1,1 +1,1 @@
-var mnemonic = "artefact piece shell gospel alone same fever answer month crucial satoshi text";
+var mnemonic = "usage laundry walnut visual all seat vacuum safe entry mosquito side rule";

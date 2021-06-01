@@ -1,1 +1,1 @@
-var mnemonic = "barrel tomorrow hope near cage prepare guess wife laugh sand laptop render";
+var mnemonic = "indoor beauty economy hamster kidney barrel skill scrap immense dish dice explain";

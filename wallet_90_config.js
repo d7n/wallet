@@ -1,1 +1,1 @@
-var mnemonic = "acquire anxiety regret problem surprise fold execute dwarf invite seek fashion foam";
+var mnemonic = "paper bring message agent ceiling all entry rose position toward layer rain";

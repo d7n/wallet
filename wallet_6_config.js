@@ -1,1 +1,1 @@
-var mnemonic = "chair dilemma cup coffee couch toss wheat evidence fan turn icon desk";
+var mnemonic = "portion teach december supreme sheriff real planet angle demand grace give rent";

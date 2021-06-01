@@ -1,1 +1,1 @@
-var mnemonic = "warrior crunch cabbage oven hidden trade hybrid success case response away oblige";
+var mnemonic = "secret struggle enforce plate assist fish winter peanut peasant scan beach ring";

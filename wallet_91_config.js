@@ -1,1 +1,1 @@
-var mnemonic = "famous scrub riot detail add journey marine beef hope fruit photo ignore";
+var mnemonic = "edit vital gown thought delay angry laugh diary magic fee mandate galaxy";

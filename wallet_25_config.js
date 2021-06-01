@@ -1,1 +1,1 @@
-var mnemonic = "infant soccer million slogan laugh decrease village multiply concert home road dream";
+var mnemonic = "dynamic shield health stand draft acquire roast wreck business blur reveal magnet";

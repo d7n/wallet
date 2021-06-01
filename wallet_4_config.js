@@ -1,1 +1,1 @@
-var mnemonic = "tip entire rotate potato disorder evoke tissue era question manual crouch reunion";
+var mnemonic = "tired bacon loyal audit lemon absorb pipe super valid stem able magnet";

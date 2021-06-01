@@ -1,1 +1,1 @@
-var mnemonic = "slide luggage around must victory until iron slender patient violin limb undo";
+var mnemonic = "tackle maximum bracket sphere vehicle radar coffee walnut clock type moral ball";

@@ -1,1 +1,1 @@
-var mnemonic = "original kiss forget surface timber liar ancient tonight dice tomorrow meat chimney";
+var mnemonic = "credit job clever move kitchen easily fiscal wedding silly ivory sad inherit";

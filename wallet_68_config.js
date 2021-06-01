@@ -1,1 +1,1 @@
-var mnemonic = "interest bring useless razor panic hip picture hurt leader diagram glow pen";
+var mnemonic = "tortoise noble bacon cabin evil about laptop shuffle chief spoil stamp shell";

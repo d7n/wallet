@@ -1,1 +1,1 @@
-var mnemonic = "find media layer warfare concert live capital used shadow antenna pond claim";
+var mnemonic = "bottom try crack cherry guilt property pistol faculty bright black garment aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch limit outer style wait matrix hill fatigue expect switch caution blue";
+var mnemonic = "friend citizen night enter recycle found harsh proof ask renew govern thrive";

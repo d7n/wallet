@@ -1,1 +1,1 @@
-var mnemonic = "mosquito finish luggage method define access cruel shrug stand direct below join";
+var mnemonic = "escape angry sock skin fiscal alpha firm arena comfort load equal tongue";

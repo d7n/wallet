@@ -1,1 +1,1 @@
-var mnemonic = "height leader client require stove melt best control desk infant dragon involve";
+var mnemonic = "crawl author gossip magnet similar when leave earth jelly firm mother cloth";

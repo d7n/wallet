@@ -1,1 +1,1 @@
-var mnemonic = "artist ladder example glimpse planet wrestle olive cloth rare march chef beef";
+var mnemonic = "silly basic toe speak worth notable deputy twice antique foam wife work";

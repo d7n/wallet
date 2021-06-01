@@ -1,1 +1,1 @@
-var mnemonic = "magnet left blame cabin crop elder force maximum minute combine wait length";
+var mnemonic = "column expire icon loyal scale damp drum report crop execute degree gas";

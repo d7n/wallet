@@ -1,1 +1,1 @@
-var mnemonic = "dash struggle end prize luxury settle payment orange submit question muscle orbit";
+var mnemonic = "oval dutch ocean split erode apology deny when body result census empty";

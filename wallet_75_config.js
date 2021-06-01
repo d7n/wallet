@@ -1,1 +1,1 @@
-var mnemonic = "pet win found noble around orbit collect exit suffer around ladder analyst";
+var mnemonic = "globe spot grass swim gold ski just pond doll hover grant essay";

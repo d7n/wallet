@@ -1,1 +1,1 @@
-var mnemonic = "abstract close inch mimic disorder feel replace skin clever child curtain cinnamon";
+var mnemonic = "diary estate service envelope stock busy dignity later payment camp insect pool";

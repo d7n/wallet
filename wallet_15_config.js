@@ -1,1 +1,1 @@
-var mnemonic = "tragic table ten movie uniform cradle coin there teach ask draft welcome";
+var mnemonic = "avoid feed peasant unique exile topple fabric march erode neither violin tide";

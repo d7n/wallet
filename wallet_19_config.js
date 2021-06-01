@@ -1,1 +1,1 @@
-var mnemonic = "captain owner deliver try blush hand noodle word swear digital farm upper";
+var mnemonic = "parrot advance receive honey nasty diagram pyramid metal rule curve blossom donkey";

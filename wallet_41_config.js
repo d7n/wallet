@@ -1,1 +1,1 @@
-var mnemonic = "affair guard chair vocal almost crowd green fitness asthma glove goose domain";
+var mnemonic = "sugar theme beach brisk mother property truck weasel turkey garment weapon artefact";

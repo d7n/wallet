@@ -1,1 +1,1 @@
-var mnemonic = "scene clock multiply circle dynamic dutch empower key oxygen nephew mask true";
+var mnemonic = "antique clip illegal world helmet joke biology wild plunge raven shiver novel";

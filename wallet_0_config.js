@@ -1,1 +1,1 @@
-var mnemonic = "decline use price honey cheese tonight topic long holiday team phone leader";
+var mnemonic = "swarm hub tortoise border filter wool genius candy genuine social little buddy";

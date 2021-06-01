@@ -1,1 +1,1 @@
-var mnemonic = "stable kingdom hybrid bottom april right install chalk napkin fruit certain axis";
+var mnemonic = "crane drama buddy execute nurse certain cup faint onion someone object enjoy";

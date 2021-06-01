@@ -1,1 +1,1 @@
-var mnemonic = "whale purse draft say swift acquire buddy type celery trophy rally idle";
+var mnemonic = "hood credit caught cart scan fortune outer nurse broccoli same again people";

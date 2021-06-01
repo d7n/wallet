@@ -1,1 +1,1 @@
-var mnemonic = "before small resist still mercy behind network repair rough seat patch ivory";
+var mnemonic = "bring aim minor purse clown jaguar unit pet sick manage trend recipe";

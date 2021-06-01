@@ -1,1 +1,1 @@
-var mnemonic = "quantum auction north common person forum copper orbit blade angry fruit diesel";
+var mnemonic = "bicycle motor border urban deliver curve oxygen menu buyer mask vicious energy";

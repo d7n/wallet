@@ -1,1 +1,1 @@
-var mnemonic = "meadow squeeze awful private crash lemon coin run opera round turtle slab";
+var mnemonic = "strike ozone purse garden rebuild lucky trade total cost wrong offer aim";

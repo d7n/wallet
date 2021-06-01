@@ -1,1 +1,1 @@
-var mnemonic = "letter tornado maze drop rookie fee opinion token garage disease february trial";
+var mnemonic = "weapon tilt journey recycle labor ripple impose cotton green tongue latin acoustic";

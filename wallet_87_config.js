@@ -1,1 +1,1 @@
-var mnemonic = "suggest axis flower wood ridge exclude chef park job inspire chair episode";
+var mnemonic = "october ten monitor friend assault false old helmet kid obtain purchase destroy";
