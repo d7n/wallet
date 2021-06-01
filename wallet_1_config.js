@@ -1,1 +1,1 @@
-var mnemonic = "clever music cable nation swarm symptom thank sentence observe normal winter scrap";
+var mnemonic = "ethics firm office movie where document jeans diesel mobile across hockey soda";

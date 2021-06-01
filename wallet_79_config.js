@@ -1,1 +1,1 @@
-var mnemonic = "milk clown joke merge series destroy humble ski display hurt dwarf slender";
+var mnemonic = "latin pigeon rapid century zero melt catalog mind prosper taste ecology decide";

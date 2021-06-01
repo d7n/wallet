@@ -1,1 +1,1 @@
-var mnemonic = "width junior dance fiction pledge team jelly carbon wedding coil flip shift";
+var mnemonic = "umbrella dream actress office system cruel left life wish kit casual track";

@@ -1,1 +1,1 @@
-var mnemonic = "habit innocent never improve resource dream honey okay ship busy cry magic";
+var mnemonic = "margin clock outdoor puppy slide wave march short minimum solid head cage";

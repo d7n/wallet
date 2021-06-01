@@ -1,1 +1,1 @@
-var mnemonic = "path moment warfare add stone disease inform liberty finger enlist intact spike";
+var mnemonic = "wrong pink jelly festival duck across spare dad catch wheel ensure autumn";

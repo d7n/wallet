@@ -1,1 +1,1 @@
-var mnemonic = "tag phone brush thing glide accuse season boost step baby patrol dress";
+var mnemonic = "credit sugar machine conduct stick idea attack lottery frown invest mesh fog";

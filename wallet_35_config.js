@@ -1,1 +1,1 @@
-var mnemonic = "leopard brand genuine picnic joke spatial define owner wire quiz same wisdom";
+var mnemonic = "pink poem click ancient you finish comfort suit install net click harbor";

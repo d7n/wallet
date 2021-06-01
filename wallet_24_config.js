@@ -1,1 +1,1 @@
-var mnemonic = "beach acid ostrich pink cradle camp reunion opinion issue sweet below into";
+var mnemonic = "select egg artwork cool maximum umbrella enroll cluster case extend sleep mass";

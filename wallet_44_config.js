@@ -1,1 +1,1 @@
-var mnemonic = "north popular skirt also honey ceiling seat shed hospital cloth leopard old";
+var mnemonic = "arm cluster tower index artwork meat link enrich soldier increase cigar void";

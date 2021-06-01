@@ -1,1 +1,1 @@
-var mnemonic = "snow erode sport choice prison entire what primary blood two ski cruise";
+var mnemonic = "coil wrong fine slam disease embrace police stable assist emotion artefact major";

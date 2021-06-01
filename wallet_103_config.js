@@ -1,1 +1,1 @@
-var mnemonic = "exist naive wedding praise tenant potato ahead hobby another fine copper whisper";
+var mnemonic = "weapon process across wink useless debris town vivid found antique price nephew";

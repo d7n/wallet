@@ -1,1 +1,1 @@
-var mnemonic = "husband lamp diary help negative census urban rabbit begin sustain regret advance";
+var mnemonic = "humble army snap canal wealth toy reject jump buyer fragile million guide";

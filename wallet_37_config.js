@@ -1,1 +1,1 @@
-var mnemonic = "degree any town multiply doctor snack wrong scare remain motion unfold fee";
+var mnemonic = "zebra radio antique minor quality cannon antenna indicate taxi damage diagram machine";

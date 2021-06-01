@@ -1,1 +1,1 @@
-var mnemonic = "sentence news ocean split tenant royal dilemma shallow mask garage fabric awake";
+var mnemonic = "master legal better shaft apple master giraffe blouse public busy about elite";

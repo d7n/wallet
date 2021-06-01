@@ -1,1 +1,1 @@
-var mnemonic = "order toilet case library fatal jeans cream exhaust whale index crush topic";
+var mnemonic = "onion vibrant decide company dinosaur cabbage drop drama nest thrive resemble assume";

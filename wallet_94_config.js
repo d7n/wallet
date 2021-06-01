@@ -1,1 +1,1 @@
-var mnemonic = "bounce elbow oven lemon brand vault one ivory describe force chronic rely";
+var mnemonic = "grace plastic enrich very syrup sibling park brand genre frequent consider become";

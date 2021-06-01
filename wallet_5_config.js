@@ -1,1 +1,1 @@
-var mnemonic = "machine young page gloom stone exile popular foil source vanish meat first";
+var mnemonic = "tail member juice repair jar rabbit life refuse child number team armed";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy outer time valve leave couch antique hollow finger gauge black goat";
+var mnemonic = "vapor coffee crumble bundle forward fix kit sentence oyster tower across elite";

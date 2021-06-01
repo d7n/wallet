@@ -1,1 +1,1 @@
-var mnemonic = "increase either virus remind order spider feature tool aware bid will cost";
+var mnemonic = "mosquito depend rely measure renew obey item sibling patrol exclude runway kind";

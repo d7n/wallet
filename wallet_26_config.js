@@ -1,1 +1,1 @@
-var mnemonic = "upset behind piece quit tide unknown used spread edit fiber excess absent";
+var mnemonic = "banner sample photo point own grass glory vicious song snow sister merit";

@@ -1,1 +1,1 @@
-var mnemonic = "eye illness enforce weasel maze opinion motor chunk scare panel movie chat";
+var mnemonic = "evolve coin poet fiber nerve nuclear fossil accuse grant gasp margin capable";

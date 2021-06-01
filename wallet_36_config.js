@@ -1,1 +1,1 @@
-var mnemonic = "urge alpha cool utility cushion address wrap mad law summer chimney hamster";
+var mnemonic = "vacuum wagon pizza opera canyon glad vault lonely skirt material member vault";

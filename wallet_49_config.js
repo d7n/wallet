@@ -1,1 +1,1 @@
-var mnemonic = "few during code direct consider summer brand license act pattern floor immune";
+var mnemonic = "alter bar solution source afraid tower grid neglect sail access work dutch";

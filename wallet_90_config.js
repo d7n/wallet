@@ -1,1 +1,1 @@
-var mnemonic = "math awful uncle honey caught true match craft crater dentist balcony unhappy";
+var mnemonic = "arrange recipe sun first spare chronic burden flash domain review choose glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "offer more charge light boat prize spoon guilt estate draft melt mango";
+var mnemonic = "garden empower cereal monster flash pride liar duty dilemma horror learn curtain";

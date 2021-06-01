@@ -1,1 +1,1 @@
-var mnemonic = "quick shed void slide actress injury enroll business limit spray flock opera";
+var mnemonic = "capable defense say elevator section recycle vacuum virus catalog leave glow mistake";

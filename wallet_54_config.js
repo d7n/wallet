@@ -1,1 +1,1 @@
-var mnemonic = "vacant seat thing label involve tube artefact retire sentence must foil rose";
+var mnemonic = "crazy toss isolate siren anchor loop defense pole athlete hungry swim useful";

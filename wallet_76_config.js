@@ -1,1 +1,1 @@
-var mnemonic = "pretty lucky real stable slice essence parade fold script multiply team topic";
+var mnemonic = "talk renew vehicle mutual castle depth sphere puzzle wire trim wonder cake";

@@ -1,1 +1,1 @@
-var mnemonic = "license twist enter crime canyon around ribbon body cloud mix cute elite";
+var mnemonic = "farm elder reduce effort produce brass wage ghost eager review okay scorpion";

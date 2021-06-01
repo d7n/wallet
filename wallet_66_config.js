@@ -1,1 +1,1 @@
-var mnemonic = "normal demand diet huge juice hotel gentle frog angle then bird payment";
+var mnemonic = "conduct very empower tail sad subject talk twelve outdoor grow inner design";

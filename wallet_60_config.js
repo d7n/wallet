@@ -1,1 +1,1 @@
-var mnemonic = "female modify chase wish clever news cat verb soon ramp bean kiwi";
+var mnemonic = "input garden despair always decrease rotate nerve oil twenty lumber tumble stereo";

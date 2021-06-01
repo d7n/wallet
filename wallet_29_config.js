@@ -1,1 +1,1 @@
-var mnemonic = "mimic teach thunder summer famous age glow purity april wait remove lesson";
+var mnemonic = "predict coach clutch pen execute fiction possible use panel dilemma moment eyebrow";

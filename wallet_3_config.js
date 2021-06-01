@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dolphin member embrace enact upon rival weather sort garage artwork tuna";
+var mnemonic = "thrive calm machine luggage subject country album inflict strike blood plate grief";

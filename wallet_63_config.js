@@ -1,1 +1,1 @@
-var mnemonic = "grow reduce humble smooth suit hint trend service thank note item loyal";
+var mnemonic = "sun punch safe casual grant curtain category agent plunge machine menu cloth";

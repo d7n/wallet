@@ -1,1 +1,1 @@
-var mnemonic = "plunge jealous forget disease ivory panic tree tornado earth feature remain scare";
+var mnemonic = "mushroom negative organ gesture behave truly chat stomach prevent lyrics spawn park";

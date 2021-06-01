@@ -1,1 +1,1 @@
-var mnemonic = "develop medal transfer gate rough keen liberty mansion rail rare sick deny";
+var mnemonic = "actress hundred survey script cabbage because elbow neglect parent host combine begin";

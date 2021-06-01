@@ -1,1 +1,1 @@
-var mnemonic = "plug mass stem absent cargo mouse kidney bullet party photo farm resource";
+var mnemonic = "horse dentist very piano eight place track dragon hundred judge tunnel bench";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease analyst skill snack thrive joy seek tattoo pattern purpose embark under";
+var mnemonic = "label mandate patch mix insane start occur whale animal window apology pistol";

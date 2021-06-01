@@ -1,1 +1,1 @@
-var mnemonic = "material supply tortoise solve camera aware segment acquire foam lab again hub";
+var mnemonic = "evoke jump bar height urge liquid canal canyon rude arrange depth rich";

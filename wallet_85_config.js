@@ -1,1 +1,1 @@
-var mnemonic = "issue sport chest wire glow floor calm lecture miss action dwarf render";
+var mnemonic = "fetch rebel play beyond curve siren spice manual height wreck cool antique";

@@ -1,1 +1,1 @@
-var mnemonic = "rely tattoo love buyer gym absent work piano trim humor damage spirit";
+var mnemonic = "bus sketch modify crazy stairs term never road fiscal legend toy scissors";

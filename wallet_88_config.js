@@ -1,1 +1,1 @@
-var mnemonic = "blade can sting police firm couple razor rigid budget useless proof gun";
+var mnemonic = "process hold verify grain apology blossom reduce screen earn human comfort local";

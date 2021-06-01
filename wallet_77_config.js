@@ -1,1 +1,1 @@
-var mnemonic = "rack bright rib boat chimney hole pluck govern estate toast rare disease";
+var mnemonic = "juice estate unfold view giraffe print february length leader manage divide office";

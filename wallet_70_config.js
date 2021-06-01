@@ -1,1 +1,1 @@
-var mnemonic = "album reveal fabric absorb ivory card access decrease source joke gravity physical";
+var mnemonic = "advice town deliver predict happy idea question lawn song nest caught net";

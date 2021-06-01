@@ -1,1 +1,1 @@
-var mnemonic = "airport tube idle below boring truly urge muffin joy mansion drastic price";
+var mnemonic = "box erase become green torch victory web corn subway clip reject sock";

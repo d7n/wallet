@@ -1,1 +1,1 @@
-var mnemonic = "panel client hover vicious flip response autumn swim mean project win unknown";
+var mnemonic = "pluck good lemon soul occur fame gadget spread shock pyramid bless crisp";

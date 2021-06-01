@@ -1,1 +1,1 @@
-var mnemonic = "wrap stove accident grief guilt buffalo easily clog deliver control spoon stool";
+var mnemonic = "remind correct moon success grunt image chicken matter giant wear swim transfer";

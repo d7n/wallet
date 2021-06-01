@@ -1,1 +1,1 @@
-var mnemonic = "salon loyal engage chat alarm rabbit screen senior desert receive calm empower";
+var mnemonic = "measure pattern bottom ability layer kiss donor april mixed vacant flush pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "found lend eye nerve deer capable law width obtain virtual arrest local";
+var mnemonic = "reform myth network laptop exclude drive promote census fork market nominee seek";

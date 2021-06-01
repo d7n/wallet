@@ -1,1 +1,1 @@
-var mnemonic = "ill position excite clown bag switch custom fluid brain census sphere ride";
+var mnemonic = "dash satisfy evidence true ginger rubber art random mercy lawsuit midnight gentle";

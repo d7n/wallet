@@ -1,1 +1,1 @@
-var mnemonic = "village drum garden cliff window history huge ripple silly slow column cricket";
+var mnemonic = "camera defense wolf volcano weird judge woman group scout discover alone source";

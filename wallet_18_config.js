@@ -1,1 +1,1 @@
-var mnemonic = "artwork whisper sword spawn ship supply lonely aisle donor dawn circle rule";
+var mnemonic = "forget labor spatial play never inner hurry scorpion wrist pair soldier legal";

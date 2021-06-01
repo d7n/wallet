@@ -1,1 +1,1 @@
-var mnemonic = "fox champion accident ensure vehicle spend gaze warrior slab power fantasy tornado";
+var mnemonic = "crater bone evidence ozone genre time erase crucial walk destroy deliver address";

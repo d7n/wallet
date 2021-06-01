@@ -1,1 +1,1 @@
-var mnemonic = "donkey praise six mountain chat voyage green elder oblige harbor tortoise manage";
+var mnemonic = "find fox speed rebel unfold renew into move grant perfect capable sunny";

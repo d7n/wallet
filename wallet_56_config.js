@@ -1,1 +1,1 @@
-var mnemonic = "benefit solve popular person setup submit traffic warrior sure egg embark eternal";
+var mnemonic = "celery warm cradle coyote example taxi behave super used culture draft bridge";

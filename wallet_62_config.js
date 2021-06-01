@@ -1,1 +1,1 @@
-var mnemonic = "dog bounce swap music various crew hover prize bleak dose kitchen cart";
+var mnemonic = "earth region net romance object place inch worth often domain foam brick";

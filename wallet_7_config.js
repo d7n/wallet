@@ -1,1 +1,1 @@
-var mnemonic = "liquid since pride defy amount gift hammer morning quantum loud light claim";
+var mnemonic = "message wall average unveil provide spring click again observe island naive rigid";

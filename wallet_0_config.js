@@ -1,1 +1,1 @@
-var mnemonic = "suspect barrel laptop coyote emerge brand must hollow region just answer recipe";
+var mnemonic = "dismiss duty health phone maple one cake rely idea frown health angle";

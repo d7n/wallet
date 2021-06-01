@@ -1,1 +1,1 @@
-var mnemonic = "glad shed retreat trim bag excuse gather vacant fantasy water steak step";
+var mnemonic = "cross pretty relief trend video fence federal seat boy capable dial dinner";

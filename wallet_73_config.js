@@ -1,1 +1,1 @@
-var mnemonic = "unveil expect sausage jaguar solve blanket census install silver skull visa royal";
+var mnemonic = "involve smile lyrics casino hurdle turtle nominee rubber trick patrol mind tunnel";

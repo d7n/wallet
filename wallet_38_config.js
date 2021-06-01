@@ -1,1 +1,1 @@
-var mnemonic = "harbor high spin people steak abstract mountain mixture narrow junior fun loyal";
+var mnemonic = "adapt frozen program empty actual concert bronze spike maid recipe fatal six";

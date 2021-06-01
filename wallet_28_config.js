@@ -1,1 +1,1 @@
-var mnemonic = "horror garbage tube blast choice nation unaware stone duty flip room sport";
+var mnemonic = "century group collect filter story logic story column negative master sea quarter";

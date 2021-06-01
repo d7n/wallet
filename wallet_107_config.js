@@ -1,1 +1,1 @@
-var mnemonic = "race black jeans daughter sell talk economy fire grow nature congress memory";
+var mnemonic = "code whisper fork entire scout manual iron media travel hospital verb crouch";

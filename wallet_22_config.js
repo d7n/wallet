@@ -1,1 +1,1 @@
-var mnemonic = "bundle figure feature victory balcony method hollow sunny shed choose soul hair";
+var mnemonic = "width camera antique seek hundred reopen reunion ripple rough humble weasel dizzy";

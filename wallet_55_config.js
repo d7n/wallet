@@ -1,1 +1,1 @@
-var mnemonic = "guitar art now athlete pledge quiz weasel visa april stable thunder arrive";
+var mnemonic = "toe dentist surprise twin bunker side risk cage habit scheme slab rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb tornado pepper electric bean mouse defense garment lunch tip own thumb";
+var mnemonic = "alien bacon text ride author toe hundred force one vicious secret august";

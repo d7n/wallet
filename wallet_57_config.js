@@ -1,1 +1,1 @@
-var mnemonic = "parade axis mule solve sign cycle peace market setup service dial hip";
+var mnemonic = "notable task combine prison illness kitten card acquire panther whale follow learn";

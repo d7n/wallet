@@ -1,1 +1,1 @@
-var mnemonic = "truth slice burger amateur jazz desk suit mobile easy casino margin dance";
+var mnemonic = "early use neither settle salt gadget cake spawn recall this guitar diamond";

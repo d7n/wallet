@@ -1,1 +1,1 @@
-var mnemonic = "between left require media biology gasp stand salute annual gas add jeans";
+var mnemonic = "aunt near music motion impulse bulk intact true seminar arrange attitude tape";

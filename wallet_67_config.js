@@ -1,1 +1,1 @@
-var mnemonic = "ribbon law donor iron weather one alley arm speak repeat reveal track";
+var mnemonic = "hat captain jar water curve hat bonus work virtual tonight female sister";

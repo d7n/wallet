@@ -1,1 +1,1 @@
-var mnemonic = "sun fish way toy tag receive blue catch noble remove cover fly";
+var mnemonic = "usage chef buffalo curtain cook kid silver play song ride submit now";

@@ -1,1 +1,1 @@
-var mnemonic = "urban waste sister wall fog skate machine time sniff school metal cram";
+var mnemonic = "explain earn clip erode exotic alcohol absorb icon clerk tribe escape taste";

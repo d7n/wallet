@@ -1,1 +1,1 @@
-var mnemonic = "heavy element veteran install foam evil laugh wife amount crowd minor better";
+var mnemonic = "vicious argue rack miss combine grape baby upgrade industry void tunnel wasp";

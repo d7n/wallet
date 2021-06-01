@@ -1,1 +1,1 @@
-var mnemonic = "stumble execute kite obey labor impose large shoe grape emerge discover caught";
+var mnemonic = "bullet victory monitor only error rent rate coin cheese report hover flag";

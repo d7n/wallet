@@ -1,1 +1,1 @@
-var mnemonic = "joy review anchor maple usage scene jazz slight wool tornado achieve punch";
+var mnemonic = "grid tell vague hub pole ability cake father morning income cup tray";

@@ -1,1 +1,1 @@
-var mnemonic = "plug cabin quick guess world afford wrestle light gift noble doctor blossom";
+var mnemonic = "elephant news balance art patient elevator interest vacuum truth among diesel laptop";

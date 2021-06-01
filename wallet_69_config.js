@@ -1,1 +1,1 @@
-var mnemonic = "document plastic lonely scout become used abuse erase female fiction horn paper";
+var mnemonic = "guard address replace fade collect hedgehog comfort measure gaze hill cheap squeeze";

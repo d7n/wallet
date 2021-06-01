@@ -1,1 +1,1 @@
-var mnemonic = "misery muscle weekend mushroom rain beef stove account ill palm viable hotel";
+var mnemonic = "base almost head unique pond quality egg crucial autumn ginger hybrid basic";

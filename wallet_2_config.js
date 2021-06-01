@@ -1,1 +1,1 @@
-var mnemonic = "cloud immune scare visa ketchup spoil someone process siege curve ice theme";
+var mnemonic = "disagree pattern pudding also feed again ivory electric connect boring amateur girl";

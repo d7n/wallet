@@ -1,1 +1,1 @@
-var mnemonic = "digital coconut birth inflict unhappy gauge load ugly injury sense rocket patrol";
+var mnemonic = "other hat mobile quit bring scissors obey hobby intact elite dwarf have";

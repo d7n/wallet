@@ -1,1 +1,1 @@
-var mnemonic = "area trophy sample mix keep exhibit host edit police despair soccer soap";
+var mnemonic = "comfort fury thumb either cactus supply speak provide about treat improve ten";

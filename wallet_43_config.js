@@ -1,1 +1,1 @@
-var mnemonic = "venture width nuclear draw salt fragile favorite penalty say amused manage hurry";
+var mnemonic = "amazing diesel shiver oxygen stuff lake drill method taxi talent buyer slot";

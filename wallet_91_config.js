@@ -1,1 +1,1 @@
-var mnemonic = "melody brisk live else tiny where tone split above impose crack diary";
+var mnemonic = "inhale energy scissors book theme symptom vintage turtle cry also double govern";

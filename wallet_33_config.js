@@ -1,1 +1,1 @@
-var mnemonic = "evil end broom pupil dinner diary option trick spider tortoise forward vast";
+var mnemonic = "stomach crumble sadness abstract gasp lava quality float repair attack lonely slush";

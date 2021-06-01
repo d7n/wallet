@@ -1,1 +1,1 @@
-var mnemonic = "account celery phone armor midnight body ask like inhale aspect antenna beauty";
+var mnemonic = "tent scrub unveil woman moment unit senior rhythm bulk you local sniff";

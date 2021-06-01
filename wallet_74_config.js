@@ -1,1 +1,1 @@
-var mnemonic = "urban sorry skirt dinner shrug sock push prosper tired clutch miss select";
+var mnemonic = "coast repeat warrior carry fabric grain strike kid crawl have polar bright";

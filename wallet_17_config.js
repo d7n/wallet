@@ -1,1 +1,1 @@
-var mnemonic = "suggest razor voyage orbit useful dilemma salon under vintage drum force exotic";
+var mnemonic = "scene steak shoot provide envelope food property betray panda actual funny leader";

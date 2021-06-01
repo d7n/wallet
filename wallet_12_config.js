@@ -1,1 +1,1 @@
-var mnemonic = "exercise oblige able address hello daring reason donkey decide chunk pen symptom";
+var mnemonic = "ready solar sibling jazz smile auto month merit below trial wrist head";

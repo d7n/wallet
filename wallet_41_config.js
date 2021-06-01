@@ -1,1 +1,1 @@
-var mnemonic = "syrup prosper marble blouse also mystery toe slight motion crater eye bamboo";
+var mnemonic = "senior kiwi panic bike soccer stamp comic manage weird festival motor refuse";

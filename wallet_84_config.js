@@ -1,1 +1,1 @@
-var mnemonic = "erase reduce business mother scatter silk manage rubber dirt bamboo shadow affair";
+var mnemonic = "salute buyer awful bronze prefer crumble crystal sad actress twist grape invest";

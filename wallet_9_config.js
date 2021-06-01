@@ -1,1 +1,1 @@
-var mnemonic = "shed bottom weird table sentence auto jazz economy culture side fork couple";
+var mnemonic = "since tomorrow risk online impose disorder vault dream elevator august key child";

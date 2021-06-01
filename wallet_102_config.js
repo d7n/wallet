@@ -1,1 +1,1 @@
-var mnemonic = "glide supply cinnamon veteran valley tuition sustain code vital course canyon cry";
+var mnemonic = "fuel foot minor twin dish average train control nerve cinnamon puppy acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "churn time loud robust clean heavy allow cute fan desk father science";
+var mnemonic = "ghost public normal supreme pony mail water oblige pelican actor tuna once";

@@ -1,1 +1,1 @@
-var mnemonic = "toe picnic normal timber fork black below winter eagle spot shove viable";
+var mnemonic = "pipe language sentence brief endorse fiction network anchor notice idle treat october";

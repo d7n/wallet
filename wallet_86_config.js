@@ -1,1 +1,1 @@
-var mnemonic = "zoo vibrant ritual photo plastic giggle toilet pet rally judge blanket trial";
+var mnemonic = "have margin soup sauce east sketch horror dry scrap point alarm involve";
