@@ -1,1 +1,1 @@
-var mnemonic = "humble must blast skull aspect light sea harvest reveal rabbit recycle exhaust";
+var mnemonic = "shop engage lawn quit still ticket render excuse witness insect stool sketch";

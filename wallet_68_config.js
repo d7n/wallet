@@ -1,1 +1,1 @@
-var mnemonic = "mind wagon group lunar light history joy drip impact hunt feed cradle";
+var mnemonic = "boil weapon relief junk crowd warm drastic cigar elite trouble farm quantum";

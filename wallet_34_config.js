@@ -1,1 +1,1 @@
-var mnemonic = "black click indicate they urban minimum parrot october offer diesel siege absorb";
+var mnemonic = "machine daughter rent master kangaroo obey wagon orbit dignity chicken fashion finish";

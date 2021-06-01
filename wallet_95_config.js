@@ -1,1 +1,1 @@
-var mnemonic = "amateur grow weasel audit mystery solid aunt then soon elephant debris since";
+var mnemonic = "jar swim slush rookie silk razor true this cherry seminar miracle midnight";

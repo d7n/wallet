@@ -1,1 +1,1 @@
-var mnemonic = "input jelly major race hire update letter engine unveil tuna above gate";
+var mnemonic = "curious talent laugh barrel gentle humor refuse slender tongue extra spread furnace";

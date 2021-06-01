@@ -1,1 +1,1 @@
-var mnemonic = "catch blossom deer shift music review chronic series pink often summer cinnamon";
+var mnemonic = "bright raven theme artefact pen review supreme diamond crack loyal paddle clean";

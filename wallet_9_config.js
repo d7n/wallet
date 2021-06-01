@@ -1,1 +1,1 @@
-var mnemonic = "warrior dizzy february clutch royal patient father question such cross kiwi reason";
+var mnemonic = "maximum equal senior auction useless produce illness virus reward crack valve clutch";

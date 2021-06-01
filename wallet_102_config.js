@@ -1,1 +1,1 @@
-var mnemonic = "garbage estate prepare cluster capital donate solid taste autumn rally action weekend";
+var mnemonic = "account matter piece love shed toddler source whip author unhappy notable remove";

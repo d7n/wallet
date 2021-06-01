@@ -1,1 +1,1 @@
-var mnemonic = "eye treat hub mom question great rifle write enough anchor soon because";
+var mnemonic = "fall local onion frog grunt game another brother lava during vessel author";

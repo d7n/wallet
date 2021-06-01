@@ -1,1 +1,1 @@
-var mnemonic = "oven drop speak advance chaos quit wire leaf arrive dose degree shaft";
+var mnemonic = "wasp myself tumble loop skin void recall task useless crouch mandate donor";

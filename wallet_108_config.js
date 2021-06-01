@@ -1,1 +1,1 @@
-var mnemonic = "such prison online pact hazard happy evidence dolphin roof daughter vacuum purpose";
+var mnemonic = "neither truly clump inquiry gold elder good scale brother absorb crouch ring";

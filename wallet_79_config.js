@@ -1,1 +1,1 @@
-var mnemonic = "toss expect resist wisdom blanket plastic elevator prize inner swallow spy oven";
+var mnemonic = "juice logic bulk town clinic track cable talk retreat home wish give";

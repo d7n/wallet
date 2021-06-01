@@ -1,1 +1,1 @@
-var mnemonic = "volcano song duty side hockey spread net poverty inspire across student capable";
+var mnemonic = "jelly milk coin conduct divert foil elder snake item ordinary asset outside";

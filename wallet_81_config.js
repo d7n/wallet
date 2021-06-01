@@ -1,1 +1,1 @@
-var mnemonic = "edit offer drama gossip sponsor rare maple script useless cost other autumn";
+var mnemonic = "tool middle tail rubber galaxy output live lonely scatter pond sauce ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "faint injury slim notice brick margin husband ready accident emotion vanish survey";
+var mnemonic = "awkward illegal use color title truth fish essence eager brisk stick artist";

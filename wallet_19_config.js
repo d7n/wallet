@@ -1,1 +1,1 @@
-var mnemonic = "athlete great conduct message exclude cluster soldier struggle maple predict faint girl";
+var mnemonic = "jacket select hint fancy parent end canal brown debris web bargain miracle";

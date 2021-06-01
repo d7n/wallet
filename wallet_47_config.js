@@ -1,1 +1,1 @@
-var mnemonic = "oval inquiry save husband under clump decide industry soul bring tray monitor";
+var mnemonic = "grace joke cheap wheat wasp nuclear federal problem jewel enlist enroll forest";

@@ -1,1 +1,1 @@
-var mnemonic = "escape defense cream crush alien into rough target monitor relief census drink";
+var mnemonic = "total decide cover decade kind people position hockey sauce dinosaur cake laugh";

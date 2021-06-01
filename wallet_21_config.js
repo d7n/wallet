@@ -1,1 +1,1 @@
-var mnemonic = "hour ignore connect one height junior walnut hire fan defense jar produce";
+var mnemonic = "dust diary honey swim decline mention divorce art vessel secret claim prize";

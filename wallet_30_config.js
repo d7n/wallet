@@ -1,1 +1,1 @@
-var mnemonic = "cereal captain corn orient muffin fat turtle turn trial bulb hero total";
+var mnemonic = "lawsuit clog pledge awful inform breeze castle garment farm hole gauge monitor";

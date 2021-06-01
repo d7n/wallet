@@ -1,1 +1,1 @@
-var mnemonic = "total six reopen speak rival remind doctor chapter tide leisure okay company";
+var mnemonic = "long angle ignore crucial lucky emerge absurd bench brick goose shine chuckle";

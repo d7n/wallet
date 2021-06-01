@@ -1,1 +1,1 @@
-var mnemonic = "phone horse cherry rocket disagree adjust middle scheme color diet edit ski";
+var mnemonic = "pool vessel dune matter bike afraid message stay around release rate bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "trap gallery tape riot erase betray evidence guide few profit swing fine";
+var mnemonic = "negative interest rain angle cool grant hint ranch liquid double maple magnet";

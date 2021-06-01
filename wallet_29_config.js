@@ -1,1 +1,1 @@
-var mnemonic = "once skate polar mercy sunny worth inhale buyer symbol picnic sausage south";
+var mnemonic = "mad already general pink ability denial surface judge equip sudden mesh struggle";

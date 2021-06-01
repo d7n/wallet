@@ -1,1 +1,1 @@
-var mnemonic = "piece accuse output arrange legend stuff expand verb excess man abstract record";
+var mnemonic = "oppose predict company sleep label dynamic body aim bridge menu text tongue";

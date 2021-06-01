@@ -1,1 +1,1 @@
-var mnemonic = "fancy range coin silly apple process carpet trumpet fire tattoo embark riot";
+var mnemonic = "alone garlic point jealous summer sheriff enhance climb culture fork horse curtain";

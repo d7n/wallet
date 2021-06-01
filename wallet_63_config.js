@@ -1,1 +1,1 @@
-var mnemonic = "shove shoot clean then unveil fit soccer elite water bless gaze dizzy";
+var mnemonic = "toe one giggle proud distance ivory game clean burger measure general mouse";

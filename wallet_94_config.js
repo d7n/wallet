@@ -1,1 +1,1 @@
-var mnemonic = "bronze armed health month assault refuse ugly marine kit evil carry speed";
+var mnemonic = "base guard dune clock child renew kit utility cereal poem subway few";

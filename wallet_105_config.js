@@ -1,1 +1,1 @@
-var mnemonic = "bus panda dynamic fame virus laundry sand piece timber truly attitude matter";
+var mnemonic = "machine photo decrease pull kick find silly proud rapid mad high flag";

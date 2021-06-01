@@ -1,1 +1,1 @@
-var mnemonic = "genre arrange few child major jar matter soap success talent coin interest";
+var mnemonic = "risk smart differ beauty wrap brand ignore already apple hedgehog spare party";

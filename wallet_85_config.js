@@ -1,1 +1,1 @@
-var mnemonic = "lake please repair library unlock margin lawsuit length concert sense fox curious";
+var mnemonic = "slam tourist fiber corn square cream rough matter reveal ranch sure inspire";

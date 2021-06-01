@@ -1,1 +1,1 @@
-var mnemonic = "garden become alert produce power law farm able away live forum blur";
+var mnemonic = "chimney palace brown people liquid uniform hidden palm curve input minor please";

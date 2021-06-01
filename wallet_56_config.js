@@ -1,1 +1,1 @@
-var mnemonic = "wise onion welcome profit asset urban exhaust rival item joy price hazard";
+var mnemonic = "arctic nose device grass cliff logic blood two gravity luxury glare latin";

@@ -1,1 +1,1 @@
-var mnemonic = "exist chat heavy cream disorder coin size predict grunt shadow fossil tilt";
+var mnemonic = "stone aim welcome train cotton envelope choose light neglect round coach law";

@@ -1,1 +1,1 @@
-var mnemonic = "steel erase armor scissors spin maid have purpose bottom month life wish";
+var mnemonic = "pizza kite fish riot grab recipe nature list twist eternal punch castle";

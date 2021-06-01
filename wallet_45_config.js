@@ -1,1 +1,1 @@
-var mnemonic = "heart blouse relief trend hidden jelly settle organ true solve huge gauge";
+var mnemonic = "trend monster step vanish float cancel fog disorder always mixture blossom asset";

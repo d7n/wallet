@@ -1,1 +1,1 @@
-var mnemonic = "hard describe jeans exhibit despair rocket apple rural arctic soon fire tuna";
+var mnemonic = "seek ginger apple bring cradle club limit romance dizzy chair execute climb";

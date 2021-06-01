@@ -1,1 +1,1 @@
-var mnemonic = "female zebra female wire clinic penalty clerk speed jacket anger clap quality";
+var mnemonic = "sense practice pave tongue equip assume easily belt laugh abstract nuclear buzz";

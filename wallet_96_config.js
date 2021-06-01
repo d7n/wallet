@@ -1,1 +1,1 @@
-var mnemonic = "avoid neutral horse loop confirm deliver happy organ town rule industry jewel";
+var mnemonic = "host convince foot lesson banana gauge bicycle gallery scale script select parrot";

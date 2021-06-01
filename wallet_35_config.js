@@ -1,1 +1,1 @@
-var mnemonic = "brown struggle crumble apple annual betray trumpet unfold leisure gift frog motion";
+var mnemonic = "enact pepper movie dove often gap nation quit brief almost camera lens";

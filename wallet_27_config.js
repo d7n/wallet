@@ -1,1 +1,1 @@
-var mnemonic = "wear miss receive gallery deposit throw multiply drop cook knife nature puppy";
+var mnemonic = "chronic long fence bonus planet guard awful casino range seminar wall bubble";

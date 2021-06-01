@@ -1,1 +1,1 @@
-var mnemonic = "one bind jealous above census cargo glass photo beach submit pluck device";
+var mnemonic = "mad damp blur orphan hundred banana run chicken army chalk circle remove";

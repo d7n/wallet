@@ -1,1 +1,1 @@
-var mnemonic = "canal stable lecture sea divorce avoid able wish city decline mail street";
+var mnemonic = "reveal west better pony calm need broken donkey wise spider purchase share";

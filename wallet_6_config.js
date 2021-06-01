@@ -1,1 +1,1 @@
-var mnemonic = "common adult miss discover acoustic client duty sunny eagle pet join joke";
+var mnemonic = "message flock air layer family grab method satisfy sugar critic success crouch";

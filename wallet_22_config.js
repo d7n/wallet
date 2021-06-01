@@ -1,1 +1,1 @@
-var mnemonic = "marine this involve device blame remove direct tuna doll method tape shallow";
+var mnemonic = "express parrot seminar brass hotel display angle bracket dad yellow response result";

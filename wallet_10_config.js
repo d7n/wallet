@@ -1,1 +1,1 @@
-var mnemonic = "mammal web monster cable goddess crop cook sick salt enforce scare artwork";
+var mnemonic = "cactus senior cake panther guard merry city comic argue submit eyebrow dutch";

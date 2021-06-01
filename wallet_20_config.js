@@ -1,1 +1,1 @@
-var mnemonic = "output royal hollow relief excess aim green rally lake please hire inquiry";
+var mnemonic = "vehicle guilt uncover orchard patient exit replace dial digital rebel ten fly";

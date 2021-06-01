@@ -1,1 +1,1 @@
-var mnemonic = "broom pride void wet spoil remove mimic evoke thunder grief bulk galaxy";
+var mnemonic = "paper kick method glance earn march diamond quick celery material carbon zebra";

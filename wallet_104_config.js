@@ -1,1 +1,1 @@
-var mnemonic = "wild chair drift shell custom cereal grief course squeeze shiver human enroll";
+var mnemonic = "ocean train recall era diesel fashion ivory cliff joy range door relief";

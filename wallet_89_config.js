@@ -1,1 +1,1 @@
-var mnemonic = "bronze trust weapon gospel pelican educate south connect write casual conduct bitter";
+var mnemonic = "flag crack valley rescue knife wrap pause spin story type hotel drink";

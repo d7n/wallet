@@ -1,1 +1,1 @@
-var mnemonic = "fan advance note width urban clerk ball monitor arctic devote present fortune";
+var mnemonic = "crowd artefact update please lemon jealous voyage atom discover test stadium magnet";

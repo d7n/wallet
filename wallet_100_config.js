@@ -1,1 +1,1 @@
-var mnemonic = "scorpion general vendor laundry join bus true rookie afraid couch monkey like";
+var mnemonic = "brand roof sign wine act van rural opinion math faint oil shiver";

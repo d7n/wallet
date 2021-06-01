@@ -1,1 +1,1 @@
-var mnemonic = "satoshi execute spread unit disagree priority actress title grace rocket cost moon";
+var mnemonic = "already wine fatigue task survey toddler remember merit panda wash menu feed";

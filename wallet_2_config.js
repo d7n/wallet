@@ -1,1 +1,1 @@
-var mnemonic = "scrub buyer eager gossip remove castle pill host crouch island twice repeat";
+var mnemonic = "fiscal member dignity abandon praise exile monster dentist sight rookie polar machine";

@@ -1,1 +1,1 @@
-var mnemonic = "proof foam route onion captain pupil sleep odor cricket bind recycle width";
+var mnemonic = "world neck youth index brick arrange faculty decide current excuse turkey face";

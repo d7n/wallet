@@ -1,1 +1,1 @@
-var mnemonic = "print surprise kiss myth come lab husband myself fall organ trust aim";
+var mnemonic = "grace coach useless child arctic fog fragile member balcony consider extend chest";

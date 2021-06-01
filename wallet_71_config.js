@@ -1,1 +1,1 @@
-var mnemonic = "sock test room virus face install dilemma erode coin cannon ball mouse";
+var mnemonic = "frown kit eagle kit today chuckle suggest path cabin enrich ski buffalo";

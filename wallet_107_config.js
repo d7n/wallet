@@ -1,1 +1,1 @@
-var mnemonic = "casino raw iron company regular spend jar foam airport solve glass virtual";
+var mnemonic = "axis kick cactus world sign gaze toy brush burden depend zebra include";

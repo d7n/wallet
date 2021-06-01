@@ -1,1 +1,1 @@
-var mnemonic = "rescue silly victory cabbage phrase only slow fix armor water siege menu";
+var mnemonic = "hire mixed garbage check bring orchard addict inform velvet blast swim remind";

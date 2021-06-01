@@ -1,1 +1,1 @@
-var mnemonic = "absurd camp canal shell flower garage anxiety fringe hybrid usage judge clay";
+var mnemonic = "much pepper answer scare profit state silver sibling defy wisdom laugh volume";

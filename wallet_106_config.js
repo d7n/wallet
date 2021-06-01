@@ -1,1 +1,1 @@
-var mnemonic = "believe flock asthma patch tell thought hundred aspect mass source absorb fiscal";
+var mnemonic = "doll arena drum damage knee copper friend square stand odor acquire gasp";

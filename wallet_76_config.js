@@ -1,1 +1,1 @@
-var mnemonic = "material ten silk confirm there square intact dog stick mad depth great";
+var mnemonic = "oyster fish october hour rent fall fly quiz expose coil gravity winner";

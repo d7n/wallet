@@ -1,1 +1,1 @@
-var mnemonic = "worth vast jewel vacuum matrix kangaroo inspire mammal glimpse poverty escape curious";
+var mnemonic = "vehicle bomb melody pink penalty supreme symptom scheme idle rude certain news";

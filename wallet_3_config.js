@@ -1,1 +1,1 @@
-var mnemonic = "pony quit head culture wait gloom host jewel defy gaze purity random";
+var mnemonic = "tissue mother moral tiger cover walk three truck hotel panther midnight quiz";

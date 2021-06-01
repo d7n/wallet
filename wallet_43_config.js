@@ -1,1 +1,1 @@
-var mnemonic = "fluid hungry road judge gaze cube enlist require stairs fan powder income";
+var mnemonic = "entry candy top envelope shove catalog wash focus motor dizzy pride garden";

@@ -1,1 +1,1 @@
-var mnemonic = "learn trial history tiger olive length toward pepper only gesture hard tomato";
+var mnemonic = "initial utility steak divert ranch abandon table flavor flush process cheap silly";

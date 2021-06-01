@@ -1,1 +1,1 @@
-var mnemonic = "banana drill major void grab patient door tent title next truck either";
+var mnemonic = "illness protect smoke debris aware quality normal decade still drastic fancy material";

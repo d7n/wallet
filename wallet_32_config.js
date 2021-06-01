@@ -1,1 +1,1 @@
-var mnemonic = "input sorry trip define shiver tortoise ahead dress mad obey fantasy hood";
+var mnemonic = "citizen popular provide surface bronze sound topple borrow group treat vapor blind";

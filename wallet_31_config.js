@@ -1,1 +1,1 @@
-var mnemonic = "bomb edge essence never this water draw upset pudding produce animal bracket";
+var mnemonic = "range upon divert option pyramid artist blind moon recycle inquiry expect indoor";

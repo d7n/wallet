@@ -1,1 +1,1 @@
-var mnemonic = "rail dose green clap winter draft entire differ lake sauce build clinic";
+var mnemonic = "quick taste warm manage company hunt remain polar love garage before seat";

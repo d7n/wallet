@@ -1,1 +1,1 @@
-var mnemonic = "penalty head tiger someone tomorrow meadow immune hybrid blame desert radio snow";
+var mnemonic = "music lab present actor sheriff owner narrow because wrestle battle label kick";

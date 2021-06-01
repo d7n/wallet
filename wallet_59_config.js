@@ -1,1 +1,1 @@
-var mnemonic = "interest sibling upper agent blind consider arrow visit spider draw siege village";
+var mnemonic = "girl black answer gym brother agree cattle cargo solve thank steel conduct";

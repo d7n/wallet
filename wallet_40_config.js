@@ -1,1 +1,1 @@
-var mnemonic = "able raw junior maximum where degree copy else banner almost donate hip";
+var mnemonic = "foam use bread improve learn pear people average expand course shaft pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "frame parade funny normal speak slush zone observe script above praise plunge";
+var mnemonic = "slab enough abandon charge tell denial truly apple slow engage twenty sun";

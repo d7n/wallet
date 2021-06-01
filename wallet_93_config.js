@@ -1,1 +1,1 @@
-var mnemonic = "civil recall tray crouch pony buffalo mix timber prosper foot business wait";
+var mnemonic = "thunder trend dune turkey humble exile moment lift loyal naive tongue remain";

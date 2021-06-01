@@ -1,1 +1,1 @@
-var mnemonic = "reflect shop drip tuition bounce inch kit guide boring army trial dance";
+var mnemonic = "arrest ski endorse scout enjoy long maid prison tennis mean cherry device";

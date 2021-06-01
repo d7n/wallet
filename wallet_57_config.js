@@ -1,1 +1,1 @@
-var mnemonic = "employ labor page involve vapor market true detail famous limb fall weird";
+var mnemonic = "weird view sister virtual cup harbor general salmon wasp artwork dynamic dolphin";

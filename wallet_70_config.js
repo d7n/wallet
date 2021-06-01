@@ -1,1 +1,1 @@
-var mnemonic = "brave blossom recipe bounce tornado slam first disease board embark useful cheese";
+var mnemonic = "perfect initial zoo scatter admit fuel garlic junk record lounge cream more";

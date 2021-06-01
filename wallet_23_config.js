@@ -1,1 +1,1 @@
-var mnemonic = "stock double wave column system skill normal ladder gather album early baby";
+var mnemonic = "vessel chair swear ginger retire viable uncover muffin affair asthma banner limb";

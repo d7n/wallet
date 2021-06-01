@@ -1,1 +1,1 @@
-var mnemonic = "task end vendor pull alien hill spike embrace solid alter spring canoe";
+var mnemonic = "mechanic canyon eight point fiscal lunar inflict device tongue ranch bulb believe";

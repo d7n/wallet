@@ -1,1 +1,1 @@
-var mnemonic = "glory damp visit saddle pond become arctic ugly link piece hollow mutual";
+var mnemonic = "genius void exit grain joke leave network bargain master learn merry salmon";

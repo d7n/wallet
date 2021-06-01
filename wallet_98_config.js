@@ -1,1 +1,1 @@
-var mnemonic = "tent inspire duck salmon gentle isolate skate settle buyer tank bread robust";
+var mnemonic = "title flame issue recipe nose pulse arch ceiling bench bacon spice actual";

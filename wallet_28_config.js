@@ -1,1 +1,1 @@
-var mnemonic = "hero fabric corn prepare online finger film lunch way buzz fun field";
+var mnemonic = "magnet medal world accident kangaroo chaos envelope misery frozen butter learn guide";

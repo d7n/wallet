@@ -1,1 +1,1 @@
-var mnemonic = "tiny attend kid cabbage expect shiver movie brown army age world split";
+var mnemonic = "broccoli balcony tired afraid girl shadow body cage play waste smooth shed";

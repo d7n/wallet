@@ -1,1 +1,1 @@
-var mnemonic = "actress crunch claw tongue tribe wonder cloud recall image state play vote";
+var mnemonic = "cave demand album toward snack unlock aisle kind agree forget ensure winter";

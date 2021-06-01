@@ -1,1 +1,1 @@
-var mnemonic = "gas sting crater polar interest split sign zero soda link undo need";
+var mnemonic = "fat walnut supply damage asthma orbit come matter creek talk knee vibrant";

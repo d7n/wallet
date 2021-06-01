@@ -1,1 +1,1 @@
-var mnemonic = "coral insane snap napkin rookie dress welcome upgrade snack attitude appear typical";
+var mnemonic = "situate latin iron section addict alter city fun trust replace adapt right";

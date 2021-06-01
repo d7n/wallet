@@ -1,1 +1,1 @@
-var mnemonic = "position either cave world ship raise source extend ten affair wear butter";
+var mnemonic = "virtual panel panic neglect glory arm web group pigeon alpha about spin";

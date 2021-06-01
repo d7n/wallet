@@ -1,1 +1,1 @@
-var mnemonic = "wood rib grocery always pupil army actual eye deliver disorder pudding sample";
+var mnemonic = "field defy outer expire outside lumber local bridge shift want hamster grace";
