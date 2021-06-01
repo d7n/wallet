@@ -1,1 +1,1 @@
-var mnemonic = "hill flock gospel yellow lesson toy scan thought check burger inside leave";
+var mnemonic = "knock august material unique favorite drastic foil fever oppose latin fever better";

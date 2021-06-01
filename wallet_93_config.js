@@ -1,1 +1,1 @@
-var mnemonic = "give expand giraffe blood heart face void later agent scheme unusual jazz";
+var mnemonic = "provide ritual harbor party vault fiber umbrella virtual rebel auto sunset elephant";

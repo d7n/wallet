@@ -1,1 +1,1 @@
-var mnemonic = "debris other warrior fuel alpha member census riot clerk desk typical margin";
+var mnemonic = "account sand gauge frown order expire tent music execute beyond anchor hire";

@@ -1,1 +1,1 @@
-var mnemonic = "torch claw vanish patrol situate again timber situate art proof aim peace";
+var mnemonic = "hamster case inherit nerve glass hundred airport mosquito matrix affair scout dutch";

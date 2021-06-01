@@ -1,1 +1,1 @@
-var mnemonic = "alcohol gesture mimic hard rhythm strong october kitten genius usual vacant antenna";
+var mnemonic = "aware grace often follow weather filter place height enlist piano keen donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "huge crunch south magic subject supply pioneer erupt oblige middle town remind";
+var mnemonic = "west true action wall extend genius volcano fossil evil hello parade assist";

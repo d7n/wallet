@@ -1,1 +1,1 @@
-var mnemonic = "physical oblige valley much sight net cereal antique morning switch general aisle";
+var mnemonic = "grunt recipe salad split film month initial tomorrow estate bitter thank input";

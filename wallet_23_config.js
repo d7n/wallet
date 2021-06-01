@@ -1,1 +1,1 @@
-var mnemonic = "image silver early dragon tank abstract tell loud barrel phone apple rally";
+var mnemonic = "patient laugh pear scorpion mule fossil document maid palace teach screen transfer";

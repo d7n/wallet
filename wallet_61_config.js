@@ -1,1 +1,1 @@
-var mnemonic = "flip gaze radar elder eagle mistake steak trick dinner forward dentist cross";
+var mnemonic = "unfold recycle father assist ceiling crouch glance party rack equal file federal";

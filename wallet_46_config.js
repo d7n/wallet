@@ -1,1 +1,1 @@
-var mnemonic = "bulk keen damp symptom melody paddle reward suspect limb alert easily cattle";
+var mnemonic = "desk fish imitate similar antenna bachelor inner design imitate pitch iron erupt";

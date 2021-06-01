@@ -1,1 +1,1 @@
-var mnemonic = "phone wine era illness lumber eight jewel spice stay jeans admit attitude";
+var mnemonic = "then maze near perfect response oak fashion between voice fat rival nice";

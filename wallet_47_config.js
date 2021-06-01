@@ -1,1 +1,1 @@
-var mnemonic = "strong clock bleak cool practice tuna neither blossom wedding pipe whisper indicate";
+var mnemonic = "series original spirit now dignity wedding harsh busy captain update silver rose";

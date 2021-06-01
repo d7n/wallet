@@ -1,1 +1,1 @@
-var mnemonic = "hood diary cereal hazard tiger friend frequent another seek scatter surprise dizzy";
+var mnemonic = "morning heavy meadow curtain eight ordinary very edit insane slab miss gas";

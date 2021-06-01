@@ -1,1 +1,1 @@
-var mnemonic = "already gloom trip clap round pluck panther again dish sunny crucial tennis";
+var mnemonic = "mixed miss stable convince bounce sure want oppose material lottery economy since";

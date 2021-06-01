@@ -1,1 +1,1 @@
-var mnemonic = "attitude travel invest prevent prepare mixed frame thing search laugh key party";
+var mnemonic = "cruise mushroom marble tomato squeeze seven evolve trick hold rebel time lecture";

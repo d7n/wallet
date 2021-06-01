@@ -1,1 +1,1 @@
-var mnemonic = "drama online theme animal knock emotion moon casual absurd leisure bundle gown";
+var mnemonic = "wait rubber suspect industry zone together violin galaxy purpose under obey assist";

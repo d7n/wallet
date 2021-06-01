@@ -1,1 +1,1 @@
-var mnemonic = "theory language video exit hood bonus basic north picture lift extend voyage";
+var mnemonic = "include rookie grief split property brain kiwi auto prosper virus local party";

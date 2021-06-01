@@ -1,1 +1,1 @@
-var mnemonic = "kitten bid key lawn observe danger embody embody supreme front gun crumble";
+var mnemonic = "peasant parade solution reveal decrease drama barrel dutch ramp hood believe valid";

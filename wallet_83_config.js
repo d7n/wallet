@@ -1,1 +1,1 @@
-var mnemonic = "trap tourist shrug crumble tree prevent upon rail chicken quit immense glove";
+var mnemonic = "pepper eyebrow document spy civil property venue december myth camp liar police";

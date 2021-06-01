@@ -1,1 +1,1 @@
-var mnemonic = "blur grab cost visit moral have deer thing obtain open marble leg";
+var mnemonic = "buyer quantum shop clock pen response cause genre unit trial surge egg";

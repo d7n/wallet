@@ -1,1 +1,1 @@
-var mnemonic = "rebuild erode ticket next gather business actor visa climb sword laptop main";
+var mnemonic = "journey stomach alter bubble mean knife armor fragile replace noble auction brush";

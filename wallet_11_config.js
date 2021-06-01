@@ -1,1 +1,1 @@
-var mnemonic = "tissue noble hungry sphere scheme stairs sadness asthma giant pelican paddle garden";
+var mnemonic = "spread artwork unveil flower remember web best devote degree waste victory image";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant coin throw maid bamboo recall oven harbor vapor amateur alpha month";
+var mnemonic = "act moon panther alcohol damp blur super erode absent annual dumb wise";

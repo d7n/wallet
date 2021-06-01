@@ -1,1 +1,1 @@
-var mnemonic = "black logic amateur bacon ten flee soul vacuum exit sorry fat toilet";
+var mnemonic = "diagram taxi case sadness urban daughter clarify holiday affair sad test lava";

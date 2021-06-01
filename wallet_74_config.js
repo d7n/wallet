@@ -1,1 +1,1 @@
-var mnemonic = "know foster label try casual toddler seek magic cigar forest thing sausage";
+var mnemonic = "outdoor life caution boil theme robust duck fat potato satoshi process unveil";

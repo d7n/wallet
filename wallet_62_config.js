@@ -1,1 +1,1 @@
-var mnemonic = "clever absorb figure urban regular comic trouble announce basket mirror gorilla flavor";
+var mnemonic = "hub pride apart harsh print slow discover muscle drastic moral blanket drift";

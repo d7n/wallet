@@ -1,1 +1,1 @@
-var mnemonic = "jungle envelope cheap used mule toddler govern patient property valid omit amused";
+var mnemonic = "guard pepper lumber coin infant tennis crew cotton match enable horse hurry";

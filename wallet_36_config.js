@@ -1,1 +1,1 @@
-var mnemonic = "old ability number problem couple consider hybrid consider crystal since copper demand";
+var mnemonic = "proof marriage have small north trend agent token pigeon accident expire fade";

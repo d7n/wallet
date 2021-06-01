@@ -1,1 +1,1 @@
-var mnemonic = "weird spot good chapter warm penalty adult together spend early arrest beauty";
+var mnemonic = "unfair tone glove exist always chair device awesome trip elephant gain wagon";

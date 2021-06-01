@@ -1,1 +1,1 @@
-var mnemonic = "bind atom problem material near room strike suggest gadget resource advance believe";
+var mnemonic = "satisfy trick mean smile hope forum battle enter decorate crash toddler puzzle";

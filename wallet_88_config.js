@@ -1,1 +1,1 @@
-var mnemonic = "organ minor lunar box wasp wise road topic code warrior panel final";
+var mnemonic = "glide feature begin lamp mix adapt inquiry orient swift wish claim march";

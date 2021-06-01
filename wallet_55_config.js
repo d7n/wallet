@@ -1,1 +1,1 @@
-var mnemonic = "quote analyst smile decorate order half add pride mountain edit upgrade master";
+var mnemonic = "cereal pretty suffer fruit wide fuel lizard gallery short taxi label juice";

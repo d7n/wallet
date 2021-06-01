@@ -1,1 +1,1 @@
-var mnemonic = "oak picnic body soul survey worth story common first farm sheriff three";
+var mnemonic = "federal huge breeze wish bus point athlete there cancel decide save swim";

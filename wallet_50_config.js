@@ -1,1 +1,1 @@
-var mnemonic = "flock attract gentle egg powder feed table cabbage chief shift regular bonus";
+var mnemonic = "calm fog amused piece soup hold lizard team ride gym fragile tumble";

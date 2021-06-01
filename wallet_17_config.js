@@ -1,1 +1,1 @@
-var mnemonic = "mimic churn egg wine autumn convince judge fatal magnet marble husband scrub";
+var mnemonic = "wish uncle alone ice box chicken pretty midnight dad mechanic roof margin";

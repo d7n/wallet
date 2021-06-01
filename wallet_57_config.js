@@ -1,1 +1,1 @@
-var mnemonic = "delay swarm icon egg spike beach area story favorite patient pair liar";
+var mnemonic = "mouse stool dial misery episode horror access feel empty push shrimp memory";

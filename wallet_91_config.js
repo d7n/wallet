@@ -1,1 +1,1 @@
-var mnemonic = "require oppose anxiety vocal blanket flock decide already resource almost verify beef";
+var mnemonic = "snow cluster reopen upset exchange tissue equip size meadow cancel garden ribbon";

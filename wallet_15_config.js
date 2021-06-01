@@ -1,1 +1,1 @@
-var mnemonic = "basic chest lonely concert spot harbor iron emotion resist raccoon tube carpet";
+var mnemonic = "police banner dynamic secret erode chunk wall hold pilot captain dial foot";

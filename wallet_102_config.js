@@ -1,1 +1,1 @@
-var mnemonic = "remain cigar need option october stable action engine force auction ripple unit";
+var mnemonic = "pill enlist chair blur board trust jealous answer secret ticket climb turn";

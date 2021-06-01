@@ -1,1 +1,1 @@
-var mnemonic = "baby quit boring hurt neglect iron above wonder issue clog clog always";
+var mnemonic = "general airport swap initial pave actual shadow giraffe fiscal day recall manage";

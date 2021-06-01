@@ -1,1 +1,1 @@
-var mnemonic = "toilet upper birth magic response become position admit miracle wage whisper gallery";
+var mnemonic = "captain feed miracle about program boss fat snack text walnut ladder frequent";

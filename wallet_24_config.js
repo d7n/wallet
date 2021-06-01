@@ -1,1 +1,1 @@
-var mnemonic = "orange replace fetch exhaust someone upon shaft excite alert vapor push surge";
+var mnemonic = "region cream flag spawn phrase anger tornado inspire fiber culture kiss spirit";

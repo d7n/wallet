@@ -1,1 +1,1 @@
-var mnemonic = "case resist recycle genius umbrella oyster science portion debate hundred wasp paper";
+var mnemonic = "warfare decade next whale cabbage brave canvas mercy you craft census eagle";

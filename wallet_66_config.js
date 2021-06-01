@@ -1,1 +1,1 @@
-var mnemonic = "arm excess hover cement unfair improve rigid arm ice door stone flush";
+var mnemonic = "achieve another clinic throw then spawn excuse brain rocket mother express denial";

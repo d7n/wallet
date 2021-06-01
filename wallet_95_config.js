@@ -1,1 +1,1 @@
-var mnemonic = "unable sight cliff deputy north please right yard join ceiling miss horn";
+var mnemonic = "kit pen guitar high tonight female light mom food attack under author";

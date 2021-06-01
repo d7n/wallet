@@ -1,1 +1,1 @@
-var mnemonic = "own uniform arctic broken erosion human other return rely aware safe trade";
+var mnemonic = "relief depend result spy ghost buzz test effort design happy grass reform";

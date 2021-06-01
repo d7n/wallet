@@ -1,1 +1,1 @@
-var mnemonic = "submit real stone build hawk toward excuse exit slush report horn planet";
+var mnemonic = "draft wagon mixture grow tape mesh into miss cage safe derive brave";

@@ -1,1 +1,1 @@
-var mnemonic = "dash meat local wedding wheat prosper misery broccoli fiscal logic potato venture";
+var mnemonic = "process reward frozen insane whisper attitude moral dove predict kingdom vehicle sleep";

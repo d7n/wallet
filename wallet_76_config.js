@@ -1,1 +1,1 @@
-var mnemonic = "body left labor pool profit fatal width vital solution blind budget hill";
+var mnemonic = "angry version oblige arm swim broom inner member wing orphan order sister";

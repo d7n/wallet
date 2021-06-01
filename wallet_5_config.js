@@ -1,1 +1,1 @@
-var mnemonic = "purity trap puzzle baby drop bicycle fish immense charge series banana reduce";
+var mnemonic = "twenty check cloud ride whip cancel move kit exit skull bonus walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle crunch vital reduce nut common hobby speed evoke question swift carpet";
+var mnemonic = "someone lawn rack future guard very coffee ginger fringe success deputy fashion";

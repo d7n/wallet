@@ -1,1 +1,1 @@
-var mnemonic = "pride word glory cushion box runway smile album success like slogan woman";
+var mnemonic = "mixture elephant eternal distance tomorrow local bleak retreat guilt vacant riot sleep";

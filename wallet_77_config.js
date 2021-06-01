@@ -1,1 +1,1 @@
-var mnemonic = "high token tongue cream badge size card assault seven put spy violin";
+var mnemonic = "other chuckle castle cook misery extend festival radio between jar fantasy oppose";

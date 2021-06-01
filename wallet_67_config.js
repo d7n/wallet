@@ -1,1 +1,1 @@
-var mnemonic = "two flavor nasty tone room display inside memory poverty tower upon lucky";
+var mnemonic = "slush gentle furnace buffalo same settle cycle sorry train zoo problem happy";

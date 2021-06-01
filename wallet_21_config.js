@@ -1,1 +1,1 @@
-var mnemonic = "around pond maple chat minimum lawsuit keen hat calm pencil famous action";
+var mnemonic = "length atom before motion immune valve essay improve purchase noodle rib gallery";

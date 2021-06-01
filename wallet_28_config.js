@@ -1,1 +1,1 @@
-var mnemonic = "void toss margin reform list egg sting fortune fine slide black friend";
+var mnemonic = "skate enter narrow kick until enemy start sea above accident push biology";

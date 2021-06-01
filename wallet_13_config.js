@@ -1,1 +1,1 @@
-var mnemonic = "minimum flip dial found degree client author poverty often because oyster kind";
+var mnemonic = "blouse field fatigue car retire veteran tired woman nuclear equip puppy original";

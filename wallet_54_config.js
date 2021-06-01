@@ -1,1 +1,1 @@
-var mnemonic = "address knife leader elephant swear attack sorry misery flush cute exotic assist";
+var mnemonic = "oven fetch destroy pioneer audit useful patient fossil gravity elevator gold divert";

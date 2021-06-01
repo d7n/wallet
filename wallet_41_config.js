@@ -1,1 +1,1 @@
-var mnemonic = "result cake round roof ahead fossil this suit super smooth sugar volume";
+var mnemonic = "proud run goose lizard custom jewel flee expand vapor critic when scare";

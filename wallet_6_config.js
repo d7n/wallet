@@ -1,1 +1,1 @@
-var mnemonic = "park suffer radio buyer melt soup spoil tomorrow shed warm gun cable";
+var mnemonic = "spring hip illness hurt damp that pitch road art fat stable tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "antique brand video almost cross water evolve giraffe exchange tennis card arrange";
+var mnemonic = "kick crowd differ smile spend dignity essay add spider inhale member table";

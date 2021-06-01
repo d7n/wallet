@@ -1,1 +1,1 @@
-var mnemonic = "budget apple top cage current brave can almost dog despair cage blanket";
+var mnemonic = "sister stone lizard luggage romance cement call subway gloom bus van cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse nose concert sudden manual pulse grass party hurry garlic season stable";
+var mnemonic = "wasp maze thumb force grace dove nephew obvious shove dog lens say";

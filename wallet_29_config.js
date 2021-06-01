@@ -1,1 +1,1 @@
-var mnemonic = "pass earn poet possible bounce antique capable odor convince jealous cause repair";
+var mnemonic = "subject strong toy fix flower drama dust sport demise absent income strong";

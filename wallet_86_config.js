@@ -1,1 +1,1 @@
-var mnemonic = "industry eagle that same evoke federal stand cradle very oyster drift walnut";
+var mnemonic = "federal decorate gym canal erase vocal arm walnut badge tree initial sign";

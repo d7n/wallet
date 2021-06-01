@@ -1,1 +1,1 @@
-var mnemonic = "myth crater dizzy loop equal try boil budget tower aim token item";
+var mnemonic = "usual double library wheat flock remind demise fish music maple key mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue jar juice wash peace cave grass rain adjust immense bounce away";
+var mnemonic = "when vote plunge inside glide assault hazard shove baby master cargo clinic";

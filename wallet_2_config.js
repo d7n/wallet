@@ -1,1 +1,1 @@
-var mnemonic = "city beef distance item citizen able city math endless eagle also spoon";
+var mnemonic = "cute address calm hover lottery sphere surface term vault ride business skin";

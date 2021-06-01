@@ -1,1 +1,1 @@
-var mnemonic = "sail august strategy poem capable escape alarm velvet moral scheme ready burden";
+var mnemonic = "blue stomach stone illness primary news away auction gravity sorry pioneer minute";

@@ -1,1 +1,1 @@
-var mnemonic = "route caught zone vintage art damage hero uphold job lamp that lounge";
+var mnemonic = "tower hello media minimum test glide oblige silent real mask debris afford";

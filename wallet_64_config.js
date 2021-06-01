@@ -1,1 +1,1 @@
-var mnemonic = "deposit uphold monster choice foil arrest cannon cake input during common cover";
+var mnemonic = "vibrant limit banana guess dutch glow crash boring cannon sunset dress thrive";

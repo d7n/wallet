@@ -1,1 +1,1 @@
-var mnemonic = "discover warrior traffic minimum menu original flag faint polar text truly drum";
+var mnemonic = "badge tobacco course animal claw moral observe differ negative aisle copy panda";

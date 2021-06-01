@@ -1,1 +1,1 @@
-var mnemonic = "excite right lemon excuse author erode famous liquid peasant feel vacant snap";
+var mnemonic = "awake replace strike employ away salmon theory rent deliver ridge myth identify";

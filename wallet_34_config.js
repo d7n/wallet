@@ -1,1 +1,1 @@
-var mnemonic = "diary plastic rack current space guess assault blood source coffee flag science";
+var mnemonic = "coach unlock lawn clog visit flee rocket fringe buyer syrup myth color";

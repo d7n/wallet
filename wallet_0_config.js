@@ -1,1 +1,1 @@
-var mnemonic = "yellow shield squeeze good symptom picnic genuine perfect velvet purpose aerobic pledge";
+var mnemonic = "okay fox dress help sleep evil core wrap dress wish educate moment";

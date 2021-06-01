@@ -1,1 +1,1 @@
-var mnemonic = "surface glance chuckle emotion pigeon increase wreck army during celery occur laugh";
+var mnemonic = "dirt fix face expect hand craft squeeze pistol true unfold intact patch";

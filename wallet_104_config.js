@@ -1,1 +1,1 @@
-var mnemonic = "dad sword enrich correct earn crazy spoon gloom hidden reduce piano discover";
+var mnemonic = "saddle car ankle inquiry side urge human health junk brass artist reunion";

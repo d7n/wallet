@@ -1,1 +1,1 @@
-var mnemonic = "target husband cigar pledge afford early cruise puppy rookie soda crash exercise";
+var mnemonic = "gain army symptom will evil forward knife crowd fan south invite collect";

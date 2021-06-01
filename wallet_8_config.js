@@ -1,1 +1,1 @@
-var mnemonic = "medal sea frog order frozen meat proud acid follow boring hotel dismiss";
+var mnemonic = "place exercise west puzzle feed tobacco sausage shine state lucky fault exile";

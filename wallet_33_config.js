@@ -1,1 +1,1 @@
-var mnemonic = "behave frame salt stool announce arrest wish session film album bronze chase";
+var mnemonic = "arch tide gravity penalty tornado silver curtain elder chest fun muffin minor";

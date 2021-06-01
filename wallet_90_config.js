@@ -1,1 +1,1 @@
-var mnemonic = "crush party evidence common twelve what abuse charge arctic romance letter hood";
+var mnemonic = "draft cat crowd domain tree faculty swap couch claw grape tooth under";

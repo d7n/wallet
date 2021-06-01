@@ -1,1 +1,1 @@
-var mnemonic = "whale auction list lunch spot current believe push evidence air coyote often";
+var mnemonic = "unusual duty loop modify yellow brush sight salad amazing sunset shrimp parade";

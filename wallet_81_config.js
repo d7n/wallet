@@ -1,1 +1,1 @@
-var mnemonic = "seat clinic anxiety october target path bind valid sing rhythm bracket another";
+var mnemonic = "erosion verify rural garment warrior salute flush syrup afford churn switch hen";

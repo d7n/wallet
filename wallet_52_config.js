@@ -1,1 +1,1 @@
-var mnemonic = "fat chalk crowd pistol cluster canoe identify rent ordinary sketch vacuum flame";
+var mnemonic = "blossom heavy awkward hour swing opera thought client surface board elbow effort";

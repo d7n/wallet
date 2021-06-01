@@ -1,1 +1,1 @@
-var mnemonic = "meat asset work acquire reform item few marriage cross card shock affair";
+var mnemonic = "seat crunch civil swear clump jewel glory emotion legal real impose long";

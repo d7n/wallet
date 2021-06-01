@@ -1,1 +1,1 @@
-var mnemonic = "aware ordinary layer critic plunge renew iron recipe tomato excite menu client";
+var mnemonic = "actor gym mouse must runway fold topple feed forget decorate clutch hill";

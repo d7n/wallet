@@ -1,1 +1,1 @@
-var mnemonic = "bachelor chef universe vanish sort foot cricket ten bridge cradle issue snake";
+var mnemonic = "total milk garment wrestle idea exclude knife suggest hobby update galaxy deny";

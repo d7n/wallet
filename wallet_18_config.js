@@ -1,1 +1,1 @@
-var mnemonic = "slim coconut chuckle suffer ring vessel indoor catalog claim soft tent tape";
+var mnemonic = "sad dilemma gold grunt knife athlete garment hollow swim wine calm vanish";

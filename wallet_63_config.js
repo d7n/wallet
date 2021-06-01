@@ -1,1 +1,1 @@
-var mnemonic = "suffer comic delay figure fall remain stand antenna lottery nation crazy parrot";
+var mnemonic = "work library another attack absent border recycle fruit few prevent pink twenty";

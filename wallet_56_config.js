@@ -1,1 +1,1 @@
-var mnemonic = "fit hobby flip render purpose derive calm apology exile cook promote solar";
+var mnemonic = "plastic elder tornado soft pluck attend wheat swim traffic exile side type";

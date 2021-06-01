@@ -1,1 +1,1 @@
-var mnemonic = "okay luggage party funny hospital uncover cube close aim segment kick teach";
+var mnemonic = "able feed gym insane depend involve someone robust view believe escape sudden";

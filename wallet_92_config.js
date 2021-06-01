@@ -1,1 +1,1 @@
-var mnemonic = "alert powder scrub bridge desert ankle join unable caught lucky camp mimic";
+var mnemonic = "portion achieve tonight come frog melody can finger absent fossil mammal elder";

@@ -1,1 +1,1 @@
-var mnemonic = "celery renew coast estate syrup coach yard reflect punch inform cliff morning";
+var mnemonic = "point blade cave frog spy task fortune sauce security vendor affair fiber";

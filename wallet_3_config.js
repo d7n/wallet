@@ -1,1 +1,1 @@
-var mnemonic = "dwarf strategy blast stock barrel swamp accuse leg lounge squirrel weapon broken";
+var mnemonic = "rude mountain mobile cheese match month crazy attend version broccoli chimney hour";

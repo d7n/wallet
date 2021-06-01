@@ -1,1 +1,1 @@
-var mnemonic = "load remove express forest good main worry brush inch keep bulk basic";
+var mnemonic = "lake such assault dentist brown shrimp pluck human ball pluck obtain budget";

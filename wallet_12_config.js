@@ -1,1 +1,1 @@
-var mnemonic = "detect glass chaos hotel slam drum onion slot peanut image asthma physical";
+var mnemonic = "when dilemma vapor ranch witness winter bronze spend suffer alert good baby";

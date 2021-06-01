@@ -1,1 +1,1 @@
-var mnemonic = "almost world forum episode loyal hunt monitor myself tattoo lounge grit gossip";
+var mnemonic = "ritual minor same weekend wreck never strong police payment creek mystery boss";

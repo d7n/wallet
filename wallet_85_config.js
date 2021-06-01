@@ -1,1 +1,1 @@
-var mnemonic = "universe decrease there fame one rule vicious key orange ahead diary piece";
+var mnemonic = "essay absurd warrior never quality ordinary cargo open approve abuse deal bird";
