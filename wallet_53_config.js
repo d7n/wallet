@@ -1,1 +1,1 @@
-var mnemonic = "february enemy certain ridge robust favorite matrix current garlic garbage eyebrow gesture";
+var mnemonic = "steak wealth strike fox disease basic match regret team list valley steel";

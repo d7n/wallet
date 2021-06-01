@@ -1,1 +1,1 @@
-var mnemonic = "torch thought weekend rain swing magnet man beef piece input glare perfect";
+var mnemonic = "icon gravity service together athlete wreck capable awake thrive axis spy erase";

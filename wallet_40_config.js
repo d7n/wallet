@@ -1,1 +1,1 @@
-var mnemonic = "act glimpse pipe swamp visa shrug kitten broom income large thrive south";
+var mnemonic = "suggest agree patch night crush genius captain ribbon impulse mask random cross";

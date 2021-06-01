@@ -1,1 +1,1 @@
-var mnemonic = "light table lift float modify lounge garbage siren grass sure car odor";
+var mnemonic = "tower acid shuffle arrow shine alley struggle build claim canal glimpse erase";

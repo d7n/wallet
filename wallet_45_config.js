@@ -1,1 +1,1 @@
-var mnemonic = "tube final system prevent absurd surround limit ask layer town organ upset";
+var mnemonic = "cancel shoulder another elbow trust organ hint armed then volume vacant trouble";

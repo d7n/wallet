@@ -1,1 +1,1 @@
-var mnemonic = "plunge reveal allow radio expire keep tobacco head awkward culture code guitar";
+var mnemonic = "still later valid try elevator asthma electric south ring ill bike foam";

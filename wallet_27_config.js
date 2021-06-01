@@ -1,1 +1,1 @@
-var mnemonic = "cigar hospital toddler adult middle interest fall sheriff metal letter toddler door";
+var mnemonic = "leave tower exile ring what model market antique cram hold indoor breeze";

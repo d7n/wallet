@@ -1,1 +1,1 @@
-var mnemonic = "warm company antique inner beef beyond document effort city shield bamboo helmet";
+var mnemonic = "inspire good alpha treat shoot shell doll section victory bonus rude item";

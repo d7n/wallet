@@ -1,1 +1,1 @@
-var mnemonic = "path net siege census since differ smart improve lottery focus accident slow";
+var mnemonic = "jeans afford banner surge cancel merge garment dirt bulk identify satisfy item";

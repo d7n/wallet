@@ -1,1 +1,1 @@
-var mnemonic = "project alpha rally receive damp elephant tenant carry truth maze trophy possible";
+var mnemonic = "corn tail valve observe table true gather crater height orange shoulder bleak";

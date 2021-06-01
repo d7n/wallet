@@ -1,1 +1,1 @@
-var mnemonic = "amazing trade lesson target fever radio original sausage crew future pill soup";
+var mnemonic = "ill tuna doll luggage found sick sleep planet echo material street zone";

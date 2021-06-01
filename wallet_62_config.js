@@ -1,1 +1,1 @@
-var mnemonic = "total tray together volume slide spread crash catalog chunk float jaguar food";
+var mnemonic = "vague jealous rug vivid mean talk shove flush water column supreme artist";

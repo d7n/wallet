@@ -1,1 +1,1 @@
-var mnemonic = "transfer agent raise gauge boring knock allow clump virus path focus caution";
+var mnemonic = "slide edit luggage fossil home honey envelope sword trophy stumble decide night";

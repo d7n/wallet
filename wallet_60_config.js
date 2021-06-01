@@ -1,1 +1,1 @@
-var mnemonic = "game kick trap expose multiply favorite claw nephew field spice million sport";
+var mnemonic = "effort punch demand stock stay leave occur rude few search promote orphan";

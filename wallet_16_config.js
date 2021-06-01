@@ -1,1 +1,1 @@
-var mnemonic = "smart arena anchor slush gate struggle almost squirrel indicate collect trial arrange";
+var mnemonic = "slogan cheap attitude envelope cook guilt dry pool finish because solution patient";

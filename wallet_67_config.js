@@ -1,1 +1,1 @@
-var mnemonic = "net mango excess afford crop twist result what diesel clip tube giggle";
+var mnemonic = "athlete flat actress bounce hello ship aware erupt title give discover people";

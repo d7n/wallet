@@ -1,1 +1,1 @@
-var mnemonic = "repair merge member ask gloom chaos summer shallow rich sheriff lonely still";
+var mnemonic = "gold analyst cabin kiwi sock oppose delay warfare come indoor turn offer";

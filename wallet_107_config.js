@@ -1,1 +1,1 @@
-var mnemonic = "rain gain arrive warm high early lock error mind funny satisfy repeat";
+var mnemonic = "subway scheme repeat enforce decide involve sudden hundred canoe much train salmon";

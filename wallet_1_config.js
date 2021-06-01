@@ -1,1 +1,1 @@
-var mnemonic = "great smart cattle response talent bread describe credit ankle ribbon fruit crowd";
+var mnemonic = "certain retreat best differ level winner bottom easy vivid swing own team";

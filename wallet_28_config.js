@@ -1,1 +1,1 @@
-var mnemonic = "pact ivory six soccer decade woman fly soon element orphan surface under";
+var mnemonic = "term describe educate domain hawk praise hospital runway own day display machine";

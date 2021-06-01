@@ -1,1 +1,1 @@
-var mnemonic = "rice view seek slice purchase harsh bracket reason pole theme embark assume";
+var mnemonic = "clutch sunset define must acid return engage wrap nerve index oil alter";

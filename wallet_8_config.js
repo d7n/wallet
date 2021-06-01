@@ -1,1 +1,1 @@
-var mnemonic = "jaguar grid hour shiver urge group lonely primary foster long bargain identify";
+var mnemonic = "grid define replace choose cave medal blouse bring course answer eyebrow chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "dry turtle piece rabbit gaze gaze laugh loud cinnamon lazy time bracket";
+var mnemonic = "volume salmon together walnut fun behind pond found better anger flee tree";

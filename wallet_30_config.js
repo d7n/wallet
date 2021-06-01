@@ -1,1 +1,1 @@
-var mnemonic = "dice relief require nature tape convince laptop unfair hat maid primary warfare";
+var mnemonic = "sudden duty polar violin agree dinosaur rather volcano lamp ice pig regular";

@@ -1,1 +1,1 @@
-var mnemonic = "connect pill soda twist raw attract invite erupt credit suggest ostrich hawk";
+var mnemonic = "trash audit quick loop shock baby fault course butter gown just soccer";

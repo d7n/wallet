@@ -1,1 +1,1 @@
-var mnemonic = "warm awkward sunny ball achieve move tank sadness excite wheat blossom advance";
+var mnemonic = "kitchen fog merge bread rescue lab fee brain forward hollow pond kiwi";

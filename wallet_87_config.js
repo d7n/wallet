@@ -1,1 +1,1 @@
-var mnemonic = "labor cricket control theory hungry impact snack orchard bleak festival member dial";
+var mnemonic = "risk loan shoot donkey flower fence amused village sugar list farm diary";

@@ -1,1 +1,1 @@
-var mnemonic = "exact survey check giant caution spy end random few fruit luxury couch";
+var mnemonic = "velvet code oven wear comfort chapter sister decline multiply awful style simple";

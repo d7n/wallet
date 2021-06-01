@@ -1,1 +1,1 @@
-var mnemonic = "devote enjoy shine carbon course tube boost pitch trap illness swim health";
+var mnemonic = "just donkey frog powder rotate one wood render way vintage mystery first";

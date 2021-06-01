@@ -1,1 +1,1 @@
-var mnemonic = "cliff citizen mule acid orange crash spy cargo sort escape wood punch";
+var mnemonic = "return image pumpkin envelope bitter salmon daughter check eight diamond rigid suspect";

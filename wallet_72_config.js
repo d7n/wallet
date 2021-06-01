@@ -1,1 +1,1 @@
-var mnemonic = "canoe toy enough impulse decline eager scrap mad series agent month ask";
+var mnemonic = "matrix pizza sun humble isolate beef repair episode adult arm topic gold";

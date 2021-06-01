@@ -1,1 +1,1 @@
-var mnemonic = "story warrior scorpion artist mercy feed illegal delay wagon hair elder current";
+var mnemonic = "tape author muffin goose neutral recycle can reveal leader destroy brisk little";

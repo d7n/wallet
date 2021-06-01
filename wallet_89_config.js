@@ -1,1 +1,1 @@
-var mnemonic = "twice bicycle photo onion entire oval aim armor range illegal tourist uncover";
+var mnemonic = "garbage law slender divide famous piano host rhythm potato december mountain matter";

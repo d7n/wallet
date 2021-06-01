@@ -1,1 +1,1 @@
-var mnemonic = "easy bundle airport order raw episode among appear brick catch curve sight";
+var mnemonic = "narrow order grunt balcony rhythm marine frequent surface hill enjoy volcano mind";

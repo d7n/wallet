@@ -1,1 +1,1 @@
-var mnemonic = "figure rookie when dolphin asthma until reflect tiny digital settle steak library";
+var mnemonic = "february pretty atom grid doctor buzz gloom tuition type final behave keep";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla donor walk cart enough alarm joy noble fuel ankle rent nest";
+var mnemonic = "solid minute present floor short ability enter staff sock unit harbor whale";

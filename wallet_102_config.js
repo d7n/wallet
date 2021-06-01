@@ -1,1 +1,1 @@
-var mnemonic = "coral minute tomato vacant ready dignity wrestle improve strategy bar raccoon work";
+var mnemonic = "grass farm achieve mention predict thing web case desert vocal length crowd";

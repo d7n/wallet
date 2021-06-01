@@ -1,1 +1,1 @@
-var mnemonic = "sister connect draft repair loop during chair luxury sleep term unfair bulk";
+var mnemonic = "nuclear doctor table earth destroy dwarf gravity method dry harvest over alpha";

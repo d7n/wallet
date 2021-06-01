@@ -1,1 +1,1 @@
-var mnemonic = "curve person castle income sniff exist senior they mistake sheriff lunar oil";
+var mnemonic = "undo hat ring rose absurd process trap thumb cable beauty basket clutch";

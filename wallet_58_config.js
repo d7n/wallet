@@ -1,1 +1,1 @@
-var mnemonic = "deer hand confirm bounce fringe course regular neutral forum neck gun city";
+var mnemonic = "figure lunar deputy mistake paddle segment cotton end reward repair tongue once";

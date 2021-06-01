@@ -1,1 +1,1 @@
-var mnemonic = "point picture frost jealous mix rice library man erosion remind walk cannon";
+var mnemonic = "increase lyrics unhappy wheat isolate bind hurt reward say devote zoo defense";

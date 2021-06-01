@@ -1,1 +1,1 @@
-var mnemonic = "ask toy waste summer bind fuel view height strike banana debris blast";
+var mnemonic = "candy merge test rib flight rely health chapter rescue menu huge misery";

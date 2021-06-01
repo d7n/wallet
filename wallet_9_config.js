@@ -1,1 +1,1 @@
-var mnemonic = "volume capable human rule cheese soap toddler extend response close large federal";
+var mnemonic = "axis home lounge achieve horse grass job husband type sheriff spin jaguar";

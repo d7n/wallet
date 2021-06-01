@@ -1,1 +1,1 @@
-var mnemonic = "hood law atom story guitar report glare swallow cup client east rug";
+var mnemonic = "horror quick prison world extra best square solar squirrel fix cycle depth";

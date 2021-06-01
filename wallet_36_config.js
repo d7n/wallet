@@ -1,1 +1,1 @@
-var mnemonic = "defense hammer nerve festival length cloth ridge surge unusual smooth nephew echo";
+var mnemonic = "palm bunker kiss fiber sibling never boil injury feel jacket camp deny";

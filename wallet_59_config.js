@@ -1,1 +1,1 @@
-var mnemonic = "slogan slab cotton truly vacuum destroy fresh stock net bag bus crowd";
+var mnemonic = "add poem hard food scout return review echo siege leave able same";

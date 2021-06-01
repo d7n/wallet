@@ -1,1 +1,1 @@
-var mnemonic = "friend culture buddy april burger always camera misery dinner monitor proud hunt";
+var mnemonic = "fork piano neither mirror two educate essence under pizza much trust novel";

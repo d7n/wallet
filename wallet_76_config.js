@@ -1,1 +1,1 @@
-var mnemonic = "echo chronic seven heart ketchup live language cycle female edge address fatal";
+var mnemonic = "dwarf field learn trend produce must because eternal tell put pause sign";

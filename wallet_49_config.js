@@ -1,1 +1,1 @@
-var mnemonic = "explain rubber slogan fox energy erupt infant fetch sense educate session pill";
+var mnemonic = "olive ginger plate reveal measure volume settle spike bullet radio regret expose";

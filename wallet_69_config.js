@@ -1,1 +1,1 @@
-var mnemonic = "double misery throw stock pioneer sauce unique symbol valid screen merit paddle";
+var mnemonic = "rubber orphan like state also describe north version evil crew tell hidden";

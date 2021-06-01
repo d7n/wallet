@@ -1,1 +1,1 @@
-var mnemonic = "tip hat execute fit gesture symbol adapt end rib pledge lecture nominee";
+var mnemonic = "tomorrow stumble borrow blue water raccoon enroll split avocado ramp card grid";

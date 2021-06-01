@@ -1,1 +1,1 @@
-var mnemonic = "endless era bench mobile island reflect blade topple buddy large theme beyond";
+var mnemonic = "knock cabin voice shrug execute female hint fame float vibrant ship brief";

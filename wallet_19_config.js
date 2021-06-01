@@ -1,1 +1,1 @@
-var mnemonic = "media few document warfare tag cereal tiger thing always magic stamp evolve";
+var mnemonic = "orphan goose position trade current nasty such jeans noise text faint pony";

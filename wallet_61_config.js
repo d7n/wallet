@@ -1,1 +1,1 @@
-var mnemonic = "believe foster fetch cool license tooth guide general abstract have lawsuit lab";
+var mnemonic = "half balcony burst any pilot hundred code claw fantasy clump leg clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "talent funny veteran emotion future license lamp wash flight smart truly hat";
+var mnemonic = "miracle blouse holiday way scorpion flush extend verify museum morning burden load";

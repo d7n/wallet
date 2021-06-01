@@ -1,1 +1,1 @@
-var mnemonic = "spice extra visual wash tell noble actor embrace chair favorite gentle manual";
+var mnemonic = "social roof door comic problem enemy ivory problem recycle swear camera advice";

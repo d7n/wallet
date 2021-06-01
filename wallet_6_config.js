@@ -1,1 +1,1 @@
-var mnemonic = "spend rabbit trouble move perfect pass sand round course permit opinion motor";
+var mnemonic = "drive immense valley arrive entire hope stool large verify short budget wolf";

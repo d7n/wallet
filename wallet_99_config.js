@@ -1,1 +1,1 @@
-var mnemonic = "scale february hammer jungle resist stamp pioneer chat horse crunch morning pencil";
+var mnemonic = "fit raven tooth subject coconut nice lens unusual wisdom car hill panda";

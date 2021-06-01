@@ -1,1 +1,1 @@
-var mnemonic = "retreat bronze runway denial hope junk base forest slam sudden door coral";
+var mnemonic = "rent expect deliver idea speed excite wealth hip cruise cage brand embody";

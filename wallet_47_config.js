@@ -1,1 +1,1 @@
-var mnemonic = "luxury symbol that alley text mouse gauge cattle electric debate brass harsh";
+var mnemonic = "service clay copy hamster enlist genuine any print other category siren lobster";

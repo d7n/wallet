@@ -1,1 +1,1 @@
-var mnemonic = "goose axis ghost obvious nature matrix note misery monster swamp nephew edit";
+var mnemonic = "tornado arm silent mutual maximum into physical tower rifle evil cancel unknown";

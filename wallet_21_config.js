@@ -1,1 +1,1 @@
-var mnemonic = "lift breeze winter catch avoid shine notice bulb runway easy horn upper";
+var mnemonic = "sweet witness output satisfy coffee shell deal kit share year random boil";

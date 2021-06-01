@@ -1,1 +1,1 @@
-var mnemonic = "local lesson treat like come benefit once sustain seek question heart embark";
+var mnemonic = "disagree federal index calm woman usual hurry end route flush crowd coyote";

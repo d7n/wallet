@@ -1,1 +1,1 @@
-var mnemonic = "axis pigeon melt ethics connect comfort country since repeat sight action iron";
+var mnemonic = "window february donate habit merry winter chair above level churn civil gather";

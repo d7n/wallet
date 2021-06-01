@@ -1,1 +1,1 @@
-var mnemonic = "armed arctic supreme sort review citizen obvious key measure pelican rival flip";
+var mnemonic = "token vague ketchup vacant master daring snake primary rival slight quality endless";

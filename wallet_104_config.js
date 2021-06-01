@@ -1,1 +1,1 @@
-var mnemonic = "pill gold attend snap range carry rude capital version crazy giggle life";
+var mnemonic = "virtual age dragon inch job bread check recall glue season come search";

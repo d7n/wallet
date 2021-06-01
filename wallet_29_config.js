@@ -1,1 +1,1 @@
-var mnemonic = "usual damp load pill slim admit regret letter tool blouse wise bid";
+var mnemonic = "tone craft fine battle grid patch sword rookie record next ridge hollow";

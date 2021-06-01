@@ -1,1 +1,1 @@
-var mnemonic = "memory cute lamp feel truck woman elevator addict void flower typical popular";
+var mnemonic = "worth happy weapon hen erase symptom manage creek alcohol total one fat";

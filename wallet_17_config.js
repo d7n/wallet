@@ -1,1 +1,1 @@
-var mnemonic = "clock say spawn true book sentence brown awesome trap antique cricket melt";
+var mnemonic = "stumble borrow bomb various high page nothing puzzle hat prison area same";

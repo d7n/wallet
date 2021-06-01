@@ -1,1 +1,1 @@
-var mnemonic = "bike wagon chair educate chunk armed effort rescue virtual mountain benefit razor";
+var mnemonic = "very piece inside luggage multiply cloud sea verb cost cabin boil field";

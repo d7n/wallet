@@ -1,1 +1,1 @@
-var mnemonic = "mix hood argue prevent total carbon upgrade maximum dune stamp legal feel";
+var mnemonic = "library exercise panda person glance have vehicle math tip reunion favorite nut";

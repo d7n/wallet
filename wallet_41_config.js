@@ -1,1 +1,1 @@
-var mnemonic = "scrub clock fat pool secret junior lawn fence artwork silent design direct";
+var mnemonic = "warm saddle crystal boring scorpion rocket immune symbol electric doll tiny cupboard";

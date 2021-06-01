@@ -1,1 +1,1 @@
-var mnemonic = "notice pen find caught mimic math awkward damage dwarf siege permit increase";
+var mnemonic = "belt august razor slush ceiling piano orchard input gift hurry march excuse";

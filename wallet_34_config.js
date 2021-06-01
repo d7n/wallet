@@ -1,1 +1,1 @@
-var mnemonic = "appear pilot near moment naive air allow element debate brother jaguar squeeze";
+var mnemonic = "fix expire during eye year domain great party axis gentle easily forest";

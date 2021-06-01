@@ -1,1 +1,1 @@
-var mnemonic = "glass match arrow punch foil quarter outdoor ridge offer blame wisdom pottery";
+var mnemonic = "ranch marble exile soccer start merge purity camp exclude always evidence solve";

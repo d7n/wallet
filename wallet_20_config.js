@@ -1,1 +1,1 @@
-var mnemonic = "scissors increase science safe yard practice honey thank enjoy slow nephew village";
+var mnemonic = "eager casino denial rapid frog end genuine same devote science basic monitor";

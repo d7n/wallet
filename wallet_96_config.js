@@ -1,1 +1,1 @@
-var mnemonic = "enable swift hospital faculty senior inside genuine basic exchange gym tip invite";
+var mnemonic = "zebra oven great plug story wisdom earn flip taste actual merry enter";

@@ -1,1 +1,1 @@
-var mnemonic = "trade brass cross air shoulder cruel promote frost nut elbow depth life";
+var mnemonic = "imitate artefact dash grace liar convince reflect lecture galaxy spread spice chat";

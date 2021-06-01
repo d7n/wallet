@@ -1,1 +1,1 @@
-var mnemonic = "isolate change memory matter record play noise company lucky december stock illness";
+var mnemonic = "cabbage tape matrix bargain behave gravity odor rent panel suit better sheriff";

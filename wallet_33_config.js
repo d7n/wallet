@@ -1,1 +1,1 @@
-var mnemonic = "swap pole lobster month junior debris woman crush pave connect fee fox";
+var mnemonic = "equip shine lawn labor panel casino orchard play morning fortune open fat";

@@ -1,1 +1,1 @@
-var mnemonic = "require huge trumpet tribe drift traffic install palace grape absurd enter despair";
+var mnemonic = "wall worry either promote comic loyal obey arrive melt wall hat birth";

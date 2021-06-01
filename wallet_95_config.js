@@ -1,1 +1,1 @@
-var mnemonic = "twin blouse wheat deer box game pluck huge rail deal gap purpose";
+var mnemonic = "top stool farm unaware dragon hurry report genius tackle exotic gesture ripple";

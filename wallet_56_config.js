@@ -1,1 +1,1 @@
-var mnemonic = "supply park distance neglect sunset evidence excuse square pottery mad cake pupil";
+var mnemonic = "before method nephew luggage swing glance endorse identify lake column robot climb";

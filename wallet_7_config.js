@@ -1,1 +1,1 @@
-var mnemonic = "useful bundle brass tennis exit blind merit toe utility example vintage glue";
+var mnemonic = "please area remember scrap planet loan market spawn barely flavor sugar roast";

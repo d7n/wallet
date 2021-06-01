@@ -1,1 +1,1 @@
-var mnemonic = "gift supreme name fragile alter lesson august game decrease dignity copy panel";
+var mnemonic = "ozone pumpkin forum front slight priority advice bacon capable sport avoid valley";

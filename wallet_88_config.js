@@ -1,1 +1,1 @@
-var mnemonic = "cactus arena leopard siren patrol welcome before siege heavy disagree raise flee";
+var mnemonic = "this sword nuclear useless super cinnamon actual struggle noise range inquiry inherit";

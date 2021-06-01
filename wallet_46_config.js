@@ -1,1 +1,1 @@
-var mnemonic = "frog struggle master thunder force jungle rebel dawn brave destroy cousin undo";
+var mnemonic = "leopard liquid wasp lunar intact burden cover slide glide task relax regret";

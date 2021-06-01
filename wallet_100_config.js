@@ -1,1 +1,1 @@
-var mnemonic = "light myself review nice pattern path model pink certain lock regular issue";
+var mnemonic = "tobacco wrestle shed demand quit joke soon attitude chef bicycle silk ancient";

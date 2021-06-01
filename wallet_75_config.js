@@ -1,1 +1,1 @@
-var mnemonic = "bulk river awful work scrub relief force feature weekend awake that dress";
+var mnemonic = "divide vivid coral goat cupboard icon expand audit cook say drama slim";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred denial saddle become lecture stone culture video enrich zone feature music";
+var mnemonic = "must tool try police galaxy accident panda drip belt daughter boring fatal";
