@@ -1,1 +1,1 @@
-var mnemonic = "space drum hope invite mean fog wall flavor fruit taxi number else";
+var mnemonic = "arrow art chaos inform oak pencil brown process endless amount hurt swamp";

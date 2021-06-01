@@ -1,1 +1,1 @@
-var mnemonic = "inform exact priority shadow science uniform purchase tongue party result cute enlist";
+var mnemonic = "crowd unit notable offer horse inspire admit quantum shuffle pact arctic zebra";

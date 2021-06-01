@@ -1,1 +1,1 @@
-var mnemonic = "income half hood spend minute coach nephew move rule embody control fever";
+var mnemonic = "object perfect coin actual sustain error evolve defy rich physical kind silly";

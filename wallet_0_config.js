@@ -1,1 +1,1 @@
-var mnemonic = "spend guess write warm curve dolphin keep diary comic adjust shoot pig";
+var mnemonic = "erode sentence session wreck spoil refuse high neck humor collect coral wife";

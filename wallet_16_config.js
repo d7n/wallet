@@ -1,1 +1,1 @@
-var mnemonic = "code toddler burden gospel tissue mass artwork dinosaur cave wrestle large hedgehog";
+var mnemonic = "wage puppy tag middle deny invest science chapter stove shiver situate legal";

@@ -1,1 +1,1 @@
-var mnemonic = "opera pelican time ritual pioneer auto afraid permit island popular amused attract";
+var mnemonic = "float project maple analyst renew expect bar foster insane cream super glad";

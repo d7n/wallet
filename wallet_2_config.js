@@ -1,1 +1,1 @@
-var mnemonic = "sphere tumble rural ghost mountain fruit liberty inform desert region account rigid";
+var mnemonic = "wash hello sense flag ring luxury document panic isolate mom scrap cube";

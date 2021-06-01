@@ -1,1 +1,1 @@
-var mnemonic = "soldier parade hybrid orient confirm already cover foot comfort start quit stand";
+var mnemonic = "mule foster friend truck artwork remember mutual sign biology elbow about spatial";

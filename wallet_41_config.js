@@ -1,1 +1,1 @@
-var mnemonic = "health dust inflict leisure image provide more learn science spy when actress";
+var mnemonic = "spot kitchen wonder alone dream unusual museum chef mix wealth demand giraffe";

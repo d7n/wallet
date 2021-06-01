@@ -1,1 +1,1 @@
-var mnemonic = "rocket arena fire blood aim diary hello amateur gauge reveal night ring";
+var mnemonic = "ripple quarter level spirit lyrics regular mention science apart quote pencil saddle";

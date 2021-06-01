@@ -1,1 +1,1 @@
-var mnemonic = "click such short grunt mass comic lawsuit screen tornado before elder magnet";
+var mnemonic = "neutral great dismiss plate slush erode unfold recycle strong category often rather";

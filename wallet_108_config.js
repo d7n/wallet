@@ -1,1 +1,1 @@
-var mnemonic = "example rubber divide cloth animal drill lesson session detail drama north traffic";
+var mnemonic = "ignore find other success ordinary they nice siege drive parade refuse bulk";

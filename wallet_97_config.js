@@ -1,1 +1,1 @@
-var mnemonic = "quit curtain gold dragon affair receive decline alpha control lawsuit blast afraid";
+var mnemonic = "maid beach envelope frozen liar custom teach clap token cute noble genre";

@@ -1,1 +1,1 @@
-var mnemonic = "service disagree sudden ignore castle film twin bread fold width squeeze column";
+var mnemonic = "wolf spice main zone chunk joke grief zebra draw input extra robust";

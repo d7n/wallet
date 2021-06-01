@@ -1,1 +1,1 @@
-var mnemonic = "jeans pupil flight concert pencil unlock hotel hamster wear adapt involve distance";
+var mnemonic = "brand paper tired caution clever random twenty grant nation stuff figure enact";

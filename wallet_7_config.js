@@ -1,1 +1,1 @@
-var mnemonic = "impulse mad obvious fashion isolate domain verify near manage tip pony wire";
+var mnemonic = "potato final census custom history silk immense oblige own picnic shy embrace";

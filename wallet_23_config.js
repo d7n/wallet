@@ -1,1 +1,1 @@
-var mnemonic = "assume grit aware item mouse update destroy trumpet blur hub august term";
+var mnemonic = "level display husband ostrich what pause strike scrap bargain benefit gap swear";

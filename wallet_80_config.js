@@ -1,1 +1,1 @@
-var mnemonic = "split defense renew country twice obscure mixed hobby slow perfect unique public";
+var mnemonic = "topple valley tag dance frozen slab tuna wool swallow sport sauce lend";

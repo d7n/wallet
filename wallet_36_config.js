@@ -1,1 +1,1 @@
-var mnemonic = "twin try aerobic snake similar gloom journey live depart raw swear elevator";
+var mnemonic = "symptom shield popular rhythm clip alcohol bike uncle gas asthma renew express";

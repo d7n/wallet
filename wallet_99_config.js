@@ -1,1 +1,1 @@
-var mnemonic = "okay emotion acid trade welcome captain almost harvest man sheriff daring glide";
+var mnemonic = "soft journey isolate oyster pilot crumble artefact useful surge million alien squeeze";

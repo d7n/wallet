@@ -1,1 +1,1 @@
-var mnemonic = "name tissue exotic treat clay system swallow treat divorce beauty eyebrow egg";
+var mnemonic = "now science shiver bounce impulse margin lizard alley pistol library scrub arctic";

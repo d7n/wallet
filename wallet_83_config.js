@@ -1,1 +1,1 @@
-var mnemonic = "trip museum rice tag soldier own strike awesome yellow tissue deposit spring";
+var mnemonic = "load champion kiss discover cloth oak this category piece kind ship water";

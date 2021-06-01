@@ -1,1 +1,1 @@
-var mnemonic = "cover spoil where learn open outside hurt assume type name sugar badge";
+var mnemonic = "reject insect cannon evidence inspire scrub olive chat usual funny tuition federal";

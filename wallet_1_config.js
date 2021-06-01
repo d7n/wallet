@@ -1,1 +1,1 @@
-var mnemonic = "stay truly multiply badge hotel surprise defense guard sell chicken ready slight";
+var mnemonic = "misery luggage clown pepper dog monkey alarm skull spin grow term there";

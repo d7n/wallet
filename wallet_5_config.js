@@ -1,1 +1,1 @@
-var mnemonic = "bitter toss voyage squirrel affair core pear bus neither cactus lawn quote";
+var mnemonic = "spice glow case fortune canoe source true custom artefact casual relax pair";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy vibrant able spray wild maple ugly coach claw next until sketch";
+var mnemonic = "region guitar weekend crack bundle swing moon smile common section arm record";

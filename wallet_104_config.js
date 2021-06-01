@@ -1,1 +1,1 @@
-var mnemonic = "narrow legend brisk hard pattern fan rookie chair upper gather fruit vault";
+var mnemonic = "dream benefit brother clump upgrade poem mask angle moment stage topple exile";

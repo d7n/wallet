@@ -1,1 +1,1 @@
-var mnemonic = "annual worry wise jar plate ankle trial video resemble distance craft valid";
+var mnemonic = "pair awful edge border desk foam crisp pave fruit note tornado again";

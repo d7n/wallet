@@ -1,1 +1,1 @@
-var mnemonic = "cattle treat album arrest police nice burger happy salt record either anxiety";
+var mnemonic = "flip buffalo chest brave crater fence offer ugly guilt improve pluck pudding";

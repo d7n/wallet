@@ -1,1 +1,1 @@
-var mnemonic = "result erupt rug chair attract path boost solution source devote boil maze";
+var mnemonic = "globe walnut swarm exist hawk vendor busy glimpse buzz margin author movie";

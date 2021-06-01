@@ -1,1 +1,1 @@
-var mnemonic = "slight business upper mixed kitten finger luxury gold dad verb smart hold";
+var mnemonic = "squeeze ginger vault fuel display portion phrase dizzy industry silent fantasy deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "night mammal unit know roast reunion tomato solid deposit ozone music secret";
+var mnemonic = "jacket frequent bus member few insane model fortune apology like certain planet";

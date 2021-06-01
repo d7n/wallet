@@ -1,1 +1,1 @@
-var mnemonic = "fruit merry blame twin blossom brisk super rubber swift lesson extra disagree";
+var mnemonic = "zone wide uncle broom tomato virus device ring much toy series quote";

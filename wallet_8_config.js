@@ -1,1 +1,1 @@
-var mnemonic = "camera elephant cool please spray another fall husband identify october cat way";
+var mnemonic = "lion quarter half rapid garlic language kangaroo turtle jealous rough certain chicken";

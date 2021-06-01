@@ -1,1 +1,1 @@
-var mnemonic = "easily bar consider double immune siege assume enrich spread ladder immune cost";
+var mnemonic = "small method loan either today garment foam main inmate page undo club";

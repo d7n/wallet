@@ -1,1 +1,1 @@
-var mnemonic = "barrel attract differ reveal shove pizza allow mad thunder mansion wise aim";
+var mnemonic = "upper symptom collect pretty enlist onion three knife convince margin myth share";

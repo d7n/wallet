@@ -1,1 +1,1 @@
-var mnemonic = "trim leaf disagree mercy fog entry marine negative romance nice oil indoor";
+var mnemonic = "crowd field audit fix story spice thank sign coil ginger hunt carpet";

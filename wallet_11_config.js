@@ -1,1 +1,1 @@
-var mnemonic = "stool grief make crystal cluster brush cabbage radio magic myth fatigue angle";
+var mnemonic = "beauty fossil afford shuffle advice cart dust indoor cause sister onion beauty";

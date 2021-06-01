@@ -1,1 +1,1 @@
-var mnemonic = "coil excuse crystal chair midnight blame mandate during cake vague pink paddle";
+var mnemonic = "border gadget job verify mandate swamp kind flame uncle fit mom invest";

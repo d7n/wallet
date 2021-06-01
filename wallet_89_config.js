@@ -1,1 +1,1 @@
-var mnemonic = "truth across legend measure truth awful charge soap giggle tent vast remain";
+var mnemonic = "bus salute scheme section play swap jeans trick remove cousin acoustic size";

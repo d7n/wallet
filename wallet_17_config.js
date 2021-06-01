@@ -1,1 +1,1 @@
-var mnemonic = "champion tongue autumn crack cram loud wide rack cliff august attack eight";
+var mnemonic = "faith know erupt employ vintage hour harvest among rocket core romance exhaust";

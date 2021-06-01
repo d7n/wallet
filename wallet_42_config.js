@@ -1,1 +1,1 @@
-var mnemonic = "apology swallow van leisure spot turkey ceiling action position inch surround nerve";
+var mnemonic = "lecture hybrid good alert property assist matrix someone vintage thunder bind pulp";

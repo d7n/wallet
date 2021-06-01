@@ -1,1 +1,1 @@
-var mnemonic = "kit usual remain gospel abuse ring anchor garage clown know huge mirror";
+var mnemonic = "time wire ensure trick witness casino injury denial blur ritual cave wide";

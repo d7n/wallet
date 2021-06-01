@@ -1,1 +1,1 @@
-var mnemonic = "lady offer skate second alien vehicle option top connect hello primary salad";
+var mnemonic = "concert soldier camera skin tackle dune confirm keep boat parent again sniff";

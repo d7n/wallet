@@ -1,1 +1,1 @@
-var mnemonic = "cereal magic rate correct circle silver hybrid wait sea sense blur wasp";
+var mnemonic = "elite major bicycle under onion reason bomb trial blossom aunt more wing";

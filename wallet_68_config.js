@@ -1,1 +1,1 @@
-var mnemonic = "able enemy include combine improve novel blast ridge remember robot alcohol spoon";
+var mnemonic = "lion immense clump income smooth elbow slide disorder veteran flee vehicle one";

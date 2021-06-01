@@ -1,1 +1,1 @@
-var mnemonic = "garden brand ensure ice trophy vapor rain aware come crystal hurry twist";
+var mnemonic = "awesome banner amount advance sock history couple tennis soon upper hover present";

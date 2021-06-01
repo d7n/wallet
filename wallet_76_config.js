@@ -1,1 +1,1 @@
-var mnemonic = "develop arena beauty tank oak grab feel mirror envelope motor spring tumble";
+var mnemonic = "movie orange mobile thunder gun abuse village harsh awkward someone cover uphold";

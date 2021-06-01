@@ -1,1 +1,1 @@
-var mnemonic = "blanket giant drop worry then zone adjust receive blush size share vendor";
+var mnemonic = "eyebrow prize sustain anxiety half banner dash dash close table phone spread";

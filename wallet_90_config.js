@@ -1,1 +1,1 @@
-var mnemonic = "hidden today law scan ridge chicken grid gate cram ocean smart daring";
+var mnemonic = "pluck abstract crunch judge first actual pizza child foam sun brass egg";

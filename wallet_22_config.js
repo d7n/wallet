@@ -1,1 +1,1 @@
-var mnemonic = "robust ethics truck skate matter decade phone edit since clock grace agree";
+var mnemonic = "disorder actress extend arrange cotton behind glue struggle ugly fetch spare cluster";

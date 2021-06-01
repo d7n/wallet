@@ -1,1 +1,1 @@
-var mnemonic = "witness beef hidden mule wash labor tell answer song someone claw goddess";
+var mnemonic = "wrap milk flash foam pattern photo blouse sponsor marriage finger share muscle";

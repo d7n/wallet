@@ -1,1 +1,1 @@
-var mnemonic = "sand special domain memory excuse enlist quarter bar hub helmet milk cherry";
+var mnemonic = "famous route second isolate shed scene razor wheat shove coral post soul";

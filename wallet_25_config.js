@@ -1,1 +1,1 @@
-var mnemonic = "supreme grow mechanic wreck little toast artwork soft live powder scale lottery";
+var mnemonic = "human absorb join iron uphold outside margin still symptom grid stumble audit";

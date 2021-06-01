@@ -1,1 +1,1 @@
-var mnemonic = "focus bargain leg lamp cost urban mechanic dynamic select wish force victory";
+var mnemonic = "profit juice head hotel february company elite maze book pink sand cycle";

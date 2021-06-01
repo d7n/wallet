@@ -1,1 +1,1 @@
-var mnemonic = "skill deal ecology earn disagree rebuild tonight magnet spray chef nose retire";
+var mnemonic = "stool earn dress chaos must ostrich tone pet flame settle spawn maximum";

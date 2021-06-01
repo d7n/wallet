@@ -1,1 +1,1 @@
-var mnemonic = "pig pear twelve fuel infant tissue source invite over resource sight bird";
+var mnemonic = "grace office mind fuel heavy wonder drift pupil bicycle waste differ exhaust";

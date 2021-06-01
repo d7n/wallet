@@ -1,1 +1,1 @@
-var mnemonic = "cash predict enlist smart pet height sun urban adult quality inmate era";
+var mnemonic = "broccoli ribbon goddess volcano mosquito dream forum nerve cloud move clean reunion";

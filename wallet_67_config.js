@@ -1,1 +1,1 @@
-var mnemonic = "prosper oyster calm home bachelor negative prevent penalty click nasty route fatigue";
+var mnemonic = "coffee stone pigeon mixture pole dash harvest pond document salon weasel silly";

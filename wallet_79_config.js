@@ -1,1 +1,1 @@
-var mnemonic = "bike chest ginger box large body husband beyond bridge winner tattoo citizen";
+var mnemonic = "lady check host execute excuse urban panther matrix absorb real bike upset";

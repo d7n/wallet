@@ -1,1 +1,1 @@
-var mnemonic = "pigeon warm exact slab section olive energy bubble eight robot outer hard";
+var mnemonic = "faculty lens find two image torch alert reward coyote couch hen liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "surge extra pigeon game kick purse tooth canoe minimum immense super oxygen";
+var mnemonic = "flame butter wrap blind that yellow citizen glue polar original celery explain";

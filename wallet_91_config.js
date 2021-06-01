@@ -1,1 +1,1 @@
-var mnemonic = "asthma ranch isolate neglect donor friend drill guess salad vivid monitor provide";
+var mnemonic = "pave list crime spare renew horror survey rabbit fury slide connect guide";

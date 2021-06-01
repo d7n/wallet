@@ -1,1 +1,1 @@
-var mnemonic = "advice thing choose gesture fade velvet list spy paddle brain tray merry";
+var mnemonic = "dinner certain brother curious manage harsh cake bronze suit later fish eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "escape toddler visit retreat hobby lounge drill explain soup vibrant moon require";
+var mnemonic = "argue magic laugh useless trial measure lecture settle wire jaguar insect tenant";

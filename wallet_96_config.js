@@ -1,1 +1,1 @@
-var mnemonic = "method scale life nominee inform divert portion throw tribe tiger donor notice";
+var mnemonic = "author valid become kitten dance roof smoke husband wire science convince daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "slush uniform exhibit below tool shift rug guitar hammer prepare loyal topple";
+var mnemonic = "wet eternal breeze next rescue kit type steel remove dynamic slam exit";

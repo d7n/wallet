@@ -1,1 +1,1 @@
-var mnemonic = "adjust very either vicious protect whisper beach wrestle army duck fiscal minor";
+var mnemonic = "custom yellow unaware nut jewel animal brain perfect swamp type group asset";

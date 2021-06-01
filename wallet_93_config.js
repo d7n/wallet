@@ -1,1 +1,1 @@
-var mnemonic = "wise matrix cherry first stool body roast uniform dutch benefit include puppy";
+var mnemonic = "hire crowd absorb danger shift screen motion source please shoulder meat talent";

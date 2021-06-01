@@ -1,1 +1,1 @@
-var mnemonic = "move awake road crazy day share deer average group gorilla cake blush";
+var mnemonic = "visit unknown oven industry account permit receive eight limb exist before wish";

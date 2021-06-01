@@ -1,1 +1,1 @@
-var mnemonic = "box siren venue enrich such skin arm spike farm arm swarm crucial";
+var mnemonic = "achieve island tiny chronic praise matter jewel rich tag nation blast soldier";

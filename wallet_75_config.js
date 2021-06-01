@@ -1,1 +1,1 @@
-var mnemonic = "yard term scene find erosion discover spare improve cute minor front black";
+var mnemonic = "gift rug dream area ordinary chase water only news tornado foot crystal";

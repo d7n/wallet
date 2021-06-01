@@ -1,1 +1,1 @@
-var mnemonic = "bulb hire traffic purity demand express spike long final distance accuse state";
+var mnemonic = "item throw pencil ivory lava clean alcohol traffic sponsor gorilla exercise frog";

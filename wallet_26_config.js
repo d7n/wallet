@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rug above detail panic goddess room element spatial desert gadget cradle";
+var mnemonic = "snow differ base tortoise naive poet wall tag six gather dash dawn";

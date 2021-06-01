@@ -1,1 +1,1 @@
-var mnemonic = "senior tomato phrase lizard erase symptom vault bus canyon orient actress extra";
+var mnemonic = "shed scissors paddle puppy north deal prepare patient sleep afford outside connect";

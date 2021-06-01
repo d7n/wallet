@@ -1,1 +1,1 @@
-var mnemonic = "choice admit blood arrive expect enemy tail modify renew ramp uphold flavor";
+var mnemonic = "electric novel nerve brush deer cricket chuckle test glide forget fat pioneer";

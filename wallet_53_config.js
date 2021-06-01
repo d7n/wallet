@@ -1,1 +1,1 @@
-var mnemonic = "parade appear bulb farm under august sun couple orange type local erosion";
+var mnemonic = "symbol true possible green project fan truck priority clerk coconut file decide";

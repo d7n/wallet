@@ -1,1 +1,1 @@
-var mnemonic = "shrug title culture conduct siege master grab coast category differ rifle level";
+var mnemonic = "whip that park large direct camera aware pause future bargain snap scorpion";

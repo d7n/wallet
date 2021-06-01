@@ -1,1 +1,1 @@
-var mnemonic = "child poverty lamp neutral glory blur spell abuse copy bone desert absurd";
+var mnemonic = "damp portion enjoy brain maze bargain cook fragile fence kind salon shallow";

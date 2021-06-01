@@ -1,1 +1,1 @@
-var mnemonic = "surface square elder history ghost abstract upset digital appear seat monster crawl";
+var mnemonic = "rude ten endless axis build panther harsh age morning wheel marble east";

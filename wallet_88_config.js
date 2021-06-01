@@ -1,1 +1,1 @@
-var mnemonic = "song real useless giant enroll order oven trip avocado warm prison style";
+var mnemonic = "tackle target open tennis thing egg lesson ready axis endorse clarify jungle";

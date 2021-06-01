@@ -1,1 +1,1 @@
-var mnemonic = "exercise kitchen pudding top raccoon hurdle fine spend blush spot replace armor";
+var mnemonic = "lava panther above velvet author outdoor oblige wear celery scorpion parent predict";

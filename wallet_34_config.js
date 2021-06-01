@@ -1,1 +1,1 @@
-var mnemonic = "neither gym hockey polar kangaroo frog horn pipe above desk payment true";
+var mnemonic = "program access juice cross viable body shadow chef bless pact spring twice";

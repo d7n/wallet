@@ -1,1 +1,1 @@
-var mnemonic = "during rent behind balance legal execute fade first diagram slam decade finish";
+var mnemonic = "chalk raven warfare glide fresh broccoli response apart spin picnic convince middle";

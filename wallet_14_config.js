@@ -1,1 +1,1 @@
-var mnemonic = "raven legend scorpion pear stay reward casino cancel exit kid tooth chef";
+var mnemonic = "badge news believe glare wedding life space double fat act level hub";

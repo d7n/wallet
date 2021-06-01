@@ -1,1 +1,1 @@
-var mnemonic = "turn entry horror tackle enough life until segment observe present strong source";
+var mnemonic = "rule apology elegant sweet next proud sand volume frequent time achieve phrase";

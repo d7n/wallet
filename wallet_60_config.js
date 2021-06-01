@@ -1,1 +1,1 @@
-var mnemonic = "author clean flavor divert hurry survey purity share team cause disease since";
+var mnemonic = "kind armor suffer coil fringe melt brown resemble eye gloom drift question";

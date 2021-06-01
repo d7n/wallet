@@ -1,1 +1,1 @@
-var mnemonic = "inner theme green camp mango surround desert fossil wing rice lounge famous";
+var mnemonic = "agent simple armed coast easy bulk orchard echo salon now clip vendor";

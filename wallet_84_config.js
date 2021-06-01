@@ -1,1 +1,1 @@
-var mnemonic = "bike satoshi entire gravity clap elephant banner huge stay degree easy thunder";
+var mnemonic = "acquire once slice exile cloud nasty good cinnamon subway camp token pig";

@@ -1,1 +1,1 @@
-var mnemonic = "knife leaf mobile job era enough train turkey ostrich tongue visa knock";
+var mnemonic = "mention smoke olympic shrug type negative whisper negative obey mirror spirit paper";

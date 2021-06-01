@@ -1,1 +1,1 @@
-var mnemonic = "employ sign gym boil mad fork receive inherit cactus chunk identify champion";
+var mnemonic = "dance bulk vessel run salt mirror drift initial hub forget luxury motor";

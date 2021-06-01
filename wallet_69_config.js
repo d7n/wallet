@@ -1,1 +1,1 @@
-var mnemonic = "hello entire six exercise found spare gadget vital sock typical analyst rich";
+var mnemonic = "urge blossom access cable mouse file pass seek concert train lazy symbol";
