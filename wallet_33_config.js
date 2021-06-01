@@ -1,1 +1,1 @@
-var mnemonic = "arch tide gravity penalty tornado silver curtain elder chest fun muffin minor";
+var mnemonic = "reward make ship gloom sick cliff stairs vintage square slot option climb";

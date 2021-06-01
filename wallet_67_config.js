@@ -1,1 +1,1 @@
-var mnemonic = "slush gentle furnace buffalo same settle cycle sorry train zoo problem happy";
+var mnemonic = "peasant initial rival mix pigeon music ladder kingdom combine mouse despair curve";

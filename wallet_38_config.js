@@ -1,1 +1,1 @@
-var mnemonic = "someone lawn rack future guard very coffee ginger fringe success deputy fashion";
+var mnemonic = "tilt dance asset page monitor print clean drop evolve caught nose monkey";

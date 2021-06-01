@@ -1,1 +1,1 @@
-var mnemonic = "pill enlist chair blur board trust jealous answer secret ticket climb turn";
+var mnemonic = "panic soon drill laugh they away enough stick shrug key more pull";

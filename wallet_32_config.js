@@ -1,1 +1,1 @@
-var mnemonic = "able feed gym insane depend involve someone robust view believe escape sudden";
+var mnemonic = "taste include between chest above siege liquid coin book rebuild brain maze";

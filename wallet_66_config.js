@@ -1,1 +1,1 @@
-var mnemonic = "achieve another clinic throw then spawn excuse brain rocket mother express denial";
+var mnemonic = "ugly notice team zoo about explain dilemma engage height practice rapid hotel";

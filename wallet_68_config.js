@@ -1,1 +1,1 @@
-var mnemonic = "sister stone lizard luggage romance cement call subway gloom bus van cannon";
+var mnemonic = "sustain script floor blush now potato member say salute analyst goose daring";

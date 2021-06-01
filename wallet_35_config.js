@@ -1,1 +1,1 @@
-var mnemonic = "badge tobacco course animal claw moral observe differ negative aisle copy panda";
+var mnemonic = "wonder fruit shield afford midnight speed answer because glow canoe space reason";

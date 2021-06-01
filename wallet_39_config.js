@@ -1,1 +1,1 @@
-var mnemonic = "awake replace strike employ away salmon theory rent deliver ridge myth identify";
+var mnemonic = "flash dragon please shrimp order mule age common student virtual banner idea";

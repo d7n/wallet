@@ -1,1 +1,1 @@
-var mnemonic = "oven fetch destroy pioneer audit useful patient fossil gravity elevator gold divert";
+var mnemonic = "truth able area rate ribbon dove mercy key jar awkward lyrics seed";

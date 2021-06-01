@@ -1,1 +1,1 @@
-var mnemonic = "knock august material unique favorite drastic foil fever oppose latin fever better";
+var mnemonic = "system stem panda desert three fiction brother fiscal raven lava dinosaur double";

@@ -1,1 +1,1 @@
-var mnemonic = "stand palace raw brass future bus forget decline pilot river drill square";
+var mnemonic = "burden mechanic abuse noodle early good leisure curtain smile spice quick disagree";

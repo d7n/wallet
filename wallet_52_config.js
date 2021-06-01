@@ -1,1 +1,1 @@
-var mnemonic = "blossom heavy awkward hour swing opera thought client surface board elbow effort";
+var mnemonic = "accuse soup pulp iron caught pave process monkey diesel nest slow divorce";

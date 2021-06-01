@@ -1,1 +1,1 @@
-var mnemonic = "disagree debris hold deputy shaft fox design solid crisp jazz depart ripple";
+var mnemonic = "rose weekend shaft muscle position surface move screen black spare hole lawn";

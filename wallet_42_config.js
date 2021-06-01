@@ -1,1 +1,1 @@
-var mnemonic = "replace rib mobile have penalty box solution review animal supply glad faith";
+var mnemonic = "poem taste flee lamp zero thunder misery genre glove cactus merit nose";

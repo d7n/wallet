@@ -1,1 +1,1 @@
-var mnemonic = "cute address calm hover lottery sphere surface term vault ride business skin";
+var mnemonic = "fancy sauce walnut town oppose industry payment measure fancy detect earn surround";

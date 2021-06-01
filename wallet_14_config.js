@@ -1,1 +1,1 @@
-var mnemonic = "grunt recipe salad split film month initial tomorrow estate bitter thank input";
+var mnemonic = "merry able upper amount lonely leaf measure frog riot inspire puppy theory";

@@ -1,1 +1,1 @@
-var mnemonic = "federal decorate gym canal erase vocal arm walnut badge tree initial sign";
+var mnemonic = "grass reopen proud medal immense first half cloud attitude runway negative helmet";

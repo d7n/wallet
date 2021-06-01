@@ -1,1 +1,1 @@
-var mnemonic = "mixture elephant eternal distance tomorrow local bleak retreat guilt vacant riot sleep";
+var mnemonic = "exercise govern wool price paper six cousin rookie scrap thrive spatial electric";

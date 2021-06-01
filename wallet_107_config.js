@@ -1,1 +1,1 @@
-var mnemonic = "actor gym mouse must runway fold topple feed forget decorate clutch hill";
+var mnemonic = "card lonely clog team filter romance modify garage chef evoke bounce youth";

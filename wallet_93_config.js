@@ -1,1 +1,1 @@
-var mnemonic = "provide ritual harbor party vault fiber umbrella virtual rebel auto sunset elephant";
+var mnemonic = "sort original farm round emerge bonus swap energy tiny attitude detect evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "blue stomach stone illness primary news away auction gravity sorry pioneer minute";
+var mnemonic = "hip sock custom swear idle august analyst wild donate aunt fold enter";

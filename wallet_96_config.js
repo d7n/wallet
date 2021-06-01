@@ -1,1 +1,1 @@
-var mnemonic = "act moon panther alcohol damp blur super erode absent annual dumb wise";
+var mnemonic = "trouble reunion warm party earn fall tag involve hurdle quiz rifle normal";

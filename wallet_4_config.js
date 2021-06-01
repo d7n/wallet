@@ -1,1 +1,1 @@
-var mnemonic = "point blade cave frog spy task fortune sauce security vendor affair fiber";
+var mnemonic = "bunker blur grape prison frog barrel industry latin dutch reunion myth know";

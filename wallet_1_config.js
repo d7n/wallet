@@ -1,1 +1,1 @@
-var mnemonic = "general airport swap initial pave actual shadow giraffe fiscal day recall manage";
+var mnemonic = "wise swamp thought require ready rookie popular world luxury athlete jewel trap";

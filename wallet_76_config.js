@@ -1,1 +1,1 @@
-var mnemonic = "angry version oblige arm swim broom inner member wing orphan order sister";
+var mnemonic = "list also popular exile hidden other weekend sun puzzle oxygen beauty tail";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy trick mean smile hope forum battle enter decorate crash toddler puzzle";
+var mnemonic = "model give blind faith inhale trust fade occur fringe pink say copy";

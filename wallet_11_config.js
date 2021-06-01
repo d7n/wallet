@@ -1,1 +1,1 @@
-var mnemonic = "spread artwork unveil flower remember web best devote degree waste victory image";
+var mnemonic = "save cushion add luggage cement tuition album source gold tourist fashion proof";

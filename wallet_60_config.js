@@ -1,1 +1,1 @@
-var mnemonic = "property ensure wave business peanut save beauty wild wrestle emotion annual expand";
+var mnemonic = "until idle swim kangaroo mountain shallow until glide often crush collect deny";

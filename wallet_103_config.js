@@ -1,1 +1,1 @@
-var mnemonic = "unusual duty loop modify yellow brush sight salad amazing sunset shrimp parade";
+var mnemonic = "frown idea eagle earth unfair trap boost weapon suffer oxygen kangaroo funny";

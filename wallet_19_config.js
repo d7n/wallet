@@ -1,1 +1,1 @@
-var mnemonic = "wait rubber suspect industry zone together violin galaxy purpose under obey assist";
+var mnemonic = "else whip chuckle inquiry voyage vicious dial weekend poem essence material drop";

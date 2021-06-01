@@ -1,1 +1,1 @@
-var mnemonic = "vibrant limit banana guess dutch glow crash boring cannon sunset dress thrive";
+var mnemonic = "unfair noise calm zebra bottom surface car suggest toddler drop daring emerge";

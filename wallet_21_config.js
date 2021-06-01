@@ -1,1 +1,1 @@
-var mnemonic = "length atom before motion immune valve essay improve purchase noodle rib gallery";
+var mnemonic = "curve weekend beauty salute yard where recall insane belt creek ring ribbon";

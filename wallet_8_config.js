@@ -1,1 +1,1 @@
-var mnemonic = "place exercise west puzzle feed tobacco sausage shine state lucky fault exile";
+var mnemonic = "spy practice police bus style absorb kitten skin film begin old daughter";

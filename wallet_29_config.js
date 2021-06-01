@@ -1,1 +1,1 @@
-var mnemonic = "subject strong toy fix flower drama dust sport demise absent income strong";
+var mnemonic = "cube used reopen corn humor captain assault clutch before asthma rigid tooth";

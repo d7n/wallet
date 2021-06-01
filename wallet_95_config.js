@@ -1,1 +1,1 @@
-var mnemonic = "kit pen guitar high tonight female light mom food attack under author";
+var mnemonic = "patrol danger uncover execute giggle biology sugar matrix forward punch bracket ozone";

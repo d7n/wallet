@@ -1,1 +1,1 @@
-var mnemonic = "glide feature begin lamp mix adapt inquiry orient swift wish claim march";
+var mnemonic = "develop pluck tongue airport dial medal such wage field memory famous immense";

@@ -1,1 +1,1 @@
-var mnemonic = "police banner dynamic secret erode chunk wall hold pilot captain dial foot";
+var mnemonic = "math item seven crystal claim spread bulb blur unknown rent maximum fortune";

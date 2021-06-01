@@ -1,1 +1,1 @@
-var mnemonic = "draft cat crowd domain tree faculty swap couch claw grape tooth under";
+var mnemonic = "citizen rent upset proud student liquid pill book hammer chief pony power";

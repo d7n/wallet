@@ -1,1 +1,1 @@
-var mnemonic = "spring hip illness hurt damp that pitch road art fat stable tuna";
+var mnemonic = "nerve badge outdoor desk lamp beach grief rubber festival pupil soap neither";

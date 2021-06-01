@@ -1,1 +1,1 @@
-var mnemonic = "offer vital coyote hawk subject return body aerobic toast sketch inside drill";
+var mnemonic = "film flip okay wisdom since retire stem vault term nerve random glance";

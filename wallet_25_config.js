@@ -1,1 +1,1 @@
-var mnemonic = "relief depend result spy ghost buzz test effort design happy grass reform";
+var mnemonic = "buddy peace then attend piece enlist focus movie inhale approve can hat";

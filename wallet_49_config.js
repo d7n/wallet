@@ -1,1 +1,1 @@
-var mnemonic = "diagram taxi case sadness urban daughter clarify holiday affair sad test lava";
+var mnemonic = "grit volcano eternal damp cage slender upper scene daughter addict emotion seven";

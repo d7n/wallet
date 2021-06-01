@@ -1,1 +1,1 @@
-var mnemonic = "sad dilemma gold grunt knife athlete garment hollow swim wine calm vanish";
+var mnemonic = "bread say prefer elite couch drift purity slim cool busy decline lecture";

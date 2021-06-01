@@ -1,1 +1,1 @@
-var mnemonic = "aware grace often follow weather filter place height enlist piano keen donkey";
+var mnemonic = "update lake nominee urban silver puppy cram guide lift uniform company parrot";

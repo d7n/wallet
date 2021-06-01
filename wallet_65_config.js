@@ -1,1 +1,1 @@
-var mnemonic = "lake such assault dentist brown shrimp pluck human ball pluck obtain budget";
+var mnemonic = "bunker fortune decorate talk spare broccoli egg wheat raise six pond salon";

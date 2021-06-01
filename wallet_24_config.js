@@ -1,1 +1,1 @@
-var mnemonic = "region cream flag spawn phrase anger tornado inspire fiber culture kiss spirit";
+var mnemonic = "wolf hurdle piece connect setup brass ivory wedding much coach voyage toilet";

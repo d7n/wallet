@@ -1,1 +1,1 @@
-var mnemonic = "wish uncle alone ice box chicken pretty midnight dad mechanic roof margin";
+var mnemonic = "addict race fiber chef keen cinnamon wild luggage once harsh lemon student";

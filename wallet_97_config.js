@@ -1,1 +1,1 @@
-var mnemonic = "bargain social reason spirit trouble moment reject wine drift win friend act";
+var mnemonic = "term crime salt rhythm total judge gas sport clinic drink honey crush";

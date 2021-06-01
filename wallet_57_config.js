@@ -1,1 +1,1 @@
-var mnemonic = "mouse stool dial misery episode horror access feel empty push shrimp memory";
+var mnemonic = "wood eagle bench step begin monster critic curtain rose theme toward creek";

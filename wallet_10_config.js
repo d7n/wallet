@@ -1,1 +1,1 @@
-var mnemonic = "buyer quantum shop clock pen response cause genre unit trial surge egg";
+var mnemonic = "unhappy party empower rocket federal chair hen farm citizen reject square soul";

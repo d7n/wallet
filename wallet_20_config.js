@@ -1,1 +1,1 @@
-var mnemonic = "unfair tone glove exist always chair device awesome trip elephant gain wagon";
+var mnemonic = "taxi type mistake love honey present nurse one autumn menu deal acid";

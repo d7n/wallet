@@ -1,1 +1,1 @@
-var mnemonic = "journey stomach alter bubble mean knife armor fragile replace noble auction brush";
+var mnemonic = "donor recipe weapon region consider faculty acoustic gallery tenant base sniff inhale";

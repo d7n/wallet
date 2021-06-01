@@ -1,1 +1,1 @@
-var mnemonic = "saddle car ankle inquiry side urge human health junk brass artist reunion";
+var mnemonic = "hockey course disease execute square arrive private only level conduct mountain matrix";

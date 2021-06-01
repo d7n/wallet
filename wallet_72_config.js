@@ -1,1 +1,1 @@
-var mnemonic = "federal huge breeze wish bus point athlete there cancel decide save swim";
+var mnemonic = "baby high divide emerge bulk nephew physical concert move review spy tongue";

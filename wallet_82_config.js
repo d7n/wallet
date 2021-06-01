@@ -1,1 +1,1 @@
-var mnemonic = "total milk garment wrestle idea exclude knife suggest hobby update galaxy deny";
+var mnemonic = "flight border space bullet castle grace amateur glow void sight have brisk";

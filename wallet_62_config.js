@@ -1,1 +1,1 @@
-var mnemonic = "hub pride apart harsh print slow discover muscle drastic moral blanket drift";
+var mnemonic = "off space uncover kingdom hobby bacon attitude butter apology old spike faint";

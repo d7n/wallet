@@ -1,1 +1,1 @@
-var mnemonic = "west true action wall extend genius volcano fossil evil hello parade assist";
+var mnemonic = "finish alpha weather ramp civil wine example symbol now trigger reopen good";

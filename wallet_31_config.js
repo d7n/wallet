@@ -1,1 +1,1 @@
-var mnemonic = "then maze near perfect response oak fashion between voice fat rival nice";
+var mnemonic = "huge alert test other sound awesome jealous code glide bike exist fiction";

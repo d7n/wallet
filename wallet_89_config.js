@@ -1,1 +1,1 @@
-var mnemonic = "reject always wheel aim course element myth february mango card hub glow";
+var mnemonic = "private surface vintage rhythm topic news often follow upset swap shine lava";

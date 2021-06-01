@@ -1,1 +1,1 @@
-var mnemonic = "when dilemma vapor ranch witness winter bronze spend suffer alert good baby";
+var mnemonic = "trade trap shield spend keen congress absent stable globe fire tunnel awkward";

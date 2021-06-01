@@ -1,1 +1,1 @@
-var mnemonic = "kick crowd differ smile spend dignity essay add spider inhale member table";
+var mnemonic = "auto praise other valve innocent rocket risk absent ghost grief tribe aunt";

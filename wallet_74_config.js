@@ -1,1 +1,1 @@
-var mnemonic = "outdoor life caution boil theme robust duck fat potato satoshi process unveil";
+var mnemonic = "attend foster edit maid render dutch fence endorse wing rough unknown alien";

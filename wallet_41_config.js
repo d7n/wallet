@@ -1,1 +1,1 @@
-var mnemonic = "proud run goose lizard custom jewel flee expand vapor critic when scare";
+var mnemonic = "you soap deputy job fork rabbit model shrimp possible almost rookie wage";

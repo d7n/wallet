@@ -1,1 +1,1 @@
-var mnemonic = "when vote plunge inside glide assault hazard shove baby master cargo clinic";
+var mnemonic = "humble odor taxi dove base choice bean cupboard margin firm mandate sister";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp maze thumb force grace dove nephew obvious shove dog lens say";
+var mnemonic = "grunt cup either party tobacco loud hint achieve manage electric stereo bacon";

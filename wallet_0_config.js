@@ -1,1 +1,1 @@
-var mnemonic = "okay fox dress help sleep evil core wrap dress wish educate moment";
+var mnemonic = "include attack lawsuit unable head dizzy museum dial trouble decrease domain business";

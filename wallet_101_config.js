@@ -1,1 +1,1 @@
-var mnemonic = "process reward frozen insane whisper attitude moral dove predict kingdom vehicle sleep";
+var mnemonic = "exotic hill ethics toddler exhibit fringe open pool sad street talk drip";

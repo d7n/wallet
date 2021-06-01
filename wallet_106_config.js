@@ -1,1 +1,1 @@
-var mnemonic = "account sand gauge frown order expire tent music execute beyond anchor hire";
+var mnemonic = "caution erosion bird load practice soap cushion canoe firm common wool year";

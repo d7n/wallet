@@ -1,1 +1,1 @@
-var mnemonic = "blouse field fatigue car retire veteran tired woman nuclear equip puppy original";
+var mnemonic = "judge account produce original ribbon labor cheap nation hunt body barrel exhibit";

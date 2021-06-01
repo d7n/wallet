@@ -1,1 +1,1 @@
-var mnemonic = "calm fog amused piece soup hold lizard team ride gym fragile tumble";
+var mnemonic = "cash message derive length opera open robot buzz culture top promote future";

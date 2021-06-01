@@ -1,1 +1,1 @@
-var mnemonic = "seat crunch civil swear clump jewel glory emotion legal real impose long";
+var mnemonic = "matter harsh detect book poverty hazard decline roof come danger path august";

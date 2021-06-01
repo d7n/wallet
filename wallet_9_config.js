@@ -1,1 +1,1 @@
-var mnemonic = "cruise mushroom marble tomato squeeze seven evolve trick hold rebel time lecture";
+var mnemonic = "hobby perfect vehicle fancy balance hazard cancel rent potato omit sell estate";

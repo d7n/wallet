@@ -1,1 +1,1 @@
-var mnemonic = "peasant parade solution reveal decrease drama barrel dutch ramp hood believe valid";
+var mnemonic = "goddess parent mind margin disagree just angle invest steel clinic enhance velvet";

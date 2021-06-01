@@ -1,1 +1,1 @@
-var mnemonic = "patient laugh pear scorpion mule fossil document maid palace teach screen transfer";
+var mnemonic = "screen need wheat economy erode envelope dream unusual shiver taste thing clock";

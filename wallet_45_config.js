@@ -1,1 +1,1 @@
-var mnemonic = "ritual minor same weekend wreck never strong police payment creek mystery boss";
+var mnemonic = "cereal vast stool winter taxi nest story digital sniff wave home process";

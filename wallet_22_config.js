@@ -1,1 +1,1 @@
-var mnemonic = "tower hello media minimum test glide oblige silent real mask debris afford";
+var mnemonic = "garage swallow surface curtain cradle mystery draft climb spray veteran window hard";

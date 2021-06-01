@@ -1,1 +1,1 @@
-var mnemonic = "guard pepper lumber coin infant tennis crew cotton match enable horse hurry";
+var mnemonic = "enroll remain axis rapid regular feel horse front boil soon sail upon";

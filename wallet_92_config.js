@@ -1,1 +1,1 @@
-var mnemonic = "portion achieve tonight come frog melody can finger absent fossil mammal elder";
+var mnemonic = "three train ketchup minor morning category upper muffin climb viable candy armed";

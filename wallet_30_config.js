@@ -1,1 +1,1 @@
-var mnemonic = "draft wagon mixture grow tape mesh into miss cage safe derive brave";
+var mnemonic = "rely slice catalog again lazy super fly invest asthma correct trust fiber";

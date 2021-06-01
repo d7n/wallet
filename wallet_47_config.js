@@ -1,1 +1,1 @@
-var mnemonic = "series original spirit now dignity wedding harsh busy captain update silver rose";
+var mnemonic = "express struggle embody destroy very brush harbor sell unknown romance unlock lawn";

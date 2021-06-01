@@ -1,1 +1,1 @@
-var mnemonic = "erosion verify rural garment warrior salute flush syrup afford churn switch hen";
+var mnemonic = "upon review fog filter devote merit process cereal unfold offer crack priority";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare decade next whale cabbage brave canvas mercy you craft census eagle";
+var mnemonic = "perfect miracle pilot hover face spider swing such oak kitchen wet live";

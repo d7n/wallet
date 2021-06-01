@@ -1,1 +1,1 @@
-var mnemonic = "coach unlock lawn clog visit flee rocket fringe buyer syrup myth color";
+var mnemonic = "accident shoe near dizzy achieve brown mandate sadness time distance arrest bind";

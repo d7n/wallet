@@ -1,1 +1,1 @@
-var mnemonic = "snow cluster reopen upset exchange tissue equip size meadow cancel garden ribbon";
+var mnemonic = "chronic empty lunar math panel hammer hospital pelican tube current coin evolve";

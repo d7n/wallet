@@ -1,1 +1,1 @@
-var mnemonic = "unfold recycle father assist ceiling crouch glance party rack equal file federal";
+var mnemonic = "december wrap idle refuse pact wait laptop peace boss sting now toss";

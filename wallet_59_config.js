@@ -1,1 +1,1 @@
-var mnemonic = "include rookie grief split property brain kiwi auto prosper virus local party";
+var mnemonic = "sort regular mammal nation mutual outdoor skate rich exact dress rapid castle";

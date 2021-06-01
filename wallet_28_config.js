@@ -1,1 +1,1 @@
-var mnemonic = "skate enter narrow kick until enemy start sea above accident push biology";
+var mnemonic = "antenna wet wrong evidence keep know silent chase produce broom salon write";

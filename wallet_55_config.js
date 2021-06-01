@@ -1,1 +1,1 @@
-var mnemonic = "cereal pretty suffer fruit wide fuel lizard gallery short taxi label juice";
+var mnemonic = "ramp garage skill symbol bundle door boy actual brave abuse indoor zero";

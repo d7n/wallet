@@ -1,1 +1,1 @@
-var mnemonic = "twenty check cloud ride whip cancel move kit exit skull bonus walnut";
+var mnemonic = "ceiling black advice sniff online omit matter gauge ring alone potato shoulder";

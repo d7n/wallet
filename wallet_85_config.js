@@ -1,1 +1,1 @@
-var mnemonic = "essay absurd warrior never quality ordinary cargo open approve abuse deal bird";
+var mnemonic = "escape injury key equal horror green awake welcome foot math lunar rebuild";

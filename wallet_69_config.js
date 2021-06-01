@@ -1,1 +1,1 @@
-var mnemonic = "gain army symptom will evil forward knife crowd fan south invite collect";
+var mnemonic = "boring share series multiply blush flag direct run cable soldier emerge keen";

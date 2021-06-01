@@ -1,1 +1,1 @@
-var mnemonic = "usual double library wheat flock remind demise fish music maple key mandate";
+var mnemonic = "wide half barely resemble concert fun science never often move shoulder leg";

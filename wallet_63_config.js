@@ -1,1 +1,1 @@
-var mnemonic = "work library another attack absent border recycle fruit few prevent pink twenty";
+var mnemonic = "buyer deer depend possible crucial crawl bright similar stadium curtain shop price";

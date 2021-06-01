@@ -1,1 +1,1 @@
-var mnemonic = "pepper eyebrow document spy civil property venue december myth camp liar police";
+var mnemonic = "guard theory yellow method obvious eager lonely lock parent glad rate draft";

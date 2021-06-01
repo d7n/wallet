@@ -1,1 +1,1 @@
-var mnemonic = "other chuckle castle cook misery extend festival radio between jar fantasy oppose";
+var mnemonic = "document appear dirt wheel frown cash enlist river maze hill ripple swing";

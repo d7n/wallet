@@ -1,1 +1,1 @@
-var mnemonic = "plastic elder tornado soft pluck attend wheat swim traffic exile side type";
+var mnemonic = "avoid solid blame bitter hobby ice menu conduct hidden shaft behind clown";

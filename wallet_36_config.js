@@ -1,1 +1,1 @@
-var mnemonic = "proof marriage have small north trend agent token pigeon accident expire fade";
+var mnemonic = "embrace scorpion festival act view hotel bench depend enact fan buddy voyage";
