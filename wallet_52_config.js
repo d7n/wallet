@@ -1,1 +1,1 @@
-var mnemonic = "deer elegant table humble water correct either route impact volume nurse rely";
+var mnemonic = "anxiety myth copy lawsuit urge tool sauce party major already float coffee";

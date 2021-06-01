@@ -1,1 +1,1 @@
-var mnemonic = "sword fantasy silent weasel grain intact post kitten tilt dune material genuine";
+var mnemonic = "skate actor suggest mention ranch predict cat fee strike fitness furnace still";

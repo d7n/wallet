@@ -1,1 +1,1 @@
-var mnemonic = "loan heavy wage round globe arrest hungry frown spirit tennis evil ten";
+var mnemonic = "weekend verify easy reduce drift ridge such injury tissue pause tribe column";

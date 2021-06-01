@@ -1,1 +1,1 @@
-var mnemonic = "short return cattle acid nice arch reopen brown senior shallow intact sentence";
+var mnemonic = "truly bitter wild patch input doctor walnut burger rent average jar cloth";

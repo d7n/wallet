@@ -1,1 +1,1 @@
-var mnemonic = "tuna oxygen timber town model shy auction wash twist gain soccer veteran";
+var mnemonic = "gorilla junior review undo fashion cave predict crawl wood monkey into birth";

@@ -1,1 +1,1 @@
-var mnemonic = "broken dry marine maple game soul lemon slogan cricket identify phrase pole";
+var mnemonic = "life govern imitate need private yellow math fame glimpse cancel coach chronic";

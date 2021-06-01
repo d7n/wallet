@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bicycle make theory suggest flush ugly duck wave snap era below";
+var mnemonic = "clarify myth project just hurdle coyote file jacket feel verb nuclear audit";

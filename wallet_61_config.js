@@ -1,1 +1,1 @@
-var mnemonic = "chief common all history minimum bonus coin boss smile what alter forward";
+var mnemonic = "face sock carbon powder resist pumpkin waste immune frequent venue radio near";

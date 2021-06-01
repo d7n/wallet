@@ -1,1 +1,1 @@
-var mnemonic = "cost census lecture pen lawn segment kind town have napkin spell pioneer";
+var mnemonic = "dash bamboo reunion mule jazz energy under pink demand delay napkin timber";

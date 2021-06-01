@@ -1,1 +1,1 @@
-var mnemonic = "describe cheese exit roof identify salmon lounge flag day tomorrow invite quiz";
+var mnemonic = "lawsuit reflect beauty often meat clap play venture local stairs grass marble";

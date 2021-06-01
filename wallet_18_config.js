@@ -1,1 +1,1 @@
-var mnemonic = "cry grant awake mystery tomato foil guitar among merry awful history text";
+var mnemonic = "dutch fan web mushroom two medal security emerge another slice funny practice";

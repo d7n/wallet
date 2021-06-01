@@ -1,1 +1,1 @@
-var mnemonic = "bacon stem dish pen autumn holiday fold bus jungle where render parent";
+var mnemonic = "shove bamboo minimum cluster question bless wagon resource mango sphere grunt capital";

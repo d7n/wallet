@@ -1,1 +1,1 @@
-var mnemonic = "river dad clump venture sample shell say hip furnace cloud atom hundred";
+var mnemonic = "correct parrot fix road praise tail label plunge liquid wire divorce bar";

@@ -1,1 +1,1 @@
-var mnemonic = "hole hello echo spot finger bless boat donkey stock near bridge coconut";
+var mnemonic = "category public hole jealous drama alert cute saddle autumn punch gallery someone";

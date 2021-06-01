@@ -1,1 +1,1 @@
-var mnemonic = "fiction vacant pride merry discover unhappy column identify sail knee learn siege";
+var mnemonic = "until broccoli letter pool forget dignity sell since best region hint protect";

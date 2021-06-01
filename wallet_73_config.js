@@ -1,1 +1,1 @@
-var mnemonic = "enough tonight range order decade subway orchard glide debate intact adjust barely";
+var mnemonic = "bike final slim cigar smile crowd tent answer open this crack nerve";

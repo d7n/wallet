@@ -1,1 +1,1 @@
-var mnemonic = "sponsor onion couple pig puppy flag analyst rubber riot company pill estate";
+var mnemonic = "nation pluck finish boost lazy vehicle demand advice law swing ginger weird";

@@ -1,1 +1,1 @@
-var mnemonic = "reform whisper awesome tell night act butter hand response brisk jaguar rabbit";
+var mnemonic = "apart cricket scheme turn trust lemon swim evil hip length minimum ribbon";

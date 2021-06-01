@@ -1,1 +1,1 @@
-var mnemonic = "sentence must arrest derive horror match room joke leisure thing food chief";
+var mnemonic = "auto road carpet believe tumble staff slender girl pencil any father solve";

@@ -1,1 +1,1 @@
-var mnemonic = "immense drift aunt grid power thing effort drop wet meat double dance";
+var mnemonic = "vault cushion wrestle dinosaur start pelican wait soda alter anxiety team chicken";

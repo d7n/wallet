@@ -1,1 +1,1 @@
-var mnemonic = "hope ramp main phrase knock project about balance project ivory shoulder pattern";
+var mnemonic = "elephant employ coach punch purchase off please about village cram deliver denial";

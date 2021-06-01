@@ -1,1 +1,1 @@
-var mnemonic = "copper segment order sauce element taste forget lab increase stuff raven ancient";
+var mnemonic = "dash erupt defy that vast knee color chalk mind extend vehicle six";

@@ -1,1 +1,1 @@
-var mnemonic = "light wolf scan capital novel test chair fine sport pole offer motion";
+var mnemonic = "fade dignity occur during what govern shift raw parade night spider joy";

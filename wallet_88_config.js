@@ -1,1 +1,1 @@
-var mnemonic = "kid problem cactus infant fortune insect eyebrow token mandate enhance dignity promote";
+var mnemonic = "match camp mobile success stomach floor title entry hub unaware isolate inner";

@@ -1,1 +1,1 @@
-var mnemonic = "crush goddess enlist scissors flee boy helmet toe girl father flame defense";
+var mnemonic = "tribe hybrid crew coconut second suspect learn silly apology public ocean response";

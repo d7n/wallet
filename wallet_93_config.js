@@ -1,1 +1,1 @@
-var mnemonic = "jealous blanket enact govern snack exercise globe hat truck year reason matrix";
+var mnemonic = "rhythm view judge team saddle snap option slam metal era book sea";

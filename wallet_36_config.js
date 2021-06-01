@@ -1,1 +1,1 @@
-var mnemonic = "flame auto happy guide chimney voyage abuse nice resist diesel link angry";
+var mnemonic = "nuclear price address weekend open term thing twice sausage picture detect marriage";

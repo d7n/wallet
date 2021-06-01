@@ -1,1 +1,1 @@
-var mnemonic = "cable involve sample lake clean attract economy family inherit able demand step";
+var mnemonic = "scrub pair also later blood ready maid side visa ahead alter teach";

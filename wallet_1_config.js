@@ -1,1 +1,1 @@
-var mnemonic = "any step alert alley surge fancy poem basic chicken feature snake claw";
+var mnemonic = "coin ocean bulb arrow cinnamon siege moon false enough income oven ready";

@@ -1,1 +1,1 @@
-var mnemonic = "design acoustic circle slice dwarf cry critic shoe truth spy cross satisfy";
+var mnemonic = "board goose crew floor pilot pave era defy sphere symptom frozen feed";

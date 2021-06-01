@@ -1,1 +1,1 @@
-var mnemonic = "embrace much tube promote submit time card mom future stairs undo shaft";
+var mnemonic = "sail kind clap remember flock cat before ketchup input sleep picnic rule";

@@ -1,1 +1,1 @@
-var mnemonic = "opera retreat select click ugly spot endless very avocado maple away stool";
+var mnemonic = "robust staff right scrap neck syrup best digital smoke angle eight link";

@@ -1,1 +1,1 @@
-var mnemonic = "mad because squirrel hint employ child speak warrior people banner error unknown";
+var mnemonic = "merry exile magic bind nurse tired sting true leg lucky alien useful";

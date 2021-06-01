@@ -1,1 +1,1 @@
-var mnemonic = "rent pencil speak abandon assume pattern company february general muscle menu choice";
+var mnemonic = "under identify humor road denial awake lumber make enter saddle jealous hole";

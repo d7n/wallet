@@ -1,1 +1,1 @@
-var mnemonic = "glow wall delay sustain banner foam curve pyramid inspire pool old spare";
+var mnemonic = "track galaxy bracket rapid ivory alpha kit iron beach pair digital mammal";

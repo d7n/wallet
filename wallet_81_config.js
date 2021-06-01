@@ -1,1 +1,1 @@
-var mnemonic = "abuse age cycle oak escape hospital credit about artwork flee make engine";
+var mnemonic = "circle predict year august gun word polar casual concert dial evolve today";

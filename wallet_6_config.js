@@ -1,1 +1,1 @@
-var mnemonic = "senior force waste latin twelve cabbage swift venture refuse knee also typical";
+var mnemonic = "flash member beyond custom input volume record wool elephant logic ecology salute";

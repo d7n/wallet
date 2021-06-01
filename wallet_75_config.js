@@ -1,1 +1,1 @@
-var mnemonic = "unable cloth hammer april base series bean miracle side kind rabbit brother";
+var mnemonic = "nerve reward arrest stool hope tongue cool absorb valley parrot derive cross";

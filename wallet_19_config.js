@@ -1,1 +1,1 @@
-var mnemonic = "siren toward elevator firm tuna enter cost throw bubble left fire carry";
+var mnemonic = "check silver bench broom sell spot pond dilemma since jar vivid taxi";

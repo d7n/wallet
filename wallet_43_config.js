@@ -1,1 +1,1 @@
-var mnemonic = "chief sell artwork sight napkin enrich ecology garden arrange blush nasty owner";
+var mnemonic = "cart fabric entry lake canoe rice sword ginger hat acid gospel pink";

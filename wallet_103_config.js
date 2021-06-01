@@ -1,1 +1,1 @@
-var mnemonic = "pitch tank cheese guilt scene gloom hurdle spot kiwi sustain maze salmon";
+var mnemonic = "month move level tackle combine grace industry trend fuel captain combine six";

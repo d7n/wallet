@@ -1,1 +1,1 @@
-var mnemonic = "repair tide panther imitate day symbol carpet sense mom point debris baby";
+var mnemonic = "village ability sad include trim agree frame path illegal real climb pond";

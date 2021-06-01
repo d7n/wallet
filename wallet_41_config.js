@@ -1,1 +1,1 @@
-var mnemonic = "acid anchor life define absent weird all hedgehog apology danger raise dust";
+var mnemonic = "exit title chef tourist illegal gift seminar legal flash maid rival error";

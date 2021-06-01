@@ -1,1 +1,1 @@
-var mnemonic = "mountain slab check reunion evidence sponsor strike ghost normal east wonder paddle";
+var mnemonic = "area lens must curious clutch portion palace twist position combine law already";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion crater street sword police vehicle man photo puppy merge fantasy real";
+var mnemonic = "balcony thunder glare fog unfair trumpet mouse defense net quote urban fence";

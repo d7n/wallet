@@ -1,1 +1,1 @@
-var mnemonic = "armed island exercise sweet like claw write zebra clutch clean type indoor";
+var mnemonic = "vicious primary supreme silent evil satisfy vanish inform bunker birth million genius";

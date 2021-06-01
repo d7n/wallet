@@ -1,1 +1,1 @@
-var mnemonic = "visit legend doctor reopen middle chief tennis piece joke mountain dentist powder";
+var mnemonic = "midnight vote soul marble rude depend normal tennis eagle way kangaroo correct";

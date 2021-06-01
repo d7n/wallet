@@ -1,1 +1,1 @@
-var mnemonic = "dance video gift electric width off stick gift enforce toward cliff chapter";
+var mnemonic = "essence guilt famous tornado dice farm wood venue turn detect dizzy bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor arch breeze tuna usual game spray embody pony beef time pair";
+var mnemonic = "gather beyond female have text tide ghost tell winner actress brief sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "cover rebel arrow april fit garlic issue heavy love equal defense spell";
+var mnemonic = "power pair blast debate ribbon town wink cost regular meat love ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet tip oak miracle vintage circle glance celery segment front twist deal";
+var mnemonic = "crawl worry assist degree advance sad barrel photo life actor piano raven";

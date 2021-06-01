@@ -1,1 +1,1 @@
-var mnemonic = "start head shock evidence drastic mountain smile funny winter chunk deputy budget";
+var mnemonic = "crew nominee wrong link extend crane today wire tag federal garden knock";

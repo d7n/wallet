@@ -1,1 +1,1 @@
-var mnemonic = "aisle sail stool slow keen boost since remind switch october view leg";
+var mnemonic = "since stumble hamster match filter gold walk injury crouch reject gold pencil";

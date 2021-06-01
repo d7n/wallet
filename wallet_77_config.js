@@ -1,1 +1,1 @@
-var mnemonic = "beef right mother blame physical steel pride doll project fiction ride second";
+var mnemonic = "hurt fan three defense top nerve put simple outdoor stadium tattoo patch";

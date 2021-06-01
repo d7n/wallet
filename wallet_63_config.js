@@ -1,1 +1,1 @@
-var mnemonic = "door input spin pigeon flat inform south pledge like usage bread hobby";
+var mnemonic = "box make wasp shine build town mouse manage earn option evidence card";

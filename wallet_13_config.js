@@ -1,1 +1,1 @@
-var mnemonic = "give jaguar strategy supreme exotic sport safe deny cycle tooth faith thumb";
+var mnemonic = "economy fork slow drive narrow weekend busy vast matter infant anxiety void";

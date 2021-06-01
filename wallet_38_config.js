@@ -1,1 +1,1 @@
-var mnemonic = "parrot weekend yellow frown fish patch carry must letter donor garlic steak";
+var mnemonic = "series era grit mouse manage mix daughter machine mercy eternal order giant";

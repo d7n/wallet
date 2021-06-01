@@ -1,1 +1,1 @@
-var mnemonic = "core better drama wise canyon bar orchard moment useful giraffe age sad";
+var mnemonic = "pilot north spatial onion delay aerobic split minute problem comfort people heart";

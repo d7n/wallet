@@ -1,1 +1,1 @@
-var mnemonic = "hurt master drift special denial boost total human control velvet brisk outside";
+var mnemonic = "hill veteran blanket absurd sphere poem virtual figure apology slogan poverty acid";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma absent orient tomorrow diet gym cabin march match medal window trophy";
+var mnemonic = "oppose soon actual dad lounge note vivid guess garage broccoli caution question";

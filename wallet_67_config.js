@@ -1,1 +1,1 @@
-var mnemonic = "glove they skull smile laugh guard effort fall group office fatal ivory";
+var mnemonic = "point drink foster one found say bench equal parade defy live afford";

@@ -1,1 +1,1 @@
-var mnemonic = "blast version solid gadget upon void various rice stick law rule suffer";
+var mnemonic = "inflict kidney later harvest slush mom fence yard nuclear wise question merit";

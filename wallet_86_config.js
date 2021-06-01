@@ -1,1 +1,1 @@
-var mnemonic = "paper toss multiply fish nasty that cake rate material muscle disagree there";
+var mnemonic = "merge mom host garlic jar there result crunch toilet gesture umbrella reject";

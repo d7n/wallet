@@ -1,1 +1,1 @@
-var mnemonic = "riot judge drink dose humble thunder nest afford connect black fluid certain";
+var mnemonic = "attack decorate south absurd hotel comfort harvest into knife morning cherry hand";

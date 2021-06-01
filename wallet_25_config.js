@@ -1,1 +1,1 @@
-var mnemonic = "blush trend wet slender balcony parent emerge trigger organ ethics execute thank";
+var mnemonic = "lens number faith dress amount antique tenant hurdle ancient couple knee fatigue";

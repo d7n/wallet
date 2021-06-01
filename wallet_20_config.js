@@ -1,1 +1,1 @@
-var mnemonic = "banner mechanic catalog area security brave strike student north vivid another oblige";
+var mnemonic = "cliff leaf hat resist among divorce coffee grain replace scare pass range";

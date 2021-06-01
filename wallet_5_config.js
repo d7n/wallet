@@ -1,1 +1,1 @@
-var mnemonic = "dismiss loan post duty orphan luggage casino soft find behind shadow buddy";
+var mnemonic = "grass say method desert ticket sustain tornado dream trust sponsor empty arrange";

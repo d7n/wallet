@@ -1,1 +1,1 @@
-var mnemonic = "grid hotel struggle wife drip injury kiwi run erase odor perfect churn";
+var mnemonic = "syrup code lucky injury lab soap twin behind enforce birth pass secret";

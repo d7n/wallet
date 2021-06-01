@@ -1,1 +1,1 @@
-var mnemonic = "wrong patrol live ill faint cupboard divorce blanket feed track runway file";
+var mnemonic = "limit improve wheel subject excuse veteran thing roof owner list priority hospital";

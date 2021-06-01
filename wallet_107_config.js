@@ -1,1 +1,1 @@
-var mnemonic = "pear produce cart hood eager spin length six group venture palace sister";
+var mnemonic = "web genre summer dinosaur pair cover cousin car clean gas lawsuit pole";

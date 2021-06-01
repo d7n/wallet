@@ -1,1 +1,1 @@
-var mnemonic = "noise demise tissue pull year embody retreat alien tiny chair churn athlete";
+var mnemonic = "about twist often smart rare float ramp wing relief pet erase fatal";

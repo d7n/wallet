@@ -1,1 +1,1 @@
-var mnemonic = "flight sick idea pen focus hazard false toward merry once eight swim";
+var mnemonic = "general print keen odor later clerk pluck design despair useful cloth churn";

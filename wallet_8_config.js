@@ -1,1 +1,1 @@
-var mnemonic = "flame food garden bullet lonely detect cinnamon stumble unusual repeat crash misery";
+var mnemonic = "inflict despair meat leave hood gold like cable hero damage sorry path";

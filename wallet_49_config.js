@@ -1,1 +1,1 @@
-var mnemonic = "few athlete quantum spider collect grow swear soda drama evoke entry science";
+var mnemonic = "scrap summer narrow young nice notable reduce title protect birth label inquiry";

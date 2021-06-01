@@ -1,1 +1,1 @@
-var mnemonic = "excess digital ceiling hollow beef open wear pretty unusual velvet sense nephew";
+var mnemonic = "bronze assume feature bulb flight chaos skin expose fit crane wife print";

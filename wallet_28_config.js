@@ -1,1 +1,1 @@
-var mnemonic = "palace wagon fiber arm grief cool champion claw point inflict chunk fall";
+var mnemonic = "mind naive burden debris similar wheel resource pumpkin rhythm invite divert sort";

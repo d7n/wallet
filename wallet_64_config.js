@@ -1,1 +1,1 @@
-var mnemonic = "rely color tunnel carry fault arrive power genre result celery under mansion";
+var mnemonic = "nut glide phrase whisper twist spin amazing tourist fragile enact car cancel";

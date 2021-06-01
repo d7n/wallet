@@ -1,1 +1,1 @@
-var mnemonic = "axis plug uncle hand tennis scan shiver battle first odor steel maximum";
+var mnemonic = "feed survey vital mushroom sibling velvet innocent summer grant welcome avoid symptom";

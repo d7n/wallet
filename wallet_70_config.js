@@ -1,1 +1,1 @@
-var mnemonic = "long december survey call able notice depth can boring habit piano impact";
+var mnemonic = "endorse water strong mansion dumb okay useless ocean install project mercy chair";

@@ -1,1 +1,1 @@
-var mnemonic = "topple exhibit rural fetch float elder best trophy erupt trouble stay rare";
+var mnemonic = "fall drop eagle expire state enrich category describe situate confirm hub whisper";

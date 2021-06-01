@@ -1,1 +1,1 @@
-var mnemonic = "loop tribe buzz bid crucial settle walnut army engage burger soul refuse";
+var mnemonic = "wall slot mansion evil dentist click install deputy consider heart whisper tip";

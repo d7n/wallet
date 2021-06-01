@@ -1,1 +1,1 @@
-var mnemonic = "advance idle battle fossil lens riot liquid post fiction load nerve noble";
+var mnemonic = "balance ready noble suit eye describe quality job sleep gaze other universe";

@@ -1,1 +1,1 @@
-var mnemonic = "sight box fade ankle detect rude swarm roof desk desk giraffe ridge";
+var mnemonic = "ripple obscure bomb punch empower youth old soft celery warfare better call";

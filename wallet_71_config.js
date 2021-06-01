@@ -1,1 +1,1 @@
-var mnemonic = "usual snap garment menu flock embrace bracket race pave ensure swamp couple";
+var mnemonic = "unit connect bone fly rescue gravity pudding purpose forum logic shed sustain";

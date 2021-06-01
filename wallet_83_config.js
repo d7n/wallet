@@ -1,1 +1,1 @@
-var mnemonic = "cruise pair exhaust dynamic evolve joy enable snack owner place share evil";
+var mnemonic = "rate educate price settle cream shoe stick work hospital huge course unfold";

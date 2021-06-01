@@ -1,1 +1,1 @@
-var mnemonic = "caution fee guitar unknown spin away sense fat range use alter room";
+var mnemonic = "never until seminar scatter cotton curious bitter decade nuclear pause large scrub";
