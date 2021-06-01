@@ -1,1 +1,1 @@
-var mnemonic = "squirrel bridge hamster mixed distance brief catalog heavy story load actual civil";
+var mnemonic = "bread group capable violin hundred divorce regret actual angry coin easily ostrich";

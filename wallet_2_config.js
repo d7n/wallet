@@ -1,1 +1,1 @@
-var mnemonic = "fault dwarf bargain orange guitar jaguar hurry ice large tone runway mosquito";
+var mnemonic = "spatial apart shell misery normal license bullet cry term sample lawn select";

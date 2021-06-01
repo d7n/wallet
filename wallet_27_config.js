@@ -1,1 +1,1 @@
-var mnemonic = "involve swim beyond assume tired size route arrow stock toy give journey";
+var mnemonic = "cheese crew cup cabbage smart skill hazard long matter room mutual ski";

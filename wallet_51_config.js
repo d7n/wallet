@@ -1,1 +1,1 @@
-var mnemonic = "order dinosaur inner random oppose diamond virus table valid inch visual lunch";
+var mnemonic = "crunch notable erase again family orchard crouch type various genre resemble orbit";

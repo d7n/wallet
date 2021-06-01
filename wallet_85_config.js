@@ -1,1 +1,1 @@
-var mnemonic = "sentence express umbrella scrub drill assault lake kitchen match lazy measure unique";
+var mnemonic = "direct believe lava chalk alcohol grid submit force frozen bird mixed convince";

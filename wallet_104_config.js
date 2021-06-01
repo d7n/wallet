@@ -1,1 +1,1 @@
-var mnemonic = "slow economy guilt switch produce amount tuition rice wolf quarter fuel immune";
+var mnemonic = "entire valve grid enrich taxi mean mother way cash onion maximum organ";

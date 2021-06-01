@@ -1,1 +1,1 @@
-var mnemonic = "arctic upper palm quarter rough guard judge fault squeeze item clarify blouse";
+var mnemonic = "web essence close rapid inspire thunder oak patch paper bring sauce mom";

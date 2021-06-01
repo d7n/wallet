@@ -1,1 +1,1 @@
-var mnemonic = "vast minimum chest cloud bomb benefit festival drop tray try town image";
+var mnemonic = "between learn mixture saddle oblige evidence adapt rhythm final stairs cake inform";

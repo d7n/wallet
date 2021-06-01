@@ -1,1 +1,1 @@
-var mnemonic = "sure blur cause gift elegant true train shoot melody sleep coin quantum";
+var mnemonic = "room primary oyster stomach repeat burst layer virus wait genre siren blanket";

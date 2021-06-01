@@ -1,1 +1,1 @@
-var mnemonic = "explain casino swap walk school wave try crime beach spy address harsh";
+var mnemonic = "domain beauty quiz race mansion thank brown area eye inflict kitten mean";

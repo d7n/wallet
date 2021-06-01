@@ -1,1 +1,1 @@
-var mnemonic = "staff tomorrow guitar valid actor crisp switch half uncle predict student bind";
+var mnemonic = "record worry view sponsor pledge sad nature error rely stadium hard uphold";

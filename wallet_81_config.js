@@ -1,1 +1,1 @@
-var mnemonic = "identify license sick slogan another lunar better inside yellow roast outer tuna";
+var mnemonic = "style torch video bike noble obtain tongue rigid prison agent toe dizzy";

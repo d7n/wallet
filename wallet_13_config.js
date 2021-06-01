@@ -1,1 +1,1 @@
-var mnemonic = "pilot hat salt upset voyage board saddle omit fly airport drive real";
+var mnemonic = "horn hen legend potato fetch buffalo risk student exercise thrive toy skill";

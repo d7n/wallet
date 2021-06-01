@@ -1,1 +1,1 @@
-var mnemonic = "armor awesome link vapor prosper unable alley subway bulb hover birth boss";
+var mnemonic = "lift admit cargo rigid segment come unveil valley element permit cricket double";

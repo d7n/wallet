@@ -1,1 +1,1 @@
-var mnemonic = "slender warm party pair double step town drama exercise echo gravity vote";
+var mnemonic = "hour disagree search cable match save rib gym sorry legend olympic palm";

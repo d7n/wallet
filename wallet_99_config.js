@@ -1,1 +1,1 @@
-var mnemonic = "deal cattle time horse check skull black mixed high glass begin bid";
+var mnemonic = "prepare solution myself intact satisfy sadness defy pretty neither observe youth virus";

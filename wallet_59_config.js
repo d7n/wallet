@@ -1,1 +1,1 @@
-var mnemonic = "change venture dynamic patch invest cool february spray couple spot crystal zoo";
+var mnemonic = "dash icon endless tobacco control tongue surge charge robust panel cram act";

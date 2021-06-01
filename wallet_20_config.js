@@ -1,1 +1,1 @@
-var mnemonic = "alert chronic antenna exhaust board undo special provide bright boring rival art";
+var mnemonic = "typical warm team globe say south grab shiver become novel cabbage cry";

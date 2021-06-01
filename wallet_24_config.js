@@ -1,1 +1,1 @@
-var mnemonic = "surround joke young device kiwi valve rough alert ship green salon scheme";
+var mnemonic = "similar old myself cream abandon ocean ski melt citizen humor purchase chronic";

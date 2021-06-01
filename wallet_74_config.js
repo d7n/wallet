@@ -1,1 +1,1 @@
-var mnemonic = "current choice desert night oblige bind enemy network tomorrow yellow page balance";
+var mnemonic = "knee hazard among update bunker excuse destroy endless rare surround obvious radio";

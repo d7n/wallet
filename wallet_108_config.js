@@ -1,1 +1,1 @@
-var mnemonic = "broccoli warm exhibit vocal napkin waste engage valid fiber arrest old kangaroo";
+var mnemonic = "begin valid oppose present clip soccer picture salad offer surge hair sure";

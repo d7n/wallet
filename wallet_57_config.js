@@ -1,1 +1,1 @@
-var mnemonic = "quantum naive lucky legend obey evolve agent chat fringe envelope feature hair";
+var mnemonic = "bring wage robot math imitate track two stone nuclear pill lumber august";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge capital wheat twenty jelly scrap fit upon spirit fury blood wash";
+var mnemonic = "equip profit buyer fly leisure stove duck body upset hundred resist book";

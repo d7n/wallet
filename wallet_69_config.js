@@ -1,1 +1,1 @@
-var mnemonic = "peanut pumpkin all uncle slogan churn gas oval mushroom liberty vocal code";
+var mnemonic = "east science category bench crash labor pause design coach twelve jazz enough";

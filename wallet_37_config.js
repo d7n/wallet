@@ -1,1 +1,1 @@
-var mnemonic = "basket husband miss lady fuel all female youth false myself hood decrease";
+var mnemonic = "agree blind grass sample fetch melt slender pact frozen sudden execute acoustic";

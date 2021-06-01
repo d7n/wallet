@@ -1,1 +1,1 @@
-var mnemonic = "inner inmate denial blast cupboard discover intact rapid assist oyster prosper talk";
+var mnemonic = "eyebrow absorb layer noodle help return old ivory amateur riot brain erase";

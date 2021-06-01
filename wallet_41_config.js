@@ -1,1 +1,1 @@
-var mnemonic = "doctor tiger will tortoise goddess diagram accident place phrase cinnamon raise melt";
+var mnemonic = "arena extend coconut shock ship draw vehicle lizard genre connect win rifle";

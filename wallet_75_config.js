@@ -1,1 +1,1 @@
-var mnemonic = "bind crater member anger public vehicle wait when feed grit assume raven";
+var mnemonic = "bean sail morning acid mean siren rib good carry edge sound page";

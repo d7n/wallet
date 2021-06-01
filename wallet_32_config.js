@@ -1,1 +1,1 @@
-var mnemonic = "ceiling wife noise wreck ugly gym lend define shove arrow kick pull";
+var mnemonic = "cycle diary goose banana rug simple ship report reunion beyond rural math";

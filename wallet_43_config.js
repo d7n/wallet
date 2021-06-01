@@ -1,1 +1,1 @@
-var mnemonic = "security hamster balcony shaft timber image measure void occur path buyer tone";
+var mnemonic = "crouch medal more latin place hawk crazy ignore people best second degree";

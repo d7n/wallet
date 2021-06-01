@@ -1,1 +1,1 @@
-var mnemonic = "critic often barely argue meat baby hood noodle vicious foil ocean olive";
+var mnemonic = "pretty upgrade gauge miss medal holiday genre gallery want evil harvest nut";

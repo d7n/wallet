@@ -1,1 +1,1 @@
-var mnemonic = "impulse empty hub spin senior syrup flight bag month family winter govern";
+var mnemonic = "ghost speak donor receive media public penalty judge buzz month rain fiscal";

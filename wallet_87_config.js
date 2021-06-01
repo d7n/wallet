@@ -1,1 +1,1 @@
-var mnemonic = "horror garbage toward mother swing group aspect section observe fetch carpet panda";
+var mnemonic = "record bicycle apart element fossil case seek impose leopard timber have violin";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff slab truck make dust sunny donate rival improve spike unit forest";
+var mnemonic = "perfect another swift tail coffee attract island friend six laundry mechanic birth";

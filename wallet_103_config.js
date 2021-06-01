@@ -1,1 +1,1 @@
-var mnemonic = "rural bonus lecture smoke more clever sunny chimney road inherit alcohol until";
+var mnemonic = "angle cradle rare squirrel tragic dice engine exact accuse coral illegal verb";

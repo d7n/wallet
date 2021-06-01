@@ -1,1 +1,1 @@
-var mnemonic = "exit antique leave order coconut carbon ketchup easy enhance strategy bread drop";
+var mnemonic = "genre cement shy kitten alpha price lounge check own oil fee tribe";

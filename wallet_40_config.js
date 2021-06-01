@@ -1,1 +1,1 @@
-var mnemonic = "measure comfort junior damp visa silk glory else increase energy this stage";
+var mnemonic = "dirt zone shoulder add area genre clever depart mystery answer conduct pave";

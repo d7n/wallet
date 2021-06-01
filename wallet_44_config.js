@@ -1,1 +1,1 @@
-var mnemonic = "unfair chapter hood charge siege harsh glance scan chunk delay run detect";
+var mnemonic = "brain put leave tent chest alcohol decade differ broccoli obscure joke intact";

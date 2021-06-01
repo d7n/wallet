@@ -1,1 +1,1 @@
-var mnemonic = "parent violin endless unfair side muscle install bird eagle gravity truck frame";
+var mnemonic = "sick spoil anger prefer target peanut awesome wine catalog girl lava twist";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic chef chat diesel fox abuse enjoy retreat refuse mansion obvious romance";
+var mnemonic = "tornado cool awkward region flame lion culture work love glance capital powder";

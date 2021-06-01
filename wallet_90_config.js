@@ -1,1 +1,1 @@
-var mnemonic = "ten wagon buffalo wrestle card heart slam south duck observe weekend spoon";
+var mnemonic = "gauge paper limit width alone love thank hurry abstract diamond pole kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "dream nature coconut mouse play auction like fury grape deposit stairs menu";
+var mnemonic = "milk early tennis script ritual busy able wolf powder siren album lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket either tiny soccer barely lumber blossom brass palm edit multiply rug";
+var mnemonic = "sea orange orange famous obvious nothing hazard baby chief ladder evidence solution";

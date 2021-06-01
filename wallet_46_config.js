@@ -1,1 +1,1 @@
-var mnemonic = "twelve endorse canal bacon treat soup thing addict wrestle gadget steak useless";
+var mnemonic = "buzz guess science bubble tooth world spider betray early vital gossip demise";

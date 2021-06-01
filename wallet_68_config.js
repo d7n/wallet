@@ -1,1 +1,1 @@
-var mnemonic = "orbit cancel afford polar dry you clap cactus various cloth claim defense";
+var mnemonic = "crunch poem street lucky twice great cricket ensure awful fox evidence journey";

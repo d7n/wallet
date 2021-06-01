@@ -1,1 +1,1 @@
-var mnemonic = "brother umbrella hospital club easily essay office giant protect smooth choose sibling";
+var mnemonic = "river solution mountain grow together traffic witness comic genuine clump monkey already";

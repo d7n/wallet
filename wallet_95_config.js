@@ -1,1 +1,1 @@
-var mnemonic = "notice thrive current hub inmate lawn pottery song reopen oxygen such warrior";
+var mnemonic = "tragic eye menu finger door borrow then caught ocean firm autumn ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer door fame pen broccoli lunar spirit room off gentle put emotion";
+var mnemonic = "symbol food blush blouse route horse book speed sand anger detect reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "universe hire insane emotion fatigue today mad flat area possible earn sport";
+var mnemonic = "habit priority pencil peasant want vessel vacuum traffic cry purse car term";

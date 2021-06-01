@@ -1,1 +1,1 @@
-var mnemonic = "recipe already raise weekend echo nut nominee any steak rack parrot bracket";
+var mnemonic = "fitness reject display belt bid copper digital space play urban betray hundred";

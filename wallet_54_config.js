@@ -1,1 +1,1 @@
-var mnemonic = "era flock rice anger rice truly consider legend govern snow glide hunt";
+var mnemonic = "nut sunny inform sausage wagon food reduce response issue motion immense ten";

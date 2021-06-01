@@ -1,1 +1,1 @@
-var mnemonic = "crash month story avoid engage fire tank swap opera rubber flat camera";
+var mnemonic = "sadness escape account exclude initial plug parade garbage until latin apology type";

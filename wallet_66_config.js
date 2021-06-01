@@ -1,1 +1,1 @@
-var mnemonic = "pulse oblige roof dove sock illness pride nose gain taste door offer";
+var mnemonic = "river catalog salmon thunder gentle file million agree usual boost able ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "dream industry program credit among ship whale point escape never globe toast";
+var mnemonic = "problem salmon note they enough knife kiss repair nut river sister gasp";

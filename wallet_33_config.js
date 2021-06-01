@@ -1,1 +1,1 @@
-var mnemonic = "today host affair used help road air fork enter drive afford mystery";
+var mnemonic = "sing install immense immune kitchen index involve pass notable chase sun quit";

@@ -1,1 +1,1 @@
-var mnemonic = "expire battle they bleak fiscal hamster forward strategy together faith citizen impose";
+var mnemonic = "nephew odor hurry auction stone violin blood ability banana grain oak firm";

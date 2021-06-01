@@ -1,1 +1,1 @@
-var mnemonic = "whisper edge name pride angle deposit brother gravity dune river only tent";
+var mnemonic = "budget zero unaware door rapid road inherit ring monkey clown cereal require";

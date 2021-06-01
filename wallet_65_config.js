@@ -1,1 +1,1 @@
-var mnemonic = "choice core badge price art foster cargo aunt sheriff midnight trophy raven";
+var mnemonic = "collect deposit wagon evoke run filter couple vapor attack divorce immense pig";

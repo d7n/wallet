@@ -1,1 +1,1 @@
-var mnemonic = "engage owner breeze pledge steak buyer music fee finish common ranch someone";
+var mnemonic = "couch defy decrease mass ripple degree giggle pulse orchard okay tribe mistake";

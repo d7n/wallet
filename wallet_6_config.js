@@ -1,1 +1,1 @@
-var mnemonic = "develop anger verb limb amateur cost brief end box flock bean broken";
+var mnemonic = "blast story vote cream night sell key copy inmate fatal place ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "history note fun strike strike undo must pledge sick slush genius sea";
+var mnemonic = "erupt innocent increase alley police hen bachelor couple cook link wall cricket";

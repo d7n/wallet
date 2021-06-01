@@ -1,1 +1,1 @@
-var mnemonic = "autumn traffic float salmon throw trade noble fatigue supply oil ivory concert";
+var mnemonic = "arrest claw ridge test gauge remove ranch trend clerk visual describe blanket";

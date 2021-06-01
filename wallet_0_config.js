@@ -1,1 +1,1 @@
-var mnemonic = "absorb trash uncle object diary rebuild airport isolate safe ski bitter certain";
+var mnemonic = "order enrich scorpion lawsuit fade topic text index lumber rib island lobster";

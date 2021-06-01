@@ -1,1 +1,1 @@
-var mnemonic = "patient smooth inject concert silver sample elder heart rebuild enforce junk soft";
+var mnemonic = "rigid devote open gas gate connect lab chaos bachelor cattle never carpet";

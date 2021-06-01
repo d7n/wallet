@@ -1,1 +1,1 @@
-var mnemonic = "reform trip stem dignity globe tennis citizen beauty island lawsuit board arrive";
+var mnemonic = "much punch enroll web mind few setup shield way infant crack wild";

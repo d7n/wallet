@@ -1,1 +1,1 @@
-var mnemonic = "heart spend twin carpet chuckle skate near grace roof dinosaur wagon right";
+var mnemonic = "clutch soda purpose cost black artist sure regret innocent forum tumble labor";

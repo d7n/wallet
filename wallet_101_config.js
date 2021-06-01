@@ -1,1 +1,1 @@
-var mnemonic = "appear fragile ensure flush assume moon convince obscure spin yellow force hen";
+var mnemonic = "ask possible boy pepper flame blood roast lyrics emerge home stereo depend";

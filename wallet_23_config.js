@@ -1,1 +1,1 @@
-var mnemonic = "soft day crew airport leave discover furnace stomach ghost split attitude merge";
+var mnemonic = "large impact crouch sample drive target flash whale cherry truth kangaroo member";

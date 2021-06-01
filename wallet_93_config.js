@@ -1,1 +1,1 @@
-var mnemonic = "pet liquid embody audit network chapter spin board stuff motion husband skate";
+var mnemonic = "mesh kit system rain marriage option equip mobile flip speak pull gesture";

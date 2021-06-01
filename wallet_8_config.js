@@ -1,1 +1,1 @@
-var mnemonic = "code lawn tilt weird live cheese foster hurry north merge record juice";
+var mnemonic = "tuna improve nasty second fever deputy forward planet inmate stem industry dance";

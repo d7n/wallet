@@ -1,1 +1,1 @@
-var mnemonic = "illegal power cherry vibrant involve dilemma wait buffalo opinion carbon mom surface";
+var mnemonic = "rocket team initial tent drill leisure pretty endless save tumble burden crane";

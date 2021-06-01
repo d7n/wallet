@@ -1,1 +1,1 @@
-var mnemonic = "donkey twin nut almost mother wisdom obscure kite emerge junior mansion glide";
+var mnemonic = "safe push tomorrow civil enforce glimpse candy summer dutch reunion unveil another";

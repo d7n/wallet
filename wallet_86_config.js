@@ -1,1 +1,1 @@
-var mnemonic = "viable rich million blouse bronze solid digital almost accident web grocery cake";
+var mnemonic = "east mass frog stable hip plunge virus siren rapid drama whip protect";

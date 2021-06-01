@@ -1,1 +1,1 @@
-var mnemonic = "year admit donor match old hub section exotic step flush club finger";
+var mnemonic = "beyond memory maid dwarf write swallow hedgehog bridge pulse omit bleak shine";

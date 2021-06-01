@@ -1,1 +1,1 @@
-var mnemonic = "stage enemy virus topple reflect annual attack nothing venture hover calm foil";
+var mnemonic = "glass above mimic bird dinner draw exclude account story plunge into fame";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle truck announce gasp hire hockey erupt have want local glance mosquito";
+var mnemonic = "hungry cable sun ethics soup chicken near art obscure island brother box";

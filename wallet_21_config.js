@@ -1,1 +1,1 @@
-var mnemonic = "inmate jeans accident fuel enrich mosquito clinic nerve usage erase damage peasant";
+var mnemonic = "talent lift loan roast neither business stable token sunset extend online media";

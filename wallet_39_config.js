@@ -1,1 +1,1 @@
-var mnemonic = "gain walnut strong craft today moment must economy orbit equip search find";
+var mnemonic = "actress unfold absent verify key history quantum lecture blush juice rotate employ";

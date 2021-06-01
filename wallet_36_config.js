@@ -1,1 +1,1 @@
-var mnemonic = "parent account suit chief poet couch source crystal surprise shove various cattle";
+var mnemonic = "rigid shop ecology clay daughter soft hurdle bomb bullet dish bulk mechanic";

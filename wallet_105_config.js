@@ -1,1 +1,1 @@
-var mnemonic = "nation steak differ dawn claim toward silent scatter crunch margin tunnel autumn";
+var mnemonic = "elephant garbage crew finger crumble mimic truth sign foam story element erosion";

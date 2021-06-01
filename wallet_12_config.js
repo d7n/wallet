@@ -1,1 +1,1 @@
-var mnemonic = "shield glide spider mad oppose cliff nose catalog pride fade talent miracle";
+var mnemonic = "onion mountain bind large symptom slam donor often insane punch vintage flower";

@@ -1,1 +1,1 @@
-var mnemonic = "rally young express cousin month keep feed ghost amused awkward call tobacco";
+var mnemonic = "beyond crowd across document salmon arrange north toward wool wrist venue rifle";

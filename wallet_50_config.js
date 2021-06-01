@@ -1,1 +1,1 @@
-var mnemonic = "floor business border music bench embody pretty bubble belt tenant chef museum";
+var mnemonic = "one hedgehog web galaxy cabbage submit now fatigue search bronze style olive";

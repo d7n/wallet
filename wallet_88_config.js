@@ -1,1 +1,1 @@
-var mnemonic = "hurdle duck thing rose corn begin morning draft inhale health labor slice";
+var mnemonic = "conduct vendor energy valve enrich dry pond depart spawn dry floor frequent";

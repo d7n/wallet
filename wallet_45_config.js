@@ -1,1 +1,1 @@
-var mnemonic = "bright enact play hair vote fit long month fatigue nuclear whip outside";
+var mnemonic = "garden find tennis language tube funny head phone inside price machine biology";

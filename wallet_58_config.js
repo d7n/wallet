@@ -1,1 +1,1 @@
-var mnemonic = "noise ring round caught another father planet bottom absurd marine essay purity";
+var mnemonic = "utility allow shop honey shoulder sock regret baby cover blossom about drum";

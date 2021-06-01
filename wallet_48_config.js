@@ -1,1 +1,1 @@
-var mnemonic = "stick lab alter net fit hover glass patrol banner orchard flip educate";
+var mnemonic = "half minute flash brief coach win high cash cheese recipe drastic addict";

@@ -1,1 +1,1 @@
-var mnemonic = "soup episode glance matter muffin load wasp pottery bread squeeze consider hub";
+var mnemonic = "funny absorb electric sketch eyebrow stage energy learn twenty focus aunt figure";

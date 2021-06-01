@@ -1,1 +1,1 @@
-var mnemonic = "brother stage velvet oval among shuffle way conduct basket slide under clinic";
+var mnemonic = "august arrest palm moment february pool blur word wreck borrow market thunder";

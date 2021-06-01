@@ -1,1 +1,1 @@
-var mnemonic = "rich course olympic orange key ancient hat announce property must apart clinic";
+var mnemonic = "merge design seven rude check license curtain menu paper total table lottery";

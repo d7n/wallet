@@ -1,1 +1,1 @@
-var mnemonic = "advance lock invest squeeze real zebra spring limit rate defense target sponsor";
+var mnemonic = "surge loop boss radio current kangaroo expire draw brother kangaroo horror zero";

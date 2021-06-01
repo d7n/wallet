@@ -1,1 +1,1 @@
-var mnemonic = "soldier yard market dose accident marine fragile sorry universe flag major super";
+var mnemonic = "swift away spatial sphere mule cricket surround asthma since miss burst crazy";

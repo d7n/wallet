@@ -1,1 +1,1 @@
-var mnemonic = "blast online amused method fashion return subway evolve rail surprise tip open";
+var mnemonic = "mango nominee fatal first neglect retreat angle stand century paddle earn chief";
