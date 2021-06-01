@@ -1,1 +1,1 @@
-var mnemonic = "pulp proud strategy oval light key balcony vendor okay ready supreme noble";
+var mnemonic = "report jeans finger little wedding voice wheel nice soap improve curious wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "nut bamboo kitchen remember aim census require combine enroll stone couple hub";
+var mnemonic = "castle ride square time pulse lesson conduct detect pause maid smoke tortoise";

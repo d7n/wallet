@@ -1,1 +1,1 @@
-var mnemonic = "scan method alien limit spot around course luggage wage loyal during shove";
+var mnemonic = "plug lab athlete nominee violin utility wall ripple chase glove often party";

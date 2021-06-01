@@ -1,1 +1,1 @@
-var mnemonic = "repeat repair fade festival across cliff fever turn uncover rather flag pretty";
+var mnemonic = "cherry west claim acquire broom mind music head arrange pair acid utility";

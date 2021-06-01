@@ -1,1 +1,1 @@
-var mnemonic = "biology brief turkey room mechanic real action panda split roast swear expect";
+var mnemonic = "bless clock situate light gym whip zoo trumpet robot oven pill nation";

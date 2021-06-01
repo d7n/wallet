@@ -1,1 +1,1 @@
-var mnemonic = "garden identify upper depth grief orange business wedding save health artwork park";
+var mnemonic = "doll giraffe museum tone help average foam divide kid differ rhythm domain";

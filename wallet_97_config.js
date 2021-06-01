@@ -1,1 +1,1 @@
-var mnemonic = "february fossil job stereo doll slice piece drastic eight child owner address";
+var mnemonic = "state genre receive antique slam document wagon put winter curtain any barrel";

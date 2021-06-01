@@ -1,1 +1,1 @@
-var mnemonic = "infant orbit soon viable recall history smart ranch wreck chicken harvest cheese";
+var mnemonic = "cage cradle pass empower apology volcano worth sniff weekend chef gather pet";

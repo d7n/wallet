@@ -1,1 +1,1 @@
-var mnemonic = "rail dish vacuum weekend orphan cinnamon grid peasant high jaguar jelly retreat";
+var mnemonic = "inform bleak member select suggest verify advance bulk engine rack exotic scene";

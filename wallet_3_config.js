@@ -1,1 +1,1 @@
-var mnemonic = "wedding cigar month unfold behind song found acoustic volcano flavor exotic nephew";
+var mnemonic = "lawn web step pause bridge bamboo lecture drama account flee field wink";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm area better helmet jar truck light interest bread oak ice cactus";
+var mnemonic = "quantum mad police alien basket shoot border release coyote reunion alpha wrong";

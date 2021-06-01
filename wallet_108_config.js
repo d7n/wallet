@@ -1,1 +1,1 @@
-var mnemonic = "tower number over hazard pepper what alley lamp mean modify explain credit";
+var mnemonic = "unveil captain speed label glare visit fence nurse pitch penalty another run";

@@ -1,1 +1,1 @@
-var mnemonic = "shell secret motor police story favorite olive urban fluid wine junior office";
+var mnemonic = "step green raise enroll whisper tourist prize negative advance dance castle hole";

@@ -1,1 +1,1 @@
-var mnemonic = "razor report civil castle edit raw piece prize kangaroo awesome fringe pulp";
+var mnemonic = "become person mimic silent earn dance slam coin note kangaroo volume label";

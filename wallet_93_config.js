@@ -1,1 +1,1 @@
-var mnemonic = "curtain tray board sausage mom lab anger oak surge blast version black";
+var mnemonic = "imitate grid consider neck system device off same athlete grain perfect satoshi";

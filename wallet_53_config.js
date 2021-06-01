@@ -1,1 +1,1 @@
-var mnemonic = "table desert network curious lawsuit dilemma mystery youth laundry trim riot treat";
+var mnemonic = "submit daring myth since satisfy release spoil crush super eyebrow shoulder define";

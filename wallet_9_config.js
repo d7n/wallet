@@ -1,1 +1,1 @@
-var mnemonic = "venue steel dumb emerge trial butter apart slot april icon mobile subject";
+var mnemonic = "session ostrich plug voice neck slide hospital keep execute hire roof industry";

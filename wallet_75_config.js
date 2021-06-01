@@ -1,1 +1,1 @@
-var mnemonic = "copper bring nephew avoid renew cancel more flat kidney matrix announce system";
+var mnemonic = "proud apart deny chronic champion lion duck symptom episode civil erupt surge";

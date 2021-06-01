@@ -1,1 +1,1 @@
-var mnemonic = "parent poem fruit girl tip egg conduct fade exclude bone exist own";
+var mnemonic = "digital recall bracket burst wedding patch guess grace rookie material wealth lonely";

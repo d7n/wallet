@@ -1,1 +1,1 @@
-var mnemonic = "name eager carbon width barrel system repair learn enforce tenant keen toddler";
+var mnemonic = "job insane comic grab palace frown stereo raise friend trade fog broken";

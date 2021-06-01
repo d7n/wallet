@@ -1,1 +1,1 @@
-var mnemonic = "muscle mosquito recall muffin lunch pass atom swallow inch search scorpion feel";
+var mnemonic = "become decline vocal top salute bus enough stable extra jelly luggage brand";

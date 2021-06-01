@@ -1,1 +1,1 @@
-var mnemonic = "there differ sing laugh garbage drop very story divert seat shrimp jazz";
+var mnemonic = "mad original finish myself twelve aspect impose basic volume raccoon then weird";

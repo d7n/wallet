@@ -1,1 +1,1 @@
-var mnemonic = "trap title cat energy sound mixed exact allow canal found tip brain";
+var mnemonic = "false able lawn horn hospital mixed inmate churn gesture into salad camp";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal wasp bid because tone whip extra orient enemy twice earth annual";
+var mnemonic = "brass amused fan scatter toward spy employ smooth captain shop narrow slow";

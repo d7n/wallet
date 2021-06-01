@@ -1,1 +1,1 @@
-var mnemonic = "shine tilt gaze oil expand pupil found prison seek regret civil another";
+var mnemonic = "night angry grunt neither supply wonder soccer imitate stay permit tell quick";

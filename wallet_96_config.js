@@ -1,1 +1,1 @@
-var mnemonic = "gift decrease rebuild leaf together noise odor lobster charge always country opinion";
+var mnemonic = "recipe pumpkin lift bargain boost between burden safe bomb fancy subway below";

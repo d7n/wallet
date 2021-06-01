@@ -1,1 +1,1 @@
-var mnemonic = "pitch bracket culture tree lock robot cause detail vintage piece vendor craft";
+var mnemonic = "midnight artefact viable donate swim veteran oblige key coffee team object fiction";

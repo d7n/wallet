@@ -1,1 +1,1 @@
-var mnemonic = "blur possible shop carbon magnet fade fit attract like similar problem pyramid";
+var mnemonic = "pattern segment mix latin follow glimpse high lunar evolve parrot school knock";

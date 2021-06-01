@@ -1,1 +1,1 @@
-var mnemonic = "forum cave elevator skull pistol venue quiz prosper spell deer cool tape";
+var mnemonic = "weather six blouse sketch ready squeeze bright forum satoshi spend pattern uncover";

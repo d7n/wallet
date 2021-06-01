@@ -1,1 +1,1 @@
-var mnemonic = "trigger napkin casino fame casual mixture certain rough welcome canoe frequent stone";
+var mnemonic = "eager curve exhaust secret canoe hotel connect slim expand amused tobacco mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "cup fan rookie farm erode analyst tell buyer planet sniff mask poem";
+var mnemonic = "near protect lamp pudding worth fuel prefer ski husband over slogan valid";

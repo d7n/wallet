@@ -1,1 +1,1 @@
-var mnemonic = "depth announce excite snap convince exclude reduce supreme tenant trumpet remind apology";
+var mnemonic = "gasp wheat usage person unit control bulb harsh venture book tray buzz";

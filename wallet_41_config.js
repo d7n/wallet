@@ -1,1 +1,1 @@
-var mnemonic = "blanket circle abstract valve cram pigeon then decade beyond thumb power cricket";
+var mnemonic = "ice armor indoor tool distance spy lottery sick regret fall salute menu";

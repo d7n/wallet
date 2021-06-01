@@ -1,1 +1,1 @@
-var mnemonic = "able eye behind eight broom balance above gym bundle bless era accuse";
+var mnemonic = "pencil word analyst goat olive exclude code milk sense fit kiwi spot";

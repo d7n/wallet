@@ -1,1 +1,1 @@
-var mnemonic = "remind empower pioneer kid bottom maid cannon pioneer elegant enforce vault viable";
+var mnemonic = "ring proud quantum rabbit news puzzle sand park water sleep movie any";

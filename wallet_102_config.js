@@ -1,1 +1,1 @@
-var mnemonic = "eye inflict word crumble squeeze echo panic divorce link invest vote cousin";
+var mnemonic = "payment curious impact educate menu submit unusual pepper isolate cup vicious flat";

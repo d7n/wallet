@@ -1,1 +1,1 @@
-var mnemonic = "unhappy plunge appear ill amount riot creek vote submit tumble elbow shoe";
+var mnemonic = "steel fat narrow chef inner tobacco cash tiny narrow crouch write jewel";

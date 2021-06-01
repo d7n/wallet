@@ -1,1 +1,1 @@
-var mnemonic = "half buddy faculty dinosaur stable sadness occur desk invite shaft renew pencil";
+var mnemonic = "pledge dream middle govern gorilla test step settle cream awake apple rival";

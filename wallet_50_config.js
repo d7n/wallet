@@ -1,1 +1,1 @@
-var mnemonic = "soul love lift depend banner cave awesome manage game transfer just trash";
+var mnemonic = "put witness surprise swing civil small play danger wet decide wheel bleak";

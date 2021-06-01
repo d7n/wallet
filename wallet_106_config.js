@@ -1,1 +1,1 @@
-var mnemonic = "coil find song metal company either achieve leave excess hero body space";
+var mnemonic = "enhance prevent judge quick acoustic torch emotion certain wire ensure survey actor";

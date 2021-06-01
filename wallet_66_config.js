@@ -1,1 +1,1 @@
-var mnemonic = "dose artwork ribbon conduct glimpse fury edge vague tone want protect luggage";
+var mnemonic = "weapon abandon silent fury artwork remind cup track opinion camera neck pond";

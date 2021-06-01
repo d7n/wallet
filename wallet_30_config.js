@@ -1,1 +1,1 @@
-var mnemonic = "nerve sting acquire picnic abstract palm raccoon settle tuna arctic subject mask";
+var mnemonic = "lift box bone half pilot elegant burger open kite wave airport chapter";

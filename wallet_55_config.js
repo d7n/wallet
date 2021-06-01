@@ -1,1 +1,1 @@
-var mnemonic = "wrist fatal vintage aspect chicken actual maze ladder voyage slender truck surround";
+var mnemonic = "staff rally exist bubble put blind urge owner question solve quality provide";

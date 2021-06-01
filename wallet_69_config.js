@@ -1,1 +1,1 @@
-var mnemonic = "approve young lens spy exist ivory awkward turkey client enlist canoe hen";
+var mnemonic = "dose render push ship stove below junior wide need also bunker script";

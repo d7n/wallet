@@ -1,1 +1,1 @@
-var mnemonic = "asthma tribe raw dinner glimpse benefit dove stadium night inner net hotel";
+var mnemonic = "biology expire bounce ten mango empty resource dolphin desk evoke kitchen blush";

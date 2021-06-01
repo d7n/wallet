@@ -1,1 +1,1 @@
-var mnemonic = "brown army credit topple glance gentle fetch hazard basic aunt payment spike";
+var mnemonic = "dust wife dove grocery game inner gather outdoor light lend title jeans";

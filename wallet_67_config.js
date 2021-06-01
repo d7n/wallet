@@ -1,1 +1,1 @@
-var mnemonic = "they dose logic inflict world cream sphere fiber tobacco able mouse vacant";
+var mnemonic = "potato extra expire egg wheat dash oven today famous road this upset";

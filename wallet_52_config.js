@@ -1,1 +1,1 @@
-var mnemonic = "radio mule tumble patrol dinosaur base effort foot blade detail need cream";
+var mnemonic = "reason sample fee idle science input churn wing rebel hero explain couch";

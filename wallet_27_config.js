@@ -1,1 +1,1 @@
-var mnemonic = "yard pilot manage weapon day distance leopard brisk brother prefer attitude ramp";
+var mnemonic = "atom modify wink kiwi blanket mirror prefer target script summer boat opera";

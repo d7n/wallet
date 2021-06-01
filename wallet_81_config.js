@@ -1,1 +1,1 @@
-var mnemonic = "defense define lamp large select want segment beach endless unfair march service";
+var mnemonic = "call saddle museum hollow bottom cute science believe adapt duty settle addict";

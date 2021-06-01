@@ -1,1 +1,1 @@
-var mnemonic = "move tell swift gesture extend liar nominee chase wink job library weather";
+var mnemonic = "exit member since kangaroo question lamp current giant abstract latin horse monitor";

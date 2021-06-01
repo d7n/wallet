@@ -1,1 +1,1 @@
-var mnemonic = "eagle edge short enjoy give glide inspire capital climb fold degree kitchen";
+var mnemonic = "detect crouch spend naive clip original right boss guide easy banana atom";

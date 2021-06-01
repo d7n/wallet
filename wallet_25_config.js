@@ -1,1 +1,1 @@
-var mnemonic = "ladder mention rose current disagree spice amused price cherry pepper tobacco tackle";
+var mnemonic = "ceiling coral tape exile frozen believe desk simple vehicle beach roast flock";

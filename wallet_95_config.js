@@ -1,1 +1,1 @@
-var mnemonic = "know certain bird near brave feel neutral wine illness display relief assume";
+var mnemonic = "jacket soup truck alter horn silly daring lounge pulse tool address bachelor";

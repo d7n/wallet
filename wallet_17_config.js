@@ -1,1 +1,1 @@
-var mnemonic = "excite fever still flash capable soon behave funny wedding creek combine cover";
+var mnemonic = "someone fine margin inmate exhaust brave crucial choose margin general net welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle lonely impose spice scorpion april intact year company promote forest blossom";
+var mnemonic = "rapid mouse kangaroo dutch clump list subway occur pipe pottery unable breeze";

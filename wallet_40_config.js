@@ -1,1 +1,1 @@
-var mnemonic = "develop cricket visual height disorder style toast horse arrive ceiling fox anchor";
+var mnemonic = "stable around hamster general baby bubble proud sell fan fiction worry swing";

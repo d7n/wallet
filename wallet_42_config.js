@@ -1,1 +1,1 @@
-var mnemonic = "bracket fat achieve better gallery daughter soul october half void fit win";
+var mnemonic = "tornado survey insect water vintage tomato speak hobby lens wagon meat actual";

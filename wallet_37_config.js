@@ -1,1 +1,1 @@
-var mnemonic = "consider pepper diamond sound cousin photo peasant dial anxiety knock around fork";
+var mnemonic = "custom chaos gas wall teach butter gown hood legal hazard venture run";

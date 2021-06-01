@@ -1,1 +1,1 @@
-var mnemonic = "will plunge slight piece hollow nuclear favorite clog pattern wedding donor bless";
+var mnemonic = "lizard boil casino aim lazy nut shoot moon amused scrub cup enrich";

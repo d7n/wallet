@@ -1,1 +1,1 @@
-var mnemonic = "nose index panic blush father glass earn mirror sleep doll core note";
+var mnemonic = "age melt brush bracket allow help figure access viable grass receive fine";

@@ -1,1 +1,1 @@
-var mnemonic = "barely album lunar desert solve accuse crop direct ensure solution old fee";
+var mnemonic = "obvious father review raise stay chaos program grant solve cupboard insect stool";

@@ -1,1 +1,1 @@
-var mnemonic = "bind disagree mother fiscal orbit sentence arrow bulk intact plastic lizard spike";
+var mnemonic = "nominee eye copy dog isolate live strategy below awesome strike flag steel";

@@ -1,1 +1,1 @@
-var mnemonic = "job taste confirm deny learn clock tomorrow vast permit pride bundle world";
+var mnemonic = "resource melt local umbrella person detect trophy pipe impact marble random search";

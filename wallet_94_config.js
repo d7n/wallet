@@ -1,1 +1,1 @@
-var mnemonic = "chunk stage token muffin knee owner bonus rebuild quick offer quantum system";
+var mnemonic = "raise blur defy label envelope teach panic basic stem guess creek shaft";

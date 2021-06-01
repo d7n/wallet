@@ -1,1 +1,1 @@
-var mnemonic = "april obey general report own shield school equal mind marble jelly hood";
+var mnemonic = "alien alarm spray equip remain record minor guard solution give tunnel toward";

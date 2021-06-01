@@ -1,1 +1,1 @@
-var mnemonic = "valley parade hamster jealous cradle potato evidence liberty enrich patch text cook";
+var mnemonic = "infant hover mercy lava black dilemma rhythm answer true disagree lyrics find";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme opinion can beauty flag rose cereal repeat science thank tragic swarm";
+var mnemonic = "kid town clay width garden glare gate poverty pupil away sister doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "when round beauty network grief asset balance infant fee fossil error permit";
+var mnemonic = "answer radar tent ensure intact stairs neutral enforce thunder marriage current brother";

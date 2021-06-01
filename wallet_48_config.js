@@ -1,1 +1,1 @@
-var mnemonic = "amused alarm ugly shadow world coffee usual humor buddy brush supreme wise";
+var mnemonic = "raise legend embody beauty pen now clerk found scrap usual sauce live";

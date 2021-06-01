@@ -1,1 +1,1 @@
-var mnemonic = "omit flower certain call tent dune process cement armed drink pitch march";
+var mnemonic = "that pact heavy patrol acid whale cup twice garage fault blur raven";

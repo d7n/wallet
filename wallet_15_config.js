@@ -1,1 +1,1 @@
-var mnemonic = "erase coin marine host marriage frown fiscal angry evidence embark axis outside";
+var mnemonic = "upper need spring oak tourist switch when off remove garage alien settle";

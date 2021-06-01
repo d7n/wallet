@@ -1,1 +1,1 @@
-var mnemonic = "reject aspect avocado draw tuna today word egg frog elegant rice input";
+var mnemonic = "okay horn enlist satoshi sunset silver hedgehog crack poem luxury slab final";

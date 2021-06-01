@@ -1,1 +1,1 @@
-var mnemonic = "employ trade direct until second share buzz fiscal raise another plug damp";
+var mnemonic = "filter move duty apart cigar fall umbrella mother fringe column again leopard";

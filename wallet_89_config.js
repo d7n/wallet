@@ -1,1 +1,1 @@
-var mnemonic = "prevent sunny undo strong shallow shuffle science symptom ordinary script engage park";
+var mnemonic = "asthma hole purse gorilla orchard idle access kidney execute person coin horror";

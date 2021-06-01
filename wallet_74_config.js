@@ -1,1 +1,1 @@
-var mnemonic = "convince maple season life castle door busy pig dynamic stairs course utility";
+var mnemonic = "illness another example two mom doctor desert remain earth east small analyst";

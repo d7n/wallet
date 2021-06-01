@@ -1,1 +1,1 @@
-var mnemonic = "truck letter auto general north correct visit merge arm toilet system spawn";
+var mnemonic = "chef relief random tent album relax shrug chronic visa captain cross uncle";

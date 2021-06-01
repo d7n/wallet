@@ -1,1 +1,1 @@
-var mnemonic = "brain strong alcohol slot wine humor laugh enact charge sphere silver mom";
+var mnemonic = "fiction north merit enhance define palm river lazy clump audit system tenant";

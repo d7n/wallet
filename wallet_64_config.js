@@ -1,1 +1,1 @@
-var mnemonic = "south age slot auction carpet cargo sea tissue axis rib disease shell";
+var mnemonic = "edge glue lawn bus extend enlist turtle language race coil orchard catch";

@@ -1,1 +1,1 @@
-var mnemonic = "menu invite spread bundle vivid length dignity you drip labor jealous sword";
+var mnemonic = "cereal tonight wedding alley observe grass rival romance cliff neck giggle seed";

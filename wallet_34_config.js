@@ -1,1 +1,1 @@
-var mnemonic = "edge voyage reopen clock nurse depth pigeon motor naive half much submit";
+var mnemonic = "quality true diesel crazy staff hidden hungry upgrade blood announce border tomato";

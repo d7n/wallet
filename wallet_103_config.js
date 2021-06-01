@@ -1,1 +1,1 @@
-var mnemonic = "family wrist invest bomb ribbon web usage valve never pen grow sad";
+var mnemonic = "priority grain very display bring jump melody wheat inject evoke hole satisfy";

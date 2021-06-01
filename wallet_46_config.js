@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur swift afford know where sunset certain cheese hint hill hospital lazy";
+var mnemonic = "surface panda inhale idea night adapt current rose omit autumn dial boil";

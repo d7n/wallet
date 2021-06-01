@@ -1,1 +1,1 @@
-var mnemonic = "nominee joke ostrich domain income bone theory release usage desk paddle harbor";
+var mnemonic = "dad fossil bitter barely occur axis estate culture inform huge goat tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow nephew road tobacco person fun vote disagree board response pepper april";
+var mnemonic = "mention museum siren film bomb use bamboo repeat favorite retire peace warm";

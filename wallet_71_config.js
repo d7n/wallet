@@ -1,1 +1,1 @@
-var mnemonic = "one cloud wall urge furnace mail country warm draft giant chef parent";
+var mnemonic = "mobile order minute pear year asthma forward rebuild expire universe stuff blouse";

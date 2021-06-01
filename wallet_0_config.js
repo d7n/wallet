@@ -1,1 +1,1 @@
-var mnemonic = "either soup unique sugar alert nuclear popular tenant pet broken address area";
+var mnemonic = "panel erupt math sadness mystery husband better art orchard caution mixed lamp";

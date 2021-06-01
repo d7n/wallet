@@ -1,1 +1,1 @@
-var mnemonic = "assault mixed light fame normal strategy title hurdle flower response empower merry";
+var mnemonic = "source creek moon employ spatial town sight someone submit fringe poet pizza";

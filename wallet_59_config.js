@@ -1,1 +1,1 @@
-var mnemonic = "check nuclear assume anger pizza sight fragile metal crash often spice balcony";
+var mnemonic = "cry uncover mercy thank fantasy mixed bridge cool hip quit renew subway";

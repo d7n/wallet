@@ -1,1 +1,1 @@
-var mnemonic = "harbor december conduct arctic pretty shop volcano exist able buddy urge bag";
+var mnemonic = "color trick chalk october panel gloom gift glove scare time split ill";

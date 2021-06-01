@@ -1,1 +1,1 @@
-var mnemonic = "pelican used february rookie step struggle evoke join transfer spider error life";
+var mnemonic = "dragon neutral question regret file still vendor country flame cup gauge fire";

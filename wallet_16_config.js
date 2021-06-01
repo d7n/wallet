@@ -1,1 +1,1 @@
-var mnemonic = "join fault pupil refuse reason kick link toy split clap shine buddy";
+var mnemonic = "random fine blade lift elegant hole buddy state know tired silent ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "visual square limit milk attitude switch mixture frame easily jaguar still budget";
+var mnemonic = "husband write surface embark grab peasant panel unfold victory profit belt sword";
