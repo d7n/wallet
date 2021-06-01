@@ -1,1 +1,1 @@
-var mnemonic = "measure pattern bottom ability layer kiss donor april mixed vacant flush pipe";
+var mnemonic = "change venture dynamic patch invest cool february spray couple spot crystal zoo";

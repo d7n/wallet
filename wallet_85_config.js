@@ -1,1 +1,1 @@
-var mnemonic = "fetch rebel play beyond curve siren spice manual height wreck cool antique";
+var mnemonic = "sentence express umbrella scrub drill assault lake kitchen match lazy measure unique";

@@ -1,1 +1,1 @@
-var mnemonic = "salute buyer awful bronze prefer crumble crystal sad actress twist grape invest";
+var mnemonic = "year admit donor match old hub section exotic step flush club finger";

@@ -1,1 +1,1 @@
-var mnemonic = "dash satisfy evidence true ginger rubber art random mercy lawsuit midnight gentle";
+var mnemonic = "rally young express cousin month keep feed ghost amused awkward call tobacco";

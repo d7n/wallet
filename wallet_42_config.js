@@ -1,1 +1,1 @@
-var mnemonic = "immense jaguar change hero long next aspect notable people eagle citizen unit";
+var mnemonic = "staff tomorrow guitar valid actor crisp switch half uncle predict student bind";

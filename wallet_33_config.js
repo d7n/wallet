@@ -1,1 +1,1 @@
-var mnemonic = "stomach crumble sadness abstract gasp lava quality float repair attack lonely slush";
+var mnemonic = "today host affair used help road air fork enter drive afford mystery";

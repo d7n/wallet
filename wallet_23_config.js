@@ -1,1 +1,1 @@
-var mnemonic = "vicious argue rack miss combine grape baby upgrade industry void tunnel wasp";
+var mnemonic = "soft day crew airport leave discover furnace stomach ghost split attitude merge";

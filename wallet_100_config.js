@@ -1,1 +1,1 @@
-var mnemonic = "credit sugar machine conduct stick idea attack lottery frown invest mesh fog";
+var mnemonic = "morning stereo limb exclude sphere flush curve when help trap teach lawsuit";

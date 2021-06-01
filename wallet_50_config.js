@@ -1,1 +1,1 @@
-var mnemonic = "farm elder reduce effort produce brass wage ghost eager review okay scorpion";
+var mnemonic = "floor business border music bench embody pretty bubble belt tenant chef museum";

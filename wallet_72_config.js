@@ -1,1 +1,1 @@
-var mnemonic = "feel talent search dirt power two erosion coast midnight motor retreat truly";
+var mnemonic = "brother umbrella hospital club easily essay office giant protect smooth choose sibling";

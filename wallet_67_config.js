@@ -1,1 +1,1 @@
-var mnemonic = "hat captain jar water curve hat bonus work virtual tonight female sister";
+var mnemonic = "parent violin endless unfair side muscle install bird eagle gravity truck frame";

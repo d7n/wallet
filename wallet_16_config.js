@@ -1,1 +1,1 @@
-var mnemonic = "between parrot journey switch kidney keep vapor deliver repeat sick coin release";
+var mnemonic = "sure blur cause gift elegant true train shoot melody sleep coin quantum";

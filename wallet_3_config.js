@@ -1,1 +1,1 @@
-var mnemonic = "thrive calm machine luggage subject country album inflict strike blood plate grief";
+var mnemonic = "dream industry program credit among ship whale point escape never globe toast";

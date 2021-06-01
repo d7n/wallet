@@ -1,1 +1,1 @@
-var mnemonic = "code whisper fork entire scout manual iron media travel hospital verb crouch";
+var mnemonic = "stage enemy virus topple reflect annual attack nothing venture hover calm foil";

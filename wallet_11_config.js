@@ -1,1 +1,1 @@
-var mnemonic = "actress hundred survey script cabbage because elbow neglect parent host combine begin";
+var mnemonic = "soldier yard market dose accident marine fragile sorry universe flag major super";

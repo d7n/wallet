@@ -1,1 +1,1 @@
-var mnemonic = "tent scrub unveil woman moment unit senior rhythm bulk you local sniff";
+var mnemonic = "slender warm party pair double step town drama exercise echo gravity vote";

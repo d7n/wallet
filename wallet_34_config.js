@@ -1,1 +1,1 @@
-var mnemonic = "garden empower cereal monster flash pride liar duty dilemma horror learn curtain";
+var mnemonic = "crash month story avoid engage fire tank swap opera rubber flat camera";

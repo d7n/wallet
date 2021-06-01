@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wagon pizza opera canyon glad vault lonely skirt material member vault";
+var mnemonic = "parent account suit chief poet couch source crystal surprise shove various cattle";

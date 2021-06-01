@@ -1,1 +1,1 @@
-var mnemonic = "advice town deliver predict happy idea question lawn song nest caught net";
+var mnemonic = "exit antique leave order coconut carbon ketchup easy enhance strategy bread drop";

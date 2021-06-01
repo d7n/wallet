@@ -1,1 +1,1 @@
-var mnemonic = "ethics firm office movie where document jeans diesel mobile across hockey soda";
+var mnemonic = "squirrel bridge hamster mixed distance brief catalog heavy story load actual civil";

@@ -1,1 +1,1 @@
-var mnemonic = "circle decide immense vivid torch chaos salt course among limit equip health";
+var mnemonic = "deal cattle time horse check skull black mixed high glass begin bid";

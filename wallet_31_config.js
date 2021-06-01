@@ -1,1 +1,1 @@
-var mnemonic = "comfort fury thumb either cactus supply speak provide about treat improve ten";
+var mnemonic = "bulb sphere tourist creek extend almost situate imitate apart person choice enlist";

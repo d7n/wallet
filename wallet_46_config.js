@@ -1,1 +1,1 @@
-var mnemonic = "humble army snap canal wealth toy reject jump buyer fragile million guide";
+var mnemonic = "twelve endorse canal bacon treat soup thing addict wrestle gadget steak useless";

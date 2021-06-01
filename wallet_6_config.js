@@ -1,1 +1,1 @@
-var mnemonic = "amateur replace below report rough gap meat envelope beyond balcony culture chief";
+var mnemonic = "develop anger verb limb amateur cost brief end box flock bean broken";

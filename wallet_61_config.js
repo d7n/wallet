@@ -1,1 +1,1 @@
-var mnemonic = "capable defense say elevator section recycle vacuum virus catalog leave glow mistake";
+var mnemonic = "pledge monkey luggage december fresh ridge live lava abstract chef cat magic";

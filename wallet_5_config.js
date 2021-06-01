@@ -1,1 +1,1 @@
-var mnemonic = "tail member juice repair jar rabbit life refuse child number team armed";
+var mnemonic = "explain casino swap walk school wave try crime beach spy address harsh";

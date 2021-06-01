@@ -1,1 +1,1 @@
-var mnemonic = "message resource govern jaguar friend tank spatial pretty atom volume accident hurt";
+var mnemonic = "patient smooth inject concert silver sample elder heart rebuild enforce junk soft";

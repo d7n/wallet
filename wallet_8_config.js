@@ -1,1 +1,1 @@
-var mnemonic = "evoke jump bar height urge liquid canal canyon rude arrange depth rich";
+var mnemonic = "code lawn tilt weird live cheese foster hurry north merge record juice";

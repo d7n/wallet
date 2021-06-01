@@ -1,1 +1,1 @@
-var mnemonic = "alien bacon text ride author toe hundred force one vicious secret august";
+var mnemonic = "slow economy guilt switch produce amount tuition rice wolf quarter fuel immune";

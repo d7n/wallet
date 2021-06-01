@@ -1,1 +1,1 @@
-var mnemonic = "celery warm cradle coyote example taxi behave super used culture draft bridge";
+var mnemonic = "recipe already raise weekend echo nut nominee any steak rack parrot bracket";

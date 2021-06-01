@@ -1,1 +1,1 @@
-var mnemonic = "mushroom negative organ gesture behave truly chat stomach prevent lyrics spawn park";
+var mnemonic = "pet liquid embody audit network chapter spin board stuff motion husband skate";

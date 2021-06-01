@@ -1,1 +1,1 @@
-var mnemonic = "zebra radio antique minor quality cannon antenna indicate taxi damage diagram machine";
+var mnemonic = "basket husband miss lady fuel all female youth false myself hood decrease";

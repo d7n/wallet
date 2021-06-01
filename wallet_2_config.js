@@ -1,1 +1,1 @@
-var mnemonic = "disagree pattern pudding also feed again ivory electric connect boring amateur girl";
+var mnemonic = "fault dwarf bargain orange guitar jaguar hurry ice large tone runway mosquito";

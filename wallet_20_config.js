@@ -1,1 +1,1 @@
-var mnemonic = "allow army special kind toward purchase tackle movie nothing regret lucky beach";
+var mnemonic = "alert chronic antenna exhaust board undo special provide bright boring rival art";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella dream actress office system cruel left life wish kit casual track";
+var mnemonic = "involve swim beyond assume tired size route arrow stock toy give journey";

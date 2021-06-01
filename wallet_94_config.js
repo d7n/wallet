@@ -1,1 +1,1 @@
-var mnemonic = "grace plastic enrich very syrup sibling park brand genre frequent consider become";
+var mnemonic = "action dog earn obvious sand trip clutch grant valve brave arctic hollow";

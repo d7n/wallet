@@ -1,1 +1,1 @@
-var mnemonic = "predict coach clutch pen execute fiction possible use panel dilemma moment eyebrow";
+var mnemonic = "citizen resource decade perfect cage involve outdoor spin amount extra math surge";

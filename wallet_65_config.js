@@ -1,1 +1,1 @@
-var mnemonic = "cash comfort old release siege laptop video express runway gossip subject floor";
+var mnemonic = "choice core badge price art foster cargo aunt sheriff midnight trophy raven";

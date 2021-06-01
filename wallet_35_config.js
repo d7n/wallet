@@ -1,1 +1,1 @@
-var mnemonic = "pink poem click ancient you finish comfort suit install net click harbor";
+var mnemonic = "later sail envelope lift decide start large resemble have neutral enact diary";

@@ -1,1 +1,1 @@
-var mnemonic = "reform myth network laptop exclude drive promote census fork market nominee seek";
+var mnemonic = "illegal power cherry vibrant involve dilemma wait buffalo opinion carbon mom surface";

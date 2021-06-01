@@ -1,1 +1,1 @@
-var mnemonic = "talk renew vehicle mutual castle depth sphere puzzle wire trim wonder cake";
+var mnemonic = "skill punch brass barrel theme then derive twin cousin hotel nephew chase";

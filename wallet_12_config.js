@@ -1,1 +1,1 @@
-var mnemonic = "ready solar sibling jazz smile auto month merit below trial wrist head";
+var mnemonic = "shield glide spider mad oppose cliff nose catalog pride fade talent miracle";

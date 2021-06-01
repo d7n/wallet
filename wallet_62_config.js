@@ -1,1 +1,1 @@
-var mnemonic = "earth region net romance object place inch worth often domain foam brick";
+var mnemonic = "universe hire insane emotion fatigue today mad flat area possible earn sport";

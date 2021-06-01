@@ -1,1 +1,1 @@
-var mnemonic = "forget labor spatial play never inner hurry scorpion wrist pair soldier legal";
+var mnemonic = "cricket either tiny soccer barely lumber blossom brass palm edit multiply rug";

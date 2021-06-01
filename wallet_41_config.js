@@ -1,1 +1,1 @@
-var mnemonic = "senior kiwi panic bike soccer stamp comic manage weird festival motor refuse";
+var mnemonic = "doctor tiger will tortoise goddess diagram accident place phrase cinnamon raise melt";

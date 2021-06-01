@@ -1,1 +1,1 @@
-var mnemonic = "horse dentist very piano eight place track dragon hundred judge tunnel bench";
+var mnemonic = "turtle truck announce gasp hire hockey erupt have want local glance mosquito";

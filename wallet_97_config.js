@@ -1,1 +1,1 @@
-var mnemonic = "cross pretty relief trend video fence federal seat boy capable dial dinner";
+var mnemonic = "wing hover school winter sign dynamic okay lab later effort album garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "save buddy gown seek bid legend promote grow scheme unknown level omit";
+var mnemonic = "arctic upper palm quarter rough guard judge fault squeeze item clarify blouse";

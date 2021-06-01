@@ -1,1 +1,1 @@
-var mnemonic = "guard address replace fade collect hedgehog comfort measure gaze hill cheap squeeze";
+var mnemonic = "peanut pumpkin all uncle slogan churn gas oval mushroom liberty vocal code";

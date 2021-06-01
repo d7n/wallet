@@ -1,1 +1,1 @@
-var mnemonic = "mosquito depend rely measure renew obey item sibling patrol exclude runway kind";
+var mnemonic = "dream nature coconut mouse play auction like fury grape deposit stairs menu";

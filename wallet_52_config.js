@@ -1,1 +1,1 @@
-var mnemonic = "pull pride put sail congress claim game tiger life trip measure ivory";
+var mnemonic = "history note fun strike strike undo must pledge sick slush genius sea";

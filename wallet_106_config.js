@@ -1,1 +1,1 @@
-var mnemonic = "gadget curve goat merit maid south flower organ dragon blanket twin empty";
+var mnemonic = "elevator behave design gospel tilt faint execute coin scorpion throw gym filter";

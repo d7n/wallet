@@ -1,1 +1,1 @@
-var mnemonic = "dismiss duty health phone maple one cake rely idea frown health angle";
+var mnemonic = "absorb trash uncle object diary rebuild airport isolate safe ski bitter certain";

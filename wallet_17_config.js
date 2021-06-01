@@ -1,1 +1,1 @@
-var mnemonic = "scene steak shoot provide envelope food property betray panda actual funny leader";
+var mnemonic = "advance lock invest squeeze real zebra spring limit rate defense target sponsor";

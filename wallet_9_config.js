@@ -1,1 +1,1 @@
-var mnemonic = "since tomorrow risk online impose disorder vault dream elevator august key child";
+var mnemonic = "heart spend twin carpet chuckle skate near grace roof dinosaur wagon right";

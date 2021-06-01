@@ -1,1 +1,1 @@
-var mnemonic = "arrange recipe sun first spare chronic burden flash domain review choose glimpse";
+var mnemonic = "ten wagon buffalo wrestle card heart slam south duck observe weekend spoon";

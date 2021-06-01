@@ -1,1 +1,1 @@
-var mnemonic = "process hold verify grain apology blossom reduce screen earn human comfort local";
+var mnemonic = "hurdle duck thing rose corn begin morning draft inhale health labor slice";

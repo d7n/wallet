@@ -1,1 +1,1 @@
-var mnemonic = "select egg artwork cool maximum umbrella enroll cluster case extend sleep mass";
+var mnemonic = "surround joke young device kiwi valve rough alert ship green salon scheme";

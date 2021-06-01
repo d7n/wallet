@@ -1,1 +1,1 @@
-var mnemonic = "have margin soup sauce east sketch horror dry scrap point alarm involve";
+var mnemonic = "viable rich million blouse bronze solid digital almost accident web grocery cake";

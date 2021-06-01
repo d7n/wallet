@@ -1,1 +1,1 @@
-var mnemonic = "vapor coffee crumble bundle forward fix kit sentence oyster tower across elite";
+var mnemonic = "order dinosaur inner random oppose diamond virus table valid inch visual lunch";

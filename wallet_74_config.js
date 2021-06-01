@@ -1,1 +1,1 @@
-var mnemonic = "coast repeat warrior carry fabric grain strike kid crawl have polar bright";
+var mnemonic = "current choice desert night oblige bind enemy network tomorrow yellow page balance";

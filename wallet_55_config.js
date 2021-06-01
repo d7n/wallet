@@ -1,1 +1,1 @@
-var mnemonic = "toe dentist surprise twin bunker side risk cage habit scheme slab rhythm";
+var mnemonic = "reform trip stem dignity globe tennis citizen beauty island lawsuit board arrive";

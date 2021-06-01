@@ -1,1 +1,1 @@
-var mnemonic = "century group collect filter story logic story column negative master sea quarter";
+var mnemonic = "leave fiber brick joy cart venture token lend scheme gallery deputy angry";

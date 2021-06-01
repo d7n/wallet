@@ -1,1 +1,1 @@
-var mnemonic = "rotate large rent winner labor damp desk copper rapid monkey lucky fault";
+var mnemonic = "bright enact play hair vote fit long month fatigue nuclear whip outside";

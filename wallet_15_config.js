@@ -1,1 +1,1 @@
-var mnemonic = "early use neither settle salt gadget cake spawn recall this guitar diamond";
+var mnemonic = "brother stage velvet oval among shuffle way conduct basket slide under clinic";

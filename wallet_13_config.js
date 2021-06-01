@@ -1,1 +1,1 @@
-var mnemonic = "grid tell vague hub pole ability cake father morning income cup tray";
+var mnemonic = "pilot hat salt upset voyage board saddle omit fly airport drive real";

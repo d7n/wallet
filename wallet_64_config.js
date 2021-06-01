@@ -1,1 +1,1 @@
-var mnemonic = "evolve coin poet fiber nerve nuclear fossil accuse grant gasp margin capable";
+var mnemonic = "hammer door fame pen broccoli lunar spirit room off gentle put emotion";

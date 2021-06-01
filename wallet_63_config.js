@@ -1,1 +1,1 @@
-var mnemonic = "sun punch safe casual grant curtain category agent plunge machine menu cloth";
+var mnemonic = "rich course olympic orange key ancient hat announce property must apart clinic";

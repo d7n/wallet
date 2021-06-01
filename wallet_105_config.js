@@ -1,1 +1,1 @@
-var mnemonic = "label mandate patch mix insane start occur whale animal window apology pistol";
+var mnemonic = "nation steak differ dawn claim toward silent scatter crunch margin tunnel autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "plug hollow demise cruise fitness unfold bulk spoon river talk empower design";
+var mnemonic = "ridge capital wheat twenty jelly scrap fit upon spirit fury blood wash";

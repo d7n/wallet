@@ -1,1 +1,1 @@
-var mnemonic = "banner sample photo point own grass glory vicious song snow sister merit";
+var mnemonic = "soup episode glance matter muffin load wasp pottery bread squeeze consider hub";

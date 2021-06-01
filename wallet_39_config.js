@@ -1,1 +1,1 @@
-var mnemonic = "elephant news balance art patient elevator interest vacuum truth among diesel laptop";
+var mnemonic = "gain walnut strong craft today moment must economy orbit equip search find";

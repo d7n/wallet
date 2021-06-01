@@ -1,1 +1,1 @@
-var mnemonic = "remind correct moon success grunt image chicken matter giant wear swim transfer";
+var mnemonic = "orbit cancel afford polar dry you clap cactus various cloth claim defense";

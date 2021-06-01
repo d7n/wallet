@@ -1,1 +1,1 @@
-var mnemonic = "adapt frozen program empty actual concert bronze spike maid recipe fatal six";
+var mnemonic = "impulse empty hub spin senior syrup flight bag month family winter govern";

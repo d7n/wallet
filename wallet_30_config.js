@@ -1,1 +1,1 @@
-var mnemonic = "margin clock outdoor puppy slide wave march short minimum solid head cage";
+var mnemonic = "engage owner breeze pledge steak buyer music fee finish common ranch someone";

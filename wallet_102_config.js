@@ -1,1 +1,1 @@
-var mnemonic = "fuel foot minor twin dish average train control nerve cinnamon puppy acquire";
+var mnemonic = "vast minimum chest cloud bomb benefit festival drop tray try town image";

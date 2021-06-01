@@ -1,1 +1,1 @@
-var mnemonic = "involve smile lyrics casino hurdle turtle nominee rubber trick patrol mind tunnel";
+var mnemonic = "donkey twin nut almost mother wisdom obscure kite emerge junior mansion glide";

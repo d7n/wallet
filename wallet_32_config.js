@@ -1,1 +1,1 @@
-var mnemonic = "base almost head unique pond quality egg crucial autumn ginger hybrid basic";
+var mnemonic = "ceiling wife noise wreck ugly gym lend define shove arrow kick pull";

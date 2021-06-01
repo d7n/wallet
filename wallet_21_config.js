@@ -1,1 +1,1 @@
-var mnemonic = "bullet victory monitor only error rent rate coin cheese report hover flag";
+var mnemonic = "inmate jeans accident fuel enrich mosquito clinic nerve usage erase damage peasant";

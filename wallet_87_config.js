@@ -1,1 +1,1 @@
-var mnemonic = "ghost public normal supreme pony mail water oblige pelican actor tuna once";
+var mnemonic = "horror garbage toward mother swing group aspect section observe fetch carpet panda";

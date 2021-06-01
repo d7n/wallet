@@ -1,1 +1,1 @@
-var mnemonic = "width camera antique seek hundred reopen reunion ripple rough humble weasel dizzy";
+var mnemonic = "weapon govern pigeon unaware wealth cactus phone level quiz rice number wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe language sentence brief endorse fiction network anchor notice idle treat october";
+var mnemonic = "notice thrive current hub inmate lawn pottery song reopen oxygen such warrior";

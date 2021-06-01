@@ -1,1 +1,1 @@
-var mnemonic = "message wall average unveil provide spring click again observe island naive rigid";
+var mnemonic = "inner inmate denial blast cupboard discover intact rapid assist oyster prosper talk";

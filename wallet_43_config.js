@@ -1,1 +1,1 @@
-var mnemonic = "amazing diesel shiver oxygen stuff lake drill method taxi talent buyer slot";
+var mnemonic = "security hamster balcony shaft timber image measure void occur path buyer tone";

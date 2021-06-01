@@ -1,1 +1,1 @@
-var mnemonic = "camera defense wolf volcano weird judge woman group scout discover alone source";
+var mnemonic = "identify license sick slogan another lunar better inside yellow roast outer tuna";

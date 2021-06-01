@@ -1,1 +1,1 @@
-var mnemonic = "master legal better shaft apple master giraffe blouse public busy about elite";
+var mnemonic = "nest forward lava market banana dilemma defense summer clump physical ribbon unusual";

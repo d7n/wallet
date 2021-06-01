@@ -1,1 +1,1 @@
-var mnemonic = "latin pigeon rapid century zero melt catalog mind prosper taste ecology decide";
+var mnemonic = "whisper edge name pride angle deposit brother gravity dune river only tent";

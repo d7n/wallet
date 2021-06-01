@@ -1,1 +1,1 @@
-var mnemonic = "explain earn clip erode exotic alcohol absorb icon clerk tribe escape taste";
+var mnemonic = "cliff slab truck make dust sunny donate rival improve spike unit forest";

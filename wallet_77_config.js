@@ -1,1 +1,1 @@
-var mnemonic = "juice estate unfold view giraffe print february length leader manage divide office";
+var mnemonic = "autumn traffic float salmon throw trade noble fatigue supply oil ivory concert";

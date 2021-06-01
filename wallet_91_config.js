@@ -1,1 +1,1 @@
-var mnemonic = "inhale energy scissors book theme symptom vintage turtle cry also double govern";
+var mnemonic = "blast online amused method fashion return subway evolve rail surprise tip open";

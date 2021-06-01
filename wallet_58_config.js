@@ -1,1 +1,1 @@
-var mnemonic = "antique tumble lobster choose breeze impact that evoke emerge sausage outdoor bonus";
+var mnemonic = "noise ring round caught another father planet bottom absurd marine essay purity";

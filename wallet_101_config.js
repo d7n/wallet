@@ -1,1 +1,1 @@
-var mnemonic = "aunt near music motion impulse bulk intact true seminar arrange attitude tape";
+var mnemonic = "appear fragile ensure flush assume moon convince obscure spin yellow force hen";

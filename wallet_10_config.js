@@ -1,1 +1,1 @@
-var mnemonic = "crater bone evidence ozone genre time erase crucial walk destroy deliver address";
+var mnemonic = "armor awesome link vapor prosper unable alley subway bulb hover birth boss";

@@ -1,1 +1,1 @@
-var mnemonic = "onion vibrant decide company dinosaur cabbage drop drama nest thrive resemble assume";
+var mnemonic = "skate ceiling advice hidden opera accuse verify jelly primary cricket bid betray";
