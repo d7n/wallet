@@ -1,1 +1,1 @@
-var mnemonic = "skate brass hollow grant charge athlete episode install flee deliver smart gown";
+var mnemonic = "zoo dignity place raise describe lottery visa drastic frozen blue pet motor";

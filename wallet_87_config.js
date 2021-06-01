@@ -1,1 +1,1 @@
-var mnemonic = "shoot tone unusual decorate length two success neck orchard rich sell river";
+var mnemonic = "lazy misery diagram layer faculty rather seven cricket work merry fault slot";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry chest decade general gown magnet pool dream control arrange emotion corn";
+var mnemonic = "expire just soft clinic scorpion jar dragon struggle gate pull hurdle fiction";

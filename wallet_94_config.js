@@ -1,1 +1,1 @@
-var mnemonic = "salt home circle morning tell truck decrease project shine paddle copy stay";
+var mnemonic = "toss grace right cost eye myth party grit one scare banner frog";

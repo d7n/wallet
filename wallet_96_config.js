@@ -1,1 +1,1 @@
-var mnemonic = "transfer answer marine awake report bridge spring must normal hole fuel plug";
+var mnemonic = "real tree soldier cute ostrich empty arrest inner exclude bulk code latin";

@@ -1,1 +1,1 @@
-var mnemonic = "riot educate slight life assault mother spawn fine lounge globe bone weather";
+var mnemonic = "exotic street merit steel smoke step wish stay supply icon middle chalk";

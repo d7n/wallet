@@ -1,1 +1,1 @@
-var mnemonic = "artist among prefer author powder immune chaos retreat more print return patient";
+var mnemonic = "dumb collect agree flip trip shock soccer middle sure refuse slam off";

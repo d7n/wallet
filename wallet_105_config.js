@@ -1,1 +1,1 @@
-var mnemonic = "muscle trust soul indicate churn pipe office sand across plate foil ozone";
+var mnemonic = "pattern prison loyal vehicle primary side dog city swallow hockey town frown";

@@ -1,1 +1,1 @@
-var mnemonic = "picture slight square crater tooth want broccoli enroll card slice document type";
+var mnemonic = "vague olive ostrich power same intact oblige pluck skill cause pioneer prosper";

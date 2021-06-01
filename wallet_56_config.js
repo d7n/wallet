@@ -1,1 +1,1 @@
-var mnemonic = "cable essay draft conduct coconut gold erode promote decade sweet member coyote";
+var mnemonic = "verb breeze tail drop cruel sketch pipe tape case thrive erupt beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact afford call alley rifle quit claw myself barely monitor screen beyond";
+var mnemonic = "quick service north element steel fetch float horror fish stereo rough margin";

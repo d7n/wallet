@@ -1,1 +1,1 @@
-var mnemonic = "key until rice february hip icon flee off crash pride caught come";
+var mnemonic = "current craft genre parent lens chair awful torch surprise congress dove gravity";

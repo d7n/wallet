@@ -1,1 +1,1 @@
-var mnemonic = "biology idle oak goddess spring endless legal nest grit firm furnace cart";
+var mnemonic = "quality shoot copper erupt shaft first slot slender speed shell about ordinary";

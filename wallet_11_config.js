@@ -1,1 +1,1 @@
-var mnemonic = "gap pledge jazz double clap mesh cement pill brave vintage salute foam";
+var mnemonic = "remind use small club never place tragic gain reform skirt flower logic";

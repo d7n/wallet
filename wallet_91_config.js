@@ -1,1 +1,1 @@
-var mnemonic = "afraid call elevator tumble faint large anchor produce magic combine also salon";
+var mnemonic = "bracket april village rent elephant wolf chapter glare smile rich basic citizen";

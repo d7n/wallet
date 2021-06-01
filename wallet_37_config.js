@@ -1,1 +1,1 @@
-var mnemonic = "minor rule pool host fat mango time excuse need erase increase again";
+var mnemonic = "lamp vibrant monster shift treat vacant basic element debate detail leopard bread";

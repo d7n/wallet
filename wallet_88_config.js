@@ -1,1 +1,1 @@
-var mnemonic = "brass shallow melody ball jewel fatigue knife diagram gasp dilemma suit twice";
+var mnemonic = "vapor area message sunset middle enforce climb rabbit nest issue escape suffer";

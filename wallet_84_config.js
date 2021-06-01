@@ -1,1 +1,1 @@
-var mnemonic = "toward split problem across embark split thumb cash promote always amazing follow";
+var mnemonic = "then okay vehicle nurse absent climb enhance route rail happy inform holiday";

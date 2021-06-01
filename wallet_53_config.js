@@ -1,1 +1,1 @@
-var mnemonic = "drive lecture ride regret boat slam group solar custom panther copper gate";
+var mnemonic = "axis trade delay like sun burden main resist hire you hotel cupboard";

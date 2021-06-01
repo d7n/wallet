@@ -1,1 +1,1 @@
-var mnemonic = "tone spot menu photo pretty off gloom west dirt random ten bean";
+var mnemonic = "adapt bulk height wrong opera west truck power organ twice purpose worth";

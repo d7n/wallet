@@ -1,1 +1,1 @@
-var mnemonic = "text twenty mobile expand cabin nephew crowd loop glue okay fragile shield";
+var mnemonic = "clarify gold fiscal hello include forward special toast lemon spike become walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "defense liar used just smile film fade nasty resource buffalo argue lazy";
+var mnemonic = "emerge magic gold avocado gesture garment wall check random note below forget";

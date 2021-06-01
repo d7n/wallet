@@ -1,1 +1,1 @@
-var mnemonic = "crisp soap play crowd olive gain awake sign left swap guilt pair";
+var mnemonic = "make alone maple aunt clinic welcome blood clip month expose dose lion";

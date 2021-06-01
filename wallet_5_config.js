@@ -1,1 +1,1 @@
-var mnemonic = "adjust civil slam about cup buyer drum acquire nation report coil plate";
+var mnemonic = "burger monkey blood bring vanish swallow sting neglect nest praise stay utility";

@@ -1,1 +1,1 @@
-var mnemonic = "easily bunker absorb weird negative minute later squirrel leaf peace west boss";
+var mnemonic = "indoor blame process expire surround day tenant silly lesson boil end sadness";

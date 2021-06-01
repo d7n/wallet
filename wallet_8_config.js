@@ -1,1 +1,1 @@
-var mnemonic = "travel wheat maximum organ general witness produce admit rookie explain grain venture";
+var mnemonic = "achieve opinion patch renew casino abandon gift retire end access pizza song";

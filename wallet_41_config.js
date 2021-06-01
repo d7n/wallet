@@ -1,1 +1,1 @@
-var mnemonic = "output chair social million another repeat spend used maid crater situate prize";
+var mnemonic = "fashion write fence forget nasty glove element oblige candy robust print jar";

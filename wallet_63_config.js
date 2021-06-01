@@ -1,1 +1,1 @@
-var mnemonic = "doll ignore travel bunker unfair holiday replace pitch learn sketch acquire boost";
+var mnemonic = "kingdom model diet custom improve drink option actor sausage gun twin boring";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom behave impulse shy offer raccoon unhappy wealth annual bulb upset toddler";
+var mnemonic = "crawl visit deliver derive recycle indicate illegal eternal tank post cancel letter";

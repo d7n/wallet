@@ -1,1 +1,1 @@
-var mnemonic = "adapt word team faith allow umbrella leg verify gesture check provide tackle";
+var mnemonic = "grain output silent garlic country mother ugly unknown orient noise pyramid smart";

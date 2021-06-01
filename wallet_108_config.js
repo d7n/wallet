@@ -1,1 +1,1 @@
-var mnemonic = "mom sing test kidney verb dance make slogan adult solve doll maid";
+var mnemonic = "grace crime diagram stove good rookie yellow indoor bronze wing cotton gun";

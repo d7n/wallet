@@ -1,1 +1,1 @@
-var mnemonic = "energy survey tomorrow marine jelly coil wonder sister guide snow silly caught";
+var mnemonic = "also tennis obey embrace fresh certain invest layer reward work drop skate";

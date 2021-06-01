@@ -1,1 +1,1 @@
-var mnemonic = "observe clever boat process term amused grace teach fluid describe merit cherry";
+var mnemonic = "giant matter pig shadow method cloud sign camp hurdle purse permit split";

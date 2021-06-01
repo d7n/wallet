@@ -1,1 +1,1 @@
-var mnemonic = "refuse nest mercy walnut reopen hub virus six quick book make service";
+var mnemonic = "patch appear oblige plunge room three mean ordinary erase endless inmate february";

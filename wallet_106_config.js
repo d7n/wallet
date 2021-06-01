@@ -1,1 +1,1 @@
-var mnemonic = "radar solar blue pretty write want leader work left property useless mass";
+var mnemonic = "surge around prize track blouse actress polar chunk rack lottery burden sock";

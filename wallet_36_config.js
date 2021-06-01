@@ -1,1 +1,1 @@
-var mnemonic = "response autumn month oppose peasant exhibit dumb stool measure travel parent crush";
+var mnemonic = "mutual tribe year similar great vivid bargain dry february spray trash bus";

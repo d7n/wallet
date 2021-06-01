@@ -1,1 +1,1 @@
-var mnemonic = "domain borrow penalty vibrant uniform remember illness despair bundle energy portion firm";
+var mnemonic = "potato receive color awkward stumble grow stem toe deposit come lamp odor";

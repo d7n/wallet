@@ -1,1 +1,1 @@
-var mnemonic = "cushion print motion uniform just milk board panda hip vehicle gaze phone";
+var mnemonic = "gossip syrup trip hen palm among sponsor food movie spray achieve rude";

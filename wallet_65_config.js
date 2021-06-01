@@ -1,1 +1,1 @@
-var mnemonic = "jump teach vocal anger sort frog run away match quantum nut buzz";
+var mnemonic = "crush team orange mule miss minimum uphold tilt giggle hire describe hat";

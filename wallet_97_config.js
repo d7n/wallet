@@ -1,1 +1,1 @@
-var mnemonic = "torch meat melody swamp two wait biology claw hint flower goat reopen";
+var mnemonic = "spring scan humble salmon combine force trouble height worry gate arrive soul";

@@ -1,1 +1,1 @@
-var mnemonic = "guide devote cancel stable issue submit door chest indoor boil track trend";
+var mnemonic = "hybrid pair damp any topple invest napkin fold dress distance kitten use";

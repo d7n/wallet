@@ -1,1 +1,1 @@
-var mnemonic = "damp unable soccer diary return feel loop special pattern minor surround hour";
+var mnemonic = "kind reduce typical cruel van culture quick lizard rose fire sadness pause";

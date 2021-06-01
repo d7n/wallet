@@ -1,1 +1,1 @@
-var mnemonic = "luxury current rural pen camp member save alley bulb museum behind blouse";
+var mnemonic = "harvest gasp uncle long milk debate cloth certain bread crunch lab forget";

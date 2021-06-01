@@ -1,1 +1,1 @@
-var mnemonic = "wine alert open away success wire vital taxi twice canvas scene ordinary";
+var mnemonic = "wheat knock trap pair prefer tell film deputy cool govern tennis gym";

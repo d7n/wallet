@@ -1,1 +1,1 @@
-var mnemonic = "garage thunder resource spread seven nation finger grant bounce subway bright wave";
+var mnemonic = "virtual then shoulder author innocent bundle glance vanish champion tunnel olympic reveal";

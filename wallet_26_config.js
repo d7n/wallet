@@ -1,1 +1,1 @@
-var mnemonic = "tissue test snap pigeon wolf glue inmate prepare stamp weather replace aim";
+var mnemonic = "rain tray master uncover step design top immense they boring broken arena";

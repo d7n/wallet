@@ -1,1 +1,1 @@
-var mnemonic = "harvest strong tiny away pistol alien water ability hungry club kingdom tenant";
+var mnemonic = "more tuition where sorry view problem behind tray action salmon razor twice";

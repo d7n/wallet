@@ -1,1 +1,1 @@
-var mnemonic = "thunder punch hood giant scout ship harsh indoor vocal usual outer monitor";
+var mnemonic = "damp disagree approve inside appear tobacco feed brave advance february use swear";

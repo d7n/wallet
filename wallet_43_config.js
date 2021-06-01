@@ -1,1 +1,1 @@
-var mnemonic = "include boost trash memory deliver supreme ice feed lion cigar urban dolphin";
+var mnemonic = "document field monkey negative grief torch action artist story box brisk local";

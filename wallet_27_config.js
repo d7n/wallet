@@ -1,1 +1,1 @@
-var mnemonic = "mind name oppose video artwork clock crash social autumn sand warrior alcohol";
+var mnemonic = "shed beauty sample betray blame into mandate found mandate unit invest elite";

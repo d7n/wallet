@@ -1,1 +1,1 @@
-var mnemonic = "special matter cram income payment giraffe tobacco notable olive orchard exist olympic";
+var mnemonic = "east gadget ankle dance wagon inherit sea fetch harvest scrap fit split";

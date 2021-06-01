@@ -1,1 +1,1 @@
-var mnemonic = "regular consider hunt pyramid insect nominee fossil weekend warrior junk invite rebuild";
+var mnemonic = "polar champion gossip club grit often dress zero zebra guard cruise riot";

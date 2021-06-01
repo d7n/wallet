@@ -1,1 +1,1 @@
-var mnemonic = "occur vital sheriff denial minute barely cloud biology perfect lens churn heavy";
+var mnemonic = "thumb off lunch close trip oblige spoon tiger twice cupboard rice august";

@@ -1,1 +1,1 @@
-var mnemonic = "tip spare ancient strategy forget renew hawk work soldier skate miracle autumn";
+var mnemonic = "short trumpet flame wheel come shell release zoo wrestle bracket midnight rigid";

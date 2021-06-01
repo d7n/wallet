@@ -1,1 +1,1 @@
-var mnemonic = "wreck sweet library sponsor grass denial pottery kite pizza fashion success valley";
+var mnemonic = "chicken genuine claw result noble torch satoshi broken toddler either pottery slow";

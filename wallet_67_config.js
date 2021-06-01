@@ -1,1 +1,1 @@
-var mnemonic = "radio anxiety enlist man kingdom image they garage hunt ribbon omit talk";
+var mnemonic = "curtain resource avocado join bench divide sight pride scene ocean squeeze stuff";

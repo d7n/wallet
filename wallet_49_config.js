@@ -1,1 +1,1 @@
-var mnemonic = "wear radar leg response day floor other holiday argue manage horse memory";
+var mnemonic = "retreat fiber climb crack accuse betray toilet myth bamboo gallery vintage height";

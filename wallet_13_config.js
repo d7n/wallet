@@ -1,1 +1,1 @@
-var mnemonic = "weather wink elegant confirm such bar olive area magic stick west possible";
+var mnemonic = "poem welcome inquiry aerobic fluid blue merit april swim pill clinic best";

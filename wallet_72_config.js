@@ -1,1 +1,1 @@
-var mnemonic = "inhale giant exotic economy home chalk onion dice brave large special boy";
+var mnemonic = "print obey betray syrup riot process tomorrow beef know old word describe";

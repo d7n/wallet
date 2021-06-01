@@ -1,1 +1,1 @@
-var mnemonic = "busy mail velvet inch bring south spy fatal that plug rich purity";
+var mnemonic = "inch hawk panda intact category erase floor crumble angry deputy picnic member";

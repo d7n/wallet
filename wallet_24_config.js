@@ -1,1 +1,1 @@
-var mnemonic = "canoe person multiply scene chaos physical midnight citizen evidence arena buzz stem";
+var mnemonic = "version color decrease argue junk layer regret control ill loyal admit catch";

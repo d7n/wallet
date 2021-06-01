@@ -1,1 +1,1 @@
-var mnemonic = "olive rather brand gentle morning issue gain tennis divorce reflect valid solid";
+var mnemonic = "category around actress humor exhibit almost holiday rebuild tilt pottery acoustic blanket";

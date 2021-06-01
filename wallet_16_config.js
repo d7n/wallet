@@ -1,1 +1,1 @@
-var mnemonic = "topic romance humble tribe circle canoe lucky chronic weasel into guide have";
+var mnemonic = "human jacket field monkey violin solar bridge expose among hard bonus physical";

@@ -1,1 +1,1 @@
-var mnemonic = "height just vendor clip current noble science someone scale heavy blur school";
+var mnemonic = "visit bone wrestle animal aware cousin juice flight afford business pool miracle";

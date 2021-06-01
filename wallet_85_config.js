@@ -1,1 +1,1 @@
-var mnemonic = "absorb sea access always bargain harvest strategy narrow spider leader soap print";
+var mnemonic = "mom legend merge physical layer deposit give chalk bus concert erosion physical";

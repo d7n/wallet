@@ -1,1 +1,1 @@
-var mnemonic = "grocery sting usage gesture arrow boy typical giggle include cat lava valid";
+var mnemonic = "brisk reward inmate cherry outside risk stove easy wife machine treat typical";

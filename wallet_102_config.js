@@ -1,1 +1,1 @@
-var mnemonic = "kitten upset word release actor uniform volume swing make rib bone remain";
+var mnemonic = "advance trial aerobic very rice casual tower undo gate can stuff deliver";

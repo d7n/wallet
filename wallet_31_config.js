@@ -1,1 +1,1 @@
-var mnemonic = "purpose garlic switch bid example miss shine burst hurdle emerge valid ordinary";
+var mnemonic = "flavor net prize bright warrior hospital liberty empower satisfy pulp grass work";

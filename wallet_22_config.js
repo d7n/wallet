@@ -1,1 +1,1 @@
-var mnemonic = "scan tree wonder wine rabbit derive step fame service deal dignity vacuum";
+var mnemonic = "comic amused canoe clay area luxury desk liquid galaxy menu album cup";

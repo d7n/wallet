@@ -1,1 +1,1 @@
-var mnemonic = "ethics tobacco expire mistake include defy sand damage cover umbrella upon differ";
+var mnemonic = "job title subway answer comfort stove fee honey color police like law";

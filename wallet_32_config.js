@@ -1,1 +1,1 @@
-var mnemonic = "pilot limit creek gun goat oppose rookie name copper size crunch please";
+var mnemonic = "next fold actress country friend vacuum glory cushion spray frog circle output";

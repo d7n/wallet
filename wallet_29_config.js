@@ -1,1 +1,1 @@
-var mnemonic = "learn dynamic aware umbrella shrimp target wall drive acoustic palm gown figure";
+var mnemonic = "process rigid food kind require various scan cargo veteran smooth resource exhibit";

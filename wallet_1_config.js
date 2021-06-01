@@ -1,1 +1,1 @@
-var mnemonic = "south oxygen grape auction neutral joke erode bright equip key pill sphere";
+var mnemonic = "alert negative easy maple human property swift shove salon february finish tennis";

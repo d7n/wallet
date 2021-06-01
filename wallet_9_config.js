@@ -1,1 +1,1 @@
-var mnemonic = "giant aisle trigger canoe speak alien shoot vacant aspect equip eager rural";
+var mnemonic = "uncover recycle rookie order naive reward outdoor cool flee hard soldier age";

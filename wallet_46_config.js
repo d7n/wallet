@@ -1,1 +1,1 @@
-var mnemonic = "afraid grape style grid stable acoustic nothing marble lens act kind sting";
+var mnemonic = "either tooth cherry capable east screen receive salad consider gesture beef alert";

@@ -1,1 +1,1 @@
-var mnemonic = "subject inflict oppose differ release common wide cliff legal pepper web useless";
+var mnemonic = "trick trick lucky victory endless sadness gate result antique word bubble uncover";

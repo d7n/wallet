@@ -1,1 +1,1 @@
-var mnemonic = "parrot verb fortune crack stand silk festival unfold typical salute funny cycle";
+var mnemonic = "argue annual seed priority where alter together script spend quality enough mention";

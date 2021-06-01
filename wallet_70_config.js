@@ -1,1 +1,1 @@
-var mnemonic = "cram agree uniform satisfy true thunder approve behind involve science audit nice";
+var mnemonic = "donor ahead image better story stumble punch fancy supply rely hour clean";

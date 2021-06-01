@@ -1,1 +1,1 @@
-var mnemonic = "dynamic oil charge brother advice divide desk agree close acquire coffee trip";
+var mnemonic = "empty sorry cruel idle double fiscal morning hub minimum thumb scissors crouch";

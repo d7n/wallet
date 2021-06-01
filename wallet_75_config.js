@@ -1,1 +1,1 @@
-var mnemonic = "birth clump spell fantasy sheriff execute near thumb interest bird mobile hair";
+var mnemonic = "twin current state inspire crisp slot wrap connect faculty wool bomb energy";

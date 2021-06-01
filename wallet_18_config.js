@@ -1,1 +1,1 @@
-var mnemonic = "fatigue arena track remain mixture oblige recycle caught trophy borrow journey broken";
+var mnemonic = "lens core pepper hire reveal baby parrot clerk shuffle goose spoon desk";

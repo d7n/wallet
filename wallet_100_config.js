@@ -1,1 +1,1 @@
-var mnemonic = "stomach grit alert miracle design hunt park either hospital over eagle trophy";
+var mnemonic = "pass wealth ball wagon major cruise bean note lonely situate office heart";

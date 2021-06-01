@@ -1,1 +1,1 @@
-var mnemonic = "local blue jeans smile embark math obtain until shrug bitter season mail";
+var mnemonic = "extra cover hero play history garage salon pilot senior conduct dose need";

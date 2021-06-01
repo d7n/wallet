@@ -1,1 +1,1 @@
-var mnemonic = "window hold bundle differ nominee twice draw flag whisper someone chat thank";
+var mnemonic = "deal idle load crush stage inquiry water ski sheriff mother dismiss rhythm";

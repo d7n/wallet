@@ -1,1 +1,1 @@
-var mnemonic = "floor word resource brother coast seminar image use course enemy slam very";
+var mnemonic = "brave enact square gather enable rice height sport current achieve giant shoe";

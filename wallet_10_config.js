@@ -1,1 +1,1 @@
-var mnemonic = "chuckle mushroom busy theory differ husband defense decorate rural slight bubble butter";
+var mnemonic = "ginger mercy figure same trim drink burger level engage alarm erupt guilt";

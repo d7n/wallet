@@ -1,1 +1,1 @@
-var mnemonic = "velvet churn gate over total disease salute tomorrow language dust season dignity";
+var mnemonic = "speed park basket sauce lemon into add album joke victory tumble demand";

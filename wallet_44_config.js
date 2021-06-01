@@ -1,1 +1,1 @@
-var mnemonic = "derive vapor soldier comic faint casual year vocal focus steak roof badge";
+var mnemonic = "mechanic upgrade swallow grid prosper strike phone rug vault club train bounce";

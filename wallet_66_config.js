@@ -1,1 +1,1 @@
-var mnemonic = "essence genre hair ice car various robot machine save trigger antenna aware";
+var mnemonic = "reject midnight question illegal firm because feature impact paddle salad flash educate";
