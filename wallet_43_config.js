@@ -1,1 +1,1 @@
-var mnemonic = "smile stone judge prevent wide canal badge shoe retreat truck very father";
+var mnemonic = "huge salmon trouble journey pyramid pistol dress quality scout island pave already";

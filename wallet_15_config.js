@@ -1,1 +1,1 @@
-var mnemonic = "genre script bag business enact gauge tuition cereal town clarify syrup ecology";
+var mnemonic = "best village caught fade obvious option avoid task useful abuse found wood";

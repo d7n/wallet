@@ -1,1 +1,1 @@
-var mnemonic = "grab lumber glove wisdom magnet predict you design gallery walk defense knife";
+var mnemonic = "audit gather sure pottery increase during antique shed clap rebel remove curtain";

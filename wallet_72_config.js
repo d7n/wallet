@@ -1,1 +1,1 @@
-var mnemonic = "other canvas river debris innocent behind story buddy town cabbage budget camp";
+var mnemonic = "breeze luggage ticket humble fiscal sudden fatigue public winter ahead release rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "state ecology follow boss wood upon alpha poem clarify sugar fee appear";
+var mnemonic = "impulse shine cherry dice double mixed distance trick acid frog dinosaur project";

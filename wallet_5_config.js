@@ -1,1 +1,1 @@
-var mnemonic = "frozen match genre orphan laundry magic frost west harvest deputy fluid garlic";
+var mnemonic = "brief misery inside boil garment jewel edit exhaust olympic yellow kangaroo critic";

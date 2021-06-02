@@ -1,1 +1,1 @@
-var mnemonic = "blast cluster prefer cart knock common shy flame inside work pumpkin modify";
+var mnemonic = "gentle sibling pencil woman curve eye hospital flight call hold eyebrow spatial";

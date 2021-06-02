@@ -1,1 +1,1 @@
-var mnemonic = "gospel blue release autumn remember horror differ idle sting laundry behave clever";
+var mnemonic = "onion focus nature law gather kiwi diagram lobster clarify soon swift vehicle";

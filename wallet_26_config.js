@@ -1,1 +1,1 @@
-var mnemonic = "shine enroll add unit provide festival grace local shrug artwork master concert";
+var mnemonic = "glare desert country carry dog rigid cotton food jelly leopard leave alien";

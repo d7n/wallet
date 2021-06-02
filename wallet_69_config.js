@@ -1,1 +1,1 @@
-var mnemonic = "region mango bread topple spice argue tonight powder scare imitate embody page";
+var mnemonic = "title ordinary edit jungle grape gauge hospital modify unit course october use";

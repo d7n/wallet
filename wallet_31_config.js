@@ -1,1 +1,1 @@
-var mnemonic = "trick clown just husband analyst climb misery disease sponsor equal tomorrow fine";
+var mnemonic = "hint faculty interest page forward prefer buffalo coral review change absorb mechanic";

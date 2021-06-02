@@ -1,1 +1,1 @@
-var mnemonic = "shell green live ill lonely daughter broom open tape topple winner knife";
+var mnemonic = "property drip snow leopard kangaroo feature mandate frequent cage violin false local";

@@ -1,1 +1,1 @@
-var mnemonic = "prison become category steel phone differ gauge evoke snake salmon first between";
+var mnemonic = "expire sell subject victory release achieve avocado aerobic insane range pepper power";

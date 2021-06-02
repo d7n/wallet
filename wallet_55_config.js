@@ -1,1 +1,1 @@
-var mnemonic = "march horse fresh soft belt achieve muscle spray trash equip coffee rib";
+var mnemonic = "about caught image evidence tone song donate donkey seat cave hard fluid";

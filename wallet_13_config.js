@@ -1,1 +1,1 @@
-var mnemonic = "heavy brisk label inform alarm veteran praise cross screen dutch fancy craft";
+var mnemonic = "drill drive reveal season mandate drill curtain limit indoor enter picnic struggle";

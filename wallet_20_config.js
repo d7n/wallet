@@ -1,1 +1,1 @@
-var mnemonic = "ladder cabbage excite attack enable usage release error chicken dismiss crash country";
+var mnemonic = "lonely december edit upgrade adult joke cake east useless style horse census";

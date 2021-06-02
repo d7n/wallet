@@ -1,1 +1,1 @@
-var mnemonic = "clarify canoe wreck million cream nation image claw supply wonder jelly firm";
+var mnemonic = "there poem scatter first upset under slow scrub acid reunion include ancient";

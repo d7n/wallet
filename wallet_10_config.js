@@ -1,1 +1,1 @@
-var mnemonic = "speak inherit release again flight master whip put river clap toast because";
+var mnemonic = "income sorry tell shiver fortune coach hour collect slight daughter airport yard";

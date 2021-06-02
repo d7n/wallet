@@ -1,1 +1,1 @@
-var mnemonic = "question tone clinic remember topple sick column casino display lift dish true";
+var mnemonic = "phrase explain satoshi ensure swing same cabin divorce response lift patient know";

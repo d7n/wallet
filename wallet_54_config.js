@@ -1,1 +1,1 @@
-var mnemonic = "october melody pull cause crack olympic enter radar keen lemon badge trouble";
+var mnemonic = "bunker jacket visit dutch rocket daring orient daughter hurt accident pause cradle";

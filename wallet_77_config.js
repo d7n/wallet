@@ -1,1 +1,1 @@
-var mnemonic = "grit judge fever grunt bench bomb liberty lesson shrug clog area kick";
+var mnemonic = "know success math inch sting spare calm enter gasp price room assist";

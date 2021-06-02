@@ -1,1 +1,1 @@
-var mnemonic = "oppose poet produce you cactus pitch foil birth wedding orchard script sport";
+var mnemonic = "elegant correct clarify patrol leg space rain chunk act document early gift";

@@ -1,1 +1,1 @@
-var mnemonic = "arm argue race purpose hidden civil fame around lunar smoke table potato";
+var mnemonic = "measure transfer rather only matrix brief forum object fox diet tired price";

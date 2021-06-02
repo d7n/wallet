@@ -1,1 +1,1 @@
-var mnemonic = "violin antenna merge velvet occur powder chunk act network subway avoid bottom";
+var mnemonic = "fancy potato reduce maximum fiscal sort loud little attract unlock couch skate";

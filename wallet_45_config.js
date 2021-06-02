@@ -1,1 +1,1 @@
-var mnemonic = "deposit subway company strike grunt race tornado theme sleep donkey answer snap";
+var mnemonic = "execute hold autumn audit rack chuckle salon normal now yard private snack";

@@ -1,1 +1,1 @@
-var mnemonic = "butter royal smoke bicycle hungry lawsuit fox left title enough sound tent";
+var mnemonic = "genius ecology stumble tired dirt shed fury shield absorb today either dry";

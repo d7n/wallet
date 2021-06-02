@@ -1,1 +1,1 @@
-var mnemonic = "feed solve wool army stable settle youth trust pretty trust upper electric";
+var mnemonic = "science husband say scan once curtain impulse limit aspect report poem regular";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper resemble toe swing sudden strategy resource south pizza evil over one";
+var mnemonic = "write bid valley token sample frown warm prepare accuse truck base arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid furnace exit tip annual taxi era siege elevator common alpha effort";
+var mnemonic = "maximum inside verb minute stay knife black put potato impulse fashion usage";

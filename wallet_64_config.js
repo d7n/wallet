@@ -1,1 +1,1 @@
-var mnemonic = "lecture echo proof scare hold faint giggle artefact artist castle recipe acquire";
+var mnemonic = "cube burger index access ceiling creek desk cradle draft crew now deposit";

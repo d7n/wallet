@@ -1,1 +1,1 @@
-var mnemonic = "okay ability remain crucial observe want expand figure flavor curtain reopen pencil";
+var mnemonic = "smooth gas job mixture buddy decrease vicious memory critic west way brick";

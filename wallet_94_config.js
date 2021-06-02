@@ -1,1 +1,1 @@
-var mnemonic = "cash pink shoe aunt order account matter undo eternal dolphin fever slight";
+var mnemonic = "unable review shine truck east small exotic screen leader caution program chuckle";

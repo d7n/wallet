@@ -1,1 +1,1 @@
-var mnemonic = "purchase toy hidden retire garlic letter maximum treat panic start denial indicate";
+var mnemonic = "just hand popular rely club joke bless science fetch bar give daughter";

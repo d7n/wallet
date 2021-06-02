@@ -1,1 +1,1 @@
-var mnemonic = "ladder draw right useless pool oblige net actress accuse scrap over whip";
+var mnemonic = "one heart gas warrior warm puppy rare marble artefact alley news chief";

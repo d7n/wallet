@@ -1,1 +1,1 @@
-var mnemonic = "wire motion grid marble follow treat equip paper sad earth creek accident";
+var mnemonic = "find recipe forum eye eight limb enemy assault laugh memory leopard image";

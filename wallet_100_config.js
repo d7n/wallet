@@ -1,1 +1,1 @@
-var mnemonic = "medal trophy accuse promote blind circle ankle snake vehicle link clean ship";
+var mnemonic = "domain machine hire mean female vibrant awesome appear slender mosquito involve drastic";

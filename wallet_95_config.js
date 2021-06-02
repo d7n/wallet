@@ -1,1 +1,1 @@
-var mnemonic = "pet shrug country rice alpha jeans two egg eight plate current have";
+var mnemonic = "energy foster father immense foster vicious main treat hover south promote shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "notable install acid travel transfer orphan assist either tortoise pet much sausage";
+var mnemonic = "sibling labor blush resource throw swarm jealous hurry arctic common ten weasel";

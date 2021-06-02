@@ -1,1 +1,1 @@
-var mnemonic = "bid quality thunder box tribe regular case faith oil lumber gift online";
+var mnemonic = "birth laugh insane actress donor weapon brain envelope cat clown soccer struggle";

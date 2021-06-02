@@ -1,1 +1,1 @@
-var mnemonic = "book dish symptom ride donor boy inherit pill achieve catalog ring enroll";
+var mnemonic = "advance call frog diary history reform rally rescue observe check exit turn";

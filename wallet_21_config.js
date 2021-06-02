@@ -1,1 +1,1 @@
-var mnemonic = "meat roast father forget once prevent bird scorpion resemble page hat sight";
+var mnemonic = "ankle media purpose undo style dumb view fever bleak peanut twin cruise";

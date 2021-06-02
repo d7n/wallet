@@ -1,1 +1,1 @@
-var mnemonic = "fold color second lesson dash plug process flock path cherry turkey walnut";
+var mnemonic = "civil advance lonely into adjust eight proof hero endless hundred option close";

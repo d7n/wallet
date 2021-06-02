@@ -1,1 +1,1 @@
-var mnemonic = "ship panel reduce guard vibrant all client velvet shy hawk fame razor";
+var mnemonic = "split tunnel foster month solve grunt evoke try ticket venue energy giraffe";

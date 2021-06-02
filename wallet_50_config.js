@@ -1,1 +1,1 @@
-var mnemonic = "cattle garage exclude bitter drum flat glory sister room tuition spoon track";
+var mnemonic = "bean mixed scan trial common boy elegant monitor board chair person cannon";

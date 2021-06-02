@@ -1,1 +1,1 @@
-var mnemonic = "crater surge title breeze month plate title link accuse labor bless cart";
+var mnemonic = "celery goddess crunch health admit spare way advance talent perfect judge relax";

@@ -1,1 +1,1 @@
-var mnemonic = "oval donkey jar fine soldier monster dry mistake struggle leader zoo voyage";
+var mnemonic = "small talent hire lift session result insane know tomorrow south unaware oval";

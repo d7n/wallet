@@ -1,1 +1,1 @@
-var mnemonic = "vehicle joy arrange canoe peace potato danger allow current spatial blind betray";
+var mnemonic = "cube spy release broccoli deal metal purchase embark ripple voyage maple hope";

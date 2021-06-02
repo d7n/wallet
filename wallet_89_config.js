@@ -1,1 +1,1 @@
-var mnemonic = "crime similar muscle soap session calm impulse effort shoulder siren bounce recycle";
+var mnemonic = "change tonight language raccoon cycle nothing require screen retire room joy eager";

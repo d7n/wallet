@@ -1,1 +1,1 @@
-var mnemonic = "bulb sheriff tennis join wash reward elder cost genuine amazing wolf wood";
+var mnemonic = "kit economy wish tuna couch six extra amount other expire crazy treat";

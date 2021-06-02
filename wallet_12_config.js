@@ -1,1 +1,1 @@
-var mnemonic = "cost thrive observe earn area advice setup robust seat innocent intact smart";
+var mnemonic = "attitude scheme pistol chicken trigger stool despair neglect grief grace gadget flush";

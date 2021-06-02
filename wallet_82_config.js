@@ -1,1 +1,1 @@
-var mnemonic = "cry source warm remind barrel easy swallow job jelly snack sock hawk";
+var mnemonic = "pear away flag convince van canyon physical glare cup rent task major";

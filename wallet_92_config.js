@@ -1,1 +1,1 @@
-var mnemonic = "security tiger park bright memory pig wet brief curve dream trouble property";
+var mnemonic = "sign attract height beef festival adult want output kidney road parade annual";

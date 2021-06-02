@@ -1,1 +1,1 @@
-var mnemonic = "action tumble reunion train auto field refuse day auction adapt pen tree";
+var mnemonic = "mercy exist reveal video label price circle hat chat fluid pact coral";

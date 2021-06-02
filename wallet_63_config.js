@@ -1,1 +1,1 @@
-var mnemonic = "mosquito renew recycle tip misery elder mother oyster orphan inspire beyond mind";
+var mnemonic = "there orchard happy what cactus refuse skirt unveil sweet dignity peanut town";

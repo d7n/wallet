@@ -1,1 +1,1 @@
-var mnemonic = "blush major endless crunch emerge choice where define prize time buddy ten";
+var mnemonic = "toilet night right capable gorilla frost inspire pool describe clump lyrics engine";

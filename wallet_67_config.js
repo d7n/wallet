@@ -1,1 +1,1 @@
-var mnemonic = "thrive student before deposit purchase early whip envelope talent dish use sick";
+var mnemonic = "vault work december wrong project zero source isolate come say range system";

@@ -1,1 +1,1 @@
-var mnemonic = "myself involve notable phone trip door round boring cupboard employ safe glide";
+var mnemonic = "tackle million woman custom viable taste file normal steel involve until blur";

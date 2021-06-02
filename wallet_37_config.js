@@ -1,1 +1,1 @@
-var mnemonic = "glance equip voice become kangaroo end weapon host crater battle pipe resist";
+var mnemonic = "home shop duty accident truth hazard mix inhale proud jeans decide myself";

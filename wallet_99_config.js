@@ -1,1 +1,1 @@
-var mnemonic = "horn tuna goose permit give talk dinner fashion antique rack apart mass";
+var mnemonic = "bleak tape shaft among empty visual glad vessel grocery bracket feature desert";

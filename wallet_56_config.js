@@ -1,1 +1,1 @@
-var mnemonic = "wedding saddle rotate smoke book shift orange harbor liquid lady two length";
+var mnemonic = "found aunt trap eternal pole material swift again refuse tired forget funny";

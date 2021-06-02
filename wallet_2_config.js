@@ -1,1 +1,1 @@
-var mnemonic = "magic eight scrub reunion ticket truly argue glance seat hawk patient twin";
+var mnemonic = "infant language style industry range estate orchard task rug subway shadow life";

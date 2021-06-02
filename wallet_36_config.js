@@ -1,1 +1,1 @@
-var mnemonic = "control road crush wave clever buzz ten scheme end bar mechanic design";
+var mnemonic = "anchor science load example awesome session goose beauty thunder laundry business nature";

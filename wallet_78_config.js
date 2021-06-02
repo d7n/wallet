@@ -1,1 +1,1 @@
-var mnemonic = "divide prison walnut eager float need juice casino bind vital similar toy";
+var mnemonic = "bench engage obtain broccoli sun mouse mimic easily test short praise expand";

@@ -1,1 +1,1 @@
-var mnemonic = "injury monster photo trigger month easy advice depart combine desk amazing steak";
+var mnemonic = "orient eyebrow inmate grace horn wear surge bonus street dial omit mosquito";

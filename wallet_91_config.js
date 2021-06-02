@@ -1,1 +1,1 @@
-var mnemonic = "easily drip invest neck keep basket nose offer focus drum matrix raw";
+var mnemonic = "claw dust iron similar zone depend penalty wrap west zero bulk recall";

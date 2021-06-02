@@ -1,1 +1,1 @@
-var mnemonic = "emerge evoke quiz grid together spoil robot impact luggage differ recycle option";
+var mnemonic = "inflict away behave bless venue same bread core fatigue innocent spawn hint";

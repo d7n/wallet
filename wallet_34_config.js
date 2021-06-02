@@ -1,1 +1,1 @@
-var mnemonic = "silly smoke engage bargain mosquito dry slush spider write imitate lecture pave";
+var mnemonic = "merge rent chimney boost praise promote ordinary knock random identify bike usage";

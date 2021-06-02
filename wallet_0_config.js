@@ -1,1 +1,1 @@
-var mnemonic = "situate nature wealth dinner useless coyote source must unit people poverty mind";
+var mnemonic = "beyond enlist fire ticket foot awful leopard isolate dune person gift narrow";

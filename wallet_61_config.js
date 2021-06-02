@@ -1,1 +1,1 @@
-var mnemonic = "mule student night forget south pretty hire hover void legal coral wool";
+var mnemonic = "insect oblige squirrel next nature possible spot nest patrol market antenna pluck";

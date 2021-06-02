@@ -1,1 +1,1 @@
-var mnemonic = "plastic become giant era delay annual faint arrange ostrich swing vendor woman";
+var mnemonic = "evolve sleep spread vague cool rural gossip safe lawn before feel jelly";

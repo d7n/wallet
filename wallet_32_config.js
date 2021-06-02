@@ -1,1 +1,1 @@
-var mnemonic = "girl idle point cross culture custom exhaust either siren injury session monitor";
+var mnemonic = "tiny amount elevator cigar weather inhale question guitar ginger eyebrow ask pupil";

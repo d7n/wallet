@@ -1,1 +1,1 @@
-var mnemonic = "explain ladder orient diagram evolve valley ensure island biology liberty child frost";
+var mnemonic = "cradle giraffe crawl salad poem switch name absurd vacant amazing bike hood";

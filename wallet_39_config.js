@@ -1,1 +1,1 @@
-var mnemonic = "husband matter wheat return language caught knife marriage neck approve stomach bonus";
+var mnemonic = "hard outer fancy grunt gather kitchen left display sport ivory cinnamon danger";

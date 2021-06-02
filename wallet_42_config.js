@@ -1,1 +1,1 @@
-var mnemonic = "episode roast dress century liquid tribe virtual smooth actor govern defy net";
+var mnemonic = "people neck frozen kidney visual predict side grab citizen license spatial cycle";

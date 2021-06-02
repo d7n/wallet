@@ -1,1 +1,1 @@
-var mnemonic = "void large pipe rubber prefer stereo pear fire benefit alcohol call limb";
+var mnemonic = "ready diamond stamp symbol ship rubber ginger come notable parade beach busy";

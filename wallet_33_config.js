@@ -1,1 +1,1 @@
-var mnemonic = "term blade cost leisure laptop lucky mechanic divorce reform measure whip yard";
+var mnemonic = "speak own dream finger sample attack love time save level indoor stand";

@@ -1,1 +1,1 @@
-var mnemonic = "century bar intact unlock decade away funny open sugar leader penalty stomach";
+var mnemonic = "color elevator scorpion oven orphan peasant arm unfold coil crop dad window";

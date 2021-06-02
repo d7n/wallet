@@ -1,1 +1,1 @@
-var mnemonic = "style split enroll flame current beyond multiply river pill room cause title";
+var mnemonic = "stand feature shallow club cannon network egg wave shove interest portion thunder";

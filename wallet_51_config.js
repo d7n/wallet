@@ -1,1 +1,1 @@
-var mnemonic = "crane brain chef add ready elbow rice easily ski flee priority catalog";
+var mnemonic = "more decorate nice disorder original coconut deny fish distance list inch inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "cake machine park public journey speed disagree gate genre donate eternal love";
+var mnemonic = "jeans naive behind egg few coyote nuclear label swim fly gauge now";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant sentence fury beyond argue shoulder thing sun raise charge mutual industry";
+var mnemonic = "access come own sight arrive refuse tackle immense domain three doctor glass";

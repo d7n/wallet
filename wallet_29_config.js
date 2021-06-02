@@ -1,1 +1,1 @@
-var mnemonic = "decrease dust raise gate sponsor mother field peasant cabin possible harvest shed";
+var mnemonic = "common thunder rent priority tag assist appear maple security basic excuse spin";
