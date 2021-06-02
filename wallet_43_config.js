@@ -1,1 +1,1 @@
-var mnemonic = "buddy float animal receive insane junior eye into club trip outer when";
+var mnemonic = "oxygen power fire debris whisper issue vessel potato elegant fragile vessel jaguar";

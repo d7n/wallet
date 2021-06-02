@@ -1,1 +1,1 @@
-var mnemonic = "category square swing visual dolphin eternal pill update lounge type glow apart";
+var mnemonic = "remain tank coach oil army merge dumb key depend mimic century baby";

@@ -1,1 +1,1 @@
-var mnemonic = "stem dish error vintage immense tube become wink salad proud artwork organ";
+var mnemonic = "rent inspire renew chronic fancy knife demand visa green coin nice address";

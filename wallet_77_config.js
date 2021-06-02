@@ -1,1 +1,1 @@
-var mnemonic = "business nothing inquiry glove about crew hazard swap mushroom old hair donkey";
+var mnemonic = "rare outdoor cross anchor sadness tell write sound vast adult acquire surround";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic rookie express mail jar junior border entire pyramid jealous faculty rule";
+var mnemonic = "call dynamic loud light artefact raven daring maximum waste baby sheriff joy";

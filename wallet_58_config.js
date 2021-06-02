@@ -1,1 +1,1 @@
-var mnemonic = "subway scene elevator finger maid finger armor appear explain awful filter torch";
+var mnemonic = "enhance enough mosquito beach merry piece evolve upgrade obvious athlete coach chef";

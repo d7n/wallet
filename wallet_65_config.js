@@ -1,1 +1,1 @@
-var mnemonic = "ticket iron develop blue jeans tag weather cupboard spare fresh talk picture";
+var mnemonic = "drive angle little bachelor able sibling brown typical devote inmate cross execute";

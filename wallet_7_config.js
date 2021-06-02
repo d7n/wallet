@@ -1,1 +1,1 @@
-var mnemonic = "rain same glove claim coin imitate culture rough olympic umbrella nuclear hammer";
+var mnemonic = "library beauty mother verify mom leader chase soccer pluck shiver cement solution";

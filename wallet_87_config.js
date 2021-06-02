@@ -1,1 +1,1 @@
-var mnemonic = "impulse ski pause random oil pelican shop bean rookie anxiety dignity settle";
+var mnemonic = "theme magic bundle online fall myself gown useless coffee inform dress bonus";

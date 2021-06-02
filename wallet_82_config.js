@@ -1,1 +1,1 @@
-var mnemonic = "okay squeeze fun sunset inch sister smoke chest wish symptom solve bid";
+var mnemonic = "demise else betray ritual rib guess become cotton weather melt position sphere";

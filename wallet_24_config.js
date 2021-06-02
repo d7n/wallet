@@ -1,1 +1,1 @@
-var mnemonic = "canal essence topple version weasel slice snake once sponsor silly ring manage";
+var mnemonic = "club flat pair west super elevator melt knee exhibit frame boring quote";

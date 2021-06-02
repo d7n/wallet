@@ -1,1 +1,1 @@
-var mnemonic = "motor craft exercise method marble accident enter climb lecture struggle void execute";
+var mnemonic = "liberty aware gesture size clip lazy stamp erosion staff love bullet awkward";

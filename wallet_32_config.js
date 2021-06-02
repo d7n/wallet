@@ -1,1 +1,1 @@
-var mnemonic = "open broken lecture soda daughter gown render cram evil allow move mesh";
+var mnemonic = "fun pride omit entire shoulder roast fan audit wealth wine stove struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "floor result couch attract dune apple dentist pizza defy about seed answer";
+var mnemonic = "bounce indicate gather youth bachelor return girl issue assume execute slight that";

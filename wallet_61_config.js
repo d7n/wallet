@@ -1,1 +1,1 @@
-var mnemonic = "torch breeze gown winner east sense size great problem smart invest omit";
+var mnemonic = "nest pattern foil pact motor middle spider trend hungry toss license solve";

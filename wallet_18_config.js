@@ -1,1 +1,1 @@
-var mnemonic = "scan print head can glad antique file spray avoid artefact decline tape";
+var mnemonic = "juice duty jewel detail emotion assume traffic keen album evoke illness battle";

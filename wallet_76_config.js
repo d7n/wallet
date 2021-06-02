@@ -1,1 +1,1 @@
-var mnemonic = "jeans salute vast web put harvest improve gate science cricket all chef";
+var mnemonic = "cinnamon wrap old slam disorder silly clutch gold spider cube all add";

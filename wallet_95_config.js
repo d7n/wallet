@@ -1,1 +1,1 @@
-var mnemonic = "elegant strong rigid maximum sand lizard fury slight fringe name forget impact";
+var mnemonic = "finger avoid vivid scare mistake index dawn empty transfer slab clown key";

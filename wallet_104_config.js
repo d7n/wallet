@@ -1,1 +1,1 @@
-var mnemonic = "toddler peasant fever merit surface magic chase shock charge lesson champion bless";
+var mnemonic = "family outdoor robust labor slight circle cinnamon safe convince hunt come luxury";

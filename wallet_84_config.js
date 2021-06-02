@@ -1,1 +1,1 @@
-var mnemonic = "hard atom gain alpha long tail fruit fetch junk attract buyer total";
+var mnemonic = "rose meat share call volume desert employ trumpet mention work season success";

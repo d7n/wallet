@@ -1,1 +1,1 @@
-var mnemonic = "cigar satisfy delay address jacket swift fee patch neutral rotate immune end";
+var mnemonic = "viable gorilla frown update paper inner jeans beauty other another grape grain";

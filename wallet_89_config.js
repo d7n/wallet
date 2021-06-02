@@ -1,1 +1,1 @@
-var mnemonic = "hole tilt holiday denial spoon coral misery rain reward now mansion bone";
+var mnemonic = "pulp bike remain pottery method unhappy gym surround thunder result want man";

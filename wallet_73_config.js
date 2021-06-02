@@ -1,1 +1,1 @@
-var mnemonic = "assume cliff unit rent private clown cereal scan stem fix exhaust regret";
+var mnemonic = "tired include ghost pig youth rifle stock athlete online jelly jungle ill";

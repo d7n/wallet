@@ -1,1 +1,1 @@
-var mnemonic = "mimic disease fold inform arrest rich company crater service shine fancy prison";
+var mnemonic = "prefer option victory grape flush cradle coconut defense glory replace lazy orphan";

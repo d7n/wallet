@@ -1,1 +1,1 @@
-var mnemonic = "oak wife plastic kite shrimp sound loan normal alien hen talent garden";
+var mnemonic = "annual country copper vital smile insane fortune wedding labor repair mask thought";

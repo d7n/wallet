@@ -1,1 +1,1 @@
-var mnemonic = "regret rose scheme bread harsh patrol simple spread control wool bracket bean";
+var mnemonic = "regular wolf source ceiling tongue empower donate glance laundry ordinary boost depend";

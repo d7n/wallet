@@ -1,1 +1,1 @@
-var mnemonic = "album fit curious neglect critic valid cannon forward employ bike trial keep";
+var mnemonic = "garlic best army attend ignore make october onion gold sphere diary middle";

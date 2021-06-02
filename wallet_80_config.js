@@ -1,1 +1,1 @@
-var mnemonic = "response cash animal shock unaware winter spawn swallow pause female dream thing";
+var mnemonic = "cradle exhibit reform rent approve loud abuse wage vessel gift enact mirror";

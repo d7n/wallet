@@ -1,1 +1,1 @@
-var mnemonic = "oblige length enjoy visual census glimpse behind fault robust business purpose turtle";
+var mnemonic = "rack shock bus crystal fold surprise blame industry slush saddle hour merit";

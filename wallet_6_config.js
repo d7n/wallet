@@ -1,1 +1,1 @@
-var mnemonic = "vacant then other assist fire denial example still someone auto music unique";
+var mnemonic = "awake glow genre code eight surround slot observe stumble wood purpose best";

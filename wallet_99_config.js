@@ -1,1 +1,1 @@
-var mnemonic = "range broccoli soul ball canvas luggage keen argue floor thought loyal casual";
+var mnemonic = "child pen husband gown fiber cement number dutch blue nothing annual unhappy";

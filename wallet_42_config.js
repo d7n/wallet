@@ -1,1 +1,1 @@
-var mnemonic = "initial embrace track spin member forum replace crystal gap quarter avoid virtual";
+var mnemonic = "emotion learn tumble comfort risk best blame dune cart steak away warfare";

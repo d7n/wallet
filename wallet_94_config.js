@@ -1,1 +1,1 @@
-var mnemonic = "viable board tiger universe usual people fox scale remain aerobic boat topple";
+var mnemonic = "beauty fever novel rubber solar loan trim foster waste cancel language garment";

@@ -1,1 +1,1 @@
-var mnemonic = "bench direct basic banner blast used aunt narrow patch century click cinnamon";
+var mnemonic = "warrior vehicle stone rigid summer shine memory grape soap quote buyer bacon";

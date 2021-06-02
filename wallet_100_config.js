@@ -1,1 +1,1 @@
-var mnemonic = "reject embrace bar grace frost tree hedgehog begin time want candy vicious";
+var mnemonic = "quality truck season lizard hurdle flavor scheme foil impose never episode annual";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle photo fog coil list grief toe vacant normal timber rate sheriff";
+var mnemonic = "steel kidney salute assume final flower open service join basket forget goat";

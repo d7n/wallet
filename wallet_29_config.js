@@ -1,1 +1,1 @@
-var mnemonic = "review flame exit comic obvious limit planet sentence satoshi sugar index fetch";
+var mnemonic = "sudden hunt pole educate camera castle live level install sell grunt clock";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin mirror example rely rent estate final witness view impulse cabin special";
+var mnemonic = "pupil breeze perfect area absent huge thought number daughter crisp civil heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "draft question able monitor tiny evil ill industry rich orbit solution easy";
+var mnemonic = "noble wisdom father ensure quiz secret major style blue under travel maximum";

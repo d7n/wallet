@@ -1,1 +1,1 @@
-var mnemonic = "alarm speed rose laundry never arrest rural joke pencil wrestle trash later";
+var mnemonic = "secret guard journey brass fatigue vacant sleep range polar lunar never twelve";

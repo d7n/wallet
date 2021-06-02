@@ -1,1 +1,1 @@
-var mnemonic = "original point craft loud census secret journey journey giraffe word chicken into";
+var mnemonic = "honey subway rebel venture elite corn spoon document couch canvas online crunch";

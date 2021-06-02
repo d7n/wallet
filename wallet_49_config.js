@@ -1,1 +1,1 @@
-var mnemonic = "squeeze engine bright toss certain unveil one culture drastic obvious flavor bronze";
+var mnemonic = "robot voice plunge cycle marriage hundred snack flower select duck sketch then";

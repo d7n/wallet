@@ -1,1 +1,1 @@
-var mnemonic = "skirt library birth tired canyon balance express trend neutral hurt hamster tone";
+var mnemonic = "before honey leave estate oven behave assist poet scorpion blue system forum";

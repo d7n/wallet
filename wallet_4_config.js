@@ -1,1 +1,1 @@
-var mnemonic = "time light inmate illegal group verb assault oak card harsh party save";
+var mnemonic = "gain glare scan anger step wheat clever believe belt until cave dirt";

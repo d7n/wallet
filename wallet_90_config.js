@@ -1,1 +1,1 @@
-var mnemonic = "virtual ozone toss video joke venue impact auto verify uniform fitness syrup";
+var mnemonic = "true enable chair train adapt cluster exercise correct pole pluck eagle jaguar";

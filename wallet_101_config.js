@@ -1,1 +1,1 @@
-var mnemonic = "tag stuff goose era vibrant grace siren surround miracle mass chair toss";
+var mnemonic = "swim badge basket wonder own uphold return quick giggle finger among panther";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter broken million will flat heavy pistol tiny stadium engage grass tobacco";
+var mnemonic = "outdoor fossil gospel reward chase solid utility planet sport blanket regular three";

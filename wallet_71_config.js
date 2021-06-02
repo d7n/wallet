@@ -1,1 +1,1 @@
-var mnemonic = "grow item solution concert ugly shine crisp side limb blush turn tuition";
+var mnemonic = "virtual flower blur crawl cruel bring paddle heart gun alarm ancient clever";

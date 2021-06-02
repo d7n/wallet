@@ -1,1 +1,1 @@
-var mnemonic = "voice shove cage minor deliver yellow start tuition code empower submit bus";
+var mnemonic = "theme depart walk layer fat circle urge funny erupt expose evil resist";

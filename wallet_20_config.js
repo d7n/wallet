@@ -1,1 +1,1 @@
-var mnemonic = "soup expose impulse slide hybrid nuclear afraid shallow between stamp protect gather";
+var mnemonic = "increase sell accuse only citizen begin victory oval taxi result scout diagram";

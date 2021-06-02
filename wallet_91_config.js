@@ -1,1 +1,1 @@
-var mnemonic = "business phone assist decade mixture orient physical sport predict kiss milk pulse";
+var mnemonic = "pluck transfer trick mother still job dance rough benefit retire clump fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "girl cloud dog vivid float lawsuit piano chest leg humble trumpet slogan";
+var mnemonic = "endorse enlist spoil mandate category patient hungry february kangaroo mirror zero nurse";

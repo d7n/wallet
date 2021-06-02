@@ -1,1 +1,1 @@
-var mnemonic = "inflict tip brother crowd code arena slide copper broccoli tiger input story";
+var mnemonic = "moon seek blossom grain thought husband grace tunnel pass frozen sniff often";

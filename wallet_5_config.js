@@ -1,1 +1,1 @@
-var mnemonic = "whale zero obey crystal because just card stand grid bounce settle inherit";
+var mnemonic = "below film begin eight rare accident benefit october cave food century cream";

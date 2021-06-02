@@ -1,1 +1,1 @@
-var mnemonic = "awkward moon indicate goddess december couple visit then lonely soccer rabbit bicycle";
+var mnemonic = "invest cup baby paper vacant still medal guitar scheme hire steel hand";

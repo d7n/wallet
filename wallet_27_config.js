@@ -1,1 +1,1 @@
-var mnemonic = "eagle poet hen pass planet mule space develop curve prevent high job";
+var mnemonic = "baby control expand flock spirit street winner ship river carry much push";

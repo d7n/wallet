@@ -1,1 +1,1 @@
-var mnemonic = "paper tunnel theme limb embark horse feel pigeon enhance sausage include engage";
+var mnemonic = "aware merry list syrup health since donor wealth plug rack tuna bargain";

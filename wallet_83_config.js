@@ -1,1 +1,1 @@
-var mnemonic = "pulse cool bar idea want flash bid jacket deer banana about sleep";
+var mnemonic = "wood indicate wage front mind author saddle lava skin tent hybrid mind";

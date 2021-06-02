@@ -1,1 +1,1 @@
-var mnemonic = "execute flush top diary adapt genre grunt cable flame warfare wasp sweet";
+var mnemonic = "word narrow fence concert deputy exhaust gift inmate hundred hotel afford behave";

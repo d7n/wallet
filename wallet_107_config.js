@@ -1,1 +1,1 @@
-var mnemonic = "easy royal buffalo disease jewel usual project order tackle always lava more";
+var mnemonic = "target exhaust earn valve victory orange atom thing luxury alley allow version";

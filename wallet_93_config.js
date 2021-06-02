@@ -1,1 +1,1 @@
-var mnemonic = "almost proud adapt bag toast arch method because exclude drum prize sword";
+var mnemonic = "episode dignity connect fame rhythm try once junk submit bargain advice boil";

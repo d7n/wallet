@@ -1,1 +1,1 @@
-var mnemonic = "lemon zone unknown rough license outer cash rate match deny daughter language";
+var mnemonic = "humor jacket rural float desk family parent fury vivid pipe hidden direct";

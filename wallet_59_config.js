@@ -1,1 +1,1 @@
-var mnemonic = "vague vibrant earn click present quit sugar sniff infant plastic minor luggage";
+var mnemonic = "jungle tuna humor potato try gauge jump zero shift diagram explain snake";

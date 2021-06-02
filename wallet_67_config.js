@@ -1,1 +1,1 @@
-var mnemonic = "often neck board luggage brief sugar oil victory lecture assume permit include";
+var mnemonic = "damp soap snap genius ethics duck blame ostrich man install knee income";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar verify wisdom twelve rather nest busy lend capital best permit often";
+var mnemonic = "luxury mean asthma once fly buffalo kiss bronze magnet found track sponsor";

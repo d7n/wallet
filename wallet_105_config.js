@@ -1,1 +1,1 @@
-var mnemonic = "cloth bunker immune cat hub glory direct shift reason swap easy rescue";
+var mnemonic = "unusual stadium identify soup liar spin admit mobile faint tent bachelor oak";

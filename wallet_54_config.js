@@ -1,1 +1,1 @@
-var mnemonic = "chicken valve room fault acid venue exact cover until direct shop hand";
+var mnemonic = "orient benefit blast law into predict dash arctic social horror rapid fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote random soap until matter thunder begin document cattle reveal safe blouse";
+var mnemonic = "huge alien off surround phone purchase cousin green park orange crush supreme";

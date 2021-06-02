@@ -1,1 +1,1 @@
-var mnemonic = "run only also strong trade river exercise confirm ensure tape accident admit";
+var mnemonic = "dinosaur couch celery olympic velvet dice angle drill more relax approve glove";

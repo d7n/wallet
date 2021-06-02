@@ -1,1 +1,1 @@
-var mnemonic = "also hurdle entry auction bone paddle kidney reduce pulse more circle dog";
+var mnemonic = "van pass smooth together net case afford cycle order kitchen kite saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "direct pelican fork drive evil head current essay menu track mesh wife";
+var mnemonic = "flat require lounge faint bind use judge hope hire fan replace pole";

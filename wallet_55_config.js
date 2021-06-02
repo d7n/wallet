@@ -1,1 +1,1 @@
-var mnemonic = "sample menu venture short indicate air learn sing glue tag misery canvas";
+var mnemonic = "kite risk pond grid guard sail chuckle actor shrug phrase unknown make";

@@ -1,1 +1,1 @@
-var mnemonic = "sample assist surface coin unveil trash bacon remove ribbon assist leaf luggage";
+var mnemonic = "symptom ranch news sound sweet define mix stadium destroy staff teach debate";

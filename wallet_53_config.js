@@ -1,1 +1,1 @@
-var mnemonic = "only arrange flip satoshi sing arctic oyster hammer antique people lizard always";
+var mnemonic = "broken prevent food vital velvet cable purse pair suspect canvas rotate hen";

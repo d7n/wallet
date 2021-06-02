@@ -1,1 +1,1 @@
-var mnemonic = "ask check cattle tail vendor life blush glow advice warm future identify";
+var mnemonic = "indicate adapt rib desk odor knife girl alcohol shoulder pact vague ranch";

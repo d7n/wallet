@@ -1,1 +1,1 @@
-var mnemonic = "foam dentist reduce layer pride betray dish gospel history weird elegant raccoon";
+var mnemonic = "purse lesson narrow color swift abandon ghost remain danger echo climb thank";

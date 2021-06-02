@@ -1,1 +1,1 @@
-var mnemonic = "you wrap scatter absent rival noodle club appear educate wall market surface";
+var mnemonic = "scheme type paddle eternal logic hotel knock jealous park hundred seat magic";

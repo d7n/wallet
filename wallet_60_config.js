@@ -1,1 +1,1 @@
-var mnemonic = "strategy project talent secret key share tragic suffer genuine bottom clay order";
+var mnemonic = "tilt amount message obscure upgrade copper fine type around coral cable adult";

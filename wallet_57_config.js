@@ -1,1 +1,1 @@
-var mnemonic = "since trumpet can arctic scrub sample sight run canal retreat visit retire";
+var mnemonic = "unfold box section inject blush exit warfare banner fade stick return laundry";

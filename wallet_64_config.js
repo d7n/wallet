@@ -1,1 +1,1 @@
-var mnemonic = "wrestle code slender erosion brother spot viable exist fortune cushion act rather";
+var mnemonic = "scene seat lounge apple eye pioneer head gadget earth tortoise galaxy sock";

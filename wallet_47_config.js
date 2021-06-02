@@ -1,1 +1,1 @@
-var mnemonic = "hair security bless unit style filter embark interest used blame mobile hire";
+var mnemonic = "easy secret cruel sunset deny empty minimum struggle visa position desert resist";

@@ -1,1 +1,1 @@
-var mnemonic = "glove slight popular deer voice around person civil that loud afraid virtual";
+var mnemonic = "caution bag whisper that truck talent indoor silent ability hat color screen";

@@ -1,1 +1,1 @@
-var mnemonic = "text crash mention expect mean vintage since push sure abstract wasp shock";
+var mnemonic = "bring ability urban large balcony barrel hub divorce fresh wave parent during";

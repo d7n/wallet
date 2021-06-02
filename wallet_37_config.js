@@ -1,1 +1,1 @@
-var mnemonic = "skate drive entire refuse volume wish tomato push arrest spy pet hybrid";
+var mnemonic = "palm tiger way despair around limit balcony bleak just rib rather main";

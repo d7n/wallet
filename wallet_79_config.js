@@ -1,1 +1,1 @@
-var mnemonic = "agree fun bullet pilot genre frost match space deliver flame steel siege";
+var mnemonic = "already civil rule reopen combine stock fun matrix father feed ecology echo";

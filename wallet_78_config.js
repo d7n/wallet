@@ -1,1 +1,1 @@
-var mnemonic = "chuckle runway fancy page charge entry cross ketchup piece convince convince word";
+var mnemonic = "circle anchor oil capital comfort birth habit elder source animal scorpion ceiling";

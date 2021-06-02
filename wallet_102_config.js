@@ -1,1 +1,1 @@
-var mnemonic = "detect kind play scheme hamster high brush tongue reject man wire session";
+var mnemonic = "aisle bean joke music vital path basic close talent dentist yellow olympic";
