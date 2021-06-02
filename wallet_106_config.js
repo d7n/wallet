@@ -1,1 +1,1 @@
-var mnemonic = "jacket draft betray rely occur cancel hello poverty media merit time valley";
+var mnemonic = "near bulb wisdom voice small unlock cry census flame trip number enforce";

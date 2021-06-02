@@ -1,1 +1,1 @@
-var mnemonic = "water shift pair recipe artefact few cruise either dragon walnut someone cable";
+var mnemonic = "copper kidney toast deny dizzy plug uniform weird profit street twin soda";

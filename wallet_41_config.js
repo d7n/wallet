@@ -1,1 +1,1 @@
-var mnemonic = "shy bundle average spread crazy humble airport model own ankle drastic loan";
+var mnemonic = "allow move whip diesel visual glance engine mad uphold forum swarm soap";

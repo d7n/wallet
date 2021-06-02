@@ -1,1 +1,1 @@
-var mnemonic = "misery ribbon around local syrup reject soup gate culture insane file garden";
+var mnemonic = "magic process endorse arena whisper auto tank pluck thing duck turn tone";

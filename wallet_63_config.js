@@ -1,1 +1,1 @@
-var mnemonic = "loop sport narrow deny chuckle erode sniff fringe target witness sketch cigar";
+var mnemonic = "ozone put cage decorate rhythm rifle winner virtual garbage other flush match";

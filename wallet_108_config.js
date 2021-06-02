@@ -1,1 +1,1 @@
-var mnemonic = "tide emotion throw comic disagree chair media join champion time truck poet";
+var mnemonic = "document step crumble silver excess view lemon isolate hazard jungle plastic floor";

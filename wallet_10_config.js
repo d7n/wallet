@@ -1,1 +1,1 @@
-var mnemonic = "key piece parade online federal crater gadget wool one ice rack reject";
+var mnemonic = "afford palace boring ordinary alarm staff royal system stereo work hour three";

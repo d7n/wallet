@@ -1,1 +1,1 @@
-var mnemonic = "census street increase raw donor rural invite stairs exit abstract noble install";
+var mnemonic = "setup side tail engage next crystal outdoor lucky fork sea army eternal";

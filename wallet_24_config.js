@@ -1,1 +1,1 @@
-var mnemonic = "capable diamond name stick refuse describe garage social jar solve drive finger";
+var mnemonic = "spider orphan tomorrow trip stereo zero crucial mosquito print ill spray crucial";

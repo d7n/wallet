@@ -1,1 +1,1 @@
-var mnemonic = "artwork twenty river abstract human minimum net scorpion high convince pool ticket";
+var mnemonic = "manual minor spray kitchen shiver concert modify brother cargo arrest unknown finger";

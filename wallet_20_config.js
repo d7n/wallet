@@ -1,1 +1,1 @@
-var mnemonic = "day differ fish sample orange disorder decade tree awake evolve vast earth";
+var mnemonic = "slide unit inhale crack admit reform solve figure destroy math carbon teach";

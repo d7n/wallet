@@ -1,1 +1,1 @@
-var mnemonic = "castle embody day robot prevent lady creek boil medal topic lemon job";
+var mnemonic = "cabin render throw invest modify warrior race settle argue resource neglect matter";

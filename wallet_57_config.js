@@ -1,1 +1,1 @@
-var mnemonic = "daughter wink address anger project deny balance shed pioneer guess major combine";
+var mnemonic = "impose trophy cost fatigue cat absurd minimum milk ostrich ensure destroy crystal";

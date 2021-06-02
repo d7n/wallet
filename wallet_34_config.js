@@ -1,1 +1,1 @@
-var mnemonic = "allow lesson champion illegal detect tattoo bullet motor true shallow odor resource";
+var mnemonic = "crucial forward section enough pipe middle undo festival blame link glad zoo";

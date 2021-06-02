@@ -1,1 +1,1 @@
-var mnemonic = "clump fruit scheme secret visa pelican prepare april dune census width today";
+var mnemonic = "soft glory usage window reform enter trophy message rescue picnic dad uphold";

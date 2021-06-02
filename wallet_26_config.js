@@ -1,1 +1,1 @@
-var mnemonic = "cabbage adjust three keen scrub wait rebuild surge fiber cruise army unfold";
+var mnemonic = "hat tongue link spatial border ridge tribe ring afford enroll guard dirt";

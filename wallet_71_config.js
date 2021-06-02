@@ -1,1 +1,1 @@
-var mnemonic = "fame fix wise code amateur student buddy equal shallow remind success proof";
+var mnemonic = "whip hawk bean regret motion poverty among project episode neither business vanish";

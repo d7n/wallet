@@ -1,1 +1,1 @@
-var mnemonic = "husband decide subject magic army annual spatial scan gaze survey inhale kind";
+var mnemonic = "snap decrease salute code marble online tuna time acquire trial hammer monster";

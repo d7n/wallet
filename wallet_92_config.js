@@ -1,1 +1,1 @@
-var mnemonic = "promote lake pig fruit utility artwork soda symptom caught flavor faint pottery";
+var mnemonic = "coconut subject turn round drama senior mesh scrub pigeon nose fortune screen";

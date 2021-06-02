@@ -1,1 +1,1 @@
-var mnemonic = "silent artefact meat silly jelly sweet exhibit critic adult brief picture crazy";
+var mnemonic = "solve buddy ladder arrest ocean evolve another glove spawn yard gesture fancy";

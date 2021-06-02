@@ -1,1 +1,1 @@
-var mnemonic = "drum grape wage chicken behind alley rebuild ski increase seek famous deal";
+var mnemonic = "modify base melt arctic science sock jewel another poem cheese mansion comfort";

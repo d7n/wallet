@@ -1,1 +1,1 @@
-var mnemonic = "coast level chest mercy comic aunt fan faint north finger skill struggle";
+var mnemonic = "squirrel run expire capital ivory point follow glad avoid random pyramid top";

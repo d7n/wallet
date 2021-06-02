@@ -1,1 +1,1 @@
-var mnemonic = "health fix clap trophy vital glass grit silver orchard easy lab symptom";
+var mnemonic = "enlist envelope plug humble surface sort prefer uphold glide love forum plate";

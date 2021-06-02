@@ -1,1 +1,1 @@
-var mnemonic = "heart edit shove project minimum service eternal modify stadium front run boat";
+var mnemonic = "cargo hour doll select peasant can trouble join prize weekend invest heart";

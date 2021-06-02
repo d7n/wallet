@@ -1,1 +1,1 @@
-var mnemonic = "jeans castle stick tragic injury tackle rain essence bring credit immense domain";
+var mnemonic = "tag lesson since bind tongue menu metal soldier mushroom rally animal hundred";

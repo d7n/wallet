@@ -1,1 +1,1 @@
-var mnemonic = "fork journey gun volcano lyrics hold cliff movie sing salon pulse defy";
+var mnemonic = "abuse choose shoulder tourist lake tell deputy purpose light attack dentist device";

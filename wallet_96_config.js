@@ -1,1 +1,1 @@
-var mnemonic = "miracle awful broken family globe wish force layer chair smooth cabbage album";
+var mnemonic = "jar kiss camera artefact key honey accident soon essence actress repair dumb";

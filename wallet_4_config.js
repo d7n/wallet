@@ -1,1 +1,1 @@
-var mnemonic = "zero smooth inquiry begin glide ribbon gather foam pink wire spatial raven";
+var mnemonic = "couch kiss day group outer hundred foam cook giant wear first sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "picture cabin youth destroy prosper become raise pig shrimp announce omit open";
+var mnemonic = "chimney fetch travel stable carpet tube arrive mixture guilt floor begin raise";

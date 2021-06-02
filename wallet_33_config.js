@@ -1,1 +1,1 @@
-var mnemonic = "bottom mass enjoy noise nose alter blush era soul clinic deliver release";
+var mnemonic = "elephant answer cattle judge all flower coil sibling ginger van knife analyst";

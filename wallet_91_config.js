@@ -1,1 +1,1 @@
-var mnemonic = "organ beyond sibling deliver barrel decline antenna harbor seminar route excess flush";
+var mnemonic = "wish size depth client play aisle miracle sand raw buffalo portion usage";

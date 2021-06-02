@@ -1,1 +1,1 @@
-var mnemonic = "spike health amazing organ slice hour that fold face rule creek rookie";
+var mnemonic = "tennis field umbrella penalty hybrid iron reject horn that crane come remove";

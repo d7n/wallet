@@ -1,1 +1,1 @@
-var mnemonic = "farm beef this virus sure mushroom mystery clerk exercise metal manage enemy";
+var mnemonic = "clerk ecology original letter add tennis upper autumn pledge piano trash acoustic";

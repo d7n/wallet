@@ -1,1 +1,1 @@
-var mnemonic = "enemy opera wife perfect useful sport inch winner art quarter midnight wool";
+var mnemonic = "loyal sample hazard park keen silk brave oak region raccoon hour column";

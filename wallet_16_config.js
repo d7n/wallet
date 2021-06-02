@@ -1,1 +1,1 @@
-var mnemonic = "venue twist clump scatter process fork gravity company toilet movie embody fresh";
+var mnemonic = "update evil rabbit peasant can estate hungry nest effort sure round april";

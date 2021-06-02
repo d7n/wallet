@@ -1,1 +1,1 @@
-var mnemonic = "ridge uncover drive choose body hundred bounce surge gadget fix gravity exist";
+var mnemonic = "arrow occur noodle pumpkin ice title eternal reflect mind clip project current";

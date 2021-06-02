@@ -1,1 +1,1 @@
-var mnemonic = "tiny diamond balcony peace segment apart public baby inherit orient tray claw";
+var mnemonic = "orange walnut yard super device wisdom silver push twice sponsor asthma boss";

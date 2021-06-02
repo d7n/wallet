@@ -1,1 +1,1 @@
-var mnemonic = "viable shallow join smile dune borrow vendor spend slow keen range summer";
+var mnemonic = "tobacco hazard middle extra family sand divert venture bitter ostrich parrot culture";

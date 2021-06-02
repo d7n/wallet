@@ -1,1 +1,1 @@
-var mnemonic = "dizzy jelly away special pink impact cart code breeze require profit final";
+var mnemonic = "sad margin guilt salad gadget jar oxygen chalk receive peace endless cousin";

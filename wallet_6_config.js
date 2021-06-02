@@ -1,1 +1,1 @@
-var mnemonic = "special merry garage around initial elevator file margin advice home uncle follow";
+var mnemonic = "obscure season thumb witness noodle crumble crowd jar public educate knee toe";

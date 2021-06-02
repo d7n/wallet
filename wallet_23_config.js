@@ -1,1 +1,1 @@
-var mnemonic = "proof inside urge bronze car symptom lecture cigar crush rotate check honey";
+var mnemonic = "summer riot occur small together trust between major destroy shed scissors mansion";

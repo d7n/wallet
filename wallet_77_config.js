@@ -1,1 +1,1 @@
-var mnemonic = "bunker doll expand hotel slow senior object result useless material school attend";
+var mnemonic = "tortoise small cradle prison tortoise spend tobacco immune analyst tongue rude shell";

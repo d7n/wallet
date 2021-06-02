@@ -1,1 +1,1 @@
-var mnemonic = "thumb carbon fence confirm cause buffalo require brass push emerge monitor excite";
+var mnemonic = "federal spare army glow snow glimpse hobby cash hammer fabric slice blossom";

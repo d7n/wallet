@@ -1,1 +1,1 @@
-var mnemonic = "supply resource swear dinosaur jacket neither pattern trip ancient helmet paddle pink";
+var mnemonic = "salon scene produce select later game moon hockey atom skirt nut endless";

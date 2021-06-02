@@ -1,1 +1,1 @@
-var mnemonic = "dove mango awful ritual goddess public zebra knee direct shuffle purse bench";
+var mnemonic = "true elephant tomorrow smart script garbage cheap reflect custom uncle quiz food";

@@ -1,1 +1,1 @@
-var mnemonic = "purity ankle neglect ball accuse frozen alarm thank swear worth song kit";
+var mnemonic = "cash sea else neutral spawn rescue protect manage door general despair card";

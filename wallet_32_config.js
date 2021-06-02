@@ -1,1 +1,1 @@
-var mnemonic = "census group annual broccoli lucky pelican holiday fabric clean trust ocean rescue";
+var mnemonic = "cruel useful program attitude annual vacuum village reveal luxury column sample sun";

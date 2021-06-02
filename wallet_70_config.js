@@ -1,1 +1,1 @@
-var mnemonic = "legend primary pear grace sail anchor lonely enrich merry acoustic planet success";
+var mnemonic = "pluck book style photo december best table track maple width silk hint";

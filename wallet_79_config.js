@@ -1,1 +1,1 @@
-var mnemonic = "remove video catalog sick share gym spring allow imitate surge deposit annual";
+var mnemonic = "town casual planet capable hobby grow daughter scheme solar task report life";

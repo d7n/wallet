@@ -1,1 +1,1 @@
-var mnemonic = "luggage carbon local setup innocent alley column trust peace obtain tool bright";
+var mnemonic = "stairs doll health delay behind jar village state spend room link door";

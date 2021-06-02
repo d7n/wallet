@@ -1,1 +1,1 @@
-var mnemonic = "ship calm floor dirt april hammer topple film chimney crush transfer minimum";
+var mnemonic = "page harbor oval damage example embark summer caught razor bubble diary possible";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle rain media rough sunny acid dial catch winner vital fury night";
+var mnemonic = "wing much problem imitate fatigue solution situate protect learn own shiver lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "number dentist pear panda empower cinnamon involve model home shrimp there embody";
+var mnemonic = "female clutch lecture useful glance tornado board jewel recycle phrase believe cheese";

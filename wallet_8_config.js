@@ -1,1 +1,1 @@
-var mnemonic = "bonus exile wrist syrup horror regret fun swap tray list social best";
+var mnemonic = "fetch super subway approve situate job sketch mass mystery pyramid team tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese possible dial bounce cream swear burst west device mimic estate cover";
+var mnemonic = "region bread ethics drop decrease fuel gesture wasp spray better fox latin";

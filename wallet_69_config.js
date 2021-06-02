@@ -1,1 +1,1 @@
-var mnemonic = "arrange survey faint hood roast find random address access metal edge walnut";
+var mnemonic = "light gaze wrap sauce garlic winter mango clap engage use arch train";

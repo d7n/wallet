@@ -1,1 +1,1 @@
-var mnemonic = "flavor honey zoo genius hammer chaos bachelor script fold elder please barrel";
+var mnemonic = "arrow immune claim ready indicate pony sibling clinic gauge dynamic toast heavy";

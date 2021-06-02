@@ -1,1 +1,1 @@
-var mnemonic = "episode joy river void siren brother gentle badge excuse tide shadow marble";
+var mnemonic = "kiss clip negative limit shaft wreck clown road trash twice blouse eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "echo leaf gesture isolate engage kitchen eyebrow sausage birth simple hammer off";
+var mnemonic = "sudden text flag arrest demand win thumb loyal above tomato wagon night";

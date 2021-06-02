@@ -1,1 +1,1 @@
-var mnemonic = "drift robot fatal airport room move crisp affair tuition venue shock evolve";
+var mnemonic = "smart select unit fringe tooth cattle search replace vacuum gap rescue total";

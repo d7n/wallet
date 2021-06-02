@@ -1,1 +1,1 @@
-var mnemonic = "embrace rebuild hard absorb torch bless vicious major wait expose hole forget";
+var mnemonic = "during trophy tent phone pond energy inmate elegant egg fence notable name";

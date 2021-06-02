@@ -1,1 +1,1 @@
-var mnemonic = "road envelope small step hawk include comic sea milk visit notable tomorrow";
+var mnemonic = "penalty spirit impact spoon identify size ten army bitter result thunder wonder";

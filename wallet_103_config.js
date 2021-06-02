@@ -1,1 +1,1 @@
-var mnemonic = "wheat recycle lobster pulse skirt snake elegant boring live ribbon disorder firm";
+var mnemonic = "because tag spread fit direct blood lawsuit swim accident portion gun hockey";

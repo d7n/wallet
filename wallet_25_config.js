@@ -1,1 +1,1 @@
-var mnemonic = "category gospel journey enlist together pact blanket sport theme youth abuse unfair";
+var mnemonic = "wonder genuine only benefit advance become between fame salute stay boy remain";

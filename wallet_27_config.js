@@ -1,1 +1,1 @@
-var mnemonic = "method egg behave large defense frozen can key exact spice focus resource";
+var mnemonic = "stay east bitter behind game hood report valid give act youth lawn";

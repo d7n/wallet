@@ -1,1 +1,1 @@
-var mnemonic = "junk print combine limb van rich body melody position caution lobster stadium";
+var mnemonic = "kit pizza vessel bleak crisp monster suit layer peasant faculty pottery artwork";

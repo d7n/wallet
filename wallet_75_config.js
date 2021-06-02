@@ -1,1 +1,1 @@
-var mnemonic = "across ice nephew luggage jump future table space network bright target inform";
+var mnemonic = "thrive weather ecology habit remain flash elephant stairs tomorrow struggle silk else";

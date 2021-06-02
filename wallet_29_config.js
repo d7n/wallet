@@ -1,1 +1,1 @@
-var mnemonic = "imitate skin prevent tattoo region cross sign exercise hospital person path toe";
+var mnemonic = "moment tiger tip case assume oblige oak glow coach country bid annual";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard able trend balance evil forest merit pluck amount manage pottery delay";
+var mnemonic = "mansion giggle alcohol fossil ladder market forest real april truly elegant bless";

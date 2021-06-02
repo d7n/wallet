@@ -1,1 +1,1 @@
-var mnemonic = "coffee artist version legend audit shaft jelly absurd base weird lazy velvet";
+var mnemonic = "amazing top hint reveal chalk dry thrive cloth ask emerge submit join";

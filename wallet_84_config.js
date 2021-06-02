@@ -1,1 +1,1 @@
-var mnemonic = "cement donate juice author upset clerk brick glory expose learn find junk";
+var mnemonic = "museum security ability below hill nice city cheap iron rural legal symptom";

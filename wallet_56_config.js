@@ -1,1 +1,1 @@
-var mnemonic = "become diet between fever number peasant mosquito suspect usual smooth train flock";
+var mnemonic = "account divorce trick can carbon token ball journey apple still camp common";

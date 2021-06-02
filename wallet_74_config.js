@@ -1,1 +1,1 @@
-var mnemonic = "crisp solution keep forward december lumber render into hat advice curious size";
+var mnemonic = "oak riot cereal sweet trap assist wrestle repeat force diamond until dismiss";

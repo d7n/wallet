@@ -1,1 +1,1 @@
-var mnemonic = "husband guilt box hold oak any mercy snap perfect kidney knee pave";
+var mnemonic = "shoot attend half scatter end rail bone depend boss energy another glue";

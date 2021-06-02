@@ -1,1 +1,1 @@
-var mnemonic = "volcano ill dry near access cube april boil witness suspect seven young";
+var mnemonic = "butter bicycle little settle solid brain uncle twice frozen fortune thank orchard";

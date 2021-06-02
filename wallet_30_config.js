@@ -1,1 +1,1 @@
-var mnemonic = "gate patient nothing bounce guess culture increase intact crop filter sentence giant";
+var mnemonic = "dish boat baby keep pill valve syrup law head adjust myself butter";

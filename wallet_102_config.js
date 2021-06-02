@@ -1,1 +1,1 @@
-var mnemonic = "goose range afford range case dolphin buddy school phone garment security can";
+var mnemonic = "lend puzzle because worth armor unaware fan erupt decide pattern tourist blade";

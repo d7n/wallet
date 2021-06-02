@@ -1,1 +1,1 @@
-var mnemonic = "ability doctor aerobic panel blue essence denial timber warfare robust grunt smart";
+var mnemonic = "toilet buddy list collect verify unit mother easily napkin disease range giraffe";

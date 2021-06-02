@@ -1,1 +1,1 @@
-var mnemonic = "favorite can medal current bless sponsor finish dream fiscal female emotion over";
+var mnemonic = "position fiscal fruit era ordinary desk discover frequent initial sheriff mimic sand";

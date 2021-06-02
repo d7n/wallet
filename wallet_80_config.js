@@ -1,1 +1,1 @@
-var mnemonic = "old ladder champion salon author close solid report web soup observe tent";
+var mnemonic = "crisp crop knee accident clog cricket timber oblige public radio panther weird";

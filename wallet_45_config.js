@@ -1,1 +1,1 @@
-var mnemonic = "person focus bring crouch purchase nut squeeze van deposit weird device winter";
+var mnemonic = "decorate small fantasy oppose control bread bottom among inside update world vibrant";

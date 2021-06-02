@@ -1,1 +1,1 @@
-var mnemonic = "shy cloud mind demand dignity boss donor arctic exit chicken arena amateur";
+var mnemonic = "clip trip avocado fossil cat tone subway vague furnace alter ahead keep";

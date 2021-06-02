@@ -1,1 +1,1 @@
-var mnemonic = "inherit village century autumn weather sport utility exact nominee swap exclude edge";
+var mnemonic = "later melody annual casino ceiling salute door swear absorb awful invite portion";

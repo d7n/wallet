@@ -1,1 +1,1 @@
-var mnemonic = "cotton amazing cactus fiction fiber tortoise wet dose trend people elevator rapid";
+var mnemonic = "home reduce polar coral obey staff purse stable horse eager blood repair";

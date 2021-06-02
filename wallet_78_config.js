@@ -1,1 +1,1 @@
-var mnemonic = "point liquid push main spy expire prison evolve second slice address rich";
+var mnemonic = "view yard engage turkey lottery gas buddy struggle fat best piece twin";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore figure raise strong comfort pupil move afford butter into accuse dry";
+var mnemonic = "knife actual dune basket retreat walnut air upset chimney viable hold run";

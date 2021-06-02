@@ -1,1 +1,1 @@
-var mnemonic = "prison negative police bundle hire muffin mule guard bracket essence poet barrel";
+var mnemonic = "earth card session firm crash asthma convince cricket draft enforce culture slush";

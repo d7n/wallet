@@ -1,1 +1,1 @@
-var mnemonic = "silk junk leave busy mother build trust grass useful fork lion broom";
+var mnemonic = "shrimp trend loop flock cushion dutch use joy leisure hint wonder normal";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect month energy setup century grab student today hotel forest rather essence";
+var mnemonic = "dog dutch pitch balcony snow afford nominee ankle awesome mercy observe person";

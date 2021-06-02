@@ -1,1 +1,1 @@
-var mnemonic = "issue monitor click winner problem joy case weather mandate square robust prosper";
+var mnemonic = "soul eagle network cute clarify burger keep goose world roof trash famous";

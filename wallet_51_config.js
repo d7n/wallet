@@ -1,1 +1,1 @@
-var mnemonic = "quarter medal stand rival hazard elite charge please trouble fine liar cousin";
+var mnemonic = "goddess hood cabbage toe swear weather spike artefact cinnamon fox wild enact";
