@@ -1,1 +1,1 @@
-var mnemonic = "focus profit interest vibrant festival letter hotel sister inject media place poem";
+var mnemonic = "own guitar number satoshi carbon glad erosion hedgehog pioneer core fancy monitor";

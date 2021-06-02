@@ -1,1 +1,1 @@
-var mnemonic = "segment abandon actress couch plug inflict smile setup roast select radio rabbit";
+var mnemonic = "waste rule energy robust domain sweet situate dirt panda bronze juice supreme";

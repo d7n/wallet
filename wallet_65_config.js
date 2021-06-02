@@ -1,1 +1,1 @@
-var mnemonic = "message slot steel grape sample disease banner puzzle detail island blouse female";
+var mnemonic = "idea letter foil giraffe pencil annual man gather purchase virtual minor rigid";

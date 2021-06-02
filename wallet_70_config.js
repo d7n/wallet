@@ -1,1 +1,1 @@
-var mnemonic = "rack leg text west industry actress another point option ghost used ancient";
+var mnemonic = "minute provide chest shield zoo effort fatigue mass safe raccoon faith horror";

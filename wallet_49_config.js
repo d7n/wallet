@@ -1,1 +1,1 @@
-var mnemonic = "digital poverty bridge action family income note topic recycle weapon puzzle bag";
+var mnemonic = "leg nominee actress small brick dress dragon exotic abuse lend rifle picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion artefact faculty welcome novel end oven process prepare chronic arrest cram";
+var mnemonic = "coil cheese bright promote cliff bulk genre manual soon mystery age nurse";

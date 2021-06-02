@@ -1,1 +1,1 @@
-var mnemonic = "relief hat hip victory device vocal ostrich swift drop jelly battle detail";
+var mnemonic = "key bind match unique popular raise hazard wing shove bubble tone life";

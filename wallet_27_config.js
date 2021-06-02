@@ -1,1 +1,1 @@
-var mnemonic = "tip live upon obvious lens camera payment inflict chat rail purpose beyond";
+var mnemonic = "window faculty gloom donate economy omit replace segment kiwi profit horn skull";

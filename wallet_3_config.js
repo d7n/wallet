@@ -1,1 +1,1 @@
-var mnemonic = "burst december hobby prize response exclude visual holiday excuse luxury road valley";
+var mnemonic = "grow return found repeat move hold cool armed zebra monkey hover guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "margin calm real enhance hard infant sense practice various profit palm glass";
+var mnemonic = "stable message release dress shoe garage empty nurse panic copy weapon return";

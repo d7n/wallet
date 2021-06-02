@@ -1,1 +1,1 @@
-var mnemonic = "rather glow vote gun genuine risk stuff prosper purchase palace long risk";
+var mnemonic = "kind tape tumble sentence goat govern virtual girl topple music vendor cinnamon";

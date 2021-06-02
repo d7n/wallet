@@ -1,1 +1,1 @@
-var mnemonic = "juice glare soldier shoulder panel relax lake quick party mouse tomato hub";
+var mnemonic = "luxury depth pledge gravity rabbit engage old february urban rotate work rose";

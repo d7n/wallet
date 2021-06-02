@@ -1,1 +1,1 @@
-var mnemonic = "become couch bus ritual battle family shrimp key banana series theme pond";
+var mnemonic = "column remove tattoo image humor brush top invite brother jar purchase eternal";

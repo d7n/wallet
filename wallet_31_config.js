@@ -1,1 +1,1 @@
-var mnemonic = "worth diet baby fluid afraid flock tired unveil remove expire usage gun";
+var mnemonic = "pet damp cart robust garlic aunt glory scheme feed deputy jewel hurt";

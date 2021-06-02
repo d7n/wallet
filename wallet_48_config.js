@@ -1,1 +1,1 @@
-var mnemonic = "midnight inform code wrong code fat quantum hidden combine burst salute abstract";
+var mnemonic = "defy repeat bonus run saddle day process praise path clump wood loop";

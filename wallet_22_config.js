@@ -1,1 +1,1 @@
-var mnemonic = "series opera erosion blade describe palace cost refuse wheat wage satisfy battle";
+var mnemonic = "kiwi color fatigue such math elite absorb type give smart rate erosion";

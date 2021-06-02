@@ -1,1 +1,1 @@
-var mnemonic = "donate reunion toe actual unaware grab planet chat wolf grass picnic gauge";
+var mnemonic = "want potato hurt artefact corn pull quick among false vote panel flash";

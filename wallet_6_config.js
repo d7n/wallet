@@ -1,1 +1,1 @@
-var mnemonic = "plastic wear ethics material zero woman elegant frequent motion program coil nerve";
+var mnemonic = "brick entry oven chief tunnel gaze alert this eight marriage trip loop";

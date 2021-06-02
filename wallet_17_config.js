@@ -1,1 +1,1 @@
-var mnemonic = "mammal glove during world section electric april pulp flat evolve unlock poem";
+var mnemonic = "scatter egg flag twin spatial isolate digital fuel critic matter onion firm";

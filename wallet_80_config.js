@@ -1,1 +1,1 @@
-var mnemonic = "miss enact shadow sleep young loud ocean melody advance lend devote notable";
+var mnemonic = "slight north feed bag sponsor amateur spring trip during comic what middle";

@@ -1,1 +1,1 @@
-var mnemonic = "between seat change discover original peanut cash game cake write direct excuse";
+var mnemonic = "jewel index stay panel rail clown fly guilt dilemma more tank grief";

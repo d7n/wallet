@@ -1,1 +1,1 @@
-var mnemonic = "infant kiwi maximum lobster quantum believe range control rail resist group frozen";
+var mnemonic = "south observe toy imitate drink system photo ethics aim saddle correct this";

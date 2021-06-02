@@ -1,1 +1,1 @@
-var mnemonic = "hollow pole bitter always push scene glimpse long rifle initial crumble blood";
+var mnemonic = "bracket south wrist arctic promote direct claim onion pride great clean coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce friend silk lizard filter wrong glove until patch desk obscure tape";
+var mnemonic = "broken tenant grain best toilet medal brown hat curious ahead runway bitter";

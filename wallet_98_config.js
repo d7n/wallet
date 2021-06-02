@@ -1,1 +1,1 @@
-var mnemonic = "vast area century fame eagle shuffle hover paper ask anger unknown coach";
+var mnemonic = "panel indicate sweet excuse ancient slow vendor size hold soft fall busy";

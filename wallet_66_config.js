@@ -1,1 +1,1 @@
-var mnemonic = "index soft feature comic host oxygen venture fence enemy clever border more";
+var mnemonic = "settle leave this foam scrub lesson sleep warfare obey immune impact devote";

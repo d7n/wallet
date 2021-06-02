@@ -1,1 +1,1 @@
-var mnemonic = "orient ski clog switch wrist spin flag donate fabric mystery example injury";
+var mnemonic = "reform weather safe south pumpkin peasant spend uncle offer episode detail engage";

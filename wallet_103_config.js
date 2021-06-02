@@ -1,1 +1,1 @@
-var mnemonic = "neck spike omit snake later amused fetch fabric spirit alert winner nest";
+var mnemonic = "view leg night rescue city pitch reunion describe punch rent naive document";

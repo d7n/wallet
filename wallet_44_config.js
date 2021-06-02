@@ -1,1 +1,1 @@
-var mnemonic = "front hamster melt half feed army elevator dilemma sheriff reunion use garbage";
+var mnemonic = "powder exit eagle garden core mammal silver guess valid cry tennis appear";

@@ -1,1 +1,1 @@
-var mnemonic = "yard flip book middle short laugh stone donkey figure chronic wash shove";
+var mnemonic = "valley fence public olympic smoke census segment name pride rice half trigger";

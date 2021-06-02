@@ -1,1 +1,1 @@
-var mnemonic = "elevator grace video fog gap viable beauty fatal tell patient pyramid brother";
+var mnemonic = "style forum fatigue blanket win grape feel matrix tribe stick false couch";

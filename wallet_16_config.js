@@ -1,1 +1,1 @@
-var mnemonic = "derive guilt unusual ship limb earth clown pizza crash olive pudding sail";
+var mnemonic = "fortune owner print glance intact energy accuse rebel voyage grace sustain legend";

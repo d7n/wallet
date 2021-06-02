@@ -1,1 +1,1 @@
-var mnemonic = "brisk tiger sadness position earn sheriff awake banana foil alpha web token";
+var mnemonic = "idle peasant ankle jeans clap pistol erosion tribe already raw income fatal";

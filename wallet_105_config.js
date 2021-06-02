@@ -1,1 +1,1 @@
-var mnemonic = "empower brick evidence true faith erase live mandate unique cake glue siege";
+var mnemonic = "divert output anger pond resist joy brother forum artwork trigger party culture";

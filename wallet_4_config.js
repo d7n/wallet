@@ -1,1 +1,1 @@
-var mnemonic = "record crisp glance tobacco term poem guard history primary rack expose jeans";
+var mnemonic = "wolf alarm oval peasant slice valid vendor universe cricket champion melody trim";

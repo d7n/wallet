@@ -1,1 +1,1 @@
-var mnemonic = "valid response cabin coral soccer oblige day second stuff pony season meadow";
+var mnemonic = "snake burden symptom push feature dawn rookie run snow fold much suggest";

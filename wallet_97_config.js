@@ -1,1 +1,1 @@
-var mnemonic = "weather tide gaze boat uncover goose fantasy shell grain climb hair luxury";
+var mnemonic = "place alien blur town culture define rice arrive museum flat pattern envelope";

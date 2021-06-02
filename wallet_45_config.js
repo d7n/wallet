@@ -1,1 +1,1 @@
-var mnemonic = "empower wife nest convince frog beef pelican during blouse gravity clerk roast";
+var mnemonic = "matrix enough inner rent human scan ritual remind million under mule debate";

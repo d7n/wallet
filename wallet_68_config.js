@@ -1,1 +1,1 @@
-var mnemonic = "hope claim future strike liquid alpha bamboo vital person glow man sound";
+var mnemonic = "obey vibrant join hazard plunge wrestle relief quarter slender liar swing squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "please come unable vacant project curtain cannon salon credit leg flee artwork";
+var mnemonic = "question furnace giggle negative attend open model salute volcano fly laugh detail";

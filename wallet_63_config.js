@@ -1,1 +1,1 @@
-var mnemonic = "rigid broccoli remind anchor castle topic tone spread affair seek bean talent";
+var mnemonic = "captain tissue soccer luggage fame donkey pattern rally gallery era tonight auto";

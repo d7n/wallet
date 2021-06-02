@@ -1,1 +1,1 @@
-var mnemonic = "position mushroom universe purchase noodle fiscal erosion power father setup attend van";
+var mnemonic = "poverty chaos approve tonight time maple vivid claw acquire scheme search arena";

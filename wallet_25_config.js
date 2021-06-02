@@ -1,1 +1,1 @@
-var mnemonic = "add language drift asthma want good sentence argue fit senior fee country";
+var mnemonic = "sketch problem shop trend laundry together fiscal present entry dizzy bench tired";

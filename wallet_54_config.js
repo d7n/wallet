@@ -1,1 +1,1 @@
-var mnemonic = "unhappy dynamic just allow honey gentle favorite excess inch carry february hungry";
+var mnemonic = "laugh ethics human fee rule question climb moment thunder ranch picnic bind";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget achieve behave night cliff hobby drink open rely disagree bargain accident";
+var mnemonic = "stem regular open idea trim horse report antique soldier survey link bind";

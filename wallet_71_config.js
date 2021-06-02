@@ -1,1 +1,1 @@
-var mnemonic = "deposit pizza west popular mother behind umbrella arrest south finger matter tent";
+var mnemonic = "matter unknown acoustic scan scheme giraffe act tornado zebra jeans practice ignore";

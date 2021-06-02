@@ -1,1 +1,1 @@
-var mnemonic = "method ramp female initial coyote wide caution festival maid cheese sell kite";
+var mnemonic = "melt host image drill quarter build joy stuff cushion fame bubble index";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol roof tone opera enact relax treat embrace devote diamond hair fire";
+var mnemonic = "broken shell lamp mouse elite black rude craft border party vanish knife";

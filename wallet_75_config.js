@@ -1,1 +1,1 @@
-var mnemonic = "fee motion oven human crystal swallow repeat puppy ship duty fog awake";
+var mnemonic = "evil hold kiwi gravity strong true gain task inside neutral useless detail";

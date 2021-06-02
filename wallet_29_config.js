@@ -1,1 +1,1 @@
-var mnemonic = "talk scheme elephant sick total trend affair stay kitten height pulp muffin";
+var mnemonic = "junk current mystery mesh access lava young entire group virus fruit reform";

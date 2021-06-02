@@ -1,1 +1,1 @@
-var mnemonic = "sort lonely cement margin collect wasp trophy only spring remain artwork bronze";
+var mnemonic = "immune conduct balance inform mixed claw skin team cousin prize crane tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "barely labor spare fiscal major repair swarm supply poet riot mouse access";
+var mnemonic = "jewel west various ride address tribe glue industry coast actual ask dilemma";

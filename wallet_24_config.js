@@ -1,1 +1,1 @@
-var mnemonic = "unfair argue race behind fossil leader peanut jelly cancel average chuckle sad";
+var mnemonic = "exact gun face canal argue hundred pig quit process south nephew action";

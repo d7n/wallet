@@ -1,1 +1,1 @@
-var mnemonic = "man insect magnet escape desk they guard hold punch rail image hello";
+var mnemonic = "eager mention swarm minimum region dignity trap basic melt goose blame worry";

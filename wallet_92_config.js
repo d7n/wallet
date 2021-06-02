@@ -1,1 +1,1 @@
-var mnemonic = "banner artefact manage service bracket dog cherry life smoke skirt master swarm";
+var mnemonic = "excess keen assist reunion use track usage smooth hurdle shove goose leg";

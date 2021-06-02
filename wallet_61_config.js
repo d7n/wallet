@@ -1,1 +1,1 @@
-var mnemonic = "twelve review envelope abandon account material parent furnace stem begin pluck dignity";
+var mnemonic = "pencil door obvious water dawn discover pipe head pill kangaroo adult game";

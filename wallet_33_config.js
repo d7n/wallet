@@ -1,1 +1,1 @@
-var mnemonic = "donate bargain ranch become cute order double portion ugly age else rifle";
+var mnemonic = "raise lake spawn ankle reopen squirrel all frost ritual come salute click";

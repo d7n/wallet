@@ -1,1 +1,1 @@
-var mnemonic = "praise crouch symbol sign still proof between media bag price primary can";
+var mnemonic = "rose drive will disease awesome hundred mountain stay main bean occur list";

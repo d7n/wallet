@@ -1,1 +1,1 @@
-var mnemonic = "lizard comfort main meat rival visual cover quote furnace charge fury void";
+var mnemonic = "captain peace hair logic swap tornado orient manage chase today vapor acoustic";

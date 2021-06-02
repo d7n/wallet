@@ -1,1 +1,1 @@
-var mnemonic = "appear such indoor circle horror office brown warrior agent split real chat";
+var mnemonic = "attract carpet noodle village install ask spare clay tortoise spin hobby vintage";

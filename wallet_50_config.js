@@ -1,1 +1,1 @@
-var mnemonic = "duck start program remind major gadget promote employ siren increase tray boat";
+var mnemonic = "candy grape gallery miracle song maid defense kangaroo warm innocent crew box";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb mystery allow pencil high wedding boss shed achieve congress lumber deal";
+var mnemonic = "degree brain hint chat usual hard whip organ fan hurry grit final";

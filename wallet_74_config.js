@@ -1,1 +1,1 @@
-var mnemonic = "ripple dish state same company robust survey avocado member nasty buddy month";
+var mnemonic = "sort fitness danger desert future else payment resist erase question theme lounge";

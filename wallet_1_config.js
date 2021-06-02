@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit age story home fuel skill hurdle maximum emotion about must reflect";
+var mnemonic = "company guide viable remove fade alone dilemma there pig drama notable inside";

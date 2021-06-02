@@ -1,1 +1,1 @@
-var mnemonic = "pretty bottom seat betray analyst best rotate gather donkey effort drum uncle";
+var mnemonic = "initial often advance attract coast illegal prize spin dumb prosper kick weather";

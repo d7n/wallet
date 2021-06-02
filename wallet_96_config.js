@@ -1,1 +1,1 @@
-var mnemonic = "mask endless discover inner ivory camera april frozen iron crisp admit weapon";
+var mnemonic = "rabbit whip today crumble twist great salad rigid crime second quick crumble";

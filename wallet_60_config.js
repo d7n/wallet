@@ -1,1 +1,1 @@
-var mnemonic = "rookie thumb coyote impulse despair flavor typical hurt bar calm orchard bind";
+var mnemonic = "walnut sick thunder explain whisper orange useless abuse erode cabin awake image";

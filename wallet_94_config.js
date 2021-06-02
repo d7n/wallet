@@ -1,1 +1,1 @@
-var mnemonic = "sand visual quit carry slot rough ripple sword result chair memory property";
+var mnemonic = "kidney palace pond sport you kingdom forget lava humble food all give";

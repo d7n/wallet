@@ -1,1 +1,1 @@
-var mnemonic = "laundry second road trial clip impulse have spoil crack bubble industry place";
+var mnemonic = "fabric sauce begin provide master weekend vital puppy picnic monkey enter text";

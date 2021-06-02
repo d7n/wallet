@@ -1,1 +1,1 @@
-var mnemonic = "glass spatial enforce acid obey stem verify one avocado claw bird ask";
+var mnemonic = "also delay brown glad artefact artefact process oven head clap purity orbit";

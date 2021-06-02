@@ -1,1 +1,1 @@
-var mnemonic = "sheriff climb mango connect all leave oppose message monster napkin settle riot";
+var mnemonic = "happy two ripple vacuum exotic order park suggest frown depend sketch tail";

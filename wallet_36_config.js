@@ -1,1 +1,1 @@
-var mnemonic = "swarm ride audit elder empty chest poem mirror coast cabbage rebuild shield";
+var mnemonic = "pony cigar inch deliver brief boil funny brother leg often fitness bid";

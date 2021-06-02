@@ -1,1 +1,1 @@
-var mnemonic = "step gap school arrest horn noble dragon party eternal vacant weekend cluster";
+var mnemonic = "turn cable strike brush below health cycle offer picnic next spike pen";

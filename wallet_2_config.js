@@ -1,1 +1,1 @@
-var mnemonic = "radio eager cricket feed pen frame afraid genre jelly mercy noble barely";
+var mnemonic = "risk clay either culture cute shallow either correct slow borrow dirt kiwi";

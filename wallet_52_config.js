@@ -1,1 +1,1 @@
-var mnemonic = "hair body core year begin people swear metal obtain eagle film peanut";
+var mnemonic = "rich caught summer drip wedding unhappy club lottery double tongue frost lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "element tip faith sleep rail address recipe slow feature essence arm ridge";
+var mnemonic = "shuffle jealous behave pudding icon addict robust fit churn know mind beach";

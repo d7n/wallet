@@ -1,1 +1,1 @@
-var mnemonic = "gospel winter engage mandate fox degree fancy private guitar wrist enlist today";
+var mnemonic = "lift brush nerve spirit aspect juice sudden draw twist hip prison scale";

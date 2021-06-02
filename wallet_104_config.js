@@ -1,1 +1,1 @@
-var mnemonic = "quote gasp lift lock hole crater heavy bulk fan ketchup insect coast";
+var mnemonic = "captain spice wonder athlete tube cable glory mountain awkward acid double rent";

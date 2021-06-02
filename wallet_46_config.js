@@ -1,1 +1,1 @@
-var mnemonic = "become measure ethics cotton vapor visit cook this click visual bulb truth";
+var mnemonic = "muffin sing shrug music road pear crash ordinary craft panic dose solar";

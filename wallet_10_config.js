@@ -1,1 +1,1 @@
-var mnemonic = "weather tennis depend chief sibling belt afford apple quit inmate castle like";
+var mnemonic = "best powder toward property can announce twice impulse rural note spell health";

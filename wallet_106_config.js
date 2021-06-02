@@ -1,1 +1,1 @@
-var mnemonic = "category together add update universe swap face digital brain fun oil tackle";
+var mnemonic = "force intact unique purpose mystery goat beach violin reject ocean alcohol share";

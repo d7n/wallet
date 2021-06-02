@@ -1,1 +1,1 @@
-var mnemonic = "album walk payment case dawn void thing rabbit lady private silver frequent";
+var mnemonic = "garden keen amount wild special run hurry guard say voice gas sphere";

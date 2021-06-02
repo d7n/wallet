@@ -1,1 +1,1 @@
-var mnemonic = "knock display shadow chunk goddess fury cotton exhaust note detect post march";
+var mnemonic = "slow above nephew thought despair object cheap eternal spider phrase rice play";

@@ -1,1 +1,1 @@
-var mnemonic = "strike hungry belt speak goddess hen spice primary dish supreme upgrade talent";
+var mnemonic = "friend circle analyst emotion horror cherry identify century grow require catch proud";

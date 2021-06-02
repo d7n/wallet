@@ -1,1 +1,1 @@
-var mnemonic = "knee discover south stool bunker skirt expand jeans ice stone grunt estate";
+var mnemonic = "scorpion ocean follow tree lawn pioneer original hockey dutch receive august observe";

@@ -1,1 +1,1 @@
-var mnemonic = "brand trouble reduce intact cabin tooth rain bulk link eternal resemble culture";
+var mnemonic = "mirror size rabbit remain swear song leaf noodle magic topic scheme cute";

@@ -1,1 +1,1 @@
-var mnemonic = "promote civil deer general crime eight inside check step dash bench chuckle";
+var mnemonic = "swamp neither uniform client girl try recycle enough olive leaf credit return";

@@ -1,1 +1,1 @@
-var mnemonic = "dream aisle essence visit below april agree giggle bid friend option polar";
+var mnemonic = "universe tower cram replace clown dinosaur load poem pill quantum hour coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "neither surround during limit wire decade connect surprise tooth gold market spread";
+var mnemonic = "able unusual rice sell weird merit pencil mechanic isolate slush fault emerge";

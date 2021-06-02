@@ -1,1 +1,1 @@
-var mnemonic = "ecology cheese price thunder trouble endless laundry swallow banner domain always cargo";
+var mnemonic = "gate squeeze add rich talk empower dash walk carpet mail mansion poem";

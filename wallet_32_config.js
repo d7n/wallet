@@ -1,1 +1,1 @@
-var mnemonic = "addict hidden cage liar turn alter edit humble dream canyon jelly elevator";
+var mnemonic = "prepare ivory absent inspire across camera please poverty calm pulse video double";

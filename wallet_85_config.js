@@ -1,1 +1,1 @@
-var mnemonic = "social tooth scheme merge trigger arrow snack lawsuit team garbage water symbol";
+var mnemonic = "derive tattoo cheese depend supply mansion notice mass dial critic middle divert";
