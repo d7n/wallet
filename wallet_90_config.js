@@ -1,1 +1,1 @@
-var mnemonic = "typical stadium margin flavor april artist elder oyster excite shy ankle artwork";
+var mnemonic = "boss essence soap debate robot rude ecology bread unknown miss egg chimney";

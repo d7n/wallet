@@ -1,1 +1,1 @@
-var mnemonic = "wasp observe upon mercy drop human zoo basket nuclear kiwi noble connect";
+var mnemonic = "trumpet predict output winner width quick join render fever crunch chest manual";

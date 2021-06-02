@@ -1,1 +1,1 @@
-var mnemonic = "middle sustain simple rule air shock timber tunnel bright grape juice add";
+var mnemonic = "tackle umbrella obtain remain unveil course travel relax solution option club shuffle";

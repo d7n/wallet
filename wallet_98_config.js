@@ -1,1 +1,1 @@
-var mnemonic = "risk weird riot gather diesel chimney option around exile focus chest capital";
+var mnemonic = "frown penalty uphold cheap orbit enjoy badge shaft stay worry zone chuckle";

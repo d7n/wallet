@@ -1,1 +1,1 @@
-var mnemonic = "tell mutual smile oven swallow beach plate reveal deposit damage soul wash";
+var mnemonic = "hold hood collect warrior divorce couple fever hybrid shield distance twelve crowd";

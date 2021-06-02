@@ -1,1 +1,1 @@
-var mnemonic = "crouch typical fitness board misery sing submit brand car gravity monkey wealth";
+var mnemonic = "object magnet ask divorce one usual start juice sad reason range leave";

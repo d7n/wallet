@@ -1,1 +1,1 @@
-var mnemonic = "monster trim obvious age foam quantum ceiling dream exchange opinion safe brick";
+var mnemonic = "arrest element rubber slide core kick nominee dose real story tenant orange";

@@ -1,1 +1,1 @@
-var mnemonic = "habit prefer begin found bulk industry maple famous excess then half wisdom";
+var mnemonic = "mule network dust inch shell desert armor jeans fiction smoke violin mixed";

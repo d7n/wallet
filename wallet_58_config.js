@@ -1,1 +1,1 @@
-var mnemonic = "air citizen avoid diary afraid witness entire valley second recipe hair fall";
+var mnemonic = "cheese turkey few snake nose desk color whisper hotel forum brass goose";

@@ -1,1 +1,1 @@
-var mnemonic = "guide design melt orange scorpion drastic situate scale grab payment notable where";
+var mnemonic = "fade exclude amused latin casino leg cram refuse review erode bicycle endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist outdoor away salute cherry napkin enact culture away same session alone";
+var mnemonic = "soccer pupil second save style illegal regular ivory sketch purity zoo sorry";

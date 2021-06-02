@@ -1,1 +1,1 @@
-var mnemonic = "sad alcohol wish behave vessel wasp furnace gasp ancient eight float benefit";
+var mnemonic = "motion universe mean until retire today elbow work bonus roof hood apology";

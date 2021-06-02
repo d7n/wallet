@@ -1,1 +1,1 @@
-var mnemonic = "kind oblige hole trip cruise unhappy limit ritual fuel shift atom fat";
+var mnemonic = "stock risk toss jealous have hard apology hundred axis pen weather route";

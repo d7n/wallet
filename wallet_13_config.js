@@ -1,1 +1,1 @@
-var mnemonic = "sell ozone school couple nature fault online nose half stadium tackle comic";
+var mnemonic = "clinic help celery busy era receive rather merit hero parade alarm woman";

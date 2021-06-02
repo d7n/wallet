@@ -1,1 +1,1 @@
-var mnemonic = "few energy van afford rule banana decorate hedgehog lounge ahead congress adapt";
+var mnemonic = "myself apology smoke grape you coffee rifle north prefer chimney lawn drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "speak surprise toddler head floor cherry actor assist crack apart meat delay";
+var mnemonic = "know kiwi slush depth atom leopard ozone ugly myself indoor mixed lazy";

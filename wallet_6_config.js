@@ -1,1 +1,1 @@
-var mnemonic = "fence pepper interest snap hurdle lucky oppose elbow horror guitar shy water";
+var mnemonic = "borrow force evolve lunch ball arch tiger tenant arm capable bachelor horn";

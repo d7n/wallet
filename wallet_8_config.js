@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit capable man hunt mass orbit farm kiss ill craft soup chalk";
+var mnemonic = "primary follow ready excuse guard antique seat pudding index various whip just";

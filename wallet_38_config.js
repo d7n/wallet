@@ -1,1 +1,1 @@
-var mnemonic = "project glass margin sunny phone black dwarf wife feed code canyon room";
+var mnemonic = "pulp oval token stumble spread unaware worth kiwi vault box sniff crazy";

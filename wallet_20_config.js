@@ -1,1 +1,1 @@
-var mnemonic = "sword health frown once victory south suffer tree when flame wish clock";
+var mnemonic = "digital shock chronic loyal rabbit film stomach sign learn pencil dream trash";

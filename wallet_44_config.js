@@ -1,1 +1,1 @@
-var mnemonic = "problem exhaust stuff type multiply solid cliff cram bounce length space talk";
+var mnemonic = "awkward diamond option robot thing devote mandate advice diet quit music settle";

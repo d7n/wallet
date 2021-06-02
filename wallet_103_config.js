@@ -1,1 +1,1 @@
-var mnemonic = "wheat raw nest letter debate code true usage garden trip drift laugh";
+var mnemonic = "chunk announce voice bitter punch patch finish spin yellow tongue discover movie";

@@ -1,1 +1,1 @@
-var mnemonic = "gain syrup pair tag churn cute camera income plate picnic mobile dice";
+var mnemonic = "okay machine office zebra shift pause hill require step orient flock imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan tongue supply consider rug trap whisper jeans elder narrow produce silk";
+var mnemonic = "seminar almost stone example sentence toward open typical better child day because";

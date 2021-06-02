@@ -1,1 +1,1 @@
-var mnemonic = "enrich ridge buffalo divorce program grocery simple empty hurry acid habit put";
+var mnemonic = "pool seminar review drill kind whip design curtain chair peanut sea mirror";

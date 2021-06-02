@@ -1,1 +1,1 @@
-var mnemonic = "grow area celery month night sign popular denial affair vibrant virtual toss";
+var mnemonic = "future forward tragic scale jeans fossil mobile sing select still grab novel";

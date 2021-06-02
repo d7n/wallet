@@ -1,1 +1,1 @@
-var mnemonic = "machine venture expose skin life verb country habit scan fiber often island";
+var mnemonic = "concert cattle review merry amused remain page march knife wage enable multiply";

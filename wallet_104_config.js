@@ -1,1 +1,1 @@
-var mnemonic = "latin school jar cute pond crime alert laundry minimum trade trouble small";
+var mnemonic = "sniff coach bundle evidence exit waste trial one zero fitness panel rich";

@@ -1,1 +1,1 @@
-var mnemonic = "salon sleep blind ready museum love wash write rocket enemy input maximum";
+var mnemonic = "power release stand scorpion clinic fish flight leopard awake sand shock impulse";

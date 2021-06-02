@@ -1,1 +1,1 @@
-var mnemonic = "deny hedgehog pink wife unusual embody tank layer panic snack exact system";
+var mnemonic = "parrot icon fiction bomb invite oppose twin frequent swamp stay jar fiscal";

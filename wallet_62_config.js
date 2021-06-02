@@ -1,1 +1,1 @@
-var mnemonic = "lab involve table cliff cute skate jewel cushion orbit body want service";
+var mnemonic = "pizza capital birth clump skirt item eager siege danger spirit chief kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "candy innocent state sea excess fitness inner employ cricket wheel depart rookie";
+var mnemonic = "chair parade marriage snow junior real unit dance shoot ghost lecture quantum";

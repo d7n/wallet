@@ -1,1 +1,1 @@
-var mnemonic = "festival garage tribe rain mechanic swamp shuffle such poverty color staff awkward";
+var mnemonic = "session object august final major lecture badge sock buzz duck chest quality";

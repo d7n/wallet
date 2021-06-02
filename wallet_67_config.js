@@ -1,1 +1,1 @@
-var mnemonic = "know vault drama surprise cattle all liberty word fall risk tag siege";
+var mnemonic = "brown way jump bike want rally gym cruise glance cake absurd grape";

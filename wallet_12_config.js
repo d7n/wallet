@@ -1,1 +1,1 @@
-var mnemonic = "orient nice regular wreck gravity bonus truth limit then cat chief viable";
+var mnemonic = "sting find select still come pottery kangaroo sad clay ethics shadow eagle";

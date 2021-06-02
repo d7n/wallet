@@ -1,1 +1,1 @@
-var mnemonic = "future mixed steak design worth eager chief possible inform urge flight soft";
+var mnemonic = "diamond garbage peanut learn estate can flavor desk claw shop puppy print";

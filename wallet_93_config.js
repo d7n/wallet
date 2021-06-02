@@ -1,1 +1,1 @@
-var mnemonic = "find emotion junior paddle track bag gun olive crumble sorry alarm guilt";
+var mnemonic = "obvious math better catalog vendor nose subject hope grow strike borrow legal";

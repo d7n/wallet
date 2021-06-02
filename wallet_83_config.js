@@ -1,1 +1,1 @@
-var mnemonic = "slide since mind edit jacket other curve evoke plunge carry you crush";
+var mnemonic = "accuse figure pause feature waste truly guard deer hour ship gas soccer";

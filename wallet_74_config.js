@@ -1,1 +1,1 @@
-var mnemonic = "frame purpose soup abstract crane flash mention purpose whale ocean spatial antique";
+var mnemonic = "switch cattle tomato source there announce dawn choose asthma inherit excite daring";

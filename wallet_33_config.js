@@ -1,1 +1,1 @@
-var mnemonic = "bird enhance key rifle artwork rotate cry educate potato issue balcony bench";
+var mnemonic = "tool live library coral enjoy section dinosaur dirt husband expand science recipe";

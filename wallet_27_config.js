@@ -1,1 +1,1 @@
-var mnemonic = "require assist judge smoke hurdle divorce bleak pizza drink ribbon robust float";
+var mnemonic = "move stable machine happy trick friend gorilla party velvet dish boss essay";

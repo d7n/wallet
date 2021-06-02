@@ -1,1 +1,1 @@
-var mnemonic = "add volcano imitate strong general today hold sniff slush stock help drip";
+var mnemonic = "essence chair wild false want enough describe wet cup stable involve flush";

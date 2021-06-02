@@ -1,1 +1,1 @@
-var mnemonic = "dose emotion edit size pilot silver chimney balcony animal speed tragic program";
+var mnemonic = "best ordinary modify cause eagle describe food pigeon junk slogan rose midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "pave clean sail silent abstract penalty about slow track muscle buffalo misery";
+var mnemonic = "thumb today reform smooth claim fault weapon wheat arrow medal push lyrics";

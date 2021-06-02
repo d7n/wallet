@@ -1,1 +1,1 @@
-var mnemonic = "jar improve hotel draw spin sustain feature rigid exotic offer dad between";
+var mnemonic = "zebra favorite input faculty always rent bottom found kitchen super sample alone";

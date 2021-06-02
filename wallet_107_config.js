@@ -1,1 +1,1 @@
-var mnemonic = "warfare machine marriage chimney shift dice pair talk early figure sibling episode";
+var mnemonic = "poem punch pill sort sun deputy pioneer skull window reject sort cupboard";

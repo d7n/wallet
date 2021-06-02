@@ -1,1 +1,1 @@
-var mnemonic = "thought tragic globe rack type double success type hundred priority have rookie";
+var mnemonic = "material camera truth axis used attitude hover dignity champion inspire plug cool";

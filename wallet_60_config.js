@@ -1,1 +1,1 @@
-var mnemonic = "invite tag ghost return destroy corn trigger example glad hedgehog grape length";
+var mnemonic = "ecology barely box honey lion scheme tape seek joy cattle turtle glide";

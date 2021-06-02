@@ -1,1 +1,1 @@
-var mnemonic = "someone nose wrap naive deliver cotton balance fantasy cash country doctor steak";
+var mnemonic = "expand tunnel matrix memory useless owner audit alcohol squirrel tide twist snake";

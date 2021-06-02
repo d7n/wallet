@@ -1,1 +1,1 @@
-var mnemonic = "call defy uncle suffer honey coffee lesson donor pistol diary laugh stick";
+var mnemonic = "ten make proof half balance doctor festival special extend foot can indoor";

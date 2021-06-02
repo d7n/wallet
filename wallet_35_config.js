@@ -1,1 +1,1 @@
-var mnemonic = "deny frost talent share actual news asset novel gadget draw worry genre";
+var mnemonic = "motion sure hire poverty novel disagree bargain more material chimney parrot proud";

@@ -1,1 +1,1 @@
-var mnemonic = "equip split promote baby acoustic laptop enough spawn unit use shrimp perfect";
+var mnemonic = "nasty require range burden lava afraid vault ensure nurse eight artist poverty";

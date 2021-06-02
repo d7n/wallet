@@ -1,1 +1,1 @@
-var mnemonic = "paddle kind apple tell fish salad arm decade easy regular despair police";
+var mnemonic = "cradle border music erupt group trend canal chimney gift energy cute gain";

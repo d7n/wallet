@@ -1,1 +1,1 @@
-var mnemonic = "glide tuition plunge action pipe average rib final dog invite size gentle";
+var mnemonic = "slim original thunder era shed hip banana race small draw critic deliver";

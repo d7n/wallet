@@ -1,1 +1,1 @@
-var mnemonic = "radar inch turtle word glove wage parrot vocal cabin flip aerobic fossil";
+var mnemonic = "nest tooth echo bottom unique dentist issue gravity pepper baby loan spell";

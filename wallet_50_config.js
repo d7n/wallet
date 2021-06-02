@@ -1,1 +1,1 @@
-var mnemonic = "color female inner cushion around arena bonus october toward code invite tape";
+var mnemonic = "very embody neglect february wet attract honey farm couch mouse inner fall";

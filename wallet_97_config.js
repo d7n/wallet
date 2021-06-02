@@ -1,1 +1,1 @@
-var mnemonic = "trigger camp fresh angry slogan true emotion side always feature pencil coral";
+var mnemonic = "hurry copper sense gate stereo truck cycle lava october dirt seven knock";

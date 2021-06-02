@@ -1,1 +1,1 @@
-var mnemonic = "repair matrix jaguar utility apart switch recycle corn escape print sing absurd";
+var mnemonic = "either pride crawl make visual talent stadium oblige fault powder tool burger";

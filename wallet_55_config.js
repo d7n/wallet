@@ -1,1 +1,1 @@
-var mnemonic = "claw access poet toddler excite crowd diesel coffee palm depend unhappy wrestle";
+var mnemonic = "price question devote depart zebra million crop letter humor swarm smile check";

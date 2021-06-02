@@ -1,1 +1,1 @@
-var mnemonic = "north fluid vague topple river person canal resist about punch gadget odor";
+var mnemonic = "trend lift pupil tennis merry action shoot wool crush rival toy license";

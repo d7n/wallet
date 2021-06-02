@@ -1,1 +1,1 @@
-var mnemonic = "express plug mom recipe state between true season pride search bonus father";
+var mnemonic = "approve chase mom kangaroo goddess feature also scheme pistol home message worth";

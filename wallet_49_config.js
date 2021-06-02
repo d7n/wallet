@@ -1,1 +1,1 @@
-var mnemonic = "way dynamic fire enact tip immune lottery mango proud mad essay provide";
+var mnemonic = "apple ability coyote govern amused food chef immense globe test horse hen";

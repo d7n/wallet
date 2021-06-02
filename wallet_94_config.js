@@ -1,1 +1,1 @@
-var mnemonic = "cloud knife confirm minimum magic coral boat use replace front fit social";
+var mnemonic = "tent power blue pause police say glimpse brisk arrange duck note glimpse";

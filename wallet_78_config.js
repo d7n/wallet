@@ -1,1 +1,1 @@
-var mnemonic = "city fury other amateur avoid apart damp hat stand city hire keen";
+var mnemonic = "sad belt rack cinnamon fury torch type jazz hidden palace wink cannon";

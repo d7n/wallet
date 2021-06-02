@@ -1,1 +1,1 @@
-var mnemonic = "owner treat art grab second minute midnight wire lumber offer curve rough";
+var mnemonic = "medal artefact wrist measure gasp execute bind labor page make black eye";

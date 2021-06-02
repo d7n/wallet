@@ -1,1 +1,1 @@
-var mnemonic = "protect juice horror history correct arch cycle twice patch idle patrol brisk";
+var mnemonic = "term idle next uncover maze enroll spatial library wagon shift shoe lunch";

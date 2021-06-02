@@ -1,1 +1,1 @@
-var mnemonic = "lyrics moral bench dog cement one grant solve ripple course purpose space";
+var mnemonic = "render drop skate digital dentist grass crane slot wedding swim maze vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "load meadow organ coconut divide abstract put place gift enroll hover sport";
+var mnemonic = "sunny motor swim excite comic bird faculty question trick run custom toilet";

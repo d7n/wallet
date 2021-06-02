@@ -1,1 +1,1 @@
-var mnemonic = "purpose any find raven shine another tip hurdle fold frequent rebel city";
+var mnemonic = "hire misery private antenna sniff lion wagon issue term swear dwarf source";

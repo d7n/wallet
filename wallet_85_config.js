@@ -1,1 +1,1 @@
-var mnemonic = "art barely parrot miracle taste group access share aware curtain sketch gun";
+var mnemonic = "innocent merge body govern loop choice critic system humble method coffee certain";

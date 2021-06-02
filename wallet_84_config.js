@@ -1,1 +1,1 @@
-var mnemonic = "satoshi call marine inherit rail carpet girl patrol sea rice injury cup";
+var mnemonic = "jar gun auto case bring aim maze month warrior speed valve much";

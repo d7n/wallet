@@ -1,1 +1,1 @@
-var mnemonic = "outdoor shrimp cave pen neglect kid tennis giggle blade nature unhappy slim";
+var mnemonic = "pass execute north federal spike target lava kidney addict sniff material ripple";

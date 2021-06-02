@@ -1,1 +1,1 @@
-var mnemonic = "pilot swallow beef that apple mercy jazz age glimpse maid liar hotel";
+var mnemonic = "true walk harbor edge vapor ball relax present bar dance tuition jewel";

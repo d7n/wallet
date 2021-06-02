@@ -1,1 +1,1 @@
-var mnemonic = "maze bright party term agent grid rude ball same cargo soon public";
+var mnemonic = "coach convince during rebel spare tumble jealous kingdom chuckle upon filter filter";

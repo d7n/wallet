@@ -1,1 +1,1 @@
-var mnemonic = "country picnic coin kangaroo try flavor worry jump awful wreck poverty faith";
+var mnemonic = "extend liquid peanut art crew aerobic hub baby pond typical place garbage";

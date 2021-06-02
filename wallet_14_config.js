@@ -1,1 +1,1 @@
-var mnemonic = "pill two void gasp man rough kidney cabin knee paper chapter civil";
+var mnemonic = "random produce vital eyebrow master vehicle anger enlist day reduce symptom sight";

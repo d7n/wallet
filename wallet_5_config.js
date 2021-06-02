@@ -1,1 +1,1 @@
-var mnemonic = "main little sauce animal nephew cactus modify town sunny sad merit candy";
+var mnemonic = "expand picture alone kiwi race dolphin away second argue slow giant decade";

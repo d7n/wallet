@@ -1,1 +1,1 @@
-var mnemonic = "review canvas laptop fashion chalk puzzle educate dance extra churn mimic excite";
+var mnemonic = "mix hundred air receive job note harvest broom syrup town napkin stage";

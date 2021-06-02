@@ -1,1 +1,1 @@
-var mnemonic = "climb sword boy thumb mosquito diamond obtain hurt spoil night thought youth";
+var mnemonic = "supply royal praise radio alley perfect jeans onion will photo goose smooth";

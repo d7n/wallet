@@ -1,1 +1,1 @@
-var mnemonic = "pioneer slice only skill mean dutch silly hill drum exit penalty clap";
+var mnemonic = "record wheat person useful junk believe review snake steak lecture excess seat";

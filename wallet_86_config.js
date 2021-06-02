@@ -1,1 +1,1 @@
-var mnemonic = "faint slab tobacco quantum fame hero hidden side tonight pattern equip trial";
+var mnemonic = "palm town bulb ramp owner glide false verify scrub bright below utility";

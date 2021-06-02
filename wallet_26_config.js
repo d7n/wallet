@@ -1,1 +1,1 @@
-var mnemonic = "polar sponsor talent need comic amateur stay six range crash private combine";
+var mnemonic = "heavy water project stool scene wool insect busy acoustic drastic remain run";

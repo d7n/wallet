@@ -1,1 +1,1 @@
-var mnemonic = "pilot wage note upgrade dose luggage teach effort monitor glad blanket cannon";
+var mnemonic = "orchard reform doll pioneer kid ghost armed sauce strike mixed song super";

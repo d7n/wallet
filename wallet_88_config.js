@@ -1,1 +1,1 @@
-var mnemonic = "mushroom symbol monkey thrive nice select decade live stage fix tool fix";
+var mnemonic = "trend opinion case view category left increase sport hood wear tool ceiling";

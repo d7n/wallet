@@ -1,1 +1,1 @@
-var mnemonic = "demise legal night quiz grain type manual skirt scatter weapon exclude daring";
+var mnemonic = "pill repeat obscure interest surface behave awful gospel asthma inflict runway normal";

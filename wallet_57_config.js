@@ -1,1 +1,1 @@
-var mnemonic = "embark vessel sample easily celery august defense symptom toddler voyage item aunt";
+var mnemonic = "salad ugly hen laundry tongue bargain armor consider person turkey fuel body";

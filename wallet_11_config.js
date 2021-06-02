@@ -1,1 +1,1 @@
-var mnemonic = "differ vehicle boil pass ankle develop surprise prosper client chaos patch melt";
+var mnemonic = "diary good claw check marine leave legend assume convince depth exhibit cross";

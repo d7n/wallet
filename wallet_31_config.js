@@ -1,1 +1,1 @@
-var mnemonic = "across foam error era hill renew express flock decade vibrant awesome unfair";
+var mnemonic = "tooth boy supply cheap glare venture stand garment box liar enable omit";

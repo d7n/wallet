@@ -1,1 +1,1 @@
-var mnemonic = "green fortune shadow sketch finger toward scorpion text super okay walk pipe";
+var mnemonic = "vehicle into wealth raven grow fatal come universe hen girl polar black";

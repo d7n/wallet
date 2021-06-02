@@ -1,1 +1,1 @@
-var mnemonic = "picnic uncle push pencil elbow actual anxiety blame fury dutch during achieve";
+var mnemonic = "business gossip reject vicious clip hurdle equal silent proud powder later brave";

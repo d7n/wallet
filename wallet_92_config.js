@@ -1,1 +1,1 @@
-var mnemonic = "summer door grunt apple purity once negative monster kite input pepper lucky";
+var mnemonic = "ozone spread unusual hard genuine cotton beauty kingdom gas reduce thought slight";

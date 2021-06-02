@@ -1,1 +1,1 @@
-var mnemonic = "cash slam thrive veteran almost peanut tank chest main boss venture disagree";
+var mnemonic = "earth fade swim label purchase mass clip attend maximum payment rain left";

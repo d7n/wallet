@@ -1,1 +1,1 @@
-var mnemonic = "price layer charge maze decide aim tuition index pizza access better bargain";
+var mnemonic = "pig breeze saddle capable animal rib rival plunge cycle jar inherit drama";
