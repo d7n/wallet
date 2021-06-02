@@ -1,1 +1,1 @@
-var mnemonic = "seek degree ten riot festival sound tray october kitchen diamond swallow account";
+var mnemonic = "helmet south assume material magnet injury hat skin badge praise system history";

@@ -1,1 +1,1 @@
-var mnemonic = "famous imitate ten steel rebel zero flight style scorpion okay trend bench";
+var mnemonic = "crime patient witness crop quiz nephew major devote beef knee laugh nice";

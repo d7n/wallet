@@ -1,1 +1,1 @@
-var mnemonic = "gorilla spirit bundle blur scan chicken dismiss range proud faculty liquid main";
+var mnemonic = "orphan scout column tattoo will almost wrong draw general hidden car orchard";

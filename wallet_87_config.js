@@ -1,1 +1,1 @@
-var mnemonic = "nose cycle glow useless hen beyond panda head regular indoor lawsuit dynamic";
+var mnemonic = "menu cave better spider sudden there omit panther until pride outer develop";

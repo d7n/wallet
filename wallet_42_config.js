@@ -1,1 +1,1 @@
-var mnemonic = "obey garlic twist violin burger already donate feature brass grocery torch north";
+var mnemonic = "extend any quote sail more parent pass prepare robot initial desk unique";

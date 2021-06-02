@@ -1,1 +1,1 @@
-var mnemonic = "noble equal soldier retire guitar level initial lamp artefact unaware ketchup point";
+var mnemonic = "judge buffalo insane credit exhaust garlic enter canoe twist fee either glare";

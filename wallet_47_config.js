@@ -1,1 +1,1 @@
-var mnemonic = "man object behind heavy moral coin inherit tackle attitude resist flat walk";
+var mnemonic = "model unable canal mystery pioneer close asthma relief rival exhaust truth stock";

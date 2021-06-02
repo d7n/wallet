@@ -1,1 +1,1 @@
-var mnemonic = "tide company road license laundry today loop nature luggage view album degree";
+var mnemonic = "crack hedgehog output oxygen soul clerk erode erosion busy release need tray";

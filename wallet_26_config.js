@@ -1,1 +1,1 @@
-var mnemonic = "quit trumpet author assist scene explain curve cost scrub grass custom arena";
+var mnemonic = "bird swear gown during envelope oblige pond announce useful aunt abandon coil";

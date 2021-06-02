@@ -1,1 +1,1 @@
-var mnemonic = "below build box tribe home merit major program fatal damage kite response";
+var mnemonic = "morning height near earn type blouse label owner dolphin museum crop finish";

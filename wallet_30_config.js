@@ -1,1 +1,1 @@
-var mnemonic = "valley receive pave balance attack enough globe mixed piece obtain screen various";
+var mnemonic = "stock fruit exact wrap debris theory rabbit someone walnut daring olive credit";

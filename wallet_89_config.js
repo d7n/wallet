@@ -1,1 +1,1 @@
-var mnemonic = "teach rhythm giraffe wedding domain enemy siege lamp license napkin then tennis";
+var mnemonic = "series ivory photo birth champion breeze stool dwarf wink claim post tip";

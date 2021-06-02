@@ -1,1 +1,1 @@
-var mnemonic = "wash media tag dash height marriage depart alarm hidden curtain detail snack";
+var mnemonic = "ceiling lady silk aware announce ketchup planet toddler silk garage amused humble";

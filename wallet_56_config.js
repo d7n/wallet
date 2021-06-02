@@ -1,1 +1,1 @@
-var mnemonic = "cricket excuse tumble give shallow visa use swim crucial special crazy destroy";
+var mnemonic = "glory drama riot become sunset diagram elevator alley bachelor sight lens ability";

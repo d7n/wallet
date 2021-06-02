@@ -1,1 +1,1 @@
-var mnemonic = "lounge start ship wide credit attitude illness alien voice theory obscure share";
+var mnemonic = "title frequent under salon vicious cigar coin depart birth flight return guitar";

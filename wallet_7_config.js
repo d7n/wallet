@@ -1,1 +1,1 @@
-var mnemonic = "trick unlock decade sponsor involve thrive fault exclude birth use position august";
+var mnemonic = "talent tuna fiber drill zone country bundle bicycle damage apart history enrich";

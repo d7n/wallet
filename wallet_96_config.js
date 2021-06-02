@@ -1,1 +1,1 @@
-var mnemonic = "spy name crush immense fly spy cargo baby book mango august saddle";
+var mnemonic = "owner region tunnel swap palace fan young certain federal awful bitter humble";

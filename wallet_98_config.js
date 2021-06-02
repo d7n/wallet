@@ -1,1 +1,1 @@
-var mnemonic = "phone acoustic design area album earn high throw atom sell crew bid";
+var mnemonic = "claw fresh code notable blind denial destroy mask identify law great find";

@@ -1,1 +1,1 @@
-var mnemonic = "slush dragon sustain current upper recipe real satoshi home arrive truth friend";
+var mnemonic = "glimpse leg street warfare cave help usual thumb glow burst horn clog";

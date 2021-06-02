@@ -1,1 +1,1 @@
-var mnemonic = "emerge pipe rifle luxury pumpkin tornado oval zebra daring soccer danger promote";
+var mnemonic = "chaos lyrics spice chaos record tail army rely border mean almost grit";

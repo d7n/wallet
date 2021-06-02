@@ -1,1 +1,1 @@
-var mnemonic = "laugh digital myself art dry horror mom impulse dose federal pluck race";
+var mnemonic = "still current cool clarify zebra large toy ostrich multiply demise name leisure";

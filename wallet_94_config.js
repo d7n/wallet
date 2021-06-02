@@ -1,1 +1,1 @@
-var mnemonic = "smooth warrior earn begin wire risk sibling kind blind excess inflict balance";
+var mnemonic = "excite insect name loud tumble enable provide phrase inflict rug situate win";

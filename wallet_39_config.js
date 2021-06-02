@@ -1,1 +1,1 @@
-var mnemonic = "minute tattoo brand rose retire talent kangaroo tunnel shallow frog mystery spare";
+var mnemonic = "knife inner dash punch syrup fence picture rally property nature lounge plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "excess school depend govern apart order taste bar sock already story famous";
+var mnemonic = "pupil supply skirt debris announce sketch sun exclude surface lemon early safe";

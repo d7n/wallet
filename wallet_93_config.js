@@ -1,1 +1,1 @@
-var mnemonic = "label acid bronze trust antenna lamp card spare later junk climb autumn";
+var mnemonic = "ghost imitate dash cloud echo wasp gesture garage task wage online cool";

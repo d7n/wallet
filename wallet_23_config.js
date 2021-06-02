@@ -1,1 +1,1 @@
-var mnemonic = "kiss middle patrol scout crumble satoshi subway uncover goose season target open";
+var mnemonic = "girl cherry tuna layer diagram upper grit sail embody actress lunar simple";

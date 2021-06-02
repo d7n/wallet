@@ -1,1 +1,1 @@
-var mnemonic = "mean prison denial miss office original fluid subject task notice other capital";
+var mnemonic = "able stumble half page what grid diary forest address upset daughter feel";

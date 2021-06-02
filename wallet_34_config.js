@@ -1,1 +1,1 @@
-var mnemonic = "quarter focus protect maximum smoke suspect empty face glance exclude scorpion recipe";
+var mnemonic = "security chest plunge dilemma rare myself equip index essence peanut agree income";

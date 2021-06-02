@@ -1,1 +1,1 @@
-var mnemonic = "feature symptom luxury gift maple powder mammal turtle indicate verb inspire sun";
+var mnemonic = "phone cup arrive aunt timber check fat item gun wrap rookie change";

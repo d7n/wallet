@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dinner mango update remember crater drum ugly draw abandon chest health";
+var mnemonic = "palace bundle drum sample wage doll control advance raven sample hamster bunker";

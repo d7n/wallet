@@ -1,1 +1,1 @@
-var mnemonic = "corn file wrist just leaf balcony amount paper focus modify dilemma deal";
+var mnemonic = "dignity speed afraid put island poem alpha absorb decade team leisure beef";

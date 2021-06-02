@@ -1,1 +1,1 @@
-var mnemonic = "tobacco unfair tunnel exist news ankle blossom foil dust umbrella claim pledge";
+var mnemonic = "bid miracle paddle hover rocket tide antique mutual puppy pig real deny";

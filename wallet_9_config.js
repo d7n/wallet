@@ -1,1 +1,1 @@
-var mnemonic = "orbit tell thumb effort confirm bachelor secret timber company raise tray ramp";
+var mnemonic = "owner silent smart forest flag alley light common spy device quantum below";

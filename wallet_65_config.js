@@ -1,1 +1,1 @@
-var mnemonic = "wild video air pyramid desert wet grocery palace husband rebel stay hen";
+var mnemonic = "stick vacant celery essence fish else balance muscle confirm evil barely layer";

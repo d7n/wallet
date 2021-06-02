@@ -1,1 +1,1 @@
-var mnemonic = "impact rescue bless pudding what pottery cook immune tail pill talent tape";
+var mnemonic = "color grace mimic dog misery ankle ring bright recall walk arctic zone";

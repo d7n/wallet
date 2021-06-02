@@ -1,1 +1,1 @@
-var mnemonic = "add indoor fire board local evidence book exchange direct sweet ski path";
+var mnemonic = "vague hamster armed gun special trumpet found void cash stove sting energy";

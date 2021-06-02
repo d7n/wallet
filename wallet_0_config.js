@@ -1,1 +1,1 @@
-var mnemonic = "buyer disorder kitten echo forget ostrich gauge muffin gorilla erode rice spin";
+var mnemonic = "amazing scare cradle quit bird drill athlete model gospel concert satoshi scale";

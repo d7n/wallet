@@ -1,1 +1,1 @@
-var mnemonic = "clump dynamic mobile eternal chronic bench treat hedgehog april turtle occur corn";
+var mnemonic = "say stairs expand winner shiver lawn simple busy select sun cat lazy";

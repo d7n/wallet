@@ -1,1 +1,1 @@
-var mnemonic = "valid avoid vanish enrich swing cargo furnace skull dragon stereo second caution";
+var mnemonic = "city discover grab police analyst story nuclear lizard olive clerk draw tunnel";

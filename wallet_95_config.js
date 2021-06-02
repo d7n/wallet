@@ -1,1 +1,1 @@
-var mnemonic = "essence cross lumber goat twin buyer alert true lady tonight inch inherit";
+var mnemonic = "weird meat meat train undo chest lion bid outer flame people predict";

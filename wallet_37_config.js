@@ -1,1 +1,1 @@
-var mnemonic = "police melody box smile paddle situate assist risk spot keep crucial else";
+var mnemonic = "misery dentist pelican real short caution access panic obtain correct since tone";

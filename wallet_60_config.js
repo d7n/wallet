@@ -1,1 +1,1 @@
-var mnemonic = "tide depend nose van winner senior roast hurt novel practice throw glare";
+var mnemonic = "motor dust patch child area model great quit aspect mango label radio";

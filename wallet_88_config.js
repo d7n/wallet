@@ -1,1 +1,1 @@
-var mnemonic = "narrow meadow boring chicken attract foam lazy prefer deer smooth submit sail";
+var mnemonic = "symbol awake jungle empty quantum alley okay sheriff aim nuclear ketchup sign";

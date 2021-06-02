@@ -1,1 +1,1 @@
-var mnemonic = "solid follow clever banana runway sponsor index destroy grace easily arrive rice";
+var mnemonic = "bulb cancel media cloud hamster knock alarm dose patch waste neck slice";

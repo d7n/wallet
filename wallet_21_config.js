@@ -1,1 +1,1 @@
-var mnemonic = "middle bullet turn canal man father question friend rose boring maximum govern";
+var mnemonic = "feature kangaroo outdoor ranch slot verify return shoe federal steel lecture manual";

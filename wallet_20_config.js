@@ -1,1 +1,1 @@
-var mnemonic = "blossom guide kiwi hunt party diet twelve all stay gauge solve focus";
+var mnemonic = "capable damage quarter reduce hand squirrel stool property shine pledge eternal mercy";

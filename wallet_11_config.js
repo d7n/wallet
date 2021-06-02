@@ -1,1 +1,1 @@
-var mnemonic = "federal have cruel amount anchor funny duck way skin upper dry tribe";
+var mnemonic = "normal hello bless fade hammer run tooth motor direct fragile truck fruit";

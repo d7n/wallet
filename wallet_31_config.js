@@ -1,1 +1,1 @@
-var mnemonic = "language roast economy code point crazy afford when team use card visa";
+var mnemonic = "identify become stay receive skill honey message addict alien stove festival ugly";

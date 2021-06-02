@@ -1,1 +1,1 @@
-var mnemonic = "broccoli age box layer among gorilla buzz acid annual amount they rescue";
+var mnemonic = "quantum blouse decorate armed sail clay park news connect myself gate above";

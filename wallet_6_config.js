@@ -1,1 +1,1 @@
-var mnemonic = "crunch poem eager collect session hero quantum sunset word mind post maple";
+var mnemonic = "brave idle tooth other feed purity busy lobster edit pill staff dizzy";

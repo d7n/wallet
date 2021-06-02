@@ -1,1 +1,1 @@
-var mnemonic = "youth unit sniff leader dolphin cup spice biology plastic refuse outer refuse";
+var mnemonic = "loyal melody radio toilet logic comfort picture equip mule jewel walk door";

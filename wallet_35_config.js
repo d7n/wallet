@@ -1,1 +1,1 @@
-var mnemonic = "rebel blossom inquiry knock garden notable check outside woman crater mouse monkey";
+var mnemonic = "limit wreck taste film unusual clock dash muscle gentle broken risk birth";

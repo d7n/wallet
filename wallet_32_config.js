@@ -1,1 +1,1 @@
-var mnemonic = "bright okay slush toast twin basket immense bus giraffe danger solve hammer";
+var mnemonic = "click thing bamboo roof cool nasty average trial blur camera supply child";

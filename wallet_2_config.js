@@ -1,1 +1,1 @@
-var mnemonic = "innocent picnic phone rule cousin capital decline attack depend like throw romance";
+var mnemonic = "where hint review clerk public bless seek game upon expect leopard slide";

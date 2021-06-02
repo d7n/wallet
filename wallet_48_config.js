@@ -1,1 +1,1 @@
-var mnemonic = "either math jump rival first segment first rude lend foot mushroom captain";
+var mnemonic = "approve beauty endless buffalo affair upper math live model garlic forward roast";

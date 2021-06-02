@@ -1,1 +1,1 @@
-var mnemonic = "crouch cash arrange dwarf comfort oil bubble abandon fence way raw crisp";
+var mnemonic = "service slice idea stone black duty settle seed edge pupil devote into";

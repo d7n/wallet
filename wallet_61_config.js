@@ -1,1 +1,1 @@
-var mnemonic = "master spatial today runway south later butter rotate learn install need idea";
+var mnemonic = "usage rocket open disorder scrap anger hamster indicate flight unusual rule focus";

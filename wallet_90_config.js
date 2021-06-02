@@ -1,1 +1,1 @@
-var mnemonic = "bless dilemma observe video execute price title boy assist angry journey noise";
+var mnemonic = "lend develop ancient inner suffer post enhance bone coast hen tennis vague";

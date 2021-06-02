@@ -1,1 +1,1 @@
-var mnemonic = "fish egg actress easily reward jewel north scan enact never ill stage";
+var mnemonic = "regular arrest combine awake trial play episode radar lottery ugly cricket hold";

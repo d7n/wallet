@@ -1,1 +1,1 @@
-var mnemonic = "arrange toward dove pet position ribbon wet whip special tuition tragic parrot";
+var mnemonic = "height lunar alpha envelope gym lens census fine express finger claim citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle popular train finger one damage volcano crime artwork bunker observe twice";
+var mnemonic = "bus tomato armed senior relax fame student enhance safe mango chunk similar";

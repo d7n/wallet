@@ -1,1 +1,1 @@
-var mnemonic = "sentence bargain utility spend scale never describe shove hint cabin catch pulse";
+var mnemonic = "fine menu subject priority weather carbon milk palace lemon release valley exile";

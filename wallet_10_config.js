@@ -1,1 +1,1 @@
-var mnemonic = "wool kit liberty turn boost wait course cradle theme trap able hospital";
+var mnemonic = "pulp deer prison way patient year female custom exact whip inherit spray";

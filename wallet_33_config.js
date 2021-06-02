@@ -1,1 +1,1 @@
-var mnemonic = "feed distance source have code law myself scrub comic undo survey unaware";
+var mnemonic = "upgrade embrace puppy truck system title water item atom bunker solid any";

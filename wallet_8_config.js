@@ -1,1 +1,1 @@
-var mnemonic = "property mutual flip feature below funny beauty inner wall pass auto west";
+var mnemonic = "grief east insect glove girl test borrow humor appear husband setup slab";

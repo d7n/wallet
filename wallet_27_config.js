@@ -1,1 +1,1 @@
-var mnemonic = "misery order cheap since below bread lunch trim vocal shuffle catalog jaguar";
+var mnemonic = "tell egg athlete opera suffer wreck session tuna dynamic quarter surprise brother";

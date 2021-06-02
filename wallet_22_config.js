@@ -1,1 +1,1 @@
-var mnemonic = "argue solid curtain shield island front very brand poet pair vendor grief";
+var mnemonic = "clutch near prefer sorry require usage remember alert guilt spot silly wait";

@@ -1,1 +1,1 @@
-var mnemonic = "armed law slow limb business fix slush zone suggest sing empower song";
+var mnemonic = "shop never stable capable menu level stool oven material express episode code";

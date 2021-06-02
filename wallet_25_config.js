@@ -1,1 +1,1 @@
-var mnemonic = "upper negative bike physical boil inject suspect certain ketchup uncover invite artwork";
+var mnemonic = "tooth rate anxiety cash aspect discover sibling bless rally eyebrow rate gesture";

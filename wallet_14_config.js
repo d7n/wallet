@@ -1,1 +1,1 @@
-var mnemonic = "join abuse hip reform similar same possible basket share relief fee under";
+var mnemonic = "library blouse wheat produce bacon page runway remember cover salute kiwi enter";

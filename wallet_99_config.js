@@ -1,1 +1,1 @@
-var mnemonic = "cupboard since wonder early mail mouse jeans confirm tiger balcony holiday faint";
+var mnemonic = "cinnamon daughter guard plunge helmet pull found attract equal cheese twice alter";

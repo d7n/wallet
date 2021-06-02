@@ -1,1 +1,1 @@
-var mnemonic = "movie exhibit dinner bamboo damage slow three level strategy upset chief matrix";
+var mnemonic = "fire fitness phone boring approve theory subject cluster resource prison photo used";

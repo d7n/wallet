@@ -1,1 +1,1 @@
-var mnemonic = "flag duty gown paddle law renew neck grape swim undo only bargain";
+var mnemonic = "accident gown mesh make panda extend coast stove right spirit before sunset";

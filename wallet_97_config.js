@@ -1,1 +1,1 @@
-var mnemonic = "civil pencil flight luxury fence manual orchard tumble entry shine exchange fuel";
+var mnemonic = "sand hazard type shift tragic version lunar cliff clog nut village clutch";

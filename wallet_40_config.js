@@ -1,1 +1,1 @@
-var mnemonic = "shop label chalk hip utility clutch industry blue favorite wire music fiction";
+var mnemonic = "wealth resist capital benefit exhaust pluck badge category achieve dolphin name water";

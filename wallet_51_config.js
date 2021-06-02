@@ -1,1 +1,1 @@
-var mnemonic = "boss erupt motor thunder connect bicycle blossom degree expect obscure salute toward";
+var mnemonic = "asset false tiny transfer crisp easy february range hockey meadow drill alarm";

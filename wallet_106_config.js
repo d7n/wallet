@@ -1,1 +1,1 @@
-var mnemonic = "whisper foot inform double feel imitate multiply tooth enjoy mystery differ defense";
+var mnemonic = "desk tank sheriff mimic mirror cycle outside spawn pattern achieve fabric menu";

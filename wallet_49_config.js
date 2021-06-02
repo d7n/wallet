@@ -1,1 +1,1 @@
-var mnemonic = "young onion winner vintage sorry ankle exile distance pass expire winter above";
+var mnemonic = "lawsuit economy relief vote board notable cloth egg spray brisk path first";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit sick bus funny weekend patch panda census avoid fault party reject";
+var mnemonic = "horror denial dinner slogan miracle pattern summer drastic weird moment honey ignore";

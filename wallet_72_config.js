@@ -1,1 +1,1 @@
-var mnemonic = "misery useful student carbon diesel rely empower snow lesson diet sell cave";
+var mnemonic = "make rude margin today stock enable mean garlic initial kidney venue sweet";

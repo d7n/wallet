@@ -1,1 +1,1 @@
-var mnemonic = "embody surprise angle interest quarter gift baby expose mimic street soft exhibit";
+var mnemonic = "major width once solar sick course cram skin vast promote intact cost";

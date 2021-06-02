@@ -1,1 +1,1 @@
-var mnemonic = "patient demand divorce slice cart frozen sunny usual into traffic fun fortune";
+var mnemonic = "bread lazy dial turn vault inch blur thunder bag inquiry jaguar coral";

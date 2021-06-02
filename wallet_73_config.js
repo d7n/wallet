@@ -1,1 +1,1 @@
-var mnemonic = "material cargo chalk essence hard radar color unit brass satoshi paddle tag";
+var mnemonic = "family school stem ask own pioneer stay spin great idea during gallery";

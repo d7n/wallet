@@ -1,1 +1,1 @@
-var mnemonic = "useful track away census resemble one table dilemma industry thunder pumpkin alpha";
+var mnemonic = "news matrix twin insane network quote west fame duck steel elite remain";

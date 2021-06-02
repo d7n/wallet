@@ -1,1 +1,1 @@
-var mnemonic = "civil spare pause letter resource daughter draw twelve woman cousin foot because";
+var mnemonic = "master uncle stamp coast vault visit bird reopen gather lazy thing analyst";

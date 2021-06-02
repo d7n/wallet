@@ -1,1 +1,1 @@
-var mnemonic = "jazz laundry wait exhibit ten primary imitate insect hurt achieve sound target";
+var mnemonic = "chimney boil minor jacket identify bench vivid allow decline carbon strong purchase";
