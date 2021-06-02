@@ -1,1 +1,1 @@
-var mnemonic = "mushroom media broccoli merge install field food case curtain soda badge parrot";
+var mnemonic = "donate away blue rigid scale wild illness fantasy tuition palm alley stereo";

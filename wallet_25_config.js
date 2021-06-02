@@ -1,1 +1,1 @@
-var mnemonic = "body endless waste chunk plate inner middle throw way february genre close";
+var mnemonic = "path exhibit file work book robot void amount diesel mountain drink issue";

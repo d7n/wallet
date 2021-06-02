@@ -1,1 +1,1 @@
-var mnemonic = "sausage follow nest coral board finger pyramid always prize fault nominee pyramid";
+var mnemonic = "seminar dust since lion know promote exit now response inch spare barely";

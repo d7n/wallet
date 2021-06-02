@@ -1,1 +1,1 @@
-var mnemonic = "cake tortoise render tube collect ocean trade uncle zone chuckle bubble lottery";
+var mnemonic = "margin initial bullet august expand coach pretty banana senior iron million eager";

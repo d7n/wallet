@@ -1,1 +1,1 @@
-var mnemonic = "cabin skirt meadow acoustic ball write hobby choice lottery apple process tuna";
+var mnemonic = "salt enrich dial frost dress powder cloth cigar cable seminar just leopard";

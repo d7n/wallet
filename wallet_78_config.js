@@ -1,1 +1,1 @@
-var mnemonic = "install crisp air middle milk educate bench clap flight brand citizen raw";
+var mnemonic = "very crop grape roof sense praise pudding until lumber prize sadness comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "push cost slush thunder flight shallow second cancel mandate trial pyramid quote";
+var mnemonic = "slide lab wolf wood spray across exchange amount accuse fatal amount minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "brief squeeze lawsuit notice heart extra negative belt rapid estate pipe toilet";
+var mnemonic = "replace now obtain hip merge alert fury grab west bring arrest cloud";

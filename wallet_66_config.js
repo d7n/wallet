@@ -1,1 +1,1 @@
-var mnemonic = "push sweet kitchen install path garbage wisdom worth diet immense cube adjust";
+var mnemonic = "peace wheat envelope canal dirt fancy cluster year soon dream fire salad";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm flag empower express surround client glory like today rigid physical civil";
+var mnemonic = "confirm puzzle march ladder carry swim impact mass genius foster water wage";

@@ -1,1 +1,1 @@
-var mnemonic = "salute genius label nuclear moral circle doctor distance forum fury pumpkin twelve";
+var mnemonic = "stick debris change argue spin there game badge orange powder bubble artefact";

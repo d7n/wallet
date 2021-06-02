@@ -1,1 +1,1 @@
-var mnemonic = "foam same farm arm pear fossil radar utility sort later breeze foam";
+var mnemonic = "tiger acoustic sense universe crop benefit tattoo engine collect prepare coffee pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise foam unhappy plunge access draw recall million argue august easily lounge";
+var mnemonic = "shuffle symbol weapon asthma patch you over brave merry whisper bring profit";

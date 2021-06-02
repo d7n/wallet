@@ -1,1 +1,1 @@
-var mnemonic = "child borrow anchor denial vehicle sock join vast song alcohol laugh village";
+var mnemonic = "coffee undo ankle meat charge build breeze sting swear maid spin crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "hover honey ostrich quiz dinosaur copy image man crunch duck swamp any";
+var mnemonic = "census enlist kiwi rather welcome charge course sadness section sausage help vocal";

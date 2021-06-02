@@ -1,1 +1,1 @@
-var mnemonic = "tube obvious vicious gun pipe theme reflect silver party joke arrow nuclear";
+var mnemonic = "rail battle roast wrist album grass later cotton walk genius nest novel";

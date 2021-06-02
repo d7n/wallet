@@ -1,1 +1,1 @@
-var mnemonic = "track pyramid canal lobster hundred rabbit voyage tube common renew unable mystery";
+var mnemonic = "cradle wolf weird net tenant health idle imitate useful away eager genius";

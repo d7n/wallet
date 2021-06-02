@@ -1,1 +1,1 @@
-var mnemonic = "faculty frown gravity fat boost web still dizzy dish enjoy same inform";
+var mnemonic = "surface during vicious tide traffic garbage bonus october exact dust weather fade";

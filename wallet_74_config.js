@@ -1,1 +1,1 @@
-var mnemonic = "kick remove siege neutral odor caution birth police stumble nominee pen around";
+var mnemonic = "judge carry useful neutral any end conduct echo second autumn purchase boost";

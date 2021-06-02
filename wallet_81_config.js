@@ -1,1 +1,1 @@
-var mnemonic = "image flush mimic equip supreme vital frown canvas napkin output faculty cactus";
+var mnemonic = "below broom only monitor twin book safe key asset correct carry female";

@@ -1,1 +1,1 @@
-var mnemonic = "access gap noise coral wolf tray zoo moral music problem staff actor";
+var mnemonic = "wire surface tape cat plunge sniff few rally invite height gadget doll";

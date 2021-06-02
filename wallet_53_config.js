@@ -1,1 +1,1 @@
-var mnemonic = "coyote rent return addict mention better bridge latin garlic injury fashion addict";
+var mnemonic = "axis glow delay length vessel cliff palm convince option ritual rural myth";

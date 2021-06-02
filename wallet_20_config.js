@@ -1,1 +1,1 @@
-var mnemonic = "train suggest tragic enact media female face begin caution wage globe use";
+var mnemonic = "cook output latin make riot fire clay cry casino task trend extend";

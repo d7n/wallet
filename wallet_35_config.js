@@ -1,1 +1,1 @@
-var mnemonic = "bone rural range room panther try pear bracket main nice relief retire";
+var mnemonic = "shuffle draft morning favorite scatter chunk upon famous chef acoustic wheel extend";

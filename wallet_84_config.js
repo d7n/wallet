@@ -1,1 +1,1 @@
-var mnemonic = "empower metal problem apple lion canvas dumb announce tunnel hockey abuse carpet";
+var mnemonic = "bacon thank prize surge dress mammal dynamic tide wedding flip rival source";

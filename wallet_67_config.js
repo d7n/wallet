@@ -1,1 +1,1 @@
-var mnemonic = "spend imitate enable off creek zero ostrich grain forward mechanic protect put";
+var mnemonic = "foster filter wealth choose explain foot grace love clump valid reunion bright";

@@ -1,1 +1,1 @@
-var mnemonic = "odor system audit example virus few refuse sing field stove keen genuine";
+var mnemonic = "bike deny wide result circle sibling aisle census hour shaft shift frost";

@@ -1,1 +1,1 @@
-var mnemonic = "banana bounce thing comfort blossom balance gloom cup feel sword cluster light";
+var mnemonic = "tank diamond warm tiny divert math purchase rapid filter name tragic tree";

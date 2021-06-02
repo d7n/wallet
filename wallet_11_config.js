@@ -1,1 +1,1 @@
-var mnemonic = "dawn unusual ketchup acid spin chaos weasel subway motor injury live blue";
+var mnemonic = "people custom fantasy unhappy evolve resource laundry injury carbon purse sail biology";

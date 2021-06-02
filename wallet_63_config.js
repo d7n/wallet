@@ -1,1 +1,1 @@
-var mnemonic = "suffer empower ask slush patch gaze law squeeze erode master range argue";
+var mnemonic = "napkin relax rocket joy emotion solve beach useful erase nuclear treat door";

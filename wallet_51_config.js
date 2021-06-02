@@ -1,1 +1,1 @@
-var mnemonic = "early soap second charge number love mango height atom hub feed van";
+var mnemonic = "donkey stable tooth buddy vacant radio crazy harbor degree voice olympic fancy";

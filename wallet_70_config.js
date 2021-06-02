@@ -1,1 +1,1 @@
-var mnemonic = "trust spike pepper promote eternal okay news kiss hub any seven warm";
+var mnemonic = "demise tongue private goose syrup pipe garage senior topic file present drama";

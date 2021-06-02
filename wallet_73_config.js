@@ -1,1 +1,1 @@
-var mnemonic = "stool cave response input envelope similar during loud little actual act vanish";
+var mnemonic = "wheat tank strong lava hold indoor suggest material strike awkward energy marriage";

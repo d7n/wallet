@@ -1,1 +1,1 @@
-var mnemonic = "minute rookie device left post craft lens lucky collect smart chuckle toss";
+var mnemonic = "recycle surface dune submit seven cactus improve elbow sudden dish lyrics hover";

@@ -1,1 +1,1 @@
-var mnemonic = "edit wrong bonus surprise transfer collect stumble chief sphere envelope trim oblige";
+var mnemonic = "garment nerve tank panther choose where thunder kite mix embody shrimp wise";

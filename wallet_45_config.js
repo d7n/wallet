@@ -1,1 +1,1 @@
-var mnemonic = "pipe peanut horn diamond paper mixed permit purchase spice grape brain casual";
+var mnemonic = "daughter service spawn satoshi olive people boil west saddle soft dust advance";

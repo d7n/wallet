@@ -1,1 +1,1 @@
-var mnemonic = "humble stay unique method cabbage gesture table audit bike elevator solution volcano";
+var mnemonic = "token ecology radar cute great peanut tennis group grab twist pupil increase";

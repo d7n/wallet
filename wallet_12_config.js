@@ -1,1 +1,1 @@
-var mnemonic = "welcome sword edit they fame abstract silk witness globe bullet catalog humor";
+var mnemonic = "club define maid spider much swear blanket obey butter return poverty crawl";

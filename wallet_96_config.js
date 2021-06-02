@@ -1,1 +1,1 @@
-var mnemonic = "second urge gasp swift glance cigar announce acoustic pipe duty suspect dad";
+var mnemonic = "bubble unusual hold frozen remove coach world fault climb title symbol pen";

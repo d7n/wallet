@@ -1,1 +1,1 @@
-var mnemonic = "require cart divert olympic west actress catalog shoe analyst visa able attitude";
+var mnemonic = "fold excess sleep taxi ski aunt swarm supply cake crisp once bomb";

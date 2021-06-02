@@ -1,1 +1,1 @@
-var mnemonic = "main easily sail draw cotton balance clip sign crater critic virtual speed";
+var mnemonic = "success mushroom urban solar tell universe sibling fat zebra trash squeeze jaguar";

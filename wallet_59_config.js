@@ -1,1 +1,1 @@
-var mnemonic = "trouble quarter spy slab state butter pencil flag cruise season school silver";
+var mnemonic = "lottery better below salute staff describe mean anger wink change hobby flame";

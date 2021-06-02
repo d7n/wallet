@@ -1,1 +1,1 @@
-var mnemonic = "share caution vast bus head sport engage athlete enlist opera hire divide";
+var mnemonic = "plunge divorce jump like notable rib almost process grace gasp solid shy";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate twist volume diagram floor frame captain trial live panther junk upper";
+var mnemonic = "domain prefer glance ozone absent abuse umbrella curious general boy discover guitar";

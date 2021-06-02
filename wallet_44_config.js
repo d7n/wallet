@@ -1,1 +1,1 @@
-var mnemonic = "shove enter camera expect veteran question blast gun wall apple slight good";
+var mnemonic = "hammer notable occur twist old print raise rally place candy mistake walk";

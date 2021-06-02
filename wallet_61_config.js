@@ -1,1 +1,1 @@
-var mnemonic = "screen submit picture era armed govern grass stereo boat wreck reform proof";
+var mnemonic = "grunt depart forward fall seek club video defy hedgehog relax curve pool";

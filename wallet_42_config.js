@@ -1,1 +1,1 @@
-var mnemonic = "toy blade bronze hundred dizzy second anchor loyal involve desert sick unlock";
+var mnemonic = "theme occur raise extend sense scare pet live knife broom picture inquiry";

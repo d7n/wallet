@@ -1,1 +1,1 @@
-var mnemonic = "seed own pride frost girl diesel flock avoid pretty alert destroy galaxy";
+var mnemonic = "task blanket federal gloom cover utility horror whale year wild attract clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol burden token female correct drip kingdom type burst skull mirror grain";
+var mnemonic = "clutch solution dune tattoo sock normal guide witness sheriff spawn fat kangaroo";

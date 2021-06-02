@@ -1,1 +1,1 @@
-var mnemonic = "ability girl soccer glad estate canoe orphan that benefit weather frame empty";
+var mnemonic = "foam solar armed dirt gloom off exact wet odor then museum hero";

@@ -1,1 +1,1 @@
-var mnemonic = "submit glare approve bar receive gloom upon limit employ strike giggle model";
+var mnemonic = "crowd ball mosquito appear romance cactus elephant hazard ask update fever kid";

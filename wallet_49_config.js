@@ -1,1 +1,1 @@
-var mnemonic = "weapon skull brown emerge repair neck breeze rain mammal lyrics chase first";
+var mnemonic = "frost pledge heart short lesson pilot ghost almost smoke unhappy gesture purchase";

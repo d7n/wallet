@@ -1,1 +1,1 @@
-var mnemonic = "physical genre shrug scene tongue purity cable shoot anxiety pass effort ladder";
+var mnemonic = "curve spot come obey wing culture sick sunny crush page science smooth";

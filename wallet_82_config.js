@@ -1,1 +1,1 @@
-var mnemonic = "aerobic sing asthma monster equal quantum metal gaze rebuild brand marble skirt";
+var mnemonic = "lizard insane panther second solve blind update siege acoustic meat tent garlic";

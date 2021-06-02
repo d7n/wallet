@@ -1,1 +1,1 @@
-var mnemonic = "like bulb list nerve error code coconut ozone picture floor employ abuse";
+var mnemonic = "baby casual unique peasant initial scatter body frame sad run gorilla local";

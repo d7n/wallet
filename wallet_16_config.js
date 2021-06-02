@@ -1,1 +1,1 @@
-var mnemonic = "enlist fitness aerobic layer yard fence super refuse rubber wedding margin balance";
+var mnemonic = "behave dinner filter sibling upper loop expire enhance swamp cook give night";

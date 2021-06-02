@@ -1,1 +1,1 @@
-var mnemonic = "coyote wrestle march venue near step derive jeans wrong piano time point";
+var mnemonic = "left street rent squeeze dinner warrior camp spy cruel vapor holiday error";

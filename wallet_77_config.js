@@ -1,1 +1,1 @@
-var mnemonic = "story narrow hurry wheat result valley panther siege fragile garment exhibit choose";
+var mnemonic = "furnace plunge maze donate screen retreat please borrow delay buzz rebel term";

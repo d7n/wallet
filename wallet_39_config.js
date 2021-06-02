@@ -1,1 +1,1 @@
-var mnemonic = "pelican such desk arrow flip jelly wheat finish table bonus draw return";
+var mnemonic = "teach music guide limb drift very only rifle physical heavy burger slush";

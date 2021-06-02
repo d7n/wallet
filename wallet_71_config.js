@@ -1,1 +1,1 @@
-var mnemonic = "long input style uphold dust opera sign group asthma dinner profit lobster";
+var mnemonic = "rookie uniform drift exercise scatter isolate cloth tornado ability crawl frost note";

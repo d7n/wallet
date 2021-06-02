@@ -1,1 +1,1 @@
-var mnemonic = "little energy name hurry tide winner pepper else vote food family track";
+var mnemonic = "ticket witness knife such garment force surge acoustic eager toe yard pumpkin";

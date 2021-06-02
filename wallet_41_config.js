@@ -1,1 +1,1 @@
-var mnemonic = "hire mystery process high kitten decide neutral devote improve company talk divorce";
+var mnemonic = "pool average wear inject ramp update ecology fault still junior deny sorry";

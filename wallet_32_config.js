@@ -1,1 +1,1 @@
-var mnemonic = "bike review game avoid solution equal pitch fly huge stay access jelly";
+var mnemonic = "random float put struggle odor educate option blue elbow rotate settle draw";

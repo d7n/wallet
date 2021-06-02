@@ -1,1 +1,1 @@
-var mnemonic = "advice local slush space survey play erode dance between result gasp crumble";
+var mnemonic = "sick drama there elite spatial dawn toddler aim mammal nose turn inflict";

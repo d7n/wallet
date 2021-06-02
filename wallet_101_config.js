@@ -1,1 +1,1 @@
-var mnemonic = "host heart certain broom price attract churn lunar festival basic display bitter";
+var mnemonic = "voice balance divorce reject autumn search echo crane answer tray honey virus";

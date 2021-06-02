@@ -1,1 +1,1 @@
-var mnemonic = "favorite valve brick voyage sauce where fine blind way thank piano candy";
+var mnemonic = "cook certain invite engine father copy grunt notable anchor mail warm play";

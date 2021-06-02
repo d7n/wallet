@@ -1,1 +1,1 @@
-var mnemonic = "evoke story quality century lake gadget fetch kiwi outer print industry coast";
+var mnemonic = "doctor finish alien laundry jeans head scatter nut super omit zero cricket";

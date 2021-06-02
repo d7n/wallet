@@ -1,1 +1,1 @@
-var mnemonic = "glance speed enemy spoil ensure baby clap inhale feature retreat level work";
+var mnemonic = "ancient doll salmon dragon south pepper first coyote panic wood snack spawn";

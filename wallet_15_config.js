@@ -1,1 +1,1 @@
-var mnemonic = "kid topple siren parrot switch talk noise input juice around bronze snake";
+var mnemonic = "bicycle certain until pair category silk sadness chest nut nephew hope danger";

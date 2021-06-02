@@ -1,1 +1,1 @@
-var mnemonic = "accuse pencil pulse educate file gossip pole shrug creek lab such wild";
+var mnemonic = "script dumb envelope purity hill wait hold story crop category hat knock";

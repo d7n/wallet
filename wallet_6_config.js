@@ -1,1 +1,1 @@
-var mnemonic = "modify rigid stadium flight chalk rack burst laundry stone item market leopard";
+var mnemonic = "sort clog type away sport little jeans tree tourist coconut cherry divorce";

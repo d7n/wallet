@@ -1,1 +1,1 @@
-var mnemonic = "asthma cram holiday mind all ring tank ski clock water wise vote";
+var mnemonic = "mutual skull review advice claim humble bench warm ready harvest lend rescue";

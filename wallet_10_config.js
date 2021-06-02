@@ -1,1 +1,1 @@
-var mnemonic = "wreck insect escape total meadow basket gorilla gloom little penalty long upgrade";
+var mnemonic = "grunt siren fame leopard joy fantasy cabin gym village honey couch evidence";

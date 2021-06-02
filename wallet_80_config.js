@@ -1,1 +1,1 @@
-var mnemonic = "family draft asthma imitate fan worry guitar large dolphin possible rebel subject";
+var mnemonic = "rather rail bracket scrap direct price limb wage truck tonight spy maze";

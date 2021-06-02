@@ -1,1 +1,1 @@
-var mnemonic = "rate wine apart submit together zero angry unique twist repeat gain matrix";
+var mnemonic = "chaos south around feel gravity balcony spoil state essay calm juice bike";

@@ -1,1 +1,1 @@
-var mnemonic = "guess learn isolate knock damp celery fence brave curious coast topple wide";
+var mnemonic = "blood become ritual advice science frown return sock iron weekend narrow charge";

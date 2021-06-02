@@ -1,1 +1,1 @@
-var mnemonic = "earn turkey when round client heavy gasp final crime hover session frame";
+var mnemonic = "collect bulb pen net purchase deny lemon december void lift random quit";

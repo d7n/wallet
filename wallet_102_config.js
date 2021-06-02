@@ -1,1 +1,1 @@
-var mnemonic = "salt bid jelly sweet output various wing creek grain basic frequent library";
+var mnemonic = "film draft rocket arrange route easy gossip repair seven crumble rally trade";

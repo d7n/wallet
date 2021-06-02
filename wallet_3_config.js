@@ -1,1 +1,1 @@
-var mnemonic = "permit act ivory waste faith gloom sister bright era need reward neither";
+var mnemonic = "oval face puppy shoot enforce cushion material filter torch deputy stable trophy";

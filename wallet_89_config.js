@@ -1,1 +1,1 @@
-var mnemonic = "group ozone memory orphan taste robust dress traffic recall raw nose expand";
+var mnemonic = "nurse wash tunnel rough witness cupboard gospel tobacco erode allow pelican awake";

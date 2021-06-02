@@ -1,1 +1,1 @@
-var mnemonic = "decrease shy hurry screen wide similar person private project syrup border cargo";
+var mnemonic = "skill season father crime noodle divide crush stamp order canal sorry route";

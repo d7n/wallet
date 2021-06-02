@@ -1,1 +1,1 @@
-var mnemonic = "silent patient crisp patient inner shiver boat tunnel pact clap artefact catalog";
+var mnemonic = "zone inhale point grunt pulse special often pair push false alone unfair";

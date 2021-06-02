@@ -1,1 +1,1 @@
-var mnemonic = "air art perfect prefer ghost build render donate legal image lyrics leisure";
+var mnemonic = "gravity just hand cheese dial smile pool false clay vicious oyster review";

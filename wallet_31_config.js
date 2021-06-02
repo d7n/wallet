@@ -1,1 +1,1 @@
-var mnemonic = "cram genius remember pave program village melt rely wealth kingdom perfect coil";
+var mnemonic = "couch finish mercy ill under draw host panel zero estate sniff craft";

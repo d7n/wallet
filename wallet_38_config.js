@@ -1,1 +1,1 @@
-var mnemonic = "social clog paddle duck lawsuit select exist bless dumb sort over vapor";
+var mnemonic = "again wire toe bullet actress tomorrow violin sheriff end column student album";

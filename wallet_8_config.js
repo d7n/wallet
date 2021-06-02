@@ -1,1 +1,1 @@
-var mnemonic = "park recycle grab gospel walk equal artist render bag thing wheel cram";
+var mnemonic = "quality sand ginger fiber bomb attack jealous occur disorder bridge essence south";

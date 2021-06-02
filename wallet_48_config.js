@@ -1,1 +1,1 @@
-var mnemonic = "senior country trouble retreat melody lumber merry nest swap blade chronic dance";
+var mnemonic = "slim horror total tape true dream uncle suit wire penalty cash minor";

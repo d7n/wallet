@@ -1,1 +1,1 @@
-var mnemonic = "success arena essence pull spoon aim leave gym resource alley girl reopen";
+var mnemonic = "book treat fluid cable avocado skill enter comic horn curious shoe dirt";

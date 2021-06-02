@@ -1,1 +1,1 @@
-var mnemonic = "muscle tape pass lady crane thing when brisk input used lock lumber";
+var mnemonic = "inner response entry start special slide gallery speed bargain tissue choice dismiss";

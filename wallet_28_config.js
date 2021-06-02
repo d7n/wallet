@@ -1,1 +1,1 @@
-var mnemonic = "afford rate twist fluid course wrestle horse jelly dance lawn crush holiday";
+var mnemonic = "creek stone book grace casual grass rotate rent wolf dynamic citizen mule";

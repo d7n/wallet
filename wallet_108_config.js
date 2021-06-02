@@ -1,1 +1,1 @@
-var mnemonic = "push outdoor lucky average system holiday emotion goose usage lawsuit canyon decorate";
+var mnemonic = "squeeze clutch auction country leg idle clay defy invest ridge alarm pioneer";

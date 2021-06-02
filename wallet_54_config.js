@@ -1,1 +1,1 @@
-var mnemonic = "barrel toast quantum about cluster february release plunge twin dawn response dirt";
+var mnemonic = "input program poet father jazz voyage popular click sail simple that toddler";
