@@ -1,1 +1,1 @@
-var mnemonic = "junk slide minimum burger shield cannon noble upgrade crane give quality jungle";
+var mnemonic = "arctic inner accuse brass acid worth desk fun any sample delay surface";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito knee walnut enlist obvious demise wife photo wear coast until donkey";
+var mnemonic = "smile bomb february large need room senior glide chunk mansion strike volume";

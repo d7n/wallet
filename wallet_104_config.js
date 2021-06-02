@@ -1,1 +1,1 @@
-var mnemonic = "tornado gentle kit mixture eagle fine expose safe item correct blast elephant";
+var mnemonic = "bird city physical move release toss river cruel provide wet black library";

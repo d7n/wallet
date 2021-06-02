@@ -1,1 +1,1 @@
-var mnemonic = "search episode leisure real clay pet owner fluid busy afford slim canvas";
+var mnemonic = "circle weasel clog leg control roast mass maid suffer absorb shadow odor";

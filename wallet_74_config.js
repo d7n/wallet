@@ -1,1 +1,1 @@
-var mnemonic = "general suit term satoshi trigger small clock century fiscal theory believe ahead";
+var mnemonic = "scale skull coconut load subject unveil stereo energy crane enact differ display";

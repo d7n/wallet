@@ -1,1 +1,1 @@
-var mnemonic = "bitter tackle print mind jealous service doctor loan useless develop icon convince";
+var mnemonic = "glare dune wear step code squeeze skate exclude scrub stadium device sting";

@@ -1,1 +1,1 @@
-var mnemonic = "island engage click pass feature word mercy lunch arrange myself please odor";
+var mnemonic = "recall final fury siege soap only subject meat fix train trend earn";

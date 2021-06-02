@@ -1,1 +1,1 @@
-var mnemonic = "tragic view return warrior unique rib false human height hamster sister oblige";
+var mnemonic = "spy canvas stuff scrub pill risk flame razor holiday angry clerk release";

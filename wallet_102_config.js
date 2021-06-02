@@ -1,1 +1,1 @@
-var mnemonic = "differ yellow danger beyond guide cycle puzzle bounce kiss equip tent rocket";
+var mnemonic = "people meat between virus reflect salute office plastic treat bulb decide uncle";

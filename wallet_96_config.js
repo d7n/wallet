@@ -1,1 +1,1 @@
-var mnemonic = "topic kick stool swim toddler novel dutch laptop addict sorry someone must";
+var mnemonic = "hunt evolve soon because require scale mad junior travel trend glance advice";

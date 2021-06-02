@@ -1,1 +1,1 @@
-var mnemonic = "index empty inner gun found stool undo track frame open alien document";
+var mnemonic = "craft tag eager arena can depth type need burger lonely risk ticket";

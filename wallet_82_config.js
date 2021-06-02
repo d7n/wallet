@@ -1,1 +1,1 @@
-var mnemonic = "faculty service hand census swing patient real glow breeze lava canal gossip";
+var mnemonic = "truly flush fortune excuse salt forest monitor supply accident crowd solar achieve";

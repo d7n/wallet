@@ -1,1 +1,1 @@
-var mnemonic = "stairs model swift draft weekend member normal polar off pact mercy speed";
+var mnemonic = "jacket sweet mountain inch diesel pill history damp pull blush mule aspect";

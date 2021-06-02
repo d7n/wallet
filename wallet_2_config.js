@@ -1,1 +1,1 @@
-var mnemonic = "impact split rude jacket file attend merit resource remove bleak dawn thank";
+var mnemonic = "soul little harbor kiwi track same build pen inherit ripple account identify";

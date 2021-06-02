@@ -1,1 +1,1 @@
-var mnemonic = "deposit stove middle oval legend comic valley toward bulk fluid feature drink";
+var mnemonic = "ranch embody bring era monkey tortoise tank access brisk champion next key";

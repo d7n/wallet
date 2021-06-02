@@ -1,1 +1,1 @@
-var mnemonic = "faint such unique affair path imitate sand rail arch rent device seminar";
+var mnemonic = "pottery maple zero resource bird quote moment wasp badge board merry day";

@@ -1,1 +1,1 @@
-var mnemonic = "truth lake fat inspire hungry enforce tag deputy few caution theory balcony";
+var mnemonic = "citizen grain truly vintage fox broom chaos great discover decide fat artwork";

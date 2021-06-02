@@ -1,1 +1,1 @@
-var mnemonic = "birth river toast sheriff upon cage wave school relax dress universe crouch";
+var mnemonic = "goddess giant birth opera almost hobby invest near nasty hub other often";

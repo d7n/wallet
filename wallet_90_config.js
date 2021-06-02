@@ -1,1 +1,1 @@
-var mnemonic = "then run region swing trouble harvest rug warrior spirit future protect chat";
+var mnemonic = "club alert draft gauge payment first sun lawn innocent kiss virtual deputy";

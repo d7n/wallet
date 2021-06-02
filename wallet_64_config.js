@@ -1,1 +1,1 @@
-var mnemonic = "absurd opinion void light spider uncle news ceiling gown decline voice similar";
+var mnemonic = "upon author tragic close stumble warrior olympic dignity flip speed hedgehog lounge";

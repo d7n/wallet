@@ -1,1 +1,1 @@
-var mnemonic = "size elevator raw predict abstract frequent text tobacco twenty truck pluck moral";
+var mnemonic = "view sustain miracle drastic again mimic cook swing capital furnace brisk spell";

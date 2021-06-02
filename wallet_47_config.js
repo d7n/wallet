@@ -1,1 +1,1 @@
-var mnemonic = "neglect blue wide present squeeze crime idea salute gift result inhale minimum";
+var mnemonic = "satoshi crowd private brisk vault situate enable genius ridge equip hold fork";

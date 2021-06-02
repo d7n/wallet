@@ -1,1 +1,1 @@
-var mnemonic = "light fatal shed spray lock describe light thought sting brief column second";
+var mnemonic = "educate cloud sock film clinic lonely nation diagram result act pencil hat";

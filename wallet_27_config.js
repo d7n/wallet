@@ -1,1 +1,1 @@
-var mnemonic = "plug undo cliff find engine planet pull click disorder glove dawn hazard";
+var mnemonic = "parade vault letter pear stem critic half fire galaxy trade candy stone";

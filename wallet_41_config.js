@@ -1,1 +1,1 @@
-var mnemonic = "flower riot spend elder myself banner patch unlock cheap transfer cherry fever";
+var mnemonic = "case flower air trash spell cousin frequent kind elegant task dress hire";

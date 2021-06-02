@@ -1,1 +1,1 @@
-var mnemonic = "arrow vanish inquiry aim connect cave sport powder bacon remember avoid injury";
+var mnemonic = "casual menu step dry elevator sure forest degree trouble guard artist pave";

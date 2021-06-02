@@ -1,1 +1,1 @@
-var mnemonic = "right claim winner addict search virtual pass atom casual draft oyster remain";
+var mnemonic = "fuel panda immense mix forum raw goddess congress scan select leisure insect";

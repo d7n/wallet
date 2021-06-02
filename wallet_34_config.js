@@ -1,1 +1,1 @@
-var mnemonic = "eight wire sort other metal skirt mix garbage chapter below border sausage";
+var mnemonic = "file logic scan program diet extend reduce ghost path zebra choice split";

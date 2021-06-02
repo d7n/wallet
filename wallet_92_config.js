@@ -1,1 +1,1 @@
-var mnemonic = "burst stock best place earn coin field govern manual panther shallow husband";
+var mnemonic = "increase stable oil disagree wing smile cool museum logic much trade knock";

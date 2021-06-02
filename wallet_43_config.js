@@ -1,1 +1,1 @@
-var mnemonic = "rigid journey ready drop grocery tooth engine disagree mountain gospel define jelly";
+var mnemonic = "fee private enjoy genuine word common glimpse knee one unusual track word";

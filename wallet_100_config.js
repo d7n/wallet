@@ -1,1 +1,1 @@
-var mnemonic = "donkey green foam miracle cement anger opinion mystery ceiling fresh limit mango";
+var mnemonic = "lemon valid lamp spot proof notable twin tent next rare element gym";

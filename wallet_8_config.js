@@ -1,1 +1,1 @@
-var mnemonic = "hold honey crucial earn kangaroo famous olympic possible omit question turn antenna";
+var mnemonic = "slim pattern gadget animal festival jungle toe mechanic blast ring task degree";

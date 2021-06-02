@@ -1,1 +1,1 @@
-var mnemonic = "omit cheap behave connect opinion library unit fault recipe pottery develop wrap";
+var mnemonic = "possible grab track upon reject issue end remind empower quantum speak sick";

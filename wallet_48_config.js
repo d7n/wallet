@@ -1,1 +1,1 @@
-var mnemonic = "believe gadget mix memory network decide insect jungle school chronic place drive";
+var mnemonic = "poem rhythm account target save more fluid chair key lady stay history";

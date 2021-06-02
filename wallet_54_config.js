@@ -1,1 +1,1 @@
-var mnemonic = "clump bring grab birth jealous sunset cabin involve antenna pulse accident oxygen";
+var mnemonic = "cannon error cradle cancel end aspect globe film close plug lecture seat";

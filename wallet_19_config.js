@@ -1,1 +1,1 @@
-var mnemonic = "orphan blossom family guide language eagle outer renew payment monster frozen tag";
+var mnemonic = "fall street total flavor scare chunk three merit valley slow glue expire";

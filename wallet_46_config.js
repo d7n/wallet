@@ -1,1 +1,1 @@
-var mnemonic = "march follow orphan rifle impact meat lab inside model cargo orbit game";
+var mnemonic = "ski car divorce gesture fault village combine warrior provide margin debate merge";

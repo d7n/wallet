@@ -1,1 +1,1 @@
-var mnemonic = "team kitchen script powder boat state rebel color wheel bundle skin sun";
+var mnemonic = "rain mixed define door fiscal strike enforce snow twelve illness naive honey";

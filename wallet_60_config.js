@@ -1,1 +1,1 @@
-var mnemonic = "sketch ritual sponsor ski burst giant gun return label congress rhythm tackle";
+var mnemonic = "eight autumn bullet media library swallow install shaft spoon choose deposit liar";

@@ -1,1 +1,1 @@
-var mnemonic = "wide mule gossip trigger real fame cat shop cage awake alarm penalty";
+var mnemonic = "lion proud nominee spawn manual layer asthma capital august pattern snake exercise";

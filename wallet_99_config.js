@@ -1,1 +1,1 @@
-var mnemonic = "receive then miracle code pull speed between chalk liberty anger edit duck";
+var mnemonic = "garden best excuse journey tail mad debate kitchen pair pole like practice";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst amount radar boost taxi success sorry jazz capable grocery secret marine";
+var mnemonic = "anchor clip wing never remember talent frame because delay goat boil jealous";

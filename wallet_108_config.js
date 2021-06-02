@@ -1,1 +1,1 @@
-var mnemonic = "excite coral accuse mom cat reward embody wife autumn diagram decline blind";
+var mnemonic = "treat nice apology cannon mixture once potato educate cycle ordinary youth people";

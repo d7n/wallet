@@ -1,1 +1,1 @@
-var mnemonic = "tornado narrow prefer slice outdoor vague about actress print wrong hobby source";
+var mnemonic = "helmet silent mushroom rare inner labor grit wheat candy believe burst runway";

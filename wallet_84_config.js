@@ -1,1 +1,1 @@
-var mnemonic = "friend dumb enough average dinner toward deer nose fatal spring receive thumb";
+var mnemonic = "girl naive repair north narrow design topic capital laundry awkward biology hotel";

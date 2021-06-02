@@ -1,1 +1,1 @@
-var mnemonic = "broken sorry misery toe pear panic river female acquire surprise damage flush";
+var mnemonic = "draft notable arrow fruit muscle coin rural cage fatigue average notable legal";

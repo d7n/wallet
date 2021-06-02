@@ -1,1 +1,1 @@
-var mnemonic = "rack clump auction oppose enough phrase connect ranch noodle twist climb dentist";
+var mnemonic = "dad stairs tool hurt gown picture valley gauge grunt deliver betray flower";

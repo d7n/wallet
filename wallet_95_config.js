@@ -1,1 +1,1 @@
-var mnemonic = "tornado dolphin grape split unhappy ankle asthma swim turn bunker eye claw";
+var mnemonic = "unique boss install sick slender refuse unhappy hurry chief error expire humble";

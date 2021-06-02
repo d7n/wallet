@@ -1,1 +1,1 @@
-var mnemonic = "once tribe cute manage receive cycle battle advice child crash attract iron";
+var mnemonic = "wedding virus oven share eager vivid million board pigeon tilt matter timber";

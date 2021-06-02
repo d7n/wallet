@@ -1,1 +1,1 @@
-var mnemonic = "permit tornado outer guard airport race bike hip turkey flavor paddle heavy";
+var mnemonic = "explain drop pledge water grid valve drop venue globe soap pear pupil";

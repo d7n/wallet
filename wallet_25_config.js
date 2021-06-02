@@ -1,1 +1,1 @@
-var mnemonic = "clerk miracle such travel frozen whip rule sing alarm used stereo lounge";
+var mnemonic = "latin come sound often thought stock front obtain enroll nominee enlist exclude";

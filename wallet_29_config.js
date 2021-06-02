@@ -1,1 +1,1 @@
-var mnemonic = "wheel skate waste install recipe equal laugh matrix cricket check carbon useful";
+var mnemonic = "sponsor duck casino oppose feel pen time youth worry siege stairs learn";

@@ -1,1 +1,1 @@
-var mnemonic = "piece anchor curtain truly turkey grass thumb concert rail world topple topple";
+var mnemonic = "pool proud snow absent nation poet nuclear icon sure enlist hazard mesh";

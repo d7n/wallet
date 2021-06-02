@@ -1,1 +1,1 @@
-var mnemonic = "hip wink upon guard shed poem pilot tray lunch sun wrestle addict";
+var mnemonic = "immune found confirm umbrella dinosaur main glare recycle fuel aspect foam just";

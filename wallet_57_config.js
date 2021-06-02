@@ -1,1 +1,1 @@
-var mnemonic = "front differ unknown walk brand please artefact whip scare tomorrow capital magnet";
+var mnemonic = "unique vocal rocket capable sorry mention friend bus catch involve pact easy";

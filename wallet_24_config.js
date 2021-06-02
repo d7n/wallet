@@ -1,1 +1,1 @@
-var mnemonic = "burden lady hour fringe fiction train song accuse mosquito thrive dawn thank";
+var mnemonic = "cruel drive culture arrive vocal foil butter dilemma limit retire laundry deliver";

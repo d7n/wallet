@@ -1,1 +1,1 @@
-var mnemonic = "polar physical hat check liberty pull author arm glimpse scissors inherit dynamic";
+var mnemonic = "round chalk lawn fold notice suit rack dream tiger cliff join play";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo piece gorilla canvas choice galaxy anxiety goose promote canyon praise exact";
+var mnemonic = "remove afford predict age lens super vast drift brief chunk typical payment";

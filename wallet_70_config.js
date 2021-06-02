@@ -1,1 +1,1 @@
-var mnemonic = "depth profit piano else cream tent brief project damp minimum size come";
+var mnemonic = "gap ethics trophy recipe great drive virtual actor cabbage venue gravity loyal";

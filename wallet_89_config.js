@@ -1,1 +1,1 @@
-var mnemonic = "choice double current kitten inspire describe want embark quick repair club gadget";
+var mnemonic = "ghost organ tape rescue fault onion frost shop reward position gown loan";

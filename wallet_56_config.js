@@ -1,1 +1,1 @@
-var mnemonic = "enemy pretty where bronze fix thumb mountain noodle real dinner useful hawk";
+var mnemonic = "culture degree same cruise width gasp suggest health clap prize decade fiber";

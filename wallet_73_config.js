@@ -1,1 +1,1 @@
-var mnemonic = "video maximum tackle tool travel prepare across subway phrase clean gain film";
+var mnemonic = "range mail impulse tornado emerge prefer purse neglect wheat planet vacant visa";

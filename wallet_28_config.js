@@ -1,1 +1,1 @@
-var mnemonic = "spin stem arm basket flavor skin embark solar online sunny web garage";
+var mnemonic = "tongue pig barely lizard margin invite glass keep cradle wish elbow sunny";

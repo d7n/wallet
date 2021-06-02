@@ -1,1 +1,1 @@
-var mnemonic = "gain feel pioneer game cherry zone wear door fragile corn rail panel";
+var mnemonic = "balance gate differ science bone practice catch jungle wave winner spawn shuffle";

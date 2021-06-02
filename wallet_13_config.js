@@ -1,1 +1,1 @@
-var mnemonic = "cage salt cactus april history ten egg detail sight either faith excess";
+var mnemonic = "social winner phone deal wild tip small black load sound glue easy";

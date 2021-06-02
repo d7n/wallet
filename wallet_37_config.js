@@ -1,1 +1,1 @@
-var mnemonic = "rose draw result menu document slight payment chief wagon voyage celery weapon";
+var mnemonic = "hold build flight inmate swallow again crouch soon critic start spell lumber";

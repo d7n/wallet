@@ -1,1 +1,1 @@
-var mnemonic = "forest doctor luggage remove jaguar general depart people service cradle blur olive";
+var mnemonic = "bunker use news tiger hungry amount lemon puzzle harvest middle reopen olympic";

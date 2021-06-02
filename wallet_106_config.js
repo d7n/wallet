@@ -1,1 +1,1 @@
-var mnemonic = "banana timber safe unable region flame drift mirror crush sad mother flag";
+var mnemonic = "promote wall couple ecology supply urban jazz also fork zero doll antenna";

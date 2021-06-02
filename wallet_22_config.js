@@ -1,1 +1,1 @@
-var mnemonic = "vintage stadium pave floor quiz ride thing snake camp mutual pudding crush";
+var mnemonic = "hamster fringe toe doctor caught lumber lyrics negative own swift same ahead";

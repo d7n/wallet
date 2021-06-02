@@ -1,1 +1,1 @@
-var mnemonic = "save hole leg exhibit want view draw roast hunt off fossil victory";
+var mnemonic = "weekend rocket joy thought alien scatter faint ocean blame bacon pelican pyramid";

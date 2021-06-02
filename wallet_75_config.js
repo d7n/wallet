@@ -1,1 +1,1 @@
-var mnemonic = "safe benefit thought observe tape argue panic deliver unfold puzzle monitor trumpet";
+var mnemonic = "bounce toss involve belt arrow earth across route deliver beauty tuition fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "more farm mimic produce poet ceiling online have define illegal because adjust";
+var mnemonic = "wreck pupil fine recall valve hard stereo venue one pony fiction crack";

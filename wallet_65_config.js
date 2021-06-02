@@ -1,1 +1,1 @@
-var mnemonic = "ice answer recycle like fury yard dinner puzzle web walnut slam heavy";
+var mnemonic = "execute crime deliver one climb bone cycle have fox image fence amount";

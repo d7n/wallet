@@ -1,1 +1,1 @@
-var mnemonic = "farm potato sphere debate chest evidence winner cycle nice day embrace federal";
+var mnemonic = "oven carry clown myth fun portion oak protect all punch edge nephew";

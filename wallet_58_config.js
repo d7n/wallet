@@ -1,1 +1,1 @@
-var mnemonic = "indoor coral rebuild dad seven lunar insect vapor boat shine repeat elevator";
+var mnemonic = "ship vintage tackle improve tornado cash palace hollow torch hedgehog mystery belt";

@@ -1,1 +1,1 @@
-var mnemonic = "diary knee output avocado region speak sauce yellow flip space portion mesh";
+var mnemonic = "rural prepare comfort daring urge alien void until burger fence comfort boring";

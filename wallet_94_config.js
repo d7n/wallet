@@ -1,1 +1,1 @@
-var mnemonic = "discover grief cover athlete clarify empower tuition bird dish chimney mom history";
+var mnemonic = "brief humor broom harsh civil glass wagon okay tuna school climb grab";

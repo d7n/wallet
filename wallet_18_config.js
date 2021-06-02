@@ -1,1 +1,1 @@
-var mnemonic = "talent humor example display modify trophy annual nominee chef small isolate rough";
+var mnemonic = "attend nerve post green never grief notice mind shell chaos output injury";

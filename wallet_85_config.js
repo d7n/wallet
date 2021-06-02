@@ -1,1 +1,1 @@
-var mnemonic = "pizza shallow feel shadow educate slender outdoor economy unable antenna staff keen";
+var mnemonic = "machine man foot vote current fit aspect permit protect lady salute culture";

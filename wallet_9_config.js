@@ -1,1 +1,1 @@
-var mnemonic = "expose wool april alien slab junior april lucky runway human blade ritual";
+var mnemonic = "device interest spread inspire spoon trigger balcony globe live kitten marriage light";

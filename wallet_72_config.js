@@ -1,1 +1,1 @@
-var mnemonic = "route bean ketchup scrub deputy maximum ready bean theme sibling swap library";
+var mnemonic = "satisfy exotic rug prefer glow hockey cabin treat blue dish noise foil";
