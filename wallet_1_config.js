@@ -1,1 +1,1 @@
-var mnemonic = "number earth arrange inject cram camera game twelve guide sell tomato rhythm";
+var mnemonic = "detect casual burden junk indoor knock vacuum absorb liar giggle morning control";

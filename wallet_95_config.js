@@ -1,1 +1,1 @@
-var mnemonic = "small result cloth index organ bind original jewel together ethics another vote";
+var mnemonic = "orange draft tiny rib soup warm armor sort garage trend lamp swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "story ignore practice bicycle census spread deposit aerobic toddler error attack seek";
+var mnemonic = "rubber train vital spend slim notable match hunt under bulb spirit renew";

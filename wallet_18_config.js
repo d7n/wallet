@@ -1,1 +1,1 @@
-var mnemonic = "clump total original mom blood trick idle same plate recipe disagree auction";
+var mnemonic = "sugar mention hamster lounge rescue orient deal december gold ring force bird";

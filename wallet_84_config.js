@@ -1,1 +1,1 @@
-var mnemonic = "life faith undo try bridge flight south media chief wear edit economy";
+var mnemonic = "clay wide allow menu yard distance chunk already blush cable account later";

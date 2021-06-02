@@ -1,1 +1,1 @@
-var mnemonic = "suspect mirror tired foot liar disagree left snap hedgehog share other water";
+var mnemonic = "script bomb myself define title wet nominee sausage monster coffee island drastic";

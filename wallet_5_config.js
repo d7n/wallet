@@ -1,1 +1,1 @@
-var mnemonic = "poet used liar that smile wealth dawn thrive skirt code cruel unable";
+var mnemonic = "van route correct summer shove copy prison bulk kid more isolate cover";

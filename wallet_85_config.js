@@ -1,1 +1,1 @@
-var mnemonic = "quarter one soda special hero reject forum strike uphold pilot height ankle";
+var mnemonic = "mention bag pair usual olive october slide radio world pottery path sorry";

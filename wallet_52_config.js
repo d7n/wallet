@@ -1,1 +1,1 @@
-var mnemonic = "father economy monster seminar scatter worth win sausage avoid stomach chicken feature";
+var mnemonic = "world resemble avocado wolf master sell pave obey ritual night zebra more";

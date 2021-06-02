@@ -1,1 +1,1 @@
-var mnemonic = "pink average tool enact point enrich nuclear man text maple receive property";
+var mnemonic = "bronze insane grocery cloth peace burst alcohol coyote garage leopard lucky erosion";

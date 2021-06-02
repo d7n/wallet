@@ -1,1 +1,1 @@
-var mnemonic = "fine expire tool where hobby notable total obey weather remind exclude stick";
+var mnemonic = "trust chase sort predict whip buyer canoe fit wear plate voyage post";

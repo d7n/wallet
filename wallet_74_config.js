@@ -1,1 +1,1 @@
-var mnemonic = "suit churn use ecology pulse people dizzy ball utility try tell crumble";
+var mnemonic = "vendor enforce margin lion oppose purity teach salmon youth artist divorce thank";

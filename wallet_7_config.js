@@ -1,1 +1,1 @@
-var mnemonic = "pigeon math inflict cram air hero faculty notable steel fantasy unknown husband";
+var mnemonic = "kingdom field car device burger off mystery print welcome saddle call vibrant";

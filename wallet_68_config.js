@@ -1,1 +1,1 @@
-var mnemonic = "course mass tuition mesh actress pole dog until edit found token diet";
+var mnemonic = "pulp joy scale ripple brave feel together final matter side follow scene";

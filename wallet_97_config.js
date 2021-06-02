@@ -1,1 +1,1 @@
-var mnemonic = "prize define merry tell dwarf motion bubble stairs disease together plate dust";
+var mnemonic = "endless negative aim monkey unique collect atom cricket high make phone phrase";

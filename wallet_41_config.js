@@ -1,1 +1,1 @@
-var mnemonic = "plate boost worry above obtain nuclear edge radar height before guide wasp";
+var mnemonic = "potato boy endless grit wall expect buffalo child typical high stock defense";

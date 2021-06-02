@@ -1,1 +1,1 @@
-var mnemonic = "drama metal mesh twin dawn dwarf frost ramp notice ten wave raven";
+var mnemonic = "lumber version giggle above bus finish warm bless budget fetch memory scare";

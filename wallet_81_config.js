@@ -1,1 +1,1 @@
-var mnemonic = "net ritual inquiry truly time upset wolf tomorrow tube remind fluid cube";
+var mnemonic = "payment cram salute similar mail lift feature prefer mosquito promote sing shy";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold kiss wool spot science agent dad trigger episode sorry depart submit";
+var mnemonic = "tuna upgrade gospel foil dad cool nothing inflict diesel small term bomb";

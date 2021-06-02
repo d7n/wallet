@@ -1,1 +1,1 @@
-var mnemonic = "subject surprise genuine grief note bubble suggest blind pizza diesel suffer truck";
+var mnemonic = "twist rice learn stay field arrow salad include sketch toast forward release";

@@ -1,1 +1,1 @@
-var mnemonic = "rain deal banana celery ask adapt size wall obvious useless damp memory";
+var mnemonic = "kind find emerge leaf best blue spoon half rack small lyrics you";

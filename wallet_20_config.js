@@ -1,1 +1,1 @@
-var mnemonic = "possible case file dynamic leave balance setup alarm situate empower pottery typical";
+var mnemonic = "unable add park cube grant early jeans target what author barely cream";

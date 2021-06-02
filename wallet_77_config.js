@@ -1,1 +1,1 @@
-var mnemonic = "drink retire protect strong wagon caught unhappy shrug firm sleep soft mirror";
+var mnemonic = "moment laptop nominee under tube skull team left forget stool earn wild";

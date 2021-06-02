@@ -1,1 +1,1 @@
-var mnemonic = "wheel prevent nasty merge question wrap dinosaur fall march liquid tissue hungry";
+var mnemonic = "ozone execute wedding gentle marriage improve assume segment submit decrease segment labor";

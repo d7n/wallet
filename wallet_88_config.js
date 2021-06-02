@@ -1,1 +1,1 @@
-var mnemonic = "master west beauty insane fortune jelly destroy maze engine zoo drastic kid";
+var mnemonic = "army letter apology hospital night have assault retreat quantum outdoor cabin satisfy";

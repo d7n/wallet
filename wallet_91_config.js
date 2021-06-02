@@ -1,1 +1,1 @@
-var mnemonic = "jeans fine crop vintage arrive version cable flower apart rival reward motion";
+var mnemonic = "alpha crack improve winner coffee stomach bicycle finish trim blossom small net";

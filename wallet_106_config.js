@@ -1,1 +1,1 @@
-var mnemonic = "hope clog manage damage monster hub cabbage combine divert reject add place";
+var mnemonic = "near moon outdoor boss security unfair glad supply desk degree bright size";

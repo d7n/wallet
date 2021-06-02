@@ -1,1 +1,1 @@
-var mnemonic = "slim soldier bomb ethics insane huge aunt valve frame buffalo style decade";
+var mnemonic = "pepper fit deal cave inch cinnamon warm exercise sorry sadness patrol build";

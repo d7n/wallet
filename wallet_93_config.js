@@ -1,1 +1,1 @@
-var mnemonic = "multiply onion wage more toe coach disease agent fabric pulse person metal";
+var mnemonic = "quick can attract dream raise rate jacket limit buddy rely maze loop";

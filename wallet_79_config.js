@@ -1,1 +1,1 @@
-var mnemonic = "guilt robust during chuckle tennis when correct dance tumble disease mixture toss";
+var mnemonic = "situate chronic sister matrix hub oven scale sketch three twenty earn brother";

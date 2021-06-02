@@ -1,1 +1,1 @@
-var mnemonic = "six hollow bubble weekend reopen online pink adult regular draw maid fatal";
+var mnemonic = "arm ill lizard rug stem fall sibling burden avocado smile essence find";

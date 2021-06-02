@@ -1,1 +1,1 @@
-var mnemonic = "corn exclude mutual leopard suspect banner space robust apology pause amount armor";
+var mnemonic = "journey method extend misery business smoke pelican print diamond melody loud seven";

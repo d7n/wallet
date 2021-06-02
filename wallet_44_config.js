@@ -1,1 +1,1 @@
-var mnemonic = "attend record hint abstract orient essay sport theory normal announce salt basic";
+var mnemonic = "happy slice dutch market egg urban shoe lend crunch ginger dinosaur survey";

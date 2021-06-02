@@ -1,1 +1,1 @@
-var mnemonic = "round margin embody oil final accident planet best pupil unfold wear mouse";
+var mnemonic = "lava client source answer famous shaft sniff since match agent cream bread";

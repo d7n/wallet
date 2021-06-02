@@ -1,1 +1,1 @@
-var mnemonic = "awkward neglect knee eight blind repeat bird surround winner powder south head";
+var mnemonic = "creek front narrow lock alley teach purchase guess powder reason innocent skate";

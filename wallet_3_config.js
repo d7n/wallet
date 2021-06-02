@@ -1,1 +1,1 @@
-var mnemonic = "large squeeze sure neck excite have tortoise tape sort tail oblige collect";
+var mnemonic = "tube fantasy labor search equip sadness million spray ensure vault ladder ripple";

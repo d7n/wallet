@@ -1,1 +1,1 @@
-var mnemonic = "work call episode wide run step slot lab find strike renew sock";
+var mnemonic = "okay balcony permit method glory wagon near fragile shallow govern wage view";

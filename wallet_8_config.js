@@ -1,1 +1,1 @@
-var mnemonic = "analyst defy private round easy purse faint cloth maze enable tiny absorb";
+var mnemonic = "film smooth bacon knife fiscal nice pink desert pill improve method trial";

@@ -1,1 +1,1 @@
-var mnemonic = "short object tag race achieve school test want solution milk arctic prison";
+var mnemonic = "grid repair length song census order person glass liquid palm key flock";

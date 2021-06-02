@@ -1,1 +1,1 @@
-var mnemonic = "armed loud inspire tumble green divert adult black attitude home model uncle";
+var mnemonic = "visual father slow asset logic course exclude olive citizen any shallow mobile";

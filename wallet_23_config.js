@@ -1,1 +1,1 @@
-var mnemonic = "manual text witness drip net paddle pottery sausage tortoise pumpkin brave luxury";
+var mnemonic = "rapid slab erosion vehicle make auction peasant sea about leader again monkey";

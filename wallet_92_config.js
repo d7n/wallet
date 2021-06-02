@@ -1,1 +1,1 @@
-var mnemonic = "income they pull dinner click home vibrant green fog forum any year";
+var mnemonic = "library slow salon suspect power execute silly usage history clerk route garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle quick fame balance degree surprise cheap nation fancy snack donkey pause";
+var mnemonic = "regular true together stadium lawsuit beauty vivid genre rapid nominee trick rhythm";

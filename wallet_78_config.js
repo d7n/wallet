@@ -1,1 +1,1 @@
-var mnemonic = "divide stadium excite van spend fog tuition rug host furnace love awkward";
+var mnemonic = "apart pig jeans love situate purpose swap must benefit deliver hold display";

@@ -1,1 +1,1 @@
-var mnemonic = "hair weasel surround all obtain survey soldier ribbon organ pioneer pony atom";
+var mnemonic = "rifle hidden doll defense annual riot dragon curtain rain knee recall hundred";

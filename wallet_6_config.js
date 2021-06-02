@@ -1,1 +1,1 @@
-var mnemonic = "soda mystery oblige quality auto term invite wheat warm square room humor";
+var mnemonic = "inform blush belt october year flash spray yard access episode crane corn";

@@ -1,1 +1,1 @@
-var mnemonic = "brief doll auto sauce copy rebel village jacket prison trade wonder problem";
+var mnemonic = "taste fashion same despair squeeze rail special improve unfair click soldier baby";

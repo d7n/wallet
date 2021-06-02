@@ -1,1 +1,1 @@
-var mnemonic = "reveal laugh asthma exotic aware trap void prize host crazy envelope bless";
+var mnemonic = "main route blanket foot trick ticket fetch reveal glass electric breeze someone";

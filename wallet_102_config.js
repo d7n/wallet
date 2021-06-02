@@ -1,1 +1,1 @@
-var mnemonic = "wonder once scout release country real emotion depart attract system alley cart";
+var mnemonic = "draft tragic dash truth execute dynamic glass dress spice beach will dawn";

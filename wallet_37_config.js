@@ -1,1 +1,1 @@
-var mnemonic = "echo notable parade rice combine action obvious during near husband promote forget";
+var mnemonic = "crew scorpion rapid rifle rookie siege fix cliff blanket wheel east lobster";

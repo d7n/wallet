@@ -1,1 +1,1 @@
-var mnemonic = "typical rapid master double spike slow donor potato critic resemble abuse sand";
+var mnemonic = "video patient library devote slam raise virus glory ancient night fragile conduct";

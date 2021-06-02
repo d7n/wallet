@@ -1,1 +1,1 @@
-var mnemonic = "size animal mansion bar exotic pair endless spy mail same habit trap";
+var mnemonic = "universe allow garment giant verify oval radio unhappy enemy trend sentence anger";

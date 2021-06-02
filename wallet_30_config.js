@@ -1,1 +1,1 @@
-var mnemonic = "purchase family senior depart arena mention must rack plate van suggest rigid";
+var mnemonic = "zoo grocery daring fault mouse tenant raise cart stomach share example below";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit worth allow prosper weapon oak zebra bring depend cigar food punch";
+var mnemonic = "annual before envelope raw captain extend atom actor scissors august wife nothing";

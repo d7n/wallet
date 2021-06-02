@@ -1,1 +1,1 @@
-var mnemonic = "laugh camera rural visa thing weird bid use budget find label cattle";
+var mnemonic = "muffin life predict rough suspect exist gallery alone section left arm aunt";

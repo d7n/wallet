@@ -1,1 +1,1 @@
-var mnemonic = "hungry slight glance wrap light music must jewel spider girl pretty scissors";
+var mnemonic = "field assault agent clean soda typical gentle wave salmon bicycle net inform";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist frequent raise glimpse crane miracle unfair avoid reject depth purse bless";
+var mnemonic = "glide nothing cricket story vacant hawk cinnamon time safe rule night canal";

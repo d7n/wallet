@@ -1,1 +1,1 @@
-var mnemonic = "confirm kingdom fiscal comfort exile true north lawsuit soldier risk gasp winner";
+var mnemonic = "scissors hungry egg lawn cricket adjust sea deny panic obtain eight glow";

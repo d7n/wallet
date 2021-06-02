@@ -1,1 +1,1 @@
-var mnemonic = "nephew keep work say soup city mistake chase rival error fall egg";
+var mnemonic = "eagle roof sign brain logic render gadget rule fire thunder void assist";

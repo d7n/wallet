@@ -1,1 +1,1 @@
-var mnemonic = "mutual crucial ordinary course board slab cabin slice first leopard pepper purity";
+var mnemonic = "display evidence plastic sort dawn anger robust solution viable dash jaguar mystery";

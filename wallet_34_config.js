@@ -1,1 +1,1 @@
-var mnemonic = "nephew approve cable enough giggle when vague forum lady that inherit achieve";
+var mnemonic = "endorse behave chronic follow eight valid invest claim sponsor find skirt traffic";

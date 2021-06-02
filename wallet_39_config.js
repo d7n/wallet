@@ -1,1 +1,1 @@
-var mnemonic = "broccoli family harbor pride oak remove journey hidden spatial radar satisfy fox";
+var mnemonic = "slender jaguar task become dignity bag page road luggage tornado execute arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "art captain run insect cook false radar off oxygen swamp globe cat";
+var mnemonic = "nothing smile cruise gentle direct drink news click sort write vintage differ";

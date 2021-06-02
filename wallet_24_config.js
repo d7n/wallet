@@ -1,1 +1,1 @@
-var mnemonic = "pretty favorite cannon series face shadow coast elegant bachelor update shine salt";
+var mnemonic = "virtual brave boss case rescue weird canyon shrimp figure entire utility noise";

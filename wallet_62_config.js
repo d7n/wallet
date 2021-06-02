@@ -1,1 +1,1 @@
-var mnemonic = "crane replace blast screen glory two wealth rice asset cave seat metal";
+var mnemonic = "brief airport motor ghost sugar alarm lunar unaware foam follow very toss";

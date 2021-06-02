@@ -1,1 +1,1 @@
-var mnemonic = "detail palace gadget worry odor bean dawn carry common shallow cushion ship";
+var mnemonic = "ketchup hen lake verb silent puppy allow curve detail title crisp forget";

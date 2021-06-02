@@ -1,1 +1,1 @@
-var mnemonic = "trigger left bus critic destroy cotton deposit put peasant anger indicate weapon";
+var mnemonic = "omit waste chimney tomorrow illness express popular cycle bracket sibling quiz lunar";

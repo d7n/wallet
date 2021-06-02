@@ -1,1 +1,1 @@
-var mnemonic = "just library wealth benefit bring orchard design number fork cause hand timber";
+var mnemonic = "genre off easy rookie movie spy glass wild people minute movie ghost";

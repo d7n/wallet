@@ -1,1 +1,1 @@
-var mnemonic = "topic scheme chief inject artist define dose type enough hospital fiber choose";
+var mnemonic = "east round acoustic explain cry hurdle pull ankle huge defense trigger hazard";

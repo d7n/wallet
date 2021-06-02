@@ -1,1 +1,1 @@
-var mnemonic = "seek diesel calm home century casual diary neglect share warfare clap canoe";
+var mnemonic = "neither pause nurse taxi wheel amazing hundred escape copper ride appear ranch";

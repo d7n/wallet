@@ -1,1 +1,1 @@
-var mnemonic = "social motion rare observe shop card indicate section gadget spatial spoon void";
+var mnemonic = "congress figure wise glue action believe city pen deposit attract pigeon veteran";

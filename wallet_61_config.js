@@ -1,1 +1,1 @@
-var mnemonic = "help twin sauce hire feature duck shell chronic flip pass yard guitar";
+var mnemonic = "over abuse real village update lecture journey song curve correct power sunny";

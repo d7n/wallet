@@ -1,1 +1,1 @@
-var mnemonic = "remember modify produce shed mosquito daughter castle giant frequent garage mention tank";
+var mnemonic = "music uncover wash eyebrow use cat hover ball behave garden tell civil";

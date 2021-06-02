@@ -1,1 +1,1 @@
-var mnemonic = "mixed rival color concert recycle calm interest say exclude awesome about remain";
+var mnemonic = "virtual wink trend target valid truly cute toss field water usage melt";

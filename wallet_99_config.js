@@ -1,1 +1,1 @@
-var mnemonic = "usage dress humble faint catch proud soap claw pelican predict rival resist";
+var mnemonic = "dynamic meat gasp scene peanut phone vintage aerobic fence axis entry have";

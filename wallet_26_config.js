@@ -1,1 +1,1 @@
-var mnemonic = "during economy adjust cigar pride two inherit garlic stomach loyal shoulder sustain";
+var mnemonic = "icon access motion kitten pulp mercy cup rally cook express print fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "another infant change mixture this betray mind mention divide crater interest anxiety";
+var mnemonic = "illegal slide notable tomato adjust height mountain fragile inmate heavy unaware toy";

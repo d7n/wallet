@@ -1,1 +1,1 @@
-var mnemonic = "dice logic same nice icon abandon purchase betray calm party true genius";
+var mnemonic = "aunt shiver since deal alter bus cup thunder lava explain lawsuit voyage";

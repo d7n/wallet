@@ -1,1 +1,1 @@
-var mnemonic = "broken immune eagle item neck input seek veteran hungry brick fit amazing";
+var mnemonic = "miss fine pony concert drastic sketch upon bus ritual puzzle bring clock";

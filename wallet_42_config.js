@@ -1,1 +1,1 @@
-var mnemonic = "thrive regular banana fresh social repair right perfect famous inhale dad piece";
+var mnemonic = "twin wisdom mountain mesh tone write aspect jaguar pass inflict dirt tide";

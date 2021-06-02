@@ -1,1 +1,1 @@
-var mnemonic = "sketch habit goddess actor glory capital mistake rug wet wild snap swim";
+var mnemonic = "marine guitar gauge above rate initial mule female winner small apart flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard flag theme prison refuse dwarf sister frog caught peanut enroll brain";
+var mnemonic = "adjust stand hurdle base sort sign pretty pioneer same apart pig loan";

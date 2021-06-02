@@ -1,1 +1,1 @@
-var mnemonic = "view festival artwork kiss later loan attend fiber sponsor output coyote nurse";
+var mnemonic = "strike initial hospital myth floor dose oxygen torch snow dynamic cabbage food";

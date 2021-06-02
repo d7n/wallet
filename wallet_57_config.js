@@ -1,1 +1,1 @@
-var mnemonic = "absorb chicken useful raven hungry breeze round defy sausage execute before great";
+var mnemonic = "modify language sun region chuckle judge element lawn twice inject such picnic";

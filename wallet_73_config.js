@@ -1,1 +1,1 @@
-var mnemonic = "retire latin fall property pear kiwi erosion chalk excite rapid gas milk";
+var mnemonic = "ski fossil mouse boost celery invite rough veteran depth series undo inch";

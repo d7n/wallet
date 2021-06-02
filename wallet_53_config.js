@@ -1,1 +1,1 @@
-var mnemonic = "lab race legend wild retire method crane deputy tube multiply curious right";
+var mnemonic = "physical cancel girl organ quality person end meadow damp length mask wear";

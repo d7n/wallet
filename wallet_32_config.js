@@ -1,1 +1,1 @@
-var mnemonic = "subway expand oppose canoe panda mammal crazy nice jealous manual state hungry";
+var mnemonic = "board release local ghost soap matrix fatal ride bronze scrub rely address";
