@@ -1,1 +1,1 @@
-var mnemonic = "bacon impose lift become author honey sudden void muffin increase explain travel";
+var mnemonic = "genuine observe sun kitchen push yard grape size phrase decade clap oil";

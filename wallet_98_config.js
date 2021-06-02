@@ -1,1 +1,1 @@
-var mnemonic = "spirit dune solution network mercy skate journey cluster height verb spread tank";
+var mnemonic = "either lawsuit nephew basic canal cigar amazing word price enough vessel grid";

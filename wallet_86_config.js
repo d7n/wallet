@@ -1,1 +1,1 @@
-var mnemonic = "marriage belt one plug mobile sword fire swamp forward tooth surprise sing";
+var mnemonic = "twenty flag point tag typical network rhythm already glide science van soup";

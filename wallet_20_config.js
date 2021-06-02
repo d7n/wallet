@@ -1,1 +1,1 @@
-var mnemonic = "general relax gadget gadget champion strategy idle doll above lottery tuition neither";
+var mnemonic = "emerge weather unit auction garbage armor angry off size impose hunt fame";

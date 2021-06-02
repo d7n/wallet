@@ -1,1 +1,1 @@
-var mnemonic = "vacuum security increase weekend open slam idle share photo despair hip exile";
+var mnemonic = "position onion medal chair pistol season regret grit camera flag weather glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "diet rice exercise earth degree corn future social purpose side chronic profit";
+var mnemonic = "wet catch ready lamp warm file deny reason arrive pudding perfect width";

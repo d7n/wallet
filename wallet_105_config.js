@@ -1,1 +1,1 @@
-var mnemonic = "race pig vocal bleak normal educate rifle loan quote skin step host";
+var mnemonic = "lobster alone file salt soft degree lion crunch forward remember any taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket dragon blanket ride flock tray nasty rubber consider metal hat corn";
+var mnemonic = "scissors fish half today differ derive shell safe give learn license gain";

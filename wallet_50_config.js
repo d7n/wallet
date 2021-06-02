@@ -1,1 +1,1 @@
-var mnemonic = "arrange minor parrot attitude involve cause cigar grow turn gym kit creek";
+var mnemonic = "other test pepper circle reveal baby strike spy stumble piano young ski";

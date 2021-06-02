@@ -1,1 +1,1 @@
-var mnemonic = "multiply under rain miracle stage uphold afford frost off lunar bacon note";
+var mnemonic = "lecture humor wood what episode victory craft kiss chunk bracket exchange time";

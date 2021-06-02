@@ -1,1 +1,1 @@
-var mnemonic = "flag learn creek remove false jealous drive sign stadium buzz zone remind";
+var mnemonic = "casino forum exit blue tortoise moon result bomb marble column trick creek";

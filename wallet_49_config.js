@@ -1,1 +1,1 @@
-var mnemonic = "ramp prevent appear primary open defy cram alien tank demand cross member";
+var mnemonic = "remind month wise adjust iron custom reject develop unusual place midnight later";

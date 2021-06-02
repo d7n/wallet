@@ -1,1 +1,1 @@
-var mnemonic = "angle excite enhance once object dust armed draft run turkey wrap frame";
+var mnemonic = "liquid suit clarify believe soldier copy charge amazing april jar junior atom";

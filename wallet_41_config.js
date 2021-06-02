@@ -1,1 +1,1 @@
-var mnemonic = "pizza angry night roof agree subway resource garage husband gaze fish include";
+var mnemonic = "pigeon miracle floor cabbage casual interest crack lottery ill error truly favorite";

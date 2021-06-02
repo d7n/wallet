@@ -1,1 +1,1 @@
-var mnemonic = "trial sleep silly term perfect copper loud length pen accident can soul";
+var mnemonic = "tilt return topic kidney number rapid system unknown deal chalk pact join";

@@ -1,1 +1,1 @@
-var mnemonic = "grain future document access jeans chunk identify night eagle game success surface";
+var mnemonic = "skin situate swap share cricket danger repair tiger wide ripple route mystery";

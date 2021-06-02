@@ -1,1 +1,1 @@
-var mnemonic = "small poet arm rocket anger column valley garlic prefer ready thing panther";
+var mnemonic = "middle wolf dwarf around sugar ring horn chalk coconut enable invest coconut";

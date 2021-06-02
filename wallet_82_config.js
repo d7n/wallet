@@ -1,1 +1,1 @@
-var mnemonic = "cream expand cluster resist double hurt convince asset panel neglect man deliver";
+var mnemonic = "fuel force romance nut cigar floor way rigid shiver render doctor eye";

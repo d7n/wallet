@@ -1,1 +1,1 @@
-var mnemonic = "mutual mobile route sphere park upgrade shrimp exercise wisdom brown course luxury";
+var mnemonic = "burst crawl donkey public soldier embody genius undo satisfy canyon brick scrap";

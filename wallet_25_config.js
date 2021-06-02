@@ -1,1 +1,1 @@
-var mnemonic = "still ritual phrase evoke lunch nothing spot weather bicycle guard debris distance";
+var mnemonic = "figure galaxy crane lemon imitate lizard force crouch effort leopard mistake mesh";

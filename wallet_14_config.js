@@ -1,1 +1,1 @@
-var mnemonic = "engage crack cement equip room move matrix lamp journey help fee exit";
+var mnemonic = "crane solution error cave magic door pulse dream diary already purity lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "minor tell depth vacant list arena moral combine leaf uncle drift inmate";
+var mnemonic = "will opera blur intact entire error ride neutral furnace electric elephant sport";

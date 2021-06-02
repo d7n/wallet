@@ -1,1 +1,1 @@
-var mnemonic = "boss rate dismiss pull market front shove elite ring tooth essay eternal";
+var mnemonic = "chalk relief faith else idle tiny cactus siege enemy derive style spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive neglect matter fantasy curve enforce account confirm distance kangaroo sand method";
+var mnemonic = "submit choice sock divert narrow scan service seed top limb emotion boring";

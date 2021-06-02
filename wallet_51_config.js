@@ -1,1 +1,1 @@
-var mnemonic = "box glass enjoy turkey short mosquito arrive shaft student squirrel crane supply";
+var mnemonic = "inject trick wall unveil jelly whisper famous blind hire mention behind outdoor";

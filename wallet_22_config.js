@@ -1,1 +1,1 @@
-var mnemonic = "ancient onion face dinosaur grace enact case wall liquid dice dolphin patch";
+var mnemonic = "whisper pitch wheat tag neutral include amateur cereal weather chuckle winner host";

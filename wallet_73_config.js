@@ -1,1 +1,1 @@
-var mnemonic = "future bracket whisper rabbit suit skull tape chair certain alpha embark team";
+var mnemonic = "twenty twin anger enrich quiz garbage climb curious rely near van term";

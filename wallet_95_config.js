@@ -1,1 +1,1 @@
-var mnemonic = "spy develop clock asthma smile diamond bike casual anchor trend lumber myth";
+var mnemonic = "armor stumble lucky sound toast build season brisk upper satisfy donate runway";

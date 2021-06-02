@@ -1,1 +1,1 @@
-var mnemonic = "cargo pear toward fitness drill soft truly where eight foster kitten pattern";
+var mnemonic = "south embrace chimney envelope dirt ripple humble verify meadow merit frame source";

@@ -1,1 +1,1 @@
-var mnemonic = "equip tag pitch start foot suspect tongue clown subway shed cargo toward";
+var mnemonic = "pen hand depend program size age bone moral zone boil wave radio";

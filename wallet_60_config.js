@@ -1,1 +1,1 @@
-var mnemonic = "skull vicious require dinosaur couple survey pretty chair eagle burst drum rookie";
+var mnemonic = "erase vanish cabbage lake outdoor patient grit session kid pet tomorrow small";

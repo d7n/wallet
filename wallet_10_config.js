@@ -1,1 +1,1 @@
-var mnemonic = "cheap steel exhibit flame betray poverty chair piano strategy eight add giraffe";
+var mnemonic = "print ordinary monitor country assume mistake menu quality undo high derive cannon";

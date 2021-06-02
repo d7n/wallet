@@ -1,1 +1,1 @@
-var mnemonic = "game pact echo damage forest wash cake summer must clap dirt save";
+var mnemonic = "arch palm ozone often guard web smile mutual throw cousin print boost";

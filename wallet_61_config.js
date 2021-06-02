@@ -1,1 +1,1 @@
-var mnemonic = "seminar kiss super bicycle angle skill sentence chunk economy produce sleep alley";
+var mnemonic = "vivid render art age canal recall sound ill nation series tongue feed";

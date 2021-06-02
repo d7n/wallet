@@ -1,1 +1,1 @@
-var mnemonic = "artist soccer wait cruise sketch author quote lounge sample client kiss hover";
+var mnemonic = "knife elevator arena depth include century photo brother can loan mad will";

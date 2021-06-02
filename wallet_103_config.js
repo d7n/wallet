@@ -1,1 +1,1 @@
-var mnemonic = "write office legal claim lumber bullet model castle throw miss leaf gaze";
+var mnemonic = "ceiling leader secret stove orient tired panic swap border fit mandate vacuum";

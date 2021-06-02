@@ -1,1 +1,1 @@
-var mnemonic = "post impulse matter combine fit special humor people pioneer sheriff satoshi quarter";
+var mnemonic = "debris turtle one snap clip pioneer rotate ugly pole behind jungle follow";

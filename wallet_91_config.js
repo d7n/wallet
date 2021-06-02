@@ -1,1 +1,1 @@
-var mnemonic = "lab cabbage copy inhale resource often left super cry recipe pottery submit";
+var mnemonic = "hover fatigue claw useful sight copy tackle tumble long year globe guide";

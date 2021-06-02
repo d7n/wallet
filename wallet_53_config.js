@@ -1,1 +1,1 @@
-var mnemonic = "diamond blur anchor bird rack expand start goddess pledge nerve zone caution";
+var mnemonic = "sentence trim cement weapon surround pumpkin north burden gossip mystery blur clap";

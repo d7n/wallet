@@ -1,1 +1,1 @@
-var mnemonic = "edge cart edit since lucky tattoo glimpse expose key slush glare differ";
+var mnemonic = "trick purity surround fish immense robust zebra occur entire enrich social ginger";

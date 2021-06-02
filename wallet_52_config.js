@@ -1,1 +1,1 @@
-var mnemonic = "visit album unfair muffin menu volume guitar world pattern sure zone lazy";
+var mnemonic = "resource decrease relief dragon quarter junk lava glimpse nut rose paddle step";

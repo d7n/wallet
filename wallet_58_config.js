@@ -1,1 +1,1 @@
-var mnemonic = "neglect aisle spawn degree all bottom punch stay damp critic coconut mammal";
+var mnemonic = "believe wagon cash kick motion dog love fetch scene combine hip they";

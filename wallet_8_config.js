@@ -1,1 +1,1 @@
-var mnemonic = "slow chimney drama rescue borrow marble frozen female senior toilet where mansion";
+var mnemonic = "fine lunch spring strategy jacket soup assist waste wish soccer sea later";

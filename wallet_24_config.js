@@ -1,1 +1,1 @@
-var mnemonic = "village elevator myself moon distance issue dream super order garment slide service";
+var mnemonic = "age card sweet hammer member violin water laundry dish void lift level";

@@ -1,1 +1,1 @@
-var mnemonic = "into chef steak seek aspect result shaft fame work walnut unfold pattern";
+var mnemonic = "agree shove state inspire cup cactus arena flee famous faint cry witness";

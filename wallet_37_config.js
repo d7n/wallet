@@ -1,1 +1,1 @@
-var mnemonic = "comic once wheel mutual vocal radar fringe into bacon give cigar toddler";
+var mnemonic = "that sign universe inmate poet news defense modify umbrella pepper dish dignity";

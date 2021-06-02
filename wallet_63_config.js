@@ -1,1 +1,1 @@
-var mnemonic = "brother confirm empower rifle bus shell ski egg remind ridge surface evoke";
+var mnemonic = "disorder supply online crunch dignity close girl answer nuclear citizen effort key";

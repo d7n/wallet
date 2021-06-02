@@ -1,1 +1,1 @@
-var mnemonic = "wild hint outside live want piano visit picture blossom disagree tray walk";
+var mnemonic = "diagram enough vague goat sadness this great group version kick bulb tomato";

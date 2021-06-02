@@ -1,1 +1,1 @@
-var mnemonic = "case intact essay hawk disagree runway gun rigid pull spray width vendor";
+var mnemonic = "smooth spoil bridge section curve govern embark jewel dose noodle warm congress";

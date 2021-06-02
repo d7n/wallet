@@ -1,1 +1,1 @@
-var mnemonic = "filter awkward plunge jaguar coffee hidden dune employ afford sand piece young";
+var mnemonic = "electric alter equal elevator stick exotic dwarf depend deliver cart busy kidney";

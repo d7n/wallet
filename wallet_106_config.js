@@ -1,1 +1,1 @@
-var mnemonic = "bitter proof silver museum object come blouse wage party surface toddler wheat";
+var mnemonic = "feed project side marble inside pupil smooth cost devote enable idle melt";

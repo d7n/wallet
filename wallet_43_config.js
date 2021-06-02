@@ -1,1 +1,1 @@
-var mnemonic = "clock few jaguar place embark uncover shift repair exile shed settle citizen";
+var mnemonic = "acoustic ride meadow round march salmon mosquito speak symptom audit ecology crucial";

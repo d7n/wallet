@@ -1,1 +1,1 @@
-var mnemonic = "price route close noodle meadow swing episode below job true where web";
+var mnemonic = "purchase frozen drum crystal prosper topple material frost hair tree exile produce";

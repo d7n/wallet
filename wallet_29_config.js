@@ -1,1 +1,1 @@
-var mnemonic = "metal duck mention report gaze employ brief turtle antenna trim opera hazard";
+var mnemonic = "spirit sing relief bamboo local page innocent cruise apology fringe chapter process";

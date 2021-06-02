@@ -1,1 +1,1 @@
-var mnemonic = "water giggle galaxy mercy diary sign below work door siege lounge street";
+var mnemonic = "cry warrior luxury brother recipe sniff emotion ranch timber pave little chest";

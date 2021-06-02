@@ -1,1 +1,1 @@
-var mnemonic = "replace capital resemble feed prosper similar doll lunar midnight program shield blouse";
+var mnemonic = "entry wall bless flash blade save fragile lend erupt picture miracle life";

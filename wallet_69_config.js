@@ -1,1 +1,1 @@
-var mnemonic = "access album hazard swim govern dinner vessel never drop wash cliff flee";
+var mnemonic = "practice security husband broken lake north dolphin jealous drip increase word drastic";

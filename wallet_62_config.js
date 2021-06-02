@@ -1,1 +1,1 @@
-var mnemonic = "spoon series reason camera vast woman unable skill appear inhale mixed property";
+var mnemonic = "twin draw then equip oak volume oil warm kite length chronic mountain";

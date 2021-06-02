@@ -1,1 +1,1 @@
-var mnemonic = "method ginger sketch spray bracket aware exhaust belt upon relax record bonus";
+var mnemonic = "orchard casual obscure brush east fiber car seminar file diary teach nerve";

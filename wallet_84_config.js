@@ -1,1 +1,1 @@
-var mnemonic = "usage exhaust weapon solve ill uncover blast second delay kiss choice napkin";
+var mnemonic = "diesel absurd squeeze fantasy taste carbon atom faint code depend inquiry umbrella";

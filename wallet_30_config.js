@@ -1,1 +1,1 @@
-var mnemonic = "vibrant radio one love cake gravity critic tomorrow wheat pistol found siege";
+var mnemonic = "smooth later someone medal drip teach local indicate noodle canyon life purpose";

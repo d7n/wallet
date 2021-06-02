@@ -1,1 +1,1 @@
-var mnemonic = "bless circle sand recall crumble weekend belt bone focus smooth access police";
+var mnemonic = "bid angry mixed pause project mystery chunk crop title photo please buddy";

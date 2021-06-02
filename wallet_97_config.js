@@ -1,1 +1,1 @@
-var mnemonic = "reunion staff parrot jealous key like beyond truly canvas note tag siren";
+var mnemonic = "avoid grab bright hover hidden install pear giggle cool wall broccoli tape";

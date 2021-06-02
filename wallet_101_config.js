@@ -1,1 +1,1 @@
-var mnemonic = "ivory cake scissors donor wonder badge casual local tuition fat acid affair";
+var mnemonic = "athlete young resource submit average almost couple laugh future fiction stamp pretty";

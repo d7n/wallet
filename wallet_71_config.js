@@ -1,1 +1,1 @@
-var mnemonic = "arena gather rubber return grow crash correct addict glide raise myth pill";
+var mnemonic = "surge wedding regret destroy risk retreat average gate unhappy practice fuel arena";

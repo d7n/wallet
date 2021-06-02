@@ -1,1 +1,1 @@
-var mnemonic = "concert tip reopen injury swap rule sea mention police battle lens health";
+var mnemonic = "venture odor parent shoulder retire lock spell across slender cable figure marine";

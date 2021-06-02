@@ -1,1 +1,1 @@
-var mnemonic = "dress leaf soul wrong reward provide box gas salute tiny movie girl";
+var mnemonic = "glimpse insane jazz until cinnamon imitate session wife leg dignity about police";

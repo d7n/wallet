@@ -1,1 +1,1 @@
-var mnemonic = "version stereo column dawn captain bamboo receive escape correct river round space";
+var mnemonic = "stage surge sing beauty rely pretty banana erase auction mother account wheat";

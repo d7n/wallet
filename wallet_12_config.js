@@ -1,1 +1,1 @@
-var mnemonic = "explain fragile museum tail ignore cube mutual exhibit seed because liberty find";
+var mnemonic = "mushroom nation because visit flee east cancel tattoo leg board shine cherry";

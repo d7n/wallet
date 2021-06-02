@@ -1,1 +1,1 @@
-var mnemonic = "print cost mind such flock oppose pledge green current angry field six";
+var mnemonic = "call meat creek clump surprise cupboard bean bitter midnight shield art diary";

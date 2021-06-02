@@ -1,1 +1,1 @@
-var mnemonic = "version blade now finish dignity innocent panther sea consider curve wrong matter";
+var mnemonic = "attack typical obtain calm boy almost power wish task super stage exile";

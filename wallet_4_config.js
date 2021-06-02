@@ -1,1 +1,1 @@
-var mnemonic = "better brain tattoo rent cherry credit keen fragile shy evidence vital degree";
+var mnemonic = "crucial fatigue egg appear quit clump cruise menu orient mom bomb monitor";

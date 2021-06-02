@@ -1,1 +1,1 @@
-var mnemonic = "ridge weird wash crucial park calm pear fox place artefact metal exist";
+var mnemonic = "lawsuit impact cheese practice stem window gadget disagree solid case raw frown";

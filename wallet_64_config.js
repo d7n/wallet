@@ -1,1 +1,1 @@
-var mnemonic = "frown lonely casual light sentence flavor accident salon cruise anger coyote dust";
+var mnemonic = "outside heart flame volume vivid dynamic hungry spy embrace physical hawk garbage";

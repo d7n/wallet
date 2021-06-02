@@ -1,1 +1,1 @@
-var mnemonic = "cruel feel elephant make boost excess found lift walk ritual point ahead";
+var mnemonic = "weather auction average able void sound cart apple keen mountain practice chimney";

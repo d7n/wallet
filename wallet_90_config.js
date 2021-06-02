@@ -1,1 +1,1 @@
-var mnemonic = "faith protect siege surge glory inquiry pool spell put scare culture can";
+var mnemonic = "logic trophy protect derive exercise supply slam infant seminar public half try";

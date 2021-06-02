@@ -1,1 +1,1 @@
-var mnemonic = "harsh current runway nut obtain dice sugar day horror swing clarify snack";
+var mnemonic = "price key snake harvest scale system enrich over occur trial crop act";

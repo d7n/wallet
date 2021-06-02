@@ -1,1 +1,1 @@
-var mnemonic = "ladder powder abstract flag bleak cheese scout march text venue rough setup";
+var mnemonic = "confirm shoulder echo item sorry nothing lemon stay divorce hood bread century";

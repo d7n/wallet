@@ -1,1 +1,1 @@
-var mnemonic = "monster sea office animal tunnel seed tobacco lucky mass over gravity proof";
+var mnemonic = "dial spy frequent one oak tool same potato end crop bargain scrap";

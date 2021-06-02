@@ -1,1 +1,1 @@
-var mnemonic = "echo sense toward act antique neck defense outdoor release donor evidence foil";
+var mnemonic = "argue space forest grass garbage myself sort effort review supreme bike smooth";

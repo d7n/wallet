@@ -1,1 +1,1 @@
-var mnemonic = "lift gift wool soccer hold punch erode crew dolphin theme suffer educate";
+var mnemonic = "blade can avoid joke tree april frost original nurse abandon stay bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "romance bonus strike silver chaos hedgehog alley crime wing logic actress execute";
+var mnemonic = "hint spider clutch loan movie material junior hurt endorse turtle myth valid";

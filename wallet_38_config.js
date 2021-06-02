@@ -1,1 +1,1 @@
-var mnemonic = "success priority guide deny dilemma rose jungle churn economy barrel much salt";
+var mnemonic = "alien anxiety also way bacon used cloud come sunset inside month topple";

@@ -1,1 +1,1 @@
-var mnemonic = "sure rare budget lady head what narrow bind piano clean poem ramp";
+var mnemonic = "autumn gate shoe multiply table later dress black frost army dismiss ride";

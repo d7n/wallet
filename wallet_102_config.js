@@ -1,1 +1,1 @@
-var mnemonic = "rude primary olympic shift kite educate goddess fiber news oven miracle desk";
+var mnemonic = "abstract fault purity ocean mystery unaware miracle amount excess alter require toss";

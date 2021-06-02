@@ -1,1 +1,1 @@
-var mnemonic = "canyon festival teach century keen sauce salmon range disagree cheap pretty trend";
+var mnemonic = "wall demand critic mechanic patient kick visual vehicle orange man mango hair";

@@ -1,1 +1,1 @@
-var mnemonic = "turn outside goose fit add veteran crazy reason open liar rib innocent";
+var mnemonic = "inform nephew analyst space web section mystery control dragon market oil tiger";

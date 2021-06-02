@@ -1,1 +1,1 @@
-var mnemonic = "this dentist canal absorb zebra vivid prepare runway drama wine victory ranch";
+var mnemonic = "poverty example noodle fix adult domain strike buzz chronic quantum lend cluster";
