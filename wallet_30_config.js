@@ -1,1 +1,1 @@
-var mnemonic = "notable ball high dragon endorse someone protect identify hurdle review consider company";
+var mnemonic = "fish never stamp success verify control snap dash spike echo member abuse";

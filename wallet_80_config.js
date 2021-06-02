@@ -1,1 +1,1 @@
-var mnemonic = "confirm tilt lemon punch remain wage solid relax vacant long strong system";
+var mnemonic = "hero refuse thumb biology cart hello jacket swallow noodle book inmate news";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket tissue choice shoot assume blind essence night stick canal almost gallery";
+var mnemonic = "soap festival zebra steel kick media plate mandate easily picnic submit cage";

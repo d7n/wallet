@@ -1,1 +1,1 @@
-var mnemonic = "egg behind congress cupboard senior volcano syrup hazard pepper donor ordinary motion";
+var mnemonic = "crowd frost proud below media sure genre border axis mule park ladder";

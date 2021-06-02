@@ -1,1 +1,1 @@
-var mnemonic = "tip trigger fossil smoke gap proud prefer rebel tent minimum viable curve";
+var mnemonic = "urge gallery misery cave process mushroom good mask remember know ancient donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "glass top exclude resist erosion credit promote oil destroy miss song oblige";
+var mnemonic = "level material rose tissue inhale earn false mutual ecology humor calm miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "draw remain shiver ring tray loan truck eight keen decorate sniff family";
+var mnemonic = "aspect stumble engage reveal merit coffee wide better view pudding renew illegal";

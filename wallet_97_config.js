@@ -1,1 +1,1 @@
-var mnemonic = "draft roast shed brush special inflict public believe proud sentence drip afford";
+var mnemonic = "begin baby guard stable mother motion story away copy blur draw dog";

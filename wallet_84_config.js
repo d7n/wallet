@@ -1,1 +1,1 @@
-var mnemonic = "ridge ladder retreat scout young damage entire hello glass rare fancy equip";
+var mnemonic = "circle shaft man paddle once holiday announce extra crush sniff cereal tree";

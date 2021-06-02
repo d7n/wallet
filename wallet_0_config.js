@@ -1,1 +1,1 @@
-var mnemonic = "merry caught flame come thought please jealous hill mesh round fan enemy";
+var mnemonic = "regular blue equip bike captain syrup fiscal solar trick scrub hundred food";

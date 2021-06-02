@@ -1,1 +1,1 @@
-var mnemonic = "chest sister post void predict repeat shadow demise escape exhaust between town";
+var mnemonic = "hockey odor switch episode ahead apple mechanic tube prize brown cherry flavor";

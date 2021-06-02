@@ -1,1 +1,1 @@
-var mnemonic = "balcony custom female suspect smart hungry involve fence gate maze trophy token";
+var mnemonic = "level minimum immune kingdom follow stand goose clay citizen knee surface battle";

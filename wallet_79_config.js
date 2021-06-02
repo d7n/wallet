@@ -1,1 +1,1 @@
-var mnemonic = "warfare clap faint laptop panel cook donate topic borrow dentist need protect";
+var mnemonic = "sell minute ill never quick skirt canyon glow weird enrich nose direct";

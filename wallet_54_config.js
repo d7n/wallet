@@ -1,1 +1,1 @@
-var mnemonic = "outdoor allow only cry angry punch magic rack camp still share seek";
+var mnemonic = "beef once fold gossip wreck spoil stereo play dirt split seminar print";

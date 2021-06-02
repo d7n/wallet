@@ -1,1 +1,1 @@
-var mnemonic = "lounge december offer adapt indoor memory embody stairs loop shield wave lucky";
+var mnemonic = "finish cream chalk educate mesh effort mix slice drill supply because chef";

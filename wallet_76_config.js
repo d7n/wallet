@@ -1,1 +1,1 @@
-var mnemonic = "sure conduct chest report clock special core cash mad evidence hole sun";
+var mnemonic = "zone mammal puzzle keen summer giggle bachelor moral polar street chaos mercy";

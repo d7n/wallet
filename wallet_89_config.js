@@ -1,1 +1,1 @@
-var mnemonic = "brisk inner lesson shell habit vault wise spread lazy museum author grant";
+var mnemonic = "gown eye steel fox expire rib joke clump wash edge differ pumpkin";

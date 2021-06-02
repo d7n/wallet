@@ -1,1 +1,1 @@
-var mnemonic = "short poet useful carry fit matrix penalty rotate universe oven mother stool";
+var mnemonic = "leg reward gun organ correct pilot summer series slice ice photo color";

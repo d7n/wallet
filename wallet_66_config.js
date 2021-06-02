@@ -1,1 +1,1 @@
-var mnemonic = "silk end adult tattoo area jealous tomorrow little ship chaos science better";
+var mnemonic = "soup digital print athlete air before usual rare deputy captain keep athlete";

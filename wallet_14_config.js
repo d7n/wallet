@@ -1,1 +1,1 @@
-var mnemonic = "offer small danger lamp police knock weird brief ocean resist creek during";
+var mnemonic = "expose gravity eight also road rug library project ski master scheme essence";

@@ -1,1 +1,1 @@
-var mnemonic = "liar swear require spring way voyage salad bundle hover corn meadow canal";
+var mnemonic = "element artefact blade business silent flip current salmon emotion uniform crucial uniform";

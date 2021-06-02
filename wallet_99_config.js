@@ -1,1 +1,1 @@
-var mnemonic = "robust volume this canvas clap pact outdoor cute job crouch copy false";
+var mnemonic = "trigger entire soup advance swear author measure term lawsuit easily lecture forward";

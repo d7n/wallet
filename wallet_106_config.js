@@ -1,1 +1,1 @@
-var mnemonic = "card spoil roast digital focus tell peasant legend eight upper lazy manage";
+var mnemonic = "leg essence cage hint slush monster tackle cream hour sweet fall cover";

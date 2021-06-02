@@ -1,1 +1,1 @@
-var mnemonic = "kite core pizza predict emotion body shock they mammal point only apology";
+var mnemonic = "stadium reflect auto various erase diesel casino chimney wasp that dream live";

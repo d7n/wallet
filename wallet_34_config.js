@@ -1,1 +1,1 @@
-var mnemonic = "disorder green among journey lion stool session quick angry airport fluid rapid";
+var mnemonic = "soap route busy truck gauge people juice boring describe donate firm cigar";

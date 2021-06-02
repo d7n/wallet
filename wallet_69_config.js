@@ -1,1 +1,1 @@
-var mnemonic = "town hurdle pistol trouble undo ceiling next note estate book garbage unlock";
+var mnemonic = "need garlic please catch pupil ceiling bullet man spawn myth latin grape";

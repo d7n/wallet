@@ -1,1 +1,1 @@
-var mnemonic = "country meat run hundred tail suit become reunion pact swap armed fringe";
+var mnemonic = "erosion gain badge scene all clap equal soft column mammal extend bid";

@@ -1,1 +1,1 @@
-var mnemonic = "marble rain wise gate rich carpet clock fiscal attract describe slim cotton";
+var mnemonic = "cereal vessel exile grow lady dose exchange suspect soda robust evoke tiny";

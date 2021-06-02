@@ -1,1 +1,1 @@
-var mnemonic = "reward symptom obey whale message wreck floor idea danger baby fitness girl";
+var mnemonic = "review silver buffalo stereo aisle blade frozen plate reunion wink arch hip";

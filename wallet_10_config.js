@@ -1,1 +1,1 @@
-var mnemonic = "bullet thunder east crawl wet month into pencil present month hungry supply";
+var mnemonic = "level add apology chronic hurdle ship ocean chat still pact basic shine";

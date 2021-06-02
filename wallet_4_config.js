@@ -1,1 +1,1 @@
-var mnemonic = "invest curve busy twin juice battle emotion game under cross essay floor";
+var mnemonic = "aware stand awake glow demand primary rocket flavor wood lawn moment repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "cover daring pond success fatigue detail board diamond decide debris adapt cloth";
+var mnemonic = "ticket gloom salt grab high nature north fantasy fringe thank foil inspire";

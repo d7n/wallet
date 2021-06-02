@@ -1,1 +1,1 @@
-var mnemonic = "brief hazard veteran tuition mobile fiction top drop sense service ostrich absurd";
+var mnemonic = "embark chicken anchor scrap robust grit myth employ fault close helmet fan";

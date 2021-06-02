@@ -1,1 +1,1 @@
-var mnemonic = "degree gauge deal voice run chaos custom remove talent thing loop grass";
+var mnemonic = "cram release submit sound slim fatal about bubble bulk vast canyon major";

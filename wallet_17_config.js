@@ -1,1 +1,1 @@
-var mnemonic = "street what shoulder useless wagon cigar note brain drill badge spray camp";
+var mnemonic = "evolve embark turkey balcony banner solve maid steel major scissors moment pear";

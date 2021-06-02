@@ -1,1 +1,1 @@
-var mnemonic = "chicken exit grace review ripple hurry fuel novel sunset loop identify cash";
+var mnemonic = "praise heavy deny save blood increase weird law magic bike sell cliff";

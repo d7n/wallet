@@ -1,1 +1,1 @@
-var mnemonic = "under shock orphan scare minute play stool farm exist aerobic pride honey";
+var mnemonic = "tragic universe hen expose topple pass ten exclude plunge defy blur funny";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz notice truly fun fee chalk lemon finger oyster then reunion auction";
+var mnemonic = "trash depart prize select buyer imitate define stool fog cook mosquito certain";

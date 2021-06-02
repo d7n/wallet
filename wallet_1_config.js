@@ -1,1 +1,1 @@
-var mnemonic = "teach view excite pigeon fork million giggle heavy weather twenty ship patrol";
+var mnemonic = "invite similar rabbit volcano aspect visa forum clock provide fever south wonder";

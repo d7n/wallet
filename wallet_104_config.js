@@ -1,1 +1,1 @@
-var mnemonic = "conduct flip doctor scrap sadness palm dignity able combine spray trade cage";
+var mnemonic = "worth what relax shield slab hour perfect gallery drop bitter quiz kiwi";

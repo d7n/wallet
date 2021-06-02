@@ -1,1 +1,1 @@
-var mnemonic = "amused dog volcano soldier test volume property chicken brother want transfer honey";
+var mnemonic = "alone mixed age rescue giraffe glad assume already near obtain vivid opinion";

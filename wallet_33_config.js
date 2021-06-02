@@ -1,1 +1,1 @@
-var mnemonic = "begin bitter fan perfect tube payment cricket other crazy ketchup street vast";
+var mnemonic = "loan chapter merge normal ring boat brief biology salmon large review taxi";

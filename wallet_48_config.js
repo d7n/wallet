@@ -1,1 +1,1 @@
-var mnemonic = "under escape long output walk super orange insect away catalog fetch problem";
+var mnemonic = "reflect follow sunny garage swarm kite make name faint family agent nephew";

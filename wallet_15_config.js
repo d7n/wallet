@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon phrase multiply rescue puppy joke afford tongue hollow barely column thunder";
+var mnemonic = "envelope record lock maximum thing woman wave marble filter bid grocery route";

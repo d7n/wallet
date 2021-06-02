@@ -1,1 +1,1 @@
-var mnemonic = "february thing nation novel wear system mosquito volcano dad ball ten misery";
+var mnemonic = "box mixture mango either dawn battle clock jewel play example load only";

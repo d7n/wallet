@@ -1,1 +1,1 @@
-var mnemonic = "slot face lend cliff item innocent cake edge gossip alarm zebra neglect";
+var mnemonic = "decade feed upper market proof supreme when bus vivid flee catalog wrap";

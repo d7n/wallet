@@ -1,1 +1,1 @@
-var mnemonic = "vessel current charge simple wedding peasant dawn include crystal grant country again";
+var mnemonic = "quality south settle diesel modify crystal hamster sauce panther hello program blast";

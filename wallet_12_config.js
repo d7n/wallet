@@ -1,1 +1,1 @@
-var mnemonic = "also age prosper crush north punch orphan assume myth cheap kangaroo legal";
+var mnemonic = "depth quote bachelor south insect film donor into diesel curve walk second";

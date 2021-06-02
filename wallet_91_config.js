@@ -1,1 +1,1 @@
-var mnemonic = "visa camp jeans peace grab clip hobby marble cycle hand coconut loan";
+var mnemonic = "worth galaxy midnight sand bounce pitch matrix dignity arrest task delay bar";

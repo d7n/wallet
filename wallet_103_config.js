@@ -1,1 +1,1 @@
-var mnemonic = "atom embark eyebrow sea youth brother object electric thank symbol juice choose";
+var mnemonic = "draw lonely seminar vehicle wrong knock wire embark nut flock green whisper";

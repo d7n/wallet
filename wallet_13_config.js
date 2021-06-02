@@ -1,1 +1,1 @@
-var mnemonic = "grunt useless still outside wealth pulp narrow topic accident child trophy mistake";
+var mnemonic = "dash nuclear inform glass put ancient come salute desk comic must setup";

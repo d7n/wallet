@@ -1,1 +1,1 @@
-var mnemonic = "usual tobacco enjoy music reopen much curious moral clip margin unable act";
+var mnemonic = "side idea govern crush organ civil broom fame either ensure return depend";

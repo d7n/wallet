@@ -1,1 +1,1 @@
-var mnemonic = "foot nut aim mail invite above sheriff any quantum field fragile category";
+var mnemonic = "joy junk normal reward object climb resemble admit digital festival funny pretty";

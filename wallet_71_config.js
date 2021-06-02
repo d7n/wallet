@@ -1,1 +1,1 @@
-var mnemonic = "make cliff month flee ribbon slow derive immune crush issue near mother";
+var mnemonic = "wire purity panic monitor mask enable short need orchard little remain then";

@@ -1,1 +1,1 @@
-var mnemonic = "often allow path obscure repair drive flock solution hard route refuse engine";
+var mnemonic = "bag false pair exotic agree photo impose retire blue near hotel weird";

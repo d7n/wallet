@@ -1,1 +1,1 @@
-var mnemonic = "runway fiction club attitude clean begin carpet deal hybrid review speak sadness";
+var mnemonic = "claw deer sheriff foam figure sunset already romance valid wool south mass";

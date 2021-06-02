@@ -1,1 +1,1 @@
-var mnemonic = "someone decrease neither alarm garbage fine sustain betray remove axis silent jump";
+var mnemonic = "melody vault salt stone talent divide gaze bomb shuffle snack helmet chief";

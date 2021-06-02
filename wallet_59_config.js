@@ -1,1 +1,1 @@
-var mnemonic = "gas behave say curve chef razor outside glove prepare fantasy arctic float";
+var mnemonic = "guess stem version icon clarify volcano cover obscure clerk tattoo monitor anger";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel cigar crazy swap blade ripple congress flight alley fruit opinion own";
+var mnemonic = "tower decline caught isolate brave grain horn hazard jelly chuckle rhythm play";

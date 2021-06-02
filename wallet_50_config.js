@@ -1,1 +1,1 @@
-var mnemonic = "mask pilot cactus treat label misery expire squirrel coffee chuckle pulp average";
+var mnemonic = "urge gate purse wall six old blouse gesture rifle scrap decline blush";

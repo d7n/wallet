@@ -1,1 +1,1 @@
-var mnemonic = "romance anger immense purse initial vivid detect picnic thing clog spend online";
+var mnemonic = "develop cruise river save degree own light leopard pig sorry note endless";

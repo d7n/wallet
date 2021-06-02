@@ -1,1 +1,1 @@
-var mnemonic = "super flavor horror credit ladder credit goose pencil scene thunder finish hobby";
+var mnemonic = "shrimp excite dinosaur attitude exact alien legal else service only grace poverty";

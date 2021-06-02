@@ -1,1 +1,1 @@
-var mnemonic = "loud angry across tumble person enforce team ripple father twin suffer route";
+var mnemonic = "room plate season calm distance mansion sing street few pepper agree possible";

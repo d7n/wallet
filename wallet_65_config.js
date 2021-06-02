@@ -1,1 +1,1 @@
-var mnemonic = "broom crouch stone wait embark turtle mushroom width autumn parent describe buyer";
+var mnemonic = "point stamp version shed clinic mean behind live speak december club salt";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble idea risk same pottery media cook casual pluck winner case neutral";
+var mnemonic = "topple knife brown valve cotton rigid october junk unique august cool thumb";

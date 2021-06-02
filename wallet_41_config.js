@@ -1,1 +1,1 @@
-var mnemonic = "admit syrup cable net physical salt sting oyster prevent bullet process know";
+var mnemonic = "rabbit resist humor crane admit narrow flock sword share matrix capable typical";

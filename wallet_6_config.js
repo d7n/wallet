@@ -1,1 +1,1 @@
-var mnemonic = "bind duty ankle deer dice burst strategy alcohol category assist option axis";
+var mnemonic = "sadness sword slogan better divide weather act hollow benefit uniform thing wing";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge inform box pass equip help diary pull case room expire woman";
+var mnemonic = "face mesh dismiss voice february glare left exit off hidden human pretty";

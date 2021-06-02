@@ -1,1 +1,1 @@
-var mnemonic = "infant keen better region permit speed balance shop brush private swap floor";
+var mnemonic = "decorate cereal timber traffic coast cherry tuna garden grief mother hidden circle";

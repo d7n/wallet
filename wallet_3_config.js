@@ -1,1 +1,1 @@
-var mnemonic = "senior slight battle retreat hundred target digital clerk shuffle essay feature shift";
+var mnemonic = "carry pupil exist autumn brass network medal tuna distance poverty state increase";

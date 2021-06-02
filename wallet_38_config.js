@@ -1,1 +1,1 @@
-var mnemonic = "address cry position amateur luxury fit educate like phrase evil enforce hamster";
+var mnemonic = "profit piece sting bitter crumble program margin salute bean atom special nephew";

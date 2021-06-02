@@ -1,1 +1,1 @@
-var mnemonic = "kitchen adjust twist bring bid very piano cycle regular swing special scare";
+var mnemonic = "leader caught cycle indicate replace vivid milk reduce used quarter resource border";

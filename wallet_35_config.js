@@ -1,1 +1,1 @@
-var mnemonic = "sphere harbor nothing screen tooth idle prepare throw chair horn negative weapon";
+var mnemonic = "saddle receive half frown sort visa legend father ginger solve kind child";

@@ -1,1 +1,1 @@
-var mnemonic = "error egg toward they ecology divorce tenant release boss tag estate region";
+var mnemonic = "dirt firm deputy erode hair unaware daughter repeat invest notice street emerge";

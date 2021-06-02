@@ -1,1 +1,1 @@
-var mnemonic = "art mandate pluck review winner patient clinic biology modify term defense enroll";
+var mnemonic = "fun isolate disorder crater talent banana liar great hen ozone street antenna";

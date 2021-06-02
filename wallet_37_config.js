@@ -1,1 +1,1 @@
-var mnemonic = "boring hero find silver govern easy game odor notice finish twist current";
+var mnemonic = "give surprise aerobic cheese flavor eight wink ceiling vanish exotic excite talent";

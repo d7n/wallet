@@ -1,1 +1,1 @@
-var mnemonic = "taste notice host firm another empower tower plate dawn shell impose embody";
+var mnemonic = "cake charge chapter logic bounce fragile share earn canvas alter approve gossip";

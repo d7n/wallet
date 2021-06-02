@@ -1,1 +1,1 @@
-var mnemonic = "divert stumble pole decide jar accuse you lock steel smooth robust utility";
+var mnemonic = "humor afraid bulk wood rebuild stove save blush green antique unveil toss";

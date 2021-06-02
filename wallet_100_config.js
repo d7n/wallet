@@ -1,1 +1,1 @@
-var mnemonic = "banner weather master vocal rescue team main decrease banner husband sketch cherry";
+var mnemonic = "still attitude rescue accident company gorilla dwarf deposit virtual where rich detail";

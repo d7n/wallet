@@ -1,1 +1,1 @@
-var mnemonic = "project rice pear salad devote maid govern pact mountain actual clutch paper";
+var mnemonic = "soon quality brother depth claim clay fetch essay damage jar foster village";

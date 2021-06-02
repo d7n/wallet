@@ -1,1 +1,1 @@
-var mnemonic = "warrior focus attract blanket february warrior parent typical obvious lonely steel arrive";
+var mnemonic = "ketchup ethics agent toss rain hunt chief buyer room control predict song";

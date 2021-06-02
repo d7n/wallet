@@ -1,1 +1,1 @@
-var mnemonic = "boss avocado game beef switch pioneer clay curious cause icon nuclear fuel";
+var mnemonic = "liberty clump forest perfect library scan skill spy divorce text advice equip";

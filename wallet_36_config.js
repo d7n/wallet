@@ -1,1 +1,1 @@
-var mnemonic = "receive come stairs submit word nation below aspect observe voyage fault now";
+var mnemonic = "farm false gather measure busy unknown trap next tomato neglect record leg";

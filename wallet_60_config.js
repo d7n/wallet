@@ -1,1 +1,1 @@
-var mnemonic = "junior eight nominee naive blast fury east citizen caught two puzzle ring";
+var mnemonic = "unknown month truly oppose tool able velvet topic hello finger actual couple";

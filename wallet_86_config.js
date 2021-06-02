@@ -1,1 +1,1 @@
-var mnemonic = "slice rely frown street unveil muffin enact spider brave tongue siren disagree";
+var mnemonic = "road salad stable neck random distance goose bread message present cover electric";

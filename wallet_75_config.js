@@ -1,1 +1,1 @@
-var mnemonic = "water sting endorse labor dilemma shift river ethics silk sphere honey virtual";
+var mnemonic = "zoo diamond embark vocal limb vocal test basket animal cry manage motion";

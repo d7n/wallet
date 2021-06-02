@@ -1,1 +1,1 @@
-var mnemonic = "world raise auto hobby seat inside rigid grant knife vicious harvest mix";
+var mnemonic = "dizzy exchange earth meadow deal canoe birth flight curious august goddess satisfy";

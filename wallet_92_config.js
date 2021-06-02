@@ -1,1 +1,1 @@
-var mnemonic = "cause symptom talent pair boring often advice enforce swarm section rely indoor";
+var mnemonic = "umbrella camp type current item acid web nominee uphold tongue oyster stamp";

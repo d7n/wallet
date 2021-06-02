@@ -1,1 +1,1 @@
-var mnemonic = "garment lottery focus actress lobster soda pupil course estate response submit kidney";
+var mnemonic = "swap push unhappy target want phone cage era suspect dad analyst confirm";

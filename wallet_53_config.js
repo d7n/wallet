@@ -1,1 +1,1 @@
-var mnemonic = "endorse churn galaxy receive armor toddler argue dirt nurse wreck crew estate";
+var mnemonic = "language maple early exit increase melt case much depend source creek maze";

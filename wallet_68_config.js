@@ -1,1 +1,1 @@
-var mnemonic = "cloth industry purpose slogan axis chronic old earn gossip possible diary panda";
+var mnemonic = "genuine casual super ahead toy another wine wing fantasy butter pact reopen";

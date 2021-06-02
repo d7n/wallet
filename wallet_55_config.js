@@ -1,1 +1,1 @@
-var mnemonic = "rude boat decline summer blur exist enact acid treat spoon make gun";
+var mnemonic = "agree wool direct chronic abuse fetch tooth damage explain marble guess hotel";
