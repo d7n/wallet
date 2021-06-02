@@ -1,1 +1,1 @@
-var mnemonic = "believe wagon cash kick motion dog love fetch scene combine hip they";
+var mnemonic = "forward ahead aware defense layer wave local view use coil arrange rack";

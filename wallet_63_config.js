@@ -1,1 +1,1 @@
-var mnemonic = "disorder supply online crunch dignity close girl answer nuclear citizen effort key";
+var mnemonic = "nuclear window hair plunge soda history visit wise notable ketchup buzz rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "knife name fly nuclear job tuition permit wheel hill wet industry marine";
+var mnemonic = "check cup giant amused endless strategy original utility ritual minimum lift prevent";

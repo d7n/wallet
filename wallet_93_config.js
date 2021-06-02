@@ -1,1 +1,1 @@
-var mnemonic = "rent artist fat unlock put image off witness night smile digital example";
+var mnemonic = "boy comfort garage borrow poem first shuffle donor peanut salon loud loan";

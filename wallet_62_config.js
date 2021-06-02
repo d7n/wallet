@@ -1,1 +1,1 @@
-var mnemonic = "twin draw then equip oak volume oil warm kite length chronic mountain";
+var mnemonic = "recipe visit round width mail genre early faculty hedgehog sail pitch letter";

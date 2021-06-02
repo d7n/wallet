@@ -1,1 +1,1 @@
-var mnemonic = "spirit sing relief bamboo local page innocent cruise apology fringe chapter process";
+var mnemonic = "draft filter rate attend glide address carpet castle enlist unveil rich gesture";

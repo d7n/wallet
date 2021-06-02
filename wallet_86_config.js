@@ -1,1 +1,1 @@
-var mnemonic = "twenty flag point tag typical network rhythm already glide science van soup";
+var mnemonic = "math robot student patrol salmon food suggest animal puppy skull present divert";

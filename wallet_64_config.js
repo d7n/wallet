@@ -1,1 +1,1 @@
-var mnemonic = "outside heart flame volume vivid dynamic hungry spy embrace physical hawk garbage";
+var mnemonic = "cool seminar behind sense comic denial pelican magnet orphan praise solid garbage";

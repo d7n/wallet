@@ -1,1 +1,1 @@
-var mnemonic = "call meat creek clump surprise cupboard bean bitter midnight shield art diary";
+var mnemonic = "gravity audit sting lecture snap girl luxury pet gift trouble cradle stone";

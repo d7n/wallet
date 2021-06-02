@@ -1,1 +1,1 @@
-var mnemonic = "age card sweet hammer member violin water laundry dish void lift level";
+var mnemonic = "october segment health vessel visit payment shield local fresh island matter venue";

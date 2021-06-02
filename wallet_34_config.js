@@ -1,1 +1,1 @@
-var mnemonic = "south embrace chimney envelope dirt ripple humble verify meadow merit frame source";
+var mnemonic = "ostrich festival pause dance result february swift grass chat trial cheese display";

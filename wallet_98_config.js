@@ -1,1 +1,1 @@
-var mnemonic = "either lawsuit nephew basic canal cigar amazing word price enough vessel grid";
+var mnemonic = "almost wolf echo voyage profit usage traffic diet phrase hedgehog suit inhale";

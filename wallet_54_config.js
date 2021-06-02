@@ -1,1 +1,1 @@
-var mnemonic = "leopard stage please digital evil trust puzzle debate trust resemble rack document";
+var mnemonic = "sunny hidden harvest icon volume alcohol ship kiss axis imitate trim thunder";

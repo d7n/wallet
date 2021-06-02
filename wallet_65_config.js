@@ -1,1 +1,1 @@
-var mnemonic = "submit choice sock divert narrow scan service seed top limb emotion boring";
+var mnemonic = "modify rib satoshi this hammer next question ecology above leaf file purse";

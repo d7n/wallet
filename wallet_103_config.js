@@ -1,1 +1,1 @@
-var mnemonic = "ceiling leader secret stove orient tired panic swap border fit mandate vacuum";
+var mnemonic = "roast episode trial wool exclude trash fiber like order coin captain amateur";

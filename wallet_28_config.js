@@ -1,1 +1,1 @@
-var mnemonic = "argue space forest grass garbage myself sort effort review supreme bike smooth";
+var mnemonic = "settle orbit market excess call daughter figure habit valley saddle fatigue memory";

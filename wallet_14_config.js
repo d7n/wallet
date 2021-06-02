@@ -1,1 +1,1 @@
-var mnemonic = "crane solution error cave magic door pulse dream diary already purity lunar";
+var mnemonic = "monkey excuse blood deer end paddle actor bus guard oblige rural easy";

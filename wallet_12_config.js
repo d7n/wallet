@@ -1,1 +1,1 @@
-var mnemonic = "mushroom nation because visit flee east cancel tattoo leg board shine cherry";
+var mnemonic = "steak toe february swim huge biology joke inmate rabbit luggage company exhaust";

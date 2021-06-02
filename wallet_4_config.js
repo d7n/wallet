@@ -1,1 +1,1 @@
-var mnemonic = "crucial fatigue egg appear quit clump cruise menu orient mom bomb monitor";
+var mnemonic = "pink setup pond filter extend loyal reduce mango reopen sentence tunnel toward";

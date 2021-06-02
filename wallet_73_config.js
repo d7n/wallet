@@ -1,1 +1,1 @@
-var mnemonic = "twenty twin anger enrich quiz garbage climb curious rely near van term";
+var mnemonic = "audit garment among junior advance author push exact wing remind vanish escape";

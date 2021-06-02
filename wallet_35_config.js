@@ -1,1 +1,1 @@
-var mnemonic = "purchase frozen drum crystal prosper topple material frost hair tree exile produce";
+var mnemonic = "aim helmet limb spice exist weird wool stand stand relief future estate";

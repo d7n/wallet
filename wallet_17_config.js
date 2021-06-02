@@ -1,1 +1,1 @@
-var mnemonic = "middle wolf dwarf around sugar ring horn chalk coconut enable invest coconut";
+var mnemonic = "case dignity skill cube canoe prosper time gasp neck scare remove rule";

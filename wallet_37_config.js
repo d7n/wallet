@@ -1,1 +1,1 @@
-var mnemonic = "that sign universe inmate poet news defense modify umbrella pepper dish dignity";
+var mnemonic = "subway main behind one demise emotion lawn quick welcome joy sea silent";

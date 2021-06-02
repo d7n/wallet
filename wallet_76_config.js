@@ -1,1 +1,1 @@
-var mnemonic = "autumn gate shoe multiply table later dress black frost army dismiss ride";
+var mnemonic = "able tube donkey become label route often sword embrace ethics cluster escape";

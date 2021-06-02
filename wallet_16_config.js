@@ -1,1 +1,1 @@
-var mnemonic = "glimpse insane jazz until cinnamon imitate session wife leg dignity about police";
+var mnemonic = "lock chalk river galaxy theory barely fan minor hazard mimic time route";

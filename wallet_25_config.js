@@ -1,1 +1,1 @@
-var mnemonic = "figure galaxy crane lemon imitate lizard force crouch effort leopard mistake mesh";
+var mnemonic = "vapor refuse effort veteran hand energy depart enlist verify moon humble ten";

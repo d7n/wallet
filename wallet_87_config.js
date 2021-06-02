@@ -1,1 +1,1 @@
-var mnemonic = "treat nerve report extend hair orbit giant private exercise caught cart use";
+var mnemonic = "dirt stumble power dawn repeat lunch fork glow slice more produce raccoon";

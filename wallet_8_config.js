@@ -1,1 +1,1 @@
-var mnemonic = "fine lunch spring strategy jacket soup assist waste wish soccer sea later";
+var mnemonic = "install turkey dry switch pencil defense solar upon bright senior tooth abuse";

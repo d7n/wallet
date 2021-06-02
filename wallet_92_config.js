@@ -1,1 +1,1 @@
-var mnemonic = "poverty example noodle fix adult domain strike buzz chronic quantum lend cluster";
+var mnemonic = "pretty person excess venue air auction ribbon bubble grain ordinary camera parrot";

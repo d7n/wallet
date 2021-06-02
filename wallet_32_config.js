@@ -1,1 +1,1 @@
-var mnemonic = "woman wife hospital shrimp lottery chef either light scene timber clump nerve";
+var mnemonic = "subject embrace strategy meat vast cargo motion coral open repair bind route";

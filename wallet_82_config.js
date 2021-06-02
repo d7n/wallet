@@ -1,1 +1,1 @@
-var mnemonic = "fuel force romance nut cigar floor way rigid shiver render doctor eye";
+var mnemonic = "habit envelope cotton used manage earth daughter total reopen hour scrap distance";

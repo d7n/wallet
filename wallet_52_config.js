@@ -1,1 +1,1 @@
-var mnemonic = "resource decrease relief dragon quarter junk lava glimpse nut rose paddle step";
+var mnemonic = "critic huge network concert busy reform buffalo merry age seven setup fatigue";

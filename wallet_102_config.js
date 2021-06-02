@@ -1,1 +1,1 @@
-var mnemonic = "abstract fault purity ocean mystery unaware miracle amount excess alter require toss";
+var mnemonic = "risk jealous tuition warm snake hurry east puppy utility prosper chief select";

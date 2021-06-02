@@ -1,1 +1,1 @@
-var mnemonic = "erase vanish cabbage lake outdoor patient grit session kid pet tomorrow small";
+var mnemonic = "shop cement ladder follow illegal day ozone uncover cruel consider trend onion";

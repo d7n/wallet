@@ -1,1 +1,1 @@
-var mnemonic = "trick purity surround fish immense robust zebra occur entire enrich social ginger";
+var mnemonic = "viable guitar inside citizen zoo vivid train black project slogan hybrid maid";

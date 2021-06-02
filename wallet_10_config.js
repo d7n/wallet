@@ -1,1 +1,1 @@
-var mnemonic = "print ordinary monitor country assume mistake menu quality undo high derive cannon";
+var mnemonic = "luxury extra club peace pen skull can short chronic used tube click";

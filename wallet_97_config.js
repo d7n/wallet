@@ -1,1 +1,1 @@
-var mnemonic = "avoid grab bright hover hidden install pear giggle cool wall broccoli tape";
+var mnemonic = "mimic close trust vacant shaft cheap art key want wing giggle segment";

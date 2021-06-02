@@ -1,1 +1,1 @@
-var mnemonic = "agree shove state inspire cup cactus arena flee famous faint cry witness";
+var mnemonic = "usual frog unveil struggle dune bulk join tilt welcome resource addict flee";

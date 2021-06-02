@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ride meadow round march salmon mosquito speak symptom audit ecology crucial";
+var mnemonic = "travel reunion toss topple hero sound clever grunt rotate luggage retire myth";

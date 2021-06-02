@@ -1,1 +1,1 @@
-var mnemonic = "arch palm ozone often guard web smile mutual throw cousin print boost";
+var mnemonic = "wrestle grocery physical occur ring hair estate universe rural excite blind wage";

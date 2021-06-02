@@ -1,1 +1,1 @@
-var mnemonic = "hire spot arrive turkey physical short mansion person ill learn match length";
+var mnemonic = "license hover hockey outer strong enact south phone spoil decide evil table";

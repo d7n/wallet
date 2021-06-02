@@ -1,1 +1,1 @@
-var mnemonic = "grace moon chat drip auto risk erode cupboard regular need pyramid rhythm";
+var mnemonic = "oak begin bamboo vivid endless market teach now absorb put fall creek";

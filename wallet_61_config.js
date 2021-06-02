@@ -1,1 +1,1 @@
-var mnemonic = "vivid render art age canal recall sound ill nation series tongue feed";
+var mnemonic = "immense crush myth major able hospital fun main crack good mix hint";

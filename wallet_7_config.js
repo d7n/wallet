@@ -1,1 +1,1 @@
-var mnemonic = "hub peace leader fuel sniff twist forum copper sword fuel spider dilemma";
+var mnemonic = "draw oval raven comic chef brief shaft outside forget diagram above million";

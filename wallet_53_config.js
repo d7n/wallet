@@ -1,1 +1,1 @@
-var mnemonic = "sentence trim cement weapon surround pumpkin north burden gossip mystery blur clap";
+var mnemonic = "oblige twelve sustain surface know property erase resist permit demand recycle grief";

@@ -1,1 +1,1 @@
-var mnemonic = "electric alter equal elevator stick exotic dwarf depend deliver cart busy kidney";
+var mnemonic = "stage decline exercise produce appear loud deal train violin surge diet volume";

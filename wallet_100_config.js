@@ -1,1 +1,1 @@
-var mnemonic = "debris turtle one snap clip pioneer rotate ugly pole behind jungle follow";
+var mnemonic = "upper parade oxygen work cinnamon rural uncover plate return winter reward weather";

@@ -1,1 +1,1 @@
-var mnemonic = "other test pepper circle reveal baby strike spy stumble piano young ski";
+var mnemonic = "layer unit squeeze mistake immense island jewel remember stumble lesson indicate boat";

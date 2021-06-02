@@ -1,1 +1,1 @@
-var mnemonic = "venture odor parent shoulder retire lock spell across slender cable figure marine";
+var mnemonic = "tennis video enrich butter plunge capital spider wheat report vault scare screen";

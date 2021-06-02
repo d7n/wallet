@@ -1,1 +1,1 @@
-var mnemonic = "burst crawl donkey public soldier embody genius undo satisfy canyon brick scrap";
+var mnemonic = "problem seed capital suffer stock nice globe recycle carpet planet glass town";

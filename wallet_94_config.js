@@ -1,1 +1,1 @@
-var mnemonic = "stomach bleak day cement banana cement rain wine diary column fix lumber";
+var mnemonic = "anchor harsh fabric buzz elbow wrestle gap into vapor below cook palm";

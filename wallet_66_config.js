@@ -1,1 +1,1 @@
-var mnemonic = "entry wall bless flash blade save fragile lend erupt picture miracle life";
+var mnemonic = "muffin island cushion board delay upgrade pass keen frozen cube major senior";

@@ -1,1 +1,1 @@
-var mnemonic = "wet catch ready lamp warm file deny reason arrive pudding perfect width";
+var mnemonic = "property velvet lottery rival doll casual era word taste coast remind year";

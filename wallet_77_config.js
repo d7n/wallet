@@ -1,1 +1,1 @@
-var mnemonic = "attack typical obtain calm boy almost power wish task super stage exile";
+var mnemonic = "boat airport drift grief news night dry wall crisp gather april message";

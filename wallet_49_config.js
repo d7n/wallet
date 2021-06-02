@@ -1,1 +1,1 @@
-var mnemonic = "remind month wise adjust iron custom reject develop unusual place midnight later";
+var mnemonic = "chapter future boring hedgehog humble flee mushroom ability model economy wire giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "inject trick wall unveil jelly whisper famous blind hire mention behind outdoor";
+var mnemonic = "cannon honey orient cat trust evolve fence rebuild goddess million market antenna";

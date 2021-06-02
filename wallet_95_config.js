@@ -1,1 +1,1 @@
-var mnemonic = "armor stumble lucky sound toast build season brisk upper satisfy donate runway";
+var mnemonic = "erupt crazy lava bicycle course inside across submit black skill illegal yard";

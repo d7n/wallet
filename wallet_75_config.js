@@ -1,1 +1,1 @@
-var mnemonic = "liquid suit clarify believe soldier copy charge amazing april jar junior atom";
+var mnemonic = "judge witness crucial museum task candy perfect replace gravity program unit surprise";

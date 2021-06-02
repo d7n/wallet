@@ -1,1 +1,1 @@
-var mnemonic = "casino forum exit blue tortoise moon result bomb marble column trick creek";
+var mnemonic = "buyer holiday poet dizzy desk quiz custom east scorpion job summer buffalo";

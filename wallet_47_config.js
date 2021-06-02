@@ -1,1 +1,1 @@
-var mnemonic = "blade can avoid joke tree april frost original nurse abandon stay bargain";
+var mnemonic = "step record unhappy thought tunnel badge slight title prosper siege switch prosper";

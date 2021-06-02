@@ -1,1 +1,1 @@
-var mnemonic = "only sell price around photo matrix token jacket sure canvas ceiling course";
+var mnemonic = "change purity decrease civil hurry illegal remove say blind brief kitten arrange";

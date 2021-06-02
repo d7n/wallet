@@ -1,1 +1,1 @@
-var mnemonic = "stage surge sing beauty rely pretty banana erase auction mother account wheat";
+var mnemonic = "gate oil old equip make panic face enroll pear valid bleak top";

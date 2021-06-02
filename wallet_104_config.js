@@ -1,1 +1,1 @@
-var mnemonic = "orchard casual obscure brush east fiber car seminar file diary teach nerve";
+var mnemonic = "pitch tide aware tragic route rate useful sausage vessel hawk miracle rebuild";

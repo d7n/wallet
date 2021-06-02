@@ -1,1 +1,1 @@
-var mnemonic = "pen hand depend program size age bone moral zone boil wave radio";
+var mnemonic = "fence basic arch stool fantasy wagon glue bicycle noise clock water glide";

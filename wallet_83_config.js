@@ -1,1 +1,1 @@
-var mnemonic = "timber blast lesson crowd window inject hungry never ginger north nest cabbage";
+var mnemonic = "try fault common climb transfer mixture memory truly west glance vivid mushroom";

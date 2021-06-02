@@ -1,1 +1,1 @@
-var mnemonic = "will opera blur intact entire error ride neutral furnace electric elephant sport";
+var mnemonic = "property someone door insane bracket material clever option much plate gain another";

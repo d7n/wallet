@@ -1,1 +1,1 @@
-var mnemonic = "inform nephew analyst space web section mystery control dragon market oil tiger";
+var mnemonic = "loud leave badge amount bulb fragile vault bunker knee flat inside science";

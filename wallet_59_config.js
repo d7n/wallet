@@ -1,1 +1,1 @@
-var mnemonic = "knee tiger loyal major slim begin entire future round essay puppy slab";
+var mnemonic = "tuna flag very unhappy girl garden always sheriff boy neck input hazard";

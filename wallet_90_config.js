@@ -1,1 +1,1 @@
-var mnemonic = "logic trophy protect derive exercise supply slam infant seminar public half try";
+var mnemonic = "goddess action dynamic dog target spend aunt desert dirt hill mule sample";

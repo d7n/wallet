@@ -1,1 +1,1 @@
-var mnemonic = "chalk relief faith else idle tiny cactus siege enemy derive style spoil";
+var mnemonic = "wrap foil filter bronze night prevent plastic knife gaze child attitude surround";

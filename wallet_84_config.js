@@ -1,1 +1,1 @@
-var mnemonic = "diesel absurd squeeze fantasy taste carbon atom faint code depend inquiry umbrella";
+var mnemonic = "awake park discover dry render net duty sting bounce slender response angry";

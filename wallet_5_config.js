@@ -1,1 +1,1 @@
-var mnemonic = "wall demand critic mechanic patient kick visual vehicle orange man mango hair";
+var mnemonic = "minor lawsuit better virtual hidden walk suit piano fringe poet oxygen cat";

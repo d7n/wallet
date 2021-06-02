@@ -1,1 +1,1 @@
-var mnemonic = "lobster alone file salt soft degree lion crunch forward remember any taxi";
+var mnemonic = "truth worth future meat suit tonight tumble dose acoustic loud dirt cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "dial spy frequent one oak tool same potato end crop bargain scrap";
+var mnemonic = "galaxy fame escape victory swamp corn ice print shield result few club";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth later someone medal drip teach local indicate noodle canyon life purpose";
+var mnemonic = "area update casino fantasy already valid canal chest wealth expect invite media";

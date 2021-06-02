@@ -1,1 +1,1 @@
-var mnemonic = "myth victory law current drink obtain dinner paddle metal insane train cruise";
+var mnemonic = "tag furnace type install marriage tobacco leave tattoo bar real tackle prepare";

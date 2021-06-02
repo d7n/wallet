@@ -1,1 +1,1 @@
-var mnemonic = "skin situate swap share cricket danger repair tiger wide ripple route mystery";
+var mnemonic = "crawl lumber left visual ridge rice inch toward orchard name genius gaze";

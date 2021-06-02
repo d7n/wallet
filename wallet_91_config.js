@@ -1,1 +1,1 @@
-var mnemonic = "hover fatigue claw useful sight copy tackle tumble long year globe guide";
+var mnemonic = "expect recycle private repair kite spare idle drop cram shock stairs giant";

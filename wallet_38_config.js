@@ -1,1 +1,1 @@
-var mnemonic = "alien anxiety also way bacon used cloud come sunset inside month topple";
+var mnemonic = "learn glare vanish wire lawsuit wreck sniff private huge stage pioneer rapid";

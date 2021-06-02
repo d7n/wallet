@@ -1,1 +1,1 @@
-var mnemonic = "bicycle twist affair resemble protect clap fork grid victory bachelor hill convince";
+var mnemonic = "long material invest amused remember victory very light hip develop slab grow";

@@ -1,1 +1,1 @@
-var mnemonic = "knife elevator arena depth include century photo brother can loan mad will";
+var mnemonic = "present rookie dream carbon wolf gaze media table include device frost tobacco";

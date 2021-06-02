@@ -1,1 +1,1 @@
-var mnemonic = "stadium buddy object pony tackle pen frown wild draw source another later";
+var mnemonic = "thunder gap miss order grain egg mask knife gain once guide distance";

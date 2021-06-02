@@ -1,1 +1,1 @@
-var mnemonic = "diagram enough vague goat sadness this great group version kick bulb tomato";
+var mnemonic = "grocery inhale wave illness hundred emerge repeat donate topic amused inform fee";

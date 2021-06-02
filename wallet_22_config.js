@@ -1,1 +1,1 @@
-var mnemonic = "whisper pitch wheat tag neutral include amateur cereal weather chuckle winner host";
+var mnemonic = "fan script make assume gravity biology blood reason swarm diagram hotel humble";

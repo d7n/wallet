@@ -1,1 +1,1 @@
-var mnemonic = "practice security husband broken lake north dolphin jealous drip increase word drastic";
+var mnemonic = "harsh version tunnel churn acquire topple require vibrant hundred omit hamster viable";

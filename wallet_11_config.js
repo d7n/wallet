@@ -1,1 +1,1 @@
-var mnemonic = "lecture humor wood what episode victory craft kiss chunk bracket exchange time";
+var mnemonic = "solution soap ridge license fog please model act fuel senior hood boss";

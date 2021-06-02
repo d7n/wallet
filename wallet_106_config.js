@@ -1,1 +1,1 @@
-var mnemonic = "feed project side marble inside pupil smooth cost devote enable idle melt";
+var mnemonic = "oppose actual spray extend wisdom casino code tackle fold piano always view";

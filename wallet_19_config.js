@@ -1,1 +1,1 @@
-var mnemonic = "scissors fish half today differ derive shell safe give learn license gain";
+var mnemonic = "viable avoid charge sleep chunk pill hurt person maid citizen ridge dolphin";

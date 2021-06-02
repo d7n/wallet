@@ -1,1 +1,1 @@
-var mnemonic = "emerge weather unit auction garbage armor angry off size impose hunt fame";
+var mnemonic = "question route egg month idea middle tube kid slice spring series guard";

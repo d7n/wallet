@@ -1,1 +1,1 @@
-var mnemonic = "price key snake harvest scale system enrich over occur trial crop act";
+var mnemonic = "federal coil way radar real seat affair clip evil goose domain energy";
