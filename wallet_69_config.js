@@ -1,1 +1,1 @@
-var mnemonic = "rare cable maximum field tornado cake drum twin cigar senior entry stereo";
+var mnemonic = "album mystery defense tonight earn ridge venue board wide post tell educate";

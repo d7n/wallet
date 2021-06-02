@@ -1,1 +1,1 @@
-var mnemonic = "scatter friend buyer rebuild kitchen frown slogan arctic cover innocent taxi monster";
+var mnemonic = "huge hurdle one erupt nothing announce vanish riot fame hazard carry later";

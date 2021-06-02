@@ -1,1 +1,1 @@
-var mnemonic = "avocado mad pipe border ketchup release unable keep salon cheap horn claim";
+var mnemonic = "midnight hungry unaware endless give analyst half casual seminar clog demise disease";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp kitchen project brother plug price sunset obscure hole goat silver various";
+var mnemonic = "sad meadow hazard canoe slow survey green ticket cheap bus unaware concert";

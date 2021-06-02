@@ -1,1 +1,1 @@
-var mnemonic = "cancel there siren stumble maximum lens aisle ripple try final believe raccoon";
+var mnemonic = "family enroll edit hospital column defense dust parrot mansion antenna surprise canvas";

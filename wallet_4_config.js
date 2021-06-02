@@ -1,1 +1,1 @@
-var mnemonic = "slim civil tent kangaroo link glad talk fortune divert lab develop side";
+var mnemonic = "junk first icon jeans scan math abuse embark insect cycle mansion asthma";

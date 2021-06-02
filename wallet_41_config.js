@@ -1,1 +1,1 @@
-var mnemonic = "silk boost eight join frequent high odor orient soft crouch baby list";
+var mnemonic = "outer ecology draw winter runway festival intact defy hidden dinosaur rain hour";

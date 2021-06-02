@@ -1,1 +1,1 @@
-var mnemonic = "balance middle course bachelor gossip team black harvest neutral hour assume lamp";
+var mnemonic = "crawl host leave ignore zoo magic exist melody nose prison night spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "neck final donate lion hill torch escape woman limb insect imitate shock";
+var mnemonic = "seminar reduce heavy armed fantasy song sweet misery often since hello champion";

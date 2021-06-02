@@ -1,1 +1,1 @@
-var mnemonic = "extend reduce bitter bullet solid moment rare marble large dilemma palace imitate";
+var mnemonic = "vast fine address novel guitar since eagle wrist wheat click regular trade";

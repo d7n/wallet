@@ -1,1 +1,1 @@
-var mnemonic = "job sphere crew shy sing organ one seven split tuna valve fluid";
+var mnemonic = "tongue join bid treat kick scale machine alert when pepper you year";

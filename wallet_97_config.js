@@ -1,1 +1,1 @@
-var mnemonic = "whip spare upper patch crack judge episode noble please impose popular affair";
+var mnemonic = "circle cliff deposit swap deer oyster ketchup grant other enhance dinosaur panel";

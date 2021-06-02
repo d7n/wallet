@@ -1,1 +1,1 @@
-var mnemonic = "science copy govern owner feed demise soldier cool moral boil urban ramp";
+var mnemonic = "focus soccer program foil quarter joke later frequent ladder sign kitchen route";

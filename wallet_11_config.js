@@ -1,1 +1,1 @@
-var mnemonic = "inner away office there canal push bench barrel middle gesture deal sustain";
+var mnemonic = "square winter verb lemon vault summer hybrid snow cluster nose myth panel";

@@ -1,1 +1,1 @@
-var mnemonic = "engine brick pool end sauce curve police roof pledge zone mercy coffee";
+var mnemonic = "sample situate nice sponsor cupboard egg bright chicken toilet list slush coffee";

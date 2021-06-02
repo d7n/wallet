@@ -1,1 +1,1 @@
-var mnemonic = "panther swarm soft spray smile equip bubble bright weather call call evolve";
+var mnemonic = "sausage engage theory found rare human pool august scale argue hazard lab";

@@ -1,1 +1,1 @@
-var mnemonic = "world scrap unaware deliver steak brisk plug finish sing gym void paddle";
+var mnemonic = "odor verb nation enough illness zoo shoot feature minimum click wild utility";

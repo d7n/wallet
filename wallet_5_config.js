@@ -1,1 +1,1 @@
-var mnemonic = "eight rib lava expand catalog chronic mystery pet teach expect collect inmate";
+var mnemonic = "fan cabbage project draw tail social escape promote circle curtain session primary";

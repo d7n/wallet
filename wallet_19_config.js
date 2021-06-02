@@ -1,1 +1,1 @@
-var mnemonic = "infant exist sugar orchard other response decorate secret wear admit flower try";
+var mnemonic = "there online neutral repeat pilot dizzy same kidney palace danger attend wing";

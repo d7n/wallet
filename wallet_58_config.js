@@ -1,1 +1,1 @@
-var mnemonic = "paddle gain elevator brown pepper imitate symptom train draft grass universe custom";
+var mnemonic = "recipe note dynamic surround banana before because dismiss salon infant chef worth";

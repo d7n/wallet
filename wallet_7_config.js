@@ -1,1 +1,1 @@
-var mnemonic = "miss blanket discover tuition party cannon grain isolate bottom flip angle neither";
+var mnemonic = "actor family robot home expect unable tomato wild lounge gospel acquire embark";

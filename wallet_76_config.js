@@ -1,1 +1,1 @@
-var mnemonic = "connect sell beauty high quick law slow sister nation outside wild hammer";
+var mnemonic = "hedgehog shallow destroy smile fox popular summer ignore notable enrich upset design";

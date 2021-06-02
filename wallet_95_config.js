@@ -1,1 +1,1 @@
-var mnemonic = "pear stairs scale staff casino lucky wing main stuff blind horse daring";
+var mnemonic = "will lava position ball attend crash drastic taxi design common clay web";

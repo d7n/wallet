@@ -1,1 +1,1 @@
-var mnemonic = "alley uphold profit spoon rack volume dream potato olive soft more web";
+var mnemonic = "deposit rib debris blouse shield put budget around option improve robot wine";

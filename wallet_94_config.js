@@ -1,1 +1,1 @@
-var mnemonic = "code sauce monster glue scale body seed stadium drive peasant anger chest";
+var mnemonic = "frog visual drama excess win never dry slice find sea search pave";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle practice siege legal frame dirt beyond shift outside debate trigger clap";
+var mnemonic = "wolf boss electric sight rug spy defense number theory over route puppy";

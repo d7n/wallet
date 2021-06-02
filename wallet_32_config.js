@@ -1,1 +1,1 @@
-var mnemonic = "talent dance decline habit soda sad coyote donkey isolate unlock bring attract";
+var mnemonic = "canoe weasel fix lawn just sand satoshi trash mansion sibling wrestle benefit";

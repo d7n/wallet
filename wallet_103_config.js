@@ -1,1 +1,1 @@
-var mnemonic = "apart satisfy moment grief always fall tooth ritual average need treat repair";
+var mnemonic = "mimic physical pizza inject mail poem gain valley empty believe laptop resemble";

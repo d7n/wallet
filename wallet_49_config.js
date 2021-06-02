@@ -1,1 +1,1 @@
-var mnemonic = "pilot glue lock pool pencil hope ivory check expire into floor spice";
+var mnemonic = "approve barely cargo example glory verify real awesome trigger cotton fiber turkey";

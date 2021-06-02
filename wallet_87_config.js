@@ -1,1 +1,1 @@
-var mnemonic = "basic squirrel unknown film buyer soda token climb mercy scrap object hair";
+var mnemonic = "wasp legend secret exist asthma nothing vote century camp pool together trust";

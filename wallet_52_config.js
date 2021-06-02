@@ -1,1 +1,1 @@
-var mnemonic = "surge flight anger enemy village diagram cushion raven verify broccoli nephew stick";
+var mnemonic = "diamond sorry voice rare board bar spell town lab razor dwarf into";

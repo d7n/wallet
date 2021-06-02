@@ -1,1 +1,1 @@
-var mnemonic = "mixed identify above hood expand trap devote toy walnut circle faculty mask";
+var mnemonic = "innocent innocent receive desk cycle water chicken uncover guitar faculty travel clinic";

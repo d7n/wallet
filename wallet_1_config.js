@@ -1,1 +1,1 @@
-var mnemonic = "stock slush hire oyster normal quality powder portion number forget network amateur";
+var mnemonic = "myself switch butter insane fire connect rubber april window remind mistake almost";

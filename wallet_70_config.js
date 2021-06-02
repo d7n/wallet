@@ -1,1 +1,1 @@
-var mnemonic = "ecology define other dove abuse lesson seed wonder dinosaur school velvet pact";
+var mnemonic = "party city riot random time endorse resemble happy they misery okay crisp";

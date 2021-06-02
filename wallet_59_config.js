@@ -1,1 +1,1 @@
-var mnemonic = "bind profit symptom arrest bridge edge hotel reject donate staff bunker spice";
+var mnemonic = "strike turn away cage tenant gather custom index raccoon crystal plastic adjust";

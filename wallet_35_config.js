@@ -1,1 +1,1 @@
-var mnemonic = "duty wisdom give round turkey forum amazing two mix weekend seat weekend";
+var mnemonic = "hole improve mention early balance donor mesh hire tackle north welcome again";

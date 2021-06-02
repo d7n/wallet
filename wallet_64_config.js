@@ -1,1 +1,1 @@
-var mnemonic = "perfect hint build claim figure random vendor worry bounce disease supply domain";
+var mnemonic = "only village east manual share tray stem ship picture chapter fluid tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "logic pledge permit tomato ridge change pistol half run mutual because claw";
+var mnemonic = "reunion protect reunion will uniform nation ankle select absorb blind blanket attend";

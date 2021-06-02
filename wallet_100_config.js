@@ -1,1 +1,1 @@
-var mnemonic = "blast leader soul deposit evolve minimum evoke hint lounge wreck glance today";
+var mnemonic = "coffee rhythm castle either solve abuse year case elevator daughter version venue";

@@ -1,1 +1,1 @@
-var mnemonic = "age lecture head pony emerge march approve fat glue topple curtain milk";
+var mnemonic = "push invest surround summer elevator hand purchase sleep view mansion rescue creek";

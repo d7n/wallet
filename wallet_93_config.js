@@ -1,1 +1,1 @@
-var mnemonic = "vast dream toward act blush athlete dust wild immune vast rely fiber";
+var mnemonic = "when scrap ordinary fire hidden dad mechanic game scissors agree slide choose";

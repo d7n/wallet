@@ -1,1 +1,1 @@
-var mnemonic = "clap castle size orphan brief need behind buzz useful lab slice rack";
+var mnemonic = "school expect dignity pear twin oxygen concert involve razor actress rally urban";

@@ -1,1 +1,1 @@
-var mnemonic = "spread faint mask fancy soap maid marriage affair pen original brother medal";
+var mnemonic = "point boost drift kangaroo kind absent media ancient priority broom goat worth";

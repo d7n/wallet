@@ -1,1 +1,1 @@
-var mnemonic = "mixture use puzzle axis slot sense lunch shrimp slogan vague happy void";
+var mnemonic = "okay image evolve lava sentence angry card vital omit figure coil desert";

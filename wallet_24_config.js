@@ -1,1 +1,1 @@
-var mnemonic = "confirm oxygen quality toast mammal glad fantasy range drastic stool remain gesture";
+var mnemonic = "outer copper exotic vivid hospital regret onion inform place comic sorry chase";

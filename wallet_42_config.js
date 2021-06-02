@@ -1,1 +1,1 @@
-var mnemonic = "patch afford video town candy child ship shrimp shoulder stone digital frequent";
+var mnemonic = "awake develop resist layer arena lend toward reflect notable situate remove shove";

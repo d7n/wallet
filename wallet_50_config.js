@@ -1,1 +1,1 @@
-var mnemonic = "play raise glue bracket soft memory magnet thing casual load title copy";
+var mnemonic = "tourist gentle poet rough bridge bitter slot salt alley earn pear shrimp";

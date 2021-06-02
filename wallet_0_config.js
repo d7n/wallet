@@ -1,1 +1,1 @@
-var mnemonic = "hope fire hill bitter weekend possible beach hood orange rotate hundred clap";
+var mnemonic = "vacuum suffer unable thrive food favorite blade where record city zero pig";

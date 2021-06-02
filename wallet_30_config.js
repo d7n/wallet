@@ -1,1 +1,1 @@
-var mnemonic = "obscure memory define vacant deposit theme pause auto fluid start decorate already";
+var mnemonic = "tumble ice fan language echo carbon grunt device identify level harbor lobster";

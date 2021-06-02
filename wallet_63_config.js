@@ -1,1 +1,1 @@
-var mnemonic = "analyst cloud grab around vote scissors upon risk october harvest move outer";
+var mnemonic = "dry squeeze proof horror text struggle battle educate captain under gorilla mechanic";

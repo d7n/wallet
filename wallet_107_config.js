@@ -1,1 +1,1 @@
-var mnemonic = "segment above snack glue castle dirt danger stove foam pulse cruise fun";
+var mnemonic = "salon depend wild craft trumpet fork street series game advance taste ranch";

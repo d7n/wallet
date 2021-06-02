@@ -1,1 +1,1 @@
-var mnemonic = "soccer wash load zone derive essay kick island language castle snake disagree";
+var mnemonic = "furnace real glass whisper feel cherry nurse angle result winter cargo clean";

@@ -1,1 +1,1 @@
-var mnemonic = "kit deer asthma page palm punch quote depend wife discover symptom child";
+var mnemonic = "shallow height valley turkey level rice fatal outer concert daughter project hood";

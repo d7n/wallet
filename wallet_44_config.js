@@ -1,1 +1,1 @@
-var mnemonic = "approve surprise forum slide ready indoor runway install month leader believe crunch";
+var mnemonic = "travel curious hover prison junk depart strategy negative brand draft frame antenna";

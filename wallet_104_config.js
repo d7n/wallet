@@ -1,1 +1,1 @@
-var mnemonic = "dish include mother analyst birth neither circle vocal clerk resource keen error";
+var mnemonic = "rain voyage miss ridge screen comic educate sunny vessel core observe image";

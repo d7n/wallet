@@ -1,1 +1,1 @@
-var mnemonic = "ring armed shift fluid cool reopen because satisfy wall animal obvious minimum";
+var mnemonic = "exit gather shy sight proof reward diet satoshi melt fruit win slice";

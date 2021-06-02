@@ -1,1 +1,1 @@
-var mnemonic = "walk sure evoke wire senior own vague room season board climb game";
+var mnemonic = "label autumn oil flavor elegant lab summer palace hint blade green stay";

@@ -1,1 +1,1 @@
-var mnemonic = "just coyote hobby mystery february melody nephew benefit marine ketchup cart priority";
+var mnemonic = "salon crash erase armed siege derive erode fatal apple explain gown audit";

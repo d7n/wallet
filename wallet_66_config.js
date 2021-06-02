@@ -1,1 +1,1 @@
-var mnemonic = "apart dream shrug all earn coil blur erode inner ethics tattoo vital";
+var mnemonic = "youth theory misery panic offer couple lizard ridge absorb like rose general";

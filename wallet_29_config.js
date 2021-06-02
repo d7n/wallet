@@ -1,1 +1,1 @@
-var mnemonic = "sport hat blood hollow pause keen little lesson orient toss buffalo antique";
+var mnemonic = "grape assist whip rotate repair defy egg horror excuse verify usage clump";

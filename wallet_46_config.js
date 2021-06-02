@@ -1,1 +1,1 @@
-var mnemonic = "circle sure cheese forest length menu inherit music affair what hero hint";
+var mnemonic = "desert right empower sustain spawn trend critic ecology loyal camera toe virtual";

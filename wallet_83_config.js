@@ -1,1 +1,1 @@
-var mnemonic = "clever sudden weird pet holiday country legend toe enrich predict dilemma effort";
+var mnemonic = "slide neglect demand there crop reveal middle viable embark strategy million rapid";

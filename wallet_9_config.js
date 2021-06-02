@@ -1,1 +1,1 @@
-var mnemonic = "penalty brand banner position juice parade hobby decade menu grain teach picnic";
+var mnemonic = "appear actor give trial cost act fluid hollow clump spare inflict medal";

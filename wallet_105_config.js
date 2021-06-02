@@ -1,1 +1,1 @@
-var mnemonic = "enough barrel brush birth shop summer buffalo interest exhaust route flat holiday";
+var mnemonic = "poet where plug mirror faculty chat virus alcohol next globe denial traffic";

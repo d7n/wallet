@@ -1,1 +1,1 @@
-var mnemonic = "dash plug intact skin monster glimpse pull hour zero alert toilet elbow";
+var mnemonic = "regret more goat kitchen tragic case twenty unusual energy neglect arctic world";

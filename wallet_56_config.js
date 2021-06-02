@@ -1,1 +1,1 @@
-var mnemonic = "shock public exchange truth clarify gold bone begin lens verify obey knife";
+var mnemonic = "term egg bullet churn fee route focus salt screen galaxy ivory kitchen";

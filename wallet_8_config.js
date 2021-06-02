@@ -1,1 +1,1 @@
-var mnemonic = "song maze blade void little voice attract onion crop romance pill other";
+var mnemonic = "retreat offer crowd situate gorilla unusual domain demand table impose oxygen south";

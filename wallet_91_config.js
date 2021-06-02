@@ -1,1 +1,1 @@
-var mnemonic = "super sketch magic egg deliver tongue citizen city debris hint cement reveal";
+var mnemonic = "foot powder assist there stage prefer crawl ill horror fabric extend coach";

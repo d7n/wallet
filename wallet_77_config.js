@@ -1,1 +1,1 @@
-var mnemonic = "kit crew photo opinion wheat zebra swing child beyond service favorite vicious";
+var mnemonic = "fruit mouse tissue laugh income fancy spy lizard primary click purity law";

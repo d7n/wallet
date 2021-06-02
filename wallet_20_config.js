@@ -1,1 +1,1 @@
-var mnemonic = "oval turtle soldier arrest engine draft toast ceiling upper scrub main season";
+var mnemonic = "toddler review inhale usual venture script satisfy pizza tube blue elder total";

@@ -1,1 +1,1 @@
-var mnemonic = "salute wing lava cousin egg tide risk range dismiss wink digital rib";
+var mnemonic = "swim memory walk legal dial spawn major dad captain draw rare ill";

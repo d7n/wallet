@@ -1,1 +1,1 @@
-var mnemonic = "follow repeat ski thunder fault tuition episode talent helmet mango define success";
+var mnemonic = "merry nuclear neglect gym come clip bargain damage disagree example friend noise";

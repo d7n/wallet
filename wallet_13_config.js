@@ -1,1 +1,1 @@
-var mnemonic = "abstract raise upgrade stairs local version notice artist lazy direct around opera";
+var mnemonic = "level repair fatigue envelope taxi dice wolf desert settle excess web impact";

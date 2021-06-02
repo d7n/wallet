@@ -1,1 +1,1 @@
-var mnemonic = "hour inner tongue argue dice clutch patrol voyage expand copper maid sun";
+var mnemonic = "cheap pipe tower steak plastic girl sentence shuffle kit divert company kick";

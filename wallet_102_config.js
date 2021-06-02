@@ -1,1 +1,1 @@
-var mnemonic = "industry notice occur must lunar shine scan midnight onion purpose base pudding";
+var mnemonic = "host put scissors improve escape orange spoil imitate agent fatal trip click";

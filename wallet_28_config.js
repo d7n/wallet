@@ -1,1 +1,1 @@
-var mnemonic = "judge alley scrub feature donkey feed bubble dwarf ugly jewel sword witness";
+var mnemonic = "net mixture hawk have please aim scrap panda charge faint violin permit";

@@ -1,1 +1,1 @@
-var mnemonic = "divide oblige sample infant mule maximum mean version critic genius bubble catalog";
+var mnemonic = "shed horror skill wash panic agree lottery dirt kidney maid sudden robot";

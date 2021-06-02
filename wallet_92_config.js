@@ -1,1 +1,1 @@
-var mnemonic = "arrange escape grunt bird such glass boring heart off flee wink net";
+var mnemonic = "evolve until reduce panda alien matter differ track deal melody van creek";

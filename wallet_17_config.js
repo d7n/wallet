@@ -1,1 +1,1 @@
-var mnemonic = "bread slow position ostrich tank fire index harbor diesel away key awful";
+var mnemonic = "pistol opera amazing slight pair brisk artist habit laundry delay void drive";

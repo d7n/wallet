@@ -1,1 +1,1 @@
-var mnemonic = "more loan fun radar vacuum crumble comfort zebra planet field tail suspect";
+var mnemonic = "drum better worry drift display diesel latin actor social bar maze finish";

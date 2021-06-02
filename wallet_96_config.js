@@ -1,1 +1,1 @@
-var mnemonic = "basic have ramp oppose cash record love lunch limb turtle put elegant";
+var mnemonic = "gun blush river decide chat siren body wine thank jelly record toy";

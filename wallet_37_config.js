@@ -1,1 +1,1 @@
-var mnemonic = "produce can priority nation aunt wet arrange actual option virus mimic fringe";
+var mnemonic = "one session symbol normal already equip away warm oxygen artwork dolphin basket";

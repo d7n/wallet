@@ -1,1 +1,1 @@
-var mnemonic = "expect mean flee music eagle bridge neutral harvest female drive under claim";
+var mnemonic = "avocado setup few guide pledge cradle scrub stool toe couch indicate inside";

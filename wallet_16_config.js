@@ -1,1 +1,1 @@
-var mnemonic = "amount want work ring goddess robot exotic blossom obtain prefer combine impulse";
+var mnemonic = "daring tide final door toward pigeon prevent rose comic approve question garden";

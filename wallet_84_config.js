@@ -1,1 +1,1 @@
-var mnemonic = "head gadget solution imitate machine chest exhaust stadium document attitude simple winner";
+var mnemonic = "wire local cattle jacket fun lunar section cattle fault sibling layer deal";

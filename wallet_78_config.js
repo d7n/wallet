@@ -1,1 +1,1 @@
-var mnemonic = "add blast female echo same prize cradle six abandon awkward wedding alert";
+var mnemonic = "paper elder lend panther sleep breeze raw prepare main mixture own tomato";

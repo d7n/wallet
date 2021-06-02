@@ -1,1 +1,1 @@
-var mnemonic = "program attitude test regret gravity hobby stem modify sea stay true cash";
+var mnemonic = "saddle depth all eye drop duck ladder number skill question vehicle issue";

@@ -1,1 +1,1 @@
-var mnemonic = "coil hurt amazing rough cost master hospital never group whip lava few";
+var mnemonic = "novel note long mean sugar rotate lunar exile later muscle monkey forward";

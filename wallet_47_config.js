@@ -1,1 +1,1 @@
-var mnemonic = "burst report inner cabin upon gap chest fantasy zone volume donkey vocal";
+var mnemonic = "bullet sock earn chaos catch gorilla rifle menu fruit abuse fancy wool";

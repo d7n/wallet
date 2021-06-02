@@ -1,1 +1,1 @@
-var mnemonic = "cram hazard audit screen awesome flock speed heavy shove crime detect actress";
+var mnemonic = "cage tennis blind swear can puppy modify extend suit flush cute special";
