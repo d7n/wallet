@@ -1,1 +1,1 @@
-var mnemonic = "figure denial appear north warm wing only riot two spell leg excess";
+var mnemonic = "arrange escape grunt bird such glass boring heart off flee wink net";

@@ -1,1 +1,1 @@
-var mnemonic = "humor life fragile hospital amused cannon owner journey clutch wear riot moon";
+var mnemonic = "basic have ramp oppose cash record love lunch limb turtle put elegant";

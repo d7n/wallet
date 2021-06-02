@@ -1,1 +1,1 @@
-var mnemonic = "say worry decorate surround pluck current pluck cancel dwarf document february rotate";
+var mnemonic = "enough barrel brush birth shop summer buffalo interest exhaust route flat holiday";

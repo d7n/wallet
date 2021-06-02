@@ -1,1 +1,1 @@
-var mnemonic = "stereo rely property bottom robust local close wild easy common because apple";
+var mnemonic = "polar sustain screen popular era cry trouble student census walnut nephew engage";

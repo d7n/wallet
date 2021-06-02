@@ -1,1 +1,1 @@
-var mnemonic = "random select pioneer adjust caught cricket glance oxygen thunder tank reward fiber";
+var mnemonic = "cancel there siren stumble maximum lens aisle ripple try final believe raccoon";

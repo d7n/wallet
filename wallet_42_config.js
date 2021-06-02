@@ -1,1 +1,1 @@
-var mnemonic = "comfort bacon border sample fetch ancient intact consider reform address robot drink";
+var mnemonic = "patch afford video town candy child ship shrimp shoulder stone digital frequent";

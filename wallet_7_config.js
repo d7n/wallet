@@ -1,1 +1,1 @@
-var mnemonic = "pluck item hip vivid inherit genre finger alpha march own puzzle disagree";
+var mnemonic = "miss blanket discover tuition party cannon grain isolate bottom flip angle neither";

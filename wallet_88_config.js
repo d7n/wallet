@@ -1,1 +1,1 @@
-var mnemonic = "combine piece cannon wash dwarf extend drama cousin pole royal dust forest";
+var mnemonic = "alley uphold profit spoon rack volume dream potato olive soft more web";

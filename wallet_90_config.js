@@ -1,1 +1,1 @@
-var mnemonic = "energy work brisk concert also try tooth reject bird actor vicious acquire";
+var mnemonic = "mixed identify above hood expand trap devote toy walnut circle faculty mask";

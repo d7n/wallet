@@ -1,1 +1,1 @@
-var mnemonic = "ceiling urge fun piece merge spin total price cricket gaze opinion enable";
+var mnemonic = "duty wisdom give round turkey forum amazing two mix weekend seat weekend";

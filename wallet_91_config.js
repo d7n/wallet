@@ -1,1 +1,1 @@
-var mnemonic = "arrest dry scale soccer donor gold avocado penalty fancy vote hollow peanut";
+var mnemonic = "super sketch magic egg deliver tongue citizen city debris hint cement reveal";

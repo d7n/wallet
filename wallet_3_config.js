@@ -1,1 +1,1 @@
-var mnemonic = "any key peace interest cabbage crawl farm settle riot box oven win";
+var mnemonic = "someone rubber castle ready hundred fall dust cross also buffalo dumb language";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise lab become answer outer panel smile clip degree distance equip axis";
+var mnemonic = "blast leader soul deposit evolve minimum evoke hint lounge wreck glance today";

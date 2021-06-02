@@ -1,1 +1,1 @@
-var mnemonic = "century frame sniff desk someone prevent flat rigid art trip before perfect";
+var mnemonic = "divide oblige sample infant mule maximum mean version critic genius bubble catalog";

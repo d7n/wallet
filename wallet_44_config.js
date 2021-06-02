@@ -1,1 +1,1 @@
-var mnemonic = "daughter sauce disease ensure egg volume salute always public upon improve usual";
+var mnemonic = "approve surprise forum slide ready indoor runway install month leader believe crunch";

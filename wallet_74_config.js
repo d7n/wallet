@@ -1,1 +1,1 @@
-var mnemonic = "prevent gather apart vague arrest police home crash success camp sea cheese";
+var mnemonic = "inner october fatal machine resource sniff civil motor brand pulse admit vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "try crush coach swear uniform kingdom inspire under right hill unhappy join";
+var mnemonic = "amount want work ring goddess robot exotic blossom obtain prefer combine impulse";

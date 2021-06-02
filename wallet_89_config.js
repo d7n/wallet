@@ -1,1 +1,1 @@
-var mnemonic = "air spring nurse major item prefer destroy used prepare indicate race flight";
+var mnemonic = "ankle practice siege legal frame dirt beyond shift outside debate trigger clap";

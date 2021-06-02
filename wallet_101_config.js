@@ -1,1 +1,1 @@
-var mnemonic = "include hard lizard problem real hire blanket divide fitness final resemble laugh";
+var mnemonic = "throw load result snack lumber myself defy door giggle robot wood cake";

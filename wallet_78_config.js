@@ -1,1 +1,1 @@
-var mnemonic = "valve hill pass immense split pattern whale civil toilet fatigue easily fan";
+var mnemonic = "add blast female echo same prize cradle six abandon awkward wedding alert";

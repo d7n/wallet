@@ -1,1 +1,1 @@
-var mnemonic = "roast demand local chalk exhaust frequent emotion blind holiday defense inmate roast";
+var mnemonic = "rare cable maximum field tornado cake drum twin cigar senior entry stereo";

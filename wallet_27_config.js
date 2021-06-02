@@ -1,1 +1,1 @@
-var mnemonic = "ability flee flag tragic license loop blind ankle film lobster night sell";
+var mnemonic = "neck final donate lion hill torch escape woman limb insect imitate shock";

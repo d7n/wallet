@@ -1,1 +1,1 @@
-var mnemonic = "tribe shoot play private library pass furnace guitar decorate ridge wheat fault";
+var mnemonic = "rich pass prize dream club border pet female spike blanket arch wrap";

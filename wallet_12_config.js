@@ -1,1 +1,1 @@
-var mnemonic = "divert fatigue size sphere sock auto ranch neglect connect what office pistol";
+var mnemonic = "know special reduce north surprise public problem almost moon regular seat neutral";

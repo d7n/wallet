@@ -1,1 +1,1 @@
-var mnemonic = "forget fat match chaos admit label book laptop helmet risk benefit ready";
+var mnemonic = "pear stairs scale staff casino lucky wing main stuff blind horse daring";

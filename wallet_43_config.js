@@ -1,1 +1,1 @@
-var mnemonic = "invite convince fragile observe quote admit duty useless again elevator blade crucial";
+var mnemonic = "mixture use puzzle axis slot sense lunch shrimp slogan vague happy void";

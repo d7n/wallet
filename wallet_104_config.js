@@ -1,1 +1,1 @@
-var mnemonic = "habit engine syrup north robot october visual tumble zebra smile jealous drama";
+var mnemonic = "dish include mother analyst birth neither circle vocal clerk resource keen error";

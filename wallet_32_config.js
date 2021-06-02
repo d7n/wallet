@@ -1,1 +1,1 @@
-var mnemonic = "life priority bamboo gown fluid improve country thunder street piece draw pencil";
+var mnemonic = "talent dance decline habit soda sad coyote donkey isolate unlock bring attract";

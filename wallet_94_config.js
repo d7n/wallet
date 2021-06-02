@@ -1,1 +1,1 @@
-var mnemonic = "coffee else churn physical cause raccoon thing deposit black usage youth rebuild";
+var mnemonic = "code sauce monster glue scale body seed stadium drive peasant anger chest";

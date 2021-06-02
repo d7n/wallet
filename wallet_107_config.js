@@ -1,1 +1,1 @@
-var mnemonic = "level before color surface opera core friend just swing wrap someone opera";
+var mnemonic = "segment above snack glue castle dirt danger stove foam pulse cruise fun";

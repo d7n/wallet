@@ -1,1 +1,1 @@
-var mnemonic = "flat disagree accuse enemy hedgehog oval rack beauty current reveal giant edge";
+var mnemonic = "inner away office there canal push bench barrel middle gesture deal sustain";

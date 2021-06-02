@@ -1,1 +1,1 @@
-var mnemonic = "rookie gospel orchard patient toe drive brown lucky avoid illness trap sort";
+var mnemonic = "basic squirrel unknown film buyer soda token climb mercy scrap object hair";

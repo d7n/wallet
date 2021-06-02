@@ -1,1 +1,1 @@
-var mnemonic = "car wide same inmate camp recipe dance version secret below question humble";
+var mnemonic = "age lecture head pony emerge march approve fat glue topple curtain milk";

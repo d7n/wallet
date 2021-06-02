@@ -1,1 +1,1 @@
-var mnemonic = "fancy argue miracle whale enrich mixture endless calm answer sting hill group";
+var mnemonic = "oval turtle soldier arrest engine draft toast ceiling upper scrub main season";

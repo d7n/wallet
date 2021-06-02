@@ -1,1 +1,1 @@
-var mnemonic = "rifle sword awake burger deposit young kit either fun decade still flame";
+var mnemonic = "whip spare upper patch crack judge episode noble please impose popular affair";

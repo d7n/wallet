@@ -1,1 +1,1 @@
-var mnemonic = "melt repeat wedding alarm scrub nominee month output human ball resemble view";
+var mnemonic = "panther swarm soft spray smile equip bubble bright weather call call evolve";

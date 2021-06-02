@@ -1,1 +1,1 @@
-var mnemonic = "tide light shine plate topple air smoke laptop soda razor copy armed";
+var mnemonic = "ship faculty thank axis worry water absorb curve confirm robust people emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "state magic lyrics demise small twenty any decide chronic tuna vast balance";
+var mnemonic = "hour inner tongue argue dice clutch patrol voyage expand copper maid sun";

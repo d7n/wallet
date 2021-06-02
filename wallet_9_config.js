@@ -1,1 +1,1 @@
-var mnemonic = "science upon oak once whisper sunset tooth audit sight balance opera delay";
+var mnemonic = "penalty brand banner position juice parade hobby decade menu grain teach picnic";

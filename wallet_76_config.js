@@ -1,1 +1,1 @@
-var mnemonic = "finger afraid blade phone visa screen zoo minimum stone verify weasel alone";
+var mnemonic = "connect sell beauty high quick law slow sister nation outside wild hammer";

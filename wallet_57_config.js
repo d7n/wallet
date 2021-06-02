@@ -1,1 +1,1 @@
-var mnemonic = "spread salon double culture exotic sleep marine tennis rose series science rule";
+var mnemonic = "farm damage know bird sport cruel wolf clap void dignity live group";

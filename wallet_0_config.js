@@ -1,1 +1,1 @@
-var mnemonic = "man price among swim marble winner barrel patrol someone exotic public model";
+var mnemonic = "hope fire hill bitter weekend possible beach hood orange rotate hundred clap";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling nominee inner rebel elegant disorder thrive baby regret place mystery horn";
+var mnemonic = "balance middle course bachelor gossip team black harvest neutral hour assume lamp";

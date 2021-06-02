@@ -1,1 +1,1 @@
-var mnemonic = "calm attitude again input tennis relief lazy forward cross orphan uncover avoid";
+var mnemonic = "apart dream shrug all earn coil blur erode inner ethics tattoo vital";

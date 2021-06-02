@@ -1,1 +1,1 @@
-var mnemonic = "grief error group spray pepper pretty unveil tube immense require raccoon power";
+var mnemonic = "sport hat blood hollow pause keen little lesson orient toss buffalo antique";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb struggle onion veteran page middle relief mom toss fog surround turkey";
+var mnemonic = "clap castle size orphan brief need behind buzz useful lab slice rack";

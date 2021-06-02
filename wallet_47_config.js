@@ -1,1 +1,1 @@
-var mnemonic = "device later burden sweet top security canyon sunny cook height debris odor";
+var mnemonic = "burst report inner cabin upon gap chest fantasy zone volume donkey vocal";

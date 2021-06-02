@@ -1,1 +1,1 @@
-var mnemonic = "panda audit wedding refuse jealous trend used inflict siren leg snack try";
+var mnemonic = "song maze blade void little voice attract onion crop romance pill other";

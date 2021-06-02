@@ -1,1 +1,1 @@
-var mnemonic = "castle obscure common error square real place rice decade region voice huge";
+var mnemonic = "soccer wash load zone derive essay kick island language castle snake disagree";

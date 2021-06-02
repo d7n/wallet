@@ -1,1 +1,1 @@
-var mnemonic = "clap lumber wolf awkward denial dilemma sweet citizen alone eternal rhythm view";
+var mnemonic = "bread slow position ostrich tank fire index harbor diesel away key awful";

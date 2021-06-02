@@ -1,1 +1,1 @@
-var mnemonic = "puppy work vital deputy pig between vessel devote liberty law youth trophy";
+var mnemonic = "program attitude test regret gravity hobby stem modify sea stay true cash";

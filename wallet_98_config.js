@@ -1,1 +1,1 @@
-var mnemonic = "bonus easy walnut firm project ramp prevent labor mushroom hedgehog toy section";
+var mnemonic = "follow repeat ski thunder fault tuition episode talent helmet mango define success";

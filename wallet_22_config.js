@@ -1,1 +1,1 @@
-var mnemonic = "devote bulk robot master jacket drip left awkward finger black route mobile";
+var mnemonic = "expect mean flee music eagle bridge neutral harvest female drive under claim";

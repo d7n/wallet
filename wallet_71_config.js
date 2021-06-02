@@ -1,1 +1,1 @@
-var mnemonic = "huge holiday tiger inmate shove inform click need metal balcony wet main";
+var mnemonic = "spread faint mask fancy soap maid marriage affair pen original brother medal";

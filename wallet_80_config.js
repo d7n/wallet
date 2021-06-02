@@ -1,1 +1,1 @@
-var mnemonic = "vintage family game you square need response practice cash auction eternal cigar";
+var mnemonic = "world scrap unaware deliver steak brisk plug finish sing gym void paddle";

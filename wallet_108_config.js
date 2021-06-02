@@ -1,1 +1,1 @@
-var mnemonic = "dismiss decade artist round disagree excess volume skull drink bleak crush pride";
+var mnemonic = "say family ribbon moral pipe that oyster youth battle face utility typical";

@@ -1,1 +1,1 @@
-var mnemonic = "milk neck alert brief indoor forget owner rice swarm strategy ramp aisle";
+var mnemonic = "head gadget solution imitate machine chest exhaust stadium document attitude simple winner";

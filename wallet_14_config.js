@@ -1,1 +1,1 @@
-var mnemonic = "drastic dash feed best hello regular want oppose elegant slim cancel thought";
+var mnemonic = "smile wear obscure charge suit wasp rule advice soccer twenty proof item";

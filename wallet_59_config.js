@@ -1,1 +1,1 @@
-var mnemonic = "defy blue glow blue promote side siege pilot initial must gorilla attract";
+var mnemonic = "bind profit symptom arrest bridge edge hotel reject donate staff bunker spice";

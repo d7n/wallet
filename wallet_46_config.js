@@ -1,1 +1,1 @@
-var mnemonic = "misery nut tiger junk program coil alpha parent confirm bright marine creek";
+var mnemonic = "circle sure cheese forest length menu inherit music affair what hero hint";

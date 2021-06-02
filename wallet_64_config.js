@@ -1,1 +1,1 @@
-var mnemonic = "course angle aware search wet order trade keep flame long upset truck";
+var mnemonic = "perfect hint build claim figure random vendor worry bounce disease supply domain";

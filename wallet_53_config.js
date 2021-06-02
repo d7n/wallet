@@ -1,1 +1,1 @@
-var mnemonic = "dance tortoise affair indoor reunion price donkey mind always fork neither wait";
+var mnemonic = "maze cram decade popular news fold proof erode actual same toast nothing";

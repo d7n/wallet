@@ -1,1 +1,1 @@
-var mnemonic = "uniform sting museum typical unable now airport admit goddess abuse floor bounce";
+var mnemonic = "pave visual room gospel kick next genre jaguar disagree mansion bulk shallow";

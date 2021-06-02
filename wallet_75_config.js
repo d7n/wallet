@@ -1,1 +1,1 @@
-var mnemonic = "total erode pole tomorrow region predict easy rate income knock neither perfect";
+var mnemonic = "science copy govern owner feed demise soldier cool moral boil urban ramp";

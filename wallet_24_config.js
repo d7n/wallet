@@ -1,1 +1,1 @@
-var mnemonic = "jazz hospital cage dance degree such neglect demise stumble online lottery core";
+var mnemonic = "confirm oxygen quality toast mammal glad fantasy range drastic stool remain gesture";

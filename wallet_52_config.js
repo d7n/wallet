@@ -1,1 +1,1 @@
-var mnemonic = "reflect clever bitter notice seven cigar alcohol cancel vacuum advice disorder try";
+var mnemonic = "surge flight anger enemy village diagram cushion raven verify broccoli nephew stick";

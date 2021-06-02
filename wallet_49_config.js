@@ -1,1 +1,1 @@
-var mnemonic = "envelope divorce material produce banner accuse issue moment auto ribbon fury suffer";
+var mnemonic = "pilot glue lock pool pencil hope ivory check expire into floor spice";

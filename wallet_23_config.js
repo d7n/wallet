@@ -1,1 +1,1 @@
-var mnemonic = "armed pattern finish inch provide soup auto veteran middle section end flash";
+var mnemonic = "engine brick pool end sauce curve police roof pledge zone mercy coffee";

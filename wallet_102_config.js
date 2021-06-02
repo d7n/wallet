@@ -1,1 +1,1 @@
-var mnemonic = "seed galaxy large gown jeans defy banner problem cake index immense female";
+var mnemonic = "industry notice occur must lunar shine scan midnight onion purpose base pudding";

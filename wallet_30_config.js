@@ -1,1 +1,1 @@
-var mnemonic = "mind select ball exact bottom expire heart mind leaf limit eager submit";
+var mnemonic = "obscure memory define vacant deposit theme pause auto fluid start decorate already";

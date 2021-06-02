@@ -1,1 +1,1 @@
-var mnemonic = "utility license entry cereal scout earth blind panther large worth civil badge";
+var mnemonic = "extend reduce bitter bullet solid moment rare marble large dilemma palace imitate";

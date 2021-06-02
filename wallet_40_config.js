@@ -1,1 +1,1 @@
-var mnemonic = "shoulder foam toddler victory inspire castle gather urban enact among service blur";
+var mnemonic = "perfect beauty trust ridge scorpion smile country biology dash shadow chronic wink";

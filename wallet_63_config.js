@@ -1,1 +1,1 @@
-var mnemonic = "frequent source gold hospital food zebra merge unknown winter smoke resist receive";
+var mnemonic = "analyst cloud grab around vote scissors upon risk october harvest move outer";

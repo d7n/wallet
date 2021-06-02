@@ -1,1 +1,1 @@
-var mnemonic = "budget dove portion lion message antique segment myself humor position cruel major";
+var mnemonic = "just coyote hobby mystery february melody nephew benefit marine ketchup cart priority";

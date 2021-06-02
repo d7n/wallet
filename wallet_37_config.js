@@ -1,1 +1,1 @@
-var mnemonic = "impact join basket wine update isolate gallery special cloth still gym people";
+var mnemonic = "produce can priority nation aunt wet arrange actual option virus mimic fringe";

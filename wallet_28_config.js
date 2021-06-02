@@ -1,1 +1,1 @@
-var mnemonic = "arrest help spawn gorilla solar vivid bubble cry knee latin remember atom";
+var mnemonic = "judge alley scrub feature donkey feed bubble dwarf ugly jewel sword witness";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake joy nerve vicious rebel feel blame quick mansion arctic fruit fix";
+var mnemonic = "hurry artefact again elder trip rough gloom crew sure anxiety trust ancient";

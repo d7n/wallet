@@ -1,1 +1,1 @@
-var mnemonic = "error eye earn exist egg lava grocery tree welcome spring include senior";
+var mnemonic = "slim civil tent kangaroo link glad talk fortune divert lab develop side";

@@ -1,1 +1,1 @@
-var mnemonic = "write what diesel goose ticket chase purity hire buyer badge truth essay";
+var mnemonic = "kit deer asthma page palm punch quote depend wife discover symptom child";

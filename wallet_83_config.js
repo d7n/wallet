@@ -1,1 +1,1 @@
-var mnemonic = "elephant buzz guard update smart fever stock fox grape chronic easily will";
+var mnemonic = "clever sudden weird pet holiday country legend toe enrich predict dilemma effort";

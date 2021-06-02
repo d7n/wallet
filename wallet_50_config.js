@@ -1,1 +1,1 @@
-var mnemonic = "ginger interest outdoor buffalo spare note half behave truck spy marble unlock";
+var mnemonic = "play raise glue bracket soft memory magnet thing casual load title copy";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics human rabbit tiny proof bread reform lake dad example follow display";
+var mnemonic = "scatter friend buyer rebuild kitchen frown slogan arctic cover innocent taxi monster";

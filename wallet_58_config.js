@@ -1,1 +1,1 @@
-var mnemonic = "mutual have sadness goddess badge green solve praise knee style airport winter";
+var mnemonic = "paddle gain elevator brown pepper imitate symptom train draft grass universe custom";

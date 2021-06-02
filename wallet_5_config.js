@@ -1,1 +1,1 @@
-var mnemonic = "exclude aunt book jeans language weapon fashion original garbage shallow clock broccoli";
+var mnemonic = "eight rib lava expand catalog chronic mystery pet teach expect collect inmate";

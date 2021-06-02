@@ -1,1 +1,1 @@
-var mnemonic = "excuse ghost acoustic among theme wonder marble fat ahead expire large path";
+var mnemonic = "dash plug intact skin monster glimpse pull hour zero alert toilet elbow";

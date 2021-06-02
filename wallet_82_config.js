@@ -1,1 +1,1 @@
-var mnemonic = "eagle lazy spoil invite trick leader pitch valve faculty amazing egg misery";
+var mnemonic = "friend firm excite sick exchange home theory across post large predict piece";

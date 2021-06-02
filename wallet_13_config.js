@@ -1,1 +1,1 @@
-var mnemonic = "normal insect loop awake bulb kite dutch whale pitch pear right name";
+var mnemonic = "abstract raise upgrade stairs local version notice artist lazy direct around opera";

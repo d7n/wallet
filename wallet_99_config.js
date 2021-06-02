@@ -1,1 +1,1 @@
-var mnemonic = "opinion work admit runway crew rich wolf success faith control deal discover";
+var mnemonic = "more loan fun radar vacuum crumble comfort zebra planet field tail suspect";

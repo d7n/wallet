@@ -1,1 +1,1 @@
-var mnemonic = "fresh winner misery napkin balcony neither fall way trophy return current august";
+var mnemonic = "ring armed shift fluid cool reopen because satisfy wall animal obvious minimum";
