@@ -1,1 +1,1 @@
-var mnemonic = "season smile dance debate inflict author smooth soccer banner enhance strategy flat";
+var mnemonic = "betray bring bag inmate uphold minor outer armor country hotel pretty rug";

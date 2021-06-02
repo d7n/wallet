@@ -1,1 +1,1 @@
-var mnemonic = "inform seed critic cement donate fan rug visual orphan frozen tree tribe";
+var mnemonic = "ceiling urge fun piece merge spin total price cricket gaze opinion enable";

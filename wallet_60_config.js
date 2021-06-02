@@ -1,1 +1,1 @@
-var mnemonic = "hotel bridge scheme rather hood priority pulse dash ribbon person shrimp pilot";
+var mnemonic = "excuse ghost acoustic among theme wonder marble fat ahead expire large path";

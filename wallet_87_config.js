@@ -1,1 +1,1 @@
-var mnemonic = "energy fix saddle liquid enforce pipe stuff private acquire aware vacant frequent";
+var mnemonic = "rookie gospel orchard patient toe drive brown lucky avoid illness trap sort";

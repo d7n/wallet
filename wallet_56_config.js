@@ -1,1 +1,1 @@
-var mnemonic = "churn lend prize myth other ritual loop ordinary bring water sort volcano";
+var mnemonic = "chair gadget stable hockey ride melody laptop glimpse surface sort post joke";

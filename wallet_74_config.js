@@ -1,1 +1,1 @@
-var mnemonic = "donate pair venture negative sort basic belt damp happy upper future penalty";
+var mnemonic = "prevent gather apart vague arrest police home crash success camp sea cheese";

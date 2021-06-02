@@ -1,1 +1,1 @@
-var mnemonic = "economy panda enjoy bind sleep bracket wife relax coast charge fortune flash";
+var mnemonic = "lyrics human rabbit tiny proof bread reform lake dad example follow display";

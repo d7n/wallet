@@ -1,1 +1,1 @@
-var mnemonic = "enough hover hidden walk maid future guide piece sausage lens banana obscure";
+var mnemonic = "comfort bacon border sample fetch ancient intact consider reform address robot drink";

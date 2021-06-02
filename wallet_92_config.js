@@ -1,1 +1,1 @@
-var mnemonic = "select evolve crane sing eager swing put position artwork horror viable okay";
+var mnemonic = "figure denial appear north warm wing only riot two spell leg excess";

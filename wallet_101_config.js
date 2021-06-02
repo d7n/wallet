@@ -1,1 +1,1 @@
-var mnemonic = "degree drastic bacon inside chalk powder mixture burst update movie umbrella pull";
+var mnemonic = "include hard lizard problem real hire blanket divide fitness final resemble laugh";

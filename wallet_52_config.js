@@ -1,1 +1,1 @@
-var mnemonic = "west draw chunk fortune gold amused category rude dilemma assault quarter blade";
+var mnemonic = "reflect clever bitter notice seven cigar alcohol cancel vacuum advice disorder try";

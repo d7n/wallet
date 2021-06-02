@@ -1,1 +1,1 @@
-var mnemonic = "similar seek artist gauge mean two kitchen immune home mechanic clerk hammer";
+var mnemonic = "rifle sword awake burger deposit young kit either fun decade still flame";

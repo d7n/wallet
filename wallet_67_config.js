@@ -1,1 +1,1 @@
-var mnemonic = "ensure practice assume aim alarm wish essay delay evidence century rib dynamic";
+var mnemonic = "fee piano gather thank novel help napkin goat select pepper frame canoe";

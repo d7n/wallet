@@ -1,1 +1,1 @@
-var mnemonic = "render lady swap slogan picnic label leaf bless attend faith veteran analyst";
+var mnemonic = "daughter sauce disease ensure egg volume salute always public upon improve usual";

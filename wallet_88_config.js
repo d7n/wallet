@@ -1,1 +1,1 @@
-var mnemonic = "place rifle mystery gasp quantum boost mesh lens inch sister pelican ceiling";
+var mnemonic = "combine piece cannon wash dwarf extend drama cousin pole royal dust forest";

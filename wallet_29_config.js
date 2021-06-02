@@ -1,1 +1,1 @@
-var mnemonic = "buyer start bargain potato elevator exit warm race just soda jeans forest";
+var mnemonic = "grief error group spray pepper pretty unveil tube immense require raccoon power";

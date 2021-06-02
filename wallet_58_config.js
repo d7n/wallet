@@ -1,1 +1,1 @@
-var mnemonic = "breeze glimpse actor pink grid hold crash shop laugh lake spirit print";
+var mnemonic = "mutual have sadness goddess badge green solve praise knee style airport winter";

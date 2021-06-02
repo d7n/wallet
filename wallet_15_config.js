@@ -1,1 +1,1 @@
-var mnemonic = "cactus ice fade object vote forest furnace text wash weird stumble unique";
+var mnemonic = "mistake joy nerve vicious rebel feel blame quick mansion arctic fruit fix";

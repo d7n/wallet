@@ -1,1 +1,1 @@
-var mnemonic = "forward kitchen cupboard frost ridge toddler bone movie wonder sorry disease test";
+var mnemonic = "science upon oak once whisper sunset tooth audit sight balance opera delay";

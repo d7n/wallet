@@ -1,1 +1,1 @@
-var mnemonic = "cupboard correct puppy first badge dog season route they panic engage worth";
+var mnemonic = "patch latin bonus journey mushroom border civil error mutual jeans father puzzle";

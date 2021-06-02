@@ -1,1 +1,1 @@
-var mnemonic = "child share know cube cousin sight walnut carbon cactus upon isolate tag";
+var mnemonic = "energy work brisk concert also try tooth reject bird actor vicious acquire";

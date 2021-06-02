@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur coin curious glare master liquid trick table bacon debris female fade";
+var mnemonic = "level before color surface opera core friend just swing wrap someone opera";

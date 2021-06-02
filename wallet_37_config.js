@@ -1,1 +1,1 @@
-var mnemonic = "ridge federal dash creek salt add poem drop hold vital subway woman";
+var mnemonic = "impact join basket wine update isolate gallery special cloth still gym people";

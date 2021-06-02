@@ -1,1 +1,1 @@
-var mnemonic = "hotel simple disease tired pepper cereal lyrics demand extend matrix scrap pool";
+var mnemonic = "pluck item hip vivid inherit genre finger alpha march own puzzle disagree";

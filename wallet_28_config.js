@@ -1,1 +1,1 @@
-var mnemonic = "purpose hurt mule brisk lion there write blade egg claim injury forward";
+var mnemonic = "arrest help spawn gorilla solar vivid bubble cry knee latin remember atom";

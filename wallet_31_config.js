@@ -1,1 +1,1 @@
-var mnemonic = "float dumb defy option defense sun question fix toddler civil critic cry";
+var mnemonic = "fresh winner misery napkin balcony neither fall way trophy return current august";

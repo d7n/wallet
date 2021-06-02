@@ -1,1 +1,1 @@
-var mnemonic = "mechanic acoustic pigeon traffic assume effort crane antenna faint hidden abstract merit";
+var mnemonic = "car wide same inmate camp recipe dance version secret below question humble";

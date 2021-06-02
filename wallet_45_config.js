@@ -1,1 +1,1 @@
-var mnemonic = "valid energy outer can demand april service essay expand refuse general define";
+var mnemonic = "swim enough frame tide drive transfer broken match avocado diet educate odor";

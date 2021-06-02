@@ -1,1 +1,1 @@
-var mnemonic = "final gown guitar route together theme shock juice dismiss dove dawn obtain";
+var mnemonic = "list tragic wise strike sense bronze employ upset man chalk behind resource";

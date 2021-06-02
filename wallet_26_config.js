@@ -1,1 +1,1 @@
-var mnemonic = "space endless affair fox rib where issue celery traffic tongue blush believe";
+var mnemonic = "tide light shine plate topple air smoke laptop soda razor copy armed";

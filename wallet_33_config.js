@@ -1,1 +1,1 @@
-var mnemonic = "bone release trial either capable aerobic satisfy message seat observe gravity toddler";
+var mnemonic = "stereo rely property bottom robust local close wild easy common because apple";

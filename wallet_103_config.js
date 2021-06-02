@@ -1,1 +1,1 @@
-var mnemonic = "outer maple virtual sorry birth stage wonder smile hurry puppy slight car";
+var mnemonic = "camera audit canal elephant marriage rescue update embark result remove primary proud";

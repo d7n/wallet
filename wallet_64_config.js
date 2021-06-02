@@ -1,1 +1,1 @@
-var mnemonic = "column tell light degree blame next soul spray abandon toddler address spike";
+var mnemonic = "course angle aware search wet order trade keep flame long upset truck";

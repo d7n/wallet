@@ -1,1 +1,1 @@
-var mnemonic = "aim race achieve alien link focus betray found sing speak wink expand";
+var mnemonic = "invite convince fragile observe quote admit duty useless again elevator blade crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "major work clown anger ketchup object cement breeze muscle rough math category";
+var mnemonic = "write what diesel goose ticket chase purity hire buyer badge truth essay";

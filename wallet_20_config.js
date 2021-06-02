@@ -1,1 +1,1 @@
-var mnemonic = "eternal mad alien feed legend sword unique swarm harbor runway bottom acid";
+var mnemonic = "fancy argue miracle whale enrich mixture endless calm answer sting hill group";

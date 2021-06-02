@@ -1,1 +1,1 @@
-var mnemonic = "stereo upon venue tongue hurdle sea circle cry hard strong suggest imitate";
+var mnemonic = "humor life fragile hospital amused cannon owner journey clutch wear riot moon";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar lottery grocery craft lonely soldier gloom chuckle tent misery grid cherry";
+var mnemonic = "shoulder foam toddler victory inspire castle gather urban enact among service blur";

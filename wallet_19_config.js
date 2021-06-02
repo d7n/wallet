@@ -1,1 +1,1 @@
-var mnemonic = "minute cook boost belt custom icon blue rubber icon acquire dilemma term";
+var mnemonic = "sad chicken before squeeze betray poverty model best error february priority hen";

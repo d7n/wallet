@@ -1,1 +1,1 @@
-var mnemonic = "toss empty spawn action profit annual metal pepper sick know project purchase";
+var mnemonic = "clap lumber wolf awkward denial dilemma sweet citizen alone eternal rhythm view";

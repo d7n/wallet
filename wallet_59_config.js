@@ -1,1 +1,1 @@
-var mnemonic = "treat license jar little large grow gown one arm chat robot page";
+var mnemonic = "defy blue glow blue promote side siege pilot initial must gorilla attract";

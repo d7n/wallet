@@ -1,1 +1,1 @@
-var mnemonic = "car also congress entire discover twenty liberty banner bonus page resemble drama";
+var mnemonic = "pool dust jaguar project drive combine find drip apart celery fee bone";

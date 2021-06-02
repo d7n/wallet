@@ -1,1 +1,1 @@
-var mnemonic = "core brand jealous mushroom spirit process lottery rural rose ripple wall clutch";
+var mnemonic = "coffee else churn physical cause raccoon thing deposit black usage youth rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "label toy fork cute fuel coconut spawn scan mask must turtle tone";
+var mnemonic = "milk neck alert brief indoor forget owner rice swarm strategy ramp aisle";

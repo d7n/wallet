@@ -1,1 +1,1 @@
-var mnemonic = "below intact true tiny luxury dream anchor car amazing notable forest surface";
+var mnemonic = "surprise lab become answer outer panel smile clip degree distance equip axis";

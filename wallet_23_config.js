@@ -1,1 +1,1 @@
-var mnemonic = "call gap cigar sleep plug possible boost mountain target spell limb lumber";
+var mnemonic = "armed pattern finish inch provide soup auto veteran middle section end flash";

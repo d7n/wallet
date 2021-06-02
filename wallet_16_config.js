@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pudding marriage trend push judge phrase profit pudding more gym cigar";
+var mnemonic = "try crush coach swear uniform kingdom inspire under right hill unhappy join";

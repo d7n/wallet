@@ -1,1 +1,1 @@
-var mnemonic = "cradle jealous vague genre virtual truth between mushroom mesh patch elite cruel";
+var mnemonic = "opinion work admit runway crew rich wolf success faith control deal discover";

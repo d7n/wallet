@@ -1,1 +1,1 @@
-var mnemonic = "spirit wheel photo vault buzz casino pluck sample april slot story regular";
+var mnemonic = "eagle lazy spoil invite trick leader pitch valve faculty amazing egg misery";

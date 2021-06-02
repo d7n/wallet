@@ -1,1 +1,1 @@
-var mnemonic = "agent virtual kitten daring scheme own demise sketch film taxi vacant civil";
+var mnemonic = "century frame sniff desk someone prevent flat rigid art trip before perfect";

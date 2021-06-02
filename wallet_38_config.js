@@ -1,1 +1,1 @@
-var mnemonic = "job sunny broken cart cliff option opera column chat whisper harvest soldier";
+var mnemonic = "gold discover broccoli dad scare talent ritual violin report decide zero throw";

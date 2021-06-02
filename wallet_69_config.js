@@ -1,1 +1,1 @@
-var mnemonic = "hint broccoli lecture guitar vote divide young flower gesture hire autumn between";
+var mnemonic = "roast demand local chalk exhaust frequent emotion blind holiday defense inmate roast";

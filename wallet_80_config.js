@@ -1,1 +1,1 @@
-var mnemonic = "field obtain mask north buffalo shed fan sure connect audit smooth when";
+var mnemonic = "vintage family game you square need response practice cash auction eternal cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "meat captain valid test gas person merit neutral fish balance aunt bread";
+var mnemonic = "evidence exhaust dance question square wagon chase boss okay coffee rug move";

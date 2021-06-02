@@ -1,1 +1,1 @@
-var mnemonic = "bread copy fee olympic resist display voyage cabin suggest tilt pause ocean";
+var mnemonic = "uniform sting museum typical unable now airport admit goddess abuse floor bounce";

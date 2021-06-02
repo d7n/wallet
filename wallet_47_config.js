@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fortune velvet trigger liberty hidden denial sail matter exotic jacket boring";
+var mnemonic = "device later burden sweet top security canyon sunny cook height debris odor";

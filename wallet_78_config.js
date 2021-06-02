@@ -1,1 +1,1 @@
-var mnemonic = "dolphin keep segment spike network future kidney burden number bulb glue dad";
+var mnemonic = "valve hill pass immense split pattern whale civil toilet fatigue easily fan";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder ignore outer issue rally expose wing grief draft oven occur donate";
+var mnemonic = "finger afraid blade phone visa screen zoo minimum stone verify weasel alone";

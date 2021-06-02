@@ -1,1 +1,1 @@
-var mnemonic = "raccoon faculty taxi tank accident actual shoulder busy task question orange track";
+var mnemonic = "arrest dry scale soccer donor gold avocado penalty fancy vote hollow peanut";

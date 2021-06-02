@@ -1,1 +1,1 @@
-var mnemonic = "melody pretty casino dismiss brick motion helmet muscle apology wisdom family magic";
+var mnemonic = "ability flee flag tragic license loop blind ankle film lobster night sell";

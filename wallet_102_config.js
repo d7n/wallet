@@ -1,1 +1,1 @@
-var mnemonic = "guess apple because humor total result twin gravity hint recall dignity van";
+var mnemonic = "seed galaxy large gown jeans defy banner problem cake index immense female";

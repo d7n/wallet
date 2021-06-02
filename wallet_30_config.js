@@ -1,1 +1,1 @@
-var mnemonic = "enforce utility leisure satisfy engage resist dad kingdom glare force razor oval";
+var mnemonic = "mind select ball exact bottom expire heart mind leaf limit eager submit";

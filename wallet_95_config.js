@@ -1,1 +1,1 @@
-var mnemonic = "search cat crazy put below jacket friend ice lend owner cushion wing";
+var mnemonic = "forget fat match chaos admit label book laptop helmet risk benefit ready";

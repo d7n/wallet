@@ -1,1 +1,1 @@
-var mnemonic = "old maximum distance neither brisk goat pink impulse online plug portion focus";
+var mnemonic = "frequent source gold hospital food zebra merge unknown winter smoke resist receive";

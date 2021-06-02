@@ -1,1 +1,1 @@
-var mnemonic = "poet shock tornado valid call wealth plunge right short source horror life";
+var mnemonic = "any key peace interest cabbage crawl farm settle riot box oven win";

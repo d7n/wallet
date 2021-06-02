@@ -1,1 +1,1 @@
-var mnemonic = "ability marriage drastic sort moment sketch before skirt sense orbit wedding picture";
+var mnemonic = "bar garage replace liberty angry payment elephant month twelve degree time jewel";

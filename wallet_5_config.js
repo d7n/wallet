@@ -1,1 +1,1 @@
-var mnemonic = "ship sure peanut cart rabbit twenty aware immense frozen drastic vacant planet";
+var mnemonic = "exclude aunt book jeans language weapon fashion original garbage shallow clock broccoli";

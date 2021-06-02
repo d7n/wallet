@@ -1,1 +1,1 @@
-var mnemonic = "island auction oil wheel cruise uncover home advice pupil index before student";
+var mnemonic = "drastic dash feed best hello regular want oppose elegant slim cancel thought";

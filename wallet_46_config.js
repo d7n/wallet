@@ -1,1 +1,1 @@
-var mnemonic = "emotion funny wrist finish quality safe spell fluid motion shuffle march grit";
+var mnemonic = "misery nut tiger junk program coil alpha parent confirm bright marine creek";

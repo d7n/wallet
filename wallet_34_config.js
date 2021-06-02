@@ -1,1 +1,1 @@
-var mnemonic = "size adapt fabric waste gentle make jazz good wrap enter pink august";
+var mnemonic = "cotton artefact bottom shift supreme wear tuna chuckle open crisp knee cricket";

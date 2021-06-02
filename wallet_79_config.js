@@ -1,1 +1,1 @@
-var mnemonic = "wolf era ancient bottom lunch spider ginger appear during regret second hold";
+var mnemonic = "sibling nominee inner rebel elegant disorder thrive baby regret place mystery horn";

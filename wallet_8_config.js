@@ -1,1 +1,1 @@
-var mnemonic = "mixture cancel when will vapor two muffin couch rare fade frog slide";
+var mnemonic = "panda audit wedding refuse jealous trend used inflict siren leg snack try";

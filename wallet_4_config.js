@@ -1,1 +1,1 @@
-var mnemonic = "trouble rescue tilt leaf minimum brown liquid suffer question plug moon detect";
+var mnemonic = "error eye earn exist egg lava grocery tree welcome spring include senior";

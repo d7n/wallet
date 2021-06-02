@@ -1,1 +1,1 @@
-var mnemonic = "bus cup ready carbon cluster decline pulp memory shove ticket auto turn";
+var mnemonic = "say worry decorate surround pluck current pluck cancel dwarf document february rotate";

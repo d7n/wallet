@@ -1,1 +1,1 @@
-var mnemonic = "fancy weather beyond quality expect blush involve pioneer celery region tube hat";
+var mnemonic = "else sword key oil theory quality theory gadget strategy uncle medal trash";

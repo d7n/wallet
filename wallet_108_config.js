@@ -1,1 +1,1 @@
-var mnemonic = "weekend lounge mail race coffee category drift organ cover capable absent man";
+var mnemonic = "dismiss decade artist round disagree excess volume skull drink bleak crush pride";

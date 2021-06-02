@@ -1,1 +1,1 @@
-var mnemonic = "boss scatter final flush throw like spread loud system bring uphold walnut";
+var mnemonic = "huge holiday tiger inmate shove inform click need metal balcony wet main";

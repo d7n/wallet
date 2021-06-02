@@ -1,1 +1,1 @@
-var mnemonic = "bulb quality snap erode race february better kitten yard measure cube mixed";
+var mnemonic = "grape hand fever still struggle job else pigeon trip salute water rain";

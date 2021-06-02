@@ -1,1 +1,1 @@
-var mnemonic = "open vote pond air lottery exercise sign throw describe two belt coin";
+var mnemonic = "tribe shoot play private library pass furnace guitar decorate ridge wheat fault";

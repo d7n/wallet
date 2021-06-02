@@ -1,1 +1,1 @@
-var mnemonic = "fury nest need surface clown oil toe crystal retreat come escape abstract";
+var mnemonic = "dance tortoise affair indoor reunion price donkey mind always fork neither wait";

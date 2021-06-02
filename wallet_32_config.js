@@ -1,1 +1,1 @@
-var mnemonic = "print popular toast fade domain ecology turn afraid fence orphan thunder behave";
+var mnemonic = "life priority bamboo gown fluid improve country thunder street piece draw pencil";

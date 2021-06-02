@@ -1,1 +1,1 @@
-var mnemonic = "crater crawl normal lawsuit soon frequent cinnamon unlock tonight agent alarm cube";
+var mnemonic = "budget dove portion lion message antique segment myself humor position cruel major";

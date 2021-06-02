@@ -1,1 +1,1 @@
-var mnemonic = "clutch fox kidney glass silk accuse certain extra brush velvet fabric flat";
+var mnemonic = "air spring nurse major item prefer destroy used prepare indicate race flight";

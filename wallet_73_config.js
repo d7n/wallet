@@ -1,1 +1,1 @@
-var mnemonic = "goat bone soon secret essay tower later trouble never lemon dolphin wave";
+var mnemonic = "alpha vessel math west beach poet slender thunder chunk giraffe cram tube";

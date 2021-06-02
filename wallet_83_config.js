@@ -1,1 +1,1 @@
-var mnemonic = "social dial scare style exotic power deliver envelope grape inject addict level";
+var mnemonic = "elephant buzz guard update smart fever stock fox grape chronic easily will";
