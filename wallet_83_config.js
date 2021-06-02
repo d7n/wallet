@@ -1,1 +1,1 @@
-var mnemonic = "hammer ability pitch oblige bracket barely expect happy boost gift plunge donate";
+var mnemonic = "type divide hole supreme loud plunge blanket segment throw leg brief robot";

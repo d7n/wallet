@@ -1,1 +1,1 @@
-var mnemonic = "flag coffee drum face federal armed hero brown sell wool plastic false";
+var mnemonic = "bless embody absorb debris disagree knock stuff issue intact scissors bind candy";

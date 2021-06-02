@@ -1,1 +1,1 @@
-var mnemonic = "object brass drive uncle much acoustic furnace bar dial cook input couch";
+var mnemonic = "menu lens runway power relax kick resist drum fault churn song paper";

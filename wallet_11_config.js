@@ -1,1 +1,1 @@
-var mnemonic = "length stool advance spoil control image sell deputy obtain express retreat rate";
+var mnemonic = "chuckle rotate royal wine then enhance evil aim label lemon spend odor";

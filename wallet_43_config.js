@@ -1,1 +1,1 @@
-var mnemonic = "fruit swap kitten kick work angry dizzy ahead route candy tail faculty";
+var mnemonic = "wide liar ice gold fringe arm hurt chase soldier color south destroy";

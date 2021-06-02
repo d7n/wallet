@@ -1,1 +1,1 @@
-var mnemonic = "steak jelly bulb elephant census debate traffic win quick bicycle neglect bullet";
+var mnemonic = "fruit later leaf sauce napkin cube settle stage crush pigeon service ski";

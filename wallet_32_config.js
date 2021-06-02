@@ -1,1 +1,1 @@
-var mnemonic = "giraffe canvas tiny rubber steel donkey saddle bless cancel junk icon twelve";
+var mnemonic = "brush judge patch leaf boat response soup stay afford elephant flush day";

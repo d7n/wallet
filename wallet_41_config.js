@@ -1,1 +1,1 @@
-var mnemonic = "genuine inhale crawl inquiry mention surround hurdle decorate multiply spot various basket";
+var mnemonic = "better jazz leg base win call firm lawsuit allow truth foster when";

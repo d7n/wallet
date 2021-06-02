@@ -1,1 +1,1 @@
-var mnemonic = "fall hub display rapid comic noble people solar voice weather opinion receive";
+var mnemonic = "uniform letter spike drum piano option scatter exile monster narrow baby first";

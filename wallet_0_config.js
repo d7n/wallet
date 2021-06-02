@@ -1,1 +1,1 @@
-var mnemonic = "key install pelican pink crew cost comic over zone concert fan salt";
+var mnemonic = "moment depend over clean rail staff sibling cargo shy document drive vessel";

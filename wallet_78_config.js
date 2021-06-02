@@ -1,1 +1,1 @@
-var mnemonic = "issue spot ostrich replace spring argue dry voice uncover daughter face one";
+var mnemonic = "air opinion dial blush door abuse glory sock quit hungry cliff critic";

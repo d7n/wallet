@@ -1,1 +1,1 @@
-var mnemonic = "believe inmate fitness member gesture relax renew version skirt visit mammal budget";
+var mnemonic = "ethics discover method dirt morning bubble wear enable ocean crack quarter wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer sleep donate attack spy museum address skull cruel lottery copper friend";
+var mnemonic = "climb insane enough shed moral farm gym ethics any correct youth erode";

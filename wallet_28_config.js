@@ -1,1 +1,1 @@
-var mnemonic = "rifle theme list media day veteran smile cinnamon file rough increase example";
+var mnemonic = "faculty ridge blue toe empty result settle media first shield fiscal guard";

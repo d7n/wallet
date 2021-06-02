@@ -1,1 +1,1 @@
-var mnemonic = "correct trend twice trigger drift room biology leisure leopard express gossip own";
+var mnemonic = "quarter must educate elegant giraffe industry matrix leaf biology butter debris cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "job there mushroom any super lobster blue chest upgrade deliver defy chest";
+var mnemonic = "move lake mesh unaware meat snack stamp indoor install bacon camera ball";

@@ -1,1 +1,1 @@
-var mnemonic = "account resource humor raccoon surge obey frozen review among raven law melody";
+var mnemonic = "guard chat glad recycle now grant mad cover elevator during neither frame";

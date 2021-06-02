@@ -1,1 +1,1 @@
-var mnemonic = "immune cliff gaze cargo wire sugar merit reason small need play sting";
+var mnemonic = "trigger twelve hospital kingdom dial spirit casino boss auction magic love subject";

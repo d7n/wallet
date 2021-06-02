@@ -1,1 +1,1 @@
-var mnemonic = "depart alien okay exact fire differ fence example fence despair youth ready";
+var mnemonic = "garage mercy visa island differ render report bread bird rail lumber tattoo";

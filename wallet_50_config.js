@@ -1,1 +1,1 @@
-var mnemonic = "fat resource word company web subject old super drill prevent label female";
+var mnemonic = "where loud myth amateur clog ask wire flash shift meadow salon curtain";

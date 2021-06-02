@@ -1,1 +1,1 @@
-var mnemonic = "ability chef empower rate dune job matter dinosaur detect embody assault gesture";
+var mnemonic = "voice gossip citizen soon mixture elevator feel any tide brush rain prison";

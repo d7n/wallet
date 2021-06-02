@@ -1,1 +1,1 @@
-var mnemonic = "disease pig wrestle success raw aim sense catalog endless destroy cube chef";
+var mnemonic = "debate chief provide amazing dinner bargain fold laundry night lady recipe scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol stereo sell slush switch during edit cruise captain unveil fetch venue";
+var mnemonic = "route settle crack poet sun garage flash replace such impose stairs awkward";

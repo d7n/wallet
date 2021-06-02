@@ -1,1 +1,1 @@
-var mnemonic = "chat casino hood analyst club slogan embrace grace kiss boat original grow";
+var mnemonic = "crew convince solar right jar guitar owner dumb step cycle breeze budget";

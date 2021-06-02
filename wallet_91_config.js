@@ -1,1 +1,1 @@
-var mnemonic = "fame another solar solve lucky walnut rabbit clean ranch brown bone water";
+var mnemonic = "shrimp unaware pledge baby today okay what struggle kind brass hole escape";

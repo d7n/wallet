@@ -1,1 +1,1 @@
-var mnemonic = "window oil hammer winner fog pyramid custom kitchen toss forum engine clever";
+var mnemonic = "drum execute latin peasant easy brown cherry side crunch tray outer eyebrow";

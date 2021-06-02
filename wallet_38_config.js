@@ -1,1 +1,1 @@
-var mnemonic = "start toddler side sound early use mirror decline cool joy clog fine";
+var mnemonic = "rebel cigar idea stone mouse scare famous kangaroo entire layer holiday wage";

@@ -1,1 +1,1 @@
-var mnemonic = "rival duck since strategy sight cave fringe input adapt law train enemy";
+var mnemonic = "range used hamster sketch multiply tilt spike hollow enemy acid please floor";

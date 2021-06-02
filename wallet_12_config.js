@@ -1,1 +1,1 @@
-var mnemonic = "nurse rebel surround hill slam hundred sleep cliff sunset riot motor orphan";
+var mnemonic = "eyebrow chase wink muffin scissors spot treat crowd grit cruise notable proud";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup hero regular pencil weapon squeeze embrace swear like unhappy assume trip";
+var mnemonic = "casino sadness item swing room goose math people palace machine scorpion easily";

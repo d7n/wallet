@@ -1,1 +1,1 @@
-var mnemonic = "moral perfect weapon furnace dinner violin bunker there arena humble obvious abstract";
+var mnemonic = "upper tone sauce annual remember oblige choice gentle asset midnight blush couch";

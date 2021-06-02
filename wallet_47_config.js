@@ -1,1 +1,1 @@
-var mnemonic = "wheat rose inspire trust census erode dignity help bargain lava park exile";
+var mnemonic = "census primary believe wrong city common neutral loud reunion flag skull pair";

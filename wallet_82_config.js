@@ -1,1 +1,1 @@
-var mnemonic = "blouse bronze tape library rent same cube ordinary warfare number salon equip";
+var mnemonic = "limb escape hood ceiling public allow six ocean market mutual army gold";

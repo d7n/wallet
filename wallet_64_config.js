@@ -1,1 +1,1 @@
-var mnemonic = "correct miss above ethics wrap frown agent genuine scan fringe wear couple";
+var mnemonic = "type bridge end walk spring clean proof orbit issue point still note";

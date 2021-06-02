@@ -1,1 +1,1 @@
-var mnemonic = "surface remind tobacco range vivid message crystal knock pave stand seminar maid";
+var mnemonic = "rain because victory merry ozone scene biology absorb friend sheriff any vacuum";

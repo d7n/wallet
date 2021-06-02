@@ -1,1 +1,1 @@
-var mnemonic = "fee perfect carpet second reunion balance rich retreat divert shield use tired";
+var mnemonic = "salon must squirrel chief gravity donkey home game mammal trouble milk upon";

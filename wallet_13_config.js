@@ -1,1 +1,1 @@
-var mnemonic = "depth ugly harbor maximum mandate museum sister pass decline patrol dish stem";
+var mnemonic = "acquire stone pigeon bulk heart bracket elite mixture wine angle wrong caution";

@@ -1,1 +1,1 @@
-var mnemonic = "true auto link tunnel manage pilot page print swamp shiver convince market";
+var mnemonic = "stomach coyote dove apology vote seat life mobile citizen spend nurse forum";

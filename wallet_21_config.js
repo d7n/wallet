@@ -1,1 +1,1 @@
-var mnemonic = "notice grid team nurse gentle next jeans lecture nuclear panther clinic system";
+var mnemonic = "wrong leopard brief water kingdom dirt hat frozen process deal boring merge";

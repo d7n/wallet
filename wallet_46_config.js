@@ -1,1 +1,1 @@
-var mnemonic = "crack laundry hub offer book hunt survey destroy coin math change view";
+var mnemonic = "plug life convince october hire excite silent team local local much lady";

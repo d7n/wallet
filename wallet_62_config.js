@@ -1,1 +1,1 @@
-var mnemonic = "transfer trial marriage dream trust sponsor patient waste hire bench expand foam";
+var mnemonic = "share spend episode ripple wasp churn shuffle funny draft elbow pond nothing";

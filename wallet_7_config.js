@@ -1,1 +1,1 @@
-var mnemonic = "veteran pass involve choice jar cannon tuna trim pumpkin seek normal mechanic";
+var mnemonic = "artist wrong charge auction guitar require random mix virus mountain afraid slide";

@@ -1,1 +1,1 @@
-var mnemonic = "bar century kind buyer tissue milk tiger code bundle elephant toy morning";
+var mnemonic = "boat limit fatigue under index daring soap mutual pretty enjoy hill rib";

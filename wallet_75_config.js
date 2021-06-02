@@ -1,1 +1,1 @@
-var mnemonic = "audit hair slim velvet cup fashion crush sudden kitchen cruise certain turn";
+var mnemonic = "ring icon fruit job ready nose page gauge device bless vicious normal";

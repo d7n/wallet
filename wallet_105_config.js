@@ -1,1 +1,1 @@
-var mnemonic = "include deer bring hello prefer rich oval dinner habit dry attend sponsor";
+var mnemonic = "brass left shy pattern thrive town aspect animal perfect feed push belt";

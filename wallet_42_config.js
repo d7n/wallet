@@ -1,1 +1,1 @@
-var mnemonic = "insect cute brush artist tool rain endorse exile custom crash science reunion";
+var mnemonic = "hire tip sight grant wise win thrive hope awful quantum garden birth";

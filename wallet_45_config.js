@@ -1,1 +1,1 @@
-var mnemonic = "powder toilet load dice chaos message undo bunker fatigue royal struggle element";
+var mnemonic = "opinion ring language mom story correct isolate barely cement chef legal walnut";

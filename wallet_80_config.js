@@ -1,1 +1,1 @@
-var mnemonic = "account predict crystal blouse diagram display jar refuse amount doll wisdom mixture";
+var mnemonic = "next gentle paper fat attend shine faith slot pepper addict flat retreat";

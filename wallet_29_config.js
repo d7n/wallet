@@ -1,1 +1,1 @@
-var mnemonic = "add imitate catch leaf gold glove exhibit phrase abandon fee vintage lazy";
+var mnemonic = "category merge invest agree hero wolf trend gain mixed infant clip common";

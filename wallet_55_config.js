@@ -1,1 +1,1 @@
-var mnemonic = "rotate frequent total absent squirrel corn remember march nature that host office";
+var mnemonic = "load brick horror rookie pupil forget feed sting glad cream account cliff";

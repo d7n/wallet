@@ -1,1 +1,1 @@
-var mnemonic = "side drink smart retreat sock blood group stool art congress couple wife";
+var mnemonic = "skull leg invite dumb kangaroo girl tuition fox endorse gorilla urge fossil";

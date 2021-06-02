@@ -1,1 +1,1 @@
-var mnemonic = "much happy dice decide fringe cherry call copper random dress attack until";
+var mnemonic = "coconut kitchen yard palace embark try shoulder tape between novel often captain";

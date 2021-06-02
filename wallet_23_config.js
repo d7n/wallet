@@ -1,1 +1,1 @@
-var mnemonic = "tissue hungry pass keep buyer flight parrot plunge spike layer horn rich";
+var mnemonic = "rally gospel evoke sight garbage lock end daughter trick slide crack tone";

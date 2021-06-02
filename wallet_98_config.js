@@ -1,1 +1,1 @@
-var mnemonic = "relief private script charge quick blood robust heavy frost expire language unfold";
+var mnemonic = "twelve rule era motor brain submit blur wall guess glory refuse blame";

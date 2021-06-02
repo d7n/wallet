@@ -1,1 +1,1 @@
-var mnemonic = "ridge find soup punch slogan transfer forward depth solid blind resource exist";
+var mnemonic = "link symbol gas need club spike friend market spirit unfold bean patient";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle december hip table dream chalk trend tonight capital country pet wonder";
+var mnemonic = "swear north menu loop another dilemma basket subject topple grit undo state";

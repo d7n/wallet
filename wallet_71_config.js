@@ -1,1 +1,1 @@
-var mnemonic = "rather future mom goddess manage slice idea there morning adult kitchen glide";
+var mnemonic = "lumber trap trial empty fashion february few region dry staff place excuse";

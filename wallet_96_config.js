@@ -1,1 +1,1 @@
-var mnemonic = "liar kite virtual modify voyage peasant draw cradle velvet curtain metal spare";
+var mnemonic = "prison marriage drift wash ceiling area couch abstract vocal early marble file";

@@ -1,1 +1,1 @@
-var mnemonic = "produce item this appear sense word cabbage country way often suffer actor";
+var mnemonic = "proud because analyst mutual marriage blast village visit device coil mimic vicious";

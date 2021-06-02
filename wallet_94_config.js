@@ -1,1 +1,1 @@
-var mnemonic = "truck become hockey inhale annual topple file captain unfair rhythm poet dinosaur";
+var mnemonic = "few yellow voyage turn detail author until lock include foot balance elder";

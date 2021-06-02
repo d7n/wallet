@@ -1,1 +1,1 @@
-var mnemonic = "crouch combine position chair grief orbit alone quarter item august boat chunk";
+var mnemonic = "dune few three shove dinosaur toward hollow foam mobile sponsor float document";

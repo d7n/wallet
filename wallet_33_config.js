@@ -1,1 +1,1 @@
-var mnemonic = "hole twin critic eager steak crazy glue trick jeans true faculty art";
+var mnemonic = "message reflect evidence spawn turtle sustain foot weird drama velvet genius yellow";

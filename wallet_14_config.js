@@ -1,1 +1,1 @@
-var mnemonic = "mail shine caught moment soup trend inject sketch page doll mix attract";
+var mnemonic = "view pig memory wash enrich online scene agent flag jelly wife fork";

@@ -1,1 +1,1 @@
-var mnemonic = "trial cactus dream dress banner drill feel jaguar swim blanket school dignity";
+var mnemonic = "marriage elder opera meadow pistol process bundle puppy tomato lottery mutual swallow";

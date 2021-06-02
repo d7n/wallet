@@ -1,1 +1,1 @@
-var mnemonic = "wide liquid viable blossom alcohol soccer solid defy cable mammal basic bullet";
+var mnemonic = "arena trend hero bag destroy snow inside ketchup detail ask cart swear";

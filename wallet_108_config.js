@@ -1,1 +1,1 @@
-var mnemonic = "mammal border vendor disagree fold joke arena business void castle public reunion";
+var mnemonic = "zero exact space machine ankle modify tomorrow bird december cube vivid coffee";

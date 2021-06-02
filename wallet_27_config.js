@@ -1,1 +1,1 @@
-var mnemonic = "fluid travel reason agree medal announce coconut human various gravity cousin next";
+var mnemonic = "cancel picnic remember february edit picnic enforce amount fee shock power pen";

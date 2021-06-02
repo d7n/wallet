@@ -1,1 +1,1 @@
-var mnemonic = "oak course police recall toast stick frequent normal front diamond record poem";
+var mnemonic = "stone april entry proof yard bus nominee expand aisle pledge cram cream";

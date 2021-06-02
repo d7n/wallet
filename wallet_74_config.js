@@ -1,1 +1,1 @@
-var mnemonic = "canvas before obey parent table spider basic side various town profit vessel";
+var mnemonic = "forest else castle bubble funny alarm claim prosper observe suspect antenna digital";

@@ -1,1 +1,1 @@
-var mnemonic = "game convince viable screen quick edit suffer romance noodle ring believe increase";
+var mnemonic = "bridge prepare orange dose tiny twist sting humble jungle error piano afraid";

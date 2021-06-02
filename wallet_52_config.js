@@ -1,1 +1,1 @@
-var mnemonic = "scrub kick pizza able evolve rice play actual lyrics addict muscle average";
+var mnemonic = "simple live scissors inherit mechanic eager forward chat rebel put submit athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral roof jealous keen mansion napkin love caught retire kingdom forest prevent";
+var mnemonic = "enlist prevent fresh inhale shift tell whisper object two divorce early heart";

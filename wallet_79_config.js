@@ -1,1 +1,1 @@
-var mnemonic = "crouch shy tube elder glass work midnight river stand impose pink follow";
+var mnemonic = "front virus slight lizard broccoli crouch seat fatal unlock lesson eager act";

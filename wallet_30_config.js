@@ -1,1 +1,1 @@
-var mnemonic = "rubber alien pool awful supreme install left primary diet spice lava churn";
+var mnemonic = "source worth broom month wood twin situate decrease mimic scrap husband change";

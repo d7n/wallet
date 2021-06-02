@@ -1,1 +1,1 @@
-var mnemonic = "arm alone print sample brave position sadness stairs pink vicious feature whale";
+var mnemonic = "culture build pretty violin relief fury ugly learn humor diamond mass similar";

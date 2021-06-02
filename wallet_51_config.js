@@ -1,1 +1,1 @@
-var mnemonic = "artist eternal find card sunset spend nerve wet spawn caught purse toy";
+var mnemonic = "spin fiction quick iron desk bar artwork neck fee course safe lion";

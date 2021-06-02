@@ -1,1 +1,1 @@
-var mnemonic = "wagon rhythm burden obey wife remind concert month fish welcome produce run";
+var mnemonic = "famous host drive poverty blast someone comic local trade curve denial person";

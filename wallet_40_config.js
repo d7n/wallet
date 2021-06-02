@@ -1,1 +1,1 @@
-var mnemonic = "initial task shell edge vacant stumble arm middle nose subject evolve grace";
+var mnemonic = "game assault tool belt stadium much shoot card hire economy uncover boil";

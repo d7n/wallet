@@ -1,1 +1,1 @@
-var mnemonic = "claw blast flag acquire muscle entry assault funny buzz rather soccer penalty";
+var mnemonic = "bonus sorry pool shiver filter clever royal extra narrow ski fiber client";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle remember fatigue shield canoe grain depart coin wire joke wife lesson";
+var mnemonic = "accuse table idea airport immense dinosaur cream verb grow taxi assume garment";

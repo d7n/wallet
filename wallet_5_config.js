@@ -1,1 +1,1 @@
-var mnemonic = "kidney pill snake health marble purpose unfold water valve tongue ethics blush";
+var mnemonic = "expose cross wing seat dirt farm cheese fruit hurry promote charge layer";

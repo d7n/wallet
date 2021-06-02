@@ -1,1 +1,1 @@
-var mnemonic = "shoulder other gloom try copper lunar dune crop pact turtle summer goat";
+var mnemonic = "jump chest pigeon weird adjust imitate subject odor sick belt modify black";

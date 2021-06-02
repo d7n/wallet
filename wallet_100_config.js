@@ -1,1 +1,1 @@
-var mnemonic = "depart mammal mean armed federal latin citizen weasel submit auto health lift";
+var mnemonic = "ticket before month craft hawk comic since gold across diary type later";

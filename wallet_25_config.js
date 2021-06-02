@@ -1,1 +1,1 @@
-var mnemonic = "party course describe echo square raw mass flame fuel flower apple energy";
+var mnemonic = "stadium fury weapon faint voyage panic cute garment unit armed demise prison";

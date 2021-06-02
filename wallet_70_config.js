@@ -1,1 +1,1 @@
-var mnemonic = "satoshi leave eternal sauce name canyon eye regular debris position cotton album";
+var mnemonic = "crystal arrow used awesome fire naive lift profit control punch whisper empty";

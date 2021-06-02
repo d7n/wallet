@@ -1,1 +1,1 @@
-var mnemonic = "wage offer perfect upon vintage fine victory order cup pulp embark captain";
+var mnemonic = "exist field gorilla pig error cloth virtual honey sick poet couple awake";

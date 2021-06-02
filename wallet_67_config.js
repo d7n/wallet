@@ -1,1 +1,1 @@
-var mnemonic = "drill empower outdoor diesel zero nerve teach panther web check steel trim";
+var mnemonic = "kangaroo flight access curious carry owner tray square impulse miracle any sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler dumb rug catalog ivory nut speak angry usage hand measure divorce";
+var mnemonic = "dirt liquid parent sick slim east motor already extra frozen order face";

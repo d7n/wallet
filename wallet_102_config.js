@@ -1,1 +1,1 @@
-var mnemonic = "remain enter endless old whip orange peanut seat vacuum account flight addict";
+var mnemonic = "hurry assault scale plug include alien spread cigar doll october keep annual";

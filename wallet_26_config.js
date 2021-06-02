@@ -1,1 +1,1 @@
-var mnemonic = "just increase pitch audit rifle ghost just property riot learn town gadget";
+var mnemonic = "junk hen route mother crack gentle dentist guide donor auction dove water";

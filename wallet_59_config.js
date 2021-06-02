@@ -1,1 +1,1 @@
-var mnemonic = "cube cup alarm peasant sniff over horse skill rug safe grab cereal";
+var mnemonic = "document slender nephew accuse useful trial dizzy permit country person behind eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious nasty frame enrich brave perfect road demand hour urban push tribe";
+var mnemonic = "pottery draft love exclude lizard planet planet kitten moon cabbage multiply dolphin";

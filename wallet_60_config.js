@@ -1,1 +1,1 @@
-var mnemonic = "human decline change pet note fever shift census almost claim uphold clay";
+var mnemonic = "reason step boy mention web brave glory random soap crouch blue mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "elder photo sunset setup choose short funny jungle order clinic minor bridge";
+var mnemonic = "broken moon congress resemble velvet habit media blur tape zero long hurdle";

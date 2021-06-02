@@ -1,1 +1,1 @@
-var mnemonic = "blind leader twist simple video fossil bonus kitten behind beef town square";
+var mnemonic = "duck mother ozone service law draw morning bronze stove mango disease heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "gun model boat depth culture army orient trophy balcony know school asset";
+var mnemonic = "moment increase fortune dinosaur bracket section glove bleak purchase zone soccer cook";

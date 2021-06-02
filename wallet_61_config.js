@@ -1,1 +1,1 @@
-var mnemonic = "gospel sweet orange talent indoor inject truck account hammer tribe shadow crisp";
+var mnemonic = "draft direct settle fall limit denial element indicate embark sun jazz pencil";

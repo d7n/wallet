@@ -1,1 +1,1 @@
-var mnemonic = "brush isolate gain anchor net razor draft sleep auto little outdoor guess";
+var mnemonic = "maximum stock viable vehicle shell talent citizen armor truth law exercise this";
