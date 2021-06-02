@@ -1,1 +1,1 @@
-var mnemonic = "what label dragon logic above wine lake render photo truth front vehicle";
+var mnemonic = "vessel current charge simple wedding peasant dawn include crystal grant country again";

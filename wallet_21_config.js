@@ -1,1 +1,1 @@
-var mnemonic = "pass fault balcony ivory soda attend vital raccoon media light fever strong";
+var mnemonic = "warrior focus attract blanket february warrior parent typical obvious lonely steel arrive";

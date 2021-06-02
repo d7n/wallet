@@ -1,1 +1,1 @@
-var mnemonic = "amazing arrive toddler floor casino indoor tired bicycle wrong bitter ostrich manual";
+var mnemonic = "town hurdle pistol trouble undo ceiling next note estate book garbage unlock";

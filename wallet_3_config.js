@@ -1,1 +1,1 @@
-var mnemonic = "divert vicious torch never public infant behave lawsuit festival forum escape analyst";
+var mnemonic = "senior slight battle retreat hundred target digital clerk shuffle essay feature shift";

@@ -1,1 +1,1 @@
-var mnemonic = "steel off start vanish inherit warrior predict abuse track tourist milk annual";
+var mnemonic = "chest sister post void predict repeat shadow demise escape exhaust between town";

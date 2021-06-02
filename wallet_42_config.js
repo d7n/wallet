@@ -1,1 +1,1 @@
-var mnemonic = "topic token flag lion mass heart submit curious pony open claim winner";
+var mnemonic = "chicken exit grace review ripple hurry fuel novel sunset loop identify cash";

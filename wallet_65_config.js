@@ -1,1 +1,1 @@
-var mnemonic = "need acquire suspect cabbage ring food reunion legal course blue wrestle feed";
+var mnemonic = "broom crouch stone wait embark turtle mushroom width autumn parent describe buyer";

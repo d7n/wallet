@@ -1,1 +1,1 @@
-var mnemonic = "brick champion spoil exchange play valley goddess youth involve fix pitch equip";
+var mnemonic = "ridge ladder retreat scout young damage entire hello glass rare fancy equip";

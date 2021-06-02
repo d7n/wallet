@@ -1,1 +1,1 @@
-var mnemonic = "alone squirrel ship become minute supply science gift vital shoulder defense duck";
+var mnemonic = "amused dog volcano soldier test volume property chicken brother want transfer honey";

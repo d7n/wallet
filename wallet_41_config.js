@@ -1,1 +1,1 @@
-var mnemonic = "hen tennis pipe year make top rich throw rain sing sport aisle";
+var mnemonic = "admit syrup cable net physical salt sting oyster prevent bullet process know";

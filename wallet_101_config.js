@@ -1,1 +1,1 @@
-var mnemonic = "turkey rebuild rigid toe equip control funny digital expand atom invite alert";
+var mnemonic = "degree gauge deal voice run chaos custom remove talent thing loop grass";

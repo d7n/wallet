@@ -1,1 +1,1 @@
-var mnemonic = "pistol remain budget tornado hill mutual ocean evidence defy banner tuna there";
+var mnemonic = "fuel cigar crazy swap blade ripple congress flight alley fruit opinion own";

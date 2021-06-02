@@ -1,1 +1,1 @@
-var mnemonic = "version more canyon great orchard ship swim shell deal barely crack once";
+var mnemonic = "reward symptom obey whale message wreck floor idea danger baby fitness girl";

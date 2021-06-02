@@ -1,1 +1,1 @@
-var mnemonic = "exchange popular surface fresh august body hip humor luggage bacon company inner";
+var mnemonic = "suffer medal exact celery leader quick artefact defy sketch soda rack okay";

@@ -1,1 +1,1 @@
-var mnemonic = "empty differ trip casino mushroom injury shaft coil eyebrow force vicious demise";
+var mnemonic = "under escape long output walk super orange insect away catalog fetch problem";

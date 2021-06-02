@@ -1,1 +1,1 @@
-var mnemonic = "genius dry brief advance always mouse danger marble guess hold screen vanish";
+var mnemonic = "rebuild fold problem repeat speak satisfy bone cable version soon apart slender";

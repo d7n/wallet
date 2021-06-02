@@ -1,1 +1,1 @@
-var mnemonic = "mention rate lamp win summer tomorrow toast kangaroo candy decrease armed force";
+var mnemonic = "cover daring pond success fatigue detail board diamond decide debris adapt cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran awesome service present number beauty satisfy alarm submit fish ceiling proud";
+var mnemonic = "cinnamon phrase multiply rescue puppy joke afford tongue hollow barely column thunder";

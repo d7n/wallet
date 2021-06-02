@@ -1,1 +1,1 @@
-var mnemonic = "nuclear clever cube scale odor call symptom top thing guitar pulse host";
+var mnemonic = "also age prosper crush north punch orphan assume myth cheap kangaroo legal";

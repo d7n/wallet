@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon truth stuff tide lake diagram palm second border sauce online task";
+var mnemonic = "warfare clap faint laptop panel cook donate topic borrow dentist need protect";

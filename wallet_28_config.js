@@ -1,1 +1,1 @@
-var mnemonic = "rubber humor library riot public plug weather tourist gentle income arrange fox";
+var mnemonic = "country meat run hundred tail suit become reunion pact swap armed fringe";

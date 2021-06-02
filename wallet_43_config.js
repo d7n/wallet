@@ -1,1 +1,1 @@
-var mnemonic = "behind confirm moral outdoor lend screen spawn food link script where easy";
+var mnemonic = "bottom grain awful simple tortoise torch sleep version more pulse kitten infant";

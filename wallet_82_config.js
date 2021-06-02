@@ -1,1 +1,1 @@
-var mnemonic = "portion razor kiss note wise weapon scheme sound neutral common easy between";
+var mnemonic = "world raise auto hobby seat inside rigid grant knife vicious harvest mix";

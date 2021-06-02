@@ -1,1 +1,1 @@
-var mnemonic = "burden panda robust rent grief fetch surge layer bacon safe walnut miracle";
+var mnemonic = "slot face lend cliff item innocent cake edge gossip alarm zebra neglect";

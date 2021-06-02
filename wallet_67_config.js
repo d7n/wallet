@@ -1,1 +1,1 @@
-var mnemonic = "theme strong sister scissors program hat egg expire pipe grid disorder element";
+var mnemonic = "kite core pizza predict emotion body shock they mammal point only apology";

@@ -1,1 +1,1 @@
-var mnemonic = "west between baby hazard detect text grief child wool vendor van hard";
+var mnemonic = "gas behave say curve chef razor outside glove prepare fantasy arctic float";

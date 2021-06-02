@@ -1,1 +1,1 @@
-var mnemonic = "favorite immune speak bonus century purchase old plate egg fly arrow flame";
+var mnemonic = "art mandate pluck review winner patient clinic biology modify term defense enroll";

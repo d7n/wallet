@@ -1,1 +1,1 @@
-var mnemonic = "receive rude image used sibling first stage cannon steak day jump copy";
+var mnemonic = "address cry position amateur luxury fit educate like phrase evil enforce hamster";

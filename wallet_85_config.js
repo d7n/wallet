@@ -1,1 +1,1 @@
-var mnemonic = "social plastic tobacco mask actor spice broken brave rent soldier museum argue";
+var mnemonic = "super flavor horror credit ladder credit goose pencil scene thunder finish hobby";

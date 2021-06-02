@@ -1,1 +1,1 @@
-var mnemonic = "ankle uniform catalog oak cliff cruel advice never trust wrong there subject";
+var mnemonic = "february thing nation novel wear system mosquito volcano dad ball ten misery";

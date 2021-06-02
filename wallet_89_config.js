@@ -1,1 +1,1 @@
-var mnemonic = "armor birth arctic organ loud actual kit tomato bargain tail egg legend";
+var mnemonic = "brisk inner lesson shell habit vault wise spread lazy museum author grant";

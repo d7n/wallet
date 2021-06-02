@@ -1,1 +1,1 @@
-var mnemonic = "famous monkey dog cute cup toy six vapor federal peanut guard ahead";
+var mnemonic = "ticket tissue choice shoot assume blind essence night stick canal almost gallery";

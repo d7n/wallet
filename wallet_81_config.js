@@ -1,1 +1,1 @@
-var mnemonic = "thunder silver output frost rack jealous table tired rich sheriff siege shine";
+var mnemonic = "endless demand echo check lazy ten pet antenna tent company dove render";

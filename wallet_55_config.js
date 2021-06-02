@@ -1,1 +1,1 @@
-var mnemonic = "else vibrant mother length pen mouse you blur supply extend volume hurdle";
+var mnemonic = "rude boat decline summer blur exist enact acid treat spoon make gun";

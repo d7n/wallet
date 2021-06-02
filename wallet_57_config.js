@@ -1,1 +1,1 @@
-var mnemonic = "accuse sorry matrix scorpion hamster put daughter main slow silly jelly rocket";
+var mnemonic = "brief hazard veteran tuition mobile fiction top drop sense service ostrich absurd";

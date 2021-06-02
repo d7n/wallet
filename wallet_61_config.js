@@ -1,1 +1,1 @@
-var mnemonic = "doctor prefer solution crush faith grit country enhance dance load brief bag";
+var mnemonic = "garment lottery focus actress lobster soda pupil course estate response submit kidney";

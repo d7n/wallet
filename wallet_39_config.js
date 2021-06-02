@@ -1,1 +1,1 @@
-var mnemonic = "alley lunch fatigue hard snack room polar state wrist child depth achieve";
+var mnemonic = "project rice pear salad devote maid govern pact mountain actual clutch paper";

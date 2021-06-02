@@ -1,1 +1,1 @@
-var mnemonic = "art busy alter play patch example ranch wrap rely stand dinner point";
+var mnemonic = "lady pledge shield rigid destroy alcohol deposit act mixture eternal eagle cargo";

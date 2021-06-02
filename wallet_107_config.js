@@ -1,1 +1,1 @@
-var mnemonic = "copy fringe inch cargo brick chapter citizen frozen select wreck phone palace";
+var mnemonic = "short poet useful carry fit matrix penalty rotate universe oven mother stool";

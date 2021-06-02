@@ -1,1 +1,1 @@
-var mnemonic = "stuff reject mail fossil author hair wrong plug truck cup stamp say";
+var mnemonic = "often allow path obscure repair drive flock solution hard route refuse engine";

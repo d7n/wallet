@@ -1,1 +1,1 @@
-var mnemonic = "struggle grace giant mean above song potato shell fury custom home welcome";
+var mnemonic = "build involve toilet skill tooth very huge album hybrid wing cattle fortune";

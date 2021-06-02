@@ -1,1 +1,1 @@
-var mnemonic = "fuel crowd floor letter method upper dice behind purpose congress march regret";
+var mnemonic = "disorder green among journey lion stool session quick angry airport fluid rapid";

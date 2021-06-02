@@ -1,1 +1,1 @@
-var mnemonic = "soda stable mercy short run poem rocket palm link coach slim couple";
+var mnemonic = "bullet thunder east crawl wet month into pencil present month hungry supply";

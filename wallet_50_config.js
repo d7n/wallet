@@ -1,1 +1,1 @@
-var mnemonic = "awesome fix crazy empower wise thank brisk logic orchard bind shrug upset";
+var mnemonic = "mask pilot cactus treat label misery expire squirrel coffee chuckle pulp average";

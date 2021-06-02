@@ -1,1 +1,1 @@
-var mnemonic = "industry organ tunnel oven near weapon case chimney city hotel walnut coffee";
+var mnemonic = "card spoil roast digital focus tell peasant legend eight upper lazy manage";

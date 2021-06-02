@@ -1,1 +1,1 @@
-var mnemonic = "denial tower enroll coconut giant buyer share quiz castle false federal chef";
+var mnemonic = "confirm tilt lemon punch remain wage solid relax vacant long strong system";

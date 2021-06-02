@@ -1,1 +1,1 @@
-var mnemonic = "work below cinnamon pigeon inflict artwork fee evil visit picture motion wet";
+var mnemonic = "receive come stairs submit word nation below aspect observe voyage fault now";

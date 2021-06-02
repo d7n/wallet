@@ -1,1 +1,1 @@
-var mnemonic = "century crew because bamboo predict movie beach cement slam churn love garage";
+var mnemonic = "kitchen adjust twist bring bid very piano cycle regular swing special scare";

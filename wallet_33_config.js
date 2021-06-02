@@ -1,1 +1,1 @@
-var mnemonic = "help swear tumble gate end wise carpet wage biology also beach blouse";
+var mnemonic = "begin bitter fan perfect tube payment cricket other crazy ketchup street vast";

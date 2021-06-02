@@ -1,1 +1,1 @@
-var mnemonic = "mesh confirm outside turtle mad young fog trust review bundle amused mechanic";
+var mnemonic = "tip trigger fossil smoke gap proud prefer rebel tent minimum viable curve";

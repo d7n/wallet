@@ -1,1 +1,1 @@
-var mnemonic = "please swim slot spot wait regret element warm rich rally volume arena";
+var mnemonic = "grunt useless still outside wealth pulp narrow topic accident child trophy mistake";

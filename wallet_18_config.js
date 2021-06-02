@@ -1,1 +1,1 @@
-var mnemonic = "right faith knee music voice trigger auto front volcano such render uphold";
+var mnemonic = "marble rain wise gate rich carpet clock fiscal attract describe slim cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "silent involve uniform gallery leave among pig exile coyote mechanic display derive";
+var mnemonic = "taste notice host firm another empower tower plate dawn shell impose embody";

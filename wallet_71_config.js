@@ -1,1 +1,1 @@
-var mnemonic = "hundred tank scout hobby coin zoo vital bargain episode post onion verify";
+var mnemonic = "make cliff month flee ribbon slow derive immune crush issue near mother";

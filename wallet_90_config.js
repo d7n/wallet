@@ -1,1 +1,1 @@
-var mnemonic = "edge fan virus bubble tag gain pill boost remind leopard census weird";
+var mnemonic = "average track acoustic vacant mind potato lyrics vault wood kite expand merry";

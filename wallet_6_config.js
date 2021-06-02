@@ -1,1 +1,1 @@
-var mnemonic = "steel forest guess stove aspect ridge river output arrive lobster pause maze";
+var mnemonic = "bind duty ankle deer dice burst strategy alcohol category assist option axis";

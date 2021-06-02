@@ -1,1 +1,1 @@
-var mnemonic = "twice illness helmet ill stone unhappy lemon increase ketchup say ladder obvious";
+var mnemonic = "mail kiss attend wolf oyster cricket burger few crisp toddler lift appear";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid obscure earth burst force donkey anger submit august weird play embark";
+var mnemonic = "visa camp jeans peace grab clip hobby marble cycle hand coconut loan";

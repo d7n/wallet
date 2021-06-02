@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mask into glory phrase surge material fence inspire cycle target wrestle";
+var mnemonic = "merry caught flame come thought please jealous hill mesh round fan enemy";

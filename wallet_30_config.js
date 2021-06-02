@@ -1,1 +1,1 @@
-var mnemonic = "armed program shock athlete diary leave soft nuclear frequent thrive tonight patrol";
+var mnemonic = "notable ball high dragon endorse someone protect identify hurdle review consider company";

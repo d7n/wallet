@@ -1,1 +1,1 @@
-var mnemonic = "reason viable slam salute whip swallow alarm bargain control road decrease high";
+var mnemonic = "infant keen better region permit speed balance shop brush private swap floor";

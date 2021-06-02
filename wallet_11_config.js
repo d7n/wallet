@@ -1,1 +1,1 @@
-var mnemonic = "loop carbon trick fancy pony glimpse wear october measure win chuckle amazing";
+var mnemonic = "loud angry across tumble person enforce team ripple father twin suffer route";

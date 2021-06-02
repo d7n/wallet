@@ -1,1 +1,1 @@
-var mnemonic = "eye slender solve dad infant addict fashion predict lock goddess defy gadget";
+var mnemonic = "endorse churn galaxy receive armor toddler argue dirt nurse wreck crew estate";

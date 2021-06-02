@@ -1,1 +1,1 @@
-var mnemonic = "amazing vacuum noodle clutch enlist mix endless room help insane ill glimpse";
+var mnemonic = "october best picnic soon humor trade emotion cinnamon cost mobile pass team";

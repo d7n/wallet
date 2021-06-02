@@ -1,1 +1,1 @@
-var mnemonic = "side illegal federal auto pipe donor fluid album depth cycle inquiry hint";
+var mnemonic = "water sting endorse labor dilemma shift river ethics silk sphere honey virtual";

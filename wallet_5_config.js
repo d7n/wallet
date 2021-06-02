@@ -1,1 +1,1 @@
-var mnemonic = "champion stamp empower pair toward senior random census equip search shock rebuild";
+var mnemonic = "balcony custom female suspect smart hungry involve fence gate maze trophy token";

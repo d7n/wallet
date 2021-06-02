@@ -1,1 +1,1 @@
-var mnemonic = "today actor illness paddle grape three service rely write uncover mail illegal";
+var mnemonic = "robust volume this canvas clap pact outdoor cute job crouch copy false";

@@ -1,1 +1,1 @@
-var mnemonic = "clown patch verb idle slight cash giraffe monster side spin also curve";
+var mnemonic = "usual tobacco enjoy music reopen much curious moral clip margin unable act";

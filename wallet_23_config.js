@@ -1,1 +1,1 @@
-var mnemonic = "thought spice bid option father ecology regret lawn obtain track retire veteran";
+var mnemonic = "error egg toward they ecology divorce tenant release boss tag estate region";

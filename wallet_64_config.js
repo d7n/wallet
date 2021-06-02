@@ -1,1 +1,1 @@
-var mnemonic = "utility gaze holiday entry flat joke brick fall barrel gadget lady clever";
+var mnemonic = "liar swear require spring way voyage salad bundle hover corn meadow canal";

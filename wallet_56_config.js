@@ -1,1 +1,1 @@
-var mnemonic = "pill nerve subway apple vacuum vehicle reunion saddle under shaft panel oyster";
+var mnemonic = "lounge december offer adapt indoor memory embody stairs loop shield wave lucky";

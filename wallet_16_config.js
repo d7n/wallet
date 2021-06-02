@@ -1,1 +1,1 @@
-var mnemonic = "chimney caught decline stomach job avoid focus final yard kingdom convince cycle";
+var mnemonic = "foot nut aim mail invite above sheriff any quantum field fragile category";

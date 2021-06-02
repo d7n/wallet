@@ -1,1 +1,1 @@
-var mnemonic = "soap can penalty kind acoustic anxiety season gaze genre cabin annual age";
+var mnemonic = "someone decrease neither alarm garbage fine sustain betray remove axis silent jump";

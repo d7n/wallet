@@ -1,1 +1,1 @@
-var mnemonic = "snap fork label exhaust attitude member north slide bird soon street physical";
+var mnemonic = "outdoor allow only cry angry punch magic rack camp still share seek";

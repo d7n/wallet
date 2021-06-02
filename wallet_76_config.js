@@ -1,1 +1,1 @@
-var mnemonic = "update license sport spirit ahead ice draw danger equip finger romance honey";
+var mnemonic = "sure conduct chest report clock special core cash mad evidence hole sun";

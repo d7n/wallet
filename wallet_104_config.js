@@ -1,1 +1,1 @@
-var mnemonic = "run feel shed casino anger key column book cigar crime pledge vocal";
+var mnemonic = "conduct flip doctor scrap sadness palm dignity able combine spray trade cage";

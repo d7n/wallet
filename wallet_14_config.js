@@ -1,1 +1,1 @@
-var mnemonic = "clown stove cram lake attitude other foot ensure clay foam bounce kind";
+var mnemonic = "offer small danger lamp police knock weird brief ocean resist creek during";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bird media forest cupboard kind firm portion speak wise goddess rapid";
+var mnemonic = "region pave antenna fly renew region debate resist cancel monster medal license";

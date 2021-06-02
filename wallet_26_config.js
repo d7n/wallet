@@ -1,1 +1,1 @@
-var mnemonic = "cake horse rally input enrich pulse copy wreck able waste leg access";
+var mnemonic = "stumble idea risk same pottery media cook casual pluck winner case neutral";

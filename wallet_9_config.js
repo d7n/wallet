@@ -1,1 +1,1 @@
-var mnemonic = "someone grape bracket feature donor always execute order around magnet dance scrub";
+var mnemonic = "egg behind congress cupboard senior volcano syrup hazard pepper donor ordinary motion";

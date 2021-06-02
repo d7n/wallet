@@ -1,1 +1,1 @@
-var mnemonic = "theory garlic audit meadow silent smart stone worry tattoo wagon release infant";
+var mnemonic = "slice rely frown street unveil muffin enact spider brave tongue siren disagree";

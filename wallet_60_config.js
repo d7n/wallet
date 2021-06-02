@@ -1,1 +1,1 @@
-var mnemonic = "host aspect april steel pumpkin wing spin bring skin dad mouse silver";
+var mnemonic = "junior eight nominee naive blast fury east citizen caught two puzzle ring";

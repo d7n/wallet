@@ -1,1 +1,1 @@
-var mnemonic = "rookie south blue dirt promote pilot usual conduct axis kiwi coin adult";
+var mnemonic = "ridge inform box pass equip help diary pull case room expire woman";
