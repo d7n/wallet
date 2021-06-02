@@ -1,1 +1,1 @@
-var mnemonic = "promote wall couple ecology supply urban jazz also fork zero doll antenna";
+var mnemonic = "rocket horn vibrant before hub ketchup sell wing brother flag mansion network";

@@ -1,1 +1,1 @@
-var mnemonic = "rural allow typical poet hover uncover winter more dirt walnut wall lawn";
+var mnemonic = "bridge drive sheriff able flush gravity knee distance elder prize army afford";

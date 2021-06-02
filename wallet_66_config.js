@@ -1,1 +1,1 @@
-var mnemonic = "rich very absorb resist hybrid blade service climb parrot require local gym";
+var mnemonic = "tone couple ensure spend ill wheel talk defense enemy simple divert anchor";

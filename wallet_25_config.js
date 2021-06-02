@@ -1,1 +1,1 @@
-var mnemonic = "latin come sound often thought stock front obtain enroll nominee enlist exclude";
+var mnemonic = "begin aisle fly present parrot dry category jelly unit false food project";

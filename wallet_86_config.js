@@ -1,1 +1,1 @@
-var mnemonic = "property skill twelve cheese dismiss august tiger glimpse sample all symptom describe";
+var mnemonic = "soul noble such enrich kingdom unusual supply ivory wrist mixture summer almost";

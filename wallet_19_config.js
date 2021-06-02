@@ -1,1 +1,1 @@
-var mnemonic = "fall street total flavor scare chunk three merit valley slow glue expire";
+var mnemonic = "attend chair gold skill harbor lizard echo arena pottery patrol polar nest";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling cruel inquiry retire nasty sick enjoy more deer beach october live";
+var mnemonic = "gather chaos govern fortune struggle morning approve race victory still jewel color";

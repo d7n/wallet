@@ -1,1 +1,1 @@
-var mnemonic = "brief humor broom harsh civil glass wagon okay tuna school climb grab";
+var mnemonic = "earn business fun wolf erode oppose soccer live climb trap maximum sorry";

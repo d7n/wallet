@@ -1,1 +1,1 @@
-var mnemonic = "team sort flash fire brother eight tongue around flower ahead rebuild skin";
+var mnemonic = "uniform lizard typical original real wink better dish reveal velvet once fine";

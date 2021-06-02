@@ -1,1 +1,1 @@
-var mnemonic = "rural prepare comfort daring urge alien void until burger fence comfort boring";
+var mnemonic = "hospital friend hunt busy amused shop leisure hundred resource immense adapt column";

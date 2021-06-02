@@ -1,1 +1,1 @@
-var mnemonic = "size tip special unknown forward deny cave pledge gym ripple barely minute";
+var mnemonic = "monitor reward alarm gather slender latin voyage force sheriff news coffee narrow";

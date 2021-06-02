@@ -1,1 +1,1 @@
-var mnemonic = "bunker use news tiger hungry amount lemon puzzle harvest middle reopen olympic";
+var mnemonic = "retire humble laundry fringe fun flavor garment save organ clever thrive usage";

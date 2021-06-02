@@ -1,1 +1,1 @@
-var mnemonic = "ski car divorce gesture fault village combine warrior provide margin debate merge";
+var mnemonic = "dog polar raise tackle label theory rule dog govern lion source blade";

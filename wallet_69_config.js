@@ -1,1 +1,1 @@
-var mnemonic = "round chalk lawn fold notice suit rack dream tiger cliff join play";
+var mnemonic = "version boy law comic vicious advice kite breeze bacon uniform tool air";

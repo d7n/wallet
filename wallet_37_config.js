@@ -1,1 +1,1 @@
-var mnemonic = "hold build flight inmate swallow again crouch soon critic start spell lumber";
+var mnemonic = "foot almost affair crowd happy dish shoulder near dentist arrange deny impulse";

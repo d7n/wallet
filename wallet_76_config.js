@@ -1,1 +1,1 @@
-var mnemonic = "evolve mosquito mechanic dawn knife stem rally palace cherry waste metal pluck";
+var mnemonic = "daughter accuse chicken action impulse army affair wrong multiply august inch idle";

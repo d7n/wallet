@@ -1,1 +1,1 @@
-var mnemonic = "attend nerve post green never grief notice mind shell chaos output injury";
+var mnemonic = "alone sample refuse fire exotic unable silk assist cliff senior comfort empower";

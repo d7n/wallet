@@ -1,1 +1,1 @@
-var mnemonic = "face either nothing catalog enforce joy theme loop garage trash cargo charge";
+var mnemonic = "imitate enough excuse giant curious art kingdom metal utility culture satisfy reunion";

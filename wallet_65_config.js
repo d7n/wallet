@@ -1,1 +1,1 @@
-var mnemonic = "execute crime deliver one climb bone cycle have fox image fence amount";
+var mnemonic = "throw slender isolate unfair dash else sauce muscle weasel method charge arrive";

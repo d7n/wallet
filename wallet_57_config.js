@@ -1,1 +1,1 @@
-var mnemonic = "unique vocal rocket capable sorry mention friend bus catch involve pact easy";
+var mnemonic = "kind mystery shop dynamic decade fitness age zebra side process forget warm";

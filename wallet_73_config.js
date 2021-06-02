@@ -1,1 +1,1 @@
-var mnemonic = "range mail impulse tornado emerge prefer purse neglect wheat planet vacant visa";
+var mnemonic = "language lobster year begin lyrics book panda auction large arm glad true";

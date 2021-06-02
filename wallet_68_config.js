@@ -1,1 +1,1 @@
-var mnemonic = "yard equal bless daring river emerge expire upset angry clip term marine";
+var mnemonic = "teach actor company gaze water fix machine cattle lizard quit grape hello";

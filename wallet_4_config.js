@@ -1,1 +1,1 @@
-var mnemonic = "inform casino evoke pistol never youth regret initial abstract admit apple ice";
+var mnemonic = "poet exchange flock glare chronic ask pottery sense fly skirt soldier describe";

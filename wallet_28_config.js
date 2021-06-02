@@ -1,1 +1,1 @@
-var mnemonic = "tongue pig barely lizard margin invite glass keep cradle wish elbow sunny";
+var mnemonic = "skin pulp race absurd sell daring often buyer embark grass earth hen";

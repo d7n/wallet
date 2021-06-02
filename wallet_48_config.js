@@ -1,1 +1,1 @@
-var mnemonic = "poem rhythm account target save more fluid chair key lady stay history";
+var mnemonic = "rapid image define faculty ethics shrimp avoid target surround across rebuild leaf";

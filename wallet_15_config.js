@@ -1,1 +1,1 @@
-var mnemonic = "ranch embody bring era monkey tortoise tank access brisk champion next key";
+var mnemonic = "sister innocent december margin bounce brother device verb alpha awake cheese north";

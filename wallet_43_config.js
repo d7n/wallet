@@ -1,1 +1,1 @@
-var mnemonic = "fee private enjoy genuine word common glimpse knee one unusual track word";
+var mnemonic = "cliff clever snow place merit step million vacant city wasp alpha clerk";

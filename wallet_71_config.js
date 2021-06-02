@@ -1,1 +1,1 @@
-var mnemonic = "process nephew drift subway force state evil sad nose oven ranch morning";
+var mnemonic = "vanish betray banana large bomb social crystal outdoor page month plate camera";

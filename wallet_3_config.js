@@ -1,1 +1,1 @@
-var mnemonic = "lion proud nominee spawn manual layer asthma capital august pattern snake exercise";
+var mnemonic = "useful scrub smoke cup hill lion toilet saddle evidence extend one relief";

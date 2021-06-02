@@ -1,1 +1,1 @@
-var mnemonic = "people meat between virus reflect salute office plastic treat bulb decide uncle";
+var mnemonic = "jeans shop cube guilt rent remember label balance labor bubble magic shell";

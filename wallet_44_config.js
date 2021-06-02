@@ -1,1 +1,1 @@
-var mnemonic = "shuffle cover hint laugh east gauge discover bargain endless upset ability wheel";
+var mnemonic = "sausage slender silver mobile city develop enlist road sand catalog virtual reunion";

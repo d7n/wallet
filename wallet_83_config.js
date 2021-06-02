@@ -1,1 +1,1 @@
-var mnemonic = "educate cloud sock film clinic lonely nation diagram result act pencil hat";
+var mnemonic = "priority bonus ecology faint bring rose charge alter census remember job banner";

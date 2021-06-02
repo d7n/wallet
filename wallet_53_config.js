@@ -1,1 +1,1 @@
-var mnemonic = "pool proud snow absent nation poet nuclear icon sure enlist hazard mesh";
+var mnemonic = "nice please time royal deliver industry solid rifle foot treat wrist early";

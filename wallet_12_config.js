@@ -1,1 +1,1 @@
-var mnemonic = "explain drop pledge water grid valve drop venue globe soap pear pupil";
+var mnemonic = "vapor provide obvious walnut diamond donkey wonder seat joke cruel miracle candy";

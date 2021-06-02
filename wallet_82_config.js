@@ -1,1 +1,1 @@
-var mnemonic = "truly flush fortune excuse salt forest monitor supply accident crowd solar achieve";
+var mnemonic = "boss plastic title middle member stick bargain exile diamond mushroom punch return";

@@ -1,1 +1,1 @@
-var mnemonic = "social winner phone deal wild tip small black load sound glue easy";
+var mnemonic = "rebuild dance cook place supply behave truck organ thing expand attend stereo";

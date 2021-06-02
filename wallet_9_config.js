@@ -1,1 +1,1 @@
-var mnemonic = "device interest spread inspire spoon trigger balcony globe live kitten marriage light";
+var mnemonic = "stairs write ritual length scrap switch unknown version atom demand reveal wisdom";

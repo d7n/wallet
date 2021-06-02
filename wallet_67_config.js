@@ -1,1 +1,1 @@
-var mnemonic = "shuffle cable grain media arctic enforce measure liquid celery perfect october buzz";
+var mnemonic = "lab matrix around drill kick absurd course height census boat fuel pledge";

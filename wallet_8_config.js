@@ -1,1 +1,1 @@
-var mnemonic = "slim pattern gadget animal festival jungle toe mechanic blast ring task degree";
+var mnemonic = "maze clerk setup hip frozen plug post soon simple youth maple orchard";

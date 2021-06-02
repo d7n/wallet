@@ -1,1 +1,1 @@
-var mnemonic = "satisfy exotic rug prefer glow hockey cabin treat blue dish noise foil";
+var mnemonic = "key sunny true twice crunch crunch material nominee ladder cake average help";

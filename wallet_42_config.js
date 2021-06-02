@@ -1,1 +1,1 @@
-var mnemonic = "symbol caught sting rude drill fancy company snow brisk goose round square";
+var mnemonic = "celery have quote pave slam wheel grief million sustain invite limit bundle";

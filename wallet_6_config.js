@@ -1,1 +1,1 @@
-var mnemonic = "spy canvas stuff scrub pill risk flame razor holiday angry clerk release";
+var mnemonic = "between violin myth tragic muffin swap affair pistol acquire milk field divorce";

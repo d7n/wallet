@@ -1,1 +1,1 @@
-var mnemonic = "hamster fringe toe doctor caught lumber lyrics negative own swift same ahead";
+var mnemonic = "unlock peanut audit seat exotic caught address denial melody same bulk cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "master replace almost theory solar health host run wine stool cost exclude";
+var mnemonic = "odor gesture urban bridge genuine fence require patrol manual basket tag slim";

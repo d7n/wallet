@@ -1,1 +1,1 @@
-var mnemonic = "upon author tragic close stumble warrior olympic dignity flip speed hedgehog lounge";
+var mnemonic = "visual elder wise permit point drum kangaroo wide noble milk spin fun";

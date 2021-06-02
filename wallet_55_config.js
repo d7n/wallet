@@ -1,1 +1,1 @@
-var mnemonic = "pottery maple zero resource bird quote moment wasp badge board merry day";
+var mnemonic = "fence target fringe sense price moment wing laundry giraffe patrol nuclear habit";

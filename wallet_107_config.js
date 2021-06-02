@@ -1,1 +1,1 @@
-var mnemonic = "rain mixed define door fiscal strike enforce snow twelve illness naive honey";
+var mnemonic = "idea naive hidden village nurse ball advance rule reward weapon able hold";

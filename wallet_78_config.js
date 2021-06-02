@@ -1,1 +1,1 @@
-var mnemonic = "jacket sweet mountain inch diesel pill history damp pull blush mule aspect";
+var mnemonic = "glare razor vintage oppose over toss ball grit brother crush wish tiny";

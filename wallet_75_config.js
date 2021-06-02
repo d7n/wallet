@@ -1,1 +1,1 @@
-var mnemonic = "bounce toss involve belt arrow earth across route deliver beauty tuition fresh";
+var mnemonic = "razor field melody render resource blue wheat fork mad worry cheese gate";

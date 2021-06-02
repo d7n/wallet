@@ -1,1 +1,1 @@
-var mnemonic = "wreck pupil fine recall valve hard stereo venue one pony fiction crack";
+var mnemonic = "kick cake element fantasy lyrics tattoo report gap base repair midnight become";

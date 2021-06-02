@@ -1,1 +1,1 @@
-var mnemonic = "girl naive repair north narrow design topic capital laundry awkward biology hotel";
+var mnemonic = "potato reform kitten help thunder weather permit knife winter real film silly";

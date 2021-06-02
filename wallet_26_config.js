@@ -1,1 +1,1 @@
-var mnemonic = "weekend rocket joy thought alien scatter faint ocean blame bacon pelican pyramid";
+var mnemonic = "injury palace castle trap tomorrow course gravity chef orient train conduct quantum";

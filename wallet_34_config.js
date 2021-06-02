@@ -1,1 +1,1 @@
-var mnemonic = "file logic scan program diet extend reduce ghost path zebra choice split";
+var mnemonic = "powder wheat camp media gravity salmon fatal nephew shine route claim differ";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel drive culture arrive vocal foil butter dilemma limit retire laundry deliver";
+var mnemonic = "focus what glue tide tool humble order obtain lyrics crawl disorder buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor clip wing never remember talent frame because delay goat boil jealous";
+var mnemonic = "absorb proof potato hen clerk mechanic float wrap page achieve decade reopen";

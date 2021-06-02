@@ -1,1 +1,1 @@
-var mnemonic = "casual menu step dry elevator sure forest degree trouble guard artist pave";
+var mnemonic = "thank soup practice lecture invest follow picture exhaust total neck mask arrive";

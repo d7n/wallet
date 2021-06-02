@@ -1,1 +1,1 @@
-var mnemonic = "cage taste piece element carry choose leisure sword web door donate off";
+var mnemonic = "veteran tube knock gesture start rose merry increase desk interest extra upgrade";

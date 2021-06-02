@@ -1,1 +1,1 @@
-var mnemonic = "increase stable oil disagree wing smile cool museum logic much trade knock";
+var mnemonic = "elbow casual once ecology author layer dinosaur february basket hood educate girl";

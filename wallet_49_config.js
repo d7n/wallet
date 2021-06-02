@@ -1,1 +1,1 @@
-var mnemonic = "perfect wagon live kitten stadium error split rebuild ladder guide viable glow";
+var mnemonic = "wonder virtual rescue across absurd spell major chimney lion cash grid ripple";

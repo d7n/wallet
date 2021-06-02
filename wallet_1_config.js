@@ -1,1 +1,1 @@
-var mnemonic = "fuel panda immense mix forum raw goddess congress scan select leisure insect";
+var mnemonic = "tomato parrot chronic hub clever shift muscle plate injury excite story pig";

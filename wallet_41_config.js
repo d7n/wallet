@@ -1,1 +1,1 @@
-var mnemonic = "case flower air trash spell cousin frequent kind elegant task dress hire";
+var mnemonic = "private chase jungle chat mystery cheese universe present ozone recycle weird sea";

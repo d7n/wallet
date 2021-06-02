@@ -1,1 +1,1 @@
-var mnemonic = "craft tag eager arena can depth type need burger lonely risk ticket";
+var mnemonic = "share kiss also usual obey grass height will lesson soon rice major";

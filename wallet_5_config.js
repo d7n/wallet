@@ -1,1 +1,1 @@
-var mnemonic = "spend wood horror sphere steak vibrant cup this scheme pair arrow reflect";
+var mnemonic = "firm boss unknown quick loud habit brown super hat gloom net armed";

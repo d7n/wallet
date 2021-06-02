@@ -1,1 +1,1 @@
-var mnemonic = "bird city physical move release toss river cruel provide wet black library";
+var mnemonic = "fat demand riot fog option profit improve city blind flip pink vivid";

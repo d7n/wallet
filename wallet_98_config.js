@@ -1,1 +1,1 @@
-var mnemonic = "remove afford predict age lens super vast drift brief chunk typical payment";
+var mnemonic = "feel law fragile omit faint happy zebra fly drift exhaust minute window";

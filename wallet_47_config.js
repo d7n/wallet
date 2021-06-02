@@ -1,1 +1,1 @@
-var mnemonic = "satoshi crowd private brisk vault situate enable genius ridge equip hold fork";
+var mnemonic = "cream radio hour try shoot caution ill glove universe hurry guitar dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "culture degree same cruise width gasp suggest health clap prize decade fiber";
+var mnemonic = "guard bitter onion burst impulse island height other olive direct outer dream";

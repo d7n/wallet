@@ -1,1 +1,1 @@
-var mnemonic = "immune found confirm umbrella dinosaur main glare recycle fuel aspect foam just";
+var mnemonic = "sleep actor review century school barrel occur laundry assume churn size remove";

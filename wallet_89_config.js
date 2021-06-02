@@ -1,1 +1,1 @@
-var mnemonic = "ghost organ tape rescue fault onion frost shop reward position gown loan";
+var mnemonic = "grunt come vocal liar dinosaur smooth dirt mask front stadium plunge canoe";

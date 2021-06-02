@@ -1,1 +1,1 @@
-var mnemonic = "recipe uphold cancel main warm vessel pretty pretty water inquiry visa before";
+var mnemonic = "tooth glass dose game road reopen leopard bracket venue test crisp obey";

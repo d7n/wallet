@@ -1,1 +1,1 @@
-var mnemonic = "play sail ripple census culture skill post surround cargo large sister focus";
+var mnemonic = "satoshi swing option follow matter already bread refuse toast hockey portion convince";

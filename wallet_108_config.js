@@ -1,1 +1,1 @@
-var mnemonic = "treat nice apology cannon mixture once potato educate cycle ordinary youth people";
+var mnemonic = "twelve galaxy identify raw speed crush below purity lonely zebra system fold";

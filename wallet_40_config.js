@@ -1,1 +1,1 @@
-var mnemonic = "citizen grain truly vintage fox broom chaos great discover decide fat artwork";
+var mnemonic = "season endless artwork rebel wait denial thought logic vehicle jacket share fall";

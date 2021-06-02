@@ -1,1 +1,1 @@
-var mnemonic = "weapon polar minor delay pistol any success neck flush plastic polar adjust";
+var mnemonic = "blood castle other lecture report brain omit bunker merry corn please crew";

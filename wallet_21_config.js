@@ -1,1 +1,1 @@
-var mnemonic = "balance gate differ science bone practice catch jungle wave winner spawn shuffle";
+var mnemonic = "unusual genius pause deliver move much case swift federal trim laundry skull";

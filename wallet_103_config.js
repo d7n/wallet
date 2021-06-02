@@ -1,1 +1,1 @@
-var mnemonic = "draft notable arrow fruit muscle coin rural cage fatigue average notable legal";
+var mnemonic = "input client all decrease invest error remind sentence patient solar question speak";

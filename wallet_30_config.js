@@ -1,1 +1,1 @@
-var mnemonic = "oven carry clown myth fun portion oak protect all punch edge nephew";
+var mnemonic = "south enact cable virus indicate stable move claim party voyage almost brisk";

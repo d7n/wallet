@@ -1,1 +1,1 @@
-var mnemonic = "goat giraffe tape math try rough fatigue pole deputy twenty match usage";
+var mnemonic = "sock own split twin menu snap install panel rural husband swamp toilet";

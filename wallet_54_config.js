@@ -1,1 +1,1 @@
-var mnemonic = "cannon error cradle cancel end aspect globe film close plug lecture seat";
+var mnemonic = "casual spell smile oxygen canoe else slogan multiply dynamic draft bar divide";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom jelly vintage company axis badge unhappy broom borrow hockey budget coyote";
+var mnemonic = "tide derive unhappy scrub peace you spin toilet cotton skate sample swap";

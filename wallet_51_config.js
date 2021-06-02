@@ -1,1 +1,1 @@
-var mnemonic = "view sustain miracle drastic again mimic cook swing capital furnace brisk spell";
+var mnemonic = "domain never lemon tuna bachelor twin roof aerobic romance chef snap private";

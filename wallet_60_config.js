@@ -1,1 +1,1 @@
-var mnemonic = "eight autumn bullet media library swallow install shaft spoon choose deposit liar";
+var mnemonic = "another shed thrive pumpkin absorb face swallow pitch whip push mother stone";

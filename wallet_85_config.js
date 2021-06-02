@@ -1,1 +1,1 @@
-var mnemonic = "machine man foot vote current fit aspect permit protect lady salute culture";
+var mnemonic = "order loyal sound annual same approve achieve bring reveal someone act burst";

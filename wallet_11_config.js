@@ -1,1 +1,1 @@
-var mnemonic = "recall final fury siege soap only subject meat fix train trend earn";
+var mnemonic = "above enforce avocado awesome shadow trumpet museum balcony bench orbit palm accuse";

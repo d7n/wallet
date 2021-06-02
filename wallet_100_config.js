@@ -1,1 +1,1 @@
-var mnemonic = "lemon valid lamp spot proof notable twin tent next rare element gym";
+var mnemonic = "draft rapid inner denial jewel text funny follow hello yard reject course";

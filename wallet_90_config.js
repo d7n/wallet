@@ -1,1 +1,1 @@
-var mnemonic = "club alert draft gauge payment first sun lawn innocent kiss virtual deputy";
+var mnemonic = "today wash fun slush hill subway deliver own unusual water grain winner";

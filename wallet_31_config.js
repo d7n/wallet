@@ -1,1 +1,1 @@
-var mnemonic = "snack interest carpet slice nut retire ahead swear pumpkin easily kingdom control";
+var mnemonic = "raven riot essence despair shaft eye rare friend wash dry glue crack";

@@ -1,1 +1,1 @@
-var mnemonic = "boost photo harbor audit dose chase wing upper deny wolf tube strong";
+var mnemonic = "normal eight mansion agree cushion initial glass cause sea tuna fury card";

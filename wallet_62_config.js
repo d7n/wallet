@@ -1,1 +1,1 @@
-var mnemonic = "dad stairs tool hurt gown picture valley gauge grunt deliver betray flower";
+var mnemonic = "salt farm stamp pipe deny harsh drill excuse spawn man thing install";

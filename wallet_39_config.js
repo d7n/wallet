@@ -1,1 +1,1 @@
-var mnemonic = "possible grab track upon reject issue end remind empower quantum speak sick";
+var mnemonic = "reward rib fabric spatial zoo spy session video awkward crime spin unique";

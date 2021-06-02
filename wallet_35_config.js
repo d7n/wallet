@@ -1,1 +1,1 @@
-var mnemonic = "glare dune wear step code squeeze skate exclude scrub stadium device sting";
+var mnemonic = "equip trend moon satoshi local own clap uphold correct dad bottom brush";

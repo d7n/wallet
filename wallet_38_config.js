@@ -1,1 +1,1 @@
-var mnemonic = "smile bomb february large need room senior glide chunk mansion strike volume";
+var mnemonic = "remember task leave puzzle divert mountain era swallow collect car flight will";

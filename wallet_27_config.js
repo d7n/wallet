@@ -1,1 +1,1 @@
-var mnemonic = "parade vault letter pear stem critic half fire galaxy trade candy stone";
+var mnemonic = "remove window bind castle metal say episode nominee debris enact pear erosion";
