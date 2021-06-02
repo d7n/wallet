@@ -1,1 +1,1 @@
-var mnemonic = "gauge clock grain cruel extend jelly virtual twelve recipe try panic dose";
+var mnemonic = "crazy umbrella donor whale tragic runway swing away box seat average essay";

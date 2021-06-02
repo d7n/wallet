@@ -1,1 +1,1 @@
-var mnemonic = "grant chef little art dream palm garage doll athlete tissue alert sunny";
+var mnemonic = "truck celery mansion sad unfair master manual project salmon glass clown segment";

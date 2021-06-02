@@ -1,1 +1,1 @@
-var mnemonic = "metal pool toy net park lottery group solution uncle jump impulse coil";
+var mnemonic = "mad level cook height flag winner kidney capable sort alcohol decline arch";

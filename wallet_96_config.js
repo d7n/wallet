@@ -1,1 +1,1 @@
-var mnemonic = "bean faculty opera use flag nation rug diary allow result quote blossom";
+var mnemonic = "mass same series endless photo chicken virtual vivid clarify fiction march genius";

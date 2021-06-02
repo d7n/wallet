@@ -1,1 +1,1 @@
-var mnemonic = "off mosquito view side merge inherit hurt rabbit tiny over wood cigar";
+var mnemonic = "train spell notice barely hold detail frost citizen kit judge toe lunar";

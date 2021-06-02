@@ -1,1 +1,1 @@
-var mnemonic = "assist else possible top next buddy transfer method riot one yellow flock";
+var mnemonic = "coyote crazy capital detail taste invite radio pudding noodle choice blanket enforce";

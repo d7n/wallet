@@ -1,1 +1,1 @@
-var mnemonic = "section auto blanket luxury require pulse grass light perfect mind process indicate";
+var mnemonic = "strong purpose print good online dolphin circle toe trust planet mutual vivid";

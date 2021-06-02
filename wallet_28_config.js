@@ -1,1 +1,1 @@
-var mnemonic = "hawk siren aware worth sadness midnight analyst salmon kingdom blame mom permit";
+var mnemonic = "type elephant animal fetch wreck proof motor error faint point potato tonight";

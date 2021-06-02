@@ -1,1 +1,1 @@
-var mnemonic = "year hazard kit forum simple spoon force ribbon project prevent repair taste";
+var mnemonic = "subject slice expose arrest doll dust inhale inject speed region right seek";

@@ -1,1 +1,1 @@
-var mnemonic = "annual spoon stock couch exercise obscure large reason balance because owner movie";
+var mnemonic = "bulb job glow exercise blur crystal exile opera corn spike edit modify";

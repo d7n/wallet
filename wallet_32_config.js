@@ -1,1 +1,1 @@
-var mnemonic = "cart nephew slim left skill medal main author afraid pond asset you";
+var mnemonic = "sign job topple antenna riot machine base tell assault staff version wise";

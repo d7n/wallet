@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bike stock suspect steak combine segment spoil stock intact rule spread";
+var mnemonic = "office raw demand reflect camp prize inspire hidden embrace coach ancient modify";

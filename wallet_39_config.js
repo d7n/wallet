@@ -1,1 +1,1 @@
-var mnemonic = "simple hood ill letter buddy dilemma humble shop erase various only anchor";
+var mnemonic = "grace move physical novel flight gap similar open cycle giggle shell magic";

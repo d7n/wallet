@@ -1,1 +1,1 @@
-var mnemonic = "sponsor fit mixture citizen smooth valve diet diary all duty ticket size";
+var mnemonic = "top same merit venue grocery custom clutch oblige fiber pair buffalo plunge";

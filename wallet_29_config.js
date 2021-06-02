@@ -1,1 +1,1 @@
-var mnemonic = "slender crane dumb solid cake mom october rough denial trip capital laptop";
+var mnemonic = "sister wagon portion excuse badge dirt aisle supply salute much icon prosper";

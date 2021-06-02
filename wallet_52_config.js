@@ -1,1 +1,1 @@
-var mnemonic = "social alpha puzzle attack trial barrel north price diagram lucky ugly school";
+var mnemonic = "clump garlic vessel beyond mean panic surface bring eyebrow home depend carbon";

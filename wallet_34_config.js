@@ -1,1 +1,1 @@
-var mnemonic = "dress pledge very require double outside walnut code island rhythm slight switch";
+var mnemonic = "good fiction slow divorce elder exhaust dance trip furnace flush foil sustain";

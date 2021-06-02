@@ -1,1 +1,1 @@
-var mnemonic = "paper speed tray eight work february put member sea latin jelly hamster";
+var mnemonic = "cruise exhaust language powder pistol machine exclude dry worry artefact valve kick";

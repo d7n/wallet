@@ -1,1 +1,1 @@
-var mnemonic = "below trouble fury notable throw climb vehicle captain adjust sphere roast fine";
+var mnemonic = "jeans buddy unhappy help tongue educate nature machine someone abandon glue own";

@@ -1,1 +1,1 @@
-var mnemonic = "guess detail east various slight weekend drive quarter error tag portion visit";
+var mnemonic = "emotion minute brisk welcome vacant discover order inform armed cushion word card";

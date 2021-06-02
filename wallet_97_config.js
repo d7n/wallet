@@ -1,1 +1,1 @@
-var mnemonic = "proof grocery goddess output ignore region slight appear hood title great train";
+var mnemonic = "humor someone cargo grit hotel nephew orange glass paper enlist vicious another";

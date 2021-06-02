@@ -1,1 +1,1 @@
-var mnemonic = "enter sea monster similar write spread notable wage since pool deliver solution";
+var mnemonic = "real toy depth cram slogan group chef tackle raven sword when west";

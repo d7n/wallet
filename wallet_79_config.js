@@ -1,1 +1,1 @@
-var mnemonic = "alien sample erosion gadget gun ceiling census patch title sad again vapor";
+var mnemonic = "solar gate maximum mountain damage uncover soft journey never major drum stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "sight arrange pyramid action stove soda stage aerobic legal visit crumble answer";
+var mnemonic = "hawk imitate tray spin scheme patient lunch toast inject normal fossil discover";

@@ -1,1 +1,1 @@
-var mnemonic = "era choice join limit shallow put chief paper maple interest puppy various";
+var mnemonic = "monitor achieve hip moral place what news stumble duty disorder weekend focus";

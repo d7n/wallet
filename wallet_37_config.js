@@ -1,1 +1,1 @@
-var mnemonic = "arrest maximum general front wish enable calm sound debris volume current clown";
+var mnemonic = "because uncover asset pencil vacant circle bus gun service census gauge harbor";

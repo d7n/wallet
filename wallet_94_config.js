@@ -1,1 +1,1 @@
-var mnemonic = "goat daughter victory curtain shuffle survey nuclear galaxy govern ugly protect bracket";
+var mnemonic = "rebel couple awesome cry silent sick dawn shy steak assume know waste";

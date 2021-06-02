@@ -1,1 +1,1 @@
-var mnemonic = "top cloth flight online fossil toe mystery leg loyal avocado hurt panel";
+var mnemonic = "accident luggage final blouse hair obscure charge marine dawn shoot cattle fade";

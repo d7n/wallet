@@ -1,1 +1,1 @@
-var mnemonic = "weather sand original sick cram crack ghost minor script awkward faith correct";
+var mnemonic = "update sister sunny island smile valve awesome tomato agree draw main word";

@@ -1,1 +1,1 @@
-var mnemonic = "flush memory small predict hip capital item credit similar glance embrace loan";
+var mnemonic = "summer spike bar pool sudden celery thing matter warfare abuse client hair";

@@ -1,1 +1,1 @@
-var mnemonic = "normal maze salt oil impose interest stumble trust seed pencil shaft share";
+var mnemonic = "month become grape soldier lazy ramp behind endorse obtain estate mercy ice";

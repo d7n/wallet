@@ -1,1 +1,1 @@
-var mnemonic = "major giggle garbage ghost valid found agent coin immense theory equal original";
+var mnemonic = "liar firm ice object mesh defense bleak repair vintage powder occur crush";

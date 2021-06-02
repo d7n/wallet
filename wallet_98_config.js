@@ -1,1 +1,1 @@
-var mnemonic = "proof bring wrap cube torch minor voice addict decade front live reform";
+var mnemonic = "shoot snow icon book wing shaft urge siren detail notable divide super";

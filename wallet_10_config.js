@@ -1,1 +1,1 @@
-var mnemonic = "ocean torch keen trap embrace snow tuna mushroom mansion clever home army";
+var mnemonic = "caught ethics orphan menu hip link manage tooth usual fine one tribe";

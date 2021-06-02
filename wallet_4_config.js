@@ -1,1 +1,1 @@
-var mnemonic = "mention remind pluck era fortune depart tribe easy forest option unfold clock";
+var mnemonic = "law receive observe broom verify glance tell celery join shoot visit million";

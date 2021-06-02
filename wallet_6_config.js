@@ -1,1 +1,1 @@
-var mnemonic = "chronic angry cube casual ball family forum embark coffee enlist vague luggage";
+var mnemonic = "cattle stone lawn mansion ivory problem palm close bread domain chalk surface";

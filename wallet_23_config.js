@@ -1,1 +1,1 @@
-var mnemonic = "jazz approve short scatter lady pull marine surface carpet toe swamp rug";
+var mnemonic = "scheme keep region leopard next pudding kid bicycle chronic foam submit water";

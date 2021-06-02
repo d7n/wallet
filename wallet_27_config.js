@@ -1,1 +1,1 @@
-var mnemonic = "depend climb idle north short staff foot develop rug frequent legal away";
+var mnemonic = "nephew sniff stone head blast sphere dash park also leaf economy subject";

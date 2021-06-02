@@ -1,1 +1,1 @@
-var mnemonic = "amazing inner merge please topic devote lottery park venue purse wave shell";
+var mnemonic = "outer process raven trip noise denial tiny nice pitch soup stadium float";

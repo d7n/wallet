@@ -1,1 +1,1 @@
-var mnemonic = "diamond recall shuffle furnace narrow push wolf panic rice panda token feed";
+var mnemonic = "raw glue trigger unaware sea tiger leopard develop innocent follow wheel pilot";

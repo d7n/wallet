@@ -1,1 +1,1 @@
-var mnemonic = "dial popular special future one sausage pause feed pet grit will often";
+var mnemonic = "model useless fit man tragic replace coin loyal build attract kingdom dust";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare fire practice deer marine cycle sample punch ahead ten adult invest";
+var mnemonic = "scene ghost gossip kiss someone badge gorilla weather tourist october pizza lecture";

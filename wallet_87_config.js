@@ -1,1 +1,1 @@
-var mnemonic = "embark erupt common delay wasp subway lady magic artefact object foster normal";
+var mnemonic = "cheap wear figure ancient fault cost fortune weird social oyster envelope then";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum toilet catch scene cave sugar drink tobacco sick physical artist liberty";
+var mnemonic = "actor boring fresh kid lion toast resource place collect course concert live";

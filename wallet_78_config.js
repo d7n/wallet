@@ -1,1 +1,1 @@
-var mnemonic = "defense demise script there unable reveal deputy fly walk monkey beach cupboard";
+var mnemonic = "mother unit hope couch twice bitter vital smooth canvas abstract wool duty";

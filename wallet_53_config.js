@@ -1,1 +1,1 @@
-var mnemonic = "evolve skin fluid endless curve cargo walk excess also ethics device clutch";
+var mnemonic = "once throw bitter inner outdoor rough sing maze where mercy tail kick";

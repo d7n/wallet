@@ -1,1 +1,1 @@
-var mnemonic = "afraid endorse rescue reopen clump fossil salon carry arch before comfort ghost";
+var mnemonic = "humble smooth merry creek edit wonder surface discover almost embody faculty legend";

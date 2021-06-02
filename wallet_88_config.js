@@ -1,1 +1,1 @@
-var mnemonic = "length saddle blind can art road smooth tone van monkey borrow industry";
+var mnemonic = "october hunt photo episode property prosper supply slam muffin kid indicate panel";

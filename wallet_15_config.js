@@ -1,1 +1,1 @@
-var mnemonic = "cream drum angry explain person twelve cereal card wise spirit reveal village";
+var mnemonic = "oak mixture shiver trim transfer ivory barely apology cycle stable front hill";

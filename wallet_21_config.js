@@ -1,1 +1,1 @@
-var mnemonic = "exist ahead next fog fashion lady ancient rule split motor throw share";
+var mnemonic = "danger bicycle govern salad front cup differ fever cactus fly rally license";

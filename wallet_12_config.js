@@ -1,1 +1,1 @@
-var mnemonic = "morning pet theory country staff magnet stumble yellow zebra awful cost settle";
+var mnemonic = "allow float fuel sadness soap differ ocean word version mansion steel become";

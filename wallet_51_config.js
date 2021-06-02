@@ -1,1 +1,1 @@
-var mnemonic = "student nerve minor ramp soda expire vessel submit there pretty tape theory";
+var mnemonic = "party agree picture ramp pilot person normal year crawl sun exit shallow";

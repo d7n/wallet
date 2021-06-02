@@ -1,1 +1,1 @@
-var mnemonic = "curtain project market fatal lawsuit wrap number lady hundred voyage ribbon clerk";
+var mnemonic = "fee cheese coil minimum then cargo sweet bamboo truck music juice relief";

@@ -1,1 +1,1 @@
-var mnemonic = "surface spy provide six physical foster unknown share ship sting ask attack";
+var mnemonic = "foster mutual jacket enable riot glove guitar lawn proud machine desert mad";

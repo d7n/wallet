@@ -1,1 +1,1 @@
-var mnemonic = "crisp double glimpse crucial crouch choose track regular deal finish powder cute";
+var mnemonic = "must fiber animal attend despair agent public core brand argue tuna that";

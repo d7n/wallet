@@ -1,1 +1,1 @@
-var mnemonic = "perfect dove machine offer business vocal file whale sail grit draw jump";
+var mnemonic = "submit unveil unlock announce alarm pipe become object garlic climb praise hat";

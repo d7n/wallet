@@ -1,1 +1,1 @@
-var mnemonic = "resource cave egg giggle type tired zebra sponsor auction struggle decrease dynamic";
+var mnemonic = "lamp advice verb quantum ticket salon woman space hungry equal kingdom can";

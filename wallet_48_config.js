@@ -1,1 +1,1 @@
-var mnemonic = "midnight surface vibrant rubber mass lyrics faint apology woman mammal copper major";
+var mnemonic = "glide entire oil giraffe display demand vibrant cradle oppose diet tiny sure";

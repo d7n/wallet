@@ -1,1 +1,1 @@
-var mnemonic = "park canoe lobster endless stumble dial sausage paddle coconut alarm cereal mammal";
+var mnemonic = "weekend begin snow mind spatial mixture marine goat bring coyote verify skin";

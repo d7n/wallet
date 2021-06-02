@@ -1,1 +1,1 @@
-var mnemonic = "ladder wall lucky tooth abuse tiger host arrive edit prefer nice cloud";
+var mnemonic = "detail whale know mom torch stock equip express labor relax torch fun";

@@ -1,1 +1,1 @@
-var mnemonic = "explain knee plastic sand health can view soap occur cannon good misery";
+var mnemonic = "faith usage start flower elevator toilet oblige blanket before cost bitter bid";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle soccer antique enlist want tube ensure crucial forward spice leader stomach";
+var mnemonic = "allow poverty develop magnet text hip govern ribbon decide vague noodle target";

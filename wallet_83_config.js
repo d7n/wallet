@@ -1,1 +1,1 @@
-var mnemonic = "slight warfare pizza during point rally age weather verify able audit man";
+var mnemonic = "grid orchard wash kit giggle sight host author tube point capital earn";

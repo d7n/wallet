@@ -1,1 +1,1 @@
-var mnemonic = "patrol math senior exotic arm broken pole day current crazy gospel filter";
+var mnemonic = "indicate panic radar very develop distance chapter acquire once hollow second uncover";

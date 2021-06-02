@@ -1,1 +1,1 @@
-var mnemonic = "intact wonder pretty wing tired marble mountain taxi crunch point rug sustain";
+var mnemonic = "limb crunch matrix aspect logic round rescue seat improve fatigue hazard hard";

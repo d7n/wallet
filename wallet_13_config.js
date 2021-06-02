@@ -1,1 +1,1 @@
-var mnemonic = "mass sausage core load yard salon whale month load marriage clean truck";
+var mnemonic = "away glove forest frown cream replace river cat gorilla seat tattoo mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "entire manage depend video attract cushion attitude work black romance bomb conduct";
+var mnemonic = "damage wheel luxury become bless royal assist possible kick when such clever";

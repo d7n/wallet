@@ -1,1 +1,1 @@
-var mnemonic = "bulb work sudden key actress peasant trend spice basic night phrase exist";
+var mnemonic = "sure antique little army goose address surround plate area curve multiply chair";

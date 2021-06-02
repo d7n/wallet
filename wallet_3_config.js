@@ -1,1 +1,1 @@
-var mnemonic = "fly beyond habit sadness tool dutch praise lizard job easily lift that";
+var mnemonic = "fat begin correct absorb pride update diet merry car exhibit dutch achieve";

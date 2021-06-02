@@ -1,1 +1,1 @@
-var mnemonic = "range worth shiver skate island afford crash smart labor fox captain code";
+var mnemonic = "play trap almost crime seminar vintage anxiety debate learn govern famous drip";

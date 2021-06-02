@@ -1,1 +1,1 @@
-var mnemonic = "pistol already check become pluck join crush cave fatal option find mention";
+var mnemonic = "stem sight blush favorite vague lumber force barrel come robust scheme wing";

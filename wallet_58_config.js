@@ -1,1 +1,1 @@
-var mnemonic = "mystery flavor shock grow simple hub quiz injury fee dry budget absorb";
+var mnemonic = "apple search spin vapor thunder raccoon swallow gravity view print smoke excess";

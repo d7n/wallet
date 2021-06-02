@@ -1,1 +1,1 @@
-var mnemonic = "sister never cotton sleep news clump own gloom side faith dress chase";
+var mnemonic = "explain help leg avocado glimpse again extend coast swap aunt farm rescue";

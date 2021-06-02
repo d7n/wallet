@@ -1,1 +1,1 @@
-var mnemonic = "exhaust elder edit message adapt honey upon junior fashion share link evidence";
+var mnemonic = "pioneer ride cost decade okay swing athlete faith jealous honey float exhibit";

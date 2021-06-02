@@ -1,1 +1,1 @@
-var mnemonic = "border garbage public priority crew pluck chunk flag radio hair absent ready";
+var mnemonic = "dumb extra curious feature near network define bright hire enroll wrong exotic";

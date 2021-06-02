@@ -1,1 +1,1 @@
-var mnemonic = "diesel broom marble tattoo have join pistol reveal clump unhappy unusual member";
+var mnemonic = "text total edit grant come section gentle demand garage aunt rhythm reform";

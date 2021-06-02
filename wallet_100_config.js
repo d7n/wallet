@@ -1,1 +1,1 @@
-var mnemonic = "afraid desert gift dust bulk hazard dismiss adapt destroy across guitar only";
+var mnemonic = "shy theme amused wood boat hour over party mosquito chat program session";

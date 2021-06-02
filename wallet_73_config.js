@@ -1,1 +1,1 @@
-var mnemonic = "virus need jaguar flee spread patrol despair opera mystery gym average wreck";
+var mnemonic = "injury life body relief turn rack amateur topple nasty gadget tip dice";

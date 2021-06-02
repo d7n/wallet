@@ -1,1 +1,1 @@
-var mnemonic = "figure uphold mask bracket exist sign tunnel banner cry toddler road echo";
+var mnemonic = "ceiling renew fat deposit close rapid leaf despair convince jelly hour ridge";

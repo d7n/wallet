@@ -1,1 +1,1 @@
-var mnemonic = "slender aim prevent movie canvas nasty trust employ recipe update actual anxiety";
+var mnemonic = "thrive grain buffalo crystal soap tone actor settle situate gym cycle shrug";

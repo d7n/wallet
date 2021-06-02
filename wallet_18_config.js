@@ -1,1 +1,1 @@
-var mnemonic = "produce check voyage civil zone play forget birth desk random naive market";
+var mnemonic = "coyote visit angle smoke doll banana shuffle pledge drip have agent swift";

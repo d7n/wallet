@@ -1,1 +1,1 @@
-var mnemonic = "dog barely worth glue violin used coconut raw firm nasty gesture little";
+var mnemonic = "extend note forward panel dog erupt timber alone display deposit weekend swarm";

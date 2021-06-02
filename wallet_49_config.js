@@ -1,1 +1,1 @@
-var mnemonic = "stove topic now decide polar soul divert rice donate trophy view beauty";
+var mnemonic = "fee unit rather tunnel guide gossip someone bright crystal door pole price";

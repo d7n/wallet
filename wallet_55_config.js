@@ -1,1 +1,1 @@
-var mnemonic = "mask snake cabin forest wing poet zebra fever young special today assault";
+var mnemonic = "lazy embody crystal bus near record job seven fall security process jungle";

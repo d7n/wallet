@@ -1,1 +1,1 @@
-var mnemonic = "among glance edge erase expand dice receive syrup obey bracket any poverty";
+var mnemonic = "elegant leader island electric extend cool marine license decorate waste scale inquiry";
