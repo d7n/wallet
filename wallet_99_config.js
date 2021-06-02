@@ -1,1 +1,1 @@
-var mnemonic = "actual health accuse vault resemble miracle devote never tissue sense matrix dove";
+var mnemonic = "heart edit shove project minimum service eternal modify stadium front run boat";

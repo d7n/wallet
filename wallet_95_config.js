@@ -1,1 +1,1 @@
-var mnemonic = "color lyrics final shoot surround hold off grant egg code ceiling morning";
+var mnemonic = "embrace rebuild hard absorb torch bless vicious major wait expose hole forget";

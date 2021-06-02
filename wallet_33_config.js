@@ -1,1 +1,1 @@
-var mnemonic = "amazing off clock improve flash need notice cross gentle act trick buyer";
+var mnemonic = "bottom mass enjoy noise nose alter blush era soul clinic deliver release";

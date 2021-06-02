@@ -1,1 +1,1 @@
-var mnemonic = "atom rough remember work leg dance parade crawl crumble hurdle marriage borrow";
+var mnemonic = "immune boring method rose antenna rubber end dragon donor fragile logic child";

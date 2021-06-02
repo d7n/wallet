@@ -1,1 +1,1 @@
-var mnemonic = "mango year grant energy sock grape virus mule custom traffic device stomach";
+var mnemonic = "number dentist pear panda empower cinnamon involve model home shrimp there embody";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter nice online gallery describe live flush figure vendor vacuum dentist ocean";
+var mnemonic = "ignore figure raise strong comfort pupil move afford butter into accuse dry";

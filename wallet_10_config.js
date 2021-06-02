@@ -1,1 +1,1 @@
-var mnemonic = "record length domain rebel token wash valve infant nation puzzle ozone tray";
+var mnemonic = "key piece parade online federal crater gadget wool one ice rack reject";

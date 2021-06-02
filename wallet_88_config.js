@@ -1,1 +1,1 @@
-var mnemonic = "crunch correct sting acquire visual over tiger erosion cry raw right doctor";
+var mnemonic = "luggage carbon local setup innocent alley column trust peace obtain tool bright";

@@ -1,1 +1,1 @@
-var mnemonic = "pause size rubber letter sing era cheap whale sort degree better hour";
+var mnemonic = "group ranch control idle rail shuffle crash helmet kitchen carpet coil city";

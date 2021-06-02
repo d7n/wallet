@@ -1,1 +1,1 @@
-var mnemonic = "energy filter ecology effort rhythm increase okay into gold mule laundry enrich";
+var mnemonic = "wheat recycle lobster pulse skirt snake elegant boring live ribbon disorder firm";

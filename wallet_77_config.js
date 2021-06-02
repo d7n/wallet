@@ -1,1 +1,1 @@
-var mnemonic = "wage club brief gesture mansion regret vital satisfy tree over cook scan";
+var mnemonic = "bunker doll expand hotel slow senior object result useless material school attend";

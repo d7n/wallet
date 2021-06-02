@@ -1,1 +1,1 @@
-var mnemonic = "cradle edit assist absent cruel verify monkey fantasy devote half pudding water";
+var mnemonic = "thumb carbon fence confirm cause buffalo require brass push emerge monitor excite";

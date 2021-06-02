@@ -1,1 +1,1 @@
-var mnemonic = "wash ahead until claim kick food useless put satisfy dolphin gravity mirror";
+var mnemonic = "ridge uncover drive choose body hundred bounce surge gadget fix gravity exist";

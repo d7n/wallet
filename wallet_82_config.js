@@ -1,1 +1,1 @@
-var mnemonic = "dove escape language blood hunt correct coral visual attack struggle income walk";
+var mnemonic = "guide afford gloom clerk jaguar parent tonight nothing wife spell tackle siege";

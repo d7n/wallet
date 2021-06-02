@@ -1,1 +1,1 @@
-var mnemonic = "trim protect virus bird clump virtual ripple display also disease pledge myself";
+var mnemonic = "shy bundle average spread crazy humble airport model own ankle drastic loan";

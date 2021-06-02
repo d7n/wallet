@@ -1,1 +1,1 @@
-var mnemonic = "resource test add vocal rhythm early butter sample cloth mention remind join";
+var mnemonic = "silent artefact meat silly jelly sweet exhibit critic adult brief picture crazy";

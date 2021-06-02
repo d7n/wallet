@@ -1,1 +1,1 @@
-var mnemonic = "crush history dice solve minimum casino route bubble wink pyramid master civil";
+var mnemonic = "goose range afford range case dolphin buddy school phone garment security can";

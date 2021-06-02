@@ -1,1 +1,1 @@
-var mnemonic = "taste clarify glad sheriff insane license square clarify glide armor only version";
+var mnemonic = "cheese possible dial bounce cream swear burst west device mimic estate cover";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot inside frequent someone tray dirt loan curious naive degree sport catch";
+var mnemonic = "miracle awful broken family globe wish force layer chair smooth cabbage album";

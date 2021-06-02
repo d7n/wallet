@@ -1,1 +1,1 @@
-var mnemonic = "put name enough year pepper wait sting magnet unknown border struggle truly";
+var mnemonic = "husband decide subject magic army annual spatial scan gaze survey inhale kind";

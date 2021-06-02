@@ -1,1 +1,1 @@
-var mnemonic = "nut tide tell grunt connect frame diamond always bulk talent pill give";
+var mnemonic = "issue monitor click winner problem joy case weather mandate square robust prosper";

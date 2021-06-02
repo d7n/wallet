@@ -1,1 +1,1 @@
-var mnemonic = "voice cigar taxi jealous shell waste burden super smooth fossil demand expose";
+var mnemonic = "allow lesson champion illegal detect tattoo bullet motor true shallow odor resource";

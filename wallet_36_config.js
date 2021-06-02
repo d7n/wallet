@@ -1,1 +1,1 @@
-var mnemonic = "payment fluid stamp sport velvet giraffe exhaust ugly scene consider neither trigger";
+var mnemonic = "farm beef this virus sure mushroom mystery clerk exercise metal manage enemy";

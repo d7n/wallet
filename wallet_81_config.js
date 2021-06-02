@@ -1,1 +1,1 @@
-var mnemonic = "ghost imitate have ankle loyal violin carpet picture symptom maximum crane size";
+var mnemonic = "cattle rain media rough sunny acid dial catch winner vital fury night";

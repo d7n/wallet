@@ -1,1 +1,1 @@
-var mnemonic = "bitter trip matrix drastic fade battle october letter menu surge around village";
+var mnemonic = "old ladder champion salon author close solid report web soup observe tent";

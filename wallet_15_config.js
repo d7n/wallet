@@ -1,1 +1,1 @@
-var mnemonic = "coffee paddle report neck park state alpha pulp fault type soda way";
+var mnemonic = "foam saddle chuckle dance poem envelope royal fiction pipe ankle traffic attend";

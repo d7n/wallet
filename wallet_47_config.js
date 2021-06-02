@@ -1,1 +1,1 @@
-var mnemonic = "spray piece pull jewel doctor dream student amazing honey calm illness cigar";
+var mnemonic = "purity ankle neglect ball accuse frozen alarm thank swear worth song kit";

@@ -1,1 +1,1 @@
-var mnemonic = "what average spoon stock sunny crouch fortune front bird observe bunker buffalo";
+var mnemonic = "legend primary pear grace sail anchor lonely enrich merry acoustic planet success";

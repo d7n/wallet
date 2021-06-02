@@ -1,1 +1,1 @@
-var mnemonic = "city wheel proof divide another pepper push comfort genre mask approve dwarf";
+var mnemonic = "promote lake pig fruit utility artwork soda symptom caught flavor faint pottery";

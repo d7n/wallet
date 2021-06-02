@@ -1,1 +1,1 @@
-var mnemonic = "physical feed demand evoke tennis lift extend curtain undo universe give mixed";
+var mnemonic = "flavor honey zoo genius hammer chaos bachelor script fold elder please barrel";

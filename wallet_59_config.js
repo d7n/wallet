@@ -1,1 +1,1 @@
-var mnemonic = "jazz cash snap dish web return kiss hope impulse expect cement exit";
+var mnemonic = "neutral secret purse table evolve gaze vintage huge ostrich typical elite monkey";

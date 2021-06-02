@@ -1,1 +1,1 @@
-var mnemonic = "game there weird yellow believe ticket circle diet mountain pupil diary fiscal";
+var mnemonic = "viable shallow join smile dune borrow vendor spend slow keen range summer";

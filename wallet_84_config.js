@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wave pizza input rookie lunar girl dove drive noble kiwi diagram";
+var mnemonic = "cement donate juice author upset clerk brick glory expose learn find junk";

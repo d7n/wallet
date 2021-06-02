@@ -1,1 +1,1 @@
-var mnemonic = "unable next copy argue dirt position arrest nephew apart ribbon menu tag";
+var mnemonic = "fame fix wise code amateur student buddy equal shallow remind success proof";

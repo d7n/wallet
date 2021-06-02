@@ -1,1 +1,1 @@
-var mnemonic = "neglect wagon also mixed robot insect addict marine own weekend cover lottery";
+var mnemonic = "reflect month energy setup century grab student today hotel forest rather essence";

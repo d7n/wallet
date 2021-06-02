@@ -1,1 +1,1 @@
-var mnemonic = "gallery payment rib antenna bus park rough injury green cute income dice";
+var mnemonic = "venue twist clump scatter process fork gravity company toilet movie embody fresh";

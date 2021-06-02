@@ -1,1 +1,1 @@
-var mnemonic = "suspect purchase modify unveil mango brain eternal social kitchen warm rabbit raw";
+var mnemonic = "capable diamond name stick refuse describe garage social jar solve drive finger";

@@ -1,1 +1,1 @@
-var mnemonic = "display flat chronic trade rule learn inch alcohol helmet code alpha digital";
+var mnemonic = "census group annual broccoli lucky pelican holiday fabric clean trust ocean rescue";

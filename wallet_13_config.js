@@ -1,1 +1,1 @@
-var mnemonic = "hobby can educate forum dentist shoulder use segment ticket return busy tuition";
+var mnemonic = "enemy opera wife perfect useful sport inch winner art quarter midnight wool";

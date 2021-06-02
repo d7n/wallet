@@ -1,1 +1,1 @@
-var mnemonic = "oven quantum moment icon arena degree midnight meat boat boy panther hungry";
+var mnemonic = "jungle drama town problem tragic toward path fix hat ten merit mention";

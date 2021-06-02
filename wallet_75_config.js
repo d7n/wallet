@@ -1,1 +1,1 @@
-var mnemonic = "purpose all spirit more dad extend few rate dawn million female spirit";
+var mnemonic = "across ice nephew luggage jump future table space network bright target inform";

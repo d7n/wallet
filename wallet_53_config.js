@@ -1,1 +1,1 @@
-var mnemonic = "keen shed cream scrap search mechanic come whisper curve cat slight slam";
+var mnemonic = "skill patient turn prevent twelve slab loyal daughter thank sand blur obey";

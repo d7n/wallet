@@ -1,1 +1,1 @@
-var mnemonic = "just whisper equip you ginger please explain climb stock dignity benefit among";
+var mnemonic = "person focus bring crouch purchase nut squeeze van deposit weird device winter";

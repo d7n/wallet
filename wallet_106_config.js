@@ -1,1 +1,1 @@
-var mnemonic = "lobster market guilt churn appear hand broken quantum snack grab alcohol bird";
+var mnemonic = "jacket draft betray rely occur cancel hello poverty media merit time valley";

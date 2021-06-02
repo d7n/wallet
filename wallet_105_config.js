@@ -1,1 +1,1 @@
-var mnemonic = "hill ranch voice breeze ecology want divide hip best system tiger woman";
+var mnemonic = "surge human possible staff vague speak miss frame galaxy text gasp token";

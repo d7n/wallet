@@ -1,1 +1,1 @@
-var mnemonic = "lawn donkey settle diary style forest scatter truck dragon tone shock size";
+var mnemonic = "dove mango awful ritual goddess public zebra knee direct shuffle purse bench";

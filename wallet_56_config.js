@@ -1,1 +1,1 @@
-var mnemonic = "phrase olympic tonight medal wagon misery gorilla portion door cupboard afraid they";
+var mnemonic = "become diet between fever number peasant mosquito suspect usual smooth train flock";

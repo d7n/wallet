@@ -1,1 +1,1 @@
-var mnemonic = "bread reject melody joke panther host bike brisk canal core knee venture";
+var mnemonic = "zero smooth inquiry begin glide ribbon gather foam pink wire spatial raven";

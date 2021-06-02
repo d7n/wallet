@@ -1,1 +1,1 @@
-var mnemonic = "identify enrich install laugh decorate mango false sadness gravity upon broken term";
+var mnemonic = "proof inside urge bronze car symptom lecture cigar crush rotate check honey";

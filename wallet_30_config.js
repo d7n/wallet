@@ -1,1 +1,1 @@
-var mnemonic = "ordinary nuclear empty hip audit fine bag uphold frequent pony illness interest";
+var mnemonic = "gate patient nothing bounce guess culture increase intact crop filter sentence giant";

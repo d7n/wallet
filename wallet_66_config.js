@@ -1,1 +1,1 @@
-var mnemonic = "boost salt amateur curtain input stone clarify pause destroy table renew latin";
+var mnemonic = "fork journey gun volcano lyrics hold cliff movie sing salon pulse defy";

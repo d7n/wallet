@@ -1,1 +1,1 @@
-var mnemonic = "tennis project forest hollow claim dwarf output crane ramp warfare act gun";
+var mnemonic = "road envelope small step hawk include comic sea milk visit notable tomorrow";

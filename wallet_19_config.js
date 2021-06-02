@@ -1,1 +1,1 @@
-var mnemonic = "analyst sphere correct stairs chair vacant boring feature unhappy actress marine input";
+var mnemonic = "prison negative police bundle hire muffin mule guard bracket essence poet barrel";

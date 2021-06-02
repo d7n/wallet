@@ -1,1 +1,1 @@
-var mnemonic = "muffin parent nose media fold chef worry ritual poem identify duty cactus";
+var mnemonic = "tiny diamond balcony peace segment apart public baby inherit orient tray claw";

@@ -1,1 +1,1 @@
-var mnemonic = "humor mix gasp assault lady truck picnic crime mimic nurse flush consider";
+var mnemonic = "crisp solution keep forward december lumber render into hat advice curious size";

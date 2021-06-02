@@ -1,1 +1,1 @@
-var mnemonic = "rabbit they uncover boil stereo harbor into ice charge region cotton mosquito";
+var mnemonic = "loop sport narrow deny chuckle erode sniff fringe target witness sketch cigar";

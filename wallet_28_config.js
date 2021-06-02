@@ -1,1 +1,1 @@
-var mnemonic = "creek promote kitten thought gentle suffer video robust man grit lobster party";
+var mnemonic = "palm citizen author pair barely tongue panel legal village involve advice thought";

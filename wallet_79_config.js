@@ -1,1 +1,1 @@
-var mnemonic = "sound reason indoor quit shrimp draw angle twin valve elite bullet solar";
+var mnemonic = "remove video catalog sick share gym spring allow imitate surge deposit annual";

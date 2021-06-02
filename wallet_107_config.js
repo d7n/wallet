@@ -1,1 +1,1 @@
-var mnemonic = "innocent wise maze jazz mansion switch motion health pelican bird script ability";
+var mnemonic = "shove august long mistake empty street report endless royal keep cash neither";

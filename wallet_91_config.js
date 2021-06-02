@@ -1,1 +1,1 @@
-var mnemonic = "biology mutual cradle cabbage fatal broken own spatial citizen there crew jealous";
+var mnemonic = "organ beyond sibling deliver barrel decline antenna harbor seminar route excess flush";

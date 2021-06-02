@@ -1,1 +1,1 @@
-var mnemonic = "disagree blanket degree common all twice sustain scheme material belt easy raw";
+var mnemonic = "inherit village century autumn weather sport utility exact nominee swap exclude edge";

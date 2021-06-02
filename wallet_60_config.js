@@ -1,1 +1,1 @@
-var mnemonic = "pig shop viable learn hard way awful cigar rack enjoy under host";
+var mnemonic = "coast level chest mercy comic aunt fan faint north finger skill struggle";

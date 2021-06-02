@@ -1,1 +1,1 @@
-var mnemonic = "renew distance cabin beach opinion village crumble decorate odor fruit bachelor frown";
+var mnemonic = "clump fruit scheme secret visa pelican prepare april dune census width today";

@@ -1,1 +1,1 @@
-var mnemonic = "bird theme slow method melody door ranch mom relief success car kitten";
+var mnemonic = "silk junk leave busy mother build trust grass useful fork lion broom";

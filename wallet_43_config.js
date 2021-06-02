@@ -1,1 +1,1 @@
-var mnemonic = "donor blossom pyramid giraffe budget oval cake doctor used beef head insect";
+var mnemonic = "jeans castle stick tragic injury tackle rain essence bring credit immense domain";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling traffic turtle soft reward cement code blast expire curious rack alarm";
+var mnemonic = "coffee artist version legend audit shaft jelly absurd base weird lazy velvet";

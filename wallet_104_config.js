@@ -1,1 +1,1 @@
-var mnemonic = "trap believe judge private bronze weather finish under stairs sugar burst vacant";
+var mnemonic = "artwork twenty river abstract human minimum net scorpion high convince pool ticket";

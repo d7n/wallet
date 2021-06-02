@@ -1,1 +1,1 @@
-var mnemonic = "bench obvious village shine mountain lunar impose fox pilot program split correct";
+var mnemonic = "forum jar swarm false odor crawl chronic festival embark arm behind rocket";

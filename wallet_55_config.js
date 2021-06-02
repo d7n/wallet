@@ -1,1 +1,1 @@
-var mnemonic = "spread anchor absurd illness galaxy essay predict saddle two lady swarm visual";
+var mnemonic = "hidden fever pear sponsor cause symbol year rule spider abuse elephant good";

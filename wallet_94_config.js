@@ -1,1 +1,1 @@
-var mnemonic = "spot dolphin prison medal arrange mosquito morning uphold turn report step brave";
+var mnemonic = "ship calm floor dirt april hammer topple film chimney crush transfer minimum";

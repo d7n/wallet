@@ -1,1 +1,1 @@
-var mnemonic = "science random general unveil harbor act powder play decrease razor meadow car";
+var mnemonic = "census street increase raw donor rural invite stairs exit abstract noble install";

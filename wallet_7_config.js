@@ -1,1 +1,1 @@
-var mnemonic = "code enact jazz market soccer shoe loan pudding cup stuff increase drill";
+var mnemonic = "cotton amazing cactus fiction fiber tortoise wet dose trend people elevator rapid";

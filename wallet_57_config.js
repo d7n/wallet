@@ -1,1 +1,1 @@
-var mnemonic = "goddess party maple siege quick woman letter grain sound gauge solar return";
+var mnemonic = "daughter wink address anger project deny balance shed pioneer guess major combine";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain trumpet spoil wreck infant mix gentle ten velvet typical soup viable";
+var mnemonic = "hazard able trend balance evil forest merit pluck amount manage pottery delay";

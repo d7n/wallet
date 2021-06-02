@@ -1,1 +1,1 @@
-var mnemonic = "tissue midnight cabbage mango birth crouch express sibling pen escape gap calm";
+var mnemonic = "misery ribbon around local syrup reject soup gate culture insane file garden";

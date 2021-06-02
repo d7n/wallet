@@ -1,1 +1,1 @@
-var mnemonic = "daughter system utility lucky damage ladder net zebra second grow deposit regret";
+var mnemonic = "shy cloud mind demand dignity boss donor arctic exit chicken arena amateur";

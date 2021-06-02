@@ -1,1 +1,1 @@
-var mnemonic = "inform tornado silly behind rocket broom chaos busy lava expose awkward upset";
+var mnemonic = "volcano ill dry near access cube april boil witness suspect seven young";

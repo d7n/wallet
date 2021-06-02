@@ -1,1 +1,1 @@
-var mnemonic = "agent duty learn fox ceiling laundry cluster heavy live play middle install";
+var mnemonic = "mimic glimpse area wear recipe clip knife general crime until price fold";

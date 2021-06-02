@@ -1,1 +1,1 @@
-var mnemonic = "slush aunt approve rain all juice unusual carbon height amateur sweet vintage";
+var mnemonic = "arrange survey faint hood roast find random address access metal edge walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy veteran salad birth stock situate chief fine bread wall maze entire";
+var mnemonic = "supply resource swear dinosaur jacket neither pattern trip ancient helmet paddle pink";

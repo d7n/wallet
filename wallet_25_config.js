@@ -1,1 +1,1 @@
-var mnemonic = "crazy have curve noble teach ride patrol explain bronze aisle teach caught";
+var mnemonic = "category gospel journey enlist together pact blanket sport theme youth abuse unfair";

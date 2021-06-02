@@ -1,1 +1,1 @@
-var mnemonic = "repeat put noise tired eagle slab reform return vivid error trick false";
+var mnemonic = "special merry garage around initial elevator file margin advice home uncle follow";

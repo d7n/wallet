@@ -1,1 +1,1 @@
-var mnemonic = "autumn trap garbage shine put program better castle razor leopard marine town";
+var mnemonic = "episode joy river void siren brother gentle badge excuse tide shadow marble";

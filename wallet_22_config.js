@@ -1,1 +1,1 @@
-var mnemonic = "device slight maximum keen below coyote hen salon thumb creek minimum kingdom";
+var mnemonic = "dizzy jelly away special pink impact cart code breeze require profit final";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder page curve poem word hidden demand hollow length horn asset bubble";
+var mnemonic = "favorite can medal current bless sponsor finish dream fiscal female emotion over";

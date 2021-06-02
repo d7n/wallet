@@ -1,1 +1,1 @@
-var mnemonic = "picnic scissors crazy undo approve lizard lawsuit ride clarify floor unusual eagle";
+var mnemonic = "surge know wild exile case cry regular zone save kind tomato hungry";

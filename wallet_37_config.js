@@ -1,1 +1,1 @@
-var mnemonic = "swear frost pelican kid marriage aisle egg much since ugly planet erosion";
+var mnemonic = "drum grape wage chicken behind alley rebuild ski increase seek famous deal";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum please perfect grief calm change legal vapor bench cost ceiling hawk";
+var mnemonic = "castle embody day robot prevent lady creek boil medal topic lemon job";

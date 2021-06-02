@@ -1,1 +1,1 @@
-var mnemonic = "silk spell glory attend display powder brave among reveal mystery joy coach";
+var mnemonic = "echo leaf gesture isolate engage kitchen eyebrow sausage birth simple hammer off";

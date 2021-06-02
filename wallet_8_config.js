@@ -1,1 +1,1 @@
-var mnemonic = "dawn cake embrace estate agent fix job march equip bird during mandate";
+var mnemonic = "bonus exile wrist syrup horror regret fun swap tray list social best";
