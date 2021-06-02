@@ -1,1 +1,1 @@
-var mnemonic = "evolve until reduce panda alien matter differ track deal melody van creek";
+var mnemonic = "welcome chimney connect kingdom help armed buyer fog amused sauce arrange divorce";

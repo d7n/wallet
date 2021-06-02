@@ -1,1 +1,1 @@
-var mnemonic = "odor verb nation enough illness zoo shoot feature minimum click wild utility";
+var mnemonic = "safe job scissors liar kid talent coconut uncle giraffe damage conduct pull";

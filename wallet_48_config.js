@@ -1,1 +1,1 @@
-var mnemonic = "dog will video sponsor venture later rely symptom awful vendor stay vivid";
+var mnemonic = "negative mask tree eagle hidden cycle slide bomb swamp icon text thrive";

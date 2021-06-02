@@ -1,1 +1,1 @@
-var mnemonic = "tumble ice fan language echo carbon grunt device identify level harbor lobster";
+var mnemonic = "meat mountain rich common hurt install nut source dragon priority team elite";

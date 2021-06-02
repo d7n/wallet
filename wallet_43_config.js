@@ -1,1 +1,1 @@
-var mnemonic = "okay image evolve lava sentence angry card vital omit figure coil desert";
+var mnemonic = "wild license unique spot mammal hockey child combine local sure obvious margin";

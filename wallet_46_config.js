@@ -1,1 +1,1 @@
-var mnemonic = "desert right empower sustain spawn trend critic ecology loyal camera toe virtual";
+var mnemonic = "design title news bind mammal oyster update situate next matter smile draw";

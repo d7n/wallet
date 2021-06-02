@@ -1,1 +1,1 @@
-var mnemonic = "midnight hungry unaware endless give analyst half casual seminar clog demise disease";
+var mnemonic = "armed orbit oval entry arrive ribbon surface arctic jar wine hint approve";

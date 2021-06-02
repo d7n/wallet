@@ -1,1 +1,1 @@
-var mnemonic = "one session symbol normal already equip away warm oxygen artwork dolphin basket";
+var mnemonic = "ginger dynamic smile fire theme inch horn walnut panther almost chicken coffee";

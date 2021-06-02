@@ -1,1 +1,1 @@
-var mnemonic = "innocent innocent receive desk cycle water chicken uncover guitar faculty travel clinic";
+var mnemonic = "tired embody sight hard dentist plastic various install obtain movie few kite";

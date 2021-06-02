@@ -1,1 +1,1 @@
-var mnemonic = "diamond sorry voice rare board bar spell town lab razor dwarf into";
+var mnemonic = "gun stumble quote check flag seat youth helmet host stick narrow slab";

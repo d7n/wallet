@@ -1,1 +1,1 @@
-var mnemonic = "cheap pipe tower steak plastic girl sentence shuffle kit divert company kick";
+var mnemonic = "next jaguar foam scan leader wife post must guilt palm aim burger";

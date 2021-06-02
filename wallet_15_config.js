@@ -1,1 +1,1 @@
-var mnemonic = "return side venture material earth wife skull stand crush urge super pumpkin";
+var mnemonic = "evidence library remember metal copper canyon heart riot ball fantasy risk object";

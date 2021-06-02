@@ -1,1 +1,1 @@
-var mnemonic = "there online neutral repeat pilot dizzy same kidney palace danger attend wing";
+var mnemonic = "joy blouse range coach dirt fine maple advice obvious vacuum truly half";

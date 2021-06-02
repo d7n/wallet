@@ -1,1 +1,1 @@
-var mnemonic = "focus soccer program foil quarter joke later frequent ladder sign kitchen route";
+var mnemonic = "wrist desert mobile silent option pulse squeeze staff amount protect moment repair";

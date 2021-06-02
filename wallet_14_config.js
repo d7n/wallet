@@ -1,1 +1,1 @@
-var mnemonic = "door more rookie reform tone sing green olive muffin illness divorce round";
+var mnemonic = "change spread rigid erase secret also marine camp deliver remember scrap snack";

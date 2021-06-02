@@ -1,1 +1,1 @@
-var mnemonic = "salon depend wild craft trumpet fork street series game advance taste ranch";
+var mnemonic = "parent recipe silly insect caught knee ready split stem cluster defy symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient boy private abuse essay atom twist soldier burger thrive envelope neutral";
+var mnemonic = "achieve wage first mango steak worry like assault globe army glue pill";

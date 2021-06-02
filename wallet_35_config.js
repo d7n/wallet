@@ -1,1 +1,1 @@
-var mnemonic = "hole improve mention early balance donor mesh hire tackle north welcome again";
+var mnemonic = "stairs blur resist vivid vanish smart range survey disorder surround armed struggle";

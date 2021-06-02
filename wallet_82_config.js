@@ -1,1 +1,1 @@
-var mnemonic = "injury face multiply bomb inquiry wage course artwork renew fossil invest copper";
+var mnemonic = "jewel choice image aware pen mother apology blame present author draft because";

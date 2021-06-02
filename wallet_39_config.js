@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fluid flame unfair sick door butter test dust foam summer sport";
+var mnemonic = "purpose task uphold dinosaur gloom hole repair inside use park inquiry school";

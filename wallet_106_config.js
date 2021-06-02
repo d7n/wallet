@@ -1,1 +1,1 @@
-var mnemonic = "brown only guess alert input mesh often donate panther seek hunt balance";
+var mnemonic = "beach mask broccoli hamster across top hair menu thunder walnut popular bus";

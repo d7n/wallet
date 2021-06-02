@@ -1,1 +1,1 @@
-var mnemonic = "daring tide final door toward pigeon prevent rose comic approve question garden";
+var mnemonic = "crazy odor screen stamp night danger puzzle attend snake inject vapor sample";

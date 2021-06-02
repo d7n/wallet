@@ -1,1 +1,1 @@
-var mnemonic = "crawl host leave ignore zoo magic exist melody nose prison night spirit";
+var mnemonic = "soul mean minor immense edit possible crisp cat evolve wife erase horror";

@@ -1,1 +1,1 @@
-var mnemonic = "novel note long mean sugar rotate lunar exile later muscle monkey forward";
+var mnemonic = "quiz belt dash entire upper fiscal entry royal able clock bargain two";

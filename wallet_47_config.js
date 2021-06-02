@@ -1,1 +1,1 @@
-var mnemonic = "bullet sock earn chaos catch gorilla rifle menu fruit abuse fancy wool";
+var mnemonic = "exact fortune child scale witness blue claw inherit thank boy spin summer";

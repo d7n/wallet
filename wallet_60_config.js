@@ -1,1 +1,1 @@
-var mnemonic = "regret more goat kitchen tragic case twenty unusual energy neglect arctic world";
+var mnemonic = "stadium harbor exclude service omit cup wink defy salad say proud math";

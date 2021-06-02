@@ -1,1 +1,1 @@
-var mnemonic = "school expect dignity pear twin oxygen concert involve razor actress rally urban";
+var mnemonic = "idea human main enhance pitch bounce idea age buffalo cousin believe swamp";

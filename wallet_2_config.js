@@ -1,1 +1,1 @@
-var mnemonic = "tongue join bid treat kick scale machine alert when pepper you year";
+var mnemonic = "parrot bitter strong language room mercy twelve trend concert sadness merry embody";

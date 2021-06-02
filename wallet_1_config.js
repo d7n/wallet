@@ -1,1 +1,1 @@
-var mnemonic = "myself switch butter insane fire connect rubber april window remind mistake almost";
+var mnemonic = "april sand tuition sheriff cloth ghost master host lucky intact era supply";

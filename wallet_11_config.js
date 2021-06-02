@@ -1,1 +1,1 @@
-var mnemonic = "square winter verb lemon vault summer hybrid snow cluster nose myth panel";
+var mnemonic = "culture program fox rather almost excuse move into hungry under owner again";

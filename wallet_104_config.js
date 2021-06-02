@@ -1,1 +1,1 @@
-var mnemonic = "rain voyage miss ridge screen comic educate sunny vessel core observe image";
+var mnemonic = "style sunny grow mystery reopen couch state tourist better crisp ostrich kiwi";

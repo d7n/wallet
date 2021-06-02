@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog shallow destroy smile fox popular summer ignore notable enrich upset design";
+var mnemonic = "quick enter elder pole plastic dumb record chunk real million critic great";

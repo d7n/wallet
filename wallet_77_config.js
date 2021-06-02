@@ -1,1 +1,1 @@
-var mnemonic = "fruit mouse tissue laugh income fancy spy lizard primary click purity law";
+var mnemonic = "razor attract camera dolphin awesome write hedgehog item lonely path noble spare";

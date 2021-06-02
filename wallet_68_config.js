@@ -1,1 +1,1 @@
-var mnemonic = "split swamp window client brief day kitten measure away carpet tower waste";
+var mnemonic = "chunk again pioneer curtain nothing author treat mutual yellow gather hurt situate";

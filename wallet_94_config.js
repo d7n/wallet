@@ -1,1 +1,1 @@
-var mnemonic = "frog visual drama excess win never dry slice find sea search pave";
+var mnemonic = "outside win poet dog plunge better damp maximum nerve trip question segment";

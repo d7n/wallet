@@ -1,1 +1,1 @@
-var mnemonic = "label autumn oil flavor elegant lab summer palace hint blade green stay";
+var mnemonic = "apart tiny betray auto acquire update voyage outside amateur seed public exist";

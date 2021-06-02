@@ -1,1 +1,1 @@
-var mnemonic = "foot powder assist there stage prefer crawl ill horror fabric extend coach";
+var mnemonic = "pull roof shock elegant large sugar royal nasty crime fluid cushion solar";

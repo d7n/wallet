@@ -1,1 +1,1 @@
-var mnemonic = "youth theory misery panic offer couple lizard ridge absorb like rose general";
+var mnemonic = "pulp help garage next remove increase agree benefit crawl slim famous bacon";

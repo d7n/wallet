@@ -1,1 +1,1 @@
-var mnemonic = "retreat offer crowd situate gorilla unusual domain demand table impose oxygen south";
+var mnemonic = "much rate economy alter omit garment nurse impulse woman employ unusual weapon";

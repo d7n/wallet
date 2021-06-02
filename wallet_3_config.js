@@ -1,1 +1,1 @@
-var mnemonic = "flat bright burden digital life sing lion fog replace side someone pigeon";
+var mnemonic = "cage fresh autumn cinnamon pear shallow setup wire critic monitor miss primary";

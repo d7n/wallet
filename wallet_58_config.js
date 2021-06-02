@@ -1,1 +1,1 @@
-var mnemonic = "recipe note dynamic surround banana before because dismiss salon infant chef worth";
+var mnemonic = "appear cycle morning example truly travel orange loop special picture limb crush";

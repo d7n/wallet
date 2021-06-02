@@ -1,1 +1,1 @@
-var mnemonic = "scan beyond machine gas gun ramp write what pledge zero critic begin";
+var mnemonic = "topple renew carbon fortune boy sweet episode comic liar lunch float search";

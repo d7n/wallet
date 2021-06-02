@@ -1,1 +1,1 @@
-var mnemonic = "term egg bullet churn fee route focus salt screen galaxy ivory kitchen";
+var mnemonic = "space balcony police age skill inject buffalo parrot analyst margin absorb ordinary";

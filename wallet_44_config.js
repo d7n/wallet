@@ -1,1 +1,1 @@
-var mnemonic = "travel curious hover prison junk depart strategy negative brand draft frame antenna";
+var mnemonic = "ask library wool drip east ranch battle rich public spirit march lava";

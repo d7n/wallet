@@ -1,1 +1,1 @@
-var mnemonic = "exit gather shy sight proof reward diet satoshi melt fruit win slice";
+var mnemonic = "emerge camp cook ensure boy clock final gift shy denial review soda";

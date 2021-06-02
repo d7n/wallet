@@ -1,1 +1,1 @@
-var mnemonic = "dry squeeze proof horror text struggle battle educate captain under gorilla mechanic";
+var mnemonic = "raccoon toss mimic gauge radio final point clap put aerobic virtual one";

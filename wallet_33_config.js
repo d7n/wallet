@@ -1,1 +1,1 @@
-var mnemonic = "forget senior cause emotion hair useless awkward virtual leave talk bread eagle";
+var mnemonic = "shop relax unique sugar clay library squeeze giggle rely ancient pool corn";

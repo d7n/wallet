@@ -1,1 +1,1 @@
-var mnemonic = "tourist gentle poet rough bridge bitter slot salt alley earn pear shrimp";
+var mnemonic = "sing defense bag owner purse worry absent tonight slim wrist hero quote";

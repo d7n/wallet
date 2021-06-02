@@ -1,1 +1,1 @@
-var mnemonic = "vacuum suffer unable thrive food favorite blade where record city zero pig";
+var mnemonic = "march much easily arch thrive monkey divide excuse fragile item memory increase";

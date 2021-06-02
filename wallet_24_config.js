@@ -1,1 +1,1 @@
-var mnemonic = "outer copper exotic vivid hospital regret onion inform place comic sorry chase";
+var mnemonic = "hedgehog used pony heavy put ice ensure supreme pupil kingdom pear often";

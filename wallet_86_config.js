@@ -1,1 +1,1 @@
-var mnemonic = "huge hurdle one erupt nothing announce vanish riot fame hazard carry later";
+var mnemonic = "hungry dove flip nerve shrug symbol dice silent garbage outside cool mass";

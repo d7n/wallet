@@ -1,1 +1,1 @@
-var mnemonic = "paper elder lend panther sleep breeze raw prepare main mixture own tomato";
+var mnemonic = "copper cube balcony dog sudden wool loop brick joke friend input juice";

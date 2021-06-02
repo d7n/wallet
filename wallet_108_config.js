@@ -1,1 +1,1 @@
-var mnemonic = "clerk celery math curtain exotic problem fitness legal put real zero table";
+var mnemonic = "soldier lesson ghost crunch occur brave clap beef inch execute season biology";

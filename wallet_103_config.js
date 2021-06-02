@@ -1,1 +1,1 @@
-var mnemonic = "mimic physical pizza inject mail poem gain valley empty believe laptop resemble";
+var mnemonic = "luxury laundry grace win flat immune nice exclude stand pool guess author";

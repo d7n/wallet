@@ -1,1 +1,1 @@
-var mnemonic = "party city riot random time endorse resemble happy they misery okay crisp";
+var mnemonic = "correct trip sleep citizen choice trigger liquid narrow multiply deliver obey sniff";

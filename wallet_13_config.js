@@ -1,1 +1,1 @@
-var mnemonic = "level repair fatigue envelope taxi dice wolf desert settle excess web impact";
+var mnemonic = "nominee tired print trade cheap gasp jazz special mountain later act safe";

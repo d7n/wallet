@@ -1,1 +1,1 @@
-var mnemonic = "strike turn away cage tenant gather custom index raccoon crystal plastic adjust";
+var mnemonic = "lawsuit bridge cool wool joy tired explain blossom chef wrestle fence capable";

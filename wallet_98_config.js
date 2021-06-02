@@ -1,1 +1,1 @@
-var mnemonic = "merry nuclear neglect gym come clip bargain damage disagree example friend noise";
+var mnemonic = "blood soul void hunt muscle circle brother fatigue initial crime island age";

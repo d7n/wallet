@@ -1,1 +1,1 @@
-var mnemonic = "furnace real glass whisper feel cherry nurse angle result winter cargo clean";
+var mnemonic = "nothing burger trim cook huge custom wave double mouse jungle ketchup wrong";

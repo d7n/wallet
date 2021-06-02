@@ -1,1 +1,1 @@
-var mnemonic = "climb exhibit immune plunge media nature swim crane auto evolve cross ketchup";
+var mnemonic = "vault input faculty broom lobster net above way crash slow police warfare";

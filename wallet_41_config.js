@@ -1,1 +1,1 @@
-var mnemonic = "outer ecology draw winter runway festival intact defy hidden dinosaur rain hour";
+var mnemonic = "element thought joke buffalo symbol install also range cool gap battle follow";

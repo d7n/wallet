@@ -1,1 +1,1 @@
-var mnemonic = "salon crash erase armed siege derive erode fatal apple explain gown audit";
+var mnemonic = "over coin own interest sponsor whisper assault soon venue stool behind sauce";

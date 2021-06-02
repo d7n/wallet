@@ -1,1 +1,1 @@
-var mnemonic = "swim memory walk legal dial spawn major dad captain draw rare ill";
+var mnemonic = "ginger file grief walk you fury base recall normal walnut travel angry";

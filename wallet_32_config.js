@@ -1,1 +1,1 @@
-var mnemonic = "canoe weasel fix lawn just sand satoshi trash mansion sibling wrestle benefit";
+var mnemonic = "blanket craft slide trick attract success property tell hospital purity pet top";

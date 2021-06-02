@@ -1,1 +1,1 @@
-var mnemonic = "holiday play awful melt when kind mirror ring test valley deputy gorilla";
+var mnemonic = "diet coil mask lesson film aim agree rebel govern pet nominee avoid";

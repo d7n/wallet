@@ -1,1 +1,1 @@
-var mnemonic = "fan cabbage project draw tail social escape promote circle curtain session primary";
+var mnemonic = "grain abandon furnace meadow hour certain maid vague grain gather summer verb";

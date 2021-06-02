@@ -1,1 +1,1 @@
-var mnemonic = "rhythm shaft ball produce income soup fringe album hazard perfect pluck maximum";
+var mnemonic = "limb soul peanut pumpkin broken man permit grab inspire fragile artwork crucial";

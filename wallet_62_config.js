@@ -1,1 +1,1 @@
-var mnemonic = "sausage engage theory found rare human pool august scale argue hazard lab";
+var mnemonic = "faculty hair dog gesture silly judge eternal mesh sail height shrug quit";

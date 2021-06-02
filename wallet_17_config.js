@@ -1,1 +1,1 @@
-var mnemonic = "pistol opera amazing slight pair brisk artist habit laundry delay void drive";
+var mnemonic = "muffin measure pig country truly help boring term flight degree nurse off";

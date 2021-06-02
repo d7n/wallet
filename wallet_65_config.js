@@ -1,1 +1,1 @@
-var mnemonic = "shallow height valley turkey level rice fatal outer concert daughter project hood";
+var mnemonic = "then become describe immense style mix bundle someone then situate rate december";

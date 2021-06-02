@@ -1,1 +1,1 @@
-var mnemonic = "light situate train state knock have whisper ginger omit rifle bleak disease";
+var mnemonic = "saddle claim slab skirt joke nerve ignore access stay kid zebra path";

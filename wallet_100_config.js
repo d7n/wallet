@@ -1,1 +1,1 @@
-var mnemonic = "coffee rhythm castle either solve abuse year case elevator daughter version venue";
+var mnemonic = "ability trip book walk milk cargo educate chuckle gravity bitter edit rack";

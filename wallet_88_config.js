@@ -1,1 +1,1 @@
-var mnemonic = "deposit rib debris blouse shield put budget around option improve robot wine";
+var mnemonic = "whip virtual claw remain gorilla attend canvas jacket record blade loud range";

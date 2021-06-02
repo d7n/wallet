@@ -1,1 +1,1 @@
-var mnemonic = "wire local cattle jacket fun lunar section cattle fault sibling layer deal";
+var mnemonic = "mountain menu awesome swear moon risk ill elevator small scatter turn list";

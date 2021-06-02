@@ -1,1 +1,1 @@
-var mnemonic = "point boost drift kangaroo kind absent media ancient priority broom goat worth";
+var mnemonic = "drill wait second shove can lesson oil major machine rocket game receive";

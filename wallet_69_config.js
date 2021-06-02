@@ -1,1 +1,1 @@
-var mnemonic = "album mystery defense tonight earn ridge venue board wide post tell educate";
+var mnemonic = "cotton luggage when matter shuffle clip burst sail velvet dress art loud";

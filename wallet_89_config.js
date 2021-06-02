@@ -1,1 +1,1 @@
-var mnemonic = "wolf boss electric sight rug spy defense number theory over route puppy";
+var mnemonic = "dose accuse snow oblige almost habit scheme panic stomach hundred spider silver";

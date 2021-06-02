@@ -1,1 +1,1 @@
-var mnemonic = "net mixture hawk have please aim scrap panda charge faint violin permit";
+var mnemonic = "diary shift top dance flower they slender brisk dawn neglect clap electric";

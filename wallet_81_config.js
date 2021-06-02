@@ -1,1 +1,1 @@
-var mnemonic = "shed horror skill wash panic agree lottery dirt kidney maid sudden robot";
+var mnemonic = "cash faith sugar remember reject one romance this elbow unveil scan ketchup";

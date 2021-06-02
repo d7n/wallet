@@ -1,1 +1,1 @@
-var mnemonic = "only village east manual share tray stem ship picture chapter fluid tennis";
+var mnemonic = "aunt flash learn hundred twice direct body junk pool slender address dragon";

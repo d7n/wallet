@@ -1,1 +1,1 @@
-var mnemonic = "virtual fever witness crouch until head trust isolate soap enforce donor life";
+var mnemonic = "dust like try grocery frozen vault food spread garage emerge false drama";

@@ -1,1 +1,1 @@
-var mnemonic = "family enroll edit hospital column defense dust parrot mansion antenna surprise canvas";
+var mnemonic = "basic canvas ecology armed twenty unfair actress december protect trumpet know distance";

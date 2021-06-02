@@ -1,1 +1,1 @@
-var mnemonic = "sad meadow hazard canoe slow survey green ticket cheap bus unaware concert";
+var mnemonic = "cost muffin scheme shrug split abuse exile head fatal guide write cool";

@@ -1,1 +1,1 @@
-var mnemonic = "sample situate nice sponsor cupboard egg bright chicken toilet list slush coffee";
+var mnemonic = "garlic lemon seminar crowd divorce month peanut together divide rescue document together";

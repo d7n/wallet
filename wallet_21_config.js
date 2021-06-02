@@ -1,1 +1,1 @@
-var mnemonic = "vast fine address novel guitar since eagle wrist wheat click regular trade";
+var mnemonic = "unlock gaze powder bridge limb lab muscle museum craft convince forum twelve";

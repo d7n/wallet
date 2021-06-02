@@ -1,1 +1,1 @@
-var mnemonic = "reunion protect reunion will uniform nation ankle select absorb blind blanket attend";
+var mnemonic = "luxury nice goddess gesture result gloom opera lion pass radar fragile space";
