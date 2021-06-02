@@ -1,1 +1,1 @@
-var mnemonic = "view pig memory wash enrich online scene agent flag jelly wife fork";
+var mnemonic = "pill two void gasp man rough kidney cabin knee paper chapter civil";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal arrow used awesome fire naive lift profit control punch whisper empty";
+var mnemonic = "guide design melt orange scorpion drastic situate scale grab payment notable where";

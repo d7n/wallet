@@ -1,1 +1,1 @@
-var mnemonic = "marriage elder opera meadow pistol process bundle puppy tomato lottery mutual swallow";
+var mnemonic = "monster trim obvious age foam quantum ceiling dream exchange opinion safe brick";

@@ -1,1 +1,1 @@
-var mnemonic = "duck mother ozone service law draw morning bronze stove mango disease heavy";
+var mnemonic = "pilot wage note upgrade dose luggage teach effort monitor glad blanket cannon";

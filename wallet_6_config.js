@@ -1,1 +1,1 @@
-var mnemonic = "arena trend hero bag destroy snow inside ketchup detail ask cart swear";
+var mnemonic = "fence pepper interest snap hurdle lucky oppose elbow horror guitar shy water";

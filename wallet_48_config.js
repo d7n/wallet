@@ -1,1 +1,1 @@
-var mnemonic = "flight hero network romance cross segment office aisle lemon virus adapt page";
+var mnemonic = "visa invite library sustain travel suffer message catch famous banana struggle panda";

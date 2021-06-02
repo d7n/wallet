@@ -1,1 +1,1 @@
-var mnemonic = "pottery draft love exclude lizard planet planet kitten moon cabbage multiply dolphin";
+var mnemonic = "enrich ridge buffalo divorce program grocery simple empty hurry acid habit put";

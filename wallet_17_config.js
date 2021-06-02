@@ -1,1 +1,1 @@
-var mnemonic = "stomach coyote dove apology vote seat life mobile citizen spend nurse forum";
+var mnemonic = "grow area celery month night sign popular denial affair vibrant virtual toss";

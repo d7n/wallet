@@ -1,1 +1,1 @@
-var mnemonic = "faculty ridge blue toe empty result settle media first shield fiscal guard";
+var mnemonic = "wasp observe upon mercy drop human zoo basket nuclear kiwi noble connect";

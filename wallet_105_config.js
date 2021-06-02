@@ -1,1 +1,1 @@
-var mnemonic = "brass left shy pattern thrive town aspect animal perfect feed push belt";
+var mnemonic = "equip split promote baby acoustic laptop enough spawn unit use shrimp perfect";

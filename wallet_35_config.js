@@ -1,1 +1,1 @@
-var mnemonic = "bless embody absorb debris disagree knock stuff issue intact scissors bind candy";
+var mnemonic = "deny frost talent share actual news asset novel gadget draw worry genre";

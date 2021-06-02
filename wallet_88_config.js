@@ -1,1 +1,1 @@
-var mnemonic = "stone april entry proof yard bus nominee expand aisle pledge cram cream";
+var mnemonic = "mushroom symbol monkey thrive nice select decade live stage fix tool fix";

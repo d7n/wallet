@@ -1,1 +1,1 @@
-var mnemonic = "move lake mesh unaware meat snack stamp indoor install bacon camera ball";
+var mnemonic = "habit prefer begin found bulk industry maple famous excess then half wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "few yellow voyage turn detail author until lock include foot balance elder";
+var mnemonic = "cloud knife confirm minimum magic coral boat use replace front fit social";

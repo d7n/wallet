@@ -1,1 +1,1 @@
-var mnemonic = "oil room require unaware open wide earn material noble health stay toward";
+var mnemonic = "air citizen avoid diary afraid witness entire valley second recipe hair fall";

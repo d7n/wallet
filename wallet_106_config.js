@@ -1,1 +1,1 @@
-var mnemonic = "famous host drive poverty blast someone comic local trade curve denial person";
+var mnemonic = "deputy report unit write hello alpha all faith among dinosaur pretty debris";

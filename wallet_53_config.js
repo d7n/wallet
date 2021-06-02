@@ -1,1 +1,1 @@
-var mnemonic = "dune few three shove dinosaur toward hollow foam mobile sponsor float document";
+var mnemonic = "inhale notable girl morning faint zone defy place woman flame never case";

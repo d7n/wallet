@@ -1,1 +1,1 @@
-var mnemonic = "option solve struggle thing taste clutch pretty face split before tribe plunge";
+var mnemonic = "sad alcohol wish behave vessel wasp furnace gasp ancient eight float benefit";

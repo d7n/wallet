@@ -1,1 +1,1 @@
-var mnemonic = "limb escape hood ceiling public allow six ocean market mutual army gold";
+var mnemonic = "outdoor shrimp cave pen neglect kid tennis giggle blade nature unhappy slim";

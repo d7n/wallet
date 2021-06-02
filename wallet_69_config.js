@@ -1,1 +1,1 @@
-var mnemonic = "skull leg invite dumb kangaroo girl tuition fox endorse gorilla urge fossil";
+var mnemonic = "speak surprise toddler head floor cherry actor assist crack apart meat delay";

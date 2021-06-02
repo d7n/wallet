@@ -1,1 +1,1 @@
-var mnemonic = "hurry assault scale plug include alien spread cigar doll october keep annual";
+var mnemonic = "climb sword boy thumb mosquito diamond obtain hurt spoil night thought youth";

@@ -1,1 +1,1 @@
-var mnemonic = "simple live scissors inherit mechanic eager forward chat rebel put submit athlete";
+var mnemonic = "monitor actor cheap sea maximum once soft wool chronic switch detect purchase";

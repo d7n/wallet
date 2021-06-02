@@ -1,1 +1,1 @@
-var mnemonic = "next gentle paper fat attend shine faith slot pepper addict flat retreat";
+var mnemonic = "radar inch turtle word glove wage parrot vocal cabin flip aerobic fossil";

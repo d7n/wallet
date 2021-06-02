@@ -1,1 +1,1 @@
-var mnemonic = "reason step boy mention web brave glory random soap crouch blue mechanic";
+var mnemonic = "invite tag ghost return destroy corn trigger example glad hedgehog grape length";

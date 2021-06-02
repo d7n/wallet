@@ -1,1 +1,1 @@
-var mnemonic = "plug life convince october hire excite silent team local local much lady";
+var mnemonic = "price layer charge maze decide aim tuition index pizza access better bargain";

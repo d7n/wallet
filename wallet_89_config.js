@@ -1,1 +1,1 @@
-var mnemonic = "fruit later leaf sauce napkin cube settle stage crush pigeon service ski";
+var mnemonic = "paddle kind apple tell fish salad arm decade easy regular despair police";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger twelve hospital kingdom dial spirit casino boss auction magic love subject";
+var mnemonic = "way dynamic fire enact tip immune lottery mango proud mad essay provide";

@@ -1,1 +1,1 @@
-var mnemonic = "junk hen route mother crack gentle dentist guide donor auction dove water";
+var mnemonic = "polar sponsor talent need comic amateur stay six range crash private combine";

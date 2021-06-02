@@ -1,1 +1,1 @@
-var mnemonic = "moment depend over clean rail staff sibling cargo shy document drive vessel";
+var mnemonic = "cry pumpkin crew ranch dry struggle belt level maximum tornado flower mom";

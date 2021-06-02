@@ -1,1 +1,1 @@
-var mnemonic = "guard chat glad recycle now grant mad cover elevator during neither frame";
+var mnemonic = "art barely parrot miracle taste group access share aware curtain sketch gun";

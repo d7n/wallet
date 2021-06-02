@@ -1,1 +1,1 @@
-var mnemonic = "rebel cigar idea stone mouse scare famous kangaroo entire layer holiday wage";
+var mnemonic = "project glass margin sunny phone black dwarf wife feed code canyon room";

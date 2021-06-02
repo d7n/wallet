@@ -1,1 +1,1 @@
-var mnemonic = "cancel picnic remember february edit picnic enforce amount fee shock power pen";
+var mnemonic = "require assist judge smoke hurdle divorce bleak pizza drink ribbon robust float";

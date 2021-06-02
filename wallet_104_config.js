@@ -1,1 +1,1 @@
-var mnemonic = "same bleak obvious quarter wonder will voice salad social food boring salute";
+var mnemonic = "latin school jar cute pond crime alert laundry minimum trade trouble small";

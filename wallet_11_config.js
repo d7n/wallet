@@ -1,1 +1,1 @@
-var mnemonic = "chuckle rotate royal wine then enhance evil aim label lemon spend odor";
+var mnemonic = "differ vehicle boil pass ankle develop surprise prosper client chaos patch melt";

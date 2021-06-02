@@ -1,1 +1,1 @@
-var mnemonic = "genuine boss tortoise domain project exit broom awake steak stone refuse dice";
+var mnemonic = "middle sustain simple rule air shock timber tunnel bright grape juice add";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber trap trial empty fashion february few region dry staff place excuse";
+var mnemonic = "lyrics moral bench dog cement one grant solve ripple course purpose space";

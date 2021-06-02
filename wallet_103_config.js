@@ -1,1 +1,1 @@
-var mnemonic = "ethics discover method dirt morning bubble wear enable ocean crack quarter wheat";
+var mnemonic = "wheat raw nest letter debate code true usage garden trip drift laugh";

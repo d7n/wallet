@@ -1,1 +1,1 @@
-var mnemonic = "bonus sorry pool shiver filter clever royal extra narrow ski fiber client";
+var mnemonic = "kind oblige hole trip cruise unhappy limit ritual fuel shift atom fat";

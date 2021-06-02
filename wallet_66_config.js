@@ -1,1 +1,1 @@
-var mnemonic = "moment increase fortune dinosaur bracket section glove bleak purchase zone soccer cook";
+var mnemonic = "purpose any find raven shine another tip hurdle fold frequent rebel city";

@@ -1,1 +1,1 @@
-var mnemonic = "message reflect evidence spawn turtle sustain foot weird drama velvet genius yellow";
+var mnemonic = "bird enhance key rifle artwork rotate cry educate potato issue balcony bench";

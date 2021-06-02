@@ -1,1 +1,1 @@
-var mnemonic = "quarter must educate elegant giraffe industry matrix leaf biology butter debris cereal";
+var mnemonic = "express plug mom recipe state between true season pride search bonus father";

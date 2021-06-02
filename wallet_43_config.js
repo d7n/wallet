@@ -1,1 +1,1 @@
-var mnemonic = "wide liar ice gold fringe arm hurt chase soldier color south destroy";
+var mnemonic = "blade rose bind buyer cash six bar reason nest raw system direct";

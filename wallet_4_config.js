@@ -1,1 +1,1 @@
-var mnemonic = "garage mercy visa island differ render report bread bird rail lumber tattoo";
+var mnemonic = "tell mutual smile oven swallow beach plate reveal deposit damage soul wash";

@@ -1,1 +1,1 @@
-var mnemonic = "prison marriage drift wash ceiling area couch abstract vocal early marble file";
+var mnemonic = "repair matrix jaguar utility apart switch recycle corn escape print sing absurd";

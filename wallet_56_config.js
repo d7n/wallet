@@ -1,1 +1,1 @@
-var mnemonic = "drum execute latin peasant easy brown cherry side crunch tray outer eyebrow";
+var mnemonic = "jar improve hotel draw spin sustain feature rigid exotic offer dad between";

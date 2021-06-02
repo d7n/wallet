@@ -1,1 +1,1 @@
-var mnemonic = "proud because analyst mutual marriage blast village visit device coil mimic vicious";
+var mnemonic = "lawsuit capable man hunt mass orbit farm kiss ill craft soup chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "air opinion dial blush door abuse glory sock quit hungry cliff critic";
+var mnemonic = "city fury other amateur avoid apart damp hat stand city hire keen";

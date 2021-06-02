@@ -1,1 +1,1 @@
-var mnemonic = "bridge prepare orange dose tiny twist sting humble jungle error piano afraid";
+var mnemonic = "exit swamp today find resource awkward banana tomato umbrella void review insect";

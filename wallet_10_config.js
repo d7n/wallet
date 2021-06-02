@@ -1,1 +1,1 @@
-var mnemonic = "maximum stock viable vehicle shell talent citizen armor truth law exercise this";
+var mnemonic = "thought tragic globe rack type double success type hundred priority have rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong leopard brief water kingdom dirt hat frozen process deal boring merge";
+var mnemonic = "few energy van afford rule banana decorate hedgehog lounge ahead congress adapt";

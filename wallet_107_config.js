@@ -1,1 +1,1 @@
-var mnemonic = "call duty trust member stable slush innocent aisle reunion winter balcony violin";
+var mnemonic = "warfare machine marriage chimney shift dice pair talk early figure sibling episode";

@@ -1,1 +1,1 @@
-var mnemonic = "document slender nephew accuse useful trial dizzy permit country person behind eagle";
+var mnemonic = "gain syrup pair tag churn cute camera income plate picnic mobile dice";

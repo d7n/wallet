@@ -1,1 +1,1 @@
-var mnemonic = "casino sadness item swing room goose math people palace machine scorpion easily";
+var mnemonic = "cash slam thrive veteran almost peanut tank chest main boss venture disagree";

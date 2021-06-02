@@ -1,1 +1,1 @@
-var mnemonic = "zero exact space machine ankle modify tomorrow bird december cube vivid coffee";
+var mnemonic = "deny hedgehog pink wife unusual embody tank layer panic snack exact system";

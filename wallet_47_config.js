@@ -1,1 +1,1 @@
-var mnemonic = "census primary believe wrong city common neutral loud reunion flag skull pair";
+var mnemonic = "machine venture expose skin life verb country habit scan fiber often island";

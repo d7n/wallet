@@ -1,1 +1,1 @@
-var mnemonic = "pottery child heart abuse clinic debris lazy grant coil recall heart lion";
+var mnemonic = "candy innocent state sea excess fitness inner employ cricket wheel depart rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform letter spike drum piano option scatter exile monster narrow baby first";
+var mnemonic = "owner treat art grab second minute midnight wire lumber offer curve rough";

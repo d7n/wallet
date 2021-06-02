@@ -1,1 +1,1 @@
-var mnemonic = "category merge invest agree hero wolf trend gain mixed infant clip common";
+var mnemonic = "review canvas laptop fashion chalk puzzle educate dance extra churn mimic excite";

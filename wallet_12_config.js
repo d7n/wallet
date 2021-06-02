@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chase wink muffin scissors spot treat crowd grit cruise notable proud";
+var mnemonic = "orient nice regular wreck gravity bonus truth limit then cat chief viable";

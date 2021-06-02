@@ -1,1 +1,1 @@
-var mnemonic = "share spend episode ripple wasp churn shuffle funny draft elbow pond nothing";
+var mnemonic = "lab involve table cliff cute skate jewel cushion orbit body want service";

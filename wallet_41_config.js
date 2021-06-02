@@ -1,1 +1,1 @@
-var mnemonic = "better jazz leg base win call firm lawsuit allow truth foster when";
+var mnemonic = "picnic uncle push pencil elbow actual anxiety blame fury dutch during achieve";

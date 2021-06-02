@@ -1,1 +1,1 @@
-var mnemonic = "exist field gorilla pig error cloth virtual honey sick poet couple awake";
+var mnemonic = "dentist outdoor away salute cherry napkin enact culture away same session alone";

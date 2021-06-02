@@ -1,1 +1,1 @@
-var mnemonic = "salon must squirrel chief gravity donkey home game mammal trouble milk upon";
+var mnemonic = "trigger camp fresh angry slogan true emotion side always feature pencil coral";

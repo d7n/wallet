@@ -1,1 +1,1 @@
-var mnemonic = "crew convince solar right jar guitar owner dumb step cycle breeze budget";
+var mnemonic = "future mixed steak design worth eager chief possible inform urge flight soft";

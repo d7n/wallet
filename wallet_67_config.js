@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo flight access curious carry owner tray square impulse miracle any sunset";
+var mnemonic = "know vault drama surprise cattle all liberty word fall risk tag siege";

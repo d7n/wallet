@@ -1,1 +1,1 @@
-var mnemonic = "where loud myth amateur clog ask wire flash shift meadow salon curtain";
+var mnemonic = "color female inner cushion around arena bonus october toward code invite tape";

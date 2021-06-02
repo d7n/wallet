@@ -1,1 +1,1 @@
-var mnemonic = "forest else castle bubble funny alarm claim prosper observe suspect antenna digital";
+var mnemonic = "frame purpose soup abstract crane flash mention purpose whale ocean spatial antique";

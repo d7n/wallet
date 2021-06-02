@@ -1,1 +1,1 @@
-var mnemonic = "artist wrong charge auction guitar require random mix virus mountain afraid slide";
+var mnemonic = "salon sleep blind ready museum love wash write rocket enemy input maximum";

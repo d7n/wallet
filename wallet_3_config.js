@@ -1,1 +1,1 @@
-var mnemonic = "grief peace invite position hawk match achieve old dinosaur palm flee item";
+var mnemonic = "tube rather obey drum banner save umbrella wine human spare hammer midnight";

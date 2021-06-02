@@ -1,1 +1,1 @@
-var mnemonic = "dirt liquid parent sick slim east motor already extra frozen order face";
+var mnemonic = "find emotion junior paddle track bag gun olive crumble sorry alarm guilt";

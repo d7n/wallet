@@ -1,1 +1,1 @@
-var mnemonic = "stadium fury weapon faint voyage panic cute garment unit armed demise prison";
+var mnemonic = "inflict pretty lunar abuse letter ready chat ice assault front cream comfort";

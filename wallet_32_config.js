@@ -1,1 +1,1 @@
-var mnemonic = "brush judge patch leaf boat response soup stay afford elephant flush day";
+var mnemonic = "slogan tongue supply consider rug trap whisper jeans elder narrow produce silk";

@@ -1,1 +1,1 @@
-var mnemonic = "climb insane enough shed moral farm gym ethics any correct youth erode";
+var mnemonic = "summer door grunt apple purity once negative monster kite input pepper lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "debate chief provide amazing dinner bargain fold laundry night lady recipe scissors";
+var mnemonic = "country picnic coin kangaroo try flavor worry jump awful wreck poverty faith";

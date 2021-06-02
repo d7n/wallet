@@ -1,1 +1,1 @@
-var mnemonic = "acquire stone pigeon bulk heart bracket elite mixture wine angle wrong caution";
+var mnemonic = "sell ozone school couple nature fault online nose half stadium tackle comic";

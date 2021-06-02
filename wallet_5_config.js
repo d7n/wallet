@@ -1,1 +1,1 @@
-var mnemonic = "expose cross wing seat dirt farm cheese fruit hurry promote charge layer";
+var mnemonic = "main little sauce animal nephew cactus modify town sunny sad merit candy";

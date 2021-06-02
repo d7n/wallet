@@ -1,1 +1,1 @@
-var mnemonic = "upper tone sauce annual remember oblige choice gentle asset midnight blush couch";
+var mnemonic = "satoshi call marine inherit rail carpet girl patrol sea rice injury cup";

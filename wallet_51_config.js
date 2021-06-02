@@ -1,1 +1,1 @@
-var mnemonic = "spin fiction quick iron desk bar artwork neck fee course safe lion";
+var mnemonic = "protect juice horror history correct arch cycle twice patch idle patrol brisk";

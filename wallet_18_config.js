@@ -1,1 +1,1 @@
-var mnemonic = "repair merge mirror kiss pass drive share force orange turtle chief book";
+var mnemonic = "green fortune shadow sketch finger toward scorpion text super okay walk pipe";

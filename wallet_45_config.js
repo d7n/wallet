@@ -1,1 +1,1 @@
-var mnemonic = "opinion ring language mom story correct isolate barely cement chef legal walnut";
+var mnemonic = "load meadow organ coconut divide abstract put place gift enroll hover sport";

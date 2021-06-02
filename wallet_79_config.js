@@ -1,1 +1,1 @@
-var mnemonic = "front virus slight lizard broccoli crouch seat fatal unlock lesson eager act";
+var mnemonic = "dose emotion edit size pilot silver chimney balcony animal speed tragic program";

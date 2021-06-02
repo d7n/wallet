@@ -1,1 +1,1 @@
-var mnemonic = "enlist prevent fresh inhale shift tell whisper object two divorce early heart";
+var mnemonic = "embark vessel sample easily celery august defense symptom toddler voyage item aunt";

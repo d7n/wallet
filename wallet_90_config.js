@@ -1,1 +1,1 @@
-var mnemonic = "voice gossip citizen soon mixture elevator feel any tide brush rain prison";
+var mnemonic = "typical stadium margin flavor april artist elder oyster excite shy ankle artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "route settle crack poet sun garage flash replace such impose stairs awkward";
+var mnemonic = "maze bright party term agent grid rude ball same cargo soon public";

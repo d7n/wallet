@@ -1,1 +1,1 @@
-var mnemonic = "draft direct settle fall limit denial element indicate embark sun jazz pencil";
+var mnemonic = "crouch typical fitness board misery sing submit brand car gravity monkey wealth";

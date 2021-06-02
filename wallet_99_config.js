@@ -1,1 +1,1 @@
-var mnemonic = "boat limit fatigue under index daring soap mutual pretty enjoy hill rib";
+var mnemonic = "unhappy sense dance galaxy donkey possible private fire casual detect pulse exit";

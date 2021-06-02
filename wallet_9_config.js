@@ -1,1 +1,1 @@
-var mnemonic = "jump chest pigeon weird adjust imitate subject odor sick belt modify black";
+var mnemonic = "glide tuition plunge action pipe average rib final dog invite size gentle";

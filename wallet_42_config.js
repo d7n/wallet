@@ -1,1 +1,1 @@
-var mnemonic = "hire tip sight grant wise win thrive hope awful quantum garden birth";
+var mnemonic = "convince profit attract hill frequent lemon inch target memory sample scrub fantasy";

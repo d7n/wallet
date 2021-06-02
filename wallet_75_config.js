@@ -1,1 +1,1 @@
-var mnemonic = "ring icon fruit job ready nose page gauge device bless vicious normal";
+var mnemonic = "wedding burst divert spice emerge link hawk sign myth horn fashion where";

@@ -1,1 +1,1 @@
-var mnemonic = "culture build pretty violin relief fury ugly learn humor diamond mass similar";
+var mnemonic = "festival garage tribe rain mechanic swamp shuffle such poverty color staff awkward";

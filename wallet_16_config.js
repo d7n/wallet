@@ -1,1 +1,1 @@
-var mnemonic = "coconut kitchen yard palace embark try shoulder tape between novel often captain";
+var mnemonic = "north fluid vague topple river person canal resist about punch gadget odor";

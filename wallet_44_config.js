@@ -1,1 +1,1 @@
-var mnemonic = "rain because victory merry ozone scene biology absorb friend sheriff any vacuum";
+var mnemonic = "problem exhaust stuff type multiply solid cliff cram bounce length space talk";

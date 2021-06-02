@@ -1,1 +1,1 @@
-var mnemonic = "menu lens runway power relax kick resist drum fault churn song paper";
+var mnemonic = "across foam error era hill renew express flock decade vibrant awesome unfair";
