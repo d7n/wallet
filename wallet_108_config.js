@@ -1,1 +1,1 @@
-var mnemonic = "letter soon slogan stage release expose surprise save verb dress kick also";
+var mnemonic = "weekend lounge mail race coffee category drift organ cover capable absent man";

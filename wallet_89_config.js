@@ -1,1 +1,1 @@
-var mnemonic = "cave poet kite wall rebel sense claim embrace often change valve win";
+var mnemonic = "clutch fox kidney glass silk accuse certain extra brush velvet fabric flat";

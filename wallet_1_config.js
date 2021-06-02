@@ -1,1 +1,1 @@
-var mnemonic = "stand merge verify category wild absurd movie trumpet piece drink way diary";
+var mnemonic = "now zero turkey neutral elephant author become trouble satisfy copy film eagle";

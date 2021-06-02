@@ -1,1 +1,1 @@
-var mnemonic = "craft scene become agree army giant end region dentist slim fall lyrics";
+var mnemonic = "outer maple virtual sorry birth stage wonder smile hurry puppy slight car";

@@ -1,1 +1,1 @@
-var mnemonic = "audit awake staff rapid lucky hard essence crazy beyond master snack custom";
+var mnemonic = "stereo upon venue tongue hurdle sea circle cry hard strong suggest imitate";

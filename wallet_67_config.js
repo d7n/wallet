@@ -1,1 +1,1 @@
-var mnemonic = "voyage web radar space inform crop october month chat purity rely student";
+var mnemonic = "ensure practice assume aim alarm wish essay delay evidence century rib dynamic";

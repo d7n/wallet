@@ -1,1 +1,1 @@
-var mnemonic = "execute energy surge disorder cake radio tomorrow same about lift merge visa";
+var mnemonic = "float dumb defy option defense sun question fix toddler civil critic cry";

@@ -1,1 +1,1 @@
-var mnemonic = "people donate divert stay universe hero tray annual universe cook exact wet";
+var mnemonic = "degree drastic bacon inside chalk powder mixture burst update movie umbrella pull";

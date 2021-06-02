@@ -1,1 +1,1 @@
-var mnemonic = "room medal lake amount ocean seed device chimney next jewel midnight wealth";
+var mnemonic = "mechanic fortune velvet trigger liberty hidden denial sail matter exotic jacket boring";

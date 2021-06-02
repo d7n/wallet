@@ -1,1 +1,1 @@
-var mnemonic = "repeat egg muscle loyal large dog adapt call kitchen turkey balcony hybrid";
+var mnemonic = "crater crawl normal lawsuit soon frequent cinnamon unlock tonight agent alarm cube";

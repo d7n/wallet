@@ -1,1 +1,1 @@
-var mnemonic = "layer avoid story gather gas cupboard between village essay piece member prison";
+var mnemonic = "inform seed critic cement donate fan rug visual orphan frozen tree tribe";

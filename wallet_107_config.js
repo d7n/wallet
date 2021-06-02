@@ -1,1 +1,1 @@
-var mnemonic = "stereo profit blossom bubble near plate license deputy doctor grid cool check";
+var mnemonic = "dinosaur coin curious glare master liquid trick table bacon debris female fade";

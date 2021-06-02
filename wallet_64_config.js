@@ -1,1 +1,1 @@
-var mnemonic = "elbow forward enforce favorite harsh credit canoe crowd faculty fuel charge gain";
+var mnemonic = "column tell light degree blame next soul spray abandon toddler address spike";

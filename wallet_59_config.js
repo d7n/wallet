@@ -1,1 +1,1 @@
-var mnemonic = "dawn truth perfect master science need riot unhappy gravity crawl practice muffin";
+var mnemonic = "treat license jar little large grow gown one arm chat robot page";

@@ -1,1 +1,1 @@
-var mnemonic = "mother reform lunar result save example topic seminar ostrich giraffe across race";
+var mnemonic = "hint broccoli lecture guitar vote divide young flower gesture hire autumn between";

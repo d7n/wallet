@@ -1,1 +1,1 @@
-var mnemonic = "latin fabric picture opera uniform cattle wide type street arrest team electric";
+var mnemonic = "tell loud room hill abstract gorilla rose few list midnight vehicle hood";

@@ -1,1 +1,1 @@
-var mnemonic = "foot patient echo small enough crucial script police future point drift balcony";
+var mnemonic = "churn lend prize myth other ritual loop ordinary bring water sort volcano";

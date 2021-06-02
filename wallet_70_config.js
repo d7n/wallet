@@ -1,1 +1,1 @@
-var mnemonic = "minor type tell age funny demand village tilt today blanket question genius";
+var mnemonic = "meat captain valid test gas person merit neutral fish balance aunt bread";

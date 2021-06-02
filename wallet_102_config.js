@@ -1,1 +1,1 @@
-var mnemonic = "ready cruel toe afraid artwork cause recall pumpkin leisure fee wedding company";
+var mnemonic = "guess apple because humor total result twin gravity hint recall dignity van";

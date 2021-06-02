@@ -1,1 +1,1 @@
-var mnemonic = "number add weekend narrow meat either fall skin attend parade gold town";
+var mnemonic = "cradle jealous vague genre virtual truth between mushroom mesh patch elite cruel";

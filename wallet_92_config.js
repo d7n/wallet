@@ -1,1 +1,1 @@
-var mnemonic = "what pizza magic turkey slender vivid tragic off calm orient dice thunder";
+var mnemonic = "select evolve crane sing eager swing put position artwork horror viable okay";

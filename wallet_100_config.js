@@ -1,1 +1,1 @@
-var mnemonic = "donkey citizen left visa electric rotate ankle couch learn album pool eight";
+var mnemonic = "below intact true tiny luxury dream anchor car amazing notable forest surface";

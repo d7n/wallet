@@ -1,1 +1,1 @@
-var mnemonic = "creek coil hurt answer defense walk win case dove replace erode dress";
+var mnemonic = "ridge federal dash creek salt add poem drop hold vital subway woman";

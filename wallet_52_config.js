@@ -1,1 +1,1 @@
-var mnemonic = "nut sheriff image waste brown ill pond boat hammer ethics idle gentle";
+var mnemonic = "west draw chunk fortune gold amused category rude dilemma assault quarter blade";

@@ -1,1 +1,1 @@
-var mnemonic = "balance awesome image motion fence noble peace wise kiwi wool retire thumb";
+var mnemonic = "job sunny broken cart cliff option opera column chat whisper harvest soldier";

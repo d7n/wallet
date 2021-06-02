@@ -1,1 +1,1 @@
-var mnemonic = "case want tragic range erupt category unaware cram undo tuition crawl chuckle";
+var mnemonic = "spirit wheel photo vault buzz casino pluck sample april slot story regular";

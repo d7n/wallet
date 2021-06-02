@@ -1,1 +1,1 @@
-var mnemonic = "reopen step where calm warrior success kangaroo debate hair elbow legal tumble";
+var mnemonic = "abandon color hard skill invest maximum rebuild happy cousin shadow hammer dawn";

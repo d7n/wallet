@@ -1,1 +1,1 @@
-var mnemonic = "include cry mango dynamic guitar candy easily agent document silk winter finger";
+var mnemonic = "salt order expand control address great people chest luxury liar uncle trick";

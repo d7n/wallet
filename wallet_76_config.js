@@ -1,1 +1,1 @@
-var mnemonic = "canvas abuse clarify canoe doll embrace hunt brief blade afford critic cereal";
+var mnemonic = "wonder ignore outer issue rally expose wing grief draft oven occur donate";

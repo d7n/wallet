@@ -1,1 +1,1 @@
-var mnemonic = "federal love dove detect head cross invest tank wink strike creek rural";
+var mnemonic = "fury nest need surface clown oil toe crystal retreat come escape abstract";

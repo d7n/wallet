@@ -1,1 +1,1 @@
-var mnemonic = "dragon kick march pizza gorilla globe salute begin economy air quit direct";
+var mnemonic = "visa regret shed rebuild cruel holiday exact stable latin clinic focus letter";

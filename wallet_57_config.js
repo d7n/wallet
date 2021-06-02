@@ -1,1 +1,1 @@
-var mnemonic = "require force ticket abandon sock armed secret network sword apology mobile mother";
+var mnemonic = "voice electric jewel bring can uniform lab spike march damp also cancel";

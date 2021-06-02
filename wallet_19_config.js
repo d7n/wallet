@@ -1,1 +1,1 @@
-var mnemonic = "pulp notable sausage canyon duck slogan cancel fox injury rent solve curve";
+var mnemonic = "minute cook boost belt custom icon blue rubber icon acquire dilemma term";

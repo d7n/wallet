@@ -1,1 +1,1 @@
-var mnemonic = "angry century mask affair obtain type ritual shrug creek onion bronze jelly";
+var mnemonic = "stick farm onion tone wet sustain bundle monitor diesel merit review discover";

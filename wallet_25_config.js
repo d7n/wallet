@@ -1,1 +1,1 @@
-var mnemonic = "grocery please favorite trap public utility able act antique during private juice";
+var mnemonic = "suit uphold spike empty fuel tray nose calm copy local hub grape";

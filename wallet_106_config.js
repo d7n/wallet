@@ -1,1 +1,1 @@
-var mnemonic = "gallery merry crunch bean awesome potato uniform fresh mosquito gym witness demand";
+var mnemonic = "cupboard correct puppy first badge dog season route they panic engage worth";

@@ -1,1 +1,1 @@
-var mnemonic = "grief crisp action figure square erode winner clinic frown asset lab code";
+var mnemonic = "island auction oil wheel cruise uncover home advice pupil index before student";

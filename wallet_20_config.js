@@ -1,1 +1,1 @@
-var mnemonic = "minimum universe minimum evoke route original net volcano rabbit arm round happy";
+var mnemonic = "eternal mad alien feed legend sword unique swarm harbor runway bottom acid";

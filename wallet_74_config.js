@@ -1,1 +1,1 @@
-var mnemonic = "kit retreat wood glad sketch bounce girl connect inflict air marriage vendor";
+var mnemonic = "donate pair venture negative sort basic belt damp happy upper future penalty";

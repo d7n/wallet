@@ -1,1 +1,1 @@
-var mnemonic = "silly kind blind whisper tool what elder forum huge clog fashion spice";
+var mnemonic = "bone release trial either capable aerobic satisfy message seat observe gravity toddler";

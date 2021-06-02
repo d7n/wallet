@@ -1,1 +1,1 @@
-var mnemonic = "again alone pilot text blush cook trim parade evolve wheat spatial current";
+var mnemonic = "glue purpose impact destroy dance trash yard foster remove sun sort damp";

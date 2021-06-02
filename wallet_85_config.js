@@ -1,1 +1,1 @@
-var mnemonic = "assist vast coral corn ordinary alert toy bless hunt half clean glance";
+var mnemonic = "ability marriage drastic sort moment sketch before skirt sense orbit wedding picture";

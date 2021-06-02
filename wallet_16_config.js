@@ -1,1 +1,1 @@
-var mnemonic = "earth mixed rule gown expect turn skirt exhibit awful summer cool middle";
+var mnemonic = "upgrade pudding marriage trend push judge phrase profit pudding more gym cigar";

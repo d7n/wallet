@@ -1,1 +1,1 @@
-var mnemonic = "family climb recycle entry vanish screen agree floor electric pear mean right";
+var mnemonic = "emotion funny wrist finish quality safe spell fluid motion shuffle march grit";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage please duck message grape like truck useless industry intact supreme step";
+var mnemonic = "mixture cancel when will vapor two muffin couch rare fade frog slide";

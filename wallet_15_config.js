@@ -1,1 +1,1 @@
-var mnemonic = "check enroll unlock nose universe bird poem aware test piano extend crop";
+var mnemonic = "cactus ice fade object vote forest furnace text wash weird stumble unique";

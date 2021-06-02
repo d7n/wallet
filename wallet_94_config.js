@@ -1,1 +1,1 @@
-var mnemonic = "ghost frequent youth cheap upon boost kitchen label sign measure engine wage";
+var mnemonic = "core brand jealous mushroom spirit process lottery rural rose ripple wall clutch";

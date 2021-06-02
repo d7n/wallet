@@ -1,1 +1,1 @@
-var mnemonic = "stove cupboard grunt decide ecology output run tag poverty top canvas old";
+var mnemonic = "goat bone soon secret essay tower later trouble never lemon dolphin wave";

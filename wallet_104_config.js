@@ -1,1 +1,1 @@
-var mnemonic = "mandate pattern keen parade claim trust average hair fade humble treat first";
+var mnemonic = "lamp invite race brick animal shaft runway moment unique lift decline diet";

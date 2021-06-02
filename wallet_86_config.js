@@ -1,1 +1,1 @@
-var mnemonic = "burger tip wonder left morning damage sunny fly match unusual safe split";
+var mnemonic = "economy panda enjoy bind sleep bracket wife relax coast charge fortune flash";

@@ -1,1 +1,1 @@
-var mnemonic = "payment notable bar citizen cluster viable thrive nephew audit bullet accuse universe";
+var mnemonic = "car also congress entire discover twenty liberty banner bonus page resemble drama";

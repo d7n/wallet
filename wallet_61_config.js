@@ -1,1 +1,1 @@
-var mnemonic = "canyon trust hover egg mercy embark miss riot adult worth comic source";
+var mnemonic = "final gown guitar route together theme shock juice dismiss dove dawn obtain";

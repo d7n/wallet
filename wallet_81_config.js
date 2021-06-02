@@ -1,1 +1,1 @@
-var mnemonic = "art defense turn pledge foam virtual swear click domain gun slow disagree";
+var mnemonic = "agent virtual kitten daring scheme own demise sketch film taxi vacant civil";

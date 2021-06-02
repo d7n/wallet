@@ -1,1 +1,1 @@
-var mnemonic = "labor chaos artwork nest ridge six eye vehicle plunge arrest wire hope";
+var mnemonic = "open vote pond air lottery exercise sign throw describe two belt coin";

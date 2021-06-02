@@ -1,1 +1,1 @@
-var mnemonic = "victory risk captain doctor member answer safe between taste later organ sun";
+var mnemonic = "bus cup ready carbon cluster decline pulp memory shove ticket auto turn";

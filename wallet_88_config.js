@@ -1,1 +1,1 @@
-var mnemonic = "staff indoor spend leisure pattern space yellow cheap spatial riot dwarf drip";
+var mnemonic = "place rifle mystery gasp quantum boost mesh lens inch sister pelican ceiling";

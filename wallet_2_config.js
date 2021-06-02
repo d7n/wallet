@@ -1,1 +1,1 @@
-var mnemonic = "castle soldier finish bar bone often truly guess metal purse fiscal butter";
+var mnemonic = "shrug away mixture outer scout obtain mixture island rubber attend organ say";

@@ -1,1 +1,1 @@
-var mnemonic = "cover orbit census matter lizard media act awkward clump fury trouble rich";
+var mnemonic = "aim race achieve alien link focus betray found sing speak wink expand";

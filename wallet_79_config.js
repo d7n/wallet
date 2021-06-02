@@ -1,1 +1,1 @@
-var mnemonic = "brush exotic humble bundle speak mad clump pill gospel frost brain vague";
+var mnemonic = "wolf era ancient bottom lunch spider ginger appear during regret second hold";

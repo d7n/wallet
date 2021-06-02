@@ -1,1 +1,1 @@
-var mnemonic = "lamp then powder satoshi margin change brass hotel pull soft puppy embody";
+var mnemonic = "large harvest car day check lava minor margin phrase differ reflect plate";

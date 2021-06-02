@@ -1,1 +1,1 @@
-var mnemonic = "dice shadow indoor tooth slow west science install bike dumb hundred garlic";
+var mnemonic = "field obtain mask north buffalo shed fan sure connect audit smooth when";

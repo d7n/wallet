@@ -1,1 +1,1 @@
-var mnemonic = "outdoor head play metal fat movie essence length chalk style leave ridge";
+var mnemonic = "raccoon faculty taxi tank accident actual shoulder busy task question orange track";

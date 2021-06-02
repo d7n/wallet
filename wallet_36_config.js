@@ -1,1 +1,1 @@
-var mnemonic = "scout panther outer reward remove always laptop rice impose burst filter toy";
+var mnemonic = "margin small skill rebel spread prosper almost begin picnic split coyote surface";

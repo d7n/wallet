@@ -1,1 +1,1 @@
-var mnemonic = "universe bar sentence bulb spoon deny wine purpose flat unveil harvest arrow";
+var mnemonic = "enough hover hidden walk maid future guide piece sausage lens banana obscure";

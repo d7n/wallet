@@ -1,1 +1,1 @@
-var mnemonic = "stand census salute grace blast general peace six oval live crane idle";
+var mnemonic = "energy fix saddle liquid enforce pipe stuff private acquire aware vacant frequent";

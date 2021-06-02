@@ -1,1 +1,1 @@
-var mnemonic = "add shuffle come lizard planet letter try rifle account donate dove shed";
+var mnemonic = "call gap cigar sleep plug possible boost mountain target spell limb lumber";

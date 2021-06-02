@@ -1,1 +1,1 @@
-var mnemonic = "engage good property silly recall theory orange kitchen canyon area announce rule";
+var mnemonic = "arm beauty weasel lend display fish loop alert cable clown snack salt";

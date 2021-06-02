@@ -1,1 +1,1 @@
-var mnemonic = "child fine sugar flower moon plastic drum child device aware stereo sword";
+var mnemonic = "render lady swap slogan picnic label leaf bless attend faith veteran analyst";

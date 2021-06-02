@@ -1,1 +1,1 @@
-var mnemonic = "excess blade raven bless unable color rent move piano view smoke always";
+var mnemonic = "ship sure peanut cart rabbit twenty aware immense frozen drastic vacant planet";

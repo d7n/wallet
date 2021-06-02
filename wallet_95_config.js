@@ -1,1 +1,1 @@
-var mnemonic = "health result right orient vendor assume beyond clutch describe device movie wish";
+var mnemonic = "search cat crazy put below jacket friend ice lend owner cushion wing";

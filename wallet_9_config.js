@@ -1,1 +1,1 @@
-var mnemonic = "layer advance trick ozone unit history proof bench domain height brave labor";
+var mnemonic = "forward kitchen cupboard frost ridge toddler bone movie wonder sorry disease test";

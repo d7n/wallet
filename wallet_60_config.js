@@ -1,1 +1,1 @@
-var mnemonic = "rhythm drama supply peace vacant glow ecology city transfer october gasp talk";
+var mnemonic = "hotel bridge scheme rather hood priority pulse dash ribbon person shrimp pilot";

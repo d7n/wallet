@@ -1,1 +1,1 @@
-var mnemonic = "member just manual behave merge labor rival antenna exile fever involve glance";
+var mnemonic = "similar seek artist gauge mean two kitchen immune home mechanic clerk hammer";

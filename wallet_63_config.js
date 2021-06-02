@@ -1,1 +1,1 @@
-var mnemonic = "toe coconut wine bullet define someone enhance luggage enable chicken genius kiwi";
+var mnemonic = "old maximum distance neither brisk goat pink impulse online plug portion focus";

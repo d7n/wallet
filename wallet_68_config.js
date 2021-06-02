@@ -1,1 +1,1 @@
-var mnemonic = "shaft symptom machine depend awake unlock mammal cross often forum border person";
+var mnemonic = "bread copy fee olympic resist display voyage cabin suggest tilt pause ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "true argue mesh twin crystal bicycle puzzle sail fly juice phrase air";
+var mnemonic = "fancy weather beyond quality expect blush involve pioneer celery region tube hat";

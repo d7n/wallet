@@ -1,1 +1,1 @@
-var mnemonic = "push glass lucky trim describe minimum open blossom sport achieve error exact";
+var mnemonic = "poet shock tornado valid call wealth plunge right short source horror life";

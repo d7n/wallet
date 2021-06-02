@@ -1,1 +1,1 @@
-var mnemonic = "avocado tip hazard undo capable hero valid tortoise fragile victory essence speak";
+var mnemonic = "label toy fork cute fuel coconut spawn scan mask must turtle tone";

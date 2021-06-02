@@ -1,1 +1,1 @@
-var mnemonic = "wear essence nuclear travel enlist artefact post public surround depth miss cactus";
+var mnemonic = "vast frown action super burst notice toilet gate table provide choice rose";

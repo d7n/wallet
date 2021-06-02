@@ -1,1 +1,1 @@
-var mnemonic = "remain foil measure toss there spot group wage inhale century asset praise";
+var mnemonic = "buyer start bargain potato elevator exit warm race just soda jeans forest";

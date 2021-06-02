@@ -1,1 +1,1 @@
-var mnemonic = "give oppose top diagram ready image law struggle glare penalty jump sauce";
+var mnemonic = "pistol cupboard detail scout album aisle page weather network check electric exit";

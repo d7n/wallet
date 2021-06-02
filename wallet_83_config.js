@@ -1,1 +1,1 @@
-var mnemonic = "favorite blue link ancient cradle wide salute mom hollow urban resemble story";
+var mnemonic = "social dial scare style exotic power deliver envelope grape inject addict level";

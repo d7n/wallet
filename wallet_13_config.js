@@ -1,1 +1,1 @@
-var mnemonic = "thought canyon discover craft twin marriage trumpet media bless wasp grain company";
+var mnemonic = "false light result young section math behind butter bridge tennis price law";

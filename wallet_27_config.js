@@ -1,1 +1,1 @@
-var mnemonic = "stove van invest eyebrow author perfect cousin reward jazz pond chief sugar";
+var mnemonic = "melody pretty casino dismiss brick motion helmet muscle apology wisdom family magic";

@@ -1,1 +1,1 @@
-var mnemonic = "claw drop rescue meat junk present butter table engine grid august drill";
+var mnemonic = "neither library away rocket acquire put spy inch stock beauty cargo piano";

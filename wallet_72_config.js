@@ -1,1 +1,1 @@
-var mnemonic = "cram hope cabin early hub nut bronze vacant match jaguar ahead sunny";
+var mnemonic = "tower man confirm ice pilot advance maid lunch science nurse reflect deliver";

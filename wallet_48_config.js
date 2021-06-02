@@ -1,1 +1,1 @@
-var mnemonic = "remember adult churn smooth globe female crisp baby giraffe note squeeze blue";
+var mnemonic = "spring remind capable wrong hedgehog host unique solution angle expire agent payment";

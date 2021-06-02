@@ -1,1 +1,1 @@
-var mnemonic = "humble sample salad good bone ring dash figure poverty buddy include pupil";
+var mnemonic = "toss empty spawn action profit annual metal pepper sick know project purchase";
