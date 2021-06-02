@@ -1,1 +1,1 @@
-var mnemonic = "dirt arch law exact sunny regular age shaft boil pulse often abandon";
+var mnemonic = "become measure ethics cotton vapor visit cook this click visual bulb truth";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly design stadium position gesture glove orient insane very river view mansion";
+var mnemonic = "miss enact shadow sleep young loud ocean melody advance lend devote notable";

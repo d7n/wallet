@@ -1,1 +1,1 @@
-var mnemonic = "organ want common velvet grain awake ribbon brother box else during spell";
+var mnemonic = "sauce friend silk lizard filter wrong glove until patch desk obscure tape";

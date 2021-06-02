@@ -1,1 +1,1 @@
-var mnemonic = "sad stomach certain gossip shuffle rack acoustic access build nominee repeat curtain";
+var mnemonic = "add language drift asthma want good sentence argue fit senior fee country";

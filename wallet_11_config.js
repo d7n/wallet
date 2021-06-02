@@ -1,1 +1,1 @@
-var mnemonic = "heavy lens remind perfect universe minimum current property kidney disorder gown bundle";
+var mnemonic = "ribbon menu panel census tray combine public auction wide clinic evil peasant";

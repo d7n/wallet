@@ -1,1 +1,1 @@
-var mnemonic = "web dignity guess angle office foot step feel south input fault sphere";
+var mnemonic = "focus profit interest vibrant festival letter hotel sister inject media place poem";

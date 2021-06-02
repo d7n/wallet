@@ -1,1 +1,1 @@
-var mnemonic = "loop drum liquid journey emerge derive insane earn gossip mosquito congress essay";
+var mnemonic = "method ramp female initial coyote wide caution festival maid cheese sell kite";

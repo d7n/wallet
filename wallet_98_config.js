@@ -1,1 +1,1 @@
-var mnemonic = "trap dial minimum nuclear chapter clap perfect federal cluster sister dumb fit";
+var mnemonic = "vast area century fame eagle shuffle hover paper ask anger unknown coach";

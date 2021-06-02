@@ -1,1 +1,1 @@
-var mnemonic = "box pencil name onion atom tissue rough bulk soap wrestle point ball";
+var mnemonic = "auction metal plastic rice business evidence left surprise motor volume curious typical";

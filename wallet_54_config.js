@@ -1,1 +1,1 @@
-var mnemonic = "column sword feel exotic kingdom scatter couch whip raccoon dad strong approve";
+var mnemonic = "unhappy dynamic just allow honey gentle favorite excess inch carry february hungry";

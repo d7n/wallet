@@ -1,1 +1,1 @@
-var mnemonic = "jewel gap kind nasty mother cost scrub polar dream damage repair change";
+var mnemonic = "element tip faith sleep rail address recipe slow feature essence arm ridge";

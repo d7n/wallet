@@ -1,1 +1,1 @@
-var mnemonic = "fuel mad sauce december urban stereo slender surface zero sponsor someone cement";
+var mnemonic = "ecology cheese price thunder trouble endless laundry swallow banner domain always cargo";

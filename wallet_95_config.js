@@ -1,1 +1,1 @@
-var mnemonic = "spoon olive away maximum kind loud skin collect duty dial icon skate";
+var mnemonic = "use dress win claim page convince meadow chair raccoon amused chuckle sausage";

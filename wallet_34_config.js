@@ -1,1 +1,1 @@
-var mnemonic = "release weird step chaos warm breeze custom talent future wrist motion provide";
+var mnemonic = "donate reunion toe actual unaware grab planet chat wolf grass picnic gauge";

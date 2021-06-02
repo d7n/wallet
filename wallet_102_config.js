@@ -1,1 +1,1 @@
-var mnemonic = "arm together awesome rotate wasp call legend clean salad priority dynamic produce";
+var mnemonic = "neither surround during limit wire decade connect surprise tooth gold market spread";

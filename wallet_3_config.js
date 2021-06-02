@@ -1,1 +1,1 @@
-var mnemonic = "october soul denial keep zebra vacuum insect belt rival step tell key";
+var mnemonic = "burst december hobby prize response exclude visual holiday excuse luxury road valley";

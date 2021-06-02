@@ -1,1 +1,1 @@
-var mnemonic = "unit smile agent master quick market green quarter upgrade script seat delay";
+var mnemonic = "category together add update universe swap face digital brain fun oil tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory system illness example immune cushion vicious arena fold erase quarter awkward";
+var mnemonic = "please come unable vacant project curtain cannon salon credit leg flee artwork";

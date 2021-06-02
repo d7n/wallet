@@ -1,1 +1,1 @@
-var mnemonic = "diet foster old vehicle stem ecology piano maple real drastic argue emerge";
+var mnemonic = "position mushroom universe purchase noodle fiscal erosion power father setup attend van";

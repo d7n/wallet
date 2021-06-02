@@ -1,1 +1,1 @@
-var mnemonic = "copy annual follow empty crop shy fly citizen boy canvas banner casino";
+var mnemonic = "gadget achieve behave night cliff hobby drink open rely disagree bargain accident";

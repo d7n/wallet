@@ -1,1 +1,1 @@
-var mnemonic = "middle east believe sport cherry ethics spot jewel employ garbage fence bulk";
+var mnemonic = "weather tide gaze boat uncover goose fantasy shell grain climb hair luxury";

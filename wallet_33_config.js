@@ -1,1 +1,1 @@
-var mnemonic = "convince wool tomorrow enemy slender fade make pottery disease engine add rescue";
+var mnemonic = "donate bargain ranch become cute order double portion ugly age else rifle";

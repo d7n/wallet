@@ -1,1 +1,1 @@
-var mnemonic = "canyon success brisk fossil oval sun someone liberty noodle fox abstract rookie";
+var mnemonic = "banner artefact manage service bracket dog cherry life smoke skirt master swarm";

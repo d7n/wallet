@@ -1,1 +1,1 @@
-var mnemonic = "wedding poem degree hand bronze defy genre merry embody extend spy staff";
+var mnemonic = "relief hat hip victory device vocal ostrich swift drop jelly battle detail";

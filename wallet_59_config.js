@@ -1,1 +1,1 @@
-var mnemonic = "decrease cycle easy arm iron sorry this canyon electric limb anchor permit";
+var mnemonic = "life private they angry churn expand butter horse hour chest logic crater";

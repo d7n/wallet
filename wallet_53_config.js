@@ -1,1 +1,1 @@
-var mnemonic = "display result medal eager guilt volume ice ill obscure minute trend charge";
+var mnemonic = "barely labor spare fiscal major repair swarm supply poet riot mouse access";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan empower toy spirit obscure uniform birth verify orbit brother canvas refuse";
+var mnemonic = "yard flip book middle short laugh stone donkey figure chronic wash shove";

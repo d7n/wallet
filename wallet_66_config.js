@@ -1,1 +1,1 @@
-var mnemonic = "mass viable coin future matrix labor kangaroo candy silver nerve tail engage";
+var mnemonic = "index soft feature comic host oxygen venture fence enemy clever border more";

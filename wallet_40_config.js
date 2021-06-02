@@ -1,1 +1,1 @@
-var mnemonic = "lizard fan surge raw weasel news awful flavor scatter frown ahead normal";
+var mnemonic = "laundry second road trial clip impulse have spoil crack bubble industry place";

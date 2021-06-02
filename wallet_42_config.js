@@ -1,1 +1,1 @@
-var mnemonic = "vacant six cake fever because position stock area volume decrease hire blood";
+var mnemonic = "segment abandon actress couch plug inflict smile setup roast select radio rabbit";

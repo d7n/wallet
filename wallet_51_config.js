@@ -1,1 +1,1 @@
-var mnemonic = "vacuum floor above cover rival song cigar race movie join pretty smile";
+var mnemonic = "opinion artefact faculty welcome novel end oven process prepare chronic arrest cram";

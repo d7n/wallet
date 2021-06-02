@@ -1,1 +1,1 @@
-var mnemonic = "real bird safe genre age modify ghost lumber battle smoke juice example";
+var mnemonic = "hope claim future strike liquid alpha bamboo vital person glow man sound";

@@ -1,1 +1,1 @@
-var mnemonic = "state scrub ostrich crane dynamic review warm used toilet boring relief floor";
+var mnemonic = "quote gasp lift lock hole crater heavy bulk fan ketchup insect coast";

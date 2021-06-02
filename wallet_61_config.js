@@ -1,1 +1,1 @@
-var mnemonic = "blast riot evil plug unaware explain mountain foam manage wink conduct shield";
+var mnemonic = "twelve review envelope abandon account material parent furnace stem begin pluck dignity";

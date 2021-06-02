@@ -1,1 +1,1 @@
-var mnemonic = "royal affair afford jewel danger jelly way occur now maximum text lamp";
+var mnemonic = "talk scheme elephant sick total trend affair stay kitten height pulp muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "capable banana album friend remove modify tail penalty erupt almost guard dynamic";
+var mnemonic = "faculty ceiling turkey buzz atom scrub stool juice upper lawn youth judge";

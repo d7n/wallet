@@ -1,1 +1,1 @@
-var mnemonic = "face finger anxiety current hill whip clown trap vibrant sad cool chaos";
+var mnemonic = "rack leg text west industry actress another point option ghost used ancient";

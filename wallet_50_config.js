@@ -1,1 +1,1 @@
-var mnemonic = "hospital project caution venue address motion moment summer mad fancy march sadness";
+var mnemonic = "duck start program remind major gadget promote employ siren increase tray boat";

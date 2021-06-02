@@ -1,1 +1,1 @@
-var mnemonic = "topic unable book glance biology climb lamp alcohol example law foot response";
+var mnemonic = "appear such indoor circle horror office brown warrior agent split real chat";

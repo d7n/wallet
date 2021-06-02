@@ -1,1 +1,1 @@
-var mnemonic = "budget august frost push success blue office where gold bulk smart curve";
+var mnemonic = "lawsuit age story home fuel skill hurdle maximum emotion about must reflect";

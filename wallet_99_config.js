@@ -1,1 +1,1 @@
-var mnemonic = "grief verb hole electric prevent grocery riot turtle interest economy purchase cool";
+var mnemonic = "dream aisle essence visit below april agree giggle bid friend option polar";

@@ -1,1 +1,1 @@
-var mnemonic = "prison lyrics outer win link fine calm zebra attitude finger tennis chaos";
+var mnemonic = "symbol roof tone opera enact relax treat embrace devote diamond hair fire";

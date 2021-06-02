@@ -1,1 +1,1 @@
-var mnemonic = "today deal benefit social arrest stool pink mass expose core seven advice";
+var mnemonic = "promote civil deer general crime eight inside check step dash bench chuckle";

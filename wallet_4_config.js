@@ -1,1 +1,1 @@
-var mnemonic = "deer settle vessel equal helmet raccoon soccer play once frown beauty simple";
+var mnemonic = "record crisp glance tobacco term poem guard history primary rack expose jeans";

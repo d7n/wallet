@@ -1,1 +1,1 @@
-var mnemonic = "magic obtain useless alter tourist dragon glory similar armor mention rebel observe";
+var mnemonic = "sort lonely cement margin collect wasp trophy only spring remain artwork bronze";

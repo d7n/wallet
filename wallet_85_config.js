@@ -1,1 +1,1 @@
-var mnemonic = "magnet theory possible side bag pyramid situate damage attract hub canal olympic";
+var mnemonic = "social tooth scheme merge trigger arrow snack lawsuit team garbage water symbol";

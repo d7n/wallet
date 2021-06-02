@@ -1,1 +1,1 @@
-var mnemonic = "pledge trigger describe visa act crop million proud symbol today sort renew";
+var mnemonic = "empower wife nest convince frog beef pelican during blouse gravity clerk roast";

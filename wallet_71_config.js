@@ -1,1 +1,1 @@
-var mnemonic = "opinion bulb demand frost alone easy mountain foil penalty age slush allow";
+var mnemonic = "deposit pizza west popular mother behind umbrella arrest south finger matter tent";

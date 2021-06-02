@@ -1,1 +1,1 @@
-var mnemonic = "pudding cluster attack guitar into trap hungry analyst deny best now pupil";
+var mnemonic = "juice glare soldier shoulder panel relax lake quick party mouse tomato hub";

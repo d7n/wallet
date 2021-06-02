@@ -1,1 +1,1 @@
-var mnemonic = "bring dice check corn pepper matrix path ginger earth device credit rigid";
+var mnemonic = "orient ski clog switch wrist spin flag donate fabric mystery example injury";

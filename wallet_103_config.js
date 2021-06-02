@@ -1,1 +1,1 @@
-var mnemonic = "staff morning miss produce phone flame movie soccer fish screen sting segment";
+var mnemonic = "neck spike omit snake later amused fetch fabric spirit alert winner nest";

@@ -1,1 +1,1 @@
-var mnemonic = "green conduct dilemma capable unveil mind garlic helmet acid december talk floor";
+var mnemonic = "venue length miracle sick weather gym awkward volcano resemble obvious slide quality";

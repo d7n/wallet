@@ -1,1 +1,1 @@
-var mnemonic = "grant topic crash auto bounce urge toss forget auction text flower stool";
+var mnemonic = "rigid broccoli remind anchor castle topic tone spread affair seek bean talent";

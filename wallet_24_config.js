@@ -1,1 +1,1 @@
-var mnemonic = "odor opera devote mandate never naive pink clog they capital carry wisdom";
+var mnemonic = "unfair argue race behind fossil leader peanut jelly cancel average chuckle sad";

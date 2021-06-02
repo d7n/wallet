@@ -1,1 +1,1 @@
-var mnemonic = "ugly melt soldier case sphere mix stem lounge wink critic derive tank";
+var mnemonic = "rookie thumb coyote impulse despair flavor typical hurt bar calm orchard bind";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble must panel filter used stereo decorate magic soda shove purse position";
+var mnemonic = "strike hungry belt speak goddess hen spice primary dish supreme upgrade talent";

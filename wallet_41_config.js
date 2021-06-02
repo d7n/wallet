@@ -1,1 +1,1 @@
-var mnemonic = "visa hidden resemble cash release hip board resemble liberty usage action gossip";
+var mnemonic = "essence enough crater acid innocent vessel excess height phrase either twelve render";

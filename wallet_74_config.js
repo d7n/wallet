@@ -1,1 +1,1 @@
-var mnemonic = "essay cinnamon sentence cattle seat palm sample duty puppy broken milk alcohol";
+var mnemonic = "ripple dish state same company robust survey avocado member nasty buddy month";

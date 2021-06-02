@@ -1,1 +1,1 @@
-var mnemonic = "radar pyramid february reward envelope survey word bike dignity pride sorry elite";
+var mnemonic = "brand trouble reduce intact cabin tooth rain bulk link eternal resemble culture";

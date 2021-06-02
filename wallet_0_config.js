@@ -1,1 +1,1 @@
-var mnemonic = "ethics miracle devote below garage surface raccoon peasant anxiety reunion sustain erode";
+var mnemonic = "pretty bottom seat betray analyst best rotate gather donkey effort drum uncle";

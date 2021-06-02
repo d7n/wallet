@@ -1,1 +1,1 @@
-var mnemonic = "doctor salmon blade appear fruit cereal spray fine ride electric stomach joy";
+var mnemonic = "infant kiwi maximum lobster quantum believe range control rail resist group frozen";

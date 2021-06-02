@@ -1,1 +1,1 @@
-var mnemonic = "when mixed mass fire start assist sell toss roast sweet leisure stool";
+var mnemonic = "step gap school arrest horn noble dragon party eternal vacant weekend cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "elite report purity edit budget end ride invite buddy knock share odor";
+var mnemonic = "extend robot field rule fury gloom message glow crane toward beyond pelican";

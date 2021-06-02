@@ -1,1 +1,1 @@
-var mnemonic = "prevent lend alien nose dynamic antique lion fatigue leopard grow actress style";
+var mnemonic = "hair body core year begin people swear metal obtain eagle film peanut";

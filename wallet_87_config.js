@@ -1,1 +1,1 @@
-var mnemonic = "mention woman oxygen want camera kit tonight depart topic front crystal gospel";
+var mnemonic = "become couch bus ritual battle family shrimp key banana series theme pond";

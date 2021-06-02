@@ -1,1 +1,1 @@
-var mnemonic = "left target duck shiver regret clap swing basic you ostrich wire mercy";
+var mnemonic = "tip live upon obvious lens camera payment inflict chat rail purpose beyond";

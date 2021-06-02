@@ -1,1 +1,1 @@
-var mnemonic = "glad bargain glass theory apple thumb joke try agent panel already field";
+var mnemonic = "valid response cabin coral soccer oblige day second stuff pony season meadow";

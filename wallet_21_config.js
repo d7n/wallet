@@ -1,1 +1,1 @@
-var mnemonic = "affair deposit broccoli slam swallow nest fatal foster retreat fat group crawl";
+var mnemonic = "pact stool endless love simple gun deer list surge apology success goat";

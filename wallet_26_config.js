@@ -1,1 +1,1 @@
-var mnemonic = "jar athlete family cement alien voice warfare record shift phrase ancient glue";
+var mnemonic = "virus rigid exact knock stool celery modify tattoo museum latin afraid electric";

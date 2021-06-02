@@ -1,1 +1,1 @@
-var mnemonic = "blur obey whale once diagram hover future artist film seek north picnic";
+var mnemonic = "bulb mystery allow pencil high wedding boss shed achieve congress lumber deal";

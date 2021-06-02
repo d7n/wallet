@@ -1,1 +1,1 @@
-var mnemonic = "obscure fruit congress resemble tribe put energy parade aspect melt tide rent";
+var mnemonic = "olympic ensure congress secret boil work tornado bulb absurd hope danger draft";

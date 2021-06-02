@@ -1,1 +1,1 @@
-var mnemonic = "oxygen blast enter term recall year venue dress ritual circle romance online";
+var mnemonic = "lizard comfort main meat rival visual cover quote furnace charge fury void";

@@ -1,1 +1,1 @@
-var mnemonic = "repair narrow body olive oil pet plate panther direct rapid little apart";
+var mnemonic = "praise crouch symbol sign still proof between media bag price primary can";

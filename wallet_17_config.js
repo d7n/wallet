@@ -1,1 +1,1 @@
-var mnemonic = "flush history remind climb vocal major cannon visit ramp tower crumble false";
+var mnemonic = "mammal glove during world section electric april pulp flat evolve unlock poem";

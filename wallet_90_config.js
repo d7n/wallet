@@ -1,1 +1,1 @@
-var mnemonic = "coil trim hub trash two chase uncover ridge slim animal enough bulk";
+var mnemonic = "man insect magnet escape desk they guard hold punch rail image hello";

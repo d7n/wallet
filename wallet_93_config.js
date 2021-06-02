@@ -1,1 +1,1 @@
-var mnemonic = "you egg talent champion glare mask level legal target fly hero license";
+var mnemonic = "between seat change discover original peanut cash game cake write direct excuse";

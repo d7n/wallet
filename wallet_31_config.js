@@ -1,1 +1,1 @@
-var mnemonic = "seminar wasp birth code actual armed party oval egg wagon valve cruise";
+var mnemonic = "worth diet baby fluid afraid flock tired unveil remove expire usage gun";

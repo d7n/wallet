@@ -1,1 +1,1 @@
-var mnemonic = "arrange fiber crane forward panic absurd universe onion federal design rug people";
+var mnemonic = "sheriff climb mango connect all leave oppose message monster napkin settle riot";

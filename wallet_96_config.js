@@ -1,1 +1,1 @@
-var mnemonic = "damp raven wrap sphere accident alcohol math marble trim enrich solve clay";
+var mnemonic = "mask endless discover inner ivory camera april frozen iron crisp admit weapon";

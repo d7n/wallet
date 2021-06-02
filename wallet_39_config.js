@@ -1,1 +1,1 @@
-var mnemonic = "item question vacuum frozen auto invite swallow level supply rib genuine liberty";
+var mnemonic = "later sketch year burden guard hour music zebra work motor rookie tone";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow penalty waste address very key borrow fee book cancel cattle valve";
+var mnemonic = "album walk payment case dawn void thing rabbit lady private silver frequent";

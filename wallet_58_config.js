@@ -1,1 +1,1 @@
-var mnemonic = "either tape honey sign hint grocery same art design advance raw advice";
+var mnemonic = "glass spatial enforce acid obey stem verify one avocado claw bird ask";

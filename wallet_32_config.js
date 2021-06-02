@@ -1,1 +1,1 @@
-var mnemonic = "afford kit addict effort seed hub happy goose window blossom hero nothing";
+var mnemonic = "addict hidden cage liar turn alter edit humble dream canyon jelly elevator";

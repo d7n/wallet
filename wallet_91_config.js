@@ -1,1 +1,1 @@
-var mnemonic = "under equal sail virtual lyrics fault sample actress today you catalog utility";
+var mnemonic = "knee discover south stool bunker skirt expand jeans ice stone grunt estate";
