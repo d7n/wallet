@@ -1,1 +1,1 @@
-var mnemonic = "potato boy endless grit wall expect buffalo child typical high stock defense";
+var mnemonic = "foster marriage year absent rain nature slogan harsh claw neglect sheriff traffic";

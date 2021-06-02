@@ -1,1 +1,1 @@
-var mnemonic = "student rookie loan shift ensure tongue public tenant lyrics bachelor light acoustic";
+var mnemonic = "entire manage depend video attract cushion attitude work black romance bomb conduct";

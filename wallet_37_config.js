@@ -1,1 +1,1 @@
-var mnemonic = "crew scorpion rapid rifle rookie siege fix cliff blanket wheel east lobster";
+var mnemonic = "arrest maximum general front wish enable calm sound debris volume current clown";

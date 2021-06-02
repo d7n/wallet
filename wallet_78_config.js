@@ -1,1 +1,1 @@
-var mnemonic = "apart pig jeans love situate purpose swap must benefit deliver hold display";
+var mnemonic = "defense demise script there unable reveal deputy fly walk monkey beach cupboard";

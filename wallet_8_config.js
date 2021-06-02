@@ -1,1 +1,1 @@
-var mnemonic = "film smooth bacon knife fiscal nice pink desert pill improve method trial";
+var mnemonic = "surface spy provide six physical foster unknown share ship sting ask attack";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing smile cruise gentle direct drink news click sort write vintage differ";
+var mnemonic = "mention remind pluck era fortune depart tribe easy forest option unfold clock";

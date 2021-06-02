@@ -1,1 +1,1 @@
-var mnemonic = "glide nothing cricket story vacant hawk cinnamon time safe rule night canal";
+var mnemonic = "major giggle garbage ghost valid found agent coin immense theory equal original";

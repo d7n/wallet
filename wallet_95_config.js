@@ -1,1 +1,1 @@
-var mnemonic = "orange draft tiny rib soup warm armor sort garage trend lamp swallow";
+var mnemonic = "grant chef little art dream palm garage doll athlete tissue alert sunny";

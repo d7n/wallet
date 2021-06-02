@@ -1,1 +1,1 @@
-var mnemonic = "endorse behave chronic follow eight valid invest claim sponsor find skirt traffic";
+var mnemonic = "dress pledge very require double outside walnut code island rhythm slight switch";

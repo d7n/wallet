@@ -1,1 +1,1 @@
-var mnemonic = "main route blanket foot trick ticket fetch reveal glass electric breeze someone";
+var mnemonic = "mystery flavor shock grow simple hub quiz injury fee dry budget absorb";

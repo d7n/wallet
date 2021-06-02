@@ -1,1 +1,1 @@
-var mnemonic = "payment cram salute similar mail lift feature prefer mosquito promote sing shy";
+var mnemonic = "sponsor fit mixture citizen smooth valve diet diary all duty ticket size";

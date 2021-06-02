@@ -1,1 +1,1 @@
-var mnemonic = "adjust stand hurdle base sort sign pretty pioneer same apart pig loan";
+var mnemonic = "weather sand original sick cram crack ghost minor script awkward faith correct";

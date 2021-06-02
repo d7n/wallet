@@ -1,1 +1,1 @@
-var mnemonic = "genre off easy rookie movie spy glass wild people minute movie ghost";
+var mnemonic = "mask snake cabin forest wing poet zebra fever young special today assault";

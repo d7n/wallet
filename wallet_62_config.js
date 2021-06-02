@@ -1,1 +1,1 @@
-var mnemonic = "brief airport motor ghost sugar alarm lunar unaware foam follow very toss";
+var mnemonic = "warfare fire practice deer marine cycle sample punch ahead ten adult invest";

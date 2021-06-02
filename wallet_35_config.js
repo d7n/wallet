@@ -1,1 +1,1 @@
-var mnemonic = "miss fine pony concert drastic sketch upon bus ritual puzzle bring clock";
+var mnemonic = "pistol already check become pluck join crush cave fatal option find mention";

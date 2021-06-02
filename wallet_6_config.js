@@ -1,1 +1,1 @@
-var mnemonic = "inform blush belt october year flash spray yard access episode crane corn";
+var mnemonic = "chronic angry cube casual ball family forum embark coffee enlist vague luggage";

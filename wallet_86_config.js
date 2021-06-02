@@ -1,1 +1,1 @@
-var mnemonic = "music uncover wash eyebrow use cat hover ball behave garden tell civil";
+var mnemonic = "below trouble fury notable throw climb vehicle captain adjust sphere roast fine";

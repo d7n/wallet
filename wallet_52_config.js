@@ -1,1 +1,1 @@
-var mnemonic = "world resemble avocado wolf master sell pave obey ritual night zebra more";
+var mnemonic = "social alpha puzzle attack trial barrel north price diagram lucky ugly school";

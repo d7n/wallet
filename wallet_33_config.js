@@ -1,1 +1,1 @@
-var mnemonic = "rubber train vital spend slim notable match hunt under bulb spirit renew";
+var mnemonic = "annual spoon stock couch exercise obscure large reason balance because owner movie";

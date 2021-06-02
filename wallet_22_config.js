@@ -1,1 +1,1 @@
-var mnemonic = "denial tennis update truck network machine suggest gaze object million alcohol chapter";
+var mnemonic = "damage steel off brush task math owner finish sting fan enjoy own";

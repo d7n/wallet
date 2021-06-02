@@ -1,1 +1,1 @@
-var mnemonic = "modify language sun region chuckle judge element lawn twice inject such picnic";
+var mnemonic = "diesel broom marble tattoo have join pistol reveal clump unhappy unusual member";

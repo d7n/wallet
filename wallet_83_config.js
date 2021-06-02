@@ -1,1 +1,1 @@
-var mnemonic = "pepper fit deal cave inch cinnamon warm exercise sorry sadness patrol build";
+var mnemonic = "slight warfare pizza during point rally age weather verify able audit man";

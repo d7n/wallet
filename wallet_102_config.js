@@ -1,1 +1,1 @@
-var mnemonic = "draft tragic dash truth execute dynamic glass dress spice beach will dawn";
+var mnemonic = "ladder wall lucky tooth abuse tiger host arrive edit prefer nice cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "happy slice dutch market egg urban shoe lend crunch ginger dinosaur survey";
+var mnemonic = "afraid endorse rescue reopen clump fossil salon carry arch before comfort ghost";

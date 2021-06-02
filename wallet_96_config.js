@@ -1,1 +1,1 @@
-var mnemonic = "taste fashion same despair squeeze rail special improve unfair click soldier baby";
+var mnemonic = "bean faculty opera use flag nation rug diary allow result quote blossom";

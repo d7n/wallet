@@ -1,1 +1,1 @@
-var mnemonic = "twin wisdom mountain mesh tone write aspect jaguar pass inflict dirt tide";
+var mnemonic = "absurd decide float leg come pig claim faint narrow act sense flip";

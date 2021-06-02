@@ -1,1 +1,1 @@
-var mnemonic = "tube fantasy labor search equip sadness million spray ensure vault ladder ripple";
+var mnemonic = "fly beyond habit sadness tool dutch praise lizard job easily lift that";

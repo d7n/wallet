@@ -1,1 +1,1 @@
-var mnemonic = "situate chronic sister matrix hub oven scale sketch three twenty earn brother";
+var mnemonic = "alien sample erosion gadget gun ceiling census patch title sad again vapor";

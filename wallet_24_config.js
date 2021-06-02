@@ -1,1 +1,1 @@
-var mnemonic = "virtual brave boss case rescue weird canyon shrimp figure entire utility noise";
+var mnemonic = "afford still badge rotate zoo pencil magic napkin quantum shallow ticket layer";

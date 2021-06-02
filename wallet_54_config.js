@@ -1,1 +1,1 @@
-var mnemonic = "annual before envelope raw captain extend atom actor scissors august wife nothing";
+var mnemonic = "quiz initial captain mimic average assume demise mountain banner often hair acquire";

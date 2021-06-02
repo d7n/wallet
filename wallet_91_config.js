@@ -1,1 +1,1 @@
-var mnemonic = "alpha crack improve winner coffee stomach bicycle finish trim blossom small net";
+var mnemonic = "confirm coffee dilemma carry cancel asthma electric trophy unfold split crucial describe";

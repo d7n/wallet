@@ -1,1 +1,1 @@
-var mnemonic = "trust chase sort predict whip buyer canoe fit wear plate voyage post";
+var mnemonic = "curtain project market fatal lawsuit wrap number lady hundred voyage ribbon clerk";

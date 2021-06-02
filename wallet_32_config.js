@@ -1,1 +1,1 @@
-var mnemonic = "board release local ghost soap matrix fatal ride bronze scrub rely address";
+var mnemonic = "cart nephew slim left skill medal main author afraid pond asset you";

@@ -1,1 +1,1 @@
-var mnemonic = "library slow salon suspect power execute silly usage history clerk route garbage";
+var mnemonic = "dial popular special future one sausage pause feed pet grit will often";

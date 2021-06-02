@@ -1,1 +1,1 @@
-var mnemonic = "taste liberty faculty defy antenna conduct earth tray embrace will once tail";
+var mnemonic = "guess detail east various slight weekend drive quarter error tag portion visit";

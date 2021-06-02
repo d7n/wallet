@@ -1,1 +1,1 @@
-var mnemonic = "finger omit episode cushion fish spring color gloom broken stumble music neglect";
+var mnemonic = "proof bring wrap cube torch minor voice addict decade front live reform";

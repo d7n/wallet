@@ -1,1 +1,1 @@
-var mnemonic = "tuna upgrade gospel foil dad cool nothing inflict diesel small term bomb";
+var mnemonic = "patrol math senior exotic arm broken pole day current crazy gospel filter";

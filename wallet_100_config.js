@@ -1,1 +1,1 @@
-var mnemonic = "virtual wink trend target valid truly cute toss field water usage melt";
+var mnemonic = "afraid desert gift dust bulk hazard dismiss adapt destroy across guitar only";

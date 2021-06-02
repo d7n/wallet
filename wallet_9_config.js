@@ -1,1 +1,1 @@
-var mnemonic = "script bomb myself define title wet nominee sausage monster coffee island drastic";
+var mnemonic = "dilemma bike stock suspect steak combine segment spoil stock intact rule spread";

@@ -1,1 +1,1 @@
-var mnemonic = "arm ill lizard rug stem fall sibling burden avocado smile essence find";
+var mnemonic = "shallow smile host three black latin weather broccoli ecology clean angry nation";

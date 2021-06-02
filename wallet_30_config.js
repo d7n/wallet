@@ -1,1 +1,1 @@
-var mnemonic = "zoo grocery daring fault mouse tenant raise cart stomach share example below";
+var mnemonic = "among glance edge erase expand dice receive syrup obey bracket any poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "riot clean sound donkey skill mushroom girl edge spider service chunk decline";
+var mnemonic = "ocean torch keen trap embrace snow tuna mushroom mansion clever home army";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom field car device burger off mystery print welcome saddle call vibrant";
+var mnemonic = "satisfy tennis fan dash render affair online vital oil chaos plunge flee";

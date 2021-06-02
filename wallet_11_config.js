@@ -1,1 +1,1 @@
-var mnemonic = "wolf pact video season merge cousin direct aisle repair cabin tired news";
+var mnemonic = "planet link exist pilot fetch gain loop sphere medal giant belt neck";

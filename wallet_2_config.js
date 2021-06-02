@@ -1,1 +1,1 @@
-var mnemonic = "journey method extend misery business smoke pelican print diamond melody loud seven";
+var mnemonic = "sniff tonight minute coral airport foot accident soup segment broom spider smile";

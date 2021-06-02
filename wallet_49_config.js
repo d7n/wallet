@@ -1,1 +1,1 @@
-var mnemonic = "regular true together stadium lawsuit beauty vivid genre rapid nominee trick rhythm";
+var mnemonic = "stove topic now decide polar soul divert rice donate trophy view beauty";

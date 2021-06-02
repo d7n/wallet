@@ -1,1 +1,1 @@
-var mnemonic = "okay balcony permit method glory wagon near fragile shallow govern wage view";
+var mnemonic = "purchase strong save foster just innocent tornado version shell tip often harsh";

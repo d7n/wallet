@@ -1,1 +1,1 @@
-var mnemonic = "near moon outdoor boss security unfair glad supply desk degree bright size";
+var mnemonic = "range worth shiver skate island afford crash smart labor fox captain code";

@@ -1,1 +1,1 @@
-var mnemonic = "kind find emerge leaf best blue spoon half rack small lyrics you";
+var mnemonic = "exist ahead next fog fashion lady ancient rule split motor throw share";

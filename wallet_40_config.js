@@ -1,1 +1,1 @@
-var mnemonic = "priority require object raven exile lift bleak voice stamp trip duty benefit";
+var mnemonic = "section auto blanket luxury require pulse grass light perfect mind process indicate";

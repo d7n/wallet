@@ -1,1 +1,1 @@
-var mnemonic = "illegal slide notable tomato adjust height mountain fragile inmate heavy unaware toy";
+var mnemonic = "ten gain mom local crunch present approve slender frog pass volume rocket";

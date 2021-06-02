@@ -1,1 +1,1 @@
-var mnemonic = "scissors hungry egg lawn cricket adjust sea deny panic obtain eight glow";
+var mnemonic = "metal pool toy net park lottery group solution uncle jump impulse coil";

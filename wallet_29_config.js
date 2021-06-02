@@ -1,1 +1,1 @@
-var mnemonic = "congress figure wise glue action believe city pen deposit attract pigeon veteran";
+var mnemonic = "slender crane dumb solid cake mom october rough denial trip capital laptop";

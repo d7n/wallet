@@ -1,1 +1,1 @@
-var mnemonic = "display evidence plastic sort dawn anger robust solution viable dash jaguar mystery";
+var mnemonic = "sister never cotton sleep news clump own gloom side faith dress chase";

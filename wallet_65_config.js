@@ -1,1 +1,1 @@
-var mnemonic = "aunt shiver since deal alter bus cup thunder lava explain lawsuit voyage";
+var mnemonic = "gauge clock grain cruel extend jelly virtual twelve recipe try panic dose";

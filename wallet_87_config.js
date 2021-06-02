@@ -1,1 +1,1 @@
-var mnemonic = "twist rice learn stay field arrow salad include sketch toast forward release";
+var mnemonic = "embark erupt common delay wasp subway lady magic artefact object foster normal";

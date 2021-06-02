@@ -1,1 +1,1 @@
-var mnemonic = "field assault agent clean soda typical gentle wave salmon bicycle net inform";
+var mnemonic = "year hazard kit forum simple spoon force ribbon project prevent repair taste";

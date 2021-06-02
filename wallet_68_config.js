@@ -1,1 +1,1 @@
-var mnemonic = "pulp joy scale ripple brave feel together final matter side follow scene";
+var mnemonic = "uncle soccer antique enlist want tube ensure crucial forward spice leader stomach";

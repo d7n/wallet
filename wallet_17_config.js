@@ -1,1 +1,1 @@
-var mnemonic = "beach outside catch moral hub earn original volume useful perfect robot join";
+var mnemonic = "whisper make air one kitchen reward museum shield reflect glory mesh focus";

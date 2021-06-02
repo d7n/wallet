@@ -1,1 +1,1 @@
-var mnemonic = "planet fancy monster find barrel face uncover lab stem little rate victory";
+var mnemonic = "cream drum angry explain person twelve cereal card wise spirit reveal village";

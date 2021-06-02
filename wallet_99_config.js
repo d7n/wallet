@@ -1,1 +1,1 @@
-var mnemonic = "dynamic meat gasp scene peanut phone vintage aerobic fence axis entry have";
+var mnemonic = "pepper dose surge upper earth force maple shrimp toilet wash check three";

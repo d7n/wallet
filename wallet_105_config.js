@@ -1,1 +1,1 @@
-var mnemonic = "hazard arrange impact turn salt turkey sweet riot reunion two garlic puzzle";
+var mnemonic = "amazing inner merge please topic devote lottery park venue purse wave shell";

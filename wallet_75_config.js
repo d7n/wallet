@@ -1,1 +1,1 @@
-var mnemonic = "visual father slow asset logic course exclude olive citizen any shallow mobile";
+var mnemonic = "badge book naive avocado shoulder used hat steak lizard liquid add reunion";

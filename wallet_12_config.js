@@ -1,1 +1,1 @@
-var mnemonic = "east round acoustic explain cry hurdle pull ankle huge defense trigger hazard";
+var mnemonic = "morning pet theory country staff magnet stumble yellow zebra awful cost settle";

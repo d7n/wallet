@@ -1,1 +1,1 @@
-var mnemonic = "truth tone melody cereal snap team order brave unveil marble wrist secret";
+var mnemonic = "dream blood famous culture oil dragon urban feel casino minute merit decrease";

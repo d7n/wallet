@@ -1,1 +1,1 @@
-var mnemonic = "strike initial hospital myth floor dose oxygen torch snow dynamic cabbage food";
+var mnemonic = "slender aim prevent movie canvas nasty trust employ recipe update actual anxiety";

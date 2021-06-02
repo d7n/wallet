@@ -1,1 +1,1 @@
-var mnemonic = "fortune deer victory manual make medal comic execute oil urban orchard rotate";
+var mnemonic = "student nerve minor ramp soda expire vessel submit there pretty tape theory";

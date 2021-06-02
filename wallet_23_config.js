@@ -1,1 +1,1 @@
-var mnemonic = "rapid slab erosion vehicle make auction peasant sea about leader again monkey";
+var mnemonic = "jazz approve short scatter lady pull marine surface carpet toe swamp rug";

@@ -1,1 +1,1 @@
-var mnemonic = "lava client source answer famous shaft sniff since match agent cream bread";
+var mnemonic = "teach drip cart image game whisper rhythm drive text green powder slim";

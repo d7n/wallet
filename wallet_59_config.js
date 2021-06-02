@@ -1,1 +1,1 @@
-var mnemonic = "bronze insane grocery cloth peace burst alcohol coyote garage leopard lucky erosion";
+var mnemonic = "normal maze salt oil impose interest stumble trust seed pencil shaft share";

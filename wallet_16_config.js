@@ -1,1 +1,1 @@
-var mnemonic = "rifle hidden doll defense annual riot dragon curtain rain knee recall hundred";
+var mnemonic = "enter sea monster similar write spread notable wage since pool deliver solution";

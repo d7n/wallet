@@ -1,1 +1,1 @@
-var mnemonic = "vendor enforce margin lion oppose purity teach salmon youth artist divorce thank";
+var mnemonic = "month traffic lucky boy witness write soft produce hawk obtain crane window";

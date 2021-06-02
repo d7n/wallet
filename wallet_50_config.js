@@ -1,1 +1,1 @@
-var mnemonic = "omit waste chimney tomorrow illness express popular cycle bracket sibling quiz lunar";
+var mnemonic = "bulb work sudden key actress peasant trend spice basic night phrase exist";

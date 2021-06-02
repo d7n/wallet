@@ -1,1 +1,1 @@
-var mnemonic = "endless negative aim monkey unique collect atom cricket high make phone phrase";
+var mnemonic = "proof grocery goddess output ignore region slight appear hood title great train";

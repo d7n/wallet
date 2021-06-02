@@ -1,1 +1,1 @@
-var mnemonic = "video patient library devote slam raise virus glory ancient night fragile conduct";
+var mnemonic = "resource cave egg giggle type tired zebra sponsor auction struggle decrease dynamic";

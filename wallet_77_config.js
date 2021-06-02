@@ -1,1 +1,1 @@
-var mnemonic = "moment laptop nominee under tube skull team left forget stool earn wild";
+var mnemonic = "assist else possible top next buddy transfer method riot one yellow flock";

@@ -1,1 +1,1 @@
-var mnemonic = "marine guitar gauge above rate initial mule female winner small apart flavor";
+var mnemonic = "hawk siren aware worth sadness midnight analyst salmon kingdom blame mom permit";

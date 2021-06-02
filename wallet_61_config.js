@@ -1,1 +1,1 @@
-var mnemonic = "over abuse real village update lecture journey song curve correct power sunny";
+var mnemonic = "perfect dove machine offer business vocal file whale sail grit draw jump";

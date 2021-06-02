@@ -1,1 +1,1 @@
-var mnemonic = "universe allow garment giant verify oval radio unhappy enemy trend sentence anger";
+var mnemonic = "goat daughter victory curtain shuffle survey nuclear galaxy govern ugly protect bracket";

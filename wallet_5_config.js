@@ -1,1 +1,1 @@
-var mnemonic = "van route correct summer shove copy prison bulk kid more isolate cover";
+var mnemonic = "gather pear nerve gaze spirit all token long nothing kid evidence sad";

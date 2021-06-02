@@ -1,1 +1,1 @@
-var mnemonic = "icon access motion kitten pulp mercy cup rally cook express print fluid";
+var mnemonic = "intact wonder pretty wing tired marble mountain taxi crunch point rug sustain";

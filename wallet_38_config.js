@@ -1,1 +1,1 @@
-var mnemonic = "creek front narrow lock alley teach purchase guess powder reason innocent skate";
+var mnemonic = "flush jeans coyote defense front turn excuse knock yard shrug symptom witness";

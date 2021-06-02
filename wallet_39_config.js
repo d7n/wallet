@@ -1,1 +1,1 @@
-var mnemonic = "slender jaguar task become dignity bag page road luggage tornado execute arrest";
+var mnemonic = "simple hood ill letter buddy dilemma humble shop erase various only anchor";

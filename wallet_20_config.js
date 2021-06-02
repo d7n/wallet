@@ -1,1 +1,1 @@
-var mnemonic = "unable add park cube grant early jeans target what author barely cream";
+var mnemonic = "top cloth flight online fossil toe mystery leg loyal avocado hurt panel";

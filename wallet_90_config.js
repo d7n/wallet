@@ -1,1 +1,1 @@
-var mnemonic = "brother outside jealous begin tennis umbrella regret cycle usage diagram core regular";
+var mnemonic = "paper speed tray eight work february put member sea latin jelly hamster";

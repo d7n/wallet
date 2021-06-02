@@ -1,1 +1,1 @@
-var mnemonic = "vapor genre retreat glue flower trap math milk ripple salad six book";
+var mnemonic = "off mosquito view side merge inherit hurt rabbit tiny over wood cigar";

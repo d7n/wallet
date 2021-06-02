@@ -1,1 +1,1 @@
-var mnemonic = "sugar mention hamster lounge rescue orient deal december gold ring force bird";
+var mnemonic = "produce check voyage civil zone play forget birth desk random naive market";
