@@ -1,1 +1,1 @@
-var mnemonic = "rubber nose private seven clay solid wear fiction water recycle tree net";
+var mnemonic = "myth actual ankle shoe urge ticket ramp black wage broken asset equal";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon awake boring ship edge enlist peace prosper barely start notable north";
+var mnemonic = "wine right vicious fade clown pole stairs lens account midnight tail deputy";

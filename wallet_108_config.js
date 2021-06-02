@@ -1,1 +1,1 @@
-var mnemonic = "this oppose paddle agent reward novel rent candy oxygen brain another across";
+var mnemonic = "flight bounce boil genius hip uncover circle rude brick flat category flip";

@@ -1,1 +1,1 @@
-var mnemonic = "blame pool love rent quantum awesome devote salute boring donkey chaos raccoon";
+var mnemonic = "mansion boring toilet vacuum cricket inherit prison build oxygen theme mind tank";

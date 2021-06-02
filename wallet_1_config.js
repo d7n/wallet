@@ -1,1 +1,1 @@
-var mnemonic = "surface soldier own vivid figure supreme despair outside horse omit nose tired";
+var mnemonic = "thrive mad bracket ramp language response victory near legend tonight color describe";

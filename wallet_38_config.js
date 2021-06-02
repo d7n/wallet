@@ -1,1 +1,1 @@
-var mnemonic = "slot equip eternal become patient stamp worry junior miracle wagon shock quality";
+var mnemonic = "install genuine celery equal suspect turkey muffin paddle wheel eyebrow example zoo";

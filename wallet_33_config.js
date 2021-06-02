@@ -1,1 +1,1 @@
-var mnemonic = "gadget earth dash animal erase damp gift host trim absent guide tape";
+var mnemonic = "critic maple consider ripple begin false toe poem pizza rail future room";

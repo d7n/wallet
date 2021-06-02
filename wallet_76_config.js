@@ -1,1 +1,1 @@
-var mnemonic = "myth tank issue wool ugly enter spread govern floor round dynamic mango";
+var mnemonic = "slide law humor lion now atom relief dirt save slow aerobic crunch";

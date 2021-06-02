@@ -1,1 +1,1 @@
-var mnemonic = "obey basic rice gasp alley always until hospital bus second eagle flush";
+var mnemonic = "idea tobacco boring draw digital mom staff bounce rival portion order play";

@@ -1,1 +1,1 @@
-var mnemonic = "electric trust electric grief country phrase school tell salon sausage absorb team";
+var mnemonic = "trick excuse vivid session era sample slight distance nation clutch nerve disorder";

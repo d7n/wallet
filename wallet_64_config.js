@@ -1,1 +1,1 @@
-var mnemonic = "pole boil special quarter affair goat symbol dinosaur federal educate flight copper";
+var mnemonic = "rebel taste suffer anxiety caution vapor visa link civil tongue quote pistol";

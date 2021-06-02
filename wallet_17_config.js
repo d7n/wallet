@@ -1,1 +1,1 @@
-var mnemonic = "potato canyon cool control trick snow drip humble muscle owner arrest excite";
+var mnemonic = "meat episode rude regular curious enter inform myth tackle maid theory east";

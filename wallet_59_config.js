@@ -1,1 +1,1 @@
-var mnemonic = "call awesome cruise envelope lesson wing other repeat lottery human apart sugar";
+var mnemonic = "pulp egg dwarf useful rigid shaft lunch vessel shallow quality aisle wrong";

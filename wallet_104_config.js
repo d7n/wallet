@@ -1,1 +1,1 @@
-var mnemonic = "execute fortune crazy heart replace marine lunar click armed onion patrol keen";
+var mnemonic = "pretty front style family pass exotic champion begin bullet tube coconut abandon";

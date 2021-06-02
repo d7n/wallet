@@ -1,1 +1,1 @@
-var mnemonic = "table unfold immense camera lamp fall manual convince author burden sell mixed";
+var mnemonic = "pony oyster stool circle increase eyebrow become gallery audit almost century control";

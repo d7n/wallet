@@ -1,1 +1,1 @@
-var mnemonic = "seek try shrimp shop cargo hill body dad head age drift squirrel";
+var mnemonic = "cabin steel step crunch around foster unaware thank also scrub scout network";

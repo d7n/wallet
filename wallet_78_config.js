@@ -1,1 +1,1 @@
-var mnemonic = "apology search effort maple solution ripple photo woman cute local auction toddler";
+var mnemonic = "car truck fork timber actress build lava pigeon winner error off angle";

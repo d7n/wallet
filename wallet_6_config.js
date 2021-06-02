@@ -1,1 +1,1 @@
-var mnemonic = "kind cradle salad fury enough giant alien dry absorb boat album tilt";
+var mnemonic = "buffalo crater they economy pear trim train upon typical cabin picnic alarm";

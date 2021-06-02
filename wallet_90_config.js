@@ -1,1 +1,1 @@
-var mnemonic = "summer dignity quit rigid behave coach eternal tissue ride harsh horn renew";
+var mnemonic = "actress butter bag utility lab sick trend fish switch spell private off";

@@ -1,1 +1,1 @@
-var mnemonic = "army gospel tag airport identify leopard vapor believe fade decorate hat annual";
+var mnemonic = "abandon about charge job record erase claw vast unknown indoor absurd rather";

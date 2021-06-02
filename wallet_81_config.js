@@ -1,1 +1,1 @@
-var mnemonic = "sentence october mind country message point exclude have route snake increase diary";
+var mnemonic = "digital anxiety dumb wash goddess object cool student upon doll host crack";

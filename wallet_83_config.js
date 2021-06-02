@@ -1,1 +1,1 @@
-var mnemonic = "choice snap medal post nice tiny direct ridge story soon stamp cake";
+var mnemonic = "ankle vibrant spread goddess fiscal ocean use climb divert demise kind dose";

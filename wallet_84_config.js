@@ -1,1 +1,1 @@
-var mnemonic = "salute media dad powder tribe develop early female term trip purpose denial";
+var mnemonic = "wedding fragile pistol lion repeat next moral mixed stamp exercise tent nest";

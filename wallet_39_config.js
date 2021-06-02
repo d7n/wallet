@@ -1,1 +1,1 @@
-var mnemonic = "snow visual across duty goat price juice gown sister feel awful raven";
+var mnemonic = "cabbage trigger clean vague law assault gadget police evolve clinic artefact wedding";

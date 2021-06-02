@@ -1,1 +1,1 @@
-var mnemonic = "pipe west fiction asthma young empower birth wheel scout convince monkey bulb";
+var mnemonic = "angry circle thing sure power decide decrease virus evil guess success shock";

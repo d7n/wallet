@@ -1,1 +1,1 @@
-var mnemonic = "found garage senior leopard spice bus slice divide smoke practice owner disagree";
+var mnemonic = "guilt goat east act globe toilet person mix drastic mule february bar";

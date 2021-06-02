@@ -1,1 +1,1 @@
-var mnemonic = "shuffle despair sunset category unaware sustain judge crowd harvest blouse awkward scan";
+var mnemonic = "depth shoot debate thought quit loud image film pupil annual hub tree";

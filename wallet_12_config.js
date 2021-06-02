@@ -1,1 +1,1 @@
-var mnemonic = "task jewel blue explain glimpse spirit jealous bike girl elder pelican type";
+var mnemonic = "blouse barrel depend can box silly flush cruise disease bullet six shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare clump blue same equip heart mass length raccoon lion ten gather";
+var mnemonic = "print six craft suffer income peace minimum invest you title barrel exile";

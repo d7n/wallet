@@ -1,1 +1,1 @@
-var mnemonic = "below auction text scissors tank need fine broom scare baby document flush";
+var mnemonic = "tattoo verb oblige give clinic garment burger banner true guitar food twenty";

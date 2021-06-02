@@ -1,1 +1,1 @@
-var mnemonic = "master among evoke jazz climb person wear husband useless oblige notable start";
+var mnemonic = "budget bright ethics field brief coach wear ecology grab camp question winter";

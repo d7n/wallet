@@ -1,1 +1,1 @@
-var mnemonic = "panic before scatter sibling satoshi ozone blade hero opinion vital panda knock";
+var mnemonic = "season tide scout guide chronic jewel exhaust solve cabbage page merry smile";

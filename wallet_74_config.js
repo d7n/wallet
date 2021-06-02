@@ -1,1 +1,1 @@
-var mnemonic = "almost blame spray canoe play spoon fortune bag exit scare inherit travel";
+var mnemonic = "face able crater moral kiss slide emerge family daughter inquiry control panda";

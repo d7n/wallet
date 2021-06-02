@@ -1,1 +1,1 @@
-var mnemonic = "false curve heart involve jump toast melt lamp expect receive aisle onion";
+var mnemonic = "dice march seat health struggle box parent lock town rack solution resource";

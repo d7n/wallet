@@ -1,1 +1,1 @@
-var mnemonic = "firm sell firm join history phone square grief roast you more maze";
+var mnemonic = "pave warfare daring swamp chicken carry input rack above plate mammal cruise";

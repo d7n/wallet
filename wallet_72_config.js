@@ -1,1 +1,1 @@
-var mnemonic = "want lamp large few provide kick fantasy place raise infant very diesel";
+var mnemonic = "define uncle trash army choose bench payment vast total today shift audit";

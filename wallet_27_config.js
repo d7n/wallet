@@ -1,1 +1,1 @@
-var mnemonic = "mountain story kite purity setup deliver dragon destroy betray smoke foster buffalo";
+var mnemonic = "screen miracle kite later hello trend around asset element object absent south";

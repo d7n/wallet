@@ -1,1 +1,1 @@
-var mnemonic = "stuff mule ripple glance coral pledge win link motor upon globe during";
+var mnemonic = "tomorrow olympic garden ball rival call beauty abandon divide weasel correct uncover";

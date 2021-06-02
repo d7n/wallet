@@ -1,1 +1,1 @@
-var mnemonic = "vicious lottery loop good version aunt planet crumble embark tonight secret rescue";
+var mnemonic = "start token exhaust brush coast medal pizza wise indoor thunder essence volcano";

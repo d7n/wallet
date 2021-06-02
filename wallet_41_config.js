@@ -1,1 +1,1 @@
-var mnemonic = "exchange engage forest dragon cover meadow illness roast element globe weather poet";
+var mnemonic = "song bike flower settle couch firm raw jewel roof empower country paper";

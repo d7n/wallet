@@ -1,1 +1,1 @@
-var mnemonic = "coin game bag toe swift panda casino initial zero pony home furnace";
+var mnemonic = "wine song hospital chef label liberty live trust basic winner category crime";

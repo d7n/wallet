@@ -1,1 +1,1 @@
-var mnemonic = "vessel kit body please ripple box outdoor rhythm item pink adapt tobacco";
+var mnemonic = "slab forest relief outside puppy great word install minor silly table amused";

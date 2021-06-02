@@ -1,1 +1,1 @@
-var mnemonic = "hold brain repeat spice uniform midnight suit voice thrive audit pole clip";
+var mnemonic = "female head wrong praise olive dinosaur great exotic helmet print wet protect";

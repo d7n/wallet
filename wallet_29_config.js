@@ -1,1 +1,1 @@
-var mnemonic = "delay merge eyebrow issue style extra arrange safe wrestle aspect vapor february";
+var mnemonic = "axis maze dirt admit mom goddess runway zoo donor entry slice first";

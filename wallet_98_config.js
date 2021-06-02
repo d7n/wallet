@@ -1,1 +1,1 @@
-var mnemonic = "exile share horse ask total slow chalk teach hour cricket sniff bridge";
+var mnemonic = "put almost gown chronic wing system jaguar pill horror weekend fever help";

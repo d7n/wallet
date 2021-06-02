@@ -1,1 +1,1 @@
-var mnemonic = "film tiger assault hint clap pluck bomb dutch cream equip popular atom";
+var mnemonic = "liar puzzle immense mobile myself chronic cake shift chunk horn elbow drop";

@@ -1,1 +1,1 @@
-var mnemonic = "rent wait trick group series skull reduce sorry kiwi van vague skirt";
+var mnemonic = "book owner cube own fence such essence artwork wreck million wild humble";

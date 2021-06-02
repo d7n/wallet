@@ -1,1 +1,1 @@
-var mnemonic = "soup mask tumble width model true swamp slam private swarm track jar";
+var mnemonic = "museum island rule bulk library increase replace observe liar clump bean ecology";

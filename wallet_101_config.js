@@ -1,1 +1,1 @@
-var mnemonic = "language pumpkin knee chef element engage team object eight boring snow vintage";
+var mnemonic = "midnight sibling broom safe party body federal wrestle rifle must merge easily";

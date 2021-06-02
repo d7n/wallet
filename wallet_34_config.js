@@ -1,1 +1,1 @@
-var mnemonic = "such lobster truck matrix hint diet genuine master clock tilt diamond spring";
+var mnemonic = "reveal load hood plug coconut frown leisure hen gloom equip rug bachelor";

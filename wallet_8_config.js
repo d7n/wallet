@@ -1,1 +1,1 @@
-var mnemonic = "mixture rally unique throw village actress home heavy crane again mimic inquiry";
+var mnemonic = "option promote twelve crumble tide large grief advance cigar sock imitate squeeze";

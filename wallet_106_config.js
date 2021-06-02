@@ -1,1 +1,1 @@
-var mnemonic = "deal ethics rival ocean theme aspect hire neck cheap laugh volume wheat";
+var mnemonic = "mouse canal advance unhappy rookie brass time need minimum local lab book";

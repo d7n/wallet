@@ -1,1 +1,1 @@
-var mnemonic = "trap police friend retire usage cloth coach lens child moment neck document";
+var mnemonic = "quantum walk cattle calm federal popular tower kiwi wing shove novel proof";

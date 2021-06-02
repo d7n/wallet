@@ -1,1 +1,1 @@
-var mnemonic = "green clarify valley machine notable story peanut hybrid ball prepare desert hero";
+var mnemonic = "wheat spot palace whip peasant rubber icon oil slot naive mix congress";

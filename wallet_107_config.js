@@ -1,1 +1,1 @@
-var mnemonic = "law reopen game industry clarify awesome heart hobby floor next cancel undo";
+var mnemonic = "arm pen hamster casino escape object illegal universe witness slow room cereal";

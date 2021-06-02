@@ -1,1 +1,1 @@
-var mnemonic = "unlock wolf palace shy argue thunder cross advice couple gorilla blush motion";
+var mnemonic = "other robot example retreat mad credit upon funny oxygen family sing neck";

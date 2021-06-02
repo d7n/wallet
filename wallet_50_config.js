@@ -1,1 +1,1 @@
-var mnemonic = "erupt rate inmate indoor penalty target picture service drip dinner follow arch";
+var mnemonic = "finger orbit smoke inject soap exile phone square atom remove kit worth";

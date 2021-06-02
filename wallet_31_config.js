@@ -1,1 +1,1 @@
-var mnemonic = "despair desert grow whale main isolate page depth bamboo jacket venue parade";
+var mnemonic = "asthma own spoil science warfare artwork solar flower gas success congress lens";

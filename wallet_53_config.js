@@ -1,1 +1,1 @@
-var mnemonic = "intact cause pond skin lounge hurdle grunt throw polar area prepare hurry";
+var mnemonic = "world jeans move build reward core gentle way bright share chest cheap";

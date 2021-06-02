@@ -1,1 +1,1 @@
-var mnemonic = "define upper puppy movie snake borrow fabric piano detail danger master exile";
+var mnemonic = "lion lecture source vanish cable talent dismiss grant prosper shrimp voyage whisper";

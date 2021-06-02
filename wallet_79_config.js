@@ -1,1 +1,1 @@
-var mnemonic = "fit bind family dose upset predict strike derive injury eight canal bottom";
+var mnemonic = "success jump rice owner unique noodle eye indicate dish voice nation screen";

@@ -1,1 +1,1 @@
-var mnemonic = "park ill slot fragile marine verb rather envelope spirit increase ghost manage";
+var mnemonic = "sugar congress try filter wave rough spoon lottery wheat mansion marriage couple";

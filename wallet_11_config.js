@@ -1,1 +1,1 @@
-var mnemonic = "before whip involve story inform indicate since lunar arrest crop east squirrel";
+var mnemonic = "orange when universe cactus price peace enact family swallow twelve engage treat";

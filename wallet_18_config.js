@@ -1,1 +1,1 @@
-var mnemonic = "soap marble goddess quality claw excuse object hollow skate review position ancient";
+var mnemonic = "kiwi sphere episode liquid basket melt wife hair cloud mind repeat census";

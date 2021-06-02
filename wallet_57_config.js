@@ -1,1 +1,1 @@
-var mnemonic = "sustain spot water perfect flower fade finger cruise wild test opera grocery";
+var mnemonic = "veteran cluster laptop little bicycle pill spell inside visit novel skull cram";

@@ -1,1 +1,1 @@
-var mnemonic = "agent blanket alpha topic file crucial same avoid valley key surprise nut";
+var mnemonic = "novel gift pretty toddler cream slogan bar rail lunar cushion pave thumb";

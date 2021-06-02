@@ -1,1 +1,1 @@
-var mnemonic = "drink alone very bone century kiwi symbol inner audit one neglect crater";
+var mnemonic = "sand interest nephew enforce inflict dance matter turkey upper chase globe mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "danger radio tank bundle skill skin scrap language faculty urban vendor tackle";
+var mnemonic = "try area agree lemon virus key cloud auto glass can skill change";

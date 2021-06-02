@@ -1,1 +1,1 @@
-var mnemonic = "swift fruit match say tomato battle cliff photo tourist dog snake second";
+var mnemonic = "busy maid laundry siren ritual sorry tourist edit feature borrow swallow thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk lunch fabric patient volcano pony three index air feel impose fitness";
+var mnemonic = "visual observe curious avocado pudding build person joy street laugh traffic stamp";

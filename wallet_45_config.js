@@ -1,1 +1,1 @@
-var mnemonic = "upon chair little salon floor wet arctic strike enhance noble badge thing";
+var mnemonic = "one sport clinic already guitar diamond exhaust embrace alert spawn mule vast";

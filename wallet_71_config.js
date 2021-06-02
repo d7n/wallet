@@ -1,1 +1,1 @@
-var mnemonic = "wrist eternal latin shrug student ordinary bus crawl model laptop output crouch";
+var mnemonic = "reduce cereal robot volume naive phrase room state welcome inherit trophy mail";

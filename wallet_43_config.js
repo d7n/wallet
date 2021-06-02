@@ -1,1 +1,1 @@
-var mnemonic = "hover rose quiz warrior wheat citizen east add cloud amateur dynamic stone";
+var mnemonic = "casual wrestle letter move donkey obtain orphan nature nut season bicycle shed";

@@ -1,1 +1,1 @@
-var mnemonic = "zone rebuild infant lecture whip rookie lounge screen nest zero you buzz";
+var mnemonic = "tobacco wine found shrug female glance insect winner ozone when quarter burden";

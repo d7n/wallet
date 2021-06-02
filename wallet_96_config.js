@@ -1,1 +1,1 @@
-var mnemonic = "hurdle curtain consider rubber simple guess zoo ivory purchase humor drive office";
+var mnemonic = "suggest bird scare share gadget fire suit hammer wage snap sister salon";

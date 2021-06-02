@@ -1,1 +1,1 @@
-var mnemonic = "worth prepare cushion message drift scheme deputy ski upon audit feel menu";
+var mnemonic = "chase figure cruise north catch better next able fun book motor sample";

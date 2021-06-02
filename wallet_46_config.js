@@ -1,1 +1,1 @@
-var mnemonic = "weasel young afraid grief market funny dismiss retreat switch reason faculty relief";
+var mnemonic = "acquire key jump say asset smooth lab song vibrant marriage valve much";

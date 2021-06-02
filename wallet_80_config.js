@@ -1,1 +1,1 @@
-var mnemonic = "forest basic nut roof amount apple gadget mixed final ginger begin gallery";
+var mnemonic = "large trap sentence flat volcano arena maid toilet water spider text sting";

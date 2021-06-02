@@ -1,1 +1,1 @@
-var mnemonic = "prosper strike hand ski ranch just lab blast melody smooth breeze address";
+var mnemonic = "message mention mass egg profit derive van giraffe obtain media lab inherit";

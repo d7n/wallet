@@ -1,1 +1,1 @@
-var mnemonic = "chat heart actual song vocal client float avocado sister afford all shoe";
+var mnemonic = "dry heart insane omit lobster fringe border canyon glare resource ability stereo";

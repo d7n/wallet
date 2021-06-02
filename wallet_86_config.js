@@ -1,1 +1,1 @@
-var mnemonic = "around level make disorder army sand stand love swamp rather arrest bachelor";
+var mnemonic = "observe shoulder gasp genius bacon indoor affair afraid gown garment degree topple";

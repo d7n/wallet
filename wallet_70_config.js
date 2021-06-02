@@ -1,1 +1,1 @@
-var mnemonic = "cliff firm fortune island buzz power pyramid popular toy frame poem mosquito";
+var mnemonic = "cloud coconut school guitar glide sing urban vital expose estate base blame";

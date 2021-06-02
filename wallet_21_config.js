@@ -1,1 +1,1 @@
-var mnemonic = "chimney north whip employ wrist poet harsh inquiry card vague jazz little";
+var mnemonic = "bring middle garbage script absorb effort toy tattoo drive dress near noise";

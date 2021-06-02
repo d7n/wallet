@@ -1,1 +1,1 @@
-var mnemonic = "rough feel sell pyramid hidden ensure deliver lottery bench relax cage mass";
+var mnemonic = "slide juice tourist twice coast siren welcome estate gate charge record range";

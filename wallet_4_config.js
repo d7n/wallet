@@ -1,1 +1,1 @@
-var mnemonic = "oil cross finish deputy display act duck nose entry design blanket mix";
+var mnemonic = "spare kiwi beyond spawn crucial tenant use bless figure trouble library vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "label sample catalog sick bind empower mountain demand today ride glad much";
+var mnemonic = "gym memory pumpkin birth robust cloud sweet slide million sniff scheme unable";

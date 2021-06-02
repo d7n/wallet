@@ -1,1 +1,1 @@
-var mnemonic = "thumb mercy father crowd truck never clock south sense tuition broccoli turtle";
+var mnemonic = "cargo easily fetch avocado scare trend illegal outside palace husband often foam";

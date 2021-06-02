@@ -1,1 +1,1 @@
-var mnemonic = "diagram walk tongue easy oval affair shy harvest lift lottery ship swarm";
+var mnemonic = "route access gun target street attitude enforce trust peasant train vital slogan";

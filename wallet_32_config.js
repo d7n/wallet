@@ -1,1 +1,1 @@
-var mnemonic = "venture scout miss follow wagon steak flavor decade glare drop flight robust";
+var mnemonic = "cool protect spirit access tail hawk can panic genius assume island fish";
