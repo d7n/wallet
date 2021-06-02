@@ -1,1 +1,1 @@
-var mnemonic = "satisfy filter hold net foot surround tobacco chicken wrong visit before boat";
+var mnemonic = "mammal border vendor disagree fold joke arena business void castle public reunion";

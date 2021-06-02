@@ -1,1 +1,1 @@
-var mnemonic = "grab miss siren explain couch promote weekend grunt mother suffer sorry casual";
+var mnemonic = "elder arch column town off voice increase shallow illegal coach curtain often";

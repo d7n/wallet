@@ -1,1 +1,1 @@
-var mnemonic = "abuse whale globe flush explain soup effort faculty document aunt alert slogan";
+var mnemonic = "window oil hammer winner fog pyramid custom kitchen toss forum engine clever";

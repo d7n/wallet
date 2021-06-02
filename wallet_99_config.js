@@ -1,1 +1,1 @@
-var mnemonic = "possible agree crumble culture spawn bus duty able silent whip coyote apart";
+var mnemonic = "bar century kind buyer tissue milk tiger code bundle elephant toy morning";

@@ -1,1 +1,1 @@
-var mnemonic = "myself feed sunny attack recipe check mass random confirm shove tennis rough";
+var mnemonic = "pistol stereo sell slush switch during edit cruise captain unveil fetch venue";

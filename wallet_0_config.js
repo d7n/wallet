@@ -1,1 +1,1 @@
-var mnemonic = "angle cause appear town phone senior execute boy chunk ancient scale concert";
+var mnemonic = "key install pelican pink crew cost comic over zone concert fan salt";

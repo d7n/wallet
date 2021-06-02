@@ -1,1 +1,1 @@
-var mnemonic = "token baby dentist crop draw high bright hollow soon club wreck ill";
+var mnemonic = "figure luggage half lumber decline sting code mad under galaxy enter rude";

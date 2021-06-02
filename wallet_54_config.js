@@ -1,1 +1,1 @@
-var mnemonic = "focus any term install shrug lake bounce average clay already friend reunion";
+var mnemonic = "disease pig wrestle success raw aim sense catalog endless destroy cube chef";

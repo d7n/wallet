@@ -1,1 +1,1 @@
-var mnemonic = "front rapid game mass sign high shadow cushion speak cabin faith lecture";
+var mnemonic = "artist eternal find card sunset spend nerve wet spawn caught purse toy";

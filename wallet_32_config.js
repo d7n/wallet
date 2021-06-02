@@ -1,1 +1,1 @@
-var mnemonic = "satoshi filter print maximum alone pride alcohol curtain ginger move speak camera";
+var mnemonic = "giraffe canvas tiny rubber steel donkey saddle bless cancel junk icon twelve";

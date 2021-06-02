@@ -1,1 +1,1 @@
-var mnemonic = "mouse discover egg idea upgrade odor powder master virtual way fun kind";
+var mnemonic = "length stool advance spoil control image sell deputy obtain express retreat rate";

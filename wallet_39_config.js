@@ -1,1 +1,1 @@
-var mnemonic = "citizen tired amazing endless debate canal smart trouble gorilla monster pill pledge";
+var mnemonic = "ridge find soup punch slogan transfer forward depth solid blind resource exist";

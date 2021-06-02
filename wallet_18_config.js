@@ -1,1 +1,1 @@
-var mnemonic = "table youth arrow practice diesel air flip write crane mechanic weird funny";
+var mnemonic = "moral broccoli alpha syrup brand olympic long report lake what rare move";

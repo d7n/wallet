@@ -1,1 +1,1 @@
-var mnemonic = "syrup reveal second warfare sign camera useful helmet tree payment major prize";
+var mnemonic = "notice grid team nurse gentle next jeans lecture nuclear panther clinic system";

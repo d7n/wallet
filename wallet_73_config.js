@@ -1,1 +1,1 @@
-var mnemonic = "fall pause punch nature excuse relief someone marine want eyebrow false nature";
+var mnemonic = "lawn cream visual kiss lens tumble lecture install solar slush corn portion";

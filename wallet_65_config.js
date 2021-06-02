@@ -1,1 +1,1 @@
-var mnemonic = "unusual bind frost skirt scale coyote game planet eye surface this hockey";
+var mnemonic = "claw blast flag acquire muscle entry assault funny buzz rather soccer penalty";

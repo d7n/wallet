@@ -1,1 +1,1 @@
-var mnemonic = "word rebuild grape interest match hotel blur glow song other track glue";
+var mnemonic = "cube cup alarm peasant sniff over horse skill rug safe grab cereal";

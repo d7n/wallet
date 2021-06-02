@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sadness aim blossom stick radio evidence romance build pledge section punch";
+var mnemonic = "rifle theme list media day veteran smile cinnamon file rough increase example";

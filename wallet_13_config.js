@@ -1,1 +1,1 @@
-var mnemonic = "series traffic mosquito need match pen erode element key category wagon body";
+var mnemonic = "depth ugly harbor maximum mandate museum sister pass decline patrol dish stem";

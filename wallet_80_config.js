@@ -1,1 +1,1 @@
-var mnemonic = "carbon around wide final brush prepare indoor amount kiwi together carbon cannon";
+var mnemonic = "account predict crystal blouse diagram display jar refuse amount doll wisdom mixture";

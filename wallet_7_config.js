@@ -1,1 +1,1 @@
-var mnemonic = "solution legal repeat admit bless opera spoon news loyal inch wasp clean";
+var mnemonic = "veteran pass involve choice jar cannon tuna trim pumpkin seek normal mechanic";

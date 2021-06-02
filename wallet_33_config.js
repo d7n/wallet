@@ -1,1 +1,1 @@
-var mnemonic = "boss bike vessel dizzy tree wrestle junk finger grace later heavy sample";
+var mnemonic = "hole twin critic eager steak crazy glue trick jeans true faculty art";

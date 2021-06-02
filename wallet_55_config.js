@@ -1,1 +1,1 @@
-var mnemonic = "wasp final relief soon borrow fabric stairs shrug silk addict rabbit wagon";
+var mnemonic = "rotate frequent total absent squirrel corn remember march nature that host office";

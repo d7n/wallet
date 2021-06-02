@@ -1,1 +1,1 @@
-var mnemonic = "chest tree gun skate horror need hurdle artefact cross horn awkward best";
+var mnemonic = "surface remind tobacco range vivid message crystal knock pave stand seminar maid";

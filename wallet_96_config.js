@@ -1,1 +1,1 @@
-var mnemonic = "action muffin dress sound crew picture diet jacket mention fury black follow";
+var mnemonic = "liar kite virtual modify voyage peasant draw cradle velvet curtain metal spare";

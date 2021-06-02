@@ -1,1 +1,1 @@
-var mnemonic = "pitch again cram large blanket speed exercise cost buddy frequent supreme minor";
+var mnemonic = "fruit swap kitten kick work angry dizzy ahead route candy tail faculty";

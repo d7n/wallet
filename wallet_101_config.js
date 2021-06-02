@@ -1,1 +1,1 @@
-var mnemonic = "bicycle admit bunker success slot noodle code real pizza moral soap cave";
+var mnemonic = "chat casino hood analyst club slogan embrace grace kiss boat original grow";

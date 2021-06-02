@@ -1,1 +1,1 @@
-var mnemonic = "deal frequent shuffle have arrive round cry sock myth detail quarter special";
+var mnemonic = "satoshi leave eternal sauce name canyon eye regular debris position cotton album";

@@ -1,1 +1,1 @@
-var mnemonic = "network nut gather add spy weasel glance clinic neutral dose clip castle";
+var mnemonic = "tissue hungry pass keep buyer flight parrot plunge spike layer horn rich";

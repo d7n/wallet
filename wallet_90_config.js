@@ -1,1 +1,1 @@
-var mnemonic = "situate truth cement lens foster ozone scale short firm gospel obscure flag";
+var mnemonic = "ability chef empower rate dune job matter dinosaur detect embody assault gesture";

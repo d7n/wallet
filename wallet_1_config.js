@@ -1,1 +1,1 @@
-var mnemonic = "carry upgrade tell sorry medal wide normal tip genuine refuse short taxi";
+var mnemonic = "fall hub display rapid comic noble people solar voice weather opinion receive";

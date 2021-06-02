@@ -1,1 +1,1 @@
-var mnemonic = "cliff charge emotion popular erupt range frequent laundry upon fringe dawn clever";
+var mnemonic = "wheat rose inspire trust census erode dignity help bargain lava park exile";

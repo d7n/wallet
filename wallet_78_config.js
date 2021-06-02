@@ -1,1 +1,1 @@
-var mnemonic = "exist list device topic wagon worth rule indoor distance crystal photo naive";
+var mnemonic = "issue spot ostrich replace spring argue dry voice uncover daughter face one";

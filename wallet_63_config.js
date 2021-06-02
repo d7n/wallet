@@ -1,1 +1,1 @@
-var mnemonic = "desert milk intact divert speak toast orphan sand chronic open earth immense";
+var mnemonic = "catch select network tissue insane erase priority hold noise merge sight friend";

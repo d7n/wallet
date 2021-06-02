@@ -1,1 +1,1 @@
-var mnemonic = "normal neck during index asset lend employ seminar diesel rebuild denial ready";
+var mnemonic = "scrub kick pizza able evolve rice play actual lyrics addict muscle average";

@@ -1,1 +1,1 @@
-var mnemonic = "music category float pistol random pen normal success behave solution primary also";
+var mnemonic = "powder toilet load dice chaos message undo bunker fatigue royal struggle element";

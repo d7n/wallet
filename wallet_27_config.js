@@ -1,1 +1,1 @@
-var mnemonic = "large logic fork announce hip athlete rough squeeze satoshi blur boy deposit";
+var mnemonic = "fluid travel reason agree medal announce coconut human various gravity cousin next";

@@ -1,1 +1,1 @@
-var mnemonic = "upon boring long palm normal receive dust put pepper thunder ancient knock";
+var mnemonic = "oak course police recall toast stick frequent normal front diamond record poem";

@@ -1,1 +1,1 @@
-var mnemonic = "staff grief alter add ridge helmet crush lunch wrist oblige crucial useful";
+var mnemonic = "side drink smart retreat sock blood group stool art congress couple wife";

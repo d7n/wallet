@@ -1,1 +1,1 @@
-var mnemonic = "into slow soap tuition later garment apple entry rose veteran version tone";
+var mnemonic = "fee perfect carpet second reunion balance rich retreat divert shield use tired";

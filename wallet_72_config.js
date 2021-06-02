@@ -1,1 +1,1 @@
-var mnemonic = "once year enrich shell like vendor bracket unable survey pony brother riot";
+var mnemonic = "trial cactus dream dress banner drill feel jaguar swim blanket school dignity";

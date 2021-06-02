@@ -1,1 +1,1 @@
-var mnemonic = "egg myself stand laundry demise breeze zebra critic snack expect shed height";
+var mnemonic = "add imitate catch leaf gold glove exhibit phrase abandon fee vintage lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "odor crew people govern pig open wagon acquire upset quality knock tag";
+var mnemonic = "true auto link tunnel manage pilot page print swamp shiver convince market";

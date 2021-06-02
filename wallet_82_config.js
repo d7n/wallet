@@ -1,1 +1,1 @@
-var mnemonic = "police youth scan zone west seminar diesel useless punch circle canoe unfold";
+var mnemonic = "blouse bronze tape library rent same cube ordinary warfare number salon equip";

@@ -1,1 +1,1 @@
-var mnemonic = "defy ritual clip simple convince talk rocket soft slice include defy agent";
+var mnemonic = "flag coffee drum face federal armed hero brown sell wool plastic false";

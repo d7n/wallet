@@ -1,1 +1,1 @@
-var mnemonic = "evolve patient base better guilt angle hire rare possible involve plate waste";
+var mnemonic = "remain enter endless old whip orange peanut seat vacuum account flight addict";

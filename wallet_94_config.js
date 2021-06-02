@@ -1,1 +1,1 @@
-var mnemonic = "jar pistol express above embrace goose boss enhance water mom dynamic narrow";
+var mnemonic = "truck become hockey inhale annual topple file captain unfair rhythm poet dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "again hero valid sister gravity know shiver race mother ghost execute anxiety";
+var mnemonic = "rather future mom goddess manage slice idea there morning adult kitchen glide";

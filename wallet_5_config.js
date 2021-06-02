@@ -1,1 +1,1 @@
-var mnemonic = "festival palm obey memory tomorrow exit just all chalk media talent system";
+var mnemonic = "kidney pill snake health marble purpose unfold water valve tongue ethics blush";

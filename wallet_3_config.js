@@ -1,1 +1,1 @@
-var mnemonic = "sniff favorite wood acoustic fox couple saddle isolate sand two open race";
+var mnemonic = "hammer blade confirm eyebrow lend mechanic decade legend hollow behind then during";

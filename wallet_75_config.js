@@ -1,1 +1,1 @@
-var mnemonic = "until system silent boss medal tail spoon inform green february grit supreme";
+var mnemonic = "audit hair slim velvet cup fashion crush sudden kitchen cruise certain turn";

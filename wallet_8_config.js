@@ -1,1 +1,1 @@
-var mnemonic = "fury salad bean sock bacon cotton staff media vacuum among demise myth";
+var mnemonic = "produce item this appear sense word cabbage country way often suffer actor";

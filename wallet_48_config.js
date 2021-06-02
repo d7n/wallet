@@ -1,1 +1,1 @@
-var mnemonic = "fluid air broccoli market enable cable lens unique garden month school toddler";
+var mnemonic = "suit brother movie sentence census scare column keep mouse remind better anxiety";

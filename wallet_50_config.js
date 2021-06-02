@@ -1,1 +1,1 @@
-var mnemonic = "patient require clock obtain motor weather wonder snack scale ethics motor remember";
+var mnemonic = "fat resource word company web subject old super drill prevent label female";

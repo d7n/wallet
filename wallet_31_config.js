@@ -1,1 +1,1 @@
-var mnemonic = "photo define cage cool sword age hello fish dust bomb beauty sight";
+var mnemonic = "object brass drive uncle much acoustic furnace bar dial cook input couch";

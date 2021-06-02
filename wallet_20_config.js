@@ -1,1 +1,1 @@
-var mnemonic = "race resist buzz mix nature ketchup near remove cotton kite obvious exist";
+var mnemonic = "thumb trash snap enrich because drill inner pitch typical ask cash erosion";

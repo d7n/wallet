@@ -1,1 +1,1 @@
-var mnemonic = "grain useful please differ damage pride eight anger include dinner lemon empty";
+var mnemonic = "depart alien okay exact fire differ fence example fence despair youth ready";

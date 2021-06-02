@@ -1,1 +1,1 @@
-var mnemonic = "gold stumble laundry orphan country chief unusual defy script blossom abstract latin";
+var mnemonic = "arm alone print sample brave position sadness stairs pink vicious feature whale";

@@ -1,1 +1,1 @@
-var mnemonic = "observe language fat jacket ignore wash crowd noise boring rare ugly erosion";
+var mnemonic = "ankle remember fatigue shield canoe grain depart coin wire joke wife lesson";

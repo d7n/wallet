@@ -1,1 +1,1 @@
-var mnemonic = "choice mechanic about settle typical infant good enable busy scheme usage chronic";
+var mnemonic = "crouch combine position chair grief orbit alone quarter item august boat chunk";

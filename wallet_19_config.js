@@ -1,1 +1,1 @@
-var mnemonic = "prize canoe wreck bar approve evolve answer club cry green prepare inmate";
+var mnemonic = "vicious nasty frame enrich brave perfect road demand hour urban push tribe";

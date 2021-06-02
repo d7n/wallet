@@ -1,1 +1,1 @@
-var mnemonic = "poverty flush damp seed team prize ability physical evoke pact drop whale";
+var mnemonic = "nurse rebel surround hill slam hundred sleep cliff sunset riot motor orphan";

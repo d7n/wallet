@@ -1,1 +1,1 @@
-var mnemonic = "exist chalk pave enact knife electric resist radio easy satisfy broom glare";
+var mnemonic = "hammer ability pitch oblige bracket barely expect happy boost gift plunge donate";

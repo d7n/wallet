@@ -1,1 +1,1 @@
-var mnemonic = "foster panel bitter funny odor elegant twice ramp height furnace catch square";
+var mnemonic = "wage offer perfect upon vintage fine victory order cup pulp embark captain";

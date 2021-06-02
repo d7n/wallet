@@ -1,1 +1,1 @@
-var mnemonic = "room nephew churn educate actor asthma park mom razor task pass stable";
+var mnemonic = "drill empower outdoor diesel zero nerve teach panther web check steel trim";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson warrior soda beyond sleep valid patrol green cancel slush proof dove";
+var mnemonic = "insect cute brush artist tool rain endorse exile custom crash science reunion";

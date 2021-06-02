@@ -1,1 +1,1 @@
-var mnemonic = "play slab marriage win inside car mountain broccoli jeans diagram drill diagram";
+var mnemonic = "relief private script charge quick blood robust heavy frost expire language unfold";

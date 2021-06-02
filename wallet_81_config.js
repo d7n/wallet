@@ -1,1 +1,1 @@
-var mnemonic = "clinic scorpion staff alter space kiss lock horse sand test snow uphold";
+var mnemonic = "elder photo sunset setup choose short funny jungle order clinic minor bridge";

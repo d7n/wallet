@@ -1,1 +1,1 @@
-var mnemonic = "tone junk uniform master prevent clever wild property coconut bid angry display";
+var mnemonic = "crouch shy tube elder glass work midnight river stand impose pink follow";

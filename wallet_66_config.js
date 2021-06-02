@@ -1,1 +1,1 @@
-var mnemonic = "pool evidence census hour robust seek work dizzy ugly brick front equal";
+var mnemonic = "gun model boat depth culture army orient trophy balcony know school asset";

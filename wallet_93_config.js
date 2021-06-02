@@ -1,1 +1,1 @@
-var mnemonic = "resource acoustic subject iron hybrid fine clever filter patch next mind minute";
+var mnemonic = "toddler dumb rug catalog ivory nut speak angry usage hand measure divorce";

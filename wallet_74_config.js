@@ -1,1 +1,1 @@
-var mnemonic = "strike monitor oil rely vessel sentence usual claim conduct shine achieve install";
+var mnemonic = "canvas before obey parent table spider basic side various town profit vessel";

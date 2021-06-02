@@ -1,1 +1,1 @@
-var mnemonic = "art process helmet dentist pottery logic hand elegant tent shadow body oblige";
+var mnemonic = "account resource humor raccoon surge obey frozen review among raven law melody";

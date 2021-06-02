@@ -1,1 +1,1 @@
-var mnemonic = "bind drink useful answer crazy develop radio hotel south balance mention taxi";
+var mnemonic = "rival duck since strategy sight cave fringe input adapt law train enemy";

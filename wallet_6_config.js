@@ -1,1 +1,1 @@
-var mnemonic = "spray evoke case clinic wild ring roast plug siren grain skin repair";
+var mnemonic = "wide liquid viable blossom alcohol soccer solid defy cable mammal basic bullet";

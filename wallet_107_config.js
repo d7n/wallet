@@ -1,1 +1,1 @@
-var mnemonic = "hospital page total cream boil subject vote potato witness spawn phrase cup";
+var mnemonic = "physical market thank trap tomato river must mammal ball hood lawn slam";

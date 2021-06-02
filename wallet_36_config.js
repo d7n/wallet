@@ -1,1 +1,1 @@
-var mnemonic = "another wonder tent ball surge metal great edit click birth episode supreme";
+var mnemonic = "correct trend twice trigger drift room biology leisure leopard express gossip own";

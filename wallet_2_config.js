@@ -1,1 +1,1 @@
-var mnemonic = "twenty critic hockey novel sister crawl manual custom normal vanish nominee extend";
+var mnemonic = "syrup hero regular pencil weapon squeeze embrace swear like unhappy assume trip";

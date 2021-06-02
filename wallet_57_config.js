@@ -1,1 +1,1 @@
-var mnemonic = "switch wave reveal lounge stock unlock alert wrong cheap pottery party arm";
+var mnemonic = "neutral roof jealous keen mansion napkin love caught retire kingdom forest prevent";

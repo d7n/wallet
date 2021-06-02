@@ -1,1 +1,1 @@
-var mnemonic = "trim exit only panda eyebrow quote secret sweet pulp under never shield";
+var mnemonic = "just increase pitch audit rifle ghost just property riot learn town gadget";

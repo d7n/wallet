@@ -1,1 +1,1 @@
-var mnemonic = "change alpha ski beauty trumpet round misery rebel increase woman hello list";
+var mnemonic = "human decline change pet note fever shift census almost claim uphold clay";

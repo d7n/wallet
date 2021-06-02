@@ -1,1 +1,1 @@
-var mnemonic = "trophy manage network dress caution turkey country decrease emerge draft dust same";
+var mnemonic = "game convince viable screen quick edit suffer romance noodle ring believe increase";

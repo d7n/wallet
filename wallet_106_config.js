@@ -1,1 +1,1 @@
-var mnemonic = "sketch elbow scout lumber typical lobster orange path mixed upgrade include retreat";
+var mnemonic = "wagon rhythm burden obey wife remind concert month fish welcome produce run";

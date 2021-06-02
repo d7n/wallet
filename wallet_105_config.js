@@ -1,1 +1,1 @@
-var mnemonic = "comic tray result error wheel mesh toward ride typical strong olympic crater";
+var mnemonic = "include deer bring hello prefer rich oval dinner habit dry attend sponsor";

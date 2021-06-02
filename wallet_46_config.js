@@ -1,1 +1,1 @@
-var mnemonic = "pyramid master motor there oval spring margin excuse mad tent rain maple";
+var mnemonic = "crack laundry hub offer book hunt survey destroy coin math change view";

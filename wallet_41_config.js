@@ -1,1 +1,1 @@
-var mnemonic = "fantasy collect melody arrest seek page screen basket release stereo pony silver";
+var mnemonic = "genuine inhale crawl inquiry mention surround hurdle decorate multiply spot various basket";

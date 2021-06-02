@@ -1,1 +1,1 @@
-var mnemonic = "test fiscal virus style owner rather ostrich weasel chalk wash warm spring";
+var mnemonic = "suffer sleep donate attack spy museum address skull cruel lottery copper friend";

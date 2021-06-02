@@ -1,1 +1,1 @@
-var mnemonic = "already search antenna brisk rate length pause high atom settle cricket airport";
+var mnemonic = "much happy dice decide fringe cherry call copper random dress attack until";

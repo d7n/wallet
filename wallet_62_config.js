@@ -1,1 +1,1 @@
-var mnemonic = "explain danger enlist trust warm boil hidden vocal mouse ethics unable possible";
+var mnemonic = "transfer trial marriage dream trust sponsor patient waste hire bench expand foam";

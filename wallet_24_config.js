@@ -1,1 +1,1 @@
-var mnemonic = "never gate vague shell achieve please boost royal cigar chuckle wide alley";
+var mnemonic = "job there mushroom any super lobster blue chest upgrade deliver defy chest";
