@@ -1,1 +1,1 @@
-var mnemonic = "disorder unable gasp frequent panic crunch winner promote juice enough jaguar team";
+var mnemonic = "damp raven wrap sphere accident alcohol math marble trim enrich solve clay";

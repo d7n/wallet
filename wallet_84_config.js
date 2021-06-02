@@ -1,1 +1,1 @@
-var mnemonic = "mandate title delay roof under addict urge online message trade first gravity";
+var mnemonic = "today deal benefit social arrest stool pink mass expose core seven advice";

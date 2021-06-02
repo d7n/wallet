@@ -1,1 +1,1 @@
-var mnemonic = "tortoise rebel average inflict define toy sword nerve witness dash stairs film";
+var mnemonic = "prevent lend alien nose dynamic antique lion fatigue leopard grow actress style";

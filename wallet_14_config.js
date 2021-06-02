@@ -1,1 +1,1 @@
-var mnemonic = "another come useful toss creek purity butter theme issue emotion rely scatter";
+var mnemonic = "glad bargain glass theory apple thumb joke try agent panel already field";

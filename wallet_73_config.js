@@ -1,1 +1,1 @@
-var mnemonic = "era shoot grape rib eight gun deer globe strong wash infant trust";
+var mnemonic = "picture mushroom immense all summer kiss boring group unit buzz refuse index";

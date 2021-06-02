@@ -1,1 +1,1 @@
-var mnemonic = "female route minimum popular inner drip spirit such pyramid casino expect mango";
+var mnemonic = "release weird step chaos warm breeze custom talent future wrist motion provide";

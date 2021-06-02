@@ -1,1 +1,1 @@
-var mnemonic = "dwarf flag labor syrup course canoe easily find denial favorite seven glove";
+var mnemonic = "blast riot evil plug unaware explain mountain foam manage wink conduct shield";

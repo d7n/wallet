@@ -1,1 +1,1 @@
-var mnemonic = "penalty ahead season stereo list medal planet stem tongue gown style popular";
+var mnemonic = "green conduct dilemma capable unveil mind garlic helmet acid december talk floor";

@@ -1,1 +1,1 @@
-var mnemonic = "kid craft erode shop depth border crater spell write output chaos sustain";
+var mnemonic = "middle east believe sport cherry ethics spot jewel employ garbage fence bulk";

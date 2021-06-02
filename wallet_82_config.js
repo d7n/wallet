@@ -1,1 +1,1 @@
-var mnemonic = "home above scheme opinion toy sugar destroy find present destroy champion fetch";
+var mnemonic = "fuel mad sauce december urban stereo slender surface zero sponsor someone cement";

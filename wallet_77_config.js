@@ -1,1 +1,1 @@
-var mnemonic = "father sail tip skate release margin nuclear slender firm predict local amateur";
+var mnemonic = "mirror venue wrist stay else frown cry consider draw shiver cover female";

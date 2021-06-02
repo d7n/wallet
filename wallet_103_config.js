@@ -1,1 +1,1 @@
-var mnemonic = "autumn life disorder soccer harsh surface bread toward industry solve either movie";
+var mnemonic = "staff morning miss produce phone flame movie soccer fish screen sting segment";

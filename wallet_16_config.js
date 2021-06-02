@@ -1,1 +1,1 @@
-var mnemonic = "track acquire valve song notice aisle sign lazy gossip tissue pluck beyond";
+var mnemonic = "twist glove left style skirt glide double brisk lend still autumn state";

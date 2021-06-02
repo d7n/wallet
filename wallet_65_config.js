@@ -1,1 +1,1 @@
-var mnemonic = "fame coil cattle blame stay prosper gather brief food leg fault shop";
+var mnemonic = "ketchup left spread market search know surprise duty river brown glimpse kid";

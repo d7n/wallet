@@ -1,1 +1,1 @@
-var mnemonic = "agree sheriff pencil pattern dutch path close bike step prosper dog naive";
+var mnemonic = "opinion bulb demand frost alone easy mountain foil penalty age slush allow";

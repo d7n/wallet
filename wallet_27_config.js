@@ -1,1 +1,1 @@
-var mnemonic = "limb same spider essay jeans version blood swear toilet scene catalog pigeon";
+var mnemonic = "left target duck shiver regret clap swing basic you ostrich wire mercy";

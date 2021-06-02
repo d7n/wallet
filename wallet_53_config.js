@@ -1,1 +1,1 @@
-var mnemonic = "sword letter lottery dad someone reject monitor arrest balcony knee token author";
+var mnemonic = "display result medal eager guilt volume ice ill obscure minute trend charge";

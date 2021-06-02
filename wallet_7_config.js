@@ -1,1 +1,1 @@
-var mnemonic = "neck share cost capable color whisper iron train vintage delay outdoor false";
+var mnemonic = "box pencil name onion atom tissue rough bulk soap wrestle point ball";

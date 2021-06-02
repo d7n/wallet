@@ -1,1 +1,1 @@
-var mnemonic = "easily dash drink believe grass security winner together jewel dragon include bicycle";
+var mnemonic = "real bird safe genre age modify ghost lumber battle smoke juice example";

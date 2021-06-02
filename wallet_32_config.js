@@ -1,1 +1,1 @@
-var mnemonic = "joke awesome foster eyebrow verb engine luxury clean horn two south sheriff";
+var mnemonic = "afford kit addict effort seed hub happy goose window blossom hero nothing";

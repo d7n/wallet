@@ -1,1 +1,1 @@
-var mnemonic = "depart lawsuit menu poverty canal merry vibrant balance spread brick symbol artist";
+var mnemonic = "prevent retire bread eternal drink face tackle sunny tobacco payment indicate pause";

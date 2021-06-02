@@ -1,1 +1,1 @@
-var mnemonic = "satoshi scorpion nut catch air unhappy include leopard garden mad gain hunt";
+var mnemonic = "either tape honey sign hint grocery same art design advance raw advice";

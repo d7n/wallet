@@ -1,1 +1,1 @@
-var mnemonic = "false cycle acid cry hockey lens shift lion dizzy length boss off";
+var mnemonic = "flush history remind climb vocal major cannon visit ramp tower crumble false";

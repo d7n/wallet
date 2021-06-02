@@ -1,1 +1,1 @@
-var mnemonic = "blouse shell dwarf muffin blanket help friend cluster boring citizen fatal left";
+var mnemonic = "meadow penalty waste address very key borrow fee book cancel cattle valve";

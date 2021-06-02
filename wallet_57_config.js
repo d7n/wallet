@@ -1,1 +1,1 @@
-var mnemonic = "combine live give someone main best climb guard field among street journey";
+var mnemonic = "fiction puppy pool vibrant outside trick wreck tired warrior stone next simple";

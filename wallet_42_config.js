@@ -1,1 +1,1 @@
-var mnemonic = "chest organ narrow wheat file punch brother lonely soldier blade term crime";
+var mnemonic = "vacant six cake fever because position stock area volume decrease hire blood";

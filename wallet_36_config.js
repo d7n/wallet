@@ -1,1 +1,1 @@
-var mnemonic = "addict much cotton loop movie turn secret jewel demise domain hard phrase";
+var mnemonic = "pond segment rent verify online nice wrap either kid bottom party grab";

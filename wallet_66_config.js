@@ -1,1 +1,1 @@
-var mnemonic = "pool story duck music bar poem cabin pulse depart pass emotion dirt";
+var mnemonic = "mass viable coin future matrix labor kangaroo candy silver nerve tail engage";

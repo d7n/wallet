@@ -1,1 +1,1 @@
-var mnemonic = "picture umbrella legend slim defense ranch acid biology boat resource loud chest";
+var mnemonic = "process furnace agree tattoo never crystal cable leave okay pair unknown fame";

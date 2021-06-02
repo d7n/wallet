@@ -1,1 +1,1 @@
-var mnemonic = "junior roast timber tissue warrior clarify rhythm reduce gown economy harsh nurse";
+var mnemonic = "essay cinnamon sentence cattle seat palm sample duty puppy broken milk alcohol";

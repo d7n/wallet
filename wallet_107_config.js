@@ -1,1 +1,1 @@
-var mnemonic = "wheel frog basic civil city awesome expand lake shiver layer hood stereo";
+var mnemonic = "diet foster old vehicle stem ecology piano maple real drastic argue emerge";

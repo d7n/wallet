@@ -1,1 +1,1 @@
-var mnemonic = "hurdle gun rocket always plate skull curtain mountain grocery cherry pledge belt";
+var mnemonic = "canyon success brisk fossil oval sun someone liberty noodle fox abstract rookie";

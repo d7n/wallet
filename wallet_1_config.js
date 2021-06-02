@@ -1,1 +1,1 @@
-var mnemonic = "magnet issue grab catalog uncover shuffle rookie solution logic mirror entire tonight";
+var mnemonic = "budget august frost push success blue office where gold bulk smart curve";

@@ -1,1 +1,1 @@
-var mnemonic = "used joy cotton bird post tooth twin hybrid draft then motion turn";
+var mnemonic = "color buzz comic slot month jealous atom humble below uphold chat damage";

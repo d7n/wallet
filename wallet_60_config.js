@@ -1,1 +1,1 @@
-var mnemonic = "boring proud unaware turkey satoshi become effort artist forest emerge surround soon";
+var mnemonic = "ugly melt soldier case sphere mix stem lounge wink critic derive tank";

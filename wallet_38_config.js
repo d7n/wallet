@@ -1,1 +1,1 @@
-var mnemonic = "auction arrest perfect elevator erase group play bike jeans pluck during north";
+var mnemonic = "repair narrow body olive oil pet plate panther direct rapid little apart";

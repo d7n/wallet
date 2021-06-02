@@ -1,1 +1,1 @@
-var mnemonic = "song silly next damp argue ozone slogan scale huge palace forget render";
+var mnemonic = "unit smile agent master quick market green quarter upgrade script seat delay";

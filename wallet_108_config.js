@@ -1,1 +1,1 @@
-var mnemonic = "skirt trouble laundry review thing average ticket mammal uphold ill jewel sketch";
+var mnemonic = "doctor salmon blade appear fruit cereal spray fine ride electric stomach joy";

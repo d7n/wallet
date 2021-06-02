@@ -1,1 +1,1 @@
-var mnemonic = "volume whisper boy decline valley three since kangaroo spin leave lamp swift";
+var mnemonic = "convince wool tomorrow enemy slender fade make pottery disease engine add rescue";

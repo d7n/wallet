@@ -1,1 +1,1 @@
-var mnemonic = "castle roof burger hat tortoise between setup make october entire panther embark";
+var mnemonic = "scissors bronze spare another ugly voice marriage meat stay item hood select";

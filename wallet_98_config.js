@@ -1,1 +1,1 @@
-var mnemonic = "credit symptom razor glance diet company decade solve merit raw connect between";
+var mnemonic = "trap dial minimum nuclear chapter clap perfect federal cluster sister dumb fit";

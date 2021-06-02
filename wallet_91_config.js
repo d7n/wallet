@@ -1,1 +1,1 @@
-var mnemonic = "slide delay woman trend one inject diagram cushion curtain purchase ready electric";
+var mnemonic = "under equal sail virtual lyrics fault sample actress today you catalog utility";

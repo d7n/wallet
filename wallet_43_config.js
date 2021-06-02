@@ -1,1 +1,1 @@
-var mnemonic = "dance fall alien maid hello brother card jungle mass panther food citizen";
+var mnemonic = "prison lyrics outer win link fine calm zebra attitude finger tennis chaos";

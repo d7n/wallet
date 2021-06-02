@@ -1,1 +1,1 @@
-var mnemonic = "bounce decline beauty nuclear wage slush goat load trend soccer goddess scale";
+var mnemonic = "grant topic crash auto bounce urge toss forget auction text flower stool";

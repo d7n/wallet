@@ -1,1 +1,1 @@
-var mnemonic = "kitchen lion cousin relief system still effort program idle security tiny jealous";
+var mnemonic = "elite report purity edit budget end ride invite buddy knock share odor";

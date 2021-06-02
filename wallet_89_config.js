@@ -1,1 +1,1 @@
-var mnemonic = "enhance breeze leisure cream gather rally gadget sad asset flight monster gloom";
+var mnemonic = "warfare frozen peanut brave possible hover gain woman blame dwarf fresh column";

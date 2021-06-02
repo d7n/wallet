@@ -1,1 +1,1 @@
-var mnemonic = "wreck monitor cattle degree model blue sting team shuffle senior cushion juice";
+var mnemonic = "heavy lens remind perfect universe minimum current property kidney disorder gown bundle";

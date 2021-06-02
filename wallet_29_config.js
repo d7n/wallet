@@ -1,1 +1,1 @@
-var mnemonic = "erode huge forget burger quiz dune panel nurse call syrup feel ecology";
+var mnemonic = "royal affair afford jewel danger jelly way occur now maximum text lamp";

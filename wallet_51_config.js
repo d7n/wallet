@@ -1,1 +1,1 @@
-var mnemonic = "merry mass rich oven craft gallery raw bike flip scale behind amused";
+var mnemonic = "vacuum floor above cover rival song cigar race movie join pretty smile";

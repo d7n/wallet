@@ -1,1 +1,1 @@
-var mnemonic = "now pact toast puzzle version solve again vapor whisper cool jeans apart";
+var mnemonic = "arrange fiber crane forward panic absurd universe onion federal design rug people";

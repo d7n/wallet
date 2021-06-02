@@ -1,1 +1,1 @@
-var mnemonic = "height inform gap purchase you job leg kiwi piece cross bag notice";
+var mnemonic = "favorite grass enrich point pioneer erode verb annual cloth forward polar extra";

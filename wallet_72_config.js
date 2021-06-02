@@ -1,1 +1,1 @@
-var mnemonic = "attack armor apple pudding shaft patrol portion quote display kangaroo coconut climb";
+var mnemonic = "copy annual follow empty crop shy fly citizen boy canvas banner casino";

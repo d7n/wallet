@@ -1,1 +1,1 @@
-var mnemonic = "only march warm slush vote dawn glove dawn either extra vehicle acquire";
+var mnemonic = "column sword feel exotic kingdom scatter couch whip raccoon dad strong approve";

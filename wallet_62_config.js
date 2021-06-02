@@ -1,1 +1,1 @@
-var mnemonic = "allow tumble news evolve pink panther force cook pill empower ordinary what";
+var mnemonic = "web dignity guess angle office foot step feel south input fault sphere";

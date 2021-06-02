@@ -1,1 +1,1 @@
-var mnemonic = "acid deny reveal duck december ill all path radio recycle regret throw";
+var mnemonic = "pudding cluster attack guitar into trap hungry analyst deny best now pupil";

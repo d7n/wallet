@@ -1,1 +1,1 @@
-var mnemonic = "service zoo case pool entire memory blue jaguar smile cake metal analyst";
+var mnemonic = "odor opera devote mandate never naive pink clog they capital carry wisdom";

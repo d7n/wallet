@@ -1,1 +1,1 @@
-var mnemonic = "junior tower early spend tail dice first dynamic warm neutral piano pigeon";
+var mnemonic = "state scrub ostrich crane dynamic review warm used toilet boring relief floor";

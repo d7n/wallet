@@ -1,1 +1,1 @@
-var mnemonic = "coffee wave before flash stem celery adapt roast industry supreme tube glimpse";
+var mnemonic = "pledge trigger describe visa act crop million proud symbol today sort renew";

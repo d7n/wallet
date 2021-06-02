@@ -1,1 +1,1 @@
-var mnemonic = "churn tent convince book impulse april employ economy powder brush crash capital";
+var mnemonic = "obscure fruit congress resemble tribe put energy parade aspect melt tide rent";

@@ -1,1 +1,1 @@
-var mnemonic = "myth mandate source iron ribbon walk ramp arrive never toss jewel flip";
+var mnemonic = "dirt arch law exact sunny regular age shaft boil pulse often abandon";

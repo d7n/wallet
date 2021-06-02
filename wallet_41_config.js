@@ -1,1 +1,1 @@
-var mnemonic = "doctor any decrease proof where club bulb toe dismiss clip stage fine";
+var mnemonic = "visa hidden resemble cash release hip board resemble liberty usage action gossip";

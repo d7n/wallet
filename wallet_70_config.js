@@ -1,1 +1,1 @@
-var mnemonic = "marine dinner either border measure improve food violin demand advice young boil";
+var mnemonic = "face finger anxiety current hill whip clown trap vibrant sad cool chaos";

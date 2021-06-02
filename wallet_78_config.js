@@ -1,1 +1,1 @@
-var mnemonic = "reform neutral napkin more minimum birth soda since drift decade banner wedding";
+var mnemonic = "magic obtain useless alter tourist dragon glory similar armor mention rebel observe";

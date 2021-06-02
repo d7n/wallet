@@ -1,1 +1,1 @@
-var mnemonic = "era solid hub duck track plunge water flee heart large frog curtain";
+var mnemonic = "chronic decade twelve source improve any festival evil opera neutral recipe plastic";

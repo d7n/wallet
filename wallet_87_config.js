@@ -1,1 +1,1 @@
-var mnemonic = "produce deny dream bid turkey knock climb this north foam cloth rubber";
+var mnemonic = "mention woman oxygen want camera kit tonight depart topic front crystal gospel";

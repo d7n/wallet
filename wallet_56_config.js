@@ -1,1 +1,1 @@
-var mnemonic = "parade decide cry action worry deny arena track short green void owner";
+var mnemonic = "radar pyramid february reward envelope survey word bike dignity pride sorry elite";

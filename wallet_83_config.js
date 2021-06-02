@@ -1,1 +1,1 @@
-var mnemonic = "shock nephew world else buddy parent wild report steak adult normal extend";
+var mnemonic = "bring dice check corn pepper matrix path ginger earth device credit rigid";

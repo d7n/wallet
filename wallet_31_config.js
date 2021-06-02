@@ -1,1 +1,1 @@
-var mnemonic = "card filter adult domain mercy typical best select exact improve laundry adapt";
+var mnemonic = "seminar wasp birth code actual armed party oval egg wagon valve cruise";

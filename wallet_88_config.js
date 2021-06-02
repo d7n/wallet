@@ -1,1 +1,1 @@
-var mnemonic = "nation lawn pyramid sponsor tennis cage quality clever learn someone total gas";
+var mnemonic = "organ want common velvet grain awake ribbon brother box else during spell";

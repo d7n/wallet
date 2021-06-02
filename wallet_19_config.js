@@ -1,1 +1,1 @@
-var mnemonic = "gospel boss define hollow choose uphold easy alpha expand impulse step hood";
+var mnemonic = "blur obey whale once diagram hover future artist film seek north picnic";

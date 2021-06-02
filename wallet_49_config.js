@@ -1,1 +1,1 @@
-var mnemonic = "hero blame winter gather hospital order you patient holiday few muffin jazz";
+var mnemonic = "vote add ball fame disorder kangaroo whale soft island strike useful brand";

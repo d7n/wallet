@@ -1,1 +1,1 @@
-var mnemonic = "old list mesh wonder appear pact cake erase screen bomb brain actress";
+var mnemonic = "decrease cycle easy arm iron sorry this canyon electric limb anchor permit";

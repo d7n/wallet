@@ -1,1 +1,1 @@
-var mnemonic = "fashion bright cushion horn old march leader target diet crack weather clerk";
+var mnemonic = "slogan empower toy spirit obscure uniform birth verify orbit brother canvas refuse";

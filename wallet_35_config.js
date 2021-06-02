@@ -1,1 +1,1 @@
-var mnemonic = "total digital this salad clown symbol hospital skill defy arrive wave attack";
+var mnemonic = "loop drum liquid journey emerge derive insane earn gossip mosquito congress essay";

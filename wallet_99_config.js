@@ -1,1 +1,1 @@
-var mnemonic = "math couch deer desert repeat badge ask joke curtain trend ugly verb";
+var mnemonic = "grief verb hole electric prevent grocery riot turtle interest economy purchase cool";

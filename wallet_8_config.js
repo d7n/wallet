@@ -1,1 +1,1 @@
-var mnemonic = "idea loan swim olive inform faith unique increase sorry peasant monster bread";
+var mnemonic = "wedding poem degree hand bronze defy genre merry embody extend spy staff";

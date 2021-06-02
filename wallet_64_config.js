@@ -1,1 +1,1 @@
-var mnemonic = "exist grain feel august barrel elbow vanish burst vicious among inhale angry";
+var mnemonic = "follow switch grain error upset profit offer sign curious toe situate harsh";

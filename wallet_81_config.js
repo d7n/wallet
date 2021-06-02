@@ -1,1 +1,1 @@
-var mnemonic = "quiz disorder issue squirrel scheme marine kitchen orange rally once dad practice";
+var mnemonic = "capable banana album friend remove modify tail penalty erupt almost guard dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "eye lock mom this piece session draw relief spring fringe cancel vault";
+var mnemonic = "you egg talent champion glare mask level legal target fly hero license";

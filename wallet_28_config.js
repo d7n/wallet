@@ -1,1 +1,1 @@
-var mnemonic = "clog sign kiss banner paper hint phone village prize entry subject coconut";
+var mnemonic = "cabin hidden minor snow choice orange exclude cheap cave certain umbrella settle";

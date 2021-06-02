@@ -1,1 +1,1 @@
-var mnemonic = "dilemma barely memory disease feature brick crack pelican twice fitness iron multiply";
+var mnemonic = "hospital project caution venue address motion moment summer mad fancy march sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "blur conduct corn project lonely casual season cause october total employ wagon";
+var mnemonic = "fold height live pair scatter wave sponsor visual direct fiscal brisk east";

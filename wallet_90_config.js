@@ -1,1 +1,1 @@
-var mnemonic = "arrive whale glare twelve miracle run safe crunch glance skull gap dwarf";
+var mnemonic = "coil trim hub trash two chase uncover ridge slim animal enough bulk";

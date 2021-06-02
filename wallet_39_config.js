@@ -1,1 +1,1 @@
-var mnemonic = "victory switch act coyote canvas image hip soap august baby million bachelor";
+var mnemonic = "item question vacuum frozen auto invite swallow level supply rib genuine liberty";

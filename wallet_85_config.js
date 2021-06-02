@@ -1,1 +1,1 @@
-var mnemonic = "charge question ribbon maple credit slim ranch salmon reject method cycle slide";
+var mnemonic = "magnet theory possible side bag pyramid situate damage attract hub canal olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "soup athlete parent analyst drive minor crime connect lawn ski conduct spy";
+var mnemonic = "tiger ability trip defense patch shy butter special picnic warrior sand solar";

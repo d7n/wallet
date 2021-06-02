@@ -1,1 +1,1 @@
-var mnemonic = "rough truck stamp sadness inquiry legal foster cat trap library enrich coil";
+var mnemonic = "more people cube shove wire pumpkin solar same dune install rally nominee";

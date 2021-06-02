@@ -1,1 +1,1 @@
-var mnemonic = "tower frog video vessel pink blood jump aunt fan delay alpha ask";
+var mnemonic = "oxygen blast enter term recall year venue dress ritual circle romance online";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics evolve they muscle audit diary motion draw sketch goose city again";
+var mnemonic = "tumble must panel filter used stereo decorate magic soda shove purse position";

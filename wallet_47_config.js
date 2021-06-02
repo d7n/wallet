@@ -1,1 +1,1 @@
-var mnemonic = "avocado receive place puppy orphan decrease balcony file oyster stadium whip drive";
+var mnemonic = "topic unable book glance biology climb lamp alcohol example law foot response";

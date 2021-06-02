@@ -1,1 +1,1 @@
-var mnemonic = "bridge impact kitten cruise dignity behave tornado gate now solve next cattle";
+var mnemonic = "dream awake sense bread vessel coach total rate warfare weekend soap motion";

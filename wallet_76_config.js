@@ -1,1 +1,1 @@
-var mnemonic = "prevent polar capital reason seat conduct fire zone veteran habit six country";
+var mnemonic = "jewel gap kind nasty mother cost scrub polar dream damage repair change";

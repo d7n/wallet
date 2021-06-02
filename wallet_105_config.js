@@ -1,1 +1,1 @@
-var mnemonic = "whip shallow width wrestle erosion catalog loan virus vanish symbol monster cry";
+var mnemonic = "voyage loyal logic win history father skirt cruise animal legal appear equal";

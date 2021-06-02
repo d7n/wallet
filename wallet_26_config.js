@@ -1,1 +1,1 @@
-var mnemonic = "tattoo wrestle atom mean cute burger cinnamon wife add notable swear stock";
+var mnemonic = "jar athlete family cement alien voice warfare record shift phrase ancient glue";

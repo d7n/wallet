@@ -1,1 +1,1 @@
-var mnemonic = "pact dash draft destroy gorilla stove catch wonder near craft village eight";
+var mnemonic = "arm together awesome rotate wasp call legend clean salad priority dynamic produce";

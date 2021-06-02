@@ -1,1 +1,1 @@
-var mnemonic = "police seminar bone scan write universe lonely whisper latin distance party useful";
+var mnemonic = "sad stomach certain gossip shuffle rack acoustic access build nominee repeat curtain";
