@@ -1,1 +1,1 @@
-var mnemonic = "pulp egg dwarf useful rigid shaft lunch vessel shallow quality aisle wrong";
+var mnemonic = "fit fall neck still syrup galaxy bitter uncover claim black leader believe";

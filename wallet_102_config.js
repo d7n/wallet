@@ -1,1 +1,1 @@
-var mnemonic = "sugar congress try filter wave rough spoon lottery wheat mansion marriage couple";
+var mnemonic = "demand top rose keen amount tent aware fix tortoise afford key symbol";

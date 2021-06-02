@@ -1,1 +1,1 @@
-var mnemonic = "business cheap glue inspire outer exhaust modify flavor piece swap sand subway";
+var mnemonic = "broken draft quality tide river execute trick two exclude guard siege valve";

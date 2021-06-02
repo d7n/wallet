@@ -1,1 +1,1 @@
-var mnemonic = "museum island rule bulk library increase replace observe liar clump bean ecology";
+var mnemonic = "define season half blade today law hat renew couple yard sand devote";

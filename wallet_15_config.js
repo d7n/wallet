@@ -1,1 +1,1 @@
-var mnemonic = "message mention mass egg profit derive van giraffe obtain media lab inherit";
+var mnemonic = "junk merit trip rail save tent symptom tube much foil this legend";

@@ -1,1 +1,1 @@
-var mnemonic = "sand interest nephew enforce inflict dance matter turkey upper chase globe mosquito";
+var mnemonic = "surprise orchard squeeze road cover elephant marble maid asset dune echo achieve";

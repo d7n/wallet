@@ -1,1 +1,1 @@
-var mnemonic = "novel gift pretty toddler cream slogan bar rail lunar cushion pave thumb";
+var mnemonic = "proof long envelope north planet bundle radio build clerk flat raise obey";

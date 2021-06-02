@@ -1,1 +1,1 @@
-var mnemonic = "dry heart insane omit lobster fringe border canyon glare resource ability stereo";
+var mnemonic = "diamond forum liberty truth mosquito illness web story chimney right neither duck";

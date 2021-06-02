@@ -1,1 +1,1 @@
-var mnemonic = "midnight sibling broom safe party body federal wrestle rifle must merge easily";
+var mnemonic = "cliff thought swim often actress hope endorse sentence buffalo garden lesson normal";

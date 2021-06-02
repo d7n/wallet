@@ -1,1 +1,1 @@
-var mnemonic = "axis maze dirt admit mom goddess runway zoo donor entry slice first";
+var mnemonic = "vocal behind crash random wrestle laptop oval invest shell dove develop valve";

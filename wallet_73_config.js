@@ -1,1 +1,1 @@
-var mnemonic = "olive knee girl marble special disorder resemble crime actress stock fiction dentist";
+var mnemonic = "zebra lemon calm project eight lion galaxy glow long hospital slot box";

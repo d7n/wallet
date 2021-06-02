@@ -1,1 +1,1 @@
-var mnemonic = "bring middle garbage script absorb effort toy tattoo drive dress near noise";
+var mnemonic = "genre spy ski anchor nose dolphin oxygen absent hard weird outer pelican";

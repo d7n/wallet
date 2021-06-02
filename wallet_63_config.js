@@ -1,1 +1,1 @@
-var mnemonic = "afraid usage skill baby segment distance october security world edge firm regular";
+var mnemonic = "carbon grain interest replace curve scare beyond merit album outdoor moral mail";

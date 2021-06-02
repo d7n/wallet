@@ -1,1 +1,1 @@
-var mnemonic = "advance charge planet dune fall puppy seed fiber suspect empower column cry";
+var mnemonic = "desk embody analyst snack anchor nature tank cube helmet symbol sample cat";

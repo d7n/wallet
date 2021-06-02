@@ -1,1 +1,1 @@
-var mnemonic = "trick excuse vivid session era sample slight distance nation clutch nerve disorder";
+var mnemonic = "used breeze prepare gravity tell lab someone tray dawn sell orient shiver";

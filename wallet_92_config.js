@@ -1,1 +1,1 @@
-var mnemonic = "wine song hospital chef label liberty live trust basic winner category crime";
+var mnemonic = "grape flash verify gasp spin vintage valley carry ugly result because rival";

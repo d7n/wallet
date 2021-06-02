@@ -1,1 +1,1 @@
-var mnemonic = "acquire key jump say asset smooth lab song vibrant marriage valve much";
+var mnemonic = "state taxi dinner school heart vocal clerk master warm scheme table skill";

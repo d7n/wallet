@@ -1,1 +1,1 @@
-var mnemonic = "angry circle thing sure power decide decrease virus evil guess success shock";
+var mnemonic = "random wisdom beauty grace fitness teach come vendor yellow question symptom awful";

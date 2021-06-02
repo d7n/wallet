@@ -1,1 +1,1 @@
-var mnemonic = "lion lecture source vanish cable talent dismiss grant prosper shrimp voyage whisper";
+var mnemonic = "prosper gauge vintage slight quality brief clean crime icon kitchen cage neutral";

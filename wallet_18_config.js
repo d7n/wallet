@@ -1,1 +1,1 @@
-var mnemonic = "kiwi sphere episode liquid basket melt wife hair cloud mind repeat census";
+var mnemonic = "rubber label praise baby devote maid indoor mystery cotton small vessel knee";

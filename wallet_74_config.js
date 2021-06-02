@@ -1,1 +1,1 @@
-var mnemonic = "face able crater moral kiss slide emerge family daughter inquiry control panda";
+var mnemonic = "hospital poem gas produce wreck diagram series galaxy trophy drink pudding galaxy";

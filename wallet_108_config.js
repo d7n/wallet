@@ -1,1 +1,1 @@
-var mnemonic = "flight bounce boil genius hip uncover circle rude brick flat category flip";
+var mnemonic = "number undo logic horror early act index lazy fade echo lend unlock";

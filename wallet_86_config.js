@@ -1,1 +1,1 @@
-var mnemonic = "observe shoulder gasp genius bacon indoor affair afraid gown garment degree topple";
+var mnemonic = "stumble deposit weird quit holiday gorilla virtual vintage liquid destroy history series";

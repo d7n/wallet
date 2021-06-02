@@ -1,1 +1,1 @@
-var mnemonic = "pretty front style family pass exotic champion begin bullet tube coconut abandon";
+var mnemonic = "damp puppy pink drop canal rabbit dignity drum invest fault post turn";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt goat east act globe toilet person mix drastic mule february bar";
+var mnemonic = "age muffin bamboo quit comic reopen jeans mad rug oval index card";

@@ -1,1 +1,1 @@
-var mnemonic = "depth shoot debate thought quit loud image film pupil annual hub tree";
+var mnemonic = "ancient devote defense play fitness peasant wreck push calm stomach tennis royal";

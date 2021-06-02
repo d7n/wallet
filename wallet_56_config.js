@@ -1,1 +1,1 @@
-var mnemonic = "dice march seat health struggle box parent lock town rack solution resource";
+var mnemonic = "pill eyebrow able task unable sound miracle guilt appear kit advice later";

@@ -1,1 +1,1 @@
-var mnemonic = "world jeans move build reward core gentle way bright share chest cheap";
+var mnemonic = "mesh blind cotton delay mushroom disorder goat body electric crowd eager multiply";

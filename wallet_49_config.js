@@ -1,1 +1,1 @@
-var mnemonic = "female head wrong praise olive dinosaur great exotic helmet print wet protect";
+var mnemonic = "divert machine zebra spoil catalog poet among correct review jaguar wing tiger";

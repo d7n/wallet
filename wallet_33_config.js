@@ -1,1 +1,1 @@
-var mnemonic = "critic maple consider ripple begin false toe poem pizza rail future room";
+var mnemonic = "muscle blue cupboard palace require antenna mistake coffee found cousin rhythm neck";

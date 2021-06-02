@@ -1,1 +1,1 @@
-var mnemonic = "orange when universe cactus price peace enact family swallow twelve engage treat";
+var mnemonic = "seek giraffe sting talent true broccoli festival snap arrive traffic disorder caution";

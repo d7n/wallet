@@ -1,1 +1,1 @@
-var mnemonic = "print six craft suffer income peace minimum invest you title barrel exile";
+var mnemonic = "peasant finish enlist vintage earth shallow solution raccoon sadness smooth minimum mule";

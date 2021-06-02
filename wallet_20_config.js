@@ -1,1 +1,1 @@
-var mnemonic = "expire useful salon loyal kingdom stomach bird capital mammal witness exotic industry";
+var mnemonic = "tray grab faculty depart hover seed snake cement private junior silly giraffe";

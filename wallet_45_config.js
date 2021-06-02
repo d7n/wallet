@@ -1,1 +1,1 @@
-var mnemonic = "one sport clinic already guitar diamond exhaust embrace alert spawn mule vast";
+var mnemonic = "armor gas gesture scissors skin road retreat swift produce kick before response";

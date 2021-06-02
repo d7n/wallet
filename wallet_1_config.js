@@ -1,1 +1,1 @@
-var mnemonic = "thrive mad bracket ramp language response victory near legend tonight color describe";
+var mnemonic = "museum monkey fitness dose always miracle fever melt pattern divide squeeze thing";

@@ -1,1 +1,1 @@
-var mnemonic = "season tide scout guide chronic jewel exhaust solve cabbage page merry smile";
+var mnemonic = "citizen kidney style horse drama split upper beach smooth treat state mix";

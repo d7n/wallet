@@ -1,1 +1,1 @@
-var mnemonic = "flee announce library mimic holiday upon silly heart town barrel earth shadow";
+var mnemonic = "option aim drink humble disorder pass fade tenant weekend owner winner ask";

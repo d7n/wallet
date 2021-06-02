@@ -1,1 +1,1 @@
-var mnemonic = "celery require useful exhaust blanket witness over news home patch either unit";
+var mnemonic = "retreat village library praise spirit basket avoid object clog address corn wait";

@@ -1,1 +1,1 @@
-var mnemonic = "spare kiwi beyond spawn crucial tenant use bless figure trouble library vendor";
+var mnemonic = "joke fit rude humble usage shine nerve leave tank lion fiscal sphere";

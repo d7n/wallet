@@ -1,1 +1,1 @@
-var mnemonic = "screen miracle kite later hello trend around asset element object absent south";
+var mnemonic = "buyer act visit filter famous afford genius cruise bacon define slow alert";

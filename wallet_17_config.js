@@ -1,1 +1,1 @@
-var mnemonic = "meat episode rude regular curious enter inform myth tackle maid theory east";
+var mnemonic = "obtain oyster rate often make bleak neglect child provide discover moral swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "travel clinic spring lens sick foil spawn logic vicious butter weird risk";
+var mnemonic = "monitor sand super slim design muffin virus exotic odor champion budget lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "quit champion plastic twice media awful left begin love casual click erupt";
+var mnemonic = "record alpha true update glare photo room wagon marriage endless load pool";

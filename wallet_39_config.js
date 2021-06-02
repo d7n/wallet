@@ -1,1 +1,1 @@
-var mnemonic = "cabbage trigger clean vague law assault gadget police evolve clinic artefact wedding";
+var mnemonic = "mixture frozen wine pilot minute jacket away despair party candy plastic rely";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo easily fetch avocado scare trend illegal outside palace husband often foam";
+var mnemonic = "actor aisle youth base interest cement float van total real original hybrid";

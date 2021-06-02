@@ -1,1 +1,1 @@
-var mnemonic = "comic artwork spy sell bachelor hamster alien region bitter nature monster panel";
+var mnemonic = "hip vintage meadow chair almost survey observe bless jacket cover trend volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "budget bright ethics field brief coach wear ecology grab camp question winter";
+var mnemonic = "clay envelope frost below cloud scrap educate urban birth real document brother";

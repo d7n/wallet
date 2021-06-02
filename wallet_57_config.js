@@ -1,1 +1,1 @@
-var mnemonic = "veteran cluster laptop little bicycle pill spell inside visit novel skull cram";
+var mnemonic = "flash pond dawn pudding inject truly away lunar trick goddess wise annual";

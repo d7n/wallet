@@ -1,1 +1,1 @@
-var mnemonic = "tattoo verb oblige give clinic garment burger banner true guitar food twenty";
+var mnemonic = "canal fold achieve gun home element donate bag hurdle aspect certain subway";

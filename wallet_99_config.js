@@ -1,1 +1,1 @@
-var mnemonic = "idea tobacco boring draw digital mom staff bounce rival portion order play";
+var mnemonic = "need deliver whip zone unveil impose crouch employ jewel grief echo lake";

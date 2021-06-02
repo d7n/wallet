@@ -1,1 +1,1 @@
-var mnemonic = "ankle vibrant spread goddess fiscal ocean use climb divert demise kind dose";
+var mnemonic = "timber runway level soul brisk ahead trouble chuckle relax wash uniform margin";

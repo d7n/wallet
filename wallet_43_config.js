@@ -1,1 +1,1 @@
-var mnemonic = "casual wrestle letter move donkey obtain orphan nature nut season bicycle shed";
+var mnemonic = "message subway team either loop wreck route then festival miracle adjust sea";

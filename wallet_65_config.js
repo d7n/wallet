@@ -1,1 +1,1 @@
-var mnemonic = "slab forest relief outside puppy great word install minor silly table amused";
+var mnemonic = "bounce slot steak mechanic this adjust wheel trade they wing call fabric";

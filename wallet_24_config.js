@@ -1,1 +1,1 @@
-var mnemonic = "color card jar dinosaur trial crawl damp distance open tuition panel property";
+var mnemonic = "equal sorry because pond alone toddler boost avocado tree media piece exist";

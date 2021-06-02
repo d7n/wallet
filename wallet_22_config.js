@@ -1,1 +1,1 @@
-var mnemonic = "chase figure cruise north catch better next able fun book motor sample";
+var mnemonic = "clock vintage come daughter alone polar clip claw merit wrap vast able";

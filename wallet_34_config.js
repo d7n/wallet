@@ -1,1 +1,1 @@
-var mnemonic = "reveal load hood plug coconut frown leisure hen gloom equip rug bachelor";
+var mnemonic = "ocean hammer pottery prefer blade make claw ginger okay exile that faint";

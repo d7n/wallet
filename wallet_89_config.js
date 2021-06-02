@@ -1,1 +1,1 @@
-var mnemonic = "mansion boring toilet vacuum cricket inherit prison build oxygen theme mind tank";
+var mnemonic = "length diary sketch divide abuse off chest category immune identify laundry bird";

@@ -1,1 +1,1 @@
-var mnemonic = "success jump rice owner unique noodle eye indicate dish voice nation screen";
+var mnemonic = "attend nurse master jacket sign wrist across enter aspect dismiss vendor stem";

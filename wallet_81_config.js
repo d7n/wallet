@@ -1,1 +1,1 @@
-var mnemonic = "digital anxiety dumb wash goddess object cool student upon doll host crack";
+var mnemonic = "abuse market reduce legend clutch crime nuclear resist ritual march eagle floor";

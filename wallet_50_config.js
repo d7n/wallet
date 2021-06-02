@@ -1,1 +1,1 @@
-var mnemonic = "finger orbit smoke inject soap exile phone square atom remove kit worth";
+var mnemonic = "turn moral kind elephant melody trade intact forget embark village rabbit february";

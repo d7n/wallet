@@ -1,1 +1,1 @@
-var mnemonic = "other robot example retreat mad credit upon funny oxygen family sing neck";
+var mnemonic = "attract fix better detail achieve giraffe vast capable clarify heart shoulder session";

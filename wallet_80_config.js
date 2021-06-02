@@ -1,1 +1,1 @@
-var mnemonic = "large trap sentence flat volcano arena maid toilet water spider text sting";
+var mnemonic = "frozen lion gaze slender shift grit worth sting gain voyage describe select";

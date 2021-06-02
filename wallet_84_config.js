@@ -1,1 +1,1 @@
-var mnemonic = "wedding fragile pistol lion repeat next moral mixed stamp exercise tent nest";
+var mnemonic = "shove draft fortune taste music bright news illegal rug oppose shiver crime";

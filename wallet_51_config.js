@@ -1,1 +1,1 @@
-var mnemonic = "quantum walk cattle calm federal popular tower kiwi wing shove novel proof";
+var mnemonic = "tape infant skin middle often pottery play fade match peanut return month";

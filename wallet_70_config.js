@@ -1,1 +1,1 @@
-var mnemonic = "cloud coconut school guitar glide sing urban vital expose estate base blame";
+var mnemonic = "learn potato mutual arrest remove betray fossil marble ticket dilemma three spice";

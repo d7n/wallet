@@ -1,1 +1,1 @@
-var mnemonic = "slide law humor lion now atom relief dirt save slow aerobic crunch";
+var mnemonic = "inner business rubber donkey pride second island taste cloth giggle involve region";

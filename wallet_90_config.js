@@ -1,1 +1,1 @@
-var mnemonic = "actress butter bag utility lab sick trend fish switch spell private off";
+var mnemonic = "pistol book earn much century assist slender just cement candy immune blind";

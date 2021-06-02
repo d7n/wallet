@@ -1,1 +1,1 @@
-var mnemonic = "myth actual ankle shoe urge ticket ramp black wage broken asset equal";
+var mnemonic = "oval comfort nice gold library food option appear autumn bone board frown";

@@ -1,1 +1,1 @@
-var mnemonic = "option promote twelve crumble tide large grief advance cigar sock imitate squeeze";
+var mnemonic = "sponsor hub favorite peace armor grunt orphan ladder sun panel monitor cupboard";

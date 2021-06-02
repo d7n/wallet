@@ -1,1 +1,1 @@
-var mnemonic = "try area agree lemon virus key cloud auto glass can skill change";
+var mnemonic = "palm pumpkin very keen word pull mammal valve mutual push device viable";

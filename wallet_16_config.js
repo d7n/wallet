@@ -1,1 +1,1 @@
-var mnemonic = "liar puzzle immense mobile myself chronic cake shift chunk horn elbow drop";
+var mnemonic = "practice arm clutch awful decide split daughter dose badge what sunny urge";

@@ -1,1 +1,1 @@
-var mnemonic = "put almost gown chronic wing system jaguar pill horror weekend fever help";
+var mnemonic = "amazing invite hip kind tilt jump fever another solid split load exotic";

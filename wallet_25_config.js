@@ -1,1 +1,1 @@
-var mnemonic = "auction fiction start captain crucial invite obscure monitor desk siren hazard build";
+var mnemonic = "expose work banana liberty swim amount venture theme hello charge float glance";

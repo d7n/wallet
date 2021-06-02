@@ -1,1 +1,1 @@
-var mnemonic = "wine right vicious fade clown pole stairs lens account midnight tail deputy";
+var mnemonic = "arm office planet sound gadget smart report engine option leave rebel core";

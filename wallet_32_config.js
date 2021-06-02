@@ -1,1 +1,1 @@
-var mnemonic = "cool protect spirit access tail hawk can panic genius assume island fish";
+var mnemonic = "copy swallow close nature barely miss inch maximum morning cable drop trim";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse canal advance unhappy rookie brass time need minimum local lab book";
+var mnemonic = "near second recycle vintage harbor toe curtain smoke screen private exercise unique";

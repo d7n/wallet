@@ -1,1 +1,1 @@
-var mnemonic = "blouse barrel depend can box silly flush cruise disease bullet six shadow";
+var mnemonic = "feed wheat envelope bus define predict party leisure involve boat matter giant";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid flash horn bridge busy pool orchard please divide coach innocent ignore";
+var mnemonic = "length spin person exotic tenant legend spatial beach refuse aisle return chicken";

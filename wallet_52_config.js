@@ -1,1 +1,1 @@
-var mnemonic = "book owner cube own fence such essence artwork wreck million wild humble";
+var mnemonic = "alarm student robot pyramid property shaft aware post trip chapter edit agree";

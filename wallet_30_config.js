@@ -1,1 +1,1 @@
-var mnemonic = "wheat spot palace whip peasant rubber icon oil slot naive mix congress";
+var mnemonic = "immense quick shuffle crazy fan mesh flash inform skirt atom exist aspect";

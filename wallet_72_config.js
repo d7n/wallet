@@ -1,1 +1,1 @@
-var mnemonic = "define uncle trash army choose bench payment vast total today shift audit";
+var mnemonic = "panel leaf evidence chair pig invite mystery era chef sure shop hunt";

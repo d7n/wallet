@@ -1,1 +1,1 @@
-var mnemonic = "asthma own spoil science warfare artwork solar flower gas success congress lens";
+var mnemonic = "slam million elegant head simple glide age erode town fringe source alone";

@@ -1,1 +1,1 @@
-var mnemonic = "air capable glue brisk bonus father exit hockey device sunny ostrich planet";
+var mnemonic = "champion endless stomach science crazy north kiss shift canoe clown lazy bright";

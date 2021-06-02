@@ -1,1 +1,1 @@
-var mnemonic = "suggest bird scare share gadget fire suit hammer wage snap sister salon";
+var mnemonic = "engine cake movie saddle assist mobile elbow above faculty struggle gown notice";

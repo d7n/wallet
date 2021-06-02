@@ -1,1 +1,1 @@
-var mnemonic = "song bike flower settle couch firm raw jewel roof empower country paper";
+var mnemonic = "wine noble situate trim year taste mobile father cliff load skill evolve";

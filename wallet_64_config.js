@@ -1,1 +1,1 @@
-var mnemonic = "rebel taste suffer anxiety caution vapor visa link civil tongue quote pistol";
+var mnemonic = "auction wisdom wool coin hamster skirt clown become clock deal sheriff lazy";

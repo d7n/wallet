@@ -1,1 +1,1 @@
-var mnemonic = "talent maple drift vessel front oven buyer lizard pause doll orbit quit";
+var mnemonic = "chest victory sort excite uncover pony panel bar rocket supply dirt reward";

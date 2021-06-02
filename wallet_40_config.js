@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wine found shrug female glance insect winner ozone when quarter burden";
+var mnemonic = "recall club shrug boss inch ozone edit crucial debate obscure oblige hybrid";

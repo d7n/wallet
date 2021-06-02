@@ -1,1 +1,1 @@
-var mnemonic = "nephew ginger work victory weird stamp bench vacant merit produce inhale reason";
+var mnemonic = "intact syrup finger error code shrug pave position olympic secret essence appear";

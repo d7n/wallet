@@ -1,1 +1,1 @@
-var mnemonic = "route access gun target street attitude enforce trust peasant train vital slogan";
+var mnemonic = "supreme enough planet fluid scatter food garlic pet network alien defense speed";

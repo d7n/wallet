@@ -1,1 +1,1 @@
-var mnemonic = "slide juice tourist twice coast siren welcome estate gate charge record range";
+var mnemonic = "vague image toward cart hover crane mass rigid gloom cable law update";
