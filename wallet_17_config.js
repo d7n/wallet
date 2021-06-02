@@ -1,1 +1,1 @@
-var mnemonic = "town this assault believe among squeeze spare guide lumber three cinnamon strike";
+var mnemonic = "dizzy weapon upon order album put analyst enact pistol noise blush bright";

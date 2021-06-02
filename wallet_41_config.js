@@ -1,1 +1,1 @@
-var mnemonic = "silk unable mango shove submit wrong science satoshi champion repeat width tape";
+var mnemonic = "plate boost worry above obtain nuclear edge radar height before guide wasp";

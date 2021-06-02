@@ -1,1 +1,1 @@
-var mnemonic = "army health adapt era clever proof warrior bind address evolve update advance";
+var mnemonic = "typical rapid master double spike slow donor potato critic resemble abuse sand";

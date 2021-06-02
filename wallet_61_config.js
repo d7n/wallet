@@ -1,1 +1,1 @@
-var mnemonic = "swallow hip tent setup thank detail ripple violin boost weird maze night";
+var mnemonic = "help twin sauce hire feature duck shell chronic flip pass yard guitar";

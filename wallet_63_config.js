@@ -1,1 +1,1 @@
-var mnemonic = "smile put wrist neglect abstract oblige review metal imitate torch salad husband";
+var mnemonic = "seek diesel calm home century casual diary neglect share warfare clap canoe";

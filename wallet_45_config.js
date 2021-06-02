@@ -1,1 +1,1 @@
-var mnemonic = "dish guide dilemma junk region casino school reflect robot affair pretty knife";
+var mnemonic = "confirm kingdom fiscal comfort exile true north lawsuit soldier risk gasp winner";

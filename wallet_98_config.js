@@ -1,1 +1,1 @@
-var mnemonic = "list clever wagon climb track absurd pig bless hen maze improve repair";
+var mnemonic = "basket skull arrange movie whale gentle twice swim matrix feature slice card";

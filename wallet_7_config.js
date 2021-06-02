@@ -1,1 +1,1 @@
-var mnemonic = "people reunion sell sample museum combine expect hour ring artist pair dog";
+var mnemonic = "pigeon math inflict cram air hero faculty notable steel fantasy unknown husband";

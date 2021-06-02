@@ -1,1 +1,1 @@
-var mnemonic = "next actress success clean lonely trust inside answer quantum increase magnet size";
+var mnemonic = "large squeeze sure neck excite have tortoise tape sort tail oblige collect";

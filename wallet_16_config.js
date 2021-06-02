@@ -1,1 +1,1 @@
-var mnemonic = "bomb above spend develop found foster moment acid label matrix innocent advance";
+var mnemonic = "hair weasel surround all obtain survey soldier ribbon organ pioneer pony atom";

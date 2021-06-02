@@ -1,1 +1,1 @@
-var mnemonic = "dial recall absent comic uncover panel galaxy scrub actor bus scan certain";
+var mnemonic = "trip physical supreme bacon icon age blame chapter onion super robot push";

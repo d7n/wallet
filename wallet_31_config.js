@@ -1,1 +1,1 @@
-var mnemonic = "achieve priority rely swamp antenna shell chunk follow later arctic tornado diary";
+var mnemonic = "orchard flag theme prison refuse dwarf sister frog caught peanut enroll brain";

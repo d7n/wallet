@@ -1,1 +1,1 @@
-var mnemonic = "coral false garden depend elegant pepper candy regret trouble time stairs oyster";
+var mnemonic = "soda mystery oblige quality auto term invite wheat warm square room humor";

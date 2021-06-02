@@ -1,1 +1,1 @@
-var mnemonic = "steak scale soda service canvas fatigue face nation track benefit verify knock";
+var mnemonic = "wheel prevent nasty merge question wrap dinosaur fall march liquid tissue hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "reward soup upper antique leaf hope release sight proof simple hedgehog uniform";
+var mnemonic = "six hollow bubble weekend reopen online pink adult regular draw maid fatal";

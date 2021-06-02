@@ -1,1 +1,1 @@
-var mnemonic = "inspire tourist panther leg favorite rule occur escape skill middle wasp urge";
+var mnemonic = "absorb chicken useful raven hungry breeze round defy sausage execute before great";

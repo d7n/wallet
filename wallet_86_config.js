@@ -1,1 +1,1 @@
-var mnemonic = "bargain lesson pottery celery explain labor shoe express clown apology load mask";
+var mnemonic = "remember modify produce shed mosquito daughter castle giant frequent garage mention tank";

@@ -1,1 +1,1 @@
-var mnemonic = "letter write correct identify access blouse move shell cattle scatter surface tonight";
+var mnemonic = "manual text witness drip net paddle pottery sausage tortoise pumpkin brave luxury";

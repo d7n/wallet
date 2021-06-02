@@ -1,1 +1,1 @@
-var mnemonic = "found issue fine secret void sock flag keen lemon menu nasty route";
+var mnemonic = "thrive regular banana fresh social repair right perfect famous inhale dad piece";

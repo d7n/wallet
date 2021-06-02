@@ -1,1 +1,1 @@
-var mnemonic = "gravity away change prepare hunt over ready then mouse have siren deputy";
+var mnemonic = "story ignore practice bicycle census spread deposit aerobic toddler error attack seek";

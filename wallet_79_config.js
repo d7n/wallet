@@ -1,1 +1,1 @@
-var mnemonic = "chase dance can pumpkin phone lady friend wonder tilt neutral anger toe";
+var mnemonic = "guilt robust during chuckle tennis when correct dance tumble disease mixture toss";

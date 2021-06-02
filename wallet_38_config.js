@@ -1,1 +1,1 @@
-var mnemonic = "try woman load orphan uncle maximum blame panda never jungle valid swift";
+var mnemonic = "awkward neglect knee eight blind repeat bird surround winner powder south head";

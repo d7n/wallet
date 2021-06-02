@@ -1,1 +1,1 @@
-var mnemonic = "burden blanket raven lens minimum metal breeze chalk cactus phrase town depth";
+var mnemonic = "nephew keep work say soup city mistake chase rival error fall egg";

@@ -1,1 +1,1 @@
-var mnemonic = "exit gospel speak denial submit custom demand holiday benefit oval else annual";
+var mnemonic = "income they pull dinner click home vibrant green fog forum any year";

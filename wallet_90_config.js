@@ -1,1 +1,1 @@
-var mnemonic = "ribbon drum define leisure unfold hint small success often sad consider orient";
+var mnemonic = "learn robust vapor awkward shy gasp bonus extend dismiss flower broccoli door";

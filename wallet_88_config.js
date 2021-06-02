@@ -1,1 +1,1 @@
-var mnemonic = "now glare spirit skull renew uphold alpha know cigar repeat risk hair";
+var mnemonic = "master west beauty insane fortune jelly destroy maze engine zoo drastic kid";

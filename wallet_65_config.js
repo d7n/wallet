@@ -1,1 +1,1 @@
-var mnemonic = "food canyon suffer muscle spare grape response claw day also fall pepper";
+var mnemonic = "dice logic same nice icon abandon purchase betray calm party true genius";

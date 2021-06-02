@@ -1,1 +1,1 @@
-var mnemonic = "nose winner check client exile cart solve bid river census reunion cement";
+var mnemonic = "consider cruise whip vessel deal goddess bacon galaxy prefer detect grow price";

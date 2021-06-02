@@ -1,1 +1,1 @@
-var mnemonic = "core wave spell exercise crash tank exchange fan sadness banner success sniff";
+var mnemonic = "small result cloth index organ bind original jewel together ethics another vote";

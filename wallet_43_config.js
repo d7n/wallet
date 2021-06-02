@@ -1,1 +1,1 @@
-var mnemonic = "chat dream license reveal identify shrimp trim icon retire acoustic upon spy";
+var mnemonic = "work call episode wide run step slot lab find strike renew sock";

@@ -1,1 +1,1 @@
-var mnemonic = "patient element all whisper alarm eye close print ridge world bomb bag";
+var mnemonic = "uphold kiss wool spot science agent dad trigger episode sorry depart submit";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion frown panic before leader narrow twist clip unit ribbon vacuum few";
+var mnemonic = "hungry slight glance wrap light music must jewel spider girl pretty scissors";

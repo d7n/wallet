@@ -1,1 +1,1 @@
-var mnemonic = "case cycle wreck celery scissors argue garment snake blouse sound double world";
+var mnemonic = "rain deal banana celery ask adapt size wall obvious useless damp memory";

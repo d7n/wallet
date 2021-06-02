@@ -1,1 +1,1 @@
-var mnemonic = "tomato crime salon vapor buddy solar verb bridge brown isolate mammal viable";
+var mnemonic = "divide stadium excite van spend fog tuition rug host furnace love awkward";

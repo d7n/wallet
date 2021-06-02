@@ -1,1 +1,1 @@
-var mnemonic = "nation laundry forum speed pyramid upper dinosaur twenty satisfy left enforce cream";
+var mnemonic = "super order pear weekend once double miracle bone forum used broccoli device";

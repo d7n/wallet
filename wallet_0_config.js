@@ -1,1 +1,1 @@
-var mnemonic = "tragic road egg chair hawk holiday aware infant thrive trouble coil lock";
+var mnemonic = "view festival artwork kiss later loan attend fiber sponsor output coyote nurse";

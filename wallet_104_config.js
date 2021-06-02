@@ -1,1 +1,1 @@
-var mnemonic = "raccoon edit east hedgehog tuition celery stairs repeat involve ketchup parent position";
+var mnemonic = "puppy episode journey meadow member junior bamboo section bicycle mass pluck easily";

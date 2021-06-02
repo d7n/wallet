@@ -1,1 +1,1 @@
-var mnemonic = "life asset stairs lesson coconut mobile flee topic camp almost tone photo";
+var mnemonic = "mutual crucial ordinary course board slab cabin slice first leopard pepper purity";

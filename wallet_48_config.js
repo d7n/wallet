@@ -1,1 +1,1 @@
-var mnemonic = "define inform outside rely physical either predict runway pool shock axis guilt";
+var mnemonic = "detail palace gadget worry odor bean dawn carry common shallow cushion ship";

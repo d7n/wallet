@@ -1,1 +1,1 @@
-var mnemonic = "swamp erode swarm filter wet rough way divert august coyote annual awful";
+var mnemonic = "uncle quick fame balance degree surprise cheap nation fancy snack donkey pause";

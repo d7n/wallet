@@ -1,1 +1,1 @@
-var mnemonic = "naive speed pipe planet escape final future illegal inquiry type someone suspect";
+var mnemonic = "crane replace blast screen glory two wealth rice asset cave seat metal";

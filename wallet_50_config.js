@@ -1,1 +1,1 @@
-var mnemonic = "urge remind utility that loyal display when hood endorse stove apple lecture";
+var mnemonic = "trigger left bus critic destroy cotton deposit put peasant anger indicate weapon";

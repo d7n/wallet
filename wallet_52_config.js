@@ -1,1 +1,1 @@
-var mnemonic = "flower foster candy borrow train finger want basket three pluck spoil dignity";
+var mnemonic = "father economy monster seminar scatter worth win sausage avoid stomach chicken feature";

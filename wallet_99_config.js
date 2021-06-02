@@ -1,1 +1,1 @@
-var mnemonic = "camp federal neck outside slender maple zone glimpse domain mom addict keep";
+var mnemonic = "usage dress humble faint catch proud soap claw pelican predict rival resist";

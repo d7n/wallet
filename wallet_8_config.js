@@ -1,1 +1,1 @@
-var mnemonic = "govern figure quick link oppose net wheel trumpet deliver essay sauce spike";
+var mnemonic = "analyst defy private round easy purse faint cloth maze enable tiny absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "robot sudden ring apart three wire actor swamp belt clutch sunset dinner";
+var mnemonic = "poet used liar that smile wealth dawn thrive skirt code cruel unable";

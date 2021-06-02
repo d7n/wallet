@@ -1,1 +1,1 @@
-var mnemonic = "boy castle pudding whale tired gallery member share business hundred goat below";
+var mnemonic = "during economy adjust cigar pride two inherit garlic stomach loyal shoulder sustain";

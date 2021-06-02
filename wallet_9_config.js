@@ -1,1 +1,1 @@
-var mnemonic = "bitter harvest cancel nothing since toward junior coast profit parent arm error";
+var mnemonic = "suspect mirror tired foot liar disagree left snap hedgehog share other water";

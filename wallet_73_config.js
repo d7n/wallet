@@ -1,1 +1,1 @@
-var mnemonic = "congress noodle transfer ketchup tag call holiday mandate trust tragic fossil butter";
+var mnemonic = "retire latin fall property pear kiwi erosion chalk excite rapid gas milk";

@@ -1,1 +1,1 @@
-var mnemonic = "nut matter light lake lyrics finish poet screen assist myself village power";
+var mnemonic = "mixed rival color concert recycle calm interest say exclude awesome about remain";

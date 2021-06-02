@@ -1,1 +1,1 @@
-var mnemonic = "tumble casual power pioneer choice matrix siege guitar pear quality enforce invite";
+var mnemonic = "another infant change mixture this betray mind mention divide crater interest anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "bone mule another rescue flat what sight history legal fitness hold bacon";
+var mnemonic = "echo notable parade rice combine action obvious during near husband promote forget";

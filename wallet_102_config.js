@@ -1,1 +1,1 @@
-var mnemonic = "canal together impose stick kick apple web abuse swamp promote response quality";
+var mnemonic = "wonder once scout release country real emotion depart attract system alley cart";

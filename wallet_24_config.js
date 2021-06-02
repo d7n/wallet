@@ -1,1 +1,1 @@
-var mnemonic = "response perfect venue blast ignore auto kitchen east cave replace soup satoshi";
+var mnemonic = "pretty favorite cannon series face shadow coast elegant bachelor update shine salt";

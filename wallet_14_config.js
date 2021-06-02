@@ -1,1 +1,1 @@
-var mnemonic = "balcony have side spring arm fossil bottom used educate property ritual mountain";
+var mnemonic = "allow avocado relax spot come torch north kiwi wrestle fancy crack chef";

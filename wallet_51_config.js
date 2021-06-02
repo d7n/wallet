@@ -1,1 +1,1 @@
-var mnemonic = "onion reopen giraffe parent stool school oak popular roof program view brush";
+var mnemonic = "hunt spirit typical code reason awake ivory finger olive author oven jungle";

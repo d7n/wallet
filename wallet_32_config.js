@@ -1,1 +1,1 @@
-var mnemonic = "myself ring thought hand curve possible hold opinion soft sample salmon milk";
+var mnemonic = "subway expand oppose canoe panda mammal crazy nice jealous manual state hungry";

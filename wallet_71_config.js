@@ -1,1 +1,1 @@
-var mnemonic = "month caution just course emerge useful injury pottery damp rural acquire physical";
+var mnemonic = "depart mansion drastic gasp roast scheme pilot quick enrich evoke birth steel";

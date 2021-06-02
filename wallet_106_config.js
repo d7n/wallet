@@ -1,1 +1,1 @@
-var mnemonic = "test club seek next laugh badge across attack dentist switch develop jewel";
+var mnemonic = "hope clog manage damage monster hub cabbage combine divert reject add place";

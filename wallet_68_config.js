@@ -1,1 +1,1 @@
-var mnemonic = "rack tent only cupboard ready caught country slush enforce quiz cloth idle";
+var mnemonic = "course mass tuition mesh actress pole dog until edit found token diet";

@@ -1,1 +1,1 @@
-var mnemonic = "happy tongue mansion lonely panda comfort salt blue insane jazz alien hurry";
+var mnemonic = "attend record hint abstract orient essay sport theory normal announce salt basic";

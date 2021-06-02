@@ -1,1 +1,1 @@
-var mnemonic = "please couch evidence arm suit dismiss today vicious mule visit toilet sense";
+var mnemonic = "retire window resource solution online love knee animal emotion mix bullet phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon ribbon pulse coast arrest horse diet inhale over taste agree typical";
+var mnemonic = "just library wealth benefit bring orchard design number fork cause hand timber";

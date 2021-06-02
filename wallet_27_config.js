@@ -1,1 +1,1 @@
-var mnemonic = "armed runway supreme pigeon boil alpha average mule gospel birth sausage dove";
+var mnemonic = "humor book rescue slot way vacuum jaguar solar topple craft fish rent";

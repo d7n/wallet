@@ -1,1 +1,1 @@
-var mnemonic = "fault original grass clay bless benefit dream limit world syrup vapor swear";
+var mnemonic = "round margin embody oil final accident planet best pupil unfold wear mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "brush drill surface romance exit bulb giant debris amused match voice will";
+var mnemonic = "armed loud inspire tumble green divert adult black attitude home model uncle";

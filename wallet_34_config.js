@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin forum electric enforce truck exact consider crawl practice material math anger";
+var mnemonic = "nephew approve cable enough giggle when vague forum lady that inherit achieve";

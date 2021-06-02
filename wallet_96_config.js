@@ -1,1 +1,1 @@
-var mnemonic = "destroy auction property always february entry start impose hat tell noodle cotton";
+var mnemonic = "brief doll auto sauce copy rebel village jacket prison trade wonder problem";

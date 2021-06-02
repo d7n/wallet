@@ -1,1 +1,1 @@
-var mnemonic = "tiger protect roast device weather endless upset tuition mad relax goddess spell";
+var mnemonic = "slim soldier bomb ethics insane huge aunt valve frame buffalo style decade";

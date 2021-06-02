@@ -1,1 +1,1 @@
-var mnemonic = "ripple spirit clinic damage ankle found project million virus remember solution whisper";
+var mnemonic = "sketch habit goddess actor glory capital mistake rug wet wild snap swim";

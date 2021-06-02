@@ -1,1 +1,1 @@
-var mnemonic = "garment future replace taxi mango tackle artefact have rescue blouse stick toilet";
+var mnemonic = "net ritual inquiry truly time upset wolf tomorrow tube remind fluid cube";

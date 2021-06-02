@@ -1,1 +1,1 @@
-var mnemonic = "turkey glare remove taste civil rotate fossil tackle jacket phrase wash squeeze";
+var mnemonic = "drama metal mesh twin dawn dwarf frost ramp notice ten wave raven";

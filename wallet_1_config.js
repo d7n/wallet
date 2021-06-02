@@ -1,1 +1,1 @@
-var mnemonic = "trip response brick provide code scorpion brief garden toss father laugh arch";
+var mnemonic = "number earth arrange inject cram camera game twelve guide sell tomato rhythm";

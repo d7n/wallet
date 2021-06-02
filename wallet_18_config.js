@@ -1,1 +1,1 @@
-var mnemonic = "act marriage day leave good sausage comic topple pole divide cloth crater";
+var mnemonic = "clump total original mom blood trick idle same plate recipe disagree auction";

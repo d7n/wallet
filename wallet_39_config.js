@@ -1,1 +1,1 @@
-var mnemonic = "shy album edge wrong clay hen main online legend catch prize cry";
+var mnemonic = "broccoli family harbor pride oak remove journey hidden spatial radar satisfy fox";

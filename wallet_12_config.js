@@ -1,1 +1,1 @@
-var mnemonic = "reveal enter angle segment tilt wrestle common sibling vendor raven deny own";
+var mnemonic = "topic scheme chief inject artist define dose type enough hospital fiber choose";

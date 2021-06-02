@@ -1,1 +1,1 @@
-var mnemonic = "maximum ridge future buffalo adjust volcano topic silk margin bring friend speed";
+var mnemonic = "enter among dynamic avoid churn garage toddler try monkey erase capable angle";

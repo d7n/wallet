@@ -1,1 +1,1 @@
-var mnemonic = "nose hotel broccoli device build chair artist hurry connect fame spatial tomorrow";
+var mnemonic = "jeans fine crop vintage arrive version cable flower apart rival reward motion";

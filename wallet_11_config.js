@@ -1,1 +1,1 @@
-var mnemonic = "cry opinion belt short stairs once since donate name link resemble when";
+var mnemonic = "cannon awake shed garbage retire month tragic yellow feel diesel idle measure";

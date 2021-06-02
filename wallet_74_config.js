@@ -1,1 +1,1 @@
-var mnemonic = "plug room problem bless gorilla walnut onion machine act hello despair annual";
+var mnemonic = "suit churn use ecology pulse people dizzy ball utility try tell crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "oil swear rebel taxi fat raise object mandate resource memory erosion put";
+var mnemonic = "prize define merry tell dwarf motion bubble stairs disease together plate dust";

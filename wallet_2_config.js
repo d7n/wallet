@@ -1,1 +1,1 @@
-var mnemonic = "solution summer destroy connect garlic credit lens extra syrup drift fat angry";
+var mnemonic = "corn exclude mutual leopard suspect banner space robust apology pause amount armor";

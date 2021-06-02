@@ -1,1 +1,1 @@
-var mnemonic = "degree connect trick gesture timber dash trick believe media air hire hair";
+var mnemonic = "reveal laugh asthma exotic aware trap void prize host crazy envelope bless";

@@ -1,1 +1,1 @@
-var mnemonic = "spell reward exotic spot void gun flock magic inside burger hurry language";
+var mnemonic = "drink retire protect strong wagon caught unhappy shrug firm sleep soft mirror";

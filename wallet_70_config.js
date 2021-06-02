@@ -1,1 +1,1 @@
-var mnemonic = "onion strike accuse rocket obscure pattern army enact pioneer soul strike win";
+var mnemonic = "fine expire tool where hobby notable total obey weather remind exclude stick";

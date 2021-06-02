@@ -1,1 +1,1 @@
-var mnemonic = "water perfect nest forum behind come inch jeans toy bulb enlist road";
+var mnemonic = "art captain run insect cook false radar off oxygen swamp globe cat";

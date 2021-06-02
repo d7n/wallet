@@ -1,1 +1,1 @@
-var mnemonic = "siren weapon split hurt tornado mask endless advance height flame fan certain";
+var mnemonic = "orbit worth allow prosper weapon oak zebra bring depend cigar food punch";

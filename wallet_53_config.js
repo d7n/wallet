@@ -1,1 +1,1 @@
-var mnemonic = "hello index they topic motion parrot camp increase what sweet exact action";
+var mnemonic = "lab race legend wild retire method crane deputy tube multiply curious right";
