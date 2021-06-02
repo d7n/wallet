@@ -1,1 +1,1 @@
-var mnemonic = "topple basket mansion myself pudding payment nature midnight process ball famous grit";
+var mnemonic = "knee tomato winter case cactus teach balcony model marriage situate piece enact";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue have cargo height write venture fluid increase marble rug drip caution";
+var mnemonic = "voyage put kitchen fiber liar define utility option glare jaguar panel mule";

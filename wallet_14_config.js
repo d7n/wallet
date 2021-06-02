@@ -1,1 +1,1 @@
-var mnemonic = "change spread rigid erase secret also marine camp deliver remember scrap snack";
+var mnemonic = "pride price endless spare illegal quote deposit work quiz zone nothing congress";

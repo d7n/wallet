@@ -1,1 +1,1 @@
-var mnemonic = "april sand tuition sheriff cloth ghost master host lucky intact era supply";
+var mnemonic = "update refuse female soup loud vanish hobby faith tilt gas merit proof";

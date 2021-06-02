@@ -1,1 +1,1 @@
-var mnemonic = "nominee tired print trade cheap gasp jazz special mountain later act safe";
+var mnemonic = "issue toast make meadow other stool injury museum anxiety orient aspect dawn";

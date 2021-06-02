@@ -1,1 +1,1 @@
-var mnemonic = "tired embody sight hard dentist plastic various install obtain movie few kite";
+var mnemonic = "nature morning name retreat scale bounce gaze search sunny artwork tragic person";

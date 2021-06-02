@@ -1,1 +1,1 @@
-var mnemonic = "gun stumble quote check flag seat youth helmet host stick narrow slab";
+var mnemonic = "sweet exercise possible place cram advice this subject remind song question boy";

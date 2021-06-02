@@ -1,1 +1,1 @@
-var mnemonic = "mountain menu awesome swear moon risk ill elevator small scatter turn list";
+var mnemonic = "erupt hour rack blood mixture between harvest robust story inquiry alone oxygen";

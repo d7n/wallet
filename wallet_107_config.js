@@ -1,1 +1,1 @@
-var mnemonic = "parent recipe silly insect caught knee ready split stem cluster defy symptom";
+var mnemonic = "surround parade faith vast hedgehog special survey prize mean smoke leg gospel";

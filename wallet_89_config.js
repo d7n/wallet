@@ -1,1 +1,1 @@
-var mnemonic = "dose accuse snow oblige almost habit scheme panic stomach hundred spider silver";
+var mnemonic = "urge leg spray open trip video rough state oil carry urban strong";

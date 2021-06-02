@@ -1,1 +1,1 @@
-var mnemonic = "drill ranch galaxy happy regular sand ranch organ shadow voice discover web";
+var mnemonic = "middle quality soft better fabric gallery unhappy slab verify step aspect reject";

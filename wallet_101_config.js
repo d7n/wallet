@@ -1,1 +1,1 @@
-var mnemonic = "identify envelope muscle guard artefact purchase forum note run supply country air";
+var mnemonic = "own amount lawsuit together river culture man danger churn happy mix alley";

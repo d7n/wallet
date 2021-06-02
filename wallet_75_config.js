@@ -1,1 +1,1 @@
-var mnemonic = "wrist desert mobile silent option pulse squeeze staff amount protect moment repair";
+var mnemonic = "luggage lava magic curve panel method pen lumber lyrics toddler own viable";

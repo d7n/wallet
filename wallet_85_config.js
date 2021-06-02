@@ -1,1 +1,1 @@
-var mnemonic = "vault input faculty broom lobster net above way crash slow police warfare";
+var mnemonic = "resemble panel gap dad expect fruit column payment tennis raven equal rural";

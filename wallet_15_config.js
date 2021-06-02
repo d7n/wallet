@@ -1,1 +1,1 @@
-var mnemonic = "evidence library remember metal copper canyon heart riot ball fantasy risk object";
+var mnemonic = "voice perfect cat lobster garbage gospel jewel detail dentist select august marble";

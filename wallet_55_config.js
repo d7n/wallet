@@ -1,1 +1,1 @@
-var mnemonic = "over coin own interest sponsor whisper assault soon venue stool behind sauce";
+var mnemonic = "matrix point enroll eye sorry rival recycle orient one cloud anger prefer";

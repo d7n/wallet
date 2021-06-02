@@ -1,1 +1,1 @@
-var mnemonic = "welcome chimney connect kingdom help armed buyer fog amused sauce arrange divorce";
+var mnemonic = "poem plastic bus top can tray network immense orchard family olive neither";

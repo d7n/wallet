@@ -1,1 +1,1 @@
-var mnemonic = "ability trip book walk milk cargo educate chuckle gravity bitter edit rack";
+var mnemonic = "blade muffin unaware valley afford empower copy sense mule repeat east disagree";

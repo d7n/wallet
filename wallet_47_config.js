@@ -1,1 +1,1 @@
-var mnemonic = "exact fortune child scale witness blue claw inherit thank boy spin summer";
+var mnemonic = "ball raccoon slogan abandon mobile mouse gold wheat trigger beach spawn warm";

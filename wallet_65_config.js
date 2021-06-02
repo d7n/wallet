@@ -1,1 +1,1 @@
-var mnemonic = "then become describe immense style mix bundle someone then situate rate december";
+var mnemonic = "inherit eyebrow brave move myself next badge deposit between hair guitar involve";

@@ -1,1 +1,1 @@
-var mnemonic = "apart tiny betray auto acquire update voyage outside amateur seed public exist";
+var mnemonic = "short tennis reflect unique chief visual team throw when north leisure gown";

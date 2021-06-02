@@ -1,1 +1,1 @@
-var mnemonic = "belt swamp pistol pond wave foster love glance team define laundry paddle";
+var mnemonic = "lamp slogan grain letter confirm neglect brave fish height duty fiscal thing";

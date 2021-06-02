@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit bridge cool wool joy tired explain blossom chef wrestle fence capable";
+var mnemonic = "maximum arch goose endless enrich toe pass flavor library pulse mushroom dumb";

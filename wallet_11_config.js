@@ -1,1 +1,1 @@
-var mnemonic = "culture program fox rather almost excuse move into hungry under owner again";
+var mnemonic = "solar sword fringe clinic save tube common cabin grow bridge cable random";

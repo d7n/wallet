@@ -1,1 +1,1 @@
-var mnemonic = "blanket craft slide trick attract success property tell hospital purity pet top";
+var mnemonic = "project wool van swim noodle science fossil field mom river walk best";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton luggage when matter shuffle clip burst sail velvet dress art loud";
+var mnemonic = "lamp tissue town pistol scan sponsor rally kingdom clutch quantum october flame";

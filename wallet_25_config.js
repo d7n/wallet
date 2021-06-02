@@ -1,1 +1,1 @@
-var mnemonic = "shallow happy decline control fade science route exclude public glare orphan note";
+var mnemonic = "scout odor explain puzzle exact mimic sun exist lift buffalo grace swear";

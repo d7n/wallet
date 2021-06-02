@@ -1,1 +1,1 @@
-var mnemonic = "cricket hover resemble ceiling armed garbage island vapor theme envelope fee slight";
+var mnemonic = "sleep ugly dance indicate museum thrive strong daring trial frame ability chest";

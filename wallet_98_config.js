@@ -1,1 +1,1 @@
-var mnemonic = "blood soul void hunt muscle circle brother fatigue initial crime island age";
+var mnemonic = "record drum apart juice sport year joke hand regret hurdle asthma meadow";

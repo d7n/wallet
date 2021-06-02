@@ -1,1 +1,1 @@
-var mnemonic = "basic canvas ecology armed twenty unfair actress december protect trumpet know distance";
+var mnemonic = "select amused remain never cloth seek start rail normal liar smooth arch";

@@ -1,1 +1,1 @@
-var mnemonic = "cost muffin scheme shrug split abuse exile head fatal guide write cool";
+var mnemonic = "fine media camera spike seven predict draw monkey repeat coyote family defense";

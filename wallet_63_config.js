@@ -1,1 +1,1 @@
-var mnemonic = "raccoon toss mimic gauge radio final point clap put aerobic virtual one";
+var mnemonic = "either farm amount country voice copy demand again swallow number strike wrong";

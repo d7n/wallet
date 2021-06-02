@@ -1,1 +1,1 @@
-var mnemonic = "cage fresh autumn cinnamon pear shallow setup wire critic monitor miss primary";
+var mnemonic = "planet face diet wheel burst double breeze volume famous liquid female music";

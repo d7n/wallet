@@ -1,1 +1,1 @@
-var mnemonic = "muffin measure pig country truly help boring term flight degree nurse off";
+var mnemonic = "manual flame sick dinner bind balcony live labor trade hill relief output";

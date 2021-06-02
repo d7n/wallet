@@ -1,1 +1,1 @@
-var mnemonic = "stairs blur resist vivid vanish smart range survey disorder surround armed struggle";
+var mnemonic = "pioneer aunt lemon rigid second park exchange empower place leave whale tennis";

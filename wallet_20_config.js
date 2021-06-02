@@ -1,1 +1,1 @@
-var mnemonic = "dove chuckle pipe marine denial pony feel find result rapid woman trust";
+var mnemonic = "tilt plastic car seven idle eagle physical aspect quit jacket hotel answer";

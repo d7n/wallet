@@ -1,1 +1,1 @@
-var mnemonic = "hungry dove flip nerve shrug symbol dice silent garbage outside cool mass";
+var mnemonic = "bone empty abuse debate prosper phrase either finish lawsuit story unfold title";

@@ -1,1 +1,1 @@
-var mnemonic = "beach mask broccoli hamster across top hair menu thunder walnut popular bus";
+var mnemonic = "diesel super fox torch find effort drink isolate year edge cover eight";

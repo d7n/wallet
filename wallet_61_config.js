@@ -1,1 +1,1 @@
-var mnemonic = "vacuum curious silly basket street physical suspect gorilla accuse lemon must stuff";
+var mnemonic = "paper wide turn slice desk scheme rural dream vintage update suggest light";

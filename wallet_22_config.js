@@ -1,1 +1,1 @@
-var mnemonic = "odor pioneer capable casino identify sunset beauty invite oppose deliver broom goat";
+var mnemonic = "canyon north empty main lend sugar angry diet near attract exit tonight";

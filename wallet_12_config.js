@@ -1,1 +1,1 @@
-var mnemonic = "diet coil mask lesson film aim agree rebel govern pet nominee avoid";
+var mnemonic = "term stairs poet avocado trick owner smoke banana oval kidney video zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog used pony heavy put ice ensure supreme pupil kingdom pear often";
+var mnemonic = "pledge lawn census build spice lift animal excite tiny peasant entire unaware";

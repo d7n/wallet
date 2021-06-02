@@ -1,1 +1,1 @@
-var mnemonic = "saddle claim slab skirt joke nerve ignore access stay kid zebra path";
+var mnemonic = "grace mind gadget mask other habit boss wrong movie account alert debate";

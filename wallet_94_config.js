@@ -1,1 +1,1 @@
-var mnemonic = "outside win poet dog plunge better damp maximum nerve trip question segment";
+var mnemonic = "cattle patch galaxy cinnamon innocent heart cushion home delay ice hockey stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "milk inhale special burger kid idle leg silk borrow embody wreck exile";
+var mnemonic = "bike dentist soul output kid all link upgrade absorb below dance law";

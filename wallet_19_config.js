@@ -1,1 +1,1 @@
-var mnemonic = "joy blouse range coach dirt fine maple advice obvious vacuum truly half";
+var mnemonic = "click glory surface actress agree moral amazing rather dress floor exit ramp";

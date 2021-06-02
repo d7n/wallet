@@ -1,1 +1,1 @@
-var mnemonic = "topple renew carbon fortune boy sweet episode comic liar lunch float search";
+var mnemonic = "imitate medal real visual awkward end differ around crazy other claim edge";

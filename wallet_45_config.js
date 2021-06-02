@@ -1,1 +1,1 @@
-var mnemonic = "ginger file grief walk you fury base recall normal walnut travel angry";
+var mnemonic = "law pitch famous maple canyon artwork edit pluck worth mystery stuff open";

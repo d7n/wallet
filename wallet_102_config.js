@@ -1,1 +1,1 @@
-var mnemonic = "essence plastic much force shiver round fresh story hat strike van world";
+var mnemonic = "resist leg coin maximum maximum turkey demise suffer today wrap mixed turn";

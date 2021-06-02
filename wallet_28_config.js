@@ -1,1 +1,1 @@
-var mnemonic = "diary shift top dance flower they slender brisk dawn neglect clap electric";
+var mnemonic = "tent zebra chronic parrot cinnamon upper style post tide say artwork remove";

@@ -1,1 +1,1 @@
-var mnemonic = "romance orphan gap despair mass party other catalog hub game illegal again";
+var mnemonic = "maple angle twenty laugh vehicle borrow baby film cupboard enter income element";

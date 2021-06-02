@@ -1,1 +1,1 @@
-var mnemonic = "faculty hair dog gesture silly judge eternal mesh sail height shrug quit";
+var mnemonic = "reunion decrease travel typical deer act situate wait mind ordinary liberty little";

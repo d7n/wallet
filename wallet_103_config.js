@@ -1,1 +1,1 @@
-var mnemonic = "luxury laundry grace win flat immune nice exclude stand pool guess author";
+var mnemonic = "chuckle glass skate saddle flower shuffle shell dentist ahead shadow race vanish";

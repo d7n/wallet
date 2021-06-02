@@ -1,1 +1,1 @@
-var mnemonic = "trust denial kick wreck alone salute husband gather mixture note salad all";
+var mnemonic = "august pelican coast photo junk work order dinosaur cradle reject inflict notice";

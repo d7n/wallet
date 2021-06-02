@@ -1,1 +1,1 @@
-var mnemonic = "limb soul peanut pumpkin broken man permit grab inspire fragile artwork crucial";
+var mnemonic = "slice never require furnace tumble region wood rival run wisdom credit rural";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge camp cook ensure boy clock final gift shy denial review soda";
+var mnemonic = "uncover tiny ranch buzz rebuild alone upset speed twice clump bracket match";

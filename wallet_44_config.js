@@ -1,1 +1,1 @@
-var mnemonic = "ask library wool drip east ranch battle rich public spirit march lava";
+var mnemonic = "salute argue gift surprise sleep group genius unfold flower often side cream";

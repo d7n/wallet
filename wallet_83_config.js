@@ -1,1 +1,1 @@
-var mnemonic = "friend poet habit open beef claw tube sketch promote animal antique stage";
+var mnemonic = "supreme labor second dice daughter sister awful common below guitar shoot volcano";

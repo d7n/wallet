@@ -1,1 +1,1 @@
-var mnemonic = "garlic lemon seminar crowd divorce month peanut together divide rescue document together";
+var mnemonic = "crawl avoid frog museum teach obtain antique tiger inflict fit column reward";

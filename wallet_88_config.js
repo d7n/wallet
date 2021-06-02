@@ -1,1 +1,1 @@
-var mnemonic = "whip virtual claw remain gorilla attend canvas jacket record blade loud range";
+var mnemonic = "rail cereal tooth aerobic feed high ill drink theme example alien jazz";

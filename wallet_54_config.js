@@ -1,1 +1,1 @@
-var mnemonic = "luxury nice goddess gesture result gloom opera lion pass radar fragile space";
+var mnemonic = "yellow true immense truth baby gorilla want view approve animal sausage fault";

@@ -1,1 +1,1 @@
-var mnemonic = "say cancel settle oil pretty disorder census dutch shadow pill harbor sausage";
+var mnemonic = "total sand try sight near provide stable carbon hire scout tone plastic";

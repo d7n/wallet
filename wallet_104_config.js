@@ -1,1 +1,1 @@
-var mnemonic = "style sunny grow mystery reopen couch state tourist better crisp ostrich kiwi";
+var mnemonic = "rain hero south blush intact box label situate minute feature country fuel";

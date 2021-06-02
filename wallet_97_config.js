@@ -1,1 +1,1 @@
-var mnemonic = "judge artist frequent episode cheese attack advice second culture admit future want";
+var mnemonic = "nothing violin carpet dynamic cluster hospital sniff clarify skull wrong main trip";

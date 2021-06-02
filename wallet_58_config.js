@@ -1,1 +1,1 @@
-var mnemonic = "appear cycle morning example truly travel orange loop special picture limb crush";
+var mnemonic = "certain march brass reunion pet panda cup wink rotate grant cushion fame";

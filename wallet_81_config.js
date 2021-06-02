@@ -1,1 +1,1 @@
-var mnemonic = "cash faith sugar remember reject one romance this elbow unveil scan ketchup";
+var mnemonic = "hello exit assault leave nerve symptom sheriff two retire misery color kingdom";

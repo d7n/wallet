@@ -1,1 +1,1 @@
-var mnemonic = "plastic ticket front question pyramid daughter void hobby absent update coast share";
+var mnemonic = "such smoke setup total kind lucky wagon fetch better urge release uniform";

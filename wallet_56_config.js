@@ -1,1 +1,1 @@
-var mnemonic = "space balcony police age skill inject buffalo parrot analyst margin absorb ordinary";
+var mnemonic = "soul mixed when narrow nature capable mix false height way fall whip";

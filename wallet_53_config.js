@@ -1,1 +1,1 @@
-var mnemonic = "theme half suggest bridge talent slight mention consider almost differ require anxiety";
+var mnemonic = "chest pony weasel clay install husband pear first weekend section ostrich keep";

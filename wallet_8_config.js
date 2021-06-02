@@ -1,1 +1,1 @@
-var mnemonic = "much rate economy alter omit garment nurse impulse woman employ unusual weapon";
+var mnemonic = "cruise vicious gossip cactus state letter glance scrub actor resist twenty addict";

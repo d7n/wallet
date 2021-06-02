@@ -1,1 +1,1 @@
-var mnemonic = "soldier lesson ghost crunch occur brave clap beef inch execute season biology";
+var mnemonic = "embark awake buddy rural snake vibrant place ethics voyage exotic muscle inject";

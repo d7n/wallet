@@ -1,1 +1,1 @@
-var mnemonic = "negative mask tree eagle hidden cycle slide bomb swamp icon text thrive";
+var mnemonic = "elbow poem toddler group ladder where weapon fly wool weird blossom escape";

@@ -1,1 +1,1 @@
-var mnemonic = "correct trip sleep citizen choice trigger liquid narrow multiply deliver obey sniff";
+var mnemonic = "bulb soft expect end style stone beach poem system indicate index rabbit";

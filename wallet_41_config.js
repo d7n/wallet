@@ -1,1 +1,1 @@
-var mnemonic = "element thought joke buffalo symbol install also range cool gap battle follow";
+var mnemonic = "ensure embody obscure equal reason attitude cricket candy okay access slim slender";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel choice image aware pen mother apology blame present author draft because";
+var mnemonic = "staff shed festival obey sun cycle journey rice viable code burger quit";

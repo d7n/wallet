@@ -1,1 +1,1 @@
-var mnemonic = "potato lunar orbit brush repair host permit oyster goose rocket rib pumpkin";
+var mnemonic = "public arm invite craft traffic excite label icon chunk team mind ecology";

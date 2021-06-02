@@ -1,1 +1,1 @@
-var mnemonic = "soul mean minor immense edit possible crisp cat evolve wife erase horror";
+var mnemonic = "cloud upon old frame zebra fragile install winter crater ladder mango risk";

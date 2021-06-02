@@ -1,1 +1,1 @@
-var mnemonic = "march much easily arch thrive monkey divide excuse fragile item memory increase";
+var mnemonic = "swamp album common item tank farm wing usual outdoor still earn same";

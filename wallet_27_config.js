@@ -1,1 +1,1 @@
-var mnemonic = "indicate submit exotic rather loyal cloth bag humor swap prize foster solution";
+var mnemonic = "daughter jazz silver riot cave actual trial stock boss betray spatial become";

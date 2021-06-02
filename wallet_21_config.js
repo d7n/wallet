@@ -1,1 +1,1 @@
-var mnemonic = "unlock gaze powder bridge limb lab muscle museum craft convince forum twelve";
+var mnemonic = "echo sure victory secret business make asset scene change diesel bring vapor";

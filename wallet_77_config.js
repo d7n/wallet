@@ -1,1 +1,1 @@
-var mnemonic = "razor attract camera dolphin awesome write hedgehog item lonely path noble spare";
+var mnemonic = "neutral clump patrol deny witness sister over sun abandon simple palace limb";

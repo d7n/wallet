@@ -1,1 +1,1 @@
-var mnemonic = "sing defense bag owner purse worry absent tonight slim wrist hero quote";
+var mnemonic = "dune swing improve rule give permit gain fatigue silent swallow math stem";

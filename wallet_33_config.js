@@ -1,1 +1,1 @@
-var mnemonic = "shop relax unique sugar clay library squeeze giggle rely ancient pool corn";
+var mnemonic = "cactus urban prison attitude ecology chuckle canvas code market bracket cruel ball";

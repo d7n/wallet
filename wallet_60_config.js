@@ -1,1 +1,1 @@
-var mnemonic = "stadium harbor exclude service omit cup wink defy salad say proud math";
+var mnemonic = "dragon chapter race banana chase transfer nominee love shell mixture arrest involve";

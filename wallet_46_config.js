@@ -1,1 +1,1 @@
-var mnemonic = "design title news bind mammal oyster update situate next matter smile draw";
+var mnemonic = "sentence gaze special outdoor boy tag swallow shoot anger trim hat media";
