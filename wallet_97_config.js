@@ -1,1 +1,1 @@
-var mnemonic = "gentle sibling pencil woman curve eye hospital flight call hold eyebrow spatial";
+var mnemonic = "member just manual behave merge labor rival antenna exile fever involve glance";

@@ -1,1 +1,1 @@
-var mnemonic = "insect oblige squirrel next nature possible spot nest patrol market antenna pluck";
+var mnemonic = "canyon trust hover egg mercy embark miss riot adult worth comic source";

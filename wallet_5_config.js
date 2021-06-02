@@ -1,1 +1,1 @@
-var mnemonic = "brief misery inside boil garment jewel edit exhaust olympic yellow kangaroo critic";
+var mnemonic = "excess blade raven bless unable color rent move piano view smoke always";

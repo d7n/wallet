@@ -1,1 +1,1 @@
-var mnemonic = "bunker jacket visit dutch rocket daring orient daughter hurt accident pause cradle";
+var mnemonic = "mention doctor pottery dove blanket achieve night initial athlete youth possible jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "bean mixed scan trial common boy elegant monitor board chair person cannon";
+var mnemonic = "angry century mask affair obtain type ritual shrug creek onion bronze jelly";

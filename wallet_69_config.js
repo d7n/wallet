@@ -1,1 +1,1 @@
-var mnemonic = "title ordinary edit jungle grape gauge hospital modify unit course october use";
+var mnemonic = "mother reform lunar result save example topic seminar ostrich giraffe across race";

@@ -1,1 +1,1 @@
-var mnemonic = "cube spy release broccoli deal metal purchase embark ripple voyage maple hope";
+var mnemonic = "stereo profit blossom bubble near plate license deputy doctor grid cool check";

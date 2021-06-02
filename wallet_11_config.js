@@ -1,1 +1,1 @@
-var mnemonic = "one heart gas warrior warm puppy rare marble artefact alley news chief";
+var mnemonic = "machine attitude endless tip liberty gauge glow habit soda fresh weasel child";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny amount elevator cigar weather inhale question guitar ginger eyebrow ask pupil";
+var mnemonic = "debate faint evil tip tower water quantum scan helmet medal hair maid";

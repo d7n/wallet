@@ -1,1 +1,1 @@
-var mnemonic = "home shop duty accident truth hazard mix inhale proud jeans decide myself";
+var mnemonic = "creek coil hurt answer defense walk win case dove replace erode dress";

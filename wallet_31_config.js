@@ -1,1 +1,1 @@
-var mnemonic = "hint faculty interest page forward prefer buffalo coral review change absorb mechanic";
+var mnemonic = "execute energy surge disorder cake radio tomorrow same about lift merge visa";

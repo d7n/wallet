@@ -1,1 +1,1 @@
-var mnemonic = "bleak tape shaft among empty visual glad vessel grocery bracket feature desert";
+var mnemonic = "number add weekend narrow meat either fall skin attend parade gold town";

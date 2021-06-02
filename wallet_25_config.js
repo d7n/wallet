@@ -1,1 +1,1 @@
-var mnemonic = "there poem scatter first upset under slow scrub acid reunion include ancient";
+var mnemonic = "grocery please favorite trap public utility able act antique during private juice";

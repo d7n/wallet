@@ -1,1 +1,1 @@
-var mnemonic = "orient eyebrow inmate grace horn wear surge bonus street dial omit mosquito";
+var mnemonic = "push glass lucky trim describe minimum open blossom sport achieve error exact";

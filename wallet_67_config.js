@@ -1,1 +1,1 @@
-var mnemonic = "vault work december wrong project zero source isolate come say range system";
+var mnemonic = "voyage web radar space inform crop october month chat purity rely student";

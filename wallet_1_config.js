@@ -1,1 +1,1 @@
-var mnemonic = "genius ecology stumble tired dirt shed fury shield absorb today either dry";
+var mnemonic = "stand merge verify category wild absurd movie trumpet piece drink way diary";

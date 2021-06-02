@@ -1,1 +1,1 @@
-var mnemonic = "bench engage obtain broccoli sun mouse mimic easily test short praise expand";
+var mnemonic = "bring digital steel armed defy rich match weapon few region pudding creek";

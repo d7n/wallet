@@ -1,1 +1,1 @@
-var mnemonic = "property drip snow leopard kangaroo feature mandate frequent cage violin false local";
+var mnemonic = "again alone pilot text blush cook trim parade evolve wheat spatial current";

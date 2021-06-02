@@ -1,1 +1,1 @@
-var mnemonic = "anchor science load example awesome session goose beauty thunder laundry business nature";
+var mnemonic = "scout panther outer reward remove always laptop rice impose burst filter toy";

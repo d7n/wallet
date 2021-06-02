@@ -1,1 +1,1 @@
-var mnemonic = "onion focus nature law gather kiwi diagram lobster clarify soon swift vehicle";
+var mnemonic = "dawn truth perfect master science need riot unhappy gravity crawl practice muffin";

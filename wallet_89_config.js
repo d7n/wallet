@@ -1,1 +1,1 @@
-var mnemonic = "change tonight language raccoon cycle nothing require screen retire room joy eager";
+var mnemonic = "cave poet kite wall rebel sense claim embrace often change valve win";

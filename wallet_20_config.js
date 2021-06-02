@@ -1,1 +1,1 @@
-var mnemonic = "lonely december edit upgrade adult joke cake east useless style horse census";
+var mnemonic = "minimum universe minimum evoke route original net volcano rabbit arm round happy";

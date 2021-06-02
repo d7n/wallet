@@ -1,1 +1,1 @@
-var mnemonic = "fancy potato reduce maximum fiscal sort loud little attract unlock couch skate";
+var mnemonic = "humble sample salad good bone ring dash figure poverty buddy include pupil";

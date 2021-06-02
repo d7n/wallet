@@ -1,1 +1,1 @@
-var mnemonic = "rescue route aware broken victory where elite critic spring enhance awkward road";
+var mnemonic = "wear essence nuclear travel enlist artefact post public surround depth miss cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "bring rifle suffer flat staff clown mobile omit wash donate crash share";
+var mnemonic = "engage good property silly recall theory orange kitchen canyon area announce rule";

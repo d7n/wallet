@@ -1,1 +1,1 @@
-var mnemonic = "muscle lumber candy liquid nerve skill swing twin avoid knife jeans budget";
+var mnemonic = "latin fabric picture opera uniform cattle wide type street arrest team electric";

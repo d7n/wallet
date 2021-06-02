@@ -1,1 +1,1 @@
-var mnemonic = "unable review shine truck east small exotic screen leader caution program chuckle";
+var mnemonic = "ghost frequent youth cheap upon boost kitchen label sign measure engine wage";

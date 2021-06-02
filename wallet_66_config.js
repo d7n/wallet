@@ -1,1 +1,1 @@
-var mnemonic = "science husband say scan once curtain impulse limit aspect report poem regular";
+var mnemonic = "oppose market wagon shop canal stamp tragic bid keen swap pilot nasty";

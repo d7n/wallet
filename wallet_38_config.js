@@ -1,1 +1,1 @@
-var mnemonic = "will advance follow december inmate crucial clerk diary bulk nuclear shrug border";
+var mnemonic = "balance awesome image motion fence noble peace wise kiwi wool retire thumb";

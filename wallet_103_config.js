@@ -1,1 +1,1 @@
-var mnemonic = "kit economy wish tuna couch six extra amount other expire crazy treat";
+var mnemonic = "craft scene become agree army giant end region dentist slim fall lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve sleep spread vague cool rural gossip safe lawn before feel jelly";
+var mnemonic = "tennis ski tide air rule artefact weather frequent act noodle pattern reopen";

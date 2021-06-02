@@ -1,1 +1,1 @@
-var mnemonic = "shell kid pudding chronic smart camp knife napkin unusual emerge runway fatigue";
+var mnemonic = "layer advance trick ozone unit history proof bench domain height brave labor";

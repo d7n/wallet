@@ -1,1 +1,1 @@
-var mnemonic = "exist rice traffic lunch circle radar elite input empty rice power stomach";
+var mnemonic = "earth mixed rule gown expect turn skirt exhibit awful summer cool middle";

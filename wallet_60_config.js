@@ -1,1 +1,1 @@
-var mnemonic = "dash crane food oven popular chief lab belt monster fan absorb craft";
+var mnemonic = "rhythm drama supply peace vacant glow ecology city transfer october gasp talk";

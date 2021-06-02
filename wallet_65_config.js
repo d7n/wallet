@@ -1,1 +1,1 @@
-var mnemonic = "audit gather sure pottery increase during antique shed clap rebel remove curtain";
+var mnemonic = "drip marble refuse food link laptop door clump excess beauty rib cliff";

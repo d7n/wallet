@@ -1,1 +1,1 @@
-var mnemonic = "stand feature shallow club cannon network egg wave shove interest portion thunder";
+var mnemonic = "stand census salute grace blast general peace six oval live crane idle";

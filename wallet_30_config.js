@@ -1,1 +1,1 @@
-var mnemonic = "mercy glow innocent fence debris mango cabin image throw fold century spider";
+var mnemonic = "ethics kick any provide belt exact sunset thank damp candy other rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "access come own sight arrive refuse tackle immense domain three doctor glass";
+var mnemonic = "ready cruel toe afraid artwork cause recall pumpkin leisure fee wedding company";

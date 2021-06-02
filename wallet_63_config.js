@@ -1,1 +1,1 @@
-var mnemonic = "there orchard happy what cactus refuse skirt unveil sweet dignity peanut town";
+var mnemonic = "toe coconut wine bullet define someone enhance luggage enable chicken genius kiwi";

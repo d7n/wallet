@@ -1,1 +1,1 @@
-var mnemonic = "volume drill inquiry cute double smile bind hotel tiger cherry giggle park";
+var mnemonic = "kit retreat wood glad sketch bounce girl connect inflict air marriage vendor";

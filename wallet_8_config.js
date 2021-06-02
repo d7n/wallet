@@ -1,1 +1,1 @@
-var mnemonic = "enjoy describe debate infant tobacco essence gloom blur drill cousin olympic announce";
+var mnemonic = "luggage please duck message grape like truck useless industry intact supreme step";

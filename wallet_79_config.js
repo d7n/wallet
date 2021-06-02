@@ -1,1 +1,1 @@
-var mnemonic = "zone guard oxygen pear grass unable jewel awesome deer ripple stick monkey";
+var mnemonic = "brush exotic humble bundle speak mad clump pill gospel frost brain vague";

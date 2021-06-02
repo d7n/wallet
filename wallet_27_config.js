@@ -1,1 +1,1 @@
-var mnemonic = "small talent hire lift session result insane know tomorrow south unaware oval";
+var mnemonic = "stove van invest eyebrow author perfect cousin reward jazz pond chief sugar";

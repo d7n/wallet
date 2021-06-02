@@ -1,1 +1,1 @@
-var mnemonic = "pole away permit menu power game pen toast carbon remain wear scare";
+var mnemonic = "victory risk captain doctor member answer safe between taste later organ sun";

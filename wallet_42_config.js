@@ -1,1 +1,1 @@
-var mnemonic = "people neck frozen kidney visual predict side grab citizen license spatial cycle";
+var mnemonic = "universe bar sentence bulb spoon deny wine purpose flat unveil harvest arrow";

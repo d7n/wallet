@@ -1,1 +1,1 @@
-var mnemonic = "sign attract height beef festival adult want output kidney road parade annual";
+var mnemonic = "what pizza magic turkey slender vivid tragic off calm orient dice thunder";

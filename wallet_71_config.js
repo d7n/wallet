@@ -1,1 +1,1 @@
-var mnemonic = "impulse shine cherry dice double mixed distance trick acid frog dinosaur project";
+var mnemonic = "edge antenna require agree merit adjust shallow toast tornado east lizard armor";

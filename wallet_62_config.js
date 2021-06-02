@@ -1,1 +1,1 @@
-var mnemonic = "measure transfer rather only matrix brief forum object fox diet tired price";
+var mnemonic = "lamp then powder satoshi margin change brass hotel pull soft puppy embody";

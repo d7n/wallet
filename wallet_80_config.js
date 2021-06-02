@@ -1,1 +1,1 @@
-var mnemonic = "maximum inside verb minute stay knife black put potato impulse fashion usage";
+var mnemonic = "dice shadow indoor tooth slow west science install bike dumb hundred garlic";

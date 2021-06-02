@@ -1,1 +1,1 @@
-var mnemonic = "breeze luggage ticket humble fiscal sudden fatigue public winter ahead release rebel";
+var mnemonic = "cram hope cabin early hub nut bronze vacant match jaguar ahead sunny";

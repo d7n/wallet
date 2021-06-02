@@ -1,1 +1,1 @@
-var mnemonic = "tide east suspect board delay lucky brain swim twenty certain coconut muscle";
+var mnemonic = "layer avoid story gather gas cupboard between village essay piece member prison";

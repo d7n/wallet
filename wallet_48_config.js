@@ -1,1 +1,1 @@
-var mnemonic = "option best spot buzz fringe soft follow phone damage reduce pyramid deliver";
+var mnemonic = "remember adult churn smooth globe female crisp baby giraffe note squeeze blue";

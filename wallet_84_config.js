@@ -1,1 +1,1 @@
-var mnemonic = "celery goddess crunch health admit spare way advance talent perfect judge relax";
+var mnemonic = "avocado tip hazard undo capable hero valid tortoise fragile victory essence speak";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer lawsuit swift once erase leisure lazy rely easy film retire brush";
+var mnemonic = "wrist token style early hold vault various crane you call thunder theme";

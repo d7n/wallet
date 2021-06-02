@@ -1,1 +1,1 @@
-var mnemonic = "split tunnel foster month solve grunt evoke try ticket venue energy giraffe";
+var mnemonic = "true argue mesh twin crystal bicycle puzzle sail fly juice phrase air";

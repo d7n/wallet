@@ -1,1 +1,1 @@
-var mnemonic = "sibling labor blush resource throw swarm jealous hurry arctic common ten weasel";
+var mnemonic = "vessel ranch wire bachelor ostrich column impulse wide taxi metal people post";

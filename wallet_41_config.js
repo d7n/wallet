@@ -1,1 +1,1 @@
-var mnemonic = "just hand popular rely club joke bless science fetch bar give daughter";
+var mnemonic = "abuse box casino park stock mobile nose cat narrow liberty breeze enforce";

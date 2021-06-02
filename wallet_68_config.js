@@ -1,1 +1,1 @@
-var mnemonic = "birth laugh insane actress donor weapon brain envelope cat clown soccer struggle";
+var mnemonic = "shaft symptom machine depend awake unlock mammal cross often forum border person";

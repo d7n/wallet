@@ -1,1 +1,1 @@
-var mnemonic = "expire sell subject victory release achieve avocado aerobic insane range pepper power";
+var mnemonic = "staff indoor spend leisure pattern space yellow cheap spatial riot dwarf drip";

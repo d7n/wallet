@@ -1,1 +1,1 @@
-var mnemonic = "best village caught fade obvious option avoid task useful abuse found wood";
+var mnemonic = "check enroll unlock nose universe bird poem aware test piano extend crop";

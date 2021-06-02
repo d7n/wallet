@@ -1,1 +1,1 @@
-var mnemonic = "adapt ice vehicle green patrol mixed argue youth dentist pepper theory essence";
+var mnemonic = "canvas abuse clarify canoe doll embrace hunt brief blade afford critic cereal";

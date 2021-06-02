@@ -1,1 +1,1 @@
-var mnemonic = "more decorate nice disorder original coconut deny fish distance list inch inflict";
+var mnemonic = "wall patch grunt share slush moment biology fresh scout steak slab entire";

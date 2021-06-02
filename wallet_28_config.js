@@ -1,1 +1,1 @@
-var mnemonic = "twin original gift milk nominee reunion airport tired empty edit mail end";
+var mnemonic = "invite dinner web curtain sign spring again rib ask kidney upgrade snap";

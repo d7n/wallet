@@ -1,1 +1,1 @@
-var mnemonic = "know success math inch sting spare calm enter gasp price room assist";
+var mnemonic = "payment notable bar citizen cluster viable thrive nephew audit bullet accuse universe";

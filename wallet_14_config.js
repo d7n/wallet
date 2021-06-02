@@ -1,1 +1,1 @@
-var mnemonic = "impose march document symptom edit major taste boy crystal rice win demand";
+var mnemonic = "grief crisp action figure square erode winner clinic frown asset lab code";

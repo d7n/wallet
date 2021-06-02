@@ -1,1 +1,1 @@
-var mnemonic = "found aunt trap eternal pole material swift again refuse tired forget funny";
+var mnemonic = "foot patient echo small enough crucial script police future point drift balcony";

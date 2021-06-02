@@ -1,1 +1,1 @@
-var mnemonic = "inflict away behave bless venue same bread core fatigue innocent spawn hint";
+var mnemonic = "people donate divert stay universe hero tray annual universe cook exact wet";

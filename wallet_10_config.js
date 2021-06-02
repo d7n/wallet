@@ -1,1 +1,1 @@
-var mnemonic = "income sorry tell shiver fortune coach hour collect slight daughter airport yard";
+var mnemonic = "claw drop rescue meat junk present butter table engine grid august drill";

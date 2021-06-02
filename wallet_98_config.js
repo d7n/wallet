@@ -1,1 +1,1 @@
-var mnemonic = "lens rely gain own mushroom million parrot point ten shuffle open denial";
+var mnemonic = "staff family rally noodle trap pause pottery animal welcome code person skull";

@@ -1,1 +1,1 @@
-var mnemonic = "pear away flag convince van canyon physical glare cup rent task major";
+var mnemonic = "case want tragic range erupt category unaware cram undo tuition crawl chuckle";

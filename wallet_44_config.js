@@ -1,1 +1,1 @@
-var mnemonic = "color elevator scorpion oven orphan peasant arm unfold coil crop dad window";
+var mnemonic = "child fine sugar flower moon plastic drum child device aware stereo sword";

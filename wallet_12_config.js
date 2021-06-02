@@ -1,1 +1,1 @@
-var mnemonic = "attitude scheme pistol chicken trigger stool despair neglect grief grace gadget flush";
+var mnemonic = "dragon kick march pizza gorilla globe salute begin economy air quit direct";

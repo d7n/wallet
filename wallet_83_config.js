@@ -1,1 +1,1 @@
-var mnemonic = "civil advance lonely into adjust eight proof hero endless hundred option close";
+var mnemonic = "favorite blue link ancient cradle wide salute mom hollow urban resemble story";

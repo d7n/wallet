@@ -1,1 +1,1 @@
-var mnemonic = "about caught image evidence tone song donate donkey seat cave hard fluid";
+var mnemonic = "repeat egg muscle loyal large dog adapt call kitchen turkey balcony hybrid";

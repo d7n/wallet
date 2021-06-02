@@ -1,1 +1,1 @@
-var mnemonic = "mercy exist reveal video label price circle hat chat fluid pact coral";
+var mnemonic = "dumb city say kind spring satisfy melody clerk sorry donate lounge door";

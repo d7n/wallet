@@ -1,1 +1,1 @@
-var mnemonic = "close verb radar secret include hotel sound better good baby believe narrow";
+var mnemonic = "mandate pattern keen parade claim trust average hair fade humble treat first";

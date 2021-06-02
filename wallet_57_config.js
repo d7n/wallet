@@ -1,1 +1,1 @@
-var mnemonic = "elegant correct clarify patrol leg space rain chunk act document early gift";
+var mnemonic = "require force ticket abandon sock armed secret network sword apology mobile mother";

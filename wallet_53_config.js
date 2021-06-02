@@ -1,1 +1,1 @@
-var mnemonic = "write bid valley token sample frown warm prepare accuse truck base arctic";
+var mnemonic = "federal love dove detect head cross invest tank wink strike creek rural";

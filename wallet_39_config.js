@@ -1,1 +1,1 @@
-var mnemonic = "hard outer fancy grunt gather kitchen left display sport ivory cinnamon danger";
+var mnemonic = "labor chaos artwork nest ridge six eye vehicle plunge arrest wire hope";

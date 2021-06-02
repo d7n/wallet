@@ -1,1 +1,1 @@
-var mnemonic = "outer then celery resource enter harvest ankle short south angry eyebrow word";
+var mnemonic = "nut sheriff image waste brown ill pond boat hammer ethics idle gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "upper sniff round budget holiday admit doctor two penalty soul piece purity";
+var mnemonic = "minor type tell age funny demand village tilt today blanket question genius";

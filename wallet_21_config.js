@@ -1,1 +1,1 @@
-var mnemonic = "ankle media purpose undo style dumb view fever bleak peanut twin cruise";
+var mnemonic = "give oppose top diagram ready image law struggle glare penalty jump sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "drill drive reveal season mandate drill curtain limit indoor enter picnic struggle";
+var mnemonic = "thought canyon discover craft twin marriage trumpet media bless wasp grain company";

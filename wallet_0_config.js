@@ -1,1 +1,1 @@
-var mnemonic = "beyond enlist fire ticket foot awful leopard isolate dune person gift narrow";
+var mnemonic = "reopen step where calm warrior success kangaroo debate hair elbow legal tumble";

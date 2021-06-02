@@ -1,1 +1,1 @@
-var mnemonic = "clog body leg sing matter liberty hero actual polar retreat another squeeze";
+var mnemonic = "family climb recycle entry vanish screen agree floor electric pear mean right";

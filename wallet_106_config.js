@@ -1,1 +1,1 @@
-var mnemonic = "tackle million woman custom viable taste file normal steel involve until blur";
+var mnemonic = "gallery merry crunch bean awesome potato uniform fresh mosquito gym witness demand";

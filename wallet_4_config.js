@@ -1,1 +1,1 @@
-var mnemonic = "find recipe forum eye eight limb enemy assault laugh memory leopard image";
+var mnemonic = "blanket exist usage payment human patch fury early scale toss toddler biology";

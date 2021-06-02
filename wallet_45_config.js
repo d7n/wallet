@@ -1,1 +1,1 @@
-var mnemonic = "execute hold autumn audit rack chuckle salon normal now yard private snack";
+var mnemonic = "orbit rude when able aisle clock coral universe sphere position thumb brush";

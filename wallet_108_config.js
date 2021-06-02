@@ -1,1 +1,1 @@
-var mnemonic = "phrase explain satoshi ensure swing same cabin divorce response lift patient know";
+var mnemonic = "letter soon slogan stage release expose surprise save verb dress kick also";

@@ -1,1 +1,1 @@
-var mnemonic = "huge salmon trouble journey pyramid pistol dress quality scout island pave already";
+var mnemonic = "cover orbit census matter lizard media act awkward clump fury trouble rich";

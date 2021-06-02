@@ -1,1 +1,1 @@
-var mnemonic = "energy foster father immense foster vicious main treat hover south promote shallow";
+var mnemonic = "health result right orient vendor assume beyond clutch describe device movie wish";

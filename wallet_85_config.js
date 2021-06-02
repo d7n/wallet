@@ -1,1 +1,1 @@
-var mnemonic = "ready diamond stamp symbol ship rubber ginger come notable parade beach busy";
+var mnemonic = "assist vast coral corn ordinary alert toy bless hunt half clean glance";

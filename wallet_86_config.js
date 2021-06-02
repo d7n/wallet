@@ -1,1 +1,1 @@
-var mnemonic = "jeans naive behind egg few coyote nuclear label swim fly gauge now";
+var mnemonic = "burger tip wonder left morning damage sunny fly match unusual safe split";

@@ -1,1 +1,1 @@
-var mnemonic = "piece idle toddler truth exhaust legal tonight cliff quarter cigar inquiry also";
+var mnemonic = "add shuffle come lizard planet letter try rifle account donate dove shed";
