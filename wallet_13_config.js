@@ -1,1 +1,1 @@
-var mnemonic = "clinic help celery busy era receive rather merit hero parade alarm woman";
+var mnemonic = "acquire luggage permit phone olive six chest harvest sting garlic isolate odor";

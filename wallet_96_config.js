@@ -1,1 +1,1 @@
-var mnemonic = "either pride crawl make visual talent stadium oblige fault powder tool burger";
+var mnemonic = "destroy auction property always february entry start impose hat tell noodle cotton";

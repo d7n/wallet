@@ -1,1 +1,1 @@
-var mnemonic = "arrest element rubber slide core kick nominee dose real story tenant orange";
+var mnemonic = "asthma clever there update trade model copper toast hollow charge dentist expose";

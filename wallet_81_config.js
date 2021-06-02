@@ -1,1 +1,1 @@
-var mnemonic = "pill repeat obscure interest surface behave awful gospel asthma inflict runway normal";
+var mnemonic = "garment future replace taxi mango tackle artefact have rescue blouse stick toilet";

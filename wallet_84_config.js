@@ -1,1 +1,1 @@
-var mnemonic = "jar gun auto case bring aim maze month warrior speed valve much";
+var mnemonic = "hover erupt wall retreat gather tape chimney awake magic begin mouse awake";

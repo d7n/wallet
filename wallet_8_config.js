@@ -1,1 +1,1 @@
-var mnemonic = "primary follow ready excuse guard antique seat pudding index various whip just";
+var mnemonic = "govern figure quick link oppose net wheel trumpet deliver essay sauce spike";

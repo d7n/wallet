@@ -1,1 +1,1 @@
-var mnemonic = "nest tooth echo bottom unique dentist issue gravity pepper baby loan spell";
+var mnemonic = "bag title hollow among wheel answer erode goat olympic eager quantum gown";

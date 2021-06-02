@@ -1,1 +1,1 @@
-var mnemonic = "move stable machine happy trick friend gorilla party velvet dish boss essay";
+var mnemonic = "armed runway supreme pigeon boil alpha average mule gospel birth sausage dove";

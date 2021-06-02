@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon wreck miss monster police vendor derive emerge mosquito follow suit deposit";
+var mnemonic = "chat dream license reveal identify shrimp trim icon retire acoustic upon spy";

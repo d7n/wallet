@@ -1,1 +1,1 @@
-var mnemonic = "very embody neglect february wet attract honey farm couch mouse inner fall";
+var mnemonic = "urge remind utility that loyal display when hood endorse stove apple lecture";

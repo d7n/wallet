@@ -1,1 +1,1 @@
-var mnemonic = "power release stand scorpion clinic fish flight leopard awake sand shock impulse";
+var mnemonic = "people reunion sell sample museum combine expect hour ring artist pair dog";

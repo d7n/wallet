@@ -1,1 +1,1 @@
-var mnemonic = "route typical process culture fury clinic around slot salute become very pigeon";
+var mnemonic = "found issue fine secret void sock flag keen lemon menu nasty route";

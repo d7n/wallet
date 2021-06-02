@@ -1,1 +1,1 @@
-var mnemonic = "medal artefact wrist measure gasp execute bind labor page make black eye";
+var mnemonic = "trip response brick provide code scorpion brief garden toss father laugh arch";

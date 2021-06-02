@@ -1,1 +1,1 @@
-var mnemonic = "ecology barely box honey lion scheme tape seek joy cattle turtle glide";
+var mnemonic = "opinion frown panic before leader narrow twist clip unit ribbon vacuum few";

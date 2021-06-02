@@ -1,1 +1,1 @@
-var mnemonic = "pulp oval token stumble spread unaware worth kiwi vault box sniff crazy";
+var mnemonic = "try woman load orphan uncle maximum blame panda never jungle valid swift";

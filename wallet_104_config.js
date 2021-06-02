@@ -1,1 +1,1 @@
-var mnemonic = "sniff coach bundle evidence exit waste trial one zero fitness panel rich";
+var mnemonic = "raccoon edit east hedgehog tuition celery stairs repeat involve ketchup parent position";

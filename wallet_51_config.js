@@ -1,1 +1,1 @@
-var mnemonic = "term idle next uncover maze enroll spatial library wagon shift shoe lunch";
+var mnemonic = "onion reopen giraffe parent stool school oak popular roof program view brush";

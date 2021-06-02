@@ -1,1 +1,1 @@
-var mnemonic = "pledge inflict team myth bubble orient myth load force evil search offer";
+var mnemonic = "define inform outside rely physical either predict runway pool shock axis guilt";

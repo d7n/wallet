@@ -1,1 +1,1 @@
-var mnemonic = "sting find select still come pottery kangaroo sad clay ethics shadow eagle";
+var mnemonic = "reveal enter angle segment tilt wrestle common sibling vendor raven deny own";

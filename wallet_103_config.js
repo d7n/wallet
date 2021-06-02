@@ -1,1 +1,1 @@
-var mnemonic = "chunk announce voice bitter punch patch finish spin yellow tongue discover movie";
+var mnemonic = "nose winner check client exile cart solve bid river census reunion cement";

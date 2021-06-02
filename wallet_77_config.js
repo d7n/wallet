@@ -1,1 +1,1 @@
-var mnemonic = "coach convince during rebel spare tumble jealous kingdom chuckle upon filter filter";
+var mnemonic = "spell reward exotic spot void gun flock magic inside burger hurry language";

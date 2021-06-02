@@ -1,1 +1,1 @@
-var mnemonic = "object magnet ask divorce one usual start juice sad reason range leave";
+var mnemonic = "swallow hip tent setup thank detail ripple violin boost weird maze night";

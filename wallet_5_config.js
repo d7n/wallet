@@ -1,1 +1,1 @@
-var mnemonic = "expand picture alone kiwi race dolphin away second argue slow giant decade";
+var mnemonic = "robot sudden ring apart three wire actor swamp belt clutch sunset dinner";

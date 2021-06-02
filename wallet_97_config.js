@@ -1,1 +1,1 @@
-var mnemonic = "hurry copper sense gate stereo truck cycle lava october dirt seven knock";
+var mnemonic = "oil swear rebel taxi fat raise object mandate resource memory erosion put";

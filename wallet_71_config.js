@@ -1,1 +1,1 @@
-var mnemonic = "render drop skate digital dentist grass crane slot wedding swim maze vacuum";
+var mnemonic = "month caution just course emerge useful injury pottery damp rural acquire physical";

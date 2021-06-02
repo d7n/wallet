@@ -1,1 +1,1 @@
-var mnemonic = "soccer pupil second save style illegal regular ivory sketch purity zoo sorry";
+var mnemonic = "rack tent only cupboard ready caught country slush enforce quiz cloth idle";

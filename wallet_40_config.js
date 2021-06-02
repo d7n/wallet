@@ -1,1 +1,1 @@
-var mnemonic = "rare demise endorse resource banana much ancient glue broken category three dinner";
+var mnemonic = "endless short giraffe liberty lonely wine obtain lava ginger property expand bless";

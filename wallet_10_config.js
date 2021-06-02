@@ -1,1 +1,1 @@
-var mnemonic = "material camera truth axis used attitude hover dignity champion inspire plug cool";
+var mnemonic = "can boy client answer climb erupt grief swap flush crane dinner recipe";

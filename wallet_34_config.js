@@ -1,1 +1,1 @@
-var mnemonic = "session object august final major lecture badge sock buzz duck chest quality";
+var mnemonic = "pumpkin forum electric enforce truck exact consider crawl practice material math anger";

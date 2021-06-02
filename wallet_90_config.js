@@ -1,1 +1,1 @@
-var mnemonic = "boss essence soap debate robot rude ecology bread unknown miss egg chimney";
+var mnemonic = "ribbon drum define leisure unfold hint small success often sad consider orient";

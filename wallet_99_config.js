@@ -1,1 +1,1 @@
-var mnemonic = "other morning unveil priority pioneer basic outside next skirt hello flavor maze";
+var mnemonic = "camp federal neck outside slender maple zone glimpse domain mom addict keep";

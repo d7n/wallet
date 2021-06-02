@@ -1,1 +1,1 @@
-var mnemonic = "book oppose when cause lemon glad bird liar cable rate smart journey";
+var mnemonic = "brush drill surface romance exit bulb giant debris amused match voice will";

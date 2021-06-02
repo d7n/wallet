@@ -1,1 +1,1 @@
-var mnemonic = "hold hood collect warrior divorce couple fever hybrid shield distance twelve crowd";
+var mnemonic = "water perfect nest forum behind come inch jeans toy bulb enlist road";

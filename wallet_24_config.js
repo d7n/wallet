@@ -1,1 +1,1 @@
-var mnemonic = "mule network dust inch shell desert armor jeans fiction smoke violin mixed";
+var mnemonic = "response perfect venue blast ignore auto kitchen east cave replace soup satoshi";

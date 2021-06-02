@@ -1,1 +1,1 @@
-var mnemonic = "random produce vital eyebrow master vehicle anger enlist day reduce symptom sight";
+var mnemonic = "balcony have side spring arm fossil bottom used educate property ritual mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "slim original thunder era shed hip banana race small draw critic deliver";
+var mnemonic = "bitter harvest cancel nothing since toward junior coast profit parent arm error";

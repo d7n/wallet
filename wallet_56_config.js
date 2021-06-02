@@ -1,1 +1,1 @@
-var mnemonic = "zebra favorite input faculty always rent bottom found kitchen super sample alone";
+var mnemonic = "burden blanket raven lens minimum metal breeze chalk cactus phrase town depth";

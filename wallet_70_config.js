@@ -1,1 +1,1 @@
-var mnemonic = "fade exclude amused latin casino leg cram refuse review erode bicycle endorse";
+var mnemonic = "onion strike accuse rocket obscure pattern army enact pioneer soul strike win";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet predict output winner width quick join render fever crunch chest manual";
+var mnemonic = "ripple spirit clinic damage ankle found project million virus remember solution whisper";

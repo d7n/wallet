@@ -1,1 +1,1 @@
-var mnemonic = "stock risk toss jealous have hard apology hundred axis pen weather route";
+var mnemonic = "food canyon suffer muscle spare grape response claw day also fall pepper";

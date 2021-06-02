@@ -1,1 +1,1 @@
-var mnemonic = "digital shock chronic loyal rabbit film stomach sign learn pencil dream trash";
+var mnemonic = "cannon peanut fiscal group foil toilet input exit buzz diesel chief office";

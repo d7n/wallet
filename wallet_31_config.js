@@ -1,1 +1,1 @@
-var mnemonic = "tooth boy supply cheap glare venture stand garment box liar enable omit";
+var mnemonic = "achieve priority rely swamp antenna shell chunk follow later arctic tornado diary";

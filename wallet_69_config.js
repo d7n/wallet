@@ -1,1 +1,1 @@
-var mnemonic = "know kiwi slush depth atom leopard ozone ugly myself indoor mixed lazy";
+var mnemonic = "reward soup upper antique leaf hope release sight proof simple hedgehog uniform";

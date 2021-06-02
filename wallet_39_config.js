@@ -1,1 +1,1 @@
-var mnemonic = "true walk harbor edge vapor ball relax present bar dance tuition jewel";
+var mnemonic = "shy album edge wrong clay hen main online legend catch prize cry";

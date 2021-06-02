@@ -1,1 +1,1 @@
-var mnemonic = "nasty require range burden lava afraid vault ensure nurse eight artist poverty";
+var mnemonic = "maximum ridge future buffalo adjust volcano topic silk margin bring friend speed";

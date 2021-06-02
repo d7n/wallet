@@ -1,1 +1,1 @@
-var mnemonic = "frown penalty uphold cheap orbit enjoy badge shaft stay worry zone chuckle";
+var mnemonic = "list clever wagon climb track absurd pig bless hen maze improve repair";

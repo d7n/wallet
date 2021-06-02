@@ -1,1 +1,1 @@
-var mnemonic = "price question devote depart zebra million crop letter humor swarm smile check";
+var mnemonic = "cinnamon ribbon pulse coast arrest horse diet inhale over taste agree typical";

@@ -1,1 +1,1 @@
-var mnemonic = "essence chair wild false want enough describe wet cup stable involve flush";
+var mnemonic = "letter write correct identify access blouse move shell cattle scatter surface tonight";

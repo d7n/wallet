@@ -1,1 +1,1 @@
-var mnemonic = "hire misery private antenna sniff lion wagon issue term swear dwarf source";
+var mnemonic = "patient element all whisper alarm eye close print ridge world bomb bag";

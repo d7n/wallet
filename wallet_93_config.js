@@ -1,1 +1,1 @@
-var mnemonic = "obvious math better catalog vendor nose subject hope grow strike borrow legal";
+var mnemonic = "trade guitar bulb become egg hour hub head tool gas voice mandate";

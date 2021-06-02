@@ -1,1 +1,1 @@
-var mnemonic = "diamond garbage peanut learn estate can flavor desk claw shop puppy print";
+var mnemonic = "broken zero eye movie rifle nose seek cactus other process fade level";

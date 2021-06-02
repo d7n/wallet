@@ -1,1 +1,1 @@
-var mnemonic = "motion universe mean until retire today elbow work bonus roof hood apology";
+var mnemonic = "loyal race govern squeeze focus okay emerge family skin inch color cattle";

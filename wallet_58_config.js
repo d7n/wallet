@@ -1,1 +1,1 @@
-var mnemonic = "cheese turkey few snake nose desk color whisper hotel forum brass goose";
+var mnemonic = "degree connect trick gesture timber dash trick believe media air hire hair";

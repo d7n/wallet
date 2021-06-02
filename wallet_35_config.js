@@ -1,1 +1,1 @@
-var mnemonic = "motion sure hire poverty novel disagree bargain more material chimney parrot proud";
+var mnemonic = "enough pattern raccoon priority denial budget check main creek arch remain impact";

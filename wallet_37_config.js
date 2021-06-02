@@ -1,1 +1,1 @@
-var mnemonic = "record wheat person useful junk believe review snake steak lecture excess seat";
+var mnemonic = "bone mule another rescue flat what sight history legal fitness hold bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "supply royal praise radio alley perfect jeans onion will photo goose smooth";
+var mnemonic = "canal together impose stick kick apple web abuse swamp promote response quality";

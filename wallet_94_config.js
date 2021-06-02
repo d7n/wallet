@@ -1,1 +1,1 @@
-var mnemonic = "tent power blue pause police say glimpse brisk arrange duck note glimpse";
+var mnemonic = "wool proof above fan morning welcome grass view scene fade eternal weasel";

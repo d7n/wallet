@@ -1,1 +1,1 @@
-var mnemonic = "refuse hat kingdom belt use ripple error enact pilot farm target drift";
+var mnemonic = "nut matter light lake lyrics finish poet screen assist myself village power";

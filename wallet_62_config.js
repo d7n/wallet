@@ -1,1 +1,1 @@
-var mnemonic = "pizza capital birth clump skirt item eager siege danger spirit chief kiss";
+var mnemonic = "naive speed pipe planet escape final future illegal inquiry type someone suspect";

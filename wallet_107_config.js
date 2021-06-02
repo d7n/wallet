@@ -1,1 +1,1 @@
-var mnemonic = "poem punch pill sort sun deputy pioneer skull window reject sort cupboard";
+var mnemonic = "turkey glare remove taste civil rotate fossil tackle jacket phrase wash squeeze";

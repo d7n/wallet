@@ -1,1 +1,1 @@
-var mnemonic = "orchard reform doll pioneer kid ghost armed sauce strike mixed song super";
+var mnemonic = "core wave spell exercise crash tank exchange fan sadness banner success sniff";

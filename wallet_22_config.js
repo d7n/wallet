@@ -1,1 +1,1 @@
-var mnemonic = "expand tunnel matrix memory useless owner audit alcohol squirrel tide twist snake";
+var mnemonic = "machine ribbon elite power adapt problem shine dutch try party scan seat";

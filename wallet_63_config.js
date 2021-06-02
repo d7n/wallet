@@ -1,1 +1,1 @@
-var mnemonic = "chair parade marriage snow junior real unit dance shoot ghost lecture quantum";
+var mnemonic = "smile put wrist neglect abstract oblige review metal imitate torch salad husband";

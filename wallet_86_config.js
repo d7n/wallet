@@ -1,1 +1,1 @@
-var mnemonic = "palm town bulb ramp owner glide false verify scrub bright below utility";
+var mnemonic = "bargain lesson pottery celery explain labor shoe express clown apology load mask";

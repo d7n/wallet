@@ -1,1 +1,1 @@
-var mnemonic = "best ordinary modify cause eagle describe food pigeon junk slogan rose midnight";
+var mnemonic = "chase dance can pumpkin phone lady friend wonder tilt neutral anger toe";

@@ -1,1 +1,1 @@
-var mnemonic = "extend liquid peanut art crew aerobic hub baby pond typical place garbage";
+var mnemonic = "siren weapon split hurt tornado mask endless advance height flame fan certain";

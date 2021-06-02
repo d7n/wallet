@@ -1,1 +1,1 @@
-var mnemonic = "concert cattle review merry amused remain page march knife wage enable multiply";
+var mnemonic = "fault original grass clay bless benefit dream limit world syrup vapor swear";

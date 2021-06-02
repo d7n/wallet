@@ -1,1 +1,1 @@
-var mnemonic = "trend lift pupil tennis merry action shoot wool crush rival toy license";
+var mnemonic = "bomb above spend develop found foster moment acid label matrix innocent advance";

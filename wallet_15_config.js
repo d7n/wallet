@@ -1,1 +1,1 @@
-var mnemonic = "cool legal label illness kitchen improve web top thunder practice year lobster";
+var mnemonic = "nation laundry forum speed pyramid upper dinosaur twenty satisfy left enforce cream";

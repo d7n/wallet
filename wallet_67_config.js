@@ -1,1 +1,1 @@
-var mnemonic = "brown way jump bike want rally gym cruise glance cake absurd grape";
+var mnemonic = "random what float weather resemble ancient reject napkin degree tube morning faith";

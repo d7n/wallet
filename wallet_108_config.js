@@ -1,1 +1,1 @@
-var mnemonic = "parrot icon fiction bomb invite oppose twin frequent swamp stay jar fiscal";
+var mnemonic = "square one shed spend present expose umbrella plastic panda rack wood omit";

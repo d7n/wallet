@@ -1,1 +1,1 @@
-var mnemonic = "switch cattle tomato source there announce dawn choose asthma inherit excite daring";
+var mnemonic = "plug room problem bless gorilla walnut onion machine act hello despair annual";

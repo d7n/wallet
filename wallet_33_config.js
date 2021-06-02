@@ -1,1 +1,1 @@
-var mnemonic = "tool live library coral enjoy section dinosaur dirt husband expand science recipe";
+var mnemonic = "gravity away change prepare hunt over ready then mouse have siren deputy";

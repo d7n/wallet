@@ -1,1 +1,1 @@
-var mnemonic = "cradle border music erupt group trend canal chimney gift energy cute gain";
+var mnemonic = "please couch evidence arm suit dismiss today vicious mule visit toilet sense";

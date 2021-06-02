@@ -1,1 +1,1 @@
-var mnemonic = "swing slam aisle annual nephew vote detect clay arena entry combine explain";
+var mnemonic = "hello index they topic motion parrot camp increase what sweet exact action";

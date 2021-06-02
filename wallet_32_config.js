@@ -1,1 +1,1 @@
-var mnemonic = "seminar almost stone example sentence toward open typical better child day because";
+var mnemonic = "myself ring thought hand curve possible hold opinion soft sample salmon milk";

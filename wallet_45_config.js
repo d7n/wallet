@@ -1,1 +1,1 @@
-var mnemonic = "sunny motor swim excite comic bird faculty question trick run custom toilet";
+var mnemonic = "dish guide dilemma junk region casino school reflect robot affair pretty knife";

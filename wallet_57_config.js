@@ -1,1 +1,1 @@
-var mnemonic = "salad ugly hen laundry tongue bargain armor consider person turkey fuel body";
+var mnemonic = "inspire tourist panther leg favorite rule occur escape skill middle wasp urge";

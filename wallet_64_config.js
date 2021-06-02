@@ -1,1 +1,1 @@
-var mnemonic = "share still acid urge cave empty like betray medal cross museum cash";
+var mnemonic = "dial recall absent comic uncover panel galaxy scrub actor bus scan certain";

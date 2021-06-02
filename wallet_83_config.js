@@ -1,1 +1,1 @@
-var mnemonic = "accuse figure pause feature waste truly guard deer hour ship gas soccer";
+var mnemonic = "tiger protect roast device weather endless upset tuition mad relax goddess spell";

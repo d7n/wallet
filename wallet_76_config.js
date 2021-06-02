@@ -1,1 +1,1 @@
-var mnemonic = "conduct sweet drop during rich hurt east eye stamp network local pattern";
+var mnemonic = "army health adapt era clever proof warrior bind address evolve update advance";

@@ -1,1 +1,1 @@
-var mnemonic = "future forward tragic scale jeans fossil mobile sing select still grab novel";
+var mnemonic = "town this assault believe among squeeze spare guide lumber three cinnamon strike";

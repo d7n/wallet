@@ -1,1 +1,1 @@
-var mnemonic = "okay machine office zebra shift pause hill require step orient flock imitate";
+var mnemonic = "magic inflict marine old fiscal empower hotel direct bachelor hello oil wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone spread unusual hard genuine cotton beauty kingdom gas reduce thought slight";
+var mnemonic = "exit gospel speak denial submit custom demand holiday benefit oval else annual";

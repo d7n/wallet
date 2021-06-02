@@ -1,1 +1,1 @@
-var mnemonic = "vehicle into wealth raven grow fatal come universe hen girl polar black";
+var mnemonic = "act marriage day leave good sausage comic topple pole divide cloth crater";

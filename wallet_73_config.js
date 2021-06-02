@@ -1,1 +1,1 @@
-var mnemonic = "tackle umbrella obtain remain unveil course travel relax solution option club shuffle";
+var mnemonic = "congress noodle transfer ketchup tag call holiday mandate trust tragic fossil butter";

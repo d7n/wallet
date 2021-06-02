@@ -1,1 +1,1 @@
-var mnemonic = "apple ability coyote govern amused food chef immense globe test horse hen";
+var mnemonic = "swamp erode swarm filter wet rough way divert august coyote annual awful";

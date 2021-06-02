@@ -1,1 +1,1 @@
-var mnemonic = "pool seminar review drill kind whip design curtain chair peanut sea mirror";
+var mnemonic = "foam this join penalty general record rabbit bone govern curtain word lunar";

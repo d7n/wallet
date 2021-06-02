@@ -1,1 +1,1 @@
-var mnemonic = "innocent merge body govern loop choice critic system humble method coffee certain";
+var mnemonic = "sudden false shield gospel smile ridge armor concert possible claim whale base";

@@ -1,1 +1,1 @@
-var mnemonic = "pass execute north federal spike target lava kidney addict sniff material ripple";
+var mnemonic = "quality uncle bottom ritual april heavy smile target dry menu mix pioneer";

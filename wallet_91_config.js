@@ -1,1 +1,1 @@
-var mnemonic = "thumb today reform smooth claim fault weapon wheat arrow medal push lyrics";
+var mnemonic = "nose hotel broccoli device build chair artist hurry connect fame spatial tomorrow";

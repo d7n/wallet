@@ -1,1 +1,1 @@
-var mnemonic = "diary good claw check marine leave legend assume convince depth exhibit cross";
+var mnemonic = "cry opinion belt short stairs once since donate name link resemble when";

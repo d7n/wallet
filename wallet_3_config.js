@@ -1,1 +1,1 @@
-var mnemonic = "loop camp give flag word mule lady chaos swallow catch negative decade";
+var mnemonic = "next actress success clean lonely trust inside answer quantum increase magnet size";

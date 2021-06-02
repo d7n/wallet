@@ -1,1 +1,1 @@
-var mnemonic = "ten make proof half balance doctor festival special extend foot can indoor";
+var mnemonic = "crazy age window half bird problem blame october lion worth trophy grow";

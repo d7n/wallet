@@ -1,1 +1,1 @@
-var mnemonic = "mix hundred air receive job note harvest broom syrup town napkin stage";
+var mnemonic = "defense sign spoon pair ocean giggle fog portion ugly canyon item need";

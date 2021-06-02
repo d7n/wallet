@@ -1,1 +1,1 @@
-var mnemonic = "approve chase mom kangaroo goddess feature also scheme pistol home message worth";
+var mnemonic = "life asset stairs lesson coconut mobile flee topic camp almost tone photo";

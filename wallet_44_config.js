@@ -1,1 +1,1 @@
-var mnemonic = "awkward diamond option robot thing devote mandate advice diet quit music settle";
+var mnemonic = "happy tongue mansion lonely panda comfort salt blue insane jazz alien hurry";

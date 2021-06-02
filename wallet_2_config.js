@@ -1,1 +1,1 @@
-var mnemonic = "earth fade swim label purchase mass clip attend maximum payment rain left";
+var mnemonic = "solution summer destroy connect garlic credit lens extra syrup drift fat angry";

@@ -1,1 +1,1 @@
-var mnemonic = "found average fat lava film chair sister split viable nerve rent regular";
+var mnemonic = "test club seek next laugh badge across attack dentist switch develop jewel";
