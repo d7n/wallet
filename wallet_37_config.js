@@ -1,1 +1,1 @@
-var mnemonic = "subway main behind one demise emotion lawn quick welcome joy sea silent";
+var mnemonic = "boring clap depth shrimp renew wing code mimic express bid wood latin";

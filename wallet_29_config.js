@@ -1,1 +1,1 @@
-var mnemonic = "draft filter rate attend glide address carpet castle enlist unveil rich gesture";
+var mnemonic = "brave aware congress verify menu grant view august scatter worth umbrella gather";

@@ -1,1 +1,1 @@
-var mnemonic = "draw oval raven comic chef brief shaft outside forget diagram above million";
+var mnemonic = "mass sunny digital conduct traffic shock rain early magnet comfort organ canal";

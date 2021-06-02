@@ -1,1 +1,1 @@
-var mnemonic = "modify rib satoshi this hammer next question ecology above leaf file purse";
+var mnemonic = "machine virtual first course question climb beyond boat custom decrease social layer";

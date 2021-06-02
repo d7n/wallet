@@ -1,1 +1,1 @@
-var mnemonic = "grocery inhale wave illness hundred emerge repeat donate topic amused inform fee";
+var mnemonic = "walnut runway movie crew popular surprise piece basic aisle helmet trumpet spatial";

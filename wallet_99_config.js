@@ -1,1 +1,1 @@
-var mnemonic = "present rookie dream carbon wolf gaze media table include device frost tobacco";
+var mnemonic = "rule begin ranch fine private west govern unable market gauge broccoli city";

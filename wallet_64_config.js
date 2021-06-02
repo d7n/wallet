@@ -1,1 +1,1 @@
-var mnemonic = "cool seminar behind sense comic denial pelican magnet orphan praise solid garbage";
+var mnemonic = "document rain identify absorb situate rose under indoor fault clump detail act";

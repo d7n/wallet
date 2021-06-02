@@ -1,1 +1,1 @@
-var mnemonic = "vapor refuse effort veteran hand energy depart enlist verify moon humble ten";
+var mnemonic = "disease clever nest december network leopard help snack swim crumble chapter gauge";

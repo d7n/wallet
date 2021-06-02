@@ -1,1 +1,1 @@
-var mnemonic = "lock chalk river galaxy theory barely fan minor hazard mimic time route";
+var mnemonic = "decide flight gap avoid budget vibrant balcony smoke music legal title spend";

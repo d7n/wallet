@@ -1,1 +1,1 @@
-var mnemonic = "ask hotel enough hollow grape rebel action dial bachelor casino good news";
+var mnemonic = "broken shield like salon elder era lawn forget decline dynamic angry sauce";

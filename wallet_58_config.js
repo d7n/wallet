@@ -1,1 +1,1 @@
-var mnemonic = "forward ahead aware defense layer wave local view use coil arrange rack";
+var mnemonic = "crisp welcome client wave verify century call phone bench question latin mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "long material invest amused remember victory very light hip develop slab grow";
+var mnemonic = "cheap news crumble cook ozone disorder swallow lounge sibling sugar motion follow";

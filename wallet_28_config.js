@@ -1,1 +1,1 @@
-var mnemonic = "settle orbit market excess call daughter figure habit valley saddle fatigue memory";
+var mnemonic = "you vacant pumpkin antenna budget old amazing vanish forget remind volcano village";

@@ -1,1 +1,1 @@
-var mnemonic = "learn glare vanish wire lawsuit wreck sniff private huge stage pioneer rapid";
+var mnemonic = "fire space joy taxi ball cook card paddle soda credit parrot ranch";

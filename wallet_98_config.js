@@ -1,1 +1,1 @@
-var mnemonic = "almost wolf echo voyage profit usage traffic diet phrase hedgehog suit inhale";
+var mnemonic = "cross below hamster will inflict sting cabbage enter fold essay smoke minute";

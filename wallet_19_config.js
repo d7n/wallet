@@ -1,1 +1,1 @@
-var mnemonic = "viable avoid charge sleep chunk pill hurt person maid citizen ridge dolphin";
+var mnemonic = "cupboard play resource key aisle hockey axis mix scatter spray warm need";

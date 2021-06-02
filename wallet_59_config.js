@@ -1,1 +1,1 @@
-var mnemonic = "tuna flag very unhappy girl garden always sheriff boy neck input hazard";
+var mnemonic = "car relax obey shine slide rabbit grass able term rural section slice";

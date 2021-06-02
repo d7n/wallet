@@ -1,1 +1,1 @@
-var mnemonic = "loud leave badge amount bulb fragile vault bunker knee flat inside science";
+var mnemonic = "between ceiling certain kind giggle glove rally kid spray gold purpose orphan";

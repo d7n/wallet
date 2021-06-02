@@ -1,1 +1,1 @@
-var mnemonic = "ostrich festival pause dance result february swift grass chat trial cheese display";
+var mnemonic = "stereo man try person cargo alter parrot have suit amused soon feature";

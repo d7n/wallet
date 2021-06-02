@@ -1,1 +1,1 @@
-var mnemonic = "display defy sausage trim crime walk electric nature high build hero pumpkin";
+var mnemonic = "trust kitten famous obvious index alone tobacco enroll poem knife stumble pull";

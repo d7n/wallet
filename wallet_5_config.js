@@ -1,1 +1,1 @@
-var mnemonic = "minor lawsuit better virtual hidden walk suit piano fringe poet oxygen cat";
+var mnemonic = "curious seminar hover pen firm pistol fossil unveil reduce village setup mushroom";

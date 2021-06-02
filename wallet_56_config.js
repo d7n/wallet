@@ -1,1 +1,1 @@
-var mnemonic = "fence basic arch stool fantasy wagon glue bicycle noise clock water glide";
+var mnemonic = "material loyal divert sniff relax boil practice arch level joy treat ignore";

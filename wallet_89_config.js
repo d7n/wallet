@@ -1,1 +1,1 @@
-var mnemonic = "toy hollow urban fit blind trouble license weather enemy truck visa toast";
+var mnemonic = "fat cattle eternal solar oval carpet wife clock upset reduce art fade";

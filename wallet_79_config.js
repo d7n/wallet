@@ -1,1 +1,1 @@
-var mnemonic = "viable guitar inside citizen zoo vivid train black project slogan hybrid maid";
+var mnemonic = "mammal defy board box fee grunt rule access friend inner pizza venue";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor harsh fabric buzz elbow wrestle gap into vapor below cook palm";
+var mnemonic = "atom history utility metal flash awful tackle actor cave alert pepper tongue";

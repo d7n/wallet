@@ -1,1 +1,1 @@
-var mnemonic = "stage decline exercise produce appear loud deal train violin surge diet volume";
+var mnemonic = "cheap inherit celery head boss tooth clever apple praise dwarf bean pink";

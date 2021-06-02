@@ -1,1 +1,1 @@
-var mnemonic = "oppose actual spray extend wisdom casino code tackle fold piano always view";
+var mnemonic = "lock speak traffic magic lunar apple beach unhappy tonight veteran idea side";

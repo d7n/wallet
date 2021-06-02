@@ -1,1 +1,1 @@
-var mnemonic = "woman analyst knife obtain autumn joy pistol exact quit adult joy obey";
+var mnemonic = "review noise term allow grace hundred energy poet foil danger slogan next";

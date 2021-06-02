@@ -1,1 +1,1 @@
-var mnemonic = "able tube donkey become label route often sword embrace ethics cluster escape";
+var mnemonic = "between matter judge chef wisdom cigar awake impulse settle lecture juice three";

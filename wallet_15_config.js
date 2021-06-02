@@ -1,1 +1,1 @@
-var mnemonic = "property someone door insane bracket material clever option much plate gain another";
+var mnemonic = "again weekend thrive spy notice nest human wealth normal insect any cluster";

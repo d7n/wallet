@@ -1,1 +1,1 @@
-var mnemonic = "chapter future boring hedgehog humble flee mushroom ability model economy wire giraffe";
+var mnemonic = "creek sick current device hollow celery buddy hundred spirit book solar banner";

@@ -1,1 +1,1 @@
-var mnemonic = "fine federal mixed border million patrol easily gas text river thumb antique";
+var mnemonic = "quiz much alone sad method banner inch broom detect syrup silk flag";

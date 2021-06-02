@@ -1,1 +1,1 @@
-var mnemonic = "oblige twelve sustain surface know property erase resist permit demand recycle grief";
+var mnemonic = "exchange victory dragon invest inner defense slim spin ski sell polar motor";

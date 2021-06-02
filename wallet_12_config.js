@@ -1,1 +1,1 @@
-var mnemonic = "steak toe february swim huge biology joke inmate rabbit luggage company exhaust";
+var mnemonic = "thing witness garden tornado call gate aware super hard tenant picture train";

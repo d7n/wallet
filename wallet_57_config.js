@@ -1,1 +1,1 @@
-var mnemonic = "wrap foil filter bronze night prevent plastic knife gaze child attitude surround";
+var mnemonic = "square suspect spring share grass million cross gloom curious page december unusual";

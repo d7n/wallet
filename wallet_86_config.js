@@ -1,1 +1,1 @@
-var mnemonic = "math robot student patrol salmon food suggest animal puppy skull present divert";
+var mnemonic = "try flush boat enemy lock fog admit betray address knife wet again";

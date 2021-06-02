@@ -1,1 +1,1 @@
-var mnemonic = "erupt crazy lava bicycle course inside across submit black skill illegal yard";
+var mnemonic = "legend obey rigid attend chicken such enlist tube discover movie stand pepper";

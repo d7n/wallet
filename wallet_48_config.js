@@ -1,1 +1,1 @@
-var mnemonic = "thunder gap miss order grain egg mask knife gain once guide distance";
+var mnemonic = "kiwi boy grit purchase fall endorse hollow tobacco stove rack apple rely";

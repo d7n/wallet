@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fame escape victory swamp corn ice print shield result few club";
+var mnemonic = "embrace fancy shy color athlete cupboard resemble analyst box fiction disorder icon";

@@ -1,1 +1,1 @@
-var mnemonic = "attract wear hockey raw sword year ecology voice laugh choose select involve";
+var mnemonic = "when mandate detect couple company laptop ancient fly shove south alert wood";

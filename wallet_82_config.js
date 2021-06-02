@@ -1,1 +1,1 @@
-var mnemonic = "habit envelope cotton used manage earth daughter total reopen hour scrap distance";
+var mnemonic = "fun powder blast image reduce armed quote buffalo provide seminar seminar angry";

@@ -1,1 +1,1 @@
-var mnemonic = "change purity decrease civil hurry illegal remove say blind brief kitten arrange";
+var mnemonic = "family plate crawl century buyer lens ceiling hill jeans evidence setup march";

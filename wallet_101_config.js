@@ -1,1 +1,1 @@
-var mnemonic = "link miracle forget crazy word razor hotel border maze armor yard walnut";
+var mnemonic = "year ribbon love shrimp loud inhale fish swift world brain cushion camp";

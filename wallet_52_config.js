@@ -1,1 +1,1 @@
-var mnemonic = "critic huge network concert busy reform buffalo merry age seven setup fatigue";
+var mnemonic = "divorce table pen injury bless spoil hazard flock subject light ill penalty";

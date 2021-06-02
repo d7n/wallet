@@ -1,1 +1,1 @@
-var mnemonic = "property velvet lottery rival doll casual era word taste coast remind year";
+var mnemonic = "wonder reward visa human various vote attract unlock same wheat distance among";

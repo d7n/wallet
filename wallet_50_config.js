@@ -1,1 +1,1 @@
-var mnemonic = "layer unit squeeze mistake immense island jewel remember stumble lesson indicate boat";
+var mnemonic = "ripple text few close butter fiction average stable express merge daring wait";

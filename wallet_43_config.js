@@ -1,1 +1,1 @@
-var mnemonic = "travel reunion toss topple hero sound clever grunt rotate luggage retire myth";
+var mnemonic = "sibling employ rare lyrics emotion spatial bleak rule unknown powder update crop";

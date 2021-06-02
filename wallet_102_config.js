@@ -1,1 +1,1 @@
-var mnemonic = "risk jealous tuition warm snake hurry east puppy utility prosper chief select";
+var mnemonic = "shoe energy group help armed trophy episode brave diet trumpet bamboo point";

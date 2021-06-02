@@ -1,1 +1,1 @@
-var mnemonic = "install turkey dry switch pencil defense solar upon bright senior tooth abuse";
+var mnemonic = "reveal choice miss illness all ability almost grant mountain citizen gorilla cage";

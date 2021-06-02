@@ -1,1 +1,1 @@
-var mnemonic = "boat airport drift grief news night dry wall crisp gather april message";
+var mnemonic = "waste riot dolphin sun problem upon brother avoid chuckle speed rifle flock";

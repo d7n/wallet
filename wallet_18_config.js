@@ -1,1 +1,1 @@
-var mnemonic = "buyer holiday poet dizzy desk quiz custom east scorpion job summer buffalo";
+var mnemonic = "runway genius capable tonight afford outdoor warm mention note outer render sock";

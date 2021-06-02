@@ -1,1 +1,1 @@
-var mnemonic = "roast episode trial wool exclude trash fiber like order coin captain amateur";
+var mnemonic = "material rubber hammer awake device obscure whip code rude dutch magic biology";

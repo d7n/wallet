@@ -1,1 +1,1 @@
-var mnemonic = "monkey excuse blood deer end paddle actor bus guard oblige rural easy";
+var mnemonic = "latin smile limit prosper help breeze spring jelly fix walnut supreme harvest";

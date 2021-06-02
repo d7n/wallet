@@ -1,1 +1,1 @@
-var mnemonic = "awake park discover dry render net duty sting bounce slender response angry";
+var mnemonic = "merge inmate stuff vessel cube diesel rib cart clump rocket pizza course";

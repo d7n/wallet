@@ -1,1 +1,1 @@
-var mnemonic = "crawl lumber left visual ridge rice inch toward orchard name genius gaze";
+var mnemonic = "cause essay elder common camp ceiling army plate report course kid slim";

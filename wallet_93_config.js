@@ -1,1 +1,1 @@
-var mnemonic = "boy comfort garage borrow poem first shuffle donor peanut salon loud loan";
+var mnemonic = "team cross devote own loan capital vacant admit flight unable fiction delay";

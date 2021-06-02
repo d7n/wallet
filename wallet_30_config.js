@@ -1,1 +1,1 @@
-var mnemonic = "area update casino fantasy already valid canal chest wealth expect invite media";
+var mnemonic = "decorate defense canvas orient slot orchard gospel panic iron oblige weekend mutual";

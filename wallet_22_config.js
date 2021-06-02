@@ -1,1 +1,1 @@
-var mnemonic = "fan script make assume gravity biology blood reason swarm diagram hotel humble";
+var mnemonic = "column pear order apple eager victory trip learn gentle path magnet orange";

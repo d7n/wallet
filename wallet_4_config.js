@@ -1,1 +1,1 @@
-var mnemonic = "pink setup pond filter extend loyal reduce mango reopen sentence tunnel toward";
+var mnemonic = "best atom opinion tape beach omit round kidney garment lottery eight ticket";

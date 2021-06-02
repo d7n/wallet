@@ -1,1 +1,1 @@
-var mnemonic = "case dignity skill cube canoe prosper time gasp neck scare remove rule";
+var mnemonic = "thunder rival coin tray cost awful twelve powder danger concert soda pave";

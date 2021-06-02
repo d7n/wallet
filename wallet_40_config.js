@@ -1,1 +1,1 @@
-var mnemonic = "spring voice scene all path citizen adult duty grunt case close sketch";
+var mnemonic = "symptom else grunt mushroom joke ocean bomb spray cube front train gas";

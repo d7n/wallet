@@ -1,1 +1,1 @@
-var mnemonic = "gate oil old equip make panic face enroll pear valid bleak top";
+var mnemonic = "copy eight begin defense monkey flower color setup bread deliver collect legal";

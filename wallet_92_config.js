@@ -1,1 +1,1 @@
-var mnemonic = "pretty person excess venue air auction ribbon bubble grain ordinary camera parrot";
+var mnemonic = "patrol economy cereal tennis enter inmate canvas ripple skin popular science twelve";

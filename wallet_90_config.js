@@ -1,1 +1,1 @@
-var mnemonic = "goddess action dynamic dog target spend aunt desert dirt hill mule sample";
+var mnemonic = "thunder excess cram cherry input blade list exist tuition supreme sad angle";

@@ -1,1 +1,1 @@
-var mnemonic = "problem seed capital suffer stock nice globe recycle carpet planet glass town";
+var mnemonic = "mother exhaust globe van suspect people inflict long camera car over donate";

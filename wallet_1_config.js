@@ -1,1 +1,1 @@
-var mnemonic = "tennis video enrich butter plunge capital spider wheat report vault scare screen";
+var mnemonic = "exit want area fringe smile menu machine erase hard sword supply cool";

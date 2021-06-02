@@ -1,1 +1,1 @@
-var mnemonic = "upper parade oxygen work cinnamon rural uncover plate return winter reward weather";
+var mnemonic = "obscure leaf clump letter bread video erode lake melody chronic dwarf wagon";

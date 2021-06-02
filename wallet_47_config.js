@@ -1,1 +1,1 @@
-var mnemonic = "step record unhappy thought tunnel badge slight title prosper siege switch prosper";
+var mnemonic = "supply moral ankle foster screen survey congress boil spare innocent emerge myself";

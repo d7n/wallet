@@ -1,1 +1,1 @@
-var mnemonic = "usual frog unveil struggle dune bulk join tilt welcome resource addict flee";
+var mnemonic = "chronic turtle match organ shiver report hello farm mother word horn milk";

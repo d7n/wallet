@@ -1,1 +1,1 @@
-var mnemonic = "subject embrace strategy meat vast cargo motion coral open repair bind route";
+var mnemonic = "velvet piano broken simple method tongue century curve much prosper dutch long";

@@ -1,1 +1,1 @@
-var mnemonic = "globe glide health cry prevent poem horse type smooth lecture ensure left";
+var mnemonic = "educate hello scrap steel country door remain detect puzzle flight ozone range";

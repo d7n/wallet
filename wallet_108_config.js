@@ -1,1 +1,1 @@
-var mnemonic = "note auction age melody cage uncle install person flower feed walk cash";
+var mnemonic = "still mix grab police violin novel indicate miss sure radio glory wear";

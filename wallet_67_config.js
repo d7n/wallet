@@ -1,1 +1,1 @@
-var mnemonic = "magnet beach blush metal pond steak depart you nurse novel goose true";
+var mnemonic = "slush power sun payment hobby unveil hotel consider acoustic abandon lens equal";

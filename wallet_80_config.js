@@ -1,1 +1,1 @@
-var mnemonic = "live knee swear filter athlete love alpha lumber choose dizzy clerk betray";
+var mnemonic = "token depart exotic first couple lemon erase strike success require route must";

@@ -1,1 +1,1 @@
-var mnemonic = "truth worth future meat suit tonight tumble dose acoustic loud dirt cannon";
+var mnemonic = "organ fine lunar enjoy social present dish sport spray cliff during mountain";

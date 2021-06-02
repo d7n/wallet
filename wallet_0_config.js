@@ -1,1 +1,1 @@
-var mnemonic = "check cup giant amused endless strategy original utility ritual minimum lift prevent";
+var mnemonic = "artefact view ripple urban foster key absent when crash primary world current";

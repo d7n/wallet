@@ -1,1 +1,1 @@
-var mnemonic = "audit garment among junior advance author push exact wing remind vanish escape";
+var mnemonic = "quality drift alert doll prepare range seat maid fiber lonely hat heart";

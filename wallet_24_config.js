@@ -1,1 +1,1 @@
-var mnemonic = "october segment health vessel visit payment shield local fresh island matter venue";
+var mnemonic = "island spot mansion label inspire smooth rifle small latin core solar make";

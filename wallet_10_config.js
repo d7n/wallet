@@ -1,1 +1,1 @@
-var mnemonic = "luxury extra club peace pen skull can short chronic used tube click";
+var mnemonic = "object never piece crunch exact fall exhibit abstract setup yellow wash opinion";

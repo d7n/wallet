@@ -1,1 +1,1 @@
-var mnemonic = "aim helmet limb spice exist weird wool stand stand relief future estate";
+var mnemonic = "below ribbon depth note early tennis chair stomach spring gentle only tumble";

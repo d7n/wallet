@@ -1,1 +1,1 @@
-var mnemonic = "nuclear window hair plunge soda history visit wise notable ketchup buzz rhythm";
+var mnemonic = "pledge swift lyrics awful wrestle blouse snack uncle sponsor prison unhappy reform";

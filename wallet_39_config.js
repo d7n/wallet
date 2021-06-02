@@ -1,1 +1,1 @@
-var mnemonic = "oak begin bamboo vivid endless market teach now absorb put fall creek";
+var mnemonic = "ribbon cover retire crucial sphere spider dad canvas margin arena invite utility";

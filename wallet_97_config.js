@@ -1,1 +1,1 @@
-var mnemonic = "mimic close trust vacant shaft cheap art key want wing giggle segment";
+var mnemonic = "action stable clown abstract lens miss survey kitten current art noise angry";

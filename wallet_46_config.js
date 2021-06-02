@@ -1,1 +1,1 @@
-var mnemonic = "tooth average action trade faculty plate cook pair foster chapter rose shock";
+var mnemonic = "member polar logic admit learn loyal liberty glow mouse volume trade honey";

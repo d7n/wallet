@@ -1,1 +1,1 @@
-var mnemonic = "judge witness crucial museum task candy perfect replace gravity program unit surprise";
+var mnemonic = "hope clog thunder also occur love model rally save report multiply flame";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin island cushion board delay upgrade pass keen frozen cube major senior";
+var mnemonic = "naive raccoon pudding fury rate nominee code rain sauce wrong session learn";
