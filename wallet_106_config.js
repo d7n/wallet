@@ -1,1 +1,1 @@
-var mnemonic = "lock speak traffic magic lunar apple beach unhappy tonight veteran idea side";
+var mnemonic = "vessel valid script edge dragon apple size keen box melody vintage match";

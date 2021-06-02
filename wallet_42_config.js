@@ -1,1 +1,1 @@
-var mnemonic = "diagram actual sock sail video federal retire wide outside cousin depth heart";
+var mnemonic = "blossom scatter list same seminar parade top approve sunset secret vehicle mango";

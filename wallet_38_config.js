@@ -1,1 +1,1 @@
-var mnemonic = "fire space joy taxi ball cook card paddle soda credit parrot ranch";
+var mnemonic = "glow share mandate tissue economy elite quit blue write spell excess unique";

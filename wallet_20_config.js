@@ -1,1 +1,1 @@
-var mnemonic = "circle topic warrior verb kitten collect pluck often toss supreme adult exit";
+var mnemonic = "arch finish swim you stadium paddle ancient high flower custom hotel entry";

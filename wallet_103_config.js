@@ -1,1 +1,1 @@
-var mnemonic = "material rubber hammer awake device obscure whip code rude dutch magic biology";
+var mnemonic = "soup wait reward diesel gadget tree piece replace electric ozone bonus inject";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder excess cram cherry input blade list exist tuition supreme sad angle";
+var mnemonic = "host derive year either sheriff phone pink voyage behind tide harsh salmon";

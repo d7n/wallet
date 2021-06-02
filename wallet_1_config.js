@@ -1,1 +1,1 @@
-var mnemonic = "exit want area fringe smile menu machine erase hard sword supply cool";
+var mnemonic = "sister worry process monitor punch buddy festival until survey piece swap simple";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap inherit celery head boss tooth clever apple praise dwarf bean pink";
+var mnemonic = "horn panther flame fatigue shine grunt unique end educate winner actor supreme";

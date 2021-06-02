@@ -1,1 +1,1 @@
-var mnemonic = "mammal defy board box fee grunt rule access friend inner pizza venue";
+var mnemonic = "appear parade garbage coconut special siege onion bundle soccer valley feature pact";

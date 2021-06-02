@@ -1,1 +1,1 @@
-var mnemonic = "below ribbon depth note early tennis chair stomach spring gentle only tumble";
+var mnemonic = "clip only cotton sand knee abandon foam grid right gallery elite cross";

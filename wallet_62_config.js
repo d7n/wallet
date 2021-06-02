@@ -1,1 +1,1 @@
-var mnemonic = "ribbon debate more shine fantasy short convince toilet toy catch two boy";
+var mnemonic = "fly relax father submit very priority club panther crash access panther hole";

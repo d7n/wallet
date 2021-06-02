@@ -1,1 +1,1 @@
-var mnemonic = "car shock symptom mountain ramp crater ribbon same goat appear plastic town";
+var mnemonic = "vital mobile leaf urban tornado measure car calm target better cost elbow";

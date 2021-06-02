@@ -1,1 +1,1 @@
-var mnemonic = "cause essay elder common camp ceiling army plate report course kid slim";
+var mnemonic = "lucky welcome fury wrestle wide verb dove cannon stairs extend earth patch";

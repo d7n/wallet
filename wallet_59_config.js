@@ -1,1 +1,1 @@
-var mnemonic = "car relax obey shine slide rabbit grass able term rural section slice";
+var mnemonic = "fine fury surface dish legend flight super return orchard custom industry visit";

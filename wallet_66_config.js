@@ -1,1 +1,1 @@
-var mnemonic = "naive raccoon pudding fury rate nominee code rain sauce wrong session learn";
+var mnemonic = "tooth repair warm canvas obscure kitten hood dinner happy century pony degree";

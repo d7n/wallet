@@ -1,1 +1,1 @@
-var mnemonic = "obtain thank organ clarify work method crisp garbage six enlist achieve grow";
+var mnemonic = "table jewel proud borrow shield patrol fee market away execute hour dumb";

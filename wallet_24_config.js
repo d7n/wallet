@@ -1,1 +1,1 @@
-var mnemonic = "island spot mansion label inspire smooth rifle small latin core solar make";
+var mnemonic = "hunt woman ask notice flower wagon scrap soon view ozone three mandate";

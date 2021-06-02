@@ -1,1 +1,1 @@
-var mnemonic = "wise sad kidney index zebra remind tomato waste artefact misery badge exhaust";
+var mnemonic = "pear beach decline discover beyond frown south inside expose bacon walnut render";

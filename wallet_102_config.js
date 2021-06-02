@@ -1,1 +1,1 @@
-var mnemonic = "shoe energy group help armed trophy episode brave diet trumpet bamboo point";
+var mnemonic = "air perfect soda metal cable call unable honey involve snack century agent";

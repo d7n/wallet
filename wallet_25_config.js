@@ -1,1 +1,1 @@
-var mnemonic = "disease clever nest december network leopard help snack swim crumble chapter gauge";
+var mnemonic = "promote thunder dutch begin roof clip brief garage swing diet potato sight";

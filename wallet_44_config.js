@@ -1,1 +1,1 @@
-var mnemonic = "trust kitten famous obvious index alone tobacco enroll poem knife stumble pull";
+var mnemonic = "bronze biology equal food weather work harsh dinosaur carpet normal brown wing";

@@ -1,1 +1,1 @@
-var mnemonic = "action stable clown abstract lens miss survey kitten current art noise angry";
+var mnemonic = "pilot involve divide wage portion chapter attract remove embrace deal ability trip";

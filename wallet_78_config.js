@@ -1,1 +1,1 @@
-var mnemonic = "rule cycle kite program burger morning wait kidney draw brain shock action";
+var mnemonic = "left poem oblige chuckle swing swim trust pulse shoulder toss wasp cereal";

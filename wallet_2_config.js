@@ -1,1 +1,1 @@
-var mnemonic = "embrace fancy shy color athlete cupboard resemble analyst box fiction disorder icon";
+var mnemonic = "give name step south little crack mom clerk distance pistol recall burger";

@@ -1,1 +1,1 @@
-var mnemonic = "curious seminar hover pen firm pistol fossil unveil reduce village setup mushroom";
+var mnemonic = "galaxy tenant salad razor attend base series pink law desert banner sudden";

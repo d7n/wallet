@@ -1,1 +1,1 @@
-var mnemonic = "when mandate detect couple company laptop ancient fly shove south alert wood";
+var mnemonic = "win figure lumber illegal speed behind material slush view fence reason stamp";

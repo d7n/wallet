@@ -1,1 +1,1 @@
-var mnemonic = "rice ready breeze pen unfair goddess refuse proof absent chair energy agree";
+var mnemonic = "hobby envelope inside coyote town kitten exile disagree machine cry entry job";

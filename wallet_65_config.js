@@ -1,1 +1,1 @@
-var mnemonic = "machine virtual first course question climb beyond boat custom decrease social layer";
+var mnemonic = "into crash jungle month analyst onion tail emotion army jewel flower glory";

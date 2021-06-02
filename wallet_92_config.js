@@ -1,1 +1,1 @@
-var mnemonic = "patrol economy cereal tennis enter inmate canvas ripple skin popular science twelve";
+var mnemonic = "total human visual melody return tool trim around pattern conduct glory seven";

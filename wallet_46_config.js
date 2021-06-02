@@ -1,1 +1,1 @@
-var mnemonic = "member polar logic admit learn loyal liberty glow mouse volume trade honey";
+var mnemonic = "drift midnight access lake angry satisfy demand shrug item ride impact monkey";

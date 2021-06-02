@@ -1,1 +1,1 @@
-var mnemonic = "exclude disorder situate coast pig bundle reward grow install rookie organ jump";
+var mnemonic = "limb hawk brain family member jaguar question aisle quiz hunt taxi lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "best atom opinion tape beach omit round kidney garment lottery eight ticket";
+var mnemonic = "turtle panther wing gather hurry noble raise pass erupt hole mammal hip";

@@ -1,1 +1,1 @@
-var mnemonic = "object never piece crunch exact fall exhibit abstract setup yellow wash opinion";
+var mnemonic = "half leader fresh bar possible layer meadow blossom unlock become raven people";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder rival coin tray cost awful twelve powder danger concert soda pave";
+var mnemonic = "reopen rent pioneer crime venture stick gather claim bargain shaft accuse rural";

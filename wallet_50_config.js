@@ -1,1 +1,1 @@
-var mnemonic = "ripple text few close butter fiction average stable express merge daring wait";
+var mnemonic = "habit medal person resist boil shoot charge celery diamond voyage hen swap";

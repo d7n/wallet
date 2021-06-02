@@ -1,1 +1,1 @@
-var mnemonic = "mother exhaust globe van suspect people inflict long camera car over donate";
+var mnemonic = "solar renew fragile north town goat fortune false ticket gravity catalog lonely";

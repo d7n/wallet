@@ -1,1 +1,1 @@
-var mnemonic = "column pear order apple eager victory trip learn gentle path magnet orange";
+var mnemonic = "lemon day found vivid actor ghost banner ghost elevator famous season spell";

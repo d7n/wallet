@@ -1,1 +1,1 @@
-var mnemonic = "walnut runway movie crew popular surprise piece basic aisle helmet trumpet spatial";
+var mnemonic = "kick inner narrow must lab grit abuse shoe april elite gentle relief";

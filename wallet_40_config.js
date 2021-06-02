@@ -1,1 +1,1 @@
-var mnemonic = "symptom else grunt mushroom joke ocean bomb spray cube front train gas";
+var mnemonic = "hospital excess tip weekend shoe client toddler twice traffic daughter flavor thunder";

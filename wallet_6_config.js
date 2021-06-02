@@ -1,1 +1,1 @@
-var mnemonic = "family plate crawl century buyer lens ceiling hill jeans evidence setup march";
+var mnemonic = "scout check sun impose control file stick pitch kiwi quarter tortoise angry";

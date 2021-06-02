@@ -1,1 +1,1 @@
-var mnemonic = "latin smile limit prosper help breeze spring jelly fix walnut supreme harvest";
+var mnemonic = "wire shallow misery garment offer fragile toward apple owner kiwi pupil old";

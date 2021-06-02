@@ -1,1 +1,1 @@
-var mnemonic = "chronic turtle match organ shiver report hello farm mother word horn milk";
+var mnemonic = "mechanic print soon orient zoo convince random column jewel deputy kidney about";

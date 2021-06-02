@@ -1,1 +1,1 @@
-var mnemonic = "thing witness garden tornado call gate aware super hard tenant picture train";
+var mnemonic = "rain volume wine enable dilemma illegal argue beauty banana marriage right typical";

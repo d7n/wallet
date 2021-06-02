@@ -1,1 +1,1 @@
-var mnemonic = "cheap news crumble cook ozone disorder swallow lounge sibling sugar motion follow";
+var mnemonic = "logic congress panda system naive panic obey point scorpion screen silver series";

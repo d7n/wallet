@@ -1,1 +1,1 @@
-var mnemonic = "try flush boat enemy lock fog admit betray address knife wet again";
+var mnemonic = "biology enlist master second vacuum fabric cup olympic ahead stand pond conduct";

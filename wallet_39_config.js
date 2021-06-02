@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cover retire crucial sphere spider dad canvas margin arena invite utility";
+var mnemonic = "fiber mechanic upset riot practice pink banner since cable thrive genius donor";

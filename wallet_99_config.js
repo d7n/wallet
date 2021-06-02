@@ -1,1 +1,1 @@
-var mnemonic = "rule begin ranch fine private west govern unable market gauge broccoli city";
+var mnemonic = "arrest predict find kitchen close quiz jelly alcohol heart crumble game that";

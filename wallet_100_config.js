@@ -1,1 +1,1 @@
-var mnemonic = "obscure leaf clump letter bread video erode lake melody chronic dwarf wagon";
+var mnemonic = "conduct wide require nation drastic radar horse viable fiber siren charge spoon";

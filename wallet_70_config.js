@@ -1,1 +1,1 @@
-var mnemonic = "actual music ship echo offer volume submit major cheap usual stairs fortune";
+var mnemonic = "army craft mean wrestle special fox spatial episode scorpion barrel salon turtle";

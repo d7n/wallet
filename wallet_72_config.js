@@ -1,1 +1,1 @@
-var mnemonic = "copy eight begin defense monkey flower color setup bread deliver collect legal";
+var mnemonic = "stereo noble position tent couch genre mad joy skate child mechanic adapt";

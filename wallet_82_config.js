@@ -1,1 +1,1 @@
-var mnemonic = "fun powder blast image reduce armed quote buffalo provide seminar seminar angry";
+var mnemonic = "body casino earn pitch garlic clap weasel chest tag clinic concert session";

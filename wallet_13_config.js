@@ -1,1 +1,1 @@
-var mnemonic = "quiz much alone sad method banner inch broom detect syrup silk flag";
+var mnemonic = "glare soldier nation disagree remain permit oppose pattern range coach upon story";

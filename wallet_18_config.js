@@ -1,1 +1,1 @@
-var mnemonic = "runway genius capable tonight afford outdoor warm mention note outer render sock";
+var mnemonic = "image nothing adapt pear fortune erase check just ginger custom edge denial";

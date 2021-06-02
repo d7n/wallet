@@ -1,1 +1,1 @@
-var mnemonic = "artefact view ripple urban foster key absent when crash primary world current";
+var mnemonic = "gold conduct sentence six repeat miracle real since parrot offer enroll boil";

@@ -1,1 +1,1 @@
-var mnemonic = "decide flight gap avoid budget vibrant balcony smoke music legal title spend";
+var mnemonic = "sort wash father royal certain nature brand similar vapor dilemma behave renew";

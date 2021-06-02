@@ -1,1 +1,1 @@
-var mnemonic = "slush power sun payment hobby unveil hotel consider acoustic abandon lens equal";
+var mnemonic = "license clog spring orient dune apple relax slender suspect hole pistol return";

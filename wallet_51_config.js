@@ -1,1 +1,1 @@
-var mnemonic = "toilet great dilemma village comic various nothing identify stuff harsh marine impose";
+var mnemonic = "surprise uncover edge fish video fiscal gentle spatial click pilot public rally";

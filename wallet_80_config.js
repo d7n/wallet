@@ -1,1 +1,1 @@
-var mnemonic = "token depart exotic first couple lemon erase strike success require route must";
+var mnemonic = "seed thunder insect eye sunny unhappy parrot key cover original drip climb";

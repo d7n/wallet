@@ -1,1 +1,1 @@
-var mnemonic = "cupboard play resource key aisle hockey axis mix scatter spray warm need";
+var mnemonic = "kiss quote screen phone rug deal hire firm close north banana egg";

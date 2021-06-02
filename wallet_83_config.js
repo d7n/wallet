@@ -1,1 +1,1 @@
-var mnemonic = "rack because mother coach that absorb shock mimic stool juice cradle ski";
+var mnemonic = "domain game viable wreck patient lecture write predict situate energy wedding black";

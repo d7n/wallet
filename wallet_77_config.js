@@ -1,1 +1,1 @@
-var mnemonic = "waste riot dolphin sun problem upon brother avoid chuckle speed rifle flock";
+var mnemonic = "moment achieve mom click cream tobacco stuff resist borrow depth face husband";

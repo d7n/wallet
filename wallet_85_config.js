@@ -1,1 +1,1 @@
-var mnemonic = "between ceiling certain kind giggle glove rally kid spray gold purpose orphan";
+var mnemonic = "infant rocket tiny leader escape assume gorilla speed creek ride alley hurry";

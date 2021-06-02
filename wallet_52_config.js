@@ -1,1 +1,1 @@
-var mnemonic = "divorce table pen injury bless spoil hazard flock subject light ill penalty";
+var mnemonic = "cherry hazard coral discover belt argue friend want bar announce clerk upper";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi boy grit purchase fall endorse hollow tobacco stove rack apple rely";
+var mnemonic = "impulse dry giggle public strong today scorpion evolve visa song miracle decrease";

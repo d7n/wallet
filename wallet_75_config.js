@@ -1,1 +1,1 @@
-var mnemonic = "hope clog thunder also occur love model rally save report multiply flame";
+var mnemonic = "economy color goddess grit crater ecology hedgehog violin will law borrow uncover";

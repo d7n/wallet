@@ -1,1 +1,1 @@
-var mnemonic = "rotate kit rapid lonely crumble notable belt forget mango snack can push";
+var mnemonic = "novel they coral priority method junior frequent region cost tonight among frozen";

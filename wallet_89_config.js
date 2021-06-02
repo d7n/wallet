@@ -1,1 +1,1 @@
-var mnemonic = "fat cattle eternal solar oval carpet wife clock upset reduce art fade";
+var mnemonic = "beauty minor assume weasel require humor wait repeat budget work service vacuum";

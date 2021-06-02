@@ -1,1 +1,1 @@
-var mnemonic = "between matter judge chef wisdom cigar awake impulse settle lecture juice three";
+var mnemonic = "kiwi trick purchase patient detail explain long leader connect animal physical muffin";

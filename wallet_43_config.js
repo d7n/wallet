@@ -1,1 +1,1 @@
-var mnemonic = "sibling employ rare lyrics emotion spatial bleak rule unknown powder update crop";
+var mnemonic = "solution laptop grocery quality gift subway athlete enact select green life cliff";

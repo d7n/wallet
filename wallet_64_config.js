@@ -1,1 +1,1 @@
-var mnemonic = "document rain identify absorb situate rose under indoor fault clump detail act";
+var mnemonic = "lab ivory cousin view book sample noble arena stereo caught lady monkey";

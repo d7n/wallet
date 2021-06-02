@@ -1,1 +1,1 @@
-var mnemonic = "again weekend thrive spy notice nest human wealth normal insect any cluster";
+var mnemonic = "spell project manual occur tumble crash debate route toast rabbit world inflict";

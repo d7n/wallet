@@ -1,1 +1,1 @@
-var mnemonic = "still mix grab police violin novel indicate miss sure radio glory wear";
+var mnemonic = "sister cream target shiver include zoo travel beyond group dawn outside sauce";

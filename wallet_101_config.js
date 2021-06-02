@@ -1,1 +1,1 @@
-var mnemonic = "year ribbon love shrimp loud inhale fish swift world brain cushion camp";
+var mnemonic = "rebuild female exact supreme feel shoe stone humor wink bone stomach asset";

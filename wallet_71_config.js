@@ -1,1 +1,1 @@
-var mnemonic = "review noise term allow grace hundred energy poet foil danger slogan next";
+var mnemonic = "school coyote rotate border head census supreme daring art asthma era flavor";

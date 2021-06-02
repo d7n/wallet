@@ -1,1 +1,1 @@
-var mnemonic = "velvet piano broken simple method tongue century curve much prosper dutch long";
+var mnemonic = "front radio teach giggle logic crush estate silk skill canyon main pitch";

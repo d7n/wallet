@@ -1,1 +1,1 @@
-var mnemonic = "notice fiber climb fire used early art ignore doctor name fresh wet";
+var mnemonic = "net switch table media buddy mixed since miss crane name oxygen distance";

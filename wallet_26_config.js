@@ -1,1 +1,1 @@
-var mnemonic = "educate hello scrap steel country door remain detect puzzle flight ozone range";
+var mnemonic = "core spatial disease genre material brand physical token polar physical track accident";

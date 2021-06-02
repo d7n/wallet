@@ -1,1 +1,1 @@
-var mnemonic = "crisp welcome client wave verify century call phone bench question latin mystery";
+var mnemonic = "ability glory horse zebra wise thrive search game rural lava cream gorilla";

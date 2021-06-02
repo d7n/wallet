@@ -1,1 +1,1 @@
-var mnemonic = "material loyal divert sniff relax boil practice arch level joy treat ignore";
+var mnemonic = "antique old cereal spring inherit renew spin expect silver trade blood feel";

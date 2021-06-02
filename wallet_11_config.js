@@ -1,1 +1,1 @@
-var mnemonic = "laundry pyramid describe turtle current amused dolphin close grape forest express spot";
+var mnemonic = "laugh gym salt blossom road bubble muffin symptom road ensure trend dwarf";

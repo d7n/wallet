@@ -1,1 +1,1 @@
-var mnemonic = "organ fine lunar enjoy social present dish sport spray cliff during mountain";
+var mnemonic = "differ monkey region happy right amount correct permit region assume orchard odor";

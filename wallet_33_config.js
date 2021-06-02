@@ -1,1 +1,1 @@
-var mnemonic = "wonder reward visa human various vote attract unlock same wheat distance among";
+var mnemonic = "hill trial zebra goddess merit blossom scout major paddle settle maximum harsh";

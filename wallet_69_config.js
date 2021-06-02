@@ -1,1 +1,1 @@
-var mnemonic = "answer glue tag switch amazing media room token slender strike winter cage";
+var mnemonic = "oxygen jump relax embrace spatial behind author brown dentist battle suffer bulk";

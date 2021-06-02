@@ -1,1 +1,1 @@
-var mnemonic = "creek sick current device hollow celery buddy hundred spirit book solar banner";
+var mnemonic = "output idea enough ankle gain invest piece three leisure prepare mother review";

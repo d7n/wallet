@@ -1,1 +1,1 @@
-var mnemonic = "pledge swift lyrics awful wrestle blouse snack uncle sponsor prison unhappy reform";
+var mnemonic = "woman rebuild endorse slab forget elegant exhaust develop burden spot skirt oil";

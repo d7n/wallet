@@ -1,1 +1,1 @@
-var mnemonic = "cross below hamster will inflict sting cabbage enter fold essay smoke minute";
+var mnemonic = "distance mandate below pumpkin person rain traffic aim hair report door sadness";

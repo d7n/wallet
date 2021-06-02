@@ -1,1 +1,1 @@
-var mnemonic = "decorate defense canvas orient slot orchard gospel panic iron oblige weekend mutual";
+var mnemonic = "throw logic bronze crystal lawn combine choose sadness come cradle stomach tornado";
