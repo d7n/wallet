@@ -1,1 +1,1 @@
-var mnemonic = "margin wild cash swamp recycle scrap wing evil wrist gown advance chief";
+var mnemonic = "hero blame winter gather hospital order you patient holiday few muffin jazz";

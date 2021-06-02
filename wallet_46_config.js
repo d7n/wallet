@@ -1,1 +1,1 @@
-var mnemonic = "advance episode company drink hobby hire menu hip system coconut fork vocal";
+var mnemonic = "myth mandate source iron ribbon walk ramp arrive never toss jewel flip";

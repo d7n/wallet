@@ -1,1 +1,1 @@
-var mnemonic = "parrot mixture defy solid canoe carbon milk sound oil crash farm echo";
+var mnemonic = "penalty ahead season stereo list medal planet stem tongue gown style popular";

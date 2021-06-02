@@ -1,1 +1,1 @@
-var mnemonic = "double mystery sheriff census eyebrow tomorrow alcohol that hospital mesh useful loop";
+var mnemonic = "blouse shell dwarf muffin blanket help friend cluster boring citizen fatal left";

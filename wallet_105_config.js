@@ -1,1 +1,1 @@
-var mnemonic = "dynamic story lyrics where emerge method tip bacon film mango gain report";
+var mnemonic = "whip shallow width wrestle erosion catalog loan virus vanish symbol monster cry";

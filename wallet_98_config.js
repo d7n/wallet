@@ -1,1 +1,1 @@
-var mnemonic = "front dizzy jazz shock picnic powder supply regular movie casual hamster donate";
+var mnemonic = "credit symptom razor glance diet company decade solve merit raw connect between";

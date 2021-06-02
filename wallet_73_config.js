@@ -1,1 +1,1 @@
-var mnemonic = "shaft all core catalog cable burden fury bright miss spell sport race";
+var mnemonic = "era shoot grape rib eight gun deer globe strong wash infant trust";

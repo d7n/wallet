@@ -1,1 +1,1 @@
-var mnemonic = "humble flag clog trend dust behind height giant material panther join broccoli";
+var mnemonic = "tattoo wrestle atom mean cute burger cinnamon wife add notable swear stock";

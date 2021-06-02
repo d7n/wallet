@@ -1,1 +1,1 @@
-var mnemonic = "awesome diary detail napkin finish enhance dwarf uphold sentence lyrics income earth";
+var mnemonic = "limb same spider essay jeans version blood swear toilet scene catalog pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "slight group neck crunch miss inquiry crazy camp mirror card dad frown";
+var mnemonic = "father sail tip skate release margin nuclear slender firm predict local amateur";

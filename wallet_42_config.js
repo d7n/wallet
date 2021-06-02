@@ -1,1 +1,1 @@
-var mnemonic = "car silver female table solve chapter cave build pact ceiling morning kangaroo";
+var mnemonic = "chest organ narrow wheat file punch brother lonely soldier blade term crime";

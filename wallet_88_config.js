@@ -1,1 +1,1 @@
-var mnemonic = "search notice globe tube join cloth emotion crew helmet cousin miracle energy";
+var mnemonic = "nation lawn pyramid sponsor tennis cage quality clever learn someone total gas";

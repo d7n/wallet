@@ -1,1 +1,1 @@
-var mnemonic = "still buddy noble remain deputy swallow coin glad prevent below hurry puppy";
+var mnemonic = "enhance breeze leisure cream gather rally gadget sad asset flight monster gloom";

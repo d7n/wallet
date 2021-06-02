@@ -1,1 +1,1 @@
-var mnemonic = "test around bus icon total wasp local dentist recipe naive output secret";
+var mnemonic = "clog sign kiss banner paper hint phone village prize entry subject coconut";

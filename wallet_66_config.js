@@ -1,1 +1,1 @@
-var mnemonic = "various lonely bus duty item business liquid about sting faint ceiling average";
+var mnemonic = "pool story duck music bar poem cabin pulse depart pass emotion dirt";

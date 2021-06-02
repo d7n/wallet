@@ -1,1 +1,1 @@
-var mnemonic = "gentle borrow jacket garbage mass stairs gentle broken ripple image ski chalk";
+var mnemonic = "autumn life disorder soccer harsh surface bread toward industry solve either movie";

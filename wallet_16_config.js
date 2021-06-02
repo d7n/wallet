@@ -1,1 +1,1 @@
-var mnemonic = "aisle pact afford voice rural seat high youth admit album fame taxi";
+var mnemonic = "track acquire valve song notice aisle sign lazy gossip tissue pluck beyond";

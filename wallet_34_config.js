@@ -1,1 +1,1 @@
-var mnemonic = "walnut into organ deer doctor myself beach enemy captain struggle raven open";
+var mnemonic = "female route minimum popular inner drip spirit such pyramid casino expect mango";

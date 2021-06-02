@@ -1,1 +1,1 @@
-var mnemonic = "reopen cushion south raccoon avoid athlete already antique alpha heart figure slow";
+var mnemonic = "victory switch act coyote canvas image hip soap august baby million bachelor";

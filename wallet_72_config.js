@@ -1,1 +1,1 @@
-var mnemonic = "forward rice bulk elevator vivid blood wrestle search erode year drive galaxy";
+var mnemonic = "attack armor apple pudding shaft patrol portion quote display kangaroo coconut climb";

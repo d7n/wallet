@@ -1,1 +1,1 @@
-var mnemonic = "ankle like claw tomato plate general convince nose duty apology air bulb";
+var mnemonic = "skirt trouble laundry review thing average ticket mammal uphold ill jewel sketch";

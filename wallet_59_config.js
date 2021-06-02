@@ -1,1 +1,1 @@
-var mnemonic = "symptom indoor assume syrup spell sustain winner either auto song volcano category";
+var mnemonic = "old list mesh wonder appear pact cake erase screen bomb brain actress";

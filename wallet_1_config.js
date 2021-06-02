@@ -1,1 +1,1 @@
-var mnemonic = "mix shed dawn cupboard shuffle supply school bulb visa mass essence phone";
+var mnemonic = "magnet issue grab catalog uncover shuffle rookie solution logic mirror entire tonight";

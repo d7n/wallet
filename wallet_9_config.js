@@ -1,1 +1,1 @@
-var mnemonic = "orange animal ridge task off rich hotel woman have digital attract film";
+var mnemonic = "acid deny reveal duck december ill all path radio recycle regret throw";

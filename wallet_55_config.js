@@ -1,1 +1,1 @@
-var mnemonic = "symbol truth hint clap call inspire inside guess hint offer thrive naive";
+var mnemonic = "tower frog video vessel pink blood jump aunt fan delay alpha ask";

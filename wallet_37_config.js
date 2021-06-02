@@ -1,1 +1,1 @@
-var mnemonic = "push blind shove borrow arrive fluid lamp include satisfy economy drink promote";
+var mnemonic = "employ slide bid forget elegant ability blade pioneer profit apart good usage";

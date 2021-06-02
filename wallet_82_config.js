@@ -1,1 +1,1 @@
-var mnemonic = "minute pistol cool explain audit pull girl alter winter soft ahead east";
+var mnemonic = "home above scheme opinion toy sugar destroy find present destroy champion fetch";

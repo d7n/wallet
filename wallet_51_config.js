@@ -1,1 +1,1 @@
-var mnemonic = "tissue biology wonder shrimp sunset census salute blood crumble fancy say twist";
+var mnemonic = "merry mass rich oven craft gallery raw bike flip scale behind amused";

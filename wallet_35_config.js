@@ -1,1 +1,1 @@
-var mnemonic = "robust hundred fly image purchase caution census dinosaur nothing aisle power moment";
+var mnemonic = "total digital this salad clown symbol hospital skill defy arrive wave attack";

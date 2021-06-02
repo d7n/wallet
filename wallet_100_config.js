@@ -1,1 +1,1 @@
-var mnemonic = "leaf spring artwork auction afford modify clever smile miracle spike grow east";
+var mnemonic = "kitchen lion cousin relief system still effort program idle security tiny jealous";

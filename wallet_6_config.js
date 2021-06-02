@@ -1,1 +1,1 @@
-var mnemonic = "belt fix evoke wasp canal electric elite snap link cricket remain vivid";
+var mnemonic = "enough nominee banana wear maid cat flee swift august quarter shift barely";

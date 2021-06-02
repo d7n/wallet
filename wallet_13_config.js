@@ -1,1 +1,1 @@
-var mnemonic = "hope antique artwork crater scrap paddle entire matter expect coach carpet client";
+var mnemonic = "used joy cotton bird post tooth twin hybrid draft then motion turn";

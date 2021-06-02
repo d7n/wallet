@@ -1,1 +1,1 @@
-var mnemonic = "tip consider insect adult shock cat inhale fun volcano breeze hunt account";
+var mnemonic = "card filter adult domain mercy typical best select exact improve laundry adapt";

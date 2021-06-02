@@ -1,1 +1,1 @@
-var mnemonic = "husband wonder logic popular dutch avocado remove palm cage sing raven inject";
+var mnemonic = "another come useful toss creek purity butter theme issue emotion rely scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "supply drop stuff pause else elder outer spatial survey forum rifle lumber";
+var mnemonic = "police seminar bone scan write universe lonely whisper latin distance party useful";

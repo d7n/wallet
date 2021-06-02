@@ -1,1 +1,1 @@
-var mnemonic = "pave estate taste snack industry vapor ketchup glance tribe palm wood alcohol";
+var mnemonic = "height inform gap purchase you job leg kiwi piece cross bag notice";

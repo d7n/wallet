@@ -1,1 +1,1 @@
-var mnemonic = "evil ride rival forward slender donate solid shrug iron palace guide warm";
+var mnemonic = "onion denial sphere speak tornado six faint hero almost message render glass";

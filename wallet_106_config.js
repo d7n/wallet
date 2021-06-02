@@ -1,1 +1,1 @@
-var mnemonic = "pigeon endless library cliff emotion coyote purity cheap awake enhance blast stage";
+var mnemonic = "song silly next damp argue ozone slogan scale huge palace forget render";

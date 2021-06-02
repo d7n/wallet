@@ -1,1 +1,1 @@
-var mnemonic = "grant cup ugly note entry follow electric nominee security steel pigeon also";
+var mnemonic = "disorder unable gasp frequent panic crunch winner promote juice enough jaguar team";

@@ -1,1 +1,1 @@
-var mnemonic = "wage since tree diary mixed island mesh hobby great cube kingdom settle";
+var mnemonic = "pact dash draft destroy gorilla stove catch wonder near craft village eight";

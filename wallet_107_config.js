@@ -1,1 +1,1 @@
-var mnemonic = "mercy utility stamp own dinner stool ramp street early category lottery soccer";
+var mnemonic = "wheel frog basic civil city awesome expand lake shiver layer hood stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "blood purse pizza gym federal blossom typical science loud author agent brown";
+var mnemonic = "wreck monitor cattle degree model blue sting team shuffle senior cushion juice";

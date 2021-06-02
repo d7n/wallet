@@ -1,1 +1,1 @@
-var mnemonic = "arrow approve ostrich pear knee voyage involve velvet cross lonely critic deliver";
+var mnemonic = "sword letter lottery dad someone reject monitor arrest balcony knee token author";

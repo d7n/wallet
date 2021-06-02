@@ -1,1 +1,1 @@
-var mnemonic = "gallery ritual impulse inner jar knee bike unknown jaguar seed little train";
+var mnemonic = "only march warm slush vote dawn glove dawn either extra vehicle acquire";

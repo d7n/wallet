@@ -1,1 +1,1 @@
-var mnemonic = "bread choice throw cost wet chalk drift resource save illegal jar vessel";
+var mnemonic = "parade decide cry action worry deny arena track short green void owner";

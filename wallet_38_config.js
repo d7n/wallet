@@ -1,1 +1,1 @@
-var mnemonic = "collect tree whisper coconut cargo decorate improve gate hurdle reform vault camera";
+var mnemonic = "auction arrest perfect elevator erase group play bike jeans pluck during north";

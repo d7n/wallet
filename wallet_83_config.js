@@ -1,1 +1,1 @@
-var mnemonic = "lonely garlic purity pear safe raccoon blade same yard impose tongue curve";
+var mnemonic = "shock nephew world else buddy parent wild report steak adult normal extend";

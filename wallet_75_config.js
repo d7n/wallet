@@ -1,1 +1,1 @@
-var mnemonic = "produce drip mutual print feel copper galaxy move mechanic mechanic offer broccoli";
+var mnemonic = "soup athlete parent analyst drive minor crime connect lawn ski conduct spy";

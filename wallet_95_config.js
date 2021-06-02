@@ -1,1 +1,1 @@
-var mnemonic = "weird sound unfair evolve junior pistol cattle inherit argue town cruise march";
+var mnemonic = "flower talent gorilla side such sock jar make office view lunch enhance";

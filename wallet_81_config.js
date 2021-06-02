@@ -1,1 +1,1 @@
-var mnemonic = "unlock network two toward group organ nature zoo mesh girl submit dutch";
+var mnemonic = "quiz disorder issue squirrel scheme marine kitchen orange rally once dad practice";

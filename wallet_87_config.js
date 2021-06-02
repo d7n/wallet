@@ -1,1 +1,1 @@
-var mnemonic = "april roof invite sleep gallery advance sphere cousin crater flavor warrior confirm";
+var mnemonic = "produce deny dream bid turkey knock climb this north foam cloth rubber";

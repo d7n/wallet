@@ -1,1 +1,1 @@
-var mnemonic = "onion ridge false push sock banana program misery viable spider race dish";
+var mnemonic = "exist grain feel august barrel elbow vanish burst vicious among inhale angry";

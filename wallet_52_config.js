@@ -1,1 +1,1 @@
-var mnemonic = "second used invest shuffle surround emotion ghost east gaze snap world mandate";
+var mnemonic = "tortoise rebel average inflict define toy sword nerve witness dash stairs film";

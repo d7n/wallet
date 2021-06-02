@@ -1,1 +1,1 @@
-var mnemonic = "dignity surround crisp major gentle impose ancient grab frost snake this exhibit";
+var mnemonic = "balance truth lecture spice smile pulse prosper dinosaur stumble amazing drip chronic";

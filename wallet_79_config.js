@@ -1,1 +1,1 @@
-var mnemonic = "prosper digital amazing buffalo culture dash photo aisle seed bunker bamboo deputy";
+var mnemonic = "fashion bright cushion horn old march leader target diet crack weather clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve human order copper flip hold paper shuffle media minimum wash gym";
+var mnemonic = "bridge impact kitten cruise dignity behave tornado gate now solve next cattle";

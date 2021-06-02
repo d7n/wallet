@@ -1,1 +1,1 @@
-var mnemonic = "process practice quarter deer always develop twelve acid crumble club unit fatigue";
+var mnemonic = "charge question ribbon maple credit slim ranch salmon reject method cycle slide";

@@ -1,1 +1,1 @@
-var mnemonic = "park apple cage family distance goat slice wish bacon run vessel pigeon";
+var mnemonic = "neck share cost capable color whisper iron train vintage delay outdoor false";

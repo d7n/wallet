@@ -1,1 +1,1 @@
-var mnemonic = "shift brother profit scissors napkin soon decorate club master setup pretty dismiss";
+var mnemonic = "junior tower early spend tail dice first dynamic warm neutral piano pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "asset neutral tuition design swear novel drive identify junior position depend traffic";
+var mnemonic = "hurdle gun rocket always plate skull curtain mountain grocery cherry pledge belt";

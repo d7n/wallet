@@ -1,1 +1,1 @@
-var mnemonic = "april income own stereo woman trade window sing rail wrap grid angry";
+var mnemonic = "allow tumble news evolve pink panther force cook pill empower ordinary what";

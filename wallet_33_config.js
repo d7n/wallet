@@ -1,1 +1,1 @@
-var mnemonic = "dove affair bird wife rather orange artwork detect fitness battle anchor raw";
+var mnemonic = "volume whisper boy decline valley three since kangaroo spin leave lamp swift";

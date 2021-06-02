@@ -1,1 +1,1 @@
-var mnemonic = "joke blouse obvious sudden talent clerk dignity already leisure melt saddle glove";
+var mnemonic = "coffee wave before flash stem celery adapt roast industry supreme tube glimpse";

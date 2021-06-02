@@ -1,1 +1,1 @@
-var mnemonic = "auction stone present motor fence street aim prize impose exist organ clock";
+var mnemonic = "eye lock mom this piece session draw relief spring fringe cancel vault";

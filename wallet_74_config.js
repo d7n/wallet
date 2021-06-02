@@ -1,1 +1,1 @@
-var mnemonic = "second accident faculty able hole wonder opera fire near seek buddy junk";
+var mnemonic = "junior roast timber tissue warrior clarify rhythm reduce gown economy harsh nurse";

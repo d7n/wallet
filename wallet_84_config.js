@@ -1,1 +1,1 @@
-var mnemonic = "avoid wheel method liberty regret stereo delay admit coin summer pig group";
+var mnemonic = "mandate title delay roof under addict urge online message trade first gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt derive blush sausage april engage lesson tenant absent consider exit exclude";
+var mnemonic = "fame coil cattle blame stay prosper gather brief food leg fault shop";

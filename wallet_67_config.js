@@ -1,1 +1,1 @@
-var mnemonic = "ostrich earn sunny much clay pony actual entry iron reveal exhaust write";
+var mnemonic = "lyrics evolve they muscle audit diary motion draw sketch goose city again";

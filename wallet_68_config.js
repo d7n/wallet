@@ -1,1 +1,1 @@
-var mnemonic = "build bicycle victory hawk appear legal bleak diagram captain walk cook kidney";
+var mnemonic = "easily dash drink believe grass security winner together jewel dragon include bicycle";

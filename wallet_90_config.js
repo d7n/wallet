@@ -1,1 +1,1 @@
-var mnemonic = "owner final reveal dial gym merge narrow expose result gas raccoon side";
+var mnemonic = "arrive whale glare twelve miracle run safe crunch glance skull gap dwarf";

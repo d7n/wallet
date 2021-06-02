@@ -1,1 +1,1 @@
-var mnemonic = "tree conduct coil mutual palm narrow monitor permit hundred steel whip poet";
+var mnemonic = "depart lawsuit menu poverty canal merry vibrant balance spread brick symbol artist";

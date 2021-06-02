@@ -1,1 +1,1 @@
-var mnemonic = "will roast squirrel visual sketch enrich dignity wear dream neck type awkward";
+var mnemonic = "bounce decline beauty nuclear wage slush goat load trend soccer goddess scale";

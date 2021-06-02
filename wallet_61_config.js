@@ -1,1 +1,1 @@
-var mnemonic = "ladder width cash donor shrug abandon chimney liberty recycle record purity drill";
+var mnemonic = "dwarf flag labor syrup course canoe easily find denial favorite seven glove";

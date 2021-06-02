@@ -1,1 +1,1 @@
-var mnemonic = "crime swarm okay dust field grant inch flag poet industry veteran stock";
+var mnemonic = "erode huge forget burger quiz dune panel nurse call syrup feel ecology";

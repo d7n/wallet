@@ -1,1 +1,1 @@
-var mnemonic = "slim recall throw swim dune kiss payment matter piece indoor exact rose";
+var mnemonic = "joke awesome foster eyebrow verb engine luxury clean horn two south sheriff";

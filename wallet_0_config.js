@@ -1,1 +1,1 @@
-var mnemonic = "exclude half fade embody much patch drastic pear snow march twelve toast";
+var mnemonic = "assist typical strong select dinner scan damp trouble forward tunnel ability now";

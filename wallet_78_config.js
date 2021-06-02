@@ -1,1 +1,1 @@
-var mnemonic = "distance auction gloom jar pass pyramid keen mule range apple warrior estate";
+var mnemonic = "reform neutral napkin more minimum birth soda since drift decade banner wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "student risk heavy million turkey bike insane foam strike gold wear smile";
+var mnemonic = "slide delay woman trend one inject diagram cushion curtain purchase ready electric";

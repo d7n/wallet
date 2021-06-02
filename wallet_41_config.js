@@ -1,1 +1,1 @@
-var mnemonic = "skate river danger safe harvest ivory snack vapor robust art salon enlist";
+var mnemonic = "doctor any decrease proof where club bulb toe dismiss clip stage fine";

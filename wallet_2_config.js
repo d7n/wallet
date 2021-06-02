@@ -1,1 +1,1 @@
-var mnemonic = "almost december weapon stuff scout tomato wealth design cross cable jaguar betray";
+var mnemonic = "castle roof burger hat tortoise between setup make october entire panther embark";

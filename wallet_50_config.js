@@ -1,1 +1,1 @@
-var mnemonic = "net april butter token rural animal movie yellow cannon report lock camera";
+var mnemonic = "dilemma barely memory disease feature brick crack pelican twice fitness iron multiply";

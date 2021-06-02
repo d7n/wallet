@@ -1,1 +1,1 @@
-var mnemonic = "sugar click way ten member famous sheriff anger dove divorce share valve";
+var mnemonic = "service zoo case pool entire memory blue jaguar smile cake metal analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic dirt clerk lecture fiscal dress east because exist brave category voice";
+var mnemonic = "now pact toast puzzle version solve again vapor whisper cool jeans apart";

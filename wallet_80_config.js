@@ -1,1 +1,1 @@
-var mnemonic = "obscure analyst garlic drip street adjust nice decorate taxi type another squeeze";
+var mnemonic = "network fossil easily error chronic broken anchor equip noodle dance tell gorilla";

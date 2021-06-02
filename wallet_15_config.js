@@ -1,1 +1,1 @@
-var mnemonic = "spend trip anger glimpse anchor illness empower together resemble fade possible pyramid";
+var mnemonic = "churn tent convince book impulse april employ economy powder brush crash capital";

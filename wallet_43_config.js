@@ -1,1 +1,1 @@
-var mnemonic = "remember melt draw surround remind plunge car symbol legal federal crawl crazy";
+var mnemonic = "dance fall alien maid hello brother card jungle mass panther food citizen";

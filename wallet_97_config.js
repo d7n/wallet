@@ -1,1 +1,1 @@
-var mnemonic = "noble truck material culture sock anxiety frozen unaware hello switch say grace";
+var mnemonic = "kid craft erode shop depth border crater spell write output chaos sustain";

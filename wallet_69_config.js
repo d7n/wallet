@@ -1,1 +1,1 @@
-var mnemonic = "else nasty glue excuse aspect derive push gas oval best expect blanket";
+var mnemonic = "era solid hub duck track plunge water flee heart large frog curtain";

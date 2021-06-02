@@ -1,1 +1,1 @@
-var mnemonic = "teach charge dawn torch age essence erase good pistol village endorse mirror";
+var mnemonic = "agree sheriff pencil pattern dutch path close bike step prosper dog naive";
