@@ -1,1 +1,1 @@
-var mnemonic = "pluck transfer trick mother still job dance rough benefit retire clump fabric";
+var mnemonic = "stumble dad setup rubber indoor sure gospel history fatigue begin reduce west";

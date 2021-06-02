@@ -1,1 +1,1 @@
-var mnemonic = "juice duty jewel detail emotion assume traffic keen album evoke illness battle";
+var mnemonic = "bleak obvious stove faint stage key injury patrol beyond track manual miracle";

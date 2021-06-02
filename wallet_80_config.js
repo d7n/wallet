@@ -1,1 +1,1 @@
-var mnemonic = "cradle exhibit reform rent approve loud abuse wage vessel gift enact mirror";
+var mnemonic = "vacuum ball lift fossil mom until cotton lounge route borrow return baby";

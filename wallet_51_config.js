@@ -1,1 +1,1 @@
-var mnemonic = "rack shock bus crystal fold surprise blame industry slush saddle hour merit";
+var mnemonic = "dinner mask episode dad run focus impact alcohol wrap change breeze pledge";

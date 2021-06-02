@@ -1,1 +1,1 @@
-var mnemonic = "gain glare scan anger step wheat clever believe belt until cave dirt";
+var mnemonic = "evolve maze end salad frequent link cube obscure seed staff visual effort";

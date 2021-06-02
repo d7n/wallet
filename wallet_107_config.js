@@ -1,1 +1,1 @@
-var mnemonic = "target exhaust earn valve victory orange atom thing luxury alley allow version";
+var mnemonic = "funny rule submit observe shrug super reduce example bicycle benefit often rely";

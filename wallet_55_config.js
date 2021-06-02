@@ -1,1 +1,1 @@
-var mnemonic = "kite risk pond grid guard sail chuckle actor shrug phrase unknown make";
+var mnemonic = "message blush market climb add cake pink scout pipe hospital enough junk";

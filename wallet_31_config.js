@@ -1,1 +1,1 @@
-var mnemonic = "sorry nest worth jar property move genuine gasp aspect evil health envelope";
+var mnemonic = "bounce allow settle make cook capital carry dentist marine job shoulder bus";

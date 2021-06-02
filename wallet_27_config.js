@@ -1,1 +1,1 @@
-var mnemonic = "baby control expand flock spirit street winner ship river carry much push";
+var mnemonic = "example diagram load merge safe sudden renew glimpse purity hollow wealth usual";

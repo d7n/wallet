@@ -1,1 +1,1 @@
-var mnemonic = "secret guard journey brass fatigue vacant sleep range polar lunar never twelve";
+var mnemonic = "duck pill add element honey smile slab argue program satisfy upgrade nasty";

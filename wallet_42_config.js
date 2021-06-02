@@ -1,1 +1,1 @@
-var mnemonic = "emotion learn tumble comfort risk best blame dune cart steak away warfare";
+var mnemonic = "educate awful radio tuna narrow hover decide increase child loud electric infant";

@@ -1,1 +1,1 @@
-var mnemonic = "famous firm major actual add giant lobster into achieve drip banana music";
+var mnemonic = "effort own ethics ghost twenty essence famous chair second unfold omit unusual";

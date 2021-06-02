@@ -1,1 +1,1 @@
-var mnemonic = "liberty aware gesture size clip lazy stamp erosion staff love bullet awkward";
+var mnemonic = "cheese soon script camera bus weird brain hybrid law vital music scrap";

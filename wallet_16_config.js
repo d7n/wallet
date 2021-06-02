@@ -1,1 +1,1 @@
-var mnemonic = "viable gorilla frown update paper inner jeans beauty other another grape grain";
+var mnemonic = "response you toward frog arrange benefit piano awesome exhaust region camera picnic";

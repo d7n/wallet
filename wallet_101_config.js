@@ -1,1 +1,1 @@
-var mnemonic = "swim badge basket wonder own uphold return quick giggle finger among panther";
+var mnemonic = "annual swing hire skirt middle double enough eye hurdle forward piece ketchup";

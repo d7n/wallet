@@ -1,1 +1,1 @@
-var mnemonic = "scene seat lounge apple eye pioneer head gadget earth tortoise galaxy sock";
+var mnemonic = "click broom jealous champion mean install chunk goose slender maximum auto fortune";

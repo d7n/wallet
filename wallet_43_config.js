@@ -1,1 +1,1 @@
-var mnemonic = "oxygen power fire debris whisper issue vessel potato elegant fragile vessel jaguar";
+var mnemonic = "trial silk disagree gift subject mixture sand lunch frame baby bacon pilot";

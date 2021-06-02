@@ -1,1 +1,1 @@
-var mnemonic = "honey subway rebel venture elite corn spoon document couch canvas online crunch";
+var mnemonic = "region describe off feature verb laugh ordinary duck okay mushroom stumble relax";

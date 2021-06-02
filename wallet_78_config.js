@@ -1,1 +1,1 @@
-var mnemonic = "circle anchor oil capital comfort birth habit elder source animal scorpion ceiling";
+var mnemonic = "wish require glove stem jazz shallow cream strategy drum merit copper drive";

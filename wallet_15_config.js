@@ -1,1 +1,1 @@
-var mnemonic = "noble wisdom father ensure quiz secret major style blue under travel maximum";
+var mnemonic = "mushroom crush brick roast latin miss typical ball mouse cattle oven diagram";

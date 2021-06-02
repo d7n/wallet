@@ -1,1 +1,1 @@
-var mnemonic = "swim true crunch fire involve employ silent zone cement alley mad minor";
+var mnemonic = "swap adapt path logic memory diary canvas tree collect shield dilemma tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "flat require lounge faint bind use judge hope hire fan replace pole";
+var mnemonic = "because other source pear page vivid alarm board such picnic filter nuclear";

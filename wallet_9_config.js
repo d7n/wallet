@@ -1,1 +1,1 @@
-var mnemonic = "prefer option victory grape flush cradle coconut defense glory replace lazy orphan";
+var mnemonic = "finish slogan distance rebuild educate trigger spawn oyster cage negative scene apple";

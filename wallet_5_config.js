@@ -1,1 +1,1 @@
-var mnemonic = "below film begin eight rare accident benefit october cave food century cream";
+var mnemonic = "tiny total neck purpose fun bulk bread village ivory access few own";

@@ -1,1 +1,1 @@
-var mnemonic = "club flat pair west super elevator melt knee exhibit frame boring quote";
+var mnemonic = "panda bonus dawn knee ocean paddle public speak gauge finish begin penalty";

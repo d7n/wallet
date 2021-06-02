@@ -1,1 +1,1 @@
-var mnemonic = "unfold box section inject blush exit warfare banner fade stick return laundry";
+var mnemonic = "print vague arrive source raven goat impulse weird laugh destroy afraid bottom";

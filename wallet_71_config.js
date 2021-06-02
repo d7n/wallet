@@ -1,1 +1,1 @@
-var mnemonic = "virtual flower blur crawl cruel bring paddle heart gun alarm ancient clever";
+var mnemonic = "parade clutch tool inspire spoon logic divorce bonus buzz detail maximum tail";

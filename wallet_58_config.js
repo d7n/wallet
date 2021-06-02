@@ -1,1 +1,1 @@
-var mnemonic = "enhance enough mosquito beach merry piece evolve upgrade obvious athlete coach chef";
+var mnemonic = "denial enemy example cattle wish sun hurry bid indicate panel pill job";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce indicate gather youth bachelor return girl issue assume execute slight that";
+var mnemonic = "april pilot float face juice common sheriff vault neglect sun naive sport";

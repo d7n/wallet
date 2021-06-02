@@ -1,1 +1,1 @@
-var mnemonic = "endorse enlist spoil mandate category patient hungry february kangaroo mirror zero nurse";
+var mnemonic = "place crawl drastic front brown input head puzzle logic rib try inflict";

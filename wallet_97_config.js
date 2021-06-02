@@ -1,1 +1,1 @@
-var mnemonic = "van pass smooth together net case afford cycle order kitchen kite saddle";
+var mnemonic = "honey citizen neither casual chimney choose movie defy lake execute art roast";

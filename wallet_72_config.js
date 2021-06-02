@@ -1,1 +1,1 @@
-var mnemonic = "bulk deposit train food sorry able hidden west easy interest view law";
+var mnemonic = "pact monkey jungle cruel adult never leisure evoke purity dirt great chunk";

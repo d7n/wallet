@@ -1,1 +1,1 @@
-var mnemonic = "huge alien off surround phone purchase cousin green park orange crush supreme";
+var mnemonic = "once cake capital rain fold bind chuckle normal capable culture bar inhale";

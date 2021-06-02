@@ -1,1 +1,1 @@
-var mnemonic = "unusual stadium identify soup liar spin admit mobile faint tent bachelor oak";
+var mnemonic = "mixture slam engine six scatter morning service raccoon belt region quote expect";

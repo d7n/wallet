@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur couch celery olympic velvet dice angle drill more relax approve glove";
+var mnemonic = "witness letter arrive defy current oxygen sail eagle captain option abuse range";

@@ -1,1 +1,1 @@
-var mnemonic = "palm tiger way despair around limit balcony bleak just rib rather main";
+var mnemonic = "tunnel daring want bid curve input miss deer crazy aunt person pluck";

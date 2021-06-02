@@ -1,1 +1,1 @@
-var mnemonic = "scheme type paddle eternal logic hotel knock jealous park hundred seat magic";
+var mnemonic = "diagram total disagree danger track spike switch life layer pair tissue cage";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain car virus castle error lake escape afraid either cherry flock oblige";
+var mnemonic = "palm arm leaf shadow retire task siren armed focus kidney fee depend";

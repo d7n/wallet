@@ -1,1 +1,1 @@
-var mnemonic = "enhance gasp velvet oil rival profit sad romance fade illegal crisp stock";
+var mnemonic = "sell survey bamboo scale gap pony hen wedding smart install myself narrow";

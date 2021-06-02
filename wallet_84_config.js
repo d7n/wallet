@@ -1,1 +1,1 @@
-var mnemonic = "rose meat share call volume desert employ trumpet mention work season success";
+var mnemonic = "dream seek glove tackle glad foster patient drive advance enough physical people";

@@ -1,1 +1,1 @@
-var mnemonic = "bring ability urban large balcony barrel hub divorce fresh wave parent during";
+var mnemonic = "exit voyage field material wealth badge tag merge pig add boy warm";

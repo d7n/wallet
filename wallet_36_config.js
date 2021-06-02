@@ -1,1 +1,1 @@
-var mnemonic = "oil wisdom planet fish vibrant loan sting crawl critic hour wet play";
+var mnemonic = "stick food yellow salmon muscle bag want industry proof hole portion blush";

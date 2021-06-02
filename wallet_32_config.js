@@ -1,1 +1,1 @@
-var mnemonic = "fun pride omit entire shoulder roast fan audit wealth wine stove struggle";
+var mnemonic = "resemble figure obey shine dynamic barely donor ecology connect stereo sand grace";

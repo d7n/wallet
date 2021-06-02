@@ -1,1 +1,1 @@
-var mnemonic = "episode dignity connect fame rhythm try once junk submit bargain advice boil";
+var mnemonic = "sleep swift hybrid guilt roof video supreme genius upon nuclear clutch opinion";

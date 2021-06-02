@@ -1,1 +1,1 @@
-var mnemonic = "aisle bean joke music vital path basic close talent dentist yellow olympic";
+var mnemonic = "hip original behave clean express coconut shy hundred path hollow tape retire";

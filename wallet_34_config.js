@@ -1,1 +1,1 @@
-var mnemonic = "humor jacket rural float desk family parent fury vivid pipe hidden direct";
+var mnemonic = "awkward indicate win broccoli winner pizza sunny fruit test chronic glory wise";

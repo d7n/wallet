@@ -1,1 +1,1 @@
-var mnemonic = "easy secret cruel sunset deny empty minimum struggle visa position desert resist";
+var mnemonic = "appear half reopen ivory panel predict detail type elevator echo fashion cash";

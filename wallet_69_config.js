@@ -1,1 +1,1 @@
-var mnemonic = "symptom ranch news sound sweet define mix stadium destroy staff teach debate";
+var mnemonic = "portion grocery chest source used empty village pen educate gun metal emerge";

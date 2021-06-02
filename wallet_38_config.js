@@ -1,1 +1,1 @@
-var mnemonic = "indicate adapt rib desk odor knife girl alcohol shoulder pact vague ranch";
+var mnemonic = "rely among cause trade artefact rifle scan road idle brother moon middle";

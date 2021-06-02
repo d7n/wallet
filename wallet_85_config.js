@@ -1,1 +1,1 @@
-var mnemonic = "regular wolf source ceiling tongue empower donate glance laundry ordinary boost depend";
+var mnemonic = "quantum young embrace vintage ginger credit train senior dinner cement grass siege";

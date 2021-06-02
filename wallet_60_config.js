@@ -1,1 +1,1 @@
-var mnemonic = "tilt amount message obscure upgrade copper fine type around coral cable adult";
+var mnemonic = "bunker rebuild sail spin kind nasty speak purpose search rather case story";

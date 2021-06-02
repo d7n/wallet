@@ -1,1 +1,1 @@
-var mnemonic = "tired include ghost pig youth rifle stock athlete online jelly jungle ill";
+var mnemonic = "prize often betray fog multiply hand quick flock grid laundry stable decline";

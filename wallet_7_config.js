@@ -1,1 +1,1 @@
-var mnemonic = "library beauty mother verify mom leader chase soccer pluck shiver cement solution";
+var mnemonic = "piece pink rescue token three retire assume affair cherry boat average unveil";

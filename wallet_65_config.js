@@ -1,1 +1,1 @@
-var mnemonic = "drive angle little bachelor able sibling brown typical devote inmate cross execute";
+var mnemonic = "kingdom circle lawn ribbon advance strategy corn wet dinner stadium rifle rifle";

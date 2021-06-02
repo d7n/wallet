@@ -1,1 +1,1 @@
-var mnemonic = "enact talent machine guitar return sunny arrive rail know animal apology echo";
+var mnemonic = "make toward notice oyster juice language hat pen pledge view modify pig";

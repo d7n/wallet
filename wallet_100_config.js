@@ -1,1 +1,1 @@
-var mnemonic = "quality truck season lizard hurdle flavor scheme foil impose never episode annual";
+var mnemonic = "breeze project deputy clock asthma order tongue gorilla burst large solve melt";

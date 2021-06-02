@@ -1,1 +1,1 @@
-var mnemonic = "finger avoid vivid scare mistake index dawn empty transfer slab clown key";
+var mnemonic = "echo private income round gospel picnic road iron index knife suffer cabbage";

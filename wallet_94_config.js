@@ -1,1 +1,1 @@
-var mnemonic = "beauty fever novel rubber solar loan trim foster waste cancel language garment";
+var mnemonic = "air picnic soon already moment render nerve print race erupt ice eager";

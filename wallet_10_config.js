@@ -1,1 +1,1 @@
-var mnemonic = "pupil breeze perfect area absent huge thought number daughter crisp civil heavy";
+var mnemonic = "immense cause ice mixture detail wisdom laugh ankle fox spoon pulse nut";

@@ -1,1 +1,1 @@
-var mnemonic = "moon seek blossom grain thought husband grace tunnel pass frozen sniff often";
+var mnemonic = "more heavy rhythm crash despair system twin glance wise enemy right kiwi";

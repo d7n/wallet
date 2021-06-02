@@ -1,1 +1,1 @@
-var mnemonic = "rent inspire renew chronic fancy knife demand visa green coin nice address";
+var mnemonic = "raise illness tool across twelve extra initial gasp asthma top patrol pulse";

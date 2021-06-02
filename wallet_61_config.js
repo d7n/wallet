@@ -1,1 +1,1 @@
-var mnemonic = "nest pattern foil pact motor middle spider trend hungry toss license solve";
+var mnemonic = "during target gift powder success net need kiwi day demise zone joy";

@@ -1,1 +1,1 @@
-var mnemonic = "theme magic bundle online fall myself gown useless coffee inform dress bonus";
+var mnemonic = "lift rocket you vivid arrive nurse sister black rib lift entry garden";

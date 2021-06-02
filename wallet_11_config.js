@@ -1,1 +1,1 @@
-var mnemonic = "before honey leave estate oven behave assist poet scorpion blue system forum";
+var mnemonic = "street list taste boring pink couple kit harvest clerk orchard joke idea";

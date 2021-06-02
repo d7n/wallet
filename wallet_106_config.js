@@ -1,1 +1,1 @@
-var mnemonic = "dog core alien pact foil grit program upgrade cabin act where law";
+var mnemonic = "grape rhythm later giggle lion voyage buddy mirror decrease detect income plunge";

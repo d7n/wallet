@@ -1,1 +1,1 @@
-var mnemonic = "aware merry list syrup health since donor wealth plug rack tuna bargain";
+var mnemonic = "ozone recipe globe session control section cover runway coin cause donor fancy";

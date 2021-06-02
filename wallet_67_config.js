@@ -1,1 +1,1 @@
-var mnemonic = "damp soap snap genius ethics duck blame ostrich man install knee income";
+var mnemonic = "jar receive put defy cinnamon retreat crazy account never sight swallow possible";

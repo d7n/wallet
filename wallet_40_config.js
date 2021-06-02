@@ -1,1 +1,1 @@
-var mnemonic = "steel kidney salute assume final flower open service join basket forget goat";
+var mnemonic = "admit divorce often ensure champion festival best electric hockey hover chaos twelve";

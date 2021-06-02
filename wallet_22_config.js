@@ -1,1 +1,1 @@
-var mnemonic = "purse lesson narrow color swift abandon ghost remain danger echo climb thank";
+var mnemonic = "flee keen feel margin various creek despair shoulder mechanic easy cushion gift";

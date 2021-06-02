@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo quote link north key shop network volcano pink ripple anchor legal";
+var mnemonic = "resemble police fence payment grocery shop mystery cause knife syrup miss police";

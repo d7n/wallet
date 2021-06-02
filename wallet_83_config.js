@@ -1,1 +1,1 @@
-var mnemonic = "wood indicate wage front mind author saddle lava skin tent hybrid mind";
+var mnemonic = "pair media film piano rapid earth upper glass myth wool type present";

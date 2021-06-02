@@ -1,1 +1,1 @@
-var mnemonic = "increase sell accuse only citizen begin victory oval taxi result scout diagram";
+var mnemonic = "present edit flower sheriff puppy bag alarm payment wave frown pottery absent";

@@ -1,1 +1,1 @@
-var mnemonic = "people iron chest silk creek holiday awesome chunk juice afraid memory alcohol";
+var mnemonic = "place dash hair fluid real arena science pioneer gloom cage rabbit race";

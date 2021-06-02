@@ -1,1 +1,1 @@
-var mnemonic = "annual country copper vital smile insane fortune wedding labor repair mask thought";
+var mnemonic = "snake pencil under emerge target describe spoon magic question innocent assist choose";

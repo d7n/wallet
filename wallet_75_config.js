@@ -1,1 +1,1 @@
-var mnemonic = "invest cup baby paper vacant still medal guitar scheme hire steel hand";
+var mnemonic = "veteran luggage wife guide zebra despair apple recall fragile peace fury case";

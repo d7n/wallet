@@ -1,1 +1,1 @@
-var mnemonic = "caution bag whisper that truck talent indoor silent ability hat color screen";
+var mnemonic = "skirt extend youth calm bone puzzle toddler indoor real profit try arrive";

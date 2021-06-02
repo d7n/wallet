@@ -1,1 +1,1 @@
-var mnemonic = "garlic episode movie dinner duty milk bonus supreme length industry blast erosion";
+var mnemonic = "sand garbage wrap purse thumb blood when win clog point scorpion menu";

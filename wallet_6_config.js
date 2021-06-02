@@ -1,1 +1,1 @@
-var mnemonic = "awake glow genre code eight surround slot observe stumble wood purpose best";
+var mnemonic = "shine mother clerk goddess pumpkin domain cake edge plunge benefit evoke garbage";

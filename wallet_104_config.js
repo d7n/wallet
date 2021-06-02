@@ -1,1 +1,1 @@
-var mnemonic = "family outdoor robust labor slight circle cinnamon safe convince hunt come luxury";
+var mnemonic = "aware blast kitten hold foot unknown believe river olympic riot reward humor";

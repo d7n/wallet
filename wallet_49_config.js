@@ -1,1 +1,1 @@
-var mnemonic = "robot voice plunge cycle marriage hundred snack flower select duck sketch then";
+var mnemonic = "weasel month planet frog opinion skate resemble anger quote fetch token giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic best army attend ignore make october onion gold sphere diary middle";
+var mnemonic = "crucial crouch ecology vivid lens mind mountain fuel polar throw tray square";

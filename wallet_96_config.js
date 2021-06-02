@@ -1,1 +1,1 @@
-var mnemonic = "kingdom bright labor boy candy chapter bird drink lion angle roast remember";
+var mnemonic = "remind suspect antenna horn rice clarify orphan spray prefer million now surge";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon wrap old slam disorder silly clutch gold spider cube all add";
+var mnemonic = "confirm toilet loan tomorrow furnace spice captain glide river shift fish shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "use jazz sniff very bird head weird duck churn uniform occur flower";
+var mnemonic = "size monitor cereal junior cube post wagon venture portion stereo flip trim";

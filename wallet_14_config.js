@@ -1,1 +1,1 @@
-var mnemonic = "believe age crack furnace vacant rib subway wrestle coconut citizen heart kid";
+var mnemonic = "bachelor luggage obvious gallery coconut step addict taxi palm rabbit code top";

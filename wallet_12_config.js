@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fossil gospel reward chase solid utility planet sport blanket regular three";
+var mnemonic = "breeze early problem marriage inhale olympic clog lecture near urban digital tuition";

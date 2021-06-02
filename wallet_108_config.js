@@ -1,1 +1,1 @@
-var mnemonic = "luxury mean asthma once fly buffalo kiss bronze magnet found track sponsor";
+var mnemonic = "shove surface solution spare idle tissue coach daring valve pretty rude hope";

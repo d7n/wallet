@@ -1,1 +1,1 @@
-var mnemonic = "steel drum label absurd witness glare pattern avocado shuffle broom typical sword";
+var mnemonic = "amount close danger brisk inch razor filter unknown forget country fat right";

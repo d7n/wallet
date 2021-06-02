@@ -1,1 +1,1 @@
-var mnemonic = "theme depart walk layer fat circle urge funny erupt expose evil resist";
+var mnemonic = "will satisfy cube spend deal address expect inhale project thunder puppy scissors";

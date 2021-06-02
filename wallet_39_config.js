@@ -1,1 +1,1 @@
-var mnemonic = "remain tank coach oil army merge dumb key depend mimic century baby";
+var mnemonic = "donate actor winter quiz aspect payment gasp milk magic olive protect rude";

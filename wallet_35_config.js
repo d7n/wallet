@@ -1,1 +1,1 @@
-var mnemonic = "drastic end frequent globe seminar strategy adult solve rack abuse cricket rubber";
+var mnemonic = "diagram fit trend silly unaware noodle motor electric universe enrich sure castle";

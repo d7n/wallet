@@ -1,1 +1,1 @@
-var mnemonic = "cup vibrant wild erupt chase chef venture random bunker congress bullet index";
+var mnemonic = "spirit canal weasel edge audit light castle luggage approve smooth token elegant";

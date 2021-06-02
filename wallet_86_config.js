@@ -1,1 +1,1 @@
-var mnemonic = "limit dad disagree daring slot tuition spread aunt ring quit tribe enhance";
+var mnemonic = "love replace hotel scissors resemble neck opinion eight arm give magnet phone";

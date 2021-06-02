@@ -1,1 +1,1 @@
-var mnemonic = "rare outdoor cross anchor sadness tell write sound vast adult acquire surround";
+var mnemonic = "rack feature wash theory orphan father industry example acid bid guitar photo";

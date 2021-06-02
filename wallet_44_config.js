@@ -1,1 +1,1 @@
-var mnemonic = "warrior vehicle stone rigid summer shine memory grape soap quote buyer bacon";
+var mnemonic = "theme bullet cup spy sweet hurdle oppose coral brown person august pair";

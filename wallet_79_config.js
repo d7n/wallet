@@ -1,1 +1,1 @@
-var mnemonic = "already civil rule reopen combine stock fun matrix father feed ecology echo";
+var mnemonic = "place antique recall enhance reopen parrot print brisk direct caution business cabin";

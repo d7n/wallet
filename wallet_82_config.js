@@ -1,1 +1,1 @@
-var mnemonic = "demise else betray ritual rib guess become cotton weather melt position sphere";
+var mnemonic = "eight margin book course brand sniff angle host joy asset base arch";
