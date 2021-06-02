@@ -1,1 +1,1 @@
-var mnemonic = "month become grape soldier lazy ramp behind endorse obtain estate mercy ice";
+var mnemonic = "west between baby hazard detect text grief child wool vendor van hard";

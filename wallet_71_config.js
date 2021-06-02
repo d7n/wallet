@@ -1,1 +1,1 @@
-var mnemonic = "ceiling renew fat deposit close rapid leaf despair convince jelly hour ridge";
+var mnemonic = "hundred tank scout hobby coin zoo vital bargain episode post onion verify";

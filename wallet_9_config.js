@@ -1,1 +1,1 @@
-var mnemonic = "office raw demand reflect camp prize inspire hidden embrace coach ancient modify";
+var mnemonic = "someone grape bracket feature donor always execute order around magnet dance scrub";

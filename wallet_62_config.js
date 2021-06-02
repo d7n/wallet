@@ -1,1 +1,1 @@
-var mnemonic = "scene ghost gossip kiss someone badge gorilla weather tourist october pizza lecture";
+var mnemonic = "flush spy luggage electric pulp coffee trigger evil inner spring live spoil";

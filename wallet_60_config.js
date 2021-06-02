@@ -1,1 +1,1 @@
-var mnemonic = "subject slice expose arrest doll dust inhale inject speed region right seek";
+var mnemonic = "host aspect april steel pumpkin wing spin bring skin dad mouse silver";

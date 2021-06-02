@@ -1,1 +1,1 @@
-var mnemonic = "extend note forward panel dog erupt timber alone display deposit weekend swarm";
+var mnemonic = "struggle grace giant mean above song potato shell fury custom home welcome";

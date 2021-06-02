@@ -1,1 +1,1 @@
-var mnemonic = "write garbage grape ozone arctic adjust tilt purchase random member car team";
+var mnemonic = "side illegal federal auto pipe donor fluid album depth cycle inquiry hint";

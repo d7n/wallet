@@ -1,1 +1,1 @@
-var mnemonic = "bar list build under hire diet salon chaos unique phone round stock";
+var mnemonic = "champion stamp empower pair toward senior random census equip search shock rebuild";

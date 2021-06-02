@@ -1,1 +1,1 @@
-var mnemonic = "bulb job glow exercise blur crystal exile opera corn spike edit modify";
+var mnemonic = "help swear tumble gate end wise carpet wage biology also beach blouse";

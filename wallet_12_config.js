@@ -1,1 +1,1 @@
-var mnemonic = "allow float fuel sadness soap differ ocean word version mansion steel become";
+var mnemonic = "nuclear clever cube scale odor call symptom top thing guitar pulse host";

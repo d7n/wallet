@@ -1,1 +1,1 @@
-var mnemonic = "lazy embody crystal bus near record job seven fall security process jungle";
+var mnemonic = "else vibrant mother length pen mouse you blur supply extend volume hurdle";

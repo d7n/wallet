@@ -1,1 +1,1 @@
-var mnemonic = "glide entire oil giraffe display demand vibrant cradle oppose diet tiny sure";
+var mnemonic = "empty differ trip casino mushroom injury shaft coil eyebrow force vicious demise";

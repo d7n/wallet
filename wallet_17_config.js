@@ -1,1 +1,1 @@
-var mnemonic = "muscle push burger box valid blouse drive hood unveil emerge romance tone";
+var mnemonic = "feature surge phrase tomato arena tent absurd deer early enlist remain decade";

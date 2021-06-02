@@ -1,1 +1,1 @@
-var mnemonic = "mother unit hope couch twice bitter vital smooth canvas abstract wool duty";
+var mnemonic = "empty company roof pepper flip say business certain purse near gospel apart";

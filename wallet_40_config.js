@@ -1,1 +1,1 @@
-var mnemonic = "strong purpose print good online dolphin circle toe trust planet mutual vivid";
+var mnemonic = "favorite immune speak bonus century purchase old plate egg fly arrow flame";

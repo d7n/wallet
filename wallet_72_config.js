@@ -1,1 +1,1 @@
-var mnemonic = "pioneer ride cost decade okay swing athlete faith jealous honey float exhibit";
+var mnemonic = "mechanic problem symbol near muffin popular picture sure tissue song pig solve";

@@ -1,1 +1,1 @@
-var mnemonic = "guess myself pig ticket bubble express tomato help excess purse sense train";
+var mnemonic = "amazing arrive toddler floor casino indoor tired bicycle wrong bitter ostrich manual";

@@ -1,1 +1,1 @@
-var mnemonic = "address grid nasty scrap grace laptop stage forest valve drift virtual order";
+var mnemonic = "bunker rival orange candy sleep awkward draft chimney edit unaware need talent";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans buddy unhappy help tongue educate nature machine someone abandon glue own";
+var mnemonic = "theory garlic audit meadow silent smart stone worry tattoo wagon release infant";

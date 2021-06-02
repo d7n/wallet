@@ -1,1 +1,1 @@
-var mnemonic = "egg song live anchor boil wish crawl earn planet little cotton ordinary";
+var mnemonic = "today actor illness paddle grape three service rely write uncover mail illegal";

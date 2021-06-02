@@ -1,1 +1,1 @@
-var mnemonic = "rug alley castle special kidney stick rhythm there frown parade into ready";
+var mnemonic = "second answer latin chaos member plunge pair school feature mansion rude lift";

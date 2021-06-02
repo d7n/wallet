@@ -1,1 +1,1 @@
-var mnemonic = "thrive grain buffalo crystal soap tone actor settle situate gym cycle shrug";
+var mnemonic = "bicycle mask into glory phrase surge material fence inspire cycle target wrestle";

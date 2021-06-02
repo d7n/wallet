@@ -1,1 +1,1 @@
-var mnemonic = "explain help leg avocado glimpse again extend coast swap aunt farm rescue";
+var mnemonic = "work below cinnamon pigeon inflict artwork fee evil visit picture motion wet";

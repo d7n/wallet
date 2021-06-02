@@ -1,1 +1,1 @@
-var mnemonic = "shy theme amused wood boat hour over party mosquito chat program session";
+var mnemonic = "wool run drive wrestle process recycle oil title trouble again movie iron";

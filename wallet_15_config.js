@@ -1,1 +1,1 @@
-var mnemonic = "oak mixture shiver trim transfer ivory barely apology cycle stable front hill";
+var mnemonic = "veteran awesome service present number beauty satisfy alarm submit fish ceiling proud";

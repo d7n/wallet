@@ -1,1 +1,1 @@
-var mnemonic = "monitor achieve hip moral place what news stumble duty disorder weekend focus";
+var mnemonic = "social plastic tobacco mask actor spice broken brave rent soldier museum argue";

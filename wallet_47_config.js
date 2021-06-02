@@ -1,1 +1,1 @@
-var mnemonic = "priority banana auction memory update core manual forward soda crouch palm useless";
+var mnemonic = "famous monkey dog cute cup toy six vapor federal peanut guard ahead";

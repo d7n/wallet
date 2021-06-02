@@ -1,1 +1,1 @@
-var mnemonic = "apple search spin vapor thunder raccoon swallow gravity view print smoke excess";
+var mnemonic = "fiscal bird media forest cupboard kind firm portion speak wise goddess rapid";

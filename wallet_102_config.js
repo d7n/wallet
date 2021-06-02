@@ -1,1 +1,1 @@
-var mnemonic = "detail whale know mom torch stock equip express labor relax torch fun";
+var mnemonic = "amazing vacuum noodle clutch enlist mix endless room help insane ill glimpse";

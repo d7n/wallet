@@ -1,1 +1,1 @@
-var mnemonic = "play trap almost crime seminar vintage anxiety debate learn govern famous drip";
+var mnemonic = "industry organ tunnel oven near weapon case chimney city hotel walnut coffee";

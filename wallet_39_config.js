@@ -1,1 +1,1 @@
-var mnemonic = "grace move physical novel flight gap similar open cycle giggle shell magic";
+var mnemonic = "alley lunch fatigue hard snack room polar state wrist child depth achieve";

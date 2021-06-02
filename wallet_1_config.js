@@ -1,1 +1,1 @@
-var mnemonic = "nerve grief jewel boat join water mango tiger myself glory special worry";
+var mnemonic = "gadget patient flag aerobic rookie salon lawsuit youth embody tackle quit income";

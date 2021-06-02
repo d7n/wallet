@@ -1,1 +1,1 @@
-var mnemonic = "coyote visit angle smoke doll banana shuffle pledge drip have agent swift";
+var mnemonic = "right faith knee music voice trigger auto front volcano such render uphold";

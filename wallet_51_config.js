@@ -1,1 +1,1 @@
-var mnemonic = "party agree picture ramp pilot person normal year crawl sun exit shallow";
+var mnemonic = "twice illness helmet ill stone unhappy lemon increase ketchup say ladder obvious";

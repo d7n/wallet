@@ -1,1 +1,1 @@
-var mnemonic = "scheme keep region leopard next pudding kid bicycle chronic foam submit water";
+var mnemonic = "thought spice bid option father ecology regret lawn obtain track retire veteran";

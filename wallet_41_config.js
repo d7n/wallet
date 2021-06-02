@@ -1,1 +1,1 @@
-var mnemonic = "mirror west torch consider six absurd disorder sword dizzy twin liar advice";
+var mnemonic = "hen tennis pipe year make top rich throw rain sing sport aisle";

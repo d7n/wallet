@@ -1,1 +1,1 @@
-var mnemonic = "bitter rack devote chimney air tennis few casual speak pelican figure boost";
+var mnemonic = "clown stove cram lake attitude other foot ensure clay foam bounce kind";

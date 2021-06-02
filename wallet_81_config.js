@@ -1,1 +1,1 @@
-var mnemonic = "top same merit venue grocery custom clutch oblige fiber pair buffalo plunge";
+var mnemonic = "thunder silver output frost rack jealous table tired rich sheriff siege shine";

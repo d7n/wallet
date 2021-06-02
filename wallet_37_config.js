@@ -1,1 +1,1 @@
-var mnemonic = "because uncover asset pencil vacant circle bus gun service census gauge harbor";
+var mnemonic = "luxury maximum glow join bottom monitor social category again owner hard gossip";

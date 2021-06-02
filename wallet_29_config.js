@@ -1,1 +1,1 @@
-var mnemonic = "sister wagon portion excuse badge dirt aisle supply salute much icon prosper";
+var mnemonic = "pistol remain budget tornado hill mutual ocean evidence defy banner tuna there";

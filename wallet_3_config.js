@@ -1,1 +1,1 @@
-var mnemonic = "fat begin correct absorb pride update diet merry car exhibit dutch achieve";
+var mnemonic = "divert vicious torch never public infant behave lawsuit festival forum escape analyst";

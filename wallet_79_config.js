@@ -1,1 +1,1 @@
-var mnemonic = "solar gate maximum mountain damage uncover soft journey never major drum stairs";
+var mnemonic = "cinnamon truth stuff tide lake diagram palm second border sauce online task";

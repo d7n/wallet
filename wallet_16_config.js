@@ -1,1 +1,1 @@
-var mnemonic = "real toy depth cram slogan group chef tackle raven sword when west";
+var mnemonic = "chimney caught decline stomach job avoid focus final yard kingdom convince cycle";

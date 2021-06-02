@@ -1,1 +1,1 @@
-var mnemonic = "shoot snow icon book wing shaft urge siren detail notable divide super";
+var mnemonic = "soap can penalty kind acoustic anxiety season gaze genre cabin annual age";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise exhaust language powder pistol machine exclude dry worry artefact valve kick";
+var mnemonic = "edge fan virus bubble tag gain pill boost remind leopard census weird";

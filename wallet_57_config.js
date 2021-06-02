@@ -1,1 +1,1 @@
-var mnemonic = "text total edit grant come section gentle demand garage aunt rhythm reform";
+var mnemonic = "accuse sorry matrix scorpion hamster put daughter main slow silly jelly rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "type elephant animal fetch wreck proof motor error faint point potato tonight";
+var mnemonic = "rubber humor library riot public plug weather tourist gentle income arrange fox";

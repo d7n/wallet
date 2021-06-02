@@ -1,1 +1,1 @@
-var mnemonic = "once throw bitter inner outdoor rough sing maze where mercy tail kick";
+var mnemonic = "eye slender solve dad infant addict fashion predict lock goddess defy gadget";

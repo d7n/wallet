@@ -1,1 +1,1 @@
-var mnemonic = "humor someone cargo grit hotel nephew orange glass paper enlist vicious another";
+var mnemonic = "save kit parent split gym say border evidence gym zone stable fever";

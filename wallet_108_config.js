@@ -1,1 +1,1 @@
-var mnemonic = "actor boring fresh kid lion toast resource place collect course concert live";
+var mnemonic = "art busy alter play patch example ranch wrap rely stand dinner point";

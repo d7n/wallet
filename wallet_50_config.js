@@ -1,1 +1,1 @@
-var mnemonic = "sure antique little army goose address surround plate area curve multiply chair";
+var mnemonic = "awesome fix crazy empower wise thank brisk logic orchard bind shrug upset";

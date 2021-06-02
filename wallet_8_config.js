@@ -1,1 +1,1 @@
-var mnemonic = "foster mutual jacket enable riot glove guitar lawn proud machine desert mad";
+var mnemonic = "reason viable slam salute whip swallow alarm bargain control road decrease high";

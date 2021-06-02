@@ -1,1 +1,1 @@
-var mnemonic = "escape disorder file tree humble unique diamond copper please assault prize brother";
+var mnemonic = "burden panda robust rent grief fetch surge layer bacon safe walnut miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "truck celery mansion sad unfair master manual project salmon glass clown segment";
+var mnemonic = "rookie south blue dirt promote pilot usual conduct axis kiwi coin adult";

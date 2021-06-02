@@ -1,1 +1,1 @@
-var mnemonic = "crazy umbrella donor whale tragic runway swing away box seat average essay";
+var mnemonic = "need acquire suspect cabbage ring food reunion legal course blue wrestle feed";

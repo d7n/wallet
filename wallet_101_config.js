@@ -1,1 +1,1 @@
-var mnemonic = "liar firm ice object mesh defense bleak repair vintage powder occur crush";
+var mnemonic = "turkey rebuild rigid toe equip control funny digital expand atom invite alert";

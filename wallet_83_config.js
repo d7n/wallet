@@ -1,1 +1,1 @@
-var mnemonic = "grid orchard wash kit giggle sight host author tube point capital earn";
+var mnemonic = "clump battle cancel claim multiply adapt dinner wasp slide ugly sail cost";

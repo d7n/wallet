@@ -1,1 +1,1 @@
-var mnemonic = "famous blue old train forum space setup prepare giraffe nature refuse loop";
+var mnemonic = "loop carbon trick fancy pony glimpse wear october measure win chuckle amazing";

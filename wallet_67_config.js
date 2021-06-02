@@ -1,1 +1,1 @@
-var mnemonic = "summer spike bar pool sudden celery thing matter warfare abuse client hair";
+var mnemonic = "theme strong sister scissors program hat egg expire pipe grid disorder element";

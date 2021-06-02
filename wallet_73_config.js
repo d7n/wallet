@@ -1,1 +1,1 @@
-var mnemonic = "injury life body relief turn rack amateur topple nasty gadget tip dice";
+var mnemonic = "inform amateur pencil dish limit swallow deal base diet leopard plug sentence";

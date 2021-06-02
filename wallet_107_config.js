@@ -1,1 +1,1 @@
-var mnemonic = "spend minute help pink diesel tattoo illness pepper wet expand profit cage";
+var mnemonic = "copy fringe inch cargo brick chapter citizen frozen select wreck phone palace";

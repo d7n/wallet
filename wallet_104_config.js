@@ -1,1 +1,1 @@
-var mnemonic = "train spell notice barely hold detail frost citizen kit judge toe lunar";
+var mnemonic = "run feel shed casino anger key column book cigar crime pledge vocal";

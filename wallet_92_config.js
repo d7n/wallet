@@ -1,1 +1,1 @@
-var mnemonic = "model useless fit man tragic replace coin loyal build attract kingdom dust";
+var mnemonic = "aisle brand execute hospital young slot panic spare dentist essay angry spoon";

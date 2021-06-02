@@ -1,1 +1,1 @@
-var mnemonic = "fee unit rather tunnel guide gossip someone bright crystal door pole price";
+var mnemonic = "stuff reject mail fossil author hair wrong plug truck cup stamp say";

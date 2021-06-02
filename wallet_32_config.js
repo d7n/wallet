@@ -1,1 +1,1 @@
-var mnemonic = "sign job topple antenna riot machine base tell assault staff version wise";
+var mnemonic = "mesh confirm outside turtle mad young fog trust review bundle amused mechanic";

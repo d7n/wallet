@@ -1,1 +1,1 @@
-var mnemonic = "nephew sniff stone head blast sphere dash park also leaf economy subject";
+var mnemonic = "ankle uniform catalog oak cliff cruel advice never trust wrong there subject";

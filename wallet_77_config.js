@@ -1,1 +1,1 @@
-var mnemonic = "coyote crazy capital detail taste invite radio pudding noodle choice blanket enforce";
+var mnemonic = "exchange popular surface fresh august body hip humor luggage bacon company inner";

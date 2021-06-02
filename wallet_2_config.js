@@ -1,1 +1,1 @@
-var mnemonic = "lift express silk wait plastic rebel card figure tree erosion kidney child";
+var mnemonic = "century crew because bamboo predict movie beach cement slam churn love garage";

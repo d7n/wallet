@@ -1,1 +1,1 @@
-var mnemonic = "humble smooth merry creek edit wonder surface discover almost embody faculty legend";
+var mnemonic = "upper solid bamboo flavor decline front mix method anxiety afford volcano feel";

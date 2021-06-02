@@ -1,1 +1,1 @@
-var mnemonic = "faith usage start flower elevator toilet oblige blanket before cost bitter bid";
+var mnemonic = "pill nerve subway apple vacuum vehicle reunion saddle under shaft panel oyster";

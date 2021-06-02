@@ -1,1 +1,1 @@
-var mnemonic = "dumb extra curious feature near network define bright hire enroll wrong exotic";
+var mnemonic = "steel off start vanish inherit warrior predict abuse track tourist milk annual";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion minute brisk welcome vacant discover order inform armed cushion word card";
+var mnemonic = "draft prosper ethics seek wing pitch maze area oak scatter palm because";

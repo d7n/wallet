@@ -1,1 +1,1 @@
-var mnemonic = "peace timber panic resource federal sand blast junior cable draw bar sibling";
+var mnemonic = "snap fork label exhaust attitude member north slide bird soon street physical";

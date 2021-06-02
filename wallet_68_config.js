@@ -1,1 +1,1 @@
-var mnemonic = "allow poverty develop magnet text hip govern ribbon decide vague noodle target";
+var mnemonic = "hidden quit account wear mountain emotion sad nuclear buzz poet afraid snow";

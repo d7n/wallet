@@ -1,1 +1,1 @@
-var mnemonic = "outer process raven trip noise denial tiny nice pitch soup stadium float";
+var mnemonic = "alone squirrel ship become minute supply science gift vital shoulder defense duck";

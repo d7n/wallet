@@ -1,1 +1,1 @@
-var mnemonic = "limb crunch matrix aspect logic round rescue seat improve fatigue hazard hard";
+var mnemonic = "cake horse rally input enrich pulse copy wreck able waste leg access";

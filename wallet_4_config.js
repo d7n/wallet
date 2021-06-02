@@ -1,1 +1,1 @@
-var mnemonic = "law receive observe broom verify glance tell celery join shoot visit million";
+var mnemonic = "fancy evolve kitchen jacket sauce shop toward swarm talk harvest high rather";

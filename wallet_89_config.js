@@ -1,1 +1,1 @@
-var mnemonic = "outer crater hawk first prison sketch obvious raw nuclear oil mandate arrive";
+var mnemonic = "armor birth arctic organ loud actual kit tomato bargain tail egg legend";

@@ -1,1 +1,1 @@
-var mnemonic = "submit unveil unlock announce alarm pipe become object garlic climb praise hat";
+var mnemonic = "doctor prefer solution crush faith grit country enhance dance load brief bag";

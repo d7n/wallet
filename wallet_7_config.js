@@ -1,1 +1,1 @@
-var mnemonic = "coil olympic assume resist fork polar sustain there salute garbage chapter gesture";
+var mnemonic = "version more canyon great orchard ship swim shell deal barely crack once";

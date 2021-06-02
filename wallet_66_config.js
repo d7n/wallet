@@ -1,1 +1,1 @@
-var mnemonic = "indicate panic radar very develop distance chapter acquire once hollow second uncover";
+var mnemonic = "shop dust select hood print belt gift tube fluid spirit impact toe";

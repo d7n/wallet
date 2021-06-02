@@ -1,1 +1,1 @@
-var mnemonic = "update sister sunny island smile valve awesome tomato agree draw main word";
+var mnemonic = "clown patch verb idle slight cash giraffe monster side spin also curve";

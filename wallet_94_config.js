@@ -1,1 +1,1 @@
-var mnemonic = "rebel couple awesome cry silent sick dawn shy steak assume know waste";
+var mnemonic = "crew grace palace exhibit identify picture credit crack salon earn relax jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze forward bag now throw key wheat lyrics future also industry jewel";
+var mnemonic = "topic token flag lion mass heart submit curious pony open claim winner";

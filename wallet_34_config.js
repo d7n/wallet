@@ -1,1 +1,1 @@
-var mnemonic = "good fiction slow divorce elder exhaust dance trip furnace flush foil sustain";
+var mnemonic = "fuel crowd floor letter method upper dice behind purpose congress march regret";

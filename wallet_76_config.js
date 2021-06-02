@@ -1,1 +1,1 @@
-var mnemonic = "lamp advice verb quantum ticket salon woman space hungry equal kingdom can";
+var mnemonic = "update license sport spirit ahead ice draw danger equip finger romance honey";

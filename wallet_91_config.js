@@ -1,1 +1,1 @@
-var mnemonic = "make license artist pact sport nut little dirt permit rich feed dynamic";
+var mnemonic = "fluid obscure earth burst force donkey anger submit august weird play embark";

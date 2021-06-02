@@ -1,1 +1,1 @@
-var mnemonic = "away glove forest frown cream replace river cat gorilla seat tattoo mandate";
+var mnemonic = "please swim slot spot wait regret element warm rich rally volume arena";

@@ -1,1 +1,1 @@
-var mnemonic = "raw glue trigger unaware sea tiger leopard develop innocent follow wheel pilot";
+var mnemonic = "acid net public expect mutual law shoot chimney asset stereo find cute";

@@ -1,1 +1,1 @@
-var mnemonic = "must fiber animal attend despair agent public core brand argue tuna that";
+var mnemonic = "denial tower enroll coconut giant buyer share quiz castle false federal chef";

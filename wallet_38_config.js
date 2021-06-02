@@ -1,1 +1,1 @@
-var mnemonic = "coin silver spice deliver elephant never height awful void rail kiss useless";
+var mnemonic = "receive rude image used sibling first stage cannon steak day jump copy";

@@ -1,1 +1,1 @@
-var mnemonic = "danger bicycle govern salad front cup differ fever cactus fly rally license";
+var mnemonic = "pass fault balcony ivory soda attend vital raccoon media light fever strong";
