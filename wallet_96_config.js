@@ -1,1 +1,1 @@
-var mnemonic = "bubble unusual hold frozen remove coach world fault climb title symbol pen";
+var mnemonic = "tail math use cattle jaguar liberty drive clarify maze estate pupil jewel";

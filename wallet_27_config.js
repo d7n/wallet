@@ -1,1 +1,1 @@
-var mnemonic = "blood become ritual advice science frown return sock iron weekend narrow charge";
+var mnemonic = "eagle poet hen pass planet mule space develop curve prevent high job";

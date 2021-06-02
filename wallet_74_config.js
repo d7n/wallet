@@ -1,1 +1,1 @@
-var mnemonic = "judge carry useful neutral any end conduct echo second autumn purchase boost";
+var mnemonic = "flower enroll bulb tiger access similar come rule alert carry bar velvet";

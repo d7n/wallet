@@ -1,1 +1,1 @@
-var mnemonic = "curve spot come obey wing culture sick sunny crush page science smooth";
+var mnemonic = "hair security bless unit style filter embark interest used blame mobile hire";

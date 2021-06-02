@@ -1,1 +1,1 @@
-var mnemonic = "axis glow delay length vessel cliff palm convince option ritual rural myth";
+var mnemonic = "only arrange flip satoshi sing arctic oyster hammer antique people lizard always";

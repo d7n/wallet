@@ -1,1 +1,1 @@
-var mnemonic = "very crop grape roof sense praise pudding until lumber prize sadness comfort";
+var mnemonic = "chuckle runway fancy page charge entry cross ketchup piece convince convince word";

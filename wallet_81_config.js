@@ -1,1 +1,1 @@
-var mnemonic = "below broom only monitor twin book safe key asset correct carry female";
+var mnemonic = "struggle frequent gate second arm govern vacant lizard crawl shrug wheat fetch";

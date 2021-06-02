@@ -1,1 +1,1 @@
-var mnemonic = "replace now obtain hip merge alert fury grab west bring arrest cloud";
+var mnemonic = "potato moon robust weather tide open interest cram blanket human enrich extra";

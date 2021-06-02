@@ -1,1 +1,1 @@
-var mnemonic = "donkey stable tooth buddy vacant radio crazy harbor degree voice olympic fancy";
+var mnemonic = "oblige length enjoy visual census glimpse behind fault robust business purpose turtle";

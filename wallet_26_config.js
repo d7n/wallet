@@ -1,1 +1,1 @@
-var mnemonic = "render bone fuel harvest garden vital engage left build traffic daughter layer";
+var mnemonic = "text crash mention expect mean vintage since push sure abstract wasp shock";

@@ -1,1 +1,1 @@
-var mnemonic = "quality sand ginger fiber bomb attack jealous occur disorder bridge essence south";
+var mnemonic = "enable goat cheese erase discover palace junior online also inhale lesson dirt";

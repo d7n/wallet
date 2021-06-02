@@ -1,1 +1,1 @@
-var mnemonic = "ancient doll salmon dragon south pepper first coyote panic wood snack spawn";
+var mnemonic = "rain same glove claim coin imitate culture rough olympic umbrella nuclear hammer";

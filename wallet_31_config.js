@@ -1,1 +1,1 @@
-var mnemonic = "couch finish mercy ill under draw host panel zero estate sniff craft";
+var mnemonic = "upset frown virus decrease prevent surprise dog vast kite brush cover certain";

@@ -1,1 +1,1 @@
-var mnemonic = "input program poet father jazz voyage popular click sail simple that toddler";
+var mnemonic = "chicken valve room fault acid venue exact cover until direct shop hand";

@@ -1,1 +1,1 @@
-var mnemonic = "theme occur raise extend sense scare pet live knife broom picture inquiry";
+var mnemonic = "initial embrace track spin member forum replace crystal gap quarter avoid virtual";

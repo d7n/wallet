@@ -1,1 +1,1 @@
-var mnemonic = "left street rent squeeze dinner warrior camp spy cruel vapor holiday error";
+var mnemonic = "you wrap scatter absent rival noodle club appear educate wall market surface";

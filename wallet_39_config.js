@@ -1,1 +1,1 @@
-var mnemonic = "teach music guide limb drift very only rifle physical heavy burger slush";
+var mnemonic = "category square swing visual dolphin eternal pill update lounge type glow apart";

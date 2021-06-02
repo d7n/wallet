@@ -1,1 +1,1 @@
-var mnemonic = "cook output latin make riot fire clay cry casino task trend extend";
+var mnemonic = "soup expose impulse slide hybrid nuclear afraid shallow between stamp protect gather";

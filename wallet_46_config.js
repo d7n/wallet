@@ -1,1 +1,1 @@
-var mnemonic = "shrug approve slot fat usage afford bless orphan ancient squirrel candy goddess";
+var mnemonic = "acoustic rookie express mail jar junior border entire pyramid jealous faculty rule";

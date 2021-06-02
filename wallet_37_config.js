@@ -1,1 +1,1 @@
-var mnemonic = "vast abuse liquid detect dignity inmate column stairs panel course pitch net";
+var mnemonic = "skate drive entire refuse volume wish tomato push arrest spy pet hybrid";

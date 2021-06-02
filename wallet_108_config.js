@@ -1,1 +1,1 @@
-var mnemonic = "squeeze clutch auction country leg idle clay defy invest ridge alarm pioneer";
+var mnemonic = "sugar verify wisdom twelve rather nest busy lend capital best permit often";

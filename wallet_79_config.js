@@ -1,1 +1,1 @@
-var mnemonic = "salt enrich dial frost dress powder cloth cigar cable seminar just leopard";
+var mnemonic = "agree fun bullet pilot genre frost match space deliver flame steel siege";

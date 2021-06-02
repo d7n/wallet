@@ -1,1 +1,1 @@
-var mnemonic = "random float put struggle odor educate option blue elbow rotate settle draw";
+var mnemonic = "open broken lecture soda daughter gown render cram evil allow move mesh";

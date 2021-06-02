@@ -1,1 +1,1 @@
-var mnemonic = "foam solar armed dirt gloom off exact wet odor then museum hero";
+var mnemonic = "oak wife plastic kite shrimp sound loan normal alien hen talent garden";

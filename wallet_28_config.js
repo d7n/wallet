@@ -1,1 +1,1 @@
-var mnemonic = "creek stone book grace casual grass rotate rent wolf dynamic citizen mule";
+var mnemonic = "girl cloud dog vivid float lawsuit piano chest leg humble trumpet slogan";

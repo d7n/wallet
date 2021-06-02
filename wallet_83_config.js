@@ -1,1 +1,1 @@
-var mnemonic = "cradle wolf weird net tenant health idle imitate useful away eager genius";
+var mnemonic = "pulse cool bar idea want flash bid jacket deer banana about sleep";

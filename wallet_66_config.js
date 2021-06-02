@@ -1,1 +1,1 @@
-var mnemonic = "peace wheat envelope canal dirt fancy cluster year soon dream fire salad";
+var mnemonic = "execute flush top diary adapt genre grunt cable flame warfare wasp sweet";

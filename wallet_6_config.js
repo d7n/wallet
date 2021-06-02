@@ -1,1 +1,1 @@
-var mnemonic = "sort clog type away sport little jeans tree tourist coconut cherry divorce";
+var mnemonic = "vacant then other assist fire denial example still someone auto music unique";

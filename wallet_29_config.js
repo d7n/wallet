@@ -1,1 +1,1 @@
-var mnemonic = "achieve amount crush curve coconut object blast rose betray sure cook razor";
+var mnemonic = "review flame exit comic obvious limit planet sentence satoshi sugar index fetch";

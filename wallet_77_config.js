@@ -1,1 +1,1 @@
-var mnemonic = "furnace plunge maze donate screen retreat please borrow delay buzz rebel term";
+var mnemonic = "business nothing inquiry glove about crew hazard swap mushroom old hair donkey";

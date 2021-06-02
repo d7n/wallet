@@ -1,1 +1,1 @@
-var mnemonic = "hammer notable occur twist old print raise rally place candy mistake walk";
+var mnemonic = "bench direct basic banner blast used aunt narrow patch century click cinnamon";

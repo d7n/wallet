@@ -1,1 +1,1 @@
-var mnemonic = "garment nerve tank panther choose where thunder kite mix embody shrimp wise";
+var mnemonic = "chuckle photo fog coil list grief toe vacant normal timber rate sheriff";

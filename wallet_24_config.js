@@ -1,1 +1,1 @@
-var mnemonic = "polar coach aisle museum metal exact action plunge bind weekend foil mammal";
+var mnemonic = "canal essence topple version weasel slice snake once sponsor silly ring manage";

@@ -1,1 +1,1 @@
-var mnemonic = "bike deny wide result circle sibling aisle census hour shaft shift frost";
+var mnemonic = "elegant strong rigid maximum sand lizard fury slight fringe name forget impact";

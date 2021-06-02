@@ -1,1 +1,1 @@
-var mnemonic = "gravity just hand cheese dial smile pool false clay vicious oyster review";
+var mnemonic = "floor result couch attract dune apple dentist pizza defy about seed answer";

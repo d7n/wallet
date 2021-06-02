@@ -1,1 +1,1 @@
-var mnemonic = "daughter service spawn satoshi olive people boil west saddle soft dust advance";
+var mnemonic = "direct pelican fork drive evil head current essay menu track mesh wife";

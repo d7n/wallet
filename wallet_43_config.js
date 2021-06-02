@@ -1,1 +1,1 @@
-var mnemonic = "turtle lemon bulb uncover dumb toss tenant tube update latin sample sure";
+var mnemonic = "buddy float animal receive insane junior eye into club trip outer when";

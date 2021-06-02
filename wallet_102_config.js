@@ -1,1 +1,1 @@
-var mnemonic = "film draft rocket arrange route easy gossip repair seven crumble rally trade";
+var mnemonic = "detect kind play scheme hamster high brush tongue reject man wire session";

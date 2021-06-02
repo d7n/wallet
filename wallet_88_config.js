@@ -1,1 +1,1 @@
-var mnemonic = "script dumb envelope purity hill wait hold story crop category hat knock";
+var mnemonic = "august leg phrase armor craft boy leave pole modify ladder insane acoustic";

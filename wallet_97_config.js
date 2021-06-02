@@ -1,1 +1,1 @@
-var mnemonic = "duck search source opera candy disorder forest such pig cute lion budget";
+var mnemonic = "also hurdle entry auction bone paddle kidney reduce pulse more circle dog";

@@ -1,1 +1,1 @@
-var mnemonic = "domain prefer glance ozone absent abuse umbrella curious general boy discover guitar";
+var mnemonic = "run only also strong trade river exercise confirm ensure tape accident admit";

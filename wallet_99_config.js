@@ -1,1 +1,1 @@
-var mnemonic = "plunge divorce jump like notable rib almost process grace gasp solid shy";
+var mnemonic = "range broccoli soul ball canvas luggage keen argue floor thought loyal casual";

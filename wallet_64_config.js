@@ -1,1 +1,1 @@
-var mnemonic = "zone inhale point grunt pulse special often pair push false alone unfair";
+var mnemonic = "wrestle code slender erosion brother spot viable exist fortune cushion act rather";

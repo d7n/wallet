@@ -1,1 +1,1 @@
-var mnemonic = "wire surface tape cat plunge sniff few rally invite height gadget doll";
+var mnemonic = "ticket iron develop blue jeans tag weather cupboard spare fresh talk picture";

@@ -1,1 +1,1 @@
-var mnemonic = "slide lab wolf wood spray across exchange amount accuse fatal amount minimum";
+var mnemonic = "spatial want fault tackle worry giggle grow earth swamp leisure tower enforce";

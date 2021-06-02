@@ -1,1 +1,1 @@
-var mnemonic = "mutual skull review advice claim humble bench warm ready harvest lend rescue";
+var mnemonic = "easy royal buffalo disease jewel usual project order tackle always lava more";

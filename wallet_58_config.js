@@ -1,1 +1,1 @@
-var mnemonic = "shiver lesson another seat health uncle wise involve modify loud also kitten";
+var mnemonic = "subway scene elevator finger maid finger armor appear explain awful filter torch";

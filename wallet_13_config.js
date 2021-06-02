@@ -1,1 +1,1 @@
-var mnemonic = "book treat fluid cable avocado skill enter comic horn curious shoe dirt";
+var mnemonic = "math echo flock green bless name agent snap domain annual enter cash";

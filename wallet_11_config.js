@@ -1,1 +1,1 @@
-var mnemonic = "people custom fantasy unhappy evolve resource laundry injury carbon purse sail biology";
+var mnemonic = "skirt library birth tired canyon balance express trend neutral hurt hamster tone";

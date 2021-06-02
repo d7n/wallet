@@ -1,1 +1,1 @@
-var mnemonic = "sick drama there elite spatial dawn toddler aim mammal nose turn inflict";
+var mnemonic = "coyote random soap until matter thunder begin document cattle reveal safe blouse";

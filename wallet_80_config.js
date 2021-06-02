@@ -1,1 +1,1 @@
-var mnemonic = "rather rail bracket scrap direct price limb wage truck tonight spy maze";
+var mnemonic = "response cash animal shock unaware winter spawn swallow pause female dream thing";

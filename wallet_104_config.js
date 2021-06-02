@@ -1,1 +1,1 @@
-var mnemonic = "baby casual unique peasant initial scatter body frame sad run gorilla local";
+var mnemonic = "toddler peasant fever merit surface magic chase shock charge lesson champion bless";

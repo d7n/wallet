@@ -1,1 +1,1 @@
-var mnemonic = "grunt siren fame leopard joy fantasy cabin gym village honey couch evidence";
+var mnemonic = "dolphin mirror example rely rent estate final witness view impulse cabin special";

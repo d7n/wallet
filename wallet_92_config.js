@@ -1,1 +1,1 @@
-var mnemonic = "token ecology radar cute great peanut tennis group grab twist pupil increase";
+var mnemonic = "alarm speed rose laundry never arrest rural joke pencil wrestle trash later";

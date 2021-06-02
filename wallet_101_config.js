@@ -1,1 +1,1 @@
-var mnemonic = "voice balance divorce reject autumn search echo crane answer tray honey virus";
+var mnemonic = "tag stuff goose era vibrant grace siren surround miracle mass chair toss";

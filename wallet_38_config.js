@@ -1,1 +1,1 @@
-var mnemonic = "again wire toe bullet actress tomorrow violin sheriff end column student album";
+var mnemonic = "ask check cattle tail vendor life blush glow advice warm future identify";

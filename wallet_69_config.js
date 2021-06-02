@@ -1,1 +1,1 @@
-var mnemonic = "coffee undo ankle meat charge build breeze sting swear maid spin crouch";
+var mnemonic = "sample assist surface coin unveil trash bacon remove ribbon assist leaf luggage";

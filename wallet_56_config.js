@@ -1,1 +1,1 @@
-var mnemonic = "task blanket federal gloom cover utility horror whale year wild attract clinic";
+var mnemonic = "agent liquid universe transfer lava doll orient fit exhaust mammal patrol resist";

@@ -1,1 +1,1 @@
-var mnemonic = "debate future grain race pill suit same include walnut beach episode april";
+var mnemonic = "virtual ozone toss video joke venue impact auto verify uniform fitness syrup";

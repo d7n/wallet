@@ -1,1 +1,1 @@
-var mnemonic = "donate away blue rigid scale wild illness fantasy tuition palm alley stereo";
+var mnemonic = "reject embrace bar grace frost tree hedgehog begin time want candy vicious";

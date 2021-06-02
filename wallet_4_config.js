@@ -1,1 +1,1 @@
-var mnemonic = "inner response entry start special slide gallery speed bargain tissue choice dismiss";
+var mnemonic = "time light inmate illegal group verb assault oak card harsh party save";

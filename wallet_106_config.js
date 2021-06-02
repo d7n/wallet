@@ -1,1 +1,1 @@
-var mnemonic = "confirm puzzle march ladder carry swim impact mass genius foster water wage";
+var mnemonic = "vibrant client scan foam enforce embody flip chef prosper estate comic grid";

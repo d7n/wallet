@@ -1,1 +1,1 @@
-var mnemonic = "bacon thank prize surge dress mammal dynamic tide wedding flip rival source";
+var mnemonic = "hard atom gain alpha long tail fruit fetch junk attract buyer total";

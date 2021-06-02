@@ -1,1 +1,1 @@
-var mnemonic = "crowd ball mosquito appear romance cactus elephant hazard ask update fever kid";
+var mnemonic = "regret rose scheme bread harsh patrol simple spread control wool bracket bean";

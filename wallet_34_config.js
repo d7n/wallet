@@ -1,1 +1,1 @@
-var mnemonic = "surface during vicious tide traffic garbage bonus october exact dust weather fade";
+var mnemonic = "lemon zone unknown rough license outer cash rate match deny daughter language";

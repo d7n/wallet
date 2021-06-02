@@ -1,1 +1,1 @@
-var mnemonic = "shuffle symbol weapon asthma patch you over brave merry whisper bring profit";
+var mnemonic = "toddler grief decade legal custom lounge quarter kite train ocean caught ripple";

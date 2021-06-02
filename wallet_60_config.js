@@ -1,1 +1,1 @@
-var mnemonic = "wash tube praise current flower spoon task talent produce food obvious reject";
+var mnemonic = "strategy project talent secret key share tragic suffer genuine bottom clay order";

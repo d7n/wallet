@@ -1,1 +1,1 @@
-var mnemonic = "club define maid spider much swear blanket obey butter return poverty crawl";
+var mnemonic = "scatter broken million will flat heavy pistol tiny stadium engage grass tobacco";

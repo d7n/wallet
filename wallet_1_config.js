@@ -1,1 +1,1 @@
-var mnemonic = "tiger acoustic sense universe crop benefit tattoo engine collect prepare coffee pluck";
+var mnemonic = "garden that range inject supreme banner dose breeze target exchange duck depart";

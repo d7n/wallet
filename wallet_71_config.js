@@ -1,1 +1,1 @@
-var mnemonic = "rookie uniform drift exercise scatter isolate cloth tornado ability crawl frost note";
+var mnemonic = "grow item solution concert ugly shine crisp side limb blush turn tuition";

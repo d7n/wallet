@@ -1,1 +1,1 @@
-var mnemonic = "collect bulb pen net purchase deny lemon december void lift random quit";
+var mnemonic = "forget make wall wheel exhibit jacket pioneer hockey happy during cruise spray";

@@ -1,1 +1,1 @@
-var mnemonic = "stick debris change argue spin there game badge orange powder bubble artefact";
+var mnemonic = "viable board tiger universe usual people fox scale remain aerobic boat topple";

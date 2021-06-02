@@ -1,1 +1,1 @@
-var mnemonic = "cloud company best number flee sock cloud bargain stove twenty fog people";
+var mnemonic = "together diamond damage napkin similar come acid grow chase beef chicken opinion";

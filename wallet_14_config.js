@@ -1,1 +1,1 @@
-var mnemonic = "skill season father crime noodle divide crush stamp order canal sorry route";
+var mnemonic = "feel celery divorce video among adapt march card wrestle pride pulse camp";

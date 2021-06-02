@@ -1,1 +1,1 @@
-var mnemonic = "uncover social delay october thumb sight rich survey actress prosper hamster arrest";
+var mnemonic = "sample menu venture short indicate air learn sing glue tag misery canvas";

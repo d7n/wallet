@@ -1,1 +1,1 @@
-var mnemonic = "lizard insane panther second solve blind update siege acoustic meat tent garlic";
+var mnemonic = "okay squeeze fun sunset inch sister smoke chest wish symptom solve bid";

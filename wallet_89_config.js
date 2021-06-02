@@ -1,1 +1,1 @@
-var mnemonic = "nurse wash tunnel rough witness cupboard gospel tobacco erode allow pelican awake";
+var mnemonic = "hole tilt holiday denial spoon coral misery rain reward now mansion bone";

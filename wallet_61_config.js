@@ -1,1 +1,1 @@
-var mnemonic = "grunt depart forward fall seek club video defy hedgehog relax curve pool";
+var mnemonic = "torch breeze gown winner east sense size great problem smart invest omit";

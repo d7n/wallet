@@ -1,1 +1,1 @@
-var mnemonic = "bicycle certain until pair category silk sadness chest nut nephew hope danger";
+var mnemonic = "draft question able monitor tiny evil ill industry rich orbit solution easy";

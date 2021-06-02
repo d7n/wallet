@@ -1,1 +1,1 @@
-var mnemonic = "behave dinner filter sibling upper loop expire enhance swamp cook give night";
+var mnemonic = "cigar satisfy delay address jacket swift fee patch neutral rotate immune end";

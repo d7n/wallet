@@ -1,1 +1,1 @@
-var mnemonic = "success mushroom urban solar tell universe sibling fat zebra trash squeeze jaguar";
+var mnemonic = "cloth bunker immune cat hub glory direct shift reason swap easy rescue";

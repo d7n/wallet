@@ -1,1 +1,1 @@
-var mnemonic = "shuffle draft morning favorite scatter chunk upon famous chef acoustic wheel extend";
+var mnemonic = "snake sell false deny bargain depend top gown fade fetch horn base";

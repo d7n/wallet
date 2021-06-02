@@ -1,1 +1,1 @@
-var mnemonic = "cook certain invite engine father copy grunt notable anchor mail warm play";
+var mnemonic = "olympic buffalo budget staff hazard fork print offer rebuild enact upon pond";
