@@ -1,1 +1,1 @@
-var mnemonic = "flower midnight mask tenant tide away peasant diagram comic gas hobby drink";
+var mnemonic = "clump dynamic mobile eternal chronic bench treat hedgehog april turtle occur corn";

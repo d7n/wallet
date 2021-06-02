@@ -1,1 +1,1 @@
-var mnemonic = "coyote hundred spread spoil vicious cement word much click wine prevent height";
+var mnemonic = "below build box tribe home merit major program fatal damage kite response";

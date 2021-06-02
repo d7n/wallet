@@ -1,1 +1,1 @@
-var mnemonic = "anger team chronic comfort during drill actual news employ agree check frame";
+var mnemonic = "armed law slow limb business fix slush zone suggest sing empower song";

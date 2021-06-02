@@ -1,1 +1,1 @@
-var mnemonic = "toy decide one early pause market scale season second era riot panther";
+var mnemonic = "tobacco unfair tunnel exist news ankle blossom foil dust umbrella claim pledge";

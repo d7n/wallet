@@ -1,1 +1,1 @@
-var mnemonic = "reunion vapor share learn please intact unhappy metal frog safe above critic";
+var mnemonic = "excess school depend govern apart order taste bar sock already story famous";

@@ -1,1 +1,1 @@
-var mnemonic = "grief proud alert man example curtain globe love version win cool utility";
+var mnemonic = "city adult once vicious clerk assist vendor input lamp immense hurry dog";

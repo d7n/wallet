@@ -1,1 +1,1 @@
-var mnemonic = "festival worry congress daring three unveil toast camera rocket credit patrol certain";
+var mnemonic = "buyer disorder kitten echo forget ostrich gauge muffin gorilla erode rice spin";

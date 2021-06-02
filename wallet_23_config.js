@@ -1,1 +1,1 @@
-var mnemonic = "ranch pencil melt tone involve rabbit lesson equal similar chief solid false";
+var mnemonic = "kiss middle patrol scout crumble satoshi subway uncover goose season target open";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer melt rigid loud absent rabbit left venue glimpse advance question trash";
+var mnemonic = "crazy yellow security uphold rare minute vague dash perfect spray lens plate";

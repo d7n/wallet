@@ -1,1 +1,1 @@
-var mnemonic = "hunt pen list express enroll sick unit monster aim acoustic clog outer";
+var mnemonic = "innocent picnic phone rule cousin capital decline attack depend like throw romance";

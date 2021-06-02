@@ -1,1 +1,1 @@
-var mnemonic = "spring enough extend vacant cherry half kidney oak pond group amused wide";
+var mnemonic = "useful track away census resemble one table dilemma industry thunder pumpkin alpha";

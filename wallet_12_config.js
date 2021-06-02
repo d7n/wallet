@@ -1,1 +1,1 @@
-var mnemonic = "lucky swim oil horror title accident rent below trust color round crash";
+var mnemonic = "patient demand divorce slice cart frozen sunny usual into traffic fun fortune";

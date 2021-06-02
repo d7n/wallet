@@ -1,1 +1,1 @@
-var mnemonic = "people frequent pulse asthma dragon bullet cotton december try physical need consider";
+var mnemonic = "mean prison denial miss office original fluid subject task notice other capital";

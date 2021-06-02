@@ -1,1 +1,1 @@
-var mnemonic = "damp chef west mind supreme giant stem zero virus gossip edge tilt";
+var mnemonic = "narrow meadow boring chicken attract foam lazy prefer deer smooth submit sail";

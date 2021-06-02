@@ -1,1 +1,1 @@
-var mnemonic = "shell female border motion census fiber rent ethics discover thumb radio control";
+var mnemonic = "feature symptom luxury gift maple powder mammal turtle indicate verb inspire sun";

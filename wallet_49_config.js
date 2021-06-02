@@ -1,1 +1,1 @@
-var mnemonic = "patch habit soul scatter bar artefact stereo fashion upgrade oven vocal runway";
+var mnemonic = "young onion winner vintage sorry ankle exile distance pass expire winter above";

@@ -1,1 +1,1 @@
-var mnemonic = "spell inhale palace monkey foot rule episode salute twelve spray lesson genuine";
+var mnemonic = "tide company road license laundry today loop nature luggage view album degree";

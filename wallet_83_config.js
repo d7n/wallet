@@ -1,1 +1,1 @@
-var mnemonic = "fossil crouch lecture steel egg sail middle rug pole ridge skin avocado";
+var mnemonic = "kite success chest wood sphere key nothing year fit clog penalty stone";

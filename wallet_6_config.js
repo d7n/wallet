@@ -1,1 +1,1 @@
-var mnemonic = "tiny crunch ranch soft noodle rotate quarter cabin company rifle bonus buffalo";
+var mnemonic = "crunch poem eager collect session hero quantum sunset word mind post maple";

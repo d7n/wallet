@@ -1,1 +1,1 @@
-var mnemonic = "quote machine buzz leopard nation craft minimum leopard price worth fix universe";
+var mnemonic = "youth unit sniff leader dolphin cup spice biology plastic refuse outer refuse";

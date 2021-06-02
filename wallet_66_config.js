@@ -1,1 +1,1 @@
-var mnemonic = "biology taste forget section mistake tattoo bar fame behave dish moment flat";
+var mnemonic = "gorilla spirit bundle blur scan chicken dismiss range proud faculty liquid main";

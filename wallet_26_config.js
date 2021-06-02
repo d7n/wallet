@@ -1,1 +1,1 @@
-var mnemonic = "crouch able holiday occur yard panic eyebrow case jaguar magic pistol sand";
+var mnemonic = "quit trumpet author assist scene explain curve cost scrub grass custom arena";

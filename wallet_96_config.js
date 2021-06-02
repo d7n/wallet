@@ -1,1 +1,1 @@
-var mnemonic = "slight actress purchase insane decade abandon error buzz economy diet salad ghost";
+var mnemonic = "spy name crush immense fly spy cargo baby book mango august saddle";

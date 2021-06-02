@@ -1,1 +1,1 @@
-var mnemonic = "manual route bike essence wolf reward yellow labor same essay lemon ancient";
+var mnemonic = "sentence bargain utility spend scale never describe shove hint cabin catch pulse";

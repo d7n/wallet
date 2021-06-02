@@ -1,1 +1,1 @@
-var mnemonic = "rare warfare bubble power yard income rich prison ball install drop ill";
+var mnemonic = "trick unlock decade sponsor involve thrive fault exclude birth use position august";

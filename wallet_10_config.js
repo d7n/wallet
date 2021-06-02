@@ -1,1 +1,1 @@
-var mnemonic = "update reflect name model mimic birth fatigue churn health tube drill busy";
+var mnemonic = "wool kit liberty turn boost wait course cradle theme trap able hospital";

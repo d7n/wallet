@@ -1,1 +1,1 @@
-var mnemonic = "trim exchange embrace banana slim agree jaguar broken soccer bicycle aisle target";
+var mnemonic = "blossom guide kiwi hunt party diet twelve all stay gauge solve focus";

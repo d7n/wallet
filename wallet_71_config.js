@@ -1,1 +1,1 @@
-var mnemonic = "among sunny ecology absent chapter laptop start title valve illegal olympic april";
+var mnemonic = "noble equal soldier retire guitar level initial lamp artefact unaware ketchup point";

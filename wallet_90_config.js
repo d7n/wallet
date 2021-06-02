@@ -1,1 +1,1 @@
-var mnemonic = "escape virtual caught chapter voyage drastic barely bird truck fatal want control";
+var mnemonic = "bless dilemma observe video execute price title boy assist angry journey noise";

@@ -1,1 +1,1 @@
-var mnemonic = "minor very cherry frost little lamp friend orient exotic school settle found";
+var mnemonic = "young cabin same bulb grief help modify chair element hobby future swamp";

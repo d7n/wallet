@@ -1,1 +1,1 @@
-var mnemonic = "shoulder grape opinion audit smoke symptom december butter wire seat arrest waste";
+var mnemonic = "embody surprise angle interest quarter gift baby expose mimic street soft exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty hamster energy curious thing layer skate brief harvest mutual amazing gaze";
+var mnemonic = "squeeze dinner mango update remember crater drum ugly draw abandon chest health";

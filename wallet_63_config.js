@@ -1,1 +1,1 @@
-var mnemonic = "poet oven puppy want law rose choice bicycle joke slight police idle";
+var mnemonic = "lounge start ship wide credit attitude illness alien voice theory obscure share";

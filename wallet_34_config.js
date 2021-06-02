@@ -1,1 +1,1 @@
-var mnemonic = "misery spawn order need ridge any library sentence cancel dress window chair";
+var mnemonic = "quarter focus protect maximum smoke suspect empty face glance exclude scorpion recipe";

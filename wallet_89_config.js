@@ -1,1 +1,1 @@
-var mnemonic = "current soda quantum web onion flip gasp family shallow country coil naive";
+var mnemonic = "teach rhythm giraffe wedding domain enemy siege lamp license napkin then tennis";

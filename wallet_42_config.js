@@ -1,1 +1,1 @@
-var mnemonic = "prosper gospel simple pipe rice debris private hood clip hello now august";
+var mnemonic = "obey garlic twist violin burger already donate feature brass grocery torch north";

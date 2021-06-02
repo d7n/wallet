@@ -1,1 +1,1 @@
-var mnemonic = "farm paddle happy chuckle exhaust shield tired drip that pet love evil";
+var mnemonic = "famous imitate ten steel rebel zero flight style scorpion okay trend bench";

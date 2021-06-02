@@ -1,1 +1,1 @@
-var mnemonic = "soldier uphold crush neither ripple sugar imitate joke chapter erode coral wisdom";
+var mnemonic = "guilt monkey polar trim because six excuse give shoot forest treat enrich";

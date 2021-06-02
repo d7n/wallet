@@ -1,1 +1,1 @@
-var mnemonic = "myself toast virtual smart render coin food spoon vivid wage orbit town";
+var mnemonic = "misery order cheap since below bread lunch trim vocal shuffle catalog jaguar";

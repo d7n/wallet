@@ -1,1 +1,1 @@
-var mnemonic = "industry swallow announce maid any carry impose near bundle leader buffalo key";
+var mnemonic = "cash prize clap apology search rifle rubber rookie start physical dad burger";

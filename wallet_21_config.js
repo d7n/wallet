@@ -1,1 +1,1 @@
-var mnemonic = "inflict axis omit crawl quarter cake clarify thought little burger fiscal scout";
+var mnemonic = "middle bullet turn canal man father question friend rose boring maximum govern";

@@ -1,1 +1,1 @@
-var mnemonic = "super pattern stereo twenty olympic video siren diary poet bright resemble cost";
+var mnemonic = "man object behind heavy moral coin inherit tackle attitude resist flat walk";

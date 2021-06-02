@@ -1,1 +1,1 @@
-var mnemonic = "aunt baby alarm else vast umbrella stool diary meadow talk already jealous";
+var mnemonic = "spirit sick bus funny weekend patch panda census avoid fault party reject";

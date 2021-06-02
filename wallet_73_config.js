@@ -1,1 +1,1 @@
-var mnemonic = "deliver kind social crisp notice trim draw approve industry pledge token milk";
+var mnemonic = "material cargo chalk essence hard radar color unit brass satoshi paddle tag";

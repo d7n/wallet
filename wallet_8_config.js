@@ -1,1 +1,1 @@
-var mnemonic = "harvest car pigeon silk around nice limb walnut kitchen hood attitude film";
+var mnemonic = "property mutual flip feature below funny beauty inner wall pass auto west";

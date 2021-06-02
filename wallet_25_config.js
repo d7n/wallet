@@ -1,1 +1,1 @@
-var mnemonic = "carpet only spy chuckle merry goose unaware detect crisp antenna vacant hire";
+var mnemonic = "upper negative bike physical boil inject suspect certain ketchup uncover invite artwork";

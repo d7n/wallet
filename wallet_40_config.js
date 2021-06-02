@@ -1,1 +1,1 @@
-var mnemonic = "wool shock universe roof orient sound open trash humor exhibit custom book";
+var mnemonic = "shop label chalk hip utility clutch industry blue favorite wire music fiction";

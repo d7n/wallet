@@ -1,1 +1,1 @@
-var mnemonic = "hand feed present sample lady absurd help dwarf settle bike carbon physical";
+var mnemonic = "broccoli age box layer among gorilla buzz acid annual amount they rescue";

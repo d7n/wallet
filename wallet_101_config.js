@@ -1,1 +1,1 @@
-var mnemonic = "join end pole hundred current moral loyal gate lawn render sister assist";
+var mnemonic = "cinnamon magic hint stick oak left limb forest hockey whale chaos cancel";

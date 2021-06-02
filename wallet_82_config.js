@@ -1,1 +1,1 @@
-var mnemonic = "doll fault awesome fashion prevent identify about legend ribbon lesson call cable";
+var mnemonic = "seek degree ten riot festival sound tray october kitchen diamond swallow account";

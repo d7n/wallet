@@ -1,1 +1,1 @@
-var mnemonic = "broom slight awesome base art language worry sphere december fringe coil pupil";
+var mnemonic = "flee asthma upgrade pear patch anchor road spell myself poem focus vocal";

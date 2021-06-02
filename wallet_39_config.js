@@ -1,1 +1,1 @@
-var mnemonic = "wear gossip appear furnace what symptom snap dash spatial miss ladder plunge";
+var mnemonic = "minute tattoo brand rose retire talent kangaroo tunnel shallow frog mystery spare";

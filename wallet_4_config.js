@@ -1,1 +1,1 @@
-var mnemonic = "crater type upper hub able fit van area paddle air junior equal";
+var mnemonic = "add indoor fire board local evidence book exchange direct sweet ski path";

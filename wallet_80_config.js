@@ -1,1 +1,1 @@
-var mnemonic = "grunt laptop urban napkin apology divert tip goose opera history collect oyster";
+var mnemonic = "lock actual book champion divorce vacant fix over mutual annual purse atom";

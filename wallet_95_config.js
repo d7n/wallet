@@ -1,1 +1,1 @@
-var mnemonic = "faint stick bundle hope dawn chaos address antenna iron tonight cement actor";
+var mnemonic = "essence cross lumber goat twin buyer alert true lady tonight inch inherit";

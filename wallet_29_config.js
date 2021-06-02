@@ -1,1 +1,1 @@
-var mnemonic = "shock siren combine hidden whisper trial hint dawn proof robust sphere matrix";
+var mnemonic = "flip innocent shrug donate kitten proof hire manage clean desk garage height";

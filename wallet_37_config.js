@@ -1,1 +1,1 @@
-var mnemonic = "insane output list issue rough belt day artwork song pond say match";
+var mnemonic = "police melody box smile paddle situate assist risk spot keep crucial else";

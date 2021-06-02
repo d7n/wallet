@@ -1,1 +1,1 @@
-var mnemonic = "radar mimic account cloth normal upper accuse grief weather reunion erase scout";
+var mnemonic = "bright okay slush toast twin basket immense bus giraffe danger solve hammer";

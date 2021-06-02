@@ -1,1 +1,1 @@
-var mnemonic = "maple turkey appear cook maximum grape garlic regret squeeze drama mixed army";
+var mnemonic = "solid follow clever banana runway sponsor index destroy grace easily arrive rice";

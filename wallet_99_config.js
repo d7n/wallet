@@ -1,1 +1,1 @@
-var mnemonic = "side imitate gossip anger guitar afraid visual farm banana knee blind okay";
+var mnemonic = "cupboard since wonder early mail mouse jeans confirm tiger balcony holiday faint";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic category equip visual ostrich fetch parent sweet fetch unit year like";
+var mnemonic = "jazz laundry wait exhibit ten primary imitate insect hurt achieve sound target";

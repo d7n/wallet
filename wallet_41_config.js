@@ -1,1 +1,1 @@
-var mnemonic = "impulse assume mask tonight inform protect dad local obvious science stamp lady";
+var mnemonic = "series catalog wheel fire grape another sort tongue erase art birth angle";

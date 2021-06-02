@@ -1,1 +1,1 @@
-var mnemonic = "upon tuna delay oppose media sea swap hurdle bench impulse depth flavor";
+var mnemonic = "slush dragon sustain current upper recipe real satoshi home arrive truth friend";

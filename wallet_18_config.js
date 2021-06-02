@@ -1,1 +1,1 @@
-var mnemonic = "solid multiply victory case action benefit mad demise picnic common sick finger";
+var mnemonic = "impact rescue bless pudding what pottery cook immune tail pill talent tape";

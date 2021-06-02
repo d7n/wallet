@@ -1,1 +1,1 @@
-var mnemonic = "keen menu polar rail fine hip hand shop staff find marriage ginger";
+var mnemonic = "boss erupt motor thunder connect bicycle blossom degree expect obscure salute toward";

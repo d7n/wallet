@@ -1,1 +1,1 @@
-var mnemonic = "blade envelope kiwi pear pen dawn flat parade sword way disease river";
+var mnemonic = "middle soon purity robot outdoor engine wrist chapter all salt end dad";

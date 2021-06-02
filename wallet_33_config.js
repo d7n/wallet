@@ -1,1 +1,1 @@
-var mnemonic = "lake tonight harbor plate common future team dentist share warfare group welcome";
+var mnemonic = "feed distance source have code law myself scrub comic undo survey unaware";

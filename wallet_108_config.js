@@ -1,1 +1,1 @@
-var mnemonic = "attract east grief outer display glare crew false purpose boring welcome flavor";
+var mnemonic = "crouch cash arrange dwarf comfort oil bubble abandon fence way raw crisp";

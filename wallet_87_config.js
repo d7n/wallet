@@ -1,1 +1,1 @@
-var mnemonic = "mention cherry tiny salute coach home remove bench donate address edge erupt";
+var mnemonic = "nose cycle glow useless hen beyond panda head regular indoor lawsuit dynamic";

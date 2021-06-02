@@ -1,1 +1,1 @@
-var mnemonic = "icon ostrich major pair ginger more half purpose neck fancy guard wheat";
+var mnemonic = "valley receive pave balance attack enough globe mixed piece obtain screen various";

@@ -1,1 +1,1 @@
-var mnemonic = "flip energy expire sadness crazy post purchase category gate track maid dice";
+var mnemonic = "fish egg actress easily reward jewel north scan enact never ill stage";

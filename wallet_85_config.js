@@ -1,1 +1,1 @@
-var mnemonic = "pony auto gossip gesture sausage air still remember saddle conduct exhaust width";
+var mnemonic = "outside puppy cube wink letter dish march donor behave depend identify lava";

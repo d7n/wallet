@@ -1,1 +1,1 @@
-var mnemonic = "heart calm evolve help absent list pond humble few stamp youth biology";
+var mnemonic = "drama prize cart describe seminar arrange essay museum resemble reject green raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect toward anxiety clog cup vessel cruel olympic inmate ethics script dice";
+var mnemonic = "smooth warrior earn begin wire risk sibling kind blind excess inflict balance";

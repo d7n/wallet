@@ -1,1 +1,1 @@
-var mnemonic = "margin once tuition pepper evil wrestle surprise then fit unfair eight weather";
+var mnemonic = "phone acoustic design area album earn high throw atom sell crew bid";

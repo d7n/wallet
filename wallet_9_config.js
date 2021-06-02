@@ -1,1 +1,1 @@
-var mnemonic = "liquid what smooth arrive setup illness ivory degree artwork physical narrow tonight";
+var mnemonic = "orbit tell thumb effort confirm bachelor secret timber company raise tray ramp";

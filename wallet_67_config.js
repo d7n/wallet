@@ -1,1 +1,1 @@
-var mnemonic = "avocado tent gather relax music type zebra web relax radar bracket radar";
+var mnemonic = "corn file wrist just leaf balcony amount paper focus modify dilemma deal";

@@ -1,1 +1,1 @@
-var mnemonic = "start lumber betray measure friend phrase kite own monkey paddle emerge capable";
+var mnemonic = "wash media tag dash height marriage depart alarm hidden curtain detail snack";

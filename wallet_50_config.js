@@ -1,1 +1,1 @@
-var mnemonic = "crunch student boy noble easily sleep post copy submit expire link kingdom";
+var mnemonic = "abstract ten buddy next oak brush candy gravity stamp purse curtain disease";

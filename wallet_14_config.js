@@ -1,1 +1,1 @@
-var mnemonic = "grocery spring hospital jealous tobacco accident ethics type decorate noodle improve night";
+var mnemonic = "join abuse hip reform similar same possible basket share relief fee under";

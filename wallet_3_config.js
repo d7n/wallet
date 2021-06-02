@@ -1,1 +1,1 @@
-var mnemonic = "frame twice dirt keen rocket chaos detect warm juice truck inmate order";
+var mnemonic = "civil spare pause letter resource daughter draw twelve woman cousin foot because";

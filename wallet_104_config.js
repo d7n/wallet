@@ -1,1 +1,1 @@
-var mnemonic = "ketchup exclude cage term drill where corn unique seat oil impose online";
+var mnemonic = "behave cherry debate accident infant hip case couch harsh movie error undo";

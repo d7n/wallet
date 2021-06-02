@@ -1,1 +1,1 @@
-var mnemonic = "rug balance swear inch inmate brother elbow sorry equal interest trash cinnamon";
+var mnemonic = "misery useful student carbon diesel rely empower snow lesson diet sell cave";

@@ -1,1 +1,1 @@
-var mnemonic = "dream join next wash blossom later pen february diet spray crush file";
+var mnemonic = "cattle popular train finger one damage volcano crime artwork bunker observe twice";

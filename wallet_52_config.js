@@ -1,1 +1,1 @@
-var mnemonic = "coin kidney isolate noble oblige awkward civil wise rabbit blouse use leopard";
+var mnemonic = "laugh digital myself art dry horror mom impulse dose federal pluck race";

@@ -1,1 +1,1 @@
-var mnemonic = "reject solve approve obtain fossil repeat typical time suffer forum vapor stand";
+var mnemonic = "arrange toward dove pet position ribbon wet whip special tuition tragic parrot";

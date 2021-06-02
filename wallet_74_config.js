@@ -1,1 +1,1 @@
-var mnemonic = "avoid acquire private book rival collect shy front crush cereal sport gym";
+var mnemonic = "flee spice borrow stove snap hammer caution girl relief pioneer crunch doctor";

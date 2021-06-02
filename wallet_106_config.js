@@ -1,1 +1,1 @@
-var mnemonic = "ignore soft piano category hub pill rally slush spy elegant student magic";
+var mnemonic = "whisper foot inform double feel imitate multiply tooth enjoy mystery differ defense";
