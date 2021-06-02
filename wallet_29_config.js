@@ -1,1 +1,1 @@
-var mnemonic = "bind deny custom beach harsh large mass eagle winter uphold draw chapter";
+var mnemonic = "wheel skate waste install recipe equal laugh matrix cricket check carbon useful";

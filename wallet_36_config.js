@@ -1,1 +1,1 @@
-var mnemonic = "olympic brother gather bleak flight health fiscal flee view physical until shove";
+var mnemonic = "siren marriage future happy typical coach moment student pilot large genuine fame";

@@ -1,1 +1,1 @@
-var mnemonic = "fine fury surface dish legend flight super return orchard custom industry visit";
+var mnemonic = "analyst amount radar boost taxi success sorry jazz capable grocery secret marine";

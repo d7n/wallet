@@ -1,1 +1,1 @@
-var mnemonic = "special domain palace banner solid verify jump face essay demand second verb";
+var mnemonic = "tornado gentle kit mixture eagle fine expose safe item correct blast elephant";

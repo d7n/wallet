@@ -1,1 +1,1 @@
-var mnemonic = "limb hawk brain family member jaguar question aisle quiz hunt taxi lobster";
+var mnemonic = "topic kick stool swim toddler novel dutch laptop addict sorry someone must";

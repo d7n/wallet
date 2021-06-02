@@ -1,1 +1,1 @@
-var mnemonic = "hunt woman ask notice flower wagon scrap soon view ozone three mandate";
+var mnemonic = "burden lady hour fringe fiction train song accuse mosquito thrive dawn thank";

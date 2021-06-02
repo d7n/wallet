@@ -1,1 +1,1 @@
-var mnemonic = "body casino earn pitch garlic clap weasel chest tag clinic concert session";
+var mnemonic = "faculty service hand census swing patient real glow breeze lava canal gossip";

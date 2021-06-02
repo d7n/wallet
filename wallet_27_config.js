@@ -1,1 +1,1 @@
-var mnemonic = "mechanic print soon orient zoo convince random column jewel deputy kidney about";
+var mnemonic = "plug undo cliff find engine planet pull click disorder glove dawn hazard";

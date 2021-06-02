@@ -1,1 +1,1 @@
-var mnemonic = "sort wash father royal certain nature brand similar vapor dilemma behave renew";
+var mnemonic = "real crush sort flame sight burger wear coral scout army decline mushroom";

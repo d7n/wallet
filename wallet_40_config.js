@@ -1,1 +1,1 @@
-var mnemonic = "hospital excess tip weekend shoe client toddler twice traffic daughter flavor thunder";
+var mnemonic = "truth lake fat inspire hungry enforce tag deputy few caution theory balcony";

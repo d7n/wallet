@@ -1,1 +1,1 @@
-var mnemonic = "kick inner narrow must lab grit abuse shoe april elite gentle relief";
+var mnemonic = "gain feel pioneer game cherry zone wear door fragile corn rail panel";

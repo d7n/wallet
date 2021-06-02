@@ -1,1 +1,1 @@
-var mnemonic = "economy color goddess grit crater ecology hedgehog violin will law borrow uncover";
+var mnemonic = "safe benefit thought observe tape argue panic deliver unfold puzzle monitor trumpet";

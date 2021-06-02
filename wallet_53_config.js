@@ -1,1 +1,1 @@
-var mnemonic = "bulk recycle favorite lyrics immense place twelve city fossil energy drive approve";
+var mnemonic = "piece anchor curtain truly turkey grass thumb concert rail world topple topple";

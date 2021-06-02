@@ -1,1 +1,1 @@
-var mnemonic = "oxygen jump relax embrace spatial behind author brown dentist battle suffer bulk";
+var mnemonic = "polar physical hat check liberty pull author arm glimpse scissors inherit dynamic";

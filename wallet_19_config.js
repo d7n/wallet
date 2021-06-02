@@ -1,1 +1,1 @@
-var mnemonic = "kiss quote screen phone rug deal hire firm close north banana egg";
+var mnemonic = "orphan blossom family guide language eagle outer renew payment monster frozen tag";

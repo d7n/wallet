@@ -1,1 +1,1 @@
-var mnemonic = "kiwi trick purchase patient detail explain long leader connect animal physical muffin";
+var mnemonic = "liquid sound notice occur wrong attract ship rude angle snake small journey";

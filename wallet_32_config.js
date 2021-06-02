@@ -1,1 +1,1 @@
-var mnemonic = "front radio teach giggle logic crush estate silk skill canyon main pitch";
+var mnemonic = "sail stumble okay attend observe alert pretty stone purchase grab sting cool";

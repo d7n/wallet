@@ -1,1 +1,1 @@
-var mnemonic = "reveal cry tone regular budget mean wine detail cave pair will lamp";
+var mnemonic = "discover grief cover athlete clarify empower tuition bird dish chimney mom history";

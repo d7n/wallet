@@ -1,1 +1,1 @@
-var mnemonic = "infant rocket tiny leader escape assume gorilla speed creek ride alley hurry";
+var mnemonic = "pizza shallow feel shadow educate slender outdoor economy unable antenna staff keen";

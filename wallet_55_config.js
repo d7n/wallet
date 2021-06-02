@@ -1,1 +1,1 @@
-var mnemonic = "win figure lumber illegal speed behind material slush view fence reason stamp";
+var mnemonic = "faint such unique affair path imitate sand rail arch rent device seminar";

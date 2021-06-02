@@ -1,1 +1,1 @@
-var mnemonic = "pilot involve divide wage portion chapter attract remove embrace deal ability trip";
+var mnemonic = "tornado narrow prefer slice outdoor vague about actress print wrong hobby source";

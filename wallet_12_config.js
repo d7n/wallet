@@ -1,1 +1,1 @@
-var mnemonic = "rain volume wine enable dilemma illegal argue beauty banana marriage right typical";
+var mnemonic = "permit tornado outer guard airport race bike hip turkey flavor paddle heavy";

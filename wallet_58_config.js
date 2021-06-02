@@ -1,1 +1,1 @@
-var mnemonic = "ability glory horse zebra wise thrive search game rural lava cream gorilla";
+var mnemonic = "indoor coral rebuild dad seven lunar insect vapor boat shine repeat elevator";

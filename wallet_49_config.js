@@ -1,1 +1,1 @@
-var mnemonic = "output idea enough ankle gain invest piece three leisure prepare mother review";
+var mnemonic = "boat security athlete wonder prize shrimp market virtual aerobic pony coast ozone";

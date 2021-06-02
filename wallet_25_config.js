@@ -1,1 +1,1 @@
-var mnemonic = "promote thunder dutch begin roof clip brief garage swing diet potato sight";
+var mnemonic = "clerk miracle such travel frozen whip rule sing alarm used stereo lounge";

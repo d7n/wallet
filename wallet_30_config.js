@@ -1,1 +1,1 @@
-var mnemonic = "throw logic bronze crystal lawn combine choose sadness come cradle stomach tornado";
+var mnemonic = "farm potato sphere debate chest evidence winner cycle nice day embrace federal";

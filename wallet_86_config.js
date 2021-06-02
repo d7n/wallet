@@ -1,1 +1,1 @@
-var mnemonic = "biology enlist master second vacuum fabric cup olympic ahead stand pond conduct";
+var mnemonic = "blanket pear hockey accuse rule jungle skate smoke run indicate rival acid";

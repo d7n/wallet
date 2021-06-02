@@ -1,1 +1,1 @@
-var mnemonic = "pear beach decline discover beyond frown south inside expose bacon walnut render";
+var mnemonic = "giant wonder stage obtain hazard make cute piano ribbon illegal endless jump";

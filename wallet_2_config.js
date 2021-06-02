@@ -1,1 +1,1 @@
-var mnemonic = "give name step south little crack mom clerk distance pistol recall burger";
+var mnemonic = "impact split rude jacket file attend merit resource remove bleak dawn thank";

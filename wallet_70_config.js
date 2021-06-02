@@ -1,1 +1,1 @@
-var mnemonic = "army craft mean wrestle special fox spatial episode scorpion barrel salon turtle";
+var mnemonic = "depth profit piano else cream tent brief project damp minimum size come";

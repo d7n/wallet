@@ -1,1 +1,1 @@
-var mnemonic = "fly relax father submit very priority club panther crash access panther hole";
+var mnemonic = "rack clump auction oppose enough phrase connect ranch noodle twist climb dentist";

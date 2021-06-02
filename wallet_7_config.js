@@ -1,1 +1,1 @@
-var mnemonic = "fog amateur cry endorse expand gas crystal proud clock found frog actor";
+var mnemonic = "dream frequent vocal picnic hockey toilet element chef zero diagram pink usage";

@@ -1,1 +1,1 @@
-var mnemonic = "seed thunder insect eye sunny unhappy parrot key cover original drip climb";
+var mnemonic = "good comic arena awkward arch clean thought tool galaxy tomorrow strategy scheme";

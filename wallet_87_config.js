@@ -1,1 +1,1 @@
-var mnemonic = "vital denial general present chunk must add fiber scene plastic peasant giggle";
+var mnemonic = "hip wink upon guard shed poem pilot tray lunch sun wrestle addict";

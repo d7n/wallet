@@ -1,1 +1,1 @@
-var mnemonic = "beauty minor assume weasel require humor wait repeat budget work service vacuum";
+var mnemonic = "choice double current kitten inspire describe want embark quick repair club gadget";

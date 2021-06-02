@@ -1,1 +1,1 @@
-var mnemonic = "license clog spring orient dune apple relax slender suspect hole pistol return";
+var mnemonic = "roast buddy rotate monitor spatial drop fragile frost hole trend usual right";

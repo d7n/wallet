@@ -1,1 +1,1 @@
-var mnemonic = "issue skill flip resist eagle equal grape walk donkey empower brown lady";
+var mnemonic = "junk slide minimum burger shield cannon noble upgrade crane give quality jungle";

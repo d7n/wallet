@@ -1,1 +1,1 @@
-var mnemonic = "solar renew fragile north town goat fortune false ticket gravity catalog lonely";
+var mnemonic = "forest doctor luggage remove jaguar general depart people service cradle blur olive";

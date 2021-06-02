@@ -1,1 +1,1 @@
-var mnemonic = "delay express penalty tape federal acid negative approve stuff fluid tone fix";
+var mnemonic = "tornado dolphin grape split unhappy ankle asthma swim turn bunker eye claw";

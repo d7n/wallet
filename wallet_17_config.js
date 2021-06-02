@@ -1,1 +1,1 @@
-var mnemonic = "reopen rent pioneer crime venture stick gather claim bargain shaft accuse rural";
+var mnemonic = "more farm mimic produce poet ceiling online have define illegal because adjust";

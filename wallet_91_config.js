@@ -1,1 +1,1 @@
-var mnemonic = "vital mobile leaf urban tornado measure car calm target better cost elbow";
+var mnemonic = "diary knee output avocado region speak sauce yellow flip space portion mesh";

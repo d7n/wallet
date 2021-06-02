@@ -1,1 +1,1 @@
-var mnemonic = "pigeon pond tennis work swim blade local okay draw walnut seek negative";
+var mnemonic = "front differ unknown walk brand please artefact whip scare tomorrow capital magnet";

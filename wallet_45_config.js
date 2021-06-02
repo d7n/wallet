@@ -1,1 +1,1 @@
-var mnemonic = "logic congress panda system naive panic obey point scorpion screen silver series";
+var mnemonic = "cute middle same fold kitchen patient maze coyote spike decorate alarm soft";

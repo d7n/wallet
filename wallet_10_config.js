@@ -1,1 +1,1 @@
-var mnemonic = "half leader fresh bar possible layer meadow blossom unlock become raven people";
+var mnemonic = "search episode leisure real clay pet owner fluid busy afford slim canvas";

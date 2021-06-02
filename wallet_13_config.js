@@ -1,1 +1,1 @@
-var mnemonic = "glare soldier nation disagree remain permit oppose pattern range coach upon story";
+var mnemonic = "cage salt cactus april history ten egg detail sight either faith excess";

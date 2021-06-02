@@ -1,1 +1,1 @@
-var mnemonic = "host derive year either sheriff phone pink voyage behind tide harsh salmon";
+var mnemonic = "then run region swing trouble harvest rug warrior spirit future protect chat";

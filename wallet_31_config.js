@@ -1,1 +1,1 @@
-var mnemonic = "sugar rich mean seed reflect attract session adjust boy dynamic you innocent";
+var mnemonic = "over identify follow rotate inflict dutch blast rebuild orchard vault trim multiply";

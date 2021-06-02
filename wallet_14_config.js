@@ -1,1 +1,1 @@
-var mnemonic = "wire shallow misery garment offer fragile toward apple owner kiwi pupil old";
+var mnemonic = "birth river toast sheriff upon cage wave school relax dress universe crouch";

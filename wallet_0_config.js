@@ -1,1 +1,1 @@
-var mnemonic = "gold conduct sentence six repeat miracle real since parrot offer enroll boil";
+var mnemonic = "truth bright broccoli spider praise erase mesh help carbon rabbit rain satoshi";

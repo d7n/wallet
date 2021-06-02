@@ -1,1 +1,1 @@
-var mnemonic = "core spatial disease genre material brand physical token polar physical track accident";
+var mnemonic = "save hole leg exhibit want view draw roast hunt off fossil victory";

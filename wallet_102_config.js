@@ -1,1 +1,1 @@
-var mnemonic = "air perfect soda metal cable call unable honey involve snack century agent";
+var mnemonic = "differ yellow danger beyond guide cycle puzzle bounce kiss equip tent rocket";

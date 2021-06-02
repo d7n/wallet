@@ -1,1 +1,1 @@
-var mnemonic = "tooth repair warm canvas obscure kitten hood dinner happy century pony degree";
+var mnemonic = "lawsuit intact crisp pause vibrant sun agree list turtle omit tide behave";

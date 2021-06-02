@@ -1,1 +1,1 @@
-var mnemonic = "dress receive boost cycle february erosion sphere judge kangaroo gold rack just";
+var mnemonic = "flower riot spend elder myself banner patch unlock cheap transfer cherry fever";

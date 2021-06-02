@@ -1,1 +1,1 @@
-var mnemonic = "flavor gain venue bid foster you include enroll flavor charge panther add";
+var mnemonic = "video maximum tackle tool travel prepare across subway phrase clean gain film";

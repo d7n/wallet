@@ -1,1 +1,1 @@
-var mnemonic = "differ monkey region happy right amount correct permit region assume orchard odor";
+var mnemonic = "extra scheme pond scrap cargo noble rent fantasy island they twist worth";

@@ -1,1 +1,1 @@
-var mnemonic = "soup wait reward diesel gadget tree piece replace electric ozone bonus inject";
+var mnemonic = "broken sorry misery toe pear panic river female acquire surprise damage flush";

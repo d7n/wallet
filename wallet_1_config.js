@@ -1,1 +1,1 @@
-var mnemonic = "sister worry process monitor punch buddy festival until survey piece swap simple";
+var mnemonic = "right claim winner addict search virtual pass atom casual draft oyster remain";

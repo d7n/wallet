@@ -1,1 +1,1 @@
-var mnemonic = "antique old cereal spring inherit renew spin expect silver trade blood feel";
+var mnemonic = "enemy pretty where bronze fix thumb mountain noodle real dinner useful hawk";

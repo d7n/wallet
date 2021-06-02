@@ -1,1 +1,1 @@
-var mnemonic = "better youth object decline avocado enlist cycle index gather destroy diet sweet";
+var mnemonic = "neglect blue wide present squeeze crime idea salute gift result inhale minimum";

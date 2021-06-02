@@ -1,1 +1,1 @@
-var mnemonic = "fiber mechanic upset riot practice pink banner since cable thrive genius donor";
+var mnemonic = "omit cheap behave connect opinion library unit fault recipe pottery develop wrap";

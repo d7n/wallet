@@ -1,1 +1,1 @@
-var mnemonic = "vessel valid script edge dragon apple size keen box melody vintage match";
+var mnemonic = "banana timber safe unable region flame drift mirror crush sad mother flag";

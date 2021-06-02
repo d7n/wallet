@@ -1,1 +1,1 @@
-var mnemonic = "image nothing adapt pear fortune erase check just ginger custom edge denial";
+var mnemonic = "talent humor example display modify trophy annual nominee chef small isolate rough";

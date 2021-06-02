@@ -1,1 +1,1 @@
-var mnemonic = "table jewel proud borrow shield patrol fee market away execute hour dumb";
+var mnemonic = "team kitchen script powder boat state rebel color wheel bundle skin sun";

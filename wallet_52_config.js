@@ -1,1 +1,1 @@
-var mnemonic = "cherry hazard coral discover belt argue friend want bar announce clerk upper";
+var mnemonic = "once tribe cute manage receive cycle battle advice child crash attract iron";

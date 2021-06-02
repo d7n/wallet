@@ -1,1 +1,1 @@
-var mnemonic = "stereo noble position tent couch genre mad joy skate child mechanic adapt";
+var mnemonic = "route bean ketchup scrub deputy maximum ready bean theme sibling swap library";

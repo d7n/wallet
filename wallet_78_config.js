@@ -1,1 +1,1 @@
-var mnemonic = "left poem oblige chuckle swing swim trust pulse shoulder toss wasp cereal";
+var mnemonic = "stairs model swift draft weekend member normal polar off pact mercy speed";

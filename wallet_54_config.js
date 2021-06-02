@@ -1,1 +1,1 @@
-var mnemonic = "net switch table media buddy mixed since miss crane name oxygen distance";
+var mnemonic = "clump bring grab birth jealous sunset cabin involve antenna pulse accident oxygen";

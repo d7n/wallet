@@ -1,1 +1,1 @@
-var mnemonic = "surprise uncover edge fish video fiscal gentle spatial click pilot public rally";
+var mnemonic = "size elevator raw predict abstract frequent text tobacco twenty truck pluck moral";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest predict find kitchen close quiz jelly alcohol heart crumble game that";
+var mnemonic = "receive then miracle code pull speed between chalk liberty anger edit duck";

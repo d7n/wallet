@@ -1,1 +1,1 @@
-var mnemonic = "laugh gym salt blossom road bubble muffin symptom road ensure trend dwarf";
+var mnemonic = "island engage click pass feature word mercy lunch arrange myself please odor";

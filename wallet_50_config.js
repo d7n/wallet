@@ -1,1 +1,1 @@
-var mnemonic = "habit medal person resist boil shoot charge celery diamond voyage hen swap";
+var mnemonic = "lava salmon kangaroo dynamic lawsuit jelly blind predict fiction tonight entry praise";

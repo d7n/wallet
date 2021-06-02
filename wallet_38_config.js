@@ -1,1 +1,1 @@
-var mnemonic = "glow share mandate tissue economy elite quit blue write spell excess unique";
+var mnemonic = "mosquito knee walnut enlist obvious demise wife photo wear coast until donkey";

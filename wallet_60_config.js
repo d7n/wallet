@@ -1,1 +1,1 @@
-var mnemonic = "spring guard roof sail repair same fog rain old segment sight wrap";
+var mnemonic = "sketch ritual sponsor ski burst giant gun return label congress rhythm tackle";

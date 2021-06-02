@@ -1,1 +1,1 @@
-var mnemonic = "rebuild female exact supreme feel shoe stone humor wink bone stomach asset";
+var mnemonic = "february day pause odor zoo autumn strategy outdoor olive gentle clerk casual";

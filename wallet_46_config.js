@@ -1,1 +1,1 @@
-var mnemonic = "drift midnight access lake angry satisfy demand shrug item ride impact monkey";
+var mnemonic = "march follow orphan rifle impact meat lab inside model cargo orbit game";

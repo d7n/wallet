@@ -1,1 +1,1 @@
-var mnemonic = "woman rebuild endorse slab forget elegant exhaust develop burden spot skirt oil";
+var mnemonic = "index empty inner gun found stool undo track frame open alien document";

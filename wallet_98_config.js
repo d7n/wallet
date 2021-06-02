@@ -1,1 +1,1 @@
-var mnemonic = "distance mandate below pumpkin person rain traffic aim hair report door sadness";
+var mnemonic = "tattoo piece gorilla canvas choice galaxy anxiety goose promote canyon praise exact";

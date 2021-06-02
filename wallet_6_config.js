@@ -1,1 +1,1 @@
-var mnemonic = "scout check sun impose control file stick pitch kiwi quarter tortoise angry";
+var mnemonic = "tragic view return warrior unique rib false human height hamster sister oblige";

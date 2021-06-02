@@ -1,1 +1,1 @@
-var mnemonic = "school coyote rotate border head census supreme daring art asthma era flavor";
+var mnemonic = "paddle diet canvas loyal shop drum young enough select shuffle ten cricket";

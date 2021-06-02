@@ -1,1 +1,1 @@
-var mnemonic = "lemon day found vivid actor ghost banner ghost elevator famous season spell";
+var mnemonic = "vintage stadium pave floor quiz ride thing snake camp mutual pudding crush";

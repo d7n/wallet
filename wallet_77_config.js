@@ -1,1 +1,1 @@
-var mnemonic = "moment achieve mom click cream tobacco stuff resist borrow depth face husband";
+var mnemonic = "rich ocean swarm prevent dentist cactus giggle finger hip trash few motion";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct wide require nation drastic radar horse viable fiber siren charge spoon";
+var mnemonic = "donkey green foam miracle cement anger opinion mystery ceiling fresh limit mango";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze biology equal food weather work harsh dinosaur carpet normal brown wing";
+var mnemonic = "give task release mosquito wrap average hurry govern bright midnight logic uncover";

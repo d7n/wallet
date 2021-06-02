@@ -1,1 +1,1 @@
-var mnemonic = "spell project manual occur tumble crash debate route toast rabbit world inflict";
+var mnemonic = "deposit stove middle oval legend comic valley toward bulk fluid feature drink";

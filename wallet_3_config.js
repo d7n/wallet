@@ -1,1 +1,1 @@
-var mnemonic = "lucky welcome fury wrestle wide verb dove cannon stairs extend earth patch";
+var mnemonic = "wide mule gossip trigger real fame cat shop cage awake alarm penalty";

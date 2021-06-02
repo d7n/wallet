@@ -1,1 +1,1 @@
-var mnemonic = "arch finish swim you stadium paddle ancient high flower custom hotel entry";
+var mnemonic = "drama extend motion grit must void heart access diesel drive business false";

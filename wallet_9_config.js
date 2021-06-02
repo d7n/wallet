@@ -1,1 +1,1 @@
-var mnemonic = "horn panther flame fatigue shine grunt unique end educate winner actor supreme";
+var mnemonic = "expose wool april alien slab junior april lucky runway human blade ritual";

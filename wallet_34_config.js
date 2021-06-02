@@ -1,1 +1,1 @@
-var mnemonic = "donate hungry scare curious upset laundry act music anchor tired immense inmate";
+var mnemonic = "eight wire sort other metal skirt mix garbage chapter below border sausage";

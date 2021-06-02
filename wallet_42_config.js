@@ -1,1 +1,1 @@
-var mnemonic = "blossom scatter list same seminar parade top approve sunset secret vehicle mango";
+var mnemonic = "seat wet summer rifle east paper hurt vehicle genius smart border ice";

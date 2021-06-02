@@ -1,1 +1,1 @@
-var mnemonic = "impulse dry giggle public strong today scorpion evolve visa song miracle decrease";
+var mnemonic = "believe gadget mix memory network decide insect jungle school chronic place drive";

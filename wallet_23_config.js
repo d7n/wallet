@@ -1,1 +1,1 @@
-var mnemonic = "twelve expect enforce gun sense grace occur cherry century soul author jazz";
+var mnemonic = "enemy ordinary mystery avoid payment silk waste rifle reopen sphere gown hundred";
