@@ -1,1 +1,1 @@
-var mnemonic = "dune garbage face shove logic uphold ladder hope together file gas print";
+var mnemonic = "second accident faculty able hole wonder opera fire near seek buddy junk";

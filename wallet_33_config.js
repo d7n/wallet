@@ -1,1 +1,1 @@
-var mnemonic = "upgrade embrace puppy truck system title water item atom bunker solid any";
+var mnemonic = "dove affair bird wife rather orange artwork detect fitness battle anchor raw";

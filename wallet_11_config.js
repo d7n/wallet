@@ -1,1 +1,1 @@
-var mnemonic = "normal hello bless fade hammer run tooth motor direct fragile truck fruit";
+var mnemonic = "blood purse pizza gym federal blossom typical science loud author agent brown";

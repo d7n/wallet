@@ -1,1 +1,1 @@
-var mnemonic = "pupil supply skirt debris announce sketch sun exclude surface lemon early safe";
+var mnemonic = "symbol truth hint clap call inspire inside guess hint offer thrive naive";

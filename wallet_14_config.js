@@ -1,1 +1,1 @@
-var mnemonic = "library blouse wheat produce bacon page runway remember cover salute kiwi enter";
+var mnemonic = "husband wonder logic popular dutch avocado remove palm cage sing raven inject";

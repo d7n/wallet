@@ -1,1 +1,1 @@
-var mnemonic = "glory drama riot become sunset diagram elevator alley bachelor sight lens ability";
+var mnemonic = "bread choice throw cost wet chalk drift resource save illegal jar vessel";

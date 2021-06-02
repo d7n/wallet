@@ -1,1 +1,1 @@
-var mnemonic = "horror denial dinner slogan miracle pattern summer drastic weird moment honey ignore";
+var mnemonic = "ginger mention anchor divert shoe supply erase matrix gospel hello surround spare";

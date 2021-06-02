@@ -1,1 +1,1 @@
-var mnemonic = "asset false tiny transfer crisp easy february range hockey meadow drill alarm";
+var mnemonic = "tissue biology wonder shrimp sunset census salute blood crumble fancy say twist";

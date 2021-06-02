@@ -1,1 +1,1 @@
-var mnemonic = "glimpse leg street warfare cave help usual thumb glow burst horn clog";
+var mnemonic = "leaf spring artwork auction afford modify clever smile miracle spike grow east";

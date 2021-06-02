@@ -1,1 +1,1 @@
-var mnemonic = "ghost imitate dash cloud echo wasp gesture garage task wage online cool";
+var mnemonic = "auction stone present motor fence street aim prize impose exist organ clock";

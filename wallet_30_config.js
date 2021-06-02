@@ -1,1 +1,1 @@
-var mnemonic = "stock fruit exact wrap debris theory rabbit someone walnut daring olive credit";
+var mnemonic = "neglect giant ethics cousin bronze frown margin afford census holiday siren coin";

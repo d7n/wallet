@@ -1,1 +1,1 @@
-var mnemonic = "judge buffalo insane credit exhaust garlic enter canoe twist fee either glare";
+var mnemonic = "teach charge dawn torch age essence erase good pistol village endorse mirror";

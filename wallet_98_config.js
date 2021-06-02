@@ -1,1 +1,1 @@
-var mnemonic = "claw fresh code notable blind denial destroy mask identify law great find";
+var mnemonic = "front dizzy jazz shock picnic powder supply regular movie casual hamster donate";

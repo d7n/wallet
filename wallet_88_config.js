@@ -1,1 +1,1 @@
-var mnemonic = "symbol awake jungle empty quantum alley okay sheriff aim nuclear ketchup sign";
+var mnemonic = "search notice globe tube join cloth emotion crew helmet cousin miracle energy";

@@ -1,1 +1,1 @@
-var mnemonic = "produce police suggest front vocal nature vague mystery praise runway machine lizard";
+var mnemonic = "skate river danger safe harvest ivory snack vapor robust art salon enlist";

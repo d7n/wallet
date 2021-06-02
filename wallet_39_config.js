@@ -1,1 +1,1 @@
-var mnemonic = "knife inner dash punch syrup fence picture rally property nature lounge plastic";
+var mnemonic = "reopen cushion south raccoon avoid athlete already antique alpha heart figure slow";

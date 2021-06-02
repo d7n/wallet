@@ -1,1 +1,1 @@
-var mnemonic = "crack hedgehog output oxygen soul clerk erode erosion busy release need tray";
+var mnemonic = "remember melt draw surround remind plunge car symbol legal federal crawl crazy";

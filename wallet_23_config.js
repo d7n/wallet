@@ -1,1 +1,1 @@
-var mnemonic = "girl cherry tuna layer diagram upper grit sail embody actress lunar simple";
+var mnemonic = "tree conduct coil mutual palm narrow monitor permit hundred steel whip poet";

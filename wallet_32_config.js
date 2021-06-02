@@ -1,1 +1,1 @@
-var mnemonic = "click thing bamboo roof cool nasty average trial blur camera supply child";
+var mnemonic = "slim recall throw swim dune kiss payment matter piece indoor exact rose";

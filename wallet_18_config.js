@@ -1,1 +1,1 @@
-var mnemonic = "color grace mimic dog misery ankle ring bright recall walk arctic zone";
+var mnemonic = "any pig coral skirt cycle position inmate subject cross prize medal west";

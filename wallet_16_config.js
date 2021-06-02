@@ -1,1 +1,1 @@
-var mnemonic = "fire fitness phone boring approve theory subject cluster resource prison photo used";
+var mnemonic = "aisle pact afford voice rural seat high youth admit album fame taxi";

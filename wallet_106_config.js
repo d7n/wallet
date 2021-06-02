@@ -1,1 +1,1 @@
-var mnemonic = "desk tank sheriff mimic mirror cycle outside spawn pattern achieve fabric menu";
+var mnemonic = "pigeon endless library cliff emotion coyote purity cheap awake enhance blast stage";

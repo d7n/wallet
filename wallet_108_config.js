@@ -1,1 +1,1 @@
-var mnemonic = "service slice idea stone black duty settle seed edge pupil devote into";
+var mnemonic = "ankle like claw tomato plate general convince nose duty apology air bulb";

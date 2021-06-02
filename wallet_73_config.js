@@ -1,1 +1,1 @@
-var mnemonic = "family school stem ask own pioneer stay spin great idea during gallery";
+var mnemonic = "shaft all core catalog cable burden fury bright miss spell sport race";

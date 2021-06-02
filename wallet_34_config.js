@@ -1,1 +1,1 @@
-var mnemonic = "security chest plunge dilemma rare myself equip index essence peanut agree income";
+var mnemonic = "walnut into organ deer doctor myself beach enemy captain struggle raven open";

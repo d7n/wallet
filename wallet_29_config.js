@@ -1,1 +1,1 @@
-var mnemonic = "enlist hold swim increase puppy burst civil nominee story slice road muffin";
+var mnemonic = "crime swarm okay dust field grant inch flag poet industry veteran stock";

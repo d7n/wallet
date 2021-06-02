@@ -1,1 +1,1 @@
-var mnemonic = "news matrix twin insane network quote west fame duck steel elite remain";
+var mnemonic = "advance episode company drink hobby hire menu hip system coconut fork vocal";

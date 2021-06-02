@@ -1,1 +1,1 @@
-var mnemonic = "face hand rough fury panda vehicle culture setup yellow comfort angry coyote";
+var mnemonic = "monitor glimpse march unit social crew farm oxygen grab person robot girl";

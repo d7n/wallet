@@ -1,1 +1,1 @@
-var mnemonic = "invest choose okay celery snake evidence require welcome index monkey timber issue";
+var mnemonic = "shift brother profit scissors napkin soon decorate club master setup pretty dismiss";

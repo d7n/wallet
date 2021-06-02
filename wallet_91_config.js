@@ -1,1 +1,1 @@
-var mnemonic = "palace bundle drum sample wage doll control advance raven sample hamster bunker";
+var mnemonic = "student risk heavy million turkey bike insane foam strike gold wear smile";

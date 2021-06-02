@@ -1,1 +1,1 @@
-var mnemonic = "stick vacant celery essence fish else balance muscle confirm evil barely layer";
+var mnemonic = "adapt derive blush sausage april engage lesson tenant absent consider exit exclude";

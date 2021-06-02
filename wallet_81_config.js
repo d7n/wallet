@@ -1,1 +1,1 @@
-var mnemonic = "decrease jump actress bus basket canal jar joke fade weird height expose";
+var mnemonic = "unlock network two toward group organ nature zoo mesh girl submit dutch";

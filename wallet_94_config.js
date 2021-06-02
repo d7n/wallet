@@ -1,1 +1,1 @@
-var mnemonic = "excite insect name loud tumble enable provide phrase inflict rug situate win";
+var mnemonic = "happy crash smooth gain shadow crystal enroll release artist limb fabric grief";

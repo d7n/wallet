@@ -1,1 +1,1 @@
-var mnemonic = "misery dentist pelican real short caution access panic obtain correct since tone";
+var mnemonic = "push blind shove borrow arrive fluid lamp include satisfy economy drink promote";

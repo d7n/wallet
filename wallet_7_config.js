@@ -1,1 +1,1 @@
-var mnemonic = "talent tuna fiber drill zone country bundle bicycle damage apart history enrich";
+var mnemonic = "park apple cage family distance goat slice wish bacon run vessel pigeon";

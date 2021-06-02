@@ -1,1 +1,1 @@
-var mnemonic = "turtle swamp plate badge smart prison spread mosquito interest fatal alpha bullet";
+var mnemonic = "obvious annual hotel lab shrimp boost dentist cigar inquiry question divorce glance";

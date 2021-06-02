@@ -1,1 +1,1 @@
-var mnemonic = "approve beauty endless buffalo affair upper math live model garlic forward roast";
+var mnemonic = "chunk come bitter habit key music poverty remain vintage water diagram like";

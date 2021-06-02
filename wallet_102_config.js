@@ -1,1 +1,1 @@
-var mnemonic = "bid miracle paddle hover rocket tide antique mutual puppy pig real deny";
+var mnemonic = "wage since tree diary mixed island mesh hobby great cube kingdom settle";

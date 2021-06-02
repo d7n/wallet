@@ -1,1 +1,1 @@
-var mnemonic = "bread lazy dial turn vault inch blur thunder bag inquiry jaguar coral";
+var mnemonic = "parrot mixture defy solid canoe carbon milk sound oil crash farm echo";

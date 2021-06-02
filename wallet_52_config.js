@@ -1,1 +1,1 @@
-var mnemonic = "still current cool clarify zebra large toy ostrich multiply demise name leisure";
+var mnemonic = "second used invest shuffle surround emotion ghost east gaze snap world mandate";

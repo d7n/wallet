@@ -1,1 +1,1 @@
-var mnemonic = "major width once solar sick course cram skin vast promote intact cost";
+var mnemonic = "nasty kitten enable secret hero olympic armor electric next valley either like";

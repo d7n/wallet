@@ -1,1 +1,1 @@
-var mnemonic = "loan bring version screen corn rocket surge attack ozone season famous fall";
+var mnemonic = "hope antique artwork crater scrap paddle entire matter expect coach carpet client";

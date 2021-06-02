@@ -1,1 +1,1 @@
-var mnemonic = "ceiling lady silk aware announce ketchup planet toddler silk garage amused humble";
+var mnemonic = "distance auction gloom jar pass pyramid keen mule range apple warrior estate";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp deer prison way patient year female custom exact whip inherit spray";
+var mnemonic = "evil ride rival forward slender donate solid shrug iron palace guide warm";

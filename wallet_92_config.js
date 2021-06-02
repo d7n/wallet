@@ -1,1 +1,1 @@
-var mnemonic = "warm used monster affair cage warrior erosion ticket noise sun zebra cigar";
+var mnemonic = "asset neutral tuition design swear novel drive identify junior position depend traffic";

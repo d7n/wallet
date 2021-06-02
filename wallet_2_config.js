@@ -1,1 +1,1 @@
-var mnemonic = "where hint review clerk public bless seek game upon expect leopard slide";
+var mnemonic = "almost december weapon stuff scout tomato wealth design cross cable jaguar betray";

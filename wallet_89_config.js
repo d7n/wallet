@@ -1,1 +1,1 @@
-var mnemonic = "series ivory photo birth champion breeze stool dwarf wink claim post tip";
+var mnemonic = "still buddy noble remain deputy swallow coin glad prevent below hurry puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "tail law also noodle injury beach shoulder amount rotate arch identify account";
+var mnemonic = "test around bus icon total wasp local dentist recipe naive output secret";

@@ -1,1 +1,1 @@
-var mnemonic = "weird meat meat train undo chest lion bid outer flame people predict";
+var mnemonic = "weird sound unfair evolve junior pistol cattle inherit argue town cruise march";

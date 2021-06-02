@@ -1,1 +1,1 @@
-var mnemonic = "amazing scare cradle quit bird drill athlete model gospel concert satoshi scale";
+var mnemonic = "exclude half fade embody much patch drastic pear snow march twelve toast";

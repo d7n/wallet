@@ -1,1 +1,1 @@
-var mnemonic = "helmet south assume material magnet injury hat skin badge praise system history";
+var mnemonic = "minute pistol cool explain audit pull girl alter winter soft ahead east";

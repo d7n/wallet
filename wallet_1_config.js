@@ -1,1 +1,1 @@
-var mnemonic = "phone cup arrive aunt timber check fat item gun wrap rookie change";
+var mnemonic = "mix shed dawn cupboard shuffle supply school bulb visa mass essence phone";

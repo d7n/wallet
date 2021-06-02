@@ -1,1 +1,1 @@
-var mnemonic = "identify become stay receive skill honey message addict alien stove festival ugly";
+var mnemonic = "tip consider insect adult shock cat inhale fun volcano breeze hunt account";

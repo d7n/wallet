@@ -1,1 +1,1 @@
-var mnemonic = "best brief sweet dash require royal plunge zone ugly announce future scene";
+var mnemonic = "sugar click way ten member famous sheriff anger dove divorce share valve";

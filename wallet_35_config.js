@@ -1,1 +1,1 @@
-var mnemonic = "limit wreck taste film unusual clock dash muscle gentle broken risk birth";
+var mnemonic = "robust hundred fly image purchase caution census dinosaur nothing aisle power moment";

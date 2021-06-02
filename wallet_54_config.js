@@ -1,1 +1,1 @@
-var mnemonic = "tuition color time pottery accuse clinic cradle stuff rapid tobacco erupt aspect";
+var mnemonic = "gallery ritual impulse inner jar knee bike unknown jaguar seed little train";

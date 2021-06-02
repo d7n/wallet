@@ -1,1 +1,1 @@
-var mnemonic = "false flat decorate electric only armed smoke panther curious alert beach since";
+var mnemonic = "joke blouse obvious sudden talent clerk dignity already leisure melt saddle glove";

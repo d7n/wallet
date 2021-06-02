@@ -1,1 +1,1 @@
-var mnemonic = "vague hamster armed gun special trumpet found void cash stove sting energy";
+var mnemonic = "dignity surround crisp major gentle impose ancient grab frost snake this exhibit";

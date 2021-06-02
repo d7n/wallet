@@ -1,1 +1,1 @@
-var mnemonic = "donor stamp airport bomb isolate rate snow minimum radio chapter federal old";
+var mnemonic = "gentle borrow jacket garbage mass stairs gentle broken ripple image ski chalk";

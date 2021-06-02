@@ -1,1 +1,1 @@
-var mnemonic = "owner silent smart forest flag alley light common spy device quantum below";
+var mnemonic = "orange animal ridge task off rich hotel woman have digital attract film";

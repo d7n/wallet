@@ -1,1 +1,1 @@
-var mnemonic = "panic bunker desert output develop view party moment depth abandon wreck awesome";
+var mnemonic = "onion ridge false push sock banana program misery viable spider race dish";

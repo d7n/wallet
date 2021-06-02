@@ -1,1 +1,1 @@
-var mnemonic = "bus tomato armed senior relax fame student enhance safe mango chunk similar";
+var mnemonic = "dynamic story lyrics where emerge method tip bacon film mango gain report";

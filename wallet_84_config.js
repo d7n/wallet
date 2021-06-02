@@ -1,1 +1,1 @@
-var mnemonic = "quantum blouse decorate armed sail clay park news connect myself gate above";
+var mnemonic = "avoid wheel method liberty regret stereo delay admit coin summer pig group";

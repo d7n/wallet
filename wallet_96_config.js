@@ -1,1 +1,1 @@
-var mnemonic = "owner region tunnel swap palace fan young certain federal awful bitter humble";
+var mnemonic = "grant cup ugly note entry follow electric nominee security steel pigeon also";

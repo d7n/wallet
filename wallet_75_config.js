@@ -1,1 +1,1 @@
-var mnemonic = "loyal melody radio toilet logic comfort picture equip mule jewel walk door";
+var mnemonic = "produce drip mutual print feel copper galaxy move mechanic mechanic offer broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "sand hazard type shift tragic version lunar cliff clog nut village clutch";
+var mnemonic = "noble truck material culture sock anxiety frozen unaware hello switch say grace";

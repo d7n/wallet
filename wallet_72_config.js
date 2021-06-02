@@ -1,1 +1,1 @@
-var mnemonic = "make rude margin today stock enable mean garlic initial kidney venue sweet";
+var mnemonic = "forward rice bulk elevator vivid blood wrestle search erode year drive galaxy";

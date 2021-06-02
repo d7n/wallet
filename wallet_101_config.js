@@ -1,1 +1,1 @@
-var mnemonic = "bachelor toe oval game ozone alarm offer mix weasel stick immune wall";
+var mnemonic = "damp pink joy marriage world logic fly cheap total obscure island enforce";

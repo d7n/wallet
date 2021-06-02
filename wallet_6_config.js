@@ -1,1 +1,1 @@
-var mnemonic = "brave idle tooth other feed purity busy lobster edit pill staff dizzy";
+var mnemonic = "belt fix evoke wasp canal electric elite snap link cricket remain vivid";

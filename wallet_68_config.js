@@ -1,1 +1,1 @@
-var mnemonic = "fine menu subject priority weather carbon milk palace lemon release valley exile";
+var mnemonic = "build bicycle victory hawk appear legal bleak diagram captain walk cook kidney";

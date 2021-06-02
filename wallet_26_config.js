@@ -1,1 +1,1 @@
-var mnemonic = "bird swear gown during envelope oblige pond announce useful aunt abandon coil";
+var mnemonic = "humble flag clog trend dust behind height giant material panther join broccoli";

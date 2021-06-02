@@ -1,1 +1,1 @@
-var mnemonic = "crime patient witness crop quiz nephew major devote beef knee laugh nice";
+var mnemonic = "pave estate taste snack industry vapor ketchup glance tribe palm wood alcohol";

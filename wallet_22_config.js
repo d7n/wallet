@@ -1,1 +1,1 @@
-var mnemonic = "clutch near prefer sorry require usage remember alert guilt spot silly wait";
+var mnemonic = "nerve human order copper flip hold paper shuffle media minimum wash gym";

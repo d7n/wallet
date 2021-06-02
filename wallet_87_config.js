@@ -1,1 +1,1 @@
-var mnemonic = "menu cave better spider sudden there omit panther until pride outer develop";
+var mnemonic = "april roof invite sleep gallery advance sphere cousin crater flavor warrior confirm";

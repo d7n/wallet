@@ -1,1 +1,1 @@
-var mnemonic = "orphan scout column tattoo will almost wrong draw general hidden car orchard";
+var mnemonic = "various lonely bus duty item business liquid about sting faint ceiling average";

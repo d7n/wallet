@@ -1,1 +1,1 @@
-var mnemonic = "capable damage quarter reduce hand squirrel stool property shine pledge eternal mercy";
+var mnemonic = "chronic dirt clerk lecture fiscal dress east because exist brave category voice";

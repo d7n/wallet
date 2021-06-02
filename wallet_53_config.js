@@ -1,1 +1,1 @@
-var mnemonic = "say stairs expand winner shiver lawn simple busy select sun cat lazy";
+var mnemonic = "arrow approve ostrich pear knee voyage involve velvet cross lonely critic deliver";

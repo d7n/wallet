@@ -1,1 +1,1 @@
-var mnemonic = "extend any quote sail more parent pass prepare robot initial desk unique";
+var mnemonic = "car silver female table solve chapter cave build pact ceiling morning kangaroo";

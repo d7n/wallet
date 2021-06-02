@@ -1,1 +1,1 @@
-var mnemonic = "forest group speed unveil velvet open relax electric sadness tube cricket resist";
+var mnemonic = "spend trip anger glimpse anchor illness empower together resemble fade possible pyramid";

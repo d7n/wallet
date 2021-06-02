@@ -1,1 +1,1 @@
-var mnemonic = "dignity speed afraid put island poem alpha absorb decade team leisure beef";
+var mnemonic = "ostrich earn sunny much clay pony actual entry iron reveal exhaust write";

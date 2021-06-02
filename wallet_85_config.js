@@ -1,1 +1,1 @@
-var mnemonic = "fire sketch opera embody vault business harbor you hamster melt moon gate";
+var mnemonic = "process practice quarter deer always develop twelve acid crumble club unit fatigue";

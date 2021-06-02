@@ -1,1 +1,1 @@
-var mnemonic = "title frequent under salon vicious cigar coin depart birth flight return guitar";
+var mnemonic = "will roast squirrel visual sketch enrich dignity wear dream neck type awkward";

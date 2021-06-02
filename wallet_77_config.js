@@ -1,1 +1,1 @@
-var mnemonic = "bulb cancel media cloud hamster knock alarm dose patch waste neck slice";
+var mnemonic = "slight group neck crunch miss inquiry crazy camp mirror card dad frown";

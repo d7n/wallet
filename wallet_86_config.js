@@ -1,1 +1,1 @@
-var mnemonic = "height lunar alpha envelope gym lens census fine express finger claim citizen";
+var mnemonic = "double mystery sheriff census eyebrow tomorrow alcohol that hospital mesh useful loop";

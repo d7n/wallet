@@ -1,1 +1,1 @@
-var mnemonic = "model unable canal mystery pioneer close asthma relief rival exhaust truth stock";
+var mnemonic = "gloom seek raven crawl that sort depth anxiety nominee lab defy actress";

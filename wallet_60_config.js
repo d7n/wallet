@@ -1,1 +1,1 @@
-var mnemonic = "motor dust patch child area model great quit aspect mango label radio";
+var mnemonic = "music inspire glimpse also page badge cheap boost height leaf tragic waste";

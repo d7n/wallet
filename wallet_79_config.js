@@ -1,1 +1,1 @@
-var mnemonic = "city discover grab police analyst story nuclear lizard olive clerk draw tunnel";
+var mnemonic = "prosper digital amazing buffalo culture dash photo aisle seed bunker bamboo deputy";

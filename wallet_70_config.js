@@ -1,1 +1,1 @@
-var mnemonic = "chimney boil minor jacket identify bench vivid allow decline carbon strong purchase";
+var mnemonic = "version glory despair bracket acquire whale hint reopen devote use body kid";

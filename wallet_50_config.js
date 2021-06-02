@@ -1,1 +1,1 @@
-var mnemonic = "shaft logic anger snake poverty off crowd make park swing subway flame";
+var mnemonic = "net april butter token rural animal movie yellow cannon report lock camera";

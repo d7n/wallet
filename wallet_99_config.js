@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon daughter guard plunge helmet pull found attract equal cheese twice alter";
+var mnemonic = "tattoo guilt super inject during toward small volume castle boost flip escape";

@@ -1,1 +1,1 @@
-var mnemonic = "tell egg athlete opera suffer wreck session tuna dynamic quarter surprise brother";
+var mnemonic = "awesome diary detail napkin finish enhance dwarf uphold sentence lyrics income earth";

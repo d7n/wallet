@@ -1,1 +1,1 @@
-var mnemonic = "able stumble half page what grid diary forest address upset daughter feel";
+var mnemonic = "pledge base choose swamp thank steel crouch exclude kite kitchen despair zebra";
