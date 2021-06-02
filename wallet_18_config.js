@@ -1,1 +1,1 @@
-var mnemonic = "alone sample refuse fire exotic unable silk assist cliff senior comfort empower";
+var mnemonic = "table youth arrow practice diesel air flip write crane mechanic weird funny";

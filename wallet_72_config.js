@@ -1,1 +1,1 @@
-var mnemonic = "key sunny true twice crunch crunch material nominee ladder cake average help";
+var mnemonic = "once year enrich shell like vendor bracket unable survey pony brother riot";

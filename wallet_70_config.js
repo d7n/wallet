@@ -1,1 +1,1 @@
-var mnemonic = "prosper dash pioneer neglect change include sad october demise milk pluck organ";
+var mnemonic = "deal frequent shuffle have arrive round cry sock myth detail quarter special";

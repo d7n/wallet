@@ -1,1 +1,1 @@
-var mnemonic = "injury palace castle trap tomorrow course gravity chef orient train conduct quantum";
+var mnemonic = "trim exit only panda eyebrow quote secret sweet pulp under never shield";

@@ -1,1 +1,1 @@
-var mnemonic = "focus what glue tide tool humble order obtain lyrics crawl disorder buyer";
+var mnemonic = "never gate vague shell achieve please boost royal cigar chuckle wide alley";

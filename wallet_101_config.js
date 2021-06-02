@@ -1,1 +1,1 @@
-var mnemonic = "bridge drive sheriff able flush gravity knee distance elder prize army afford";
+var mnemonic = "bicycle admit bunker success slot noodle code real pizza moral soap cave";

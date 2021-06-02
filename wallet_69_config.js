@@ -1,1 +1,1 @@
-var mnemonic = "version boy law comic vicious advice kite breeze bacon uniform tool air";
+var mnemonic = "staff grief alter add ridge helmet crush lunch wrist oblige crucial useful";

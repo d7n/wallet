@@ -1,1 +1,1 @@
-var mnemonic = "thing embark screen spice stamp deposit float aim trim holiday cherry liar";
+var mnemonic = "into slow soap tuition later garment apple entry rose veteran version tone";

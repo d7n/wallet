@@ -1,1 +1,1 @@
-var mnemonic = "above enforce avocado awesome shadow trumpet museum balcony bench orbit palm accuse";
+var mnemonic = "mouse discover egg idea upgrade odor powder master virtual way fun kind";

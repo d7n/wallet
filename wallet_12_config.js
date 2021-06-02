@@ -1,1 +1,1 @@
-var mnemonic = "vapor provide obvious walnut diamond donkey wonder seat joke cruel miracle candy";
+var mnemonic = "poverty flush damp seed team prize ability physical evoke pact drop whale";

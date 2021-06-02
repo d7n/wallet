@@ -1,1 +1,1 @@
-var mnemonic = "once zone way educate raise army code mask expect critic glove riot";
+var mnemonic = "myself feed sunny attack recipe check mass random confirm shove tennis rough";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor reward alarm gather slender latin voyage force sheriff news coffee narrow";
+var mnemonic = "upon boring long palm normal receive dust put pepper thunder ancient knock";

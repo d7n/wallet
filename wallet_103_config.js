@@ -1,1 +1,1 @@
-var mnemonic = "input client all decrease invest error remind sentence patient solar question speak";
+var mnemonic = "setup fork teach best general vault ugly anger forward today duck wonder";

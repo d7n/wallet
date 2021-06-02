@@ -1,1 +1,1 @@
-var mnemonic = "tone couple ensure spend ill wheel talk defense enemy simple divert anchor";
+var mnemonic = "pool evidence census hour robust seek work dizzy ugly brick front equal";

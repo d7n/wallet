@@ -1,1 +1,1 @@
-var mnemonic = "rocket horn vibrant before hub ketchup sell wing brother flag mansion network";
+var mnemonic = "sketch elbow scout lumber typical lobster orange path mixed upgrade include retreat";

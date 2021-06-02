@@ -1,1 +1,1 @@
-var mnemonic = "foot almost affair crowd happy dish shoulder near dentist arrange deny impulse";
+var mnemonic = "dilemma beef flee wrong van burger very dwarf napkin spread round weapon";

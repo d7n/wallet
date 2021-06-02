@@ -1,1 +1,1 @@
-var mnemonic = "dog polar raise tackle label theory rule dog govern lion source blade";
+var mnemonic = "pyramid master motor there oval spring margin excuse mad tent rain maple";

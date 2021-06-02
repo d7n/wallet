@@ -1,1 +1,1 @@
-var mnemonic = "teach actor company gaze water fix machine cattle lizard quit grape hello";
+var mnemonic = "foster panel bitter funny odor elegant twice ramp height furnace catch square";

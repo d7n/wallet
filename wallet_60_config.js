@@ -1,1 +1,1 @@
-var mnemonic = "another shed thrive pumpkin absorb face swallow pitch whip push mother stone";
+var mnemonic = "change alpha ski beauty trumpet round misery rebel increase woman hello list";

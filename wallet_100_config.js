@@ -1,1 +1,1 @@
-var mnemonic = "draft rapid inner denial jewel text funny follow hello yard reject course";
+var mnemonic = "cheap gentle legal once unable disagree offer south length shy village prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "guard bitter onion burst impulse island height other olive direct outer dream";
+var mnemonic = "abuse whale globe flush explain soup effort faculty document aunt alert slogan";

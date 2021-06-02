@@ -1,1 +1,1 @@
-var mnemonic = "ostrich nice clip property spoon wisdom eight accuse retreat coast slot stable";
+var mnemonic = "twenty critic hockey novel sister crawl manual custom normal vanish nominee extend";

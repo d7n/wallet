@@ -1,1 +1,1 @@
-var mnemonic = "tomato parrot chronic hub clever shift muscle plate injury excite story pig";
+var mnemonic = "carry upgrade tell sorry medal wide normal tip genuine refuse short taxi";

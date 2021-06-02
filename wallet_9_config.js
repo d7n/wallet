@@ -1,1 +1,1 @@
-var mnemonic = "stairs write ritual length scrap switch unknown version atom demand reveal wisdom";
+var mnemonic = "atom six peasant daring inmate unique sentence link cannon melody cup fury";

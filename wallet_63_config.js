@@ -1,1 +1,1 @@
-var mnemonic = "share kiss also usual obey grass height will lesson soon rice major";
+var mnemonic = "desert milk intact divert speak toast orphan sand chronic open earth immense";

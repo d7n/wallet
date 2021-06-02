@@ -1,1 +1,1 @@
-var mnemonic = "priority bonus ecology faint bring rose charge alter census remember job banner";
+var mnemonic = "exist chalk pave enact knife electric resist radio easy satisfy broom glare";

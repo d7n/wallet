@@ -1,1 +1,1 @@
-var mnemonic = "sleep actor review century school barrel occur laundry assume churn size remove";
+var mnemonic = "kidney seed basic lens level indicate voice throw stove pill control gather";

@@ -1,1 +1,1 @@
-var mnemonic = "retire humble laundry fringe fun flavor garment save organ clever thrive usage";
+var mnemonic = "clinic scorpion staff alter space kiss lock horse sand test snow uphold";

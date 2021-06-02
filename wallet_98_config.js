@@ -1,1 +1,1 @@
-var mnemonic = "feel law fragile omit faint happy zebra fly drift exhaust minute window";
+var mnemonic = "play slab marriage win inside car mountain broccoli jeans diagram drill diagram";

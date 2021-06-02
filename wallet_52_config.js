@@ -1,1 +1,1 @@
-var mnemonic = "table journey immune disagree brand earn tower source chalk produce faculty wage";
+var mnemonic = "normal neck during index asset lend employ seminar diesel rebuild denial ready";

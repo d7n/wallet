@@ -1,1 +1,1 @@
-var mnemonic = "sister innocent december margin bounce brother device verb alpha awake cheese north";
+var mnemonic = "faith affair post harvest excite insane disagree art news simple vacuum alone";

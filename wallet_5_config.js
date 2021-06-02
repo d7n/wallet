@@ -1,1 +1,1 @@
-var mnemonic = "firm boss unknown quick loud habit brown super hat gloom net armed";
+var mnemonic = "festival palm obey memory tomorrow exit just all chalk media talent system";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve galaxy identify raw speed crush below purity lonely zebra system fold";
+var mnemonic = "satisfy filter hold net foot surround tobacco chicken wrong visit before boat";

@@ -1,1 +1,1 @@
-var mnemonic = "reward rib fabric spatial zoo spy session video awkward crime spin unique";
+var mnemonic = "citizen tired amazing endless debate canal smart trouble gorilla monster pill pledge";

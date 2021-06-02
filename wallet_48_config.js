@@ -1,1 +1,1 @@
-var mnemonic = "rapid image define faculty ethics shrimp avoid target surround across rebuild leaf";
+var mnemonic = "fluid air broccoli market enable cable lens unique garden month school toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow casual once ecology author layer dinosaur february basket hood educate girl";
+var mnemonic = "test fiscal virus style owner rather ostrich weasel chalk wash warm spring";

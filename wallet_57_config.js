@@ -1,1 +1,1 @@
-var mnemonic = "kind mystery shop dynamic decade fitness age zebra side process forget warm";
+var mnemonic = "switch wave reveal lounge stock unlock alert wrong cheap pottery party arm";

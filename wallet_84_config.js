@@ -1,1 +1,1 @@
-var mnemonic = "potato reform kitten help thunder weather permit knife winter real film silly";
+var mnemonic = "brick trigger lion afford rebuild initial announce flag cousin toss shuffle someone";

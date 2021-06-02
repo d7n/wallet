@@ -1,1 +1,1 @@
-var mnemonic = "soul noble such enrich kingdom unusual supply ivory wrist mixture summer almost";
+var mnemonic = "observe language fat jacket ignore wash crowd noise boring rare ugly erosion";

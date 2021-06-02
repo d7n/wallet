@@ -1,1 +1,1 @@
-var mnemonic = "tide derive unhappy scrub peace you spin toilet cotton skate sample swap";
+var mnemonic = "patient require clock obtain motor weather wonder snack scale ethics motor remember";

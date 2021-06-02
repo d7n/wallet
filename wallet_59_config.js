@@ -1,1 +1,1 @@
-var mnemonic = "absorb proof potato hen clerk mechanic float wrap page achieve decade reopen";
+var mnemonic = "word rebuild grape interest match hotel blur glow song other track glue";

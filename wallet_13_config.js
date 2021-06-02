@@ -1,1 +1,1 @@
-var mnemonic = "rebuild dance cook place supply behave truck organ thing expand attend stereo";
+var mnemonic = "series traffic mosquito need match pen erode element key category wagon body";

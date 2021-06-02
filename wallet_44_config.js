@@ -1,1 +1,1 @@
-var mnemonic = "sausage slender silver mobile city develop enlist road sand catalog virtual reunion";
+var mnemonic = "chest tree gun skate horror need hurdle artefact cross horn awkward best";

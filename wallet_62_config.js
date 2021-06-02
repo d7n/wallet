@@ -1,1 +1,1 @@
-var mnemonic = "salt farm stamp pipe deny harsh drill excuse spawn man thing install";
+var mnemonic = "explain danger enlist trust warm boil hidden vocal mouse ethics unable possible";

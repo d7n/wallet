@@ -1,1 +1,1 @@
-var mnemonic = "throw slender isolate unfair dash else sauce muscle weasel method charge arrive";
+var mnemonic = "unusual bind frost skirt scale coyote game planet eye surface this hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "boss plastic title middle member stick bargain exile diamond mushroom punch return";
+var mnemonic = "police youth scan zone west seminar diesel useless punch circle canoe unfold";

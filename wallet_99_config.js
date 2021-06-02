@@ -1,1 +1,1 @@
-var mnemonic = "gloom such insect alarm barely finger differ media sibling moment goddess panic";
+var mnemonic = "possible agree crumble culture spawn bus duty able silent whip coyote apart";

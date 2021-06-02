@@ -1,1 +1,1 @@
-var mnemonic = "casual spell smile oxygen canoe else slogan multiply dynamic draft bar divide";
+var mnemonic = "focus any term install shrug lake bounce average clay already friend reunion";

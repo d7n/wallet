@@ -1,1 +1,1 @@
-var mnemonic = "kick cake element fantasy lyrics tattoo report gap base repair midnight become";
+var mnemonic = "odor crew people govern pig open wagon acquire upset quality knock tag";

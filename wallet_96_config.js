@@ -1,1 +1,1 @@
-var mnemonic = "crazy captain foot resource glance brown filter daughter pumpkin goddess other lecture";
+var mnemonic = "action muffin dress sound crew picture diet jacket mention fury black follow";

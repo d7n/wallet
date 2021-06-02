@@ -1,1 +1,1 @@
-var mnemonic = "useful scrub smoke cup hill lion toilet saddle evidence extend one relief";
+var mnemonic = "sniff favorite wood acoustic fox couple saddle isolate sand two open race";

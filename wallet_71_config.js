@@ -1,1 +1,1 @@
-var mnemonic = "vanish betray banana large bomb social crystal outdoor page month plate camera";
+var mnemonic = "again hero valid sister gravity know shiver race mother ghost execute anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "maze clerk setup hip frozen plug post soon simple youth maple orchard";
+var mnemonic = "fury salad bean sock bacon cotton staff media vacuum among demise myth";

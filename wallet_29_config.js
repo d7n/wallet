@@ -1,1 +1,1 @@
-var mnemonic = "survey toilet prison float equal eagle custom safe rent degree toast dignity";
+var mnemonic = "egg myself stand laundry demise breeze zebra critic snack expect shed height";

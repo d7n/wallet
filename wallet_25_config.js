@@ -1,1 +1,1 @@
-var mnemonic = "begin aisle fly present parrot dry category jelly unit false food project";
+var mnemonic = "pilot ladder fiscal game swing wear paper learn regret sort shadow dilemma";

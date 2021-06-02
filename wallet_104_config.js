@@ -1,1 +1,1 @@
-var mnemonic = "fat demand riot fog option profit improve city blind flip pink vivid";
+var mnemonic = "grab miss siren explain couch promote weekend grunt mother suffer sorry casual";

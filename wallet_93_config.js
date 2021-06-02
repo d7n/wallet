@@ -1,1 +1,1 @@
-var mnemonic = "normal eight mansion agree cushion initial glass cause sea tuna fury card";
+var mnemonic = "resource acoustic subject iron hybrid fine clever filter patch next mind minute";

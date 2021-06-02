@@ -1,1 +1,1 @@
-var mnemonic = "grunt come vocal liar dinosaur smooth dirt mask front stadium plunge canoe";
+var mnemonic = "mechanic rich deal lizard consider toilet agent decorate inform earth scene mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "razor field melody render resource blue wheat fork mad worry cheese gate";
+var mnemonic = "until system silent boss medal tail spoon inform green february grit supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual genius pause deliver move much case swift federal trim laundry skull";
+var mnemonic = "syrup reveal second warfare sign camera useful helmet tree payment major prize";

@@ -1,1 +1,1 @@
-var mnemonic = "remember task leave puzzle divert mountain era swallow collect car flight will";
+var mnemonic = "share faculty slight frost address bench impact marble distance announce color narrow";

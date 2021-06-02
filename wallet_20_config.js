@@ -1,1 +1,1 @@
-var mnemonic = "odor gesture urban bridge genuine fence require patrol manual basket tag slim";
+var mnemonic = "race resist buzz mix nature ketchup near remove cotton kite obvious exist";

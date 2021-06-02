@@ -1,1 +1,1 @@
-var mnemonic = "between violin myth tragic muffin swap affair pistol acquire milk field divorce";
+var mnemonic = "spray evoke case clinic wild ring roast plug siren grain skin repair";

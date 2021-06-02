@@ -1,1 +1,1 @@
-var mnemonic = "gather chaos govern fortune struggle morning approve race victory still jewel color";
+var mnemonic = "satoshi filter print maximum alone pride alcohol curtain ginger move speak camera";

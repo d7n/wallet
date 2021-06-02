@@ -1,1 +1,1 @@
-var mnemonic = "bargain promote direct they high vague sugar news heavy announce foam say";
+var mnemonic = "token baby dentist crop draw high bright hollow soon club wreck ill";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock peanut audit seat exotic caught address denial melody same bulk cancel";
+var mnemonic = "bind drink useful answer crazy develop radio hotel south balance mention taxi";

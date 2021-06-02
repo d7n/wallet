@@ -1,1 +1,1 @@
-var mnemonic = "fence target fringe sense price moment wing laundry giraffe patrol nuclear habit";
+var mnemonic = "wasp final relief soon borrow fabric stairs shrug silk addict rabbit wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans shop cube guilt rent remember label balance labor bubble magic shell";
+var mnemonic = "evolve patient base better guilt angle hire rare possible involve plate waste";

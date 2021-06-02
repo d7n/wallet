@@ -1,1 +1,1 @@
-var mnemonic = "raccoon another urge infant success usual crack few ritual valve pioneer whale";
+var mnemonic = "carbon around wide final brush prepare indoor amount kiwi together carbon cannon";

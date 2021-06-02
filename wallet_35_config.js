@@ -1,1 +1,1 @@
-var mnemonic = "equip trend moon satoshi local own clap uphold correct dad bottom brush";
+var mnemonic = "defy ritual clip simple convince talk rocket soft slice include defy agent";

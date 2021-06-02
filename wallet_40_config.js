@@ -1,1 +1,1 @@
-var mnemonic = "season endless artwork rebel wait denial thought logic vehicle jacket share fall";
+var mnemonic = "wear despair tunnel blame inner piece symptom cool exhibit loan obtain dwarf";

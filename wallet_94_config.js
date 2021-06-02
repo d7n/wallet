@@ -1,1 +1,1 @@
-var mnemonic = "earn business fun wolf erode oppose soccer live climb trap maximum sorry";
+var mnemonic = "jar pistol express above embrace goose boss enhance water mom dynamic narrow";

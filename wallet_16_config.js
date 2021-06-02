@@ -1,1 +1,1 @@
-var mnemonic = "hockey crack afraid rapid curve help timber assist radio fiber muffin peanut";
+var mnemonic = "already search antenna brisk rate length pause high atom settle cricket airport";

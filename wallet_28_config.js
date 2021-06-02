@@ -1,1 +1,1 @@
-var mnemonic = "skin pulp race absurd sell daring often buyer embark grass earth hen";
+var mnemonic = "dismiss sadness aim blossom stick radio evidence romance build pledge section punch";

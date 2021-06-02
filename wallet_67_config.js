@@ -1,1 +1,1 @@
-var mnemonic = "lab matrix around drill kick absurd course height census boat fuel pledge";
+var mnemonic = "room nephew churn educate actor asthma park mom razor task pass stable";

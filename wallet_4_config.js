@@ -1,1 +1,1 @@
-var mnemonic = "poet exchange flock glare chronic ask pottery sense fly skirt soldier describe";
+var mnemonic = "grain useful please differ damage pride eight anger include dinner lemon empty";

@@ -1,1 +1,1 @@
-var mnemonic = "despair also tree ride giraffe august federal smile zone pumpkin tag issue";
+var mnemonic = "eternal false legal leopard useless accuse ordinary omit mean now globe orbit";

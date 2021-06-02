@@ -1,1 +1,1 @@
-var mnemonic = "idea naive hidden village nurse ball advance rule reward weapon able hold";
+var mnemonic = "hospital page total cream boil subject vote potato witness spawn phrase cup";

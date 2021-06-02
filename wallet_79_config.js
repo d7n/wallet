@@ -1,1 +1,1 @@
-var mnemonic = "sock own split twin menu snap install panel rural husband swamp toilet";
+var mnemonic = "tone junk uniform master prevent clever wild property coconut bid angry display";

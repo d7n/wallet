@@ -1,1 +1,1 @@
-var mnemonic = "today wash fun slush hill subway deliver own unusual water grain winner";
+var mnemonic = "situate truth cement lens foster ozone scale short firm gospel obscure flag";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth glass dose game road reopen leopard bracket venue test crisp obey";
+var mnemonic = "solution legal repeat admit bless opera spoon news loyal inch wasp clean";

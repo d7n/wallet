@@ -1,1 +1,1 @@
-var mnemonic = "glare razor vintage oppose over toss ball grit brother crush wish tiny";
+var mnemonic = "exist list device topic wagon worth rule indoor distance crystal photo naive";

@@ -1,1 +1,1 @@
-var mnemonic = "cream radio hour try shoot caution ill glove universe hurry guitar dinner";
+var mnemonic = "cliff charge emotion popular erupt range frequent laundry upon fringe dawn clever";

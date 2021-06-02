@@ -1,1 +1,1 @@
-var mnemonic = "language lobster year begin lyrics book panda auction large arm glad true";
+var mnemonic = "fall pause punch nature excuse relief someone marine want eyebrow false nature";

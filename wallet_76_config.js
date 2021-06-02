@@ -1,1 +1,1 @@
-var mnemonic = "daughter accuse chicken action impulse army affair wrong multiply august inch idle";
+var mnemonic = "trophy manage network dress caution turkey country decrease emerge draft dust same";

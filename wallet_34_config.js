@@ -1,1 +1,1 @@
-var mnemonic = "powder wheat camp media gravity salmon fatal nephew shine route claim differ";
+var mnemonic = "gold stumble laundry orphan country chief unusual defy script blossom abstract latin";

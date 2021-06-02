@@ -1,1 +1,1 @@
-var mnemonic = "wonder virtual rescue across absurd spell major chimney lion cash grid ripple";
+var mnemonic = "another music budget royal hope divorce orange share ball fancy end offer";

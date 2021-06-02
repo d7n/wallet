@@ -1,1 +1,1 @@
-var mnemonic = "cliff clever snow place merit step million vacant city wasp alpha clerk";
+var mnemonic = "pitch again cram large blanket speed exercise cost buddy frequent supreme minor";

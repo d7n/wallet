@@ -1,1 +1,1 @@
-var mnemonic = "attend chair gold skill harbor lizard echo arena pottery patrol polar nest";
+var mnemonic = "prize canoe wreck bar approve evolve answer club cry green prepare inmate";

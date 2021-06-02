@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin kingdom reward vehicle student student sibling cover canyon easy dinner goddess";
+var mnemonic = "concert badge motor chair first hand solar category inch tobacco nothing volcano";
