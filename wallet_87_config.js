@@ -1,1 +1,1 @@
-var mnemonic = "maple angle twenty laugh vehicle borrow baby film cupboard enter income element";
+var mnemonic = "mention cherry tiny salute coach home remove bench donate address edge erupt";

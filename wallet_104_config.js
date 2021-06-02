@@ -1,1 +1,1 @@
-var mnemonic = "rain hero south blush intact box label situate minute feature country fuel";
+var mnemonic = "ketchup exclude cage term drill where corn unique seat oil impose online";

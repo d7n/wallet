@@ -1,1 +1,1 @@
-var mnemonic = "public arm invite craft traffic excite label icon chunk team mind ecology";
+var mnemonic = "slight actress purchase insane decade abandon error buzz economy diet salad ghost";

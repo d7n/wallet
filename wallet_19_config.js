@@ -1,1 +1,1 @@
-var mnemonic = "click glory surface actress agree moral amazing rather dress floor exit ramp";
+var mnemonic = "coyote hundred spread spoil vicious cement word much click wine prevent height";

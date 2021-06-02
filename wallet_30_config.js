@@ -1,1 +1,1 @@
-var mnemonic = "mesh post current violin knife venue area conduct bread love miracle chat";
+var mnemonic = "icon ostrich major pair ginger more half purpose neck fancy guard wheat";

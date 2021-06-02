@@ -1,1 +1,1 @@
-var mnemonic = "such smoke setup total kind lucky wagon fetch better urge release uniform";
+var mnemonic = "prosper gospel simple pipe rice debris private hood clip hello now august";

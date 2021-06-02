@@ -1,1 +1,1 @@
-var mnemonic = "tilt plastic car seven idle eagle physical aspect quit jacket hotel answer";
+var mnemonic = "trim exchange embrace banana slim agree jaguar broken soccer bicycle aisle target";

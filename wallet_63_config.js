@@ -1,1 +1,1 @@
-var mnemonic = "either farm amount country voice copy demand again swallow number strike wrong";
+var mnemonic = "poet oven puppy want law rose choice bicycle joke slight police idle";

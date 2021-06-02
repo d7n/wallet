@@ -1,1 +1,1 @@
-var mnemonic = "tent zebra chronic parrot cinnamon upper style post tide say artwork remove";
+var mnemonic = "remain hockey slice draft elephant pepper air track release dumb across roast";

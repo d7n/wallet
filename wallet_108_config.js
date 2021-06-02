@@ -1,1 +1,1 @@
-var mnemonic = "embark awake buddy rural snake vibrant place ethics voyage exotic muscle inject";
+var mnemonic = "attract east grief outer display glare crew false purpose boring welcome flavor";

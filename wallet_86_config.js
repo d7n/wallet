@@ -1,1 +1,1 @@
-var mnemonic = "bone empty abuse debate prosper phrase either finish lawsuit story unfold title";
+var mnemonic = "reject solve approve obtain fossil repeat typical time suffer forum vapor stand";

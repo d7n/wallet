@@ -1,1 +1,1 @@
-var mnemonic = "supreme labor second dice daughter sister awful common below guitar shoot volcano";
+var mnemonic = "fossil crouch lecture steel egg sail middle rug pole ridge skin avocado";

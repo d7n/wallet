@@ -1,1 +1,1 @@
-var mnemonic = "donate giggle screen luxury mystery reveal tray coast margin enough wing nose";
+var mnemonic = "industry swallow announce maid any carry impose near bundle leader buffalo key";

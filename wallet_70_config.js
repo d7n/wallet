@@ -1,1 +1,1 @@
-var mnemonic = "bulb soft expect end style stone beach poem system indicate index rabbit";
+var mnemonic = "drastic category equip visual ostrich fetch parent sweet fetch unit year like";

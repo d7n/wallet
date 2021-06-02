@@ -1,1 +1,1 @@
-var mnemonic = "select amused remain never cloth seek start rail normal liar smooth arch";
+var mnemonic = "solid multiply victory case action benefit mad demise picnic common sick finger";

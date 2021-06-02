@@ -1,1 +1,1 @@
-var mnemonic = "echo sure victory secret business make asset scene change diesel bring vapor";
+var mnemonic = "inflict axis omit crawl quarter cake clarify thought little burger fiscal scout";

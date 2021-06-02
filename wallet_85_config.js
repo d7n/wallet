@@ -1,1 +1,1 @@
-var mnemonic = "resemble panel gap dad expect fruit column payment tennis raven equal rural";
+var mnemonic = "pony auto gossip gesture sausage air still remember saddle conduct exhaust width";

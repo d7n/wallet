@@ -1,1 +1,1 @@
-var mnemonic = "resist leg coin maximum maximum turkey demise suffer today wrap mixed turn";
+var mnemonic = "toy decide one early pause market scale season second era riot panther";

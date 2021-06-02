@@ -1,1 +1,1 @@
-var mnemonic = "health mobile menu obtain fabric busy mistake staff swap hawk outer spell";
+var mnemonic = "update reflect name model mimic birth fatigue churn health tube drill busy";

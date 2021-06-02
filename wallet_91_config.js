@@ -1,1 +1,1 @@
-var mnemonic = "ready laundry express tornado mad put cluster zebra yellow zero round space";
+var mnemonic = "poverty hamster energy curious thing layer skate brief harvest mutual amazing gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk powder cotton number into there wife twenty chronic reflect good jelly";
+var mnemonic = "manual route bike essence wolf reward yellow labor same essay lemon ancient";

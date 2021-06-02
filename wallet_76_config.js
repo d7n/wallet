@@ -1,1 +1,1 @@
-var mnemonic = "bike emerge memory salad gorilla help token canoe bleak sausage always thunder";
+var mnemonic = "aunt baby alarm else vast umbrella stool diary meadow talk already jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "surround parade faith vast hedgehog special survey prize mean smoke leg gospel";
+var mnemonic = "region pupil spare sense pilot wolf copper pumpkin trim window fit screen";

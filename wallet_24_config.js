@@ -1,1 +1,1 @@
-var mnemonic = "pledge lawn census build spice lift animal excite tiny peasant entire unaware";
+var mnemonic = "grief proud alert man example curtain globe love version win cool utility";

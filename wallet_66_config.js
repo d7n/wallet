@@ -1,1 +1,1 @@
-var mnemonic = "expose narrow mistake happy patient very leisure desk hand sister original sunset";
+var mnemonic = "biology taste forget section mistake tattoo bar fame behave dish moment flat";

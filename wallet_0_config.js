@@ -1,1 +1,1 @@
-var mnemonic = "swamp album common item tank farm wing usual outdoor still earn same";
+var mnemonic = "festival worry congress daring three unveil toast camera rocket credit patrol certain";

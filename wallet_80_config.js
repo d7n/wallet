@@ -1,1 +1,1 @@
-var mnemonic = "phone appear script scan crime random prepare unveil silk waste asset fire";
+var mnemonic = "grunt laptop urban napkin apology divert tip goose opera history collect oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "term stairs poet avocado trick owner smoke banana oval kidney video zoo";
+var mnemonic = "lucky swim oil horror title accident rent below trust color round crash";

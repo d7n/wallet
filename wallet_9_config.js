@@ -1,1 +1,1 @@
-var mnemonic = "voyage put kitchen fiber liar define utility option glare jaguar panel mule";
+var mnemonic = "liquid what smooth arrive setup illness ivory degree artwork physical narrow tonight";

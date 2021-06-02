@@ -1,1 +1,1 @@
-var mnemonic = "soul mixed when narrow nature capable mix false height way fall whip";
+var mnemonic = "corn bar fog broccoli silly under wool throw fluid trust final witness";

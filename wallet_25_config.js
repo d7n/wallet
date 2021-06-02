@@ -1,1 +1,1 @@
-var mnemonic = "scout odor explain puzzle exact mimic sun exist lift buffalo grace swear";
+var mnemonic = "carpet only spy chuckle merry goose unaware detect crisp antenna vacant hire";

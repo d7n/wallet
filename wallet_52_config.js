@@ -1,1 +1,1 @@
-var mnemonic = "sweet exercise possible place cram advice this subject remind song question boy";
+var mnemonic = "coin kidney isolate noble oblige awkward civil wise rabbit blouse use leopard";

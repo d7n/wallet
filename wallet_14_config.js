@@ -1,1 +1,1 @@
-var mnemonic = "pride price endless spare illegal quote deposit work quiz zone nothing congress";
+var mnemonic = "grocery spring hospital jealous tobacco accident ethics type decorate noodle improve night";

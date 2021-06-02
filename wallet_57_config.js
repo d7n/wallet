@@ -1,1 +1,1 @@
-var mnemonic = "child roast cheap arch sense woman fluid misery mean crane business food";
+var mnemonic = "armor logic announce combine badge toward dutch board lamp ugly magic inspire";

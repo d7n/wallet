@@ -1,1 +1,1 @@
-var mnemonic = "urge leg spray open trip video rough state oil carry urban strong";
+var mnemonic = "current soda quantum web onion flip gasp family shallow country coil naive";

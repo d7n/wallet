@@ -1,1 +1,1 @@
-var mnemonic = "shoot nose during parade wait rich foam agree fancy thunder label run";
+var mnemonic = "among sunny ecology absent chapter laptop start title valve illegal olympic april";

@@ -1,1 +1,1 @@
-var mnemonic = "august pelican coast photo junk work order dinosaur cradle reject inflict notice";
+var mnemonic = "keen menu polar rail fine hip hand shop staff find marriage ginger";

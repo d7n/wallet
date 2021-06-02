@@ -1,1 +1,1 @@
-var mnemonic = "blade muffin unaware valley afford empower copy sense mule repeat east disagree";
+var mnemonic = "upon tuna delay oppose media sea swap hurdle bench impulse depth flavor";

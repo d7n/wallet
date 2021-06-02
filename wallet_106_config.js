@@ -1,1 +1,1 @@
-var mnemonic = "diesel super fox torch find effort drink isolate year edge cover eight";
+var mnemonic = "ignore soft piano category hub pill rally slush spy elegant student magic";

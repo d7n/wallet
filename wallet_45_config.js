@@ -1,1 +1,1 @@
-var mnemonic = "law pitch famous maple canyon artwork edit pluck worth mystery stuff open";
+var mnemonic = "broom slight awesome base art language worry sphere december fringe coil pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus urban prison attitude ecology chuckle canvas code market bracket cruel ball";
+var mnemonic = "lake tonight harbor plate common future team dentist share warfare group welcome";

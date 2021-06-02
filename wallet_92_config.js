@@ -1,1 +1,1 @@
-var mnemonic = "poem plastic bus top can tray network immense orchard family olive neither";
+var mnemonic = "prefer melt rigid loud absent rabbit left venue glimpse advance question trash";

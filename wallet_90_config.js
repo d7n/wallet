@@ -1,1 +1,1 @@
-var mnemonic = "nature morning name retreat scale bounce gaze search sunny artwork tragic person";
+var mnemonic = "escape virtual caught chapter voyage drastic barely bird truck fatal want control";

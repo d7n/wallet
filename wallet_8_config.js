@@ -1,1 +1,1 @@
-var mnemonic = "cruise vicious gossip cactus state letter glance scrub actor resist twenty addict";
+var mnemonic = "harvest car pigeon silk around nice limb walnut kitchen hood attitude film";

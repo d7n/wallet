@@ -1,1 +1,1 @@
-var mnemonic = "canyon north empty main lend sugar angry diet near attract exit tonight";
+var mnemonic = "upset nominee cool marine tag deny river tuna other surge tongue make";

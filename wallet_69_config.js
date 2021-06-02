@@ -1,1 +1,1 @@
-var mnemonic = "lamp tissue town pistol scan sponsor rally kingdom clutch quantum october flame";
+var mnemonic = "olympic menu frog thrive resource tank build address release casual asthma void";

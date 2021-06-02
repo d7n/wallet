@@ -1,1 +1,1 @@
-var mnemonic = "insect moral grunt fever inch impact finger ceiling rally robot cruel lab";
+var mnemonic = "insane output list issue rough belt day artwork song pond say match";

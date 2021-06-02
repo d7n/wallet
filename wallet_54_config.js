@@ -1,1 +1,1 @@
-var mnemonic = "yellow true immense truth baby gorilla want view approve animal sausage fault";
+var mnemonic = "heart calm evolve help absent list pond humble few stamp youth biology";

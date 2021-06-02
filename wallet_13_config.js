@@ -1,1 +1,1 @@
-var mnemonic = "issue toast make meadow other stool injury museum anxiety orient aspect dawn";
+var mnemonic = "truth check library mix stairs mom bring critic either staff book police";

@@ -1,1 +1,1 @@
-var mnemonic = "middle quality soft better fabric gallery unhappy slab verify step aspect reject";
+var mnemonic = "rare warfare bubble power yard income rich prison ball install drop ill";

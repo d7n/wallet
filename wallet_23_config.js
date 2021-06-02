@@ -1,1 +1,1 @@
-var mnemonic = "crawl avoid frog museum teach obtain antique tiger inflict fit column reward";
+var mnemonic = "ranch pencil melt tone involve rabbit lesson equal similar chief solid false";

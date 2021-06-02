@@ -1,1 +1,1 @@
-var mnemonic = "solar sword fringe clinic save tube common cabin grow bridge cable random";
+var mnemonic = "beach suffer vault ostrich note way green dismiss alter soul apology unknown";

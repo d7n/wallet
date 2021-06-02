@@ -1,1 +1,1 @@
-var mnemonic = "project wool van swim noodle science fossil field mom river walk best";
+var mnemonic = "radar mimic account cloth normal upper accuse grief weather reunion erase scout";

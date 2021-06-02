@@ -1,1 +1,1 @@
-var mnemonic = "spoil miss fury solve man slush market clump casual father flag oppose";
+var mnemonic = "blade envelope kiwi pear pen dawn flat parade sword way disease river";

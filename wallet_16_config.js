@@ -1,1 +1,1 @@
-var mnemonic = "crime prison crystal shift accuse lock collect lamp barely tree rebel three";
+var mnemonic = "grid great pride truly mammal orphan mom enough chase castle fun finish";

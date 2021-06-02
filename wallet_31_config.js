@@ -1,1 +1,1 @@
-var mnemonic = "uncover tiny ranch buzz rebuild alone upset speed twice clump bracket match";
+var mnemonic = "token one execute anchor flower second digital brief initial fancy shove desk";

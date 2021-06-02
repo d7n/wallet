@@ -1,1 +1,1 @@
-var mnemonic = "neutral clump patrol deny witness sister over sun abandon simple palace limb";
+var mnemonic = "maple turkey appear cook maximum grape garlic regret squeeze drama mixed army";

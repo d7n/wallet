@@ -1,1 +1,1 @@
-var mnemonic = "record drum apart juice sport year joke hand regret hurdle asthma meadow";
+var mnemonic = "margin once tuition pepper evil wrestle surprise then fit unfair eight weather";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum arch goose endless enrich toe pass flavor library pulse mushroom dumb";
+var mnemonic = "anger team chronic comfort during drill actual news employ agree check frame";

@@ -1,1 +1,1 @@
-var mnemonic = "profit still easily tooth misery top prepare crumble minimum stand hill south";
+var mnemonic = "misery spawn order need ridge any library sentence cancel dress window chair";

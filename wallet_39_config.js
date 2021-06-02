@@ -1,1 +1,1 @@
-var mnemonic = "tobacco critic enjoy pigeon excite fury chef rigid amateur rebuild myself column";
+var mnemonic = "wear gossip appear furnace what symptom snap dash spatial miss ladder plunge";

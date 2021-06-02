@@ -1,1 +1,1 @@
-var mnemonic = "reunion decrease travel typical deer act situate wait mind ordinary liberty little";
+var mnemonic = "flip energy expire sadness crazy post purchase category gate track maid dice";

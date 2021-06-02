@@ -1,1 +1,1 @@
-var mnemonic = "bike dentist soul output kid all link upgrade absorb below dance law";
+var mnemonic = "shock siren combine hidden whisper trial hint dawn proof robust sphere matrix";

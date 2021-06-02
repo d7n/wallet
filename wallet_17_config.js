@@ -1,1 +1,1 @@
-var mnemonic = "manual flame sick dinner bind balcony live labor trade hill relief output";
+var mnemonic = "people frequent pulse asthma dragon bullet cotton december try physical need consider";

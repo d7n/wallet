@@ -1,1 +1,1 @@
-var mnemonic = "between used ordinary clown wonder alone beach slow forget camp bright naive";
+var mnemonic = "tiny crunch ranch soft noodle rotate quarter cabin company rifle bonus buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "short tennis reflect unique chief visual team throw when north leisure gown";
+var mnemonic = "strategy panther proof gadget chimney grief eight coil destroy april fly reject";

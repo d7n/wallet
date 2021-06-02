@@ -1,1 +1,1 @@
-var mnemonic = "erupt hour rack blood mixture between harvest robust story inquiry alone oxygen";
+var mnemonic = "hand feed present sample lady absurd help dwarf settle bike carbon physical";

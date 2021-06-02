@@ -1,1 +1,1 @@
-var mnemonic = "chest pony weasel clay install husband pear first weekend section ostrich keep";
+var mnemonic = "flower midnight mask tenant tide away peasant diagram comic gas hobby drink";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle glass skate saddle flower shuffle shell dentist ahead shadow race vanish";
+var mnemonic = "minor very cherry frost little lamp friend orient exotic school settle found";

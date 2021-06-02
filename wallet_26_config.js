@@ -1,1 +1,1 @@
-var mnemonic = "grace mind gadget mask other habit boss wrong movie account alert debate";
+var mnemonic = "crouch able holiday occur yard panic eyebrow case jaguar magic pistol sand";

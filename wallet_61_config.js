@@ -1,1 +1,1 @@
-var mnemonic = "paper wide turn slice desk scheme rural dream vintage update suggest light";
+var mnemonic = "pencil impulse caught loan alter weasel lock trophy tired miracle struggle subway";

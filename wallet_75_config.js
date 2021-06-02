@@ -1,1 +1,1 @@
-var mnemonic = "luggage lava magic curve panel method pen lumber lyrics toddler own viable";
+var mnemonic = "quote machine buzz leopard nation craft minimum leopard price worth fix universe";

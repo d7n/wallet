@@ -1,1 +1,1 @@
-var mnemonic = "tide hurdle van found drink great neither guitar adult ripple direct alone";
+var mnemonic = "side imitate gossip anger guitar afraid visual farm banana knee blind okay";

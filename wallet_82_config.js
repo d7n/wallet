@@ -1,1 +1,1 @@
-var mnemonic = "staff shed festival obey sun cycle journey rice viable code burger quit";
+var mnemonic = "doll fault awesome fashion prevent identify about legend ribbon lesson call cable";

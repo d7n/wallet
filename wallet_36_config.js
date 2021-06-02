@@ -1,1 +1,1 @@
-var mnemonic = "damage symptom silent news conduct output moral frequent torch guard tank skirt";
+var mnemonic = "person unlock elephant grape item box edge repeat hazard soul cable view";

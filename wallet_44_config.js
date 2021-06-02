@@ -1,1 +1,1 @@
-var mnemonic = "salute argue gift surprise sleep group genius unfold flower often side cream";
+var mnemonic = "farm paddle happy chuckle exhaust shield tired drip that pet love evil";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter jazz silver riot cave actual trial stock boss betray spatial become";
+var mnemonic = "myself toast virtual smart render coin food spoon vivid wage orbit town";

@@ -1,1 +1,1 @@
-var mnemonic = "angle organ cousin rebel ordinary vicious disorder little method mix soup muscle";
+var mnemonic = "avoid acquire private book rival collect shy front crush cereal sport gym";

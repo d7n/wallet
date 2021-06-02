@@ -1,1 +1,1 @@
-var mnemonic = "pioneer aunt lemon rigid second park exchange empower place leave whale tennis";
+var mnemonic = "ladder mass drum patch pulse liquid dress dance tool knee awful normal";

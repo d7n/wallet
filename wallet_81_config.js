@@ -1,1 +1,1 @@
-var mnemonic = "hello exit assault leave nerve symptom sheriff two retire misery color kingdom";
+var mnemonic = "giraffe place mutual narrow jazz better differ bonus venue strong barrel follow";

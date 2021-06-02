@@ -1,1 +1,1 @@
-var mnemonic = "common clump unlock merge glue talent student since empower away end elbow";
+var mnemonic = "dream join next wash blossom later pen february diet spray crush file";

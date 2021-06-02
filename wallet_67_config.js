@@ -1,1 +1,1 @@
-var mnemonic = "fine media camera spike seven predict draw monkey repeat coyote family defense";
+var mnemonic = "avocado tent gather relax music type zebra web relax radar bracket radar";
