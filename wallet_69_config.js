@@ -1,1 +1,1 @@
-var mnemonic = "portion grocery chest source used empty village pen educate gun metal emerge";
+var mnemonic = "access album hazard swim govern dinner vessel never drop wash cliff flee";

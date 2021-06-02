@@ -1,1 +1,1 @@
-var mnemonic = "veteran luggage wife guide zebra despair apple recall fragile peace fury case";
+var mnemonic = "angle excite enhance once object dust armed draft run turkey wrap frame";

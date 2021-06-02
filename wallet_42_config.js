@@ -1,1 +1,1 @@
-var mnemonic = "educate awful radio tuna narrow hover decide increase child loud electric infant";
+var mnemonic = "case intact essay hawk disagree runway gun rigid pull spray width vendor";

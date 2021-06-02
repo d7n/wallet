@@ -1,1 +1,1 @@
-var mnemonic = "witness letter arrive defy current oxygen sail eagle captain option abuse range";
+var mnemonic = "arrange minor parrot attitude involve cause cigar grow turn gym kit creek";

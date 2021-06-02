@@ -1,1 +1,1 @@
-var mnemonic = "place antique recall enhance reopen parrot print brisk direct caution business cabin";
+var mnemonic = "edge cart edit since lucky tattoo glimpse expose key slush glare differ";

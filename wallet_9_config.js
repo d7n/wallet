@@ -1,1 +1,1 @@
-var mnemonic = "finish slogan distance rebuild educate trigger spawn oyster cage negative scene apple";
+var mnemonic = "filter awkward plunge jaguar coffee hidden dune employ afford sand piece young";

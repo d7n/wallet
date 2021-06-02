@@ -1,1 +1,1 @@
-var mnemonic = "bunker rebuild sail spin kind nasty speak purpose search rather case story";
+var mnemonic = "skull vicious require dinosaur couple survey pretty chair eagle burst drum rookie";

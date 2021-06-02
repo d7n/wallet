@@ -1,1 +1,1 @@
-var mnemonic = "bachelor luggage obvious gallery coconut step addict taxi palm rabbit code top";
+var mnemonic = "engage crack cement equip room move matrix lamp journey help fee exit";

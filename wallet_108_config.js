@@ -1,1 +1,1 @@
-var mnemonic = "shove surface solution spare idle tissue coach daring valve pretty rude hope";
+var mnemonic = "number salt stool circle during improve poverty nut grace peasant black promote";

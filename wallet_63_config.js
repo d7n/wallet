@@ -1,1 +1,1 @@
-var mnemonic = "region describe off feature verb laugh ordinary duck okay mushroom stumble relax";
+var mnemonic = "brother confirm empower rifle bus shell ski egg remind ridge surface evoke";

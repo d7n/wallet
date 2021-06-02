@@ -1,1 +1,1 @@
-var mnemonic = "confirm toilet loan tomorrow furnace spice captain glide river shift fish shoot";
+var mnemonic = "sure rare budget lady head what narrow bind piano clean poem ramp";

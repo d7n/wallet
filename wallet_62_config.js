@@ -1,1 +1,1 @@
-var mnemonic = "amount close danger brisk inch razor filter unknown forget country fat right";
+var mnemonic = "spoon series reason camera vast woman unable skill appear inhale mixed property";

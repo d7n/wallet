@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ball lift fossil mom until cotton lounge route borrow return baby";
+var mnemonic = "embark square sponsor energy awful rent expire number pen dream bike survey";

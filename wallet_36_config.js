@@ -1,1 +1,1 @@
-var mnemonic = "stick food yellow salmon muscle bag want industry proof hole portion blush";
+var mnemonic = "harsh current runway nut obtain dice sugar day horror swing clarify snack";

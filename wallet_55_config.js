@@ -1,1 +1,1 @@
-var mnemonic = "message blush market climb add cake pink scout pipe hospital enough junk";
+var mnemonic = "cruel feel elephant make boost excess found lift walk ritual point ahead";

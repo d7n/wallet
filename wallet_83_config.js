@@ -1,1 +1,1 @@
-var mnemonic = "pair media film piano rapid earth upper glass myth wool type present";
+var mnemonic = "ostrich reject brain hello gas veteran cruel aspect crime runway behave coconut";

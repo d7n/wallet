@@ -1,1 +1,1 @@
-var mnemonic = "oxygen purchase expire pair absorb seek end must boat comfort amateur duck";
+var mnemonic = "metal duck mention report gaze employ brief turtle antenna trim opera hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "sell survey bamboo scale gap pony hen wedding smart install myself narrow";
+var mnemonic = "mutual mobile route sphere park upgrade shrimp exercise wisdom brown course luxury";

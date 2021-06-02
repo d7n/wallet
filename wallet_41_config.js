@@ -1,1 +1,1 @@
-var mnemonic = "skirt extend youth calm bone puzzle toddler indoor real profit try arrive";
+var mnemonic = "pizza angry night roof agree subway resource garage husband gaze fish include";

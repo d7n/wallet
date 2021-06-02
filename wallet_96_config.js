@@ -1,1 +1,1 @@
-var mnemonic = "remind suspect antenna horn rice clarify orphan spray prefer million now surge";
+var mnemonic = "spin occur lecture lava civil leave flash notice utility before gift tell";

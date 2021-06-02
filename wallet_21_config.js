@@ -1,1 +1,1 @@
-var mnemonic = "raise illness tool across twelve extra initial gasp asthma top patrol pulse";
+var mnemonic = "wild hint outside live want piano visit picture blossom disagree tray walk";

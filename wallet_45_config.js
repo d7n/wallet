@@ -1,1 +1,1 @@
-var mnemonic = "because other source pear page vivid alarm board such picnic filter nuclear";
+var mnemonic = "wagon hungry ride border become once planet length clown high frown before";

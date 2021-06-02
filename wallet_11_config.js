@@ -1,1 +1,1 @@
-var mnemonic = "street list taste boring pink couple kit harvest clerk orchard joke idea";
+var mnemonic = "multiply under rain miracle stage uphold afford frost off lunar bacon note";

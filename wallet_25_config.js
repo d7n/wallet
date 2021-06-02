@@ -1,1 +1,1 @@
-var mnemonic = "cheese soon script camera bus weird brain hybrid law vital music scrap";
+var mnemonic = "still ritual phrase evoke lunch nothing spot weather bicycle guard debris distance";

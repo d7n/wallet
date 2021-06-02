@@ -1,1 +1,1 @@
-var mnemonic = "funny rule submit observe shrug super reduce example bicycle benefit often rely";
+var mnemonic = "print cost mind such flock oppose pledge green current angry field six";

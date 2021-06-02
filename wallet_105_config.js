@@ -1,1 +1,1 @@
-var mnemonic = "mixture slam engine six scatter morning service raccoon belt region quote expect";
+var mnemonic = "race pig vocal bleak normal educate rifle loan quote skin step host";

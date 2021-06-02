@@ -1,1 +1,1 @@
-var mnemonic = "prize often betray fog multiply hand quick flock grid laundry stable decline";
+var mnemonic = "future bracket whisper rabbit suit skull tape chair certain alpha embark team";

@@ -1,1 +1,1 @@
-var mnemonic = "flee keen feel margin various creek despair shoulder mechanic easy cushion gift";
+var mnemonic = "ancient onion face dinosaur grace enact case wall liquid dice dolphin patch";

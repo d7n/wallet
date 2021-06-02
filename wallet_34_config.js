@@ -1,1 +1,1 @@
-var mnemonic = "awkward indicate win broccoli winner pizza sunny fruit test chronic glory wise";
+var mnemonic = "cargo pear toward fitness drill soft truly where eight foster kitten pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "duck pill add element honey smile slab argue program satisfy upgrade nasty";
+var mnemonic = "this dentist canal absorb zebra vivid prepare runway drama wine victory ranch";

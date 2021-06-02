@@ -1,1 +1,1 @@
-var mnemonic = "response you toward frog arrange benefit piano awesome exhaust region camera picnic";
+var mnemonic = "dress leaf soul wrong reward provide box gas salute tiny movie girl";

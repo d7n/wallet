@@ -1,1 +1,1 @@
-var mnemonic = "place dash hair fluid real arena science pioneer gloom cage rabbit race";
+var mnemonic = "concert tip reopen injury swap rule sea mention police battle lens health";

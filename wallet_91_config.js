@@ -1,1 +1,1 @@
-var mnemonic = "stumble dad setup rubber indoor sure gospel history fatigue begin reduce west";
+var mnemonic = "lab cabbage copy inhale resource often left super cry recipe pottery submit";

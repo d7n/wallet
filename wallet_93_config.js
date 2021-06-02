@@ -1,1 +1,1 @@
-var mnemonic = "sleep swift hybrid guilt roof video supreme genius upon nuclear clutch opinion";
+var mnemonic = "duty promote summer season flip satisfy alert avocado erase lonely tattoo trust";

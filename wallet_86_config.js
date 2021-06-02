@@ -1,1 +1,1 @@
-var mnemonic = "love replace hotel scissors resemble neck opinion eight arm give magnet phone";
+var mnemonic = "marriage belt one plug mobile sword fire swamp forward tooth surprise sing";

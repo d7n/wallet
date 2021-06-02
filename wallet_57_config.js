@@ -1,1 +1,1 @@
-var mnemonic = "print vague arrive source raven goat impulse weird laugh destroy afraid bottom";
+var mnemonic = "boss rate dismiss pull market front shove elite ring tooth essay eternal";

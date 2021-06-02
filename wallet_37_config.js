@@ -1,1 +1,1 @@
-var mnemonic = "tunnel daring want bid curve input miss deer crazy aunt person pluck";
+var mnemonic = "comic once wheel mutual vocal radar fringe into bacon give cigar toddler";

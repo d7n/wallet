@@ -1,1 +1,1 @@
-var mnemonic = "will satisfy cube spend deal address expect inhale project thunder puppy scissors";
+var mnemonic = "diet rice exercise earth degree corn future social purpose side chronic profit";

@@ -1,1 +1,1 @@
-var mnemonic = "donate actor winter quiz aspect payment gasp milk magic olive protect rude";
+var mnemonic = "magnet ozone door concert road frog tip spawn essay scene hub foam";

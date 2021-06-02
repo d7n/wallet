@@ -1,1 +1,1 @@
-var mnemonic = "diagram total disagree danger track spike switch life layer pair tissue cage";
+var mnemonic = "jacket dragon blanket ride flock tray nasty rubber consider metal hat corn";

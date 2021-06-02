@@ -1,1 +1,1 @@
-var mnemonic = "air picnic soon already moment render nerve print race erupt ice eager";
+var mnemonic = "supply proof crazy blade circle cactus candy indoor embody absurd cram crime";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak obvious stove faint stage key injury patrol beyond track manual miracle";
+var mnemonic = "flag learn creek remove false jealous drive sign stadium buzz zone remind";

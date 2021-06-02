@@ -1,1 +1,1 @@
-var mnemonic = "effort own ethics ghost twenty essence famous chair second unfold omit unusual";
+var mnemonic = "romance bonus strike silver chaos hedgehog alley crime wing logic actress execute";

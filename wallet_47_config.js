@@ -1,1 +1,1 @@
-var mnemonic = "appear half reopen ivory panel predict detail type elevator echo fashion cash";
+var mnemonic = "lift gift wool soccer hold punch erode crew dolphin theme suffer educate";

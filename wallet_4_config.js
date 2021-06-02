@@ -1,1 +1,1 @@
-var mnemonic = "evolve maze end salad frequent link cube obscure seed staff visual effort";
+var mnemonic = "better brain tattoo rent cherry credit keen fragile shy evidence vital degree";

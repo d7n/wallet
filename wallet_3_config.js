@@ -1,1 +1,1 @@
-var mnemonic = "size monitor cereal junior cube post wagon venture portion stereo flip trim";
+var mnemonic = "grain future document access jeans chunk identify night eagle game success surface";

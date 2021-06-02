@@ -1,1 +1,1 @@
-var mnemonic = "click broom jealous champion mean install chunk goose slender maximum auto fortune";
+var mnemonic = "frown lonely casual light sentence flavor accident salon cruise anger coyote dust";

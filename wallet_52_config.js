@@ -1,1 +1,1 @@
-var mnemonic = "excite make merge bronze hungry walk treat cliff fury abuse domain vote";
+var mnemonic = "visit album unfair muffin menu volume guitar world pattern sure zone lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "wish require glove stem jazz shallow cream strategy drum merit copper drive";
+var mnemonic = "omit sick sing exclude mutual burst spare slab equip cat celery drive";

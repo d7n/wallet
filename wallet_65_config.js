@@ -1,1 +1,1 @@
-var mnemonic = "kingdom circle lawn ribbon advance strategy corn wet dinner stadium rifle rifle";
+var mnemonic = "thrive neglect matter fantasy curve enforce account confirm distance kangaroo sand method";

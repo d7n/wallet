@@ -1,1 +1,1 @@
-var mnemonic = "dream seek glove tackle glad foster patient drive advance enough physical people";
+var mnemonic = "usage exhaust weapon solve ill uncover blast second delay kiss choice napkin";

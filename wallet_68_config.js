@@ -1,1 +1,1 @@
-var mnemonic = "sand garbage wrap purse thumb blood when win clog point scorpion menu";
+var mnemonic = "air fury fossil biology shiver avoid patch blouse flag pipe crater repeat";

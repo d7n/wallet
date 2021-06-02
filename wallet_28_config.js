@@ -1,1 +1,1 @@
-var mnemonic = "place crawl drastic front brown input head puzzle logic rib try inflict";
+var mnemonic = "echo sense toward act antique neck defense outdoor release donor evidence foil";

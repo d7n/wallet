@@ -1,1 +1,1 @@
-var mnemonic = "theme bullet cup spy sweet hurdle oppose coral brown person august pair";
+var mnemonic = "water giggle galaxy mercy diary sign below work door siege lounge street";

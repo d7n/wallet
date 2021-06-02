@@ -1,1 +1,1 @@
-var mnemonic = "honey citizen neither casual chimney choose movie defy lake execute art roast";
+var mnemonic = "reunion staff parrot jealous key like beyond truly canvas note tag siren";

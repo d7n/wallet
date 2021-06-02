@@ -1,1 +1,1 @@
-var mnemonic = "immense cause ice mixture detail wisdom laugh ankle fox spoon pulse nut";
+var mnemonic = "cheap steel exhibit flame betray poverty chair piano strategy eight add giraffe";

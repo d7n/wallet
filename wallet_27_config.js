@@ -1,1 +1,1 @@
-var mnemonic = "example diagram load merge safe sudden renew glimpse purity hollow wealth usual";
+var mnemonic = "into chef steak seek aspect result shaft fame work walnut unfold pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit canal weasel edge audit light castle luggage approve smooth token elegant";
+var mnemonic = "small poet arm rocket anger column valley garlic prefer ready thing panther";

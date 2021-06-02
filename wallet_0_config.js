@@ -1,1 +1,1 @@
-var mnemonic = "crucial crouch ecology vivid lens mind mountain fuel polar throw tray square";
+var mnemonic = "later afford okay rail during light win sea butter ivory off stage";

@@ -1,1 +1,1 @@
-var mnemonic = "panda bonus dawn knee ocean paddle public speak gauge finish begin penalty";
+var mnemonic = "village elevator myself moon distance issue dream super order garment slide service";

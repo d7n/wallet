@@ -1,1 +1,1 @@
-var mnemonic = "joy swim cover iron wide supply alpha push rough group drastic wrist";
+var mnemonic = "resource high door predict shiver still govern frog seek sun pulp brass";

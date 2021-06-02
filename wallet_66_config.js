@@ -1,1 +1,1 @@
-var mnemonic = "segment first loyal cherry napkin shell moment tank green belt concert into";
+var mnemonic = "replace capital resemble feed prosper similar doll lunar midnight program shield blouse";

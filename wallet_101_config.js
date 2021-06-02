@@ -1,1 +1,1 @@
-var mnemonic = "annual swing hire skirt middle double enough eye hurdle forward piece ketchup";
+var mnemonic = "ivory cake scissors donor wonder badge casual local tuition fat acid affair";

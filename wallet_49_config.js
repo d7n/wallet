@@ -1,1 +1,1 @@
-var mnemonic = "weasel month planet frog opinion skate resemble anger quote fetch token giggle";
+var mnemonic = "ramp prevent appear primary open defy cram alien tank demand cross member";

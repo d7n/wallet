@@ -1,1 +1,1 @@
-var mnemonic = "grape rhythm later giggle lion voyage buddy mirror decrease detect income plunge";
+var mnemonic = "bitter proof silver museum object come blouse wage party surface toddler wheat";

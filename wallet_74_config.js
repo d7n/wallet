@@ -1,1 +1,1 @@
-var mnemonic = "resemble police fence payment grocery shop mystery cause knife syrup miss police";
+var mnemonic = "train reform must essay occur minute silent later glad auction snack cannon";

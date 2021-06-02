@@ -1,1 +1,1 @@
-var mnemonic = "piece pink rescue token three retire assume affair cherry boat average unveil";
+var mnemonic = "tuna angry gym topple pizza eyebrow critic mixture flame ecology rookie bachelor";

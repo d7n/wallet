@@ -1,1 +1,1 @@
-var mnemonic = "more heavy rhythm crash despair system twin glance wise enemy right kiwi";
+var mnemonic = "master session spawn other slot tray pledge toss gasp betray rigid barely";

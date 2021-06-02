@@ -1,1 +1,1 @@
-var mnemonic = "parade clutch tool inspire spoon logic divorce bonus buzz detail maximum tail";
+var mnemonic = "arena gather rubber return grow crash correct addict glide raise myth pill";

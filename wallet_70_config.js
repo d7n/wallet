@@ -1,1 +1,1 @@
-var mnemonic = "inmate toy prefer intact census glove industry language differ tool identify deliver";
+var mnemonic = "game pact echo damage forest wash cake summer must clap dirt save";

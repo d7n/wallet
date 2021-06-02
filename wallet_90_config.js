@@ -1,1 +1,1 @@
-var mnemonic = "guide enter slab alter rebuild test assault loud column draw blur gentle";
+var mnemonic = "faith protect siege surge glory inquiry pool spell put scare culture can";

@@ -1,1 +1,1 @@
-var mnemonic = "eight margin book course brand sniff angle host joy asset base arch";
+var mnemonic = "cream expand cluster resist double hurt convince asset panel neglect man deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "exit voyage field material wealth badge tag merge pig add boy warm";
+var mnemonic = "bacon impose lift become author honey sudden void muffin increase explain travel";

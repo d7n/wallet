@@ -1,1 +1,1 @@
-var mnemonic = "make toward notice oyster juice language hat pen pledge view modify pig";
+var mnemonic = "slow chimney drama rescue borrow marble frozen female senior toilet where mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "april pilot float face juice common sheriff vault neglect sun naive sport";
+var mnemonic = "vibrant radio one love cake gravity critic tomorrow wheat pistol found siege";

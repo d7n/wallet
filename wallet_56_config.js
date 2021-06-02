@@ -1,1 +1,1 @@
-var mnemonic = "rescue text gas arena chimney ability practice lesson cool whip female tomorrow";
+var mnemonic = "equip tag pitch start foot suspect tongue clown subway shed cargo toward";

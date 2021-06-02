@@ -1,1 +1,1 @@
-var mnemonic = "advance empower ahead clarify carbon option rose crowd habit powder ship cloth";
+var mnemonic = "artist soccer wait cruise sketch author quote lounge sample client kiss hover";

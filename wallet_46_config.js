@@ -1,1 +1,1 @@
-var mnemonic = "art aisle roof ship false almost congress secret isolate ankle youth script";
+var mnemonic = "coast genuine prepare option rigid what erosion pledge feel marine display ring";

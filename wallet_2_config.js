@@ -1,1 +1,1 @@
-var mnemonic = "snake pencil under emerge target describe spoon magic question innocent assist choose";
+var mnemonic = "monster sea office animal tunnel seed tobacco lucky mass over gravity proof";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner mask episode dad run focus impact alcohol wrap change breeze pledge";
+var mnemonic = "box glass enjoy turkey short mosquito arrive shaft student squirrel crane supply";

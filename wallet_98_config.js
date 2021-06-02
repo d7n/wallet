@@ -1,1 +1,1 @@
-var mnemonic = "palm arm leaf shadow retire task siren armed focus kidney fee depend";
+var mnemonic = "spirit dune solution network mercy skate journey cluster height verb spread tank";

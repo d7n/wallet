@@ -1,1 +1,1 @@
-var mnemonic = "swap adapt path logic memory diary canvas tree collect shield dilemma tissue";
+var mnemonic = "dog crater live click pig unknown legal virtual wreck smile snap sure";

@@ -1,1 +1,1 @@
-var mnemonic = "denial enemy example cattle wish sun hurry bid indicate panel pill job";
+var mnemonic = "neglect aisle spawn degree all bottom punch stay damp critic coconut mammal";

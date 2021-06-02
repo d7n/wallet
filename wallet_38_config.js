@@ -1,1 +1,1 @@
-var mnemonic = "rely among cause trade artefact rifle scan road idle brother moon middle";
+var mnemonic = "success priority guide deny dilemma rose jungle churn economy barrel much salt";

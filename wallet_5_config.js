@@ -1,1 +1,1 @@
-var mnemonic = "tiny total neck purpose fun bulk bread village ivory access few own";
+var mnemonic = "canyon festival teach century keen sauce salmon range disagree cheap pretty trend";

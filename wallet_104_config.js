@@ -1,1 +1,1 @@
-var mnemonic = "aware blast kitten hold foot unknown believe river olympic riot reward humor";
+var mnemonic = "method ginger sketch spray bracket aware exhaust belt upon relax record bonus";

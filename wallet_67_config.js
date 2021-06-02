@@ -1,1 +1,1 @@
-var mnemonic = "jar receive put defy cinnamon retreat crazy account never sight swallow possible";
+var mnemonic = "trial sleep silly term perfect copper loud length pen accident can soul";

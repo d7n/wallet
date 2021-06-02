@@ -1,1 +1,1 @@
-var mnemonic = "pact monkey jungle cruel adult never leisure evoke purity dirt great chunk";
+var mnemonic = "version stereo column dawn captain bamboo receive escape correct river round space";

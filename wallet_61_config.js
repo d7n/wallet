@@ -1,1 +1,1 @@
-var mnemonic = "during target gift powder success net need kiwi day demise zone joy";
+var mnemonic = "seminar kiss super bicycle angle skill sentence chunk economy produce sleep alley";

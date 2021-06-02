@@ -1,1 +1,1 @@
-var mnemonic = "ozone recipe globe session control section cover runway coin cause donor fancy";
+var mnemonic = "ladder powder abstract flag bleak cheese scout march text venue rough setup";
