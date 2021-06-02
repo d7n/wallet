@@ -1,1 +1,1 @@
-var mnemonic = "slight north feed bag sponsor amateur spring trip during comic what middle";
+var mnemonic = "family draft asthma imitate fan worry guitar large dolphin possible rebel subject";

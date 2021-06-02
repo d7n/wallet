@@ -1,1 +1,1 @@
-var mnemonic = "column remove tattoo image humor brush top invite brother jar purchase eternal";
+var mnemonic = "sausage follow nest coral board finger pyramid always prize fault nominee pyramid";

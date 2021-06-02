@@ -1,1 +1,1 @@
-var mnemonic = "junk current mystery mesh access lava young entire group virus fruit reform";
+var mnemonic = "direct add brown coast soup hero truly range never promote surprise six";

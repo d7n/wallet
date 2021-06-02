@@ -1,1 +1,1 @@
-var mnemonic = "best powder toward property can announce twice impulse rural note spell health";
+var mnemonic = "wreck insect escape total meadow basket gorilla gloom little penalty long upgrade";

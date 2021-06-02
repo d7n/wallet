@@ -1,1 +1,1 @@
-var mnemonic = "mirror size rabbit remain swear song leaf noodle magic topic scheme cute";
+var mnemonic = "seed own pride frost girl diesel flock avoid pretty alert destroy galaxy";

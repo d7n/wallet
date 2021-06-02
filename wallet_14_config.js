@@ -1,1 +1,1 @@
-var mnemonic = "snake burden symptom push feature dawn rookie run snow fold much suggest";
+var mnemonic = "decrease shy hurry screen wide similar person private project syrup border cargo";

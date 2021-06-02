@@ -1,1 +1,1 @@
-var mnemonic = "unit coach deputy region allow ticket trash chimney carbon shock orbit vocal";
+var mnemonic = "group ozone memory orphan taste robust dress traffic recall raw nose expand";

@@ -1,1 +1,1 @@
-var mnemonic = "style forum fatigue blanket win grape feel matrix tribe stick false couch";
+var mnemonic = "afford rate twist fluid course wrestle horse jelly dance lawn crush holiday";

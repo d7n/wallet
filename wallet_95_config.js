@@ -1,1 +1,1 @@
-var mnemonic = "zone mango any power habit vault cave taxi certain flag memory garlic";
+var mnemonic = "odor system audit example virus few refuse sing field stove keen genuine";

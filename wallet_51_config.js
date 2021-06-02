@@ -1,1 +1,1 @@
-var mnemonic = "coil cheese bright promote cliff bulk genre manual soon mystery age nurse";
+var mnemonic = "early soap second charge number love mango height atom hub feed van";

@@ -1,1 +1,1 @@
-var mnemonic = "evil hold kiwi gravity strong true gain task inside neutral useless detail";
+var mnemonic = "require cart divert olympic west actress catalog shoe analyst visa able attitude";

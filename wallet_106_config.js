@@ -1,1 +1,1 @@
-var mnemonic = "force intact unique purpose mystery goat beach violin reject ocean alcohol share";
+var mnemonic = "swarm flag empower express surround client glory like today rigid physical civil";

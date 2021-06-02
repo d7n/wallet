@@ -1,1 +1,1 @@
-var mnemonic = "stable message release dress shoe garage empty nurse panic copy weapon return";
+var mnemonic = "tube obvious vicious gun pipe theme reflect silver party joke arrow nuclear";

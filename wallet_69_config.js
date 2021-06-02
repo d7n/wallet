@@ -1,1 +1,1 @@
-var mnemonic = "heart invite girl dirt chunk entire cherry buzz asthma crew mix during";
+var mnemonic = "child borrow anchor denial vehicle sock join vast song alcohol laugh village";

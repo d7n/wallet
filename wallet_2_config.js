@@ -1,1 +1,1 @@
-var mnemonic = "risk clay either culture cute shallow either correct slow borrow dirt kiwi";
+var mnemonic = "ability girl soccer glad estate canoe orphan that benefit weather frame empty";

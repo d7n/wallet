@@ -1,1 +1,1 @@
-var mnemonic = "brick entry oven chief tunnel gaze alert this eight marriage trip loop";
+var mnemonic = "modify rigid stadium flight chalk rack burst laundry stone item market leopard";

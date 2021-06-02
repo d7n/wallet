@@ -1,1 +1,1 @@
-var mnemonic = "prepare ivory absent inspire across camera please poverty calm pulse video double";
+var mnemonic = "bike review game avoid solution equal pitch fly huge stay access jelly";

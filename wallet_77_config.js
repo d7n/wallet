@@ -1,1 +1,1 @@
-var mnemonic = "oven outdoor where witness duty scatter muscle smile broken dawn soda expire";
+var mnemonic = "story narrow hurry wheat result valley panther siege fragile garment exhibit choose";

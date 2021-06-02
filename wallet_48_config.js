@@ -1,1 +1,1 @@
-var mnemonic = "defy repeat bonus run saddle day process praise path clump wood loop";
+var mnemonic = "senior country trouble retreat melody lumber merry nest swap blade chronic dance";

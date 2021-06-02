@@ -1,1 +1,1 @@
-var mnemonic = "wolf alarm oval peasant slice valid vendor universe cricket champion melody trim";
+var mnemonic = "muscle tape pass lady crane thing when brisk input used lock lumber";

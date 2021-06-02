@@ -1,1 +1,1 @@
-var mnemonic = "idea letter foil giraffe pencil annual man gather purchase virtual minor rigid";
+var mnemonic = "access gap noise coral wolf tray zoo moral music problem staff actor";

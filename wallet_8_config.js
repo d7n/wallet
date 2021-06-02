@@ -1,1 +1,1 @@
-var mnemonic = "key bind match unique popular raise hazard wing shove bubble tone life";
+var mnemonic = "park recycle grab gospel walk equal artist render bag thing wheel cram";

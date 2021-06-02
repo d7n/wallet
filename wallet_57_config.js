@@ -1,1 +1,1 @@
-var mnemonic = "slow above nephew thought despair object cheap eternal spider phrase rice play";
+var mnemonic = "minute rookie device left post craft lens lucky collect smart chuckle toss";

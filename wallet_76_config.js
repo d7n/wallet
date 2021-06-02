@@ -1,1 +1,1 @@
-var mnemonic = "shuffle jealous behave pudding icon addict robust fit churn know mind beach";
+var mnemonic = "uniform fat gadget crash canal aspect wreck near brown guilt cage art";

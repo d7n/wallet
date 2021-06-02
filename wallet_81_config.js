@@ -1,1 +1,1 @@
-var mnemonic = "cable broccoli evidence boil meat ranch funny panic prosper disease expire outdoor";
+var mnemonic = "image flush mimic equip supreme vital frown canvas napkin output faculty cactus";

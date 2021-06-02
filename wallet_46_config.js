@@ -1,1 +1,1 @@
-var mnemonic = "muffin sing shrug music road pear crash ordinary craft panic dose solar";
+var mnemonic = "winner crumble obtain tomato whip clarify legend photo derive output popular vast";

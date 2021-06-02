@@ -1,1 +1,1 @@
-var mnemonic = "immune conduct balance inform mixed claw skin team cousin prize crane tuition";
+var mnemonic = "install crisp air middle milk educate bench clap flight brand citizen raw";

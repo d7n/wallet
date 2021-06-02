@@ -1,1 +1,1 @@
-var mnemonic = "eager mention swarm minimum region dignity trap basic melt goose blame worry";
+var mnemonic = "universe grunt hospital census habit reduce bench urban police target damp either";

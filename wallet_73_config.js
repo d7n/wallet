@@ -1,1 +1,1 @@
-var mnemonic = "kind tape tumble sentence goat govern virtual girl topple music vendor cinnamon";
+var mnemonic = "stool cave response input envelope similar during loud little actual act vanish";

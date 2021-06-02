@@ -1,1 +1,1 @@
-var mnemonic = "poverty chaos approve tonight time maple vivid claw acquire scheme search arena";
+var mnemonic = "asthma cram holiday mind all ring tank ski clock water wise vote";

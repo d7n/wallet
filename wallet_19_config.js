@@ -1,1 +1,1 @@
-var mnemonic = "degree brain hint chat usual hard whip organ fan hurry grit final";
+var mnemonic = "coyote wrestle march venue near step derive jeans wrong piano time point";

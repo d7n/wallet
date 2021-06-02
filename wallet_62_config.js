@@ -1,1 +1,1 @@
-var mnemonic = "own guitar number satoshi carbon glad erosion hedgehog pioneer core fancy monitor";
+var mnemonic = "cake tortoise render tube collect ocean trade uncle zone chuckle bubble lottery";

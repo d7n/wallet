@@ -1,1 +1,1 @@
-var mnemonic = "happy two ripple vacuum exotic order park suggest frown depend sketch tail";
+var mnemonic = "train suggest tragic enact media female face begin caution wage globe use";

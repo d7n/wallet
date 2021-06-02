@@ -1,1 +1,1 @@
-var mnemonic = "jewel west various ride address tribe glue industry coast actual ask dilemma";
+var mnemonic = "coyote rent return addict mention better bridge latin garlic injury fashion addict";

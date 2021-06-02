@@ -1,1 +1,1 @@
-var mnemonic = "sketch problem shop trend laundry together fiscal present entry dizzy bench tired";
+var mnemonic = "body endless waste chunk plate inner middle throw way february genre close";

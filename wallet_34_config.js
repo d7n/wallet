@@ -1,1 +1,1 @@
-var mnemonic = "want potato hurt artefact corn pull quick among false vote panel flash";
+var mnemonic = "faculty frown gravity fat boost web still dizzy dish enjoy same inform";

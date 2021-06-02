@@ -1,1 +1,1 @@
-var mnemonic = "jewel index stay panel rail clown fly guilt dilemma more tank grief";
+var mnemonic = "hover honey ostrich quiz dinosaur copy image man crunch duck swamp any";

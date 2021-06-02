@@ -1,1 +1,1 @@
-var mnemonic = "leg nominee actress small brick dress dragon exotic abuse lend rifle picnic";
+var mnemonic = "weapon skull brown emerge repair neck breeze rain mammal lyrics chase first";

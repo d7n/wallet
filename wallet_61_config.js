@@ -1,1 +1,1 @@
-var mnemonic = "pencil door obvious water dawn discover pipe head pill kangaroo adult game";
+var mnemonic = "screen submit picture era armed govern grass stereo boat wreck reform proof";

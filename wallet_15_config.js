@@ -1,1 +1,1 @@
-var mnemonic = "feature gasp side aspect urge rib ivory fiscal ready tornado settle submit";
+var mnemonic = "kid topple siren parrot switch talk noise input juice around bronze snake";

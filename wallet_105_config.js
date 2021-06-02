@@ -1,1 +1,1 @@
-var mnemonic = "divert output anger pond resist joy brother forum artwork trigger party culture";
+var mnemonic = "main easily sail draw cotton balance clip sign crater critic virtual speed";

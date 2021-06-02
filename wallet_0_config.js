@@ -1,1 +1,1 @@
-var mnemonic = "initial often advance attract coast illegal prize spin dumb prosper kick weather";
+var mnemonic = "turn reduce home reason skate example hurdle hello glare alien envelope produce";

@@ -1,1 +1,1 @@
-var mnemonic = "annual produce zero duty episode angle always raven aisle master task debate";
+var mnemonic = "hire mystery process high kitten decide neutral devote improve company talk divorce";

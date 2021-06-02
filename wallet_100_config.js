@@ -1,1 +1,1 @@
-var mnemonic = "stamp hurry water remove wife vicious figure machine apple gift scout vacuum";
+var mnemonic = "mushroom media broccoli merge install field food case curtain soda badge parrot";

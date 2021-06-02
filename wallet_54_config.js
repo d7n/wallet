@@ -1,1 +1,1 @@
-var mnemonic = "laugh ethics human fee rule question climb moment thunder ranch picnic bind";
+var mnemonic = "barrel toast quantum about cluster february release plunge twin dawn response dirt";

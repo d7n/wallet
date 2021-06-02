@@ -1,1 +1,1 @@
-var mnemonic = "rose drive will disease awesome hundred mountain stay main bean occur list";
+var mnemonic = "social clog paddle duck lawsuit select exist bless dumb sort over vapor";

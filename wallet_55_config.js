@@ -1,1 +1,1 @@
-var mnemonic = "captain peace hair logic swap tornado orient manage chase today vapor acoustic";
+var mnemonic = "time pumpkin cup inherit vanish permit output impulse outside copy secret muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "minute provide chest shield zoo effort fatigue mass safe raccoon faith horror";
+var mnemonic = "trust spike pepper promote eternal okay news kiss hub any seven warm";

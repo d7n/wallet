@@ -1,1 +1,1 @@
-var mnemonic = "item rice length claim calm borrow gym network bar add clip captain";
+var mnemonic = "super glad regular orient saddle mandate novel bullet icon front grunt cook";

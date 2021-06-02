@@ -1,1 +1,1 @@
-var mnemonic = "sort fitness danger desert future else payment resist erase question theme lounge";
+var mnemonic = "kick remove siege neutral odor caution birth police stumble nominee pen around";

@@ -1,1 +1,1 @@
-var mnemonic = "universe tower cram replace clown dinosaur load poem pill quantum hour coconut";
+var mnemonic = "share caution vast bus head sport engage athlete enlist opera hire divide";

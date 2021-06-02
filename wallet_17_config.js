@@ -1,1 +1,1 @@
-var mnemonic = "scatter egg flag twin spatial isolate digital fuel critic matter onion firm";
+var mnemonic = "surprise foam unhappy plunge access draw recall million argue august easily lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "grow return found repeat move hold cool armed zebra monkey hover guitar";
+var mnemonic = "permit act ivory waste faith gloom sister bright era need reward neither";

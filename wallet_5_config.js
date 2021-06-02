@@ -1,1 +1,1 @@
-var mnemonic = "turn cable strike brush below health cycle offer picnic next spike pen";
+var mnemonic = "young kind vendor diary creek action ring penalty neither blue yard attitude";

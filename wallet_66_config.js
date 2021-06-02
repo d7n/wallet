@@ -1,1 +1,1 @@
-var mnemonic = "settle leave this foam scrub lesson sleep warfare obey immune impact devote";
+var mnemonic = "push sweet kitchen install path garbage wisdom worth diet immense cube adjust";

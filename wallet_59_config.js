@@ -1,1 +1,1 @@
-var mnemonic = "liberty oven catch mix surprise man property marble during only father country";
+var mnemonic = "trouble quarter spy slab state butter pencil flag cruise season school silver";

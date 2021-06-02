@@ -1,1 +1,1 @@
-var mnemonic = "gate squeeze add rich talk empower dash walk carpet mail mansion poem";
+var mnemonic = "aerobic sing asthma monster equal quantum metal gaze rebuild brand marble skirt";

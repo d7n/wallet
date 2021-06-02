@@ -1,1 +1,1 @@
-var mnemonic = "captain spice wonder athlete tube cable glory mountain awkward acid double rent";
+var mnemonic = "like bulb list nerve error code coconut ozone picture floor employ abuse";

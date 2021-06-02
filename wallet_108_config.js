@@ -1,1 +1,1 @@
-var mnemonic = "south observe toy imitate drink system photo ethics aim saddle correct this";
+var mnemonic = "push outdoor lucky average system holiday emotion goose usage lawsuit canyon decorate";

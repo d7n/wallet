@@ -1,1 +1,1 @@
-var mnemonic = "excess keen assist reunion use track usage smooth hurdle shove goose leg";
+var mnemonic = "humble stay unique method cabbage gesture table audit bike elevator solution volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "game toss dust bonus seven winner right snake rely label whip ill";
+var mnemonic = "success arena essence pull spoon aim leave gym resource alley girl reopen";

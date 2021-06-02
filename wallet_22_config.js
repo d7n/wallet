@@ -1,1 +1,1 @@
-var mnemonic = "kiwi color fatigue such math elite absorb type give smart rate erosion";
+var mnemonic = "patrol burden token female correct drip kingdom type burst skull mirror grain";

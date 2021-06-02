@@ -1,1 +1,1 @@
-var mnemonic = "fiction crater grunt foster meat cloud abandon focus skin carry fitness admit";
+var mnemonic = "glance speed enemy spoil ensure baby clap inhale feature retreat level work";

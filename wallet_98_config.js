@@ -1,1 +1,1 @@
-var mnemonic = "panel indicate sweet excuse ancient slow vendor size hold soft fall busy";
+var mnemonic = "push cost slush thunder flight shallow second cancel mandate trial pyramid quote";

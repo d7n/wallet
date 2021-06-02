@@ -1,1 +1,1 @@
-var mnemonic = "valley fence public olympic smoke census segment name pride rice half trigger";
+var mnemonic = "cabin skirt meadow acoustic ball write hobby choice lottery apple process tuna";

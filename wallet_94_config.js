@@ -1,1 +1,1 @@
-var mnemonic = "kidney palace pond sport you kingdom forget lava humble food all give";
+var mnemonic = "salute genius label nuclear moral circle doctor distance forum fury pumpkin twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "able unusual rice sell weird merit pencil mechanic isolate slush fault emerge";
+var mnemonic = "salt bid jelly sweet output various wing creek grain basic frequent library";

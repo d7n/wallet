@@ -1,1 +1,1 @@
-var mnemonic = "fortune owner print glance intact energy accuse rebel voyage grace sustain legend";
+var mnemonic = "enlist fitness aerobic layer yard fence super refuse rubber wedding margin balance";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut sick thunder explain whisper orange useless abuse erode cabin awake image";
+var mnemonic = "dose space milk search shoot climb marriage horn pulp short error same";

@@ -1,1 +1,1 @@
-var mnemonic = "lift brush nerve spirit aspect juice sudden draw twist hip prison scale";
+var mnemonic = "little energy name hurry tide winner pepper else vote food family track";

@@ -1,1 +1,1 @@
-var mnemonic = "powder exit eagle garden core mammal silver guess valid cry tennis appear";
+var mnemonic = "shove enter camera expect veteran question blast gun wall apple slight good";

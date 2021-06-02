@@ -1,1 +1,1 @@
-var mnemonic = "melt host image drill quarter build joy stuff cushion fame bubble index";
+var mnemonic = "bone rural range room panther try pear bracket main nice relief retire";

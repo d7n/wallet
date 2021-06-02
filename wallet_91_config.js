@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ocean follow tree lawn pioneer original hockey dutch receive august observe";
+var mnemonic = "rate wine apart submit together zero angry unique twist repeat gain matrix";

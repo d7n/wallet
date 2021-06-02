@@ -1,1 +1,1 @@
-var mnemonic = "broken shell lamp mouse elite black rude craft border party vanish knife";
+var mnemonic = "cage federal cotton figure match skill divorce thumb arrange oak skirt pencil";

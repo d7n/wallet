@@ -1,1 +1,1 @@
-var mnemonic = "idle peasant ankle jeans clap pistol erosion tribe already raw income fatal";
+var mnemonic = "air art perfect prefer ghost build render donate legal image lyrics leisure";

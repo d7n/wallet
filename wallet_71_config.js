@@ -1,1 +1,1 @@
-var mnemonic = "matter unknown acoustic scan scheme giraffe act tornado zebra jeans practice ignore";
+var mnemonic = "long input style uphold dust opera sign group asthma dinner profit lobster";

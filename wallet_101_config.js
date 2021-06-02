@@ -1,1 +1,1 @@
-var mnemonic = "only coil corn angry detect soap weird purchase organ borrow castle shine";
+var mnemonic = "host heart certain broom price attract churn lunar festival basic display bitter";

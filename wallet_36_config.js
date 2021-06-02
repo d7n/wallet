@@ -1,1 +1,1 @@
-var mnemonic = "pony cigar inch deliver brief boil funny brother leg often fitness bid";
+var mnemonic = "favorite valve brick voyage sauce where fine blind way thank piano candy";

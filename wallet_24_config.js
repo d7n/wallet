@@ -1,1 +1,1 @@
-var mnemonic = "exact gun face canal argue hundred pig quit process south nephew action";
+var mnemonic = "post border cancel gadget abstract choice milk bike sing city this laptop";

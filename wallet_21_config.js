@@ -1,1 +1,1 @@
-var mnemonic = "roast mystery desert cry chaos chase tragic cement gold reduce crouch lake";
+var mnemonic = "rookie admit brisk eight sea time almost keep coconut shrug churn cool";

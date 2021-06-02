@@ -1,1 +1,1 @@
-var mnemonic = "waste rule energy robust domain sweet situate dirt panda bronze juice supreme";
+var mnemonic = "toy blade bronze hundred dizzy second anchor loyal involve desert sick unlock";

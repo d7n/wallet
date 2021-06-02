@@ -1,1 +1,1 @@
-var mnemonic = "friend circle analyst emotion horror cherry identify century grow require catch proud";
+var mnemonic = "spend imitate enable off creek zero ostrich grain forward mechanic protect put";

@@ -1,1 +1,1 @@
-var mnemonic = "obey vibrant join hazard plunge wrestle relief quarter slender liar swing squeeze";
+var mnemonic = "earn turkey when round client heavy gasp final crime hover session frame";
