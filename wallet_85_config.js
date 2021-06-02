@@ -1,1 +1,1 @@
-var mnemonic = "shrimp excite dinosaur attitude exact alien legal else service only grace poverty";
+var mnemonic = "define upper puppy movie snake borrow fabric piano detail danger master exile";

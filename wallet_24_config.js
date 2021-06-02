@@ -1,1 +1,1 @@
-var mnemonic = "ticket gloom salt grab high nature north fantasy fringe thank foil inspire";
+var mnemonic = "boil space cave cable bicycle judge two strong rotate property agree second";

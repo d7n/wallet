@@ -1,1 +1,1 @@
-var mnemonic = "spray use luggage menu now pyramid inspire creek outside update short slot";
+var mnemonic = "stuff mule ripple glance coral pledge win link motor upon globe during";

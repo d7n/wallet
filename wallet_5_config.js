@@ -1,1 +1,1 @@
-var mnemonic = "level minimum immune kingdom follow stand goose clay citizen knee surface battle";
+var mnemonic = "peasant board pony evolve illegal crop few large combine embrace month want";

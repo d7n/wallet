@@ -1,1 +1,1 @@
-var mnemonic = "room plate season calm distance mansion sing street few pepper agree possible";
+var mnemonic = "before whip involve story inform indicate since lunar arrest crop east squirrel";

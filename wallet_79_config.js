@@ -1,1 +1,1 @@
-var mnemonic = "sell minute ill never quick skirt canyon glow weird enrich nose direct";
+var mnemonic = "fit bind family dose upset predict strike derive injury eight canal bottom";

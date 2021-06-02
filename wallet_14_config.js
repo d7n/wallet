@@ -1,1 +1,1 @@
-var mnemonic = "expose gravity eight also road rug library project ski master scheme essence";
+var mnemonic = "danger radio tank bundle skill skin scrap language faculty urban vendor tackle";

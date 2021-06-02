@@ -1,1 +1,1 @@
-var mnemonic = "soap festival zebra steel kick media plate mandate easily picnic submit cage";
+var mnemonic = "diagram walk tongue easy oval affair shy harvest lift lottery ship swarm";

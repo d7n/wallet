@@ -1,1 +1,1 @@
-var mnemonic = "level add apology chronic hurdle ship ocean chat still pact basic shine";
+var mnemonic = "diet volcano stuff weather casual nasty soccer note grief relax rose enable";

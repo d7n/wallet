@@ -1,1 +1,1 @@
-var mnemonic = "humor afraid bulk wood rebuild stove save blush green antique unveil toss";
+var mnemonic = "rough feel sell pyramid hidden ensure deliver lottery bench relax cage mass";

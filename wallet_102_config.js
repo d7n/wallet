@@ -1,1 +1,1 @@
-var mnemonic = "firm start toilet sentence rude cage oppose genius course camp immune mechanic";
+var mnemonic = "park ill slot fragile marine verb rather envelope spirit increase ghost manage";

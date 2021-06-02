@@ -1,1 +1,1 @@
-var mnemonic = "rabbit resist humor crane admit narrow flock sword share matrix capable typical";
+var mnemonic = "exchange engage forest dragon cover meadow illness roast element globe weather poet";

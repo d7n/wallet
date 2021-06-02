@@ -1,1 +1,1 @@
-var mnemonic = "loan chapter merge normal ring boat brief biology salmon large review taxi";
+var mnemonic = "gadget earth dash animal erase damp gift host trim absent guide tape";

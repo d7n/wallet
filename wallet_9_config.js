@@ -1,1 +1,1 @@
-var mnemonic = "crowd frost proud below media sure genre border axis mule park ladder";
+var mnemonic = "carbon awake boring ship edge enlist peace prosper barely start notable north";

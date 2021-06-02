@@ -1,1 +1,1 @@
-var mnemonic = "joy junk normal reward object climb resemble admit digital festival funny pretty";
+var mnemonic = "film tiger assault hint clap pluck bomb dutch cream equip popular atom";

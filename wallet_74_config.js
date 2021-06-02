@@ -1,1 +1,1 @@
-var mnemonic = "level material rose tissue inhale earn false mutual ecology humor calm miracle";
+var mnemonic = "almost blame spray canoe play spoon fortune bag exit scare inherit travel";

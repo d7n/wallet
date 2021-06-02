@@ -1,1 +1,1 @@
-var mnemonic = "tragic universe hen expose topple pass ten exclude plunge defy blur funny";
+var mnemonic = "choice snap medal post nice tiny direct ridge story soon stamp cake";

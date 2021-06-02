@@ -1,1 +1,1 @@
-var mnemonic = "cream advice dress auction six knife green shuffle pottery fox stumble doctor";
+var mnemonic = "this oppose paddle agent reward novel rent candy oxygen brain another across";

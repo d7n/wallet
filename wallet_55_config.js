@@ -1,1 +1,1 @@
-var mnemonic = "agree wool direct chronic abuse fetch tooth damage explain marble guess hotel";
+var mnemonic = "table unfold immense camera lamp fall manual convince author burden sell mixed";

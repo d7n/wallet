@@ -1,1 +1,1 @@
-var mnemonic = "zoo diamond embark vocal limb vocal test basket animal cry manage motion";
+var mnemonic = "mountain rare student bottom all label mountain endorse venture cliff thing slow";

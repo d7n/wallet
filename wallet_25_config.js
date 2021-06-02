@@ -1,1 +1,1 @@
-var mnemonic = "aspect stumble engage reveal merit coffee wide better view pudding renew illegal";
+var mnemonic = "kiwi funny mechanic tortoise bunker size sponsor vibrant parent cram planet person";

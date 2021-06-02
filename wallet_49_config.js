@@ -1,1 +1,1 @@
-var mnemonic = "bag false pair exotic agree photo impose retire blue near hotel weird";
+var mnemonic = "hold brain repeat spice uniform midnight suit voice thrive audit pole clip";

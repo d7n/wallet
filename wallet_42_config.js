@@ -1,1 +1,1 @@
-var mnemonic = "praise heavy deny save blood increase weird law magic bike sell cliff";
+var mnemonic = "electric trust electric grief country phrase school tell salon sausage absorb team";

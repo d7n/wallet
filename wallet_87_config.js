@@ -1,1 +1,1 @@
-var mnemonic = "trash depart prize select buyer imitate define stool fog cook mosquito certain";
+var mnemonic = "soup mask tumble width model true swamp slam private swarm track jar";

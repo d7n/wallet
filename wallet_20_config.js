@@ -1,1 +1,1 @@
-var mnemonic = "margin okay confirm festival buyer kit diamond tissue metal elephant hold brass";
+var mnemonic = "valid grunt oak debris jazz lady payment prefer thrive universe spring avoid";

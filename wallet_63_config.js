@@ -1,1 +1,1 @@
-var mnemonic = "leader gold warfare rival shrimp coyote labor fire during rack cute run";
+var mnemonic = "valid defy goat grit supreme snow aim connect enhance culture target oxygen";

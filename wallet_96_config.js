@@ -1,1 +1,1 @@
-var mnemonic = "flower walnut praise tongue hurt bomb hat turtle rival away attack regular";
+var mnemonic = "hurdle curtain consider rubber simple guess zoo ivory purchase humor drive office";

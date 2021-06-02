@@ -1,1 +1,1 @@
-var mnemonic = "melody vault salt stone talent divide gaze bomb shuffle snack helmet chief";
+var mnemonic = "exile share horse ask total slow chalk teach hour cricket sniff bridge";

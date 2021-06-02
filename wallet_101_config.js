@@ -1,1 +1,1 @@
-var mnemonic = "cram release submit sound slim fatal about bubble bulk vast canyon major";
+var mnemonic = "language pumpkin knee chef element engage team object eight boring snow vintage";

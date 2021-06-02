@@ -1,1 +1,1 @@
-var mnemonic = "fish never stamp success verify control snap dash spike echo member abuse";
+var mnemonic = "green clarify valley machine notable story peanut hybrid ball prepare desert hero";

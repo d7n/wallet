@@ -1,1 +1,1 @@
-var mnemonic = "hockey odor switch episode ahead apple mechanic tube prize brown cherry flavor";
+var mnemonic = "repeat rice denial sight myth dilemma shed skirt doctor crazy crane miracle";

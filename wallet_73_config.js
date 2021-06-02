@@ -1,1 +1,1 @@
-var mnemonic = "taxi gate arctic heavy depth knock robot battle ozone kiwi disagree pride";
+var mnemonic = "scrub gate area debris kangaroo window mixed scrap dose wear record pig";

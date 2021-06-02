@@ -1,1 +1,1 @@
-var mnemonic = "give surprise aerobic cheese flavor eight wink ceiling vanish exotic excite talent";
+var mnemonic = "master among evoke jazz climb person wear husband useless oblige notable start";

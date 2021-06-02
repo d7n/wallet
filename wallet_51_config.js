@@ -1,1 +1,1 @@
-var mnemonic = "adapt rule riot total helmet clutch strategy nation festival crunch occur jaguar";
+var mnemonic = "trap police friend retire usage cloth coach lens child moment neck document";

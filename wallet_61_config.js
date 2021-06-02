@@ -1,1 +1,1 @@
-var mnemonic = "swap push unhappy target want phone cage era suspect dad analyst confirm";
+var mnemonic = "economy tackle swamp galaxy airport ticket tortoise amazing street obtain sorry lava";

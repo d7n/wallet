@@ -1,1 +1,1 @@
-var mnemonic = "liberty clump forest perfect library scan skill spy divorce text advice equip";
+var mnemonic = "worth prepare cushion message drift scheme deputy ski upon audit feel menu";

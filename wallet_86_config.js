@@ -1,1 +1,1 @@
-var mnemonic = "road salad stable neck random distance goose bread message present cover electric";
+var mnemonic = "around level make disorder army sand stand love swamp rather arrest bachelor";

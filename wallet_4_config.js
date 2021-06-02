@@ -1,1 +1,1 @@
-var mnemonic = "aware stand awake glow demand primary rocket flavor wood lawn moment repeat";
+var mnemonic = "oil cross finish deputy display act duck nose entry design blanket mix";

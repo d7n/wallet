@@ -1,1 +1,1 @@
-var mnemonic = "cereal vessel exile grow lady dose exchange suspect soda robust evoke tiny";
+var mnemonic = "soap marble goddess quality claw excuse object hollow skate review position ancient";

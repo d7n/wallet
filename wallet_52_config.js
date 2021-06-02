@@ -1,1 +1,1 @@
-var mnemonic = "worth forum pool demand random furnace stone bag home reveal evolve ridge";
+var mnemonic = "rent wait trick group series skull reduce sorry kiwi van vague skirt";

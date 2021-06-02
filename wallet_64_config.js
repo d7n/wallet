@@ -1,1 +1,1 @@
-var mnemonic = "element artefact blade business silent flip current salmon emotion uniform crucial uniform";
+var mnemonic = "pole boil special quarter affair goat symbol dinosaur federal educate flight copper";

@@ -1,1 +1,1 @@
-var mnemonic = "soap route busy truck gauge people juice boring describe donate firm cigar";
+var mnemonic = "such lobster truck matrix hint diet genuine master clock tilt diamond spring";

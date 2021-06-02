@@ -1,1 +1,1 @@
-var mnemonic = "still attitude rescue accident company gorilla dwarf deposit virtual where rich detail";
+var mnemonic = "army gospel tag airport identify leopard vapor believe fade decorate hat annual";

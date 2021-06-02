@@ -1,1 +1,1 @@
-var mnemonic = "sadness sword slogan better divide weather act hollow benefit uniform thing wing";
+var mnemonic = "kind cradle salad fury enough giant alien dry absorb boat album tilt";

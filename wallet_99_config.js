@@ -1,1 +1,1 @@
-var mnemonic = "trigger entire soup advance swear author measure term lawsuit easily lecture forward";
+var mnemonic = "obey basic rice gasp alley always until hospital bus second eagle flush";

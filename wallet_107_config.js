@@ -1,1 +1,1 @@
-var mnemonic = "leg reward gun organ correct pilot summer series slice ice photo color";
+var mnemonic = "law reopen game industry clarify awesome heart hobby floor next cancel undo";

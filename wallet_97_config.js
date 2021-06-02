@@ -1,1 +1,1 @@
-var mnemonic = "begin baby guard stable mother motion story away copy blur draw dog";
+var mnemonic = "firm sell firm join history phone square grief roast you more maze";

@@ -1,1 +1,1 @@
-var mnemonic = "gown eye steel fox expire rib joke clump wash edge differ pumpkin";
+var mnemonic = "blame pool love rent quantum awesome devote salute boring donkey chaos raccoon";

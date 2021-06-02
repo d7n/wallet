@@ -1,1 +1,1 @@
-var mnemonic = "decorate cereal timber traffic coast cherry tuna garden grief mother hidden circle";
+var mnemonic = "mixture rally unique throw village actress home heavy crane again mimic inquiry";

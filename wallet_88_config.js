@@ -1,1 +1,1 @@
-var mnemonic = "cake charge chapter logic bounce fragile share earn canvas alter approve gossip";
+var mnemonic = "vicious lottery loop good version aunt planet crumble embark tonight secret rescue";

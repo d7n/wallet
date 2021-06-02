@@ -1,1 +1,1 @@
-var mnemonic = "ketchup ethics agent toss rain hunt chief buyer room control predict song";
+var mnemonic = "chimney north whip employ wrist poet harsh inquiry card vague jazz little";

@@ -1,1 +1,1 @@
-var mnemonic = "finish cream chalk educate mesh effort mix slice drill supply because chef";
+var mnemonic = "false curve heart involve jump toast melt lamp expect receive aisle onion";

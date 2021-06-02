@@ -1,1 +1,1 @@
-var mnemonic = "summer occur craft journey latin hint equip fiber cloth manual honey off";
+var mnemonic = "sentence october mind country message point exclude have route snake increase diary";

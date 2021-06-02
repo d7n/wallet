@@ -1,1 +1,1 @@
-var mnemonic = "tower decline caught isolate brave grain horn hazard jelly chuckle rhythm play";
+var mnemonic = "delay merge eyebrow issue style extra arrange safe wrestle aspect vapor february";

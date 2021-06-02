@@ -1,1 +1,1 @@
-var mnemonic = "regular blue equip bike captain syrup fiscal solar trick scrub hundred food";
+var mnemonic = "song ball bracket bench plug during connect gasp sting tell tank still";

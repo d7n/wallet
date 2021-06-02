@@ -1,1 +1,1 @@
-var mnemonic = "dune orchard minor clog project country capital false shop rate output clever";
+var mnemonic = "lion use young fluid cost unable wheel stamp talent choice heavy type";

@@ -1,1 +1,1 @@
-var mnemonic = "quality south settle diesel modify crystal hamster sauce panther hello program blast";
+var mnemonic = "upon chair little salon floor wet arctic strike enhance noble badge thing";

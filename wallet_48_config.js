@@ -1,1 +1,1 @@
-var mnemonic = "reflect follow sunny garage swarm kite make name faint family agent nephew";
+var mnemonic = "interest guide short reopen coffee rely volcano doctor glance hollow fatal attend";

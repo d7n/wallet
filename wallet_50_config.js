@@ -1,1 +1,1 @@
-var mnemonic = "urge gate purse wall six old blouse gesture rifle scrap decline blush";
+var mnemonic = "erupt rate inmate indoor penalty target picture service drip dinner follow arch";

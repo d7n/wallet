@@ -1,1 +1,1 @@
-var mnemonic = "claw deer sheriff foam figure sunset already romance valid wool south mass";
+var mnemonic = "cliff firm fortune island buzz power pyramid popular toy frame poem mosquito";

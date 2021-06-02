@@ -1,1 +1,1 @@
-var mnemonic = "farm false gather measure busy unknown trap next tomato neglect record leg";
+var mnemonic = "shuffle despair sunset category unaware sustain judge crowd harvest blouse awkward scan";

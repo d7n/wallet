@@ -1,1 +1,1 @@
-var mnemonic = "stadium reflect auto various erase diesel casino chimney wasp that dream live";
+var mnemonic = "found garage senior leopard spice bus slice divide smoke practice owner disagree";

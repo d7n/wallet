@@ -1,1 +1,1 @@
-var mnemonic = "hire faith soft bacon hurt square zebra weapon force receive cloth news";
+var mnemonic = "rubber nose private seven clay solid wear fiction water recycle tree net";

@@ -1,1 +1,1 @@
-var mnemonic = "box mixture mango either dawn battle clock jewel play example load only";
+var mnemonic = "mountain story kite purity setup deliver dragon destroy betray smoke foster buffalo";

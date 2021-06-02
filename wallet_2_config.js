@@ -1,1 +1,1 @@
-var mnemonic = "leader caught cycle indicate replace vivid milk reduce used quarter resource border";
+var mnemonic = "thumb mercy father crowd truck never clock south sense tuition broccoli turtle";

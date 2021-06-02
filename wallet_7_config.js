@@ -1,1 +1,1 @@
-var mnemonic = "review silver buffalo stereo aisle blade frozen plate reunion wink arch hip";
+var mnemonic = "jaguar purpose office habit worry put tide visual medal veteran more lounge";

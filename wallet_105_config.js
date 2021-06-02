@@ -1,1 +1,1 @@
-var mnemonic = "alone mixed age rescue giraffe glad assume already near obtain vivid opinion";
+var mnemonic = "chat heart actual song vocal client float avocado sister afford all shoe";

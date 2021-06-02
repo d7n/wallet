@@ -1,1 +1,1 @@
-var mnemonic = "draw lonely seminar vehicle wrong knock wire embark nut flock green whisper";
+var mnemonic = "entry subway surprise gasp wing spring nice elder bid cycle chest paper";

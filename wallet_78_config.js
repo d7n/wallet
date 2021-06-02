@@ -1,1 +1,1 @@
-var mnemonic = "decorate change confirm renew need autumn length video trigger era track retire";
+var mnemonic = "apology search effort maple solution ripple photo woman cute local auction toddler";

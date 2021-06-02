@@ -1,1 +1,1 @@
-var mnemonic = "defense garden kid ivory limit term notice rich cliff ability ankle spawn";
+var mnemonic = "hover rose quiz warrior wheat citizen east add cloud amateur dynamic stone";

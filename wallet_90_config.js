@@ -1,1 +1,1 @@
-var mnemonic = "record height parade sheriff correct unaware flash vacant basic lake hope aunt";
+var mnemonic = "summer dignity quit rigid behave coach eternal tissue ride harsh horn renew";

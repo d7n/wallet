@@ -1,1 +1,1 @@
-var mnemonic = "face mesh dismiss voice february glare left exit off hidden human pretty";
+var mnemonic = "fall fee pig few hunt develop theory cluster dose alert panel device";

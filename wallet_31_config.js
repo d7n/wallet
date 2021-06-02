@@ -1,1 +1,1 @@
-var mnemonic = "side idea govern crush organ civil broom fame either ensure return depend";
+var mnemonic = "despair desert grow whale main isolate page depth bamboo jacket venue parade";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine casual super ahead toy another wine wing fantasy butter pact reopen";
+var mnemonic = "agent blanket alpha topic file crucial same avoid valley key surprise nut";

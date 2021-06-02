@@ -1,1 +1,1 @@
-var mnemonic = "circle shaft man paddle once holiday announce extra crush sniff cereal tree";
+var mnemonic = "salute media dad powder tribe develop early female term trip purpose denial";

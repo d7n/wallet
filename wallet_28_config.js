@@ -1,1 +1,1 @@
-var mnemonic = "erosion gain badge scene all clap equal soft column mammal extend bid";
+var mnemonic = "prepare clump blue same equip heart mass length raccoon lion ten gather";

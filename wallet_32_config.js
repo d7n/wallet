@@ -1,1 +1,1 @@
-var mnemonic = "urge gallery misery cave process mushroom good mask remember know ancient donkey";
+var mnemonic = "venture scout miss follow wagon steak flavor decade glare drop flight robust";

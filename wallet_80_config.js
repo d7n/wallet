@@ -1,1 +1,1 @@
-var mnemonic = "hero refuse thumb biology cart hello jacket swallow noodle book inmate news";
+var mnemonic = "forest basic nut roof amount apple gadget mixed final ginger begin gallery";

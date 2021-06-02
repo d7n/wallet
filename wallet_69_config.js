@@ -1,1 +1,1 @@
-var mnemonic = "need garlic please catch pupil ceiling bullet man spawn myth latin grape";
+var mnemonic = "drive comic limb thought fitness end oval seminar clay eyebrow engine rich";

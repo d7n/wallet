@@ -1,1 +1,1 @@
-var mnemonic = "omit outdoor picture panic main panther embody order unique foil auction destroy";
+var mnemonic = "pipe west fiction asthma young empower birth wheel scout convince monkey bulb";

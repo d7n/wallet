@@ -1,1 +1,1 @@
-var mnemonic = "soon quality brother depth claim clay fetch essay damage jar foster village";
+var mnemonic = "snow visual across duty goat price juice gown sister feel awful raven";

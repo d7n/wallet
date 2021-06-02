@@ -1,1 +1,1 @@
-var mnemonic = "embark chicken anchor scrap robust grit myth employ fault close helmet fan";
+var mnemonic = "sustain spot water perfect flower fade finger cruise wild test opera grocery";

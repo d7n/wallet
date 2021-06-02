@@ -1,1 +1,1 @@
-var mnemonic = "dizzy exchange earth meadow deal canoe birth flight curious august goddess satisfy";
+var mnemonic = "tag actual damp surprise slice obvious loan space vocal enable foster inflict";

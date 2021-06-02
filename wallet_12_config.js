@@ -1,1 +1,1 @@
-var mnemonic = "depth quote bachelor south insect film donor into diesel curve walk second";
+var mnemonic = "task jewel blue explain glimpse spirit jealous bike girl elder pelican type";

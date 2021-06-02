@@ -1,1 +1,1 @@
-var mnemonic = "soup digital print athlete air before usual rare deputy captain keep athlete";
+var mnemonic = "leg vendor safe eager major girl erupt marble fantasy rare quantum taxi";

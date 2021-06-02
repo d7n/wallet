@@ -1,1 +1,1 @@
-var mnemonic = "decade feed upper market proof supreme when bus vivid flee catalog wrap";
+var mnemonic = "weasel young afraid grief market funny dismiss retreat switch reason faculty relief";

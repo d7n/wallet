@@ -1,1 +1,1 @@
-var mnemonic = "umbrella camp type current item acid web nominee uphold tongue oyster stamp";
+var mnemonic = "coin game bag toe swift panda casino initial zero pony home furnace";

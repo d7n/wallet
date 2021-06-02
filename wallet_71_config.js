@@ -1,1 +1,1 @@
-var mnemonic = "wire purity panic monitor mask enable short need orchard little remain then";
+var mnemonic = "wrist eternal latin shrug student ordinary bus crawl model laptop output crouch";

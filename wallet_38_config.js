@@ -1,1 +1,1 @@
-var mnemonic = "profit piece sting bitter crumble program margin salute bean atom special nephew";
+var mnemonic = "slot equip eternal become patient stamp worry junior miracle wagon shock quality";
