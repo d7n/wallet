@@ -1,1 +1,1 @@
-var mnemonic = "because tag spread fit direct blood lawsuit swim accident portion gun hockey";
+var mnemonic = "bulb sheriff tennis join wash reward elder cost genuine amazing wolf wood";

@@ -1,1 +1,1 @@
-var mnemonic = "draw tank mirror focus usage prepare repeat arrange hour anger plug walnut";
+var mnemonic = "cattle garage exclude bitter drum flat glory sister room tuition spoon track";

@@ -1,1 +1,1 @@
-var mnemonic = "impose trophy cost fatigue cat absurd minimum milk ostrich ensure destroy crystal";
+var mnemonic = "oppose poet produce you cactus pitch foil birth wedding orchard script sport";

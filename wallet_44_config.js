@@ -1,1 +1,1 @@
-var mnemonic = "orange walnut yard super device wisdom silver push twice sponsor asthma boss";
+var mnemonic = "century bar intact unlock decade away funny open sugar leader penalty stomach";

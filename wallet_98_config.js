@@ -1,1 +1,1 @@
-var mnemonic = "soft glory usage window reform enter trophy message rescue picnic dad uphold";
+var mnemonic = "churn mechanic weekend awful shoe gospel dish among woman stick leaf vanish";

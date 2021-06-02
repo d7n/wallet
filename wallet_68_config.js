@@ -1,1 +1,1 @@
-var mnemonic = "season decide boil twelve ladder merit retire vicious strong device scissors main";
+var mnemonic = "bid quality thunder box tribe regular case faith oil lumber gift online";

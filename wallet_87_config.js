@@ -1,1 +1,1 @@
-var mnemonic = "knife actual dune basket retreat walnut air upset chimney viable hold run";
+var mnemonic = "style split enroll flame current beyond multiply river pill room cause title";

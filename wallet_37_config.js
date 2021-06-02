@@ -1,1 +1,1 @@
-var mnemonic = "modify base melt arctic science sock jewel another poem cheese mansion comfort";
+var mnemonic = "glance equip voice become kangaroo end weapon host crater battle pipe resist";

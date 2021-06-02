@@ -1,1 +1,1 @@
-var mnemonic = "document step crumble silver excess view lemon isolate hazard jungle plastic floor";
+var mnemonic = "question tone clinic remember topple sick column casino display lift dish true";

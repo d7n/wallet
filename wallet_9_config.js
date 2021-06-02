@@ -1,1 +1,1 @@
-var mnemonic = "salon scene produce select later game moon hockey atom skirt nut endless";
+var mnemonic = "bamboo family mass try orchard doll fiber blossom abandon normal tower wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow occur noodle pumpkin ice title eternal reflect mind clip project current";
+var mnemonic = "october melody pull cause crack olympic enter radar keen lemon badge trouble";

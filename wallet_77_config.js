@@ -1,1 +1,1 @@
-var mnemonic = "tortoise small cradle prison tortoise spend tobacco immune analyst tongue rude shell";
+var mnemonic = "grit judge fever grunt bench bomb liberty lesson shrug clog area kick";

@@ -1,1 +1,1 @@
-var mnemonic = "manual minor spray kitchen shiver concert modify brother cargo arrest unknown finger";
+var mnemonic = "off shadow drip shield report visa test melody field wire shift hello";

@@ -1,1 +1,1 @@
-var mnemonic = "wing much problem imitate fatigue solution situate protect learn own shiver lucky";
+var mnemonic = "novel glare misery blossom team toast scout enemy honey pole choice case";

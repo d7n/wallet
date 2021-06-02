@@ -1,1 +1,1 @@
-var mnemonic = "bless abandon myth inquiry draw purpose cycle client cheese submit truly foot";
+var mnemonic = "genre script bag business enact gauge tuition cereal town clarify syrup ecology";

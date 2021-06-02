@@ -1,1 +1,1 @@
-var mnemonic = "whip hawk bean regret motion poverty among project episode neither business vanish";
+var mnemonic = "state ecology follow boss wood upon alpha poem clarify sugar fee appear";

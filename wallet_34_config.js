@@ -1,1 +1,1 @@
-var mnemonic = "crucial forward section enough pipe middle undo festival blame link glad zoo";
+var mnemonic = "silly smoke engage bargain mosquito dry slush spider write imitate lecture pave";

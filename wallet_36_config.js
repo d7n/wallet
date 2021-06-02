@@ -1,1 +1,1 @@
-var mnemonic = "clerk ecology original letter add tennis upper autumn pledge piano trash acoustic";
+var mnemonic = "control road crush wave clever buzz ten scheme end bar mechanic design";

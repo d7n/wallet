@@ -1,1 +1,1 @@
-var mnemonic = "shrimp trend loop flock cushion dutch use joy leisure hint wonder normal";
+var mnemonic = "wolf cloud ripple club possible economy lava seat anger mom happy wage";

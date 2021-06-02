@@ -1,1 +1,1 @@
-var mnemonic = "true elephant tomorrow smart script garbage cheap reflect custom uncle quiz food";
+var mnemonic = "tone nature slush picnic elephant rule piece baby unfold have dutch federal";

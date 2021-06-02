@@ -1,1 +1,1 @@
-var mnemonic = "abuse choose shoulder tourist lake tell deputy purpose light attack dentist device";
+var mnemonic = "feed solve wool army stable settle youth trust pretty trust upper electric";

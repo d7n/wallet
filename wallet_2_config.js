@@ -1,1 +1,1 @@
-var mnemonic = "snap decrease salute code marble online tuna time acquire trial hammer monster";
+var mnemonic = "magic eight scrub reunion ticket truly argue glance seat hawk patient twin";

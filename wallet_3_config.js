@@ -1,1 +1,1 @@
-var mnemonic = "toilet buddy list collect verify unit mother easily napkin disease range giraffe";
+var mnemonic = "injury monster photo trigger month easy advice depart combine desk amazing steak";

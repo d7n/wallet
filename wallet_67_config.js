@@ -1,1 +1,1 @@
-var mnemonic = "catalog where assault pepper fan spare blind over buyer quit deer forum";
+var mnemonic = "thrive student before deposit purchase early whip envelope talent dish use sick";

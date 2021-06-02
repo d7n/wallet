@@ -1,1 +1,1 @@
-var mnemonic = "margin lobster piece sniff market program assume clarify nephew copper doctor tonight";
+var mnemonic = "anchor royal news moon tide crowd cram remove hedgehog nothing toss satisfy";

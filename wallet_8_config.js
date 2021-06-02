@@ -1,1 +1,1 @@
-var mnemonic = "fetch super subway approve situate job sketch mass mystery pyramid team tonight";
+var mnemonic = "betray unveil soon supply crime limit order nerve apple coyote master review";

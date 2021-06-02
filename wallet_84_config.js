@@ -1,1 +1,1 @@
-var mnemonic = "museum security ability below hill nice city cheap iron rural legal symptom";
+var mnemonic = "crater surge title breeze month plate title link accuse labor bless cart";

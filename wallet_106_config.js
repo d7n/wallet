@@ -1,1 +1,1 @@
-var mnemonic = "near bulb wisdom voice small unlock cry census flame trip number enforce";
+var mnemonic = "myself involve notable phone trip door round boring cupboard employ safe glide";

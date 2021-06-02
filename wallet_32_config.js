@@ -1,1 +1,1 @@
-var mnemonic = "cruel useful program attitude annual vacuum village reveal luxury column sample sun";
+var mnemonic = "girl idle point cross culture custom exhaust either siren injury session monitor";

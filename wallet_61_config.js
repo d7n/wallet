@@ -1,1 +1,1 @@
-var mnemonic = "kiss clip negative limit shaft wreck clown road trash twice blouse eternal";
+var mnemonic = "mule student night forget south pretty hire hover void legal coral wool";

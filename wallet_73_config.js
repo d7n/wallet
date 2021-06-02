@@ -1,1 +1,1 @@
-var mnemonic = "clip trip avocado fossil cat tone subway vague furnace alter ahead keep";
+var mnemonic = "blush major endless crunch emerge choice where define prize time buddy ten";

@@ -1,1 +1,1 @@
-var mnemonic = "attend forget web turtle practice bus hill hour fee advice various parent";
+var mnemonic = "gospel blue release autumn remember horror differ idle sting laundry behave clever";

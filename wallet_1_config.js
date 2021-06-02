@@ -1,1 +1,1 @@
-var mnemonic = "penalty spirit impact spoon identify size ten army bitter result thunder wonder";
+var mnemonic = "butter royal smoke bicycle hungry lawsuit fox left title enough sound tent";

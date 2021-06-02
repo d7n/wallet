@@ -1,1 +1,1 @@
-var mnemonic = "allow move whip diesel visual glance engine mad uphold forum swarm soap";
+var mnemonic = "purchase toy hidden retire garlic letter maximum treat panic start denial indicate";

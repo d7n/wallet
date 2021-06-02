@@ -1,1 +1,1 @@
-var mnemonic = "mansion giggle alcohol fossil ladder market forest real april truly elegant bless";
+var mnemonic = "ship panel reduce guard vibrant all client velvet shy hawk fame razor";

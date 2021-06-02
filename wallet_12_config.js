@@ -1,1 +1,1 @@
-var mnemonic = "south they census crack analyst margin duck luggage diamond dance whip alone";
+var mnemonic = "cost thrive observe earn area advice setup robust seat innocent intact smart";

@@ -1,1 +1,1 @@
-var mnemonic = "smart select unit fringe tooth cattle search replace vacuum gap rescue total";
+var mnemonic = "frozen match genre orphan laundry magic frost west harvest deputy fluid garlic";

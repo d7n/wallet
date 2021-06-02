@@ -1,1 +1,1 @@
-var mnemonic = "later melody annual casino ceiling salute door swear absorb awful invite portion";
+var mnemonic = "situate nature wealth dinner useless coyote source must unit people poverty mind";

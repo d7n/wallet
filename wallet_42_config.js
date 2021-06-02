@@ -1,1 +1,1 @@
-var mnemonic = "butter bicycle little settle solid brain uncle twice frozen fortune thank orchard";
+var mnemonic = "episode roast dress century liquid tribe virtual smooth actor govern defy net";

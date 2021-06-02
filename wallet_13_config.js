@@ -1,1 +1,1 @@
-var mnemonic = "loyal sample hazard park keen silk brave oak region raccoon hour column";
+var mnemonic = "heavy brisk label inform alarm veteran praise cross screen dutch fancy craft";

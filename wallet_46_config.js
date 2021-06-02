@@ -1,1 +1,1 @@
-var mnemonic = "position fiscal fruit era ordinary desk discover frequent initial sheriff mimic sand";
+var mnemonic = "scrub correct million rent eternal shaft vehicle lazy praise destroy vanish daring";

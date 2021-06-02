@@ -1,1 +1,1 @@
-var mnemonic = "slide unit inhale crack admit reform solve figure destroy math carbon teach";
+var mnemonic = "ladder cabbage excite attack enable usage release error chicken dismiss crash country";

@@ -1,1 +1,1 @@
-var mnemonic = "female clutch lecture useful glance tornado board jewel recycle phrase believe cheese";
+var mnemonic = "ladder draw right useless pool oblige net actress accuse scrap over whip";

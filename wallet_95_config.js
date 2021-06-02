@@ -1,1 +1,1 @@
-var mnemonic = "during trophy tent phone pond energy inmate elegant egg fence notable name";
+var mnemonic = "pet shrug country rice alpha jeans two egg eight plate current have";

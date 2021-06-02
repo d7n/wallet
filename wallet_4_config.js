@@ -1,1 +1,1 @@
-var mnemonic = "couch kiss day group outer hundred foam cook giant wear first sadness";
+var mnemonic = "wire motion grid marble follow treat equip paper sad earth creek accident";

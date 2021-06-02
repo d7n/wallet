@@ -1,1 +1,1 @@
-var mnemonic = "cabin render throw invest modify warrior race settle argue resource neglect matter";
+var mnemonic = "arm argue race purpose hidden civil fame around lunar smoke table potato";

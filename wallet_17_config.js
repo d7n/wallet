@@ -1,1 +1,1 @@
-var mnemonic = "shoot attend half scatter end rail bone depend boss energy another glue";
+var mnemonic = "violin antenna merge velvet occur powder chunk act network subway avoid bottom";

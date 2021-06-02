@@ -1,1 +1,1 @@
-var mnemonic = "update evil rabbit peasant can estate hungry nest effort sure round april";
+var mnemonic = "humble negative person auction cherry rocket egg young direct symptom actress cycle";

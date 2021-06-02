@@ -1,1 +1,1 @@
-var mnemonic = "kit pizza vessel bleak crisp monster suit layer peasant faculty pottery artwork";
+var mnemonic = "very floor bundle note uniform meat nature giggle universe olympic dial edit";

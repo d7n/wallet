@@ -1,1 +1,1 @@
-var mnemonic = "noise case shiver today size cycle model suspect mixed assault number rude";
+var mnemonic = "amazing sound health anger later fringe casual glass price woman plug tooth";

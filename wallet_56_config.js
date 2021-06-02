@@ -1,1 +1,1 @@
-var mnemonic = "account divorce trick can carbon token ball journey apple still camp common";
+var mnemonic = "wedding saddle rotate smoke book shift orange harbor liquid lady two length";

@@ -1,1 +1,1 @@
-var mnemonic = "diary win cabin trophy future topic track arctic antenna boss month drastic";
+var mnemonic = "medal trophy accuse promote blind circle ankle snake vehicle link clean ship";

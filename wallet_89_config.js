@@ -1,1 +1,1 @@
-var mnemonic = "tennis field umbrella penalty hybrid iron reject horn that crane come remove";
+var mnemonic = "crime similar muscle soap session calm impulse effort shoulder siren bounce recycle";

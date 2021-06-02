@@ -1,1 +1,1 @@
-var mnemonic = "town casual planet capable hobby grow daughter scheme solar task report life";
+var mnemonic = "change current certain expand beach sail hold cloud boost lion defense math";

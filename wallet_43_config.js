@@ -1,1 +1,1 @@
-var mnemonic = "tag lesson since bind tongue menu metal soldier mushroom rally animal hundred";
+var mnemonic = "smile stone judge prevent wide canal badge shoe retreat truck very father";

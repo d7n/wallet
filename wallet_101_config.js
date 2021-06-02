@@ -1,1 +1,1 @@
-var mnemonic = "setup side tail engage next crystal outdoor lucky fork sea army eternal";
+var mnemonic = "emerge evoke quiz grid together spoil robot impact luggage differ recycle option";

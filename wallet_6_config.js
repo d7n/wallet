@@ -1,1 +1,1 @@
-var mnemonic = "obscure season thumb witness noodle crumble crowd jar public educate knee toe";
+var mnemonic = "seek satisfy arch steak pear wear antenna uncover easily swing burst tattoo";

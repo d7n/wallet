@@ -1,1 +1,1 @@
-var mnemonic = "sudden text flag arrest demand win thumb loyal above tomato wagon night";
+var mnemonic = "meat roast father forget once prevent bird scorpion resemble page hat sight";

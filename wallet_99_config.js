@@ -1,1 +1,1 @@
-var mnemonic = "cargo hour doll select peasant can trouble join prize weekend invest heart";
+var mnemonic = "horn tuna goose permit give talk dinner fashion antique rack apart mass";

@@ -1,1 +1,1 @@
-var mnemonic = "copper kidney toast deny dizzy plug uniform weird profit street twin soda";
+var mnemonic = "cake machine park public journey speed disagree gate genre donate eternal love";

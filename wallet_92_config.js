@@ -1,1 +1,1 @@
-var mnemonic = "coconut subject turn round drama senior mesh scrub pigeon nose fortune screen";
+var mnemonic = "security tiger park bright memory pig wet brief curve dream trouble property";

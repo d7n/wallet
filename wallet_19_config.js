@@ -1,1 +1,1 @@
-var mnemonic = "earth card session firm crash asthma convince cricket draft enforce culture slush";
+var mnemonic = "book dish symptom ride donor boy inherit pill achieve catalog ring enroll";

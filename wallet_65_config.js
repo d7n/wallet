@@ -1,1 +1,1 @@
-var mnemonic = "enlist envelope plug humble surface sort prefer uphold glide love forum plate";
+var mnemonic = "grab lumber glove wisdom magnet predict you design gallery walk defense knife";

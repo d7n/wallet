@@ -1,1 +1,1 @@
-var mnemonic = "chimney fetch travel stable carpet tube arrive mixture guilt floor begin raise";
+var mnemonic = "inside practice lamp strong total fox flame duty edge soon rich adapt";

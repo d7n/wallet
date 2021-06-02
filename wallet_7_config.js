@@ -1,1 +1,1 @@
-var mnemonic = "home reduce polar coral obey staff purse stable horse eager blood repair";
+var mnemonic = "plastic become giant era delay annual faint arrange ostrich swing vendor woman";

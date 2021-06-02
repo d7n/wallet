@@ -1,1 +1,1 @@
-var mnemonic = "thrive weather ecology habit remain flash elephant stairs tomorrow struggle silk else";
+var mnemonic = "okay ability remain crucial observe want expand figure flavor curtain reopen pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic juice give episode december remember point rally antenna hold wrap rapid";
+var mnemonic = "march horse fresh soft belt achieve muscle spray trash equip coffee rib";

@@ -1,1 +1,1 @@
-var mnemonic = "sad margin guilt salad gadget jar oxygen chalk receive peace endless cousin";
+var mnemonic = "loyal debate layer walnut swift junior chase mimic soup suggest clutch scissors";

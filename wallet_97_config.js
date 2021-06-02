@@ -1,1 +1,1 @@
-var mnemonic = "solve buddy ladder arrest ocean evolve another glove spawn yard gesture fancy";
+var mnemonic = "blast cluster prefer cart knock common shy flame inside work pumpkin modify";

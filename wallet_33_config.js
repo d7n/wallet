@@ -1,1 +1,1 @@
-var mnemonic = "elephant answer cattle judge all flower coil sibling ginger van knife analyst";
+var mnemonic = "term blade cost leisure laptop lucky mechanic divorce reform measure whip yard";

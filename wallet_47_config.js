@@ -1,1 +1,1 @@
-var mnemonic = "cash sea else neutral spawn rescue protect manage door general despair card";
+var mnemonic = "eyebrow donate ability ocean frozen burden tortoise snow earn swap amateur describe";

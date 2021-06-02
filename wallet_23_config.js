@@ -1,1 +1,1 @@
-var mnemonic = "summer riot occur small together trust between major destroy shed scissors mansion";
+var mnemonic = "eternal invest food gorilla before start genuine awkward enroll rather gate faculty";

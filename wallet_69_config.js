@@ -1,1 +1,1 @@
-var mnemonic = "light gaze wrap sauce garlic winter mango clap engage use arch train";
+var mnemonic = "region mango bread topple spice argue tonight powder scare imitate embody page";

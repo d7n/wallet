@@ -1,1 +1,1 @@
-var mnemonic = "jar kiss camera artefact key honey accident soon essence actress repair dumb";
+var mnemonic = "explain ladder orient diagram evolve valley ensure island biology liberty child frost";

@@ -1,1 +1,1 @@
-var mnemonic = "magic process endorse arena whisper auto tank pluck thing duck turn tone";
+var mnemonic = "other canvas river debris innocent behind story buddy town cabbage budget camp";

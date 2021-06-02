@@ -1,1 +1,1 @@
-var mnemonic = "stay east bitter behind game hood report valid give act youth lawn";
+var mnemonic = "oval donkey jar fine soldier monster dry mistake struggle leader zoo voyage";

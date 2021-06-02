@@ -1,1 +1,1 @@
-var mnemonic = "arrow immune claim ready indicate pony sibling clinic gauge dynamic toast heavy";
+var mnemonic = "crucial park patient retreat brush vapor ordinary album often crush tackle hello";

@@ -1,1 +1,1 @@
-var mnemonic = "moment tiger tip case assume oblige oak glow coach country bid annual";
+var mnemonic = "decrease dust raise gate sponsor mother field peasant cabin possible harvest shed";

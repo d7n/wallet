@@ -1,1 +1,1 @@
-var mnemonic = "base umbrella stable switch ticket abstract beauty symptom crazy science frown virus";
+var mnemonic = "vehicle joy arrange canoe peace potato danger allow current spatial blind betray";

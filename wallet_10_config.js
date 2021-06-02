@@ -1,1 +1,1 @@
-var mnemonic = "afford palace boring ordinary alarm staff royal system stereo work hour three";
+var mnemonic = "speak inherit release again flight master whip put river clap toast because";

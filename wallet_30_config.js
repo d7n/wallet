@@ -1,1 +1,1 @@
-var mnemonic = "dish boat baby keep pill valve syrup law head adjust myself butter";
+var mnemonic = "damage blur jaguar comfort train fiscal engine regret hood poet express inhale";

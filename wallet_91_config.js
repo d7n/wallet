@@ -1,1 +1,1 @@
-var mnemonic = "wish size depth client play aisle miracle sand raw buffalo portion usage";
+var mnemonic = "easily drip invest neck keep basket nose offer focus drum matrix raw";

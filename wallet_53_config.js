@@ -1,1 +1,1 @@
-var mnemonic = "fever foster enable elder example box sibling enough laugh hazard click canal";
+var mnemonic = "pepper resemble toe swing sudden strategy resource south pizza evil over one";

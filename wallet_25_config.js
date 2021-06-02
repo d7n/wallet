@@ -1,1 +1,1 @@
-var mnemonic = "wonder genuine only benefit advance become between fame salute stay boy remain";
+var mnemonic = "clarify canoe wreck million cream nation image claw supply wonder jelly firm";

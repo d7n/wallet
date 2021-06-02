@@ -1,1 +1,1 @@
-var mnemonic = "various knife oxygen system beyond speak spring live review donate maple brown";
+var mnemonic = "fold color second lesson dash plug process flock path cherry turkey walnut";

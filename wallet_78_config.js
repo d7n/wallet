@@ -1,1 +1,1 @@
-var mnemonic = "view yard engage turkey lottery gas buddy struggle fat best piece twin";
+var mnemonic = "divide prison walnut eager float need juice casino bind vital similar toy";

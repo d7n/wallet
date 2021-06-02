@@ -1,1 +1,1 @@
-var mnemonic = "tobacco hazard middle extra family sand divert venture bitter ostrich parrot culture";
+var mnemonic = "husband matter wheat return language caught knife marriage neck approve stomach bonus";

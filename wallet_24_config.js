@@ -1,1 +1,1 @@
-var mnemonic = "spider orphan tomorrow trip stereo zero crucial mosquito print ill spray crucial";
+var mnemonic = "number kit dentist same cactus found bamboo police use artwork hospital secret";

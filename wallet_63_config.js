@@ -1,1 +1,1 @@
-var mnemonic = "ozone put cage decorate rhythm rifle winner virtual garbage other flush match";
+var mnemonic = "mosquito renew recycle tip misery elder mother oyster orphan inspire beyond mind";

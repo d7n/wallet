@@ -1,1 +1,1 @@
-var mnemonic = "october original raw route spike damage demise alarm quantum cigar quarter smart";
+var mnemonic = "lecture echo proof scare hold faint giggle artefact artist castle recipe acquire";
