@@ -1,1 +1,1 @@
-var mnemonic = "human awake satoshi pudding melody satisfy song purpose okay title split direct";
+var mnemonic = "picnic cloud narrow blast assault deliver pride possible turtle people deputy abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "agree mandate pledge mammal sudden warrior arena snap economy skill wagon escape";
+var mnemonic = "problem collect mind tube jazz culture clinic stool repeat escape goat avocado";

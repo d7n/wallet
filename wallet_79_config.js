@@ -1,1 +1,1 @@
-var mnemonic = "clock dynamic sentence birth spirit place swamp lumber someone kid wrong beach";
+var mnemonic = "armor lunar can adjust ketchup amount copy pull cloud umbrella evoke legal";

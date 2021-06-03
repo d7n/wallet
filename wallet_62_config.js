@@ -1,1 +1,1 @@
-var mnemonic = "olympic camp educate surge flee mother frequent element remove kangaroo soda merit";
+var mnemonic = "ugly utility rude sphere crew erase tired ahead exercise undo ivory meat";

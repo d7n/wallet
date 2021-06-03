@@ -1,1 +1,1 @@
-var mnemonic = "print field trap wise person cherry city balance science sure clever inflict";
+var mnemonic = "stuff direct dismiss ritual assault balcony type live antenna provide code shed";

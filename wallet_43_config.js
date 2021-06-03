@@ -1,1 +1,1 @@
-var mnemonic = "make retreat draft whale pelican fox glass mixture fade lawn cook survey";
+var mnemonic = "expand they bargain chronic another party twelve trophy dash paddle toss foil";

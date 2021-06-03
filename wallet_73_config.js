@@ -1,1 +1,1 @@
-var mnemonic = "artwork asthma midnight broccoli message shed empower room mention daring novel pond";
+var mnemonic = "rare patch mention slush major sentence loyal buyer finish only syrup bridge";

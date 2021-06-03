@@ -1,1 +1,1 @@
-var mnemonic = "radar coral wreck excess employ volcano dismiss identify daughter assist frozen gloom";
+var mnemonic = "filter true taste pupil glare popular kangaroo document catalog common grab goose";

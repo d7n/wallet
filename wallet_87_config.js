@@ -1,1 +1,1 @@
-var mnemonic = "loyal depth city giraffe pride volume opinion retreat camera turkey alpha sport";
+var mnemonic = "soup nature nephew child similar there outside tail fatigue ritual away top";

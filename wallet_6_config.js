@@ -1,1 +1,1 @@
-var mnemonic = "true crunch minimum wheat silly donate display twist height ocean target fiction";
+var mnemonic = "suffer furnace guitar unlock what desk glow vote undo bar endorse swing";

@@ -1,1 +1,1 @@
-var mnemonic = "bike girl snack tackle artefact behind stool salad rescue sustain mammal fiscal";
+var mnemonic = "industry genre vast original skin jaguar symbol mountain again rain road myth";

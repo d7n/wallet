@@ -1,1 +1,1 @@
-var mnemonic = "slender blur size lottery receive connect plug fall top rather syrup sign";
+var mnemonic = "west purse nominee actor conduct ability metal shoulder give genius hope traffic";

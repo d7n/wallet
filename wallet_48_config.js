@@ -1,1 +1,1 @@
-var mnemonic = "couch type park volcano valve eager parade view husband apology fat catch";
+var mnemonic = "master connect bar private clog mail mandate net print foil ketchup nation";

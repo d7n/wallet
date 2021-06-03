@@ -1,1 +1,1 @@
-var mnemonic = "police spread rocket erosion occur rain tortoise north good twin tribe invest";
+var mnemonic = "hunt concert large behind virus shed pride marine vicious bring axis rail";

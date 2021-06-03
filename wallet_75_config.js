@@ -1,1 +1,1 @@
-var mnemonic = "staff victory ahead endless taste ski soul climb nation green genre absurd";
+var mnemonic = "achieve rebel supreme item exit expand cycle budget broken monkey canal glide";

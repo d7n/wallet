@@ -1,1 +1,1 @@
-var mnemonic = "payment height fragile valley check scatter want mask differ fun rocket lake";
+var mnemonic = "exist away promote soccer exhaust helmet push alert catalog garden humor scene";

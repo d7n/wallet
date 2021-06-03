@@ -1,1 +1,1 @@
-var mnemonic = "because tonight leaf pride judge maximum obvious ancient blind document solve enter";
+var mnemonic = "loud where unfair device marine vibrant hybrid bachelor song reflect uncover blast";

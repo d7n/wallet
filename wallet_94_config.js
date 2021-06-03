@@ -1,1 +1,1 @@
-var mnemonic = "pyramid gap step tuna second very royal wedding essay employ rifle token";
+var mnemonic = "recall discover latin label muffin firm nephew slice island wood search fury";

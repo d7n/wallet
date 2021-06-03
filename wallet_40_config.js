@@ -1,1 +1,1 @@
-var mnemonic = "master sibling host prefer fine opera guard mushroom afraid unique eager drastic";
+var mnemonic = "rotate gasp depth idea buyer science waste whisper spell thing mass toddler";

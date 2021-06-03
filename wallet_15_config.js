@@ -1,1 +1,1 @@
-var mnemonic = "capital flight cruel wisdom capital drum kite fantasy only rice build turkey";
+var mnemonic = "identify phrase walnut very until cloth alpha glance identify picnic one rally";

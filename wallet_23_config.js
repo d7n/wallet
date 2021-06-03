@@ -1,1 +1,1 @@
-var mnemonic = "ghost sand snake exclude quit any lock spin story charge effort favorite";
+var mnemonic = "below own hair play great this era boring awake swear metal glad";

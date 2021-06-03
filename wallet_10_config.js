@@ -1,1 +1,1 @@
-var mnemonic = "muscle shadow between cake cave resemble jewel ancient wool funny pill settle";
+var mnemonic = "coffee fee bunker autumn harvest wing legend badge crunch gadget sister inspire";

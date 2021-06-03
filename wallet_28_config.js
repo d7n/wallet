@@ -1,1 +1,1 @@
-var mnemonic = "knee innocent tray violin idea warfare execute horror tortoise hybrid section steak";
+var mnemonic = "frozen fog response awkward tent token turn thing eagle ostrich sugar parrot";

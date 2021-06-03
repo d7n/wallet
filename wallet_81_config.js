@@ -1,1 +1,1 @@
-var mnemonic = "orient earn fan remind dial okay ancient ranch vehicle machine again fox";
+var mnemonic = "blanket program game save winter churn foot actress despair diagram hazard town";

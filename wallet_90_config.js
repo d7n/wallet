@@ -1,1 +1,1 @@
-var mnemonic = "inspire enjoy fringe catch fury used drift kitchen excuse village olympic toward";
+var mnemonic = "tennis bird broken insect jazz purse flag loop innocent resource emerge plastic";

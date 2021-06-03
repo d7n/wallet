@@ -1,1 +1,1 @@
-var mnemonic = "ankle jump knee reunion all quick hobby uncle finger toilet wisdom happy";
+var mnemonic = "spatial original dolphin armor either capable puzzle check rug spider scale drop";

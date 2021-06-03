@@ -1,1 +1,1 @@
-var mnemonic = "glare still fall finish vast device gesture green lab benefit mutual fox";
+var mnemonic = "speak either correct favorite target blanket siege social swing carbon pony deny";

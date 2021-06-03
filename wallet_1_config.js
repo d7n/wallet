@@ -1,1 +1,1 @@
-var mnemonic = "seminar recall burst salute spike coin slab cliff stairs video egg also";
+var mnemonic = "danger follow like repeat joke candy pair force super picture jar now";

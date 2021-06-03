@@ -1,1 +1,1 @@
-var mnemonic = "sauce thrive motor donor relax solar believe erode try area gold behind";
+var mnemonic = "usual debris ceiling satisfy oven wealth female dutch critic assist metal tackle";

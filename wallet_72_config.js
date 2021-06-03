@@ -1,1 +1,1 @@
-var mnemonic = "chicken genius lobster system toilet myself lounge mushroom indicate surge visual visit";
+var mnemonic = "awesome name merge rose slim art people ketchup possible pupil rib link";

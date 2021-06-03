@@ -1,1 +1,1 @@
-var mnemonic = "pass person coach moral pledge summer frame buzz pond tribe fragile leisure";
+var mnemonic = "sweet mirror pair glue exclude leave segment action planet symptom system burden";

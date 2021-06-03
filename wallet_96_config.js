@@ -1,1 +1,1 @@
-var mnemonic = "comic plug mutual soup erode motion law enlist orbit float solve million";
+var mnemonic = "effort pear shrimp visual tooth vivid picnic buddy victory tongue combine clown";

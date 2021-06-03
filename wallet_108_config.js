@@ -1,1 +1,1 @@
-var mnemonic = "toddler slogan front erosion cheese chronic enemy police funny agree dove fossil";
+var mnemonic = "pipe pitch fortune inner laugh dinner strong differ please adult trick hour";

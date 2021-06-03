@@ -1,1 +1,1 @@
-var mnemonic = "piece idea actress fiscal tone side always airport fatal betray middle cute";
+var mnemonic = "stem refuse tissue access naive library humor spatial artwork soup mushroom blade";

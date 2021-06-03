@@ -1,1 +1,1 @@
-var mnemonic = "wool eight clown motor cook snake senior pig violin surround vote cloth";
+var mnemonic = "come valve galaxy arm burden about mobile cliff old salt feel aerobic";

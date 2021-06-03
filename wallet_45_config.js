@@ -1,1 +1,1 @@
-var mnemonic = "slight mechanic slam model fever envelope bunker fall nice load arrest acid";
+var mnemonic = "siren situate belt wire girl august draw type misery pretty mystery harbor";

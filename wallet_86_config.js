@@ -1,1 +1,1 @@
-var mnemonic = "logic such total emerge arch hip exile about attend legend cupboard report";
+var mnemonic = "announce toward hunt holiday mandate humor taste hawk camp angry stone ginger";

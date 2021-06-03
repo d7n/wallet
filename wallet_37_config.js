@@ -1,1 +1,1 @@
-var mnemonic = "utility polar weasel fold actor nation crisp cloud dilemma quality omit manual";
+var mnemonic = "reunion usage secret ancient ordinary install clock size sunny wasp engine person";

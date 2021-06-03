@@ -1,1 +1,1 @@
-var mnemonic = "maze debate muffin boil plug nice bundle tackle sample kind circle tumble";
+var mnemonic = "layer reflect program human run digital dust morning door muffin buffalo smile";

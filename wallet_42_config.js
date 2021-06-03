@@ -1,1 +1,1 @@
-var mnemonic = "day journey prevent runway shield divorce purity rookie scan genius say talent";
+var mnemonic = "once spell entry napkin attend access quality blood thumb predict segment amateur";

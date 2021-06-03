@@ -1,1 +1,1 @@
-var mnemonic = "popular peace motor daring embrace art tribe jewel taxi half stereo floor";
+var mnemonic = "gather drip cage cruise pupil behave craft aunt diamond stadium own blur";

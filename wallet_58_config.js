@@ -1,1 +1,1 @@
-var mnemonic = "finish lion explain more uniform idea simple ecology glow extend suit insect";
+var mnemonic = "nice deny distance copy ostrich enough provide test remain opera flock scout";

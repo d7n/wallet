@@ -1,1 +1,1 @@
-var mnemonic = "audit asthma there lawsuit start dawn auto together bitter suggest city planet";
+var mnemonic = "nasty develop total return face auto hockey glimpse shallow little lamp sudden";

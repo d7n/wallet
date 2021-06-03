@@ -1,1 +1,1 @@
-var mnemonic = "side loan fish evolve eagle crucial art cost cover purpose fit museum";
+var mnemonic = "mandate devote sport airport knife clip swap happy issue dignity tobacco sphere";

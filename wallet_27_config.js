@@ -1,1 +1,1 @@
-var mnemonic = "claim heavy include alien trick resist poem gesture boost alarm legend vocal";
+var mnemonic = "math such atom belt left replace affair demand satisfy summer foil december";

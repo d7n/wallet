@@ -1,1 +1,1 @@
-var mnemonic = "what visual dawn motion goat bundle merit adjust romance bonus toe very";
+var mnemonic = "undo upgrade skin chapter word century weather force capital jelly jump gadget";

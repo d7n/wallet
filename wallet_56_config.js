@@ -1,1 +1,1 @@
-var mnemonic = "just episode retreat mushroom delay kid dwarf noodle monster crime van mean";
+var mnemonic = "vendor nothing cycle mix member someone sister shaft inside helmet buyer sorry";

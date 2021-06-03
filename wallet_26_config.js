@@ -1,1 +1,1 @@
-var mnemonic = "pass life hybrid jungle among pelican click will scatter weekend bunker allow";
+var mnemonic = "era key caught clump jar lobster filter dash pill kangaroo glass usual";

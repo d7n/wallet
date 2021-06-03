@@ -1,1 +1,1 @@
-var mnemonic = "ten scrub keep high such shop special refuse lemon jewel caution trophy";
+var mnemonic = "stuff bubble undo item twin index strike cliff ugly foot satisfy sausage";

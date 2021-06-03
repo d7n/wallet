@@ -1,1 +1,1 @@
-var mnemonic = "pretty interest ship open clinic dog scrub term agree mandate dice fan";
+var mnemonic = "tape process brown force around spare issue surround leaf onion review shallow";

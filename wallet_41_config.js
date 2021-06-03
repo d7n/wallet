@@ -1,1 +1,1 @@
-var mnemonic = "cruel huge sadness train bridge kite ranch ivory museum neutral setup sell";
+var mnemonic = "mix upgrade mechanic ancient tomorrow inch chalk owner east matrix ostrich afraid";

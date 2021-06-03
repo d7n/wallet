@@ -1,1 +1,1 @@
-var mnemonic = "crater question post quit remember dad plug dinner trap resist artefact quote";
+var mnemonic = "reveal treat person alone party zone van zone piano forum risk note";

@@ -1,1 +1,1 @@
-var mnemonic = "require shaft fame erode furnace inspire surge arrive chaos people castle curtain";
+var mnemonic = "hawk physical brown media iron lock have green sketch flip learn aware";

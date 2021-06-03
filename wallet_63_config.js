@@ -1,1 +1,1 @@
-var mnemonic = "bracket orange nice holiday twin farm height accuse scrap mesh scale romance";
+var mnemonic = "sunset safe hire thumb alone garage chat grab domain neutral vacant cost";

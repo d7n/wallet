@@ -1,1 +1,1 @@
-var mnemonic = "dove supreme midnight manual police dice top swear traffic maximum alien belt";
+var mnemonic = "asthma spot cost police begin lucky aerobic daughter shove lonely depth hunt";

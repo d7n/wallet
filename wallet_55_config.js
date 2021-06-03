@@ -1,1 +1,1 @@
-var mnemonic = "phrase rent burden have topic cake fortune notice paper avoid mango dust";
+var mnemonic = "mix follow very utility assume expire ancient reward faint situate blade foster";

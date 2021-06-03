@@ -1,1 +1,1 @@
-var mnemonic = "mushroom inquiry rich nasty cross observe erode prepare load surface unit album";
+var mnemonic = "flavor need rally throw donkey often donor pizza butter science thing check";

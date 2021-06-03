@@ -1,1 +1,1 @@
-var mnemonic = "appear fashion spray frozen assault flip canoe become foot day average stove";
+var mnemonic = "friend hurt weather gas demise spoon exotic ostrich middle arctic deny vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma canal fury vehicle wood burden record basket pistol refuse hammer ostrich";
+var mnemonic = "flower imitate priority soap crash purchase afford weird bar end frequent mystery";

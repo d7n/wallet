@@ -1,1 +1,1 @@
-var mnemonic = "erupt kidney dinner spy bronze tool three trial zebra emotion decide speak";
+var mnemonic = "merry firm always vote try already black develop settle expire raise dirt";

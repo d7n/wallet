@@ -1,1 +1,1 @@
-var mnemonic = "crystal surge transfer memory uncle unknown magic media theme violin inflict marble";
+var mnemonic = "brick silent unveil shadow use effort clarify teach keen when garden limit";

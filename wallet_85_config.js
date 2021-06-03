@@ -1,1 +1,1 @@
-var mnemonic = "idea hurry usual paper run soft siege hold cage gaze faculty priority";
+var mnemonic = "control vast smile soap lock denial easy country comic curve carbon enforce";

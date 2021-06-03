@@ -1,1 +1,1 @@
-var mnemonic = "uncover before another unhappy report giant brain scale anger novel west bargain";
+var mnemonic = "own virtual half scene survey trap float true movie shuffle island network";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt hat word sentence famous there vital disorder admit define lady arm";
+var mnemonic = "what undo security finish melt antique slam blade boil code elephant sausage";

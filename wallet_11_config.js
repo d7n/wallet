@@ -1,1 +1,1 @@
-var mnemonic = "voice exile baby census bounce kitchen cherry basic admit oval birth discover";
+var mnemonic = "first range system wine protect acid that feed trust jelly frame olympic";

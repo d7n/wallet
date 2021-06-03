@@ -1,1 +1,1 @@
-var mnemonic = "machine vital empty window police fetch office topic next sad true gas";
+var mnemonic = "paper fit robust atom polar mystery soap release sense title rail engage";

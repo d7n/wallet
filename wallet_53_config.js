@@ -1,1 +1,1 @@
-var mnemonic = "inhale transfer puzzle better mechanic length slide silk rare stay always major";
+var mnemonic = "pistol road impact music merge mandate hurt stereo gorilla cube alter insect";

@@ -1,1 +1,1 @@
-var mnemonic = "guess pig juice ladder obvious crime burger wish slush mystery wet nation";
+var mnemonic = "wire public aspect exhibit coral monitor deliver suggest boss carbon outdoor twice";

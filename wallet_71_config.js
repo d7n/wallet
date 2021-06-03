@@ -1,1 +1,1 @@
-var mnemonic = "veteran remove game leg square wear brand milk stage pepper print wrap";
+var mnemonic = "minor update garbage survey salt vast alert south envelope aisle scare bar";

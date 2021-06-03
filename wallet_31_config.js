@@ -1,1 +1,1 @@
-var mnemonic = "blame auto wish neck bring fresh treat hand march empower assist nose";
+var mnemonic = "vintage opera chapter twenty more betray bean shove flip barrel book lottery";

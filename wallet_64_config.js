@@ -1,1 +1,1 @@
-var mnemonic = "habit public medal attract online lawsuit camera bring hour gloom cactus end";
+var mnemonic = "sniff device panda wire pulp reflect stuff peasant scene local myth galaxy";

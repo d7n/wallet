@@ -1,1 +1,1 @@
-var mnemonic = "bring produce law deputy match short juice child large shine rule meadow";
+var mnemonic = "enter any hazard limb twice puzzle increase match pyramid lawn ordinary round";

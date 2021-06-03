@@ -1,1 +1,1 @@
-var mnemonic = "print south wild skirt square mixed world sugar clump orbit give drastic";
+var mnemonic = "rich vanish butter phrase raccoon blush parent another town ridge near dutch";

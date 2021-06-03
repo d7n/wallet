@@ -1,1 +1,1 @@
-var mnemonic = "cannon above unfold drip narrow catch capital wet race doll stuff document";
+var mnemonic = "rain change notice clip trigger anchor dilemma apology ability burger time frost";

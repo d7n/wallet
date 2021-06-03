@@ -1,1 +1,1 @@
-var mnemonic = "elite tragic coffee display clump depart cup truly rose crucial couple crop";
+var mnemonic = "disagree error modify goose visual nut report episode limit mandate certain endless";

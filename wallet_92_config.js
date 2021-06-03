@@ -1,1 +1,1 @@
-var mnemonic = "bind interest situate note cable soup letter smoke treat large learn matter";
+var mnemonic = "law custom case repair journey frequent stable conduct feed planet remove wool";

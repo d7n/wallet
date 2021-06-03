@@ -1,1 +1,1 @@
-var mnemonic = "brand quiz scrub knife loan fit combine flock dwarf exile order opinion";
+var mnemonic = "employ shoulder live sausage wagon satoshi swallow two photo age bacon monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle clarify usual link ginger wrist purse two horse purpose rose giraffe";
+var mnemonic = "shift steel wisdom decorate lens fresh print inner horn mistake shoe more";

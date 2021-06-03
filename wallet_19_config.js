@@ -1,1 +1,1 @@
-var mnemonic = "resist group ship half absorb faith spray negative inner student load need";
+var mnemonic = "vacant meat kit city else soccer pupil cable alley tuna canvas call";

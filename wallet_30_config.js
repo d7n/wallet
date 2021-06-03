@@ -1,1 +1,1 @@
-var mnemonic = "tumble huge episode dismiss assault nose apple runway wreck wire tag myself";
+var mnemonic = "town pottery eager huge lens public vast rely melody chef brisk legal";

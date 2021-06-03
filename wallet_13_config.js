@@ -1,1 +1,1 @@
-var mnemonic = "enrich truck buyer decade almost title mirror lecture news bubble nominee often";
+var mnemonic = "thank spirit pill base indicate pretty someone trade reward damage inquiry civil";
