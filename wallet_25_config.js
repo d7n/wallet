@@ -1,1 +1,1 @@
-var mnemonic = "consider truly cloud avoid impact acoustic proud cotton dog salmon popular attend";
+var mnemonic = "unlock season fabric report entire evidence prefer voice surge kidney fruit harvest";

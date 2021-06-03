@@ -1,1 +1,1 @@
-var mnemonic = "season invite drastic tent squirrel trumpet since patch spend invite arm skin";
+var mnemonic = "tone rent essay dinosaur album tragic weapon erupt replace bag acoustic section";

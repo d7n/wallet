@@ -1,1 +1,1 @@
-var mnemonic = "girl mimic morning stove judge cash rude feel surface electric way accuse";
+var mnemonic = "success moment error subway diary park meadow enter sock rubber tissue vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "reject ritual knife before pride proud ripple obey ocean quiz van firm";
+var mnemonic = "boost gaze boy street moon town misery clock act speak reject donkey";

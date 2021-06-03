@@ -1,1 +1,1 @@
-var mnemonic = "impulse abandon submit waste sword morning load chunk wink strong exist into";
+var mnemonic = "powder club analyst nest brush demand empower slogan fog flame impact artwork";

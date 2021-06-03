@@ -1,1 +1,1 @@
-var mnemonic = "east spike casual split glide spawn thrive session rural shell vocal sample";
+var mnemonic = "enable sword marine sick shop attack alarm wash region garment now correct";

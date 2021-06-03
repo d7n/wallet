@@ -1,1 +1,1 @@
-var mnemonic = "grain cliff trumpet among infant praise inch fix slight place uniform end";
+var mnemonic = "biology rent hello cancel acid raven math cool army wise dragon lounge";

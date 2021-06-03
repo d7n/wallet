@@ -1,1 +1,1 @@
-var mnemonic = "cliff among second liquid carry way avoid budget car under wrong runway";
+var mnemonic = "prepare disagree cradle example correct lobster coffee ask slight elbow replace lift";

@@ -1,1 +1,1 @@
-var mnemonic = "fan fit bomb future muffin sense carpet wise plug tribe cliff giraffe";
+var mnemonic = "erupt scissors fury verify monitor riot joke wisdom hurdle hockey crowd sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "episode mechanic typical frozen vote clever essay size perfect short easily gentle";
+var mnemonic = "alter mystery creek jump acoustic involve snack baby balance adult oxygen sudden";

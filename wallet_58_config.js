@@ -1,1 +1,1 @@
-var mnemonic = "virus forest curve shock stay gossip embrace smile zero student castle slab";
+var mnemonic = "volume brain mask tuition note reward theory fetch what affair puppy distance";

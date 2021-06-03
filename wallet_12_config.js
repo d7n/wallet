@@ -1,1 +1,1 @@
-var mnemonic = "manual private proud excite exist federal skate bar clinic off morning silver";
+var mnemonic = "lecture artwork split blind hockey average night report motor repair cradle picture";

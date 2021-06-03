@@ -1,1 +1,1 @@
-var mnemonic = "shell level submit sphere initial absent siege much found october enrich fashion";
+var mnemonic = "ensure pig keep material sure net call sugar resource eagle forest room";

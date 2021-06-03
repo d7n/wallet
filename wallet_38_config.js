@@ -1,1 +1,1 @@
-var mnemonic = "plunge bicycle drift park rely rice off check copper reopen borrow mystery";
+var mnemonic = "royal tone rule rough access lounge woman patch mass nature opera bullet";

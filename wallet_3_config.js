@@ -1,1 +1,1 @@
-var mnemonic = "gauge inform inner material time inform coffee remind list cabbage present require";
+var mnemonic = "toward sudden news wild exact track junk credit identify install actual scan";

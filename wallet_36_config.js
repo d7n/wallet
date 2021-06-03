@@ -1,1 +1,1 @@
-var mnemonic = "close size call reopen crazy indoor photo language pyramid maple combine elegant";
+var mnemonic = "mistake rotate rotate season hold snap surface green slight leg spoil boost";

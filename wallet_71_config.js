@@ -1,1 +1,1 @@
-var mnemonic = "panda prevent rose change useless clap road ahead outdoor neutral obvious hope";
+var mnemonic = "rebel text drift antique pioneer surge head balcony betray toilet because blame";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom shrimp network eye gentle possible crawl chair satoshi glory bullet shrug";
+var mnemonic = "wheat panel churn high cereal boss infant connect orchard then warfare benefit";

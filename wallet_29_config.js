@@ -1,1 +1,1 @@
-var mnemonic = "bronze clock slice mechanic sample airport memory shuffle abuse keen sweet board";
+var mnemonic = "behave hundred early company board lesson initial admit diet will mobile pass";

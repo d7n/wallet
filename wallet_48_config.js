@@ -1,1 +1,1 @@
-var mnemonic = "torch never track render found shiver success avoid large path clutch stuff";
+var mnemonic = "rival shrimp abandon oblige reunion scout practice board toss off sunset glide";

@@ -1,1 +1,1 @@
-var mnemonic = "topic reduce sentence federal scorpion scorpion remove more adjust butter picture join";
+var mnemonic = "kingdom chaos fame ridge that amateur tray bread lizard speak install fee";

@@ -1,1 +1,1 @@
-var mnemonic = "flip lonely enable snap powder pear cactus enhance exhaust six frost roof";
+var mnemonic = "artwork kind similar sauce stomach spy grow clerk crush romance outer tortoise";

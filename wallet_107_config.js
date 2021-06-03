@@ -1,1 +1,1 @@
-var mnemonic = "juice craft elegant cruel major design coast sheriff expose upon story moon";
+var mnemonic = "sing eight away replace become mixed clown occur elite roast remain swarm";

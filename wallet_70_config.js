@@ -1,1 +1,1 @@
-var mnemonic = "bar valid blind tornado citizen between silent field cat monster scissors eyebrow";
+var mnemonic = "brown car kidney document sorry purpose chuckle satisfy express ring notice demise";

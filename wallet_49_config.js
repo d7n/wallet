@@ -1,1 +1,1 @@
-var mnemonic = "bulb hole trust quote tag crazy bulb brand comic wolf close lemon";
+var mnemonic = "exhibit harbor pioneer end enable element bid crisp stumble guess forest uniform";

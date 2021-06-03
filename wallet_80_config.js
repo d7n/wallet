@@ -1,1 +1,1 @@
-var mnemonic = "essence figure deliver gasp van absurd dish meat regular member rival fury";
+var mnemonic = "silk debris vicious object clog swamp aware piano runway circle donkey slight";

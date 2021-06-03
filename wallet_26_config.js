@@ -1,1 +1,1 @@
-var mnemonic = "movie bulb empower midnight wire tag onion tray install ahead label exist";
+var mnemonic = "tennis festival fresh captain street turkey original exercise excess tattoo hedgehog push";

@@ -1,1 +1,1 @@
-var mnemonic = "size possible where quit play fetch lab exile achieve cart discover wrist";
+var mnemonic = "shock avocado shoot occur predict blouse brother return begin artefact nerve animal";

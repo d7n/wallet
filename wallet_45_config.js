@@ -1,1 +1,1 @@
-var mnemonic = "elegant someone meat else copy educate select display double hybrid planet adjust";
+var mnemonic = "pluck junk label tag book symbol atom soap wear forest repeat intact";

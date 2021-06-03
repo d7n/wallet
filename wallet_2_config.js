@@ -1,1 +1,1 @@
-var mnemonic = "ankle alien receive bamboo verify meat voice hen power distance then sense";
+var mnemonic = "omit tattoo catalog toilet snack pass advance toss senior hollow scatter frame";

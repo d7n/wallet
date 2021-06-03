@@ -1,1 +1,1 @@
-var mnemonic = "response thought trumpet orphan reason that atom cannon giggle orange fashion sport";
+var mnemonic = "maple actor great mammal erupt cycle helmet unhappy damage race near bamboo";

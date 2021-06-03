@@ -1,1 +1,1 @@
-var mnemonic = "anchor cruise code kiwi spread remain ignore question fit novel record catalog";
+var mnemonic = "tower silly add heavy foster degree theme crazy airport execute link stable";

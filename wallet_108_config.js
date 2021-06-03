@@ -1,1 +1,1 @@
-var mnemonic = "priority victory fluid harvest around aspect join tomorrow dream borrow fresh trick";
+var mnemonic = "silly bind unfair lamp repeat dismiss transfer gold coach want obvious income";

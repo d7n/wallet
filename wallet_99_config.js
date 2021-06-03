@@ -1,1 +1,1 @@
-var mnemonic = "menu flag board bounce cloth window neglect lift slogan admit pigeon divert";
+var mnemonic = "jewel behave leaf topple pink camp wheel dinosaur culture round kiss card";

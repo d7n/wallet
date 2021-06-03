@@ -1,1 +1,1 @@
-var mnemonic = "supreme month actual protect similar patient exile casino gun actor exact author";
+var mnemonic = "purchase pause deny together either chat potato beyond spirit best struggle enable";

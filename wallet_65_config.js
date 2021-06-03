@@ -1,1 +1,1 @@
-var mnemonic = "west embody swamp remember heart letter luggage canvas rookie hungry warm gown";
+var mnemonic = "bench slam frequent have honey salad logic oblige win boat explain moral";

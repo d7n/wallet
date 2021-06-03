@@ -1,1 +1,1 @@
-var mnemonic = "repeat rescue swift cave whale window fresh common jewel young kid fiscal";
+var mnemonic = "slot section sustain behind latin tragic copper panic gorilla jeans average fiber";

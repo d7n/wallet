@@ -1,1 +1,1 @@
-var mnemonic = "crouch ridge kiwi sister salon agent drift impose inform ivory icon curtain";
+var mnemonic = "scissors price amount dose direct session inspire pudding symptom knock joy goddess";

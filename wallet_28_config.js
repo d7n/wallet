@@ -1,1 +1,1 @@
-var mnemonic = "direct wide myth volcano lens unit warrior celery lucky asthma master goat";
+var mnemonic = "cross birth food blue acoustic awkward motor float swarm spirit vacuum fantasy";

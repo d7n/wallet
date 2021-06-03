@@ -1,1 +1,1 @@
-var mnemonic = "render garlic nasty gentle enlist execute typical fault room bottom grocery snack";
+var mnemonic = "vacant jungle between cruel exercise upgrade castle outdoor summer unfair comfort blame";

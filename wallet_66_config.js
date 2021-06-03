@@ -1,1 +1,1 @@
-var mnemonic = "load bring insect oppose raise police try filter witness silent tornado thrive";
+var mnemonic = "wave traffic plate woman receive stuff volcano vocal ostrich rural actress soul";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus yard amount harsh kiwi dolphin fault ankle lecture deposit portion blanket";
+var mnemonic = "cancel helmet boil lounge cable promote shiver chat island lion reform almost";

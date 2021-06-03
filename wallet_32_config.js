@@ -1,1 +1,1 @@
-var mnemonic = "session position topple web phrase laugh ski display clean amazing venue tower";
+var mnemonic = "oval another negative swallow buddy runway crash trade buddy use balance gauge";

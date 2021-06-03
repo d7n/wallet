@@ -1,1 +1,1 @@
-var mnemonic = "various nuclear cabbage flock velvet later another maple brown young polar fix";
+var mnemonic = "faith more present kitten lemon alter private mixture dynamic muffin garage face";

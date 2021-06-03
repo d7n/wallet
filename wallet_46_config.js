@@ -1,1 +1,1 @@
-var mnemonic = "dad mistake taxi fantasy motion hood birth flame other elephant bulb cage";
+var mnemonic = "cupboard february balcony snow coil glide upset shadow pitch else concert actual";

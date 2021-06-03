@@ -1,1 +1,1 @@
-var mnemonic = "today split sphere consider nurse upset lyrics wasp index crater wait grain";
+var mnemonic = "famous awesome abandon program harbor conduct symptom page grocery female fringe rough";

@@ -1,1 +1,1 @@
-var mnemonic = "surge city world couple stamp nation cute attitude valve strong general august";
+var mnemonic = "vital pluck govern local sword job beach bar miss hundred panic trick";

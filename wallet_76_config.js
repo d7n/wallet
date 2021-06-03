@@ -1,1 +1,1 @@
-var mnemonic = "sniff basic walnut busy found wink cricket hungry exhibit virus dose sword";
+var mnemonic = "honey egg region peace hire news silly mountain acid october average stove";

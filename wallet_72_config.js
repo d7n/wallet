@@ -1,1 +1,1 @@
-var mnemonic = "response rural panda ozone patch cricket search leaf claim blossom giant night";
+var mnemonic = "cannon ill frozen empty economy fish abandon fiber captain lonely flavor dose";

@@ -1,1 +1,1 @@
-var mnemonic = "angry hidden diet behind unveil label loyal bunker gift vocal lobster solar";
+var mnemonic = "lamp margin decade ugly cheap force quote inside crop oxygen finger allow";

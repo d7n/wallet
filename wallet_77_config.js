@@ -1,1 +1,1 @@
-var mnemonic = "crane topic fossil dumb planet fame modify express invest brief tape oil";
+var mnemonic = "aspect cinnamon large vapor body behind urge common room dilemma liberty bonus";

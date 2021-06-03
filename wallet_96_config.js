@@ -1,1 +1,1 @@
-var mnemonic = "dust level situate disease cupboard wink bench put grace vast fox betray";
+var mnemonic = "trip hedgehog shift attract pigeon ski certain remove corn rose pitch disagree";

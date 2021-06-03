@@ -1,1 +1,1 @@
-var mnemonic = "situate chicken target spell slam whisper major midnight blame friend basic organ";
+var mnemonic = "drastic loud sample shiver immense letter future hurt grace elite tongue autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "famous rent find arrow bronze execute gym glove course angle knife feel";
+var mnemonic = "unique refuse evidence give catch suit suit artwork border math rather kick";

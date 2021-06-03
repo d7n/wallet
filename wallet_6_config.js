@@ -1,1 +1,1 @@
-var mnemonic = "enough alcohol mule duty release issue drum fury motor cat test budget";
+var mnemonic = "ribbon error smart heavy enter mansion mean enroll author trouble approve abstract";

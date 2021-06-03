@@ -1,1 +1,1 @@
-var mnemonic = "tenant symbol place can push distance nature game field poverty ivory kick";
+var mnemonic = "tone quit bacon pact lunar tunnel under today gun inquiry girl grass";

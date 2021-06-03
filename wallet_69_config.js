@@ -1,1 +1,1 @@
-var mnemonic = "dash print clap tourist today undo bachelor crane diamond scorpion snack lady";
+var mnemonic = "account tide pulse rally hip profit shop gas bubble divert thing tail";

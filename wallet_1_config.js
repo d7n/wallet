@@ -1,1 +1,1 @@
-var mnemonic = "stem quit swamp alien lion lamp tent will concert panther segment dove";
+var mnemonic = "disorder note faith emerge rescue wave scale record parent reopen surface clerk";

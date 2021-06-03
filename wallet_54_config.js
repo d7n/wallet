@@ -1,1 +1,1 @@
-var mnemonic = "width bacon call grunt inmate allow cabbage struggle fury sadness chapter genre";
+var mnemonic = "tank pride evoke dish hard zoo bleak burst another meadow foster cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "sight inherit lyrics cement dash boil sugar fan fence silent hood seat";
+var mnemonic = "harbor oven expose regret evolve rookie toss horse topple kick cake menu";

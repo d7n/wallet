@@ -1,1 +1,1 @@
-var mnemonic = "worth flower like cheap spatial frame rival neither loud struggle uphold helmet";
+var mnemonic = "atom physical island organ twelve shift future wage actor where problem chat";

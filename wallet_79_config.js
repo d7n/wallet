@@ -1,1 +1,1 @@
-var mnemonic = "orchard airport typical time west moon lift industry puzzle cloth crumble section";
+var mnemonic = "energy chaos eye double armor sail term lunar annual few beyond tray";

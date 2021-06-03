@@ -1,1 +1,1 @@
-var mnemonic = "solve section island debate belt charge okay spoil used tissue fade rifle";
+var mnemonic = "make roof spy category cage negative neck blur assume round endorse teach";

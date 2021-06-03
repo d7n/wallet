@@ -1,1 +1,1 @@
-var mnemonic = "use fashion visa open odor extra lunch rare example away decide envelope";
+var mnemonic = "fun talent only nominee federal outer interest hidden inflict link jar notable";

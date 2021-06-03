@@ -1,1 +1,1 @@
-var mnemonic = "gas release deputy tumble cheap else charge cost top train token giraffe";
+var mnemonic = "wasp shop need glad identify uphold point recall become tortoise furnace traffic";

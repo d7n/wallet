@@ -1,1 +1,1 @@
-var mnemonic = "midnight supreme transfer imitate skin episode join gossip sphere noise buffalo crisp";
+var mnemonic = "census beef mesh evidence robust avoid worry earn retreat hello pluck young";

@@ -1,1 +1,1 @@
-var mnemonic = "define absent rotate grow artwork inch van globe sponsor heavy charge uphold";
+var mnemonic = "letter dawn level quick offer essence kit castle pool romance bulk ridge";

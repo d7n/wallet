@@ -1,1 +1,1 @@
-var mnemonic = "enlist galaxy problem meadow escape cover pyramid aspect life pact general salad";
+var mnemonic = "guide basic hunt elevator stock reward exotic check upper people lyrics mimic";

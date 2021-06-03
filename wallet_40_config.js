@@ -1,1 +1,1 @@
-var mnemonic = "execute dry ceiling donor sugar lab narrow genuine payment foot affair bleak";
+var mnemonic = "pizza brown dose magic this open express outside bread apple question final";

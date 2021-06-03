@@ -1,1 +1,1 @@
-var mnemonic = "truck boring degree joke surface wage segment price walk write mechanic sorry";
+var mnemonic = "friend current pilot client scorpion fish glance vague payment radio gift post";

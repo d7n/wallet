@@ -1,1 +1,1 @@
-var mnemonic = "minor upper general social case replace defense bounce pulp echo friend correct";
+var mnemonic = "cupboard month universe matter recipe human cram elder earn method siren sign";

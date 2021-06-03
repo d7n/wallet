@@ -1,1 +1,1 @@
-var mnemonic = "process verify knife phone permit process mother attack pause tortoise capable desk";
+var mnemonic = "vote green field cream couch december flash hat mouse goose lift wrong";

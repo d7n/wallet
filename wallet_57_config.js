@@ -1,1 +1,1 @@
-var mnemonic = "join sister seek vicious raw various mask unhappy job inside only tumble";
+var mnemonic = "drill hold wire valid tide buffalo where wear castle fitness slab destroy";

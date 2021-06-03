@@ -1,1 +1,1 @@
-var mnemonic = "pill list dose wise write window manage loan denial stomach frost yard";
+var mnemonic = "effort left labor canal own invite nasty submit inherit element banana forum";

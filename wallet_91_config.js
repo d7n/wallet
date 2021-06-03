@@ -1,1 +1,1 @@
-var mnemonic = "focus offer climb pole blame laugh situate put fence famous street fever";
+var mnemonic = "agree swing cinnamon prevent evidence gift slow thought puppy stairs place nerve";

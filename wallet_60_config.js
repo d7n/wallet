@@ -1,1 +1,1 @@
-var mnemonic = "brother perfect wink smooth episode sign spell force choose giggle throw slice";
+var mnemonic = "picture plastic stadium flight law pig speed shock purchase receive energy upgrade";

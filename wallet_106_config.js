@@ -1,1 +1,1 @@
-var mnemonic = "toast siren goddess atom forest beauty must kitten stock cave network robot";
+var mnemonic = "picture gun useful antique gallery ghost grow gentle fatigue avoid dial list";

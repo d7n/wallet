@@ -1,1 +1,1 @@
-var mnemonic = "very task wrap valve maze boat elite dance master soldier stone dawn";
+var mnemonic = "captain cube risk onion two toddler brush base rule either mandate whip";

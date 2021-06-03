@@ -1,1 +1,1 @@
-var mnemonic = "rescue foil hazard cheese warfare whip license meadow oil chronic column venue";
+var mnemonic = "bag drop pizza together pistol vapor actress fork arrest around blush room";

@@ -1,1 +1,1 @@
-var mnemonic = "need walk onion crouch final art lava sleep surprise match easy invest";
+var mnemonic = "robust defy thought digital cram artefact prefer truck worry spatial ignore smart";

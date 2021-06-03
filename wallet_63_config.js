@@ -1,1 +1,1 @@
-var mnemonic = "next object marine tomorrow giggle memory calm room critic poet glide erupt";
+var mnemonic = "spy cause increase dynamic jacket lamp digital genre ladder drive lunar filter";

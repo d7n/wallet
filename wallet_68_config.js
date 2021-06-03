@@ -1,1 +1,1 @@
-var mnemonic = "thrive much ask average author file visa action matter patch effort visit";
+var mnemonic = "artwork suffer galaxy layer catalog connect argue current cliff island apart waste";

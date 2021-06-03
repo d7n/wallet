@@ -1,1 +1,1 @@
-var mnemonic = "culture side sting uniform tool noodle hamster cotton hungry index total six";
+var mnemonic = "symptom rely orphan mask family dinosaur cost divide diet true holiday science";

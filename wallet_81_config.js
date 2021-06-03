@@ -1,1 +1,1 @@
-var mnemonic = "valve grid leader sock lounge improve tower loan dance inner various domain";
+var mnemonic = "cup blouse impose balcony raw ecology success miracle coyote foil squeeze oil";

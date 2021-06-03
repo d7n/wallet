@@ -1,1 +1,1 @@
-var mnemonic = "lunch buffalo print resource capable pretty fence brick once noodle sphere canal";
+var mnemonic = "shove quit crane half atom anger web squeeze fury unhappy search industry";

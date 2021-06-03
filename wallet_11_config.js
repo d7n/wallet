@@ -1,1 +1,1 @@
-var mnemonic = "hello survey always behind drama squirrel level romance denial screen tank apple";
+var mnemonic = "laptop inflict kind proud mandate leisure december chuckle wrist pioneer cage midnight";

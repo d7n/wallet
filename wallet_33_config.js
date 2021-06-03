@@ -1,1 +1,1 @@
-var mnemonic = "song nest catch dial empty ride royal void coffee pen witness arrive";
+var mnemonic = "odor render trigger warrior dune dry blade dawn alter foam open submit";

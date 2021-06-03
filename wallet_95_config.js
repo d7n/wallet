@@ -1,1 +1,1 @@
-var mnemonic = "exclude mechanic license deer reveal gravity portion atom useless million thumb property";
+var mnemonic = "emerge impose retreat grit nature reform interest parent raw stereo enemy whip";

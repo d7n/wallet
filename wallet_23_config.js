@@ -1,1 +1,1 @@
-var mnemonic = "panic believe cycle onion fold artist range sight normal prevent tent prison";
+var mnemonic = "tuna disease toy chapter duck adult cactus divorce clip benefit aware visual";

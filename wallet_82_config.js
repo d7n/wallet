@@ -1,1 +1,1 @@
-var mnemonic = "dilemma thank garlic whisper above shop session dismiss charge milk book example";
+var mnemonic = "route bitter just attend member outdoor velvet track tail outer guitar fiction";

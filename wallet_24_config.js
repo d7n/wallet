@@ -1,1 +1,1 @@
-var mnemonic = "faculty hobby suit theme planet suit salute alcohol injury soon impulse enjoy";
+var mnemonic = "make ritual detail sustain owner can cloth abuse quote during crime depart";

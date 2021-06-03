@@ -1,1 +1,1 @@
-var mnemonic = "simple artwork plate action neglect ostrich round slush ritual movie angry shrimp";
+var mnemonic = "great sock will error focus grass tattoo retreat fringe under world amused";
