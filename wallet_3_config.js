@@ -1,1 +1,1 @@
-var mnemonic = "dose chef sudden over document engage piece brand one blush recipe receive";
+var mnemonic = "skill tuna push mask news culture copper toy horse opinion crazy small";

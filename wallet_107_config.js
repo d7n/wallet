@@ -1,1 +1,1 @@
-var mnemonic = "horse vacant fix guard thing parade stadium basic cable tissue flame put";
+var mnemonic = "lizard people nation design elegant margin work oyster moment mistake possible trick";

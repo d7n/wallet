@@ -1,1 +1,1 @@
-var mnemonic = "slow iron south joy limb tilt clump meat track fame neck credit";
+var mnemonic = "loyal rural sort scrub accuse tenant obscure steak minor problem explain dynamic";

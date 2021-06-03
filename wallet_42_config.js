@@ -1,1 +1,1 @@
-var mnemonic = "ordinary battle mystery hurdle fee nasty sound alone problem misery museum color";
+var mnemonic = "cute swap spy orbit mom brand bacon erode advance game add nature";

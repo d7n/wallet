@@ -1,1 +1,1 @@
-var mnemonic = "wife knife deer ball urge canyon brief swear ketchup banana bike hockey";
+var mnemonic = "orient pumpkin regret shed pony travel spell prosper mosquito category fork walk";

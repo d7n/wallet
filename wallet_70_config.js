@@ -1,1 +1,1 @@
-var mnemonic = "artist wire method ordinary warm urban laundry wrap cushion crater deal aware";
+var mnemonic = "predict real wage menu dry seed pipe private toilet melody note sting";

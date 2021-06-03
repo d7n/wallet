@@ -1,1 +1,1 @@
-var mnemonic = "fiber giant pulp language moon hotel wife knock muffin present tooth old";
+var mnemonic = "door casino cross blood decorate egg fiber black among imitate soap spray";

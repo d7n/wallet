@@ -1,1 +1,1 @@
-var mnemonic = "level olive brave device chuckle armed cruise apart uniform wall insane injury";
+var mnemonic = "share lion wrestle phrase myself random quarter normal general unveil crime source";

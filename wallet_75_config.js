@@ -1,1 +1,1 @@
-var mnemonic = "forum say obey deny east coral before fruit sentence unit wrestle code";
+var mnemonic = "dirt boat violin add buddy until gadget height promote winner luxury valve";

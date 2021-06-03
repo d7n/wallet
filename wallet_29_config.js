@@ -1,1 +1,1 @@
-var mnemonic = "jar salmon secret step badge future dog dose parade reflect immense critic";
+var mnemonic = "path refuse minor way unit party session pizza rate possible vibrant congress";

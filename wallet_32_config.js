@@ -1,1 +1,1 @@
-var mnemonic = "scan bronze pizza usage little tone desert eye gate report vocal wash";
+var mnemonic = "useless nasty auto brush practice rigid invite scorpion punch casino old blush";

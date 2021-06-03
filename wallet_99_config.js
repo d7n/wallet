@@ -1,1 +1,1 @@
-var mnemonic = "excess guide fever toilet smoke company candy food pattern ice exile egg";
+var mnemonic = "swap conduct caught minor monkey artefact drip unable believe caution improve beef";

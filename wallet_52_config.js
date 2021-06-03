@@ -1,1 +1,1 @@
-var mnemonic = "exchange girl catalog start tent alien stable letter shadow liquid ethics trial";
+var mnemonic = "horn slot admit worry pass horn hotel emotion parent large illegal report";

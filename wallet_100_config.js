@@ -1,1 +1,1 @@
-var mnemonic = "ladder twist usage museum noise thrive wonder mother hard radio convince sketch";
+var mnemonic = "badge vague romance need side near inhale scale observe family fossil sun";

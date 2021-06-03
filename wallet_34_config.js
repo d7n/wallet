@@ -1,1 +1,1 @@
-var mnemonic = "resource spatial hazard junk belt length arrow prepare verb market faculty genuine";
+var mnemonic = "reopen ensure merry tackle blade grief clarify demise oil design owner rural";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry power tower pond toast total fire grain bulk busy narrow twice";
+var mnemonic = "throw harbor attract captain amused source because pave first all electric someone";

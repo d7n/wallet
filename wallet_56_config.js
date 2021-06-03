@@ -1,1 +1,1 @@
-var mnemonic = "survey position police tide property wide small awesome token pumpkin account innocent";
+var mnemonic = "fluid behave rescue flush axis penalty shell announce combine manage hospital eye";

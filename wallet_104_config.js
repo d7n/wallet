@@ -1,1 +1,1 @@
-var mnemonic = "endless jaguar crack fury task dry jealous smooth trouble album cluster elevator";
+var mnemonic = "fish now reflect mother find waste favorite pony exit slight popular toe";

@@ -1,1 +1,1 @@
-var mnemonic = "item trumpet struggle extra crawl trade tribe maze nephew era innocent since";
+var mnemonic = "rich poet organ grant unable armor surround repair addict weasel ranch marble";

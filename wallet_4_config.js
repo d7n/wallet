@@ -1,1 +1,1 @@
-var mnemonic = "pool search write crime luxury delay injury length reward camp across hobby";
+var mnemonic = "twist find glass wonder action turtle icon whisper divide before else safe";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew tumble surface reopen diesel cigar brief name account rack muscle wing";
+var mnemonic = "envelope scare jeans monster address draw cloud lottery spell bounce among goat";

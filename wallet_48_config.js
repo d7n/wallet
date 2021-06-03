@@ -1,1 +1,1 @@
-var mnemonic = "violin oak paddle else bleak cube raise sick drive toast march device";
+var mnemonic = "enhance right work spy primary oyster glove crouch nurse poem where mountain";

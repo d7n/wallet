@@ -1,1 +1,1 @@
-var mnemonic = "math vacuum project boost drop sister gain nut goose try argue amount";
+var mnemonic = "abstract vital chimney return weekend laugh curve pool foster habit guitar coral";

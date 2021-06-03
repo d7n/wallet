@@ -1,1 +1,1 @@
-var mnemonic = "quantum dinner gold begin tornado upon else scrap suit tip someone alpha";
+var mnemonic = "deliver stadium juice call color gift sadness flavor address approve deposit tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture resource obvious cabin voice couch aunt fortune first extra select eye";
+var mnemonic = "column gadget mango pledge size border opinion hidden hub route coyote parade";

@@ -1,1 +1,1 @@
-var mnemonic = "keen crush round lazy forget mandate detail muscle busy style donkey sunny";
+var mnemonic = "point space peanut stem uncle abuse harbor enact vocal jar pelican enlist";

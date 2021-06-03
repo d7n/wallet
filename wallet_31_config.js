@@ -1,1 +1,1 @@
-var mnemonic = "dumb sock amount car battle provide other eagle science already winner energy";
+var mnemonic = "smart pilot impulse brother elite toward danger praise enforce uncover walk lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "size surprise pause earth become fancy brass lawn slab way catalog six";
+var mnemonic = "depend liquid square wealth reason sorry juice torch promote boy provide owner";

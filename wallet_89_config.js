@@ -1,1 +1,1 @@
-var mnemonic = "share meadow energy nuclear arrow between correct injury impose naive fame mixture";
+var mnemonic = "gift rescue carpet easily track nephew scatter spring ketchup blur gauge paper";

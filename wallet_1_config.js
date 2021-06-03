@@ -1,1 +1,1 @@
-var mnemonic = "label isolate evil clean exhaust force refuse relief slice negative hen ahead";
+var mnemonic = "alter nuclear can judge trumpet rate wink ridge margin nose display plate";

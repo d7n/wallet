@@ -1,1 +1,1 @@
-var mnemonic = "range hero science rural festival kiwi humble guitar away hip peace elevator";
+var mnemonic = "wave parade silk effort void wrap card already estate buffalo stamp era";

@@ -1,1 +1,1 @@
-var mnemonic = "deny volcano wrong strong sadness sphere problem garlic hunt scare system subway";
+var mnemonic = "print talk long copy laundry bronze impose drip pave artefact fury leaf";

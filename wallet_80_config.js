@@ -1,1 +1,1 @@
-var mnemonic = "defense remove exile rubber label resist expect debris protect hover member assault";
+var mnemonic = "choice merry major tray answer pluck casual test body unknown render mansion";

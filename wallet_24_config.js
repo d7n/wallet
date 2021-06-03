@@ -1,1 +1,1 @@
-var mnemonic = "truly plunge upper artwork host zebra voice gloom silent ritual shuffle flag";
+var mnemonic = "flat someone glide sting damp calm sea noodle champion violin crumble joke";

@@ -1,1 +1,1 @@
-var mnemonic = "flower frozen ahead citizen connect boost gossip inhale primary scorpion sight genuine";
+var mnemonic = "anchor leaf rack topic hamster wide define menu diet join dwarf smooth";

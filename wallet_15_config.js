@@ -1,1 +1,1 @@
-var mnemonic = "awake round keen rabbit pulp display young acid gasp amount assume license";
+var mnemonic = "soft legal inmate invite electric carbon guide color myth album solution wolf";

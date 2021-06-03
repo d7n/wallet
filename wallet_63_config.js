@@ -1,1 +1,1 @@
-var mnemonic = "damp spoon suggest collect expect hood broccoli fashion say census review abuse";
+var mnemonic = "dress rebuild duck lamp swear modify upset artist world flight medal whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "coach wing credit harvest nation enjoy draw trumpet pride cash clerk vapor";
+var mnemonic = "chef simple peasant total width tragic never uncle sail talent puzzle grant";

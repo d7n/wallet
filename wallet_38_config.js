@@ -1,1 +1,1 @@
-var mnemonic = "like banner match face pulp fossil drum abandon tennis mouse love car";
+var mnemonic = "quality danger quality fruit enforce believe audit tunnel solar test waste slam";

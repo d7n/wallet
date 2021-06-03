@@ -1,1 +1,1 @@
-var mnemonic = "weekend catalog argue main blame dinner electric sell alone motion circle fluid";
+var mnemonic = "story ritual powder idle mutual echo write aware false govern bird split";

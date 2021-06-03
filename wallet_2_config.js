@@ -1,1 +1,1 @@
-var mnemonic = "rescue produce venture process mad vintage one miracle alcohol size social biology";
+var mnemonic = "nurse youth excuse diet cement indoor carpet develop basic just exclude aunt";

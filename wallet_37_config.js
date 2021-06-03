@@ -1,1 +1,1 @@
-var mnemonic = "drink effort fluid library orchard rally provide flush suit run rack tree";
+var mnemonic = "nothing churn ugly industry abuse settle milk depart happy give off attack";

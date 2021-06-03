@@ -1,1 +1,1 @@
-var mnemonic = "apology aerobic wrong proud toward attack follow few sea test ensure slot";
+var mnemonic = "able state pony twenty arena picture wash globe young snow moral problem";

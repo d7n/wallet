@@ -1,1 +1,1 @@
-var mnemonic = "salute clip idea believe assist night lumber spatial rail file vintage drum";
+var mnemonic = "trust strategy puppy hazard mountain armed object chaos orient symbol dog husband";

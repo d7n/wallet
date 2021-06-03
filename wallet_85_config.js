@@ -1,1 +1,1 @@
-var mnemonic = "live aim core used fabric bracket fiction abstract cancel then point together";
+var mnemonic = "never acquire text auction wait wisdom attack wasp frown wonder image very";

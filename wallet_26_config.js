@@ -1,1 +1,1 @@
-var mnemonic = "cat asset disagree fire leg whip file trophy quiz aspect mosquito double";
+var mnemonic = "affair produce retire north provide slim ivory moral cloth ride excess soldier";

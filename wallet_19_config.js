@@ -1,1 +1,1 @@
-var mnemonic = "apology patch border woman devote head syrup north bench time grid dog";
+var mnemonic = "little cattle little clown will bridge loop right autumn series harbor bag";

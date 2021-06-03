@@ -1,1 +1,1 @@
-var mnemonic = "east filter quiz exhaust stool jaguar edit hurdle zero spirit prison stereo";
+var mnemonic = "they rough tornado oven clown stove dune badge grace pipe battle crime";

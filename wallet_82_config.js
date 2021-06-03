@@ -1,1 +1,1 @@
-var mnemonic = "wave half forum between energy knee donate type boil mad vanish remove";
+var mnemonic = "north enough slot modify abuse common pool alert corn zoo exercise chaos";

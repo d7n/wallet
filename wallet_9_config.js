@@ -1,1 +1,1 @@
-var mnemonic = "match exercise glass alley hurry shoe soul sun such limit impact rare";
+var mnemonic = "unable loud snow safe control peace soccer fashion napkin quit giggle unlock";

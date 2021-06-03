@@ -1,1 +1,1 @@
-var mnemonic = "suffer develop limb idle cute again dog hold term old hint cabbage";
+var mnemonic = "test industry public twelve hood knock host column cry flock hero knock";

@@ -1,1 +1,1 @@
-var mnemonic = "video apart drama soup rotate region caught almost evoke around certain coach";
+var mnemonic = "sweet gate boss sound hidden veteran brand coast tank surprise group edit";

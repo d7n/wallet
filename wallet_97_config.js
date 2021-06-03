@@ -1,1 +1,1 @@
-var mnemonic = "supreme best silk stool accuse rich explain choice faint grape delay arena";
+var mnemonic = "prison merry paper sight dove feel best tumble payment parade flavor envelope";

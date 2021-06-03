@@ -1,1 +1,1 @@
-var mnemonic = "afraid empower blood other enact hood column creek vague begin caught tone";
+var mnemonic = "village skate rotate chief repeat blanket picnic source clean peasant position undo";

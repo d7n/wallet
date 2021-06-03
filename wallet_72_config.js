@@ -1,1 +1,1 @@
-var mnemonic = "fabric lava style hawk raw dice weekend forget blossom direct sudden beauty";
+var mnemonic = "honey view naive supreme boat risk dentist inject jar cup simple arrive";

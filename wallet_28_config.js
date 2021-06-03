@@ -1,1 +1,1 @@
-var mnemonic = "swap earth shoe welcome evil ketchup food excite measure gossip say snake";
+var mnemonic = "grid decide foil double disorder sand curtain candy slow appear face inner";

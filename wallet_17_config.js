@@ -1,1 +1,1 @@
-var mnemonic = "deer advance shell minimum hunt machine negative comic saddle bean shallow zoo";
+var mnemonic = "blade food laundry useful maple trade robust toy village wagon curve exercise";

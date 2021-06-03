@@ -1,1 +1,1 @@
-var mnemonic = "local sentence spirit demise inmate worth stay whisper apart later chapter reveal";
+var mnemonic = "now transfer bicycle rich six water alert laptop grape ladder ranch appear";

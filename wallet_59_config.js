@@ -1,1 +1,1 @@
-var mnemonic = "capable medal involve dragon canoe provide glad mix little catalog enroll swift";
+var mnemonic = "river cliff token inspire already record duty crumble soap february change west";

@@ -1,1 +1,1 @@
-var mnemonic = "popular deposit pyramid column impulse annual noble elbow venue tenant cheap report";
+var mnemonic = "risk into magic citizen quiz vapor indicate fitness fiction bid idle keen";

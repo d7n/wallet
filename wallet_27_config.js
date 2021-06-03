@@ -1,1 +1,1 @@
-var mnemonic = "bottom ramp limit sting finish bracket jewel entire just bird kick swim";
+var mnemonic = "boil find bid reflect dove middle soup across glass alpha vacuum call";

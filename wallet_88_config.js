@@ -1,1 +1,1 @@
-var mnemonic = "weekend balcony supreme toy figure glove measure essence million alpha grant sibling";
+var mnemonic = "top bar fabric trophy victory soon praise curtain example jazz local blade";

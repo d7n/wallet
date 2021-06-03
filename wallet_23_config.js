@@ -1,1 +1,1 @@
-var mnemonic = "toe deputy merit roof flush floor banner cloth response extend tired bicycle";
+var mnemonic = "core impose silly ask float food become layer observe urge angle unique";

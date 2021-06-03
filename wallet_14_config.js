@@ -1,1 +1,1 @@
-var mnemonic = "exercise creek sea please snake length museum monster frozen math trend donate";
+var mnemonic = "shy glance cream proof siege mixture noodle escape glide piece fresh today";

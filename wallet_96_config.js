@@ -1,1 +1,1 @@
-var mnemonic = "coin hamster knee screen lake system age anxiety right figure zoo resist";
+var mnemonic = "diamond unusual tired drink flower solar wood visit desert art life add";

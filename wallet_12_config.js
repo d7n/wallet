@@ -1,1 +1,1 @@
-var mnemonic = "advance mouse light one nice ticket unknown denial venue gown nerve poem";
+var mnemonic = "leg help summer swift program palm saddle absorb slush rescue gravity throw";

@@ -1,1 +1,1 @@
-var mnemonic = "civil upset wheat harvest evoke fancy badge lottery file cheese father ball";
+var mnemonic = "target humor moment concert trend link avoid verb fee awkward cash police";

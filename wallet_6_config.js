@@ -1,1 +1,1 @@
-var mnemonic = "galaxy jealous spawn diagram copper cricket sure trip nasty goat live giraffe";
+var mnemonic = "charge stamp calm shy render tape proud coach decade theory frog spider";

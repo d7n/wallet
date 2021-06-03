@@ -1,1 +1,1 @@
-var mnemonic = "garage onion solar sunset mansion render rug slow frost describe guess hazard";
+var mnemonic = "hold review wasp embrace spend salute olympic wear slab paddle cricket else";

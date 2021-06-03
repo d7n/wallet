@@ -1,1 +1,1 @@
-var mnemonic = "scatter angry mango misery more alarm hunt business snow since debris uphold";
+var mnemonic = "blur valid define cup puzzle grief apple club pave click bicycle humble";

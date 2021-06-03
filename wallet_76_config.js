@@ -1,1 +1,1 @@
-var mnemonic = "merge cram side theme work prize insane chat clap fame pony basket";
+var mnemonic = "apart young hope toddler modify together click genuine sand affair happy dentist";

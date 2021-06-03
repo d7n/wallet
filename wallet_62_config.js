@@ -1,1 +1,1 @@
-var mnemonic = "wet jump amateur bridge jeans sound beauty glance parrot pretty walk creek";
+var mnemonic = "enter nurse swing cupboard again limb book sea general layer metal coffee";

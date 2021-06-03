@@ -1,1 +1,1 @@
-var mnemonic = "among one strike town rose raven alert envelope document rib drip bachelor";
+var mnemonic = "list seat genre skull ceiling crunch lonely benefit dress left coral fetch";

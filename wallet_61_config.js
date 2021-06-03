@@ -1,1 +1,1 @@
-var mnemonic = "castle myself tube couch awesome length yard cherry fiction kid prison apology";
+var mnemonic = "cage palace tower deny post renew gown remain drip account tone suit";

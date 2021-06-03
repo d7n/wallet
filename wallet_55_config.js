@@ -1,1 +1,1 @@
-var mnemonic = "sun nuclear auto update erase hood stove february ugly depth tourist fire";
+var mnemonic = "matrix foster carpet hour satoshi fruit judge alley possible flee fiber swamp";

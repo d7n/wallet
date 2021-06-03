@@ -1,1 +1,1 @@
-var mnemonic = "speak inmate west hollow mammal swear snack dune trend sustain ritual noodle";
+var mnemonic = "school include trap siege beyond worth enroll limit wire night exit already";

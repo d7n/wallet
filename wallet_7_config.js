@@ -1,1 +1,1 @@
-var mnemonic = "swap sorry simple stay vault detail behave own amount unfair actual garlic";
+var mnemonic = "frame slush myself pair juice shallow upgrade scale enough grow social base";

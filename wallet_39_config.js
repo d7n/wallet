@@ -1,1 +1,1 @@
-var mnemonic = "mercy melody soup protect another coral sound slam rapid aunt steak domain";
+var mnemonic = "aerobic display cattle basket announce stereo interest doll embrace project flock mixture";

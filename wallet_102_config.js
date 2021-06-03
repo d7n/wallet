@@ -1,1 +1,1 @@
-var mnemonic = "upper tool involve vessel relief exact tissue seven panda dilemma before mule";
+var mnemonic = "utility swim bracket hip draft stomach debris expose mask list trial army";

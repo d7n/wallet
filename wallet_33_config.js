@@ -1,1 +1,1 @@
-var mnemonic = "file enforce talk kiwi depart prepare prosper type ivory planet exhaust angle";
+var mnemonic = "network word sad eye peace hour glide fork derive upon buffalo grant";

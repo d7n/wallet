@@ -1,1 +1,1 @@
-var mnemonic = "join follow honey page tone west street best bronze add boost fever";
+var mnemonic = "worry romance slender raven spoil ivory disease police economy venture journey fence";

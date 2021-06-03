@@ -1,1 +1,1 @@
-var mnemonic = "conduct habit loyal rapid control cause home medal empower win october analyst";
+var mnemonic = "daughter license ask seat jump able trigger hundred defy they report review";
