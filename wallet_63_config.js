@@ -1,1 +1,1 @@
-var mnemonic = "congress believe nose rookie lunch salad sail rocket reward maid ignore cigar";
+var mnemonic = "normal resemble advice pledge dirt divert upon shrimp pact arm struggle festival";

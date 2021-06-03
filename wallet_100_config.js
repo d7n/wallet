@@ -1,1 +1,1 @@
-var mnemonic = "item pilot defy vacuum retire judge voyage slight club glide surge husband";
+var mnemonic = "crouch poverty erase warm vessel siren kit enforce kitten casino pencil round";

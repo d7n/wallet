@@ -1,1 +1,1 @@
-var mnemonic = "glance company sponsor stone reveal lake gasp unveil denial weapon require error";
+var mnemonic = "tattoo sea smooth eager rate interest heart torch enough danger tube steel";

@@ -1,1 +1,1 @@
-var mnemonic = "call enforce tell hire extra scheme music attract unhappy blast effort twenty";
+var mnemonic = "peanut distance parent decrease picture fix list much notice omit volcano foot";

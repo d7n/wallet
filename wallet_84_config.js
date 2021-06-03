@@ -1,1 +1,1 @@
-var mnemonic = "gate knife wheat system shy stage harvest inch absurd fox miracle guard";
+var mnemonic = "latin busy false swift language flash pigeon depth brief flag donkey tiny";

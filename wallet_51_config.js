@@ -1,1 +1,1 @@
-var mnemonic = "anger bone skin palace tiny broom venture tonight symbol acquire derive piano";
+var mnemonic = "clutch wool steel fork brown random initial grief sausage slice you riot";

@@ -1,1 +1,1 @@
-var mnemonic = "topple vibrant series trumpet various suffer diet glue absent expect couple enemy";
+var mnemonic = "vault uncover lucky fever scatter poem couch thumb sell delay mind cinnamon";

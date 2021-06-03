@@ -1,1 +1,1 @@
-var mnemonic = "myself sleep endorse base almost add screen rail wedding artwork isolate secret";
+var mnemonic = "cabin famous grid adapt pear mass define close recipe card immune live";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic version health jar soap frame wing asthma render wet vendor barrel";
+var mnemonic = "dentist quantum bind all region safe fog coin usual emerge consider ship";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion theory toe globe bacon wash rocket cute exhibit brass wall rabbit";
+var mnemonic = "grass rug fresh grocery fiber tooth turn neither second brave seven monitor";

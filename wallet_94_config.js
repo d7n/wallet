@@ -1,1 +1,1 @@
-var mnemonic = "doll index enjoy fault man credit direct warrior piano merge mule number";
+var mnemonic = "perfect estate try suffer before car name derive spy initial author final";

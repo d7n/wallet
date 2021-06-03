@@ -1,1 +1,1 @@
-var mnemonic = "gain fossil symptom scrub range kite ask banana mandate coral palm use";
+var mnemonic = "hire debate okay absent cabin universe nasty vocal unusual chapter citizen lock";

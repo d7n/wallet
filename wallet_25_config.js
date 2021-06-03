@@ -1,1 +1,1 @@
-var mnemonic = "replace afford display book gloom pioneer ready write snack badge present warfare";
+var mnemonic = "example able biology scorpion slender job melody leopard goat lift ocean laundry";

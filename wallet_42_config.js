@@ -1,1 +1,1 @@
-var mnemonic = "submit butter barrel fantasy dirt change tunnel west obtain fringe novel dose";
+var mnemonic = "pupil impulse soda party jaguar addict wage gun lava puppy emotion pattern";

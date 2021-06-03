@@ -1,1 +1,1 @@
-var mnemonic = "work tissue narrow water chronic fatal clean fuel silent balance isolate crime";
+var mnemonic = "flat leader mother hybrid basket shift squirrel glory planet concert vintage drop";

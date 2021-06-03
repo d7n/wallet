@@ -1,1 +1,1 @@
-var mnemonic = "stick price blind focus kick among nasty venue pen razor toast mistake";
+var mnemonic = "soccer person soap west aerobic movie skill art finish way ocean cousin";

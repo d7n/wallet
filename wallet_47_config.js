@@ -1,1 +1,1 @@
-var mnemonic = "pause accuse scissors lawn title march desk easy police gossip youth wise";
+var mnemonic = "cool reflect vault outside very regret staff own flat throw abandon penalty";

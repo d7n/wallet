@@ -1,1 +1,1 @@
-var mnemonic = "sound student yellow crazy walnut sponsor success dove lazy cricket garage daring";
+var mnemonic = "miss october fringe party arrive abstract between brief piano trumpet wire fold";

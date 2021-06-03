@@ -1,1 +1,1 @@
-var mnemonic = "napkin mosquito tongue enroll finger balance main crisp future ability record scheme";
+var mnemonic = "uphold absent urge govern direct cool broccoli lunar assist result subject around";

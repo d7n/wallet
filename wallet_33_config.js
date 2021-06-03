@@ -1,1 +1,1 @@
-var mnemonic = "they stock old process announce famous maple urge flat win aunt autumn";
+var mnemonic = "eye pair success fence supreme quantum puzzle cover olympic surround brand neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "parent slow primary home little chase fringe army door turn smart dilemma";
+var mnemonic = "swing check impose wheel tomato item violin hero volcano during fence drive";

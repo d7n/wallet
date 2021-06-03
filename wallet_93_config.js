@@ -1,1 +1,1 @@
-var mnemonic = "metal noise rapid vapor track pupil advance reopen buzz grab atom raise";
+var mnemonic = "upon excess rule boat recipe banner neither capital fresh tank tell loyal";

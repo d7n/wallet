@@ -1,1 +1,1 @@
-var mnemonic = "stairs aim pave winner whale kit mask valley layer script episode abuse";
+var mnemonic = "dream extend garden flight armed shaft topic art eyebrow obtain light define";

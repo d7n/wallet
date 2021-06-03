@@ -1,1 +1,1 @@
-var mnemonic = "injury blur when speak render warm six fat squirrel mobile reward guide";
+var mnemonic = "powder subject laundry chunk wheel across rich inject soap grief hollow point";

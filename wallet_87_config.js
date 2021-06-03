@@ -1,1 +1,1 @@
-var mnemonic = "coast hover season photo lottery common rigid glance rescue luggage manual faith";
+var mnemonic = "crane flame upgrade hotel already distance priority enhance view leaf update liberty";

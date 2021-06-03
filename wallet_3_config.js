@@ -1,1 +1,1 @@
-var mnemonic = "cause scan mountain snow elbow phrase prize army husband unveil home employ";
+var mnemonic = "shoulder earth online panic craft seminar layer blanket bone liar neutral collect";

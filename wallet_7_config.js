@@ -1,1 +1,1 @@
-var mnemonic = "hungry pave town vague recall letter catch violin quality learn scorpion else";
+var mnemonic = "brief record frog inject catch glass hope ghost bread emotion elbow warfare";

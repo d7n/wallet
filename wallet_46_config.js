@@ -1,1 +1,1 @@
-var mnemonic = "scheme used myth smart crucial enough volcano decide jar slender join material";
+var mnemonic = "bamboo scorpion language actor just rain school govern cover utility wink flag";

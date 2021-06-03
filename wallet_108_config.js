@@ -1,1 +1,1 @@
-var mnemonic = "avoid ensure prepare october physical panic student scissors object ability connect resource";
+var mnemonic = "omit angle today force dove differ fee beach trade pledge bullet trumpet";

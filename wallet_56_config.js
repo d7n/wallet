@@ -1,1 +1,1 @@
-var mnemonic = "quiz observe recycle job tip task stage upset fiber theory popular tent";
+var mnemonic = "hire before random chat walnut board gauge weekend discover bomb curve melt";

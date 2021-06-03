@@ -1,1 +1,1 @@
-var mnemonic = "achieve coconut energy butter retire decline educate gain ordinary end dizzy help";
+var mnemonic = "minor tragic ask solar hen female way stereo undo misery kitten depart";

@@ -1,1 +1,1 @@
-var mnemonic = "alley usage employ obtain deer scene toward habit develop bid umbrella material";
+var mnemonic = "use mask total retreat tide lunar tiny crane payment scissors pill later";

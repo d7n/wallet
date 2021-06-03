@@ -1,1 +1,1 @@
-var mnemonic = "service robot alert asthma uniform inject swap purchase sniff seed wool hybrid";
+var mnemonic = "grab elephant depart leader list describe staff coil enlist guitar girl front";

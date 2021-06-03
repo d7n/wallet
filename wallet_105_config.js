@@ -1,1 +1,1 @@
-var mnemonic = "spend page sand swarm engine famous sister brain clarify million sadness just";
+var mnemonic = "board rebuild unveil shiver wall bottom glide bulb stay mother verify lift";

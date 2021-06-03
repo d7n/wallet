@@ -1,1 +1,1 @@
-var mnemonic = "vanish stay gadget spy satoshi cliff soccer insane despair welcome pool fence";
+var mnemonic = "picnic seven frozen inner change waste result impulse risk account famous artefact";

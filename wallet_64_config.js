@@ -1,1 +1,1 @@
-var mnemonic = "father brand amateur razor common gap close gasp comfort ketchup analyst radio";
+var mnemonic = "verb spider canoe bullet empty curve approve truck brother magic fire neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "curious super multiply need craft now puppy blade arrest theory type phrase";
+var mnemonic = "mountain false rigid live cream because power orient doll final cake whale";

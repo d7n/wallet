@@ -1,1 +1,1 @@
-var mnemonic = "warrior girl guitar husband orchard essence order half breeze diesel lottery calm";
+var mnemonic = "rural clerk smooth inquiry green escape blind lyrics bacon quick olympic bring";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon report feature erosion hungry picnic crash victory drum weird victory eager";
+var mnemonic = "whisper harvest baby tail dolphin economy mass describe rifle slot angle proud";

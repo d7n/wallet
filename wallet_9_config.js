@@ -1,1 +1,1 @@
-var mnemonic = "digital layer cliff mandate jungle appear tree question dress typical trim pull";
+var mnemonic = "engage gadget armed resemble brave habit bike rebel laptop radar captain immense";

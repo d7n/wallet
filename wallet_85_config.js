@@ -1,1 +1,1 @@
-var mnemonic = "fitness buzz hill pipe senior anger blur orange coil grocery claw upper";
+var mnemonic = "code license average ski fee olive ugly busy window crisp trick giant";

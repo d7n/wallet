@@ -1,1 +1,1 @@
-var mnemonic = "disease busy wild rocket core auto unknown place among wreck cupboard square";
+var mnemonic = "woman seed peasant order lunar report cereal manage cube birth amateur share";

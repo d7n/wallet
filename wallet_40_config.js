@@ -1,1 +1,1 @@
-var mnemonic = "random cruel hero mechanic quick hen actress uphold move thumb erupt mosquito";
+var mnemonic = "laptop tape cry target stereo pulse weather table web abstract tip script";

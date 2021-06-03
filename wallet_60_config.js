@@ -1,1 +1,1 @@
-var mnemonic = "mushroom laugh rifle wisdom birth power equip outside piano quit cheese brisk";
+var mnemonic = "canal walk west mistake donkey true segment drive smoke dismiss meat number";

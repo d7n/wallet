@@ -1,1 +1,1 @@
-var mnemonic = "fog neutral circle plastic dial speed junk cruel trick vacuum stage taxi";
+var mnemonic = "refuse switch mimic start track what notice clock swallow open pair weekend";

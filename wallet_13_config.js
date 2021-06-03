@@ -1,1 +1,1 @@
-var mnemonic = "girl asset sorry story donor float sleep march pull add body junior";
+var mnemonic = "thrive student prefer feature success exit unveil start timber coast saddle vessel";

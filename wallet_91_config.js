@@ -1,1 +1,1 @@
-var mnemonic = "cup shallow usual across suggest gasp olive engine absorb upset pear vivid";
+var mnemonic = "slide vicious pledge race curtain chimney diary cup enough lounge nut blade";

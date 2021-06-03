@@ -1,1 +1,1 @@
-var mnemonic = "shy culture canoe avocado convince brave nurse glory recall analyst during case";
+var mnemonic = "wealth link drastic soccer cinnamon discover have run true pole adult action";

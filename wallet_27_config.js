@@ -1,1 +1,1 @@
-var mnemonic = "mutual allow muffin vehicle change lock fuel analyst weird sketch slot woman";
+var mnemonic = "poverty rose address cover turkey arm nephew slow hard pact erode track";

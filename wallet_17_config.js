@@ -1,1 +1,1 @@
-var mnemonic = "sock danger either gadget invite annual casino sad room sight conduct siren";
+var mnemonic = "taste snack whip sibling asthma hire submit return maple damage truth pink";

@@ -1,1 +1,1 @@
-var mnemonic = "step daring suspect either must auto must damp liar riot brass never";
+var mnemonic = "design disease large dirt exotic leisure laugh spare scissors crazy sample inch";

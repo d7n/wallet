@@ -1,1 +1,1 @@
-var mnemonic = "grow liquid bike waste file lava oval identify reward carpet glad return";
+var mnemonic = "tackle safe black holiday label cage report funny juice question kingdom cute";

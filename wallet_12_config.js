@@ -1,1 +1,1 @@
-var mnemonic = "position another poet paper ketchup muffin process melt steak monitor blush extend";
+var mnemonic = "fluid arrange bubble ripple furnace issue energy verify bubble remember deposit nasty";

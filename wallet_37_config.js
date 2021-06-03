@@ -1,1 +1,1 @@
-var mnemonic = "husband false artefact pear era hybrid library deputy noodle fame drip test";
+var mnemonic = "car hen actual snap turkey uncover turn document kind similar column thrive";

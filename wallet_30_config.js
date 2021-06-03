@@ -1,1 +1,1 @@
-var mnemonic = "plate way door squeeze solid comfort forget shift grunt allow harbor shrug";
+var mnemonic = "unit fiscal dash anxiety cabin regular room bar hat year fine cost";

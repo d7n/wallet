@@ -1,1 +1,1 @@
-var mnemonic = "hundred lunar suffer move bamboo craft thumb flame permit spatial throw catalog";
+var mnemonic = "similar common veteran frequent enroll bulb suffer cruise engage scorpion fever art";

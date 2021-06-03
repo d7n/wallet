@@ -1,1 +1,1 @@
-var mnemonic = "monkey cinnamon logic seed flush height run toilet enrich road random laundry";
+var mnemonic = "fitness discover valid matrix holiday budget entire bread tray bomb vacuum marble";

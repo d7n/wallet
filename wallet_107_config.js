@@ -1,1 +1,1 @@
-var mnemonic = "spring frozen ladder similar this mirror know hat orbit tip nurse dignity";
+var mnemonic = "cinnamon patrol crop ski illegal promote online tell couple people roof often";

@@ -1,1 +1,1 @@
-var mnemonic = "together hungry rib deny panic garden oppose license wrist aspect daring prefer";
+var mnemonic = "artefact access huge castle income liberty situate width trial fuel clap day";

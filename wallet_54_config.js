@@ -1,1 +1,1 @@
-var mnemonic = "clay rocket dynamic weapon vault shift tool bridge ketchup pony miss try";
+var mnemonic = "upgrade topic away industry ostrich section group course caught play chunk brown";

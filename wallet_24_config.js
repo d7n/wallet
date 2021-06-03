@@ -1,1 +1,1 @@
-var mnemonic = "capable swift permit stove stove inflict success diagram bean hollow example tower";
+var mnemonic = "foster erupt evolve link peace giant cook course guide huge leave device";

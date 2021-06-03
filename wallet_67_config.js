@@ -1,1 +1,1 @@
-var mnemonic = "walnut assault jaguar imitate hen grape evil quote chaos recipe endorse valley";
+var mnemonic = "melody success hold live fog venue toilet juice cargo oil salad evil";

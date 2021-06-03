@@ -1,1 +1,1 @@
-var mnemonic = "casual gift injury wire mad trim wagon lazy parrot kiss desk police";
+var mnemonic = "canyon zone skate van until hill knife acquire grief police ensure light";

@@ -1,1 +1,1 @@
-var mnemonic = "mango same much spice device luggage better pottery sick burst sphere regular";
+var mnemonic = "fiction silly camp card tip ancient claw young load strategy rabbit coconut";

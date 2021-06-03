@@ -1,1 +1,1 @@
-var mnemonic = "report crack nose patient pony laundry hungry laugh never custom cliff length";
+var mnemonic = "weasel forward purpose know time find forum album physical general drip lawn";

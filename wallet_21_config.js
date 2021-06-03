@@ -1,1 +1,1 @@
-var mnemonic = "accuse tip clever today arrange club siren anxiety ill marble cancel advance";
+var mnemonic = "rib delay arrive hollow state weapon lady cigar tornado laugh wrist volcano";

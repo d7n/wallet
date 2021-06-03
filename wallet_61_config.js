@@ -1,1 +1,1 @@
-var mnemonic = "puzzle scrap myth napkin snake dry defense nature carbon street nurse blade";
+var mnemonic = "wish fame axis salute wing silly penalty tribe timber merry pen abstract";

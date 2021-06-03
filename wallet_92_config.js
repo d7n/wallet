@@ -1,1 +1,1 @@
-var mnemonic = "kiwi capable parade empower summer pretty legend all choice asthma habit salon";
+var mnemonic = "mother sweet stomach copy cake blood adapt above infant process prosper ahead";

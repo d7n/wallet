@@ -1,1 +1,1 @@
-var mnemonic = "honey wool initial secret kit lazy option gym offer same arch mosquito";
+var mnemonic = "side chair recycle give damage source plunge bitter alert elevator picnic fan";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate emerge throw rose pencil library protect stage smile habit engine march";
+var mnemonic = "hen income demand december shield rib pave devote slot swim this prepare";

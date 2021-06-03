@@ -1,1 +1,1 @@
-var mnemonic = "parent tail sock expose fold forget trial mixed noble weather flee solution";
+var mnemonic = "camera blind script tent medal help onion build loud giant record reason";

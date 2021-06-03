@@ -1,1 +1,1 @@
-var mnemonic = "inflict final track ensure leader pudding loan buzz work grass maid zone";
+var mnemonic = "yard ceiling elephant strike alter steel album dog fault north ivory receive";

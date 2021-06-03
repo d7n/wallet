@@ -1,1 +1,1 @@
-var mnemonic = "before mix child original rotate sorry casino bike silver meadow box since";
+var mnemonic = "crowd plunge sword coin size expire age remove lunch blue replace wire";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble sister clean side staff room remain soap evil bean sentence globe";
+var mnemonic = "detail simple shoot visit donor cave three turtle able item spice erode";

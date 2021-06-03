@@ -1,1 +1,1 @@
-var mnemonic = "upon enjoy train sword there audit answer town glare attract group honey";
+var mnemonic = "flat someone talent baby margin crucial waste plate desert stay vicious advice";

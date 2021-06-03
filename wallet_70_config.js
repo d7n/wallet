@@ -1,1 +1,1 @@
-var mnemonic = "end illegal raw today legal average lava install hamster lobster crane coyote";
+var mnemonic = "vanish buzz route viable salon neck broccoli blush abuse decade chimney shoe";

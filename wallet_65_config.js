@@ -1,1 +1,1 @@
-var mnemonic = "slight denial chicken enable coil ice burst shoot pulse stomach peanut live";
+var mnemonic = "tower season say bright erosion bicycle sugar drop govern lunch rebel alarm";

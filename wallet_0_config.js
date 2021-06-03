@@ -1,1 +1,1 @@
-var mnemonic = "include link snow picnic spray toy skirt area rib habit lock about";
+var mnemonic = "someone trap crowd divorce script stem fun museum nut supply quarter laugh";

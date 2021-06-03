@@ -1,1 +1,1 @@
-var mnemonic = "language sentence crucial fitness move flock nation action grape saddle room power";
+var mnemonic = "imitate corn twice hospital hole rail bonus acid always couch banner index";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing jelly force credit client music quarter clean van dad badge eye";
+var mnemonic = "problem inflict tattoo comic soup fluid immense left grain salt cargo cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "primary solve cable ski proud potato weasel lion woman popular learn master";
+var mnemonic = "duck punch skate veteran picnic tortoise target sister found behave farm spend";

@@ -1,1 +1,1 @@
-var mnemonic = "peace syrup shine drive lock volcano morning federal resist pelican luxury begin";
+var mnemonic = "song chunk cupboard inside regret repair minimum crucial pipe plunge buffalo better";

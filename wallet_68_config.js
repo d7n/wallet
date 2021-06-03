@@ -1,1 +1,1 @@
-var mnemonic = "box domain author vibrant trade captain train height fish into peanut fan";
+var mnemonic = "return pear debris hawk skill afford myth stamp yard glad script ice";

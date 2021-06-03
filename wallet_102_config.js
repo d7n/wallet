@@ -1,1 +1,1 @@
-var mnemonic = "deny lift type bring result solid journey bulb fence rapid panic medal";
+var mnemonic = "box local liquid alone giggle midnight else width pond message tiny rally";

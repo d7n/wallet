@@ -1,1 +1,1 @@
-var mnemonic = "either exhibit airport eagle banner neglect organ order canyon junk boy huge";
+var mnemonic = "evoke file oil network taste slim response calm case mail garment drum";

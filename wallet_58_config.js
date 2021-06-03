@@ -1,1 +1,1 @@
-var mnemonic = "globe orchard dumb traffic march system again quarter derive immense attitude around";
+var mnemonic = "captain cruel cloud path social twist minor lift illegal curtain kick amazing";
