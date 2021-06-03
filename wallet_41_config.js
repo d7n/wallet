@@ -1,1 +1,1 @@
-var mnemonic = "steel cry dove truly nuclear spray visa pledge december claw border critic";
+var mnemonic = "fossil patient praise hand proof afford fantasy donate lawsuit spend traffic gasp";

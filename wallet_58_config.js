@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bubble apple coach silk teach exclude donate pony luggage consider dawn";
+var mnemonic = "whisper say crucial betray goddess story cliff own rhythm girl dizzy silk";

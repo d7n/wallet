@@ -1,1 +1,1 @@
-var mnemonic = "endorse kitchen elder frog cat aunt scheme duck primary vendor sample female";
+var mnemonic = "antenna demise boost vital pond improve palace seed flower risk ticket height";

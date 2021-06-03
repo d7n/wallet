@@ -1,1 +1,1 @@
-var mnemonic = "science beyond buzz enlist boil father stomach actress planet brisk dice road";
+var mnemonic = "sure tragic repair target vague demand royal fury whisper occur prison harvest";

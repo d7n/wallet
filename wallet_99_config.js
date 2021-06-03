@@ -1,1 +1,1 @@
-var mnemonic = "live echo drastic spider pudding cycle hawk combine raven once sad hurdle";
+var mnemonic = "angle nature curve globe library three depend divide sausage stand oppose diamond";

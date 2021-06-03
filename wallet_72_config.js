@@ -1,1 +1,1 @@
-var mnemonic = "mammal allow camera scrap climb butter obscure day uniform wave tool helmet";
+var mnemonic = "cube nose safe feature common movie skin elephant element home hint joy";

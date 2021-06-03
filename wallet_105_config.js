@@ -1,1 +1,1 @@
-var mnemonic = "hotel dust bulk mixture useless picnic glimpse book cruise attitude practice witness";
+var mnemonic = "year destroy rookie fat sunset unique torch bid soda today area quick";

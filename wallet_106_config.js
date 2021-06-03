@@ -1,1 +1,1 @@
-var mnemonic = "fee either bone game struggle hobby expose egg depth prize people own";
+var mnemonic = "east ready sketch peasant ten notable pattern rotate clock pilot margin minute";

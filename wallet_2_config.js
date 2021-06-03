@@ -1,1 +1,1 @@
-var mnemonic = "notice chest stove enforce advice since draw catch view future hen embark";
+var mnemonic = "upper agent topple chase copy owner rescue aunt gate slogan scare rate";

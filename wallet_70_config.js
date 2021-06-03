@@ -1,1 +1,1 @@
-var mnemonic = "solar typical aunt female situate brass bless square material sell crush film";
+var mnemonic = "write gate humor mistake impose sustain second glove rose sustain net nest";

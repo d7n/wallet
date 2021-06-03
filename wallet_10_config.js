@@ -1,1 +1,1 @@
-var mnemonic = "rude evoke state session cereal cattle average grape quality leader sense pyramid";
+var mnemonic = "useless minimum employ proof heavy service logic state nothing start suspect siege";

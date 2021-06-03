@@ -1,1 +1,1 @@
-var mnemonic = "analyst purse label oppose wear tank alarm silly tornado search snow mimic";
+var mnemonic = "slogan trim room market maple run village clip butter depart confirm point";

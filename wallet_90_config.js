@@ -1,1 +1,1 @@
-var mnemonic = "knee license zone nation road bench romance gossip sunny uncle reject uniform";
+var mnemonic = "thumb enforce energy diet health evil atom parrot toast roast unaware scatter";

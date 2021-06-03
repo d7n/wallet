@@ -1,1 +1,1 @@
-var mnemonic = "mask fiscal blood drink ghost cash stick kitten stadium patient mad boil";
+var mnemonic = "spoil help warrior blue yellow grocery fossil father brick limit sword tide";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion deny air claim matrix board youth suit absurd legend fabric lonely";
+var mnemonic = "twelve trap mean under satoshi artefact wealth sunset eternal can cheese beef";

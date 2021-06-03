@@ -1,1 +1,1 @@
-var mnemonic = "tray near hybrid excite disorder subject act again love vintage entry wet";
+var mnemonic = "ugly script hub poverty mandate cigar type logic excess gravity toe chuckle";

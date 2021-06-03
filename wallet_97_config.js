@@ -1,1 +1,1 @@
-var mnemonic = "soap guess gun fresh goat travel clap swing strike oil urban practice";
+var mnemonic = "fun increase analyst diesel live ice time under sound wide action case";

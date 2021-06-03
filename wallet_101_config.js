@@ -1,1 +1,1 @@
-var mnemonic = "absorb claim pill jazz near envelope oxygen purpose depth auto border matter";
+var mnemonic = "curve gun team describe jazz bronze trumpet step beef impact flush rude";

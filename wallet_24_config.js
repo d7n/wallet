@@ -1,1 +1,1 @@
-var mnemonic = "romance goddess wage flag alcohol derive local quote tackle shell smile very";
+var mnemonic = "medal color traffic panther type amused cream spot country holiday share silk";

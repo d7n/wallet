@@ -1,1 +1,1 @@
-var mnemonic = "cram spike donor service meadow concert cause food agent remember meat lucky";
+var mnemonic = "barrel advance foot bitter luxury garbage private entry series elevator brown trouble";

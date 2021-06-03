@@ -1,1 +1,1 @@
-var mnemonic = "hazard move fog hurry quote license boost setup exhaust december area dream";
+var mnemonic = "glory budget turn repair aisle please chief lion keep cross burger more";

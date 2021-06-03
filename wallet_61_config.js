@@ -1,1 +1,1 @@
-var mnemonic = "craft verb grass discover tilt people pepper hope opera gravity wet number";
+var mnemonic = "visit midnight admit immense weekend view define agree rural moon attend desk";

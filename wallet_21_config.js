@@ -1,1 +1,1 @@
-var mnemonic = "over trust gallery habit moment swear wine adult there floor model program";
+var mnemonic = "right width discover rent ignore pattern walk about eager cushion vicious struggle";

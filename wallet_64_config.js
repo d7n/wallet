@@ -1,1 +1,1 @@
-var mnemonic = "body visa crash develop fetch spoon october ghost antenna peace robust brisk";
+var mnemonic = "actual junior aunt promote kidney wild anger garbage twice negative spoon curtain";

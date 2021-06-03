@@ -1,1 +1,1 @@
-var mnemonic = "hover dream attack sea awake turn sudden dignity make toss glow fabric";
+var mnemonic = "wall little clown pause cage letter adult time equip novel winner harbor";

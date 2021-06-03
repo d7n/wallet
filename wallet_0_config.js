@@ -1,1 +1,1 @@
-var mnemonic = "address favorite body better gold ignore draft sound sun abuse cycle year";
+var mnemonic = "hedgehog sock siren dune trap target border grace shaft insect across fancy";

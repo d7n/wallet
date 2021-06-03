@@ -1,1 +1,1 @@
-var mnemonic = "into firm inhale staff solid bar maximum head act group sock chief";
+var mnemonic = "affair taxi style over canal rich panel cook onion deliver ask clay";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing program level priority victory senior thrive hand donor fantasy joke cash";
+var mnemonic = "assault way lift balcony dust skull latin vague stock rabbit absorb manual";

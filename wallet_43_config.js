@@ -1,1 +1,1 @@
-var mnemonic = "evoke victory post feed march coin broom code fade chief rain champion";
+var mnemonic = "slide slogan rice animal best topic teach view sleep black venture pistol";

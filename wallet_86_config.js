@@ -1,1 +1,1 @@
-var mnemonic = "forest remain film web harvest family eagle episode female nice permit make";
+var mnemonic = "bike will kit ignore pipe champion inhale west wedding say desert organ";

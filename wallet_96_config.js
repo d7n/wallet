@@ -1,1 +1,1 @@
-var mnemonic = "bar early expect term cereal debris audit print bright sugar before tuition";
+var mnemonic = "meat trumpet that sport tackle ability host spatial stool orient coast nation";

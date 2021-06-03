@@ -1,1 +1,1 @@
-var mnemonic = "nut post quarter one beef brain verb jewel large differ know pretty";
+var mnemonic = "drama tuna horse name favorite globe bring baby reunion story horror feature";

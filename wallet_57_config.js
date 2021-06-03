@@ -1,1 +1,1 @@
-var mnemonic = "index target rate embrace divorce actor enable chapter lyrics slogan print quote";
+var mnemonic = "home knife tackle kind deliver rural tired kangaroo license sure mass point";

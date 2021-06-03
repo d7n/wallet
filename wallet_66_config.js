@@ -1,1 +1,1 @@
-var mnemonic = "scare school much calm pledge video idle oven civil eight before south";
+var mnemonic = "beach steel day enact portion lunar volume hundred tackle cheap barrel embark";

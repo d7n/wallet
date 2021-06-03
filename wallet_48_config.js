@@ -1,1 +1,1 @@
-var mnemonic = "stamp diary vessel pelican salad parent spatial spend kind that upset giggle";
+var mnemonic = "wasp museum hard logic arch road include era tray answer quarter abstract";

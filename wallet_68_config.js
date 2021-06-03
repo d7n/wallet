@@ -1,1 +1,1 @@
-var mnemonic = "begin casino offer transfer earn gadget adjust profit end walnut drink cube";
+var mnemonic = "distance observe identify head defy monster vacant helmet trigger fade bless donor";

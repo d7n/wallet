@@ -1,1 +1,1 @@
-var mnemonic = "neither purpose horse note runway room nurse weather gossip memory paddle foam";
+var mnemonic = "cannon puppy antenna few across dwarf one fly axis coral phrase dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "solve where prevent thought custom wire enlist ghost post fiction grief brave";
+var mnemonic = "sword zone spy swap aspect slight digital float leave test popular grass";

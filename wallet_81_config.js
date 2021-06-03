@@ -1,1 +1,1 @@
-var mnemonic = "evidence token huge raise manual stem venue truck matter size normal hill";
+var mnemonic = "adapt primary off love record fence cousin fortune machine doll reveal drip";

@@ -1,1 +1,1 @@
-var mnemonic = "manual bacon shrimp need way snap agent banner connect custom velvet duck";
+var mnemonic = "cliff salt mercy opera hold auto notice begin scrap world dumb patrol";

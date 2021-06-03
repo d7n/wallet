@@ -1,1 +1,1 @@
-var mnemonic = "lend wood cave tissue approve spoil stool give pig undo civil slogan";
+var mnemonic = "option shallow train vital gospel fitness olympic reason february crime volume enter";

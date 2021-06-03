@@ -1,1 +1,1 @@
-var mnemonic = "raccoon cricket dish south tattoo warm west response erosion fiscal genre gold";
+var mnemonic = "address used useless gossip blind domain twist cave panic violin note soon";

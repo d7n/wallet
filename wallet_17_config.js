@@ -1,1 +1,1 @@
-var mnemonic = "future powder effort jungle shrug gate ensure middle antenna tent curve hero";
+var mnemonic = "document response crush walk sibling blur affair bubble possible core family thank";

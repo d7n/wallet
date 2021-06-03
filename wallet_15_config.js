@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hidden rigid provide minimum permit model oblige hobby tell trophy six";
+var mnemonic = "able music right theory axis snake video chest orchard soccer air option";

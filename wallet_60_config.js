@@ -1,1 +1,1 @@
-var mnemonic = "foot slam spot suggest doll assist grant animal oyster chat viable minor";
+var mnemonic = "police kangaroo lawn artefact staff apart sock fantasy glad tape chapter educate";

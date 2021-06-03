@@ -1,1 +1,1 @@
-var mnemonic = "food leisure mail poem honey inherit drift three repeat hockey dry pulse";
+var mnemonic = "sunny away system winner flip negative when liquid gown choice uphold clump";

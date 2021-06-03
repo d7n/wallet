@@ -1,1 +1,1 @@
-var mnemonic = "marriage orange table hospital secret foot dial attract slender kitchen steel style";
+var mnemonic = "wave carbon festival drill team diesel hazard cross ski cook verb burden";

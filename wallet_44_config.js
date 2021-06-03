@@ -1,1 +1,1 @@
-var mnemonic = "item wild tomorrow faculty stadium laugh fame category roof share fury tattoo";
+var mnemonic = "paddle lemon task mandate liberty pass remember balance short orient luxury gown";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon brass robust shaft tell salad avocado solve same toddler hotel labor";
+var mnemonic = "expand romance brother scale hub soccer slush margin slice hand purchase defense";

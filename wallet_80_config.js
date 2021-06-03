@@ -1,1 +1,1 @@
-var mnemonic = "various write sleep when live else broom veteran clever you always inspire";
+var mnemonic = "busy assault ring session breeze earn tunnel talent shell tomato hawk river";

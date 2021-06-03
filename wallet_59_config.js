@@ -1,1 +1,1 @@
-var mnemonic = "provide they spread wonder middle beyond guard retreat vault bulb direct general";
+var mnemonic = "receive amazing shell twenty alcohol person rack celery path illness swim glue";

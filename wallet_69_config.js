@@ -1,1 +1,1 @@
-var mnemonic = "correct cannon rebuild produce reunion vote raw provide rule east gift intact";
+var mnemonic = "excuse what oven equip another foam switch combine depend today erase soda";

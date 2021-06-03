@@ -1,1 +1,1 @@
-var mnemonic = "clarify tray length winner blame account tank film female favorite tell absorb";
+var mnemonic = "gossip wolf require toward primary street raven actual demand secret vendor crucial";

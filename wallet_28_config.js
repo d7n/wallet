@@ -1,1 +1,1 @@
-var mnemonic = "unique talent unknown also attend lonely august cry paper spy visit enhance";
+var mnemonic = "busy bread double march fringe joke immense call board foot impact plate";

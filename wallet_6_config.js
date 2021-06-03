@@ -1,1 +1,1 @@
-var mnemonic = "enrich latin want material erase auction robot inspire peasant thrive rough moral";
+var mnemonic = "horse onion food sword crew south bar north deer ship box crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain kick review pink motor fitness have win during panel face arrange";
+var mnemonic = "prison shoe grief pause clump wolf public one hat fog lend fresh";

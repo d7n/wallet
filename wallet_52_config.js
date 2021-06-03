@@ -1,1 +1,1 @@
-var mnemonic = "will mule farm limit flip denial before guess debate rubber cook valid";
+var mnemonic = "tornado bachelor reopen salon symptom fee bus video dry artwork vessel mixture";

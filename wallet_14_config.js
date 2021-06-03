@@ -1,1 +1,1 @@
-var mnemonic = "liberty ozone able shoot boring entire faculty frost universe luxury trumpet yellow";
+var mnemonic = "grape miss baby this inquiry black flame test noise cage square exhibit";

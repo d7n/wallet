@@ -1,1 +1,1 @@
-var mnemonic = "color identify aunt subject area trophy bundle immense relax mind sniff resist";
+var mnemonic = "zero segment violin rescue advance stock know lawn length moment ostrich unaware";

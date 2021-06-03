@@ -1,1 +1,1 @@
-var mnemonic = "wasp author robot brown vocal immune gentle sheriff ugly finger soap bottom";
+var mnemonic = "congress shop entry profit critic door rescue range where snack mad monster";

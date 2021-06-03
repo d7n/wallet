@@ -1,1 +1,1 @@
-var mnemonic = "glove mountain wise rain drill swim slam ten wide trade shadow ribbon";
+var mnemonic = "era scheme play useful error blast owner badge bamboo base bean dad";

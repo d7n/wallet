@@ -1,1 +1,1 @@
-var mnemonic = "august income ginger magnet swallow lady fee joy category organ aim purity";
+var mnemonic = "judge lift recall subject report dizzy industry patrol innocent flag grain flash";

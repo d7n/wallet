@@ -1,1 +1,1 @@
-var mnemonic = "gaze truck spell laugh cushion disorder dinosaur lazy number note melody exotic";
+var mnemonic = "theme prepare must drum indicate letter daring soda treat shuffle hour apology";

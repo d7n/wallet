@@ -1,1 +1,1 @@
-var mnemonic = "decide gather media thing local inflict few tuna state disagree awake husband";
+var mnemonic = "smooth proof resist suspect mango input column peanut history sand survey grace";

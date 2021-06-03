@@ -1,1 +1,1 @@
-var mnemonic = "manual sketch observe later copy swear improve hard alpha section antenna same";
+var mnemonic = "chuckle deny already monkey trigger fruit negative upper demise sadness effort afford";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest bone public calm spice gasp jazz usual achieve provide brother vicious";
+var mnemonic = "sketch puzzle inflict mention sting print chimney movie echo good cage dad";

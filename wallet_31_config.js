@@ -1,1 +1,1 @@
-var mnemonic = "pool firm swear museum bus nothing fix wing purity rescue gentle develop";
+var mnemonic = "skate fuel magic success tone sentence dilemma estate weird scan explain cargo";

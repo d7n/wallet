@@ -1,1 +1,1 @@
-var mnemonic = "lock album twice canvas used gun seminar capable crime federal mom animal";
+var mnemonic = "please pave slim siren brisk immense cover stuff genuine resource menu radio";

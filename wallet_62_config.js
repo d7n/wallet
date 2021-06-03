@@ -1,1 +1,1 @@
-var mnemonic = "club seminar runway camp manual prepare bind torch whale behave boss cake";
+var mnemonic = "steel outdoor bitter remember void under pigeon thrive case twice panel armor";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch fatigue scorpion pledge cable left subway sniff keen nature process observe";
+var mnemonic = "hub beyond aerobic alarm certain fame spend glimpse loop runway side entry";

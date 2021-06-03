@@ -1,1 +1,1 @@
-var mnemonic = "spatial video upper urge crack height desert common average ten pudding teach";
+var mnemonic = "tent cereal uniform matrix error ice attract lawsuit eagle swing matrix network";

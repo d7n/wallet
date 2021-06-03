@@ -1,1 +1,1 @@
-var mnemonic = "course clown arena pluck ability win state option turtle task gospel burst";
+var mnemonic = "crunch notice easy junk suffer predict pen home glove reveal large elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "middle salute addict apple cave injury armed promote embark pause opinion border";
+var mnemonic = "network enable plug remind inform scout plate stereo family mesh defense hawk";

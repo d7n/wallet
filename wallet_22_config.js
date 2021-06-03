@@ -1,1 +1,1 @@
-var mnemonic = "sample catalog sustain palace audit mass supply change middle charge civil melody";
+var mnemonic = "assume twice matrix brass word reopen profit cliff only leopard need various";

@@ -1,1 +1,1 @@
-var mnemonic = "fury critic code borrow genuine captain grow two truly mistake cigar orchard";
+var mnemonic = "decline travel crunch embark direct february talent resemble knock hotel together lens";

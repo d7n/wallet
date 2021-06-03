@@ -1,1 +1,1 @@
-var mnemonic = "please bright protect sibling become amount certain brush valley surge fatal ribbon";
+var mnemonic = "mind taxi fence umbrella bronze sibling diesel grain across index parade cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve arch wear list retreat vessel peanut live circle spray immune mandate";
+var mnemonic = "forward news wine hybrid virus trip manage belt naive risk deliver diamond";

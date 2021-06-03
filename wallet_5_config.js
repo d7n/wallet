@@ -1,1 +1,1 @@
-var mnemonic = "awake knife kiwi quote magnet urge typical ignore city bone expand hurt";
+var mnemonic = "book save earth trigger globe dust camp legend mask damp rent essay";

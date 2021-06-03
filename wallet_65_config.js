@@ -1,1 +1,1 @@
-var mnemonic = "meat town opinion draw blast drip order fortune peasant craft patch blue";
+var mnemonic = "buyer fine flash glory drama beyond feel simple sorry donkey betray fade";

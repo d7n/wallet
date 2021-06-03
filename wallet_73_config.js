@@ -1,1 +1,1 @@
-var mnemonic = "dream frown more screen trade aware report venture nephew code urge resist";
+var mnemonic = "achieve cradle bless salt hawk pencil luggage rib surface pluck element motor";

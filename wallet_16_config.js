@@ -1,1 +1,1 @@
-var mnemonic = "curtain pluck river reunion fine dog ripple report stem rebuild roast planet";
+var mnemonic = "rain actor lunar yard insect beauty cinnamon spend unable answer clutch board";

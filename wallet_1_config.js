@@ -1,1 +1,1 @@
-var mnemonic = "visa edge matter little boss sting endless stuff upon orient prison normal";
+var mnemonic = "link island word sure chalk drama silent employ pear shoot kid jewel";

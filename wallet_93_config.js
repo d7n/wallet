@@ -1,1 +1,1 @@
-var mnemonic = "maximum much arrest punch crew charge invite unaware neglect own spell promote";
+var mnemonic = "buyer useless elbow bone finish spy obvious mom trumpet knee action actress";

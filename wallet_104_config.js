@@ -1,1 +1,1 @@
-var mnemonic = "lunch duty valley wisdom vapor render cricket snow coin weird weird best";
+var mnemonic = "cart among lawn around skin item easy found enemy rib holiday predict";

@@ -1,1 +1,1 @@
-var mnemonic = "double vacuum only walk claim damp decorate usage barrel patch super uniform";
+var mnemonic = "age depart estate zoo spring huge cycle trend pet flee cup nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "setup acquire access grief cook journey series arrow love drastic adult expose";
+var mnemonic = "assume average cheap dwarf bounce link chicken differ movie frost repair need";

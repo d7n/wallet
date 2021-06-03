@@ -1,1 +1,1 @@
-var mnemonic = "garbage image wisdom armed history wreck soon ozone swamp lecture private round";
+var mnemonic = "logic flat expect enhance egg gain know just logic core pride stick";

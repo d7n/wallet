@@ -1,1 +1,1 @@
-var mnemonic = "favorite angle doctor resist price worry asset multiply trade apology yellow govern";
+var mnemonic = "verify bring pond echo puppy surprise tobacco client access physical fee happy";

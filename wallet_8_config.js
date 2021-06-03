@@ -1,1 +1,1 @@
-var mnemonic = "essay actress strategy frozen staff river cattle divorce aerobic humor sun same";
+var mnemonic = "cake shy produce avoid web media force issue cram vicious over salon";

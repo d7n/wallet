@@ -1,1 +1,1 @@
-var mnemonic = "property arena buddy injury bird unaware print arrest game menu access melt";
+var mnemonic = "gospel noble ladder online green dismiss decrease razor best bracket purity debris";

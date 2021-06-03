@@ -1,1 +1,1 @@
-var mnemonic = "limb novel fatal foil eight grant whale invite shoot draft enough type";
+var mnemonic = "tube fox hazard victory report sunset employ ride clay sudden lyrics idle";

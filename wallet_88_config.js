@@ -1,1 +1,1 @@
-var mnemonic = "course breeze bounce pencil donkey toward juice lottery trim school ask hand";
+var mnemonic = "wire theme bamboo street scout equip lady update filter impact lunch anger";

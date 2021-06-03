@@ -1,1 +1,1 @@
-var mnemonic = "taste update produce story sustain loud mystery verify purpose web aim kidney";
+var mnemonic = "index void border indicate burden cause food glance trigger large maple punch";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom clerk reward voice half category episode unlock dinosaur edit flip staff";
+var mnemonic = "shrug display title tattoo butter dinosaur word olive ostrich meadow tattoo job";

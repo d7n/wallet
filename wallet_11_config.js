@@ -1,1 +1,1 @@
-var mnemonic = "blanket drill green fog matrix shaft review width puppy popular blame cram";
+var mnemonic = "emerge once brass romance toward organ abandon blur predict bone profit style";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy visual build pitch bind arctic sniff birth flip daughter blood ahead";
+var mnemonic = "finish tag amazing pistol found board lizard glue pupil later snow raise";
