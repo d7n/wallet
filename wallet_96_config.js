@@ -1,1 +1,1 @@
-var mnemonic = "father eagle member bachelor garbage because hint dizzy rotate movie grape artwork";
+var mnemonic = "common laundry eager eye session wide bus uncover double feel cause fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "youth aerobic hospital antenna retire silent harvest aware inspire cousin true book";
+var mnemonic = "loop mango walnut scrap myself you ridge despair blue much school powder";

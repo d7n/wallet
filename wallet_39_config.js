@@ -1,1 +1,1 @@
-var mnemonic = "payment lava sphere expand pond crater guard there evoke sick ticket enroll";
+var mnemonic = "beyond giant okay ship phrase donate wedding useless empty drill elegant sound";

@@ -1,1 +1,1 @@
-var mnemonic = "vault sustain very rabbit delay borrow laptop forum flavor security seat fan";
+var mnemonic = "lake essay strong west night turkey artefact door memory rate punch around";

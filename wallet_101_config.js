@@ -1,1 +1,1 @@
-var mnemonic = "basket blue lemon outer balance side dial pipe history radar false law";
+var mnemonic = "need nerve antenna garbage boat toe leader mercy learn elite fall dry";

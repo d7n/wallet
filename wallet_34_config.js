@@ -1,1 +1,1 @@
-var mnemonic = "chicken sort bridge melody filter hero maze excess solar inside orbit barrel";
+var mnemonic = "maze mass oblige either army moon credit forget source ceiling pluck column";

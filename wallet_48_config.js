@@ -1,1 +1,1 @@
-var mnemonic = "typical orient lava paddle dismiss pumpkin path history drive jungle excess celery";
+var mnemonic = "gold worry note proof unusual side expand push deposit ask recall defense";

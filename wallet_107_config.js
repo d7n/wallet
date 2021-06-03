@@ -1,1 +1,1 @@
-var mnemonic = "chalk apology pet chapter silly lyrics crew wagon museum brain move hundred";
+var mnemonic = "slot live immense chunk sausage dignity dish crazy excess sword nut talk";

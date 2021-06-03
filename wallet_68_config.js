@@ -1,1 +1,1 @@
-var mnemonic = "shell obscure dry combine motion radar mirror siren aerobic addict tissue luggage";
+var mnemonic = "jealous scale observe above faculty hidden foam pelican rhythm brief wagon hurt";

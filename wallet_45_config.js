@@ -1,1 +1,1 @@
-var mnemonic = "sense install estate lawn notice end mirror gap depend edge access meat";
+var mnemonic = "human fringe phrase jeans pluck town antenna blanket tank mystery kick indicate";

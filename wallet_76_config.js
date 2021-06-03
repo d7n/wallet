@@ -1,1 +1,1 @@
-var mnemonic = "harvest inflict behave scene odor eye danger party fiction festival fox offer";
+var mnemonic = "fetch aisle trial know dinosaur weird flame observe large deposit spawn genre";

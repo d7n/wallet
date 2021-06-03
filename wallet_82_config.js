@@ -1,1 +1,1 @@
-var mnemonic = "paddle fashion arrow evidence battle abuse high spawn ginger dice loud blame";
+var mnemonic = "section hint steak cross once mistake property body parade frame novel entry";

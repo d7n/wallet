@@ -1,1 +1,1 @@
-var mnemonic = "song include female kingdom penalty negative surround liquid barely next pave pepper";
+var mnemonic = "minimum slow kangaroo update saddle clean inform indicate purity network dust distance";

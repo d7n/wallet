@@ -1,1 +1,1 @@
-var mnemonic = "parade trial volume hip verify squirrel cash key picture cup siren slam";
+var mnemonic = "lumber eight history give oyster naive enact icon tunnel blade ability anxiety";

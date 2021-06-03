@@ -1,1 +1,1 @@
-var mnemonic = "ability smooth believe hundred echo auto shallow valley must current slot pink";
+var mnemonic = "seed tunnel bottom high latin salon okay almost sudden project erase battle";

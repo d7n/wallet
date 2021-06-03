@@ -1,1 +1,1 @@
-var mnemonic = "peasant excuse swim farm swarm frequent corn destroy wrong simple top disagree";
+var mnemonic = "feature bar engage off banner like flash knife sock audit large olympic";

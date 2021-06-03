@@ -1,1 +1,1 @@
-var mnemonic = "kid night hello asthma night spot another panda exist spring illness modify";
+var mnemonic = "entry spatial faculty squeeze pass powder very galaxy illegal image remove easily";

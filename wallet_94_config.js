@@ -1,1 +1,1 @@
-var mnemonic = "bounce exist employ powder fix flame soccer badge left ill ghost awesome";
+var mnemonic = "bar wild today oppose pulp goat fantasy amazing you rigid spare divide";

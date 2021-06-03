@@ -1,1 +1,1 @@
-var mnemonic = "aim need erode relief garlic lounge reopen link clarify reason finish side";
+var mnemonic = "enjoy found fuel way input wait scorpion eager doctor baby brown silent";

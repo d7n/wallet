@@ -1,1 +1,1 @@
-var mnemonic = "cricket grid magnet fold park renew garbage fee fringe current message crush";
+var mnemonic = "wrestle matrix lawsuit wheel cargo zone royal claw noble weapon safe tourist";

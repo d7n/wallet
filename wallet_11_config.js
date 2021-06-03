@@ -1,1 +1,1 @@
-var mnemonic = "bronze federal stage spread near burger dove disease age limit artefact train";
+var mnemonic = "popular solve iron oval pear select will myself social upper assault vague";

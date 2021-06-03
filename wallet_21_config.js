@@ -1,1 +1,1 @@
-var mnemonic = "element worry pride muffin around vanish marble dune enroll fatigue hidden cactus";
+var mnemonic = "secret electric finger image work angle steak divorce alert doctor capable chalk";

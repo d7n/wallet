@@ -1,1 +1,1 @@
-var mnemonic = "sure zone simple tag piano problem crunch fury round lottery physical tuition";
+var mnemonic = "elbow vocal private frame silent trumpet phrase frog sting tomato fire excite";

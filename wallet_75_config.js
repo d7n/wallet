@@ -1,1 +1,1 @@
-var mnemonic = "deal exclude sugar thank kiwi ceiling visit loan evil enjoy diesel vote";
+var mnemonic = "topple common track mirror organ dish raw ethics catch joy hunt doctor";

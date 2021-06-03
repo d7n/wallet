@@ -1,1 +1,1 @@
-var mnemonic = "match coil capital train asthma property east together tone save patrol journey";
+var mnemonic = "nurse civil visual build sock upgrade arrow concert bar major nothing coin";

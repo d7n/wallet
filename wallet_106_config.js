@@ -1,1 +1,1 @@
-var mnemonic = "chest kid bean shallow lemon surge honey tuna dragon lucky pull giant";
+var mnemonic = "innocent update wisdom blossom crack subject name maximum renew half happy initial";

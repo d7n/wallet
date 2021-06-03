@@ -1,1 +1,1 @@
-var mnemonic = "detect among merit tissue segment shed derive drift become loan snack other";
+var mnemonic = "cycle aspect believe prepare front print acquire blue heart risk mention voyage";

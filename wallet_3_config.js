@@ -1,1 +1,1 @@
-var mnemonic = "naive benefit milk legal twice vote portion analyst area inflict gentle easily";
+var mnemonic = "grunt gloom road emotion expect over proof drill jaguar nation lift eyebrow";

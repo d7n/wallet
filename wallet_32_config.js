@@ -1,1 +1,1 @@
-var mnemonic = "spoil solve payment reduce tired symbol foil else edit frame bean bread";
+var mnemonic = "mesh inflict maze aspect half broccoli bracket negative lock mention chest material";

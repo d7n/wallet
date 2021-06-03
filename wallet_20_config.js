@@ -1,1 +1,1 @@
-var mnemonic = "soccer defense achieve acquire cancel fame talent maze swing worth occur leaf";
+var mnemonic = "spider hollow onion tent spawn blast cry annual method wagon news sphere";

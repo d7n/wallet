@@ -1,1 +1,1 @@
-var mnemonic = "mother comic keen sight allow beach spider floor glad name pupil seed";
+var mnemonic = "stem unveil sting thunder ten cave swing jaguar obvious crane tuition chuckle";

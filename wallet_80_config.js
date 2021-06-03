@@ -1,1 +1,1 @@
-var mnemonic = "thumb rate tennis program output renew plunge river either armor worry grace";
+var mnemonic = "bullet crime noodle olive wing glove prize scheme aunt deputy slogan double";

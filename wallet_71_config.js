@@ -1,1 +1,1 @@
-var mnemonic = "board isolate gun shoot veteran cycle weekend primary labor core math clerk";
+var mnemonic = "paddle width uncover teach enhance half double slide capital denial kiss spray";

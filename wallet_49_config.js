@@ -1,1 +1,1 @@
-var mnemonic = "coyote ahead desk royal minimum amount enact field toe cause clerk fix";
+var mnemonic = "uphold share volcano water ten forget razor glad path belt oyster refuse";

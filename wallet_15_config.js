@@ -1,1 +1,1 @@
-var mnemonic = "oxygen phone absent asthma collect talk recycle note wreck equal service borrow";
+var mnemonic = "corn captain inhale canvas empower essay romance another scheme fun swing harsh";

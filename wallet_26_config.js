@@ -1,1 +1,1 @@
-var mnemonic = "enroll weasel ostrich angry series middle assist guess middle ostrich slide chimney";
+var mnemonic = "wasp ripple race lens scale credit best hollow gate allow raven tooth";

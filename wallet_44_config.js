@@ -1,1 +1,1 @@
-var mnemonic = "swear debris push capital cancel group member right umbrella girl move secret";
+var mnemonic = "sketch tide civil hello drastic kind danger maze journey office rally flight";

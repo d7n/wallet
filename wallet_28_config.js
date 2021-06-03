@@ -1,1 +1,1 @@
-var mnemonic = "wrist cheap dizzy immune gap repeat same banana hockey home find company";
+var mnemonic = "twist build grape glare spring amateur banner connect few total camera coffee";

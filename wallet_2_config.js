@@ -1,1 +1,1 @@
-var mnemonic = "moral casino speed random infant mansion employ tilt neck short device useful";
+var mnemonic = "battle magic quarter wealth gravity flock palm alert brush ritual reduce nephew";

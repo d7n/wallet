@@ -1,1 +1,1 @@
-var mnemonic = "chase portion divert document tourist daughter defense boat feed jaguar live shrimp";
+var mnemonic = "sock inquiry expire smile quiz large slush shrimp elbow marriage alert laundry";

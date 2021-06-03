@@ -1,1 +1,1 @@
-var mnemonic = "mandate laugh foster promote confirm kangaroo earth recipe like hidden session discover";
+var mnemonic = "kiwi evoke hurt wise giggle era feed field will fragile sell wave";

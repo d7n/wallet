@@ -1,1 +1,1 @@
-var mnemonic = "network favorite goose rhythm mix vote scissors smooth mail barely grab adjust";
+var mnemonic = "spot liar box casual impulse arrest ketchup apology raise express possible credit";

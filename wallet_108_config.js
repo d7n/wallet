@@ -1,1 +1,1 @@
-var mnemonic = "flee van photo dilemma round mobile avocado plastic delay response stay develop";
+var mnemonic = "glance sort enjoy crew tuition mule glory hope vacuum vibrant jewel twenty";

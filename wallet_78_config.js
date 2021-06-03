@@ -1,1 +1,1 @@
-var mnemonic = "chaos winner thrive spot decrease spoon fault quit benefit wine miss common";
+var mnemonic = "client mask curve topple over observe broken bachelor gospel ensure render fall";

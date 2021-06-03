@@ -1,1 +1,1 @@
-var mnemonic = "level detail hunt latin orphan chimney athlete two point often wrist subway";
+var mnemonic = "tissue omit repeat brave fetch figure deny stuff little forum salute law";

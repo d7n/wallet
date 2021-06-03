@@ -1,1 +1,1 @@
-var mnemonic = "struggle alien gaze virtual despair fossil save yellow age audit argue jar";
+var mnemonic = "scare below hill frequent buddy board junk excess custom furnace melody slow";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine flush pride unlock flower trim town mail guilt tooth agent lawsuit";
+var mnemonic = "theory poverty today kite describe water error midnight enter check win inform";

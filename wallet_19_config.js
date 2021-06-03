@@ -1,1 +1,1 @@
-var mnemonic = "next wolf double love silver wrap accuse company patient subject razor again";
+var mnemonic = "leaf album steel supply typical receive awesome price panda satoshi where ancient";

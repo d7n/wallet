@@ -1,1 +1,1 @@
-var mnemonic = "orchard cute phone thunder sorry own burst adjust dog dignity demise typical";
+var mnemonic = "silver fluid regular mercy grunt gasp great choose piece sketch abuse exact";

@@ -1,1 +1,1 @@
-var mnemonic = "iron sick this solid toilet myself claw pull occur section flame loan";
+var mnemonic = "soup certain approve burst reunion poet rug need source swamp alcohol recall";

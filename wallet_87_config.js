@@ -1,1 +1,1 @@
-var mnemonic = "raw seven asthma early useless journey cable ostrich trust thank ability ridge";
+var mnemonic = "bid maximum dash nation diagram depart impulse live wedding round dilemma broccoli";

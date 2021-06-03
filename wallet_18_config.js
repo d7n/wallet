@@ -1,1 +1,1 @@
-var mnemonic = "picture arrive imitate opera often hen entry wagon extra price mixed income";
+var mnemonic = "fitness error energy setup easily essence energy bid apart talk mix black";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy loop frown skill kiss nerve margin arrest light distance govern swift";
+var mnemonic = "wrap cross detail try spider ride when attitude silver fancy carry rhythm";

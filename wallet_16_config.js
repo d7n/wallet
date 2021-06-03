@@ -1,1 +1,1 @@
-var mnemonic = "piece educate public angle donor outer measure desert analyst echo equal bulk";
+var mnemonic = "hire error uncle misery sting put flat weekend aisle process chest express";

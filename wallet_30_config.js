@@ -1,1 +1,1 @@
-var mnemonic = "paddle sentence remove expire work process cash say shallow prosper powder flower";
+var mnemonic = "over lion holiday hover beef bundle bomb craft east obtain slow awkward";

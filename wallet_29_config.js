@@ -1,1 +1,1 @@
-var mnemonic = "attack panda skull mercy worth disorder okay tiger want manage snack client";
+var mnemonic = "sheriff bomb uncle cradle switch stem bike upper dismiss draft potato census";

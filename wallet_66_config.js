@@ -1,1 +1,1 @@
-var mnemonic = "easy divorce unable accuse debris machine alpha wave eager liberty diary kitchen";
+var mnemonic = "shadow book social hill clean flock alone milk want wall frost lazy";

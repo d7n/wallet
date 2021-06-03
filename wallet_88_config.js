@@ -1,1 +1,1 @@
-var mnemonic = "safe drop torch rocket raw crucial income sand join situate confirm border";
+var mnemonic = "laugh win unveil crystal parent boy spin birth book click hotel woman";

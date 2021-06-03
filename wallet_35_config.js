@@ -1,1 +1,1 @@
-var mnemonic = "suit chief garment share skate rely fiscal twin battle ocean tail leader";
+var mnemonic = "cup accident bomb picture solar air bleak axis achieve dinner cycle display";

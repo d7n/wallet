@@ -1,1 +1,1 @@
-var mnemonic = "arrest comic gossip file unique wire near rhythm settle submit share tackle";
+var mnemonic = "number hood master verify admit dust lottery catch world erosion satisfy water";

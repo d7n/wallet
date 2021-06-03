@@ -1,1 +1,1 @@
-var mnemonic = "marble exhibit lottery potato friend chronic rare tackle quick rapid green cargo";
+var mnemonic = "bright rifle trap salmon unaware tiny taste fragile surprise better skate scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse traffic grow robot tuna measure hold soap rabbit life survey raise";
+var mnemonic = "empower merge gesture yard idea lobster prison divorce shallow magnet proof conduct";

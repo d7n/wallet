@@ -1,1 +1,1 @@
-var mnemonic = "love saddle drastic solar fire romance subway brick source sleep olive kitchen";
+var mnemonic = "raven wolf bonus vicious actor crucial empty rhythm cost industry soft waste";

@@ -1,1 +1,1 @@
-var mnemonic = "lend bubble riot mechanic rural sun material scan slush core similar second";
+var mnemonic = "emotion quote click gown desk ancient south oblige credit quote evolve flower";

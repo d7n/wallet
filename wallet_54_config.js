@@ -1,1 +1,1 @@
-var mnemonic = "elegant winter obtain fruit subway novel neglect open famous radar army captain";
+var mnemonic = "steel antenna please between wine gather arrive digital include october search month";

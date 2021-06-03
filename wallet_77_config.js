@@ -1,1 +1,1 @@
-var mnemonic = "hover candy marriage snake toilet piece intact north lyrics essence sponsor age";
+var mnemonic = "chunk uncle excess mountain aspect famous detail wrist orphan apart apart chicken";

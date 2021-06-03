@@ -1,1 +1,1 @@
-var mnemonic = "often gesture steak dolphin oxygen inhale leg later ugly decrease train aware";
+var mnemonic = "final donkey convince universe service young reveal badge throw boost cradle addict";

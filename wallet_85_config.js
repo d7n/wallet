@@ -1,1 +1,1 @@
-var mnemonic = "calm dash purchase silly perfect fork rule asthma almost dust list adjust";
+var mnemonic = "diamond average lab equal airport harvest sugar hover truck sudden polar neither";

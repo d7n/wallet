@@ -1,1 +1,1 @@
-var mnemonic = "cycle human guard screen warfare hundred rack accident verb random taxi file";
+var mnemonic = "certain denial wide rebel vote buzz result body clarify husband dial client";

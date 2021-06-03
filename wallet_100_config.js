@@ -1,1 +1,1 @@
-var mnemonic = "city banner dirt service fatal key mad rebuild alter traffic fame arrow";
+var mnemonic = "issue about cycle tent differ elephant avoid drum duty shop satoshi audit";

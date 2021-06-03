@@ -1,1 +1,1 @@
-var mnemonic = "fetch globe satoshi clerk sister road company crouch soup fit illegal purchase";
+var mnemonic = "uphold famous eternal impose sad begin author lion motor naive robot keep";

@@ -1,1 +1,1 @@
-var mnemonic = "give gospel design fame empower cat dog invest caught distance relief square";
+var mnemonic = "capable baby loud bike shoulder build brass unfold asset knock critic unit";

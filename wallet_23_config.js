@@ -1,1 +1,1 @@
-var mnemonic = "artist prize remember fruit tiny learn upset net text pizza thing person";
+var mnemonic = "wealth cash miss scale draft attitude trumpet amused dog series meadow skill";

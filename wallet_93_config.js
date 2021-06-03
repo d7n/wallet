@@ -1,1 +1,1 @@
-var mnemonic = "wood advice brass ordinary aerobic crawl thing finish pulp cloth fortune wrestle";
+var mnemonic = "blush horror cinnamon race increase today truly learn ghost mirror expand betray";

@@ -1,1 +1,1 @@
-var mnemonic = "age rather amazing skin execute prevent alpha picnic worth hunt winner rice";
+var mnemonic = "zone chunk flight soccer arrive coyote security strategy bamboo angry dignity crouch";

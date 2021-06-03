@@ -1,1 +1,1 @@
-var mnemonic = "ball web broom spin gather hold bread fluid trap eternal elite twenty";
+var mnemonic = "now usage amused crunch grow rate rather affair wolf surge extra enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor royal jar pledge steel lens nose foster glue lesson ignore alarm";
+var mnemonic = "slim forum help stadium cigar voice honey ability lens apple inside margin";

@@ -1,1 +1,1 @@
-var mnemonic = "trim inquiry drastic family call camp hole kitchen census decrease own direct";
+var mnemonic = "artwork ladder capital key power wage dentist whip deny energy proud catch";

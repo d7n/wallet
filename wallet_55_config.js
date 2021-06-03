@@ -1,1 +1,1 @@
-var mnemonic = "feel jump various permit amateur air crime ship example symptom exhaust render";
+var mnemonic = "account common impact anchor future infant select bubble ceiling report express burst";

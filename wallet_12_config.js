@@ -1,1 +1,1 @@
-var mnemonic = "pool bitter salmon globe flower race turkey lemon involve degree label input";
+var mnemonic = "pull barely else bonus divorce grass help erupt arena champion champion junk";

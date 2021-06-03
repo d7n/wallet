@@ -1,1 +1,1 @@
-var mnemonic = "crop sting pig wide renew argue nice problem explain dove cash blood";
+var mnemonic = "flash peace rain unhappy health horn once patient pulse target leg tornado";

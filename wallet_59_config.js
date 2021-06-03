@@ -1,1 +1,1 @@
-var mnemonic = "imitate bunker divorce allow assist fire arrow loyal result cinnamon belt dirt";
+var mnemonic = "romance elder town space amateur tone kangaroo garlic crack require hand type";

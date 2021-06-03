@@ -1,1 +1,1 @@
-var mnemonic = "heart tragic faith lawsuit market wet april what oil eager wink person";
+var mnemonic = "photo symbol fit hamster rocket school lemon chapter submit build trouble tattoo";

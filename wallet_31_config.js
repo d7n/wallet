@@ -1,1 +1,1 @@
-var mnemonic = "friend elite current employ cream similar arena bounce evoke position canyon often";
+var mnemonic = "bus usual thank glow mind choice cancel run trust fantasy bicycle wheel";

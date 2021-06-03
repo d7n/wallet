@@ -1,1 +1,1 @@
-var mnemonic = "cattle poverty curtain run turn weird engine gentle dynamic bulb unhappy love";
+var mnemonic = "gesture kitten remember rabbit peace habit domain crumble ill opera forget vicious";

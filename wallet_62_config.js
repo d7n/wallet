@@ -1,1 +1,1 @@
-var mnemonic = "toilet mosquito excess diary stay unhappy between clock monkey word elevator hard";
+var mnemonic = "unfold exhibit gauge cousin recipe winter volcano weasel fuel one shrug foam";

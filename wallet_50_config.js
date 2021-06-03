@@ -1,1 +1,1 @@
-var mnemonic = "vanish excite erase scissors side dinosaur kite lunch identify egg tank family";
+var mnemonic = "art milk surround rule rally mushroom sure ten forward saddle tattoo ticket";

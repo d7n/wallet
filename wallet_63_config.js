@@ -1,1 +1,1 @@
-var mnemonic = "reason run hero enact tired punch chronic answer salon crumble erosion access";
+var mnemonic = "affair sort answer section foil solid require imitate quit thought sponsor rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "grit solution glue guard tobacco system consider vague better side decorate glow";
+var mnemonic = "thunder bunker police health relief inner okay bonus inherit one midnight razor";
