@@ -1,1 +1,1 @@
-var mnemonic = "later music jaguar rent elegant accident asset mad pave property win edit";
+var mnemonic = "uphold tissue section tissue barely help economy three rough island sunny easily";

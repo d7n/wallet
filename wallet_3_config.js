@@ -1,1 +1,1 @@
-var mnemonic = "bomb outer volume miracle cover wish measure summer sea bulk subject theory";
+var mnemonic = "regular subway cake horn fresh prison maze orbit fetch dice rich auto";

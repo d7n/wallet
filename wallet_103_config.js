@@ -1,1 +1,1 @@
-var mnemonic = "tribe hub gain toddler regret abandon reason agree phrase gesture rain surround";
+var mnemonic = "camera erosion potato limb tower prosper hope south adult guard embrace major";

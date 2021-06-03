@@ -1,1 +1,1 @@
-var mnemonic = "broccoli wisdom loud design inmate minimum hollow power shallow hidden flush accident";
+var mnemonic = "rookie uniform solution recipe estate hard major mercy hello happy athlete consider";

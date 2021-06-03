@@ -1,1 +1,1 @@
-var mnemonic = "around dumb cruise pass squeeze uphold melt hero cabbage envelope quarter interest";
+var mnemonic = "obvious wild sorry cheap anger castle wagon next skin ship three mansion";

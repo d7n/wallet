@@ -1,1 +1,1 @@
-var mnemonic = "hidden early save salmon violin lock carbon brother fiber husband car sick";
+var mnemonic = "mention daring silent alone olive retreat point follow omit plate hold style";

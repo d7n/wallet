@@ -1,1 +1,1 @@
-var mnemonic = "inquiry canyon carbon chief minute arrest brave final resist forget oven mechanic";
+var mnemonic = "dragon always rely honey hungry copy urge harvest forward tired key coyote";

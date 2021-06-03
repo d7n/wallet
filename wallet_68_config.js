@@ -1,1 +1,1 @@
-var mnemonic = "turtle alone guide caught tomorrow you stay subway spy baby arrow injury";
+var mnemonic = "balcony garment field fringe boy father work acoustic quit tank fish love";

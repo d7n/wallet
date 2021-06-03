@@ -1,1 +1,1 @@
-var mnemonic = "swallow tray unfold nurse either involve deer million random report estate velvet";
+var mnemonic = "height current aerobic exhaust defense soul office harvest mystery bubble strategy warrior";

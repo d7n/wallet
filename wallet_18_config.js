@@ -1,1 +1,1 @@
-var mnemonic = "walnut wealth nurse treat pupil critic submit warfare stairs unique loan stable";
+var mnemonic = "nurse search absurd addict tuna still february hybrid sentence drill deny scale";

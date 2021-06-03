@@ -1,1 +1,1 @@
-var mnemonic = "table garage symptom another clown turtle vocal speed shell blanket forum demand";
+var mnemonic = "room cause object surprise romance proud thing swarm spoon notice input hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol embark ladder lyrics amused brick grocery close erupt usage glad ability";
+var mnemonic = "tiny vital veteran lady scatter spice soul adjust disorder air census game";

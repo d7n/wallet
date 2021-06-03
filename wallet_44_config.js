@@ -1,1 +1,1 @@
-var mnemonic = "unfair mind twice olympic mule disagree alley pretty destroy sock labor domain";
+var mnemonic = "ethics banana magic embark eyebrow romance risk town drill scissors guess member";

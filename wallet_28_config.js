@@ -1,1 +1,1 @@
-var mnemonic = "grass dizzy chief tenant sun market degree utility elbow yellow gun amused";
+var mnemonic = "ghost remain few prize prosper despair crazy sausage finish swamp song spread";

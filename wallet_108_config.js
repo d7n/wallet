@@ -1,1 +1,1 @@
-var mnemonic = "book habit hair maze october pink art noble material bag word air";
+var mnemonic = "park pistol oil bid teach coral elegant remove poet wasp hello opera";

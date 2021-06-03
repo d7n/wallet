@@ -1,1 +1,1 @@
-var mnemonic = "staff raw resemble consider bargain script nice ice glance scene decline course";
+var mnemonic = "vanish lumber season bicycle device image demise snack emerge fix mutual sleep";

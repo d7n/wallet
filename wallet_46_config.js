@@ -1,1 +1,1 @@
-var mnemonic = "wild fancy share problem fury shed enable slush stone modify helmet special";
+var mnemonic = "album inhale jump plunge skin home object feature labor still basic friend";

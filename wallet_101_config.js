@@ -1,1 +1,1 @@
-var mnemonic = "oven crack country staff hint kite define vocal spider wage prevent frame";
+var mnemonic = "combine tail sponsor speak shuffle dish reopen summer clay amateur jump satoshi";

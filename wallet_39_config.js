@@ -1,1 +1,1 @@
-var mnemonic = "wash flee rain latin inflict defy frown genre appear gloom pipe person";
+var mnemonic = "visit motor shrug better goose festival cupboard neither visual toe seat base";

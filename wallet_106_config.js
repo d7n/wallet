@@ -1,1 +1,1 @@
-var mnemonic = "hurry expire noise collect script fantasy champion fury beyond space atom coil";
+var mnemonic = "runway lizard eye thunder sustain educate humor cousin vicious range wall half";

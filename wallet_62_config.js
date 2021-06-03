@@ -1,1 +1,1 @@
-var mnemonic = "fold brief scale tube friend brush present doll bone medal quote rain";
+var mnemonic = "library inherit acoustic doctor oblige pelican midnight awkward horse else action print";

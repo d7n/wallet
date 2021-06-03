@@ -1,1 +1,1 @@
-var mnemonic = "grunt yard shop dirt omit scout review tell kick desert country unit";
+var mnemonic = "muffin topic reunion blue inflict duck liar pottery kiss dwarf state ozone";

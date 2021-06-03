@@ -1,1 +1,1 @@
-var mnemonic = "tobacco insect cabin box allow yard kitchen sphere arm bus label bargain";
+var mnemonic = "finger truck crush harbor tree circle advice ignore october slab surprise light";

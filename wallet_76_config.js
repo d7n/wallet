@@ -1,1 +1,1 @@
-var mnemonic = "pig whale kingdom moral image material flag nerve lyrics cluster scorpion giant";
+var mnemonic = "beef split bargain abstract blur smooth nest wrong melt polar monster cup";

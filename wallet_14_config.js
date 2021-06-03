@@ -1,1 +1,1 @@
-var mnemonic = "oppose avocado camp arrive twelve pig title scan other physical myself man";
+var mnemonic = "manage iron camera empty seminar champion gold hotel margin actual renew umbrella";

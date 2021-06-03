@@ -1,1 +1,1 @@
-var mnemonic = "flavor west shadow maximum throw manual rally rural shoot potato quantum neck";
+var mnemonic = "abstract broom deposit own board beach either setup rule leg attitude fire";

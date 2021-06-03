@@ -1,1 +1,1 @@
-var mnemonic = "hurt odor token unhappy used slush side umbrella wheat identify alien bleak";
+var mnemonic = "faculty super demand market there verb fantasy harbor remind ocean uphold priority";

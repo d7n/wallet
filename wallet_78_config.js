@@ -1,1 +1,1 @@
-var mnemonic = "man next stove neck prepare stool action evidence behind era love rare";
+var mnemonic = "valley slogan appear express account album safe steel issue clip federal random";

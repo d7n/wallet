@@ -1,1 +1,1 @@
-var mnemonic = "joy drip soda twice basket finger critic panic adapt often wife comic";
+var mnemonic = "link unaware amused sight express rate maid winter design universe trial tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon end powder snake shoot question entire digital rookie clip bargain next";
+var mnemonic = "index behave range rich puppy genre chapter prefer upgrade bring charge dog";

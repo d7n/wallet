@@ -1,1 +1,1 @@
-var mnemonic = "unit brief term echo heart winner license force forum bracket goat title";
+var mnemonic = "duty upset husband pelican risk senior orchard fatal firm twin trumpet neutral";

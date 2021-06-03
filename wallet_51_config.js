@@ -1,1 +1,1 @@
-var mnemonic = "blind carpet skin boost section olive amount spider spoil comfort enjoy uncover";
+var mnemonic = "small crack husband endorse away mention upgrade anchor inherit enact never churn";

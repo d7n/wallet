@@ -1,1 +1,1 @@
-var mnemonic = "stuff early major blood milk sting enemy super way purchase elevator deer";
+var mnemonic = "rail other retire shove pair run trust tennis kiss giggle yellow hold";

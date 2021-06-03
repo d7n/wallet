@@ -1,1 +1,1 @@
-var mnemonic = "sing behind this moment suggest matrix chat rent soft front robust bundle";
+var mnemonic = "elder bounce lion park video scout return frost hen symptom practice edit";

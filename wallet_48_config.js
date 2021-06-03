@@ -1,1 +1,1 @@
-var mnemonic = "sign doctor east bean cliff enroll degree bird diet item conduct client";
+var mnemonic = "walk legend plate member draw december saddle normal slogan rely hundred brief";

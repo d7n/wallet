@@ -1,1 +1,1 @@
-var mnemonic = "top acquire assist castle meat armed flock unlock physical elite apple joy";
+var mnemonic = "install loan jungle brush impose blur vintage turn admit two nose term";

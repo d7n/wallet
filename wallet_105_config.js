@@ -1,1 +1,1 @@
-var mnemonic = "noodle rude garbage gym boss modify rabbit forest unique scorpion never settle";
+var mnemonic = "diagram surge human must ice top quarter monster ostrich knock debate sure";

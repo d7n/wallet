@@ -1,1 +1,1 @@
-var mnemonic = "weekend relief ice robot unit lava coil sell whale verify meadow spend";
+var mnemonic = "copper dirt pattern erode carpet expose already insect naive monitor brief excess";

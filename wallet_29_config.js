@@ -1,1 +1,1 @@
-var mnemonic = "skate zebra elite month hole bike unlock keep mixture system work interest";
+var mnemonic = "lawn sword banner cash slim supreme near cram divide apart forward noble";

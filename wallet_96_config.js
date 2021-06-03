@@ -1,1 +1,1 @@
-var mnemonic = "yard sniff blame midnight tornado tennis wash prison online rocket pretty genuine";
+var mnemonic = "wild switch fancy again music result mesh mention drop skate path illegal";

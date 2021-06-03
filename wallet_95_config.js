@@ -1,1 +1,1 @@
-var mnemonic = "hill elbow lake stand rally vessel caution father tone average fame bright";
+var mnemonic = "dune squeeze together economy wire rough better night ignore price pencil badge";

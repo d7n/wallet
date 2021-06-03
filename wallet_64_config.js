@@ -1,1 +1,1 @@
-var mnemonic = "pledge clever cabin panel error pride economy view cabbage face door opera";
+var mnemonic = "increase fitness tuition cloth mirror desk correct police wave zero matter girl";

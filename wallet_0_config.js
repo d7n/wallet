@@ -1,1 +1,1 @@
-var mnemonic = "avoid seek month nothing stairs segment tube night act veteran embark state";
+var mnemonic = "announce special paddle blouse search credit vanish giggle they process horn distance";

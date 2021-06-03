@@ -1,1 +1,1 @@
-var mnemonic = "salmon silent flee wage neutral frog clog dial venture cluster muscle same";
+var mnemonic = "stay muffin casual acid blanket valve flight high extend gospel fan circle";

@@ -1,1 +1,1 @@
-var mnemonic = "spend supply type obvious waste window salad cigar lava upgrade habit evoke";
+var mnemonic = "there kingdom grass output wait punch canal roof visual income ride author";

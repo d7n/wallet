@@ -1,1 +1,1 @@
-var mnemonic = "between biology close swallow real comic injury coast chest measure review twin";
+var mnemonic = "want fortune grocery digital essay captain grass hamster huge pudding mixed color";

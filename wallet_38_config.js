@@ -1,1 +1,1 @@
-var mnemonic = "palace insane crisp weasel bacon bring rail guess action pizza limit purity";
+var mnemonic = "purse desk clump report artwork slam aim crash velvet answer chalk twenty";

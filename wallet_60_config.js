@@ -1,1 +1,1 @@
-var mnemonic = "valley until frog purse captain truly dizzy idea unveil must token alone";
+var mnemonic = "pioneer visa sunset thank olympic minor upper peasant waste reward answer else";

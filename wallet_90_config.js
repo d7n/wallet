@@ -1,1 +1,1 @@
-var mnemonic = "fiction possible mixture scatter squirrel harsh captain note lesson depth convince physical";
+var mnemonic = "chaos beef away pact census disorder legal lend funny cost coffee person";

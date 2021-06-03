@@ -1,1 +1,1 @@
-var mnemonic = "figure menu shock rotate install cloth brave escape they couch burger good";
+var mnemonic = "pretty wing flame grain outer spirit casual cousin double trust quiz lobster";

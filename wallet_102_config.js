@@ -1,1 +1,1 @@
-var mnemonic = "meadow jazz walk artist jeans letter velvet liberty cream leave coyote trigger";
+var mnemonic = "bronze knife maze list despair cotton fat cute cousin clarify say noise";

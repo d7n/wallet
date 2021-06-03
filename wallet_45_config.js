@@ -1,1 +1,1 @@
-var mnemonic = "vehicle method then more female glad mercy share resemble stem abuse crane";
+var mnemonic = "dune gesture stereo canvas success fiscal seminar usage profit glove skirt quantum";

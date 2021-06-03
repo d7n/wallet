@@ -1,1 +1,1 @@
-var mnemonic = "garbage kitten rigid barrel couch life punch indicate turn oven royal evil";
+var mnemonic = "corn settle another enough pitch tiny enemy razor chef armor little shoe";

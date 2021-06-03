@@ -1,1 +1,1 @@
-var mnemonic = "pitch vessel current peace cheese speak pass regular arm master kid legend";
+var mnemonic = "accuse zone expand soon call fog upset gain rookie endless shed donkey";

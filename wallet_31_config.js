@@ -1,1 +1,1 @@
-var mnemonic = "want air erode vast purpose spatial sight pig face unfair team harvest";
+var mnemonic = "first garment blouse draw honey fish govern stove cash water struggle stem";

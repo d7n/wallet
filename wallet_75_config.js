@@ -1,1 +1,1 @@
-var mnemonic = "lazy raw light material horn verify person trial lobster hawk truth palm";
+var mnemonic = "stool hair carbon ready drip veteran apology crater dress rebuild slim escape";

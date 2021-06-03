@@ -1,1 +1,1 @@
-var mnemonic = "area bright empty fame donor extra primary trade logic diet under extra";
+var mnemonic = "couch voice caught loyal want ketchup dinner goat smile federal bag hat";

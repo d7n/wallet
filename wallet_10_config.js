@@ -1,1 +1,1 @@
-var mnemonic = "elbow gap height feature roast program much frost purchase thank sick monkey";
+var mnemonic = "hurdle champion shine taste also fiction risk federal shock ankle become vessel";

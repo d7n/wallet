@@ -1,1 +1,1 @@
-var mnemonic = "border deputy teach dawn error reflect illegal broom panda weapon spell junior";
+var mnemonic = "path doctor step improve change pigeon ripple myself skill become orphan meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "clump frozen scale orange cricket employ wood banner stem alpha actual away";
+var mnemonic = "swamp zoo lottery neutral rotate deny cinnamon shoe error bubble scale enter";

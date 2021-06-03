@@ -1,1 +1,1 @@
-var mnemonic = "useful crane usage sock save area brother inside tunnel rebel arctic live";
+var mnemonic = "marine pass pitch square surround tortoise victory devote category course oil panic";

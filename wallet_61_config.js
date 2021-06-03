@@ -1,1 +1,1 @@
-var mnemonic = "bunker flavor until shoot people turtle husband balcony firm worry original violin";
+var mnemonic = "permit leave fluid raven liar robust truth garbage pink fox panic embody";

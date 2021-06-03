@@ -1,1 +1,1 @@
-var mnemonic = "surround gather math hurt afford bomb home salute invite item blue system";
+var mnemonic = "atom soup actress crucial thumb neither biology winter street visit decrease pelican";

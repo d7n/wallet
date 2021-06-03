@@ -1,1 +1,1 @@
-var mnemonic = "innocent august expire wealth custom chair stool long nest fossil pet modify";
+var mnemonic = "hint corn fever poverty electric moon oak ripple smart wild soccer voyage";

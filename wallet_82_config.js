@@ -1,1 +1,1 @@
-var mnemonic = "topple fetch cause slab surround wisdom car happy sail sniff eight ugly";
+var mnemonic = "marble sustain copper bubble april estate valve neglect impact resemble client medal";

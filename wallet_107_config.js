@@ -1,1 +1,1 @@
-var mnemonic = "hunt cup tide turtle say vivid repeat mixture aunt wide tennis fantasy";
+var mnemonic = "fluid crop mushroom when edge vote chaos middle garlic lonely lunar forest";

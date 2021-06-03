@@ -1,1 +1,1 @@
-var mnemonic = "armor basket traffic harvest marine element garbage banana hover settle action gloom";
+var mnemonic = "situate plastic jeans setup true cattle quit bubble sound genius worth inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "raven goat opera trade core tiny cute light say april car render";
+var mnemonic = "major pair slot miss remember patrol decide neutral clever away goddess charge";

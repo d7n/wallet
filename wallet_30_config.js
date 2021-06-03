@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon zero elite curtain actor carry spoon provide hold usage bright couch";
+var mnemonic = "surround fever lend ritual coffee shaft effort digital special arena ethics kitchen";

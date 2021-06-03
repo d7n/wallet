@@ -1,1 +1,1 @@
-var mnemonic = "cattle middle drop install nothing latin mechanic charge crash whip erupt crystal";
+var mnemonic = "thank unlock near three clean marine claim blur wish diet category what";

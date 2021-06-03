@@ -1,1 +1,1 @@
-var mnemonic = "connect harvest dice cement candy lemon setup test duty news dove diet";
+var mnemonic = "dentist pact visa video head alter door ankle clerk health head they";

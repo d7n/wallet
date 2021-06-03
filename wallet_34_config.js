@@ -1,1 +1,1 @@
-var mnemonic = "victory thunder crowd milk sentence mix shell mind weather around label draw";
+var mnemonic = "fish melt promote fence trophy damage fossil pair abandon trade immense rescue";

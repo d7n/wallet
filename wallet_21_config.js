@@ -1,1 +1,1 @@
-var mnemonic = "slush amused index unknown meadow judge eye view joy sibling prevent cousin";
+var mnemonic = "cover eternal half kid purse noble visit enforce door ankle trim language";

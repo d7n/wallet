@@ -1,1 +1,1 @@
-var mnemonic = "cargo tiger husband nominee inform robust scorpion memory maple luggage cake dismiss";
+var mnemonic = "collect gentle economy step addict family fashion stick solve nice stick away";

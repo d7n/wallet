@@ -1,1 +1,1 @@
-var mnemonic = "slow truth forward blind solve define soft cinnamon melody search fee guilt";
+var mnemonic = "maze win rescue tone drama farm aisle perfect august piano awkward rebuild";

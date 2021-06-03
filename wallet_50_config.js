@@ -1,1 +1,1 @@
-var mnemonic = "alley art celery dynamic shrug silly angle absorb exact auction jar pen";
+var mnemonic = "nerve employ motion inmate emerge pass upset mother urban senior royal choose";

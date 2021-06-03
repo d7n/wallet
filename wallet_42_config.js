@@ -1,1 +1,1 @@
-var mnemonic = "attitude plug twin avocado print jump antenna door gap discover citizen note";
+var mnemonic = "across forget more shoot merge bundle already length almost cigar wedding bicycle";

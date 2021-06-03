@@ -1,1 +1,1 @@
-var mnemonic = "knee copy canyon reject bracket physical scissors capable lawn goose impulse truly";
+var mnemonic = "notice tragic foster bomb family initial sunset gossip ankle teach sadness twist";

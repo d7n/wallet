@@ -1,1 +1,1 @@
-var mnemonic = "alcohol candy slide dream envelope source slice despair buzz copper round blood";
+var mnemonic = "video midnight barely they suspect run quiz crouch cry confirm what crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "sight skill damp try engage reward goose drum twelve blue sand crash";
+var mnemonic = "vocal buffalo basket general wrap odor swear hat bargain urge flush person";

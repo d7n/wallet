@@ -1,1 +1,1 @@
-var mnemonic = "vault decorate knife smile rent pony champion jelly two struggle visual exhaust";
+var mnemonic = "sunny bridge collect this next album then arm crazy ticket cave worry";

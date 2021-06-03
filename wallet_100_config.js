@@ -1,1 +1,1 @@
-var mnemonic = "ranch nation unknown science twelve awake dwarf result excuse scene initial social";
+var mnemonic = "network humble barely coil problem clutch hero involve flame tell rookie flash";

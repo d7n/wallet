@@ -1,1 +1,1 @@
-var mnemonic = "logic pepper math mass cabin upper dumb shock away olympic hockey setup";
+var mnemonic = "index dolphin normal taxi gap elder copper genre improve champion floor swim";

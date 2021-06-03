@@ -1,1 +1,1 @@
-var mnemonic = "faint ride census scout sudden fragile banana embody boss knee pill various";
+var mnemonic = "file bounce delay pool anchor screen clump siren luxury lecture enter tragic";

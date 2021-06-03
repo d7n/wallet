@@ -1,1 +1,1 @@
-var mnemonic = "engage monitor refuse humor seminar crime stool okay game ugly excite fancy";
+var mnemonic = "farm eternal code spike month enable hint stomach harsh glad noodle history";

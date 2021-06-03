@@ -1,1 +1,1 @@
-var mnemonic = "sauce speed soon coconut shrug festival ketchup joy genre prosper claw top";
+var mnemonic = "useful finger duck agree certain mail extra insect square hungry visa play";

@@ -1,1 +1,1 @@
-var mnemonic = "victory lend rain grab stay fabric dolphin blossom debate actor decade sorry";
+var mnemonic = "math chicken silent guess canal ginger live drift someone fun forum sport";

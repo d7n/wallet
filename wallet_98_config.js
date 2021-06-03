@@ -1,1 +1,1 @@
-var mnemonic = "antique tower grow laptop symbol defy lion glass notice anxiety vessel unfair";
+var mnemonic = "leisure flash cigar clever name claim entry funny furnace square eagle useful";

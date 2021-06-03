@@ -1,1 +1,1 @@
-var mnemonic = "ride attract choice behave flush bubble parade enable welcome silk cross skirt";
+var mnemonic = "album power segment minute alpha crunch canal twist dragon wall health mimic";

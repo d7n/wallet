@@ -1,1 +1,1 @@
-var mnemonic = "bag math bind vibrant leisure coin know leisure rebuild mule hundred fee";
+var mnemonic = "foam destroy assist armed runway caution grid mind wreck chaos snow defy";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese wife hold pave process cluster quarter fresh sponsor acquire million idle";
+var mnemonic = "satoshi siege patient proud cotton chunk alert session chaos eagle proud motion";

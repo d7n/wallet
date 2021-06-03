@@ -1,1 +1,1 @@
-var mnemonic = "grocery chase chapter paper diet erase edge sunny method invite stock immune";
+var mnemonic = "like side this giant enforce awesome asset rack glide early praise alone";

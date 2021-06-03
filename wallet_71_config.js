@@ -1,1 +1,1 @@
-var mnemonic = "target proof voyage canoe onion fruit next always maid bounce tone odor";
+var mnemonic = "cash access potato guide wage decline tumble when vacant bronze crumble month";

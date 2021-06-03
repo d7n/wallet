@@ -1,1 +1,1 @@
-var mnemonic = "blur next bright sadness zoo feel balance easy purpose spatial patch wrap";
+var mnemonic = "movie speak wild simple rocket globe congress enact indicate expire destroy similar";
