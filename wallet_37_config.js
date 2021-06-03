@@ -1,1 +1,1 @@
-var mnemonic = "fatigue lonely luxury make stove regret paddle supreme usual copy entire funny";
+var mnemonic = "asset brick lecture vessel power still wide impulse gallery drop milk account";

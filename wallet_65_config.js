@@ -1,1 +1,1 @@
-var mnemonic = "piano sausage crisp reason object often basket eternal student person pipe jelly";
+var mnemonic = "domain carry rice exist body risk slot gossip ritual when name trade";

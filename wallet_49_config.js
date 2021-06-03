@@ -1,1 +1,1 @@
-var mnemonic = "soda intact piece trend transfer violin slab zebra output silent joy like";
+var mnemonic = "garlic unable melody spice door dose general anchor isolate canvas online dance";

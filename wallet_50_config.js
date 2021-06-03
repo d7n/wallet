@@ -1,1 +1,1 @@
-var mnemonic = "ship hotel grunt maple unlock fury author pluck panic rib gap coil";
+var mnemonic = "next pitch shoulder define inch cup letter mosquito cover entire rhythm castle";

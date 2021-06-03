@@ -1,1 +1,1 @@
-var mnemonic = "curve stadium mushroom woman submit awake noble word tip remove goat creek";
+var mnemonic = "genre about stomach thank wage option jaguar history there position festival favorite";

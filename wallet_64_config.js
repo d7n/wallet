@@ -1,1 +1,1 @@
-var mnemonic = "round alpha general limb file sponsor nurse load left slender enemy absent";
+var mnemonic = "over tuna fish coach impulse cake board mobile harsh avoid sign dutch";

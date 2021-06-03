@@ -1,1 +1,1 @@
-var mnemonic = "deliver someone staff define frown erupt entry sentence edit ancient evil jungle";
+var mnemonic = "input bid rabbit undo enroll fork south melt confirm enough lady glide";

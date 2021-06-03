@@ -1,1 +1,1 @@
-var mnemonic = "story planet shove pupil picture garage agent connect quick pipe defy bone";
+var mnemonic = "absurd medal diary gown update eagle night lyrics celery vivid pole alien";

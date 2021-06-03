@@ -1,1 +1,1 @@
-var mnemonic = "century sort process cake topic inject eagle alien palm village mobile spoil";
+var mnemonic = "tomorrow render barely split spoon picnic marble donkey result combine filter nephew";

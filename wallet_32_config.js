@@ -1,1 +1,1 @@
-var mnemonic = "purchase prison acoustic stem appear long basic search present advance alarm cinnamon";
+var mnemonic = "entire birth segment vessel omit reduce normal noodle federal siren trumpet vault";

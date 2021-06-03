@@ -1,1 +1,1 @@
-var mnemonic = "panic method excite inner sauce glimpse inner since reunion you ring pudding";
+var mnemonic = "bless awful february half gym lyrics utility obey meat hope hub legal";

@@ -1,1 +1,1 @@
-var mnemonic = "recall spin proof follow believe firm door cliff useless slender charge around";
+var mnemonic = "news faculty jump nice ignore mercy slide doctor lunar thank recipe action";

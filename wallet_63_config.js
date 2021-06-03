@@ -1,1 +1,1 @@
-var mnemonic = "wild face asthma sword swap endless riot leader walnut camp urge protect";
+var mnemonic = "gap dignity oven castle excuse jelly fine course tragic spatial where firm";

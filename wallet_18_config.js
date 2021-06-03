@@ -1,1 +1,1 @@
-var mnemonic = "brain nice boring always remind creek movie intact rabbit doctor argue fun";
+var mnemonic = "shove mushroom tuition unaware sound egg tortoise edge day battle moment parade";

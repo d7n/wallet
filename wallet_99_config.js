@@ -1,1 +1,1 @@
-var mnemonic = "grab crazy harbor swap harvest sentence exchange brother desk member depth blur";
+var mnemonic = "mandate curious rebuild pilot plate champion empty note myself awful aware grief";

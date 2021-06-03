@@ -1,1 +1,1 @@
-var mnemonic = "gorilla alley cash plug armed point demand couple hire people bunker erase";
+var mnemonic = "soldier ribbon oxygen fade ocean undo milk extend crawl more project silly";

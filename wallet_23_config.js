@@ -1,1 +1,1 @@
-var mnemonic = "tiger thumb rebel crane nose history empty cactus reason uniform shoe cloud";
+var mnemonic = "develop three pumpkin only fault rally special fly spin erase uphold practice";

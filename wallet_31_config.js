@@ -1,1 +1,1 @@
-var mnemonic = "away feature ozone verify bag toddler settle fresh dress extra afford neck";
+var mnemonic = "water surround hurry during midnight miracle invest raw jewel kind path nut";

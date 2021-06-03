@@ -1,1 +1,1 @@
-var mnemonic = "size inside melt insane ocean mask early large pill garlic embrace harsh";
+var mnemonic = "blame embrace cheese obey bacon release upon detect witness term tobacco kick";

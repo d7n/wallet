@@ -1,1 +1,1 @@
-var mnemonic = "spy secret once warfare hair enough attract file hope fiber column mail";
+var mnemonic = "excuse athlete version pair escape leaf kiwi impact edge arrive original setup";

@@ -1,1 +1,1 @@
-var mnemonic = "radio clap mom flash royal oak destroy caught victory scrub item draw";
+var mnemonic = "food anger mushroom glad news silent dawn wild master buffalo hawk illness";

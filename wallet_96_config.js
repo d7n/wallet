@@ -1,1 +1,1 @@
-var mnemonic = "acoustic forum liquid asthma float glance fish letter innocent toast arrest couple";
+var mnemonic = "pride lawsuit whale miss increase soft blue slender physical vacant finger stove";

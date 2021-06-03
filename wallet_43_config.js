@@ -1,1 +1,1 @@
-var mnemonic = "lock water shell dial slide crawl tenant lumber brave canal approve photo";
+var mnemonic = "ketchup cool kingdom theory buddy planet mask weasel pull rookie voyage furnace";

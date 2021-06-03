@@ -1,1 +1,1 @@
-var mnemonic = "inspire secret pledge add fruit color cousin tube strategy day layer split";
+var mnemonic = "hungry grab exclude video because average genre bench huge material actor clump";

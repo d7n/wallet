@@ -1,1 +1,1 @@
-var mnemonic = "satisfy caution fever pepper metal moral congress survey topple occur exact left";
+var mnemonic = "inflict fork family theme jaguar drip round enter cricket ripple hat puppy";

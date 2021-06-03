@@ -1,1 +1,1 @@
-var mnemonic = "person love stuff project fix they harsh shoe genuine estate doctor unable";
+var mnemonic = "youth food measure glimpse waste boss kick high find scissors jewel citizen";

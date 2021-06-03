@@ -1,1 +1,1 @@
-var mnemonic = "donor hand stage transfer horse wash urban elbow stumble symbol shiver parent";
+var mnemonic = "category symbol corn forum hub mimic exclude indicate raw rural inhale process";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum boat attend artist aerobic pulse arch siege car cement danger now";
+var mnemonic = "ticket door eight unfair chat immune debate remain wife worth palace dog";

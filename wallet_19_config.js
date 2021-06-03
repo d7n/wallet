@@ -1,1 +1,1 @@
-var mnemonic = "pizza outdoor brief ladder simple settle rigid lava engage salt female erosion";
+var mnemonic = "confirm stock digital burst merry escape famous today stove online glance just";

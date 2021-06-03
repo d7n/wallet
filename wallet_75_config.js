@@ -1,1 +1,1 @@
-var mnemonic = "maple intact isolate coconut deliver claw car soup youth monitor remember group";
+var mnemonic = "fresh palm grant spare misery thought answer beef fault invite trim uncover";

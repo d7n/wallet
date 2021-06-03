@@ -1,1 +1,1 @@
-var mnemonic = "tobacco soldier coach engage damage olympic vintage depart arrest walnut monster belt";
+var mnemonic = "goat various awkward eternal mimic logic turn wedding spin detect pen topic";

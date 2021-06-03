@@ -1,1 +1,1 @@
-var mnemonic = "lady guess law juice ball assist better viable fashion parent nerve source";
+var mnemonic = "boat void paper champion syrup art buddy aisle celery upon raw chimney";

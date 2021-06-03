@@ -1,1 +1,1 @@
-var mnemonic = "easily shallow exchange below strike unable film village job page mercy float";
+var mnemonic = "hope whisper produce concert bounce permit grocery rapid brick craft quantum above";

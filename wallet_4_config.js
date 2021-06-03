@@ -1,1 +1,1 @@
-var mnemonic = "never guess quote equal identify whip tree coconut own pet erode humor";
+var mnemonic = "excite notice sibling human pair town cool federal great cash cluster scissors";

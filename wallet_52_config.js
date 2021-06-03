@@ -1,1 +1,1 @@
-var mnemonic = "age demand glove ability battle rescue giggle drama media all tissue bulk";
+var mnemonic = "cube better foil embrace virus female safe team estate purse inspire rely";

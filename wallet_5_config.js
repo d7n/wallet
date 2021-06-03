@@ -1,1 +1,1 @@
-var mnemonic = "very raise snake lizard render race wink blouse cloth oak staff tide";
+var mnemonic = "already pipe promote upgrade phone garden develop merry crush unknown arch gym";

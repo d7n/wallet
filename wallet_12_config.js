@@ -1,1 +1,1 @@
-var mnemonic = "fine voice monkey stool balcony income debate sponsor foot toddler donate buddy";
+var mnemonic = "verify begin mammal sweet ladder kite leisure give safe milk perfect decorate";

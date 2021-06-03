@@ -1,1 +1,1 @@
-var mnemonic = "peasant exhaust aerobic cliff peasant orbit derive early poet inhale cost valve";
+var mnemonic = "wheel old orchard balance undo crystal park company stock icon muffin horse";

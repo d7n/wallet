@@ -1,1 +1,1 @@
-var mnemonic = "romance whip hero need type hurry inform roast seven emerge mind diesel";
+var mnemonic = "must detail quality orange doll foster public machine tree used bird salt";

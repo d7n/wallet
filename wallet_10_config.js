@@ -1,1 +1,1 @@
-var mnemonic = "vague sketch devote puppy expose stairs pair author exhibit poet canvas insane";
+var mnemonic = "purse until swim champion board pact another install industry hill shrimp ensure";

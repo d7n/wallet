@@ -1,1 +1,1 @@
-var mnemonic = "harbor wreck flock wagon maximum hospital drip myth harbor achieve earth album";
+var mnemonic = "crop whisper such chalk holiday mom orange tower deer food seven asthma";

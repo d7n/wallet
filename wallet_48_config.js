@@ -1,1 +1,1 @@
-var mnemonic = "curve success kind drive glare tuna payment ridge bulk side diet weird";
+var mnemonic = "vendor endorse convince onion finish field people ladder battle rib good false";

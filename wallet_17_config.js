@@ -1,1 +1,1 @@
-var mnemonic = "sound opera start fold potato crew broom raccoon run supreme aisle addict";
+var mnemonic = "actor input way green blanket corn grocery panic rely level noise move";

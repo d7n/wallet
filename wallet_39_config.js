@@ -1,1 +1,1 @@
-var mnemonic = "sunset kiss cup glue casual fatigue run toast elegant vanish issue diamond";
+var mnemonic = "pride dance fossil column people humor maid weird joke equal amateur exercise";

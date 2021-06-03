@@ -1,1 +1,1 @@
-var mnemonic = "mind clever online sock parade rabbit mango equip approve then kangaroo myth";
+var mnemonic = "table junior scorpion daughter leader clay year limit dad harbor author volume";

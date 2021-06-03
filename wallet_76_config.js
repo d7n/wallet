@@ -1,1 +1,1 @@
-var mnemonic = "dumb genius rely park pepper agent bird mind search margin cigar volume";
+var mnemonic = "foster alter genuine timber benefit steak upper lava turtle guess call pulse";

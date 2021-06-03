@@ -1,1 +1,1 @@
-var mnemonic = "street night endorse blood hour good explain left lamp tomato hospital swim";
+var mnemonic = "joke high tiny roast parrot view again bicycle cheap load mirror you";

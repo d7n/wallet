@@ -1,1 +1,1 @@
-var mnemonic = "priority hamster fat sample achieve box slam assist heart matter lazy shed";
+var mnemonic = "random era climb jazz destroy maze abuse marble park picnic celery camera";

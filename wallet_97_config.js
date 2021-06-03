@@ -1,1 +1,1 @@
-var mnemonic = "aisle bike bird short royal bind brave baby drum onion pupil nuclear";
+var mnemonic = "tribe choose lottery dynamic theory hobby alien wisdom common giraffe blood bronze";

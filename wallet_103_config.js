@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog switch rent loyal naive barely later wasp script weird useful undo";
+var mnemonic = "tail cloud question whip fashion cousin clog crush enemy ethics bless dutch";

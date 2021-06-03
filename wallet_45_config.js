@@ -1,1 +1,1 @@
-var mnemonic = "trophy snow grid cart loan inject drip toast novel dizzy coast cotton";
+var mnemonic = "tiny merit mesh latin tunnel morning wasp wear ghost attend trend license";

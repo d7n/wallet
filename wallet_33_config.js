@@ -1,1 +1,1 @@
-var mnemonic = "donor agent flame draw convince north drift move art more wool cup";
+var mnemonic = "hidden tonight spin cousin relax potato trim tip goose cute multiply cupboard";

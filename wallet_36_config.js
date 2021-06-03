@@ -1,1 +1,1 @@
-var mnemonic = "fancy elevator yellow measure merry wrong napkin margin flock bargain palm very";
+var mnemonic = "next decide magic stamp fringe usual fever employ wing powder sun lamp";

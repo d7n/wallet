@@ -1,1 +1,1 @@
-var mnemonic = "gym gasp exotic sing stomach sing smart cash that victory snack perfect";
+var mnemonic = "taste video duck best work program atom model hire oyster cover wealth";

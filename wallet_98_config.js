@@ -1,1 +1,1 @@
-var mnemonic = "canvas better must horse verify clown bus forest squirrel cloud bunker drive";
+var mnemonic = "member prize envelope inhale concert lawsuit blouse melt myself ensure cotton attack";

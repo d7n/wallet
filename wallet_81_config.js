@@ -1,1 +1,1 @@
-var mnemonic = "peanut extend reopen glare error kitchen broom soft elevator venture dish image";
+var mnemonic = "creek menu evidence cradle cupboard ocean snake code fetch grain pact drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale earn turn erase syrup core hospital pet steak educate unusual advance";
+var mnemonic = "draw cake mouse deposit melody hour depth nut approve buffalo search venture";

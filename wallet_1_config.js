@@ -1,1 +1,1 @@
-var mnemonic = "ski strike dinosaur carry target fuel leisure plastic suggest cycle leopard shove";
+var mnemonic = "access steak neutral used whisper village butter inherit protect disagree spike toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver ostrich vendor maid giant knock reunion odor write ozone sing cup";
+var mnemonic = "vessel labor timber shrimp rigid okay strong purchase error wild coil harvest";

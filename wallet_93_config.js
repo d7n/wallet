@@ -1,1 +1,1 @@
-var mnemonic = "orange poet detect basic thunder save legal verb dismiss sample purpose member";
+var mnemonic = "area used flavor glue brief blast cram gloom bid ugly wolf know";

@@ -1,1 +1,1 @@
-var mnemonic = "type sibling run resource blanket agree opinion ethics beyond crew cannon scare";
+var mnemonic = "jump olympic story come dune cost deliver betray gym wealth narrow suggest";

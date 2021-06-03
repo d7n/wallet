@@ -1,1 +1,1 @@
-var mnemonic = "dream simple nominee crack brisk try word stick faith slush disorder disease";
+var mnemonic = "letter reunion tube kite bacon interest cycle interest dynamic virus pole useless";

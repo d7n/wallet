@@ -1,1 +1,1 @@
-var mnemonic = "picture mountain success twenty act wedding glide fame night convince royal solar";
+var mnemonic = "valve decrease ecology mad file load cable stone canvas plunge latin nation";

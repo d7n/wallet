@@ -1,1 +1,1 @@
-var mnemonic = "again trend quit balcony tube lounge scrap sick plug nature toward unhappy";
+var mnemonic = "property urge grief glow evoke program pear whip holiday shop notice fit";

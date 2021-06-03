@@ -1,1 +1,1 @@
-var mnemonic = "category survey bitter claim seminar embark detect salute unfair laundry enable assume";
+var mnemonic = "evidence favorite coyote grocery rotate pizza enough scan cost field sound tomorrow";

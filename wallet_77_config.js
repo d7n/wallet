@@ -1,1 +1,1 @@
-var mnemonic = "repeat bus annual scale party soccer pelican flat tank increase assist domain";
+var mnemonic = "maple like before gold run famous junior cute equip foam code sword";

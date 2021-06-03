@@ -1,1 +1,1 @@
-var mnemonic = "scout rebel endless topic mention glow plastic tank merry more explain airport";
+var mnemonic = "damage grape cute appear pottery practice brief youth present come loop parent";

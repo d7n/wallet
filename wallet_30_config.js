@@ -1,1 +1,1 @@
-var mnemonic = "much jealous style boil tree possible jealous hand oppose left control laptop";
+var mnemonic = "cloth cause west initial crawl observe movie avocado spend dynamic chief win";

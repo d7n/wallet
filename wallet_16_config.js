@@ -1,1 +1,1 @@
-var mnemonic = "thunder useless pave abuse game riot assist trophy rival cry field hover";
+var mnemonic = "humble card book limit answer wall usage quarter survey usage virus beach";

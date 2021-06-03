@@ -1,1 +1,1 @@
-var mnemonic = "damage juice police select donate dream topple across weather gentle busy abuse";
+var mnemonic = "acoustic surround frozen wine chunk flight antenna fetch achieve nasty horn owner";

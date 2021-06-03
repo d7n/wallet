@@ -1,1 +1,1 @@
-var mnemonic = "obscure eight key glove misery announce method pudding kitten dice rare tortoise";
+var mnemonic = "tail armor model furnace update lab tube lion random swing inquiry grant";

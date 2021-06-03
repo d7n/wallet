@@ -1,1 +1,1 @@
-var mnemonic = "major nothing predict rapid parent famous fly magnet rule response canoe just";
+var mnemonic = "mosquito goose accident legend happy essence good orchard wrestle teach matrix miss";

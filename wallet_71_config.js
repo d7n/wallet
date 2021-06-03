@@ -1,1 +1,1 @@
-var mnemonic = "furnace modify behind spray cheese injury banana divide shoe firm patrol bubble";
+var mnemonic = "trust tonight calm ring know impulse piano noble height forest vanish world";

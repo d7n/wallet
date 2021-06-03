@@ -1,1 +1,1 @@
-var mnemonic = "top mother turtle brown decorate cause scrap fuel canyon donate apology summer";
+var mnemonic = "next same model wrong swallow gauge plunge neither chunk squeeze seed glare";

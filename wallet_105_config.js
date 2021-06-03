@@ -1,1 +1,1 @@
-var mnemonic = "knife flavor bridge rubber distance green trim open animal acoustic tobacco menu";
+var mnemonic = "enact sunny stomach sphere bridge lab scale harvest link object scout flee";

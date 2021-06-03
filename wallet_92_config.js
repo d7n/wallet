@@ -1,1 +1,1 @@
-var mnemonic = "base primary saddle much field pistol link dolphin slush east venue mixture";
+var mnemonic = "earn awkward blade virtual frame stick before tool cash smoke fan raise";

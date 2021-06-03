@@ -1,1 +1,1 @@
-var mnemonic = "cat goat dance walnut aspect crowd broccoli choose paper umbrella ring logic";
+var mnemonic = "boil link famous aisle table mushroom choice celery funny fiscal debate army";

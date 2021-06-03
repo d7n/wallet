@@ -1,1 +1,1 @@
-var mnemonic = "song net alley caution cabbage legal silk bring flavor ancient love penalty";
+var mnemonic = "orient fox beach october give news resource traffic antenna flavor dog sail";

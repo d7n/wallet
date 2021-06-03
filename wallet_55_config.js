@@ -1,1 +1,1 @@
-var mnemonic = "evolve august cake lyrics hello slogan fresh keen cable crowd measure laptop";
+var mnemonic = "anchor resemble fringe seven endorse wild deposit finger erosion column settle like";

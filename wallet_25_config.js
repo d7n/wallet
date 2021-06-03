@@ -1,1 +1,1 @@
-var mnemonic = "version beach race creek basic leopard wall blouse clap december easy small";
+var mnemonic = "caution sadness ecology crowd blast tackle abstract web spoon shallow salmon ignore";

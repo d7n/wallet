@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow capital pen used scare lawn toy estate second devote ethics column";
+var mnemonic = "degree picture plunge dawn lamp blind antenna future addict poverty recipe dash";

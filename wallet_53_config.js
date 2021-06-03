@@ -1,1 +1,1 @@
-var mnemonic = "decade drastic planet edge bless embark indicate multiply snap regret chat ship";
+var mnemonic = "sketch sunny myth glance road plate renew page enrich twelve fashion huge";

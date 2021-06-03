@@ -1,1 +1,1 @@
-var mnemonic = "oxygen mansion town replace margin food diamond buzz roof atom bonus fun";
+var mnemonic = "goddess camp situate juice resource hotel sugar kiwi angry system summer castle";

@@ -1,1 +1,1 @@
-var mnemonic = "solar smoke drop ankle visual town step expect napkin prevent buzz diagram";
+var mnemonic = "hour cry husband mouse left waste donkey company review speak people connect";

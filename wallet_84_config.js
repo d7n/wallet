@@ -1,1 +1,1 @@
-var mnemonic = "giraffe grant black husband fame reject abstract cannon ramp forum raven key";
+var mnemonic = "element gaze curtain impose hip long mail renew nest top pattern mind";

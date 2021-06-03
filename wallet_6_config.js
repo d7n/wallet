@@ -1,1 +1,1 @@
-var mnemonic = "end acoustic screen arrow script drift local produce ceiling knee column thank";
+var mnemonic = "crouch chapter seminar tube demise rubber calm gesture tobacco review spider fit";

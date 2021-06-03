@@ -1,1 +1,1 @@
-var mnemonic = "quick trick steak copy cost sick garment beyond country guitar industry wage";
+var mnemonic = "palm remove umbrella honey local unfold harvest whip magnet solid nominee abstract";

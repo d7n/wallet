@@ -1,1 +1,1 @@
-var mnemonic = "play zebra ripple better shop useful loop song use stool crane spawn";
+var mnemonic = "hero border toward vacuum pass sustain canvas fall ritual keen outside wasp";

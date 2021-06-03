@@ -1,1 +1,1 @@
-var mnemonic = "above benefit mosquito clog wage push next cliff elbow reason loan oven";
+var mnemonic = "repeat candy attitude knife worry expire near liberty say detect height render";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid document silly power mask this special marriage wish force switch course";
+var mnemonic = "asset ghost feed east birth daughter system right whisper advance present speed";

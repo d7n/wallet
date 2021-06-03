@@ -1,1 +1,1 @@
-var mnemonic = "decline grid chaos east parade eight arch tower boy maximum pledge field";
+var mnemonic = "issue miss ride mixed fluid topple furnace hair any legend tourist double";

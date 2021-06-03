@@ -1,1 +1,1 @@
-var mnemonic = "until mobile derive creek decorate juice snow boring recycle train pottery renew";
+var mnemonic = "decide soup leopard sign thrive soccer guess upgrade lumber injury struggle fiscal";
