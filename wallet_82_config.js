@@ -1,1 +1,1 @@
-var mnemonic = "audit hollow else luxury genuine keen method rescue peace dinner pipe photo";
+var mnemonic = "jacket step thought clay clap joy aim hip author sound grass dry";

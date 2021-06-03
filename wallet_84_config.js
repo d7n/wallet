@@ -1,1 +1,1 @@
-var mnemonic = "shoulder paper cross involve right edit zebra phrase project aim suffer flash";
+var mnemonic = "autumn flat nut fuel digital search settle summer practice wagon violin call";

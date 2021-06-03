@@ -1,1 +1,1 @@
-var mnemonic = "lamp shrimp actual shadow alter raven involve neutral title tube safe banner";
+var mnemonic = "wave lounge volume lamp pigeon once round what ball sweet tube spin";

@@ -1,1 +1,1 @@
-var mnemonic = "negative airport unveil file goat lend permit evolve toe sibling detect alarm";
+var mnemonic = "film onion language child black mixture leaf hawk record pigeon tonight purchase";

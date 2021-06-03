@@ -1,1 +1,1 @@
-var mnemonic = "omit admit message palm oblige height clinic stuff find kidney number sausage";
+var mnemonic = "wet october nuclear cotton limb firm shiver little shine cabbage glance slogan";

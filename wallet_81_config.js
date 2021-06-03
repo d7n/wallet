@@ -1,1 +1,1 @@
-var mnemonic = "planet input cup change unfold best barrel apart session series brush item";
+var mnemonic = "aim pink act diamond inform long answer expect blanket merit advance profit";

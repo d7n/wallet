@@ -1,1 +1,1 @@
-var mnemonic = "comic feed allow ability rate gate return coyote dolphin metal guard column";
+var mnemonic = "valley mountain famous month found moon pelican element exit enable almost veteran";

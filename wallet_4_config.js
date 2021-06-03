@@ -1,1 +1,1 @@
-var mnemonic = "birth deal work cabin crouch limb maximum lock reopen buffalo oxygen spatial";
+var mnemonic = "gift cushion dove eager horse sister buzz next guilt put forest walnut";

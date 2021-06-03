@@ -1,1 +1,1 @@
-var mnemonic = "little lamp tip boat slim trap bounce buddy sunset pigeon fetch float";
+var mnemonic = "pride grunt best common bind book retire another submit quarter baby opera";

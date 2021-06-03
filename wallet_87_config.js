@@ -1,1 +1,1 @@
-var mnemonic = "license final license stereo erupt point curious balcony gun thrive grain dumb";
+var mnemonic = "loud credit between mosquito cinnamon cry mystery exit calm breeze release leader";

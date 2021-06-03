@@ -1,1 +1,1 @@
-var mnemonic = "horse label fabric south pig banana narrow spread portion bargain pulse dog";
+var mnemonic = "box little roast grape adult laptop guide cart victory bus behave stone";

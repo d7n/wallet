@@ -1,1 +1,1 @@
-var mnemonic = "snake digital green rabbit tortoise spring timber stairs meadow exit exercise balance";
+var mnemonic = "ivory mother alley young evil wedding elevator chat arrest arm scene trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "wire fortune estate team margin caution original produce canoe mesh brick bunker";
+var mnemonic = "voyage erupt firm brush include throw collect venue flee venue steel decrease";

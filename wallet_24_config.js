@@ -1,1 +1,1 @@
-var mnemonic = "muffin attack lounge they badge since cram member bullet silly vintage fabric";
+var mnemonic = "snake airport finger excuse push canoe lyrics royal excite favorite surface maze";

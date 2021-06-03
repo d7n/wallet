@@ -1,1 +1,1 @@
-var mnemonic = "undo glare spring cousin behind opera conduct pulp robot strategy raccoon fit";
+var mnemonic = "live click goose peasant female valley city assume scene book soldier correct";

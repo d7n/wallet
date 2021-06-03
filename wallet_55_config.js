@@ -1,1 +1,1 @@
-var mnemonic = "pet glide portion ritual cross ocean identify park keen paddle tail regret";
+var mnemonic = "inject program real dumb random empower pigeon because beyond cancel seat actual";

@@ -1,1 +1,1 @@
-var mnemonic = "morning fancy fitness uphold stay cry scan title cool aspect people quarter";
+var mnemonic = "youth fault citizen shield turtle river script film twelve twelve census present";

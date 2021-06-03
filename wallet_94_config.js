@@ -1,1 +1,1 @@
-var mnemonic = "pledge whisper select mango cinnamon pitch screen stadium canyon layer hard few";
+var mnemonic = "dizzy enter sand since crowd category absurd pipe pull ridge trumpet letter";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich victory clap thumb draft season grape issue embark stomach ordinary tail";
+var mnemonic = "nurse dune price picture crime transfer magnet target sauce aerobic drink gold";

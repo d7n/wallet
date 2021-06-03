@@ -1,1 +1,1 @@
-var mnemonic = "dream ketchup accuse duck issue crucial return smart patch balcony top cousin";
+var mnemonic = "amateur rescue unknown dry stumble laptop carbon pen join snow slender junior";

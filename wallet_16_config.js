@@ -1,1 +1,1 @@
-var mnemonic = "damp cotton comfort dune uncover science trigger cinnamon champion supreme ill fitness";
+var mnemonic = "easily oven brother fever harbor wreck young smile fork patient remember birth";

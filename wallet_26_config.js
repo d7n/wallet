@@ -1,1 +1,1 @@
-var mnemonic = "symptom better quit deputy great virus nature butter kiss rib rotate noodle";
+var mnemonic = "agree gadget cradle puzzle photo story plug now civil razor myself honey";

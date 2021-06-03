@@ -1,1 +1,1 @@
-var mnemonic = "frozen section process lab hurry ride object home emotion alarm decide slot";
+var mnemonic = "clutch athlete ski chair diagram copper one suffer hawk spell whisper seminar";

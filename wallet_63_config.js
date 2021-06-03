@@ -1,1 +1,1 @@
-var mnemonic = "tube obey moon purity obvious smile sheriff dove term mind glide worry";
+var mnemonic = "energy occur tool vapor tube boss maze color fly tell wonder joy";

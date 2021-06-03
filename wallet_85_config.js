@@ -1,1 +1,1 @@
-var mnemonic = "alcohol empower tape limit awkward about armor unable giggle ethics seek lecture";
+var mnemonic = "session brand ladder inspire yard banner repair test swift beauty anger resist";

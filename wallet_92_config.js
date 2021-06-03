@@ -1,1 +1,1 @@
-var mnemonic = "noodle turn please joy puppy awkward catch same dirt worry shift album";
+var mnemonic = "ripple leisure toy toast noble film engage supreme muffin feature short weird";

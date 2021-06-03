@@ -1,1 +1,1 @@
-var mnemonic = "truth exhibit kiwi say change then evidence load income evoke monster proud";
+var mnemonic = "cereal purpose riot engine unit gaze cage there ask deliver head napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "absent atom lens family enroll ketchup rail awake agent brown glory pair";
+var mnemonic = "behind heavy merge also cabin obtain detail forward miracle tumble name humble";

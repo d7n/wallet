@@ -1,1 +1,1 @@
-var mnemonic = "woman rival elephant prize mushroom rule defense save gaze purity advance volume";
+var mnemonic = "inside remember hire discover chapter square picnic live scout like usual trust";

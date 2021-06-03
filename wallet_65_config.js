@@ -1,1 +1,1 @@
-var mnemonic = "order trophy fit survey distance shift cabin nuclear cause island pony aerobic";
+var mnemonic = "phone legend genius spirit weather sample valid arrest hub ancient attend pole";

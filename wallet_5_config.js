@@ -1,1 +1,1 @@
-var mnemonic = "eye armed equal demand buyer sister improve beauty quote senior reopen welcome";
+var mnemonic = "change behave picture amateur fiber tray exercise fatigue hen cause diet unable";

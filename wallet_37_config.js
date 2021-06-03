@@ -1,1 +1,1 @@
-var mnemonic = "popular identify liar father joke wage hen rare three valley donkey inquiry";
+var mnemonic = "allow chicken tide siege sign depth puzzle charge crisp price age yellow";

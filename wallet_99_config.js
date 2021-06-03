@@ -1,1 +1,1 @@
-var mnemonic = "casual benefit hard skirt text pitch castle expose inmate obtain ready trumpet";
+var mnemonic = "excuse sure raw fan order mom health buffalo antique budget marble inspire";

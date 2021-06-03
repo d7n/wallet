@@ -1,1 +1,1 @@
-var mnemonic = "rally tuition lake fitness crawl dash tunnel position know inspire error guard";
+var mnemonic = "cannon hammer ripple toe make borrow palace mean junk party all noble";

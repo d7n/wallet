@@ -1,1 +1,1 @@
-var mnemonic = "garden radar wheat journey sound pitch cotton fiscal shadow limb kidney robust";
+var mnemonic = "jacket wisdom yellow example merge make miss tortoise dinosaur shine canyon gas";

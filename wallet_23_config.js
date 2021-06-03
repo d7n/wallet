@@ -1,1 +1,1 @@
-var mnemonic = "slight crime believe bring gorilla family sister number vapor industry exhaust salt";
+var mnemonic = "half elbow pumpkin accuse inform head such trap ladder limb square service";

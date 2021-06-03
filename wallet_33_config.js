@@ -1,1 +1,1 @@
-var mnemonic = "wire save secret logic top wait laugh deposit fossil crystal version just";
+var mnemonic = "oppose success sketch warrior guess frost short blur mango issue energy young";

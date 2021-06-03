@@ -1,1 +1,1 @@
-var mnemonic = "luggage sausage loud response alarm ghost tool friend mandate island busy seminar";
+var mnemonic = "rhythm income quantum expect duty glare heart wool illness present increase palace";

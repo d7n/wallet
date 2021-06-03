@@ -1,1 +1,1 @@
-var mnemonic = "dirt squeeze matter crouch wash mutual brass future ship such lounge hero";
+var mnemonic = "indoor current rain away prosper wrap nose hunt program bargain whip brick";

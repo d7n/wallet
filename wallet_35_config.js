@@ -1,1 +1,1 @@
-var mnemonic = "phone broken human car front share husband charge emotion buffalo steak cabbage";
+var mnemonic = "fashion mountain client giggle tomorrow radar large illness shop stumble belt want";

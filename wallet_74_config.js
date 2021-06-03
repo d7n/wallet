@@ -1,1 +1,1 @@
-var mnemonic = "pluck memory letter pigeon lunch filter topple traffic couch embody squeeze wash";
+var mnemonic = "virus december twenty journey lecture lab baby push metal marble soldier six";

@@ -1,1 +1,1 @@
-var mnemonic = "relax love talk melody kid wire palace beauty city public meat sick";
+var mnemonic = "first dirt poverty either lens online tumble soldier train together spare surprise";

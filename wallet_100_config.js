@@ -1,1 +1,1 @@
-var mnemonic = "super chunk then teach hope ticket print attitude umbrella reduce mobile artefact";
+var mnemonic = "about couple usual clutch gift ready sea label author hybrid begin merge";

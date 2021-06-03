@@ -1,1 +1,1 @@
-var mnemonic = "solid cradle advice negative exact burst truck furnace file whisper range sheriff";
+var mnemonic = "fix service blue shallow tobacco giraffe visa bargain inspire work sphere require";

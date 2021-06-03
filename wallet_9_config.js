@@ -1,1 +1,1 @@
-var mnemonic = "mom tent cage plastic cement fever cushion orchard home current sorry adjust";
+var mnemonic = "bread modify witness van elbow hood sad room spring burden six alone";

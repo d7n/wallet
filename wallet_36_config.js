@@ -1,1 +1,1 @@
-var mnemonic = "weird version best lens charge work reopen various embrace around input frame";
+var mnemonic = "host inhale pledge cargo person naive execute armed document table solve broom";

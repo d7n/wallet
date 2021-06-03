@@ -1,1 +1,1 @@
-var mnemonic = "obvious moral soon picture toy online grant domain erupt magnet rhythm grace";
+var mnemonic = "above horn foot shallow fuel foster figure inherit fish license corn february";

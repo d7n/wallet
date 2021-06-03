@@ -1,1 +1,1 @@
-var mnemonic = "immense police tonight baby genius tip dad punch valley sword stick stove";
+var mnemonic = "sing runway picnic protect blush long retire afraid follow firm reform bargain";

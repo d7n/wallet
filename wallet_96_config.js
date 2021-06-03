@@ -1,1 +1,1 @@
-var mnemonic = "giraffe stool shield sunset zero equal patrol dirt salt welcome wisdom conduct";
+var mnemonic = "monitor police ask suit steel rural exile special rich hurdle elite rug";

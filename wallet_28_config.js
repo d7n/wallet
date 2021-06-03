@@ -1,1 +1,1 @@
-var mnemonic = "indoor legend spike odor test agree cigar horn lamp crew casual toward";
+var mnemonic = "quit friend enough limit farm pottery cause ugly school total position eager";

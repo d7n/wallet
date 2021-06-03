@@ -1,1 +1,1 @@
-var mnemonic = "city speed solution nuclear slogan cloud habit cargo fossil carpet mouse omit";
+var mnemonic = "doll patient globe flat need soda already appear search still foam harbor";

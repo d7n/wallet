@@ -1,1 +1,1 @@
-var mnemonic = "silent quiz lobster level click donor category help ancient beyond enhance shop";
+var mnemonic = "child hat wonder payment tourist twin crane tape inject cash hen buzz";

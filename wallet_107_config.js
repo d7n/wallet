@@ -1,1 +1,1 @@
-var mnemonic = "moon crucial mesh pitch sheriff protect arch emerge govern perfect tennis identify";
+var mnemonic = "ordinary pair learn corn repair prefer drastic zebra blade physical cherry off";

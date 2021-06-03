@@ -1,1 +1,1 @@
-var mnemonic = "join kiss business drip detect eye trigger common plate wage mean side";
+var mnemonic = "jazz emotion disorder wood era middle twenty strategy bridge fever gorilla scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "axis thank craft account meadow lion marine rabbit empower fruit boy earn";
+var mnemonic = "deal charge dinner chapter until ethics recipe alley suspect excuse renew senior";

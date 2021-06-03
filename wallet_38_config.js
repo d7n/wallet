@@ -1,1 +1,1 @@
-var mnemonic = "cupboard bottom wait round obtain puppy tumble proof valve limit border age";
+var mnemonic = "panic invite review ramp mouse video replace apple horn unlock orient legal";

@@ -1,1 +1,1 @@
-var mnemonic = "knife diamond eager tattoo winter lava reform spoon mandate cave tunnel result";
+var mnemonic = "mom calm oil candy vintage ship heavy alert fire right game doctor";

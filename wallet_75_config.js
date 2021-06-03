@@ -1,1 +1,1 @@
-var mnemonic = "ordinary panda candy coach kid brief aim chief assault effort income truck";
+var mnemonic = "pelican orphan yard wink quantum unhappy page disorder excess maximum winter merry";

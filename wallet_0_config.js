@@ -1,1 +1,1 @@
-var mnemonic = "happy bitter stuff winter secret arena laugh couch churn scale broom wife";
+var mnemonic = "differ conduct charge wreck cake father obey people simple slight undo shy";

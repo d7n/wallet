@@ -1,1 +1,1 @@
-var mnemonic = "right tip shoulder enrich arrest early scout abandon town view fuel enjoy";
+var mnemonic = "twin mouse such genre special desk measure detect oval trust foot bottom";

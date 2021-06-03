@@ -1,1 +1,1 @@
-var mnemonic = "candy draw rabbit boring cloth vocal favorite depend quick unknown impose phone";
+var mnemonic = "chair round seven tennis breeze present guilt engage gaze evil dash earn";

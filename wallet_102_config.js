@@ -1,1 +1,1 @@
-var mnemonic = "entire radar canal open airport alcohol anxiety volcano gym prison base carpet";
+var mnemonic = "asthma gloom junk master beach lobster giggle then festival faint cabbage capital";

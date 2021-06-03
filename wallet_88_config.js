@@ -1,1 +1,1 @@
-var mnemonic = "prison recycle person lion slogan language sausage face suit know shuffle cancel";
+var mnemonic = "alert ethics video first present peasant entry animal size portion column garment";

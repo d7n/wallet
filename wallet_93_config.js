@@ -1,1 +1,1 @@
-var mnemonic = "inflict cannon garlic fitness color wise enlist disease thrive rack away purchase";
+var mnemonic = "wreck coin plug alert cement garlic ceiling when lumber sphere dinosaur someone";

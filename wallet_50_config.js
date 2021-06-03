@@ -1,1 +1,1 @@
-var mnemonic = "fog miss become cruel rural direct example happy crater south into sauce";
+var mnemonic = "shallow easily inhale theme absorb convince lawsuit hope injury lucky asset today";

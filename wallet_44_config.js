@@ -1,1 +1,1 @@
-var mnemonic = "like post stay pepper reveal settle eternal van away travel cabbage decrease";
+var mnemonic = "rough bar napkin concert protect innocent choose disease prize appear health metal";

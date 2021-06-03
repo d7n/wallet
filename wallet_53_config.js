@@ -1,1 +1,1 @@
-var mnemonic = "label luxury diary lady student meadow scout clump glory barely multiply dwarf";
+var mnemonic = "salute sad country shuffle glance clean final into lake brand flash lecture";

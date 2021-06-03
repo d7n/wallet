@@ -1,1 +1,1 @@
-var mnemonic = "grass regular fix ensure mystery frozen fat dismiss cannon around payment clown";
+var mnemonic = "name pole clap awesome scrap immense ancient loud denial barely reject skin";

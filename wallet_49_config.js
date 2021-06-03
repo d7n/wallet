@@ -1,1 +1,1 @@
-var mnemonic = "divide biology garden poem diesel grape normal cruise gauge fit happy autumn";
+var mnemonic = "strategy position afford purchase maple earn supply view east island analyst expire";

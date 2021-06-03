@@ -1,1 +1,1 @@
-var mnemonic = "brief hair pear funny husband sadness another fame demand meadow despair fragile";
+var mnemonic = "venture about grief give party word trust artist oyster raise island expect";

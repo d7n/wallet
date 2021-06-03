@@ -1,1 +1,1 @@
-var mnemonic = "wife can hockey blast favorite sentence method cave stool siege yellow beach";
+var mnemonic = "jealous cradle enact drill brand capable aim task apart multiply radio napkin";

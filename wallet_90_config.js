@@ -1,1 +1,1 @@
-var mnemonic = "moment tenant filter green often category bulb era toast edit tuition top";
+var mnemonic = "spread salon taste imitate net again also scatter umbrella amused push climb";

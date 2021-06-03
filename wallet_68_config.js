@@ -1,1 +1,1 @@
-var mnemonic = "property gap talent way february draft crop bus board west wealth chair";
+var mnemonic = "range half squeeze danger swing under home surprise damage mixture helmet photo";

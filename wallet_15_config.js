@@ -1,1 +1,1 @@
-var mnemonic = "wedding elbow slender jazz very include rookie average magnet mesh library theory";
+var mnemonic = "double empower amused thank region culture stay fantasy tribe found poet seat";

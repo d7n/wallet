@@ -1,1 +1,1 @@
-var mnemonic = "marble inherit donor forward museum firm order moon sugar scene cool try";
+var mnemonic = "amused payment pottery old ketchup object boat room invest width biology crisp";

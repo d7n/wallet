@@ -1,1 +1,1 @@
-var mnemonic = "saddle never high solution hen logic change virtual opinion bargain labor shoulder";
+var mnemonic = "clarify clever limit deposit fat food broken midnight health flock swift hat";

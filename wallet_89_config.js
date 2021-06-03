@@ -1,1 +1,1 @@
-var mnemonic = "dawn piano bleak salute cage elevator drop subway finger inner ramp toss";
+var mnemonic = "other scout alley remind wear result rotate vote glory enroll gas permit";

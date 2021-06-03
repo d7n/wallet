@@ -1,1 +1,1 @@
-var mnemonic = "silver inside balance morning tongue digital erupt life spoil dash couch sail";
+var mnemonic = "quick flag canal observe system crystal army expire lake valley copper citizen";

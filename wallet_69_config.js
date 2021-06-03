@@ -1,1 +1,1 @@
-var mnemonic = "entire claw water major when tilt monkey zebra great thank bus slender";
+var mnemonic = "victory sauce flavor wisdom idea parent clinic brick over film dutch feature";

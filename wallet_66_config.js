@@ -1,1 +1,1 @@
-var mnemonic = "burden february shine trouble tissue robust tenant ice castle roast mobile arrive";
+var mnemonic = "marble empty divert soldier youth inner misery bomb photo virtual obscure middle";

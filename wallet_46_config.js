@@ -1,1 +1,1 @@
-var mnemonic = "gasp island material army bread music volume zebra now clerk option hood";
+var mnemonic = "kidney innocent next cargo kitchen fatigue angry bulk blind middle obscure any";

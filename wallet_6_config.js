@@ -1,1 +1,1 @@
-var mnemonic = "define ghost business fly humble rice boy around aerobic simple fly talk";
+var mnemonic = "cover regular again much various prison sausage belt gallery wine drill wall";

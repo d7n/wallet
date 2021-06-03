@@ -1,1 +1,1 @@
-var mnemonic = "exact quote awesome input path certain orphan grief hip oyster genuine network";
+var mnemonic = "final opinion issue student punch enrich pill oyster believe gas flock slush";

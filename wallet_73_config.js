@@ -1,1 +1,1 @@
-var mnemonic = "buyer calm task mechanic alcohol insect pigeon replace view pull sketch setup";
+var mnemonic = "table speak bring parent please bamboo problem hour pottery kid cloth fetch";

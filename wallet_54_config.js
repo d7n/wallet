@@ -1,1 +1,1 @@
-var mnemonic = "swing erosion enact give olive fury debate add chair approve wreck awesome";
+var mnemonic = "stable regret wheat ostrich tilt amateur boat during agree network bounce recall";

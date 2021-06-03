@@ -1,1 +1,1 @@
-var mnemonic = "point pig return basket idle unaware jar book bulb olive rifle veteran";
+var mnemonic = "hobby panel mother fall team beef bird require album frog family hotel";

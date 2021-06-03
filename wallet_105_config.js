@@ -1,1 +1,1 @@
-var mnemonic = "frequent snake isolate bargain runway evil split inspire run leopard wet wave";
+var mnemonic = "urge service inherit control south bottom economy gorilla session thing roof daring";

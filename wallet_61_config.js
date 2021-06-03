@@ -1,1 +1,1 @@
-var mnemonic = "bone retreat little tackle easy amused confirm huge mention receive earn must";
+var mnemonic = "culture veteran winter enforce travel always sauce verb catalog among urge major";

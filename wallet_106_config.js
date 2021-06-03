@@ -1,1 +1,1 @@
-var mnemonic = "spot assault follow whip skirt dad damp crystal sand speed twice burden";
+var mnemonic = "spice limb news enroll prize afford fringe skate sword obscure deposit spin";

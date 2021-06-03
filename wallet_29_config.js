@@ -1,1 +1,1 @@
-var mnemonic = "economy inmate electric fruit fame melt circle fork switch friend spice cargo";
+var mnemonic = "own trim way sorry salute parade step test metal flee around rack";
