@@ -1,1 +1,1 @@
-var mnemonic = "elder bounce lion park video scout return frost hen symptom practice edit";
+var mnemonic = "market option group will cloud okay enjoy despair tone cable wrestle relax";

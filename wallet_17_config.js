@@ -1,1 +1,1 @@
-var mnemonic = "height current aerobic exhaust defense soul office harvest mystery bubble strategy warrior";
+var mnemonic = "east aware idea urban lend rapid jump trap camp enable pipe payment";

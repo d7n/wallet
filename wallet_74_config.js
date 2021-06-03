@@ -1,1 +1,1 @@
-var mnemonic = "situate plastic jeans setup true cattle quit bubble sound genius worth inflict";
+var mnemonic = "also category attend cactus another minute parade awake among comfort travel nuclear";

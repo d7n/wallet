@@ -1,1 +1,1 @@
-var mnemonic = "video midnight barely they suspect run quiz crouch cry confirm what crunch";
+var mnemonic = "owner echo album rude present tomorrow hero reunion royal derive common cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon always rely honey hungry copy urge harvest forward tired key coyote";
+var mnemonic = "human pioneer cricket soft update throw interest oven gun corn palm bus";

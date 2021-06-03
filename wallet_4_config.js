@@ -1,1 +1,1 @@
-var mnemonic = "crash farm creek bitter plate early smile tube guitar pepper blur height";
+var mnemonic = "sponsor fiscal reform blush luxury patrol fitness slogan limit day glove island";

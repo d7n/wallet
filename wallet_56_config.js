@@ -1,1 +1,1 @@
-var mnemonic = "link unaware amused sight express rate maid winter design universe trial tissue";
+var mnemonic = "smile wage grape filter develop off game tip record bulk abandon tomato";

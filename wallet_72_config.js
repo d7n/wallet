@@ -1,1 +1,1 @@
-var mnemonic = "room cause object surprise romance proud thing swarm spoon notice input hazard";
+var mnemonic = "worth dish behind chest onion beef dream rough iron reopen stamp lumber";

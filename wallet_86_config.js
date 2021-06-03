@@ -1,1 +1,1 @@
-var mnemonic = "foam destroy assist armed runway caution grid mind wreck chaos snow defy";
+var mnemonic = "fabric coin quit monkey model sunset update derive kidney mention sort witness";

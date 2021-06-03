@@ -1,1 +1,1 @@
-var mnemonic = "mention daring silent alone olive retreat point follow omit plate hold style";
+var mnemonic = "luxury couch spring wild clinic hello boat adapt you hill medal chest";

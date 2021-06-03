@@ -1,1 +1,1 @@
-var mnemonic = "finger truck crush harbor tree circle advice ignore october slab surprise light";
+var mnemonic = "volume piano east average seek fragile disagree bullet series sphere lumber pizza";

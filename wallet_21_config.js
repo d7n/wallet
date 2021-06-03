@@ -1,1 +1,1 @@
-var mnemonic = "cover eternal half kid purse noble visit enforce door ankle trim language";
+var mnemonic = "elite bid churn casual question virus fun teach bundle dirt keen life";

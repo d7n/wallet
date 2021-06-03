@@ -1,1 +1,1 @@
-var mnemonic = "faculty super demand market there verb fantasy harbor remind ocean uphold priority";
+var mnemonic = "industry industry later solar mammal when desert couple fashion zero absurd outside";

@@ -1,1 +1,1 @@
-var mnemonic = "want fortune grocery digital essay captain grass hamster huge pudding mixed color";
+var mnemonic = "lazy mandate evidence announce amount lawn mountain annual taxi fury cool tree";

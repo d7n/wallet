@@ -1,1 +1,1 @@
-var mnemonic = "neither jewel engine fault science vibrant eagle cup crawl music discover heavy";
+var mnemonic = "run involve repeat vocal mystery tide below beach idea keen parade alley";

@@ -1,1 +1,1 @@
-var mnemonic = "install loan jungle brush impose blur vintage turn admit two nose term";
+var mnemonic = "sibling grant unknown brush melody brisk rich crowd spice royal check toward";

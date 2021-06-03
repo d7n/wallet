@@ -1,1 +1,1 @@
-var mnemonic = "farm eternal code spike month enable hint stomach harsh glad noodle history";
+var mnemonic = "raccoon hold catch leopard razor room reward mention despair void attract snake";

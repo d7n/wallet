@@ -1,1 +1,1 @@
-var mnemonic = "absorb parent situate mouse inside soccer rebuild kitchen grape echo volume amused";
+var mnemonic = "hospital taxi wet enroll hero divorce degree master fuel pioneer mistake amateur";

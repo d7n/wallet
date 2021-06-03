@@ -1,1 +1,1 @@
-var mnemonic = "sunny bridge collect this next album then arm crazy ticket cave worry";
+var mnemonic = "popular payment parade salon cloth program vivid shine negative frog lecture grain";

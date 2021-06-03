@@ -1,1 +1,1 @@
-var mnemonic = "marine pass pitch square surround tortoise victory devote category course oil panic";
+var mnemonic = "mixed zone reunion wreck three diesel cloth series edit forest exclude iron";

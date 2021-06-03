@@ -1,1 +1,1 @@
-var mnemonic = "bronze knife maze list despair cotton fat cute cousin clarify say noise";
+var mnemonic = "glare assist walk flee flee hub fabric joy juice obscure emerge market";

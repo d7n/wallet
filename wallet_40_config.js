@@ -1,1 +1,1 @@
-var mnemonic = "abstract broom deposit own board beach either setup rule leg attitude fire";
+var mnemonic = "depend original crater spray nose wealth item sheriff best what hamster quote";

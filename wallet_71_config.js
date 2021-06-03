@@ -1,1 +1,1 @@
-var mnemonic = "cash access potato guide wage decline tumble when vacant bronze crumble month";
+var mnemonic = "pudding tumble order long pitch because menu unknown neck wonder heart cart";

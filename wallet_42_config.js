@@ -1,1 +1,1 @@
-var mnemonic = "across forget more shoot merge bundle already length almost cigar wedding bicycle";
+var mnemonic = "pledge waste object gas amused priority virus give genre deal legend wild";

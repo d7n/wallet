@@ -1,1 +1,1 @@
-var mnemonic = "badge stereo ask tongue dry chief decrease mixture armed cupboard above depart";
+var mnemonic = "furnace cry ritual grain expand weather magic shield average convince cliff goat";

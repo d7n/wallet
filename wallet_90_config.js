@@ -1,1 +1,1 @@
-var mnemonic = "chaos beef away pact census disorder legal lend funny cost coffee person";
+var mnemonic = "accident social drive cactus panic speed scissors country seek suggest neglect live";

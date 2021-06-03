@@ -1,1 +1,1 @@
-var mnemonic = "nurse search absurd addict tuna still february hybrid sentence drill deny scale";
+var mnemonic = "escape aware regular rule say luxury teach buyer piece urge only isolate";

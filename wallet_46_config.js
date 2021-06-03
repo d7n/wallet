@@ -1,1 +1,1 @@
-var mnemonic = "album inhale jump plunge skin home object feature labor still basic friend";
+var mnemonic = "blade pact donkey horror run album rose seed cluster elite beauty defy";

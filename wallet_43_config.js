@@ -1,1 +1,1 @@
-var mnemonic = "never juice motor near ladder tell zone arrive quote option garbage grief";
+var mnemonic = "various ten home only column aerobic flavor feel rose junk undo vast";

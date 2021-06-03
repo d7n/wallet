@@ -1,1 +1,1 @@
-var mnemonic = "rookie uniform solution recipe estate hard major mercy hello happy athlete consider";
+var mnemonic = "dismiss review home inflict point debate hybrid upon follow point verb another";

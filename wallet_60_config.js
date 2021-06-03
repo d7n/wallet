@@ -1,1 +1,1 @@
-var mnemonic = "pioneer visa sunset thank olympic minor upper peasant waste reward answer else";
+var mnemonic = "meat sustain opera fiber fog solve ready possible word flip bright swear";

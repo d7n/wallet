@@ -1,1 +1,1 @@
-var mnemonic = "copper dirt pattern erode carpet expose already insect naive monitor brief excess";
+var mnemonic = "invite vendor nest antique put paper follow music awesome west injury suit";

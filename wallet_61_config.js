@@ -1,1 +1,1 @@
-var mnemonic = "permit leave fluid raven liar robust truth garbage pink fox panic embody";
+var mnemonic = "result shadow benefit shop bicycle true table click clip elephant fortune again";

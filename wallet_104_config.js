@@ -1,1 +1,1 @@
-var mnemonic = "index dolphin normal taxi gap elder copper genre improve champion floor swim";
+var mnemonic = "boy candy sock aim render van member enjoy dune lumber robot traffic";

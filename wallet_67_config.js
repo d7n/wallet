@@ -1,1 +1,1 @@
-var mnemonic = "maze win rescue tone drama farm aisle perfect august piano awkward rebuild";
+var mnemonic = "jelly scout genre lock apology soup faculty holiday denial hover insect laugh";

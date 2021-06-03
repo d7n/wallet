@@ -1,1 +1,1 @@
-var mnemonic = "corn settle another enough pitch tiny enemy razor chef armor little shoe";
+var mnemonic = "keep energy slot menu pig rain approve unusual gloom donor layer treat";

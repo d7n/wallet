@@ -1,1 +1,1 @@
-var mnemonic = "hurdle champion shine taste also fiction risk federal shock ankle become vessel";
+var mnemonic = "media cave tomato subway express sphere episode detect barely spot other region";

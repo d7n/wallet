@@ -1,1 +1,1 @@
-var mnemonic = "banana orchard valid citizen animal club intact surface agree parrot alter pen";
+var mnemonic = "mix panic huge unveil polar brick panther sell broom jelly miracle step";

@@ -1,1 +1,1 @@
-var mnemonic = "increase fitness tuition cloth mirror desk correct police wave zero matter girl";
+var mnemonic = "term penalty lawsuit possible tennis source lesson museum year gesture convince mistake";

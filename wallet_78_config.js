@@ -1,1 +1,1 @@
-var mnemonic = "valley slogan appear express account album safe steel issue clip federal random";
+var mnemonic = "vote capable april eyebrow garlic choice stone model gesture answer hospital dismiss";

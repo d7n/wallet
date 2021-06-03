@@ -1,1 +1,1 @@
-var mnemonic = "manage iron camera empty seminar champion gold hotel margin actual renew umbrella";
+var mnemonic = "fever ball holiday gospel stamp arm consider weekend this range frost promote";

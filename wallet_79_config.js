@@ -1,1 +1,1 @@
-var mnemonic = "used host undo slab century traffic marine search lava novel rail road";
+var mnemonic = "merry vague captain judge glory toe sense index school exercise domain around";

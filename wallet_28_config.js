@@ -1,1 +1,1 @@
-var mnemonic = "ghost remain few prize prosper despair crazy sausage finish swamp song spread";
+var mnemonic = "spider gorilla provide betray trouble bargain visa delay more when magic wage";

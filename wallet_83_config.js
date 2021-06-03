@@ -1,1 +1,1 @@
-var mnemonic = "couch voice caught loyal want ketchup dinner goat smile federal bag hat";
+var mnemonic = "female pony truly body mixed jar possible punch keen brave false letter";

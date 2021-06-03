@@ -1,1 +1,1 @@
-var mnemonic = "movie speak wild simple rocket globe congress enact indicate expire destroy similar";
+var mnemonic = "script warm deer street galaxy enjoy grain shock enemy stadium scissors bulk";

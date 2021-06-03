@@ -1,1 +1,1 @@
-var mnemonic = "wild switch fancy again music result mesh mention drop skate path illegal";
+var mnemonic = "earth vote spider usage illness journey party price imitate food call yard";

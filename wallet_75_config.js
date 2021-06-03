@@ -1,1 +1,1 @@
-var mnemonic = "stool hair carbon ready drip veteran apology crater dress rebuild slim escape";
+var mnemonic = "duty outside cart approve reject truly autumn rain huge little volcano loyal";

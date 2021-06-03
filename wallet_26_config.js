@@ -1,1 +1,1 @@
-var mnemonic = "rail other retire shove pair run trust tennis kiss giggle yellow hold";
+var mnemonic = "orphan marriage renew blanket sport more arrive fly tower rifle ribbon defense";

@@ -1,1 +1,1 @@
-var mnemonic = "fish melt promote fence trophy damage fossil pair abandon trade immense rescue";
+var mnemonic = "frozen airport hawk burst travel weather festival oblige approve return album test";

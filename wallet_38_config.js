@@ -1,1 +1,1 @@
-var mnemonic = "purse desk clump report artwork slam aim crash velvet answer chalk twenty";
+var mnemonic = "negative assume message blossom tattoo work claw focus brief novel obvious moment";

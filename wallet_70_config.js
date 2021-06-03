@@ -1,1 +1,1 @@
-var mnemonic = "duty upset husband pelican risk senior orchard fatal firm twin trumpet neutral";
+var mnemonic = "broccoli nerve way clerk order crater impulse profit original tree skill stomach";

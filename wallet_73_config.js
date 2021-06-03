@@ -1,1 +1,1 @@
-var mnemonic = "uphold tissue section tissue barely help economy three rough island sunny easily";
+var mnemonic = "lens hour impose concert fee pull three animal penalty volume wife rude";

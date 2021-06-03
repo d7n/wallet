@@ -1,1 +1,1 @@
-var mnemonic = "file bounce delay pool anchor screen clump siren luxury lecture enter tragic";
+var mnemonic = "depend ticket squirrel spring arch spy nerve bridge tiger large silver used";

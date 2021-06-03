@@ -1,1 +1,1 @@
-var mnemonic = "build daring myth cabin shoulder enforce swamp jealous pet noble wise over";
+var mnemonic = "legal supply inspire invest hollow salad ring immune want powder rally maximum";

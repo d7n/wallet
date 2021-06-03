@@ -1,1 +1,1 @@
-var mnemonic = "grit carpet bomb ball acoustic paddle eight electric cinnamon soldier traffic canoe";
+var mnemonic = "retire verify such drama force wealth solar secret drop hat among hidden";

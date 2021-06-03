@@ -1,1 +1,1 @@
-var mnemonic = "nerve employ motion inmate emerge pass upset mother urban senior royal choose";
+var mnemonic = "endorse sound owner sign loud palm pole course race dizzy web shoot";

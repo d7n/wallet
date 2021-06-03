@@ -1,1 +1,1 @@
-var mnemonic = "camera erosion potato limb tower prosper hope south adult guard embrace major";
+var mnemonic = "already nurse expand flavor length loyal diamond hello visit laptop pony art";

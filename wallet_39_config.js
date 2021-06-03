@@ -1,1 +1,1 @@
-var mnemonic = "visit motor shrug better goose festival cupboard neither visual toe seat base";
+var mnemonic = "race space half vintage scheme want caught reveal misery early drill peace";

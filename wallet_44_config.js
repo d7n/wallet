@@ -1,1 +1,1 @@
-var mnemonic = "ethics banana magic embark eyebrow romance risk town drill scissors guess member";
+var mnemonic = "charge half super rule capital run across season legal vivid fortune solar";

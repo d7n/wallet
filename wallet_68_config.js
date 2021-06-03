@@ -1,1 +1,1 @@
-var mnemonic = "balcony garment field fringe boy father work acoustic quit tank fish love";
+var mnemonic = "stadium gadget usage purity minor blade nuclear card day hero segment river";

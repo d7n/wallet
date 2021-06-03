@@ -1,1 +1,1 @@
-var mnemonic = "diagram surge human must ice top quarter monster ostrich knock debate sure";
+var mnemonic = "float ankle stumble heart monkey lounge thing okay fold impact dynamic dragon";

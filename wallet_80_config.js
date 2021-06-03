@@ -1,1 +1,1 @@
-var mnemonic = "appear green deer actress funny know view book mistake enhance sense play";
+var mnemonic = "action economy finish cattle farm accident rib crush away build paddle clinic";

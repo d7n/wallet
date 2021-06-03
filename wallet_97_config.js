@@ -1,1 +1,1 @@
-var mnemonic = "muffin topic reunion blue inflict duck liar pottery kiss dwarf state ozone";
+var mnemonic = "wood mind room agent level car price chalk love meat valve turkey";

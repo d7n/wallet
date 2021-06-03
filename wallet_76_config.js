@@ -1,1 +1,1 @@
-var mnemonic = "beef split bargain abstract blur smooth nest wrong melt polar monster cup";
+var mnemonic = "retire message discover upset arrest inch satisfy various panel rib tree seek";

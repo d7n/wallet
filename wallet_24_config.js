@@ -1,1 +1,1 @@
-var mnemonic = "satoshi siege patient proud cotton chunk alert session chaos eagle proud motion";
+var mnemonic = "snap seminar gap pupil pet rude avocado zero crucial degree color dice";

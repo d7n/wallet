@@ -1,1 +1,1 @@
-var mnemonic = "dune gesture stereo canvas success fiscal seminar usage profit glove skirt quantum";
+var mnemonic = "razor muscle basic upon all nut save canoe uniform come topic venture";

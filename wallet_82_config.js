@@ -1,1 +1,1 @@
-var mnemonic = "marble sustain copper bubble april estate valve neglect impact resemble client medal";
+var mnemonic = "silk mass patrol desk patch float link city play decrease ugly document";

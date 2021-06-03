@@ -1,1 +1,1 @@
-var mnemonic = "path doctor step improve change pigeon ripple myself skill become orphan meadow";
+var mnemonic = "voyage roof else rhythm acid identify color under liar slim food perfect";

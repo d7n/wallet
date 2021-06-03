@@ -1,1 +1,1 @@
-var mnemonic = "giraffe ordinary garment alone tank bonus six theme awesome mean animal step";
+var mnemonic = "pulse digital major blush middle record cheese post west office budget inhale";

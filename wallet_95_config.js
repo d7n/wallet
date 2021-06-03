@@ -1,1 +1,1 @@
-var mnemonic = "dune squeeze together economy wire rough better night ignore price pencil badge";
+var mnemonic = "deal draft result sister bike excess penalty next prefer caught must curtain";

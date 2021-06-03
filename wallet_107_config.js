@@ -1,1 +1,1 @@
-var mnemonic = "fluid crop mushroom when edge vote chaos middle garlic lonely lunar forest";
+var mnemonic = "arrest morning achieve smoke apple hunt legal double flee royal slogan cannon";

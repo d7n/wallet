@@ -1,1 +1,1 @@
-var mnemonic = "vanish lumber season bicycle device image demise snack emerge fix mutual sleep";
+var mnemonic = "input wink usual pizza member explain glow memory cliff once metal voice";

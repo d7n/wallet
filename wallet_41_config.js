@@ -1,1 +1,1 @@
-var mnemonic = "like side this giant enforce awesome asset rack glide early praise alone";
+var mnemonic = "frame stadium riot rude alien nation earth enough upset shoulder monitor taste";

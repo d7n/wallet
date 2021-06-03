@@ -1,1 +1,1 @@
-var mnemonic = "leisure flash cigar clever name claim entry funny furnace square eagle useful";
+var mnemonic = "spend dust token base filter entry track prosper series simple wonder present";

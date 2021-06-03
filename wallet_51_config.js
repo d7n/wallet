@@ -1,1 +1,1 @@
-var mnemonic = "small crack husband endorse away mention upgrade anchor inherit enact never churn";
+var mnemonic = "phone october thumb vocal final ignore imitate bar system fury card feel";

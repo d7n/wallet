@@ -1,1 +1,1 @@
-var mnemonic = "album power segment minute alpha crunch canal twist dragon wall health mimic";
+var mnemonic = "main mom situate turtle march happy average tennis weasel unfold dwarf blade";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious wild sorry cheap anger castle wagon next skin ship three mansion";
+var mnemonic = "lesson cat birth second tuna disease correct subject shuffle boat sort diary";

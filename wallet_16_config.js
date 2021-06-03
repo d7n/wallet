@@ -1,1 +1,1 @@
-var mnemonic = "report hammer travel celery black rural tribe settle swap ethics enforce fold";
+var mnemonic = "filter away pepper employ birth credit destroy payment warrior consider unveil silver";

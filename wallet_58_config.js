@@ -1,1 +1,1 @@
-var mnemonic = "notice tragic foster bomb family initial sunset gossip ankle teach sadness twist";
+var mnemonic = "farm rally noodle inch usage search turkey employ double lyrics liberty enlist";

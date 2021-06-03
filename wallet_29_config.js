@@ -1,1 +1,1 @@
-var mnemonic = "lawn sword banner cash slim supreme near cram divide apart forward noble";
+var mnemonic = "human lizard monkey post solar bulk polar capital era runway custom stone";

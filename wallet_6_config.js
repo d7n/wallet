@@ -1,1 +1,1 @@
-var mnemonic = "vocal buffalo basket general wrap odor swear hat bargain urge flush person";
+var mnemonic = "stick trip health usual orbit globe clown payment idle glimpse usage oil";

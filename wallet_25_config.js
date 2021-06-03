@@ -1,1 +1,1 @@
-var mnemonic = "hint corn fever poverty electric moon oak ripple smart wild soccer voyage";
+var mnemonic = "oil husband picture picture between inch busy kiss latin work swing miss";

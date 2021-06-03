@@ -1,1 +1,1 @@
-var mnemonic = "angry thunder smoke liquid spread volume fence find flee milk hand fresh";
+var mnemonic = "practice odor tower cereal response traffic sphere duty forest window receive unable";

@@ -1,1 +1,1 @@
-var mnemonic = "collect gentle economy step addict family fashion stick solve nice stick away";
+var mnemonic = "blur own trade kiss rent sauce chair ostrich concert hospital episode solar";

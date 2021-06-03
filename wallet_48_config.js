@@ -1,1 +1,1 @@
-var mnemonic = "walk legend plate member draw december saddle normal slogan rely hundred brief";
+var mnemonic = "special sponsor excuse volume struggle tongue diamond profit dune eager ecology opera";

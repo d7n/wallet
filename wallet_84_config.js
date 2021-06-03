@@ -1,1 +1,1 @@
-var mnemonic = "tiny vital veteran lady scatter spice soul adjust disorder air census game";
+var mnemonic = "alcohol tunnel fortune private odor banana clap client bird monster jelly gold";

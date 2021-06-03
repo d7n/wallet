@@ -1,1 +1,1 @@
-var mnemonic = "stay muffin casual acid blanket valve flight high extend gospel fan circle";
+var mnemonic = "hard shallow cluster pizza topic regular cabbage honey water state elevator stereo";
