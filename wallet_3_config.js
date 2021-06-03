@@ -1,1 +1,1 @@
-var mnemonic = "deputy badge enlist sudden symbol canyon inspire debate ordinary chuckle worry attack";
+var mnemonic = "wheat champion sweet into powder crisp length lift devote resist gown tissue";

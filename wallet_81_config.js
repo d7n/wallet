@@ -1,1 +1,1 @@
-var mnemonic = "sheriff dad level ice flash act borrow coffee guilt rely method topple";
+var mnemonic = "pumpkin museum claim visa december flash found can virus armor notice brass";

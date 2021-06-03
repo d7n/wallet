@@ -1,1 +1,1 @@
-var mnemonic = "explain minute donate cherry recall dawn maze that ginger company couple inmate";
+var mnemonic = "couple tower gas sunny hen river bench thank before unveil orchard wealth";

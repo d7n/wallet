@@ -1,1 +1,1 @@
-var mnemonic = "truly prepare sing grief arch bean jungle peanut filter access item chicken";
+var mnemonic = "seven side smart actor fix buddy yard timber road shine lake fog";

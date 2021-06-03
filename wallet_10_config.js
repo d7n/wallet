@@ -1,1 +1,1 @@
-var mnemonic = "erupt level rib ancient stereo public weather absorb hole dragon gaze private";
+var mnemonic = "beyond stem buddy entry stem absent economy crowd prevent kiss dilemma chapter";

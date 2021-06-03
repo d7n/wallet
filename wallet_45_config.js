@@ -1,1 +1,1 @@
-var mnemonic = "surge spray page doctor mesh reveal view kit harbor base use jar";
+var mnemonic = "group fix drama warrior mule example hotel dinner devote meadow differ cushion";

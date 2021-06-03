@@ -1,1 +1,1 @@
-var mnemonic = "found zone ship blush muffin oven knife novel six jacket swift glue";
+var mnemonic = "must visa flag amount few enlist scan filter habit myth mix spider";

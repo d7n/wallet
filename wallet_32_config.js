@@ -1,1 +1,1 @@
-var mnemonic = "ball fix cradle keep absorb nephew sustain outdoor attack obey anger earth";
+var mnemonic = "oval bottom online wonder verify length staff churn carry answer bullet miss";

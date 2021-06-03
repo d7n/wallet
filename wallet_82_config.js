@@ -1,1 +1,1 @@
-var mnemonic = "cage clinic amount idea quit sheriff bulk sauce when year birth vehicle";
+var mnemonic = "industry awesome common crowd noise bar smart weird cheese decide patient cliff";

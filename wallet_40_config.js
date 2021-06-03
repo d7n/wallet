@@ -1,1 +1,1 @@
-var mnemonic = "grid purpose recall tunnel edit divorce fruit economy morning curious shell secret";
+var mnemonic = "involve shiver attack youth mind shine multiply involve ten world punch luxury";

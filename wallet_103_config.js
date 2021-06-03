@@ -1,1 +1,1 @@
-var mnemonic = "can poet raccoon tower clay battle ridge spend write rail polar calm";
+var mnemonic = "buffalo tenant cheap initial matrix dynamic hope earth differ excuse height jeans";

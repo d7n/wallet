@@ -1,1 +1,1 @@
-var mnemonic = "disagree blue damage calm ring sustain egg december inch monkey bunker pig";
+var mnemonic = "verify emerge pluck base village nominee inhale drop hat tumble portion inject";

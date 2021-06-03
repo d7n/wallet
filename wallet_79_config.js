@@ -1,1 +1,1 @@
-var mnemonic = "faint film catalog dream autumn embrace hold envelope craft express tool hurry";
+var mnemonic = "winner surface idea dragon margin lunar bacon guess gun warfare satisfy dynamic";

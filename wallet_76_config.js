@@ -1,1 +1,1 @@
-var mnemonic = "peasant anxiety okay soft about glad baby online pupil foam disorder rent";
+var mnemonic = "shed panel country chat gold pill wire scatter misery appear drift edit";

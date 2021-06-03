@@ -1,1 +1,1 @@
-var mnemonic = "renew ivory forget merit donkey eight drive intact rug sketch juice south";
+var mnemonic = "equal position drill picnic sing flash then glance special cinnamon craft meat";

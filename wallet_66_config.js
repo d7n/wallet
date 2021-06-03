@@ -1,1 +1,1 @@
-var mnemonic = "cushion service security popular cake diagram math assault hat return expect sea";
+var mnemonic = "mind awesome wish wrestle cereal fatigue express cereal pistol steak cable patient";

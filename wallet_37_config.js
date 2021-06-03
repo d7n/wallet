@@ -1,1 +1,1 @@
-var mnemonic = "rural panther vault champion speed bounce police unfold mosquito kidney elephant squirrel";
+var mnemonic = "relief mule eye cover awful gown clean increase awkward prevent carry obscure";

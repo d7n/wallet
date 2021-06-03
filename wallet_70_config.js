@@ -1,1 +1,1 @@
-var mnemonic = "dash please veteran beef embark term fiscal birth follow long joke uncle";
+var mnemonic = "auto undo crane main that jeans stadium juice frozen amazing lounge garage";

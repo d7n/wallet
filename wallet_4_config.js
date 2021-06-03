@@ -1,1 +1,1 @@
-var mnemonic = "wheat wide police broccoli narrow skin duty deer cluster bullet wine label";
+var mnemonic = "three witness stove vanish account pear ski wing immune staff wealth blue";

@@ -1,1 +1,1 @@
-var mnemonic = "main suit foam flag result february spike speed chair sauce sunny grab";
+var mnemonic = "bitter meadow they practice problem horn start pretty awful calm release horse";

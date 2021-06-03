@@ -1,1 +1,1 @@
-var mnemonic = "gym human trouble tone teach blanket wood biology myself illness swap palm";
+var mnemonic = "similar goat fortune define cliff attend gym bitter donor art pact mass";

@@ -1,1 +1,1 @@
-var mnemonic = "excite all steak fold awake special unknown illegal later call alter prize";
+var mnemonic = "tackle lamp nut loyal day opera camp silent idea render differ task";

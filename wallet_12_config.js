@@ -1,1 +1,1 @@
-var mnemonic = "place pelican eagle story magnet mean industry combine orange bulk drip expand";
+var mnemonic = "have luggage scare feed excite curious today crane logic wear orphan bacon";

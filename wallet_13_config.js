@@ -1,1 +1,1 @@
-var mnemonic = "latin weapon produce clever arrive paper pair lab scatter bounce famous cross";
+var mnemonic = "soap setup obey magnet favorite south naive crisp there urban angry mammal";

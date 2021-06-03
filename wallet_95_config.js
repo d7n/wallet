@@ -1,1 +1,1 @@
-var mnemonic = "gold session turtle anxiety cave subway tornado paddle flag trend panda green";
+var mnemonic = "metal exist remind argue stock tobacco enroll dignity voyage cinnamon shield traffic";

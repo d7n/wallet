@@ -1,1 +1,1 @@
-var mnemonic = "filter outside wool fix adapt quiz under horn valve relief river club";
+var mnemonic = "sun slab donate kid neither bike enemy witness hollow famous detail whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "grass toward host host hamster define coral combine spy outer fatal cross";
+var mnemonic = "special right toward shift amused unaware degree fork where level crouch evoke";

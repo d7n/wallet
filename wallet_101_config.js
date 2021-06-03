@@ -1,1 +1,1 @@
-var mnemonic = "atom dial hybrid lady lift cheese magic check private only play combine";
+var mnemonic = "submit always scene crystal fade gloom insect deny rescue cereal bike mango";

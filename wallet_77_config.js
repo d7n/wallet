@@ -1,1 +1,1 @@
-var mnemonic = "plug caught excess team sudden nut zoo front found tragic mixture blush";
+var mnemonic = "abstract skate vehicle amateur shoot turtle write insane soup leader suit eagle";

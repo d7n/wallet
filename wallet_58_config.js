@@ -1,1 +1,1 @@
-var mnemonic = "practice useful metal naive tenant syrup purchase basic digital grain zoo grant";
+var mnemonic = "cave sentence unable place shaft power fossil hollow lawn mouse choose honey";

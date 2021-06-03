@@ -1,1 +1,1 @@
-var mnemonic = "income problem tortoise exact tobacco scrap release net clerk cave demand lunar";
+var mnemonic = "dune tobacco spawn thrive engage exhaust charge width eternal join leg stool";

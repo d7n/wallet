@@ -1,1 +1,1 @@
-var mnemonic = "welcome combine maximum brush save genre ethics age plunge pill critic lottery";
+var mnemonic = "utility recipe front tiger elite man cinnamon puppy six throw sword glide";

@@ -1,1 +1,1 @@
-var mnemonic = "review shuffle half topic session cube chest illegal exchange liberty maze member";
+var mnemonic = "deer dose parent exist swim arena trust dignity include chimney debate diagram";

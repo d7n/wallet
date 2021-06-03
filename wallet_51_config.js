@@ -1,1 +1,1 @@
-var mnemonic = "fix cereal word matter panel unit step runway session valve inhale blast";
+var mnemonic = "page hobby glad luggage parade ill bomb window expand funny okay glass";

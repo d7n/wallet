@@ -1,1 +1,1 @@
-var mnemonic = "common turkey burst can amount hammer guilt problem object early danger tag";
+var mnemonic = "vital balcony combine winner adapt scorpion arctic member sea assume shoot earn";

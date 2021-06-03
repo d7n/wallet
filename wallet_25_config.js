@@ -1,1 +1,1 @@
-var mnemonic = "entire plate before sand random know between patch carpet bone reward media";
+var mnemonic = "doctor trap conduct school judge extend cat humble adjust symbol body cinnamon";

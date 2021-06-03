@@ -1,1 +1,1 @@
-var mnemonic = "strike knife door cricket sun catch atom very angry shy auction deliver";
+var mnemonic = "deer romance thought puppy mutual opera fox wreck crystal under wait process";

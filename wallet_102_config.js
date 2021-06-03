@@ -1,1 +1,1 @@
-var mnemonic = "follow embark jelly frequent music olive across diamond peace ceiling since volume";
+var mnemonic = "bomb swallow pyramid birth final raven sentence palm replace afford put hip";

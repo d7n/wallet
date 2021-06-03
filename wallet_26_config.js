@@ -1,1 +1,1 @@
-var mnemonic = "banana brass tissue accuse grant plastic glue surprise wage salon girl east";
+var mnemonic = "skate opera slab property again word subject praise during ring crime seed";

@@ -1,1 +1,1 @@
-var mnemonic = "hope pistol three puppy file wrist love lounge direct goddess rebuild goose";
+var mnemonic = "loyal catalog property piano frost vendor crack action mimic slab foster broom";

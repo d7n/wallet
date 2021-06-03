@@ -1,1 +1,1 @@
-var mnemonic = "loop vault network pet actor peace hungry sell meat cabbage early display";
+var mnemonic = "shoot silver dwarf coyote nest script bench ranch idea over reason mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "kind guide act paddle order during appear clinic pride give hybrid box";
+var mnemonic = "air slender energy furnace across plunge palm across knee raise mad scrub";

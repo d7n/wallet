@@ -1,1 +1,1 @@
-var mnemonic = "churn portion typical bleak real flash hint inmate zero coconut relief green";
+var mnemonic = "whip neck check physical grit adjust monitor region final betray echo rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder around burden border major man trumpet plug blouse embark hazard all";
+var mnemonic = "intact lake rival silly occur easily erase dinner repair emerge crime focus";

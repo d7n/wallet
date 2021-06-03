@@ -1,1 +1,1 @@
-var mnemonic = "obscure sphere address world melody flight render perfect frequent fade insane amateur";
+var mnemonic = "damage basket midnight crisp galaxy pill idea ordinary together motor version pear";

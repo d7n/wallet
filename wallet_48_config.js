@@ -1,1 +1,1 @@
-var mnemonic = "multiply master six destroy awake increase unable denial permit spoon monster web";
+var mnemonic = "season pond obvious parrot pyramid canoe dream fatal voice ball robust accident";

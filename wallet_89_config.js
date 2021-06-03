@@ -1,1 +1,1 @@
-var mnemonic = "april layer order lab also silent valve unfair senior track employ price";
+var mnemonic = "among treat digital meat brisk build crop village undo enrich alien aware";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle one clock market autumn swap verb spread ring perfect faint giraffe";
+var mnemonic = "tuna stand odor ride gauge creek pitch fox insect devote sibling spray";

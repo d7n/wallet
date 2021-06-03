@@ -1,1 +1,1 @@
-var mnemonic = "party evidence pig when genuine mushroom kid olympic bargain hip inherit visit";
+var mnemonic = "side tissue struggle trigger myself path elbow sudden erupt illness episode dance";

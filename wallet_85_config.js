@@ -1,1 +1,1 @@
-var mnemonic = "diagram just egg strategy casino lock end wine grain fiscal hello gallery";
+var mnemonic = "author oven slight habit toss remain response tackle soda shell photo squirrel";

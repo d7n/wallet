@@ -1,1 +1,1 @@
-var mnemonic = "true naive dose frame celery detect mutual country file salmon poverty artefact";
+var mnemonic = "later police february announce clap magic unusual tattoo quantum arrest eagle right";

@@ -1,1 +1,1 @@
-var mnemonic = "glory dream drastic dog bullet knock pulp trap vanish next two math";
+var mnemonic = "tourist few predict bleak pulse pig race safe casino submit rebuild false";

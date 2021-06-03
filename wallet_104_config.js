@@ -1,1 +1,1 @@
-var mnemonic = "they donkey taxi tourist season beach voyage wild absent banner ecology quiz";
+var mnemonic = "horn ahead lock hip toss believe spider fruit sustain butter cactus sudden";

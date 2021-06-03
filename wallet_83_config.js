@@ -1,1 +1,1 @@
-var mnemonic = "tube ritual retire scene maid damp hobby riot trade chase steak one";
+var mnemonic = "envelope tobacco army extend memory reunion blast lumber pony nothing protect equip";

@@ -1,1 +1,1 @@
-var mnemonic = "range file ring visual innocent afraid suffer debate fog jazz educate dignity";
+var mnemonic = "card arm bone final street color horse denial brain kingdom park main";

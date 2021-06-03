@@ -1,1 +1,1 @@
-var mnemonic = "setup abstract regular industry medal patient virtual hockey include ripple kite purse";
+var mnemonic = "patrol mad elbow alley traffic tuition squeeze audit depth leave tunnel glimpse";

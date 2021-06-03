@@ -1,1 +1,1 @@
-var mnemonic = "remember desk rely deal sorry sudden flush hockey observe tag balance pull";
+var mnemonic = "notable junk jewel winter liar exchange erase sister prosper side salon anxiety";

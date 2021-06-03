@@ -1,1 +1,1 @@
-var mnemonic = "sustain direct current paddle object aim point modify remain civil weapon snap";
+var mnemonic = "ribbon feel hockey nice letter bean glad rookie steak unknown decrease pride";

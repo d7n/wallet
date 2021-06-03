@@ -1,1 +1,1 @@
-var mnemonic = "train dynamic feel ignore rate custom end bacon flame say ticket ensure";
+var mnemonic = "dash little era exist myth close mix basic pipe harbor mirror script";

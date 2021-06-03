@@ -1,1 +1,1 @@
-var mnemonic = "around coral tent east juice enter shaft swamp voice napkin delay change";
+var mnemonic = "gaze fatigue wash turkey alley impose promote upon method panda captain cricket";

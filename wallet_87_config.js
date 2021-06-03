@@ -1,1 +1,1 @@
-var mnemonic = "gauge badge flip lamp cloud pistol rent aisle worth century gold merge";
+var mnemonic = "fold tourist where awful work coin later cry jewel wisdom raccoon floor";

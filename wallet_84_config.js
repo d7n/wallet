@@ -1,1 +1,1 @@
-var mnemonic = "upper public thunder deer keep output rely slogan belt corn reveal attract";
+var mnemonic = "degree trial gasp decorate april valley exile apple gate recipe film hello";

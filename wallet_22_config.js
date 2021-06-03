@@ -1,1 +1,1 @@
-var mnemonic = "black popular group chase fashion muscle shiver craft cat hard whisper trash";
+var mnemonic = "juice execute slot actor oyster aunt jaguar feel hip utility board beef";

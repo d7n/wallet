@@ -1,1 +1,1 @@
-var mnemonic = "disorder citizen avocado limit mountain note divide aspect balance upset trial another";
+var mnemonic = "walk trade can monkey illegal good hockey like where whisper diet brother";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker there swallow left split typical truck pig coyote off carry round";
+var mnemonic = "receive list boss kit save moment address emerge ecology blanket sudden violin";

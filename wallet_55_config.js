@@ -1,1 +1,1 @@
-var mnemonic = "paper honey attack sure grocery board demand help hidden hospital bubble vibrant";
+var mnemonic = "average patrol bacon want lounge wild fence mirror cause team twelve antenna";

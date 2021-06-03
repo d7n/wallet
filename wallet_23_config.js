@@ -1,1 +1,1 @@
-var mnemonic = "also bone mutual junior round rhythm ethics trim alter breeze book stairs";
+var mnemonic = "neglect fringe have average snake infant lift clown cattle unknown deal army";

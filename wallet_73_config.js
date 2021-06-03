@@ -1,1 +1,1 @@
-var mnemonic = "cheap south canal sting senior excess subway shadow worth fox hole trouble";
+var mnemonic = "blur action rival liquid ugly pact ball garage develop toast believe together";

@@ -1,1 +1,1 @@
-var mnemonic = "grab apart athlete lesson exact police manage august tree panther spell toast";
+var mnemonic = "cloud expire drift bone agree refuse glide journey fence area end sight";

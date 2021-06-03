@@ -1,1 +1,1 @@
-var mnemonic = "harvest unlock impulse organ milk luxury power culture butter cool shield enemy";
+var mnemonic = "churn anxiety desert foster half process version play oyster doctor patch soon";

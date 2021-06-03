@@ -1,1 +1,1 @@
-var mnemonic = "album close crazy trim surround diagram frost defense vicious cake deer grit";
+var mnemonic = "glass false kid reduce earth tank destroy grass account pet family filter";

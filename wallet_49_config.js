@@ -1,1 +1,1 @@
-var mnemonic = "weapon wash candy document neither simple lunch industry electric symptom mind opera";
+var mnemonic = "concert amazing bonus tissue hold argue shoe choose tomato riot reject avocado";

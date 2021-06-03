@@ -1,1 +1,1 @@
-var mnemonic = "south priority fade gauge strike lounge narrow window gift certain web rubber";
+var mnemonic = "rug stick super ribbon leisure arrange tumble scorpion notable kiss usage behave";

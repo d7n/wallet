@@ -1,1 +1,1 @@
-var mnemonic = "rival next sign replace earth install fence shy egg jacket cluster try";
+var mnemonic = "achieve resist dune weasel tiger brief earn install grid kit soda stick";

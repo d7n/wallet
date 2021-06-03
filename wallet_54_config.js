@@ -1,1 +1,1 @@
-var mnemonic = "cancel guess dwarf announce vacuum mosquito easily luggage blade verify sausage other";
+var mnemonic = "axis segment order capable around gate silly blouse fog humble smile bitter";

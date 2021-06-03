@@ -1,1 +1,1 @@
-var mnemonic = "boat clinic trust board cement goat recipe problem lumber various curious summer";
+var mnemonic = "surge swim beef summer matrix razor salmon next capable concert junk judge";

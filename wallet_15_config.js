@@ -1,1 +1,1 @@
-var mnemonic = "mule candy sentence volcano knife service devote trap banana convince script mixed";
+var mnemonic = "arch topple trigger hurry dilemma minute tenant dress miss solar month alien";

@@ -1,1 +1,1 @@
-var mnemonic = "correct thought climb devote board abuse process under marine ostrich slice hidden";
+var mnemonic = "brass obey airport ahead empower engage desk insane infant sword slush word";

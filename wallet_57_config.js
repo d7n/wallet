@@ -1,1 +1,1 @@
-var mnemonic = "split agree merit april ocean suggest keen fault crew penalty phone sport";
+var mnemonic = "sleep gossip insect surprise stamp match quarter one thought mouse network air";

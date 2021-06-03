@@ -1,1 +1,1 @@
-var mnemonic = "lava vicious talent visual sick party peace patient birth example napkin symptom";
+var mnemonic = "obscure security shoulder grace view kiwi tattoo cost physical average combine trim";

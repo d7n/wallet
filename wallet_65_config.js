@@ -1,1 +1,1 @@
-var mnemonic = "define tree subject among suggest number priority pond father material blast pledge";
+var mnemonic = "prepare salad laptop glare delay swarm ice island family sponsor train argue";

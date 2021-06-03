@@ -1,1 +1,1 @@
-var mnemonic = "sibling wonder together tackle luxury cricket comfort special adapt all pledge hill";
+var mnemonic = "gate version raccoon rent deer chair license street firm season first episode";

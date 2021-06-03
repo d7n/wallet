@@ -1,1 +1,1 @@
-var mnemonic = "impose define current peasant glove lava hobby depart salon sample hobby nephew";
+var mnemonic = "leave room company entire vocal obey basic aunt labor rally fish night";

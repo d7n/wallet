@@ -1,1 +1,1 @@
-var mnemonic = "walk cake smooth release give define purpose meat else rifle chunk huge";
+var mnemonic = "bone lucky derive pair entry arena bless equip corn fame idea pupil";

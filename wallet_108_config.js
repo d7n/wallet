@@ -1,1 +1,1 @@
-var mnemonic = "judge father ethics fuel walk good trigger suspect invite muscle poverty universe";
+var mnemonic = "hair rookie much enroll salon guide tiger earn lion velvet select either";

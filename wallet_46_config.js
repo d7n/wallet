@@ -1,1 +1,1 @@
-var mnemonic = "fence scissors order quantum dance prevent kidney album slight audit moment spray";
+var mnemonic = "rubber gloom throw parrot toast width lake rocket fold motion iron save";

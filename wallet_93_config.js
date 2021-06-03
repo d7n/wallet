@@ -1,1 +1,1 @@
-var mnemonic = "card error digital expose remind onion minimum easy fall infant tray deliver";
+var mnemonic = "loyal giant fever two chaos east pond obscure royal congress side august";

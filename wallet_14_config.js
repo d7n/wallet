@@ -1,1 +1,1 @@
-var mnemonic = "clown card vast card quit nation resist dove okay immune autumn curious";
+var mnemonic = "turn prepare poverty jelly manage artwork season human winter install fog envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "wide stairs rigid file water cause sunny divide blood travel topic social";
+var mnemonic = "disagree pass kick load negative genre bachelor fine real domain service alone";

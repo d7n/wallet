@@ -1,1 +1,1 @@
-var mnemonic = "chicken describe ripple matter six exact oven jealous swim response champion sick";
+var mnemonic = "record brown vanish maze taste wrestle swim wasp mention lesson fly cloud";

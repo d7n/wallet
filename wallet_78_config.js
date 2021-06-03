@@ -1,1 +1,1 @@
-var mnemonic = "skull delay pole expire clock pyramid cabbage pitch donor element figure dose";
+var mnemonic = "toast depart quick shine pumpkin shop rent trash zebra brick cake settle";

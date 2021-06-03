@@ -1,1 +1,1 @@
-var mnemonic = "reward turtle quality talent urge tornado flock title cigar box waste broom";
+var mnemonic = "steak riot grid abandon heart angry volcano mix early husband ability begin";

@@ -1,1 +1,1 @@
-var mnemonic = "bean fly advice either glare maple clerk scan chuckle plug chicken few";
+var mnemonic = "soap youth green wreck legend night sweet inch autumn inflict mother climb";

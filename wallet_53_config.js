@@ -1,1 +1,1 @@
-var mnemonic = "arch double slender era craft estate claw unknown skull feed pilot pass";
+var mnemonic = "cream avoid order slogan harbor path cargo symptom blanket bind range lumber";

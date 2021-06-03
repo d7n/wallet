@@ -1,1 +1,1 @@
-var mnemonic = "build demand confirm drive verify ritual spy table kit bean knock equal";
+var mnemonic = "waste another dove champion element office addict silk become march aunt trick";

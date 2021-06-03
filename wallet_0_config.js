@@ -1,1 +1,1 @@
-var mnemonic = "measure toast vault under tomorrow chimney indoor jazz insane kiwi elevator bicycle";
+var mnemonic = "recall knock soap daring raven comic goat cute festival inform disorder awful";
