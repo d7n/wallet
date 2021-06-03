@@ -1,1 +1,1 @@
-var mnemonic = "engage gadget armed resemble brave habit bike rebel laptop radar captain immense";
+var mnemonic = "lend bubble riot mechanic rural sun material scan slush core similar second";

@@ -1,1 +1,1 @@
-var mnemonic = "insane address motion capital primary okay twelve skill tired winter corn celery";
+var mnemonic = "genuine flush pride unlock flower trim town mail guilt tooth agent lawsuit";

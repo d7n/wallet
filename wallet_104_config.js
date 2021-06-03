@@ -1,1 +1,1 @@
-var mnemonic = "soccer person soap west aerobic movie skill art finish way ocean cousin";
+var mnemonic = "struggle alien gaze virtual despair fossil save yellow age audit argue jar";

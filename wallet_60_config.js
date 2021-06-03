@@ -1,1 +1,1 @@
-var mnemonic = "canal walk west mistake donkey true segment drive smoke dismiss meat number";
+var mnemonic = "marble exhibit lottery potato friend chronic rare tackle quick rapid green cargo";

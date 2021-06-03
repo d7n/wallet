@@ -1,1 +1,1 @@
-var mnemonic = "random stamp sentence radio elephant hobby define nephew camera oil wood hurry";
+var mnemonic = "heart tragic faith lawsuit market wet april what oil eager wink person";

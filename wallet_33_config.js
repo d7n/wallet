@@ -1,1 +1,1 @@
-var mnemonic = "eye pair success fence supreme quantum puzzle cover olympic surround brand neutral";
+var mnemonic = "song include female kingdom penalty negative surround liquid barely next pave pepper";

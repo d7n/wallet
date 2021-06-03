@@ -1,1 +1,1 @@
-var mnemonic = "crouch poverty erase warm vessel siren kit enforce kitten casino pencil round";
+var mnemonic = "city banner dirt service fatal key mad rebuild alter traffic fame arrow";

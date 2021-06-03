@@ -1,1 +1,1 @@
-var mnemonic = "evoke file oil network taste slim response calm case mail garment drum";
+var mnemonic = "moral casino speed random infant mansion employ tilt neck short device useful";

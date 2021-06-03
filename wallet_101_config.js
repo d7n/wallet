@@ -1,1 +1,1 @@
-var mnemonic = "uphold absent urge govern direct cool broccoli lunar assist result subject around";
+var mnemonic = "basket blue lemon outer balance side dial pipe history radar false law";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil impulse soda party jaguar addict wage gun lava puppy emotion pattern";
+var mnemonic = "half ice able barrel mother tourist monitor disorder thank blame empty art";

@@ -1,1 +1,1 @@
-var mnemonic = "two pilot elephant sweet popular task master sand stool veteran reason silly";
+var mnemonic = "crop sting pig wide renew argue nice problem explain dove cash blood";

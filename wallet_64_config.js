@@ -1,1 +1,1 @@
-var mnemonic = "verb spider canoe bullet empty curve approve truck brother magic fire neglect";
+var mnemonic = "excuse traffic grow robot tuna measure hold soap rabbit life survey raise";

@@ -1,1 +1,1 @@
-var mnemonic = "brief record frog inject catch glass hope ghost bread emotion elbow warfare";
+var mnemonic = "level detail hunt latin orphan chimney athlete two point often wrist subway";

@@ -1,1 +1,1 @@
-var mnemonic = "trip model vast clinic beach rely soap quick yard warm peanut dash";
+var mnemonic = "attack panda skull mercy worth disorder okay tiger want manage snack client";

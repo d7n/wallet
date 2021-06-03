@@ -1,1 +1,1 @@
-var mnemonic = "vanish buzz route viable salon neck broccoli blush abuse decade chimney shoe";
+var mnemonic = "honey original token split sing kiss budget staff cloud common citizen elegant";

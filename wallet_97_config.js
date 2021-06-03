@@ -1,1 +1,1 @@
-var mnemonic = "design disease large dirt exotic leisure laugh spare scissors crazy sample inch";
+var mnemonic = "give gospel design fame empower cat dog invest caught distance relief square";

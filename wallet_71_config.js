@@ -1,1 +1,1 @@
-var mnemonic = "helmet diesel embark dilemma tide capital bench matrix amateur gauge stem ketchup";
+var mnemonic = "board isolate gun shoot veteran cycle weekend primary labor core math clerk";

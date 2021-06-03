@@ -1,1 +1,1 @@
-var mnemonic = "side chair recycle give damage source plunge bitter alert elevator picnic fan";
+var mnemonic = "mandate laugh foster promote confirm kangaroo earth recipe like hidden session discover";

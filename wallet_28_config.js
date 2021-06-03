@@ -1,1 +1,1 @@
-var mnemonic = "swim decrease audit country hover polar electric train run across laundry animal";
+var mnemonic = "wrist cheap dizzy immune gap repeat same banana hockey home find company";

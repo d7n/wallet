@@ -1,1 +1,1 @@
-var mnemonic = "can runway rigid become indoor page attend arrange equip pave bounce struggle";
+var mnemonic = "garment museum moon clock wealth answer permit people valley safe dynamic amount";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon zone skate van until hill knife acquire grief police ensure light";
+var mnemonic = "chest kid bean shallow lemon surge honey tuna dragon lucky pull giant";

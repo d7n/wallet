@@ -1,1 +1,1 @@
-var mnemonic = "dentist quantum bind all region safe fog coin usual emerge consider ship";
+var mnemonic = "piece educate public angle donor outer measure desert analyst echo equal bulk";

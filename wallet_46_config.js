@@ -1,1 +1,1 @@
-var mnemonic = "bamboo scorpion language actor just rain school govern cover utility wink flag";
+var mnemonic = "trim inquiry drastic family call camp hole kitchen census decrease own direct";

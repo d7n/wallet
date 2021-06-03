@@ -1,1 +1,1 @@
-var mnemonic = "artefact access huge castle income liberty situate width trial fuel clap day";
+var mnemonic = "hover candy marriage snake toilet piece intact north lyrics essence sponsor age";

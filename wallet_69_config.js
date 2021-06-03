@@ -1,1 +1,1 @@
-var mnemonic = "grass rug fresh grocery fiber tooth turn neither second brave seven monitor";
+var mnemonic = "network favorite goose rhythm mix vote scissors smooth mail barely grab adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon patrol crop ski illegal promote online tell couple people roof often";
+var mnemonic = "chalk apology pet chapter silly lyrics crew wagon museum brain move hundred";

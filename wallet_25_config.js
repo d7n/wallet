@@ -1,1 +1,1 @@
-var mnemonic = "example able biology scorpion slender job melody leopard goat lift ocean laundry";
+var mnemonic = "champion awesome now wheel foil hurry cabin wish search toss cliff small";

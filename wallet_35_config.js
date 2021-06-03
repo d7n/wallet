@@ -1,1 +1,1 @@
-var mnemonic = "detail simple shoot visit donor cave three turtle able item spice erode";
+var mnemonic = "suit chief garment share skate rely fiscal twin battle ocean tail leader";

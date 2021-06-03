@@ -1,1 +1,1 @@
-var mnemonic = "minor tragic ask solar hen female way stereo undo misery kitten depart";
+var mnemonic = "chicken sort bridge melody filter hero maze excess solar inside orbit barrel";

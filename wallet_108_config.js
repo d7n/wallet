@@ -1,1 +1,1 @@
-var mnemonic = "omit angle today force dove differ fee beach trade pledge bullet trumpet";
+var mnemonic = "flee van photo dilemma round mobile avocado plastic delay response stay develop";

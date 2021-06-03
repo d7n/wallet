@@ -1,1 +1,1 @@
-var mnemonic = "weasel forward purpose know time find forum album physical general drip lawn";
+var mnemonic = "payment lava sphere expand pond crater guard there evoke sick ticket enroll";

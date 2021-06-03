@@ -1,1 +1,1 @@
-var mnemonic = "picnic seven frozen inner change waste result impulse risk account famous artefact";
+var mnemonic = "next wolf double love silver wrap accuse company patient subject razor again";

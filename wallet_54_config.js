@@ -1,1 +1,1 @@
-var mnemonic = "upgrade topic away industry ostrich section group course caught play chunk brown";
+var mnemonic = "elegant winter obtain fruit subway novel neglect open famous radar army captain";

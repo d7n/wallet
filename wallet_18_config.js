@@ -1,1 +1,1 @@
-var mnemonic = "rural clerk smooth inquiry green escape blind lyrics bacon quick olympic bring";
+var mnemonic = "picture arrive imitate opera often hen entry wagon extra price mixed income";

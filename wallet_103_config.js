@@ -1,1 +1,1 @@
-var mnemonic = "miss october fringe party arrive abstract between brief piano trumpet wire fold";
+var mnemonic = "aim need erode relief garlic lounge reopen link clarify reason finish side";

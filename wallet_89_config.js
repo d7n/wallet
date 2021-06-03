@@ -1,1 +1,1 @@
-var mnemonic = "vault uncover lucky fever scatter poem couch thumb sell delay mind cinnamon";
+var mnemonic = "obvious floor zone engage obvious gift monkey arrow duck recall chalk mask";

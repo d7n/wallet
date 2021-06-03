@@ -1,1 +1,1 @@
-var mnemonic = "holiday gain return equal bind collect loop fashion shock ordinary sausage choice";
+var mnemonic = "iron sick this solid toilet myself claw pull occur section flame loan";

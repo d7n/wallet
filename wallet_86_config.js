@@ -1,1 +1,1 @@
-var mnemonic = "camera blind script tent medal help onion build loud giant record reason";
+var mnemonic = "math hour divorce coil sweet fringe ramp slab select zero frame pilot";

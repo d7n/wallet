@@ -1,1 +1,1 @@
-var mnemonic = "peanut distance parent decrease picture fix list much notice omit volcano foot";
+var mnemonic = "harvest inflict behave scene odor eye danger party fiction festival fox offer";

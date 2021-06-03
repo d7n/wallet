@@ -1,1 +1,1 @@
-var mnemonic = "laptop tape cry target stereo pulse weather table web abstract tip script";
+var mnemonic = "shock pond note maid crater vibrant canyon clarify achieve monster fringe mango";

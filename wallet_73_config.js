@@ -1,1 +1,1 @@
-var mnemonic = "squirrel saddle travel bleak wear million dove design diary have doctor maple";
+var mnemonic = "ability smooth believe hundred echo auto shallow valley must current slot pink";

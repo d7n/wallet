@@ -1,1 +1,1 @@
-var mnemonic = "crane flame upgrade hotel already distance priority enhance view leaf update liberty";
+var mnemonic = "raw seven asthma early useless journey cable ostrich trust thank ability ridge";

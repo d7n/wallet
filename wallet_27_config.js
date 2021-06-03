@@ -1,1 +1,1 @@
-var mnemonic = "poverty rose address cover turkey arm nephew slow hard pact erode track";
+var mnemonic = "mother comic keen sight allow beach spider floor glad name pupil seed";

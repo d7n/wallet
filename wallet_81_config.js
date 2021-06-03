@@ -1,1 +1,1 @@
-var mnemonic = "cabin famous grid adapt pear mass define close recipe card immune live";
+var mnemonic = "survey present corn fresh erase nephew together rival draft shoot supply resist";

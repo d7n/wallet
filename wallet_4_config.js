@@ -1,1 +1,1 @@
-var mnemonic = "donkey witness domain stick nuclear pair crumble orphan broccoli settle exchange dawn";
+var mnemonic = "engage prefer field fat screen unaware ready observe mystery metal agent pattern";

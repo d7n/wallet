@@ -1,1 +1,1 @@
-var mnemonic = "tip shoe mobile style test stomach cupboard crack arrange rose crime harbor";
+var mnemonic = "spoil solve payment reduce tired symbol foil else edit frame bean bread";

@@ -1,1 +1,1 @@
-var mnemonic = "flat someone talent baby margin crucial waste plate desert stay vicious advice";
+var mnemonic = "arrest comic gossip file unique wire near rhythm settle submit share tackle";

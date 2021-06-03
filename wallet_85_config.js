@@ -1,1 +1,1 @@
-var mnemonic = "code license average ski fee olive ugly busy window crisp trick giant";
+var mnemonic = "calm dash purchase silly perfect fork rule asthma almost dust list adjust";

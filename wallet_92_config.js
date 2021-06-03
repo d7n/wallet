@@ -1,1 +1,1 @@
-var mnemonic = "mother sweet stomach copy cake blood adapt above infant process prosper ahead";
+var mnemonic = "merit caution midnight arrange century huge deliver subject valve brush fade capable";

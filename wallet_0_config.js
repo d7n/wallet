@@ -1,1 +1,1 @@
-var mnemonic = "someone trap crowd divorce script stem fun museum nut supply quarter laugh";
+var mnemonic = "love saddle drastic solar fire romance subway brick source sleep olive kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "similar common veteran frequent enroll bulb suffer cruise engage scorpion fever art";
+var mnemonic = "swear debris push capital cancel group member right umbrella girl move secret";

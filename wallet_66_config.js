@@ -1,1 +1,1 @@
-var mnemonic = "woman seed peasant order lunar report cereal manage cube birth amateur share";
+var mnemonic = "easy divorce unable accuse debris machine alpha wave eager liberty diary kitchen";

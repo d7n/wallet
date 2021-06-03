@@ -1,1 +1,1 @@
-var mnemonic = "tackle safe black holiday label cage report funny juice question kingdom cute";
+var mnemonic = "imitate bunker divorce allow assist fire arrow loyal result cinnamon belt dirt";

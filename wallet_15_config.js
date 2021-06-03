@@ -1,1 +1,1 @@
-var mnemonic = "mountain false rigid live cream because power orient doll final cake whale";
+var mnemonic = "oxygen phone absent asthma collect talk recycle note wreck equal service borrow";

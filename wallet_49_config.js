@@ -1,1 +1,1 @@
-var mnemonic = "swing check impose wheel tomato item violin hero volcano during fence drive";
+var mnemonic = "coyote ahead desk royal minimum amount enact field toe cause clerk fix";

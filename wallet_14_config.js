@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sea smooth eager rate interest heart torch enough danger tube steel";
+var mnemonic = "age rather amazing skin execute prevent alpha picnic worth hunt winner rice";

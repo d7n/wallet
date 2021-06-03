@@ -1,1 +1,1 @@
-var mnemonic = "shoulder earth online panic craft seminar layer blanket bone liar neutral collect";
+var mnemonic = "naive benefit milk legal twice vote portion analyst area inflict gentle easily";

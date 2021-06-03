@@ -1,1 +1,1 @@
-var mnemonic = "latin busy false swift language flash pigeon depth brief flag donkey tiny";
+var mnemonic = "vendor royal jar pledge steel lens nose foster glue lesson ignore alarm";

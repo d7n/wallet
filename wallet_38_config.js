@@ -1,1 +1,1 @@
-var mnemonic = "wealth link drastic soccer cinnamon discover have run true pole adult action";
+var mnemonic = "sure zone simple tag piano problem crunch fury round lottery physical tuition";

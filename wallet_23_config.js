@@ -1,1 +1,1 @@
-var mnemonic = "use mask total retreat tide lunar tiny crane payment scissors pill later";
+var mnemonic = "artist prize remember fruit tiny learn upset net text pizza thing person";

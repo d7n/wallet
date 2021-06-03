@@ -1,1 +1,1 @@
-var mnemonic = "crowd plunge sword coin size expire age remove lunch blue replace wire";
+var mnemonic = "chase portion divert document tourist daughter defense boat feed jaguar live shrimp";

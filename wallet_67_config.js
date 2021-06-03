@@ -1,1 +1,1 @@
-var mnemonic = "melody success hold live fog venue toilet juice cargo oil salad evil";
+var mnemonic = "orchard cute phone thunder sorry own burst adjust dog dignity demise typical";

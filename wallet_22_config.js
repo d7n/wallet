@@ -1,1 +1,1 @@
-var mnemonic = "powder subject laundry chunk wheel across rich inject soap grief hollow point";
+var mnemonic = "vault sustain very rabbit delay borrow laptop forum flavor security seat fan";

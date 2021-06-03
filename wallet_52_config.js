@@ -1,1 +1,1 @@
-var mnemonic = "fiction silly camp card tip ancient claw young load strategy rabbit coconut";
+var mnemonic = "mercy loop frown skill kiss nerve margin arrest light distance govern swift";

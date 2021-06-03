@@ -1,1 +1,1 @@
-var mnemonic = "siege nurse side eight twist scheme good drastic broom over surface mercy";
+var mnemonic = "buzz city enroll relief west draft lumber vibrant puppy damage marble tourist";

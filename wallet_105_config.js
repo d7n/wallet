@@ -1,1 +1,1 @@
-var mnemonic = "board rebuild unveil shiver wall bottom glide bulb stay mother verify lift";
+var mnemonic = "cattle poverty curtain run turn weird engine gentle dynamic bulb unhappy love";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch wool steel fork brown random initial grief sausage slice you riot";
+var mnemonic = "kid night hello asthma night spot another panda exist spring illness modify";

@@ -1,1 +1,1 @@
-var mnemonic = "torch hammer chunk tag kiss dentist lottery firm knock grit shop swap";
+var mnemonic = "merge neutral cattle mesh hawk verb short opera report cave fade salad";

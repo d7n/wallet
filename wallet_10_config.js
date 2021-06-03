@@ -1,1 +1,1 @@
-var mnemonic = "duck punch skate veteran picnic tortoise target sister found behave farm spend";
+var mnemonic = "detect among merit tissue segment shed derive drift become loan snack other";

@@ -1,1 +1,1 @@
-var mnemonic = "normal resemble advice pledge dirt divert upon shrimp pact arm struggle festival";
+var mnemonic = "reason run hero enact tired punch chronic answer salon crumble erosion access";

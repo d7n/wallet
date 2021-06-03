@@ -1,1 +1,1 @@
-var mnemonic = "upon excess rule boat recipe banner neither capital fresh tank tell loyal";
+var mnemonic = "wood advice brass ordinary aerobic crawl thing finish pulp cloth fortune wrestle";

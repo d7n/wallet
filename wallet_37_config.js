@@ -1,1 +1,1 @@
-var mnemonic = "car hen actual snap turkey uncover turn document kind similar column thrive";
+var mnemonic = "often gesture steak dolphin oxygen inhale leg later ugly decrease train aware";

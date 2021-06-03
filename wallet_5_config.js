@@ -1,1 +1,1 @@
-var mnemonic = "yard ceiling elephant strike alter steel album dog fault north ivory receive";
+var mnemonic = "seek trick middle someone alien despair wink risk patient fit element cruel";

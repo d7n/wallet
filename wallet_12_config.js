@@ -1,1 +1,1 @@
-var mnemonic = "fluid arrange bubble ripple furnace issue energy verify bubble remember deposit nasty";
+var mnemonic = "pool bitter salmon globe flower race turkey lemon involve degree label input";

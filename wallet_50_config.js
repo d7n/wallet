@@ -1,1 +1,1 @@
-var mnemonic = "inch rule index tube near hobby busy boy result orchard truth bronze";
+var mnemonic = "vanish excite erase scissors side dinosaur kite lunch identify egg tank family";

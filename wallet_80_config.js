@@ -1,1 +1,1 @@
-var mnemonic = "nice easily mimic sound donate cave collect enable praise digital color much";
+var mnemonic = "thumb rate tennis program output renew plunge river either armor worry grace";

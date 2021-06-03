@@ -1,1 +1,1 @@
-var mnemonic = "song chunk cupboard inside regret repair minimum crucial pipe plunge buffalo better";
+var mnemonic = "friend elite current employ cream similar arena bounce evoke position canyon often";

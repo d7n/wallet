@@ -1,1 +1,1 @@
-var mnemonic = "crew until alert patch bless size repeat chaos cook melt silk balance";
+var mnemonic = "bronze federal stage spread near burger dove disease age limit artefact train";

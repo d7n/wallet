@@ -1,1 +1,1 @@
-var mnemonic = "home never suffer learn people expand panda oppose misery hockey gap shy";
+var mnemonic = "ball web broom spin gather hold bread fluid trap eternal elite twenty";

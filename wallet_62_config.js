@@ -1,1 +1,1 @@
-var mnemonic = "whisper harvest baby tail dolphin economy mass describe rifle slot angle proud";
+var mnemonic = "toilet mosquito excess diary stay unhappy between clock monkey word elevator hard";

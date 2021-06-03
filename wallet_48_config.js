@@ -1,1 +1,1 @@
-var mnemonic = "motor crowd regret harvest heavy stick utility juice web gauge cactus soon";
+var mnemonic = "typical orient lava paddle dismiss pumpkin path history drive jungle excess celery";

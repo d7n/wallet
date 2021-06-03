@@ -1,1 +1,1 @@
-var mnemonic = "tower season say bright erosion bicycle sugar drop govern lunch rebel alarm";
+var mnemonic = "cycle human guard screen warfare hundred rack accident verb random taxi file";

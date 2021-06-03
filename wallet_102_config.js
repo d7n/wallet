@@ -1,1 +1,1 @@
-var mnemonic = "box local liquid alone giggle midnight else width pond message tiny rally";
+var mnemonic = "shaft photo sun sketch artefact liquid anxiety top alpha uncle hat deposit";

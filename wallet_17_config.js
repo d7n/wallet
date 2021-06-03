@@ -1,1 +1,1 @@
-var mnemonic = "taste snack whip sibling asthma hire submit return maple damage truth pink";
+var mnemonic = "fetch globe satoshi clerk sister road company crouch soup fit illegal purchase";

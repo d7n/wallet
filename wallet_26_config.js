@@ -1,1 +1,1 @@
-var mnemonic = "refuse switch mimic start track what notice clock swallow open pair weekend";
+var mnemonic = "enroll weasel ostrich angry series middle assist guess middle ostrich slide chimney";

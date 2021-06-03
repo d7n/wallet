@@ -1,1 +1,1 @@
-var mnemonic = "captain cruel cloud path social twist minor lift illegal curtain kick amazing";
+var mnemonic = "reward faint they robust anger swallow dignity sort pole muffin shrimp excite";
