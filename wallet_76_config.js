@@ -1,1 +1,1 @@
-var mnemonic = "dash swallow arrange before jewel vintage lock tooth ship embark slab ritual";
+var mnemonic = "merge cram side theme work prize insane chat clap fame pony basket";

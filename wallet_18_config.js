@@ -1,1 +1,1 @@
-var mnemonic = "nurse dune price picture crime transfer magnet target sauce aerobic drink gold";
+var mnemonic = "people select wink angle enlist lumber dawn maid magic trouble nerve shift";

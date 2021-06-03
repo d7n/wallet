@@ -1,1 +1,1 @@
-var mnemonic = "trade casino fly attack deliver mechanic hunt result fence need boss jacket";
+var mnemonic = "random flush sudden skull lab insect imitate book barely fresh sunny pact";

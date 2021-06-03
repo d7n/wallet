@@ -1,1 +1,1 @@
-var mnemonic = "change behave picture amateur fiber tray exercise fatigue hen cause diet unable";
+var mnemonic = "float release tray miracle intact toddler oval phone cancel please conduct myself";

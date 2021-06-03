@@ -1,1 +1,1 @@
-var mnemonic = "clarify clever limit deposit fat food broken midnight health flock swift hat";
+var mnemonic = "fabric lava style hawk raw dice weekend forget blossom direct sudden beauty";

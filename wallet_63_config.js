@@ -1,1 +1,1 @@
-var mnemonic = "energy occur tool vapor tube boss maze color fly tell wonder joy";
+var mnemonic = "damp spoon suggest collect expect hood broccoli fashion say census review abuse";

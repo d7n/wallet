@@ -1,1 +1,1 @@
-var mnemonic = "easily oven brother fever harbor wreck young smile fork patient remember birth";
+var mnemonic = "afraid empower blood other enact hood column creek vague begin caught tone";

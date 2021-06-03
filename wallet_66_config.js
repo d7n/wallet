@@ -1,1 +1,1 @@
-var mnemonic = "marble empty divert soldier youth inner misery bomb photo virtual obscure middle";
+var mnemonic = "deny volcano wrong strong sadness sphere problem garlic hunt scare system subway";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma gloom junk master beach lobster giggle then festival faint cabbage capital";
+var mnemonic = "upper tool involve vessel relief exact tissue seven panda dilemma before mule";

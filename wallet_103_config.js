@@ -1,1 +1,1 @@
-var mnemonic = "drop garden upgrade disagree leaf gun innocent until later gaze nut boat";
+var mnemonic = "join follow honey page tone west street best bronze add boost fever";

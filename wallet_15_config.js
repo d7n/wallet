@@ -1,1 +1,1 @@
-var mnemonic = "double empower amused thank region culture stay fantasy tribe found poet seat";
+var mnemonic = "awake round keen rabbit pulp display young acid gasp amount assume license";

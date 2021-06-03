@@ -1,1 +1,1 @@
-var mnemonic = "pride grunt best common bind book retire another submit quarter baby opera";
+var mnemonic = "nephew tumble surface reopen diesel cigar brief name account rack muscle wing";

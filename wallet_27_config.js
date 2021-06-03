@@ -1,1 +1,1 @@
-var mnemonic = "mesh height ring amateur polar frown smile breeze invest organ resource employ";
+var mnemonic = "bottom ramp limit sting finish bracket jewel entire just bird kick swim";

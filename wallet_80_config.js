@@ -1,1 +1,1 @@
-var mnemonic = "utility denial sight junk work hurry devote sure possible coffee damp because";
+var mnemonic = "defense remove exile rubber label resist expect debris protect hover member assault";

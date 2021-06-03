@@ -1,1 +1,1 @@
-var mnemonic = "agree gadget cradle puzzle photo story plug now civil razor myself honey";
+var mnemonic = "cat asset disagree fire leg whip file trophy quiz aspect mosquito double";

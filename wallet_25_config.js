@@ -1,1 +1,1 @@
-var mnemonic = "box little roast grape adult laptop guide cart victory bus behave stone";
+var mnemonic = "season essence shy judge lady drip kid subject carpet drastic basic lyrics";

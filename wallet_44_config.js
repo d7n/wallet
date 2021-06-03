@@ -1,1 +1,1 @@
-var mnemonic = "rough bar napkin concert protect innocent choose disease prize appear health metal";
+var mnemonic = "civil upset wheat harvest evoke fancy badge lottery file cheese father ball";

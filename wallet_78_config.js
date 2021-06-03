@@ -1,1 +1,1 @@
-var mnemonic = "amused payment pottery old ketchup object boat room invest width biology crisp";
+var mnemonic = "flower frozen ahead citizen connect boost gossip inhale primary scorpion sight genuine";

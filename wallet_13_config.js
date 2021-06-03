@@ -1,1 +1,1 @@
-var mnemonic = "mom calm oil candy vintage ship heavy alert fire right game doctor";
+var mnemonic = "popular deposit pyramid column impulse annual noble elbow venue tenant cheap report";

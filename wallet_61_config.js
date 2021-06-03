@@ -1,1 +1,1 @@
-var mnemonic = "culture veteran winter enforce travel always sauce verb catalog among urge major";
+var mnemonic = "castle myself tube couch awesome length yard cherry fiction kid prison apology";

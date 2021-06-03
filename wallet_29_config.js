@@ -1,1 +1,1 @@
-var mnemonic = "own trim way sorry salute parade step test metal flee around rack";
+var mnemonic = "jar salmon secret step badge future dog dose parade reflect immense critic";

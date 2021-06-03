@@ -1,1 +1,1 @@
-var mnemonic = "wreck coin plug alert cement garlic ceiling when lumber sphere dinosaur someone";
+var mnemonic = "boy torch smoke again announce tip orbit amount noble over february submit";

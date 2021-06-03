@@ -1,1 +1,1 @@
-var mnemonic = "shallow easily inhale theme absorb convince lawsuit hope injury lucky asset today";
+var mnemonic = "speak inmate west hollow mammal swear snack dune trend sustain ritual noodle";

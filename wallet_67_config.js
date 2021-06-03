@@ -1,1 +1,1 @@
-var mnemonic = "final opinion issue student punch enrich pill oyster believe gas flock slush";
+var mnemonic = "local sentence spirit demise inmate worth stay whisper apart later chapter reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "urge service inherit control south bottom economy gorilla session thing roof daring";
+var mnemonic = "weekend catalog argue main blame dinner electric sell alone motion circle fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy enter sand since crowd category absurd pipe pull ridge trumpet letter";
+var mnemonic = "video apart drama soup rotate region caught almost evoke around certain coach";

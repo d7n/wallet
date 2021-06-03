@@ -1,1 +1,1 @@
-var mnemonic = "recipe subway walk paper squeeze banana immense citizen road blast trim wear";
+var mnemonic = "sentence rocket scrap faculty earth celery cactus gesture admit north hurry cupboard";

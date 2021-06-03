@@ -1,1 +1,1 @@
-var mnemonic = "twin mouse such genre special desk measure detect oval trust foot bottom";
+var mnemonic = "mercy melody soup protect another coral sound slam rapid aunt steak domain";

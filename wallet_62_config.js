@@ -1,1 +1,1 @@
-var mnemonic = "jealous cradle enact drill brand capable aim task apart multiply radio napkin";
+var mnemonic = "wet jump amateur bridge jeans sound beauty glance parrot pretty walk creek";

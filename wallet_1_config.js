@@ -1,1 +1,1 @@
-var mnemonic = "above horn foot shallow fuel foster figure inherit fish license corn february";
+var mnemonic = "label isolate evil clean exhaust force refuse relief slice negative hen ahead";

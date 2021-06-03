@@ -1,1 +1,1 @@
-var mnemonic = "host inhale pledge cargo person naive execute armed document table solve broom";
+var mnemonic = "apology aerobic wrong proud toward attack follow few sea test ensure slot";

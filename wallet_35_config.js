@@ -1,1 +1,1 @@
-var mnemonic = "fashion mountain client giggle tomorrow radar large illness shop stumble belt want";
+var mnemonic = "derive cabbage swallow special estate long firm cute obtain tilt street shuffle";

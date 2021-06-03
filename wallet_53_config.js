@@ -1,1 +1,1 @@
-var mnemonic = "salute sad country shuffle glance clean final into lake brand flash lecture";
+var mnemonic = "item trumpet struggle extra crawl trade tribe maze nephew era innocent since";

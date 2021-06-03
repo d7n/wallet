@@ -1,1 +1,1 @@
-var mnemonic = "fix service blue shallow tobacco giraffe visa bargain inspire work sphere require";
+var mnemonic = "conduct habit loyal rapid control cause home medal empower win october analyst";

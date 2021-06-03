@@ -1,1 +1,1 @@
-var mnemonic = "kidney innocent next cargo kitchen fatigue angry bulk blind middle obscure any";
+var mnemonic = "level olive brave device chuckle armed cruise apart uniform wall insane injury";

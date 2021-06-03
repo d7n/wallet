@@ -1,1 +1,1 @@
-var mnemonic = "live click goose peasant female valley city assume scene book soldier correct";
+var mnemonic = "resource spatial hazard junk belt length arrow prepare verb market faculty genuine";

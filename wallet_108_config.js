@@ -1,1 +1,1 @@
-var mnemonic = "jacket wisdom yellow example merge make miss tortoise dinosaur shine canyon gas";
+var mnemonic = "ceiling world scissors beef marble clinic mouse stage fine shield exhaust glide";

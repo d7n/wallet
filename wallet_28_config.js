@@ -1,1 +1,1 @@
-var mnemonic = "quit friend enough limit farm pottery cause ugly school total position eager";
+var mnemonic = "swap earth shoe welcome evil ketchup food excite measure gossip say snake";

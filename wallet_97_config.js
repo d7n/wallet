@@ -1,1 +1,1 @@
-var mnemonic = "poverty jar album immense loan run ceiling vital camera always nut feature";
+var mnemonic = "supreme best silk stool accuse rich explain choice faint grape delay arena";

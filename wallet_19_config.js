@@ -1,1 +1,1 @@
-var mnemonic = "inside remember hire discover chapter square picnic live scout like usual trust";
+var mnemonic = "apology patch border woman devote head syrup north bench time grid dog";

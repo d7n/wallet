@@ -1,1 +1,1 @@
-var mnemonic = "wave lounge volume lamp pigeon once round what ball sweet tube spin";
+var mnemonic = "fence ethics emerge year help either squeeze school soap mind auction angle";

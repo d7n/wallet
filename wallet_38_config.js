@@ -1,1 +1,1 @@
-var mnemonic = "panic invite review ramp mouse video replace apple horn unlock orient legal";
+var mnemonic = "like banner match face pulp fossil drum abandon tennis mouse love car";

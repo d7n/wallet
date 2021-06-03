@@ -1,1 +1,1 @@
-var mnemonic = "inject program real dumb random empower pigeon because beyond cancel seat actual";
+var mnemonic = "sun nuclear auto update erase hood stove february ugly depth tourist fire";

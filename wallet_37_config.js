@@ -1,1 +1,1 @@
-var mnemonic = "allow chicken tide siege sign depth puzzle charge crisp price age yellow";
+var mnemonic = "drink effort fluid library orchard rally provide flush suit run rack tree";

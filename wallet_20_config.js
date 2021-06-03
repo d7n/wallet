@@ -1,1 +1,1 @@
-var mnemonic = "cup town captain dignity marble web honey flavor panda fresh lecture grocery";
+var mnemonic = "ladder disagree velvet add mistake shallow garage trip evil monitor song palace";

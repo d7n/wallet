@@ -1,1 +1,1 @@
-var mnemonic = "amateur rescue unknown dry stumble laptop carbon pen join snow slender junior";
+var mnemonic = "violin oak paddle else bleak cube raise sick drive toast march device";

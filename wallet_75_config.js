@@ -1,1 +1,1 @@
-var mnemonic = "pelican orphan yard wink quantum unhappy page disorder excess maximum winter merry";
+var mnemonic = "forum say obey deny east coral before fruit sentence unit wrestle code";

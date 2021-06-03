@@ -1,1 +1,1 @@
-var mnemonic = "first dirt poverty either lens online tumble soldier train together spare surprise";
+var mnemonic = "math vacuum project boost drop sister gain nut goose try argue amount";

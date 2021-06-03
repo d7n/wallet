@@ -1,1 +1,1 @@
-var mnemonic = "front grab crack rifle whisper slogan measure spider thrive fit hair gossip";
+var mnemonic = "area annual borrow develop undo case april manual zone used cube vessel";

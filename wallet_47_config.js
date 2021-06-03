@@ -1,1 +1,1 @@
-var mnemonic = "valley mountain famous month found moon pelican element exit enable almost veteran";
+var mnemonic = "fiber giant pulp language moon hotel wife knock muffin present tooth old";

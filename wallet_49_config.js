@@ -1,1 +1,1 @@
-var mnemonic = "strategy position afford purchase maple earn supply view east island analyst expire";
+var mnemonic = "park endorse exchange text impact iron moment wish fish echo upgrade tennis";

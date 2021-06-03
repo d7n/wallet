@@ -1,1 +1,1 @@
-var mnemonic = "alert ethics video first present peasant entry animal size portion column garment";
+var mnemonic = "weekend balcony supreme toy figure glove measure essence million alpha grant sibling";

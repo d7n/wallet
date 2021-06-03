@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pair learn corn repair prefer drastic zebra blade physical cherry off";
+var mnemonic = "horse vacant fix guard thing parade stadium basic cable tissue flame put";

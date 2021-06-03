@@ -1,1 +1,1 @@
-var mnemonic = "voyage erupt firm brush include throw collect venue flee venue steel decrease";
+var mnemonic = "advance mouse light one nice ticket unknown denial venue gown nerve poem";

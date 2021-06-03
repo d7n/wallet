@@ -1,1 +1,1 @@
-var mnemonic = "jazz emotion disorder wood era middle twenty strategy bridge fever gorilla scrub";
+var mnemonic = "taste mountain mechanic notice parrot twelve jump suffer hungry amused canal fat";

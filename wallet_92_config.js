@@ -1,1 +1,1 @@
-var mnemonic = "ripple leisure toy toast noble film engage supreme muffin feature short weird";
+var mnemonic = "size surprise pause earth become fancy brass lawn slab way catalog six";

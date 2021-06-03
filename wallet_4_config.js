@@ -1,1 +1,1 @@
-var mnemonic = "gift cushion dove eager horse sister buzz next guilt put forest walnut";
+var mnemonic = "pool search write crime luxury delay injury length reward camp across hobby";

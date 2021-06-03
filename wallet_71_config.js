@@ -1,1 +1,1 @@
-var mnemonic = "consider forward lamp moment test dinner soda valley federal fly february cat";
+var mnemonic = "wife knife deer ball urge canyon brief swear ketchup banana bike hockey";

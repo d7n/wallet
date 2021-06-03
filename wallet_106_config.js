@@ -1,1 +1,1 @@
-var mnemonic = "spice limb news enroll prize afford fringe skate sword obscure deposit spin";
+var mnemonic = "comfort task slush defense sand topple problem fun receive result deer volcano";

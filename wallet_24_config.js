@@ -1,1 +1,1 @@
-var mnemonic = "snake airport finger excuse push canoe lyrics royal excite favorite surface maze";
+var mnemonic = "truly plunge upper artwork host zebra voice gloom silent ritual shuffle flag";

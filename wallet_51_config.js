@@ -1,1 +1,1 @@
-var mnemonic = "gloom doctor hire access detect coconut mixture noodle label balcony harbor goose";
+var mnemonic = "salute clip idea believe assist night lumber spatial rail file vintage drum";

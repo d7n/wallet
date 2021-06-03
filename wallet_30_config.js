@@ -1,1 +1,1 @@
-var mnemonic = "quick flag canal observe system crystal army expire lake valley copper citizen";
+var mnemonic = "breeze diesel appear potato develop shrug option gallery maximum shaft sudden enact";

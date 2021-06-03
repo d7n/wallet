@@ -1,1 +1,1 @@
-var mnemonic = "bread modify witness van elbow hood sad room spring burden six alone";
+var mnemonic = "match exercise glass alley hurry shoe soul sun such limit impact rare";

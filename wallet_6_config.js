@@ -1,1 +1,1 @@
-var mnemonic = "cover regular again much various prison sausage belt gallery wine drill wall";
+var mnemonic = "galaxy jealous spawn diagram copper cricket sure trip nasty goat live giraffe";

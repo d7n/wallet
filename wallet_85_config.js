@@ -1,1 +1,1 @@
-var mnemonic = "session brand ladder inspire yard banner repair test swift beauty anger resist";
+var mnemonic = "live aim core used fabric bracket fiction abstract cancel then point together";

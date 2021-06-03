@@ -1,1 +1,1 @@
-var mnemonic = "range half squeeze danger swing under home surprise damage mixture helmet photo";
+var mnemonic = "scatter angry mango misery more alarm hunt business snow since debris uphold";

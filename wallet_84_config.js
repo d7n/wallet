@@ -1,1 +1,1 @@
-var mnemonic = "autumn flat nut fuel digital search settle summer practice wagon violin call";
+var mnemonic = "brush review utility enemy room design network liberty page design fire frown";

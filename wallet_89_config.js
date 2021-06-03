@@ -1,1 +1,1 @@
-var mnemonic = "other scout alley remind wear result rotate vote glory enroll gas permit";
+var mnemonic = "share meadow energy nuclear arrow between correct injury impose naive fame mixture";

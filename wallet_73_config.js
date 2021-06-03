@@ -1,1 +1,1 @@
-var mnemonic = "table speak bring parent please bamboo problem hour pottery kid cloth fetch";
+var mnemonic = "inquiry power tower pond toast total fire grain bulk busy narrow twice";

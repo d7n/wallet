@@ -1,1 +1,1 @@
-var mnemonic = "stable regret wheat ostrich tilt amateur boat during agree network bounce recall";
+var mnemonic = "slow iron south joy limb tilt clump meat track fame neck credit";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor current rain away prosper wrap nose hunt program bargain whip brick";
+var mnemonic = "quantum dinner gold begin tornado upon else scrap suit tip someone alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor police ask suit steel rural exile special rich hurdle elite rug";
+var mnemonic = "coin hamster knee screen lake system age anxiety right figure zoo resist";

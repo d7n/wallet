@@ -1,1 +1,1 @@
-var mnemonic = "behind heavy merge also cabin obtain detail forward miracle tumble name humble";
+var mnemonic = "exercise creek sea please snake length museum monster frozen math trend donate";

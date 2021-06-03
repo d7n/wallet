@@ -1,1 +1,1 @@
-var mnemonic = "excuse sure raw fan order mom health buffalo antique budget marble inspire";
+var mnemonic = "excess guide fever toilet smoke company candy food pattern ice exile egg";

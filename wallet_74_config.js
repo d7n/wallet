@@ -1,1 +1,1 @@
-var mnemonic = "virus december twenty journey lecture lab baby push metal marble soldier six";
+var mnemonic = "surge concert hazard actual coast belt jump equip enrich vacant hybrid speak";

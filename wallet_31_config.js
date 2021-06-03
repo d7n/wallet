@@ -1,1 +1,1 @@
-var mnemonic = "rhythm income quantum expect duty glare heart wool illness present increase palace";
+var mnemonic = "dumb sock amount car battle provide other eagle science already winner energy";

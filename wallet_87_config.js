@@ -1,1 +1,1 @@
-var mnemonic = "loud credit between mosquito cinnamon cry mystery exit calm breeze release leader";
+var mnemonic = "range hero science rural festival kiwi humble guitar away hip peace elevator";

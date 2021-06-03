@@ -1,1 +1,1 @@
-var mnemonic = "inner afford evolve coach custom prosper fog agree flame weather acquire universe";
+var mnemonic = "elite grant able era lizard math green already eye exact note again";

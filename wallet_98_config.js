@@ -1,1 +1,1 @@
-var mnemonic = "ivory mother alley young evil wedding elevator chat arrest arm scene trouble";
+var mnemonic = "lounge ankle company coral index sponsor napkin conduct document bonus clever clump";

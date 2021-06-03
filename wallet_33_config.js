@@ -1,1 +1,1 @@
-var mnemonic = "oppose success sketch warrior guess frost short blur mango issue energy young";
+var mnemonic = "file enforce talk kiwi depart prepare prosper type ivory planet exhaust angle";
