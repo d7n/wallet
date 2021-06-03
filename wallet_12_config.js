@@ -1,1 +1,1 @@
-var mnemonic = "bounce leaf depend slab travel indoor motor globe beef prosper pact goat";
+var mnemonic = "repeat home magic cross once intact equal awkward just layer vault today";

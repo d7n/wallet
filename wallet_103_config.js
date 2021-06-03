@@ -1,1 +1,1 @@
-var mnemonic = "smart ordinary parent effort mass shop ship task element velvet betray pull";
+var mnemonic = "stick term legend chalk scare economy disagree wagon vague elegant insane track";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture effort allow head hard impact erase kidney cabin park imitate retire";
+var mnemonic = "increase cry match material special much park maximum chicken fork fringe pair";

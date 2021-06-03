@@ -1,1 +1,1 @@
-var mnemonic = "pave buzz acquire have you real radio tape bulb solar sadness bulb";
+var mnemonic = "stand click rookie liar major black butter broccoli shield grid tourist enroll";

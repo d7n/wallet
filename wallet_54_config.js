@@ -1,1 +1,1 @@
-var mnemonic = "typical loan dutch please analyst car angry sunny want regular belt alley";
+var mnemonic = "gentle hood hub involve enjoy farm airport shrug review question giraffe october";

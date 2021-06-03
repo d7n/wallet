@@ -1,1 +1,1 @@
-var mnemonic = "female science mind weird coconut noise involve excess type act casual zoo";
+var mnemonic = "decrease discover picnic crack power naive else tenant pair kangaroo biology fatigue";

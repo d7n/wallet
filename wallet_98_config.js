@@ -1,1 +1,1 @@
-var mnemonic = "couch zebra asthma reopen hint snake domain move reduce tone transfer top";
+var mnemonic = "rug twelve fame devote cotton flight grain legal afford speed force flip";

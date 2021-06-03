@@ -1,1 +1,1 @@
-var mnemonic = "blue pretty option puppy screen put limb dice apple turn silver eternal";
+var mnemonic = "memory fancy honey spider raccoon punch trip bulb device wealth digital man";

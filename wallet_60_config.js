@@ -1,1 +1,1 @@
-var mnemonic = "train jungle pretty state spare bachelor merge segment knife elbow expose random";
+var mnemonic = "jacket announce raw wood wrestle panel typical damage bless struggle naive jazz";

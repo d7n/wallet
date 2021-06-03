@@ -1,1 +1,1 @@
-var mnemonic = "rescue toddler timber panel dry echo response own swallow label cycle name";
+var mnemonic = "dial can jump summer guess become battle chase open cupboard garment witness";

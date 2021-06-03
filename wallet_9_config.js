@@ -1,1 +1,1 @@
-var mnemonic = "violin thank flame dove card tape echo undo lend casual hundred guard";
+var mnemonic = "gap sibling evil into fee engine pattern mind wire damage main exhibit";

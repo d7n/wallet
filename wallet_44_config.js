@@ -1,1 +1,1 @@
-var mnemonic = "work brick bulb exhaust marine slice awful mercy moment ecology sustain arrange";
+var mnemonic = "tennis alcohol hen gentle build shadow broom shoe earn head sauce illegal";

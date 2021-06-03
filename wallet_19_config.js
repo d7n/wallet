@@ -1,1 +1,1 @@
-var mnemonic = "chunk isolate much boring buzz again stomach illegal capable forum river airport";
+var mnemonic = "among power exist glad peanut pizza coconut slow wet extend loyal record";

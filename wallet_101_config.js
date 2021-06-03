@@ -1,1 +1,1 @@
-var mnemonic = "health wrap delay machine already vacuum arrive nominee bacon talent journey dolphin";
+var mnemonic = "tail any border exotic pony label rebuild useless stereo maximum rebel wolf";

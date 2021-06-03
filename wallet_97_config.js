@@ -1,1 +1,1 @@
-var mnemonic = "regret try install when vacuum cherry helmet sketch typical attitude leave bread";
+var mnemonic = "advance whip dash slab amateur timber enable search lock enact join add";

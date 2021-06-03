@@ -1,1 +1,1 @@
-var mnemonic = "steak north abandon melt average become helmet trouble patient stage pull excess";
+var mnemonic = "point merry smile rotate scorpion cram bulk correct enhance effort lonely vessel";

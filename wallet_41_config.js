@@ -1,1 +1,1 @@
-var mnemonic = "door sell awkward pilot link media sorry supreme beach leopard charge elegant";
+var mnemonic = "wall census pluck loan vacant various leisure rabbit captain kiss dinosaur lemon";

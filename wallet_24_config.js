@@ -1,1 +1,1 @@
-var mnemonic = "bus goddess target other wheat pluck slogan salute tooth warm wrestle happy";
+var mnemonic = "pact route act view dress lazy calm label build behind cute kidney";

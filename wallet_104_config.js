@@ -1,1 +1,1 @@
-var mnemonic = "basic van power shove lemon boost ivory nut copy possible pencil forest";
+var mnemonic = "code city tray wink latin ride apple cheap evolve alien assist tooth";

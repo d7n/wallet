@@ -1,1 +1,1 @@
-var mnemonic = "endless bridge auction gain razor clock hole possible behave eager butter young";
+var mnemonic = "remain ship grain tunnel gas remind angle mimic steak woman join fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "casual urge grocery false news fence rescue track inform world since true";
+var mnemonic = "draw sadness response bench pudding century glance matter bid town engage welcome";

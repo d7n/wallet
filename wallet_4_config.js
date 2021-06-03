@@ -1,1 +1,1 @@
-var mnemonic = "elder finish alert attract open identify snack science bid sock ostrich congress";
+var mnemonic = "weather equal august since move city label pitch frost afford junior motion";

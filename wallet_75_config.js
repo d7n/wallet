@@ -1,1 +1,1 @@
-var mnemonic = "never intact oppose morning copy crystal silly salt recycle lounge pond sound";
+var mnemonic = "equal toy evolve tube coffee prevent route volcano satoshi upon story danger";

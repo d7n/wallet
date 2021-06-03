@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit alley movie jungle start gorilla effort element midnight crisp cry naive";
+var mnemonic = "renew main media share conduct interest excite rose combine mechanic cream badge";

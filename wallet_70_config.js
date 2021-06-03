@@ -1,1 +1,1 @@
-var mnemonic = "milk vapor eagle once meat speak rival cross ready unusual plate car";
+var mnemonic = "suit pull skin small valid bar viable assume bulb pledge fall pact";

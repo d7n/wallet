@@ -1,1 +1,1 @@
-var mnemonic = "unusual middle warm human reason solution dash erosion sell prize much fortune";
+var mnemonic = "choose kingdom shrimp current level clay snack sail manage must brief guilt";

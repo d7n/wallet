@@ -1,1 +1,1 @@
-var mnemonic = "uncle embark olympic pulp exercise garlic alter morning tray bracket member dentist";
+var mnemonic = "humor pretty brother input behind speak negative design elevator deer uniform loop";

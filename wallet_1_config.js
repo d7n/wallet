@@ -1,1 +1,1 @@
-var mnemonic = "color glue kangaroo glimpse tumble aunt manage shadow noodle entry raise spawn";
+var mnemonic = "recycle reform divert tiger suit loud winter hawk cage this typical antique";

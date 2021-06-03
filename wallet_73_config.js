@@ -1,1 +1,1 @@
-var mnemonic = "illegal arrive upgrade involve dragon mom ahead inflict author recipe wheel seed";
+var mnemonic = "acoustic husband excess cross diet case pupil dumb pony physical scan crouch";

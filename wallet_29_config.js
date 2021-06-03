@@ -1,1 +1,1 @@
-var mnemonic = "scale fun loop quote border fix blast legend shine odor canal pioneer";
+var mnemonic = "ethics defy entire upgrade grab rate double shoulder coil banana misery hotel";

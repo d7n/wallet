@@ -1,1 +1,1 @@
-var mnemonic = "argue income solution slender demand screen shoe pony plastic always birth liquid";
+var mnemonic = "unusual welcome boring piece upon spring balance flush please alone gallery address";

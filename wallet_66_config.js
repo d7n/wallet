@@ -1,1 +1,1 @@
-var mnemonic = "reopen secret lottery enhance dog enrich language dynamic lucky cool stereo barely";
+var mnemonic = "file vault retreat series assume evoke meat script pumpkin girl field curve";

@@ -1,1 +1,1 @@
-var mnemonic = "grape simple skull scissors skull festival ability arm else net eagle nice";
+var mnemonic = "capital shrug celery clever element above ginger run grunt note diary banana";

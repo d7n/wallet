@@ -1,1 +1,1 @@
-var mnemonic = "struggle pulse raise bright soft first neck cram kingdom try rival suspect";
+var mnemonic = "edge agent brief dog focus slender slogan neck lab that brave drama";

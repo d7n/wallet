@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bid frame off avocado inform rug away city inquiry away spice";
+var mnemonic = "glue festival brother half during original custom genre kind pony level cable";

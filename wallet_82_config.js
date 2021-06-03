@@ -1,1 +1,1 @@
-var mnemonic = "unfair trust protect goddess spirit renew unique field exchange chalk good blue";
+var mnemonic = "safe water swift emerge coconut extend mom peanut horse lecture vivid gain";

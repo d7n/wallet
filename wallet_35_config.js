@@ -1,1 +1,1 @@
-var mnemonic = "segment random roof sight lunch infant buyer evolve bottom excuse illness federal";
+var mnemonic = "eager depart choose cube resemble wedding card hole home blossom episode worth";

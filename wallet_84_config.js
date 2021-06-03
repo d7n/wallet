@@ -1,1 +1,1 @@
-var mnemonic = "flush plastic direct panic cave slender purchase worry fiction video evoke surface";
+var mnemonic = "topic elephant term solar edge mandate leave punch twenty still casino jar";

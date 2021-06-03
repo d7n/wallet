@@ -1,1 +1,1 @@
-var mnemonic = "civil bind other pause manage submit once ten fancy rotate lift high";
+var mnemonic = "ignore exile food season penalty van wet blush february outside mosquito guitar";

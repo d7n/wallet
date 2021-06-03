@@ -1,1 +1,1 @@
-var mnemonic = "differ imitate middle tomorrow gas cheese reopen ginger banana tiny betray traffic";
+var mnemonic = "chat sudden chat truck spend alone trim crazy more illegal cook tube";

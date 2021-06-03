@@ -1,1 +1,1 @@
-var mnemonic = "swarm hello crack simple stone lumber syrup time cushion delay bless ginger";
+var mnemonic = "bamboo cook where near fire grow buddy trip task repeat net genre";

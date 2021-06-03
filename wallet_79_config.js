@@ -1,1 +1,1 @@
-var mnemonic = "dwarf custom rain dress priority slim vanish fine conduct ski connect hybrid";
+var mnemonic = "duck below genuine tank finish scrub diesel ginger viable gorilla upgrade quantum";

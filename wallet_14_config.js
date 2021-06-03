@@ -1,1 +1,1 @@
-var mnemonic = "boss cruise prepare cousin youth raise rent chaos filter surround oak echo";
+var mnemonic = "amateur shrimp shine harbor approve strategy critic gloom note radar whale exact";

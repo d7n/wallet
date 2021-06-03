@@ -1,1 +1,1 @@
-var mnemonic = "arena shell shock cream north elephant learn peace tilt ritual patrol winner";
+var mnemonic = "fat guard guess stage token method immune artist veteran drift squeeze almost";

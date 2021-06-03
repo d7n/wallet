@@ -1,1 +1,1 @@
-var mnemonic = "shuffle creek receive air alcohol confirm raven grid admit plastic exile project";
+var mnemonic = "quit dentist reduce setup radio glove panic girl april arrow toward relax";

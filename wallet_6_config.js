@@ -1,1 +1,1 @@
-var mnemonic = "evoke treat animal mail area tissue kingdom system buzz reject tackle oyster";
+var mnemonic = "stage heavy autumn eager shaft execute fade custom village youth garbage ramp";

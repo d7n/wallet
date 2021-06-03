@@ -1,1 +1,1 @@
-var mnemonic = "exotic artist crop mixed adjust smart truth wood doll common venue other";
+var mnemonic = "current blast envelope hawk between vehicle hour creek fog coach nation client";

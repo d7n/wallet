@@ -1,1 +1,1 @@
-var mnemonic = "item tattoo under summer music bubble barrel public spirit eternal loan twice";
+var mnemonic = "opera cheap army era setup kidney artist embrace maze upper drip winner";

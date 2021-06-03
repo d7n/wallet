@@ -1,1 +1,1 @@
-var mnemonic = "peace visa brain staff hover blossom green heart top casual chest sock";
+var mnemonic = "blush toss wet lumber card ladder health project happy excuse solid breeze";

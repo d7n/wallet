@@ -1,1 +1,1 @@
-var mnemonic = "melt fly bar swamp only ivory beauty office plate trust leisure marble";
+var mnemonic = "noise tip key struggle town evolve angry stone race rebuild lake faith";

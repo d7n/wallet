@@ -1,1 +1,1 @@
-var mnemonic = "typical kangaroo saddle wink diamond shy cycle glance arrest flavor hard royal";
+var mnemonic = "clock web process main bind patrol link smile dismiss carry control another";

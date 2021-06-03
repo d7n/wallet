@@ -1,1 +1,1 @@
-var mnemonic = "ceiling injury stage miss anxiety zone remain ostrich fluid butter dove vivid";
+var mnemonic = "cigar fee burger miracle poverty jungle canal relief disorder pause laundry have";

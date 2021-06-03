@@ -1,1 +1,1 @@
-var mnemonic = "puzzle web history borrow similar cruise dwarf desert fade category day tank";
+var mnemonic = "session category ice fun kind faint control disagree depend used cost once";

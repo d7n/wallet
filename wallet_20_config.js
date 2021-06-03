@@ -1,1 +1,1 @@
-var mnemonic = "mystery spray surprise taxi ramp warfare artist toilet refuse history eternal pink";
+var mnemonic = "tourist start curious attack print shine sell release two kit anger tank";

@@ -1,1 +1,1 @@
-var mnemonic = "digital section search hollow bag energy trouble market satisfy dose riot guitar";
+var mnemonic = "pass sport exercise state duty expect stage abuse offer sell crew either";

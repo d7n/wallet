@@ -1,1 +1,1 @@
-var mnemonic = "harvest above odor boring dragon parrot coil cloud giraffe distance love fix";
+var mnemonic = "option undo satisfy raccoon cruise lend avoid aspect media ramp other crush";

@@ -1,1 +1,1 @@
-var mnemonic = "good harsh will memory like obey illegal firm myself armed tent tomorrow";
+var mnemonic = "rocket ranch delay buyer swear session style moment arrest sister pink assume";

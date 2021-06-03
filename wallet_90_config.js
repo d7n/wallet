@@ -1,1 +1,1 @@
-var mnemonic = "paper float actual travel artwork tackle donate knock hotel can alcohol fatigue";
+var mnemonic = "scrap include labor skirt spell crack fever trip gossip foil desk flock";

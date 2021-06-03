@@ -1,1 +1,1 @@
-var mnemonic = "rose marine radio deer nose helmet fatigue limit whisper stairs fan neither";
+var mnemonic = "banana jewel banner mammal neck life suggest color absurd truck rotate globe";

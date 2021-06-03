@@ -1,1 +1,1 @@
-var mnemonic = "inquiry off dirt firm tree execute salute settle book swear chef loud";
+var mnemonic = "team gift lawn public universe pulse pencil soon caution word young found";

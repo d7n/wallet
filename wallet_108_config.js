@@ -1,1 +1,1 @@
-var mnemonic = "sand kangaroo inspire gown nerve essay affair deny together coach wagon banana";
+var mnemonic = "twelve awake voice verb glove drama truck hedgehog orange ahead water boy";

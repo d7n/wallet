@@ -1,1 +1,1 @@
-var mnemonic = "decorate never turkey main again material average swear fix antique draw custom";
+var mnemonic = "upset water coffee primary virtual zero blossom feel local reward penalty survey";

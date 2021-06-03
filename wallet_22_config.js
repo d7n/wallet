@@ -1,1 +1,1 @@
-var mnemonic = "disagree hip oval image one opera asthma paddle glory action owner regret";
+var mnemonic = "bachelor cigar spell hurdle day improve engage cash output joy filter winner";

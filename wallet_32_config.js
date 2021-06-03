@@ -1,1 +1,1 @@
-var mnemonic = "gas floor bean wage wife toe equip net valid quantum gather upgrade";
+var mnemonic = "jaguar vote foil appear attract sweet online economy lamp wave damage liberty";

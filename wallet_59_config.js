@@ -1,1 +1,1 @@
-var mnemonic = "together leaf hungry gate tiny between mercy doll category cheap hour account";
+var mnemonic = "sort celery pudding fork tonight click original pill dutch tomato tube trend";

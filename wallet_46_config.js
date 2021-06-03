@@ -1,1 +1,1 @@
-var mnemonic = "disagree harsh illegal client similar head pigeon bar shrimp warm dilemma sea";
+var mnemonic = "lab main zone gown bone demise much derive year reduce avoid sauce";

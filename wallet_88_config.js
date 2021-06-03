@@ -1,1 +1,1 @@
-var mnemonic = "camp mule pattern assist snack travel jungle boat spot crucial assist absurd";
+var mnemonic = "helmet ring join filter verb buzz relief spike essence timber stumble torch";

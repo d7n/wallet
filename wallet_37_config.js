@@ -1,1 +1,1 @@
-var mnemonic = "series cheese crouch churn choose bacon juice rebuild trick finger deposit shine";
+var mnemonic = "silk large result helmet brisk mosquito address decline total dutch change thumb";

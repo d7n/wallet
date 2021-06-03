@@ -1,1 +1,1 @@
-var mnemonic = "ship suffer eager unit peace broom purity afford require wait oval comfort";
+var mnemonic = "audit submit erode cactus once decrease latin same elegant fragile case pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "slim shuffle near lab surprise market treat ask chat style priority aware";
+var mnemonic = "three aisle wave race fruit prosper spy between hen search eager place";

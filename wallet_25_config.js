@@ -1,1 +1,1 @@
-var mnemonic = "nuclear derive badge chronic valve monitor manage build genre antenna tobacco social";
+var mnemonic = "immune build annual immune embrace fever sadness history shallow result govern half";

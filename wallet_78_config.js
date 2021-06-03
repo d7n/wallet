@@ -1,1 +1,1 @@
-var mnemonic = "sustain clever quantum arrow shrimp expire bunker fetch toilet unable antique barely";
+var mnemonic = "lounge garage machine demise police chapter rookie spice powder treat evoke weapon";

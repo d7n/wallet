@@ -1,1 +1,1 @@
-var mnemonic = "fringe miracle rookie comfort raw ahead attract setup unit message brand brick";
+var mnemonic = "divide dance idea edge gift orchard prosper cry belt expect donate pact";

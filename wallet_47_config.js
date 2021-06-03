@@ -1,1 +1,1 @@
-var mnemonic = "foam clean ordinary lecture shaft typical call donate dynamic churn famous stone";
+var mnemonic = "march dinner extra device list water pistol faculty provide original razor lottery";

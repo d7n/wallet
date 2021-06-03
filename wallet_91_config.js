@@ -1,1 +1,1 @@
-var mnemonic = "gadget prepare salon lyrics detect split galaxy payment wave tent journey review";
+var mnemonic = "tray appear image cliff shoot uniform dash receive seek just gate gap";

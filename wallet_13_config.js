@@ -1,1 +1,1 @@
-var mnemonic = "depend farm glance relief size huge pass shiver rough address human truly";
+var mnemonic = "ride push lumber want enough divorce term force fade credit spy indicate";

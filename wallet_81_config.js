@@ -1,1 +1,1 @@
-var mnemonic = "trial subway saddle lava ensure current bundle mobile twenty improve walnut just";
+var mnemonic = "salon agree window lizard topple galaxy hawk ocean cat decline symptom law";

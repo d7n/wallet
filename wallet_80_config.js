@@ -1,1 +1,1 @@
-var mnemonic = "faint ramp song dice tongue decorate diamond into merry unknown sail snap";
+var mnemonic = "embark okay easily leisure pitch sponsor drama tattoo aware keen miracle trouble";

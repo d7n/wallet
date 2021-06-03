@@ -1,1 +1,1 @@
-var mnemonic = "muscle marriage exhibit melt switch middle sail student yellow legal barely dirt";
+var mnemonic = "betray wet betray duck cigar young inside speak camera ticket bleak knock";

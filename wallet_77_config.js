@@ -1,1 +1,1 @@
-var mnemonic = "rifle basic weapon already again domain small spoil business dose fatal spawn";
+var mnemonic = "picnic clarify narrow grief air multiply nature off bicycle special behave soup";

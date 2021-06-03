@@ -1,1 +1,1 @@
-var mnemonic = "rookie relief gesture comfort spike rifle answer supreme north enter much nice";
+var mnemonic = "thought enjoy gift giant nuclear feature simple special engage defy man marble";

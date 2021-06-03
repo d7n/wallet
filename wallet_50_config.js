@@ -1,1 +1,1 @@
-var mnemonic = "suggest found eagle design tree noodle pause crumble day symptom viable also";
+var mnemonic = "mixed antenna fall must win repeat rifle coffee purpose wrestle hidden vapor";

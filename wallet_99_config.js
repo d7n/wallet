@@ -1,1 +1,1 @@
-var mnemonic = "body cargo key scrub road region tired palace public slush burst maple";
+var mnemonic = "dance tomorrow luggage know soon quote aunt rubber half sign gun light";

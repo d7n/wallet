@@ -1,1 +1,1 @@
-var mnemonic = "pitch pilot disagree write urban indoor joke blind prepare athlete arrange core";
+var mnemonic = "tumble text staff monkey pilot spring nice tomato defense will resource slam";

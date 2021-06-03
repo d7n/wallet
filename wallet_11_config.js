@@ -1,1 +1,1 @@
-var mnemonic = "bulk casino crouch silver plug rescue budget ramp carry path sorry fruit";
+var mnemonic = "bitter breeze fitness erupt drip hedgehog ring universe clean spot limb bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "submit gorilla goat invite hole measure tumble learn skirt hill fish romance";
+var mnemonic = "hole pretty kit tilt decorate online device pattern upset robot penalty merge";

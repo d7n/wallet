@@ -1,1 +1,1 @@
-var mnemonic = "vintage crime glory job alien practice price unhappy zoo carbon version garment";
+var mnemonic = "calm surround sniff pause wine rather judge song skill property lady camera";

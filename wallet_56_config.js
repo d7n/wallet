@@ -1,1 +1,1 @@
-var mnemonic = "liar milk system endorse design acquire emotion cost curious icon front water";
+var mnemonic = "have display bulk artist govern common baby news hawk rule topic naive";

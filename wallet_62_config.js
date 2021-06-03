@@ -1,1 +1,1 @@
-var mnemonic = "spider fox target path say excite turtle brave van choose solid know";
+var mnemonic = "benefit require shift gap screen foot zoo digital vapor will scare romance";

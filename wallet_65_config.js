@@ -1,1 +1,1 @@
-var mnemonic = "rose wrong broken liquid another fade this cotton plunge rely program symptom";
+var mnemonic = "cat sign master express object brick river bean churn couple doll impact";

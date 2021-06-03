@@ -1,1 +1,1 @@
-var mnemonic = "educate advance extra produce snow alien cross clump purpose laugh chat wear";
+var mnemonic = "quarter space honey swallow tomato veteran hero can thank sunset vintage trick";
