@@ -1,1 +1,1 @@
-var mnemonic = "disorder reward cage soup tunnel pony payment program eyebrow adapt fine digital";
+var mnemonic = "script frog submit wheat balance patrol repeat project solid collect render wide";

@@ -1,1 +1,1 @@
-var mnemonic = "maple delay fancy column timber avocado keen off energy auto swift evoke";
+var mnemonic = "digital useful scout wasp wing height ski donate mother injury carpet enrich";

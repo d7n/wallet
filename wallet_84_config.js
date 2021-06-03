@@ -1,1 +1,1 @@
-var mnemonic = "apart group neither figure hire action delay garlic idea monster inform web";
+var mnemonic = "jewel ostrich ready dose slot moon number hard benefit choose edit broccoli";

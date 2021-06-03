@@ -1,1 +1,1 @@
-var mnemonic = "crouch genuine acoustic uncover call hobby figure become hard pass coyote flock";
+var mnemonic = "maid garment route sock repeat breeze increase make elevator rabbit pear lizard";

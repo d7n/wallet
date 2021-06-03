@@ -1,1 +1,1 @@
-var mnemonic = "weird thing industry picture phone network erode begin squirrel clarify spread grow";
+var mnemonic = "conduct cruise avocado salon prefer inside detect raw tag orchard major nothing";

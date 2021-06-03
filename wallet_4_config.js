@@ -1,1 +1,1 @@
-var mnemonic = "planet street social south host trim essay design tool interest wife similar";
+var mnemonic = "pepper office soup between aisle toddler better vacuum return sell demise nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth conduct antique rapid violin dry polar boss come lawsuit lumber oil";
+var mnemonic = "syrup test pluck cricket scrap shop switch renew south good famous update";

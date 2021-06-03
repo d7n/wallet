@@ -1,1 +1,1 @@
-var mnemonic = "lounge leg blast build fly device bargain luggage toast achieve umbrella insane";
+var mnemonic = "deal clap unfair undo benefit carbon ecology oil brave wise rocket rent";

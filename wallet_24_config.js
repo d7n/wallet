@@ -1,1 +1,1 @@
-var mnemonic = "second camera calm work hollow two cupboard board square custom reform blood";
+var mnemonic = "master begin receive battle produce treat office indicate welcome balcony allow treat";

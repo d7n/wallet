@@ -1,1 +1,1 @@
-var mnemonic = "shift tag evolve outer gate task laundry damage portion merge margin frog";
+var mnemonic = "behave rescue brisk camp leave romance plunge ring stock must edge spare";

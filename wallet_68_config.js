@@ -1,1 +1,1 @@
-var mnemonic = "sell rival object door collect evil thank hungry frozen aerobic sentence stand";
+var mnemonic = "cotton quick ensure chapter click uncle brain quality icon peace pitch artwork";

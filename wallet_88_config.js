@@ -1,1 +1,1 @@
-var mnemonic = "list sausage session purity hint ostrich height decade crater sign catalog below";
+var mnemonic = "because flock payment remind person peace gravity pair hybrid illegal kick claw";

@@ -1,1 +1,1 @@
-var mnemonic = "coast wise base twelve cover vague swap index gown mixed fluid fragile";
+var mnemonic = "bridge blind direct domain end bronze pet multiply novel escape column federal";

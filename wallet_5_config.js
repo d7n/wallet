@@ -1,1 +1,1 @@
-var mnemonic = "account opera salad unusual crawl finish device grace voyage outside layer usual";
+var mnemonic = "impose profit prison piano stadium visual point whale file napkin sport excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "bag gas creek rotate crush simple essay bachelor adult rally two flock";
+var mnemonic = "alert cry salon unhappy trigger diamond swamp police follow museum force sting";

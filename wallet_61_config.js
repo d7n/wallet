@@ -1,1 +1,1 @@
-var mnemonic = "hawk word pave piano motion sort ramp change chief ocean bacon vast";
+var mnemonic = "lion pilot awful ahead decade certain weekend exotic trash avocado grace there";

@@ -1,1 +1,1 @@
-var mnemonic = "room crew dentist oval desk note cash town foot uniform ankle capable";
+var mnemonic = "easy syrup ability speak maximum right purpose license vast pave tip energy";

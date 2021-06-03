@@ -1,1 +1,1 @@
-var mnemonic = "judge always champion mesh arrow stick surround oxygen blade type someone wink";
+var mnemonic = "thank dismiss pen best twenty laundry thunder maid dad say grunt sun";

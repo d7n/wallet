@@ -1,1 +1,1 @@
-var mnemonic = "denial pride wink fruit sure allow pink guitar lazy blame shock flame";
+var mnemonic = "oven brass sun two today naive flush outside portion gather real hammer";

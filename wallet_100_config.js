@@ -1,1 +1,1 @@
-var mnemonic = "void wall exit worry shield surface abuse develop auction manual lava soccer";
+var mnemonic = "okay light cushion trouble city save ten ticket thrive horror prepare impose";

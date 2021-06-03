@@ -1,1 +1,1 @@
-var mnemonic = "quit crack rather good rifle alien blossom venue cash gospel cram mixture";
+var mnemonic = "report stable fence salute message mystery tree save weird develop shove gym";

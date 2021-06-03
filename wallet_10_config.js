@@ -1,1 +1,1 @@
-var mnemonic = "aisle zebra tortoise topple evil assume bicycle salute okay brick negative length";
+var mnemonic = "because describe trade situate junior silver gold sting weather ghost vocal flavor";

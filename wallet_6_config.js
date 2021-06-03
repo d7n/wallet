@@ -1,1 +1,1 @@
-var mnemonic = "organ casino sand pioneer acoustic treat hello inspire gadget twelve pelican royal";
+var mnemonic = "amused goat pattern advance sugar whisper spoil victory topple near lunch normal";

@@ -1,1 +1,1 @@
-var mnemonic = "embody february type pilot fiction alone coil else canvas ozone word slot";
+var mnemonic = "learn earth hungry deny tide easy novel need that unfold silver reason";

@@ -1,1 +1,1 @@
-var mnemonic = "aware capital govern tonight never crazy sibling tunnel witness peasant grain peanut";
+var mnemonic = "follow mistake spread front vanish crack balance ethics enforce ribbon fluid nice";

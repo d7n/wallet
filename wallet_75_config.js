@@ -1,1 +1,1 @@
-var mnemonic = "smile shine reopen anchor inhale remain category august slim nice clock hire";
+var mnemonic = "fragile island marine split visa smoke balcony own cheap rescue blame much";

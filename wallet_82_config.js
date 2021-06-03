@@ -1,1 +1,1 @@
-var mnemonic = "expect okay kitchen shrimp acquire hurt bottom mistake cart february cheap hedgehog";
+var mnemonic = "weekend mimic diesel inflict siege idea ranch camp cattle tobacco man box";

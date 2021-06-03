@@ -1,1 +1,1 @@
-var mnemonic = "birth essay marine belt source round basic angle now miracle harvest analyst";
+var mnemonic = "usage bean flee crucial family dove script reject ecology comfort tissue resemble";

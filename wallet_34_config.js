@@ -1,1 +1,1 @@
-var mnemonic = "blur result future gas shiver finger funny corn wheel bread patrol space";
+var mnemonic = "flight pencil question danger fire elevator praise fog know valve mind place";

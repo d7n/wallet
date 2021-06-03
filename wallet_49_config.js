@@ -1,1 +1,1 @@
-var mnemonic = "grief scatter visual anchor depth roast pact taste bundle solve blue cabin";
+var mnemonic = "neglect spirit tattoo light pulp wool solution name between menu raven seminar";

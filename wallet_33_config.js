@@ -1,1 +1,1 @@
-var mnemonic = "summer error happy guide such subject satisfy raw mixed fluid valley nominee";
+var mnemonic = "same injury yellow supply antenna enlist toe arrest surface armed wrong juice";

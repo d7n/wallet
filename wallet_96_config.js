@@ -1,1 +1,1 @@
-var mnemonic = "kingdom seed sting pink visual neither until outside pyramid prize velvet scan";
+var mnemonic = "right offer entire art fade trust slab fiscal stool lava ginger wink";

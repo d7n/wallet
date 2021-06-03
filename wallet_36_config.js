@@ -1,1 +1,1 @@
-var mnemonic = "sustain choose replace air obvious waste spend purity hazard confirm north throw";
+var mnemonic = "work food shrug unaware pet this mix work wonder ill company drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "zero network recipe nerve genius hospital subject right local junk meat dice";
+var mnemonic = "patient infant ecology unit hundred bread glow subway meat senior pause antique";

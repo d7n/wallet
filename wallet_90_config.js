@@ -1,1 +1,1 @@
-var mnemonic = "photo bean august surprise order media gap era foil runway error empty";
+var mnemonic = "marine mean swear seminar hawk verb scorpion horror tip ready laundry legend";

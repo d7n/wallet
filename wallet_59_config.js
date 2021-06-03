@@ -1,1 +1,1 @@
-var mnemonic = "bonus bonus silver power match tuition outside icon keen mansion market march";
+var mnemonic = "salmon grape trash hold tag group lock other current height silk tag";

@@ -1,1 +1,1 @@
-var mnemonic = "shine squeeze verb upper genius appear frost quit found repair saddle buffalo";
+var mnemonic = "concert cluster drill tonight broom company eager pitch trend type village wonder";

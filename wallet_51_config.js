@@ -1,1 +1,1 @@
-var mnemonic = "annual climb kick unknown odor mesh attract nerve twice teach demand fiction";
+var mnemonic = "clay language album basic wool arm bar reopen height silent off boy";

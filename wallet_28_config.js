@@ -1,1 +1,1 @@
-var mnemonic = "legal this affair sadness crucial dice jewel chimney among display dentist abuse";
+var mnemonic = "hold hub ghost three tooth absurd lake banana play adjust text ivory";

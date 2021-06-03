@@ -1,1 +1,1 @@
-var mnemonic = "viable argue danger any recycle federal body deer possible idle battle quote";
+var mnemonic = "enter story accident orchard square sadness primary home infant galaxy march timber";

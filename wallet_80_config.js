@@ -1,1 +1,1 @@
-var mnemonic = "rough light bag orphan bright believe letter focus bacon include then bounce";
+var mnemonic = "odor ribbon regret miss slow upper dose penalty coral budget project equal";

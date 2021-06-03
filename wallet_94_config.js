@@ -1,1 +1,1 @@
-var mnemonic = "estate initial design tiny bind crack into review drive problem bargain capable";
+var mnemonic = "found mind inform enhance hero include pottery waste void basic merit boat";

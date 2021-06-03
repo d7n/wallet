@@ -1,1 +1,1 @@
-var mnemonic = "beauty paddle gentle sword universe clarify october inner bridge drastic lonely connect";
+var mnemonic = "merit amateur trick scale want behave pottery clever crew ten copper dice";

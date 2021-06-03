@@ -1,1 +1,1 @@
-var mnemonic = "spoon soda riot jeans hat inner raven feel kiss donkey club cloth";
+var mnemonic = "cabin mercy exercise hope chief garden busy reason oval charge kiwi fluid";

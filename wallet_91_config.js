@@ -1,1 +1,1 @@
-var mnemonic = "used crawl volume short danger crowd power awkward mosquito cinnamon chalk easily";
+var mnemonic = "decrease bacon leaf fossil tennis ignore slide include zoo room expand lizard";

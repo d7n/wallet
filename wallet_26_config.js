@@ -1,1 +1,1 @@
-var mnemonic = "hurry train science happy staff sponsor pulse way uniform fashion shiver quality";
+var mnemonic = "spoon trend spawn actual civil clinic day salmon mixed ball truth pig";

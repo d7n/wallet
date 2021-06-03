@@ -1,1 +1,1 @@
-var mnemonic = "bomb corn mechanic grass buddy mother mad blind luggage prosper mechanic dolphin";
+var mnemonic = "avoid owner all random nation museum talk oak strategy stomach suggest mixed";

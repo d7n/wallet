@@ -1,1 +1,1 @@
-var mnemonic = "correct anger lion two make ability raccoon orbit mosquito candy legend bleak";
+var mnemonic = "armed knee coral fiber impact guard math trumpet orbit survey clinic universe";

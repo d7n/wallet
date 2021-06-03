@@ -1,1 +1,1 @@
-var mnemonic = "have what image harvest motor peace soon clap mobile junior grunt winter";
+var mnemonic = "shove defense fury daring stage return tackle ozone father upon pattern sing";

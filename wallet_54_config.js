@@ -1,1 +1,1 @@
-var mnemonic = "coyote immense flash together absurd hold hazard real space antique ticket funny";
+var mnemonic = "hat abstract census absurd dinosaur near auto news myth buyer lobster clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit whip plate palm void auction cricket worry such right furnace quiz";
+var mnemonic = "chef purchase cricket arrange document credit ribbon inmate essay lend dinosaur visa";

@@ -1,1 +1,1 @@
-var mnemonic = "enact lawsuit daughter involve outdoor burger little model culture come almost strategy";
+var mnemonic = "machine slogan jar bless stage blossom lunch then note wedding rally dinosaur";

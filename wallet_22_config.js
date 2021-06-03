@@ -1,1 +1,1 @@
-var mnemonic = "coyote local ghost giraffe sun popular poverty panel elevator ladder indicate surprise";
+var mnemonic = "future food say sea filter gospel already book matrix exotic season school";

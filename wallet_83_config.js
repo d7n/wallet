@@ -1,1 +1,1 @@
-var mnemonic = "rather spread lift tomorrow erode thumb stamp mystery orbit crop notice employ";
+var mnemonic = "emotion weird fence orchard spin squeeze rose spike letter pen fantasy margin";

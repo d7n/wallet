@@ -1,1 +1,1 @@
-var mnemonic = "float present mushroom setup miracle frequent into orchard north mom predict fall";
+var mnemonic = "tongue market stand auto sense coconut office universe coil brain eight coil";

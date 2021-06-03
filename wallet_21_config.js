@@ -1,1 +1,1 @@
-var mnemonic = "addict owner antenna bronze hat fit amount outside calm inhale salmon similar";
+var mnemonic = "road endless soda rapid improve argue cousin piano gold boring invest demise";

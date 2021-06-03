@@ -1,1 +1,1 @@
-var mnemonic = "fine drum april void skill wife afford swim swing scissors helmet taste";
+var mnemonic = "mango ivory twice segment sudden sock flock expose rally awkward coast verify";

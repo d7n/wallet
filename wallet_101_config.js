@@ -1,1 +1,1 @@
-var mnemonic = "rabbit key gospel man fog salt pistol sock fox put pizza alarm";
+var mnemonic = "outside ketchup ramp wish actual bonus mandate direct bulb elevator addict mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "fan evidence earth must bone join swap whip fade tent end remove";
+var mnemonic = "unusual orphan measure limb empower whale subway denial excite year put over";

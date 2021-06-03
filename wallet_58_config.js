@@ -1,1 +1,1 @@
-var mnemonic = "borrow camera kangaroo armor talent avoid truck adjust shadow sell raccoon piece";
+var mnemonic = "bone boost key loop under future win opera primary youth thank oyster";

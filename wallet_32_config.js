@@ -1,1 +1,1 @@
-var mnemonic = "priority vital fiscal message rely sniff ecology endorse unfold leave mother cousin";
+var mnemonic = "penalty apology pause exotic shed volume street smile solution weasel quiz property";

@@ -1,1 +1,1 @@
-var mnemonic = "movie season hurry make manage acid correct much coil rather alert video";
+var mnemonic = "slight tip nuclear fine extra jealous live fluid cat welcome supreme tray";

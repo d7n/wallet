@@ -1,1 +1,1 @@
-var mnemonic = "fault cancel gas brush upper lawsuit custom exotic custom grape venture casino";
+var mnemonic = "shove pumpkin stomach addict stool obvious boring expand ritual trigger kick zero";

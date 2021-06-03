@@ -1,1 +1,1 @@
-var mnemonic = "trial hawk that often again surround beyond scan input alert neutral budget";
+var mnemonic = "more oyster brush math link beyond buddy seven you able solve economy";

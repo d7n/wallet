@@ -1,1 +1,1 @@
-var mnemonic = "sport lava special dream usage inner math display near develop tumble cotton";
+var mnemonic = "gain inherit rural hire found hint candy razor buyer stable stock file";

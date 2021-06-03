@@ -1,1 +1,1 @@
-var mnemonic = "path oil burger tag nice account case pact merge today raw regret";
+var mnemonic = "midnight toast impose roof grunt noodle mesh excite afraid unveil wedding erode";

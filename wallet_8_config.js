@@ -1,1 +1,1 @@
-var mnemonic = "during path rent relax cabin olympic museum dust win festival spirit biology";
+var mnemonic = "acoustic trap lens question discover merge monkey battle action earn view sad";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel model wear valve canvas crater menu hen mail clock balcony phone";
+var mnemonic = "viable ugly swim parent supreme hire renew vibrant suggest combine cigar weekend";

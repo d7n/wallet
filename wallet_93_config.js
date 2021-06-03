@@ -1,1 +1,1 @@
-var mnemonic = "pull video theory napkin smooth any ozone surface hammer glass sister stock";
+var mnemonic = "congress burst chief say obvious father tilt maze diet normal surprise once";

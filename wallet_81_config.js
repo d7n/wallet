@@ -1,1 +1,1 @@
-var mnemonic = "index company put embody panther debate melody idea manage bright option genre";
+var mnemonic = "chase cram author year ramp sick photo bus note slam game bitter";

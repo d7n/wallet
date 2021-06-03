@@ -1,1 +1,1 @@
-var mnemonic = "honey attitude faint recycle true core position believe music addict analyst cram";
+var mnemonic = "call mosquito hour weird depart pilot submit stand jaguar imitate critic marble";

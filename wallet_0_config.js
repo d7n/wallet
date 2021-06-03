@@ -1,1 +1,1 @@
-var mnemonic = "behave snow vital goat gaze pass love vintage size hamster hollow valley";
+var mnemonic = "prison student spawn depart solve track since train pill unusual roof number";

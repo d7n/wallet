@@ -1,1 +1,1 @@
-var mnemonic = "catalog debate exact learn sword enough rabbit mass real media steak follow";
+var mnemonic = "lamp sorry elephant hunt twist police goat cart zoo hidden double obey";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy steel seek great answer oppose come knife bundle floor appear vanish";
+var mnemonic = "rough length witness slogan stadium head forum six pause load trophy option";

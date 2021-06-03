@@ -1,1 +1,1 @@
-var mnemonic = "task satisfy measure steak memory frequent brown deny fat final trash property";
+var mnemonic = "audit gentle ride relax custom all three decorate mouse correct derive usage";

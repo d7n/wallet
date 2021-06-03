@@ -1,1 +1,1 @@
-var mnemonic = "hold uncover figure ask arch truly begin course combine tobacco auto rib";
+var mnemonic = "alley crush ankle desert unveil act volume weapon chunk tiny broccoli rain";

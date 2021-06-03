@@ -1,1 +1,1 @@
-var mnemonic = "burger imitate fun frost uncle pride sweet couple dragon glance before spend";
+var mnemonic = "blast federal very mosquito world cake evoke glove patrol blouse idea today";

@@ -1,1 +1,1 @@
-var mnemonic = "arm expand visit castle chicken bring tribe kangaroo check orange target walk";
+var mnemonic = "online tortoise remain hurdle ecology obtain talk govern wagon excuse mesh crash";

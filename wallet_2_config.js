@@ -1,1 +1,1 @@
-var mnemonic = "depth wheat pudding pact display lawsuit payment bitter model stock curious ordinary";
+var mnemonic = "avocado more trigger leg absurd alien duty spring body kiss proof tumble";

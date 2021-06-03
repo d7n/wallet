@@ -1,1 +1,1 @@
-var mnemonic = "praise behave atom plunge tumble suffer carpet stumble govern scissors throw obvious";
+var mnemonic = "much fever cruise design real praise uncover diet swing cash brother hub";

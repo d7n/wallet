@@ -1,1 +1,1 @@
-var mnemonic = "frown six warrior plunge tiny three category convince gate section kidney grow";
+var mnemonic = "forest once orbit nasty coast wisdom try apart deputy vital foil tree";

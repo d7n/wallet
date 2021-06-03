@@ -1,1 +1,1 @@
-var mnemonic = "topple galaxy weekend wisdom pumpkin spread laundry harvest slam crush kick bronze";
+var mnemonic = "hunt few merit educate stock beach tongue chair category just illness post";

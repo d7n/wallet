@@ -1,1 +1,1 @@
-var mnemonic = "pudding novel finish accident alley word start rifle armor razor setup guilt";
+var mnemonic = "recipe physical mom industry skin popular quit receive brief crazy believe want";

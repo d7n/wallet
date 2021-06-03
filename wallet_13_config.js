@@ -1,1 +1,1 @@
-var mnemonic = "strike zero embrace label kind intact cherry detail there later recycle parade";
+var mnemonic = "vicious rely target ostrich illegal wage grunt load where finger valve nothing";

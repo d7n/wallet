@@ -1,1 +1,1 @@
-var mnemonic = "rail yard solve expand stuff rocket oil cactus twin endorse keep brave";
+var mnemonic = "window jump rare pigeon inspire palm venue camp cruise across wood oak";

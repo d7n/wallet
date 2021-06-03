@@ -1,1 +1,1 @@
-var mnemonic = "festival upset tower transfer kiss coconut source price total stem fiber hospital";
+var mnemonic = "symbol rack nuclear staff gather vacuum settle foam eye rule absurd business";

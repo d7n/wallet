@@ -1,1 +1,1 @@
-var mnemonic = "double balance grace quality series spike peanut stay base face verb good";
+var mnemonic = "ball mango price turkey maze father power surround about cherry old punch";

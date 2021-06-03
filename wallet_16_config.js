@@ -1,1 +1,1 @@
-var mnemonic = "unusual state vanish strategy walk message wedding knife ivory access genre winner";
+var mnemonic = "exile meat bottom convince order donate afford loud myself chuckle phone beyond";

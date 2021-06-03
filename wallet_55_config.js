@@ -1,1 +1,1 @@
-var mnemonic = "rice slogan alone strategy inch female solve trade book black involve veteran";
+var mnemonic = "price remind museum armor finish mercy tower target decide salt trim dynamic";

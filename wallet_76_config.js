@@ -1,1 +1,1 @@
-var mnemonic = "odor push mesh use vintage will group victory material cube reduce obvious";
+var mnemonic = "deer rose come loyal broom huge lunar apart real breeze hungry swear";

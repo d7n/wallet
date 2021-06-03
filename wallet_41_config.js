@@ -1,1 +1,1 @@
-var mnemonic = "curve else wonder oil collect scout dad swarm farm soldier banana draft";
+var mnemonic = "order decrease boat worry spell success nothing sting art nephew rib core";

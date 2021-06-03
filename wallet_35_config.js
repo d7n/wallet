@@ -1,1 +1,1 @@
-var mnemonic = "whale room despair cargo purse hub family main meat dune stage bid";
+var mnemonic = "again mimic deny trophy grid nurse baby hollow gaze ripple leader name";

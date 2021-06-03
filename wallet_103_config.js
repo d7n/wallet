@@ -1,1 +1,1 @@
-var mnemonic = "divert brief clerk easy mix hour other outside minute employ scale flee";
+var mnemonic = "style rely twenty analyst bind still inside despair present sunny adapt clay";

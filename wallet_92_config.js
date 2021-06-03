@@ -1,1 +1,1 @@
-var mnemonic = "panic velvet hen evidence steak glove height destroy ready enable seed option";
+var mnemonic = "boring inner capital train blood suspect aware romance entry sustain develop boring";

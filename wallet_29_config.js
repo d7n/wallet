@@ -1,1 +1,1 @@
-var mnemonic = "napkin where note muffin bread use fringe ladder neutral wrap join adapt";
+var mnemonic = "kangaroo dawn caution enact talent cycle display license process cactus door swap";
