@@ -1,1 +1,1 @@
-var mnemonic = "syrup test pluck cricket scrap shop switch renew south good famous update";
+var mnemonic = "need walk onion crouch final art lava sleep surprise match easy invest";

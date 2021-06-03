@@ -1,1 +1,1 @@
-var mnemonic = "tongue market stand auto sense coconut office universe coil brain eight coil";
+var mnemonic = "plunge bicycle drift park rely rice off check copper reopen borrow mystery";

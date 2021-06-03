@@ -1,1 +1,1 @@
-var mnemonic = "voyage bomb industry table palace shove educate erase faint uphold bitter settle";
+var mnemonic = "dash print clap tourist today undo bachelor crane diamond scorpion snack lady";

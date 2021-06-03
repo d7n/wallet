@@ -1,1 +1,1 @@
-var mnemonic = "road endless soda rapid improve argue cousin piano gold boring invest demise";
+var mnemonic = "december math interest giraffe voice book window thank trophy violin success expand";

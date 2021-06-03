@@ -1,1 +1,1 @@
-var mnemonic = "conduct cruise avocado salon prefer inside detect raw tag orchard major nothing";
+var mnemonic = "flip lonely enable snap powder pear cactus enhance exhaust six frost roof";

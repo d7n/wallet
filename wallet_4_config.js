@@ -1,1 +1,1 @@
-var mnemonic = "pepper office soup between aisle toddler better vacuum return sell demise nasty";
+var mnemonic = "define absent rotate grow artwork inch van globe sponsor heavy charge uphold";

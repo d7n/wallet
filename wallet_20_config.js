@@ -1,1 +1,1 @@
-var mnemonic = "follow mistake spread front vanish crack balance ethics enforce ribbon fluid nice";
+var mnemonic = "shell level submit sphere initial absent siege much found october enrich fashion";

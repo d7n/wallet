@@ -1,1 +1,1 @@
-var mnemonic = "sibling crouch believe rigid minor furnace toast school blame list metal melt";
+var mnemonic = "tenant symbol place can push distance nature game field poverty ivory kick";

@@ -1,1 +1,1 @@
-var mnemonic = "gain inherit rural hire found hint candy razor buyer stable stock file";
+var mnemonic = "midnight supreme transfer imitate skin episode join gossip sphere noise buffalo crisp";

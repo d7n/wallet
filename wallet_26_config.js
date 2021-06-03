@@ -1,1 +1,1 @@
-var mnemonic = "spoon trend spawn actual civil clinic day salmon mixed ball truth pig";
+var mnemonic = "movie bulb empower midnight wire tag onion tray install ahead label exist";

@@ -1,1 +1,1 @@
-var mnemonic = "rule record critic broom close nuclear glance heavy company transfer language trim";
+var mnemonic = "execute dry ceiling donor sugar lab narrow genuine payment foot affair bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "audit gentle ride relax custom all three decorate mouse correct derive usage";
+var mnemonic = "gauge inform inner material time inform coffee remind list cabbage present require";

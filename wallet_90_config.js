@@ -1,1 +1,1 @@
-var mnemonic = "marine mean swear seminar hawk verb scorpion horror tip ready laundry legend";
+var mnemonic = "episode mechanic typical frozen vote clever essay size perfect short easily gentle";

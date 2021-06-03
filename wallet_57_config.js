@@ -1,1 +1,1 @@
-var mnemonic = "alert cry salon unhappy trigger diamond swamp police follow museum force sting";
+var mnemonic = "join sister seek vicious raw various mask unhappy job inside only tumble";

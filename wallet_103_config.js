@@ -1,1 +1,1 @@
-var mnemonic = "style rely twenty analyst bind still inside despair present sunny adapt clay";
+var mnemonic = "minor upper general social case replace defense bounce pulp echo friend correct";

@@ -1,1 +1,1 @@
-var mnemonic = "slight tip nuclear fine extra jealous live fluid cat welcome supreme tray";
+var mnemonic = "repeat rescue swift cave whale window fresh common jewel young kid fiscal";

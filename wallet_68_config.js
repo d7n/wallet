@@ -1,1 +1,1 @@
-var mnemonic = "cotton quick ensure chapter click uncle brain quality icon peace pitch artwork";
+var mnemonic = "thrive much ask average author file visa action matter patch effort visit";

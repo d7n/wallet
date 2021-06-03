@@ -1,1 +1,1 @@
-var mnemonic = "midnight toast impose roof grunt noodle mesh excite afraid unveil wedding erode";
+var mnemonic = "fan fit bomb future muffin sense carpet wise plug tribe cliff giraffe";

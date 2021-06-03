@@ -1,1 +1,1 @@
-var mnemonic = "load eye allow twin work ability zero twice select occur virus okay";
+var mnemonic = "identify trouble music deer margin manage emotion route inmate air gesture diet";

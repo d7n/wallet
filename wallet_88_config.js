@@ -1,1 +1,1 @@
-var mnemonic = "because flock payment remind person peace gravity pair hybrid illegal kick claw";
+var mnemonic = "use fashion visa open odor extra lunch rare example away decide envelope";

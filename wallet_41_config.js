@@ -1,1 +1,1 @@
-var mnemonic = "order decrease boat worry spell success nothing sting art nephew rib core";
+var mnemonic = "anchor cruise code kiwi spread remain ignore question fit novel record catalog";

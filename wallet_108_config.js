@@ -1,1 +1,1 @@
-var mnemonic = "call mosquito hour weird depart pilot submit stand jaguar imitate critic marble";
+var mnemonic = "priority victory fluid harvest around aspect join tomorrow dream borrow fresh trick";

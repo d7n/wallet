@@ -1,1 +1,1 @@
-var mnemonic = "deer rose come loyal broom huge lunar apart real breeze hungry swear";
+var mnemonic = "sniff basic walnut busy found wink cricket hungry exhibit virus dose sword";

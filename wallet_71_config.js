@@ -1,1 +1,1 @@
-var mnemonic = "forest once orbit nasty coast wisdom try apart deputy vital foil tree";
+var mnemonic = "panda prevent rose change useless clap road ahead outdoor neutral obvious hope";

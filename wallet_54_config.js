@@ -1,1 +1,1 @@
-var mnemonic = "hat abstract census absurd dinosaur near auto news myth buyer lobster clerk";
+var mnemonic = "width bacon call grunt inmate allow cabbage struggle fury sadness chapter genre";

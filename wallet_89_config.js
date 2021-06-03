@@ -1,1 +1,1 @@
-var mnemonic = "rail good until misery cheap gate advance spare pass sauce sword wood";
+var mnemonic = "impulse abandon submit waste sword morning load chunk wink strong exist into";

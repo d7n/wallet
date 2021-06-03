@@ -1,1 +1,1 @@
-var mnemonic = "found mind inform enhance hero include pottery waste void basic merit boat";
+var mnemonic = "assist dish hybrid core jewel oil chunk gauge toss sweet quality flock";

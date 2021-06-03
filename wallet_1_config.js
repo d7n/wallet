@@ -1,1 +1,1 @@
-var mnemonic = "lamp sorry elephant hunt twist police goat cart zoo hidden double obey";
+var mnemonic = "stem quit swamp alien lion lamp tent will concert panther segment dove";

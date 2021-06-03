@@ -1,1 +1,1 @@
-var mnemonic = "weekend mimic diesel inflict siege idea ranch camp cattle tobacco man box";
+var mnemonic = "dilemma thank garlic whisper above shop session dismiss charge milk book example";

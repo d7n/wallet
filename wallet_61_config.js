@@ -1,1 +1,1 @@
-var mnemonic = "lion pilot awful ahead decade certain weekend exotic trash avocado grace there";
+var mnemonic = "symptom shrimp network eye gentle possible crawl chair satoshi glory bullet shrug";

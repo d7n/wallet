@@ -1,1 +1,1 @@
-var mnemonic = "patient infant ecology unit hundred bread glow subway meat senior pause antique";
+var mnemonic = "process verify knife phone permit process mother attack pause tortoise capable desk";

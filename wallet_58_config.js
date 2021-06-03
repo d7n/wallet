@@ -1,1 +1,1 @@
-var mnemonic = "bone boost key loop under future win opera primary youth thank oyster";
+var mnemonic = "virus forest curve shock stay gossip embrace smile zero student castle slab";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic trap lens question discover merge monkey battle action earn view sad";
+var mnemonic = "cliff among second liquid carry way avoid budget car under wrong runway";

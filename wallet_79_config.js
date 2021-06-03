@@ -1,1 +1,1 @@
-var mnemonic = "viable ugly swim parent supreme hire renew vibrant suggest combine cigar weekend";
+var mnemonic = "orchard airport typical time west moon lift industry puzzle cloth crumble section";

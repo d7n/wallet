@@ -1,1 +1,1 @@
-var mnemonic = "ball mango price turkey maze father power surround about cherry old punch";
+var mnemonic = "panic believe cycle onion fold artist range sight normal prevent tent prison";

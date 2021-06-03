@@ -1,1 +1,1 @@
-var mnemonic = "avoid owner all random nation museum talk oak strategy stomach suggest mixed";
+var mnemonic = "crouch ridge kiwi sister salon agent drift impose inform ivory icon curtain";

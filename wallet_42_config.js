@@ -1,1 +1,1 @@
-var mnemonic = "inch quantum announce steak floor day sell enact sniff smoke idea chaos";
+var mnemonic = "scale general culture theme frame hood target crack wasp output satoshi pencil";

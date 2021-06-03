@@ -1,1 +1,1 @@
-var mnemonic = "more oyster brush math link beyond buddy seven you able solve economy";
+var mnemonic = "dad mistake taxi fantasy motion hood birth flame other elephant bulb cage";

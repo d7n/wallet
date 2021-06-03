@@ -1,1 +1,1 @@
-var mnemonic = "enter story accident orchard square sadness primary home infant galaxy march timber";
+var mnemonic = "west embody swamp remember heart letter luggage canvas rookie hungry warm gown";

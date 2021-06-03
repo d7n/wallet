@@ -1,1 +1,1 @@
-var mnemonic = "maid garment route sock repeat breeze increase make elevator rabbit pear lizard";
+var mnemonic = "bar valid blind tornado citizen between silent field cat monster scissors eyebrow";

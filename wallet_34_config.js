@@ -1,1 +1,1 @@
-var mnemonic = "flight pencil question danger fire elevator praise fog know valve mind place";
+var mnemonic = "chunk area spike solid pet push regular top pelican notable script impose";

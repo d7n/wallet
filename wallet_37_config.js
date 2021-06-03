@@ -1,1 +1,1 @@
-var mnemonic = "online tortoise remain hurdle ecology obtain talk govern wagon excuse mesh crash";
+var mnemonic = "size possible where quit play fetch lab exile achieve cart discover wrist";

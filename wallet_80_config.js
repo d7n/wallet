@@ -1,1 +1,1 @@
-var mnemonic = "odor ribbon regret miss slow upper dose penalty coral budget project equal";
+var mnemonic = "essence figure deliver gasp van absurd dish meat regular member rival fury";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tooth gap obey frost pull large deal valid toddler biology awful";
+var mnemonic = "juice craft elegant cruel major design coast sheriff expose upon story moon";

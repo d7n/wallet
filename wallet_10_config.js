@@ -1,1 +1,1 @@
-var mnemonic = "because describe trade situate junior silver gold sting weather ghost vocal flavor";
+var mnemonic = "ghost embrace column cabin evidence fashion siege wear cliff neglect safe inherit";

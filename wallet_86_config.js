@@ -1,1 +1,1 @@
-var mnemonic = "unusual orphan measure limb empower whale subway denial excite year put over";
+var mnemonic = "supreme month actual protect similar patient exile casino gun actor exact author";

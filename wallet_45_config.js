@@ -1,1 +1,1 @@
-var mnemonic = "shove defense fury daring stage return tackle ozone father upon pattern sing";
+var mnemonic = "elegant someone meat else copy educate select display double hybrid planet adjust";

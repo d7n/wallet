@@ -1,1 +1,1 @@
-var mnemonic = "more write kiss cactus fall stool jungle aisle mom skull siege knee";
+var mnemonic = "parrot puppy float blur scatter ceiling brown puzzle history all use cotton";

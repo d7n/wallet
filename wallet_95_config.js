@@ -1,1 +1,1 @@
-var mnemonic = "oven brass sun two today naive flush outside portion gather real hammer";
+var mnemonic = "exclude mechanic license deer reveal gravity portion atom useless million thumb property";

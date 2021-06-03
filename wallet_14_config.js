@@ -1,1 +1,1 @@
-var mnemonic = "rough length witness slogan stadium head forum six pause load trophy option";
+var mnemonic = "render garlic nasty gentle enlist execute typical fault room bottom grocery snack";

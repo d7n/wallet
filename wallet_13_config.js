@@ -1,1 +1,1 @@
-var mnemonic = "vicious rely target ostrich illegal wage grunt load where finger valve nothing";
+var mnemonic = "angry hidden diet behind unveil label loyal bunker gift vocal lobster solar";

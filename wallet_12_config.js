@@ -1,1 +1,1 @@
-var mnemonic = "learn earth hungry deny tide easy novel need that unfold silver reason";
+var mnemonic = "manual private proud excite exist federal skate bar clinic off morning silver";

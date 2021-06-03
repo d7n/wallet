@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dawn caution enact talent cycle display license process cactus door swap";
+var mnemonic = "bronze clock slice mechanic sample airport memory shuffle abuse keen sweet board";

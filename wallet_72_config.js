@@ -1,1 +1,1 @@
-var mnemonic = "report stable fence salute message mystery tree save weird develop shove gym";
+var mnemonic = "response rural panda ozone patch cricket search leaf claim blossom giant night";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado more trigger leg absurd alien duty spring body kiss proof tumble";
+var mnemonic = "ankle alien receive bamboo verify meat voice hen power distance then sense";

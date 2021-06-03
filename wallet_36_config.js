@@ -1,1 +1,1 @@
-var mnemonic = "work food shrug unaware pet this mix work wonder ill company drastic";
+var mnemonic = "close size call reopen crazy indoor photo language pyramid maple combine elegant";

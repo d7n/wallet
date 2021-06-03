@@ -1,1 +1,1 @@
-var mnemonic = "hold hub ghost three tooth absurd lake banana play adjust text ivory";
+var mnemonic = "direct wide myth volcano lens unit warrior celery lucky asthma master goat";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty apology pause exotic shed volume street smile solution weasel quiz property";
+var mnemonic = "session position topple web phrase laugh ski display clean amazing venue tower";

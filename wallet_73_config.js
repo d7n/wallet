@@ -1,1 +1,1 @@
-var mnemonic = "machine slogan jar bless stage blossom lunch then note wedding rally dinosaur";
+var mnemonic = "magic target digital glad fringe delay various drip defense solid expose admit";

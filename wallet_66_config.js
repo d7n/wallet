@@ -1,1 +1,1 @@
-var mnemonic = "cabin mercy exercise hope chief garden busy reason oval charge kiwi fluid";
+var mnemonic = "load bring insect oppose raise police try filter witness silent tornado thrive";

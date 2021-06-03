@@ -1,1 +1,1 @@
-var mnemonic = "recipe physical mom industry skin popular quit receive brief crazy believe want";
+var mnemonic = "situate chicken target spell slam whisper major midnight blame friend basic organ";

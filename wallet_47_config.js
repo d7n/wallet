@@ -1,1 +1,1 @@
-var mnemonic = "easy syrup ability speak maximum right purpose license vast pave tip energy";
+var mnemonic = "cram strategy space judge unable wedding ethics adjust lottery someone paper hen";

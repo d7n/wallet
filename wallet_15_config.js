@@ -1,1 +1,1 @@
-var mnemonic = "orbit fortune behave avocado anxiety lunch clever party advice snake cushion erode";
+var mnemonic = "pretty flower miracle notable cluster rotate knock vocal cry require certain tunnel";

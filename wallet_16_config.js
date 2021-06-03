@@ -1,1 +1,1 @@
-var mnemonic = "exile meat bottom convince order donate afford loud myself chuckle phone beyond";
+var mnemonic = "gorilla struggle this fish genre whisper adjust buffalo charge easy settle husband";

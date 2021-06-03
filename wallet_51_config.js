@@ -1,1 +1,1 @@
-var mnemonic = "clay language album basic wool arm bar reopen height silent off boy";
+var mnemonic = "gas release deputy tumble cheap else charge cost top train token giraffe";

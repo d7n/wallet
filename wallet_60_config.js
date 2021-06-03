@@ -1,1 +1,1 @@
-var mnemonic = "bridge blind direct domain end bronze pet multiply novel escape column federal";
+var mnemonic = "brother perfect wink smooth episode sign spell force choose giggle throw slice";

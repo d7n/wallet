@@ -1,1 +1,1 @@
-var mnemonic = "alley crush ankle desert unveil act volume weapon chunk tiny broccoli rain";
+var mnemonic = "consider truly cloud avoid impact acoustic proud cotton dog salmon popular attend";

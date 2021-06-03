@@ -1,1 +1,1 @@
-var mnemonic = "again mimic deny trophy grid nurse baby hollow gaze ripple leader name";
+var mnemonic = "topic reduce sentence federal scorpion scorpion remove more adjust butter picture join";

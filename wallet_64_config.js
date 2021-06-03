@@ -1,1 +1,1 @@
-var mnemonic = "shadow main clutch major type uncover between raccoon choice romance volume mechanic";
+var mnemonic = "worth flower like cheap spatial frame rival neither loud struggle uphold helmet";

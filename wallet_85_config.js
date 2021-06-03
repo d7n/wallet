@@ -1,1 +1,1 @@
-var mnemonic = "merit amateur trick scale want behave pottery clever crew ten copper dice";
+var mnemonic = "reject ritual knife before pride proud ripple obey ocean quiz van firm";

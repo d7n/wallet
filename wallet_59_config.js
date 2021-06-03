@@ -1,1 +1,1 @@
-var mnemonic = "salmon grape trash hold tag group lock other current height silk tag";
+var mnemonic = "girl mimic morning stove judge cash rude feel surface electric way accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "amused goat pattern advance sugar whisper spoil victory topple near lunch normal";
+var mnemonic = "enough alcohol mule duty release issue drum fury motor cat test budget";

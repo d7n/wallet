@@ -1,1 +1,1 @@
-var mnemonic = "okay light cushion trouble city save ten ticket thrive horror prepare impose";
+var mnemonic = "spin expose vast ensure future appear easy forget witness forest doll amused";

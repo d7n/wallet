@@ -1,1 +1,1 @@
-var mnemonic = "usage bean flee crucial family dove script reject ecology comfort tissue resemble";
+var mnemonic = "simple artwork plate action neglect ostrich round slush ritual movie angry shrimp";

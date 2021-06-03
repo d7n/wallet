@@ -1,1 +1,1 @@
-var mnemonic = "shove pumpkin stomach addict stool obvious boring expand ritual trigger kick zero";
+var mnemonic = "season invite drastic tent squirrel trumpet since patch spend invite arm skin";

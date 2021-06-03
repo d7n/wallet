@@ -1,1 +1,1 @@
-var mnemonic = "chase cram author year ramp sick photo bus note slam game bitter";
+var mnemonic = "valve grid leader sock lounge improve tower loan dance inner various domain";

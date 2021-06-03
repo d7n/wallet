@@ -1,1 +1,1 @@
-var mnemonic = "asthma debate very sugar imitate ecology gate budget repair magic entry round";
+var mnemonic = "culture side sting uniform tool noodle hamster cotton hungry index total six";

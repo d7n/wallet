@@ -1,1 +1,1 @@
-var mnemonic = "impose profit prison piano stadium visual point whale file napkin sport excuse";
+var mnemonic = "company govern use okay nasty awful now dizzy sort raw unveil broccoli";

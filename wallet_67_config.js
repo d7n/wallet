@@ -1,1 +1,1 @@
-var mnemonic = "mango ivory twice segment sudden sock flock expose rally awkward coast verify";
+var mnemonic = "zoo crouch setup near cactus cliff ring lake stock glimpse keep march";

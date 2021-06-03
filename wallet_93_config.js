@@ -1,1 +1,1 @@
-var mnemonic = "congress burst chief say obvious father tilt maze diet normal surprise once";
+var mnemonic = "various nuclear cabbage flock velvet later another maple brown young polar fix";

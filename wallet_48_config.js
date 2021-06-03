@@ -1,1 +1,1 @@
-var mnemonic = "blast federal very mosquito world cake evoke glove patrol blouse idea today";
+var mnemonic = "torch never track render found shiver success avoid large path clutch stuff";

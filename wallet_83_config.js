@@ -1,1 +1,1 @@
-var mnemonic = "emotion weird fence orchard spin squeeze rose spike letter pen fantasy margin";
+var mnemonic = "solve section island debate belt charge okay spoil used tissue fade rifle";

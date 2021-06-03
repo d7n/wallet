@@ -1,1 +1,1 @@
-var mnemonic = "fragile island marine split visa smoke balcony own cheap rescue blame much";
+var mnemonic = "cancel require neither danger music brass delay enter orbit moral either jar";

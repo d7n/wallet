@@ -1,1 +1,1 @@
-var mnemonic = "symbol rack nuclear staff gather vacuum settle foam eye rule absurd business";
+var mnemonic = "crane topic fossil dumb planet fame modify express invest brief tape oil";

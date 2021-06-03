@@ -1,1 +1,1 @@
-var mnemonic = "chef purchase cricket arrange document credit ribbon inmate essay lend dinosaur visa";
+var mnemonic = "menu flag board bounce cloth window neglect lift slogan admit pigeon divert";

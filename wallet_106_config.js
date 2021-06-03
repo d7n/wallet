@@ -1,1 +1,1 @@
-var mnemonic = "digital useful scout wasp wing height ski donate mother injury carpet enrich";
+var mnemonic = "toast siren goddess atom forest beauty must kitten stock cave network robot";

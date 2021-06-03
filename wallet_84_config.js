@@ -1,1 +1,1 @@
-var mnemonic = "jewel ostrich ready dose slot moon number hard benefit choose edit broccoli";
+var mnemonic = "journey episode exchange latin seek violin vote balance various zero unique case";

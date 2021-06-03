@@ -1,1 +1,1 @@
-var mnemonic = "future food say sea filter gospel already book matrix exotic season school";
+var mnemonic = "truck boring degree joke surface wage segment price walk write mechanic sorry";

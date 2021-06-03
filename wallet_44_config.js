@@ -1,1 +1,1 @@
-var mnemonic = "depart cabbage vintage fold economy inspire defense weapon estate pass minimum sound";
+var mnemonic = "sight inherit lyrics cement dash boil sugar fan fence silent hood seat";
