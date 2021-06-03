@@ -1,1 +1,1 @@
-var mnemonic = "wall census pluck loan vacant various leisure rabbit captain kiss dinosaur lemon";
+var mnemonic = "awesome pet comfort drift only unusual gesture napkin famous unfold symptom length";

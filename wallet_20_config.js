@@ -1,1 +1,1 @@
-var mnemonic = "tourist start curious attack print shine sell release two kit anger tank";
+var mnemonic = "wrap plunge jazz sausage lend more alarm soul reunion glue cook airport";

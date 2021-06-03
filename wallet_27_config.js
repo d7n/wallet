@@ -1,1 +1,1 @@
-var mnemonic = "quarter space honey swallow tomato veteran hero can thank sunset vintage trick";
+var mnemonic = "logic smoke muscle beauty thrive remind else load lyrics spatial victory firm";

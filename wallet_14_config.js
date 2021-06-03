@@ -1,1 +1,1 @@
-var mnemonic = "amateur shrimp shine harbor approve strategy critic gloom note radar whale exact";
+var mnemonic = "coin skin bulb tattoo rebuild flat ten yellow shaft conduct armor vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "quit dentist reduce setup radio glove panic girl april arrow toward relax";
+var mnemonic = "slam nephew castle vivid soon illegal undo radar clock juice doll arch";

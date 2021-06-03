@@ -1,1 +1,1 @@
-var mnemonic = "file vault retreat series assume evoke meat script pumpkin girl field curve";
+var mnemonic = "orbit dune young result mistake affair diary business carry deputy plastic mail";

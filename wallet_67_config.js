@@ -1,1 +1,1 @@
-var mnemonic = "hamster cabbage main street side battle strike produce hole check birth file";
+var mnemonic = "mixture path wild squeeze sand craft giant letter coach anchor mobile cross";

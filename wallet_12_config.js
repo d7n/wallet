@@ -1,1 +1,1 @@
-var mnemonic = "repeat home magic cross once intact equal awkward just layer vault today";
+var mnemonic = "quote below couch kiwi soap keen heart artist again flower hill raw";

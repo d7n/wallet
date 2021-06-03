@@ -1,1 +1,1 @@
-var mnemonic = "choose kingdom shrimp current level clay snack sail manage must brief guilt";
+var mnemonic = "twin harbor slim round master sight amount next asthma govern quote butter";

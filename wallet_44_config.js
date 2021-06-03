@@ -1,1 +1,1 @@
-var mnemonic = "tennis alcohol hen gentle build shadow broom shoe earn head sauce illegal";
+var mnemonic = "memory tongue mandate mean weapon frog kick vacant throw behave issue jeans";

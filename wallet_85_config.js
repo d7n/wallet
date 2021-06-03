@@ -1,1 +1,1 @@
-var mnemonic = "hole pretty kit tilt decorate online device pattern upset robot penalty merge";
+var mnemonic = "test buzz cargo zone shoulder series injury join shell opinion consider visa";

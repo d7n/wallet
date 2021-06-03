@@ -1,1 +1,1 @@
-var mnemonic = "noise tip key struggle town evolve angry stone race rebuild lake faith";
+var mnemonic = "scout boil amateur damage fatal canal pull city various slight lecture cave";

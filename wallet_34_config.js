@@ -1,1 +1,1 @@
-var mnemonic = "edge agent brief dog focus slender slogan neck lab that brave drama";
+var mnemonic = "shoot negative wheat vehicle divide neglect limb shoulder pause ship bind opinion";

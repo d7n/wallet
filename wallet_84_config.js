@@ -1,1 +1,1 @@
-var mnemonic = "topic elephant term solar edge mandate leave punch twenty still casino jar";
+var mnemonic = "uncle devote brief lamp delay judge giant toward glow trim develop confirm";

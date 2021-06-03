@@ -1,1 +1,1 @@
-var mnemonic = "divide dance idea edge gift orchard prosper cry belt expect donate pact";
+var mnemonic = "jar language visa muffin invest inquiry soap wise glance damp session chalk";

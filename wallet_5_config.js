@@ -1,1 +1,1 @@
-var mnemonic = "banana jewel banner mammal neck life suggest color absurd truck rotate globe";
+var mnemonic = "hint evoke impose cabin hub grunt oyster summer soldier situate guitar common";

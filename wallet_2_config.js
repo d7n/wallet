@@ -1,1 +1,1 @@
-var mnemonic = "thought enjoy gift giant nuclear feature simple special engage defy man marble";
+var mnemonic = "planet grunt rule endorse joke again farm extend outer carpet rescue inherit";

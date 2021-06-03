@@ -1,1 +1,1 @@
-var mnemonic = "cat sign master express object brick river bean churn couple doll impact";
+var mnemonic = "stock trick inquiry valve leisure add warrior keep tooth hole wheat radar";

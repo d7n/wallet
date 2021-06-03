@@ -1,1 +1,1 @@
-var mnemonic = "audit submit erode cactus once decrease latin same elegant fragile case pretty";
+var mnemonic = "cotton comfort basket repair false expose ritual sweet curve tomorrow chunk skill";

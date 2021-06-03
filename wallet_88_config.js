@@ -1,1 +1,1 @@
-var mnemonic = "helmet ring join filter verb buzz relief spike essence timber stumble torch";
+var mnemonic = "derive intact forest sock pulse skull youth page hat where arrange orange";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar fee burger miracle poverty jungle canal relief disorder pause laundry have";
+var mnemonic = "gold grow stereo dry enact shiver furnace marble toe vast tired govern";

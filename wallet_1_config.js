@@ -1,1 +1,1 @@
-var mnemonic = "recycle reform divert tiger suit loud winter hawk cage this typical antique";
+var mnemonic = "ivory ugly mountain season edit stamp now vacant category ugly chief mom";

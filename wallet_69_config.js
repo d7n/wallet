@@ -1,1 +1,1 @@
-var mnemonic = "dial can jump summer guess become battle chase open cupboard garment witness";
+var mnemonic = "waste stand addict believe album small inmate camp term glide whip buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "tail any border exotic pony label rebuild useless stereo maximum rebel wolf";
+var mnemonic = "include chronic tube neutral force fetch hospital grape april proud jar hip";

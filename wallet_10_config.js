@@ -1,1 +1,1 @@
-var mnemonic = "betray wet betray duck cigar young inside speak camera ticket bleak knock";
+var mnemonic = "grit smooth shine disagree ghost puzzle sign nominee old swallow bar snow";

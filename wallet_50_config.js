@@ -1,1 +1,1 @@
-var mnemonic = "mixed antenna fall must win repeat rifle coffee purpose wrestle hidden vapor";
+var mnemonic = "denial jar story hungry ticket air asthma large truth erode human once";

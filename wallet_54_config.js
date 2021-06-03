@@ -1,1 +1,1 @@
-var mnemonic = "gentle hood hub involve enjoy farm airport shrug review question giraffe october";
+var mnemonic = "loyal spin chronic battle core cruise market reduce popular true trigger possible";

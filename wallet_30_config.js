@@ -1,1 +1,1 @@
-var mnemonic = "three aisle wave race fruit prosper spy between hen search eager place";
+var mnemonic = "inflict blur hedgehog can neutral horse pass vault submit ten wave tackle";

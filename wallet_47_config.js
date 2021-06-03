@@ -1,1 +1,1 @@
-var mnemonic = "march dinner extra device list water pistol faculty provide original razor lottery";
+var mnemonic = "climb trigger hope day chalk stereo dance uncover novel mixed hawk idea";

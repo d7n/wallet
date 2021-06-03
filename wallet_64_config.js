@@ -1,1 +1,1 @@
-var mnemonic = "chat sudden chat truck spend alone trim crazy more illegal cook tube";
+var mnemonic = "token loan people head woman myth barrel chalk dismiss hat brown play";

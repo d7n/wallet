@@ -1,1 +1,1 @@
-var mnemonic = "lizard clarify strike pluck faculty barrel outer impact air hood curtain air";
+var mnemonic = "brisk goose void during hole raccoon begin yellow column quiz scout when";

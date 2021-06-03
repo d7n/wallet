@@ -1,1 +1,1 @@
-var mnemonic = "ignore exile food season penalty van wet blush february outside mosquito guitar";
+var mnemonic = "hunt fault top baby critic there sound use credit old thunder praise";

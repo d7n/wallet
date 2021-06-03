@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cook where near fire grow buddy trip task repeat net genre";
+var mnemonic = "nose viable mosquito thought coral toddler side unit chef best fortune guard";

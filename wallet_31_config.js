@@ -1,1 +1,1 @@
-var mnemonic = "attend dove between erosion defense begin author gesture work elbow fatal rigid";
+var mnemonic = "stumble message spread insane cream disagree escape welcome cave couch rescue gym";

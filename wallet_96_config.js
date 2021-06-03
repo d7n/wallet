@@ -1,1 +1,1 @@
-var mnemonic = "renew main media share conduct interest excite rose combine mechanic cream badge";
+var mnemonic = "blouse range amused wash vocal spray turtle option table blur project drum";

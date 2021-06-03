@@ -1,1 +1,1 @@
-var mnemonic = "sort celery pudding fork tonight click original pill dutch tomato tube trend";
+var mnemonic = "dolphin oil torch rule destroy topic modify pony escape offer glide prefer";

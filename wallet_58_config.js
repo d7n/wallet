@@ -1,1 +1,1 @@
-var mnemonic = "clock web process main bind patrol link smile dismiss carry control another";
+var mnemonic = "almost pill average nothing real manage knife earn oppose effort useful enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "drop head produce volume spirit assist average wedding rice awkward salt air";
+var mnemonic = "age renew female video voice child random helmet frost mandate earth reason";

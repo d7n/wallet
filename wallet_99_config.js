@@ -1,1 +1,1 @@
-var mnemonic = "dance tomorrow luggage know soon quote aunt rubber half sign gun light";
+var mnemonic = "alter skate vivid abuse web decade better lottery century chief engine park";

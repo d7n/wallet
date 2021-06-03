@@ -1,1 +1,1 @@
-var mnemonic = "humor pretty brother input behind speak negative design elevator deer uniform loop";
+var mnemonic = "poem assume box basket swamp above fox mouse green cheap bike sponsor";

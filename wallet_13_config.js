@@ -1,1 +1,1 @@
-var mnemonic = "ride push lumber want enough divorce term force fade credit spy indicate";
+var mnemonic = "wire embark target snack mirror trick venture curtain very stairs embody humble";

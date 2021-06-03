@@ -1,1 +1,1 @@
-var mnemonic = "pig tunnel family pear arrange merge goat catch evolve manage ritual hurry";
+var mnemonic = "vault strategy climb derive symbol mosquito science family gauge question seek frost";

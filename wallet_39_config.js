@@ -1,1 +1,1 @@
-var mnemonic = "capital shrug celery clever element above ginger run grunt note diary banana";
+var mnemonic = "orchard engine inject please quarter athlete regular recipe reward deliver music success";

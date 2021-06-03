@@ -1,1 +1,1 @@
-var mnemonic = "crystal excess sugar section lady volcano yellow ranch budget upon happy actor";
+var mnemonic = "loop cover phrase mad face because roast whale fix season blue pull";

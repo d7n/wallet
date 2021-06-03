@@ -1,1 +1,1 @@
-var mnemonic = "month ketchup badge more scale glide mobile broken under extra cycle season";
+var mnemonic = "aunt clutch float invest actress tail rally bronze offer again jungle crater";

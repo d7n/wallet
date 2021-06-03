@@ -1,1 +1,1 @@
-var mnemonic = "ethics defy entire upgrade grab rate double shoulder coil banana misery hotel";
+var mnemonic = "grain fire uncover put immense raven leopard shiver scatter right pudding cricket";

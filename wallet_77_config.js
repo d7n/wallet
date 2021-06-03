@@ -1,1 +1,1 @@
-var mnemonic = "picnic clarify narrow grief air multiply nature off bicycle special behave soup";
+var mnemonic = "bench actual code powder pretty congress scene use finish cushion enough trim";

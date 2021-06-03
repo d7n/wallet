@@ -1,1 +1,1 @@
-var mnemonic = "nation about awake ten inquiry resemble favorite never click draw decline tail";
+var mnemonic = "delay play size nerve lens crater vapor improve inquiry believe pistol exotic";

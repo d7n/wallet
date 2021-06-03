@@ -1,1 +1,1 @@
-var mnemonic = "stick term legend chalk scare economy disagree wagon vague elegant insane track";
+var mnemonic = "purpose session away ozone scout inspire tennis festival way brand fine glare";

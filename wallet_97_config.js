@@ -1,1 +1,1 @@
-var mnemonic = "advance whip dash slab amateur timber enable search lock enact join add";
+var mnemonic = "airport tumble bike length attend scrap fancy neutral fancy spice cream metal";

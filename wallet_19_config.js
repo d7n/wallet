@@ -1,1 +1,1 @@
-var mnemonic = "among power exist glad peanut pizza coconut slow wet extend loyal record";
+var mnemonic = "relax either wrist manual parrot finger initial unhappy piano guard spare stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "weather equal august since move city label pitch frost afford junior motion";
+var mnemonic = "when rich oblige pistol hair swim village later sword sun wasp zoo";

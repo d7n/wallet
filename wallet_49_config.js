@@ -1,1 +1,1 @@
-var mnemonic = "decrease discover picnic crack power naive else tenant pair kangaroo biology fatigue";
+var mnemonic = "train exile elegant enable salt dinosaur speed unit gossip enjoy ask proud";

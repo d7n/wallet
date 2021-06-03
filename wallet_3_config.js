@@ -1,1 +1,1 @@
-var mnemonic = "inside hamster tag umbrella slim giant shaft traffic aim curve wine dress";
+var mnemonic = "refuse lyrics daughter glance rack vital royal hat abuse honey ceiling special";

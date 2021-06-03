@@ -1,1 +1,1 @@
-var mnemonic = "silk large result helmet brisk mosquito address decline total dutch change thumb";
+var mnemonic = "brief hungry funny soul candy kit course unable favorite vague robot message";

@@ -1,1 +1,1 @@
-var mnemonic = "have display bulk artist govern common baby news hawk rule topic naive";
+var mnemonic = "fall want camp notice render employ grid nerve genuine replace grain normal";

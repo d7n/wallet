@@ -1,1 +1,1 @@
-var mnemonic = "eager depart choose cube resemble wedding card hole home blossom episode worth";
+var mnemonic = "spoil damp aspect lady gold slow foam earn wish noise shock unable";

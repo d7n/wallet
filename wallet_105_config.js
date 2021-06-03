@@ -1,1 +1,1 @@
-var mnemonic = "option undo satisfy raccoon cruise lend avoid aspect media ramp other crush";
+var mnemonic = "van flush equip roast venture stone scare bamboo local parade tonight property";

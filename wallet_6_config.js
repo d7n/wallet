@@ -1,1 +1,1 @@
-var mnemonic = "stage heavy autumn eager shaft execute fade custom village youth garbage ramp";
+var mnemonic = "slam fly genuine loan bachelor giant luggage shadow cage rather immune divide";

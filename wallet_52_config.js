@@ -1,1 +1,1 @@
-var mnemonic = "calm surround sniff pause wine rather judge song skill property lady camera";
+var mnemonic = "word talent ugly outside rural talk chair child own organ doctor seven";

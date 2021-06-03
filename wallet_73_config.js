@@ -1,1 +1,1 @@
-var mnemonic = "acoustic husband excess cross diet case pupil dumb pony physical scan crouch";
+var mnemonic = "fluid depth ostrich scare abandon trap alpha miracle neither cradle fault survey";

@@ -1,1 +1,1 @@
-var mnemonic = "pact route act view dress lazy calm label build behind cute kidney";
+var mnemonic = "rookie blouse hill summer trim gloom price camera mystery hollow skull use";

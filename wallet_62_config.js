@@ -1,1 +1,1 @@
-var mnemonic = "benefit require shift gap screen foot zoo digital vapor will scare romance";
+var mnemonic = "ability pride jump quiz fiscal finish clean twice scan high subway orphan";

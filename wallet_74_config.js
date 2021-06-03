@@ -1,1 +1,1 @@
-var mnemonic = "tag rude ball off pet radar couple fever clerk raven drill flame";
+var mnemonic = "giggle rubber recall head gap narrow athlete cup stadium obey omit nasty";

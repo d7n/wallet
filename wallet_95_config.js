@@ -1,1 +1,1 @@
-var mnemonic = "lion chimney exhibit custom learn fringe arrow salad unusual final never critic";
+var mnemonic = "asthma bounce jungle menu flag gain farm fury onion flight opera youth";

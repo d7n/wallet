@@ -1,1 +1,1 @@
-var mnemonic = "safe water swift emerge coconut extend mom peanut horse lecture vivid gain";
+var mnemonic = "test badge dilemma tortoise place member scheme average camp magnet ankle crush";

@@ -1,1 +1,1 @@
-var mnemonic = "point merry smile rotate scorpion cram bulk correct enhance effort lonely vessel";
+var mnemonic = "normal glow twelve century glory toe gallery arrest organ bag glue purpose";

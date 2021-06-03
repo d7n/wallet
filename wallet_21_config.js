@@ -1,1 +1,1 @@
-var mnemonic = "stand click rookie liar major black butter broccoli shield grid tourist enroll";
+var mnemonic = "bundle few depend patient cat spike auction misery you fee equal hobby";

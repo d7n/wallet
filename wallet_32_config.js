@@ -1,1 +1,1 @@
-var mnemonic = "jaguar vote foil appear attract sweet online economy lamp wave damage liberty";
+var mnemonic = "prize genius hair short gun high wood spoil search recipe early flight";

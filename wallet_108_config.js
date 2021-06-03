@@ -1,1 +1,1 @@
-var mnemonic = "twelve awake voice verb glove drama truck hedgehog orange ahead water boy";
+var mnemonic = "capital dizzy used elevator globe royal exchange rigid sand thrive puppy scrub";

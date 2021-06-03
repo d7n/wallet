@@ -1,1 +1,1 @@
-var mnemonic = "salon agree window lizard topple galaxy hawk ocean cat decline symptom law";
+var mnemonic = "hundred session oyster dutch north pear strong answer portion sniff dinosaur skull";

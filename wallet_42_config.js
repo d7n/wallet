@@ -1,1 +1,1 @@
-var mnemonic = "pass sport exercise state duty expect stage abuse offer sell crew either";
+var mnemonic = "index scorpion chalk manage menu fiscal boring input paddle special wasp suggest";

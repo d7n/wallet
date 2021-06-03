@@ -1,1 +1,1 @@
-var mnemonic = "badge identify lonely spot secret burst venture find mind battle run inmate";
+var mnemonic = "giggle gather brand pelican youth since vibrant circle wheat tobacco since series";

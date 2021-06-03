@@ -1,1 +1,1 @@
-var mnemonic = "upset water coffee primary virtual zero blossom feel local reward penalty survey";
+var mnemonic = "salmon patient pig clock mask hello frequent region story bicycle various select";

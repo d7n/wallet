@@ -1,1 +1,1 @@
-var mnemonic = "code city tray wink latin ride apple cheap evolve alien assist tooth";
+var mnemonic = "lady kidney circle dial select slab daring erode river card forget guard";

@@ -1,1 +1,1 @@
-var mnemonic = "duck below genuine tank finish scrub diesel ginger viable gorilla upgrade quantum";
+var mnemonic = "open furnace assault crowd cage april magic coral zoo conduct wage robust";

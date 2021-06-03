@@ -1,1 +1,1 @@
-var mnemonic = "current blast envelope hawk between vehicle hour creek fog coach nation client";
+var mnemonic = "average panel teach pear lawn wine there match genuine check perfect minimum";

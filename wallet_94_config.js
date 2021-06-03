@@ -1,1 +1,1 @@
-var mnemonic = "citizen proof police recall lady height defy quiz nose tooth wage negative";
+var mnemonic = "month mosquito pair letter nasty gather alert fuel deal pizza icon steak";

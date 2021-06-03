@@ -1,1 +1,1 @@
-var mnemonic = "remain ship grain tunnel gas remind angle mimic steak woman join fiscal";
+var mnemonic = "hotel drum father else airport purpose toilet grace swift happy transfer actor";

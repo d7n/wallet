@@ -1,1 +1,1 @@
-var mnemonic = "lounge garage machine demise police chapter rookie spice powder treat evoke weapon";
+var mnemonic = "retire have worth program hurry scan jealous column parent similar inside timber";

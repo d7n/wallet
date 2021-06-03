@@ -1,1 +1,1 @@
-var mnemonic = "tumble text staff monkey pilot spring nice tomato defense will resource slam";
+var mnemonic = "senior place public ready winter wave swear coffee joy before bright vibrant";

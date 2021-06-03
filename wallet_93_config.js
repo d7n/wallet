@@ -1,1 +1,1 @@
-var mnemonic = "fat guard guess stage token method immune artist veteran drift squeeze almost";
+var mnemonic = "busy judge agent need thunder extra design decorate begin half patrol party";

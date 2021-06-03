@@ -1,1 +1,1 @@
-var mnemonic = "mouse access excuse route dash pink guard pull cargo false tragic federal";
+var mnemonic = "penalty tomato endorse broccoli hollow view clap inmate cause adapt glance artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "normal oxygen dance almost episode nephew clean belt thrive fitness visa life";
+var mnemonic = "credit green bitter heavy negative purchase address excite resource client network toast";

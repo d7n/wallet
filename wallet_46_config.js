@@ -1,1 +1,1 @@
-var mnemonic = "lab main zone gown bone demise much derive year reduce avoid sauce";
+var mnemonic = "system flat salute walk cart depend brief salad erosion mountain thing damp";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose best afraid bid indoor sell north celery conduct capital problem blue";
+var mnemonic = "hunt pluck topple lab genius make work pepper fatigue sketch pigeon all";
