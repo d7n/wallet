@@ -1,1 +1,1 @@
-var mnemonic = "glance example scissors alarm predict relief junk camera child zone this cruel";
+var mnemonic = "elite power suspect airport wire only crumble empty spy wire rice desk";

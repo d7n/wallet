@@ -1,1 +1,1 @@
-var mnemonic = "kite rescue spoon notable amused cloth wrist frame sniff maid team situate";
+var mnemonic = "want air erode vast purpose spatial sight pig face unfair team harvest";

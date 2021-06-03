@@ -1,1 +1,1 @@
-var mnemonic = "salad badge zebra appear behave little worry pill enlist vague odor height";
+var mnemonic = "pitch vessel current peace cheese speak pass regular arm master kid legend";

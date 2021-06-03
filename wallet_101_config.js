@@ -1,1 +1,1 @@
-var mnemonic = "clown follow mad cupboard ocean staff increase dove alert raven summer master";
+var mnemonic = "oven crack country staff hint kite define vocal spider wage prevent frame";

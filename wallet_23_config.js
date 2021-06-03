@@ -1,1 +1,1 @@
-var mnemonic = "canal depend mosquito stable mixed angry under swamp jaguar prevent hub good";
+var mnemonic = "tobacco insect cabin box allow yard kitchen sphere arm bus label bargain";

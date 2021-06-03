@@ -1,1 +1,1 @@
-var mnemonic = "debate slot high olive flush organ skate news olive giraffe exchange memory";
+var mnemonic = "lucky expect ivory bridge stable firm capital snake clarify leg novel gift";

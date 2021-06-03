@@ -1,1 +1,1 @@
-var mnemonic = "uncle net tired debate fiction borrow noodle hammer scan embody armor inspire";
+var mnemonic = "pledge clever cabin panel error pride economy view cabbage face door opera";

@@ -1,1 +1,1 @@
-var mnemonic = "panther segment much snake moral space under bone wealth cover weasel job";
+var mnemonic = "inquiry canyon carbon chief minute arrest brave final resist forget oven mechanic";

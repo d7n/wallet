@@ -1,1 +1,1 @@
-var mnemonic = "occur cram stereo thrive tip blue term tip onion notable subject horn";
+var mnemonic = "river mom vast session shop gravity final economy regret glove slight very";

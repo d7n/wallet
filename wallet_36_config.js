@@ -1,1 +1,1 @@
-var mnemonic = "employ arrive axis source gravity glue high orbit strike truck weird abuse";
+var mnemonic = "around dumb cruise pass squeeze uphold melt hero cabbage envelope quarter interest";

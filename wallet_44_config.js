@@ -1,1 +1,1 @@
-var mnemonic = "husband second matrix glance van prepare hen above urge renew afford slab";
+var mnemonic = "unfair mind twice olympic mule disagree alley pretty destroy sock labor domain";

@@ -1,1 +1,1 @@
-var mnemonic = "punch brief load charge peace icon charge pave nasty govern settle brother";
+var mnemonic = "grass dizzy chief tenant sun market degree utility elbow yellow gun amused";

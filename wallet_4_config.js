@@ -1,1 +1,1 @@
-var mnemonic = "swap drink board rifle size shine wall unit twin cross few spice";
+var mnemonic = "exhaust warfare tattoo now close alert cherry thrive embark sorry quick expire";

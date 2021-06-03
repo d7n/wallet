@@ -1,1 +1,1 @@
-var mnemonic = "depend hood cannon pyramid old design wisdom peanut betray hero wrong panther";
+var mnemonic = "area bright empty fame donor extra primary trade logic diet under extra";

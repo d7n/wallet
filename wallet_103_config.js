@@ -1,1 +1,1 @@
-var mnemonic = "auction cool mention dynamic arm loud wrist develop truth place menu armed";
+var mnemonic = "tribe hub gain toddler regret abandon reason agree phrase gesture rain surround";

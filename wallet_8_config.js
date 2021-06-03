@@ -1,1 +1,1 @@
-var mnemonic = "exist divert impose bulk alien confirm tube luxury science pottery grape machine";
+var mnemonic = "clump frozen scale orange cricket employ wood banner stem alpha actual away";

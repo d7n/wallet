@@ -1,1 +1,1 @@
-var mnemonic = "upgrade filter refuse fury average furnace portion easy west cycle bunker cement";
+var mnemonic = "stuff early major blood milk sting enemy super way purchase elevator deer";

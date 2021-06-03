@@ -1,1 +1,1 @@
-var mnemonic = "window spend plate swing monkey corn pioneer price velvet amazing disease situate";
+var mnemonic = "topple fetch cause slab surround wisdom car happy sail sniff eight ugly";

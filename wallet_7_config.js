@@ -1,1 +1,1 @@
-var mnemonic = "mutual wish useful buddy blush boost distance climb source kite usage teach";
+var mnemonic = "broccoli wisdom loud design inmate minimum hollow power shallow hidden flush accident";

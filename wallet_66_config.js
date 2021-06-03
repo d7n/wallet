@@ -1,1 +1,1 @@
-var mnemonic = "skull secret early focus valid stay coast balcony tornado glory mechanic company";
+var mnemonic = "weekend relief ice robot unit lava coil sell whale verify meadow spend";

@@ -1,1 +1,1 @@
-var mnemonic = "want man cute sad parrot stick humble armor shuffle tent echo receive";
+var mnemonic = "fashion rose dinosaur shield decrease lunar crystal diagram change power behind next";

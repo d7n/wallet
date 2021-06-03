@@ -1,1 +1,1 @@
-var mnemonic = "offer dad poem promote danger wide model torch basket fortune guitar derive";
+var mnemonic = "logic pepper math mass cabin upper dumb shock away olympic hockey setup";

@@ -1,1 +1,1 @@
-var mnemonic = "identify reunion mammal essay legend attitude miss whale angry someone female stem";
+var mnemonic = "attitude plug twin avocado print jump antenna door gap discover citizen note";

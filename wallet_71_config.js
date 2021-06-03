@@ -1,1 +1,1 @@
-var mnemonic = "rival use seminar noise dignity galaxy awake quality medal puzzle jaguar only";
+var mnemonic = "target proof voyage canoe onion fruit next always maid bounce tone odor";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla mercy ladder insect puppy inject carry chunk horror music goat equal";
+var mnemonic = "top acquire assist castle meat armed flock unlock physical elite apple joy";

@@ -1,1 +1,1 @@
-var mnemonic = "circle woman comfort brush trigger silk raw payment polar please moment because";
+var mnemonic = "connect harvest dice cement candy lemon setup test duty news dove diet";

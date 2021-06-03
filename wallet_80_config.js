@@ -1,1 +1,1 @@
-var mnemonic = "lion agree broom blind talent grape suspect among vessel dizzy draft order";
+var mnemonic = "marble child slight boost claw inside six mean tip walnut enrich heavy";

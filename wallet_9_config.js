@@ -1,1 +1,1 @@
-var mnemonic = "solid cigar envelope rapid despair music must radio ramp gauge uniform cover";
+var mnemonic = "pitch three harsh domain mind moral jealous sand enrich fancy female loyal";

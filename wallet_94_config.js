@@ -1,1 +1,1 @@
-var mnemonic = "thrive please wood squirrel dinosaur spend parent glove search three long speed";
+var mnemonic = "useful crane usage sock save area brother inside tunnel rebel arctic live";

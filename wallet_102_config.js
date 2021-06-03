@@ -1,1 +1,1 @@
-var mnemonic = "pause hood sun toss enter media genuine senior leaf beach pass small";
+var mnemonic = "meadow jazz walk artist jeans letter velvet liberty cream leave coyote trigger";

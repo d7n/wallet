@@ -1,1 +1,1 @@
-var mnemonic = "veteran toward increase define assist romance mixture safe two trick turtle toddler";
+var mnemonic = "sing behind this moment suggest matrix chat rent soft front robust bundle";

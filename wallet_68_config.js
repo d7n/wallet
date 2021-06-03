@@ -1,1 +1,1 @@
-var mnemonic = "rain disorder interest bird million inside flag loop boring question modify secret";
+var mnemonic = "turtle alone guide caught tomorrow you stay subway spy baby arrow injury";

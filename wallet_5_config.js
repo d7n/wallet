@@ -1,1 +1,1 @@
-var mnemonic = "surround timber flag melody source hospital about oil electric describe long embrace";
+var mnemonic = "alcohol candy slide dream envelope source slice despair buzz copper round blood";

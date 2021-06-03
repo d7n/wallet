@@ -1,1 +1,1 @@
-var mnemonic = "phone tag later gate media manual lecture link spread curtain execute pipe";
+var mnemonic = "surround gather math hurt afford bomb home salute invite item blue system";

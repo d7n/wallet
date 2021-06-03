@@ -1,1 +1,1 @@
-var mnemonic = "cook total kid kingdom night spoon awake advance faculty rural sign endorse";
+var mnemonic = "between biology close swallow real comic injury coast chest measure review twin";

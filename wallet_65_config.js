@@ -1,1 +1,1 @@
-var mnemonic = "pig deny east rule thank gossip divide oyster decade response hollow fresh";
+var mnemonic = "faint ride census scout sudden fragile banana embody boss knee pill various";

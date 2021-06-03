@@ -1,1 +1,1 @@
-var mnemonic = "swarm warm pole manual visit powder quit okay grape update kind wait";
+var mnemonic = "grocery chase chapter paper diet erase edge sunny method invite stock immune";

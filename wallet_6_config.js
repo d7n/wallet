@@ -1,1 +1,1 @@
-var mnemonic = "essence teach raven column cabin daring north during soldier enforce strategy ladder";
+var mnemonic = "sight skill damp try engage reward goose drum twelve blue sand crash";

@@ -1,1 +1,1 @@
-var mnemonic = "own carbon kiss cabin river toilet symptom hundred solve toilet wreck rhythm";
+var mnemonic = "sign doctor east bean cliff enroll degree bird diet item conduct client";

@@ -1,1 +1,1 @@
-var mnemonic = "attract symbol hello limb destroy marble torch slam puppy lumber wrestle dream";
+var mnemonic = "bag math bind vibrant leisure coin know leisure rebuild mule hundred fee";

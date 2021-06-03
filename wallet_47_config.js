@@ -1,1 +1,1 @@
-var mnemonic = "exact pudding air antenna noise luxury mercy club hip area town arch";
+var mnemonic = "victory lend rain grab stay fabric dolphin blossom debate actor decade sorry";

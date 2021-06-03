@@ -1,1 +1,1 @@
-var mnemonic = "tonight science distance three link excess rather ketchup album funny present guitar";
+var mnemonic = "cattle middle drop install nothing latin mechanic charge crash whip erupt crystal";

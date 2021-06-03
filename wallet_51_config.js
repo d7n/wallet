@@ -1,1 +1,1 @@
-var mnemonic = "frame venue small wait social comfort unhappy near choice social six avocado";
+var mnemonic = "blind carpet skin boost section olive amount spider spoil comfort enjoy uncover";

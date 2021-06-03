@@ -1,1 +1,1 @@
-var mnemonic = "offer arm exercise best crane tomato season crumble slim captain pudding goose";
+var mnemonic = "hill elbow lake stand rally vessel caution father tone average fame bright";

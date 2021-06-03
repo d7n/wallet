@@ -1,1 +1,1 @@
-var mnemonic = "nice shadow butter file extend bicycle gown dish rough step female blood";
+var mnemonic = "slush amused index unknown meadow judge eye view joy sibling prevent cousin";

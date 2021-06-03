@@ -1,1 +1,1 @@
-var mnemonic = "deal cabbage patch moon brown rent diesel sun detect shop verb logic";
+var mnemonic = "alley art celery dynamic shrug silly angle absorb exact auction jar pen";

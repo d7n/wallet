@@ -1,1 +1,1 @@
-var mnemonic = "multiply youth about conduct roof harsh flag quick between host era heavy";
+var mnemonic = "cake loyal green anchor danger describe amateur caution arrow hurdle salt soap";

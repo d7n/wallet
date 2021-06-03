@@ -1,1 +1,1 @@
-var mnemonic = "notable foot banner park crumble fragile improve cause crumble mango say offer";
+var mnemonic = "engage monitor refuse humor seminar crime stool okay game ugly excite fancy";

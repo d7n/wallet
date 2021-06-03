@@ -1,1 +1,1 @@
-var mnemonic = "vivid trophy nuclear swear hazard cup hidden rough capable harsh away monkey";
+var mnemonic = "sort agree come hire virus illness gold coin practice shuffle uncover congress";

@@ -1,1 +1,1 @@
-var mnemonic = "frown grocery muffin play recycle badge nephew face follow alter couple broccoli";
+var mnemonic = "bunker flavor until shoot people turtle husband balcony firm worry original violin";

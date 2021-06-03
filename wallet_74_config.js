@@ -1,1 +1,1 @@
-var mnemonic = "pet guess ginger south wagon pole reward frequent comic announce industry sample";
+var mnemonic = "armor basket traffic harvest marine element garbage banana hover settle action gloom";

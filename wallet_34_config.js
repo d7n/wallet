@@ -1,1 +1,1 @@
-var mnemonic = "sponsor remind course upon pelican trade load market soldier next filter cancel";
+var mnemonic = "victory thunder crowd milk sentence mix shell mind weather around label draw";

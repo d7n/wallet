@@ -1,1 +1,1 @@
-var mnemonic = "fuel stone festival broom tackle artist hundred key wash liquid permit casual";
+var mnemonic = "ride attract choice behave flush bubble parade enable welcome silk cross skirt";

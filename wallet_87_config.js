@@ -1,1 +1,1 @@
-var mnemonic = "air celery clay proud race satoshi company scan author clog awake soup";
+var mnemonic = "raven goat opera trade core tiny cute light say april car render";

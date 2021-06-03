@@ -1,1 +1,1 @@
-var mnemonic = "farm post vacuum claim brand destroy animal talent stable receive direct aspect";
+var mnemonic = "sauce speed soon coconut shrug festival ketchup joy genre prosper claw top";

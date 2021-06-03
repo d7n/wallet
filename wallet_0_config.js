@@ -1,1 +1,1 @@
-var mnemonic = "fitness saddle gasp meat arrow awesome burger recall faint abstract other tired";
+var mnemonic = "avoid seek month nothing stairs segment tube night act veteran embark state";

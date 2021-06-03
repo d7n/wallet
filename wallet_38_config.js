@@ -1,1 +1,1 @@
-var mnemonic = "ability mouse bright inherit grain slice rhythm advice dynamic again receive sentence";
+var mnemonic = "palace insane crisp weasel bacon bring rail guess action pizza limit purity";

@@ -1,1 +1,1 @@
-var mnemonic = "arena close frown machine nation glue another later rubber liquid purchase expose";
+var mnemonic = "pig whale kingdom moral image material flag nerve lyrics cluster scorpion giant";

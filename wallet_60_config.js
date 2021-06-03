@@ -1,1 +1,1 @@
-var mnemonic = "used attract tell light robust cook enter ozone drink source salute old";
+var mnemonic = "valley until frog purse captain truly dizzy idea unveil must token alone";

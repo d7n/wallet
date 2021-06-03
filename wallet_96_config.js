@@ -1,1 +1,1 @@
-var mnemonic = "rabbit chief general elbow surge area bleak vanish maple very siren talent";
+var mnemonic = "yard sniff blame midnight tornado tennis wash prison online rocket pretty genuine";

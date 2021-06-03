@@ -1,1 +1,1 @@
-var mnemonic = "float arrest loyal height sunset initial brisk prevent rack cup discover genre";
+var mnemonic = "fringe delay short syrup head motion chair slice galaxy typical shove maple";

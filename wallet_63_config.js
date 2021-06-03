@@ -1,1 +1,1 @@
-var mnemonic = "result symbol enemy airport key recall acid window cliff custom wise room";
+var mnemonic = "salmon silent flee wage neutral frog clog dial venture cluster muscle same";

@@ -1,1 +1,1 @@
-var mnemonic = "prize visit vicious this grit unfair snow crater warrior potato common stuff";
+var mnemonic = "wild fancy share problem fury shed enable slush stone modify helmet special";

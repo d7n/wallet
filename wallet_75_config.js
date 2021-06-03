@@ -1,1 +1,1 @@
-var mnemonic = "frog little swear unable toy demand fly eyebrow fiction hold aerobic pattern";
+var mnemonic = "lazy raw light material horn verify person trial lobster hawk truth palm";

@@ -1,1 +1,1 @@
-var mnemonic = "angle steel matter cake raven similar scatter spray ginger core engage popular";
+var mnemonic = "man next stove neck prepare stool action evidence behind era love rare";

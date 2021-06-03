@@ -1,1 +1,1 @@
-var mnemonic = "buddy hammer camp jump hammer snow cannon nasty swift mixed antenna second";
+var mnemonic = "bomb outer volume miracle cover wish measure summer sea bulk subject theory";

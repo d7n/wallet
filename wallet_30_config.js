@@ -1,1 +1,1 @@
-var mnemonic = "assist crash blast scrub corn move boring hotel idle glad narrow come";
+var mnemonic = "cinnamon zero elite curtain actor carry spoon provide hold usage bright couch";

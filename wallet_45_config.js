@@ -1,1 +1,1 @@
-var mnemonic = "nut upon economy segment melody cement during initial subway anxiety plastic venture";
+var mnemonic = "vehicle method then more female glad mercy share resemble stem abuse crane";

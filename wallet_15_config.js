@@ -1,1 +1,1 @@
-var mnemonic = "grit ordinary auto audit hurt comfort adjust side crime city spread alcohol";
+var mnemonic = "abandon end powder snake shoot question entire digital rookie clip bargain next";

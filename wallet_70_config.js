@@ -1,1 +1,1 @@
-var mnemonic = "love expect ranch blossom divert garlic recipe trial agent legend august rally";
+var mnemonic = "unit brief term echo heart winner license force forum bracket goat title";

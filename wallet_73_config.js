@@ -1,1 +1,1 @@
-var mnemonic = "waste cruise require gentle know derive patrol answer special immense match oak";
+var mnemonic = "later music jaguar rent elegant accident asset mad pave property win edit";

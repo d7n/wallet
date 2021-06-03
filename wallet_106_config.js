@@ -1,1 +1,1 @@
-var mnemonic = "above make mom two point teach effort vessel deny agent scare palace";
+var mnemonic = "hurry expire noise collect script fantasy champion fury beyond space atom coil";

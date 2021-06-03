@@ -1,1 +1,1 @@
-var mnemonic = "topple jealous cool mean cheap dwarf moral clip sunset notice gorilla glare";
+var mnemonic = "staff raw resemble consider bargain script nice ice glance scene decline course";

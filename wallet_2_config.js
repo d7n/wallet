@@ -1,1 +1,1 @@
-var mnemonic = "blouse butter drill knock mansion false swallow scare kind surprise above color";
+var mnemonic = "garbage kitten rigid barrel couch life punch indicate turn oven royal evil";

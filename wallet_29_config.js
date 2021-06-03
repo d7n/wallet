@@ -1,1 +1,1 @@
-var mnemonic = "kit speed canoe tenant shiver uncover silver forget labor skin impact good";
+var mnemonic = "skate zebra elite month hole bike unlock keep mixture system work interest";

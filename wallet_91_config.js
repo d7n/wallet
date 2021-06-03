@@ -1,1 +1,1 @@
-var mnemonic = "bachelor welcome short powder pilot casino arch tube maid jump boy drill";
+var mnemonic = "spend supply type obvious waste window salad cigar lava upgrade habit evoke";

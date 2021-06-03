@@ -1,1 +1,1 @@
-var mnemonic = "travel note quiz salmon energy coil exchange chicken must vendor chest reform";
+var mnemonic = "flavor west shadow maximum throw manual rally rural shoot potato quantum neck";

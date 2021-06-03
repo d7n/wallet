@@ -1,1 +1,1 @@
-var mnemonic = "uniform acquire tragic essay gravity craft wear whale shock comfort crater aunt";
+var mnemonic = "table garage symptom another clown turtle vocal speed shell blanket forum demand";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon chat steak strong sing ripple scrub ribbon busy match skin panel";
+var mnemonic = "blur next bright sadness zoo feel balance easy purpose spatial patch wrap";

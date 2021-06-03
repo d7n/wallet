@@ -1,1 +1,1 @@
-var mnemonic = "elevator width garden net save february forget journey snap alone during audit";
+var mnemonic = "hunt cup tide turtle say vivid repeat mixture aunt wide tennis fantasy";

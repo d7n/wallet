@@ -1,1 +1,1 @@
-var mnemonic = "civil shiver prize inside deal labor veteran gesture size fantasy zone north";
+var mnemonic = "joy drip soda twice basket finger critic panic adapt often wife comic";

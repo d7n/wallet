@@ -1,1 +1,1 @@
-var mnemonic = "stock stick street extra reject fiber bicycle enroll top priority cruel foster";
+var mnemonic = "ranch nation unknown science twelve awake dwarf result excuse scene initial social";

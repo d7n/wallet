@@ -1,1 +1,1 @@
-var mnemonic = "stay nation gas cluster boost suffer flag mercy ugly left camp breeze";
+var mnemonic = "fold brief scale tube friend brush present doll bone medal quote rain";

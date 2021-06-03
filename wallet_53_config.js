@@ -1,1 +1,1 @@
-var mnemonic = "narrow screen wire risk wolf frown shaft royal lift entry tobacco exercise";
+var mnemonic = "hurt odor token unhappy used slush side umbrella wheat identify alien bleak";

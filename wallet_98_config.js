@@ -1,1 +1,1 @@
-var mnemonic = "cup helmet feel crack idle board salt quiz sustain just guitar proof";
+var mnemonic = "antique tower grow laptop symbol defy lion glass notice anxiety vessel unfair";

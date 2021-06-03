@@ -1,1 +1,1 @@
-var mnemonic = "large immense ribbon buffalo bird clever hair praise engage blue cricket young";
+var mnemonic = "broken panic size silent proof vibrant more solid goose fitness summer describe";

@@ -1,1 +1,1 @@
-var mnemonic = "kick obscure outside diet nation urge wave copy donkey wrist slogan butter";
+var mnemonic = "wash flee rain latin inflict defy frown genre appear gloom pipe person";

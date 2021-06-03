@@ -1,1 +1,1 @@
-var mnemonic = "client harvest yard walk river quality moral above salt fire raw that";
+var mnemonic = "vault decorate knife smile rent pony champion jelly two struggle visual exhaust";
