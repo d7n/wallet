@@ -1,1 +1,1 @@
-var mnemonic = "notable junk jewel winter liar exchange erase sister prosper side salon anxiety";
+var mnemonic = "approve process shadow right enrich much ribbon negative gesture pepper file crack";

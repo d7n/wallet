@@ -1,1 +1,1 @@
-var mnemonic = "gown plate eager real deny festival modify energy employ deputy math sail";
+var mnemonic = "neglect place net reject where birth list mammal acid tenant slow tank";

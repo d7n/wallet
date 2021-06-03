@@ -1,1 +1,1 @@
-var mnemonic = "churn anxiety desert foster half process version play oyster doctor patch soon";
+var mnemonic = "erase crop design employ flame scare summer captain metal electric business crisp";

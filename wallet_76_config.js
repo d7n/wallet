@@ -1,1 +1,1 @@
-var mnemonic = "shed panel country chat gold pill wire scatter misery appear drift edit";
+var mnemonic = "ball ankle cream candy supply ability mansion tree spider confirm gym gadget";

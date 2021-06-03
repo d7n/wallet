@@ -1,1 +1,1 @@
-var mnemonic = "hair rookie much enroll salon guide tiger earn lion velvet select either";
+var mnemonic = "trumpet topple mercy palm estate memory own myself wild visa foster genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "soap youth green wreck legend night sweet inch autumn inflict mother climb";
+var mnemonic = "erode track much tragic bomb myself mosquito asthma cousin trap cook verify";

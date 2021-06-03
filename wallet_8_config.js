@@ -1,1 +1,1 @@
-var mnemonic = "disagree pass kick load negative genre bachelor fine real domain service alone";
+var mnemonic = "steak sea place spoil safe mutual antenna list burden one vacuum shoe";

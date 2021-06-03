@@ -1,1 +1,1 @@
-var mnemonic = "cave sentence unable place shaft power fossil hollow lawn mouse choose honey";
+var mnemonic = "garment volcano insane lend security toddler taxi prize flame left circle wild";

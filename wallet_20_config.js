@@ -1,1 +1,1 @@
-var mnemonic = "achieve resist dune weasel tiger brief earn install grid kit soda stick";
+var mnemonic = "afford lemon gun bone engine skirt crystal rice junk accuse uncle raccoon";

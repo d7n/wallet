@@ -1,1 +1,1 @@
-var mnemonic = "abstract skate vehicle amateur shoot turtle write insane soup leader suit eagle";
+var mnemonic = "social bring when trial dune bone scatter team then amazing embrace such";

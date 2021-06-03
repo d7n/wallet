@@ -1,1 +1,1 @@
-var mnemonic = "recall knock soap daring raven comic goat cute festival inform disorder awful";
+var mnemonic = "proud creek beach gesture galaxy ill blossom fuel penalty dash symptom worry";

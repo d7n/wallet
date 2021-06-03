@@ -1,1 +1,1 @@
-var mnemonic = "bring hunt give punch cherry dash derive guide unveil helmet shield seat";
+var mnemonic = "arrow clog priority position crystal treat perfect oak butter wife dutch cabin";

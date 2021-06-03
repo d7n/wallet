@@ -1,1 +1,1 @@
-var mnemonic = "rubber gloom throw parrot toast width lake rocket fold motion iron save";
+var mnemonic = "trick dish loop method silver olive aware water cupboard wife tree fantasy";

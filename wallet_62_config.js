@@ -1,1 +1,1 @@
-var mnemonic = "cloud expire drift bone agree refuse glide journey fence area end sight";
+var mnemonic = "combine labor casual grain people fragile cabbage style country copy mixed youth";

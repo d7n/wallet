@@ -1,1 +1,1 @@
-var mnemonic = "sun slab donate kid neither bike enemy witness hollow famous detail whisper";
+var mnemonic = "parade dove coin cement input orchard acid horn chimney empty barrel senior";

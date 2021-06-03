@@ -1,1 +1,1 @@
-var mnemonic = "equal position drill picnic sing flash then glance special cinnamon craft meat";
+var mnemonic = "laundry physical refuse raw wear annual fuel humor begin hold portion book";

@@ -1,1 +1,1 @@
-var mnemonic = "fold tourist where awful work coin later cry jewel wisdom raccoon floor";
+var mnemonic = "report valve input shed ramp theme ripple pair loyal hero romance fitness";

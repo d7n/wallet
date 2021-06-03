@@ -1,1 +1,1 @@
-var mnemonic = "ribbon feel hockey nice letter bean glad rookie steak unknown decrease pride";
+var mnemonic = "security adapt pitch mail promote cry laundry ranch cigar settle culture knife";

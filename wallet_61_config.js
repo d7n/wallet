@@ -1,1 +1,1 @@
-var mnemonic = "damage basket midnight crisp galaxy pill idea ordinary together motor version pear";
+var mnemonic = "elegant slender baby man rib sadness weird arctic attend tired include ginger";

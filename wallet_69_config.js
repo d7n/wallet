@@ -1,1 +1,1 @@
-var mnemonic = "dune tobacco spawn thrive engage exhaust charge width eternal join leg stool";
+var mnemonic = "fiscal game prepare buffalo humor icon glimpse music inch furnace tattoo axis";

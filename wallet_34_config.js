@@ -1,1 +1,1 @@
-var mnemonic = "receive list boss kit save moment address emerge ecology blanket sudden violin";
+var mnemonic = "scene estate become soft crowd runway mango oval enhance amateur fall hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "relief mule eye cover awful gown clean increase awkward prevent carry obscure";
+var mnemonic = "blast shoot together adjust weasel math dune atom upon gadget art toward";

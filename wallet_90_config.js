@@ -1,1 +1,1 @@
-var mnemonic = "problem nothing acid nominee true script output core giggle despair pretty endless";
+var mnemonic = "finish wasp ugly bench board tent vibrant elevator rare suspect mercy shift";

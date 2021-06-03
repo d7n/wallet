@@ -1,1 +1,1 @@
-var mnemonic = "gaze fatigue wash turkey alley impose promote upon method panda captain cricket";
+var mnemonic = "absurd fringe fresh eagle trial stumble umbrella rack small example symbol famous";

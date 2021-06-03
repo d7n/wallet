@@ -1,1 +1,1 @@
-var mnemonic = "arch topple trigger hurry dilemma minute tenant dress miss solar month alien";
+var mnemonic = "range glow cousin album slam life ring truck mail oxygen student churn";

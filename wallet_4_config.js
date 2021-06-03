@@ -1,1 +1,1 @@
-var mnemonic = "three witness stove vanish account pear ski wing immune staff wealth blue";
+var mnemonic = "soldier frog right siege carpet primary opera gift domain pledge analyst another";

@@ -1,1 +1,1 @@
-var mnemonic = "whip neck check physical grit adjust monitor region final betray echo rocket";
+var mnemonic = "rally seminar boat lazy trade spin subject provide various jealous smile pioneer";

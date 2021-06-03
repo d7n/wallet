@@ -1,1 +1,1 @@
-var mnemonic = "wheat champion sweet into powder crisp length lift devote resist gown tissue";
+var mnemonic = "rack memory collect clip head gain maximum input robot give trouble twelve";

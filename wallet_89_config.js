@@ -1,1 +1,1 @@
-var mnemonic = "among treat digital meat brisk build crop village undo enrich alien aware";
+var mnemonic = "student parade gun champion wet change inner sunny auction program trap property";

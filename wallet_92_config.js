@@ -1,1 +1,1 @@
-var mnemonic = "tuna stand odor ride gauge creek pitch fox insect devote sibling spray";
+var mnemonic = "mule unhappy attitude sponsor comic just cluster crystal aunt nominee fog snack";

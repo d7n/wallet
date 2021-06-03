@@ -1,1 +1,1 @@
-var mnemonic = "seven side smart actor fix buddy yard timber road shine lake fog";
+var mnemonic = "fence liquid close churn tiger city lemon wave voyage kangaroo extend chase";

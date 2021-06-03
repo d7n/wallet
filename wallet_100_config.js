@@ -1,1 +1,1 @@
-var mnemonic = "dash little era exist myth close mix basic pipe harbor mirror script";
+var mnemonic = "shine tide destroy shrug that town private come this trap dismiss message";

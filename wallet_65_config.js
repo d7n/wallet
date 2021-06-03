@@ -1,1 +1,1 @@
-var mnemonic = "prepare salad laptop glare delay swarm ice island family sponsor train argue";
+var mnemonic = "humble poem ordinary winter dumb crop screen usage machine destroy bus blame";

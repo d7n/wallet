@@ -1,1 +1,1 @@
-var mnemonic = "deer romance thought puppy mutual opera fox wreck crystal under wait process";
+var mnemonic = "nose rib chimney badge cruel velvet when sport cake resource put floor";

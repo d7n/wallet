@@ -1,1 +1,1 @@
-var mnemonic = "obscure security shoulder grace view kiwi tattoo cost physical average combine trim";
+var mnemonic = "vital hint hover digital save stuff explain tribe lock dry quote project";

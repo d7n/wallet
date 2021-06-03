@@ -1,1 +1,1 @@
-var mnemonic = "involve shiver attack youth mind shine multiply involve ten world punch luxury";
+var mnemonic = "pride dinosaur film skill sweet dream muscle accuse leader castle snap funny";

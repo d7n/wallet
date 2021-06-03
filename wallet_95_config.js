@@ -1,1 +1,1 @@
-var mnemonic = "metal exist remind argue stock tobacco enroll dignity voyage cinnamon shield traffic";
+var mnemonic = "problem buffalo ability dolphin swim laundry steel dynamic indoor amount tragic someone";

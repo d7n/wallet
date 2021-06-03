@@ -1,1 +1,1 @@
-var mnemonic = "envelope tobacco army extend memory reunion blast lumber pony nothing protect equip";
+var mnemonic = "spider receive inside object strategy voice slender arrest park sick weather sudden";

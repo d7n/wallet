@@ -1,1 +1,1 @@
-var mnemonic = "cream avoid order slogan harbor path cargo symptom blanket bind range lumber";
+var mnemonic = "culture valve now twice slogan traffic thank become okay rough crouch sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "concert amazing bonus tissue hold argue shoe choose tomato riot reject avocado";
+var mnemonic = "raccoon month stand venture feel render dentist oven canyon device frost once";

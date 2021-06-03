@@ -1,1 +1,1 @@
-var mnemonic = "loyal giant fever two chaos east pond obscure royal congress side august";
+var mnemonic = "pluck puppy choose manage truth angry below account assault genuine various energy";

@@ -1,1 +1,1 @@
-var mnemonic = "card arm bone final street color horse denial brain kingdom park main";
+var mnemonic = "home permit increase evolve afraid much stomach rain vehicle lazy glare motor";

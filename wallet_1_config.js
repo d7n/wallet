@@ -1,1 +1,1 @@
-var mnemonic = "leave room company entire vocal obey basic aunt labor rally fish night";
+var mnemonic = "anchor travel castle off rigid banner anger rhythm fix muscle earn payment";

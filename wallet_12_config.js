@@ -1,1 +1,1 @@
-var mnemonic = "have luggage scare feed excite curious today crane logic wear orphan bacon";
+var mnemonic = "spin asset tobacco sick harbor bacon region this street obey essence assume";

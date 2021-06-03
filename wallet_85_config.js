@@ -1,1 +1,1 @@
-var mnemonic = "author oven slight habit toss remain response tackle soda shell photo squirrel";
+var mnemonic = "absurd motion step fringe material jazz nation space symptom pulse meat waste";

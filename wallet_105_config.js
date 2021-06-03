@@ -1,1 +1,1 @@
-var mnemonic = "utility recipe front tiger elite man cinnamon puppy six throw sword glide";
+var mnemonic = "equip retreat nose ball series share length canoe traffic pet dismiss aisle";

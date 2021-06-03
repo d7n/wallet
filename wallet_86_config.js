@@ -1,1 +1,1 @@
-var mnemonic = "surge swim beef summer matrix razor salmon next capable concert junk judge";
+var mnemonic = "electric start dice first fine lemon gas wink give affair harbor turtle";

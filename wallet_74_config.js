@@ -1,1 +1,1 @@
-var mnemonic = "gate version raccoon rent deer chair license street firm season first episode";
+var mnemonic = "grocery excite enough start cart pink husband tone federal move tennis enrich";

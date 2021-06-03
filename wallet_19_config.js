@@ -1,1 +1,1 @@
-var mnemonic = "side tissue struggle trigger myself path elbow sudden erupt illness episode dance";
+var mnemonic = "decide machine burst blossom fiber radar similar despair rough poet virus mass";

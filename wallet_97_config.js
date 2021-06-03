@@ -1,1 +1,1 @@
-var mnemonic = "patrol mad elbow alley traffic tuition squeeze audit depth leave tunnel glimpse";
+var mnemonic = "beach invite minor worth penalty outside slogan nice banner divert hedgehog pluck";

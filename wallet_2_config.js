@@ -1,1 +1,1 @@
-var mnemonic = "special right toward shift amused unaware degree fork where level crouch evoke";
+var mnemonic = "lounge crash truly favorite trend round palace perfect lift enroll traffic glance";

@@ -1,1 +1,1 @@
-var mnemonic = "season pond obvious parrot pyramid canoe dream fatal voice ball robust accident";
+var mnemonic = "innocent gentle blossom prefer hire immense involve soon half first jeans total";

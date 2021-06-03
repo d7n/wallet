@@ -1,1 +1,1 @@
-var mnemonic = "must visa flag amount few enlist scan filter habit myth mix spider";
+var mnemonic = "mom remember cake city coffee curve ethics dolphin obey aim hero patch";

@@ -1,1 +1,1 @@
-var mnemonic = "toast depart quick shine pumpkin shop rent trash zebra brick cake settle";
+var mnemonic = "pear patient welcome top rice actual fuel exchange pumpkin midnight custom hen";

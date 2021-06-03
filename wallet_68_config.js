@@ -1,1 +1,1 @@
-var mnemonic = "couple tower gas sunny hen river bench thank before unveil orchard wealth";
+var mnemonic = "deny swarm trap nerve elbow trade library problem defy ivory caution loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal catalog property piano frost vendor crack action mimic slab foster broom";
+var mnemonic = "family dad select coyote jump motion walnut canal recipe cost slab slot";

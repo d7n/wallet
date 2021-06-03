@@ -1,1 +1,1 @@
-var mnemonic = "winner surface idea dragon margin lunar bacon guess gun warfare satisfy dynamic";
+var mnemonic = "risk prefer current card panda cat radar marriage lyrics buyer identify olympic";

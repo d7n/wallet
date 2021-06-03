@@ -1,1 +1,1 @@
-var mnemonic = "laugh girl empty satisfy design among proud fuel source nasty rule prize";
+var mnemonic = "safe vapor film identify essay deal indoor foot armor height lonely century";

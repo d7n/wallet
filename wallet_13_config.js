@@ -1,1 +1,1 @@
-var mnemonic = "soap setup obey magnet favorite south naive crisp there urban angry mammal";
+var mnemonic = "sniff method finger phone cliff during win exhibit time lonely believe garden";

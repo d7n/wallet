@@ -1,1 +1,1 @@
-var mnemonic = "neglect fringe have average snake infant lift clown cattle unknown deal army";
+var mnemonic = "gold bulk next slogan dad style begin reopen derive doll during price";

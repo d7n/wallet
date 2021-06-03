@@ -1,1 +1,1 @@
-var mnemonic = "rug stick super ribbon leisure arrange tumble scorpion notable kiss usage behave";
+var mnemonic = "shrimp baby mixed pilot hold bulk tent unit knock pact acquire smooth";

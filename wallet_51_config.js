@@ -1,1 +1,1 @@
-var mnemonic = "page hobby glad luggage parade ill bomb window expand funny okay glass";
+var mnemonic = "output stock zoo assault night custom offer bundle wire only awake jelly";

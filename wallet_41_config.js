@@ -1,1 +1,1 @@
-var mnemonic = "verify emerge pluck base village nominee inhale drop hat tumble portion inject";
+var mnemonic = "side tilt fog stove weapon face midnight fog limb path timber heavy";

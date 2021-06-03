@@ -1,1 +1,1 @@
-var mnemonic = "bitter meadow they practice problem horn start pretty awful calm release horse";
+var mnemonic = "end gaze purity submit warfare tank shop frequent discover actress again umbrella";

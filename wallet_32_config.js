@@ -1,1 +1,1 @@
-var mnemonic = "oval bottom online wonder verify length staff churn carry answer bullet miss";
+var mnemonic = "mixed help repeat certain they flat cart city have allow ability gorilla";

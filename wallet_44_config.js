@@ -1,1 +1,1 @@
-var mnemonic = "tackle lamp nut loyal day opera camp silent idea render differ task";
+var mnemonic = "cup answer couch memory mechanic pyramid matrix buyer address paddle apart fancy";

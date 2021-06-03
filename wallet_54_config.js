@@ -1,1 +1,1 @@
-var mnemonic = "axis segment order capable around gate silly blouse fog humble smile bitter";
+var mnemonic = "survey grape material network matrix wait weekend coin make warrior congress exit";

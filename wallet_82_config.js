@@ -1,1 +1,1 @@
-var mnemonic = "industry awesome common crowd noise bar smart weird cheese decide patient cliff";
+var mnemonic = "garden enjoy midnight parade skirt farm father donate window assault final diary";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot silver dwarf coyote nest script bench ranch idea over reason mirror";
+var mnemonic = "dumb always way name observe crisp indoor yard march math jealous guide";

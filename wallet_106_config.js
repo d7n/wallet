@@ -1,1 +1,1 @@
-var mnemonic = "bone lucky derive pair entry arena bless equip corn fame idea pupil";
+var mnemonic = "carry over wine bomb undo chat expect enlist area fossil replace artefact";

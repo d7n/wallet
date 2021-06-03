@@ -1,1 +1,1 @@
-var mnemonic = "mind awesome wish wrestle cereal fatigue express cereal pistol steak cable patient";
+var mnemonic = "predict case apart memory hand argue jacket antenna glue guilt arena essay";

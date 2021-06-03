@@ -1,1 +1,1 @@
-var mnemonic = "head mixed day estate notice pear audit broom jeans swift shaft liquid";
+var mnemonic = "prevent fortune knock release seat galaxy woman aisle relax that lounge immense";

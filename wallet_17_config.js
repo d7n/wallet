@@ -1,1 +1,1 @@
-var mnemonic = "bar glory oil goddess emotion pepper shuffle purse humor half farm tattoo";
+var mnemonic = "side volume rib decrease sauce impulse shine unique hybrid holiday debris when";

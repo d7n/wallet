@@ -1,1 +1,1 @@
-var mnemonic = "pull pill kick panic pen sad goose picnic fence tone sound purity";
+var mnemonic = "vote grass melody garbage bid render shop race approve child mad crack";

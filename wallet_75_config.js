@@ -1,1 +1,1 @@
-var mnemonic = "vital balcony combine winner adapt scorpion arctic member sea assume shoot earn";
+var mnemonic = "broken wrong review property sentence leg then quarter climb goat involve spare";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket october buyer because urge zero flat mansion hungry cake term sleep";
+var mnemonic = "install giraffe child benefit bleak thumb slender once trick method salt coral";

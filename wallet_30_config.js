@@ -1,1 +1,1 @@
-var mnemonic = "similar goat fortune define cliff attend gym bitter donor art pact mass";
+var mnemonic = "shuffle segment sail manage menu mixture canvas advice undo huge figure inherit";

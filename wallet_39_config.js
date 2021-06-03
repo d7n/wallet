@@ -1,1 +1,1 @@
-var mnemonic = "click attend plug dream hello sick check fancy world universe shuffle siege";
+var mnemonic = "habit issue correct bronze rate squirrel million doctor nice mystery sentence lonely";

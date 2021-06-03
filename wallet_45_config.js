@@ -1,1 +1,1 @@
-var mnemonic = "group fix drama warrior mule example hotel dinner devote meadow differ cushion";
+var mnemonic = "finger code drill person jazz chronic typical betray sell seat punch current";

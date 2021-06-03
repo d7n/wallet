@@ -1,1 +1,1 @@
-var mnemonic = "skate opera slab property again word subject praise during ring crime seed";
+var mnemonic = "same mixture say burger across fog blush hand hurry clog mesh gap";

@@ -1,1 +1,1 @@
-var mnemonic = "degree trial gasp decorate april valley exile apple gate recipe film hello";
+var mnemonic = "web old shop visual pony mobile wool ready fit list current wall";

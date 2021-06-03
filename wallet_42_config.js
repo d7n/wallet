@@ -1,1 +1,1 @@
-var mnemonic = "intact lake rival silly occur easily erase dinner repair emerge crime focus";
+var mnemonic = "fish cupboard law negative ribbon name visit ride grape feed credit lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "submit always scene crystal fade gloom insect deny rescue cereal bike mango";
+var mnemonic = "expire bonus crisp album detail announce wood magnet next connect layer spare";

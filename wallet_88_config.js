@@ -1,1 +1,1 @@
-var mnemonic = "air slender energy furnace across plunge palm across knee raise mad scrub";
+var mnemonic = "shoot dentist clog wild truck deny onion canal evil casual code wealth";

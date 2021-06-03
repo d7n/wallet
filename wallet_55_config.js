@@ -1,1 +1,1 @@
-var mnemonic = "average patrol bacon want lounge wild fence mirror cause team twelve antenna";
+var mnemonic = "notable crime ketchup person muscle flower two jealous unknown critic artwork enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "letter gaze reform repeat concert afraid stomach poet defy grain search middle";
+var mnemonic = "canyon poem pink wife menu clay duck inspire lesson raccoon mule fit";

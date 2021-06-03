@@ -1,1 +1,1 @@
-var mnemonic = "buffalo tenant cheap initial matrix dynamic hope earth differ excuse height jeans";
+var mnemonic = "magnet coconut pilot traffic anxiety rule daughter smart engage throw bag auction";

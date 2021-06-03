@@ -1,1 +1,1 @@
-var mnemonic = "steak riot grid abandon heart angry volcano mix early husband ability begin";
+var mnemonic = "limit harvest that action night gain cabbage weird dad enough diesel blood";

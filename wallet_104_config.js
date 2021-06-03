@@ -1,1 +1,1 @@
-var mnemonic = "horn ahead lock hip toss believe spider fruit sustain butter cactus sudden";
+var mnemonic = "busy vacuum predict grass spare purity sister best brief caution fatigue two";

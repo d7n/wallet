@@ -1,1 +1,1 @@
-var mnemonic = "waste another dove champion element office addict silk become march aunt trick";
+var mnemonic = "assume planet naive use buddy escape situate twin session fall used obvious";

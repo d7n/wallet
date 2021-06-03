@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin museum claim visa december flash found can virus armor notice brass";
+var mnemonic = "noodle catch alcohol notice term cream mammal alter giraffe library rival marble";
