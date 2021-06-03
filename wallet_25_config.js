@@ -1,1 +1,1 @@
-var mnemonic = "elbow vicious salon lazy say olympic stuff slot addict hotel enlist air";
+var mnemonic = "biology version winter offer detail labor jar august comic glad cargo whip";

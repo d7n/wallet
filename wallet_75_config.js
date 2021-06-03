@@ -1,1 +1,1 @@
-var mnemonic = "dirt boat violin add buddy until gadget height promote winner luxury valve";
+var mnemonic = "estate humble clock day manual keen unlock truck luggage about argue vibrant";

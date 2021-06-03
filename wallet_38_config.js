@@ -1,1 +1,1 @@
-var mnemonic = "quality danger quality fruit enforce believe audit tunnel solar test waste slam";
+var mnemonic = "umbrella cereal toddler salmon drill confirm tattoo sample rifle gas decide profit";

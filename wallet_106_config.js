@@ -1,1 +1,1 @@
-var mnemonic = "across ozone cake tunnel canoe once leader buzz awful noble dynamic entire";
+var mnemonic = "feed roast top miss mosquito laptop six armed shuffle amused fringe sausage";

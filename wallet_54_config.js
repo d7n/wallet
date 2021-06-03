@@ -1,1 +1,1 @@
-var mnemonic = "loyal rural sort scrub accuse tenant obscure steak minor problem explain dynamic";
+var mnemonic = "bounce settle model emotion climb ozone gaze depart garage top aim chicken";

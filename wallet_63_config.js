@@ -1,1 +1,1 @@
-var mnemonic = "dress rebuild duck lamp swear modify upset artist world flight medal whisper";
+var mnemonic = "eagle renew increase mimic firm build danger ensure file nose infant sun";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance right work spy primary oyster glove crouch nurse poem where mountain";
+var mnemonic = "enter fall solar drastic giraffe bus birth achieve cancel bind one option";

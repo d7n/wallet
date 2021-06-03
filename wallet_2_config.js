@@ -1,1 +1,1 @@
-var mnemonic = "nurse youth excuse diet cement indoor carpet develop basic just exclude aunt";
+var mnemonic = "asset door grape ride science humor program game faith frost narrow fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "share lion wrestle phrase myself random quarter normal general unveil crime source";
+var mnemonic = "absorb inquiry parent best announce seminar response apart old oppose usage acid";

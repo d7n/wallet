@@ -1,1 +1,1 @@
-var mnemonic = "finger impulse number bicycle pink impact month warrior tribe faculty stairs decrease";
+var mnemonic = "tank caught favorite grab flavor shuffle modify wealth potato state margin tired";

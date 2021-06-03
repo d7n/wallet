@@ -1,1 +1,1 @@
-var mnemonic = "reward title cactus public arrange east evil index hole symbol depart board";
+var mnemonic = "regular side degree faculty present brief girl shoulder liar bless retreat crater";

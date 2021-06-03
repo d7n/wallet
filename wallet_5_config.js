@@ -1,1 +1,1 @@
-var mnemonic = "stereo cannon appear pass unfair various resource language exclude kite hobby notable";
+var mnemonic = "panther ancient doll wood evolve boy festival camp fabric explain siege found";

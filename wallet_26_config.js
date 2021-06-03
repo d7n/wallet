@@ -1,1 +1,1 @@
-var mnemonic = "affair produce retire north provide slim ivory moral cloth ride excess soldier";
+var mnemonic = "tiger shield aunt bridge outer segment spy claim length puppy urban ask";

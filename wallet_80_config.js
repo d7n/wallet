@@ -1,1 +1,1 @@
-var mnemonic = "choice merry major tray answer pluck casual test body unknown render mansion";
+var mnemonic = "visual blade volume baby husband bachelor curtain cart mad vault laugh club";

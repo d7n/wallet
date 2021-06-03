@@ -1,1 +1,1 @@
-var mnemonic = "top bar fabric trophy victory soon praise curtain example jazz local blade";
+var mnemonic = "height sure parent hill note merit lock endless fury side diet inspire";

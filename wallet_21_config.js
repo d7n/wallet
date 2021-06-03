@@ -1,1 +1,1 @@
-var mnemonic = "deliver stadium juice call color gift sadness flavor address approve deposit tribe";
+var mnemonic = "float crane feel grape sort west gather rice armed diesel rigid jar";

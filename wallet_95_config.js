@@ -1,1 +1,1 @@
-var mnemonic = "total scare equip movie announce fit employ dentist trophy vessel stamp steel";
+var mnemonic = "despair region hard false toast accident attack start crew chimney park happy";

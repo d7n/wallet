@@ -1,1 +1,1 @@
-var mnemonic = "unable loud snow safe control peace soccer fashion napkin quit giggle unlock";
+var mnemonic = "chapter filter mobile avoid artwork stomach neither original test snake inch stumble";

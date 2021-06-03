@@ -1,1 +1,1 @@
-var mnemonic = "story ritual powder idle mutual echo write aware false govern bird split";
+var mnemonic = "draw post found provide weekend enforce salmon polar hobby rule garment spend";

@@ -1,1 +1,1 @@
-var mnemonic = "orient pumpkin regret shed pony travel spell prosper mosquito category fork walk";
+var mnemonic = "camera involve throw roof zoo achieve live sand asthma peace error between";

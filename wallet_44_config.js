@@ -1,1 +1,1 @@
-var mnemonic = "target humor moment concert trend link avoid verb fee awkward cash police";
+var mnemonic = "napkin margin camera day know jealous manual focus smooth laundry business stay";

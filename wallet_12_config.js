@@ -1,1 +1,1 @@
-var mnemonic = "leg help summer swift program palm saddle absorb slush rescue gravity throw";
+var mnemonic = "outdoor immune dress case harsh distance viable message pilot burden cost snap";

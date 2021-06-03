@@ -1,1 +1,1 @@
-var mnemonic = "file gas turn crucial hip fine choose canal father deputy apart problem";
+var mnemonic = "never coil two vendor alert fit average topic arrest same patrol bubble";

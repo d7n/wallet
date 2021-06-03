@@ -1,1 +1,1 @@
-var mnemonic = "daughter license ask seat jump able trigger hundred defy they report review";
+var mnemonic = "scatter head label table virus pause bind bounce soldier truck tent rely";

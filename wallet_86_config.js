@@ -1,1 +1,1 @@
-var mnemonic = "chef simple peasant total width tragic never uncle sail talent puzzle grant";
+var mnemonic = "odor bird cook jazz sustain gold police group foil payment noise tobacco";

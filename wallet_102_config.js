@@ -1,1 +1,1 @@
-var mnemonic = "utility swim bracket hip draft stomach debris expose mask list trial army";
+var mnemonic = "dragon shadow pyramid march negative roof myth flight twelve tribe leaf staff";

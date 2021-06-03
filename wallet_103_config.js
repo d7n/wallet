@@ -1,1 +1,1 @@
-var mnemonic = "worry romance slender raven spoil ivory disease police economy venture journey fence";
+var mnemonic = "front rule soldier assault embark agree endless trumpet adjust winner apple infant";

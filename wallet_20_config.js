@@ -1,1 +1,1 @@
-var mnemonic = "inject lion obscure fancy cement deliver rely swallow coil fringe drastic gloom";
+var mnemonic = "rabbit grief place syrup neck include rain property proud wisdom leg pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "badge vague romance need side near inhale scale observe family fossil sun";
+var mnemonic = "actual science sound online supreme abuse corn clip razor chaos bird knock";

@@ -1,1 +1,1 @@
-var mnemonic = "grid decide foil double disorder sand curtain candy slow appear face inner";
+var mnemonic = "accuse unveil reward cheese sentence beyond cruise defense ride subject replace right";

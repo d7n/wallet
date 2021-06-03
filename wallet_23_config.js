@@ -1,1 +1,1 @@
-var mnemonic = "core impose silly ask float food become layer observe urge angle unique";
+var mnemonic = "noodle rug ship test scene weather laptop language devote smooth deliver skin";

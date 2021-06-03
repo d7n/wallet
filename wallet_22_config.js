@@ -1,1 +1,1 @@
-var mnemonic = "resist question hard logic slow tomorrow echo tissue author impulse monster spice";
+var mnemonic = "walnut olympic project edge diet excite boat attitude risk vendor output dose";

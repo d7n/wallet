@@ -1,1 +1,1 @@
-var mnemonic = "hold review wasp embrace spend salute olympic wear slab paddle cricket else";
+var mnemonic = "marriage wire enhance hundred pepper swift scissors lottery endorse rail clarify table";

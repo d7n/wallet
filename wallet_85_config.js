@@ -1,1 +1,1 @@
-var mnemonic = "never acquire text auction wait wisdom attack wasp frown wonder image very";
+var mnemonic = "convince unit zero document whale birth mosquito inflict ramp quick bubble exhaust";

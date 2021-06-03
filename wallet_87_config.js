@@ -1,1 +1,1 @@
-var mnemonic = "wave parade silk effort void wrap card already estate buffalo stamp era";
+var mnemonic = "device area eyebrow ceiling arrive stairs upset eternal solve hotel industry unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "list seat genre skull ceiling crunch lonely benefit dress left coral fetch";
+var mnemonic = "teach flush travel siege icon sign possible plug unaware enemy door boat";

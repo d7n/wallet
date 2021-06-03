@@ -1,1 +1,1 @@
-var mnemonic = "stage amazing aerobic pear fluid tent into spawn raw box awkward disagree";
+var mnemonic = "loop imitate unit govern labor stage filter midnight raccoon arch change steel";

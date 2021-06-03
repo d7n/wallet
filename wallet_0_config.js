@@ -1,1 +1,1 @@
-var mnemonic = "carpet claim frame author craft spring common desert favorite olive suffer drift";
+var mnemonic = "churn miss wet inch post earth couple wild ahead rack whale dune";

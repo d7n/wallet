@@ -1,1 +1,1 @@
-var mnemonic = "fish now reflect mother find waste favorite pony exit slight popular toe";
+var mnemonic = "turtle daring taste ice eight announce guitar reform perfect page smooth ladder";

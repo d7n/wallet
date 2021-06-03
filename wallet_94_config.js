@@ -1,1 +1,1 @@
-var mnemonic = "sweet gate boss sound hidden veteran brand coast tank surprise group edit";
+var mnemonic = "joke urban display off collect utility primary coffee draft method capital assault";

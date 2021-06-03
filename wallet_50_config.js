@@ -1,1 +1,1 @@
-var mnemonic = "school include trap siege beyond worth enroll limit wire night exit already";
+var mnemonic = "snow scorpion pattern faculty divert raw ball satisfy baby nurse rookie lucky";

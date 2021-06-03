@@ -1,1 +1,1 @@
-var mnemonic = "cage palace tower deny post renew gown remain drip account tone suit";
+var mnemonic = "hip theory artist chaos cushion six sea push naive uncover click cute";

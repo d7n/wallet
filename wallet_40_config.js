@@ -1,1 +1,1 @@
-var mnemonic = "surge fold mansion island satoshi rack copper model bicycle dentist useless dentist";
+var mnemonic = "icon absent horse capital bacon sponsor fragile rain silly parrot room divorce";

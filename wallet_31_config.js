@@ -1,1 +1,1 @@
-var mnemonic = "smart pilot impulse brother elite toward danger praise enforce uncover walk lucky";
+var mnemonic = "latin rich borrow buyer subway gaze build lens test pulp dragon virus";

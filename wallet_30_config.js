@@ -1,1 +1,1 @@
-var mnemonic = "toast oyster seed nice various beef series culture draw famous mind cricket";
+var mnemonic = "amused dial injury put include air fade scene face tail illness reward";

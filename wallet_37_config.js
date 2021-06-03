@@ -1,1 +1,1 @@
-var mnemonic = "nothing churn ugly industry abuse settle milk depart happy give off attack";
+var mnemonic = "virtual edge route follow panther control blue critic scene tennis wrist hundred";

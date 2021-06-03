@@ -1,1 +1,1 @@
-var mnemonic = "test industry public twelve hood knock host column cry flock hero knock";
+var mnemonic = "busy decade plunge loud drill plug mention volume earn skin local despair";

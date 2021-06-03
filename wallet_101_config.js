@@ -1,1 +1,1 @@
-var mnemonic = "abstract vital chimney return weekend laugh curve pool foster habit guitar coral";
+var mnemonic = "method tissue pipe filter skull bullet brief asthma salon miss finger surround";

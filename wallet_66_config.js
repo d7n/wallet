@@ -1,1 +1,1 @@
-var mnemonic = "print talk long copy laundry bronze impose drip pave artefact fury leaf";
+var mnemonic = "level struggle tag matrix aunt senior brain couch chalk stuff foam question";

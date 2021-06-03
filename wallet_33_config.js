@@ -1,1 +1,1 @@
-var mnemonic = "network word sad eye peace hour glide fork derive upon buffalo grant";
+var mnemonic = "ugly urge have carbon habit head sport invest legal list arrow naive";

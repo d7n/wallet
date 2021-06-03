@@ -1,1 +1,1 @@
-var mnemonic = "soldier syrup engine soda fancy source device modify fluid plunge length aspect";
+var mnemonic = "knock main own morning leave congress faith crumble orphan diesel boil armed";

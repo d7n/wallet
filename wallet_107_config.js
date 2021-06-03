@@ -1,1 +1,1 @@
-var mnemonic = "lizard people nation design elegant margin work oyster moment mistake possible trick";
+var mnemonic = "make steel example predict kingdom rent dune shaft topple around resemble alcohol";

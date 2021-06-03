@@ -1,1 +1,1 @@
-var mnemonic = "reopen ensure merry tackle blade grief clarify demise oil design owner rural";
+var mnemonic = "climb quality habit hybrid coin blame increase chuckle soon child armed key";

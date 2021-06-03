@@ -1,1 +1,1 @@
-var mnemonic = "cute swap spy orbit mom brand bacon erode advance game add nature";
+var mnemonic = "husband drill fish crucial habit ancient limb meat chimney hand beauty they";

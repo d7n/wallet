@@ -1,1 +1,1 @@
-var mnemonic = "door casino cross blood decorate egg fiber black among imitate soap spray";
+var mnemonic = "consider boat maximum fever owner account impulse tattoo piano lecture basic guilt";

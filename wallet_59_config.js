@@ -1,1 +1,1 @@
-var mnemonic = "river cliff token inspire already record duty crumble soap february change west";
+var mnemonic = "rib flavor cactus motor gadget stool harbor hammer raccoon exist cause steel";

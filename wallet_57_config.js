@@ -1,1 +1,1 @@
-var mnemonic = "raven dash vessel face loud talk gentle jar veteran tool draw salt";
+var mnemonic = "cry easy margin stomach discover grain paddle jealous lawsuit bubble task long";

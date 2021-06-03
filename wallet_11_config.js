@@ -1,1 +1,1 @@
-var mnemonic = "point space peanut stem uncle abuse harbor enact vocal jar pelican enlist";
+var mnemonic = "practice eager coach valley pony improve cute erase spy rain age broken";

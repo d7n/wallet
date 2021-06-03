@@ -1,1 +1,1 @@
-var mnemonic = "able state pony twenty arena picture wash globe young snow moral problem";
+var mnemonic = "patient quick reform certain arrow brother debris year clarify snack fun bundle";

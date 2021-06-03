@@ -1,1 +1,1 @@
-var mnemonic = "enter nurse swing cupboard again limb book sea general layer metal coffee";
+var mnemonic = "response right lyrics police lyrics topple volume draw section cargo width real";

@@ -1,1 +1,1 @@
-var mnemonic = "corn shoulder donor version later practice purity disorder vivid vapor engine eagle";
+var mnemonic = "section barrel purse tenant elephant solid father speed rubber lake item vote";

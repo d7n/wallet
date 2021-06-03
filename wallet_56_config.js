@@ -1,1 +1,1 @@
-var mnemonic = "fluid behave rescue flush axis penalty shell announce combine manage hospital eye";
+var mnemonic = "defy open genuine grass kit fix able joy carry owner pair minor";

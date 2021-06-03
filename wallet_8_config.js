@@ -1,1 +1,1 @@
-var mnemonic = "column gadget mango pledge size border opinion hidden hub route coyote parade";
+var mnemonic = "spider thought vote pelican essence plug twenty swap dolphin endless boost physical";

@@ -1,1 +1,1 @@
-var mnemonic = "north enough slot modify abuse common pool alert corn zoo exercise chaos";
+var mnemonic = "sting chapter survey share educate story pottery refuse grid dial verify myself";

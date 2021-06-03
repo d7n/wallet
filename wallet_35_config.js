@@ -1,1 +1,1 @@
-var mnemonic = "pupil ethics half picnic engage athlete bleak cross patrol remember rude hurt";
+var mnemonic = "august purchase license gloom category waste chief page blind tumble armed crash";

@@ -1,1 +1,1 @@
-var mnemonic = "also empower useless young busy fossil system warm pudding dirt truck flavor";
+var mnemonic = "soap lobster appear rifle replace food orange purity umbrella nominee clap knife";

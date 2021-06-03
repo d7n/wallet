@@ -1,1 +1,1 @@
-var mnemonic = "trust strategy puppy hazard mountain armed object chaos orient symbol dog husband";
+var mnemonic = "grass error useless worry market auto girl vivid pumpkin emotion question fruit";

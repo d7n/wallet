@@ -1,1 +1,1 @@
-var mnemonic = "risk into magic citizen quiz vapor indicate fitness fiction bid idle keen";
+var mnemonic = "finish flip hero foot large season dinner scrap situate stem rigid wool";

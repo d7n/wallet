@@ -1,1 +1,1 @@
-var mnemonic = "siren into suffer reward basic teach mistake illness monkey issue alarm abstract";
+var mnemonic = "alert stock interest elegant roof barely blast fragile olympic another industry cargo";

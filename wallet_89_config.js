@@ -1,1 +1,1 @@
-var mnemonic = "gift rescue carpet easily track nephew scatter spring ketchup blur gauge paper";
+var mnemonic = "stereo mushroom little accident country online athlete know language lion awake plug";

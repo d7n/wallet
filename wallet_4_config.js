@@ -1,1 +1,1 @@
-var mnemonic = "twist find glass wonder action turtle icon whisper divide before else safe";
+var mnemonic = "corn endorse armed brush volcano truth position when license rough grid live";

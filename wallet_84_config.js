@@ -1,1 +1,1 @@
-var mnemonic = "omit antique dirt transfer grace sister goose more punch silver curious mosquito";
+var mnemonic = "seek rate audit clog fat bleak expand donor frost lion skill grab";

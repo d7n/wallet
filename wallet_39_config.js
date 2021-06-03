@@ -1,1 +1,1 @@
-var mnemonic = "aerobic display cattle basket announce stereo interest doll embrace project flock mixture";
+var mnemonic = "stem hat lobster shadow engine border museum shuffle alpha raven dad list";

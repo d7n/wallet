@@ -1,1 +1,1 @@
-var mnemonic = "shy glance cream proof siege mixture noodle escape glide piece fresh today";
+var mnemonic = "warfare crowd icon shoot climb cluster twist update certain injury team ability";

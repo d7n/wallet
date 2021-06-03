@@ -1,1 +1,1 @@
-var mnemonic = "predict real wage menu dry seed pipe private toilet melody note sting";
+var mnemonic = "pony ivory hobby rib canoe tone clean essence price stay blind arrow";

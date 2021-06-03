@@ -1,1 +1,1 @@
-var mnemonic = "honey view naive supreme boat risk dentist inject jar cup simple arrive";
+var mnemonic = "diet grass erode flat quiz surface large other walk afraid staff robot";

@@ -1,1 +1,1 @@
-var mnemonic = "throw harbor attract captain amused source because pave first all electric someone";
+var mnemonic = "minor adjust economy obtain life follow search hint kitchen wheel depth couple";

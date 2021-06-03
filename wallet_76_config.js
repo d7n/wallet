@@ -1,1 +1,1 @@
-var mnemonic = "apart young hope toddler modify together click genuine sand affair happy dentist";
+var mnemonic = "choice venue hawk already rebel ribbon choose swear banner fury grunt stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "they rough tornado oven clown stove dune badge grace pipe battle crime";
+var mnemonic = "flash comfort circle stadium walnut inhale manage when bullet indicate reunion fence";

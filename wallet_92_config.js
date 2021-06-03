@@ -1,1 +1,1 @@
-var mnemonic = "depend liquid square wealth reason sorry juice torch promote boy provide owner";
+var mnemonic = "silly special neck border huge truth valve false panda vanish volume kick";

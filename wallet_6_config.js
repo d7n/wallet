@@ -1,1 +1,1 @@
-var mnemonic = "charge stamp calm shy render tape proud coach decade theory frog spider";
+var mnemonic = "ramp avocado artefact robot shell desk vehicle glory lizard magic sadness raccoon";

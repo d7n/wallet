@@ -1,1 +1,1 @@
-var mnemonic = "now transfer bicycle rich six water alert laptop grape ladder ranch appear";
+var mnemonic = "elite time economy fuel pepper fade high bag seed custom cancel glue";

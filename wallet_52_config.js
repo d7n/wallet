@@ -1,1 +1,1 @@
-var mnemonic = "horn slot admit worry pass horn hotel emotion parent large illegal report";
+var mnemonic = "basic dial inner avoid jealous discover daughter elite clip blanket mountain quarter";

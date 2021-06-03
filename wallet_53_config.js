@@ -1,1 +1,1 @@
-var mnemonic = "rich poet organ grant unable armor surround repair addict weasel ranch marble";
+var mnemonic = "panel message fame tissue latin album negative next screen gospel few audit";

@@ -1,1 +1,1 @@
-var mnemonic = "comic poverty decline globe window camp proof elevator trial discover wife whale";
+var mnemonic = "exercise april verify tenant salmon album shine track type pupil area awesome";

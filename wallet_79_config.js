@@ -1,1 +1,1 @@
-var mnemonic = "envelope scare jeans monster address draw cloud lottery spell bounce among goat";
+var mnemonic = "boring alpha jar element sea engage measure fashion soul muffin goose method";

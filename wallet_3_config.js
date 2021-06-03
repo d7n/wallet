@@ -1,1 +1,1 @@
-var mnemonic = "skill tuna push mask news culture copper toy horse opinion crazy small";
+var mnemonic = "oil language remain control mule income bunker series knock wine inherit believe";

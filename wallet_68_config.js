@@ -1,1 +1,1 @@
-var mnemonic = "blur valid define cup puzzle grief apple club pave click bicycle humble";
+var mnemonic = "yellow false laugh virus oak risk warrior problem cement large section way";

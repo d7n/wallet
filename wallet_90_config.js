@@ -1,1 +1,1 @@
-var mnemonic = "behind balance laptop bird member borrow gown grief romance cargo model measure";
+var mnemonic = "vault crisp proud hover fresh unhappy access badge light solution hard major";
