@@ -1,1 +1,1 @@
-var mnemonic = "roast glue client flower monster sentence rookie service fine attack year hero";
+var mnemonic = "burger imitate fun frost uncle pride sweet couple dragon glance before spend";

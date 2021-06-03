@@ -1,1 +1,1 @@
-var mnemonic = "pepper collect amateur drop prison unfair rebel awesome garbage best loud busy";
+var mnemonic = "borrow camera kangaroo armor talent avoid truck adjust shadow sell raccoon piece";

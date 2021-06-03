@@ -1,1 +1,1 @@
-var mnemonic = "board mixed forum giraffe sock follow walk goose smooth fork between filter";
+var mnemonic = "hurry train science happy staff sponsor pulse way uniform fashion shiver quality";

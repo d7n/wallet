@@ -1,1 +1,1 @@
-var mnemonic = "maid pact toe habit mean train around puppy execute uncover tackle speed";
+var mnemonic = "shift tag evolve outer gate task laundry damage portion merge margin frog";

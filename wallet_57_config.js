@@ -1,1 +1,1 @@
-var mnemonic = "cash fiber present minute fade afford clerk economy bronze advance allow smart";
+var mnemonic = "bag gas creek rotate crush simple essay bachelor adult rally two flock";

@@ -1,1 +1,1 @@
-var mnemonic = "add sunset salon found forward state thrive coral popular unit release maximum";
+var mnemonic = "list sausage session purity hint ostrich height decade crater sign catalog below";

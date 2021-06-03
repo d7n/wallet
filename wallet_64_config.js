@@ -1,1 +1,1 @@
-var mnemonic = "general rocket post excite wedding core deliver purchase eight hen disorder trick";
+var mnemonic = "snack orange dragon sell drill festival celery sugar tunnel deer tuition early";

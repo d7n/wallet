@@ -1,1 +1,1 @@
-var mnemonic = "quit giggle episode only elbow bamboo access diamond couple banana switch track";
+var mnemonic = "coyote local ghost giraffe sun popular poverty panel elevator ladder indicate surprise";

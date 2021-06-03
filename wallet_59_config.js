@@ -1,1 +1,1 @@
-var mnemonic = "damage hole tourist faint canal park arrow repair cave blind dentist video";
+var mnemonic = "bonus bonus silver power match tuition outside icon keen mansion market march";

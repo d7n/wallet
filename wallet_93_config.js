@@ -1,1 +1,1 @@
-var mnemonic = "artefact sugar forum exist essence burden alarm panther deputy discover oil brand";
+var mnemonic = "pull video theory napkin smooth any ozone surface hammer glass sister stock";

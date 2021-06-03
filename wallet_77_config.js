@@ -1,1 +1,1 @@
-var mnemonic = "inhale balance approve lizard useful embrace essence hundred child mansion attend sausage";
+var mnemonic = "festival upset tower transfer kiss coconut source price total stem fiber hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "impact area note cupboard sense assault mention call hurt warfare later identify";
+var mnemonic = "output badge twelve enjoy jaguar bread wait horn behave toward kick blast";

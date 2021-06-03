@@ -1,1 +1,1 @@
-var mnemonic = "notice rent affair slogan rose unable toddler scale pattern winner minute real";
+var mnemonic = "strike zero embrace label kind intact cherry detail there later recycle parade";

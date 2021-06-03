@@ -1,1 +1,1 @@
-var mnemonic = "primary clean elephant cup relax across income salt dismiss song surge fringe";
+var mnemonic = "path oil burger tag nice account case pact merge today raw regret";

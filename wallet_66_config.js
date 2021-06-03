@@ -1,1 +1,1 @@
-var mnemonic = "cheese display cram advance camp peanut ordinary floor matrix nuclear lock clever";
+var mnemonic = "spoon soda riot jeans hat inner raven feel kiss donkey club cloth";

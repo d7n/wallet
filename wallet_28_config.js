@@ -1,1 +1,1 @@
-var mnemonic = "harbor medal ski brother indicate rural truth small aunt oven way fashion";
+var mnemonic = "legal this affair sadness crucial dice jewel chimney among display dentist abuse";

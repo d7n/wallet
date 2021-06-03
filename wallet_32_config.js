@@ -1,1 +1,1 @@
-var mnemonic = "torch warrior keep foil blur napkin pair pretty arrange portion wrap wear";
+var mnemonic = "priority vital fiscal message rely sniff ecology endorse unfold leave mother cousin";

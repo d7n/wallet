@@ -1,1 +1,1 @@
-var mnemonic = "before display grid actual better wish slush orbit note conduct purse desert";
+var mnemonic = "arrange nothing taxi purse review clutch cotton weapon produce stove merit radar";

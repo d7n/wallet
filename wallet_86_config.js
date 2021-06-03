@@ -1,1 +1,1 @@
-var mnemonic = "network identify cloud subject together defense multiply ivory found diet gospel pattern";
+var mnemonic = "fan evidence earth must bone join swap whip fade tent end remove";

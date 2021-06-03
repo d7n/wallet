@@ -1,1 +1,1 @@
-var mnemonic = "below crawl expire sample hawk oppose blast peasant bacon cost appear vehicle";
+var mnemonic = "gospel model wear valve canvas crater menu hen mail clock balcony phone";

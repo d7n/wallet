@@ -1,1 +1,1 @@
-var mnemonic = "core own penalty memory region print peanut come bracket behave gesture rifle";
+var mnemonic = "smile shine reopen anchor inhale remain category august slim nice clock hire";

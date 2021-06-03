@@ -1,1 +1,1 @@
-var mnemonic = "iron curtain dance strategy casino matrix elevator dune mirror truck address dinner";
+var mnemonic = "coast wise base twelve cover vague swap index gown mixed fluid fragile";

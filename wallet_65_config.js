@@ -1,1 +1,1 @@
-var mnemonic = "stomach task bus immense regret budget judge view cradle source dance hand";
+var mnemonic = "viable argue danger any recycle federal body deer possible idle battle quote";

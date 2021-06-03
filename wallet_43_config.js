@@ -1,1 +1,1 @@
-var mnemonic = "sport nut oil board motor mansion tag trend response supreme number tell";
+var mnemonic = "parrot lazy evil together utility lift excuse scare veteran practice coyote crew";

@@ -1,1 +1,1 @@
-var mnemonic = "sister wise garbage pig cook uncover panel family tornado few evoke pretty";
+var mnemonic = "enact lawsuit daughter involve outdoor burger little model culture come almost strategy";

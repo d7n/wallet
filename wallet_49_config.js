@@ -1,1 +1,1 @@
-var mnemonic = "glow abstract piano alpha dish put unique skate matrix symptom hen cram";
+var mnemonic = "grief scatter visual anchor depth roast pact taste bundle solve blue cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "bread indicate kiss image mask father exhibit pulse biology creek parrot cry";
+var mnemonic = "praise behave atom plunge tumble suffer carpet stumble govern scissors throw obvious";

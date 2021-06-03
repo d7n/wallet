@@ -1,1 +1,1 @@
-var mnemonic = "hard swarm toddler shock dawn wrist violin woman detect rail demand kind";
+var mnemonic = "rough light bag orphan bright believe letter focus bacon include then bounce";

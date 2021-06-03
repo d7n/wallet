@@ -1,1 +1,1 @@
-var mnemonic = "illness beef employ puppy sweet carry sibling destroy cliff uncover slight prison";
+var mnemonic = "trial hawk that often again surround beyond scan input alert neutral budget";

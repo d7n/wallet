@@ -1,1 +1,1 @@
-var mnemonic = "wide cook aware depart stool aspect expand airport youth floor test segment";
+var mnemonic = "judge always champion mesh arrow stick surround oxygen blade type someone wink";

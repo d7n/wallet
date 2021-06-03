@@ -1,1 +1,1 @@
-var mnemonic = "light eyebrow neutral course inside hole romance transfer auto raven famous wheat";
+var mnemonic = "second camera calm work hollow two cupboard board square custom reform blood";

@@ -1,1 +1,1 @@
-var mnemonic = "story lion gap grace segment useless demand anxiety stem stove rose punch";
+var mnemonic = "quit crack rather good rifle alien blossom venue cash gospel cram mixture";

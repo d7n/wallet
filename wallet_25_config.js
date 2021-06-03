@@ -1,1 +1,1 @@
-var mnemonic = "fashion stool science slab say involve wait enough cancel rifle siege biology";
+var mnemonic = "hold uncover figure ask arch truly begin course combine tobacco auto rib";

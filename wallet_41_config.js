@@ -1,1 +1,1 @@
-var mnemonic = "dignity trial absorb only either sibling cotton girl cancel camera load say";
+var mnemonic = "curve else wonder oil collect scout dad swarm farm soldier banana draft";

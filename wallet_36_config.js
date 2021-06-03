@@ -1,1 +1,1 @@
-var mnemonic = "august moral crumble cool journey donkey tuition boat evidence boss error wheel";
+var mnemonic = "sustain choose replace air obvious waste spend purity hazard confirm north throw";

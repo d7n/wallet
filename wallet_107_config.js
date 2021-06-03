@@ -1,1 +1,1 @@
-var mnemonic = "winner achieve anger grain talent wish minimum where wisdom accuse unhappy divert";
+var mnemonic = "daring cabin wash eyebrow ice early taste banner key miracle pilot around";

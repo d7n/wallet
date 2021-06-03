@@ -1,1 +1,1 @@
-var mnemonic = "observe spike song shrug clump post impulse ugly choice fresh expand desk";
+var mnemonic = "zero network recipe nerve genius hospital subject right local junk meat dice";

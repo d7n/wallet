@@ -1,1 +1,1 @@
-var mnemonic = "hill champion bonus roast monster access because dilemma that million draw enough";
+var mnemonic = "coyote immense flash together absurd hold hazard real space antique ticket funny";

@@ -1,1 +1,1 @@
-var mnemonic = "myth index immense shoulder brain defy rare visual stage copper scare bronze";
+var mnemonic = "sport lava special dream usage inner math display near develop tumble cotton";

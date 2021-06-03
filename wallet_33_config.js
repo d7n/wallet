@@ -1,1 +1,1 @@
-var mnemonic = "garlic harvest trigger harsh slice empty bleak green sheriff upper symptom army";
+var mnemonic = "summer error happy guide such subject satisfy raw mixed fluid valley nominee";

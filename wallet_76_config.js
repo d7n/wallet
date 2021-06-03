@@ -1,1 +1,1 @@
-var mnemonic = "just citizen dignity impact stable scissors tornado simple novel evolve patrol garden";
+var mnemonic = "odor push mesh use vintage will group victory material cube reduce obvious";

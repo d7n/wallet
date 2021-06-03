@@ -1,1 +1,1 @@
-var mnemonic = "jungle make diagram erode tent below predict cook enforce brown observe glare";
+var mnemonic = "beauty paddle gentle sword universe clarify october inner bridge drastic lonely connect";

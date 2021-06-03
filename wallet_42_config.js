@@ -1,1 +1,1 @@
-var mnemonic = "various have law oblige pretty sell iron cycle steel can tragic boat";
+var mnemonic = "tray poem radio fish anger company giant black drip swallow reflect decline";

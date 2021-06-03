@@ -1,1 +1,1 @@
-var mnemonic = "slow penalty weekend vendor file chimney best bottom promote mesh real gravity";
+var mnemonic = "hawk word pave piano motion sort ramp change chief ocean bacon vast";

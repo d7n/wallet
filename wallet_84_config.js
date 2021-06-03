@@ -1,1 +1,1 @@
-var mnemonic = "misery undo burger seminar nominee jewel lunch dragon tunnel smooth depart move";
+var mnemonic = "apart group neither figure hire action delay garlic idea monster inform web";

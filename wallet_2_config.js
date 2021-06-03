@@ -1,1 +1,1 @@
-var mnemonic = "flavor step change game flee siege into liquid staff nation inch kit";
+var mnemonic = "depth wheat pudding pact display lawsuit payment bitter model stock curious ordinary";

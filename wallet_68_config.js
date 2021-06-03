@@ -1,1 +1,1 @@
-var mnemonic = "notice repair draft tomato list home choose tornado idea awful pyramid erosion";
+var mnemonic = "sell rival object door collect evil thank hungry frozen aerobic sentence stand";

@@ -1,1 +1,1 @@
-var mnemonic = "warm horn gallery bus pact uncover pulp ill magnet glad desert unit";
+var mnemonic = "napkin where note muffin bread use fringe ladder neutral wrap join adapt";

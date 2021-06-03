@@ -1,1 +1,1 @@
-var mnemonic = "elegant stumble obvious grid direct flag siege movie shell chunk crime lyrics";
+var mnemonic = "denial pride wink fruit sure allow pink guitar lazy blame shock flame";

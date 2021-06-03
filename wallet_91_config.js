@@ -1,1 +1,1 @@
-var mnemonic = "wreck road barrel way fuel tourist business purse protect harbor outside orient";
+var mnemonic = "used crawl volume short danger crowd power awkward mosquito cinnamon chalk easily";

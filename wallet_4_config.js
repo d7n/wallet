@@ -1,1 +1,1 @@
-var mnemonic = "now chat direct elegant account vehicle dilemma argue number copy theme become";
+var mnemonic = "planet street social south host trim essay design tool interest wife similar";

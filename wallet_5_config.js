@@ -1,1 +1,1 @@
-var mnemonic = "indicate globe over claim silly crisp deal tree immense task aunt bitter";
+var mnemonic = "account opera salad unusual crawl finish device grace voyage outside layer usual";

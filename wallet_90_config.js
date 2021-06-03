@@ -1,1 +1,1 @@
-var mnemonic = "three dust sight vote weapon jaguar road similar dizzy broom veteran portion";
+var mnemonic = "photo bean august surprise order media gap era foil runway error empty";

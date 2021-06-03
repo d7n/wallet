@@ -1,1 +1,1 @@
-var mnemonic = "wing merit extra begin mechanic oak detect attack crew tackle best obvious";
+var mnemonic = "rice slogan alone strategy inch female solve trade book black involve veteran";

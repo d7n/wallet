@@ -1,1 +1,1 @@
-var mnemonic = "reveal forum bacon life kingdom toddler spoil budget aspect dinosaur venue jaguar";
+var mnemonic = "weird thing industry picture phone network erode begin squirrel clarify spread grow";

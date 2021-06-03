@@ -1,1 +1,1 @@
-var mnemonic = "monkey void inmate grass fossil fluid grain blanket become version fork west";
+var mnemonic = "faith pulse convince speed diary bleak oppose lazy damp group debate also";

@@ -1,1 +1,1 @@
-var mnemonic = "glory inquiry element accuse gasp build ball pencil isolate much inherit picture";
+var mnemonic = "pudding novel finish accident alley word start rifle armor razor setup guilt";

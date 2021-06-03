@@ -1,1 +1,1 @@
-var mnemonic = "salon oven exhibit bracket remember arrest wood shy barely dish audit borrow";
+var mnemonic = "kingdom seed sting pink visual neither until outside pyramid prize velvet scan";

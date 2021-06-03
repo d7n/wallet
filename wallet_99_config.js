@@ -1,1 +1,1 @@
-var mnemonic = "luxury deny uniform festival leader scare check menu odor auto ten primary";
+var mnemonic = "fruit whip plate palm void auction cricket worry such right furnace quiz";

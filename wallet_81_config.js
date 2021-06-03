@@ -1,1 +1,1 @@
-var mnemonic = "rural rival february join stone average web reward hundred wild infant primary";
+var mnemonic = "index company put embody panther debate melody idea manage bright option genre";

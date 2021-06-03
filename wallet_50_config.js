@@ -1,1 +1,1 @@
-var mnemonic = "now rebuild boat because unfair cinnamon impulse response brother garment begin want";
+var mnemonic = "shine squeeze verb upper genius appear frost quit found repair saddle buffalo";

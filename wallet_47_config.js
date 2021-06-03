@@ -1,1 +1,1 @@
-var mnemonic = "scene orange street reduce hamster bundle large assume glass twice phone echo";
+var mnemonic = "room crew dentist oval desk note cash town foot uniform ankle capable";

@@ -1,1 +1,1 @@
-var mnemonic = "merry expand napkin path example keen spy champion cheap act oval scan";
+var mnemonic = "whale room despair cargo purse hub family main meat dune stage bid";

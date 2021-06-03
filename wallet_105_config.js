@@ -1,1 +1,1 @@
-var mnemonic = "bounce genuine fabric card apple snap outside movie hair town undo balcony";
+var mnemonic = "fault cancel gas brush upper lawsuit custom exotic custom grape venture casino";

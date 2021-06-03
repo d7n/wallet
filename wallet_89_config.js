@@ -1,1 +1,1 @@
-var mnemonic = "submit alien tell win edit teach drop body oblige vanish unique endless";
+var mnemonic = "speak scorpion monkey own oak squirrel filter asthma index decline viable mammal";

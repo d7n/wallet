@@ -1,1 +1,1 @@
-var mnemonic = "object toilet flip dwarf ship minor laugh above firm dove other pistol";
+var mnemonic = "rather spread lift tomorrow erode thumb stamp mystery orbit crop notice employ";

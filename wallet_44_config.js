@@ -1,1 +1,1 @@
-var mnemonic = "soft enhance view grant wagon stock adapt giggle venture market source enable";
+var mnemonic = "purse swap stem runway trim firm lift empower vapor require family scale";

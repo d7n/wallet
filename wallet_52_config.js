@@ -1,1 +1,1 @@
-var mnemonic = "genius portion planet absent siren stadium legend swift athlete parrot anger idea";
+var mnemonic = "rail yard solve expand stuff rocket oil cactus twin endorse keep brave";

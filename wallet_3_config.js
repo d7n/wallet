@@ -1,1 +1,1 @@
-var mnemonic = "sick scout shoulder drive antique news license company level evolve educate imitate";
+var mnemonic = "task satisfy measure steak memory frequent brown deny fat final trash property";

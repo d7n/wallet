@@ -1,1 +1,1 @@
-var mnemonic = "already laptop stadium rose expect amused total truth uphold all twenty knee";
+var mnemonic = "topple galaxy weekend wisdom pumpkin spread laundry harvest slam crush kick bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "escape surprise seven coconut century acquire permit spring thumb bachelor banana onion";
+var mnemonic = "bomb corn mechanic grass buddy mother mad blind luggage prosper mechanic dolphin";

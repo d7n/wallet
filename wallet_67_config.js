@@ -1,1 +1,1 @@
-var mnemonic = "chest tunnel program awkward jealous blade carry gospel wife there news regular";
+var mnemonic = "fine drum april void skill wife afford swim swing scissors helmet taste";

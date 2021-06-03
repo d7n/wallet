@@ -1,1 +1,1 @@
-var mnemonic = "flee neck slab type hip clap bottom field helmet toss depart cycle";
+var mnemonic = "frown six warrior plunge tiny three category convince gate section kidney grow";

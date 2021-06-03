@@ -1,1 +1,1 @@
-var mnemonic = "acquire almost repeat era liquid blur uphold leaf crack razor rich melody";
+var mnemonic = "movie season hurry make manage acid correct much coil rather alert video";

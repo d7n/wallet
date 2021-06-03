@@ -1,1 +1,1 @@
-var mnemonic = "end squirrel glory stem leisure boat boss say affair betray trouble asthma";
+var mnemonic = "addict owner antenna bronze hat fit amount outside calm inhale salmon similar";

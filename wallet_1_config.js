@@ -1,1 +1,1 @@
-var mnemonic = "hundred success inflict pact liberty inch pear trial capable frog bring opera";
+var mnemonic = "catalog debate exact learn sword enough rabbit mass real media steak follow";

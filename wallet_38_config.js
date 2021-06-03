@@ -1,1 +1,1 @@
-var mnemonic = "swear sustain art walk push bus topple family dinner glove sweet carbon";
+var mnemonic = "float present mushroom setup miracle frequent into orchard north mom predict fall";

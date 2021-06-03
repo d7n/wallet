@@ -1,1 +1,1 @@
-var mnemonic = "master ghost squirrel mistake write cry pole trip rival hamster program hello";
+var mnemonic = "birth essay marine belt source round basic angle now miracle harvest analyst";

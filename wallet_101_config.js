@@ -1,1 +1,1 @@
-var mnemonic = "enemy sense load dwarf female search olive credit base short view sword";
+var mnemonic = "rabbit key gospel man fog salt pistol sock fox put pizza alarm";

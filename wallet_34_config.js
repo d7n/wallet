@@ -1,1 +1,1 @@
-var mnemonic = "mistake borrow credit globe craft fancy aisle bundle primary frequent anxiety essay";
+var mnemonic = "blur result future gas shiver finger funny corn wheel bread patrol space";

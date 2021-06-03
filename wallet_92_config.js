@@ -1,1 +1,1 @@
-var mnemonic = "language year toy galaxy dream puzzle cube choice stadium turtle surround project";
+var mnemonic = "panic velvet hen evidence steak glove height destroy ready enable seed option";

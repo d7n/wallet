@@ -1,1 +1,1 @@
-var mnemonic = "jar tag load jeans eyebrow hint easily carpet obey renew task finger";
+var mnemonic = "snake age stage sketch vicious possible peanut cement magic pledge crater wide";

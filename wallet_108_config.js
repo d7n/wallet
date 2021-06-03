@@ -1,1 +1,1 @@
-var mnemonic = "boy nation life cat bless chat escape oxygen palace girl slot open";
+var mnemonic = "honey attitude faint recycle true core position believe music addict analyst cram";

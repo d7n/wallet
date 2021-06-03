@@ -1,1 +1,1 @@
-var mnemonic = "still hole grunt gaze various leave ordinary economy hub friend around current";
+var mnemonic = "void wall exit worry shield surface abuse develop auction manual lava soccer";

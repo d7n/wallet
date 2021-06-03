@@ -1,1 +1,1 @@
-var mnemonic = "expire arctic entire resemble shoe cash prevent fly expand dignity labor above";
+var mnemonic = "lounge leg blast build fly device bargain luggage toast achieve umbrella insane";

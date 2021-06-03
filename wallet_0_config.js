@@ -1,1 +1,1 @@
-var mnemonic = "clown alcohol stuff device theme universe category peasant save ball recipe improve";
+var mnemonic = "behave snow vital goat gaze pass love vintage size hamster hollow valley";

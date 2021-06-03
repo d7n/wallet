@@ -1,1 +1,1 @@
-var mnemonic = "cream industry mixture angry visit uphold join measure school uncover vacuum fork";
+var mnemonic = "annual climb kick unknown odor mesh attract nerve twice teach demand fiction";

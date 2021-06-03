@@ -1,1 +1,1 @@
-var mnemonic = "conduct crawl firm result country tattoo off matter stomach ancient melody plate";
+var mnemonic = "maple delay fancy column timber avocado keen off energy auto swift evoke";

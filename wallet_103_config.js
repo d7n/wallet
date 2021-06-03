@@ -1,1 +1,1 @@
-var mnemonic = "shove solve chair text paddle dash rely deal talent fashion life fever";
+var mnemonic = "divert brief clerk easy mix hour other outside minute employ scale flee";

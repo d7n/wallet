@@ -1,1 +1,1 @@
-var mnemonic = "tornado resist shine amount trash best mountain submit nation already toast buyer";
+var mnemonic = "estate initial design tiny bind crack into review drive problem bargain capable";

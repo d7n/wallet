@@ -1,1 +1,1 @@
-var mnemonic = "lawn defy erupt fever dinner state hamster utility kit disagree journey diamond";
+var mnemonic = "situate raccoon hair assault object daring rifle drip dilemma valid another pumpkin";

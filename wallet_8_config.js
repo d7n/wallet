@@ -1,1 +1,1 @@
-var mnemonic = "air ivory smile joke popular wolf noble soul cricket envelope ugly brief";
+var mnemonic = "during path rent relax cabin olympic museum dust win festival spirit biology";
