@@ -1,1 +1,1 @@
-var mnemonic = "smart endless used step tackle jeans surge find render song bottom liar";
+var mnemonic = "resemble sea tower gravity code room gravity multiply night renew fuel mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "tone quit bacon pact lunar tunnel under today gun inquiry girl grass";
+var mnemonic = "spirit hospital vague dumb much brisk toilet thought uncle boss magic brass";

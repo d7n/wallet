@@ -1,1 +1,1 @@
-var mnemonic = "silly bind unfair lamp repeat dismiss transfer gold coach want obvious income";
+var mnemonic = "coffee vocal year cycle aerobic script relief buyer napkin talent absurd scrub";

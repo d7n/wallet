@@ -1,1 +1,1 @@
-var mnemonic = "enable sword marine sick shop attack alarm wash region garment now correct";
+var mnemonic = "that nature ranch differ glove rare grant already sorry spike distance pill";

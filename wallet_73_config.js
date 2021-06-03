@@ -1,1 +1,1 @@
-var mnemonic = "hobby wire lunch fame fortune wait mind choose clutch same depth obscure";
+var mnemonic = "summer visa wide opera dizzy neither chat accident charge they pig lucky";

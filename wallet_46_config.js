@@ -1,1 +1,1 @@
-var mnemonic = "cupboard february balcony snow coil glide upset shadow pitch else concert actual";
+var mnemonic = "dog utility elite kite swear lounge borrow vapor clutch always census prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "crop firm voyage end scissors scale balance pass crucial moral slice artwork";
+var mnemonic = "fix slot hat afraid elbow melt swap lab logic price eight laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare disagree cradle example correct lobster coffee ask slight elbow replace lift";
+var mnemonic = "venue furnace old hurt stone entry tongue cart mind similar victory scan";

@@ -1,1 +1,1 @@
-var mnemonic = "energy chaos eye double armor sail term lunar annual few beyond tray";
+var mnemonic = "season sound endorse sand brush ripple clinic draft ritual hotel circle neck";

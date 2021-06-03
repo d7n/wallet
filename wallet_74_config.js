@@ -1,1 +1,1 @@
-var mnemonic = "symptom rely orphan mask family dinosaur cost divide diet true holiday science";
+var mnemonic = "twice cool often roast glue offer extra embark deer warrior glide aspect";

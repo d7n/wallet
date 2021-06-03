@@ -1,1 +1,1 @@
-var mnemonic = "jewel behave leaf topple pink camp wheel dinosaur culture round kiss card";
+var mnemonic = "push scissors cushion grass bag check try glue dove neck stool other";

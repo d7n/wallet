@@ -1,1 +1,1 @@
-var mnemonic = "unlock season fabric report entire evidence prefer voice surge kidney fruit harvest";
+var mnemonic = "major word spoon emotion rack salt shed dream toy satoshi lonely window";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp shop need glad identify uphold point recall become tortoise furnace traffic";
+var mnemonic = "visit more abandon attend wear buzz silver priority young tape minimum october";

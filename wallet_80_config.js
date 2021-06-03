@@ -1,1 +1,1 @@
-var mnemonic = "silk debris vicious object clog swamp aware piano runway circle donkey slight";
+var mnemonic = "fog bridge horror avocado basic mushroom dismiss century unit grocery festival elevator";

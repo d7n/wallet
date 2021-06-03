@@ -1,1 +1,1 @@
-var mnemonic = "guide basic hunt elevator stock reward exotic check upper people lyrics mimic";
+var mnemonic = "ocean enact annual enable liar recipe muffin exit kit process prosper hazard";

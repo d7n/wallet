@@ -1,1 +1,1 @@
-var mnemonic = "artwork kind similar sauce stomach spy grow clerk crush romance outer tortoise";
+var mnemonic = "brand fetch ladder piano rely mom spider dose glove census skate inform";

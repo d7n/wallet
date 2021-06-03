@@ -1,1 +1,1 @@
-var mnemonic = "drill hold wire valid tide buffalo where wear castle fitness slab destroy";
+var mnemonic = "sell meadow mobile eyebrow nurse blood play opera hawk label duck core";

@@ -1,1 +1,1 @@
-var mnemonic = "atom physical island organ twelve shift future wage actor where problem chat";
+var mnemonic = "few grief ahead flavor wage float plastic lock report entire book brush";

@@ -1,1 +1,1 @@
-var mnemonic = "census beef mesh evidence robust avoid worry earn retreat hello pluck young";
+var mnemonic = "route van repair social limit boy ability bomb tumble picnic hidden hope";

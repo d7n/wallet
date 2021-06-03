@@ -1,1 +1,1 @@
-var mnemonic = "behave hundred early company board lesson initial admit diet will mobile pass";
+var mnemonic = "mechanic category october steel loud lizard decide token pipe apart reduce carpet";

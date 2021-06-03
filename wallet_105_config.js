@@ -1,1 +1,1 @@
-var mnemonic = "tone rent essay dinosaur album tragic weapon erupt replace bag acoustic section";
+var mnemonic = "tattoo dawn actor doll floor thing reveal couple stereo fat capable trade";

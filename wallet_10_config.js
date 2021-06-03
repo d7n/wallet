@@ -1,1 +1,1 @@
-var mnemonic = "lock property bench light salad embody note observe pistol crowd craft banana";
+var mnemonic = "tilt huge deputy decide depend fatal seek biology uncle huge used artefact";

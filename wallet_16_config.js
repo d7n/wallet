@@ -1,1 +1,1 @@
-var mnemonic = "expose citizen tail silent increase deputy siege cliff want vague slim high";
+var mnemonic = "police upper spoon glow display blossom whisper can rug plastic tomato beauty";

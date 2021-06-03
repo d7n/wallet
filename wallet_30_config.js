@@ -1,1 +1,1 @@
-var mnemonic = "maple actor great mammal erupt cycle helmet unhappy damage race near bamboo";
+var mnemonic = "artefact under loyal banner once all squeeze runway easily good drama husband";

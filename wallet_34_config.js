@@ -1,1 +1,1 @@
-var mnemonic = "replace asthma amateur nose velvet ordinary record harvest vacuum abstract error present";
+var mnemonic = "salad trap lesson crucial appear rug sadness indoor bar empty settle tide";

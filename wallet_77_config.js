@@ -1,1 +1,1 @@
-var mnemonic = "aspect cinnamon large vapor body behind urge common room dilemma liberty bonus";
+var mnemonic = "stock candy layer grab humble north tooth equal regret hire announce smooth";

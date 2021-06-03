@@ -1,1 +1,1 @@
-var mnemonic = "scout blast jacket boy island hood burger salt enforce retreat unit stable";
+var mnemonic = "license morning legal rain sense scale border lizard hello grant describe vague";

@@ -1,1 +1,1 @@
-var mnemonic = "tower silly add heavy foster degree theme crazy airport execute link stable";
+var mnemonic = "around only neck flock will eternal venture connect banner cancel solid blossom";

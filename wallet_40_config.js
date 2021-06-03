@@ -1,1 +1,1 @@
-var mnemonic = "pizza brown dose magic this open express outside bread apple question final";
+var mnemonic = "please side bleak melt gospel antenna also panic trim pulp transfer dilemma";

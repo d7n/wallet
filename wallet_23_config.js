@@ -1,1 +1,1 @@
-var mnemonic = "tuna disease toy chapter duck adult cactus divorce clip benefit aware visual";
+var mnemonic = "evolve evil inner settle bright dice track grit general spy elbow gaze";

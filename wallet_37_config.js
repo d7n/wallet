@@ -1,1 +1,1 @@
-var mnemonic = "shock avocado shoot occur predict blouse brother return begin artefact nerve animal";
+var mnemonic = "skin rural success weasel cause carry adult loop cup carry shaft flat";

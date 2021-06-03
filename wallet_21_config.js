@@ -1,1 +1,1 @@
-var mnemonic = "age gate rebel dune cycle coyote sister real lake economy industry setup";
+var mnemonic = "mansion picnic awesome leaf tattoo burger series ready heavy weasel inject demand";

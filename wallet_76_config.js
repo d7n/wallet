@@ -1,1 +1,1 @@
-var mnemonic = "honey egg region peace hire news silly mountain acid october average stove";
+var mnemonic = "ugly auto expose taste swim enact warm depend always kit deer innocent";

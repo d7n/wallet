@@ -1,1 +1,1 @@
-var mnemonic = "erupt scissors fury verify monitor riot joke wisdom hurdle hockey crowd sentence";
+var mnemonic = "ticket ocean train brain portion effort clown guitar sentence street paddle bright";

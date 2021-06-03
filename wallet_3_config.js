@@ -1,1 +1,1 @@
-var mnemonic = "toward sudden news wild exact track junk credit identify install actual scan";
+var mnemonic = "clown adult swing craft robust tilt inflict maze young omit curtain execute";

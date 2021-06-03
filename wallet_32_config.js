@@ -1,1 +1,1 @@
-var mnemonic = "oval another negative swallow buddy runway crash trade buddy use balance gauge";
+var mnemonic = "captain sibling width barrel conduct absorb orange depend donor east wife differ";

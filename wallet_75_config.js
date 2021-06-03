@@ -1,1 +1,1 @@
-var mnemonic = "iron crowd smile lawsuit slab enlist buyer major shoot wing friend illness";
+var mnemonic = "liquid impose stereo perfect awake wolf check adjust caught interest simple oven";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake rotate rotate season hold snap surface green slight leg spoil boost";
+var mnemonic = "oblige patrol lizard scrap match ask avoid ripple diary fortune symptom filter";

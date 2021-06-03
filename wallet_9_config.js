@@ -1,1 +1,1 @@
-var mnemonic = "hurdle kid apology spy common echo borrow industry excuse save ocean scare";
+var mnemonic = "office upgrade appear cluster steel obvious hen scheme abuse reform gasp decade";

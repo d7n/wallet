@@ -1,1 +1,1 @@
-var mnemonic = "picture plastic stadium flight law pig speed shock purchase receive energy upgrade";
+var mnemonic = "trap witness glare trial cube asset better noodle consider diamond favorite pilot";

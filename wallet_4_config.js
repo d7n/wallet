@@ -1,1 +1,1 @@
-var mnemonic = "letter dawn level quick offer essence kit castle pool romance bulk ridge";
+var mnemonic = "south great sketch own hire road rug surround company custom account ski";

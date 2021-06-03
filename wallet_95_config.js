@@ -1,1 +1,1 @@
-var mnemonic = "emerge impose retreat grit nature reform interest parent raw stereo enemy whip";
+var mnemonic = "action turkey disease real again naive tell inside medal obscure rigid puppy";

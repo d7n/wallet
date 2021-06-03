@@ -1,1 +1,1 @@
-var mnemonic = "drastic loud sample shiver immense letter future hurt grace elite tongue autumn";
+var mnemonic = "cook search return tongue suspect fit nasty empty foam evidence sweet drop";

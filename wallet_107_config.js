@@ -1,1 +1,1 @@
-var mnemonic = "sing eight away replace become mixed clown occur elite roast remain swarm";
+var mnemonic = "public rookie trick dolphin scare buyer purpose unit success staff choice guide";

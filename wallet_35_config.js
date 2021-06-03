@@ -1,1 +1,1 @@
-var mnemonic = "kingdom chaos fame ridge that amateur tray bread lizard speak install fee";
+var mnemonic = "fashion height then oppose sample entry evolve echo kidney pond journey right";

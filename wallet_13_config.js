@@ -1,1 +1,1 @@
-var mnemonic = "lamp margin decade ugly cheap force quote inside crop oxygen finger allow";
+var mnemonic = "anxiety where guess bracket cat air school among around screen envelope accident";

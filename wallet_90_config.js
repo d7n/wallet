@@ -1,1 +1,1 @@
-var mnemonic = "alter mystery creek jump acoustic involve snack baby balance adult oxygen sudden";
+var mnemonic = "spider ability uniform airport ostrich oppose chest fury sing cross member now";

@@ -1,1 +1,1 @@
-var mnemonic = "wave traffic plate woman receive stuff volcano vocal ostrich rural actress soul";
+var mnemonic = "evolve ring clean card audit spice treat loan erase veteran correct elbow";

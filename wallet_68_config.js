@@ -1,1 +1,1 @@
-var mnemonic = "artwork suffer galaxy layer catalog connect argue current cliff island apart waste";
+var mnemonic = "cook easy sheriff october among enough cushion depth settle state cannon puzzle";

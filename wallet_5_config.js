@@ -1,1 +1,1 @@
-var mnemonic = "possible pledge risk curious sleep mixture erase mind choice tired butter hybrid";
+var mnemonic = "voice chronic dinosaur wealth print cupboard view taxi other mesh coral hobby";

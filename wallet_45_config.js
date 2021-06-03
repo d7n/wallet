@@ -1,1 +1,1 @@
-var mnemonic = "pluck junk label tag book symbol atom soap wear forest repeat intact";
+var mnemonic = "language excess tank glance example still rival dove maid undo unit innocent";

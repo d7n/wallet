@@ -1,1 +1,1 @@
-var mnemonic = "robust defy thought digital cram artefact prefer truck worry spatial ignore smart";
+var mnemonic = "tomorrow ten height spray pride couple drop ghost drama sentence tissue later";

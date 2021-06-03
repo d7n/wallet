@@ -1,1 +1,1 @@
-var mnemonic = "whale make hen virtual come proof change school dutch wall photo smooth";
+var mnemonic = "rude rely divide suit pepper illegal wave page amount trip captain easily";

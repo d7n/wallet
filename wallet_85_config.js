@@ -1,1 +1,1 @@
-var mnemonic = "boost gaze boy street moon town misery clock act speak reject donkey";
+var mnemonic = "pumpkin unknown donate december odor draw void excuse cupboard mother sock economy";

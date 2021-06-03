@@ -1,1 +1,1 @@
-var mnemonic = "spy cause increase dynamic jacket lamp digital genre ladder drive lunar filter";
+var mnemonic = "edge letter candy possible weasel scene inmate muscle share family behind congress";

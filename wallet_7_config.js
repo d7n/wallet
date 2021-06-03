@@ -1,1 +1,1 @@
-var mnemonic = "slot section sustain behind latin tragic copper panic gorilla jeans average fiber";
+var mnemonic = "squeeze make wisdom acid upon off course pitch right need autumn disagree";

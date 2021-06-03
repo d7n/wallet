@@ -1,1 +1,1 @@
-var mnemonic = "cancel helmet boil lounge cable promote shiver chat island lion reform almost";
+var mnemonic = "sustain name rather chest define control buyer address attack author cloth arrange";

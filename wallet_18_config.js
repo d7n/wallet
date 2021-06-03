@@ -1,1 +1,1 @@
-var mnemonic = "effort left labor canal own invite nasty submit inherit element banana forum";
+var mnemonic = "picture suit shy fault mail stove city crane act train credit garden";

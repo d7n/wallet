@@ -1,1 +1,1 @@
-var mnemonic = "trip hedgehog shift attract pigeon ski certain remove corn rose pitch disagree";
+var mnemonic = "comfort manage glimpse spider stage knock frost dawn anger comic firm group";

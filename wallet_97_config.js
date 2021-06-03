@@ -1,1 +1,1 @@
-var mnemonic = "scissors price amount dose direct session inspire pudding symptom knock joy goddess";
+var mnemonic = "dawn race envelope mind stadium divorce census under same symbol bean anger";

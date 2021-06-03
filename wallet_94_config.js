@@ -1,1 +1,1 @@
-var mnemonic = "summer taste hotel avocado toddler cricket siege because lawn trap swallow unfold";
+var mnemonic = "frozen family disagree moment hawk hair accuse derive humor can blade copy";

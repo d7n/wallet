@@ -1,1 +1,1 @@
-var mnemonic = "biology rent hello cancel acid raven math cool army wise dragon lounge";
+var mnemonic = "miss person easy hip repair reject move logic truth apple teach series";

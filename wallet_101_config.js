@@ -1,1 +1,1 @@
-var mnemonic = "famous awesome abandon program harbor conduct symptom page grocery female fringe rough";
+var mnemonic = "eye symbol sadness few exhibit tornado mango maple ask furnace kangaroo element";

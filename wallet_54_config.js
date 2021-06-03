@@ -1,1 +1,1 @@
-var mnemonic = "tank pride evoke dish hard zoo bleak burst another meadow foster cattle";
+var mnemonic = "entry real crouch expand fat champion immune math obvious town ring airport";

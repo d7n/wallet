@@ -1,1 +1,1 @@
-var mnemonic = "rival shrimp abandon oblige reunion scout practice board toss off sunset glide";
+var mnemonic = "obtain doctor outside scatter visit dial knife duck core blue pulp erosion";

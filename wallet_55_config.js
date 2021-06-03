@@ -1,1 +1,1 @@
-var mnemonic = "shove quit crane half atom anger web squeeze fury unhappy search industry";
+var mnemonic = "explain forget use skate estate pledge relax cage hockey allow plate noodle";

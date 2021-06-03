@@ -1,1 +1,1 @@
-var mnemonic = "tennis festival fresh captain street turkey original exercise excess tattoo hedgehog push";
+var mnemonic = "ensure donor flag other play frown prevent hover artwork opinion smart betray";

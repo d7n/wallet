@@ -1,1 +1,1 @@
-var mnemonic = "brown car kidney document sorry purpose chuckle satisfy express ring notice demise";
+var mnemonic = "pave help debate load juice pilot second census conduct cotton level belt";

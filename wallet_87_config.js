@@ -1,1 +1,1 @@
-var mnemonic = "vote green field cream couch december flash hat mouse goose lift wrong";
+var mnemonic = "hard vacant catch dutch cactus grape absurd amazing curious like lift silent";

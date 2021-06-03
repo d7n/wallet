@@ -1,1 +1,1 @@
-var mnemonic = "friend current pilot client scorpion fish glance vague payment radio gift post";
+var mnemonic = "letter dolphin silent canal outdoor impact stand airport sustain split atom decorate";

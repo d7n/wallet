@@ -1,1 +1,1 @@
-var mnemonic = "disorder note faith emerge rescue wave scale record parent reopen surface clerk";
+var mnemonic = "horse affair topic flag foot deputy film scout minor dolphin reunion mean";

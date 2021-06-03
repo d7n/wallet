@@ -1,1 +1,1 @@
-var mnemonic = "lecture artwork split blind hockey average night report motor repair cradle picture";
+var mnemonic = "shrug negative exist rain burst top celery keep cave call fog child";

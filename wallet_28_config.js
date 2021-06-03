@@ -1,1 +1,1 @@
-var mnemonic = "cross birth food blue acoustic awkward motor float swarm spirit vacuum fantasy";
+var mnemonic = "filter bundle vibrant twin obscure arrange nice movie horn candy claim insane";

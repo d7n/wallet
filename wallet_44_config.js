@@ -1,1 +1,1 @@
-var mnemonic = "harbor oven expose regret evolve rookie toss horse topple kick cake menu";
+var mnemonic = "party just dust move staff dinner creek vehicle subject crumble metal mule";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant jungle between cruel exercise upgrade castle outdoor summer unfair comfort blame";
+var mnemonic = "devote tobacco course until trash crisp hazard field output move awful inject";

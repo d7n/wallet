@@ -1,1 +1,1 @@
-var mnemonic = "make ritual detail sustain owner can cloth abuse quote during crime depart";
+var mnemonic = "pilot execute square tray grab fruit awful before turtle case team boat";

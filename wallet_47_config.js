@@ -1,1 +1,1 @@
-var mnemonic = "truth later couple front online good tattoo clip ice faint early satoshi";
+var mnemonic = "magnet mutual pretty stairs cost relax vibrant derive lounge feed inform sphere";

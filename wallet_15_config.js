@@ -1,1 +1,1 @@
-var mnemonic = "domain hospital say country spike defense rail cloth knife unaware wave joke";
+var mnemonic = "grit health burger trap insect blanket month crane achieve injury estate loan";

@@ -1,1 +1,1 @@
-var mnemonic = "captain cube risk onion two toddler brush base rule either mandate whip";
+var mnemonic = "often galaxy slab shuffle task mammal ability ocean slender exile business goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "route bitter just attend member outdoor velvet track tail outer guitar fiction";
+var mnemonic = "mercy furnace modify firm chef salt urge glow vanish turn ridge glimpse";

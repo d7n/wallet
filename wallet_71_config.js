@@ -1,1 +1,1 @@
-var mnemonic = "rebel text drift antique pioneer surge head balcony betray toilet because blame";
+var mnemonic = "follow joke real grape potato fame boil sustain retire velvet various inmate";

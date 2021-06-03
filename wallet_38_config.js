@@ -1,1 +1,1 @@
-var mnemonic = "royal tone rule rough access lounge woman patch mass nature opera bullet";
+var mnemonic = "remain come whisper whip vendor whip output roof oak fitness pull cousin";

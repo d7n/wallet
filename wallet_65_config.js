@@ -1,1 +1,1 @@
-var mnemonic = "bench slam frequent have honey salad logic oblige win boat explain moral";
+var mnemonic = "cliff gallery right pledge praise zoo flee salad motion course hawk winner";

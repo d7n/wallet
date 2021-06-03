@@ -1,1 +1,1 @@
-var mnemonic = "unique refuse evidence give catch suit suit artwork border math rather kick";
+var mnemonic = "marble skill awesome betray funny oval dish outdoor scatter belt crystal work";

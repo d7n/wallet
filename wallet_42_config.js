@@ -1,1 +1,1 @@
-var mnemonic = "tail fly tornado cargo lake manage side person wish wish split warrior";
+var mnemonic = "patch alpha agent rug segment absent slam core solar then chunk amount";

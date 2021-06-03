@@ -1,1 +1,1 @@
-var mnemonic = "purchase pause deny together either chat potato beyond spirit best struggle enable";
+var mnemonic = "brief damage paper neck clap adult onion scrap torch pluck wreck globe";
