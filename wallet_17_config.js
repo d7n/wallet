@@ -1,1 +1,1 @@
-var mnemonic = "flower imitate priority soap crash purchase afford weird bar end frequent mystery";
+var mnemonic = "profit hospital goose palm salt smile culture talk tilt essence jacket solar";

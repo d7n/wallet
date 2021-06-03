@@ -1,1 +1,1 @@
-var mnemonic = "nasty develop total return face auto hockey glimpse shallow little lamp sudden";
+var mnemonic = "quick tree fantasy pudding movie casual all upgrade quiz coral album company";

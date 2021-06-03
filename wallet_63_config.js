@@ -1,1 +1,1 @@
-var mnemonic = "sunset safe hire thumb alone garage chat grab domain neutral vacant cost";
+var mnemonic = "host pride october dizzy prize genius keep stock smart memory twenty table";

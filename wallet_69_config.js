@@ -1,1 +1,1 @@
-var mnemonic = "stuff bubble undo item twin index strike cliff ugly foot satisfy sausage";
+var mnemonic = "voyage dragon foster target input visit raise initial faint join this faculty";

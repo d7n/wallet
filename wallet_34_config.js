@@ -1,1 +1,1 @@
-var mnemonic = "mandate devote sport airport knife clip swap happy issue dignity tobacco sphere";
+var mnemonic = "sunset thrive travel truly razor inject castle paper keep wait ivory model";

@@ -1,1 +1,1 @@
-var mnemonic = "kid heart mom scrap page fashion scatter state wage globe cube rule";
+var mnemonic = "repeat health segment priority little apology path order extra ill turtle mom";

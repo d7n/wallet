@@ -1,1 +1,1 @@
-var mnemonic = "mix follow very utility assume expire ancient reward faint situate blade foster";
+var mnemonic = "hobby urge one tackle advice grit run magic inherit wreck confirm glad";

@@ -1,1 +1,1 @@
-var mnemonic = "shift steel wisdom decorate lens fresh print inner horn mistake shoe more";
+var mnemonic = "faith siege woman twist search wall human federal sight basket midnight barely";

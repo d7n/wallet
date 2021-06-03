@@ -1,1 +1,1 @@
-var mnemonic = "stem refuse tissue access naive library humor spatial artwork soup mushroom blade";
+var mnemonic = "industry aim tribe pride invite aunt neither sausage mystery lift gaze river";

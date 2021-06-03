@@ -1,1 +1,1 @@
-var mnemonic = "mix upgrade mechanic ancient tomorrow inch chalk owner east matrix ostrich afraid";
+var mnemonic = "mad heavy praise luxury feature remove thank path hybrid clutch people equal";

@@ -1,1 +1,1 @@
-var mnemonic = "usual debris ceiling satisfy oven wealth female dutch critic assist metal tackle";
+var mnemonic = "caught lab fat grunt two patch mixed intact symbol pony trial used";

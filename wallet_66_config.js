@@ -1,1 +1,1 @@
-var mnemonic = "pulse radar tent menu lesson high street train detail solve sting stay";
+var mnemonic = "sweet can inquiry amused aisle laptop worth reopen purity plastic ensure sail";

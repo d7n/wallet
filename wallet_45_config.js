@@ -1,1 +1,1 @@
-var mnemonic = "siren situate belt wire girl august draw type misery pretty mystery harbor";
+var mnemonic = "play danger intact endorse goddess idea flush mesh puzzle holiday rain twin";

@@ -1,1 +1,1 @@
-var mnemonic = "crane common dynamic shy crystal favorite good deal hold hurry human finger";
+var mnemonic = "warfare lock rebel angle click pioneer frost hundred change start door elder";

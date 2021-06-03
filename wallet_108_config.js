@@ -1,1 +1,1 @@
-var mnemonic = "pipe pitch fortune inner laugh dinner strong differ please adult trick hour";
+var mnemonic = "fox dose usual sick image affair page hat shield fatal lift curious";

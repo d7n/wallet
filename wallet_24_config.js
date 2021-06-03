@@ -1,1 +1,1 @@
-var mnemonic = "problem collect mind tube jazz culture clinic stool repeat escape goat avocado";
+var mnemonic = "tissue bread render fringe museum change proof turkey base potato wrestle thing";

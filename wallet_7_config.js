@@ -1,1 +1,1 @@
-var mnemonic = "hunt concert large behind virus shed pride marine vicious bring axis rail";
+var mnemonic = "attitude sad picture note exhibit cart unfold regret fix gown same gentle";

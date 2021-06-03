@@ -1,1 +1,1 @@
-var mnemonic = "all mule bulk dove regret neck crumble afraid dwarf final galaxy romance";
+var mnemonic = "acid choice truck crane bean venture accident bless rate crater era resist";

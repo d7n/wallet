@@ -1,1 +1,1 @@
-var mnemonic = "rich vanish butter phrase raccoon blush parent another town ridge near dutch";
+var mnemonic = "remove advice coyote promote permit session hire save latin donkey panther obvious";

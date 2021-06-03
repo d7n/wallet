@@ -1,1 +1,1 @@
-var mnemonic = "enter any hazard limb twice puzzle increase match pyramid lawn ordinary round";
+var mnemonic = "husband afford actual chicken unique bird enact logic afford whale luxury hunt";

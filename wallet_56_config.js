@@ -1,1 +1,1 @@
-var mnemonic = "vendor nothing cycle mix member someone sister shaft inside helmet buyer sorry";
+var mnemonic = "deal bright awesome chase board lawn miracle anchor near rural fashion acquire";

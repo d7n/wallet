@@ -1,1 +1,1 @@
-var mnemonic = "rotate gasp depth idea buyer science waste whisper spell thing mass toddler";
+var mnemonic = "capital judge scheme school music friend another exhibit insect limb happy impulse";

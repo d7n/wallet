@@ -1,1 +1,1 @@
-var mnemonic = "reunion usage secret ancient ordinary install clock size sunny wasp engine person";
+var mnemonic = "federal grant thank key accuse reveal average chat beach crane hood mind";

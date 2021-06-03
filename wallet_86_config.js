@@ -1,1 +1,1 @@
-var mnemonic = "announce toward hunt holiday mandate humor taste hawk camp angry stone ginger";
+var mnemonic = "grab business gospel define asset mechanic logic fancy clog neck text fat";

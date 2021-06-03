@@ -1,1 +1,1 @@
-var mnemonic = "what undo security finish melt antique slam blade boil code elephant sausage";
+var mnemonic = "trash craft like obscure solid motion betray industry bid metal ceiling good";

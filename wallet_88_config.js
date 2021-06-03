@@ -1,1 +1,1 @@
-var mnemonic = "job swarm attend load course subway desk chicken clean nature delay trade";
+var mnemonic = "picture shove salt always away trust soap dial rib six vicious bottom";

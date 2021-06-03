@@ -1,1 +1,1 @@
-var mnemonic = "paper fit robust atom polar mystery soap release sense title rail engage";
+var mnemonic = "female gown few close ostrich siren offer version weapon arrow hen chicken";

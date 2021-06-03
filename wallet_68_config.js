@@ -1,1 +1,1 @@
-var mnemonic = "employ shoulder live sausage wagon satoshi swallow two photo age bacon monkey";
+var mnemonic = "pipe arena payment dress anger sock forum truly orbit emerge army nice";

@@ -1,1 +1,1 @@
-var mnemonic = "degree once manual despair age tip appear arm beauty morning infant name";
+var mnemonic = "business inform hero vital ranch copper easy oven rude vocal early endorse";

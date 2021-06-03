@@ -1,1 +1,1 @@
-var mnemonic = "math such atom belt left replace affair demand satisfy summer foil december";
+var mnemonic = "pioneer uncle thought palm elevator syrup water spatial journey series wait bar";

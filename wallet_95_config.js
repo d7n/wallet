@@ -1,1 +1,1 @@
-var mnemonic = "reveal treat person alone party zone van zone piano forum risk note";
+var mnemonic = "aim gain little cancel amazing favorite hungry old legal hungry evolve cross";

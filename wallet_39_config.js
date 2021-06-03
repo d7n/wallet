@@ -1,1 +1,1 @@
-var mnemonic = "brick silent unveil shadow use effort clarify teach keen when garden limit";
+var mnemonic = "original search energy exact gold wrap parrot enrich chase advance oyster thank";

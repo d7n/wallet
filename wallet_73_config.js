@@ -1,1 +1,1 @@
-var mnemonic = "rare patch mention slush major sentence loyal buyer finish only syrup bridge";
+var mnemonic = "agree dose palm cook critic fly large elephant air flip rocket style";

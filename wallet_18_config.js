@@ -1,1 +1,1 @@
-var mnemonic = "gather drip cage cruise pupil behave craft aunt diamond stadium own blur";
+var mnemonic = "spot enable pottery arrange mimic end bid give eternal sound castle disease";

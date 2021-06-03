@@ -1,1 +1,1 @@
-var mnemonic = "nice deny distance copy ostrich enough provide test remain opera flock scout";
+var mnemonic = "lawsuit vendor enter muffin pole parade south assume dinosaur lizard ready relax";

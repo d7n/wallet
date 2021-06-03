@@ -1,1 +1,1 @@
-var mnemonic = "achieve rebel supreme item exit expand cycle budget broken monkey canal glide";
+var mnemonic = "fiber solar gym double void increase physical burger true wisdom provide tornado";

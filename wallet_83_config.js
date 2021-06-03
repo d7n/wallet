@@ -1,1 +1,1 @@
-var mnemonic = "help harsh visit sound demand staff spider artwork open snap exhaust arrive";
+var mnemonic = "arrest high boil donate actor maximum myth knee web symbol reflect wasp";

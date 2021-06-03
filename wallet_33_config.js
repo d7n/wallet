@@ -1,1 +1,1 @@
-var mnemonic = "cargo gift sell cable ridge pulp twenty place edit announce measure mouse";
+var mnemonic = "tip deny title sponsor essay owner bomb you table average smart feed";

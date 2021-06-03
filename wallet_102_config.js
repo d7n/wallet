@@ -1,1 +1,1 @@
-var mnemonic = "hawk physical brown media iron lock have green sketch flip learn aware";
+var mnemonic = "kick reward joke flower kit wire evolve poverty carbon tip lady rate";

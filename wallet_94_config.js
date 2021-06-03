@@ -1,1 +1,1 @@
-var mnemonic = "recall discover latin label muffin firm nephew slice island wood search fury";
+var mnemonic = "welcome ship permit kite obtain truly kite such scare rubber below cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "undo upgrade skin chapter word century weather force capital jelly jump gadget";
+var mnemonic = "mesh alter cruise parrot hotel come method deputy obvious album scout hidden";

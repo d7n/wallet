@@ -1,1 +1,1 @@
-var mnemonic = "era key caught clump jar lobster filter dash pill kangaroo glass usual";
+var mnemonic = "bullet rescue fatigue protect dwarf alien stay fresh auto quiz label term";

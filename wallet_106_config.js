@@ -1,1 +1,1 @@
-var mnemonic = "layer reflect program human run digital dust morning door muffin buffalo smile";
+var mnemonic = "local setup maple horn chronic street thought awkward dinner arctic salon wage";

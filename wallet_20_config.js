@@ -1,1 +1,1 @@
-var mnemonic = "sweet mirror pair glue exclude leave segment action planet symptom system burden";
+var mnemonic = "tobacco sword emotion express dad place hire chair maple fortune among fetch";

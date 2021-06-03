@@ -1,1 +1,1 @@
-var mnemonic = "frozen fog response awkward tent token turn thing eagle ostrich sugar parrot";
+var mnemonic = "salt duck flush april spirit pistol chat relief melody ankle village crumble";

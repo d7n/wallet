@@ -1,1 +1,1 @@
-var mnemonic = "ugly utility rude sphere crew erase tired ahead exercise undo ivory meat";
+var mnemonic = "couple company question evoke tribe comfort enjoy height fatigue gas marriage enjoy";

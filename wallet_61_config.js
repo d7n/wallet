@@ -1,1 +1,1 @@
-var mnemonic = "unable flame strategy cram gain adult version oak praise broccoli space jacket";
+var mnemonic = "twice trap cluster diamond warfare depth sustain check robust link skill inch";

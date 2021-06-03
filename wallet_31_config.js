@@ -1,1 +1,1 @@
-var mnemonic = "vintage opera chapter twenty more betray bean shove flip barrel book lottery";
+var mnemonic = "april switch wink suggest cause blame satisfy glow arctic wreck jacket hub";

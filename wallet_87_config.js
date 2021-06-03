@@ -1,1 +1,1 @@
-var mnemonic = "soup nature nephew child similar there outside tail fatigue ritual away top";
+var mnemonic = "visa island budget error cactus load vessel wall feed choose practice swift";

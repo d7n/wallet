@@ -1,1 +1,1 @@
-var mnemonic = "master connect bar private clog mail mandate net print foil ketchup nation";
+var mnemonic = "gauge letter narrow raccoon fantasy gossip text follow notable deny hard tennis";

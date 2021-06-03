@@ -1,1 +1,1 @@
-var mnemonic = "boy broccoli produce such spring dash night coast live dash column clutch";
+var mnemonic = "carry unfair wink predict expose deny ribbon stadium machine dirt patient loop";

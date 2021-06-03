@@ -1,1 +1,1 @@
-var mnemonic = "because purpose eagle hybrid power crumble income eyebrow salmon describe auction diet";
+var mnemonic = "fabric glue sphere margin teach service ill excess sugar exhibit protect success";

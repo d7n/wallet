@@ -1,1 +1,1 @@
-var mnemonic = "friend hurt weather gas demise spoon exotic ostrich middle arctic deny vanish";
+var mnemonic = "possible trade history they basic there earth ring peanut equip narrow foot";

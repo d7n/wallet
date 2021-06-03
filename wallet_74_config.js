@@ -1,1 +1,1 @@
-var mnemonic = "merry firm always vote try already black develop settle expire raise dirt";
+var mnemonic = "airport tube lock degree minimum exact urban ecology cactus lucky sketch story";

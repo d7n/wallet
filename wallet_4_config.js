@@ -1,1 +1,1 @@
-var mnemonic = "spatial original dolphin armor either capable puzzle check rug spider scale drop";
+var mnemonic = "doll wisdom soup behave syrup palm hidden pair tired sword fever mobile";

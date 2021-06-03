@@ -1,1 +1,1 @@
-var mnemonic = "coffee fee bunker autumn harvest wing legend badge crunch gadget sister inspire";
+var mnemonic = "pioneer slender expose race erosion orient dial loyal question unknown slab live";

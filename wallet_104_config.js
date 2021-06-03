@@ -1,1 +1,1 @@
-var mnemonic = "push mean solution social language satisfy client inch orphan sword large cool";
+var mnemonic = "rubber horn captain rug piano regular prize couch style depart museum girl";

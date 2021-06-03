@@ -1,1 +1,1 @@
-var mnemonic = "sniff device panda wire pulp reflect stuff peasant scene local myth galaxy";
+var mnemonic = "below insect penalty enlist fruit identify impulse ozone jacket tuition attend slogan";

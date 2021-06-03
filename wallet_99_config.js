@@ -1,1 +1,1 @@
-var mnemonic = "athlete emotion adjust resource celery fire vague topic note pupil trouble screen";
+var mnemonic = "fox april sweet hamster cross catch vanish ring aspect bar parade clock";

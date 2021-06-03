@@ -1,1 +1,1 @@
-var mnemonic = "scorpion zoo custom ankle pass vintage elegant walk bus winter loan another";
+var mnemonic = "civil lamp repeat front front cereal panel spike island neither treat bitter";

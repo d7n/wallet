@@ -1,1 +1,1 @@
-var mnemonic = "below own hair play great this era boring awake swear metal glad";
+var mnemonic = "actual cause shrimp area gravity spider carpet rapid holiday exotic fire elegant";

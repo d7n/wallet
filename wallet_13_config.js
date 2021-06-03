@@ -1,1 +1,1 @@
-var mnemonic = "thank spirit pill base indicate pretty someone trade reward damage inquiry civil";
+var mnemonic = "midnight right voyage decline vacant north scatter repeat fault turtle else tell";

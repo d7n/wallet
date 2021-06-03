@@ -1,1 +1,1 @@
-var mnemonic = "noodle dizzy size inch smart sock silly rose close salad embark nest";
+var mnemonic = "envelope tornado capable fabric wait hawk wagon follow scheme try fiber shrug";

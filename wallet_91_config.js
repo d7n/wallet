@@ -1,1 +1,1 @@
-var mnemonic = "okay island expire zoo miracle begin lunch box security comfort market trend";
+var mnemonic = "theory approve glare wash uphold beyond gold napkin novel orange degree horse";

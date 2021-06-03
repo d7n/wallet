@@ -1,1 +1,1 @@
-var mnemonic = "first range system wine protect acid that feed trust jelly frame olympic";
+var mnemonic = "usage lava moral clump ugly slam assault bar planet fruit situate primary";

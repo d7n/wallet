@@ -1,1 +1,1 @@
-var mnemonic = "come valve galaxy arm burden about mobile cliff old salt feel aerobic";
+var mnemonic = "time wasp income liar hawk health foster gift blush tape install awkward";

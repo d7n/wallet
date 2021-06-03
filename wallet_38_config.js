@@ -1,1 +1,1 @@
-var mnemonic = "industry genre vast original skin jaguar symbol mountain again rain road myth";
+var mnemonic = "vivid robot useless lady market please goddess digital merry village exhaust jewel";

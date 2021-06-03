@@ -1,1 +1,1 @@
-var mnemonic = "blanket program game save winter churn foot actress despair diagram hazard town";
+var mnemonic = "scene that bench drive aspect alone satoshi cabbage pudding embrace rib bid";

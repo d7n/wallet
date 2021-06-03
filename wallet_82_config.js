@@ -1,1 +1,1 @@
-var mnemonic = "picnic cloud narrow blast assault deliver pride possible turtle people deputy abandon";
+var mnemonic = "soul alien pool random salad february genre option art brass sail envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst come seminar cotton boat shell choice erupt promote cute squeeze faith";
+var mnemonic = "online curve biology hat gold inject bless render manual impose problem ordinary";

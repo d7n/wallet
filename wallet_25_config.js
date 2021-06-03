@@ -1,1 +1,1 @@
-var mnemonic = "stuff direct dismiss ritual assault balcony type live antenna provide code shed";
+var mnemonic = "service obvious simple clever stool degree surface orbit point lunch voyage buffalo";

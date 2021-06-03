@@ -1,1 +1,1 @@
-var mnemonic = "town pottery eager huge lens public vast rely melody chef brisk legal";
+var mnemonic = "other nerve popular vocal middle weekend loyal lounge holiday tip abandon demise";

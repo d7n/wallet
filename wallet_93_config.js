@@ -1,1 +1,1 @@
-var mnemonic = "glow drip power soccer ladder credit reason turtle tilt tobacco chapter roast";
+var mnemonic = "law glide keep elevator ranch merit unfair sick enhance april eyebrow enhance";

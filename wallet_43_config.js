@@ -1,1 +1,1 @@
-var mnemonic = "expand they bargain chronic another party twelve trophy dash paddle toss foil";
+var mnemonic = "kit match science green write theme slab sorry picnic pear clarify leaf";

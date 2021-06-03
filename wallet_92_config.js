@@ -1,1 +1,1 @@
-var mnemonic = "law custom case repair journey frequent stable conduct feed planet remove wool";
+var mnemonic = "mouse weapon six bless furnace panic mimic blossom grace pattern clip spy";

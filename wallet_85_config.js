@@ -1,1 +1,1 @@
-var mnemonic = "control vast smile soap lock denial easy country comic curve carbon enforce";
+var mnemonic = "toe little company repair dawn silk say erosion flight tooth trophy library";

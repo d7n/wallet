@@ -1,1 +1,1 @@
-var mnemonic = "identify phrase walnut very until cloth alpha glance identify picnic one rally";
+var mnemonic = "illness top phone essence six risk resource join celery kite embrace slim";

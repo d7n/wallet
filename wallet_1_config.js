@@ -1,1 +1,1 @@
-var mnemonic = "danger follow like repeat joke candy pair force super picture jar now";
+var mnemonic = "harvest annual excuse rug zebra brick hamster alley capital enroll pencil open";

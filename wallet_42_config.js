@@ -1,1 +1,1 @@
-var mnemonic = "once spell entry napkin attend access quality blood thumb predict segment amateur";
+var mnemonic = "north story volcano exercise inhale rice direct embrace kitchen mixture stick few";

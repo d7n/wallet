@@ -1,1 +1,1 @@
-var mnemonic = "tennis bird broken insect jazz purse flag loop innocent resource emerge plastic";
+var mnemonic = "resist liar coach trash tape foot mistake canyon obtain kiwi minute crouch";

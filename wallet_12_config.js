@@ -1,1 +1,1 @@
-var mnemonic = "state unusual you prepare dinner since acquire spice crop try payment shrimp";
+var mnemonic = "hundred yellow supreme muffin tone put supply autumn crew knee village during";

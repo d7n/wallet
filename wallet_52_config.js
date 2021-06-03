@@ -1,1 +1,1 @@
-var mnemonic = "filter true taste pupil glare popular kangaroo document catalog common grab goose";
+var mnemonic = "sort garment chicken lucky skin monster nice bottom scrub achieve mind shove";

@@ -1,1 +1,1 @@
-var mnemonic = "armor lunar can adjust ketchup amount copy pull cloud umbrella evoke legal";
+var mnemonic = "lawsuit eternal alert teach knock sea coffee wheat start train surprise more";

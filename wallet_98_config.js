@@ -1,1 +1,1 @@
-var mnemonic = "rain change notice clip trigger anchor dilemma apology ability burger time frost";
+var mnemonic = "guilt fatigue convince purchase cause accuse balcony earth rail ketchup parade pear";

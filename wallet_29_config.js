@@ -1,1 +1,1 @@
-var mnemonic = "west purse nominee actor conduct ability metal shoulder give genius hope traffic";
+var mnemonic = "language bread stereo course cotton toward swift angry luxury toe good icon";

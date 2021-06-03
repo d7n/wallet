@@ -1,1 +1,1 @@
-var mnemonic = "effort pear shrimp visual tooth vivid picnic buddy victory tongue combine clown";
+var mnemonic = "acquire erupt sand predict hero merit parent feel tobacco garage bitter water";

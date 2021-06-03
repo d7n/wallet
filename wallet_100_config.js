@@ -1,1 +1,1 @@
-var mnemonic = "gun nice hobby unit museum swarm wedding dog disease lock question flock";
+var mnemonic = "mind forward arrest mango crane enforce undo embrace avoid wish grief crowd";

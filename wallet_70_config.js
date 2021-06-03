@@ -1,1 +1,1 @@
-var mnemonic = "asthma spot cost police begin lucky aerobic daughter shove lonely depth hunt";
+var mnemonic = "crucial kidney dial quote perfect basket mercy east rebel lady genuine immune";

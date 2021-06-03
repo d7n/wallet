@@ -1,1 +1,1 @@
-var mnemonic = "own virtual half scene survey trap float true movie shuffle island network";
+var mnemonic = "slogan odor one orient company convince planet exotic jewel mixed fit include";
