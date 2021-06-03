@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cool kingdom theory buddy planet mask weasel pull rookie voyage furnace";
+var mnemonic = "electric nose damage twist hurdle notable debate exclude nose transfer mandate ask";

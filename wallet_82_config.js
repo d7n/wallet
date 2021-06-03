@@ -1,1 +1,1 @@
-var mnemonic = "pudding skate jelly morning truck tent mad soda kitchen rhythm core suspect";
+var mnemonic = "tell slush reopen prison wait laundry prepare crumble brother spoon retire expose";

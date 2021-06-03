@@ -1,1 +1,1 @@
-var mnemonic = "brain fortune under garlic physical original candy beach sting lecture blouse diagram";
+var mnemonic = "river plug legend luggage shine witness correct blame police used ramp east";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic surround frozen wine chunk flight antenna fetch achieve nasty horn owner";
+var mnemonic = "sketch matter celery wrist favorite innocent endorse diet mystery hockey prevent coral";

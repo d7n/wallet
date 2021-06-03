@@ -1,1 +1,1 @@
-var mnemonic = "area used flavor glue brief blast cram gloom bid ugly wolf know";
+var mnemonic = "hat morning twice supreme draft retreat echo mule diagram rhythm afraid reunion";

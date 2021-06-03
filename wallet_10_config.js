@@ -1,1 +1,1 @@
-var mnemonic = "purse until swim champion board pact another install industry hill shrimp ensure";
+var mnemonic = "nation vicious town fade elite phrase ensure fetch conduct damp unaware hood";

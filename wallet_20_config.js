@@ -1,1 +1,1 @@
-var mnemonic = "goddess camp situate juice resource hotel sugar kiwi angry system summer castle";
+var mnemonic = "win transfer boring brand cash high seminar pottery afraid daughter paper piano";

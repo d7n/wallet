@@ -1,1 +1,1 @@
-var mnemonic = "vendor endorse convince onion finish field people ladder battle rib good false";
+var mnemonic = "game vessel tube chair gesture width rubber fortune magnet regret pelican shed";

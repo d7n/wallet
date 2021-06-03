@@ -1,1 +1,1 @@
-var mnemonic = "absurd medal diary gown update eagle night lyrics celery vivid pole alien";
+var mnemonic = "black east able position shadow awkward suggest movie cruise insect assault lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry grab exclude video because average genre bench huge material actor clump";
+var mnemonic = "nose submit voyage panther sock thrive figure snack address assist wood inner";

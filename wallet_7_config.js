@@ -1,1 +1,1 @@
-var mnemonic = "letter reunion tube kite bacon interest cycle interest dynamic virus pole useless";
+var mnemonic = "equip vast suffer artefact cactus wrist style rapid truly army brief anger";

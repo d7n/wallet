@@ -1,1 +1,1 @@
-var mnemonic = "hour cry husband mouse left waste donkey company review speak people connect";
+var mnemonic = "simple weird return cheese nominee ghost hurt focus dish toward concert edit";

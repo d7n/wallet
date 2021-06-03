@@ -1,1 +1,1 @@
-var mnemonic = "earn awkward blade virtual frame stick before tool cash smoke fan raise";
+var mnemonic = "border renew door debris all cook attitude solid stomach surge accident hat";

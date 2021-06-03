@@ -1,1 +1,1 @@
-var mnemonic = "tribe choose lottery dynamic theory hobby alien wisdom common giraffe blood bronze";
+var mnemonic = "empower draw circle sail success claim shiver hawk hero dragon wage example";

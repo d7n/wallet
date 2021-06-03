@@ -1,1 +1,1 @@
-var mnemonic = "anchor resemble fringe seven endorse wild deposit finger erosion column settle like";
+var mnemonic = "unveil siege paddle fabric tribe fee profit waste bounce large certain plate";

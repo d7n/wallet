@@ -1,1 +1,1 @@
-var mnemonic = "vessel labor timber shrimp rigid okay strong purchase error wild coil harvest";
+var mnemonic = "advance elephant midnight wall culture gorilla gather process beauty alert note grant";

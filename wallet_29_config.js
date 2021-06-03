@@ -1,1 +1,1 @@
-var mnemonic = "excuse also minute soon autumn festival couple science safe exit small time";
+var mnemonic = "tip once venture impact crop brass defy deer timber duck false love";

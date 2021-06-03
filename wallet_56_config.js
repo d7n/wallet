@@ -1,1 +1,1 @@
-var mnemonic = "joke high tiny roast parrot view again bicycle cheap load mirror you";
+var mnemonic = "tail method outer main donate access snap version year rib lady best";

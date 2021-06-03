@@ -1,1 +1,1 @@
-var mnemonic = "caution sadness ecology crowd blast tackle abstract web spoon shallow salmon ignore";
+var mnemonic = "fiscal crew obey robust struggle describe tank choice true slab rhythm jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "element gaze curtain impose hip long mail renew nest top pattern mind";
+var mnemonic = "sudden member walnut upgrade satoshi bread abstract glare fly obvious wall elephant";

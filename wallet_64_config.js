@@ -1,1 +1,1 @@
-var mnemonic = "over tuna fish coach impulse cake board mobile harsh avoid sign dutch";
+var mnemonic = "response mango disagree marine sort bid obvious run split make there actual";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant share laugh flat torch soul buyer typical system empower west history";
+var mnemonic = "enter across acquire pizza girl jewel push noble language surface first stadium";

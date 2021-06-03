@@ -1,1 +1,1 @@
-var mnemonic = "crack oyster learn moment guard analyst elite hungry panel panda caught balcony";
+var mnemonic = "ancient waste liberty few hole wagon claw copper broken major tower dash";

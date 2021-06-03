@@ -1,1 +1,1 @@
-var mnemonic = "palm remove umbrella honey local unfold harvest whip magnet solid nominee abstract";
+var mnemonic = "ready dentist bomb spoon parrot lazy crisp car random truly state country";

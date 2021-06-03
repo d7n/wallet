@@ -1,1 +1,1 @@
-var mnemonic = "asset brick lecture vessel power still wide impulse gallery drop milk account";
+var mnemonic = "install ugly hand venue depart random concert say edit panda vibrant car";

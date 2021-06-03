@@ -1,1 +1,1 @@
-var mnemonic = "hero border toward vacuum pass sustain canvas fall ritual keen outside wasp";
+var mnemonic = "swim vendor craft doll police drink basic liquid picnic flame link dice";

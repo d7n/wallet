@@ -1,1 +1,1 @@
-var mnemonic = "tail armor model furnace update lab tube lion random swing inquiry grant";
+var mnemonic = "oak wolf economy art degree dinosaur feed enforce wink lazy tattoo tenant";

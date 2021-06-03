@@ -1,1 +1,1 @@
-var mnemonic = "gap dignity oven castle excuse jelly fine course tragic spatial where firm";
+var mnemonic = "miracle rescue sail truly harbor walnut prefer kite river weird acquire slender";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic unable melody spice door dose general anchor isolate canvas online dance";
+var mnemonic = "spatial spare rude clever reduce fiber armor owner dash abstract jazz grain";

@@ -1,1 +1,1 @@
-var mnemonic = "tail cloud question whip fashion cousin clog crush enemy ethics bless dutch";
+var mnemonic = "drop like garlic day mail brush twelve oppose crawl parade swallow same";

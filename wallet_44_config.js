@@ -1,1 +1,1 @@
-var mnemonic = "train drive mimic razor inherit damp wish hazard basket chuckle comic clip";
+var mnemonic = "resist short farm away vague foot clinic ancient seed drip rate impact";

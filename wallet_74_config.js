@@ -1,1 +1,1 @@
-var mnemonic = "property urge grief glow evoke program pear whip holiday shop notice fit";
+var mnemonic = "kiwi metal lecture humor prefer robot foster indoor recipe equip donate resemble";

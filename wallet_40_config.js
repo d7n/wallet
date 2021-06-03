@@ -1,1 +1,1 @@
-var mnemonic = "that verify bring autumn bubble crystal pioneer enemy drip salon ostrich metal";
+var mnemonic = "journey lottery change lake voyage feature denial chunk game input copy empower";

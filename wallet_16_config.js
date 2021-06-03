@@ -1,1 +1,1 @@
-var mnemonic = "humble card book limit answer wall usage quarter survey usage virus beach";
+var mnemonic = "juice tone budget antique assist casino slogan photo water tuition evil nose";

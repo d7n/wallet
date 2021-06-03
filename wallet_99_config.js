@@ -1,1 +1,1 @@
-var mnemonic = "mandate curious rebuild pilot plate champion empty note myself awful aware grief";
+var mnemonic = "hundred stage gravity clean engine crunch surge clinic forget large neglect kick";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal rather trip scare lake poem drastic feature lesson illegal hospital expire";
+var mnemonic = "never raccoon couch odor lake possible acid energy garden supreme chapter sibling";

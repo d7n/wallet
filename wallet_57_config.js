@@ -1,1 +1,1 @@
-var mnemonic = "asset ghost feed east birth daughter system right whisper advance present speed";
+var mnemonic = "coin fluid reject entire broom arctic bomb acoustic tiger nasty liberty ready";

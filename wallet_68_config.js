@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow render barely split spoon picnic marble donkey result combine filter nephew";
+var mnemonic = "emotion motor aspect must object alley need amateur endorse park wear error";

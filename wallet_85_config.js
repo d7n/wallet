@@ -1,1 +1,1 @@
-var mnemonic = "orient fox beach october give news resource traffic antenna flavor dog sail";
+var mnemonic = "divert silly major deal cruise hint strike fever correct pitch alcohol report";

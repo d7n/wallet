@@ -1,1 +1,1 @@
-var mnemonic = "pride dance fossil column people humor maid weird joke equal amateur exercise";
+var mnemonic = "agree letter diary lake observe relief cherry hard rival immense ostrich leopard";

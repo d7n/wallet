@@ -1,1 +1,1 @@
-var mnemonic = "ticket door eight unfair chat immune debate remain wife worth palace dog";
+var mnemonic = "enroll crack catch excite follow topic mother never major oil boring bargain";

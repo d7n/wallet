@@ -1,1 +1,1 @@
-var mnemonic = "inflict fork family theme jaguar drip round enter cricket ripple hat puppy";
+var mnemonic = "inject industry voyage problem galaxy moment menu ranch flame call ridge toilet";

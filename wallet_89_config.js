@@ -1,1 +1,1 @@
-var mnemonic = "draw cake mouse deposit melody hour depth nut approve buffalo search venture";
+var mnemonic = "input merit argue spell share pear equip holiday motor rug squeeze obscure";

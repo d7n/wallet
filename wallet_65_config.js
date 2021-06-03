@@ -1,1 +1,1 @@
-var mnemonic = "domain carry rice exist body risk slot gossip ritual when name trade";
+var mnemonic = "human brave mechanic brick cargo damp volume where enemy universe among divide";

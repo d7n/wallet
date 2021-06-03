@@ -1,1 +1,1 @@
-var mnemonic = "sketch sunny myth glance road plate renew page enrich twelve fashion huge";
+var mnemonic = "jelly ancient smoke chronic bounce victory divorce stadium goose fence wife response";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse athlete version pair escape leaf kiwi impact edge arrive original setup";
+var mnemonic = "soup hundred napkin adult topple dream kitten wash dash attract aisle naive";

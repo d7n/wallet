@@ -1,1 +1,1 @@
-var mnemonic = "mosquito goose accident legend happy essence good orchard wrestle teach matrix miss";
+var mnemonic = "reveal quit thing capable museum swallow advance olympic vote ability law crew";

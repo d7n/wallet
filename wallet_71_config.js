@@ -1,1 +1,1 @@
-var mnemonic = "trust tonight calm ring know impulse piano noble height forest vanish world";
+var mnemonic = "photo bus gauge swallow venture grab predict industry horn minute around illness";

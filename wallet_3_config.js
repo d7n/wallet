@@ -1,1 +1,1 @@
-var mnemonic = "table junior scorpion daughter leader clay year limit dad harbor author volume";
+var mnemonic = "account fluid become flee dog onion add pulse fruit witness picture palace";

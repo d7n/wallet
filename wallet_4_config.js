@@ -1,1 +1,1 @@
-var mnemonic = "excite notice sibling human pair town cool federal great cash cluster scissors";
+var mnemonic = "sock place useful until silver sight vault party marine style embody fiction";

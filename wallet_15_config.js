@@ -1,1 +1,1 @@
-var mnemonic = "genre about stomach thank wage option jaguar history there position festival favorite";
+var mnemonic = "clip puzzle disagree ball tide clever street stool empty hat butter claim";

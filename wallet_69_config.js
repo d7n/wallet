@@ -1,1 +1,1 @@
-var mnemonic = "sport peasant purchase milk protect saddle memory minimum soldier major knee escape";
+var mnemonic = "shoot pill faith video tree code little deny globe evolve vehicle hockey";

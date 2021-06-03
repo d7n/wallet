@@ -1,1 +1,1 @@
-var mnemonic = "initial remain fiction present book pave tobacco maple floor erosion stomach mix";
+var mnemonic = "pattern glass list subway solar hospital rail distance story hand enhance girl";

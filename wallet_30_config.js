@@ -1,1 +1,1 @@
-var mnemonic = "cloth cause west initial crawl observe movie avocado spend dynamic chief win";
+var mnemonic = "antenna animal trip burst jealous inside deposit you tilt sand machine worth";

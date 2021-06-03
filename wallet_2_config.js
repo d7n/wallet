@@ -1,1 +1,1 @@
-var mnemonic = "boil link famous aisle table mushroom choice celery funny fiscal debate army";
+var mnemonic = "adjust tree couple wheat impact chair supply absent area pledge one crime";

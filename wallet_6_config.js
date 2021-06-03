@@ -1,1 +1,1 @@
-var mnemonic = "crouch chapter seminar tube demise rubber calm gesture tobacco review spider fit";
+var mnemonic = "marriage worth jeans kind survey whale junior marine pigeon predict coconut owner";

@@ -1,1 +1,1 @@
-var mnemonic = "member prize envelope inhale concert lawsuit blouse melt myself ensure cotton attack";
+var mnemonic = "sketch again portion indoor protect daring square mushroom firm field gossip logic";

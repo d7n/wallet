@@ -1,1 +1,1 @@
-var mnemonic = "pride lawsuit whale miss increase soft blue slender physical vacant finger stove";
+var mnemonic = "invest battle vicious friend crane pause check drink another effort puppy spring";

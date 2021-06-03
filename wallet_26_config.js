@@ -1,1 +1,1 @@
-var mnemonic = "crouch fantasy neck robust olympic purchase feed balance drift ill bullet roast";
+var mnemonic = "vocal wrist pretty episode spring expose lottery document happy two box decline";

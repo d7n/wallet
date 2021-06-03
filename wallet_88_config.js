@@ -1,1 +1,1 @@
-var mnemonic = "repeat candy attitude knife worry expire near liberty say detect height render";
+var mnemonic = "elbow snap notice neither chat near grace mail gain version rule glue";

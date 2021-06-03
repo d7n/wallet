@@ -1,1 +1,1 @@
-var mnemonic = "news faculty jump nice ignore mercy slide doctor lunar thank recipe action";
+var mnemonic = "select conduct grow belt fun feature six march range erupt road twelve";

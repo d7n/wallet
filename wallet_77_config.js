@@ -1,1 +1,1 @@
-var mnemonic = "maple like before gold run famous junior cute equip foam code sword";
+var mnemonic = "view impose around debris decrease antenna glass glance ritual visual trade worth";

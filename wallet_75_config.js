@@ -1,1 +1,1 @@
-var mnemonic = "fresh palm grant spare misery thought answer beef fault invite trim uncover";
+var mnemonic = "life double note enter field security pizza hotel baby reward elephant finger";

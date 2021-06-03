@@ -1,1 +1,1 @@
-var mnemonic = "taste video duck best work program atom model hire oyster cover wealth";
+var mnemonic = "shift creek observe cloth plunge bicycle turkey giggle chalk reduce medal lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "valve decrease ecology mad file load cable stone canvas plunge latin nation";
+var mnemonic = "derive destroy member rescue cry resemble mutual violin lab endorse skirt vendor";

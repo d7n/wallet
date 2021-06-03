@@ -1,1 +1,1 @@
-var mnemonic = "confirm stock digital burst merry escape famous today stove online glance just";
+var mnemonic = "misery smart attack rebel rhythm obey author domain fever deal icon salmon";

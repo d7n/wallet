@@ -1,1 +1,1 @@
-var mnemonic = "issue miss ride mixed fluid topple furnace hair any legend tourist double";
+var mnemonic = "resource broccoli trap maze army help ball endless gun output trash train";

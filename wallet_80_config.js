@@ -1,1 +1,1 @@
-var mnemonic = "hope whisper produce concert bounce permit grocery rapid brick craft quantum above";
+var mnemonic = "april echo dune attract drop manual review fan blade critic weird desert";

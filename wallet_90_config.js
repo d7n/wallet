@@ -1,1 +1,1 @@
-var mnemonic = "boat void paper champion syrup art buddy aisle celery upon raw chimney";
+var mnemonic = "uniform dial camera help slogan action auction exhibit width super tiger slogan";

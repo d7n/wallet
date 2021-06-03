@@ -1,1 +1,1 @@
-var mnemonic = "hidden tonight spin cousin relax potato trim tip goose cute multiply cupboard";
+var mnemonic = "price benefit rescue define cargo twenty stamp vessel exotic vintage maze welcome";

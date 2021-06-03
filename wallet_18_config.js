@@ -1,1 +1,1 @@
-var mnemonic = "shove mushroom tuition unaware sound egg tortoise edge day battle moment parade";
+var mnemonic = "around pave wood industry cabbage green hello multiply angry trap island ecology";

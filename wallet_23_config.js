@@ -1,1 +1,1 @@
-var mnemonic = "develop three pumpkin only fault rally special fly spin erase uphold practice";
+var mnemonic = "scatter swing dash coffee pelican walnut urban title attack furnace tip course";

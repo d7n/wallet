@@ -1,1 +1,1 @@
-var mnemonic = "category symbol corn forum hub mimic exclude indicate raw rural inhale process";
+var mnemonic = "merge apart inhale raise comfort despair cube wisdom action fade dwarf prefer";

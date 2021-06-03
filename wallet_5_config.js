@@ -1,1 +1,1 @@
-var mnemonic = "already pipe promote upgrade phone garden develop merry crush unknown arch gym";
+var mnemonic = "math pipe key earth baby catalog worry minor walnut hold stone brain";

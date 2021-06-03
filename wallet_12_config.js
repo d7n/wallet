@@ -1,1 +1,1 @@
-var mnemonic = "verify begin mammal sweet ladder kite leisure give safe milk perfect decorate";
+var mnemonic = "axis play size blouse disorder cash double vanish make uniform claw wrong";

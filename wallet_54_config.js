@@ -1,1 +1,1 @@
-var mnemonic = "pony amateur virtual behind spray iron success gas royal mountain cruise student";
+var mnemonic = "pistol infant disease slender width identify solution cram culture faculty follow define";

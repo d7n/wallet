@@ -1,1 +1,1 @@
-var mnemonic = "food anger mushroom glad news silent dawn wild master buffalo hawk illness";
+var mnemonic = "curve friend donate bomb walk coin chapter brand depth pulse mystery apple";

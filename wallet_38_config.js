@@ -1,1 +1,1 @@
-var mnemonic = "goat various awkward eternal mimic logic turn wedding spin detect pen topic";
+var mnemonic = "fly inspire track inside genius neutral shield spread tape legend unable filter";

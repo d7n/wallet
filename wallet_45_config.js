@@ -1,1 +1,1 @@
-var mnemonic = "tiny merit mesh latin tunnel morning wasp wear ghost attend trend license";
+var mnemonic = "praise pilot radar decide effort group license wheat brand page secret ill";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel old orchard balance undo crystal park company stock icon muffin horse";
+var mnemonic = "village scale pull cargo trap topple panel fee brisk narrow purpose broom";

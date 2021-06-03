@@ -1,1 +1,1 @@
-var mnemonic = "damage grape cute appear pottery practice brief youth present come loop parent";
+var mnemonic = "color actual onion chair unit champion invite record slender tennis since path";

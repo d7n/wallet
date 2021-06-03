@@ -1,1 +1,1 @@
-var mnemonic = "creek menu evidence cradle cupboard ocean snake code fetch grain pact drastic";
+var mnemonic = "actual onion unit junior elephant tenant skate usage much web bid teach";

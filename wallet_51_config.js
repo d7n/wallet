@@ -1,1 +1,1 @@
-var mnemonic = "decide soup leopard sign thrive soccer guess upgrade lumber injury struggle fiscal";
+var mnemonic = "machine ask grief scorpion seed torch prison buddy tornado potato test cake";

@@ -1,1 +1,1 @@
-var mnemonic = "youth food measure glimpse waste boss kick high find scissors jewel citizen";
+var mnemonic = "dragon actor describe observe tattoo box flavor that verb hard dutch midnight";

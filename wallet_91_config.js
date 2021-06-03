@@ -1,1 +1,1 @@
-var mnemonic = "bless awful february half gym lyrics utility obey meat hope hub legal";
+var mnemonic = "owner between reflect gown hurt nothing swarm gym can foot glare gentle";

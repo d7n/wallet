@@ -1,1 +1,1 @@
-var mnemonic = "remain east maid cross purpose busy auto gold fantasy logic adjust kid";
+var mnemonic = "oil present undo popular wide world hedgehog major sail plastic name mix";

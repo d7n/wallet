@@ -1,1 +1,1 @@
-var mnemonic = "learn permit salute title giraffe measure valley gas blouse swap walnut debate";
+var mnemonic = "brown lizard decline beauty west tuition cream need scorpion vibrant snap immune";

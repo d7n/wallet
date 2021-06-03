@@ -1,1 +1,1 @@
-var mnemonic = "cube better foil embrace virus female safe team estate purse inspire rely";
+var mnemonic = "pink space bike summer brisk maximum among maze suspect fix metal egg";

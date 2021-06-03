@@ -1,1 +1,1 @@
-var mnemonic = "entire birth segment vessel omit reduce normal noodle federal siren trumpet vault";
+var mnemonic = "scissors blade danger reunion balance always giggle master tower frozen similar acid";

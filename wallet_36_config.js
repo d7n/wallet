@@ -1,1 +1,1 @@
-var mnemonic = "next decide magic stamp fringe usual fever employ wing powder sun lamp";
+var mnemonic = "soul erode elephant luxury pigeon kind loyal wage spider horn shine wagon";

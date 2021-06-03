@@ -1,1 +1,1 @@
-var mnemonic = "input bid rabbit undo enroll fork south melt confirm enough lady glide";
+var mnemonic = "access aware top tissue until tray episode embark order wrap denial extend";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence favorite coyote grocery rotate pizza enough scan cost field sound tomorrow";
+var mnemonic = "insect rice powder margin present rubber business brother club employ ten manage";

@@ -1,1 +1,1 @@
-var mnemonic = "crop whisper such chalk holiday mom orange tower deer food seven asthma";
+var mnemonic = "priority height aerobic van neither banana popular hero among strike number potato";
