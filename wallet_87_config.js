@@ -1,1 +1,1 @@
-var mnemonic = "begin month input laugh view hope enjoy pact scissors solve spoil bottom";
+var mnemonic = "payment gold rebuild sweet slide drive sugar grow finish penalty cart border";

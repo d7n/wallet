@@ -1,1 +1,1 @@
-var mnemonic = "oak come current garment type diesel cinnamon answer behind salt shop hover";
+var mnemonic = "later attack giant web alien cake cool ten open pattern nominee uphold";

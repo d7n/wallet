@@ -1,1 +1,1 @@
-var mnemonic = "coconut excess length divorce pink pact resource immune budget picnic remove high";
+var mnemonic = "nominee flag great daring fatigue carpet dream athlete fuel make green hurdle";

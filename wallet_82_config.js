@@ -1,1 +1,1 @@
-var mnemonic = "round riot fluid wait credit amused uniform silver acid grain glove ranch";
+var mnemonic = "illegal cruel jump treat shove myth arch fever spice post behind lottery";

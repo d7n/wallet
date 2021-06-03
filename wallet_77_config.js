@@ -1,1 +1,1 @@
-var mnemonic = "frequent drift pulse script gate motion gesture sunny bike stone elephant layer";
+var mnemonic = "wish multiply dish blind sail hotel sound round match cruel surprise box";

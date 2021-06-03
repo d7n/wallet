@@ -1,1 +1,1 @@
-var mnemonic = "injury panel fat culture hub spirit all hockey gaze title swing depend";
+var mnemonic = "gas spice anger scan athlete box poverty march south catalog spike return";

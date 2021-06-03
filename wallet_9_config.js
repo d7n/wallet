@@ -1,1 +1,1 @@
-var mnemonic = "obey abstract hidden salute under must alarm topple because output wash awesome";
+var mnemonic = "alley angle enjoy wrap journey inspire iron struggle accuse police warrior isolate";

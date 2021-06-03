@@ -1,1 +1,1 @@
-var mnemonic = "valid cart wear couple post sing then tiny lady advance theory then";
+var mnemonic = "cousin bread corn ankle swear knife uncle neutral small used foam canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale shaft urban crush range river dream time easy crater define fish";
+var mnemonic = "result depend alcohol size you spice supreme search happy angle kite smart";

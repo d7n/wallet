@@ -1,1 +1,1 @@
-var mnemonic = "mountain control curious primary duck prevent feed trade salon outside axis slush";
+var mnemonic = "mixed mass push aerobic tail logic banner use siege photo glare trust";

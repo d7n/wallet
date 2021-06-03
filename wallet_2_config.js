@@ -1,1 +1,1 @@
-var mnemonic = "game renew hill typical benefit earth despair fly stamp enforce quarter prefer";
+var mnemonic = "upper obscure goat guilt first black rescue ginger vehicle hungry sense husband";

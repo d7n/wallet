@@ -1,1 +1,1 @@
-var mnemonic = "forum gadget pudding radar increase brass member physical beach abuse minor help";
+var mnemonic = "kitchen excite clip repeat quote review thing doctor reunion decrease behind amused";

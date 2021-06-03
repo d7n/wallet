@@ -1,1 +1,1 @@
-var mnemonic = "hand uphold sail north spring model hurdle valve hungry vague change yellow";
+var mnemonic = "aware area borrow cattle job pitch rule staff exist lab bone opera";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran scout live bottom torch weekend pizza rifle leopard execute lyrics movie";
+var mnemonic = "base laugh silver make hour come wet axis acoustic film recall tide";

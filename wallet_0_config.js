@@ -1,1 +1,1 @@
-var mnemonic = "dismiss company gallery behave tonight knee distance hurt glory smart celery deny";
+var mnemonic = "joke shed clap rebuild street cable reason east fix debate face blade";

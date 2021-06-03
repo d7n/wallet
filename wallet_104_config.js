@@ -1,1 +1,1 @@
-var mnemonic = "gap census hammer quarter music bag price donate venue divert cause deputy";
+var mnemonic = "news aware moon stereo hand crunch mule item tower away yellow rule";

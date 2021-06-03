@@ -1,1 +1,1 @@
-var mnemonic = "doll truth neither comfort include green pioneer history tell deliver cherry rifle";
+var mnemonic = "erode parade obscure rain waste much sphere filter journey engine observe glide";

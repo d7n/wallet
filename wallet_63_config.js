@@ -1,1 +1,1 @@
-var mnemonic = "waste sand elevator assault inhale lady more carpet dove drip reflect already";
+var mnemonic = "try egg core hint crumble release clinic opinion fruit candy bubble minimum";

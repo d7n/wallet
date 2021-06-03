@@ -1,1 +1,1 @@
-var mnemonic = "doll mirror palm payment actual enlist detail worth elbow code panda seat";
+var mnemonic = "hollow violin spy century turkey secret nose clinic foster squirrel clever float";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage ride razor heavy capital uncover spawn reduce age please never riot";
+var mnemonic = "gold suit infant mansion decorate bicycle pitch pull picture vital rocket survey";

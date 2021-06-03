@@ -1,1 +1,1 @@
-var mnemonic = "connect swamp ahead west current offer neutral language mixed online door gallery";
+var mnemonic = "adapt buzz vessel brave pluck aim search order engine fever tank senior";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog brush clay steak draft cruise token plunge service unable token assault";
+var mnemonic = "wheel catalog like rice wine lucky taxi gain result unfair gasp stem";

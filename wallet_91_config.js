@@ -1,1 +1,1 @@
-var mnemonic = "east decade perfect swarm forward worry achieve unhappy disease room february name";
+var mnemonic = "phrase enroll brown high swamp quarter used today achieve exhibit voyage wait";

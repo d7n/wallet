@@ -1,1 +1,1 @@
-var mnemonic = "inspire attack food health vast start immense narrow question glimpse favorite belt";
+var mnemonic = "entry mandate hero drill seven dream walk attack tired wolf urge duck";

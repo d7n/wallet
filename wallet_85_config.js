@@ -1,1 +1,1 @@
-var mnemonic = "disorder position often arrange yard width dry brother inspire squirrel polar security";
+var mnemonic = "blood mushroom tenant link aspect glory pass rebuild waste soda hard caught";

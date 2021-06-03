@@ -1,1 +1,1 @@
-var mnemonic = "walnut field diesel cake surprise peasant sleep bubble upgrade rotate frog aim";
+var mnemonic = "leave remind traffic license spend roof oval bag toss shoulder local riot";

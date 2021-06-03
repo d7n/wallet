@@ -1,1 +1,1 @@
-var mnemonic = "twin error grace toe tube act liquid walnut marriage leave goat allow";
+var mnemonic = "seat try team choose board gym opera early dragon able average small";

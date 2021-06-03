@@ -1,1 +1,1 @@
-var mnemonic = "wasp beach evolve casual slow bulk middle vivid vicious tortoise erase split";
+var mnemonic = "solar kit object exercise expose talent refuse notable mom endorse moon kit";

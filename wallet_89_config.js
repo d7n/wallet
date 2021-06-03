@@ -1,1 +1,1 @@
-var mnemonic = "okay absent churn fix rent wrap bind echo average chair envelope wall";
+var mnemonic = "hamster rent blade mystery curve scare resist blossom light kit other empty";

@@ -1,1 +1,1 @@
-var mnemonic = "host connect neglect arena obtain fantasy edit stamp gospel ivory object bonus";
+var mnemonic = "system opera notice burst left regret where usual cancel adult pipe initial";

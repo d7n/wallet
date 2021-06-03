@@ -1,1 +1,1 @@
-var mnemonic = "fire acid ozone cherry empower excite cross hammer script tobacco talk diary";
+var mnemonic = "boil employ urge dizzy trust refuse busy horror candy nature defy agree";

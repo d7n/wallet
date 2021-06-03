@@ -1,1 +1,1 @@
-var mnemonic = "october cable prefer angry quit sudden crack carry news now kiss rail";
+var mnemonic = "balance lunar pyramid habit sphere clinic fiction diamond symptom pilot couch like";

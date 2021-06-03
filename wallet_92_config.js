@@ -1,1 +1,1 @@
-var mnemonic = "sick rebuild hundred leave forget mandate lab health layer runway cheese correct";
+var mnemonic = "train rigid theme hill open bread unusual myself peanut boil amused core";

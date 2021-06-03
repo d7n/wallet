@@ -1,1 +1,1 @@
-var mnemonic = "increase pill parrot turtle sail regular actual safe document neutral honey mail";
+var mnemonic = "daring sugar super toe quit outer lab video army risk undo scale";

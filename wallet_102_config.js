@@ -1,1 +1,1 @@
-var mnemonic = "shove hood salute supreme chaos evil song another guess deny chapter action";
+var mnemonic = "camp hip nut craft left scout cook leg kick design adjust repair";

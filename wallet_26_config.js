@@ -1,1 +1,1 @@
-var mnemonic = "egg embark sense fitness crucial very bulk horn caught brand resource father";
+var mnemonic = "train various soon actual address gym wreck globe real month canyon lumber";

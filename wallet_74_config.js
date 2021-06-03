@@ -1,1 +1,1 @@
-var mnemonic = "lion weird nice draw apart chief toast midnight spirit document title extend";
+var mnemonic = "venue already strike raw tilt market bullet cannon trial speak verify gadget";

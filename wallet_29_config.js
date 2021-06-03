@@ -1,1 +1,1 @@
-var mnemonic = "pizza miss leave tongue olympic dumb boring nut disease heart adult reduce";
+var mnemonic = "tone under three wage dizzy opera drive edge nerve cool polar radio";

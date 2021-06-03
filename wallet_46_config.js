@@ -1,1 +1,1 @@
-var mnemonic = "safe soup kingdom inject material decrease world issue flight purity glare clutch";
+var mnemonic = "rookie evolve riot unfair party large insane autumn toward border outdoor account";

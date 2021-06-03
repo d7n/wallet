@@ -1,1 +1,1 @@
-var mnemonic = "output head decorate mother top advance link reveal farm engine foil treat";
+var mnemonic = "raccoon bunker series move pumpkin palm whip appear pulse offer afford opera";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh excuse unfold mom salmon year orient foster worth deputy noble enforce";
+var mnemonic = "brown young brave hamster cruise blood gate eye crash subway wheel wrong";

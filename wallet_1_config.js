@@ -1,1 +1,1 @@
-var mnemonic = "end venue carbon snack draw know nurse comfort nice solve stomach vague";
+var mnemonic = "trim crime visa finish object ginger enjoy front mystery gun crush junior";

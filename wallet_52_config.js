@@ -1,1 +1,1 @@
-var mnemonic = "oppose increase crew genuine convince north cinnamon grid drive route honey valley";
+var mnemonic = "bacon search half possible direct fiber yellow text yellow video ordinary spring";

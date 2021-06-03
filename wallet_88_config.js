@@ -1,1 +1,1 @@
-var mnemonic = "vintage wisdom goddess bike gloom pioneer minor fashion toast want anchor gate";
+var mnemonic = "animal bulb gate ice cook roof era slam march nephew cherry zoo";

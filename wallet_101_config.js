@@ -1,1 +1,1 @@
-var mnemonic = "above fragile autumn lift toy force myth process original giant now prison";
+var mnemonic = "belt kitchen tent happy hip tribe simple daring blade order original depart";

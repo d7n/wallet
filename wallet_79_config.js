@@ -1,1 +1,1 @@
-var mnemonic = "organ certain payment swallow bar panel adapt erase hint meat cake syrup";
+var mnemonic = "area hub mixture outer sphere flat consider victory maze donor junior economy";

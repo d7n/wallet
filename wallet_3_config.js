@@ -1,1 +1,1 @@
-var mnemonic = "eager mimic virus loan govern output raven bargain file inspire frog civil";
+var mnemonic = "alone shuffle wasp tobacco neglect kidney address gauge hollow hunt badge fluid";

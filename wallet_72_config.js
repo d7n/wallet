@@ -1,1 +1,1 @@
-var mnemonic = "pipe electric brown wisdom velvet humble neglect polar access torch shift match";
+var mnemonic = "sample claw zero lumber yard asthma supply matrix ketchup punch rhythm panic";

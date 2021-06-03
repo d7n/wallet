@@ -1,1 +1,1 @@
-var mnemonic = "latin awake collect siege detect gospel churn slogan course tone awake photo";
+var mnemonic = "shallow basic bike bridge company assume survey morning mention helmet ticket visit";

@@ -1,1 +1,1 @@
-var mnemonic = "very rhythm chalk toss already produce olympic sadness project science dolphin bacon";
+var mnemonic = "promote wolf puppy volcano luggage ordinary spring logic camera slice only stereo";

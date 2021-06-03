@@ -1,1 +1,1 @@
-var mnemonic = "turtle hobby guilt seat coffee meadow eagle life crucial shift zone meat";
+var mnemonic = "grace census inhale lift basic motion giggle erosion race east flat make";

@@ -1,1 +1,1 @@
-var mnemonic = "level clarify yellow assist test ketchup lazy nose civil insect fiction because";
+var mnemonic = "result tube special noble tool venue devote give advance sniff rabbit pledge";

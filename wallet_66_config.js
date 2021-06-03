@@ -1,1 +1,1 @@
-var mnemonic = "love mansion inhale armor ivory nuclear mouse valid torch rather dinosaur practice";
+var mnemonic = "leisure approve congress exile citizen room similar forest sail merit disagree drink";

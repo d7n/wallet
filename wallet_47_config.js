@@ -1,1 +1,1 @@
-var mnemonic = "coconut account sea eternal patrol warm off veteran festival observe cabbage quick";
+var mnemonic = "grief front wedding opera palm repeat offer vendor sun neck equip sell";

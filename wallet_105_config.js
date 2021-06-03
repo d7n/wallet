@@ -1,1 +1,1 @@
-var mnemonic = "fiction town ceiling cabbage dentist father summer rival sound spot add surge";
+var mnemonic = "theme library witness unknown code ostrich thunder clean obscure visit teach uncover";

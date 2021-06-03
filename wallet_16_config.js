@@ -1,1 +1,1 @@
-var mnemonic = "swim achieve setup idle indicate chunk urge twice allow present dog entry";
+var mnemonic = "venue sweet shrimp actress dash curve excess van now ten broken brief";

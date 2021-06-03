@@ -1,1 +1,1 @@
-var mnemonic = "sail grain resist sustain concert obtain outdoor reflect sniff frog practice figure";
+var mnemonic = "ugly same drip rent turkey wheat topic audit document midnight riot found";

@@ -1,1 +1,1 @@
-var mnemonic = "beach radio crew moon inspire skate hope denial try core tuna estate";
+var mnemonic = "lake fan question flee elephant also merge corn slush angle expand wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "submit fit moral sport horror title vital oppose special taste evolve icon";
+var mnemonic = "example toast keep click shell creek napkin cliff monitor erosion present series";

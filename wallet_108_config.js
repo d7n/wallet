@@ -1,1 +1,1 @@
-var mnemonic = "kick mushroom vanish skate aspect animal nice perfect dream link skate lecture";
+var mnemonic = "pipe peace harsh advice upon rib sport vintage vehicle rally small drive";

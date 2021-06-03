@@ -1,1 +1,1 @@
-var mnemonic = "rotate warm forget large thank exercise because virtual brass giraffe flavor february";
+var mnemonic = "limit kick oak connect jaguar cake answer rhythm body organ ignore gospel";

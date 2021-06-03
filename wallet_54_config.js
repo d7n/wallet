@@ -1,1 +1,1 @@
-var mnemonic = "settle disease donor truly ugly fragile top favorite bounce kangaroo churn view";
+var mnemonic = "sad skate glare amount zero island predict youth sick amazing just such";

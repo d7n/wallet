@@ -1,1 +1,1 @@
-var mnemonic = "east about when tower undo file round coin same frown unaware resemble";
+var mnemonic = "orange salute joy dove plate decrease coyote bicycle degree shrimp captain pig";

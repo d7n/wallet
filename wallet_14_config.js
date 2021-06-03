@@ -1,1 +1,1 @@
-var mnemonic = "half path claw horror uniform apart repair win purpose agent dad web";
+var mnemonic = "crash slight trust town eight grace drama output spend industry ocean coil";

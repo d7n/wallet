@@ -1,1 +1,1 @@
-var mnemonic = "chat olympic option elder miracle any frown guess script script diamond abandon";
+var mnemonic = "blame giant dinosaur call online reason stable emotion trumpet stool dash wet";

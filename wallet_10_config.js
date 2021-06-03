@@ -1,1 +1,1 @@
-var mnemonic = "slab current palm guard grunt obtain afford elite people immune top wonder";
+var mnemonic = "vacant lens sister afford will buzz clap supply happy can trick silly";

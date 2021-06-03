@@ -1,1 +1,1 @@
-var mnemonic = "clap plate pledge journey glare fantasy salt pigeon usage curtain charge genre";
+var mnemonic = "badge attract make open snack trust theory rain glory hurry speed cost";

@@ -1,1 +1,1 @@
-var mnemonic = "busy voyage sphere silver help uphold okay huge cherry rate skull shoe";
+var mnemonic = "innocent junior update pattern fiber flame ankle category damp tape spot wool";

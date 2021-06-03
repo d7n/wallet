@@ -1,1 +1,1 @@
-var mnemonic = "train mix print stadium profit tomato advice destroy bag announce tomorrow deal";
+var mnemonic = "habit fat hover estate expect bounce change learn floor narrow index candy";

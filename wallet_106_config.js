@@ -1,1 +1,1 @@
-var mnemonic = "unique mandate primary evidence hub donate corn title beef more stock fit";
+var mnemonic = "tree flash bargain antique tiger stool salmon original survey heart duty diary";

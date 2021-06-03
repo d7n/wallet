@@ -1,1 +1,1 @@
-var mnemonic = "direct decline slam life moment you okay nurse fence enhance element random";
+var mnemonic = "behave blame turn spend all buffalo kind desert wage loop napkin code";

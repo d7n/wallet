@@ -1,1 +1,1 @@
-var mnemonic = "bracket escape gossip flee above valley clog detect cost cost fury air";
+var mnemonic = "sunny tooth dress brief grid genre produce estate round chief empower broccoli";

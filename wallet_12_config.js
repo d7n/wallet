@@ -1,1 +1,1 @@
-var mnemonic = "meadow wood baby away aware memory devote neck tide melt fan income";
+var mnemonic = "heavy cannon worth false dynamic brain six asset toilet still fresh essay";

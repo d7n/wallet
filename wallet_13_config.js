@@ -1,1 +1,1 @@
-var mnemonic = "pear pet abandon coconut letter employ thumb capable spell index weird month";
+var mnemonic = "when run will drum pattern toss apology fetch labor slab admit pet";

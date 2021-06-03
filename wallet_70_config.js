@@ -1,1 +1,1 @@
-var mnemonic = "guard puzzle merry birth price quote ivory case stone example search sick";
+var mnemonic = "shrug like neck scheme fade pony cancel actress deposit put frost faith";

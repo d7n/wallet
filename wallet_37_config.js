@@ -1,1 +1,1 @@
-var mnemonic = "tiny deposit reopen search tooth tomato room feel already attack quiz february";
+var mnemonic = "term close broken bring together rural tired pattern venture various breeze build";

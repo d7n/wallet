@@ -1,1 +1,1 @@
-var mnemonic = "saddle unable embrace foil blame key hour upper occur motion index double";
+var mnemonic = "rough source culture eternal smooth cat goose replace mammal note venture diamond";

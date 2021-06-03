@@ -1,1 +1,1 @@
-var mnemonic = "cave apology document quarter alcohol rare prepare identify fly ancient lyrics pipe";
+var mnemonic = "material film then family mention tenant believe beef announce palace cattle trick";

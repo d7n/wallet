@@ -1,1 +1,1 @@
-var mnemonic = "toward ability degree simple game whip violin great this brother bottom vendor";
+var mnemonic = "direct frame frequent when topple salon couch own choice theory drip scatter";

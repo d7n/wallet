@@ -1,1 +1,1 @@
-var mnemonic = "egg couch tower subway scrap topple letter crime harbor shy elephant saddle";
+var mnemonic = "animal entire more outside crawl vehicle toilet cause lend used razor height";

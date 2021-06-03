@@ -1,1 +1,1 @@
-var mnemonic = "puzzle noble replace impact nature secret price trumpet road rude public reward";
+var mnemonic = "night remember tribe siege argue leopard oblige mercy output come fish crunch";

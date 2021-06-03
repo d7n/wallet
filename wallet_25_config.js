@@ -1,1 +1,1 @@
-var mnemonic = "taxi shield gorilla wrong identify arm menu acoustic park venture memory holiday";
+var mnemonic = "rabbit loan search guitar example same win pledge cinnamon agree cake fault";

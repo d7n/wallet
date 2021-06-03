@@ -1,1 +1,1 @@
-var mnemonic = "bubble lunch become ask now outdoor cloud public mom soup purse loud";
+var mnemonic = "mistake cloth obey sad law gain mass below oyster bind write pole";

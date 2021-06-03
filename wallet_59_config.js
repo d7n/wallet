@@ -1,1 +1,1 @@
-var mnemonic = "knee devote govern dilemma view possible amazing option dish animal come capital";
+var mnemonic = "expire link marriage crowd cart among credit left only include oxygen execute";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer range security obtain life reject example together illegal evil dumb sugar";
+var mnemonic = "rural test normal sport actress access inner absent upper proof toast swing";

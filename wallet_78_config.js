@@ -1,1 +1,1 @@
-var mnemonic = "apology west rate conduct enter maze reason shuffle average offer error voyage";
+var mnemonic = "hungry search clap like quick original crack until room nothing arctic gym";

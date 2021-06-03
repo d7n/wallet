@@ -1,1 +1,1 @@
-var mnemonic = "length resource frost surface glow cover milk visa state soccer embrace artist";
+var mnemonic = "clay current slam grocery apology logic emotion rebuild gesture useful home latin";

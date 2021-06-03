@@ -1,1 +1,1 @@
-var mnemonic = "hard ahead grant social report field weapon cherry green hidden review pole";
+var mnemonic = "type decrease flower frown aunt cushion destroy twist alarm dinner broken sock";

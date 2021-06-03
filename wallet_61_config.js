@@ -1,1 +1,1 @@
-var mnemonic = "cover hedgehog medal step glory address win inside kind wage float rich";
+var mnemonic = "lecture wood draft left tiger neck ring thunder vocal proof prosper grid";

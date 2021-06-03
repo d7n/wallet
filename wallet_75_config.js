@@ -1,1 +1,1 @@
-var mnemonic = "tank pill alien coral ticket invite cute wrap hobby assist breeze monster";
+var mnemonic = "spring exercise primary breeze clock thank shadow syrup weird double coconut gather";
