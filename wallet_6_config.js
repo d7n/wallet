@@ -1,1 +1,1 @@
-var mnemonic = "legend town stomach worry celery like memory doll jelly ride session era";
+var mnemonic = "vault crazy danger million large mom echo youth clip harbor shy shop";

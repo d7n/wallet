@@ -1,1 +1,1 @@
-var mnemonic = "inner business rubber donkey pride second island taste cloth giggle involve region";
+var mnemonic = "cabbage equal soda unable bomb occur way gaze lecture kid still color";

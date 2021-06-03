@@ -1,1 +1,1 @@
-var mnemonic = "turn moral kind elephant melody trade intact forget embark village rabbit february";
+var mnemonic = "original replace enemy catch catch uncover case ladder avocado clay vapor crouch";

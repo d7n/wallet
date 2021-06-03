@@ -1,1 +1,1 @@
-var mnemonic = "junk merit trip rail save tent symptom tube much foil this legend";
+var mnemonic = "curve vehicle belt urge maple gauge violin involve message art rain knock";

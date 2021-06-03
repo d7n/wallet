@@ -1,1 +1,1 @@
-var mnemonic = "afraid slush clap radio stomach artist picnic rookie pledge veteran estate choice";
+var mnemonic = "frog scale vote just mirror fever unlock venture settle illness snake now";

@@ -1,1 +1,1 @@
-var mnemonic = "arm office planet sound gadget smart report engine option leave rebel core";
+var mnemonic = "apart deputy error fringe glow vibrant ticket guide meat guitar visual kitten";

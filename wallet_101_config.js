@@ -1,1 +1,1 @@
-var mnemonic = "cliff thought swim often actress hope endorse sentence buffalo garden lesson normal";
+var mnemonic = "size brain future grid fish fiber vicious diet copper satoshi dance execute";

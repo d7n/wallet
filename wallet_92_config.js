@@ -1,1 +1,1 @@
-var mnemonic = "grape flash verify gasp spin vintage valley carry ugly result because rival";
+var mnemonic = "panda phone jump trade atom island daring subway protect behave crouch gun";

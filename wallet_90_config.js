@@ -1,1 +1,1 @@
-var mnemonic = "pistol book earn much century assist slender just cement candy immune blind";
+var mnemonic = "slot innocent laugh fat host dismiss pride cheap hole sense mushroom heavy";

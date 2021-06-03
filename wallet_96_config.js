@@ -1,1 +1,1 @@
-var mnemonic = "engine cake movie saddle assist mobile elbow above faculty struggle gown notice";
+var mnemonic = "neither furnace borrow august pistol tackle denial face snake perfect clump liquid";

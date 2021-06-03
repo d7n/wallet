@@ -1,1 +1,1 @@
-var mnemonic = "return heavy normal during fitness consider wasp milk primary similar industry hen";
+var mnemonic = "find hollow bless subject debate rebel roast song depth long poem embark";

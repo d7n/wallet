@@ -1,1 +1,1 @@
-var mnemonic = "learn potato mutual arrest remove betray fossil marble ticket dilemma three spice";
+var mnemonic = "marble pudding wave asthma predict mechanic emotion word cereal zone special error";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen lion gaze slender shift grit worth sting gain voyage describe select";
+var mnemonic = "crucial helmet supply upset frog zero artwork buffalo warfare mind course panic";

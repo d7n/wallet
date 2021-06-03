@@ -1,1 +1,1 @@
-var mnemonic = "stumble deposit weird quit holiday gorilla virtual vintage liquid destroy history series";
+var mnemonic = "satisfy glimpse wealth flat misery hair cart card wreck tobacco mad bicycle";

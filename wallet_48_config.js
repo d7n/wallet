@@ -1,1 +1,1 @@
-var mnemonic = "record alpha true update glare photo room wagon marriage endless load pool";
+var mnemonic = "lawn lawsuit tenant bridge grain outer version flight latin slam slam either";

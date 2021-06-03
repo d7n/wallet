@@ -1,1 +1,1 @@
-var mnemonic = "grant force normal secret expose shine march fever road dish thought roast";
+var mnemonic = "buffalo trap off solution theme gravity steel behind quit brick jaguar dog";

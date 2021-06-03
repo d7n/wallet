@@ -1,1 +1,1 @@
-var mnemonic = "abuse market reduce legend clutch crime nuclear resist ritual march eagle floor";
+var mnemonic = "gorilla wear sight whale multiply frown green bike sausage birth tongue stone";

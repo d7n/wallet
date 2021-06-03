@@ -1,1 +1,1 @@
-var mnemonic = "tray grab faculty depart hover seed snake cement private junior silly giraffe";
+var mnemonic = "doll acoustic spawn income river similar abuse coral visa next female relief";

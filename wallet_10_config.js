@@ -1,1 +1,1 @@
-var mnemonic = "length spin person exotic tenant legend spatial beach refuse aisle return chicken";
+var mnemonic = "blossom quit crucial double alert stay eternal decrease odor shiver pistol neck";

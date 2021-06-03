@@ -1,1 +1,1 @@
-var mnemonic = "number undo logic horror early act index lazy fade echo lend unlock";
+var mnemonic = "exhibit betray lamp cliff ginger amount diary bottom vault shoulder inhale beach";

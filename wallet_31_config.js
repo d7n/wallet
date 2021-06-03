@@ -1,1 +1,1 @@
-var mnemonic = "slam million elegant head simple glide age erode town fringe source alone";
+var mnemonic = "track lunar warfare movie subject olive rather lawsuit sponsor wreck nasty castle";

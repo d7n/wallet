@@ -1,1 +1,1 @@
-var mnemonic = "filter tone build spread left enhance submit win lawn patient total quote";
+var mnemonic = "chaos obscure nice rebel lava text blood hire funny staff hip tongue";

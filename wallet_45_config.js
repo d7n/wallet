@@ -1,1 +1,1 @@
-var mnemonic = "armor gas gesture scissors skin road retreat swift produce kick before response";
+var mnemonic = "run cross grow beyond bike hawk canyon piano endorse spot path broken";

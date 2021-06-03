@@ -1,1 +1,1 @@
-var mnemonic = "attract fix better detail achieve giraffe vast capable clarify heart shoulder session";
+var mnemonic = "salt better secret poet glue betray identify there vast trust school output";

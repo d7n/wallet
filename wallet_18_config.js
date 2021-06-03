@@ -1,1 +1,1 @@
-var mnemonic = "rubber label praise baby devote maid indoor mystery cotton small vessel knee";
+var mnemonic = "unusual mirror market rebel inhale voice media cram deal hurry devote scatter";

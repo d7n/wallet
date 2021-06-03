@@ -1,1 +1,1 @@
-var mnemonic = "recall club shrug boss inch ozone edit crucial debate obscure oblige hybrid";
+var mnemonic = "trust castle home airport riot august vivid arch position gauge hurry decorate";

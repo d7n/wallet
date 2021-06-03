@@ -1,1 +1,1 @@
-var mnemonic = "option aim drink humble disorder pass fade tenant weekend owner winner ask";
+var mnemonic = "guide surprise electric fiscal laugh electric lens fiscal rotate crawl penalty test";

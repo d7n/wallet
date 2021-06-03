@@ -1,1 +1,1 @@
-var mnemonic = "canal fold achieve gun home element donate bag hurdle aspect certain subway";
+var mnemonic = "retire giraffe flush great budget beach always plunge taste blur visit dismiss";

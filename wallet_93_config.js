@@ -1,1 +1,1 @@
-var mnemonic = "pass extend because base embody timber good weekend require melody left flash";
+var mnemonic = "minor thing ankle hobby rib power pave bachelor eyebrow visit metal blind";

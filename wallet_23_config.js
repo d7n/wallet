@@ -1,1 +1,1 @@
-var mnemonic = "artefact notice two six celery news common shiver organ keep early salad";
+var mnemonic = "position reject cricket nurse gorilla olive exhaust fire truly destroy salmon apple";

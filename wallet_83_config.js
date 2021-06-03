@@ -1,1 +1,1 @@
-var mnemonic = "timber runway level soul brisk ahead trouble chuckle relax wash uniform margin";
+var mnemonic = "embody insane resist hotel guide shift admit gravity front mixture afford uniform";

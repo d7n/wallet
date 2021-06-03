@@ -1,1 +1,1 @@
-var mnemonic = "alarm student robot pyramid property shaft aware post trip chapter edit agree";
+var mnemonic = "beyond logic hint output oven prevent pelican ability cup burger long filter";

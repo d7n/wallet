@@ -1,1 +1,1 @@
-var mnemonic = "buyer act visit filter famous afford genius cruise bacon define slow alert";
+var mnemonic = "south negative crawl merry city start keen estate logic orange bomb agree";

@@ -1,1 +1,1 @@
-var mnemonic = "expose work banana liberty swim amount venture theme hello charge float glance";
+var mnemonic = "breeze topic hill follow donkey asset vital believe copy wide settle cattle";

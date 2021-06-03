@@ -1,1 +1,1 @@
-var mnemonic = "chest victory sort excite uncover pony panel bar rocket supply dirt reward";
+var mnemonic = "bless faith region extend tobacco glide evolve close raise board north front";

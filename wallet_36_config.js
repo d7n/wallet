@@ -1,1 +1,1 @@
-var mnemonic = "ancient devote defense play fitness peasant wreck push calm stomach tennis royal";
+var mnemonic = "tourist pluck strike bounce quick food rent owner enjoy ugly peace own";

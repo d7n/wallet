@@ -1,1 +1,1 @@
-var mnemonic = "desk embody analyst snack anchor nature tank cube helmet symbol sample cat";
+var mnemonic = "drama long chalk shock wool clerk evil swamp various recipe canvas silly";

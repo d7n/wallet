@@ -1,1 +1,1 @@
-var mnemonic = "equal sorry because pond alone toddler boost avocado tree media piece exist";
+var mnemonic = "address scout hat mutual produce practice right sauce diary cable bid grape";

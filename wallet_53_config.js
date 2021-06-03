@@ -1,1 +1,1 @@
-var mnemonic = "mesh blind cotton delay mushroom disorder goat body electric crowd eager multiply";
+var mnemonic = "elevator husband excite arch roast below favorite faculty alley transfer intact retreat";

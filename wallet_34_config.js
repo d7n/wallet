@@ -1,1 +1,1 @@
-var mnemonic = "ocean hammer pottery prefer blade make claw ginger okay exile that faint";
+var mnemonic = "hole rigid produce harvest ritual shallow gallery hour mango furnace draw absurd";

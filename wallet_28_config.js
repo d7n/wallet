@@ -1,1 +1,1 @@
-var mnemonic = "peasant finish enlist vintage earth shallow solution raccoon sadness smooth minimum mule";
+var mnemonic = "text train mistake search object second final brave aunt young diamond below";

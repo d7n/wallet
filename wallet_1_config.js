@@ -1,1 +1,1 @@
-var mnemonic = "museum monkey fitness dose always miracle fever melt pattern divide squeeze thing";
+var mnemonic = "shuffle apart giggle acoustic post trade solution force siren answer task rigid";

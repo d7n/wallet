@@ -1,1 +1,1 @@
-var mnemonic = "state taxi dinner school heart vocal clerk master warm scheme table skill";
+var mnemonic = "ribbon leg glove syrup patrol inflict now city cereal trick turkey outdoor";

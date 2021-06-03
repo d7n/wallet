@@ -1,1 +1,1 @@
-var mnemonic = "broken draft quality tide river execute trick two exclude guard siege valve";
+var mnemonic = "arctic metal dose turn pause nice tongue canvas blind attract elbow pigeon";

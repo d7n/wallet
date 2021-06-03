@@ -1,1 +1,1 @@
-var mnemonic = "near second recycle vintage harbor toe curtain smoke screen private exercise unique";
+var mnemonic = "educate cry arrest zebra rough salt isolate piece actual chimney upon measure";

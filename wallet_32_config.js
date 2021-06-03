@@ -1,1 +1,1 @@
-var mnemonic = "copy swallow close nature barely miss inch maximum morning cable drop trim";
+var mnemonic = "divert best hybrid view foam dad verify hundred rate proud bounce dice";

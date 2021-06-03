@@ -1,1 +1,1 @@
-var mnemonic = "length diary sketch divide abuse off chest category immune identify laundry bird";
+var mnemonic = "ordinary vital father play thunder betray bronze lab disorder enter saddle close";

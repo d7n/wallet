@@ -1,1 +1,1 @@
-var mnemonic = "panel leaf evidence chair pig invite mystery era chef sure shop hunt";
+var mnemonic = "neck use ability series sail credit supply theme ignore omit glad license";

@@ -1,1 +1,1 @@
-var mnemonic = "demand top rose keen amount tent aware fix tortoise afford key symbol";
+var mnemonic = "april ability arch mask kitten army success hello raccoon clinic traffic cupboard";

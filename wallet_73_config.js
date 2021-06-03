@@ -1,1 +1,1 @@
-var mnemonic = "zebra lemon calm project eight lion galaxy glow long hospital slot box";
+var mnemonic = "measure solution good hood awake tenant wall harvest invest clock report theme";

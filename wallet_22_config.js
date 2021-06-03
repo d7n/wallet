@@ -1,1 +1,1 @@
-var mnemonic = "clock vintage come daughter alone polar clip claw merit wrap vast able";
+var mnemonic = "sheriff picture raven rural toward arrow bamboo harbor shoot critic final unlock";

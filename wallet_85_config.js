@@ -1,1 +1,1 @@
-var mnemonic = "prosper gauge vintage slight quality brief clean crime icon kitchen cage neutral";
+var mnemonic = "gas real plate enjoy junk fix dove dish plug push awful solar";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat village library praise spirit basket avoid object clog address corn wait";
+var mnemonic = "eager share skill wife light lab boil mosquito explain invest usage patch";

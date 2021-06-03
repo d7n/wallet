@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hub favorite peace armor grunt orphan ladder sun panel monitor cupboard";
+var mnemonic = "duty zero face tobacco often poem sort lady forget pave age better";

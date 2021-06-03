@@ -1,1 +1,1 @@
-var mnemonic = "mixture frozen wine pilot minute jacket away despair party candy plastic rely";
+var mnemonic = "under sorry upgrade access slot palm grain road perfect exhibit argue virtual";

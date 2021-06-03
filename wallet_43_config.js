@@ -1,1 +1,1 @@
-var mnemonic = "message subway team either loop wreck route then festival miracle adjust sea";
+var mnemonic = "give future bench next various collect prepare affair add resource truth sugar";

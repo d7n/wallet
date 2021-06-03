@@ -1,1 +1,1 @@
-var mnemonic = "tape infant skin middle often pottery play fade match peanut return month";
+var mnemonic = "length bag shop tortoise shrimp clown fuel swap clump venue auction gorilla";

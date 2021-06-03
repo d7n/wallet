@@ -1,1 +1,1 @@
-var mnemonic = "proof long envelope north planet bundle radio build clerk flat raise obey";
+var mnemonic = "fossil topic document own route bracket cabin task boy brick connect front";

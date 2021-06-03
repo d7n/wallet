@@ -1,1 +1,1 @@
-var mnemonic = "attend nurse master jacket sign wrist across enter aspect dismiss vendor stem";
+var mnemonic = "latin antenna arrest dentist hard stone witness soup insane cover kiss abuse";

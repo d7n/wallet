@@ -1,1 +1,1 @@
-var mnemonic = "champion endless stomach science crazy north kiss shift canoe clown lazy bright";
+var mnemonic = "mutual canvas grape soup fork air discover bike brain index panic maximum";

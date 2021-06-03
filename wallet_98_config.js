@@ -1,1 +1,1 @@
-var mnemonic = "amazing invite hip kind tilt jump fever another solid split load exotic";
+var mnemonic = "enough cause pet camera reward oyster web castle slim pen now install";

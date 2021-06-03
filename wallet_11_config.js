@@ -1,1 +1,1 @@
-var mnemonic = "seek giraffe sting talent true broccoli festival snap arrive traffic disorder caution";
+var mnemonic = "fiscal collect erase screen sadness team modify approve surprise bleak predict attract";

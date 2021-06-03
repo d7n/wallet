@@ -1,1 +1,1 @@
-var mnemonic = "used breeze prepare gravity tell lab someone tray dawn sell orient shiver";
+var mnemonic = "drastic flock divide crucial lift bundle brush donate exhibit model high often";

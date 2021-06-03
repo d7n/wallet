@@ -1,1 +1,1 @@
-var mnemonic = "feed wheat envelope bus define predict party leisure involve boat matter giant";
+var mnemonic = "sail pepper clerk grab fitness monster wall poverty diagram senior raw bonus";

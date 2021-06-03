@@ -1,1 +1,1 @@
-var mnemonic = "vocal behind crash random wrestle laptop oval invest shell dove develop valve";
+var mnemonic = "glimpse canal ladder clay assume creek focus spike human slight pear idle";

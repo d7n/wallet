@@ -1,1 +1,1 @@
-var mnemonic = "pill eyebrow able task unable sound miracle guilt appear kit advice later";
+var mnemonic = "drive track artwork shed glide sunset rally size enforce write wide session";

@@ -1,1 +1,1 @@
-var mnemonic = "vague image toward cart hover crane mass rigid gloom cable law update";
+var mnemonic = "view copy funny grass name six predict bright crunch oyster eagle village";

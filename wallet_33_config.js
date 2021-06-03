@@ -1,1 +1,1 @@
-var mnemonic = "muscle blue cupboard palace require antenna mistake coffee found cousin rhythm neck";
+var mnemonic = "few orange echo gym lounge disagree couch place essay fuel kite shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "second foster way glad control school banner genre clay betray cart crane";
+var mnemonic = "scrap immense era brave super peanut state kick audit bring suit useless";

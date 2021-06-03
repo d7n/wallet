@@ -1,1 +1,1 @@
-var mnemonic = "panic solid pelican voyage flower remind then estate sign giant escape parent";
+var mnemonic = "dash turn thrive deer sphere city vintage clump trend gate salt turkey";

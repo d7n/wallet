@@ -1,1 +1,1 @@
-var mnemonic = "top pupil math virtual tone tenant mystery work notable affair wire basket";
+var mnemonic = "around omit lava walk hospital cruel mango then claim fatigue echo chef";

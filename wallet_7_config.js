@@ -1,1 +1,1 @@
-var mnemonic = "monitor sand super slim design muffin virus exotic odor champion budget lesson";
+var mnemonic = "raise hybrid town film pill goose soldier token balance lawsuit vital prevent";

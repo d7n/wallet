@@ -1,1 +1,1 @@
-var mnemonic = "fit fall neck still syrup galaxy bitter uncover claim black leader believe";
+var mnemonic = "item among clerk innocent wise angle stable text coffee recycle type wait";

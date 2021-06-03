@@ -1,1 +1,1 @@
-var mnemonic = "shuffle member dial grant share inquiry version pumpkin hire meadow actual palm";
+var mnemonic = "trust cinnamon praise monkey atom expose access congress choice walnut security demand";

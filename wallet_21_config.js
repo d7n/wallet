@@ -1,1 +1,1 @@
-var mnemonic = "genre spy ski anchor nose dolphin oxygen absent hard weird outer pelican";
+var mnemonic = "doctor february decorate six thumb tuna escape use subway also dose drill";

@@ -1,1 +1,1 @@
-var mnemonic = "actor aisle youth base interest cement float van total real original hybrid";
+var mnemonic = "lecture patch race merry tiger ignore awkward bind broom clinic program key";

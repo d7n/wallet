@@ -1,1 +1,1 @@
-var mnemonic = "tail receive lunch space useless skirt grid double toilet smile insect kiss";
+var mnemonic = "soda depth laugh rely camera devote clever friend problem opinion question battle";

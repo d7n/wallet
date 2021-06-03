@@ -1,1 +1,1 @@
-var mnemonic = "aunt announce universe zebra stay crunch butter artefact stereo shock quick neglect";
+var mnemonic = "curtain image naive penalty model winter pull toast spell wall sock broccoli";

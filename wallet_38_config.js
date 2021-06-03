@@ -1,1 +1,1 @@
-var mnemonic = "lawn talk lizard cricket hundred trip regular license foam nominee army enlist";
+var mnemonic = "tenant nose model exclude immune coconut interest alley able invite general wish";

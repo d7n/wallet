@@ -1,1 +1,1 @@
-var mnemonic = "practice arm clutch awful decide split daughter dose badge what sunny urge";
+var mnemonic = "anger trophy goose any attack onion bacon shine fish tube below sister";

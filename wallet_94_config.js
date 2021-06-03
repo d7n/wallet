@@ -1,1 +1,1 @@
-var mnemonic = "random wisdom beauty grace fitness teach come vendor yellow question symptom awful";
+var mnemonic = "view split blue eternal fog country radar dune find child arrow syrup";

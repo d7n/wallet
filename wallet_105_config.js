@@ -1,1 +1,1 @@
-var mnemonic = "diamond forum liberty truth mosquito illness web story chimney right neither duck";
+var mnemonic = "idea odor nurse science arrest horror juice churn crop trial movie gap";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain oyster rate often make bleak neglect child provide discover moral swamp";
+var mnemonic = "pepper ranch sustain sign disagree pelican time toast roof fluid head soap";

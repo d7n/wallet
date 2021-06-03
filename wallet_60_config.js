@@ -1,1 +1,1 @@
-var mnemonic = "matter learn suffer term crater eager confirm tragic twenty brick master rubber";
+var mnemonic = "wine code success snap under forget earn sort skin tube gasp pear";

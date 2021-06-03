@@ -1,1 +1,1 @@
-var mnemonic = "citizen kidney style horse drama split upper beach smooth treat state mix";
+var mnemonic = "thank letter typical tray guitar print decorate reopen room struggle pepper sunset";

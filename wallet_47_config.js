@@ -1,1 +1,1 @@
-var mnemonic = "supreme enough planet fluid scatter food garlic pet network alien defense speed";
+var mnemonic = "taxi turtle swim club juice silk cannon inherit loan warrior detect clay";

@@ -1,1 +1,1 @@
-var mnemonic = "immense quick shuffle crazy fan mesh flash inform skirt atom exist aspect";
+var mnemonic = "ahead network job damp mention away property click lens travel catalog suspect";

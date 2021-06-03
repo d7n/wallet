@@ -1,1 +1,1 @@
-var mnemonic = "clay envelope frost below cloud scrap educate urban birth real document brother";
+var mnemonic = "better anchor uncover wealth ozone bullet federal trophy goose mobile heart unusual";
