@@ -1,1 +1,1 @@
-var mnemonic = "trust castle home airport riot august vivid arch position gauge hurry decorate";
+var mnemonic = "coconut excess length divorce pink pact resource immune budget picnic remove high";

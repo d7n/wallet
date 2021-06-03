@@ -1,1 +1,1 @@
-var mnemonic = "sail pepper clerk grab fitness monster wall poverty diagram senior raw bonus";
+var mnemonic = "meadow wood baby away aware memory devote neck tide melt fan income";

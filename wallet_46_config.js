@@ -1,1 +1,1 @@
-var mnemonic = "ribbon leg glove syrup patrol inflict now city cereal trick turkey outdoor";
+var mnemonic = "safe soup kingdom inject material decrease world issue flight purity glare clutch";

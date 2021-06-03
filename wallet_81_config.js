@@ -1,1 +1,1 @@
-var mnemonic = "gorilla wear sight whale multiply frown green bike sausage birth tongue stone";
+var mnemonic = "segment swim prepare ginger gallery bacon hero grape hunt health can donor";

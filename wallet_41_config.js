@@ -1,1 +1,1 @@
-var mnemonic = "swing alarm nut hill surround goat essay answer wolf hidden scatter remind";
+var mnemonic = "bracket escape gossip flee above valley clog detect cost cost fury air";

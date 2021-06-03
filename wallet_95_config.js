@@ -1,1 +1,1 @@
-var mnemonic = "scrap immense era brave super peanut state kick audit bring suit useless";
+var mnemonic = "latin awake collect siege detect gospel churn slogan course tone awake photo";

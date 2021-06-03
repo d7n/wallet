@@ -1,1 +1,1 @@
-var mnemonic = "crucial helmet supply upset frog zero artwork buffalo warfare mind course panic";
+var mnemonic = "saddle unable embrace foil blame key hour upper occur motion index double";

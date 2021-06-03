@@ -1,1 +1,1 @@
-var mnemonic = "shadow wedding pretty business shock concert air divide alarm expire will audit";
+var mnemonic = "hen uncover lemon leader fortune valve claw term chapter silly between collect";

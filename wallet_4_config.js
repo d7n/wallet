@@ -1,1 +1,1 @@
-var mnemonic = "purchase sock nose subway save cushion eager eager hill aerobic such main";
+var mnemonic = "voyage ride razor heavy capital uncover spawn reduce age please never riot";

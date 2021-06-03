@@ -1,1 +1,1 @@
-var mnemonic = "chaos obscure nice rebel lava text blood hire funny staff hip tongue";
+var mnemonic = "vintage wisdom goddess bike gloom pioneer minor fashion toast want anchor gate";

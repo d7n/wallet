@@ -1,1 +1,1 @@
-var mnemonic = "service scan silver maple blame reopen ensure inside bus oppose noise finger";
+var mnemonic = "half path claw horror uniform apart repair win purpose agent dad web";

@@ -1,1 +1,1 @@
-var mnemonic = "anger trophy goose any attack onion bacon shine fish tube below sister";
+var mnemonic = "swim achieve setup idle indicate chunk urge twice allow present dog entry";

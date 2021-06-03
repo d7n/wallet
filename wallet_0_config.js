@@ -1,1 +1,1 @@
-var mnemonic = "eager share skill wife light lab boil mosquito explain invest usage patch";
+var mnemonic = "dismiss company gallery behave tonight knee distance hurt glory smart celery deny";

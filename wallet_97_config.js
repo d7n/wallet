@@ -1,1 +1,1 @@
-var mnemonic = "buffalo trap off solution theme gravity steel behind quit brick jaguar dog";
+var mnemonic = "toward ability degree simple game whip violin great this brother bottom vendor";

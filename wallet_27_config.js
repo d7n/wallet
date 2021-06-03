@@ -1,1 +1,1 @@
-var mnemonic = "south negative crawl merry city start keen estate logic orange bomb agree";
+var mnemonic = "source nest ask romance shrimp clown rookie paddle useful love correct resist";

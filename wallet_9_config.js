@@ -1,1 +1,1 @@
-var mnemonic = "apart deputy error fringe glow vibrant ticket guide meat guitar visual kitten";
+var mnemonic = "obey abstract hidden salute under must alarm topple because output wash awesome";

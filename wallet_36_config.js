@@ -1,1 +1,1 @@
-var mnemonic = "tourist pluck strike bounce quick food rent owner enjoy ugly peace own";
+var mnemonic = "connect swamp ahead west current offer neutral language mixed online door gallery";

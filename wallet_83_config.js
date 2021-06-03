@@ -1,1 +1,1 @@
-var mnemonic = "embody insane resist hotel guide shift admit gravity front mixture afford uniform";
+var mnemonic = "suffer range security obtain life reject example together illegal evil dumb sugar";

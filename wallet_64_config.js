@@ -1,1 +1,1 @@
-var mnemonic = "lounge winter wrong shell aerobic simple enact figure laundry sweet holiday fog";
+var mnemonic = "father hockey limit always confirm soup shock scan crunch winner slogan panda";

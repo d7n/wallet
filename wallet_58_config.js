@@ -1,1 +1,1 @@
-var mnemonic = "trust cinnamon praise monkey atom expose access congress choice walnut security demand";
+var mnemonic = "mesh excuse unfold mom salmon year orient foster worth deputy noble enforce";

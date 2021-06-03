@@ -1,1 +1,1 @@
-var mnemonic = "minor thing ankle hobby rib power pave bachelor eyebrow visit metal blind";
+var mnemonic = "gossip maximum animal pyramid where spirit clean photo insane sea beyond tape";

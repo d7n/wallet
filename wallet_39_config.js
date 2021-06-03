@@ -1,1 +1,1 @@
-var mnemonic = "under sorry upgrade access slot palm grain road perfect exhibit argue virtual";
+var mnemonic = "sail grain resist sustain concert obtain outdoor reflect sniff frog practice figure";

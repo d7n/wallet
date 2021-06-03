@@ -1,1 +1,1 @@
-var mnemonic = "ahead network job damp mention away property click lens travel catalog suspect";
+var mnemonic = "train mix print stadium profit tomato advice destroy bag announce tomorrow deal";

@@ -1,1 +1,1 @@
-var mnemonic = "item among clerk innocent wise angle stable text coffee recycle type wait";
+var mnemonic = "knee devote govern dilemma view possible amazing option dish animal come capital";

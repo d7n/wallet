@@ -1,1 +1,1 @@
-var mnemonic = "around omit lava walk hospital cruel mango then claim fatigue echo chef";
+var mnemonic = "injury panel fat culture hub spirit all hockey gaze title swing depend";

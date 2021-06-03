@@ -1,1 +1,1 @@
-var mnemonic = "hole rigid produce harvest ritual shallow gallery hour mango furnace draw absurd";
+var mnemonic = "hard ahead grant social report field weapon cherry green hidden review pole";

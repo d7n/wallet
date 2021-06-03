@@ -1,1 +1,1 @@
-var mnemonic = "view copy funny grass name six predict bright crunch oyster eagle village";
+var mnemonic = "busy voyage sphere silver help uphold okay huge cherry rate skull shoe";

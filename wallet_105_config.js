@@ -1,1 +1,1 @@
-var mnemonic = "idea odor nurse science arrest horror juice churn crop trial movie gap";
+var mnemonic = "fiction town ceiling cabbage dentist father summer rival sound spot add surge";

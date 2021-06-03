@@ -1,1 +1,1 @@
-var mnemonic = "enough cause pet camera reward oyster web castle slim pen now install";
+var mnemonic = "host connect neglect arena obtain fantasy edit stamp gospel ivory object bonus";

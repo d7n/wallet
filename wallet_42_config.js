@@ -1,1 +1,1 @@
-var mnemonic = "drastic flock divide crucial lift bundle brush donate exhibit model high often";
+var mnemonic = "lunar devote three cram cycle tray window audit business nuclear verb mask";

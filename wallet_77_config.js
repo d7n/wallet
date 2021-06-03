@@ -1,1 +1,1 @@
-var mnemonic = "creek trophy position mystery stand scorpion choose sponsor mixture secret reflect again";
+var mnemonic = "frequent drift pulse script gate motion gesture sunny bike stone elephant layer";

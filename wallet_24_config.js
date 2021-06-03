@@ -1,1 +1,1 @@
-var mnemonic = "address scout hat mutual produce practice right sauce diary cable bid grape";
+var mnemonic = "puzzle noble replace impact nature secret price trumpet road rude public reward";

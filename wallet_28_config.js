@@ -1,1 +1,1 @@
-var mnemonic = "text train mistake search object second final brave aunt young diamond below";
+var mnemonic = "rotate warm forget large thank exercise because virtual brass giraffe flavor february";

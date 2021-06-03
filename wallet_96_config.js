@@ -1,1 +1,1 @@
-var mnemonic = "neither furnace borrow august pistol tackle denial face snake perfect clump liquid";
+var mnemonic = "mountain control curious primary duck prevent feed trade salon outside axis slush";

@@ -1,1 +1,1 @@
-var mnemonic = "soda depth laugh rely camera devote clever friend problem opinion question battle";
+var mnemonic = "apology west rate conduct enter maze reason shuffle average offer error voyage";

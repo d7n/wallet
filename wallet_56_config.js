@@ -1,1 +1,1 @@
-var mnemonic = "drive track artwork shed glide sunset rally size enforce write wide session";
+var mnemonic = "length resource frost surface glow cover milk visa state soccer embrace artist";

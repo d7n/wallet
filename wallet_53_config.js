@@ -1,1 +1,1 @@
-var mnemonic = "elevator husband excite arch roast below favorite faculty alley transfer intact retreat";
+var mnemonic = "east about when tower undo file round coin same frown unaware resemble";

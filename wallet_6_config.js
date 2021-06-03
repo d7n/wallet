@@ -1,1 +1,1 @@
-var mnemonic = "vault crazy danger million large mom echo youth clip harbor shy shop";
+var mnemonic = "output head decorate mother top advance link reveal farm engine foil treat";

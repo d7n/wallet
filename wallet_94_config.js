@@ -1,1 +1,1 @@
-var mnemonic = "view split blue eternal fog country radar dune find child arrow syrup";
+var mnemonic = "bubble lunch become ask now outdoor cloud public mom soup purse loud";

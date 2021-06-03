@@ -1,1 +1,1 @@
-var mnemonic = "shuffle apart giggle acoustic post trade solution force siren answer task rigid";
+var mnemonic = "end venue carbon snack draw know nurse comfort nice solve stomach vague";

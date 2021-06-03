@@ -1,1 +1,1 @@
-var mnemonic = "doctor february decorate six thumb tuna escape use subway also dose drill";
+var mnemonic = "beach radio crew moon inspire skate hope denial try core tuna estate";

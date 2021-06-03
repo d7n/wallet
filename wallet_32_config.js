@@ -1,1 +1,1 @@
-var mnemonic = "divert best hybrid view foam dad verify hundred rate proud bounce dice";
+var mnemonic = "picnic blood lend tornado april walnut drum element awesome crush fringe gym";

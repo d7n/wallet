@@ -1,1 +1,1 @@
-var mnemonic = "fossil topic document own route bracket cabin task boy brick connect front";
+var mnemonic = "doll mirror palm payment actual enlist detail worth elbow code panda seat";

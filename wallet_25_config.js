@@ -1,1 +1,1 @@
-var mnemonic = "breeze topic hill follow donkey asset vital believe copy wide settle cattle";
+var mnemonic = "taxi shield gorilla wrong identify arm menu acoustic park venture memory holiday";

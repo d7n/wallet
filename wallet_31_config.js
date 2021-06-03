@@ -1,1 +1,1 @@
-var mnemonic = "track lunar warfare movie subject olive rather lawsuit sponsor wreck nasty castle";
+var mnemonic = "chat olympic option elder miracle any frown guess script script diamond abandon";

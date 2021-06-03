@@ -1,1 +1,1 @@
-var mnemonic = "unusual mirror market rebel inhale voice media cram deal hurry devote scatter";
+var mnemonic = "reunion trap social sing violin yard original exotic lawn lunch crush illness";

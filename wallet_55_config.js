@@ -1,1 +1,1 @@
-var mnemonic = "scale season pioneer stadium smoke slight tuition doll scout mobile forget crucial";
+var mnemonic = "much hotel scout buyer final laptop bacon online amount moral file pair";

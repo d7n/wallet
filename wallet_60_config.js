@@ -1,1 +1,1 @@
-var mnemonic = "wine code success snap under forget earn sort skin tube gasp pear";
+var mnemonic = "egg couch tower subway scrap topple letter crime harbor shy elephant saddle";

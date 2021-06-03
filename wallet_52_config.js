@@ -1,1 +1,1 @@
-var mnemonic = "beyond logic hint output oven prevent pelican ability cup burger long filter";
+var mnemonic = "oppose increase crew genuine convince north cinnamon grid drive route honey valley";

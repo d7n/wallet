@@ -1,1 +1,1 @@
-var mnemonic = "fiscal collect erase screen sadness team modify approve surprise bleak predict attract";
+var mnemonic = "catalog brush clay steak draft cruise token plunge service unable token assault";

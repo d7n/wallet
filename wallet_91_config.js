@@ -1,1 +1,1 @@
-var mnemonic = "retire giraffe flush great budget beach always plunge taste blur visit dismiss";
+var mnemonic = "east decade perfect swarm forward worry achieve unhappy disease room february name";

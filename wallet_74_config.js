@@ -1,1 +1,1 @@
-var mnemonic = "pottery peanut refuse snake able output actual under little stone glare clog";
+var mnemonic = "lion weird nice draw apart chief toast midnight spirit document title extend";

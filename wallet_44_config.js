@@ -1,1 +1,1 @@
-var mnemonic = "anger option mandate recycle raven theme mountain marine someone stamp buddy rich";
+var mnemonic = "inspire attack food health vast start immense narrow question glimpse favorite belt";

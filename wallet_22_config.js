@@ -1,1 +1,1 @@
-var mnemonic = "sheriff picture raven rural toward arrow bamboo harbor shoot critic final unlock";
+var mnemonic = "walnut field diesel cake surprise peasant sleep bubble upgrade rotate frog aim";

@@ -1,1 +1,1 @@
-var mnemonic = "educate cry arrest zebra rough salt isolate piece actual chimney upon measure";
+var mnemonic = "unique mandate primary evidence hub donate corn title beef more stock fit";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary vital father play thunder betray bronze lab disorder enter saddle close";
+var mnemonic = "okay absent churn fix rent wrap bind echo average chair envelope wall";

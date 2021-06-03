@@ -1,1 +1,1 @@
-var mnemonic = "april ability arch mask kitten army success hello raccoon clinic traffic cupboard";
+var mnemonic = "shove hood salute supreme chaos evil song another guess deny chapter action";

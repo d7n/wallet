@@ -1,1 +1,1 @@
-var mnemonic = "panda phone jump trade atom island daring subway protect behave crouch gun";
+var mnemonic = "sick rebuild hundred leave forget mandate lab health layer runway cheese correct";

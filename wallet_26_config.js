@@ -1,1 +1,1 @@
-var mnemonic = "salt better secret poet glue betray identify there vast trust school output";
+var mnemonic = "egg embark sense fitness crucial very bulk horn caught brand resource father";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit betray lamp cliff ginger amount diary bottom vault shoulder inhale beach";
+var mnemonic = "kick mushroom vanish skate aspect animal nice perfect dream link skate lecture";

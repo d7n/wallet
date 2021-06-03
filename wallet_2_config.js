@@ -1,1 +1,1 @@
-var mnemonic = "lecture patch race merry tiger ignore awkward bind broom clinic program key";
+var mnemonic = "game renew hill typical benefit earth despair fly stamp enforce quarter prefer";

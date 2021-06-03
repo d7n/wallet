@@ -1,1 +1,1 @@
-var mnemonic = "grant law nephew stem elder region credit project patrol wink glad primary";
+var mnemonic = "wasp beach evolve casual slow bulk middle vivid vicious tortoise erase split";

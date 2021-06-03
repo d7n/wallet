@@ -1,1 +1,1 @@
-var mnemonic = "bless faith region extend tobacco glide evolve close raise board north front";
+var mnemonic = "turtle hobby guilt seat coffee meadow eagle life crucial shift zone meat";

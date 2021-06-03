@@ -1,1 +1,1 @@
-var mnemonic = "duty zero face tobacco often poem sort lady forget pave age better";
+var mnemonic = "submit fit moral sport horror title vital oppose special taste evolve icon";

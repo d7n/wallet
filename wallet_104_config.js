@@ -1,1 +1,1 @@
-var mnemonic = "chest cupboard one novel decline liquid cat lab oblige category citizen shock";
+var mnemonic = "gap census hammer quarter music bag price donate venue divert cause deputy";

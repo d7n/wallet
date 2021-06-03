@@ -1,1 +1,1 @@
-var mnemonic = "melody parrot pelican license grain owner expect all harvest capable special chaos";
+var mnemonic = "increase pill parrot turtle sail regular actual safe document neutral honey mail";

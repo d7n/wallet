@@ -1,1 +1,1 @@
-var mnemonic = "give future bench next various collect prepare affair add resource truth sugar";
+var mnemonic = "forum gadget pudding radar increase brass member physical beach abuse minor help";

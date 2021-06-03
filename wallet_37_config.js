@@ -1,1 +1,1 @@
-var mnemonic = "better anchor uncover wealth ozone bullet federal trophy goose mobile heart unusual";
+var mnemonic = "tiny deposit reopen search tooth tomato room feel already attack quiz february";

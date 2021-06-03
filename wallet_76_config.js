@@ -1,1 +1,1 @@
-var mnemonic = "cabbage equal soda unable bomb occur way gaze lecture kid still color";
+var mnemonic = "main giggle ankle giant build carpet bid vital together eternal summer equal";

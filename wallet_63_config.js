@@ -1,1 +1,1 @@
-var mnemonic = "sleep marine notice knee decrease wheat drink curtain dentist ice era annual";
+var mnemonic = "waste sand elevator assault inhale lady more carpet dove drip reflect already";

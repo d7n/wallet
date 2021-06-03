@@ -1,1 +1,1 @@
-var mnemonic = "thought bronze brick person trick brick dinosaur youth amazing tomorrow innocent spike";
+var mnemonic = "cover hedgehog medal step glory address win inside kind wage float rich";

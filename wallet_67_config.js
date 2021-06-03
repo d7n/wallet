@@ -1,1 +1,1 @@
-var mnemonic = "brick fun clown eternal unusual goat vast eternal notable recall tenant pioneer";
+var mnemonic = "veteran scout live bottom torch weekend pizza rifle leopard execute lyrics movie";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic metal dose turn pause nice tongue canvas blind attract elbow pigeon";
+var mnemonic = "fire acid ozone cherry empower excite cross hammer script tobacco talk diary";

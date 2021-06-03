@@ -1,1 +1,1 @@
-var mnemonic = "glimpse canal ladder clay assume creek focus spike human slight pear idle";
+var mnemonic = "pizza miss leave tongue olympic dumb boring nut disease heart adult reduce";

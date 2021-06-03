@@ -1,1 +1,1 @@
-var mnemonic = "latin antenna arrest dentist hard stone witness soup insane cover kiss abuse";
+var mnemonic = "organ certain payment swallow bar panel adapt erase hint meat cake syrup";

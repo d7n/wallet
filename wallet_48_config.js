@@ -1,1 +1,1 @@
-var mnemonic = "lawn lawsuit tenant bridge grain outer version flight latin slam slam either";
+var mnemonic = "valid cart wear couple post sing then tiny lady advance theory then";

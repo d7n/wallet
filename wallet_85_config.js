@@ -1,1 +1,1 @@
-var mnemonic = "gas real plate enjoy junk fix dove dish plug push awful solar";
+var mnemonic = "disorder position often arrange yard width dry brother inspire squirrel polar security";

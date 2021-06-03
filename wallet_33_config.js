@@ -1,1 +1,1 @@
-var mnemonic = "few orange echo gym lounge disagree couch place essay fuel kite shaft";
+var mnemonic = "hand uphold sail north spring model hurdle valve hungry vague change yellow";

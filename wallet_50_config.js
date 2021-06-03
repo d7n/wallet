@@ -1,1 +1,1 @@
-var mnemonic = "original replace enemy catch catch uncover case ladder avocado clay vapor crouch";
+var mnemonic = "common bracket repair whisper chimney project surface fee screen square style page";

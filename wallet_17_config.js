@@ -1,1 +1,1 @@
-var mnemonic = "pepper ranch sustain sign disagree pelican time toast roof fluid head soap";
+var mnemonic = "doll truth neither comfort include green pioneer history tell deliver cherry rifle";

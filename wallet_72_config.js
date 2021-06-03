@@ -1,1 +1,1 @@
-var mnemonic = "neck use ability series sail credit supply theme ignore omit glad license";
+var mnemonic = "pipe electric brown wisdom velvet humble neglect polar access torch shift match";

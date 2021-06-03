@@ -1,1 +1,1 @@
-var mnemonic = "taxi turtle swim club juice silk cannon inherit loan warrior detect clay";
+var mnemonic = "coconut account sea eternal patrol warm off veteran festival observe cabbage quick";

@@ -1,1 +1,1 @@
-var mnemonic = "leader drive stage pluck gaze pony depend arrest empty filter cinnamon fog";
+var mnemonic = "level clarify yellow assist test ketchup lazy nose civil insect fiction because";

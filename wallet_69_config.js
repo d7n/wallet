@@ -1,1 +1,1 @@
-var mnemonic = "drama long chalk shock wool clerk evil swamp various recipe canvas silly";
+var mnemonic = "anxiety tomorrow endorse relax again steak option plug pizza crew black cabin";

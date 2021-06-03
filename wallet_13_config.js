@@ -1,1 +1,1 @@
-var mnemonic = "curtain image naive penalty model winter pull toast spell wall sock broccoli";
+var mnemonic = "pear pet abandon coconut letter employ thumb capable spell index weird month";

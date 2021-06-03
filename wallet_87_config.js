@@ -1,1 +1,1 @@
-var mnemonic = "girl acquire steak velvet toast myself swing diary hard bread dress stumble";
+var mnemonic = "begin month input laugh view hope enjoy pact scissors solve spoil bottom";

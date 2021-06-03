@@ -1,1 +1,1 @@
-var mnemonic = "frog scale vote just mirror fever unlock venture settle illness snake now";
+var mnemonic = "very rhythm chalk toss already produce olympic sadness project science dolphin bacon";

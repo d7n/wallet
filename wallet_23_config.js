@@ -1,1 +1,1 @@
-var mnemonic = "position reject cricket nurse gorilla olive exhaust fire truly destroy salmon apple";
+var mnemonic = "legend supreme benefit gate another proof carbon icon now artist sustain peanut";

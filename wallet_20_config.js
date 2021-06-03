@@ -1,1 +1,1 @@
-var mnemonic = "doll acoustic spawn income river similar abuse coral visa next female relief";
+var mnemonic = "dry label female winner stuff you table screen pave route mix oval";

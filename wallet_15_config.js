@@ -1,1 +1,1 @@
-var mnemonic = "curve vehicle belt urge maple gauge violin involve message art rain knock";
+var mnemonic = "chief bargain rebuild thought milk turkey viable scan spy craft artist hidden";

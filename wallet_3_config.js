@@ -1,1 +1,1 @@
-var mnemonic = "thank letter typical tray guitar print decorate reopen room struggle pepper sunset";
+var mnemonic = "eager mimic virus loan govern output raven bargain file inspire frog civil";

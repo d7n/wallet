@@ -1,1 +1,1 @@
-var mnemonic = "run cross grow beyond bike hawk canyon piano endorse spot path broken";
+var mnemonic = "inhale shaft urban crush range river dream time easy crater define fish";

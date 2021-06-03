@@ -1,1 +1,1 @@
-var mnemonic = "blossom quit crucial double alert stay eternal decrease odor shiver pistol neck";
+var mnemonic = "slab current palm guard grunt obtain afford elite people immune top wonder";
