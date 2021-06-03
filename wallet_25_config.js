@@ -1,1 +1,1 @@
-var mnemonic = "gesture slim force junk green afford chimney syrup shaft asthma twelve elevator";
+var mnemonic = "replace afford display book gloom pioneer ready write snack badge present warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery rescue brother drip scale assist hamster casino ripple abuse omit case";
+var mnemonic = "inflict final track ensure leader pudding loan buzz work grass maid zone";

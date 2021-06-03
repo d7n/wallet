@@ -1,1 +1,1 @@
-var mnemonic = "ensure tide equip team tenant coin insect liquid illegal glance sheriff parent";
+var mnemonic = "injury blur when speak render warm six fat squirrel mobile reward guide";

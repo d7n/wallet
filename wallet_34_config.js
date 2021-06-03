@@ -1,1 +1,1 @@
-var mnemonic = "rhythm office error rice pencil various wash leg begin dress zone sign";
+var mnemonic = "achieve coconut energy butter retire decline educate gain ordinary end dizzy help";

@@ -1,1 +1,1 @@
-var mnemonic = "price million boat essay labor rude paddle dismiss shrimp deputy loud apart";
+var mnemonic = "know tissue crane impose tilt alter okay first sing powder nerve cry";

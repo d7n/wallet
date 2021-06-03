@@ -1,1 +1,1 @@
-var mnemonic = "naive company myth two license desert life awake normal tell depart lunar";
+var mnemonic = "upon enjoy train sword there audit answer town glare attract group honey";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent olympic truth traffic company unfair zebra pear ramp pig renew kind";
+var mnemonic = "shed lottery biology mention pitch width vague still popular wife auction disorder";

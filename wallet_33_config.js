@@ -1,1 +1,1 @@
-var mnemonic = "purchase spring stem decrease priority panel current never floor sheriff catch ghost";
+var mnemonic = "they stock old process announce famous maple urge flat win aunt autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic know body sausage auto quantum proof olive rose problem liberty stamp";
+var mnemonic = "either exhibit airport eagle banner neglect organ order canyon junk boy huge";

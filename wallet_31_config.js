@@ -1,1 +1,1 @@
-var mnemonic = "empty shoulder goddess setup soon credit note tilt speed extend tooth palm";
+var mnemonic = "peace syrup shine drive lock volcano morning federal resist pelican luxury begin";

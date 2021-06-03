@@ -1,1 +1,1 @@
-var mnemonic = "detail small wife oxygen auction boring iron omit horror patch rain submit";
+var mnemonic = "quiz observe recycle job tip task stage upset fiber theory popular tent";

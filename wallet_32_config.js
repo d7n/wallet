@@ -1,1 +1,1 @@
-var mnemonic = "mistake seed kind upgrade secret very brain tissue flower story cram hire";
+var mnemonic = "fragile describe balcony truck bargain hospital powder kiss primary river roof game";

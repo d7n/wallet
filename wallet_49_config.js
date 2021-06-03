@@ -1,1 +1,1 @@
-var mnemonic = "car panther coral angle motor time cook margin riot term rice ostrich";
+var mnemonic = "parent slow primary home little chase fringe army door turn smart dilemma";

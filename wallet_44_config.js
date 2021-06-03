@@ -1,1 +1,1 @@
-var mnemonic = "steel draft hill champion play erupt wagon across enable north canoe razor";
+var mnemonic = "hundred lunar suffer move bamboo craft thumb flame permit spatial throw catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor mountain faith country gaze more fit answer quit orphan smile such";
+var mnemonic = "vanish stay gadget spy satoshi cliff soccer insane despair welcome pool fence";

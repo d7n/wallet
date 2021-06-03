@@ -1,1 +1,1 @@
-var mnemonic = "dry legal please tiny float fence black raw excess feature nice citizen";
+var mnemonic = "since pill tiny already wash cotton scissors sunny dinosaur drop miss rapid";

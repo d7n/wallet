@@ -1,1 +1,1 @@
-var mnemonic = "stereo prepare walk slow response alarm float decade bonus remove degree employ";
+var mnemonic = "deny lift type bring result solid journey bulb fence rapid panic medal";

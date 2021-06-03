@@ -1,1 +1,1 @@
-var mnemonic = "aerobic home exile final video grain female forum choose split boost art";
+var mnemonic = "service robot alert asthma uniform inject swap purchase sniff seed wool hybrid";

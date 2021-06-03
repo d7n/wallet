@@ -1,1 +1,1 @@
-var mnemonic = "sugar example prevent human unaware float depth bus jazz spider rebuild allow";
+var mnemonic = "globe orchard dumb traffic march system again quarter derive immense attitude around";

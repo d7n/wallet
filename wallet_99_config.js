@@ -1,1 +1,1 @@
-var mnemonic = "input arm sport orange loan enter trap business next husband boss boat";
+var mnemonic = "work tissue narrow water chronic fatal clean fuel silent balance isolate crime";

@@ -1,1 +1,1 @@
-var mnemonic = "sign subject imitate doctor conduct major aware scissors elevator hotel double bone";
+var mnemonic = "random jealous scene limb step inflict friend emerge birth lunar chef always";

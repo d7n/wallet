@@ -1,1 +1,1 @@
-var mnemonic = "treat cable renew rain uniform skull decline october jazz output tree obey";
+var mnemonic = "spring frozen ladder similar this mirror know hat orbit tip nurse dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal device topic wonder soccer isolate engine lens question quit sock mystery";
+var mnemonic = "dawn toe depart weird wood inch advice dial april express obvious rely";

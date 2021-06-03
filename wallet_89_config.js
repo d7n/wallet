@@ -1,1 +1,1 @@
-var mnemonic = "ranch announce glad dumb sting release slot now atom tobacco cliff garden";
+var mnemonic = "topple vibrant series trumpet various suffer diet glue absent expect couple enemy";

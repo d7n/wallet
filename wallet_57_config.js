@@ -1,1 +1,1 @@
-var mnemonic = "giant crime wrestle truly curious load empower sibling wood charge sense swarm";
+var mnemonic = "since stereo afraid copy category wisdom balcony refuse share face lyrics pyramid";

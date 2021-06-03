@@ -1,1 +1,1 @@
-var mnemonic = "milk motor demand visual nothing divert bacon ugly feed west earn race";
+var mnemonic = "step daring suspect either must auto must damp liar riot brass never";

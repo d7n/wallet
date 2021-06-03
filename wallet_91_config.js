@@ -1,1 +1,1 @@
-var mnemonic = "key sail involve weasel gap color rebel regret almost diary tuition symbol";
+var mnemonic = "cup shallow usual across suggest gasp olive engine absorb upset pear vivid";

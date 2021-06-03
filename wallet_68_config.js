@@ -1,1 +1,1 @@
-var mnemonic = "leg snow grant spawn body funny coast staff office plunge stove admit";
+var mnemonic = "box domain author vibrant trade captain train height fish into peanut fan";

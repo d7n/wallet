@@ -1,1 +1,1 @@
-var mnemonic = "garage course aisle vital pitch radio spoil jaguar salad purpose neutral cabin";
+var mnemonic = "clay rocket dynamic weapon vault shift tool bridge ketchup pony miss try";

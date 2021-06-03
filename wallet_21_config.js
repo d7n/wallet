@@ -1,1 +1,1 @@
-var mnemonic = "small horror tobacco dolphin ecology slow acid april awake buffalo web another";
+var mnemonic = "accuse tip clever today arrange club siren anxiety ill marble cancel advance";

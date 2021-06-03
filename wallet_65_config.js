@@ -1,1 +1,1 @@
-var mnemonic = "million bachelor slogan rifle observe trash favorite mango point skin future weekend";
+var mnemonic = "slight denial chicken enable coil ice burst shoot pulse stomach peanut live";

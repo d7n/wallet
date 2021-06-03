@@ -1,1 +1,1 @@
-var mnemonic = "image beach table fever tree hen little climb call garden shop blur";
+var mnemonic = "disease busy wild rocket core auto unknown place among wreck cupboard square";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd unfair demand issue cost duck install reopen crew hotel destroy match";
+var mnemonic = "emotion theory toe globe bacon wash rocket cute exhibit brass wall rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "expand fold quick swamp discover hazard leisure film depth execute cram roast";
+var mnemonic = "kiwi capable parade empower summer pretty legend all choice asthma habit salon";

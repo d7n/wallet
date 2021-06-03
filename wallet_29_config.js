@@ -1,1 +1,1 @@
-var mnemonic = "cross middle keen cover relax nice maid cost base security satisfy wheat";
+var mnemonic = "slab liar uncle unaware indicate fancy ranch elite proof obtain check era";

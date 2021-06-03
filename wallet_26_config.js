@@ -1,1 +1,1 @@
-var mnemonic = "ocean absorb able aim blood bracket pause salute suit pattern vault replace";
+var mnemonic = "fog neutral circle plastic dial speed junk cruel trick vacuum stage taxi";

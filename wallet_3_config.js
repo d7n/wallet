@@ -1,1 +1,1 @@
-var mnemonic = "isolate expect mobile original plate employ thing hawk document radio awful spoon";
+var mnemonic = "cause scan mountain snow elbow phrase prize army husband unveil home employ";

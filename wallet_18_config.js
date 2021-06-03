@@ -1,1 +1,1 @@
-var mnemonic = "marriage nation slim sniff draw clean update select excess machine uncover robot";
+var mnemonic = "warrior girl guitar husband orchard essence order half breeze diesel lottery calm";

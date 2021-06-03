@@ -1,1 +1,1 @@
-var mnemonic = "immune type weather allow rich over indoor canvas bullet exist attract junk";
+var mnemonic = "call enforce tell hire extra scheme music attract unhappy blast effort twenty";

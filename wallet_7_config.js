@@ -1,1 +1,1 @@
-var mnemonic = "wisdom entire riot civil lake unaware clock pipe cancel donor tiger attract";
+var mnemonic = "hungry pave town vague recall letter catch violin quality learn scorpion else";

@@ -1,1 +1,1 @@
-var mnemonic = "drift lunch vanish program shock predict trigger circle brain scissors gesture journey";
+var mnemonic = "private tip rude about minimum salt match infant glory napkin punch head";

@@ -1,1 +1,1 @@
-var mnemonic = "play advice trouble meat supreme usage brand access boat private review coast";
+var mnemonic = "distance dad tag shuffle demand earth paddle gaze economy situate chaos cycle";

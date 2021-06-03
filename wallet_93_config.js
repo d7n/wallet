@@ -1,1 +1,1 @@
-var mnemonic = "impose ginger floor senior young jeans song supply prosper kiss document renew";
+var mnemonic = "metal noise rapid vapor track pupil advance reopen buzz grab atom raise";

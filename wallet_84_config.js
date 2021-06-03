@@ -1,1 +1,1 @@
-var mnemonic = "slender flat list shop option canyon return capable space book knock hello";
+var mnemonic = "gate knife wheat system shy stage harvest inch absurd fox miracle guard";

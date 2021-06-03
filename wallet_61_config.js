@@ -1,1 +1,1 @@
-var mnemonic = "early lady ancient consider arm quality metal jar worth destroy people weekend";
+var mnemonic = "puzzle scrap myth napkin snake dry defense nature carbon street nurse blade";

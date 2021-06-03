@@ -1,1 +1,1 @@
-var mnemonic = "dog oppose sustain social frog universe cause tunnel drift coin ribbon admit";
+var mnemonic = "husband false artefact pear era hybrid library deputy noodle fame drip test";

@@ -1,1 +1,1 @@
-var mnemonic = "sock bring space wall spike dolphin object latin wheel bright elegant beyond";
+var mnemonic = "grow liquid bike waste file lava oval identify reward carpet glad return";

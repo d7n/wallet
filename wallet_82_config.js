@@ -1,1 +1,1 @@
-var mnemonic = "fuel flight outer blast brass sport build april patrol endless artefact gym";
+var mnemonic = "stairs aim pave winner whale kit mask valley layer script episode abuse";

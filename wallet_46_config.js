@@ -1,1 +1,1 @@
-var mnemonic = "pledge acid flame term connect eyebrow muffin ladder coyote diamond accident fit";
+var mnemonic = "scheme used myth smart crucial enough volcano decide jar slender join material";

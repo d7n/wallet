@@ -1,1 +1,1 @@
-var mnemonic = "shallow term melody obtain happy reform enough notice rich bridge once draw";
+var mnemonic = "gather renew cheese stick load mercy brother object mirror chalk subject author";

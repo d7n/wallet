@@ -1,1 +1,1 @@
-var mnemonic = "invest fade square blame innocent mention term indicate isolate grow return behind";
+var mnemonic = "barely wood innocent battle arctic onion review shoe step shock cotton verb";

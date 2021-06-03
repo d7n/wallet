@@ -1,1 +1,1 @@
-var mnemonic = "drama inquiry base photo assume pigeon tuition junior tell leave lecture prize";
+var mnemonic = "congress believe nose rookie lunch salad sail rocket reward maid ignore cigar";

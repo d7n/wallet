@@ -1,1 +1,1 @@
-var mnemonic = "left pave seed awesome pupil draft ugly giraffe cause horse sing melody";
+var mnemonic = "before mix child original rotate sorry casino bike silver meadow box since";

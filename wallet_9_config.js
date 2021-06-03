@@ -1,1 +1,1 @@
-var mnemonic = "avoid three soldier solution discover canyon green asset twenty web depart thank";
+var mnemonic = "digital layer cliff mandate jungle appear tree question dress typical trim pull";

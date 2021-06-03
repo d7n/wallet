@@ -1,1 +1,1 @@
-var mnemonic = "more gallery card baby gallery tomorrow final mutual quick network owner today";
+var mnemonic = "fitness buzz hill pipe senior anger blur orange coil grocery claw upper";

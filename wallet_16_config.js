@@ -1,1 +1,1 @@
-var mnemonic = "reunion broccoli priority stick rally month mass pottery laugh social step clay";
+var mnemonic = "exotic version health jar soap frame wing asthma render wet vendor barrel";

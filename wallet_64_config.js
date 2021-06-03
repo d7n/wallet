@@ -1,1 +1,1 @@
-var mnemonic = "lens dumb domain obvious injury dutch promote library hint fruit clerk echo";
+var mnemonic = "father brand amateur razor common gap close gasp comfort ketchup analyst radio";

@@ -1,1 +1,1 @@
-var mnemonic = "fall found pool primary sunset divorce office tissue city nominee gift ladder";
+var mnemonic = "napkin mosquito tongue enroll finger balance main crisp future ability record scheme";

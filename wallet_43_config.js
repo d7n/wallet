@@ -1,1 +1,1 @@
-var mnemonic = "august upper prize radio pattern maze equip rice answer diesel other pledge";
+var mnemonic = "scrub auction dash decade camera bubble rhythm mountain above ladder knife robust";

@@ -1,1 +1,1 @@
-var mnemonic = "result snow switch snack predict hello flock alter balance fly switch motion";
+var mnemonic = "coast hover season photo lottery common rigid glance rescue luggage manual faith";

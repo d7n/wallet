@@ -1,1 +1,1 @@
-var mnemonic = "split claim step tone used spy west earn kiss hub giraffe distance";
+var mnemonic = "pause accuse scissors lawn title march desk easy police gossip youth wise";

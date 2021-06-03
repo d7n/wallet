@@ -1,1 +1,1 @@
-var mnemonic = "pistol stomach stereo toward delay energy shuffle castle else decide shoulder thumb";
+var mnemonic = "position another poet paper ketchup muffin process melt steak monitor blush extend";

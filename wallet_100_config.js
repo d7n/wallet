@@ -1,1 +1,1 @@
-var mnemonic = "address favorite cruise settle valid steel cannon expose chair blur base ceiling";
+var mnemonic = "item pilot defy vacuum retire judge voyage slight club glide surge husband";

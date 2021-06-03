@@ -1,1 +1,1 @@
-var mnemonic = "public invite cute liberty hurry shiver spot discover symbol where royal multiply";
+var mnemonic = "sound student yellow crazy walnut sponsor success dove lazy cricket garage daring";

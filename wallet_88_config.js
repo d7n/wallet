@@ -1,1 +1,1 @@
-var mnemonic = "demise parrot guitar season clog abuse polar pony around parade twenty horror";
+var mnemonic = "gain fossil symptom scrub range kite ask banana mandate coral palm use";

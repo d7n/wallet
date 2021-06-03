@@ -1,1 +1,1 @@
-var mnemonic = "joy purse cupboard brush enroll gesture tenant zone average buzz rent enter";
+var mnemonic = "inmate emerge throw rose pencil library protect stage smile habit engine march";

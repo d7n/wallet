@@ -1,1 +1,1 @@
-var mnemonic = "attend exact obvious desert brisk invest tunnel essence glue glue panic little";
+var mnemonic = "outdoor able accident aspect history senior west hockey mimic crime crater fluid";

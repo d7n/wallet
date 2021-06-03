@@ -1,1 +1,1 @@
-var mnemonic = "leader isolate trash wood ankle autumn feature detail three vacuum gauge fringe";
+var mnemonic = "review sugar intact below gain boil author express stone thank ignore multiply";

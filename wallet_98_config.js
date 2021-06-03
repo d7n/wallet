@@ -1,1 +1,1 @@
-var mnemonic = "damp what thought example trumpet snap puzzle february volume any talk armor";
+var mnemonic = "thought blame recycle leg slogan define sudden plate gown kitchen burger boost";

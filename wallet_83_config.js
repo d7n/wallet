@@ -1,1 +1,1 @@
-var mnemonic = "awkward coyote gallery virtual desert hockey theory share enact flavor armed match";
+var mnemonic = "stone thought slam camp photo hockey acoustic program split desert razor blue";

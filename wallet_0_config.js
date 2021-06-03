@@ -1,1 +1,1 @@
-var mnemonic = "hold bonus draw salute news never what item device minor tray also";
+var mnemonic = "include link snow picnic spray toy skirt area rib habit lock about";

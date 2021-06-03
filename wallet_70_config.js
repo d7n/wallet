@@ -1,1 +1,1 @@
-var mnemonic = "route state recycle truck upper caught huge force vocal bracket primary current";
+var mnemonic = "end illegal raw today legal average lava install hamster lobster crane coyote";

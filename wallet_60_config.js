@@ -1,1 +1,1 @@
-var mnemonic = "install ramp gadget knock scan relief exhibit acquire sweet young output nuclear";
+var mnemonic = "mushroom laugh rifle wisdom birth power equip outside piano quit cheese brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "six marble buffalo height click sleep visa hollow vehicle embrace light crash";
+var mnemonic = "avoid ensure prepare october physical panic student scissors object ability connect resource";

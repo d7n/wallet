@@ -1,1 +1,1 @@
-var mnemonic = "fabric panda smooth pull south age kitten bridge mind tobacco submit kitchen";
+var mnemonic = "glance company sponsor stone reveal lake gasp unveil denial weapon require error";

@@ -1,1 +1,1 @@
-var mnemonic = "february broken coin run awake foot piece move detail avoid social dinner";
+var mnemonic = "girl asset sorry story donor float sleep march pull add body junior";

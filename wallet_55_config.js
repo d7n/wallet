@@ -1,1 +1,1 @@
-var mnemonic = "swear kiss artefact omit female snake legal giant hair devote believe obtain";
+var mnemonic = "amazing jelly force credit client music quarter clean van dad badge eye";

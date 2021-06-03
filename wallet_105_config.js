@@ -1,1 +1,1 @@
-var mnemonic = "impact cool because cinnamon beef kitten grit amused forest scan slender leader";
+var mnemonic = "spend page sand swarm engine famous sister brain clarify million sadness just";

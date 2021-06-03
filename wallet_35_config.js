@@ -1,1 +1,1 @@
-var mnemonic = "ride loyal adjust paper luggage hour behave favorite cram alcohol aspect fork";
+var mnemonic = "bubble sister clean side staff room remain soap evil bean sentence globe";

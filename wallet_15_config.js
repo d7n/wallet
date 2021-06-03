@@ -1,1 +1,1 @@
-var mnemonic = "network devote route assume rack syrup tape journey carry derive market chaos";
+var mnemonic = "curious super multiply need craft now puppy blade arrest theory type phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer common tone fluid story clerk cradle cement weather allow keep gift";
+var mnemonic = "raccoon report feature erosion hungry picnic crash victory drum weird victory eager";

@@ -1,1 +1,1 @@
-var mnemonic = "approve ketchup wrist edit dirt turn castle ozone midnight holiday pioneer melt";
+var mnemonic = "honey wool initial secret kit lazy option gym offer same arch mosquito";

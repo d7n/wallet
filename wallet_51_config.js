@@ -1,1 +1,1 @@
-var mnemonic = "truth must hill cherry age solid oil alert leisure monkey table orange";
+var mnemonic = "anger bone skin palace tiny broom venture tonight symbol acquire derive piano";

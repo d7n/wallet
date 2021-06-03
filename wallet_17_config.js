@@ -1,1 +1,1 @@
-var mnemonic = "pass brother tenant ocean disorder finish tennis price true dog portion call";
+var mnemonic = "sock danger either gadget invite annual casino sad room sight conduct siren";

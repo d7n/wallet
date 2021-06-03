@@ -1,1 +1,1 @@
-var mnemonic = "burden artefact useless hand rare isolate penalty aware correct piece unaware found";
+var mnemonic = "avocado still three all renew major spoon often buzz bridge rent amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere horse radio ill funny bottom discover network vault topic bench vast";
+var mnemonic = "myself sleep endorse base almost add screen rail wedding artwork isolate secret";

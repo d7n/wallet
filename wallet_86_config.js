@@ -1,1 +1,1 @@
-var mnemonic = "minor theme mom pipe bacon nominee purity whale enable maze sentence quick";
+var mnemonic = "parent tail sock expose fold forget trial mixed noble weather flee solution";

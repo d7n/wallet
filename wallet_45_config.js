@@ -1,1 +1,1 @@
-var mnemonic = "law degree review umbrella few gas average bone agree aim report filter";
+var mnemonic = "artwork mutual vast bonus push teach they history soap ignore enemy talk";

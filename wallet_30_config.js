@@ -1,1 +1,1 @@
-var mnemonic = "glad service excite bus push elite route glow connect brick any piano";
+var mnemonic = "plate way door squeeze solid comfort forget shift grunt allow harbor shrug";

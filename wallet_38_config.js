@@ -1,1 +1,1 @@
-var mnemonic = "potato fat crucial wrong cage festival wonder blind father quick heart inform";
+var mnemonic = "shy culture canoe avocado convince brave nurse glory recall analyst during case";

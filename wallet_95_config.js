@@ -1,1 +1,1 @@
-var mnemonic = "unknown connect rough mixture finish clay tonight sketch globe divert salon utility";
+var mnemonic = "remove real amazing mechanic absurd celery minor mind police brick palace book";

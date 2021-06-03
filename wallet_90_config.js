@@ -1,1 +1,1 @@
-var mnemonic = "ordinary seven carbon wine vault degree muscle exchange glimpse elbow energy exile";
+var mnemonic = "language sentence crucial fitness move flock nation action grape saddle room power";

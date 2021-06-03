@@ -1,1 +1,1 @@
-var mnemonic = "nominee stamp physical slide jacket knife focus knock else drum shop sleep";
+var mnemonic = "primary solve cable ski proud potato weasel lion woman popular learn master";

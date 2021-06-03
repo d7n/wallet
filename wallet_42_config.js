@@ -1,1 +1,1 @@
-var mnemonic = "permit salon pilot reform desk negative melody link jealous top ceiling reflect";
+var mnemonic = "submit butter barrel fantasy dirt change tunnel west obtain fringe novel dose";

@@ -1,1 +1,1 @@
-var mnemonic = "logic total canvas assault maze state luggage glove private auto reform shoe";
+var mnemonic = "bonus piece garbage melt hire cram atom surge run possible impulse umbrella";

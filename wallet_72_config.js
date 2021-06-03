@@ -1,1 +1,1 @@
-var mnemonic = "hero remember bus peasant hope fatigue choice plug clean afford inner devote";
+var mnemonic = "monkey cinnamon logic seed flush height run toilet enrich road random laundry";

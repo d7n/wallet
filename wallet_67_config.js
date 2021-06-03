@@ -1,1 +1,1 @@
-var mnemonic = "riot negative firm glory novel green hope year intact winter antique guilt";
+var mnemonic = "walnut assault jaguar imitate hen grape evil quote chaos recipe endorse valley";
