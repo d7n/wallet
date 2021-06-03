@@ -1,1 +1,1 @@
-var mnemonic = "dog utility elite kite swear lounge borrow vapor clutch always census prepare";
+var mnemonic = "hunt lunar jeans fit gun help message bind blast wait present spray";

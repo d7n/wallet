@@ -1,1 +1,1 @@
-var mnemonic = "rotate wrestle music smooth mass clarify actual banner omit project require mask";
+var mnemonic = "hybrid able side agree where crash spatial gauge smile soon buffalo patrol";

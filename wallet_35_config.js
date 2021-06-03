@@ -1,1 +1,1 @@
-var mnemonic = "fashion height then oppose sample entry evolve echo kidney pond journey right";
+var mnemonic = "ten forward way shoot marriage pass tape describe elevator taxi news believe";

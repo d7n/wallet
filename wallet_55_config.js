@@ -1,1 +1,1 @@
-var mnemonic = "explain forget use skate estate pledge relax cage hockey allow plate noodle";
+var mnemonic = "leisure exotic settle fetch category depend frost bird fortune family inquiry uncle";

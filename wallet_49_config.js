@@ -1,1 +1,1 @@
-var mnemonic = "pool harsh much walk odor shine submit point dad coach paddle caution";
+var mnemonic = "advance squirrel abandon never reflect begin assist please erase salmon tooth embark";

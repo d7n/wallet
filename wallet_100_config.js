@@ -1,1 +1,1 @@
-var mnemonic = "rude rely divide suit pepper illegal wave page amount trip captain easily";
+var mnemonic = "employ merit clerk make clown resemble flag sudden security what element expect";

@@ -1,1 +1,1 @@
-var mnemonic = "language excess tank glance example still rival dove maid undo unit innocent";
+var mnemonic = "sword topic arrow novel pluck since north pull patient pelican tube around";

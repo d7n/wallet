@@ -1,1 +1,1 @@
-var mnemonic = "mechanic category october steel loud lizard decide token pipe apart reduce carpet";
+var mnemonic = "visa absurd buffalo fun joke zone build result leisure piano love acquire";

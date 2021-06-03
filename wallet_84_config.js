@@ -1,1 +1,1 @@
-var mnemonic = "spell river step often meadow leaf arrest sing industry sweet say during";
+var mnemonic = "say garage wreck already fatal purchase neck man young device custom raw";

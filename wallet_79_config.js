@@ -1,1 +1,1 @@
-var mnemonic = "season sound endorse sand brush ripple clinic draft ritual hotel circle neck";
+var mnemonic = "legend foster card van muffin apart worry egg sniff fancy twice spell";

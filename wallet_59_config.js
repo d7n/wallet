@@ -1,1 +1,1 @@
-var mnemonic = "obvious reject again mercy web emotion genuine stay away dinosaur struggle small";
+var mnemonic = "poem subject goddess body pill prison farm trick avocado acoustic cover group";

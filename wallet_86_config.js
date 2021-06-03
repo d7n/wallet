@@ -1,1 +1,1 @@
-var mnemonic = "brief damage paper neck clap adult onion scrap torch pluck wreck globe";
+var mnemonic = "section also depend plug orient define search sudden choose music erupt entire";

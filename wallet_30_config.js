@@ -1,1 +1,1 @@
-var mnemonic = "artefact under loyal banner once all squeeze runway easily good drama husband";
+var mnemonic = "tuna differ security fetch planet elite allow local ball inform affair dragon";

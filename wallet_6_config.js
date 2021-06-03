@@ -1,1 +1,1 @@
-var mnemonic = "tornado regular exhaust link object balance initial trim lamp company circle hat";
+var mnemonic = "gauge observe cause addict melody bench bird soccer wine forward movie valve";

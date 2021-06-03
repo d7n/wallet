@@ -1,1 +1,1 @@
-var mnemonic = "obtain doctor outside scatter visit dial knife duck core blue pulp erosion";
+var mnemonic = "axis clog staff pyramid frame above jeans reunion rail vital cruise forest";

@@ -1,1 +1,1 @@
-var mnemonic = "stock candy layer grab humble north tooth equal regret hire announce smooth";
+var mnemonic = "bacon stool adapt figure tissue kick word unaware kangaroo tomorrow rubber elite";

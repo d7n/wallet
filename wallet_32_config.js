@@ -1,1 +1,1 @@
-var mnemonic = "captain sibling width barrel conduct absorb orange depend donor east wife differ";
+var mnemonic = "exercise lizard patrol suit lucky strike hollow drama hurry silent jeans blind";

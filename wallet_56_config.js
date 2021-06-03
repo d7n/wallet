@@ -1,1 +1,1 @@
-var mnemonic = "route van repair social limit boy ability bomb tumble picnic hidden hope";
+var mnemonic = "melt lamp random job quantum there goat cigar flight ill olympic guard";

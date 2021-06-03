@@ -1,1 +1,1 @@
-var mnemonic = "resemble sea tower gravity code room gravity multiply night renew fuel mimic";
+var mnemonic = "wine giggle exclude glide sword volume mansion gasp tooth pool chunk same";

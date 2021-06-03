@@ -1,1 +1,1 @@
-var mnemonic = "anxiety where guess bracket cat air school among around screen envelope accident";
+var mnemonic = "approve settle vault quit only wet symptom polar economy ceiling derive assume";

@@ -1,1 +1,1 @@
-var mnemonic = "twice cool often roast glue offer extra embark deer warrior glide aspect";
+var mnemonic = "search settle clerk scorpion pact neither tourist blade riot grunt sauce clerk";

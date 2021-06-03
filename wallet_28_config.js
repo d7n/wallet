@@ -1,1 +1,1 @@
-var mnemonic = "filter bundle vibrant twin obscure arrange nice movie horn candy claim insane";
+var mnemonic = "clean wall high gossip delay shop melody meadow inflict skull word elevator";

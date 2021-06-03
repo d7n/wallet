@@ -1,1 +1,1 @@
-var mnemonic = "evolve evil inner settle bright dice track grit general spy elbow gaze";
+var mnemonic = "eye again banner magnet figure fuel divorce music gown exhibit resource garage";

@@ -1,1 +1,1 @@
-var mnemonic = "marble skill awesome betray funny oval dish outdoor scatter belt crystal work";
+var mnemonic = "lucky spray business vessel fee kidney bracket else sing border glad sunset";

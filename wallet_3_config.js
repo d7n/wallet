@@ -1,1 +1,1 @@
-var mnemonic = "clown adult swing craft robust tilt inflict maze young omit curtain execute";
+var mnemonic = "math used deny little help leisure addict catch giggle convince grape rich";

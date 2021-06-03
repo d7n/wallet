@@ -1,1 +1,1 @@
-var mnemonic = "license morning legal rain sense scale border lizard hello grant describe vague";
+var mnemonic = "gold frame ethics grape napkin meat bean sausage wine worth width volume";

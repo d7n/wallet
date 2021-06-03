@@ -1,1 +1,1 @@
-var mnemonic = "word effort verify intact steak walnut infant salmon pelican route address leopard";
+var mnemonic = "awful mansion pizza enlist unfair coffee response muscle spring point into quantum";

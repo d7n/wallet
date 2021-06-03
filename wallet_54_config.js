@@ -1,1 +1,1 @@
-var mnemonic = "entry real crouch expand fat champion immune math obvious town ring airport";
+var mnemonic = "canvas squeeze enforce struggle year world bring catch visual special thought tag";

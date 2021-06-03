@@ -1,1 +1,1 @@
-var mnemonic = "tilt huge deputy decide depend fatal seek biology uncle huge used artefact";
+var mnemonic = "that anchor sentence bid unusual demise harbor alien wood hollow maze bleak";

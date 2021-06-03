@@ -1,1 +1,1 @@
-var mnemonic = "video simple soul belt tray option web solution ten quote cruel glare";
+var mnemonic = "tunnel wear pelican arm elegant novel forward raccoon vivid sand pudding then";

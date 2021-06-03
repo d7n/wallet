@@ -1,1 +1,1 @@
-var mnemonic = "devote tobacco course until trash crisp hazard field output move awful inject";
+var mnemonic = "sea elite capital diamond reject dad unfold wing message jelly wide heavy";

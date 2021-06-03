@@ -1,1 +1,1 @@
-var mnemonic = "broom find gym craft shrimp marine reason science erase auto various again";
+var mnemonic = "live sphere couple negative move federal salmon brother roast lazy volume belt";

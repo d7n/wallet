@@ -1,1 +1,1 @@
-var mnemonic = "ensure donor flag other play frown prevent hover artwork opinion smart betray";
+var mnemonic = "essay rival label goat rescue nephew chicken wheel fortune over around reward";

@@ -1,1 +1,1 @@
-var mnemonic = "fog bridge horror avocado basic mushroom dismiss century unit grocery festival elevator";
+var mnemonic = "bridge next coyote now modify victory cook invite energy prepare actor dynamic";

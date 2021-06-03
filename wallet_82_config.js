@@ -1,1 +1,1 @@
-var mnemonic = "mercy furnace modify firm chef salt urge glow vanish turn ridge glimpse";
+var mnemonic = "youth soldier smart radio wrong funny antenna error benefit logic plunge resemble";

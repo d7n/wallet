@@ -1,1 +1,1 @@
-var mnemonic = "magnet mutual pretty stairs cost relax vibrant derive lounge feed inform sphere";
+var mnemonic = "banana sail hard rain six swift mad tube loan busy camp local";

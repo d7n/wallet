@@ -1,1 +1,1 @@
-var mnemonic = "few grief ahead flavor wage float plastic lock report entire book brush";
+var mnemonic = "autumn earn online ripple follow approve tortoise spring birth assist time copy";

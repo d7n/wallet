@@ -1,1 +1,1 @@
-var mnemonic = "summer visa wide opera dizzy neither chat accident charge they pig lucky";
+var mnemonic = "inflict chat icon near bus mistake roast window else sad staff champion";

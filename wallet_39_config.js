@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow ten height spray pride couple drop ghost drama sentence tissue later";
+var mnemonic = "country lava pulp regular noble winter piano galaxy any accuse front flight";

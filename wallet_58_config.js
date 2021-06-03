@@ -1,1 +1,1 @@
-var mnemonic = "cactus hover certain maid lend salad useful horror river flush room common";
+var mnemonic = "laugh biology orbit meadow caught vague brush educate hello stay powder leisure";

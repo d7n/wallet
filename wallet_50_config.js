@@ -1,1 +1,1 @@
-var mnemonic = "hole unfold cross panic aisle quick glad action parrot frown silly define";
+var mnemonic = "dog omit absurd aspect author exit above bulk shiver remind dose gossip";

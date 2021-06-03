@@ -1,1 +1,1 @@
-var mnemonic = "action turkey disease real again naive tell inside medal obscure rigid puppy";
+var mnemonic = "comic plug neglect rival pact zoo air choice ship example remain next";

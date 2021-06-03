@@ -1,1 +1,1 @@
-var mnemonic = "remain come whisper whip vendor whip output roof oak fitness pull cousin";
+var mnemonic = "cattle daughter when scene clerk tray road dismiss hood desert oppose hurdle";

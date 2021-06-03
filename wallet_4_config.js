@@ -1,1 +1,1 @@
-var mnemonic = "south great sketch own hire road rug surround company custom account ski";
+var mnemonic = "draw ski help fatal disease truly describe sail join broom tragic merit";

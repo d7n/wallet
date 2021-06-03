@@ -1,1 +1,1 @@
-var mnemonic = "sustain name rather chest define control buyer address attack author cloth arrange";
+var mnemonic = "rural pet egg demise once switch element vault funny invite magnet space";

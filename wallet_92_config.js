@@ -1,1 +1,1 @@
-var mnemonic = "task capital domain topic rare exhaust jaguar soup junior behave equal merit";
+var mnemonic = "consider wear boring defy monitor chuckle drive fire piece profit front clip";

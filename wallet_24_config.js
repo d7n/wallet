@@ -1,1 +1,1 @@
-var mnemonic = "pilot execute square tray grab fruit awful before turtle case team boat";
+var mnemonic = "wave simple annual step absurd science catch what company latin vintage mimic";

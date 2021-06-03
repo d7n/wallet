@@ -1,1 +1,1 @@
-var mnemonic = "that nature ranch differ glove rare grant already sorry spike distance pill";
+var mnemonic = "suffer paper ozone toast vocal eternal switch teach gasp key athlete clog";

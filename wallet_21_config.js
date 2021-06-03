@@ -1,1 +1,1 @@
-var mnemonic = "mansion picnic awesome leaf tattoo burger series ready heavy weasel inject demand";
+var mnemonic = "arena true dragon wonder orphan wire scorpion weird income diary game timber";

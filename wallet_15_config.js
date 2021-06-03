@@ -1,1 +1,1 @@
-var mnemonic = "grit health burger trap insect blanket month crane achieve injury estate loan";
+var mnemonic = "large private believe satisfy umbrella review badge orient raven arm club please";

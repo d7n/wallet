@@ -1,1 +1,1 @@
-var mnemonic = "party just dust move staff dinner creek vehicle subject crumble metal mule";
+var mnemonic = "dove image poem oxygen upon pizza next drum draw habit humble begin";

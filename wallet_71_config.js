@@ -1,1 +1,1 @@
-var mnemonic = "follow joke real grape potato fame boil sustain retire velvet various inmate";
+var mnemonic = "mean youth reopen sea acquire identify mystery youth choose orphan mother coffee";

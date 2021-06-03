@@ -1,1 +1,1 @@
-var mnemonic = "ugly auto expose taste swim enact warm depend always kit deer innocent";
+var mnemonic = "turkey mistake float robust scissors increase that speed hair inject shoe island";

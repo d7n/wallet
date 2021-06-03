@@ -1,1 +1,1 @@
-var mnemonic = "please side bleak melt gospel antenna also panic trim pulp transfer dilemma";
+var mnemonic = "expect winter arrive dish already yard unable exhibit drop approve cave exhibit";

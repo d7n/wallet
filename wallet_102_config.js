@@ -1,1 +1,1 @@
-var mnemonic = "often galaxy slab shuffle task mammal ability ocean slender exile business goddess";
+var mnemonic = "text much sunny toddler usage grass inspire crew gold require arm pond";

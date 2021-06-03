@@ -1,1 +1,1 @@
-var mnemonic = "cliff gallery right pledge praise zoo flee salad motion course hawk winner";
+var mnemonic = "wisdom gaze ugly squirrel modify shiver cube spoil ready cable domain couple";

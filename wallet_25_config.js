@@ -1,1 +1,1 @@
-var mnemonic = "major word spoon emotion rack salt shed dream toy satoshi lonely window";
+var mnemonic = "people edge unaware rapid food sausage add require language chronic spice kite";

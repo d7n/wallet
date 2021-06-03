@@ -1,1 +1,1 @@
-var mnemonic = "salad trap lesson crucial appear rug sadness indoor bar empty settle tide";
+var mnemonic = "around among question motor vivid earth race company joke review public company";

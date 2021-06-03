@@ -1,1 +1,1 @@
-var mnemonic = "around only neck flock will eternal venture connect banner cancel solid blossom";
+var mnemonic = "settle lucky soap army entire smart retreat right under wave caution alley";

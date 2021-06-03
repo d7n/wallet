@@ -1,1 +1,1 @@
-var mnemonic = "comfort manage glimpse spider stage knock frost dawn anger comic firm group";
+var mnemonic = "imitate cupboard input such scatter history hobby expect smooth innocent spray quit";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze make wisdom acid upon off course pitch right need autumn disagree";
+var mnemonic = "pupil gaze pole quiz plug obey town patch slam letter stadium tone";

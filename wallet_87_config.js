@@ -1,1 +1,1 @@
-var mnemonic = "hard vacant catch dutch cactus grape absurd amazing curious like lift silent";
+var mnemonic = "peace worth daughter episode live capable actor fury behave super slam glimpse";

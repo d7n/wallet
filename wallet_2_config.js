@@ -1,1 +1,1 @@
-var mnemonic = "antenna enable drastic use artefact skirt like leader bind diamond wrap work";
+var mnemonic = "budget aim under pill window rescue output click aim bind blur basic";

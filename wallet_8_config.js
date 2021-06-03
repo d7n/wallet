@@ -1,1 +1,1 @@
-var mnemonic = "venue furnace old hurt stone entry tongue cart mind similar victory scan";
+var mnemonic = "notable unusual rabbit window trip kit race want feed shoulder history morning";

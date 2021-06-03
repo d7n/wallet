@@ -1,1 +1,1 @@
-var mnemonic = "fix slot hat afraid elbow melt swap lab logic price eight laugh";
+var mnemonic = "never lecture october hammer company shrimp ten glory sibling female real cross";

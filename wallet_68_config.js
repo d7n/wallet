@@ -1,1 +1,1 @@
-var mnemonic = "cook easy sheriff october among enough cushion depth settle state cannon puzzle";
+var mnemonic = "sample dream develop spot sign ahead canoe enforce orange control shuffle sphere";

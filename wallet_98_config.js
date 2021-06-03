@@ -1,1 +1,1 @@
-var mnemonic = "spirit hospital vague dumb much brisk toilet thought uncle boss magic brass";
+var mnemonic = "donkey vehicle night label square clinic truck tuition elbow forward essay endorse";

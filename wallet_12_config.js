@@ -1,1 +1,1 @@
-var mnemonic = "shrug negative exist rain burst top celery keep cave call fog child";
+var mnemonic = "benefit giant shrimp sport street kitchen discover metal ghost sail hammer film";

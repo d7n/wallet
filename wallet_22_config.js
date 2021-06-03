@@ -1,1 +1,1 @@
-var mnemonic = "letter dolphin silent canal outdoor impact stand airport sustain split atom decorate";
+var mnemonic = "second rose talk cloud light canal jungle glue art moon sell push";

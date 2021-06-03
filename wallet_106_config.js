@@ -1,1 +1,1 @@
-var mnemonic = "scatter stadium trend news soccer salute boring entry cross river resource actual";
+var mnemonic = "hub sudden nurse enter skirt aerobic vacant guilt poverty month depend magic";

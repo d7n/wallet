@@ -1,1 +1,1 @@
-var mnemonic = "pipe clarify hybrid excite display original toward quarter all bottom excite few";
+var mnemonic = "then solid notice engage ugly profit velvet gloom friend skull quote fitness";

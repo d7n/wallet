@@ -1,1 +1,1 @@
-var mnemonic = "edge letter candy possible weasel scene inmate muscle share family behind congress";
+var mnemonic = "two victory pelican color giant cluster fashion select pepper summer tomorrow brick";

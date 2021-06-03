@@ -1,1 +1,1 @@
-var mnemonic = "eye symbol sadness few exhibit tornado mango maple ask furnace kangaroo element";
+var mnemonic = "curious defy scare grant senior merry knife meadow index green erode top";

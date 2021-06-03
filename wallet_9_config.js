@@ -1,1 +1,1 @@
-var mnemonic = "office upgrade appear cluster steel obvious hen scheme abuse reform gasp decade";
+var mnemonic = "ocean equal earth smoke witness holiday cliff club bind letter pass swift";

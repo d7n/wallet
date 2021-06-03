@@ -1,1 +1,1 @@
-var mnemonic = "blur true future hole seven doll now skull diet year shock couch";
+var mnemonic = "ecology human squirrel key legend order portion tonight inside awesome desk tonight";

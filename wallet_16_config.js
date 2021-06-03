@@ -1,1 +1,1 @@
-var mnemonic = "police upper spoon glow display blossom whisper can rug plastic tomato beauty";
+var mnemonic = "outer deny almost whale later virus globe vocal pitch slide february syrup";

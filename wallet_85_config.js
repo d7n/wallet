@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin unknown donate december odor draw void excuse cupboard mother sock economy";
+var mnemonic = "cake rack deliver very robot day place range nose lounge regular cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean enact annual enable liar recipe muffin exit kit process prosper hazard";
+var mnemonic = "evidence brief hold family salt orbit stuff success sock bacon walk candy";

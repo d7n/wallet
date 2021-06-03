@@ -1,1 +1,1 @@
-var mnemonic = "trap witness glare trial cube asset better noodle consider diamond favorite pilot";
+var mnemonic = "paddle friend umbrella fire pony magic knock lounge canoe cute devote inner";

@@ -1,1 +1,1 @@
-var mnemonic = "siren lawn benefit holiday ozone strong crisp glare absent marine pole craft";
+var mnemonic = "industry icon write matter limit pond vehicle uphold merge anger explain over";

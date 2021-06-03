@@ -1,1 +1,1 @@
-var mnemonic = "frozen family disagree moment hawk hair accuse derive humor can blade copy";
+var mnemonic = "clay express fetch source purpose author spoil utility ticket sick country random";

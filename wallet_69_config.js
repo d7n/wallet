@@ -1,1 +1,1 @@
-var mnemonic = "force regular erode response empty keen joy connect rigid coffee outside insane";
+var mnemonic = "relax woman burger above author wasp sorry habit vacant betray saddle element";

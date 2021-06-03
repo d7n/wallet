@@ -1,1 +1,1 @@
-var mnemonic = "picture suit shy fault mail stove city crane act train credit garden";
+var mnemonic = "tissue raccoon pitch pink icon will universe fabric high duty kick argue";

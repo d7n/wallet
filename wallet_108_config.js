@@ -1,1 +1,1 @@
-var mnemonic = "coffee vocal year cycle aerobic script relief buyer napkin talent absurd scrub";
+var mnemonic = "thunder boat crop area else chunk pioneer left margin follow bracket run";

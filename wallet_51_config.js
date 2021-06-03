@@ -1,1 +1,1 @@
-var mnemonic = "visit more abandon attend wear buzz silver priority young tape minimum october";
+var mnemonic = "island space walnut speed direct exercise quote pitch program record describe provide";

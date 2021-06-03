@@ -1,1 +1,1 @@
-var mnemonic = "cook search return tongue suspect fit nasty empty foam evidence sweet drop";
+var mnemonic = "frozen decrease whip forest jazz subject desk thunder cause water trick girl";

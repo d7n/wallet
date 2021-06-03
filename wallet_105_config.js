@@ -1,1 +1,1 @@
-var mnemonic = "tattoo dawn actor doll floor thing reveal couple stereo fat capable trade";
+var mnemonic = "fruit gauge solution junior market fetch wage select column custom team club";

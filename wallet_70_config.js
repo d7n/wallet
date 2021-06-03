@@ -1,1 +1,1 @@
-var mnemonic = "pave help debate load juice pilot second census conduct cotton level belt";
+var mnemonic = "finger mosquito wash decade armed keep pair favorite frame elbow company dad";

@@ -1,1 +1,1 @@
-var mnemonic = "public rookie trick dolphin scare buyer purpose unit success staff choice guide";
+var mnemonic = "used column sister pottery true kick anger duty confirm fiscal foot muffin";

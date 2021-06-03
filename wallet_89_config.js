@@ -1,1 +1,1 @@
-var mnemonic = "join rival gentle typical green strategy twin prize hammer mesh maple media";
+var mnemonic = "balance toast monster scrub planet quarter margin neglect seed negative reopen question";

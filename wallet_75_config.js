@@ -1,1 +1,1 @@
-var mnemonic = "liquid impose stereo perfect awake wolf check adjust caught interest simple oven";
+var mnemonic = "leaf explain skate flavor pattern panel draft assault off hint fiber lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs double enemy maid notable what hunt destroy crawl salad mouse violin";
+var mnemonic = "property pulse peasant nature hood lady dragon snake dizzy oblige popular arctic";

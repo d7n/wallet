@@ -1,1 +1,1 @@
-var mnemonic = "muscle learn battle board immune cry mix vocal effort electric flip left";
+var mnemonic = "gadget grant opinion usual bitter run off orchard expire bicycle donor naive";

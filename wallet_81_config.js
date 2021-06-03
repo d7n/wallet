@@ -1,1 +1,1 @@
-var mnemonic = "artist ceiling reform tank gap machine robot main eagle only dad tattoo";
+var mnemonic = "nation power tennis couple staff fitness quote undo rather private seven aim";

@@ -1,1 +1,1 @@
-var mnemonic = "brand fetch ladder piano rely mom spider dose glove census skate inform";
+var mnemonic = "bar pass enroll top shoe video uncle garment tongue town attract kitchen";
