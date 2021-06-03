@@ -1,1 +1,1 @@
-var mnemonic = "mad heavy praise luxury feature remove thank path hybrid clutch people equal";
+var mnemonic = "harbor wreck flock wagon maximum hospital drip myth harbor achieve earth album";

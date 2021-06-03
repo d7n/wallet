@@ -1,1 +1,1 @@
-var mnemonic = "review above cabbage come mansion patrol nephew guilt position tackle tired glare";
+var mnemonic = "furnace modify behind spray cheese injury banana divide shoe firm patrol bubble";

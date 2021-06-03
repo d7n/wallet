@@ -1,1 +1,1 @@
-var mnemonic = "civil lamp repeat front front cereal panel spike island neither treat bitter";
+var mnemonic = "dumb genius rely park pepper agent bird mind search margin cigar volume";

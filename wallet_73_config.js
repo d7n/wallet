@@ -1,1 +1,1 @@
-var mnemonic = "agree dose palm cook critic fly large elephant air flip rocket style";
+var mnemonic = "play zebra ripple better shop useful loop song use stool crane spawn";

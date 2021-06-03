@@ -1,1 +1,1 @@
-var mnemonic = "picture shove salt always away trust soap dial rib six vicious bottom";
+var mnemonic = "above benefit mosquito clog wage push next cliff elbow reason loan oven";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire erupt sand predict hero merit parent feel tobacco garage bitter water";
+var mnemonic = "acoustic forum liquid asthma float glance fish letter innocent toast arrest couple";

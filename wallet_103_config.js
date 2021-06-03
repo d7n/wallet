@@ -1,1 +1,1 @@
-var mnemonic = "air bachelor flee galaxy genuine rather planet rent loud abstract hobby ship";
+var mnemonic = "hedgehog switch rent loyal naive barely later wasp script weird useful undo";

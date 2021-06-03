@@ -1,1 +1,1 @@
-var mnemonic = "sort garment chicken lucky skin monster nice bottom scrub achieve mind shove";
+var mnemonic = "age demand glove ability battle rescue giggle drama media all tissue bulk";

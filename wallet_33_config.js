@@ -1,1 +1,1 @@
-var mnemonic = "tip deny title sponsor essay owner bomb you table average smart feed";
+var mnemonic = "donor agent flame draw convince north drift move art more wool cup";

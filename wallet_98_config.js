@@ -1,1 +1,1 @@
-var mnemonic = "guilt fatigue convince purchase cause accuse balcony earth rail ketchup parade pear";
+var mnemonic = "canvas better must horse verify clown bus forest squirrel cloud bunker drive";

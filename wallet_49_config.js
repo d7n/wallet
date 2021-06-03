@@ -1,1 +1,1 @@
-var mnemonic = "fabric glue sphere margin teach service ill excess sugar exhibit protect success";
+var mnemonic = "soda intact piece trend transfer violin slab zebra output silent joy like";

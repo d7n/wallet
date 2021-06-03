@@ -1,1 +1,1 @@
-var mnemonic = "bullet rescue fatigue protect dwarf alien stay fresh auto quiz label term";
+var mnemonic = "arctic expand capital exchange flee taste combine guard thank tenant arrest cycle";

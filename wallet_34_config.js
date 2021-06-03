@@ -1,1 +1,1 @@
-var mnemonic = "sunset thrive travel truly razor inject castle paper keep wait ivory model";
+var mnemonic = "category survey bitter claim seminar embark detect salute unfair laundry enable assume";

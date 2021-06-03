@@ -1,1 +1,1 @@
-var mnemonic = "hobby urge one tackle advice grit run magic inherit wreck confirm glad";
+var mnemonic = "evolve august cake lyrics hello slogan fresh keen cable crowd measure laptop";

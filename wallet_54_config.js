@@ -1,1 +1,1 @@
-var mnemonic = "group copper garbage hero hold stuff warfare seed mouse youth during bench";
+var mnemonic = "cloth silent glass flush pulse unable matrix lottery before eager nation victory";

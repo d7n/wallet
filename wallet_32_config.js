@@ -1,1 +1,1 @@
-var mnemonic = "limit oak grow mistake math renew system clinic soup arrow width actual";
+var mnemonic = "purchase prison acoustic stem appear long basic search present advance alarm cinnamon";

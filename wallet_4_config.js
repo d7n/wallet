@@ -1,1 +1,1 @@
-var mnemonic = "doll wisdom soup behave syrup palm hidden pair tired sword fever mobile";
+var mnemonic = "never guess quote equal identify whip tree coconut own pet erode humor";

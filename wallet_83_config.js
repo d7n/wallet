@@ -1,1 +1,1 @@
-var mnemonic = "arrest high boil donate actor maximum myth knee web symbol reflect wasp";
+var mnemonic = "deliver ostrich vendor maid giant knock reunion odor write ozone sing cup";

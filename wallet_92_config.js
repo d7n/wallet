@@ -1,1 +1,1 @@
-var mnemonic = "mouse weapon six bless furnace panic mimic blossom grace pattern clip spy";
+var mnemonic = "base primary saddle much field pistol link dolphin slush east venue mixture";

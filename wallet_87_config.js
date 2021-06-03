@@ -1,1 +1,1 @@
-var mnemonic = "visa island budget error cactus load vessel wall feed choose practice swift";
+var mnemonic = "remove rich celery indoor steak about scrub doll cherry wild moral enlist";

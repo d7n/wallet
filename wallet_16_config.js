@@ -1,1 +1,1 @@
-var mnemonic = "online curve biology hat gold inject bless render manual impose problem ordinary";
+var mnemonic = "thunder useless pave abuse game riot assist trophy rival cry field hover";

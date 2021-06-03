@@ -1,1 +1,1 @@
-var mnemonic = "slogan odor one orient company convince planet exotic jewel mixed fit include";
+var mnemonic = "inspire secret pledge add fruit color cousin tube strategy day layer split";

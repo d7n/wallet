@@ -1,1 +1,1 @@
-var mnemonic = "rubber horn captain rug piano regular prize couch style depart museum girl";
+var mnemonic = "top mother turtle brown decorate cause scrap fuel canyon donate apology summer";

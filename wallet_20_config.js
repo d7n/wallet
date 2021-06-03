@@ -1,1 +1,1 @@
-var mnemonic = "tobacco sword emotion express dad place hire chair maple fortune among fetch";
+var mnemonic = "oxygen mansion town replace margin food diamond buzz roof atom bonus fun";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat health segment priority little apology path order extra ill turtle mom";
+var mnemonic = "knife flavor bridge rubber distance green trim open animal acoustic tobacco menu";

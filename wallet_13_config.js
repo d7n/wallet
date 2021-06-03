@@ -1,1 +1,1 @@
-var mnemonic = "midnight right voyage decline vacant north scatter repeat fault turtle else tell";
+var mnemonic = "notable mirror aisle pledge sure village early fetch black elite bottom long";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber solar gym double void increase physical burger true wisdom provide tornado";
+var mnemonic = "maple intact isolate coconut deliver claw car soup youth monitor remember group";

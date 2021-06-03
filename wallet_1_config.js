@@ -1,1 +1,1 @@
-var mnemonic = "harvest annual excuse rug zebra brick hamster alley capital enroll pencil open";
+var mnemonic = "ski strike dinosaur carry target fuel leisure plastic suggest cycle leopard shove";

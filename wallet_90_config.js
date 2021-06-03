@@ -1,1 +1,1 @@
-var mnemonic = "resist liar coach trash tape foot mistake canyon obtain kiwi minute crouch";
+var mnemonic = "lady guess law juice ball assist better viable fashion parent nerve source";

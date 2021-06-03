@@ -1,1 +1,1 @@
-var mnemonic = "attitude sad picture note exhibit cart unfold regret fix gown same gentle";
+var mnemonic = "dream simple nominee crack brisk try word stick faith slush disorder disease";

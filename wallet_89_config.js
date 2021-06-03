@@ -1,1 +1,1 @@
-var mnemonic = "acid choice truck crane bean venture accident bless rate crater era resist";
+var mnemonic = "inhale earn turn erase syrup core hospital pet steak educate unusual advance";

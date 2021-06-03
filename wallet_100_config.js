@@ -1,1 +1,1 @@
-var mnemonic = "mind forward arrest mango crane enforce undo embrace avoid wish grief crowd";
+var mnemonic = "spy secret once warfare hair enough attract file hope fiber column mail";

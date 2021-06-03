@@ -1,1 +1,1 @@
-var mnemonic = "host pride october dizzy prize genius keep stock smart memory twenty table";
+var mnemonic = "wild face asthma sword swap endless riot leader walnut camp urge protect";

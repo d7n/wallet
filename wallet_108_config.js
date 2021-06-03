@@ -1,1 +1,1 @@
-var mnemonic = "fox dose usual sick image affair page hat shield fatal lift curious";
+var mnemonic = "plunge illegal title model admit leaf mango anxiety spoon push pottery bomb";

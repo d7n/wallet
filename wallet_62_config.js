@@ -1,1 +1,1 @@
-var mnemonic = "couple company question evoke tribe comfort enjoy height fatigue gas marriage enjoy";
+var mnemonic = "picture mountain success twenty act wedding glide fame night convince royal solar";

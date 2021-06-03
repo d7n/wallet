@@ -1,1 +1,1 @@
-var mnemonic = "pioneer uncle thought palm elevator syrup water spatial journey series wait bar";
+var mnemonic = "scout rebel endless topic mention glow plastic tank merry more explain airport";

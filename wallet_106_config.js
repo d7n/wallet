@@ -1,1 +1,1 @@
-var mnemonic = "local setup maple horn chronic street thought awkward dinner arctic salon wage";
+var mnemonic = "service skate card return october jungle admit stereo blanket bounce visa bacon";

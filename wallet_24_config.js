@@ -1,1 +1,1 @@
-var mnemonic = "tissue bread render fringe museum change proof turkey base potato wrestle thing";
+var mnemonic = "priority hamster fat sample achieve box slam assist heart matter lazy shed";

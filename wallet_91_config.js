@@ -1,1 +1,1 @@
-var mnemonic = "theory approve glare wash uphold beyond gold napkin novel orange degree horse";
+var mnemonic = "panic method excite inner sauce glimpse inner since reunion you ring pudding";

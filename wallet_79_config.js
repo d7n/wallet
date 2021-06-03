@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit eternal alert teach knock sea coffee wheat start train surprise more";
+var mnemonic = "gym gasp exotic sing stomach sing smart cash that victory snack perfect";

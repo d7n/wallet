@@ -1,1 +1,1 @@
-var mnemonic = "industry aim tribe pride invite aunt neither sausage mystery lift gaze river";
+var mnemonic = "cat goat dance walnut aspect crowd broccoli choose paper umbrella ring logic";

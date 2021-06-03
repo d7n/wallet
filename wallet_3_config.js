@@ -1,1 +1,1 @@
-var mnemonic = "extend buzz derive toward bundle identify squirrel burger hurdle rich miss maid";
+var mnemonic = "mind clever online sock parade rabbit mango equip approve then kangaroo myth";

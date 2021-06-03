@@ -1,1 +1,1 @@
-var mnemonic = "floor maze remind educate decide worth kitten dumb uncover upgrade city country";
+var mnemonic = "piano sausage crisp reason object often basket eternal student person pipe jelly";

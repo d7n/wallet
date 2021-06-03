@@ -1,1 +1,1 @@
-var mnemonic = "play danger intact endorse goddess idea flush mesh puzzle holiday rain twin";
+var mnemonic = "trophy snow grid cart loan inject drip toast novel dizzy coast cotton";

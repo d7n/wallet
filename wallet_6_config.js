@@ -1,1 +1,1 @@
-var mnemonic = "barrel witness update reopen toe marble huge bounce swallow cotton harvest program";
+var mnemonic = "end acoustic screen arrow script drift local produce ceiling knee column thank";

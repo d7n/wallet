@@ -1,1 +1,1 @@
-var mnemonic = "aim gain little cancel amazing favorite hungry old legal hungry evolve cross";
+var mnemonic = "solar smoke drop ankle visual town step expect napkin prevent buzz diagram";

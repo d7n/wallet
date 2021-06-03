@@ -1,1 +1,1 @@
-var mnemonic = "tourist supreme derive cactus bubble equip found fade senior bonus orphan split";
+var mnemonic = "pizza outdoor brief ladder simple settle rigid lava engage salt female erosion";

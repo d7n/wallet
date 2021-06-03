@@ -1,1 +1,1 @@
-var mnemonic = "deal bright awesome chase board lawn miracle anchor near rural fashion acquire";
+var mnemonic = "street night endorse blood hour good explain left lamp tomato hospital swim";

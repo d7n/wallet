@@ -1,1 +1,1 @@
-var mnemonic = "find try fitness only stairs riot ranch surround pulse similar jeans combine";
+var mnemonic = "story planet shove pupil picture garage agent connect quick pipe defy bone";

@@ -1,1 +1,1 @@
-var mnemonic = "caught lab fat grunt two patch mixed intact symbol pony trial used";
+var mnemonic = "romance whip hero need type hurry inform roast seven emerge mind diesel";

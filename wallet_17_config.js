@@ -1,1 +1,1 @@
-var mnemonic = "profit hospital goose palm salt smile culture talk tilt essence jacket solar";
+var mnemonic = "sound opera start fold potato crew broom raccoon run supreme aisle addict";

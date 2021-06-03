@@ -1,1 +1,1 @@
-var mnemonic = "trash craft like obscure solid motion betray industry bid metal ceiling good";
+var mnemonic = "quick trick steak copy cost sick garment beyond country guitar industry wage";

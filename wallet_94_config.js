@@ -1,1 +1,1 @@
-var mnemonic = "welcome ship permit kite obtain truly kite such scare rubber below cheese";
+var mnemonic = "damage juice police select donate dream topple across weather gentle busy abuse";

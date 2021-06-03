@@ -1,1 +1,1 @@
-var mnemonic = "quick tree fantasy pudding movie casual all upgrade quiz coral album company";
+var mnemonic = "fancy elevator yellow measure merry wrong napkin margin flock bargain palm very";

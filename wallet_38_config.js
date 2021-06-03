@@ -1,1 +1,1 @@
-var mnemonic = "vivid robot useless lady market please goddess digital merry village exhaust jewel";
+var mnemonic = "tobacco soldier coach engage damage olympic vintage depart arrest walnut monster belt";

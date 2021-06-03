@@ -1,1 +1,1 @@
-var mnemonic = "mesh alter cruise parrot hotel come method deputy obvious album scout hidden";
+var mnemonic = "stuff deposit rocket notable match grass prevent attitude again exit pull confirm";

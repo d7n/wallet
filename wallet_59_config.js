@@ -1,1 +1,1 @@
-var mnemonic = "legal beef where seat swear major shiver surge current typical host useless";
+var mnemonic = "castle dinosaur organ snap trouble various wise fine accuse will polar kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "north story volcano exercise inhale rice direct embrace kitchen mixture stick few";
+var mnemonic = "person love stuff project fix they harsh shoe genuine estate doctor unable";

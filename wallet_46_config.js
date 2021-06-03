@@ -1,1 +1,1 @@
-var mnemonic = "derive brass talent journey ignore math silly half humble resist toward travel";
+var mnemonic = "decline grid chaos east parade eight arch tower boy maximum pledge field";

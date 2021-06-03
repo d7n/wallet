@@ -1,1 +1,1 @@
-var mnemonic = "crucial kidney dial quote perfect basket mercy east rebel lady genuine immune";
+var mnemonic = "peasant exhaust aerobic cliff peasant orbit derive early poet inhale cost valve";

@@ -1,1 +1,1 @@
-var mnemonic = "logic fly autumn avoid dune prison member where struggle hockey produce shadow";
+var mnemonic = "easily shallow exchange below strike unable film village job page mercy float";

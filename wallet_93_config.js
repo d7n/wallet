@@ -1,1 +1,1 @@
-var mnemonic = "law glide keep elevator ranch merit unfair sick enhance april eyebrow enhance";
+var mnemonic = "orange poet detect basic thunder save legal verb dismiss sample purpose member";

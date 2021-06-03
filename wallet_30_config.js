@@ -1,1 +1,1 @@
-var mnemonic = "other nerve popular vocal middle weekend loyal lounge holiday tip abandon demise";
+var mnemonic = "much jealous style boil tree possible jealous hand oppose left control laptop";

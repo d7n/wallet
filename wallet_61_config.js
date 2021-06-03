@@ -1,1 +1,1 @@
-var mnemonic = "twice trap cluster diamond warfare depth sustain check robust link skill inch";
+var mnemonic = "donor hand stage transfer horse wash urban elbow stumble symbol shiver parent";

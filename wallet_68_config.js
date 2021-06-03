@@ -1,1 +1,1 @@
-var mnemonic = "pipe arena payment dress anger sock forum truly orbit emerge army nice";
+var mnemonic = "century sort process cake topic inject eagle alien palm village mobile spoil";

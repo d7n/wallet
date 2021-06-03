@@ -1,1 +1,1 @@
-var mnemonic = "time wasp income liar hawk health foster gift blush tape install awkward";
+var mnemonic = "quantum boat attend artist aerobic pulse arch siege car cement danger now";

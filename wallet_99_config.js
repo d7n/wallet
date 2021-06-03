@@ -1,1 +1,1 @@
-var mnemonic = "fox april sweet hamster cross catch vanish ring aspect bar parade clock";
+var mnemonic = "grab crazy harbor swap harvest sentence exchange brother desk member depth blur";

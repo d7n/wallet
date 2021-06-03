@@ -1,1 +1,1 @@
-var mnemonic = "toe little company repair dawn silk say erosion flight tooth trophy library";
+var mnemonic = "song net alley caution cabbage legal silk bring flavor ancient love penalty";

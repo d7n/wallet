@@ -1,1 +1,1 @@
-var mnemonic = "voyage dragon foster target input visit raise initial faint join this faculty";
+var mnemonic = "essay corn child deposit soccer flight obtain vivid smile knee galaxy one";

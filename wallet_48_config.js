@@ -1,1 +1,1 @@
-var mnemonic = "gauge letter narrow raccoon fantasy gossip text follow notable deny hard tennis";
+var mnemonic = "curve success kind drive glare tuna payment ridge bulk side diet weird";

@@ -1,1 +1,1 @@
-var mnemonic = "husband afford actual chicken unique bird enact logic afford whale luxury hunt";
+var mnemonic = "ship hotel grunt maple unlock fury author pluck panic rib gap coil";

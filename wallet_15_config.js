@@ -1,1 +1,1 @@
-var mnemonic = "illness top phone essence six risk resource join celery kite embrace slim";
+var mnemonic = "curve stadium mushroom woman submit awake noble word tip remove goat creek";

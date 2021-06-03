@@ -1,1 +1,1 @@
-var mnemonic = "business inform hero vital ranch copper easy oven rude vocal early endorse";
+var mnemonic = "major nothing predict rapid parent famous fly magnet rule response canoe just";

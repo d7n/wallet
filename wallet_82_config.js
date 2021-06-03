@@ -1,1 +1,1 @@
-var mnemonic = "soul alien pool random salad february genre option art brass sail envelope";
+var mnemonic = "hurdle patrol salute version actual casino disease finish diesel gadget entry goose";

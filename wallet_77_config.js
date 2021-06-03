@@ -1,1 +1,1 @@
-var mnemonic = "faith siege woman twist search wall human federal sight basket midnight barely";
+var mnemonic = "repeat bus annual scale party soccer pelican flat tank increase assist domain";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope tornado capable fabric wait hawk wagon follow scheme try fiber shrug";
+var mnemonic = "afraid document silly power mask this special marriage wish force switch course";

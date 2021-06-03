@@ -1,1 +1,1 @@
-var mnemonic = "original search energy exact gold wrap parrot enrich chase advance oyster thank";
+var mnemonic = "sunset kiss cup glue casual fatigue run toast elegant vanish issue diamond";

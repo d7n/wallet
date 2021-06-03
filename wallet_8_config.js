@@ -1,1 +1,1 @@
-var mnemonic = "loan tank ridge pave rebuild hunt kingdom steel device shift cherry vacant";
+var mnemonic = "gorilla alley cash plug armed point demand couple hire people bunker erase";

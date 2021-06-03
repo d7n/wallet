@@ -1,1 +1,1 @@
-var mnemonic = "hundred yellow supreme muffin tone put supply autumn crew knee village during";
+var mnemonic = "fine voice monkey stool balcony income debate sponsor foot toddler donate buddy";

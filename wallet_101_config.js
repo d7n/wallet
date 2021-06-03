@@ -1,1 +1,1 @@
-var mnemonic = "camp debate bulk kangaroo carpet despair side desert deputy crazy control brand";
+var mnemonic = "type sibling run resource blanket agree opinion ethics beyond crew cannon scare";

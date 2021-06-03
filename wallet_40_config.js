@@ -1,1 +1,1 @@
-var mnemonic = "capital judge scheme school music friend another exhibit insect limb happy impulse";
+var mnemonic = "debate nest rally virtual orange magic next lawn various twist explain shallow";

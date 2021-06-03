@@ -1,1 +1,1 @@
-var mnemonic = "female gown few close ostrich siren offer version weapon arrow hen chicken";
+var mnemonic = "size inside melt insane ocean mask early large pill garlic embrace harsh";

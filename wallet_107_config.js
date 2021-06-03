@@ -1,1 +1,1 @@
-var mnemonic = "avoid random word opinion shove axis brother brown slender flame sing inside";
+var mnemonic = "satisfy caution fever pepper metal moral congress survey topple occur exact left";

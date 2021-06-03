@@ -1,1 +1,1 @@
-var mnemonic = "federal grant thank key accuse reveal average chat beach crane hood mind";
+var mnemonic = "fatigue lonely luxury make stove regret paddle supreme usual copy entire funny";

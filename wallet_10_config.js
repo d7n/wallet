@@ -1,1 +1,1 @@
-var mnemonic = "pioneer slender expose race erosion orient dial loyal question unknown slab live";
+var mnemonic = "vague sketch devote puppy expose stairs pair author exhibit poet canvas insane";

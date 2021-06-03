@@ -1,1 +1,1 @@
-var mnemonic = "usage lava moral clump ugly slam assault bar planet fruit situate primary";
+var mnemonic = "erase rail spy bunker sight toast cupboard water enact release disease stand";

@@ -1,1 +1,1 @@
-var mnemonic = "below insect penalty enlist fruit identify impulse ozone jacket tuition attend slogan";
+var mnemonic = "round alpha general limb file sponsor nurse load left slender enemy absent";

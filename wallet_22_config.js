@@ -1,1 +1,1 @@
-var mnemonic = "spoil spot disagree sponsor rent october dry runway way butter shoulder scale";
+var mnemonic = "obscure eight key glove misery announce method pudding kitten dice rare tortoise";

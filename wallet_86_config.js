@@ -1,1 +1,1 @@
-var mnemonic = "grab business gospel define asset mechanic logic fancy clog neck text fat";
+var mnemonic = "recall spin proof follow believe firm door cliff useless slender charge around";

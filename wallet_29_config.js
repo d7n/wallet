@@ -1,1 +1,1 @@
-var mnemonic = "language bread stereo course cotton toward swift angry luxury toe good icon";
+var mnemonic = "about soccer curtain dry cement breeze evil minute measure knee carpet pave";

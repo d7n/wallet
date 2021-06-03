@@ -1,1 +1,1 @@
-var mnemonic = "airport tube lock degree minimum exact urban ecology cactus lucky sketch story";
+var mnemonic = "again trend quit balcony tube lounge scrap sick plug nature toward unhappy";

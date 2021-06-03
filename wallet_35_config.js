@@ -1,1 +1,1 @@
-var mnemonic = "remove advice coyote promote permit session hire save latin donkey panther obvious";
+var mnemonic = "eyebrow capital pen used scare lawn toy estate second devote ethics column";

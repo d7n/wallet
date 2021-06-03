@@ -1,1 +1,1 @@
-var mnemonic = "april switch wink suggest cause blame satisfy glow arctic wreck jacket hub";
+var mnemonic = "away feature ozone verify bag toddler settle fresh dress extra afford neck";
