@@ -1,1 +1,1 @@
-var mnemonic = "effort draft relief tenant hurry cloth dove bubble film debate sting cattle";
+var mnemonic = "tube ritual retire scene maid damp hobby riot trade chase steak one";

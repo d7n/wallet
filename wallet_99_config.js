@@ -1,1 +1,1 @@
-var mnemonic = "leisure polar symptom suspect pact noise glass home lawsuit table valve jungle";
+var mnemonic = "build demand confirm drive verify ritual spy table kit bean knock equal";

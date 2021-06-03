@@ -1,1 +1,1 @@
-var mnemonic = "family diary muscle dumb advice false donate couch rocket pave deputy legend";
+var mnemonic = "churn portion typical bleak real flash hint inmate zero coconut relief green";

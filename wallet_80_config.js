@@ -1,1 +1,1 @@
-var mnemonic = "fiber aunt rabbit social modify assist suit situate foam destroy power account";
+var mnemonic = "album close crazy trim surround diagram frost defense vicious cake deer grit";

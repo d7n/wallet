@@ -1,1 +1,1 @@
-var mnemonic = "curve cram busy mimic emotion ensure adult sustain favorite belt travel admit";
+var mnemonic = "south priority fade gauge strike lounge narrow window gift certain web rubber";

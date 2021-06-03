@@ -1,1 +1,1 @@
-var mnemonic = "unlock ensure smooth chapter open muffin script author warrior tragic cart chapter";
+var mnemonic = "upper public thunder deer keep output rely slogan belt corn reveal attract";

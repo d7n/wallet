@@ -1,1 +1,1 @@
-var mnemonic = "annual vacuum hub supply despair exhibit soap service alone rely method approve";
+var mnemonic = "wet lazy bullet mammal morning menu defy trade hamster noodle axis test";

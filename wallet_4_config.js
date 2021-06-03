@@ -1,1 +1,1 @@
-var mnemonic = "vessel monitor drink arrange illness error already laundry neither crisp equip pipe";
+var mnemonic = "wheat wide police broccoli narrow skin duty deer cluster bullet wine label";

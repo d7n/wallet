@@ -1,1 +1,1 @@
-var mnemonic = "blue setup butter force abuse six stumble beach marriage uncover load lecture";
+var mnemonic = "kind guide act paddle order during appear clinic pride give hybrid box";

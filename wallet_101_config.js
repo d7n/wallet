@@ -1,1 +1,1 @@
-var mnemonic = "team shock crunch offer bomb nurse merge inmate ghost oak stick promote";
+var mnemonic = "atom dial hybrid lady lift cheese magic check private only play combine";

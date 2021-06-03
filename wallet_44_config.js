@@ -1,1 +1,1 @@
-var mnemonic = "teach cinnamon gun moon today saddle glass treat time thunder soup learn";
+var mnemonic = "excite all steak fold awake special unknown illegal later call alter prize";

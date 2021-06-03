@@ -1,1 +1,1 @@
-var mnemonic = "benefit enable east season glue online play balcony much wealth clip cereal";
+var mnemonic = "point card hub chalk double thrive flock vacant dry join awesome plastic";

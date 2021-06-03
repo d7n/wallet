@@ -1,1 +1,1 @@
-var mnemonic = "ripple runway search fruit extend jewel law black bundle fork magic approve";
+var mnemonic = "multiply master six destroy awake increase unable denial permit spoon monster web";

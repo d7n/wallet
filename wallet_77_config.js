@@ -1,1 +1,1 @@
-var mnemonic = "destroy title whip lottery giant thumb under situate spatial purse quarter coral";
+var mnemonic = "plug caught excess team sudden nut zoo front found tragic mixture blush";

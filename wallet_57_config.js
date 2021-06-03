@@ -1,1 +1,1 @@
-var mnemonic = "mind wolf base own orphan poet myself potato sock still daughter dose";
+var mnemonic = "split agree merit april ocean suggest keen fault crew penalty phone sport";

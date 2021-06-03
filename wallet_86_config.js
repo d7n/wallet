@@ -1,1 +1,1 @@
-var mnemonic = "six key actor mutual tired select ethics derive special knock kingdom stock";
+var mnemonic = "boat clinic trust board cement goat recipe problem lumber various curious summer";

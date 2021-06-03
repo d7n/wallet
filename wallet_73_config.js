@@ -1,1 +1,1 @@
-var mnemonic = "cement thumb settle tooth assault harsh coast into toward narrow sign actor";
+var mnemonic = "cheap south canal sting senior excess subway shadow worth fox hole trouble";

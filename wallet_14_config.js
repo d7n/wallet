@@ -1,1 +1,1 @@
-var mnemonic = "final reject topple matrix hill soccer repair chase three memory junk conduct";
+var mnemonic = "clown card vast card quit nation resist dove okay immune autumn curious";

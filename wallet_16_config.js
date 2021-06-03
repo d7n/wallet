@@ -1,1 +1,1 @@
-var mnemonic = "top title dog stage second position crime mansion main apple remind medal";
+var mnemonic = "moment melt account interest west iron visual shuffle gas beach auto mechanic";

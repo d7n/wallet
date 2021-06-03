@@ -1,1 +1,1 @@
-var mnemonic = "theory inmate pig calm patient direct wife trophy glow correct pipe field";
+var mnemonic = "gown hope rally measure list ostrich lift because delay pluck elder aerobic";

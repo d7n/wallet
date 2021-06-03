@@ -1,1 +1,1 @@
-var mnemonic = "bridge prosper place fog galaxy impose inmate roof caught upgrade spirit magic";
+var mnemonic = "judge father ethics fuel walk good trigger suspect invite muscle poverty universe";

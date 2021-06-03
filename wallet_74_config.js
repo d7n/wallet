@@ -1,1 +1,1 @@
-var mnemonic = "below jazz mouse skin alter bright arrange fatigue foam swamp favorite badge";
+var mnemonic = "sibling wonder together tackle luxury cricket comfort special adapt all pledge hill";

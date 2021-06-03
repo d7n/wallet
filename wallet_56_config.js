@@ -1,1 +1,1 @@
-var mnemonic = "shrug fun clay embody oil chapter into doll vast soup decade mirror";
+var mnemonic = "harvest unlock impulse organ milk luxury power culture butter cool shield enemy";

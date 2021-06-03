@@ -1,1 +1,1 @@
-var mnemonic = "dice hard permit quit vicious voice move hammer enemy bone nuclear forum";
+var mnemonic = "main suit foam flag result february spike speed chair sauce sunny grab";

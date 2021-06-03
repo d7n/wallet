@@ -1,1 +1,1 @@
-var mnemonic = "erosion year daughter silk admit report cave have urban debris large stem";
+var mnemonic = "ladder around burden border major man trumpet plug blouse embark hazard all";

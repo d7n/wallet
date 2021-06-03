@@ -1,1 +1,1 @@
-var mnemonic = "bracket mercy witness truth license upper smart monster talk photo equal doll";
+var mnemonic = "ball fix cradle keep absorb nephew sustain outdoor attack obey anger earth";

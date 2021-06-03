@@ -1,1 +1,1 @@
-var mnemonic = "rival void width feature slam tackle enough stick merge human hello eyebrow";
+var mnemonic = "gym human trouble tone teach blanket wood biology myself illness swap palm";

@@ -1,1 +1,1 @@
-var mnemonic = "reward hello husband engage true mind permit wait fortune discover nice family";
+var mnemonic = "grass toward host host hamster define coral combine spy outer fatal cross";

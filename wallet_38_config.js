@@ -1,1 +1,1 @@
-var mnemonic = "stamp case monitor helmet since april bean skin arrest alter diet rain";
+var mnemonic = "range file ring visual innocent afraid suffer debate fog jazz educate dignity";

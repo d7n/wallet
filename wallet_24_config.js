@@ -1,1 +1,1 @@
-var mnemonic = "immense wide face spray lobster village race still write arm screen tattoo";
+var mnemonic = "hope pistol three puppy file wrist love lounge direct goddess rebuild goose";

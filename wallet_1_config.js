@@ -1,1 +1,1 @@
-var mnemonic = "govern repeat curtain trigger arm cigar favorite tobacco desk path elegant slender";
+var mnemonic = "impose define current peasant glove lava hobby depart salon sample hobby nephew";

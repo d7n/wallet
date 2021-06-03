@@ -1,1 +1,1 @@
-var mnemonic = "boat amateur minor during forget hunt blind double around machine undo motor";
+var mnemonic = "setup abstract regular industry medal patient virtual hockey include ripple kite purse";

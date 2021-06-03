@@ -1,1 +1,1 @@
-var mnemonic = "feature entire page noise insane review okay song alley involve race choice";
+var mnemonic = "practice useful metal naive tenant syrup purchase basic digital grain zoo grant";

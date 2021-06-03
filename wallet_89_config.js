@@ -1,1 +1,1 @@
-var mnemonic = "enjoy anxiety shoulder exchange mouse print remain waste core raise alien number";
+var mnemonic = "april layer order lab also silent valve unfair senior track employ price";

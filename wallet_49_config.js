@@ -1,1 +1,1 @@
-var mnemonic = "receive region fit glass pottery dismiss swim symptom sphere cliff erase egg";
+var mnemonic = "weapon wash candy document neither simple lunch industry electric symptom mind opera";

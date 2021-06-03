@@ -1,1 +1,1 @@
-var mnemonic = "hole episode believe hold chapter kiwi utility diamond human seminar alter celery";
+var mnemonic = "loop vault network pet actor peace hungry sell meat cabbage early display";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid embrace detail powder tool trap lemon orange want task resemble grief";
+var mnemonic = "common turkey burst can amount hammer guilt problem object early danger tag";

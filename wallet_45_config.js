@@ -1,1 +1,1 @@
-var mnemonic = "february lazy orphan forest laptop zero cigar object rescue danger elbow dial";
+var mnemonic = "surge spray page doctor mesh reveal view kit harbor base use jar";

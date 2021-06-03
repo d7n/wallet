@@ -1,1 +1,1 @@
-var mnemonic = "kiwi speak exhibit manual grid until guitar edge easy degree eager lizard";
+var mnemonic = "wide stairs rigid file water cause sunny divide blood travel topic social";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust speak net trial bar rocket during orphan spread jacket tooth alert";
+var mnemonic = "explain minute donate cherry recall dawn maze that ginger company couple inmate";

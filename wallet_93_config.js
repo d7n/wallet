@@ -1,1 +1,1 @@
-var mnemonic = "sport ranch horn smart relax luggage all hair track lounge century combine";
+var mnemonic = "card error digital expose remind onion minimum easy fall infant tray deliver";

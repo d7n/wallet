@@ -1,1 +1,1 @@
-var mnemonic = "vendor pair embody change shrimp shrug plate unaware kidney process depend taste";
+var mnemonic = "black popular group chase fashion muscle shiver craft cat hard whisper trash";

@@ -1,1 +1,1 @@
-var mnemonic = "memory region virtual leave churn primary adapt proof finger invest load confirm";
+var mnemonic = "bunker there swallow left split typical truck pig coyote off carry round";

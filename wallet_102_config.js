@@ -1,1 +1,1 @@
-var mnemonic = "shine deny basket sweet eight axis enable casual ginger race task game";
+var mnemonic = "follow embark jelly frequent music olive across diamond peace ceiling since volume";

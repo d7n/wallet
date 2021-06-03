@@ -1,1 +1,1 @@
-var mnemonic = "any shine spring october tragic debate vanish alone estate much doll gentle";
+var mnemonic = "disorder citizen avocado limit mountain note divide aspect balance upset trial another";

@@ -1,1 +1,1 @@
-var mnemonic = "few fly venture salt salmon nurse brush what speed record whale army";
+var mnemonic = "remember desk rely deal sorry sudden flush hockey observe tag balance pull";

@@ -1,1 +1,1 @@
-var mnemonic = "phone joke vessel diagram wear hire volume voice boost ankle dove shaft";
+var mnemonic = "found zone ship blush muffin oven knife novel six jacket swift glue";

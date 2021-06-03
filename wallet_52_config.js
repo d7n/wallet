@@ -1,1 +1,1 @@
-var mnemonic = "dwarf clog emotion retreat defense amused sand surge polar quick again beyond";
+var mnemonic = "reward turtle quality talent urge tornado flock title cigar box waste broom";

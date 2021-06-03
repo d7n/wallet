@@ -1,1 +1,1 @@
-var mnemonic = "peace base primary punch midnight hawk rain bleak oak near pause bullet";
+var mnemonic = "dash please veteran beef embark term fiscal birth follow long joke uncle";

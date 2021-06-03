@@ -1,1 +1,1 @@
-var mnemonic = "noodle planet tuna sun kidney couple oxygen bachelor gas bright universe exotic";
+var mnemonic = "arch double slender era craft estate claw unknown skull feed pilot pass";

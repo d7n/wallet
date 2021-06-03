@@ -1,1 +1,1 @@
-var mnemonic = "helmet click rice supply nurse wrist transfer toilet kit nation feed senior";
+var mnemonic = "faint film catalog dream autumn embrace hold envelope craft express tool hurry";

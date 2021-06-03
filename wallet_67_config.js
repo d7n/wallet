@@ -1,1 +1,1 @@
-var mnemonic = "clean luxury want prison acid team bring expand gospel foot blue love";
+var mnemonic = "sustain direct current paddle object aim point modify remain civil weapon snap";

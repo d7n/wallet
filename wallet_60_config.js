@@ -1,1 +1,1 @@
-var mnemonic = "intact power account before gravity barrel cactus what seek heart mountain design";
+var mnemonic = "renew ivory forget merit donkey eight drive intact rug sketch juice south";

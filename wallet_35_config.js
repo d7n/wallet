@@ -1,1 +1,1 @@
-var mnemonic = "poet essence daughter apart business scene raccoon joke found abstract march ticket";
+var mnemonic = "around coral tent east juice enter shaft swamp voice napkin delay change";

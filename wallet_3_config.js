@@ -1,1 +1,1 @@
-var mnemonic = "draft sausage hip once air detect safe slight athlete lobster peace ginger";
+var mnemonic = "deputy badge enlist sudden symbol canyon inspire debate ordinary chuckle worry attack";

@@ -1,1 +1,1 @@
-var mnemonic = "happy wisdom cigar unit style donor easily angry rural risk guide april";
+var mnemonic = "lava vicious talent visual sick party peace patient birth example napkin symptom";

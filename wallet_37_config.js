@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit bike before cruel father stand cherry roast ribbon gap warrior number";
+var mnemonic = "rural panther vault champion speed bounce police unfold mosquito kidney elephant squirrel";

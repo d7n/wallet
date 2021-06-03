@@ -1,1 +1,1 @@
-var mnemonic = "august senior town assist globe liberty relief lion attitude future student angle";
+var mnemonic = "grab apart athlete lesson exact police manage august tree panther spell toast";

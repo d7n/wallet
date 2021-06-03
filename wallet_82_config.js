@@ -1,1 +1,1 @@
-var mnemonic = "phone awful vital actual train faint great recipe security human planet crystal";
+var mnemonic = "cage clinic amount idea quit sheriff bulk sauce when year birth vehicle";

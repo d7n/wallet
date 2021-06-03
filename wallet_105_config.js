@@ -1,1 +1,1 @@
-var mnemonic = "panic sick water hawk garbage midnight grape swarm bronze umbrella valley ritual";
+var mnemonic = "welcome combine maximum brush save genre ethics age plunge pill critic lottery";

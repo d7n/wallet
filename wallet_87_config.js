@@ -1,1 +1,1 @@
-var mnemonic = "media height wheat fog law merry cherry step group buffalo repair page";
+var mnemonic = "gauge badge flip lamp cloud pistol rent aisle worth century gold merge";

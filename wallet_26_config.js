@@ -1,1 +1,1 @@
-var mnemonic = "enhance rotate hurdle coconut risk random author woman list buzz trophy naive";
+var mnemonic = "banana brass tissue accuse grant plastic glue surprise wage salon girl east";

@@ -1,1 +1,1 @@
-var mnemonic = "large flip energy zebra unknown arena bounce knife install shrug hover detect";
+var mnemonic = "paper honey attack sure grocery board demand help hidden hospital bubble vibrant";

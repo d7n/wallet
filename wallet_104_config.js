@@ -1,1 +1,1 @@
-var mnemonic = "claim feed evolve tenant adjust engine poem comic program oil fiber genius";
+var mnemonic = "they donkey taxi tourist season beach voyage wild absent banner ecology quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "medal render trim voice fold echo supreme horse skull clump frog you";
+var mnemonic = "erupt level rib ancient stereo public weather absorb hole dragon gaze private";

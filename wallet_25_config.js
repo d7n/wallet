@@ -1,1 +1,1 @@
-var mnemonic = "around wheel warm snap burst summer error horror okay document right valley";
+var mnemonic = "entire plate before sand random know between patch carpet bone reward media";

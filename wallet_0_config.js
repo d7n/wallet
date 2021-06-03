@@ -1,1 +1,1 @@
-var mnemonic = "aware oval hamster monster curious garden stick noise spawn crater dose hero";
+var mnemonic = "measure toast vault under tomorrow chimney indoor jazz insane kiwi elevator bicycle";

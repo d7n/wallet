@@ -1,1 +1,1 @@
-var mnemonic = "bus plastic frame law tomato series monster relax there eye average involve";
+var mnemonic = "define tree subject among suggest number priority pond father material blast pledge";

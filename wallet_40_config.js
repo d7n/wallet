@@ -1,1 +1,1 @@
-var mnemonic = "embody despair ghost slim sweet wheel palm column cute pave iron input";
+var mnemonic = "grid purpose recall tunnel edit divorce fruit economy morning curious shell secret";

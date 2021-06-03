@@ -1,1 +1,1 @@
-var mnemonic = "betray early agree child lens nose coast siren dry invite profit change";
+var mnemonic = "diagram just egg strategy casino lock end wine grain fiscal hello gallery";

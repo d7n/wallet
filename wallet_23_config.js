@@ -1,1 +1,1 @@
-var mnemonic = "mouse sign unfold stable lion office lumber verify stem useful conduct arrest";
+var mnemonic = "also bone mutual junior round rhythm ethics trim alter breeze book stairs";

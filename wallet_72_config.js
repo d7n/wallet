@@ -1,1 +1,1 @@
-var mnemonic = "crawl era clutch total disagree dune school park spring protect prevent media";
+var mnemonic = "glory dream drastic dog bullet knock pulp trap vanish next two math";

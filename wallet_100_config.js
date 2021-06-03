@@ -1,1 +1,1 @@
-var mnemonic = "logic region soul tiger used rapid way witness physical judge mesh aunt";
+var mnemonic = "train dynamic feel ignore rate custom end bacon flame say ticket ensure";

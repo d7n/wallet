@@ -1,1 +1,1 @@
-var mnemonic = "rocket salad drive mushroom ostrich left flock lady favorite ice typical drop";
+var mnemonic = "mail three steak tiny south dad tattoo vessel cricket want near dentist";

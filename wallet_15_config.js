@@ -1,1 +1,1 @@
-var mnemonic = "galaxy coyote orient ghost camp odor flavor above used never lottery holiday";
+var mnemonic = "mule candy sentence volcano knife service devote trap banana convince script mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "scare update green car pact nurse rubber rabbit airport naive toy area";
+var mnemonic = "bean fly advice either glare maple clerk scan chuckle plug chicken few";

@@ -1,1 +1,1 @@
-var mnemonic = "top venture protect recycle fan month lawsuit boring wise heavy large math";
+var mnemonic = "gold session turtle anxiety cave subway tornado paddle flag trend panda green";

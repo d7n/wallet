@@ -1,1 +1,1 @@
-var mnemonic = "dash subject intact olive guilt truth farm clarify announce area bean allow";
+var mnemonic = "fence scissors order quantum dance prevent kidney album slight audit moment spray";

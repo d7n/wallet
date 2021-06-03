@@ -1,1 +1,1 @@
-var mnemonic = "slogan pact village risk hybrid rotate open diesel attend truth absent tip";
+var mnemonic = "income problem tortoise exact tobacco scrap release net clerk cave demand lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "snap team eager cancel gown slow swing rally voyage differ action among";
+var mnemonic = "phone another legal execute post heavy dream kiss elite result mobile replace";

@@ -1,1 +1,1 @@
-var mnemonic = "leader build crane elite liquid patient orphan shock unveil negative scout radar";
+var mnemonic = "noodle one clock market autumn swap verb spread ring perfect faint giraffe";

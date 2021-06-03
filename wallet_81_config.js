@@ -1,1 +1,1 @@
-var mnemonic = "absurd shadow roof entire album come typical shoe buzz advice wrap lady";
+var mnemonic = "sheriff dad level ice flash act borrow coffee guilt rely method topple";

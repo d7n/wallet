@@ -1,1 +1,1 @@
-var mnemonic = "dose license erase zoo silver trial guard pill beach boy once rice";
+var mnemonic = "sell soft stool deal beyond thumb remember garlic comfort super nuclear surprise";

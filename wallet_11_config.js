@@ -1,1 +1,1 @@
-var mnemonic = "all shoot diagram mansion ready announce leg door book tool chalk also";
+var mnemonic = "vague kiwi vehicle artefact police atom dawn face area sniff jacket around";

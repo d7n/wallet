@@ -1,1 +1,1 @@
-var mnemonic = "couch sleep harsh doll hope soda chuckle usage heavy panther goose bleak";
+var mnemonic = "party evidence pig when genuine mushroom kid olympic bargain hip inherit visit";

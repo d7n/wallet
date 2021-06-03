@@ -1,1 +1,1 @@
-var mnemonic = "museum ceiling simple sister indoor physical recall equal have hundred minute caution";
+var mnemonic = "neither head fire wife issue genre room audit viable casino crane keep";

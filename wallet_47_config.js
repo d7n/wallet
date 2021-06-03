@@ -1,1 +1,1 @@
-var mnemonic = "return luxury wine pave net tonight include walnut slab warfare curtain hard";
+var mnemonic = "strike knife door cricket sun catch atom very angry shy auction deliver";

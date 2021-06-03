@@ -1,1 +1,1 @@
-var mnemonic = "disorder sphere cause century spike image write leave volume rule kidney prison";
+var mnemonic = "obscure sphere address world melody flight render perfect frequent fade insane amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "glow minute economy tower ride flush notable danger image beef flat source";
+var mnemonic = "disagree blue damage calm ring sustain egg december inch monkey bunker pig";

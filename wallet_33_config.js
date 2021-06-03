@@ -1,1 +1,1 @@
-var mnemonic = "essay prison urge dash pelican improve early limit analyst various own any";
+var mnemonic = "agent dinosaur pudding feed front artwork execute process either bubble treat child";

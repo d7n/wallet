@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur certain genius elegant jar chest virus win toss inmate impulse delay";
+var mnemonic = "skull delay pole expire clock pyramid cabbage pitch donor element figure dose";

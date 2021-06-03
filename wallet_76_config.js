@@ -1,1 +1,1 @@
-var mnemonic = "sibling enough radar manual belt patrol frost cattle predict weather frequent crucial";
+var mnemonic = "peasant anxiety okay soft about glad baby online pupil foam disorder rent";

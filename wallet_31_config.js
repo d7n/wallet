@@ -1,1 +1,1 @@
-var mnemonic = "scissors define issue brick deny once shop entire lounge copy ring debris";
+var mnemonic = "soft pulse fluid narrow february drop dove abandon eagle antique series critic";

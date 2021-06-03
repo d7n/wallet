@@ -1,1 +1,1 @@
-var mnemonic = "excess alpha produce scissors erosion onion rocket pencil layer fix quarter trash";
+var mnemonic = "chicken describe ripple matter six exact oven jealous swim response champion sick";

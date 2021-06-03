@@ -1,1 +1,1 @@
-var mnemonic = "suffer mail rally city wagon solid remind leopard snap deposit upgrade coconut";
+var mnemonic = "cancel guess dwarf announce vacuum mosquito easily luggage blade verify sausage other";

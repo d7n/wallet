@@ -1,1 +1,1 @@
-var mnemonic = "start runway trial nominee dynamic beach deal nation beef donate case pole";
+var mnemonic = "place pelican eagle story magnet mean industry combine orange bulk drip expand";
