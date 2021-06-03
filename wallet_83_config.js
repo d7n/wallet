@@ -1,1 +1,1 @@
-var mnemonic = "dash patrol wool sick arctic vessel lemon worry hurry trend rapid series";
+var mnemonic = "coconut submit culture song bread lawn field kangaroo skate pretty tumble walnut";

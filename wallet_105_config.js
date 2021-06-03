@@ -1,1 +1,1 @@
-var mnemonic = "van flush equip roast venture stone scare bamboo local parade tonight property";
+var mnemonic = "bulb join use duty census woman hurt ozone castle glue coach stool";

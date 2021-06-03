@@ -1,1 +1,1 @@
-var mnemonic = "fall want camp notice render employ grid nerve genuine replace grain normal";
+var mnemonic = "fitness dentist mansion decide deny juice cabin rely current use kick social";

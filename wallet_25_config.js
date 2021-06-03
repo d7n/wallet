@@ -1,1 +1,1 @@
-var mnemonic = "above parade cancel insect enact smoke cloud seat same medal parade chef";
+var mnemonic = "ritual chaos vibrant snake segment garbage come car hub film save maid";

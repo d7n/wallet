@@ -1,1 +1,1 @@
-var mnemonic = "orbit dune young result mistake affair diary business carry deputy plastic mail";
+var mnemonic = "accident kind frost result spirit practice skirt trumpet inside rain shaft cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome pet comfort drift only unusual gesture napkin famous unfold symptom length";
+var mnemonic = "rain slender energy twice solar first brush chicken slight museum name impact";

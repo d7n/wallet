@@ -1,1 +1,1 @@
-var mnemonic = "airport tumble bike length attend scrap fancy neutral fancy spice cream metal";
+var mnemonic = "obey enemy second mirror disagree plunge visa marble piano fame fiscal bus";

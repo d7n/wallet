@@ -1,1 +1,1 @@
-var mnemonic = "grit smooth shine disagree ghost puzzle sign nominee old swallow bar snow";
+var mnemonic = "cake feature silver venture estate pizza aim parrot arctic topple yard easy";

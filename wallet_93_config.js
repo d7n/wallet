@@ -1,1 +1,1 @@
-var mnemonic = "busy judge agent need thunder extra design decorate begin half patrol party";
+var mnemonic = "pluck candy mandate october bike rich saddle coil panel enact tongue escape";

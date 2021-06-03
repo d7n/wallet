@@ -1,1 +1,1 @@
-var mnemonic = "gold grow stereo dry enact shiver furnace marble toe vast tired govern";
+var mnemonic = "help cabbage deal spice knee fox unable poverty raven dance town disagree";

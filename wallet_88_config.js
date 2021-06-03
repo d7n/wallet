@@ -1,1 +1,1 @@
-var mnemonic = "derive intact forest sock pulse skull youth page hat where arrange orange";
+var mnemonic = "clip payment pair margin spend heart chronic spare february badge response pool";

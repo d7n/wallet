@@ -1,1 +1,1 @@
-var mnemonic = "inflict blur hedgehog can neutral horse pass vault submit ten wave tackle";
+var mnemonic = "raw indicate leg cluster spice glue quiz devote release bullet private way";

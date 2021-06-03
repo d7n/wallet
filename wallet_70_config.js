@@ -1,1 +1,1 @@
-var mnemonic = "wet fly mule call noodle turn grief snow usage fragile session embody";
+var mnemonic = "this monitor divert common genuine parrot chief close clinic kidney broken option";

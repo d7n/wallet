@@ -1,1 +1,1 @@
-var mnemonic = "lady kidney circle dial select slab daring erode river card forget guard";
+var mnemonic = "phrase route lake process animal topic tell stem air behave upgrade away";

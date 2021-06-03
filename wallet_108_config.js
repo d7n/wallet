@@ -1,1 +1,1 @@
-var mnemonic = "capital dizzy used elevator globe royal exchange rigid sand thrive puppy scrub";
+var mnemonic = "oval digital soap quote replace tenant bitter urban entire will debate curious";

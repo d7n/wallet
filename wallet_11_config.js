@@ -1,1 +1,1 @@
-var mnemonic = "disease smooth clay torch nest roast liberty frown flee hawk spell bring";
+var mnemonic = "profit noise word lunch pitch fossil tennis fit coast mirror parade since";

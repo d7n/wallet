@@ -1,1 +1,1 @@
-var mnemonic = "cotton comfort basket repair false expose ritual sweet curve tomorrow chunk skill";
+var mnemonic = "culture doctor illness motor lesson program eternal enforce domain evil aisle pill";

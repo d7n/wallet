@@ -1,1 +1,1 @@
-var mnemonic = "fluid depth ostrich scare abandon trap alpha miracle neither cradle fault survey";
+var mnemonic = "foot element bachelor fitness match south puppy into success bread kite ribbon";

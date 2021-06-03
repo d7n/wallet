@@ -1,1 +1,1 @@
-var mnemonic = "piece rebuild empower purpose casino true grant raven disagree fruit away consider";
+var mnemonic = "dry fluid scale fluid job execute kiwi stone figure hawk avoid canal";

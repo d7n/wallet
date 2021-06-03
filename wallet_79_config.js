@@ -1,1 +1,1 @@
-var mnemonic = "open furnace assault crowd cage april magic coral zoo conduct wage robust";
+var mnemonic = "flag cement quote main slow demise pole core seed coast assault ordinary";

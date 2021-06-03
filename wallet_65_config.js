@@ -1,1 +1,1 @@
-var mnemonic = "stock trick inquiry valve leisure add warrior keep tooth hole wheat radar";
+var mnemonic = "file curious ten tilt coyote section above rate uniform bicycle coach insect";

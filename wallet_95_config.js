@@ -1,1 +1,1 @@
-var mnemonic = "asthma bounce jungle menu flag gain farm fury onion flight opera youth";
+var mnemonic = "alley wagon torch episode fit shrug spoon million doctor group movie transfer";

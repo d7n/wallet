@@ -1,1 +1,1 @@
-var mnemonic = "stumble message spread insane cream disagree escape welcome cave couch rescue gym";
+var mnemonic = "crystal ladder liberty syrup puppy myth decade innocent account focus monster quiz";

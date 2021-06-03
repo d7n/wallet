@@ -1,1 +1,1 @@
-var mnemonic = "purpose session away ozone scout inspire tennis festival way brand fine glare";
+var mnemonic = "doctor badge hidden swift science record diesel other load mail okay enter";

@@ -1,1 +1,1 @@
-var mnemonic = "test badge dilemma tortoise place member scheme average camp magnet ankle crush";
+var mnemonic = "roof anchor vast number february parent law trouble assault inquiry enough never";

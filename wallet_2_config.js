@@ -1,1 +1,1 @@
-var mnemonic = "planet grunt rule endorse joke again farm extend outer carpet rescue inherit";
+var mnemonic = "shop usual excess unusual escape often celery focus sunset limb memory insect";

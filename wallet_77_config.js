@@ -1,1 +1,1 @@
-var mnemonic = "bench actual code powder pretty congress scene use finish cushion enough trim";
+var mnemonic = "salt then whisper version enact cable educate attend round reform pumpkin purpose";

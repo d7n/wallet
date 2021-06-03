@@ -1,1 +1,1 @@
-var mnemonic = "loyal spin chronic battle core cruise market reduce popular true trigger possible";
+var mnemonic = "invest rough inflict action glimpse inside place risk razor reduce pear wrong";

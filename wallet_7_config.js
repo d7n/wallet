@@ -1,1 +1,1 @@
-var mnemonic = "brisk goose void during hole raccoon begin yellow column quiz scout when";
+var mnemonic = "old swarm shove design sustain actual course canoe garage over giraffe idea";

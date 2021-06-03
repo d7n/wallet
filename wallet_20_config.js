@@ -1,1 +1,1 @@
-var mnemonic = "wrap plunge jazz sausage lend more alarm soul reunion glue cook airport";
+var mnemonic = "link wide weekend obey miracle pause blue book trophy camp sand subject";

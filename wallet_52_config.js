@@ -1,1 +1,1 @@
-var mnemonic = "word talent ugly outside rural talk chair child own organ doctor seven";
+var mnemonic = "mail lottery domain demise ticket country exchange rescue mistake announce snake orchard";

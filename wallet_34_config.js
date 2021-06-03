@@ -1,1 +1,1 @@
-var mnemonic = "shoot negative wheat vehicle divide neglect limb shoulder pause ship bind opinion";
+var mnemonic = "thunder eager original find lonely panda figure shed evolve above era dish";

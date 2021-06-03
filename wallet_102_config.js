@@ -1,1 +1,1 @@
-var mnemonic = "visual soda mule chronic seminar innocent suit room swing prepare snap planet";
+var mnemonic = "below surround clock window embrace fashion announce capital cigar shine curve neck";

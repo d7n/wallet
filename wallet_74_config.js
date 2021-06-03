@@ -1,1 +1,1 @@
-var mnemonic = "giggle rubber recall head gap narrow athlete cup stadium obey omit nasty";
+var mnemonic = "behind law road original physical behave myth pave reward body steak crew";

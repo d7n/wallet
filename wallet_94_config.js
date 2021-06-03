@@ -1,1 +1,1 @@
-var mnemonic = "month mosquito pair letter nasty gather alert fuel deal pizza icon steak";
+var mnemonic = "increase era prize fragile wreck alpha saddle rural split amused can despair";

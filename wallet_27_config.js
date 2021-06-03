@@ -1,1 +1,1 @@
-var mnemonic = "logic smoke muscle beauty thrive remind else load lyrics spatial victory firm";
+var mnemonic = "crystal indicate agent modify afraid suffer doctor suffer squeeze polar earth jump";

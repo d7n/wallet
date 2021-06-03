@@ -1,1 +1,1 @@
-var mnemonic = "twin harbor slim round master sight amount next asthma govern quote butter";
+var mnemonic = "circle bulk draft edge quick misery stamp glue series call dash stumble";

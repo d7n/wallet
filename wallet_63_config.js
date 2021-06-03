@@ -1,1 +1,1 @@
-var mnemonic = "hotel drum father else airport purpose toilet grace swift happy transfer actor";
+var mnemonic = "quit crumble target initial dragon frame omit object keep orange nephew volcano";

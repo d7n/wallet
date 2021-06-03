@@ -1,1 +1,1 @@
-var mnemonic = "uncle devote brief lamp delay judge giant toward glow trim develop confirm";
+var mnemonic = "skull bunker shoulder term mandate lion float resemble minute tornado bleak relief";

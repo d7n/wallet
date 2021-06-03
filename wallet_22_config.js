@@ -1,1 +1,1 @@
-var mnemonic = "romance slot diet focus exhaust near trim meadow mango castle cousin slight";
+var mnemonic = "demise marine finish ecology meat sorry coil wheat pilot loyal arch assist";

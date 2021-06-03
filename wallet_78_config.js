@@ -1,1 +1,1 @@
-var mnemonic = "retire have worth program hurry scan jealous column parent similar inside timber";
+var mnemonic = "disorder raccoon crime define oven neck sample peanut wrap extra argue moral";

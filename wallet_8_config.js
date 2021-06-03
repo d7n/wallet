@@ -1,1 +1,1 @@
-var mnemonic = "vault strategy climb derive symbol mosquito science family gauge question seek frost";
+var mnemonic = "tennis endless sentence book faint stove miss filter ethics tool cereal two";

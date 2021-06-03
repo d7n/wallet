@@ -1,1 +1,1 @@
-var mnemonic = "ability pride jump quiz fiscal finish clean twice scan high subway orphan";
+var mnemonic = "require enemy deer forget friend erosion often drift kind scrub nurse burden";

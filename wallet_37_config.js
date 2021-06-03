@@ -1,1 +1,1 @@
-var mnemonic = "brief hungry funny soul candy kit course unable favorite vague robot message";
+var mnemonic = "include sample space method width cause connect ski fun catalog weird powder";

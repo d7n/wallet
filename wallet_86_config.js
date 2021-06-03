@@ -1,1 +1,1 @@
-var mnemonic = "aunt clutch float invest actress tail rally bronze offer again jungle crater";
+var mnemonic = "dirt wild mail wool permit dynamic arch spell curious lens brief real";

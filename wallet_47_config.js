@@ -1,1 +1,1 @@
-var mnemonic = "climb trigger hope day chalk stereo dance uncover novel mixed hawk idea";
+var mnemonic = "juice whip olive erosion nurse purpose false sudden glance general charge vote";

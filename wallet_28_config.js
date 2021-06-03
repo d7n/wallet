@@ -1,1 +1,1 @@
-var mnemonic = "hunt pluck topple lab genius make work pepper fatigue sketch pigeon all";
+var mnemonic = "drama early average addict select chalk system deliver lunch pet silk fitness";

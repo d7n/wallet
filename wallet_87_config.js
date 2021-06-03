@@ -1,1 +1,1 @@
-var mnemonic = "salmon patient pig clock mask hello frequent region story bicycle various select";
+var mnemonic = "wagon upper series emotion kite topic sting sail cricket thrive point village";

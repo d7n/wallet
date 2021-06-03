@@ -1,1 +1,1 @@
-var mnemonic = "mother pond razor emotion acid wrestle guess sand drink maple flower unfair";
+var mnemonic = "kangaroo lyrics session fetch excess barrel sunny scorpion race village plug empower";

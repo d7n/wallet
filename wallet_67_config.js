@@ -1,1 +1,1 @@
-var mnemonic = "mixture path wild squeeze sand craft giant letter coach anchor mobile cross";
+var mnemonic = "become wish find awesome one faint people empower fuel hello enforce unhappy";

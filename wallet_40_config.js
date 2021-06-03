@@ -1,1 +1,1 @@
-var mnemonic = "iron trust discover heart protect simple silk diary maple inside sell diary";
+var mnemonic = "word express tip cage since team race denial jealous you faculty always";

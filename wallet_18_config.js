@@ -1,1 +1,1 @@
-var mnemonic = "loop cover phrase mad face because roast whale fix season blue pull";
+var mnemonic = "flock join choice crumble merge make yellow eight physical bar fruit clog";

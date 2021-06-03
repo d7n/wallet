@@ -1,1 +1,1 @@
-var mnemonic = "poem assume box basket swamp above fox mouse green cheap bike sponsor";
+var mnemonic = "gallery nurse arctic lab thunder judge unusual wire leave twin feel camp";

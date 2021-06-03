@@ -1,1 +1,1 @@
-var mnemonic = "denial jar story hungry ticket air asthma large truth erode human once";
+var mnemonic = "surprise square forum price spatial omit scheme bar apart veteran mistake monitor";

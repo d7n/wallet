@@ -1,1 +1,1 @@
-var mnemonic = "senior place public ready winter wave swear coffee joy before bright vibrant";
+var mnemonic = "canvas true culture oval couch course skirt cook hen rain derive beach";

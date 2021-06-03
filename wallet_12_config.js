@@ -1,1 +1,1 @@
-var mnemonic = "quote below couch kiwi soap keen heart artist again flower hill raw";
+var mnemonic = "long love tumble tilt mechanic proof daughter answer dumb orphan minimum isolate";

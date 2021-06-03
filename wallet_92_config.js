@@ -1,1 +1,1 @@
-var mnemonic = "border series supply august citizen adapt cycle vocal north antique account wear";
+var mnemonic = "evolve spirit regular cost dial tennis raven any helmet stereo mind distance";

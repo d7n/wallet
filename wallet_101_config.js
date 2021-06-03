@@ -1,1 +1,1 @@
-var mnemonic = "include chronic tube neutral force fetch hospital grape april proud jar hip";
+var mnemonic = "fit foil arm adapt because dolphin soccer hint blanket paper route ginger";

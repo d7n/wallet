@@ -1,1 +1,1 @@
-var mnemonic = "select elevator catch royal trophy denial train sun sight street expose already";
+var mnemonic = "citizen nothing pave draft staff action actual embody caution absorb border relief";

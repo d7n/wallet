@@ -1,1 +1,1 @@
-var mnemonic = "exact stable lyrics need round loan sentence soup honey sight knee spread";
+var mnemonic = "solution swarm elegant coach valve afraid risk absorb tobacco glimpse original leaf";

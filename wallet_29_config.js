@@ -1,1 +1,1 @@
-var mnemonic = "grain fire uncover put immense raven leopard shiver scatter right pudding cricket";
+var mnemonic = "witness tuition lab guitar skirt bridge donor proof wreck next reduce loyal";

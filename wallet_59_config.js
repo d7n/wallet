@@ -1,1 +1,1 @@
-var mnemonic = "dolphin oil torch rule destroy topic modify pony escape offer glide prefer";
+var mnemonic = "install pelican domain seed unable relief vote chest hello live pass split";

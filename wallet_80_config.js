@@ -1,1 +1,1 @@
-var mnemonic = "over man sting frozen elder mention pear copy impact awkward notable noodle";
+var mnemonic = "engine recycle rack abstract borrow series tribe grass fault quarter prepare fox";

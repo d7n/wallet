@@ -1,1 +1,1 @@
-var mnemonic = "jar language visa muffin invest inquiry soap wise glance damp session chalk";
+var mnemonic = "draw ghost rebuild survey capable autumn twist taxi capital arm donate much";

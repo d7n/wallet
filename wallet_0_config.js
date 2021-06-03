@@ -1,1 +1,1 @@
-var mnemonic = "until vicious wrestle debris surprise autumn various push sweet kick hub own";
+var mnemonic = "boss endorse toy extend trumpet domain hedgehog boost river move guard dawn";

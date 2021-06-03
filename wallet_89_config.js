@@ -1,1 +1,1 @@
-var mnemonic = "age renew female video voice child random helmet frost mandate earth reason";
+var mnemonic = "page arrow this suffer brief lobster misery island age mistake hope clever";

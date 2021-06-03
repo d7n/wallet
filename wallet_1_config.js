@@ -1,1 +1,1 @@
-var mnemonic = "ivory ugly mountain season edit stamp now vacant category ugly chief mom";
+var mnemonic = "bag yard away heart panic horn urban name heavy announce derive pride";

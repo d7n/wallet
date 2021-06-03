@@ -1,1 +1,1 @@
-var mnemonic = "bulb fantasy top staff whale sphere cricket emotion person maze reward dust";
+var mnemonic = "slogan chicken escape deposit region become dumb tone alarm clog chunk burger";

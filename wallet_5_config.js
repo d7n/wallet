@@ -1,1 +1,1 @@
-var mnemonic = "hint evoke impose cabin hub grunt oyster summer soldier situate guitar common";
+var mnemonic = "auto elegant volume differ truly celery wide actress dentist uphold curtain exact";

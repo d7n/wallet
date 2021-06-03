@@ -1,1 +1,1 @@
-var mnemonic = "balance area play oxygen glide force expose dad mobile jewel infant disorder";
+var mnemonic = "treat check split notable gap still genius spin group goose letter mechanic";

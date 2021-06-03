@@ -1,1 +1,1 @@
-var mnemonic = "sock slush burden expire glide romance leave social cherry smile card inmate";
+var mnemonic = "expire what crowd worry gentle pass muffin range test predict impose remain";

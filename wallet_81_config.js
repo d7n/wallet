@@ -1,1 +1,1 @@
-var mnemonic = "hundred session oyster dutch north pear strong answer portion sniff dinosaur skull";
+var mnemonic = "lawsuit option decline travel cake degree exhaust charge fine rose setup spell";

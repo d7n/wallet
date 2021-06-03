@@ -1,1 +1,1 @@
-var mnemonic = "penalty tomato endorse broccoli hollow view clap inmate cause adapt glance artwork";
+var mnemonic = "maximum grocery erase radar seven segment letter liberty fuel mouse winter vendor";

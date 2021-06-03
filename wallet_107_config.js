@@ -1,1 +1,1 @@
-var mnemonic = "giggle gather brand pelican youth since vibrant circle wheat tobacco since series";
+var mnemonic = "rocket laptop dish point aim army leaf engine school hundred comfort whisper";

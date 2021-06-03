@@ -1,1 +1,1 @@
-var mnemonic = "disorder then tragic fame wide scissors page breeze liquid vague disease trial";
+var mnemonic = "uniform common fragile another fuel vibrant potato loan liberty pupil body together";

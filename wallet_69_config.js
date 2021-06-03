@@ -1,1 +1,1 @@
-var mnemonic = "waste stand addict believe album small inmate camp term glide whip buddy";
+var mnemonic = "citizen coast gate clock wine penalty yard hidden drink tribe icon drop";

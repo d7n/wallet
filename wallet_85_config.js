@@ -1,1 +1,1 @@
-var mnemonic = "test buzz cargo zone shoulder series injury join shell opinion consider visa";
+var mnemonic = "calm vote blood suggest oxygen lamp squeeze angle trip hill assist thunder";

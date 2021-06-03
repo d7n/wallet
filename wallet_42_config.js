@@ -1,1 +1,1 @@
-var mnemonic = "index scorpion chalk manage menu fiscal boring input paddle special wasp suggest";
+var mnemonic = "grace crunch pair abstract iron space climb travel visit clay enlist connect";

@@ -1,1 +1,1 @@
-var mnemonic = "reform tackle guilt onion notable large year hockey tunnel taxi powder settle";
+var mnemonic = "relief bachelor rival slab target valley render crucial main split airport unveil";

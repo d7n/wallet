@@ -1,1 +1,1 @@
-var mnemonic = "credit green bitter heavy negative purchase address excite resource client network toast";
+var mnemonic = "area opinion symptom security onion dad exotic seven sleep gadget panda remember";

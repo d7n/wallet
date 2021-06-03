@@ -1,1 +1,1 @@
-var mnemonic = "relax either wrist manual parrot finger initial unhappy piano guard spare stomach";
+var mnemonic = "amount decrease attend super drastic uniform strike sail visit head chunk liquid";

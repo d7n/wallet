@@ -1,1 +1,1 @@
-var mnemonic = "nose viable mosquito thought coral toddler side unit chef best fortune guard";
+var mnemonic = "skull dad obscure shop coast obtain cushion gaze recall census aisle dirt";

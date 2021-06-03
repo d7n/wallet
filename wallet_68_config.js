@@ -1,1 +1,1 @@
-var mnemonic = "scan dwarf clap junior base energy render describe obey zone wrong warm";
+var mnemonic = "table bunker tuna elder hurry bean chest claim area topple decorate champion";

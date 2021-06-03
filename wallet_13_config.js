@@ -1,1 +1,1 @@
-var mnemonic = "wire embark target snack mirror trick venture curtain very stairs embody humble";
+var mnemonic = "grace edit cube quit economy issue exist surface alcohol profit media purchase";

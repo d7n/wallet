@@ -1,1 +1,1 @@
-var mnemonic = "train exile elegant enable salt dinosaur speed unit gossip enjoy ask proud";
+var mnemonic = "estate novel champion submit furnace behind pistol wealth lady coin infant diet";

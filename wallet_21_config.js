@@ -1,1 +1,1 @@
-var mnemonic = "bundle few depend patient cat spike auction misery you fee equal hobby";
+var mnemonic = "rather equal love intact security begin split wrist broccoli license supreme rally";

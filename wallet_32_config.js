@@ -1,1 +1,1 @@
-var mnemonic = "prize genius hair short gun high wood spoil search recipe early flight";
+var mnemonic = "priority ship comfort cricket scare brave humble trade office soul citizen caution";

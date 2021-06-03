@@ -1,1 +1,1 @@
-var mnemonic = "orchard engine inject please quarter athlete regular recipe reward deliver music success";
+var mnemonic = "armed thunder enhance search early fury powder close panel version glory midnight";

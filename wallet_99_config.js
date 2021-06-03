@@ -1,1 +1,1 @@
-var mnemonic = "alter skate vivid abuse web decade better lottery century chief engine park";
+var mnemonic = "view riot body planet clump problem lock great disorder produce receive decrease";
