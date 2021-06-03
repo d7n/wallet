@@ -1,1 +1,1 @@
-var mnemonic = "fossil general age gadget lake awesome excess zoo tent either unaware warfare";
+var mnemonic = "thrive phone worth size mosquito club jacket search ancient stool humble play";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter witness dwarf romance grace dinner token weapon usage indicate grunt tail";
+var mnemonic = "dice hard permit quit vicious voice move hammer enemy bone nuclear forum";

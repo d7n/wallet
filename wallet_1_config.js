@@ -1,1 +1,1 @@
-var mnemonic = "mansion pen verify fog ability derive age object three fancy motion suspect";
+var mnemonic = "govern repeat curtain trigger arm cigar favorite tobacco desk path elegant slender";

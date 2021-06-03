@@ -1,1 +1,1 @@
-var mnemonic = "strike burden spend wild vast patch search analyst come burst fiscal width";
+var mnemonic = "lawsuit bike before cruel father stand cherry roast ribbon gap warrior number";

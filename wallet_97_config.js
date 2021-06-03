@@ -1,1 +1,1 @@
-var mnemonic = "clay inner tomato merry film deliver slush mother family mobile forget improve";
+var mnemonic = "boat amateur minor during forget hunt blind double around machine undo motor";

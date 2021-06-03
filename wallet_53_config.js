@@ -1,1 +1,1 @@
-var mnemonic = "fly churn text leisure width bus silent control office bargain still convince";
+var mnemonic = "noodle planet tuna sun kidney couple oxygen bachelor gas bright universe exotic";

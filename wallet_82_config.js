@@ -1,1 +1,1 @@
-var mnemonic = "follow sauce art bubble glance anxiety goddess mandate trust there robust bless";
+var mnemonic = "phone awful vital actual train faint great recipe security human planet crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "lift vague road pink obvious fantasy front cross junk example object cargo";
+var mnemonic = "blue setup butter force abuse six stumble beach marriage uncover load lecture";

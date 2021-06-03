@@ -1,1 +1,1 @@
-var mnemonic = "bottom bonus stumble excuse soccer lottery sail volcano aspect impulse general monkey";
+var mnemonic = "dose license erase zoo silver trial guard pill beach boy once rice";

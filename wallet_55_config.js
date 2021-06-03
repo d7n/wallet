@@ -1,1 +1,1 @@
-var mnemonic = "tobacco eight place media divorce cactus shrug impulse enable tape tragic erupt";
+var mnemonic = "large flip energy zebra unknown arena bounce knife install shrug hover detect";

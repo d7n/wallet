@@ -1,1 +1,1 @@
-var mnemonic = "cereal bitter utility key genre judge circle cricket swallow behind treat thunder";
+var mnemonic = "bus plastic frame law tomato series monster relax there eye average involve";

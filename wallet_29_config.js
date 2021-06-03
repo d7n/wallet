@@ -1,1 +1,1 @@
-var mnemonic = "weird seek panther height among survey era lock oblige drink today model";
+var mnemonic = "front traffic air cannon patient robot kingdom fluid praise empower summer blush";

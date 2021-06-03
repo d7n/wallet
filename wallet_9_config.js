@@ -1,1 +1,1 @@
-var mnemonic = "eagle spice manual cook slab toast pipe glance ticket match unfold grief";
+var mnemonic = "family diary muscle dumb advice false donate couch rocket pave deputy legend";

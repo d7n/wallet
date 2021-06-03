@@ -1,1 +1,1 @@
-var mnemonic = "opinion swing play issue edit ranch oil kitchen accuse salute funny march";
+var mnemonic = "effort draft relief tenant hurry cloth dove bubble film debate sting cattle";

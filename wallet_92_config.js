@@ -1,1 +1,1 @@
-var mnemonic = "write spread sniff dumb arm build tone tilt camera essence myself base";
+var mnemonic = "leader build crane elite liquid patient orphan shock unveil negative scout radar";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid refuse sphere denial please echo include merry enter enlist ghost mandate";
+var mnemonic = "below jazz mouse skin alter bright arrange fatigue foam swamp favorite badge";

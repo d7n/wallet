@@ -1,1 +1,1 @@
-var mnemonic = "mail exhaust exit normal nuclear genuine drift silent improve garment antenna squeeze";
+var mnemonic = "top venture protect recycle fan month lawsuit boring wise heavy large math";

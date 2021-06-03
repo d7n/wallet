@@ -1,1 +1,1 @@
-var mnemonic = "kidney fence build cannon tiger young coyote undo reject coral bleak weasel";
+var mnemonic = "shrug fun clay embody oil chapter into doll vast soup decade mirror";

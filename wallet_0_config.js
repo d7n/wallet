@@ -1,1 +1,1 @@
-var mnemonic = "catch either shoe gift sorry wall frozen gaze opera fetch fatal funny";
+var mnemonic = "aware oval hamster monster curious garden stick noise spawn crater dose hero";

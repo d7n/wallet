@@ -1,1 +1,1 @@
-var mnemonic = "gorilla group verify review step often produce mansion design cluster match grain";
+var mnemonic = "annual vacuum hub supply despair exhibit soap service alone rely method approve";

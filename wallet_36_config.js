@@ -1,1 +1,1 @@
-var mnemonic = "forest cabbage battle connect expect lumber chief equal portion reunion pave crop";
+var mnemonic = "snap team eager cancel gown slow swing rally voyage differ action among";

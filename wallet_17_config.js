@@ -1,1 +1,1 @@
-var mnemonic = "segment paddle wagon other owner focus trick erase must involve hard blind";
+var mnemonic = "museum ceiling simple sister indoor physical recall equal have hundred minute caution";

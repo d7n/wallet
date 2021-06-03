@@ -1,1 +1,1 @@
-var mnemonic = "thrive short chest bridge forget barely ticket rain useless energy kind movie";
+var mnemonic = "ski rib before script train crazy start truly clog muscle entry north";

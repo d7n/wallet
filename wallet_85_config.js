@@ -1,1 +1,1 @@
-var mnemonic = "boil gloom direct myself another twelve train rich tiger couch valve weather";
+var mnemonic = "betray early agree child lens nose coast siren dry invite profit change";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow banana sorry best impose maid found hub scene zebra crowd coconut";
+var mnemonic = "receive region fit glass pottery dismiss swim symptom sphere cliff erase egg";

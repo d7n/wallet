@@ -1,1 +1,1 @@
-var mnemonic = "above emotion typical total candy patch feature myself alone praise pull token";
+var mnemonic = "top title dog stage second position crime mansion main apple remind medal";

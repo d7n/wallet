@@ -1,1 +1,1 @@
-var mnemonic = "buzz split alien reason unknown another stock blue draw valve knock gold";
+var mnemonic = "cereal fun industry shuffle kiwi toddler trend layer noise broccoli asset drill";

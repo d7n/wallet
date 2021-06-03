@@ -1,1 +1,1 @@
-var mnemonic = "music talk know monkey fatigue steel yellow race when double physical glimpse";
+var mnemonic = "panic sick water hawk garbage midnight grape swarm bronze umbrella valley ritual";

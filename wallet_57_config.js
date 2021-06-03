@@ -1,1 +1,1 @@
-var mnemonic = "survey hair steak misery bronze hero blouse ozone all panda another nurse";
+var mnemonic = "mind wolf base own orphan poet myself potato sock still daughter dose";

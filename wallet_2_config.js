@@ -1,1 +1,1 @@
-var mnemonic = "kidney ivory carpet solution accident fiction spike bubble gossip elite give aim";
+var mnemonic = "reward hello husband engage true mind permit wait fortune discover nice family";

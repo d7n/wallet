@@ -1,1 +1,1 @@
-var mnemonic = "actress neither swim combine key evil conduct repeat desk cream fresh hurry";
+var mnemonic = "few fly venture salt salmon nurse brush what speed record whale army";

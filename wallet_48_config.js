@@ -1,1 +1,1 @@
-var mnemonic = "hammer ship awake almost shoe tuna retreat nation laundry cup brush people";
+var mnemonic = "ripple runway search fruit extend jewel law black bundle fork magic approve";

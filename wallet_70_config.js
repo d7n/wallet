@@ -1,1 +1,1 @@
-var mnemonic = "badge tuna brisk flee dentist canoe vanish blast kid increase drama divert";
+var mnemonic = "peace base primary punch midnight hawk rain bleak oak near pause bullet";

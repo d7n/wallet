@@ -1,1 +1,1 @@
-var mnemonic = "sight laptop sibling napkin shaft current envelope urban horse infant taste naive";
+var mnemonic = "poet essence daughter apart business scene raccoon joke found abstract march ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel arctic rack remember mirror any stable raw north echo unique once";
+var mnemonic = "draft sausage hip once air detect safe slight athlete lobster peace ginger";

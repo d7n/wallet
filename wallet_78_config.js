@@ -1,1 +1,1 @@
-var mnemonic = "walnut mass need nurse hold swim daughter execute rude try update between";
+var mnemonic = "dinosaur certain genius elegant jar chest virus win toss inmate impulse delay";

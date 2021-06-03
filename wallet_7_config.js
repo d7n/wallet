@@ -1,1 +1,1 @@
-var mnemonic = "slab wonder town rich annual syrup alter shrug ship frame cross lunch";
+var mnemonic = "hole episode believe hold chapter kiwi utility diamond human seminar alter celery";

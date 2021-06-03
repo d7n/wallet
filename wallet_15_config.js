@@ -1,1 +1,1 @@
-var mnemonic = "satoshi rib april seven sell tone lock blast twist abandon common fringe";
+var mnemonic = "galaxy coyote orient ghost camp odor flavor above used never lottery holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "speed beach pole economy forum tuition intact upon shy cotton permit manage";
+var mnemonic = "vessel monitor drink arrange illness error already laundry neither crisp equip pipe";

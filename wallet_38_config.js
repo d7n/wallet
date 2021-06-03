@@ -1,1 +1,1 @@
-var mnemonic = "air pizza level width song ready female caught salad mammal slush subject";
+var mnemonic = "stamp case monitor helmet since april bean skin arrest alter diet rain";

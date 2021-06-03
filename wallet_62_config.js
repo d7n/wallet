@@ -1,1 +1,1 @@
-var mnemonic = "riot lady swim nuclear pulp mule cabin mobile owner frequent south calm";
+var mnemonic = "august senior town assist globe liberty relief lion attitude future student angle";

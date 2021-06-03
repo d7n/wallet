@@ -1,1 +1,1 @@
-var mnemonic = "pulp garlic fluid force chest local rabbit door town travel dragon endorse";
+var mnemonic = "glow minute economy tower ride flush notable danger image beef flat source";

@@ -1,1 +1,1 @@
-var mnemonic = "agent left coil fringe render audit lucky entire review modify life stone";
+var mnemonic = "any shine spring october tragic debate vanish alone estate much doll gentle";

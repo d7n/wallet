@@ -1,1 +1,1 @@
-var mnemonic = "glass tonight unknown leaf ostrich chief shoe unveil electric spatial social matrix";
+var mnemonic = "couch sleep harsh doll hope soda chuckle usage heavy panther goose bleak";

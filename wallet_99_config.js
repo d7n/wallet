@@ -1,1 +1,1 @@
-var mnemonic = "wave emerge front always matrix borrow fix horn camera rain ahead family";
+var mnemonic = "leisure polar symptom suspect pact noise glass home lawsuit table valve jungle";

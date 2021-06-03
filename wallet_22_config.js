@@ -1,1 +1,1 @@
-var mnemonic = "asthma protect buzz question huge goat case token simple project clever credit";
+var mnemonic = "vendor pair embody change shrimp shrug plate unaware kidney process depend taste";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve annual ski need lucky health cancel ticket still orbit affair lock";
+var mnemonic = "media height wheat fog law merry cherry step group buffalo repair page";

@@ -1,1 +1,1 @@
-var mnemonic = "company smart host amazing reunion borrow swallow axis lucky ceiling mad next";
+var mnemonic = "six key actor mutual tired select ethics derive special knock kingdom stock";

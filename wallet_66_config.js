@@ -1,1 +1,1 @@
-var mnemonic = "allow truck exist board shove gallery primary flame nuclear unfold junk suggest";
+var mnemonic = "cute wife invest heavy sniff harvest dash ride refuse glad border rhythm";

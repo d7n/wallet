@@ -1,1 +1,1 @@
-var mnemonic = "hidden praise muffin cushion cotton range surge napkin among diamond breeze mandate";
+var mnemonic = "dash subject intact olive guilt truth farm clarify announce area bean allow";

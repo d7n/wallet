@@ -1,1 +1,1 @@
-var mnemonic = "appear wealth poverty again pear utility extra buddy car vault garbage chapter";
+var mnemonic = "medal render trim voice fold echo supreme horse skull clump frog you";

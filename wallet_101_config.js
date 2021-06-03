@@ -1,1 +1,1 @@
-var mnemonic = "morning physical mandate save patrol merry fiction guitar verb club sword nation";
+var mnemonic = "team shock crunch offer bomb nurse merge inmate ghost oak stick promote";

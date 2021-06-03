@@ -1,1 +1,1 @@
-var mnemonic = "fitness sphere myself left cloud south board pioneer face kitten gravity tragic";
+var mnemonic = "cement thumb settle tooth assault harsh coast into toward narrow sign actor";

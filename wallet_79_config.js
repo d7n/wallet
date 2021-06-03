@@ -1,1 +1,1 @@
-var mnemonic = "extend select phone helmet normal tower giraffe clip burst present dirt behind";
+var mnemonic = "helmet click rice supply nurse wrist transfer toilet kit nation feed senior";

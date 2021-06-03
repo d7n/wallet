@@ -1,1 +1,1 @@
-var mnemonic = "boy interest bench field cat stuff frame amount bread open sphere unveil";
+var mnemonic = "claim feed evolve tenant adjust engine poem comic program oil fiber genius";

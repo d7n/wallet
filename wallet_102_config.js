@@ -1,1 +1,1 @@
-var mnemonic = "taxi sugar indicate prosper dinosaur assume tone draft online rain damp sweet";
+var mnemonic = "shine deny basket sweet eight axis enable casual ginger race task game";

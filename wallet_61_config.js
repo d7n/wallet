@@ -1,1 +1,1 @@
-var mnemonic = "tank matter betray hotel pen task ride anxiety depend issue like relax";
+var mnemonic = "disorder sphere cause century spike image write leave volume rule kidney prison";

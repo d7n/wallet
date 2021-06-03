@@ -1,1 +1,1 @@
-var mnemonic = "ancient away science any auction room impose verb despair okay umbrella guilt";
+var mnemonic = "intact power account before gravity barrel cactus what seek heart mountain design";

@@ -1,1 +1,1 @@
-var mnemonic = "cream stool before glue result window estate surface voyage tooth ask satoshi";
+var mnemonic = "teach cinnamon gun moon today saddle glass treat time thunder soup learn";

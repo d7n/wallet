@@ -1,1 +1,1 @@
-var mnemonic = "claw hold claw topic siege gallery speed imitate ecology enlist produce quick";
+var mnemonic = "access garbage brown siren hockey tonight horror normal silver spell gauge minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "fame rude health cave switch forum eagle egg feel toss edit faint";
+var mnemonic = "suffer mail rally city wagon solid remind leopard snap deposit upgrade coconut";

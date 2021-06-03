@@ -1,1 +1,1 @@
-var mnemonic = "story diagram retreat piano sign swim orphan music more tackle cabbage rapid";
+var mnemonic = "scare update green car pact nurse rubber rabbit airport naive toy area";

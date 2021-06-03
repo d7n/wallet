@@ -1,1 +1,1 @@
-var mnemonic = "fan rapid movie maze loan claw vacuum live vicious sure weapon kick";
+var mnemonic = "curve cram busy mimic emotion ensure adult sustain favorite belt travel admit";

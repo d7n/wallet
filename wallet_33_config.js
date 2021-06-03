@@ -1,1 +1,1 @@
-var mnemonic = "ranch cable cabbage because record much rug unknown dirt pencil garbage lift";
+var mnemonic = "essay prison urge dash pelican improve early limit analyst various own any";

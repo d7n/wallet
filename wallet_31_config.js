@@ -1,1 +1,1 @@
-var mnemonic = "rifle tooth daughter taxi thing rare autumn shaft toast pattern aunt early";
+var mnemonic = "scissors define issue brick deny once shop entire lounge copy ring debris";

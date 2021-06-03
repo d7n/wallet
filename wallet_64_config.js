@@ -1,1 +1,1 @@
-var mnemonic = "avoid employ maximum spin try scrub right winter cake world business blush";
+var mnemonic = "million system chicken case special report grief design depth rotate diesel coconut";

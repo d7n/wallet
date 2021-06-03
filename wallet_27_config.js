@@ -1,1 +1,1 @@
-var mnemonic = "dumb feed fall victory trumpet decade shuffle humble antique fat follow bus";
+var mnemonic = "turn file panel remain idle during piano increase situate shrimp try resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "track upper wing oppose public various wage used over segment sponsor walnut";
+var mnemonic = "mouse sign unfold stable lion office lumber verify stem useful conduct arrest";

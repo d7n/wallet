@@ -1,1 +1,1 @@
-var mnemonic = "similar mouse clean slush climb mix oven misery flag similar among lottery";
+var mnemonic = "sport ranch horn smart relax luggage all hair track lounge century combine";

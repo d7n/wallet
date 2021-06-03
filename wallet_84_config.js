@@ -1,1 +1,1 @@
-var mnemonic = "harsh light dish tornado sunny warrior label action route what miracle broom";
+var mnemonic = "unlock ensure smooth chapter open muffin script author warrior tragic cart chapter";

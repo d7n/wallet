@@ -1,1 +1,1 @@
-var mnemonic = "brave popular city faith toss cancel clap pair busy citizen negative music";
+var mnemonic = "phone joke vessel diagram wear hire volume voice boost ankle dove shaft";

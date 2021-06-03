@@ -1,1 +1,1 @@
-var mnemonic = "wait spell liar pumpkin that helmet dice dry quick honey wool rough";
+var mnemonic = "clutch under correct hurt clutch myth sphere decide start refuse wait identify";

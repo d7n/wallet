@@ -1,1 +1,1 @@
-var mnemonic = "ritual one erode elite tornado sphere sphere daring rally satoshi bonus swing";
+var mnemonic = "bracket mercy witness truth license upper smart monster talk photo equal doll";

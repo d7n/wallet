@@ -1,1 +1,1 @@
-var mnemonic = "pear room swarm inspire model enemy oxygen like page axis soccer soul";
+var mnemonic = "gas snake primary rack large normal elevator butter second entire enemy wrestle";

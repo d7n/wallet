@@ -1,1 +1,1 @@
-var mnemonic = "among border ticket snow gadget happy jump mirror blue cheese gain glimpse";
+var mnemonic = "erosion year daughter silk admit report cave have urban debris large stem";

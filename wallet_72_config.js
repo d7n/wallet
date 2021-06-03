@@ -1,1 +1,1 @@
-var mnemonic = "nerve mother cabbage face dynamic nerve sun develop expect own shed slight";
+var mnemonic = "crawl era clutch total disagree dune school park spring protect prevent media";

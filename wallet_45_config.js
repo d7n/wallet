@@ -1,1 +1,1 @@
-var mnemonic = "trust poverty engage asthma flee chaos mesh anchor smart layer omit theory";
+var mnemonic = "february lazy orphan forest laptop zero cigar object rescue danger elbow dial";

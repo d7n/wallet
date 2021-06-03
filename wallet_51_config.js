@@ -1,1 +1,1 @@
-var mnemonic = "crack drastic often shrimp festival fork economy hungry miss isolate fossil piano";
+var mnemonic = "mix spider tumble survey blush volcano citizen exotic today size tiny giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle insect swallow lunar erase vital piano trouble angle skate bicycle consider";
+var mnemonic = "around wheel warm snap burst summer error horror okay document right valley";

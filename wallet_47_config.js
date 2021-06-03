@@ -1,1 +1,1 @@
-var mnemonic = "blue stuff pair enough stomach bicycle orbit dove lobster police era old";
+var mnemonic = "return luxury wine pave net tonight include walnut slab warfare curtain hard";

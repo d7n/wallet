@@ -1,1 +1,1 @@
-var mnemonic = "cake soda bottom key repeat lake boil security donate solution grief ticket";
+var mnemonic = "feature entire page noise insane review okay song alley involve race choice";

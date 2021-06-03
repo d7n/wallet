@@ -1,1 +1,1 @@
-var mnemonic = "addict matrix busy proud wheel put phone stumble benefit injury rotate behind";
+var mnemonic = "border silly toast pool blanket bonus cream antique moment card paper rich";
