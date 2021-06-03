@@ -1,1 +1,1 @@
-var mnemonic = "old circle pill argue beach neglect guilt achieve elevator tree raven wait";
+var mnemonic = "limit grid dinner creek dance panda luxury morning account gadget about chimney";

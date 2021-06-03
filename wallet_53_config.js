@@ -1,1 +1,1 @@
-var mnemonic = "sock inquiry expire smile quiz large slush shrimp elbow marriage alert laundry";
+var mnemonic = "seat panel humble party differ midnight jelly toast claim file tourist thank";

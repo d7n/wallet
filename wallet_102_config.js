@@ -1,1 +1,1 @@
-var mnemonic = "vessel assault damage bulk below credit shrimp cram brisk volcano ceiling shaft";
+var mnemonic = "juice trigger vacant memory around pride approve initial fossil shove girl dog";

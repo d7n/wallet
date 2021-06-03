@@ -1,1 +1,1 @@
-var mnemonic = "unfold exhibit gauge cousin recipe winter volcano weasel fuel one shrug foam";
+var mnemonic = "over leaf vendor resist lamp phone what ghost fiber carry inspire surface";

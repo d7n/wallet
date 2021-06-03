@@ -1,1 +1,1 @@
-var mnemonic = "retire shuffle whip next tone bar trust cook grab define drift cancel";
+var mnemonic = "cliff trip busy bottom logic torch cigar host deer loud hat nephew";

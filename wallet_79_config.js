@@ -1,1 +1,1 @@
-var mnemonic = "wrestle matrix lawsuit wheel cargo zone royal claw noble weapon safe tourist";
+var mnemonic = "coin uniform move practice social knife absent camera purchase gloom unveil what";

@@ -1,1 +1,1 @@
-var mnemonic = "slim forum help stadium cigar voice honey ability lens apple inside margin";
+var mnemonic = "elite lion finger dash trouble amazing bulb delay undo portion allow action";

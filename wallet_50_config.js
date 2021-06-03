@@ -1,1 +1,1 @@
-var mnemonic = "art milk surround rule rally mushroom sure ten forward saddle tattoo ticket";
+var mnemonic = "smoke secret print educate age speed illness evidence season force empower siege";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch tide civil hello drastic kind danger maze journey office rally flight";
+var mnemonic = "cruise energy govern debris toddler use mansion motor deal summer chapter badge";

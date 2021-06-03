@@ -1,1 +1,1 @@
-var mnemonic = "bright rifle trap salmon unaware tiny taste fragile surprise better skate scissors";
+var mnemonic = "kind feel talk buyer powder hour drastic deer impact grow manual kick";

@@ -1,1 +1,1 @@
-var mnemonic = "glance sort enjoy crew tuition mule glory hope vacuum vibrant jewel twenty";
+var mnemonic = "final decline proud idle among local total tired creek eager board web";

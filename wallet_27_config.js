@@ -1,1 +1,1 @@
-var mnemonic = "stem unveil sting thunder ten cave swing jaguar obvious crane tuition chuckle";
+var mnemonic = "kiwi debris modify express gravity visa limit cruel pony margin filter border";

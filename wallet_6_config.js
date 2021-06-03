@@ -1,1 +1,1 @@
-var mnemonic = "yellow bridge spring tribe idea open legal fresh bamboo trumpet oven stone";
+var mnemonic = "negative sentence school shed fish home trade drum lounge radar captain razor";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork ladder capital key power wage dentist whip deny energy proud catch";
+var mnemonic = "hen they toilet theory sunny crane bottom snow that fragile wrist field";

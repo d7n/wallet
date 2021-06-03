@@ -1,1 +1,1 @@
-var mnemonic = "hire error uncle misery sting put flat weekend aisle process chest express";
+var mnemonic = "side belt grace volcano squeeze zero else symptom skin sing never daring";

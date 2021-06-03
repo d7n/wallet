@@ -1,1 +1,1 @@
-var mnemonic = "loop mango walnut scrap myself you ridge despair blue much school powder";
+var mnemonic = "liquid scissors vocal asset process boring virtual decorate shock guilt apple entry";

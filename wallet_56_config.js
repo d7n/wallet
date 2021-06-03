@@ -1,1 +1,1 @@
-var mnemonic = "lumber eight history give oyster naive enact icon tunnel blade ability anxiety";
+var mnemonic = "acoustic carry december oxygen present fog require swap regular prize bunker base";

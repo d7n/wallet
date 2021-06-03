@@ -1,1 +1,1 @@
-var mnemonic = "innocent update wisdom blossom crack subject name maximum renew half happy initial";
+var mnemonic = "promote sponsor black boil tattoo coyote pelican rival cause latin very certain";

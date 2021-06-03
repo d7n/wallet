@@ -1,1 +1,1 @@
-var mnemonic = "twist build grape glare spring amateur banner connect few total camera coffee";
+var mnemonic = "mixed layer emerge ostrich cradle gravity kit steel dilemma design true method";

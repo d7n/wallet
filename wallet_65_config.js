@@ -1,1 +1,1 @@
-var mnemonic = "certain denial wide rebel vote buzz result body clarify husband dial client";
+var mnemonic = "agree because enemy hen lunar orchard mad proud very sort badge chief";

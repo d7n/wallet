@@ -1,1 +1,1 @@
-var mnemonic = "section hint steak cross once mistake property body parade frame novel entry";
+var mnemonic = "era enroll erode bus vapor drill bright nerve come magic stereo jaguar";

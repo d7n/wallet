@@ -1,1 +1,1 @@
-var mnemonic = "jealous scale observe above faculty hidden foam pelican rhythm brief wagon hurt";
+var mnemonic = "party column rebuild adult throw fork strong head bridge soccer weekend ozone";

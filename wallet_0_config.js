@@ -1,1 +1,1 @@
-var mnemonic = "raven wolf bonus vicious actor crucial empty rhythm cost industry soft waste";
+var mnemonic = "become cause income guide accident vivid weird jewel spend tobacco dish leopard";

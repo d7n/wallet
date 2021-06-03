@@ -1,1 +1,1 @@
-var mnemonic = "thunder bunker police health relief inner okay bonus inherit one midnight razor";
+var mnemonic = "swing pole luxury feature object want throw spy inner lonely ostrich there";

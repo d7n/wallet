@@ -1,1 +1,1 @@
-var mnemonic = "tissue omit repeat brave fetch figure deny stuff little forum salute law";
+var mnemonic = "crazy security subway veteran armor swallow dirt peace barely glimpse expand exhibit";

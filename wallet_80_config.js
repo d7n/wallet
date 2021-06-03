@@ -1,1 +1,1 @@
-var mnemonic = "bullet crime noodle olive wing glove prize scheme aunt deputy slogan double";
+var mnemonic = "tuna already must arrest inmate find scrap table chest exotic know amount";

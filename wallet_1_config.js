@@ -1,1 +1,1 @@
-var mnemonic = "photo symbol fit hamster rocket school lemon chapter submit build trouble tattoo";
+var mnemonic = "field carbon fish repair capable people ridge plug angry vague jeans shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "humble word pistol spoil aerobic mom judge replace resist bleak pipe grocery";
+var mnemonic = "spice sweet wire erosion boost outer choice dove flight sibling mushroom evolve";

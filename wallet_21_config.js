@@ -1,1 +1,1 @@
-var mnemonic = "secret electric finger image work angle steak divorce alert doctor capable chalk";
+var mnemonic = "spider nuclear tape section fog live increase upon gadget approve library grocery";

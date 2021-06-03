@@ -1,1 +1,1 @@
-var mnemonic = "theory poverty today kite describe water error midnight enter check win inform";
+var mnemonic = "sustain honey rule autumn bulb fix bird cancel science diet case garage";

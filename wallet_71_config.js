@@ -1,1 +1,1 @@
-var mnemonic = "paddle width uncover teach enhance half double slide capital denial kiss spray";
+var mnemonic = "manual village exist knife grunt system develop forget amount stumble ask unique";

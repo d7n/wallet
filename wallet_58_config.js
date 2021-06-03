@@ -1,1 +1,1 @@
-var mnemonic = "license acquire identify elbow keen dose adjust potato toilet opera left setup";
+var mnemonic = "guitar citizen spell title resemble immune blue group echo razor dutch describe";

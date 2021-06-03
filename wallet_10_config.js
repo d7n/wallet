@@ -1,1 +1,1 @@
-var mnemonic = "cycle aspect believe prepare front print acquire blue heart risk mention voyage";
+var mnemonic = "blossom early zero hip speak auto next nest result flavor course gravity";

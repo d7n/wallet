@@ -1,1 +1,1 @@
-var mnemonic = "need nerve antenna garbage boat toe leader mercy learn elite fall dry";
+var mnemonic = "survey quick best hotel weapon foam drop step shock juice jungle feed";

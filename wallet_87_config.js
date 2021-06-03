@@ -1,1 +1,1 @@
-var mnemonic = "bid maximum dash nation diagram depart impulse live wedding round dilemma broccoli";
+var mnemonic = "release dash harvest sea portion tower rate once still high snow casino";

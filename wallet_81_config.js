@@ -1,1 +1,1 @@
-var mnemonic = "sign observe treat jacket tag captain repair tell pig fossil fantasy orange";
+var mnemonic = "digital brave habit gesture bright isolate erosion discover tuna tiger lemon payment";

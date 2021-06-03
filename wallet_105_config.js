@@ -1,1 +1,1 @@
-var mnemonic = "gesture kitten remember rabbit peace habit domain crumble ill opera forget vicious";
+var mnemonic = "health aerobic crowd jeans wedding guide ecology anger already panda noodle shy";

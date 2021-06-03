@@ -1,1 +1,1 @@
-var mnemonic = "spin assume hip rude thumb people tomorrow gaze crunch enemy viable food";
+var mnemonic = "stay boy admit fiscal unhappy donor merge axis various record image pioneer";

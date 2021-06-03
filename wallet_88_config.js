@@ -1,1 +1,1 @@
-var mnemonic = "laugh win unveil crystal parent boy spin birth book click hotel woman";
+var mnemonic = "together solution trip wine disagree bus grow nuclear buffalo mountain guard just";

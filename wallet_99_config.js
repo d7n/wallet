@@ -1,1 +1,1 @@
-var mnemonic = "goose illness section nurse enforce notice escape cloth original describe render crime";
+var mnemonic = "song grain brick ignore wedding inquiry midnight route allow route violin kind";

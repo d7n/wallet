@@ -1,1 +1,1 @@
-var mnemonic = "enjoy found fuel way input wait scorpion eager doctor baby brown silent";
+var mnemonic = "debris holiday slam gallery snake enable joke dish exchange false second mask";

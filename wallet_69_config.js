@@ -1,1 +1,1 @@
-var mnemonic = "spot liar box casual impulse arrest ketchup apology raise express possible credit";
+var mnemonic = "group town dragon riot stamp slush lion embody fame brick cupboard work";

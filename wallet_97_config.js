@@ -1,1 +1,1 @@
-var mnemonic = "capable baby loud bike shoulder build brass unfold asset knock critic unit";
+var mnemonic = "stone park give disease choose clip inhale uphold drive comic protect pilot";

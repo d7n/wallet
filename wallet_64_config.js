@@ -1,1 +1,1 @@
-var mnemonic = "empower merge gesture yard idea lobster prison divorce shallow magnet proof conduct";
+var mnemonic = "update lamp success knee raw until blanket orbit vapor invest mask swallow";

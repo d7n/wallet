@@ -1,1 +1,1 @@
-var mnemonic = "cup accident bomb picture solar air bleak axis achieve dinner cycle display";
+var mnemonic = "someone endorse adapt account vicious ordinary pull lend surround smooth park riot";

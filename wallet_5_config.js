@@ -1,1 +1,1 @@
-var mnemonic = "room chase ecology leaf onion script frozen burden barrel staff cargo congress";
+var mnemonic = "now magic emerge donate prosper cube another market auto marine ribbon process";

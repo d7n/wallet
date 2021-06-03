@@ -1,1 +1,1 @@
-var mnemonic = "document shrug seek spray parrot enroll quick announce coyote shine hand taxi";
+var mnemonic = "eight lawsuit extend inspire balance hire spot melt roast iron royal picnic";

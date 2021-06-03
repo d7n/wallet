@@ -1,1 +1,1 @@
-var mnemonic = "topple common track mirror organ dish raw ethics catch joy hunt doctor";
+var mnemonic = "city catalog valve ancient arrange cattle bonus sentence pen panel mean unveil";

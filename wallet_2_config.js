@@ -1,1 +1,1 @@
-var mnemonic = "battle magic quarter wealth gravity flock palm alert brush ritual reduce nephew";
+var mnemonic = "random moral decide trust stomach always dinner catch glory test endless subject";

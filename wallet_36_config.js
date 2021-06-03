@@ -1,1 +1,1 @@
-var mnemonic = "soup certain approve burst reunion poet rug need source swamp alcohol recall";
+var mnemonic = "hundred cereal worth ozone camp island vague glare cute junk maid rigid";

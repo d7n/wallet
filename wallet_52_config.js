@@ -1,1 +1,1 @@
-var mnemonic = "wrap cross detail try spider ride when attitude silver fancy carry rhythm";
+var mnemonic = "rubber rival into daughter fantasy faith egg impose awful fly globe glide";

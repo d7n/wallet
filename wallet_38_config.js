@@ -1,1 +1,1 @@
-var mnemonic = "elbow vocal private frame silent trumpet phrase frog sting tomato fire excite";
+var mnemonic = "dolphin visit moral muscle half rail jaguar gaze table bird alarm possible";

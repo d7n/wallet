@@ -1,1 +1,1 @@
-var mnemonic = "uphold share volcano water ten forget razor glad path belt oyster refuse";
+var mnemonic = "error supply never staff marriage version faint slim subject civil misery afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "popular solve iron oval pear select will myself social upper assault vague";
+var mnemonic = "course story foam torch silk start talent trouble trap member region devote";

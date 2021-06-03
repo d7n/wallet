@@ -1,1 +1,1 @@
-var mnemonic = "silver fluid regular mercy grunt gasp great choose piece sketch abuse exact";
+var mnemonic = "soul genius shoe gas bean remember bike artist duty recycle apart age";

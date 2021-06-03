@@ -1,1 +1,1 @@
-var mnemonic = "account common impact anchor future infant select bubble ceiling report express burst";
+var mnemonic = "soap brand pave baby nurse happy turn render drama bar bullet mansion";

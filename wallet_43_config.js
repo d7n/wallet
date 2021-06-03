@@ -1,1 +1,1 @@
-var mnemonic = "now usage amused crunch grow rate rather affair wolf surge extra enhance";
+var mnemonic = "caught tired defy daughter now harsh rabbit measure alter bless state beauty";

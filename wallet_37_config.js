@@ -1,1 +1,1 @@
-var mnemonic = "final donkey convince universe service young reveal badge throw boost cradle addict";
+var mnemonic = "innocent shallow double spice time often doctor embody hobby engage list copy";

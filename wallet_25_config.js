@@ -1,1 +1,1 @@
-var mnemonic = "filter security include ribbon mutual rookie able choice defense extend buddy sample";
+var mnemonic = "civil weekend symbol mention mercy depart discover photo proof steel brass donor";

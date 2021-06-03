@@ -1,1 +1,1 @@
-var mnemonic = "seed tunnel bottom high latin salon okay almost sudden project erase battle";
+var mnemonic = "yellow ostrich whale kind okay shoe laundry axis can foot napkin zoo";

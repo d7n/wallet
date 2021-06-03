@@ -1,1 +1,1 @@
-var mnemonic = "bus usual thank glow mind choice cancel run trust fantasy bicycle wheel";
+var mnemonic = "share fever output buyer survey useless visa vote cinnamon around visit magic";

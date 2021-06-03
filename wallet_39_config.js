@@ -1,1 +1,1 @@
-var mnemonic = "beyond giant okay ship phrase donate wedding useless empty drill elegant sound";
+var mnemonic = "entire marine finish like across pass position chimney regular hollow album nasty";

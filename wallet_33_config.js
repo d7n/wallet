@@ -1,1 +1,1 @@
-var mnemonic = "minimum slow kangaroo update saddle clean inform indicate purity network dust distance";
+var mnemonic = "inquiry assault glare bulk conduct captain open glad twist cave bamboo chunk";

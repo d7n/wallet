@@ -1,1 +1,1 @@
-var mnemonic = "fitness error energy setup easily essence energy bid apart talk mix black";
+var mnemonic = "material expire token heart wave weird mercy board slender payment thank nut";

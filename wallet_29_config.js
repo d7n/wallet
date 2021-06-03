@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bomb uncle cradle switch stem bike upper dismiss draft potato census";
+var mnemonic = "rubber buffalo assume alter make result catalog circle hip crowd nasty tennis";

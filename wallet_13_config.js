@@ -1,1 +1,1 @@
-var mnemonic = "cement catch club arrest walk deny various trophy size hire example capable";
+var mnemonic = "dignity expire novel bridge across warm taste concert edge pigeon champion card";

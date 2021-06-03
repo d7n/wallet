@@ -1,1 +1,1 @@
-var mnemonic = "corn captain inhale canvas empower essay romance another scheme fun swing harsh";
+var mnemonic = "pistol used edge tunnel truck blouse fitness immune confirm few step topple";

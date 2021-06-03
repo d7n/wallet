@@ -1,1 +1,1 @@
-var mnemonic = "mesh inflict maze aspect half broccoli bracket negative lock mention chest material";
+var mnemonic = "bar pet casual spread able picnic perfect very affair fog brief zoo";

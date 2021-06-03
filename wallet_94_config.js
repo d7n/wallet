@@ -1,1 +1,1 @@
-var mnemonic = "bar wild today oppose pulp goat fantasy amazing you rigid spare divide";
+var mnemonic = "clip cost feature ticket shuffle car camera faith item ripple bullet stone";

@@ -1,1 +1,1 @@
-var mnemonic = "issue about cycle tent differ elephant avoid drum duty shop satoshi audit";
+var mnemonic = "witness town welcome crystal mushroom unique shrimp announce grass twin upper material";

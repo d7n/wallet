@@ -1,1 +1,1 @@
-var mnemonic = "number hood master verify admit dust lottery catch world erosion satisfy water";
+var mnemonic = "rigid limb deputy hunt blur scan hip mouse weasel emerge autumn cup";

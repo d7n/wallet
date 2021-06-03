@@ -1,1 +1,1 @@
-var mnemonic = "pull barely else bonus divorce grass help erupt arena champion champion junk";
+var mnemonic = "urge input tattoo fit latin position during wood bacon jazz auto essence";

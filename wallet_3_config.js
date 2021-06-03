@@ -1,1 +1,1 @@
-var mnemonic = "grunt gloom road emotion expect over proof drill jaguar nation lift eyebrow";
+var mnemonic = "shock inform grid feature author napkin prison coach merry mountain juice reunion";

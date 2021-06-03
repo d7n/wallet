@@ -1,1 +1,1 @@
-var mnemonic = "maze mass oblige either army moon credit forget source ceiling pluck column";
+var mnemonic = "afford sound crush unknown wolf runway nerve merit excess embrace smile style";

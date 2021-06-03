@@ -1,1 +1,1 @@
-var mnemonic = "now develop jaguar table sick property insane science minute base live cruise";
+var mnemonic = "arrange affair topple code among venue clutch arrow father stuff planet ankle";

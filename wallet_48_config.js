@@ -1,1 +1,1 @@
-var mnemonic = "gold worry note proof unusual side expand push deposit ask recall defense";
+var mnemonic = "dismiss program use mistake open color ugly repeat drive smile order spend";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold famous eternal impose sad begin author lion motor naive robot keep";
+var mnemonic = "child field cycle vicious flat oval month cactus core buzz brand answer";

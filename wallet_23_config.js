@@ -1,1 +1,1 @@
-var mnemonic = "wealth cash miss scale draft attitude trumpet amused dog series meadow skill";
+var mnemonic = "muscle powder clean eye dog capable century ugly sail adjust game slice";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy light century letter usual promote picture pyramid kiss net approve spy";
+var mnemonic = "dinner fame jealous pulse relief gift enrich shrug tackle wagon symbol awesome";

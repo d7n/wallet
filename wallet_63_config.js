@@ -1,1 +1,1 @@
-var mnemonic = "affair sort answer section foil solid require imitate quit thought sponsor rifle";
+var mnemonic = "art need burden shove dash east clever faint excuse kiwi guitar kangaroo";

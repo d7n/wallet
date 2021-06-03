@@ -1,1 +1,1 @@
-var mnemonic = "client mask curve topple over observe broken bachelor gospel ensure render fall";
+var mnemonic = "ghost drum thought merit trap wrap fuel stadium brick nuclear board boat";

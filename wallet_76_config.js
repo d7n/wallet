@@ -1,1 +1,1 @@
-var mnemonic = "fetch aisle trial know dinosaur weird flame observe large deposit spawn genre";
+var mnemonic = "acquire purse layer feel moral walnut trust suffer gasp elite coil core";

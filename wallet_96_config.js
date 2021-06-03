@@ -1,1 +1,1 @@
-var mnemonic = "common laundry eager eye session wide bus uncover double feel cause fringe";
+var mnemonic = "table pen cat equip old peasant elephant grape direct february unique paddle";

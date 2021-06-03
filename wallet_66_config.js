@@ -1,1 +1,1 @@
-var mnemonic = "shadow book social hill clean flock alone milk want wall frost lazy";
+var mnemonic = "trap pause swarm guess palm diet scene trial water color busy butter";

@@ -1,1 +1,1 @@
-var mnemonic = "zone chunk flight soccer arrive coyote security strategy bamboo angry dignity crouch";
+var mnemonic = "august jeans shove calm suffer betray frown cupboard monster list panic slam";

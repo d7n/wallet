@@ -1,1 +1,1 @@
-var mnemonic = "spider hollow onion tent spawn blast cry annual method wagon news sphere";
+var mnemonic = "pencil local range shy aspect diary arrive couch olympic maze suffer wasp";

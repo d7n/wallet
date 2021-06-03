@@ -1,1 +1,1 @@
-var mnemonic = "romance elder town space amateur tone kangaroo garlic crack require hand type";
+var mnemonic = "enter behave vast segment all resemble perfect until soccer tank remind shallow";

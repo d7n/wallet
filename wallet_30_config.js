@@ -1,1 +1,1 @@
-var mnemonic = "over lion holiday hover beef bundle bomb craft east obtain slow awkward";
+var mnemonic = "shallow tomorrow cause mechanic must timber sphere control decrease limb deposit false";

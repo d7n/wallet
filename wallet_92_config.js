@@ -1,1 +1,1 @@
-var mnemonic = "mass wet tunnel scatter machine warfare snake banner six grow ugly tenant";
+var mnemonic = "purchase aware farm liar client scheme chunk observe okay poet shoot charge";

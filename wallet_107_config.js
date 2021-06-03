@@ -1,1 +1,1 @@
-var mnemonic = "slot live immense chunk sausage dignity dish crazy excess sword nut talk";
+var mnemonic = "program nothing enact session mimic alien round law foam grape danger chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "blush horror cinnamon race increase today truly learn ghost mirror expand betray";
+var mnemonic = "rely salmon post pool enforce buyer valley broken notice author vault silk";
