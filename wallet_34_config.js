@@ -1,1 +1,1 @@
-var mnemonic = "insect rice powder margin present rubber business brother club employ ten manage";
+var mnemonic = "sponsor remind course upon pelican trade load market soldier next filter cancel";

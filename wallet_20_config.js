@@ -1,1 +1,1 @@
-var mnemonic = "win transfer boring brand cash high seminar pottery afraid daughter paper piano";
+var mnemonic = "screen frozen element unhappy romance grief reduce happy female scale leave turkey";

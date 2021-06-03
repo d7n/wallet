@@ -1,1 +1,1 @@
-var mnemonic = "adjust tree couple wheat impact chair supply absent area pledge one crime";
+var mnemonic = "blouse butter drill knock mansion false swallow scare kind surprise above color";

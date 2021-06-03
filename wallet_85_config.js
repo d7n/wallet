@@ -1,1 +1,1 @@
-var mnemonic = "divert silly major deal cruise hint strike fever correct pitch alcohol report";
+var mnemonic = "fuel stone festival broom tackle artist hundred key wash liquid permit casual";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern glass list subway solar hospital rail distance story hand enhance girl";
+var mnemonic = "dynamic tag company melody kite raven relax describe mule salad oval lyrics";

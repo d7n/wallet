@@ -1,1 +1,1 @@
-var mnemonic = "soul erode elephant luxury pigeon kind loyal wage spider horn shine wagon";
+var mnemonic = "employ arrive axis source gravity glue high orbit strike truck weird abuse";

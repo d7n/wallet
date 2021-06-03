@@ -1,1 +1,1 @@
-var mnemonic = "worry jar rocket risk food fence aspect spot six father apple music";
+var mnemonic = "lizard debris seminar purpose hub repeat maximum jelly blood focus harsh click";

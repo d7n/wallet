@@ -1,1 +1,1 @@
-var mnemonic = "base file fix zero roof click glad tumble armor scare soft taste";
+var mnemonic = "solid cigar envelope rapid despair music must radio ramp gauge uniform cover";

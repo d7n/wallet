@@ -1,1 +1,1 @@
-var mnemonic = "axis play size blouse disorder cash double vanish make uniform claw wrong";
+var mnemonic = "float arrest loyal height sunset initial brisk prevent rack cup discover genre";

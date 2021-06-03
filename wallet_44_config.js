@@ -1,1 +1,1 @@
-var mnemonic = "resist short farm away vague foot clinic ancient seed drip rate impact";
+var mnemonic = "husband second matrix glance van prepare hen above urge renew afford slab";

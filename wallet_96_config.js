@@ -1,1 +1,1 @@
-var mnemonic = "invest battle vicious friend crane pause check drink another effort puppy spring";
+var mnemonic = "rabbit chief general elbow surge area bleak vanish maple very siren talent";

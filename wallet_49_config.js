@@ -1,1 +1,1 @@
-var mnemonic = "spatial spare rude clever reduce fiber armor owner dash abstract jazz grain";
+var mnemonic = "multiply youth about conduct roof harsh flag quick between host era heavy";

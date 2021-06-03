@@ -1,1 +1,1 @@
-var mnemonic = "sudden member walnut upgrade satoshi bread abstract glare fly obvious wall elephant";
+var mnemonic = "orphan burst screen fragile absurd clump document funny parent antique siege danger";

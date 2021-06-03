@@ -1,1 +1,1 @@
-var mnemonic = "owner between reflect gown hurt nothing swarm gym can foot glare gentle";
+var mnemonic = "bachelor welcome short powder pilot casino arch tube maid jump boy drill";

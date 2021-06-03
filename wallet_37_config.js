@@ -1,1 +1,1 @@
-var mnemonic = "install ugly hand venue depart random concert say edit panda vibrant car";
+var mnemonic = "client harvest yard walk river quality moral above salt fire raw that";

@@ -1,1 +1,1 @@
-var mnemonic = "simple weird return cheese nominee ghost hurt focus dish toward concert edit";
+var mnemonic = "offer arm exercise best crane tomato season crumble slim captain pudding goose";

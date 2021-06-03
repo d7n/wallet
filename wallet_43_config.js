@@ -1,1 +1,1 @@
-var mnemonic = "electric nose damage twist hurdle notable debate exclude nose transfer mandate ask";
+var mnemonic = "glance example scissors alarm predict relief junk camera child zone this cruel";

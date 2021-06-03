@@ -1,1 +1,1 @@
-var mnemonic = "price benefit rescue define cargo twenty stamp vessel exotic vintage maze welcome";
+var mnemonic = "farm post vacuum claim brand destroy animal talent stable receive direct aspect";

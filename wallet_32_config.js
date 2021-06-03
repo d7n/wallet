@@ -1,1 +1,1 @@
-var mnemonic = "scissors blade danger reunion balance always giggle master tower frozen similar acid";
+var mnemonic = "notable foot banner park crumble fragile improve cause crumble mango say offer";

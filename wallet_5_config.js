@@ -1,1 +1,1 @@
-var mnemonic = "math pipe key earth baby catalog worry minor walnut hold stone brain";
+var mnemonic = "surround timber flag melody source hospital about oil electric describe long embrace";

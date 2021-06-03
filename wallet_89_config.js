@@ -1,1 +1,1 @@
-var mnemonic = "input merit argue spell share pear equip holiday motor rug squeeze obscure";
+var mnemonic = "bamboo normal bid merit traffic minimum autumn lab right palm sweet output";

@@ -1,1 +1,1 @@
-var mnemonic = "select conduct grow belt fun feature six march range erupt road twelve";
+var mnemonic = "attract symbol hello limb destroy marble torch slam puppy lumber wrestle dream";

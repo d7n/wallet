@@ -1,1 +1,1 @@
-var mnemonic = "uniform dial camera help slogan action auction exhibit width super tiger slogan";
+var mnemonic = "club belt hover recipe charge tribe mind thunder such cupboard priority toss";

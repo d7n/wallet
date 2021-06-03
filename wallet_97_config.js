@@ -1,1 +1,1 @@
-var mnemonic = "empower draw circle sail success claim shiver hawk hero dragon wage example";
+var mnemonic = "person relax movie disorder scheme about track proud elder uncle solid hobby";

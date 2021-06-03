@@ -1,1 +1,1 @@
-var mnemonic = "miracle rescue sail truly harbor walnut prefer kite river weird acquire slender";
+var mnemonic = "result symbol enemy airport key recall acid window cliff custom wise room";

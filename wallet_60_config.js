@@ -1,1 +1,1 @@
-var mnemonic = "nose submit voyage panther sock thrive figure snack address assist wood inner";
+var mnemonic = "used attract tell light robust cook enter ozone drink source salute old";

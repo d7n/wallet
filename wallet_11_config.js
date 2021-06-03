@@ -1,1 +1,1 @@
-var mnemonic = "ancient waste liberty few hole wagon claw copper broken major tower dash";
+var mnemonic = "vivid trophy nuclear swear hazard cup hidden rough capable harsh away monkey";

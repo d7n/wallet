@@ -1,1 +1,1 @@
-var mnemonic = "fiscal crew obey robust struggle describe tank choice true slab rhythm jewel";
+var mnemonic = "gospel evolve match lift pink drip oyster abandon resemble void debris sound";

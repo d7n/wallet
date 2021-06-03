@@ -1,1 +1,1 @@
-var mnemonic = "vocal wrist pretty episode spring expose lottery document happy two box decline";
+var mnemonic = "upgrade filter refuse fury average furnace portion easy west cycle bunker cement";

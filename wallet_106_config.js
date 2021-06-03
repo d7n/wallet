@@ -1,1 +1,1 @@
-var mnemonic = "river plug legend luggage shine witness correct blame police used ramp east";
+var mnemonic = "above make mom two point teach effort vessel deny agent scare palace";

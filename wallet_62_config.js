@@ -1,1 +1,1 @@
-var mnemonic = "derive destroy member rescue cry resemble mutual violin lab endorse skirt vendor";
+var mnemonic = "stay nation gas cluster boost suffer flag mercy ugly left camp breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "soup hundred napkin adult topple dream kitten wash dash attract aisle naive";
+var mnemonic = "stock stick street extra reject fiber bicycle enroll top priority cruel foster";

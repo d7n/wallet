@@ -1,1 +1,1 @@
-var mnemonic = "reduce fold mirror kiwi horse tattoo real tackle ginger cabin tackle praise";
+var mnemonic = "deal cabbage patch moon brown rent diesel sun detect shop verb logic";

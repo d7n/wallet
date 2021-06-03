@@ -1,1 +1,1 @@
-var mnemonic = "drop like garlic day mail brush twelve oppose crawl parade swallow same";
+var mnemonic = "auction cool mention dynamic arm loud wrist develop truth place menu armed";

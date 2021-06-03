@@ -1,1 +1,1 @@
-var mnemonic = "kiwi metal lecture humor prefer robot foster indoor recipe equip donate resemble";
+var mnemonic = "pet guess ginger south wagon pole reward frequent comic announce industry sample";

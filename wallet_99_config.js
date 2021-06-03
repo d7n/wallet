@@ -1,1 +1,1 @@
-var mnemonic = "hundred stage gravity clean engine crunch surge clinic forget large neglect kick";
+var mnemonic = "recycle river home duty cup connect citizen expose illness fossil draw urban";

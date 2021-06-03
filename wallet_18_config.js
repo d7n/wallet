@@ -1,1 +1,1 @@
-var mnemonic = "around pave wood industry cabbage green hello multiply angry trap island ecology";
+var mnemonic = "bone bonus case peanut all permit hold tower ticket flush dose critic";

@@ -1,1 +1,1 @@
-var mnemonic = "misery smart attack rebel rhythm obey author domain fever deal icon salmon";
+var mnemonic = "essay dizzy peace crane sugar remind roast electric nest cradle van country";

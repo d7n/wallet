@@ -1,1 +1,1 @@
-var mnemonic = "life double note enter field security pizza hotel baby reward elephant finger";
+var mnemonic = "frog little swear unable toy demand fly eyebrow fiction hold aerobic pattern";

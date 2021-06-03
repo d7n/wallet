@@ -1,1 +1,1 @@
-var mnemonic = "access aware top tissue until tray episode embark order wrap denial extend";
+var mnemonic = "fitness saddle gasp meat arrow awesome burger recall faint abstract other tired";

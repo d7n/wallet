@@ -1,1 +1,1 @@
-var mnemonic = "view impose around debris decrease antenna glass glance ritual visual trade worth";
+var mnemonic = "phone tag later gate media manual lecture link spread curtain execute pipe";

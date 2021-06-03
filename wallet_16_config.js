@@ -1,1 +1,1 @@
-var mnemonic = "juice tone budget antique assist casino slogan photo water tuition evil nose";
+var mnemonic = "just width void clump note time scale cancel axis deliver usage harsh";

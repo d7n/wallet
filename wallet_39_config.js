@@ -1,1 +1,1 @@
-var mnemonic = "agree letter diary lake observe relief cherry hard rival immense ostrich leopard";
+var mnemonic = "kick obscure outside diet nation urge wave copy donkey wrist slogan butter";

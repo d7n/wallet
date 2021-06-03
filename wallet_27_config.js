@@ -1,1 +1,1 @@
-var mnemonic = "color actual onion chair unit champion invite record slender tennis since path";
+var mnemonic = "gorilla mercy ladder insect puppy inject carry chunk horror music goat equal";

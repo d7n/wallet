@@ -1,1 +1,1 @@
-var mnemonic = "priority height aerobic van neither banana popular hero among strike number potato";
+var mnemonic = "swarm warm pole manual visit powder quit okay grape update kind wait";

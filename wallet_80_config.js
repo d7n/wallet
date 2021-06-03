@@ -1,1 +1,1 @@
-var mnemonic = "april echo dune attract drop manual review fan blade critic weird desert";
+var mnemonic = "lion agree broom blind talent grape suspect among vessel dizzy draft order";

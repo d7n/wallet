@@ -1,1 +1,1 @@
-var mnemonic = "clip puzzle disagree ball tide clever street stool empty hat butter claim";
+var mnemonic = "grit ordinary auto audit hurt comfort adjust side crime city spread alcohol";

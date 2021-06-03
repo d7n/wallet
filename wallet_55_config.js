@@ -1,1 +1,1 @@
-var mnemonic = "unveil siege paddle fabric tribe fee profit waste bounce large certain plate";
+var mnemonic = "large immense ribbon buffalo bird clever hair praise engage blue cricket young";

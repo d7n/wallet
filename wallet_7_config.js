@@ -1,1 +1,1 @@
-var mnemonic = "equip vast suffer artefact cactus wrist style rapid truly army brief anger";
+var mnemonic = "mutual wish useful buddy blush boost distance climb source kite usage teach";

@@ -1,1 +1,1 @@
-var mnemonic = "tell slush reopen prison wait laundry prepare crumble brother spoon retire expose";
+var mnemonic = "window spend plate swing monkey corn pioneer price velvet amazing disease situate";

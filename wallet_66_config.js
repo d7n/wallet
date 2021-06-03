@@ -1,1 +1,1 @@
-var mnemonic = "curve friend donate bomb walk coin chapter brand depth pulse mystery apple";
+var mnemonic = "skull secret early focus valid stay coast balcony tornado glory mechanic company";

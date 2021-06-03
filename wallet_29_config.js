@@ -1,1 +1,1 @@
-var mnemonic = "tip once venture impact crop brass defy deer timber duck false love";
+var mnemonic = "kit speed canoe tenant shiver uncover silver forget labor skin impact good";

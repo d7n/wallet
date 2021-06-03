@@ -1,1 +1,1 @@
-var mnemonic = "account fluid become flee dog onion add pulse fruit witness picture palace";
+var mnemonic = "buddy hammer camp jump hammer snow cannon nasty swift mixed antenna second";

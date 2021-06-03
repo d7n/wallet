@@ -1,1 +1,1 @@
-var mnemonic = "praise pilot radar decide effort group license wheat brand page secret ill";
+var mnemonic = "nut upon economy segment melody cement during initial subway anxiety plastic venture";

@@ -1,1 +1,1 @@
-var mnemonic = "brown lizard decline beauty west tuition cream need scorpion vibrant snap immune";
+var mnemonic = "air celery clay proud race satoshi company scan author clog awake soup";

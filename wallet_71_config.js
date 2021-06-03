@@ -1,1 +1,1 @@
-var mnemonic = "photo bus gauge swallow venture grab predict industry horn minute around illness";
+var mnemonic = "rival use seminar noise dignity galaxy awake quality medal puzzle jaguar only";

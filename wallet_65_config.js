@@ -1,1 +1,1 @@
-var mnemonic = "human brave mechanic brick cargo damp volume where enemy universe among divide";
+var mnemonic = "pig deny east rule thank gossip divide oyster decade response hollow fresh";

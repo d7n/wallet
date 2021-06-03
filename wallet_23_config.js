@@ -1,1 +1,1 @@
-var mnemonic = "scatter swing dash coffee pelican walnut urban title attack furnace tip course";
+var mnemonic = "canal depend mosquito stable mixed angry under swamp jaguar prevent hub good";

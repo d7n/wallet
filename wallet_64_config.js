@@ -1,1 +1,1 @@
-var mnemonic = "response mango disagree marine sort bid obvious run split make there actual";
+var mnemonic = "uncle net tired debate fiction borrow noodle hammer scan embody armor inspire";

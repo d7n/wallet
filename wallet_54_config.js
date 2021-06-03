@@ -1,1 +1,1 @@
-var mnemonic = "pistol infant disease slender width identify solution cram culture faculty follow define";
+var mnemonic = "panther segment much snake moral space under bone wealth cover weasel job";

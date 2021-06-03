@@ -1,1 +1,1 @@
-var mnemonic = "enter across acquire pizza girl jewel push noble language surface first stadium";
+var mnemonic = "pause hood sun toss enter media genuine senior leaf beach pass small";

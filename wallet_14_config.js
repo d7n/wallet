@@ -1,1 +1,1 @@
-var mnemonic = "oil present undo popular wide world hedgehog major sail plastic name mix";
+var mnemonic = "borrow robot december sibling purpose wine diet similar gown meadow retreat loyal";

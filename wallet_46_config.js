@@ -1,1 +1,1 @@
-var mnemonic = "resource broccoli trap maze army help ball endless gun output trash train";
+var mnemonic = "prize visit vicious this grit unfair snow crater warrior potato common stuff";

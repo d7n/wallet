@@ -1,1 +1,1 @@
-var mnemonic = "merge apart inhale raise comfort despair cube wisdom action fade dwarf prefer";
+var mnemonic = "frown grocery muffin play recycle badge nephew face follow alter couple broccoli";

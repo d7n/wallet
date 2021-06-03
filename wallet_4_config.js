@@ -1,1 +1,1 @@
-var mnemonic = "sock place useful until silver sight vault party marine style embody fiction";
+var mnemonic = "swap drink board rifle size shine wall unit twin cross few spice";

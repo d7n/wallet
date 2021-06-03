@@ -1,1 +1,1 @@
-var mnemonic = "actual onion unit junior elephant tenant skate usage much web bid teach";
+var mnemonic = "veteran toward increase define assist romance mixture safe two trick turtle toddler";

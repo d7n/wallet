@@ -1,1 +1,1 @@
-var mnemonic = "tail method outer main donate access snap version year rib lady best";
+var mnemonic = "civil shiver prize inside deal labor veteran gesture size fantasy zone north";

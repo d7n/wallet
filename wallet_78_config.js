@@ -1,1 +1,1 @@
-var mnemonic = "reveal quit thing capable museum swallow advance olympic vote ability law crew";
+var mnemonic = "angle steel matter cake raven similar scatter spray ginger core engage popular";

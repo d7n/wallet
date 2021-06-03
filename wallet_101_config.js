@@ -1,1 +1,1 @@
-var mnemonic = "estate giraffe receive exotic blossom certain toy betray tooth express ocean sleep";
+var mnemonic = "clown follow mad cupboard ocean staff increase dove alert raven summer master";

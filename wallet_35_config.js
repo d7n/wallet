@@ -1,1 +1,1 @@
-var mnemonic = "dirt east consider control obscure couple club window goose baby sure doctor";
+var mnemonic = "occur cram stereo thrive tip blue term tip onion notable subject horn";

@@ -1,1 +1,1 @@
-var mnemonic = "inject industry voyage problem galaxy moment menu ranch flame call ridge toilet";
+var mnemonic = "elevator width garden net save february forget journey snap alone during audit";

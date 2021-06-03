@@ -1,1 +1,1 @@
-var mnemonic = "oak wolf economy art degree dinosaur feed enforce wink lazy tattoo tenant";
+var mnemonic = "salad badge zebra appear behave little worry pill enlist vague odor height";

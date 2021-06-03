@@ -1,1 +1,1 @@
-var mnemonic = "jelly ancient smoke chronic bounce victory divorce stadium goose fence wife response";
+var mnemonic = "narrow screen wire risk wolf frown shaft royal lift entry tobacco exercise";

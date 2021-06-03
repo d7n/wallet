@@ -1,1 +1,1 @@
-var mnemonic = "assault then rent office erode into inflict twin fiction hero afraid method";
+var mnemonic = "exact pudding air antenna noise luxury mercy club hip area town arch";

@@ -1,1 +1,1 @@
-var mnemonic = "bread inquiry quarter umbrella flush come decide sorry diamond render music swift";
+var mnemonic = "arena close frown machine nation glue another later rubber liquid purchase expose";

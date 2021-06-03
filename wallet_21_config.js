@@ -1,1 +1,1 @@
-var mnemonic = "enroll crack catch excite follow topic mother never major oil boring bargain";
+var mnemonic = "nice shadow butter file extend bicycle gown dish rough step female blood";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact pride coconut hour chest few six roast drill around else sea";
+var mnemonic = "acid faith priority grief speed please attract february find pave rebuild insect";

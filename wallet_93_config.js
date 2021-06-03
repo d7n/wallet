@@ -1,1 +1,1 @@
-var mnemonic = "hat morning twice supreme draft retreat echo mule diagram rhythm afraid reunion";
+var mnemonic = "tonight science distance three link excess rather ketchup album funny present guitar";

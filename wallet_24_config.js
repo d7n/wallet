@@ -1,1 +1,1 @@
-var mnemonic = "drink stomach battle lyrics predict loyal angle uncover firm swim extend reveal";
+var mnemonic = "globe little broken cover curve salad fashion reduce carbon you twice loop";

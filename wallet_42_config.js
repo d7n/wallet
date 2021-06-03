@@ -1,1 +1,1 @@
-var mnemonic = "dragon actor describe observe tattoo box flavor that verb hard dutch midnight";
+var mnemonic = "identify reunion mammal essay legend attitude miss whale angry someone female stem";

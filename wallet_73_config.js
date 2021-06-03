@@ -1,1 +1,1 @@
-var mnemonic = "swim vendor craft doll police drink basic liquid picnic flame link dice";
+var mnemonic = "waste cruise require gentle know derive patrol answer special immense match oak";

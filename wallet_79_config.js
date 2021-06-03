@@ -1,1 +1,1 @@
-var mnemonic = "shift creek observe cloth plunge bicycle turkey giggle chalk reduce medal lucky";
+var mnemonic = "want man cute sad parrot stick humble armor shuffle tent echo receive";

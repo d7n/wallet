@@ -1,1 +1,1 @@
-var mnemonic = "nation vicious town fade elite phrase ensure fetch conduct damp unaware hood";
+var mnemonic = "duck junior effort camp skin evolve patient leg saddle already float draft";

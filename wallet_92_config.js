@@ -1,1 +1,1 @@
-var mnemonic = "border renew door debris all cook attitude solid stomach surge accident hat";
+var mnemonic = "motion unfold rib web stock split month label wheel layer sure case";

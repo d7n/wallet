@@ -1,1 +1,1 @@
-var mnemonic = "marriage worth jeans kind survey whale junior marine pigeon predict coconut owner";
+var mnemonic = "essence teach raven column cabin daring north during soldier enforce strategy ladder";

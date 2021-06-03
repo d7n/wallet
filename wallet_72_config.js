@@ -1,1 +1,1 @@
-var mnemonic = "black east able position shadow awkward suggest movie cruise insect assault lawn";
+var mnemonic = "uniform acquire tragic essay gravity craft wear whale shock comfort crater aunt";

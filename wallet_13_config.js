@@ -1,1 +1,1 @@
-var mnemonic = "never raccoon couch odor lake possible acid energy garden supreme chapter sibling";
+var mnemonic = "topple jealous cool mean cheap dwarf moral clip sunset notice gorilla glare";

@@ -1,1 +1,1 @@
-var mnemonic = "ready dentist bomb spoon parrot lazy crisp car random truly state country";
+var mnemonic = "begin hold unique scrub skill hazard crowd tennis uncle garment saddle snow";

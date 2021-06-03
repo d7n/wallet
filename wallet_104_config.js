@@ -1,1 +1,1 @@
-var mnemonic = "cancel change bean popular pudding ship only shove proof boost want world";
+var mnemonic = "offer dad poem promote danger wide model torch basket fortune guitar derive";

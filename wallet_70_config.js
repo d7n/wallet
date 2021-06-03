@@ -1,1 +1,1 @@
-var mnemonic = "village scale pull cargo trap topple panel fee brisk narrow purpose broom";
+var mnemonic = "love expect ranch blossom divert garlic recipe trial agent legend august rally";
