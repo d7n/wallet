@@ -1,1 +1,1 @@
-var mnemonic = "arch frost into uncle crumble nuclear ability harvest business wolf buyer vast";
+var mnemonic = "swear kiss artefact omit female snake legal giant hair devote believe obtain";

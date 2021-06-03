@@ -1,1 +1,1 @@
-var mnemonic = "omit oil cotton soft crowd slush life agree time spike axis gadget";
+var mnemonic = "gesture slim force junk green afford chimney syrup shaft asthma twelve elevator";

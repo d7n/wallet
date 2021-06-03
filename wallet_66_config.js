@@ -1,1 +1,1 @@
-var mnemonic = "need under taste helmet junk dog ladder gloom real favorite grain capable";
+var mnemonic = "image beach table fever tree hen little climb call garden shop blur";

@@ -1,1 +1,1 @@
-var mnemonic = "student write fashion eagle phrase badge young common key drill gloom powder";
+var mnemonic = "million bachelor slogan rifle observe trash favorite mango point skin future weekend";

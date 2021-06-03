@@ -1,1 +1,1 @@
-var mnemonic = "wrong pen quantum vote candy virus flip pilot rare unfold mixture belt";
+var mnemonic = "invest fade square blame innocent mention term indicate isolate grow return behind";

@@ -1,1 +1,1 @@
-var mnemonic = "man pilot anxiety verb foil high lens eight sock friend glory sudden";
+var mnemonic = "vendor mountain faith country gaze more fit answer quit orphan smile such";

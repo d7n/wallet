@@ -1,1 +1,1 @@
-var mnemonic = "across sound time wing report reject lizard equip cliff electric afford another";
+var mnemonic = "reunion broccoli priority stick rally month mass pottery laugh social step clay";

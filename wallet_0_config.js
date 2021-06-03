@@ -1,1 +1,1 @@
-var mnemonic = "little remain win hour today snake wall often rain cable ill sing";
+var mnemonic = "hold bonus draw salute news never what item device minor tray also";

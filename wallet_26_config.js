@@ -1,1 +1,1 @@
-var mnemonic = "work blossom spike giant already foster spoon gloom else nuclear foot argue";
+var mnemonic = "ocean absorb able aim blood bracket pause salute suit pattern vault replace";

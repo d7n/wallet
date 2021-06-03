@@ -1,1 +1,1 @@
-var mnemonic = "front axis put wonder garden already virus denial double person onion bitter";
+var mnemonic = "joy purse cupboard brush enroll gesture tenant zone average buzz rent enter";

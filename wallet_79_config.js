@@ -1,1 +1,1 @@
-var mnemonic = "envelope equal hold soul labor lemon trumpet spirit bless gain festival autumn";
+var mnemonic = "aerobic home exile final video grain female forum choose split boost art";

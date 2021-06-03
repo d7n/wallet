@@ -1,1 +1,1 @@
-var mnemonic = "fan smoke road coffee cinnamon amateur true monkey raise sheriff tape gas";
+var mnemonic = "avoid three soldier solution discover canyon green asset twenty web depart thank";

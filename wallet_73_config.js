@@ -1,1 +1,1 @@
-var mnemonic = "raccoon garden daring indicate door account manual film bid inch answer pigeon";
+var mnemonic = "leader isolate trash wood ankle autumn feature detail three vacuum gauge fringe";

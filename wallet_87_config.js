@@ -1,1 +1,1 @@
-var mnemonic = "hero civil offer unusual deny frog genuine soda forest cricket ivory salmon";
+var mnemonic = "result snow switch snack predict hello flock alter balance fly switch motion";

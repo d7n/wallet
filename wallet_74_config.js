@@ -1,1 +1,1 @@
-var mnemonic = "claw actress time maximum accuse zebra abuse cross guitar stand favorite jungle";
+var mnemonic = "naive company myth two license desert life awake normal tell depart lunar";

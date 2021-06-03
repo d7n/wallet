@@ -1,1 +1,1 @@
-var mnemonic = "dog patient situate glimpse easy maple sign dice cage velvet turtle witness";
+var mnemonic = "steel draft hill champion play erupt wagon across enable north canoe razor";

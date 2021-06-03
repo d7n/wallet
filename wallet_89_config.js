@@ -1,1 +1,1 @@
-var mnemonic = "cliff document drink carpet smoke shuffle slush angry cattle tiger lens alert";
+var mnemonic = "ranch announce glad dumb sting release slot now atom tobacco cliff garden";

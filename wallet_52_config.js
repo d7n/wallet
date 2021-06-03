@@ -1,1 +1,1 @@
-var mnemonic = "share tail hollow wagon material chronic deer judge wire key gloom happy";
+var mnemonic = "invest later mixed mammal fox pipe issue crop high suggest mule finger";

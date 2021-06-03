@@ -1,1 +1,1 @@
-var mnemonic = "era begin day fog fit donor home text news pet agree dish";
+var mnemonic = "fabric panda smooth pull south age kitten bridge mind tobacco submit kitchen";

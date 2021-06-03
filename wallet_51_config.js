@@ -1,1 +1,1 @@
-var mnemonic = "advance lumber tool report unveil run topple sick liberty crash brother badge";
+var mnemonic = "truth must hill cherry age solid oil alert leisure monkey table orange";

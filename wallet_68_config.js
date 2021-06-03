@@ -1,1 +1,1 @@
-var mnemonic = "asthma pear finish tobacco few cloud hole arrange cement leg hundred scatter";
+var mnemonic = "leg snow grant spawn body funny coast staff office plunge stove admit";

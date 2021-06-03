@@ -1,1 +1,1 @@
-var mnemonic = "random direct decorate penalty amateur scrub aerobic abstract type junk move baby";
+var mnemonic = "mammal device topic wonder soccer isolate engine lens question quit sock mystery";

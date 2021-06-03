@@ -1,1 +1,1 @@
-var mnemonic = "visa fuel vocal mutual ostrich account domain chunk scrub edit flight belt";
+var mnemonic = "approve ketchup wrist edit dirt turn castle ozone midnight holiday pioneer melt";

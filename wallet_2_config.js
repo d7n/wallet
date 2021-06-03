@@ -1,1 +1,1 @@
-var mnemonic = "man march notice tongue venture melody quality draw surge gun kiwi gun";
+var mnemonic = "exotic know body sausage auto quantum proof olive rose problem liberty stamp";

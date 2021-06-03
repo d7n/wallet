@@ -1,1 +1,1 @@
-var mnemonic = "range tape lonely certain twin veteran know cargo toward isolate stumble coconut";
+var mnemonic = "february broken coin run awake foot piece move detail avoid social dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "tag battle drift before size pelican cigar sphere spider nation tumble swear";
+var mnemonic = "dry legal please tiny float fence black raw excess feature nice citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "skull grant involve error cement census matter scare pulse topple federal verify";
+var mnemonic = "split claim step tone used spy west earn kiss hub giraffe distance";

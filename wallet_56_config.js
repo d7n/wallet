@@ -1,1 +1,1 @@
-var mnemonic = "twenty regular dish great sugar tunnel raven field quote car people cement";
+var mnemonic = "detail small wife oxygen auction boring iron omit horror patch rain submit";

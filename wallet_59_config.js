@@ -1,1 +1,1 @@
-var mnemonic = "unveil regret range pink owner moral town half month update pudding wave";
+var mnemonic = "sock bring space wall spike dolphin object latin wheel bright elegant beyond";

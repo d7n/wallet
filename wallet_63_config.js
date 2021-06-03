@@ -1,1 +1,1 @@
-var mnemonic = "provide dial art shiver visa gossip waste secret group globe stairs such";
+var mnemonic = "drama inquiry base photo assume pigeon tuition junior tell leave lecture prize";

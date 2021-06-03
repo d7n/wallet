@@ -1,1 +1,1 @@
-var mnemonic = "anxiety siren jazz copy pitch melt camp tube script waste diet ask";
+var mnemonic = "awkward coyote gallery virtual desert hockey theory share enact flavor armed match";

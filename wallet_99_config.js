@@ -1,1 +1,1 @@
-var mnemonic = "harsh lesson walnut tourist public jealous chalk turkey lend home soldier spice";
+var mnemonic = "input arm sport orange loan enter trap business next husband boss boat";

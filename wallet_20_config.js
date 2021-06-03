@@ -1,1 +1,1 @@
-var mnemonic = "lyrics shallow lesson effort nature pause law dynamic ketchup impose object olive";
+var mnemonic = "frequent olympic truth traffic company unfair zebra pear ramp pig renew kind";

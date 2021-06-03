@@ -1,1 +1,1 @@
-var mnemonic = "panic credit slot rubber comic depend film then skill stairs security minute";
+var mnemonic = "crowd unfair demand issue cost duck install reopen crew hotel destroy match";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster genius bunker december figure act avocado sell chef flight bone wisdom";
+var mnemonic = "riot negative firm glory novel green hope year intact winter antique guilt";

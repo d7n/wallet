@@ -1,1 +1,1 @@
-var mnemonic = "quick apple cake shop connect foot open dose lend about face urban";
+var mnemonic = "isolate expect mobile original plate employ thing hawk document radio awful spoon";

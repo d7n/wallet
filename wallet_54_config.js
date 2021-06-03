@@ -1,1 +1,1 @@
-var mnemonic = "derive inhale family shoulder radar zero combine square quiz jungle kiwi tackle";
+var mnemonic = "garage course aisle vital pitch radio spoil jaguar salad purpose neutral cabin";

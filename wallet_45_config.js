@@ -1,1 +1,1 @@
-var mnemonic = "traffic crunch ranch flavor answer depth divert blood window alcohol satoshi symbol";
+var mnemonic = "law degree review umbrella few gas average bone agree aim report filter";

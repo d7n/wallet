@@ -1,1 +1,1 @@
-var mnemonic = "today work crazy stay captain powder carpet resource lobster put park scale";
+var mnemonic = "rhythm office error rice pencil various wash leg begin dress zone sign";

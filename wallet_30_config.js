@@ -1,1 +1,1 @@
-var mnemonic = "slab arena ride term cruise taxi inspire stem village visual tomato memory";
+var mnemonic = "glad service excite bus push elite route glow connect brick any piano";

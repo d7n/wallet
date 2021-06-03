@@ -1,1 +1,1 @@
-var mnemonic = "document cup strong crash peasant pigeon measure mountain rookie ship burden train";
+var mnemonic = "august upper prize radio pattern maze equip rice answer diesel other pledge";

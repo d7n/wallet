@@ -1,1 +1,1 @@
-var mnemonic = "patch aisle link scrub uncle direct feature wear tower gold impact sweet";
+var mnemonic = "write excuse angry sunset knee cactus brick shy milk danger rigid bless";

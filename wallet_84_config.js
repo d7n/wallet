@@ -1,1 +1,1 @@
-var mnemonic = "put egg thumb wide boost scare alcohol extend bring bless sentence valve";
+var mnemonic = "slender flat list shop option canyon return capable space book knock hello";

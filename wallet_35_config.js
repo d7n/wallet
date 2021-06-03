@@ -1,1 +1,1 @@
-var mnemonic = "winner forward keen quiz spray setup seven happy bridge hero destroy half";
+var mnemonic = "ride loyal adjust paper luggage hour behave favorite cram alcohol aspect fork";

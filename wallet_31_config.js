@@ -1,1 +1,1 @@
-var mnemonic = "maple clay ugly famous pitch cotton seek chef narrow tonight demise blind";
+var mnemonic = "empty shoulder goddess setup soon credit note tilt speed extend tooth palm";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor there sword gallery ivory thank useless nose father spread object pulp";
+var mnemonic = "shallow term melody obtain happy reform enough notice rich bridge once draw";

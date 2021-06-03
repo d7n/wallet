@@ -1,1 +1,1 @@
-var mnemonic = "ski force fruit tonight world deputy tilt end plug voyage impose brick";
+var mnemonic = "patient link side green trip laundry will obey habit garden cool sense";

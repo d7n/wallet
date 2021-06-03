@@ -1,1 +1,1 @@
-var mnemonic = "real mountain cereal stay live typical dutch diet faculty grocery odor empower";
+var mnemonic = "pistol stomach stereo toward delay energy shuffle castle else decide shoulder thumb";

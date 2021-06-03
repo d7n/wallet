@@ -1,1 +1,1 @@
-var mnemonic = "moment word shove dumb myth proof rack dizzy agree end noodle second";
+var mnemonic = "sugar example prevent human unaware float depth bus jazz spider rebuild allow";

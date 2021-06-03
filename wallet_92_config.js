@@ -1,1 +1,1 @@
-var mnemonic = "claw online fresh book patrol waste work vendor stick injury path slight";
+var mnemonic = "expand fold quick swamp discover hazard leisure film depth execute cram roast";

@@ -1,1 +1,1 @@
-var mnemonic = "shell north vapor plastic mind end wood grit paddle setup cannon process";
+var mnemonic = "track fury bomb autumn ensure glide salon enact filter public much warm";

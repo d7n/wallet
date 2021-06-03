@@ -1,1 +1,1 @@
-var mnemonic = "exhaust flower select shock rule earn village medal dress judge tonight island";
+var mnemonic = "car panther coral angle motor time cook margin riot term rice ostrich";

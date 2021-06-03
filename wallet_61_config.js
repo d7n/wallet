@@ -1,1 +1,1 @@
-var mnemonic = "melody best disagree dad forget mobile remind spoil result crowd genuine garden";
+var mnemonic = "early lady ancient consider arm quality metal jar worth destroy people weekend";

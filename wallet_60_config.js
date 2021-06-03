@@ -1,1 +1,1 @@
-var mnemonic = "blast future attend exit climb wheel street runway attract rocket else weird";
+var mnemonic = "install ramp gadget knock scan relief exhibit acquire sweet young output nuclear";

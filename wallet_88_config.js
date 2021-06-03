@@ -1,1 +1,1 @@
-var mnemonic = "weird insect kite aware grab summer pistol skill camp auto feel mobile";
+var mnemonic = "demise parrot guitar season clog abuse polar pony around parade twenty horror";

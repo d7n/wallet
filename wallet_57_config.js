@@ -1,1 +1,1 @@
-var mnemonic = "angry entire celery flee nice primary basket valve giant salmon burden lava";
+var mnemonic = "giant crime wrestle truly curious load empower sibling wood charge sense swarm";

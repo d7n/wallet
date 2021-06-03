@@ -1,1 +1,1 @@
-var mnemonic = "purpose solar age found omit render method neck liar mammal bid orchard";
+var mnemonic = "hero remember bus peasant hope fatigue choice plug clean afford inner devote";

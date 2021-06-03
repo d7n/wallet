@@ -1,1 +1,1 @@
-var mnemonic = "best foam budget promote north thumb snack absurd seminar desert cousin cage";
+var mnemonic = "purchase spring stem decrease priority panel current never floor sheriff catch ghost";

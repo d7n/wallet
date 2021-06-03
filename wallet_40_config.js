@@ -1,1 +1,1 @@
-var mnemonic = "need front element shoot visit enjoy coin crater sentence tonight album charge";
+var mnemonic = "oxygen harbor whisper local lift calm birth claw strategy lunar calm library";

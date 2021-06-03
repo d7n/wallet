@@ -1,1 +1,1 @@
-var mnemonic = "domain memory accuse adapt slow park quantum brush board carpet metal slide";
+var mnemonic = "impact cool because cinnamon beef kitten grit amused forest scan slender leader";

@@ -1,1 +1,1 @@
-var mnemonic = "bus omit embrace wet neck dinner stone celery raccoon mesh parade sign";
+var mnemonic = "cross middle keen cover relax nice maid cost base security satisfy wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "tail scorpion school violin change foam flush property cross drastic audit embody";
+var mnemonic = "permit salon pilot reform desk negative melody link jealous top ceiling reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "steak ring snack harsh pumpkin avoid rice portion slush art window fox";
+var mnemonic = "left pave seed awesome pupil draft ugly giraffe cause horse sing melody";

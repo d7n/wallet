@@ -1,1 +1,1 @@
-var mnemonic = "seek sure snap town cheap assault neglect random shield speak fabric genuine";
+var mnemonic = "pass brother tenant ocean disorder finish tennis price true dog portion call";

@@ -1,1 +1,1 @@
-var mnemonic = "front junk tell fruit empower crowd soccer trick mango impulse tide dial";
+var mnemonic = "ensure tide equip team tenant coin insect liquid illegal glance sheriff parent";

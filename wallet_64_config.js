@@ -1,1 +1,1 @@
-var mnemonic = "egg fault feel cross topple float path trophy busy under young ethics";
+var mnemonic = "lens dumb domain obvious injury dutch promote library hint fruit clerk echo";

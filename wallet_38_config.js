@@ -1,1 +1,1 @@
-var mnemonic = "verify call return rally enlist exhibit camp federal kitten alien young yellow";
+var mnemonic = "potato fat crucial wrong cage festival wonder blind father quick heart inform";

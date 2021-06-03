@@ -1,1 +1,1 @@
-var mnemonic = "divert tool bulk digital model dress grid junior load cross mass master";
+var mnemonic = "route state recycle truck upper caught huge force vocal bracket primary current";

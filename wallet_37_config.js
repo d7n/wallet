@@ -1,1 +1,1 @@
-var mnemonic = "situate kingdom weird purpose sponsor brown bleak mule trend frequent gasp primary";
+var mnemonic = "dog oppose sustain social frog universe cause tunnel drift coin ribbon admit";

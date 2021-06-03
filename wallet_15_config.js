@@ -1,1 +1,1 @@
-var mnemonic = "february gap green drop fortune credit payment neck negative garment place country";
+var mnemonic = "network devote route assume rack syrup tape journey carry derive market chaos";

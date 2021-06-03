@@ -1,1 +1,1 @@
-var mnemonic = "twice daughter evoke better slide beef spawn disorder lunch ice trend text";
+var mnemonic = "ordinary seven carbon wine vault degree muscle exchange glimpse elbow energy exile";

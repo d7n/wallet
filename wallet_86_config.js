@@ -1,1 +1,1 @@
-var mnemonic = "song zone gospel moon guide minimum earn proud marine ticket estate opera";
+var mnemonic = "minor theme mom pipe bacon nominee purity whale enable maze sentence quick";

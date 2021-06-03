@@ -1,1 +1,1 @@
-var mnemonic = "unhappy uniform lizard tuition spider vicious flower dinosaur humor position snake live";
+var mnemonic = "grass scorpion photo surface sand royal anxiety river merit gate key raccoon";

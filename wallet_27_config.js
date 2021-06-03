@@ -1,1 +1,1 @@
-var mnemonic = "you crush index daughter close abuse fringe ritual velvet analyst correct swear";
+var mnemonic = "room corn action catch breeze sugar because repair target often train forget";

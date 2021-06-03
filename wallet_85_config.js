@@ -1,1 +1,1 @@
-var mnemonic = "expire skin spoil aisle gain dash arrive nuclear raw all space urban";
+var mnemonic = "more gallery card baby gallery tomorrow final mutual quick network owner today";

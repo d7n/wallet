@@ -1,1 +1,1 @@
-var mnemonic = "doctor fame pattern together order club turn notable sample friend sister rate";
+var mnemonic = "mistake seed kind upgrade secret very brain tissue flower story cram hire";

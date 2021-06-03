@@ -1,1 +1,1 @@
-var mnemonic = "artwork venture pelican peanut chase bench man fiscal predict muscle wheat hill";
+var mnemonic = "meadow april wheel suit media million master sausage emerge exercise desk couch";

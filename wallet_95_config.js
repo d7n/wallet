@@ -1,1 +1,1 @@
-var mnemonic = "square typical initial labor steak exchange donkey achieve tourist code update visa";
+var mnemonic = "unknown connect rough mixture finish clay tonight sketch globe divert salon utility";

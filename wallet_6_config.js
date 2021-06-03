@@ -1,1 +1,1 @@
-var mnemonic = "magnet arrange series treat explain require huge flame witness fire car item";
+var mnemonic = "price million boat essay labor rude paddle dismiss shrimp deputy loud apart";

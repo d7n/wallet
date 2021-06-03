@@ -1,1 +1,1 @@
-var mnemonic = "parent stuff define focus gown evoke couch draft nature once table around";
+var mnemonic = "drift lunch vanish program shock predict trigger circle brain scissors gesture journey";

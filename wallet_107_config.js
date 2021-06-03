@@ -1,1 +1,1 @@
-var mnemonic = "thumb island wreck theme guard world execute thunder arrest crew forum brave";
+var mnemonic = "treat cable renew rain uniform skull decline october jazz output tree obey";

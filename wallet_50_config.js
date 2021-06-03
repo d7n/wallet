@@ -1,1 +1,1 @@
-var mnemonic = "arena pudding good clutch shy defense subject medal unfair hard lava upper";
+var mnemonic = "burden artefact useless hand rare isolate penalty aware correct piece unaware found";

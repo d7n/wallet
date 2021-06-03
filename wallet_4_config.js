@@ -1,1 +1,1 @@
-var mnemonic = "sketch curve engage actress try hope farm fall genre wage love merge";
+var mnemonic = "attend exact obvious desert brisk invest tunnel essence glue glue panic little";

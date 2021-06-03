@@ -1,1 +1,1 @@
-var mnemonic = "casual cross jewel mistake gate security suffer invite regret family ankle chronic";
+var mnemonic = "logic total canvas assault maze state luggage glove private auto reform shoe";

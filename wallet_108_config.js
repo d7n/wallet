@@ -1,1 +1,1 @@
-var mnemonic = "lecture invite provide wing uphold sponsor rural tuition rural salmon gravity summer";
+var mnemonic = "six marble buffalo height click sleep visa hollow vehicle embrace light crash";

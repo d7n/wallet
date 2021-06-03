@@ -1,1 +1,1 @@
-var mnemonic = "alcohol estate angle tattoo short merry sheriff fetch panic cover syrup message";
+var mnemonic = "key sail involve weasel gap color rebel regret almost diary tuition symbol";

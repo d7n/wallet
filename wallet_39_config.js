@@ -1,1 +1,1 @@
-var mnemonic = "click prize intact struggle trumpet churn duty core olympic crawl pitch issue";
+var mnemonic = "glimpse domain trim scheme movie cloth seminar board spoon test scout cause";

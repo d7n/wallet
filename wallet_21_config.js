@@ -1,1 +1,1 @@
-var mnemonic = "material grain party unique key pioneer wish police group mass spoon source";
+var mnemonic = "small horror tobacco dolphin ecology slow acid april awake buffalo web another";
