@@ -1,1 +1,1 @@
-var mnemonic = "jeans rug maple goose turn symbol old cinnamon stove steel express huge";
+var mnemonic = "boy interest bench field cat stuff frame amount bread open sphere unveil";

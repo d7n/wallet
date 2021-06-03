@@ -1,1 +1,1 @@
-var mnemonic = "charge ripple gentle leopard tail globe runway fun much combine thought analyst";
+var mnemonic = "survey hair steak misery bronze hero blouse ozone all panda another nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "donate worry holiday laugh plate sing sign library pistol stage miss fresh";
+var mnemonic = "addict matrix busy proud wheel put phone stumble benefit injury rotate behind";

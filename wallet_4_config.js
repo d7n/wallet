@@ -1,1 +1,1 @@
-var mnemonic = "comfort decorate penalty limb reunion glory patch mean style oil grain tent";
+var mnemonic = "speed beach pole economy forum tuition intact upon shy cotton permit manage";

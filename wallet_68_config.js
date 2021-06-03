@@ -1,1 +1,1 @@
-var mnemonic = "obscure fiscal tape ten guide winter guess situate anchor travel illness toddler";
+var mnemonic = "aim useless scissors cousin fossil ordinary author logic flee alter extra rib";

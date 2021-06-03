@@ -1,1 +1,1 @@
-var mnemonic = "skirt taste blanket together that excite winter poem stay similar pizza dance";
+var mnemonic = "fossil general age gadget lake awesome excess zoo tent either unaware warfare";

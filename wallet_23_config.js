@@ -1,1 +1,1 @@
-var mnemonic = "orange priority surround present enough valve cancel sort ancient recipe desk major";
+var mnemonic = "track upper wing oppose public various wage used over segment sponsor walnut";

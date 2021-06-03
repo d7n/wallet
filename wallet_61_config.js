@@ -1,1 +1,1 @@
-var mnemonic = "ensure sand keep firm office chest bulk ranch meat limit wasp submit";
+var mnemonic = "tank matter betray hotel pen task ride anxiety depend issue like relax";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker pattern stuff cliff sand nasty random tooth satoshi grass sample assault";
+var mnemonic = "history vital object beach globe slot quiz frown sad only enough thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "rack diary prepare define wall salmon kite milk photo hint sock tower";
+var mnemonic = "pear room swarm inspire model enemy oxygen like page axis soccer soul";

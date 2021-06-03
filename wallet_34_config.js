@@ -1,1 +1,1 @@
-var mnemonic = "learn other tissue keep point grocery shed still hair throw harsh hello";
+var mnemonic = "run kite portion clap frown asthma good wash betray during nation tonight";

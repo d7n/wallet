@@ -1,1 +1,1 @@
-var mnemonic = "voyage nature tone human parade embark you pond doctor any seminar vacant";
+var mnemonic = "blue stuff pair enough stomach bicycle orbit dove lobster police era old";

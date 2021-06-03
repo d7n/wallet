@@ -1,1 +1,1 @@
-var mnemonic = "spy sponsor tooth faith blur truck improve entire destroy wild tongue tongue";
+var mnemonic = "measure jealous busy quote nothing latin toss dentist journey inhale gas word";

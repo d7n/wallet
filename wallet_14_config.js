@@ -1,1 +1,1 @@
-var mnemonic = "tank sign move wild dinner solve survey document awake plunge cube table";
+var mnemonic = "coral ten text window just dish health affair love valid garden shy";

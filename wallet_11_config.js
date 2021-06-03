@@ -1,1 +1,1 @@
-var mnemonic = "hunt keep response labor flag special better output slender visual era identify";
+var mnemonic = "salt poem file detect force memory gas rigid degree foster shock exist";

@@ -1,1 +1,1 @@
-var mnemonic = "vast reason shiver erode speed picnic language lamp crucial toe infant flip";
+var mnemonic = "guilt thrive weasel clip agent predict globe agent sentence pig small avoid";

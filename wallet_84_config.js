@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow expand assault gasp game fix dad small ski lucky camp debate";
+var mnemonic = "harsh light dish tornado sunny warrior label action route what miracle broom";

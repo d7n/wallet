@@ -1,1 +1,1 @@
-var mnemonic = "occur exotic vibrant hundred kiwi pen sunset method key rose convince permit";
+var mnemonic = "claw hold claw topic siege gallery speed imitate ecology enlist produce quick";

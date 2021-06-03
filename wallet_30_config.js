@@ -1,1 +1,1 @@
-var mnemonic = "mistake witness horn exhaust add immense afford two charge life surprise hazard";
+var mnemonic = "clever prevent october hollow garbage author keen raise view leisure sunset faculty";

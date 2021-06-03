@@ -1,1 +1,1 @@
-var mnemonic = "mixed acoustic magnet grow agree journey roast seek security screen access exact";
+var mnemonic = "dumb feed fall victory trumpet decade shuffle humble antique fat follow bus";

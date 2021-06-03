@@ -1,1 +1,1 @@
-var mnemonic = "drum need bitter head between paper alarm maze aunt measure arrive cat";
+var mnemonic = "clay inner tomato merry film deliver slush mother family mobile forget improve";

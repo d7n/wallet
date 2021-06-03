@@ -1,1 +1,1 @@
-var mnemonic = "execute search bullet friend aisle live flock loan uphold pupil inflict cannon";
+var mnemonic = "boil gloom direct myself another twelve train rich tiger couch valve weather";

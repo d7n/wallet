@@ -1,1 +1,1 @@
-var mnemonic = "exit evolve pitch labor taxi velvet gap exhibit wage meadow earn capital";
+var mnemonic = "ancient away science any auction room impose verb despair okay umbrella guilt";

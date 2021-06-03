@@ -1,1 +1,1 @@
-var mnemonic = "until bind sign milk project bunker draft endless submit nurse march shove";
+var mnemonic = "slab wonder town rich annual syrup alter shrug ship frame cross lunch";

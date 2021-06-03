@@ -1,1 +1,1 @@
-var mnemonic = "claw stage grocery screen cross snack nest end power cover supply across";
+var mnemonic = "appear wealth poverty again pear utility extra buddy car vault garbage chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "outside staff discover begin frost ancient friend good breeze inherit bind unable";
+var mnemonic = "extend select phone helmet normal tower giraffe clip burst present dirt behind";

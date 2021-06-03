@@ -1,1 +1,1 @@
-var mnemonic = "photo bargain report orange phrase fee misery alarm october bird permit credit";
+var mnemonic = "wave emerge front always matrix borrow fix horn camera rain ahead family";

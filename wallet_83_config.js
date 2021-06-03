@@ -1,1 +1,1 @@
-var mnemonic = "october poet hidden pill coyote cabbage amateur text direct easily banana oblige";
+var mnemonic = "opinion swing play issue edit ranch oil kitchen accuse salute funny march";

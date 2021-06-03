@@ -1,1 +1,1 @@
-var mnemonic = "core measure clump stand arch palace ring globe program genre figure away";
+var mnemonic = "kidney ivory carpet solution accident fiction spike bubble gossip elite give aim";

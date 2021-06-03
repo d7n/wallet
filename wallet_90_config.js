@@ -1,1 +1,1 @@
-var mnemonic = "inhale panic cannon celery blood today possible destroy garment embrace keep stable";
+var mnemonic = "bottom bonus stumble excuse soccer lottery sail volcano aspect impulse general monkey";

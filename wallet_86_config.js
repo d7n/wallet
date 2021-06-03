@@ -1,1 +1,1 @@
-var mnemonic = "squeeze match concert cactus flock merge train antenna build exchange convince summer";
+var mnemonic = "company smart host amazing reunion borrow swallow axis lucky ceiling mad next";

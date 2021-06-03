@@ -1,1 +1,1 @@
-var mnemonic = "dawn vacuum bronze invest disease frost hope thumb simple horror arrow hand";
+var mnemonic = "rigid refuse sphere denial please echo include merry enter enlist ghost mandate";

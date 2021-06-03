@@ -1,1 +1,1 @@
-var mnemonic = "below cream scissors filter zone patrol drill garbage sound fortune come they";
+var mnemonic = "green exhibit problem visual slide virus actor smoke suggest clarify panther quit";

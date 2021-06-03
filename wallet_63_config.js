@@ -1,1 +1,1 @@
-var mnemonic = "undo win boil wave notice riot rain tenant paddle announce supply table";
+var mnemonic = "gorilla group verify review step often produce mansion design cluster match grain";

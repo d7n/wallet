@@ -1,1 +1,1 @@
-var mnemonic = "soldier prison taste twin invest account upset cook check under school pull";
+var mnemonic = "walnut mass need nurse hold swim daughter execute rude try update between";

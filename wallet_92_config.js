@@ -1,1 +1,1 @@
-var mnemonic = "iron disorder answer dirt topple gravity aim submit abandon omit fiscal broom";
+var mnemonic = "write spread sniff dumb arm build tone tilt camera essence myself base";

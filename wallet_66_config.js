@@ -1,1 +1,1 @@
-var mnemonic = "sniff hard stick marble gold alter bundle medal lucky climb adjust jewel";
+var mnemonic = "allow truck exist board shove gallery primary flame nuclear unfold junk suggest";

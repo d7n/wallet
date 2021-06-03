@@ -1,1 +1,1 @@
-var mnemonic = "physical wheat escape actor napkin hour grocery puppy apple rally include base";
+var mnemonic = "follow sauce art bubble glance anxiety goddess mandate trust there robust bless";

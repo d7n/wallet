@@ -1,1 +1,1 @@
-var mnemonic = "rough slide crash deliver jump cry year assist convince adapt style name";
+var mnemonic = "morning physical mandate save patrol merry fiction guitar verb club sword nation";

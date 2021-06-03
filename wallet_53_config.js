@@ -1,1 +1,1 @@
-var mnemonic = "nation diamond work enlist cause sudden ensure inmate source almost shield reunion";
+var mnemonic = "fly churn text leisure width bus silent control office bargain still convince";

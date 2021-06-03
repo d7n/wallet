@@ -1,1 +1,1 @@
-var mnemonic = "match fruit easy glue elder prosper genre wealth blur damp smoke include";
+var mnemonic = "ritual one erode elite tornado sphere sphere daring rally satoshi bonus swing";

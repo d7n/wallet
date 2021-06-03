@@ -1,1 +1,1 @@
-var mnemonic = "alcohol canal bounce warfare loan mosquito federal lunch shaft pottery lawn floor";
+var mnemonic = "hidden praise muffin cushion cotton range surge napkin among diamond breeze mandate";

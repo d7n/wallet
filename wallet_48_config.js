@@ -1,1 +1,1 @@
-var mnemonic = "learn depart main december piano yard spoon sing utility bounce royal nurse";
+var mnemonic = "hammer ship awake almost shoe tuna retreat nation laundry cup brush people";

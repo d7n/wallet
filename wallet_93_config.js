@@ -1,1 +1,1 @@
-var mnemonic = "apart mom cave derive fish apple waste rival absurd team laundry quick";
+var mnemonic = "similar mouse clean slush climb mix oven misery flag similar among lottery";

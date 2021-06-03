@@ -1,1 +1,1 @@
-var mnemonic = "receive ride dry cloth keep kid ask squeeze husband tennis fork snap";
+var mnemonic = "actress neither swim combine key evil conduct repeat desk cream fresh hurry";

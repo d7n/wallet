@@ -1,1 +1,1 @@
-var mnemonic = "pulp artist bracket bracket lady bicycle portion medal merge weather excite actor";
+var mnemonic = "rifle tooth daughter taxi thing rare autumn shaft toast pattern aunt early";

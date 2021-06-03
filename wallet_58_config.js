@@ -1,1 +1,1 @@
-var mnemonic = "case seed light ketchup retreat return flip enlist short alpha problem unveil";
+var mnemonic = "cake soda bottom key repeat lake boil security donate solution grief ticket";

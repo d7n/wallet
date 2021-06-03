@@ -1,1 +1,1 @@
-var mnemonic = "dust strong wild mouse coral pull evil athlete sea gasp surround know";
+var mnemonic = "among border ticket snow gadget happy jump mirror blue cheese gain glimpse";

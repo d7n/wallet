@@ -1,1 +1,1 @@
-var mnemonic = "sure cover submit ring sock print pupil devote hospital estate diet syrup";
+var mnemonic = "story diagram retreat piano sign swim orphan music more tackle cabbage rapid";

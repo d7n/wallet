@@ -1,1 +1,1 @@
-var mnemonic = "proud language negative hospital pride journey sign despair credit narrow voyage parade";
+var mnemonic = "jewel arctic rack remember mirror any stable raw north echo unique once";

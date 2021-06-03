@@ -1,1 +1,1 @@
-var mnemonic = "shed bachelor ordinary twelve clay lounge addict cotton mosquito tube foster joy";
+var mnemonic = "join screen theme fruit animal churn rapid monitor merge deposit inform uphold";

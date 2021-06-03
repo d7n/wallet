@@ -1,1 +1,1 @@
-var mnemonic = "guitar polar mean drift crunch evidence pledge school miss immune grain carpet";
+var mnemonic = "tobacco eight place media divorce cactus shrug impulse enable tape tragic erupt";

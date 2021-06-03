@@ -1,1 +1,1 @@
-var mnemonic = "add brief long gasp green lobster apart sentence canoe rifle base choice";
+var mnemonic = "ranch cable cabbage because record much rug unknown dirt pencil garbage lift";

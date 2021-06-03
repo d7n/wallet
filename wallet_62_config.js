@@ -1,1 +1,1 @@
-var mnemonic = "outdoor extend speak elevator lizard shuffle orbit walk tiny loan coil fiber";
+var mnemonic = "riot lady swim nuclear pulp mule cabin mobile owner frequent south calm";

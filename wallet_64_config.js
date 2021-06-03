@@ -1,1 +1,1 @@
-var mnemonic = "act add legend pool steel include eagle nominee february neck salon audit";
+var mnemonic = "avoid employ maximum spin try scrub right winter cake world business blush";

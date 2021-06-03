@@ -1,1 +1,1 @@
-var mnemonic = "absent always arrive brother twelve tomato spawn behind infant wife claw grocery";
+var mnemonic = "trust poverty engage asthma flee chaos mesh anchor smart layer omit theory";

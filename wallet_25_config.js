@@ -1,1 +1,1 @@
-var mnemonic = "raw other boil frown valve taste cactus cry state hockey knife enroll";
+var mnemonic = "rifle insect swallow lunar erase vital piano trouble angle skate bicycle consider";

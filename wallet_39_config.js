@@ -1,1 +1,1 @@
-var mnemonic = "wisdom reform valve split code damage bean timber use annual daughter labor";
+var mnemonic = "repeat card repair limb middle various drum village net tuition diary october";

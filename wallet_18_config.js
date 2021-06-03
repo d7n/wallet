@@ -1,1 +1,1 @@
-var mnemonic = "domain cause update resource rabbit title cheap rude fork smile disagree skin";
+var mnemonic = "chapter witness dwarf romance grace dinner token weapon usage indicate grunt tail";

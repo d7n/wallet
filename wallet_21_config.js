@@ -1,1 +1,1 @@
-var mnemonic = "shoulder walnut gesture attitude play flash misery biology fluid seek sentence van";
+var mnemonic = "deposit duck humor enjoy drop grid giggle moon depend sing blossom smile";

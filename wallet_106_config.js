@@ -1,1 +1,1 @@
-var mnemonic = "unable unveil caution solve fan best cabbage tube furnace urge animal before";
+var mnemonic = "thrive short chest bridge forget barely ticket rain useless energy kind movie";

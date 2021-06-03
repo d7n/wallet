@@ -1,1 +1,1 @@
-var mnemonic = "slight immune lazy fit sponsor race yellow wash mix genius cheap style";
+var mnemonic = "horror claw steel august merit cabin cradle pizza color model decide oil";

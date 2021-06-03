@@ -1,1 +1,1 @@
-var mnemonic = "health problem village print gentle under muscle rookie gesture scatter tomato super";
+var mnemonic = "cool beauty payment easily very avocado census cycle scrub apart submit section";

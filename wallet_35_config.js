@@ -1,1 +1,1 @@
-var mnemonic = "lucky grid then stuff bone ask unfair sauce fold warm produce distance";
+var mnemonic = "sight laptop sibling napkin shaft current envelope urban horse infant taste naive";

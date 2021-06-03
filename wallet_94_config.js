@@ -1,1 +1,1 @@
-var mnemonic = "major kiss quantum near dress couple eyebrow wire rough resource erode pony";
+var mnemonic = "brave popular city faith toss cancel clap pair busy citizen negative music";

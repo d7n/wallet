@@ -1,1 +1,1 @@
-var mnemonic = "night mass defense calm core cash gossip open dumb cradle author wave";
+var mnemonic = "air pizza level width song ready female caught salad mammal slush subject";

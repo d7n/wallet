@@ -1,1 +1,1 @@
-var mnemonic = "treat chalk genius word flower sail life voyage cinnamon huge badge vendor";
+var mnemonic = "pulp garlic fluid force chest local rabbit door town travel dragon endorse";

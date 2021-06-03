@@ -1,1 +1,1 @@
-var mnemonic = "submit perfect life apology pelican hover radio forum perfect hawk gown hybrid";
+var mnemonic = "unknown south grit bounce train float holiday artist flush void brief grow";

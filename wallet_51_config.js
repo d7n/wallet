@@ -1,1 +1,1 @@
-var mnemonic = "zebra fold belt bless trial lecture doll inhale shop flee early device";
+var mnemonic = "crack drastic often shrimp festival fork economy hungry miss isolate fossil piano";

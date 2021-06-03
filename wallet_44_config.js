@@ -1,1 +1,1 @@
-var mnemonic = "family type grape violin weird runway sock sting purpose extend universe pet";
+var mnemonic = "cream stool before glue result window estate surface voyage tooth ask satoshi";

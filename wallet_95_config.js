@@ -1,1 +1,1 @@
-var mnemonic = "better two setup canyon gap february sausage between subject scale water apple";
+var mnemonic = "mail exhaust exit normal nuclear genuine drift silent improve garment antenna squeeze";

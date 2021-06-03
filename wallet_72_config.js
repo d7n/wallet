@@ -1,1 +1,1 @@
-var mnemonic = "night actress safe pool electric foot advance hire boss wish roast teach";
+var mnemonic = "nerve mother cabbage face dynamic nerve sun develop expect own shed slight";

@@ -1,1 +1,1 @@
-var mnemonic = "final concert scene sort stock spin girl risk field stairs increase carbon";
+var mnemonic = "symbol adapt release learn melt cluster truth foil humble spike danger lamp";

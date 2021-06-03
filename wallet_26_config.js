@@ -1,1 +1,1 @@
-var mnemonic = "lift divide tumble pet actual tortoise drop primary hair spring glue piece";
+var mnemonic = "such guilt priority what predict local nothing bird plate strategy across tool";

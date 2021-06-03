@@ -1,1 +1,1 @@
-var mnemonic = "arena fat print manage poem modify garage plug habit scene garbage fork";
+var mnemonic = "above emotion typical total candy patch feature myself alone praise pull token";

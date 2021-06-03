@@ -1,1 +1,1 @@
-var mnemonic = "spice session quarter peasant resource inherit spring trim pause country tent poem";
+var mnemonic = "lift vague road pink obvious fantasy front cross junk example object cargo";

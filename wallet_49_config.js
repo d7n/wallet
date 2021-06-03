@@ -1,1 +1,1 @@
-var mnemonic = "empty spatial share sad time device toilet waste sport spider shallow physical";
+var mnemonic = "yellow banana sorry best impose maid found hub scene zebra crowd coconut";

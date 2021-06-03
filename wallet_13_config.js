@@ -1,1 +1,1 @@
-var mnemonic = "salute insect swallow cart valley kid cake spoon torch own kit air";
+var mnemonic = "wait spell liar pumpkin that helmet dice dry quick honey wool rough";

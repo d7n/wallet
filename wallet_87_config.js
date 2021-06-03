@@ -1,1 +1,1 @@
-var mnemonic = "kind topic hill include wool safe general say neither alter appear display";
+var mnemonic = "twelve annual ski need lucky health cancel ticket still orbit affair lock";

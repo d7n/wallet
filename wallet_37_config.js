@@ -1,1 +1,1 @@
-var mnemonic = "mansion medal mask embrace tuna task orient top pool jelly puzzle tomorrow";
+var mnemonic = "strike burden spend wild vast patch search analyst come burst fiscal width";

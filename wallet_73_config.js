@@ -1,1 +1,1 @@
-var mnemonic = "adult patient sponsor flip bracket main cattle nose spider owner broom heart";
+var mnemonic = "fitness sphere myself left cloud south board pioneer face kitten gravity tragic";

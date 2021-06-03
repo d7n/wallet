@@ -1,1 +1,1 @@
-var mnemonic = "wonder chaos require pave salmon valley liar design juice airport indoor negative";
+var mnemonic = "material post describe ostrich frozen distance month category slide change pet slim";

@@ -1,1 +1,1 @@
-var mnemonic = "chest leisure grocery bronze duty napkin lounge salute atom coyote elephant run";
+var mnemonic = "mansion pen verify fog ability derive age object three fancy motion suspect";

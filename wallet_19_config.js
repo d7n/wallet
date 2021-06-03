@@ -1,1 +1,1 @@
-var mnemonic = "cannon muffin patch near scrap grid fish today give wagon robot notice";
+var mnemonic = "glass tonight unknown leaf ostrich chief shoe unveil electric spatial social matrix";

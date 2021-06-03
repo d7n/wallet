@@ -1,1 +1,1 @@
-var mnemonic = "walnut birth script original tape damage maze recall powder ocean canal punch";
+var mnemonic = "eagle spice manual cook slab toast pipe glance ticket match unfold grief";
