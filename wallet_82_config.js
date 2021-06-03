@@ -1,1 +1,1 @@
-var mnemonic = "shrug display title tattoo butter dinosaur word olive ostrich meadow tattoo job";
+var mnemonic = "human awake satoshi pudding melody satisfy song purpose okay title split direct";

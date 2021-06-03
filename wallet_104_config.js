@@ -1,1 +1,1 @@
-var mnemonic = "cart among lawn around skin item easy found enemy rib holiday predict";
+var mnemonic = "nominee unit east risk mercy wage floor uphold vast december base curious";

@@ -1,1 +1,1 @@
-var mnemonic = "tent cereal uniform matrix error ice attract lawsuit eagle swing matrix network";
+var mnemonic = "toddler slogan front erosion cheese chronic enemy police funny agree dove fossil";

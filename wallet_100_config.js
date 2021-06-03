@@ -1,1 +1,1 @@
-var mnemonic = "congress medal runway crater kiwi faint riot wreck runway bomb common muffin";
+var mnemonic = "rib pear cloud primary trip below faith whale corn bamboo discover match";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth proof resist suspect mango input column peanut history sand survey grace";
+var mnemonic = "police spread rocket erosion occur rain tortoise north good twin tribe invest";

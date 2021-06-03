@@ -1,1 +1,1 @@
-var mnemonic = "wall little clown pause cage letter adult time equip novel winner harbor";
+var mnemonic = "guilt hat word sentence famous there vital disorder admit define lady arm";

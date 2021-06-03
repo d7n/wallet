@@ -1,1 +1,1 @@
-var mnemonic = "chuckle deny already monkey trigger fruit negative upper demise sadness effort afford";
+var mnemonic = "sauce thrive motor donor relax solar believe erode try area gold behind";

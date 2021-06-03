@@ -1,1 +1,1 @@
-var mnemonic = "wasp museum hard logic arch road include era tray answer quarter abstract";
+var mnemonic = "couch type park volcano valve eager parade view husband apology fat catch";

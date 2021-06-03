@@ -1,1 +1,1 @@
-var mnemonic = "excuse what oven equip another foam switch combine depend today erase soda";
+var mnemonic = "ten scrub keep high such shop special refuse lemon jewel caution trophy";

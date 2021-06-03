@@ -1,1 +1,1 @@
-var mnemonic = "skate fuel magic success tone sentence dilemma estate weird scan explain cargo";
+var mnemonic = "blame auto wish neck bring fresh treat hand march empower assist nose";

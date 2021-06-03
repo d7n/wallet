@@ -1,1 +1,1 @@
-var mnemonic = "receive amazing shell twenty alcohol person rack celery path illness swim glue";
+var mnemonic = "payment height fragile valley check scatter want mask differ fun rocket lake";

@@ -1,1 +1,1 @@
-var mnemonic = "distance observe identify head defy monster vacant helmet trigger fade bless donor";
+var mnemonic = "brand quiz scrub knife loan fit combine flock dwarf exile order opinion";

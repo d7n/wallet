@@ -1,1 +1,1 @@
-var mnemonic = "picture fee pelican slogan science quick dry soft industry conduct video foot";
+var mnemonic = "enrich truck buyer decade almost title mirror lecture news bubble nominee often";

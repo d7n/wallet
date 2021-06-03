@@ -1,1 +1,1 @@
-var mnemonic = "sure tragic repair target vague demand royal fury whisper occur prison harvest";
+var mnemonic = "submit until name border weather useful layer veteran proud make decorate polar";

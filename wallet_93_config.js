@@ -1,1 +1,1 @@
-var mnemonic = "buyer useless elbow bone finish spy obvious mom trumpet knee action actress";
+var mnemonic = "use city wrap grass admit render fashion siege deer elephant fossil season";

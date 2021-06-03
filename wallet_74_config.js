@@ -1,1 +1,1 @@
-var mnemonic = "system exhaust put mixed play athlete dash patch tilt bar hill gym";
+var mnemonic = "erupt kidney dinner spy bronze tool three trial zebra emotion decide speak";

@@ -1,1 +1,1 @@
-var mnemonic = "bike will kit ignore pipe champion inhale west wedding say desert organ";
+var mnemonic = "logic such total emerge arch hip exile about attend legend cupboard report";

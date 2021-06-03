@@ -1,1 +1,1 @@
-var mnemonic = "tornado bachelor reopen salon symptom fee bus video dry artwork vessel mixture";
+var mnemonic = "radar coral wreck excess employ volcano dismiss identify daughter assist frozen gloom";

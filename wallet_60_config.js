@@ -1,1 +1,1 @@
-var mnemonic = "police kangaroo lawn artefact staff apart sock fantasy glad tape chapter educate";
+var mnemonic = "uncover before another unhappy report giant brain scale anger novel west bargain";

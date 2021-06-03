@@ -1,1 +1,1 @@
-var mnemonic = "drama tuna horse name favorite globe bring baby reunion story horror feature";
+var mnemonic = "crystal surge transfer memory uncle unknown magic media theme violin inflict marble";

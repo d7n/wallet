@@ -1,1 +1,1 @@
-var mnemonic = "curve gun team describe jazz bronze trumpet step beef impact flush rude";
+var mnemonic = "rich pet song suffer addict decorate hybrid equip brown animal two obtain";

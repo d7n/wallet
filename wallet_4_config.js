@@ -1,1 +1,1 @@
-var mnemonic = "congress shop entry profit critic door rescue range where snack mad monster";
+var mnemonic = "ankle jump knee reunion all quick hobby uncle finger toilet wisdom happy";

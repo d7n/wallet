@@ -1,1 +1,1 @@
-var mnemonic = "address used useless gossip blind domain twist cave panic violin note soon";
+var mnemonic = "resist group ship half absorb faith spray negative inner student load need";

@@ -1,1 +1,1 @@
-var mnemonic = "busy bread double march fringe joke immense call board foot impact plate";
+var mnemonic = "knee innocent tray violin idea warfare execute horror tortoise hybrid section steak";

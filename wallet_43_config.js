@@ -1,1 +1,1 @@
-var mnemonic = "slide slogan rice animal best topic teach view sleep black venture pistol";
+var mnemonic = "make retreat draft whale pelican fox glass mixture fade lawn cook survey";

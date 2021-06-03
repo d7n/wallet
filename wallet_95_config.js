@@ -1,1 +1,1 @@
-var mnemonic = "barrel advance foot bitter luxury garbage private entry series elevator brown trouble";
+var mnemonic = "crater question post quit remember dad plug dinner trap resist artefact quote";

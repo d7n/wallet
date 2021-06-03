@@ -1,1 +1,1 @@
-var mnemonic = "mind taxi fence umbrella bronze sibling diesel grain across index parade cheap";
+var mnemonic = "because tonight leaf pride judge maximum obvious ancient blind document solve enter";

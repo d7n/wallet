@@ -1,1 +1,1 @@
-var mnemonic = "cake shy produce avoid web media force issue cram vicious over salon";
+var mnemonic = "arrange horn powder steel agree throw shove guitar glance swallow cruel apple";

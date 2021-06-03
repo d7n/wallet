@@ -1,1 +1,1 @@
-var mnemonic = "weasel mushroom crash parade climb squirrel marriage clock cake cluster plate idea";
+var mnemonic = "emotion boil wrist imitate gaze thrive afford put slogan hour panda height";

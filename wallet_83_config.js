@@ -1,1 +1,1 @@
-var mnemonic = "forward news wine hybrid virus trip manage belt naive risk deliver diamond";
+var mnemonic = "gun nut favorite cabbage kitchen excess social future early tomato helmet before";

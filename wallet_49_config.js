@@ -1,1 +1,1 @@
-var mnemonic = "network enable plug remind inform scout plate stereo family mesh defense hawk";
+var mnemonic = "crane random hurdle dress advice path screen crisp bench couch you rookie";

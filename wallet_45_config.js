@@ -1,1 +1,1 @@
-var mnemonic = "verify bring pond echo puppy surprise tobacco client access physical fee happy";
+var mnemonic = "slight mechanic slam model fever envelope bunker fall nice load arrest acid";

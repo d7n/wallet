@@ -1,1 +1,1 @@
-var mnemonic = "expand romance brother scale hub soccer slush margin slice hand purchase defense";
+var mnemonic = "solve tonight chest stairs gloom easily history settle mirror fringe vicious picture";

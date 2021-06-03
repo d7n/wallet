@@ -1,1 +1,1 @@
-var mnemonic = "inner suit position cross cabin rural next picture base unfold half alarm";
+var mnemonic = "clock dynamic sentence birth spirit place swamp lumber someone kid wrong beach";

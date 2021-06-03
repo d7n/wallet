@@ -1,1 +1,1 @@
-var mnemonic = "actual junior aunt promote kidney wild anger garbage twice negative spoon curtain";
+var mnemonic = "habit public medal attract online lawsuit camera bring hour gloom cactus end";

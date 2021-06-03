@@ -1,1 +1,1 @@
-var mnemonic = "pelican screen detail write music adjust clever bonus connect wise want nest";
+var mnemonic = "require shaft fame erode furnace inspire surge arrive chaos people castle curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge once brass romance toward organ abandon blur predict bone profit style";
+var mnemonic = "voice exile baby census bounce kitchen cherry basic admit oval birth discover";

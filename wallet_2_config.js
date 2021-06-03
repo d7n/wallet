@@ -1,1 +1,1 @@
-var mnemonic = "upper agent topple chase copy owner rescue aunt gate slogan scare rate";
+var mnemonic = "piece idea actress fiscal tone side always airport fatal betray middle cute";

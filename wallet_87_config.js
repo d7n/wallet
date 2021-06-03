@@ -1,1 +1,1 @@
-var mnemonic = "oxygen twin enrich beauty casual agent always motion net attract flee shift";
+var mnemonic = "loyal depth city giraffe pride volume opinion retreat camera turkey alpha sport";

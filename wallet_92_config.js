@@ -1,1 +1,1 @@
-var mnemonic = "ugly script hub poverty mandate cigar type logic excess gravity toe chuckle";
+var mnemonic = "bind interest situate note cable soup letter smoke treat large learn matter";

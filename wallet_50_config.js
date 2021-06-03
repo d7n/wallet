@@ -1,1 +1,1 @@
-var mnemonic = "please pave slim siren brisk immense cover stuff genuine resource menu radio";
+var mnemonic = "bring produce law deputy match short juice child large shine rule meadow";

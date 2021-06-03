@@ -1,1 +1,1 @@
-var mnemonic = "sketch puzzle inflict mention sting print chimney movie echo good cage dad";
+var mnemonic = "staff erosion practice crush hill dawn patch siren pitch pony addict route";

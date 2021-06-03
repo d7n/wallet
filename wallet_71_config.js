@@ -1,1 +1,1 @@
-var mnemonic = "judge lift recall subject report dizzy industry patrol innocent flag grain flash";
+var mnemonic = "veteran remove game leg square wear brand milk stage pepper print wrap";

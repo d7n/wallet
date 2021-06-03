@@ -1,1 +1,1 @@
-var mnemonic = "slogan trim room market maple run village clip butter depart confirm point";
+var mnemonic = "master sibling host prefer fine opera guard mushroom afraid unique eager drastic";

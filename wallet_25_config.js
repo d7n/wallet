@@ -1,1 +1,1 @@
-var mnemonic = "ranch around dwarf noble put enlist zebra slab shed ring arrow ginger";
+var mnemonic = "print field trap wise person cherry city balance science sure clever inflict";

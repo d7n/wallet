@@ -1,1 +1,1 @@
-var mnemonic = "book save earth trigger globe dust camp legend mask damp rent essay";
+var mnemonic = "three human swarm leopard truck safe trade horse boost age system juice";

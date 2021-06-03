@@ -1,1 +1,1 @@
-var mnemonic = "decline travel crunch embark direct february talent resemble knock hotel together lens";
+var mnemonic = "shrimp cute devote arrest split laptop common olympic wolf surround sniff flee";

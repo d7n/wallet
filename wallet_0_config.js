@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sock siren dune trap target border grace shaft insect across fancy";
+var mnemonic = "bicycle march excess jazz ridge riot aspect auto into obtain staff civil";

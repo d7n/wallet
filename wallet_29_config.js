@@ -1,1 +1,1 @@
-var mnemonic = "sunny away system winner flip negative when liquid gown choice uphold clump";
+var mnemonic = "slender blur size lottery receive connect plug fall top rather syrup sign";

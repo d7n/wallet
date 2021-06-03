@@ -1,1 +1,1 @@
-var mnemonic = "wide gasp art exist achieve eagle crunch coast arrive keep garbage deer";
+var mnemonic = "machine vital empty window police fetch office topic next sad true gas";

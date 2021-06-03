@@ -1,1 +1,1 @@
-var mnemonic = "whisper say crucial betray goddess story cliff own rhythm girl dizzy silk";
+var mnemonic = "finish lion explain more uniform idea simple ecology glow extend suit insect";

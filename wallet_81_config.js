@@ -1,1 +1,1 @@
-var mnemonic = "adapt primary off love record fence cousin fortune machine doll reveal drip";
+var mnemonic = "orient earn fan remind dial okay ancient ranch vehicle machine again fox";

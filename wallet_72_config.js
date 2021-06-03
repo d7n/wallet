@@ -1,1 +1,1 @@
-var mnemonic = "cube nose safe feature common movie skin elephant element home hint joy";
+var mnemonic = "chicken genius lobster system toilet myself lounge mushroom indicate surge visual visit";

@@ -1,1 +1,1 @@
-var mnemonic = "document response crush walk sibling blur affair bubble possible core family thank";
+var mnemonic = "dilemma canal fury vehicle wood burden record basket pistol refuse hammer ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "hub beyond aerobic alarm certain fame spend glimpse loop runway side entry";
+var mnemonic = "pass person coach moral pledge summer frame buzz pond tribe fragile leisure";

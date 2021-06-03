@@ -1,1 +1,1 @@
-var mnemonic = "write gate humor mistake impose sustain second glove rose sustain net nest";
+var mnemonic = "dove supreme midnight manual police dice top swear traffic maximum alien belt";

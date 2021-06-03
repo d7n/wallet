@@ -1,1 +1,1 @@
-var mnemonic = "prison shoe grief pause clump wolf public one hat fog lend fresh";
+var mnemonic = "side loan fish evolve eagle crucial art cost cover purpose fit museum";

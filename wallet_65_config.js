@@ -1,1 +1,1 @@
-var mnemonic = "buyer fine flash glory drama beyond feel simple sorry donkey betray fade";
+var mnemonic = "mushroom inquiry rich nasty cross observe erode prepare load surface unit album";

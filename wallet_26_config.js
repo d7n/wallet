@@ -1,1 +1,1 @@
-var mnemonic = "turn disagree knock illness stumble nuclear grow cliff mad rate drill harvest";
+var mnemonic = "pass life hybrid jungle among pelican click will scatter weekend bunker allow";

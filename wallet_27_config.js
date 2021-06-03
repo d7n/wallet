@@ -1,1 +1,1 @@
-var mnemonic = "assault way lift balcony dust skull latin vague stock rabbit absorb manual";
+var mnemonic = "claim heavy include alien trick resist poem gesture boost alarm legend vocal";

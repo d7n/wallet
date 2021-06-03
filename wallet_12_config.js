@@ -1,1 +1,1 @@
-var mnemonic = "zero segment violin rescue advance stock know lawn length moment ostrich unaware";
+var mnemonic = "snack glimpse easily fantasy brand sketch crumble direct street midnight length region";

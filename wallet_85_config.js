@@ -1,1 +1,1 @@
-var mnemonic = "affair taxi style over canal rich panel cook onion deliver ask clay";
+var mnemonic = "idea hurry usual paper run soft siege hold cage gaze faculty priority";

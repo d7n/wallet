@@ -1,1 +1,1 @@
-var mnemonic = "wire theme bamboo street scout equip lady update filter impact lunch anger";
+var mnemonic = "virus damp road judge first come tumble cup calm derive metal patient";

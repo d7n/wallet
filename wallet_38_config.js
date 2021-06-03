@@ -1,1 +1,1 @@
-var mnemonic = "logic flat expect enhance egg gain know just logic core pride stick";
+var mnemonic = "bike girl snack tackle artefact behind stool salad rescue sustain mammal fiscal";

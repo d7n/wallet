@@ -1,1 +1,1 @@
-var mnemonic = "era scheme play useful error blast owner badge bamboo base bean dad";
+var mnemonic = "guess pig juice ladder obvious crime burger wish slush mystery wet nation";

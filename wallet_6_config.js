@@ -1,1 +1,1 @@
-var mnemonic = "horse onion food sword crew south bar north deer ship box crucial";
+var mnemonic = "true crunch minimum wheat silly donate display twist height ocean target fiction";

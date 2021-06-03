@@ -1,1 +1,1 @@
-var mnemonic = "visit midnight admit immense weekend view define agree rural moon attend desk";
+var mnemonic = "gallery foster wonder unable vacant flavor undo control inmate oppose duty capital";

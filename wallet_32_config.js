@@ -1,1 +1,1 @@
-var mnemonic = "upon pyramid love warm pattern payment govern coast token heart middle tilt";
+var mnemonic = "virtual chuckle scene mercy wide erase slow royal shoulder vault man slam";

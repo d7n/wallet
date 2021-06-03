@@ -1,1 +1,1 @@
-var mnemonic = "twelve trap mean under satoshi artefact wealth sunset eternal can cheese beef";
+var mnemonic = "day journey prevent runway shield divorce purity rookie scan genius say talent";

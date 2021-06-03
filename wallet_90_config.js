@@ -1,1 +1,1 @@
-var mnemonic = "thumb enforce energy diet health evil atom parrot toast roast unaware scatter";
+var mnemonic = "inspire enjoy fringe catch fury used drift kitchen excuse village olympic toward";

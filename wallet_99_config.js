@@ -1,1 +1,1 @@
-var mnemonic = "angle nature curve globe library three depend divide sausage stand oppose diamond";
+var mnemonic = "ancient sick zebra august family desk fire lunch enforce library blur client";

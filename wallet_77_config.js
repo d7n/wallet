@@ -1,1 +1,1 @@
-var mnemonic = "age depart estate zoo spring huge cycle trend pet flee cup nurse";
+var mnemonic = "puzzle clarify usual link ginger wrist purse two horse purpose rose giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil help warrior blue yellow grocery fossil father brick limit sword tide";
+var mnemonic = "phrase rent burden have topic cake fortune notice paper avoid mango dust";

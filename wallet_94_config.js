@@ -1,1 +1,1 @@
-var mnemonic = "cannon puppy antenna few across dwarf one fly axis coral phrase dentist";
+var mnemonic = "pyramid gap step tuna second very royal wedding essay employ rifle token";

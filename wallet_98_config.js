@@ -1,1 +1,1 @@
-var mnemonic = "film hurt reward subject vapor grief baby sponsor box fix slice exotic";
+var mnemonic = "cannon above unfold drip narrow catch capital wet race doll stuff document";

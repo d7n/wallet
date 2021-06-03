@@ -1,1 +1,1 @@
-var mnemonic = "able music right theory axis snake video chest orchard soccer air option";
+var mnemonic = "capital flight cruel wisdom capital drum kite fantasy only rice build turkey";

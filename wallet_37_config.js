@@ -1,1 +1,1 @@
-var mnemonic = "antenna demise boost vital pond improve palace seed flower risk ticket height";
+var mnemonic = "utility polar weasel fold actor nation crisp cloud dilemma quality omit manual";

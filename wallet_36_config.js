@@ -1,1 +1,1 @@
-var mnemonic = "assume average cheap dwarf bounce link chicken differ movie frost repair need";
+var mnemonic = "audit asthma there lawsuit start dawn auto together bitter suggest city planet";

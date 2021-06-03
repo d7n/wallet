@@ -1,1 +1,1 @@
-var mnemonic = "fossil patient praise hand proof afford fantasy donate lawsuit spend traffic gasp";
+var mnemonic = "cruel huge sadness train bridge kite ranch ivory museum neutral setup sell";

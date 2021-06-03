@@ -1,1 +1,1 @@
-var mnemonic = "beach steel day enact portion lunar volume hundred tackle cheap barrel embark";
+var mnemonic = "voyage sock actual sell bleak actual junk come pizza panther drink diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "year destroy rookie fat sunset unique torch bid soda today area quick";
+var mnemonic = "artefact mean inmate burst brief parrot girl you cattle swap web barely";

@@ -1,1 +1,1 @@
-var mnemonic = "home knife tackle kind deliver rural tired kangaroo license sure mass point";
+var mnemonic = "uphold food crane easy story absent assume olympic pair churn project code";

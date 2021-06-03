@@ -1,1 +1,1 @@
-var mnemonic = "east ready sketch peasant ten notable pattern rotate clock pilot margin minute";
+var mnemonic = "maze debate muffin boil plug nice bundle tackle sample kind circle tumble";

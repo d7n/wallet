@@ -1,1 +1,1 @@
-var mnemonic = "paddle lemon task mandate liberty pass remember balance short orient luxury gown";
+var mnemonic = "appear fashion spray frozen assault flip canoe become foot day average stove";

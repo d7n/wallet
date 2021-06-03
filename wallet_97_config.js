@@ -1,1 +1,1 @@
-var mnemonic = "fun increase analyst diesel live ice time under sound wide action case";
+var mnemonic = "glare chunk tissue robust screen that soda absurd elder confirm assault enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "grape miss baby this inquiry black flame test noise cage square exhibit";
+var mnemonic = "what visual dawn motion goat bundle merit adjust romance bonus toe very";

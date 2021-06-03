@@ -1,1 +1,1 @@
-var mnemonic = "rain actor lunar yard insect beauty cinnamon spend unable answer clutch board";
+var mnemonic = "tag execute kiwi add better rebel original poverty illegal gather income sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "useless minimum employ proof heavy service logic state nothing start suspect siege";
+var mnemonic = "muscle shadow between cake cave resemble jewel ancient wool funny pill settle";

@@ -1,1 +1,1 @@
-var mnemonic = "medal color traffic panther type amused cream spot country holiday share silk";
+var mnemonic = "agree mandate pledge mammal sudden warrior arena snap economy skill wagon escape";

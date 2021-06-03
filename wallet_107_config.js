@@ -1,1 +1,1 @@
-var mnemonic = "wave carbon festival drill team diesel hazard cross ski cook verb burden";
+var mnemonic = "elite tragic coffee display clump depart cup truly rose crucial couple crop";

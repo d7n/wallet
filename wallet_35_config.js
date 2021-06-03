@@ -1,1 +1,1 @@
-var mnemonic = "theme prepare must drum indicate letter daring soda treat shuffle hour apology";
+var mnemonic = "print south wild skirt square mixed world sugar clump orbit give drastic";

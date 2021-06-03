@@ -1,1 +1,1 @@
-var mnemonic = "sword zone spy swap aspect slight digital float leave test popular grass";
+var mnemonic = "glare still fall finish vast device gesture green lab benefit mutual fox";

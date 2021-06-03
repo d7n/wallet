@@ -1,1 +1,1 @@
-var mnemonic = "minute fringe jump tiger submit speed silver lyrics scorpion mix place begin";
+var mnemonic = "immense hurt logic crater ivory enroll luggage comic diamond seminar clump caught";
