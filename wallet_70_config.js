@@ -1,1 +1,1 @@
-var mnemonic = "excess race turkey weapon caught couple identify reunion saddle grace youth humble";
+var mnemonic = "solar typical aunt female situate brass bless square material sell crush film";

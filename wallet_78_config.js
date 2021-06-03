@@ -1,1 +1,1 @@
-var mnemonic = "unfold hold connect error bulb table become olympic vanish forget coral bundle";
+var mnemonic = "fury critic code borrow genuine captain grow two truly mistake cigar orchard";

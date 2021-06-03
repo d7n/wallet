@@ -1,1 +1,1 @@
-var mnemonic = "balcony seven leg police slam infant shrimp swallow excuse tell box actress";
+var mnemonic = "garbage image wisdom armed history wreck soon ozone swamp lecture private round";

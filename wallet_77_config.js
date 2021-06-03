@@ -1,1 +1,1 @@
-var mnemonic = "marble primary frost awake dismiss major kidney camp hammer february current hood";
+var mnemonic = "double vacuum only walk claim damp decorate usage barrel patch super uniform";

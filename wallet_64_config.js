@@ -1,1 +1,1 @@
-var mnemonic = "hybrid regular bronze sun kiss bachelor engine palm sun mobile glare choice";
+var mnemonic = "body visa crash develop fetch spoon october ghost antenna peace robust brisk";

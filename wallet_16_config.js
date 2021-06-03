@@ -1,1 +1,1 @@
-var mnemonic = "random orbit farm film radio tower drip fetch spare poem fetch general";
+var mnemonic = "curtain pluck river reunion fine dog ripple report stem rebuild roast planet";

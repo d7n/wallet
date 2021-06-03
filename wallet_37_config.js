@@ -1,1 +1,1 @@
-var mnemonic = "soap truth method mirror dawn party hint electric local input pond cricket";
+var mnemonic = "endorse kitchen elder frog cat aunt scheme duck primary vendor sample female";

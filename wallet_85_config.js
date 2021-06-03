@@ -1,1 +1,1 @@
-var mnemonic = "blood defy trouble toy canvas trade frog slush enhance bus infant behave";
+var mnemonic = "into firm inhale staff solid bar maximum head act group sock chief";

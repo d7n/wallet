@@ -1,1 +1,1 @@
-var mnemonic = "laugh order believe mushroom detect mistake hello allow despair clock tray awesome";
+var mnemonic = "august income ginger magnet swallow lady fee joy category organ aim purity";

@@ -1,1 +1,1 @@
-var mnemonic = "human remember sight primary uniform thing process scatter mule senior ripple sand";
+var mnemonic = "scare school much calm pledge video idle oven civil eight before south";

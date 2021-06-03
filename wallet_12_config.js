@@ -1,1 +1,1 @@
-var mnemonic = "prefer brave blast action observe impulse soap trumpet beauty bean bubble major";
+var mnemonic = "color identify aunt subject area trophy bundle immense relax mind sniff resist";

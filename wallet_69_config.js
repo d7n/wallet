@@ -1,1 +1,1 @@
-var mnemonic = "error evolve open click team decade purchase drill victory mom topple fall";
+var mnemonic = "correct cannon rebuild produce reunion vote raw provide rule east gift intact";

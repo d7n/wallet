@@ -1,1 +1,1 @@
-var mnemonic = "soft twist guard rule young sure solar stairs diamond surge owner puzzle";
+var mnemonic = "please bright protect sibling become amount certain brush valley surge fatal ribbon";

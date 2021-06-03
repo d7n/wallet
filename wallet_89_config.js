@@ -1,1 +1,1 @@
-var mnemonic = "flower online gallery random penalty resource taxi immune helmet truth grant coin";
+var mnemonic = "uncle carpet dust boring tray enrich forest brave alert tail gather obscure";

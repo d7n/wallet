@@ -1,1 +1,1 @@
-var mnemonic = "doll shield tackle coin vocal fury avocado crash submit snap volcano child";
+var mnemonic = "live echo drastic spider pudding cycle hawk combine raven once sad hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "various announce shaft vast list public antique hand better fork junior soccer";
+var mnemonic = "fetch fatigue scorpion pledge cable left subway sniff keen nature process observe";

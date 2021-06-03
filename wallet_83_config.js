@@ -1,1 +1,1 @@
-var mnemonic = "gorilla round carry guard west meat horror equip agent column estate just";
+var mnemonic = "evolve arch wear list retreat vessel peanut live circle spray immune mandate";

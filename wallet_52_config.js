@@ -1,1 +1,1 @@
-var mnemonic = "seed decorate giant match tennis stick design skirt false hair urge correct";
+var mnemonic = "will mule farm limit flip denial before guess debate rubber cook valid";

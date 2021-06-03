@@ -1,1 +1,1 @@
-var mnemonic = "science expire case salt aspect when envelope summer magic wage place swear";
+var mnemonic = "gaze truck spell laugh cushion disorder dinosaur lazy number note melody exotic";

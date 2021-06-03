@@ -1,1 +1,1 @@
-var mnemonic = "sail camp obscure avoid crack benefit scan apple hamster eagle prepare comfort";
+var mnemonic = "file faint woman east unable pole excite direct amused hand upon gain";

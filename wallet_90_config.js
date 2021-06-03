@@ -1,1 +1,1 @@
-var mnemonic = "trust obvious harsh jar trigger fix useful bonus report vivid snack picture";
+var mnemonic = "knee license zone nation road bench romance gossip sunny uncle reject uniform";

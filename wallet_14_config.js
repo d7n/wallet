@@ -1,1 +1,1 @@
-var mnemonic = "safe together hold narrow business addict exile final assume below tool maximum";
+var mnemonic = "liberty ozone able shoot boring entire faculty frost universe luxury trumpet yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant wrist talk error roof improve truck primary science crawl thank skill";
+var mnemonic = "enrich latin want material erase auction robot inspire peasant thrive rough moral";

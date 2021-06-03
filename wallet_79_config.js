@@ -1,1 +1,1 @@
-var mnemonic = "prosper pudding hammer session knock same tonight pilot van airport tragic drift";
+var mnemonic = "this table off future fortune venture omit bag pattern gold primary net";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle month inner sport type couch joke riot film tail organ pilot";
+var mnemonic = "begin casino offer transfer earn gadget adjust profit end walnut drink cube";

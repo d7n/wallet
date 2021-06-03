@@ -1,1 +1,1 @@
-var mnemonic = "then auto because logic oxygen popular east duck jaguar rocket refuse isolate";
+var mnemonic = "science beyond buzz enlist boil father stomach actress planet brisk dice road";

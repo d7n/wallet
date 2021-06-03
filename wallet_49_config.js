@@ -1,1 +1,1 @@
-var mnemonic = "any draw enroll romance gold mention sleep false kitten say amused tone";
+var mnemonic = "middle salute addict apple cave injury armed promote embark pause opinion border";

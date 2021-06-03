@@ -1,1 +1,1 @@
-var mnemonic = "lake swallow steak amazing october cousin sustain rent police trumpet deer daring";
+var mnemonic = "rude evoke state session cereal cattle average grape quality leader sense pyramid";

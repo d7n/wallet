@@ -1,1 +1,1 @@
-var mnemonic = "survey escape task expire armed gloom episode wall spoon absent thrive crunch";
+var mnemonic = "notice chest stove enforce advice since draw catch view future hen embark";

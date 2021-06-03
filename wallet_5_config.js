@@ -1,1 +1,1 @@
-var mnemonic = "sausage holiday true clerk lawsuit venture motor misery leopard awesome egg author";
+var mnemonic = "awake knife kiwi quote magnet urge typical ignore city bone expand hurt";

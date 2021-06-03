@@ -1,1 +1,1 @@
-var mnemonic = "siege lava nurse pelican second electric enemy must leaf fragile image elbow";
+var mnemonic = "blossom clerk reward voice half category episode unlock dinosaur edit flip staff";

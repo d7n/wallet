@@ -1,1 +1,1 @@
-var mnemonic = "capable price cloth roast web twice outside inmate scare issue fall receive";
+var mnemonic = "arrest bone public calm spice gasp jazz usual achieve provide brother vicious";

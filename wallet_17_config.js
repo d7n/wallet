@@ -1,1 +1,1 @@
-var mnemonic = "album crucial buffalo ignore escape stomach guilt prison monster wedding eyebrow victory";
+var mnemonic = "future powder effort jungle shrug gate ensure middle antenna tent curve hero";

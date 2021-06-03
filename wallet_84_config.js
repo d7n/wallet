@@ -1,1 +1,1 @@
-var mnemonic = "trust lounge essence distance seminar exotic section anger power edit close bright";
+var mnemonic = "hazard move fog hurry quote license boost setup exhaust december area dream";

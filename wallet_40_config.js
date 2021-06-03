@@ -1,1 +1,1 @@
-var mnemonic = "car enough twist tooth rely august naive arm task inch peace west";
+var mnemonic = "analyst purse label oppose wear tank alarm silly tornado search snow mimic";

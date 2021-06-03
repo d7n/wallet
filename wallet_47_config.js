@@ -1,1 +1,1 @@
-var mnemonic = "fringe resource like crisp core glove illness execute usual script face tourist";
+var mnemonic = "manual sketch observe later copy swear improve hard alpha section antenna same";

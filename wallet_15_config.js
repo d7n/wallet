@@ -1,1 +1,1 @@
-var mnemonic = "retreat thunder syrup nice clap hazard genuine mad another penalty uphold song";
+var mnemonic = "vacuum hidden rigid provide minimum permit model oblige hobby tell trophy six";

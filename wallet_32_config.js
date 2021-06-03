@@ -1,1 +1,1 @@
-var mnemonic = "adult arm total rescue betray unfold rifle solve diagram stool material circle";
+var mnemonic = "casino exercise vapor inch refuse because oyster inflict effort wall bench smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "boost news biology lonely lumber broccoli episode figure concert execute muscle hungry";
+var mnemonic = "sustain kick review pink motor fitness have win during panel face arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "van chat battle fly agent guitar thumb hockey clean atom siren tenant";
+var mnemonic = "nothing program level priority victory senior thrive hand donor fantasy joke cash";

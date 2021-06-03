@@ -1,1 +1,1 @@
-var mnemonic = "mountain subway armed link alpha special assault exit unique present quantum crime";
+var mnemonic = "galaxy bubble apple coach silk teach exclude donate pony luggage consider dawn";

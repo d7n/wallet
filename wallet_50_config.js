@@ -1,1 +1,1 @@
-var mnemonic = "dash present armor forget slab girl other uncle decade remove bird basic";
+var mnemonic = "lock album twice canvas used gun seminar capable crime federal mom animal";

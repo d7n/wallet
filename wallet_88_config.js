@@ -1,1 +1,1 @@
-var mnemonic = "piano april real biology rubber interest produce crush spin bind behave point";
+var mnemonic = "course breeze bounce pencil donkey toward juice lottery trim school ask hand";

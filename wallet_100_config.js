@@ -1,1 +1,1 @@
-var mnemonic = "kit silver interest best nephew board engage shrug modify morning version behind";
+var mnemonic = "seven shuffle once asset deny tiny discover skin stem canvas gown submit";

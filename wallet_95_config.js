@@ -1,1 +1,1 @@
-var mnemonic = "often owner hello satisfy camera quit village type topple amount fee tuna";
+var mnemonic = "cram spike donor service meadow concert cause food agent remember meat lucky";

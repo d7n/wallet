@@ -1,1 +1,1 @@
-var mnemonic = "dish tooth worry wool rescue car general hen ship convince note glance";
+var mnemonic = "item wild tomorrow faculty stadium laugh fame category roof share fury tattoo";

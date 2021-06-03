@@ -1,1 +1,1 @@
-var mnemonic = "defy abuse entire law guilt shop omit govern spring crisp scheme motion";
+var mnemonic = "visa edge matter little boss sting endless stuff upon orient prison normal";

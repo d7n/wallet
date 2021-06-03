@@ -1,1 +1,1 @@
-var mnemonic = "recycle cloth fuel quit fragile swear rail female large day world wisdom";
+var mnemonic = "steel cry dove truly nuclear spray visa pledge december claw border critic";

@@ -1,1 +1,1 @@
-var mnemonic = "suit reduce tumble evoke narrow eyebrow erosion marble welcome entire clump someone";
+var mnemonic = "craft verb grass discover tilt people pepper hope opera gravity wet number";

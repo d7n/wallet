@@ -1,1 +1,1 @@
-var mnemonic = "medal damp aspect pipe engage impose enroll lunch soccer what twice once";
+var mnemonic = "mask fiscal blood drink ghost cash stick kitten stadium patient mad boil";

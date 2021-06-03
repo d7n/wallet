@@ -1,1 +1,1 @@
-var mnemonic = "smile tube outer response come record explain waste canvas turkey coil winter";
+var mnemonic = "over trust gallery habit moment swear wine adult there floor model program";

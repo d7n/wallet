@@ -1,1 +1,1 @@
-var mnemonic = "dignity twenty above manage cotton evoke drill sword shift scrub net they";
+var mnemonic = "manual bacon shrimp need way snap agent banner connect custom velvet duck";

@@ -1,1 +1,1 @@
-var mnemonic = "member claim physical later achieve wood neither oxygen world drama carbon fire";
+var mnemonic = "taste update produce story sustain loud mystery verify purpose web aim kidney";

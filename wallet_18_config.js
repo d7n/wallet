@@ -1,1 +1,1 @@
-var mnemonic = "target athlete course pull loud setup drive theory nothing kiss repair acid";
+var mnemonic = "property arena buddy injury bird unaware print arrest game menu access melt";

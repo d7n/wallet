@@ -1,1 +1,1 @@
-var mnemonic = "wasp salad top response shallow over minute alone program image forest frost";
+var mnemonic = "sample catalog sustain palace audit mass supply change middle charge civil melody";

@@ -1,1 +1,1 @@
-var mnemonic = "ill reward world bargain tide inject deliver south hedgehog slush artefact ice";
+var mnemonic = "favorite angle doctor resist price worry asset multiply trade apology yellow govern";

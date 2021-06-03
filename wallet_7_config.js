@@ -1,1 +1,1 @@
-var mnemonic = "learn limb over cactus forward meadow pull flash vacuum decline allow interest";
+var mnemonic = "decide gather media thing local inflict few tuna state disagree awake husband";

@@ -1,1 +1,1 @@
-var mnemonic = "either number habit fox toast aim accident panda unusual legend find pull";
+var mnemonic = "lunch duty valley wisdom vapor render cricket snow coin weird weird best";

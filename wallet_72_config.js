@@ -1,1 +1,1 @@
-var mnemonic = "tiger crane rare frog fish year solve behind art search curtain drink";
+var mnemonic = "mammal allow camera scrap climb butter obscure day uniform wave tool helmet";

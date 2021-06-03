@@ -1,1 +1,1 @@
-var mnemonic = "tape traffic adapt scout repair leisure upper book math quality call pact";
+var mnemonic = "romance goddess wage flag alcohol derive local quote tackle shell smile very";

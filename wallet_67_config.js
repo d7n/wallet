@@ -1,1 +1,1 @@
-var mnemonic = "lounge wise attract educate response stage put supreme heart primary ice pond";
+var mnemonic = "hover dream attack sea awake turn sudden dignity make toss glow fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "move gorilla vapor club gadget sustain bind flee rent cheese medal sure";
+var mnemonic = "clarify tray length winner blame account tank film female favorite tell absorb";

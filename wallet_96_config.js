@@ -1,1 +1,1 @@
-var mnemonic = "cotton ridge repair bounce real broom hedgehog total board vacant angry crew";
+var mnemonic = "bar early expect term cereal debris audit print bright sugar before tuition";

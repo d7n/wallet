@@ -1,1 +1,1 @@
-var mnemonic = "meat mushroom asset knee dish artefact obscure amazing disease face laundry cinnamon";
+var mnemonic = "club seminar runway camp manual prepare bind torch whale behave boss cake";

@@ -1,1 +1,1 @@
-var mnemonic = "room frown stumble mountain rice mule surface coffee borrow solar correct civil";
+var mnemonic = "blanket drill green fog matrix shaft review width puppy popular blame cram";

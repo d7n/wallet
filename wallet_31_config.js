@@ -1,1 +1,1 @@
-var mnemonic = "enough about mask spare promote soon diagram fitness find else village grape";
+var mnemonic = "pool firm swear museum bus nothing fix wing purity rescue gentle develop";

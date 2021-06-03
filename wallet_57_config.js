@@ -1,1 +1,1 @@
-var mnemonic = "arctic capable dizzy blush enter attack clinic cloud badge empower glory hill";
+var mnemonic = "index target rate embrace divorce actor enable chapter lyrics slogan print quote";

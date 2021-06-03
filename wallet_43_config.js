@@ -1,1 +1,1 @@
-var mnemonic = "devote river room reason border must task depart inject seek caught iron";
+var mnemonic = "evoke victory post feed march coin broom code fade chief rain champion";

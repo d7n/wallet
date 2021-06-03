@@ -1,1 +1,1 @@
-var mnemonic = "pond viable guess plate glory climb burst picture three sign stamp agree";
+var mnemonic = "address favorite body better gold ignore draft sound sun abuse cycle year";

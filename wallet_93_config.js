@@ -1,1 +1,1 @@
-var mnemonic = "nation push regret solve zone luggage profit sibling bunker confirm vocal snap";
+var mnemonic = "maximum much arrest punch crew charge invite unaware neglect own spell promote";

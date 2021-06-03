@@ -1,1 +1,1 @@
-var mnemonic = "evoke disorder labor ethics plate sheriff clog sting duck human walnut inflict";
+var mnemonic = "foot slam spot suggest doll assist grant animal oyster chat viable minor";

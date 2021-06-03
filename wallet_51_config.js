@@ -1,1 +1,1 @@
-var mnemonic = "state explain day primary emerge snake crawl setup rabbit invite consider cliff";
+var mnemonic = "cannon brass robust shaft tell salad avocado solve same toddler hotel labor";

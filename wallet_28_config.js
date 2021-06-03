@@ -1,1 +1,1 @@
-var mnemonic = "cost brand need ship repeat rich cabin still mask mention possible desk";
+var mnemonic = "unique talent unknown also attend lonely august cry paper spy visit enhance";

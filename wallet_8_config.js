@@ -1,1 +1,1 @@
-var mnemonic = "cover concert bronze doll before seat pilot promote pledge young blind ladder";
+var mnemonic = "essay actress strategy frozen staff river cattle divorce aerobic humor sun same";

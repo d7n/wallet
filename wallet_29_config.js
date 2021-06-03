@@ -1,1 +1,1 @@
-var mnemonic = "cool west frame reduce radio high protect faith episode file announce double";
+var mnemonic = "food leisure mail poem honey inherit drift three repeat hockey dry pulse";

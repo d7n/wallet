@@ -1,1 +1,1 @@
-var mnemonic = "unable price snap isolate impulse worry easily thought wedding jealous sister tired";
+var mnemonic = "evidence token huge raise manual stem venue truck matter size normal hill";

@@ -1,1 +1,1 @@
-var mnemonic = "glad actual recycle smart chat drive cover clown brisk festival crush frown";
+var mnemonic = "provide they spread wonder middle beyond guard retreat vault bulb direct general";

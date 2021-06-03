@@ -1,1 +1,1 @@
-var mnemonic = "breeze index drip popular picture silent subject observe lumber bitter east fetch";
+var mnemonic = "dream frown more screen trade aware report venture nephew code urge resist";

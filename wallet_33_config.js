@@ -1,1 +1,1 @@
-var mnemonic = "joy impose tonight rail forum coach faith gadget express garbage hair fantasy";
+var mnemonic = "mercy visual build pitch bind arctic sniff birth flip daughter blood ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "will task must enroll alley tower february father alone dutch wave crystal";
+var mnemonic = "absorb claim pill jazz near envelope oxygen purpose depth auto border matter";

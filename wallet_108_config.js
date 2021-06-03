@@ -1,1 +1,1 @@
-var mnemonic = "auction runway join night electric race author rent fire beyond sustain copper";
+var mnemonic = "spatial video upper urge crack height desert common average ten pudding teach";

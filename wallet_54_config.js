@@ -1,1 +1,1 @@
-var mnemonic = "exist unable transfer body few wealth toy injury abuse catch prison bitter";
+var mnemonic = "glove mountain wise rain drill swim slam ten wide trade shadow ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy resemble mistake thing above reopen depart satoshi quote amateur sunset gun";
+var mnemonic = "select plug reopen shaft potato brown crouch crouch lucky sadness breeze gift";

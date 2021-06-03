@@ -1,1 +1,1 @@
-var mnemonic = "thought tired alter remain improve slender afford lawn misery boil tumble myth";
+var mnemonic = "chaos wear episode list woman clinic wire pizza inch fee awkward area";

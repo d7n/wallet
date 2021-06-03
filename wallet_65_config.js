@@ -1,1 +1,1 @@
-var mnemonic = "basic syrup cat empower upon spell adapt eternal van suffer current envelope";
+var mnemonic = "meat town opinion draw blast drip order fortune peasant craft patch blue";

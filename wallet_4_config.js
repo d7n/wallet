@@ -1,1 +1,1 @@
-var mnemonic = "ozone reject obvious sadness dwarf soup endorse text clog brand tube avocado";
+var mnemonic = "wasp author robot brown vocal immune gentle sheriff ugly finger soap bottom";

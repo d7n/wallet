@@ -1,1 +1,1 @@
-var mnemonic = "traffic observe timber finish jealous check brother enlist kingdom tail leopard rigid";
+var mnemonic = "setup acquire access grief cook journey series arrow love drastic adult expose";

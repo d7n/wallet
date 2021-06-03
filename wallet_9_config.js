@@ -1,1 +1,1 @@
-var mnemonic = "almost erode horror half maximum denial interest priority grain strike reopen carry";
+var mnemonic = "topic across rose erupt trumpet confirm remove cave onion print rare street";

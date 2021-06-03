@@ -1,1 +1,1 @@
-var mnemonic = "peanut finger walnut oil budget involve inside critic again foster deposit thought";
+var mnemonic = "neither purpose horse note runway room nurse weather gossip memory paddle foam";

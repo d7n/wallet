@@ -1,1 +1,1 @@
-var mnemonic = "aisle own can arrive degree easily pizza upper sound clinic stick portion";
+var mnemonic = "defy apple cotton ozone mix spin wash indicate notice dust car session";

@@ -1,1 +1,1 @@
-var mnemonic = "punch distance vital curve caught wire smoke genuine toilet inherit glove foil";
+var mnemonic = "they erupt object destroy parade afford fiber dismiss collect group choose ask";
