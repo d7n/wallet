@@ -1,1 +1,1 @@
-var mnemonic = "comic plug neglect rival pact zoo air choice ship example remain next";
+var mnemonic = "senior rather airport nephew test prepare foot metal over heavy amateur heavy";

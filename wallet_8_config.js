@@ -1,1 +1,1 @@
-var mnemonic = "notable unusual rabbit window trip kit race want feed shoulder history morning";
+var mnemonic = "census symbol mule update slam pudding artwork camp report must notable exhibit";

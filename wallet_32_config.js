@@ -1,1 +1,1 @@
-var mnemonic = "exercise lizard patrol suit lucky strike hollow drama hurry silent jeans blind";
+var mnemonic = "gas floor bean wage wife toe equip net valid quantum gather upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "expect winter arrive dish already yard unable exhibit drop approve cave exhibit";
+var mnemonic = "item tattoo under summer music bubble barrel public spirit eternal loan twice";

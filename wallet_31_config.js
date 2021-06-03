@@ -1,1 +1,1 @@
-var mnemonic = "pledge vehicle aware subway artist evil find muscle because symptom call amount";
+var mnemonic = "swear faculty recycle review spot there pluck sustain adapt wolf kit office";

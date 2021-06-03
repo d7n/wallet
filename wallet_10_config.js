@@ -1,1 +1,1 @@
-var mnemonic = "that anchor sentence bid unusual demise harbor alien wood hollow maze bleak";
+var mnemonic = "muscle marriage exhibit melt switch middle sail student yellow legal barely dirt";

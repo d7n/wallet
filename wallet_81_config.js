@@ -1,1 +1,1 @@
-var mnemonic = "nation power tennis couple staff fitness quote undo rather private seven aim";
+var mnemonic = "trial subway saddle lava ensure current bundle mobile twenty improve walnut just";

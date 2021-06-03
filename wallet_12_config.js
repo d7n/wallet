@@ -1,1 +1,1 @@
-var mnemonic = "benefit giant shrimp sport street kitchen discover metal ghost sail hammer film";
+var mnemonic = "bounce leaf depend slab travel indoor motor globe beef prosper pact goat";

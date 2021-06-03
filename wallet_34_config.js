@@ -1,1 +1,1 @@
-var mnemonic = "around among question motor vivid earth race company joke review public company";
+var mnemonic = "struggle pulse raise bright soft first neck cram kingdom try rival suspect";

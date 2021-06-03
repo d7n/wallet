@@ -1,1 +1,1 @@
-var mnemonic = "wisdom gaze ugly squirrel modify shiver cube spoil ready cable domain couple";
+var mnemonic = "rose wrong broken liquid another fade this cotton plunge rely program symptom";

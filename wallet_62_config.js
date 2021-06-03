@@ -1,1 +1,1 @@
-var mnemonic = "never lecture october hammer company shrimp ten glory sibling female real cross";
+var mnemonic = "spider fox target path say excite turtle brave van choose solid know";

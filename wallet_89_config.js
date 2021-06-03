@@ -1,1 +1,1 @@
-var mnemonic = "balance toast monster scrub planet quarter margin neglect seed negative reopen question";
+var mnemonic = "couple kite future plunge afford enter arena panther regret sketch deposit trophy";

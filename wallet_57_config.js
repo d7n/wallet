@@ -1,1 +1,1 @@
-var mnemonic = "harsh guitar aware skate tribe sweet rapid initial exchange ignore universe faint";
+var mnemonic = "casual urge grocery false news fence rescue track inform world since true";

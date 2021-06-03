@@ -1,1 +1,1 @@
-var mnemonic = "arena true dragon wonder orphan wire scorpion weird income diary game timber";
+var mnemonic = "pave buzz acquire have you real radio tape bulb solar sadness bulb";

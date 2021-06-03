@@ -1,1 +1,1 @@
-var mnemonic = "essay rival label goat rescue nephew chicken wheel fortune over around reward";
+var mnemonic = "ship suffer eager unit peace broom purity afford require wait oval comfort";

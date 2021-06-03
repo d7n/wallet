@@ -1,1 +1,1 @@
-var mnemonic = "suffer paper ozone toast vocal eternal switch teach gasp key athlete clog";
+var mnemonic = "basic van power shove lemon boost ivory nut copy possible pencil forest";

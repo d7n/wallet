@@ -1,1 +1,1 @@
-var mnemonic = "donkey vehicle night label square clinic truck tuition elbow forward essay endorse";
+var mnemonic = "couch zebra asthma reopen hint snake domain move reduce tone transfer top";

@@ -1,1 +1,1 @@
-var mnemonic = "consider wear boring defy monitor chuckle drive fire piece profit front clip";
+var mnemonic = "sheriff bid frame off avocado inform rug away city inquiry away spice";

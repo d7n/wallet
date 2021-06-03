@@ -1,1 +1,1 @@
-var mnemonic = "differ insane collect detail used ring brown game harbor raw tomato essence";
+var mnemonic = "bachelor foot electric bonus earn raise weird coil random donate wrong disagree";

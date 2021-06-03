@@ -1,1 +1,1 @@
-var mnemonic = "hybrid able side agree where crash spatial gauge smile soon buffalo patrol";
+var mnemonic = "mystery spray surprise taxi ramp warfare artist toilet refuse history eternal pink";

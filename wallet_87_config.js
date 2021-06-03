@@ -1,1 +1,1 @@
-var mnemonic = "peace worth daughter episode live capable actor fury behave super slam glimpse";
+var mnemonic = "decorate never turkey main again material average swear fix antique draw custom";

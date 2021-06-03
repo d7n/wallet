@@ -1,1 +1,1 @@
-var mnemonic = "used column sister pottery true kick anger duty confirm fiscal foot muffin";
+var mnemonic = "canal slow solar scrap shoulder book bubble suffer crumble dad mystery peanut";

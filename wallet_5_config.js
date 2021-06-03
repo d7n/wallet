@@ -1,1 +1,1 @@
-var mnemonic = "nose grocery gun caught sea enroll heart limit mix robust glass proof";
+var mnemonic = "rose marine radio deer nose helmet fatigue limit whisper stairs fan neither";

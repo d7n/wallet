@@ -1,1 +1,1 @@
-var mnemonic = "two victory pelican color giant cluster fashion select pepper summer tomorrow brick";
+var mnemonic = "endless bridge auction gain razor clock hole possible behave eager butter young";

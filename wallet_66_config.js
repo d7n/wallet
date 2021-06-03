@@ -1,1 +1,1 @@
-var mnemonic = "voyage hour vacuum you lock because patch fee task worry oblige fatigue";
+var mnemonic = "reopen secret lottery enhance dog enrich language dynamic lucky cool stereo barely";

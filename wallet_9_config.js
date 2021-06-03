@@ -1,1 +1,1 @@
-var mnemonic = "ocean equal earth smoke witness holiday cliff club bind letter pass swift";
+var mnemonic = "violin thank flame dove card tape echo undo lend casual hundred guard";

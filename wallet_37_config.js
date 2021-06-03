@@ -1,1 +1,1 @@
-var mnemonic = "betray ozone master virus bronze barely dwarf tip wood famous tube fortune";
+var mnemonic = "series cheese crouch churn choose bacon juice rebuild trick finger deposit shine";

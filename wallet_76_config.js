@@ -1,1 +1,1 @@
-var mnemonic = "turkey mistake float robust scissors increase that speed hair inject shoe island";
+var mnemonic = "income desert robot stadium catch soft sight merge month illegal debate champion";

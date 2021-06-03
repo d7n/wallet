@@ -1,1 +1,1 @@
-var mnemonic = "melody reopen wagon engine trick hidden left hurry rose mouse test neck";
+var mnemonic = "regret try install when vacuum cherry helmet sketch typical attitude leave bread";

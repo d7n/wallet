@@ -1,1 +1,1 @@
-var mnemonic = "sword topic arrow novel pluck since north pull patient pelican tube around";
+var mnemonic = "swarm hello crack simple stone lumber syrup time cushion delay bless ginger";

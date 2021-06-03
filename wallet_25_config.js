@@ -1,1 +1,1 @@
-var mnemonic = "people edge unaware rapid food sausage add require language chronic spice kite";
+var mnemonic = "nuclear derive badge chronic valve monitor manage build genre antenna tobacco social";

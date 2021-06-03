@@ -1,1 +1,1 @@
-var mnemonic = "paddle friend umbrella fire pony magic knock lounge canoe cute devote inner";
+var mnemonic = "train jungle pretty state spare bachelor merge segment knife elbow expose random";

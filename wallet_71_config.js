@@ -1,1 +1,1 @@
-var mnemonic = "mean youth reopen sea acquire identify mystery youth choose orphan mother coffee";
+var mnemonic = "peace visa brain staff hover blossom green heart top casual chest sock";

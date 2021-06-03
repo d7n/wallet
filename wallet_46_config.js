@@ -1,1 +1,1 @@
-var mnemonic = "hunt lunar jeans fit gun help message bind blast wait present spray";
+var mnemonic = "disagree harsh illegal client similar head pigeon bar shrimp warm dilemma sea";

@@ -1,1 +1,1 @@
-var mnemonic = "employ merit clerk make clown resemble flag sudden security what element expect";
+var mnemonic = "exotic artist crop mixed adjust smart truth wood doll common venue other";

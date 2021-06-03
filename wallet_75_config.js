@@ -1,1 +1,1 @@
-var mnemonic = "leaf explain skate flavor pattern panel draft assault off hint fiber lazy";
+var mnemonic = "never intact oppose morning copy crystal silly salt recycle lounge pond sound";

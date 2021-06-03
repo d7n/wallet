@@ -1,1 +1,1 @@
-var mnemonic = "axis clog staff pyramid frame above jeans reunion rail vital cruise forest";
+var mnemonic = "steak north abandon melt average become helmet trouble patient stage pull excess";

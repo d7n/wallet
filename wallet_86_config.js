@@ -1,1 +1,1 @@
-var mnemonic = "section also depend plug orient define search sudden choose music erupt entire";
+var mnemonic = "either woman kick liberty sudden pond famous category satisfy album planet direct";

@@ -1,1 +1,1 @@
-var mnemonic = "melt lamp random job quantum there goat cigar flight ill olympic guard";
+var mnemonic = "liar milk system endorse design acquire emotion cost curious icon front water";

@@ -1,1 +1,1 @@
-var mnemonic = "budget aim under pill window rescue output click aim bind blur basic";
+var mnemonic = "rookie relief gesture comfort spike rifle answer supreme north enter much nice";

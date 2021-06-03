@@ -1,1 +1,1 @@
-var mnemonic = "search settle clerk scorpion pact neither tourist blade riot grunt sauce clerk";
+var mnemonic = "stadium motor velvet sauce legal program bean egg label silent lens timber";

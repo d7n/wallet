@@ -1,1 +1,1 @@
-var mnemonic = "sea elite capital diamond reject dad unfold wing message jelly wide heavy";
+var mnemonic = "boss cruise prepare cousin youth raise rent chaos filter surround oak echo";

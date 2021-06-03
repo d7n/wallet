@@ -1,1 +1,1 @@
-var mnemonic = "rural pet egg demise once switch element vault funny invite magnet space";
+var mnemonic = "sustain clever quantum arrow shrimp expire bunker fetch toilet unable antique barely";

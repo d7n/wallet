@@ -1,1 +1,1 @@
-var mnemonic = "youth soldier smart radio wrong funny antenna error benefit logic plunge resemble";
+var mnemonic = "unfair trust protect goddess spirit renew unique field exchange chalk good blue";

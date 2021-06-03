@@ -1,1 +1,1 @@
-var mnemonic = "ceiling alarm price raw bacon coconut boil sniff object husband manage remind";
+var mnemonic = "steel toe flock purpose title impose pluck scorpion nephew crush immense cash";

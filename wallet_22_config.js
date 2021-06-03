@@ -1,1 +1,1 @@
-var mnemonic = "second rose talk cloud light canal jungle glue art moon sell push";
+var mnemonic = "disagree hip oval image one opera asthma paddle glory action owner regret";

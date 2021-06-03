@@ -1,1 +1,1 @@
-var mnemonic = "frozen decrease whip forest jazz subject desk thunder cause water trick girl";
+var mnemonic = "educate advance extra produce snow alien cross clump purpose laugh chat wear";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla universe brain wrap power talent modify fresh destroy wonder forest attend";
+var mnemonic = "digital section search hollow bag energy trouble market satisfy dose riot guitar";

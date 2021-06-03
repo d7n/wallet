@@ -1,1 +1,1 @@
-var mnemonic = "industry icon write matter limit pond vehicle uphold merge anger explain over";
+var mnemonic = "inquiry off dirt firm tree execute salute settle book swear chef loud";

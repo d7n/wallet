@@ -1,1 +1,1 @@
-var mnemonic = "tunnel wear pelican arm elegant novel forward raccoon vivid sand pudding then";
+var mnemonic = "bulk casino crouch silver plug rescue budget ramp carry path sorry fruit";

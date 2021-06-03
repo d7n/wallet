@@ -1,1 +1,1 @@
-var mnemonic = "sunset turkey kangaroo spell silly upper shine harsh correct globe timber spread";
+var mnemonic = "body cargo key scrub road region tired palace public slush burst maple";

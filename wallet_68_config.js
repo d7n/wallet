@@ -1,1 +1,1 @@
-var mnemonic = "sample dream develop spot sign ahead canoe enforce orange control shuffle sphere";
+var mnemonic = "puzzle web history borrow similar cruise dwarf desert fade category day tank";

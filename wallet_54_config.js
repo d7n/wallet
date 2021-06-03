@@ -1,1 +1,1 @@
-var mnemonic = "canvas squeeze enforce struggle year world bring catch visual special thought tag";
+var mnemonic = "typical loan dutch please analyst car angry sunny want regular belt alley";

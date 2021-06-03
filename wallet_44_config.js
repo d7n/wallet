@@ -1,1 +1,1 @@
-var mnemonic = "dove image poem oxygen upon pizza next drum draw habit humble begin";
+var mnemonic = "work brick bulb exhaust marine slice awful mercy moment ecology sustain arrange";

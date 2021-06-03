@@ -1,1 +1,1 @@
-var mnemonic = "clean wall high gossip delay shop melody meadow inflict skull word elevator";
+var mnemonic = "level short holiday sketch major panic tape space soon neglect leaf eye";

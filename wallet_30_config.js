@@ -1,1 +1,1 @@
-var mnemonic = "tuna differ security fetch planet elite allow local ball inform affair dragon";
+var mnemonic = "slim shuffle near lab surprise market treat ask chat style priority aware";

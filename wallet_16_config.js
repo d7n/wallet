@@ -1,1 +1,1 @@
-var mnemonic = "outer deny almost whale later virus globe vocal pitch slide february syrup";
+var mnemonic = "pitch pilot disagree write urban indoor joke blind prepare athlete arrange core";

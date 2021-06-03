@@ -1,1 +1,1 @@
-var mnemonic = "lucky spray business vessel fee kidney bracket else sing border glad sunset";
+var mnemonic = "chunk isolate much boring buzz again stomach illegal capable forum river airport";

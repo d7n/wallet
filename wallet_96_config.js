@@ -1,1 +1,1 @@
-var mnemonic = "imitate cupboard input such scatter history hobby expect smooth innocent spray quit";
+var mnemonic = "lawsuit alley movie jungle start gorilla effort element midnight crisp cry naive";

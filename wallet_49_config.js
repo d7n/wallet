@@ -1,1 +1,1 @@
-var mnemonic = "advance squirrel abandon never reflect begin assist please erase salmon tooth embark";
+var mnemonic = "female science mind weird coconut noise involve excess type act casual zoo";

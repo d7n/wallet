@@ -1,1 +1,1 @@
-var mnemonic = "pupil gaze pole quiz plug obey town patch slam letter stadium tone";
+var mnemonic = "surround shell hair young mansion divert zoo design stool mimic symbol rabbit";

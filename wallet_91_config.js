@@ -1,1 +1,1 @@
-var mnemonic = "live sphere couple negative move federal salmon brother roast lazy volume belt";
+var mnemonic = "gadget prepare salon lyrics detect split galaxy payment wave tent journey review";

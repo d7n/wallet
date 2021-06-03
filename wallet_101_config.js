@@ -1,1 +1,1 @@
-var mnemonic = "curious defy scare grant senior merry knife meadow index green erode top";
+var mnemonic = "health wrap delay machine already vacuum arrive nominee bacon talent journey dolphin";

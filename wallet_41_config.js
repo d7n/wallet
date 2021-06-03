@@ -1,1 +1,1 @@
-var mnemonic = "settle lucky soap army entire smart retreat right under wave caution alley";
+var mnemonic = "door sell awkward pilot link media sorry supreme beach leopard charge elegant";

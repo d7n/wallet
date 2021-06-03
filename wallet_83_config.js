@@ -1,1 +1,1 @@
-var mnemonic = "property pulse peasant nature hood lady dragon snake dizzy oblige popular arctic";
+var mnemonic = "argue income solution slender demand screen shoe pony plastic always birth liquid";

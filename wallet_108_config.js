@@ -1,1 +1,1 @@
-var mnemonic = "thunder boat crop area else chunk pioneer left margin follow bracket run";
+var mnemonic = "sand kangaroo inspire gown nerve essay affair deny together coach wagon banana";

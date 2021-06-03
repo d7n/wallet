@@ -1,1 +1,1 @@
-var mnemonic = "text much sunny toddler usage grass inspire crew gold require arm pond";
+var mnemonic = "lecture effort allow head hard impact erase kidney cabin park imitate retire";

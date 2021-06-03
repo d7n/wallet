@@ -1,1 +1,1 @@
-var mnemonic = "approve settle vault quit only wet symptom polar economy ceiling derive assume";
+var mnemonic = "depend farm glance relief size huge pass shiver rough address human truly";

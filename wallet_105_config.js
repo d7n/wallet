@@ -1,1 +1,1 @@
-var mnemonic = "fruit gauge solution junior market fetch wage select column custom team club";
+var mnemonic = "harvest above odor boring dragon parrot coil cloud giraffe distance love fix";

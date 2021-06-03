@@ -1,1 +1,1 @@
-var mnemonic = "visa absurd buffalo fun joke zone build result leisure piano love acquire";
+var mnemonic = "scale fun loop quote border fix blast legend shine odor canal pioneer";

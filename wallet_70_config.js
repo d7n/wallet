@@ -1,1 +1,1 @@
-var mnemonic = "finger mosquito wash decade armed keep pair favorite frame elbow company dad";
+var mnemonic = "milk vapor eagle once meat speak rival cross ready unusual plate car";

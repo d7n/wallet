@@ -1,1 +1,1 @@
-var mnemonic = "autumn earn online ripple follow approve tortoise spring birth assist time copy";
+var mnemonic = "differ imitate middle tomorrow gas cheese reopen ginger banana tiny betray traffic";

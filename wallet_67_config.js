@@ -1,1 +1,1 @@
-var mnemonic = "gold frame ethics grape napkin meat bean sausage wine worth width volume";
+var mnemonic = "fine world oil length range soul primary core melt fix clever power";

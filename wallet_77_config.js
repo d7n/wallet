@@ -1,1 +1,1 @@
-var mnemonic = "bacon stool adapt figure tissue kick word unaware kangaroo tomorrow rubber elite";
+var mnemonic = "rifle basic weapon already again domain small spoil business dose fatal spawn";

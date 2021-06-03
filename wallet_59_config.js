@@ -1,1 +1,1 @@
-var mnemonic = "poem subject goddess body pill prison farm trick avocado acoustic cover group";
+var mnemonic = "together leaf hungry gate tiny between mercy doll category cheap hour account";

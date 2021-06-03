@@ -1,1 +1,1 @@
-var mnemonic = "eye again banner magnet figure fuel divorce music gown exhibit resource garage";
+var mnemonic = "ceiling injury stage miss anxiety zone remain ostrich fluid butter dove vivid";

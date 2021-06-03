@@ -1,1 +1,1 @@
-var mnemonic = "dog omit absurd aspect author exit above bulk shiver remind dose gossip";
+var mnemonic = "suggest found eagle design tree noodle pause crumble day symptom viable also";

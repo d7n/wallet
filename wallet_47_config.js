@@ -1,1 +1,1 @@
-var mnemonic = "banana sail hard rain six swift mad tube loan busy camp local";
+var mnemonic = "foam clean ordinary lecture shaft typical call donate dynamic churn famous stone";

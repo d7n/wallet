@@ -1,1 +1,1 @@
-var mnemonic = "into carpet output pact drill degree gauge unable afford wife candy captain";
+var mnemonic = "paper float actual travel artwork tackle donate knock hotel can alcohol fatigue";

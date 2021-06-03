@@ -1,1 +1,1 @@
-var mnemonic = "gauge observe cause addict melody bench bird soccer wine forward movie valve";
+var mnemonic = "evoke treat animal mail area tissue kingdom system buzz reject tackle oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "hub sudden nurse enter skirt aerobic vacant guilt poverty month depend magic";
+var mnemonic = "banana young upset melt critic sunset bike reason lemon then bleak need";

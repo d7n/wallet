@@ -1,1 +1,1 @@
-var mnemonic = "large private believe satisfy umbrella review badge orient raven arm club please";
+var mnemonic = "fringe miracle rookie comfort raw ahead attract setup unit message brand brick";

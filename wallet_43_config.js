@@ -1,1 +1,1 @@
-var mnemonic = "wine giggle exclude glide sword volume mansion gasp tooth pool chunk same";
+var mnemonic = "unusual middle warm human reason solution dash erosion sell prize much fortune";

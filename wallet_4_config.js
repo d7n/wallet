@@ -1,1 +1,1 @@
-var mnemonic = "draw ski help fatal disease truly describe sail join broom tragic merit";
+var mnemonic = "elder finish alert attract open identify snack science bid sock ostrich congress";

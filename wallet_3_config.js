@@ -1,1 +1,1 @@
-var mnemonic = "math used deny little help leisure addict catch giggle convince grape rich";
+var mnemonic = "mutual peace dutch grit fortune void belt ceiling spoil public hockey movie";

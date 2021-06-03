@@ -1,1 +1,1 @@
-var mnemonic = "relax woman burger above author wasp sorry habit vacant betray saddle element";
+var mnemonic = "rescue toddler timber panel dry echo response own swallow label cycle name";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure exotic settle fetch category depend frost bird fortune family inquiry uncle";
+var mnemonic = "shuffle creek receive air alcohol confirm raven grid admit plastic exile project";

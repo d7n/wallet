@@ -1,1 +1,1 @@
-var mnemonic = "board shock soft goose swarm cargo also ketchup company lab gift nest";
+var mnemonic = "color glue kangaroo glimpse tumble aunt manage shadow noodle entry raise spawn";

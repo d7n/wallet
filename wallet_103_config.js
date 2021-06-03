@@ -1,1 +1,1 @@
-var mnemonic = "awful mansion pizza enlist unfair coffee response muscle spring point into quantum";
+var mnemonic = "smart ordinary parent effort mass shop ship task element velvet betray pull";

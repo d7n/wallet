@@ -1,1 +1,1 @@
-var mnemonic = "cattle daughter when scene clerk tray road dismiss hood desert oppose hurdle";
+var mnemonic = "clever recycle mouse want slogan minimum pear pudding style turkey radar divert";

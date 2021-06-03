@@ -1,1 +1,1 @@
-var mnemonic = "legend foster card van muffin apart worry egg sniff fancy twice spell";
+var mnemonic = "dwarf custom rain dress priority slim vanish fine conduct ski connect hybrid";

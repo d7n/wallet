@@ -1,1 +1,1 @@
-var mnemonic = "laugh biology orbit meadow caught vague brush educate hello stay powder leisure";
+var mnemonic = "typical kangaroo saddle wink diamond shy cycle glance arrest flavor hard royal";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue raccoon pitch pink icon will universe fabric high duty kick argue";
+var mnemonic = "wide employ custom devote chicken prefer brave voyage inhale century leisure aspect";
