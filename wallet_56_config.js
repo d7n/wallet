@@ -1,1 +1,1 @@
-var mnemonic = "clay current slam grocery apology logic emotion rebuild gesture useful home latin";
+var mnemonic = "can arrow person hood recycle timber pitch orchard basic vanish crush shadow";

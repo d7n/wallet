@@ -1,1 +1,1 @@
-var mnemonic = "badge attract make open snack trust theory rain glory hurry speed cost";
+var mnemonic = "phone broken human car front share husband charge emotion buffalo steak cabbage";

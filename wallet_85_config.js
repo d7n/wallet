@@ -1,1 +1,1 @@
-var mnemonic = "blood mushroom tenant link aspect glory pass rebuild waste soda hard caught";
+var mnemonic = "alcohol empower tape limit awkward about armor unable giggle ethics seek lecture";

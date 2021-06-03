@@ -1,1 +1,1 @@
-var mnemonic = "erode parade obscure rain waste much sphere filter journey engine observe glide";
+var mnemonic = "truth exhibit kiwi say change then evidence load income evoke monster proud";

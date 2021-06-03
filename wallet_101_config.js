@@ -1,1 +1,1 @@
-var mnemonic = "belt kitchen tent happy hip tribe simple daring blade order original depart";
+var mnemonic = "relax love talk melody kid wire palace beauty city public meat sick";

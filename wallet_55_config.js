@@ -1,1 +1,1 @@
-var mnemonic = "skill future lobster elder ride winter bamboo few pen analyst inspire smooth";
+var mnemonic = "pet glide portion ritual cross ocean identify park keen paddle tail regret";

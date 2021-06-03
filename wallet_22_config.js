@@ -1,1 +1,1 @@
-var mnemonic = "leave remind traffic license spend roof oval bag toss shoulder local riot";
+var mnemonic = "lamp shrimp actual shadow alter raven involve neutral title tube safe banner";

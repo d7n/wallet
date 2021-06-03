@@ -1,1 +1,1 @@
-var mnemonic = "soccer merry boost mixture client clerk tourist forum elevator must sort disagree";
+var mnemonic = "entire claw water major when tilt monkey zebra great thank bus slender";

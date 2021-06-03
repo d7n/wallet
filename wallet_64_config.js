@@ -1,1 +1,1 @@
-var mnemonic = "palace vault title energy accident tonight ball warfare anxiety fiscal fruit moral";
+var mnemonic = "tuna start plastic vapor satoshi unable token omit soccer hungry saddle emotion";

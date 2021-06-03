@@ -1,1 +1,1 @@
-var mnemonic = "enemy market quarter west where silent hungry tilt wet finger ready hawk";
+var mnemonic = "frozen section process lab hurry ride object home emotion alarm decide slot";

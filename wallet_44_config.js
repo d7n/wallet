@@ -1,1 +1,1 @@
-var mnemonic = "entry mandate hero drill seven dream walk attack tired wolf urge duck";
+var mnemonic = "like post stay pepper reveal settle eternal van away travel cabbage decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "animal entire more outside crawl vehicle toilet cause lend used razor height";
+var mnemonic = "upon salmon foam anger discover target company equal victory hunt acquire laptop";

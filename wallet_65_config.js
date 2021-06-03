@@ -1,1 +1,1 @@
-var mnemonic = "flush solid decorate cup village remember village razor magic tank normal chair";
+var mnemonic = "order trophy fit survey distance shift cabin nuclear cause island pony aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "news aware moon stereo hand crunch mule item tower away yellow rule";
+var mnemonic = "candy draw rabbit boring cloth vocal favorite depend quick unknown impose phone";

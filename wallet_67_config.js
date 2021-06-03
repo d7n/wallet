@@ -1,1 +1,1 @@
-var mnemonic = "base laugh silver make hour come wet axis acoustic film recall tide";
+var mnemonic = "exact quote awesome input path certain orphan grief hip oyster genuine network";

@@ -1,1 +1,1 @@
-var mnemonic = "expire link marriage crowd cart among credit left only include oxygen execute";
+var mnemonic = "city speed solution nuclear slogan cloud habit cargo fossil carpet mouse omit";

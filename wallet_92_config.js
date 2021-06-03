@@ -1,1 +1,1 @@
-var mnemonic = "train rigid theme hill open bread unusual myself peanut boil amused core";
+var mnemonic = "noodle turn please joy puppy awkward catch same dirt worry shift album";

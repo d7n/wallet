@@ -1,1 +1,1 @@
-var mnemonic = "joke shed clap rebuild street cable reason east fix debate face blade";
+var mnemonic = "happy bitter stuff winter secret arena laugh couch churn scale broom wife";

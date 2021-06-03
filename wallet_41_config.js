@@ -1,1 +1,1 @@
-var mnemonic = "sunny tooth dress brief grid genre produce estate round chief empower broccoli";
+var mnemonic = "omit admit message palm oblige height clinic stuff find kidney number sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal cruel jump treat shove myth arch fever spice post behind lottery";
+var mnemonic = "audit hollow else luxury genuine keen method rescue peace dinner pipe photo";

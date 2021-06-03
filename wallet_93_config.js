@@ -1,1 +1,1 @@
-var mnemonic = "they abstract box age minor isolate country upper swim clutch gentle zone";
+var mnemonic = "inflict cannon garlic fitness color wise enlist disease thrive rack away purchase";

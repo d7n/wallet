@@ -1,1 +1,1 @@
-var mnemonic = "venue already strike raw tilt market bullet cannon trial speak verify gadget";
+var mnemonic = "pluck memory letter pigeon lunch filter topple traffic couch embody squeeze wash";

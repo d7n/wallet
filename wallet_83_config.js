@@ -1,1 +1,1 @@
-var mnemonic = "rural test normal sport actress access inner absent upper proof toast swing";
+var mnemonic = "clerk stand aisle asthma kid mutual spare chalk gold fossil dwarf ten";

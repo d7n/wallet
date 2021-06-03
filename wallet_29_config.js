@@ -1,1 +1,1 @@
-var mnemonic = "tone under three wage dizzy opera drive edge nerve cool polar radio";
+var mnemonic = "economy inmate electric fruit fame melt circle fork switch friend spice cargo";

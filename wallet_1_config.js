@@ -1,1 +1,1 @@
-var mnemonic = "trim crime visa finish object ginger enjoy front mystery gun crush junior";
+var mnemonic = "obvious moral soon picture toy online grant domain erupt magnet rhythm grace";

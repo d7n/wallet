@@ -1,1 +1,1 @@
-var mnemonic = "eager cruel stone nose dad achieve fetch lady animal cube seat conduct";
+var mnemonic = "tumble heavy loan insect struggle method absorb patrol rather enable guitar vacant";

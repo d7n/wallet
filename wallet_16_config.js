@@ -1,1 +1,1 @@
-var mnemonic = "venue sweet shrimp actress dash curve excess van now ten broken brief";
+var mnemonic = "damp cotton comfort dune uncover science trigger cinnamon champion supreme ill fitness";

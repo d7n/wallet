@@ -1,1 +1,1 @@
-var mnemonic = "nominee flag great daring fatigue carpet dream athlete fuel make green hurdle";
+var mnemonic = "spoon claw mountain clog project sure weapon host discover document meat rookie";

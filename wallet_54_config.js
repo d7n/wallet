@@ -1,1 +1,1 @@
-var mnemonic = "sad skate glare amount zero island predict youth sick amazing just such";
+var mnemonic = "swing erosion enact give olive fury debate add chair approve wreck awesome";

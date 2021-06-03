@@ -1,1 +1,1 @@
-var mnemonic = "raccoon bunker series move pumpkin palm whip appear pulse offer afford opera";
+var mnemonic = "define ghost business fly humble rice boy around aerobic simple fly talk";

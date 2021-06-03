@@ -1,1 +1,1 @@
-var mnemonic = "animal bulb gate ice cook roof era slam march nephew cherry zoo";
+var mnemonic = "prison recycle person lion slogan language sausage face suit know shuffle cancel";

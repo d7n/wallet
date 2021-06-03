@@ -1,1 +1,1 @@
-var mnemonic = "grief front wedding opera palm repeat offer vendor sun neck equip sell";
+var mnemonic = "comic feed allow ability rate gate return coyote dolphin metal guard column";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie evolve riot unfair party large insane autumn toward border outdoor account";
+var mnemonic = "gasp island material army bread music volume zebra now clerk option hood";

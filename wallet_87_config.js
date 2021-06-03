@@ -1,1 +1,1 @@
-var mnemonic = "payment gold rebuild sweet slide drive sugar grow finish penalty cart border";
+var mnemonic = "license final license stereo erupt point curious balcony gun thrive grain dumb";

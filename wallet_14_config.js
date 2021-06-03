@@ -1,1 +1,1 @@
-var mnemonic = "crash slight trust town eight grace drama output spend industry ocean coil";
+var mnemonic = "absent atom lens family enroll ketchup rail awake agent brown glory pair";

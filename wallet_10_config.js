@@ -1,1 +1,1 @@
-var mnemonic = "vacant lens sister afford will buzz clap supply happy can trick silly";
+var mnemonic = "point pig return basket idle unaware jar book bulb olive rifle veteran";

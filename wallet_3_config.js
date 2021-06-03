@@ -1,1 +1,1 @@
-var mnemonic = "alone shuffle wasp tobacco neglect kidney address gauge hollow hunt badge fluid";
+var mnemonic = "negative airport unveil file goat lend permit evolve toe sibling detect alarm";

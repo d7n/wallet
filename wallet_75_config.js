@@ -1,1 +1,1 @@
-var mnemonic = "spring exercise primary breeze clock thank shadow syrup weird double coconut gather";
+var mnemonic = "ordinary panda candy coach kid brief aim chief assault effort income truck";

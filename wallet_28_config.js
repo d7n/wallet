@@ -1,1 +1,1 @@
-var mnemonic = "limit kick oak connect jaguar cake answer rhythm body organ ignore gospel";
+var mnemonic = "indoor legend spike odor test agree cigar horn lamp crew casual toward";

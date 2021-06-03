@@ -1,1 +1,1 @@
-var mnemonic = "board present figure tourist extend sample summer kiwi tide explain scorpion plunge";
+var mnemonic = "enrich victory clap thumb draft season grape issue embark stomach ordinary tail";

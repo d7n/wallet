@@ -1,1 +1,1 @@
-var mnemonic = "heavy cannon worth false dynamic brain six asset toilet still fresh essay";
+var mnemonic = "wire fortune estate team margin caution original produce canoe mesh brick bunker";

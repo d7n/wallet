@@ -1,1 +1,1 @@
-var mnemonic = "leisure approve congress exile citizen room similar forest sail merit disagree drink";
+var mnemonic = "burden february shine trouble tissue robust tenant ice castle roast mobile arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow basic bike bridge company assume survey morning mention helmet ticket visit";
+var mnemonic = "wheel shy aisle grocery used review aisle century food cotton thumb select";

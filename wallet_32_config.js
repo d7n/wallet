@@ -1,1 +1,1 @@
-var mnemonic = "theory retire animal reduce conduct lab few situate bike exercise bulb zoo";
+var mnemonic = "grass regular fix ensure mystery frozen fat dismiss cannon around payment clown";

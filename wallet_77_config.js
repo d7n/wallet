@@ -1,1 +1,1 @@
-var mnemonic = "wish multiply dish blind sail hotel sound round match cruel surprise box";
+var mnemonic = "mix text cause obey action flight vital slow grain cake poverty betray";

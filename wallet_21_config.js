@@ -1,1 +1,1 @@
-var mnemonic = "lake fan question flee elephant also merge corn slush angle expand wonder";
+var mnemonic = "dirt squeeze matter crouch wash mutual brass future ship such lounge hero";

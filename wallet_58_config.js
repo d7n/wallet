@@ -1,1 +1,1 @@
-var mnemonic = "brown young brave hamster cruise blood gate eye crash subway wheel wrong";
+var mnemonic = "silent quiz lobster level click donor category help ancient beyond enhance shop";

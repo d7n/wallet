@@ -1,1 +1,1 @@
-var mnemonic = "habit fat hover estate expect bounce change learn floor narrow index candy";
+var mnemonic = "silver inside balance morning tongue digital erupt life spoil dash couch sail";

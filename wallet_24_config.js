@@ -1,1 +1,1 @@
-var mnemonic = "night remember tribe siege argue leopard oblige mercy output come fish crunch";
+var mnemonic = "muffin attack lounge they badge since cram member bullet silly vintage fabric";

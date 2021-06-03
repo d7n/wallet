@@ -1,1 +1,1 @@
-var mnemonic = "seat try team choose board gym opera early dragon able average small";
+var mnemonic = "cupboard bottom wait round obtain puppy tumble proof valve limit border age";

@@ -1,1 +1,1 @@
-var mnemonic = "habit arch hover code dream retreat weasel master life plug fame donkey";
+var mnemonic = "develop mom grit sail pave flip route diamond sleep click luxury garlic";

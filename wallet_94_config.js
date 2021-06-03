@@ -1,1 +1,1 @@
-var mnemonic = "mistake cloth obey sad law gain mass below oyster bind write pole";
+var mnemonic = "pledge whisper select mango cinnamon pitch screen stadium canyon layer hard few";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase enroll brown high swamp quarter used today achieve exhibit voyage wait";
+var mnemonic = "theme ecology rescue tomorrow script festival copy candy inch uphold report layer";

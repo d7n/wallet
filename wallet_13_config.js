@@ -1,1 +1,1 @@
-var mnemonic = "when run will drum pattern toss apology fetch labor slab admit pet";
+var mnemonic = "knife diamond eager tattoo winter lava reform spoon mandate cave tunnel result";

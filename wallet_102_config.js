@@ -1,1 +1,1 @@
-var mnemonic = "camp hip nut craft left scout cook leg kick design adjust repair";
+var mnemonic = "entire radar canal open airport alcohol anxiety volcano gym prison base carpet";

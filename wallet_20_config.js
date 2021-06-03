@@ -1,1 +1,1 @@
-var mnemonic = "spare girl climb flush rice sample flock also embark absent toddler sport";
+var mnemonic = "tail physical sock blame city wage rather sing maid appear peanut evil";

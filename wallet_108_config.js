@@ -1,1 +1,1 @@
-var mnemonic = "pipe peace harsh advice upon rib sport vintage vehicle rally small drive";
+var mnemonic = "garden radar wheat journey sound pitch cotton fiscal shadow limb kidney robust";

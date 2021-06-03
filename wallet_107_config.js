@@ -1,1 +1,1 @@
-var mnemonic = "promote wolf puppy volcano luggage ordinary spring logic camera slice only stereo";
+var mnemonic = "moon crucial mesh pitch sheriff protect arch emerge govern perfect tennis identify";

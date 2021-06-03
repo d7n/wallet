@@ -1,1 +1,1 @@
-var mnemonic = "daring sugar super toe quit outer lab video army risk undo scale";
+var mnemonic = "eye armed equal demand buyer sister improve beauty quote senior reopen welcome";

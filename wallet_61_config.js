@@ -1,1 +1,1 @@
-var mnemonic = "lecture wood draft left tiger neck ring thunder vocal proof prosper grid";
+var mnemonic = "bone retreat little tackle easy amused confirm huge mention receive earn must";

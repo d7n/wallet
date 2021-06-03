@@ -1,1 +1,1 @@
-var mnemonic = "gas spice anger scan athlete box poverty march south catalog spike return";
+var mnemonic = "volume faith obscure young soul winter mutual reject glance decline vote attack";

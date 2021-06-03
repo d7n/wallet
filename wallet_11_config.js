@@ -1,1 +1,1 @@
-var mnemonic = "wheel catalog like rice wine lucky taxi gain result unfair gasp stem";
+var mnemonic = "laundry kick price now canal victory october buddy someone fragile skin chicken";

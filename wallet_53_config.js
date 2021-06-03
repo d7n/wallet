@@ -1,1 +1,1 @@
-var mnemonic = "orange salute joy dove plate decrease coyote bicycle degree shrimp captain pig";
+var mnemonic = "label luxury diary lady student meadow scout clump glory barely multiply dwarf";

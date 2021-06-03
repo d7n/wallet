@@ -1,1 +1,1 @@
-var mnemonic = "hungry search clap like quick original crack until room nothing arctic gym";
+var mnemonic = "marble inherit donor forward museum firm order moon sugar scene cool try";

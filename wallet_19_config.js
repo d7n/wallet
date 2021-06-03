@@ -1,1 +1,1 @@
-var mnemonic = "boil employ urge dizzy trust refuse busy horror candy nature defy agree";
+var mnemonic = "woman rival elephant prize mushroom rule defense save gaze purity advance volume";

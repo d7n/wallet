@@ -1,1 +1,1 @@
-var mnemonic = "hollow violin spy century turkey secret nose clinic foster squirrel clever float";
+var mnemonic = "property gap talent way february draft crop bus board west wealth chair";

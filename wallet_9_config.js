@@ -1,1 +1,1 @@
-var mnemonic = "alley angle enjoy wrap journey inspire iron struggle accuse police warrior isolate";
+var mnemonic = "mom tent cage plastic cement fever cushion orchard home current sorry adjust";

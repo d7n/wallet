@@ -1,1 +1,1 @@
-var mnemonic = "cousin bread corn ankle swear knife uncle neutral small used foam canoe";
+var mnemonic = "dream ketchup accuse duck issue crucial return smart patch balcony top cousin";

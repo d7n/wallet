@@ -1,1 +1,1 @@
-var mnemonic = "tree flash bargain antique tiger stool salmon original survey heart duty diary";
+var mnemonic = "spot assault follow whip skirt dad damp crystal sand speed twice burden";

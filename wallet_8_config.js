@@ -1,1 +1,1 @@
-var mnemonic = "example toast keep click shell creek napkin cliff monitor erosion present series";
+var mnemonic = "brief hair pear funny husband sadness another fame demand meadow despair fragile";

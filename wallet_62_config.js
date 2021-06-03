@@ -1,1 +1,1 @@
-var mnemonic = "innocent junior update pattern fiber flame ankle category damp tape spot wool";
+var mnemonic = "wife can hockey blast favorite sentence method cave stool siege yellow beach";

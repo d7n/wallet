@@ -1,1 +1,1 @@
-var mnemonic = "mixed mass push aerobic tail logic banner use siege photo glare trust";
+var mnemonic = "giraffe stool shield sunset zero equal patrol dirt salt welcome wisdom conduct";

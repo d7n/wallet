@@ -1,1 +1,1 @@
-var mnemonic = "orbit stomach spell rural power foot negative grape cover happy organ wrong";
+var mnemonic = "planet input cup change unfold best barrel apart session series brush item";

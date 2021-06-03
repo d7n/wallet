@@ -1,1 +1,1 @@
-var mnemonic = "hamster rent blade mystery curve scare resist blossom light kit other empty";
+var mnemonic = "dawn piano bleak salute cage elevator drop subway finger inner ramp toss";

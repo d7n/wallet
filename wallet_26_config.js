@@ -1,1 +1,1 @@
-var mnemonic = "train various soon actual address gym wreck globe real month canyon lumber";
+var mnemonic = "symptom better quit deputy great virus nature butter kiss rib rotate noodle";

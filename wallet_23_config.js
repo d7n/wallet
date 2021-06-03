@@ -1,1 +1,1 @@
-var mnemonic = "rude tomato rug select vocal cabin plug symptom thank obey utility isolate";
+var mnemonic = "slight crime believe bring gorilla family sister number vapor industry exhaust salt";

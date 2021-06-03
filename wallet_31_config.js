@@ -1,1 +1,1 @@
-var mnemonic = "blame giant dinosaur call online reason stable emotion trumpet stool dash wet";
+var mnemonic = "luggage sausage loud response alarm ghost tool friend mandate island busy seminar";

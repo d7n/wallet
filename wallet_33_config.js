@@ -1,1 +1,1 @@
-var mnemonic = "aware area borrow cattle job pitch rule staff exist lab bone opera";
+var mnemonic = "wire save secret logic top wait laugh deposit fossil crystal version just";

@@ -1,1 +1,1 @@
-var mnemonic = "gold suit infant mansion decorate bicycle pitch pull picture vital rocket survey";
+var mnemonic = "birth deal work cabin crouch limb maximum lock reopen buffalo oxygen spatial";

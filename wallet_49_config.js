@@ -1,1 +1,1 @@
-var mnemonic = "solar kit object exercise expose talent refuse notable mom endorse moon kit";
+var mnemonic = "divide biology garden poem diesel grape normal cruise gauge fit happy autumn";

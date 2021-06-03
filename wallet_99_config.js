@@ -1,1 +1,1 @@
-var mnemonic = "result tube special noble tool venue devote give advance sniff rabbit pledge";
+var mnemonic = "casual benefit hard skirt text pitch castle expose inmate obtain ready trumpet";

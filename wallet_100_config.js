@@ -1,1 +1,1 @@
-var mnemonic = "sense pistol chalk wing grit south buyer eight tunnel winter anchor promote";
+var mnemonic = "super chunk then teach hope ticket print attitude umbrella reduce mobile artefact";

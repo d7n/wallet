@@ -1,1 +1,1 @@
-var mnemonic = "grace census inhale lift basic motion giggle erosion race east flat make";
+var mnemonic = "prosper girl moon icon blossom choice assault brave awkward unusual ladder chair";

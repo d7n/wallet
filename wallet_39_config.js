@@ -1,1 +1,1 @@
-var mnemonic = "ugly same drip rent turkey wheat topic audit document midnight riot found";
+var mnemonic = "right tip shoulder enrich arrest early scout abandon town view fuel enjoy";

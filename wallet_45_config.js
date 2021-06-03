@@ -1,1 +1,1 @@
-var mnemonic = "result depend alcohol size you spice supreme search happy angle kite smart";
+var mnemonic = "solid cradle advice negative exact burst truck furnace file whisper range sheriff";

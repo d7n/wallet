@@ -1,1 +1,1 @@
-var mnemonic = "duty degree skull employ admit glance excess priority frog clump shoe hand";
+var mnemonic = "fog miss become cruel rural direct example happy crater south into sauce";

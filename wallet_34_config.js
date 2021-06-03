@@ -1,1 +1,1 @@
-var mnemonic = "type decrease flower frown aunt cushion destroy twist alarm dinner broken sock";
+var mnemonic = "undo glare spring cousin behind opera conduct pulp robot strategy raccoon fit";

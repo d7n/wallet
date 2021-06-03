@@ -1,1 +1,1 @@
-var mnemonic = "rabbit loan search guitar example same win pledge cinnamon agree cake fault";
+var mnemonic = "horse label fabric south pig banana narrow spread portion bargain pulse dog";

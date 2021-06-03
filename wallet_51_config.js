@@ -1,1 +1,1 @@
-var mnemonic = "material film then family mention tenant believe beef announce palace cattle trick";
+var mnemonic = "obtain drama mix boil bronze push spring hero culture energy fix science";
