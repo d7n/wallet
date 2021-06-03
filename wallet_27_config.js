@@ -1,1 +1,1 @@
-var mnemonic = "crazy clump spider total table isolate pig fault arrive rug busy keen";
+var mnemonic = "mixed acoustic magnet grow agree journey roast seek security screen access exact";

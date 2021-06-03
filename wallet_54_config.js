@@ -1,1 +1,1 @@
-var mnemonic = "bounce settle model emotion climb ozone gaze depart garage top aim chicken";
+var mnemonic = "domain control vote pigeon give eager primary accident risk gentle bring easily";

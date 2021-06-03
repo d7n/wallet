@@ -1,1 +1,1 @@
-var mnemonic = "elite time economy fuel pepper fade high bag seed custom cancel glue";
+var mnemonic = "wonder chaos require pave salmon valley liar design juice airport indoor negative";

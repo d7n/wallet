@@ -1,1 +1,1 @@
-var mnemonic = "panther ancient doll wood evolve boy festival camp fabric explain siege found";
+var mnemonic = "spy sponsor tooth faith blur truck improve entire destroy wild tongue tongue";

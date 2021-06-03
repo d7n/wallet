@@ -1,1 +1,1 @@
-var mnemonic = "finish flip hero foot large season dinner scrap situate stem rigid wool";
+var mnemonic = "salute insect swallow cart valley kid cake spoon torch own kit air";

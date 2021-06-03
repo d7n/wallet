@@ -1,1 +1,1 @@
-var mnemonic = "height sure parent hill note merit lock endless fury side diet inspire";
+var mnemonic = "spice session quarter peasant resource inherit spring trim pause country tent poem";

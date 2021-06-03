@@ -1,1 +1,1 @@
-var mnemonic = "donor scare palm know raw pig butter team pyramid quiz pond raise";
+var mnemonic = "submit perfect life apology pelican hover radio forum perfect hawk gown hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "much vanish wise rotate fade pear eye average install gift type hockey";
+var mnemonic = "chest leisure grocery bronze duty napkin lounge salute atom coyote elephant run";

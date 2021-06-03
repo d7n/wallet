@@ -1,1 +1,1 @@
-var mnemonic = "riot parade park require parrot aunt immense gasp stand fuel detail exit";
+var mnemonic = "receive ride dry cloth keep kid ask squeeze husband tennis fork snap";

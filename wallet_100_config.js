@@ -1,1 +1,1 @@
-var mnemonic = "actual science sound online supreme abuse corn clip razor chaos bird knock";
+var mnemonic = "shed bachelor ordinary twelve clay lounge addict cotton mosquito tube foster joy";

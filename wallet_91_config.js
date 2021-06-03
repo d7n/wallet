@@ -1,1 +1,1 @@
-var mnemonic = "never coil two vendor alert fit average topic arrest same patrol bubble";
+var mnemonic = "final concert scene sort stock spin girl risk field stairs increase carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "patient quick reform certain arrow brother debris year clarify snack fun bundle";
+var mnemonic = "blue mercy fork zone wheel absorb zebra sure cart lawsuit impact treat";

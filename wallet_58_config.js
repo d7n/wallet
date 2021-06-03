@@ -1,1 +1,1 @@
-var mnemonic = "cave size palace keep major area float shoot address sweet appear rice";
+var mnemonic = "case seed light ketchup retreat return flip enlist short alpha problem unveil";

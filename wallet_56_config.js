@@ -1,1 +1,1 @@
-var mnemonic = "defy open genuine grass kit fix able joy carry owner pair minor";
+var mnemonic = "destroy young bulk stand ozone soldier leisure train plastic rose bleak west";

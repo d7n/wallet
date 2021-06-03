@@ -1,1 +1,1 @@
-var mnemonic = "soap lobster appear rifle replace food orange purity umbrella nominee clap knife";
+var mnemonic = "october poet hidden pill coyote cabbage amateur text direct easily banana oblige";

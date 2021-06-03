@@ -1,1 +1,1 @@
-var mnemonic = "knock main own morning leave congress faith crumble orphan diesel boil armed";
+var mnemonic = "treat chalk genius word flower sail life voyage cinnamon huge badge vendor";

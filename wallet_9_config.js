@@ -1,1 +1,1 @@
-var mnemonic = "chapter filter mobile avoid artwork stomach neither original test snake inch stumble";
+var mnemonic = "walnut birth script original tape damage maze recall powder ocean canal punch";

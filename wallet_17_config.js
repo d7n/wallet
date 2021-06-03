@@ -1,1 +1,1 @@
-var mnemonic = "session seat exit long kind indicate another moral load special pause treat";
+var mnemonic = "finish again leopard dinosaur movie average suit huge still protect mule spot";

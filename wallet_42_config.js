@@ -1,1 +1,1 @@
-var mnemonic = "husband drill fish crucial habit ancient limb meat chimney hand beauty they";
+var mnemonic = "dust strong wild mouse coral pull evil athlete sea gasp surround know";

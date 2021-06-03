@@ -1,1 +1,1 @@
-var mnemonic = "estate humble clock day manual keen unlock truck luggage about argue vibrant";
+var mnemonic = "health problem village print gentle under muscle rookie gesture scatter tomato super";

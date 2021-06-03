@@ -1,1 +1,1 @@
-var mnemonic = "response right lyrics police lyrics topple volume draw section cargo width real";
+var mnemonic = "outdoor extend speak elevator lizard shuffle orbit walk tiny loan coil fiber";

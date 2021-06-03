@@ -1,1 +1,1 @@
-var mnemonic = "shadow drill skill initial arctic trial collect inside reveal rug gospel skirt";
+var mnemonic = "arena fat print manage poem modify garage plug habit scene garbage fork";

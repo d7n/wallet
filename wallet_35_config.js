@@ -1,1 +1,1 @@
-var mnemonic = "august purchase license gloom category waste chief page blind tumble armed crash";
+var mnemonic = "lucky grid then stuff bone ask unfair sauce fold warm produce distance";

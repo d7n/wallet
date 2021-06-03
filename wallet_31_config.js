@@ -1,1 +1,1 @@
-var mnemonic = "latin rich borrow buyer subway gaze build lens test pulp dragon virus";
+var mnemonic = "pulp artist bracket bracket lady bicycle portion medal merge weather excite actor";

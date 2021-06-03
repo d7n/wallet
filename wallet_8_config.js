@@ -1,1 +1,1 @@
-var mnemonic = "spider thought vote pelican essence plug twenty swap dolphin endless boost physical";
+var mnemonic = "ticket slender divide reform language begin object record citizen seed master ensure";

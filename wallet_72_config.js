@@ -1,1 +1,1 @@
-var mnemonic = "diet grass erode flat quiz surface large other walk afraid staff robot";
+var mnemonic = "night actress safe pool electric foot advance hire boss wish roast teach";

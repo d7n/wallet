@@ -1,1 +1,1 @@
-var mnemonic = "yellow false laugh virus oak risk warrior problem cement large section way";
+var mnemonic = "obscure fiscal tape ten guide winter guess situate anchor travel illness toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter head label table virus pause bind bounce soldier truck tent rely";
+var mnemonic = "absent always arrive brother twelve tomato spawn behind infant wife claw grocery";

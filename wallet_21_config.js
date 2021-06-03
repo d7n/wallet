@@ -1,1 +1,1 @@
-var mnemonic = "float crane feel grape sort west gather rice armed diesel rigid jar";
+var mnemonic = "shoulder walnut gesture attitude play flash misery biology fluid seek sentence van";

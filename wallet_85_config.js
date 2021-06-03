@@ -1,1 +1,1 @@
-var mnemonic = "convince unit zero document whale birth mosquito inflict ramp quick bubble exhaust";
+var mnemonic = "execute search bullet friend aisle live flock loan uphold pupil inflict cannon";

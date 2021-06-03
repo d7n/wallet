@@ -1,1 +1,1 @@
-var mnemonic = "silly special neck border huge truth valve false panda vanish volume kick";
+var mnemonic = "iron disorder answer dirt topple gravity aim submit abandon omit fiscal broom";

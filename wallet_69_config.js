@@ -1,1 +1,1 @@
-var mnemonic = "practice busy curtain attend talent gift stable inject average desert noodle broken";
+var mnemonic = "clinic cattle top maze soap horn admit nasty table photo elevator elegant";

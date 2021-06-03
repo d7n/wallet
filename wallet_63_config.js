@@ -1,1 +1,1 @@
-var mnemonic = "eagle renew increase mimic firm build danger ensure file nose infant sun";
+var mnemonic = "undo win boil wave notice riot rain tenant paddle announce supply table";

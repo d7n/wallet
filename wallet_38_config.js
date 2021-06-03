@@ -1,1 +1,1 @@
-var mnemonic = "umbrella cereal toddler salmon drill confirm tattoo sample rifle gas decide profit";
+var mnemonic = "night mass defense calm core cash gossip open dumb cradle author wave";

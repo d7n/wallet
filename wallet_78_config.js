@@ -1,1 +1,1 @@
-var mnemonic = "soldier lens icon rapid wrap hat waste dolphin list expire reject thumb";
+var mnemonic = "soldier prison taste twin invest account upset cook check under school pull";

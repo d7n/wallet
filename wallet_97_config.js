@@ -1,1 +1,1 @@
-var mnemonic = "coffee wealth mix cabin recipe scout empty glove twice invite chaos tired";
+var mnemonic = "drum need bitter head between paper alarm maze aunt measure arrive cat";

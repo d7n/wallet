@@ -1,1 +1,1 @@
-var mnemonic = "rabbit grief place syrup neck include rain property proud wisdom leg pepper";
+var mnemonic = "rack diary prepare define wall salmon kite milk photo hint sock tower";

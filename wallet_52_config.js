@@ -1,1 +1,1 @@
-var mnemonic = "basic dial inner avoid jealous discover daughter elite clip blanket mountain quarter";
+var mnemonic = "attitude employ bread sadness proud tray globe cute hat key orbit hole";

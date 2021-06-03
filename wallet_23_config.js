@@ -1,1 +1,1 @@
-var mnemonic = "noodle rug ship test scene weather laptop language devote smooth deliver skin";
+var mnemonic = "orange priority surround present enough valve cancel sort ancient recipe desk major";

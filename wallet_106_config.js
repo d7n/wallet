@@ -1,1 +1,1 @@
-var mnemonic = "feed roast top miss mosquito laptop six armed shuffle amused fringe sausage";
+var mnemonic = "unable unveil caution solve fan best cabbage tube furnace urge animal before";

@@ -1,1 +1,1 @@
-var mnemonic = "practice eager coach valley pony improve cute erase spy rain age broken";
+var mnemonic = "hunt keep response labor flag special better output slender visual era identify";

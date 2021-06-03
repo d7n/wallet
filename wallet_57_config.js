@@ -1,1 +1,1 @@
-var mnemonic = "cry easy margin stomach discover grain paddle jealous lawsuit bubble task long";
+var mnemonic = "charge ripple gentle leopard tail globe runway fun much combine thought analyst";

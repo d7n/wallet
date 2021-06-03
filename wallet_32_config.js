@@ -1,1 +1,1 @@
-var mnemonic = "lava there junior goat they drastic bless inhale foam pill release milk";
+var mnemonic = "match fruit easy glue elder prosper genre wealth blur damp smoke include";

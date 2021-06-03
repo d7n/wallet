@@ -1,1 +1,1 @@
-var mnemonic = "stereo mushroom little accident country online athlete know language lion awake plug";
+var mnemonic = "online empower glass goose sense teach rate cart similar empty knee vapor";

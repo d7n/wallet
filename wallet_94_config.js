@@ -1,1 +1,1 @@
-var mnemonic = "joke urban display off collect utility primary coffee draft method capital assault";
+var mnemonic = "major kiss quantum near dress couple eyebrow wire rough resource erode pony";

@@ -1,1 +1,1 @@
-var mnemonic = "thing vast shield modify cabbage normal bulb actress oven sweet curious joy";
+var mnemonic = "prison leopard east bleak half banner emerge punch boil lawsuit fossil prosper";

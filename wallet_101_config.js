@@ -1,1 +1,1 @@
-var mnemonic = "method tissue pipe filter skull bullet brief asthma salon miss finger surround";
+var mnemonic = "rough slide crash deliver jump cry year assist convince adapt style name";

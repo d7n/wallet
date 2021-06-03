@@ -1,1 +1,1 @@
-var mnemonic = "boring alpha jar element sea engage measure fashion soul muffin goose method";
+var mnemonic = "outside staff discover begin frost ancient friend good breeze inherit bind unable";

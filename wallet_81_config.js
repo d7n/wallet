@@ -1,1 +1,1 @@
-var mnemonic = "alert stock interest elegant roof barely blast fragile olympic another industry cargo";
+var mnemonic = "coffee torch movie poverty own resource wolf basic copper critic budget cost";

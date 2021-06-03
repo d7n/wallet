@@ -1,1 +1,1 @@
-var mnemonic = "exercise april verify tenant salmon album shine track type pupil area awesome";
+var mnemonic = "empty spatial share sad time device toilet waste sport spider shallow physical";

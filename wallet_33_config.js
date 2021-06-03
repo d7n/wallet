@@ -1,1 +1,1 @@
-var mnemonic = "ugly urge have carbon habit head sport invest legal list arrow naive";
+var mnemonic = "add brief long gasp green lobster apart sentence canoe rifle base choice";

@@ -1,1 +1,1 @@
-var mnemonic = "sting armor parrot limb decorate poem night poverty equip grief start ready";
+var mnemonic = "apart mom cave derive fish apple waste rival absurd team laundry quick";

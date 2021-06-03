@@ -1,1 +1,1 @@
-var mnemonic = "grass error useless worry market auto girl vivid pumpkin emotion question fruit";
+var mnemonic = "zebra fold belt bless trial lecture doll inhale shop flee early device";

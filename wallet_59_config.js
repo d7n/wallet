@@ -1,1 +1,1 @@
-var mnemonic = "rib flavor cactus motor gadget stool harbor hammer raccoon exist cause steel";
+var mnemonic = "donate worry holiday laugh plate sing sign library pistol stage miss fresh";

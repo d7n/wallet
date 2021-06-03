@@ -1,1 +1,1 @@
-var mnemonic = "visual blade volume baby husband bachelor curtain cart mad vault laugh club";
+var mnemonic = "hip picture kitchen bomb pill repair clog famous social equal hand soccer";

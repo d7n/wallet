@@ -1,1 +1,1 @@
-var mnemonic = "minor adjust economy obtain life follow search hint kitchen wheel depth couple";
+var mnemonic = "adult patient sponsor flip bracket main cattle nose spider owner broom heart";

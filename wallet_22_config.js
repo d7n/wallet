@@ -1,1 +1,1 @@
-var mnemonic = "walnut olympic project edge diet excite boat attitude risk vendor output dose";
+var mnemonic = "hazard crawl father fringe mother volume guard another bag jealous hamster hand";

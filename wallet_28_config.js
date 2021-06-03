@@ -1,1 +1,1 @@
-var mnemonic = "accuse unveil reward cheese sentence beyond cruise defense ride subject replace right";
+var mnemonic = "bunker pattern stuff cliff sand nasty random tooth satoshi grass sample assault";

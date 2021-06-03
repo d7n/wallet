@@ -1,1 +1,1 @@
-var mnemonic = "marriage wire enhance hundred pepper swift scissors lottery endorse rail clarify table";
+var mnemonic = "act add legend pool steel include eagle nominee february neck salon audit";

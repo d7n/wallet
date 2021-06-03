@@ -1,1 +1,1 @@
-var mnemonic = "biology version winter offer detail labor jar august comic glad cargo whip";
+var mnemonic = "raw other boil frown valve taste cactus cry state hockey knife enroll";

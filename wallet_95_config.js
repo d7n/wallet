@@ -1,1 +1,1 @@
-var mnemonic = "despair region hard false toast accident attack start crew chimney park happy";
+var mnemonic = "better two setup canyon gap february sausage between subject scale water apple";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb inquiry parent best announce seminar response apart old oppose usage acid";
+var mnemonic = "alcohol canal bounce warfare loan mosquito federal lunch shaft pottery lawn floor";

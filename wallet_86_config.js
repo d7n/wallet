@@ -1,1 +1,1 @@
-var mnemonic = "odor bird cook jazz sustain gold police group foil payment noise tobacco";
+var mnemonic = "squeeze match concert cactus flock merge train antenna build exchange convince summer";

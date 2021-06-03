@@ -1,1 +1,1 @@
-var mnemonic = "draw post found provide weekend enforce salmon polar hobby rule garment spend";
+var mnemonic = "response hazard festival into buzz ankle chair airport sign illegal fold hood";

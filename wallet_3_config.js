@@ -1,1 +1,1 @@
-var mnemonic = "oil language remain control mule income bunker series knock wine inherit believe";
+var mnemonic = "proud language negative hospital pride journey sign despair credit narrow voyage parade";

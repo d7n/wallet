@@ -1,1 +1,1 @@
-var mnemonic = "loop imitate unit govern labor stage filter midnight raccoon arch change steel";
+var mnemonic = "occur exotic vibrant hundred kiwi pen sunset method key rose convince permit";

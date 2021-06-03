@@ -1,1 +1,1 @@
-var mnemonic = "afraid possible loud nature coyote put north matter mouse govern normal surface";
+var mnemonic = "define mass absorb angle keep sad lyrics consider pistol tortoise trip tiny";

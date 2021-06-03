@@ -1,1 +1,1 @@
-var mnemonic = "warfare crowd icon shoot climb cluster twist update certain injury team ability";
+var mnemonic = "tank sign move wild dinner solve survey document awake plunge cube table";

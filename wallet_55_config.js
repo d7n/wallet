@@ -1,1 +1,1 @@
-var mnemonic = "radar siren spell emerge salt stove state awkward twin olympic tired race";
+var mnemonic = "guitar polar mean drift crunch evidence pledge school miss immune grain carpet";

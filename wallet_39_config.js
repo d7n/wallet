@@ -1,1 +1,1 @@
-var mnemonic = "stem hat lobster shadow engine border museum shuffle alpha raven dad list";
+var mnemonic = "wisdom reform valve split code damage bean timber use annual daughter labor";

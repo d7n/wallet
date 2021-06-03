@@ -1,1 +1,1 @@
-var mnemonic = "climb quality habit hybrid coin blame increase chuckle soon child armed key";
+var mnemonic = "learn other tissue keep point grocery shed still hair throw harsh hello";

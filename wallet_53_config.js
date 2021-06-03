@@ -1,1 +1,1 @@
-var mnemonic = "panel message fame tissue latin album negative next screen gospel few audit";
+var mnemonic = "nation diamond work enlist cause sudden ensure inmate source almost shield reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "corn endorse armed brush volcano truth position when license rough grid live";
+var mnemonic = "comfort decorate penalty limb reunion glory patch mean style oil grain tent";

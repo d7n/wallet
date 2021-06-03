@@ -1,1 +1,1 @@
-var mnemonic = "icon absent horse capital bacon sponsor fragile rain silly parrot room divorce";
+var mnemonic = "save point prefer you assault awake process olive check measure view opinion";

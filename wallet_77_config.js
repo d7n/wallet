@@ -1,1 +1,1 @@
-var mnemonic = "flash comfort circle stadium walnut inhale manage when bullet indicate reunion fence";
+var mnemonic = "slight immune lazy fit sponsor race yellow wash mix genius cheap style";

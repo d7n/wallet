@@ -1,1 +1,1 @@
-var mnemonic = "teach flush travel siege icon sign possible plug unaware enemy door boat";
+var mnemonic = "claw stage grocery screen cross snack nest end power cover supply across";

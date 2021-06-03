@@ -1,1 +1,1 @@
-var mnemonic = "century odor awesome leaf rally paper remove one tank settle raven visit";
+var mnemonic = "until bind sign milk project bunker draft endless submit nurse march shove";

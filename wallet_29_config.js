@@ -1,1 +1,1 @@
-var mnemonic = "swap glove brave online cruise zero work elegant such antique sweet jazz";
+var mnemonic = "quit harsh reform spin alert still empower ecology another point attend scheme";

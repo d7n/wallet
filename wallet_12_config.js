@@ -1,1 +1,1 @@
-var mnemonic = "outdoor immune dress case harsh distance viable message pilot burden cost snap";
+var mnemonic = "pass truly breeze swift universe crash upgrade addict child party liberty boy";

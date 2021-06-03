@@ -1,1 +1,1 @@
-var mnemonic = "half puppy shaft custom keen they casual pull unit model grass garden";
+var mnemonic = "cannon muffin patch near scrap grid fish today give wagon robot notice";

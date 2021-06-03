@@ -1,1 +1,1 @@
-var mnemonic = "churn miss wet inch post earth couple wild ahead rack whale dune";
+var mnemonic = "topic good enter stairs hunt antique donate inch area hire blue ensure";

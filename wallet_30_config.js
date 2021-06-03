@@ -1,1 +1,1 @@
-var mnemonic = "amused dial injury put include air fade scene face tail illness reward";
+var mnemonic = "mistake witness horn exhaust add immense afford two charge life surprise hazard";

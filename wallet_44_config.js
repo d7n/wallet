@@ -1,1 +1,1 @@
-var mnemonic = "napkin margin camera day know jealous manual focus smooth laundry business stay";
+var mnemonic = "family type grape violin weird runway sock sting purpose extend universe pet";

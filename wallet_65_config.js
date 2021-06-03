@@ -1,1 +1,1 @@
-var mnemonic = "busy decade plunge loud drill plug mention volume earn skin local despair";
+var mnemonic = "tornado matter pave bread filter phone exact discover angry sorry calm victory";

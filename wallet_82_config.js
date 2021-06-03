@@ -1,1 +1,1 @@
-var mnemonic = "sting chapter survey share educate story pottery refuse grid dial verify myself";
+var mnemonic = "physical wheat escape actor napkin hour grocery puppy apple rally include base";

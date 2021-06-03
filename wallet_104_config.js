@@ -1,1 +1,1 @@
-var mnemonic = "turtle daring taste ice eight announce guitar reform perfect page smooth ladder";
+var mnemonic = "jeans rug maple goose turn symbol old cinnamon stove steel express huge";

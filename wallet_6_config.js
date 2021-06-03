@@ -1,1 +1,1 @@
-var mnemonic = "ramp avocado artefact robot shell desk vehicle glory lizard magic sadness raccoon";
+var mnemonic = "vast reason shiver erode speed picnic language lamp crucial toe infant flip";
