@@ -1,1 +1,1 @@
-var mnemonic = "behind law road original physical behave myth pave reward body steak crew";
+var mnemonic = "same bike stand wear session august purchase jazz mechanic smooth grass normal";

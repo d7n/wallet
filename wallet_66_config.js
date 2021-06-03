@@ -1,1 +1,1 @@
-var mnemonic = "accident kind frost result spirit practice skirt trumpet inside rain shaft cricket";
+var mnemonic = "bulk cheap prefer city heavy word delay clap reward analyst shoe vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo lyrics session fetch excess barrel sunny scorpion race village plug empower";
+var mnemonic = "digital parade quiz sure wagon thumb chapter school audit roof fashion have";

@@ -1,1 +1,1 @@
-var mnemonic = "long love tumble tilt mechanic proof daughter answer dumb orphan minimum isolate";
+var mnemonic = "equal virtual receive early vivid run chicken shallow sudden need crack monkey";

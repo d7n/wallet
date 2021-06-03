@@ -1,1 +1,1 @@
-var mnemonic = "kit purse expand flame august april glimpse replace evidence journey half pen";
+var mnemonic = "reason session future airport debris tattoo once market under fame avocado cricket";

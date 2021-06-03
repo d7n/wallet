@@ -1,1 +1,1 @@
-var mnemonic = "flag cement quote main slow demise pole core seed coast assault ordinary";
+var mnemonic = "thunder dwarf join test filter solar grunt human water human behave spend";

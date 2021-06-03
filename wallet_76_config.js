@@ -1,1 +1,1 @@
-var mnemonic = "inherit ring spell effort heart obscure arch video quantum merit bright spot";
+var mnemonic = "gym syrup phone upgrade initial open million wife option vanish strategy void";

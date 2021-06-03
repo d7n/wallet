@@ -1,1 +1,1 @@
-var mnemonic = "include sample space method width cause connect ski fun catalog weird powder";
+var mnemonic = "inherit winner observe wrestle marble test major guard exile maximum flush turn";

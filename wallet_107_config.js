@@ -1,1 +1,1 @@
-var mnemonic = "rocket laptop dish point aim army leaf engine school hundred comfort whisper";
+var mnemonic = "smoke example question renew attract inside naive write clown sphere current crater";

@@ -1,1 +1,1 @@
-var mnemonic = "alley wagon torch episode fit shrug spoon million doctor group movie transfer";
+var mnemonic = "tackle guitar stereo middle potato submit allow float mosquito horn middle guess";

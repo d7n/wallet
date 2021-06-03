@@ -1,1 +1,1 @@
-var mnemonic = "this monitor divert common genuine parrot chief close clinic kidney broken option";
+var mnemonic = "option burst zebra strategy elder hello august author strong march wide climb";

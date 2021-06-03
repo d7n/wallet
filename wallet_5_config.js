@@ -1,1 +1,1 @@
-var mnemonic = "auto elegant volume differ truly celery wide actress dentist uphold curtain exact";
+var mnemonic = "run marine ecology ostrich again width alarm track asthma holiday better priority";

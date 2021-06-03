@@ -1,1 +1,1 @@
-var mnemonic = "word express tip cage since team race denial jealous you faculty always";
+var mnemonic = "divert exercise sail minor slim visual bronze share outdoor uphold journey virus";

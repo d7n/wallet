@@ -1,1 +1,1 @@
-var mnemonic = "crystal ladder liberty syrup puppy myth decade innocent account focus monster quiz";
+var mnemonic = "aerobic runway trumpet eight skate virtual outer interest pulp farm glance across";

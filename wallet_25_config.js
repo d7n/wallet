@@ -1,1 +1,1 @@
-var mnemonic = "ritual chaos vibrant snake segment garbage come car hub film save maid";
+var mnemonic = "thrive craft fitness else half middle used group ladder solar fun inform";

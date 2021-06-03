@@ -1,1 +1,1 @@
-var mnemonic = "rain slender energy twice solar first brush chicken slight museum name impact";
+var mnemonic = "access eyebrow fragile donkey initial hockey lunch exchange acquire click key conduct";

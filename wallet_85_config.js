@@ -1,1 +1,1 @@
-var mnemonic = "calm vote blood suggest oxygen lamp squeeze angle trip hill assist thunder";
+var mnemonic = "apology vacant trigger ship bar tribe siege million fatal chaos very invest";

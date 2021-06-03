@@ -1,1 +1,1 @@
-var mnemonic = "behave uniform gorilla rebuild bench please gift office dad unfair afraid tray";
+var mnemonic = "deer fence manage obey kiss gadget voyage popular use involve accuse image";

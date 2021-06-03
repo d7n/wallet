@@ -1,1 +1,1 @@
-var mnemonic = "disorder raccoon crime define oven neck sample peanut wrap extra argue moral";
+var mnemonic = "pluck plastic fluid sword acid gun double donor creek such void vessel";

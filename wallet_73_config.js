@@ -1,1 +1,1 @@
-var mnemonic = "foot element bachelor fitness match south puppy into success bread kite ribbon";
+var mnemonic = "limb topple put labor inmate erosion debris steak broom pattern obtain jealous";

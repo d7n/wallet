@@ -1,1 +1,1 @@
-var mnemonic = "shop usual excess unusual escape often celery focus sunset limb memory insect";
+var mnemonic = "gaze list script toilet outer awesome ocean raven crucial only hill novel";

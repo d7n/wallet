@@ -1,1 +1,1 @@
-var mnemonic = "boss endorse toy extend trumpet domain hedgehog boost river move guard dawn";
+var mnemonic = "blind canyon twelve fiber traffic palm donor adapt hard seminar note avocado";

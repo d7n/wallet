@@ -1,1 +1,1 @@
-var mnemonic = "quit crumble target initial dragon frame omit object keep orange nephew volcano";
+var mnemonic = "smoke sad nothing floor clown adjust consider fade suffer neither able elbow";

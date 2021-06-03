@@ -1,1 +1,1 @@
-var mnemonic = "success toddler cry ensure crack dignity question physical effort bid guilt barely";
+var mnemonic = "feel bike pact moment whip valve truth dream clock imitate curve lamp";

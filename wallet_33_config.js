@@ -1,1 +1,1 @@
-var mnemonic = "expire what crowd worry gentle pass muffin range test predict impose remain";
+var mnemonic = "crazy ordinary clay eagle easy direct total demand armor attack erase huge";

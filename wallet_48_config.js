@@ -1,1 +1,1 @@
-var mnemonic = "tilt ugly soda dream shallow trade action night traffic purity peanut manual";
+var mnemonic = "phrase aim check arrest bitter vast combine taste poet side eternal shoulder";

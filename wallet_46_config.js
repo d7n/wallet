@@ -1,1 +1,1 @@
-var mnemonic = "roast race effort sand soccer else clump brand trust member napkin gun";
+var mnemonic = "six coffee live oil woman sphere broom pill void guide cushion disorder";

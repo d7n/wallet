@@ -1,1 +1,1 @@
-var mnemonic = "table bunker tuna elder hurry bean chest claim area topple decorate champion";
+var mnemonic = "coach side innocent theory kangaroo truth choice aisle gesture stable proud screen";

@@ -1,1 +1,1 @@
-var mnemonic = "juice whip olive erosion nurse purpose false sudden glance general charge vote";
+var mnemonic = "police float royal voyage seminar gallery walk timber bonus lion ugly carbon";

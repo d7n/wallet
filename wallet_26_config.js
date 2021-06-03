@@ -1,1 +1,1 @@
-var mnemonic = "culture doctor illness motor lesson program eternal enforce domain evil aisle pill";
+var mnemonic = "sniff reveal swarm solar paddle hidden tag range magnet speed equip lens";

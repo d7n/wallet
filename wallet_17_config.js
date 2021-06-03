@@ -1,1 +1,1 @@
-var mnemonic = "lake hair borrow heart enforce give world expand item grape blue heavy";
+var mnemonic = "head long gospel palm trim foil bunker auction marine web notice negative";

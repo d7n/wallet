@@ -1,1 +1,1 @@
-var mnemonic = "crystal indicate agent modify afraid suffer doctor suffer squeeze polar earth jump";
+var mnemonic = "wild afford armed plate empower farm prepare custom flush electric chat tuition";

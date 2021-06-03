@@ -1,1 +1,1 @@
-var mnemonic = "require enemy deer forget friend erosion often drift kind scrub nurse burden";
+var mnemonic = "uncle hollow olive message nasty host puppy success nasty begin solid badge";

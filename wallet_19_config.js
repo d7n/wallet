@@ -1,1 +1,1 @@
-var mnemonic = "amount decrease attend super drastic uniform strike sail visit head chunk liquid";
+var mnemonic = "finger expect ghost crisp elevator provide process tissue kite brother rabbit father";

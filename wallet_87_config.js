@@ -1,1 +1,1 @@
-var mnemonic = "wagon upper series emotion kite topic sting sail cricket thrive point village";
+var mnemonic = "cup way trap series universe mango ceiling assist bench dragon solid vacant";

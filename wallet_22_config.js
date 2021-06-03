@@ -1,1 +1,1 @@
-var mnemonic = "demise marine finish ecology meat sorry coil wheat pilot loyal arch assist";
+var mnemonic = "ski outdoor peasant sock sea any catalog tornado tumble extend save weapon";

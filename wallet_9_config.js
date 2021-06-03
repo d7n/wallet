@@ -1,1 +1,1 @@
-var mnemonic = "dry fluid scale fluid job execute kiwi stone figure hawk avoid canal";
+var mnemonic = "copy whip model verify online scare fire width artist spread pencil spell";

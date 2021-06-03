@@ -1,1 +1,1 @@
-var mnemonic = "witness tuition lab guitar skirt bridge donor proof wreck next reduce loyal";
+var mnemonic = "frame pledge leopard begin know trust casual sea shell ridge endorse remove";

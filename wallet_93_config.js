@@ -1,1 +1,1 @@
-var mnemonic = "pluck candy mandate october bike rich saddle coil panel enact tongue escape";
+var mnemonic = "puzzle catalog buzz side hollow valley laugh chapter latin embrace right tower";

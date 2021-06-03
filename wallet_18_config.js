@@ -1,1 +1,1 @@
-var mnemonic = "flock join choice crumble merge make yellow eight physical bar fruit clog";
+var mnemonic = "step avoid lecture feature mountain whale smart resemble drift ripple lizard bind";

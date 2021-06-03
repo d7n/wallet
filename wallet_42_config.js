@@ -1,1 +1,1 @@
-var mnemonic = "grace crunch pair abstract iron space climb travel visit clay enlist connect";
+var mnemonic = "lock color mystery this impact fox april air diesel emotion dish leader";

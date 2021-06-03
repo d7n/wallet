@@ -1,1 +1,1 @@
-var mnemonic = "tennis endless sentence book faint stove miss filter ethics tool cereal two";
+var mnemonic = "mind pitch paper assist mixed fluid scissors system half eye history bench";

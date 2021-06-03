@@ -1,1 +1,1 @@
-var mnemonic = "raw indicate leg cluster spice glue quiz devote release bullet private way";
+var mnemonic = "inch erupt piano kid wide stadium tank point tongue blame economy hero";

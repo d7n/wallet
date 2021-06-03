@@ -1,1 +1,1 @@
-var mnemonic = "wagon immense guess frown ability derive birth opera excess couch river lava";
+var mnemonic = "retire success social world laundry also tower focus spirit enable soldier logic";

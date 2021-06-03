@@ -1,1 +1,1 @@
-var mnemonic = "help cabbage deal spice knee fox unable poverty raven dance town disagree";
+var mnemonic = "detect source scare mad interest differ speed setup relief desert thing stomach";

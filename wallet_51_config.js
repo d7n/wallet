@@ -1,1 +1,1 @@
-var mnemonic = "solution swarm elegant coach valve afraid risk absorb tobacco glimpse original leaf";
+var mnemonic = "month public leopard laundry flat piano cancel brisk tourist occur situate power";

@@ -1,1 +1,1 @@
-var mnemonic = "area opinion symptom security onion dad exotic seven sleep gadget panda remember";
+var mnemonic = "invest need flash goat cushion nothing theory frozen toddler nominee slide match";

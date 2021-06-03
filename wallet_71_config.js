@@ -1,1 +1,1 @@
-var mnemonic = "citizen nothing pave draft staff action actual embody caution absorb border relief";
+var mnemonic = "inherit gloom comic hammer moon oak chunk surround trade hour silver same";

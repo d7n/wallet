@@ -1,1 +1,1 @@
-var mnemonic = "canvas true culture oval couch course skirt cook hen rain derive beach";
+var mnemonic = "spoil orphan change slide correct rent clap upset trial siren club civil";

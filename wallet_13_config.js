@@ -1,1 +1,1 @@
-var mnemonic = "grace edit cube quit economy issue exist surface alcohol profit media purchase";
+var mnemonic = "sad crush dinner either common share fragile shuffle tourist gun sister jeans";

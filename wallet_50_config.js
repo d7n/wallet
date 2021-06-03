@@ -1,1 +1,1 @@
-var mnemonic = "surprise square forum price spatial omit scheme bar apart veteran mistake monitor";
+var mnemonic = "cable advice shoulder home direct pave butter obvious draft street fortune beach";

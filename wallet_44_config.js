@@ -1,1 +1,1 @@
-var mnemonic = "carry flat junior physical divorce evidence piece dry fresh auto lava silver";
+var mnemonic = "hen manual soft random bachelor pilot junk similar link squirrel rescue border";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb join use duty census woman hurt ozone castle glue coach stool";
+var mnemonic = "dry fade camera tell fragile mistake ozone appear repair rigid frequent hire";

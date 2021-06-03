@@ -1,1 +1,1 @@
-var mnemonic = "bag yard away heart panic horn urban name heavy announce derive pride";
+var mnemonic = "recall illness slam coin spread live slogan clap basic trophy quote frown";

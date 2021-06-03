@@ -1,1 +1,1 @@
-var mnemonic = "midnight month story coral pride auction cruise curve worry critic earn fall";
+var mnemonic = "fog hurry near suspect benefit this canyon fossil cancel hen pair junior";

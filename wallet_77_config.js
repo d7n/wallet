@@ -1,1 +1,1 @@
-var mnemonic = "salt then whisper version enact cable educate attend round reform pumpkin purpose";
+var mnemonic = "suggest plunge bargain noodle bracket clay priority cross else remember burger apple";

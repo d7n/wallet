@@ -1,1 +1,1 @@
-var mnemonic = "fancy ball grunt concert horse medal modify couple page pepper taxi caught";
+var mnemonic = "symbol pelican lottery trial prefer either series choose indoor act antique bottom";

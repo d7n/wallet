@@ -1,1 +1,1 @@
-var mnemonic = "cake feature silver venture estate pizza aim parrot arctic topple yard easy";
+var mnemonic = "olympic source tourist supreme identify spoil render twist arm polar inmate toilet";

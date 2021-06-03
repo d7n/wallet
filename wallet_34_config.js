@@ -1,1 +1,1 @@
-var mnemonic = "thunder eager original find lonely panda figure shed evolve above era dish";
+var mnemonic = "hotel trust process father mixture near razor bicycle gold clip craft glide";

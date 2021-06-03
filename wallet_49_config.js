@@ -1,1 +1,1 @@
-var mnemonic = "estate novel champion submit furnace behind pistol wealth lady coin infant diet";
+var mnemonic = "bracket exotic drive awful hundred venue stand play squeeze long nest reopen";

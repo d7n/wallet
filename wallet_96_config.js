@@ -1,1 +1,1 @@
-var mnemonic = "used leaf render decade knock giggle border essence change focus erupt upper";
+var mnemonic = "retreat crush earn use casino dial first solve select fall code area";

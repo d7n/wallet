@@ -1,1 +1,1 @@
-var mnemonic = "relief bachelor rival slab target valley render crucial main split airport unveil";
+var mnemonic = "ask option more lamp hole shed work buyer woman faculty opinion corn";

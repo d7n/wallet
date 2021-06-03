@@ -1,1 +1,1 @@
-var mnemonic = "coconut submit culture song bread lawn field kangaroo skate pretty tumble walnut";
+var mnemonic = "today sketch spell thunder favorite alter category theme dentist vanish will dumb";

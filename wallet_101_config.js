@@ -1,1 +1,1 @@
-var mnemonic = "fit foil arm adapt because dolphin soccer hint blanket paper route ginger";
+var mnemonic = "north chicken cereal click adapt reveal busy scheme account vote mutual behind";

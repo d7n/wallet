@@ -1,1 +1,1 @@
-var mnemonic = "link wide weekend obey miracle pause blue book trophy camp sand subject";
+var mnemonic = "media floor answer tenant robust cage face fit harbor dune prison always";

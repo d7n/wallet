@@ -1,1 +1,1 @@
-var mnemonic = "profit noise word lunch pitch fossil tennis fit coast mirror parade since";
+var mnemonic = "repair question action stove oblige pear mother push photo sponsor grant exile";

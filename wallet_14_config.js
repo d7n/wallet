@@ -1,1 +1,1 @@
-var mnemonic = "rabbit settle lobster harvest alert way wise arm caution monster forest ride";
+var mnemonic = "rice marine point general bread govern twist once inquiry wet cable hammer";

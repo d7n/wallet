@@ -1,1 +1,1 @@
-var mnemonic = "obey enemy second mirror disagree plunge visa marble piano fame fiscal bus";
+var mnemonic = "comic bag garlic dress flip uphold season refuse choice cushion gym crowd";

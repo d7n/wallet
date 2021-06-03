@@ -1,1 +1,1 @@
-var mnemonic = "evolve spirit regular cost dial tennis raven any helmet stereo mind distance";
+var mnemonic = "flat avoid bar turkey grace find engage where identify cactus spare poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "skull dad obscure shop coast obtain cushion gaze recall census aisle dirt";
+var mnemonic = "cradle pulse toe noble unfair people bleak train cage cluster pet emotion";

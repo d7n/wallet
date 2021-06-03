@@ -1,1 +1,1 @@
-var mnemonic = "dirt wild mail wool permit dynamic arch spell curious lens brief real";
+var mnemonic = "slim theory carbon erupt direct tongue cool diary bracket snow similar neck";

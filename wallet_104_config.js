@@ -1,1 +1,1 @@
-var mnemonic = "phrase route lake process animal topic tell stem air behave upgrade away";
+var mnemonic = "pigeon secret side inform truly glow cherry carry direct day estate table";

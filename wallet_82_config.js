@@ -1,1 +1,1 @@
-var mnemonic = "roof anchor vast number february parent law trouble assault inquiry enough never";
+var mnemonic = "normal renew regret pill pair measure horror rib silk double knife device";

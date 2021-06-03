@@ -1,1 +1,1 @@
-var mnemonic = "slogan chicken escape deposit region become dumb tone alarm clog chunk burger";
+var mnemonic = "dwarf turtle civil language energy envelope machine shock answer hunt absent direct";

@@ -1,1 +1,1 @@
-var mnemonic = "invest rough inflict action glimpse inside place risk razor reduce pear wrong";
+var mnemonic = "unveil drive lobster theme route rather miracle lab sign luggage virus sustain";

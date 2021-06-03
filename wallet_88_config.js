@@ -1,1 +1,1 @@
-var mnemonic = "clip payment pair margin spend heart chronic spare february badge response pool";
+var mnemonic = "wall best industry eagle series thunder antenna race axis deal frame lake";

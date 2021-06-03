@@ -1,1 +1,1 @@
-var mnemonic = "sausage soul dizzy prize nut assault where enact drink carry grass noodle";
+var mnemonic = "coil dad easily army bulb next item oval cabbage chaos dolphin thing";

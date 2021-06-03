@@ -1,1 +1,1 @@
-var mnemonic = "view riot body planet clump problem lock great disorder produce receive decrease";
+var mnemonic = "slim era extend march envelope word sign verb latin million oppose affair";

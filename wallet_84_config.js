@@ -1,1 +1,1 @@
-var mnemonic = "skull bunker shoulder term mandate lion float resemble minute tornado bleak relief";
+var mnemonic = "skull cricket rival motion bacon heart elevator come wage speak refuse room";

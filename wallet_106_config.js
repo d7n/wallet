@@ -1,1 +1,1 @@
-var mnemonic = "maximum grocery erase radar seven segment letter liberty fuel mouse winter vendor";
+var mnemonic = "lawsuit bomb bleak funny film initial planet monster enlist exotic rose ecology";

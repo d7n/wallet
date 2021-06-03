@@ -1,1 +1,1 @@
-var mnemonic = "drama early average addict select chalk system deliver lunch pet silk fitness";
+var mnemonic = "book donate people reflect hurt stuff upon debate improve walnut banner cake";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery nurse arctic lab thunder judge unusual wire leave twin feel camp";
+var mnemonic = "ask mushroom clay wing ritual digital sign remember picture enhance pass market";

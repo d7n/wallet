@@ -1,1 +1,1 @@
-var mnemonic = "meat warrior card pipe rotate drink must enter sword glad glow horn";
+var mnemonic = "stove hat much warfare napkin mountain rent leave you coral disease cook";

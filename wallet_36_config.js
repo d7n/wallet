@@ -1,1 +1,1 @@
-var mnemonic = "uniform common fragile another fuel vibrant potato loan liberty pupil body together";
+var mnemonic = "conduct noise jungle bracket differ never cake salmon asset push plastic wine";

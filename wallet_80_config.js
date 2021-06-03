@@ -1,1 +1,1 @@
-var mnemonic = "engine recycle rack abstract borrow series tribe grass fault quarter prepare fox";
+var mnemonic = "iron receive aerobic screen inquiry asthma ignore calm deputy badge remember utility";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor badge hidden swift science record diesel other load mail okay enter";
+var mnemonic = "square eternal genuine tiger lucky soda fabric quality stamp people magnet decide";

@@ -1,1 +1,1 @@
-var mnemonic = "armed thunder enhance search early fury powder close panel version glory midnight";
+var mnemonic = "pen meat expect age hedgehog flee wish labor right fossil judge unhappy";

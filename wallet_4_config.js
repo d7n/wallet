@@ -1,1 +1,1 @@
-var mnemonic = "refuse bench orient fruit wish purity appear climb climb toward zero aspect";
+var mnemonic = "vivid spike love soldier cheese room early seminar vintage two salon dumb";

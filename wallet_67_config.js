@@ -1,1 +1,1 @@
-var mnemonic = "become wish find awesome one faint people empower fuel hello enforce unhappy";
+var mnemonic = "strike electric frequent gold glare where various art destroy edge join car";

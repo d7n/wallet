@@ -1,1 +1,1 @@
-var mnemonic = "citizen coast gate clock wine penalty yard hidden drink tribe icon drop";
+var mnemonic = "unknown arena tribe wheat swamp near best vessel vacuum relax mutual cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "install pelican domain seed unable relief vote chest hello live pass split";
+var mnemonic = "chalk invite lonely merge flip very alley beyond afford simple organ cause";

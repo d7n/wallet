@@ -1,1 +1,1 @@
-var mnemonic = "fitness dentist mansion decide deny juice cabin rely current use kick social";
+var mnemonic = "exhibit release alter bronze feel worry silent cabbage leg focus walk chalk";
