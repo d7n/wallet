@@ -1,1 +1,1 @@
-var mnemonic = "render avoid tower cycle lazy ketchup obey design furnace wheel shoe seed";
+var mnemonic = "notice rent affair slogan rose unable toddler scale pattern winner minute real";

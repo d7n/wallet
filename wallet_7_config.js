@@ -1,1 +1,1 @@
-var mnemonic = "differ sort reason erode strong crawl mandate mouse below tray develop ethics";
+var mnemonic = "acquire almost repeat era liquid blur uphold leaf crack razor rich melody";

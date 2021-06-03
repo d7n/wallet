@@ -1,1 +1,1 @@
-var mnemonic = "riot turkey orchard frame music alien quality ice visual spring patient math";
+var mnemonic = "illness beef employ puppy sweet carry sibling destroy cliff uncover slight prison";

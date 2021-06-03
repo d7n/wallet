@@ -1,1 +1,1 @@
-var mnemonic = "friend april vibrant jewel shadow crane video arrange avoid tell divide survey";
+var mnemonic = "tornado resist shine amount trash best mountain submit nation already toast buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "swap hat nose evil amused priority street crystal stadium injury tape shield";
+var mnemonic = "submit alien tell win edit teach drop body oblige vanish unique endless";

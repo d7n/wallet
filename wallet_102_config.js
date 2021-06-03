@@ -1,1 +1,1 @@
-var mnemonic = "also patrol avoid bus image sister convince lava half crouch grief lesson";
+var mnemonic = "maid pact toe habit mean train around puppy execute uncover tackle speed";

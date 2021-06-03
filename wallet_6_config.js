@@ -1,1 +1,1 @@
-var mnemonic = "you quote solve pet inherit edit hidden hungry labor scissors balance space";
+var mnemonic = "album latin erosion banner catch erode ask flag teach curtain fiction promote";

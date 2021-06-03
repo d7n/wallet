@@ -1,1 +1,1 @@
-var mnemonic = "property once bulk crunch forum mirror sand zone patch blade level boat";
+var mnemonic = "creek barely into shy about volume upper inflict update grit smoke wool";

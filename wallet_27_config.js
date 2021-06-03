@@ -1,1 +1,1 @@
-var mnemonic = "youth sponsor remove logic leave session grocery load squirrel note alcohol artefact";
+var mnemonic = "glory inquiry element accuse gasp build ball pencil isolate much inherit picture";

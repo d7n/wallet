@@ -1,1 +1,1 @@
-var mnemonic = "immune assume nice across tragic eager elevator public usage custom main start";
+var mnemonic = "roast glue client flower monster sentence rookie service fine attack year hero";

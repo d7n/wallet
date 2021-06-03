@@ -1,1 +1,1 @@
-var mnemonic = "gauge float giant tell enrich antique shadow bean toward between soap element";
+var mnemonic = "below crawl expire sample hawk oppose blast peasant bacon cost appear vehicle";

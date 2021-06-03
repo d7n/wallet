@@ -1,1 +1,1 @@
-var mnemonic = "source cigar business warrior alter clutch amazing huge dance raise open such";
+var mnemonic = "pepper collect amateur drop prison unfair rebel awesome garbage best loud busy";

@@ -1,1 +1,1 @@
-var mnemonic = "spring man license kangaroo such spend visual network borrow confirm employ thumb";
+var mnemonic = "cheese display cram advance camp peanut ordinary floor matrix nuclear lock clever";

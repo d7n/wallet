@@ -1,1 +1,1 @@
-var mnemonic = "art upgrade luxury tank hobby casino jewel list actress major tongue task";
+var mnemonic = "conduct crawl firm result country tattoo off matter stomach ancient melody plate";

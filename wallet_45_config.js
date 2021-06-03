@@ -1,1 +1,1 @@
-var mnemonic = "pistol beef loop february light push soon float income float sustain army";
+var mnemonic = "olive gaze submit elbow leave flat next option earn arrive cotton biology";

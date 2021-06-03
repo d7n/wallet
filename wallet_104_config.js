@@ -1,1 +1,1 @@
-var mnemonic = "lawn design slot space life blame ritual nice digital wash video hedgehog";
+var mnemonic = "embrace day void scrap gasp mule woman first electric zoo laugh item";

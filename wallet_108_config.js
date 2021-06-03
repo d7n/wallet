@@ -1,1 +1,1 @@
-var mnemonic = "chimney cool craft receive spare train mixture oven ozone east obey drop";
+var mnemonic = "boy nation life cat bless chat escape oxygen palace girl slot open";

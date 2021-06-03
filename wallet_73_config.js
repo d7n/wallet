@@ -1,1 +1,1 @@
-var mnemonic = "weasel fame boil lunch item melt quote benefit country orient large wedding";
+var mnemonic = "sister wise garbage pig cook uncover panel family tornado few evoke pretty";

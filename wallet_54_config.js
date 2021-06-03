@@ -1,1 +1,1 @@
-var mnemonic = "pizza arrow city shallow beach entry live city extra warfare bleak bus";
+var mnemonic = "hill champion bonus roast monster access because dilemma that million draw enough";

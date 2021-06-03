@@ -1,1 +1,1 @@
-var mnemonic = "problem section purpose rural hedgehog ozone opera absent calm open still evidence";
+var mnemonic = "expire arctic entire resemble shoe cash prevent fly expand dignity labor above";

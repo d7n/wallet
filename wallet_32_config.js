@@ -1,1 +1,1 @@
-var mnemonic = "crucial found bottom know warm alpha phone boost assault kitten apart soap";
+var mnemonic = "torch warrior keep foil blur napkin pair pretty arrange portion wrap wear";

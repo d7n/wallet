@@ -1,1 +1,1 @@
-var mnemonic = "author dynamic lucky result kiss radio expect topic differ live miss index";
+var mnemonic = "luxury deny uniform festival leader scare check menu odor auto ten primary";

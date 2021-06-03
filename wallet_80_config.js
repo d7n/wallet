@@ -1,1 +1,1 @@
-var mnemonic = "flame dry caught wide jelly length mistake dismiss ghost remember wrist fabric";
+var mnemonic = "hard swarm toddler shock dawn wrist violin woman detect rail demand kind";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead release fade position neutral tiger chat blue pyramid afford bread stairs";
+var mnemonic = "cash fiber present minute fade afford clerk economy bronze advance allow smart";

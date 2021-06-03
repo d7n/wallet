@@ -1,1 +1,1 @@
-var mnemonic = "dad mad resist mystery tennis surprise legend calm lady trouble unit word";
+var mnemonic = "flee neck slab type hip clap bottom field helmet toss depart cycle";

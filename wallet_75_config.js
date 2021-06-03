@@ -1,1 +1,1 @@
-var mnemonic = "prosper kiwi conduct real orange inquiry capital early hazard cigar juice donor";
+var mnemonic = "core own penalty memory region print peanut come bracket behave gesture rifle";

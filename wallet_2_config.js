@@ -1,1 +1,1 @@
-var mnemonic = "keep pony place multiply fix speed orchard device parrot yard glow round";
+var mnemonic = "flavor step change game flee siege into liquid staff nation inch kit";

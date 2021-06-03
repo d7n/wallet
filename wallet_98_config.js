@@ -1,1 +1,1 @@
-var mnemonic = "budget raise payment measure resemble solar need virtual enhance turn divide lion";
+var mnemonic = "before display grid actual better wish slush orbit note conduct purse desert";

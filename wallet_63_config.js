@@ -1,1 +1,1 @@
-var mnemonic = "replace slab sausage liquid require punch icon cave physical cable else tag";
+var mnemonic = "wide cook aware depart stool aspect expand airport youth floor test segment";

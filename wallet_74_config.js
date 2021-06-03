@@ -1,1 +1,1 @@
-var mnemonic = "zebra warrior armed suspect tenant power divert dash kingdom artwork pilot disease";
+var mnemonic = "lawn defy erupt fever dinner state hamster utility kit disagree journey diamond";

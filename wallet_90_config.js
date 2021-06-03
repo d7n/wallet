@@ -1,1 +1,1 @@
-var mnemonic = "pond party fragile term certain release current fresh evil guilt jacket note";
+var mnemonic = "three dust sight vote weapon jaguar road similar dizzy broom veteran portion";

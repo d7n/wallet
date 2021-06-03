@@ -1,1 +1,1 @@
-var mnemonic = "salad dolphin waste mountain paper mixed sadness perfect ancient kiwi jar frozen";
+var mnemonic = "inhale balance approve lizard useful embrace essence hundred child mansion attend sausage";

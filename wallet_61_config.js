@@ -1,1 +1,1 @@
-var mnemonic = "company key trick fault result dry gold roast truck priority dad room";
+var mnemonic = "slow penalty weekend vendor file chimney best bottom promote mesh real gravity";

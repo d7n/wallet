@@ -1,1 +1,1 @@
-var mnemonic = "dad title turn scrub account robot exercise dragon glide follow dance you";
+var mnemonic = "jar tag load jeans eyebrow hint easily carpet obey renew task finger";

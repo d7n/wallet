@@ -1,1 +1,1 @@
-var mnemonic = "hand muscle frog appear armor rain doctor clerk couple patrol slow salute";
+var mnemonic = "master ghost squirrel mistake write cry pole trip rival hamster program hello";

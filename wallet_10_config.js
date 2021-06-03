@@ -1,1 +1,1 @@
-var mnemonic = "impact puzzle subway shoulder carpet coyote across else lawsuit lottery solar regular";
+var mnemonic = "pause report kite captain reduce man play critic bunker depart tornado else";

@@ -1,1 +1,1 @@
-var mnemonic = "world absent funny october light dash echo sheriff asset ivory current crater";
+var mnemonic = "rural rival february join stone average web reward hundred wild infant primary";

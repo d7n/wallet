@@ -1,1 +1,1 @@
-var mnemonic = "warm culture avocado club draft measure hungry truck exile want build subway";
+var mnemonic = "merry expand napkin path example keen spy champion cheap act oval scan";

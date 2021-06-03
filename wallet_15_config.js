@@ -1,1 +1,1 @@
-var mnemonic = "cupboard blossom flush extra clump consider labor luxury long fetch dinosaur time";
+var mnemonic = "monkey void inmate grass fossil fluid grain blanket become version fork west";

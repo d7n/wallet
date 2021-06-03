@@ -1,1 +1,1 @@
-var mnemonic = "lesson cancel fade twin act rib lemon ready coil win pulse love";
+var mnemonic = "notice repair draft tomato list home choose tornado idea awful pyramid erosion";

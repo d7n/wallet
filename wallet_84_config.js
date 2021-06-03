@@ -1,1 +1,1 @@
-var mnemonic = "already rent fluid federal correct engage dove skate help tree right riot";
+var mnemonic = "misery undo burger seminar nominee jewel lunch dragon tunnel smooth depart move";

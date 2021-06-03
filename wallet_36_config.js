@@ -1,1 +1,1 @@
-var mnemonic = "armed law similar bring ski dune arrange frozen bullet nurse silly valid";
+var mnemonic = "august moral crumble cool journey donkey tuition boat evidence boss error wheel";

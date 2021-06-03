@@ -1,1 +1,1 @@
-var mnemonic = "chuckle regret pink laugh build settle drip donate there fever media thank";
+var mnemonic = "reveal forum bacon life kingdom toddler spoil budget aspect dinosaur venue jaguar";

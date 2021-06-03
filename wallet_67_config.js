@@ -1,1 +1,1 @@
-var mnemonic = "size midnight sort tenant lunch attract board soldier galaxy reunion actress avocado";
+var mnemonic = "chest tunnel program awkward jealous blade carry gospel wife there news regular";

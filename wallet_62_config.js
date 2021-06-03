@@ -1,1 +1,1 @@
-var mnemonic = "shoe this lab novel note draft wool about inch depth crack blame";
+var mnemonic = "impact area note cupboard sense assault mention call hurt warfare later identify";

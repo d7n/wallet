@@ -1,1 +1,1 @@
-var mnemonic = "pact virtual stadium payment taste ecology garbage canyon roast cable embrace desert";
+var mnemonic = "sport nut oil board motor mansion tag trend response supreme number tell";

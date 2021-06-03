@@ -1,1 +1,1 @@
-var mnemonic = "angle machine apart onion fuel budget undo cover rug crew empower spoon";
+var mnemonic = "quit giggle episode only elbow bamboo access diamond couple banana switch track";

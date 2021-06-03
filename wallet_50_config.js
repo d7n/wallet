@@ -1,1 +1,1 @@
-var mnemonic = "hen funny exact call notable result early sibling pride blanket design front";
+var mnemonic = "now rebuild boat because unfair cinnamon impulse response brother garment begin want";

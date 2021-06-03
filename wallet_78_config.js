@@ -1,1 +1,1 @@
-var mnemonic = "very lonely junior spirit lock shield cat success illegal glide design usage";
+var mnemonic = "carry enforce blame grocery furnace basic brain shiver blur option pen cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan cherry unknown theme fiscal small push baby truck paper dust letter";
+var mnemonic = "already laptop stadium rose expect amused total truth uphold all twenty knee";

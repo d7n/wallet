@@ -1,1 +1,1 @@
-var mnemonic = "pledge agree napkin february appear hire message copper sun egg couple soldier";
+var mnemonic = "enemy sense load dwarf female search olive credit base short view sword";

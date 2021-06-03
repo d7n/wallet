@@ -1,1 +1,1 @@
-var mnemonic = "glass gloom entry leave champion left famous raw fame weasel prefer state";
+var mnemonic = "sponsor hamster space equal silent bright rigid grant gain float fossil prevent";

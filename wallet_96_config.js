@@ -1,1 +1,1 @@
-var mnemonic = "earth rival machine horse unfair account table planet nature accident shoot session";
+var mnemonic = "salon oven exhibit bracket remember arrest wood shy barely dish audit borrow";

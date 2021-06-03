@@ -1,1 +1,1 @@
-var mnemonic = "foster reduce trick rival truly ski tube tomato dragon large reward truck";
+var mnemonic = "vital damage curious mushroom galaxy oppose minor path main sense eternal zoo";

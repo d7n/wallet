@@ -1,1 +1,1 @@
-var mnemonic = "tray avocado drive include elegant voice verify uphold crunch step lottery inmate";
+var mnemonic = "artefact sugar forum exist essence burden alarm panther deputy discover oil brand";

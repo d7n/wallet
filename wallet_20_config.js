@@ -1,1 +1,1 @@
-var mnemonic = "expand jaguar cute oxygen stem method humor know pink fuel panel weekend";
+var mnemonic = "possible anxiety hover debris title snap bunker convince hen february carry immense";

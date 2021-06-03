@@ -1,1 +1,1 @@
-var mnemonic = "pig curious desk nuclear entire hurdle what actress amateur vapor top sweet";
+var mnemonic = "primary clean elephant cup relax across income salt dismiss song surge fringe";

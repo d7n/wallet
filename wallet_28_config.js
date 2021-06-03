@@ -1,1 +1,1 @@
-var mnemonic = "night nest barrel print tuna spider ring budget front view ski assist";
+var mnemonic = "harbor medal ski brother indicate rural truth small aunt oven way fashion";

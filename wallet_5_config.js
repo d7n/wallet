@@ -1,1 +1,1 @@
-var mnemonic = "deer increase demand use nation view reject win honey assist lunch child";
+var mnemonic = "indicate globe over claim silly crisp deal tree immense task aunt bitter";

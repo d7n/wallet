@@ -1,1 +1,1 @@
-var mnemonic = "fantasy original host found first brain double survey destroy essay area vehicle";
+var mnemonic = "air ivory smile joke popular wolf noble soul cricket envelope ugly brief";

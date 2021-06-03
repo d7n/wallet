@@ -1,1 +1,1 @@
-var mnemonic = "razor coach element asset prefer sign october success box penalty bus reveal";
+var mnemonic = "just citizen dignity impact stable scissors tornado simple novel evolve patrol garden";

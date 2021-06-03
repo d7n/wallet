@@ -1,1 +1,1 @@
-var mnemonic = "swear vibrant winter ostrich genuine bulk awful woman cattle relax glad vast";
+var mnemonic = "bounce genuine fabric card apple snap outside movie hair town undo balcony";

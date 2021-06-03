@@ -1,1 +1,1 @@
-var mnemonic = "hub theme wheel promote black mandate mix outside wrong width carbon same";
+var mnemonic = "story lion gap grace segment useless demand anxiety stem stove rose punch";

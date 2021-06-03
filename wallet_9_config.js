@@ -1,1 +1,1 @@
-var mnemonic = "feature sphere parrot wet credit chunk bleak clog tray jazz battle spring";
+var mnemonic = "clump garden erode donate doll violin stay must pelican dinner beach govern";

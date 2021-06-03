@@ -1,1 +1,1 @@
-var mnemonic = "master earn group forward state bar demand twenty brief erode deny tank";
+var mnemonic = "add sunset salon found forward state thrive coral popular unit release maximum";

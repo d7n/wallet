@@ -1,1 +1,1 @@
-var mnemonic = "abuse exotic viable blame payment describe ladder fetch hundred exile scissors seat";
+var mnemonic = "sick scout shoulder drive antique news license company level evolve educate imitate";

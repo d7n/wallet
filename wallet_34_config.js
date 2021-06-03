@@ -1,1 +1,1 @@
-var mnemonic = "change simple tray inquiry pilot solution banner icon knock cotton when cushion";
+var mnemonic = "mistake borrow credit globe craft fancy aisle bundle primary frequent anxiety essay";

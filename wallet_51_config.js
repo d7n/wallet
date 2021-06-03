@@ -1,1 +1,1 @@
-var mnemonic = "soup gasp exact push civil vault finger solid help boy myself gaze";
+var mnemonic = "cream industry mixture angry visit uphold join measure school uncover vacuum fork";

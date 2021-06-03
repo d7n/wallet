@@ -1,1 +1,1 @@
-var mnemonic = "chef execute mobile harsh attend enter rail happy dragon boost wool curve";
+var mnemonic = "board mixed forum giraffe sock follow walk goose smooth fork between filter";

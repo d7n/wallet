@@ -1,1 +1,1 @@
-var mnemonic = "wrist rapid hen praise husband aspect gain wonder square power grocery wing";
+var mnemonic = "garlic harvest trigger harsh slice empty bleak green sheriff upper symptom army";

@@ -1,1 +1,1 @@
-var mnemonic = "inch frequent clump mix key arch truck machine crime common arrive fork";
+var mnemonic = "genius portion planet absent siren stadium legend swift athlete parrot anger idea";

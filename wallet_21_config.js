@@ -1,1 +1,1 @@
-var mnemonic = "decade panel author media enjoy verify recipe salon spot sibling divert brisk";
+var mnemonic = "end squirrel glory stem leisure boat boss say affair betray trouble asthma";

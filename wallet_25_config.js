@@ -1,1 +1,1 @@
-var mnemonic = "slow song body legend saddle eyebrow decrease uphold very laugh strong tenant";
+var mnemonic = "fashion stool science slab say involve wait enough cancel rifle siege biology";

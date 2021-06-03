@@ -1,1 +1,1 @@
-var mnemonic = "erosion wheel over coil movie favorite bag horn mask put spirit shuffle";
+var mnemonic = "escape surprise seven coconut century acquire permit spring thumb bachelor banana onion";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder finger noble animal candy point nation interest horror polar become unable";
+var mnemonic = "glow abstract piano alpha dish put unique skate matrix symptom hen cram";

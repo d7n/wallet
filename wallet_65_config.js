@@ -1,1 +1,1 @@
-var mnemonic = "seminar mimic opinion symbol acid federal fog chief cart radar hurt web";
+var mnemonic = "stomach task bus immense regret budget judge view cradle source dance hand";

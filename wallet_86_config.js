@@ -1,1 +1,1 @@
-var mnemonic = "bulk eight unknown twice alien between section fiction main bracket then elegant";
+var mnemonic = "network identify cloud subject together defense multiply ivory found diet gospel pattern";

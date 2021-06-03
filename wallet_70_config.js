@@ -1,1 +1,1 @@
-var mnemonic = "defy fish minor price dance copy spatial paddle foot romance legend race";
+var mnemonic = "gasp palace price choice napkin sell impulse twin depth provide shiver pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "empty invest brain burger fatigue chapter boat beef move able logic account";
+var mnemonic = "pipe prefer excuse sword rich car sphere hire junk sauce gorilla protect";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor squirrel toe fashion addict police engine oppose awake clown fiber blossom";
+var mnemonic = "jungle make diagram erode tent below predict cook enforce brown observe glare";

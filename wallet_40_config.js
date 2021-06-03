@@ -1,1 +1,1 @@
-var mnemonic = "very online divide gauge lawsuit employ nice valley cactus blame forget lion";
+var mnemonic = "account element universe jewel stand guilt hunt couch scene chair team shine";

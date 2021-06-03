@@ -1,1 +1,1 @@
-var mnemonic = "pitch shift dial useless marble outer sniff switch uniform crowd mom recycle";
+var mnemonic = "warm horn gallery bus pact uncover pulp ill magnet glad desert unit";

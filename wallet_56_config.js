@@ -1,1 +1,1 @@
-var mnemonic = "bulb pair yard enforce inside dose stone able stairs dumb merry elbow";
+var mnemonic = "myth index immense shoulder brain defy rare visual stage copper scare bronze";

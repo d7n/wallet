@@ -1,1 +1,1 @@
-var mnemonic = "enemy spread quote service wreck oxygen merry carry orbit short bean denial";
+var mnemonic = "object toilet flip dwarf ship minor laugh above firm dove other pistol";

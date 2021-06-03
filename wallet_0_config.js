@@ -1,1 +1,1 @@
-var mnemonic = "later sing gaze flag slice mask tennis memory decade remind donor tomato";
+var mnemonic = "clown alcohol stuff device theme universe category peasant save ball recipe improve";

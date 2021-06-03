@@ -1,1 +1,1 @@
-var mnemonic = "guitar melt already praise satoshi elder used violin make trim song ivory";
+var mnemonic = "winner achieve anger grain talent wish minimum where wisdom accuse unhappy divert";

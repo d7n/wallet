@@ -1,1 +1,1 @@
-var mnemonic = "total tattoo motor collect champion zoo vacant panther loyal second prepare energy";
+var mnemonic = "metal olive opinion hammer satoshi duck prefer wide upper nasty midnight depth";
