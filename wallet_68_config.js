@@ -1,1 +1,1 @@
-var mnemonic = "party column rebuild adult throw fork strong head bridge soccer weekend ozone";
+var mnemonic = "saddle month inner sport type couch joke riot film tail organ pilot";

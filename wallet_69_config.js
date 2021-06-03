@@ -1,1 +1,1 @@
-var mnemonic = "group town dragon riot stamp slush lion embody fame brick cupboard work";
+var mnemonic = "error evolve open click team decade purchase drill victory mom topple fall";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom early zero hip speak auto next nest result flavor course gravity";
+var mnemonic = "lake swallow steak amazing october cousin sustain rent police trumpet deer daring";

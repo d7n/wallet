@@ -1,1 +1,1 @@
-var mnemonic = "entire marine finish like across pass position chimney regular hollow album nasty";
+var mnemonic = "wish local pole detail soup weasel master choice delay satisfy margin plate";

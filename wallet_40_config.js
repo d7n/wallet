@@ -1,1 +1,1 @@
-var mnemonic = "arrange affair topple code among venue clutch arrow father stuff planet ankle";
+var mnemonic = "car enough twist tooth rely august naive arm task inch peace west";

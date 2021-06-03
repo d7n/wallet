@@ -1,1 +1,1 @@
-var mnemonic = "shock inform grid feature author napkin prison coach merry mountain juice reunion";
+var mnemonic = "capable price cloth roast web twice outside inmate scare issue fall receive";

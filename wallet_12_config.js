@@ -1,1 +1,1 @@
-var mnemonic = "urge input tattoo fit latin position during wood bacon jazz auto essence";
+var mnemonic = "prefer brave blast action observe impulse soap trumpet beauty bean bubble major";

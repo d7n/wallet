@@ -1,1 +1,1 @@
-var mnemonic = "soccer ensure car wrist ring theme proud pioneer tower uniform present man";
+var mnemonic = "often owner hello satisfy camera quit village type topple amount fee tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "coin uniform move practice social knife absent camera purchase gloom unveil what";
+var mnemonic = "prosper pudding hammer session knock same tonight pilot van airport tragic drift";

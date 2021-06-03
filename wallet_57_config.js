@@ -1,1 +1,1 @@
-var mnemonic = "zero stand weird list iron void jump talent vital burst eight galaxy";
+var mnemonic = "arctic capable dizzy blush enter attack clinic cloud badge empower glory hill";

@@ -1,1 +1,1 @@
-var mnemonic = "secret entry ship various left lunar link plug solar intact torch custom";
+var mnemonic = "punch distance vital curve caught wire smoke genuine toilet inherit glove foil";

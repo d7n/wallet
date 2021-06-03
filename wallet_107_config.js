@@ -1,1 +1,1 @@
-var mnemonic = "program nothing enact session mimic alien round law foam grape danger chuckle";
+var mnemonic = "okay measure wrist prefer buyer cupboard design limb team valid enact fiscal";

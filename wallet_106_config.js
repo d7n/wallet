@@ -1,1 +1,1 @@
-var mnemonic = "promote sponsor black boil tattoo coyote pelican rival cause latin very certain";
+var mnemonic = "traffic helmet exist forum vault quit any original during seek volcano visit";

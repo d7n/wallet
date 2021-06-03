@@ -1,1 +1,1 @@
-var mnemonic = "table pen cat equip old peasant elephant grape direct february unique paddle";
+var mnemonic = "cotton ridge repair bounce real broom hedgehog total board vacant angry crew";

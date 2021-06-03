@@ -1,1 +1,1 @@
-var mnemonic = "glass chief renew unknown seminar acquire chapter neither industry tooth long fuel";
+var mnemonic = "almost erode horror half maximum denial interest priority grain strike reopen carry";

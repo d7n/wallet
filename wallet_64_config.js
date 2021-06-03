@@ -1,1 +1,1 @@
-var mnemonic = "update lamp success knee raw until blanket orbit vapor invest mask swallow";
+var mnemonic = "hybrid regular bronze sun kiss bachelor engine palm sun mobile glare choice";

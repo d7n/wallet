@@ -1,1 +1,1 @@
-var mnemonic = "agree because enemy hen lunar orchard mad proud very sort badge chief";
+var mnemonic = "basic syrup cat empower upon spell adapt eternal van suffer current envelope";

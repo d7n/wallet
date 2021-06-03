@@ -1,1 +1,1 @@
-var mnemonic = "juice trigger vacant memory around pride approve initial fossil shove girl dog";
+var mnemonic = "bamboo decline address dune belt mask mass tool outside orchard actual arrive";

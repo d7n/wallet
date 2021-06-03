@@ -1,1 +1,1 @@
-var mnemonic = "error supply never staff marriage version faint slim subject civil misery afraid";
+var mnemonic = "any draw enroll romance gold mention sleep false kitten say amused tone";

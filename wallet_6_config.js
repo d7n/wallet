@@ -1,1 +1,1 @@
-var mnemonic = "negative sentence school shed fish home trade drum lounge radar captain razor";
+var mnemonic = "vacant wrist talk error roof improve truck primary science crawl thank skill";

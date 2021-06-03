@@ -1,1 +1,1 @@
-var mnemonic = "enter behave vast segment all resemble perfect until soccer tank remind shallow";
+var mnemonic = "glad actual recycle smart chat drive cover clown brisk festival crush frown";

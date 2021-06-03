@@ -1,1 +1,1 @@
-var mnemonic = "pencil local range shy aspect diary arrive couch olympic maze suffer wasp";
+var mnemonic = "various announce shaft vast list public antique hand better fork junior soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "material expire token heart wave weird mercy board slender payment thank nut";
+var mnemonic = "target athlete course pull loud setup drive theory nothing kiss repair acid";

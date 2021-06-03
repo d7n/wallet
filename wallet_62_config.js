@@ -1,1 +1,1 @@
-var mnemonic = "over leaf vendor resist lamp phone what ghost fiber carry inspire surface";
+var mnemonic = "meat mushroom asset knee dish artefact obscure amazing disease face laundry cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "art need burden shove dash east clever faint excuse kiwi guitar kangaroo";
+var mnemonic = "long dune upon quarter initial ice imitate genre picture carry airport sentence";

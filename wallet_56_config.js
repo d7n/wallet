@@ -1,1 +1,1 @@
-var mnemonic = "acoustic carry december oxygen present fog require swap regular prize bunker base";
+var mnemonic = "move gorilla vapor club gadget sustain bind flee rent cheese medal sure";

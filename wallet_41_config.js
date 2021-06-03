@@ -1,1 +1,1 @@
-var mnemonic = "banner broken radar above universe very hat antenna derive crack humble silver";
+var mnemonic = "recycle cloth fuel quit fragile swear rail female large day world wisdom";

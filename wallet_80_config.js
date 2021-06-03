@@ -1,1 +1,1 @@
-var mnemonic = "tuna already must arrest inmate find scrap table chest exotic know amount";
+var mnemonic = "front wage maximum debris rail miss during describe situate fetch coconut write";

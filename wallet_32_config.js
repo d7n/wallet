@@ -1,1 +1,1 @@
-var mnemonic = "bar pet casual spread able picnic perfect very affair fog brief zoo";
+var mnemonic = "adult arm total rescue betray unfold rifle solve diagram stool material circle";

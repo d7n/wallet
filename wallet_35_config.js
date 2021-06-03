@@ -1,1 +1,1 @@
-var mnemonic = "someone endorse adapt account vicious ordinary pull lend surround smooth park riot";
+var mnemonic = "science expire case salt aspect when envelope summer magic wage place swear";

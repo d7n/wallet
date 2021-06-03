@@ -1,1 +1,1 @@
-var mnemonic = "innocent shallow double spice time often doctor embody hobby engage list copy";
+var mnemonic = "soap truth method mirror dawn party hint electric local input pond cricket";

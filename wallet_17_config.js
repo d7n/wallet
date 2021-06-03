@@ -1,1 +1,1 @@
-var mnemonic = "child field cycle vicious flat oval month cactus core buzz brand answer";
+var mnemonic = "album crucial buffalo ignore escape stomach guilt prison monster wedding eyebrow victory";

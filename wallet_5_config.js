@@ -1,1 +1,1 @@
-var mnemonic = "now magic emerge donate prosper cube another market auto marine ribbon process";
+var mnemonic = "sausage holiday true clerk lawsuit venture motor misery leopard awesome egg author";

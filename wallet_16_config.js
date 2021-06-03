@@ -1,1 +1,1 @@
-var mnemonic = "side belt grace volcano squeeze zero else symptom skin sing never daring";
+var mnemonic = "random orbit farm film radio tower drip fetch spare poem fetch general";

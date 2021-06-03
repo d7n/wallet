@@ -1,1 +1,1 @@
-var mnemonic = "eight lawsuit extend inspire balance hire spot melt roast iron royal picnic";
+var mnemonic = "excess race turkey weapon caught couple identify reunion saddle grace youth humble";

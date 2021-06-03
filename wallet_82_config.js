@@ -1,1 +1,1 @@
-var mnemonic = "era enroll erode bus vapor drill bright nerve come magic stereo jaguar";
+var mnemonic = "siege lava nurse pelican second electric enemy must leaf fragile image elbow";

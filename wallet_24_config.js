@@ -1,1 +1,1 @@
-var mnemonic = "almost soft category domain lift cruel clean mixed large walk attract earth";
+var mnemonic = "tape traffic adapt scout repair leisure upper book math quality call pact";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff trip busy bottom logic torch cigar host deer loud hat nephew";
+var mnemonic = "ozone reject obvious sadness dwarf soup endorse text clog brand tube avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber buffalo assume alter make result catalog circle hip crowd nasty tennis";
+var mnemonic = "cool west frame reduce radio high protect faith episode file announce double";

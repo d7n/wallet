@@ -1,1 +1,1 @@
-var mnemonic = "kick lunar stadium suit tenant spell census volume uniform bleak boil total";
+var mnemonic = "gorilla round carry guard west meat horror equip agent column estate just";

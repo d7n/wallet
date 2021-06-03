@@ -1,1 +1,1 @@
-var mnemonic = "liquid scissors vocal asset process boring virtual decorate shock guilt apple entry";
+var mnemonic = "trust obvious harsh jar trigger fix useful bonus report vivid snack picture";

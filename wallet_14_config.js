@@ -1,1 +1,1 @@
-var mnemonic = "august jeans shove calm suffer betray frown cupboard monster list panic slam";
+var mnemonic = "safe together hold narrow business addict exile final assume below tool maximum";

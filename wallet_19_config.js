@@ -1,1 +1,1 @@
-var mnemonic = "quick matter punch mechanic drop voice govern arch immense evidence try evidence";
+var mnemonic = "island dad portion gloom admit all cat goat cement animal rebel pulp";

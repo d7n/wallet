@@ -1,1 +1,1 @@
-var mnemonic = "stone park give disease choose clip inhale uphold drive comic protect pilot";
+var mnemonic = "kind beef bridge cement lumber involve suggest torch night tool hotel decline";

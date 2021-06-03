@@ -1,1 +1,1 @@
-var mnemonic = "dolphin visit moral muscle half rail jaguar gaze table bird alarm possible";
+var mnemonic = "balcony seven leg police slam infant shrimp swallow excuse tell box actress";

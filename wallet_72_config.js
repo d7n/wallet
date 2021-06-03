@@ -1,1 +1,1 @@
-var mnemonic = "sweet curtain magic receive equip destroy negative stand inherit vendor provide heart";
+var mnemonic = "tiger crane rare frog fish year solve behind art search curtain drink";

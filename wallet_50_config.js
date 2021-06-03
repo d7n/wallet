@@ -1,1 +1,1 @@
-var mnemonic = "smoke secret print educate age speed illness evidence season force empower siege";
+var mnemonic = "dash present armor forget slab girl other uncle decade remove bird basic";

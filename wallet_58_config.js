@@ -1,1 +1,1 @@
-var mnemonic = "guitar citizen spell title resemble immune blue group echo razor dutch describe";
+var mnemonic = "mountain subway armed link alpha special assault exit unique present quantum crime";

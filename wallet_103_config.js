@@ -1,1 +1,1 @@
-var mnemonic = "debris holiday slam gallery snake enable joke dish exchange false second mask";
+var mnemonic = "soft twist guard rule young sure solar stairs diamond surge owner puzzle";

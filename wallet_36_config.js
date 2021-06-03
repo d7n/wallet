@@ -1,1 +1,1 @@
-var mnemonic = "hundred cereal worth ozone camp island vague glare cute junk maid rigid";
+var mnemonic = "traffic observe timber finish jealous check brother enlist kingdom tail leopard rigid";

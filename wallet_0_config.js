@@ -1,1 +1,1 @@
-var mnemonic = "become cause income guide accident vivid weird jewel spend tobacco dish leopard";
+var mnemonic = "pond viable guess plate glory climb burst picture three sign stamp agree";

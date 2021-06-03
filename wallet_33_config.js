@@ -1,1 +1,1 @@
-var mnemonic = "inquiry assault glare bulk conduct captain open glad twist cave bamboo chunk";
+var mnemonic = "joy impose tonight rail forum coach faith gadget express garbage hair fantasy";

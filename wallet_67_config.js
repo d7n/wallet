@@ -1,1 +1,1 @@
-var mnemonic = "soul genius shoe gas bean remember bike artist duty recycle apart age";
+var mnemonic = "lounge wise attract educate response stage put supreme heart primary ice pond";

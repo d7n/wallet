@@ -1,1 +1,1 @@
-var mnemonic = "share fever output buyer survey useless visa vote cinnamon around visit magic";
+var mnemonic = "enough about mask spare promote soon diagram fitness find else village grape";

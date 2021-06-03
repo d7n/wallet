@@ -1,1 +1,1 @@
-var mnemonic = "digital brave habit gesture bright isolate erosion discover tuna tiger lemon payment";
+var mnemonic = "unable price snap isolate impulse worry easily thought wedding jealous sister tired";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire purse layer feel moral walnut trust suffer gasp elite coil core";
+var mnemonic = "then auto because logic oxygen popular east duck jaguar rocket refuse isolate";

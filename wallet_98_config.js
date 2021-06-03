@@ -1,1 +1,1 @@
-var mnemonic = "stay boy admit fiscal unhappy donor merge axis various record image pioneer";
+var mnemonic = "mutual cycle license vendor achieve consider bottom example buffalo service enemy pink";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi debris modify express gravity visa limit cruel pony margin filter border";
+var mnemonic = "van chat battle fly agent guitar thumb hockey clean atom siren tenant";

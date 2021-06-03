@@ -1,1 +1,1 @@
-var mnemonic = "city catalog valve ancient arrange cattle bonus sentence pen panel mean unveil";
+var mnemonic = "rice worry display call episode cargo firm element input elite behind napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "relief course love orchard fix act fossil clerk blush system tank ecology";
+var mnemonic = "state explain day primary emerge snake crawl setup rabbit invite consider cliff";

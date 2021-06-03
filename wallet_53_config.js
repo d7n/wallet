@@ -1,1 +1,1 @@
-var mnemonic = "seat panel humble party differ midnight jelly toast claim file tourist thank";
+var mnemonic = "own tiger nominee kingdom local tooth tattoo obtain lend method copy main";

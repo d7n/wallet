@@ -1,1 +1,1 @@
-var mnemonic = "health aerobic crowd jeans wedding guide ecology anger already panda noodle shy";
+var mnemonic = "cradle mountain learn major domain cotton enlist equip ostrich frost equip afford";

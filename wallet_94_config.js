@@ -1,1 +1,1 @@
-var mnemonic = "clip cost feature ticket shuffle car camera faith item ripple bullet stone";
+var mnemonic = "peanut finger walnut oil budget involve inside critic again foster deposit thought";

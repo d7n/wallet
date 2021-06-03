@@ -1,1 +1,1 @@
-var mnemonic = "document three cliff ensure treat almost brother faint comic explain enable advice";
+var mnemonic = "north abuse movie hole roast toddler act bounce travel walnut shine super";

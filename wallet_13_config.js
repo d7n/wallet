@@ -1,1 +1,1 @@
-var mnemonic = "dignity expire novel bridge across warm taste concert edge pigeon champion card";
+var mnemonic = "galaxy resemble mistake thing above reopen depart satoshi quote amateur sunset gun";

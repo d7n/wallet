@@ -1,1 +1,1 @@
-var mnemonic = "rely salmon post pool enforce buyer valley broken notice author vault silk";
+var mnemonic = "nation push regret solve zone luggage profit sibling bunker confirm vocal snap";

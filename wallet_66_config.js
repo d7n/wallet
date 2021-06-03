@@ -1,1 +1,1 @@
-var mnemonic = "trap pause swarm guess palm diet scene trial water color busy butter";
+var mnemonic = "human remember sight primary uniform thing process scatter mule senior ripple sand";

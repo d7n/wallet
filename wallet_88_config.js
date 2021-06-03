@@ -1,1 +1,1 @@
-var mnemonic = "together solution trip wine disagree bus grow nuclear buffalo mountain guard just";
+var mnemonic = "piano april real biology rubber interest produce crush spin bind behave point";

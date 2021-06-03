@@ -1,1 +1,1 @@
-var mnemonic = "muscle powder clean eye dog capable century ugly sail adjust game slice";
+var mnemonic = "dignity twenty above manage cotton evoke drill sword shift scrub net they";

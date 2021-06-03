@@ -1,1 +1,1 @@
-var mnemonic = "swing pole luxury feature object want throw spy inner lonely ostrich there";
+var mnemonic = "sail camp obscure avoid crack benefit scan apple hamster eagle prepare comfort";

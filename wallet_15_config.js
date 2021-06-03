@@ -1,1 +1,1 @@
-var mnemonic = "pistol used edge tunnel truck blouse fitness immune confirm few step topple";
+var mnemonic = "retreat thunder syrup nice clap hazard genuine mad another penalty uphold song";

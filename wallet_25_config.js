@@ -1,1 +1,1 @@
-var mnemonic = "civil weekend symbol mention mercy depart discover photo proof steel brass donor";
+var mnemonic = "can use artwork hotel settle humor column hammer strike kingdom cloud blood";

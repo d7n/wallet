@@ -1,1 +1,1 @@
-var mnemonic = "soap brand pave baby nurse happy turn render drama bar bullet mansion";
+var mnemonic = "medal damp aspect pipe engage impose enroll lunch soccer what twice once";

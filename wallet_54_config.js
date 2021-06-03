@@ -1,1 +1,1 @@
-var mnemonic = "photo mercy bottom depth guilt burst waste slam finish else fossil escape";
+var mnemonic = "exist unable transfer body few wealth toy injury abuse catch prison bitter";

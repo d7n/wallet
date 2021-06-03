@@ -1,1 +1,1 @@
-var mnemonic = "mixed layer emerge ostrich cradle gravity kit steel dilemma design true method";
+var mnemonic = "cost brand need ship repeat rich cabin still mask mention possible desk";

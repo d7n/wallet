@@ -1,1 +1,1 @@
-var mnemonic = "spider nuclear tape section fog live increase upon gadget approve library grocery";
+var mnemonic = "smile tube outer response come record explain waste canvas turkey coil winter";

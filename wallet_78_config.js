@@ -1,1 +1,1 @@
-var mnemonic = "ghost drum thought merit trap wrap fuel stadium brick nuclear board boat";
+var mnemonic = "unfold hold connect error bulb table become olympic vanish forget coral bundle";

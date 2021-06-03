@@ -1,1 +1,1 @@
-var mnemonic = "witness town welcome crystal mushroom unique shrimp announce grass twin upper material";
+var mnemonic = "kit silver interest best nephew board engage shrug modify morning version behind";

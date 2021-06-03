@@ -1,1 +1,1 @@
-var mnemonic = "song grain brick ignore wedding inquiry midnight route allow route violin kind";
+var mnemonic = "doll shield tackle coin vocal fury avocado crash submit snap volcano child";

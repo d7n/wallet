@@ -1,1 +1,1 @@
-var mnemonic = "caution learn energy large print tuna below potato gravity exit guess render";
+var mnemonic = "either number habit fox toast aim accident panda unusual legend find pull";

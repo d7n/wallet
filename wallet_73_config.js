@@ -1,1 +1,1 @@
-var mnemonic = "yellow ostrich whale kind okay shoe laundry axis can foot napkin zoo";
+var mnemonic = "breeze index drip popular picture silent subject observe lumber bitter east fetch";

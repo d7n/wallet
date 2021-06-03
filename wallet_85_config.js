@@ -1,1 +1,1 @@
-var mnemonic = "talk column live board property hidden gas swarm moral strong license warrior";
+var mnemonic = "blood defy trouble toy canvas trade frog slush enhance bus infant behave";

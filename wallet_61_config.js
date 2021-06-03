@@ -1,1 +1,1 @@
-var mnemonic = "dinner fame jealous pulse relief gift enrich shrug tackle wagon symbol awesome";
+var mnemonic = "suit reduce tumble evoke narrow eyebrow erosion marble welcome entire clump someone";

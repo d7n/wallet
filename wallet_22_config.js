@@ -1,1 +1,1 @@
-var mnemonic = "crazy trick cancel mesh zone boring flip noise category dash man indoor";
+var mnemonic = "wasp salad top response shallow over minute alone program image forest frost";

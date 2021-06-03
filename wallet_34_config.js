@@ -1,1 +1,1 @@
-var mnemonic = "afford sound crush unknown wolf runway nerve merit excess embrace smile style";
+var mnemonic = "boost news biology lonely lumber broccoli episode figure concert execute muscle hungry";

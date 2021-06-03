@@ -1,1 +1,1 @@
-var mnemonic = "spice sweet wire erosion boost outer choice dove flight sibling mushroom evolve";
+var mnemonic = "flower online gallery random penalty resource taxi immune helmet truth grant coin";

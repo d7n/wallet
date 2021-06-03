@@ -1,1 +1,1 @@
-var mnemonic = "cruise energy govern debris toddler use mansion motor deal summer chapter badge";
+var mnemonic = "dish tooth worry wool rescue car general hen ship convince note glance";
