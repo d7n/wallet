@@ -1,1 +1,1 @@
-var mnemonic = "merry vague captain judge glory toe sense index school exercise domain around";
+var mnemonic = "gauge float giant tell enrich antique shadow bean toward between soap element";

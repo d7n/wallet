@@ -1,1 +1,1 @@
-var mnemonic = "retire message discover upset arrest inch satisfy various panel rib tree seek";
+var mnemonic = "razor coach element asset prefer sign october success box penalty bus reveal";

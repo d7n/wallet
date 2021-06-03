@@ -1,1 +1,1 @@
-var mnemonic = "blade pact donkey horror run album rose seed cluster elite beauty defy";
+var mnemonic = "riot turkey orchard frame music alien quality ice visual spring patient math";

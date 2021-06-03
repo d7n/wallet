@@ -1,1 +1,1 @@
-var mnemonic = "figure eight measure code village can trumpet clarify photo citizen crunch mandate";
+var mnemonic = "shoe this lab novel note draft wool about inch depth crack blame";

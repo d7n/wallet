@@ -1,1 +1,1 @@
-var mnemonic = "lens hour impose concert fee pull three animal penalty volume wife rude";
+var mnemonic = "weasel fame boil lunch item melt quote benefit country orient large wedding";

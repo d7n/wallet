@@ -1,1 +1,1 @@
-var mnemonic = "health bounce raise pig tide charge tree remain random eye flag caution";
+var mnemonic = "glass gloom entry leave champion left famous raw fame weasel prefer state";

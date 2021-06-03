@@ -1,1 +1,1 @@
-var mnemonic = "mixed zone reunion wreck three diesel cloth series edit forest exclude iron";
+var mnemonic = "friend april vibrant jewel shadow crane video arrange avoid tell divide survey";

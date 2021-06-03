@@ -1,1 +1,1 @@
-var mnemonic = "worth dish behind chest onion beef dream rough iron reopen stamp lumber";
+var mnemonic = "hub theme wheel promote black mandate mix outside wrong width carbon same";

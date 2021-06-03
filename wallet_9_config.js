@@ -1,1 +1,1 @@
-var mnemonic = "run involve repeat vocal mystery tide below beach idea keen parade alley";
+var mnemonic = "feature sphere parrot wet credit chunk bleak clog tray jazz battle spring";

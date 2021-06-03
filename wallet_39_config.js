@@ -1,1 +1,1 @@
-var mnemonic = "race space half vintage scheme want caught reveal misery early drill peace";
+var mnemonic = "fork warfare crime predict sail switch concert fog there horn perfect pink";

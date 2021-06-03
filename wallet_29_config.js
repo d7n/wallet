@@ -1,1 +1,1 @@
-var mnemonic = "human lizard monkey post solar bulk polar capital era runway custom stone";
+var mnemonic = "pitch shift dial useless marble outer sniff switch uniform crowd mom recycle";

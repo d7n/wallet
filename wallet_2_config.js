@@ -1,1 +1,1 @@
-var mnemonic = "keep energy slot menu pig rain approve unusual gloom donor layer treat";
+var mnemonic = "keep pony place multiply fix speed orchard device parrot yard glow round";

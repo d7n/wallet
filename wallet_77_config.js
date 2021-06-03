@@ -1,1 +1,1 @@
-var mnemonic = "dish action pioneer rally utility little alien library doctor deny bus photo";
+var mnemonic = "salad dolphin waste mountain paper mixed sadness perfect ancient kiwi jar frozen";

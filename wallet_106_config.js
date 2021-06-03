@@ -1,1 +1,1 @@
-var mnemonic = "poverty coyote awkward deputy loan solar depart casual move match parrot wide";
+var mnemonic = "art upgrade luxury tank hobby casino jewel list actress major tongue task";

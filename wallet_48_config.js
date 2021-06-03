@@ -1,1 +1,1 @@
-var mnemonic = "special sponsor excuse volume struggle tongue diamond profit dune eager ecology opera";
+var mnemonic = "immune assume nice across tragic eager elevator public usage custom main start";

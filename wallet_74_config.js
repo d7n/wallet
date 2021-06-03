@@ -1,1 +1,1 @@
-var mnemonic = "also category attend cactus another minute parade awake among comfort travel nuclear";
+var mnemonic = "zebra warrior armed suspect tenant power divert dash kingdom artwork pilot disease";

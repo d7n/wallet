@@ -1,1 +1,1 @@
-var mnemonic = "main mom situate turtle march happy average tennis weasel unfold dwarf blade";
+var mnemonic = "bachelor squirrel toe fashion addict police engine oppose awake clown fiber blossom";

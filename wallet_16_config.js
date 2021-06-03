@@ -1,1 +1,1 @@
-var mnemonic = "filter away pepper employ birth credit destroy payment warrior consider unveil silver";
+var mnemonic = "total tattoo motor collect champion zoo vacant panther loyal second prepare energy";

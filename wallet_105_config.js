@@ -1,1 +1,1 @@
-var mnemonic = "float ankle stumble heart monkey lounge thing okay fold impact dynamic dragon";
+var mnemonic = "swear vibrant winter ostrich genuine bulk awful woman cattle relax glad vast";

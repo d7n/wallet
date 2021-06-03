@@ -1,1 +1,1 @@
-var mnemonic = "angry object fat cabin inflict bean engine opera depth supreme wing blue";
+var mnemonic = "twist benefit rose expire airport whisper grid bean predict have reform disagree";

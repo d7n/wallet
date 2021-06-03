@@ -1,1 +1,1 @@
-var mnemonic = "already nurse expand flavor length loyal diamond hello visit laptop pony art";
+var mnemonic = "box smoke sponsor tongue you average lunch obey mass say verb scheme";

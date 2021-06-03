@@ -1,1 +1,1 @@
-var mnemonic = "spider gorilla provide betray trouble bargain visa delay more when magic wage";
+var mnemonic = "night nest barrel print tuna spider ring budget front view ski assist";

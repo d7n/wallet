@@ -1,1 +1,1 @@
-var mnemonic = "flight swarm direct beef unusual write mind huge cake sleep ivory still";
+var mnemonic = "author dynamic lucky result kiss radio expect topic differ live miss index";

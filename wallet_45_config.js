@@ -1,1 +1,1 @@
-var mnemonic = "razor muscle basic upon all nut save canoe uniform come topic venture";
+var mnemonic = "pistol beef loop february light push soon float income float sustain army";

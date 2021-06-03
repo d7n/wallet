@@ -1,1 +1,1 @@
-var mnemonic = "escape aware regular rule say luxury teach buyer piece urge only isolate";
+var mnemonic = "orphan cherry unknown theme fiscal small push baby truck paper dust letter";

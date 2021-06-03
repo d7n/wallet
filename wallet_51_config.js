@@ -1,1 +1,1 @@
-var mnemonic = "phone october thumb vocal final ignore imitate bar system fury card feel";
+var mnemonic = "soup gasp exact push civil vault finger solid help boy myself gaze";

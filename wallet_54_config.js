@@ -1,1 +1,1 @@
-var mnemonic = "human pioneer cricket soft update throw interest oven gun corn palm bus";
+var mnemonic = "pizza arrow city shallow beach entry live city extra warfare bleak bus";

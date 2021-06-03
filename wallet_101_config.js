@@ -1,1 +1,1 @@
-var mnemonic = "vague nerve hint include brand company castle plug margin swim inflict estate";
+var mnemonic = "pledge agree napkin february appear hire message copper sun egg couple soldier";

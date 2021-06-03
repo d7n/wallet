@@ -1,1 +1,1 @@
-var mnemonic = "negative hammer vicious initial enforce target brown mad tower live oven vibrant";
+var mnemonic = "angle machine apart onion fuel budget undo cover rug crew empower spoon";

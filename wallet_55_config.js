@@ -1,1 +1,1 @@
-var mnemonic = "mix panic huge unveil polar brick panther sell broom jelly miracle step";
+var mnemonic = "summer among pond tooth confirm economy obtain grant melt valve future example";

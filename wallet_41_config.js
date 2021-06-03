@@ -1,1 +1,1 @@
-var mnemonic = "frame stadium riot rude alien nation earth enough upset shoulder monitor taste";
+var mnemonic = "spread mother hurdle lazy one fatigue label admit public grain soup flush";

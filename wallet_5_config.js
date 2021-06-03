@@ -1,1 +1,1 @@
-var mnemonic = "owner echo album rude present tomorrow hero reunion royal derive common cradle";
+var mnemonic = "deer increase demand use nation view reject win honey assist lunch child";

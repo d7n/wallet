@@ -1,1 +1,1 @@
-var mnemonic = "frozen airport hawk burst travel weather festival oblige approve return album test";
+var mnemonic = "change simple tray inquiry pilot solution banner icon knock cotton when cushion";

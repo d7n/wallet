@@ -1,1 +1,1 @@
-var mnemonic = "lesson cat birth second tuna disease correct subject shuffle boat sort diary";
+var mnemonic = "armed law similar bring ski dune arrange frozen bullet nurse silly valid";

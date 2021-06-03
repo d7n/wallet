@@ -1,1 +1,1 @@
-var mnemonic = "stick trip health usual orbit globe clown payment idle glimpse usage oil";
+var mnemonic = "you quote solve pet inherit edit hidden hungry labor scissors balance space";

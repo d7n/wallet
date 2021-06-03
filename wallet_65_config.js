@@ -1,1 +1,1 @@
-var mnemonic = "depend ticket squirrel spring arch spy nerve bridge tiger large silver used";
+var mnemonic = "seminar mimic opinion symbol acid federal fog chief cart radar hurt web";

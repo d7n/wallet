@@ -1,1 +1,1 @@
-var mnemonic = "goat regret resource immune craft motor build corn evidence tragic throw claim";
+var mnemonic = "later sing gaze flag slice mask tennis memory decade remind donor tomato";

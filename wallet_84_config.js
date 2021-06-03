@@ -1,1 +1,1 @@
-var mnemonic = "alcohol tunnel fortune private odor banana clap client bird monster jelly gold";
+var mnemonic = "already rent fluid federal correct engage dove skate help tree right riot";

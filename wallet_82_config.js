@@ -1,1 +1,1 @@
-var mnemonic = "silk mass patrol desk patch float link city play decrease ugly document";
+var mnemonic = "girl build bean face lion guitar father harbor come glance hip afford";

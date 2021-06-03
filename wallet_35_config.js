@@ -1,1 +1,1 @@
-var mnemonic = "enact black master black face valve message okay filter drill arrange embark";
+var mnemonic = "warm culture avocado club draft measure hungry truck exile want build subway";

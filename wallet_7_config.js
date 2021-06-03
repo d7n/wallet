@@ -1,1 +1,1 @@
-var mnemonic = "dismiss review home inflict point debate hybrid upon follow point verb another";
+var mnemonic = "differ sort reason erode strong crawl mandate mouse below tray develop ethics";

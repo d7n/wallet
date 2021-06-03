@@ -1,1 +1,1 @@
-var mnemonic = "announce cement romance story range gas long desk never frost list aware";
+var mnemonic = "inch frequent clump mix key arch truck machine crime common arrive fork";

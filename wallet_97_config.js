@@ -1,1 +1,1 @@
-var mnemonic = "wood mind room agent level car price chalk love meat valve turkey";
+var mnemonic = "erosion wheel over coil movie favorite bag horn mask put spirit shuffle";

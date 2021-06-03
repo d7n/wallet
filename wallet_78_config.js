@@ -1,1 +1,1 @@
-var mnemonic = "vote capable april eyebrow garlic choice stone model gesture answer hospital dismiss";
+var mnemonic = "very lonely junior spirit lock shield cat success illegal glide design usage";

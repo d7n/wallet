@@ -1,1 +1,1 @@
-var mnemonic = "action economy finish cattle farm accident rib crush away build paddle clinic";
+var mnemonic = "flame dry caught wide jelly length mistake dismiss ghost remember wrist fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric coin quit monkey model sunset update derive kidney mention sort witness";
+var mnemonic = "bulk eight unknown twice alien between section fiction main bracket then elegant";

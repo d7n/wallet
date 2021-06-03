@@ -1,1 +1,1 @@
-var mnemonic = "orphan marriage renew blanket sport more arrive fly tower rifle ribbon defense";
+var mnemonic = "chef execute mobile harsh attend enter rail happy dragon boost wool curve";

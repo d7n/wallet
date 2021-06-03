@@ -1,1 +1,1 @@
-var mnemonic = "common frown diary cute session erosion category convince frog child corn vendor";
+var mnemonic = "fabric brief flash box cancel intact mistake seat crumble senior scrub draft";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage roof else rhythm acid identify color under liar slim food perfect";
+var mnemonic = "grit click kite fire company ripple blouse hire city before torch tattoo";

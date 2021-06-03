@@ -1,1 +1,1 @@
-var mnemonic = "meat sustain opera fiber fog solve ready possible word flip bright swear";
+var mnemonic = "transfer license cup diamond finger flash there trophy sheriff nephew learn this";

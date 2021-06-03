@@ -1,1 +1,1 @@
-var mnemonic = "luxury couch spring wild clinic hello boat adapt you hill medal chest";
+var mnemonic = "dad title turn scrub account robot exercise dragon glide follow dance you";

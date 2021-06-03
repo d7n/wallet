@@ -1,1 +1,1 @@
-var mnemonic = "endorse sound owner sign loud palm pole course race dizzy web shoot";
+var mnemonic = "hen funny exact call notable result early sibling pride blanket design front";

@@ -1,1 +1,1 @@
-var mnemonic = "scene chuckle farm scrub sibling manual sunset blood lumber asset grief suit";
+var mnemonic = "badge athlete liberty soup wrist slight ask vessel dry giggle cream wasp";

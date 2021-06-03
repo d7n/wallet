@@ -1,1 +1,1 @@
-var mnemonic = "term penalty lawsuit possible tennis source lesson museum year gesture convince mistake";
+var mnemonic = "pizza fault minor waste cabin little orient farm clean sick announce measure";

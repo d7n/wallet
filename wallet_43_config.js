@@ -1,1 +1,1 @@
-var mnemonic = "various ten home only column aerobic flavor feel rose junk undo vast";
+var mnemonic = "pact virtual stadium payment taste ecology garbage canyon roast cable embrace desert";

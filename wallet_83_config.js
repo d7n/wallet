@@ -1,1 +1,1 @@
-var mnemonic = "female pony truly body mixed jar possible punch keen brave false letter";
+var mnemonic = "enemy spread quote service wreck oxygen merry carry orbit short bean denial";

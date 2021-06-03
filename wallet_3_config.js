@@ -1,1 +1,1 @@
-var mnemonic = "slice rug curious struggle napkin glare chase heavy season file bounce awake";
+var mnemonic = "abuse exotic viable blame payment describe ladder fetch hundred exile scissors seat";

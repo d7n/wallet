@@ -1,1 +1,1 @@
-var mnemonic = "media cave tomato subway express sphere episode detect barely spot other region";
+var mnemonic = "impact puzzle subway shoulder carpet coyote across else lawsuit lottery solar regular";

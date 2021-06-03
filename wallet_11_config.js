@@ -1,1 +1,1 @@
-var mnemonic = "hospital taxi wet enroll hero divorce degree master fuel pioneer mistake amateur";
+var mnemonic = "mean net check retreat address ship doll gloom brief attitude leader code";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge rebel volcano nest couch inherit never bird very divorce skull pause";
+var mnemonic = "problem section purpose rural hedgehog ozone opera absent calm open still evidence";

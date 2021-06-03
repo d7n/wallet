@@ -1,1 +1,1 @@
-var mnemonic = "oil husband picture picture between inch busy kiss latin work swing miss";
+var mnemonic = "slow song body legend saddle eyebrow decrease uphold very laugh strong tenant";

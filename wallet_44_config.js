@@ -1,1 +1,1 @@
-var mnemonic = "charge half super rule capital run across season legal vivid fortune solar";
+var mnemonic = "autumn quit chimney absent canoe express toy useless wonder flight there busy";

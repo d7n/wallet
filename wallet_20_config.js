@@ -1,1 +1,1 @@
-var mnemonic = "blur own trade kiss rent sauce chair ostrich concert hospital episode solar";
+var mnemonic = "expand jaguar cute oxygen stem method humor know pink fuel panel weekend";

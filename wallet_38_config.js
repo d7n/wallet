@@ -1,1 +1,1 @@
-var mnemonic = "negative assume message blossom tattoo work claw focus brief novel obvious moment";
+var mnemonic = "unfold toy exotic dry diet cruel slam drop lumber suspect exchange slice";

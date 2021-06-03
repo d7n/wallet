@@ -1,1 +1,1 @@
-var mnemonic = "pledge waste object gas amused priority virus give genre deal legend wild";
+var mnemonic = "shrug rude govern enforce again clever glove switch observe between into tennis";

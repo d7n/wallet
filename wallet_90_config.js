@@ -1,1 +1,1 @@
-var mnemonic = "accident social drive cactus panic speed scissors country seek suggest neglect live";
+var mnemonic = "pond party fragile term certain release current fresh evil guilt jacket note";

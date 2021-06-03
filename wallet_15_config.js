@@ -1,1 +1,1 @@
-var mnemonic = "liar churn rebel asset invest doll clap penalty asthma tool kit enact";
+var mnemonic = "cupboard blossom flush extra clump consider labor luxury long fetch dinosaur time";

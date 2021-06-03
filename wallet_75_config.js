@@ -1,1 +1,1 @@
-var mnemonic = "duty outside cart approve reject truly autumn rain huge little volcano loyal";
+var mnemonic = "prosper kiwi conduct real orange inquiry capital early hazard cigar juice donor";

@@ -1,1 +1,1 @@
-var mnemonic = "practice odor tower cereal response traffic sphere duty forest window receive unable";
+var mnemonic = "master earn group forward state bar demand twenty brief erode deny tank";

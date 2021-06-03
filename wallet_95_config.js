@@ -1,1 +1,1 @@
-var mnemonic = "deal draft result sister bike excess penalty next prefer caught must curtain";
+var mnemonic = "speak swing wait market someone fury worry animal sting arrive route deal";

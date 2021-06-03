@@ -1,1 +1,1 @@
-var mnemonic = "pudding tumble order long pitch because menu unknown neck wonder heart cart";
+var mnemonic = "dad mad resist mystery tennis surprise legend calm lady trouble unit word";

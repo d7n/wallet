@@ -1,1 +1,1 @@
-var mnemonic = "jelly scout genre lock apology soup faculty holiday denial hover insect laugh";
+var mnemonic = "size midnight sort tenant lunch attract board soldier galaxy reunion actress avocado";

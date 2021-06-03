@@ -1,1 +1,1 @@
-var mnemonic = "volume piano east average seek fragile disagree bullet series sphere lumber pizza";
+var mnemonic = "foster reduce trick rival truly ski tube tomato dragon large reward truck";

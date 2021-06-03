@@ -1,1 +1,1 @@
-var mnemonic = "industry industry later solar mammal when desert couple fashion zero absurd outside";
+var mnemonic = "chuckle regret pink laugh build settle drip donate there fever media thank";

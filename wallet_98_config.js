@@ -1,1 +1,1 @@
-var mnemonic = "spend dust token base filter entry track prosper series simple wonder present";
+var mnemonic = "budget raise payment measure resemble solar need virtual enhance turn divide lion";

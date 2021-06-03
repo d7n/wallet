@@ -1,1 +1,1 @@
-var mnemonic = "legal supply inspire invest hollow salad ring immune want powder rally maximum";
+var mnemonic = "snow ensure swallow witness movie stool toe cube puzzle combine casino predict";

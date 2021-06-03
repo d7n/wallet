@@ -1,1 +1,1 @@
-var mnemonic = "broccoli nerve way clerk order crater impulse profit original tree skill stomach";
+var mnemonic = "defy fish minor price dance copy spatial paddle foot romance legend race";

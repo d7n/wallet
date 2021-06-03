@@ -1,1 +1,1 @@
-var mnemonic = "hard shallow cluster pizza topic regular cabbage honey water state elevator stereo";
+var mnemonic = "replace slab sausage liquid require punch icon cave physical cable else tag";

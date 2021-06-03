@@ -1,1 +1,1 @@
-var mnemonic = "arrest morning achieve smoke apple hunt legal double flee royal slogan cannon";
+var mnemonic = "guitar melt already praise satoshi elder used violin make trim song ivory";

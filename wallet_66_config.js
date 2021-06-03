@@ -1,1 +1,1 @@
-var mnemonic = "invite vendor nest antique put paper follow music awesome west injury suit";
+var mnemonic = "spring man license kangaroo such spend visual network borrow confirm employ thumb";

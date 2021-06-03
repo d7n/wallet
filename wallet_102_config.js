@@ -1,1 +1,1 @@
-var mnemonic = "glare assist walk flee flee hub fabric joy juice obscure emerge market";
+var mnemonic = "also patrol avoid bus image sister convince lava half crouch grief lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "minor second ball fiscal income sing rally twelve badge furnace excite toe";
+var mnemonic = "fantasy original host found first brain double survey destroy essay area vehicle";

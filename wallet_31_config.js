@@ -1,1 +1,1 @@
-var mnemonic = "stomach capital way bone night error axis behave actress spell raise resemble";
+var mnemonic = "pig curious desk nuclear entire hurdle what actress amateur vapor top sweet";

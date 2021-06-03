@@ -1,1 +1,1 @@
-var mnemonic = "east aware idea urban lend rapid jump trap camp enable pipe payment";
+var mnemonic = "hand muscle frog appear armor rain doctor clerk couple patrol slow salute";

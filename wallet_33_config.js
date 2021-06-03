@@ -1,1 +1,1 @@
-var mnemonic = "phone aim abandon lazy update ivory recipe flavor antique giant smart refuse";
+var mnemonic = "wrist rapid hen praise husband aspect gain wonder square power grocery wing";

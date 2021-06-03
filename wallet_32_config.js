@@ -1,1 +1,1 @@
-var mnemonic = "raccoon hold catch leopard razor room reward mention despair void attract snake";
+var mnemonic = "crucial found bottom know warm alpha phone boost assault kitten apart soap";

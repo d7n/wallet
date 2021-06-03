@@ -1,1 +1,1 @@
-var mnemonic = "market option group will cloud okay enjoy despair tone cable wrestle relax";
+var mnemonic = "world absent funny october light dash echo sheriff asset ivory current crater";

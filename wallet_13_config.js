@@ -1,1 +1,1 @@
-var mnemonic = "input wink usual pizza member explain glow memory cliff once metal voice";
+var mnemonic = "render avoid tower cycle lazy ketchup obey design furnace wheel shoe seed";

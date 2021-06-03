@@ -1,1 +1,1 @@
-var mnemonic = "script warm deer street galaxy enjoy grain shock enemy stadium scissors bulk";
+var mnemonic = "tilt spend shiver alter duck movie vacuum topic shiver furnace fury stove";

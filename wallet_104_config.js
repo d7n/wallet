@@ -1,1 +1,1 @@
-var mnemonic = "boy candy sock aim render van member enjoy dune lumber robot traffic";
+var mnemonic = "lawn design slot space life blame ritual nice digital wash video hedgehog";

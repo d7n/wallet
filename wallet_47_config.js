@@ -1,1 +1,1 @@
-var mnemonic = "lonely drum crawl meadow bread grab nose tool talk pet sudden cry";
+var mnemonic = "elder surface hub assist width cluster harbor truck real pact together city";

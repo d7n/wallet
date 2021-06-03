@@ -1,1 +1,1 @@
-var mnemonic = "sponsor fiscal reform blush luxury patrol fitness slogan limit day glove island";
+var mnemonic = "unlock bulb process soft author assault like train host lift start stadium";

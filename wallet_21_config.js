@@ -1,1 +1,1 @@
-var mnemonic = "elite bid churn casual question virus fun teach bundle dirt keen life";
+var mnemonic = "decade panel author media enjoy verify recipe salon spot sibling divert brisk";
