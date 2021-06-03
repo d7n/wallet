@@ -1,1 +1,1 @@
-var mnemonic = "flavor opera capable hood clay ocean clutch job sunny barely govern melody";
+var mnemonic = "provide dial art shiver visa gossip waste secret group globe stairs such";

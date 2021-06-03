@@ -1,1 +1,1 @@
-var mnemonic = "crucial save differ hard anchor diagram mutual reopen bread meadow decorate hour";
+var mnemonic = "shell north vapor plastic mind end wood grit paddle setup cannon process";

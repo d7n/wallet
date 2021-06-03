@@ -1,1 +1,1 @@
-var mnemonic = "hand salad chronic desk add dignity magic produce nation planet coach rough";
+var mnemonic = "armor doll twenty clip novel civil address rural goddess wine grain wreck";

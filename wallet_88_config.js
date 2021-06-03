@@ -1,1 +1,1 @@
-var mnemonic = "decline sick force oxygen hat lesson crush oyster rule connect draw assist";
+var mnemonic = "weird insect kite aware grab summer pistol skill camp auto feel mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "knee school guide fox follow ladder useful truly flash cute pony glory";
+var mnemonic = "wealth defense treat cliff business gown hood diagram obey ill over private";

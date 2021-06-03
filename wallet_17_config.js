@@ -1,1 +1,1 @@
-var mnemonic = "mouse proof slab employ witness fiscal autumn pair spell acoustic detail genre";
+var mnemonic = "seek sure snap town cheap assault neglect random shield speak fabric genuine";

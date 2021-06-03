@@ -1,1 +1,1 @@
-var mnemonic = "what close box mask require space gasp echo crisp bid sudden view";
+var mnemonic = "patch aisle link scrub uncle direct feature wear tower gold impact sweet";

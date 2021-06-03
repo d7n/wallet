@@ -1,1 +1,1 @@
-var mnemonic = "talk universe senior purchase rent coil depart recall paper key guess attract";
+var mnemonic = "derive inhale family shoulder radar zero combine square quiz jungle kiwi tackle";

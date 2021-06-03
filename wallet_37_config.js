@@ -1,1 +1,1 @@
-var mnemonic = "patch demand coin evil bullet drip vast cute swear street siege kitchen";
+var mnemonic = "situate kingdom weird purpose sponsor brown bleak mule trend frequent gasp primary";

@@ -1,1 +1,1 @@
-var mnemonic = "guard shine charge venue type faculty tape grant pottery melody alter popular";
+var mnemonic = "change stool need often fan stick method chimney ostrich outdoor monkey gun";

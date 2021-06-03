@@ -1,1 +1,1 @@
-var mnemonic = "execute pepper dry custom crowd vital amount program rebuild buzz cattle champion";
+var mnemonic = "choose sustain come wheat couple onion account thunder robust patch dwarf short";

@@ -1,1 +1,1 @@
-var mnemonic = "excite record palace guide summer yard coin crunch tip catch picture right";
+var mnemonic = "slab fluid admit behind guilt label skirt topic menu method awful net";

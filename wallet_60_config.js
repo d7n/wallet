@@ -1,1 +1,1 @@
-var mnemonic = "athlete screen desk welcome select dignity radar human liberty sand waste increase";
+var mnemonic = "blast future attend exit climb wheel street runway attract rocket else weird";

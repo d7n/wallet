@@ -1,1 +1,1 @@
-var mnemonic = "unlock similar pill buffalo foot duck indicate code correct guard plug chuckle";
+var mnemonic = "rebel letter dash defense team trap dog prepare mistake liquid elevator number";

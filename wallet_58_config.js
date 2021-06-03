@@ -1,1 +1,1 @@
-var mnemonic = "recall spy solid junk below vessel purchase poverty light mouse retreat innocent";
+var mnemonic = "moment word shove dumb myth proof rack dizzy agree end noodle second";

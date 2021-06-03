@@ -1,1 +1,1 @@
-var mnemonic = "praise slide garden weather reunion senior concert valley cinnamon deliver silk glide";
+var mnemonic = "today work crazy stay captain powder carpet resource lobster put park scale";

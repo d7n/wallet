@@ -1,1 +1,1 @@
-var mnemonic = "assist dial arena core jealous tomorrow kangaroo between art shove foam lesson";
+var mnemonic = "magnet arrange series treat explain require huge flame witness fire car item";

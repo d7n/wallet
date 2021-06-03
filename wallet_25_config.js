@@ -1,1 +1,1 @@
-var mnemonic = "element meat test appear light crew secret draw stove naive sun busy";
+var mnemonic = "omit oil cotton soft crowd slush life agree time spike axis gadget";

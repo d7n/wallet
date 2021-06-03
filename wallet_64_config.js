@@ -1,1 +1,1 @@
-var mnemonic = "weather group excess rhythm message announce chase hockey mask install civil coil";
+var mnemonic = "egg fault feel cross topple float path trophy busy under young ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome vendor nominee glory fuel hole where mountain voyage planet clip butter";
+var mnemonic = "divert tool bulk digital model dress grid junior load cross mass master";

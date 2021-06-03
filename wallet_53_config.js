@@ -1,1 +1,1 @@
-var mnemonic = "shield sport napkin cabbage nephew police romance barely tourist sock fuel bounce";
+var mnemonic = "steak ring snack harsh pumpkin avoid rice portion slush art window fox";

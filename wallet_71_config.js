@@ -1,1 +1,1 @@
-var mnemonic = "burden toy hurdle wife panel still toast witness over cheese flat elevator";
+var mnemonic = "random direct decorate penalty amateur scrub aerobic abstract type junk move baby";

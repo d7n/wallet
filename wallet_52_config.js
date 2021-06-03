@@ -1,1 +1,1 @@
-var mnemonic = "blue bind morning follow into develop trap notable multiply slab spawn what";
+var mnemonic = "share tail hollow wagon material chronic deer judge wire key gloom happy";

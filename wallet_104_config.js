@@ -1,1 +1,1 @@
-var mnemonic = "polar warm artefact distance sea mother fruit man swift excess cute plug";
+var mnemonic = "unhappy uniform lizard tuition spider vicious flower dinosaur humor position snake live";

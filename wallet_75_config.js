@@ -1,1 +1,1 @@
-var mnemonic = "heart evidence speak garden unfold oblige paper giant absorb note gadget shell";
+var mnemonic = "parent stuff define focus gown evoke couch draft nature once table around";

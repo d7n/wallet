@@ -1,1 +1,1 @@
-var mnemonic = "vehicle present job budget repair plastic blush camera old negative balance fashion";
+var mnemonic = "tag battle drift before size pelican cigar sphere spider nation tumble swear";

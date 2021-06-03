@@ -1,1 +1,1 @@
-var mnemonic = "kingdom reduce kid castle cereal essence sauce foil trap coin direct recipe";
+var mnemonic = "anchor there sword gallery ivory thank useless nose father spread object pulp";

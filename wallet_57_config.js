@@ -1,1 +1,1 @@
-var mnemonic = "blush squeeze gorilla legend grass tank west dream wave flash disease spoil";
+var mnemonic = "angry entire celery flee nice primary basket valve giant salmon burden lava";

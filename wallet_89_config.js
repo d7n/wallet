@@ -1,1 +1,1 @@
-var mnemonic = "floor trap zebra bubble dose mean grid south brass sock pulse between";
+var mnemonic = "cliff document drink carpet smoke shuffle slush angry cattle tiger lens alert";

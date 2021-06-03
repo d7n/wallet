@@ -1,1 +1,1 @@
-var mnemonic = "armor lizard place level reform share ankle simple case crawl hub arrow";
+var mnemonic = "man march notice tongue venture melody quality draw surge gun kiwi gun";

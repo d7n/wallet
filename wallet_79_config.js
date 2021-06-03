@@ -1,1 +1,1 @@
-var mnemonic = "wreck craft shed knife net outside man feature enrich minor enemy mansion";
+var mnemonic = "envelope equal hold soul labor lemon trumpet spirit bless gain festival autumn";

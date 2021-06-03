@@ -1,1 +1,1 @@
-var mnemonic = "remove lens also quarter ice apology try galaxy match luggage hen random";
+var mnemonic = "traffic crunch ranch flavor answer depth divert blood window alcohol satoshi symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "radio level love thing price error hazard smooth garage dilemma into answer";
+var mnemonic = "square typical initial labor steak exchange donkey achieve tourist code update visa";

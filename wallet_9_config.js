@@ -1,1 +1,1 @@
-var mnemonic = "evoke seat gasp pepper key hub common cliff wave symptom heavy dismiss";
+var mnemonic = "fan smoke road coffee cinnamon amateur true monkey raise sheriff tape gas";

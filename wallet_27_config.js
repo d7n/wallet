@@ -1,1 +1,1 @@
-var mnemonic = "typical quit option wolf drip black govern chat romance claw labor battle";
+var mnemonic = "you crush index daughter close abuse fringe ritual velvet analyst correct swear";

@@ -1,1 +1,1 @@
-var mnemonic = "slot now crater large sheriff profit congress veteran aim emerge silent twenty";
+var mnemonic = "display steak broccoli frequent depth apology wage prefer logic discover gadget trial";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch abandon gesture chimney alert novel sound balance cruel merge melt biology";
+var mnemonic = "arena pudding good clutch shy defense subject medal unfair hard lava upper";

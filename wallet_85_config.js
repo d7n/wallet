@@ -1,1 +1,1 @@
-var mnemonic = "plug scissors picnic announce business script tower glance demise clever virus define";
+var mnemonic = "expire skin spoil aisle gain dash arrive nuclear raw all space urban";

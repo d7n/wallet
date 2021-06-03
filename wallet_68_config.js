@@ -1,1 +1,1 @@
-var mnemonic = "rotate cram general crowd drip member nose wagon test execute crumble scare";
+var mnemonic = "asthma pear finish tobacco few cloud hole arrange cement leg hundred scatter";

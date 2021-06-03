@@ -1,1 +1,1 @@
-var mnemonic = "arrive vacant drip piano patient into put nature kitchen soap session error";
+var mnemonic = "arch frost into uncle crumble nuclear ability harvest business wolf buyer vast";

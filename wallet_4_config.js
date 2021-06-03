@@ -1,1 +1,1 @@
-var mnemonic = "catch paddle hand adult excite found alcohol false resist hen exclude memory";
+var mnemonic = "sketch curve engage actress try hope farm fall genre wage love merge";

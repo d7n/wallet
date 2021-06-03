@@ -1,1 +1,1 @@
-var mnemonic = "blind faint snap analyst jeans host vote sail toilet drink rabbit phrase";
+var mnemonic = "alcohol estate angle tattoo short merry sheriff fetch panic cover syrup message";

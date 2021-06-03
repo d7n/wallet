@@ -1,1 +1,1 @@
-var mnemonic = "pet parrot word distance lyrics involve quote calm ankle shop deputy rotate";
+var mnemonic = "student write fashion eagle phrase badge young common key drill gloom powder";

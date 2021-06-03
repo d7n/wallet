@@ -1,1 +1,1 @@
-var mnemonic = "clip dice flush job worth private say maple crystal employ now globe";
+var mnemonic = "quick apple cake shop connect foot open dose lend about face urban";

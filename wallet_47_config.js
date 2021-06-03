@@ -1,1 +1,1 @@
-var mnemonic = "when fly invite want picture holiday episode sand tube sign atom vapor";
+var mnemonic = "skull grant involve error cement census matter scare pulse topple federal verify";

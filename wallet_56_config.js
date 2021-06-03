@@ -1,1 +1,1 @@
-var mnemonic = "math grow dizzy result forget luxury steak emerge coral vehicle protect pond";
+var mnemonic = "twenty regular dish great sugar tunnel raven field quote car people cement";

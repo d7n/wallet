@@ -1,1 +1,1 @@
-var mnemonic = "image maple debris loyal jaguar recycle able october twelve never era dial";
+var mnemonic = "need under taste helmet junk dog ladder gloom real favorite grain capable";

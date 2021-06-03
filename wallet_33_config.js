@@ -1,1 +1,1 @@
-var mnemonic = "group wonder humor change twelve desk syrup base warfare little twice pilot";
+var mnemonic = "best foam budget promote north thumb snack absurd seminar desert cousin cage";

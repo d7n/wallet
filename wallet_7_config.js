@@ -1,1 +1,1 @@
-var mnemonic = "round degree icon art student update next attack river legend blade problem";
+var mnemonic = "actress hill theme book animal color science rather dolphin bonus girl inform";

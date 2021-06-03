@@ -1,1 +1,1 @@
-var mnemonic = "ski logic drink mad unfold shell beef snake siren solution frequent orphan";
+var mnemonic = "ski force fruit tonight world deputy tilt end plug voyage impose brick";

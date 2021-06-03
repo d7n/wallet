@@ -1,1 +1,1 @@
-var mnemonic = "claw horror genre bind skate slam culture ghost humble olive middle segment";
+var mnemonic = "employ success better lesson salon trust add razor execute empower dry scissors";

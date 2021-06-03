@@ -1,1 +1,1 @@
-var mnemonic = "ride produce soon laugh sense level tilt under puzzle cinnamon chalk else";
+var mnemonic = "song zone gospel moon guide minimum earn proud marine ticket estate opera";

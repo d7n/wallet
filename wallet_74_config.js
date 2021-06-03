@@ -1,1 +1,1 @@
-var mnemonic = "bacon real wolf nose grape impose what gather exclude wait fee spoon";
+var mnemonic = "claw actress time maximum accuse zebra abuse cross guitar stand favorite jungle";

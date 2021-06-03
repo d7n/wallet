@@ -1,1 +1,1 @@
-var mnemonic = "siren boring powder black machine whale print tone cost rate aspect garage";
+var mnemonic = "melody best disagree dad forget mobile remind spoil result crowd genuine garden";

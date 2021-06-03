@@ -1,1 +1,1 @@
-var mnemonic = "behave sick walnut shoe match earth artefact cable retire glad winter buyer";
+var mnemonic = "february gap green drop fortune credit payment neck negative garment place country";

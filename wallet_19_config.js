@@ -1,1 +1,1 @@
-var mnemonic = "stone lava audit winner expose luggage broccoli screen truth clinic protect regret";
+var mnemonic = "man pilot anxiety verb foil high lens eight sock friend glory sudden";

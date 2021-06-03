@@ -1,1 +1,1 @@
-var mnemonic = "total arrive year zebra brief inch odor cover crawl fresh song cattle";
+var mnemonic = "slab arena ride term cruise taxi inspire stem village visual tomato memory";

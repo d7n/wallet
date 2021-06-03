@@ -1,1 +1,1 @@
-var mnemonic = "little proud north final jungle vast ramp equip average allow minute slot";
+var mnemonic = "dog motion talk hockey term alien sniff lyrics lottery submit front work";

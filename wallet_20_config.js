@@ -1,1 +1,1 @@
-var mnemonic = "build assume crucial ball ordinary journey float false concert decrease pyramid rib";
+var mnemonic = "lyrics shallow lesson effort nature pause law dynamic ketchup impose object olive";

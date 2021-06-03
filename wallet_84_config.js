@@ -1,1 +1,1 @@
-var mnemonic = "minimum machine twin wrong ankle ask render movie razor later annual toilet";
+var mnemonic = "put egg thumb wide boost scare alcohol extend bring bless sentence valve";

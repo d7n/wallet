@@ -1,1 +1,1 @@
-var mnemonic = "tuna exact firm cruise venue sell knock area mail clown random amount";
+var mnemonic = "exhaust flower select shock rule earn village medal dress judge tonight island";

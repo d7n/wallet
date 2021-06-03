@@ -1,1 +1,1 @@
-var mnemonic = "ramp scout minor word jar knee receive wrong frequent sort crash uphold";
+var mnemonic = "medal auto same hidden vicious hand vehicle symbol spider doctor quantum toss";

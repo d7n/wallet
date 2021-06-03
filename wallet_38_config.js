@@ -1,1 +1,1 @@
-var mnemonic = "boat wrist control galaxy breeze cluster bamboo better remind amazing misery wait";
+var mnemonic = "verify call return rally enlist exhibit camp federal kitten alien young yellow";

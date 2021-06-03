@@ -1,1 +1,1 @@
-var mnemonic = "goose brave endorse enemy sentence network survey nothing glow ranch hover document";
+var mnemonic = "panic credit slot rubber comic depend film then skill stairs security minute";

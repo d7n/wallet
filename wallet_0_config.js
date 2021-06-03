@@ -1,1 +1,1 @@
-var mnemonic = "congress basic fatal dolphin skill farm toward two address skirt uncover various";
+var mnemonic = "little remain win hour today snake wall often rain cable ill sing";

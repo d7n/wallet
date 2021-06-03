@@ -1,1 +1,1 @@
-var mnemonic = "popular fossil gossip fun hover swear avocado good quarter push lazy envelope";
+var mnemonic = "unveil regret range pink owner moral town half month update pudding wave";

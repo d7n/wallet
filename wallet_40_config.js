@@ -1,1 +1,1 @@
-var mnemonic = "slot what edge couple harbor priority select absorb involve crawl also search";
+var mnemonic = "need front element shoot visit enjoy coin crater sentence tonight album charge";

@@ -1,1 +1,1 @@
-var mnemonic = "list fault deny replace cactus thank apology survey expose index conduct first";
+var mnemonic = "lecture invite provide wing uphold sponsor rural tuition rural salmon gravity summer";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen device coin old strategy stock cabin silk toy media cry afford";
+var mnemonic = "artwork venture pelican peanut chase bench man fiscal predict muscle wheat hill";

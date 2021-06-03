@@ -1,1 +1,1 @@
-var mnemonic = "strategy arctic afraid height raise one knife unaware april funny blur under";
+var mnemonic = "maple clay ugly famous pitch cotton seek chef narrow tonight demise blind";

@@ -1,1 +1,1 @@
-var mnemonic = "pen penalty leader ocean coral walnut hen length gesture tomato turn dove";
+var mnemonic = "casual cross jewel mistake gate security suffer invite regret family ankle chronic";

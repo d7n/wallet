@@ -1,1 +1,1 @@
-var mnemonic = "elevator dose arrive deny vapor insect toward spray drift husband member half";
+var mnemonic = "claw online fresh book patrol waste work vendor stick injury path slight";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid almost toss betray pear relax audit panther width castle infant farm";
+var mnemonic = "thumb island wreck theme guard world execute thunder arrest crew forum brave";

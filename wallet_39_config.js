@@ -1,1 +1,1 @@
-var mnemonic = "hidden opinion silk tomorrow adjust mansion gossip dinner brass dinner stomach drastic";
+var mnemonic = "click prize intact struggle trumpet churn duty core olympic crawl pitch issue";

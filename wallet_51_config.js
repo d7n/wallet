@@ -1,1 +1,1 @@
-var mnemonic = "scare another proof limb column viable album describe photo oval become vintage";
+var mnemonic = "advance lumber tool report unveil run topple sick liberty crash brother badge";

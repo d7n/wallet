@@ -1,1 +1,1 @@
-var mnemonic = "diamond jar term cat strategy private fancy summer digital clog sausage blast";
+var mnemonic = "era begin day fog fit donor home text news pet agree dish";

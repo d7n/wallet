@@ -1,1 +1,1 @@
-var mnemonic = "cup frozen soldier neutral border label wear glove quick resource ignore survey";
+var mnemonic = "document cup strong crash peasant pigeon measure mountain rookie ship burden train";

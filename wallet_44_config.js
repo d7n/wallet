@@ -1,1 +1,1 @@
-var mnemonic = "custom either betray food fatal exhaust bright little umbrella tobacco soft pill";
+var mnemonic = "dog patient situate glimpse easy maple sign dice cage velvet turtle witness";

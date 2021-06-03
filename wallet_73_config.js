@@ -1,1 +1,1 @@
-var mnemonic = "squeeze obtain sight season trade wire excite hurry polar gate recipe smooth";
+var mnemonic = "raccoon garden daring indicate door account manual film bid inch answer pigeon";

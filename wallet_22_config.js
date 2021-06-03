@@ -1,1 +1,1 @@
-var mnemonic = "sick close hundred punch diagram luggage cheese girl then journey lecture hurt";
+var mnemonic = "front junk tell fruit empower crowd soccer trick mango impulse tide dial";

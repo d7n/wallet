@@ -1,1 +1,1 @@
-var mnemonic = "shoe grit gadget swing have word ill spray shift soda artwork icon";
+var mnemonic = "purpose solar age found omit render method neck liar mammal bid orchard";

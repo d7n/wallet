@@ -1,1 +1,1 @@
-var mnemonic = "omit already squirrel damp weasel voyage hammer enact grace ridge feel gather";
+var mnemonic = "cluster genius bunker december figure act avocado sell chef flight bone wisdom";

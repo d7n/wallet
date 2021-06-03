@@ -1,1 +1,1 @@
-var mnemonic = "pioneer reunion expose wall deny rocket chief scare giant add eagle stuff";
+var mnemonic = "coffee harsh view bike tower moment dizzy phone approve region stuff acoustic";

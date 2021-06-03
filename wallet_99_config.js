@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fall remove hip guilt inhale crisp army acquire jaguar elephant release";
+var mnemonic = "harsh lesson walnut tourist public jealous chalk turkey lend home soldier spice";

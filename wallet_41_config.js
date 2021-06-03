@@ -1,1 +1,1 @@
-var mnemonic = "tool weather destroy power chef river start advance mobile together sting pretty";
+var mnemonic = "visa fuel vocal mutual ostrich account domain chunk scrub edit flight belt";

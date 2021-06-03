@@ -1,1 +1,1 @@
-var mnemonic = "banana cycle trumpet celery horse fatal tool spring word burger milk crew";
+var mnemonic = "metal ask list artist moral comfort lobster upset useless kitchen tattoo hurdle";
