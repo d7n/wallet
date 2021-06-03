@@ -1,1 +1,1 @@
-var mnemonic = "garden enjoy midnight parade skirt farm father donate window assault final diary";
+var mnemonic = "convince exchange manage able tenant oil debris clown crane much remain viable";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge crash truly favorite trend round palace perfect lift enroll traffic glance";
+var mnemonic = "armor lizard place level reform share ankle simple case crawl hub arrow";

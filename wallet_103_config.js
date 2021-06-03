@@ -1,1 +1,1 @@
-var mnemonic = "magnet coconut pilot traffic anxiety rule daughter smart engage throw bag auction";
+var mnemonic = "license eye execute outside beyond brief twenty few cactus prosper ginger food";

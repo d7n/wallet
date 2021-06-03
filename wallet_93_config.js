@@ -1,1 +1,1 @@
-var mnemonic = "pluck puppy choose manage truth angry below account assault genuine various energy";
+var mnemonic = "banana cycle trumpet celery horse fatal tool spring word burger milk crew";

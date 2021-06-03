@@ -1,1 +1,1 @@
-var mnemonic = "notable crime ketchup person muscle flower two jealous unknown critic artwork enjoy";
+var mnemonic = "arrive vacant drip piano patient into put nature kitchen soap session error";

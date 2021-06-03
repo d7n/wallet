@@ -1,1 +1,1 @@
-var mnemonic = "soldier frog right siege carpet primary opera gift domain pledge analyst another";
+var mnemonic = "catch paddle hand adult excite found alcohol false resist hen exclude memory";

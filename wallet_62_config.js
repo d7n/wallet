@@ -1,1 +1,1 @@
-var mnemonic = "combine labor casual grain people fragile cabbage style country copy mixed youth";
+var mnemonic = "dragon swarm potato lift page regular rescue below ready multiply fire bird";

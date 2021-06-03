@@ -1,1 +1,1 @@
-var mnemonic = "noise track mandate squeeze evolve jungle lawn parent rhythm ramp multiply guitar";
+var mnemonic = "pioneer reunion expose wall deny rocket chief scare giant add eagle stuff";

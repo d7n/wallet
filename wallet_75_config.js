@@ -1,1 +1,1 @@
-var mnemonic = "broken wrong review property sentence leg then quarter climb goat involve spare";
+var mnemonic = "heart evidence speak garden unfold oblige paper giant absorb note gadget shell";

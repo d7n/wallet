@@ -1,1 +1,1 @@
-var mnemonic = "busy vacuum predict grass spare purity sister best brief caution fatigue two";
+var mnemonic = "polar warm artefact distance sea mother fruit man swift excess cute plug";

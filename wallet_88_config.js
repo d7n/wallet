@@ -1,1 +1,1 @@
-var mnemonic = "shoot dentist clog wild truck deny onion canal evil casual code wealth";
+var mnemonic = "decline sick force oxygen hat lesson crush oyster rule connect draw assist";

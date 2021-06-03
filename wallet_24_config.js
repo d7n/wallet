@@ -1,1 +1,1 @@
-var mnemonic = "family dad select coyote jump motion walnut canal recipe cost slab slot";
+var mnemonic = "citizen device coin old strategy stock cabin silk toy media cry afford";

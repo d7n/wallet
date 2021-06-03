@@ -1,1 +1,1 @@
-var mnemonic = "prevent fortune knock release seat galaxy woman aisle relax that lounge immense";
+var mnemonic = "excite record palace guide summer yard coin crunch tip catch picture right";

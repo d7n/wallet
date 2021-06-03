@@ -1,1 +1,1 @@
-var mnemonic = "limit harvest that action night gain cabbage weird dad enough diesel blood";
+var mnemonic = "blue bind morning follow into develop trap notable multiply slab spawn what";

@@ -1,1 +1,1 @@
-var mnemonic = "twin action search olympic inject over cheap word olive tent toe exhaust";
+var mnemonic = "ramp scout minor word jar knee receive wrong frequent sort crash uphold";

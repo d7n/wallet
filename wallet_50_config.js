@@ -1,1 +1,1 @@
-var mnemonic = "apart cover candy pyramid enrich chronic antique refuse holiday august twelve level";
+var mnemonic = "ranch abandon gesture chimney alert novel sound balance cruel merge melt biology";

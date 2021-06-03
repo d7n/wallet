@@ -1,1 +1,1 @@
-var mnemonic = "install giraffe child benefit bleak thumb slender once trick method salt coral";
+var mnemonic = "execute pepper dry custom crowd vital amount program rebuild buzz cattle champion";

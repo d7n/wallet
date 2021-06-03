@@ -1,1 +1,1 @@
-var mnemonic = "shine tide destroy shrug that town private come this trap dismiss message";
+var mnemonic = "firm harvest enrich pride old sport student enrich enjoy infant spread amazing";

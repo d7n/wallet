@@ -1,1 +1,1 @@
-var mnemonic = "parade dove coin cement input orchard acid horn chimney empty barrel senior";
+var mnemonic = "popular fossil gossip fun hover swear avocado good quarter push lazy envelope";

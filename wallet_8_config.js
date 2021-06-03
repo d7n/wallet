@@ -1,1 +1,1 @@
-var mnemonic = "steak sea place spoil safe mutual antenna list burden one vacuum shoe";
+var mnemonic = "hand salad chronic desk add dignity magic produce nation planet coach rough";

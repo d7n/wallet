@@ -1,1 +1,1 @@
-var mnemonic = "garment volcano insane lend security toddler taxi prize flame left circle wild";
+var mnemonic = "recall spy solid junk below vessel purchase poverty light mouse retreat innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "finger code drill person jazz chronic typical betray sell seat punch current";
+var mnemonic = "remove lens also quarter ice apology try galaxy match luggage hen random";

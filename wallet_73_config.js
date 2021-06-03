@@ -1,1 +1,1 @@
-var mnemonic = "tongue shadow school hour soft other section dynamic keep mistake flush fame";
+var mnemonic = "squeeze obtain sight season trade wire excite hurry polar gate recipe smooth";

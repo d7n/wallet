@@ -1,1 +1,1 @@
-var mnemonic = "habit issue correct bronze rate squirrel million doctor nice mystery sentence lonely";
+var mnemonic = "hidden opinion silk tomorrow adjust mansion gossip dinner brass dinner stomach drastic";

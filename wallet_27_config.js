@@ -1,1 +1,1 @@
-var mnemonic = "family sure horn double ecology perfect bottom palace grass enrich foil please";
+var mnemonic = "typical quit option wolf drip black govern chat romance claw labor battle";

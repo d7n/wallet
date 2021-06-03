@@ -1,1 +1,1 @@
-var mnemonic = "risk prefer current card panda cat radar marriage lyrics buyer identify olympic";
+var mnemonic = "wreck craft shed knife net outside man feature enrich minor enemy mansion";

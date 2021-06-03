@@ -1,1 +1,1 @@
-var mnemonic = "trumpet topple mercy palm estate memory own myself wild visa foster genuine";
+var mnemonic = "list fault deny replace cactus thank apology survey expose index conduct first";

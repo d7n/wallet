@@ -1,1 +1,1 @@
-var mnemonic = "social bring when trial dune bone scatter team then amazing embrace such";
+var mnemonic = "crucial save differ hard anchor diagram mutual reopen bread meadow decorate hour";

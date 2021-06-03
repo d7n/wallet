@@ -1,1 +1,1 @@
-var mnemonic = "mixed help repeat certain they flat cart city have allow ability gorilla";
+var mnemonic = "genius moral width network pool hero comfort spot drill hollow question fatigue";

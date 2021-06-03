@@ -1,1 +1,1 @@
-var mnemonic = "erase crop design employ flame scare summer captain metal electric business crisp";
+var mnemonic = "math grow dizzy result forget luxury steak emerge coral vehicle protect pond";

@@ -1,1 +1,1 @@
-var mnemonic = "fish cupboard law negative ribbon name visit ride grape feed credit lawsuit";
+var mnemonic = "economy science oven matter smooth layer avocado dwarf sunny smoke shield disorder";

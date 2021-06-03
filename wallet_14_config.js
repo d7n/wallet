@@ -1,1 +1,1 @@
-var mnemonic = "window vast pear essay vivid main notice almost tourist butter end engage";
+var mnemonic = "diamond jar term cat strategy private fancy summer digital clog sausage blast";

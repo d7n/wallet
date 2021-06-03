@@ -1,1 +1,1 @@
-var mnemonic = "stool undo supreme immune august question mushroom random other fatigue journey shine";
+var mnemonic = "unlock similar pill buffalo foot duck indicate code correct guard plug chuckle";

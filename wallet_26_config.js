@@ -1,1 +1,1 @@
-var mnemonic = "same mixture say burger across fog blush hand hurry clog mesh gap";
+var mnemonic = "onion orbit embrace demand nerve kid cake erosion movie drill adult into";

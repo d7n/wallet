@@ -1,1 +1,1 @@
-var mnemonic = "fence liquid close churn tiger city lemon wave voyage kangaroo extend chase";
+var mnemonic = "weather group excess rhythm message announce chase hockey mask install civil coil";

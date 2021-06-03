@@ -1,1 +1,1 @@
-var mnemonic = "sniff method finger phone cliff during win exhibit time lonely believe garden";
+var mnemonic = "silly flight onion tenant tonight interest blame hedgehog asthma sample regular feel";

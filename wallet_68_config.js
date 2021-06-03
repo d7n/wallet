@@ -1,1 +1,1 @@
-var mnemonic = "deny swarm trap nerve elbow trade library problem defy ivory caution loyal";
+var mnemonic = "rotate cram general crowd drip member nose wagon test execute crumble scare";

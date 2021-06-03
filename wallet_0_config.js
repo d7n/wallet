@@ -1,1 +1,1 @@
-var mnemonic = "proud creek beach gesture galaxy ill blossom fuel penalty dash symptom worry";
+var mnemonic = "congress basic fatal dolphin skill farm toward two address skirt uncover various";

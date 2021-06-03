@@ -1,1 +1,1 @@
-var mnemonic = "fiscal game prepare buffalo humor icon glimpse music inch furnace tattoo axis";
+var mnemonic = "goose brave endorse enemy sentence network survey nothing glow ranch hover document";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose tobacco bulb attitude skill feature surround review alien dad usage better";
+var mnemonic = "inherit field whisper harsh tent lazy sting wife thrive dwarf mutual wall";

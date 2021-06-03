@@ -1,1 +1,1 @@
-var mnemonic = "dumb always way name observe crisp indoor yard march math jealous guide";
+var mnemonic = "round degree icon art student update next attack river legend blade problem";

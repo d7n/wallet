@@ -1,1 +1,1 @@
-var mnemonic = "airport chronic quick access genuine mango ceiling alarm salmon cake laugh damage";
+var mnemonic = "knee school guide fox follow ladder useful truly flash cute pony glory";

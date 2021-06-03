@@ -1,1 +1,1 @@
-var mnemonic = "web old shop visual pony mobile wool ready fit list current wall";
+var mnemonic = "minimum machine twin wrong ankle ask render movie razor later annual toilet";

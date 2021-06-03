@@ -1,1 +1,1 @@
-var mnemonic = "gold bulk next slogan dad style begin reopen derive doll during price";
+var mnemonic = "object champion hello club aisle push olympic fiction hope student convince weekend";

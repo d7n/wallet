@@ -1,1 +1,1 @@
-var mnemonic = "grocery excite enough start cart pink husband tone federal move tennis enrich";
+var mnemonic = "bacon real wolf nose grape impose what gather exclude wait fee spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "student parade gun champion wet change inner sunny auction program trap property";
+var mnemonic = "floor trap zebra bubble dose mean grid south brass sock pulse between";

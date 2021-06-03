@@ -1,1 +1,1 @@
-var mnemonic = "camera crater smart hawk summer upon income fall knee that supply toilet";
+var mnemonic = "blind faint snap analyst jeans host vote sail toilet drink rabbit phrase";

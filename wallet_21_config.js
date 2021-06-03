@@ -1,1 +1,1 @@
-var mnemonic = "safe vapor film identify essay deal indoor foot armor height lonely century";
+var mnemonic = "review oil brother warfare bag plunge skirt dragon glove draft inner fox";

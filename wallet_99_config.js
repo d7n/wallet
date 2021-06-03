@@ -1,1 +1,1 @@
-var mnemonic = "assume planet naive use buddy escape situate twin session fall used obvious";
+var mnemonic = "outdoor fall remove hip guilt inhale crisp army acquire jaguar elephant release";

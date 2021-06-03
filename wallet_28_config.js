@@ -1,1 +1,1 @@
-var mnemonic = "person hurry cram toast treat aim feel raven child dad master beauty";
+var mnemonic = "vehicle present job budget repair plastic blush camera old negative balance fashion";

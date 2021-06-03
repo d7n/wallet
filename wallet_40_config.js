@@ -1,1 +1,1 @@
-var mnemonic = "pride dinosaur film skill sweet dream muscle accuse leader castle snap funny";
+var mnemonic = "slot what edge couple harbor priority select absorb involve crawl also search";

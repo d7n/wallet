@@ -1,1 +1,1 @@
-var mnemonic = "afford lemon gun bone engine skirt crystal rice junk accuse uncle raccoon";
+var mnemonic = "build assume crucial ball ordinary journey float false concert decrease pyramid rib";

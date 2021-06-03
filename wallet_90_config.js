@@ -1,1 +1,1 @@
-var mnemonic = "finish wasp ugly bench board tent vibrant elevator rare suspect mercy shift";
+var mnemonic = "black ketchup rival lion artwork mirror pair gym eight donkey jar gauge";

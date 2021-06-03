@@ -1,1 +1,1 @@
-var mnemonic = "side tilt fog stove weapon face midnight fog limb path timber heavy";
+var mnemonic = "tool weather destroy power chef river start advance mobile together sting pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "survey grape material network matrix wait weekend coin make warrior congress exit";
+var mnemonic = "talk universe senior purchase rent coil depart recall paper key guess attract";

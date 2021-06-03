@@ -1,1 +1,1 @@
-var mnemonic = "pear patient welcome top rice actual fuel exchange pumpkin midnight custom hen";
+var mnemonic = "speed ivory bulk car chalk ugly bind mystery switch shop sail science";

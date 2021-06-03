@@ -1,1 +1,1 @@
-var mnemonic = "innocent gentle blossom prefer hire immense involve soon half first jeans total";
+var mnemonic = "kingdom reduce kid castle cereal essence sauce foil trap coin direct recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "vital hint hover digital save stuff explain tribe lock dry quote project";
+var mnemonic = "assist dial arena core jealous tomorrow kangaroo between art shove foam lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor travel castle off rigid banner anger rhythm fix muscle earn payment";
+var mnemonic = "giggle faint quarter moon express fitness mimic try act course silk leisure";

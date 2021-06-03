@@ -1,1 +1,1 @@
-var mnemonic = "decide machine burst blossom fiber radar similar despair rough poet virus mass";
+var mnemonic = "stone lava audit winner expose luggage broccoli screen truth clinic protect regret";

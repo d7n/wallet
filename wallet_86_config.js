@@ -1,1 +1,1 @@
-var mnemonic = "electric start dice first fine lemon gas wink give affair harbor turtle";
+var mnemonic = "ride produce soon laugh sense level tilt under puzzle cinnamon chalk else";

@@ -1,1 +1,1 @@
-var mnemonic = "equip retreat nose ball series share length canoe traffic pet dismiss aisle";
+var mnemonic = "hint card phone snap dance digital wink engine finger nut then section";

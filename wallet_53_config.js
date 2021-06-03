@@ -1,1 +1,1 @@
-var mnemonic = "culture valve now twice slogan traffic thank become okay rough crouch sphere";
+var mnemonic = "shield sport napkin cabbage nephew police romance barely tourist sock fuel bounce";

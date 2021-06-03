@@ -1,1 +1,1 @@
-var mnemonic = "answer buffalo breeze sample pulp ensure stay wolf tooth visual nominee produce";
+var mnemonic = "solar limb script antique prosper style universe seed answer network omit ocean";

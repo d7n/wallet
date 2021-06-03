@@ -1,1 +1,1 @@
-var mnemonic = "canyon poem pink wife menu clay duck inspire lesson raccoon mule fit";
+var mnemonic = "cruise absent burst tattoo oxygen fitness awake merit chef also assault viable";

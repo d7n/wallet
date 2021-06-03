@@ -1,1 +1,1 @@
-var mnemonic = "sock smoke hotel escape inch auto space material lumber same observe cupboard";
+var mnemonic = "blush squeeze gorilla legend grass tank west dream wave flash disease spoil";

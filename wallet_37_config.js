@@ -1,1 +1,1 @@
-var mnemonic = "blast shoot together adjust weasel math dune atom upon gadget art toward";
+var mnemonic = "patch demand coin evil bullet drip vast cute swear street siege kitchen";

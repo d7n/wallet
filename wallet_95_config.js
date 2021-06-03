@@ -1,1 +1,1 @@
-var mnemonic = "problem buffalo ability dolphin swim laundry steel dynamic indoor amount tragic someone";
+var mnemonic = "radio level love thing price error hazard smooth garage dilemma into answer";

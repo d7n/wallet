@@ -1,1 +1,1 @@
-var mnemonic = "raccoon month stand venture feel render dentist oven canyon device frost once";
+var mnemonic = "tuna exact firm cruise venue sell knock area mail clown random amount";

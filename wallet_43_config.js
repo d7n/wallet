@@ -1,1 +1,1 @@
-var mnemonic = "approve process shadow right enrich much ribbon negative gesture pepper file crack";
+var mnemonic = "cup frozen soldier neutral border label wear glove quick resource ignore survey";

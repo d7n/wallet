@@ -1,1 +1,1 @@
-var mnemonic = "scene estate become soft crowd runway mango oval enhance amateur fall hamster";
+var mnemonic = "praise slide garden weather reunion senior concert valley cinnamon deliver silk glide";

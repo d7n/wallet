@@ -1,1 +1,1 @@
-var mnemonic = "arrow clog priority position crystal treat perfect oak butter wife dutch cabin";
+var mnemonic = "group wonder humor change twelve desk syrup base warfare little twice pilot";

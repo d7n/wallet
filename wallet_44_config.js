@@ -1,1 +1,1 @@
-var mnemonic = "cup answer couch memory mechanic pyramid matrix buyer address paddle apart fancy";
+var mnemonic = "custom either betray food fatal exhaust bright little umbrella tobacco soft pill";

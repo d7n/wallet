@@ -1,1 +1,1 @@
-var mnemonic = "neglect place net reject where birth list mammal acid tenant slow tank";
+var mnemonic = "flavor opera capable hood clay ocean clutch job sunny barely govern melody";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd motion step fringe material jazz nation space symptom pulse meat waste";
+var mnemonic = "plug scissors picnic announce business script tower glance demise clever virus define";

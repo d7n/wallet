@@ -1,1 +1,1 @@
-var mnemonic = "only vital famous afraid recipe genuine grace lecture slide tray kidney uphold";
+var mnemonic = "burden toy hurdle wife panel still toast witness over cheese flat elevator";

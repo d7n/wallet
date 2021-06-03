@@ -1,1 +1,1 @@
-var mnemonic = "wide lava pencil coach great clever pitch finish coach year quit brain";
+var mnemonic = "shoe grit gadget swing have word ill spray shift soda artwork icon";

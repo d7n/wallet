@@ -1,1 +1,1 @@
-var mnemonic = "captain area afford hawk kingdom banana disagree hero beyond enough curve bomb";
+var mnemonic = "welcome vendor nominee glory fuel hole where mountain voyage planet clip butter";

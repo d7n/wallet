@@ -1,1 +1,1 @@
-var mnemonic = "rally seminar boat lazy trade spin subject provide various jealous smile pioneer";
+var mnemonic = "evoke seat gasp pepper key hub common cliff wave symptom heavy dismiss";

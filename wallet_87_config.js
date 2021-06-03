@@ -1,1 +1,1 @@
-var mnemonic = "report valve input shed ramp theme ripple pair loyal hero romance fitness";
+var mnemonic = "consider sunset shoe marine element magnet connect fit egg carry recall hour";

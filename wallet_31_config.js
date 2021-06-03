@@ -1,1 +1,1 @@
-var mnemonic = "vote grass melody garbage bid render shop race approve child mad crack";
+var mnemonic = "strategy arctic afraid height raise one knife unaware april funny blur under";

@@ -1,1 +1,1 @@
-var mnemonic = "side volume rib decrease sauce impulse shine unique hybrid holiday debris when";
+var mnemonic = "mouse proof slab employ witness fiscal autumn pair spell acoustic detail genre";

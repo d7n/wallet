@@ -1,1 +1,1 @@
-var mnemonic = "noodle catch alcohol notice term cream mammal alter giraffe library rival marble";
+var mnemonic = "guard shine charge venue type faculty tape grant pottery melody alter popular";

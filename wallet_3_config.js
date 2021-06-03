@@ -1,1 +1,1 @@
-var mnemonic = "rack memory collect clip head gain maximum input robot give trouble twelve";
+var mnemonic = "clip dice flush job worth private say maple crystal employ now globe";

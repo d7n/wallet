@@ -1,1 +1,1 @@
-var mnemonic = "spin asset tobacco sick harbor bacon region this street obey essence assume";
+var mnemonic = "tomato include wolf tuna ride pitch soul surface science either rigid street";

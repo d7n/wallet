@@ -1,1 +1,1 @@
-var mnemonic = "carry over wine bomb undo chat expect enlist area fossil replace artefact";
+var mnemonic = "what close box mask require space gasp echo crisp bid sudden view";

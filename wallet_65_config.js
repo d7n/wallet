@@ -1,1 +1,1 @@
-var mnemonic = "humble poem ordinary winter dumb crop screen usage machine destroy bus blame";
+var mnemonic = "pet parrot word distance lyrics involve quote calm ankle shop deputy rotate";

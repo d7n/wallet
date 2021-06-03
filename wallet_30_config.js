@@ -1,1 +1,1 @@
-var mnemonic = "shuffle segment sail manage menu mixture canvas advice undo huge figure inherit";
+var mnemonic = "total arrive year zebra brief inch odor cover crawl fresh song cattle";
