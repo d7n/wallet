@@ -1,1 +1,1 @@
-var mnemonic = "wide clay physical naive split someone foster portion seek subway vessel custom";
+var mnemonic = "brother capital casino bird march piano arch combine outer still flush congress";

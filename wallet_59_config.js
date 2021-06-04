@@ -1,1 +1,1 @@
-var mnemonic = "blue fiscal decline carpet quality only angry umbrella spray shield guide sauce";
+var mnemonic = "unfold have chronic fault exhibit slam about now bus ripple rack wise";

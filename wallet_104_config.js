@@ -1,1 +1,1 @@
-var mnemonic = "choice radar sphere vehicle misery truck rural wife minute grab school enjoy";
+var mnemonic = "wheat fabric slice seek goose warfare label brush pave because pool latin";

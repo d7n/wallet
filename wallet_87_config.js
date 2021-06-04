@@ -1,1 +1,1 @@
-var mnemonic = "random wear stage hunt sponsor gadget own visual bracket tennis drive very";
+var mnemonic = "permit approve sad bitter credit mule sauce spoil inspire quiz hair cute";

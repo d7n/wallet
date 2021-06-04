@@ -1,1 +1,1 @@
-var mnemonic = "carpet panic pink paddle punch sell brother canyon master behave spider cup";
+var mnemonic = "ticket essence primary raccoon december step such trade trip borrow reward menu";

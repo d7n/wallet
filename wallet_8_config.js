@@ -1,1 +1,1 @@
-var mnemonic = "human around ocean wink sibling busy dumb note conduct together viable minimum";
+var mnemonic = "avocado credit predict corn carry little angry obscure stuff ginger beach ship";

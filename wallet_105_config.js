@@ -1,1 +1,1 @@
-var mnemonic = "hybrid puppy reject brief hip vague machine cluster lock lazy buffalo morning";
+var mnemonic = "tornado sugar guide another round picture baby alley prosper describe spawn glow";

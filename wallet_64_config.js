@@ -1,1 +1,1 @@
-var mnemonic = "toe buddy farm screen cushion drip use mixture frozen shock payment thumb";
+var mnemonic = "brand cannon connect wide flag elbow walk cliff echo plastic mammal column";

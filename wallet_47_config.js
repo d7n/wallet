@@ -1,1 +1,1 @@
-var mnemonic = "sea access end hand arena black layer tube measure brown right van";
+var mnemonic = "again truly helmet frog shoulder embark pause enable cover naive skate mutual";

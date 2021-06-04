@@ -1,1 +1,1 @@
-var mnemonic = "upon various farm sport win impulse accident hill suggest equip obey shine";
+var mnemonic = "juice system shine option like fox nurse net exist bronze adapt oak";

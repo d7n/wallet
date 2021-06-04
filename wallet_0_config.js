@@ -1,1 +1,1 @@
-var mnemonic = "ostrich cube ecology snap mention relief grab shed protect oval slab frog";
+var mnemonic = "ketchup kite easy spend price matter ignore mom lizard distance stand audit";

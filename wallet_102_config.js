@@ -1,1 +1,1 @@
-var mnemonic = "trade leg version dirt wife rescue essence vibrant patient private wage fire";
+var mnemonic = "fetch begin equip advice rice gown focus pact humor crack reason arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "popular fox stairs pact trade glue aim fade fantasy friend fiction benefit";
+var mnemonic = "castle sustain direct fossil cereal broom jelly castle keen profit armed athlete";

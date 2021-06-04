@@ -1,1 +1,1 @@
-var mnemonic = "frequent wear skirt boring bike hero rookie senior device bar rubber arrow";
+var mnemonic = "idle exercise mushroom crop later paper person later mule special zebra scan";

@@ -1,1 +1,1 @@
-var mnemonic = "path tortoise host gentle common brief often tone return salon scout chunk";
+var mnemonic = "there submit wire barrel lucky portion cereal slogan caution wood yellow rural";

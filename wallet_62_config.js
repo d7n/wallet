@@ -1,1 +1,1 @@
-var mnemonic = "canal tragic axis switch fuel oblige round hour task analyst child entire";
+var mnemonic = "relief combine truth census promote craft public elegant olympic absent close sense";

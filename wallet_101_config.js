@@ -1,1 +1,1 @@
-var mnemonic = "woman keen bean actor bean output iron figure water fortune honey grow";
+var mnemonic = "siren rotate select flip priority drop confirm admit inflict favorite ethics raise";

@@ -1,1 +1,1 @@
-var mnemonic = "panther opinion attitude veteran opinion time upset double auction usage report blouse";
+var mnemonic = "impact have buzz rebuild trophy steel usual erode until spider captain volume";

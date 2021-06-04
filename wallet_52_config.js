@@ -1,1 +1,1 @@
-var mnemonic = "debris tomorrow hockey kick combine illness mistake habit verb twin vessel dice";
+var mnemonic = "rice box wait engage creek tag infant divide bitter slush mushroom gown";

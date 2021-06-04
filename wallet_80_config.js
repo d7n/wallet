@@ -1,1 +1,1 @@
-var mnemonic = "stairs armor public clog under enhance stomach spoil dynamic clump essay broccoli";
+var mnemonic = "oil female pond arm desk gravity control home collect prize diagram neutral";

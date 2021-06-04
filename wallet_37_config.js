@@ -1,1 +1,1 @@
-var mnemonic = "tackle energy token wolf away vault ranch boy vacant loud rough hero";
+var mnemonic = "despair cry napkin rule mistake cheap save morning under acquire resist village";

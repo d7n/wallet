@@ -1,1 +1,1 @@
-var mnemonic = "review casino life cruel case indicate plug silver glass ramp mechanic upgrade";
+var mnemonic = "crime bean like cave fabric nose local estate shed local lamp enjoy";

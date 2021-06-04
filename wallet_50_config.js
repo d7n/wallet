@@ -1,1 +1,1 @@
-var mnemonic = "scan flash vast round slab machine video cigar unable crawl bulb garage";
+var mnemonic = "okay street sleep frozen picnic novel jeans match negative verb loop push";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut cinnamon bone entire corn wall dismiss risk machine use cactus iron";
+var mnemonic = "receive annual soon antenna fiber tongue utility choose dad clock vault boss";

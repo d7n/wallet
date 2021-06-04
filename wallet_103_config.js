@@ -1,1 +1,1 @@
-var mnemonic = "prevent broccoli decade forward acoustic absent palace surface mean wink bean abuse";
+var mnemonic = "carbon vivid annual adult unhappy bullet finish aerobic culture habit fiber impact";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect tongue cabin circle capital shaft praise wave keep approve scheme rotate";
+var mnemonic = "cabin upgrade symptom panel excite bird fresh return inflict protect matrix theory";

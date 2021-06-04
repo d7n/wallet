@@ -1,1 +1,1 @@
-var mnemonic = "idea domain concert rug crazy document fury render cluster flame ski digital";
+var mnemonic = "modify excite hollow burst rude civil goose brisk explain pledge aerobic zero";

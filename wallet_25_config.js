@@ -1,1 +1,1 @@
-var mnemonic = "fade recipe video sun public skin echo tell remove obey water will";
+var mnemonic = "stool wash bench replace gossip height ribbon maximum rice agree measure version";

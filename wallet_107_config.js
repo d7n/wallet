@@ -1,1 +1,1 @@
-var mnemonic = "elevator immune lizard squeeze direct machine display casual victory waste scheme float";
+var mnemonic = "obscure peace between version riot frame ceiling sight trim chapter shock tomato";

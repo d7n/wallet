@@ -1,1 +1,1 @@
-var mnemonic = "apology spoil dwarf core load bubble keep scene expect woman popular matrix";
+var mnemonic = "door middle spoil wolf series shoe minute mail wedding rude chapter agree";

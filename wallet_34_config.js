@@ -1,1 +1,1 @@
-var mnemonic = "sphere unfair kite memory onion dilemma pattern wing vapor table hollow magnet";
+var mnemonic = "tool elbow chunk sing car moment glory dove soldier frozen reflect relax";

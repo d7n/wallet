@@ -1,1 +1,1 @@
-var mnemonic = "menu clean volume wing quit sunny youth innocent core morning heart keep";
+var mnemonic = "shine remain street height cliff entry ensure grain tree oven miracle fluid";

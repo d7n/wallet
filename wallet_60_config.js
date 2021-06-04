@@ -1,1 +1,1 @@
-var mnemonic = "street drastic famous oak cost adjust sphere bargain soul repair state step";
+var mnemonic = "what park combine aerobic exhibit achieve panic very leaf today fuel picture";

@@ -1,1 +1,1 @@
-var mnemonic = "such useless proud quality allow idle size another hip ill virus home";
+var mnemonic = "athlete silver aisle afraid digital flag purchase acoustic bottom gossip journey account";

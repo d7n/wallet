@@ -1,1 +1,1 @@
-var mnemonic = "army pretty fancy avoid area flock defense charge fold speak universe auto";
+var mnemonic = "journey illegal catalog what help green cart spray route bachelor must breeze";

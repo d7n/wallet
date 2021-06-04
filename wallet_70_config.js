@@ -1,1 +1,1 @@
-var mnemonic = "crane canvas scissors sock execute shield recall inhale patient cover actress embrace";
+var mnemonic = "earn lemon flock distance inform giant media distance rug castle garlic sketch";

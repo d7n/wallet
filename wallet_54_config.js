@@ -1,1 +1,1 @@
-var mnemonic = "one broccoli strategy road cover buzz strategy wood hand duck special catch";
+var mnemonic = "ensure daughter supreme address before pride lobster electric amused crouch achieve soul";

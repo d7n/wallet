@@ -1,1 +1,1 @@
-var mnemonic = "boost lunar become sponsor assume logic cigar quote arm degree solar law";
+var mnemonic = "chest mercy away danger hand decrease slim mobile coffee six mandate cousin";

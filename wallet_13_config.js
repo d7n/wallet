@@ -1,1 +1,1 @@
-var mnemonic = "walk trigger alarm alter north subway board curve vacuum assist badge segment";
+var mnemonic = "grape relief misery museum settle mechanic illegal barely march nominee valve strike";

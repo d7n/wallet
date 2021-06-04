@@ -1,1 +1,1 @@
-var mnemonic = "ozone summer service airport grain cotton soda obscure behave fun memory snake";
+var mnemonic = "mercy brain raven solve bicycle suffer plastic cattle hair lumber screen lawn";

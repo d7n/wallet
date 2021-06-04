@@ -1,1 +1,1 @@
-var mnemonic = "buddy network original inner cattle view pave sting check time sentence shallow";
+var mnemonic = "chapter polar timber alert disagree emotion shrimp deliver flock tail ritual decide";

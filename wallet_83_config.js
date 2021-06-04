@@ -1,1 +1,1 @@
-var mnemonic = "excuse curious vessel guess huge glow sponsor there jeans taxi envelope globe";
+var mnemonic = "park model comic trash bid mail skill process dream diet gasp piece";

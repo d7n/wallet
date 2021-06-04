@@ -1,1 +1,1 @@
-var mnemonic = "kit net trap myself problem gap vivid damage lemon drama solar legal";
+var mnemonic = "anxiety lab cage nephew rally know region stand hope size stereo elevator";

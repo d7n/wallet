@@ -1,1 +1,1 @@
-var mnemonic = "slow near garlic tragic crisp strategy fiber fame slow jacket unknown hero";
+var mnemonic = "drum fringe auto rough visual hair state physical evolve pottery keep scare";

@@ -1,1 +1,1 @@
-var mnemonic = "dune suffer speak fade before south melt relax wire axis security hunt";
+var mnemonic = "point skirt winter museum stove tornado muffin voyage world stuff obtain menu";

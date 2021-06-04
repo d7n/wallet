@@ -1,1 +1,1 @@
-var mnemonic = "romance economy orchard impact unusual exchange main mandate census comic supreme today";
+var mnemonic = "soon brass across include april bounce oak tree float coast random state";

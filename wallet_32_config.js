@@ -1,1 +1,1 @@
-var mnemonic = "miss drum awake fantasy fashion ghost drive rebuild audit mom arctic double";
+var mnemonic = "scout town lunch arena jump april over select spatial inside retire noodle";

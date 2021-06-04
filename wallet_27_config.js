@@ -1,1 +1,1 @@
-var mnemonic = "bright solve truck exile chapter medal civil fruit arch hotel snow strike";
+var mnemonic = "planet gloom cash clever there cause tenant ball crisp frequent duty mistake";

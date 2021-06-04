@@ -1,1 +1,1 @@
-var mnemonic = "match attack wood expose alone road live know phrase doll artist vital";
+var mnemonic = "yellow artist category jeans exhaust local engage myth vital crime token pistol";

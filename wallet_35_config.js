@@ -1,1 +1,1 @@
-var mnemonic = "parent teach april awake renew all asthma raven bracket flash library morning";
+var mnemonic = "amateur coconut must merit salmon place travel negative bleak review belt maze";

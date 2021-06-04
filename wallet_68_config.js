@@ -1,1 +1,1 @@
-var mnemonic = "oval robust opinion aspect kick ill cause series awful onion chase people";
+var mnemonic = "until venture desert source marriage grit laugh call topple trust sad napkin";

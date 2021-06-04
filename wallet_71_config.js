@@ -1,1 +1,1 @@
-var mnemonic = "differ differ asset corn quality good crime secret journey quick danger ivory";
+var mnemonic = "desert bicycle whale story outdoor useful end teach obey onion man degree";

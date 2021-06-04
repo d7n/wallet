@@ -1,1 +1,1 @@
-var mnemonic = "gossip express various reveal ozone fatal pepper bean misery liquid bamboo ketchup";
+var mnemonic = "aspect sudden cost bachelor denial idle mule chest book bind pen air";

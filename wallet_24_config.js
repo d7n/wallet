@@ -1,1 +1,1 @@
-var mnemonic = "village safe notice until possible month curious deny hawk vocal since trick";
+var mnemonic = "proof enlist whale afford cream kitten can strike skill alley click replace";

@@ -1,1 +1,1 @@
-var mnemonic = "heart bike lunar improve paper lawn outer skirt camp excuse pink gravity";
+var mnemonic = "swing need season symbol boost piano interest bench note razor pact merry";

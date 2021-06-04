@@ -1,1 +1,1 @@
-var mnemonic = "crime act net another exit rely business dirt ankle rebel grit abandon";
+var mnemonic = "zero jar absorb glad empower elephant pottery system sustain inner envelope reduce";

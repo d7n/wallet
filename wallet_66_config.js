@@ -1,1 +1,1 @@
-var mnemonic = "slender column dynamic slight food float cabbage idea parrot moment assume shy";
+var mnemonic = "tortoise gather monitor midnight glove happy attend art buzz shell funny dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "review exhaust split perfect sunny win decrease wool palace blossom purpose hire";
+var mnemonic = "loud soda dutch crush host intact traffic scene fortune can girl inject";

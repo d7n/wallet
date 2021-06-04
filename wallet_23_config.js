@@ -1,1 +1,1 @@
-var mnemonic = "input decade impose you waste width solid panther hybrid visit machine negative";
+var mnemonic = "differ pledge power ghost subject crane gravity type shock crater mimic penalty";

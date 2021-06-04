@@ -1,1 +1,1 @@
-var mnemonic = "keep silver cycle loan dragon stadium catch cotton three subway foil remain";
+var mnemonic = "paddle diamond increase silly chef bread code thing diary ordinary garden document";

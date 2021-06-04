@@ -1,1 +1,1 @@
-var mnemonic = "bid scene faint screen wink fame toss order broccoli gadget spawn gravity";
+var mnemonic = "math spring fuel sport mushroom chimney dutch woman awake fox seat mention";

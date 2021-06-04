@@ -1,1 +1,1 @@
-var mnemonic = "offer east defense cube fossil stairs trust fox eagle mistake matter nuclear";
+var mnemonic = "unusual federal fence asthma obtain sign topple shift frozen fortune lottery blouse";

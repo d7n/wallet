@@ -1,1 +1,1 @@
-var mnemonic = "connect wolf course eagle helmet length trash chef album inner joy apart";
+var mnemonic = "bottom lady scan zero lend girl enhance witness saddle hunt produce twist";

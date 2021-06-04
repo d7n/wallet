@@ -1,1 +1,1 @@
-var mnemonic = "diagram festival sea alone minimum noise grain art elder solve grunt pepper";
+var mnemonic = "walk before traffic zebra goddess destroy ill license during champion cement patrol";

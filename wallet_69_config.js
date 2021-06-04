@@ -1,1 +1,1 @@
-var mnemonic = "clay scrub arrow orchard future globe toy muffin entire actress stage kidney";
+var mnemonic = "twin fly hedgehog argue dust sail raise heart admit wash erase giggle";

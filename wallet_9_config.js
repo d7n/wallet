@@ -1,1 +1,1 @@
-var mnemonic = "opera coyote hole hungry seed blade target truth saddle brass regular finger";
+var mnemonic = "front memory remember bounce shed price essay print poem index rural umbrella";

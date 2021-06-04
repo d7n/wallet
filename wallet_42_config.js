@@ -1,1 +1,1 @@
-var mnemonic = "end under barely nurse river until chest beach rotate aspect decrease balcony";
+var mnemonic = "tragic horse mimic bleak fence proud belt drop hundred fade duck own";

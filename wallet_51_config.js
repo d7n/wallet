@@ -1,1 +1,1 @@
-var mnemonic = "cheap fan render camp rhythm upgrade invite angle horn buzz detect album";
+var mnemonic = "fault design weasel fatal kingdom faint orient chalk service gadget hen embrace";

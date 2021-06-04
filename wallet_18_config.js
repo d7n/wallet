@@ -1,1 +1,1 @@
-var mnemonic = "argue easy pledge ozone ill wedding toward monitor average elegant tape net";
+var mnemonic = "please myth loyal weekend hidden loop walk cycle spread village negative good";

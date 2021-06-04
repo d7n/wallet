@@ -1,1 +1,1 @@
-var mnemonic = "north real more buddy grace salmon between fix connect leader crater regular";
+var mnemonic = "lift notice winner permit tail oak boil rail entry decline coast grain";

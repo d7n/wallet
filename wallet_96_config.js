@@ -1,1 +1,1 @@
-var mnemonic = "afraid start warm recycle genre hip holiday frog sudden critic pupil eternal";
+var mnemonic = "laundry spare cash rather churn almost morning inject mystery peanut glimpse toast";

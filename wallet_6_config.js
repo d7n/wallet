@@ -1,1 +1,1 @@
-var mnemonic = "accuse soccer tube defense mass soda device hole when basket other odor";
+var mnemonic = "property round access vast kiss office click achieve spray venture connect trophy";

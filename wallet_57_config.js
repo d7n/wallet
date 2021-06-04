@@ -1,1 +1,1 @@
-var mnemonic = "ice race park shallow wheel culture enroll add year forward cliff hover";
+var mnemonic = "creek shuffle immune damp buyer sorry walk wedding swing differ merge hungry";

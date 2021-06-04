@@ -1,1 +1,1 @@
-var mnemonic = "brisk obvious upgrade poet fork skin oval assault nasty sport dumb slide";
+var mnemonic = "blossom almost later flush curtain method budget isolate tell syrup chronic caution";

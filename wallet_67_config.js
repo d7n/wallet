@@ -1,1 +1,1 @@
-var mnemonic = "describe treat decide endless cheap custom acquire dizzy neither ribbon private retreat";
+var mnemonic = "glue sheriff media arrow glow novel control cake jealous stick axis unusual";

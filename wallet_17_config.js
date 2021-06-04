@@ -1,1 +1,1 @@
-var mnemonic = "mask wrong picnic truth nice story follow gain butter deny seminar egg";
+var mnemonic = "harvest divert inner copy wish swear stem drop movie sustain pear risk";

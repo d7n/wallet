@@ -1,1 +1,1 @@
-var mnemonic = "assault jacket century total school another finish stem spread purchase amazing practice";
+var mnemonic = "walnut mammal write sight fall kidney cattle ski dish carry invite lamp";

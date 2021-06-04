@@ -1,1 +1,1 @@
-var mnemonic = "mercy genuine diesel taxi idle treat lucky tell good skill grass wisdom";
+var mnemonic = "hold appear test hire runway dragon promote visual pet cloud load target";

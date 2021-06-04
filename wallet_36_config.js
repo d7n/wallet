@@ -1,1 +1,1 @@
-var mnemonic = "melt brick question cushion fiber fan benefit indoor basket property achieve nature";
+var mnemonic = "frown supreme clap fossil glory long pact unlock punch common crucial combine";

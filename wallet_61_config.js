@@ -1,1 +1,1 @@
-var mnemonic = "web movie resemble desert victory stone slight pen trigger sausage analyst crowd";
+var mnemonic = "next surround skate anger hidden claw engage manage able tornado castle elbow";

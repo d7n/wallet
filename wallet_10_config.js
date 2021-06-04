@@ -1,1 +1,1 @@
-var mnemonic = "west blossom nothing exact melody street jewel switch found either trap horror";
+var mnemonic = "vicious glue unfair dignity light upper control slush child december slide under";

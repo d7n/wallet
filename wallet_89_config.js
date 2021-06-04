@@ -1,1 +1,1 @@
-var mnemonic = "enemy option crouch original boost test zoo north wink soccer blame rebuild";
+var mnemonic = "explain bless marble rice great modify enhance stable final usage midnight sort";

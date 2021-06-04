@@ -1,1 +1,1 @@
-var mnemonic = "disorder cruise voice toast discover drip moment comfort tumble earn cup stable";
+var mnemonic = "craft capital wagon afraid excuse wedding steak leaf logic mouse object suspect";

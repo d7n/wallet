@@ -1,1 +1,1 @@
-var mnemonic = "elbow airport ribbon picture timber cannon slim spoil service spike annual stool";
+var mnemonic = "wink caution assume fragile monitor erase like project inspire display keen absent";

@@ -1,1 +1,1 @@
-var mnemonic = "palm large east genius ball dune sea rare company stable idle omit";
+var mnemonic = "rack hub find gift alien industry slot romance ozone auction reopen holiday";

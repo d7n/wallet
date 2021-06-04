@@ -1,1 +1,1 @@
-var mnemonic = "sheriff nose upper torch prosper nature resemble second deliver trial lucky first";
+var mnemonic = "stereo snack family cup begin matter minor denial output design under forward";

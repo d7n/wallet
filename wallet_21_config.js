@@ -1,1 +1,1 @@
-var mnemonic = "arrive twelve script escape dentist exercise chaos decide road bring soap royal";
+var mnemonic = "shine place accuse girl horse lawsuit engine maximum tower brisk nothing nest";

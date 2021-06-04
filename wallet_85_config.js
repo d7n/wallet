@@ -1,1 +1,1 @@
-var mnemonic = "trade apology grit quiz found slice duck undo blue struggle online depart";
+var mnemonic = "cry transfer thank brown bamboo axis icon object right pair push squeeze";
