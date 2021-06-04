@@ -1,1 +1,1 @@
-var mnemonic = "allow also door fade exchange salon crop wrong people canal skin mixed";
+var mnemonic = "brave cost often method exchange area grief soldier fatal journey system erupt";

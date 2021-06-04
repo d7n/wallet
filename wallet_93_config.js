@@ -1,1 +1,1 @@
-var mnemonic = "join favorite purchase noise purpose ecology spray throw job plug bubble knee";
+var mnemonic = "fame unfair hint hood predict settle now raven daring cry mobile life";

@@ -1,1 +1,1 @@
-var mnemonic = "grid evolve envelope pipe believe flat retreat wrestle wood menu actress scissors";
+var mnemonic = "cool clerk foster thumb glue side ankle secret matrix fit dice enhance";

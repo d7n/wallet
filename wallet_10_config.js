@@ -1,1 +1,1 @@
-var mnemonic = "cannon chat renew beach together butter airport gadget dinosaur axis december south";
+var mnemonic = "mechanic finish appear novel anchor shuffle toss ski change ladder tissue write";

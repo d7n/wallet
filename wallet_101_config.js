@@ -1,1 +1,1 @@
-var mnemonic = "spell student scout tuna pet idle away pill taxi ignore flip sign";
+var mnemonic = "country crouch curious maid hotel draft result argue fork cage renew bird";

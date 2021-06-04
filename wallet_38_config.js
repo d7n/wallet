@@ -1,1 +1,1 @@
-var mnemonic = "decade pause avoid finger armor fold motion solve squeeze cube minor gift";
+var mnemonic = "immune chalk dry sea feature during puzzle else eagle hybrid payment hat";

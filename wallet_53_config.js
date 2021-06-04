@@ -1,1 +1,1 @@
-var mnemonic = "agent audit banner grant obscure indicate youth stock ripple govern theory model";
+var mnemonic = "job mouse inside camp fire paddle invest pupil rug step coin horn";

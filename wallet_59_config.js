@@ -1,1 +1,1 @@
-var mnemonic = "yard eyebrow sniff yellow giant flame argue know dignity melt bright local";
+var mnemonic = "sphere plastic claw spoil license design person inquiry talk video alone winter";

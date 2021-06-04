@@ -1,1 +1,1 @@
-var mnemonic = "raven damp lesson goddess three sort orange subject plastic bread novel purchase";
+var mnemonic = "never swear dinner unknown mosquito expand token recipe critic yard heavy profit";

@@ -1,1 +1,1 @@
-var mnemonic = "beef journey decade phrase pride smooth gun stem agree attract comfort mobile";
+var mnemonic = "warfare stamp such bike river actor repeat timber daring lonely snap phrase";

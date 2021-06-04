@@ -1,1 +1,1 @@
-var mnemonic = "rescue sand kingdom wet appear foster neglect glad mansion leg fruit kit";
+var mnemonic = "list morning basket warrior hire glance roof agent evil magic photo verify";

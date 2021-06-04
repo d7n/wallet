@@ -1,1 +1,1 @@
-var mnemonic = "address target aspect huge wash lend clever unique donor keen manage that";
+var mnemonic = "demand worth bean can night resource crawl before rhythm require tilt song";

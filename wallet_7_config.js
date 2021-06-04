@@ -1,1 +1,1 @@
-var mnemonic = "earth expand rabbit skull pulp rare radio solid deal legend wait ocean";
+var mnemonic = "jewel swing clean tortoise aware warm bag frost shallow apart toast dice";

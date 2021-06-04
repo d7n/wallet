@@ -1,1 +1,1 @@
-var mnemonic = "fringe one task female sadness hard fly front earn brain mango waste";
+var mnemonic = "conduct two pyramid address verb bone cherry ask hurt oblige target fork";

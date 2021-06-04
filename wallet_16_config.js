@@ -1,1 +1,1 @@
-var mnemonic = "initial about noise flag amazing ivory double autumn sadness fabric asthma potato";
+var mnemonic = "group curve scrub year include sustain text small float tide cycle damp";

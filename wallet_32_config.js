@@ -1,1 +1,1 @@
-var mnemonic = "tooth guess test wide mystery lend struggle profit unhappy payment device opera";
+var mnemonic = "habit budget chunk people allow transfer deliver bottom upgrade idle stumble tank";

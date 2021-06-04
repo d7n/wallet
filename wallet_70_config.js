@@ -1,1 +1,1 @@
-var mnemonic = "noise cross material violin kitten absurd image spare job select grief cup";
+var mnemonic = "airport uphold next spare glass tunnel raise virus gospel verify diamond sunny";

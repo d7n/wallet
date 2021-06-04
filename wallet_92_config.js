@@ -1,1 +1,1 @@
-var mnemonic = "dirt mercy alley defy puzzle ball borrow sketch hedgehog bar extend curious";
+var mnemonic = "jungle whisper upper lecture float welcome clean suspect fuel deputy abandon waste";

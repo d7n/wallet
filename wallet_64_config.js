@@ -1,1 +1,1 @@
-var mnemonic = "post more horn glue flip jealous energy daughter peasant defense upgrade stomach";
+var mnemonic = "siege avoid season creek pelican despair isolate pudding color extend lock absorb";

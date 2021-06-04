@@ -1,1 +1,1 @@
-var mnemonic = "volume act upon flower boring good volume they enact ticket swallow dirt";
+var mnemonic = "mechanic old jump olympic hip board wash rather sweet sing afford cinnamon";

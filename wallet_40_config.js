@@ -1,1 +1,1 @@
-var mnemonic = "panic flame high urge pledge donor mountain type faculty woman trap invite";
+var mnemonic = "plastic deny material whip master surge average sorry grief novel pause farm";

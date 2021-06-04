@@ -1,1 +1,1 @@
-var mnemonic = "grief unusual tragic claim vessel into figure boss feed capable enter diesel";
+var mnemonic = "egg orchard source vivid gossip board champion evidence hand foot motion dinner";

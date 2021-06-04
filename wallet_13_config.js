@@ -1,1 +1,1 @@
-var mnemonic = "essay grace wash kangaroo north sustain pig miracle raccoon assume cube large";
+var mnemonic = "choose wall horse pulp similar veteran moment ring chronic elite dirt mean";

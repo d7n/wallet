@@ -1,1 +1,1 @@
-var mnemonic = "banner phone tattoo satisfy chase blanket soap worth upset shed public nuclear";
+var mnemonic = "pave make crumble best neck connect video damage own bar inch bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "twist garden nerve gesture lawsuit solar honey paper flush song crush mammal";
+var mnemonic = "cheap know issue bottom party swap mention brown share off waste feel";

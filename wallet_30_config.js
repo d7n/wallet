@@ -1,1 +1,1 @@
-var mnemonic = "eye luxury private ball jeans change ranch flight iron able bitter more";
+var mnemonic = "little abstract bird initial forward diary subject box hawk clerk farm loop";

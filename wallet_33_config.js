@@ -1,1 +1,1 @@
-var mnemonic = "detail depend fan squirrel truly coast style police excess wild split novel";
+var mnemonic = "boil into better layer asthma stick shove upset deposit wrap time excess";

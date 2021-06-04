@@ -1,1 +1,1 @@
-var mnemonic = "kitchen baby farm lecture fashion alcohol chaos manual position mask clever employ";
+var mnemonic = "curtain flame summer chest cannon chicken captain host word develop daughter present";

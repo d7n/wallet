@@ -1,1 +1,1 @@
-var mnemonic = "silent sunny wife dumb toddler verb butter average couch quick duty win";
+var mnemonic = "quantum silent popular exit jaguar pill real supreme large cycle carpet elite";

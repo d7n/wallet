@@ -1,1 +1,1 @@
-var mnemonic = "birth enemy voice apart man fatigue sausage web tip marble what naive";
+var mnemonic = "liberty perfect melody gorilla idea this capital mammal grow employ polar rubber";

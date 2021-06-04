@@ -1,1 +1,1 @@
-var mnemonic = "draft enter divide elegant popular away segment clip topic improve enroll flee";
+var mnemonic = "brick sunny avoid network cruise flight regular tower favorite harbor equal odor";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker album close second shadow survey aisle used outer shiver fold hint";
+var mnemonic = "image parrot cupboard render audit stone voyage goose swing intact edit despair";

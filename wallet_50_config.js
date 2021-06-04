@@ -1,1 +1,1 @@
-var mnemonic = "retreat piano legal lumber anchor width goddess fuel that silly vicious link";
+var mnemonic = "hazard clean diary guard finger reduce hurry dirt one olive glimpse scan";

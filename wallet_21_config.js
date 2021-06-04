@@ -1,1 +1,1 @@
-var mnemonic = "carbon inherit roast buyer athlete autumn logic dog junior client accident gasp";
+var mnemonic = "example token payment inform hip clutch pumpkin spring blue cement level pioneer";

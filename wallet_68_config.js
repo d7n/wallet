@@ -1,1 +1,1 @@
-var mnemonic = "photo process link long burden tail junk hybrid lesson betray neutral chapter";
+var mnemonic = "mango napkin uphold same urban city laundry exercise clutch chef anger noodle";

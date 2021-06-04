@@ -1,1 +1,1 @@
-var mnemonic = "cruise occur meadow suit virtual hospital modify more receive bird awake bone";
+var mnemonic = "hood build apology skin arm rough rival feed grass flush attitude tissue";

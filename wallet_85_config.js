@@ -1,1 +1,1 @@
-var mnemonic = "solution large circle news plate source rose crush dignity comfort equal hope";
+var mnemonic = "copper abandon human treat shiver memory repeat addict weapon quiz tube boat";

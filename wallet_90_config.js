@@ -1,1 +1,1 @@
-var mnemonic = "essay promote announce pear trigger worth moment jar wrap horn stage donor";
+var mnemonic = "lion tackle easy arrow hub reunion proof similar close find speak bench";

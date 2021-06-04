@@ -1,1 +1,1 @@
-var mnemonic = "cabin auto tape garbage quick pepper habit grain volume question word able";
+var mnemonic = "oil emotion hover pencil reflect hamster fork assume home jelly injury plunge";

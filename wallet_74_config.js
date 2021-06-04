@@ -1,1 +1,1 @@
-var mnemonic = "pool foot sugar rule estate attitude armed tank urge anchor cactus utility";
+var mnemonic = "prevent job okay course model adult legend blame coast weasel tail actual";

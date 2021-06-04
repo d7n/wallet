@@ -1,1 +1,1 @@
-var mnemonic = "boost mistake slide sure shoot expire connect pet sell fat ahead middle";
+var mnemonic = "actress fluid cannon number spell weasel job member rare runway chat settle";

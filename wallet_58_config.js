@@ -1,1 +1,1 @@
-var mnemonic = "fault parrot hundred remove leopard quantum talk onion similar arctic jump lemon";
+var mnemonic = "thumb giggle credit portion sustain side school frost input flight age budget";

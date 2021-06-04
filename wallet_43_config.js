@@ -1,1 +1,1 @@
-var mnemonic = "must derive orient shadow feature express tail need assist belt announce subway";
+var mnemonic = "private country huge shrug above hollow phone frequent become slide embark monster";

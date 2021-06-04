@@ -1,1 +1,1 @@
-var mnemonic = "marine network october fan area lazy battle multiply sting combine swallow will";
+var mnemonic = "isolate jelly velvet manage orange letter dune ring someone six exotic fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "until hint black case eight beyond asthma face lock year safe priority";
+var mnemonic = "gospel inmate stone ticket vacant erase setup example right now kidney poem";

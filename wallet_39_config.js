@@ -1,1 +1,1 @@
-var mnemonic = "name gap divide wing carpet deal city gravity crash regret party motor";
+var mnemonic = "inquiry height cry turn bid fog crawl brass absurd express ensure aspect";

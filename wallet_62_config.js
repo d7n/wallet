@@ -1,1 +1,1 @@
-var mnemonic = "nest census kit post fish monitor push resource quick crop pulse curtain";
+var mnemonic = "solar hunt fault render kangaroo bunker skull dune fan quit file retreat";

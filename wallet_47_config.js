@@ -1,1 +1,1 @@
-var mnemonic = "connect glove bullet title update mind quiz essence source pink pistol february";
+var mnemonic = "spare juice oil observe spray merry breeze zebra hood spy sick resist";

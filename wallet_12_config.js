@@ -1,1 +1,1 @@
-var mnemonic = "timber enjoy release asset reward robust country father energy husband soap forest";
+var mnemonic = "segment muffin expose annual timber stove toast join wage admit tube tennis";

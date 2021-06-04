@@ -1,1 +1,1 @@
-var mnemonic = "supreme lend wrong level gospel crisp wolf night moral potato save else";
+var mnemonic = "butter grow protect leopard tackle drive fiction never feed curious deny absorb";

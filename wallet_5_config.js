@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit drive keen hope local half velvet trial remember magic appear chimney";
+var mnemonic = "moment summer type hedgehog undo merit hire citizen antenna junk crazy huge";

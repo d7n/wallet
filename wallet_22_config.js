@@ -1,1 +1,1 @@
-var mnemonic = "ensure visa nest piano nasty surprise public special episode tiger crisp when";
+var mnemonic = "clean worth dawn ranch member athlete child situate voyage potato clerk actual";

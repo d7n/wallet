@@ -1,1 +1,1 @@
-var mnemonic = "wrap canvas hire empower addict sauce exclude blouse soap off south service";
+var mnemonic = "thank police easy vendor chef chest cream fortune clutch alpha fiction original";

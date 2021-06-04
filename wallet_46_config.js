@@ -1,1 +1,1 @@
-var mnemonic = "fashion jeans slide shove edit cliff delay agree song salute tissue junk";
+var mnemonic = "range accuse flame napkin prepare layer tongue feature near spray deposit empty";

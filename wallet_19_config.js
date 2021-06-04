@@ -1,1 +1,1 @@
-var mnemonic = "bike first pepper program opinion abstract twelve medal unusual wise hotel logic";
+var mnemonic = "federal game chalk hungry ugly suit chronic later maple child wood feel";

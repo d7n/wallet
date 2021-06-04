@@ -1,1 +1,1 @@
-var mnemonic = "gas student mesh zoo tomato path offer dentist fan jazz above hair";
+var mnemonic = "inquiry adapt phone like hole dish nasty benefit crowd need track alien";

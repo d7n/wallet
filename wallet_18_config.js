@@ -1,1 +1,1 @@
-var mnemonic = "dash pig agent regular crush husband diamond fame crowd shine nominee canoe";
+var mnemonic = "depart stable bomb vote pencil start exercise food enemy flame man wood";

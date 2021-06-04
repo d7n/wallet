@@ -1,1 +1,1 @@
-var mnemonic = "message cart chapter wage walk blush donor afford female license grape oxygen";
+var mnemonic = "cover smoke shock recall control celery trade crater awesome skull spice supply";

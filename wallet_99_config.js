@@ -1,1 +1,1 @@
-var mnemonic = "prosper uncover humor advice lonely cook pave document soon situate roast more";
+var mnemonic = "pool canal thumb fiscal staff wasp reject harsh payment reform cram gasp";

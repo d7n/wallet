@@ -1,1 +1,1 @@
-var mnemonic = "behind clog reform truly digital border buddy convince convince neck crumble deny";
+var mnemonic = "air cushion add scene arch voyage shock runway mail payment move shift";

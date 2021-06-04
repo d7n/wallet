@@ -1,1 +1,1 @@
-var mnemonic = "rough merit enrich tent interest awkward valve exist street friend public venue";
+var mnemonic = "grocery appear remain visit job normal fetch soda fresh entire bar economy";

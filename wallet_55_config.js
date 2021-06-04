@@ -1,1 +1,1 @@
-var mnemonic = "sniff title popular leg carry today ranch labor garage suspect need crisp";
+var mnemonic = "mouse runway seven ritual vicious wolf bless oyster innocent flag slogan live";

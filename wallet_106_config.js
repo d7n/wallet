@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lock zone seed poem tortoise crunch humor interest swamp cash friend";
+var mnemonic = "common exile slow help dust enjoy inspire stage husband sorry pear people";

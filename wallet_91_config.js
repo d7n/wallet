@@ -1,1 +1,1 @@
-var mnemonic = "need holiday like winter supreme horse harvest dish make mansion midnight book";
+var mnemonic = "camp response bubble champion summer gentle mix today wise ancient surface april";

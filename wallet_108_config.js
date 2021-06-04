@@ -1,1 +1,1 @@
-var mnemonic = "blouse alcohol tower similar choose mistake twice govern enjoy extra hint tip";
+var mnemonic = "slam plunge eagle unfair fatal valley cactus gift fog spare purse paper";

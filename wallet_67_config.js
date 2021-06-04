@@ -1,1 +1,1 @@
-var mnemonic = "insect unable recall wise rare stage rotate degree accuse cancel tomato opera";
+var mnemonic = "teach embrace celery program dutch process vocal tree lunch bird shed agent";

@@ -1,1 +1,1 @@
-var mnemonic = "grass switch gold dutch below dress jeans bread fly rigid woman isolate";
+var mnemonic = "stick blood name oblige because talk dolphin miracle almost stereo chuckle pen";

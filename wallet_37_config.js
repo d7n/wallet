@@ -1,1 +1,1 @@
-var mnemonic = "dwarf grant frost error sight viable enroll orphan goose smart total monster";
+var mnemonic = "suggest balance ask field box weather save wood elder happy shy record";

@@ -1,1 +1,1 @@
-var mnemonic = "melody real bonus dragon hen regret radio churn glance nominee task chef";
+var mnemonic = "clarify dust museum visit acoustic accuse arch enact figure gauge any scare";

@@ -1,1 +1,1 @@
-var mnemonic = "hire chair lobster winter neck lemon wing animal trade warm surround planet";
+var mnemonic = "cannon brief chunk develop exhibit crystal spell siege captain tortoise atom silent";

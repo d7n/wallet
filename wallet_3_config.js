@@ -1,1 +1,1 @@
-var mnemonic = "noble hybrid inner floor crew relief tobacco vast among perfect comic punch";
+var mnemonic = "payment text transfer nature patient base claim duck slide calm ask flavor";

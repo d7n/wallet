@@ -1,1 +1,1 @@
-var mnemonic = "method trophy spring target insane night custom ordinary permit aware sketch onion";
+var mnemonic = "album innocent palace they narrow almost fruit machine rookie review hub onion";

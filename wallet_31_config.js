@@ -1,1 +1,1 @@
-var mnemonic = "silly soul tail jelly aunt engine custom aspect gospel broccoli security major";
+var mnemonic = "company rough person spy type affair moment buyer social twice tired mean";

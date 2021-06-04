@@ -1,1 +1,1 @@
-var mnemonic = "motor neglect shop arm service bridge effort skin circle soap raise love";
+var mnemonic = "inflict what sudden great summer slow shrimp mail cruise behave tag science";

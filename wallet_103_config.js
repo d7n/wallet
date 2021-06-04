@@ -1,1 +1,1 @@
-var mnemonic = "antique dumb cruel gloom detail hospital doll any car cushion fun maple";
+var mnemonic = "fancy olive when kid swear soap never quantum throw leader dynamic useful";

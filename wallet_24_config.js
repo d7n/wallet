@@ -1,1 +1,1 @@
-var mnemonic = "bench ahead tortoise alone crew cart label invest either grunt give crime";
+var mnemonic = "host evidence mobile wash cake scare valley connect ship lyrics robot host";

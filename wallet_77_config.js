@@ -1,1 +1,1 @@
-var mnemonic = "air shoot video rifle front guitar flash stock balance client warfare change";
+var mnemonic = "reason refuse clog shop patient faculty mixture blush magnet inner walk pulse";

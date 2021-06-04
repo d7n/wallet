@@ -1,1 +1,1 @@
-var mnemonic = "bring credit average call popular loyal job express admit frost prison street";
+var mnemonic = "pole wing patrol seven display team universe shadow mix gospel bread cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet fall amused satisfy fog want network anxiety dice hunt atom surface";
+var mnemonic = "abuse curious extend duck shine apple spread venture fuel search glove tree";

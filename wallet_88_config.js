@@ -1,1 +1,1 @@
-var mnemonic = "vintage major fee runway ginger steel tank opinion run beyond slice admit";
+var mnemonic = "shock phrase visual ball plug country mad motion tired bargain axis spend";

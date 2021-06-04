@@ -1,1 +1,1 @@
-var mnemonic = "civil link cram pulse corn december brass grace come long history flee";
+var mnemonic = "leg dismiss proof final unveil mechanic champion visa season tree drip find";

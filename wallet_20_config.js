@@ -1,1 +1,1 @@
-var mnemonic = "funny mushroom fit bind pole trim observe resource purchase good goat body";
+var mnemonic = "artwork anxiety board base eight island rhythm cream unable garlic plastic grant";

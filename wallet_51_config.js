@@ -1,1 +1,1 @@
-var mnemonic = "hard system awkward rigid ready strike coyote erase solution spell canyon rebuild";
+var mnemonic = "trend spend word group decrease cruise silver lecture measure few evil minute";

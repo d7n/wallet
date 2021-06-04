@@ -1,1 +1,1 @@
-var mnemonic = "sphere worth demand orbit swing home essay drink uncle special reform gospel";
+var mnemonic = "poem sugar wheat voice afraid shoe grief income outdoor public city oyster";

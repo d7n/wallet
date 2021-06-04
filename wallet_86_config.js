@@ -1,1 +1,1 @@
-var mnemonic = "bulb giraffe horror purity gas coconut snake galaxy hope talk moment kit";
+var mnemonic = "fuel tree found shrimp visa multiply two jar require wrist daughter tunnel";

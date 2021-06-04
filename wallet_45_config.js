@@ -1,1 +1,1 @@
-var mnemonic = "tray tail flame bird bronze aerobic differ net police faith jar mesh";
+var mnemonic = "inspire naive absurd dad dune subway creek robust light theory buddy long";

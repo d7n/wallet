@@ -1,1 +1,1 @@
-var mnemonic = "benefit begin cup rough unusual across display crawl gather fence another manual";
+var mnemonic = "arrange two poem casino inhale shy sort damage bomb dance verb elephant";

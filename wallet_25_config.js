@@ -1,1 +1,1 @@
-var mnemonic = "outdoor prosper skin input fame slush tray kiss belt crime citizen impact";
+var mnemonic = "catalog replace crouch silk inject repair helmet industry toward century awkward order";

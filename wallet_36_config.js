@@ -1,1 +1,1 @@
-var mnemonic = "clip thrive apology shaft second afraid unlock payment switch jealous review warm";
+var mnemonic = "edit crash nice soul again arrive scan resist alley mouse awful admit";

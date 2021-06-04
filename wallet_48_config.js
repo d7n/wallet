@@ -1,1 +1,1 @@
-var mnemonic = "grant drink scissors pave theory quality defense recycle puppy squeeze forum nephew";
+var mnemonic = "wedding index syrup spider talent famous soap fashion shy because fine shadow";
