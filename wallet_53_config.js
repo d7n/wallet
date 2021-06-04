@@ -1,1 +1,1 @@
-var mnemonic = "bracket topic pink insane olive provide library long solution plug horn pencil";
+var mnemonic = "mosquito orient reason sand page own today swing december strong attend sad";

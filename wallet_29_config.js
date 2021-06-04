@@ -1,1 +1,1 @@
-var mnemonic = "net alpha shop original outer anger inflict alcohol hollow snap release security";
+var mnemonic = "mule brain funny artefact attack future wild project wear shuffle total tornado";

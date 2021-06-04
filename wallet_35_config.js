@@ -1,1 +1,1 @@
-var mnemonic = "income giggle blood confirm income tooth enforce acquire another congress squeeze aspect";
+var mnemonic = "kit swarm athlete bachelor minor whale popular water paddle tired limb holiday";

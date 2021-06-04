@@ -1,1 +1,1 @@
-var mnemonic = "pond reopen answer scrub either fragile inhale polar riot pony range aerobic";
+var mnemonic = "dream come treat come dilemma kidney else venue danger brave catalog goat";

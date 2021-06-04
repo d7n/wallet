@@ -1,1 +1,1 @@
-var mnemonic = "mesh rose pond provide gym series turkey note deal proud slim clip";
+var mnemonic = "rhythm relax basket pumpkin again velvet brush update shield banana post angry";

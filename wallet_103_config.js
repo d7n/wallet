@@ -1,1 +1,1 @@
-var mnemonic = "shine column leopard bright buffalo lumber tail crater gorilla inherit inch logic";
+var mnemonic = "rapid slice daring clinic love payment loud cruel net trim appear jaguar";

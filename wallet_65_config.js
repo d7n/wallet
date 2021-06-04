@@ -1,1 +1,1 @@
-var mnemonic = "three begin baby summer volcano fury gospel betray clown behind foster tail";
+var mnemonic = "relax minute apple door skate loud guess dismiss celery secret target leisure";

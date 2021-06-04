@@ -1,1 +1,1 @@
-var mnemonic = "decrease improve civil comic sniff must insect sure street siren provide olive";
+var mnemonic = "attitude useful forward animal person flat fever wage any brief video dynamic";

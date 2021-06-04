@@ -1,1 +1,1 @@
-var mnemonic = "hub destroy priority giant cliff drama canoe primary panda gun pigeon hand";
+var mnemonic = "tray library diary welcome banner weekend fragile fold island truly discover client";

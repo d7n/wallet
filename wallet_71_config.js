@@ -1,1 +1,1 @@
-var mnemonic = "wasp fence stairs hammer clarify kiwi escape brother pumpkin garment roof hundred";
+var mnemonic = "case page soccer random begin easily level brief bid job weasel guard";

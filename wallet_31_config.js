@@ -1,1 +1,1 @@
-var mnemonic = "document slab antenna weird wise tower slow motor tumble gun airport punch";
+var mnemonic = "jazz sand piano scrap glance hip fresh expose retire else solar van";

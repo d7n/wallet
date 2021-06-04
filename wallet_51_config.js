@@ -1,1 +1,1 @@
-var mnemonic = "border lava cook problem real toast boat punch silver hollow rule citizen";
+var mnemonic = "this cluster pudding open curve indoor fossil panel road miss bundle tiger";

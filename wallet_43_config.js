@@ -1,1 +1,1 @@
-var mnemonic = "luxury drill assist soul citizen usual museum injury fence scrub sponsor dream";
+var mnemonic = "supply load pencil head evolve radio gravity tool print usual brass mushroom";

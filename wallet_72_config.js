@@ -1,1 +1,1 @@
-var mnemonic = "chaos fragile fluid position topic obvious ill click volume donkey sight ugly";
+var mnemonic = "myself benefit soda feel expose excite live denial company cool future motor";

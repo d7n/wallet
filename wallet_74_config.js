@@ -1,1 +1,1 @@
-var mnemonic = "hurry bullet improve rain egg plate arctic record october task advance render";
+var mnemonic = "put swap wash page that news father club cancel case captain kid";

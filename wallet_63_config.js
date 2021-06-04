@@ -1,1 +1,1 @@
-var mnemonic = "purchase ivory pond invest side swamp forum palace grief coin disease fault";
+var mnemonic = "strong awesome near bean mirror elbow bitter raise humor detect forward mention";

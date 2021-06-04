@@ -1,1 +1,1 @@
-var mnemonic = "soup window actor remain mule squirrel bread asset upset reveal case excess";
+var mnemonic = "neutral fringe snake donate around fantasy flash earth stuff term hello fiction";

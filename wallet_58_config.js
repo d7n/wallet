@@ -1,1 +1,1 @@
-var mnemonic = "age exclude bridge subway appear lottery actual bridge fresh cave rescue captain";
+var mnemonic = "problem spike jacket diet neglect pony claim swear debate normal erase sure";

@@ -1,1 +1,1 @@
-var mnemonic = "camera about anxiety type unfair good crater clog animal guess entire better";
+var mnemonic = "sun flat nothing hockey praise argue retire donkey amount antenna legend click";

@@ -1,1 +1,1 @@
-var mnemonic = "dial distance ankle between bar special olympic tomorrow flash coil staff town";
+var mnemonic = "final peace chief artwork viable install extra ridge squirrel task moral march";

@@ -1,1 +1,1 @@
-var mnemonic = "crash drama resist flock cherry dad distance cushion away blur bachelor expect";
+var mnemonic = "combine pill olympic plate broken frozen sniff issue health fame myself sugar";

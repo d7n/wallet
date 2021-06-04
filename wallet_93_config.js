@@ -1,1 +1,1 @@
-var mnemonic = "height polar route vintage bar purpose rural job destroy text hedgehog pyramid";
+var mnemonic = "rib all rail still finger project borrow develop measure action parade stool";

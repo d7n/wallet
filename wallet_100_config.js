@@ -1,1 +1,1 @@
-var mnemonic = "also decorate banana banner refuse field van thank brown crime curtain crop";
+var mnemonic = "work ramp later beach december ostrich flight tragic matter flock pitch song";

@@ -1,1 +1,1 @@
-var mnemonic = "stand broccoli donor silk erode tank cloth purse click napkin license element";
+var mnemonic = "fee leader what angry blouse mask olympic once peasant denial ill give";

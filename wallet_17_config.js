@@ -1,1 +1,1 @@
-var mnemonic = "scheme junk awesome pupil labor primary wealth slim approve oil doctor supply";
+var mnemonic = "orphan ecology six arrive tent before sustain state mountain nice rather unable";

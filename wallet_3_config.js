@@ -1,1 +1,1 @@
-var mnemonic = "worth owner manage nose slim wolf guard kit wife idea absurd airport";
+var mnemonic = "wrong bargain junior space nasty cabin you valley river taxi visit noble";

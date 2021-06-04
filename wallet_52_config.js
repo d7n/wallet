@@ -1,1 +1,1 @@
-var mnemonic = "target layer joy later rather welcome view bean ridge enforce pattern subway";
+var mnemonic = "tunnel prevent skirt battle spirit rich photo crime fault spike term horror";

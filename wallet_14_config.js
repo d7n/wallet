@@ -1,1 +1,1 @@
-var mnemonic = "include execute radar room orange rather vivid hard box entry scrap vehicle";
+var mnemonic = "inside bulb boost fury cluster this impact opinion other swap ask diamond";

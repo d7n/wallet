@@ -1,1 +1,1 @@
-var mnemonic = "fabric shuffle swap pattern couple tomorrow suffer birth scissors youth predict street";
+var mnemonic = "setup lunar quarter talent home screen garden fault lamp mechanic dash memory";

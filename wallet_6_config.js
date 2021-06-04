@@ -1,1 +1,1 @@
-var mnemonic = "depart tissue cliff armed field page critic slow diet spy panic fix";
+var mnemonic = "castle exist seek yellow cotton lock oblige actress giraffe math network provide";

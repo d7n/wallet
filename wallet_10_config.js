@@ -1,1 +1,1 @@
-var mnemonic = "soft fiscal bicycle sausage abstract when bridge talent exhaust dry inhale city";
+var mnemonic = "cost jump sign thunder wink eager help immune dwarf wash satoshi wash";

@@ -1,1 +1,1 @@
-var mnemonic = "cram nurse tilt direct clump reason admit pear poem prosper indoor muscle";
+var mnemonic = "section torch open park key inside worry method panther van lift staff";

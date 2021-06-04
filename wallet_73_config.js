@@ -1,1 +1,1 @@
-var mnemonic = "flag rely room cinnamon kangaroo cloud sock convince because source require ladder";
+var mnemonic = "pudding amount paddle cave add two machine hurry unlock safe license oven";

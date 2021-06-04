@@ -1,1 +1,1 @@
-var mnemonic = "life secret leave way twenty spice south lunch man filter april fiber";
+var mnemonic = "bachelor lava column bamboo virus kite connect chat despair motor track stick";

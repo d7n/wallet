@@ -1,1 +1,1 @@
-var mnemonic = "frost captain wrist day riot rubber soap park zoo tuition coral sauce";
+var mnemonic = "gossip wish scout vendor brick unable game joke churn cereal stem marine";

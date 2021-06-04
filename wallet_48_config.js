@@ -1,1 +1,1 @@
-var mnemonic = "crucial hair level flush chief believe dream hazard stamp stamp toward skin";
+var mnemonic = "keep few reopen digital unusual uncle glory senior friend move garlic please";

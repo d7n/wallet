@@ -1,1 +1,1 @@
-var mnemonic = "text issue sea rescue enroll off decade pass antique royal nominee flame";
+var mnemonic = "degree float drift erode wash legend emerge measure apple sweet carry piece";

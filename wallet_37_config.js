@@ -1,1 +1,1 @@
-var mnemonic = "hire home original pretty surprise place virus depart oak swing company gorilla";
+var mnemonic = "sun guitar cherry equip off silent broom unusual reflect magnet piece relax";

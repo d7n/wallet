@@ -1,1 +1,1 @@
-var mnemonic = "canvas stumble mule neck offer gorilla sense sand grape panda found explain";
+var mnemonic = "pen peace obey zone text cinnamon weekend dance thumb riot harvest sort";

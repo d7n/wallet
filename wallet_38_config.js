@@ -1,1 +1,1 @@
-var mnemonic = "tone post impose cargo monster social dice town gesture milk museum squeeze";
+var mnemonic = "prize erase among oxygen case huge admit inform scare inside jungle village";

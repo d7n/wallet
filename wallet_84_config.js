@@ -1,1 +1,1 @@
-var mnemonic = "radio butter valve tape small dial marble wasp fever replace arrest armed";
+var mnemonic = "eye utility escape case fence bind afraid juice elevator endorse say gold";

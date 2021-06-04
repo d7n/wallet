@@ -1,1 +1,1 @@
-var mnemonic = "border critic warrior neutral farm despair joke liquid disorder pen carpet title";
+var mnemonic = "left lion switch you slow valve task dream drink journey fitness cost";

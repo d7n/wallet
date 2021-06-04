@@ -1,1 +1,1 @@
-var mnemonic = "fresh cloud sight forget under express amount across coil cabbage afford aerobic";
+var mnemonic = "weapon vendor material reject panic rookie toilet blade run kiwi daughter naive";

@@ -1,1 +1,1 @@
-var mnemonic = "human drama pattern salon board tissue world settle topic check slot nut";
+var mnemonic = "need torch select force alien hat heavy credit artist during poverty foam";

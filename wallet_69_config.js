@@ -1,1 +1,1 @@
-var mnemonic = "crisp response rain alpha south piano jacket wolf voice system grain shrimp";
+var mnemonic = "atom giggle stool else stage edit size torch twice pottery enter belt";

@@ -1,1 +1,1 @@
-var mnemonic = "balance sustain repeat neutral cement negative royal dust blush differ tone exotic";
+var mnemonic = "replace wear faith raven pattern physical fringe million damage below glow race";

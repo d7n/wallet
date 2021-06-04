@@ -1,1 +1,1 @@
-var mnemonic = "brush father struggle dynamic mask there master drift issue drift open relax";
+var mnemonic = "naive region benefit ice small hen fun please hand miracle fiction offer";

@@ -1,1 +1,1 @@
-var mnemonic = "concert bracket debate diet zebra sugar domain twelve amount floor limb they";
+var mnemonic = "science hunt huge era achieve awake lend clerk argue code outside broom";

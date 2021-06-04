@@ -1,1 +1,1 @@
-var mnemonic = "original install accuse talk fire wrong hurt butter mountain raven kitten merry";
+var mnemonic = "release want cruel panic when accident error exchange tuna mom pole runway";

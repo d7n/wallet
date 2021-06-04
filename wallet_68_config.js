@@ -1,1 +1,1 @@
-var mnemonic = "magic dumb wait mind expose large minute dynamic half protect lounge tobacco";
+var mnemonic = "couple hand goddess arctic pill plastic tomorrow eyebrow repair heart shallow double";

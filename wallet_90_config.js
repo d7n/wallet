@@ -1,1 +1,1 @@
-var mnemonic = "struggle theory agree recipe lizard affair this combine faculty excess enough orbit";
+var mnemonic = "aspect ozone cost round rigid any engine else body runway rate upgrade";

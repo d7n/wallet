@@ -1,1 +1,1 @@
-var mnemonic = "quit loud remain attack soul make bronze ahead cupboard general donkey husband";
+var mnemonic = "tobacco valley patrol assault inner phone eagle buzz citizen decorate mixed flat";

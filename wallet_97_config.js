@@ -1,1 +1,1 @@
-var mnemonic = "glare armor congress upset boost spread fatigue alarm play crane obscure sample";
+var mnemonic = "tell route post beach satoshi illness short sibling cash antenna month birth";

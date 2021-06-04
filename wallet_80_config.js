@@ -1,1 +1,1 @@
-var mnemonic = "carbon flock gown machine rifle hazard morning whisper delay off actress joke";
+var mnemonic = "legend paper pear film negative split clever autumn visit despair toy equal";

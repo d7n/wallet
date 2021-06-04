@@ -1,1 +1,1 @@
-var mnemonic = "uniform wise spring enter broom fly gallery travel oval dose wing gate";
+var mnemonic = "surprise web upon differ ankle whisper merge pill game chunk joke engage";

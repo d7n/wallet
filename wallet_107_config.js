@@ -1,1 +1,1 @@
-var mnemonic = "staff neutral plastic twelve frozen cage earn dish case swear meadow quality";
+var mnemonic = "pass nasty pyramid like humble breeze purpose prison good name luxury knock";

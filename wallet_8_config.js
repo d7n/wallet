@@ -1,1 +1,1 @@
-var mnemonic = "hobby future shiver rude leader this excess episode hundred ocean clog actress";
+var mnemonic = "praise service owner trust fat coin nothing giggle local episode gentle reopen";

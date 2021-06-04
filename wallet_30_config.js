@@ -1,1 +1,1 @@
-var mnemonic = "cradle sure million loyal left toss mother movie primary virus bus payment";
+var mnemonic = "inner offer slide lava ivory flight love comfort tone ignore capable sustain";

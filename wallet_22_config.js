@@ -1,1 +1,1 @@
-var mnemonic = "desk carpet ignore elder thank antenna issue slam favorite define battle radio";
+var mnemonic = "brush pulp obtain rebel negative shoot law treat good assume busy beyond";

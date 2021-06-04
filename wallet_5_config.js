@@ -1,1 +1,1 @@
-var mnemonic = "crew exotic side oyster puppy wagon october involve pony sting retreat parade";
+var mnemonic = "negative junk autumn maple sell alien join expect once crush fade cake";

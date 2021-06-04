@@ -1,1 +1,1 @@
-var mnemonic = "sauce tired follow palace letter soda service bracket alien song river permit";
+var mnemonic = "walk benefit veteran payment alone kiss tackle piano wheel green end warrior";

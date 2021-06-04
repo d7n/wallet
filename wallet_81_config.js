@@ -1,1 +1,1 @@
-var mnemonic = "fault evil father devote bar welcome pole hundred use arrange enemy magnet";
+var mnemonic = "relax okay unlock success feature virus attitude crunch glory hurt sail poverty";

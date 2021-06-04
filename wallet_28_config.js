@@ -1,1 +1,1 @@
-var mnemonic = "clown buffalo trophy trigger minor tomato old ring check feature laptop decorate";
+var mnemonic = "isolate face imitate erode imitate unique apple attend marriage pulse asthma alley";

@@ -1,1 +1,1 @@
-var mnemonic = "there can female flower rug all have imitate skill spin sugar bind";
+var mnemonic = "embrace stay turtle bring protect jaguar fruit whale mixed sail chalk cloud";

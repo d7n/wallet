@@ -1,1 +1,1 @@
-var mnemonic = "weapon pattern foil lake smart angle blush bitter glide employ armor right";
+var mnemonic = "option ketchup satoshi mad skate exercise half umbrella nature photo market garment";

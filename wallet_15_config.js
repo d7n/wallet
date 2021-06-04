@@ -1,1 +1,1 @@
-var mnemonic = "detect filter weasel harvest develop digital snack trouble remind clean skull ensure";
+var mnemonic = "cluster bunker poem debris cheap kit lemon stuff merit kitchen conduct notable";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum width hawk absorb loyal illegal craft aspect mass volcano output close";
+var mnemonic = "hill raw twin gloom hip drum prepare veteran human sword police magnet";

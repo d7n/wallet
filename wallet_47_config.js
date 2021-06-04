@@ -1,1 +1,1 @@
-var mnemonic = "champion such deal smoke item heart job purity various excuse process bird";
+var mnemonic = "blanket engage know virtual pony patient exhibit fence immune loud custom meat";

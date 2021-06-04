@@ -1,1 +1,1 @@
-var mnemonic = "sniff champion erupt permit cereal worry mushroom coffee day twenty unknown wedding";
+var mnemonic = "man decade wild letter depart acid habit tackle when index fluid extra";

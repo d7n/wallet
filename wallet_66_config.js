@@ -1,1 +1,1 @@
-var mnemonic = "adult language tuna tomorrow roast problem unit dismiss cloud brass check sister";
+var mnemonic = "exclude unveil glare staff forest spice agree museum diagram access dove famous";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor reduce attract engine image rate code mad ghost render secret fantasy";
+var mnemonic = "group grain length crater turkey yellow retreat melody tissue food kidney magic";

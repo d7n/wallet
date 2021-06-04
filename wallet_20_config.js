@@ -1,1 +1,1 @@
-var mnemonic = "system melody episode piano second post net clump clog absurd noise cute";
+var mnemonic = "multiply sheriff civil range cream song return process either metal boil main";

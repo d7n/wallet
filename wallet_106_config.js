@@ -1,1 +1,1 @@
-var mnemonic = "because nothing avoid unique old double valve tank source idle parent wish";
+var mnemonic = "catch novel royal celery dentist found patrol whisper scale celery rapid iron";

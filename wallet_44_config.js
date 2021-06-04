@@ -1,1 +1,1 @@
-var mnemonic = "slush hybrid soda repair ball better pause left happy mixture spike desk";
+var mnemonic = "evoke welcome clip orphan damp section scale sugar warfare palm magic sad";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty all diesel faculty maid cruise skill tip beauty pool client patient";
+var mnemonic = "taxi hockey idea need slow plug reopen resist female obvious angle radio";

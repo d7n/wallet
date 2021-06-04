@@ -1,1 +1,1 @@
-var mnemonic = "saddle float board always fee scorpion person tomato usage cake forum claw";
+var mnemonic = "bulk expire ethics yard mosquito muscle obtain sadness connect comfort immense swim";

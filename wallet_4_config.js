@@ -1,1 +1,1 @@
-var mnemonic = "favorite gasp doll soul erosion idea enact reward debris cement say yard";
+var mnemonic = "hire dinner strong stay much agent make fade afford you error spread";

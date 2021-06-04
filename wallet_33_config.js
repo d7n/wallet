@@ -1,1 +1,1 @@
-var mnemonic = "accident museum enact ozone minimum hope crater assist clean choice raven meat";
+var mnemonic = "supply lottery aware jungle myth network salt marine pride unusual proof toward";

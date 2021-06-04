@@ -1,1 +1,1 @@
-var mnemonic = "plastic venue please bullet click doctor tuition solution buyer task select come";
+var mnemonic = "pill ski relief evoke promote light better dry rocket able hello era";

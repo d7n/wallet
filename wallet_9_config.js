@@ -1,1 +1,1 @@
-var mnemonic = "conduct deliver want glare sock try ghost build home spell cost piano";
+var mnemonic = "fiscal exact forest almost fog energy task disorder assist false midnight flat";

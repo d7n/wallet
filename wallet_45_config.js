@@ -1,1 +1,1 @@
-var mnemonic = "market input rally fuel spin awake lock cover amount grit vendor gather";
+var mnemonic = "custom park truck salt shed motion sketch bright december grow assume rebuild";

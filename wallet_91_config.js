@@ -1,1 +1,1 @@
-var mnemonic = "soda royal shove try exact elder medal train subject uniform sentence wheel";
+var mnemonic = "hidden swarm meat humor galaxy math real normal dove replace neglect tag";

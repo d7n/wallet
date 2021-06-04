@@ -1,1 +1,1 @@
-var mnemonic = "response face process document decide delay occur dawn cupboard absent embark spread";
+var mnemonic = "buzz end annual uncover simple stock segment search wrestle media among raise";

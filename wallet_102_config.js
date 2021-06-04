@@ -1,1 +1,1 @@
-var mnemonic = "proof smart absurd search clutch volcano educate fragile flock clown exotic raccoon";
+var mnemonic = "quick normal combine fresh patient express rich shock merit when wrong radar";

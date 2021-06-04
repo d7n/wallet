@@ -1,1 +1,1 @@
-var mnemonic = "skate project twenty wreck spot toward video glow remind spoon gentle relax";
+var mnemonic = "secret cupboard dizzy ghost defy medal approve giant worry paddle require two";

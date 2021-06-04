@@ -1,1 +1,1 @@
-var mnemonic = "table lock victory program bacon marriage machine cram wise champion slab visa";
+var mnemonic = "weird idle round feel net gallery demand distance enrich sick bench power";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix champion bind text attend february salt crucial deny turtle gorilla menu";
+var mnemonic = "baby alpha tongue start hire slender veteran across flag scatter market myself";

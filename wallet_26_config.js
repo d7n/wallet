@@ -1,1 +1,1 @@
-var mnemonic = "subject anxiety exile expire wash tell provide bundle portion night midnight fix";
+var mnemonic = "green aisle action negative circle moral labor keen solution total hole ticket";

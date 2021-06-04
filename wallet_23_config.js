@@ -1,1 +1,1 @@
-var mnemonic = "already mix life another hamster bachelor repair bright zero sail robot filter";
+var mnemonic = "hover guard uniform cable attack evolve unfair farm grocery mushroom journey physical";
