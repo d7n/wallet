@@ -1,1 +1,1 @@
-var mnemonic = "snap girl reflect mandate caught bamboo doll spatial upon space vote maximum";
+var mnemonic = "devote still else admit stadium balance gas medal belt cover fortune surge";

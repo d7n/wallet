@@ -1,1 +1,1 @@
-var mnemonic = "twenty pattern boss nation object negative save rug nature walk note occur";
+var mnemonic = "photo panther guess quote exist theory mind dawn section put ceiling patch";

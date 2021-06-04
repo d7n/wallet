@@ -1,1 +1,1 @@
-var mnemonic = "purity worth patrol sunny sting defy blue system tiger rule net surprise";
+var mnemonic = "craft hobby hip sail illegal tilt student cannon vibrant pudding duck wage";

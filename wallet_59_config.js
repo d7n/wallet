@@ -1,1 +1,1 @@
-var mnemonic = "excite ocean snake spell lady wet street bind force inherit laugh sugar";
+var mnemonic = "skate ranch another castle library rule chest shoe miss often camp method";

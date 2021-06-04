@@ -1,1 +1,1 @@
-var mnemonic = "owner doctor guide balance own tribe derive globe monster immune lion mail";
+var mnemonic = "net enjoy attend famous coast hybrid option rhythm edge guitar one best";

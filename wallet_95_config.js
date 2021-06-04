@@ -1,1 +1,1 @@
-var mnemonic = "nurse material wagon female opinion connect design add brother street lawn trial";
+var mnemonic = "thrive sugar tray save milk beef sad goddess cloud exhaust purchase mammal";

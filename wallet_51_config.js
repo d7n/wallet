@@ -1,1 +1,1 @@
-var mnemonic = "profit stadium balcony learn nerve wrestle still cannon sort high birth forward";
+var mnemonic = "prefer ball install swamp pole attack property what cool invest thank nice";

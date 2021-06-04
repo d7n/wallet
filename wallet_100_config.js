@@ -1,1 +1,1 @@
-var mnemonic = "near raise betray note push disagree sunny insane absent elephant mix verify";
+var mnemonic = "exist admit tumble gym clutch magic inside tomato tail volcano night trash";

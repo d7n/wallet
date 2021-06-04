@@ -1,1 +1,1 @@
-var mnemonic = "window ring duck ask tenant wall often arm mansion champion animal gap";
+var mnemonic = "village habit wheel where shed wedding recipe poem world upgrade beef employ";

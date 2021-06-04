@@ -1,1 +1,1 @@
-var mnemonic = "february increase truly blanket turkey denial endless mass trumpet source such much";
+var mnemonic = "vessel cradle visit reunion frown scare mansion diagram episode human certain cook";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge embark infant popular laptop undo calm cotton number color advice have";
+var mnemonic = "sting same buyer away unique armor broken require torch frozen muffin food";

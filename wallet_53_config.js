@@ -1,1 +1,1 @@
-var mnemonic = "salmon assume load tank scatter target digital poverty student lunar tennis brush";
+var mnemonic = "ripple laptop physical party maximum crew monitor chimney put sorry pudding gym";

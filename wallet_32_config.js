@@ -1,1 +1,1 @@
-var mnemonic = "banner find fan tree answer shell head juice elite entry song slow";
+var mnemonic = "bounce voice ski idle glass flavor youth train ozone donor also toddler";

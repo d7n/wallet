@@ -1,1 +1,1 @@
-var mnemonic = "trigger will soft expire hen during shell parent deal prosper bread attend";
+var mnemonic = "belt push pluck cousin concert where gallery erosion there visa ready leaf";

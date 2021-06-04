@@ -1,1 +1,1 @@
-var mnemonic = "unfold arrange word valley rival rare sick system purity stage leopard skate";
+var mnemonic = "parent august pizza photo mixed imitate fork render crowd viable relax soap";

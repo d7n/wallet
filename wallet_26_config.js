@@ -1,1 +1,1 @@
-var mnemonic = "meat spread armed test piano fox broccoli page nose deliver kiwi winner";
+var mnemonic = "slight ostrich arrow lumber crunch vehicle dose cloth absent behave speak time";

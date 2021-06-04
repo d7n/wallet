@@ -1,1 +1,1 @@
-var mnemonic = "task behind orbit brief unfair alter name man lend grunt oak pupil";
+var mnemonic = "blade kick record fame sister puppy target lottery quote pupil surface shine";

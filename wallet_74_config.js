@@ -1,1 +1,1 @@
-var mnemonic = "flame dream end ritual awful ticket letter salon curtain focus nuclear artwork";
+var mnemonic = "black method baby field width odor art shadow settle arch victory hood";

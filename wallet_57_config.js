@@ -1,1 +1,1 @@
-var mnemonic = "ginger mango option lobster blame detect human game range valve coyote wedding";
+var mnemonic = "question inner possible wagon used wish release fold claim rescue member search";

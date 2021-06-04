@@ -1,1 +1,1 @@
-var mnemonic = "decline pact decline actress tunnel hand exhibit farm tray loan rebel memory";
+var mnemonic = "umbrella damage awake breeze increase destroy you boring opera solve tone dry";

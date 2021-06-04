@@ -1,1 +1,1 @@
-var mnemonic = "upset apart save brand what auto tell possible amazing dignity segment panel";
+var mnemonic = "stage prison practice canyon hint below luggage space such result grant fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "return list village radar tower ordinary egg noise tree chef release sustain";
+var mnemonic = "ignore load permit behind nurse catalog secret gospel trick loan over list";

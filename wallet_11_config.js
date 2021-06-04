@@ -1,1 +1,1 @@
-var mnemonic = "doctor news guess pluck whisper pause chalk stomach food relief endless aisle";
+var mnemonic = "detect coconut toe chef first wrap smile tired behave sheriff fetch crime";

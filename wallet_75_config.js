@@ -1,1 +1,1 @@
-var mnemonic = "test brief burden absent drama laugh vote zoo like truck net december";
+var mnemonic = "expire canal piece cradle toe arrive exact rookie soda series orbit require";

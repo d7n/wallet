@@ -1,1 +1,1 @@
-var mnemonic = "peanut joy setup stage isolate arrow way open age vacant image inflict";
+var mnemonic = "spend cactus cup between zoo kid either icon eternal clutch stay tennis";

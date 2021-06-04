@@ -1,1 +1,1 @@
-var mnemonic = "rug eye neglect audit pact van search pave rather denial book logic";
+var mnemonic = "pistol leopard pitch debate deal ball subject artwork blue copper void grain";

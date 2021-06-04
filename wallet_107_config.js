@@ -1,1 +1,1 @@
-var mnemonic = "bunker nephew brother cement board leopard spin prepare siege also catch convince";
+var mnemonic = "broccoli hand decide worry wait pretty health amount glue spin naive join";

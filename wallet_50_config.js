@@ -1,1 +1,1 @@
-var mnemonic = "laugh recycle father grass fruit wheat target foil industry noodle range safe";
+var mnemonic = "history ensure grow friend fabric use food immense drive vibrant public garden";

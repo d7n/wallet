@@ -1,1 +1,1 @@
-var mnemonic = "coach bubble clog pluck occur fossil monkey angle leg reject seek whisper";
+var mnemonic = "tomato language accident purpose detect invite flash fury light lumber milk stuff";

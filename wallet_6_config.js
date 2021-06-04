@@ -1,1 +1,1 @@
-var mnemonic = "pole laugh word worry raccoon achieve spring board guess bitter tonight buddy";
+var mnemonic = "maximum cloth paddle resemble stock senior toy music warrior ten sense length";

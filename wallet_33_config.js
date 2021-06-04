@@ -1,1 +1,1 @@
-var mnemonic = "note major fox letter vendor network curve orphan deny sense venture coffee";
+var mnemonic = "security steak inhale avocado volume afford ecology economy artist crunch bag cloth";

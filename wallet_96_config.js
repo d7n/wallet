@@ -1,1 +1,1 @@
-var mnemonic = "urban duty recipe flame blast sunset few siege runway potato car dinosaur";
+var mnemonic = "deliver enter novel grit junior monkey people brick useless shift laugh abuse";

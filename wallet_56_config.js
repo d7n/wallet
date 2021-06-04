@@ -1,1 +1,1 @@
-var mnemonic = "print deer other major kiss deputy foster report gloom flight wing labor";
+var mnemonic = "order friend car large area soul ice erase try heart endorse chief";

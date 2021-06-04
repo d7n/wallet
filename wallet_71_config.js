@@ -1,1 +1,1 @@
-var mnemonic = "ensure rose field supreme labor snow jar toilet because session group master";
+var mnemonic = "liar perfect boy burden include snack member athlete fiscal latin tomorrow wine";

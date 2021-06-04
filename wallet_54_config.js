@@ -1,1 +1,1 @@
-var mnemonic = "lab elegant alone cinnamon dilemma idle practice save leisure ghost account panic";
+var mnemonic = "tiny bamboo gold nest else rabbit snow social volume warrior parent black";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter moral cereal nest issue lawsuit actress source piece treat notice inside";
+var mnemonic = "long cross crater fossil awful ride ketchup lottery mutual decline raccoon hat";

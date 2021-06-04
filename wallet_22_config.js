@@ -1,1 +1,1 @@
-var mnemonic = "stamp resist street pass group silly general page despair old actress abstract";
+var mnemonic = "useful burden salute invest hybrid peanut receive wrong forward embody electric galaxy";

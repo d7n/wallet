@@ -1,1 +1,1 @@
-var mnemonic = "aspect shadow broccoli frog fortune excite pudding onion traffic pencil hidden weird";
+var mnemonic = "wrong menu anger carpet economy monkey crop cushion script correct useful awkward";

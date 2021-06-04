@@ -1,1 +1,1 @@
-var mnemonic = "debris improve cheap camera tiny wait flavor brief clutch quality lyrics excite";
+var mnemonic = "govern steel south lock broom snap yard spell credit style shell food";

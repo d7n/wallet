@@ -1,1 +1,1 @@
-var mnemonic = "program scare march cat account frost waste card next pudding venture ancient";
+var mnemonic = "neither hedgehog much chimney festival aim wheat flash broken juice stool exercise";

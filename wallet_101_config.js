@@ -1,1 +1,1 @@
-var mnemonic = "hazard interest fortune east equal ahead large add pencil begin easily belt";
+var mnemonic = "solution angry search attitude leaf garment under drop side crystal test camera";

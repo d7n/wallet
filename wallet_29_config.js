@@ -1,1 +1,1 @@
-var mnemonic = "menu blood turkey diamond prison heavy gas fan wave series ability snake";
+var mnemonic = "mail slice inner imitate minor toilet cry tail august limb reflect board";

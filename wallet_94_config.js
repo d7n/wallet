@@ -1,1 +1,1 @@
-var mnemonic = "cheap leaf hand essay fancy cool awesome fog middle tip escape parent";
+var mnemonic = "slab sting hybrid clinic gaze swamp advance office struggle thumb evidence creek";

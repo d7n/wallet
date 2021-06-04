@@ -1,1 +1,1 @@
-var mnemonic = "squeeze verb aisle lesson pen truly shallow donkey laptop merry over shed";
+var mnemonic = "fury embrace soccer exile outer pair legend dignity swing attitude razor alley";

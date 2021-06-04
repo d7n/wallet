@@ -1,1 +1,1 @@
-var mnemonic = "approve reduce scrub end pig recall bid actress danger hobby vicious sponsor";
+var mnemonic = "era shop happy into rice door castle few today interest slab fatigue";

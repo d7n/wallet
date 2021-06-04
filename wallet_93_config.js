@@ -1,1 +1,1 @@
-var mnemonic = "insane huge pave zero gasp source crystal initial harsh apart advice evil";
+var mnemonic = "share parade success visit comfort debris bubble enact woman heavy away wood";

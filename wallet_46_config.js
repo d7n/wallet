@@ -1,1 +1,1 @@
-var mnemonic = "old length steak stereo virtual depart kitchen eye unhappy seven raven noble";
+var mnemonic = "inhale athlete access tree victory ill current fog trap drill quick action";

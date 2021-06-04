@@ -1,1 +1,1 @@
-var mnemonic = "question they air rare monkey arctic clarify depend photo shaft green element";
+var mnemonic = "adult cat fade violin artwork universe pair equip desk arena topic weapon";

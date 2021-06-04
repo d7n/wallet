@@ -1,1 +1,1 @@
-var mnemonic = "mix plastic flower toy zoo yard spend silent glove myth window claw";
+var mnemonic = "duck more buyer welcome purpose order zebra basic weather pear left taste";

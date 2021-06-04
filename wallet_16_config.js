@@ -1,1 +1,1 @@
-var mnemonic = "dress moon exchange comfort spike humor scorpion excess sight drive hold actor";
+var mnemonic = "normal adjust worry embody pumpkin swap brand water scheme worth track happy";

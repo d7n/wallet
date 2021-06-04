@@ -1,1 +1,1 @@
-var mnemonic = "whip stay venue panda common easy token pool retreat pride hollow knock";
+var mnemonic = "chat zero transfer sniff tomorrow wild involve pride fury side margin wage";

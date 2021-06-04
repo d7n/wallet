@@ -1,1 +1,1 @@
-var mnemonic = "capital detail you marine blouse vital chicken oak mom opinion melody seat";
+var mnemonic = "wild peasant crystal result depth annual element clinic cause acid fringe project";

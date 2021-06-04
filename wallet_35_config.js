@@ -1,1 +1,1 @@
-var mnemonic = "erode catch involve poem uncle boy body inside athlete old primary keep";
+var mnemonic = "step skin opinion gun chest can result harvest view snow since away";

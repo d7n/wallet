@@ -1,1 +1,1 @@
-var mnemonic = "logic zero remember pluck receive undo output clutch occur injury kick walk";
+var mnemonic = "blush permit joke town detail upon reject state foil caught thrive keep";

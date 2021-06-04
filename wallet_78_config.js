@@ -1,1 +1,1 @@
-var mnemonic = "genius grief traffic weather abuse cancel promote cup gallery half slow chat";
+var mnemonic = "rough unknown fog ancient patrol defense harsh sweet bar people cry float";

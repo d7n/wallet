@@ -1,1 +1,1 @@
-var mnemonic = "brass story demand undo visual pattern pizza gadget bind wall situate zoo";
+var mnemonic = "plunge abuse coffee suit conduct garment peasant card music head duty pony";

@@ -1,1 +1,1 @@
-var mnemonic = "script blood squeeze night mammal afraid defy buffalo menu water bundle frequent";
+var mnemonic = "tomato stock holiday globe lunch baby jungle purse scissors carry edit more";

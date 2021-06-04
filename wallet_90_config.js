@@ -1,1 +1,1 @@
-var mnemonic = "pyramid shoot unknown resist shadow woman rule arch mistake clap digital chase";
+var mnemonic = "prepare pass squirrel oven giggle lonely deny gossip theme bitter castle example";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug host drift voice suffer salute pass pitch faith sail another kite";
+var mnemonic = "february dutch mention outside puzzle rubber uncover myself draft once aisle about";

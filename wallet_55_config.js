@@ -1,1 +1,1 @@
-var mnemonic = "slight medal magic amount act thing solid pumpkin casino angry maximum gas";
+var mnemonic = "warfare sense frequent huge reveal dutch roast unlock ostrich whisper arch flight";

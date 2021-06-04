@@ -1,1 +1,1 @@
-var mnemonic = "genuine head degree lobster inform document card dentist blouse alien refuse barely";
+var mnemonic = "toast gun aspect donor village useless suspect frozen worth similar trip one";

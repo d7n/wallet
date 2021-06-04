@@ -1,1 +1,1 @@
-var mnemonic = "rigid awful proud style lend cube august glad outside idle toilet avoid";
+var mnemonic = "number muscle pair media senior among patch convince either fossil broken mix";

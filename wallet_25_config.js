@@ -1,1 +1,1 @@
-var mnemonic = "stable outside another lady diary shrug exile olive accident heavy foam wheat";
+var mnemonic = "steak novel coil surprise pistol payment sudden bench merge fit dress egg";

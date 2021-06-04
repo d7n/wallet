@@ -1,1 +1,1 @@
-var mnemonic = "laundry whip tone virtual shrimp actual law student banana rocket come royal";
+var mnemonic = "naive wife bridge copper arch fortune clock strike bunker clerk army wide";

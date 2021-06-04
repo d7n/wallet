@@ -1,1 +1,1 @@
-var mnemonic = "olympic silk hero deliver ecology syrup impose trophy flat whisper dice detect";
+var mnemonic = "magic finger despair problem giraffe gauge recycle neglect extra cargo inherit umbrella";

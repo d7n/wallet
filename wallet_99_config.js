@@ -1,1 +1,1 @@
-var mnemonic = "unfold reflect ribbon enroll demand food throw visit wash snap hood quiz";
+var mnemonic = "convince craft family gadget donate person bulb useful evil sniff slide fatigue";

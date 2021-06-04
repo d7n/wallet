@@ -1,1 +1,1 @@
-var mnemonic = "fuel avoid fat napkin music critic october melt clever ethics dragon swim";
+var mnemonic = "page leopard crisp goat furnace balance nerve oak ethics actress multiply autumn";

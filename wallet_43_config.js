@@ -1,1 +1,1 @@
-var mnemonic = "resource jelly shine hurdle name stove crucial brush balance shoot toss vote";
+var mnemonic = "large burst wise law place panic dawn undo display suffer rebuild knife";

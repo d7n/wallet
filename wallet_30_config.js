@@ -1,1 +1,1 @@
-var mnemonic = "ability vital awkward rubber special core exhibit meat viable provide enroll sketch";
+var mnemonic = "joke brave weather cram exhibit length industry near bamboo account valley document";

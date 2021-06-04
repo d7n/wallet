@@ -1,1 +1,1 @@
-var mnemonic = "dizzy month drop speed reopen demise vibrant genre next patient tooth coast";
+var mnemonic = "destroy supply crisp toast always canyon employ finish vague blossom impact ethics";

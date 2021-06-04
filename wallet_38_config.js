@@ -1,1 +1,1 @@
-var mnemonic = "inner student regular result kid mask allow goddess robust nothing pledge lyrics";
+var mnemonic = "gallery region pupil glue sunny twist teach clay swamp drastic dry search";

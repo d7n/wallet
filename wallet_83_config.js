@@ -1,1 +1,1 @@
-var mnemonic = "discover case climb ill tennis december match asthma mimic cradle exchange bus";
+var mnemonic = "frost leader sample punch become survey good genre earth uncover noise cabin";

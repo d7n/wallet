@@ -1,1 +1,1 @@
-var mnemonic = "brown tell ahead tooth fold comic provide vessel call symbol right credit";
+var mnemonic = "physical path expand faith such can buyer arrange license antenna speak hungry";

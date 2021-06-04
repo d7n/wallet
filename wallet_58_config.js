@@ -1,1 +1,1 @@
-var mnemonic = "discover high toss spray cram stem cage tackle rule deer boost high";
+var mnemonic = "library bottom concert town wish burst okay love confirm truth engage unit";

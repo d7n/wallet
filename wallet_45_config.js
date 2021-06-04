@@ -1,1 +1,1 @@
-var mnemonic = "palm flush movie rib gentle clerk boss eyebrow avocado normal mandate assume";
+var mnemonic = "lion liquid symptom claw base monster task achieve alley maple cargo term";

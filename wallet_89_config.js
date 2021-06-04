@@ -1,1 +1,1 @@
-var mnemonic = "kiss imitate good hope leaf twist border engine arena rough angle oblige";
+var mnemonic = "project outdoor analyst confirm circle august afraid middle lobster wire heavy couple";

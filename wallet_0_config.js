@@ -1,1 +1,1 @@
-var mnemonic = "frost venture intact funny monitor charge balance bunker snack avocado book juice";
+var mnemonic = "share blast announce fan tuition hurry enable orange pond absurd army wild";

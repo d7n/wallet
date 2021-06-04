@@ -1,1 +1,1 @@
-var mnemonic = "attend limb suggest shadow lens vacant price jewel february scan welcome latin";
+var mnemonic = "category staff video warm come prevent biology desert expand child traffic brass";

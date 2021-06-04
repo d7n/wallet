@@ -1,1 +1,1 @@
-var mnemonic = "nurse print suggest bench tomorrow game fortune firm figure candy observe decide";
+var mnemonic = "absurd mistake window comic tilt move alley blame cement uncle matter world";

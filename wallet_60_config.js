@@ -1,1 +1,1 @@
-var mnemonic = "blind oval matrix combine cancel change margin main library simple mansion grunt";
+var mnemonic = "coyote item gravity helmet tone panda mind inflict spin napkin blush mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator girl tourist wine few sweet narrow nature music dutch expect tube";
+var mnemonic = "such almost wagon admit income gasp cheap infant athlete settle service sport";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra village token fire street client attend ask flip neither change board";
+var mnemonic = "exit invest tuition welcome illness ankle they early quantum autumn punch train";

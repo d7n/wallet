@@ -1,1 +1,1 @@
-var mnemonic = "glow unknown cargo degree ostrich caught drink unusual dry rebuild trade donate";
+var mnemonic = "swallow siren gather collect lab furnace path twin purchase castle author fitness";

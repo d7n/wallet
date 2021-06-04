@@ -1,1 +1,1 @@
-var mnemonic = "present way sketch cruel kite rib wire swing cake onion mystery verify";
+var mnemonic = "garage gas lab ripple sad about economy beef six jeans flee distance";

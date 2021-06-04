@@ -1,1 +1,1 @@
-var mnemonic = "mule jeans hotel hurdle repeat robot person saddle dirt wolf useless awesome";
+var mnemonic = "position hollow pudding one world solar educate pony marine divide basic rival";

@@ -1,1 +1,1 @@
-var mnemonic = "people between morning draw river captain morning charge input book gaze power";
+var mnemonic = "art sock alpha lucky spot iron install lift fancy theory income slab";

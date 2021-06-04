@@ -1,1 +1,1 @@
-var mnemonic = "army lock south saddle mixed invest phrase antenna wage tube adapt material";
+var mnemonic = "orchard neglect rifle guess turtle round flame crowd security raw hazard sugar";

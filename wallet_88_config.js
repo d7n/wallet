@@ -1,1 +1,1 @@
-var mnemonic = "wheel lyrics digital thank firm limit mouse actual planet media metal security";
+var mnemonic = "copper decide female gaze salute napkin farm chaos swarm table resist until";

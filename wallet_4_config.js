@@ -1,1 +1,1 @@
-var mnemonic = "inject refuse pluck hungry soup hole solution dinner emotion country buddy globe";
+var mnemonic = "bird stairs route grit voice other shield lady zoo walk multiply number";

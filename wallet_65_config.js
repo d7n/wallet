@@ -1,1 +1,1 @@
-var mnemonic = "gun ship buyer axis carry exotic melody predict guard turtle clay undo";
+var mnemonic = "exchange ticket spawn range record village honey chuckle swear pen window tape";

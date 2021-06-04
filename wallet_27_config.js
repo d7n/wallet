@@ -1,1 +1,1 @@
-var mnemonic = "resource orient master garage glass bar smooth hover strong blanket spare power";
+var mnemonic = "moon all hour sock slogan gas below dress fury cluster essence beauty";

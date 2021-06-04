@@ -1,1 +1,1 @@
-var mnemonic = "chuckle affair few shine number empty kick fiction melt tortoise kitchen whale";
+var mnemonic = "ankle depth mountain runway logic sadness long security rule height roast palace";
