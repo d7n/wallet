@@ -1,1 +1,1 @@
-var mnemonic = "neck bunker tenant exile twice buyer sudden melt word insane clog camera";
+var mnemonic = "receive where member brick frost double current then table sample evolve kangaroo";

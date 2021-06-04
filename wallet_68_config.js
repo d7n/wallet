@@ -1,1 +1,1 @@
-var mnemonic = "census era game elegant already ocean test submit enemy nuclear true transfer";
+var mnemonic = "coin rebel cheese bless convince latin marriage just tooth trial agree push";

@@ -1,1 +1,1 @@
-var mnemonic = "exile inmate churn frost soldier emerge easily slim ring armor permit smart";
+var mnemonic = "fan pencil scale steak gasp sunset swift donkey reduce certain slide plate";

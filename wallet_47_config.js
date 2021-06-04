@@ -1,1 +1,1 @@
-var mnemonic = "grow problem lady jaguar hockey vehicle ignore swap dentist custom interest stamp";
+var mnemonic = "shock welcome swear all horse spoil sausage faculty armor flip indicate disease";

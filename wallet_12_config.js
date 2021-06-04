@@ -1,1 +1,1 @@
-var mnemonic = "home shuffle habit message rely blush jungle balance polar cactus cannon glimpse";
+var mnemonic = "walnut essay sword brown leave safe crawl inflict absent dilemma parent assist";

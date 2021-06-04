@@ -1,1 +1,1 @@
-var mnemonic = "correct neither whale repair umbrella match because sail force toast bird flee";
+var mnemonic = "body hero manage eye hungry state reopen olive elegant either phrase ball";

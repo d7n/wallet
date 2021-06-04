@@ -1,1 +1,1 @@
-var mnemonic = "base word toilet cake good gain knock enough clock inner lounge pony";
+var mnemonic = "author enjoy antique zero urge view need trophy canal surge increase bird";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner evolve valid drive sleep regret adjust alert enable wage since inch";
+var mnemonic = "affair fish robust opera certain write muffin sad true envelope office place";

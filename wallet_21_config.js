@@ -1,1 +1,1 @@
-var mnemonic = "fire evoke convince prepare duck auction school load tongue frequent neglect shoe";
+var mnemonic = "fresh typical taste kidney gas thunder south bird together vital flower govern";

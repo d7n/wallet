@@ -1,1 +1,1 @@
-var mnemonic = "model evidence obscure region fossil transfer solid coach dutch trip excite win";
+var mnemonic = "conduct token meat shock depth arch immense can mass reopen key lucky";

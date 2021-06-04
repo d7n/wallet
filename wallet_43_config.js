@@ -1,1 +1,1 @@
-var mnemonic = "since panel fatigue fish ship onion make entry disorder fun buddy boost";
+var mnemonic = "mammal another lizard camp wisdom merge evidence faint pelican calm brush young";

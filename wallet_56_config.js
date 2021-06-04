@@ -1,1 +1,1 @@
-var mnemonic = "few minute palace maze ivory route find child clog dutch okay practice";
+var mnemonic = "cluster twice able escape garment female island true tired private orchard alone";

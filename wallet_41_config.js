@@ -1,1 +1,1 @@
-var mnemonic = "replace lion duty pattern consider guitar gadget wool aunt dust series fish";
+var mnemonic = "report finish tomorrow emotion negative frog area angry crouch possible earn raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "advance age spy salt sure manual inhale advance goat damage dirt gold";
+var mnemonic = "phrase diagram tip guide alpha style put burst hope dad gauge lunch";

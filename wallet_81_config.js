@@ -1,1 +1,1 @@
-var mnemonic = "shallow letter option middle level adjust stairs chuckle tunnel region dune ten";
+var mnemonic = "early inner advance apple romance destroy exhibit eye exchange account slot clean";

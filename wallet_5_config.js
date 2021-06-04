@@ -1,1 +1,1 @@
-var mnemonic = "blame pledge mule hidden column kite double kiwi vault dutch pistol draft";
+var mnemonic = "arrive submit property craft intact weather gym cup width disagree assault vibrant";

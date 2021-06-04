@@ -1,1 +1,1 @@
-var mnemonic = "vehicle gaze casual push waste torch strategy brief echo hold clock choice";
+var mnemonic = "shoe swift zoo able action tired sea sudden thank unusual style vanish";

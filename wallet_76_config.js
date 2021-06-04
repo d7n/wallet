@@ -1,1 +1,1 @@
-var mnemonic = "middle staff foam arrest plate runway increase balcony forest toe oak exhaust";
+var mnemonic = "buyer ship force whale hood bulb hair grief betray pilot roof silent";

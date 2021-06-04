@@ -1,1 +1,1 @@
-var mnemonic = "expose flush discover auction dilemma language future pass grab tape laptop switch";
+var mnemonic = "raven visa shock payment addict priority spirit liquid explain economy ride coil";

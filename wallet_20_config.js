@@ -1,1 +1,1 @@
-var mnemonic = "tooth strike quit acid lawn foster elevator earth deal ball bless forest";
+var mnemonic = "where van focus learn chef motor shoot cool certain mistake discover spot";

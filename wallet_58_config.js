@@ -1,1 +1,1 @@
-var mnemonic = "silk reject cactus razor top increase camera cotton object delay time helmet";
+var mnemonic = "renew spring orchard focus shrimp agree okay teach athlete evolve autumn foot";

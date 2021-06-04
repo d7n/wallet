@@ -1,1 +1,1 @@
-var mnemonic = "kiwi all almost jar wine stand arrange stool model must later burden";
+var mnemonic = "fruit boring attitude tape mind buddy stay live spider remind excess next";

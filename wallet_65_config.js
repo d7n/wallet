@@ -1,1 +1,1 @@
-var mnemonic = "double defense ocean essay age either that three slice across peanut process";
+var mnemonic = "crunch symbol best cotton spin squirrel isolate arch run today unlock any";

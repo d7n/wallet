@@ -1,1 +1,1 @@
-var mnemonic = "news slot toy trip movie weather alter bitter negative aisle frozen piece";
+var mnemonic = "vivid license bacon carry ensure illness prize account reduce split pave cannon";

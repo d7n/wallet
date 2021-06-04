@@ -1,1 +1,1 @@
-var mnemonic = "dose disease vessel will enjoy master siege initial plunge picnic anchor buyer";
+var mnemonic = "erosion dish uphold actor seven grain barely you gate avocado aunt physical";

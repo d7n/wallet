@@ -1,1 +1,1 @@
-var mnemonic = "tree treat hotel ignore mobile company thrive hospital agent wreck next raven";
+var mnemonic = "album layer seed excess indicate cancel paddle kitchen cool spread lonely aunt";

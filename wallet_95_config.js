@@ -1,1 +1,1 @@
-var mnemonic = "egg mushroom emerge truly bonus april jewel lizard absurd depth quantum senior";
+var mnemonic = "athlete garbage episode differ this trial insect surprise retire sentence dog crane";

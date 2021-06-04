@@ -1,1 +1,1 @@
-var mnemonic = "human option twenty emotion afford cradle bleak attack artefact scan sister alarm";
+var mnemonic = "lunar pipe rain jacket asthma dove twin corn capable ocean clip impact";

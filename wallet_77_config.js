@@ -1,1 +1,1 @@
-var mnemonic = "figure ripple cycle believe jacket rally siege excuse motor exile reward elite";
+var mnemonic = "thrive sort cinnamon marriage foster pipe swallow merge pause motor attack lake";

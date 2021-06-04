@@ -1,1 +1,1 @@
-var mnemonic = "creek lawn mixed cement wreck organ crater smile head taxi sell prepare";
+var mnemonic = "poverty list magic estate panda switch bid pair cry super casual crouch";

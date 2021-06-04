@@ -1,1 +1,1 @@
-var mnemonic = "indicate orange birth orient know reject corn upper supply again hip country";
+var mnemonic = "tent eternal render coast bamboo enforce oyster mule describe pattern submit door";

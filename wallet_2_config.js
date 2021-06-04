@@ -1,1 +1,1 @@
-var mnemonic = "suit athlete wall gaze garage muscle love wasp eight lab labor oyster";
+var mnemonic = "choose soul board search top lumber notable fantasy bird argue chronic spring";

@@ -1,1 +1,1 @@
-var mnemonic = "joy exact abandon thunder top tomorrow warfare people canvas chief aunt strong";
+var mnemonic = "melt steak collect school picture dumb minor ridge matrix embark antique mask";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate project hole stock midnight crystal else loop fun ocean make sound";
+var mnemonic = "narrow tired soda lucky endless evil amused sample crop exist drum mail";

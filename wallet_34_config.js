@@ -1,1 +1,1 @@
-var mnemonic = "age jaguar round assist lawn outside broccoli fog pudding raise glove bargain";
+var mnemonic = "middle mistake simple call glimpse focus tenant success decline betray lawn fox";

@@ -1,1 +1,1 @@
-var mnemonic = "small venture camera garlic swap blind pudding equip taste hazard evolve profit";
+var mnemonic = "any mobile category inform pear rough trend team become coin render burst";

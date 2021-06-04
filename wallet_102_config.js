@@ -1,1 +1,1 @@
-var mnemonic = "flower mask damp large push misery box visual medal night giggle robust";
+var mnemonic = "evidence power stuff caution metal lonely marble then trick issue exile trend";

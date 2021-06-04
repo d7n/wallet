@@ -1,1 +1,1 @@
-var mnemonic = "robust denial hazard rib garden old estate father delay radar dice axis";
+var mnemonic = "below plug ahead someone transfer era glue almost equip quote brush slab";

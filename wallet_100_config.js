@@ -1,1 +1,1 @@
-var mnemonic = "kitten husband gift reduce chalk detect floor limb soul trade bunker other";
+var mnemonic = "firm coach submit chronic moon cable media judge bonus congress young neglect";

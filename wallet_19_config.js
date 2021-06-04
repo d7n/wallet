@@ -1,1 +1,1 @@
-var mnemonic = "child have already cliff leisure ahead reform option into juice gesture appear";
+var mnemonic = "list mosquito devote world mouse make manual ticket smooth anxiety spirit tortoise";

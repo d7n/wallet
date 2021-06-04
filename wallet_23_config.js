@@ -1,1 +1,1 @@
-var mnemonic = "chief picnic book master announce rail maid process confirm uncover rather infant";
+var mnemonic = "group shock announce illegal effort copper scan suffer finger dove stuff bulb";

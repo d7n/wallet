@@ -1,1 +1,1 @@
-var mnemonic = "wrap priority beach example midnight weather tobacco include wine edge before table";
+var mnemonic = "zebra unaware buffalo small foam popular fee such word long canal pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel awkward common tragic bounce project usage apology column region ill zone";
+var mnemonic = "unhappy truly ring unveil banner kit deputy daughter comic crime insane gorilla";

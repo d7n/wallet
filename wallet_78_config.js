@@ -1,1 +1,1 @@
-var mnemonic = "mail casual remain purity victory voice arrest multiply various thank key about";
+var mnemonic = "thought worth dutch museum aunt dance kit version again coyote shield electric";

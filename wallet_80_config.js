@@ -1,1 +1,1 @@
-var mnemonic = "guilt shuffle asthma stadium end bid feel place bachelor buyer october solve";
+var mnemonic = "voice topple close entry doll near private cream energy toss knife trend";

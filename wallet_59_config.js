@@ -1,1 +1,1 @@
-var mnemonic = "select couple neutral mixed snake industry river artwork ensure oblige only fan";
+var mnemonic = "belt fine build grunt nasty afraid twist possible ability useful absurd achieve";

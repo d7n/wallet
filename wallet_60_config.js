@@ -1,1 +1,1 @@
-var mnemonic = "gauge pill move egg giggle solve lizard knife purpose melt neglect two";
+var mnemonic = "hollow verify orange camp escape brief off visa can crime board nice";

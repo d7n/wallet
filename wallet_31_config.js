@@ -1,1 +1,1 @@
-var mnemonic = "undo sponsor lesson pole income screen bullet trip anchor toward edge advance";
+var mnemonic = "material rain hospital simple game motor reward always weasel pond square topple";

@@ -1,1 +1,1 @@
-var mnemonic = "omit grow helmet choose any spell company humor spike basket sing debris";
+var mnemonic = "tail toilet rack dinner group magnet trophy fork stairs ill parent cargo";

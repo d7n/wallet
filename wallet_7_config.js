@@ -1,1 +1,1 @@
-var mnemonic = "ability polar indoor over search toward picture oyster jar strike gauge gym";
+var mnemonic = "scan version timber put mountain argue ramp length pipe glimpse unusual guess";

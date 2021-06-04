@@ -1,1 +1,1 @@
-var mnemonic = "immense panic text staff hero manage exist infant theme example entry stem";
+var mnemonic = "wagon dutch square market arena copy crew casino syrup good fox pigeon";

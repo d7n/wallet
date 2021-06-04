@@ -1,1 +1,1 @@
-var mnemonic = "used spread pulp elite happy ketchup piece auto rent enroll upon alert";
+var mnemonic = "silver around rally recall cute bless urge river field assume jaguar absorb";

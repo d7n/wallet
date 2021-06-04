@@ -1,1 +1,1 @@
-var mnemonic = "travel nation return video joy jewel shine turtle jaguar motion bitter mouse";
+var mnemonic = "stem pave eagle hill category alley coyote pond clerk when insect decorate";

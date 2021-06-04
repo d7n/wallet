@@ -1,1 +1,1 @@
-var mnemonic = "survey eyebrow picture express agent energy exclude fortune coyote rate inhale stool";
+var mnemonic = "number civil soul bunker vessel course success over ticket response sudden hockey";

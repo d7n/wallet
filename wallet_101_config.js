@@ -1,1 +1,1 @@
-var mnemonic = "secret winter interest oven sort alarm vessel mail magnet casual napkin test";
+var mnemonic = "wire diary habit bacon tiny finish there current apple drop life heart";

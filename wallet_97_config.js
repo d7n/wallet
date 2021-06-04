@@ -1,1 +1,1 @@
-var mnemonic = "board domain olympic unlock envelope energy family praise horror spray choose festival";
+var mnemonic = "water torch december book twenty orient plate rescue source thunder brisk upset";

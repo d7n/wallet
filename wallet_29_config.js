@@ -1,1 +1,1 @@
-var mnemonic = "midnight auto valley fringe morning license tumble learn issue glimpse novel easily";
+var mnemonic = "mountain bean during banner until alley whale alley loyal able party labor";

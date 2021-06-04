@@ -1,1 +1,1 @@
-var mnemonic = "bamboo walnut stool discover matter broom slide torch hold fatigue club portion";
+var mnemonic = "taste slow negative film chaos shop appear bring loyal recipe say gravity";

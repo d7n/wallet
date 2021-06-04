@@ -1,1 +1,1 @@
-var mnemonic = "donate tennis kiwi trash nuclear old kit market flock danger nation lawsuit";
+var mnemonic = "swarm habit awake negative average hawk list aerobic sleep bus method shell";

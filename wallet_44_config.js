@@ -1,1 +1,1 @@
-var mnemonic = "reveal just spy praise angle theme window harvest cage improve horse illegal";
+var mnemonic = "enemy program normal zebra ghost action spot excuse wave again put vague";

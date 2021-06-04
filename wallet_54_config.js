@@ -1,1 +1,1 @@
-var mnemonic = "rapid seat acquire speed donkey tongue tube garlic avoid prefer meat wood";
+var mnemonic = "blast village empower collect nothing symptom toss clown eagle panther surprise cause";

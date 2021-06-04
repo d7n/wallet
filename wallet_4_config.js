@@ -1,1 +1,1 @@
-var mnemonic = "napkin circle glare forest high link ramp rule retire urban about main";
+var mnemonic = "cereal devote rescue fade night more fold label monitor cube place file";

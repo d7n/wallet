@@ -1,1 +1,1 @@
-var mnemonic = "team across cupboard pulse search alone update explain roast reveal enough scene";
+var mnemonic = "equip equip disease frozen cargo kiwi urge alert vivid hurry siege finger";

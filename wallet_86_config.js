@@ -1,1 +1,1 @@
-var mnemonic = "dutch major soldier devote usage finger curtain sustain castle assist chef stumble";
+var mnemonic = "city prize drift layer human define era wool holiday rose cave sting";

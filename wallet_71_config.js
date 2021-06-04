@@ -1,1 +1,1 @@
-var mnemonic = "number vanish drift often mansion water dose spirit magnet lift carbon inmate";
+var mnemonic = "round dizzy can leaf obscure consider act girl topple orange endorse holiday";

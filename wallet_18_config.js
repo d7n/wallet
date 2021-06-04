@@ -1,1 +1,1 @@
-var mnemonic = "matter modify require zoo drink nothing essay bacon genuine stamp wife meat";
+var mnemonic = "borrow calm absorb subject liquid decide riot urge demise rack differ sibling";

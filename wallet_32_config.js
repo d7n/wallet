@@ -1,1 +1,1 @@
-var mnemonic = "crane detail feature alpha guitar under model ankle cradle street theme track";
+var mnemonic = "dish ability repair tell between initial obvious clerk dragon toward before permit";

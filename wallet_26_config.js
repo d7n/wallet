@@ -1,1 +1,1 @@
-var mnemonic = "tape now aunt impact mercy lemon spell similar pear hurry charge number";
+var mnemonic = "square clap unknown visit match common minute coil one fragile ten month";

@@ -1,1 +1,1 @@
-var mnemonic = "child critic sample design year share act head photo coffee loan actor";
+var mnemonic = "innocent time cave weird multiply island early potato switch adjust lens envelope";

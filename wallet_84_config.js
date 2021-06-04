@@ -1,1 +1,1 @@
-var mnemonic = "snake bonus stage settle guide reform hat fruit coil table off wrong";
+var mnemonic = "myth turn inner switch whisper room cause huge valve quarter dumb also";

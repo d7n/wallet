@@ -1,1 +1,1 @@
-var mnemonic = "size audit venue scare shove excite wonder electric soup merit fit toddler";
+var mnemonic = "critic addict bus disagree execute invite remove young panther blanket cross banner";

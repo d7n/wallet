@@ -1,1 +1,1 @@
-var mnemonic = "accident rose bullet throw caught degree neutral upper pelican change logic pluck";
+var mnemonic = "relax kid metal reform slam among duty tank leopard onion one trumpet";

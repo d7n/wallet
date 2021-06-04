@@ -1,1 +1,1 @@
-var mnemonic = "better exit attend sketch okay chuckle goddess agent before close rent lonely";
+var mnemonic = "frost catch pond same expose job diesel lottery staff car song half";

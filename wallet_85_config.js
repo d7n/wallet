@@ -1,1 +1,1 @@
-var mnemonic = "wife supply quote mail arm session rail nephew federal utility welcome runway";
+var mnemonic = "virus wet exchange panic major segment trophy behind remove click around tiger";

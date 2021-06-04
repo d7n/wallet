@@ -1,1 +1,1 @@
-var mnemonic = "sugar find estate pact grab enforce drastic fresh ordinary pupil orange chunk";
+var mnemonic = "observe jungle canoe skull jump friend attend typical west account ready post";

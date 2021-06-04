@@ -1,1 +1,1 @@
-var mnemonic = "response exhibit control lake honey diamond beauty bulk razor infant artefact sure";
+var mnemonic = "alley hen fluid scatter steak lend humble joke live series tone mixed";

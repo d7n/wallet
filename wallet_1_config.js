@@ -1,1 +1,1 @@
-var mnemonic = "truly poet tuition slice diet strategy design engage belt tube list help";
+var mnemonic = "trust thought pistol front aerobic symbol nothing input judge field sail sea";

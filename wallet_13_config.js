@@ -1,1 +1,1 @@
-var mnemonic = "above dismiss unfair derive road melt glory shop mansion poet over room";
+var mnemonic = "dutch corn echo harsh spoil assist cheap smoke narrow limit winner proof";

@@ -1,1 +1,1 @@
-var mnemonic = "brand judge object august keep wedding subject trial sadness drill left drop";
+var mnemonic = "timber dash bonus rally tattoo hurt skin hamster review key traffic depart";

@@ -1,1 +1,1 @@
-var mnemonic = "bind law hat turn tuna polar crane glimpse example naive garbage rack";
+var mnemonic = "another course walk dilemma math ahead random electric aisle blanket observe layer";

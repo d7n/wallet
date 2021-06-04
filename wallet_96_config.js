@@ -1,1 +1,1 @@
-var mnemonic = "pool motion waste rug laugh clay detail glare neck palace make vacant";
+var mnemonic = "call arm loyal echo belt staff funny case rate member meat fog";

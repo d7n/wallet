@@ -1,1 +1,1 @@
-var mnemonic = "cushion angry picture season reflect extra sunny chunk velvet close media shallow";
+var mnemonic = "size absurd tissue craft begin blood rebuild twice scheme offer stumble lawn";

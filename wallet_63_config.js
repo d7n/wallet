@@ -1,1 +1,1 @@
-var mnemonic = "lunar write lion select hollow spike execute shell morning pill tone list";
+var mnemonic = "crash effort nothing era garment truck crisp host dry hen man off";

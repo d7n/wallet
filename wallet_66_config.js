@@ -1,1 +1,1 @@
-var mnemonic = "giant weapon recipe category order toy unhappy chief spell pink supreme offer";
+var mnemonic = "tilt tent pudding midnight slot gold female entire horror famous toward someone";

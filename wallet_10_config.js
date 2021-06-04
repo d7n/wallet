@@ -1,1 +1,1 @@
-var mnemonic = "reject pride scare submit couch broccoli symbol renew length doll cream avocado";
+var mnemonic = "rely uphold all top scrub similar genuine rough gospel decade stool journey";

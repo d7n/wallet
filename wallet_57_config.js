@@ -1,1 +1,1 @@
-var mnemonic = "garbage when curtain visa hawk seed mother main tape build mean best";
+var mnemonic = "federal pumpkin tomato error fortune blind anxiety album this couple okay town";

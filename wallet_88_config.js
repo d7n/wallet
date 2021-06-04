@@ -1,1 +1,1 @@
-var mnemonic = "top favorite survey cheap soldier response party size seven risk lyrics square";
+var mnemonic = "inner trip pave much venture human quarter cage sorry song limit mango";

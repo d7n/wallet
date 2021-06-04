@@ -1,1 +1,1 @@
-var mnemonic = "opinion general kiwi auction jacket gold usual funny connect wealth speak news";
+var mnemonic = "scene mad saddle issue together across pattern still first bitter assault behave";

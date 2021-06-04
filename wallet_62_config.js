@@ -1,1 +1,1 @@
-var mnemonic = "health vessel whip chief fuel genuine amazing multiply fat ocean palm elbow";
+var mnemonic = "unit swing dentist crowd wet adult unique mimic dumb syrup august fold";

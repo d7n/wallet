@@ -1,1 +1,1 @@
-var mnemonic = "tunnel already path galaxy ship code urge anger century winner dynamic vast";
+var mnemonic = "eye usage keen sister cost kick plug scene romance retreat woman grief";
