@@ -1,1 +1,1 @@
-var mnemonic = "cage typical slot tenant dynamic merge meat shrug park taste auto swift";
+var mnemonic = "nature salt much zone render lumber team drum toilet athlete business segment";

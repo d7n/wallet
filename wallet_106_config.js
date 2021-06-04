@@ -1,1 +1,1 @@
-var mnemonic = "cost radar explain inside body chase rhythm thought discover food mesh syrup";
+var mnemonic = "quarter check drum blossom stairs turn provide gun layer another please zebra";

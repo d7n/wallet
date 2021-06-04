@@ -1,1 +1,1 @@
-var mnemonic = "foster inside knee account trial action nice ensure abandon chef provide muscle";
+var mnemonic = "swamp salmon shoe ridge shadow fiber win simple around special sweet six";

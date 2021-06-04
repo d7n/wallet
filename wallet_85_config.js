@@ -1,1 +1,1 @@
-var mnemonic = "pitch dynamic else language train later trigger empower grit roast smart various";
+var mnemonic = "slot summer grab badge talent syrup imitate noodle match snake unfair flavor";

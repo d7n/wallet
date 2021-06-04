@@ -1,1 +1,1 @@
-var mnemonic = "speed dash alcohol tone light series oppose they bless token ritual emotion";
+var mnemonic = "feature buyer screen limb toast possible timber trial next regular try actual";

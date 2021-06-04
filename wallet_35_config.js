@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rookie various input marble priority lonely motor dust napkin humor claw";
+var mnemonic = "october wave quit unhappy extend record minute visa open entry spin orphan";

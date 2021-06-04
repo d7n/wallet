@@ -1,1 +1,1 @@
-var mnemonic = "wash boost treat shrug unique usage metal bless whale bench fabric minimum";
+var mnemonic = "scheme recipe charge guess mosquito card when possible merge pepper van between";

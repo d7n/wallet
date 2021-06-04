@@ -1,1 +1,1 @@
-var mnemonic = "table alert daring sphere buddy myself hammer festival elevator supreme desk theme";
+var mnemonic = "donate lesson upon rifle average fancy number broom web lava chicken collect";

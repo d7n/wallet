@@ -1,1 +1,1 @@
-var mnemonic = "double shine swap select prevent mix century term small safe today where";
+var mnemonic = "fortune embark young absent thunder marine youth door must float valley change";

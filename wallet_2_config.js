@@ -1,1 +1,1 @@
-var mnemonic = "envelope chair piano claw glimpse autumn wink reunion stem unfair miracle hand";
+var mnemonic = "nasty twin sphere sun cream hockey satoshi random fork ghost narrow rocket";

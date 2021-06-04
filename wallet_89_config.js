@@ -1,1 +1,1 @@
-var mnemonic = "student infant ahead tired silk perfect poet breeze inflict bamboo walk tissue";
+var mnemonic = "squirrel snack burst easily busy slam armed picture flight thunder spawn fan";

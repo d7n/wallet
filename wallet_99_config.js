@@ -1,1 +1,1 @@
-var mnemonic = "arrive shuffle tragic fashion moral meadow demise menu violin expect picnic shell";
+var mnemonic = "stable stove lend elder walk label blue board badge love dragon consider";

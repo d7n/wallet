@@ -1,1 +1,1 @@
-var mnemonic = "diesel end indoor material whale taste deer indoor fresh absorb kiss gun";
+var mnemonic = "lunar security save fever skate grab oblige caught raw candy illegal expand";

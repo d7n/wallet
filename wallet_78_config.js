@@ -1,1 +1,1 @@
-var mnemonic = "art author juice poem exclude blue skin custom pair guilt crouch pioneer";
+var mnemonic = "razor stay toward impulse quarter connect praise else educate urge session milk";

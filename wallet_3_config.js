@@ -1,1 +1,1 @@
-var mnemonic = "maple powder layer rice behave festival rifle envelope olive language cabin invest";
+var mnemonic = "sort truck uniform pole relief gym culture wisdom version clay similar maid";

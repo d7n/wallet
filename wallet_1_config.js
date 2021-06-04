@@ -1,1 +1,1 @@
-var mnemonic = "cup moon move bulb fork stereo more inflict someone sauce awesome budget";
+var mnemonic = "afraid letter still afford type step ski citizen upper apart brass special";

@@ -1,1 +1,1 @@
-var mnemonic = "wild just curtain gift thumb cheap usage crowd ladder palm section accident";
+var mnemonic = "talk panther faint turtle system skin balcony typical tongue during bus noble";

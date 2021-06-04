@@ -1,1 +1,1 @@
-var mnemonic = "whale useful client brother credit tone pupil wave wine coral tray asset";
+var mnemonic = "dinosaur monkey demise bag motion pave speak alert eternal parrot gap gift";

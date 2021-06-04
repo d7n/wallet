@@ -1,1 +1,1 @@
-var mnemonic = "wagon boy clerk rich unit clever conduct squirrel judge chef winner fold";
+var mnemonic = "faint awful eye bounce kick vocal tragic round fiber assault board ready";

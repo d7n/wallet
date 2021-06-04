@@ -1,1 +1,1 @@
-var mnemonic = "butter meat clog ritual burst flash river upon unknown either tunnel baby";
+var mnemonic = "armor model grow color squeeze shock palace client home obvious relax mobile";

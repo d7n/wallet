@@ -1,1 +1,1 @@
-var mnemonic = "road bring mandate end find clever apart share voyage friend unique error";
+var mnemonic = "waste blur invest normal warfare cricket index cube service boy prepare piece";

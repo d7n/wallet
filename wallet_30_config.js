@@ -1,1 +1,1 @@
-var mnemonic = "that dinner exist urge enhance ostrich present ostrich palm heart layer ice";
+var mnemonic = "trial youth task busy kit resist divorce ocean pair dress crack pause";

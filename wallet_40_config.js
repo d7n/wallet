@@ -1,1 +1,1 @@
-var mnemonic = "until hawk vacant nuclear swamp grow yellow lecture stock hen harsh they";
+var mnemonic = "smooth sniff thrive swing error mammal source shine choice laundry give stone";

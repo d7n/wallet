@@ -1,1 +1,1 @@
-var mnemonic = "animal rural change sugar injury quiz common galaxy tilt endorse life apart";
+var mnemonic = "cable exhaust warfare gorilla crunch cable venture visa love shove riot hand";

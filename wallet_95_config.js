@@ -1,1 +1,1 @@
-var mnemonic = "random wage angle reveal castle enlist pipe gap correct birth anchor critic";
+var mnemonic = "legend innocent pig armor open hip fossil buffalo cheese switch rack machine";

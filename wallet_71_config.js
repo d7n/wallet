@@ -1,1 +1,1 @@
-var mnemonic = "target blade enrich pulp great slow black explain cross brass alone chef";
+var mnemonic = "science draw negative just mind tell globe steel bone infant choose wheel";

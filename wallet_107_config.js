@@ -1,1 +1,1 @@
-var mnemonic = "project appear spot devote pact ribbon reveal above upper avoid sea faith";
+var mnemonic = "often pony window hold canvas capable mystery shadow priority kit notable torch";

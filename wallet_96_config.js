@@ -1,1 +1,1 @@
-var mnemonic = "visa off foot laundry genre depth relief sadness accident couch outside excess";
+var mnemonic = "junior bid educate parrot surround kind garage item mammal derive already scorpion";

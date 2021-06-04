@@ -1,1 +1,1 @@
-var mnemonic = "dog gesture caution bicycle evil film route tuition doll mask cream erode";
+var mnemonic = "chair bonus unknown slide alley blanket drill spin cattle umbrella two tobacco";

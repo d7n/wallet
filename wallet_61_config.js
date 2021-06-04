@@ -1,1 +1,1 @@
-var mnemonic = "path popular public cost social husband scissors jewel parent apple spot rocket";
+var mnemonic = "prepare truck social tip twice curtain symptom mechanic hawk visa sand balance";

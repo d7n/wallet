@@ -1,1 +1,1 @@
-var mnemonic = "dust credit parent satisfy book valley genuine canyon work tortoise target stage";
+var mnemonic = "track account reward border ladder rare problem ordinary hole hover tooth nut";

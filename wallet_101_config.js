@@ -1,1 +1,1 @@
-var mnemonic = "very false lunar author spread plunge bottom other train execute blossom fold";
+var mnemonic = "congress cradle consider rack where into hour glide piano pumpkin comfort budget";

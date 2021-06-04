@@ -1,1 +1,1 @@
-var mnemonic = "orient gap slogan custom example dwarf opera liar inside december cage episode";
+var mnemonic = "text erode chase credit supreme benefit slush lady notable embark axis system";

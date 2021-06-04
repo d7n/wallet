@@ -1,1 +1,1 @@
-var mnemonic = "core stone hen zone ribbon pumpkin goose kit laptop sleep clock grass";
+var mnemonic = "scissors paper grab vessel favorite abandon three salon arch top bike scout";

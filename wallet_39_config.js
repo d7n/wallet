@@ -1,1 +1,1 @@
-var mnemonic = "december attract near develop limit boost dynamic shell jungle grab egg around";
+var mnemonic = "ozone else kit dose bomb tonight memory talent gravity slush swarm theme";

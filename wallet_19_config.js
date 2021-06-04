@@ -1,1 +1,1 @@
-var mnemonic = "try emerge west near involve plastic avoid disease endorse bleak tortoise rent";
+var mnemonic = "salt garage bid table include assault put space blush alpha solve rely";

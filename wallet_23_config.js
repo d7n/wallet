@@ -1,1 +1,1 @@
-var mnemonic = "neutral announce brain jewel across settle regret initial fox divorce surge mass";
+var mnemonic = "fresh pause arctic pelican faint language power diet water grunt guide truth";

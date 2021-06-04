@@ -1,1 +1,1 @@
-var mnemonic = "gold reform hybrid embrace outside syrup zoo renew unable media legend hip";
+var mnemonic = "year bitter power heavy sell opinion region frog sausage quarter liquid husband";

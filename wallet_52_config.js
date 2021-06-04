@@ -1,1 +1,1 @@
-var mnemonic = "nurse rather bridge develop abuse gorilla orange pave easy mention jazz steak";
+var mnemonic = "curious half text opinion kick goose humor wreck urge genuine riot image";

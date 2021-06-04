@@ -1,1 +1,1 @@
-var mnemonic = "gesture impact hint describe drift merit horror success weasel order soul lady";
+var mnemonic = "tuna rebel govern index shiver legal muffin state rose scorpion fun stove";

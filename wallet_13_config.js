@@ -1,1 +1,1 @@
-var mnemonic = "pen manage save property discover imitate sphere sail shaft casual board evil";
+var mnemonic = "region paper pigeon process attend hat sleep weapon police cluster drip salute";

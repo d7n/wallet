@@ -1,1 +1,1 @@
-var mnemonic = "earth outer toward diamond theory glue margin skirt moment dog tape chapter";
+var mnemonic = "lumber charge only social twice teach picture fatigue head sudden month ski";

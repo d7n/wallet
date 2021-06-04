@@ -1,1 +1,1 @@
-var mnemonic = "cereal bicycle expect fork parent time post blouse roof grocery dance news";
+var mnemonic = "setup cause regular security siren use diary barely mushroom coach mistake tissue";

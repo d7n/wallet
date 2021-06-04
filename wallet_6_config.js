@@ -1,1 +1,1 @@
-var mnemonic = "potato empty enrich student lemon breeze trouble same coil issue general maze";
+var mnemonic = "add ship forward tennis prison slam silk lunar flee quote slow turkey";

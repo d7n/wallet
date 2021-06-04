@@ -1,1 +1,1 @@
-var mnemonic = "meadow plunge thank basket arctic fiction narrow double jealous saddle elder skin";
+var mnemonic = "hat total smooth fire grant myth short math satisfy return guess foam";

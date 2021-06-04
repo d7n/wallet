@@ -1,1 +1,1 @@
-var mnemonic = "offer claw smoke industry few spike garden oxygen brother lens belt upset";
+var mnemonic = "right ill auction poet deal original ritual settle together blast aunt credit";

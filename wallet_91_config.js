@@ -1,1 +1,1 @@
-var mnemonic = "ceiling insect lift settle rose undo pink naive seed talent love armed";
+var mnemonic = "soul manage tonight dizzy strategy joy aerobic soft transfer mixed secret busy";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger element egg output truly laundry ability ship oyster tomorrow certain fall";
+var mnemonic = "fan economy million response palm arch dentist tag drill pencil buddy skirt";

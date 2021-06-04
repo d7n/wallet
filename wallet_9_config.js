@@ -1,1 +1,1 @@
-var mnemonic = "gorilla thunder drill emotion motion version wear profit antique rival group drop";
+var mnemonic = "purchase cage pyramid occur mobile this property various sample frost pupil explain";

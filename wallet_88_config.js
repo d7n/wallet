@@ -1,1 +1,1 @@
-var mnemonic = "favorite cloud hobby draft nut miracle give scissors flower vivid walk goose";
+var mnemonic = "web frequent risk fuel liberty work huge awkward kitten script bomb broccoli";

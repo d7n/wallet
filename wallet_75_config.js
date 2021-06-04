@@ -1,1 +1,1 @@
-var mnemonic = "length general mass winter high course choice broccoli wear actual spice suit";
+var mnemonic = "trust deputy quality oak category crew program rail parrot pill track remove";

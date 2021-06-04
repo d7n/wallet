@@ -1,1 +1,1 @@
-var mnemonic = "become tone inside humble hockey member motor ordinary father hen remain easily";
+var mnemonic = "visual horse recycle churn dawn sheriff term famous any chalk execute garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "intact exhaust where isolate blind mask certain angle panther slam smart congress";
+var mnemonic = "mesh opera attend audit tomorrow category aerobic dust neither crane seminar narrow";

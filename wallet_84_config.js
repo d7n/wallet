@@ -1,1 +1,1 @@
-var mnemonic = "noodle dial unhappy pact flame adapt gossip squeeze magnet renew accident choose";
+var mnemonic = "salon boil force soap general pair inner claim kidney during black divide";

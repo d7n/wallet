@@ -1,1 +1,1 @@
-var mnemonic = "truth exit range sand science best flip genre regret couple sister update";
+var mnemonic = "perfect shaft obtain upgrade element youth rule punch blossom hello sausage journey";

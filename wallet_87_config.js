@@ -1,1 +1,1 @@
-var mnemonic = "egg unveil check taste bean winter tomorrow shoe neutral setup sea amateur";
+var mnemonic = "pulse hungry marriage length possible change praise impulse april coyote neck interest";

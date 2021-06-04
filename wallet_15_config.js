@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mind attitude desert dragon fence sun soldier blossom radio trophy capable";
+var mnemonic = "basket cradle worth fly sudden glory beauty aerobic antenna hood pool connect";

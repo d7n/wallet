@@ -1,1 +1,1 @@
-var mnemonic = "tide patrol announce jewel bundle general adult vocal real sword slab shrimp";
+var mnemonic = "spin hawk squirrel flight enable valley cave lyrics shield act fancy actress";

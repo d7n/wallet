@@ -1,1 +1,1 @@
-var mnemonic = "you oxygen agent baby wish prepare entire grab summer ostrich index vapor";
+var mnemonic = "crater vintage crime problem fresh erode sudden december online valley feature shed";

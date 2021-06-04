@@ -1,1 +1,1 @@
-var mnemonic = "anchor orphan tennis purpose fish tumble strong silent grape can seven issue";
+var mnemonic = "build issue omit model prepare icon rain fringe alien hockey narrow laugh";

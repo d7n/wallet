@@ -1,1 +1,1 @@
-var mnemonic = "appear wish model catch example stove oval garage major labor excite liquid";
+var mnemonic = "method target crumble spirit say actor potato gas attend bamboo funny pull";

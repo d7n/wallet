@@ -1,1 +1,1 @@
-var mnemonic = "inform promote tattoo patrol worth forest social narrow range mistake analyst when";
+var mnemonic = "current session edge until click family attitude thumb theory coyote step invest";

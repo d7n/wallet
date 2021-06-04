@@ -1,1 +1,1 @@
-var mnemonic = "globe blouse unlock split radar eagle marriage exotic attitude where damp soft";
+var mnemonic = "tomato absent cancel piece situate uniform struggle thunder slender blur draw code";

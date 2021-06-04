@@ -1,1 +1,1 @@
-var mnemonic = "document spice mouse urban loud copper shed erode culture mix claim stand";
+var mnemonic = "unfold rebuild country ship rookie garden place grit hello grab legend desk";

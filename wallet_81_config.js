@@ -1,1 +1,1 @@
-var mnemonic = "picture ordinary chest tray bitter surround mosquito between cargo state glide timber";
+var mnemonic = "index clog eager enjoy orange gaze delay fabric car fuel head pencil";

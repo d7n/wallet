@@ -1,1 +1,1 @@
-var mnemonic = "reject visa candy only cage mystery burst pause fan enroll gauge lonely";
+var mnemonic = "rib chat spring deputy budget december pony much minimum bench logic cinnamon";

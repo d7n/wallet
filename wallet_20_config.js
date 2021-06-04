@@ -1,1 +1,1 @@
-var mnemonic = "transfer devote aware poem debris blood imitate route music silver animal square";
+var mnemonic = "ice heart caution radio ethics police rough erosion shift review caught orient";

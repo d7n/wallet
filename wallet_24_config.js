@@ -1,1 +1,1 @@
-var mnemonic = "phone jeans ketchup memory border tongue weasel long sun sister pear deal";
+var mnemonic = "cinnamon scatter divert rally matrix sock depart hunt palm lemon above away";

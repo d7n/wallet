@@ -1,1 +1,1 @@
-var mnemonic = "win park toss engine split paddle execute moon vote reason century turn";
+var mnemonic = "program brass program butter wrestle brisk category ginger relax liar able often";

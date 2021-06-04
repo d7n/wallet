@@ -1,1 +1,1 @@
-var mnemonic = "rather pause fiscal myself acoustic echo amount alter wool fantasy awesome idea";
+var mnemonic = "club weird chef bid boost gaze argue hobby royal truly blouse vote";

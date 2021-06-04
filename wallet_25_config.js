@@ -1,1 +1,1 @@
-var mnemonic = "drip gorilla october cook much dice truck live dawn school sweet laptop";
+var mnemonic = "spoil verify olive all enjoy vacuum spoon shoulder measure safe rally nothing";

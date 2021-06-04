@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pig fade enrich swim rail quit spin canal inspire meadow develop";
+var mnemonic = "leopard index same object spare price planet hip hundred occur clump wide";

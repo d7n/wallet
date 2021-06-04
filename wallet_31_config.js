@@ -1,1 +1,1 @@
-var mnemonic = "reduce own unlock remember reward transfer divert tone decline gloom injury expect";
+var mnemonic = "dilemma garden fork shock nature cruise love loud simple cable mimic history";

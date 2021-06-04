@@ -1,1 +1,1 @@
-var mnemonic = "quick unaware cruel people burden lunar purity spirit pulse hair visual ocean";
+var mnemonic = "dumb federal cluster write sting vague spike solution float survey soldier purity";

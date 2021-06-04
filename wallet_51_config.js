@@ -1,1 +1,1 @@
-var mnemonic = "category breeze return census jump pumpkin tomato coral skirt embody pizza chapter";
+var mnemonic = "island roast number defy vanish robot arctic garbage burst faculty wash vocal";

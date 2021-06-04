@@ -1,1 +1,1 @@
-var mnemonic = "scare forum finger olive flower exhaust cushion vapor obscure motor lamp fantasy";
+var mnemonic = "execute kitten resource baby match inmate globe rice knock wrong draft enable";

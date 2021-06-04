@@ -1,1 +1,1 @@
-var mnemonic = "awesome menu arena dinner fee similar humor grief soon cause despair deposit";
+var mnemonic = "electric dragon cart arch tired pull security until effort valid hill rookie";

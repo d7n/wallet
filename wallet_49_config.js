@@ -1,1 +1,1 @@
-var mnemonic = "series coral raccoon guilt pizza benefit fork autumn hazard road habit teach";
+var mnemonic = "evolve crush service mind rose copy vanish utility cram prize catalog crucial";

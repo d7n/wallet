@@ -1,1 +1,1 @@
-var mnemonic = "curious walnut media swift dial legend minute false isolate question armor rice";
+var mnemonic = "film join pave boost lawsuit dial dwarf any tool sing capable dentist";

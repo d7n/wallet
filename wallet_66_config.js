@@ -1,1 +1,1 @@
-var mnemonic = "bird device task divide company beyond wife permit nose embody response bless";
+var mnemonic = "weasel eyebrow rule stumble rough shrimp anxiety aunt left rotate rally raccoon";

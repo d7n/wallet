@@ -1,1 +1,1 @@
-var mnemonic = "want satoshi budget document receive process history will cherry mosquito laundry produce";
+var mnemonic = "symptom enter gossip offer uphold company open recycle unit puppy resemble surprise";

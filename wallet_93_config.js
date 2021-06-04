@@ -1,1 +1,1 @@
-var mnemonic = "wool phrase jazz suspect feel goddess ostrich giraffe vessel lecture master gun";
+var mnemonic = "future evoke crystal mixture clerk rocket slogan swim immense purity ice black";

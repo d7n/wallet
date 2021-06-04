@@ -1,1 +1,1 @@
-var mnemonic = "toss normal brass indicate acid blind jump arm identify always relief injury";
+var mnemonic = "dumb afraid gravity victory museum country above confirm balcony column veteran wide";

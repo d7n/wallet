@@ -1,1 +1,1 @@
-var mnemonic = "kit glory wonder magic wild perfect dignity client busy dawn topic local";
+var mnemonic = "capital digital update leopard grass boss limb easily dragon maze right rifle";

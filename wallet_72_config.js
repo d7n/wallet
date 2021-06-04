@@ -1,1 +1,1 @@
-var mnemonic = "motion ball nature decorate ordinary spring again clap trip orphan worry celery";
+var mnemonic = "raise cradle alcohol fitness reform buzz badge noble symptom skirt shiver basic";

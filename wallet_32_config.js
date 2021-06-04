@@ -1,1 +1,1 @@
-var mnemonic = "bamboo harsh north limb region intact between rack cigar pill feature lawsuit";
+var mnemonic = "wing orient neither such winter clip width tone any welcome network sudden";

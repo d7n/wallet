@@ -1,1 +1,1 @@
-var mnemonic = "fancy april dust spend pet midnight away credit festival place ranch equip";
+var mnemonic = "sad rose depart other jungle grow position cabin ostrich town expire coin";

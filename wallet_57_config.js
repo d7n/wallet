@@ -1,1 +1,1 @@
-var mnemonic = "meat must upon ball final omit since avoid digital surround idle jump";
+var mnemonic = "spend resource cabin rather style vocal anger common master exclude report holiday";

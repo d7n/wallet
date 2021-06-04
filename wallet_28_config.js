@@ -1,1 +1,1 @@
-var mnemonic = "record yard monkey riot fly survey battle believe spider weird enlist typical";
+var mnemonic = "clip bitter wave answer pear wait quick distance web open census solar";
