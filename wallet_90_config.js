@@ -1,1 +1,1 @@
-var mnemonic = "prepare pass squirrel oven giggle lonely deny gossip theme bitter castle example";
+var mnemonic = "unusual discover whale edit hawk now prison rural seven remove large potato";

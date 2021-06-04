@@ -1,1 +1,1 @@
-var mnemonic = "liar perfect boy burden include snack member athlete fiscal latin tomorrow wine";
+var mnemonic = "manage dress cement settle spoon check broccoli shop inch virus strategy lake";

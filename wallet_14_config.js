@@ -1,1 +1,1 @@
-var mnemonic = "era shop happy into rice door castle few today interest slab fatigue";
+var mnemonic = "few veteran amount quantum number scheme tenant divorce sort coin lunar attitude";

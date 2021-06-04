@@ -1,1 +1,1 @@
-var mnemonic = "question inner possible wagon used wish release fold claim rescue member search";
+var mnemonic = "abuse axis toast first ring shoot review rely doctor emerge example edge";

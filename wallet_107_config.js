@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hand decide worry wait pretty health amount glue spin naive join";
+var mnemonic = "beach aware bottom track uncle cube clip admit bounce layer such question";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple laptop physical party maximum crew monitor chimney put sorry pudding gym";
+var mnemonic = "holiday spoon sword scorpion ship catalog cactus prosper gossip walk load dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "sting same buyer away unique armor broken require torch frozen muffin food";
+var mnemonic = "ozone climb letter crime minimum oak dice animal run pink glow trick";

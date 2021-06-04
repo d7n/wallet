@@ -1,1 +1,1 @@
-var mnemonic = "mail slice inner imitate minor toilet cry tail august limb reflect board";
+var mnemonic = "alien private diamond bid aerobic opinion female shy upset come annual broken";

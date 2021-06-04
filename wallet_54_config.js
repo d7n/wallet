@@ -1,1 +1,1 @@
-var mnemonic = "tiny bamboo gold nest else rabbit snow social volume warrior parent black";
+var mnemonic = "helmet lecture legal output loop analyst swamp space parent blush rug lawn";

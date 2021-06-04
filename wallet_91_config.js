@@ -1,1 +1,1 @@
-var mnemonic = "gospel burst believe room dance frog tool clock primary scan injury artist";
+var mnemonic = "exist garage aim upper make point warfare veteran chuckle amazing screen then";

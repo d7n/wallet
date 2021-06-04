@@ -1,1 +1,1 @@
-var mnemonic = "maximum cloth paddle resemble stock senior toy music warrior ten sense length";
+var mnemonic = "opera misery worth team owner federal strike reveal shrimp pyramid walnut lunar";

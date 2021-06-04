@@ -1,1 +1,1 @@
-var mnemonic = "hood someone tube knife table style mule horse adjust glow lunch key";
+var mnemonic = "wagon stock try spray rude word cute fix poverty pen hunt mercy";

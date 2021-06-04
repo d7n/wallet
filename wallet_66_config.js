@@ -1,1 +1,1 @@
-var mnemonic = "blade kick record fame sister puppy target lottery quote pupil surface shine";
+var mnemonic = "elder travel grain check narrow indicate lion butter woman release phone thing";

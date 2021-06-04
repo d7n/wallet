@@ -1,1 +1,1 @@
-var mnemonic = "tomato language accident purpose detect invite flash fury light lumber milk stuff";
+var mnemonic = "creek depth plunge lunch clay recipe surround black occur winter rookie adult";

@@ -1,1 +1,1 @@
-var mnemonic = "expire canal piece cradle toe arrive exact rookie soda series orbit require";
+var mnemonic = "decorate almost shove hen where coconut harbor key conduct mistake remain earn";

@@ -1,1 +1,1 @@
-var mnemonic = "neither hedgehog much chimney festival aim wheat flash broken juice stool exercise";
+var mnemonic = "jeans cluster leopard kiss layer lizard frozen diary horror because pupil exchange";

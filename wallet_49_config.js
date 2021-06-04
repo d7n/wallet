@@ -1,1 +1,1 @@
-var mnemonic = "fruit birth ritual surround simple isolate unit good friend resemble pitch amount";
+var mnemonic = "object half only stove galaxy neutral future beef trust benefit upgrade display";

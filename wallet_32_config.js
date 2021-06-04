@@ -1,1 +1,1 @@
-var mnemonic = "bounce voice ski idle glass flavor youth train ozone donor also toddler";
+var mnemonic = "chunk vault suit giant rapid bargain secret learn trap snack deputy decorate";

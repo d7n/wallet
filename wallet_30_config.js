@@ -1,1 +1,1 @@
-var mnemonic = "joke brave weather cram exhibit length industry near bamboo account valley document";
+var mnemonic = "mechanic city dignity fury chaos amateur mystery miracle offer typical flee produce";

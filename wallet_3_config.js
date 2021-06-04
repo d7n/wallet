@@ -1,1 +1,1 @@
-var mnemonic = "wild peasant crystal result depth annual element clinic cause acid fringe project";
+var mnemonic = "what pyramid bicycle speed thumb sausage identify cheese kiss blame moral lucky";

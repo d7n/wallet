@@ -1,1 +1,1 @@
-var mnemonic = "slight ostrich arrow lumber crunch vehicle dose cloth absent behave speak time";
+var mnemonic = "satoshi siren kiss basket broccoli calm farm use hope output tragic harbor";

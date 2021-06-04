@@ -1,1 +1,1 @@
-var mnemonic = "skate ranch another castle library rule chest shoe miss often camp method";
+var mnemonic = "donor network south almost tomorrow appear master farm toddler false build edit";

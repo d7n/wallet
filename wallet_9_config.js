@@ -1,1 +1,1 @@
-var mnemonic = "devote still else admit stadium balance gas medal belt cover fortune surge";
+var mnemonic = "oven sign velvet gather adult control fantasy siren shop mother cute sphere";

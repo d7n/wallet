@@ -1,1 +1,1 @@
-var mnemonic = "chat zero transfer sniff tomorrow wild involve pride fury side margin wage";
+var mnemonic = "melt aisle end lock catalog evidence speak toe pill deputy change kit";

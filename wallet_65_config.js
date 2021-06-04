@@ -1,1 +1,1 @@
-var mnemonic = "exchange ticket spawn range record village honey chuckle swear pen window tape";
+var mnemonic = "solid kid hint idle kidney swap surface patrol blouse exercise exist captain";

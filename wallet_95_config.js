@@ -1,1 +1,1 @@
-var mnemonic = "thrive sugar tray save milk beef sad goddess cloud exhaust purchase mammal";
+var mnemonic = "aware sand online find junior unaware until ill harsh member scrap method";

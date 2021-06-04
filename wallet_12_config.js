@@ -1,1 +1,1 @@
-var mnemonic = "long cross crater fossil awful ride ketchup lottery mutual decline raccoon hat";
+var mnemonic = "december salad sting welcome replace earn either behind blossom vibrant despair ahead";

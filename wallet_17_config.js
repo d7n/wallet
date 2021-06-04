@@ -1,1 +1,1 @@
-var mnemonic = "ability hover tiny knock simple depth erupt fork ocean list float uncover";
+var mnemonic = "become become shaft assault secret odor illegal day fall dirt power sense";

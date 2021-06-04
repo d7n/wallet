@@ -1,1 +1,1 @@
-var mnemonic = "garage gas lab ripple sad about economy beef six jeans flee distance";
+var mnemonic = "invite mind doctor broom network any muffin improve exit scare tackle rubber";

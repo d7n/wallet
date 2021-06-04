@@ -1,1 +1,1 @@
-var mnemonic = "convince craft family gadget donate person bulb useful evil sniff slide fatigue";
+var mnemonic = "fitness erupt save thumb pumpkin cushion battle dynamic moon payment alter rapid";

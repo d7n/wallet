@@ -1,1 +1,1 @@
-var mnemonic = "detect coconut toe chef first wrap smile tired behave sheriff fetch crime";
+var mnemonic = "extra shiver kingdom history auto where ring witness shock patient surface now";

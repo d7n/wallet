@@ -1,1 +1,1 @@
-var mnemonic = "vessel cradle visit reunion frown scare mansion diagram episode human certain cook";
+var mnemonic = "obey occur mountain trial gift toddler pipe scorpion eye spare rubber electric";

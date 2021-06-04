@@ -1,1 +1,1 @@
-var mnemonic = "plunge abuse coffee suit conduct garment peasant card music head duty pony";
+var mnemonic = "protect base choice review proof humor bamboo describe anger hard bulb apart";

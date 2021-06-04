@@ -1,1 +1,1 @@
-var mnemonic = "normal adjust worry embody pumpkin swap brand water scheme worth track happy";
+var mnemonic = "toward diesel tuition bullet balcony frown twist equal screen share adjust promote";

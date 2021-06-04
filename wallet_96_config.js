@@ -1,1 +1,1 @@
-var mnemonic = "deliver enter novel grit junior monkey people brick useless shift laugh abuse";
+var mnemonic = "iron mosquito virus notable speed close giraffe twist rose doll join industry";

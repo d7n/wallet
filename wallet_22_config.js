@@ -1,1 +1,1 @@
-var mnemonic = "useful burden salute invest hybrid peanut receive wrong forward embody electric galaxy";
+var mnemonic = "episode trim diary misery task picnic report milk fly pitch organ surface";

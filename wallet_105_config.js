@@ -1,1 +1,1 @@
-var mnemonic = "swallow siren gather collect lab furnace path twin purchase castle author fitness";
+var mnemonic = "world tornado stuff safe drip fluid deputy script audit tuition idle usage";

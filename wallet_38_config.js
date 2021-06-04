@@ -1,1 +1,1 @@
-var mnemonic = "gallery region pupil glue sunny twist teach clay swamp drastic dry search";
+var mnemonic = "risk cabin slight breeze romance feed sadness suffer doll mercy dutch country";

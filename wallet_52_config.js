@@ -1,1 +1,1 @@
-var mnemonic = "blush permit joke town detail upon reject state foil caught thrive keep";
+var mnemonic = "invite gentle quarter insane hotel panic render fee gold pair sweet display";

@@ -1,1 +1,1 @@
-var mnemonic = "such almost wagon admit income gasp cheap infant athlete settle service sport";
+var mnemonic = "nut urge august card quote lounge tennis virus file traffic forward harsh";

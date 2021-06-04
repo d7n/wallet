@@ -1,1 +1,1 @@
-var mnemonic = "step skin opinion gun chest can result harvest view snow since away";
+var mnemonic = "oak skate they lobster state budget sea impulse coin child cherry evil";

@@ -1,1 +1,1 @@
-var mnemonic = "adult cat fade violin artwork universe pair equip desk arena topic weapon";
+var mnemonic = "mixture intact jaguar market warm acquire when impulse spy drama pluck simple";

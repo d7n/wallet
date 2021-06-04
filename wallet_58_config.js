@@ -1,1 +1,1 @@
-var mnemonic = "library bottom concert town wish burst okay love confirm truth engage unit";
+var mnemonic = "bachelor wreck photo blue injury minimum elder immune atom simple essence viable";

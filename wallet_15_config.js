@@ -1,1 +1,1 @@
-var mnemonic = "ethics snap doctor maximum viable accident cancel alcohol pet genius affair nasty";
+var mnemonic = "crunch mosquito mechanic canvas goddess choice ticket aerobic shuffle chief regular federal";

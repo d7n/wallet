@@ -1,1 +1,1 @@
-var mnemonic = "naive wife bridge copper arch fortune clock strike bunker clerk army wide";
+var mnemonic = "you common race original minor milk predict stumble eight liquid brisk sister";

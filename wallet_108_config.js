@@ -1,1 +1,1 @@
-var mnemonic = "ignore load permit behind nurse catalog secret gospel trick loan over list";
+var mnemonic = "mass marble salmon drama match number penalty arrange promote gaze sword tennis";

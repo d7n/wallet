@@ -1,1 +1,1 @@
-var mnemonic = "exist admit tumble gym clutch magic inside tomato tail volcano night trash";
+var mnemonic = "patch grunt since sight present coin human pottery angle grief nuclear iron";

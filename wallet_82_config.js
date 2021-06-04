@@ -1,1 +1,1 @@
-var mnemonic = "appear girl because kitchen left digital web crunch picnic fun put future";
+var mnemonic = "cricket public situate near birth prize mimic grocery borrow charge champion catch";

@@ -1,1 +1,1 @@
-var mnemonic = "black method baby field width odor art shadow settle arch victory hood";
+var mnemonic = "couple misery improve cluster deny despair mandate defy zero ridge manage kingdom";

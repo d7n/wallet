@@ -1,1 +1,1 @@
-var mnemonic = "water remove reopen emotion faculty wedding attend route float photo walk town";
+var mnemonic = "skill best morning photo mistake smooth wide basket angle move indoor eagle";

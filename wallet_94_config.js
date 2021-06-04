@@ -1,1 +1,1 @@
-var mnemonic = "slab sting hybrid clinic gaze swamp advance office struggle thumb evidence creek";
+var mnemonic = "play across grant rural soccer biology annual spirit wheat panda chronic hurt";

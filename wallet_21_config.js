@@ -1,1 +1,1 @@
-var mnemonic = "craft hobby hip sail illegal tilt student cannon vibrant pudding duck wage";
+var mnemonic = "market all cable clutch dune danger can sudden feel rotate squeeze capital";

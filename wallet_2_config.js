@@ -1,1 +1,1 @@
-var mnemonic = "destroy supply crisp toast always canyon employ finish vague blossom impact ethics";
+var mnemonic = "insane inch uphold moon more dolphin brand potato place brief gym assault";

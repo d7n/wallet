@@ -1,1 +1,1 @@
-var mnemonic = "pistol leopard pitch debate deal ball subject artwork blue copper void grain";
+var mnemonic = "math wolf retire alone casino dune face pupil say laundry boss boost";

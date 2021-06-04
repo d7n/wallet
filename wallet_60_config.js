@@ -1,1 +1,1 @@
-var mnemonic = "coyote item gravity helmet tone panda mind inflict spin napkin blush mutual";
+var mnemonic = "load once spy rhythm nominee crush worth stereo immense become concert proof";

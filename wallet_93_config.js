@@ -1,1 +1,1 @@
-var mnemonic = "share parade success visit comfort debris bubble enact woman heavy away wood";
+var mnemonic = "feed merry spot immense away arena whisper abuse crowd awesome caught prison";

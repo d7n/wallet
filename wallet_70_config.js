@@ -1,1 +1,1 @@
-var mnemonic = "february dutch mention outside puzzle rubber uncover myself draft once aisle about";
+var mnemonic = "roof thought gadget nest please liberty unveil tape credit myself silver chest";

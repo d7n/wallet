@@ -1,1 +1,1 @@
-var mnemonic = "belt push pluck cousin concert where gallery erosion there visa ready leaf";
+var mnemonic = "elevator agree wisdom reason blade flee oil detail pear caution seek margin";

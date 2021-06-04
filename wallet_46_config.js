@@ -1,1 +1,1 @@
-var mnemonic = "inhale athlete access tree victory ill current fog trap drill quick action";
+var mnemonic = "measure high move outer fatal case team steel normal ketchup genuine under";

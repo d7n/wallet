@@ -1,1 +1,1 @@
-var mnemonic = "absurd mistake window comic tilt move alley blame cement uncle matter world";
+var mnemonic = "festival mass struggle music virtual increase clutch spy cupboard language cry zebra";

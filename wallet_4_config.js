@@ -1,1 +1,1 @@
-var mnemonic = "bird stairs route grit voice other shield lady zoo walk multiply number";
+var mnemonic = "poet hidden simple castle recycle traffic never pony sell lunch cart leaf";

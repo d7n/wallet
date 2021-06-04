@@ -1,1 +1,1 @@
-var mnemonic = "steak novel coil surprise pistol payment sudden bench merge fit dress egg";
+var mnemonic = "destroy erode alley aware fine coconut win slide recycle cliff lunch viable";

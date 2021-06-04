@@ -1,1 +1,1 @@
-var mnemonic = "moon all hour sock slogan gas below dress fury cluster essence beauty";
+var mnemonic = "dove tourist october valid pencil ladder bunker cage ride already catalog replace";

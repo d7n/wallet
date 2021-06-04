@@ -1,1 +1,1 @@
-var mnemonic = "art sock alpha lucky spot iron install lift fancy theory income slab";
+var mnemonic = "obscure village blossom thought canyon olive sketch yard wife dolphin clock outer";

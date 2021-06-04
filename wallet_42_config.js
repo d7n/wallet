@@ -1,1 +1,1 @@
-var mnemonic = "social water stem curious roast seek enrich proud course worry lazy captain";
+var mnemonic = "perfect champion smart describe desert half beyond slice collect three square earth";

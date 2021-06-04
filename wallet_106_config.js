@@ -1,1 +1,1 @@
-var mnemonic = "art honey cradle joy thing basic glass lottery rural gasp velvet only";
+var mnemonic = "jeans excuse alley edit fat journey toe tail off forest episode expand";

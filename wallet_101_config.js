@@ -1,1 +1,1 @@
-var mnemonic = "solution angry search attitude leaf garment under drop side crystal test camera";
+var mnemonic = "coral similar barrel squirrel peasant goddess update relax virus advance host hire";

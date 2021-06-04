@@ -1,1 +1,1 @@
-var mnemonic = "exit invest tuition welcome illness ankle they early quantum autumn punch train";
+var mnemonic = "raccoon shadow pepper evil leopard around enlist already broom couch step whip";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer ball install swamp pole attack property what cool invest thank nice";
+var mnemonic = "grow lucky gold shuffle uncover century object keen wage again crisp ship";

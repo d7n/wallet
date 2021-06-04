@@ -1,1 +1,1 @@
-var mnemonic = "project outdoor analyst confirm circle august afraid middle lobster wire heavy couple";
+var mnemonic = "neutral party sun labor minimum fault economy walk prevent volcano design scout";

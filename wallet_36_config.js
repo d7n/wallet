@@ -1,1 +1,1 @@
-var mnemonic = "magic finger despair problem giraffe gauge recycle neglect extra cargo inherit umbrella";
+var mnemonic = "cart narrow cave drill pear curtain idle mail poet trigger gym hint";

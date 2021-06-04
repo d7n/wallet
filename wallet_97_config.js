@@ -1,1 +1,1 @@
-var mnemonic = "miracle buzz urge purity cram tail lend jewel ethics tell cook meadow";
+var mnemonic = "alone airport pepper express evolve actress calm demand curve more accident super";

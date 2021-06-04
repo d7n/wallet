@@ -1,1 +1,1 @@
-var mnemonic = "history ensure grow friend fabric use food immense drive vibrant public garden";
+var mnemonic = "journey waste wink roof butter muscle merry arrange car movie hill denial";

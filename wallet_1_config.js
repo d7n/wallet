@@ -1,1 +1,1 @@
-var mnemonic = "prison thought hurry bread sound connect jealous sock diamond that celery purity";
+var mnemonic = "trumpet garage salmon thank make finish banana peace address satisfy candy exhaust";

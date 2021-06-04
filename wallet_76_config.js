@@ -1,1 +1,1 @@
-var mnemonic = "net enjoy attend famous coast hybrid option rhythm edge guitar one best";
+var mnemonic = "theory alone uncle pink mobile toy tiger quiz alien toast job journey";

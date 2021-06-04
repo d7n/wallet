@@ -1,1 +1,1 @@
-var mnemonic = "copper decide female gaze salute napkin farm chaos swarm table resist until";
+var mnemonic = "romance old hawk segment elevator profit inhale notice smooth spawn shield detail";

@@ -1,1 +1,1 @@
-var mnemonic = "physical path expand faith such can buyer arrange license antenna speak hungry";
+var mnemonic = "cruise half also turtle oven silent sign ceiling check pill rather puzzle";

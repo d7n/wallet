@@ -1,1 +1,1 @@
-var mnemonic = "danger foot dutch canvas rubber abandon place purse install detail fossil sun";
+var mnemonic = "pet tell uphold raven vague disease arctic tuition cat follow foil very";

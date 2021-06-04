@@ -1,1 +1,1 @@
-var mnemonic = "risk they age book secret receive oxygen awesome credit prevent corn aerobic";
+var mnemonic = "cargo kitchen peace satoshi trade earn wire combine ritual quality orange intact";

@@ -1,1 +1,1 @@
-var mnemonic = "fury embrace soccer exile outer pair legend dignity swing attitude razor alley";
+var mnemonic = "uphold again illegal kiss fall science wealth blind visual into wheel index";

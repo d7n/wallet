@@ -1,1 +1,1 @@
-var mnemonic = "wrong menu anger carpet economy monkey crop cushion script correct useful awkward";
+var mnemonic = "farm gun scare high chaos add income throw elevator cotton fuel income";

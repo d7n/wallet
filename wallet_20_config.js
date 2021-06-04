@@ -1,1 +1,1 @@
-var mnemonic = "umbrella damage awake breeze increase destroy you boring opera solve tone dry";
+var mnemonic = "suggest spend myself swim game honey trumpet mask party silk doctor stage";

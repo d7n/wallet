@@ -1,1 +1,1 @@
-var mnemonic = "orchard neglect rifle guess turtle round flame crowd security raw hazard sugar";
+var mnemonic = "opinion penalty flip coach office seek fatal proud unveil tape affair digital";

@@ -1,1 +1,1 @@
-var mnemonic = "govern steel south lock broom snap yard spell credit style shell food";
+var mnemonic = "tragic copper uniform impact clap sustain pond fringe run endorse foam faculty";

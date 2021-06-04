@@ -1,1 +1,1 @@
-var mnemonic = "category staff video warm come prevent biology desert expand child traffic brass";
+var mnemonic = "ensure pistol siren rifle athlete aisle giant reveal blast two lobster ensure";

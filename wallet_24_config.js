@@ -1,1 +1,1 @@
-var mnemonic = "evil random rhythm repeat derive laundry broom tragic smile survey kingdom special";
+var mnemonic = "toilet immense police slender wood collect song phone roof tumble thunder jump";

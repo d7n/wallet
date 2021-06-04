@@ -1,1 +1,1 @@
-var mnemonic = "large burst wise law place panic dawn undo display suffer rebuild knife";
+var mnemonic = "found jaguar recipe grain belt pink slab flush stone vessel often indicate";
