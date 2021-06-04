@@ -1,1 +1,1 @@
-var mnemonic = "apple obey used identify birth occur pitch twin cherry impulse tiger walk";
+var mnemonic = "lumber nerve gadget south acoustic case city feel search illegal usual tide";

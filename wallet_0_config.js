@@ -1,1 +1,1 @@
-var mnemonic = "addict auction moon trend bullet voyage practice indoor reward table crush pig";
+var mnemonic = "hospital survey person amazing pill sample cotton airport fruit theme silk burst";

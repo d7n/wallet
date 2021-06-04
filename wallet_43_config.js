@@ -1,1 +1,1 @@
-var mnemonic = "alone skate mule shaft ceiling soap bird print remain coyote weasel pottery";
+var mnemonic = "strategy girl spell better flower train kind bright large math bread wish";

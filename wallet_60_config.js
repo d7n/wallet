@@ -1,1 +1,1 @@
-var mnemonic = "enrich stove rigid minute flat sleep suspect next gather puzzle useful reason";
+var mnemonic = "face say section fault express neck speak camera blush bench slam feature";

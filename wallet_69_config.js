@@ -1,1 +1,1 @@
-var mnemonic = "shoot tattoo board found misery suspect forward soap absorb embrace quarter ozone";
+var mnemonic = "hard throw enter warfare keep heart bread voyage mean stand another soft";

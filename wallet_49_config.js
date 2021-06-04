@@ -1,1 +1,1 @@
-var mnemonic = "blood desk gentle rack board old dilemma meat ship flag view resist";
+var mnemonic = "crash famous inside tower island web major furnace promote step eye sound";

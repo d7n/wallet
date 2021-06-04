@@ -1,1 +1,1 @@
-var mnemonic = "rule mirror dawn nasty stove tide decrease cloud stuff age child later";
+var mnemonic = "volume market army worry whale bridge game tunnel lucky maximum dose rebuild";

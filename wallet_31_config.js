@@ -1,1 +1,1 @@
-var mnemonic = "cushion universe lion actor input glue depend hamster around type autumn coral";
+var mnemonic = "pioneer blue same few timber verb multiply bless gym screen iron switch";

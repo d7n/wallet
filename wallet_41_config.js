@@ -1,1 +1,1 @@
-var mnemonic = "fuel sausage upgrade turn clock system size solve snake mango garbage security";
+var mnemonic = "mutual monkey collect wheel science sword galaxy gossip truly guess decrease exit";

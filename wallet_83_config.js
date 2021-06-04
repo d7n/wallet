@@ -1,1 +1,1 @@
-var mnemonic = "march brain column inch radio segment spin imitate off puzzle gorilla absorb";
+var mnemonic = "cargo famous dismiss picnic chest useful perfect system boil divide mystery village";

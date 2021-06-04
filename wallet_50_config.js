@@ -1,1 +1,1 @@
-var mnemonic = "brain glove wrestle circle boost general invest add dose pool burger grow";
+var mnemonic = "enrich basket spend sock crumble funny parrot skin duty hint give minute";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy spike staff hybrid quick frost prepare erupt coffee fee amused garden";
+var mnemonic = "boring hero square reveal immune proof wrist distance script million priority sorry";

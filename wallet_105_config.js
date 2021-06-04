@@ -1,1 +1,1 @@
-var mnemonic = "clay equal there guess lens often inquiry upon quick loyal border dream";
+var mnemonic = "label track interest limit embody wagon daring accuse found finger man future";

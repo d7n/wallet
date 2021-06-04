@@ -1,1 +1,1 @@
-var mnemonic = "fatal post flock exclude federal invite cotton salmon sample utility analyst concert";
+var mnemonic = "impact excite sign month sadness security canvas ranch truly cloud asset legal";

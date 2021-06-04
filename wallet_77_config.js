@@ -1,1 +1,1 @@
-var mnemonic = "nature funny shy dizzy tooth garment seek patient clinic exhaust famous proud";
+var mnemonic = "proud vivid device victory gossip fiction peanut surround finger tape assault improve";

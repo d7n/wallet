@@ -1,1 +1,1 @@
-var mnemonic = "junk noodle riot flight into produce denial ritual impact ladder master manage";
+var mnemonic = "tennis winter advance left maze dumb spray draft coil inject old find";

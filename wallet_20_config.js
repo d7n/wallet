@@ -1,1 +1,1 @@
-var mnemonic = "debate become improve super ill doll pledge nurse shield pond purchase able";
+var mnemonic = "alien under foster accuse doctor stuff puppy expire review shaft remember pyramid";

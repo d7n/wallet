@@ -1,1 +1,1 @@
-var mnemonic = "crunch double wreck pupil junk explain budget ketchup chat chef elegant hold";
+var mnemonic = "supply remind turtle insect easy salt ride strategy elephant define thing year";

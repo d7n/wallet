@@ -1,1 +1,1 @@
-var mnemonic = "book clean nominee twist ancient woman wrap attract quote borrow keep outside";
+var mnemonic = "salt frown trip fish either busy jeans essence step private day make";

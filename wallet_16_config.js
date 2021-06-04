@@ -1,1 +1,1 @@
-var mnemonic = "attend pen local battle mean dinosaur era gym solid good exclude tissue";
+var mnemonic = "ridge fine card raw math thought country card lift beauty food valley";

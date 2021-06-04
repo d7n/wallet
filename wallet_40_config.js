@@ -1,1 +1,1 @@
-var mnemonic = "local inside hire mad tray couple enhance base fox employ absent little";
+var mnemonic = "squeeze unveil daughter dutch cool thing kite exercise cat slush gauge ignore";

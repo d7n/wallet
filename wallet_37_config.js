@@ -1,1 +1,1 @@
-var mnemonic = "table breeze disagree submit trust wear bubble fabric swarm expose shift grab";
+var mnemonic = "rail rebuild water enact uncle object below noodle sudden post sand liar";

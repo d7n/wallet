@@ -1,1 +1,1 @@
-var mnemonic = "skin verb hint elder leisure bottom ill jazz travel wedding wheat mother";
+var mnemonic = "cycle home attract chat spray mango toilet island vast vicious nut balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe flee tobacco insane accuse jacket vague horn prefer resist chimney tell";
+var mnemonic = "job tiny salmon wagon sword purity nose spoon health ordinary argue scrap";

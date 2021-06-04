@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon chest pelican struggle van patrol clap stairs media monster merit old";
+var mnemonic = "oven rack file unique social voyage clever isolate soon quantum weapon donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity bring travel embark season already market labor great mind project despair";
+var mnemonic = "scheme december portion cover mail vapor rapid injury chef dawn mask detail";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk slim airport fiction remind burger mesh ordinary mutual bring laundry pudding";
+var mnemonic = "admit fly worry banana bike joke manage uniform vacant hazard mansion endorse";

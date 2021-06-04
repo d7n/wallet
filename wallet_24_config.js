@@ -1,1 +1,1 @@
-var mnemonic = "expect crash hour supreme snake harbor scrap survey cousin crucial like hip";
+var mnemonic = "gym crouch banner fish inhale ramp tag remind obscure prosper barrel draft";

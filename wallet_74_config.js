@@ -1,1 +1,1 @@
-var mnemonic = "fiction hazard female window involve lava rain stem rich equal because that";
+var mnemonic = "judge patient law cup unusual lucky license goat away satoshi flavor coffee";

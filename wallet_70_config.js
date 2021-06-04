@@ -1,1 +1,1 @@
-var mnemonic = "bounce issue search zero jar celery same that tennis worry among equip";
+var mnemonic = "marble interest sing share elder jump fury green loyal riot sun group";

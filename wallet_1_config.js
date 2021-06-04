@@ -1,1 +1,1 @@
-var mnemonic = "topple panda stool eyebrow unit logic soul assist hidden tide kitten act";
+var mnemonic = "label pear matrix live tourist barely spray feature candy immune express tissue";

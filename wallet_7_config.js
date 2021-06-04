@@ -1,1 +1,1 @@
-var mnemonic = "gate moon exile dice wave marriage item champion talk doll vacant true";
+var mnemonic = "wrap man tent retire scorpion senior favorite merge always solar predict this";

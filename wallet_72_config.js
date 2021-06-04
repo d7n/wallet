@@ -1,1 +1,1 @@
-var mnemonic = "bench myth share broken gas flag truck coin again mistake high true";
+var mnemonic = "inflict mind select grab column bulk upgrade lumber concert source concert release";

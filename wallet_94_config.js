@@ -1,1 +1,1 @@
-var mnemonic = "palm kite miss buzz quick expire portion raven real tragic chunk retreat";
+var mnemonic = "long skill live enact switch volcano use drink silk arch try soccer";

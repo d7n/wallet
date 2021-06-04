@@ -1,1 +1,1 @@
-var mnemonic = "divert resist crawl hill spice stone december hazard hip atom wolf fade";
+var mnemonic = "average shell proof estate promote item program chest damp sad style bring";

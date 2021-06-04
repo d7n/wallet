@@ -1,1 +1,1 @@
-var mnemonic = "fruit secret uncover smile husband ability exchange behave custom salute ecology worry";
+var mnemonic = "misery enemy sentence test problem goose tissue oyster grief arrange picture issue";

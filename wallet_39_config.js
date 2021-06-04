@@ -1,1 +1,1 @@
-var mnemonic = "grunt junior discover cruel position mom curtain derive neither scale top mixture";
+var mnemonic = "soldier gaze casino peanut canyon sadness hundred ridge obscure fever pottery join";

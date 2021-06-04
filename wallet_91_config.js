@@ -1,1 +1,1 @@
-var mnemonic = "quality exotic twin guess crime face require view sort lock title accident";
+var mnemonic = "save cause total adjust brush forget giraffe rubber print into brand side";

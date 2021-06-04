@@ -1,1 +1,1 @@
-var mnemonic = "veteran coach accident cruel brisk note grocery wealth armed text predict decorate";
+var mnemonic = "enhance guess tiny advice vintage sign canyon measure lecture bench animal kite";

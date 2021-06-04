@@ -1,1 +1,1 @@
-var mnemonic = "example enlist quiz bridge expand speed knee lock equal thing gift october";
+var mnemonic = "scan another cable light salute nature club cream people you gap pluck";

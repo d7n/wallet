@@ -1,1 +1,1 @@
-var mnemonic = "found half alcohol rude nice elbow member frozen improve sun age skirt";
+var mnemonic = "tent very plunge neck attack gas display army visual fit depend crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle light resist crouch adult patrol century snack imitate congress custom scissors";
+var mnemonic = "egg this traffic hurt approve blind fly panic add pumpkin word ankle";

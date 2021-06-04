@@ -1,1 +1,1 @@
-var mnemonic = "version wet portion welcome account rigid behave clap ignore tennis fork monkey";
+var mnemonic = "remain labor pony smile shove whale hammer trigger leave resource aunt imitate";

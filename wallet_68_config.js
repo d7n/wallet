@@ -1,1 +1,1 @@
-var mnemonic = "ginger vessel craft make peace spray cushion junior giggle glare price type";
+var mnemonic = "credit response light ten embody genre embody usual ladder raven claim decade";

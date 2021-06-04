@@ -1,1 +1,1 @@
-var mnemonic = "boil into another reflect buzz exclude please pepper sing rare wine taste";
+var mnemonic = "excess olympic peace harvest three clap spirit beach eight fish spring abstract";

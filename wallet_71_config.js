@@ -1,1 +1,1 @@
-var mnemonic = "brisk garage exchange grunt snow arena that inhale visa divide unique suffer";
+var mnemonic = "wear vault layer predict camera never immune sight define pond grow step";

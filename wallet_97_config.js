@@ -1,1 +1,1 @@
-var mnemonic = "town prepare knock attitude return daring seat winter reason creek evil milk";
+var mnemonic = "run egg slot pony rose minor rally seed amused cousin then flat";

@@ -1,1 +1,1 @@
-var mnemonic = "bring rule decline become enemy suggest refuse peace orchard near citizen sister";
+var mnemonic = "throw female plunge pulse robust boil ten essence exclude firm lava humble";

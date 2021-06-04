@@ -1,1 +1,1 @@
-var mnemonic = "camp stock allow crucial better edit keep charge knee limit case coffee";
+var mnemonic = "loud curve tail sign cushion then grab hurry card drum journey stereo";

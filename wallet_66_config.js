@@ -1,1 +1,1 @@
-var mnemonic = "quit apple misery demand amount stock near family moon smile movie six";
+var mnemonic = "typical smooth squeeze bless marine unveil weird rice bar kid interest safe";

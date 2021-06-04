@@ -1,1 +1,1 @@
-var mnemonic = "real one ketchup erupt often copper bargain correct mimic patient solve topic";
+var mnemonic = "obey surface cat catalog cotton boss omit another abandon eternal error stock";

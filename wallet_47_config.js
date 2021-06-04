@@ -1,1 +1,1 @@
-var mnemonic = "shrimp upper bus senior decrease clutch critic nerve expect mass essay mechanic";
+var mnemonic = "purse vehicle voyage genius between stable bright bullet journey road rally chaos";

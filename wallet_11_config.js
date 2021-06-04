@@ -1,1 +1,1 @@
-var mnemonic = "finger mail veteran protect fence gauge cabin indicate shallow ginger upgrade alley";
+var mnemonic = "frown parent worry frozen step decline render polar hunt proof keen detail";

@@ -1,1 +1,1 @@
-var mnemonic = "engine muscle edit gossip dove success hold zebra pool opera warfare bid";
+var mnemonic = "aunt cat long save great pull frame asset turtle coach hazard voyage";

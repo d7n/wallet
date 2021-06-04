@@ -1,1 +1,1 @@
-var mnemonic = "mixture embark ring bottom evolve welcome brisk loyal unhappy corn goose jewel";
+var mnemonic = "huge film jar bracket still alien sand valve impact step nature balcony";

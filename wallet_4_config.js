@@ -1,1 +1,1 @@
-var mnemonic = "quantum balcony luxury ball slice motion sock dish mother trial anxiety salmon";
+var mnemonic = "smooth menu because size video among melt gravity favorite quick midnight local";

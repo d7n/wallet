@@ -1,1 +1,1 @@
-var mnemonic = "wife claw below student blind foam current track cycle medal creek fix";
+var mnemonic = "moon monster gospel earth sibling belt service wait clinic child artefact twist";

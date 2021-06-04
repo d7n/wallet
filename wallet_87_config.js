@@ -1,1 +1,1 @@
-var mnemonic = "vehicle people cream scan knock unveil mimic champion cushion entire volume innocent";
+var mnemonic = "crop city wear intact someone situate lecture poverty govern endless festival pull";

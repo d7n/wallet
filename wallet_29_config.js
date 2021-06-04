@@ -1,1 +1,1 @@
-var mnemonic = "barrel taste kitchen find scale sniff patch panic poverty airport expand spy";
+var mnemonic = "total bicycle later account already lock favorite onion cactus cliff confirm traffic";

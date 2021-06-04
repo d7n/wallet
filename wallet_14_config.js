@@ -1,1 +1,1 @@
-var mnemonic = "wasp token news wrist absorb broccoli burst grocery address arrive begin cat";
+var mnemonic = "veteran tilt mother supreme chicken apology bubble warm point lounge setup grace";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker multiply project zone burst desk abandon chunk later brown month magnet";
+var mnemonic = "strike trend various blame swap plate amount maple paddle crop title maid";

@@ -1,1 +1,1 @@
-var mnemonic = "assist diet hub upon special ancient audit segment bean project talent hair";
+var mnemonic = "birth toy vast square better chief balance evolve wheat apart wisdom steel";

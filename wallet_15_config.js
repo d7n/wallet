@@ -1,1 +1,1 @@
-var mnemonic = "upper hello model differ silent route horse width lonely base badge outside";
+var mnemonic = "extra jelly reform frost cash taste spoon boat patrol matrix fan raw";

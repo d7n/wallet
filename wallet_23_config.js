@@ -1,1 +1,1 @@
-var mnemonic = "pipe swim market kitten cruel actor advice lounge hood drive will mail";
+var mnemonic = "avoid awkward ozone stay saddle million gesture black monitor essence dance flash";

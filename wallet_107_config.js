@@ -1,1 +1,1 @@
-var mnemonic = "skill young ship off duty destroy super lottery novel focus bulk ankle";
+var mnemonic = "just flag alpha tackle ten scorpion woman ski game trend settle bullet";

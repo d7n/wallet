@@ -1,1 +1,1 @@
-var mnemonic = "child iron dignity increase panel glow memory million giraffe mobile plug super";
+var mnemonic = "hurt aisle grunt tiny walnut whip shrimp risk ritual scale floor powder";

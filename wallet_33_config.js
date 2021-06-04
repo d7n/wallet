@@ -1,1 +1,1 @@
-var mnemonic = "hockey guilt island deposit maximum track brush device immense price possible dilemma";
+var mnemonic = "orient dinner update empty abuse surprise rain river wood pig situate payment";

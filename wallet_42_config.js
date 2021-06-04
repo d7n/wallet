@@ -1,1 +1,1 @@
-var mnemonic = "loud doctor before shy exclude cousin wheat seminar trim chief celery flat";
+var mnemonic = "crazy subway tissue load agree peace before job twist surprise check popular";

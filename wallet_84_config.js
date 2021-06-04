@@ -1,1 +1,1 @@
-var mnemonic = "require then slam kid mesh slice share fashion decade party apart squirrel";
+var mnemonic = "assist under ceiling bird slush cricket repeat seat oppose add lamp major";

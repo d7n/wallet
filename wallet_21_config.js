@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow parade cage agree width until trend poem clutch rain theory ordinary";
+var mnemonic = "axis ignore erupt local float segment appear furnace metal humor island random";

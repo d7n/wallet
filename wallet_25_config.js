@@ -1,1 +1,1 @@
-var mnemonic = "glue arena resemble hurt used uphold ankle vendor pepper cancel soda candy";
+var mnemonic = "silver unaware world family practice victory size wool silk pigeon combine gauge";

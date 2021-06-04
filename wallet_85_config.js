@@ -1,1 +1,1 @@
-var mnemonic = "can employ pigeon mammal leisure human kitten trial shed abuse laptop own";
+var mnemonic = "wall cheap purse despair guard hazard mercy shiver unusual hover cereal dice";

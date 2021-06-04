@@ -1,1 +1,1 @@
-var mnemonic = "congress lens girl canyon romance blouse issue clap time silk fuel fever";
+var mnemonic = "prevent right absent alpha puzzle grain width below joke dynamic miracle knife";

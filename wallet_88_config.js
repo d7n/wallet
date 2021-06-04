@@ -1,1 +1,1 @@
-var mnemonic = "split crop render brief refuse violin inch still ticket bamboo lock cross";
+var mnemonic = "unlock monkey salad doll fault sail demise luggage hello exist recycle lonely";

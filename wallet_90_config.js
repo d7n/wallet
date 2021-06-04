@@ -1,1 +1,1 @@
-var mnemonic = "latin inflict glow forum tilt mouse staff accuse general vast connect describe";
+var mnemonic = "rack donkey keep loop merge flush duck copper limit orphan web wide";

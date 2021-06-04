@@ -1,1 +1,1 @@
-var mnemonic = "bird churn tobacco entry token mail hello object material divide build young";
+var mnemonic = "lunch hover speak amount wire dust item end skull control man furnace";

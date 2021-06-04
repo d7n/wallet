@@ -1,1 +1,1 @@
-var mnemonic = "patient unique win settle nurse creek foster remove hammer blue initial flame";
+var mnemonic = "tornado lobster october kick quantum street chase six differ drill neglect hawk";

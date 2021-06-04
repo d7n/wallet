@@ -1,1 +1,1 @@
-var mnemonic = "island renew erode flush mask repeat interest opinion immense salmon invite problem";
+var mnemonic = "frog film shop weather verify globe absurd bird physical fever elite gown";

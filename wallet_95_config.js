@@ -1,1 +1,1 @@
-var mnemonic = "alley sibling exhibit duck minute lemon flag all urge hen bracket glide";
+var mnemonic = "square future huge sponsor refuse pact patch mixed rebel dice shuffle crystal";

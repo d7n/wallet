@@ -1,1 +1,1 @@
-var mnemonic = "unaware language auction maid palace team august hand about era mass hand";
+var mnemonic = "sadness fever captain smile blind evil identify tissue gospel normal require image";

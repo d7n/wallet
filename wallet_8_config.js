@@ -1,1 +1,1 @@
-var mnemonic = "silk major blush soon ethics say left clutch gauge category squirrel play";
+var mnemonic = "endless panel slow damp shoulder seminar better bronze tide enact embrace hybrid";

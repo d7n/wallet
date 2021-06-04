@@ -1,1 +1,1 @@
-var mnemonic = "captain often cargo cement vault put document ski update gesture current glare";
+var mnemonic = "elbow gorilla mistake item rubber shell you aisle breeze fetch letter cup";

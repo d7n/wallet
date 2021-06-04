@@ -1,1 +1,1 @@
-var mnemonic = "comfort empty rice shell word drive october grit ribbon hand choice fish";
+var mnemonic = "summer adult rude biology boil erosion stairs thumb praise market depend popular";

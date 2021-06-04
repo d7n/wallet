@@ -1,1 +1,1 @@
-var mnemonic = "virus absent rifle social culture embrace track alien police three age mask";
+var mnemonic = "coyote voyage job nerve vapor divide grant small trap sudden turtle move";

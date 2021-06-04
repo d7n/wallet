@@ -1,1 +1,1 @@
-var mnemonic = "inflict latin ice hazard analyst knee cinnamon allow someone blur seat erupt";
+var mnemonic = "husband accuse road wasp science debate recycle snap soft husband cricket castle";

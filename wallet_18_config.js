@@ -1,1 +1,1 @@
-var mnemonic = "manual boat execute dolphin tornado rebel pill gesture pair song inquiry song";
+var mnemonic = "school oil denial course play success speed slender forward denial rebuild north";

@@ -1,1 +1,1 @@
-var mnemonic = "zero marble vivid turkey east rule rack olive squeeze rescue attract require";
+var mnemonic = "misery genius bamboo dress record pact crash key style frown curve owner";

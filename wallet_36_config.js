@@ -1,1 +1,1 @@
-var mnemonic = "giggle volume rhythm thunder palm alert symbol eager chapter exile hold giggle";
+var mnemonic = "essay shuffle marble afford dial ribbon permit aunt slogan denial tent chimney";
