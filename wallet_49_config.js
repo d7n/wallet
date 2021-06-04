@@ -1,1 +1,1 @@
-var mnemonic = "camp leader maximum industry cattle hint early zone original urban version pyramid";
+var mnemonic = "stove crumble voyage worth maze poet train improve various fatal useless fan";

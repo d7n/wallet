@@ -1,1 +1,1 @@
-var mnemonic = "liquid share purity screen park cluster enemy assist damp stadium clump evidence";
+var mnemonic = "autumn output such play high train hat renew blanket hawk festival galaxy";

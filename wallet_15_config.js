@@ -1,1 +1,1 @@
-var mnemonic = "hawk music cake mail admit dynamic swap lonely junk food modify cousin";
+var mnemonic = "cabin kidney battle garden predict hungry weekend cotton enemy usage body apple";

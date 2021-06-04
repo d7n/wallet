@@ -1,1 +1,1 @@
-var mnemonic = "cupboard evidence culture square salmon problem bike warrior exchange enter cupboard fatigue";
+var mnemonic = "field noise useless faint science valid filter paddle slab below turtle cost";

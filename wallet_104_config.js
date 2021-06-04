@@ -1,1 +1,1 @@
-var mnemonic = "vibrant scan number denial coast search kick entry lounge cabbage other travel";
+var mnemonic = "view clay spread garbage suspect garbage arena biology bench tissue curtain floor";

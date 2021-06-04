@@ -1,1 +1,1 @@
-var mnemonic = "electric letter frog all grain oil garbage question season essence course warm";
+var mnemonic = "situate lift autumn duty fatigue goddess phone garage act fit discover update";

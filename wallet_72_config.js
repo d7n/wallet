@@ -1,1 +1,1 @@
-var mnemonic = "banner myth please subway trend garlic pear summer picnic vocal together tragic";
+var mnemonic = "arrest sort option range slice step expand design finish diary cancel mask";

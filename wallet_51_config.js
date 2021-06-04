@@ -1,1 +1,1 @@
-var mnemonic = "labor farm hood satoshi mango cradle timber pause text wrong female ramp";
+var mnemonic = "hybrid tired aim extra female vote one excuse budget loud guess believe";

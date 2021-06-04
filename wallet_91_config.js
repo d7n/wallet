@@ -1,1 +1,1 @@
-var mnemonic = "problem brick trumpet art squeeze one traffic fruit voice brass gift comic";
+var mnemonic = "awake wrong future era believe popular spy assault magic believe clap stamp";

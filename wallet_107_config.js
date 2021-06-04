@@ -1,1 +1,1 @@
-var mnemonic = "maple seminar region enroll athlete beauty benefit organ foster stamp seed believe";
+var mnemonic = "elegant kitten oval warrior tube bicycle secret pipe access trip grow income";

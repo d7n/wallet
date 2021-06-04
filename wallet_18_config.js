@@ -1,1 +1,1 @@
-var mnemonic = "crazy hold hint link organ ceiling girl castle jump brush okay this";
+var mnemonic = "caution unable foot coin pink erosion silly symbol prosper dizzy kangaroo hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "common curtain game fever staff hammer junior ahead ahead token betray amateur";
+var mnemonic = "desk rate sense wheat differ forum collect absorb enact there corn rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon walk suspect dry task ice orchard license surround vacuum edit hamster";
+var mnemonic = "current mixed discover mandate april border near dolphin skull fee emerge access";

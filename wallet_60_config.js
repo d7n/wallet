@@ -1,1 +1,1 @@
-var mnemonic = "below buyer escape shed vault mix edge iron asthma success initial crime";
+var mnemonic = "region differ milk unknown coyote liar bleak clever hard dial course reflect";

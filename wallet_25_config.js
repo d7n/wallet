@@ -1,1 +1,1 @@
-var mnemonic = "fringe sponsor critic figure pave maximum various style smile electric kidney mail";
+var mnemonic = "bitter warm absent legend flavor click cheap frost coast response element dad";

@@ -1,1 +1,1 @@
-var mnemonic = "glow high column fatigue save negative spawn tilt reward agent flame draw";
+var mnemonic = "egg elevator sample steak onion advice shop donor topic emotion narrow occur";

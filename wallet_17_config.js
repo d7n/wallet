@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow risk pill sword pledge fluid knee that arrow fork beef scissors";
+var mnemonic = "grab artefact shield kitten scare ostrich inflict person wife trouble merry shadow";

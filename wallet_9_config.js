@@ -1,1 +1,1 @@
-var mnemonic = "sing vapor clap lake submit submit divide thank gap roof tribe humor";
+var mnemonic = "traffic fluid regular short diamond nasty discover debris essay dash spare bar";

@@ -1,1 +1,1 @@
-var mnemonic = "trust impose purpose next gift gossip force target crucial bid ahead sugar";
+var mnemonic = "direct nominee shell sugar ill can rotate exchange enough property mother project";

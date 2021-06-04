@@ -1,1 +1,1 @@
-var mnemonic = "south predict shallow cinnamon chalk wing borrow elbow shrug guilt diet note";
+var mnemonic = "label keep control embark curious vague once insect attack merge kingdom piece";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain execute enroll able hill loan index absurd capital name rebuild camera";
+var mnemonic = "shaft wait anger empower alien summer record price slim color dish anger";

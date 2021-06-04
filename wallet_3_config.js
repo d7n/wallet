@@ -1,1 +1,1 @@
-var mnemonic = "true frame cotton deny mercy frog tonight dilemma kidney shallow kite oblige";
+var mnemonic = "rally genuine nuclear ankle audit dragon grit window unhappy parent remember walk";

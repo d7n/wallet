@@ -1,1 +1,1 @@
-var mnemonic = "fiction ten maze wedding sting arena trouble final base private settle dilemma";
+var mnemonic = "illegal spray lion denial praise shield error tooth wheel pole feature citizen";

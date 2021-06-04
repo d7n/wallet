@@ -1,1 +1,1 @@
-var mnemonic = "shove custom veteran funny agent science will melody alter once loyal abstract";
+var mnemonic = "fiscal since crime mesh filter scene farm ugly lobster panther bid grace";

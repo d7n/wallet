@@ -1,1 +1,1 @@
-var mnemonic = "deal jeans enforce multiply bid drama report science medal goat style grunt";
+var mnemonic = "purse crowd order gym fiber rough obey man rich earth chase measure";

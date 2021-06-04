@@ -1,1 +1,1 @@
-var mnemonic = "charge bird laundry net type inspire cereal review loop fever horse wisdom";
+var mnemonic = "wage fly wrestle chronic system kid science reduce tissue jeans coast kingdom";

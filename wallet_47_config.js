@@ -1,1 +1,1 @@
-var mnemonic = "scout radio muffin umbrella between disagree salad butter today paddle toilet lizard";
+var mnemonic = "trick album conduct giant wrong icon pipe smoke face guitar vague hard";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing mandate wedding bean nature crew bundle suit swift miracle this dash";
+var mnemonic = "divert gate twelve shrug front maximum found cancel below critic tackle club";

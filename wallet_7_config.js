@@ -1,1 +1,1 @@
-var mnemonic = "destroy guess interest hedgehog month vicious style length crouch bounce observe torch";
+var mnemonic = "cry beauty deer stove more clip shaft engage small double life alert";

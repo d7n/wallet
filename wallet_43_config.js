@@ -1,1 +1,1 @@
-var mnemonic = "scheme unknown fork bike degree clip eyebrow faith view cake dilemma federal";
+var mnemonic = "wheat coffee few bracket north around comfort play rival leaf add trophy";

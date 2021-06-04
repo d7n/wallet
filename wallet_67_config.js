@@ -1,1 +1,1 @@
-var mnemonic = "bleak erupt ignore boy tired banner empty wealth victory industry arrest gossip";
+var mnemonic = "symptom quick economy brown typical badge fatigue quick air series laugh thrive";

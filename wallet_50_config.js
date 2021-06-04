@@ -1,1 +1,1 @@
-var mnemonic = "rude scrap paddle weird cheese loyal lawsuit shop umbrella fatigue ripple thank";
+var mnemonic = "poem dizzy shiver setup pepper token embody exercise art leopard rookie property";

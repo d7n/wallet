@@ -1,1 +1,1 @@
-var mnemonic = "awake gun obtain fit winner treat floor inside guilt genuine viable frown";
+var mnemonic = "click eye special seven celery judge debate muscle lock random lottery rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle any author child blossom glance address setup soon alien obtain gap";
+var mnemonic = "disease connect lunar toe crisp stool gun horn normal perfect day ugly";

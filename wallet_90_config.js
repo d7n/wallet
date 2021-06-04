@@ -1,1 +1,1 @@
-var mnemonic = "what able dragon clarify horse cousin give plunge mask boss depth mandate";
+var mnemonic = "endless insane awake regular brick day fossil jeans lyrics polar happy coast";

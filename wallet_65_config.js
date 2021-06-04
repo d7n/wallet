@@ -1,1 +1,1 @@
-var mnemonic = "steel swallow short joke second harvest ensure demand lumber behind zoo miss";
+var mnemonic = "mobile artefact dragon smooth language cigar rare park wear strategy focus stage";

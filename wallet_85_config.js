@@ -1,1 +1,1 @@
-var mnemonic = "destroy grocery defense prefer change inhale amused little tone fat change old";
+var mnemonic = "text morning stairs dragon pumpkin lawsuit arch cradle turn include easy network";

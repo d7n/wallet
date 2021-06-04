@@ -1,1 +1,1 @@
-var mnemonic = "business history abandon marriage net stage legend knee own two wagon chat";
+var mnemonic = "pumpkin jar pride bargain venue pledge income announce churn near cheap boss";

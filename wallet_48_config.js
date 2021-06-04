@@ -1,1 +1,1 @@
-var mnemonic = "eight clerk gasp decade mouse burger fresh coach snow casual embrace coral";
+var mnemonic = "dish fee conduct give pool business appear eagle another fabric kitchen wine";

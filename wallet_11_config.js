@@ -1,1 +1,1 @@
-var mnemonic = "destroy thought similar hat final shrimp addict say hip valid bag coral";
+var mnemonic = "convince iron demise glare story real duty envelope pact come ketchup feel";

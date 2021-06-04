@@ -1,1 +1,1 @@
-var mnemonic = "table orphan junk budget luggage parent blast spring story version olive inherit";
+var mnemonic = "beef sing burger hip web vault erase crime bulb grant square elevator";

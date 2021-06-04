@@ -1,1 +1,1 @@
-var mnemonic = "search dance else vocal festival despair destroy omit ride curious example employ";
+var mnemonic = "nation grow rocket abandon transfer connect feed garage game obey corn guard";

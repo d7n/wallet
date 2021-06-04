@@ -1,1 +1,1 @@
-var mnemonic = "holiday forward culture discover venture cost alarm lock grab napkin fox north";
+var mnemonic = "space onion ripple observe cancel current leopard omit wreck wine private winner";

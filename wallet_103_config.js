@@ -1,1 +1,1 @@
-var mnemonic = "random soul until benefit elder ostrich sock angle ring talk photo dune";
+var mnemonic = "bridge gun job sort picnic enrich olive catch cotton elevator betray faint";

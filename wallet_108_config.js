@@ -1,1 +1,1 @@
-var mnemonic = "zone harsh find clinic swim round truly elephant book race cabbage usual";
+var mnemonic = "pony soccer sustain spin group artwork empower cushion useless only fashion decrease";

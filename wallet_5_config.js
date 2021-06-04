@@ -1,1 +1,1 @@
-var mnemonic = "spray pass cute oyster clog rifle dress decade initial awake return ghost";
+var mnemonic = "type begin inside shrimp police milk arena stereo faith orchard seat mirror";

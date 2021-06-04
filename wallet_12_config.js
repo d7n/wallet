@@ -1,1 +1,1 @@
-var mnemonic = "suspect drop comfort base blanket motor scatter common agent neutral catalog feel";
+var mnemonic = "wage maximum moon original type lecture craft impact pelican disagree trial response";

@@ -1,1 +1,1 @@
-var mnemonic = "include battle idle kingdom mimic rescue viable apology scheme grab bulk betray";
+var mnemonic = "slice exile net machine green music crucial crazy firm deliver outer bounce";

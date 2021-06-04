@@ -1,1 +1,1 @@
-var mnemonic = "umbrella melt sphere wisdom fine jacket walk mosquito load high opinion treat";
+var mnemonic = "cage small vast pudding hen chalk join sausage blouse sauce color off";

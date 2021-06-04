@@ -1,1 +1,1 @@
-var mnemonic = "aisle child hurdle jazz food weather trap stuff fruit praise warrior rail";
+var mnemonic = "category police flip bottom bridge steel meadow often danger copper roast drip";

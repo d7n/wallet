@@ -1,1 +1,1 @@
-var mnemonic = "shove maple torch air hen guard wave surround vote fun pizza arena";
+var mnemonic = "palace faculty aisle couch bounce nuclear invest today august glow cruise gift";

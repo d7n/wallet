@@ -1,1 +1,1 @@
-var mnemonic = "fly picnic dry embark alien slab confirm office poet only speak zebra";
+var mnemonic = "nation online junk hard snow more twist shove seminar casual churn upgrade";

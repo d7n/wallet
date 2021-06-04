@@ -1,1 +1,1 @@
-var mnemonic = "kiwi arrive seek pave steak kangaroo pool toe inquiry grit dinner inherit";
+var mnemonic = "toilet observe nest giggle arrest runway blur supply mercy poem poem clever";

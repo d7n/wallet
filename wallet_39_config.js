@@ -1,1 +1,1 @@
-var mnemonic = "power there ridge unhappy nerve repeat head diary trial clinic assist improve";
+var mnemonic = "birth obvious shove weekend glimpse weird spread fit step small suffer judge";

@@ -1,1 +1,1 @@
-var mnemonic = "true radio gauge leave traffic disease patch chicken mirror cherry crisp because";
+var mnemonic = "hat glow warfare hundred version moon panic income sing output frost dad";

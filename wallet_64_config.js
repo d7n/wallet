@@ -1,1 +1,1 @@
-var mnemonic = "kingdom venture pair security mountain guard excess edge town avoid fall three";
+var mnemonic = "modify kiss sound language ship easily cloud gift under marriage caught start";

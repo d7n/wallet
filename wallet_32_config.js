@@ -1,1 +1,1 @@
-var mnemonic = "slot kangaroo royal dilemma trim engine royal crowd friend series final siege";
+var mnemonic = "build pause buyer buzz pumpkin voyage armor another various regret antenna smile";

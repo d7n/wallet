@@ -1,1 +1,1 @@
-var mnemonic = "donor boss spring negative miracle spice rescue fee woman prison ship latin";
+var mnemonic = "figure accuse usual napkin tumble depart time side south one birth thumb";

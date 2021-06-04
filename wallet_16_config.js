@@ -1,1 +1,1 @@
-var mnemonic = "inflict output faith service roast fire cradle hour sell theme minute toddler";
+var mnemonic = "snake radar mention phrase square you asthma mammal weather insane race inflict";

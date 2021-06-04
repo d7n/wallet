@@ -1,1 +1,1 @@
-var mnemonic = "illness visit start exhaust palace wife label nut cushion curve quiz weekend";
+var mnemonic = "woman saddle correct waste leader extra call all wash crush reflect list";

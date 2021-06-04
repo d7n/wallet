@@ -1,1 +1,1 @@
-var mnemonic = "devote cart rebel grab victory symptom enlist domain scale ridge fabric evil";
+var mnemonic = "way hammer mistake comic discover will atom twice again ethics clever pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "useful estate eyebrow neutral veteran buzz jelly anxiety drink piece fine crystal";
+var mnemonic = "erase ozone sun senior diagram ahead isolate bomb keep cupboard faith peace";

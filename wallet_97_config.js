@@ -1,1 +1,1 @@
-var mnemonic = "wrap orchard appear garage mixed enable exclude exit expand zebra avocado income";
+var mnemonic = "rose twist gun winner field recall estate concert account ridge simple main";

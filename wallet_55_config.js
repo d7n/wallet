@@ -1,1 +1,1 @@
-var mnemonic = "nerve nominee little nerve throw card enroll public online judge holiday muffin";
+var mnemonic = "uniform salt sleep column dice venue view ketchup frame leopard slab process";

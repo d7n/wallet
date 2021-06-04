@@ -1,1 +1,1 @@
-var mnemonic = "cancel churn exercise mixed group short wonder sad vintage essay teach stay";
+var mnemonic = "poet bread okay unhappy suit journey wine throw endless balcony galaxy emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "gain concert gap dry crystal this vanish fall boring ahead bullet absurd";
+var mnemonic = "route urban quiz recall subway grain prison gloom day velvet example scissors";

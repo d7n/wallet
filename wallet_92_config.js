@@ -1,1 +1,1 @@
-var mnemonic = "economy solve blue exhaust ride retire twist detect copy outdoor faculty nasty";
+var mnemonic = "unknown license emerge hour click leisure magic expect march pipe helmet dove";

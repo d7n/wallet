@@ -1,1 +1,1 @@
-var mnemonic = "reveal endless fat round uniform canvas famous flight transfer tone live focus";
+var mnemonic = "bottom guide afraid pear endless kiss occur potato goat moment label fog";

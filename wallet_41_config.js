@@ -1,1 +1,1 @@
-var mnemonic = "vicious embody senior reason devote dune disagree diesel nest mobile enact current";
+var mnemonic = "warfare concert judge ugly slice panda toddler maximum earn shoulder notable innocent";

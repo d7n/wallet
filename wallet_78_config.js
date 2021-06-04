@@ -1,1 +1,1 @@
-var mnemonic = "romance artist vapor peace device offer across rather bronze winner cup trouble";
+var mnemonic = "blur fun auto fall hungry exchange auto merge useless cash clog fold";

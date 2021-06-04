@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow remind under stage sphere share rich only bamboo one find code";
+var mnemonic = "share sorry game essay copy search warfare curious butter aunt attract pole";

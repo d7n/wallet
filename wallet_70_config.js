@@ -1,1 +1,1 @@
-var mnemonic = "ivory throw parade reopen inform jealous scout satisfy mind salon cigar legal";
+var mnemonic = "lend slice stone corn bargain bag way leader plug spawn keep general";

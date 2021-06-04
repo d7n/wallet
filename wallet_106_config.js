@@ -1,1 +1,1 @@
-var mnemonic = "general sponsor list soon shell omit over gossip airport answer pelican enlist";
+var mnemonic = "giraffe purchase pudding monitor bread december spider lunch travel exclude envelope tower";

@@ -1,1 +1,1 @@
-var mnemonic = "usage peasant minor bid gym wrist digital ripple idle rate cave blood";
+var mnemonic = "churn cherry iron vehicle hollow trumpet trap hero river beauty industry dash";

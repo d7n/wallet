@@ -1,1 +1,1 @@
-var mnemonic = "scan dune robot wide fury because defy strong lazy lonely attack ignore";
+var mnemonic = "awkward wolf venture lyrics swallow sight exclude danger profit honey slam about";

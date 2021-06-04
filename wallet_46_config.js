@@ -1,1 +1,1 @@
-var mnemonic = "ugly cherry come injury caution senior group scare quiz toast velvet junk";
+var mnemonic = "use cruise mom brief truck gadget evil merit critic sunny intact define";

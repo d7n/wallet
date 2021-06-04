@@ -1,1 +1,1 @@
-var mnemonic = "spend rule east rocket under mesh arm pause stand spice license market";
+var mnemonic = "alien scale crawl iron glue unfair mother ginger robot expand struggle verify";

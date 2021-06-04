@@ -1,1 +1,1 @@
-var mnemonic = "feature fly bunker game narrow egg apology dilemma pride want oppose hole";
+var mnemonic = "inquiry must drum worth winter inmate soap upper funny athlete slush walnut";

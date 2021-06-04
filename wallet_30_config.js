@@ -1,1 +1,1 @@
-var mnemonic = "lens crush attend grab vacuum train spend brown uncover truth figure imitate";
+var mnemonic = "govern brown sunny immune frost hurdle picnic milk chuckle elder canoe company";

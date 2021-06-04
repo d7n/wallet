@@ -1,1 +1,1 @@
-var mnemonic = "bag forward hotel crawl fix gift afford wrestle indicate grit cricket borrow";
+var mnemonic = "hard move foot swear slice swear boss book warm potato entire crew";

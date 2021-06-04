@@ -1,1 +1,1 @@
-var mnemonic = "series remind bike trophy clutch unfold plate ghost deputy praise bargain there";
+var mnemonic = "picnic grocery combine volume coral logic north family kitten brass armor book";

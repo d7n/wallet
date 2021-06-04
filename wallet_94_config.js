@@ -1,1 +1,1 @@
-var mnemonic = "appear gasp tape cart stock stove jeans learn tape fox wrap raccoon";
+var mnemonic = "put eight toddler silver craft indicate sister bridge jealous spell stem answer";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle plug horror curtain diamond park jaguar dolphin true vintage kid ocean";
+var mnemonic = "wood fury budget useless receive indicate erupt eyebrow spot wide brief quit";

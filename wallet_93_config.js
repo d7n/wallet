@@ -1,1 +1,1 @@
-var mnemonic = "you become lyrics useful tissue morning monkey member gap arrow mutual latin";
+var mnemonic = "curtain cool acquire crouch solution friend awake flavor donate stereo input home";

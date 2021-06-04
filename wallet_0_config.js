@@ -1,1 +1,1 @@
-var mnemonic = "begin jelly clump ugly jaguar nerve panther antenna useless garden gentle manage";
+var mnemonic = "bar quarter slide match tank follow minute rain flag cabin smooth nose";

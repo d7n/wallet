@@ -1,1 +1,1 @@
-var mnemonic = "address umbrella syrup scene equip vital upgrade balcony fresh you harvest crime";
+var mnemonic = "movie fan accuse hold zebra bid rose venue rebuild journey mutual tongue";

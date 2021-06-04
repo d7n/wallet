@@ -1,1 +1,1 @@
-var mnemonic = "suggest spawn crush defense off taste rigid fence pole void trim kite";
+var mnemonic = "rookie disagree crush any rely rely render cabin sick enforce size relax";

@@ -1,1 +1,1 @@
-var mnemonic = "cook employ crawl nut priority soon choice thought just license tonight drum";
+var mnemonic = "exile grief cruel obtain return erosion illegal monkey doll avocado hard world";

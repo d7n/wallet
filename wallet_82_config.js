@@ -1,1 +1,1 @@
-var mnemonic = "fall siren analyst impact sibling citizen crush staff wrestle parade pole damage";
+var mnemonic = "assist actual mystery armor dynamic vacuum rely breeze brick fringe sound burger";

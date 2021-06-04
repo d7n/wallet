@@ -1,1 +1,1 @@
-var mnemonic = "custom senior viable valve twenty two possible fresh prosper vault alarm power";
+var mnemonic = "tobacco engage road swing match sample dish another horse cry glove orphan";

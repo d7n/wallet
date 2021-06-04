@@ -1,1 +1,1 @@
-var mnemonic = "practice expand lottery tortoise shaft excite solution fish recycle session correct logic";
+var mnemonic = "silk enlist kiss daughter debate creek eyebrow net caught drive couch nose";
