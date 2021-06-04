@@ -1,1 +1,1 @@
-var mnemonic = "science innocent diary catch tragic ethics injury supply crash suspect divert expire";
+var mnemonic = "gap pigeon twin crash reflect under found cross bottom simple hire drink";

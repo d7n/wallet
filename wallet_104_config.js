@@ -1,1 +1,1 @@
-var mnemonic = "ramp small phone spoon pipe best define flock faint devote march doll";
+var mnemonic = "silk stable pottery acoustic error can grit path slice able fan fix";

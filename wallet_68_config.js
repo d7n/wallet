@@ -1,1 +1,1 @@
-var mnemonic = "release brain hair plastic rhythm palace predict relief own arena across begin";
+var mnemonic = "bitter plate priority crouch distance dirt feel group thrive grow oyster victory";

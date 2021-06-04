@@ -1,1 +1,1 @@
-var mnemonic = "crucial enroll fault lazy idea castle slam betray force eyebrow bridge sun";
+var mnemonic = "lemon average leisure roof fish shoot pyramid access enhance goddess fortune middle";

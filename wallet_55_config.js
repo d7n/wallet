@@ -1,1 +1,1 @@
-var mnemonic = "ranch witness remember rural direct eyebrow ski elevator credit dust govern enroll";
+var mnemonic = "smooth ready afraid duty tag evolve bar crisp spider submit nature rare";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity fossil anxiety bachelor uphold accuse clinic fragile snap tennis smart limit";
+var mnemonic = "quiz apple language struggle theory sheriff trick digital dawn eyebrow daughter amateur";

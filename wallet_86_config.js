@@ -1,1 +1,1 @@
-var mnemonic = "floor hazard trophy mechanic property long young mouse squirrel when enjoy myself";
+var mnemonic = "witness tragic label pistol grass balcony fat patient perfect giraffe fatal tongue";

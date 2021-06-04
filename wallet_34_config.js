@@ -1,1 +1,1 @@
-var mnemonic = "seed vast assist exotic ozone current license ten title indicate actor length";
+var mnemonic = "drastic sausage grit happy alter sadness mirror scout shed brother velvet share";

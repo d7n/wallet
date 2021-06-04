@@ -1,1 +1,1 @@
-var mnemonic = "gown firm weapon empty curtain drift engage memory junior pink clog wealth";
+var mnemonic = "gate supply afraid layer produce patch replace include solution anger bright error";

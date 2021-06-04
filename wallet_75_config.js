@@ -1,1 +1,1 @@
-var mnemonic = "present fruit edit divide staff eager light crime violin neglect pink slow";
+var mnemonic = "much food human benefit question bench rare asthma drift hair divorce wrong";

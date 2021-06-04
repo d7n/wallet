@@ -1,1 +1,1 @@
-var mnemonic = "gossip street dinosaur trick galaxy planet humble pear lens asthma romance position";
+var mnemonic = "any mountain ancient winter gorilla barely bronze practice erase soon domain sword";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige spread find mean almost bullet risk denial elephant flight tool possible";
+var mnemonic = "floor scare grant kind sight stick quote aunt bind law tower above";

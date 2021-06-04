@@ -1,1 +1,1 @@
-var mnemonic = "govern fine bridge unable soap better balcony tree forget valve bid sister";
+var mnemonic = "book antenna domain spread vital voyage planet consider measure black dentist become";

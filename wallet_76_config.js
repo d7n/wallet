@@ -1,1 +1,1 @@
-var mnemonic = "rug remove horse course govern pencil best glad swift ready boss front";
+var mnemonic = "hurdle wedding half frog replace huge where tired render supply end venue";

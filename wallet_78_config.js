@@ -1,1 +1,1 @@
-var mnemonic = "bomb beach sure school silk chief garden ball pool surprise winter mammal";
+var mnemonic = "axis wrestle cricket run axis good great chuckle gallery tiny venture candy";

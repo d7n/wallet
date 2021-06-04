@@ -1,1 +1,1 @@
-var mnemonic = "wonder frog vintage arrive speak unable submit novel cliff reform split doctor";
+var mnemonic = "youth plastic magnet relax virus appear buddy print bleak ship cotton food";

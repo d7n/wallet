@@ -1,1 +1,1 @@
-var mnemonic = "panel hire rent carbon torch rather drama repeat chalk jelly vocal hundred";
+var mnemonic = "victory convince female amused letter merge man vibrant later proof potato bracket";

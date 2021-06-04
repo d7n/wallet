@@ -1,1 +1,1 @@
-var mnemonic = "hope swear empower simple food spell awesome daring fashion picture slight much";
+var mnemonic = "excess dwarf trophy weasel merit parent raven purchase debris cook any crisp";

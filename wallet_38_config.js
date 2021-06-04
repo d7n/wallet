@@ -1,1 +1,1 @@
-var mnemonic = "hold acoustic depart anchor shoe december orphan arctic beauty promote under deer";
+var mnemonic = "fame brass acoustic domain image mad dilemma detail target wolf capable loop";

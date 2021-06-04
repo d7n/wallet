@@ -1,1 +1,1 @@
-var mnemonic = "erupt festival cheese shield rib work lunar crowd permit knock odor chef";
+var mnemonic = "day force fuel trigger surface unhappy witness letter detail timber glance regret";

@@ -1,1 +1,1 @@
-var mnemonic = "copper plate mask draft bounce priority dish problem shell sea begin sustain";
+var mnemonic = "certain wisdom you matter silver secret just canoe hospital exhaust mother half";

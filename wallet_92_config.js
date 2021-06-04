@@ -1,1 +1,1 @@
-var mnemonic = "audit swing brisk pill discover scale rice old frame curve appear rent";
+var mnemonic = "nest mobile clump frequent romance act square pistol cupboard skin curious adjust";

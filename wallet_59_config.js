@@ -1,1 +1,1 @@
-var mnemonic = "crack design grace pulse scissors enforce slot input merit address busy gun";
+var mnemonic = "blouse wire imitate knife hybrid liar prevent mammal animal render mansion draw";

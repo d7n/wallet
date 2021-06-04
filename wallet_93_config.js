@@ -1,1 +1,1 @@
-var mnemonic = "sick monster drastic wrap lesson series caught panda manual prosper uniform peasant";
+var mnemonic = "spring inhale jar rare balcony claim science onion ordinary merry riot into";

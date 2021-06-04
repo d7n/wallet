@@ -1,1 +1,1 @@
-var mnemonic = "merry tree flavor omit detect kingdom bachelor wisdom silver source tower often";
+var mnemonic = "version couple victory sting inner grid afraid raven regret real rare liquid";

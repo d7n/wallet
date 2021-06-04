@@ -1,1 +1,1 @@
-var mnemonic = "baby file predict kite abuse wrong moral buffalo virus body novel clump";
+var mnemonic = "derive caution siren reunion snake trap rib pass shaft aim away ability";

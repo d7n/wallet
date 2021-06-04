@@ -1,1 +1,1 @@
-var mnemonic = "boss they ill punch owner question vessel lonely carbon demand season appear";
+var mnemonic = "taxi gain dad hotel frequent mercy tunnel pluck december target drastic jacket";

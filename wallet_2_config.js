@@ -1,1 +1,1 @@
-var mnemonic = "swap shy ethics option coin kid spin erase trade myself misery conduct";
+var mnemonic = "mad neutral upset witness trick arrow return design alien wise pelican gloom";

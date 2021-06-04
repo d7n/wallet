@@ -1,1 +1,1 @@
-var mnemonic = "random awkward mechanic guilt monster deer unaware jump ramp room fan fiscal";
+var mnemonic = "marriage switch board ritual speak drop raise tennis night dry purpose shiver";

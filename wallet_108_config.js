@@ -1,1 +1,1 @@
-var mnemonic = "away seven sea visa enlist tower afford cute error agent antique cigar";
+var mnemonic = "strategy faculty sugar december ski blur dawn burden output script visa silk";

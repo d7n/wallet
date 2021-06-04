@@ -1,1 +1,1 @@
-var mnemonic = "hard bundle rigid helmet junk miracle subject daring raise aim gun place";
+var mnemonic = "error middle sight fetch amateur inch again enjoy that rather rocket clutch";

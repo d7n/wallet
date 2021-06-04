@@ -1,1 +1,1 @@
-var mnemonic = "primary source act fox ridge life charge bitter donate capital admit spike";
+var mnemonic = "kitchen prefer relief choice vivid country depend pull steel place morning predict";

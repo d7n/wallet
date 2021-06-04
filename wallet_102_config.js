@@ -1,1 +1,1 @@
-var mnemonic = "riot boat bomb series milk mind talent online close swallow ivory boring";
+var mnemonic = "sunny industry coil inspire project dove around sun perfect tilt roast neck";

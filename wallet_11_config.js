@@ -1,1 +1,1 @@
-var mnemonic = "seat grace century faith caution mirror rescue twin smooth pony struggle solution";
+var mnemonic = "battle tool feel clerk decorate force pill artwork depth cry myth cross";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue border cry stay sense thunder public govern cute answer glance electric";
+var mnemonic = "wish vague velvet garlic crush chimney decrease rug protect damp element supreme";

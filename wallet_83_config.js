@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon gift casino poverty employ situate patrol eternal brother awful husband dentist";
+var mnemonic = "glide escape peanut rough change minimum bridge change column recall local security";

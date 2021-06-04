@@ -1,1 +1,1 @@
-var mnemonic = "oxygen lottery pretty first divide essence daughter avoid furnace derive follow level";
+var mnemonic = "goddess stem snake write lesson solid shoot before enact stool hotel time";

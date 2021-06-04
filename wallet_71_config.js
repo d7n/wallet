@@ -1,1 +1,1 @@
-var mnemonic = "convince bird tourist recycle inner mansion you flavor hungry such fame violin";
+var mnemonic = "quiz attend treat mystery please climb market debris drip twist fun gate";

@@ -1,1 +1,1 @@
-var mnemonic = "melt senior parrot regular exchange angry dwarf arm ecology duty stairs vast";
+var mnemonic = "fluid afraid bleak honey moon rule achieve output filter modify fury strategy";

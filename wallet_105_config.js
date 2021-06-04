@@ -1,1 +1,1 @@
-var mnemonic = "firm pioneer lab system lemon story purse oyster exit country increase fringe";
+var mnemonic = "cloud tank great hurdle they voice idle annual balcony butter exchange broken";

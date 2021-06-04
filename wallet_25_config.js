@@ -1,1 +1,1 @@
-var mnemonic = "level involve beauty neck prize multiply swing beauty ankle castle either evoke";
+var mnemonic = "sorry tray panther clip myth sorry entry aim trap depend exile spell";

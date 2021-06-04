@@ -1,1 +1,1 @@
-var mnemonic = "sister trophy fuel ill diagram manage until pair have frame liquid scan";
+var mnemonic = "label child swallow art air immense state second wait fluid fold hub";

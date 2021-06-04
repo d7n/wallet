@@ -1,1 +1,1 @@
-var mnemonic = "predict turn position secret ranch apart initial course army treat hawk host";
+var mnemonic = "boost engine index hobby differ sand crater blade blush announce chase marble";

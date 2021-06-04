@@ -1,1 +1,1 @@
-var mnemonic = "cherry olive unusual diesel stone music immense gallery million decide acid aunt";
+var mnemonic = "acid enemy decorate impact ethics airport girl birth peace gain mail coach";

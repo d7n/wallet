@@ -1,1 +1,1 @@
-var mnemonic = "arena climb rapid toss budget purse timber early index flight snap type";
+var mnemonic = "chicken dad book mobile rubber wheel shop absorb saddle resource soup bulb";

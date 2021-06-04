@@ -1,1 +1,1 @@
-var mnemonic = "rural pledge speak write swift impulse badge impose impulse wasp hurt pelican";
+var mnemonic = "follow useless list ginger buddy remind start elevator lizard venture time great";

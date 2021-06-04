@@ -1,1 +1,1 @@
-var mnemonic = "deny verb arrest clay human delay chat display attract fix sport ignore";
+var mnemonic = "camp trial gift invite abandon benefit oval combine start milk expect rack";

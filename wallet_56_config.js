@@ -1,1 +1,1 @@
-var mnemonic = "burden monkey item stone wild twist route yard tomorrow tiny dress myself";
+var mnemonic = "kangaroo person fluid depend this edit month solve fitness absurd slab menu";

@@ -1,1 +1,1 @@
-var mnemonic = "young galaxy broom damp release crater lunch swear bike episode bind cause";
+var mnemonic = "vocal ability dish cry unveil inflict nuclear deer mystery announce trial shrug";

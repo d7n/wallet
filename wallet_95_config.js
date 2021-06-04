@@ -1,1 +1,1 @@
-var mnemonic = "sad boring mix term leader notable edge garage token pattern squirrel keep";
+var mnemonic = "noise aspect pilot scatter quick twice problem void verb index brisk clever";

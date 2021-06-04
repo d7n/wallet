@@ -1,1 +1,1 @@
-var mnemonic = "heart army reduce moment empower spend work gas flight suffer slot actor";
+var mnemonic = "index party valve trim curve enemy cabin leg peace bamboo segment wreck";

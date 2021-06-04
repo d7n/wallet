@@ -1,1 +1,1 @@
-var mnemonic = "reduce garlic online hidden ridge pizza hungry medal try horse tube winner";
+var mnemonic = "baby idle soldier wrestle awkward strategy file happy sick walnut mimic inner";

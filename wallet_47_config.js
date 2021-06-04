@@ -1,1 +1,1 @@
-var mnemonic = "cycle prosper duty sure vessel potato face sand rocket alarm thing worry";
+var mnemonic = "biology color admit oven update upgrade harsh large expect cabbage coral decrease";

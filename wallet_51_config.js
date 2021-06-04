@@ -1,1 +1,1 @@
-var mnemonic = "unaware top thrive waste actor wink lend sauce file earth often surface";
+var mnemonic = "jealous wing lottery hybrid venture copy hollow identify switch steak club snack";

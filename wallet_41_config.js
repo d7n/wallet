@@ -1,1 +1,1 @@
-var mnemonic = "witness file purse artwork sun tuition slim cherry dance soldier opera diagram";
+var mnemonic = "produce route result axis vocal shoot bonus health gravity coil sustain type";

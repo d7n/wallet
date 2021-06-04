@@ -1,1 +1,1 @@
-var mnemonic = "life romance fiscal wool candy screen skill damage zoo bubble smart bunker";
+var mnemonic = "govern couch arrow insane smile solid burger fox design tiger squirrel seven";

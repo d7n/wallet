@@ -1,1 +1,1 @@
-var mnemonic = "regular pull wonder income minimum have million social anxiety torch swallow light";
+var mnemonic = "finish sword glory dash budget supreme symbol armor soon credit idle yellow";

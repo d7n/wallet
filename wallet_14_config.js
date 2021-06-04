@@ -1,1 +1,1 @@
-var mnemonic = "bundle casino hen fame banner sauce live stick eight image bind nature";
+var mnemonic = "promote viable network gossip crouch essay minimum police fatigue edit fantasy casino";

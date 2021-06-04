@@ -1,1 +1,1 @@
-var mnemonic = "consider spy turkey also butter vicious talent push material sphere fabric evoke";
+var mnemonic = "caught draft library provide defy border one rent science clip hazard label";

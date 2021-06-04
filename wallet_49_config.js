@@ -1,1 +1,1 @@
-var mnemonic = "engage message wise unknown foil eight section version shy lemon stone main";
+var mnemonic = "idea play offer pelican ticket deputy very address exhibit script jacket enable";

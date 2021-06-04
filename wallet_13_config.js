@@ -1,1 +1,1 @@
-var mnemonic = "first music confirm heavy actual aware million ginger gasp taste zone illegal";
+var mnemonic = "true powder inch fiber bid forum intact spring soft tell lab chapter";

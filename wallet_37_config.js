@@ -1,1 +1,1 @@
-var mnemonic = "hidden nerve figure december share punch fan decline boost nest until cannon";
+var mnemonic = "just vote flip visual online improve lab glow bar good thrive bulb";

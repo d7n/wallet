@@ -1,1 +1,1 @@
-var mnemonic = "there depend accuse impose exclude insect purse civil cabbage bullet there wealth";
+var mnemonic = "human debris apple frozen bag torch unique scrub dune pond pluck father";

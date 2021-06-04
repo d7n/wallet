@@ -1,1 +1,1 @@
-var mnemonic = "trade rain ill donor eagle eagle loop among rice anchor connect boring";
+var mnemonic = "fragile truly bunker alert inquiry story humble return blanket hair swap turn";

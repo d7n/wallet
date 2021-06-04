@@ -1,1 +1,1 @@
-var mnemonic = "regular head pretty key hole play wagon decade ring garment jelly scatter";
+var mnemonic = "awkward drip tomato thing memory limb current achieve tissue milk minute basket";

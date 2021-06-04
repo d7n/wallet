@@ -1,1 +1,1 @@
-var mnemonic = "fiber east vehicle thing hospital spatial inflict journey olive manage galaxy dog";
+var mnemonic = "improve spread produce embark castle royal finish mass aunt belt tomorrow fog";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist wine barrel dragon clinic collect start inch casual leave voice entire";
+var mnemonic = "fever often play idle fork number keep ill airport fluid awful crowd";

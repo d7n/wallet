@@ -1,1 +1,1 @@
-var mnemonic = "discover gossip citizen under tail frequent glad economy churn grid evidence tonight";
+var mnemonic = "you cluster panel visit trumpet stamp recall essence genre novel have battle";

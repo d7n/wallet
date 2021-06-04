@@ -1,1 +1,1 @@
-var mnemonic = "prevent green way category undo humor any trial viable setup silver person";
+var mnemonic = "chef cupboard sorry rural conduct charge auto market silver dove august employ";

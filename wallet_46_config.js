@@ -1,1 +1,1 @@
-var mnemonic = "endless cotton buddy million brain bulk direct purchase inherit share artist like";
+var mnemonic = "pear dynamic round card input pottery shoot speak humor spoon add hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt purse laugh party catalog safe invite apple zebra bunker stool fat";
+var mnemonic = "educate vapor black raven wreck mountain print timber jar where ordinary find";

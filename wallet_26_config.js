@@ -1,1 +1,1 @@
-var mnemonic = "giraffe worth convince chronic brain virus jeans girl brush dynamic vacant parent";
+var mnemonic = "peasant slice hazard embody critic always intact win enact firm benefit gospel";

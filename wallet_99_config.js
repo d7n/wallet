@@ -1,1 +1,1 @@
-var mnemonic = "sheriff chaos style nose scene biology inquiry glance seven crane wall distance";
+var mnemonic = "accident impact copper nerve gap unable pond recipe asthma devote manual cruise";

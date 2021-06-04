@@ -1,1 +1,1 @@
-var mnemonic = "fitness have suspect bind crawl tube denial opera senior inquiry reward soccer";
+var mnemonic = "settle claw okay around inch tube page embody into duck display hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "quit kiwi charge tray oyster comic guilt open number worth bicycle proud";
+var mnemonic = "fury accident physical mail lunar knock injury pipe patient dutch delay almost";

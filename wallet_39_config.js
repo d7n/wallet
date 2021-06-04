@@ -1,1 +1,1 @@
-var mnemonic = "bird august you soda fossil spoil jacket opinion scan obey acquire tray";
+var mnemonic = "task trip tourist drama coffee pupil asthma story slim cry bus make";

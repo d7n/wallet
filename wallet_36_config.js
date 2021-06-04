@@ -1,1 +1,1 @@
-var mnemonic = "equal rifle crucial message cigar van rebel raw puppy wagon bless sleep";
+var mnemonic = "eternal spirit model shaft like february lunar crash venture orchard nice magic";

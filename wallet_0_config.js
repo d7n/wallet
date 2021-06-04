@@ -1,1 +1,1 @@
-var mnemonic = "head minimum often gentle inject town march dignity kit blood occur spell";
+var mnemonic = "derive save right kitten cream buffalo quick goat garbage kiwi squirrel before";

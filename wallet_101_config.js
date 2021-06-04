@@ -1,1 +1,1 @@
-var mnemonic = "law female rebel rifle wise ordinary charge short pepper text climb chief";
+var mnemonic = "battle diamond oak chapter hold dawn pioneer isolate soccer wasp place portion";

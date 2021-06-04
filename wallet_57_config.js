@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tribe gate glide fuel peasant claim disagree core upset legal salute";
+var mnemonic = "video rose six word kiss cycle artist shoot junk fox thank trip";

@@ -1,1 +1,1 @@
-var mnemonic = "bus buzz few stock injury side gold nerve market debate hill emerge";
+var mnemonic = "dress elephant true suit chat legal apart desert remind deal whip blast";

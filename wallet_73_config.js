@@ -1,1 +1,1 @@
-var mnemonic = "armor tuition water clerk coil pretty blue load excess pencil dune cloud";
+var mnemonic = "window board crumble nasty solid hat network child tone start chaos display";

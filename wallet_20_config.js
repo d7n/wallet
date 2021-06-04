@@ -1,1 +1,1 @@
-var mnemonic = "pull diesel above pattern curve pony tube still below dove rapid pear";
+var mnemonic = "finger relief federal noise napkin vote actual oak fence stick expose giant";

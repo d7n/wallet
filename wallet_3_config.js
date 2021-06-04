@@ -1,1 +1,1 @@
-var mnemonic = "agree usual unlock jazz law evoke trade foam assume edge hundred predict";
+var mnemonic = "army cube agent curious alert clever useful cash raw dynamic scissors kit";

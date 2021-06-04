@@ -1,1 +1,1 @@
-var mnemonic = "patch school spoon super budget fluid price supply drink damage carbon taste";
+var mnemonic = "best reward fish fitness warm smart axis scissors hair rival mandate limb";

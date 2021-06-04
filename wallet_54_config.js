@@ -1,1 +1,1 @@
-var mnemonic = "road tail defense reject reopen animal melt pelican mushroom blade race gesture";
+var mnemonic = "rival clap fee situate aunt bicycle manual tongue vital grain text fitness";

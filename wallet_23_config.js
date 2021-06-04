@@ -1,1 +1,1 @@
-var mnemonic = "fan deny solve hamster key proud spider clog accident shock mean wear";
+var mnemonic = "danger swear payment pass maximum jar stage chalk arm belt popular foam";

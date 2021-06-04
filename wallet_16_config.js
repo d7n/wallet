@@ -1,1 +1,1 @@
-var mnemonic = "poem job educate actual donkey name source suit main mercy paper oyster";
+var mnemonic = "volume slab million opinion zone sniff fluid devote glass simple pattern wait";

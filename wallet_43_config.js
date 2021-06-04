@@ -1,1 +1,1 @@
-var mnemonic = "season flag blush gloom disorder edit priority arctic million find left drive";
+var mnemonic = "payment void giggle future toe giant couch crash piano raccoon equal cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "ice scrap burst equip pull leave midnight cute luggage easily patrol destroy";
+var mnemonic = "actor cable toward artwork boss theory flight become eagle wrist snake neither";

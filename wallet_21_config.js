@@ -1,1 +1,1 @@
-var mnemonic = "lake face ivory arena fortune creek coil east photo find onion matrix";
+var mnemonic = "beach desert frame drink winter cave wedding exchange truly anxiety corn lion";

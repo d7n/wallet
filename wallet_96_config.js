@@ -1,1 +1,1 @@
-var mnemonic = "music animal shed obscure found honey drive soul record syrup warfare purpose";
+var mnemonic = "image style bridge truck limb obey tattoo notable beauty hockey proud rapid";

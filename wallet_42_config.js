@@ -1,1 +1,1 @@
-var mnemonic = "federal once wise bulk fashion aunt chef bracket hawk best behave legend";
+var mnemonic = "net gown order poverty quantum pizza grab tumble aim collect bracket dolphin";

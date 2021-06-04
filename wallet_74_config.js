@@ -1,1 +1,1 @@
-var mnemonic = "together palm reason echo blood hole clay main crack apple fit depth";
+var mnemonic = "scrap shiver remove hidden accuse movie buyer hour beef link bench catalog";

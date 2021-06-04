@@ -1,1 +1,1 @@
-var mnemonic = "short baby primary kiss patient silk scissors clean tissue behind catch liberty";
+var mnemonic = "rose duty spring planet couple earth immune farm bullet bunker unlock time";

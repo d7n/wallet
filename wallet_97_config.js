@@ -1,1 +1,1 @@
-var mnemonic = "actor happy riot item fence tuition kiss envelope cliff jazz antenna magnet";
+var mnemonic = "elder wheel decade omit split turn appear local middle delay coast panther";
