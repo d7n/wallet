@@ -1,1 +1,1 @@
-var mnemonic = "often medal immune copy release spell frog long cargo fall shoulder shove";
+var mnemonic = "antenna target during level pelican hover inherit tell salon riot hover net";

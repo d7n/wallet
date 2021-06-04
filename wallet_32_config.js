@@ -1,1 +1,1 @@
-var mnemonic = "disagree lesson gesture reduce rookie airport drastic bottom letter smoke kiwi dilemma";
+var mnemonic = "uphold cactus harvest sugar armed stay chase purpose quote slow rack aisle";

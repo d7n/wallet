@@ -1,1 +1,1 @@
-var mnemonic = "silver glory absent zero prefer frost fit month shove always cart pig";
+var mnemonic = "zebra leaf blouse practice wish trigger lion holiday saddle upgrade auction tissue";

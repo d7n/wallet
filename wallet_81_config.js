@@ -1,1 +1,1 @@
-var mnemonic = "elbow invite innocent genuine favorite cancel ski exhaust guess crunch shed road";
+var mnemonic = "match develop lamp sausage pool century emerge impulse regular holiday street crash";

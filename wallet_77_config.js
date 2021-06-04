@@ -1,1 +1,1 @@
-var mnemonic = "coin giggle short myth perfect lunar possible acid range image limit lounge";
+var mnemonic = "indoor soap junior uniform toss thank regular lift describe invite crucial since";

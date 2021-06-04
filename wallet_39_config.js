@@ -1,1 +1,1 @@
-var mnemonic = "together wage rude olympic high weapon soda tent window onion hen soccer";
+var mnemonic = "enemy vehicle age point excess tomato rifle cupboard latin blast relief render";

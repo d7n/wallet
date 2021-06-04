@@ -1,1 +1,1 @@
-var mnemonic = "chaos tag treat scatter exile village quiz bone royal excite mechanic forward";
+var mnemonic = "sport domain fame abuse guide wreck imitate grow journey rapid rubber minute";

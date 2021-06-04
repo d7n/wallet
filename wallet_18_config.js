@@ -1,1 +1,1 @@
-var mnemonic = "neutral shell vast sell tongue blade motion express model remember addict brief";
+var mnemonic = "chicken cash tribe bottom accuse valley badge biology poem saddle imitate toe";

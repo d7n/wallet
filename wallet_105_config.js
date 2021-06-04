@@ -1,1 +1,1 @@
-var mnemonic = "tiger history top say goddess joy deny kiwi young boss letter pyramid";
+var mnemonic = "regular wealth funny culture pulse reform conduct sing observe timber rotate mosquito";

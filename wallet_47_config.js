@@ -1,1 +1,1 @@
-var mnemonic = "width spread occur dad sight brisk cotton book popular leopard image fatal";
+var mnemonic = "ice edge garden interest tank course orchard thunder gap tongue soldier very";

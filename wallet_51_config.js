@@ -1,1 +1,1 @@
-var mnemonic = "oak swear gate donate clarify foot melt concert road dilemma submit frequent";
+var mnemonic = "all maple fog nuclear joy hen theory melody injury eight invest rack";

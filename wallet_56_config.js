@@ -1,1 +1,1 @@
-var mnemonic = "novel desert rifle canvas worry zoo file become defy salad save cable";
+var mnemonic = "river wheat asset hint staff raven purpose call undo tattoo era vanish";

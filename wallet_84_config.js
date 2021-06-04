@@ -1,1 +1,1 @@
-var mnemonic = "anxiety shield soccer language vendor mass riot calm river vehicle wealth october";
+var mnemonic = "car tiny diagram begin wear citizen fragile shop uncle afford mention sick";

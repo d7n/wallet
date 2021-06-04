@@ -1,1 +1,1 @@
-var mnemonic = "exit galaxy snap core scan arrow bamboo clutch eye ceiling crew orphan";
+var mnemonic = "engage aware nut maximum slide trial text suffer bracket ordinary garment deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "desert inmate milk milk electric attract reform cigar slow garage quantum current";
+var mnemonic = "joke slow armor grow priority early target usage hospital era output fox";

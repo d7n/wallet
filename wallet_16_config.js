@@ -1,1 +1,1 @@
-var mnemonic = "capital bike tenant pass concert angry code chunk awesome grocery tell subject";
+var mnemonic = "average tongue calm entry mention vintage avoid result derive noise lake permit";

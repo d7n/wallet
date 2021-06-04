@@ -1,1 +1,1 @@
-var mnemonic = "feature transfer blast crumble snake alley junk two frequent weapon diesel point";
+var mnemonic = "tail antenna two piece bullet scorpion parade weird divert engine butter limit";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold hole cattle tag asthma ocean champion shaft boss chief minimum letter";
+var mnemonic = "figure chair palm grid curve name ride certain pupil battle image penalty";

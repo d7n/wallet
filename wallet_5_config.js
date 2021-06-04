@@ -1,1 +1,1 @@
-var mnemonic = "cereal negative reflect good sword essence leg virus robust view change gossip";
+var mnemonic = "spoon abuse island action aim happy north curve fire convince flame pelican";

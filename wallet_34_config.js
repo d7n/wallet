@@ -1,1 +1,1 @@
-var mnemonic = "hollow pig turtle attack gate asset piece soap ten short grid neutral";
+var mnemonic = "churn very include grit flavor hen problem couch kick adapt jelly connect";

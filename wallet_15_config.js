@@ -1,1 +1,1 @@
-var mnemonic = "owner quick exact space time alley ginger slot february pioneer clutch busy";
+var mnemonic = "brown slice school lounge lady film loop huge indoor rebuild wait protect";

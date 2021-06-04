@@ -1,1 +1,1 @@
-var mnemonic = "erosion output nothing fence stairs give glide era warrior enhance stick tackle";
+var mnemonic = "drop wreck pumpkin submit guess artwork act supreme actress entire vocal dentist";

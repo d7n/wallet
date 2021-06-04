@@ -1,1 +1,1 @@
-var mnemonic = "afraid saddle elegant menu liar zebra scheme mom more cake lonely proud";
+var mnemonic = "raw come weasel consider soon expire list asset club crazy harsh jewel";

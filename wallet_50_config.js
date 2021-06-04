@@ -1,1 +1,1 @@
-var mnemonic = "remove ask matrix naive thunder crop yard view cricket pact bunker flag";
+var mnemonic = "obey west cancel actual eye chicken ask float orient screen source inspire";

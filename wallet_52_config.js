@@ -1,1 +1,1 @@
-var mnemonic = "bachelor approve try nest okay record empty guard party fat nature envelope";
+var mnemonic = "gift guitar cool crouch own crane spawn attract acquire artefact term insect";

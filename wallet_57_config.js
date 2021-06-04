@@ -1,1 +1,1 @@
-var mnemonic = "warfare flame supply lucky cricket shed become carpet shift bind pulp proof";
+var mnemonic = "venue sustain burger buddy leaf dash giggle surface yard obey faculty fix";

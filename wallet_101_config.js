@@ -1,1 +1,1 @@
-var mnemonic = "make eyebrow bonus flight rather reform ask toddler manual auction post stuff";
+var mnemonic = "inmate dress bracket access wheel result inhale bus hen muffin apart raccoon";

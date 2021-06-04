@@ -1,1 +1,1 @@
-var mnemonic = "feel alter sugar oppose humor satisfy payment bulb goat thumb hour deal";
+var mnemonic = "diesel parrot flash across another scout excuse chalk salute eight sunset frozen";

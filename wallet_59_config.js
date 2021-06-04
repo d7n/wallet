@@ -1,1 +1,1 @@
-var mnemonic = "denial give case hockey velvet ketchup material festival lonely relax used tennis";
+var mnemonic = "plug swarm pizza voice want old suit click fetch project entire entire";

@@ -1,1 +1,1 @@
-var mnemonic = "moral wheat hotel yard reflect sad discover index glide version laugh clip";
+var mnemonic = "maximum physical grit silk topple silent caught develop october nice joke doctor";

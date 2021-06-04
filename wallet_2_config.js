@@ -1,1 +1,1 @@
-var mnemonic = "tumble drink slide february stomach pact bag learn debris captain glue motor";
+var mnemonic = "step almost coin nothing slush bleak narrow once inner fold permit exhaust";

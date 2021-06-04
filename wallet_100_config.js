@@ -1,1 +1,1 @@
-var mnemonic = "supply empower future canal man rocket mule country hidden zone woman erode";
+var mnemonic = "pact jump insane best shield swing hire wagon crater picnic art surprise";

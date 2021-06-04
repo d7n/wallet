@@ -1,1 +1,1 @@
-var mnemonic = "bundle subway cake become miss anxiety awkward clarify yellow test hungry iron";
+var mnemonic = "hobby hero author cause fluid corn rescue imitate team lounge expect quote";

@@ -1,1 +1,1 @@
-var mnemonic = "lift galaxy address record donkey survey where spot wave mule picture drum";
+var mnemonic = "estate fan inch grab pig attack inmate carry nest decrease unable fiscal";

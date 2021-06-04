@@ -1,1 +1,1 @@
-var mnemonic = "rack expire over film coconut suggest what fox cancel festival tornado actor";
+var mnemonic = "dutch gossip smoke myself device scene crumble merry define record amused rain";

@@ -1,1 +1,1 @@
-var mnemonic = "produce exile must around speed filter choose sheriff basket best fix aspect";
+var mnemonic = "toilet garment syrup potato satoshi split minute success grid venue beauty market";

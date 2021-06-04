@@ -1,1 +1,1 @@
-var mnemonic = "grab people park must genuine hotel bike taxi symbol forward solar project";
+var mnemonic = "other arrest blur occur recall lady worry order winner account inch until";

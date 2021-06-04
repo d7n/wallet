@@ -1,1 +1,1 @@
-var mnemonic = "nation swing vacant dust middle sustain legend dignity concert penalty two verify";
+var mnemonic = "drift point draft federal remember tribe account injury detect arena summer alone";

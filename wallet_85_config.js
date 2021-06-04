@@ -1,1 +1,1 @@
-var mnemonic = "shadow wrestle august isolate eight artist senior magic aim black idea umbrella";
+var mnemonic = "range shoe south ticket pool endorse cattle distance okay box december object";

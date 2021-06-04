@@ -1,1 +1,1 @@
-var mnemonic = "valve master drip fan actress double boss brown endorse consider federal pond";
+var mnemonic = "swallow dismiss pole arena limit toe erosion basket security buddy almost common";

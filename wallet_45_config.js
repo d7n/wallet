@@ -1,1 +1,1 @@
-var mnemonic = "disease tongue hover junior cousin spin return icon dynamic price habit off";
+var mnemonic = "creek april afraid also prevent audit merry silent grocery shell garbage slide";

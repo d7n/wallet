@@ -1,1 +1,1 @@
-var mnemonic = "chat luxury ice lottery harvest timber flag tumble allow happy latin make";
+var mnemonic = "marble age dinner menu fuel despair attract provide pride fiscal develop dwarf";

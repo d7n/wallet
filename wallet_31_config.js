@@ -1,1 +1,1 @@
-var mnemonic = "success cross enact easy erase beach tattoo curious spoil family improve cart";
+var mnemonic = "end bachelor tool advice brick hand hollow chunk kiss misery member below";

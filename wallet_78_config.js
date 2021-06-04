@@ -1,1 +1,1 @@
-var mnemonic = "aisle access monkey tube reveal gadget photo duty field vapor orbit replace";
+var mnemonic = "inherit improve ship prefer museum riot frost oppose income celery brush feature";

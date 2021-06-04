@@ -1,1 +1,1 @@
-var mnemonic = "angry replace vanish security orphan ski argue possible west man tonight connect";
+var mnemonic = "ugly arena regret syrup lens wrong firm village day rain blade deposit";

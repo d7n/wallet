@@ -1,1 +1,1 @@
-var mnemonic = "stumble gravity cook point section cable acid mix square melody parrot liquid";
+var mnemonic = "pen there fruit maximum belt boring fold soccer admit search rib panther";

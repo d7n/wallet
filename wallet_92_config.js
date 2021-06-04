@@ -1,1 +1,1 @@
-var mnemonic = "habit churn mask cash soda fence category quiz annual original coil warfare";
+var mnemonic = "goose fatal dry orange limb version cause ski finish scorpion ecology nothing";

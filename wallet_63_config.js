@@ -1,1 +1,1 @@
-var mnemonic = "sentence coyote green palm more shuffle lift avoid risk romance rookie reduce";
+var mnemonic = "dinner luggage swift melt toward gas invest obscure best sentence sustain trash";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh bleak sadness story knee skill buddy cactus bid cliff fatigue drip";
+var mnemonic = "mother loyal lunar hero ketchup baby suspect shop net urban media jacket";

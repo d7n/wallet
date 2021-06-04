@@ -1,1 +1,1 @@
-var mnemonic = "retreat plunge middle topic design electric essay choice unknown carbon that original";
+var mnemonic = "jaguar riot sausage unlock human ship sell hood cake special lens jar";

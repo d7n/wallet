@@ -1,1 +1,1 @@
-var mnemonic = "grit news client walk still minor universe hobby elephant letter cute enforce";
+var mnemonic = "early smoke mass stage risk pepper curious grab muffin obey consider bulk";

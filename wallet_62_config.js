@@ -1,1 +1,1 @@
-var mnemonic = "describe chimney name blur spell marble nuclear matrix happy guess off spring";
+var mnemonic = "gate vanish ice rebel become march always proof exact trust oven boil";

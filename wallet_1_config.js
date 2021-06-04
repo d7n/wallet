@@ -1,1 +1,1 @@
-var mnemonic = "legend input major sport client drastic vital wing globe crisp coyote letter";
+var mnemonic = "poverty airport smooth erosion ring easy correct melt scene burden weapon taxi";

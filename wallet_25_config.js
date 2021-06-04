@@ -1,1 +1,1 @@
-var mnemonic = "tag bargain assault sibling guess stay magnet ordinary flame turkey market inform";
+var mnemonic = "champion antique crumble truth wool anxiety attend cloud notice boat express asthma";

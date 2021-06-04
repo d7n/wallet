@@ -1,1 +1,1 @@
-var mnemonic = "property element film lizard frame kind choice top behind detect miracle image";
+var mnemonic = "advance water success drip toast room odor chuckle post segment stage snake";

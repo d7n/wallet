@@ -1,1 +1,1 @@
-var mnemonic = "useless base sister fatal olympic release verify digital slender grass habit gospel";
+var mnemonic = "stereo field fold pepper father festival modify hard hat poem avocado fit";

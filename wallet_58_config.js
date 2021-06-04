@@ -1,1 +1,1 @@
-var mnemonic = "glow slide suit rice peasant play thrive drive lemon come green false";
+var mnemonic = "own magnet energy jewel own arrest panel swallow impulse just robust evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce wing screen trial dust remember found success cabin when easily ball";
+var mnemonic = "wedding kitchen essay ceiling target disagree dune fatigue around orbit remain team";

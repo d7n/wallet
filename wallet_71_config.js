@@ -1,1 +1,1 @@
-var mnemonic = "mouse marriage blouse cube peasant bicycle vapor fix enable mandate prize moment";
+var mnemonic = "cross coach march harvest clock present trophy describe trial depart series phrase";

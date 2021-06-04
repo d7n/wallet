@@ -1,1 +1,1 @@
-var mnemonic = "cheese zone now note saddle blast patrol spread bundle bus open try";
+var mnemonic = "people advice drama scrub glare fall hair hurdle conduct axis green wet";

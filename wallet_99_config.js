@@ -1,1 +1,1 @@
-var mnemonic = "pole shock secret science horror energy always word ordinary pen easily ankle";
+var mnemonic = "snow animal rail engine invite idea fantasy minor diesel bread rotate ship";

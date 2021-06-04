@@ -1,1 +1,1 @@
-var mnemonic = "buddy age clinic knife horse tongue speed syrup cattle jaguar kit quantum";
+var mnemonic = "distance drill law voyage fall wealth exhibit left bottom entire dial about";

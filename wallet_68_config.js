@@ -1,1 +1,1 @@
-var mnemonic = "valid plastic term summer deal input shed submit segment room cute expire";
+var mnemonic = "announce jungle please expand immune improve sail brave frost damage call dentist";

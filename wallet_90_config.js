@@ -1,1 +1,1 @@
-var mnemonic = "opera sort guard core analyst frozen segment inspire pair turtle into snow";
+var mnemonic = "guess wrap month around scene fall foster staff spider simple surround payment";

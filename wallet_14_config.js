@@ -1,1 +1,1 @@
-var mnemonic = "casino double often pyramid mechanic rain consider hollow skin ensure side labor";
+var mnemonic = "summer table merit picnic blast voyage wrap crush neutral bike satoshi mammal";

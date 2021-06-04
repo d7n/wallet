@@ -1,1 +1,1 @@
-var mnemonic = "caution load little naive struggle cry loop cotton unfold cook laptop pattern";
+var mnemonic = "metal three lounge annual sauce wild bundle pair kidney primary clever exit";

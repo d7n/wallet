@@ -1,1 +1,1 @@
-var mnemonic = "outer surge there legal radar strategy unit force bamboo rack coffee six";
+var mnemonic = "dinosaur number juice coach junk prosper save fee ankle height march laundry";

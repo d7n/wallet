@@ -1,1 +1,1 @@
-var mnemonic = "frozen web pulp soldier crop urge endless royal rare man street quality";
+var mnemonic = "bag give force marriage correct message captain basket father true scorpion outside";

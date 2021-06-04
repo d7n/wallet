@@ -1,1 +1,1 @@
-var mnemonic = "weather solar east witness exile net silver estate neutral odor faculty stumble";
+var mnemonic = "lobster net taxi twelve access mention lock donor empty donor simple glue";

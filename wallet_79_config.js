@@ -1,1 +1,1 @@
-var mnemonic = "sketch network expect cluster stay knee imitate guess aware cause actress coyote";
+var mnemonic = "manual destroy bitter ride eye sniff settle decorate short atom funny enact";

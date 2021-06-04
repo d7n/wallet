@@ -1,1 +1,1 @@
-var mnemonic = "chair mechanic crisp pelican move puppy powder life blush card glare mandate";
+var mnemonic = "enjoy gallery maid assume brisk blast nut buffalo into scissors risk capital";

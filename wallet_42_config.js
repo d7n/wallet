@@ -1,1 +1,1 @@
-var mnemonic = "try wheat sport advance runway kid sauce travel exist frequent jacket lens";
+var mnemonic = "uphold machine beauty oil drink buddy ordinary smile decide height crazy win";

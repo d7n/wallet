@@ -1,1 +1,1 @@
-var mnemonic = "strong forest wait pledge thought excess hill random random arrive sting fruit";
+var mnemonic = "output cereal inform between immense clog access dream wise track senior light";

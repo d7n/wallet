@@ -1,1 +1,1 @@
-var mnemonic = "alcohol term slim flight shift clever shrug arm picture real maid warrior";
+var mnemonic = "express tiger decline margin torch universe say other grit veteran swap right";

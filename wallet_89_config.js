@@ -1,1 +1,1 @@
-var mnemonic = "crack option rude behind vintage reopen onion shuffle wire clever abstract trip";
+var mnemonic = "arctic during hen laundry loud receive weasel defense happy orphan quiz sponsor";

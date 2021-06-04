@@ -1,1 +1,1 @@
-var mnemonic = "thrive craft lawn during perfect pigeon crater similar fog yard alter parrot";
+var mnemonic = "hollow fault wide planet bicycle length renew rubber stick cute flat lawsuit";

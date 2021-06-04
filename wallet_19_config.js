@@ -1,1 +1,1 @@
-var mnemonic = "good loan hockey badge panther wisdom verb leopard celery quality hybrid afford";
+var mnemonic = "faint oppose gaze magic draw member tuna burst pencil hover salute exhibit";

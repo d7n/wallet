@@ -1,1 +1,1 @@
-var mnemonic = "silk atom miss banana digital anger stem talent chronic tragic game mystery";
+var mnemonic = "champion scare rich corn twice asset cricket rather they hurry inform myth";

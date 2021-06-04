@@ -1,1 +1,1 @@
-var mnemonic = "tower jelly surround circle physical curtain nephew planet powder engage draft confirm";
+var mnemonic = "zoo plunge fee bone face grain person basket write swing weekend during";

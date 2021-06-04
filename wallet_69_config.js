@@ -1,1 +1,1 @@
-var mnemonic = "wrap left involve interest list seat pen middle sea evolve chapter measure";
+var mnemonic = "game hazard flash mobile answer addict trip skin slot round blood illegal";

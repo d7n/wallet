@@ -1,1 +1,1 @@
-var mnemonic = "teach hidden toss script stable gossip endless few inquiry drip hood pencil";
+var mnemonic = "pelican vacant unhappy silly poverty retire apple clerk table food receive lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "there liberty budget estate isolate else cube rifle shoe soon coach pear";
+var mnemonic = "aunt naive lava shell artwork tent shoulder double combine vintage embrace strike";

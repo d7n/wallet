@@ -1,1 +1,1 @@
-var mnemonic = "velvet law print timber cliff rabbit canal slim either please volume surface";
+var mnemonic = "slush memory humble rug stool affair beef poem program quarter enable sick";

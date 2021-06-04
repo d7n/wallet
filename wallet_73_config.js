@@ -1,1 +1,1 @@
-var mnemonic = "name unfair box spare rescue creek unveil cheap shift dog suggest flush";
+var mnemonic = "color pulp because apology danger fresh laundry page hover critic bind patrol";

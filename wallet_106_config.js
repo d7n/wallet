@@ -1,1 +1,1 @@
-var mnemonic = "chef entry trigger daughter confirm zero twenty benefit produce voyage shop crew";
+var mnemonic = "brown antenna unaware save monitor weasel symptom girl annual case video confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery dress census always lens ethics disorder kind noble quick guard ritual";
+var mnemonic = "shiver market allow write during outer object toilet blue addict relief throw";

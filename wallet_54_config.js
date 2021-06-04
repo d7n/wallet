@@ -1,1 +1,1 @@
-var mnemonic = "kiss merit era false noise hedgehog kind sound profit margin vivid island";
+var mnemonic = "praise inflict fresh transfer lawsuit shuffle loyal dial napkin crazy impulse safe";
