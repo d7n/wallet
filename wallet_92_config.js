@@ -1,1 +1,1 @@
-var mnemonic = "fantasy boy jealous barely priority silk security never ordinary any fall credit";
+var mnemonic = "audit swing brisk pill discover scale rice old frame curve appear rent";

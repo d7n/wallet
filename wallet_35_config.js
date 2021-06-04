@@ -1,1 +1,1 @@
-var mnemonic = "mango wrong pudding spoil almost fiber health marriage crystal job lemon donor";
+var mnemonic = "science innocent diary catch tragic ethics injury supply crash suspect divert expire";

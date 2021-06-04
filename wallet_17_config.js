@@ -1,1 +1,1 @@
-var mnemonic = "any mobile category inform pear rough trend team become coin render burst";
+var mnemonic = "gown firm weapon empty curtain drift engage memory junior pink clog wealth";

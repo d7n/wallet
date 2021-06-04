@@ -1,1 +1,1 @@
-var mnemonic = "blast village empower collect nothing symptom toss clown eagle panther surprise cause";
+var mnemonic = "road tail defense reject reopen animal melt pelican mushroom blade race gesture";

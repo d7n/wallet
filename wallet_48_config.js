@@ -1,1 +1,1 @@
-var mnemonic = "alley hen fluid scatter steak lend humble joke live series tone mixed";
+var mnemonic = "fiber east vehicle thing hospital spatial inflict journey olive manage galaxy dog";

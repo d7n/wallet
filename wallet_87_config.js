@@ -1,1 +1,1 @@
-var mnemonic = "tent eternal render coast bamboo enforce oyster mule describe pattern submit door";
+var mnemonic = "height rally apart caution inform frequent sphere dolphin mean bachelor relax mesh";

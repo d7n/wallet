@@ -1,1 +1,1 @@
-var mnemonic = "call arm loyal echo belt staff funny case rate member meat fog";
+var mnemonic = "music animal shed obscure found honey drive soul record syrup warfare purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "receive where member brick frost double current then table sample evolve kangaroo";
+var mnemonic = "sheriff chaos style nose scene biology inquiry glance seven crane wall distance";

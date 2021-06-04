@@ -1,1 +1,1 @@
-var mnemonic = "stem pave eagle hill category alley coyote pond clerk when insect decorate";
+var mnemonic = "baby file predict kite abuse wrong moral buffalo virus body novel clump";

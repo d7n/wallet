@@ -1,1 +1,1 @@
-var mnemonic = "mammal another lizard camp wisdom merge evidence faint pelican calm brush young";
+var mnemonic = "season flag blush gloom disorder edit priority arctic million find left drive";

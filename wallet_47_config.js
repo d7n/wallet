@@ -1,1 +1,1 @@
-var mnemonic = "shock welcome swear all horse spoil sausage faculty armor flip indicate disease";
+var mnemonic = "cycle prosper duty sure vessel potato face sand rocket alarm thing worry";

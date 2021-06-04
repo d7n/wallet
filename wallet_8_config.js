@@ -1,1 +1,1 @@
-var mnemonic = "fruit boring attitude tape mind buddy stay live spider remind excess next";
+var mnemonic = "trade rain ill donor eagle eagle loop among rice anchor connect boring";

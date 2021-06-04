@@ -1,1 +1,1 @@
-var mnemonic = "thought worth dutch museum aunt dance kit version again coyote shield electric";
+var mnemonic = "bomb beach sure school silk chief garden ball pool surprise winter mammal";

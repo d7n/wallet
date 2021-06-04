@@ -1,1 +1,1 @@
-var mnemonic = "size absurd tissue craft begin blood rebuild twice scheme offer stumble lawn";
+var mnemonic = "predict turn position secret ranch apart initial course army treat hawk host";

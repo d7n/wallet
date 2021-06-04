@@ -1,1 +1,1 @@
-var mnemonic = "enforce industry yard news congress piece frequent isolate myself express monster pole";
+var mnemonic = "regular head pretty key hole play wagon decade ring garment jelly scatter";

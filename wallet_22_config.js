@@ -1,1 +1,1 @@
-var mnemonic = "narrow tired soda lucky endless evil amused sample crop exist drum mail";
+var mnemonic = "discover gossip citizen under tail frequent glad economy churn grid evidence tonight";

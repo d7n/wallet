@@ -1,1 +1,1 @@
-var mnemonic = "crash effort nothing era garment truck crisp host dry hen man off";
+var mnemonic = "oblige spread find mean almost bullet risk denial elephant flight tool possible";

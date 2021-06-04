@@ -1,1 +1,1 @@
-var mnemonic = "admit glimpse moon interest escape enlist also modify point attack ecology melody";
+var mnemonic = "bird august you soda fossil spoil jacket opinion scan obey acquire tray";

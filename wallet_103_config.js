@@ -1,1 +1,1 @@
-var mnemonic = "tissue couple label exchange debris blame mistake adult print student trophy chest";
+var mnemonic = "consider spy turkey also butter vicious talent push material sphere fabric evoke";

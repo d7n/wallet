@@ -1,1 +1,1 @@
-var mnemonic = "dish ability repair tell between initial obvious clerk dragon toward before permit";
+var mnemonic = "night toilet brick volcano force grass candy law what worth nest join";

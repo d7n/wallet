@@ -1,1 +1,1 @@
-var mnemonic = "never spell tent agent length solution arch leg steel submit horror random";
+var mnemonic = "pen nice attitude effort dust unlock solve only subway two loop fortune";

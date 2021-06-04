@@ -1,1 +1,1 @@
-var mnemonic = "dutch corn echo harsh spoil assist cheap smoke narrow limit winner proof";
+var mnemonic = "first music confirm heavy actual aware million ginger gasp taste zone illegal";

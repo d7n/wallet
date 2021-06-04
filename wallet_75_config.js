@@ -1,1 +1,1 @@
-var mnemonic = "vivid license bacon carry ensure illness prize account reduce split pave cannon";
+var mnemonic = "present fruit edit divide staff eager light crime violin neglect pink slow";

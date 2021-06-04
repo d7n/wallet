@@ -1,1 +1,1 @@
-var mnemonic = "trust thought pistol front aerobic symbol nothing input judge field sail sea";
+var mnemonic = "hard bundle rigid helmet junk miracle subject daring raise aim gun place";

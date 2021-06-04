@@ -1,1 +1,1 @@
-var mnemonic = "timber dash bonus rally tattoo hurt skin hamster review key traffic depart";
+var mnemonic = "endless cotton buddy million brain bulk direct purchase inherit share artist like";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid unveil erupt fashion oxygen legend sheriff tornado blue warrior small wrestle";
+var mnemonic = "near team link capable name borrow silent idea liquid topple favorite whale";

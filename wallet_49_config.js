@@ -1,1 +1,1 @@
-var mnemonic = "chase chaos churn purchase genius movie clay meat width knock long glue";
+var mnemonic = "engage message wise unknown foil eight section version shy lemon stone main";

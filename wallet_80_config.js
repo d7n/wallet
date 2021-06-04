@@ -1,1 +1,1 @@
-var mnemonic = "voice topple close entry doll near private cream energy toss knife trend";
+var mnemonic = "erupt purse laugh party catalog safe invite apple zebra bunker stool fat";

@@ -1,1 +1,1 @@
-var mnemonic = "firm coach submit chronic moon cable media judge bonus congress young neglect";
+var mnemonic = "gossip street dinosaur trick galaxy planet humble pear lens asthma romance position";

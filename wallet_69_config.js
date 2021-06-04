@@ -1,1 +1,1 @@
-var mnemonic = "unhappy truly ring unveil banner kit deputy daughter comic crime insane gorilla";
+var mnemonic = "life romance fiscal wool candy screen skill damage zoo bubble smart bunker";

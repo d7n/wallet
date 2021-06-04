@@ -1,1 +1,1 @@
-var mnemonic = "body hero manage eye hungry state reopen olive elegant either phrase ball";
+var mnemonic = "ramp small phone spoon pipe best define flock faint devote march doll";

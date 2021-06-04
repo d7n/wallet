@@ -1,1 +1,1 @@
-var mnemonic = "below plug ahead someone transfer era glue almost equip quote brush slab";
+var mnemonic = "ice scrap burst equip pull leave midnight cute luggage easily patrol destroy";

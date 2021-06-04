@@ -1,1 +1,1 @@
-var mnemonic = "crunch symbol best cotton spin squirrel isolate arch run today unlock any";
+var mnemonic = "short baby primary kiss patient silk scissors clean tissue behind catch liberty";

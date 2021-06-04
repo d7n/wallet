@@ -1,1 +1,1 @@
-var mnemonic = "wire diary habit bacon tiny finish there current apple drop life heart";
+var mnemonic = "law female rebel rifle wise ordinary charge short pepper text climb chief";

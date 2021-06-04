@@ -1,1 +1,1 @@
-var mnemonic = "shoe swift zoo able action tired sea sudden thank unusual style vanish";
+var mnemonic = "regular pull wonder income minimum have million social anxiety torch swallow light";

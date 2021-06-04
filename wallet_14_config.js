@@ -1,1 +1,1 @@
-var mnemonic = "fan pencil scale steak gasp sunset swift donkey reduce certain slide plate";
+var mnemonic = "bundle casino hen fame banner sauce live stick eight image bind nature";

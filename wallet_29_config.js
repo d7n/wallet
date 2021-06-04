@@ -1,1 +1,1 @@
-var mnemonic = "mountain bean during banner until alley whale alley loyal able party labor";
+var mnemonic = "arena climb rapid toss budget purse timber early index flight snap type";

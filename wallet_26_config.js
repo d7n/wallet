@@ -1,1 +1,1 @@
-var mnemonic = "square clap unknown visit match common minute coil one fragile ten month";
+var mnemonic = "giraffe worth convince chronic brain virus jeans girl brush dynamic vacant parent";

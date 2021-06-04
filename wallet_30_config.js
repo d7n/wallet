@@ -1,1 +1,1 @@
-var mnemonic = "riot theory motion minor view nation agree point lemon float track upset";
+var mnemonic = "oxygen lottery pretty first divide essence daughter avoid furnace derive follow level";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut essay sword brown leave safe crawl inflict absent dilemma parent assist";
+var mnemonic = "prevent green way category undo humor any trial viable setup silver person";

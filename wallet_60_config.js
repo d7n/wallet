@@ -1,1 +1,1 @@
-var mnemonic = "hollow verify orange camp escape brief off visa can crime board nice";
+var mnemonic = "there depend accuse impose exclude insect purse civil cabbage bullet there wealth";

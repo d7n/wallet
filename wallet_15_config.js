@@ -1,1 +1,1 @@
-var mnemonic = "another course walk dilemma math ahead random electric aisle blanket observe layer";
+var mnemonic = "concert tape fragile glad attitude damp actress display else celery priority when";

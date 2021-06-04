@@ -1,1 +1,1 @@
-var mnemonic = "swarm habit awake negative average hawk list aerobic sleep bus method shell";
+var mnemonic = "deny verb arrest clay human delay chat display attract fix sport ignore";

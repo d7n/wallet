@@ -1,1 +1,1 @@
-var mnemonic = "where van focus learn chef motor shoot cool certain mistake discover spot";
+var mnemonic = "pull diesel above pattern curve pony tube still below dove rapid pear";

@@ -1,1 +1,1 @@
-var mnemonic = "rely uphold all top scrub similar genuine rough gospel decade stool journey";
+var mnemonic = "melt senior parrot regular exchange angry dwarf arm ecology duty stairs vast";

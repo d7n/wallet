@@ -1,1 +1,1 @@
-var mnemonic = "conduct token meat shock depth arch immense can mass reopen key lucky";
+var mnemonic = "hold acoustic depart anchor shoe december orphan arctic beauty promote under deer";

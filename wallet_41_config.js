@@ -1,1 +1,1 @@
-var mnemonic = "report finish tomorrow emotion negative frog area angry crouch possible earn raccoon";
+var mnemonic = "witness file purse artwork sun tuition slim cherry dance soldier opera diagram";

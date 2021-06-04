@@ -1,1 +1,1 @@
-var mnemonic = "thrive sort cinnamon marriage foster pipe swallow merge pause motor attack lake";
+var mnemonic = "crucial enroll fault lazy idea castle slam betray force eyebrow bridge sun";

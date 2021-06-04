@@ -1,1 +1,1 @@
-var mnemonic = "group shock announce illegal effort copper scan suffer finger dove stuff bulb";
+var mnemonic = "fan deny solve hamster key proud spider clog accident shock mean wear";

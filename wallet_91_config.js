@@ -1,1 +1,1 @@
-var mnemonic = "beauty nominee tent grab right relax husband travel office fame question cabbage";
+var mnemonic = "primary source act fox ridge life charge bitter donate capital admit spike";

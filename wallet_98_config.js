@@ -1,1 +1,1 @@
-var mnemonic = "crowd laundry adult poem kiss weird reveal nose brick ticket frame rely";
+var mnemonic = "sleep number offer list forum scene recall shuffle walnut elephant funny feel";

@@ -1,1 +1,1 @@
-var mnemonic = "federal pumpkin tomato error fortune blind anxiety album this couple okay town";
+var mnemonic = "inquiry tribe gate glide fuel peasant claim disagree core upset legal salute";

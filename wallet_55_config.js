@@ -1,1 +1,1 @@
-var mnemonic = "tail toilet rack dinner group magnet trophy fork stairs ill parent cargo";
+var mnemonic = "ranch witness remember rural direct eyebrow ski elevator credit dust govern enroll";

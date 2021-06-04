@@ -1,1 +1,1 @@
-var mnemonic = "water torch december book twenty orient plate rescue source thunder brisk upset";
+var mnemonic = "actor happy riot item fence tuition kiss envelope cliff jazz antenna magnet";

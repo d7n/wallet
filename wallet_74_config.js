@@ -1,1 +1,1 @@
-var mnemonic = "observe jungle canoe skull jump friend attend typical west account ready post";
+var mnemonic = "together palm reason echo blood hole clay main crack apple fit depth";

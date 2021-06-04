@@ -1,1 +1,1 @@
-var mnemonic = "buyer ship force whale hood bulb hair grief betray pilot roof silent";
+var mnemonic = "rug remove horse course govern pencil best glad swift ready boss front";

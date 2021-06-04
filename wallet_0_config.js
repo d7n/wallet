@@ -1,1 +1,1 @@
-var mnemonic = "museum attend almost also such bicycle document cable home sad say menu";
+var mnemonic = "head minimum often gentle inject town march dignity kit blood occur spell";

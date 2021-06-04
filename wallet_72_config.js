@@ -1,1 +1,1 @@
-var mnemonic = "author enjoy antique zero urge view need trophy canal surge increase bird";
+var mnemonic = "heart army reduce moment empower spend work gas flight suffer slot actor";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion dish uphold actor seven grain barely you gate avocado aunt physical";
+var mnemonic = "armor tuition water clerk coil pretty blue load excess pencil dune cloud";

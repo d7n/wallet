@@ -1,1 +1,1 @@
-var mnemonic = "inner trip pave much venture human quarter cage sorry song limit mango";
+var mnemonic = "sister trophy fuel ill diagram manage until pair have frame liquid scan";

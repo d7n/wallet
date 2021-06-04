@@ -1,1 +1,1 @@
-var mnemonic = "project lesson slide multiply grit intact brief suit scout vintage carpet army";
+var mnemonic = "reduce garlic online hidden ridge pizza hungry medal try horse tube winner";

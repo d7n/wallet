@@ -1,1 +1,1 @@
-var mnemonic = "poverty list magic estate panda switch bid pair cry super casual crouch";
+var mnemonic = "fitness have suspect bind crawl tube denial opera senior inquiry reward soccer";

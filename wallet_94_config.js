@@ -1,1 +1,1 @@
-var mnemonic = "relax kid metal reform slam among duty tank leopard onion one trumpet";
+var mnemonic = "copper plate mask draft bounce priority dish problem shell sea begin sustain";

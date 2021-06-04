@@ -1,1 +1,1 @@
-var mnemonic = "frost catch pond same expose job diesel lottery staff car song half";
+var mnemonic = "hidden nerve figure december share punch fan decline boost nest until cannon";

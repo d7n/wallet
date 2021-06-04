@@ -1,1 +1,1 @@
-var mnemonic = "taste slow negative film chaos shop appear bring loyal recipe say gravity";
+var mnemonic = "panel hire rent carbon torch rather drama repeat chalk jelly vocal hundred";

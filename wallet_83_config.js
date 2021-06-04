@@ -1,1 +1,1 @@
-var mnemonic = "foil siege empower quantum pave goose guilt slide random cat skin coral";
+var mnemonic = "cinnamon gift casino poverty employ situate patrol eternal brother awful husband dentist";

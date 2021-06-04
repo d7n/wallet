@@ -1,1 +1,1 @@
-var mnemonic = "unit swing dentist crowd wet adult unique mimic dumb syrup august fold";
+var mnemonic = "boss they ill punch owner question vessel lonely carbon demand season appear";

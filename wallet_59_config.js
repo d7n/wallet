@@ -1,1 +1,1 @@
-var mnemonic = "belt fine build grunt nasty afraid twist possible ability useful absurd achieve";
+var mnemonic = "crack design grace pulse scissors enforce slot input merit address busy gun";

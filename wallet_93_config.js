@@ -1,1 +1,1 @@
-var mnemonic = "spice ability clown industry oyster tenant keen castle bunker main party morning";
+var mnemonic = "sick monster drastic wrap lesson series caught panda manual prosper uniform peasant";

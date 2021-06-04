@@ -1,1 +1,1 @@
-var mnemonic = "city prize drift layer human define era wool holiday rose cave sting";
+var mnemonic = "floor hazard trophy mechanic property long young mouse squirrel when enjoy myself";

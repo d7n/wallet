@@ -1,1 +1,1 @@
-var mnemonic = "affair fish robust opera certain write muffin sad true envelope office place";
+var mnemonic = "enter subway also fold snack point tortoise seek citizen unaware roof tonight";

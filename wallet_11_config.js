@@ -1,1 +1,1 @@
-var mnemonic = "phrase diagram tip guide alpha style put burst hope dad gauge lunch";
+var mnemonic = "seat grace century faith caution mirror rescue twin smooth pony struggle solution";

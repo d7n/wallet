@@ -1,1 +1,1 @@
-var mnemonic = "arrive submit property craft intact weather gym cup width disagree assault vibrant";
+var mnemonic = "tongue border cry stay sense thunder public govern cute answer glance electric";

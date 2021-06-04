@@ -1,1 +1,1 @@
-var mnemonic = "innocent time cave weird multiply island early potato switch adjust lens envelope";
+var mnemonic = "bus buzz few stock injury side gold nerve market debate hill emerge";

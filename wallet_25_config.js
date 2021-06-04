@@ -1,1 +1,1 @@
-var mnemonic = "melt steak collect school picture dumb minor ridge matrix embark antique mask";
+var mnemonic = "level involve beauty neck prize multiply swing beauty ankle castle either evoke";

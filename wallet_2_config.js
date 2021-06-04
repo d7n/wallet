@@ -1,1 +1,1 @@
-var mnemonic = "choose soul board search top lumber notable fantasy bird argue chronic spring";
+var mnemonic = "swap shy ethics option coin kid spin erase trade myself misery conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "feel design crisp private disagree laugh swim curious position drink detail neutral";
+var mnemonic = "agree usual unlock jazz law evoke trade foam assume edge hundred predict";

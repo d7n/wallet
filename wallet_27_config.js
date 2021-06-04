@@ -1,1 +1,1 @@
-var mnemonic = "album layer seed excess indicate cancel paddle kitchen cool spread lonely aunt";
+var mnemonic = "quit kiwi charge tray oyster comic guilt open number worth bicycle proud";

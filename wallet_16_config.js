@@ -1,1 +1,1 @@
-var mnemonic = "eye usage keen sister cost kick plug scene romance retreat woman grief";
+var mnemonic = "poem job educate actual donkey name source suit main mercy paper oyster";

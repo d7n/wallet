@@ -1,1 +1,1 @@
-var mnemonic = "scan version timber put mountain argue ramp length pipe glimpse unusual guess";
+var mnemonic = "chair wage weapon caught trip lens recipe zero image sing elite outside";

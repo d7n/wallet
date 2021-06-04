@@ -1,1 +1,1 @@
-var mnemonic = "zebra unaware buffalo small foam popular fee such word long canal pottery";
+var mnemonic = "modify soul edge random actress fence heavy girl mad primary symptom ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle sting toilet plate nice dad life secret add rich polar exclude";
+var mnemonic = "enlist wine barrel dragon clinic collect start inch casual leave voice entire";

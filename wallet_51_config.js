@@ -1,1 +1,1 @@
-var mnemonic = "special stage shop album acid opera fitness divert father install bag inhale";
+var mnemonic = "unaware top thrive waste actor wink lend sauce file earth often surface";

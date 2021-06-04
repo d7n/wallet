@@ -1,1 +1,1 @@
-var mnemonic = "evidence power stuff caution metal lonely marble then trick issue exile trend";
+var mnemonic = "riot boat bomb series milk mind talent online close swallow ivory boring";

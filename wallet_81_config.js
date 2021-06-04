@@ -1,1 +1,1 @@
-var mnemonic = "early inner advance apple romance destroy exhibit eye exchange account slot clean";
+var mnemonic = "dignity fossil anxiety bachelor uphold accuse clinic fragile snap tennis smart limit";

@@ -1,1 +1,1 @@
-var mnemonic = "myth turn inner switch whisper room cause huge valve quarter dumb also";
+var mnemonic = "cement syrup thrive car basket impact away nuclear like boat reopen odor";

@@ -1,1 +1,1 @@
-var mnemonic = "middle mistake simple call glimpse focus tenant success decline betray lawn fox";
+var mnemonic = "seed vast assist exotic ozone current license ten title indicate actor length";

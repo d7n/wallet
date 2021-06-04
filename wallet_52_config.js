@@ -1,1 +1,1 @@
-var mnemonic = "scene mad saddle issue together across pattern still first bitter assault behave";
+var mnemonic = "young galaxy broom damp release crater lunch swear bike episode bind cause";

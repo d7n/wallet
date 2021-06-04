@@ -1,1 +1,1 @@
-var mnemonic = "renew spring orchard focus shrimp agree okay teach athlete evolve autumn foot";
+var mnemonic = "nation resemble absurd mouse air crash indicate bottom void chair lady dignity";

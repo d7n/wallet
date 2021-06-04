@@ -1,1 +1,1 @@
-var mnemonic = "lunar pipe rain jacket asthma dove twin corn capable ocean clip impact";
+var mnemonic = "wonder frog vintage arrive speak unable submit novel cliff reform split doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh typical taste kidney gas thunder south bird together vital flower govern";
+var mnemonic = "lake face ivory arena fortune creek coil east photo find onion matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy program normal zebra ghost action spot excuse wave again put vague";
+var mnemonic = "merry tree flavor omit detect kingdom bachelor wisdom silver source tower often";

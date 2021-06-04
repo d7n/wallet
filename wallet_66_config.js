@@ -1,1 +1,1 @@
-var mnemonic = "tilt tent pudding midnight slot gold female entire horror famous toward someone";
+var mnemonic = "random awkward mechanic guilt monster deer unaware jump ramp room fan fiscal";
