@@ -1,1 +1,1 @@
-var mnemonic = "rich ladder deliver prize fury pizza special unhappy zero song there dice";
+var mnemonic = "deal search capital suggest admit initial brick royal feed depth pear field";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly there hover adjust resemble sick guide someone pepper inherit cousin vacant";
+var mnemonic = "aspect wood train dad poem near manage hard also chunk walnut guess";

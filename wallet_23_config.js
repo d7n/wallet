@@ -1,1 +1,1 @@
-var mnemonic = "skull addict toy million intact subject cart logic victory flag flock eager";
+var mnemonic = "hollow tribe unknown unveil pumpkin execute kiss kingdom aunt fantasy collect gospel";

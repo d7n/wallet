@@ -1,1 +1,1 @@
-var mnemonic = "giant inspire clerk advance predict burst unfold slim dress gown local tank";
+var mnemonic = "twist horror door mushroom winter brief motor popular clip hip limb fall";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch deer rotate blue neglect end blade bean online hybrid abstract access";
+var mnemonic = "topple midnight velvet couch document agree click bubble casino head release any";

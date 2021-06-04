@@ -1,1 +1,1 @@
-var mnemonic = "alter fat dynamic floor glad elephant donate saddle fat cattle siege market";
+var mnemonic = "allow border minimum estate model crime enroll young will phone crystal usage";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain saddle toe impulse clever shoulder illness ranch naive damp custom favorite";
+var mnemonic = "cereal floor pen clarify grape prefer what hurdle shift pioneer click future";

@@ -1,1 +1,1 @@
-var mnemonic = "effort biology clown swallow survey brass taste put addict matrix subway inquiry";
+var mnemonic = "ring wedding visa around youth web neutral busy shoot twenty fox dinosaur";

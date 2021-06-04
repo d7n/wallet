@@ -1,1 +1,1 @@
-var mnemonic = "legend curtain behave manage sudden pattern cheap elite laundry action buzz slab";
+var mnemonic = "squirrel become police quarter smart spray prefer basic tragic foil loop pink";

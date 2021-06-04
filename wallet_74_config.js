@@ -1,1 +1,1 @@
-var mnemonic = "dove glow bring cheap stem disagree blur story tortoise evidence smile cargo";
+var mnemonic = "food bind say permit pipe possible cruise emerge print enter sentence jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh loan witness approve belt short tackle hungry talk maze hill federal";
+var mnemonic = "body praise already rotate crane burger wife boost filter swarm where segment";

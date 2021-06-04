@@ -1,1 +1,1 @@
-var mnemonic = "until today blur list stadium scissors unable order risk fox gallery buzz";
+var mnemonic = "oven margin face receive core habit piano hair excite evil rookie gun";

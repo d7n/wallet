@@ -1,1 +1,1 @@
-var mnemonic = "border crime science lyrics book raise gravity drop limit dawn arm promote";
+var mnemonic = "protect model differ spike advice another mistake pole income ugly bamboo behave";

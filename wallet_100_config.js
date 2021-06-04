@@ -1,1 +1,1 @@
-var mnemonic = "chaos south chef smooth tank head illegal afford angry purpose kangaroo charge";
+var mnemonic = "hope viable hedgehog meadow script public amateur zebra action series aware armor";

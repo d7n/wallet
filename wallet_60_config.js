@@ -1,1 +1,1 @@
-var mnemonic = "myth dice blue fatal section decline spirit consider soft coach silent cook";
+var mnemonic = "viable hour veteran wire pioneer truth summer invest upgrade must arrow hurdle";

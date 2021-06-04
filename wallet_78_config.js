@@ -1,1 +1,1 @@
-var mnemonic = "sand elegant enter subway lady tenant rabbit belt govern wear fly valve";
+var mnemonic = "exchange prefer release comic envelope prison hospital camera time release rubber know";

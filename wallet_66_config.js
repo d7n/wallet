@@ -1,1 +1,1 @@
-var mnemonic = "good chunk rookie vanish people clump grant hard rotate grunt panda before";
+var mnemonic = "access leisure south seed gym enforce intact wink goat rookie water thunder";

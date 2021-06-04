@@ -1,1 +1,1 @@
-var mnemonic = "around old swift help join replace host secret void little business shoot";
+var mnemonic = "spare wolf lens gold tornado plate wrap breeze describe picture chalk frost";

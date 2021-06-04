@@ -1,1 +1,1 @@
-var mnemonic = "empty tag lens radar ozone move used addict grief sphere inhale negative";
+var mnemonic = "gift screen cabin release trap subway library hollow abandon father inch domain";

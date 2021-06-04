@@ -1,1 +1,1 @@
-var mnemonic = "morning column sun supreme world window board toe cabbage hungry account fatigue";
+var mnemonic = "gallery book coconut fire leaf pause fiction twenty place topic when zoo";

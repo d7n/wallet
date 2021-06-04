@@ -1,1 +1,1 @@
-var mnemonic = "coast exist give blade viable have empower scrub force giggle deputy fiction";
+var mnemonic = "attitude drill pill harbor calm onion zoo market sick bomb foot switch";

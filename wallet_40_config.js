@@ -1,1 +1,1 @@
-var mnemonic = "notice main inform gorilla urge tent fuel include off manage palace sell";
+var mnemonic = "gold ride joy dose kitchen sun vital decrease warrior ticket mistake effort";

@@ -1,1 +1,1 @@
-var mnemonic = "guide curious rough split friend find enrich avoid rural cabbage unfold emerge";
+var mnemonic = "network essence ten carry edit height snack exotic corn silver wisdom sunset";

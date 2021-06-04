@@ -1,1 +1,1 @@
-var mnemonic = "couch prosper quantum skate cable hundred vast neck ten vintage pulse park";
+var mnemonic = "process public garlic fun west useful shove prefer hard cable nice decorate";

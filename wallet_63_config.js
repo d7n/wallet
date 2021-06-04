@@ -1,1 +1,1 @@
-var mnemonic = "private nasty news often reason nice useless capable drip ostrich father glimpse";
+var mnemonic = "reunion become disagree evoke close undo ecology endorse since such draw embrace";

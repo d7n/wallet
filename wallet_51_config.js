@@ -1,1 +1,1 @@
-var mnemonic = "unique smile tape umbrella arm involve fortune spring exchange width good rival";
+var mnemonic = "library second catalog gown lizard loop tag cruel bike swim dose butter";

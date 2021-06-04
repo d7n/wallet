@@ -1,1 +1,1 @@
-var mnemonic = "prepare barely craft obvious trash valid hospital slow truth carpet ridge empower";
+var mnemonic = "agent strategy race ball thunder test cluster renew myth endless prepare version";

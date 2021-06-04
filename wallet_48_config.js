@@ -1,1 +1,1 @@
-var mnemonic = "pact science muffin follow holiday near tide magnet forest hybrid rubber rebuild";
+var mnemonic = "upon bus spoil thing immense session divert tragic shock alarm require floor";

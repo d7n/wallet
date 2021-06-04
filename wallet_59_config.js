@@ -1,1 +1,1 @@
-var mnemonic = "catalog enable galaxy you adjust erode twenty era toddler tobacco dream tape";
+var mnemonic = "language retire moon pink rebuild choice antique adjust post undo road risk";

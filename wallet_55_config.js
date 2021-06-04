@@ -1,1 +1,1 @@
-var mnemonic = "wrap cheap walk paddle virus lounge clarify flame blind post soft broccoli";
+var mnemonic = "reveal novel runway bomb twin bamboo drastic expire ostrich fury canyon cradle";

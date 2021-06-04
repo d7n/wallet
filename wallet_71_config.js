@@ -1,1 +1,1 @@
-var mnemonic = "innocent whip canoe young satoshi surround above force imitate live regret slim";
+var mnemonic = "surface host dream lend write point produce annual soda brave pyramid monitor";

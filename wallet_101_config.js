@@ -1,1 +1,1 @@
-var mnemonic = "just enroll robust left episode surprise lift hockey clutch witness street spring";
+var mnemonic = "cannon fish brain mansion topple asset mammal impact payment fantasy vanish claw";

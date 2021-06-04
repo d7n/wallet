@@ -1,1 +1,1 @@
-var mnemonic = "million spy plunge miracle apart bamboo bulb phrase envelope burger toss route";
+var mnemonic = "chunk such head outer throw sleep truth protect kitchen horse cool often";

@@ -1,1 +1,1 @@
-var mnemonic = "fly canyon nut slight repair midnight rare humor viable sorry elevator enjoy";
+var mnemonic = "empty voyage bridge orchard retreat process flavor sleep clarify spice hand envelope";

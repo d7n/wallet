@@ -1,1 +1,1 @@
-var mnemonic = "chest tent promote head spawn jacket liberty all steak clip device jazz";
+var mnemonic = "maze proud ski echo tilt bracket pink glory hat where enrich use";

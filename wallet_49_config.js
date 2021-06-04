@@ -1,1 +1,1 @@
-var mnemonic = "enact repair clay pluck toss banana month recall orphan bone great lady";
+var mnemonic = "swim color social length hen fit mad yellow broccoli street pig loan";

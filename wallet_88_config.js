@@ -1,1 +1,1 @@
-var mnemonic = "build regular diagram thought harvest amazing suspect abstract melt rich detail ozone";
+var mnemonic = "car rice zebra receive shoot estate problem lawn diamond cancel slow chapter";

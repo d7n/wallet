@@ -1,1 +1,1 @@
-var mnemonic = "useless youth predict crawl scene glide game piano idle liberty yellow iron";
+var mnemonic = "spring innocent west library equip conduct lawsuit page horse dune civil smile";

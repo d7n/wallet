@@ -1,1 +1,1 @@
-var mnemonic = "derive shell infant jar flower invest update jacket goose result leopard muscle";
+var mnemonic = "zero wheat endless spike eight cup fever curious wish upgrade emerge identify";

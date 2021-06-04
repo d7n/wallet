@@ -1,1 +1,1 @@
-var mnemonic = "cake chronic explain caution ketchup universe van lizard blanket imitate claim crush";
+var mnemonic = "dash dune strike tackle bright noble decrease ability move flip advance blossom";

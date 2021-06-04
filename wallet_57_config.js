@@ -1,1 +1,1 @@
-var mnemonic = "sword front follow ripple senior wait until tube manual gentle dune reason";
+var mnemonic = "scissors coin unhappy maid zero avoid enhance dawn wheel fly chunk merit";

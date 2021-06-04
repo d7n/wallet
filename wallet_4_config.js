@@ -1,1 +1,1 @@
-var mnemonic = "solid noble slow alarm rural scrap pair mouse great warm peanut toward";
+var mnemonic = "airport shed cattle flee quit inform fury coyote step jeans situate hood";

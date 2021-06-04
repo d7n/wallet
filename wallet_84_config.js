@@ -1,1 +1,1 @@
-var mnemonic = "ozone method net another drum type pitch decline share half hill pulse";
+var mnemonic = "castle source heavy daughter road post clean ripple enjoy kite dawn lava";

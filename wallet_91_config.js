@@ -1,1 +1,1 @@
-var mnemonic = "horn remember dinner fat weasel seven bacon defense dune job asthma dress";
+var mnemonic = "elevator combine sock scrap lens chat kidney width media amount empty pitch";

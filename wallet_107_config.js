@@ -1,1 +1,1 @@
-var mnemonic = "warm sell void east canvas between term sun pill oyster click kitten";
+var mnemonic = "drink exercise easy tent card census sponsor report december voyage reason erupt";

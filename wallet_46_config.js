@@ -1,1 +1,1 @@
-var mnemonic = "elbow thank same debris exclude report sunny flower fun certain advance clarify";
+var mnemonic = "hill bag stuff palm reflect rifle purse install bronze fly over reason";

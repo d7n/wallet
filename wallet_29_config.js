@@ -1,1 +1,1 @@
-var mnemonic = "announce sketch pistol humble thunder latin actual dirt poem shoulder guilt fringe";
+var mnemonic = "layer forward gasp laundry keen cotton enhance normal fruit unlock blush upon";

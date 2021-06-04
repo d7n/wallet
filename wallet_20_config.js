@@ -1,1 +1,1 @@
-var mnemonic = "camp true bench monster veteran village baby early hawk canvas blush brisk";
+var mnemonic = "soccer flower fitness gown cinnamon pizza office wild such stadium dream tenant";

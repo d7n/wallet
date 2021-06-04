@@ -1,1 +1,1 @@
-var mnemonic = "physical trust skate weekend exhaust weasel surround company donkey more toss gasp";
+var mnemonic = "retreat code general wool grit school spend tooth first globe eight belt";

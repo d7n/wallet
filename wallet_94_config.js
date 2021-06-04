@@ -1,1 +1,1 @@
-var mnemonic = "confirm minimum prepare when fly obvious snap ski decorate human oblige field";
+var mnemonic = "already arm genuine state switch soup certain wear biology letter time embark";

@@ -1,1 +1,1 @@
-var mnemonic = "unique ocean abstract luxury carpet ribbon yard home proof music tobacco cabin";
+var mnemonic = "trial remove rack already ill stage portion enroll dinner decrease blast moment";

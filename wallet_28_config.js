@@ -1,1 +1,1 @@
-var mnemonic = "stadium shrug umbrella hurdle chunk flash benefit off useful orphan rocket shock";
+var mnemonic = "fun cool six mountain someone talk pottery element payment tomorrow replace they";

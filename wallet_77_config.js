@@ -1,1 +1,1 @@
-var mnemonic = "method scorpion roast before elbow timber jewel train elephant know skin segment";
+var mnemonic = "media grant when guide sibling claw sketch super load cinnamon client middle";

@@ -1,1 +1,1 @@
-var mnemonic = "main luggage wing check source toward crime decrease talk slush tourist crop";
+var mnemonic = "shock rebuild when enroll name wrong stool level damage sport milk mail";

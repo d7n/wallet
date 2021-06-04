@@ -1,1 +1,1 @@
-var mnemonic = "torch volume tag mystery approve crash vital mandate shaft peanut vibrant occur";
+var mnemonic = "yard autumn ticket begin cabbage picnic enough trash quick dignity night upset";

@@ -1,1 +1,1 @@
-var mnemonic = "consider scare ramp drink guitar parade length dog iron need sell plunge";
+var mnemonic = "iron gift neutral manual casual crater pool trumpet beauty staff gun bird";

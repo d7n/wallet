@@ -1,1 +1,1 @@
-var mnemonic = "armor sort vague mosquito country trend slab divorce meadow blossom giraffe prefer";
+var mnemonic = "story tomorrow pelican list buffalo gate about kick soft dream history evolve";

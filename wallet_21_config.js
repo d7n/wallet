@@ -1,1 +1,1 @@
-var mnemonic = "rabbit garage live stumble outdoor brand trick fringe eagle extra panel toward";
+var mnemonic = "honey cannon target kingdom neutral choice dizzy afford size pilot bag grit";

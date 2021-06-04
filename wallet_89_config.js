@@ -1,1 +1,1 @@
-var mnemonic = "sun truly rhythm bracket debate when wall renew champion you impact stay";
+var mnemonic = "life behave taxi you transfer practice dad leopard conduct apology velvet cry";

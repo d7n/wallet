@@ -1,1 +1,1 @@
-var mnemonic = "pause duty print enter vote album body salon wisdom mountain plunge organ";
+var mnemonic = "loan own include news install merry release spike exhaust grab joke clap";

@@ -1,1 +1,1 @@
-var mnemonic = "false ozone path usual embody boy candy treat ten element weasel verb";
+var mnemonic = "forest false suspect gossip spring inform legal drive input close diamond step";

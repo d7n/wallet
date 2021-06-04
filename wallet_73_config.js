@@ -1,1 +1,1 @@
-var mnemonic = "fine bring elbow armor turn civil lottery home abuse young morning teach";
+var mnemonic = "attack order antique sibling doctor cupboard isolate hour artist reject always dream";

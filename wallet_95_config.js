@@ -1,1 +1,1 @@
-var mnemonic = "own barrel canal piece clean cube hole notice general symbol coconut coyote";
+var mnemonic = "phrase cable whale casual feel very grant surface sweet appear fame glad";

@@ -1,1 +1,1 @@
-var mnemonic = "regret brief cement organ ginger worry debris apology hour spy body web";
+var mnemonic = "shine update finish indicate audit actress decade noise reform banner artist power";

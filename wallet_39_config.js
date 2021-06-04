@@ -1,1 +1,1 @@
-var mnemonic = "inject vapor oval enable clever lunch abandon wagon enter pizza universe rigid";
+var mnemonic = "visit album dignity envelope foam knock prize lens derive donkey clarify enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "blood recipe clever lake leader dish poet soda slender rail bacon fabric";
+var mnemonic = "scorpion excuse banner prize life owner laugh used occur coast climb fun";

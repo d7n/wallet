@@ -1,1 +1,1 @@
-var mnemonic = "boil give zero beach gloom traffic wing gather that engage found venue";
+var mnemonic = "crew brave vocal cabin pause antique excess meat error affair arm cheap";

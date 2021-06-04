@@ -1,1 +1,1 @@
-var mnemonic = "waste need lucky turtle surface please wealth hundred mixture hospital almost feature";
+var mnemonic = "blade response leave unveil artefact club glance gauge occur aisle note catalog";

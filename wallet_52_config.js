@@ -1,1 +1,1 @@
-var mnemonic = "sock intact banana trip damage lion lion sentence actual toss combine hat";
+var mnemonic = "knock board eight worth retreat assume fault nose time assault text entry";

@@ -1,1 +1,1 @@
-var mnemonic = "siren finger resist blue glimpse february divorce boss veteran artefact fossil rent";
+var mnemonic = "oven increase medal differ dynamic treat bronze arrange circle walnut echo correct";

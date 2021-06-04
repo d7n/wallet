@@ -1,1 +1,1 @@
-var mnemonic = "job always scare piano valve panther satisfy spend lobster shock breeze fury";
+var mnemonic = "lunar hawk surge more cruise ramp early alert ridge tissue goddess million";

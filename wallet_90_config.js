@@ -1,1 +1,1 @@
-var mnemonic = "capital access dune horn hospital foster churn renew tennis brown brown desk";
+var mnemonic = "sheriff matrix baby pull tackle stable pig inject entry latin night frozen";

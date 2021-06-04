@@ -1,1 +1,1 @@
-var mnemonic = "need crunch waste bike chunk junk simple coin door maple cause quarter";
+var mnemonic = "dawn decorate brush unable absorb fog giraffe ticket phone nurse seminar where";

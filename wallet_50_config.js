@@ -1,1 +1,1 @@
-var mnemonic = "credit fence repeat lawsuit extend call route local believe enter task clever";
+var mnemonic = "love imitate vague monitor avoid twin thumb panic interest diesel negative donor";

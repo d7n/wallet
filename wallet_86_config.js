@@ -1,1 +1,1 @@
-var mnemonic = "outdoor mansion fat energy connect few repeat dynamic climb home various glimpse";
+var mnemonic = "friend idea warfare tumble flee title need broccoli acquire orbit increase believe";

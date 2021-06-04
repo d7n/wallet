@@ -1,1 +1,1 @@
-var mnemonic = "hidden custom trick lazy reopen damage use gadget polar boil theme hollow";
+var mnemonic = "chuckle three laundry siren slide denial lemon shallow impact harvest dentist room";

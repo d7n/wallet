@@ -1,1 +1,1 @@
-var mnemonic = "person figure news name card rain treat toss clinic coil random cloud";
+var mnemonic = "sheriff leg deputy like enact candy okay zero glimpse length pet adjust";

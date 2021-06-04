@@ -1,1 +1,1 @@
-var mnemonic = "capital short season advance winner excess bonus stool height benefit welcome material";
+var mnemonic = "amused shift ensure mechanic bomb expose divert rhythm organ bike black time";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust rack joke pencil winner canvas click brain gym media catalog wink";
+var mnemonic = "decorate flower term one tribe shrug critic style grass between crash gain";

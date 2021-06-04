@@ -1,1 +1,1 @@
-var mnemonic = "industry abandon core year eye wing supply gorilla tooth enroll lend frog";
+var mnemonic = "afford ask frozen expand skate camp owner shift core young coyote weather";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost crumble bundle deny turtle test paper thumb neck glow art fog";
+var mnemonic = "wagon rain profit strike isolate cute master vote permit gas maid year";

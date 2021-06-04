@@ -1,1 +1,1 @@
-var mnemonic = "injury churn nest meat favorite answer barely gaze kid luxury fresh diesel";
+var mnemonic = "reflect retire focus make someone firm survey neck pupil around wrong tissue";

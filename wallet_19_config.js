@@ -1,1 +1,1 @@
-var mnemonic = "glimpse chest strike vocal girl scrub enable champion differ hockey orange awesome";
+var mnemonic = "goddess asset upset gym gospel cliff gloom glimpse tongue critic master blue";

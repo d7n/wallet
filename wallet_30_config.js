@@ -1,1 +1,1 @@
-var mnemonic = "forum round security salad reunion stumble scrap neck scene episode dry evoke";
+var mnemonic = "armor picture love female height penalty obvious jacket priority cup smooth enemy";

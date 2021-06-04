@@ -1,1 +1,1 @@
-var mnemonic = "rubber tip decrease decide ready clip demise term cause already shiver unveil";
+var mnemonic = "double frown strategy fury banana case net expire idle replace possible alert";

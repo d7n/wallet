@@ -1,1 +1,1 @@
-var mnemonic = "dog say wife tattoo corn robust unit way swift prosper year riot";
+var mnemonic = "slam faint equal mimic invite near iron raven viable lemon stairs key";

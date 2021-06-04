@@ -1,1 +1,1 @@
-var mnemonic = "earth powder pig cricket leisure barrel pretty van teach agent defense novel";
+var mnemonic = "fitness pink lumber success truly bird album strategy rescue wing door day";

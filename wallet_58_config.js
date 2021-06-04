@@ -1,1 +1,1 @@
-var mnemonic = "onion fury pattern report confirm debris staff pause liar wash lumber web";
+var mnemonic = "flag retreat lab head clarify sweet advance park ostrich promote peanut acid";

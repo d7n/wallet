@@ -1,1 +1,1 @@
-var mnemonic = "fault scan absorb always cry clarify blade horse chair bitter order virus";
+var mnemonic = "gaze left local patch resource wood moment guitar alcohol wire cloud antenna";

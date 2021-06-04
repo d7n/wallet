@@ -1,1 +1,1 @@
-var mnemonic = "differ mention violin remain amused carry agent silk case length matrix topple";
+var mnemonic = "poet drastic mad script physical tooth ride pig sad helmet rapid pony";

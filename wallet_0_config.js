@@ -1,1 +1,1 @@
-var mnemonic = "pepper exile book author long island crew outside shock sock finger train";
+var mnemonic = "put list wear supreme extra trick glare skirt right call rubber waste";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar venture install magic jewel ethics sight mixture ladder orbit innocent oak";
+var mnemonic = "tortoise gap into mail bundle say cube patrol match across front snap";

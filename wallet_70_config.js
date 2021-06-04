@@ -1,1 +1,1 @@
-var mnemonic = "know erode leg dust sure human tiger pizza perfect finish spatial praise";
+var mnemonic = "tuna blouse educate thank bone father dragon switch sausage junk moment fiction";
