@@ -1,1 +1,1 @@
-var mnemonic = "loan own include news install merry release spike exhaust grab joke clap";
+var mnemonic = "accident museum enact ozone minimum hope crater assist clean choice raven meat";

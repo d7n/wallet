@@ -1,1 +1,1 @@
-var mnemonic = "deputy gift offer refuse cabin sponsor hint saddle duty mad rely eagle";
+var mnemonic = "height polar route vintage bar purpose rural job destroy text hedgehog pyramid";

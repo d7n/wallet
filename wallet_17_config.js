@@ -1,1 +1,1 @@
-var mnemonic = "process public garlic fun west useful shove prefer hard cable nice decorate";
+var mnemonic = "scheme junk awesome pupil labor primary wealth slim approve oil doctor supply";

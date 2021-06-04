@@ -1,1 +1,1 @@
-var mnemonic = "pistol neglect scorpion solve cream trend future seed wild desk arena fee";
+var mnemonic = "rug calm budget fiscal involve such agree silent abuse luxury reveal donkey";

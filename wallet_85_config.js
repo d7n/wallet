@@ -1,1 +1,1 @@
-var mnemonic = "agent strategy race ball thunder test cluster renew myth endless prepare version";
+var mnemonic = "credit profit birth bar maple ready marble various tide gallery earn toilet";

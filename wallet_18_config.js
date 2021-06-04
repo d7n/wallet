@@ -1,1 +1,1 @@
-var mnemonic = "empty voyage bridge orchard retreat process flavor sleep clarify spice hand envelope";
+var mnemonic = "pond reopen answer scrub either fragile inhale polar riot pony range aerobic";

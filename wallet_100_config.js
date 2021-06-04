@@ -1,1 +1,1 @@
-var mnemonic = "hope viable hedgehog meadow script public amateur zebra action series aware armor";
+var mnemonic = "also decorate banana banner refuse field van thank brown crime curtain crop";

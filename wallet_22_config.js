@@ -1,1 +1,1 @@
-var mnemonic = "lens unit kick ahead wagon soldier crew busy honey rose vibrant ostrich";
+var mnemonic = "desk carpet ignore elder thank antenna issue slam favorite define battle radio";

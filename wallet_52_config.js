@@ -1,1 +1,1 @@
-var mnemonic = "knock board eight worth retreat assume fault nose time assault text entry";
+var mnemonic = "target layer joy later rather welcome view bean ridge enforce pattern subway";

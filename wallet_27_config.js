@@ -1,1 +1,1 @@
-var mnemonic = "gallery book coconut fire leaf pause fiction twenty place topic when zoo";
+var mnemonic = "stand broccoli donor silk erode tank cloth purse click napkin license element";

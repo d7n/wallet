@@ -1,1 +1,1 @@
-var mnemonic = "car rice zebra receive shoot estate problem lawn diamond cancel slow chapter";
+var mnemonic = "banana gift job ask trap bonus kitten dwarf pepper razor brand weekend";

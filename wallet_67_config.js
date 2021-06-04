@@ -1,1 +1,1 @@
-var mnemonic = "story tomorrow pelican list buffalo gate about kick soft dream history evolve";
+var mnemonic = "table lock victory program bacon marriage machine cram wise champion slab visa";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff matrix baby pull tackle stable pig inject entry latin night frozen";
+var mnemonic = "struggle theory agree recipe lizard affair this combine faculty excess enough orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "drink exercise easy tent card census sponsor report december voyage reason erupt";
+var mnemonic = "staff neutral plastic twelve frozen cage earn dish case swear meadow quality";

@@ -1,1 +1,1 @@
-var mnemonic = "topple midnight velvet couch document agree click bubble casino head release any";
+var mnemonic = "shine column leopard bright buffalo lumber tail crater gorilla inherit inch logic";

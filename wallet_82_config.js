@@ -1,1 +1,1 @@
-var mnemonic = "fall girl endorse flavor gap document often calm label much upgrade during";
+var mnemonic = "response face process document decide delay occur dawn cupboard absent embark spread";

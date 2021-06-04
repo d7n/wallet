@@ -1,1 +1,1 @@
-var mnemonic = "library second catalog gown lizard loop tag cruel bike swim dose butter";
+var mnemonic = "border lava cook problem real toast boat punch silver hollow rule citizen";

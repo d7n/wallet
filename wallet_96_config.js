@@ -1,1 +1,1 @@
-var mnemonic = "reflect retire focus make someone firm survey neck pupil around wrong tissue";
+var mnemonic = "hair sibling language give zebra music whisper seek easily confirm life antique";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion become disagree evoke close undo ecology endorse since such draw embrace";
+var mnemonic = "purchase ivory pond invest side swamp forum palace grief coin disease fault";

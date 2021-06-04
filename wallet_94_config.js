@@ -1,1 +1,1 @@
-var mnemonic = "already arm genuine state switch soup certain wear biology letter time embark";
+var mnemonic = "sad congress urban sorry lab cause truth bind kingdom fancy atom answer";

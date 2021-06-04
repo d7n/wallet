@@ -1,1 +1,1 @@
-var mnemonic = "crew brave vocal cabin pause antique excess meat error affair arm cheap";
+var mnemonic = "sauce tired follow palace letter soda service bracket alien song river permit";

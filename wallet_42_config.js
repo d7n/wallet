@@ -1,1 +1,1 @@
-var mnemonic = "iron gift neutral manual casual crater pool trumpet beauty staff gun bird";
+var mnemonic = "canvas stumble mule neck offer gorilla sense sand grape panda found explain";

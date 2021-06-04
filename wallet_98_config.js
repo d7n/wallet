@@ -1,1 +1,1 @@
-var mnemonic = "amused shift ensure mechanic bomb expose divert rhythm organ bike black time";
+var mnemonic = "dial distance ankle between bar special olympic tomorrow flash coil staff town";

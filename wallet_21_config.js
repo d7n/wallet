@@ -1,1 +1,1 @@
-var mnemonic = "honey cannon target kingdom neutral choice dizzy afford size pilot bag grit";
+var mnemonic = "balance sustain repeat neutral cement negative royal dust blush differ tone exotic";

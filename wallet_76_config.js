@@ -1,1 +1,1 @@
-var mnemonic = "dawn decorate brush unable absorb fog giraffe ticket phone nurse seminar where";
+var mnemonic = "brush father struggle dynamic mask there master drift issue drift open relax";

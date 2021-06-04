@@ -1,1 +1,1 @@
-var mnemonic = "region grace clean trouble notice control forest excess tonight harvest obtain motion";
+var mnemonic = "include execute radar room orange rather vivid hard box entry scrap vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "twist horror door mushroom winter brief motor popular clip hip limb fall";
+var mnemonic = "plastic venue please bullet click doctor tuition solution buyer task select come";

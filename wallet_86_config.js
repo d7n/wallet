@@ -1,1 +1,1 @@
-var mnemonic = "friend idea warfare tumble flee title need broccoli acquire orbit increase believe";
+var mnemonic = "camera about anxiety type unfair good crater clog animal guess entire better";

@@ -1,1 +1,1 @@
-var mnemonic = "hill bag stuff palm reflect rifle purse install bronze fly over reason";
+var mnemonic = "false tomato shadow north sunset throw amount awesome movie leader yellow hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness pink lumber success truly bird album strategy rescue wing door day";
+var mnemonic = "quit loud remain attack soul make bronze ahead cupboard general donkey husband";

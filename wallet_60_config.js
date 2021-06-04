@@ -1,1 +1,1 @@
-var mnemonic = "viable hour veteran wire pioneer truth summer invest upgrade must arrow hurdle";
+var mnemonic = "laptop limb base prefer escape patch early obey pudding aspect bitter crack";

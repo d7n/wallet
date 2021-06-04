@@ -1,1 +1,1 @@
-var mnemonic = "media grant when guide sibling claw sketch super load cinnamon client middle";
+var mnemonic = "dust soup fix obscure clerk squeeze flush grace cup present benefit warm";

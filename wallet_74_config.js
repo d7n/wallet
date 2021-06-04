@@ -1,1 +1,1 @@
-var mnemonic = "food bind say permit pipe possible cruise emerge print enter sentence jacket";
+var mnemonic = "hurry bullet improve rain egg plate arctic record october task advance render";

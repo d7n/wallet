@@ -1,1 +1,1 @@
-var mnemonic = "trial remove rack already ill stage portion enroll dinner decrease blast moment";
+var mnemonic = "border critic warrior neutral farm despair joke liquid disorder pen carpet title";

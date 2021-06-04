@@ -1,1 +1,1 @@
-var mnemonic = "retreat code general wool grit school spend tooth first globe eight belt";
+var mnemonic = "vacuum width hawk absorb loyal illegal craft aspect mass volcano output close";

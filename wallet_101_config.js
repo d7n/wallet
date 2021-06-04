@@ -1,1 +1,1 @@
-var mnemonic = "cannon fish brain mansion topple asset mammal impact payment fantasy vanish claw";
+var mnemonic = "child power poverty casual picnic noble bargain base other slot hire they";

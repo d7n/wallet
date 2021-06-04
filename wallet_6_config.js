@@ -1,1 +1,1 @@
-var mnemonic = "chunk such head outer throw sleep truth protect kitchen horse cool often";
+var mnemonic = "depart tissue cliff armed field page critic slow diet spy panic fix";

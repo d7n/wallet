@@ -1,1 +1,1 @@
-var mnemonic = "oven increase medal differ dynamic treat bronze arrange circle walnut echo correct";
+var mnemonic = "target frog tennis entry nation mom decline much roast provide give vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors coin unhappy maid zero avoid enhance dawn wheel fly chunk merit";
+var mnemonic = "eyebrow unknown fine number life excite love measure major jazz logic hard";

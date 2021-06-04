@@ -1,1 +1,1 @@
-var mnemonic = "chuckle three laundry siren slide denial lemon shallow impact harvest dentist room";
+var mnemonic = "worth owner manage nose slim wolf guard kit wife idea absurd airport";

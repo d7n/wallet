@@ -1,1 +1,1 @@
-var mnemonic = "attitude drill pill harbor calm onion zoo market sick bomb foot switch";
+var mnemonic = "glare armor congress upset boost spread fatigue alarm play crane obscure sample";

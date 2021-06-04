@@ -1,1 +1,1 @@
-var mnemonic = "today busy dinner canal praise chapter vapor fish warrior bamboo critic hidden";
+var mnemonic = "envelope fatigue feature fragile maid else then convince april proud brisk verb";

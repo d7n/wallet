@@ -1,1 +1,1 @@
-var mnemonic = "aspect wood train dad poem near manage hard also chunk walnut guess";
+var mnemonic = "fresh cloud sight forget under express amount across coil cabbage afford aerobic";

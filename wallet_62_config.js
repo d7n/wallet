@@ -1,1 +1,1 @@
-var mnemonic = "abuse animal toward tomorrow accuse end swear boil tobacco accident bulb flower";
+var mnemonic = "skate project twenty wreck spot toward video glow remind spoon gentle relax";

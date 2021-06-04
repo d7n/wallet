@@ -1,1 +1,1 @@
-var mnemonic = "put list wear supreme extra trick glare skirt right call rubber waste";
+var mnemonic = "there can female flower rug all have imitate skill spin sugar bind";

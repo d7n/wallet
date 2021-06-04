@@ -1,1 +1,1 @@
-var mnemonic = "scorpion excuse banner prize life owner laugh used occur coast climb fun";
+var mnemonic = "carbon flock gown machine rifle hazard morning whisper delay off actress joke";

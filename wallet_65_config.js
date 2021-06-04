@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gap into mail bundle say cube patrol match across front snap";
+var mnemonic = "three begin baby summer volcano fury gospel betray clown behind foster tail";

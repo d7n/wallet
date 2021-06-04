@@ -1,1 +1,1 @@
-var mnemonic = "language retire moon pink rebuild choice antique adjust post undo road risk";
+var mnemonic = "proud noise behind help paper act math door avocado plug thunder profit";

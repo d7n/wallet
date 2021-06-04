@@ -1,1 +1,1 @@
-var mnemonic = "hollow tribe unknown unveil pumpkin execute kiss kingdom aunt fantasy collect gospel";
+var mnemonic = "already mix life another hamster bachelor repair bright zero sail robot filter";

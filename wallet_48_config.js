@@ -1,1 +1,1 @@
-var mnemonic = "upon bus spoil thing immense session divert tragic shock alarm require floor";
+var mnemonic = "crucial hair level flush chief believe dream hazard stamp stamp toward skin";

@@ -1,1 +1,1 @@
-var mnemonic = "current avoid hover volcano fee caution arrest across guess latin thank room";
+var mnemonic = "saddle float board always fee scorpion person tomato usage cake forum claw";

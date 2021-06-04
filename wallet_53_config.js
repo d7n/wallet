@@ -1,1 +1,1 @@
-var mnemonic = "decorate flower term one tribe shrug critic style grass between crash gain";
+var mnemonic = "bracket topic pink insane olive provide library long solution plug horn pencil";

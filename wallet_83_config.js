@@ -1,1 +1,1 @@
-var mnemonic = "squirrel become police quarter smart spray prefer basic tragic foil loop pink";
+var mnemonic = "weapon pattern foil lake smart angle blush bitter glide employ armor right";

@@ -1,1 +1,1 @@
-var mnemonic = "maze proud ski echo tilt bracket pink glory hat where enrich use";
+var mnemonic = "original install accuse talk fire wrong hurt butter mountain raven kitten merry";

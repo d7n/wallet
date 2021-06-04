@@ -1,1 +1,1 @@
-var mnemonic = "flag retreat lab head clarify sweet advance park ostrich promote peanut acid";
+var mnemonic = "age exclude bridge subway appear lottery actual bridge fresh cave rescue captain";

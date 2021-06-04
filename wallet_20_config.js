@@ -1,1 +1,1 @@
-var mnemonic = "soccer flower fitness gown cinnamon pizza office wild such stadium dream tenant";
+var mnemonic = "system melody episode piano second post net clump clog absurd noise cute";

@@ -1,1 +1,1 @@
-var mnemonic = "allow border minimum estate model crime enroll young will phone crystal usage";
+var mnemonic = "innocent silly expect certain merit film innocent mask once holiday funny vacant";

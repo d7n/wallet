@@ -1,1 +1,1 @@
-var mnemonic = "life behave taxi you transfer practice dad leopard conduct apology velvet cry";
+var mnemonic = "fence antenna afraid kiwi add demand nut budget enemy border question claw";

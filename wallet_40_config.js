@@ -1,1 +1,1 @@
-var mnemonic = "gold ride joy dose kitchen sun vital decrease warrior ticket mistake effort";
+var mnemonic = "frost captain wrist day riot rubber soap park zoo tuition coral sauce";

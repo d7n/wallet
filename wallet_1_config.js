@@ -1,1 +1,1 @@
-var mnemonic = "apology hard curtain bless pear vintage series history hub adapt inform blood";
+var mnemonic = "option clarify exact decline position call damp squeeze expose shiver critic cat";

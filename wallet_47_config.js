@@ -1,1 +1,1 @@
-var mnemonic = "gift screen cabin release trap subway library hollow abandon father inch domain";
+var mnemonic = "champion such deal smoke item heart job purity various excuse process bird";

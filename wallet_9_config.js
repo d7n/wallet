@@ -1,1 +1,1 @@
-var mnemonic = "network essence ten carry edit height snack exotic corn silver wisdom sunset";
+var mnemonic = "conduct deliver want glare sock try ghost build home spell cost piano";

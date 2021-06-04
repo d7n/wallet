@@ -1,1 +1,1 @@
-var mnemonic = "rail mammal grace denial era fuel repair lemon trap refuse verify dress";
+var mnemonic = "tone post impose cargo monster social dice town gesture milk museum squeeze";

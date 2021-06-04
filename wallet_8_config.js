@@ -1,1 +1,1 @@
-var mnemonic = "raccoon despair shine say deliver critic mercy dish potato panther cupboard goat";
+var mnemonic = "hobby future shiver rude leader this excess episode hundred ocean clog actress";

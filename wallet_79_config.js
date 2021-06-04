@@ -1,1 +1,1 @@
-var mnemonic = "gaze left local patch resource wood moment guitar alcohol wire cloud antenna";
+var mnemonic = "concert bracket debate diet zebra sugar domain twelve amount floor limb they";

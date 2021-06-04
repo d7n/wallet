@@ -1,1 +1,1 @@
-var mnemonic = "dash dune strike tackle bright noble decrease ability move flip advance blossom";
+var mnemonic = "sniff champion erupt permit cereal worry mushroom coffee day twenty unknown wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "shine update finish indicate audit actress decade noise reform banner artist power";
+var mnemonic = "text issue sea rescue enroll off decade pass antique royal nominee flame";

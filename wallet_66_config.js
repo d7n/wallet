@@ -1,1 +1,1 @@
-var mnemonic = "access leisure south seed gym enforce intact wink goat rookie water thunder";
+var mnemonic = "adult language tuna tomorrow roast problem unit dismiss cloud brass check sister";

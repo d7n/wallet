@@ -1,1 +1,1 @@
-var mnemonic = "fun cool six mountain someone talk pottery element payment tomorrow replace they";
+var mnemonic = "clown buffalo trophy trigger minor tomato old ring check feature laptop decorate";

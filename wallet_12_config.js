@@ -1,1 +1,1 @@
-var mnemonic = "protect model differ spike advice another mistake pole income ugly bamboo behave";
+var mnemonic = "matrix champion bind text attend february salt crucial deny turtle gorilla menu";

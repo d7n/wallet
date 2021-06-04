@@ -1,1 +1,1 @@
-var mnemonic = "shrimp until hazard soccer tape talent ranch auction foam chuckle glory canvas";
+var mnemonic = "hire home original pretty surprise place virus depart oak swing company gorilla";

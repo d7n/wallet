@@ -1,1 +1,1 @@
-var mnemonic = "ring wedding visa around youth web neutral busy shoot twenty fox dinosaur";
+var mnemonic = "hub destroy priority giant cliff drama canoe primary panda gun pigeon hand";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff leg deputy like enact candy okay zero glimpse length pet adjust";
+var mnemonic = "subject anxiety exile expire wash tell provide bundle portion night midnight fix";

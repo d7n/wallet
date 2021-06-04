@@ -1,1 +1,1 @@
-var mnemonic = "swim color social length hen fit mad yellow broccoli street pig loan";
+var mnemonic = "life secret leave way twenty spice south lunch man filter april fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar hawk surge more cruise ramp early alert ridge tissue goddess million";
+var mnemonic = "chaos fragile fluid position topic obvious ill click volume donkey sight ugly";

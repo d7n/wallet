@@ -1,1 +1,1 @@
-var mnemonic = "spring innocent west library equip conduct lawsuit page horse dune civil smile";
+var mnemonic = "market input rally fuel spin awake lock cover amount grit vendor gather";

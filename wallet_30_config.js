@@ -1,1 +1,1 @@
-var mnemonic = "armor picture love female height penalty obvious jacket priority cup smooth enemy";
+var mnemonic = "cradle sure million loyal left toss mother movie primary virus bus payment";

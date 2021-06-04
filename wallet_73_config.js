@@ -1,1 +1,1 @@
-var mnemonic = "attack order antique sibling doctor cupboard isolate hour artist reject always dream";
+var mnemonic = "flag rely room cinnamon kangaroo cloud sock convince because source require ladder";

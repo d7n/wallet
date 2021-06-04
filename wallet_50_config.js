@@ -1,1 +1,1 @@
-var mnemonic = "love imitate vague monitor avoid twin thumb panic interest diesel negative donor";
+var mnemonic = "liberty all diesel faculty maid cruise skill tip beauty pool client patient";

@@ -1,1 +1,1 @@
-var mnemonic = "afford ask frozen expand skate camp owner shift core young coyote weather";
+var mnemonic = "income giggle blood confirm income tooth enforce acquire another congress squeeze aspect";

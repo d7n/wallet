@@ -1,1 +1,1 @@
-var mnemonic = "goddess asset upset gym gospel cliff gloom glimpse tongue critic master blue";
+var mnemonic = "clock just first volcano castle sell balcony sentence next online plate soup";

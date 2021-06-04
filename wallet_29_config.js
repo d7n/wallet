@@ -1,1 +1,1 @@
-var mnemonic = "layer forward gasp laundry keen cotton enhance normal fruit unlock blush upon";
+var mnemonic = "net alpha shop original outer anger inflict alcohol hollow snap release security";

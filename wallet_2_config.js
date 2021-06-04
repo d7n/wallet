@@ -1,1 +1,1 @@
-var mnemonic = "wagon rain profit strike isolate cute master vote permit gas maid year";
+var mnemonic = "vapor reduce attract engine image rate code mad ghost render secret fantasy";

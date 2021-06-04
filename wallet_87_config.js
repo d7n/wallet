@@ -1,1 +1,1 @@
-var mnemonic = "double frown strategy fury banana case net expire idle replace possible alert";
+var mnemonic = "crash drama resist flock cherry dad distance cushion away blur bachelor expect";

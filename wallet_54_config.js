@@ -1,1 +1,1 @@
-var mnemonic = "shock rebuild when enroll name wrong stool level damage sport milk mail";
+var mnemonic = "quantum prefer nut person oval soup kitten maple hotel cruel artwork swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "slam faint equal mimic invite near iron raven viable lemon stairs key";
+var mnemonic = "cram nurse tilt direct clump reason admit pear poem prosper indoor muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "castle source heavy daughter road post clean ripple enjoy kite dawn lava";
+var mnemonic = "radio butter valve tape small dial marble wasp fever replace arrest armed";

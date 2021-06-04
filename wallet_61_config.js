@@ -1,1 +1,1 @@
-var mnemonic = "oven margin face receive core habit piano hair excite evil rookie gun";
+var mnemonic = "decrease improve civil comic sniff must insect sure street siren provide olive";

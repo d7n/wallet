@@ -1,1 +1,1 @@
-var mnemonic = "harsh acid knife keep device eternal dial pull cup noodle burst buzz";
+var mnemonic = "magic dumb wait mind expose large minute dynamic half protect lounge tobacco";

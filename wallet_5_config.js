@@ -1,1 +1,1 @@
-var mnemonic = "spare wolf lens gold tornado plate wrap breeze describe picture chalk frost";
+var mnemonic = "crew exotic side oyster puppy wagon october involve pony sting retreat parade";

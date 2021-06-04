@@ -1,1 +1,1 @@
-var mnemonic = "tuna blouse educate thank bone father dragon switch sausage junk moment fiction";
+var mnemonic = "fabric shuffle swap pattern couple tomorrow suffer birth scissors youth predict street";

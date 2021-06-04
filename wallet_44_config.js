@@ -1,1 +1,1 @@
-var mnemonic = "body praise already rotate crane burger wife boost filter swarm where segment";
+var mnemonic = "slush hybrid soda repair ball better pause left happy mixture spike desk";

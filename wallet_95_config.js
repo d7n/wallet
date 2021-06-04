@@ -1,1 +1,1 @@
-var mnemonic = "phrase cable whale casual feel very grant surface sweet appear fame glad";
+var mnemonic = "situate must dove police burger tragic cherry trust beyond section empty attend";
