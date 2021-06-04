@@ -1,1 +1,1 @@
-var mnemonic = "pelican vacant unhappy silly poverty retire apple clerk table food receive lumber";
+var mnemonic = "gas spring judge much income piece magic special left embark song tissue";

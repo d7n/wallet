@@ -1,1 +1,1 @@
-var mnemonic = "champion antique crumble truth wool anxiety attend cloud notice boat express asthma";
+var mnemonic = "noble fuel sniff sea analyst symptom gloom reform opinion opinion cement critic";

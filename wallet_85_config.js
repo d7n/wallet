@@ -1,1 +1,1 @@
-var mnemonic = "range shoe south ticket pool endorse cattle distance okay box december object";
+var mnemonic = "clock squirrel mystery oak chair job chalk truck museum method language bottom";

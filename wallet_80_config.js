@@ -1,1 +1,1 @@
-var mnemonic = "zebra leaf blouse practice wish trigger lion holiday saddle upgrade auction tissue";
+var mnemonic = "sea enlist pepper limb knife token often yard favorite anger sugar disease";

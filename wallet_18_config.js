@@ -1,1 +1,1 @@
-var mnemonic = "chicken cash tribe bottom accuse valley badge biology poem saddle imitate toe";
+var mnemonic = "celery calm term mind clump cash jazz now turn stumble multiply muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "average tongue calm entry mention vintage avoid result derive noise lake permit";
+var mnemonic = "climb staff donkey coin ecology kit truth desk half enemy orient become";

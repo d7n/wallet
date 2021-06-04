@@ -1,1 +1,1 @@
-var mnemonic = "merit ten urban wedding slot board faint mean sell label pig car";
+var mnemonic = "method flag trend inject fix dinosaur myth harbor attend quiz butter hurdle";

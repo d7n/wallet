@@ -1,1 +1,1 @@
-var mnemonic = "kitten enlist lemon guard response extra favorite wet weapon salt vibrant phrase";
+var mnemonic = "length forward drill panda daughter follow mule raw guard pole damp sing";

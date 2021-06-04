@@ -1,1 +1,1 @@
-var mnemonic = "raw come weasel consider soon expire list asset club crazy harsh jewel";
+var mnemonic = "clock phone family kiss scheme fall lab kite muffin club tobacco waste";

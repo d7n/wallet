@@ -1,1 +1,1 @@
-var mnemonic = "inmate dress bracket access wheel result inhale bus hen muffin apart raccoon";
+var mnemonic = "expose raccoon october strike acoustic orphan hope around uphold stone mixture cherry";

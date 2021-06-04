@@ -1,1 +1,1 @@
-var mnemonic = "champion scare rich corn twice asset cricket rather they hurry inform myth";
+var mnemonic = "divert robot hungry mutual globe rain burden capital sentence item earn door";

@@ -1,1 +1,1 @@
-var mnemonic = "sport domain fame abuse guide wreck imitate grow journey rapid rubber minute";
+var mnemonic = "point maid pupil buzz valid eternal human corn spin gas avoid quote";

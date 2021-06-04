@@ -1,1 +1,1 @@
-var mnemonic = "tail antenna two piece bullet scorpion parade weird divert engine butter limit";
+var mnemonic = "connect end slab method square prosper crystal swamp bar mix kiwi pioneer";

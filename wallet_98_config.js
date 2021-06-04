@@ -1,1 +1,1 @@
-var mnemonic = "marble age dinner menu fuel despair attract provide pride fiscal develop dwarf";
+var mnemonic = "reflect slab engage window ridge hill carry choose smoke road tooth jewel";

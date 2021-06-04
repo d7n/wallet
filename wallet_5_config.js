@@ -1,1 +1,1 @@
-var mnemonic = "spoon abuse island action aim happy north curve fire convince flame pelican";
+var mnemonic = "athlete lawsuit disagree round cube slice citizen riot behind mule relief warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "wise ocean cotton mercy comic priority machine curtain friend wasp dust casino";
+var mnemonic = "barrel catalog excess reopen unlock banana push purchase mask hollow year galaxy";

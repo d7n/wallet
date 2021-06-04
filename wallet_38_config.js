@@ -1,1 +1,1 @@
-var mnemonic = "mother loyal lunar hero ketchup baby suspect shop net urban media jacket";
+var mnemonic = "interest tiny abuse cigar crumble basic crystal pride tower forum medal ocean";

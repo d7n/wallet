@@ -1,1 +1,1 @@
-var mnemonic = "pen there fruit maximum belt boring fold soccer admit search rib panther";
+var mnemonic = "exercise depart merit flip miracle crop spirit travel boil label bundle shoot";

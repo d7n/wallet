@@ -1,1 +1,1 @@
-var mnemonic = "river wheat asset hint staff raven purpose call undo tattoo era vanish";
+var mnemonic = "luxury day sample cattle rich educate twin start satoshi sunset wrist recipe";

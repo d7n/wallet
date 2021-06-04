@@ -1,1 +1,1 @@
-var mnemonic = "gift guitar cool crouch own crane spawn attract acquire artefact term insect";
+var mnemonic = "measure jaguar grain such bracket general case tunnel life jazz divide parrot";

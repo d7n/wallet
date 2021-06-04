@@ -1,1 +1,1 @@
-var mnemonic = "zoo plunge fee bone face grain person basket write swing weekend during";
+var mnemonic = "destroy bleak chest habit work trim talent lens begin good flight cry";

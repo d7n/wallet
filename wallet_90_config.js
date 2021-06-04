@@ -1,1 +1,1 @@
-var mnemonic = "guess wrap month around scene fall foster staff spider simple surround payment";
+var mnemonic = "beef order amount bright fiction glory lab security renew top puzzle cruise";

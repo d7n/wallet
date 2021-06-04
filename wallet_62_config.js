@@ -1,1 +1,1 @@
-var mnemonic = "gate vanish ice rebel become march always proof exact trust oven boil";
+var mnemonic = "drastic civil reason comic venue merry east sketch please ocean casual valve";

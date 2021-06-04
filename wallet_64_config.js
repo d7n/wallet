@@ -1,1 +1,1 @@
-var mnemonic = "slush memory humble rug stool affair beef poem program quarter enable sick";
+var mnemonic = "live fitness agent wife charge vote defense useless trophy humble idea worry";

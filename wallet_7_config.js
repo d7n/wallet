@@ -1,1 +1,1 @@
-var mnemonic = "hollow fault wide planet bicycle length renew rubber stick cute flat lawsuit";
+var mnemonic = "media flush earn pole toward add snap base joke hobby mix flip";

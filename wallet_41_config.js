@@ -1,1 +1,1 @@
-var mnemonic = "distance drill law voyage fall wealth exhibit left bottom entire dial about";
+var mnemonic = "group panther sibling meat list worry tissue proud boss envelope relax leisure";

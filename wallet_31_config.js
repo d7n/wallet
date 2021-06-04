@@ -1,1 +1,1 @@
-var mnemonic = "end bachelor tool advice brick hand hollow chunk kiss misery member below";
+var mnemonic = "tiny opinion spoon twice enact method amazing buyer intact pool bundle river";

@@ -1,1 +1,1 @@
-var mnemonic = "north crack they scare stumble force electric valley tuna spawn repair syrup";
+var mnemonic = "draft ahead decorate soon decorate hammer destroy bus stage perfect guess lock";

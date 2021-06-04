@@ -1,1 +1,1 @@
-var mnemonic = "people advice drama scrub glare fall hair hurdle conduct axis green wet";
+var mnemonic = "misery allow trophy faint flat remind better elevator proof pulp rule matrix";

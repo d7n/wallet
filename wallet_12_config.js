@@ -1,1 +1,1 @@
-var mnemonic = "bag give force marriage correct message captain basket father true scorpion outside";
+var mnemonic = "suggest brush image fuel hobby broken width liberty shock child focus menu";

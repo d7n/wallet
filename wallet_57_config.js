@@ -1,1 +1,1 @@
-var mnemonic = "venue sustain burger buddy leaf dash giggle surface yard obey faculty fix";
+var mnemonic = "address sleep copy trial wrong sure super clever sorry step avoid rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "plug swarm pizza voice want old suit click fetch project entire entire";
+var mnemonic = "safe woman upset pause twice call physical country iron chunk glimpse shock";

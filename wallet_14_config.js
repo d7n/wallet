@@ -1,1 +1,1 @@
-var mnemonic = "summer table merit picnic blast voyage wrap crush neutral bike satoshi mammal";
+var mnemonic = "inner gaze shadow parrot narrow script inform meat shallow motion unlock tool";

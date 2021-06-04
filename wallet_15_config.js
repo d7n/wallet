@@ -1,1 +1,1 @@
-var mnemonic = "brown slice school lounge lady film loop huge indoor rebuild wait protect";
+var mnemonic = "degree diesel unveil soda assault blush since arrest blossom soon critic about";

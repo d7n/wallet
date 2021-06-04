@@ -1,1 +1,1 @@
-var mnemonic = "crew provide certain cram admit peace image catch chair canvas east swim";
+var mnemonic = "choose shiver manage picture total prize giraffe uphold motion flip maximum secret";

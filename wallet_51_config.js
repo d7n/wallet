@@ -1,1 +1,1 @@
-var mnemonic = "all maple fog nuclear joy hen theory melody injury eight invest rack";
+var mnemonic = "tobacco shuffle problem quantum cable find fury isolate sense leader gallery sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "negative private finish task smoke history uniform believe timber candy now garden";
+var mnemonic = "rain impulse unhappy print mountain direct venue kidney pair best senior tide";

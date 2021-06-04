@@ -1,1 +1,1 @@
-var mnemonic = "culture gas sausage left secret arrest daring hold exile scorpion umbrella twelve";
+var mnemonic = "canoe leave soldier library toe else about comic place stadium tide beef";

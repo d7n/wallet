@@ -1,1 +1,1 @@
-var mnemonic = "drift point draft federal remember tribe account injury detect arena summer alone";
+var mnemonic = "mansion recall pig rack dove put risk lend industry twice about slim";

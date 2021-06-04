@@ -1,1 +1,1 @@
-var mnemonic = "toilet garment syrup potato satoshi split minute success grid venue beauty market";
+var mnemonic = "farm impulse bag pulp size round track pattern silly royal coil museum";

@@ -1,1 +1,1 @@
-var mnemonic = "goose fatal dry orange limb version cause ski finish scorpion ecology nothing";
+var mnemonic = "divide awful shield trap enact pig random vicious property water equip skin";

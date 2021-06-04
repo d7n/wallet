@@ -1,1 +1,1 @@
-var mnemonic = "inherit improve ship prefer museum riot frost oppose income celery brush feature";
+var mnemonic = "fog false kit market doll cabin post crystal blur seven move bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "brown antenna unaware save monitor weasel symptom girl annual case video confirm";
+var mnemonic = "clarify owner need hard order logic live all describe ladder tide source";

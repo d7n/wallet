@@ -1,1 +1,1 @@
-var mnemonic = "express tiger decline margin torch universe say other grit veteran swap right";
+var mnemonic = "summer road scene draw soda purpose shrimp column response melt flip gloom";

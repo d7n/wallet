@@ -1,1 +1,1 @@
-var mnemonic = "praise inflict fresh transfer lawsuit shuffle loyal dial napkin crazy impulse safe";
+var mnemonic = "else oblige output elevator mistake album unusual false wisdom project black whip";

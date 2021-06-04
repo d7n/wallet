@@ -1,1 +1,1 @@
-var mnemonic = "other arrest blur occur recall lady worry order winner account inch until";
+var mnemonic = "multiply tackle chef team spoon veteran short trap matrix rate spike antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold machine beauty oil drink buddy ordinary smile decide height crazy win";
+var mnemonic = "glad dentist pen indoor bamboo limb test actor biology upgrade surround rare";

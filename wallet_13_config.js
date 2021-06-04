@@ -1,1 +1,1 @@
-var mnemonic = "assist wage spirit super month online usage gossip off position afraid confirm";
+var mnemonic = "waste fee orient bounce scheme degree there forward indicate actor arm boss";

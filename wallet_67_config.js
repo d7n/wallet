@@ -1,1 +1,1 @@
-var mnemonic = "metal three lounge annual sauce wild bundle pair kidney primary clever exit";
+var mnemonic = "stamp blue sand capital magic grit effort amateur ball police visit salute";

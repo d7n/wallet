@@ -1,1 +1,1 @@
-var mnemonic = "spare venture drastic ice vault airport guide rabbit oxygen spin ankle awful";
+var mnemonic = "acquire august early govern video husband spin reward tuition cycle speed census";

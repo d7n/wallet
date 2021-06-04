@@ -1,1 +1,1 @@
-var mnemonic = "hobby keen cotton auto barrel edge advance over cotton tree nest grain";
+var mnemonic = "wagon million february medal basic tortoise swamp layer dignity december put device";

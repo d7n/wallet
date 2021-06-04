@@ -1,1 +1,1 @@
-var mnemonic = "engage aware nut maximum slide trial text suffer bracket ordinary garment deposit";
+var mnemonic = "close gun feed pond boss used balance kick rocket special cushion mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft this advance corn topic fetch slight stage pupil imitate gaze quit";
+var mnemonic = "comic shop false rival trade know hair desert celery real craft manage";

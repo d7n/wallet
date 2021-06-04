@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur number juice coach junk prosper save fee ankle height march laundry";
+var mnemonic = "dry endorse oak tribe glove bike search december misery merit try supply";

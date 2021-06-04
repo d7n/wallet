@@ -1,1 +1,1 @@
-var mnemonic = "antenna target during level pelican hover inherit tell salon riot hover net";
+var mnemonic = "tape milk exile rug convince anchor bracket smile rack lamp identify load";

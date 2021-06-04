@@ -1,1 +1,1 @@
-var mnemonic = "dutch gossip smoke myself device scene crumble merry define record amused rain";
+var mnemonic = "august please bird quote palace toe minimum month enact genre idle galaxy";

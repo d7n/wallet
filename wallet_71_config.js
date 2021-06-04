@@ -1,1 +1,1 @@
-var mnemonic = "cross coach march harvest clock present trophy describe trial depart series phrase";
+var mnemonic = "noble issue another banana above cram scale cactus long empower scout sell";

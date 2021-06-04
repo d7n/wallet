@@ -1,1 +1,1 @@
-var mnemonic = "figure chair palm grid curve name ride certain pupil battle image penalty";
+var mnemonic = "father release party staff target library album favorite file swallow habit leisure";

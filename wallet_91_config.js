@@ -1,1 +1,1 @@
-var mnemonic = "maximum physical grit silk topple silent caught develop october nice joke doctor";
+var mnemonic = "clinic miss bachelor purchase theme high hazard wave edit also margin veteran";

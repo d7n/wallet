@@ -1,1 +1,1 @@
-var mnemonic = "poverty airport smooth erosion ring easy correct melt scene burden weapon taxi";
+var mnemonic = "domain anxiety olympic nephew scatter weekend way goddess bubble border original romance";

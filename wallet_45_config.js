@@ -1,1 +1,1 @@
-var mnemonic = "creek april afraid also prevent audit merry silent grocery shell garbage slide";
+var mnemonic = "whale snow sausage royal sting quantum flat accuse inspire install transfer edit";

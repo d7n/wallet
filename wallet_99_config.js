@@ -1,1 +1,1 @@
-var mnemonic = "snow animal rail engine invite idea fantasy minor diesel bread rotate ship";
+var mnemonic = "rebel know account digital cousin promote simple two effort common park body";

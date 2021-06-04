@@ -1,1 +1,1 @@
-var mnemonic = "obey west cancel actual eye chicken ask float orient screen source inspire";
+var mnemonic = "robust volume mean elegant toy train update firm urge desert sound mango";

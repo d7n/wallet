@@ -1,1 +1,1 @@
-var mnemonic = "faint oppose gaze magic draw member tuna burst pencil hover salute exhibit";
+var mnemonic = "fog wash disorder what melody often ugly fresh resist also husband priority";

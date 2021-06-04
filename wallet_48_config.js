@@ -1,1 +1,1 @@
-var mnemonic = "cool prison betray cancel stable warfare diet switch zero purchase practice blood";
+var mnemonic = "guitar juice parade mercy direct solar call shuffle car amused shiver wire";

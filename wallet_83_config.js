@@ -1,1 +1,1 @@
-var mnemonic = "drop wreck pumpkin submit guess artwork act supreme actress entire vocal dentist";
+var mnemonic = "video found spoil extra inmate motion panda magnet fortune foster flush seek";

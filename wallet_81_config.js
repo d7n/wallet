@@ -1,1 +1,1 @@
-var mnemonic = "match develop lamp sausage pool century emerge impulse regular holiday street crash";
+var mnemonic = "result direct area blind absent leopard suit husband miss quote ability web";

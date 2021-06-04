@@ -1,1 +1,1 @@
-var mnemonic = "jaguar riot sausage unlock human ship sell hood cake special lens jar";
+var mnemonic = "federal poet gold claim present stairs depend coyote start define august hurt";

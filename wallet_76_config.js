@@ -1,1 +1,1 @@
-var mnemonic = "wedding kitchen essay ceiling target disagree dune fatigue around orbit remain team";
+var mnemonic = "pyramid topple found museum affair skirt coconut abuse door actress asset room";

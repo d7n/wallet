@@ -1,1 +1,1 @@
-var mnemonic = "early smoke mass stage risk pepper curious grab muffin obey consider bulk";
+var mnemonic = "base cube castle trend stadium issue sleep tourist dragon fall route grit";

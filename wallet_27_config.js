@@ -1,1 +1,1 @@
-var mnemonic = "stereo field fold pepper father festival modify hard hat poem avocado fit";
+var mnemonic = "club sword what record remember label regular close index body mechanic deal";

@@ -1,1 +1,1 @@
-var mnemonic = "advance water success drip toast room odor chuckle post segment stage snake";
+var mnemonic = "mass ring crystal shadow blush gossip addict attack tattoo bar edit rural";

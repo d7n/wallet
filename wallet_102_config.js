@@ -1,1 +1,1 @@
-var mnemonic = "hobby hero author cause fluid corn rescue imitate team lounge expect quote";
+var mnemonic = "horror disagree town bamboo only kick debris demise genre negative elevator ladder";

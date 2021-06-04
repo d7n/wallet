@@ -1,1 +1,1 @@
-var mnemonic = "manual destroy bitter ride eye sniff settle decorate short atom funny enact";
+var mnemonic = "lecture uphold first army must cradle patch trap perfect dumb brown cost";

@@ -1,1 +1,1 @@
-var mnemonic = "venue bomb display leader notice debate duty pigeon keep month coyote dad";
+var mnemonic = "decorate giant copy write cargo claw box embark airport resemble author wrong";

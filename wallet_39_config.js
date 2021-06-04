@@ -1,1 +1,1 @@
-var mnemonic = "enemy vehicle age point excess tomato rifle cupboard latin blast relief render";
+var mnemonic = "reason parrot nurse universe obtain demand wedding solid sphere cloud thumb web";

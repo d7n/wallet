@@ -1,1 +1,1 @@
-var mnemonic = "diesel parrot flash across another scout excuse chalk salute eight sunset frozen";
+var mnemonic = "rhythm trust symptom mushroom picnic quick tunnel sudden fringe lend approve slide";

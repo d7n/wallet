@@ -1,1 +1,1 @@
-var mnemonic = "estate fan inch grab pig attack inmate carry nest decrease unable fiscal";
+var mnemonic = "blouse magnet people margin crawl fine direct moment sick lamp push tumble";

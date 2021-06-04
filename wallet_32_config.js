@@ -1,1 +1,1 @@
-var mnemonic = "uphold cactus harvest sugar armed stay chase purpose quote slow rack aisle";
+var mnemonic = "gym history tattoo perfect universe scorpion must hub sure dog together pledge";

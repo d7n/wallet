@@ -1,1 +1,1 @@
-var mnemonic = "game hazard flash mobile answer addict trip skin slot round blood illegal";
+var mnemonic = "seed hub light innocent evolve robot table slab pair genre relax blanket";

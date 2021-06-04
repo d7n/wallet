@@ -1,1 +1,1 @@
-var mnemonic = "sugar sense rebuild vivid desk trash loud eye wasp ketchup suspect victory";
+var mnemonic = "intact box crawl great text proud amateur arrange daring chicken timber panel";

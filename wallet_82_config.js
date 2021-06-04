@@ -1,1 +1,1 @@
-var mnemonic = "wish word cycle clerk muffin foil patient expose speed world slogan magnet";
+var mnemonic = "fever innocent ribbon tower opera rice twice erase trim click shield check";

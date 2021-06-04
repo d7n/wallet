@@ -1,1 +1,1 @@
-var mnemonic = "swallow dismiss pole arena limit toe erosion basket security buddy almost common";
+var mnemonic = "come order tell quiz few book cash arrange client venture empower taxi";

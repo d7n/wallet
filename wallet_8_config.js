@@ -1,1 +1,1 @@
-var mnemonic = "output cereal inform between immense clog access dream wise track senior light";
+var mnemonic = "bridge bronze analyst three box share canoe bubble infant castle you escape";

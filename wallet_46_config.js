@@ -1,1 +1,1 @@
-var mnemonic = "joke slow armor grow priority early target usage hospital era output fox";
+var mnemonic = "soul about foil diamond amused repeat crime cushion tattoo cool prize abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "salute unhappy beef gaze elite lamp rack dwarf taste multiply soccer absurd";
+var mnemonic = "hero sort risk coach way old minimum load jewel guitar stamp clutch";

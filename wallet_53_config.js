@@ -1,1 +1,1 @@
-var mnemonic = "enjoy gallery maid assume brisk blast nut buffalo into scissors risk capital";
+var mnemonic = "crucial news simple gym tobacco scatter grid general stool spike assault scrub";

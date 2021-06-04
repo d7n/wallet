@@ -1,1 +1,1 @@
-var mnemonic = "regular wealth funny culture pulse reform conduct sing observe timber rotate mosquito";
+var mnemonic = "peanut artefact rice use kid rotate cinnamon kangaroo skin kick kite domain";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster net taxi twelve access mention lock donor empty donor simple glue";
+var mnemonic = "excuse common today purity miss riot reduce pigeon cattle child poem merge";

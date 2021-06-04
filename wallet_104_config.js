@@ -1,1 +1,1 @@
-var mnemonic = "ugly arena regret syrup lens wrong firm village day rain blade deposit";
+var mnemonic = "fault jazz medal record dawn interest sell shop cloud move meadow animal";

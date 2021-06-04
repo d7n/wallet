@@ -1,1 +1,1 @@
-var mnemonic = "own magnet energy jewel own arrest panel swallow impulse just robust evoke";
+var mnemonic = "snack supply square bicycle refuse riot mimic click nurse toe alien pass";

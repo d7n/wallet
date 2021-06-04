@@ -1,1 +1,1 @@
-var mnemonic = "ramp syrup cluster zebra minor trend abandon three search rescue tag rotate";
+var mnemonic = "square crunch arrest quit cloud love dolphin cruel lyrics blur brain bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner luggage swift melt toward gas invest obscure best sentence sustain trash";
+var mnemonic = "dress swap later escape journey always tide dance police raise current write";
