@@ -1,1 +1,1 @@
-var mnemonic = "join harvest garlic crazy pause mule clump ecology hamster payment cable become";
+var mnemonic = "pact pipe hour cheese grocery again merit toe into patient before consider";

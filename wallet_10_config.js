@@ -1,1 +1,1 @@
-var mnemonic = "theory pond keen filter peasant monster fog surprise bean slice vessel mistake";
+var mnemonic = "uphold jelly truck raw response inch inquiry tattoo problem comfort neutral shop";

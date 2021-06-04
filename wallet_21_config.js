@@ -1,1 +1,1 @@
-var mnemonic = "day deny monster security husband share pitch vessel action awake bundle radar";
+var mnemonic = "mad property thumb record game clump pledge save name unlock aspect ritual";

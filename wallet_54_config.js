@@ -1,1 +1,1 @@
-var mnemonic = "eye maze where outer describe roast faculty cat decide maze chalk carbon";
+var mnemonic = "iron cake crucial glove glue betray antique client lawn mushroom cradle retreat";

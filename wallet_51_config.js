@@ -1,1 +1,1 @@
-var mnemonic = "must such square kick hair diary lens ladder ladder siren profit tennis";
+var mnemonic = "blind cool mushroom hire key mobile day fortune analyst funny gas this";

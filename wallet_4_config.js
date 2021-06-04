@@ -1,1 +1,1 @@
-var mnemonic = "cradle bachelor group bubble asset merge aim antique promote student put critic";
+var mnemonic = "celery purity will volcano antique prison category popular bacon wet brisk million";

@@ -1,1 +1,1 @@
-var mnemonic = "runway child reflect olive dynamic grid century share tag grain search input";
+var mnemonic = "turtle cotton pause couple spawn cloud balcony funny someone afford tongue skate";

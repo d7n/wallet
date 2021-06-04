@@ -1,1 +1,1 @@
-var mnemonic = "predict open shed chef life jar genius depart bread bomb shoe health";
+var mnemonic = "general lucky behind museum surround hundred pizza bless insect one dinosaur battle";

@@ -1,1 +1,1 @@
-var mnemonic = "immune roof hunt call chest april potato pipe before engage sugar wear";
+var mnemonic = "rose excess drama auction reward tool build old phrase lunar wave lonely";

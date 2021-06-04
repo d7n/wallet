@@ -1,1 +1,1 @@
-var mnemonic = "dad refuse elder chat either admit judge choose ice used jaguar together";
+var mnemonic = "gloom hunt nephew circle bright excite quote ancient elder push client baby";

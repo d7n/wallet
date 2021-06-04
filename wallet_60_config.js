@@ -1,1 +1,1 @@
-var mnemonic = "often youth swim blossom exile envelope man farm smooth they fancy present";
+var mnemonic = "panther fly dog coconut panda tiny pudding parade coyote ranch sample era";

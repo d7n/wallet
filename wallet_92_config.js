@@ -1,1 +1,1 @@
-var mnemonic = "story merit home scare ribbon call alley moral boat senior discover slim";
+var mnemonic = "expect thank usage clown bind spray resource salmon tattoo mixed dove lonely";

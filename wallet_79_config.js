@@ -1,1 +1,1 @@
-var mnemonic = "apple physical legal soccer team film brand soup segment venture okay april";
+var mnemonic = "video menu catch soda fox moment brain sound waste bone avoid struggle";

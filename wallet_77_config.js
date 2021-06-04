@@ -1,1 +1,1 @@
-var mnemonic = "combine unfold worth obscure improve zebra energy alien coconut crash thought plug";
+var mnemonic = "maid power crack attend credit bench very miracle vital edge media timber";

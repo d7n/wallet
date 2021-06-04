@@ -1,1 +1,1 @@
-var mnemonic = "ritual indicate title round lawn scare wisdom attend margin cotton virtual mushroom";
+var mnemonic = "ozone exercise bamboo cause zebra oil panel black town possible cereal embrace";

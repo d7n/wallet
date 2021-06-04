@@ -1,1 +1,1 @@
-var mnemonic = "vote tomorrow ozone unaware word differ furnace jelly drop quantum real indicate";
+var mnemonic = "menu shoot chase tonight trip finger you envelope hold priority pet stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "system bounce shoulder dove wave broccoli prison aim swarm elite lesson alone";
+var mnemonic = "property section food away impact any plastic wave rough hint wear lawsuit";

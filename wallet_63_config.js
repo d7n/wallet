@@ -1,1 +1,1 @@
-var mnemonic = "trim survey fiscal certain rose example action chat inspire water snack fiber";
+var mnemonic = "narrow mango method boy rotate donor toddler hobby life siege budget burger";

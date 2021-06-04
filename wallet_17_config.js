@@ -1,1 +1,1 @@
-var mnemonic = "obscure sell prevent element question advance sing lecture milk brave town essay";
+var mnemonic = "junk vivid audit flight nice bar family enforce ostrich link link voyage";

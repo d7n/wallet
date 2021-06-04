@@ -1,1 +1,1 @@
-var mnemonic = "scissors faith mountain grass prize ability follow enable double night job adapt";
+var mnemonic = "wasp copy vibrant short uniform senior install kidney cash kingdom retreat acid";

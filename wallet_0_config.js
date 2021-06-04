@@ -1,1 +1,1 @@
-var mnemonic = "clutch carry collect wild drum snap keen defense twelve exclude prepare violin";
+var mnemonic = "casual image genius flee stairs tumble there indoor habit pioneer leg lake";

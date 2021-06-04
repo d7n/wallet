@@ -1,1 +1,1 @@
-var mnemonic = "fame remove put way kid tilt agent know surge party hub diesel";
+var mnemonic = "balance hurt truly woman essay idle donor boy pilot dial black illegal";

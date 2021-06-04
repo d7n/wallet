@@ -1,1 +1,1 @@
-var mnemonic = "fence myself decide mutual day measure antenna turn match solution afraid hood";
+var mnemonic = "pigeon able wish festival flee arctic hotel wife side flock city addict";

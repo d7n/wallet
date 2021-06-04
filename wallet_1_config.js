@@ -1,1 +1,1 @@
-var mnemonic = "scare tongue fury lift arm universe cricket lawsuit fluid acoustic foot theme";
+var mnemonic = "cradle praise federal casino myself shaft crisp glow patient idle quality episode";

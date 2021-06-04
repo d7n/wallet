@@ -1,1 +1,1 @@
-var mnemonic = "aspect upper impose must crowd involve sniff gold endorse negative start another";
+var mnemonic = "resemble rabbit ordinary because neither wish regret combine behind treat debate exist";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid fabric gain crawl garage raise little carry season sail orphan orient";
+var mnemonic = "rescue leisure achieve dizzy stick fringe oven kidney express mean maximum frog";

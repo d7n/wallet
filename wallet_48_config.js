@@ -1,1 +1,1 @@
-var mnemonic = "sure embrace bird powder radio flower foam meat swamp ketchup fiber aware";
+var mnemonic = "milk rather opinion mouse dinner rival inform update endless debris man team";

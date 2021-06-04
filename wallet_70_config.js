@@ -1,1 +1,1 @@
-var mnemonic = "prevent bulk robot effort mistake move lizard retire vote glance creek cable";
+var mnemonic = "churn need settle decline crowd diet utility praise radar fruit embrace shiver";

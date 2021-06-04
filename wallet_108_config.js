@@ -1,1 +1,1 @@
-var mnemonic = "make blade table clip slice deliver snack club swear area spot link";
+var mnemonic = "baby festival what roof menu arctic gown govern glow sample mobile shaft";

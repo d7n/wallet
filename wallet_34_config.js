@@ -1,1 +1,1 @@
-var mnemonic = "rule alter tired major nothing proof cliff category ten famous quit belt";
+var mnemonic = "wing favorite target horn stone ginger exchange wing risk lemon join mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "tray celery pumpkin piece ability already ahead champion cram else prevent slide";
+var mnemonic = "ranch honey remind rather tomorrow venue tide success adjust shy claim daughter";

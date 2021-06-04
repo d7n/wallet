@@ -1,1 +1,1 @@
-var mnemonic = "monitor vintage galaxy runway kind time vocal rotate age brief evoke choice";
+var mnemonic = "divide horn various eagle any panther one ketchup slam elder isolate biology";

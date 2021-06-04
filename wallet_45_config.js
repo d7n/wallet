@@ -1,1 +1,1 @@
-var mnemonic = "wear reopen present clerk pull trend poet poem logic tone catalog library";
+var mnemonic = "rural hip bicycle about resource fan gauge alter bitter unable slot gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale corn addict unhappy upper kitchen road allow shine junior spare walnut";
+var mnemonic = "fashion coral item next voyage wagon category wrong trouble recall toilet loyal";

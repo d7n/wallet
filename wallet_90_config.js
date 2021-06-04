@@ -1,1 +1,1 @@
-var mnemonic = "twin they laptop recall jump inside smoke occur business they cheese scatter";
+var mnemonic = "theme dynamic garlic chuckle student worth vital attract market couple human also";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous sport scorpion civil famous artwork amazing cat display indoor olive original";
+var mnemonic = "rifle cupboard urban super reason digital stumble mountain always rural follow dignity";

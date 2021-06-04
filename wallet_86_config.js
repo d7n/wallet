@@ -1,1 +1,1 @@
-var mnemonic = "family such resist firm lazy spatial journey scheme finger nut again skirt";
+var mnemonic = "bottom spell demand risk lava speak tunnel reward retreat used great odor";

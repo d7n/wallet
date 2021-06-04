@@ -1,1 +1,1 @@
-var mnemonic = "cram insane plunge twelve actual high cute domain claw slim permit kidney";
+var mnemonic = "arrest enrich father drift neglect eager frozen holiday actor civil mammal two";

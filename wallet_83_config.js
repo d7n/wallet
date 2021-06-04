@@ -1,1 +1,1 @@
-var mnemonic = "ketchup smoke skin sausage stone into stem civil layer perfect drastic round";
+var mnemonic = "stool caution witness rapid index window affair torch recycle stock rural yard";

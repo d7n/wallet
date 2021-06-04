@@ -1,1 +1,1 @@
-var mnemonic = "drastic lawsuit heart bargain play sock coach decline disagree people enact autumn";
+var mnemonic = "antique tube grit whip clerk man fold moral banana wealth awesome poem";

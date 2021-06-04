@@ -1,1 +1,1 @@
-var mnemonic = "keep sunny labor marriage milk unique myself again possible glove elephant where";
+var mnemonic = "scrap mammal this ride piece erode tiny giraffe famous primary title divide";

@@ -1,1 +1,1 @@
-var mnemonic = "soap logic card century swift boat mobile amused bicycle awesome rabbit camera";
+var mnemonic = "quit lava ginger execute guide thrive crane shed glad obscure anxiety dance";

@@ -1,1 +1,1 @@
-var mnemonic = "capable result dizzy seminar interest pumpkin admit sort leave smile know strike";
+var mnemonic = "client angry upon garment artefact cousin arrange arch heavy arm path entire";

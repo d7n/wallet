@@ -1,1 +1,1 @@
-var mnemonic = "know ripple damp slow slight upper adjust ivory coach swim twenty april";
+var mnemonic = "van liar sugar mean guilt foster hurt sunny expire upper slide demand";

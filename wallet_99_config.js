@@ -1,1 +1,1 @@
-var mnemonic = "design flee alcohol rhythm squeeze canal bench adjust settle require couple interest";
+var mnemonic = "cruel silent inform lens strong occur congress jelly canal charge town miracle";

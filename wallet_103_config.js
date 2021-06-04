@@ -1,1 +1,1 @@
-var mnemonic = "method hungry similar entire render shoot frozen tattoo bike case sound sample";
+var mnemonic = "tomorrow nuclear steel tomorrow judge way clump harbor minimum bundle fame disagree";

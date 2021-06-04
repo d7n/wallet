@@ -1,1 +1,1 @@
-var mnemonic = "mimic stick aspect eternal arrive moon anchor dress energy next frost meat";
+var mnemonic = "chunk one tribe motor wonder cereal theme bomb reward online badge practice";

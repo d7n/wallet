@@ -1,1 +1,1 @@
-var mnemonic = "song cable achieve alpha angle minimum van couch cinnamon helmet stage spider";
+var mnemonic = "unique neither dream wear actual income quit tower loan stomach sheriff obtain";

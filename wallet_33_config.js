@@ -1,1 +1,1 @@
-var mnemonic = "shadow double dirt silver blast social burden mandate exist twin aerobic hello";
+var mnemonic = "silver goddess sand twelve lounge brick initial galaxy happy swap very spare";

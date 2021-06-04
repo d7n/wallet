@@ -1,1 +1,1 @@
-var mnemonic = "crucial daring public illegal stairs range slight bean ice badge field arrow";
+var mnemonic = "resource group filter fan palm short flip input soup comic much drip";

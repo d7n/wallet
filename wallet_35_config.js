@@ -1,1 +1,1 @@
-var mnemonic = "safe badge brain barrel eager sleep citizen silk kick stay alley shiver";
+var mnemonic = "start stumble desk wreck fence armor drop basic kangaroo muscle fitness desert";

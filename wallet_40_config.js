@@ -1,1 +1,1 @@
-var mnemonic = "toy myth tomato orchard innocent amount bird swamp pool hundred decade alley";
+var mnemonic = "repair frequent dawn scorpion clever point neck defy slam slender ring undo";

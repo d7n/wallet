@@ -1,1 +1,1 @@
-var mnemonic = "clever valve wrist rally quality adapt mobile absurd equip winter symbol become";
+var mnemonic = "vacuum bless real state horror chapter theory magnet vibrant nominee twice ancient";

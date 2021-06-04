@@ -1,1 +1,1 @@
-var mnemonic = "cover law lottery fire sugar breeze expire youth canvas fame quiz option";
+var mnemonic = "maximum drum token zebra warfare stem nasty winter cliff pony ride egg";

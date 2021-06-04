@@ -1,1 +1,1 @@
-var mnemonic = "shop soap earn happy taxi thing tiny coyote artist choose dignity limit";
+var mnemonic = "clay life system hunt book lunch lamp quit cinnamon pencil young damp";

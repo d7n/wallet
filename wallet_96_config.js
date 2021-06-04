@@ -1,1 +1,1 @@
-var mnemonic = "practice wife resemble toy mammal mushroom dolphin umbrella cat attitude trigger second";
+var mnemonic = "member tomorrow desk cancel machine loyal day mistake coffee merry stamp inside";

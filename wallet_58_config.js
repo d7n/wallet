@@ -1,1 +1,1 @@
-var mnemonic = "act surprise pink tooth pact long lottery lamp embark zone wrong assault";
+var mnemonic = "frog side empty rotate raccoon piece theory shallow quantum breeze pyramid suit";

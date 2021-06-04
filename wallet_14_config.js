@@ -1,1 +1,1 @@
-var mnemonic = "swamp mechanic olive large because canvas crowd inspire page aware chalk torch";
+var mnemonic = "beef empty trick snake gain display expect bulb fan high skill swim";

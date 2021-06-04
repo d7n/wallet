@@ -1,1 +1,1 @@
-var mnemonic = "library filter chapter mask glide regret flip unusual right smooth indicate peanut";
+var mnemonic = "hire rubber pledge annual post vocal silk tell end thrive gun citizen";

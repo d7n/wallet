@@ -1,1 +1,1 @@
-var mnemonic = "fatal damp direct include stuff come gossip crawl work romance release heavy";
+var mnemonic = "mom century size length orphan clinic crowd narrow price lyrics bullet wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "crane stomach system talk tornado nothing liberty plunge hybrid oxygen drink toast";
+var mnemonic = "ridge boat veteran thunder rely boost diesel broccoli owner argue orphan tunnel";

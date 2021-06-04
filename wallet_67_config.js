@@ -1,1 +1,1 @@
-var mnemonic = "grit satoshi unveil punch onion climb assist salute kiwi unaware swear brief";
+var mnemonic = "tooth plate argue silk evil two legend swear fancy absorb horror feature";

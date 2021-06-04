@@ -1,1 +1,1 @@
-var mnemonic = "clay mule trouble empty speak lift holiday group ski harsh happy stand";
+var mnemonic = "season frequent plate isolate artefact father view laundry boost unhappy flush rent";

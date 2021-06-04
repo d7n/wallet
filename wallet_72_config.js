@@ -1,1 +1,1 @@
-var mnemonic = "bag corn print fortune smile genre that address flavor dove dwarf napkin";
+var mnemonic = "switch man crash raw already potato helmet drum provide scatter marriage mobile";

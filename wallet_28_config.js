@@ -1,1 +1,1 @@
-var mnemonic = "confirm swamp indicate worry fresh trip eager cram comfort cigar clerk save";
+var mnemonic = "good over artefact acoustic ripple debris chapter dress drastic since benefit glad";

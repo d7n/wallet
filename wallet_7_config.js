@@ -1,1 +1,1 @@
-var mnemonic = "coconut level talent gesture maze target target together circle alpha choice twice";
+var mnemonic = "expect six change dragon develop diesel art name patient horror object cluster";

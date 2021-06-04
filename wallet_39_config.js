@@ -1,1 +1,1 @@
-var mnemonic = "fly below diet wait just drift unaware doctor donkey symbol lucky glass";
+var mnemonic = "model urge curtain diet loyal neck exclude narrow profit valve message scene";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid unit range raven bind gravity sleep priority lyrics bomb giggle special";
+var mnemonic = "input angle occur spare base ceiling staff evil journey weapon iron woman";

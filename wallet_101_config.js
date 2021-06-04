@@ -1,1 +1,1 @@
-var mnemonic = "hobby clay bid lemon seat few pen scorpion report useful heavy guitar";
+var mnemonic = "march aunt winter blast will fancy thumb predict car famous all bulb";

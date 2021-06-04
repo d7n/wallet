@@ -1,1 +1,1 @@
-var mnemonic = "valley machine shuffle prepare aerobic legal vessel explain tell derive refuse wish";
+var mnemonic = "gift flash torch matrix sadness worth come indoor magnet sense chief comic";

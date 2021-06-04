@@ -1,1 +1,1 @@
-var mnemonic = "school grid giraffe camera parade seed mountain clinic olive maximum fly aunt";
+var mnemonic = "seminar country capital type globe leg shallow donkey anger cable dash help";

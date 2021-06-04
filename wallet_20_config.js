@@ -1,1 +1,1 @@
-var mnemonic = "immune clarify distance question leg bachelor soap jazz energy select machine tourist";
+var mnemonic = "dress element cake valid tissue child eyebrow man shrimp symptom mercy depth";

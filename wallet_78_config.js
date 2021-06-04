@@ -1,1 +1,1 @@
-var mnemonic = "bean below table wink ceiling purchase iron chaos romance boring can video";
+var mnemonic = "endorse category sting thank capable ladder expose east divert bike blood fiber";

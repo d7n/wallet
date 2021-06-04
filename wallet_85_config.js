@@ -1,1 +1,1 @@
-var mnemonic = "business trend harsh until wet fold finger peasant science brave seed donate";
+var mnemonic = "prepare address evil cinnamon mad neck problem engage mirror coyote hospital pigeon";

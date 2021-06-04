@@ -1,1 +1,1 @@
-var mnemonic = "improve have rapid song fetch opera random dismiss canoe goose crater empower";
+var mnemonic = "demand embody radar front repeat nice unusual abuse exhibit thrive scene kidney";

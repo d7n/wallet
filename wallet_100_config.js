@@ -1,1 +1,1 @@
-var mnemonic = "body chaos vague damage stick abandon solar basic fortune social deposit wheat";
+var mnemonic = "chief essay peanut borrow infant pride target tired rubber weekend patrol airport";

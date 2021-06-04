@@ -1,1 +1,1 @@
-var mnemonic = "wage clinic easily knee caught remain across toss act master attitude brown";
+var mnemonic = "pencil glimpse stereo film derive post wisdom jar stamp hospital deliver fit";

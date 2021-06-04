@@ -1,1 +1,1 @@
-var mnemonic = "order chaos buzz critic promote exist later angry unveil foam disagree elder";
+var mnemonic = "clock speak snow enact suit hen tongue rule gain seven enjoy develop";

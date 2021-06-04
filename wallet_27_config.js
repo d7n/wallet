@@ -1,1 +1,1 @@
-var mnemonic = "number write chapter shadow layer quantum famous blast renew game dry process";
+var mnemonic = "wheel twice minor pledge country master card ready gas bean pole miss";

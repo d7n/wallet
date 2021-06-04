@@ -1,1 +1,1 @@
-var mnemonic = "income menu congress suffer spike melt raccoon case dumb blossom nice bleak";
+var mnemonic = "market hunt used swamp rice mass elegant lesson arm ordinary leader milk";

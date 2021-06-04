@@ -1,1 +1,1 @@
-var mnemonic = "alien snack across cancel empty all tuna tone alarm ten foil antique";
+var mnemonic = "scale science multiply answer problem math castle ivory thought sense convince snap";

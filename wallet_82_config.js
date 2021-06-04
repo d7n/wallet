@@ -1,1 +1,1 @@
-var mnemonic = "wood genre comfort joke seminar mirror pottery quiz exotic trap glare moon";
+var mnemonic = "exist blast again case modify stadium warm mind apart fury zoo again";

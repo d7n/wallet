@@ -1,1 +1,1 @@
-var mnemonic = "labor relief lift deliver move other work method dove family phone west";
+var mnemonic = "resist absurd suspect elite surface fox detect rebuild satisfy sell embody primary";

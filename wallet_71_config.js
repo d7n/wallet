@@ -1,1 +1,1 @@
-var mnemonic = "zebra skill tissue bag damage agree primary field poem body dry error";
+var mnemonic = "exotic angle key injury hello science save rate flight sheriff robust liberty";

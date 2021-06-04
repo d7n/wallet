@@ -1,1 +1,1 @@
-var mnemonic = "more duty stove divert shop language clerk behave year muffin document rose";
+var mnemonic = "galaxy safe virus useless squirrel bacon upgrade envelope sadness way lamp ice";

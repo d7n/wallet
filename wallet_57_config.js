@@ -1,1 +1,1 @@
-var mnemonic = "capital hobby top reject goose run sock canoe cement suit tornado deny";
+var mnemonic = "connect destroy affair palace tragic scout thank field meadow height focus umbrella";

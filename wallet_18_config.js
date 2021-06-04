@@ -1,1 +1,1 @@
-var mnemonic = "level code busy garage grow raccoon apple destroy twice feature insect boring";
+var mnemonic = "cloth charge example dragon brown choice umbrella orient settle enhance rigid flower";

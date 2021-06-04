@@ -1,1 +1,1 @@
-var mnemonic = "glue month tomato shield rocket gauge unknown vague chunk disorder sugar share";
+var mnemonic = "cute expire since diagram canyon pupil indoor post humble ivory fatigue office";

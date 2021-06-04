@@ -1,1 +1,1 @@
-var mnemonic = "demise cost finger evoke alert cake appear rocket hood marriage season raven";
+var mnemonic = "found gentle frame friend need action orbit wool decorate become rather enlist";

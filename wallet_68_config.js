@@ -1,1 +1,1 @@
-var mnemonic = "muffin turn burger embody mistake embody pill main almost among property bamboo";
+var mnemonic = "purpose noise raise south wait license all shock entire huge mind syrup";
