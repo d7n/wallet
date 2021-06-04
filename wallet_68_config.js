@@ -1,1 +1,1 @@
-var mnemonic = "job scan release mom wise any soul senior biology include output reject";
+var mnemonic = "village parrot that timber notice youth power weather glue pledge surface push";

@@ -1,1 +1,1 @@
-var mnemonic = "magic life online knock fog local across name hub tired unhappy forward";
+var mnemonic = "smart session awesome acid rice wing casino record hotel kidney kite mutual";

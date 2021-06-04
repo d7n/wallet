@@ -1,1 +1,1 @@
-var mnemonic = "laundry cram tiger unit market wild property worth craft place network stumble";
+var mnemonic = "boil shove faculty nation defense boss tank caution voyage exact tray profit";

@@ -1,1 +1,1 @@
-var mnemonic = "faint amount goat assault drop warrior vintage bronze february guess thank notice";
+var mnemonic = "share green auction joy uphold detail sword danger today economy crash answer";

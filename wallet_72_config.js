@@ -1,1 +1,1 @@
-var mnemonic = "mom nominee piano snow found unit alpha bonus walnut bundle city orient";
+var mnemonic = "inch matter crunch damp parrot ask steak caught evolve alien enhance gown";

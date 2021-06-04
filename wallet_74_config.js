@@ -1,1 +1,1 @@
-var mnemonic = "blue normal fancy tragic echo evidence carpet glow cause fog still impact";
+var mnemonic = "file narrow reflect theory energy pilot coach waste honey hero screen coconut";

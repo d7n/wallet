@@ -1,1 +1,1 @@
-var mnemonic = "real metal few utility differ practice cluster wisdom insane urge deliver hurry";
+var mnemonic = "release market when bonus sea eternal collect airport butter false charge elder";

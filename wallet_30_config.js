@@ -1,1 +1,1 @@
-var mnemonic = "void eternal creek stumble treat muffin peace expect tape execute current extend";
+var mnemonic = "element polar soldier dust frame rely kiwi bread thrive camp wet orphan";

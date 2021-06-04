@@ -1,1 +1,1 @@
-var mnemonic = "rail another silent prize rather vehicle proof shop modify page arch gate";
+var mnemonic = "hurdle safe traffic woman medal impact list vehicle drama brisk wood resist";

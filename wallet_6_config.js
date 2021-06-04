@@ -1,1 +1,1 @@
-var mnemonic = "mushroom scorpion enjoy oxygen catalog virtual army sustain fire twist camera tuition";
+var mnemonic = "basket face front intact club ripple reflect wait again fog frame ancient";

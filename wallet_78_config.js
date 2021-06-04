@@ -1,1 +1,1 @@
-var mnemonic = "luxury smooth border flock better again close novel group music betray force";
+var mnemonic = "ritual guess angry dilemma demand surprise arch rocket input tribe wage outside";

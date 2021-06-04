@@ -1,1 +1,1 @@
-var mnemonic = "unit habit salmon goat awesome topple crazy wear wheat letter uniform length";
+var mnemonic = "seek kidney glide half jaguar plunge purse until gas busy run honey";

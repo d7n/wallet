@@ -1,1 +1,1 @@
-var mnemonic = "frown aunt box acoustic quantum detect danger method quote endorse laugh fluid";
+var mnemonic = "element drive electric select middle spider trial victory art fetch funny mouse";

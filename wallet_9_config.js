@@ -1,1 +1,1 @@
-var mnemonic = "purchase omit scatter mimic balance comfort drip various glove distance loan amused";
+var mnemonic = "hazard learn motor apology napkin labor nominee human large alone congress parade";

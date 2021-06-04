@@ -1,1 +1,1 @@
-var mnemonic = "weapon poverty damp mosquito foil plug purpose senior sunny merry brand nest";
+var mnemonic = "stomach april rug minimum deputy bike awake wood yellow sauce gun change";

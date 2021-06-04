@@ -1,1 +1,1 @@
-var mnemonic = "grant member hello tongue help flag gentle excess kiss weapon strike broken";
+var mnemonic = "cheap side kangaroo cereal warfare wood submit gallery loan truck title valve";

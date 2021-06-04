@@ -1,1 +1,1 @@
-var mnemonic = "aspect trap shallow sugar general siren advice appear truck rebuild among stereo";
+var mnemonic = "table force acid amount sister sun assume law begin hard acoustic sunset";

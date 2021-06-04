@@ -1,1 +1,1 @@
-var mnemonic = "matrix blanket suffer hunt level citizen flower brass observe insect island exotic";
+var mnemonic = "shaft salt bounce have forum modify phone picnic above swear camp lava";

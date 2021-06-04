@@ -1,1 +1,1 @@
-var mnemonic = "body since immune oppose erase royal true cage thrive staff acid small";
+var mnemonic = "salute office develop glare cover cheese snow lounge cream park popular butter";

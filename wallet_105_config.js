@@ -1,1 +1,1 @@
-var mnemonic = "install meat loan promote wool quarter twice hammer celery find alert duck";
+var mnemonic = "credit rain acid awkward language vault spare flat uphold trick hold matter";

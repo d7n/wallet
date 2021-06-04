@@ -1,1 +1,1 @@
-var mnemonic = "raven profit current stuff day panic equip one gas disagree invest embody";
+var mnemonic = "fury country fox hip brief ritual remember doll say help unhappy eternal";

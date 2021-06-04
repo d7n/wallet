@@ -1,1 +1,1 @@
-var mnemonic = "east twelve hollow hair start cliff require detect dinner property price swift";
+var mnemonic = "afraid enact coach page favorite burden palace render gossip grow advice hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "sister sunset pizza ridge trophy electric confirm defense spice mention drift danger";
+var mnemonic = "resource reason century behave feature admit update unhappy reveal orange correct wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "regret mix author toss unaware about artwork media adapt crash service panic";
+var mnemonic = "spin snack protect casual easily smoke hungry slender abstract mercy tail inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "school middle weasel story thrive ordinary hill interest mutual episode mango outdoor";
+var mnemonic = "ski bitter roof below famous olive express lift good scheme series enjoy";

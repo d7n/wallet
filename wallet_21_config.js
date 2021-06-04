@@ -1,1 +1,1 @@
-var mnemonic = "choose famous deliver tray silent exclude actual they unknown diet inmate erode";
+var mnemonic = "maximum hybrid universe bulb latin about blood issue fluid couple state dish";

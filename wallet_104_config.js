@@ -1,1 +1,1 @@
-var mnemonic = "surround exercise lottery dragon foot blind marriage cover must crawl obey battle";
+var mnemonic = "device village green address drill harvest pilot catch recall skate iron include";

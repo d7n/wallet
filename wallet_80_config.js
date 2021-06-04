@@ -1,1 +1,1 @@
-var mnemonic = "coast since view easily hungry inner together glimpse frozen face mesh supreme";
+var mnemonic = "box term exchange volcano force crawl sight rifle senior elevator nut mean";

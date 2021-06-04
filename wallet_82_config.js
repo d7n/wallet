@@ -1,1 +1,1 @@
-var mnemonic = "cycle finger enforce peasant assist aware mango agent metal bird prefer awful";
+var mnemonic = "payment firm radar very program flash voyage forward rent toast hurt clump";

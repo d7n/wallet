@@ -1,1 +1,1 @@
-var mnemonic = "right dawn hamster invite harvest mixed bunker member aerobic dry monkey subway";
+var mnemonic = "rate soft gate net better random ocean current misery vault dawn swap";

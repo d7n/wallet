@@ -1,1 +1,1 @@
-var mnemonic = "junior silent avocado differ include letter economy soup private flame fat acid";
+var mnemonic = "palm husband sail across disagree voice top sad federal cup fuel steel";

@@ -1,1 +1,1 @@
-var mnemonic = "truly shuffle evidence fury fragile debate runway pear funny film fetch celery";
+var mnemonic = "pill physical letter swallow trouble relax august aisle road robust industry zebra";

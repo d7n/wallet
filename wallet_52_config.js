@@ -1,1 +1,1 @@
-var mnemonic = "badge brain autumn cannon drama soda inmate mosquito aerobic arrange major crystal";
+var mnemonic = "index diesel tree silk fame stage meadow march canyon about moon secret";

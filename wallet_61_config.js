@@ -1,1 +1,1 @@
-var mnemonic = "cost fault battle drill coffee winter garlic timber maple crystal cargo oil";
+var mnemonic = "carpet congress subway attitude float atom indicate doll decrease broken exclude census";

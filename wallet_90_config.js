@@ -1,1 +1,1 @@
-var mnemonic = "ceiling case group limit text receive current next else analyst hawk fury";
+var mnemonic = "resource sister tired prepare barely eyebrow attend loan copy valid bid card";

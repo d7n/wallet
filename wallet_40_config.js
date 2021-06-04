@@ -1,1 +1,1 @@
-var mnemonic = "census cute van push cup rather lake news earn shiver valid multiply";
+var mnemonic = "aware double debate copy just please round live blood portion walnut bacon";

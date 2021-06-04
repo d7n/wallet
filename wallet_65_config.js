@@ -1,1 +1,1 @@
-var mnemonic = "dose oven slow balance sing muffin urban replace student level execute crack";
+var mnemonic = "spider potato business outer melt monster chair horse struggle luggage print sauce";

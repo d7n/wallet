@@ -1,1 +1,1 @@
-var mnemonic = "wasp able allow doctor indicate jazz south cattle okay glue manual habit";
+var mnemonic = "coach armed valid limit hobby bracket onion abandon eight shaft illness eyebrow";

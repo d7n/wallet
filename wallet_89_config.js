@@ -1,1 +1,1 @@
-var mnemonic = "escape relax river biology table grant setup vital they vague pear interest";
+var mnemonic = "crawl dust setup road tomato gravity little fun tower fly then income";

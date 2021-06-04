@@ -1,1 +1,1 @@
-var mnemonic = "pair lawsuit banana play match attack release truth praise chapter modify tumble";
+var mnemonic = "fly agree put tobacco bar someone twelve mistake crater sibling disease thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics vicious cause since resemble tunnel dutch useless enforce clock web act";
+var mnemonic = "wagon wrap fence reduce now appear announce auction gun join utility poem";

@@ -1,1 +1,1 @@
-var mnemonic = "tray field damage beach develop rural tail jacket client sort first boat";
+var mnemonic = "opera oblige only involve brother found type quantum door maze fitness weekend";

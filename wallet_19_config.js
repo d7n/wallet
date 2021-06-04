@@ -1,1 +1,1 @@
-var mnemonic = "album dog rule hunt receive credit coin truth sure wonder invest habit";
+var mnemonic = "layer devote exile rifle opera exhibit plunge pride sketch much city frequent";

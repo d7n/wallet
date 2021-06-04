@@ -1,1 +1,1 @@
-var mnemonic = "process dish vehicle express defense moment quit height share diet security alert";
+var mnemonic = "north cry rice winter there edge shrug rescue useless feed bright net";

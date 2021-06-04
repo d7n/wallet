@@ -1,1 +1,1 @@
-var mnemonic = "truth myth office ritual child bird short response goose lion unlock supply";
+var mnemonic = "across promote access social damage sing reflect material candy season expand resource";

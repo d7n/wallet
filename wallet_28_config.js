@@ -1,1 +1,1 @@
-var mnemonic = "jelly exile sugar piano fantasy peace cheese trumpet eye kitchen reject check";
+var mnemonic = "recycle pact rice neglect agent luxury remind fade skirt chronic runway paper";

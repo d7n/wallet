@@ -1,1 +1,1 @@
-var mnemonic = "boss wild legend roast razor property sort aim swamp scorpion crowd ask";
+var mnemonic = "perfect copy dignity trust stool notice card bread voice bacon flock adjust";

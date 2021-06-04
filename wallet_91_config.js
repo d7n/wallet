@@ -1,1 +1,1 @@
-var mnemonic = "vicious gaze mercy sketch convince disorder cattle decade cross stumble crew unique";
+var mnemonic = "render broccoli sort popular food brother fiber hand dirt hungry armed cross";

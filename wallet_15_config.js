@@ -1,1 +1,1 @@
-var mnemonic = "omit when fetch castle grass story hurry twenty duck bus observe rookie";
+var mnemonic = "off undo pact another one cool flower path matrix achieve rain ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "submit lift address photo domain scheme luxury ethics acquire retire gaze robust";
+var mnemonic = "upset crowd they innocent motor wife fatal already message shadow kid speak";

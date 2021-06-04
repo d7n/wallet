@@ -1,1 +1,1 @@
-var mnemonic = "this miss ring stuff jacket salute hundred ten bright candy carpet original";
+var mnemonic = "robot rug nothing country proud awkward morning caught broom gaze acid speak";

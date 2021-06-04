@@ -1,1 +1,1 @@
-var mnemonic = "spread cream cart ethics congress ride hover tomorrow never stock also typical";
+var mnemonic = "wait fringe choice physical squirrel today prison need escape burst unable hood";

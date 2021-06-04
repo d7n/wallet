@@ -1,1 +1,1 @@
-var mnemonic = "rescue code naive ceiling genius chair size rubber scan rebel august connect";
+var mnemonic = "cross square measure sure title enjoy together apple grit warm brand mind";

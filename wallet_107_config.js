@@ -1,1 +1,1 @@
-var mnemonic = "brush quality average tobacco bid decade embark pulp venture host volume elbow";
+var mnemonic = "text lady vocal lottery find coral joy donkey spray meadow shift churn";

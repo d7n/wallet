@@ -1,1 +1,1 @@
-var mnemonic = "fat before material ordinary symbol banner chalk timber cook version filter height";
+var mnemonic = "cool load quantum brown pelican opinion patch tip three shaft tattoo sibling";

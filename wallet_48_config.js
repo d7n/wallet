@@ -1,1 +1,1 @@
-var mnemonic = "post cruel uniform marine nuclear arena width sponsor paddle frame laugh half";
+var mnemonic = "trap priority add caught picture spend joy health attitude flip unit throw";

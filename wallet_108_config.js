@@ -1,1 +1,1 @@
-var mnemonic = "recycle gesture antique sea connect furnace ginger genre field share size april";
+var mnemonic = "husband glimpse pair brother network spend enjoy stay scheme funny height tube";

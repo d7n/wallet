@@ -1,1 +1,1 @@
-var mnemonic = "expand sea sad ready happy raw embark play grunt brass high wide";
+var mnemonic = "path hover miss wise push brown intact kind bless palace flip topic";

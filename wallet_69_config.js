@@ -1,1 +1,1 @@
-var mnemonic = "opinion chronic entire chat attract pupil boost unique solid anger window picnic";
+var mnemonic = "unit capable pledge anchor fossil love glue vintage lawn scrap submit illness";

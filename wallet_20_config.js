@@ -1,1 +1,1 @@
-var mnemonic = "hobby fuel hand aerobic noble shuffle coyote thumb search improve strategy puzzle";
+var mnemonic = "harvest become trust tenant wealth tree talent flush exchange odor illegal much";

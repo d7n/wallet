@@ -1,1 +1,1 @@
-var mnemonic = "random agree reveal ahead trouble plastic machine like need clarify couple math";
+var mnemonic = "meat earn clean sick blind pulse mandate clerk repeat grunt dose impulse";

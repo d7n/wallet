@@ -1,1 +1,1 @@
-var mnemonic = "security result hover maid pitch senior float blur elephant need apart bleak";
+var mnemonic = "energy fitness wreck icon recycle engage rack claim defense parrot park enable";

@@ -1,1 +1,1 @@
-var mnemonic = "only enemy pen jewel siren record sniff festival volcano midnight pause shallow";
+var mnemonic = "actress stay material elbow coral engage track wheat feel trade valid similar";

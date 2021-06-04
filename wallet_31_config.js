@@ -1,1 +1,1 @@
-var mnemonic = "economy theory someone choose guitar horse rich purse awful vessel major finish";
+var mnemonic = "brave aunt gold gold voyage cover nasty worry gaze spend gesture flavor";

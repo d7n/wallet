@@ -1,1 +1,1 @@
-var mnemonic = "desk smile return slush soccer orient shoot smooth forward glue bonus employ";
+var mnemonic = "online danger false valve umbrella make snap relief fly tuition effort blur";

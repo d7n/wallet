@@ -1,1 +1,1 @@
-var mnemonic = "object treat code tip worry insect bargain use maid explain hobby girl";
+var mnemonic = "say injury sunny skill vote puzzle parent space document first nurse yellow";

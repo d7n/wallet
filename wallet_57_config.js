@@ -1,1 +1,1 @@
-var mnemonic = "annual couple awful faculty avoid draw hole spirit junk blossom twelve engine";
+var mnemonic = "neglect enemy segment thank cattle merge entire neglect congress dust jewel lamp";

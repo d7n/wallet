@@ -1,1 +1,1 @@
-var mnemonic = "foster hundred lounge stage despair glove toy scrap begin talent brother nasty";
+var mnemonic = "awake mass ritual grief forward bounce scrub grant obscure venue vault setup";

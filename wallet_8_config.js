@@ -1,1 +1,1 @@
-var mnemonic = "man retire cute floor special trust minimum snack trip hello surround deliver";
+var mnemonic = "actor bunker alarm hedgehog soccer peace alien road atom float menu chat";

@@ -1,1 +1,1 @@
-var mnemonic = "lava gauge spare raven elegant rifle antenna obtain because urban tag car";
+var mnemonic = "tilt century gallery loan angle knife fiscal mobile clay love rapid increase";

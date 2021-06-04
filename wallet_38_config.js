@@ -1,1 +1,1 @@
-var mnemonic = "choose breeze actor call donor modify canvas rather skull pole core expire";
+var mnemonic = "expand trap project hunt surprise peasant embrace sing clock crisp oil stadium";

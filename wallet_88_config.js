@@ -1,1 +1,1 @@
-var mnemonic = "vast edit arrange earn say truck boil wise sell distance helmet monitor";
+var mnemonic = "disorder ridge attitude jacket reopen armor wasp bottom size truly digital lamp";

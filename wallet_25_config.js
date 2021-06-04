@@ -1,1 +1,1 @@
-var mnemonic = "trust praise street salmon chef involve sail tilt merge fashion hungry couch";
+var mnemonic = "bonus innocent hat moon ticket crowd blush north mind produce fork faculty";

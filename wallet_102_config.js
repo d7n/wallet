@@ -1,1 +1,1 @@
-var mnemonic = "unique myth sauce bleak enemy page seek cheese omit phrase begin curtain";
+var mnemonic = "soon drip glide price stuff print relax amused long bring absorb cradle";

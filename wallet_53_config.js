@@ -1,1 +1,1 @@
-var mnemonic = "jewel document whisper armed cage wire olympic raise olympic motor crunch delay";
+var mnemonic = "air sadness transfer tiger genre slice nature cheap target citizen future vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic muscle box diagram baby emerge chief enter near route sauce case";
+var mnemonic = "cigar onion other trip genuine silly broken attend foil horse hurdle razor";

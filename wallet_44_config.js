@@ -1,1 +1,1 @@
-var mnemonic = "trick annual youth holiday december opera parent cheese bronze corn bicycle proof";
+var mnemonic = "nerve apart melt runway isolate phrase bitter banner injury squirrel magnet general";

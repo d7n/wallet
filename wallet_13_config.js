@@ -1,1 +1,1 @@
-var mnemonic = "patrol version thrive million warrior width happy voyage decline lizard scrap wagon";
+var mnemonic = "artwork fire chimney direct couch rate school february enter float nation melody";

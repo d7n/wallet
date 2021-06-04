@@ -1,1 +1,1 @@
-var mnemonic = "rich suffer jelly aunt oval goat art another dad brain hockey front";
+var mnemonic = "climb spirit double rose slide road artefact attack iron execute inflict display";

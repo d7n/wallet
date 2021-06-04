@@ -1,1 +1,1 @@
-var mnemonic = "play okay team need neglect boss energy net art power poet twelve";
+var mnemonic = "dismiss visual grant grace scatter upon creek bar super antique smile enroll";

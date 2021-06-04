@@ -1,1 +1,1 @@
-var mnemonic = "glide ocean appear label cause seek try lecture business core palace finger";
+var mnemonic = "sentence reveal series material gap parent shaft pattern mom put awesome output";

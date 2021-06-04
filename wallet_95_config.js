@@ -1,1 +1,1 @@
-var mnemonic = "favorite siren scan fresh worth renew mixed order chase pull giant fork";
+var mnemonic = "clerk learn point napkin sauce hair ski frequent actor impact bundle jaguar";

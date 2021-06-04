@@ -1,1 +1,1 @@
-var mnemonic = "entry furnace derive field loud gown artefact gravity silent trend owner unaware";
+var mnemonic = "trust rack clever dose can comic giant glow orchard number matter advice";

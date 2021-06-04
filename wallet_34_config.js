@@ -1,1 +1,1 @@
-var mnemonic = "goddess addict skate obvious message market radar cherry olive amazing citizen plug";
+var mnemonic = "bone ten grief calm tragic exchange limb thought attitude hedgehog unit oyster";

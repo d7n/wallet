@@ -1,1 +1,1 @@
-var mnemonic = "push vote pencil gasp tunnel predict squeeze scale celery joke vapor finish";
+var mnemonic = "climb chalk addict round saddle enforce river deputy keen hammer save chase";

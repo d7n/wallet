@@ -1,1 +1,1 @@
-var mnemonic = "dial sudden decade trick level elder void candy repeat never document inch";
+var mnemonic = "height rack furnace page transfer hen swing diesel alcohol garlic garbage title";

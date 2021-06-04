@@ -1,1 +1,1 @@
-var mnemonic = "float patrol famous lottery vacant toss notable puzzle hedgehog drip dinosaur enable";
+var mnemonic = "squirrel grit junk what marble suggest canyon upper limit dream south number";

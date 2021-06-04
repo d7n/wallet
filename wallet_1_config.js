@@ -1,1 +1,1 @@
-var mnemonic = "alarm whip electric predict tag glove chair direct phone cook popular size";
+var mnemonic = "marine photo sting uncover luxury record blast burger domain run relief can";
