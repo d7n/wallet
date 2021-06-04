@@ -1,1 +1,1 @@
-var mnemonic = "cloth charge example dragon brown choice umbrella orient settle enhance rigid flower";
+var mnemonic = "dash pig agent regular crush husband diamond fame crowd shine nominee canoe";

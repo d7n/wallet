@@ -1,1 +1,1 @@
-var mnemonic = "casual image genius flee stairs tumble there indoor habit pioneer leg lake";
+var mnemonic = "melody real bonus dragon hen regret radio churn glance nominee task chef";

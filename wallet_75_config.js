@@ -1,1 +1,1 @@
-var mnemonic = "seminar country capital type globe leg shallow donkey anger cable dash help";
+var mnemonic = "grief unusual tragic claim vessel into figure boss feed capable enter diesel";

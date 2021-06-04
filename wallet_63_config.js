@@ -1,1 +1,1 @@
-var mnemonic = "narrow mango method boy rotate donor toddler hobby life siege budget burger";
+var mnemonic = "sweet fall amused satisfy fog want network anxiety dice hunt atom surface";

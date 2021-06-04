@@ -1,1 +1,1 @@
-var mnemonic = "inflict quarter welcome vital erase chef travel side donkey correct fade tattoo";
+var mnemonic = "essay grace wash kangaroo north sustain pig miracle raccoon assume cube large";

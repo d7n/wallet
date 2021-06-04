@@ -1,1 +1,1 @@
-var mnemonic = "tongue script arena burden since release differ alpha laugh couple topic loop";
+var mnemonic = "join favorite purchase noise purpose ecology spray throw job plug bubble knee";

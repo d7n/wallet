@@ -1,1 +1,1 @@
-var mnemonic = "theme dynamic garlic chuckle student worth vital attract market couple human also";
+var mnemonic = "essay promote announce pear trigger worth moment jar wrap horn stage donor";

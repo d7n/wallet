@@ -1,1 +1,1 @@
-var mnemonic = "beef empty trick snake gain display expect bulb fan high skill swim";
+var mnemonic = "wild protect globe hope jungle west brave pioneer enable able torch bird";

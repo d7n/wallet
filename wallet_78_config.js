@@ -1,1 +1,1 @@
-var mnemonic = "endorse category sting thank capable ladder expose east divert bike blood fiber";
+var mnemonic = "rescue sand kingdom wet appear foster neglect glad mansion leg fruit kit";

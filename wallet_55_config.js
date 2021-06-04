@@ -1,1 +1,1 @@
-var mnemonic = "demand embody radar front repeat nice unusual abuse exhibit thrive scene kidney";
+var mnemonic = "sniff title popular leg carry today ranch labor garage suspect need crisp";

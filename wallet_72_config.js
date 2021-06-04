@@ -1,1 +1,1 @@
-var mnemonic = "switch man crash raw already potato helmet drum provide scatter marriage mobile";
+var mnemonic = "draft enter divide elegant popular away segment clip topic improve enroll flee";

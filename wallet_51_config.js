@@ -1,1 +1,1 @@
-var mnemonic = "blind cool mushroom hire key mobile day fortune analyst funny gas this";
+var mnemonic = "hard system awkward rigid ready strike coyote erase solution spell canyon rebuild";

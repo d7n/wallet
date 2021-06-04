@@ -1,1 +1,1 @@
-var mnemonic = "quit lava ginger execute guide thrive crane shed glad obscure anxiety dance";
+var mnemonic = "agent audit banner grant obscure indicate youth stock ripple govern theory model";

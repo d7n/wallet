@@ -1,1 +1,1 @@
-var mnemonic = "chunk one tribe motor wonder cereal theme bomb reward online badge practice";
+var mnemonic = "until hint black case eight beyond asthma face lock year safe priority";

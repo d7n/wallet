@@ -1,1 +1,1 @@
-var mnemonic = "purpose noise raise south wait license all shock entire huge mind syrup";
+var mnemonic = "photo process link long burden tail junk hybrid lesson betray neutral chapter";

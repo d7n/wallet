@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bless real state horror chapter theory magnet vibrant nominee twice ancient";
+var mnemonic = "bring credit average call popular loyal job express admit frost prison street";

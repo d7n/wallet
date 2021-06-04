@@ -1,1 +1,1 @@
-var mnemonic = "balance hurt truly woman essay idle donor boy pilot dial black illegal";
+var mnemonic = "element chuckle witness flat cloth rib bounce half brand snake law salad";

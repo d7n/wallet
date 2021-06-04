@@ -1,1 +1,1 @@
-var mnemonic = "maid power crack attend credit bench very miracle vital edge media timber";
+var mnemonic = "air shoot video rifle front guitar flash stock balance client warfare change";

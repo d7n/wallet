@@ -1,1 +1,1 @@
-var mnemonic = "mirror turtle language tent wing double void vocal figure robust maple impulse";
+var mnemonic = "silly soul tail jelly aunt engine custom aspect gospel broccoli security major";

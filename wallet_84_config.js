@@ -1,1 +1,1 @@
-var mnemonic = "estate since swarm initial away onion cake frown limb around family exact";
+var mnemonic = "hire chair lobster winter neck lemon wing animal trade warm surround planet";

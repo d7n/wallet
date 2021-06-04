@@ -1,1 +1,1 @@
-var mnemonic = "rifle cupboard urban super reason digital stumble mountain always rural follow dignity";
+var mnemonic = "pool foot sugar rule estate attitude armed tank urge anchor cactus utility";

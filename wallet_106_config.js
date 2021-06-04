@@ -1,1 +1,1 @@
-var mnemonic = "antique tube grit whip clerk man fold moral banana wealth awesome poem";
+var mnemonic = "pigeon lock zone seed poem tortoise crunch humor interest swamp cash friend";

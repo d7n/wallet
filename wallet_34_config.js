@@ -1,1 +1,1 @@
-var mnemonic = "wing favorite target horn stone ginger exchange wing risk lemon join mercy";
+var mnemonic = "clever roast name twenty intact monkey clog parent opinion august exact wasp";

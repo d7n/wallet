@@ -1,1 +1,1 @@
-var mnemonic = "churn need settle decline crowd diet utility praise radar fruit embrace shiver";
+var mnemonic = "noise cross material violin kitten absurd image spare job select grief cup";

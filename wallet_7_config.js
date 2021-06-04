@@ -1,1 +1,1 @@
-var mnemonic = "expect six change dragon develop diesel art name patient horror object cluster";
+var mnemonic = "earth expand rabbit skull pulp rare radio solid deal legend wait ocean";

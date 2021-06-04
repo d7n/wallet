@@ -1,1 +1,1 @@
-var mnemonic = "exotic angle key injury hello science save rate flight sheriff robust liberty";
+var mnemonic = "behind clog reform truly digital border buddy convince convince neck crumble deny";

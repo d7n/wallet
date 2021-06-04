@@ -1,1 +1,1 @@
-var mnemonic = "curious coil arch morning suit column mandate flight load online alert gorilla";
+var mnemonic = "bench ahead tortoise alone crew cart label invest either grunt give crime";

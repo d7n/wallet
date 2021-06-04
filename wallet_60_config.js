@@ -1,1 +1,1 @@
-var mnemonic = "panther fly dog coconut panda tiny pudding parade coyote ranch sample era";
+var mnemonic = "grocery stable attract force manual venue ribbon buyer cotton valve witness worry";

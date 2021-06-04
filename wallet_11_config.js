@@ -1,1 +1,1 @@
-var mnemonic = "scale science multiply answer problem math castle ivory thought sense convince snap";
+var mnemonic = "recall example game tone success breeze festival icon mother veteran addict buyer";

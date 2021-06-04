@@ -1,1 +1,1 @@
-var mnemonic = "expect thank usage clown bind spray resource salmon tattoo mixed dove lonely";
+var mnemonic = "dirt mercy alley defy puzzle ball borrow sketch hedgehog bar extend curious";

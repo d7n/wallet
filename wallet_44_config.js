@@ -1,1 +1,1 @@
-var mnemonic = "pact pipe hour cheese grocery again merit toe into patient before consider";
+var mnemonic = "method trophy spring target insane night custom ordinary permit aware sketch onion";

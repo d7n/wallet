@@ -1,1 +1,1 @@
-var mnemonic = "exist blast again case modify stadium warm mind apart fury zoo again";
+var mnemonic = "message cart chapter wage walk blush donor afford female license grape oxygen";

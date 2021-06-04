@@ -1,1 +1,1 @@
-var mnemonic = "junk vivid audit flight nice bar family enforce ostrich link link voyage";
+var mnemonic = "address target aspect huge wash lend clever unique donor keen manage that";

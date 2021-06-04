@@ -1,1 +1,1 @@
-var mnemonic = "maximum drum token zebra warfare stem nasty winter cliff pony ride egg";
+var mnemonic = "silent sunny wife dumb toddler verb butter average couch quick duty win";

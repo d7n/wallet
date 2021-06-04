@@ -1,1 +1,1 @@
-var mnemonic = "arrest enrich father drift neglect eager frozen holiday actor civil mammal two";
+var mnemonic = "benefit begin cup rough unusual across display crawl gather fence another manual";

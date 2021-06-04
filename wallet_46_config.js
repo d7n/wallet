@@ -1,1 +1,1 @@
-var mnemonic = "found gentle frame friend need action orbit wool decorate become rather enlist";
+var mnemonic = "fashion jeans slide shove edit cliff delay agree song salute tissue junk";

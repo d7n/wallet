@@ -1,1 +1,1 @@
-var mnemonic = "grain waste submit young bicycle lonely scout palace donate dune story hawk";
+var mnemonic = "stage december popular palm gospel favorite useless october wreck differ split hundred";

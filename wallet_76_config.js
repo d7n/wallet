@@ -1,1 +1,1 @@
-var mnemonic = "leisure message genuine ahead universe spider spell gallery dad gadget misery hat";
+var mnemonic = "kitchen baby farm lecture fashion alcohol chaos manual position mask clever employ";

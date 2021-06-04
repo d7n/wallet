@@ -1,1 +1,1 @@
-var mnemonic = "prepare address evil cinnamon mad neck problem engage mirror coyote hospital pigeon";
+var mnemonic = "solution large circle news plate source rose crush dignity comfort equal hope";

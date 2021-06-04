@@ -1,1 +1,1 @@
-var mnemonic = "ozone exercise bamboo cause zebra oil panel black town possible cereal embrace";
+var mnemonic = "rough merit enrich tent interest awkward valve exist street friend public venue";

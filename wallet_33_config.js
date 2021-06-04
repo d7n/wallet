@@ -1,1 +1,1 @@
-var mnemonic = "silver goddess sand twelve lounge brick initial galaxy happy swap very spare";
+var mnemonic = "detail depend fan squirrel truly coast style police excess wild split novel";

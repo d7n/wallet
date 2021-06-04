@@ -1,1 +1,1 @@
-var mnemonic = "market hunt used swamp rice mass elegant lesson arm ordinary leader milk";
+var mnemonic = "tooth guess test wide mystery lend struggle profit unhappy payment device opera";

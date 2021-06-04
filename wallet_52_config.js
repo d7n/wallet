@@ -1,1 +1,1 @@
-var mnemonic = "approve knife play orient evil chase grain weapon senior volume more actor";
+var mnemonic = "volume act upon flower boring good volume they enact ticket swallow dirt";

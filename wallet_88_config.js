@@ -1,1 +1,1 @@
-var mnemonic = "divide horn various eagle any panther one ketchup slam elder isolate biology";
+var mnemonic = "vintage major fee runway ginger steel tank opinion run beyond slice admit";

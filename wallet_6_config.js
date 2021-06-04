@@ -1,1 +1,1 @@
-var mnemonic = "clock speak snow enact suit hen tongue rule gain seven enjoy develop";
+var mnemonic = "marine network october fan area lazy battle multiply sting combine swallow will";

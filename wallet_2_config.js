@@ -1,1 +1,1 @@
-var mnemonic = "property section food away impact any plastic wave rough hint wear lawsuit";
+var mnemonic = "wife muscle say mad advance door phrase clutch phrase soul proof spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle praise federal casino myself shaft crisp glow patient idle quality episode";
+var mnemonic = "civil link cram pulse corn december brass grace come long history flee";

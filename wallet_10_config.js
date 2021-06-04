@@ -1,1 +1,1 @@
-var mnemonic = "uphold jelly truck raw response inch inquiry tattoo problem comfort neutral shop";
+var mnemonic = "cannon chat renew beach together butter airport gadget dinosaur axis december south";

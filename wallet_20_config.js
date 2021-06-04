@@ -1,1 +1,1 @@
-var mnemonic = "dress element cake valid tissue child eyebrow man shrimp symptom mercy depth";
+var mnemonic = "funny mushroom fit bind pole trim observe resource purchase good goat body";

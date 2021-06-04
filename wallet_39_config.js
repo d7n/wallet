@@ -1,1 +1,1 @@
-var mnemonic = "model urge curtain diet loyal neck exclude narrow profit valve message scene";
+var mnemonic = "name gap divide wing carpet deal city gravity crash regret party motor";

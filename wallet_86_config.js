@@ -1,1 +1,1 @@
-var mnemonic = "bottom spell demand risk lava speak tunnel reward retreat used great odor";
+var mnemonic = "bulb giraffe horror purity gas coconut snake galaxy hope talk moment kit";

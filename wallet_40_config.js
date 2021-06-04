@@ -1,1 +1,1 @@
-var mnemonic = "repair frequent dawn scorpion clever point neck defy slam slender ring undo";
+var mnemonic = "panic flame high urge pledge donor mountain type faculty woman trap invite";

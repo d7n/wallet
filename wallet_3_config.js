@@ -1,1 +1,1 @@
-var mnemonic = "one search cotton forget source lemon eyebrow invite source lunar limit midnight";
+var mnemonic = "noble hybrid inner floor crew relief tobacco vast among perfect comic punch";

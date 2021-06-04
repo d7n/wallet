@@ -1,1 +1,1 @@
-var mnemonic = "milk rather opinion mouse dinner rival inform update endless debris man team";
+var mnemonic = "grant drink scissors pave theory quality defense recycle puppy squeeze forum nephew";

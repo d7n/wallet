@@ -1,1 +1,1 @@
-var mnemonic = "fashion coral item next voyage wagon category wrong trouble recall toilet loyal";
+var mnemonic = "eye luxury private ball jeans change ranch flight iron able bitter more";

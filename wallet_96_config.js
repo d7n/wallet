@@ -1,1 +1,1 @@
-var mnemonic = "member tomorrow desk cancel machine loyal day mistake coffee merry stamp inside";
+var mnemonic = "language welcome sort glide film bean magic pond shadow bunker lemon casual";

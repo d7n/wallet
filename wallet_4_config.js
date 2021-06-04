@@ -1,1 +1,1 @@
-var mnemonic = "celery purity will volcano antique prison category popular bacon wet brisk million";
+var mnemonic = "beef journey decade phrase pride smooth gun stem agree attract comfort mobile";

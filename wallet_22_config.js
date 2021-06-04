@@ -1,1 +1,1 @@
-var mnemonic = "unique neither dream wear actual income quit tower loan stomach sheriff obtain";
+var mnemonic = "ensure visa nest piano nasty surprise public special episode tiger crisp when";

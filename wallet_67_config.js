@@ -1,1 +1,1 @@
-var mnemonic = "tooth plate argue silk evil two legend swear fancy absorb horror feature";
+var mnemonic = "insect unable recall wise rare stage rotate degree accuse cancel tomato opera";

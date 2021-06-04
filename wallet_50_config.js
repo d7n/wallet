@@ -1,1 +1,1 @@
-var mnemonic = "clay life system hunt book lunch lamp quit cinnamon pencil young damp";
+var mnemonic = "retreat piano legal lumber anchor width goddess fuel that silly vicious link";

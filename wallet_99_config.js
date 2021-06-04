@@ -1,1 +1,1 @@
-var mnemonic = "cruel silent inform lens strong occur congress jelly canal charge town miracle";
+var mnemonic = "prosper uncover humor advice lonely cook pave document soon situate roast more";

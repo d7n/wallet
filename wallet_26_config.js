@@ -1,1 +1,1 @@
-var mnemonic = "rose excess drama auction reward tool build old phrase lunar wave lonely";
+var mnemonic = "cruise occur meadow suit virtual hospital modify more receive bird awake bone";

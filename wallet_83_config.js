@@ -1,1 +1,1 @@
-var mnemonic = "stool caution witness rapid index window affair torch recycle stock rural yard";
+var mnemonic = "sphere worth demand orbit swing home essay drink uncle special reform gospel";

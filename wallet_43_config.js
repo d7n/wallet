@@ -1,1 +1,1 @@
-var mnemonic = "find grit speak vast stage prison wasp snap crisp jump whip damage";
+var mnemonic = "must derive orient shadow feature express tail need assist belt announce subway";

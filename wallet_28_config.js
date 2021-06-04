@@ -1,1 +1,1 @@
-var mnemonic = "good over artefact acoustic ripple debris chapter dress drastic since benefit glad";
+var mnemonic = "drill round medal scheme wage cruel shift staff acquire crack cradle struggle";

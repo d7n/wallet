@@ -1,1 +1,1 @@
-var mnemonic = "hire rubber pledge annual post vocal silk tell end thrive gun citizen";
+var mnemonic = "twist garden nerve gesture lawsuit solar honey paper flush song crush mammal";

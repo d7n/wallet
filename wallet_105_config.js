@@ -1,1 +1,1 @@
-var mnemonic = "leg disease aunt side vote relief clever claim laugh large potato skull";
+var mnemonic = "bunker album close second shadow survey aisle used outer shiver fold hint";

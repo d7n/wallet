@@ -1,1 +1,1 @@
-var mnemonic = "galaxy safe virus useless squirrel bacon upgrade envelope sadness way lamp ice";
+var mnemonic = "supreme lend wrong level gospel crisp wolf night moral potato save else";

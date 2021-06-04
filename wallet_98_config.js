@@ -1,1 +1,1 @@
-var mnemonic = "alter luxury habit salon agree license gaze idle public clutch eight brush";
+var mnemonic = "wrap canvas hire empower addict sauce exclude blouse soap off south service";

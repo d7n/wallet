@@ -1,1 +1,1 @@
-var mnemonic = "rescue leisure achieve dizzy stick fringe oven kidney express mean maximum frog";
+var mnemonic = "connect glove bullet title update mind quiz essence source pink pistol february";

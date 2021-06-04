@@ -1,1 +1,1 @@
-var mnemonic = "general lucky behind museum surround hundred pizza bless insect one dinosaur battle";
+var mnemonic = "raven damp lesson goddess three sort orange subject plastic bread novel purchase";

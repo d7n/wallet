@@ -1,1 +1,1 @@
-var mnemonic = "wasp copy vibrant short uniform senior install kidney cash kingdom retreat acid";
+var mnemonic = "cabin auto tape garbage quick pepper habit grain volume question word able";

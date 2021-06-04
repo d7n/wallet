@@ -1,1 +1,1 @@
-var mnemonic = "dragon grief spot way guess misery fence drift climb good result paper";
+var mnemonic = "banner phone tattoo satisfy chase blanket soap worth upset shed public nuclear";

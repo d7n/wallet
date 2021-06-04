@@ -1,1 +1,1 @@
-var mnemonic = "resemble rabbit ordinary because neither wish regret combine behind treat debate exist";
+var mnemonic = "gas student mesh zoo tomato path offer dentist fan jazz above hair";

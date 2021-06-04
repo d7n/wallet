@@ -1,1 +1,1 @@
-var mnemonic = "scrap mammal this ride piece erode tiny giraffe famous primary title divide";
+var mnemonic = "timber enjoy release asset reward robust country father energy husband soap forest";

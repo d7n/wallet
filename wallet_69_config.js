@@ -1,1 +1,1 @@
-var mnemonic = "cute expire since diagram canyon pupil indoor post humble ivory fatigue office";
+var mnemonic = "grass switch gold dutch below dress jeans bread fly rigid woman isolate";

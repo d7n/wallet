@@ -1,1 +1,1 @@
-var mnemonic = "start stumble desk wreck fence armor drop basic kangaroo muscle fitness desert";
+var mnemonic = "birth enemy voice apart man fatigue sausage web tip marble what naive";

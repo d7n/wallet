@@ -1,1 +1,1 @@
-var mnemonic = "gift flash torch matrix sadness worth come indoor magnet sense chief comic";
+var mnemonic = "outdoor prosper skin input fame slush tray kiss belt crime citizen impact";

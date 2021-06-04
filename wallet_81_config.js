@@ -1,1 +1,1 @@
-var mnemonic = "festival engine jelly sell stove bonus two car control couch mask similar";
+var mnemonic = "theory camera famous feel canyon sunny nothing position corn praise recipe outdoor";

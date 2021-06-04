@@ -1,1 +1,1 @@
-var mnemonic = "input angle occur spare base ceiling staff evil journey weapon iron woman";
+var mnemonic = "initial about noise flag amazing ivory double autumn sadness fabric asthma potato";

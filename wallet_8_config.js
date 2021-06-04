@@ -1,1 +1,1 @@
-var mnemonic = "ridge boat veteran thunder rely boost diesel broccoli owner argue orphan tunnel";
+var mnemonic = "fringe one task female sadness hard fly front earn brain mango waste";

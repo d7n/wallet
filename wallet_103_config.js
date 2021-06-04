@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow nuclear steel tomorrow judge way clump harbor minimum bundle fame disagree";
+var mnemonic = "antique dumb cruel gloom detail hospital doll any car cushion fun maple";

@@ -1,1 +1,1 @@
-var mnemonic = "rural hip bicycle about resource fan gauge alter bitter unable slot gossip";
+var mnemonic = "tray tail flame bird bronze aerobic differ net police faith jar mesh";

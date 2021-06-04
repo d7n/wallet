@@ -1,1 +1,1 @@
-var mnemonic = "mad property thumb record game clump pledge save name unlock aspect ritual";
+var mnemonic = "carbon inherit roast buyer athlete autumn logic dog junior client accident gasp";

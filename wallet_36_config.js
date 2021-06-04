@@ -1,1 +1,1 @@
-var mnemonic = "skin action question hello spy garage road venture army pledge follow inner";
+var mnemonic = "clip thrive apology shaft second afraid unlock payment switch jealous review warm";

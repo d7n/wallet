@@ -1,1 +1,1 @@
-var mnemonic = "resist absurd suspect elite surface fox detect rebuild satisfy sell embody primary";
+var mnemonic = "faint pistol human deposit alter shrug proof sausage sadness series cricket clog";

@@ -1,1 +1,1 @@
-var mnemonic = "frog side empty rotate raccoon piece theory shallow quantum breeze pyramid suit";
+var mnemonic = "fault parrot hundred remove leopard quantum talk onion similar arctic jump lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel twice minor pledge country master card ready gas bean pole miss";
+var mnemonic = "satoshi evoke empty random dirt useful lazy end tiny daughter derive marine";

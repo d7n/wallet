@@ -1,1 +1,1 @@
-var mnemonic = "convince saddle use garden apart bar that sure flip solid only north";
+var mnemonic = "laptop title govern direct peanut road sick wisdom curve squirrel citizen guitar";

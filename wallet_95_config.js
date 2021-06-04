@@ -1,1 +1,1 @@
-var mnemonic = "menu shoot chase tonight trip finger you envelope hold priority pet stumble";
+var mnemonic = "motor neglect shop arm service bridge effort skin circle soap raise love";
