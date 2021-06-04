@@ -1,1 +1,1 @@
-var mnemonic = "rubber donor twin stool blush source moral column sight fence pilot pluck";
+var mnemonic = "initial super offer panther strike car host snap skin slogan heavy assault";

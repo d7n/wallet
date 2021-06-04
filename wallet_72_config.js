@@ -1,1 +1,1 @@
-var mnemonic = "athlete document trouble aspect hope vanish foam basket seat pattern future carpet";
+var mnemonic = "tired regret sunset weasel coyote boy half letter solar another spread trap";

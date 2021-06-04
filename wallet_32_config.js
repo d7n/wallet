@@ -1,1 +1,1 @@
-var mnemonic = "require summer kick example erupt canoe census glance must island this lawn";
+var mnemonic = "judge obvious obtain size flock milk youth able document version slot worry";

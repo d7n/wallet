@@ -1,1 +1,1 @@
-var mnemonic = "dentist final pretty tunnel trap bench response fruit hero inmate pupil join";
+var mnemonic = "slam bring cousin pledge dragon insane sheriff blame tape tonight kit relax";

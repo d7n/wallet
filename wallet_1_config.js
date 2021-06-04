@@ -1,1 +1,1 @@
-var mnemonic = "sudden there slice grow danger accuse never install sponsor manage cabbage drastic";
+var mnemonic = "chunk dinner stove rib give dumb young recipe claw setup flower rifle";

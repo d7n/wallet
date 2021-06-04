@@ -1,1 +1,1 @@
-var mnemonic = "wool electric focus world casual afford month blast must shaft nephew dove";
+var mnemonic = "carbon add topple wheel noise ankle poem label regret orchard cave enable";

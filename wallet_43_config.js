@@ -1,1 +1,1 @@
-var mnemonic = "joke famous quote shift furnace drip agree you garbage because salmon indicate";
+var mnemonic = "fetch minute length light truly usual joy reform exhaust first wool silent";

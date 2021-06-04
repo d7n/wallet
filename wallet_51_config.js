@@ -1,1 +1,1 @@
-var mnemonic = "grocery vessel extend vessel vocal check margin barrel diary leave during legend";
+var mnemonic = "similar extend among language minor library wreck keep tip buddy hockey field";

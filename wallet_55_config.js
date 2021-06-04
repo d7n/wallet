@@ -1,1 +1,1 @@
-var mnemonic = "skull library empower staff castle rival axis street master rival car unique";
+var mnemonic = "forest tell humor supply mistake radio easily pact size inform stamp post";

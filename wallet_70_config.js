@@ -1,1 +1,1 @@
-var mnemonic = "bench slush push thrive regret melt horror dose globe escape hope visit";
+var mnemonic = "until unveil whip fall motor wisdom left orphan void farm author ostrich";

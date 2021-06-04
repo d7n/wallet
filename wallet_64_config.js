@@ -1,1 +1,1 @@
-var mnemonic = "expect alone spell embody citizen body safe weasel eternal run aware bicycle";
+var mnemonic = "subway dwarf used chronic celery talk two calm fiscal hurdle basic crane";

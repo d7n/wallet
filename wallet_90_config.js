@@ -1,1 +1,1 @@
-var mnemonic = "finish pen lemon antenna deliver famous true box response sort talent sustain";
+var mnemonic = "state inject crouch square scissors hour vivid judge pulse spoil oil fluid";

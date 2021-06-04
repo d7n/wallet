@@ -1,1 +1,1 @@
-var mnemonic = "film excess place attitude exercise ensure depth sustain image task print pride";
+var mnemonic = "talk income two wave human mother shoot license casino nose must message";

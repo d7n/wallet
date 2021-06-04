@@ -1,1 +1,1 @@
-var mnemonic = "bottom baby jump elevator left mimic horse final margin upset meat victory";
+var mnemonic = "jazz crack run little penalty walk genuine border steak tenant lyrics enlist";

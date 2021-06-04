@@ -1,1 +1,1 @@
-var mnemonic = "middle merry real save enhance floor south author mean describe tape hungry";
+var mnemonic = "album mule lizard panic case dinner yard chalk impose language gap cliff";

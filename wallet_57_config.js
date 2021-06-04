@@ -1,1 +1,1 @@
-var mnemonic = "survey chase sad that boring soon relief reopen parade history escape permit";
+var mnemonic = "census dwarf tissue kangaroo trip reject kit horror adult duty brave predict";

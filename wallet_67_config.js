@@ -1,1 +1,1 @@
-var mnemonic = "local sure erupt sniff left indicate solution pelican amused van unknown govern";
+var mnemonic = "pulp august van other peanut inside common pond warfare test lucky seat";

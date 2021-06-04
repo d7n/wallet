@@ -1,1 +1,1 @@
-var mnemonic = "humble fatal glad host little cloud solution slight fever sick rain grid";
+var mnemonic = "wait shuffle shift rich fatal term leg critic sheriff practice scan sort";

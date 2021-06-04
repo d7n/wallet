@@ -1,1 +1,1 @@
-var mnemonic = "tennis corn crack much moral honey cool talent just coast bright hundred";
+var mnemonic = "garbage vicious surface begin attend festival half pool picnic misery school help";

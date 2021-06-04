@@ -1,1 +1,1 @@
-var mnemonic = "dutch awake cook duty trial extend item sword pitch bean analyst verify";
+var mnemonic = "cry example slight always attract long royal usual amused suspect weekend orbit";

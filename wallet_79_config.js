@@ -1,1 +1,1 @@
-var mnemonic = "true found corn tide kingdom tide plunge hunt dish submit slim aunt";
+var mnemonic = "mesh pottery screen very thumb toddler play visual tuna retreat meadow pulp";

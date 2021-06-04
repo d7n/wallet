@@ -1,1 +1,1 @@
-var mnemonic = "suggest protect junk pupil wool blood marine awesome cheese brief tuna segment";
+var mnemonic = "bone local suspect degree between hockey reveal palace mixture meat nerve bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "water license panic trip tennis obey fashion absent sign useful frown valid";
+var mnemonic = "save tiny oxygen rebuild reopen shuffle once fiber agree choose hold hat";

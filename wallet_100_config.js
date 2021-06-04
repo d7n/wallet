@@ -1,1 +1,1 @@
-var mnemonic = "local useless board vacuum rotate brave father visual purse fury turkey job";
+var mnemonic = "used source disease tissue buffalo surround taste kingdom breeze current reveal advice";

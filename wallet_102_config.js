@@ -1,1 +1,1 @@
-var mnemonic = "bone divorce then wave intact urge opera upset parrot pipe shift royal";
+var mnemonic = "entire meat grunt profit liquid mom forum nominee miracle chair concert behind";

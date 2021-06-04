@@ -1,1 +1,1 @@
-var mnemonic = "spoon enroll quality toddler glass rice now day once cram tiny say";
+var mnemonic = "stuff spawn vast toilet camp infant punch favorite elite warrior bright chronic";

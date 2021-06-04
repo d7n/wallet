@@ -1,1 +1,1 @@
-var mnemonic = "duty reflect again diamond viable pumpkin cushion expire defense long episode cable";
+var mnemonic = "soul race nominee throw gap cherry blanket slab fluid grow jeans angry";

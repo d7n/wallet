@@ -1,1 +1,1 @@
-var mnemonic = "royal winter negative toward cupboard baby alley egg sad arm flat sadness";
+var mnemonic = "swamp cereal crack wrestle blame parade pencil fever yard palm medal mom";

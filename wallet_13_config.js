@@ -1,1 +1,1 @@
-var mnemonic = "mountain emotion family column derive identify answer blush chapter seven modify choice";
+var mnemonic = "cancel empower grant balcony enough focus leader provide repeat final post raw";

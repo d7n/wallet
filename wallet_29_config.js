@@ -1,1 +1,1 @@
-var mnemonic = "blossom awful decorate cricket anchor when bronze immense syrup worth pattern excess";
+var mnemonic = "used cliff tube outer disease hood stereo village once wisdom tomato hover";

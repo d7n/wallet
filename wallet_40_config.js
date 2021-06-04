@@ -1,1 +1,1 @@
-var mnemonic = "correct magic party deposit predict slow help once disorder eye cotton receive";
+var mnemonic = "income play crack toddler episode hero minor run vessel vicious regular search";

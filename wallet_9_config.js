@@ -1,1 +1,1 @@
-var mnemonic = "birth penalty unusual mushroom defy december capital secret air hamster atom zone";
+var mnemonic = "away team immense similar jealous mention resource cup bounce security busy firm";

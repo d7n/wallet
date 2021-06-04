@@ -1,1 +1,1 @@
-var mnemonic = "lab six roast test wheel claw either ten inch very test notice";
+var mnemonic = "inspire verb guitar praise gown exile benefit teach switch enlist dumb observe";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant display undo window more raise pipe devote assist mosquito practice federal";
+var mnemonic = "tomato reveal social chronic reform angry slow random asset paper sheriff indicate";

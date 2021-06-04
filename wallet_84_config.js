@@ -1,1 +1,1 @@
-var mnemonic = "jaguar upper valid stay brown antique smile reward slab brother joy eye";
+var mnemonic = "exercise taste biology sleep vanish point basic ship twelve select fog feature";

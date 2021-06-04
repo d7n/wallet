@@ -1,1 +1,1 @@
-var mnemonic = "mixed betray kit rubber witness tape across surround solar night honey noise";
+var mnemonic = "wood rapid perfect point famous method wood favorite cram panther roof kind";

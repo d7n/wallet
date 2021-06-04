@@ -1,1 +1,1 @@
-var mnemonic = "tip wear inmate vicious such enact review pipe diagram dawn weekend inhale";
+var mnemonic = "royal cheap large antenna judge either sentence horn sock occur donate setup";

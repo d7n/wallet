@@ -1,1 +1,1 @@
-var mnemonic = "sadness frame borrow climb scare nurse endless square wisdom weekend picnic amused";
+var mnemonic = "you dice private silent below bitter ozone wonder sweet town quit ivory";

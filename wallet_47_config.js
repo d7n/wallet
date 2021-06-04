@@ -1,1 +1,1 @@
-var mnemonic = "kite boss jar lock robot fatal round unit seven nut earth video";
+var mnemonic = "choose earth bronze desk one hip income fitness enough chicken foot axis";

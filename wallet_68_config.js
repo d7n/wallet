@@ -1,1 +1,1 @@
-var mnemonic = "ball bench ball shy gun swing already veteran phrase awful royal liberty";
+var mnemonic = "author rule shed kitten husband alert six upon clay antenna section answer";

@@ -1,1 +1,1 @@
-var mnemonic = "wave clarify seat rare depend assault yard spirit weasel coyote neglect various";
+var mnemonic = "jelly amused obvious health fruit submit split jungle eternal drive tree remove";

@@ -1,1 +1,1 @@
-var mnemonic = "horse kidney other resist paddle party suffer add clever junior detail hour";
+var mnemonic = "busy pitch mountain sing stamp insane index minor purchase gauge swing town";

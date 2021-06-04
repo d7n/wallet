@@ -1,1 +1,1 @@
-var mnemonic = "make affair attend battle sleep toy stool book online verify chief token";
+var mnemonic = "clinic trophy chronic click lava mention title decade love three salute cigar";

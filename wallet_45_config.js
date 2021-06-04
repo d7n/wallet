@@ -1,1 +1,1 @@
-var mnemonic = "city history guide badge monkey jeans critic round tissue net crush cargo";
+var mnemonic = "cousin life fluid venue barely monitor boat foam gentle cotton boring bread";

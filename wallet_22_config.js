@@ -1,1 +1,1 @@
-var mnemonic = "dance notice execute debris ivory exact snap armor blossom false danger stay";
+var mnemonic = "hidden evil today spice number game marriage chaos grass there sign west";

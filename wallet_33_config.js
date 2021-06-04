@@ -1,1 +1,1 @@
-var mnemonic = "item gloom lunar express tuition process miss city bus key ramp young";
+var mnemonic = "dress claw fame nephew pepper absorb volcano garage edge click quick essay";

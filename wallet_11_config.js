@@ -1,1 +1,1 @@
-var mnemonic = "ugly unknown file upper six clog distance sea project edge collect bid";
+var mnemonic = "anger enhance pelican reunion spread express pilot hedgehog disagree lab still rice";

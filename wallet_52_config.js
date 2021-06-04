@@ -1,1 +1,1 @@
-var mnemonic = "rapid opera please velvet unfair check visual bonus fruit fix dream half";
+var mnemonic = "spy lottery sun else spare puzzle aware narrow habit document nation cloud";

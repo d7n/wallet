@@ -1,1 +1,1 @@
-var mnemonic = "hockey access curtain pen repair peace good fine vicious material mobile stable";
+var mnemonic = "bench one coral choice glue cargo snap ready salon guess cradle park";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor image elephant half crop alley language tenant brand tail spirit forward";
+var mnemonic = "allow any increase risk swift immune canal copper nuclear wear razor bulk";

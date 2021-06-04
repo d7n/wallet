@@ -1,1 +1,1 @@
-var mnemonic = "cattle boy moment stand attract service wasp office when pulse escape weasel";
+var mnemonic = "deputy mandate pattern spray note latin grunt truth cable memory sand climb";

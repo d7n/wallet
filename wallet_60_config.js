@@ -1,1 +1,1 @@
-var mnemonic = "wisdom fitness soap rescue win beef patch mesh sustain comfort glory wolf";
+var mnemonic = "potato glove health question make lab regret cousin fancy witness vast initial";

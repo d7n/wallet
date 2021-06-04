@@ -1,1 +1,1 @@
-var mnemonic = "catalog ginger clinic agree announce life panda among bring unhappy card tone";
+var mnemonic = "soon nuclear kitten police tooth mercy gold skull canvas hidden trade trim";

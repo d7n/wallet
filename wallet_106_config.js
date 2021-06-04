@@ -1,1 +1,1 @@
-var mnemonic = "lizard culture snap series sail process wash way mesh enhance hungry carry";
+var mnemonic = "cherry head cable shaft disorder elbow denial clerk fish girl hybrid explain";

@@ -1,1 +1,1 @@
-var mnemonic = "very fury invest door monster trumpet raven siren tomato swap lady enroll";
+var mnemonic = "west master bachelor mirror glue soup flee table clerk ignore swing that";

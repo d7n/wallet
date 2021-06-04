@@ -1,1 +1,1 @@
-var mnemonic = "lend tonight multiply obey image extra subject owner scrub uncover reveal front";
+var mnemonic = "inch funny assist wish dumb wire evil smile female promote trick man";

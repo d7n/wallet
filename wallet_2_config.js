@@ -1,1 +1,1 @@
-var mnemonic = "flame guard quick festival garlic noble seminar despair history hub twelve spell";
+var mnemonic = "slide forget twist noodle gaze degree opera glad mad help choice concert";

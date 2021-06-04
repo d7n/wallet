@@ -1,1 +1,1 @@
-var mnemonic = "health kitten under coral icon panda gossip parade drastic expire lock sustain";
+var mnemonic = "soldier member pluck clever blouse lizard stamp reject result spirit tissue code";

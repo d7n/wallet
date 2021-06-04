@@ -1,1 +1,1 @@
-var mnemonic = "shoot upper shiver pigeon buddy immense resource ring track nothing ecology bulk";
+var mnemonic = "brisk trip special hire daring monkey finish genre height critic term guard";

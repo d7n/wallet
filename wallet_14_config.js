@@ -1,1 +1,1 @@
-var mnemonic = "mutual glance owner spoil script vehicle quit skate drill defy erosion engine";
+var mnemonic = "rare sign rough narrow catalog valve seminar coral portion father atom rebuild";

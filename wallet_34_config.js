@@ -1,1 +1,1 @@
-var mnemonic = "glove rather lounge summer simple kick squirrel useless arrest absurd goose toast";
+var mnemonic = "flip spell cabin sketch guess reward glow repair spatial swift cherry film";

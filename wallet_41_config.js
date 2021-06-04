@@ -1,1 +1,1 @@
-var mnemonic = "famous cook level knee solar year ready first sight fragile destroy pottery";
+var mnemonic = "achieve lawn crunch nominee soap arch resemble student trophy run talent pledge";

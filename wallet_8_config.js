@@ -1,1 +1,1 @@
-var mnemonic = "loan evil seat grit brain figure isolate cat suspect common movie supply";
+var mnemonic = "endorse neck surge lion anxiety lava juice blush chunk remind borrow such";

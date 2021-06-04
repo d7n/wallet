@@ -1,1 +1,1 @@
-var mnemonic = "axis body tube midnight top sail sport opinion slow drum cave favorite";
+var mnemonic = "shrimp repeat draw aspect drum clock velvet wire cable journey enough found";

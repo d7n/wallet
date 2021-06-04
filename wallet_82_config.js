@@ -1,1 +1,1 @@
-var mnemonic = "alarm angry pulp divide gown foster inch acoustic area butter scout funny";
+var mnemonic = "exist rack spider book observe rigid never nest pencil lock gorilla ritual";

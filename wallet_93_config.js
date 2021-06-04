@@ -1,1 +1,1 @@
-var mnemonic = "hotel weather disagree raise relief pitch grace purity media beach stem guess";
+var mnemonic = "amazing tomato galaxy sound noise rail october enter awful item torch learn";

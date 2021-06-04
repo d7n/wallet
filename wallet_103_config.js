@@ -1,1 +1,1 @@
-var mnemonic = "wide bag fossil man shift jewel leaf wash rather culture reveal junk";
+var mnemonic = "valley junior limit blouse gold twenty pyramid luxury flavor cake hockey wise";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst such never chief model carpet emerge curious check pony motor produce";
+var mnemonic = "vault whale pretty sweet away prepare during display number album culture tornado";

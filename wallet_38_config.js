@@ -1,1 +1,1 @@
-var mnemonic = "lock scorpion anxiety banana wrong because master require amused roof depart repeat";
+var mnemonic = "hill common welcome flee supply install economy attitude govern hub sail render";

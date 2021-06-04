@@ -1,1 +1,1 @@
-var mnemonic = "atom educate guard garbage hidden prepare genius wonder defy plunge language enroll";
+var mnemonic = "drink useful urban analyst nominee jaguar genre guide gadget seminar crater behind";

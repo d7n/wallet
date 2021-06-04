@@ -1,1 +1,1 @@
-var mnemonic = "horror expand age vague color run zero hurdle talent wait draft cradle";
+var mnemonic = "normal car learn scatter lion card artefact truck slice crime rib replace";

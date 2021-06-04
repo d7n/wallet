@@ -1,1 +1,1 @@
-var mnemonic = "boring until local canoe sauce month myself whip wreck warfare chair weekend";
+var mnemonic = "million end rack jump come order alley live wild infant frog company";

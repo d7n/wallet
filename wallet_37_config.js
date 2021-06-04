@@ -1,1 +1,1 @@
-var mnemonic = "already route zone enough bottom setup vault shuffle find spread above aim";
+var mnemonic = "hurdle rifle era work bullet quote guide manual tank play violin volume";

@@ -1,1 +1,1 @@
-var mnemonic = "letter blast grab viable planet team chase diet almost guard ahead waste";
+var mnemonic = "creek cigar antenna quarter yard march chimney explain close sustain grape dash";

@@ -1,1 +1,1 @@
-var mnemonic = "such skill depth smile fly cup ordinary fetch rich dog foil liberty";
+var mnemonic = "breeze plastic account say depth shove smile off stamp carpet behind dragon";

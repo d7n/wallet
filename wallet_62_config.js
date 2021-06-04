@@ -1,1 +1,1 @@
-var mnemonic = "mirror army people action lawsuit size vicious canvas clay crucial peanut vote";
+var mnemonic = "man tunnel token vicious chest lyrics legend cram mammal latin trip rely";

@@ -1,1 +1,1 @@
-var mnemonic = "horn all smile youth slice vacant guide visa lunch chest dynamic evil";
+var mnemonic = "soda nest local happy flame speak illness always body slogan round swear";

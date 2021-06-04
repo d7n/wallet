@@ -1,1 +1,1 @@
-var mnemonic = "van cupboard payment rain avocado recycle canal fluid antique glimpse glad intact";
+var mnemonic = "famous skirt cat scissors sport rain festival sample cactus bulk atom room";

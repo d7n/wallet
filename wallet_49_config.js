@@ -1,1 +1,1 @@
-var mnemonic = "book crouch organ anxiety differ day indicate aspect usual expand city rebuild";
+var mnemonic = "arch submit market early infant nation column fall ice couple onion echo";

@@ -1,1 +1,1 @@
-var mnemonic = "town change region comfort weapon wait valve amount mountain fortune certain dance";
+var mnemonic = "olive bless viable frown lawsuit fish argue code rough orphan upgrade stock";

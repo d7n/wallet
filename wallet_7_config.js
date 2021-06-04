@@ -1,1 +1,1 @@
-var mnemonic = "suspect trap baby six rhythm ride monkey worth choice curious zero spirit";
+var mnemonic = "patrol super canal congress error holiday honey shrimp present problem pass noise";

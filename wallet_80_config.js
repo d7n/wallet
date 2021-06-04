@@ -1,1 +1,1 @@
-var mnemonic = "spoil buddy sun heart romance grit foot melody pyramid lake giraffe piano";
+var mnemonic = "start negative tail shiver next link rescue bullet century chicken plunge bicycle";

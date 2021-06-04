@@ -1,1 +1,1 @@
-var mnemonic = "entire rug science copy pear plug lyrics found furnace coconut evil river";
+var mnemonic = "recipe way system nerve whale fortune grunt six glide area flame garment";

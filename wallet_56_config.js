@@ -1,1 +1,1 @@
-var mnemonic = "nephew stamp surround alien theory business below lunar smart monitor lucky book";
+var mnemonic = "climb virtual harvest relief still during bar drum pen fatal portion daring";

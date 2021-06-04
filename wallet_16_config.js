@@ -1,1 +1,1 @@
-var mnemonic = "limb ball shop water tube circle produce fee illegal pioneer bar volcano";
+var mnemonic = "life woman trust bulk say wisdom price twin dust process staff verify";

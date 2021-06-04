@@ -1,1 +1,1 @@
-var mnemonic = "regular vote program vehicle setup anchor width person pony denial fatigue share";
+var mnemonic = "wear practice bring toy raw volume craft below chapter drop rate apart";

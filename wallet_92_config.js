@@ -1,1 +1,1 @@
-var mnemonic = "parrot chaos stable more six bulk sign swing auction liar cushion topic";
+var mnemonic = "dolphin odor family absurd current congress evoke skin chest pause blood train";

@@ -1,1 +1,1 @@
-var mnemonic = "auto news that wheel canyon version thing burst idle ankle lava evil";
+var mnemonic = "final rabbit off cat team ecology bulk reward catalog enlist team dawn";

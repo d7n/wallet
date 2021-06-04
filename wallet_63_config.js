@@ -1,1 +1,1 @@
-var mnemonic = "champion move check trend medal vocal velvet glad smooth saddle return faith";
+var mnemonic = "diesel dad zoo check require blue vanish similar caution pumpkin release fine";

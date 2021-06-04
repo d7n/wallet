@@ -1,1 +1,1 @@
-var mnemonic = "march then quit floor chef planet legend talk scatter forest lottery add";
+var mnemonic = "season vanish case ready lazy fit vague sure buyer upgrade upgrade slim";

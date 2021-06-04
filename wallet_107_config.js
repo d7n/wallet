@@ -1,1 +1,1 @@
-var mnemonic = "before romance regret dumb oxygen traffic cupboard mix leave design round genius";
+var mnemonic = "feed lemon excite also wing calm vehicle wedding ill okay oven foil";

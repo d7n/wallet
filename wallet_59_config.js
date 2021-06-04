@@ -1,1 +1,1 @@
-var mnemonic = "cabbage item wine spoil crystal swallow hour swim neck large sunset wire";
+var mnemonic = "dentist canal exist upper puppy have bid depend grocery kidney raven ladder";

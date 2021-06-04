@@ -1,1 +1,1 @@
-var mnemonic = "business dream concert rookie receive gun sick mean lift hawk debris language";
+var mnemonic = "soup topple film slam nose garage liar island voice immune online toe";
