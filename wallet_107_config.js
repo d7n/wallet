@@ -1,1 +1,1 @@
-var mnemonic = "grocery appear remain visit job normal fetch soda fresh entire bar economy";
+var mnemonic = "scrap panther couple radar dinner pond glimpse above attack refuse gown wish";

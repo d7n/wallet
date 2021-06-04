@@ -1,1 +1,1 @@
-var mnemonic = "cover smoke shock recall control celery trade crater awesome skull spice supply";
+var mnemonic = "drip hidden joke found close bachelor season review disagree depth wage frown";

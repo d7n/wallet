@@ -1,1 +1,1 @@
-var mnemonic = "common exile slow help dust enjoy inspire stage husband sorry pear people";
+var mnemonic = "ice erase banana marble country glue slice parade swim arctic peace novel";

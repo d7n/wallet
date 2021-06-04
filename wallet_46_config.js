@@ -1,1 +1,1 @@
-var mnemonic = "range accuse flame napkin prepare layer tongue feature near spray deposit empty";
+var mnemonic = "visit sea afford fortune bronze wear source desert powder citizen unveil diet";

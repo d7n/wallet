@@ -1,1 +1,1 @@
-var mnemonic = "brick sunny avoid network cruise flight regular tower favorite harbor equal odor";
+var mnemonic = "tape suffer lawsuit venture clip science main sing shine pig isolate average";

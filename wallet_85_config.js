@@ -1,1 +1,1 @@
-var mnemonic = "copper abandon human treat shiver memory repeat addict weapon quiz tube boat";
+var mnemonic = "perfect kit gown combine extend connect there dragon wealth curious job correct";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon brief chunk develop exhibit crystal spell siege captain tortoise atom silent";
+var mnemonic = "prefer broom help chimney seek aim clog tiny attend dress skirt strong";

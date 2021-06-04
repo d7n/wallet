@@ -1,1 +1,1 @@
-var mnemonic = "hood build apology skin arm rough rival feed grass flush attitude tissue";
+var mnemonic = "brother heavy vintage reveal deny empower have allow stereo tool wisdom dance";

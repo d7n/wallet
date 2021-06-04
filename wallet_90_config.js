@@ -1,1 +1,1 @@
-var mnemonic = "lion tackle easy arrow hub reunion proof similar close find speak bench";
+var mnemonic = "then often viable cancel bag sample library math nothing must bulb glove";

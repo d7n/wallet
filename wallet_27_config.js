@@ -1,1 +1,1 @@
-var mnemonic = "parent dwarf present joke midnight dress audit use option monitor solid maximum";
+var mnemonic = "guard board blur split again ketchup analyst tackle laugh check like sell";

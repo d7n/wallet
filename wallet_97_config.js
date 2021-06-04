@@ -1,1 +1,1 @@
-var mnemonic = "pave make crumble best neck connect video damage own bar inch bunker";
+var mnemonic = "library rigid tomorrow maid luggage kite lesson major category patient over dizzy";

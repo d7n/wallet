@@ -1,1 +1,1 @@
-var mnemonic = "cheap know issue bottom party swap mention brown share off waste feel";
+var mnemonic = "analyst rifle fever cement custom news because hidden corn local reduce young";

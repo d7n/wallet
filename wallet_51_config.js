@@ -1,1 +1,1 @@
-var mnemonic = "trend spend word group decrease cruise silver lecture measure few evil minute";
+var mnemonic = "input result seed one rebuild tail fire shift shove dove lamp idea";

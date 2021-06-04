@@ -1,1 +1,1 @@
-var mnemonic = "fancy olive when kid swear soap never quantum throw leader dynamic useful";
+var mnemonic = "mimic design adjust witness birth month tissue collect print make garbage able";

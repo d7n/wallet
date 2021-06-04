@@ -1,1 +1,1 @@
-var mnemonic = "bind cabbage actor diagram sorry certain dove december kangaroo empower lunar distance";
+var mnemonic = "spice elevator elder attend stem front index taste twin rookie lock rigid";

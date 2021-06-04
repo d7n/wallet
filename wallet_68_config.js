@@ -1,1 +1,1 @@
-var mnemonic = "mango napkin uphold same urban city laundry exercise clutch chef anger noodle";
+var mnemonic = "trouble expand slush nation moral sugar amazing addict monster attitude oak art";

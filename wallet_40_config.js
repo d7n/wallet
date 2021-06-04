@@ -1,1 +1,1 @@
-var mnemonic = "plastic deny material whip master surge average sorry grief novel pause farm";
+var mnemonic = "ride sausage ten raw add boy fiscal chef agree rubber beyond speak";

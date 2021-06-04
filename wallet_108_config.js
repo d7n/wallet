@@ -1,1 +1,1 @@
-var mnemonic = "slam plunge eagle unfair fatal valley cactus gift fog spare purse paper";
+var mnemonic = "vault slush rocket sleep again people special outdoor climb plunge almost wedding";

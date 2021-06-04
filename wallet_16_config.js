@@ -1,1 +1,1 @@
-var mnemonic = "group curve scrub year include sustain text small float tide cycle damp";
+var mnemonic = "mansion trend aim remember suggest album under update social size abandon spike";

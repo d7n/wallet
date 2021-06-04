@@ -1,1 +1,1 @@
-var mnemonic = "camp response bubble champion summer gentle mix today wise ancient surface april";
+var mnemonic = "chalk next bright giant nice evidence monster donor diamond venue candy easily";

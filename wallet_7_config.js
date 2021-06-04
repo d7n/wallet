@@ -1,1 +1,1 @@
-var mnemonic = "jewel swing clean tortoise aware warm bag frost shallow apart toast dice";
+var mnemonic = "exhibit okay diamond roast predict empower party absorb mystery head limb path";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain flame summer chest cannon chicken captain host word develop daughter present";
+var mnemonic = "sorry nature baby there only slow eyebrow else path grass unlock kingdom";

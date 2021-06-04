@@ -1,1 +1,1 @@
-var mnemonic = "shock phrase visual ball plug country mad motion tired bargain axis spend";
+var mnemonic = "bless used surprise correct push strategy parrot image brief loud tiger truly";

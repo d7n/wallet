@@ -1,1 +1,1 @@
-var mnemonic = "isolate jelly velvet manage orange letter dune ring someone six exotic fluid";
+var mnemonic = "enhance abuse then famous become trend crew session genius stand enter meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "list morning basket warrior hire glance roof agent evil magic photo verify";
+var mnemonic = "clap liquid awkward idle latin gym figure cage report way pear hill";

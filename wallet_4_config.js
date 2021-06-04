@@ -1,1 +1,1 @@
-var mnemonic = "warfare stamp such bike river actor repeat timber daring lonely snap phrase";
+var mnemonic = "fog write daughter fortune robot switch answer sail pride option favorite three";

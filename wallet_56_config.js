@@ -1,1 +1,1 @@
-var mnemonic = "olympic swing example scheme unknown shock bright hope express noise cloth camera";
+var mnemonic = "tobacco bring two collect shy any name patch host kind flag spoil";

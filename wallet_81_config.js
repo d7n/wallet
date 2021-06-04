@@ -1,1 +1,1 @@
-var mnemonic = "wolf news deputy loyal jar document work bright blast term frog front";
+var mnemonic = "scene ignore current parent mind review tortoise kind boss thank tuition leg";

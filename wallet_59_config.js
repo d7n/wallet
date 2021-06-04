@@ -1,1 +1,1 @@
-var mnemonic = "sphere plastic claw spoil license design person inquiry talk video alone winter";
+var mnemonic = "draft dust pistol inmate prize antenna often glory agent tourist oppose today";

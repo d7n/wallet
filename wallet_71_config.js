@@ -1,1 +1,1 @@
-var mnemonic = "air cushion add scene arch voyage shock runway mail payment move shift";
+var mnemonic = "lemon lab biology pepper movie upper point spend vast blossom diagram alter";

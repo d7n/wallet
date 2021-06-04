@@ -1,1 +1,1 @@
-var mnemonic = "mouse runway seven ritual vicious wolf bless oyster innocent flag slogan live";
+var mnemonic = "bid upon pledge illegal relax fossil great ladder core leader rule dream";

@@ -1,1 +1,1 @@
-var mnemonic = "brave cost often method exchange area grief soldier fatal journey system erupt";
+var mnemonic = "nice slot define twin knife differ select patch inch ozone project rely";

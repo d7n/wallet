@@ -1,1 +1,1 @@
-var mnemonic = "agree unable wage transfer basic aware bunker cart shift pioneer erosion side";
+var mnemonic = "robust pet auction double olympic asset window cradle kitten cousin cute board";

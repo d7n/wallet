@@ -1,1 +1,1 @@
-var mnemonic = "suggest balance ask field box weather save wood elder happy shy record";
+var mnemonic = "census excess tornado large join voyage oblige pizza volume attend pet tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "egg orchard source vivid gossip board champion evidence hand foot motion dinner";
+var mnemonic = "stove know ignore name also sample skull squirrel birth state still jealous";

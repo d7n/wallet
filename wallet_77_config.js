@@ -1,1 +1,1 @@
-var mnemonic = "reason refuse clog shop patient faculty mixture blush magnet inner walk pulse";
+var mnemonic = "asset mask pink spike culture angle prison bacon wasp street rebel junk";

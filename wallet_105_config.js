@@ -1,1 +1,1 @@
-var mnemonic = "image parrot cupboard render audit stone voyage goose swing intact edit despair";
+var mnemonic = "garlic dose comfort welcome excuse cheap security unlock mix type hood bean";

@@ -1,1 +1,1 @@
-var mnemonic = "solar hunt fault render kangaroo bunker skull dune fan quit file retreat";
+var mnemonic = "century banner build busy deputy demand mechanic slim sibling two leaf wing";

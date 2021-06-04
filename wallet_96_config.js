@@ -1,1 +1,1 @@
-var mnemonic = "measure window crime unusual avocado tunnel entry coffee tortoise common sketch foster";
+var mnemonic = "tribe best artist flower clog elite begin rich anger place vintage bounce";

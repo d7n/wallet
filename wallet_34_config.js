@@ -1,1 +1,1 @@
-var mnemonic = "empower vehicle minor name ivory annual face average upon glory escape exist";
+var mnemonic = "stay fabric shallow tent cram enhance system lift thought ceiling tape fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "habit budget chunk people allow transfer deliver bottom upgrade idle stumble tank";
+var mnemonic = "divorce benefit blossom cook relax crater cheap evolve gather link security attract";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry adapt phone like hole dish nasty benefit crowd need track alien";
+var mnemonic = "load luxury august invest sword adapt flush eyebrow brick coin model kit";

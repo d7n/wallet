@@ -1,1 +1,1 @@
-var mnemonic = "run mention lawn smart excuse crush robust draw truth dizzy burden mom";
+var mnemonic = "rebel drum hurdle village brave ceiling involve eye term invite glory desert";

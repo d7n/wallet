@@ -1,1 +1,1 @@
-var mnemonic = "stick blood name oblige because talk dolphin miracle almost stereo chuckle pen";
+var mnemonic = "sock elbow amused burst lemon donor metal manage emerge vibrant beauty brisk";

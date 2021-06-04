@@ -1,1 +1,1 @@
-var mnemonic = "hazard clean diary guard finger reduce hurry dirt one olive glimpse scan";
+var mnemonic = "know brief inhale genuine spawn easily burger analyst album castle salute together";

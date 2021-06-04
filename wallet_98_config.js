@@ -1,1 +1,1 @@
-var mnemonic = "thank police easy vendor chef chest cream fortune clutch alpha fiction original";
+var mnemonic = "torch onion scheme defense gentle swallow alert silly limb stable elephant trial";

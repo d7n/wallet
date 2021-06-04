@@ -1,1 +1,1 @@
-var mnemonic = "artwork anxiety board base eight island rhythm cream unable garlic plastic grant";
+var mnemonic = "swear mistake assist crawl goose topic actual rebuild rescue fossil duty health";

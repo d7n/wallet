@@ -1,1 +1,1 @@
-var mnemonic = "oil emotion hover pencil reflect hamster fork assume home jelly injury plunge";
+var mnemonic = "please spin sustain mule letter verb fall timber young shrimp sunny drum";

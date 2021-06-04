@@ -1,1 +1,1 @@
-var mnemonic = "future rose six extra vocal blue race drill phone unusual skill ordinary";
+var mnemonic = "outer among more magnet wealth neutral gaze cotton glory gesture oval siren";

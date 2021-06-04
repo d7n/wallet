@@ -1,1 +1,1 @@
-var mnemonic = "demand worth bean can night resource crawl before rhythm require tilt song";
+var mnemonic = "across item fragile issue test bundle model mandate quit phone hire insect";

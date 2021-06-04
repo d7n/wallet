@@ -1,1 +1,1 @@
-var mnemonic = "pool canal thumb fiscal staff wasp reject harsh payment reform cram gasp";
+var mnemonic = "joke old neck skull attract notice isolate gravity project penalty lab churn";

@@ -1,1 +1,1 @@
-var mnemonic = "push actress bench chunk before limb leisure buffalo combine spend decorate wheat";
+var mnemonic = "enjoy inflict bless process beyond mercy used lottery belt blouse ghost multiply";

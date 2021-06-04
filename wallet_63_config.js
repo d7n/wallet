@@ -1,1 +1,1 @@
-var mnemonic = "abuse curious extend duck shine apple spread venture fuel search glove tree";
+var mnemonic = "replace goose trumpet aware stable grant bundle kiwi onion wire topple trouble";

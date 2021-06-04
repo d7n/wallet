@@ -1,1 +1,1 @@
-var mnemonic = "edit crash nice soul again arrive scan resist alley mouse awful admit";
+var mnemonic = "announce vast champion math test hill liquid slogan adapt salon pistol grace";

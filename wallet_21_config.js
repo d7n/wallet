@@ -1,1 +1,1 @@
-var mnemonic = "example token payment inform hip clutch pumpkin spring blue cement level pioneer";
+var mnemonic = "pet usual leave execute produce misery usage knock tribe dismiss robot version";

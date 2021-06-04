@@ -1,1 +1,1 @@
-var mnemonic = "leg dismiss proof final unveil mechanic champion visa season tree drip find";
+var mnemonic = "above tooth smart search travel shift aunt health cube head crystal veteran";

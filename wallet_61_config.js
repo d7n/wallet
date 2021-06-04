@@ -1,1 +1,1 @@
-var mnemonic = "suit stove agent bus creek kangaroo truck project bounce involve spring session";
+var mnemonic = "custom meat wink menu wage quiz run heavy abuse auto jewel crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "moment summer type hedgehog undo merit hire citizen antenna junk crazy huge";
+var mnemonic = "warrior royal conduct pulse nose camp memory meat govern room advance surface";

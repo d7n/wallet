@@ -1,1 +1,1 @@
-var mnemonic = "boil into better layer asthma stick shove upset deposit wrap time excess";
+var mnemonic = "rely ribbon trip romance expose firm recall rather arena pole pulse gallery";

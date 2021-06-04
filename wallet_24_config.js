@@ -1,1 +1,1 @@
-var mnemonic = "host evidence mobile wash cake scare valley connect ship lyrics robot host";
+var mnemonic = "flash embody cost cry before veteran share doctor symptom stick onion popular";

@@ -1,1 +1,1 @@
-var mnemonic = "airport uphold next spare glass tunnel raise virus gospel verify diamond sunny";
+var mnemonic = "domain velvet stone shy stone fiction unusual can hand vote reform bronze";

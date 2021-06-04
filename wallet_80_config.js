@@ -1,1 +1,1 @@
-var mnemonic = "puppy entire settle zoo member harbor steel uniform collect soon ranch broom";
+var mnemonic = "open sibling exercise tissue citizen web end lesson involve owner shallow obscure";

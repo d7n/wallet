@@ -1,1 +1,1 @@
-var mnemonic = "valley awesome shield swift gasp exact debate divide rare nephew nothing unique";
+var mnemonic = "genuine figure control lady guitar leave target found protect prevent exit step";

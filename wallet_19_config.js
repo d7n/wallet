@@ -1,1 +1,1 @@
-var mnemonic = "federal game chalk hungry ugly suit chronic later maple child wood feel";
+var mnemonic = "crime nation deer half wealth lyrics adult pyramid crumble submit brick elephant";

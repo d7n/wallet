@@ -1,1 +1,1 @@
-var mnemonic = "quantum silent popular exit jaguar pill real supreme large cycle carpet elite";
+var mnemonic = "comfort estate beef key electric sail enlist demise ocean retire file tiger";

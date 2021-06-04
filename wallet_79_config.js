@@ -1,1 +1,1 @@
-var mnemonic = "actress fluid cannon number spell weasel job member rare runway chat settle";
+var mnemonic = "cause dog resemble better steel because anger lucky police model index fiscal";

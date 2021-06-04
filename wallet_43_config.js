@@ -1,1 +1,1 @@
-var mnemonic = "private country huge shrug above hollow phone frequent become slide embark monster";
+var mnemonic = "absurd addict during click blush always small candy deliver edge trumpet enter";

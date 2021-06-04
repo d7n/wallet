@@ -1,1 +1,1 @@
-var mnemonic = "clarify dust museum visit acoustic accuse arch enact figure gauge any scare";
+var mnemonic = "suspect bind year eternal broom flee enter dinner victory term mind swing";

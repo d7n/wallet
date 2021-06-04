@@ -1,1 +1,1 @@
-var mnemonic = "inspire naive absurd dad dune subway creek robust light theory buddy long";
+var mnemonic = "number chunk below chalk globe glue legal divorce unknown amount select paddle";

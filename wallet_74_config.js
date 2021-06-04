@@ -1,1 +1,1 @@
-var mnemonic = "prevent job okay course model adult legend blame coast weasel tail actual";
+var mnemonic = "dynamic economy outside chef thought now quality damp frequent biology useful omit";

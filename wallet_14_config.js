@@ -1,1 +1,1 @@
-var mnemonic = "concert coral smart helmet demise setup allow until card climb spell project";
+var mnemonic = "raise winter food decide wreck polar enjoy pelican smoke purse glance grain";

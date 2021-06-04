@@ -1,1 +1,1 @@
-var mnemonic = "poem sugar wheat voice afraid shoe grief income outdoor public city oyster";
+var mnemonic = "decrease sister angle pencil people invest field lobster define radar jewel poverty";

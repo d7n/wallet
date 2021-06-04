@@ -1,1 +1,1 @@
-var mnemonic = "mechanic finish appear novel anchor shuffle toss ski change ladder tissue write";
+var mnemonic = "mule bomb margin result tooth since lunch endless measure ankle genre shell";

@@ -1,1 +1,1 @@
-var mnemonic = "cool clerk foster thumb glue side ankle secret matrix fit dice enhance";
+var mnemonic = "curious lava mass picnic smoke away security axis bike dumb dream rough";

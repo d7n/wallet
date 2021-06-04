@@ -1,1 +1,1 @@
-var mnemonic = "teach embrace celery program dutch process vocal tree lunch bird shed agent";
+var mnemonic = "cactus honey credit throw renew swim toss moment all embark awake garment";

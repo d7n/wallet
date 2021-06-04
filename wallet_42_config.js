@@ -1,1 +1,1 @@
-var mnemonic = "sketch uniform feed wide hero deputy reduce sibling write orchard network general";
+var mnemonic = "disorder social skate eye fence lumber coral review cement firm lens squirrel";

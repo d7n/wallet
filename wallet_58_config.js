@@ -1,1 +1,1 @@
-var mnemonic = "thumb giggle credit portion sustain side school frost input flight age budget";
+var mnemonic = "breeze large later exhaust roast tobacco ride stairs minor long drip chronic";

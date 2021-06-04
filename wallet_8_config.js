@@ -1,1 +1,1 @@
-var mnemonic = "conduct two pyramid address verb bone cherry ask hurt oblige target fork";
+var mnemonic = "decade base pigeon wife fog nut exchange burden slush charge mosquito flower";

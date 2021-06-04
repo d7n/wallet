@@ -1,1 +1,1 @@
-var mnemonic = "fame unfair hint hood predict settle now raven daring cry mobile life";
+var mnemonic = "sample exercise myth physical anchor turkey quality candy trophy learn canvas ramp";

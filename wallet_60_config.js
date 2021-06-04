@@ -1,1 +1,1 @@
-var mnemonic = "route peasant left bachelor cook expand elbow charge clutch genius able entire";
+var mnemonic = "tiny lemon rebuild truck benefit trust slab waste scatter left staff cigar";

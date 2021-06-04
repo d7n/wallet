@@ -1,1 +1,1 @@
-var mnemonic = "segment muffin expose annual timber stove toast join wage admit tube tennis";
+var mnemonic = "today deputy remain expire expire age drip creek elder afraid convince kick";

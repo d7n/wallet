@@ -1,1 +1,1 @@
-var mnemonic = "spare juice oil observe spray merry breeze zebra hood spy sick resist";
+var mnemonic = "catch appear pig come immune wisdom hundred visit fitness repeat solid mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "album innocent palace they narrow almost fruit machine rookie review hub onion";
+var mnemonic = "you whale west almost garbage law minute draw vessel undo diamond sort";

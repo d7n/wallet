@@ -1,1 +1,1 @@
-var mnemonic = "never swear dinner unknown mosquito expand token recipe critic yard heavy profit";
+var mnemonic = "evolve cup carpet lend actual wreck liar spin solar injury road pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "choose wall horse pulp similar veteran moment ring chronic elite dirt mean";
+var mnemonic = "remove play host energy tobacco drill manual cry process stool leader nation";

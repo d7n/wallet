@@ -1,1 +1,1 @@
-var mnemonic = "siege avoid season creek pelican despair isolate pudding color extend lock absorb";
+var mnemonic = "tank obvious visual cross close peace observe athlete wagon peasant brain inner";
