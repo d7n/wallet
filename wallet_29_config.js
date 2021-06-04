@@ -1,1 +1,1 @@
-var mnemonic = "evolve cup carpet lend actual wreck liar spin solar injury road pretty";
+var mnemonic = "april stock attend earth stumble once wreck demise time pigeon engine mimic";

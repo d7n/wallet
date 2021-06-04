@@ -1,1 +1,1 @@
-var mnemonic = "today deputy remain expire expire age drip creek elder afraid convince kick";
+var mnemonic = "silver royal hat isolate virus alley rent two garden black police word";

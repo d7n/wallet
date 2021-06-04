@@ -1,1 +1,1 @@
-var mnemonic = "shed unhappy rice tongue practice humor mail distance debris powder ride blue";
+var mnemonic = "close exile report tattoo steel drift distance taxi maze bike pony token";

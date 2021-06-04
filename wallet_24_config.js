@@ -1,1 +1,1 @@
-var mnemonic = "flash embody cost cry before veteran share doctor symptom stick onion popular";
+var mnemonic = "timber feel vague health flower crawl sausage enable scale group crime bike";

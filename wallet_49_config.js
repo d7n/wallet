@@ -1,1 +1,1 @@
-var mnemonic = "rebel drum hurdle village brave ceiling involve eye term invite glory desert";
+var mnemonic = "aerobic age voice cliff solution law ready pulp apology flush carbon elegant";

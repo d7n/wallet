@@ -1,1 +1,1 @@
-var mnemonic = "cause dog resemble better steel because anger lucky police model index fiscal";
+var mnemonic = "bullet science nation fee steel roof fatigue heart minimum fringe train file";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect kit gown combine extend connect there dragon wealth curious job correct";
+var mnemonic = "reform wrestle thing remind this patrol priority tray sort frequent security coast";

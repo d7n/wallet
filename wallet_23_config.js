@@ -1,1 +1,1 @@
-var mnemonic = "air void illness topple asthma solid find civil coffee urge exact smoke";
+var mnemonic = "vacuum burden eternal airport reform suspect truck pudding build address elder parrot";

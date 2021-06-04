@@ -1,1 +1,1 @@
-var mnemonic = "mule bomb margin result tooth since lunch endless measure ankle genre shell";
+var mnemonic = "walnut pass cotton cram finger junior gather clap sauce one spatial lens";

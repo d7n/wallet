@@ -1,1 +1,1 @@
-var mnemonic = "library rigid tomorrow maid luggage kite lesson major category patient over dizzy";
+var mnemonic = "top curve tail bird palace expire blouse stumble elite toast faint photo";

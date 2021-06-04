@@ -1,1 +1,1 @@
-var mnemonic = "above tooth smart search travel shift aunt health cube head crystal veteran";
+var mnemonic = "battle robust wave couch couch panda cry supreme flag ordinary invite suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "bless used surprise correct push strategy parrot image brief loud tiger truly";
+var mnemonic = "general jealous apart poem settle outer top meat dance forward oil science";

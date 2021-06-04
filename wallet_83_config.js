@@ -1,1 +1,1 @@
-var mnemonic = "decrease sister angle pencil people invest field lobster define radar jewel poverty";
+var mnemonic = "sheriff truck choose large thumb permit voice student labor apart fiber short";

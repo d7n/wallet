@@ -1,1 +1,1 @@
-var mnemonic = "crumble walk what gap sniff token antenna virus glad crush coconut this";
+var mnemonic = "mad destroy pair history rally three letter today entire profit mouse minimum";

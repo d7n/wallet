@@ -1,1 +1,1 @@
-var mnemonic = "lemon lab biology pepper movie upper point spend vast blossom diagram alter";
+var mnemonic = "absorb innocent suspect sunset surge feature present loan shrug illness gain erosion";

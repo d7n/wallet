@@ -1,1 +1,1 @@
-var mnemonic = "ride sausage ten raw add boy fiscal chef agree rubber beyond speak";
+var mnemonic = "sunset few erode cool decide lamp relax gentle garbage table basket arrow";

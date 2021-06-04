@@ -1,1 +1,1 @@
-var mnemonic = "ketchup trouble prevent gospel blossom brown athlete ramp rabbit pencil forget slogan";
+var mnemonic = "open poverty answer napkin review fresh else system estate cake panic jungle";

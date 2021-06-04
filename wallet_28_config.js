@@ -1,1 +1,1 @@
-var mnemonic = "outer among more magnet wealth neutral gaze cotton glory gesture oval siren";
+var mnemonic = "truth belt cricket flower chef seat chicken split waste try love strong";

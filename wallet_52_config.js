@@ -1,1 +1,1 @@
-var mnemonic = "once receive doll patient apple autumn world will cruel want fiber about";
+var mnemonic = "cable more lawn clap retreat toe over put excuse denial ask vanish";

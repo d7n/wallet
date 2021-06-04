@@ -1,1 +1,1 @@
-var mnemonic = "pet usual leave execute produce misery usage knock tribe dismiss robot version";
+var mnemonic = "erupt unique clip brief lava weapon mouse ramp myself tobacco ignore blood";

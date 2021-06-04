@@ -1,1 +1,1 @@
-var mnemonic = "bid upon pledge illegal relax fossil great ladder core leader rule dream";
+var mnemonic = "first win manual ugly decide jelly notice shed march pact scrap zoo";

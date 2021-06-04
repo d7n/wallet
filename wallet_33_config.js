@@ -1,1 +1,1 @@
-var mnemonic = "rely ribbon trip romance expose firm recall rather arena pole pulse gallery";
+var mnemonic = "like laugh odor busy void noise task utility empower list picnic trim";

@@ -1,1 +1,1 @@
-var mnemonic = "stove know ignore name also sample skull squirrel birth state still jealous";
+var mnemonic = "goddess cradle trumpet frequent depend deny news raise industry course caught merge";

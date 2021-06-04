@@ -1,1 +1,1 @@
-var mnemonic = "garbage occur flash vibrant force venue reject mad kitchen prison episode text";
+var mnemonic = "security escape approve charge garbage used glimpse change eight pencil athlete brown";

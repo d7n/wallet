@@ -1,1 +1,1 @@
-var mnemonic = "joke old neck skull attract notice isolate gravity project penalty lab churn";
+var mnemonic = "amused modify pass dismiss front wolf ivory pelican amused bird awesome upper";

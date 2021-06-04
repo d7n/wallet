@@ -1,1 +1,1 @@
-var mnemonic = "analyst rifle fever cement custom news because hidden corn local reduce young";
+var mnemonic = "myth system safe giggle mind auto unfair lunch curious hidden trim thing";

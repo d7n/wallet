@@ -1,1 +1,1 @@
-var mnemonic = "gentle gown romance border solve check raccoon twice admit napkin common spice";
+var mnemonic = "bicycle soap bless wire luxury chest laptop defy enemy between letter extra";

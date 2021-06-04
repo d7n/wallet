@@ -1,1 +1,1 @@
-var mnemonic = "chalk next bright giant nice evidence monster donor diamond venue candy easily";
+var mnemonic = "swallow chicken cover lend bring axis fashion review symbol gossip pelican minor";

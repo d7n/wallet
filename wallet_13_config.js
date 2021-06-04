@@ -1,1 +1,1 @@
-var mnemonic = "remove play host energy tobacco drill manual cry process stool leader nation";
+var mnemonic = "sniff primary illness slow measure home purpose machine jealous volume kitchen jeans";

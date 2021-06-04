@@ -1,1 +1,1 @@
-var mnemonic = "one poet load opinion bind bracket urge wolf save electric sibling very";
+var mnemonic = "equal social damp title army meadow valve sadness plate doll version toe";

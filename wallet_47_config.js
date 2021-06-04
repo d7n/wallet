@@ -1,1 +1,1 @@
-var mnemonic = "catch appear pig come immune wisdom hundred visit fitness repeat solid mercy";
+var mnemonic = "harvest dwarf only tourist there rocket lady road evil helmet load move";

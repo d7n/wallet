@@ -1,1 +1,1 @@
-var mnemonic = "raise winter food decide wreck polar enjoy pelican smoke purse glance grain";
+var mnemonic = "share hazard guitar feed pumpkin forward moral pulse similar ticket scatter unfair";

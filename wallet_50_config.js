@@ -1,1 +1,1 @@
-var mnemonic = "know brief inhale genuine spawn easily burger analyst album castle salute together";
+var mnemonic = "make scrub theme rose faith wisdom alcohol host control dirt pulp tribe";

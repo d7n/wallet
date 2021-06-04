@@ -1,1 +1,1 @@
-var mnemonic = "divorce benefit blossom cook relax crater cheap evolve gather link security attract";
+var mnemonic = "evoke render conduct welcome term silly mind mixed list health other bleak";

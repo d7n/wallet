@@ -1,1 +1,1 @@
-var mnemonic = "punch orphan pizza deal twin stay remember flower turtle session bless grain";
+var mnemonic = "crucial much duty finish fashion neutral number issue mammal draw tuition drama";

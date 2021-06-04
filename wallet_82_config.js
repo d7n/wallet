@@ -1,1 +1,1 @@
-var mnemonic = "drip hidden joke found close bachelor season review disagree depth wage frown";
+var mnemonic = "among great core wave husband early talent fork unit cluster shallow rose";

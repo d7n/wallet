@@ -1,1 +1,1 @@
-var mnemonic = "brother heavy vintage reveal deny empower have allow stereo tool wisdom dance";
+var mnemonic = "dash involve raccoon planet hammer frozen area divide test reward reject human";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus honey credit throw renew swim toss moment all embark awake garment";
+var mnemonic = "bamboo various skate nerve number coral spawn mesh super hungry prize sunset";

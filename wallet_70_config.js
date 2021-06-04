@@ -1,1 +1,1 @@
-var mnemonic = "domain velvet stone shy stone fiction unusual can hand vote reform bronze";
+var mnemonic = "educate odor clump lumber rifle dad sunset media alpha daring hover option";

@@ -1,1 +1,1 @@
-var mnemonic = "spin burger able donor gain dash hungry scan august seven second amateur";
+var mnemonic = "orient zoo decline alone orbit tag web soup battle vehicle square melody";

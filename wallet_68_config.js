@@ -1,1 +1,1 @@
-var mnemonic = "trouble expand slush nation moral sugar amazing addict monster attitude oak art";
+var mnemonic = "library spot orchard junk pulp latin dolphin term space caution salon upset";

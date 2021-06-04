@@ -1,1 +1,1 @@
-var mnemonic = "asset mask pink spike culture angle prison bacon wasp street rebel junk";
+var mnemonic = "matter dash genre hollow picnic carry project wing turkey celery rack recall";

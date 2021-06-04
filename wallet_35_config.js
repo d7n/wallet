@@ -1,1 +1,1 @@
-var mnemonic = "entire suggest raven you vicious rude force tip advice east trial note";
+var mnemonic = "pink acoustic cereal steak frame almost become stay material hour buddy all";

@@ -1,1 +1,1 @@
-var mnemonic = "curious lava mass picnic smoke away security axis bike dumb dream rough";
+var mnemonic = "lab coral month april inherit base method cattle tumble fault burger voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "stay fabric shallow tent cram enhance system lift thought ceiling tape fatal";
+var mnemonic = "joy camera apart habit bamboo fly able unusual forest curve vibrant sign";

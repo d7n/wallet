@@ -1,1 +1,1 @@
-var mnemonic = "scrap panther couple radar dinner pond glimpse above attack refuse gown wish";
+var mnemonic = "cherry disease olive nasty dolphin anxiety hill vicious federal debate kite orange";

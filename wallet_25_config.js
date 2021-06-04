@@ -1,1 +1,1 @@
-var mnemonic = "spend blast eye grace rain nature fine orient history truly finish group";
+var mnemonic = "keen warrior average awake attract never fix jungle medal wreck bless payment";

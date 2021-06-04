@@ -1,1 +1,1 @@
-var mnemonic = "number chunk below chalk globe glue legal divorce unknown amount select paddle";
+var mnemonic = "pink deposit uphold whale glad trap armed direct twice rubber analyst south";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze large later exhaust roast tobacco ride stairs minor long drip chronic";
+var mnemonic = "hundred zone judge ridge slam bike amused gadget bless enjoy rug fork";

@@ -1,1 +1,1 @@
-var mnemonic = "decade base pigeon wife fog nut exchange burden slush charge mosquito flower";
+var mnemonic = "move bike relax bind differ penalty next umbrella family lobster finish fatigue";

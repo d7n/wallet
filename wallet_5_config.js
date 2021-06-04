@@ -1,1 +1,1 @@
-var mnemonic = "warrior royal conduct pulse nose camp memory meat govern room advance surface";
+var mnemonic = "renew cattle scrub obey glove hobby example example change bean over gentle";

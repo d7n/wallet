@@ -1,1 +1,1 @@
-var mnemonic = "embrace spend motor indicate mother coyote federal mad advance road weird original";
+var mnemonic = "keen chef lake recycle feel oak garage teach prevent math coconut cricket";

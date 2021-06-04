@@ -1,1 +1,1 @@
-var mnemonic = "enhance abuse then famous become trend crew session genius stand enter meadow";
+var mnemonic = "culture youth drop diet negative end document matrix woman topic picture good";

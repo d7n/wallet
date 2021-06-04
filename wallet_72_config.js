@@ -1,1 +1,1 @@
-var mnemonic = "tape suffer lawsuit venture clip science main sing shine pig isolate average";
+var mnemonic = "endless guard idle stay allow agent grid tag spoil width depend soap";

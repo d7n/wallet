@@ -1,1 +1,1 @@
-var mnemonic = "open sibling exercise tissue citizen web end lesson involve owner shallow obscure";
+var mnemonic = "horn potato general account crush length dinner left satisfy glimpse staff process";

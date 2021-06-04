@@ -1,1 +1,1 @@
-var mnemonic = "prefer broom help chimney seek aim clog tiny attend dress skirt strong";
+var mnemonic = "year reject hazard fragile theory enhance van shrimp sentence heavy outside evil";

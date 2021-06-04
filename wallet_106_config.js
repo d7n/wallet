@@ -1,1 +1,1 @@
-var mnemonic = "ice erase banana marble country glue slice parade swim arctic peace novel";
+var mnemonic = "gospel proud unit angle confirm lemon sand luxury chicken melody dawn dance";

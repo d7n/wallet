@@ -1,1 +1,1 @@
-var mnemonic = "crime nation deer half wealth lyrics adult pyramid crumble submit brick elephant";
+var mnemonic = "very near unhappy alter when ice offer few find express grocery mango";

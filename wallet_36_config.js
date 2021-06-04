@@ -1,1 +1,1 @@
-var mnemonic = "announce vast champion math test hill liquid slogan adapt salon pistol grace";
+var mnemonic = "blade act foam cabbage upon place riot permit settle weather cross labor";

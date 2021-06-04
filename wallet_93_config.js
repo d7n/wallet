@@ -1,1 +1,1 @@
-var mnemonic = "sample exercise myth physical anchor turkey quality candy trophy learn canvas ramp";
+var mnemonic = "across diet laundry doctor magic monster reason client hand juice sunny equip";

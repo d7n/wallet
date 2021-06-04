@@ -1,1 +1,1 @@
-var mnemonic = "suspect bind year eternal broom flee enter dinner victory term mind swing";
+var mnemonic = "flavor hint beef session escape drip diamond olympic undo fatigue across left";

@@ -1,1 +1,1 @@
-var mnemonic = "swear mistake assist crawl goose topic actual rebuild rescue fossil duty health";
+var mnemonic = "found return humble need oxygen fortune cabin another real plastic casual height";

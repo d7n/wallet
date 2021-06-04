@@ -1,1 +1,1 @@
-var mnemonic = "mansion trend aim remember suggest album under update social size abandon spike";
+var mnemonic = "stuff alpha ribbon remember merry pave wolf wheel ostrich right smoke field";

@@ -1,1 +1,1 @@
-var mnemonic = "guard board blur split again ketchup analyst tackle laugh check like sell";
+var mnemonic = "damage warm suggest amount prize area target squirrel useful release globe mimic";

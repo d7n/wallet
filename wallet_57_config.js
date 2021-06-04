@@ -1,1 +1,1 @@
-var mnemonic = "list stand random record boring sign curtain column mad avocado gas slam";
+var mnemonic = "clerk sausage relax develop fun sunny brown benefit inject swim interest elder";

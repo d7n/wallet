@@ -1,1 +1,1 @@
-var mnemonic = "replace goose trumpet aware stable grant bundle kiwi onion wire topple trouble";
+var mnemonic = "october famous boil canyon fog tilt traffic chronic join fat afford else";

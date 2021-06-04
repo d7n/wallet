@@ -1,1 +1,1 @@
-var mnemonic = "absurd addict during click blush always small candy deliver edge trumpet enter";
+var mnemonic = "tribe emotion tent sail wonder century net vehicle diet divert empty enhance";

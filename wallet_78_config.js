@@ -1,1 +1,1 @@
-var mnemonic = "clap liquid awkward idle latin gym figure cage report way pear hill";
+var mnemonic = "champion flip obtain siren mail just similar destroy sing devote abandon depth";

@@ -1,1 +1,1 @@
-var mnemonic = "load luxury august invest sword adapt flush eyebrow brick coin model kit";
+var mnemonic = "add spell science original pudding top slab sugar quick push gold alley";

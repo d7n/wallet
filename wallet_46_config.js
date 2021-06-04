@@ -1,1 +1,1 @@
-var mnemonic = "visit sea afford fortune bronze wear source desert powder citizen unveil diet";
+var mnemonic = "find zone jazz wasp shrug squeeze leg alter humble dad hotel matrix";

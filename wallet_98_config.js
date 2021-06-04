@@ -1,1 +1,1 @@
-var mnemonic = "torch onion scheme defense gentle swallow alert silly limb stable elephant trial";
+var mnemonic = "seminar art message catch dove novel shrimp accident enact short aunt beauty";

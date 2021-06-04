@@ -1,1 +1,1 @@
-var mnemonic = "tiny lemon rebuild truck benefit trust slab waste scatter left staff cigar";
+var mnemonic = "away limb together awkward valid circle jump question rule common parent fresh";

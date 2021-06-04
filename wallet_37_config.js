@@ -1,1 +1,1 @@
-var mnemonic = "census excess tornado large join voyage oblige pizza volume attend pet tribe";
+var mnemonic = "slim luggage course river gravity palace brave heavy tiny hair gas bullet";

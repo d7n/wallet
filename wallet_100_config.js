@@ -1,1 +1,1 @@
-var mnemonic = "nice slot define twin knife differ select patch inch ozone project rely";
+var mnemonic = "shift core doctor nature census chicken large promote tone sunny easy jelly";

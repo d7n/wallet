@@ -1,1 +1,1 @@
-var mnemonic = "then often viable cancel bag sample library math nothing must bulb glove";
+var mnemonic = "lucky swap gentle avoid cave ozone rib grab renew toward deliver skate";

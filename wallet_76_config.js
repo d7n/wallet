@@ -1,1 +1,1 @@
-var mnemonic = "sorry nature baby there only slow eyebrow else path grass unlock kingdom";
+var mnemonic = "lamp usage build essence engine degree under assume broken acquire put race";

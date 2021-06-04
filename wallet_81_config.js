@@ -1,1 +1,1 @@
-var mnemonic = "scene ignore current parent mind review tortoise kind boss thank tuition leg";
+var mnemonic = "typical sort buffalo quality kit dismiss logic lounge juice analyst city clump";

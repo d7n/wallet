@@ -1,1 +1,1 @@
-var mnemonic = "oxygen depth globe battle vacuum actress pact apology inmate fluid obtain tool";
+var mnemonic = "bubble gate umbrella stock trust tragic owner bargain wall prosper success manual";

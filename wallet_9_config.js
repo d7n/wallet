@@ -1,1 +1,1 @@
-var mnemonic = "comfort estate beef key electric sail enlist demise ocean retire file tiger";
+var mnemonic = "dust flash seed gentle upgrade crater news taxi among citizen view wrong";

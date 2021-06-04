@@ -1,1 +1,1 @@
-var mnemonic = "input result seed one rebuild tail fire shift shove dove lamp idea";
+var mnemonic = "truth cash topple echo cushion marble dress they sample rebel narrow scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "across item fragile issue test bundle model mandate quit phone hire insect";
+var mnemonic = "enact uncle better tube crawl move cigar tired mail into tube doll";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco bring two collect shy any name patch host kind flag spoil";
+var mnemonic = "pyramid gun swear father double estate truly change board cake cross length";

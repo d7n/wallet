@@ -1,1 +1,1 @@
-var mnemonic = "blouse prefer behind flock noble child math chuckle file where clog response";
+var mnemonic = "dance crumble point target net capital source camp outer carbon build dirt";

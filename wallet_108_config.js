@@ -1,1 +1,1 @@
-var mnemonic = "vault slush rocket sleep again people special outdoor climb plunge almost wedding";
+var mnemonic = "icon sting sure crunch carry enough cushion brick bullet person dynamic fog";

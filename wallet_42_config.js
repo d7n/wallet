@@ -1,1 +1,1 @@
-var mnemonic = "disorder social skate eye fence lumber coral review cement firm lens squirrel";
+var mnemonic = "sand name kangaroo ten march fuel front hero copper curtain canyon jacket";
