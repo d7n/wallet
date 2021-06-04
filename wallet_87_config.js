@@ -1,1 +1,1 @@
-var mnemonic = "mandate galaxy ancient general valley rug over shove edit seed pepper make";
+var mnemonic = "quote monkey unit tongue ready aware kit tide alpha float pilot index";

@@ -1,1 +1,1 @@
-var mnemonic = "science stage vessel left loyal feature outer client truly suspect actress physical";
+var mnemonic = "call old meat accident badge tooth web rookie bike evil dwarf eyebrow";

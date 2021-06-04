@@ -1,1 +1,1 @@
-var mnemonic = "label keep control embark curious vague once insect attack merge kingdom piece";
+var mnemonic = "season blossom dwarf defense match auction badge desert inmate language account scare";

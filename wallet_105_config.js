@@ -1,1 +1,1 @@
-var mnemonic = "cage small vast pudding hen chalk join sausage blouse sauce color off";
+var mnemonic = "own eager tag misery note flight artwork quantum shop labor key victory";

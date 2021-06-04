@@ -1,1 +1,1 @@
-var mnemonic = "arrest sort option range slice step expand design finish diary cancel mask";
+var mnemonic = "soldier lock clay potato recipe square sorry vintage harvest wheel sample remove";

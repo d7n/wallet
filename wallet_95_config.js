@@ -1,1 +1,1 @@
-var mnemonic = "rookie disagree crush any rely rely render cabin sick enforce size relax";
+var mnemonic = "cricket crop dirt tone valve slender outdoor enact machine prosper sweet token";

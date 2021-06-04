@@ -1,1 +1,1 @@
-var mnemonic = "click eye special seven celery judge debate muscle lock random lottery rotate";
+var mnemonic = "coral upgrade february absurd venture ahead indoor glory cage inch ten mercy";

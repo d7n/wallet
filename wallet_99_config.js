@@ -1,1 +1,1 @@
-var mnemonic = "south differ winter milk hello siren among flower engage abuse company increase";
+var mnemonic = "subject foam foam allow tape cave lava weird today capital hint sick";

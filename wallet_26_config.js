@@ -1,1 +1,1 @@
-var mnemonic = "slice exile net machine green music crucial crazy firm deliver outer bounce";
+var mnemonic = "alcohol grass lava quick uncover any prison cute huge increase wait friend";

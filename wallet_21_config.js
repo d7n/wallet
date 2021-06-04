@@ -1,1 +1,1 @@
-var mnemonic = "wood fury budget useless receive indicate erupt eyebrow spot wide brief quit";
+var mnemonic = "veteran tape relax huge spoil cube yard toward paper audit brother math";

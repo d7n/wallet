@@ -1,1 +1,1 @@
-var mnemonic = "cry beauty deer stove more clip shaft engage small double life alert";
+var mnemonic = "clip flash sheriff tent gentle dizzy face supply priority polar welcome wise";

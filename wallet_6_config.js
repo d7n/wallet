@@ -1,1 +1,1 @@
-var mnemonic = "inquiry must drum worth winter inmate soap upper funny athlete slush walnut";
+var mnemonic = "add carpet toss divide measure notice board prosper news cloth gesture kind";

@@ -1,1 +1,1 @@
-var mnemonic = "endless insane awake regular brick day fossil jeans lyrics polar happy coast";
+var mnemonic = "scorpion sister dirt galaxy tape innocent ridge surface valve plate glide excuse";

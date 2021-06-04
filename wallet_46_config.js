@@ -1,1 +1,1 @@
-var mnemonic = "use cruise mom brief truck gadget evil merit critic sunny intact define";
+var mnemonic = "trophy final north injury exhaust ticket glad present omit appear soon vessel";

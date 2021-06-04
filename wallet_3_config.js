@@ -1,1 +1,1 @@
-var mnemonic = "rally genuine nuclear ankle audit dragon grit window unhappy parent remember walk";
+var mnemonic = "short discover elegant snap treat swift purity heavy disagree expose artist scale";

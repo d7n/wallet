@@ -1,1 +1,1 @@
-var mnemonic = "parent wood spike pink museum today still crystal photo custom clean globe";
+var mnemonic = "announce test pattern picture network catalog fantasy blue divert tissue enforce change";

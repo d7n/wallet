@@ -1,1 +1,1 @@
-var mnemonic = "warfare concert judge ugly slice panda toddler maximum earn shoulder notable innocent";
+var mnemonic = "chief doll merit once seek fitness nest garment small pyramid close track";

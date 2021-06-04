@@ -1,1 +1,1 @@
-var mnemonic = "bar quarter slide match tank follow minute rain flag cabin smooth nose";
+var mnemonic = "garlic ugly breeze alert pudding cable need quote race machine poem water";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge gun job sort picnic enrich olive catch cotton elevator betray faint";
+var mnemonic = "visa stock tackle gadget object attitude south exist dragon resemble divorce merit";

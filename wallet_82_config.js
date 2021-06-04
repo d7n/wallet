@@ -1,1 +1,1 @@
-var mnemonic = "assist actual mystery armor dynamic vacuum rely breeze brick fringe sound burger";
+var mnemonic = "buzz can strong visit palm cigar legend company edit upon crazy coconut";

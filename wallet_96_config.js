@@ -1,1 +1,1 @@
-var mnemonic = "share sorry game essay copy search warfare curious butter aunt attract pole";
+var mnemonic = "level buyer vacuum beyond nature april adjust frown diary violin fog runway";

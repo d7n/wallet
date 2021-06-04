@@ -1,1 +1,1 @@
-var mnemonic = "movie fan accuse hold zebra bid rose venue rebuild journey mutual tongue";
+var mnemonic = "curve river zero token flame you ill kangaroo inject cousin wood beauty";

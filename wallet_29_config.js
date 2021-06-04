@@ -1,1 +1,1 @@
-var mnemonic = "desk rate sense wheat differ forum collect absorb enact there corn rotate";
+var mnemonic = "leaf october creek return address cargo bicycle road salon zone salmon corn";

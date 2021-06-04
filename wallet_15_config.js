@@ -1,1 +1,1 @@
-var mnemonic = "cabin kidney battle garden predict hungry weekend cotton enemy usage body apple";
+var mnemonic = "nothing motion useless school floor border fade power athlete inmate civil true";

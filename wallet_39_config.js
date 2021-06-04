@@ -1,1 +1,1 @@
-var mnemonic = "birth obvious shove weekend glimpse weird spread fit step small suffer judge";
+var mnemonic = "brief silver deal wisdom exist patch tool bring like oak borrow year";

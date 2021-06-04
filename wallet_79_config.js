@@ -1,1 +1,1 @@
-var mnemonic = "palace faculty aisle couch bounce nuclear invest today august glow cruise gift";
+var mnemonic = "cycle head gap spoil category sweet piano unaware innocent close drastic kid";

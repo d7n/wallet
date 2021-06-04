@@ -1,1 +1,1 @@
-var mnemonic = "worth fancy month dilemma tell wine cash arrest gaze reopen assume impulse";
+var mnemonic = "fade law barely original spy stamp trigger clarify enlist transfer horn toilet";

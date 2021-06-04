@@ -1,1 +1,1 @@
-var mnemonic = "view clay spread garbage suspect garbage arena biology bench tissue curtain floor";
+var mnemonic = "air dolphin salmon fork begin label bulb blush endorse wreck two music";

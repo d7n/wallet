@@ -1,1 +1,1 @@
-var mnemonic = "space onion ripple observe cancel current leopard omit wreck wine private winner";
+var mnemonic = "security lazy armed scout genius fortune humor nature vibrant bargain start hip";

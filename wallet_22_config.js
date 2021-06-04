@@ -1,1 +1,1 @@
-var mnemonic = "figure accuse usual napkin tumble depart time side south one birth thumb";
+var mnemonic = "assume collect mansion oppose problem uncover conduct boss immune situate bench theme";

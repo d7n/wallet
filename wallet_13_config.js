@@ -1,1 +1,1 @@
-var mnemonic = "egg elevator sample steak onion advice shop donor topic emotion narrow occur";
+var mnemonic = "provide wheel panel jar asthma oil shed cable drama car open symptom";

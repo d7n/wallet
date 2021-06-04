@@ -1,1 +1,1 @@
-var mnemonic = "poet bread okay unhappy suit journey wine throw endless balcony galaxy emerge";
+var mnemonic = "vast shaft bullet order oppose elder nice shrimp metal fluid dress grain";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward wolf venture lyrics swallow sight exclude danger profit honey slam about";
+var mnemonic = "dwarf fringe front rude soccer cake gadget maximum talk away december inmate";

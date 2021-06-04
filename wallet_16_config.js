@@ -1,1 +1,1 @@
-var mnemonic = "snake radar mention phrase square you asthma mammal weather insane race inflict";
+var mnemonic = "solar sentence scale walnut grass expire imitate upgrade sniff awkward legend lawn";

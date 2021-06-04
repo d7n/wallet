@@ -1,1 +1,1 @@
-var mnemonic = "text morning stairs dragon pumpkin lawsuit arch cradle turn include easy network";
+var mnemonic = "crouch twice rally enrich travel wrap boring inmate kidney quit undo address";

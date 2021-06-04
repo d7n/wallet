@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tired aim extra female vote one excuse budget loud guess believe";
+var mnemonic = "exclude near usage throw matter rescue virtual poverty name already noise achieve";

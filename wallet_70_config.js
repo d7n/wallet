@@ -1,1 +1,1 @@
-var mnemonic = "lend slice stone corn bargain bag way leader plug spawn keep general";
+var mnemonic = "gadget isolate shield exist manage goat message vault finish fork attitude teach";

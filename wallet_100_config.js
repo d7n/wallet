@@ -1,1 +1,1 @@
-var mnemonic = "wage fly wrestle chronic system kid science reduce tissue jeans coast kingdom";
+var mnemonic = "bubble run blush video industry assist crawl today wild clock maple shiver";

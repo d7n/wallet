@@ -1,1 +1,1 @@
-var mnemonic = "sorry element man report ivory post rebel old engage process violin broccoli";
+var mnemonic = "industry until refuse alter elder food clinic stadium option swear give improve";

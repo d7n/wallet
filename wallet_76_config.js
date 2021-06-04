@@ -1,1 +1,1 @@
-var mnemonic = "salmon floor real way differ arch build grab season access trim stomach";
+var mnemonic = "pole dune swift legal stomach engine mammal wave raven siren era suffer";

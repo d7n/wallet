@@ -1,1 +1,1 @@
-var mnemonic = "dish fee conduct give pool business appear eagle another fabric kitchen wine";
+var mnemonic = "muscle scout stock unfair loan orange lesson trick seat earn pizza turkey";

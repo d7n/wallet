@@ -1,1 +1,1 @@
-var mnemonic = "modify kiss sound language ship easily cloud gift under marriage caught start";
+var mnemonic = "eyebrow scissors vote strike hood sing catalog buddy horror rug bid recipe";

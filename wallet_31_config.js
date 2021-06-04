@@ -1,1 +1,1 @@
-var mnemonic = "skirt will match harbor okay fossil life link ring network bamboo federal";
+var mnemonic = "quit giraffe quote unveil danger sense tomato slogan sentence degree busy eight";

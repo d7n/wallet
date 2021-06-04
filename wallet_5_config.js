@@ -1,1 +1,1 @@
-var mnemonic = "type begin inside shrimp police milk arena stereo faith orchard seat mirror";
+var mnemonic = "sense swim photo claim exist umbrella game nephew file output cage flash";

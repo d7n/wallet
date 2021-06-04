@@ -1,1 +1,1 @@
-var mnemonic = "region differ milk unknown coyote liar bleak clever hard dial course reflect";
+var mnemonic = "rail sauce make crucial rely sure trim cash notice rail found firm";

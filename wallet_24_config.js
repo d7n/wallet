@@ -1,1 +1,1 @@
-var mnemonic = "toilet observe nest giggle arrest runway blur supply mercy poem poem clever";
+var mnemonic = "toe paper horse disorder rifle auto mention zone memory apology jungle trigger";

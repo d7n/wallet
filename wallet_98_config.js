@@ -1,1 +1,1 @@
-var mnemonic = "alien scale crawl iron glue unfair mother ginger robot expand struggle verify";
+var mnemonic = "dizzy canvas busy evil impulse spare sweet sister cage custom success blood";

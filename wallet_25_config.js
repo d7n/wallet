@@ -1,1 +1,1 @@
-var mnemonic = "bitter warm absent legend flavor click cheap frost coast response element dad";
+var mnemonic = "model assume current lobster obscure combine rice fire frame trap lend sun";

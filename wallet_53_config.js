@@ -1,1 +1,1 @@
-var mnemonic = "divert gate twelve shrug front maximum found cancel below critic tackle club";
+var mnemonic = "evidence okay vehicle magnet name slow ketchup palm cause primary badge pelican";

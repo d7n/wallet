@@ -1,1 +1,1 @@
-var mnemonic = "unknown license emerge hour click leisure magic expect march pipe helmet dove";
+var mnemonic = "couch anchor boring actor install similar owner dress arena hood grocery bring";

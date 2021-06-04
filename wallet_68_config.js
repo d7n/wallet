@@ -1,1 +1,1 @@
-var mnemonic = "clock thumb credit paddle build rotate fold midnight scan tobacco toward cheese";
+var mnemonic = "bonus adjust acquire laundry oxygen artwork universe gorilla tank alien truck raven";

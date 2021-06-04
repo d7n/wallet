@@ -1,1 +1,1 @@
-var mnemonic = "current mixed discover mandate april border near dolphin skull fee emerge access";
+var mnemonic = "attitude cradle uncle security puzzle abandon churn friend stadium profit say excuse";

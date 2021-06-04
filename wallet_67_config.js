@@ -1,1 +1,1 @@
-var mnemonic = "symptom quick economy brown typical badge fatigue quick air series laugh thrive";
+var mnemonic = "injury ladder behind dune become title inquiry near elevator bid help rebel";

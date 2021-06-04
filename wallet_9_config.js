@@ -1,1 +1,1 @@
-var mnemonic = "traffic fluid regular short diamond nasty discover debris essay dash spare bar";
+var mnemonic = "broccoli nominee country carpet such various float about amused impulse guess manage";

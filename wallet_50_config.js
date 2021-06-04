@@ -1,1 +1,1 @@
-var mnemonic = "poem dizzy shiver setup pepper token embody exercise art leopard rookie property";
+var mnemonic = "evolve smile child time rice damp tobacco feed demise wall volume pond";

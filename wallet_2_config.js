@@ -1,1 +1,1 @@
-var mnemonic = "fiscal since crime mesh filter scene farm ugly lobster panther bid grace";
+var mnemonic = "balcony discover cream romance group bargain knock edge nothing creek abuse quality";

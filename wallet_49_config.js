@@ -1,1 +1,1 @@
-var mnemonic = "stove crumble voyage worth maze poet train improve various fatal useless fan";
+var mnemonic = "cup guess clinic firm bronze cradle used girl oil skull battle state";

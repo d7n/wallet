@@ -1,1 +1,1 @@
-var mnemonic = "autumn output such play high train hat renew blanket hawk festival galaxy";
+var mnemonic = "advance heavy join other abstract list exist wait fetch rent that garlic";

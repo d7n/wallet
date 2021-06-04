@@ -1,1 +1,1 @@
-var mnemonic = "situate lift autumn duty fatigue goddess phone garage act fit discover update";
+var mnemonic = "barrel tortoise believe carpet route east giraffe engage disease zoo brave page";

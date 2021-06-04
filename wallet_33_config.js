@@ -1,1 +1,1 @@
-var mnemonic = "category police flip bottom bridge steel meadow often danger copper roast drip";
+var mnemonic = "ring mean excuse end theory inner region run crisp powder dwarf monster";

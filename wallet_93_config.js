@@ -1,1 +1,1 @@
-var mnemonic = "curtain cool acquire crouch solution friend awake flavor donate stereo input home";
+var mnemonic = "normal crumble remind tide argue adjust allow agree oblige expose coyote sponsor";

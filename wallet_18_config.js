@@ -1,1 +1,1 @@
-var mnemonic = "caution unable foot coin pink erosion silly symbol prosper dizzy kangaroo hurdle";
+var mnemonic = "food involve aerobic clean into better horn hurry taste scissors genius end";

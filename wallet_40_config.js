@@ -1,1 +1,1 @@
-var mnemonic = "bottom guide afraid pear endless kiss occur potato goat moment label fog";
+var mnemonic = "announce kitten judge stand romance occur portion chest walnut favorite insane day";

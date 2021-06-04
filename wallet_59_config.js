@@ -1,1 +1,1 @@
-var mnemonic = "purse crowd order gym fiber rough obey man rich earth chase measure";
+var mnemonic = "share despair orbit demand shallow kid aim scan orphan practice armed jacket";

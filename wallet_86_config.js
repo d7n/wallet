@@ -1,1 +1,1 @@
-var mnemonic = "shaft wait anger empower alien summer record price slim color dish anger";
+var mnemonic = "luxury open flame topple erase uncover frost report cupboard dignity awkward vapor";

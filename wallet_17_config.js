@@ -1,1 +1,1 @@
-var mnemonic = "grab artefact shield kitten scare ostrich inflict person wife trouble merry shadow";
+var mnemonic = "damage rural kite coral velvet brush leaf upgrade abandon decorate pipe hub";

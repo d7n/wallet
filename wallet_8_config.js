@@ -1,1 +1,1 @@
-var mnemonic = "turtle soccer injury nasty measure foil grab travel ride hurt inject grace";
+var mnemonic = "firm cry street toy asset sausage radio essay north empty token grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe purchase pudding monitor bread december spider lunch travel exclude envelope tower";
+var mnemonic = "gallery venue cute camp talent rabbit flock alone that episode vault celery";

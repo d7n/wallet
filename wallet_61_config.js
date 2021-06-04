@@ -1,1 +1,1 @@
-var mnemonic = "lecture hello left drill jewel spoon knock indicate donkey ribbon skill sustain";
+var mnemonic = "blouse become tiger cinnamon jealous brisk vocal kite next code brick shoot";

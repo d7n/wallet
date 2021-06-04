@@ -1,1 +1,1 @@
-var mnemonic = "way hammer mistake comic discover will atom twice again ethics clever pepper";
+var mnemonic = "misery embark olympic judge brass angle virus build tilt dinosaur move proof";

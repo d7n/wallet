@@ -1,1 +1,1 @@
-var mnemonic = "wheat coffee few bracket north around comfort play rival leaf add trophy";
+var mnemonic = "imitate unit diagram property usual crush advice body motion mask run measure";

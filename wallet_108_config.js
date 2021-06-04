@@ -1,1 +1,1 @@
-var mnemonic = "pony soccer sustain spin group artwork empower cushion useless only fashion decrease";
+var mnemonic = "appear poet gospel sadness word gain flush trouble share into grief drift";

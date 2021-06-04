@@ -1,1 +1,1 @@
-var mnemonic = "picnic grocery combine volume coral logic north family kitten brass armor book";
+var mnemonic = "invest fan you bright sister soon electric car metal ignore material squirrel";

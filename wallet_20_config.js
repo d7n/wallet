@@ -1,1 +1,1 @@
-var mnemonic = "exile grief cruel obtain return erosion illegal monkey doll avocado hard world";
+var mnemonic = "axis tongue large earth ketchup major cushion sand junk awkward vast shrimp";

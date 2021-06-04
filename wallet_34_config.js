@@ -1,1 +1,1 @@
-var mnemonic = "direct nominee shell sugar ill can rotate exchange enough property mother project";
+var mnemonic = "arrive strong punch car rotate original crane antenna hour destroy twin ridge";

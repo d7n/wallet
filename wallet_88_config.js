@@ -1,1 +1,1 @@
-var mnemonic = "cotton violin old method corn fish record repeat stone cattle chalk mother";
+var mnemonic = "region long dirt wine isolate panic novel ocean chief panda bean jeans";

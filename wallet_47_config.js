@@ -1,1 +1,1 @@
-var mnemonic = "trick album conduct giant wrong icon pipe smoke face guitar vague hard";
+var mnemonic = "merge fix guard marble sunny bullet stumble cricket guide social canal document";

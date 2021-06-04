@@ -1,1 +1,1 @@
-var mnemonic = "route urban quiz recall subway grain prison gloom day velvet example scissors";
+var mnemonic = "response employ obscure hotel machine comfort payment cage mountain sport cupboard animal";

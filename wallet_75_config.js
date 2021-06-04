@@ -1,1 +1,1 @@
-var mnemonic = "woman saddle correct waste leader extra call all wash crush reflect list";
+var mnemonic = "author air find avocado galaxy captain click chronic try light cloud goat";

@@ -1,1 +1,1 @@
-var mnemonic = "blur fun auto fall hungry exchange auto merge useless cash clog fold";
+var mnemonic = "desk kangaroo ramp imitate swamp defy quantum butter miracle verify puppy unique";

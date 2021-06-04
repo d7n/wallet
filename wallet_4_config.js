@@ -1,1 +1,1 @@
-var mnemonic = "silk enlist kiss daughter debate creek eyebrow net caught drive couch nose";
+var mnemonic = "noise icon shy maximum follow amount soap hero chair divide valve zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "wage maximum moon original type lecture craft impact pelican disagree trial response";
+var mnemonic = "visa prize again desk slender essence book arrange beauty still comfort brief";

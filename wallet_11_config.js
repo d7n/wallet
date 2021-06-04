@@ -1,1 +1,1 @@
-var mnemonic = "convince iron demise glare story real duty envelope pact come ketchup feel";
+var mnemonic = "horror thrive series embody auto ship approve can gospel flame nephew maze";
