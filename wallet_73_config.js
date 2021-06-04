@@ -1,1 +1,1 @@
-var mnemonic = "jungle cause control feed fashion rural phrase own gasp position profit regular";
+var mnemonic = "lava gauge spare raven elegant rifle antenna obtain because urban tag car";

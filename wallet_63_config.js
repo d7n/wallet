@@ -1,1 +1,1 @@
-var mnemonic = "sock ready damp tonight large sorry pattern mercy left sustain frequent door";
+var mnemonic = "casual gallery rebuild minute robust region job flock shadow toy minute protect";

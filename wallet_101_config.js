@@ -1,1 +1,1 @@
-var mnemonic = "regular loud ritual mesh section dismiss remain alpha regret nuclear they upon";
+var mnemonic = "body since immune oppose erase royal true cage thrive staff acid small";

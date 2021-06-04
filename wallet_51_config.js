@@ -1,1 +1,1 @@
-var mnemonic = "shock custom gossip deer artefact blush word rigid math lobster visit fat";
+var mnemonic = "fat before material ordinary symbol banner chalk timber cook version filter height";

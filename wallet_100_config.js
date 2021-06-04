@@ -1,1 +1,1 @@
-var mnemonic = "all world theme top detect surge apart horn edge bachelor hole rookie";
+var mnemonic = "spread cream cart ethics congress ride hover tomorrow never stock also typical";

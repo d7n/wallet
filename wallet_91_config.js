@@ -1,1 +1,1 @@
-var mnemonic = "budget invite practice mother valid auction tired clever gown spare midnight chest";
+var mnemonic = "vicious gaze mercy sketch convince disorder cattle decade cross stumble crew unique";

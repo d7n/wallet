@@ -1,1 +1,1 @@
-var mnemonic = "cute stand bracket smart clarify staff mechanic slim alley reform vintage half";
+var mnemonic = "settle lecture you embark hollow exact leader club check talent perfect kingdom";

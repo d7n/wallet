@@ -1,1 +1,1 @@
-var mnemonic = "honey unfold hamster regret thought ethics donate canal provide donor later powder";
+var mnemonic = "jelly exile sugar piano fantasy peace cheese trumpet eye kitchen reject check";

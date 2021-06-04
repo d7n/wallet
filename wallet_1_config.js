@@ -1,1 +1,1 @@
-var mnemonic = "creek amazing derive figure mesh intact fabric envelope leisure undo someone major";
+var mnemonic = "alarm whip electric predict tag glove chair direct phone cook popular size";

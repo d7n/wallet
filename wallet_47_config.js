@@ -1,1 +1,1 @@
-var mnemonic = "service ignore off chief cram upset era believe yellow session path kitten";
+var mnemonic = "float patrol famous lottery vacant toss notable puzzle hedgehog drip dinosaur enable";

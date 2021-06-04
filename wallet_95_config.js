@@ -1,1 +1,1 @@
-var mnemonic = "save globe cart easy quick ladder collect claw left letter pride feature";
+var mnemonic = "favorite siren scan fresh worth renew mixed order chase pull giant fork";

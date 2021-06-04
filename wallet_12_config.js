@@ -1,1 +1,1 @@
-var mnemonic = "have suggest obtain vast someone cram ceiling scrub answer few globe accident";
+var mnemonic = "play okay team need neglect boss energy net art power poet twelve";

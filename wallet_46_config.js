@@ -1,1 +1,1 @@
-var mnemonic = "dutch such library aisle unfold reduce twelve dream puppy humor carbon check";
+var mnemonic = "regret mix author toss unaware about artwork media adapt crash service panic";

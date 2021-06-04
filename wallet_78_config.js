@@ -1,1 +1,1 @@
-var mnemonic = "verify boil auto earth together pluck spell bubble belt latin tube define";
+var mnemonic = "luxury smooth border flock better again close novel group music betray force";

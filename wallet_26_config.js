@@ -1,1 +1,1 @@
-var mnemonic = "capable invite nut august ticket infant loop various address mad sort bring";
+var mnemonic = "security result hover maid pitch senior float blur elephant need apart bleak";

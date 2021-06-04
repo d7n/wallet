@@ -1,1 +1,1 @@
-var mnemonic = "name loop waste fit grace royal any barrel what lecture clock diary";
+var mnemonic = "trick annual youth holiday december opera parent cheese bronze corn bicycle proof";

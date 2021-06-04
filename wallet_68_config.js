@@ -1,1 +1,1 @@
-var mnemonic = "crew chalk label nose occur zoo actor museum snow rookie witness powder";
+var mnemonic = "job scan release mom wise any soul senior biology include output reject";

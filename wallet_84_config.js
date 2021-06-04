@@ -1,1 +1,1 @@
-var mnemonic = "chimney include sausage rare pause plastic venue derive require wise moon arctic";
+var mnemonic = "expand sea sad ready happy raw embark play grunt brass high wide";

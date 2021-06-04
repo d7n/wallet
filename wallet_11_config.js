@@ -1,1 +1,1 @@
-var mnemonic = "cereal embody speak opinion gift draw omit appear differ waste about tribe";
+var mnemonic = "faint amount goat assault drop warrior vintage bronze february guess thank notice";

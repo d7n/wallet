@@ -1,1 +1,1 @@
-var mnemonic = "danger tree ozone above feed chicken human auto cricket fault laptop slow";
+var mnemonic = "sister sunset pizza ridge trophy electric confirm defense spice mention drift danger";

@@ -1,1 +1,1 @@
-var mnemonic = "shell version monitor jelly medal main peasant click satisfy upgrade option hidden";
+var mnemonic = "junior castle category bind carbon girl thumb empower real utility ring glance";

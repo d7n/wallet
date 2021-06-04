@@ -1,1 +1,1 @@
-var mnemonic = "crack unfair immune stage congress grunt print lyrics poverty adjust tower exit";
+var mnemonic = "unit habit salmon goat awesome topple crazy wear wheat letter uniform length";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot salute sound expand demand version cinnamon control cycle focus lucky cart";
+var mnemonic = "mom nominee piano snow found unit alpha bonus walnut bundle city orient";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip client insect enforce search loyal hair globe point fox frozen clap";
+var mnemonic = "junior silent avocado differ include letter economy soup private flame fat acid";

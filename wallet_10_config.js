@@ -1,1 +1,1 @@
-var mnemonic = "number expose reward farm fat shove update flight educate ladder funny distance";
+var mnemonic = "weapon poverty damp mosquito foil plug purpose senior sunny merry brand nest";

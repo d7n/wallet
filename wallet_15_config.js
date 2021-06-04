@@ -1,1 +1,1 @@
-var mnemonic = "room garage entry sure holiday amount valley diesel flag like safe render";
+var mnemonic = "omit when fetch castle grass story hurry twenty duck bus observe rookie";

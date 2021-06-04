@@ -1,1 +1,1 @@
-var mnemonic = "mammal comic whip obvious into potato renew close fold arrest ladder shoot";
+var mnemonic = "truth myth office ritual child bird short response goose lion unlock supply";

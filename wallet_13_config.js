@@ -1,1 +1,1 @@
-var mnemonic = "large hover garden jazz squeeze dog cattle volcano federal champion normal party";
+var mnemonic = "patrol version thrive million warrior width happy voyage decline lizard scrap wagon";

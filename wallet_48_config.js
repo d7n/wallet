@@ -1,1 +1,1 @@
-var mnemonic = "reason winner escape card rib moon symbol engage hint fruit cushion tank";
+var mnemonic = "post cruel uniform marine nuclear arena width sponsor paddle frame laugh half";

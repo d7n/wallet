@@ -1,1 +1,1 @@
-var mnemonic = "alter worth plunge burden odor suffer tower become size visa behind once";
+var mnemonic = "ethics vicious cause since resemble tunnel dutch useless enforce clock web act";

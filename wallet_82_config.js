@@ -1,1 +1,1 @@
-var mnemonic = "unveil vacant figure once peace tongue process animal reject onion volume novel";
+var mnemonic = "cycle finger enforce peasant assist aware mango agent metal bird prefer awful";

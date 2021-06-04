@@ -1,1 +1,1 @@
-var mnemonic = "flee wear drum lyrics drop matrix length limb hood win shock clinic";
+var mnemonic = "economy theory someone choose guitar horse rich purse awful vessel major finish";

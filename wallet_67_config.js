@@ -1,1 +1,1 @@
-var mnemonic = "boat isolate faculty reform spawn limit glide screen box excite love egg";
+var mnemonic = "radio motor vibrant margin movie glory choice move hood dust crazy foil";

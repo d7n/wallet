@@ -1,1 +1,1 @@
-var mnemonic = "tenant expand census garbage shop idea scorpion say balcony sun rifle dilemma";
+var mnemonic = "hobby fuel hand aerobic noble shuffle coyote thumb search improve strategy puzzle";

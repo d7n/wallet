@@ -1,1 +1,1 @@
-var mnemonic = "load small obscure gun behave level seed seat agree fiscal hope team";
+var mnemonic = "entry furnace derive field loud gown artefact gravity silent trend owner unaware";

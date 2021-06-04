@@ -1,1 +1,1 @@
-var mnemonic = "filter minor siren fault carbon patrol loyal engage include because venture piano";
+var mnemonic = "dial sudden decade trick level elder void candy repeat never document inch";

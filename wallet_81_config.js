@@ -1,1 +1,1 @@
-var mnemonic = "cabbage such movie dice pretty appear buddy program guilt drive kick input";
+var mnemonic = "text fat echo act home material talent cotton village harsh coin amazing";

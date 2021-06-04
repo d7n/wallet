@@ -1,1 +1,1 @@
-var mnemonic = "equip drama lazy science slow phone figure fold movie arch legal must";
+var mnemonic = "pledge village brush torch you miss spare announce cereal carry cruel thrive";

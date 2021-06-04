@@ -1,1 +1,1 @@
-var mnemonic = "noodle shift reflect arch shoulder illegal noble steak omit nothing still horror";
+var mnemonic = "vast edit arrange earn say truck boil wise sell distance helmet monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic start pyramid animal bounce pulse legend easily flower auto angry category";
+var mnemonic = "school middle weasel story thrive ordinary hill interest mutual episode mango outdoor";

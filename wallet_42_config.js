@@ -1,1 +1,1 @@
-var mnemonic = "absorb fresh nest deposit blade exclude dry hen pitch crew diagram robot";
+var mnemonic = "truly shuffle evidence fury fragile debate runway pear funny film fetch celery";

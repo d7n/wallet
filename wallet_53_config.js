@@ -1,1 +1,1 @@
-var mnemonic = "talent trend boy valley social team defy crowd main sustain liar rifle";
+var mnemonic = "jewel document whisper armed cage wire olympic raise olympic motor crunch delay";

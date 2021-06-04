@@ -1,1 +1,1 @@
-var mnemonic = "smoke recycle mechanic analyst nose balance cheap cereal wife elevator goose cabin";
+var mnemonic = "man retire cute floor special trust minimum snack trip hello surround deliver";

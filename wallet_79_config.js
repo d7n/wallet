@@ -1,1 +1,1 @@
-var mnemonic = "wash neutral evidence correct conduct unknown attend casual salon actor hawk better";
+var mnemonic = "clinic muscle box diagram baby emerge chief enter near route sauce case";

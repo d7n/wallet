@@ -1,1 +1,1 @@
-var mnemonic = "payment thought chuckle stairs damage nation taste exact picnic matter intact forum";
+var mnemonic = "recycle gesture antique sea connect furnace ginger genre field share size april";

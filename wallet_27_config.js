@@ -1,1 +1,1 @@
-var mnemonic = "rather liberty jar buddy arena toy decorate tired salmon guard forest mistake";
+var mnemonic = "aspect trap shallow sugar general siren advice appear truck rebuild among stereo";

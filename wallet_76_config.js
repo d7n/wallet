@@ -1,1 +1,1 @@
-var mnemonic = "resource awake initial fiscal curtain antique usage account damp survey truck arrow";
+var mnemonic = "marble cruise trap whip drip humble scrub element bridge frog tuition year";

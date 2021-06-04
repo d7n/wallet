@@ -1,1 +1,1 @@
-var mnemonic = "inform parade panther unveil young filter picture sample gold scorpion envelope thunder";
+var mnemonic = "escape relax river biology table grant setup vital they vague pear interest";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise prefer jelly half define mosquito music stock clean bleak cluster gather";
+var mnemonic = "choose famous deliver tray silent exclude actual they unknown diet inmate erode";

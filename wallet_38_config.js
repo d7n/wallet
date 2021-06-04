@@ -1,1 +1,1 @@
-var mnemonic = "once weekend tide inherit orbit assist film loan harvest budget side crystal";
+var mnemonic = "choose breeze actor call donor modify canvas rather skull pole core expire";

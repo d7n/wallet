@@ -1,1 +1,1 @@
-var mnemonic = "valley verify ship bachelor obvious sister early arctic congress correct actress earth";
+var mnemonic = "apple issue spatial column enact skull also elevator caution exile police very";

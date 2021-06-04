@@ -1,1 +1,1 @@
-var mnemonic = "claim radio easy cause exhaust where easily lava amount gospel obvious bubble";
+var mnemonic = "purchase omit scatter mimic balance comfort drip various glove distance loan amused";

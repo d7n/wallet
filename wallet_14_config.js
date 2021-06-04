@@ -1,1 +1,1 @@
-var mnemonic = "crowd share loyal swap select gossip helmet clinic car pledge police near";
+var mnemonic = "only enemy pen jewel siren record sniff festival volcano midnight pause shallow";

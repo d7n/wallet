@@ -1,1 +1,1 @@
-var mnemonic = "curious poem spell column brown pool young clay army garlic divide embrace";
+var mnemonic = "goddess addict skate obvious message market radar cherry olive amazing citizen plug";

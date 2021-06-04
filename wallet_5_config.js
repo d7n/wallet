@@ -1,1 +1,1 @@
-var mnemonic = "bone hedgehog connect total aerobic indoor pen crater brush miracle expire speed";
+var mnemonic = "knock satoshi globe tired transfer tent skirt system alley income bamboo green";

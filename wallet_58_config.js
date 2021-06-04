@@ -1,1 +1,1 @@
-var mnemonic = "pulp edit sugar unaware dynamic dumb report erase female effort taxi put";
+var mnemonic = "matrix blanket suffer hunt level citizen flower brass observe insect island exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce account step music smooth lecture refuse lunar spawn punch write razor";
+var mnemonic = "wasp able allow doctor indicate jazz south cattle okay glue manual habit";

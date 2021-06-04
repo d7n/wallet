@@ -1,1 +1,1 @@
-var mnemonic = "own promote session other wild gossip wolf offer camera attend patrol wear";
+var mnemonic = "glide ocean appear label cause seek try lecture business core palace finger";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate guess hotel expose someone strong gallery game light west large idea";
+var mnemonic = "coast since view easily hungry inner together glimpse frozen face mesh supreme";

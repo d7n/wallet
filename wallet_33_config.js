@@ -1,1 +1,1 @@
-var mnemonic = "expire post annual image casual coral rather field city sadness ask mail";
+var mnemonic = "magic life online knock fog local across name hub tired unhappy forward";

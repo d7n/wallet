@@ -1,1 +1,1 @@
-var mnemonic = "such frame turn unhappy title essay innocent party arm random loyal heart";
+var mnemonic = "ceiling case group limit text receive current next else analyst hawk fury";

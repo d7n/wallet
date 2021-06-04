@@ -1,1 +1,1 @@
-var mnemonic = "comic uniform catch dentist dish eager damp mansion symbol orient april tone";
+var mnemonic = "trust praise street salmon chef involve sail tilt merge fashion hungry couch";

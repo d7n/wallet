@@ -1,1 +1,1 @@
-var mnemonic = "suggest figure please raise mean leopard able lottery when robust carry bean";
+var mnemonic = "foster hundred lounge stage despair glove toy scrap begin talent brother nasty";

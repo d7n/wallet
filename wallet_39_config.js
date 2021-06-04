@@ -1,1 +1,1 @@
-var mnemonic = "attitude deer bicycle uncle claim conduct radio damp invite toss jar desert";
+var mnemonic = "network escape useless sick federal inquiry wedding chronic hybrid stereo fringe civil";

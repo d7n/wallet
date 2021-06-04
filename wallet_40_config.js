@@ -1,1 +1,1 @@
-var mnemonic = "exist bless bone load action lunch liquid evolve orient initial general arena";
+var mnemonic = "census cute van push cup rather lake news earn shiver valid multiply";

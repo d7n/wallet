@@ -1,1 +1,1 @@
-var mnemonic = "smart anxiety educate near denial inhale ship peanut head cement wave creek";
+var mnemonic = "raven profit current stuff day panic equip one gas disagree invest embody";

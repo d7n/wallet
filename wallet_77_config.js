@@ -1,1 +1,1 @@
-var mnemonic = "spray eagle large this shift place vacuum success duty impose online hybrid";
+var mnemonic = "desk smile return slush soccer orient shoot smooth forward glue bonus employ";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt south surge census detect divide pole robot divert pizza hood crucial";
+var mnemonic = "pair lawsuit banana play match attack release truth praise chapter modify tumble";

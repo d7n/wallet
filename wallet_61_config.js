@@ -1,1 +1,1 @@
-var mnemonic = "squirrel horror funny orphan record snack destroy alley palace palm climb siren";
+var mnemonic = "cost fault battle drill coffee winter garlic timber maple crystal cargo oil";

@@ -1,1 +1,1 @@
-var mnemonic = "steel image body evil divide attack denial runway project rocket output adult";
+var mnemonic = "boss wild legend roast razor property sort aim swamp scorpion crowd ask";

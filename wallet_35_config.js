@@ -1,1 +1,1 @@
-var mnemonic = "cliff calm horse wheat crystal window imitate rich else cruise text garbage";
+var mnemonic = "object treat code tip worry insect bargain use maid explain hobby girl";

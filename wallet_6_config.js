@@ -1,1 +1,1 @@
-var mnemonic = "eye elegant gloom torch tooth siege inquiry ankle fox punch lottery coast";
+var mnemonic = "mushroom scorpion enjoy oxygen catalog virtual army sustain fire twist camera tuition";

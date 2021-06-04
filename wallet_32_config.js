@@ -1,1 +1,1 @@
-var mnemonic = "blossom carbon legend unit useless chimney travel chest tennis sniff noodle prize";
+var mnemonic = "wrist doll bargain leopard just film food art whip power bind estate";

@@ -1,1 +1,1 @@
-var mnemonic = "fade shock report august cart expire visa dad fence rabbit moral atom";
+var mnemonic = "unique myth sauce bleak enemy page seek cheese omit phrase begin curtain";

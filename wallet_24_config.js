@@ -1,1 +1,1 @@
-var mnemonic = "recycle wasp huge envelope rural weapon garage fall best dentist either fold";
+var mnemonic = "real metal few utility differ practice cluster wisdom insane urge deliver hurry";

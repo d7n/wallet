@@ -1,1 +1,1 @@
-var mnemonic = "control detail blossom diagram paper income act sugar trophy corn plunge notice";
+var mnemonic = "push vote pencil gasp tunnel predict squeeze scale celery joke vapor finish";

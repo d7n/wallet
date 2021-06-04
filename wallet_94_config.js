@@ -1,1 +1,1 @@
-var mnemonic = "maze season quiz village web winner apple host away collect receive business";
+var mnemonic = "burst youth pond salad tackle gadget monitor rude trade divide quick axis";

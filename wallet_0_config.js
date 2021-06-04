@@ -1,1 +1,1 @@
-var mnemonic = "unhappy system return bread large crawl fee april angle sell very wagon";
+var mnemonic = "rich suffer jelly aunt oval goat art another dad brain hockey front";

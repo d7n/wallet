@@ -1,1 +1,1 @@
-var mnemonic = "number silly broccoli accuse rookie claim awkward arrange follow allow elbow bottom";
+var mnemonic = "grant member hello tongue help flag gentle excess kiss weapon strike broken";

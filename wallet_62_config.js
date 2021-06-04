@@ -1,1 +1,1 @@
-var mnemonic = "recipe endless harbor rent scissors nominee ridge sting flash lady orbit surprise";
+var mnemonic = "frown aunt box acoustic quantum detect danger method quote endorse laugh fluid";

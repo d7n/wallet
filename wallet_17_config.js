@@ -1,1 +1,1 @@
-var mnemonic = "swing awful liquid hat surround woman deposit maid pig bronze response field";
+var mnemonic = "entry tonight limit morning action ahead gauge dial monitor apple lady spot";

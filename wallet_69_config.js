@@ -1,1 +1,1 @@
-var mnemonic = "dash radar foam nature melody long note twin normal harvest festival brief";
+var mnemonic = "opinion chronic entire chat attract pupil boost unique solid anger window picnic";

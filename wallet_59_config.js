@@ -1,1 +1,1 @@
-var mnemonic = "ugly quantum august fresh trial dog harvest castle stuff adjust inmate pitch";
+var mnemonic = "minute normal bamboo path biology rice laugh confirm swim path noise write";

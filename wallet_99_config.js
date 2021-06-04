@@ -1,1 +1,1 @@
-var mnemonic = "virus bag tide topple absorb knock employ carry bag lava patient night";
+var mnemonic = "leg delay gaze impact divert upon talent effort churn sustain impulse exile";

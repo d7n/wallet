@@ -1,1 +1,1 @@
-var mnemonic = "bird brave era patient weird hotel hundred great grief casual average maze";
+var mnemonic = "rescue code naive ceiling genius chair size rubber scan rebel august connect";

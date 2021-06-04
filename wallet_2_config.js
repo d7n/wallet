@@ -1,1 +1,1 @@
-var mnemonic = "surprise need exact project chapter supply taxi hire endless beef pilot core";
+var mnemonic = "random agree reveal ahead trouble plastic machine like need clarify couple math";

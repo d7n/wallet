@@ -1,1 +1,1 @@
-var mnemonic = "private ceiling amateur cat kite orbit hurdle corn ride prosper material globe";
+var mnemonic = "rail another silent prize rather vehicle proof shop modify page arch gate";

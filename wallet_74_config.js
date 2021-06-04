@@ -1,1 +1,1 @@
-var mnemonic = "casino into apart movie craft wagon coconut harbor cluster stove banner total";
+var mnemonic = "blue normal fancy tragic echo evidence carpet glow cause fog still impact";
