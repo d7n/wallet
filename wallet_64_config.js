@@ -1,1 +1,1 @@
-var mnemonic = "feel bike pact moment whip valve truth dream clock imitate curve lamp";
+var mnemonic = "path rice always ceiling nature buffalo start comfort during void heart usual";

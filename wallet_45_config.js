@@ -1,1 +1,1 @@
-var mnemonic = "cradle pulse toe noble unfair people bleak train cage cluster pet emotion";
+var mnemonic = "also bubble kangaroo borrow engage wall weather dignity whisper alcohol pony machine";

@@ -1,1 +1,1 @@
-var mnemonic = "normal renew regret pill pair measure horror rib silk double knife device";
+var mnemonic = "coffee stamp ranch ship work build kingdom machine present wing kid protect";

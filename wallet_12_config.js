@@ -1,1 +1,1 @@
-var mnemonic = "equal virtual receive early vivid run chicken shallow sudden need crack monkey";
+var mnemonic = "interest inherit negative clip call reject liar amount weird clap buzz citizen";

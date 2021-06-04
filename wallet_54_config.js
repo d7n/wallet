@@ -1,1 +1,1 @@
-var mnemonic = "unveil drive lobster theme route rather miracle lab sign luggage virus sustain";
+var mnemonic = "student soda desk that uphold author stay soda want write tape pyramid";

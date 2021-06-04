@@ -1,1 +1,1 @@
-var mnemonic = "north chicken cereal click adapt reveal busy scheme account vote mutual behind";
+var mnemonic = "affair stairs jump vote recycle vague agent fence father fall under begin";

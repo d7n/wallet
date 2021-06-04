@@ -1,1 +1,1 @@
-var mnemonic = "multiply double cereal prevent crazy trouble unfair stand boat hospital fruit follow";
+var mnemonic = "tape force trick tooth exact express pause fun you immense rough mushroom";

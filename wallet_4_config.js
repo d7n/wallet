@@ -1,1 +1,1 @@
-var mnemonic = "vivid spike love soldier cheese room early seminar vintage two salon dumb";
+var mnemonic = "spell moment excuse peasant cause predict shield ugly camp vacant equip shed";

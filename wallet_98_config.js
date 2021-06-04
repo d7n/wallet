@@ -1,1 +1,1 @@
-var mnemonic = "dwarf turtle civil language energy envelope machine shock answer hunt absent direct";
+var mnemonic = "flock loop smooth noise clinic purpose diesel easy trade churn enlist pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic runway trumpet eight skate virtual outer interest pulp farm glance across";
+var mnemonic = "wood reject dentist uphold daring engine hospital obvious token audit govern clarify";

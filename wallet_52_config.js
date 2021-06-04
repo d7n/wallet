@@ -1,1 +1,1 @@
-var mnemonic = "term topple reunion medal knock size noise myth harsh climb refuse rifle";
+var mnemonic = "devote prefer machine useless interest inmate bag burden denial clock mimic alone";

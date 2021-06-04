@@ -1,1 +1,1 @@
-var mnemonic = "bulk cheap prefer city heavy word delay clap reward analyst shoe vintage";
+var mnemonic = "mom runway harbor sun nature spare clip outside human expect width hero";

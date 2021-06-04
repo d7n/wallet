@@ -1,1 +1,1 @@
-var mnemonic = "repair question action stove oblige pear mother push photo sponsor grant exile";
+var mnemonic = "depend gather sudden flash south inquiry mix carry nominee permit cat hurry";

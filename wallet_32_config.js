@@ -1,1 +1,1 @@
-var mnemonic = "hand assume deputy fresh eye wood kick chuckle person cycle speed lonely";
+var mnemonic = "project harsh swift finish denial globe pattern green stove athlete renew execute";

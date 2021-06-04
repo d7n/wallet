@@ -1,1 +1,1 @@
-var mnemonic = "coil dad easily army bulb next item oval cabbage chaos dolphin thing";
+var mnemonic = "aerobic hospital quantum nasty episode light drip extend potato peanut flight craft";

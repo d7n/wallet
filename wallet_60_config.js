@@ -1,1 +1,1 @@
-var mnemonic = "ask option more lamp hole shed work buyer woman faculty opinion corn";
+var mnemonic = "march legend decline flip cable power mask fitness churn denial adapt gas";

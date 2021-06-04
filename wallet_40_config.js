@@ -1,1 +1,1 @@
-var mnemonic = "divert exercise sail minor slim visual bronze share outdoor uphold journey virus";
+var mnemonic = "rural prosper layer tenant sure toilet giant minute sad gesture tiger envelope";

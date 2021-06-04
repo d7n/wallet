@@ -1,1 +1,1 @@
-var mnemonic = "rice marine point general bread govern twist once inquiry wet cable hammer";
+var mnemonic = "senior excuse banana please luxury curve thought long chat humor enroll permit";

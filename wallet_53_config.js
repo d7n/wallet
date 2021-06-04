@@ -1,1 +1,1 @@
-var mnemonic = "digital parade quiz sure wagon thumb chapter school audit roof fashion have";
+var mnemonic = "ketchup mother cup dinner treat yellow crush trash arena icon time protect";

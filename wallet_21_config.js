@@ -1,1 +1,1 @@
-var mnemonic = "tuition process seven acoustic oil dial main style push episode security need";
+var mnemonic = "crouch early unhappy enemy like gate misery lawsuit harsh click little alley";

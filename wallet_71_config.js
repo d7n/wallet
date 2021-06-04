@@ -1,1 +1,1 @@
-var mnemonic = "inherit gloom comic hammer moon oak chunk surround trade hour silver same";
+var mnemonic = "correct color inside exclude craft spawn uncover spring theme sport census purchase";

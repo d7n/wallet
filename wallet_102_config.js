@@ -1,1 +1,1 @@
-var mnemonic = "cushion father bacon agree whip cross gallery sheriff cotton resemble weird divert";
+var mnemonic = "dizzy clump young width upset ozone about worth person true tell boss";

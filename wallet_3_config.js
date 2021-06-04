@@ -1,1 +1,1 @@
-var mnemonic = "reason session future airport debris tattoo once market under fame avocado cricket";
+var mnemonic = "august pepper eye trial giraffe clip know fabric rapid when barely object";

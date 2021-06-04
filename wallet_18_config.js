@@ -1,1 +1,1 @@
-var mnemonic = "step avoid lecture feature mountain whale smart resemble drift ripple lizard bind";
+var mnemonic = "marine pole amazing diary meadow marine sun spike pact tail heart ridge";

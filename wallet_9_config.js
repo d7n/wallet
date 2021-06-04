@@ -1,1 +1,1 @@
-var mnemonic = "copy whip model verify online scare fire width artist spread pencil spell";
+var mnemonic = "public detail this language express flat rail force grit nut outdoor riot";

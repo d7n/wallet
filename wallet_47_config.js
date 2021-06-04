@@ -1,1 +1,1 @@
-var mnemonic = "police float royal voyage seminar gallery walk timber bonus lion ugly carbon";
+var mnemonic = "enhance path speak alarm absorb inject test magnet empower chair name buffalo";

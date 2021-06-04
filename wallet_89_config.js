@@ -1,1 +1,1 @@
-var mnemonic = "depth excite depart bomb utility kick kiss discover donate witness life swift";
+var mnemonic = "drum wise area basic team fix rubber lion fruit real man sketch";

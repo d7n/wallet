@@ -1,1 +1,1 @@
-var mnemonic = "exhibit release alter bronze feel worry silent cabbage leg focus walk chalk";
+var mnemonic = "oppose wealth flock fruit aerobic nose custom leaf identify proof eternal pig";

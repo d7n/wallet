@@ -1,1 +1,1 @@
-var mnemonic = "sniff reveal swarm solar paddle hidden tag range magnet speed equip lens";
+var mnemonic = "remove peace practice space menu course prosper solution access isolate soap battle";

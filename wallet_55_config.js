@@ -1,1 +1,1 @@
-var mnemonic = "retire success social world laundry also tower focus spirit enable soldier logic";
+var mnemonic = "dirt riot juice onion affair keep crystal vintage inquiry poem target dentist";

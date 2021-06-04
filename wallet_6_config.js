@@ -1,1 +1,1 @@
-var mnemonic = "frame found narrow begin august rib latin cliff case motion elegant until";
+var mnemonic = "amateur style all moon velvet mean fossil goddess absorb hood smoke height";

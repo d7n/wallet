@@ -1,1 +1,1 @@
-var mnemonic = "apology vacant trigger ship bar tribe siege million fatal chaos very invest";
+var mnemonic = "accident mushroom scissors table muscle boss physical tissue isolate merit cute juice";

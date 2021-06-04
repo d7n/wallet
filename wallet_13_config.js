@@ -1,1 +1,1 @@
-var mnemonic = "sad crush dinner either common share fragile shuffle tourist gun sister jeans";
+var mnemonic = "cattle chunk diet element speed fork weapon crime fossil blanket name feed";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic source tourist supreme identify spoil render twist arm polar inmate toilet";
+var mnemonic = "cushion improve rebel grocery portion enrich dish try deputy again tide limit";

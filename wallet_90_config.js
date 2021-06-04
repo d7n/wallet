@@ -1,1 +1,1 @@
-var mnemonic = "stove hat much warfare napkin mountain rent leave you coral disease cook";
+var mnemonic = "scatter strike clown audit arrest strike hidden thought nation blush excuse output";

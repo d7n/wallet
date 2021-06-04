@@ -1,1 +1,1 @@
-var mnemonic = "crazy ordinary clay eagle easy direct total demand armor attack erase huge";
+var mnemonic = "family state swallow mango you slab cause season illness appear panther grocery";

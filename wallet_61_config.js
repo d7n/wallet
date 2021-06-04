@@ -1,1 +1,1 @@
-var mnemonic = "ask mushroom clay wing ritual digital sign remember picture enhance pass market";
+var mnemonic = "orphan all fever inherit cave security success stay echo prison reunion fine";

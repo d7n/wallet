@@ -1,1 +1,1 @@
-var mnemonic = "bitter use this real laugh glow aspect impact sea hurt vital waste";
+var mnemonic = "code thank option vanish spread rate thumb increase order seat empty diet";

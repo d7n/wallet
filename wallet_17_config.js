@@ -1,1 +1,1 @@
-var mnemonic = "head long gospel palm trim foil bunker auction marine web notice negative";
+var mnemonic = "day inner reform end mammal chapter position word zone obtain retreat under";

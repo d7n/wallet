@@ -1,1 +1,1 @@
-var mnemonic = "fog hurry near suspect benefit this canyon fossil cancel hen pair junior";
+var mnemonic = "physical make smooth nurse govern stumble thing winter faint gallery canoe enact";

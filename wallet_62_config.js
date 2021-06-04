@@ -1,1 +1,1 @@
-var mnemonic = "uncle hollow olive message nasty host puppy success nasty begin solid badge";
+var mnemonic = "time actual vault day process stomach enforce broccoli fade choice play firm";

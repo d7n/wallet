@@ -1,1 +1,1 @@
-var mnemonic = "flat avoid bar turkey grace find engage where identify cactus spare poverty";
+var mnemonic = "pill fade area deer future rebel impact lesson rare chalk uniform example";

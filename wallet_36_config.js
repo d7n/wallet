@@ -1,1 +1,1 @@
-var mnemonic = "conduct noise jungle bracket differ never cake salmon asset push plastic wine";
+var mnemonic = "among unable wrong hair typical tooth zoo hedgehog frog exercise liar taste";

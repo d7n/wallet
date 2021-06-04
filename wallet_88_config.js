@@ -1,1 +1,1 @@
-var mnemonic = "wall best industry eagle series thunder antenna race axis deal frame lake";
+var mnemonic = "devote mask whisper giraffe dress clap pear kingdom eyebrow cluster dwarf capital";

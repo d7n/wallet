@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin present leader quote slush able ensure casual fan lottery ignore shiver";
+var mnemonic = "balcony hire tooth fee proof drop rocket robot goddess weather salt parrot";

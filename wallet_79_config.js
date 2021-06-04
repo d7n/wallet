@@ -1,1 +1,1 @@
-var mnemonic = "thunder dwarf join test filter solar grunt human water human behave spend";
+var mnemonic = "lobster embark enact museum noodle bargain oven spatial pause toast explain client";

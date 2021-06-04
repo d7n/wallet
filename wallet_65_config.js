@@ -1,1 +1,1 @@
-var mnemonic = "apology behind type stomach jazz begin casual fantasy erosion parade occur canyon";
+var mnemonic = "spice derive canvas detail observe key fashion chronic road forum senior erode";

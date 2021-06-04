@@ -1,1 +1,1 @@
-var mnemonic = "tackle guitar stereo middle potato submit allow float mosquito horn middle guess";
+var mnemonic = "obscure office twist mail match pattern slide extend arena refuse video sure";

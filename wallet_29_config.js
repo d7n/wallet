@@ -1,1 +1,1 @@
-var mnemonic = "frame pledge leopard begin know trust casual sea shell ridge endorse remove";
+var mnemonic = "spice story photo mansion dune anchor hat suggest render swamp speak snap";

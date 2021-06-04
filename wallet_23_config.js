@@ -1,1 +1,1 @@
-var mnemonic = "detect source scare mad interest differ speed setup relief desert thing stomach";
+var mnemonic = "own lunar enlist because term excess across comfort athlete device comfort leg";

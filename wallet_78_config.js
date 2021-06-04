@@ -1,1 +1,1 @@
-var mnemonic = "pluck plastic fluid sword acid gun double donor creek such void vessel";
+var mnemonic = "bleak narrow enrich stable coil economy daring yellow close grunt grid pilot";

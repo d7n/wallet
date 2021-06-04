@@ -1,1 +1,1 @@
-var mnemonic = "strike electric frequent gold glare where various art destroy edge join car";
+var mnemonic = "dolphin castle supreme peanut table delay fold enhance spirit midnight arrange twin";

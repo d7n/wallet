@@ -1,1 +1,1 @@
-var mnemonic = "gaze list script toilet outer awesome ocean raven crucial only hill novel";
+var mnemonic = "involve rice correct priority motor science silk repeat copper put calm bacon";

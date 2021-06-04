@@ -1,1 +1,1 @@
-var mnemonic = "hen manual soft random bachelor pilot junk similar link squirrel rescue border";
+var mnemonic = "art transfer labor hedgehog pelican web dilemma message choice injury kiwi fault";

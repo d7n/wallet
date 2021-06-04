@@ -1,1 +1,1 @@
-var mnemonic = "slim era extend march envelope word sign verb latin million oppose affair";
+var mnemonic = "shiver sphere special mouse glove regret slim unique dad flavor salad return";

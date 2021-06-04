@@ -1,1 +1,1 @@
-var mnemonic = "coach side innocent theory kangaroo truth choice aisle gesture stable proud screen";
+var mnemonic = "normal super muffin accident attract bitter disorder climb powder umbrella theory waste";

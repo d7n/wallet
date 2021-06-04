@@ -1,1 +1,1 @@
-var mnemonic = "hotel trust process father mixture near razor bicycle gold clip craft glide";
+var mnemonic = "crystal ceiling casino kit evoke stumble help pistol awful anger final action";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive craft fitness else half middle used group ladder solar fun inform";
+var mnemonic = "coach virus flight ginger field purse simple employ ticket surge brisk demand";

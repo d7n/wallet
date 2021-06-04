@@ -1,1 +1,1 @@
-var mnemonic = "square eternal genuine tiger lucky soda fabric quality stamp people magnet decide";
+var mnemonic = "gas mimic run bounce boss space space behave tool main into shell";

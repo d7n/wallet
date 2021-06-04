@@ -1,1 +1,1 @@
-var mnemonic = "six coffee live oil woman sphere broom pill void guide cushion disorder";
+var mnemonic = "cool tilt uncle test risk raise choose uncle still mansion remember leopard";

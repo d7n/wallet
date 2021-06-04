@@ -1,1 +1,1 @@
-var mnemonic = "cup way trap series universe mango ceiling assist bench dragon solid vacant";
+var mnemonic = "project lab tape exist keen famous shy silent tunnel arrest column sweet";

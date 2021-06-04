@@ -1,1 +1,1 @@
-var mnemonic = "blind canyon twelve fiber traffic palm donor adapt hard seminar note avocado";
+var mnemonic = "nature stamp select tuna become coast until brush swamp fancy joke rib";

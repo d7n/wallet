@@ -1,1 +1,1 @@
-var mnemonic = "access eyebrow fragile donkey initial hockey lunch exchange acquire click key conduct";
+var mnemonic = "intact emerge pupil job twin tumble loyal hero bike salmon fitness solar";

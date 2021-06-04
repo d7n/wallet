@@ -1,1 +1,1 @@
-var mnemonic = "dry fade camera tell fragile mistake ozone appear repair rigid frequent hire";
+var mnemonic = "myth region ignore stomach coconut train park mansion sorry life mirror bind";

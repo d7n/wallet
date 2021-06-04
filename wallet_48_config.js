@@ -1,1 +1,1 @@
-var mnemonic = "phrase aim check arrest bitter vast combine taste poet side eternal shoulder";
+var mnemonic = "drift dish boat garage obtain impulse ostrich tackle laptop bag menu rare";

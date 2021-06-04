@@ -1,1 +1,1 @@
-var mnemonic = "gym syrup phone upgrade initial open million wife option vanish strategy void";
+var mnemonic = "praise fossil biology simple beach dutch crop crouch sock load neck notice";

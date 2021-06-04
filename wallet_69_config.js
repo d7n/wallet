@@ -1,1 +1,1 @@
-var mnemonic = "unknown arena tribe wheat swamp near best vessel vacuum relax mutual cigar";
+var mnemonic = "grocery rare sponsor treat harbor raven grain match oyster humor debris essay";

@@ -1,1 +1,1 @@
-var mnemonic = "inch erupt piano kid wide stadium tank point tongue blame economy hero";
+var mnemonic = "early slab execute plunge sausage illegal like august odor initial detail unusual";

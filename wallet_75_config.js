@@ -1,1 +1,1 @@
-var mnemonic = "elevator blast rose fork stairs quiz iron moment buzz motion relief release";
+var mnemonic = "surprise wave hospital polar term panther result raccoon potato sustain magic bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "month public leopard laundry flat piano cancel brisk tourist occur situate power";
+var mnemonic = "speak horn judge erosion letter bag dune embody lumber broccoli veteran dash";

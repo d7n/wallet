@@ -1,1 +1,1 @@
-var mnemonic = "seminar crack little public razor prison patch useful enough turkey bargain elephant";
+var mnemonic = "then state van together gate march artwork eagle seven lounge wheel option";

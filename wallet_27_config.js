@@ -1,1 +1,1 @@
-var mnemonic = "wild afford armed plate empower farm prepare custom flush electric chat tuition";
+var mnemonic = "arrange theme skirt network trash argue income coyote undo bus scan palace";

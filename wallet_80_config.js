@@ -1,1 +1,1 @@
-var mnemonic = "iron receive aerobic screen inquiry asthma ignore calm deputy badge remember utility";
+var mnemonic = "champion safe skull occur door invest journey run pluck talent awkward execute";

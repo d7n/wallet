@@ -1,1 +1,1 @@
-var mnemonic = "victory future wise truth wage sentence base chalk crazy mandate fix youth";
+var mnemonic = "dwarf must hand position trophy fatal attract boost october ostrich wet correct";

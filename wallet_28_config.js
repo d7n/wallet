@@ -1,1 +1,1 @@
-var mnemonic = "book donate people reflect hurt stuff upon debate improve walnut banner cake";
+var mnemonic = "nest air tackle wet elder rug nephew across agree census woman sport";

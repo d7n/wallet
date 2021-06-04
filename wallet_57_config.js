@@ -1,1 +1,1 @@
-var mnemonic = "deer fence manage obey kiss gadget voyage popular use involve accuse image";
+var mnemonic = "cliff pulp bid wonder draw month fashion bus exchange excess good junior";

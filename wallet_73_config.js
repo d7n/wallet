@@ -1,1 +1,1 @@
-var mnemonic = "limb topple put labor inmate erosion debris steak broom pattern obtain jealous";
+var mnemonic = "draw animal wall orient chief jealous wheat narrow situate reveal noise spend";

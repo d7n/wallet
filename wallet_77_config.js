@@ -1,1 +1,1 @@
-var mnemonic = "suggest plunge bargain noodle bracket clay priority cross else remember burger apple";
+var mnemonic = "desert smooth use flush measure wife humble neglect burden cousin tennis calm";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon secret side inform truly glow cherry carry direct day estate table";
+var mnemonic = "cloud rather tomorrow entire ticket video muffin pulp gold miss scissors motor";

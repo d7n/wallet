@@ -1,1 +1,1 @@
-var mnemonic = "mind pitch paper assist mixed fluid scissors system half eye history bench";
+var mnemonic = "cereal scan suggest thing tail disagree hungry symbol protect what tomorrow area";

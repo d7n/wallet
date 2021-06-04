@@ -1,1 +1,1 @@
-var mnemonic = "smoke example question renew attract inside naive write clown sphere current crater";
+var mnemonic = "ecology angry seed term route educate leopard swing liberty pottery useless cliff";

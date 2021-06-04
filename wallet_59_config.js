@@ -1,1 +1,1 @@
-var mnemonic = "chalk invite lonely merge flip very alley beyond afford simple organ cause";
+var mnemonic = "owner glory flag spare project action boil vintage crystal fine sniff height";

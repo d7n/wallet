@@ -1,1 +1,1 @@
-var mnemonic = "recall illness slam coin spread live slogan clap basic trophy quote frown";
+var mnemonic = "end artist crunch climb alpha stay biology symptom banner athlete memory capital";

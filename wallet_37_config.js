@@ -1,1 +1,1 @@
-var mnemonic = "inherit winner observe wrestle marble test major guard exile maximum flush turn";
+var mnemonic = "symptom now gloom grit team frequent disagree element then ability shuffle pony";

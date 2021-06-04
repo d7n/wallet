@@ -1,1 +1,1 @@
-var mnemonic = "twenty size frown web panda say frame move option birth sign make";
+var mnemonic = "powder theme isolate mass true hybrid change vendor ceiling symbol sure dolphin";

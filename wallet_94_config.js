@@ -1,1 +1,1 @@
-var mnemonic = "absorb bind own dog exile tomato mechanic satisfy sail damage when check";
+var mnemonic = "capable dove there mix shift beef private man enroll pelican cross foster";

@@ -1,1 +1,1 @@
-var mnemonic = "pen meat expect age hedgehog flee wish labor right fossil judge unhappy";
+var mnemonic = "melt daring clinic tool until floor issue split repair cover vibrant jungle";

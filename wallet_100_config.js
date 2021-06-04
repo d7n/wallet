@@ -1,1 +1,1 @@
-var mnemonic = "symbol pelican lottery trial prefer either series choose indoor act antique bottom";
+var mnemonic = "grid clay symptom program require online upset bracket pen soup robot company";

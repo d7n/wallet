@@ -1,1 +1,1 @@
-var mnemonic = "retreat crush earn use casino dial first solve select fall code area";
+var mnemonic = "purity primary fix later reject fee dream disorder course icon swear orphan";

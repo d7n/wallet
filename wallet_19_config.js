@@ -1,1 +1,1 @@
-var mnemonic = "finger expect ghost crisp elevator provide process tissue kite brother rabbit father";
+var mnemonic = "manual empower season special assault verify tobacco love mushroom above depth strong";

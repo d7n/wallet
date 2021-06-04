@@ -1,1 +1,1 @@
-var mnemonic = "ski outdoor peasant sock sea any catalog tornado tumble extend save weapon";
+var mnemonic = "exhibit aware run spell neither hollow huge issue collect garden east rug";

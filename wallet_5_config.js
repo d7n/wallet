@@ -1,1 +1,1 @@
-var mnemonic = "run marine ecology ostrich again width alarm track asthma holiday better priority";
+var mnemonic = "valley wish chalk gasp siren shy dose stable mushroom pilot tail tomorrow";

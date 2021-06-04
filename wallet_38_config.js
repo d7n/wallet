@@ -1,1 +1,1 @@
-var mnemonic = "invest need flash goat cushion nothing theory frozen toddler nominee slide match";
+var mnemonic = "truth impact clarify kite feature pulp salon canvas wave replace steak theory";

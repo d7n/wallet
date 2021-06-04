@@ -1,1 +1,1 @@
-var mnemonic = "same bike stand wear session august purchase jazz mechanic smooth grass normal";
+var mnemonic = "tonight heart salmon taste unaware pass verify weird renew mouse remind dumb";
