@@ -1,1 +1,1 @@
-var mnemonic = "nephew media cat bless crunch coast eager thunder strong tower address feature";
+var mnemonic = "program scare march cat account frost waste card next pudding venture ancient";

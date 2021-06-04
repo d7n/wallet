@@ -1,1 +1,1 @@
-var mnemonic = "segment social syrup trash obey few comfort bacon odor case auction bracket";
+var mnemonic = "window ring duck ask tenant wall often arm mansion champion animal gap";

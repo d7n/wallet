@@ -1,1 +1,1 @@
-var mnemonic = "devote bleak garden replace cabin decrease obey smoke stamp chest work erupt";
+var mnemonic = "menu blood turkey diamond prison heavy gas fan wave series ability snake";

@@ -1,1 +1,1 @@
-var mnemonic = "toss ecology claim want asset never three path salon actress address monster";
+var mnemonic = "meat spread armed test piano fox broccoli page nose deliver kiwi winner";

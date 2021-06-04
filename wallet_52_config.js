@@ -1,1 +1,1 @@
-var mnemonic = "food orient mother hunt awake enrich patch again embrace bronze trip domain";
+var mnemonic = "logic zero remember pluck receive undo output clutch occur injury kick walk";

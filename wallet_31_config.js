@@ -1,1 +1,1 @@
-var mnemonic = "mirror marriage rescue artefact jungle belt retire eyebrow tired finger object kick";
+var mnemonic = "mule jeans hotel hurdle repeat robot person saddle dirt wolf useless awesome";

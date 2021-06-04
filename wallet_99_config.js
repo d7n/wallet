@@ -1,1 +1,1 @@
-var mnemonic = "run flag crash total hood vapor hurdle become shoot artist harsh law";
+var mnemonic = "unfold reflect ribbon enroll demand food throw visit wash snap hood quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "knee vast indicate will chase two afraid flight nothing round drive victory";
+var mnemonic = "army lock south saddle mixed invest phrase antenna wage tube adapt material";

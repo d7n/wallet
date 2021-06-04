@@ -1,1 +1,1 @@
-var mnemonic = "pool sister project wide document cash report wage another learn swap nominee";
+var mnemonic = "owner doctor guide balance own tribe derive globe monster immune lion mail";

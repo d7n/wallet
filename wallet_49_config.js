@@ -1,1 +1,1 @@
-var mnemonic = "notice injury twelve shrimp awful glove distance actor provide track keen lyrics";
+var mnemonic = "welcome clown scare horn echo word live vacant key inmate noise tell";

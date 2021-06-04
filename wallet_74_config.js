@@ -1,1 +1,1 @@
-var mnemonic = "tobacco dawn cheap clever face fruit city faith civil record cost fatal";
+var mnemonic = "flame dream end ritual awful ticket letter salon curtain focus nuclear artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "foam dolphin stand vendor peanut credit keen palm illegal bone depart cloth";
+var mnemonic = "unfold arrange word valley rival rare sick system purity stage leopard skate";

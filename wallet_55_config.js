@@ -1,1 +1,1 @@
-var mnemonic = "filter tonight girl analyst absurd member nice enter dizzy coral estate shield";
+var mnemonic = "slight medal magic amount act thing solid pumpkin casino angry maximum gas";

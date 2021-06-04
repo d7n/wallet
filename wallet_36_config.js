@@ -1,1 +1,1 @@
-var mnemonic = "spoon where frame come husband cloth token patch rabbit heavy hobby where";
+var mnemonic = "olympic silk hero deliver ecology syrup impose trophy flat whisper dice detect";

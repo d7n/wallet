@@ -1,1 +1,1 @@
-var mnemonic = "glad toward execute foot repair swap roast cat aunt skull upon deputy";
+var mnemonic = "rigid awful proud style lend cube august glad outside idle toilet avoid";

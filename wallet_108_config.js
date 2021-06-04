@@ -1,1 +1,1 @@
-var mnemonic = "home fine omit vendor opinion naive credit curtain width usage census mushroom";
+var mnemonic = "return list village radar tower ordinary egg noise tree chef release sustain";

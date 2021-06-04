@@ -1,1 +1,1 @@
-var mnemonic = "okay exercise memory element tiger finish orient dune spawn choose teach mercy";
+var mnemonic = "cheap leaf hand essay fancy cool awesome fog middle tip escape parent";

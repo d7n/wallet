@@ -1,1 +1,1 @@
-var mnemonic = "glory such mix million head cinnamon crew valid humor hurdle pink tobacco";
+var mnemonic = "ability vital awkward rubber special core exhibit meat viable provide enroll sketch";

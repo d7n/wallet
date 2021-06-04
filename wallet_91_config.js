@@ -1,1 +1,1 @@
-var mnemonic = "vibrant prison fetch economy dignity credit matter hungry arrive enlist bleak parrot";
+var mnemonic = "choice panic garlic brief toss clump dolphin notable engine vague pyramid family";

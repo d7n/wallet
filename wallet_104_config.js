@@ -1,1 +1,1 @@
-var mnemonic = "loyal kingdom goat shiver verify pattern crash venture intact garment abuse knee";
+var mnemonic = "people between morning draw river captain morning charge input book gaze power";

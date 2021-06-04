@@ -1,1 +1,1 @@
-var mnemonic = "eternal screen toe egg blade trust famous divide cheese fox connect castle";
+var mnemonic = "feature double steak grocery print trouble copy success airport okay fatigue omit";

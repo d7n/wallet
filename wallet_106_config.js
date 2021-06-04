@@ -1,1 +1,1 @@
-var mnemonic = "program room sauce convince polar ecology decide exit april rule frozen glance";
+var mnemonic = "electric credit neither ring dignity similar page unfair air that battle slide";

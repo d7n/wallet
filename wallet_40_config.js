@@ -1,1 +1,1 @@
-var mnemonic = "swing win cheese dizzy satoshi pet maid that easily attend endorse physical";
+var mnemonic = "squeeze verb aisle lesson pen truly shallow donkey laptop merry over shed";

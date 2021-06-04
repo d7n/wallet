@@ -1,1 +1,1 @@
-var mnemonic = "chuckle milk vendor tape local valve parent bachelor jeans sword draw differ";
+var mnemonic = "purity worth patrol sunny sting defy blue system tiger rule net surprise";

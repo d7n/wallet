@@ -1,1 +1,1 @@
-var mnemonic = "wrist pigeon liquid empty injury unfair card foster pink relax pen quote";
+var mnemonic = "team demand club floor amount business heavy prosper receive matter anxiety enough";

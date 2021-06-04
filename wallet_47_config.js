@@ -1,1 +1,1 @@
-var mnemonic = "canoe method later robot unveil broccoli inhale deny runway diamond focus eyebrow";
+var mnemonic = "present way sketch cruel kite rib wire swing cake onion mystery verify";

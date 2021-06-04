@@ -1,1 +1,1 @@
-var mnemonic = "stock fabric apology supply stand quote lottery prize clown train dice farm";
+var mnemonic = "resource jelly shine hurdle name stove crucial brush balance shoot toss vote";

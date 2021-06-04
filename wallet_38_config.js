@@ -1,1 +1,1 @@
-var mnemonic = "question seminar cash derive garbage door wedding symbol this two hat knee";
+var mnemonic = "inner student regular result kid mask allow goddess robust nothing pledge lyrics";

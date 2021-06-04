@@ -1,1 +1,1 @@
-var mnemonic = "solve giant bright artist pool enrich october camera broom hint bridge metal";
+var mnemonic = "zebra village token fire street client attend ask flip neither change board";

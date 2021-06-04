@@ -1,1 +1,1 @@
-var mnemonic = "install argue filter captain pass stove gorilla tourist sorry tilt train same";
+var mnemonic = "question they air rare monkey arctic clarify depend photo shaft green element";

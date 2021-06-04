@@ -1,1 +1,1 @@
-var mnemonic = "ladder salon borrow ostrich awake exhaust write pig jazz vast hair fork";
+var mnemonic = "old length steak stereo virtual depart kitchen eye unhappy seven raven noble";

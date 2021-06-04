@@ -1,1 +1,1 @@
-var mnemonic = "girl clump celery health curtain bid coyote subject grant bacon fence peasant";
+var mnemonic = "decline pact decline actress tunnel hand exhibit farm tray loan rebel memory";

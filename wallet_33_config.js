@@ -1,1 +1,1 @@
-var mnemonic = "lecture discover easy upon use someone sight heavy switch fiber dad left";
+var mnemonic = "note major fox letter vendor network curve orphan deny sense venture coffee";

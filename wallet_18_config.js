@@ -1,1 +1,1 @@
-var mnemonic = "beach december hawk exhaust awful sword worth coconut creek misery mobile pretty";
+var mnemonic = "lounge embark infant popular laptop undo calm cotton number color advice have";

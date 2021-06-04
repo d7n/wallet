@@ -1,1 +1,1 @@
-var mnemonic = "belt hybrid police payment sorry boring divorce siren before nature another post";
+var mnemonic = "bargain local burst taste rebuild human jaguar tattoo marine stamp dizzy wrist";

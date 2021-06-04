@@ -1,1 +1,1 @@
-var mnemonic = "habit receive emerge reopen empty cream aware unaware day forward fog rifle";
+var mnemonic = "discover case climb ill tennis december match asthma mimic cradle exchange bus";

@@ -1,1 +1,1 @@
-var mnemonic = "tail type usual always lottery second ski eternal hen loan wasp reform";
+var mnemonic = "excite ocean snake spell lady wet street bind force inherit laugh sugar";

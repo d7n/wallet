@@ -1,1 +1,1 @@
-var mnemonic = "menu become travel town bitter lion play over limb cherry between margin";
+var mnemonic = "ginger mango option lobster blame detect human game range valve coyote wedding";

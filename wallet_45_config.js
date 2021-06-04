@@ -1,1 +1,1 @@
-var mnemonic = "under place surprise say stereo reform swamp try coyote enhance verb lobster";
+var mnemonic = "palm flush movie rib gentle clerk boss eyebrow avocado normal mandate assume";

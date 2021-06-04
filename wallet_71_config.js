@@ -1,1 +1,1 @@
-var mnemonic = "rival bleak kiwi smile donate inhale earth arena cost palace winter purity";
+var mnemonic = "ensure rose field supreme labor snow jar toilet because session group master";

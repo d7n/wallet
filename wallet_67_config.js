@@ -1,1 +1,1 @@
-var mnemonic = "tent wood gasp speak foot anxiety east visa exclude mobile hair three";
+var mnemonic = "chuckle affair few shine number empty kick fiction melt tortoise kitchen whale";

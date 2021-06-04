@@ -1,1 +1,1 @@
-var mnemonic = "muscle link eagle either gallery reform spider pencil response glad industry remember";
+var mnemonic = "near raise betray note push disagree sunny insane absent elephant mix verify";

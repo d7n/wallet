@@ -1,1 +1,1 @@
-var mnemonic = "payment inside produce cart accident cream village dice kingdom asthma clap strategy";
+var mnemonic = "stable outside another lady diary shrug exile olive accident heavy foam wheat";

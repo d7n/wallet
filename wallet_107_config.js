@@ -1,1 +1,1 @@
-var mnemonic = "blue invest style income dove disagree orient income swap dose head aisle";
+var mnemonic = "bunker nephew brother cement board leopard spin prepare siege also catch convince";

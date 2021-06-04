@@ -1,1 +1,1 @@
-var mnemonic = "school mansion remove law crunch divert language biology civil approve web fly";
+var mnemonic = "discover high toss spray cram stem cage tackle rule deer boost high";

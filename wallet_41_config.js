@@ -1,1 +1,1 @@
-var mnemonic = "noodle angry gorilla nasty double boss frequent hotel system pigeon sport survey";
+var mnemonic = "brass story demand undo visual pattern pizza gadget bind wall situate zoo";

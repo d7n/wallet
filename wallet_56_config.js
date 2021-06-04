@@ -1,1 +1,1 @@
-var mnemonic = "goat convince breeze ski dumb indoor motion fresh year absurd clinic daring";
+var mnemonic = "print deer other major kiss deputy foster report gloom flight wing labor";

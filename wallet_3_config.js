@@ -1,1 +1,1 @@
-var mnemonic = "manage grief slush wrestle state human cattle neck lab scheme diamond wheat";
+var mnemonic = "capital detail you marine blouse vital chicken oak mom opinion melody seat";

@@ -1,1 +1,1 @@
-var mnemonic = "doll aim notable hello invite mail fame emerge verb narrow chat describe";
+var mnemonic = "cable flavor fetch waste hover convince treat picnic elder dry enlist tent";

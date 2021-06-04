@@ -1,1 +1,1 @@
-var mnemonic = "used lemon power riot cream use grant army candy balance target protect";
+var mnemonic = "genuine head degree lobster inform document card dentist blouse alien refuse barely";

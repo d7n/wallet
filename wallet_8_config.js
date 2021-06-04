@@ -1,1 +1,1 @@
-var mnemonic = "rotate gospel attend memory three roast below sister save lamp arrest decade";
+var mnemonic = "brown tell ahead tooth fold comic provide vessel call symbol right credit";

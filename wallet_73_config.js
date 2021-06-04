@@ -1,1 +1,1 @@
-var mnemonic = "friend kangaroo gadget scorpion proof property shoulder spring wrestle raise talk tag";
+var mnemonic = "mix plastic flower toy zoo yard spend silent glove myth window claw";

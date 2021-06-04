@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ritual arctic behave violin rare afford mixed cloud cotton girl pull";
+var mnemonic = "glow unknown cargo degree ostrich caught drink unusual dry rebuild trade donate";

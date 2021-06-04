@@ -1,1 +1,1 @@
-var mnemonic = "gas size quit lecture bridge glue gallery wing rapid chase exile loan";
+var mnemonic = "dress moon exchange comfort spike humor scorpion excess sight drive hold actor";

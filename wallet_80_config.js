@@ -1,1 +1,1 @@
-var mnemonic = "cheese fold album huge depart van exchange day laugh mother few lemon";
+var mnemonic = "medal search gallery curious stairs smart brick coconut surface truck fox expire";

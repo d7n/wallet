@@ -1,1 +1,1 @@
-var mnemonic = "entry evoke airport blind torch defense bus soup clock lucky east element";
+var mnemonic = "upset apart save brand what auto tell possible amazing dignity segment panel";

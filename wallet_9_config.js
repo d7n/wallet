@@ -1,1 +1,1 @@
-var mnemonic = "dumb there prosper try maximum fever hurt gather desert joy script robust";
+var mnemonic = "snap girl reflect mandate caught bamboo doll spatial upon space vote maximum";

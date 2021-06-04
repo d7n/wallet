@@ -1,1 +1,1 @@
-var mnemonic = "adapt blade mandate machine coach injury venture letter ring oxygen seed topic";
+var mnemonic = "shrug host drift voice suffer salute pass pitch faith sail another kite";

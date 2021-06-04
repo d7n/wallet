@@ -1,1 +1,1 @@
-var mnemonic = "torch clump color loud delay fancy truck file exit elegant elbow message";
+var mnemonic = "pyramid shoot unknown resist shadow woman rule arch mistake clap digital chase";

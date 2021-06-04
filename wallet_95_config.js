@@ -1,1 +1,1 @@
-var mnemonic = "sauce input proof possible sick envelope avoid repeat sample finish pear entry";
+var mnemonic = "nurse material wagon female opinion connect design add brother street lawn trial";

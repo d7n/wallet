@@ -1,1 +1,1 @@
-var mnemonic = "scheme bird blossom language supreme tackle nose note useless stay poet science";
+var mnemonic = "dizzy month drop speed reopen demise vibrant genre next patient tooth coast";

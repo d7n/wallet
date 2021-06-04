@@ -1,1 +1,1 @@
-var mnemonic = "foam brand oak dice wolf hire debate curious kiwi public mosquito tired";
+var mnemonic = "coach bubble clog pluck occur fossil monkey angle leg reject seek whisper";

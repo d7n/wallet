@@ -1,1 +1,1 @@
-var mnemonic = "leaf eagle couch student walk ride better sure return whip october entire";
+var mnemonic = "profit stadium balcony learn nerve wrestle still cannon sort high birth forward";

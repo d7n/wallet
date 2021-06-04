@@ -1,1 +1,1 @@
-var mnemonic = "nature pass tribe green autumn shallow cart forget river position become siren";
+var mnemonic = "erode catch involve poem uncle boy body inside athlete old primary keep";

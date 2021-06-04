@@ -1,1 +1,1 @@
-var mnemonic = "floor gather museum tube lake weird moon exist category fog cram blame";
+var mnemonic = "alpha actual acid give indoor mail deal column blue blur force hockey";

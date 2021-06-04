@@ -1,1 +1,1 @@
-var mnemonic = "prepare switch latin wire morning hard delay hawk office child two spawn";
+var mnemonic = "attend limb suggest shadow lens vacant price jewel february scan welcome latin";

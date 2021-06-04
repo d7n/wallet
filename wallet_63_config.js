@@ -1,1 +1,1 @@
-var mnemonic = "decline machine come destroy frog relief mass trash sight phone else badge";
+var mnemonic = "peanut joy setup stage isolate arrow way open age vacant image inflict";

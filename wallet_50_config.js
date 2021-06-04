@@ -1,1 +1,1 @@
-var mnemonic = "vast response zoo enemy park present shaft actual either culture desk height";
+var mnemonic = "laugh recycle father grass fruit wheat target foil industry noodle range safe";

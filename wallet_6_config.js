@@ -1,1 +1,1 @@
-var mnemonic = "gallery palm middle melt replace transfer cost clutch food firm fault tenant";
+var mnemonic = "pole laugh word worry raccoon achieve spring board guess bitter tonight buddy";

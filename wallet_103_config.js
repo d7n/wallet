@@ -1,1 +1,1 @@
-var mnemonic = "danger deal leaf venture dinosaur loud pyramid noble lunch winner theme news";
+var mnemonic = "script blood squeeze night mammal afraid defy buffalo menu water bundle frequent";

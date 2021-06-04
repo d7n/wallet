@@ -1,1 +1,1 @@
-var mnemonic = "walnut april disease volume wool nothing lizard refuse tilt volcano claw trash";
+var mnemonic = "salmon assume load tank scatter target digital poverty student lunar tennis brush";

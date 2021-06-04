@@ -1,1 +1,1 @@
-var mnemonic = "scatter upset project fat midnight swim obscure false pact solid sting kit";
+var mnemonic = "hazard interest fortune east equal ahead large add pencil begin easily belt";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter brave cat pride width cloud property rebuild stomach blue fancy carry";
+var mnemonic = "lend boost enrich topic poet hidden giant head drop enough guess example";

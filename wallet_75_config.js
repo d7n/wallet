@@ -1,1 +1,1 @@
-var mnemonic = "garment oak despair snake decide upper skin soft labor that knife pass";
+var mnemonic = "test brief burden absent drama laugh vote zoo like truck net december";

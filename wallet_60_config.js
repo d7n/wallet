@@ -1,1 +1,1 @@
-var mnemonic = "eager moral silver airport pattern add nerve motor soccer region gain country";
+var mnemonic = "blind oval matrix combine cancel change margin main library simple mansion grunt";

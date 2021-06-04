@@ -1,1 +1,1 @@
-var mnemonic = "carbon bachelor dad guess inside error borrow egg olive repeat about trial";
+var mnemonic = "kiss imitate good hope leaf twist border engine arena rough angle oblige";

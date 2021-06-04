@@ -1,1 +1,1 @@
-var mnemonic = "shallow push jungle pumpkin zero isolate tape gallery twist lab ivory public";
+var mnemonic = "genius grief traffic weather abuse cancel promote cup gallery half slow chat";

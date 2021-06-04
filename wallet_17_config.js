@@ -1,1 +1,1 @@
-var mnemonic = "movie shrug same skate behind slide trim civil adult good strategy visit";
+var mnemonic = "wheel clerk tired kite shed suit burst labor brisk faint regret scrap";

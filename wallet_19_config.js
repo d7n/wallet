@@ -1,1 +1,1 @@
-var mnemonic = "glad refuse uniform reward diesel tooth giggle slow cost enable stage walk";
+var mnemonic = "whip stay venue panda common easy token pool retreat pride hollow knock";

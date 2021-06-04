@@ -1,1 +1,1 @@
-var mnemonic = "inform sting ceiling fan rigid wrap clarify bridge mouse exhaust mobile frozen";
+var mnemonic = "frequent child spice aisle derive tomorrow shoot pudding leisure civil impose timber";

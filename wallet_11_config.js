@@ -1,1 +1,1 @@
-var mnemonic = "dwarf pave two accuse drama area genuine never enhance hand either scrub";
+var mnemonic = "doctor news guess pluck whisper pause chalk stomach food relief endless aisle";

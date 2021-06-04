@@ -1,1 +1,1 @@
-var mnemonic = "tackle shrimp clerk october lock must spray true trouble myth place alien";
+var mnemonic = "aspect shadow broccoli frog fortune excite pudding onion traffic pencil hidden weird";

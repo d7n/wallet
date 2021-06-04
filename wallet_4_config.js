@@ -1,1 +1,1 @@
-var mnemonic = "borrow task move error coconut episode merit wash force vacuum perfect orchard";
+var mnemonic = "inject refuse pluck hungry soup hole solution dinner emotion country buddy globe";

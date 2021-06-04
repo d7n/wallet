@@ -1,1 +1,1 @@
-var mnemonic = "stool equip rain riot sustain royal sentence machine coil wrestle stomach defy";
+var mnemonic = "debris improve cheap camera tiny wait flavor brief clutch quality lyrics excite";

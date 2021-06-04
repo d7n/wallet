@@ -1,1 +1,1 @@
-var mnemonic = "relief trash prevent tank deposit era head decrease appear keen float visual";
+var mnemonic = "banner find fan tree answer shell head juice elite entry song slow";

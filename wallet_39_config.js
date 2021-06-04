@@ -1,1 +1,1 @@
-var mnemonic = "summer eyebrow layer media acoustic erase medal magnet print setup ugly crane";
+var mnemonic = "fuel avoid fat napkin music critic october melt clever ethics dragon swim";

@@ -1,1 +1,1 @@
-var mnemonic = "payment bid fix fold entire used long rescue battle suit garden leg";
+var mnemonic = "trigger will soft expire hen during shell parent deal prosper bread attend";

@@ -1,1 +1,1 @@
-var mnemonic = "install window choose ripple captain find shoot enter erase final camp basket";
+var mnemonic = "rug eye neglect audit pact van search pave rather denial book logic";

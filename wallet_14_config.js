@@ -1,1 +1,1 @@
-var mnemonic = "sausage present enter alter tank loan pull convince square report upgrade admit";
+var mnemonic = "approve reduce scrub end pig recall bid actress danger hobby vicious sponsor";

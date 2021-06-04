@@ -1,1 +1,1 @@
-var mnemonic = "blame usage material repeat sister betray opera segment simple walnut shaft trouble";
+var mnemonic = "chapter moral cereal nest issue lawsuit actress source piece treat notice inside";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson aerobic satoshi huge thunder need legal sure bundle actor mushroom tone";
+var mnemonic = "twenty pattern boss nation object negative save rug nature walk note occur";

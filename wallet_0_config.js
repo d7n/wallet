@@ -1,1 +1,1 @@
-var mnemonic = "transfer toward surge spot lens palace come provide witness utility oyster market";
+var mnemonic = "frost venture intact funny monitor charge balance bunker snack avocado book juice";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy solution exhibit actress daring eagle decorate copy sunset pitch congress jazz";
+var mnemonic = "urban duty recipe flame blast sunset few siege runway potato car dinosaur";
