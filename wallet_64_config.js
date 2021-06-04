@@ -1,1 +1,1 @@
-var mnemonic = "sing relax renew stadium sight taste page grief game around warfare venture";
+var mnemonic = "own promote session other wild gossip wolf offer camera attend patrol wear";

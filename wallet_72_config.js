@@ -1,1 +1,1 @@
-var mnemonic = "endless guard idle stay allow agent grid tag spoil width depend soap";
+var mnemonic = "pilot salute sound expand demand version cinnamon control cycle focus lucky cart";

@@ -1,1 +1,1 @@
-var mnemonic = "dust flash seed gentle upgrade crater news taxi among citizen view wrong";
+var mnemonic = "claim radio easy cause exhaust where easily lava amount gospel obvious bubble";

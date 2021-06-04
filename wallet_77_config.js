@@ -1,1 +1,1 @@
-var mnemonic = "matter dash genre hollow picnic carry project wing turkey celery rack recall";
+var mnemonic = "spray eagle large this shift place vacuum success duty impose online hybrid";

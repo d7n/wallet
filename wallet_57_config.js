@@ -1,1 +1,1 @@
-var mnemonic = "clerk sausage relax develop fun sunny brown benefit inject swim interest elder";
+var mnemonic = "pig display city prize suspect stuff boat buzz plate often afraid light";

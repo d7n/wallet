@@ -1,1 +1,1 @@
-var mnemonic = "sand name kangaroo ten march fuel front hero copper curtain canyon jacket";
+var mnemonic = "absorb fresh nest deposit blade exclude dry hen pitch crew diagram robot";

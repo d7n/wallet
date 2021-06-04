@@ -1,1 +1,1 @@
-var mnemonic = "truth cash topple echo cushion marble dress they sample rebel narrow scheme";
+var mnemonic = "shock custom gossip deer artefact blush word rigid math lobster visit fat";

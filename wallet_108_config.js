@@ -1,1 +1,1 @@
-var mnemonic = "icon sting sure crunch carry enough cushion brick bullet person dynamic fog";
+var mnemonic = "payment thought chuckle stairs damage nation taste exact picnic matter intact forum";

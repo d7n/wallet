@@ -1,1 +1,1 @@
-var mnemonic = "sheriff truck choose large thumb permit voice student labor apart fiber short";
+var mnemonic = "smart anxiety educate near denial inhale ship peanut head cement wave creek";

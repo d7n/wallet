@@ -1,1 +1,1 @@
-var mnemonic = "orient zoo decline alone orbit tag web soup battle vehicle square melody";
+var mnemonic = "crack unfair immune stage congress grunt print lyrics poverty adjust tower exit";

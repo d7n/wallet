@@ -1,1 +1,1 @@
-var mnemonic = "first win manual ugly decide jelly notice shed march pact scrap zoo";
+var mnemonic = "tuna sell daring curious borrow wolf copy sketch toe hamster alcohol slow";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor hint beef session escape drip diamond olympic undo fatigue across left";
+var mnemonic = "unhappy system return bread large crawl fee april angle sell very wagon";

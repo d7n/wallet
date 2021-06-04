@@ -1,1 +1,1 @@
-var mnemonic = "absorb innocent suspect sunset surge feature present loan shrug illness gain erosion";
+var mnemonic = "royal enrich dad glad electric spin shrug tunnel auction leader swing play";

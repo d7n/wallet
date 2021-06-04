@@ -1,1 +1,1 @@
-var mnemonic = "slim luggage course river gravity palace brave heavy tiny hair gas bullet";
+var mnemonic = "shell version monitor jelly medal main peasant click satisfy upgrade option hidden";

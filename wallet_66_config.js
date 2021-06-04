@@ -1,1 +1,1 @@
-var mnemonic = "bicycle soap bless wire luxury chest laptop defy enemy between letter extra";
+var mnemonic = "gossip client insect enforce search loyal hair globe point fox frozen clap";

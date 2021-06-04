@@ -1,1 +1,1 @@
-var mnemonic = "lucky swap gentle avoid cave ozone rib grab renew toward deliver skate";
+var mnemonic = "such frame turn unhappy title essay innocent party arm random loyal heart";

@@ -1,1 +1,1 @@
-var mnemonic = "move bike relax bind differ penalty next umbrella family lobster finish fatigue";
+var mnemonic = "smoke recycle mechanic analyst nose balance cheap cereal wife elevator goose cabin";

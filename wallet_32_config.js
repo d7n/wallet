@@ -1,1 +1,1 @@
-var mnemonic = "evoke render conduct welcome term silly mind mixed list health other bleak";
+var mnemonic = "blossom carbon legend unit useless chimney travel chest tennis sniff noodle prize";

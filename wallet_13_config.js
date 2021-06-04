@@ -1,1 +1,1 @@
-var mnemonic = "sniff primary illness slow measure home purpose machine jealous volume kitchen jeans";
+var mnemonic = "large hover garden jazz squeeze dog cattle volcano federal champion normal party";

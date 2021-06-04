@@ -1,1 +1,1 @@
-var mnemonic = "shift core doctor nature census chicken large promote tone sunny easy jelly";
+var mnemonic = "all world theme top detect surge apart horn edge bachelor hole rookie";

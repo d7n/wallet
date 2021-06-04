@@ -1,1 +1,1 @@
-var mnemonic = "lab coral month april inherit base method cattle tumble fault burger voyage";
+var mnemonic = "exhaust hood move lumber wrong above route glide maple artist bamboo name";

@@ -1,1 +1,1 @@
-var mnemonic = "like laugh odor busy void noise task utility empower list picnic trim";
+var mnemonic = "expire post annual image casual coral rather field city sadness ask mail";

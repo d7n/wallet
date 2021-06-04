@@ -1,1 +1,1 @@
-var mnemonic = "aerobic age voice cliff solution law ready pulp apology flush carbon elegant";
+var mnemonic = "danger tree ozone above feed chicken human auto cricket fault laptop slow";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo various skate nerve number coral spawn mesh super hungry prize sunset";
+var mnemonic = "boat isolate faculty reform spawn limit glide screen box excite love egg";

@@ -1,1 +1,1 @@
-var mnemonic = "amused modify pass dismiss front wolf ivory pelican amused bird awesome upper";
+var mnemonic = "virus bag tide topple absorb knock employ carry bag lava patient night";

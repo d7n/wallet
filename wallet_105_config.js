@@ -1,1 +1,1 @@
-var mnemonic = "faculty rug observe peanut flip insane clever turtle snap coin choice ranch";
+var mnemonic = "enemy atom cousin alien delay employ keen mom ranch strike lift attend";

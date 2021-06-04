@@ -1,1 +1,1 @@
-var mnemonic = "drive lawsuit outer anchor area baby weasel vicious mercy van cannon arena";
+var mnemonic = "humble success push blast mosquito scan ship text quote flip couch alert";

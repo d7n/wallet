@@ -1,1 +1,1 @@
-var mnemonic = "pink deposit uphold whale glad trap armed direct twice rubber analyst south";
+var mnemonic = "load small obscure gun behave level seed seat agree fiscal hope team";

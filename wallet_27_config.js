@@ -1,1 +1,1 @@
-var mnemonic = "damage warm suggest amount prize area target squirrel useful release globe mimic";
+var mnemonic = "rather liberty jar buddy arena toy decorate tired salmon guard forest mistake";

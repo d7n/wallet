@@ -1,1 +1,1 @@
-var mnemonic = "security escape approve charge garbage used glimpse change eight pencil athlete brown";
+var mnemonic = "fade shock report august cart expire visa dad fence rabbit moral atom";

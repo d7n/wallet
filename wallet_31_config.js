@@ -1,1 +1,1 @@
-var mnemonic = "dance crumble point target net capital source camp outer carbon build dirt";
+var mnemonic = "flee wear drum lyrics drop matrix length limb hood win shock clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "morning evolve fix method bamboo hotel gain select cargo tortoise hazard dizzy";
+var mnemonic = "dash radar foam nature melody long note twin normal harvest festival brief";

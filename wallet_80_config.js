@@ -1,1 +1,1 @@
-var mnemonic = "horn potato general account crush length dinner left satisfy glimpse staff process";
+var mnemonic = "isolate guess hotel expose someone strong gallery game light west large idea";

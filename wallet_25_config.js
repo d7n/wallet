@@ -1,1 +1,1 @@
-var mnemonic = "keen warrior average awake attract never fix jungle medal wreck bless payment";
+var mnemonic = "comic uniform catch dentist dish eager damp mansion symbol orient april tone";

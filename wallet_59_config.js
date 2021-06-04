@@ -1,1 +1,1 @@
-var mnemonic = "capable picnic girl police nose kind parade caught report hawk misery empty";
+var mnemonic = "ugly quantum august fresh trial dog harvest castle stuff adjust inmate pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar art message catch dove novel shrimp accident enact short aunt beauty";
+var mnemonic = "mammal comic whip obvious into potato renew close fold arrest ladder shoot";

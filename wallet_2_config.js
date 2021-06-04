@@ -1,1 +1,1 @@
-var mnemonic = "dwarf chest trophy april general citizen rabbit chapter collect deputy final ribbon";
+var mnemonic = "surprise need exact project chapter supply taxi hire endless beef pilot core";

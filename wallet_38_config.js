@@ -1,1 +1,1 @@
-var mnemonic = "cruise enroll seven pelican thrive army antenna brisk kiwi hammer faint gain";
+var mnemonic = "once weekend tide inherit orbit assist film loan harvest budget side crystal";

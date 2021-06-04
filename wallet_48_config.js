@@ -1,1 +1,1 @@
-var mnemonic = "impact elephant flush enrich excess rally kiss victory hawk alone filter border";
+var mnemonic = "reason winner escape card rib moon symbol engage hint fruit cushion tank";

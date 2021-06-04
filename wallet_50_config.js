@@ -1,1 +1,1 @@
-var mnemonic = "make scrub theme rose faith wisdom alcohol host control dirt pulp tribe";
+var mnemonic = "enforce account step music smooth lecture refuse lunar spawn punch write razor";

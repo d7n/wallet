@@ -1,1 +1,1 @@
-var mnemonic = "found return humble need oxygen fortune cabin another real plastic casual height";
+var mnemonic = "tenant expand census garbage shop idea scorpion say balcony sun rifle dilemma";

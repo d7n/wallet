@@ -1,1 +1,1 @@
-var mnemonic = "bubble gate umbrella stock trust tragic owner bargain wall prosper success manual";
+var mnemonic = "save globe cart easy quick ladder collect claw left letter pride feature";

@@ -1,1 +1,1 @@
-var mnemonic = "champion flip obtain siren mail just similar destroy sing devote abandon depth";
+var mnemonic = "verify boil auto earth together pluck spell bubble belt latin tube define";

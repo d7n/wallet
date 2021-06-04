@@ -1,1 +1,1 @@
-var mnemonic = "runway orphan uphold brisk lunar tent dinosaur shop kidney scatter shed lab";
+var mnemonic = "erode level doll unlock erase trap heart erupt pave cute draw side";

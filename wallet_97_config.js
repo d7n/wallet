@@ -1,1 +1,1 @@
-var mnemonic = "top curve tail bird palace expire blouse stumble elite toast faint photo";
+var mnemonic = "seat protect seed mirror away auto speed float river staff olive keep";

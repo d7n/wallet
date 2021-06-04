@@ -1,1 +1,1 @@
-var mnemonic = "battle tower cotton napkin sight math length also fragile inquiry chimney frog";
+var mnemonic = "recipe endless harbor rent scissors nominee ridge sting flash lady orbit surprise";

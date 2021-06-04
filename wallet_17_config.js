@@ -1,1 +1,1 @@
-var mnemonic = "enact uncle better tube crawl move cigar tired mail into tube doll";
+var mnemonic = "swing awful liquid hat surround woman deposit maid pig bronze response field";

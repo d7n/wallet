@@ -1,1 +1,1 @@
-var mnemonic = "among great core wave husband early talent fork unit cluster shallow rose";
+var mnemonic = "unveil vacant figure once peace tongue process animal reject onion volume novel";

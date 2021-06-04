@@ -1,1 +1,1 @@
-var mnemonic = "walnut pass cotton cram finger junior gather clap sauce one spatial lens";
+var mnemonic = "number expose reward farm fat shove update flight educate ladder funny distance";

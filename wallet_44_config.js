@@ -1,1 +1,1 @@
-var mnemonic = "already law immune major smoke term monitor gym adapt inner know mind";
+var mnemonic = "name loop waste fit grace royal any barrel what lecture clock diary";

@@ -1,1 +1,1 @@
-var mnemonic = "level flush tunnel side rally boss power radio empty victory mixture siege";
+var mnemonic = "cannon strike nephew glance burden loan virtual undo patient chronic divert category";

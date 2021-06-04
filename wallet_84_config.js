@@ -1,1 +1,1 @@
-var mnemonic = "year reject hazard fragile theory enhance van shrimp sentence heavy outside evil";
+var mnemonic = "chimney include sausage rare pause plastic venue derive require wise moon arctic";

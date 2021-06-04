@@ -1,1 +1,1 @@
-var mnemonic = "across diet laundry doctor magic monster reason client hand juice sunny equip";
+var mnemonic = "steel image body evil divide attack denial runway project rocket output adult";

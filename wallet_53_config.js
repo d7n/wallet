@@ -1,1 +1,1 @@
-var mnemonic = "crucial much duty finish fashion neutral number issue mammal draw tuition drama";
+var mnemonic = "talent trend boy valley social team defy crowd main sustain liar rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "joy camera apart habit bamboo fly able unusual forest curve vibrant sign";
+var mnemonic = "curious poem spell column brown pool young clay army garlic divide embrace";

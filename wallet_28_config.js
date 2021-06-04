@@ -1,1 +1,1 @@
-var mnemonic = "truth belt cricket flower chef seat chicken split waste try love strong";
+var mnemonic = "honey unfold hamster regret thought ethics donate canal provide donor later powder";

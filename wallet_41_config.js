@@ -1,1 +1,1 @@
-var mnemonic = "equal social damp title army meadow valve sadness plate doll version toe";
+var mnemonic = "crush tunnel oak where follow return ready lift sea chuckle time old";

@@ -1,1 +1,1 @@
-var mnemonic = "agree frequent rent initial case work envelope begin early clean present cross";
+var mnemonic = "cereal embody speak opinion gift draw omit appear differ waste about tribe";

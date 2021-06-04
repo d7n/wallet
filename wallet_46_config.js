@@ -1,1 +1,1 @@
-var mnemonic = "find zone jazz wasp shrug squeeze leg alter humble dad hotel matrix";
+var mnemonic = "dutch such library aisle unfold reduce twelve dream puppy humor carbon check";

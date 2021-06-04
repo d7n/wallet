@@ -1,1 +1,1 @@
-var mnemonic = "erupt unique clip brief lava weapon mouse ramp myself tobacco ignore blood";
+var mnemonic = "surprise prefer jelly half define mosquito music stock clean bleak cluster gather";

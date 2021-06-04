@@ -1,1 +1,1 @@
-var mnemonic = "gospel proud unit angle confirm lemon sand luxury chicken melody dawn dance";
+var mnemonic = "pair clerk way crack piano purpose palace utility spot happy heavy during";

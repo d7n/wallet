@@ -1,1 +1,1 @@
-var mnemonic = "bullet science nation fee steel roof fatigue heart minimum fringe train file";
+var mnemonic = "wash neutral evidence correct conduct unknown attend casual salon actor hawk better";

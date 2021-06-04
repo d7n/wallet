@@ -1,1 +1,1 @@
-var mnemonic = "cable more lawn clap retreat toe over put excuse denial ask vanish";
+var mnemonic = "shoot neck typical improve dynamic gather inform aerobic wall iron parent engage";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess cradle trumpet frequent depend deny news raise industry course caught merge";
+var mnemonic = "lecture pet salmon unusual salmon wrestle clean smoke imitate screen large another";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow chicken cover lend bring axis fashion review symbol gossip pelican minor";
+var mnemonic = "budget invite practice mother valid auction tired clever gown spare midnight chest";

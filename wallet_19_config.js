@@ -1,1 +1,1 @@
-var mnemonic = "very near unhappy alter when ice offer few find express grocery mango";
+var mnemonic = "erosion sun pig theme market mirror step slab label cram thrive square";

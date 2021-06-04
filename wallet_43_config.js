@@ -1,1 +1,1 @@
-var mnemonic = "tribe emotion tent sail wonder century net vehicle diet divert empty enhance";
+var mnemonic = "exercise outdoor cram category rigid assist actress remain mechanic soon buddy clog";

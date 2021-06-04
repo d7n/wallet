@@ -1,1 +1,1 @@
-var mnemonic = "library spot orchard junk pulp latin dolphin term space caution salon upset";
+var mnemonic = "crew chalk label nose occur zoo actor museum snow rookie witness powder";

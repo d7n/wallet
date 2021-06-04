@@ -1,1 +1,1 @@
-var mnemonic = "open poverty answer napkin review fresh else system estate cake panic jungle";
+var mnemonic = "echo above coral fancy outdoor equal scare broken cup observe below able";

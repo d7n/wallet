@@ -1,1 +1,1 @@
-var mnemonic = "april stock attend earth stumble once wreck demise time pigeon engine mimic";
+var mnemonic = "private ceiling amateur cat kite orbit hurdle corn ride prosper material globe";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp usage build essence engine degree under assume broken acquire put race";
+var mnemonic = "resource awake initial fiscal curtain antique usage account damp survey truck arrow";

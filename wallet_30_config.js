@@ -1,1 +1,1 @@
-var mnemonic = "need inner large autumn gold fantasy buddy midnight million cart broken figure";
+var mnemonic = "focus gaze sheriff frozen owner drift opera frame dinner sure glimpse key";

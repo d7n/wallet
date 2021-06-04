@@ -1,1 +1,1 @@
-var mnemonic = "crime primary walnut industry jewel hybrid neck grid party spirit pig royal";
+var mnemonic = "inform parade panther unveil young filter picture sample gold scorpion envelope thunder";

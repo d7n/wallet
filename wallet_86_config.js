@@ -1,1 +1,1 @@
-var mnemonic = "keen chef lake recycle feel oak garage teach prevent math coconut cricket";
+var mnemonic = "control detail blossom diagram paper income act sugar trophy corn plunge notice";

@@ -1,1 +1,1 @@
-var mnemonic = "timber feel vague health flower crawl sausage enable scale group crime bike";
+var mnemonic = "recycle wasp huge envelope rural weapon garage fall best dentist either fold";

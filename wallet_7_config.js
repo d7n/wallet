@@ -1,1 +1,1 @@
-var mnemonic = "advance spend soup axis fit twelve enemy crouch visit service blood humble";
+var mnemonic = "valley verify ship bachelor obvious sister early arctic congress correct actress earth";

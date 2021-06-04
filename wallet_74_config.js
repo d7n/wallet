@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cage head female punch absent festival possible before core paper illness";
+var mnemonic = "casino into apart movie craft wagon coconut harbor cluster stove banner total";

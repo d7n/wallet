@@ -1,1 +1,1 @@
-var mnemonic = "hole imitate harsh crisp crash service muffin laptop soldier aspect poet glass";
+var mnemonic = "jungle cause control feed fashion rural phrase own gasp position profit regular";

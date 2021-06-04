@@ -1,1 +1,1 @@
-var mnemonic = "october famous boil canyon fog tilt traffic chronic join fat afford else";
+var mnemonic = "sock ready damp tonight large sorry pattern mercy left sustain frequent door";

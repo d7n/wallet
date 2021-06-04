@@ -1,1 +1,1 @@
-var mnemonic = "odor alley trick auction suspect work link awful science sign chef turn";
+var mnemonic = "suggest figure please raise mean leopard able lottery when robust carry bean";

@@ -1,1 +1,1 @@
-var mnemonic = "myth system safe giggle mind auto unfair lunch curious hidden trim thing";
+var mnemonic = "room garage entry sure holiday amount valley diesel flag like safe render";

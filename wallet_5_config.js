@@ -1,1 +1,1 @@
-var mnemonic = "renew cattle scrub obey glove hobby example example change bean over gentle";
+var mnemonic = "bone hedgehog connect total aerobic indoor pen crater brush miracle expire speed";

@@ -1,1 +1,1 @@
-var mnemonic = "culture youth drop diet negative end document matrix woman topic picture good";
+var mnemonic = "eye elegant gloom torch tooth siege inquiry ankle fox punch lottery coast";

@@ -1,1 +1,1 @@
-var mnemonic = "blade act foam cabbage upon place riot permit settle weather cross labor";
+var mnemonic = "number silly broccoli accuse rookie claim awkward arrange follow allow elbow bottom";

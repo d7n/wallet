@@ -1,1 +1,1 @@
-var mnemonic = "cherry disease olive nasty dolphin anxiety hill vicious federal debate kite orange";
+var mnemonic = "purpose ice invest visit portion explain tent uncover milk edge kingdom layer";

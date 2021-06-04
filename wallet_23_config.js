@@ -1,1 +1,1 @@
-var mnemonic = "vacuum burden eternal airport reform suspect truck pudding build address elder parrot";
+var mnemonic = "alter worth plunge burden odor suffer tower become size visa behind once";

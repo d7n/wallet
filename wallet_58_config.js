@@ -1,1 +1,1 @@
-var mnemonic = "hundred zone judge ridge slam bike amused gadget bless enjoy rug fork";
+var mnemonic = "pulp edit sugar unaware dynamic dumb report erase female effort taxi put";
