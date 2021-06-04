@@ -1,1 +1,1 @@
-var mnemonic = "decade few board wreck shift pencil bulb more useful layer noble roof";
+var mnemonic = "quarter better manage rough mansion member snap east quote filter inner detect";

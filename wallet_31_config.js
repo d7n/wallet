@@ -1,1 +1,1 @@
-var mnemonic = "update rib truth rival skill focus error wool notable thing resource judge";
+var mnemonic = "open shell between practice latin client wait question window shuffle disorder auction";

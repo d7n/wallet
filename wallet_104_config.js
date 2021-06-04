@@ -1,1 +1,1 @@
-var mnemonic = "plastic dog pig jazz eager ignore derive fortune soccer busy this cost";
+var mnemonic = "final guard present soon caution cotton push dose effort zoo garage another";

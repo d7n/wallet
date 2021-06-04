@@ -1,1 +1,1 @@
-var mnemonic = "onion list original craft magnet glue portion arena topic replace just ramp";
+var mnemonic = "capital elbow exercise gallery peanut cart sting flush dutch claim alone symbol";

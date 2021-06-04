@@ -1,1 +1,1 @@
-var mnemonic = "save ordinary across yard jaguar truth wool false annual fan now quote";
+var mnemonic = "owner patrol disagree oven prize exile almost chest husband turtle remind female";

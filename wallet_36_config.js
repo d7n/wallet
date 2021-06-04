@@ -1,1 +1,1 @@
-var mnemonic = "brave buffalo style audit member olive ritual consider hen stumble obscure brush";
+var mnemonic = "silly large broccoli air manual awake price album control awesome deliver negative";

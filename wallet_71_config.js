@@ -1,1 +1,1 @@
-var mnemonic = "refuse oxygen execute notice wise trial brain endorse combine mix truly clock";
+var mnemonic = "absurd pluck problem future detail wish material fatigue devote bacon guard electric";

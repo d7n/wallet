@@ -1,1 +1,1 @@
-var mnemonic = "egg shock attend magnet better pyramid wedding opera lunar flash blue disorder";
+var mnemonic = "bleak work blame flash sure middle soon harvest drive immense cube subject";

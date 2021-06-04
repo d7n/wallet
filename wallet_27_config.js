@@ -1,1 +1,1 @@
-var mnemonic = "nothing digital hockey undo multiply below insect blanket rate reveal galaxy scare";
+var mnemonic = "accident example path cushion essay pledge health ticket tonight stock buyer frown";

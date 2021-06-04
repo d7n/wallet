@@ -1,1 +1,1 @@
-var mnemonic = "exhibit setup prepare black visual ride essence west work aisle parade elite";
+var mnemonic = "olive mammal carpet chest trim chimney pioneer man current silk company small";

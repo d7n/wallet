@@ -1,1 +1,1 @@
-var mnemonic = "price vendor orange tired uphold pool pencil fame phrase burger pulse extend";
+var mnemonic = "office glad venture trade slow sound office truth culture angle dust galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "daring lemon season moral oppose tumble ice next gossip suit picture major";
+var mnemonic = "scorpion labor moon runway mutual term urban hawk vocal hedgehog frozen width";

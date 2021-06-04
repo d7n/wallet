@@ -1,1 +1,1 @@
-var mnemonic = "tip bike hood spatial resource electric cave forward hen parrot abuse magic";
+var mnemonic = "ridge unusual forget burden parent mail merit reject shove leader tortoise hazard";

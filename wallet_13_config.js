@@ -1,1 +1,1 @@
-var mnemonic = "creek globe misery arrive exile kid circle element sport decorate truck drum";
+var mnemonic = "question gadget runway crop write keen inject engage bamboo sort oblige click";

@@ -1,1 +1,1 @@
-var mnemonic = "better garbage enrich rice grow artwork require hair rent fashion stock glove";
+var mnemonic = "entire convince peasant sketch hood candy banana correct gym rifle fuel observe";

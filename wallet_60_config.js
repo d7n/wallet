@@ -1,1 +1,1 @@
-var mnemonic = "hockey spice wink weapon antenna garage weather immune grocery true inside patrol";
+var mnemonic = "motion movie vibrant dream female rail era crunch victory sick globe prize";

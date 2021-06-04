@@ -1,1 +1,1 @@
-var mnemonic = "accuse coil dwarf slide amused during estate source word program parade mosquito";
+var mnemonic = "solar pledge tortoise biology december luggage rotate text raccoon normal hip wide";

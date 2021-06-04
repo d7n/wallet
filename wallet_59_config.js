@@ -1,1 +1,1 @@
-var mnemonic = "until chase teach fashion gravity creek melody castle sock push pigeon truly";
+var mnemonic = "cup silk sand siege spider noodle spare raise spoil eagle reform inject";

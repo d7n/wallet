@@ -1,1 +1,1 @@
-var mnemonic = "police history obey panther key spring walnut sea payment figure spider blind";
+var mnemonic = "wish music sick crystal empty mirror outdoor oak regular review nest cabin";

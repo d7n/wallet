@@ -1,1 +1,1 @@
-var mnemonic = "bus grit silk manual cage salon wear course ring rapid seven snake";
+var mnemonic = "tomorrow consider defense sense today bring property critic clutch guard alley protect";

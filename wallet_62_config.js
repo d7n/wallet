@@ -1,1 +1,1 @@
-var mnemonic = "knock twist master relax group blind slice oyster gravity chef question alien";
+var mnemonic = "owner film daring mesh orbit cousin expose chicken play sorry curve funny";

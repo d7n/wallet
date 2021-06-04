@@ -1,1 +1,1 @@
-var mnemonic = "drama van combine dove fly two forest symptom into candy car gasp";
+var mnemonic = "slush supreme mushroom route industry cause major plastic term win unfold pave";

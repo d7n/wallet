@@ -1,1 +1,1 @@
-var mnemonic = "pelican trick novel receive catalog assume cousin extend fiscal solar hunt supply";
+var mnemonic = "caution anchor cannon setup enhance shadow material gossip major attitude senior choose";

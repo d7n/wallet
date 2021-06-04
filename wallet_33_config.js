@@ -1,1 +1,1 @@
-var mnemonic = "cheese leg gown awkward swing infant during thank cradle final much timber";
+var mnemonic = "fruit orphan annual test tornado valid update federal oblige clerk notice observe";

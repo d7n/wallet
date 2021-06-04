@@ -1,1 +1,1 @@
-var mnemonic = "rabbit aim basket comic put lobster clarify tourist milk fresh secret virus";
+var mnemonic = "art teach over harvest blast pig symptom remove square cat creek warm";

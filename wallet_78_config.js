@@ -1,1 +1,1 @@
-var mnemonic = "aware maximum token piece blouse upgrade feed slow height behave erase that";
+var mnemonic = "tuna nothing harvest drive bounce tissue plastic dove robot electric casino side";

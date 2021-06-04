@@ -1,1 +1,1 @@
-var mnemonic = "father rice error wool dawn dad lamp door spot sword harvest give";
+var mnemonic = "road veteran story sun brass path excess patient undo ethics language scatter";

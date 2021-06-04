@@ -1,1 +1,1 @@
-var mnemonic = "source seven ignore amount weapon orphan post glove click scene drop gasp";
+var mnemonic = "myself scale hood across win pupil toss during caught offer soda person";

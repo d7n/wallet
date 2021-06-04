@@ -1,1 +1,1 @@
-var mnemonic = "bronze enable soccer reform side wrong uncle dilemma rack jealous library regular";
+var mnemonic = "cruise service love position indoor alley section brain bench drama hope prevent";

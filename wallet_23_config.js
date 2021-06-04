@@ -1,1 +1,1 @@
-var mnemonic = "slam candy roast hazard private surface quit broom legend provide bonus cube";
+var mnemonic = "illness feed arrive slab nature exist purse genre grid similar ladder power";

@@ -1,1 +1,1 @@
-var mnemonic = "latin device little cheap swallow slogan grape canoe erase pond night relief";
+var mnemonic = "blossom sun file catch swear market digital lottery helmet juice patch armor";

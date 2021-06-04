@@ -1,1 +1,1 @@
-var mnemonic = "develop dice extra pact unveil rabbit sea near near sad state silent";
+var mnemonic = "inflict volcano average settle agent blast tide eternal slab bachelor either this";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow toward derive safe submit own guess west glue fish lens trash";
+var mnemonic = "rigid bird course student dinner chase churn calm vibrant bubble scare analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor human ready travel nasty stage depth voice admit spoon damp path";
+var mnemonic = "whisper inside cake achieve absurd enjoy dog vapor derive know foster spike";

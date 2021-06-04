@@ -1,1 +1,1 @@
-var mnemonic = "document frozen captain wild labor source sign clog civil behave brown weapon";
+var mnemonic = "finger save wrist domain reveal scissors garage giraffe phrase satoshi innocent oak";

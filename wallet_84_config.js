@@ -1,1 +1,1 @@
-var mnemonic = "connect antique cart arrive project foot zone field stone tail burden mask";
+var mnemonic = "employ solve apart surround trick easily abandon vocal require wonder lottery record";

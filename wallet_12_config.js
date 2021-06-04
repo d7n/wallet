@@ -1,1 +1,1 @@
-var mnemonic = "erode frame error oppose monkey soccer whisper pig orbit laptop eternal coast";
+var mnemonic = "sand harsh denial wrist antenna grant awkward lava bottom verify desk remember";

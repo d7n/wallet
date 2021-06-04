@@ -1,1 +1,1 @@
-var mnemonic = "tube layer labor box skull collect gaze resist quick matter decorate online";
+var mnemonic = "arrange fever mystery push solve cart card chicken elite parrot hard nest";

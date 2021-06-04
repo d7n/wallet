@@ -1,1 +1,1 @@
-var mnemonic = "space dice bubble sight sphere into cable educate crumble walk cost stove";
+var mnemonic = "brave forward spawn razor mystery urge front valley sword domain phone weapon";

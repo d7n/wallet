@@ -1,1 +1,1 @@
-var mnemonic = "display tool theory blossom strategy maid safe amateur glove jazz angry expect";
+var mnemonic = "brass hunt trip discover slender leg famous bunker window economy style anchor";

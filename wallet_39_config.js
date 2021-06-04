@@ -1,1 +1,1 @@
-var mnemonic = "advice ghost sunny surge asset biology laptop patrol shove warm rather affair";
+var mnemonic = "genius gasp eight corn oil spin shield kitchen include benefit flat whale";

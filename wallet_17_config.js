@@ -1,1 +1,1 @@
-var mnemonic = "topple floor test maximum bracket people salad sister author champion one despair";
+var mnemonic = "nice portion unveil dust huge forum panic increase club erupt clown daring";

@@ -1,1 +1,1 @@
-var mnemonic = "weird stock protect that artwork globe donate fantasy property margin summer actual";
+var mnemonic = "just local crisp attitude under increase seek spend betray bar feel save";

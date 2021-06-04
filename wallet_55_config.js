@@ -1,1 +1,1 @@
-var mnemonic = "lamp minor step fluid oblige marriage quiz plastic doll emotion repair universe";
+var mnemonic = "cake strike gas broccoli reunion tuna ecology tribe burger sustain split worry";

@@ -1,1 +1,1 @@
-var mnemonic = "misery found surround rich kiss blind worry crucial south endorse try track";
+var mnemonic = "slim bleak swift skirt resemble wide imitate corn panic moon twin way";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity front pigeon leopard humble smart raven sunset furnace heavy maze asset";
+var mnemonic = "gentle decide pause castle arena hat immense cave drive arch claim eager";

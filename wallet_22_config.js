@@ -1,1 +1,1 @@
-var mnemonic = "nothing sort immense midnight tiny supreme draft cart fiction unusual truck excess";
+var mnemonic = "venture eternal grass guide rug swamp castle there have monster age couch";

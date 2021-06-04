@@ -1,1 +1,1 @@
-var mnemonic = "robot vacant attract couple eager intact cry limb plug palace unit sheriff";
+var mnemonic = "lunar miracle cave margin canoe sugar innocent awesome correct morning gasp step";

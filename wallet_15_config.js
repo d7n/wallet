@@ -1,1 +1,1 @@
-var mnemonic = "sting seven dentist rib pond loud panda decide quarter drill silly height";
+var mnemonic = "treat pipe spider clutch unable rigid true ribbon subject morning donkey pencil";

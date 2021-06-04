@@ -1,1 +1,1 @@
-var mnemonic = "ill cushion embrace front season addict fitness radio village toe update wheel";
+var mnemonic = "few garbage rural click boring night forward quantum city weapon race outer";

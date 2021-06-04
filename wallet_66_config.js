@@ -1,1 +1,1 @@
-var mnemonic = "depth lecture pulp flame sail letter labor stereo axis frequent figure beach";
+var mnemonic = "climb maid ranch another ankle lens hub shoulder talk album tiny mango";

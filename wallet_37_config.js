@@ -1,1 +1,1 @@
-var mnemonic = "process mother walk dial cluster movie problem vote quality census sign leaf";
+var mnemonic = "rain mobile clock print clean staff luggage indoor cloud ahead angle champion";

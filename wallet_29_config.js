@@ -1,1 +1,1 @@
-var mnemonic = "bench unusual possible three quiz misery actor what area fee unknown fossil";
+var mnemonic = "render sail equal shrimp amazing cheese cover game rack egg large blame";

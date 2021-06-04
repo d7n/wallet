@@ -1,1 +1,1 @@
-var mnemonic = "depth retire yard enough rookie gasp neglect brush rebuild dismiss weird chair";
+var mnemonic = "dutch tray drama title today oblige ghost apple bomb since kite marine";

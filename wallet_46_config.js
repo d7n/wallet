@@ -1,1 +1,1 @@
-var mnemonic = "timber true violin black hurdle explain space goat rebuild shrug police excess";
+var mnemonic = "typical step shiver flame cover simple lunar topic wild slide monkey skirt";

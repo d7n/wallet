@@ -1,1 +1,1 @@
-var mnemonic = "expose spin beauty patch scout lucky sort awesome review volcano hood raise";
+var mnemonic = "bracket top legal safe egg next stem protect quality foam cause mistake";

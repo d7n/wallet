@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow small foam side tribe enlist number avoid bus surface donate pledge";
+var mnemonic = "guilt inner lunch muffin pumpkin old neck print case page render wash";

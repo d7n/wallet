@@ -1,1 +1,1 @@
-var mnemonic = "vast mixture kind know fix feel game forward lawsuit crack treat scale";
+var mnemonic = "surge siren elephant hat grow soup width scan ridge bleak clarify decide";

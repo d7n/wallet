@@ -1,1 +1,1 @@
-var mnemonic = "sick slush put reason observe hand praise beach badge cross fetch spot";
+var mnemonic = "cargo torch elder march concert usual sustain genre peace thing coil trim";

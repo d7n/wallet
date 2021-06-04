@@ -1,1 +1,1 @@
-var mnemonic = "omit street sell manual police arrive dove dawn decorate iron glare proud";
+var mnemonic = "confirm must trophy survey payment unlock polar skirt budget chapter raw allow";

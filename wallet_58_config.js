@@ -1,1 +1,1 @@
-var mnemonic = "service park pencil visa vivid silent fever interest model wine protect true";
+var mnemonic = "dish seat come blood nut hazard pear knock crisp unable catch trial";

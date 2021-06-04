@@ -1,1 +1,1 @@
-var mnemonic = "legal decide protect isolate spot nuclear blast eagle fiction elevator buzz duty";
+var mnemonic = "view seek rebel volume dismiss organ injury ice name survey crane tube";

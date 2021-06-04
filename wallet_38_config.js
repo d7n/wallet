@@ -1,1 +1,1 @@
-var mnemonic = "update century fox sword person oxygen service laundry purse tattoo copper vote";
+var mnemonic = "ribbon life vibrant donkey garlic bridge brave outer term lottery post victory";

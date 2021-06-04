@@ -1,1 +1,1 @@
-var mnemonic = "unusual piece era answer plate demand purse crack tooth decorate kind affair";
+var mnemonic = "wall vehicle robot stadium slide federal link tray toy design fox awful";

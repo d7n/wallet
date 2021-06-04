@@ -1,1 +1,1 @@
-var mnemonic = "when subway stable swarm economy disease fitness drill gentle nephew weapon glare";
+var mnemonic = "sand topple decrease twin grow render blush detail danger van ball timber";

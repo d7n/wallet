@@ -1,1 +1,1 @@
-var mnemonic = "rather rebuild satoshi punch flash electric ethics copper neck south now crisp";
+var mnemonic = "express south jazz please soul sweet six average call gesture alley praise";

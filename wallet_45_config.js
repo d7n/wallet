@@ -1,1 +1,1 @@
-var mnemonic = "fence butter wash student urban modify behind steak coast foil gossip this";
+var mnemonic = "inform wheat exhaust coyote nerve swallow melody beef battle pumpkin cattle alter";

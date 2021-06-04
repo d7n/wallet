@@ -1,1 +1,1 @@
-var mnemonic = "deliver monkey lounge gallery impact film issue expire keep ostrich doctor pink";
+var mnemonic = "garbage else screen key spawn tuna purpose february eye champion pistol illegal";

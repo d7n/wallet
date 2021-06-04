@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cruise monkey congress select logic exhibit this spring wait frozen weasel";
+var mnemonic = "option negative random vapor discover depend path earn lounge sample deal cycle";

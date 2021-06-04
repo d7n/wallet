@@ -1,1 +1,1 @@
-var mnemonic = "cannon tobacco famous wall piece auto lizard nurse plunge flower belt regret";
+var mnemonic = "fame tag give inject genius attract provide fault rural process aerobic decrease";

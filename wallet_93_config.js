@@ -1,1 +1,1 @@
-var mnemonic = "color race again couple soul surface tourist beach snake clay cluster song";
+var mnemonic = "lawsuit trend deposit roast clay accident cave wear brand artwork float broom";

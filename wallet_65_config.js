@@ -1,1 +1,1 @@
-var mnemonic = "dress carry knife pull glue eager crouch gasp return era life lemon";
+var mnemonic = "coin spider exit series inject display unaware unfold release pigeon trumpet resource";

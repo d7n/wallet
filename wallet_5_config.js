@@ -1,1 +1,1 @@
-var mnemonic = "hat suspect grace pluck similar spoil paddle boat gaze observe mail include";
+var mnemonic = "recipe prefer essay nation logic gauge galaxy garden spot mosquito era sand";

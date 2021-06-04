@@ -1,1 +1,1 @@
-var mnemonic = "nation dose tone spy damage shoot swallow strategy bar mouse cheap twelve";
+var mnemonic = "wire diamond labor satoshi pretty dance gym can bench raise girl emotion";

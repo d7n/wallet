@@ -1,1 +1,1 @@
-var mnemonic = "globe debate bind shaft draft pudding fun knee govern bitter orient embody";
+var mnemonic = "vote brown pony tide baby trigger angry feed note smoke repair broken";

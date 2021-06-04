@@ -1,1 +1,1 @@
-var mnemonic = "suffer wife leave vote favorite valley dumb toilet amount cash cross video";
+var mnemonic = "reduce saddle slot lizard pride zero praise beach cute unfold morning scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze tooth loop edge stock wool gap fatigue tackle laundry twenty glass";
+var mnemonic = "goose siren coral hen ancient broken entry page draft vicious goddess marble";

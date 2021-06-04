@@ -1,1 +1,1 @@
-var mnemonic = "west replace patient crazy memory proud fortune stool crisp message powder unit";
+var mnemonic = "amused rose sleep exotic balcony calm farm bar cave ill breeze verb";

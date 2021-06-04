@@ -1,1 +1,1 @@
-var mnemonic = "eight crucial glove fantasy bike bunker movie mushroom spy erode say innocent";
+var mnemonic = "woman vessel access damage pencil portion proof illness alien south half team";

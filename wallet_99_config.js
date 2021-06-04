@@ -1,1 +1,1 @@
-var mnemonic = "dragon congress impact music fuel trumpet winner night dawn stadium cry witness";
+var mnemonic = "coyote move addict rug tray fever liberty grant exist obey decline pattern";

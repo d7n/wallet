@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tell brother plunge moon faculty involve travel call rebel silver romance";
+var mnemonic = "little lunar slight forget book dry slide bamboo album load script float";

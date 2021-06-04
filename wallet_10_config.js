@@ -1,1 +1,1 @@
-var mnemonic = "lobster melody mix trigger tower direct attend wasp anchor romance mosquito rhythm";
+var mnemonic = "category group ignore school public caution then curious outdoor street coach minor";

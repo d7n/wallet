@@ -1,1 +1,1 @@
-var mnemonic = "wet silly plunge bench romance erosion couple auction holiday black monitor april";
+var mnemonic = "faint ice then eye bus owner robot beyond saddle hard mercy pumpkin";

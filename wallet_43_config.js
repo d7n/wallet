@@ -1,1 +1,1 @@
-var mnemonic = "legal average dolphin gather teach oblige cluster undo buddy luggage radar employ";
+var mnemonic = "shuffle among output tennis quote ramp choose scan chief retire warrior blue";

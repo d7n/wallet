@@ -1,1 +1,1 @@
-var mnemonic = "toy good match maple excuse memory change skin year album throw option";
+var mnemonic = "agent prosper shuffle victory rebel woman pear promote dynamic endorse sound warfare";

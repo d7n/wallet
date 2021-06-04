@@ -1,1 +1,1 @@
-var mnemonic = "visual emerge clinic ivory lift consider brain night option fatal mirror blush";
+var mnemonic = "nature trust gold dutch decide action jewel vintage blouse armor discover chief";

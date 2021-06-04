@@ -1,1 +1,1 @@
-var mnemonic = "grief capital hip trigger cargo usual eight broccoli canyon juice mobile noise";
+var mnemonic = "private garden drop stock draw viable insect fruit document sport domain winner";

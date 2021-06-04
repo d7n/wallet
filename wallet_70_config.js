@@ -1,1 +1,1 @@
-var mnemonic = "skull burden lecture once help gold spend chunk collect treat common chair";
+var mnemonic = "notable edit grief among wrap surge jewel torch false borrow boss memory";

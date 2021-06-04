@@ -1,1 +1,1 @@
-var mnemonic = "stove defense inquiry ask hobby civil identify flight roast simple copy manual";
+var mnemonic = "near essence thank armor arctic eager observe inside desk enough soon correct";

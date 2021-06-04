@@ -1,1 +1,1 @@
-var mnemonic = "trial problem enact oyster mean gloom mercy true sea spoil impose debris";
+var mnemonic = "skull humble turn arrow thing slush arm echo defy ridge picture capital";

@@ -1,1 +1,1 @@
-var mnemonic = "minute board surround soda cement decade expect brick hundred camp solution foam";
+var mnemonic = "conduct coil suggest raw noble disease toy provide diagram math child follow";

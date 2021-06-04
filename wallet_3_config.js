@@ -1,1 +1,1 @@
-var mnemonic = "gesture trick quarter peace tongue laptop strike nation strategy discover item adapt";
+var mnemonic = "tonight carpet private person marine song march brown employ copy core enlist";
