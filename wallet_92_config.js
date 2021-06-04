@@ -1,1 +1,1 @@
-var mnemonic = "nest mobile clump frequent romance act square pistol cupboard skin curious adjust";
+var mnemonic = "story merit home scare ribbon call alley moral boat senior discover slim";

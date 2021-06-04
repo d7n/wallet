@@ -1,1 +1,1 @@
-var mnemonic = "you cluster panel visit trumpet stamp recall essence genre novel have battle";
+var mnemonic = "song cable achieve alpha angle minimum van couch cinnamon helmet stage spider";

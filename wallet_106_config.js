@@ -1,1 +1,1 @@
-var mnemonic = "draft around zero link ceiling nephew label rely spawn suspect mean clerk";
+var mnemonic = "drastic lawsuit heart bargain play sock coach decline disagree people enact autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "wish vague velvet garlic crush chimney decrease rug protect damp element supreme";
+var mnemonic = "clay mule trouble empty speak lift holiday group ski harsh happy stand";

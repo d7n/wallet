@@ -1,1 +1,1 @@
-var mnemonic = "caught draft library provide defy border one rent science clip hazard label";
+var mnemonic = "method hungry similar entire render shoot frozen tattoo bike case sound sample";

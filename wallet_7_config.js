@@ -1,1 +1,1 @@
-var mnemonic = "fish angle oppose giant oblige brush brand steak celery wonder night label";
+var mnemonic = "coconut level talent gesture maze target target together circle alpha choice twice";

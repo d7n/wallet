@@ -1,1 +1,1 @@
-var mnemonic = "youth plastic magnet relax virus appear buddy print bleak ship cotton food";
+var mnemonic = "wage clinic easily knee caught remain across toss act master attitude brown";

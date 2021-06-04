@@ -1,1 +1,1 @@
-var mnemonic = "genius point purse fruit early february crumble before pigeon track wish travel";
+var mnemonic = "confirm swamp indicate worry fresh trip eager cram comfort cigar clerk save";

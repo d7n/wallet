@@ -1,1 +1,1 @@
-var mnemonic = "actor cable toward artwork boss theory flight become eagle wrist snake neither";
+var mnemonic = "twin they laptop recall jump inside smoke occur business they cheese scatter";

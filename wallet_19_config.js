@@ -1,1 +1,1 @@
-var mnemonic = "follow useless list ginger buddy remind start elevator lizard venture time great";
+var mnemonic = "crucial daring public illegal stairs range slight bean ice badge field arrow";

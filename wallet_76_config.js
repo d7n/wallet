@@ -1,1 +1,1 @@
-var mnemonic = "hurdle wedding half frog replace huge where tired render supply end venue";
+var mnemonic = "gauge vintage jar please envelope grocery sketch toe shaft solution weasel horse";

@@ -1,1 +1,1 @@
-var mnemonic = "fame brass acoustic domain image mad dilemma detail target wolf capable loop";
+var mnemonic = "fatal damp direct include stuff come gossip crawl work romance release heavy";

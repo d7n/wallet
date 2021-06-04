@@ -1,1 +1,1 @@
-var mnemonic = "acid enemy decorate impact ethics airport girl birth peace gain mail coach";
+var mnemonic = "fossil tuna build color regular danger endorse then shed neck answer jelly";

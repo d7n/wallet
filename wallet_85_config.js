@@ -1,1 +1,1 @@
-var mnemonic = "day force fuel trigger surface unhappy witness letter detail timber glance regret";
+var mnemonic = "business trend harsh until wet fold finger peasant science brave seed donate";

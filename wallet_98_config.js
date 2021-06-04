@@ -1,1 +1,1 @@
-var mnemonic = "green whip luxury grain tomorrow inflict bottom donkey elbow dial pulse shell";
+var mnemonic = "nominee dawn illness license inform depend wall tilt palace task tumble traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "noise aspect pilot scatter quick twice problem void verb index brisk clever";
+var mnemonic = "vote tomorrow ozone unaware word differ furnace jelly drop quantum real indicate";

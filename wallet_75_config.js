@@ -1,1 +1,1 @@
-var mnemonic = "much food human benefit question bench rare asthma drift hair divorce wrong";
+var mnemonic = "school grid giraffe camera parade seed mountain clinic olive maximum fly aunt";

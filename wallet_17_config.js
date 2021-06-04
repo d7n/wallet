@@ -1,1 +1,1 @@
-var mnemonic = "gate supply afraid layer produce patch replace include solution anger bright error";
+var mnemonic = "obscure sell prevent element question advance sing lecture milk brave town essay";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi gain dad hotel frequent mercy tunnel pluck december target drastic jacket";
+var mnemonic = "know ripple damp slow slight upper adjust ivory coach swim twenty april";

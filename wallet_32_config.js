@@ -1,1 +1,1 @@
-var mnemonic = "stairs fetch spice bubble one spring taste almost satoshi ensure party leg";
+var mnemonic = "income menu congress suffer spike melt raccoon case dumb blossom nice bleak";

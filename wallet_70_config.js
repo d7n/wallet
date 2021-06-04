@@ -1,1 +1,1 @@
-var mnemonic = "victory convince female amused letter merge man vibrant later proof potato bracket";
+var mnemonic = "prevent bulk robot effort mistake move lizard retire vote glance creek cable";

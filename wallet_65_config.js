@@ -1,1 +1,1 @@
-var mnemonic = "rose duty spring planet couple earth immune farm bullet bunker unlock time";
+var mnemonic = "capable result dizzy seminar interest pumpkin admit sort leave smile know strike";

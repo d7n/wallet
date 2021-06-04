@@ -1,1 +1,1 @@
-var mnemonic = "improve spread produce embark castle royal finish mass aunt belt tomorrow fog";
+var mnemonic = "sure embrace bird powder radio flower foam meat swamp ketchup fiber aware";

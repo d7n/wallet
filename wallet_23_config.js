@@ -1,1 +1,1 @@
-var mnemonic = "danger swear payment pass maximum jar stage chalk arm belt popular foam";
+var mnemonic = "more duty stove divert shop language clerk behave year muffin document rose";

@@ -1,1 +1,1 @@
-var mnemonic = "finish sword glory dash budget supreme symbol armor soon credit idle yellow";
+var mnemonic = "brick ring slide subject dance road oven under pole wait cook valve";

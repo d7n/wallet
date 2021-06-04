@@ -1,1 +1,1 @@
-var mnemonic = "bag dawn debris eye cinnamon left cattle royal shuffle decorate immense shove";
+var mnemonic = "order chaos buzz critic promote exist later angry unveil foam disagree elder";

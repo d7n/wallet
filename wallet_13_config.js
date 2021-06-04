@@ -1,1 +1,1 @@
-var mnemonic = "true powder inch fiber bid forum intact spring soft tell lab chapter";
+var mnemonic = "timber shift faculty scare comic cause turn eagle hill pool auction eager";

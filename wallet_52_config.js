@@ -1,1 +1,1 @@
-var mnemonic = "vocal ability dish cry unveil inflict nuclear deer mystery announce trial shrug";
+var mnemonic = "space season heart wait glow prison stairs cupboard actor small eternal search";

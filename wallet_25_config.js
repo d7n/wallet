@@ -1,1 +1,1 @@
-var mnemonic = "sorry tray panther clip myth sorry entry aim trap depend exile spell";
+var mnemonic = "valley machine shuffle prepare aerobic legal vessel explain tell derive refuse wish";

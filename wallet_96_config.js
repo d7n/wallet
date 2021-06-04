@@ -1,1 +1,1 @@
-var mnemonic = "image style bridge truck limb obey tattoo notable beauty hockey proud rapid";
+var mnemonic = "practice wife resemble toy mammal mushroom dolphin umbrella cat attitude trigger second";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy faculty sugar december ski blur dawn burden output script visa silk";
+var mnemonic = "make blade table clip slice deliver snack club swear area spot link";

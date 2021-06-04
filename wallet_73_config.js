@@ -1,1 +1,1 @@
-var mnemonic = "window board crumble nasty solid hat network child tone start chaos display";
+var mnemonic = "scissors faith mountain grass prize ability follow enable double night job adapt";

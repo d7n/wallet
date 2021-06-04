@@ -1,1 +1,1 @@
-var mnemonic = "quiz apple language struggle theory sheriff trick digital dawn eyebrow daughter amateur";
+var mnemonic = "garden dinner correct burger render viable odor garment birth steak seminar section";

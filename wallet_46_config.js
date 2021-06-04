@@ -1,1 +1,1 @@
-var mnemonic = "pear dynamic round card input pottery shoot speak humor spoon add hobby";
+var mnemonic = "demise cost finger evoke alert cake appear rocket hood marriage season raven";

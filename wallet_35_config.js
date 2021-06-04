@@ -1,1 +1,1 @@
-var mnemonic = "gap pigeon twin crash reflect under found cross bottom simple hire drink";
+var mnemonic = "safe badge brain barrel eager sleep citizen silk kick stay alley shiver";

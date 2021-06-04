@@ -1,1 +1,1 @@
-var mnemonic = "payment void giggle future toe giant couch crash piano raccoon equal cigar";
+var mnemonic = "december popular increase spend habit desert smile able flower boy minimum stay";

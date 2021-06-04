@@ -1,1 +1,1 @@
-var mnemonic = "govern couch arrow insane smile solid burger fox design tiger squirrel seven";
+var mnemonic = "glue month tomato shield rocket gauge unknown vague chunk disorder sugar share";

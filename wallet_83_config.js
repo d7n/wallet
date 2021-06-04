@@ -1,1 +1,1 @@
-var mnemonic = "glide escape peanut rough change minimum bridge change column recall local security";
+var mnemonic = "ketchup smoke skin sausage stone into stem civil layer perfect drastic round";

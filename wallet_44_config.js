@@ -1,1 +1,1 @@
-var mnemonic = "version couple victory sting inner grid afraid raven regret real rare liquid";
+var mnemonic = "join harvest garlic crazy pause mule clump ecology hamster payment cable become";

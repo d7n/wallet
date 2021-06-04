@@ -1,1 +1,1 @@
-var mnemonic = "label child swallow art air immense state second wait fluid fold hub";
+var mnemonic = "monitor vintage galaxy runway kind time vocal rotate age brief evoke choice";

@@ -1,1 +1,1 @@
-var mnemonic = "just vote flip visual online improve lab glow bar good thrive bulb";
+var mnemonic = "tray celery pumpkin piece ability already ahead champion cram else prevent slide";

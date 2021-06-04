@@ -1,1 +1,1 @@
-var mnemonic = "video rose six word kiss cycle artist shoot junk fox thank trip";
+var mnemonic = "capital hobby top reject goose run sock canoe cement suit tornado deny";

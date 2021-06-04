@@ -1,1 +1,1 @@
-var mnemonic = "axis wrestle cricket run axis good great chuckle gallery tiny venture candy";
+var mnemonic = "bean below table wink ceiling purchase iron chaos romance boring can video";

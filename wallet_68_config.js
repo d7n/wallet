@@ -1,1 +1,1 @@
-var mnemonic = "bitter plate priority crouch distance dirt feel group thrive grow oyster victory";
+var mnemonic = "muffin turn burger embody mistake embody pill main almost among property bamboo";

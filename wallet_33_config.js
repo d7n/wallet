@@ -1,1 +1,1 @@
-var mnemonic = "camp trial gift invite abandon benefit oval combine start milk expect rack";
+var mnemonic = "shadow double dirt silver blast social burden mandate exist twin aerobic hello";

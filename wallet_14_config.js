@@ -1,1 +1,1 @@
-var mnemonic = "promote viable network gossip crouch essay minimum police fatigue edit fantasy casino";
+var mnemonic = "swamp mechanic olive large because canvas crowd inspire page aware chalk torch";

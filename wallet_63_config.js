@@ -1,1 +1,1 @@
-var mnemonic = "floor scare grant kind sight stick quote aunt bind law tower above";
+var mnemonic = "trim survey fiscal certain rose example action chat inspire water snack fiber";

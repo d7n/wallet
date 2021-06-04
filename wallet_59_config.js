@@ -1,1 +1,1 @@
-var mnemonic = "blouse wire imitate knife hybrid liar prevent mammal animal render mansion draw";
+var mnemonic = "fence myself decide mutual day measure antenna turn match solution afraid hood";

@@ -1,1 +1,1 @@
-var mnemonic = "boost engine index hobby differ sand crater blade blush announce chase marble";
+var mnemonic = "cover law lottery fire sugar breeze expire youth canvas fame quiz option";

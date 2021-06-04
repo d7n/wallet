@@ -1,1 +1,1 @@
-var mnemonic = "excess dwarf trophy weasel merit parent raven purchase debris cook any crisp";
+var mnemonic = "ritual indicate title round lawn scare wisdom attend margin cotton virtual mushroom";

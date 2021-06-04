@@ -1,1 +1,1 @@
-var mnemonic = "dress elephant true suit chat legal apart desert remind deal whip blast";
+var mnemonic = "dad refuse elder chat either admit judge choose ice used jaguar together";

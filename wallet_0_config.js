@@ -1,1 +1,1 @@
-var mnemonic = "derive save right kitten cream buffalo quick goat garbage kiwi squirrel before";
+var mnemonic = "clutch carry collect wild drum snap keen defense twelve exclude prepare violin";

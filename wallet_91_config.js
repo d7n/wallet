@@ -1,1 +1,1 @@
-var mnemonic = "kitchen prefer relief choice vivid country depend pull steel place morning predict";
+var mnemonic = "runway child reflect olive dynamic grid century share tag grain search input";

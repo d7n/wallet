@@ -1,1 +1,1 @@
-var mnemonic = "eternal spirit model shaft like february lunar crash venture orchard nice magic";
+var mnemonic = "emotion length ankle danger glove bid attract acid key confirm ethics table";

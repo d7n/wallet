@@ -1,1 +1,1 @@
-var mnemonic = "accident impact copper nerve gap unable pond recipe asthma devote manual cruise";
+var mnemonic = "design flee alcohol rhythm squeeze canal bench adjust settle require couple interest";

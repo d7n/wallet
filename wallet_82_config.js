@@ -1,1 +1,1 @@
-var mnemonic = "derive caution siren reunion snake trap rib pass shaft aim away ability";
+var mnemonic = "wood genre comfort joke seminar mirror pottery quiz exotic trap glare moon";

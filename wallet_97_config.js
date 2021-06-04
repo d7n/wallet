@@ -1,1 +1,1 @@
-var mnemonic = "elder wheel decade omit split turn appear local middle delay coast panther";
+var mnemonic = "brother bike artist correct six video album similar summer poet hundred rally";

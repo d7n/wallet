@@ -1,1 +1,1 @@
-var mnemonic = "army cube agent curious alert clever useful cash raw dynamic scissors kit";
+var mnemonic = "delay wise dawn rebel island age spy board sight believe olive flock";

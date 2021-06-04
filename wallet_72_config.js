@@ -1,1 +1,1 @@
-var mnemonic = "index party valve trim curve enemy cabin leg peace bamboo segment wreck";
+var mnemonic = "bag corn print fortune smile genre that address flavor dove dwarf napkin";

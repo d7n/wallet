@@ -1,1 +1,1 @@
-var mnemonic = "task trip tourist drama coffee pupil asthma story slim cry bus make";
+var mnemonic = "fly below diet wait just drift unaware doctor donkey symbol lucky glass";

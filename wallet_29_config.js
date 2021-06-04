@@ -1,1 +1,1 @@
-var mnemonic = "chicken dad book mobile rubber wheel shop absorb saddle resource soup bulb";
+var mnemonic = "predict open shed chef life jar genius depart bread bomb shoe health";

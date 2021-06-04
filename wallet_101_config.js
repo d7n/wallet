@@ -1,1 +1,1 @@
-var mnemonic = "battle diamond oak chapter hold dawn pioneer isolate soccer wasp place portion";
+var mnemonic = "hobby clay bid lemon seat few pen scorpion report useful heavy guitar";

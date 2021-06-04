@@ -1,1 +1,1 @@
-var mnemonic = "beach desert frame drink winter cave wedding exchange truly anxiety corn lion";
+var mnemonic = "day deny monster security husband share pitch vessel action awake bundle radar";

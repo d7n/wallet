@@ -1,1 +1,1 @@
-var mnemonic = "boat tuna record great lend achieve trip coast pill resource notice jungle";
+var mnemonic = "flash legal fork easily until fringe universe length search series tuna child";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic sausage grit happy alter sadness mirror scout shed brother velvet share";
+var mnemonic = "rule alter tired major nothing proof cliff category ten famous quit belt";

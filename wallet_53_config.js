@@ -1,1 +1,1 @@
-var mnemonic = "flush gallery admit rigid train this depart answer mention throw bracket width";
+var mnemonic = "soap logic card century swift boat mobile amused bicycle awesome rabbit camera";

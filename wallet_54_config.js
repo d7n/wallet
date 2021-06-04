@@ -1,1 +1,1 @@
-var mnemonic = "rival clap fee situate aunt bicycle manual tongue vital grain text fitness";
+var mnemonic = "eye maze where outer describe roast faculty cat decide maze chalk carbon";

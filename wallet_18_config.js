@@ -1,1 +1,1 @@
-var mnemonic = "book antenna domain spread vital voyage planet consider measure black dentist become";
+var mnemonic = "level code busy garage grow raccoon apple destroy twice feature insect boring";

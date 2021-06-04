@@ -1,1 +1,1 @@
-var mnemonic = "mad neutral upset witness trick arrow return design alien wise pelican gloom";
+var mnemonic = "system bounce shoulder dove wave broccoli prison aim swarm elite lesson alone";

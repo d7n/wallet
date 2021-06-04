@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo person fluid depend this edit month solve fitness absurd slab menu";
+var mnemonic = "labor relief lift deliver move other work method dove family phone west";

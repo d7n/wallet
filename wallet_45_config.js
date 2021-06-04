@@ -1,1 +1,1 @@
-var mnemonic = "baby idle soldier wrestle awkward strategy file happy sick walnut mimic inner";
+var mnemonic = "wear reopen present clerk pull trend poet poem logic tone catalog library";

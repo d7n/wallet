@@ -1,1 +1,1 @@
-var mnemonic = "lemon average leisure roof fish shoot pyramid access enhance goddess fortune middle";
+var mnemonic = "combine unfold worth obscure improve zebra energy alien coconut crash thought plug";

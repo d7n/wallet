@@ -1,1 +1,1 @@
-var mnemonic = "cloud tank great hurdle they voice idle annual balcony butter exchange broken";
+var mnemonic = "height city silk again order lottery ethics gentle jazz sell pen group";

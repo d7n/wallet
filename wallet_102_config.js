@@ -1,1 +1,1 @@
-var mnemonic = "sunny industry coil inspire project dove around sun perfect tilt roast neck";
+var mnemonic = "clever valve wrist rally quality adapt mobile absurd equip winter symbol become";

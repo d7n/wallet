@@ -1,1 +1,1 @@
-var mnemonic = "lab primary snack actor east dilemma arm lizard correct palm lobster quote";
+var mnemonic = "grit satoshi unveil punch onion climb assist salute kiwi unaware swear brief";

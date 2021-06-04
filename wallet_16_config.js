@@ -1,1 +1,1 @@
-var mnemonic = "volume slab million opinion zone sniff fluid devote glass simple pattern wait";
+var mnemonic = "liquid unit range raven bind gravity sleep priority lyrics bomb giggle special";

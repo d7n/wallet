@@ -1,1 +1,1 @@
-var mnemonic = "certain wisdom you matter silver secret just canoe hospital exhaust mother half";
+var mnemonic = "aspect upper impose must crowd involve sniff gold endorse negative start another";

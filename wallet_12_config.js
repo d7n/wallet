@@ -1,1 +1,1 @@
-var mnemonic = "chef cupboard sorry rural conduct charge auto market silver dove august employ";
+var mnemonic = "keep sunny labor marriage milk unique myself again possible glove elephant where";

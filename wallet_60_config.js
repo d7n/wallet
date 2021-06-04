@@ -1,1 +1,1 @@
-var mnemonic = "human debris apple frozen bag torch unique scrub dune pond pluck father";
+var mnemonic = "often youth swim blossom exile envelope man farm smooth they fancy present";

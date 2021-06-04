@@ -1,1 +1,1 @@
-var mnemonic = "carpet day spot large dust knee quote pulse truck lawn wink cherry";
+var mnemonic = "mimic stick aspect eternal arrive moon anchor dress energy next frost meat";

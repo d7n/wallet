@@ -1,1 +1,1 @@
-var mnemonic = "fury accident physical mail lunar knock injury pipe patient dutch delay almost";
+var mnemonic = "number write chapter shadow layer quantum famous blast renew game dry process";

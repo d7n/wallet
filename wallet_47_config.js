@@ -1,1 +1,1 @@
-var mnemonic = "biology color admit oven update upgrade harsh large expect cabbage coral decrease";
+var mnemonic = "hybrid fabric gain crawl garage raise little carry season sail orphan orient";

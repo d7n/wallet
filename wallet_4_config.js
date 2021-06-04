@@ -1,1 +1,1 @@
-var mnemonic = "best reward fish fitness warm smart axis scissors hair rival mandate limb";
+var mnemonic = "cradle bachelor group bubble asset merge aim antique promote student put critic";

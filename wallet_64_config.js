@@ -1,1 +1,1 @@
-var mnemonic = "bounce pair kidney stuff rabbit busy hen random fetch donor recall absurd";
+var mnemonic = "pretty tilt object fold project barrel bike mystery spell observe afraid angry";

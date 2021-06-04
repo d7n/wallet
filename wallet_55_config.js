@@ -1,1 +1,1 @@
-var mnemonic = "smooth ready afraid duty tag evolve bar crisp spider submit nature rare";
+var mnemonic = "improve have rapid song fetch opera random dismiss canoe goose crater empower";

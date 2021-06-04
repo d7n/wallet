@@ -1,1 +1,1 @@
-var mnemonic = "swallow boy goddess barely river garlic client scissors laundry address effort dream";
+var mnemonic = "library filter chapter mask glide regret flip unusual right smooth indicate peanut";

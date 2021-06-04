@@ -1,1 +1,1 @@
-var mnemonic = "crush enable crisp rookie brown where myth denial review deposit piece pepper";
+var mnemonic = "act surprise pink tooth pact long lottery lamp embark zone wrong assault";

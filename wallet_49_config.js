@@ -1,1 +1,1 @@
-var mnemonic = "idea play offer pelican ticket deputy very address exhibit script jacket enable";
+var mnemonic = "fame remove put way kid tilt agent know surge party hub diesel";

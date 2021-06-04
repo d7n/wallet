@@ -1,1 +1,1 @@
-var mnemonic = "quiz attend treat mystery please climb market debris drip twist fun gate";
+var mnemonic = "zebra skill tissue bag damage agree primary field poem body dry error";

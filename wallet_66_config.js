@@ -1,1 +1,1 @@
-var mnemonic = "marriage switch board ritual speak drop raise tennis night dry purpose shiver";
+var mnemonic = "diagram butter march phone sound output hospital recipe ceiling ensure prize behave";

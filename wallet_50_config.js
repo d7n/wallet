@@ -1,1 +1,1 @@
-var mnemonic = "fever often play idle fork number keep ill airport fluid awful crowd";
+var mnemonic = "shop soap earn happy taxi thing tiny coyote artist choose dignity limit";

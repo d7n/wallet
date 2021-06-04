@@ -1,1 +1,1 @@
-var mnemonic = "battle tool feel clerk decorate force pill artwork depth cry myth cross";
+var mnemonic = "alien snack across cancel empty all tuna tone alarm ten foil antique";

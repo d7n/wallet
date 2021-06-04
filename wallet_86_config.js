@@ -1,1 +1,1 @@
-var mnemonic = "witness tragic label pistol grass balcony fat patient perfect giraffe fatal tongue";
+var mnemonic = "family such resist firm lazy spatial journey scheme finger nut again skirt";
