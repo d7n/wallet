@@ -1,1 +1,1 @@
-var mnemonic = "impact balance any history lazy over blue casino muscle pond setup grow";
+var mnemonic = "swim various nominee nation bounce purity suffer swap tattoo figure prefer century";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear divide will brush grief cotton receive wall member spirit voice meat";
+var mnemonic = "text trap tonight vacant middle wish debate rescue weasel lava trip pulse";

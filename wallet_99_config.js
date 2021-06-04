@@ -1,1 +1,1 @@
-var mnemonic = "toss man recycle intact duty orange carbon place surround rib grab carpet";
+var mnemonic = "royal reward sadness bike raccoon inflict chest solve web atom busy ball";

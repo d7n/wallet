@@ -1,1 +1,1 @@
-var mnemonic = "polar wedding divorce robust boil lawsuit attitude donkey pear hip brother rocket";
+var mnemonic = "churn artist clinic mammal door steak cause man slow caught rough candy";

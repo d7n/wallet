@@ -1,1 +1,1 @@
-var mnemonic = "sunset crisp remain tunnel life age fluid type multiply coach matrix broken";
+var mnemonic = "ready certain outside inmate fossil brush deputy trip tree fix cupboard tank";

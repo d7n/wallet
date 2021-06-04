@@ -1,1 +1,1 @@
-var mnemonic = "despair depend smoke supreme baby great concert time flame south broccoli news";
+var mnemonic = "select identify patch despair rapid warrior found hole recipe copy replace mind";

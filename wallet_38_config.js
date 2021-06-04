@@ -1,1 +1,1 @@
-var mnemonic = "index abandon orange palm accuse skate want talk daughter toss blue hotel";
+var mnemonic = "slab rebuild trust kingdom force erupt snack furnace illegal child city outer";

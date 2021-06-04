@@ -1,1 +1,1 @@
-var mnemonic = "entire tuition tube exile scrub remove describe ugly observe unlock pen hire";
+var mnemonic = "just young door adjust ethics bundle faint pony ahead fever beach garlic";

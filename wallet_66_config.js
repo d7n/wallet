@@ -1,1 +1,1 @@
-var mnemonic = "vault cement fame rare river world spot favorite glad throw notable riot";
+var mnemonic = "song bright hospital burst analyst check daughter mom debris cube conduct first";

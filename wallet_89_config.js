@@ -1,1 +1,1 @@
-var mnemonic = "wool adult huge eight grace column health lobster leisure focus fiction inhale";
+var mnemonic = "wrestle produce mansion seat trigger unit crash antenna travel snow volcano gain";

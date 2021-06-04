@@ -1,1 +1,1 @@
-var mnemonic = "account embark flat custom myself pact badge timber tomorrow quick window still";
+var mnemonic = "sell wise element news couple oak twin all night tell tuna ready";

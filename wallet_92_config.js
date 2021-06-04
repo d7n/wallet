@@ -1,1 +1,1 @@
-var mnemonic = "excite sleep ten fox cotton child luxury abstract tilt light food orient";
+var mnemonic = "salon holiday milk install bulb tortoise believe bulk can crawl ticket wheel";

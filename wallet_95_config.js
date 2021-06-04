@@ -1,1 +1,1 @@
-var mnemonic = "trim box include casino click forest unusual aware dirt theory vicious viable";
+var mnemonic = "erase pelican race patrol canyon ski produce orchard fox weasel chimney upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "depend blanket search trick core cave winner cream violin whip ramp bicycle";
+var mnemonic = "swim area crater lucky never romance equal story hospital fence social flower";

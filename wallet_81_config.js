@@ -1,1 +1,1 @@
-var mnemonic = "tool goddess involve female stage opera broken rally bracket isolate awful sport";
+var mnemonic = "desert space attract jump pulp valley admit volume open aware describe surround";

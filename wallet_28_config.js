@@ -1,1 +1,1 @@
-var mnemonic = "trial round position armed winter fat convince observe canoe victory fish wonder";
+var mnemonic = "welcome baby crawl law blouse sniff network envelope smile vanish quote issue";

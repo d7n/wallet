@@ -1,1 +1,1 @@
-var mnemonic = "intact twin episode camp jacket best gorilla royal nurse farm salmon body";
+var mnemonic = "spirit pipe nasty grass east arrange pepper hair nut hat finger cram";

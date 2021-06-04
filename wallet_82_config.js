@@ -1,1 +1,1 @@
-var mnemonic = "tank replace exact stamp elephant salon tongue spoil seat opinion invest curious";
+var mnemonic = "seat gasp allow nest lazy apology boil peanut inch include impose lion";

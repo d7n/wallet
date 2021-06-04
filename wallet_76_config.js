@@ -1,1 +1,1 @@
-var mnemonic = "upon fresh silent genius wheat cycle priority globe soon calm pupil usual";
+var mnemonic = "habit credit drum mandate oil fashion circle sorry copper water element ship";

@@ -1,1 +1,1 @@
-var mnemonic = "horror carpet diagram mushroom code country suspect final taxi plug imitate bar";
+var mnemonic = "liberty type soft husband wink visit demand budget dignity panel fall road";

@@ -1,1 +1,1 @@
-var mnemonic = "sword ocean budget uncle stereo purchase major when hurry nurse hill inject";
+var mnemonic = "buffalo main battle coach journey knee pitch short unfair suit gym thrive";

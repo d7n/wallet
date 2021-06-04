@@ -1,1 +1,1 @@
-var mnemonic = "practice distance author spawn zone picture sort tribe aunt height toss dawn";
+var mnemonic = "describe city zoo balance tiger unit slice voyage mixture silly alpha burden";

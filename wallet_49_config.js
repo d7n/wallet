@@ -1,1 +1,1 @@
-var mnemonic = "prevent boost alcohol outer estate huge crawl ship you oak walk tribe";
+var mnemonic = "stomach pill car tornado soon resemble arctic enlist rabbit salute away diet";

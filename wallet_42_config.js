@@ -1,1 +1,1 @@
-var mnemonic = "hurdle uphold lazy imitate item session twelve attract hood before hollow truth";
+var mnemonic = "remain climb sight seven such polar stone unit text recall ensure potato";

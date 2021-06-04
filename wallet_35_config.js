@@ -1,1 +1,1 @@
-var mnemonic = "parrot home rifle build crack gospel smart mom shoulder people custom cruel";
+var mnemonic = "say pond awake pretty arctic check cube weird stamp valve nest quality";

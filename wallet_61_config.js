@@ -1,1 +1,1 @@
-var mnemonic = "spy visit jazz amused pilot north permit please island spell zero apple";
+var mnemonic = "abstract web silver erase aspect curtain hour theory amused paddle focus media";

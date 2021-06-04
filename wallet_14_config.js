@@ -1,1 +1,1 @@
-var mnemonic = "owner tip hand captain arrest dismiss deer rotate isolate apple deny tip";
+var mnemonic = "seminar thunder feed setup bundle drop egg purity deposit tomato alley hotel";

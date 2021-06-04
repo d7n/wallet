@@ -1,1 +1,1 @@
-var mnemonic = "obscure focus grab brush cat art vacant arctic spring elbow turn oppose";
+var mnemonic = "vapor shield crunch giant mammal require prevent deputy crash peanut ostrich word";

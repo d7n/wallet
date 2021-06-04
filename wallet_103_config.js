@@ -1,1 +1,1 @@
-var mnemonic = "connect gym sadness elder flee cabin kitchen globe salute cancel access omit";
+var mnemonic = "cereal cool napkin broccoli book tongue sister loop mirror clap alone churn";

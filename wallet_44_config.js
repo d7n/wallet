@@ -1,1 +1,1 @@
-var mnemonic = "noodle pledge rude cactus donate earn crush exercise level brief title grace";
+var mnemonic = "intact various egg prepare found table member family napkin essay normal oxygen";

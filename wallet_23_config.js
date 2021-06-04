@@ -1,1 +1,1 @@
-var mnemonic = "car ticket royal program basic gravity unique artist sunny glue life report";
+var mnemonic = "custom hint alley snake sunset arrange liquid tag consider rabbit favorite fence";

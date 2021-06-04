@@ -1,1 +1,1 @@
-var mnemonic = "soldier vocal waste vendor quality diesel sweet bike suspect north car net";
+var mnemonic = "shine couple during mail valve cargo athlete nature six install wheat ostrich";

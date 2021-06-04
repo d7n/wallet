@@ -1,1 +1,1 @@
-var mnemonic = "slight symptom never culture toddler radar rhythm pioneer crawl crowd draw motion";
+var mnemonic = "quantum month surge critic adult inner away bench fun easily pledge almost";

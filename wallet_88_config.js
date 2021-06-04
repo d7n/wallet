@@ -1,1 +1,1 @@
-var mnemonic = "damage hundred truck early often blind trash gown ride sad seven zebra";
+var mnemonic = "combine spend plunge snap will cattle renew umbrella travel abstract detect oven";

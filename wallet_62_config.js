@@ -1,1 +1,1 @@
-var mnemonic = "end open rather naive slot custom they exchange fashion rally mango arm";
+var mnemonic = "lady harbor baby tattoo curious absent mention keep jazz wise offer glue";

@@ -1,1 +1,1 @@
-var mnemonic = "layer detect sunny skull network spoil shy camp crazy barely snap sponsor";
+var mnemonic = "rail pencil bar fame finger call antenna scorpion junior raw address banana";

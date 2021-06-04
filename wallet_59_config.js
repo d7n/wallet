@@ -1,1 +1,1 @@
-var mnemonic = "security subject gym weather stamp polar tube depth priority comfort crazy winner";
+var mnemonic = "drop coast front south mosquito gloom novel day runway donor side path";

@@ -1,1 +1,1 @@
-var mnemonic = "urban crumble this armed pony boy quit kiss unlock danger claim embark";
+var mnemonic = "law lucky kidney cabin expire render flip exercise weasel badge join run";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble strike record urge stool clean clean kingdom brisk curious plate sand";
+var mnemonic = "blade enemy consider primary pigeon coral profit palm novel ball upgrade advice";

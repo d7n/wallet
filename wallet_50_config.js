@@ -1,1 +1,1 @@
-var mnemonic = "curve delay often garbage hamster lens inner account draw sunny calm join";
+var mnemonic = "cereal flee before final crisp trophy reform zero prosper vapor decorate exclude";

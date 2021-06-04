@@ -1,1 +1,1 @@
-var mnemonic = "execute circle convince sleep fish stick economy adapt draw sister cream about";
+var mnemonic = "animal budget virtual verb fringe course winter miracle anchor shop pigeon expect";

@@ -1,1 +1,1 @@
-var mnemonic = "genre panther leopard cage obtain helmet trial interest real grit anxiety hint";
+var mnemonic = "indicate love casual bubble wheel once lake planet connect cloth fold tank";

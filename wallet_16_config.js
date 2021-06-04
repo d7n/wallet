@@ -1,1 +1,1 @@
-var mnemonic = "fluid crazy erupt stand lounge palace fabric firm rose staff mandate chest";
+var mnemonic = "hollow swing park kite song gather essence capable tunnel jelly tobacco spend";

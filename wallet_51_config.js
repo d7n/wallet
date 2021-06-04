@@ -1,1 +1,1 @@
-var mnemonic = "favorite lonely prison plastic usual voyage blue bachelor allow artefact ladder crystal";
+var mnemonic = "globe random cup nominee path lend meat garage mom suit smooth south";

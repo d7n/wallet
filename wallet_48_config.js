@@ -1,1 +1,1 @@
-var mnemonic = "ski chuckle giraffe problem hill best catch similar stem kangaroo cousin quote";
+var mnemonic = "hurt poverty boil book frost gather shock believe verify pelican obtain immense";

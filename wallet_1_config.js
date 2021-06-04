@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin maze rescue trust culture crawl fitness column zone aisle junior suit";
+var mnemonic = "rude unveil van father day curve nature pretty stumble simple faculty phone";

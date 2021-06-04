@@ -1,1 +1,1 @@
-var mnemonic = "gain mother combine unveil adjust episode since apology balcony concert aisle bamboo";
+var mnemonic = "great virus drift idle filter neck lawn tribe woman property paddle fatal";

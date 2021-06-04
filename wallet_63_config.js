@@ -1,1 +1,1 @@
-var mnemonic = "jeans account bless neck escape play virtual stem nurse feed battle salon";
+var mnemonic = "process rather unfold patrol know month present miss pumpkin vocal extra tape";

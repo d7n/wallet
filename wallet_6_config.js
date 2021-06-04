@@ -1,1 +1,1 @@
-var mnemonic = "cause civil pigeon humble custom paddle ribbon want bicycle trouble elite outside";
+var mnemonic = "swing panther invite cherry stairs cost venue luggage vicious chest song inquiry";

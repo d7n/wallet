@@ -1,1 +1,1 @@
-var mnemonic = "write turtle swarm question host today must turtle hazard front crawl future";
+var mnemonic = "crisp sniff shaft smoke venue recycle icon profit okay mercy note video";

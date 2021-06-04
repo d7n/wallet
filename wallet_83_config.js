@@ -1,1 +1,1 @@
-var mnemonic = "bulb joy dice ski deputy husband high urge crash video exhibit possible";
+var mnemonic = "use cricket define combine beauty federal casual guard fire leopard collect stuff";

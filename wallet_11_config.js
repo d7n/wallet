@@ -1,1 +1,1 @@
-var mnemonic = "blood cause fox connect pencil income sock vacuum apple sing extend oak";
+var mnemonic = "snow beef switch pride face shell session keen sunny goose useful decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic mandate they dynamic piano settle annual lonely little please beauty resource";
+var mnemonic = "float degree exercise palm great wreck amused middle sausage enforce enhance sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "matter twin pulse stadium satoshi fabric cabbage swift consider animal love vote";
+var mnemonic = "oval release wing acquire steel people mango ship please assist decide eyebrow";

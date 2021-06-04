@@ -1,1 +1,1 @@
-var mnemonic = "eternal grow stumble repeat six execute side pony swim notice angry hazard";
+var mnemonic = "odor exit more awake absorb cat cool assist icon ahead patch away";

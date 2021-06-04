@@ -1,1 +1,1 @@
-var mnemonic = "ramp fall city end right diary green also sunny recipe merge flee";
+var mnemonic = "evil inmate twist soda phrase garage assault heart judge today control deny";

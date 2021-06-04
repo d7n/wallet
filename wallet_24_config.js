@@ -1,1 +1,1 @@
-var mnemonic = "ski special scrap reason butter stove consider someone word stick churn legend";
+var mnemonic = "mechanic flip beyond will infant tackle icon aspect hover valid list brave";

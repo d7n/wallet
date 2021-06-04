@@ -1,1 +1,1 @@
-var mnemonic = "mule mansion sport camp salon pigeon like smile weekend globe airport extra";
+var mnemonic = "impulse thunder priority improve nuclear order essay police pupil early tower crack";

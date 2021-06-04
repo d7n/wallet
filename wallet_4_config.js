@@ -1,1 +1,1 @@
-var mnemonic = "estate artwork square ivory system finish diagram million bleak observe salmon morning";
+var mnemonic = "gesture filter canal practice radio wonder climb normal staff seven silk home";

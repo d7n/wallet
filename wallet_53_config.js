@@ -1,1 +1,1 @@
-var mnemonic = "category visa crunch bone that bubble shell tooth lemon please mistake fashion";
+var mnemonic = "tail melody text below inhale head disagree mean loud desert oyster snow";

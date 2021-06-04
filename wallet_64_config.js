@@ -1,1 +1,1 @@
-var mnemonic = "move region solar rebuild glove pet jeans first garden edit runway old";
+var mnemonic = "defense rule dinosaur normal ski struggle food bunker unit zebra fetch host";

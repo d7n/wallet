@@ -1,1 +1,1 @@
-var mnemonic = "fashion void before coral series dynamic fee paper aim sugar chunk midnight";
+var mnemonic = "siege melody crop account juice fortune village connect tenant salon inner bind";

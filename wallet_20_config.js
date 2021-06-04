@@ -1,1 +1,1 @@
-var mnemonic = "rail together element delay law chronic faint travel extend diagram view awake";
+var mnemonic = "head satisfy garbage board water border couch private lunch pig shrug cash";

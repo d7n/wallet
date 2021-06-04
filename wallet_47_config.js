@@ -1,1 +1,1 @@
-var mnemonic = "purpose proof maximum toy rally sugar fabric crush attack area inch syrup";
+var mnemonic = "lunch any fury chest arrange income swarm swamp shadow bean someone piano";

@@ -1,1 +1,1 @@
-var mnemonic = "glare put fabric upgrade vapor follow prepare oval three flower fox staff";
+var mnemonic = "panic hard offer truly pen fly erode follow orphan rifle renew capable";

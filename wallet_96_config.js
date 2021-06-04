@@ -1,1 +1,1 @@
-var mnemonic = "clinic century nice chase slush talent stock announce melody system aware glove";
+var mnemonic = "quarter document promote snake shaft snap smoke gap paper ranch comfort spare";

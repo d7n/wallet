@@ -1,1 +1,1 @@
-var mnemonic = "month tumble narrow gorilla coin enforce fluid system idle pilot hour liquid";
+var mnemonic = "lion special monkey property shiver concert chalk desert twelve jacket all vital";

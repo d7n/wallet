@@ -1,1 +1,1 @@
-var mnemonic = "hole trip wisdom liquid year critic onion jewel walk remove transfer carbon";
+var mnemonic = "student elite involve slow cargo produce attitude summer invest reduce decrease entire";

@@ -1,1 +1,1 @@
-var mnemonic = "inject coast worry history burden scout order inhale extra call another east";
+var mnemonic = "sea keep pudding only decorate very tuition math exercise enlist summer melody";

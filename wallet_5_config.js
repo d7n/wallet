@@ -1,1 +1,1 @@
-var mnemonic = "gather hollow mutual present draft south text dune safe decade laptop magic";
+var mnemonic = "wrestle isolate matter pig perfect bench business elder glass snack snack reflect";

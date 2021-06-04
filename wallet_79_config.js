@@ -1,1 +1,1 @@
-var mnemonic = "surface flush sound thumb organ raccoon jelly club manage fashion daughter token";
+var mnemonic = "carbon thrive fly film hurt green pioneer dial kick bar popular degree";

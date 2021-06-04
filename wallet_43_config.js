@@ -1,1 +1,1 @@
-var mnemonic = "enrich topic ring goat estate point verify arrange slush host fortune sick";
+var mnemonic = "wise space alcohol wine spatial thunder tunnel pole defense seed sadness result";

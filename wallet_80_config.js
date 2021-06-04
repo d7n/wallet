@@ -1,1 +1,1 @@
-var mnemonic = "must march often seed chapter safe cradle fork once wrap fun canyon";
+var mnemonic = "frown fury version polar more ship tomato artist permit match token evolve";

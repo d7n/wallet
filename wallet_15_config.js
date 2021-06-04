@@ -1,1 +1,1 @@
-var mnemonic = "base spray dawn gift timber bitter grace nasty frost mom salmon lamp";
+var mnemonic = "trigger kit lawn dry horse route hedgehog tragic empty call course august";

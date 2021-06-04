@@ -1,1 +1,1 @@
-var mnemonic = "since south shove violin slab frame proud table cute strike retire laugh";
+var mnemonic = "menu bounce alien dynamic tiny foster fox side celery oblige wife nut";

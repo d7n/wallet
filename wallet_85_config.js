@@ -1,1 +1,1 @@
-var mnemonic = "level tilt degree birth riot miracle myth arrange rate hood blast unusual";
+var mnemonic = "federal fly spike click you outdoor dog blade airport review food silly";

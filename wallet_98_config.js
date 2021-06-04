@@ -1,1 +1,1 @@
-var mnemonic = "van room tumble midnight baby struggle quick thing trick file uncle prevent";
+var mnemonic = "fringe recipe charge clean stick someone civil erode virtual silly reward hand";

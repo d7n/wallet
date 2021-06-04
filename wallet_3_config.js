@@ -1,1 +1,1 @@
-var mnemonic = "kiwi view avocado angry coconut engage load topic hat distance crush unlock";
+var mnemonic = "welcome pipe kingdom battle road public smile border sugar volume client news";

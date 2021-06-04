@@ -1,1 +1,1 @@
-var mnemonic = "treat rib ritual walnut fatal scatter cube among notice window loan veteran";
+var mnemonic = "find surge repeat seek material minor square film situate faculty pelican captain";

@@ -1,1 +1,1 @@
-var mnemonic = "burst raven polar margin obtain frozen fun match next today couple feel";
+var mnemonic = "tilt roast license pen blood loan demise system hospital pave recall stool";

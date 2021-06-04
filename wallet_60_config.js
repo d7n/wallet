@@ -1,1 +1,1 @@
-var mnemonic = "marriage goose birth gorilla thank unlock flash success hidden fog bid derive";
+var mnemonic = "material found purchase blur planet oval sting deposit humor smoke entry lizard";

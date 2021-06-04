@@ -1,1 +1,1 @@
-var mnemonic = "usage airport hope design agree change answer seed apart virtual spike subject";
+var mnemonic = "shed talk satisfy hood firm stove daring high suit fine cruise broken";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle umbrella man task sausage north during census merry winter lava assist";
+var mnemonic = "cash ghost total puzzle vague hurt delay clap obtain indoor short minor";

@@ -1,1 +1,1 @@
-var mnemonic = "cart motor risk post place fiscal inspire sunny evoke olympic zoo diesel";
+var mnemonic = "turtle host process garlic kidney borrow vivid duty subject leave absent quit";

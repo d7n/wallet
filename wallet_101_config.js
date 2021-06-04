@@ -1,1 +1,1 @@
-var mnemonic = "stairs recycle similar patch false diet memory over fiscal main sort behind";
+var mnemonic = "pluck cruise shallow wide skate common across wedding mosquito caution analyst carry";

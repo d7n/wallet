@@ -1,1 +1,1 @@
-var mnemonic = "wasp price picnic emerge atom document degree puzzle order shrimp punch orchard";
+var mnemonic = "dirt true divorce allow type ozone spice coffee alert youth oyster track";

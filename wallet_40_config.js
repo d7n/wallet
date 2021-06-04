@@ -1,1 +1,1 @@
-var mnemonic = "trip target engine seek spirit stadium measure road ginger dry stable jar";
+var mnemonic = "shine fat broom connect approve pill envelope sphere next logic ghost toward";

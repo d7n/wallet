@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tape tenant champion begin extend unfold pledge quarter gesture lab once";
+var mnemonic = "explain secret wise same leisure there assist reunion walnut silly actor cereal";

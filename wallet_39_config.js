@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur rocket unusual mansion feed fence flavor chef lottery relax pill funny";
+var mnemonic = "pilot near follow fog heavy tail install enjoy measure heart during chicken";

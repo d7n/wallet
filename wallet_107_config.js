@@ -1,1 +1,1 @@
-var mnemonic = "spread usual deliver coach tiger claw comfort hole soda ladder kingdom monster";
+var mnemonic = "enroll ketchup dog deliver sheriff bonus silk roast true flock decline dance";
