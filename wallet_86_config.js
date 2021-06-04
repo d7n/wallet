@@ -1,1 +1,1 @@
-var mnemonic = "lumber nerve gadget south acoustic case city feel search illegal usual tide";
+var mnemonic = "ramp fall city end right diary green also sunny recipe merge flee";

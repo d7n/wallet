@@ -1,1 +1,1 @@
-var mnemonic = "judge patient law cup unusual lucky license goat away satoshi flavor coffee";
+var mnemonic = "sunset crisp remain tunnel life age fluid type multiply coach matrix broken";

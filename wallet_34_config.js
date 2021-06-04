@@ -1,1 +1,1 @@
-var mnemonic = "deliver inner scrap mercy aware prevent hood slight knock sustain wine salon";
+var mnemonic = "soldier vocal waste vendor quality diesel sweet bike suspect north car net";

@@ -1,1 +1,1 @@
-var mnemonic = "proud vivid device victory gossip fiction peanut surround finger tape assault improve";
+var mnemonic = "cost scout plate symptom lesson powder pioneer maid sword differ certain famous";

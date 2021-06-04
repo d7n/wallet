@@ -1,1 +1,1 @@
-var mnemonic = "birth toy vast square better chief balance evolve wheat apart wisdom steel";
+var mnemonic = "kiwi view avocado angry coconut engage load topic hat distance crush unlock";

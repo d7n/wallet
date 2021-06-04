@@ -1,1 +1,1 @@
-var mnemonic = "tornado lobster october kick quantum street chase six differ drill neglect hawk";
+var mnemonic = "ski chuckle giraffe problem hill best catch similar stem kangaroo cousin quote";

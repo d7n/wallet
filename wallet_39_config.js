@@ -1,1 +1,1 @@
-var mnemonic = "soldier gaze casino peanut canyon sadness hundred ridge obscure fever pottery join";
+var mnemonic = "dinosaur rocket unusual mansion feed fence flavor chef lottery relax pill funny";

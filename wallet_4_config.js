@@ -1,1 +1,1 @@
-var mnemonic = "smooth menu because size video among melt gravity favorite quick midnight local";
+var mnemonic = "estate artwork square ivory system finish diagram million bleak observe salmon morning";

@@ -1,1 +1,1 @@
-var mnemonic = "husband accuse road wasp science debate recycle snap soft husband cricket castle";
+var mnemonic = "obscure focus grab brush cat art vacant arctic spring elbow turn oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote voyage job nerve vapor divide grant small trap sudden turtle move";
+var mnemonic = "nuclear divide will brush grief cotton receive wall member spirit voice meat";

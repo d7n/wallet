@@ -1,1 +1,1 @@
-var mnemonic = "huge film jar bracket still alien sand valve impact step nature balcony";
+var mnemonic = "end open rather naive slot custom they exchange fashion rally mango arm";

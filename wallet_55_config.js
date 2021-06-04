@@ -1,1 +1,1 @@
-var mnemonic = "play dune chaos neutral measure solve stand worth scrap gossip exit welcome";
+var mnemonic = "dragon jaguar alien guard sphere garbage lottery walnut grief tip arrest myth";

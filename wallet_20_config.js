@@ -1,1 +1,1 @@
-var mnemonic = "alien under foster accuse doctor stuff puppy expire review shaft remember pyramid";
+var mnemonic = "rail together element delay law chronic faint travel extend diagram view awake";

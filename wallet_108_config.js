@@ -1,1 +1,1 @@
-var mnemonic = "tennis winter advance left maze dumb spray draft coil inject old find";
+var mnemonic = "garage gloom chicken assist snake basket label undo beef error jealous broken";

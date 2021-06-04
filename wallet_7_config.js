@@ -1,1 +1,1 @@
-var mnemonic = "wrap man tent retire scorpion senior favorite merge always solar predict this";
+var mnemonic = "episode future heart hurry trip family stick deal message okay job oxygen";

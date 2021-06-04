@@ -1,1 +1,1 @@
-var mnemonic = "total bicycle later account already lock favorite onion cactus cliff confirm traffic";
+var mnemonic = "frame rival group boring liar repair movie random bitter client pattern square";

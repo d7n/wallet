@@ -1,1 +1,1 @@
-var mnemonic = "just flag alpha tackle ten scorpion woman ski game trend settle bullet";
+var mnemonic = "spread usual deliver coach tiger claw comfort hole soda ladder kingdom monster";

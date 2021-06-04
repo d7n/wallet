@@ -1,1 +1,1 @@
-var mnemonic = "average shell proof estate promote item program chest damp sad style bring";
+var mnemonic = "hole trip wisdom liquid year critic onion jewel walk remove transfer carbon";

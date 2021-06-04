@@ -1,1 +1,1 @@
-var mnemonic = "salt frown trip fish either busy jeans essence step private day make";
+var mnemonic = "fashion void before coral series dynamic fee paper aim sugar chunk midnight";

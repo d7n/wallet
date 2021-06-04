@@ -1,1 +1,1 @@
-var mnemonic = "face say section fault express neck speak camera blush bench slam feature";
+var mnemonic = "marriage goose birth gorilla thank unlock flash success hidden fog bid derive";

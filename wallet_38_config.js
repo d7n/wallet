@@ -1,1 +1,1 @@
-var mnemonic = "tent very plunge neck attack gas display army visual fit depend crunch";
+var mnemonic = "index abandon orange palm accuse skate want talk daughter toss blue hotel";

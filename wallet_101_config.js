@@ -1,1 +1,1 @@
-var mnemonic = "gesture best forum proof guide curtain one virus enrich leave boring vendor";
+var mnemonic = "stairs recycle similar patch false diet memory over fiscal main sort behind";

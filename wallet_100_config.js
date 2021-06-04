@@ -1,1 +1,1 @@
-var mnemonic = "pupil naive analyst festival permit spoil mask since speed humble race jelly";
+var mnemonic = "despair depend smoke supreme baby great concert time flame south broccoli news";

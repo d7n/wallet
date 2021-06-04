@@ -1,1 +1,1 @@
-var mnemonic = "mutual monkey collect wheel science sword galaxy gossip truly guess decrease exit";
+var mnemonic = "eternal grow stumble repeat six execute side pony swim notice angry hazard";

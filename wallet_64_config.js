@@ -1,1 +1,1 @@
-var mnemonic = "sad digital poem day scare bamboo often inflict series olive tool add";
+var mnemonic = "move region solar rebuild glove pet jeans first garden edit runway old";

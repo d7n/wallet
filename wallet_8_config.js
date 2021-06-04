@@ -1,1 +1,1 @@
-var mnemonic = "endless panel slow damp shoulder seminar better bronze tide enact embrace hybrid";
+var mnemonic = "acid harsh iron suspect tomorrow much manual logic position nest news loop";

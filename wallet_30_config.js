@@ -1,1 +1,1 @@
-var mnemonic = "audit soldier robot tortoise fat maze duty sort thank border local shed";
+var mnemonic = "tragic mandate they dynamic piano settle annual lonely little please beauty resource";

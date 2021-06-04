@@ -1,1 +1,1 @@
-var mnemonic = "crazy subway tissue load agree peace before job twist surprise check popular";
+var mnemonic = "hurdle uphold lazy imitate item session twelve attract hood before hollow truth";

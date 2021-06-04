@@ -1,1 +1,1 @@
-var mnemonic = "crash famous inside tower island web major furnace promote step eye sound";
+var mnemonic = "prevent boost alcohol outer estate huge crawl ship you oak walk tribe";

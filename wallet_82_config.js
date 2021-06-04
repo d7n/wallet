@@ -1,1 +1,1 @@
-var mnemonic = "banana brave crane width bind jewel debate occur alien list display depth";
+var mnemonic = "tank replace exact stamp elephant salon tongue spoil seat opinion invest curious";

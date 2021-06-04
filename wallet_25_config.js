@@ -1,1 +1,1 @@
-var mnemonic = "silver unaware world family practice victory size wool silk pigeon combine gauge";
+var mnemonic = "sword ocean budget uncle stereo purchase major when hurry nurse hill inject";

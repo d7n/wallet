@@ -1,1 +1,1 @@
-var mnemonic = "gym crouch banner fish inhale ramp tag remind obscure prosper barrel draft";
+var mnemonic = "ski special scrap reason butter stove consider someone word stick churn legend";

@@ -1,1 +1,1 @@
-var mnemonic = "frown parent worry frozen step decline render polar hunt proof keen detail";
+var mnemonic = "blood cause fox connect pencil income sock vacuum apple sing extend oak";

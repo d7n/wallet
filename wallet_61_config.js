@@ -1,1 +1,1 @@
-var mnemonic = "impact excite sign month sadness security canvas ranch truly cloud asset legal";
+var mnemonic = "spy visit jazz amused pilot north permit please island spell zero apple";

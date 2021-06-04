@@ -1,1 +1,1 @@
-var mnemonic = "run egg slot pony rose minor rally seed amused cousin then flat";
+var mnemonic = "write turtle swarm question host today must turtle hazard front crawl future";

@@ -1,1 +1,1 @@
-var mnemonic = "long skill live enact switch volcano use drink silk arch try soccer";
+var mnemonic = "usage airport hope design agree change answer seed apart virtual spike subject";

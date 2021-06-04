@@ -1,1 +1,1 @@
-var mnemonic = "unlock monkey salad doll fault sail demise luggage hello exist recycle lonely";
+var mnemonic = "damage hundred truck early often blind trash gown ride sad seven zebra";

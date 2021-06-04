@@ -1,1 +1,1 @@
-var mnemonic = "pioneer blue same few timber verb multiply bless gym screen iron switch";
+var mnemonic = "range seek shrug adult layer embrace body original again float online figure";

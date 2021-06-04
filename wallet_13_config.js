@@ -1,1 +1,1 @@
-var mnemonic = "supply remind turtle insect easy salt ride strategy elephant define thing year";
+var mnemonic = "mule mansion sport camp salon pigeon like smile weekend globe airport extra";

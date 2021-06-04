@@ -1,1 +1,1 @@
-var mnemonic = "prevent right absent alpha puzzle grain width below joke dynamic miracle knife";
+var mnemonic = "urban crumble this armed pony boy quit kiss unlock danger claim embark";

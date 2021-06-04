@@ -1,1 +1,1 @@
-var mnemonic = "veteran tilt mother supreme chicken apology bubble warm point lounge setup grace";
+var mnemonic = "owner tip hand captain arrest dismiss deer rotate isolate apple deny tip";

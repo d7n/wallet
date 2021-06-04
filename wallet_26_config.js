@@ -1,1 +1,1 @@
-var mnemonic = "sadness fever captain smile blind evil identify tissue gospel normal require image";
+var mnemonic = "hire provide purse leader butter orphan tornado nest ring regular outer agent";

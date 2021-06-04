@@ -1,1 +1,1 @@
-var mnemonic = "frog film shop weather verify globe absurd bird physical fever elite gown";
+var mnemonic = "tool goddess involve female stage opera broken rally bracket isolate awful sport";

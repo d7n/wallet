@@ -1,1 +1,1 @@
-var mnemonic = "egg this traffic hurt approve blind fly panic add pumpkin word ankle";
+var mnemonic = "upon fresh silent genius wheat cycle priority globe soon calm pupil usual";

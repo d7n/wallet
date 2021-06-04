@@ -1,1 +1,1 @@
-var mnemonic = "volume market army worry whale bridge game tunnel lucky maximum dose rebuild";
+var mnemonic = "entire tuition tube exile scrub remove describe ugly observe unlock pen hire";

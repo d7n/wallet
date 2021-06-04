@@ -1,1 +1,1 @@
-var mnemonic = "axis ignore erupt local float segment appear furnace metal humor island random";
+var mnemonic = "treat rib ritual walnut fatal scatter cube among notice window loan veteran";

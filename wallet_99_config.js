@@ -1,1 +1,1 @@
-var mnemonic = "top web rib evil merry quantum setup dynamic heavy science pretty nothing";
+var mnemonic = "toss man recycle intact duty orange carbon place surround rib grab carpet";

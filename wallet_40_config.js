@@ -1,1 +1,1 @@
-var mnemonic = "squeeze unveil daughter dutch cool thing kite exercise cat slush gauge ignore";
+var mnemonic = "trip target engine seek spirit stadium measure road ginger dry stable jar";

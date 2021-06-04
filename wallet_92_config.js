@@ -1,1 +1,1 @@
-var mnemonic = "dolphin claw swamp universe option panic column sniff find sun picnic acquire";
+var mnemonic = "excite sleep ten fox cotton child luxury abstract tilt light food orient";

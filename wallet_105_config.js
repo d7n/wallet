@@ -1,1 +1,1 @@
-var mnemonic = "label track interest limit embody wagon daring accuse found finger man future";
+var mnemonic = "glare put fabric upgrade vapor follow prepare oval three flower fox staff";

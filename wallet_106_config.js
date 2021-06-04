@@ -1,1 +1,1 @@
-var mnemonic = "remain labor pony smile shove whale hammer trigger leave resource aunt imitate";
+var mnemonic = "mango lens denial join tag real swamp story security joke opera exhaust";

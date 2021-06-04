@@ -1,1 +1,1 @@
-var mnemonic = "aunt cat long save great pull frame asset turtle coach hazard voyage";
+var mnemonic = "parrot home rifle build crack gospel smart mom shoulder people custom cruel";

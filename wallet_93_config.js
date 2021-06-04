@@ -1,1 +1,1 @@
-var mnemonic = "lunch hover speak amount wire dust item end skull control man furnace";
+var mnemonic = "sight around tube window asset rose all risk sleep affair because frequent";

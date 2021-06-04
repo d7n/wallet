@@ -1,1 +1,1 @@
-var mnemonic = "crop city wear intact someone situate lecture poverty govern endless festival pull";
+var mnemonic = "travel vacuum tree surprise frog list talk party season reason indoor quarter";

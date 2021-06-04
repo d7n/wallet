@@ -1,1 +1,1 @@
-var mnemonic = "scheme december portion cover mail vapor rapid injury chef dawn mask detail";
+var mnemonic = "connect gym sadness elder flee cabin kitchen globe salute cancel access omit";

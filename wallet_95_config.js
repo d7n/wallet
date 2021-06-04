@@ -1,1 +1,1 @@
-var mnemonic = "square future huge sponsor refuse pact patch mixed rebel dice shuffle crystal";
+var mnemonic = "trim box include casino click forest unusual aware dirt theory vicious viable";

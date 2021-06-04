@@ -1,1 +1,1 @@
-var mnemonic = "ridge fine card raw math thought country card lift beauty food valley";
+var mnemonic = "fluid crazy erupt stand lounge palace fabric firm rose staff mandate chest";

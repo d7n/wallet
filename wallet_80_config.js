@@ -1,1 +1,1 @@
-var mnemonic = "oven rack file unique social voyage clever isolate soon quantum weapon donkey";
+var mnemonic = "must march often seed chapter safe cradle fork once wrap fun canyon";

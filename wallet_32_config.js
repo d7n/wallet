@@ -1,1 +1,1 @@
-var mnemonic = "sketch unlock beach emotion antique when lemon noise fantasy soccer prison insane";
+var mnemonic = "bubble strike record urge stool clean clean kingdom brisk curious plate sand";

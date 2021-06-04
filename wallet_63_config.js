@@ -1,1 +1,1 @@
-var mnemonic = "moon monster gospel earth sibling belt service wait clinic child artefact twist";
+var mnemonic = "jeans account bless neck escape play virtual stem nurse feed battle salon";

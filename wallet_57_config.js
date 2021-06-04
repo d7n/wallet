@@ -1,1 +1,1 @@
-var mnemonic = "cycle home attract chat spray mango toilet island vast vicious nut balcony";
+var mnemonic = "horror carpet diagram mushroom code country suspect final taxi plug imitate bar";

@@ -1,1 +1,1 @@
-var mnemonic = "school oil denial course play success speed slender forward denial rebuild north";
+var mnemonic = "execute circle convince sleep fish stick economy adapt draw sister cream about";

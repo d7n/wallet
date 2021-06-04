@@ -1,1 +1,1 @@
-var mnemonic = "strike trend various blame swap plate amount maple paddle crop title maid";
+var mnemonic = "cause civil pigeon humble custom paddle ribbon want bicycle trouble elite outside";

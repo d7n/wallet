@@ -1,1 +1,1 @@
-var mnemonic = "canoe another lucky wide hollow must miracle dirt image myth option void";
+var mnemonic = "cart motor risk post place fiscal inspire sunny evoke olympic zoo diesel";

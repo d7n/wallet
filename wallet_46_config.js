@@ -1,1 +1,1 @@
-var mnemonic = "excess olympic peace harvest three clap spirit beach eight fish spring abstract";
+var mnemonic = "impact balance any history lazy over blue casino muscle pond setup grow";

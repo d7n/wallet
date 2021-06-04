@@ -1,1 +1,1 @@
-var mnemonic = "misery genius bamboo dress record pact crash key style frown curve owner";
+var mnemonic = "polar wedding divorce robust boil lawsuit attitude donkey pear hip brother rocket";

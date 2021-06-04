@@ -1,1 +1,1 @@
-var mnemonic = "flavor other giraffe drink bracket suffer then prize key hunt expect pear";
+var mnemonic = "noodle pledge rude cactus donate earn crush exercise level brief title grace";

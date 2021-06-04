@@ -1,1 +1,1 @@
-var mnemonic = "purse vehicle voyage genius between stable bright bullet journey road rally chaos";
+var mnemonic = "purpose proof maximum toy rally sugar fabric crush attack area inch syrup";

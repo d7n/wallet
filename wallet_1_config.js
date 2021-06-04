@@ -1,1 +1,1 @@
-var mnemonic = "label pear matrix live tourist barely spray feature candy immune express tissue";
+var mnemonic = "pumpkin maze rescue trust culture crawl fitness column zone aisle junior suit";

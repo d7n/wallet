@@ -1,1 +1,1 @@
-var mnemonic = "orient dinner update empty abuse surprise rain river wood pig situate payment";
+var mnemonic = "gain mother combine unveil adjust episode since apology balcony concert aisle bamboo";

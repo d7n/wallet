@@ -1,1 +1,1 @@
-var mnemonic = "zoo attend there liberty breeze worth weird predict misery trouble soon oyster";
+var mnemonic = "bacon lesson camp nasty embody various void stone company yellow six fox";

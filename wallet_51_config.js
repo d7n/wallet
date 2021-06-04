@@ -1,1 +1,1 @@
-var mnemonic = "buffalo distance depart bus bus state report exile film waste cruise celery";
+var mnemonic = "favorite lonely prison plastic usual voyage blue bachelor allow artefact ladder crystal";

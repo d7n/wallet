@@ -1,1 +1,1 @@
-var mnemonic = "misery enemy sentence test problem goose tissue oyster grief arrange picture issue";
+var mnemonic = "trial round position armed winter fat convince observe canoe victory fish wonder";

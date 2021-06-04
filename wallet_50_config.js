@@ -1,1 +1,1 @@
-var mnemonic = "enrich basket spend sock crumble funny parrot skin duty hint give minute";
+var mnemonic = "curve delay often garbage hamster lens inner account draw sunny calm join";

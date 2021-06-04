@@ -1,1 +1,1 @@
-var mnemonic = "gesture motor half ivory bundle rely ivory sign border divide lamp shoe";
+var mnemonic = "security subject gym weather stamp polar tube depth priority comfort crazy winner";

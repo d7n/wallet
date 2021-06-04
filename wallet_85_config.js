@@ -1,1 +1,1 @@
-var mnemonic = "wall cheap purse despair guard hazard mercy shiver unusual hover cereal dice";
+var mnemonic = "level tilt degree birth riot miracle myth arrange rate hood blast unusual";

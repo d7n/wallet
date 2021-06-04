@@ -1,1 +1,1 @@
-var mnemonic = "file ticket snack young oval worth lyrics inmate process december misery spoon";
+var mnemonic = "surface flush sound thumb organ raccoon jelly club manage fashion daughter token";

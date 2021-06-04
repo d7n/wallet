@@ -1,1 +1,1 @@
-var mnemonic = "scan another cable light salute nature club cream people you gap pluck";
+var mnemonic = "gather hollow mutual present draft south text dune safe decade laptop magic";

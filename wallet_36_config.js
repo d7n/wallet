@@ -1,1 +1,1 @@
-var mnemonic = "essay shuffle marble afford dial ribbon permit aunt slogan denial tent chimney";
+var mnemonic = "eyebrow tape tenant champion begin extend unfold pledge quarter gesture lab once";

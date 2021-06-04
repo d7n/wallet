@@ -1,1 +1,1 @@
-var mnemonic = "avoid awkward ozone stay saddle million gesture black monitor essence dance flash";
+var mnemonic = "car ticket royal program basic gravity unique artist sunny glue life report";

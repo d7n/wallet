@@ -1,1 +1,1 @@
-var mnemonic = "salon cotton fiction inhale soft uncle lemon problem security lunch satoshi traffic";
+var mnemonic = "utility social online cycle area bonus february plunge piano furnace obtain kitchen";

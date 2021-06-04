@@ -1,1 +1,1 @@
-var mnemonic = "inflict mind select grab column bulk upgrade lumber concert source concert release";
+var mnemonic = "month tumble narrow gorilla coin enforce fluid system idle pilot hour liquid";

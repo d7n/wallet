@@ -1,1 +1,1 @@
-var mnemonic = "strategy girl spell better flower train kind bright large math bread wish";
+var mnemonic = "enrich topic ring goat estate point verify arrange slush host fortune sick";

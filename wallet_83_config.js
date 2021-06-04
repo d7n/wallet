@@ -1,1 +1,1 @@
-var mnemonic = "cargo famous dismiss picnic chest useful perfect system boil divide mystery village";
+var mnemonic = "bulb joy dice ski deputy husband high urge crash video exhibit possible";

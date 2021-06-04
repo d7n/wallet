@@ -1,1 +1,1 @@
-var mnemonic = "rail rebuild water enact uncle object below noodle sudden post sand liar";
+var mnemonic = "chuckle umbrella man task sausage north during census merry winter lava assist";

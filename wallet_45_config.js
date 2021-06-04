@@ -1,1 +1,1 @@
-var mnemonic = "job tiny salmon wagon sword purity nose spoon health ordinary argue scrap";
+var mnemonic = "depend blanket search trick core cave winner cream violin whip ramp bicycle";

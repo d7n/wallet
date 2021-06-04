@@ -1,1 +1,1 @@
-var mnemonic = "rack donkey keep loop merge flush duck copper limit orphan web wide";
+var mnemonic = "slight symptom never culture toddler radar rhythm pioneer crawl crowd draw motion";

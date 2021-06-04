@@ -1,1 +1,1 @@
-var mnemonic = "tuna panic craft trade card jewel legend enact melt riot garbage uncover";
+var mnemonic = "genre panther leopard cage obtain helmet trial interest real grit anxiety hint";
