@@ -1,1 +1,1 @@
-var mnemonic = "cargo kitchen peace satoshi trade earn wire combine ritual quality orange intact";
+var mnemonic = "swarm wheat recall found stairs toward embrace whale census this gown umbrella";

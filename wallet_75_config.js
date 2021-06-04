@@ -1,1 +1,1 @@
-var mnemonic = "decorate almost shove hen where coconut harbor key conduct mistake remain earn";
+var mnemonic = "stumble comfort toast flag program push pencil whale twice weather relax film";

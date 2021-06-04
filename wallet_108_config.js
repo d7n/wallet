@@ -1,1 +1,1 @@
-var mnemonic = "mass marble salmon drama match number penalty arrange promote gaze sword tennis";
+var mnemonic = "credit ethics famous female deputy own actual help muscle april maple found";

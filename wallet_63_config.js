@@ -1,1 +1,1 @@
-var mnemonic = "junior thought choice disease color duck length dinner range animal express disagree";
+var mnemonic = "sniff upon idle prefer check code sphere seed bean hybrid force picture";

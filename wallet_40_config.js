@@ -1,1 +1,1 @@
-var mnemonic = "uphold again illegal kiss fall science wealth blind visual into wheel index";
+var mnemonic = "payment pill idle problem draft squirrel grocery hover clock drive agree project";

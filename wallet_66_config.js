@@ -1,1 +1,1 @@
-var mnemonic = "elder travel grain check narrow indicate lion butter woman release phone thing";
+var mnemonic = "want dentist penalty dentist picture arch cliff industry kid quick exit confirm";

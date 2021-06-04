@@ -1,1 +1,1 @@
-var mnemonic = "mechanic city dignity fury chaos amateur mystery miracle offer typical flee produce";
+var mnemonic = "artefact meat tell woman error random stuff smooth invite hockey rural moment";

@@ -1,1 +1,1 @@
-var mnemonic = "intact sing song sock index rare drive scan blanket disorder swift buddy";
+var mnemonic = "advice beef shell shop easy insane push effort base member slogan sponsor";

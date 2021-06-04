@@ -1,1 +1,1 @@
-var mnemonic = "alien private diamond bid aerobic opinion female shy upset come annual broken";
+var mnemonic = "soup fox blossom about collect pitch citizen labor brain monster cry glove";

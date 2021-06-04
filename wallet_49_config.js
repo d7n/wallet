@@ -1,1 +1,1 @@
-var mnemonic = "object half only stove galaxy neutral future beef trust benefit upgrade display";
+var mnemonic = "matter mouse report domain quarter boost physical zebra sign company hint crawl";

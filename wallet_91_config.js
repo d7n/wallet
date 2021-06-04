@@ -1,1 +1,1 @@
-var mnemonic = "exist garage aim upper make point warfare veteran chuckle amazing screen then";
+var mnemonic = "toy swim couple decorate sample voice dynamic cover yellow boring sure viable";

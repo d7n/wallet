@@ -1,1 +1,1 @@
-var mnemonic = "jeans excuse alley edit fat journey toe tail off forest episode expand";
+var mnemonic = "various summer quit keen budget mad occur hamster slogan isolate couple ribbon";

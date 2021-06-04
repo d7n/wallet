@@ -1,1 +1,1 @@
-var mnemonic = "protect base choice review proof humor bamboo describe anger hard bulb apart";
+var mnemonic = "brave position lava resist lady wrestle august toy thank upon kangaroo room";

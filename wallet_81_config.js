@@ -1,1 +1,1 @@
-var mnemonic = "obey occur mountain trial gift toddler pipe scorpion eye spare rubber electric";
+var mnemonic = "myth hurry tired chest pause canoe token endless actual dismiss main fantasy";

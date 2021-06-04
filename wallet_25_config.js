@@ -1,1 +1,1 @@
-var mnemonic = "destroy erode alley aware fine coconut win slide recycle cliff lunch viable";
+var mnemonic = "sleep six ticket purpose budget useful beef valid negative clinic release inmate";

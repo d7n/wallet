@@ -1,1 +1,1 @@
-var mnemonic = "become become shaft assault secret odor illegal day fall dirt power sense";
+var mnemonic = "all barely uncover hip project reward biology lucky common depart exact quote";

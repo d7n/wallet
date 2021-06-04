@@ -1,1 +1,1 @@
-var mnemonic = "measure high move outer fatal case team steel normal ketchup genuine under";
+var mnemonic = "argue shield cannon resemble tone spray broccoli maple moon waste attract educate";

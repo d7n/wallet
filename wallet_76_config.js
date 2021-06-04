@@ -1,1 +1,1 @@
-var mnemonic = "theory alone uncle pink mobile toy tiger quiz alien toast job journey";
+var mnemonic = "push innocent okay victory cereal someone relief ski slender muffin oyster half";

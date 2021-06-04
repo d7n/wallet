@@ -1,1 +1,1 @@
-var mnemonic = "grow lucky gold shuffle uncover century object keen wage again crisp ship";
+var mnemonic = "palm bring salad horse frame rabbit armed about recall proud clip embody";

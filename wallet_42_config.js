@@ -1,1 +1,1 @@
-var mnemonic = "perfect champion smart describe desert half beyond slice collect three square earth";
+var mnemonic = "river bulb zero wire collect jeans large maximum elbow into letter age";

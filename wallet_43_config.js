@@ -1,1 +1,1 @@
-var mnemonic = "found jaguar recipe grain belt pink slab flush stone vessel often indicate";
+var mnemonic = "prepare genius same toe pistol three sock patch wrist sure marine test";

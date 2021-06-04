@@ -1,1 +1,1 @@
-var mnemonic = "sport because shed hero draft range crash curious protect whale concert amused";
+var mnemonic = "fire maze time summer ginger middle trap another cute belt skirt spell";

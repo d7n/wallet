@@ -1,1 +1,1 @@
-var mnemonic = "opera misery worth team owner federal strike reveal shrimp pyramid walnut lunar";
+var mnemonic = "bench chapter curious april citizen husband skill room spirit agree angry spoon";

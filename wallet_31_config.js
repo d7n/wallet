@@ -1,1 +1,1 @@
-var mnemonic = "already jaguar loan relax decorate title clump gloom journey agent point hungry";
+var mnemonic = "about offer shuffle forward tiny vacuum trial boost lake horror number habit";

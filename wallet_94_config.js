@@ -1,1 +1,1 @@
-var mnemonic = "play across grant rural soccer biology annual spirit wheat panda chronic hurt";
+var mnemonic = "fog receive clip away vital differ system unfair circle concert once usual";

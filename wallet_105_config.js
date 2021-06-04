@@ -1,1 +1,1 @@
-var mnemonic = "world tornado stuff safe drip fluid deputy script audit tuition idle usage";
+var mnemonic = "near torch just elder fit pencil upon salt cram torch siege east";

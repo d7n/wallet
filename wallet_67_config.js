@@ -1,1 +1,1 @@
-var mnemonic = "shell apple rival easy knife more stand firm face shallow tree inspire";
+var mnemonic = "brain nephew black man visual liquid bike grocery argue front behind relax";

@@ -1,1 +1,1 @@
-var mnemonic = "melt aisle end lock catalog evidence speak toe pill deputy change kit";
+var mnemonic = "pelican example slender apology rough wrist mixed kangaroo torch during weekend figure";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon shadow pepper evil leopard around enlist already broom couch step whip";
+var mnemonic = "zone science demise genius jewel solve bike entire uphold vault sock first";

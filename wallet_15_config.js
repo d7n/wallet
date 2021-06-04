@@ -1,1 +1,1 @@
-var mnemonic = "crunch mosquito mechanic canvas goddess choice ticket aerobic shuffle chief regular federal";
+var mnemonic = "shell guess nothing achieve satoshi carry rebuild shock law measure tunnel excite";

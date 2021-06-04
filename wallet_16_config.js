@@ -1,1 +1,1 @@
-var mnemonic = "toward diesel tuition bullet balcony frown twist equal screen share adjust promote";
+var mnemonic = "topple thunder sea snake swamp innocent decide river accident daughter pattern book";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge shoulder awkward obey parent depth ancient oblige diet cool odor judge";
+var mnemonic = "rigid jump type broken advance cannon strike oven tuition during across tragic";

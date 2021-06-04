@@ -1,1 +1,1 @@
-var mnemonic = "load once spy rhythm nominee crush worth stereo immense become concert proof";
+var mnemonic = "rival quote mystery inch steak rebel gown memory tattoo front method spice";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse axis toast first ring shoot review rely doctor emerge example edge";
+var mnemonic = "wire plunge vote affair worth flame oil enter inch decade salon hood";

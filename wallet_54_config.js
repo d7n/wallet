@@ -1,1 +1,1 @@
-var mnemonic = "helmet lecture legal output loop analyst swamp space parent blush rug lawn";
+var mnemonic = "novel target vivid people boat degree case volcano warrior guitar loyal melt";

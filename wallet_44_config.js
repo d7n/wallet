@@ -1,1 +1,1 @@
-var mnemonic = "model vacuum canvas slide carpet hammer south team during camp coffee nice";
+var mnemonic = "receive ancient brush profit very require industry trophy science memory dawn annual";

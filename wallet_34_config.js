@@ -1,1 +1,1 @@
-var mnemonic = "you common race original minor milk predict stumble eight liquid brisk sister";
+var mnemonic = "vital list cliff evoke second similar year water coil slam enforce scrap";

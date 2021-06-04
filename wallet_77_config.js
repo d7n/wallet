@@ -1,1 +1,1 @@
-var mnemonic = "opinion penalty flip coach office seek fatal proud unveil tape affair digital";
+var mnemonic = "carpet luggage master rail champion middle session caught paddle spare holiday else";

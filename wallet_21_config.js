@@ -1,1 +1,1 @@
-var mnemonic = "market all cable clutch dune danger can sudden feel rotate squeeze capital";
+var mnemonic = "daring what stick search symptom laugh old rule often flip knee sister";

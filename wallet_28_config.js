@@ -1,1 +1,1 @@
-var mnemonic = "math wolf retire alone casino dune face pupil say laundry boss boost";
+var mnemonic = "worth obtain virtual entry because track floor nerve pond mercy beauty relief";

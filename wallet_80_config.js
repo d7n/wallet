@@ -1,1 +1,1 @@
-var mnemonic = "skill best morning photo mistake smooth wide basket angle move indoor eagle";
+var mnemonic = "business tooth scene butter filter raise runway auction fire fiction bleak gravity";

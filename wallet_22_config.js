@@ -1,1 +1,1 @@
-var mnemonic = "episode trim diary misery task picnic report milk fly pitch organ surface";
+var mnemonic = "clinic alone off forward method roast fossil blanket only spin humor good";

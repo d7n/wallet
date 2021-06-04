@@ -1,1 +1,1 @@
-var mnemonic = "elevator agree wisdom reason blade flee oil detail pear caution seek margin";
+var mnemonic = "labor believe tomato glimpse agent either desert useful vacant blush space action";

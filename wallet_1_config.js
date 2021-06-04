@@ -1,1 +1,1 @@
-var mnemonic = "trumpet garage salmon thank make finish banana peace address satisfy candy exhaust";
+var mnemonic = "inside kit load smooth bleak tribe bleak drill pizza agree tube puppy";

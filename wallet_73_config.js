@@ -1,1 +1,1 @@
-var mnemonic = "enrich zoo slam noble subway grief claw catch include false kick van";
+var mnemonic = "sponsor pluck return lawsuit echo safe return word explain general response error";

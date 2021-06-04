@@ -1,1 +1,1 @@
-var mnemonic = "toilet immense police slender wood collect song phone roof tumble thunder jump";
+var mnemonic = "chest east sea sand tortoise lemon axis december bundle door elevator position";

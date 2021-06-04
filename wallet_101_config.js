@@ -1,1 +1,1 @@
-var mnemonic = "coral similar barrel squirrel peasant goddess update relax virus advance host hire";
+var mnemonic = "year outdoor quarter board girl nurse economy harbor tree frog lake alter";

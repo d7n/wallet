@@ -1,1 +1,1 @@
-var mnemonic = "invite gentle quarter insane hotel panic render fee gold pair sweet display";
+var mnemonic = "hole museum grass unit seven happy mail cheese memory oak bike dilemma";

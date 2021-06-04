@@ -1,1 +1,1 @@
-var mnemonic = "scheme roof off radio guilt machine certain modify describe solid boost fury";
+var mnemonic = "amount pitch great grab elephant tired nerve trash bag exchange subject cream";

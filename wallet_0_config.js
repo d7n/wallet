@@ -1,1 +1,1 @@
-var mnemonic = "pottery carbon win grid rabbit length prevent early arctic credit tank trap";
+var mnemonic = "kidney rare jealous genre rebuild brain hope angry barely luggage helmet fabric";

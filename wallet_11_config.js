@@ -1,1 +1,1 @@
-var mnemonic = "extra shiver kingdom history auto where ring witness shock patient surface now";
+var mnemonic = "stage consider collect conduct dumb wealth suggest arch glove squirrel tank typical";

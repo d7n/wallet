@@ -1,1 +1,1 @@
-var mnemonic = "risk cabin slight breeze romance feed sadness suffer doll mercy dutch country";
+var mnemonic = "sand leopard turtle garbage liberty farm brand world cousin grief describe chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "festival mass struggle music virtual increase clutch spy cupboard language cry zebra";
+var mnemonic = "found erode setup later guitar poet egg power immune planet abstract load";

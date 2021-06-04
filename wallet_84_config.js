@@ -1,1 +1,1 @@
-var mnemonic = "farm gun scare high chaos add income throw elevator cotton fuel income";
+var mnemonic = "endless afraid border apart hint release tomorrow denial oil saddle borrow error";

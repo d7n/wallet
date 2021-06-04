@@ -1,1 +1,1 @@
-var mnemonic = "holiday spoon sword scorpion ship catalog cactus prosper gossip walk load dolphin";
+var mnemonic = "afford scatter ankle strong trade able gospel gallery across pact abuse develop";

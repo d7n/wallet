@@ -1,1 +1,1 @@
-var mnemonic = "creek depth plunge lunch clay recipe surround black occur winter rookie adult";
+var mnemonic = "melody mobile rhythm aerobic couple finish illness breeze voice nurse convince right";

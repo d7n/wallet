@@ -1,1 +1,1 @@
-var mnemonic = "chunk vault suit giant rapid bargain secret learn trap snack deputy decorate";
+var mnemonic = "hospital okay drop home later retire scrap athlete sad erode relief ice";

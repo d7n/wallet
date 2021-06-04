@@ -1,1 +1,1 @@
-var mnemonic = "wrestle aerobic jazz ticket custom awesome exist math original business earn avoid";
+var mnemonic = "shift clinic person company orbit satisfy online play usage fringe address require";

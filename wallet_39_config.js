@@ -1,1 +1,1 @@
-var mnemonic = "fiber modify wage inquiry balcony enjoy pave notice disease chimney slice romance";
+var mnemonic = "advice modify length submit harvest ecology spell awkward party dog wine tackle";

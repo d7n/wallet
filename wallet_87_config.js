@@ -1,1 +1,1 @@
-var mnemonic = "tragic copper uniform impact clap sustain pond fringe run endorse foam faculty";
+var mnemonic = "waste candy blast between eyebrow vacant insect junk kiwi praise candy place";

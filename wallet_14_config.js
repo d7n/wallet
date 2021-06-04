@@ -1,1 +1,1 @@
-var mnemonic = "few veteran amount quantum number scheme tenant divorce sort coin lunar attitude";
+var mnemonic = "hobby sentence fiction flip suffer grief angry claim interest style shed heart";

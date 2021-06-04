@@ -1,1 +1,1 @@
-var mnemonic = "poet hidden simple castle recycle traffic never pony sell lunch cart leaf";
+var mnemonic = "bunker banner setup ahead solution layer space antenna alpha egg deny vessel";

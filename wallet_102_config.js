@@ -1,1 +1,1 @@
-var mnemonic = "arch below success economy garlic scout average kingdom april dash live jump";
+var mnemonic = "high drift mercy catch dignity pill evoke youth sick milk wide beyond";

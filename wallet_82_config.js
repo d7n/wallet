@@ -1,1 +1,1 @@
-var mnemonic = "cricket public situate near birth prize mimic grocery borrow charge champion catch";
+var mnemonic = "come diamond omit loan ensure either cheese auction raccoon hurdle truth polar";

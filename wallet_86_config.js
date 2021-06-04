@@ -1,1 +1,1 @@
-var mnemonic = "jeans cluster leopard kiss layer lizard frozen diary horror because pupil exchange";
+var mnemonic = "delay gaze expect hobby peanut valve rival wage blush actor coin tennis";

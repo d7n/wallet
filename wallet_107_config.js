@@ -1,1 +1,1 @@
-var mnemonic = "beach aware bottom track uncle cube clip admit bounce layer such question";
+var mnemonic = "lion weird stone face sphere spray pattern mule clinic section poem road";

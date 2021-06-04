@@ -1,1 +1,1 @@
-var mnemonic = "bachelor wreck photo blue injury minimum elder immune atom simple essence viable";
+var mnemonic = "height width sport outside language gloom couch belt vague ahead wood scale";

@@ -1,1 +1,1 @@
-var mnemonic = "feed merry spot immense away arena whisper abuse crowd awesome caught prison";
+var mnemonic = "siege warrior setup cool crush boring option west easy inch furnace nice";

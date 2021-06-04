@@ -1,1 +1,1 @@
-var mnemonic = "fitness erupt save thumb pumpkin cushion battle dynamic moon payment alter rapid";
+var mnemonic = "iron dream relief brick round balance tiny dream better physical connect easily";

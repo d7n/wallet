@@ -1,1 +1,1 @@
-var mnemonic = "choice grant purchase menu sand evolve vacant latin battle seven fun wheat";
+var mnemonic = "judge grunt green oppose spatial comic hunt actress jewel main junk rescue";

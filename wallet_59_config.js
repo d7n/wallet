@@ -1,1 +1,1 @@
-var mnemonic = "donor network south almost tomorrow appear master farm toddler false build edit";
+var mnemonic = "north market million route resemble hero point arena birth urge power two";

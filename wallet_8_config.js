@@ -1,1 +1,1 @@
-var mnemonic = "cruise half also turtle oven silent sign ceiling check pill rather puzzle";
+var mnemonic = "arm quantum hotel behind airport winner frost gas please island pitch basic";

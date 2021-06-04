@@ -1,1 +1,1 @@
-var mnemonic = "obscure village blossom thought canyon olive sketch yard wife dolphin clock outer";
+var mnemonic = "pilot wall mention walk bring cupboard agree shine wild dream wheat capital";

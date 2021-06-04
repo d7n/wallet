@@ -1,1 +1,1 @@
-var mnemonic = "alone airport pepper express evolve actress calm demand curve more accident super";
+var mnemonic = "receive side develop pull insane intact mention club boil frequent edit witness";

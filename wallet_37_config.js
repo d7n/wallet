@@ -1,1 +1,1 @@
-var mnemonic = "answer doctor river honey dress chimney total perfect seat spend foam same";
+var mnemonic = "menu sweet beach plunge simple dawn wild hard sausage raven column race";

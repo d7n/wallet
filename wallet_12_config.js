@@ -1,1 +1,1 @@
-var mnemonic = "december salad sting welcome replace earn either behind blossom vibrant despair ahead";
+var mnemonic = "shallow maze sniff disorder cup between flip tourist science expand poet index";

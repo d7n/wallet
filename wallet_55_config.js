@@ -1,1 +1,1 @@
-var mnemonic = "harvest any tomato team video sort crisp raccoon kangaroo impose oblige opinion";
+var mnemonic = "agree leopard segment seat soup item force word electric van baby crack";

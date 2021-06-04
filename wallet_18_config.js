@@ -1,1 +1,1 @@
-var mnemonic = "ozone climb letter crime minimum oak dice animal run pink glow trick";
+var mnemonic = "rose spatial theory curtain unlock empty luxury rely rail state mind december";

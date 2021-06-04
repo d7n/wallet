@@ -1,1 +1,1 @@
-var mnemonic = "aware sand online find junior unaware until ill harsh member scrap method";
+var mnemonic = "gallery moon meadow heart gallery parade someone reopen remind gossip possible cushion";

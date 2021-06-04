@@ -1,1 +1,1 @@
-var mnemonic = "iron mosquito virus notable speed close giraffe twist rose doll join industry";
+var mnemonic = "manage obey common awful gadget mandate happy wine pigeon coral tonight income";

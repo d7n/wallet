@@ -1,1 +1,1 @@
-var mnemonic = "mixture intact jaguar market warm acquire when impulse spy drama pluck simple";
+var mnemonic = "custom marble sausage seven debate paddle high marriage zoo garment core boss";

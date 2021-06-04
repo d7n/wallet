@@ -1,1 +1,1 @@
-var mnemonic = "drastic catalog call flame forward ribbon avoid icon shed fatigue pumpkin hurt";
+var mnemonic = "distance mass mammal rookie volcano stock jacket quality arrive amazing tube seminar";

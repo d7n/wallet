@@ -1,1 +1,1 @@
-var mnemonic = "suggest spend myself swim game honey trumpet mask party silk doctor stage";
+var mnemonic = "symptom render invest mandate holiday diet club drastic occur blanket place another";

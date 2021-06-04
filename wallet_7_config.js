@@ -1,1 +1,1 @@
-var mnemonic = "chronic luxury surge someone awful collect rain vessel fun adapt bag survey";
+var mnemonic = "grit enroll magnet space merit wealth ocean still power pen session dad";

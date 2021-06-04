@@ -1,1 +1,1 @@
-var mnemonic = "satoshi siren kiss basket broccoli calm farm use hope output tragic harbor";
+var mnemonic = "border ship sausage shiver race organ ahead pelican busy orient sausage human";

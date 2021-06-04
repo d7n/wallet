@@ -1,1 +1,1 @@
-var mnemonic = "oven sign velvet gather adult control fantasy siren shop mother cute sphere";
+var mnemonic = "opera festival bleak comfort state medal screen wire announce clown honey fee";

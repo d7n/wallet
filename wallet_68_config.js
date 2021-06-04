@@ -1,1 +1,1 @@
-var mnemonic = "nut urge august card quote lounge tennis virus file traffic forward harsh";
+var mnemonic = "urge volcano soccer castle below unaware struggle verify budget federal depend cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "what pyramid bicycle speed thumb sausage identify cheese kiss blame moral lucky";
+var mnemonic = "gadget stem kiss nurse move wheel liar slow three item bunker until";

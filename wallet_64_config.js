@@ -1,1 +1,1 @@
-var mnemonic = "impulse bamboo armor fit grain slogan loud great gallery trim hill nest";
+var mnemonic = "winter garage play fun powder volcano media scale seed vicious indoor vast";
