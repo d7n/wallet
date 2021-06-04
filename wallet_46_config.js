@@ -1,1 +1,1 @@
-var mnemonic = "hold appear test hire runway dragon promote visual pet cloud load target";
+var mnemonic = "retreat crucial mail review disorder just bar cause shell present cup play";

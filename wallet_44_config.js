@@ -1,1 +1,1 @@
-var mnemonic = "juice system shine option like fox nurse net exist bronze adapt oak";
+var mnemonic = "bargain alien banana office cry across select limit divide resist uncle immense";

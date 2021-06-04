@@ -1,1 +1,1 @@
-var mnemonic = "ticket essence primary raccoon december step such trade trip borrow reward menu";
+var mnemonic = "daring mesh royal cage iron rib little fold foot wolf turn erode";

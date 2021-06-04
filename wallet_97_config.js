@@ -1,1 +1,1 @@
-var mnemonic = "door middle spoil wolf series shoe minute mail wedding rude chapter agree";
+var mnemonic = "section banana roast modify review estate able asset curious again ring captain";

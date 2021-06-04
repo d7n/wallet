@@ -1,1 +1,1 @@
-var mnemonic = "journey illegal catalog what help green cart spray route bachelor must breeze";
+var mnemonic = "usage bracket advice omit arrange skirt oblige tip rose sign protect drip";

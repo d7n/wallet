@@ -1,1 +1,1 @@
-var mnemonic = "twin fly hedgehog argue dust sail raise heart admit wash erase giggle";
+var mnemonic = "duty convince wreck galaxy gun injury lizard recycle hospital surge sponsor among";

@@ -1,1 +1,1 @@
-var mnemonic = "receive annual soon antenna fiber tongue utility choose dad clock vault boss";
+var mnemonic = "gas danger viable year typical chuckle dose segment attract nominee depart try";

@@ -1,1 +1,1 @@
-var mnemonic = "zero jar absorb glad empower elephant pottery system sustain inner envelope reduce";
+var mnemonic = "sample bid crucial poverty elevator puppy collect express off jewel drill market";

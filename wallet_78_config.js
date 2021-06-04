@@ -1,1 +1,1 @@
-var mnemonic = "park off yard evil pride talk soap hip sudden river can segment";
+var mnemonic = "wage observe fetch drop pulse best tortoise talk will excess cable reason";

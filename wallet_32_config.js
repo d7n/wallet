@@ -1,1 +1,1 @@
-var mnemonic = "scout town lunch arena jump april over select spatial inside retire noodle";
+var mnemonic = "violin blue hotel fuel quick property nothing silly frown arrest during invite";

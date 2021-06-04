@@ -1,1 +1,1 @@
-var mnemonic = "lift notice winner permit tail oak boil rail entry decline coast grain";
+var mnemonic = "balance coin exist when tomato jewel fetch blame chunk chimney favorite broom";

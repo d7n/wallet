@@ -1,1 +1,1 @@
-var mnemonic = "tragic horse mimic bleak fence proud belt drop hundred fade duck own";
+var mnemonic = "sense spray gold list trap crunch misery true mirror panic senior object";

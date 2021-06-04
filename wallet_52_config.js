@@ -1,1 +1,1 @@
-var mnemonic = "rice box wait engage creek tag infant divide bitter slush mushroom gown";
+var mnemonic = "youth thunder sibling flip pact universe entry flat card town visit army";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon vivid annual adult unhappy bullet finish aerobic culture habit fiber impact";
+var mnemonic = "drink casual knife method rescue antenna divide insect kiss ordinary umbrella alone";

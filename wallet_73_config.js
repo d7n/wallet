@@ -1,1 +1,1 @@
-var mnemonic = "wink caution assume fragile monitor erase like project inspire display keen absent";
+var mnemonic = "grow keen cube unfair winter lock twenty century pistol book elbow pigeon";

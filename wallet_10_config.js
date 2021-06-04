@@ -1,1 +1,1 @@
-var mnemonic = "vicious glue unfair dignity light upper control slush child december slide under";
+var mnemonic = "they rib message metal addict behind fiscal peace soap describe skirt cake";

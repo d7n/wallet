@@ -1,1 +1,1 @@
-var mnemonic = "beach ceiling warm provide cushion sustain flat episode lion easily glue place";
+var mnemonic = "tone garage brain beach code pink father peanut choice brisk author weapon";

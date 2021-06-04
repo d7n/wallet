@@ -1,1 +1,1 @@
-var mnemonic = "cabin upgrade symptom panel excite bird fresh return inflict protect matrix theory";
+var mnemonic = "baby fossil achieve jazz marble disease dose science sorry render cement dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "there submit wire barrel lucky portion cereal slogan caution wood yellow rural";
+var mnemonic = "disorder garbage blur midnight carbon party horror kiss clutch increase silly barely";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal tower clump lab twin swap tube lawsuit blush soul kind walk";
+var mnemonic = "cruise drop item exercise slam open donate captain casual eagle object raise";

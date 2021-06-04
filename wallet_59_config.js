@@ -1,1 +1,1 @@
-var mnemonic = "unfold have chronic fault exhibit slam about now bus ripple rack wise";
+var mnemonic = "elegant trash endless helmet bone liquid blind frame blouse print acid spice";

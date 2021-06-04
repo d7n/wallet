@@ -1,1 +1,1 @@
-var mnemonic = "walk before traffic zebra goddess destroy ill license during champion cement patrol";
+var mnemonic = "text hood list truth gesture indicate broom wrap jump diary sauce space";

@@ -1,1 +1,1 @@
-var mnemonic = "shine place accuse girl horse lawsuit engine maximum tower brisk nothing nest";
+var mnemonic = "spin wolf fan arrest scorpion seat flavor vapor amount body burden track";

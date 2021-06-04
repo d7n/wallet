@@ -1,1 +1,1 @@
-var mnemonic = "anxiety lab cage nephew rally know region stand hope size stereo elevator";
+var mnemonic = "square shock property dream filter unfair hammer tilt annual fetch siege notable";

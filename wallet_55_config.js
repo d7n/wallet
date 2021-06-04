@@ -1,1 +1,1 @@
-var mnemonic = "blossom almost later flush curtain method budget isolate tell syrup chronic caution";
+var mnemonic = "shuffle family urban stage cable social tree audit stay creek doctor toe";

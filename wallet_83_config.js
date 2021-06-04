@@ -1,1 +1,1 @@
-var mnemonic = "park model comic trash bid mail skill process dream diet gasp piece";
+var mnemonic = "lift welcome expose item ranch song muscle fabric jungle chaos brother second";

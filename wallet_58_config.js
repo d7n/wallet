@@ -1,1 +1,1 @@
-var mnemonic = "stereo snack family cup begin matter minor denial output design under forward";
+var mnemonic = "weekend disease mesh unfold notable derive illness obvious text maximum jealous theory";

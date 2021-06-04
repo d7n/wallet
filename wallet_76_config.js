@@ -1,1 +1,1 @@
-var mnemonic = "hard butter six obey aim regular tired mango fringe increase ridge attack";
+var mnemonic = "then ready thumb debris like mechanic custom name skirt trial fantasy grief";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter polar timber alert disagree emotion shrimp deliver flock tail ritual decide";
+var mnemonic = "valve blush treat win team input raw mirror dune mesh fancy enjoy";

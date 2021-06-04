@@ -1,1 +1,1 @@
-var mnemonic = "glue sheriff media arrow glow novel control cake jealous stick axis unusual";
+var mnemonic = "deliver canoe basic feed kitten dignity worry tissue jewel keen clutch open";

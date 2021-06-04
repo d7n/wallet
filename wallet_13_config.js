@@ -1,1 +1,1 @@
-var mnemonic = "grape relief misery museum settle mechanic illegal barely march nominee valve strike";
+var mnemonic = "pill object flee tired nose broom assault essence end message powder sign";

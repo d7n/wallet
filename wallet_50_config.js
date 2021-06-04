@@ -1,1 +1,1 @@
-var mnemonic = "okay street sleep frozen picnic novel jeans match negative verb loop push";
+var mnemonic = "space wedding purity solution involve giant rural pact candy end wave account";

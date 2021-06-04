@@ -1,1 +1,1 @@
-var mnemonic = "loud soda dutch crush host intact traffic scene fortune can girl inject";
+var mnemonic = "toilet soldier permit poem extend process joke cost very alone remember combine";

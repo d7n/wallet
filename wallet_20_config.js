@@ -1,1 +1,1 @@
-var mnemonic = "idle exercise mushroom crop later paper person later mule special zebra scan";
+var mnemonic = "subway offer liberty frequent spice federal night can grief second ramp dream";

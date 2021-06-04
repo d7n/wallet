@@ -1,1 +1,1 @@
-var mnemonic = "what park combine aerobic exhibit achieve panic very leaf today fuel picture";
+var mnemonic = "lava fence song exact sound member artefact promote feature lift remove ankle";

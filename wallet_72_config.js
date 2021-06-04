@@ -1,1 +1,1 @@
-var mnemonic = "unusual federal fence asthma obtain sign topple shift frozen fortune lottery blouse";
+var mnemonic = "income tank build future tobacco juice vessel pride ignore priority tag defy";

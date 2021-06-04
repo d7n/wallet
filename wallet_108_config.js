@@ -1,1 +1,1 @@
-var mnemonic = "drum fringe auto rough visual hair state physical evolve pottery keep scare";
+var mnemonic = "kid domain slice narrow balcony bundle absent card around absurd name luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "explain bless marble rice great modify enhance stable final usage midnight sort";
+var mnemonic = "project weird congress embrace outdoor proof exchange company that glimpse vehicle employ";

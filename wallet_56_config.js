@@ -1,1 +1,1 @@
-var mnemonic = "walnut mammal write sight fall kidney cattle ski dish carry invite lamp";
+var mnemonic = "grass toe voyage attitude forum pond fabric error debris slight trend guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "impact have buzz rebuild trophy steel usual erode until spider captain volume";
+var mnemonic = "license place spell extra like say burst cotton donor verb zone panel";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gather monitor midnight glove happy attend art buzz shell funny dismiss";
+var mnemonic = "mind device muffin assault bleak skill lounge silver cotton hover sad until";

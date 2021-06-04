@@ -1,1 +1,1 @@
-var mnemonic = "permit approve sad bitter credit mule sauce spoil inspire quiz hair cute";
+var mnemonic = "soldier aim oxygen help manage zebra grain hip fuel barrel response border";

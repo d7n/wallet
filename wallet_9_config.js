@@ -1,1 +1,1 @@
-var mnemonic = "front memory remember bounce shed price essay print poem index rural umbrella";
+var mnemonic = "cancel report swim all water media nation funny today job ozone person";

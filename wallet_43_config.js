@@ -1,1 +1,1 @@
-var mnemonic = "penalty adapt tray faith suit tag grief arm shoot simple forget appear";
+var mnemonic = "earth baby shoulder slab palm coast modify chaos exchange radar theory bench";

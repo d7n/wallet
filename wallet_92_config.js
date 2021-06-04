@@ -1,1 +1,1 @@
-var mnemonic = "mistake lizard outside jeans ritual mass husband fever parrot firm cradle damp";
+var mnemonic = "network shock leg surface churn canyon where possible vapor pumpkin any muffin";

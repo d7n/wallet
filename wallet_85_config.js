@@ -1,1 +1,1 @@
-var mnemonic = "cry transfer thank brown bamboo axis icon object right pair push squeeze";
+var mnemonic = "live lab grid pluck purse later chunk away lab element mammal net";

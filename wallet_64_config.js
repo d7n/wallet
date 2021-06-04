@@ -1,1 +1,1 @@
-var mnemonic = "brand cannon connect wide flag elbow walk cliff echo plastic mammal column";
+var mnemonic = "essay female vacant wool grape flag sock shoulder bracket gift sweet umbrella";

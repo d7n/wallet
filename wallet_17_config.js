@@ -1,1 +1,1 @@
-var mnemonic = "harvest divert inner copy wish swear stem drop movie sustain pear risk";
+var mnemonic = "harvest say owner smooth brief notable cannon crawl portion erupt oyster frost";

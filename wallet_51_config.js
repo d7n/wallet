@@ -1,1 +1,1 @@
-var mnemonic = "fault design weasel fatal kingdom faint orient chalk service gadget hen embrace";
+var mnemonic = "evil alone aware glide trophy like weasel series wedding advance clump bean";

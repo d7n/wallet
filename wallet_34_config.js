@@ -1,1 +1,1 @@
-var mnemonic = "tool elbow chunk sing car moment glory dove soldier frozen reflect relax";
+var mnemonic = "plunge angry funny game alert spring promote timber shiver effort phone mad";

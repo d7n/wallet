@@ -1,1 +1,1 @@
-var mnemonic = "modify excite hollow burst rude civil goose brisk explain pledge aerobic zero";
+var mnemonic = "soap age idea detail admit middle scorpion print tank hammer wedding farm";

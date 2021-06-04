@@ -1,1 +1,1 @@
-var mnemonic = "shine remain street height cliff entry ensure grain tree oven miracle fluid";
+var mnemonic = "draft peasant kiss man shoot flag trash devote liberty kid defy exercise";

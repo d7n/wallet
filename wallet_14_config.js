@@ -1,1 +1,1 @@
-var mnemonic = "athlete silver aisle afraid digital flag purchase acoustic bottom gossip journey account";
+var mnemonic = "coin feature own finger dawn vast rib trick denial seat climb noise";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy brain raven solve bicycle suffer plastic cattle hair lumber screen lawn";
+var mnemonic = "mom infant absorb sport cannon face song vendor sell mobile element symbol";

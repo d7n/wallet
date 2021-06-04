@@ -1,1 +1,1 @@
-var mnemonic = "point skirt winter museum stove tornado muffin voyage world stuff obtain menu";
+var mnemonic = "one glove engage edit safe below casual perfect bomb panel gesture swim";

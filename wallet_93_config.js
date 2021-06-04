@@ -1,1 +1,1 @@
-var mnemonic = "craft capital wagon afraid excuse wedding steak leaf logic mouse object suspect";
+var mnemonic = "upper thank spray oyster inflict hello circle crunch rather junk topic panda";

@@ -1,1 +1,1 @@
-var mnemonic = "until venture desert source marriage grit laugh call topple trust sad napkin";
+var mnemonic = "lemon swap journey mask zone order heavy shadow such unique about hurt";

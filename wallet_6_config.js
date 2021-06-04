@@ -1,1 +1,1 @@
-var mnemonic = "property round access vast kiss office click achieve spray venture connect trophy";
+var mnemonic = "liquid library know arena token bus later nerve song comfort buffalo crater";

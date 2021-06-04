@@ -1,1 +1,1 @@
-var mnemonic = "paper rug pole awake case gym flock impact pencil cable dial permit";
+var mnemonic = "this resist level legend vast tuition brick mule person raise high network";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy roast birth cook endorse olive learn flee phrase rural antenna noodle";
+var mnemonic = "air vivid family detail chat adapt cliff affair owner cake deputy ball";

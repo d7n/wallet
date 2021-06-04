@@ -1,1 +1,1 @@
-var mnemonic = "aspect sudden cost bachelor denial idle mule chest book bind pen air";
+var mnemonic = "upon half park purse economy bamboo benefit elephant cancel village whale permit";

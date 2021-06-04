@@ -1,1 +1,1 @@
-var mnemonic = "proof enlist whale afford cream kitten can strike skill alley click replace";
+var mnemonic = "candy rain inject stuff soft grass tiny collect between volcano beauty armor";

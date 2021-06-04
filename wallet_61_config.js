@@ -1,1 +1,1 @@
-var mnemonic = "next surround skate anger hidden claw engage manage able tornado castle elbow";
+var mnemonic = "slush title write must group swift portion matrix clay end library deputy";

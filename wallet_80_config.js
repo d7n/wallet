@@ -1,1 +1,1 @@
-var mnemonic = "oil female pond arm desk gravity control home collect prize diagram neutral";
+var mnemonic = "trial sport hover head reject about delay layer key prevent label spice";

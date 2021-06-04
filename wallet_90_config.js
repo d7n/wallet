@@ -1,1 +1,1 @@
-var mnemonic = "paddle diamond increase silly chef bread code thing diary ordinary garden document";
+var mnemonic = "comic fix anger inhale struggle top pride two faculty long reward donate";

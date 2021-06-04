@@ -1,1 +1,1 @@
-var mnemonic = "wood atom raccoon crumble clean light spawn plug tool truly shiver fury";
+var mnemonic = "first extend staff little topple torch path winter game agent manage birth";

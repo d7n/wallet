@@ -1,1 +1,1 @@
-var mnemonic = "ketchup kite easy spend price matter ignore mom lizard distance stand audit";
+var mnemonic = "sugar rapid run thank crawl tilt volume olympic confirm identify floor loyal";

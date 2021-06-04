@@ -1,1 +1,1 @@
-var mnemonic = "frown supreme clap fossil glory long pact unlock punch common crucial combine";
+var mnemonic = "history recall trend else sick soldier swarm stamp recipe begin emotion develop";

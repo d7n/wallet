@@ -1,1 +1,1 @@
-var mnemonic = "brother capital casino bird march piano arch combine outer still flush congress";
+var mnemonic = "priority device night picnic picture load woman aspect thumb library stock robust";

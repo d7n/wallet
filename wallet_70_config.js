@@ -1,1 +1,1 @@
-var mnemonic = "earn lemon flock distance inform giant media distance rug castle garlic sketch";
+var mnemonic = "rug again gap grocery retire level mandate coyote boring absorb grab pattern";

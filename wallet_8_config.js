@@ -1,1 +1,1 @@
-var mnemonic = "avocado credit predict corn carry little angry obscure stuff ginger beach ship";
+var mnemonic = "oven riot pilot solution surprise dynamic lecture law memory cheese frost setup";

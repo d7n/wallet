@@ -1,1 +1,1 @@
-var mnemonic = "yellow artist category jeans exhaust local engage myth vital crime token pistol";
+var mnemonic = "veteran tower silver business region cancel pool design ivory vibrant order detail";

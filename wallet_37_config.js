@@ -1,1 +1,1 @@
-var mnemonic = "despair cry napkin rule mistake cheap save morning under acquire resist village";
+var mnemonic = "ankle glide brother hockey breeze loud diet build funny exist powder hover";

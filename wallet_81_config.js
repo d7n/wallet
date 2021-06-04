@@ -1,1 +1,1 @@
-var mnemonic = "castle sustain direct fossil cereal broom jelly castle keen profit armed athlete";
+var mnemonic = "coast romance bomb differ absurd resist throw lunar mirror avocado neck industry";

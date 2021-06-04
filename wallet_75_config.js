@@ -1,1 +1,1 @@
-var mnemonic = "crime bean like cave fabric nose local estate shed local lamp enjoy";
+var mnemonic = "victory seminar word message talk couch bulb explain process year reason price";

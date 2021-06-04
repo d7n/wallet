@@ -1,1 +1,1 @@
-var mnemonic = "again truly helmet frog shoulder embark pause enable cover naive skate mutual";
+var mnemonic = "gauge lyrics enrich diesel orient differ human retreat twist undo lucky feature";

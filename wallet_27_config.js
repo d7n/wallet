@@ -1,1 +1,1 @@
-var mnemonic = "planet gloom cash clever there cause tenant ball crisp frequent duty mistake";
+var mnemonic = "divide actor throw phrase swarm strategy pass easily bronze major joke exit";

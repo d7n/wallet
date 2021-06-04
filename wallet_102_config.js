@@ -1,1 +1,1 @@
-var mnemonic = "fetch begin equip advice rice gown focus pact humor crack reason arrive";
+var mnemonic = "fold isolate test loyal actor cinnamon tool ask around account proud celery";

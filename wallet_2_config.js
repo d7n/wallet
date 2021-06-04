@@ -1,1 +1,1 @@
-var mnemonic = "wealth witness system science pioneer crack debate disagree open transfer ribbon mixture";
+var mnemonic = "flight leave danger stable middle mouse rubber cheese genre attend project coin";

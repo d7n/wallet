@@ -1,1 +1,1 @@
-var mnemonic = "relief combine truth census promote craft public elegant olympic absent close sense";
+var mnemonic = "speed silly manual tooth someone behave siren box floor shift goose rural";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure daughter supreme address before pride lobster electric amused crouch achieve soul";
+var mnemonic = "riot path same apology amateur text broken dilemma stomach empty keep board";

@@ -1,1 +1,1 @@
-var mnemonic = "forward crew inherit chase father verb wonder crater now rose vocal pioneer";
+var mnemonic = "box involve word note void assist secret edge column diamond wash steel";

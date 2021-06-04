@@ -1,1 +1,1 @@
-var mnemonic = "obscure peace between version riot frame ceiling sight trim chapter shock tomato";
+var mnemonic = "rug super famous primary mistake mimic fade survey spread empty cable bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry spare cash rather churn almost morning inject mystery peanut glimpse toast";
+var mnemonic = "remain disease hill enter admit chief kitten screen imitate nation behind goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "project duty method skate repeat chase life catch wear wet yellow call";
+var mnemonic = "hunt verb dinner document only battle typical case trigger erupt special hospital";

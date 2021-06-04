@@ -1,1 +1,1 @@
-var mnemonic = "poet shove blanket leg arch antenna dog dwarf deal grow focus expect";
+var mnemonic = "point either swear october practice fun tobacco frown coil move canyon orange";

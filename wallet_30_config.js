@@ -1,1 +1,1 @@
-var mnemonic = "bitter top strategy venue monster amount mirror fabric sting priority equip open";
+var mnemonic = "fever bridge item scorpion fiction scissors furnace rigid math onion obvious execute";

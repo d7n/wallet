@@ -1,1 +1,1 @@
-var mnemonic = "tornado sugar guide another round picture baby alley prosper describe spawn glow";
+var mnemonic = "retire sound stem face royal gorilla park jeans vehicle suffer same album";
