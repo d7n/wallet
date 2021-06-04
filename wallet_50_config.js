@@ -1,1 +1,1 @@
-var mnemonic = "space wedding purity solution involve giant rural pact candy end wave account";
+var mnemonic = "dog gesture caution bicycle evil film route tuition doll mask cream erode";

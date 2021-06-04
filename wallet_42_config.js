@@ -1,1 +1,1 @@
-var mnemonic = "sense spray gold list trap crunch misery true mirror panic senior object";
+var mnemonic = "diesel end indoor material whale taste deer indoor fresh absorb kiss gun";

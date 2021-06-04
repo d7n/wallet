@@ -1,1 +1,1 @@
-var mnemonic = "veteran tower silver business region cancel pool design ivory vibrant order detail";
+var mnemonic = "noodle dial unhappy pact flame adapt gossip squeeze magnet renew accident choose";

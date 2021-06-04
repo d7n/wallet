@@ -1,1 +1,1 @@
-var mnemonic = "ride glove predict dragon soccer enough quiz best chicken digital top boy";
+var mnemonic = "kiwi rookie various input marble priority lonely motor dust napkin humor claw";

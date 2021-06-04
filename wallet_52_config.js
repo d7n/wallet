@@ -1,1 +1,1 @@
-var mnemonic = "youth thunder sibling flip pact universe entry flat card town visit army";
+var mnemonic = "nurse rather bridge develop abuse gorilla orange pave easy mention jazz steak";

@@ -1,1 +1,1 @@
-var mnemonic = "comic fix anger inhale struggle top pride two faculty long reward donate";
+var mnemonic = "truth exit range sand science best flip genre regret couple sister update";

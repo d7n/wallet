@@ -1,1 +1,1 @@
-var mnemonic = "gauge lyrics enrich diesel orient differ human retreat twist undo lucky feature";
+var mnemonic = "lake round oak fabric fun tiger tail behave sustain brand human security";

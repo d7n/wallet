@@ -1,1 +1,1 @@
-var mnemonic = "gadget material prevent coral hint invite notice fog annual squirrel drum trash";
+var mnemonic = "drip gorilla october cook much dice truck live dawn school sweet laptop";

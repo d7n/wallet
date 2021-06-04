@@ -1,1 +1,1 @@
-var mnemonic = "coin feature own finger dawn vast rib trick denial seat climb noise";
+var mnemonic = "earth outer toward diamond theory glue margin skirt moment dog tape chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid library know arena token bus later nerve song comfort buffalo crater";
+var mnemonic = "potato empty enrich student lemon breeze trouble same coil issue general maze";

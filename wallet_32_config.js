@@ -1,1 +1,1 @@
-var mnemonic = "violin blue hotel fuel quick property nothing silly frown arrest during invite";
+var mnemonic = "bamboo harsh north limb region intact between rack cigar pill feature lawsuit";

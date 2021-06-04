@@ -1,1 +1,1 @@
-var mnemonic = "they rib message metal addict behind fiscal peace soap describe skirt cake";
+var mnemonic = "grocery banana affair useful fitness inflict run gym permit cliff between tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "project weird congress embrace outdoor proof exchange company that glimpse vehicle employ";
+var mnemonic = "student infant ahead tired silk perfect poet breeze inflict bamboo walk tissue";

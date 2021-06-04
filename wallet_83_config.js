@@ -1,1 +1,1 @@
-var mnemonic = "lift welcome expose item ranch song muscle fabric jungle chaos brother second";
+var mnemonic = "vehicle pig fade enrich swim rail quit spin canal inspire meadow develop";

@@ -1,1 +1,1 @@
-var mnemonic = "draft peasant kiss man shoot flag trash devote liberty kid defy exercise";
+var mnemonic = "reject visa candy only cage mystery burst pause fan enroll gauge lonely";

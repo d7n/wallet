@@ -1,1 +1,1 @@
-var mnemonic = "then ready thumb debris like mechanic custom name skirt trial fantasy grief";
+var mnemonic = "mobile squeeze into opera multiply rebel hunt language capable pen expect install";

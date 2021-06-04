@@ -1,1 +1,1 @@
-var mnemonic = "retreat crucial mail review disorder just bar cause shell present cup play";
+var mnemonic = "curious walnut media swift dial legend minute false isolate question armor rice";

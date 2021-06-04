@@ -1,1 +1,1 @@
-var mnemonic = "sample bid crucial poverty elevator puppy collect express off jewel drill market";
+var mnemonic = "cancel rebuild fringe assume stairs session cake crush powder muscle coffee enforce";

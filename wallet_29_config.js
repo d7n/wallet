@@ -1,1 +1,1 @@
-var mnemonic = "this resist level legend vast tuition brick mule person raise high network";
+var mnemonic = "whale useful client brother credit tone pupil wave wine coral tray asset";

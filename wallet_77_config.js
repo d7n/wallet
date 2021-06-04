@@ -1,1 +1,1 @@
-var mnemonic = "junior wood balcony category lazy wasp reject second vacuum utility arena clown";
+var mnemonic = "genre pill scheme report require topic sauce vacuum fish enable win vehicle";

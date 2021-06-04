@@ -1,1 +1,1 @@
-var mnemonic = "candy rain inject stuff soft grass tiny collect between volcano beauty armor";
+var mnemonic = "phone jeans ketchup memory border tongue weasel long sun sister pear deal";

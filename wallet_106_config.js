@@ -1,1 +1,1 @@
-var mnemonic = "box involve word note void assist secret edge column diamond wash steel";
+var mnemonic = "cost radar explain inside body chase rhythm thought discover food mesh syrup";

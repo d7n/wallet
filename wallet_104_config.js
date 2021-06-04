@@ -1,1 +1,1 @@
-var mnemonic = "fantasy spawn photo know trip crouch taxi found inhale middle entire sustain";
+var mnemonic = "document spice mouse urban loud copper shed erode culture mix claim stand";

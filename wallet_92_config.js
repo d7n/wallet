@@ -1,1 +1,1 @@
-var mnemonic = "network shock leg surface churn canyon where possible vapor pumpkin any muffin";
+var mnemonic = "impose lady vault wet dove act bike body clock canal tissue apple";

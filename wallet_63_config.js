@@ -1,1 +1,1 @@
-var mnemonic = "disorder garbage blur midnight carbon party horror kiss clutch increase silly barely";
+var mnemonic = "dust credit parent satisfy book valley genuine canyon work tortoise target stage";

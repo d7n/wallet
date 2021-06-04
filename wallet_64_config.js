@@ -1,1 +1,1 @@
-var mnemonic = "essay female vacant wool grape flag sock shoulder bracket gift sweet umbrella";
+var mnemonic = "table alert daring sphere buddy myself hammer festival elevator supreme desk theme";

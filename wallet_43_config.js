@@ -1,1 +1,1 @@
-var mnemonic = "earth baby shoulder slab palm coast modify chaos exchange radar theory bench";
+var mnemonic = "meadow plunge thank basket arctic fiction narrow double jealous saddle elder skin";

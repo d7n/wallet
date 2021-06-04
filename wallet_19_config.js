@@ -1,1 +1,1 @@
-var mnemonic = "toilet soldier permit poem extend process joke cost very alone remember combine";
+var mnemonic = "try emerge west near involve plastic avoid disease endorse bleak tortoise rent";

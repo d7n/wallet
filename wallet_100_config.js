@@ -1,1 +1,1 @@
-var mnemonic = "palace reopen actual sell thumb punch demand man thing truck sniff hurry";
+var mnemonic = "want satoshi budget document receive process history will cherry mosquito laundry produce";

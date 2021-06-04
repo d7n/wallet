@@ -1,1 +1,1 @@
-var mnemonic = "mom infant absorb sport cannon face song vendor sell mobile element symbol";
+var mnemonic = "globe blouse unlock split radar eagle marriage exotic attitude where damp soft";

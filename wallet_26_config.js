@@ -1,1 +1,1 @@
-var mnemonic = "one glove engage edit safe below casual perfect bomb panel gesture swim";
+var mnemonic = "please tuna chicken soldier danger voyage rely book unveil tragic useless churn";

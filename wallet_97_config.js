@@ -1,1 +1,1 @@
-var mnemonic = "section banana roast modify review estate able asset curious again ring captain";
+var mnemonic = "core stone hen zone ribbon pumpkin goose kit laptop sleep clock grass";

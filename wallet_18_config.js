@@ -1,1 +1,1 @@
-var mnemonic = "always dinosaur rebuild help snake joy measure fold stock palm snap permit";
+var mnemonic = "wash boost treat shrug unique usage metal bless whale bench fabric minimum";

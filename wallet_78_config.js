@@ -1,1 +1,1 @@
-var mnemonic = "wage observe fetch drop pulse best tortoise talk will excess cable reason";
+var mnemonic = "art author juice poem exclude blue skin custom pair guilt crouch pioneer";

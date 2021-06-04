@@ -1,1 +1,1 @@
-var mnemonic = "oven riot pilot solution surprise dynamic lecture law memory cheese frost setup";
+var mnemonic = "toss normal brass indicate acid blind jump arm identify always relief injury";

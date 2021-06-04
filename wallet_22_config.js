@@ -1,1 +1,1 @@
-var mnemonic = "valve blush treat win team input raw mirror dune mesh fancy enjoy";
+var mnemonic = "quick unaware cruel people burden lunar purity spirit pulse hair visual ocean";

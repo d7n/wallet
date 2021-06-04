@@ -1,1 +1,1 @@
-var mnemonic = "frog hospital test embrace cover royal pepper route deny brain moral sniff";
+var mnemonic = "anchor orphan tennis purpose fish tumble strong silent grape can seven issue";

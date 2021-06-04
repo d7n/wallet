@@ -1,1 +1,1 @@
-var mnemonic = "soap age idea detail admit middle scorpion print tank hammer wedding farm";
+var mnemonic = "animal rural change sugar injury quiz common galaxy tilt endorse life apart";

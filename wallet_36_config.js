@@ -1,1 +1,1 @@
-var mnemonic = "history recall trend else sick soldier swarm stamp recipe begin emotion develop";
+var mnemonic = "army alpha twice bottom cup elbow hen glad ship kick hole emerge";

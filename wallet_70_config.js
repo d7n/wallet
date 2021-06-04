@@ -1,1 +1,1 @@
-var mnemonic = "rug again gap grocery retire level mandate coyote boring absorb grab pattern";
+var mnemonic = "become tone inside humble hockey member motor ordinary father hen remain easily";

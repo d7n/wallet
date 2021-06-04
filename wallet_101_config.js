@@ -1,1 +1,1 @@
-var mnemonic = "meadow neutral cruise obey fence three muffin cluster lunch arm bundle wide";
+var mnemonic = "very false lunar author spread plunge bottom other train execute blossom fold";

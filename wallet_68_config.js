@@ -1,1 +1,1 @@
-var mnemonic = "lemon swap journey mask zone order heavy shadow such unique about hurt";
+var mnemonic = "offer claw smoke industry few spike garden oxygen brother lens belt upset";

@@ -1,1 +1,1 @@
-var mnemonic = "point either swear october practice fun tobacco frown coil move canyon orange";
+var mnemonic = "inform promote tattoo patrol worth forest social narrow range mistake analyst when";

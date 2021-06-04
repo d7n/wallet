@@ -1,1 +1,1 @@
-var mnemonic = "lawn word tenant drink hub animal chimney wall dynamic mosquito wild absurd";
+var mnemonic = "maple powder layer rice behave festival rifle envelope olive language cabin invest";

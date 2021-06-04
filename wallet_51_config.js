@@ -1,1 +1,1 @@
-var mnemonic = "evil alone aware glide trophy like weasel series wedding advance clump bean";
+var mnemonic = "category breeze return census jump pumpkin tomato coral skirt embody pizza chapter";

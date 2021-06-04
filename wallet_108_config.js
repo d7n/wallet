@@ -1,1 +1,1 @@
-var mnemonic = "kid domain slice narrow balcony bundle absent card around absurd name luggage";
+var mnemonic = "double shine swap select prevent mix century term small safe today where";

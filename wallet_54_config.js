@@ -1,1 +1,1 @@
-var mnemonic = "riot path same apology amateur text broken dilemma stomach empty keep board";
+var mnemonic = "scare forum finger olive flower exhaust cushion vapor obscure motor lamp fantasy";

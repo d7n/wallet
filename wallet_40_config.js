@@ -1,1 +1,1 @@
-var mnemonic = "baby fossil achieve jazz marble disease dose science sorry render cement dinner";
+var mnemonic = "until hawk vacant nuclear swamp grow yellow lecture stock hen harsh they";

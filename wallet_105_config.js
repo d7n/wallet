@@ -1,1 +1,1 @@
-var mnemonic = "retire sound stem face royal gorilla park jeans vehicle suffer same album";
+var mnemonic = "gold reform hybrid embrace outside syrup zoo renew unable media legend hip";

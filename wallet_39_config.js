@@ -1,1 +1,1 @@
-var mnemonic = "priority device night picnic picture load woman aspect thumb library stock robust";
+var mnemonic = "december attract near develop limit boost dynamic shell jungle grab egg around";

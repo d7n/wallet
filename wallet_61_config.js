@@ -1,1 +1,1 @@
-var mnemonic = "slush title write must group swift portion matrix clay end library deputy";
+var mnemonic = "path popular public cost social husband scissors jewel parent apple spot rocket";

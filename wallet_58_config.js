@@ -1,1 +1,1 @@
-var mnemonic = "weekend disease mesh unfold notable derive illness obvious text maximum jealous theory";
+var mnemonic = "wisdom sadness palace tortoise fox power oil buyer mistake hat army place";

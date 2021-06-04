@@ -1,1 +1,1 @@
-var mnemonic = "sugar rapid run thank crawl tilt volume olympic confirm identify floor loyal";
+var mnemonic = "sea useless opinion symbol laundry stable announce crop auto rack split silly";

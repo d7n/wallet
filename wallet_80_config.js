@@ -1,1 +1,1 @@
-var mnemonic = "trial sport hover head reject about delay layer key prevent label spice";
+var mnemonic = "scout connect bachelor arrive base major winner rice warm speed grape trigger";

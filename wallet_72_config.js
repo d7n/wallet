@@ -1,1 +1,1 @@
-var mnemonic = "income tank build future tobacco juice vessel pride ignore priority tag defy";
+var mnemonic = "motion ball nature decorate ordinary spring again clap trip orphan worry celery";

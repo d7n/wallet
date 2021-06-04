@@ -1,1 +1,1 @@
-var mnemonic = "square shock property dream filter unfair hammer tilt annual fetch siege notable";
+var mnemonic = "wagon boy clerk rich unit clever conduct squirrel judge chef winner fold";

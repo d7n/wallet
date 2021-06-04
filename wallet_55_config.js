@@ -1,1 +1,1 @@
-var mnemonic = "shuffle family urban stage cable social tree audit stay creek doctor toe";
+var mnemonic = "shoe runway pistol repair toast box village glance marriage side marble banner";

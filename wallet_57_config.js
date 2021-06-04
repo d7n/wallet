@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tray interest kid unable case cook lesson mean canoe zebra media";
+var mnemonic = "meat must upon ball final omit since avoid digital surround idle jump";

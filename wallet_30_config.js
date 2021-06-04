@@ -1,1 +1,1 @@
-var mnemonic = "fever bridge item scorpion fiction scissors furnace rigid math onion obvious execute";
+var mnemonic = "that dinner exist urge enhance ostrich present ostrich palm heart layer ice";

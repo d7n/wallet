@@ -1,1 +1,1 @@
-var mnemonic = "spin wolf fan arrest scorpion seat flavor vapor amount body burden track";
+var mnemonic = "tide patrol announce jewel bundle general adult vocal real sword slab shrimp";

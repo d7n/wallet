@@ -1,1 +1,1 @@
-var mnemonic = "ankle glide brother hockey breeze loud diet build funny exist powder hover";
+var mnemonic = "rather pause fiscal myself acoustic echo amount alter wool fantasy awesome idea";

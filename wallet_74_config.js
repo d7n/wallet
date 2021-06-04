@@ -1,1 +1,1 @@
-var mnemonic = "daring mesh royal cage iron rib little fold foot wolf turn erode";
+var mnemonic = "win park toss engine split paddle execute moon vote reason century turn";

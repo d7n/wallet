@@ -1,1 +1,1 @@
-var mnemonic = "fold isolate test loyal actor cinnamon tool ask around account proud celery";
+var mnemonic = "fancy april dust spend pet midnight away credit festival place ranch equip";

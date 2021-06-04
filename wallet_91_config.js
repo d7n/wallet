@@ -1,1 +1,1 @@
-var mnemonic = "lumber risk merge they peanut clog track decrease van family essence proud";
+var mnemonic = "ceiling insect lift settle rose undo pink naive seed talent love armed";

@@ -1,1 +1,1 @@
-var mnemonic = "victory seminar word message talk couch bulb explain process year reason price";
+var mnemonic = "length general mass winter high course choice broccoli wear actual spice suit";

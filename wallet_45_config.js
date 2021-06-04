@@ -1,1 +1,1 @@
-var mnemonic = "text hood list truth gesture indicate broom wrap jump diary sauce space";
+var mnemonic = "appear wish model catch example stove oval garage major labor excite liquid";

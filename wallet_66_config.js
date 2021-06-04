@@ -1,1 +1,1 @@
-var mnemonic = "mind device muffin assault bleak skill lounge silver cotton hover sad until";
+var mnemonic = "bird device task divide company beyond wife permit nose embody response bless";

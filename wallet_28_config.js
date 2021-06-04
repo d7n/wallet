@@ -1,1 +1,1 @@
-var mnemonic = "first extend staff little topple torch path winter game agent manage birth";
+var mnemonic = "record yard monkey riot fly survey battle believe spider weird enlist typical";

@@ -1,1 +1,1 @@
-var mnemonic = "rug super famous primary mistake mimic fade survey spread empty cable bacon";
+var mnemonic = "project appear spot devote pact ribbon reveal above upper avoid sea faith";

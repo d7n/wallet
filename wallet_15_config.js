@@ -1,1 +1,1 @@
-var mnemonic = "gentle put laptop aware ridge equip spy drama green train output stock";
+var mnemonic = "upgrade mind attitude desert dragon fence sun soldier blossom radio trophy capable";

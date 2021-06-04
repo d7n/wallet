@@ -1,1 +1,1 @@
-var mnemonic = "tone garage brain beach code pink father peanut choice brisk author weapon";
+var mnemonic = "series coral raccoon guilt pizza benefit fork autumn hazard road habit teach";

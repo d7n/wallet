@@ -1,1 +1,1 @@
-var mnemonic = "deliver canoe basic feed kitten dignity worry tissue jewel keen clutch open";
+var mnemonic = "kit glory wonder magic wild perfect dignity client busy dawn topic local";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt verb dinner document only battle typical case trigger erupt special hospital";
+var mnemonic = "you oxygen agent baby wish prepare entire grab summer ostrich index vapor";

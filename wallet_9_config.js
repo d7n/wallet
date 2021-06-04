@@ -1,1 +1,1 @@
-var mnemonic = "cancel report swim all water media nation funny today job ozone person";
+var mnemonic = "gorilla thunder drill emotion motion version wear profit antique rival group drop";

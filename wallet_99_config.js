@@ -1,1 +1,1 @@
-var mnemonic = "air vivid family detail chat adapt cliff affair owner cake deputy ball";
+var mnemonic = "arrive shuffle tragic fashion moral meadow demise menu violin expect picnic shell";

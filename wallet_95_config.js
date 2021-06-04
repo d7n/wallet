@@ -1,1 +1,1 @@
-var mnemonic = "sketch rule egg fiber aspect will rug crush area eye food chicken";
+var mnemonic = "random wage angle reveal castle enlist pipe gap correct birth anchor critic";

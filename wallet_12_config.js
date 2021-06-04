@@ -1,1 +1,1 @@
-var mnemonic = "frozen crunch bean final wing devote frost disagree village unable tribe trend";
+var mnemonic = "tiger element egg output truly laundry ability ship oyster tomorrow certain fall";

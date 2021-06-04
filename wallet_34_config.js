@@ -1,1 +1,1 @@
-var mnemonic = "plunge angry funny game alert spring promote timber shiver effort phone mad";
+var mnemonic = "cereal bicycle expect fork parent time post blouse roof grocery dance news";

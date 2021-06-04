@@ -1,1 +1,1 @@
-var mnemonic = "usage bracket advice omit arrange skirt oblige tip rose sign protect drip";
+var mnemonic = "rifle human seed eternal forget ship blush limb any fiscal increase aware";

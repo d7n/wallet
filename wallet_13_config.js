@@ -1,1 +1,1 @@
-var mnemonic = "pill object flee tired nose broom assault essence end message powder sign";
+var mnemonic = "pen manage save property discover imitate sphere sail shaft casual board evil";

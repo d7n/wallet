@@ -1,1 +1,1 @@
-var mnemonic = "remain disease hill enter admit chief kitten screen imitate nation behind goddess";
+var mnemonic = "visa off foot laundry genre depth relief sadness accident couch outside excess";

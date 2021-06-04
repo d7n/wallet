@@ -1,1 +1,1 @@
-var mnemonic = "subway offer liberty frequent spice federal night can grief second ramp dream";
+var mnemonic = "transfer devote aware poem debris blood imitate route music silver animal square";

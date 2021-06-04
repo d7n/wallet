@@ -1,1 +1,1 @@
-var mnemonic = "oyster control wall couple basket chat where marble shy hope bleak empty";
+var mnemonic = "reduce own unlock remember reward transfer divert tone decline gloom injury expect";

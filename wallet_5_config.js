@@ -1,1 +1,1 @@
-var mnemonic = "flock meat basic blood lend flavor march stereo manual matter blast insect";
+var mnemonic = "powder dance walnut artefact shallow grab pupil turkey able crime front sword";

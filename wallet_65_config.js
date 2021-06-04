@@ -1,1 +1,1 @@
-var mnemonic = "strong exhaust occur lottery crash illegal snake female force deliver zoo cotton";
+var mnemonic = "intact exhaust where isolate blind mask certain angle panther slam smart congress";

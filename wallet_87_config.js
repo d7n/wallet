@@ -1,1 +1,1 @@
-var mnemonic = "soldier aim oxygen help manage zebra grain hip fuel barrel response border";
+var mnemonic = "egg unveil check taste bean winter tomorrow shoe neutral setup sea amateur";

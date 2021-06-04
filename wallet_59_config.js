@@ -1,1 +1,1 @@
-var mnemonic = "elegant trash endless helmet bone liquid blind frame blouse print acid spice";
+var mnemonic = "foster inside knee account trial action nice ensure abandon chef provide muscle";

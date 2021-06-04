@@ -1,1 +1,1 @@
-var mnemonic = "plate narrow female vote nephew claw ginger bread rug approve thumb hero";
+var mnemonic = "cup moon move bulb fork stereo more inflict someone sauce awesome budget";

@@ -1,1 +1,1 @@
-var mnemonic = "license place spell extra like say burst cotton donor verb zone panel";
+var mnemonic = "favorite cloud hobby draft nut miracle give scissors flower vivid walk goose";

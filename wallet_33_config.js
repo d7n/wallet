@@ -1,1 +1,1 @@
-var mnemonic = "mansion grain century attract private hundred client clay cross rescue ring cherry";
+var mnemonic = "case clerk network pen believe drip arrive they popular absent uncover nut";
