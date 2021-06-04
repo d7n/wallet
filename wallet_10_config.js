@@ -1,1 +1,1 @@
-var mnemonic = "siege melody crop account juice fortune village connect tenant salon inner bind";
+var mnemonic = "lobster melody mix trigger tower direct attend wasp anchor romance mosquito rhythm";

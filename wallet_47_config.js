@@ -1,1 +1,1 @@
-var mnemonic = "lunch any fury chest arrange income swarm swamp shadow bean someone piano";
+var mnemonic = "bronze enable soccer reform side wrong uncle dilemma rack jealous library regular";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract web silver erase aspect curtain hour theory amused paddle focus media";
+var mnemonic = "survey suspect soccer twin asset negative prosper chronic habit spin tail tongue";

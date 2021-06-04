@@ -1,1 +1,1 @@
-var mnemonic = "head satisfy garbage board water border couch private lunch pig shrug cash";
+var mnemonic = "exhibit setup prepare black visual ride essence west work aisle parade elite";

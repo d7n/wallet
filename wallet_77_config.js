@@ -1,1 +1,1 @@
-var mnemonic = "sign blind can fashion goddess throw canvas oxygen know enjoy convince negative";
+var mnemonic = "display tool theory blossom strategy maid safe amateur glove jazz angry expect";

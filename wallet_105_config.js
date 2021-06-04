@@ -1,1 +1,1 @@
-var mnemonic = "panic hard offer truly pen fly erode follow orphan rifle renew capable";
+var mnemonic = "certain tunnel tennis faculty focus drift circle hospital cousin display toe gun";

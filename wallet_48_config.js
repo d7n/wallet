@@ -1,1 +1,1 @@
-var mnemonic = "hurt poverty boil book frost gather shock believe verify pelican obtain immense";
+var mnemonic = "project hair parrot joy expire girl light episode flat lake muscle area";

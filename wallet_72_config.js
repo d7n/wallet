@@ -1,1 +1,1 @@
-var mnemonic = "lion special monkey property shiver concert chalk desert twelve jacket all vital";
+var mnemonic = "eyebrow small foam side tribe enlist number avoid bus surface donate pledge";

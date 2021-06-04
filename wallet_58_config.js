@@ -1,1 +1,1 @@
-var mnemonic = "sugar web economy choose maximum inflict place where rebuild enact direct dumb";
+var mnemonic = "service park pencil visa vivid silent fever interest model wine protect true";

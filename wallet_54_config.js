@@ -1,1 +1,1 @@
-var mnemonic = "student elite involve slow cargo produce attitude summer invest reduce decrease entire";
+var mnemonic = "misery found surround rich kiss blind worry crucial south endorse try track";

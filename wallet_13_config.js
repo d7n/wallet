@@ -1,1 +1,1 @@
-var mnemonic = "impulse thunder priority improve nuclear order essay police pupil early tower crack";
+var mnemonic = "creek globe misery arrive exile kid circle element sport decorate truck drum";

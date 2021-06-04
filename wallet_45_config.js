@@ -1,1 +1,1 @@
-var mnemonic = "swim area crater lucky never romance equal story hospital fence social flower";
+var mnemonic = "fence butter wash student urban modify behind steak coast foil gossip this";

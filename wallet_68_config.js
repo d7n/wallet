@@ -1,1 +1,1 @@
-var mnemonic = "tilt roast license pen blood loan demise system hospital pave recall stool";
+var mnemonic = "diesel transfer nose game casino mushroom dwarf remember dismiss negative guitar cradle";

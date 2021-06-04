@@ -1,1 +1,1 @@
-var mnemonic = "seat gasp allow nest lazy apology boil peanut inch include impose lion";
+var mnemonic = "better garbage enrich rice grow artwork require hair rent fashion stock glove";

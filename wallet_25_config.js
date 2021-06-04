@@ -1,1 +1,1 @@
-var mnemonic = "buffalo main battle coach journey knee pitch short unfair suit gym thrive";
+var mnemonic = "weird stock protect that artwork globe donate fantasy property margin summer actual";

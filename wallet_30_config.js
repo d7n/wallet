@@ -1,1 +1,1 @@
-var mnemonic = "float degree exercise palm great wreck amused middle sausage enforce enhance sponsor";
+var mnemonic = "stem side possible hospital must lyrics appear brand bridge cousin project cinnamon";

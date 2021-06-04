@@ -1,1 +1,1 @@
-var mnemonic = "salon holiday milk install bulb tortoise believe bulk can crawl ticket wheel";
+var mnemonic = "robot vacant attract couple eager intact cry limb plug palace unit sheriff";

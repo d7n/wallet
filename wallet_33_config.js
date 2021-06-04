@@ -1,1 +1,1 @@
-var mnemonic = "great virus drift idle filter neck lawn tribe woman property paddle fatal";
+var mnemonic = "cheese leg gown awkward swing infant during thank cradle final much timber";

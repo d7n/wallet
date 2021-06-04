@@ -1,1 +1,1 @@
-var mnemonic = "ozone creek swear canvas cabin alert addict ugly olympic monster spin valid";
+var mnemonic = "color race again couple soul surface tourist beach snake clay cluster song";

@@ -1,1 +1,1 @@
-var mnemonic = "globe random cup nominee path lend meat garage mom suit smooth south";
+var mnemonic = "price vendor orange tired uphold pool pencil fame phrase burger pulse extend";

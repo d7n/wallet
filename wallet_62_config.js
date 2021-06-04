@@ -1,1 +1,1 @@
-var mnemonic = "lady harbor baby tattoo curious absent mention keep jazz wise offer glue";
+var mnemonic = "knock twist master relax group blind slice oyster gravity chef question alien";

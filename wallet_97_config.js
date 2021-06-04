@@ -1,1 +1,1 @@
-var mnemonic = "crisp sniff shaft smoke venue recycle icon profit okay mercy note video";
+var mnemonic = "expose spin beauty patch scout lucky sort awesome review volcano hood raise";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt true divorce allow type ozone spice coffee alert youth oyster track";
+var mnemonic = "dress carry knife pull glue eager crouch gasp return era life lemon";

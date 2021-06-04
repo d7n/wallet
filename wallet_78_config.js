@@ -1,1 +1,1 @@
-var mnemonic = "oval release wing acquire steel people mango ship please assist decide eyebrow";
+var mnemonic = "aware maximum token piece blouse upgrade feed slow height behave erase that";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome pipe kingdom battle road public smile border sugar volume client news";
+var mnemonic = "gesture trick quarter peace tongue laptop strike nation strategy discover item adapt";

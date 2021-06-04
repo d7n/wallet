@@ -1,1 +1,1 @@
-var mnemonic = "liberty type soft husband wink visit demand budget dignity panel fall road";
+var mnemonic = "minute board surround soda cement decade expect brick hundred camp solution foam";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger kit lawn dry horse route hedgehog tragic empty call course august";
+var mnemonic = "sting seven dentist rib pond loud panda decide quarter drill silly height";

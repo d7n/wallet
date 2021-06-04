@@ -1,1 +1,1 @@
-var mnemonic = "swim various nominee nation bounce purity suffer swap tattoo figure prefer century";
+var mnemonic = "timber true violin black hurdle explain space goat rebuild shrug police excess";

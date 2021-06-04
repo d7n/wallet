@@ -1,1 +1,1 @@
-var mnemonic = "skull awesome render inject hill grab squeeze clown effort erupt deposit space";
+var mnemonic = "update rib truth rival skill focus error wool notable thing resource judge";

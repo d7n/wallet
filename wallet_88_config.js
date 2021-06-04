@@ -1,1 +1,1 @@
-var mnemonic = "combine spend plunge snap will cattle renew umbrella travel abstract detect oven";
+var mnemonic = "art ripple sausage film bone imitate fork credit near help version page";

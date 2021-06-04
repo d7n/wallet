@@ -1,1 +1,1 @@
-var mnemonic = "quarter document promote snake shaft snap smoke gap paper ranch comfort spare";
+var mnemonic = "onion list original craft magnet glue portion arena topic replace just ramp";

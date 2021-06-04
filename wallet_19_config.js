@@ -1,1 +1,1 @@
-var mnemonic = "proud shaft unable author mystery day cliff hip smooth calm crucial circle";
+var mnemonic = "egg shock attend magnet better pyramid wedding opera lunar flash blue disorder";

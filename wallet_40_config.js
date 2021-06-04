@@ -1,1 +1,1 @@
-var mnemonic = "shine fat broom connect approve pill envelope sphere next logic ghost toward";
+var mnemonic = "ceiling cruise monkey congress select logic exhibit this spring wait frozen weasel";

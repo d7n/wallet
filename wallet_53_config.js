@@ -1,1 +1,1 @@
-var mnemonic = "tail melody text below inhale head disagree mean loud desert oyster snow";
+var mnemonic = "pelican trick novel receive catalog assume cousin extend fiscal solar hunt supply";

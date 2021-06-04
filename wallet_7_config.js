@@ -1,1 +1,1 @@
-var mnemonic = "program movie memory rescue swallow usual wing better gravity army leaf equal";
+var mnemonic = "hotel frequent goddess will grain domain crazy moon sting sport verb skill";

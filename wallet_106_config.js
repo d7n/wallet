@@ -1,1 +1,1 @@
-var mnemonic = "faint cost asset you dumb slam cruel bring helmet nothing tooth puzzle";
+var mnemonic = "indoor human ready travel nasty stage depth voice admit spoon damp path";

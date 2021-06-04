@@ -1,1 +1,1 @@
-var mnemonic = "song bright hospital burst analyst check daughter mom debris cube conduct first";
+var mnemonic = "depth lecture pulp flame sail letter labor stereo axis frequent figure beach";

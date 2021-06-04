@@ -1,1 +1,1 @@
-var mnemonic = "law lucky kidney cabin expire render flip exercise weasel badge join run";
+var mnemonic = "topple floor test maximum bracket people salad sister author champion one despair";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar thunder feed setup bundle drop egg purity deposit tomato alley hotel";
+var mnemonic = "legal decide protect isolate spot nuclear blast eagle fiction elevator buzz duty";

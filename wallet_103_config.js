@@ -1,1 +1,1 @@
-var mnemonic = "cereal cool napkin broccoli book tongue sister loop mirror clap alone churn";
+var mnemonic = "behind gallery salt struggle lunar certain write clerk chief swing purpose solid";

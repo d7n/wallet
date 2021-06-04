@@ -1,1 +1,1 @@
-var mnemonic = "useless goddess blind ladder mistake twice recycle now rack hazard run gadget";
+var mnemonic = "latin device little cheap swallow slogan grape canoe erase pond night relief";

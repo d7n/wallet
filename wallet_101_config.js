@@ -1,1 +1,1 @@
-var mnemonic = "pluck cruise shallow wide skate common across wedding mosquito caution analyst carry";
+var mnemonic = "suffer wife leave vote favorite valley dumb toilet amount cash cross video";

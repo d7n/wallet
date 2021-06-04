@@ -1,1 +1,1 @@
-var mnemonic = "menu bounce alien dynamic tiny foster fox side celery oblige wife nut";
+var mnemonic = "erode frame error oppose monkey soccer whisper pig orbit laptop eternal coast";

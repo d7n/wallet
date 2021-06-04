@@ -1,1 +1,1 @@
-var mnemonic = "welcome baby crawl law blouse sniff network envelope smile vanish quote issue";
+var mnemonic = "accuse coil dwarf slide amused during estate source word program parade mosquito";

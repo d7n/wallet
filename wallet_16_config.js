@@ -1,1 +1,1 @@
-var mnemonic = "hollow swing park kite song gather essence capable tunnel jelly tobacco spend";
+var mnemonic = "unusual piece era answer plate demand purse crack tooth decorate kind affair";

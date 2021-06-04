@@ -1,1 +1,1 @@
-var mnemonic = "shed talk satisfy hood firm stove daring high suit fine cruise broken";
+var mnemonic = "tip bike hood spatial resource electric cave forward hen parrot abuse magic";

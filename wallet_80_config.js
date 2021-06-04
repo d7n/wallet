@@ -1,1 +1,1 @@
-var mnemonic = "frown fury version polar more ship tomato artist permit match token evolve";
+var mnemonic = "west replace patient crazy memory proud fortune stool crisp message powder unit";

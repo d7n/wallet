@@ -1,1 +1,1 @@
-var mnemonic = "intact various egg prepare found table member family napkin essay normal oxygen";
+var mnemonic = "steak entry head black hole follow sheriff exhaust inflict sister find pass";

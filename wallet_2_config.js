@@ -1,1 +1,1 @@
-var mnemonic = "vapor shield crunch giant mammal require prevent deputy crash peanut ostrich word";
+var mnemonic = "sick slush put reason observe hand praise beach badge cross fetch spot";

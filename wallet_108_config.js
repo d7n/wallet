@@ -1,1 +1,1 @@
-var mnemonic = "bracket frown similar sibling horror screen december nice brave alarm faint say";
+var mnemonic = "globe debate bind shaft draft pudding fun knee govern bitter orient embody";

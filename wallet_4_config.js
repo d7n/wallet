@@ -1,1 +1,1 @@
-var mnemonic = "gesture filter canal practice radio wonder climb normal staff seven silk home";
+var mnemonic = "wink indicate promote replace total olympic uniform right hover hotel flee now";

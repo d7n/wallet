@@ -1,1 +1,1 @@
-var mnemonic = "ready certain outside inmate fossil brush deputy trip tree fix cupboard tank";
+var mnemonic = "save ordinary across yard jaguar truth wool false annual fan now quote";

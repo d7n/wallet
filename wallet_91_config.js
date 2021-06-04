@@ -1,1 +1,1 @@
-var mnemonic = "monkey rhythm despair hockey noble cement sock box venue ignore dance today";
+var mnemonic = "police history obey panther key spring walnut sea payment figure spider blind";

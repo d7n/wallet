@@ -1,1 +1,1 @@
-var mnemonic = "erase pelican race patrol canyon ski produce orchard fox weasel chimney upgrade";
+var mnemonic = "tube layer labor box skull collect gaze resist quick matter decorate online";

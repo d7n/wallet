@@ -1,1 +1,1 @@
-var mnemonic = "swing panther invite cherry stairs cost venue luggage vicious chest song inquiry";
+var mnemonic = "gravity front pigeon leopard humble smart raven sunset furnace heavy maze asset";

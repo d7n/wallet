@@ -1,1 +1,1 @@
-var mnemonic = "enroll ketchup dog deliver sheriff bonus silk roast true flock decline dance";
+var mnemonic = "firm hen someone length viable exhibit two beyond income labor vivid memory";

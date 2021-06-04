@@ -1,1 +1,1 @@
-var mnemonic = "snow beef switch pride face shell session keen sunny goose useful decrease";
+var mnemonic = "wet silly plunge bench romance erosion couple auction holiday black monitor april";

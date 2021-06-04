@@ -1,1 +1,1 @@
-var mnemonic = "blade enemy consider primary pigeon coral profit palm novel ball upgrade advice";
+var mnemonic = "stove defense inquiry ask hobby civil identify flight roast simple copy manual";

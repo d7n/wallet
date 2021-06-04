@@ -1,1 +1,1 @@
-var mnemonic = "spirit pipe nasty grass east arrange pepper hair nut hat finger cram";
+var mnemonic = "grief capital hip trigger cargo usual eight broccoli canyon juice mobile noise";

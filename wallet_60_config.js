@@ -1,1 +1,1 @@
-var mnemonic = "material found purchase blur planet oval sting deposit humor smoke entry lizard";
+var mnemonic = "hockey spice wink weapon antenna garage weather immune grocery true inside patrol";

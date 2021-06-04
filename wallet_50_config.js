@@ -1,1 +1,1 @@
-var mnemonic = "cereal flee before final crisp trophy reform zero prosper vapor decorate exclude";
+var mnemonic = "rabbit aim basket comic put lobster clarify tourist milk fresh secret virus";

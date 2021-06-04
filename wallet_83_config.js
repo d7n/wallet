@@ -1,1 +1,1 @@
-var mnemonic = "use cricket define combine beauty federal casual guard fire leopard collect stuff";
+var mnemonic = "announce you enhance ten turn foot unveil prepare hover seek badge false";

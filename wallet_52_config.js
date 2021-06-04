@@ -1,1 +1,1 @@
-var mnemonic = "just young door adjust ethics bundle faint pony ahead fever beach garlic";
+var mnemonic = "omit street sell manual police arrive dove dawn decorate iron glare proud";

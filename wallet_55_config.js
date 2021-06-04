@@ -1,1 +1,1 @@
-var mnemonic = "six enact polar dune mosquito satisfy awful grant real under object feature";
+var mnemonic = "lamp minor step fluid oblige marriage quiz plastic doll emotion repair universe";

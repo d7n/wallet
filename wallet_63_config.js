@@ -1,1 +1,1 @@
-var mnemonic = "process rather unfold patrol know month present miss pumpkin vocal extra tape";
+var mnemonic = "ill cushion embrace front season addict fitness radio village toe update wheel";

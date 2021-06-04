@@ -1,1 +1,1 @@
-var mnemonic = "custom hint alley snake sunset arrange liquid tag consider rabbit favorite fence";
+var mnemonic = "slam candy roast hazard private surface quit broom legend provide bonus cube";

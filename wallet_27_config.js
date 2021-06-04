@@ -1,1 +1,1 @@
-var mnemonic = "sea keep pudding only decorate very tuition math exercise enlist summer melody";
+var mnemonic = "nothing digital hockey undo multiply below insect blanket rate reveal galaxy scare";

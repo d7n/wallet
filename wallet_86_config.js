@@ -1,1 +1,1 @@
-var mnemonic = "evil inmate twist soda phrase garage assault heart judge today control deny";
+var mnemonic = "bus grit silk manual cage salon wear course ring rapid seven snake";

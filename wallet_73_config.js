@@ -1,1 +1,1 @@
-var mnemonic = "indicate love casual bubble wheel once lake planet connect cloth fold tank";
+var mnemonic = "mouse inner wrap deny zoo you clever force morning carry capital layer";

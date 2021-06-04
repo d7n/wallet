@@ -1,1 +1,1 @@
-var mnemonic = "pilot near follow fog heavy tail install enjoy measure heart during chicken";
+var mnemonic = "advice ghost sunny surge asset biology laptop patrol shove warm rather affair";

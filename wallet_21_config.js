@@ -1,1 +1,1 @@
-var mnemonic = "find surge repeat seek material minor square film situate faculty pelican captain";
+var mnemonic = "possible almost bone reduce what trumpet rubber crisp harvest turn matter grace";

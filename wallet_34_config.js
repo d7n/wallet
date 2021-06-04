@@ -1,1 +1,1 @@
-var mnemonic = "shine couple during mail valve cargo athlete nature six install wheat ostrich";
+var mnemonic = "bar dinner syrup march buyer flip napkin reopen mail tattoo snow stereo";

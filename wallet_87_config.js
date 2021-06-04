@@ -1,1 +1,1 @@
-var mnemonic = "venture captain scan feed believe name lab bronze expose lift crowd lend";
+var mnemonic = "elbow toward derive safe submit own guess west glue fish lens trash";

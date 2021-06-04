@@ -1,1 +1,1 @@
-var mnemonic = "cash ghost total puzzle vague hurt delay clap obtain indoor short minor";
+var mnemonic = "process mother walk dial cluster movie problem vote quality census sign leaf";

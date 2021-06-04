@@ -1,1 +1,1 @@
-var mnemonic = "stomach pill car tornado soon resemble arctic enlist rabbit salute away diet";
+var mnemonic = "source seven ignore amount weapon orphan post glove click scene drop gasp";

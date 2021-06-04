@@ -1,1 +1,1 @@
-var mnemonic = "mixed shift asthma pipe behave crouch secret dog rate eagle pilot art";
+var mnemonic = "squeeze tooth loop edge stock wool gap fatigue tackle laundry twenty glass";

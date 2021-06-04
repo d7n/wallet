@@ -1,1 +1,1 @@
-var mnemonic = "text trap tonight vacant middle wish debate rescue weasel lava trip pulse";
+var mnemonic = "toy good match maple excuse memory change skin year album throw option";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion drama mansion input gift portion year predict arm lyrics bullet recall";
+var mnemonic = "refuse oxygen execute notice wise trial brain endorse combine mix truly clock";

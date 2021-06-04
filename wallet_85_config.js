@@ -1,1 +1,1 @@
-var mnemonic = "federal fly spike click you outdoor dog blade airport review food silly";
+var mnemonic = "eight crucial glove fantasy bike bunker movie mushroom spy erode say innocent";

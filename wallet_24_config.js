@@ -1,1 +1,1 @@
-var mnemonic = "mechanic flip beyond will infant tackle icon aspect hover valid list brave";
+var mnemonic = "when subway stable swarm economy disease fitness drill gentle nephew weapon glare";

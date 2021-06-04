@@ -1,1 +1,1 @@
-var mnemonic = "slab rebuild trust kingdom force erupt snack furnace illegal child city outer";
+var mnemonic = "update century fox sword person oxygen service laundry purse tattoo copper vote";

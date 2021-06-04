@@ -1,1 +1,1 @@
-var mnemonic = "say pond awake pretty arctic check cube weird stamp valve nest quality";
+var mnemonic = "hybrid tell brother plunge moon faculty involve travel call rebel silver romance";

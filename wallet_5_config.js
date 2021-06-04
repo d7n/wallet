@@ -1,1 +1,1 @@
-var mnemonic = "wrestle isolate matter pig perfect bench business elder glass snack snack reflect";
+var mnemonic = "hat suspect grace pluck similar spoil paddle boat gaze observe mail include";

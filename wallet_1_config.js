@@ -1,1 +1,1 @@
-var mnemonic = "rude unveil van father day curve nature pretty stumble simple faculty phone";
+var mnemonic = "shoulder devote decline host dinosaur maple rhythm bachelor nephew spend save mention";

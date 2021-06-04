@@ -1,1 +1,1 @@
-var mnemonic = "wrestle produce mansion seat trigger unit crash antenna travel snow volcano gain";
+var mnemonic = "vast mixture kind know fix feel game forward lawsuit crack treat scale";

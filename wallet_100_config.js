@@ -1,1 +1,1 @@
-var mnemonic = "select identify patch despair rapid warrior found hole recipe copy replace mind";
+var mnemonic = "father rice error wool dawn dad lamp door spot sword harvest give";

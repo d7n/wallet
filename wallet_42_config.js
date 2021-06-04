@@ -1,1 +1,1 @@
-var mnemonic = "remain climb sight seven such polar stone unit text recall ensure potato";
+var mnemonic = "develop dice extra pact unveil rabbit sea near near sad state silent";

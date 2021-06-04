@@ -1,1 +1,1 @@
-var mnemonic = "peace sight catch champion problem tumble embrace time sudden ancient bamboo loop";
+var mnemonic = "bench unusual possible three quiz misery actor what area fee unknown fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "wise space alcohol wine spatial thunder tunnel pole defense seed sadness result";
+var mnemonic = "legal average dolphin gather teach oblige cluster undo buddy luggage radar employ";

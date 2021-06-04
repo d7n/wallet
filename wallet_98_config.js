@@ -1,1 +1,1 @@
-var mnemonic = "fringe recipe charge clean stick someone civil erode virtual silly reward hand";
+var mnemonic = "space dice bubble sight sphere into cable educate crumble walk cost stove";
