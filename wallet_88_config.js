@@ -1,1 +1,1 @@
-var mnemonic = "silk trim bless match shiver tool exit fruit toy clay early spirit";
+var mnemonic = "patch honey economy drill follow abstract denial express sort minor fringe midnight";

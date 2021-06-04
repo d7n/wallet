@@ -1,1 +1,1 @@
-var mnemonic = "daring what stick search symptom laugh old rule often flip knee sister";
+var mnemonic = "original fabric doctor moon alpha check obvious olympic saddle goat cart cactus";

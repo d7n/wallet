@@ -1,1 +1,1 @@
-var mnemonic = "want dentist penalty dentist picture arch cliff industry kid quick exit confirm";
+var mnemonic = "daughter entire yard girl dice end siege onion tube blood bicycle business";

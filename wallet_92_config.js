@@ -1,1 +1,1 @@
-var mnemonic = "music concert mirror test swear exotic gap wine session provide dance gravity";
+var mnemonic = "vapor decorate exact boil borrow sound dust undo chair cream transfer rhythm";

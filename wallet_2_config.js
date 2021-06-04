@@ -1,1 +1,1 @@
-var mnemonic = "fury jacket half truth travel legend omit weird address stay army success";
+var mnemonic = "intact february drip journey employ able notable fury fat honey super find";

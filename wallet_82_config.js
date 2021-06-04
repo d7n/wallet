@@ -1,1 +1,1 @@
-var mnemonic = "come diamond omit loan ensure either cheese auction raccoon hurdle truth polar";
+var mnemonic = "bright scatter purse early medal crew team second muscle include black filter";

@@ -1,1 +1,1 @@
-var mnemonic = "design chapter museum virus thank crash run funny area weekend weapon census";
+var mnemonic = "shoulder shy shop video snap ride latin bike absurd theory pitch speed";

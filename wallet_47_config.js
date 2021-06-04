@@ -1,1 +1,1 @@
-var mnemonic = "erosion work ugly cherry else knife twenty armor abuse fever gorilla bullet";
+var mnemonic = "curious cluster camera library damp case job asthma flavor want ability crowd";

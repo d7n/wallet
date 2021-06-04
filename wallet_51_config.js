@@ -1,1 +1,1 @@
-var mnemonic = "palm bring salad horse frame rabbit armed about recall proud clip embody";
+var mnemonic = "tomorrow dust position guard ignore liberty again maple nominee coil slot host";

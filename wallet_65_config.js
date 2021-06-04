@@ -1,1 +1,1 @@
-var mnemonic = "debate shiver glue merry can absorb hidden clean carry air exchange cushion";
+var mnemonic = "very rib torch trial inject movie edge slot accuse urban evoke toss";

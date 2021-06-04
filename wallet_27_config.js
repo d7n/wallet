@@ -1,1 +1,1 @@
-var mnemonic = "drill dentist entire desk parrot romance scare neck scorpion submit double lyrics";
+var mnemonic = "still toy host team excite merry shy fuel random february gather ship";

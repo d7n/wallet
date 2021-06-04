@@ -1,1 +1,1 @@
-var mnemonic = "bundle bicycle arch spot kick victory dawn private craft air seek unusual";
+var mnemonic = "federal ranch torch sauce dilemma travel liar vehicle wave yellow kiss hobby";

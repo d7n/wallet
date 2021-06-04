@@ -1,1 +1,1 @@
-var mnemonic = "border ship sausage shiver race organ ahead pelican busy orient sausage human";
+var mnemonic = "casual grape swamp antenna fatal addict gasp pudding bundle bacon below away";

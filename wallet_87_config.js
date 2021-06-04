@@ -1,1 +1,1 @@
-var mnemonic = "waste candy blast between eyebrow vacant insect junk kiwi praise candy place";
+var mnemonic = "example excite cave surge bird science leisure drastic measure empower lawn dress";

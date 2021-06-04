@@ -1,1 +1,1 @@
-var mnemonic = "rival quote mystery inch steak rebel gown memory tattoo front method spice";
+var mnemonic = "blossom vibrant talent hollow planet desert rely senior west fuel tongue hybrid";

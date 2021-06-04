@@ -1,1 +1,1 @@
-var mnemonic = "argue shield cannon resemble tone spray broccoli maple moon waste attract educate";
+var mnemonic = "practice actual fence attitude spoon helmet garlic reunion payment liar cushion achieve";

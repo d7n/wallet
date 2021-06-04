@@ -1,1 +1,1 @@
-var mnemonic = "rose spatial theory curtain unlock empty luxury rely rail state mind december";
+var mnemonic = "ill source siege volume near safe crater bronze kiss hybrid word ginger";

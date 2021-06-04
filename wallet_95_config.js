@@ -1,1 +1,1 @@
-var mnemonic = "gallery moon meadow heart gallery parade someone reopen remind gossip possible cushion";
+var mnemonic = "kitten siren jazz gap act dad salad afford absurd coffee negative quit";

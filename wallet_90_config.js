@@ -1,1 +1,1 @@
-var mnemonic = "weekend coach deposit butter that front cable head ill tobacco nurse bacon";
+var mnemonic = "sunset give secret relax observe conduct deal civil season come syrup leaf";

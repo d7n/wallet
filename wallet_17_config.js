@@ -1,1 +1,1 @@
-var mnemonic = "all barely uncover hip project reward biology lucky common depart exact quote";
+var mnemonic = "junk crater invite bring burden soon shove ask control know alpha person";

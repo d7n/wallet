@@ -1,1 +1,1 @@
-var mnemonic = "distance mass mammal rookie volcano stock jacket quality arrive amazing tube seminar";
+var mnemonic = "success cross unhappy media ginger level crazy robot link bind curtain you";

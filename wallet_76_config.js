@@ -1,1 +1,1 @@
-var mnemonic = "push innocent okay victory cereal someone relief ski slender muffin oyster half";
+var mnemonic = "endorse kidney hub lobster tool uncle amateur fat payment clinic coyote ski";

@@ -1,1 +1,1 @@
-var mnemonic = "manage obey common awful gadget mandate happy wine pigeon coral tonight income";
+var mnemonic = "kid crawl mandate poet six mouse lens loyal such spend current toilet";

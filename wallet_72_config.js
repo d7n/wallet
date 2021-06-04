@@ -1,1 +1,1 @@
-var mnemonic = "judge grunt green oppose spatial comic hunt actress jewel main junk rescue";
+var mnemonic = "spawn enter couple spirit destroy salmon cram cover strategy mouse sister original";

@@ -1,1 +1,1 @@
-var mnemonic = "hole museum grass unit seven happy mail cheese memory oak bike dilemma";
+var mnemonic = "just away myth arrive normal tackle divorce ostrich discover outdoor melt solid";

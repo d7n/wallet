@@ -1,1 +1,1 @@
-var mnemonic = "symptom render invest mandate holiday diet club drastic occur blanket place another";
+var mnemonic = "upgrade awful clerk slender oblige service carpet menu law popular auction veteran";

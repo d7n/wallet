@@ -1,1 +1,1 @@
-var mnemonic = "iron dream relief brick round balance tiny dream better physical connect easily";
+var mnemonic = "park sting cable flat suit fall magnet inmate photo minimum casual favorite";

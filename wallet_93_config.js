@@ -1,1 +1,1 @@
-var mnemonic = "siege warrior setup cool crush boring option west easy inch furnace nice";
+var mnemonic = "salon syrup sun atom rain access happy lobster brother wire link thank";

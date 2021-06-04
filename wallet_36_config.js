@@ -1,1 +1,1 @@
-var mnemonic = "attend board marble ugly all unfold wash debate buzz old enable enrich";
+var mnemonic = "crowd mad limb rain artwork under rocket pull gravity myth clog lock";

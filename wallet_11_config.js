@@ -1,1 +1,1 @@
-var mnemonic = "stage consider collect conduct dumb wealth suggest arch glove squirrel tank typical";
+var mnemonic = "flavor eternal civil credit worth dream round member shallow bomb bronze soldier";

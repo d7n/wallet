@@ -1,1 +1,1 @@
-var mnemonic = "melody mobile rhythm aerobic couple finish illness breeze voice nurse convince right";
+var mnemonic = "steak album ready tornado trigger primary elephant broken project hurry grow loud";

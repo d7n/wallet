@@ -1,1 +1,1 @@
-var mnemonic = "before ready describe switch fever ladder typical topple captain curious creek opera";
+var mnemonic = "hospital damp business second frown supply member tobacco endless time country genre";

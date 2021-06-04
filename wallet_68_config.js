@@ -1,1 +1,1 @@
-var mnemonic = "urge volcano soccer castle below unaware struggle verify budget federal depend cradle";
+var mnemonic = "float marble upon level color social transfer swim tornado whip milk replace";

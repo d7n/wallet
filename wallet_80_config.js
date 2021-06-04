@@ -1,1 +1,1 @@
-var mnemonic = "business tooth scene butter filter raise runway auction fire fiction bleak gravity";
+var mnemonic = "want labor decade early stone convince riot tiger smart amazing curious laugh";

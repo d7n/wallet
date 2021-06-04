@@ -1,1 +1,1 @@
-var mnemonic = "shell guess nothing achieve satoshi carry rebuild shock law measure tunnel excite";
+var mnemonic = "giggle agree question cactus slight endless fancy boil banana vault congress volcano";

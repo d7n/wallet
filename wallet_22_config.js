@@ -1,1 +1,1 @@
-var mnemonic = "clinic alone off forward method roast fossil blanket only spin humor good";
+var mnemonic = "sugar wisdom just ignore violin control lottery because radar section desk end";

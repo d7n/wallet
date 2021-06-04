@@ -1,1 +1,1 @@
-var mnemonic = "brain nephew black man visual liquid bike grocery argue front behind relax";
+var mnemonic = "carry connect barely rhythm trumpet scale seminar priority country rabbit choose dinner";

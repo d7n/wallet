@@ -1,1 +1,1 @@
-var mnemonic = "sniff upon idle prefer check code sphere seed bean hybrid force picture";
+var mnemonic = "use strong blanket together job split satoshi oppose repeat bid because truth";

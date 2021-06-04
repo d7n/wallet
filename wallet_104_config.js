@@ -1,1 +1,1 @@
-var mnemonic = "pilot wall mention walk bring cupboard agree shine wild dream wheat capital";
+var mnemonic = "else garlic wave giant edit inch merry plastic whip middle nature merit";

@@ -1,1 +1,1 @@
-var mnemonic = "shed siren demand chapter pattern resource tape squeeze blur banner curve suit";
+var mnemonic = "cannon narrow coral pair two pistol sponsor genuine carry crazy crucial safe";

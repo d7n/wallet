@@ -1,1 +1,1 @@
-var mnemonic = "arm quantum hotel behind airport winner frost gas please island pitch basic";
+var mnemonic = "quote maple radio budget cherry tornado quality verb galaxy mammal bid month";

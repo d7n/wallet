@@ -1,1 +1,1 @@
-var mnemonic = "delay gaze expect hobby peanut valve rival wage blush actor coin tennis";
+var mnemonic = "fashion ability accident crowd diagram ostrich symptom rebel neutral pelican congress diamond";

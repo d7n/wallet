@@ -1,1 +1,1 @@
-var mnemonic = "payment pill idle problem draft squirrel grocery hover clock drive agree project";
+var mnemonic = "wire coffee eagle hurt kingdom negative course loyal grocery type essence auction";

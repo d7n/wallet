@@ -1,1 +1,1 @@
-var mnemonic = "menu sweet beach plunge simple dawn wild hard sausage raven column race";
+var mnemonic = "favorite ice tobacco unique peanut sleep struggle better dove dream comfort shell";

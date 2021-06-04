@@ -1,1 +1,1 @@
-var mnemonic = "myth hurry tired chest pause canoe token endless actual dismiss main fantasy";
+var mnemonic = "entry keen various patrol above school access miss vapor sentence resource extend";

@@ -1,1 +1,1 @@
-var mnemonic = "chest east sea sand tortoise lemon axis december bundle door elevator position";
+var mnemonic = "tobacco usage fee attract bundle pigeon seat until coil fury misery dentist";

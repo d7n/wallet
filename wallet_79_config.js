@@ -1,1 +1,1 @@
-var mnemonic = "crop torch diamond fetch eyebrow useless term moment exit keep invest core";
+var mnemonic = "proof liar say method pear invest easily peasant length tongue photo material";

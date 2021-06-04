@@ -1,1 +1,1 @@
-var mnemonic = "silent toward hungry spoil horse humble tenant caught toilet interest garbage garlic";
+var mnemonic = "elite junk reward forward witness scene lunch regular advance index knife liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican example slender apology rough wrist mixed kangaroo torch during weekend figure";
+var mnemonic = "accident bless voyage chief wolf trash brisk leisure shallow seven delay use";

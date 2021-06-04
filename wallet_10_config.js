@@ -1,1 +1,1 @@
-var mnemonic = "labor believe tomato glimpse agent either desert useful vacant blush space action";
+var mnemonic = "movie matter drop aerobic hard jungle crane noodle blue viable blanket million";

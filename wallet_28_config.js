@@ -1,1 +1,1 @@
-var mnemonic = "worth obtain virtual entry because track floor nerve pond mercy beauty relief";
+var mnemonic = "cable crater level excuse advance another intact slice express stove leaf vacuum";

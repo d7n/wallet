@@ -1,1 +1,1 @@
-var mnemonic = "stumble comfort toast flag program push pencil whale twice weather relax film";
+var mnemonic = "among trouble between conduct siege tower village differ false push true please";

@@ -1,1 +1,1 @@
-var mnemonic = "advice beef shell shop easy insane push effort base member slogan sponsor";
+var mnemonic = "gorilla wheel cheese shell worry snack wrist endless parrot surface concert drill";

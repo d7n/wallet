@@ -1,1 +1,1 @@
-var mnemonic = "omit height uncover bachelor three educate fog exist upper away arch dog";
+var mnemonic = "only fence reward shell copy winter save possible globe recipe galaxy cycle";

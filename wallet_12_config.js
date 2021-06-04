@@ -1,1 +1,1 @@
-var mnemonic = "shallow maze sniff disorder cup between flip tourist science expand poet index";
+var mnemonic = "foster discover machine screen universe exhibit diamond manual blossom display room fence";

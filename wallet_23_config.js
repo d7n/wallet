@@ -1,1 +1,1 @@
-var mnemonic = "letter busy blast gallery absurd profit fish endless interest butter cricket moment";
+var mnemonic = "repeat mom loyal frost this recipe hero portion ivory mixture faint cost";

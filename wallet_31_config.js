@@ -1,1 +1,1 @@
-var mnemonic = "about offer shuffle forward tiny vacuum trial boost lake horror number habit";
+var mnemonic = "various worth dune edge firm silk morning draft march acquire balance coin";

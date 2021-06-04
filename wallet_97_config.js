@@ -1,1 +1,1 @@
-var mnemonic = "receive side develop pull insane intact mention club boil frequent edit witness";
+var mnemonic = "eager garden clean elephant inject garden setup chuckle bean scheme solid desk";

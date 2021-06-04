@@ -1,1 +1,1 @@
-var mnemonic = "advice modify length submit harvest ecology spell awkward party dog wine tackle";
+var mnemonic = "cinnamon crane bone lottery antenna health valid error quick tooth banner grape";

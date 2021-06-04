@@ -1,1 +1,1 @@
-var mnemonic = "marine ankle diet return nasty prevent royal clarify wrestle neck flee park";
+var mnemonic = "next goose tiny enter gravity divide glare old doll family income echo";

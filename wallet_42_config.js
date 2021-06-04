@@ -1,1 +1,1 @@
-var mnemonic = "river bulb zero wire collect jeans large maximum elbow into letter age";
+var mnemonic = "round globe use plate have absent void injury meat hope produce core";

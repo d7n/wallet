@@ -1,1 +1,1 @@
-var mnemonic = "wire plunge vote affair worth flame oil enter inch decade salon hood";
+var mnemonic = "state begin kid tomato kind creek two hundred upon head tunnel social";

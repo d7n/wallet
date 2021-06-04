@@ -1,1 +1,1 @@
-var mnemonic = "swarm wheat recall found stairs toward embrace whale census this gown umbrella";
+var mnemonic = "naive prosper screen burger husband submit absurd anchor settle move romance choice";

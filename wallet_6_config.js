@@ -1,1 +1,1 @@
-var mnemonic = "bench chapter curious april citizen husband skill room spirit agree angry spoon";
+var mnemonic = "put repair stuff stomach announce right impact just position arrange citizen actress";

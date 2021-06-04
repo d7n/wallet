@@ -1,1 +1,1 @@
-var mnemonic = "carpet luggage master rail champion middle session caught paddle spare holiday else";
+var mnemonic = "boil clever empower cable give silver struggle car banner treat pelican tuna";

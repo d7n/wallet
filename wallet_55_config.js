@@ -1,1 +1,1 @@
-var mnemonic = "agree leopard segment seat soup item force word electric van baby crack";
+var mnemonic = "ridge rate fan viable friend dance cinnamon funny hurdle picnic mammal remind";

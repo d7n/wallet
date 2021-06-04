@@ -1,1 +1,1 @@
-var mnemonic = "height width sport outside language gloom couch belt vague ahead wood scale";
+var mnemonic = "tower hollow father bronze frown battle eye concert bulb purpose canoe skin";

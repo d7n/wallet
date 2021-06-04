@@ -1,1 +1,1 @@
-var mnemonic = "vital list cliff evoke second similar year water coil slam enforce scrap";
+var mnemonic = "grid remove emotion mule annual cabbage cattle boring menu craft oxygen sunset";

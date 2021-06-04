@@ -1,1 +1,1 @@
-var mnemonic = "fire maze time summer ginger middle trap another cute belt skirt spell";
+var mnemonic = "action fold twin rabbit dial empty toilet barely notable pudding glass effort";

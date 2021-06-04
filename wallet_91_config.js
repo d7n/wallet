@@ -1,1 +1,1 @@
-var mnemonic = "toy swim couple decorate sample voice dynamic cover yellow boring sure viable";
+var mnemonic = "voice female laugh toward tennis lava oven creek eager wish perfect filter";

@@ -1,1 +1,1 @@
-var mnemonic = "zone science demise genius jewel solve bike entire uphold vault sock first";
+var mnemonic = "involve hub drip fiber bar nuclear crane leave wheat broken round cupboard";

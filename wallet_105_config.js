@@ -1,1 +1,1 @@
-var mnemonic = "near torch just elder fit pencil upon salt cram torch siege east";
+var mnemonic = "ride mistake coyote build mean dirt proof ridge ancient caution light element";

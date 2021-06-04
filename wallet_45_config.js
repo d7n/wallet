@@ -1,1 +1,1 @@
-var mnemonic = "amount pitch great grab elephant tired nerve trash bag exchange subject cream";
+var mnemonic = "drum economy timber pottery such admit bulb car apart manual burden quote";

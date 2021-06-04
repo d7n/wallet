@@ -1,1 +1,1 @@
-var mnemonic = "genius ready renew rule absent wedding happy nose deer abuse pitch plate";
+var mnemonic = "health shove misery relief tourist network choose eyebrow hub flush later steak";

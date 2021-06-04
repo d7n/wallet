@@ -1,1 +1,1 @@
-var mnemonic = "winter garage play fun powder volcano media scale seed vicious indoor vast";
+var mnemonic = "accuse group pilot corn goose adult weird floor medal dust never usual";

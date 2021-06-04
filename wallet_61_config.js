@@ -1,1 +1,1 @@
-var mnemonic = "custom marble sausage seven debate paddle high marriage zoo garment core boss";
+var mnemonic = "claim solid label voyage trick shy pass mobile old moon boy entire";

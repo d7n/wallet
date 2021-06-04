@@ -1,1 +1,1 @@
-var mnemonic = "inside kit load smooth bleak tribe bleak drill pizza agree tube puppy";
+var mnemonic = "kite spawn pledge destroy advice whip size finger mesh yard lady maze";

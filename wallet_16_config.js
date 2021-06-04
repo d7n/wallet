@@ -1,1 +1,1 @@
-var mnemonic = "topple thunder sea snake swamp innocent decide river accident daughter pattern book";
+var mnemonic = "soccer sustain flee remove rigid depth blossom scout salad awake rule frozen";

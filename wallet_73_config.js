@@ -1,1 +1,1 @@
-var mnemonic = "sponsor pluck return lawsuit echo safe return word explain general response error";
+var mnemonic = "super course flavor shop blur culture broken minimum six pulp real valley";

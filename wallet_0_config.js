@@ -1,1 +1,1 @@
-var mnemonic = "kidney rare jealous genre rebuild brain hope angry barely luggage helmet fabric";
+var mnemonic = "affair exhaust long lava error future yellow ceiling era utility eye umbrella";

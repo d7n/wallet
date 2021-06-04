@@ -1,1 +1,1 @@
-var mnemonic = "grit enroll magnet space merit wealth ocean still power pen session dad";
+var mnemonic = "adult shine bonus canoe enforce rotate glass rebuild sustain faculty strike liquid";

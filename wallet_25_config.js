@@ -1,1 +1,1 @@
-var mnemonic = "sleep six ticket purpose budget useful beef valid negative clinic release inmate";
+var mnemonic = "circle furnace mansion various exhibit cart run card universe pottery special fan";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby sentence fiction flip suffer grief angry claim interest style shed heart";
+var mnemonic = "soccer suffer symptom fish demise system family raven come abuse physical crowd";

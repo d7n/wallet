@@ -1,1 +1,1 @@
-var mnemonic = "bunker banner setup ahead solution layer space antenna alpha egg deny vessel";
+var mnemonic = "unit mother kangaroo dash defense system code lazy sad adapt program scout";

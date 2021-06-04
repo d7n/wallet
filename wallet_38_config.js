@@ -1,1 +1,1 @@
-var mnemonic = "sand leopard turtle garbage liberty farm brand world cousin grief describe chaos";
+var mnemonic = "ordinary luggage accuse average chat cost spirit curious fringe teach cake chuckle";

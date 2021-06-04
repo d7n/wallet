@@ -1,1 +1,1 @@
-var mnemonic = "artefact meat tell woman error random stuff smooth invite hockey rural moment";
+var mnemonic = "garbage obey kitten earn girl evoke misery infant dinner kidney girl night";
