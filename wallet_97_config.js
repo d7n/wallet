@@ -1,1 +1,1 @@
-var mnemonic = "excuse common today purity miss riot reduce pigeon cattle child poem merge";
+var mnemonic = "bronze cruel car session loud frozen group season give endless replace raw";

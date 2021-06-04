@@ -1,1 +1,1 @@
-var mnemonic = "inner gaze shadow parrot narrow script inform meat shallow motion unlock tool";
+var mnemonic = "away pluck mule prevent vibrant iron reject waste leopard name robust govern";

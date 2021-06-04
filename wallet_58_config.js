@@ -1,1 +1,1 @@
-var mnemonic = "snack supply square bicycle refuse riot mimic click nurse toe alien pass";
+var mnemonic = "brief purpose turkey tube joy gate sorry harbor smoke inner omit never";

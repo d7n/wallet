@@ -1,1 +1,1 @@
-var mnemonic = "seed hub light innocent evolve robot table slab pair genre relax blanket";
+var mnemonic = "stereo broom slender patrol sock control author cigar judge potato eye buffalo";

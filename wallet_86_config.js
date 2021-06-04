@@ -1,1 +1,1 @@
-var mnemonic = "square crunch arrest quit cloud love dolphin cruel lyrics blur brain bomb";
+var mnemonic = "problem spice predict kiwi exact dice author pear decline episode soldier attitude";

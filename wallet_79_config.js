@@ -1,1 +1,1 @@
-var mnemonic = "lecture uphold first army must cradle patch trap perfect dumb brown cost";
+var mnemonic = "base rescue miracle swamp foil hat vacuum identify state gather bicycle basic";

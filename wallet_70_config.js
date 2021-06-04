@@ -1,1 +1,1 @@
-var mnemonic = "decorate giant copy write cargo claw box embark airport resemble author wrong";
+var mnemonic = "hollow august domain fire december slender cluster coyote omit clap burst scrub";

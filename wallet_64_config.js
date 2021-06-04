@@ -1,1 +1,1 @@
-var mnemonic = "live fitness agent wife charge vote defense useless trophy humble idea worry";
+var mnemonic = "flee album approve large secret error baby aerobic verb rigid entry corn";

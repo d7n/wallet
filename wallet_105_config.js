@@ -1,1 +1,1 @@
-var mnemonic = "peanut artefact rice use kid rotate cinnamon kangaroo skin kick kite domain";
+var mnemonic = "yellow wolf protect plastic country rich begin shuffle claw oxygen life stage";

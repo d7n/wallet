@@ -1,1 +1,1 @@
-var mnemonic = "fault jazz medal record dawn interest sell shop cloud move meadow animal";
+var mnemonic = "multiply vendor evoke vacuum six stove lab garbage silver renew question pistol";

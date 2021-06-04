@@ -1,1 +1,1 @@
-var mnemonic = "divert robot hungry mutual globe rain burden capital sentence item earn door";
+var mnemonic = "shock since audit distance million sort steel boost chunk myth version skirt";

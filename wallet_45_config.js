@@ -1,1 +1,1 @@
-var mnemonic = "whale snow sausage royal sting quantum flat accuse inspire install transfer edit";
+var mnemonic = "vibrant flower oven zero shove time scene afford pelican image limb celery";

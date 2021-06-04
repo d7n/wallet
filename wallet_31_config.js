@@ -1,1 +1,1 @@
-var mnemonic = "tiny opinion spoon twice enact method amazing buyer intact pool bundle river";
+var mnemonic = "upgrade wrestle human hedgehog unveil box slight title card unaware brief ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel know account digital cousin promote simple two effort common park body";
+var mnemonic = "axis target able corn whisper clever check wisdom rapid miss system search";

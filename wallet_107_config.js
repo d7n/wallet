@@ -1,1 +1,1 @@
-var mnemonic = "canoe leave soldier library toe else about comic place stadium tide beef";
+var mnemonic = "broom reason coast decorate method body woman labor smile unaware grass essence";

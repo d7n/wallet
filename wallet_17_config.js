@@ -1,1 +1,1 @@
-var mnemonic = "exercise depart merit flip miracle crop spirit travel boil label bundle shoot";
+var mnemonic = "afraid quiz update similar project immense dirt length maximum deal act crop";

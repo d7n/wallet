@@ -1,1 +1,1 @@
-var mnemonic = "celery calm term mind clump cash jazz now turn stumble multiply muscle";
+var mnemonic = "wheel sorry leaf lawn normal copy power stool bleak doctor rice emerge";

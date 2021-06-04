@@ -1,1 +1,1 @@
-var mnemonic = "multiply tackle chef team spoon veteran short trap matrix rate spike antenna";
+var mnemonic = "welcome inside holiday copper arch olympic crystal ecology illegal segment glide clock";

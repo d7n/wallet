@@ -1,1 +1,1 @@
-var mnemonic = "grace claim spoon stereo inherit stairs kiss liberty team prison face alarm";
+var mnemonic = "resource slot yellow enter proud trumpet mosquito million pause legend collect cool";

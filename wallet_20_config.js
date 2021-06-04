@@ -1,1 +1,1 @@
-var mnemonic = "summer road scene draw soda purpose shrimp column response melt flip gloom";
+var mnemonic = "twin train paper when inject link coil vapor pet wine cycle burden";

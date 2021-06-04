@@ -1,1 +1,1 @@
-var mnemonic = "dress swap later escape journey always tide dance police raise current write";
+var mnemonic = "island alley hammer bubble text exercise usual prison north predict rally clay";

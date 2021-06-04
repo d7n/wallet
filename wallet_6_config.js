@@ -1,1 +1,1 @@
-var mnemonic = "base cube castle trend stadium issue sleep tourist dragon fall route grit";
+var mnemonic = "napkin exhaust cattle lamp nerve leopard believe stomach off drop upset shine";

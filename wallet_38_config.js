@@ -1,1 +1,1 @@
-var mnemonic = "interest tiny abuse cigar crumble basic crystal pride tower forum medal ocean";
+var mnemonic = "monkey palm oak hour employ drill before stem polar fit velvet combine";

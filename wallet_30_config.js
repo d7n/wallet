@@ -1,1 +1,1 @@
-var mnemonic = "method flag trend inject fix dinosaur myth harbor attend quiz butter hurdle";
+var mnemonic = "humble twin extra pill image shell embrace shuffle thrive else jelly walnut";

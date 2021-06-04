@@ -1,1 +1,1 @@
-var mnemonic = "clinic miss bachelor purchase theme high hazard wave edit also margin veteran";
+var mnemonic = "fit loan blind robot broken never vintage flame harsh hawk guard forward";

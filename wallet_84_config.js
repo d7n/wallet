@@ -1,1 +1,1 @@
-var mnemonic = "sing nominee consider able busy cute layer window spirit peasant urge coyote";
+var mnemonic = "hard front mother buyer glory material brush isolate shock multiply toy robot";

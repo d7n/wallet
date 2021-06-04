@@ -1,1 +1,1 @@
-var mnemonic = "mass ring crystal shadow blush gossip addict attack tattoo bar edit rural";
+var mnemonic = "wink cannon derive dish farm way dinosaur grow bean input nature forward";

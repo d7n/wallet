@@ -1,1 +1,1 @@
-var mnemonic = "rhythm trust symptom mushroom picnic quick tunnel sudden fringe lend approve slide";
+var mnemonic = "three melody stairs train order betray notice between zoo gun chef coconut";

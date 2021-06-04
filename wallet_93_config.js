@@ -1,1 +1,1 @@
-var mnemonic = "point maid pupil buzz valid eternal human corn spin gas avoid quote";
+var mnemonic = "feature erode oval bunker pulp distance wish spin behind father million season";

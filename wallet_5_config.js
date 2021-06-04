@@ -1,1 +1,1 @@
-var mnemonic = "athlete lawsuit disagree round cube slice citizen riot behind mule relief warrior";
+var mnemonic = "urge banana team april brand media quiz unlock change relax swallow oxygen";

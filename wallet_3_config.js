@@ -1,1 +1,1 @@
-var mnemonic = "misery allow trophy faint flat remind better elevator proof pulp rule matrix";
+var mnemonic = "label rail peanut suffer broken lounge fancy arch knock luggage myself receive";

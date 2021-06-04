@@ -1,1 +1,1 @@
-var mnemonic = "noble issue another banana above cram scale cactus long empower scout sell";
+var mnemonic = "discover thumb cover hedgehog few blue boost follow broom charge tail robust";

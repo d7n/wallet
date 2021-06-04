@@ -1,1 +1,1 @@
-var mnemonic = "suggest brush image fuel hobby broken width liberty shock child focus menu";
+var mnemonic = "story verify please exhaust then such cigar nasty satisfy assume shoot dose";

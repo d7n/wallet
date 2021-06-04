@@ -1,1 +1,1 @@
-var mnemonic = "farm impulse bag pulp size round track pattern silly royal coil museum";
+var mnemonic = "trust teach page fragile twelve lemon increase clutch custom fragile border home";

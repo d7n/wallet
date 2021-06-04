@@ -1,1 +1,1 @@
-var mnemonic = "gym history tattoo perfect universe scorpion must hub sure dog together pledge";
+var mnemonic = "omit rescue oblige edit exact gallery elevator tragic east address wine please";

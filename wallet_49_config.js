@@ -1,1 +1,1 @@
-var mnemonic = "harvest brief ten puppy hotel else million gospel attack ball cash almost";
+var mnemonic = "sad sting sport globe match giant throw luggage grit initial weird way";

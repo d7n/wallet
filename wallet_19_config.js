@@ -1,1 +1,1 @@
-var mnemonic = "fog wash disorder what melody often ugly fresh resist also husband priority";
+var mnemonic = "enroll frame network junk wheel sunset clutch normal secret push credit toddler";

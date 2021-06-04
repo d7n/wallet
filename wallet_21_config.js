@@ -1,1 +1,1 @@
-var mnemonic = "wagon million february medal basic tortoise swamp layer dignity december put device";
+var mnemonic = "gap material erase cloud copper token differ soda arrive cruel blood energy";

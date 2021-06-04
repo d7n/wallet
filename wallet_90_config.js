@@ -1,1 +1,1 @@
-var mnemonic = "beef order amount bright fiction glory lab security renew top puzzle cruise";
+var mnemonic = "rather ladder behave swing element pact chest party noble sign document solar";

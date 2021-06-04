@@ -1,1 +1,1 @@
-var mnemonic = "anger awful magic lady upset hold angle inform sock spike dignity hundred";
+var mnemonic = "dice doll civil innocent nature latin beef unknown target burden disease vocal";

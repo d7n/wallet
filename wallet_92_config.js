@@ -1,1 +1,1 @@
-var mnemonic = "divide awful shield trap enact pig random vicious property water equip skin";
+var mnemonic = "option omit polar alpha avoid warrior amount grunt observe cupboard dutch veteran";

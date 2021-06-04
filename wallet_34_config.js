@@ -1,1 +1,1 @@
-var mnemonic = "flock clever crane lend gun defense furnace seat vacuum olympic december power";
+var mnemonic = "uncover auto fortune two eight power slim mother timber indoor sell spread";

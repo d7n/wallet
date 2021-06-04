@@ -1,1 +1,1 @@
-var mnemonic = "else oblige output elevator mistake album unusual false wisdom project black whip";
+var mnemonic = "unknown talk wealth link final tail detect word coconut change autumn kangaroo";

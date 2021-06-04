@@ -1,1 +1,1 @@
-var mnemonic = "club sword what record remember label regular close index body mechanic deal";
+var mnemonic = "choose kid party cute hundred margin swim focus finish saddle tired cousin";

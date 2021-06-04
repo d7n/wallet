@@ -1,1 +1,1 @@
-var mnemonic = "barrel catalog excess reopen unlock banana push purchase mask hollow year galaxy";
+var mnemonic = "same robust rain under hobby demand swim resist junior destroy mandate panic";

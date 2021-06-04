@@ -1,1 +1,1 @@
-var mnemonic = "drastic civil reason comic venue merry east sketch please ocean casual valve";
+var mnemonic = "bamboo welcome labor jar cram link observe wink carbon burst still govern";

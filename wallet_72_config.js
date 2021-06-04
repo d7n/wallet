@@ -1,1 +1,1 @@
-var mnemonic = "gas spring judge much income piece magic special left embark song tissue";
+var mnemonic = "dial faith boring vintage admit winner swing ranch wasp resemble few captain";

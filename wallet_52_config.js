@@ -1,1 +1,1 @@
-var mnemonic = "measure jaguar grain such bracket general case tunnel life jazz divide parrot";
+var mnemonic = "fit degree glue remember display vintage phone add color despair peace novel";

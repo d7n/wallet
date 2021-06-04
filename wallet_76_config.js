@@ -1,1 +1,1 @@
-var mnemonic = "pyramid topple found museum affair skirt coconut abuse door actress asset room";
+var mnemonic = "tell state quantum finger motor miracle grief sponsor reward whale exact donkey";

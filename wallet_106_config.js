@@ -1,1 +1,1 @@
-var mnemonic = "clarify owner need hard order logic live all describe ladder tide source";
+var mnemonic = "palace ceiling stereo unknown useful dial glad middle region suffer chuckle aspect";

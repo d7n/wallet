@@ -1,1 +1,1 @@
-var mnemonic = "clock phone family kiss scheme fall lab kite muffin club tobacco waste";
+var mnemonic = "laundry problem tuna report laundry modify hood fun wagon foil charge try";

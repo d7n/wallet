@@ -1,1 +1,1 @@
-var mnemonic = "soul about foil diamond amused repeat crime cushion tattoo cool prize abstract";
+var mnemonic = "notice custom weather debris cabbage crane crater rebel shine permit tennis husband";

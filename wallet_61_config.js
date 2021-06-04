@@ -1,1 +1,1 @@
-var mnemonic = "tape milk exile rug convince anchor bracket smile rack lamp identify load";
+var mnemonic = "draw accuse what pledge shift dice galaxy omit observe exotic praise oil";

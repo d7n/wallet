@@ -1,1 +1,1 @@
-var mnemonic = "luxury day sample cattle rich educate twin start satoshi sunset wrist recipe";
+var mnemonic = "sign cherry frog soldier giggle riot idle exact beyond gasp draft wealth";

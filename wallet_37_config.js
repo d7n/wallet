@@ -1,1 +1,1 @@
-var mnemonic = "solve list logic office keen sunny frost window mosquito blade core tobacco";
+var mnemonic = "erupt verb magic mammal unusual pig old eye unknown tone cage husband";

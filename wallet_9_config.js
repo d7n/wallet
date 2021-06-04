@@ -1,1 +1,1 @@
-var mnemonic = "come order tell quiz few book cash arrange client venture empower taxi";
+var mnemonic = "cook worth common boy give pudding paddle found turn robot snap illness";

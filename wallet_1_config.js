@@ -1,1 +1,1 @@
-var mnemonic = "domain anxiety olympic nephew scatter weekend way goddess bubble border original romance";
+var mnemonic = "mechanic fiber exit chef grab volcano avoid jaguar grid catalog certain bench";

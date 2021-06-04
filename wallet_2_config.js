@@ -1,1 +1,1 @@
-var mnemonic = "stamp loan mule stool try trip color rifle ketchup side suggest survey";
+var mnemonic = "fly stairs train very dismiss pole goose tornado height kidney average wear";

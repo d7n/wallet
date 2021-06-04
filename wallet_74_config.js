@@ -1,1 +1,1 @@
-var mnemonic = "enough crane cause arch vendor venue ticket boat axis useful argue cave";
+var mnemonic = "leisure rubber tuition unhappy opera detect picture angle wise express movie wheat";

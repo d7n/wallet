@@ -1,1 +1,1 @@
-var mnemonic = "intact box crawl great text proud amateur arrange daring chicken timber panel";
+var mnemonic = "drive squirrel world luggage main august label artwork pumpkin uncle black split";

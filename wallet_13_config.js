@@ -1,1 +1,1 @@
-var mnemonic = "waste fee orient bounce scheme degree there forward indicate actor arm boss";
+var mnemonic = "capital myth agent nation mercy adapt cereal eyebrow congress title uniform squeeze";

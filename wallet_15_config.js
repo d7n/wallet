@@ -1,1 +1,1 @@
-var mnemonic = "degree diesel unveil soda assault blush since arrest blossom soon critic about";
+var mnemonic = "acquire page arch enable stick grief burger snow vibrant purse hill benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "fog false kit market doll cabin post crystal blur seven move bonus";
+var mnemonic = "ensure must history orange online glance desert congress profit often ethics case";

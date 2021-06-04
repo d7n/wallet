@@ -1,1 +1,1 @@
-var mnemonic = "glad dentist pen indoor bamboo limb test actor biology upgrade surround rare";
+var mnemonic = "brown message pond fish kingdom merit sense joke visa evidence only venue";

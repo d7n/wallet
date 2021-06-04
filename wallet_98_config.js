@@ -1,1 +1,1 @@
-var mnemonic = "reflect slab engage window ridge hill carry choose smoke road tooth jewel";
+var mnemonic = "cabbage title old inner obey luggage mammal pair maid lemon admit winter";

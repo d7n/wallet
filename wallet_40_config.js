@@ -1,1 +1,1 @@
-var mnemonic = "destroy bleak chest habit work trim talent lens begin good flight cry";
+var mnemonic = "diagram security miracle boat blind upgrade harsh arrest gospel faith easily pause";

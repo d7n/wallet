@@ -1,1 +1,1 @@
-var mnemonic = "soldier voyage priority pluck harsh hour strategy modify hill glass network lottery";
+var mnemonic = "eye ginger sample deputy credit unaware simple donkey ridge roast aisle execute";

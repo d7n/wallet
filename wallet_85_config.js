@@ -1,1 +1,1 @@
-var mnemonic = "clock squirrel mystery oak chair job chalk truck museum method language bottom";
+var mnemonic = "shy eagle side dizzy sorry junior inherit alley seat train ahead silver";

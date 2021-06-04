@@ -1,1 +1,1 @@
-var mnemonic = "group panther sibling meat list worry tissue proud boss envelope relax leisure";
+var mnemonic = "prize embrace wrong renew pony must twist become they glance return equip";

@@ -1,1 +1,1 @@
-var mnemonic = "video found spoil extra inmate motion panda magnet fortune foster flush seek";
+var mnemonic = "earth feed elegant shrimp worry zero dawn gift cash vivid kiss release";

@@ -1,1 +1,1 @@
-var mnemonic = "mad surprise traffic team march eye connect dignity cross layer subway depend";
+var mnemonic = "ethics story machine mistake trade mass lyrics federal render kid abandon wrong";

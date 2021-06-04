@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shuffle problem quantum cable find fury isolate sense leader gallery sweet";
+var mnemonic = "decide stove access clerk normal air speak feel fine grid update desk";

@@ -1,1 +1,1 @@
-var mnemonic = "comic shop false rival trade know hair desert celery real craft manage";
+var mnemonic = "wolf walk mimic blade trip future art blur biology nice inform session";

@@ -1,1 +1,1 @@
-var mnemonic = "expose raccoon october strike acoustic orphan hope around uphold stone mixture cherry";
+var mnemonic = "monkey tunnel audit person govern rule phone spend film baby spirit afraid";

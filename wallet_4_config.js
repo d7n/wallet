@@ -1,1 +1,1 @@
-var mnemonic = "father release party staff target library album favorite file swallow habit leisure";
+var mnemonic = "hole vital afraid define venture window busy claw swift cinnamon indoor manage";

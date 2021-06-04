@@ -1,1 +1,1 @@
-var mnemonic = "fever innocent ribbon tower opera rice twice erase trim click shield check";
+var mnemonic = "speak aspect okay holiday chapter fury always ask taste vendor catalog dignity";

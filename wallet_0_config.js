@@ -1,1 +1,1 @@
-var mnemonic = "august please bird quote palace toe minimum month enact genre idle galaxy";
+var mnemonic = "worry creek fragile weekend feed source occur rookie strike faculty cargo quarter";

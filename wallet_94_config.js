@@ -1,1 +1,1 @@
-var mnemonic = "rain impulse unhappy print mountain direct venue kidney pair best senior tide";
+var mnemonic = "remember coffee planet hip silver illness minor lift labor senior chunk image";

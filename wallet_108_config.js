@@ -1,1 +1,1 @@
-var mnemonic = "federal poet gold claim present stairs depend coyote start define august hurt";
+var mnemonic = "runway section wheel library wool nose pizza train bean jelly pass broken";

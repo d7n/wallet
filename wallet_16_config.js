@@ -1,1 +1,1 @@
-var mnemonic = "climb staff donkey coin ecology kit truth desk half enemy orient become";
+var mnemonic = "border sell brain mixture bulb lobster few tilt indicate certain island mandate";

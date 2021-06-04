@@ -1,1 +1,1 @@
-var mnemonic = "horror disagree town bamboo only kick debris demise genre negative elevator ladder";
+var mnemonic = "tower wild call critic rotate box pitch large session clock cement miss";

@@ -1,1 +1,1 @@
-var mnemonic = "robust volume mean elegant toy train update firm urge desert sound mango";
+var mnemonic = "wave kiwi slim energy address rail slow bronze strong shadow learn fetch";

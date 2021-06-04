@@ -1,1 +1,1 @@
-var mnemonic = "vanish math clump slender hope plate provide execute cancel guitar manage fix";
+var mnemonic = "film butter catalog point mad horn obtain left price leisure piece reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "connect end slab method square prosper crystal swamp bar mix kiwi pioneer";
+var mnemonic = "leopard nut rule program concert enjoy green boy pride ahead write enemy";

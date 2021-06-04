@@ -1,1 +1,1 @@
-var mnemonic = "bridge bronze analyst three box share canoe bubble infant castle you escape";
+var mnemonic = "ride strong edge once analyst drive woman pistol pen gold glow link";

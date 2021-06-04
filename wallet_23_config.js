@@ -1,1 +1,1 @@
-var mnemonic = "acquire august early govern video husband spin reward tuition cycle speed census";
+var mnemonic = "drip upper panda flip eyebrow way soldier devote muffin luxury little vast";
