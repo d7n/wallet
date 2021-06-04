@@ -1,1 +1,1 @@
-var mnemonic = "stable stove lend elder walk label blue board badge love dragon consider";
+var mnemonic = "pole shock secret science horror energy always word ordinary pen easily ankle";

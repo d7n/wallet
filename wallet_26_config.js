@@ -1,1 +1,1 @@
-var mnemonic = "middle worth shift avocado rebuild false wheat large cupboard fragile hood destroy";
+var mnemonic = "nation swing vacant dust middle sustain legend dignity concert penalty two verify";

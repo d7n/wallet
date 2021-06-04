@@ -1,1 +1,1 @@
-var mnemonic = "scheme recipe charge guess mosquito card when possible merge pepper van between";
+var mnemonic = "neutral shell vast sell tongue blade motion express model remember addict brief";

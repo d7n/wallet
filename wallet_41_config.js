@@ -1,1 +1,1 @@
-var mnemonic = "fun life mass soda crunch digital walk monkey section any potato suspect";
+var mnemonic = "buddy age clinic knife horse tongue speed syrup cattle jaguar kit quantum";

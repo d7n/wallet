@@ -1,1 +1,1 @@
-var mnemonic = "scissors paper grab vessel favorite abandon three salon arch top bike scout";
+var mnemonic = "weather solar east witness exile net silver estate neutral odor faculty stumble";

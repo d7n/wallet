@@ -1,1 +1,1 @@
-var mnemonic = "soul manage tonight dizzy strategy joy aerobic soft transfer mixed secret busy";
+var mnemonic = "moral wheat hotel yard reflect sad discover index glide version laugh clip";

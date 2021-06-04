@@ -1,1 +1,1 @@
-var mnemonic = "rose crisp violin local pear scene crucial syrup lamp fresh inspire uncle";
+var mnemonic = "sauce wing screen trial dust remember found success cabin when easily ball";

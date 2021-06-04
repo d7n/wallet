@@ -1,1 +1,1 @@
-var mnemonic = "come iron focus woman tenant inside lecture cave pact creek volcano book";
+var mnemonic = "lift galaxy address record donkey survey where spot wave mule picture drum";

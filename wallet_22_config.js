@@ -1,1 +1,1 @@
-var mnemonic = "dumb federal cluster write sting vague spike solution float survey soldier purity";
+var mnemonic = "grab people park must genuine hotel bike taxi symbol forward solar project";

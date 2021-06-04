@@ -1,1 +1,1 @@
-var mnemonic = "film join pave boost lawsuit dial dwarf any tool sing capable dentist";
+var mnemonic = "desert inmate milk milk electric attract reform cigar slow garage quantum current";

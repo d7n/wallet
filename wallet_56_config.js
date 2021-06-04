@@ -1,1 +1,1 @@
-var mnemonic = "nature salt much zone render lumber team drum toilet athlete business segment";
+var mnemonic = "novel desert rifle canvas worry zoo file become defy salad save cable";

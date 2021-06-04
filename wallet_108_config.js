@@ -1,1 +1,1 @@
-var mnemonic = "fortune embark young absent thunder marine youth door must float valley change";
+var mnemonic = "retreat plunge middle topic design electric essay choice unknown carbon that original";

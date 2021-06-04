@@ -1,1 +1,1 @@
-var mnemonic = "evolve crush service mind rose copy vanish utility cram prize catalog crucial";
+var mnemonic = "tuna chef custom genuine vintage engine unable casual speed stomach merit wrap";

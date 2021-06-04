@@ -1,1 +1,1 @@
-var mnemonic = "tomato absent cancel piece situate uniform struggle thunder slender blur draw code";
+var mnemonic = "feature transfer blast crumble snake alley junk two frequent weapon diesel point";

@@ -1,1 +1,1 @@
-var mnemonic = "trial youth task busy kit resist divorce ocean pair dress crack pause";
+var mnemonic = "antique dignity warm consider crime obvious arrive resist void lab glove hen";

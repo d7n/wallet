@@ -1,1 +1,1 @@
-var mnemonic = "quarter check drum blossom stairs turn provide gun layer another please zebra";
+var mnemonic = "chef entry trigger daughter confirm zero twenty benefit produce voyage shop crew";

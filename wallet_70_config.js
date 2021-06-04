@@ -1,1 +1,1 @@
-var mnemonic = "visual horse recycle churn dawn sheriff term famous any chalk execute garlic";
+var mnemonic = "next provide fiber when witness combine sunset wonder sweet correct ill airport";

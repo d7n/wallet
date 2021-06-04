@@ -1,1 +1,1 @@
-var mnemonic = "setup cause regular security siren use diary barely mushroom coach mistake tissue";
+var mnemonic = "hollow pig turtle attack gate asset piece soap ten short grid neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "afford kitchen remind mass soccer hurt bone orient vehicle language life weasel";
+var mnemonic = "width spread occur dad sight brisk cotton book popular leopard image fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "hat total smooth fire grant myth short math satisfy return guess foam";
+var mnemonic = "feel alter sugar oppose humor satisfy payment bulb goat thumb hour deal";

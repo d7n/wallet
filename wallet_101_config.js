@@ -1,1 +1,1 @@
-var mnemonic = "congress cradle consider rack where into hour glide piano pumpkin comfort budget";
+var mnemonic = "make eyebrow bonus flight rather reform ask toddler manual auction post stuff";

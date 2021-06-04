@@ -1,1 +1,1 @@
-var mnemonic = "cable exhaust warfare gorilla crunch cable venture visa love shove riot hand";
+var mnemonic = "smile strike pumpkin buffalo logic spoon tortoise yellow exact tag shift birth";

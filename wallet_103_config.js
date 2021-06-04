@@ -1,1 +1,1 @@
-var mnemonic = "stand recycle leaf consider useful rule nurse drill metal action stable segment";
+var mnemonic = "tumble essence middle invest unknown alley fog buddy despair aerobic hard sure";

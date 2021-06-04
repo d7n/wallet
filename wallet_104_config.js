@@ -1,1 +1,1 @@
-var mnemonic = "unfold rebuild country ship rookie garden place grit hello grab legend desk";
+var mnemonic = "angry replace vanish security orphan ski argue possible west man tonight connect";

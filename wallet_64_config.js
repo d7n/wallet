@@ -1,1 +1,1 @@
-var mnemonic = "donate lesson upon rifle average fancy number broom web lava chicken collect";
+var mnemonic = "velvet law print timber cliff rabbit canal slim either please volume surface";

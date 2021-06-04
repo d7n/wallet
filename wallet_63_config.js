@@ -1,1 +1,1 @@
-var mnemonic = "track account reward border ladder rare problem ordinary hole hover tooth nut";
+var mnemonic = "sentence coyote green palm more shuffle lift avoid risk romance rookie reduce";

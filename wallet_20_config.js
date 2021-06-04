@@ -1,1 +1,1 @@
-var mnemonic = "ice heart caution radio ethics police rough erosion shift review caught orient";
+var mnemonic = "alcohol term slim flight shift clever shrug arm picture real maid warrior";

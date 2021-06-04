@@ -1,1 +1,1 @@
-var mnemonic = "swamp salmon shoe ridge shadow fiber win simple around special sweet six";
+var mnemonic = "denial give case hockey velvet ketchup material festival lonely relax used tennis";

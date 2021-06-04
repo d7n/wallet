@@ -1,1 +1,1 @@
-var mnemonic = "jeans tissue angle tree fee social morning horror deal during crucial squeeze";
+var mnemonic = "coin giggle short myth perfect lunar possible acid range image limit lounge";

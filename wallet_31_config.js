@@ -1,1 +1,1 @@
-var mnemonic = "dilemma garden fork shock nature cruise love loud simple cable mimic history";
+var mnemonic = "success cross enact easy erase beach tattoo curious spoil family improve cart";

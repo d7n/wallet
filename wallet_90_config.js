@@ -1,1 +1,1 @@
-var mnemonic = "perfect shaft obtain upgrade element youth rule punch blossom hello sausage journey";
+var mnemonic = "opera sort guard core analyst frozen segment inspire pair turtle into snow";

@@ -1,1 +1,1 @@
-var mnemonic = "slot summer grab badge talent syrup imitate noodle match snake unfair flavor";
+var mnemonic = "shadow wrestle august isolate eight artist senior magic aim black idea umbrella";

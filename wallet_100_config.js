@@ -1,1 +1,1 @@
-var mnemonic = "symptom enter gossip offer uphold company open recycle unit puppy resemble surprise";
+var mnemonic = "supply empower future canal man rocket mule country hidden zone woman erode";

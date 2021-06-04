@@ -1,1 +1,1 @@
-var mnemonic = "execute kitten resource baby match inmate globe rice knock wrong draft enable";
+var mnemonic = "kiss merit era false noise hedgehog kind sound profit margin vivid island";

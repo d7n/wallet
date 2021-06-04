@@ -1,1 +1,1 @@
-var mnemonic = "island roast number defy vanish robot arctic garbage burst faculty wash vocal";
+var mnemonic = "oak swear gate donate clarify foot melt concert road dilemma submit frequent";

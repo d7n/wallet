@@ -1,1 +1,1 @@
-var mnemonic = "dumb afraid gravity victory museum country above confirm balcony column veteran wide";
+var mnemonic = "strong forest wait pledge thought excess hill random random arrive sting fruit";

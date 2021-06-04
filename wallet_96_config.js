@@ -1,1 +1,1 @@
-var mnemonic = "junior bid educate parrot surround kind garage item mammal derive already scorpion";
+var mnemonic = "there liberty budget estate isolate else cube rifle shoe soon coach pear";

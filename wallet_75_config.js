@@ -1,1 +1,1 @@
-var mnemonic = "trust deputy quality oak category crew program rail parrot pill track remove";
+var mnemonic = "antique amount gadget farm memory debris priority machine rhythm eight decorate total";

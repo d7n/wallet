@@ -1,1 +1,1 @@
-var mnemonic = "fresh pause arctic pelican faint language power diet water grunt guide truth";
+var mnemonic = "faculty scrub family else advance custom prepare virtual script method night index";

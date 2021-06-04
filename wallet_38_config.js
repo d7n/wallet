@@ -1,1 +1,1 @@
-var mnemonic = "faint awful eye bounce kick vocal tragic round fiber assault board ready";
+var mnemonic = "fresh bleak sadness story knee skill buddy cactus bid cliff fatigue drip";

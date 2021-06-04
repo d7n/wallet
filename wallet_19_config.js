@@ -1,1 +1,1 @@
-var mnemonic = "salt garage bid table include assault put space blush alpha solve rely";
+var mnemonic = "good loan hockey badge panther wisdom verb leopard celery quality hybrid afford";

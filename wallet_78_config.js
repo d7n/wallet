@@ -1,1 +1,1 @@
-var mnemonic = "razor stay toward impulse quarter connect praise else educate urge session milk";
+var mnemonic = "aisle access monkey tube reveal gadget photo duty field vapor orbit replace";

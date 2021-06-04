@@ -1,1 +1,1 @@
-var mnemonic = "quantum season dash fork display only betray spirit mix envelope gold meadow";
+var mnemonic = "chat luxury ice lottery harvest timber flag tumble allow happy latin make";

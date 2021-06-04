@@ -1,1 +1,1 @@
-var mnemonic = "mesh opera attend audit tomorrow category aerobic dust neither crane seminar narrow";
+var mnemonic = "produce exile must around speed filter choose sheriff basket best fix aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "damage broccoli room salute board surprise remember quantum exit media hello zone";
+var mnemonic = "useless base sister fatal olympic release verify digital slender grass habit gospel";

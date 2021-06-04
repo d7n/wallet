@@ -1,1 +1,1 @@
-var mnemonic = "spoil verify olive all enjoy vacuum spoon shoulder measure safe rally nothing";
+var mnemonic = "tag bargain assault sibling guess stay magnet ordinary flame turkey market inform";

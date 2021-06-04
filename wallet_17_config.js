@@ -1,1 +1,1 @@
-var mnemonic = "armor model grow color squeeze shock palace client home obvious relax mobile";
+var mnemonic = "stumble gravity cook point section cable acid mix square melody parrot liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "method target crumble spirit say actor potato gas attend bamboo funny pull";
+var mnemonic = "disease tongue hover junior cousin spin return icon dynamic price habit off";

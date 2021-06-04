@@ -1,1 +1,1 @@
-var mnemonic = "trim direct inquiry true science silent balcony width connect assist erupt stomach";
+var mnemonic = "cereal negative reflect good sword essence leg virus robust view change gossip";

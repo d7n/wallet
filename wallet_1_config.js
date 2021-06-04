@@ -1,1 +1,1 @@
-var mnemonic = "afraid letter still afford type step ski citizen upper apart brass special";
+var mnemonic = "legend input major sport client drastic vital wing globe crisp coyote letter";

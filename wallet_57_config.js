@@ -1,1 +1,1 @@
-var mnemonic = "spend resource cabin rather style vocal anger common master exclude report holiday";
+var mnemonic = "warfare flame supply lucky cricket shed become carpet shift bind pulp proof";

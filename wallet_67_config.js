@@ -1,1 +1,1 @@
-var mnemonic = "capital digital update leopard grass boss limb easily dragon maze right rifle";
+var mnemonic = "caution load little naive struggle cry loop cotton unfold cook laptop pattern";

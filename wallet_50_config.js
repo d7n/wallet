@@ -1,1 +1,1 @@
-var mnemonic = "chair bonus unknown slide alley blanket drill spin cattle umbrella two tobacco";
+var mnemonic = "remove ask matrix naive thunder crop yard view cricket pact bunker flag";

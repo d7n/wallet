@@ -1,1 +1,1 @@
-var mnemonic = "basket cradle worth fly sudden glory beauty aerobic antenna hood pool connect";
+var mnemonic = "owner quick exact space time alley ginger slot february pioneer clutch busy";

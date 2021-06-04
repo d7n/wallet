@@ -1,1 +1,1 @@
-var mnemonic = "year bitter power heavy sell opinion region frog sausage quarter liquid husband";
+var mnemonic = "tiger history top say goddess joy deny kiwi young boss letter pyramid";

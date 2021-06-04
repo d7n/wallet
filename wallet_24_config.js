@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon scatter divert rally matrix sock depart hunt palm lemon above away";
+var mnemonic = "curve village exhibit brush meat emotion armed repair habit enhance six mule";

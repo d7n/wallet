@@ -1,1 +1,1 @@
-var mnemonic = "tuna rebel govern index shiver legal muffin state rose scorpion fun stove";
+var mnemonic = "wrap left involve interest list seat pen middle sea evolve chapter measure";

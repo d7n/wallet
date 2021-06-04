@@ -1,1 +1,1 @@
-var mnemonic = "text erode chase credit supreme benefit slush lady notable embark axis system";
+var mnemonic = "pitch invite celery protect resource summer father ankle artefact blood rack present";

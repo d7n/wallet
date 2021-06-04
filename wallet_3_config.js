@@ -1,1 +1,1 @@
-var mnemonic = "sort truck uniform pole relief gym culture wisdom version clay similar maid";
+var mnemonic = "cheese zone now note saddle blast patrol spread bundle bus open try";

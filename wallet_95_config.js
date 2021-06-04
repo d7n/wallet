@@ -1,1 +1,1 @@
-var mnemonic = "legend innocent pig armor open hip fossil buffalo cheese switch rack machine";
+var mnemonic = "large actor another frog woman income deposit habit erase trigger blade cross";

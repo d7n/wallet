@@ -1,1 +1,1 @@
-var mnemonic = "add ship forward tennis prison slam silk lunar flee quote slow turkey";
+var mnemonic = "grit news client walk still minor universe hobby elephant letter cute enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe veteran educate upgrade female pioneer faculty magic announce unhappy garlic art";
+var mnemonic = "habit churn mask cash soda fence category quiz annual original coil warfare";

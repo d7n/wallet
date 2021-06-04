@@ -1,1 +1,1 @@
-var mnemonic = "boil predict runway video random trash music defense armor morning kick tool";
+var mnemonic = "outer surge there legal radar strategy unit force bamboo rack coffee six";

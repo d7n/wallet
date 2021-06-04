@@ -1,1 +1,1 @@
-var mnemonic = "crater vintage crime problem fresh erode sudden december online valley feature shed";
+var mnemonic = "uphold hole cattle tag asthma ocean champion shaft boss chief minimum letter";

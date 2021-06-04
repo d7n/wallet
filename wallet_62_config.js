@@ -1,1 +1,1 @@
-var mnemonic = "talk panther faint turtle system skin balcony typical tongue during bus noble";
+var mnemonic = "describe chimney name blur spell marble nuclear matrix happy guess off spring";

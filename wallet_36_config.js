@@ -1,1 +1,1 @@
-var mnemonic = "result tackle sunset wait fringe adapt shuffle dial bless glow subway inspire";
+var mnemonic = "glide anxiety outside agree mandate ten angry consider another april dumb save";

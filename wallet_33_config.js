@@ -1,1 +1,1 @@
-var mnemonic = "prevent ecology economy shiver thought mass plate will bargain celery abstract science";
+var mnemonic = "gallery dress census always lens ethics disorder kind noble quick guard ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "right ill auction poet deal original ritual settle together blast aunt credit";
+var mnemonic = "valid plastic term summer deal input shed submit segment room cute expire";

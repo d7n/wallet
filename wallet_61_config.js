@@ -1,1 +1,1 @@
-var mnemonic = "prepare truck social tip twice curtain symptom mechanic hawk visa sand balance";
+var mnemonic = "often medal immune copy release spell frog long cargo fall shoulder shove";

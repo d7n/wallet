@@ -1,1 +1,1 @@
-var mnemonic = "lunar security save fever skate grab oblige caught raw candy illegal expand";
+var mnemonic = "try wheat sport advance runway kid sauce travel exist frequent jacket lens";

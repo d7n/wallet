@@ -1,1 +1,1 @@
-var mnemonic = "sad rose depart other jungle grow position cabin ostrich town expire coin";
+var mnemonic = "bundle subway cake become miss anxiety awkward clarify yellow test hungry iron";

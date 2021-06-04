@@ -1,1 +1,1 @@
-var mnemonic = "october wave quit unhappy extend record minute visa open entry spin orphan";
+var mnemonic = "exit galaxy snap core scan arrow bamboo clutch eye ceiling crew orphan";

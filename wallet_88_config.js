@@ -1,1 +1,1 @@
-var mnemonic = "web frequent risk fuel liberty work huge awkward kitten script bomb broccoli";
+var mnemonic = "vintage evil reward differ laptop foam rail table give gossip silent quality";

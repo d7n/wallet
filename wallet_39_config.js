@@ -1,1 +1,1 @@
-var mnemonic = "ozone else kit dose bomb tonight memory talent gravity slush swarm theme";
+var mnemonic = "together wage rude olympic high weapon soda tent window onion hen soccer";

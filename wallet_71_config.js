@@ -1,1 +1,1 @@
-var mnemonic = "science draw negative just mind tell globe steel bone infant choose wheel";
+var mnemonic = "mouse marriage blouse cube peasant bicycle vapor fix enable mandate prize moment";

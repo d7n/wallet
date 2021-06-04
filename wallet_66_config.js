@@ -1,1 +1,1 @@
-var mnemonic = "weasel eyebrow rule stumble rough shrimp anxiety aunt left rotate rally raccoon";
+var mnemonic = "absurd blue easily broccoli protect then sunset pluck buddy belt company patch";

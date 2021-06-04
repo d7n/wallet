@@ -1,1 +1,1 @@
-var mnemonic = "spin hawk squirrel flight enable valley cave lyrics shield act fancy actress";
+var mnemonic = "solid assault moon wedding learn lend success crop theme panther paddle increase";

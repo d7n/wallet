@@ -1,1 +1,1 @@
-var mnemonic = "crouch cart session cruel cheap maximum buffalo sister gaze despair pink birth";
+var mnemonic = "silver glory absent zero prefer frost fit month shove always cart pig";

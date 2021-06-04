@@ -1,1 +1,1 @@
-var mnemonic = "purchase cage pyramid occur mobile this property various sample frost pupil explain";
+var mnemonic = "valve master drip fan actress double boss brown endorse consider federal pond";

@@ -1,1 +1,1 @@
-var mnemonic = "build issue omit model prepare icon rain fringe alien hockey narrow laugh";
+var mnemonic = "trash leisure cheese maximum indicate faculty matter off voice embrace tone lawn";

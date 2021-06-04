@@ -1,1 +1,1 @@
-var mnemonic = "bunker movie recycle potato cloth text poet bright slight bless twelve immense";
+var mnemonic = "sketch network expect cluster stay knee imitate guess aware cause actress coyote";

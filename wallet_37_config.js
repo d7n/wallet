@@ -1,1 +1,1 @@
-var mnemonic = "club weird chef bid boost gaze argue hobby royal truly blouse vote";
+var mnemonic = "true square razor crack conduct jewel win wise lawn omit cloth walnut";

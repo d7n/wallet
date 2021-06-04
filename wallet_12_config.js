@@ -1,1 +1,1 @@
-var mnemonic = "fan economy million response palm arch dentist tag drill pencil buddy skirt";
+var mnemonic = "frozen web pulp soldier crop urge endless royal rare man street quality";

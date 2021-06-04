@@ -1,1 +1,1 @@
-var mnemonic = "curious half text opinion kick goose humor wreck urge genuine riot image";
+var mnemonic = "bachelor approve try nest okay record empty guard party fat nature envelope";

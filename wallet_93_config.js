@@ -1,1 +1,1 @@
-var mnemonic = "future evoke crystal mixture clerk rocket slogan swim immense purity ice black";
+var mnemonic = "chaos tag treat scatter exile village quiz bone royal excite mechanic forward";

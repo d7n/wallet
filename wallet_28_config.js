@@ -1,1 +1,1 @@
-var mnemonic = "clip bitter wave answer pear wait quick distance web open census solar";
+var mnemonic = "turn orchard boost grant argue valve act march correct actor saddle uncle";

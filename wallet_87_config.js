@@ -1,1 +1,1 @@
-var mnemonic = "pulse hungry marriage length possible change praise impulse april coyote neck interest";
+var mnemonic = "afraid saddle elegant menu liar zebra scheme mom more cake lonely proud";

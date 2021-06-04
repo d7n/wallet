@@ -1,1 +1,1 @@
-var mnemonic = "often pony window hold canvas capable mystery shadow priority kit notable torch";
+var mnemonic = "chaos confirm civil nation donate episode limit sight use able torch knee";

@@ -1,1 +1,1 @@
-var mnemonic = "waste blur invest normal warfare cricket index cube service boy prepare piece";
+var mnemonic = "thrive craft lawn during perfect pigeon crater similar fog yard alter parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "current session edge until click family attitude thumb theory coyote step invest";
+var mnemonic = "capital bike tenant pass concert angry code chunk awesome grocery tell subject";

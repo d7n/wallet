@@ -1,1 +1,1 @@
-var mnemonic = "raise cradle alcohol fitness reform buzz badge noble symptom skirt shiver basic";
+var mnemonic = "teach hidden toss script stable gossip endless few inquiry drip hood pencil";
