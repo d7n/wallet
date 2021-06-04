@@ -1,1 +1,1 @@
-var mnemonic = "share despair orbit demand shallow kid aim scan orphan practice armed jacket";
+var mnemonic = "catalog enable galaxy you adjust erode twenty era toddler tobacco dream tape";

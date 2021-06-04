@@ -1,1 +1,1 @@
-var mnemonic = "attitude cradle uncle security puzzle abandon churn friend stadium profit say excuse";
+var mnemonic = "stadium shrug umbrella hurdle chunk flash benefit off useful orphan rocket shock";

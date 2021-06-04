@@ -1,1 +1,1 @@
-var mnemonic = "security lazy armed scout genius fortune humor nature vibrant bargain start hip";
+var mnemonic = "derive shell infant jar flower invest update jacket goose result leopard muscle";

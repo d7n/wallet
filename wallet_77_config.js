@@ -1,1 +1,1 @@
-var mnemonic = "invest fan you bright sister soon electric car metal ignore material squirrel";
+var mnemonic = "method scorpion roast before elbow timber jewel train elephant know skin segment";

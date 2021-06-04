@@ -1,1 +1,1 @@
-var mnemonic = "injury ladder behind dune become title inquiry near elevator bid help rebel";
+var mnemonic = "armor sort vague mosquito country trend slab divorce meadow blossom giraffe prefer";

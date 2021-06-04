@@ -1,1 +1,1 @@
-var mnemonic = "coral upgrade february absurd venture ahead indoor glory cage inch ten mercy";
+var mnemonic = "useless youth predict crawl scene glide game piano idle liberty yellow iron";

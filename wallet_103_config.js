@@ -1,1 +1,1 @@
-var mnemonic = "visa stock tackle gadget object attitude south exist dragon resemble divorce merit";
+var mnemonic = "lunch deer rotate blue neglect end blade bean online hybrid abstract access";

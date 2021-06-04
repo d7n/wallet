@@ -1,1 +1,1 @@
-var mnemonic = "firm cry street toy asset sausage radio essay north empty token grocery";
+var mnemonic = "advance baby art elephant initial bronze frame wet road nurse neutral seek";

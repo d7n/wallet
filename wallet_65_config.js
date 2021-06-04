@@ -1,1 +1,1 @@
-var mnemonic = "mimic program will pizza gaze decide thank cattle brave stable blur roast";
+var mnemonic = "cigar venture install magic jewel ethics sight mixture ladder orbit innocent oak";

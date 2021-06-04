@@ -1,1 +1,1 @@
-var mnemonic = "broccoli nominee country carpet such various float about amused impulse guess manage";
+var mnemonic = "guide curious rough split friend find enrich avoid rural cabbage unfold emerge";

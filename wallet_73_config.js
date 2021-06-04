@@ -1,1 +1,1 @@
-var mnemonic = "swallow stove debris bicycle ribbon dragon plastic cereal loyal today swim view";
+var mnemonic = "fine bring elbow armor turn civil lottery home abuse young morning teach";

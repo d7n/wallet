@@ -1,1 +1,1 @@
-var mnemonic = "garlic ugly breeze alert pudding cable need quote race machine poem water";
+var mnemonic = "pepper exile book author long island crew outside shock sock finger train";

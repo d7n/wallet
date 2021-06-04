@@ -1,1 +1,1 @@
-var mnemonic = "arrive strong punch car rotate original crane antenna hour destroy twin ridge";
+var mnemonic = "earth powder pig cricket leisure barrel pretty van teach agent defense novel";

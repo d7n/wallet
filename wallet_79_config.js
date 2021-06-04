@@ -1,1 +1,1 @@
-var mnemonic = "cycle head gap spoil category sweet piano unaware innocent close drastic kid";
+var mnemonic = "fault scan absorb always cry clarify blade horse chair bitter order virus";

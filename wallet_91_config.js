@@ -1,1 +1,1 @@
-var mnemonic = "will convince style hood settle stumble age demise mind theme praise black";
+var mnemonic = "horn remember dinner fat weasel seven bacon defense dune job asthma dress";

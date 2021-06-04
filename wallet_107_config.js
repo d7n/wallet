@@ -1,1 +1,1 @@
-var mnemonic = "bronze bulk burden fee leisure chief rice poverty answer regular citizen crucial";
+var mnemonic = "warm sell void east canvas between term sun pill oyster click kitten";

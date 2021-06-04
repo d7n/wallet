@@ -1,1 +1,1 @@
-var mnemonic = "cricket crop dirt tone valve slender outdoor enact machine prosper sweet token";
+var mnemonic = "own barrel canal piece clean cube hole notice general symbol coconut coyote";

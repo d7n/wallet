@@ -1,1 +1,1 @@
-var mnemonic = "force seed adapt record bird chuckle conduct sphere dentist slide only ask";
+var mnemonic = "wisdom ill pumpkin narrow orchard unable rhythm punch tone inhale leopard enlist";

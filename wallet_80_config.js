@@ -1,1 +1,1 @@
-var mnemonic = "elite gravity praise spider use never little parade grab gift enroll recall";
+var mnemonic = "blood recipe clever lake leader dish poet soda slender rail bacon fabric";

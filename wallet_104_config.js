@@ -1,1 +1,1 @@
-var mnemonic = "air dolphin salmon fork begin label bulb blush endorse wreck two music";
+var mnemonic = "regret brief cement organ ginger worry debris apology hour spy body web";

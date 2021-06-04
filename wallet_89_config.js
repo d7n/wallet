@@ -1,1 +1,1 @@
-var mnemonic = "multiply fashion height leopard thing skull purchase nominee click legal miracle gate";
+var mnemonic = "sun truly rhythm bracket debate when wall renew champion you impact stay";

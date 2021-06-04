@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fringe front rude soccer cake gadget maximum talk away december inmate";
+var mnemonic = "private nasty news often reason nice useless capable drip ostrich father glimpse";

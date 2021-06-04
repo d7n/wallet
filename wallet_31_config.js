@@ -1,1 +1,1 @@
-var mnemonic = "quit giraffe quote unveil danger sense tomato slogan sentence degree busy eight";
+var mnemonic = "mesh loan proof garbage penalty spatial tree poet fix age six suspect";

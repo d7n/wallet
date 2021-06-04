@@ -1,1 +1,1 @@
-var mnemonic = "course slab divert express primary clap derive thank brave genre eager host";
+var mnemonic = "ozone method net another drum type pitch decline share half hill pulse";

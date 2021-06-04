@@ -1,1 +1,1 @@
-var mnemonic = "soldier lock clay potato recipe square sorry vintage harvest wheel sample remove";
+var mnemonic = "job always scare piano valve panther satisfy spend lobster shock breeze fury";

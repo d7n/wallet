@@ -1,1 +1,1 @@
-var mnemonic = "alcohol grass lava quick uncover any prison cute huge increase wait friend";
+var mnemonic = "person figure news name card rain treat toss clinic coil random cloud";

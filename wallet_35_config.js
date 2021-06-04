@@ -1,1 +1,1 @@
-var mnemonic = "spend unfold arctic filter quick list submit require wreck garlic random party";
+var mnemonic = "industry abandon core year eye wing supply gorilla tooth enroll lend frog";

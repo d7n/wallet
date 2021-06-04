@@ -1,1 +1,1 @@
-var mnemonic = "pole dune swift legal stomach engine mammal wave raven siren era suffer";
+var mnemonic = "need crunch waste bike chunk junk simple coin door maple cause quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "clip flash sheriff tent gentle dizzy face supply priority polar welcome wise";
+var mnemonic = "shift one twice congress volume change flavor derive tired parade legal child";

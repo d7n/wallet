@@ -1,1 +1,1 @@
-var mnemonic = "solar sentence scale walnut grass expire imitate upgrade sniff awkward legend lawn";
+var mnemonic = "hero hard oblige option bitter morning defy nurse cousin buyer mean stem";

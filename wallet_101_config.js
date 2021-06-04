@@ -1,1 +1,1 @@
-var mnemonic = "citizen crunch wall there phrase eagle fatal door parade fashion danger legal";
+var mnemonic = "just enroll robust left episode surprise lift hockey clutch witness street spring";

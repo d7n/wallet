@@ -1,1 +1,1 @@
-var mnemonic = "trophy final north injury exhaust ticket glad present omit appear soon vessel";
+var mnemonic = "elbow thank same debris exclude report sunny flower fun certain advance clarify";

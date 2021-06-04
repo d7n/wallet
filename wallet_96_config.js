@@ -1,1 +1,1 @@
-var mnemonic = "level buyer vacuum beyond nature april adjust frown diary violin fog runway";
+var mnemonic = "injury churn nest meat favorite answer barely gaze kid luxury fresh diesel";

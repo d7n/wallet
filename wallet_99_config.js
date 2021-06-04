@@ -1,1 +1,1 @@
-var mnemonic = "subject foam foam allow tape cave lava weird today capital hint sick";
+var mnemonic = "physical trust skate weekend exhaust weasel surround company donkey more toss gasp";

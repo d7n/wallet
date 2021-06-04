@@ -1,1 +1,1 @@
-var mnemonic = "leaf october creek return address cargo bicycle road salon zone salmon corn";
+var mnemonic = "announce sketch pistol humble thunder latin actual dirt poem shoulder guilt fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "ring mean excuse end theory inner region run crisp powder dwarf monster";
+var mnemonic = "pause duty print enter vote album body salon wisdom mountain plunge organ";

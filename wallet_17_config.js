@@ -1,1 +1,1 @@
-var mnemonic = "damage rural kite coral velvet brush leaf upgrade abandon decorate pipe hub";
+var mnemonic = "couch prosper quantum skate cable hundred vast neck ten vintage pulse park";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate client grunt poem champion shock agent balance tonight pony tone limb";
+var mnemonic = "main luggage wing check source toward crime decrease talk slush tourist crop";

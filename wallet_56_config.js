@@ -1,1 +1,1 @@
-var mnemonic = "misery embark olympic judge brass angle virus build tilt dinosaur move proof";
+var mnemonic = "boil give zero beach gloom traffic wing gather that engage found venue";

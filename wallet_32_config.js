@@ -1,1 +1,1 @@
-var mnemonic = "vague pond raven sell clap unaware blossom novel minute drop credit pilot";
+var mnemonic = "cake chronic explain caution ketchup universe van lizard blanket imitate claim crush";

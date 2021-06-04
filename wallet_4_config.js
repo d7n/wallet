@@ -1,1 +1,1 @@
-var mnemonic = "noise icon shy maximum follow amount soap hero chair divide valve zebra";
+var mnemonic = "solid noble slow alarm rural scrap pair mouse great warm peanut toward";

@@ -1,1 +1,1 @@
-var mnemonic = "add carpet toss divide measure notice board prosper news cloth gesture kind";
+var mnemonic = "million spy plunge miracle apart bamboo bulb phrase envelope burger toss route";

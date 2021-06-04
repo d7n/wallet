@@ -1,1 +1,1 @@
-var mnemonic = "crouch twice rally enrich travel wrap boring inmate kidney quit undo address";
+var mnemonic = "prepare barely craft obvious trash valid hospital slow truth carpet ridge empower";

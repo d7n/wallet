@@ -1,1 +1,1 @@
-var mnemonic = "exclude near usage throw matter rescue virtual poverty name already noise achieve";
+var mnemonic = "unique smile tape umbrella arm involve fortune spring exchange width good rival";

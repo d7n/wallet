@@ -1,1 +1,1 @@
-var mnemonic = "lounge wheel photo fog define aisle flip camp dignity side beauty target";
+var mnemonic = "coast exist give blade viable have empower scrub force giggle deputy fiction";

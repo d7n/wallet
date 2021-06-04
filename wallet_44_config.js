@@ -1,1 +1,1 @@
-var mnemonic = "fade law barely original spy stamp trigger clarify enlist transfer horn toilet";
+var mnemonic = "harsh loan witness approve belt short tackle hungry talk maze hill federal";

@@ -1,1 +1,1 @@
-var mnemonic = "food involve aerobic clean into better horn hurry taste scissors genius end";
+var mnemonic = "fly canyon nut slight repair midnight rare humor viable sorry elevator enjoy";

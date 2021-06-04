@@ -1,1 +1,1 @@
-var mnemonic = "sense swim photo claim exist umbrella game nephew file output cage flash";
+var mnemonic = "around old swift help join replace host secret void little business shoot";

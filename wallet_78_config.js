@@ -1,1 +1,1 @@
-var mnemonic = "desk kangaroo ramp imitate swamp defy quantum butter miracle verify puppy unique";
+var mnemonic = "sand elegant enter subway lady tenant rabbit belt govern wear fly valve";

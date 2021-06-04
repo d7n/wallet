@@ -1,1 +1,1 @@
-var mnemonic = "axis tongue large earth ketchup major cushion sand junk awkward vast shrimp";
+var mnemonic = "camp true bench monster veteran village baby early hawk canvas blush brisk";

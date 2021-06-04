@@ -1,1 +1,1 @@
-var mnemonic = "balcony discover cream romance group bargain knock edge nothing creek abuse quality";
+var mnemonic = "ghost crumble bundle deny turtle test paper thumb neck glow art fog";

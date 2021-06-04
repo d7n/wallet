@@ -1,1 +1,1 @@
-var mnemonic = "curve river zero token flame you ill kangaroo inject cousin wood beauty";
+var mnemonic = "skull addict toy million intact subject cart logic victory flag flock eager";

@@ -1,1 +1,1 @@
-var mnemonic = "despair pretty catch task sing slight acid example ecology canal book this";
+var mnemonic = "around shine live length surround gym buzz scorpion wing vibrant interest donkey";

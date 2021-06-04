@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow scissors vote strike hood sing catalog buddy horror rug bid recipe";
+var mnemonic = "jelly there hover adjust resemble sick guide someone pepper inherit cousin vacant";

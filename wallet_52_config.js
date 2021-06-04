@@ -1,1 +1,1 @@
-var mnemonic = "vast shaft bullet order oppose elder nice shrimp metal fluid dress grain";
+var mnemonic = "sock intact banana trip damage lion lion sentence actual toss combine hat";

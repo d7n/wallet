@@ -1,1 +1,1 @@
-var mnemonic = "advance heavy join other abstract list exist wait fetch rent that garlic";
+var mnemonic = "consider scare ramp drink guitar parade length dog iron need sell plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "banner solid snack play slow crouch upgrade twelve indicate enjoy gloom story";
+var mnemonic = "collect approve once term chicken step whale tube cabin comfort assist coast";

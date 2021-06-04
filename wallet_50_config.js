@@ -1,1 +1,1 @@
-var mnemonic = "evolve smile child time rice damp tobacco feed demise wall volume pond";
+var mnemonic = "credit fence repeat lawsuit extend call route local believe enter task clever";

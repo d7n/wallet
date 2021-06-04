@@ -1,1 +1,1 @@
-var mnemonic = "nothing motion useless school floor border fade power athlete inmate civil true";
+var mnemonic = "chief destroy ethics ancient clown lens artefact sausage swarm arrange defy frown";

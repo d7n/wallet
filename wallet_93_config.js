@@ -1,1 +1,1 @@
-var mnemonic = "normal crumble remind tide argue adjust allow agree oblige expose coyote sponsor";
+var mnemonic = "fluid vicious gesture grit spike artefact defense run make arena tide manage";

@@ -1,1 +1,1 @@
-var mnemonic = "industry until refuse alter elder food clinic stadium option swear give improve";
+var mnemonic = "legend curtain behave manage sudden pattern cheap elite laundry action buzz slab";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery venue cute camp talent rabbit flock alone that episode vault celery";
+var mnemonic = "false ozone path usual embody boy candy treat ten element weasel verb";

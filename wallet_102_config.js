@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mule miss soap carbon scheme slab correct social crack hood victory";
+var mnemonic = "differ mention violin remain amused carry agent silk case length matrix topple";

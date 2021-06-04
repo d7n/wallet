@@ -1,1 +1,1 @@
-var mnemonic = "assume collect mansion oppose problem uncover conduct boss immune situate bench theme";
+var mnemonic = "provide spread notable jazz eagle wrestle tool business list obvious grant matrix";

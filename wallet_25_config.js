@@ -1,1 +1,1 @@
-var mnemonic = "model assume current lobster obscure combine rice fire frame trap lend sun";
+var mnemonic = "chest tent promote head spawn jacket liberty all steak clip device jazz";

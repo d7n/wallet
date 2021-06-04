@@ -1,1 +1,1 @@
-var mnemonic = "rail sauce make crucial rely sure trim cash notice rail found firm";
+var mnemonic = "myth dice blue fatal section decline spirit consider soft coach silent cook";

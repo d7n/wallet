@@ -1,1 +1,1 @@
-var mnemonic = "gadget isolate shield exist manage goat message vault finish fork attitude teach";
+var mnemonic = "know erode leg dust sure human tiger pizza perfect finish spatial praise";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker rifle century snake remind hen soap panther tuition luxury suit receive";
+var mnemonic = "wrap cheap walk paddle virus lounge clarify flame blind post soft broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "visa prize again desk slender essence book arrange beauty still comfort brief";
+var mnemonic = "border crime science lyrics book raise gravity drop limit dawn arm promote";

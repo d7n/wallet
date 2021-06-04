@@ -1,1 +1,1 @@
-var mnemonic = "short discover elegant snap treat swift purity heavy disagree expose artist scale";
+var mnemonic = "hidden custom trick lazy reopen damage use gadget polar boil theme hollow";

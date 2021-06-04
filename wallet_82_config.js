@@ -1,1 +1,1 @@
-var mnemonic = "buzz can strong visit palm cigar legend company edit upon crazy coconut";
+var mnemonic = "section shoulder brave exotic interest struggle replace annual memory episode embrace borrow";

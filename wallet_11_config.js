@@ -1,1 +1,1 @@
-var mnemonic = "horror thrive series embody auto ship approve can gospel flame nephew maze";
+var mnemonic = "dog say wife tattoo corn robust unit way swift prosper year riot";

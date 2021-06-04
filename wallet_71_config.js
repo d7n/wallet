@@ -1,1 +1,1 @@
-var mnemonic = "call old meat accident badge tooth web rookie bike evil dwarf eyebrow";
+var mnemonic = "innocent whip canoe young satoshi surround above force imitate live regret slim";

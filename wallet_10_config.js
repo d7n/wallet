@@ -1,1 +1,1 @@
-var mnemonic = "elephant fit senior weather nephew shaft mesh asset jazz hunt roof purse";
+var mnemonic = "waste need lucky turtle surface please wealth hundred mixture hospital almost feature";

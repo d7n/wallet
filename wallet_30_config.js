@@ -1,1 +1,1 @@
-var mnemonic = "become family asset venue radar tape dish expose thumb process easy kingdom";
+var mnemonic = "forum round security salad reunion stumble scrap neck scene episode dry evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle scout stock unfair loan orange lesson trick seat earn pizza turkey";
+var mnemonic = "pact science muffin follow holiday near tide magnet forest hybrid rubber rebuild";

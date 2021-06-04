@@ -1,1 +1,1 @@
-var mnemonic = "drip evolve motion dinosaur shed draw auction drip river cross bunker scout";
+var mnemonic = "torch volume tag mystery approve crash vital mandate shaft peanut vibrant occur";

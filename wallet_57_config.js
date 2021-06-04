@@ -1,1 +1,1 @@
-var mnemonic = "response employ obscure hotel machine comfort payment cage mountain sport cupboard animal";
+var mnemonic = "sword front follow ripple senior wait until tube manual gentle dune reason";

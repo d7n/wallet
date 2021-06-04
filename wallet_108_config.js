@@ -1,1 +1,1 @@
-var mnemonic = "appear poet gospel sadness word gain flush trouble share into grief drift";
+var mnemonic = "giant inspire clerk advance predict burst unfold slim dress gown local tank";

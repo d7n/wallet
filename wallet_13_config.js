@@ -1,1 +1,1 @@
-var mnemonic = "provide wheel panel jar asthma oil shed cable drama car open symptom";
+var mnemonic = "rich ladder deliver prize fury pizza special unhappy zero song there dice";

@@ -1,1 +1,1 @@
-var mnemonic = "grief electric pudding flash patient jeans fame glow multiply expand dust mask";
+var mnemonic = "confirm minimum prepare when fly obvious snap ski decorate human oblige field";

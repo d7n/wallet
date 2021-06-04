@@ -1,1 +1,1 @@
-var mnemonic = "author air find avocado galaxy captain click chronic try light cloud goat";
+var mnemonic = "effort biology clown swallow survey brass taste put addict matrix subway inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy canvas busy evil impulse spare sweet sister cage custom success blood";
+var mnemonic = "capital short season advance winner excess bonus stool height benefit welcome material";

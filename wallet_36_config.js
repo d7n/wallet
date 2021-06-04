@@ -1,1 +1,1 @@
-var mnemonic = "barrel tortoise believe carpet route east giraffe engage disease zoo brave page";
+var mnemonic = "alter fat dynamic floor glad elephant donate saddle fat cattle siege market";

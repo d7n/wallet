@@ -1,1 +1,1 @@
-var mnemonic = "luxury open flame topple erase uncover frost report cupboard dignity awkward vapor";
+var mnemonic = "outdoor mansion fat energy connect few repeat dynamic climb home various glimpse";

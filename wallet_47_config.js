@@ -1,1 +1,1 @@
-var mnemonic = "merge fix guard marble sunny bullet stumble cricket guide social canal document";
+var mnemonic = "empty tag lens radar ozone move used addict grief sphere inhale negative";

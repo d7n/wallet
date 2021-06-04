@@ -1,1 +1,1 @@
-var mnemonic = "couch anchor boring actor install similar owner dress arena hood grocery bring";
+var mnemonic = "mountain saddle toe impulse clever shoulder illness ranch naive damp custom favorite";
