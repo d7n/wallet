@@ -1,1 +1,1 @@
-var mnemonic = "myself grass weapon april jungle leave high cancel census practice double script";
+var mnemonic = "notice injury twelve shrimp awful glove distance actor provide track keen lyrics";

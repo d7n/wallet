@@ -1,1 +1,1 @@
-var mnemonic = "afford iron manage nominee mandate decide bullet aim armor concert proof pepper";
+var mnemonic = "enjoy solution exhibit actress daring eagle decorate copy sunset pitch congress jazz";

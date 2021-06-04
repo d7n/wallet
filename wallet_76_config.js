@@ -1,1 +1,1 @@
-var mnemonic = "scout when trigger finish decorate front govern ethics confirm square enough sand";
+var mnemonic = "pool sister project wide document cash report wage another learn swap nominee";

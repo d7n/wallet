@@ -1,1 +1,1 @@
-var mnemonic = "swamp snow video tray matter sister friend report milk neglect noble pepper";
+var mnemonic = "toss ecology claim want asset never three path salon actress address monster";

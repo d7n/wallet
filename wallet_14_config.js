@@ -1,1 +1,1 @@
-var mnemonic = "expand siren quick can ring inject secret nose urban own achieve climb";
+var mnemonic = "sausage present enter alter tank loan pull convince square report upgrade admit";

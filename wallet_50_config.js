@@ -1,1 +1,1 @@
-var mnemonic = "stone shield volcano evil total novel jelly hat awake tooth latin elevator";
+var mnemonic = "vast response zoo enemy park present shaft actual either culture desk height";

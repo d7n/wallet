@@ -1,1 +1,1 @@
-var mnemonic = "angry dentist dish network cheese soft warfare trend belt autumn calm mansion";
+var mnemonic = "install window choose ripple captain find shoot enter erase final camp basket";

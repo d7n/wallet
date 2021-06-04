@@ -1,1 +1,1 @@
-var mnemonic = "match easily cry base need genuine run edge giant broken frost kitten";
+var mnemonic = "swing win cheese dizzy satoshi pet maid that easily attend endorse physical";

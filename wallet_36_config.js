@@ -1,1 +1,1 @@
-var mnemonic = "sport fly song stairs meat brown basket diamond define project boost sure";
+var mnemonic = "spoon where frame come husband cloth token patch rabbit heavy hobby where";

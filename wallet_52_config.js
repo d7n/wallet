@@ -1,1 +1,1 @@
-var mnemonic = "frog quote rate frost popular myth curtain device nothing ecology picnic bunker";
+var mnemonic = "food orient mother hunt awake enrich patch again embrace bronze trip domain";

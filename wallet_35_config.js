@@ -1,1 +1,1 @@
-var mnemonic = "stomach vanish flip decline allow erosion delay brush ramp effort certain file";
+var mnemonic = "nature pass tribe green autumn shallow cart forget river position become siren";

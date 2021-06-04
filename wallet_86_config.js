@@ -1,1 +1,1 @@
-var mnemonic = "onion angry calm emotion width glad knee occur claw tumble mammal asset";
+var mnemonic = "nephew media cat bless crunch coast eager thunder strong tower address feature";

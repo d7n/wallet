@@ -1,1 +1,1 @@
-var mnemonic = "fresh desert indoor false combine depend ramp post apple wood tell grant";
+var mnemonic = "cook lion bunker blind metal gauge brush million almost gallery ecology rival";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust ready thrive donor civil dumb half tip hawk torch evoke bird";
+var mnemonic = "eager moral silver airport pattern add nerve motor soccer region gain country";

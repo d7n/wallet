@@ -1,1 +1,1 @@
-var mnemonic = "truth problem unveil effort crew weasel breeze fork shrimp hamster poverty proud";
+var mnemonic = "useful strong neck danger vocal endless other voice awful soccer road kangaroo";

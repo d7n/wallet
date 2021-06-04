@@ -1,1 +1,1 @@
-var mnemonic = "fabric insect project yard guitar under problem venue spice can join bacon";
+var mnemonic = "garment oak despair snake decide upper skin soft labor that knife pass";

@@ -1,1 +1,1 @@
-var mnemonic = "length select tragic kid rail cheese slab walnut excess phone cook casual";
+var mnemonic = "school mansion remove law crunch divert language biology civil approve web fly";

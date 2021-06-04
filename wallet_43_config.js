@@ -1,1 +1,1 @@
-var mnemonic = "rely page wage recycle menu donor loan typical clinic remain hip shaft";
+var mnemonic = "stock fabric apology supply stand quote lottery prize clown train dice farm";

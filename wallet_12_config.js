@@ -1,1 +1,1 @@
-var mnemonic = "riot holiday doll grain warfare output shuffle assist matrix steak whale daring";
+var mnemonic = "blame usage material repeat sister betray opera segment simple walnut shaft trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy filter material job forget suspect solution spread tool coast attack citizen";
+var mnemonic = "blue invest style income dove disagree orient income swap dose head aisle";

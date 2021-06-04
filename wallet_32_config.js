@@ -1,1 +1,1 @@
-var mnemonic = "grab core carpet forget ensure dune flock salute prize burst top purchase";
+var mnemonic = "relief trash prevent tank deposit era head decrease appear keen float visual";

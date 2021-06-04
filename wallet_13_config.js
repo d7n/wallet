@@ -1,1 +1,1 @@
-var mnemonic = "reform final weather eternal consider wealth payment defy harvest beef high embrace";
+var mnemonic = "foam brand oak dice wolf hire debate curious kiwi public mosquito tired";

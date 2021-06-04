@@ -1,1 +1,1 @@
-var mnemonic = "course swamp swamp frozen change mind code badge popular danger hospital able";
+var mnemonic = "wrist pigeon liquid empty injury unfair card foster pink relax pen quote";

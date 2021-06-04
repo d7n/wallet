@@ -1,1 +1,1 @@
-var mnemonic = "mistake boy tent tuna easily impact quiz open draft imitate meat awful";
+var mnemonic = "tent wood gasp speak foot anxiety east visa exclude mobile hair three";

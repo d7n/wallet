@@ -1,1 +1,1 @@
-var mnemonic = "point symbol distance glove bar diet flash young devote rent theme symptom";
+var mnemonic = "loyal kingdom goat shiver verify pattern crash venture intact garment abuse knee";

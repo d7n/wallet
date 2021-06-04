@@ -1,1 +1,1 @@
-var mnemonic = "neither aspect divert axis wheel another slab wife more junior tissue swamp";
+var mnemonic = "noodle angry gorilla nasty double boss frequent hotel system pigeon sport survey";

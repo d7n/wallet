@@ -1,1 +1,1 @@
-var mnemonic = "pass innocent wink verb require excuse behave name comic rhythm drastic dwarf";
+var mnemonic = "art flag tonight convince palace bulk pipe ill onion drastic paddle divorce";

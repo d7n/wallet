@@ -1,1 +1,1 @@
-var mnemonic = "lesson slot decade space appear argue expand scale industry debate expire disease";
+var mnemonic = "snack brother course amused grain laugh else deny silent illegal wait around";

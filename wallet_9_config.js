@@ -1,1 +1,1 @@
-var mnemonic = "tank soldier bean inject solve green two height cry summer trick bunker";
+var mnemonic = "dumb there prosper try maximum fever hurt gather desert joy script robust";

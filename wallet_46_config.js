@@ -1,1 +1,1 @@
-var mnemonic = "machine crater glad debris uniform trade future pet account grape shift someone";
+var mnemonic = "ladder salon borrow ostrich awake exhaust write pig jazz vast hair fork";

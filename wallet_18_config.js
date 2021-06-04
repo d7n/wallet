@@ -1,1 +1,1 @@
-var mnemonic = "indoor fence search fortune turtle camp quantum hire palace always employ noble";
+var mnemonic = "beach december hawk exhaust awful sword worth coconut creek misery mobile pretty";

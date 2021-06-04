@@ -1,1 +1,1 @@
-var mnemonic = "fury brother dismiss train abuse echo swing ivory enable grunt garbage scare";
+var mnemonic = "rival bleak kiwi smile donate inhale earth arena cost palace winter purity";

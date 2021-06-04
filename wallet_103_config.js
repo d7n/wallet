@@ -1,1 +1,1 @@
-var mnemonic = "snap push cook cruel left steak busy thrive festival kiss alarm stool";
+var mnemonic = "danger deal leaf venture dinosaur loud pyramid noble lunch winner theme news";

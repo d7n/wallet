@@ -1,1 +1,1 @@
-var mnemonic = "trouble orbit solution capital plunge teach recipe exile raccoon task curious autumn";
+var mnemonic = "segment social syrup trash obey few comfort bacon odor case auction bracket";

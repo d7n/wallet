@@ -1,1 +1,1 @@
-var mnemonic = "night tumble fossil broom glare opinion maximum dinosaur defense zebra loan husband";
+var mnemonic = "friend kangaroo gadget scorpion proof property shoulder spring wrestle raise talk tag";

@@ -1,1 +1,1 @@
-var mnemonic = "wall float isolate wheat stay fury memory begin decide border merry business";
+var mnemonic = "girl clump celery health curtain bid coyote subject grant bacon fence peasant";

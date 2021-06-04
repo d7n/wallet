@@ -1,1 +1,1 @@
-var mnemonic = "beach heavy lady project spot odor legend wife grit banana awake aisle";
+var mnemonic = "gospel quick marriage nuclear message avocado unique clown wrestle yard noodle frequent";

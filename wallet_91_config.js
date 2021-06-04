@@ -1,1 +1,1 @@
-var mnemonic = "chunk ticket prevent wolf security trap senior whisper skate pause chimney drip";
+var mnemonic = "vibrant prison fetch economy dignity credit matter hungry arrive enlist bleak parrot";

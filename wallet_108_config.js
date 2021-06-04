@@ -1,1 +1,1 @@
-var mnemonic = "phrase device lunar place couple better grid water come rent eye neck";
+var mnemonic = "home fine omit vendor opinion naive credit curtain width usage census mushroom";

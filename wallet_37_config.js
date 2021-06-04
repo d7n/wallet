@@ -1,1 +1,1 @@
-var mnemonic = "advance orient hope exist endorse captain timber tuna wealth flower there flip";
+var mnemonic = "pear rural casino vast define window notable tornado october void aware fault";

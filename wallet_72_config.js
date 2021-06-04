@@ -1,1 +1,1 @@
-var mnemonic = "sing window shine cage leaf town journey odor nest hammer grass maid";
+var mnemonic = "used lemon power riot cream use grant army candy balance target protect";

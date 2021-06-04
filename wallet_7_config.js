@@ -1,1 +1,1 @@
-var mnemonic = "creek exit uncover ridge pumpkin breeze crash width dream around sell renew";
+var mnemonic = "entry evoke airport blind torch defense bus soup clock lucky east element";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange artefact gallery flush media spend deer visit scare essence actress cluster";
+var mnemonic = "sauce input proof possible sick envelope avoid repeat sample finish pear entry";

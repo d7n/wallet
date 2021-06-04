@@ -1,1 +1,1 @@
-var mnemonic = "thrive once pear ritual lift royal already normal hazard legal anger bracket";
+var mnemonic = "inform sting ceiling fan rigid wrap clarify bridge mouse exhaust mobile frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "casual monkey slim zebra time left gather toilet actual slight fortune twist";
+var mnemonic = "habit receive emerge reopen empty cream aware unaware day forward fog rifle";

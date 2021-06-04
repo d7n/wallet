@@ -1,1 +1,1 @@
-var mnemonic = "cross evil hat coin echo genuine glass muscle detect jealous brisk monkey";
+var mnemonic = "knee vast indicate will chase two afraid flight nothing round drive victory";

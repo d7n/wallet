@@ -1,1 +1,1 @@
-var mnemonic = "print wolf fence absurd shock attack goose seed creek more false digital";
+var mnemonic = "solve giant bright artist pool enrich october camera broom hint bridge metal";

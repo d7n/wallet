@@ -1,1 +1,1 @@
-var mnemonic = "shadow bench file parent save great sell ridge pottery extend select evidence";
+var mnemonic = "glad refuse uniform reward diesel tooth giggle slow cost enable stage walk";

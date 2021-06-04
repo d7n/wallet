@@ -1,1 +1,1 @@
-var mnemonic = "come update kid utility still acquire stomach tray crystal steak mandate case";
+var mnemonic = "grit income radio fault strategy potato rack parent display lawn rural possible";

@@ -1,1 +1,1 @@
-var mnemonic = "track eternal sport intact remove nasty approve cover enough valid earth vital";
+var mnemonic = "prepare switch latin wire morning hard delay hawk office child two spawn";

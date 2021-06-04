@@ -1,1 +1,1 @@
-var mnemonic = "viable call velvet demise harvest sight device rice example sample surge robust";
+var mnemonic = "solid fault steak vessel amazing custom pelican venture protect glove ring betray";

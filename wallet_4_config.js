@@ -1,1 +1,1 @@
-var mnemonic = "keep cradle true general citizen journey same raw million emerge hard grocery";
+var mnemonic = "borrow task move error coconut episode merit wash force vacuum perfect orchard";

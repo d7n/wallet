@@ -1,1 +1,1 @@
-var mnemonic = "unique pear photo emotion current creek odor shock kiss unfold must agent";
+var mnemonic = "tackle shrimp clerk october lock must spray true trouble myth place alien";

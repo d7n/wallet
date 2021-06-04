@@ -1,1 +1,1 @@
-var mnemonic = "exercise later near list wool emotion unable upper ramp wing recycle caught";
+var mnemonic = "goat convince breeze ski dumb indoor motion fresh year absurd clinic daring";

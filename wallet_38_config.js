@@ -1,1 +1,1 @@
-var mnemonic = "grit fox sock observe park antenna raven brain trash chronic park draft";
+var mnemonic = "question seminar cash derive garbage door wedding symbol this two hat knee";

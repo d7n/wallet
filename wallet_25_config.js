@@ -1,1 +1,1 @@
-var mnemonic = "brisk shock easily like used drive tent slender affair boss portion mule";
+var mnemonic = "payment inside produce cart accident cream village dice kingdom asthma clap strategy";

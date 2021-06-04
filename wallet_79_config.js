@@ -1,1 +1,1 @@
-var mnemonic = "tiny skull govern upon skirt waste host jaguar sorry region trophy kid";
+var mnemonic = "glad toward execute foot repair swap roast cat aunt skull upon deputy";

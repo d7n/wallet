@@ -1,1 +1,1 @@
-var mnemonic = "impact alert inform pizza aim way misery exclude absorb tennis bean twenty";
+var mnemonic = "foam dolphin stand vendor peanut credit keen palm illegal bone depart cloth";

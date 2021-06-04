@@ -1,1 +1,1 @@
-var mnemonic = "strong rule nurse scan black symptom island begin throw tape elegant discover";
+var mnemonic = "dwarf pave two accuse drama area genuine never enhance hand either scrub";

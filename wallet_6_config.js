@@ -1,1 +1,1 @@
-var mnemonic = "hope strong industry slim desert behave flag sphere region phone release aspect";
+var mnemonic = "gallery palm middle melt replace transfer cost clutch food firm fault tenant";

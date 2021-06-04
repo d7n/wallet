@@ -1,1 +1,1 @@
-var mnemonic = "gas melody chief ghost game dial similar scare clinic tuition round narrow";
+var mnemonic = "equal humble sauce father fire story certain bomb maple kind vacuum bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "shock clog tell excuse lecture moral firm actress spare bargain hazard height";
+var mnemonic = "eternal screen toe egg blade trust famous divide cheese fox connect castle";

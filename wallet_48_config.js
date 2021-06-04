@@ -1,1 +1,1 @@
-var mnemonic = "exercise pilot horror glance will cube uphold advance mad culture custom skirt";
+var mnemonic = "belt hybrid police payment sorry boring divorce siren before nature another post";

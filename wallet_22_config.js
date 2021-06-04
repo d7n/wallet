@@ -1,1 +1,1 @@
-var mnemonic = "polar appear grape kitten notice rare cricket speed popular weather fly rough";
+var mnemonic = "avoid runway hamster veteran sing behave bomb cradle vintage duck exclude response";

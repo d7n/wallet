@@ -1,1 +1,1 @@
-var mnemonic = "cart grace day please cheap audit invest result only glow search pool";
+var mnemonic = "stool equip rain riot sustain royal sentence machine coil wrestle stomach defy";

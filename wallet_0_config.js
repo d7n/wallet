@@ -1,1 +1,1 @@
-var mnemonic = "essence excess proof nature access supply regret armor diamond order dirt sting";
+var mnemonic = "transfer toward surge spot lens palace come provide witness utility oyster market";

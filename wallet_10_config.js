@@ -1,1 +1,1 @@
-var mnemonic = "alpha bundle problem culture chalk switch shadow include pole hip trust flat";
+var mnemonic = "payment bid fix fold entire used long rescue battle suit garden leg";

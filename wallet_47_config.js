@@ -1,1 +1,1 @@
-var mnemonic = "pigeon unfold avoid cotton leopard notable absent initial only slot begin able";
+var mnemonic = "canoe method later robot unveil broccoli inhale deny runway diamond focus eyebrow";

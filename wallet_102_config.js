@@ -1,1 +1,1 @@
-var mnemonic = "puppy curtain culture leopard silk day truth follow hunt outside raven give";
+var mnemonic = "lesson aerobic satoshi huge thunder need legal sure bundle actor mushroom tone";

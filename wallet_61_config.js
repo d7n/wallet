@@ -1,1 +1,1 @@
-var mnemonic = "flash receive roast scissors city vanish elevator awake curtain opinion eager palm";
+var mnemonic = "install argue filter captain pass stove gorilla tourist sorry tilt train same";

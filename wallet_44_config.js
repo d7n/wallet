@@ -1,1 +1,1 @@
-var mnemonic = "wish doctor bachelor emotion slam canoe job tuition vault head alpha wise";
+var mnemonic = "slogan creek useful bind mother must notable range kiwi junior spoon luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "staff dash dad energy impact window merry purchase achieve blush normal arm";
+var mnemonic = "torch clump color loud delay fancy truck file exit elegant elbow message";

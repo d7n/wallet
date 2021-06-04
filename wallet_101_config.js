@@ -1,1 +1,1 @@
-var mnemonic = "gallery one alone recipe click expire chalk book ceiling tank address soft";
+var mnemonic = "scatter upset project fat midnight swim obscure false pact solid sting kit";

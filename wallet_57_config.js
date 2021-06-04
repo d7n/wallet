@@ -1,1 +1,1 @@
-var mnemonic = "achieve wage eternal duck size shine then identify reveal account dentist smoke";
+var mnemonic = "menu become travel town bitter lion play over limb cherry between margin";

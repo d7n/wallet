@@ -1,1 +1,1 @@
-var mnemonic = "comic apart scan flash biology fatal bacon rely panel few evoke merge";
+var mnemonic = "rotate gospel attend memory three roast below sister save lamp arrest decade";

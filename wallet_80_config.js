@@ -1,1 +1,1 @@
-var mnemonic = "surge fashion traffic blur rigid tiger tilt glare blame gold charge draw";
+var mnemonic = "cheese fold album huge depart van exchange day laugh mother few lemon";

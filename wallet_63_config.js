@@ -1,1 +1,1 @@
-var mnemonic = "pizza enough control work oil elevator volume funny slim sausage enemy clock";
+var mnemonic = "decline machine come destroy frog relief mass trash sight phone else badge";

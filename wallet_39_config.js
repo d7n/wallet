@@ -1,1 +1,1 @@
-var mnemonic = "major october put damage sword tape tired velvet disagree avoid jeans roof";
+var mnemonic = "summer eyebrow layer media acoustic erase medal magnet print setup ugly crane";

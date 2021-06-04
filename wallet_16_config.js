@@ -1,1 +1,1 @@
-var mnemonic = "glad plate off trap luxury rather cover stumble warm better index permit";
+var mnemonic = "gas size quit lecture bridge glue gallery wing rapid chase exile loan";

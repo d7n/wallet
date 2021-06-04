@@ -1,1 +1,1 @@
-var mnemonic = "hair random cloud lawn lonely ceiling walnut dynamic chicken bag menu grape";
+var mnemonic = "doll aim notable hello invite mail fame emerge verb narrow chat describe";

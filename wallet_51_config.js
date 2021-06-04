@@ -1,1 +1,1 @@
-var mnemonic = "medal festival pelican camera wet subject script switch trick valid admit fiction";
+var mnemonic = "leaf eagle couch student walk ride better sure return whip october entire";

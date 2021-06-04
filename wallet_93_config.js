@@ -1,1 +1,1 @@
-var mnemonic = "funny rude mango relief mean during choice offer robot setup panda thank";
+var mnemonic = "escape bronze earn slight neglect shoot damp fancy grocery order caught vacuum";

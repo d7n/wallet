@@ -1,1 +1,1 @@
-var mnemonic = "gather announce giggle symbol insect outside gravity zoo same priority gesture brisk";
+var mnemonic = "scheme bird blossom language supreme tackle nose note useless stay poet science";

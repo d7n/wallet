@@ -1,1 +1,1 @@
-var mnemonic = "balcony advance useless shy write scatter group miracle unusual tilt staff trophy";
+var mnemonic = "add drum pride elite now axis have apple rapid exercise powder bottom";

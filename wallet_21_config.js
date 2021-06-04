@@ -1,1 +1,1 @@
-var mnemonic = "recall mix heart large other filter distance client notable cactus hunt frost";
+var mnemonic = "chuckle milk vendor tape local valve parent bachelor jeans sword draw differ";

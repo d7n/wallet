@@ -1,1 +1,1 @@
-var mnemonic = "brown hedgehog casual board aisle fork ski puzzle limit struggle behave spatial";
+var mnemonic = "under place surprise say stereo reform swamp try coyote enhance verb lobster";

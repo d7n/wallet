@@ -1,1 +1,1 @@
-var mnemonic = "style drama glue trick judge control coral cup please mass ignore cable";
+var mnemonic = "quarter brave cat pride width cloud property rebuild stomach blue fancy carry";

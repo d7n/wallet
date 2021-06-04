@@ -1,1 +1,1 @@
-var mnemonic = "attract bargain brief gloom pulp firm patient tattoo doll sell idea income";
+var mnemonic = "tail type usual always lottery second ski eternal hen loan wasp reform";

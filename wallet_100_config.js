@@ -1,1 +1,1 @@
-var mnemonic = "funny salmon inside finger clump veteran enrich garden cheap style year margin";
+var mnemonic = "muscle link eagle either gallery reform spider pencil response glad industry remember";

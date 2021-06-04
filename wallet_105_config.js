@@ -1,1 +1,1 @@
-var mnemonic = "combine trash crater stock anger drum rule legal vapor hope vendor come";
+var mnemonic = "oxygen ritual arctic behave violin rare afford mixed cloud cotton girl pull";
