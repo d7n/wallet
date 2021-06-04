@@ -1,1 +1,1 @@
-var mnemonic = "degree atom afford prison concert nest high when banana snow castle suspect";
+var mnemonic = "accident rose bullet throw caught degree neutral upper pelican change logic pluck";

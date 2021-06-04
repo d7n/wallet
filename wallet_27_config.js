@@ -1,1 +1,1 @@
-var mnemonic = "squeeze correct habit access trigger two retire draft bronze ordinary acoustic valve";
+var mnemonic = "tree treat hotel ignore mobile company thrive hospital agent wreck next raven";

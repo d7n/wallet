@@ -1,1 +1,1 @@
-var mnemonic = "ball debate supreme tissue two okay body multiply hub planet increase foster";
+var mnemonic = "reveal just spy praise angle theme window harvest cage improve horse illegal";

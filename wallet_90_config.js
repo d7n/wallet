@@ -1,1 +1,1 @@
-var mnemonic = "wing index practice lyrics deer hawk corn front dream card leaf news";
+var mnemonic = "robust denial hazard rib garden old estate father delay radar dice axis";

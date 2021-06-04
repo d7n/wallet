@@ -1,1 +1,1 @@
-var mnemonic = "spare piece crystal boss fee wash differ time dwarf utility boy spike";
+var mnemonic = "joy exact abandon thunder top tomorrow warfare people canvas chief aunt strong";

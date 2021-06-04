@@ -1,1 +1,1 @@
-var mnemonic = "grab hockey sing police pen they scale boost short exit purse pipe";
+var mnemonic = "model evidence obscure region fossil transfer solid coach dutch trip excite win";

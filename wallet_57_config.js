@@ -1,1 +1,1 @@
-var mnemonic = "fruit weather camera rifle hole fresh basket remove wire future boost runway";
+var mnemonic = "garbage when curtain visa hawk seed mother main tape build mean best";

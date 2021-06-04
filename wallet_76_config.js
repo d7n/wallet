@@ -1,1 +1,1 @@
-var mnemonic = "gravity celery what meat execute boost barely prize purchase gauge deliver finger";
+var mnemonic = "middle staff foam arrest plate runway increase balcony forest toe oak exhaust";

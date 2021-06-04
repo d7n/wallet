@@ -1,1 +1,1 @@
-var mnemonic = "gun figure about upon turn shoot belt glimpse ankle walnut forest mobile";
+var mnemonic = "used spread pulp elite happy ketchup piece auto rent enroll upon alert";

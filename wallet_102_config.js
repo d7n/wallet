@@ -1,1 +1,1 @@
-var mnemonic = "heart emerge list enact depart tiny bounce kind own under milk taste";
+var mnemonic = "flower mask damp large push misery box visual medal night giggle robust";

@@ -1,1 +1,1 @@
-var mnemonic = "hand figure cup option security throw clerk horror riot dose cliff category";
+var mnemonic = "tape now aunt impact mercy lemon spell similar pear hurry charge number";

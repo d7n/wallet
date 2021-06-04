@@ -1,1 +1,1 @@
-var mnemonic = "recipe unit shadow inflict trend vast lawn essence kick corn chat intact";
+var mnemonic = "vehicle gaze casual push waste torch strategy brief echo hold clock choice";

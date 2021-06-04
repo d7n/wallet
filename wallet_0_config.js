@@ -1,1 +1,1 @@
-var mnemonic = "day fluid nut harbor range arrest review long waste bleak tide churn";
+var mnemonic = "entire enough version bottom clean scan clay satoshi habit public industry liberty";

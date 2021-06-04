@@ -1,1 +1,1 @@
-var mnemonic = "north trial grit table daring peasant confirm skill maid demand poem crash";
+var mnemonic = "response exhibit control lake honey diamond beauty bulk razor infant artefact sure";

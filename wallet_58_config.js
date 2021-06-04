@@ -1,1 +1,1 @@
-var mnemonic = "bottom ship stable base weather oxygen gloom across eternal then soldier shift";
+var mnemonic = "silk reject cactus razor top increase camera cotton object delay time helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "hero thumb tobacco chair armed witness flush organ quarter zoo dust angle";
+var mnemonic = "blame pledge mule hidden column kite double kiwi vault dutch pistol draft";

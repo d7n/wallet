@@ -1,1 +1,1 @@
-var mnemonic = "divorce used wealth hurry prosper culture young country impact mechanic awkward gap";
+var mnemonic = "dose disease vessel will enjoy master siege initial plunge picnic anchor buyer";

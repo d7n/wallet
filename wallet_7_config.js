@@ -1,1 +1,1 @@
-var mnemonic = "burger crazy pyramid order jump diamond pioneer script giant legal travel village";
+var mnemonic = "ability polar indoor over search toward picture oyster jar strike gauge gym";

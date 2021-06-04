@@ -1,1 +1,1 @@
-var mnemonic = "nose segment chair clog add aim dizzy method tuna slogan cabin bubble";
+var mnemonic = "grow problem lady jaguar hockey vehicle ignore swap dentist custom interest stamp";

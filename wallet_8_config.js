@@ -1,1 +1,1 @@
-var mnemonic = "maximum soap amount canyon bag amateur cover picture oak deal globe nuclear";
+var mnemonic = "kiwi all almost jar wine stand arrange stool model must later burden";

@@ -1,1 +1,1 @@
-var mnemonic = "flame salad twin cement insane make junk plug dinner apart certain ribbon";
+var mnemonic = "double defense ocean essay age either that three slice across peanut process";

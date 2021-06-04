@@ -1,1 +1,1 @@
-var mnemonic = "canoe stone area garlic sphere hawk company subway abstract task confirm flavor";
+var mnemonic = "napkin delay frost spirit suffer please chase giggle wonder game sock smile";

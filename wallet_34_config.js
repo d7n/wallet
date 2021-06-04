@@ -1,1 +1,1 @@
-var mnemonic = "emerge airport solar prison diary swing step idea penalty behave short life";
+var mnemonic = "age jaguar round assist lawn outside broccoli fog pudding raise glove bargain";

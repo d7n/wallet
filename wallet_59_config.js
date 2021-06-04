@@ -1,1 +1,1 @@
-var mnemonic = "duck pond will mad stove snow concert term tape earth bean such";
+var mnemonic = "select couple neutral mixed snake industry river artwork ensure oblige only fan";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket enjoy never tenant empower quantum kidney find leisure page mass pool";
+var mnemonic = "pool motion waste rug laugh clay detail glare neck palace make vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "sample same spray portion bunker ostrich notable reveal bag clog laundry tortoise";
+var mnemonic = "chief picnic book master announce rail maid process confirm uncover rather infant";

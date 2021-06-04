@@ -1,1 +1,1 @@
-var mnemonic = "shell cover jewel model shop text sugar promote monster silent property someone";
+var mnemonic = "cherry force melody chimney attract bench gold exhaust party olive high behind";

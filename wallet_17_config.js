@@ -1,1 +1,1 @@
-var mnemonic = "hat rice economy either badge garage puppy alarm action rule pioneer virus";
+var mnemonic = "small venture camera garlic swap blind pudding equip taste hazard evolve profit";

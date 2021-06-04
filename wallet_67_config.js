@@ -1,1 +1,1 @@
-var mnemonic = "lemon album spider orchard motor come identify record breeze party dinner motor";
+var mnemonic = "public hurry entry omit bright border code adapt change useless tonight chest";

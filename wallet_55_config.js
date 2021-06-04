@@ -1,1 +1,1 @@
-var mnemonic = "tooth between spirit donkey exile state now truly say science fence range";
+var mnemonic = "omit grow helmet choose any spell company humor spike basket sing debris";

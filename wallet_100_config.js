@@ -1,1 +1,1 @@
-var mnemonic = "rate blossom throw into health fame solid cram chef detect letter carbon";
+var mnemonic = "kitten husband gift reduce chalk detect floor limb soul trade bunker other";

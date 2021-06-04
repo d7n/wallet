@@ -1,1 +1,1 @@
-var mnemonic = "laundry surprise pond announce phone valve muscle empower hero upset tooth air";
+var mnemonic = "immense panic text staff hero manage exist infant theme example entry stem";

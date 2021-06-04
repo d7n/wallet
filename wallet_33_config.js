@@ -1,1 +1,1 @@
-var mnemonic = "live physical inform maid fatigue region stumble jacket idle embark short crack";
+var mnemonic = "donate tennis kiwi trash nuclear old kit market flock danger nation lawsuit";

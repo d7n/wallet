@@ -1,1 +1,1 @@
-var mnemonic = "entire federal funny panel drift play glide six final voyage already panel";
+var mnemonic = "egg mushroom emerge truly bonus april jewel lizard absurd depth quantum senior";

@@ -1,1 +1,1 @@
-var mnemonic = "remain mistake smoke sock arctic canvas soldier various wrap width crack census";
+var mnemonic = "indicate orange birth orient know reject corn upper supply again hip country";

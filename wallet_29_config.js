@@ -1,1 +1,1 @@
-var mnemonic = "country erosion umbrella enjoy exclude armor civil dinner surge muffin hero identify";
+var mnemonic = "midnight auto valley fringe morning license tumble learn issue glimpse novel easily";

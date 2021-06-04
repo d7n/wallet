@@ -1,1 +1,1 @@
-var mnemonic = "custom bike mistake culture nasty school grief abuse silver aerobic busy peanut";
+var mnemonic = "lunar write lion select hollow spike execute shell morning pill tone list";

@@ -1,1 +1,1 @@
-var mnemonic = "razor guitar hurt pig portion edge flash aisle okay great poem manage";
+var mnemonic = "lucky ten van devote mix mesh media spatial adjust foil venue slim";

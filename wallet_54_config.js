@@ -1,1 +1,1 @@
-var mnemonic = "other festival anxiety jacket quote snake cancel slam volcano afraid flip pact";
+var mnemonic = "rapid seat acquire speed donkey tongue tube garlic avoid prefer meat wood";

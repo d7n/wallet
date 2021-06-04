@@ -1,1 +1,1 @@
-var mnemonic = "velvet cook cheap tooth toss remind tragic midnight vital slam velvet muscle";
+var mnemonic = "wife supply quote mail arm session rail nephew federal utility welcome runway";

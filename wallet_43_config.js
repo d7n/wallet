@@ -1,1 +1,1 @@
-var mnemonic = "anchor excuse behind grid trim tomato squeeze neutral echo quit bunker absorb";
+var mnemonic = "since panel fatigue fish ship onion make entry disorder fun buddy boost";

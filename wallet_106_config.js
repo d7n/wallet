@@ -1,1 +1,1 @@
-var mnemonic = "figure close file current ensure desert enlist menu enough december east local";
+var mnemonic = "lift toilet rack delay notable praise escape base wear bomb cause found";

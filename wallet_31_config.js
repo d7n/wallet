@@ -1,1 +1,1 @@
-var mnemonic = "potato velvet animal brown proud slender birth token angry tooth choice note";
+var mnemonic = "undo sponsor lesson pole income screen bullet trip anchor toward edge advance";

@@ -1,1 +1,1 @@
-var mnemonic = "theory panel prison field shoot crop race record hope ghost problem reflect";
+var mnemonic = "dutch major soldier devote usage finger curtain sustain castle assist chef stumble";

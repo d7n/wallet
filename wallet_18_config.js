@@ -1,1 +1,1 @@
-var mnemonic = "shuffle thumb farm network future swear autumn transfer toddler hungry keep eagle";
+var mnemonic = "matter modify require zoo drink nothing essay bacon genuine stamp wife meat";

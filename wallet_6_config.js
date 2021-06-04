@@ -1,1 +1,1 @@
-var mnemonic = "basic list dice order coconut welcome involve finish display fancy pill team";
+var mnemonic = "dinner evolve valid drive sleep regret adjust alert enable wage since inch";

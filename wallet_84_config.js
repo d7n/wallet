@@ -1,1 +1,1 @@
-var mnemonic = "holiday other game index tonight ill mother bind endless rich achieve modify";
+var mnemonic = "snake bonus stage settle guide reform hat fruit coil table off wrong";

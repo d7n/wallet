@@ -1,1 +1,1 @@
-var mnemonic = "run material accuse garment goddess derive spray ecology grass agree zero exit";
+var mnemonic = "board domain olympic unlock envelope energy family praise horror spray choose festival";

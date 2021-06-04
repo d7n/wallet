@@ -1,1 +1,1 @@
-var mnemonic = "six foam toast lawsuit attract obvious cabin nominee maze lyrics average cover";
+var mnemonic = "news slot toy trip movie weather alter bitter negative aisle frozen piece";

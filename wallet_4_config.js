@@ -1,1 +1,1 @@
-var mnemonic = "base morning relief absorb pizza wasp coin orchard december position combine ketchup";
+var mnemonic = "napkin circle glare forest high link ramp rule retire urban about main";

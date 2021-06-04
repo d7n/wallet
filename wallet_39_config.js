@@ -1,1 +1,1 @@
-var mnemonic = "where siren kick mandate enjoy ride weather cupboard decide fantasy galaxy deny";
+var mnemonic = "mean jewel sweet arena pony during trash cradle merit design author pluck";

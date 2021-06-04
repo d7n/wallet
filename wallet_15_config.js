@@ -1,1 +1,1 @@
-var mnemonic = "stool virus picture deer spare art impact attend spatial void spatial bind";
+var mnemonic = "bind law hat turn tuna polar crane glimpse example naive garbage rack";

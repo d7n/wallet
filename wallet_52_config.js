@@ -1,1 +1,1 @@
-var mnemonic = "desk mechanic recipe matter ketchup few jaguar peanut bike ginger interest hammer";
+var mnemonic = "opinion general kiwi auction jacket gold usual funny connect wealth speak news";

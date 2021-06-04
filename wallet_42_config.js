@@ -1,1 +1,1 @@
-var mnemonic = "floor nuclear peanut void fan rough fuel shock face vintage punch bonus";
+var mnemonic = "team across cupboard pulse search alone update explain roast reveal enough scene";

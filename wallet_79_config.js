@@ -1,1 +1,1 @@
-var mnemonic = "prefer oyster require attract mean decide deposit report disorder try flee crime";
+var mnemonic = "creek lawn mixed cement wreck organ crater smile head taxi sell prepare";

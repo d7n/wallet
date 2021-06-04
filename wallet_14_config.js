@@ -1,1 +1,1 @@
-var mnemonic = "absurd also stable wine point stool switch exercise fit digital shoe address";
+var mnemonic = "exile inmate churn frost soldier emerge easily slim ring armor permit smart";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma antenna upset bounce thumb more dad knee mammal piano impact gauge";
+var mnemonic = "display coast diagram reopen arm jewel pill pitch load garbage awful pulse";

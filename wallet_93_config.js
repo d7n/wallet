@@ -1,1 +1,1 @@
-var mnemonic = "range paddle cage best resist glad stage orbit other stage hundred salad";
+var mnemonic = "head juice chief brisk brave knee silly display violin novel cloud proud";

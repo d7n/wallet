@@ -1,1 +1,1 @@
-var mnemonic = "check mistake food garden certain barrel apple dizzy resist label copy ability";
+var mnemonic = "mail casual remain purity victory voice arrest multiply various thank key about";

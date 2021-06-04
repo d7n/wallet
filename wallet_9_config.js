@@ -1,1 +1,1 @@
-var mnemonic = "bridge proud kangaroo rebel shell turtle bid use unit issue alone confirm";
+var mnemonic = "cushion angry picture season reflect extra sunny chunk velvet close media shallow";

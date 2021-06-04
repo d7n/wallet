@@ -1,1 +1,1 @@
-var mnemonic = "autumn tag spend trigger just battle enter already scrap staff fitness original";
+var mnemonic = "helmet push trigger special borrow useless mushroom type inspire tunnel lion sniff";

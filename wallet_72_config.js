@@ -1,1 +1,1 @@
-var mnemonic = "panic angry nephew case beach measure govern course second accuse minute blame";
+var mnemonic = "base word toilet cake good gain knock enough clock inner lounge pony";

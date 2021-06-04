@@ -1,1 +1,1 @@
-var mnemonic = "artefact piano voice exclude misery aware amount double hungry flag run suit";
+var mnemonic = "travel nation return video joy jewel shine turtle jaguar motion bitter mouse";

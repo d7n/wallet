@@ -1,1 +1,1 @@
-var mnemonic = "finish head razor dinosaur gesture immune comic private project stove frost among";
+var mnemonic = "replace lion duty pattern consider guitar gadget wool aunt dust series fish";

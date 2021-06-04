@@ -1,1 +1,1 @@
-var mnemonic = "car enhance sorry isolate kangaroo notice trumpet vital resist learn transfer minor";
+var mnemonic = "better exit attend sketch okay chuckle goddess agent before close rent lonely";

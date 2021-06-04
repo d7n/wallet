@@ -1,1 +1,1 @@
-var mnemonic = "point vote trade broccoli other congress dwarf cute raccoon between space poem";
+var mnemonic = "rotate project hole stock midnight crystal else loop fun ocean make sound";

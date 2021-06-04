@@ -1,1 +1,1 @@
-var mnemonic = "silk audit interest fade detail nation young unfold bird library best glue";
+var mnemonic = "top favorite survey cheap soldier response party size seven risk lyrics square";

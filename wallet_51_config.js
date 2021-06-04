@@ -1,1 +1,1 @@
-var mnemonic = "picture better someone churn window split thing region inquiry hurdle tattoo fat";
+var mnemonic = "goose provide soccer way lounge humor lift vacant festival document father lion";

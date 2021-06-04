@@ -1,1 +1,1 @@
-var mnemonic = "buzz essay vacuum brush glory frown humble repeat agree produce repair enroll";
+var mnemonic = "tooth strike quit acid lawn foster elevator earth deal ball bless forest";

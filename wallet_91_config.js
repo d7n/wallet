@@ -1,1 +1,1 @@
-var mnemonic = "episode nut submit ugly theory dog local real layer hungry become initial";
+var mnemonic = "nation chair young shy tobacco tonight person twice dog orphan rival dignity";

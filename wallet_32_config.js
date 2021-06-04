@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fame pottery virus can ramp recall palace palace lemon clever when";
+var mnemonic = "crane detail feature alpha guitar under model ankle cradle street theme track";

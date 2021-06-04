@@ -1,1 +1,1 @@
-var mnemonic = "twist very smooth royal orchard relief crisp frog muffin siren brand anchor";
+var mnemonic = "health vessel whip chief fuel genuine amazing multiply fat ocean palm elbow";

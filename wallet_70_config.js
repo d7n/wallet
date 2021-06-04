@@ -1,1 +1,1 @@
-var mnemonic = "despair charge marine remove friend guilt champion profit fitness shuffle snap clutch";
+var mnemonic = "bamboo walnut stool discover matter broom slide torch hold fatigue club portion";

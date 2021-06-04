@@ -1,1 +1,1 @@
-var mnemonic = "beyond recipe snow level beach hungry idea outside knock steel wasp path";
+var mnemonic = "brand judge object august keep wedding subject trial sadness drill left drop";

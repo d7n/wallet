@@ -1,1 +1,1 @@
-var mnemonic = "tenant crime inhale latin heavy trash note express erupt merge neglect diary";
+var mnemonic = "sugar find estate pact grab enforce drastic fresh ordinary pupil orange chunk";

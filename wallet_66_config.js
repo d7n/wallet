@@ -1,1 +1,1 @@
-var mnemonic = "elephant dinner denial code basic damage wire dish awkward hobby foil can";
+var mnemonic = "giant weapon recipe category order toy unhappy chief spell pink supreme offer";

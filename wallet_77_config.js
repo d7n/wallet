@@ -1,1 +1,1 @@
-var mnemonic = "way health answer always vague genius master helmet tent excess sight recipe";
+var mnemonic = "figure ripple cycle believe jacket rally siege excuse motor exile reward elite";

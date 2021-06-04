@@ -1,1 +1,1 @@
-var mnemonic = "city casino cage thank beef cliff transfer usage trip noble impact slush";
+var mnemonic = "tunnel already path galaxy ship code urge anger century winner dynamic vast";

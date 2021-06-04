@@ -1,1 +1,1 @@
-var mnemonic = "inherit good join fatal reveal bulk burger urge unable frequent bean stuff";
+var mnemonic = "spread bulb fly slam casual exile ivory super cement solve size sibling";

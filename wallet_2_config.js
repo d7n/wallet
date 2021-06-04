@@ -1,1 +1,1 @@
-var mnemonic = "soldier cabbage human sadness during next soda exile agent erode library exhaust";
+var mnemonic = "suit athlete wall gaze garage muscle love wasp eight lab labor oyster";

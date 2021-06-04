@@ -1,1 +1,1 @@
-var mnemonic = "theory earn sense inner slice head alarm girl resource paper balance evidence";
+var mnemonic = "survey eyebrow picture express agent energy exclude fortune coyote rate inhale stool";

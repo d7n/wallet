@@ -1,1 +1,1 @@
-var mnemonic = "pepper member angry arctic fantasy public float pipe female connect arch orange";
+var mnemonic = "few minute palace maze ivory route find child clog dutch okay practice";

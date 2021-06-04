@@ -1,1 +1,1 @@
-var mnemonic = "auto try reduce mouse round donkey wise february animal brass tuition wear";
+var mnemonic = "fire evoke convince prepare duck auction school load tongue frequent neglect shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "fame erode wet machine nature general tired alone hockey session episode firm";
+var mnemonic = "child have already cliff leisure ahead reform option into juice gesture appear";

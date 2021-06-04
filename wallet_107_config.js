@@ -1,1 +1,1 @@
-var mnemonic = "palace check evil express topple junior mammal seven small pulp edit sunset";
+var mnemonic = "expose flush discover auction dilemma language future pass grab tape laptop switch";

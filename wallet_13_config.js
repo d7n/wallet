@@ -1,1 +1,1 @@
-var mnemonic = "dentist super fiscal rack woman inhale chase electric unveil regret game divorce";
+var mnemonic = "above dismiss unfair derive road melt glory shop mansion poet over room";

@@ -1,1 +1,1 @@
-var mnemonic = "top put swap slide power know pact avocado boring income cement response";
+var mnemonic = "number vanish drift often mansion water dose spirit magnet lift carbon inmate";
