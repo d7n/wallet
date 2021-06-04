@@ -1,1 +1,1 @@
-var mnemonic = "subway dwarf used chronic celery talk two calm fiscal hurdle basic crane";
+var mnemonic = "toe buddy farm screen cushion drip use mixture frozen shock payment thumb";

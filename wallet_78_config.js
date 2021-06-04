@@ -1,1 +1,1 @@
-var mnemonic = "deputy mandate pattern spray note latin grunt truth cable memory sand climb";
+var mnemonic = "kit kiwi tide almost adult pulse crane sea grab know air veteran";

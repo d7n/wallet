@@ -1,1 +1,1 @@
-var mnemonic = "exist rack spider book observe rigid never nest pencil lock gorilla ritual";
+var mnemonic = "walnut cinnamon bone entire corn wall dismiss risk machine use cactus iron";

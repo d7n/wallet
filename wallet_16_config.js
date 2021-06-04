@@ -1,1 +1,1 @@
-var mnemonic = "life woman trust bulk say wisdom price twin dust process staff verify";
+var mnemonic = "happy dizzy ostrich general glare open prepare stem season you trust vague";

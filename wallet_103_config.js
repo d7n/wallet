@@ -1,1 +1,1 @@
-var mnemonic = "valley junior limit blouse gold twenty pyramid luxury flavor cake hockey wise";
+var mnemonic = "prevent broccoli decade forward acoustic absent palace surface mean wink bean abuse";

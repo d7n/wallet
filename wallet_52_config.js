@@ -1,1 +1,1 @@
-var mnemonic = "spy lottery sun else spare puzzle aware narrow habit document nation cloud";
+var mnemonic = "debris tomorrow hockey kick combine illness mistake habit verb twin vessel dice";

@@ -1,1 +1,1 @@
-var mnemonic = "man tunnel token vicious chest lyrics legend cram mammal latin trip rely";
+var mnemonic = "canal tragic axis switch fuel oblige round hour task analyst child entire";

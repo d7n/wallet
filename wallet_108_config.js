@@ -1,1 +1,1 @@
-var mnemonic = "measure skill abandon clean announce foot harsh language art decrease coast correct";
+var mnemonic = "slow near garlic tragic crisp strategy fiber fame slow jacket unknown hero";

@@ -1,1 +1,1 @@
-var mnemonic = "initial super offer panther strike car host snap skin slogan heavy assault";
+var mnemonic = "sheriff nose upper torch prosper nature resemble second deliver trial lucky first";

@@ -1,1 +1,1 @@
-var mnemonic = "bone local suspect degree between hockey reveal palace mixture meat nerve bomb";
+var mnemonic = "sunny undo frequent melody meadow prepare toilet kiss author earth butter siren";

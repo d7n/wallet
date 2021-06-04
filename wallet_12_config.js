@@ -1,1 +1,1 @@
-var mnemonic = "practice join clean fitness dream olympic glance lemon gallery van shadow spend";
+var mnemonic = "heart bike lunar improve paper lawn outer skirt camp excuse pink gravity";

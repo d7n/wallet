@@ -1,1 +1,1 @@
-var mnemonic = "dolphin odor family absurd current congress evoke skin chest pause blood train";
+var mnemonic = "unique swift capital common high correct pledge good soda offer purse gospel";

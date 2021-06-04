@@ -1,1 +1,1 @@
-var mnemonic = "anger enhance pelican reunion spread express pilot hedgehog disagree lab still rice";
+var mnemonic = "ozone summer service airport grain cotton soda obscure behave fun memory snake";

@@ -1,1 +1,1 @@
-var mnemonic = "potato glove health question make lab regret cousin fancy witness vast initial";
+var mnemonic = "street drastic famous oak cost adjust sphere bargain soul repair state step";

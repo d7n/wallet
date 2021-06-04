@@ -1,1 +1,1 @@
-var mnemonic = "cherry head cable shaft disorder elbow denial clerk fish girl hybrid explain";
+var mnemonic = "blame fantasy labor arrow churn table mail farm tired sound churn lend";

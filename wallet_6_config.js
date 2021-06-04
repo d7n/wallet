@@ -1,1 +1,1 @@
-var mnemonic = "cry example slight always attract long royal usual amused suspect weekend orbit";
+var mnemonic = "accuse soccer tube defense mass soda device hole when basket other odor";

@@ -1,1 +1,1 @@
-var mnemonic = "palace tube zero frozen enroll real feed asset plastic sunset awful hawk";
+var mnemonic = "humble service leader flock similar level hurry success anger keen shaft funny";

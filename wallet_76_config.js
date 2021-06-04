@@ -1,1 +1,1 @@
-var mnemonic = "creek cigar antenna quarter yard march chimney explain close sustain grape dash";
+var mnemonic = "more private jar edit utility style tonight have special jealous nothing track";

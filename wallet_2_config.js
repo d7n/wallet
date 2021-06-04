@@ -1,1 +1,1 @@
-var mnemonic = "slide forget twist noodle gaze degree opera glad mad help choice concert";
+var mnemonic = "park window boost reveal wolf mother attack swim length onion crime awkward";

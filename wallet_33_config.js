@@ -1,1 +1,1 @@
-var mnemonic = "dress claw fame nephew pepper absorb volcano garage edge click quick essay";
+var mnemonic = "connect wolf course eagle helmet length trash chef album inner joy apart";

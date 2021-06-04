@@ -1,1 +1,1 @@
-var mnemonic = "garbage vicious surface begin attend festival half pool picnic misery school help";
+var mnemonic = "mercy genuine diesel taxi idle treat lucky tell good skill grass wisdom";

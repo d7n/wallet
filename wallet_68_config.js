@@ -1,1 +1,1 @@
-var mnemonic = "author rule shed kitten husband alert six upon clay antenna section answer";
+var mnemonic = "oval robust opinion aspect kick ill cause series awful onion chase people";

@@ -1,1 +1,1 @@
-var mnemonic = "until unveil whip fall motor wisdom left orphan void farm author ostrich";
+var mnemonic = "crane canvas scissors sock execute shield recall inhale patient cover actress embrace";

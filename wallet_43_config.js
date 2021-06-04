@@ -1,1 +1,1 @@
-var mnemonic = "fetch minute length light truly usual joy reform exhaust first wool silent";
+var mnemonic = "rally naive chalk tenant stool forget lake unfair pride wood popular rice";

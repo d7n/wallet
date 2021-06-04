@@ -1,1 +1,1 @@
-var mnemonic = "entire meat grunt profit liquid mom forum nominee miracle chair concert behind";
+var mnemonic = "trade leg version dirt wife rescue essence vibrant patient private wage fire";

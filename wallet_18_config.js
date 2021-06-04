@@ -1,1 +1,1 @@
-var mnemonic = "bar eyebrow method hill cash boil phrase slender assist question mean dawn";
+var mnemonic = "argue easy pledge ozone ill wedding toward monitor average elegant tape net";

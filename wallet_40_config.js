@@ -1,1 +1,1 @@
-var mnemonic = "income play crack toddler episode hero minor run vessel vicious regular search";
+var mnemonic = "perfect tongue cabin circle capital shaft praise wave keep approve scheme rotate";

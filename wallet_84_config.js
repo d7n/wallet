@@ -1,1 +1,1 @@
-var mnemonic = "exercise taste biology sleep vanish point basic ship twelve select fog feature";
+var mnemonic = "match attack wood expose alone road live know phrase doll artist vital";

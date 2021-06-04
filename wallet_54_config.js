@@ -1,1 +1,1 @@
-var mnemonic = "veteran open olive duck warfare bread famous impulse resist leader stable wild";
+var mnemonic = "one broccoli strategy road cover buzz strategy wood hand duck special catch";

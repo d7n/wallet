@@ -1,1 +1,1 @@
-var mnemonic = "start negative tail shiver next link rescue bullet century chicken plunge bicycle";
+var mnemonic = "stairs armor public clog under enhance stomach spoil dynamic clump essay broccoli";

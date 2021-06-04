@@ -1,1 +1,1 @@
-var mnemonic = "jelly amused obvious health fruit submit split jungle eternal drive tree remove";
+var mnemonic = "supreme shock cave ancient toe phone diesel top pottery math pelican survey";

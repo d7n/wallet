@@ -1,1 +1,1 @@
-var mnemonic = "final rabbit off cat team ecology bulk reward catalog enlist team dawn";
+var mnemonic = "parent teach april awake renew all asthma raven bracket flash library morning";

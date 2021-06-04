@@ -1,1 +1,1 @@
-var mnemonic = "bench one coral choice glue cargo snap ready salon guess cradle park";
+var mnemonic = "input decade impose you waste width solid panther hybrid visit machine negative";

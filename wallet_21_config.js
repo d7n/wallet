@@ -1,1 +1,1 @@
-var mnemonic = "drink useful urban analyst nominee jaguar genre guide gadget seminar crater behind";
+var mnemonic = "arrive twelve script escape dentist exercise chaos decide road bring soap royal";

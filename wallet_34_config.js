@@ -1,1 +1,1 @@
-var mnemonic = "flip spell cabin sketch guess reward glow repair spatial swift cherry film";
+var mnemonic = "sphere unfair kite memory onion dilemma pattern wing vapor table hollow magnet";

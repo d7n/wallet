@@ -1,1 +1,1 @@
-var mnemonic = "soon nuclear kitten police tooth mercy gold skull canvas hidden trade trim";
+var mnemonic = "panther opinion attitude veteran opinion time upset double auction usage report blouse";

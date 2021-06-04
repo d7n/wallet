@@ -1,1 +1,1 @@
-var mnemonic = "olive bless viable frown lawsuit fish argue code rough orphan upgrade stock";
+var mnemonic = "army pretty fancy avoid area flock defense charge fold speak universe auto";

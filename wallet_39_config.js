@@ -1,1 +1,1 @@
-var mnemonic = "swamp cereal crack wrestle blame parade pencil fever yard palm medal mom";
+var mnemonic = "wide clay physical naive split someone foster portion seek subway vessel custom";

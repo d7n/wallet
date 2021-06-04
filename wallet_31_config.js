@@ -1,1 +1,1 @@
-var mnemonic = "save tiny oxygen rebuild reopen shuffle once fiber agree choose hold hat";
+var mnemonic = "bid scene faint screen wink fame toss order broccoli gadget spawn gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "famous skirt cat scissors sport rain festival sample cactus bulk atom room";
+var mnemonic = "woman keen bean actor bean output iron figure water fortune honey grow";

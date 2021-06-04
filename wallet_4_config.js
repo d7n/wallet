@@ -1,1 +1,1 @@
-var mnemonic = "talk income two wave human mother shoot license casino nose must message";
+var mnemonic = "below simple gaze glow material symptom thank century stone earn notice result";

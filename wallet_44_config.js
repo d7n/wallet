@@ -1,1 +1,1 @@
-var mnemonic = "miss glow capital trial teach select boy cradle width edge domain match";
+var mnemonic = "upon various farm sport win impulse accident hill suggest equip obey shine";

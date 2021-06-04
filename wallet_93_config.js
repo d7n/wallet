@@ -1,1 +1,1 @@
-var mnemonic = "amazing tomato galaxy sound noise rail october enter awful item torch learn";
+var mnemonic = "disorder cruise voice toast discover drip moment comfort tumble earn cup stable";

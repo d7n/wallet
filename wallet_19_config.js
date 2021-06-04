@@ -1,1 +1,1 @@
-var mnemonic = "coach canyon nation salt blind today alone dynamic goddess dismiss accident cube";
+var mnemonic = "review exhaust split perfect sunny win decrease wool palace blossom purpose hire";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve lawn crunch nominee soap arch resemble student trophy run talent pledge";
+var mnemonic = "gossip express various reveal ozone fatal pepper bean misery liquid bamboo ketchup";

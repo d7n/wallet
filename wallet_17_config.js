@@ -1,1 +1,1 @@
-var mnemonic = "wood rapid perfect point famous method wood favorite cram panther roof kind";
+var mnemonic = "mask wrong picnic truth nice story follow gain butter deny seminar egg";

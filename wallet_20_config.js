@@ -1,1 +1,1 @@
-var mnemonic = "clinic trophy chronic click lava mention title decade love three salute cigar";
+var mnemonic = "frequent wear skirt boring bike hero rookie senior device bar rubber arrow";

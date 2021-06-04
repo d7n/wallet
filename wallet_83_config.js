@@ -1,1 +1,1 @@
-var mnemonic = "soda nest local happy flame speak illness always body slogan round swear";
+var mnemonic = "excuse curious vessel guess huge glow sponsor there jeans taxi envelope globe";

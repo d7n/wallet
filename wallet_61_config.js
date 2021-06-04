@@ -1,1 +1,1 @@
-var mnemonic = "inch funny assist wish dumb wire evil smile female promote trick man";
+var mnemonic = "web movie resemble desert victory stone slight pen trigger sausage analyst crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "you dice private silent below bitter ozone wonder sweet town quit ivory";
+var mnemonic = "fade recipe video sun public skin echo tell remove obey water will";

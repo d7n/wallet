@@ -1,1 +1,1 @@
-var mnemonic = "mesh pottery screen very thumb toddler play visual tuna retreat meadow pulp";
+var mnemonic = "crime act net another exit rely business dirt ankle rebel grit abandon";

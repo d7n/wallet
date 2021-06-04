@@ -1,1 +1,1 @@
-var mnemonic = "roof aware harvest come confirm design also concert blind alone video argue";
+var mnemonic = "lawsuit sick field clean rally mask elegant coffee romance two fiction quality";

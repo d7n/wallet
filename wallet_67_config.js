@@ -1,1 +1,1 @@
-var mnemonic = "pulp august van other peanut inside common pond warfare test lucky seat";
+var mnemonic = "describe treat decide endless cheap custom acquire dizzy neither ribbon private retreat";

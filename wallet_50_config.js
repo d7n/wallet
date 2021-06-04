@@ -1,1 +1,1 @@
-var mnemonic = "vault whale pretty sweet away prepare during display number album culture tornado";
+var mnemonic = "scan flash vast round slab machine video cigar unable crawl bulb garage";

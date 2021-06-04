@@ -1,1 +1,1 @@
-var mnemonic = "breeze plastic account say depth shove smile off stamp carpet behind dragon";
+var mnemonic = "bright solve truck exile chapter medal civil fruit arch hotel snow strike";

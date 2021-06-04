@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rifle era work bullet quote guide manual tank play violin volume";
+var mnemonic = "tackle energy token wolf away vault ranch boy vacant loud rough hero";

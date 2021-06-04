@@ -1,1 +1,1 @@
-var mnemonic = "recipe way system nerve whale fortune grunt six glide area flame garment";
+var mnemonic = "afraid start warm recycle genre hip holiday frog sudden critic pupil eternal";

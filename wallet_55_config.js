@@ -1,1 +1,1 @@
-var mnemonic = "forest tell humor supply mistake radio easily pact size inform stamp post";
+var mnemonic = "brisk obvious upgrade poet fork skin oval assault nasty sport dumb slide";

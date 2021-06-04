@@ -1,1 +1,1 @@
-var mnemonic = "enlist rotate gaze topple butter nature easily like term resist fit early";
+var mnemonic = "jeans use inflict quantum make reduce snow survey immune spoil return video";

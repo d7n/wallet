@@ -1,1 +1,1 @@
-var mnemonic = "used source disease tissue buffalo surround taste kingdom breeze current reveal advice";
+var mnemonic = "boost lunar become sponsor assume logic cigar quote arm degree solar law";

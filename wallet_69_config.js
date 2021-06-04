@@ -1,1 +1,1 @@
-var mnemonic = "soup topple film slam nose garage liar island voice immune online toe";
+var mnemonic = "clay scrub arrow orchard future globe toy muffin entire actress stage kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "allow any increase risk swift immune canal copper nuclear wear razor bulk";
+var mnemonic = "end under barely nurse river until chest beach rotate aspect decrease balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "gym blind lyrics hotel raw vote brother garment average trick kingdom essence";
+var mnemonic = "palm large east genius ball dune sea rare company stable idle omit";

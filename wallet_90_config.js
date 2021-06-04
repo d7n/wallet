@@ -1,1 +1,1 @@
-var mnemonic = "state inject crouch square scissors hour vivid judge pulse spoil oil fluid";
+var mnemonic = "keep silver cycle loan dragon stadium catch cotton three subway foil remain";

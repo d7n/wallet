@@ -1,1 +1,1 @@
-var mnemonic = "royal cheap large antenna judge either sentence horn sock occur donate setup";
+var mnemonic = "elbow airport ribbon picture timber cannon slim spoil service spike annual stool";

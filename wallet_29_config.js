@@ -1,1 +1,1 @@
-var mnemonic = "used cliff tube outer disease hood stereo village once wisdom tomato hover";
+var mnemonic = "skill rabbit pudding resource soldier clip story drill worth island lock gentle";

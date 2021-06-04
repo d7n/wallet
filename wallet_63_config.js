@@ -1,1 +1,1 @@
-var mnemonic = "diesel dad zoo check require blue vanish similar caution pumpkin release fine";
+var mnemonic = "path tortoise host gentle common brief often tone return salon scout chunk";

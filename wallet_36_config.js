@@ -1,1 +1,1 @@
-var mnemonic = "normal car learn scatter lion card artefact truck slice crime rib replace";
+var mnemonic = "melt brick question cushion fiber fan benefit indoor basket property achieve nature";

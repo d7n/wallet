@@ -1,1 +1,1 @@
-var mnemonic = "hill common welcome flee supply install economy attitude govern hub sail render";
+var mnemonic = "kit net trap myself problem gap vivid damage lemon drama solar legal";

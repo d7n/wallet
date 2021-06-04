@@ -1,1 +1,1 @@
-var mnemonic = "defense body elevator stock sand yard task victory issue chapter square heavy";
+var mnemonic = "enemy option crouch original boost test zoo north wink soccer blame rebuild";

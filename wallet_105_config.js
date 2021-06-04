@@ -1,1 +1,1 @@
-var mnemonic = "soul race nominee throw gap cherry blanket slab fluid grow jeans angry";
+var mnemonic = "hybrid puppy reject brief hip vague machine cluster lock lazy buffalo morning";

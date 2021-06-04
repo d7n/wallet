@@ -1,1 +1,1 @@
-var mnemonic = "carbon add topple wheel noise ankle poem label regret orchard cave enable";
+var mnemonic = "project coyote woman either draft disorder sport visual acoustic humor dizzy sure";

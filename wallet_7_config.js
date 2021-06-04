@@ -1,1 +1,1 @@
-var mnemonic = "patrol super canal congress error holiday honey shrimp present problem pass noise";
+var mnemonic = "exact leader slow federal thought soldier north anxiety double area gaze lucky";

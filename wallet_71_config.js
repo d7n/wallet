@@ -1,1 +1,1 @@
-var mnemonic = "brisk trip special hire daring monkey finish genre height critic term guard";
+var mnemonic = "differ differ asset corn quality good crime secret journey quick danger ivory";

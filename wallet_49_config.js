@@ -1,1 +1,1 @@
-var mnemonic = "arch submit market early infant nation column fall ice couple onion echo";
+var mnemonic = "future tooth tortoise nominee sound benefit arm enemy discover finish bread group";

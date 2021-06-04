@@ -1,1 +1,1 @@
-var mnemonic = "million end rack jump come order alley live wild infant frog company";
+var mnemonic = "carpet panic pink paddle punch sell brother canyon master behave spider cup";

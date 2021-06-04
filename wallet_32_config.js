@@ -1,1 +1,1 @@
-var mnemonic = "judge obvious obtain size flock milk youth able document version slot worry";
+var mnemonic = "miss drum awake fantasy fashion ghost drive rebuild audit mom arctic double";

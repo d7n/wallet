@@ -1,1 +1,1 @@
-var mnemonic = "west master bachelor mirror glue soup flee table clerk ignore swing that";
+var mnemonic = "romance economy orchard impact unusual exchange main mandate census comic supreme today";

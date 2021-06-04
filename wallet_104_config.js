@@ -1,1 +1,1 @@
-var mnemonic = "wait shuffle shift rich fatal term leg critic sheriff practice scan sort";
+var mnemonic = "choice radar sphere vehicle misery truck rural wife minute grab school enjoy";

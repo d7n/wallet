@@ -1,1 +1,1 @@
-var mnemonic = "album mule lizard panic case dinner yard chalk impose language gap cliff";
+var mnemonic = "cricket situate control fabric slide rule banner physical trap inflict slide alone";

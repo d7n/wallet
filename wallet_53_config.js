@@ -1,1 +1,1 @@
-var mnemonic = "stuff spawn vast toilet camp infant punch favorite elite warrior bright chronic";
+var mnemonic = "menu clean volume wing quit sunny youth innocent core morning heart keep";

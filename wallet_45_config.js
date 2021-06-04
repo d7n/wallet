@@ -1,1 +1,1 @@
-var mnemonic = "cousin life fluid venue barely monitor boat foam gentle cotton boring bread";
+var mnemonic = "diagram festival sea alone minimum noise grain art elder solve grunt pepper";

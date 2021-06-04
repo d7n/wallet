@@ -1,1 +1,1 @@
-var mnemonic = "tired regret sunset weasel coyote boy half letter solar another spread trap";
+var mnemonic = "offer east defense cube fossil stairs trust fox eagle mistake matter nuclear";

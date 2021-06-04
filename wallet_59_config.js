@@ -1,1 +1,1 @@
-var mnemonic = "dentist canal exist upper puppy have bid depend grocery kidney raven ladder";
+var mnemonic = "blue fiscal decline carpet quality only angry umbrella spray shield guide sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle myself photo client cereal secret spice mind subject tent install ancient";
+var mnemonic = "ostrich cube ecology snap mention relief grab shed protect oval slab frog";

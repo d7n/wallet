@@ -1,1 +1,1 @@
-var mnemonic = "inspire verb guitar praise gown exile benefit teach switch enlist dumb observe";
+var mnemonic = "review casino life cruel case indicate plug silver glass ramp mechanic upgrade";

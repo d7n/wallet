@@ -1,1 +1,1 @@
-var mnemonic = "endorse neck surge lion anxiety lava juice blush chunk remind borrow such";
+var mnemonic = "human around ocean wink sibling busy dumb note conduct together viable minimum";

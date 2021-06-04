@@ -1,1 +1,1 @@
-var mnemonic = "season vanish case ready lazy fit vague sure buyer upgrade upgrade slim";
+var mnemonic = "west blossom nothing exact melody street jewel switch found either trap horror";
