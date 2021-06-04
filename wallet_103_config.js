@@ -1,1 +1,1 @@
-var mnemonic = "gas mimic run bounce boss space space behave tool main into shell";
+var mnemonic = "rapid decorate model permit cliff topple more struggle junior hawk hobby success";

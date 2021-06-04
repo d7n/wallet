@@ -1,1 +1,1 @@
-var mnemonic = "valley wish chalk gasp siren shy dose stable mushroom pilot tail tomorrow";
+var mnemonic = "eagle thrive hill moral trip blind either angle rocket pretty sorry ramp";

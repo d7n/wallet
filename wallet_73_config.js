@@ -1,1 +1,1 @@
-var mnemonic = "draw animal wall orient chief jealous wheat narrow situate reveal noise spend";
+var mnemonic = "slam fury hard gravity food course kangaroo ahead hazard wear lucky recycle";

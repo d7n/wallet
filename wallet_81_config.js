@@ -1,1 +1,1 @@
-var mnemonic = "series jazz badge retreat possible boat peasant sibling virus task claim desk";
+var mnemonic = "hunt adapt banana slide october shy outer maximum detail silly onion lounge";

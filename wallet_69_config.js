@@ -1,1 +1,1 @@
-var mnemonic = "grocery rare sponsor treat harbor raven grain match oyster humor debris essay";
+var mnemonic = "inflict fat cargo basket tragic source ethics danger build correct shock core";

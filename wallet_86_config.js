@@ -1,1 +1,1 @@
-var mnemonic = "drop garlic pave estate stand garlic object found index damp phone glass";
+var mnemonic = "labor garment awful fossil river denial tiger spoon opera material hurdle hazard";

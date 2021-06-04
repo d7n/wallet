@@ -1,1 +1,1 @@
-var mnemonic = "intact emerge pupil job twin tumble loyal hero bike salmon fitness solar";
+var mnemonic = "nerve fabric luggage slow sunset sail cigar hold turtle deny another sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "charge magic elegant raccoon broccoli define tobacco caution net moon connect resource";
+var mnemonic = "assault replace sketch valve then valid lava glimpse fire cliff task odor";

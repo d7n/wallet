@@ -1,1 +1,1 @@
-var mnemonic = "mammal popular marriage congress conduct fox exit spy clinic pipe faculty purse";
+var mnemonic = "balance wild annual castle mercy deal wedding garbage unveil race swim empty";

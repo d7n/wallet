@@ -1,1 +1,1 @@
-var mnemonic = "drift dish boat garage obtain impulse ostrich tackle laptop bag menu rare";
+var mnemonic = "call reunion begin mammal drum clutch choice bamboo picture resource behind vessel";

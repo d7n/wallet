@@ -1,1 +1,1 @@
-var mnemonic = "cloud rather tomorrow entire ticket video muffin pulp gold miss scissors motor";
+var mnemonic = "lucky penalty found maximum custom guitar topple start brush what hair brief";

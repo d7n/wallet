@@ -1,1 +1,1 @@
-var mnemonic = "mom runway harbor sun nature spare clip outside human expect width hero";
+var mnemonic = "circle arrive advice despair museum swim pelican effort clap viable thumb artwork";

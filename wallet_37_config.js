@@ -1,1 +1,1 @@
-var mnemonic = "symptom now gloom grit team frequent disagree element then ability shuffle pony";
+var mnemonic = "find heavy blue machine comfort mutual grocery glow hint ladder valid milk";

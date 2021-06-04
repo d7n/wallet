@@ -1,1 +1,1 @@
-var mnemonic = "affair stairs jump vote recycle vague agent fence father fall under begin";
+var mnemonic = "artist mirror top disease pencil film load bunker away put tilt double";

@@ -1,1 +1,1 @@
-var mnemonic = "lift visual village puzzle attack clump narrow athlete lion lawsuit bundle goose";
+var mnemonic = "orbit provide you popular child idle cement express issue wrestle opera eye";

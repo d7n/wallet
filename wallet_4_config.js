@@ -1,1 +1,1 @@
-var mnemonic = "spell moment excuse peasant cause predict shield ugly camp vacant equip shed";
+var mnemonic = "apology draft nothing badge spirit bulb copper moral margin ketchup sock fork";

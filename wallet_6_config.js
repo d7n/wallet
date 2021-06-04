@@ -1,1 +1,1 @@
-var mnemonic = "amateur style all moon velvet mean fossil goddess absorb hood smoke height";
+var mnemonic = "enter nuclear piece issue elite exchange bounce impact silly media yard wagon";

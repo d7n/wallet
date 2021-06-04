@@ -1,1 +1,1 @@
-var mnemonic = "style wink mango voyage clump plastic dry crew amount trumpet build find";
+var mnemonic = "pizza forum furnace vivid run salt tuna glimpse screen popular earn dutch";

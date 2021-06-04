@@ -1,1 +1,1 @@
-var mnemonic = "cool tilt uncle test risk raise choose uncle still mansion remember leopard";
+var mnemonic = "border cable claw split dilemma focus sauce exist sugar drama total balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "purity primary fix later reject fee dream disorder course icon swear orphan";
+var mnemonic = "payment battle beyond elite unique movie absurd ladder stomach feed oven input";

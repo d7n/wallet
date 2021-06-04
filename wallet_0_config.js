@@ -1,1 +1,1 @@
-var mnemonic = "nature stamp select tuna become coast until brush swamp fancy joke rib";
+var mnemonic = "essay wreck river spawn galaxy identify calm link endorse degree combine route";

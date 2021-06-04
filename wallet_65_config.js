@@ -1,1 +1,1 @@
-var mnemonic = "spice derive canvas detail observe key fashion chronic road forum senior erode";
+var mnemonic = "drastic illegal barely giant turkey movie elevator also eight defy jewel alien";

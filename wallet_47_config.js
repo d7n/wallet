@@ -1,1 +1,1 @@
-var mnemonic = "enhance path speak alarm absorb inject test magnet empower chair name buffalo";
+var mnemonic = "country canoe bulb frozen argue leaf boost coin inform engine gorilla priority";

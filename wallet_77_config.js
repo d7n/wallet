@@ -1,1 +1,1 @@
-var mnemonic = "desert smooth use flush measure wife humble neglect burden cousin tennis calm";
+var mnemonic = "decline fox useful welcome thing mail honey sign erase whip begin rabbit";

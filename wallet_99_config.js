@@ -1,1 +1,1 @@
-var mnemonic = "shiver sphere special mouse glove regret slim unique dad flavor salad return";
+var mnemonic = "submit parade sheriff practice venture ethics gift group naive urge seven risk";

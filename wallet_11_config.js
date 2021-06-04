@@ -1,1 +1,1 @@
-var mnemonic = "depend gather sudden flash south inquiry mix carry nominee permit cat hurry";
+var mnemonic = "laundry galaxy page fine tonight human exclude weapon panther potato essence half";

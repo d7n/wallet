@@ -1,1 +1,1 @@
-var mnemonic = "dizzy clump young width upset ozone about worth person true tell boss";
+var mnemonic = "receive leaf disorder come throw pigeon proof rule damage devote wedding hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "devote mask whisper giraffe dress clap pear kingdom eyebrow cluster dwarf capital";
+var mnemonic = "summer renew recipe dress guilt obtain suit north egg small cube priority";

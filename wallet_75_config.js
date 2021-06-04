@@ -1,1 +1,1 @@
-var mnemonic = "surprise wave hospital polar term panther result raccoon potato sustain magic bronze";
+var mnemonic = "duty rule offer shaft dizzy protect scale fork develop grief reflect payment";

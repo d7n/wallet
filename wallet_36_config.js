@@ -1,1 +1,1 @@
-var mnemonic = "among unable wrong hair typical tooth zoo hedgehog frog exercise liar taste";
+var mnemonic = "quit ghost evil thank list permit recycle holiday into demise live ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder party foot tissue upon artist return hawk side daring sudden service";
+var mnemonic = "unit solution sphere model scatter kit run tone wealth winner empty sausage";

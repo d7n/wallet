@@ -1,1 +1,1 @@
-var mnemonic = "project lab tape exist keen famous shy silent tunnel arrest column sweet";
+var mnemonic = "scrap sweet reduce dry thumb spoil solution end grain inject oil advance";

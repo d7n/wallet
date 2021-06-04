@@ -1,1 +1,1 @@
-var mnemonic = "crouch early unhappy enemy like gate misery lawsuit harsh click little alley";
+var mnemonic = "super trumpet enlist hub gun become giggle steel find tray bronze element";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hospital quantum nasty episode light drip extend potato peanut flight craft";
+var mnemonic = "syrup door antique comic call gap welcome evidence sight dry witness journey";

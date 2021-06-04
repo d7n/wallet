@@ -1,1 +1,1 @@
-var mnemonic = "student soda desk that uphold author stay soda want write tape pyramid";
+var mnemonic = "patch shoulder door fragile calm ranch torch warfare wet youth quantum sick";

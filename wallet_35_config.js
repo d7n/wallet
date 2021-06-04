@@ -1,1 +1,1 @@
-var mnemonic = "powder theme isolate mass true hybrid change vendor ceiling symbol sure dolphin";
+var mnemonic = "excess enhance forward celery typical occur erupt peasant cook moral bacon desert";

@@ -1,1 +1,1 @@
-var mnemonic = "accident mushroom scissors table muscle boss physical tissue isolate merit cute juice";
+var mnemonic = "claw acquire village result ordinary real please symptom bulb mimic expose orient";

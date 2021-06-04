@@ -1,1 +1,1 @@
-var mnemonic = "path rice always ceiling nature buffalo start comfort during void heart usual";
+var mnemonic = "bread great whip devote churn daughter veteran level spatial spike nation grief";

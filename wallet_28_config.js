@@ -1,1 +1,1 @@
-var mnemonic = "nest air tackle wet elder rug nephew across agree census woman sport";
+var mnemonic = "vague picture weather tilt twelve card option again vanish auction clog kitten";

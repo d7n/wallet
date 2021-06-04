@@ -1,1 +1,1 @@
-var mnemonic = "bleak narrow enrich stable coil economy daring yellow close grunt grid pilot";
+var mnemonic = "chief album grunt ordinary hamster birth glide thank flock weather pigeon drum";

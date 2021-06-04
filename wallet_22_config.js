@@ -1,1 +1,1 @@
-var mnemonic = "exhibit aware run spell neither hollow huge issue collect garden east rug";
+var mnemonic = "reflect uphold demand beauty pudding attitude kiwi whale quarter vacant soul captain";

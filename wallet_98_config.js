@@ -1,1 +1,1 @@
-var mnemonic = "flock loop smooth noise clinic purpose diesel easy trade churn enlist pledge";
+var mnemonic = "debris install found group dress predict dance quarter broken push meadow impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "winner dawn auto post guard hover coast quality hope flock offer improve";
+var mnemonic = "cloth ritual analyst drink benefit number media crack already strategy chest spike";

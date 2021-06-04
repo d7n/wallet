@@ -1,1 +1,1 @@
-var mnemonic = "father drop time novel muscle student excess wink guide injury also room";
+var mnemonic = "install now special aisle neglect unknown oppose imitate kitchen cargo inside brain";

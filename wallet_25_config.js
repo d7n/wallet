@@ -1,1 +1,1 @@
-var mnemonic = "coach virus flight ginger field purse simple employ ticket surge brisk demand";
+var mnemonic = "globe crystal recall annual use elite distance blood vacuum unfair involve bounce";

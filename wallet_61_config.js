@@ -1,1 +1,1 @@
-var mnemonic = "orphan all fever inherit cave security success stay echo prison reunion fine";
+var mnemonic = "card success skull debate run brush phone steak luxury legal scrub bonus";

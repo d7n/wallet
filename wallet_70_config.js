@@ -1,1 +1,1 @@
-var mnemonic = "boy diamond mushroom fox erosion valley skull priority arm sleep antenna melt";
+var mnemonic = "goat noble castle find trash faculty cube ecology nose uncle carbon right";

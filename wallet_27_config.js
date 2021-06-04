@@ -1,1 +1,1 @@
-var mnemonic = "arrange theme skirt network trash argue income coyote undo bus scan palace";
+var mnemonic = "voyage crush cherry thing gadget giggle trap upper fall team bonus future";

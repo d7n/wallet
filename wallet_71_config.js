@@ -1,1 +1,1 @@
-var mnemonic = "correct color inside exclude craft spawn uncover spring theme sport census purchase";
+var mnemonic = "million zebra delay poet one title final sorry chaos file rookie wet";

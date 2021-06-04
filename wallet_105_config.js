@@ -1,1 +1,1 @@
-var mnemonic = "myth region ignore stomach coconut train park mansion sorry life mirror bind";
+var mnemonic = "soul visual scan number cloud rude pool ceiling floor buffalo shield tuition";

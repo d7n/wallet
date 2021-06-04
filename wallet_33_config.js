@@ -1,1 +1,1 @@
-var mnemonic = "family state swallow mango you slab cause season illness appear panther grocery";
+var mnemonic = "flee security loop wealth weasel mad fox child shock shy brisk original";

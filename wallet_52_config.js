@@ -1,1 +1,1 @@
-var mnemonic = "devote prefer machine useless interest inmate bag burden denial clock mimic alone";
+var mnemonic = "rubber sniff reflect toe mandate again ready wish fit despair vessel ocean";

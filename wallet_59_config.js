@@ -1,1 +1,1 @@
-var mnemonic = "owner glory flag spare project action boil vintage crystal fine sniff height";
+var mnemonic = "moment stem wear direct impose ensure digital pole hat photo one occur";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology angry seed term route educate leopard swing liberty pottery useless cliff";
+var mnemonic = "february time panda special seed bless run gaze tumble pipe merry change";

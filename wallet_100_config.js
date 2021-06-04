@@ -1,1 +1,1 @@
-var mnemonic = "grid clay symptom program require online upset bracket pen soup robot company";
+var mnemonic = "cricket mango loud sustain evidence state horn age demise magnet west prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose wealth flock fruit aerobic nose custom leaf identify proof eternal pig";
+var mnemonic = "slow bullet street fetch case lamp wall orbit three adapt detail fix";

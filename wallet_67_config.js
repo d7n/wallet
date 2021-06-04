@@ -1,1 +1,1 @@
-var mnemonic = "dolphin castle supreme peanut table delay fold enhance spirit midnight arrange twin";
+var mnemonic = "tip struggle wrist night sniff style trick december tiger collect used village";

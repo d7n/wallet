@@ -1,1 +1,1 @@
-var mnemonic = "physical make smooth nurse govern stumble thing winter faint gallery canoe enact";
+var mnemonic = "system search glad embark assist soldier absent sniff across youth margin void";

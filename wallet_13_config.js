@@ -1,1 +1,1 @@
-var mnemonic = "cattle chunk diet element speed fork weapon crime fossil blanket name feed";
+var mnemonic = "side monster notable wine appear extend hospital champion minute refuse speak famous";

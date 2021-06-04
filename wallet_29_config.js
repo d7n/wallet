@@ -1,1 +1,1 @@
-var mnemonic = "spice story photo mansion dune anchor hat suggest render swamp speak snap";
+var mnemonic = "face equal evil remove cargo spider jazz retire word anger bachelor coach";

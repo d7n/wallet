@@ -1,1 +1,1 @@
-var mnemonic = "glare shift fashion give dish wire confirm unlock foam express suit impact";
+var mnemonic = "daughter name quiz crawl drink often festival grant finger curious over output";

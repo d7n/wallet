@@ -1,1 +1,1 @@
-var mnemonic = "wood reject dentist uphold daring engine hospital obvious token audit govern clarify";
+var mnemonic = "blind rocket license shallow allow shock wasp warfare ahead dress empty flee";

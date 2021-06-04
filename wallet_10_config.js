@@ -1,1 +1,1 @@
-var mnemonic = "cushion improve rebel grocery portion enrich dish try deputy again tide limit";
+var mnemonic = "polar elbow trade nerve skin stable drip flat kick simple leave wait";

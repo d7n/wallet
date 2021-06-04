@@ -1,1 +1,1 @@
-var mnemonic = "crystal ceiling casino kit evoke stumble help pistol awful anger final action";
+var mnemonic = "network angle coffee original proof together emotion fiber bronze virus domain toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "march legend decline flip cable power mask fitness churn denial adapt gas";
+var mnemonic = "solid drift cute fade sick blanket wasp maze fatigue meat account pulp";

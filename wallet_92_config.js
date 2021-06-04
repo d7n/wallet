@@ -1,1 +1,1 @@
-var mnemonic = "pill fade area deer future rebel impact lesson rare chalk uniform example";
+var mnemonic = "parade soon fortune shiver vacant light donkey teach pelican law country final";

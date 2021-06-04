@@ -1,1 +1,1 @@
-var mnemonic = "month lottery moon alcohol remind milk shed merry soda venture disagree always";
+var mnemonic = "ancient slush duty knife scatter pave syrup custom cluster practice kitten good";

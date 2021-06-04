@@ -1,1 +1,1 @@
-var mnemonic = "marine pole amazing diary meadow marine sun spike pact tail heart ridge";
+var mnemonic = "omit slush cousin trial boss suspect budget report youth damp super adult";

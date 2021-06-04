@@ -1,1 +1,1 @@
-var mnemonic = "day inner reform end mammal chapter position word zone obtain retreat under";
+var mnemonic = "hockey monitor school trigger check egg garlic half question angry retreat dry";

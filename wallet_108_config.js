@@ -1,1 +1,1 @@
-var mnemonic = "dwarf must hand position trophy fatal attract boost october ostrich wet correct";
+var mnemonic = "potato echo sunset renew boring number awesome present point climb network portion";

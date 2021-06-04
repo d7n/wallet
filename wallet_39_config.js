@@ -1,1 +1,1 @@
-var mnemonic = "melt daring clinic tool until floor issue split repair cover vibrant jungle";
+var mnemonic = "derive silly method stock attend nest upgrade across sadness small hole wrestle";

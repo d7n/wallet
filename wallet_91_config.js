@@ -1,1 +1,1 @@
-var mnemonic = "balcony hire tooth fee proof drop rocket robot goddess weather salt parrot";
+var mnemonic = "catch excess degree motion mother field shoot explain chronic grow major try";

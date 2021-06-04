@@ -1,1 +1,1 @@
-var mnemonic = "rural prosper layer tenant sure toilet giant minute sad gesture tiger envelope";
+var mnemonic = "shadow planet negative cement pulp grief stuff lottery employ weapon snake timber";

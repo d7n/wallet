@@ -1,1 +1,1 @@
-var mnemonic = "public detail this language express flat rail force grit nut outdoor riot";
+var mnemonic = "mother famous coach deliver media era october message inflict student forest canoe";

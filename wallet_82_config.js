@@ -1,1 +1,1 @@
-var mnemonic = "coffee stamp ranch ship work build kingdom machine present wing kid protect";
+var mnemonic = "peanut orange draw spoil catalog empower swim era dwarf insect daughter pig";

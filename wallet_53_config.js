@@ -1,1 +1,1 @@
-var mnemonic = "ketchup mother cup dinner treat yellow crush trash arena icon time protect";
+var mnemonic = "unknown flush cover toy divorce joy praise cup gift candy unlock know";

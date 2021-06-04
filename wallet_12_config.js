@@ -1,1 +1,1 @@
-var mnemonic = "interest inherit negative clip call reject liar amount weird clap buzz citizen";
+var mnemonic = "sunny pause pair course leaf zone verify stuff brown history noodle satoshi";

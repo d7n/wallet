@@ -1,1 +1,1 @@
-var mnemonic = "giraffe inside once dash lawn enforce idle word valley knife awful pitch";
+var mnemonic = "economy obey video alarm wink thought surge struggle physical enable guard output";

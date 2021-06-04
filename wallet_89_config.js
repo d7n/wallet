@@ -1,1 +1,1 @@
-var mnemonic = "drum wise area basic team fix rubber lion fruit real man sketch";
+var mnemonic = "jealous scale bulb dinner erode midnight begin market destroy salmon invest first";

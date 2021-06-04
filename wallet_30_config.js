@@ -1,1 +1,1 @@
-var mnemonic = "early slab execute plunge sausage illegal like august odor initial detail unusual";
+var mnemonic = "kiss habit adapt mutual glad world ability kite coach banner tattoo profit";

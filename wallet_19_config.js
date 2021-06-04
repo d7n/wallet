@@ -1,1 +1,1 @@
-var mnemonic = "manual empower season special assault verify tobacco love mushroom above depth strong";
+var mnemonic = "black tornado burden fantasy black jewel fetch play lecture swear video happy";

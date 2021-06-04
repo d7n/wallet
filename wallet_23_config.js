@@ -1,1 +1,1 @@
-var mnemonic = "own lunar enlist because term excess across comfort athlete device comfort leg";
+var mnemonic = "sugar chunk program phone mountain fortune solid dial ride width keep traffic";

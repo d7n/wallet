@@ -1,1 +1,1 @@
-var mnemonic = "cliff pulp bid wonder draw month fashion bus exchange excess good junior";
+var mnemonic = "capable blur warrior agent oak proof beef cost food focus stairs cream";

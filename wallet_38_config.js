@@ -1,1 +1,1 @@
-var mnemonic = "truth impact clarify kite feature pulp salon canvas wave replace steak theory";
+var mnemonic = "pitch phrase salmon alpha apology wait town april layer wreck because museum";

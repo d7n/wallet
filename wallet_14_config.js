@@ -1,1 +1,1 @@
-var mnemonic = "senior excuse banana please luxury curve thought long chat humor enroll permit";
+var mnemonic = "push peasant turn cake cluster license narrow lazy medal ugly purse trade";
