@@ -1,1 +1,1 @@
-var mnemonic = "country canoe bulb frozen argue leaf boost coin inform engine gorilla priority";
+var mnemonic = "shrimp upper bus senior decrease clutch critic nerve expect mass essay mechanic";

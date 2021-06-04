@@ -1,1 +1,1 @@
-var mnemonic = "approve live leisure carpet electric cradle banana hood inherit disease question pizza";
+var mnemonic = "snake system liquid dress color method collect copper useful history slam nice";

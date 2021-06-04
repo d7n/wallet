@@ -1,1 +1,1 @@
-var mnemonic = "sunny pause pair course leaf zone verify stuff brown history noodle satoshi";
+var mnemonic = "child iron dignity increase panel glow memory million giraffe mobile plug super";

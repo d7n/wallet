@@ -1,1 +1,1 @@
-var mnemonic = "black tornado burden fantasy black jewel fetch play lecture swear video happy";
+var mnemonic = "kidney beauty cancel aunt daring sell matrix canoe tornado sick cotton oak";

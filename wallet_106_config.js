@@ -1,1 +1,1 @@
-var mnemonic = "pizza forum furnace vivid run salt tuna glimpse screen popular earn dutch";
+var mnemonic = "version wet portion welcome account rigid behave clap ignore tennis fork monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "circle arrive advice despair museum swim pelican effort clap viable thumb artwork";
+var mnemonic = "quit apple misery demand amount stock near family moon smile movie six";

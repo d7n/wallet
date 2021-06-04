@@ -1,1 +1,1 @@
-var mnemonic = "solid drift cute fade sick blanket wasp maze fatigue meat account pulp";
+var mnemonic = "enrich stove rigid minute flat sleep suspect next gather puzzle useful reason";

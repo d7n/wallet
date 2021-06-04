@@ -1,1 +1,1 @@
-var mnemonic = "network angle coffee original proof together emotion fiber bronze virus domain toddler";
+var mnemonic = "stamp display enemy orient column bid mango symptom fiscal shrimp return trophy";

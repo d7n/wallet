@@ -1,1 +1,1 @@
-var mnemonic = "nerve fabric luggage slow sunset sail cigar hold turtle deny another sketch";
+var mnemonic = "fuel sausage upgrade turn clock system size solve snake mango garbage security";

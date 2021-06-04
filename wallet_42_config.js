@@ -1,1 +1,1 @@
-var mnemonic = "misery popular genre door spider document urge mosquito door vicious tragic chaos";
+var mnemonic = "loud doctor before shy exclude cousin wheat seminar trim chief celery flat";

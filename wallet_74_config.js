@@ -1,1 +1,1 @@
-var mnemonic = "gate crew fog blanket loan essence caught maple drive antenna destroy admit";
+var mnemonic = "fiction hazard female window involve lava rain stem rich equal because that";

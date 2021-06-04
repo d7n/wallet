@@ -1,1 +1,1 @@
-var mnemonic = "slow bullet street fetch case lamp wall orbit three adapt detail fix";
+var mnemonic = "arena two expect relax oxygen mushroom nasty soft pepper supreme label orbit";

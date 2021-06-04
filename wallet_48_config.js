@@ -1,1 +1,1 @@
-var mnemonic = "call reunion begin mammal drum clutch choice bamboo picture resource behind vessel";
+var mnemonic = "patient unique win settle nurse creek foster remove hammer blue initial flame";

@@ -1,1 +1,1 @@
-var mnemonic = "split actress language stool scissors electric baby agree apart panther acoustic meadow";
+var mnemonic = "mixture embark ring bottom evolve welcome brisk loyal unhappy corn goose jewel";

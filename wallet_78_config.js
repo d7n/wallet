@@ -1,1 +1,1 @@
-var mnemonic = "chief album grunt ordinary hamster birth glide thank flock weather pigeon drum";
+var mnemonic = "veteran coach accident cruel brisk note grocery wealth armed text predict decorate";

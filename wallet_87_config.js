@@ -1,1 +1,1 @@
-var mnemonic = "scrap sweet reduce dry thumb spoil solution end grain inject oil advance";
+var mnemonic = "vehicle people cream scan knock unveil mimic champion cushion entire volume innocent";

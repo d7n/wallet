@@ -1,1 +1,1 @@
-var mnemonic = "debris install found group dress predict dance quarter broken push meadow impulse";
+var mnemonic = "worry return paddle match must buddy fantasy hard vast hand face reduce";

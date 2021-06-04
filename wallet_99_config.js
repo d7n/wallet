@@ -1,1 +1,1 @@
-var mnemonic = "submit parade sheriff practice venture ethics gift group naive urge seven risk";
+var mnemonic = "recall random bench wagon agree crazy clump write pear father make police";

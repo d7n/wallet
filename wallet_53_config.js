@@ -1,1 +1,1 @@
-var mnemonic = "unknown flush cover toy divorce joy praise cup gift candy unlock know";
+var mnemonic = "bring rule decline become enemy suggest refuse peace orchard near citizen sister";

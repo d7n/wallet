@@ -1,1 +1,1 @@
-var mnemonic = "slam fury hard gravity food course kangaroo ahead hazard wear lucky recycle";
+var mnemonic = "wrestle height chase interest smile jar tumble another seed rigid decide van";

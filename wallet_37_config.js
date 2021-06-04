@@ -1,1 +1,1 @@
-var mnemonic = "find heavy blue machine comfort mutual grocery glow hint ladder valid milk";
+var mnemonic = "table breeze disagree submit trust wear bubble fabric swarm expose shift grab";

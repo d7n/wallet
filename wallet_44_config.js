@@ -1,1 +1,1 @@
-var mnemonic = "anxiety boring cry scare swim inflict brave picture dose park enable harbor";
+var mnemonic = "exchange human long crew drastic lucky moral slush salon lemon merry tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "bread great whip devote churn daughter veteran level spatial spike nation grief";
+var mnemonic = "sausage butter armor direct beef castle mistake require forum matter thank find";

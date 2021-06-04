@@ -1,1 +1,1 @@
-var mnemonic = "cricket mango loud sustain evidence state horn age demise magnet west prosper";
+var mnemonic = "tired rhythm submit inside shrimp fresh cloud spice soccer manage roast teach";

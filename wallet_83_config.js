@@ -1,1 +1,1 @@
-var mnemonic = "economy obey video alarm wink thought surge struggle physical enable guard output";
+var mnemonic = "march brain column inch radio segment spin imitate off puzzle gorilla absorb";

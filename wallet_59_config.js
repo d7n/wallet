@@ -1,1 +1,1 @@
-var mnemonic = "moment stem wear direct impose ensure digital pole hat photo one occur";
+var mnemonic = "quote vacant dizzy float lobster pudding daughter spray square valid tackle any";

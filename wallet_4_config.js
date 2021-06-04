@@ -1,1 +1,1 @@
-var mnemonic = "apology draft nothing badge spirit bulb copper moral margin ketchup sock fork";
+var mnemonic = "quantum balcony luxury ball slice motion sock dish mother trial anxiety salmon";

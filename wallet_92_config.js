@@ -1,1 +1,1 @@
-var mnemonic = "parade soon fortune shiver vacant light donkey teach pelican law country final";
+var mnemonic = "surge believe parrot purpose spray annual rhythm bacon lamp speed spice museum";

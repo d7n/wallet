@@ -1,1 +1,1 @@
-var mnemonic = "system search glad embark assist soldier absent sniff across youth margin void";
+var mnemonic = "bench myth share broken gas flag truck coin again mistake high true";

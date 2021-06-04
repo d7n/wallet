@@ -1,1 +1,1 @@
-var mnemonic = "labor garment awful fossil river denial tiger spoon opera material hurdle hazard";
+var mnemonic = "apple obey used identify birth occur pitch twin cherry impulse tiger walk";

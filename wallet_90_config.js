@@ -1,1 +1,1 @@
-var mnemonic = "heart receive guard punch switch then affair genius cage desk issue parrot";
+var mnemonic = "latin inflict glow forum tilt mouse staff accuse general vast connect describe";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict fat cargo basket tragic source ethics danger build correct shock core";
+var mnemonic = "shoot tattoo board found misery suspect forward soap absorb embrace quarter ozone";

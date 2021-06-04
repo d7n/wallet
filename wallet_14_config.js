@@ -1,1 +1,1 @@
-var mnemonic = "push peasant turn cake cluster license narrow lazy medal ugly purse trade";
+var mnemonic = "wasp token news wrist absorb broccoli burst grocery address arrive begin cat";

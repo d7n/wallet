@@ -1,1 +1,1 @@
-var mnemonic = "rubber sniff reflect toe mandate again ready wish fit despair vessel ocean";
+var mnemonic = "rule mirror dawn nasty stove tide decrease cloud stuff age child later";

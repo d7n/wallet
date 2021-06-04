@@ -1,1 +1,1 @@
-var mnemonic = "champion muscle faculty usual huge strike ice stereo tortoise embrace horn absent";
+var mnemonic = "ginger vessel craft make peace spray cushion junior giggle glare price type";

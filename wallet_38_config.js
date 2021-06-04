@@ -1,1 +1,1 @@
-var mnemonic = "pitch phrase salmon alpha apology wait town april layer wreck because museum";
+var mnemonic = "found half alcohol rude nice elbow member frozen improve sun age skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow planet negative cement pulp grief stuff lottery employ weapon snake timber";
+var mnemonic = "local inside hire mad tray couple enhance base fox employ absent little";

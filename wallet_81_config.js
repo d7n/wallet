@@ -1,1 +1,1 @@
-var mnemonic = "hunt adapt banana slide october shy outer maximum detail silly onion lounge";
+var mnemonic = "island renew erode flush mask repeat interest opinion immense salmon invite problem";

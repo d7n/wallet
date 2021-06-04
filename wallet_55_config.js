@@ -1,1 +1,1 @@
-var mnemonic = "hurdle plug jump disease employ gain rare stairs salt script enter obscure";
+var mnemonic = "bachelor budget story civil abstract pipe unusual save myth warrior typical pistol";

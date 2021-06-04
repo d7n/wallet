@@ -1,1 +1,1 @@
-var mnemonic = "jealous scale bulb dinner erode midnight begin market destroy salmon invest first";
+var mnemonic = "strategy spike staff hybrid quick frost prepare erupt coffee fee amused garden";

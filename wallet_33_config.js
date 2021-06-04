@@ -1,1 +1,1 @@
-var mnemonic = "flee security loop wealth weasel mad fox child shock shy brisk original";
+var mnemonic = "hockey guilt island deposit maximum track brush device immense price possible dilemma";

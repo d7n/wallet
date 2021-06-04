@@ -1,1 +1,1 @@
-var mnemonic = "reflect uphold demand beauty pudding attitude kiwi whale quarter vacant soul captain";
+var mnemonic = "zero marble vivid turkey east rule rack olive squeeze rescue attract require";

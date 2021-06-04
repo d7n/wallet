@@ -1,1 +1,1 @@
-var mnemonic = "super trumpet enlist hub gun become giggle steel find tray bronze element";
+var mnemonic = "tomorrow parade cage agree width until trend poem clutch rain theory ordinary";

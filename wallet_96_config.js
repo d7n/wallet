@@ -1,1 +1,1 @@
-var mnemonic = "payment battle beyond elite unique movie absurd ladder stomach feed oven input";
+var mnemonic = "stumble vehicle year debris twenty reopen rather drama fatigue bring key sadness";

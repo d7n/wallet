@@ -1,1 +1,1 @@
-var mnemonic = "derive silly method stock attend nest upgrade across sadness small hole wrestle";
+var mnemonic = "grunt junior discover cruel position mom curtain derive neither scale top mixture";

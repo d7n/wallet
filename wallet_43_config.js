@@ -1,1 +1,1 @@
-var mnemonic = "lounge bridge unknown boring scatter mixed approve upper promote derive want slush";
+var mnemonic = "alone skate mule shaft ceiling soap bird print remain coyote weasel pottery";

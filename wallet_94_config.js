@@ -1,1 +1,1 @@
-var mnemonic = "dismiss idea south manual change woman panic seat morning include consider busy";
+var mnemonic = "palm kite miss buzz quick expire portion raven real tragic chunk retreat";

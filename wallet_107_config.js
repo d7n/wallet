@@ -1,1 +1,1 @@
-var mnemonic = "february time panda special seed bless run gaze tumble pipe merry change";
+var mnemonic = "skill young ship off duty destroy super lottery novel focus bulk ankle";

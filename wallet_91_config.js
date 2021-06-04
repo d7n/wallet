@@ -1,1 +1,1 @@
-var mnemonic = "catch excess degree motion mother field shoot explain chronic grow major try";
+var mnemonic = "quality exotic twin guess crime face require view sort lock title accident";

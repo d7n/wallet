@@ -1,1 +1,1 @@
-var mnemonic = "knock call fun tip ring drum material fatigue long illegal another category";
+var mnemonic = "inflict latin ice hazard analyst knee cinnamon allow someone blur seat erupt";

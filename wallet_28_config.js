@@ -1,1 +1,1 @@
-var mnemonic = "vague picture weather tilt twelve card option again vanish auction clog kitten";
+var mnemonic = "fruit secret uncover smile husband ability exchange behave custom salute ecology worry";

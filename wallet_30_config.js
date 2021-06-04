@@ -1,1 +1,1 @@
-var mnemonic = "kiss habit adapt mutual glad world ability kite coach banner tattoo profit";
+var mnemonic = "trip agent clap cereal derive wonder subject rare tuna spice region onion";

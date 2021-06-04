@@ -1,1 +1,1 @@
-var mnemonic = "treat crowd spot click kit dwarf enjoy board ceiling they term quick";
+var mnemonic = "crisp spray position shadow ladder record kind thank kangaroo ski reduce ordinary";

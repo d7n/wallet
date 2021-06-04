@@ -1,1 +1,1 @@
-var mnemonic = "potato echo sunset renew boring number awesome present point climb network portion";
+var mnemonic = "junk noodle riot flight into produce denial ritual impact ladder master manage";

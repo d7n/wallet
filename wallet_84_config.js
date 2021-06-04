@@ -1,1 +1,1 @@
-var mnemonic = "cloth ritual analyst drink benefit number media crack already strategy chest spike";
+var mnemonic = "require then slam kid mesh slice share fashion decade party apart squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "blind rocket license shallow allow shock wasp warfare ahead dress empty flee";
+var mnemonic = "cushion universe lion actor input glue depend hamster around type autumn coral";

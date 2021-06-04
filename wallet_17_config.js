@@ -1,1 +1,1 @@
-var mnemonic = "hockey monitor school trigger check egg garlic half question angry retreat dry";
+var mnemonic = "congress lens girl canyon romance blouse issue clap time silk fuel fever";

@@ -1,1 +1,1 @@
-var mnemonic = "assault replace sketch valve then valid lava glimpse fire cliff task odor";
+var mnemonic = "expect crash hour supreme snake harbor scrap survey cousin crucial like hip";

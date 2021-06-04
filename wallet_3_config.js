@@ -1,1 +1,1 @@
-var mnemonic = "wolf direct select mind blossom undo board venture soda gauge mansion poverty";
+var mnemonic = "assist diet hub upon special ancient audit segment bean project talent hair";

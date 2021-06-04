@@ -1,1 +1,1 @@
-var mnemonic = "mother famous coach deliver media era october message inflict student forest canoe";
+var mnemonic = "camp stock allow crucial better edit keep charge knee limit case coffee";

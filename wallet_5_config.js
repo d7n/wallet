@@ -1,1 +1,1 @@
-var mnemonic = "eagle thrive hill moral trip blind either angle rocket pretty sorry ramp";
+var mnemonic = "example enlist quiz bridge expand speed knee lock equal thing gift october";

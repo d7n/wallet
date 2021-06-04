@@ -1,1 +1,1 @@
-var mnemonic = "syrup door antique comic call gap welcome evidence sight dry witness journey";
+var mnemonic = "comfort empty rice shell word drive october grit ribbon hand choice fish";

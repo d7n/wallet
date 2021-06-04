@@ -1,1 +1,1 @@
-var mnemonic = "balance wild annual castle mercy deal wedding garbage unveil race swim empty";
+var mnemonic = "attend pen local battle mean dinosaur era gym solid good exclude tissue";

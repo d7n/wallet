@@ -1,1 +1,1 @@
-var mnemonic = "peanut orange draw spoil catalog empower swim era dwarf insect daughter pig";
+var mnemonic = "control aim village steel mass chalk quit session width hero supply street";

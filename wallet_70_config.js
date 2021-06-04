@@ -1,1 +1,1 @@
-var mnemonic = "goat noble castle find trash faculty cube ecology nose uncle carbon right";
+var mnemonic = "bounce issue search zero jar celery same that tennis worry among equip";

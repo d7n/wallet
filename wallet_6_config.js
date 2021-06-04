@@ -1,1 +1,1 @@
-var mnemonic = "enter nuclear piece issue elite exchange bounce impact silly media yard wagon";
+var mnemonic = "bunker multiply project zone burst desk abandon chunk later brown month magnet";

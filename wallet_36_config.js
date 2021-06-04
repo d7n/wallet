@@ -1,1 +1,1 @@
-var mnemonic = "quit ghost evil thank list permit recycle holiday into demise live ensure";
+var mnemonic = "giggle volume rhythm thunder palm alert symbol eager chapter exile hold giggle";

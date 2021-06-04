@@ -1,1 +1,1 @@
-var mnemonic = "excess enhance forward celery typical occur erupt peasant cook moral bacon desert";
+var mnemonic = "engine muscle edit gossip dove success hold zebra pool opera warfare bid";

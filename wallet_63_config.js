@@ -1,1 +1,1 @@
-var mnemonic = "daughter name quiz crawl drink often festival grant finger curious over output";
+var mnemonic = "wife claw below student blind foam current track cycle medal creek fix";

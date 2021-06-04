@@ -1,1 +1,1 @@
-var mnemonic = "tip struggle wrist night sniff style trick december tiger collect used village";
+var mnemonic = "dry spike try term lunch swift cactus rookie scout cram chat spy";

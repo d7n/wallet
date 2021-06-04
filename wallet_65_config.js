@@ -1,1 +1,1 @@
-var mnemonic = "drastic illegal barely giant turkey movie elevator also eight defy jewel alien";
+var mnemonic = "real one ketchup erupt often copper bargain correct mimic patient solve topic";

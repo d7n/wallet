@@ -1,1 +1,1 @@
-var mnemonic = "capable blur warrior agent oak proof beef cost food focus stairs cream";
+var mnemonic = "skin verb hint elder leisure bottom ill jazz travel wedding wheat mother";

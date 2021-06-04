@@ -1,1 +1,1 @@
-var mnemonic = "voyage crush cherry thing gadget giggle trap upper fall team bonus future";
+var mnemonic = "captain often cargo cement vault put document ski update gesture current glare";

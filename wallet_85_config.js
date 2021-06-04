@@ -1,1 +1,1 @@
-var mnemonic = "claw acquire village result ordinary real please symptom bulb mimic expose orient";
+var mnemonic = "can employ pigeon mammal leisure human kitten trial shed abuse laptop own";

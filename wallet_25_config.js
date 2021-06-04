@@ -1,1 +1,1 @@
-var mnemonic = "globe crystal recall annual use elite distance blood vacuum unfair involve bounce";
+var mnemonic = "glue arena resemble hurt used uphold ankle vendor pepper cancel soda candy";

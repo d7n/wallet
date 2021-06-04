@@ -1,1 +1,1 @@
-var mnemonic = "card success skull debate run brush phone steak luxury legal scrub bonus";
+var mnemonic = "fatal post flock exclude federal invite cotton salmon sample utility analyst concert";

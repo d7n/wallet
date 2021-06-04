@@ -1,1 +1,1 @@
-var mnemonic = "decline fox useful welcome thing mail honey sign erase whip begin rabbit";
+var mnemonic = "nature funny shy dizzy tooth garment seek patient clinic exhaust famous proud";

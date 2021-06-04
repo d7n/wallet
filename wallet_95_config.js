@@ -1,1 +1,1 @@
-var mnemonic = "empower fat swallow betray round nature judge cake alert sauce maple flee";
+var mnemonic = "alley sibling exhibit duck minute lemon flag all urge hen bracket glide";

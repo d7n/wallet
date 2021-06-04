@@ -1,1 +1,1 @@
-var mnemonic = "service fiscal hope helmet crack float hazard rib pass joy entire violin";
+var mnemonic = "upper hello model differ silent route horse width lonely base badge outside";

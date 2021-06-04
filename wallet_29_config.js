@@ -1,1 +1,1 @@
-var mnemonic = "face equal evil remove cargo spider jazz retire word anger bachelor coach";
+var mnemonic = "barrel taste kitchen find scale sniff patch panic poverty airport expand spy";

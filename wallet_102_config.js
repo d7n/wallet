@@ -1,1 +1,1 @@
-var mnemonic = "receive leaf disorder come throw pigeon proof rule damage devote wedding hammer";
+var mnemonic = "eagle battle suit inside receive gloom erupt debris damp attitude congress cereal";

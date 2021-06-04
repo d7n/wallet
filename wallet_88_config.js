@@ -1,1 +1,1 @@
-var mnemonic = "summer renew recipe dress guilt obtain suit north egg small cube priority";
+var mnemonic = "split crop render brief refuse violin inch still ticket bamboo lock cross";

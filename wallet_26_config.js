@@ -1,1 +1,1 @@
-var mnemonic = "gadget either exclude raccoon deny settle soup dish ecology bubble beyond sister";
+var mnemonic = "unaware language auction maid palace team august hand about era mass hand";

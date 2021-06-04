@@ -1,1 +1,1 @@
-var mnemonic = "lucky penalty found maximum custom guitar topple start brush what hair brief";
+var mnemonic = "brisk slim airport fiction remind burger mesh ordinary mutual bring laundry pudding";

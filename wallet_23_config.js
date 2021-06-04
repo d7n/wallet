@@ -1,1 +1,1 @@
-var mnemonic = "sugar chunk program phone mountain fortune solid dial ride width keep traffic";
+var mnemonic = "pipe swim market kitten cruel actor advice lounge hood drive will mail";

@@ -1,1 +1,1 @@
-var mnemonic = "now web today rocket assume symptom tip radar trap chronic easily excite";
+var mnemonic = "ankle light resist crouch adult patrol century snack imitate congress custom scissors";

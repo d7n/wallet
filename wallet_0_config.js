@@ -1,1 +1,1 @@
-var mnemonic = "essay wreck river spawn galaxy identify calm link endorse degree combine route";
+var mnemonic = "addict auction moon trend bullet voyage practice indoor reward table crush pig";

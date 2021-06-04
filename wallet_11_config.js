@@ -1,1 +1,1 @@
-var mnemonic = "laundry galaxy page fine tonight human exclude weapon panther potato essence half";
+var mnemonic = "finger mail veteran protect fence gauge cabin indicate shallow ginger upgrade alley";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant naive spike major small they furnace wrist toward neck language duck";
+var mnemonic = "canoe flee tobacco insane accuse jacket vague horn prefer resist chimney tell";

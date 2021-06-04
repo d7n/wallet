@@ -1,1 +1,1 @@
-var mnemonic = "unit solution sphere model scatter kit run tone wealth winner empty sausage";
+var mnemonic = "brain glove wrestle circle boost general invest add dose pool burger grow";

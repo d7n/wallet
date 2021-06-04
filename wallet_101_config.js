@@ -1,1 +1,1 @@
-var mnemonic = "artist mirror top disease pencil film load bunker away put tilt double";
+var mnemonic = "view embark lock shoe assault select silk lock mountain enrich topic phrase";

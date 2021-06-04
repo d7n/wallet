@@ -1,1 +1,1 @@
-var mnemonic = "soul visual scan number cloud rude pool ceiling floor buffalo shield tuition";
+var mnemonic = "clay equal there guess lens often inquiry upon quick loyal border dream";

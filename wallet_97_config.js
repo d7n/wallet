@@ -1,1 +1,1 @@
-var mnemonic = "drip month laptop blast pole chaos alcohol kitten brief athlete speed basic";
+var mnemonic = "town prepare knock attitude return daring seat winter reason creek evil milk";

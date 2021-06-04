@@ -1,1 +1,1 @@
-var mnemonic = "side monster notable wine appear extend hospital champion minute refuse speak famous";
+var mnemonic = "crunch double wreck pupil junk explain budget ketchup chat chef elegant hold";

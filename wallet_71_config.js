@@ -1,1 +1,1 @@
-var mnemonic = "million zebra delay poet one title final sorry chaos file rookie wet";
+var mnemonic = "brisk garage exchange grunt snow arena that inhale visa divide unique suffer";
