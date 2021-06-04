@@ -1,1 +1,1 @@
-var mnemonic = "menu awful use enforce return hundred protect tragic trophy dolphin uphold nature";
+var mnemonic = "ordinary fame pottery virus can ramp recall palace palace lemon clever when";

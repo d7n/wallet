@@ -1,1 +1,1 @@
-var mnemonic = "among trouble between conduct siege tower village differ false push true please";
+var mnemonic = "six foam toast lawsuit attract obvious cabin nominee maze lyrics average cover";

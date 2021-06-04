@@ -1,1 +1,1 @@
-var mnemonic = "still extra word lottery play proud minimum sport advice scare camera engage";
+var mnemonic = "north trial grit table daring peasant confirm skill maid demand poem crash";

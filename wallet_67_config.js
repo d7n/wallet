@@ -1,1 +1,1 @@
-var mnemonic = "carry connect barely rhythm trumpet scale seminar priority country rabbit choose dinner";
+var mnemonic = "lemon album spider orchard motor come identify record breeze party dinner motor";

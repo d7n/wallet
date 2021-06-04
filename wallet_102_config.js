@@ -1,1 +1,1 @@
-var mnemonic = "voice junk ignore high item snake pair parrot reunion blame media convince";
+var mnemonic = "heart emerge list enact depart tiny bounce kind own under milk taste";

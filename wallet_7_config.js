@@ -1,1 +1,1 @@
-var mnemonic = "adult shine bonus canoe enforce rotate glass rebuild sustain faculty strike liquid";
+var mnemonic = "burger crazy pyramid order jump diamond pioneer script giant legal travel village";

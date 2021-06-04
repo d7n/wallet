@@ -1,1 +1,1 @@
-var mnemonic = "accuse group pilot corn goose adult weird floor medal dust never usual";
+var mnemonic = "soup brother magnet salt onion neglect survey saddle tip arctic inside patrol";

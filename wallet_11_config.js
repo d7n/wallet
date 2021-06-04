@@ -1,1 +1,1 @@
-var mnemonic = "flavor eternal civil credit worth dream round member shallow bomb bronze soldier";
+var mnemonic = "awake secret smoke square absurd cliff chicken scissors minimum lens soup north";

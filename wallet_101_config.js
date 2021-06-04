@@ -1,1 +1,1 @@
-var mnemonic = "flame diesel anger night relief bottom sadness amused green gasp soul old";
+var mnemonic = "glory tooth poem over fragile another segment squirrel piano control uniform program";

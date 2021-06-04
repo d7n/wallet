@@ -1,1 +1,1 @@
-var mnemonic = "film decide sword case sand lazy diagram glory huge sport stand radio";
+var mnemonic = "figure close file current ensure desert enlist menu enough december east local";

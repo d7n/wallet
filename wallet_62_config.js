@@ -1,1 +1,1 @@
-var mnemonic = "elite junk reward forward witness scene lunch regular advance index knife liquid";
+var mnemonic = "twist very smooth royal orchard relief crisp frog muffin siren brand anchor";

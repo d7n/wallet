@@ -1,1 +1,1 @@
-var mnemonic = "cable crater level excuse advance another intact slice express stove leaf vacuum";
+var mnemonic = "gun figure about upon turn shoot belt glimpse ankle walnut forest mobile";

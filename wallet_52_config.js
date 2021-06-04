@@ -1,1 +1,1 @@
-var mnemonic = "just away myth arrive normal tackle divorce ostrich discover outdoor melt solid";
+var mnemonic = "desk mechanic recipe matter ketchup few jaguar peanut bike ginger interest hammer";

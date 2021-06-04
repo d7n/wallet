@@ -1,1 +1,1 @@
-var mnemonic = "naive prosper screen burger husband submit absurd anchor settle move romance choice";
+var mnemonic = "razor guitar hurt pig portion edge flash aisle okay great poem manage";

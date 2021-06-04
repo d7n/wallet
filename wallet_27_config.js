@@ -1,1 +1,1 @@
-var mnemonic = "still toy host team excite merry shy fuel random february gather ship";
+var mnemonic = "squeeze correct habit access trigger two retire draft bronze ordinary acoustic valve";

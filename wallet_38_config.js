@@ -1,1 +1,1 @@
-var mnemonic = "ordinary luggage accuse average chat cost spirit curious fringe teach cake chuckle";
+var mnemonic = "grab hockey sing police pen they scale boost short exit purse pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "salute leisure sauce february gold crystal trim benefit order purpose stick parade";
+var mnemonic = "asthma antenna upset bounce thumb more dad knee mammal piano impact gauge";

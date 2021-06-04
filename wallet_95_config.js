@@ -1,1 +1,1 @@
-var mnemonic = "kitten siren jazz gap act dad salad afford absurd coffee negative quit";
+var mnemonic = "entire federal funny panel drift play glide six final voyage already panel";

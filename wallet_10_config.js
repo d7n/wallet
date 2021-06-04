@@ -1,1 +1,1 @@
-var mnemonic = "movie matter drop aerobic hard jungle crane noodle blue viable blanket million";
+var mnemonic = "ten task exact owner spider drum hub broom artwork author retire tired";

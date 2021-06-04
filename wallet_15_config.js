@@ -1,1 +1,1 @@
-var mnemonic = "giggle agree question cactus slight endless fancy boil banana vault congress volcano";
+var mnemonic = "stool virus picture deer spare art impact attend spatial void spatial bind";

@@ -1,1 +1,1 @@
-var mnemonic = "egg embark aim biology modify add bamboo pen sudden jeans lyrics census";
+var mnemonic = "holiday other game index tonight ill mother bind endless rich achieve modify";

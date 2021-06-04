@@ -1,1 +1,1 @@
-var mnemonic = "accident bless voyage chief wolf trash brisk leisure shallow seven delay use";
+var mnemonic = "fame erode wet machine nature general tired alone hockey session episode firm";

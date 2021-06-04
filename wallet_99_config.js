@@ -1,1 +1,1 @@
-var mnemonic = "park sting cable flat suit fall magnet inmate photo minimum casual favorite";
+var mnemonic = "hidden gravity sentence oyster clay brush isolate element upon upgrade unit photo";

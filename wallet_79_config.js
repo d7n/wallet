@@ -1,1 +1,1 @@
-var mnemonic = "proof liar say method pear invest easily peasant length tongue photo material";
+var mnemonic = "prefer oyster require attract mean decide deposit report disorder try flee crime";

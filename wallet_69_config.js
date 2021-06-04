@@ -1,1 +1,1 @@
-var mnemonic = "lens grocery game marine have topic reopen write remove door anchor hurry";
+var mnemonic = "kitten forget curtain practice two custom open pottery talent climb three shed";

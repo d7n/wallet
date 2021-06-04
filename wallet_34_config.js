@@ -1,1 +1,1 @@
-var mnemonic = "grid remove emotion mule annual cabbage cattle boring menu craft oxygen sunset";
+var mnemonic = "emerge airport solar prison diary swing step idea penalty behave short life";

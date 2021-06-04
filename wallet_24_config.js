@@ -1,1 +1,1 @@
-var mnemonic = "tobacco usage fee attract bundle pigeon seat until coil fury misery dentist";
+var mnemonic = "recipe unit shadow inflict trend vast lawn essence kick corn chat intact";

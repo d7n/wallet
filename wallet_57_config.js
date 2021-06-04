@@ -1,1 +1,1 @@
-var mnemonic = "state begin kid tomato kind creek two hundred upon head tunnel social";
+var mnemonic = "fruit weather camera rifle hole fresh basket remove wire future boost runway";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon narrow coral pair two pistol sponsor genuine carry crazy crucial safe";
+var mnemonic = "strike december often olympic liar spread history focus strong trend giggle essay";

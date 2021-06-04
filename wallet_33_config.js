@@ -1,1 +1,1 @@
-var mnemonic = "only fence reward shell copy winter save possible globe recipe galaxy cycle";
+var mnemonic = "live physical inform maid fatigue region stumble jacket idle embark short crack";

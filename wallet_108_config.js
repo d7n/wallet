@@ -1,1 +1,1 @@
-var mnemonic = "fiscal core decide ribbon gate absorb fish huge danger just magnet above";
+var mnemonic = "digital excite join rain early fashion clerk differ galaxy special live dynamic";

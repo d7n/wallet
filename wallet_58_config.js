@@ -1,1 +1,1 @@
-var mnemonic = "tower hollow father bronze frown battle eye concert bulb purpose canoe skin";
+var mnemonic = "bottom ship stable base weather oxygen gloom across eternal then soldier shift";

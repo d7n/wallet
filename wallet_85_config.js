@@ -1,1 +1,1 @@
-var mnemonic = "ranch tube rapid human frost enhance unable rice mother husband kiwi brand";
+var mnemonic = "velvet cook cheap tooth toss remind tragic midnight vital slam velvet muscle";

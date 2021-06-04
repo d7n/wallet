@@ -1,1 +1,1 @@
-var mnemonic = "success cross unhappy media ginger level crazy robot link bind curtain you";
+var mnemonic = "check mistake food garden certain barrel apple dizzy resist label copy ability";

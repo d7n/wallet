@@ -1,1 +1,1 @@
-var mnemonic = "circle furnace mansion various exhibit cart run card universe pottery special fan";
+var mnemonic = "spare piece crystal boss fee wash differ time dwarf utility boy spike";

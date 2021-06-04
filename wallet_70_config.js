@@ -1,1 +1,1 @@
-var mnemonic = "next goose tiny enter gravity divide glare old doll family income echo";
+var mnemonic = "despair charge marine remove friend guilt champion profit fitness shuffle snap clutch";

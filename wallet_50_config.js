@@ -1,1 +1,1 @@
-var mnemonic = "health shove misery relief tourist network choose eyebrow hub flush later steak";
+var mnemonic = "reject black neck window know easy merry earn someone quiz fee antenna";

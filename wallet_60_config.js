@@ -1,1 +1,1 @@
-var mnemonic = "blossom vibrant talent hollow planet desert rely senior west fuel tongue hybrid";
+var mnemonic = "example mosquito label truck know apple movie sea road outer crane ladder";

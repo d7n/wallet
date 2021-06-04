@@ -1,1 +1,1 @@
-var mnemonic = "upgrade awful clerk slender oblige service carpet menu law popular auction veteran";
+var mnemonic = "buzz essay vacuum brush glory frown humble repeat agree produce repair enroll";

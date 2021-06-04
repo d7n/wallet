@@ -1,1 +1,1 @@
-var mnemonic = "super course flavor shop blur culture broken minimum six pulp real valley";
+var mnemonic = "divorce used wealth hurry prosper culture young country impact mechanic awkward gap";

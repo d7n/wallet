@@ -1,1 +1,1 @@
-var mnemonic = "climb clerk tilt next evolve wealth burden junior acoustic dry session stage";
+var mnemonic = "palace check evil express topple junior mammal seven small pulp edit sunset";

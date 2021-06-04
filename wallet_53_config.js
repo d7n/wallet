@@ -1,1 +1,1 @@
-var mnemonic = "swarm worth member roast visual length vintage media obscure mobile ask inform";
+var mnemonic = "ride cry rug example work ski time glass piece bless electric banner";

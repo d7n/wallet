@@ -1,1 +1,1 @@
-var mnemonic = "claim solid label voyage trick shy pass mobile old moon boy entire";
+var mnemonic = "vote dice output virtual siege message faith release fork ski magic aerobic";

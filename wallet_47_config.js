@@ -1,1 +1,1 @@
-var mnemonic = "curious cluster camera library damp case job asthma flavor want ability crowd";
+var mnemonic = "nose segment chair clog add aim dizzy method tuna slogan cabin bubble";

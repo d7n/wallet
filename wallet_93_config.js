@@ -1,1 +1,1 @@
-var mnemonic = "salon syrup sun atom rain access happy lobster brother wire link thank";
+var mnemonic = "range paddle cage best resist glad stage orbit other stage hundred salad";

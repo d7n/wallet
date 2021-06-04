@@ -1,1 +1,1 @@
-var mnemonic = "club eyebrow gun retreat goddess police peanut pony planet army blast fire";
+var mnemonic = "negative photo allow struggle ride grow wish trumpet add isolate abandon green";

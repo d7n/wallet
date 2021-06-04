@@ -1,1 +1,1 @@
-var mnemonic = "federal ranch torch sauce dilemma travel liar vehicle wave yellow kiss hobby";
+var mnemonic = "top put swap slide power know pact avocado boring income cement response";

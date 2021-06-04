@@ -1,1 +1,1 @@
-var mnemonic = "kid crawl mandate poet six mouse lens loyal such spend current toilet";
+var mnemonic = "rocket enjoy never tenant empower quantum kidney find leisure page mass pool";

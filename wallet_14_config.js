@@ -1,1 +1,1 @@
-var mnemonic = "soccer suffer symptom fish demise system family raven come abuse physical crowd";
+var mnemonic = "absurd also stable wine point stool switch exercise fit digital shoe address";

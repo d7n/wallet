@@ -1,1 +1,1 @@
-var mnemonic = "voice female laugh toward tennis lava oven creek eager wish perfect filter";
+var mnemonic = "episode nut submit ugly theory dog local real layer hungry become initial";

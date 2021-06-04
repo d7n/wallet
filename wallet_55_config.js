@@ -1,1 +1,1 @@
-var mnemonic = "ridge rate fan viable friend dance cinnamon funny hurdle picnic mammal remind";
+var mnemonic = "tooth between spirit donkey exile state now truly say science fence range";

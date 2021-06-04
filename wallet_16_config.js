@@ -1,1 +1,1 @@
-var mnemonic = "soccer sustain flee remove rigid depth blossom scout salad awake rule frozen";
+var mnemonic = "city casino cage thank beef cliff transfer usage trip noble impact slush";

@@ -1,1 +1,1 @@
-var mnemonic = "employ rebel pipe weapon nature olympic say sunny birth helmet reason almost";
+var mnemonic = "bridge proud kangaroo rebel shell turtle bid use unit issue alone confirm";

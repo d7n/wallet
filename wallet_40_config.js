@@ -1,1 +1,1 @@
-var mnemonic = "wire coffee eagle hurt kingdom negative course loyal grocery type essence auction";
+var mnemonic = "canoe stone area garlic sphere hawk company subway abstract task confirm flavor";

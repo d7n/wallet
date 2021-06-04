@@ -1,1 +1,1 @@
-var mnemonic = "garbage obey kitten earn girl evoke misery infant dinner kidney girl night";
+var mnemonic = "shell cover jewel model shop text sugar promote monster silent property someone";

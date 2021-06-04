@@ -1,1 +1,1 @@
-var mnemonic = "spawn enter couple spirit destroy salmon cram cover strategy mouse sister original";
+var mnemonic = "panic angry nephew case beach measure govern course second accuse minute blame";

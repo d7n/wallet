@@ -1,1 +1,1 @@
-var mnemonic = "round globe use plate have absent void injury meat hope produce core";
+var mnemonic = "floor nuclear peanut void fan rough fuel shock face vintage punch bonus";

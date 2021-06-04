@@ -1,1 +1,1 @@
-var mnemonic = "very rib torch trial inject movie edge slot accuse urban evoke toss";
+var mnemonic = "flame salad twin cement insane make junk plug dinner apart certain ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "ill source siege volume near safe crater bronze kiss hybrid word ginger";
+var mnemonic = "shuffle thumb farm network future swear autumn transfer toddler hungry keep eagle";

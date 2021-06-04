@@ -1,1 +1,1 @@
-var mnemonic = "affair exhaust long lava error future yellow ceiling era utility eye umbrella";
+var mnemonic = "day fluid nut harbor range arrest review long waste bleak tide churn";

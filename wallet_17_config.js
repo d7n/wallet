@@ -1,1 +1,1 @@
-var mnemonic = "junk crater invite bring burden soon shove ask control know alpha person";
+var mnemonic = "hat rice economy either badge garage puppy alarm action rule pioneer virus";

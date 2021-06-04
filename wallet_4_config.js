@@ -1,1 +1,1 @@
-var mnemonic = "unit mother kangaroo dash defense system code lazy sad adapt program scout";
+var mnemonic = "base morning relief absorb pizza wasp coin orchard december position combine ketchup";

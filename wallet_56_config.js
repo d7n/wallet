@@ -1,1 +1,1 @@
-var mnemonic = "action fold twin rabbit dial empty toilet barely notable pudding glass effort";
+var mnemonic = "pepper member angry arctic fantasy public float pipe female connect arch orange";

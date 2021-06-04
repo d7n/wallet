@@ -1,1 +1,1 @@
-var mnemonic = "vapor decorate exact boil borrow sound dust undo chair cream transfer rhythm";
+var mnemonic = "wheat goose behave theme supreme chronic limit table maid dolphin limb chase";

@@ -1,1 +1,1 @@
-var mnemonic = "wife faculty essay merit effort bar that memory undo embrace opera vague";
+var mnemonic = "anchor excuse behind grid trim tomato squeeze neutral echo quit bunker absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "quote maple radio budget cherry tornado quality verb galaxy mammal bid month";
+var mnemonic = "maximum soap amount canyon bag amateur cover picture oak deal globe nuclear";

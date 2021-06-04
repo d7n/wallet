@@ -1,1 +1,1 @@
-var mnemonic = "gorilla wheel cheese shell worry snack wrist endless parrot surface concert drill";
+var mnemonic = "autumn tag spend trigger just battle enter already scrap staff fitness original";

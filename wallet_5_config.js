@@ -1,1 +1,1 @@
-var mnemonic = "involve hub drip fiber bar nuclear crane leave wheat broken round cupboard";
+var mnemonic = "hero thumb tobacco chair armed witness flush organ quarter zoo dust angle";

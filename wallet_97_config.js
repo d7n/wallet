@@ -1,1 +1,1 @@
-var mnemonic = "eager garden clean elephant inject garden setup chuckle bean scheme solid desk";
+var mnemonic = "run material accuse garment goddess derive spray ecology grass agree zero exit";

@@ -1,1 +1,1 @@
-var mnemonic = "twice polar narrow trigger arm figure word bench very define matter require";
+var mnemonic = "other festival anxiety jacket quote snake cancel slam volcano afraid flip pact";

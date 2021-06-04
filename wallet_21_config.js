@@ -1,1 +1,1 @@
-var mnemonic = "original fabric doctor moon alpha check obvious olympic saddle goat cart cactus";
+var mnemonic = "auto try reduce mouse round donkey wise february animal brass tuition wear";

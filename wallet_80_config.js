@@ -1,1 +1,1 @@
-var mnemonic = "want labor decade early stone convince riot tiger smart amazing curious laugh";
+var mnemonic = "palm excuse parent dial scare fluid penalty original penalty stumble insane hungry";

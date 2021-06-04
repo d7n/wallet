@@ -1,1 +1,1 @@
-var mnemonic = "else garlic wave giant edit inch merry plastic whip middle nature merit";
+var mnemonic = "change join stock state fish stumble enemy steak model yellow tunnel skill";

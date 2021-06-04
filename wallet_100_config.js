@@ -1,1 +1,1 @@
-var mnemonic = "inform shove skirt drama exit neither wasp gospel raise aim ankle cupboard";
+var mnemonic = "rate blossom throw into health fame solid cram chef detect letter carbon";

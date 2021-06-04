@@ -1,1 +1,1 @@
-var mnemonic = "example excite cave surge bird science leisure drastic measure empower lawn dress";
+var mnemonic = "remain mistake smoke sock arctic canvas soldier various wrap width crack census";

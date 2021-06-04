@@ -1,1 +1,1 @@
-var mnemonic = "bullet hurdle bid tortoise ride path school mail cargo bamboo drift pass";
+var mnemonic = "curve utility prefer omit music advice squirrel merit carbon punch process kingdom";

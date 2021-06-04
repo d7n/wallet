@@ -1,1 +1,1 @@
-var mnemonic = "fashion ability accident crowd diagram ostrich symptom rebel neutral pelican congress diamond";
+var mnemonic = "theory panel prison field shoot crop race record hope ghost problem reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar wisdom just ignore violin control lottery because radar section desk end";
+var mnemonic = "point vote trade broccoli other congress dwarf cute raccoon between space poem";

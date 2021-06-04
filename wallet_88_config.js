@@ -1,1 +1,1 @@
-var mnemonic = "patch honey economy drill follow abstract denial express sort minor fringe midnight";
+var mnemonic = "silk audit interest fade detail nation young unfold bird library best glue";

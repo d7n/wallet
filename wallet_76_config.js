@@ -1,1 +1,1 @@
-var mnemonic = "endorse kidney hub lobster tool uncle amateur fat payment clinic coyote ski";
+var mnemonic = "gravity celery what meat execute boost barely prize purchase gauge deliver finger";

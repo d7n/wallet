@@ -1,1 +1,1 @@
-var mnemonic = "favorite ice tobacco unique peanut sleep struggle better dove dream comfort shell";
+var mnemonic = "car enhance sorry isolate kangaroo notice trumpet vital resist learn transfer minor";

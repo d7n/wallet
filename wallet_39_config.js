@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon crane bone lottery antenna health valid error quick tooth banner grape";
+var mnemonic = "where siren kick mandate enjoy ride weather cupboard decide fantasy galaxy deny";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter entire yard girl dice end siege onion tube blood bicycle business";
+var mnemonic = "elephant dinner denial code basic damage wire dish awkward hobby foil can";

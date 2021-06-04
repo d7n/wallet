@@ -1,1 +1,1 @@
-var mnemonic = "float marble upon level color social transfer swim tornado whip milk replace";
+var mnemonic = "response erupt team yard embark copy long wage grunt zero must shove";

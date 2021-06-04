@@ -1,1 +1,1 @@
-var mnemonic = "put repair stuff stomach announce right impact just position arrange citizen actress";
+var mnemonic = "basic list dice order coconut welcome involve finish display fancy pill team";

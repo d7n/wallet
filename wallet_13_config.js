@@ -1,1 +1,1 @@
-var mnemonic = "steak album ready tornado trigger primary elephant broken project hurry grow loud";
+var mnemonic = "dentist super fiscal rack woman inhale chase electric unveil regret game divorce";

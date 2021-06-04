@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow dust position guard ignore liberty again maple nominee coil slot host";
+var mnemonic = "picture better someone churn window split thing region inquiry hurdle tattoo fat";

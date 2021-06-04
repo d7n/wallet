@@ -1,1 +1,1 @@
-var mnemonic = "ride mistake coyote build mean dirt proof ridge ancient caution light element";
+var mnemonic = "laundry surprise pond announce phone valve muscle empower hero upset tooth air";

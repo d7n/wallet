@@ -1,1 +1,1 @@
-var mnemonic = "enact wide stable police erosion emerge jungle saddle test exit imitate opera";
+var mnemonic = "ball debate supreme tissue two okay body multiply hub planet increase foster";

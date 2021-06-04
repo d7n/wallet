@@ -1,1 +1,1 @@
-var mnemonic = "intact february drip journey employ able notable fury fat honey super find";
+var mnemonic = "soldier cabbage human sadness during next soda exile agent erode library exhaust";

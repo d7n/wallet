@@ -1,1 +1,1 @@
-var mnemonic = "foster discover machine screen universe exhibit diamond manual blossom display room fence";
+var mnemonic = "dizzy cheap insect parent custom way dragon garbage muffin equip project polar";

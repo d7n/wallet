@@ -1,1 +1,1 @@
-var mnemonic = "spread garden include trick someone repeat join issue crater trophy power turtle";
+var mnemonic = "finish head razor dinosaur gesture immune comic private project stove frost among";

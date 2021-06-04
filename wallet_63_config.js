@@ -1,1 +1,1 @@
-var mnemonic = "use strong blanket together job split satoshi oppose repeat bid because truth";
+var mnemonic = "custom bike mistake culture nasty school grief abuse silver aerobic busy peanut";

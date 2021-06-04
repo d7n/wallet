@@ -1,1 +1,1 @@
-var mnemonic = "hospital damp business second frown supply member tobacco endless time country genre";
+var mnemonic = "inherit good join fatal reveal bulk burger urge unable frequent bean stuff";
