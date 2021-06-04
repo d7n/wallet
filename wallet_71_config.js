@@ -1,1 +1,1 @@
-var mnemonic = "absurd pluck problem future detail wish material fatigue devote bacon guard electric";
+var mnemonic = "fury brother dismiss train abuse echo swing ivory enable grunt garbage scare";

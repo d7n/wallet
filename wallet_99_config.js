@@ -1,1 +1,1 @@
-var mnemonic = "coyote move addict rug tray fever liberty grant exist obey decline pattern";
+var mnemonic = "portion image artwork cousin stamp visa february nuclear have coin tool radar";

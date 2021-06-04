@@ -1,1 +1,1 @@
-var mnemonic = "render sail equal shrimp amazing cheese cover game rack egg large blame";
+var mnemonic = "page half theory armed key blood cream jungle task mercy risk shop";

@@ -1,1 +1,1 @@
-var mnemonic = "illness feed arrive slab nature exist purse genre grid similar ladder power";
+var mnemonic = "shock clog tell excuse lecture moral firm actress spare bargain hazard height";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch tray drama title today oblige ghost apple bomb since kite marine";
+var mnemonic = "trouble orbit solution capital plunge teach recipe exile raccoon task curious autumn";

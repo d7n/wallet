@@ -1,1 +1,1 @@
-var mnemonic = "skull humble turn arrow thing slush arm echo defy ridge picture capital";
+var mnemonic = "essence excess proof nature access supply regret armor diamond order dirt sting";

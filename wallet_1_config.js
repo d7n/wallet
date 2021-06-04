@@ -1,1 +1,1 @@
-var mnemonic = "hold merge almost garbage bundle divorce melt speed punch night shallow suit";
+var mnemonic = "force dolphin option engine path clever more thank divorce then labor range";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper inside cake achieve absurd enjoy dog vapor derive know foster spike";
+var mnemonic = "resist hurry slow approve useful robot club sun bike render cycle treat";

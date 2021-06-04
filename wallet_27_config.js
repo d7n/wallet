@@ -1,1 +1,1 @@
-var mnemonic = "accident example path cushion essay pledge health ticket tonight stock buyer frown";
+var mnemonic = "gas melody chief ghost game dial similar scare clinic tuition round narrow";

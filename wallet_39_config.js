@@ -1,1 +1,1 @@
-var mnemonic = "genius gasp eight corn oil spin shield kitchen include benefit flat whale";
+var mnemonic = "major october put damage sword tape tired velvet disagree avoid jeans roof";

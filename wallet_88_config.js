@@ -1,1 +1,1 @@
-var mnemonic = "employ similar endorse tackle plastic suspect hold muffin viable tackle direct year";
+var mnemonic = "truth problem unveil effort crew weasel breeze fork shrimp hamster poverty proud";

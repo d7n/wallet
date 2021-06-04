@@ -1,1 +1,1 @@
-var mnemonic = "near essence thank armor arctic eager observe inside desk enough soon correct";
+var mnemonic = "grab core carpet forget ensure dune flock salute prize burst top purchase";

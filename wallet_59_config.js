@@ -1,1 +1,1 @@
-var mnemonic = "cup silk sand siege spider noodle spare raise spoil eagle reform inject";
+var mnemonic = "attract bargain brief gloom pulp firm patient tattoo doll sell idea income";

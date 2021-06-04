@@ -1,1 +1,1 @@
-var mnemonic = "cargo torch elder march concert usual sustain genre peace thing coil trim";
+var mnemonic = "gather announce giggle symbol insect outside gravity zoo same priority gesture brisk";

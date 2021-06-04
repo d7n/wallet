@@ -1,1 +1,1 @@
-var mnemonic = "tonight carpet private person marine song march brown employ copy core enlist";
+var mnemonic = "donate visa drip smoke flight firm sauce cement slender sorry blind key";

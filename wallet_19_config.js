@@ -1,1 +1,1 @@
-var mnemonic = "bleak work blame flash sure middle soon harvest drive immense cube subject";
+var mnemonic = "shadow bench file parent save great sell ridge pottery extend select evidence";

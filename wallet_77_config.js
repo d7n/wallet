@@ -1,1 +1,1 @@
-var mnemonic = "brass hunt trip discover slender leg famous bunker window economy style anchor";
+var mnemonic = "cross evil hat coin echo genuine glass muscle detect jealous brisk monkey";

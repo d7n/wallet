@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit trend deposit roast clay accident cave wear brand artwork float broom";
+var mnemonic = "funny rude mango relief mean during choice offer robot setup panda thank";

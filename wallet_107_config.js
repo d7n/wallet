@@ -1,1 +1,1 @@
-var mnemonic = "palm bleak bind require bridge harvest feed sausage around day thunder general";
+var mnemonic = "crazy filter material job forget suspect solution spread tool coast attack citizen";

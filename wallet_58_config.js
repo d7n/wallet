@@ -1,1 +1,1 @@
-var mnemonic = "dish seat come blood nut hazard pear knock crisp unable catch trial";
+var mnemonic = "length select tragic kid rail cheese slab walnut excess phone cook casual";

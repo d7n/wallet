@@ -1,1 +1,1 @@
-var mnemonic = "road veteran story sun brass path excess patient undo ethics language scatter";
+var mnemonic = "funny salmon inside finger clump veteran enrich garden cheap style year margin";

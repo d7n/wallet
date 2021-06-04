@@ -1,1 +1,1 @@
-var mnemonic = "country online artist video dog bracket worry perfect parade caught cave height";
+var mnemonic = "recall mix heart large other filter distance client notable cactus hunt frost";

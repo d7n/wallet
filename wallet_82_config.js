@@ -1,1 +1,1 @@
-var mnemonic = "entire convince peasant sketch hood candy banana correct gym rifle fuel observe";
+var mnemonic = "intact over guitar essay tongue domain valve matter elite envelope drama rely";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon life vibrant donkey garlic bridge brave outer term lottery post victory";
+var mnemonic = "grit fox sock observe park antenna raven brain trash chronic park draft";

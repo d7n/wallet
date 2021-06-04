@@ -1,1 +1,1 @@
-var mnemonic = "clip drip view that embark wife shift talent pass account broom tragic";
+var mnemonic = "keep cradle true general citizen journey same raw million emerge hard grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "woman vessel access damage pencil portion proof illness alien south half team";
+var mnemonic = "impact alert inform pizza aim way misery exclude absorb tennis bean twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "open shell between practice latin client wait question window shuffle disorder auction";
+var mnemonic = "fragile cash creek song fabric lion fame general dog service usage spring";

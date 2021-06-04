@@ -1,1 +1,1 @@
-var mnemonic = "shop deny pony sense repeat fine mixed bag wagon oxygen off security";
+var mnemonic = "come update kid utility still acquire stomach tray crystal steak mandate case";

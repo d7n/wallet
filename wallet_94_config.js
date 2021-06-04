@@ -1,1 +1,1 @@
-var mnemonic = "ridge unusual forget burden parent mail merit reject shove leader tortoise hazard";
+var mnemonic = "off fork pass major paddle chuckle faculty balance eagle erosion penalty during";

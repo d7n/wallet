@@ -1,1 +1,1 @@
-var mnemonic = "faint ice then eye bus owner robot beyond saddle hard mercy pumpkin";
+var mnemonic = "strong rule nurse scan black symptom island begin throw tape elegant discover";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion labor moon runway mutual term urban hawk vocal hedgehog frozen width";
+var mnemonic = "exercise later near list wool emotion unable upper ramp wing recycle caught";

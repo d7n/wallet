@@ -1,1 +1,1 @@
-var mnemonic = "climb maid ranch another ankle lens hub shoulder talk album tiny mango";
+var mnemonic = "viable call velvet demise harvest sight device rice example sample surge robust";

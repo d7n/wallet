@@ -1,1 +1,1 @@
-var mnemonic = "employ solve apart surround trick easily abandon vocal require wonder lottery record";
+var mnemonic = "unique pear photo emotion current creek odor shock kiss unfold must agent";

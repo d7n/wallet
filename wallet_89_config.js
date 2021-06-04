@@ -1,1 +1,1 @@
-var mnemonic = "surge siren elephant hat grow soup width scan ridge bleak clarify decide";
+var mnemonic = "report thrive wealth cousin anxiety peanut canvas rely move cash prefer smile";

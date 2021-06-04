@@ -1,1 +1,1 @@
-var mnemonic = "conduct coil suggest raw noble disease toy provide diagram math child follow";
+var mnemonic = "achieve wage eternal duck size shine then identify reveal account dentist smoke";

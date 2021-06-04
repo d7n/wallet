@@ -1,1 +1,1 @@
-var mnemonic = "hub license dash sand large resemble unable twice spoil oil lyrics comic";
+var mnemonic = "hour pause allow canal afraid coin survey raccoon rotate dune sing banana";

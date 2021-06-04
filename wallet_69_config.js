@@ -1,1 +1,1 @@
-var mnemonic = "private garden drop stock draw viable insect fruit document sport domain winner";
+var mnemonic = "pass innocent wink verb require excuse behave name comic rhythm drastic dwarf";

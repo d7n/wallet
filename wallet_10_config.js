@@ -1,1 +1,1 @@
-var mnemonic = "category group ignore school public caution then curious outdoor street coach minor";
+var mnemonic = "alpha bundle problem culture chalk switch shadow include pole hip trust flat";

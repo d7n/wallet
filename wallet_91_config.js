@@ -1,1 +1,1 @@
-var mnemonic = "wish music sick crystal empty mirror outdoor oak regular review nest cabin";
+var mnemonic = "chunk ticket prevent wolf security trap senior whisper skate pause chimney drip";

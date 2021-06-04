@@ -1,1 +1,1 @@
-var mnemonic = "shuffle among output tennis quote ramp choose scan chief retire warrior blue";
+var mnemonic = "rely page wage recycle menu donor loan typical clinic remain hip shaft";

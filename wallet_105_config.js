@@ -1,1 +1,1 @@
-var mnemonic = "caught bunker weasel advice victory shadow achieve alley draw ski keen surface";
+var mnemonic = "combine trash crater stock anger drum rule legal vapor hope vendor come";

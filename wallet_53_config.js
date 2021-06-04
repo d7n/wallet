@@ -1,1 +1,1 @@
-var mnemonic = "caution anchor cannon setup enhance shadow material gossip major attitude senior choose";
+var mnemonic = "happy script rich exotic lottery dutch soon dust young fetch clip chest";

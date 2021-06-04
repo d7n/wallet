@@ -1,1 +1,1 @@
-var mnemonic = "nature trust gold dutch decide action jewel vintage blouse armor discover chief";
+var mnemonic = "neither aspect divert axis wheel another slab wife more junior tissue swamp";

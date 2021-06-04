@@ -1,1 +1,1 @@
-var mnemonic = "rain mobile clock print clean staff luggage indoor cloud ahead angle champion";
+var mnemonic = "advance orient hope exist endorse captain timber tuna wealth flower there flip";

@@ -1,1 +1,1 @@
-var mnemonic = "brave forward spawn razor mystery urge front valley sword domain phone weapon";
+var mnemonic = "course swamp swamp frozen change mind code badge popular danger hospital able";

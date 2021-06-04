@@ -1,1 +1,1 @@
-var mnemonic = "blossom sun file catch swear market digital lottery helmet juice patch armor";
+var mnemonic = "comic apart scan flash biology fatal bacon rely panel few evoke merge";

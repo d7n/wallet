@@ -1,1 +1,1 @@
-var mnemonic = "finger save wrist domain reveal scissors garage giraffe phrase satoshi innocent oak";
+var mnemonic = "puppy curtain culture leopard silk day truth follow hunt outside raven give";

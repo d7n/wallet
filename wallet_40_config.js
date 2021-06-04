@@ -1,1 +1,1 @@
-var mnemonic = "option negative random vapor discover depend path earn lounge sample deal cycle";
+var mnemonic = "match easily cry base need genuine run edge giant broken frost kitten";

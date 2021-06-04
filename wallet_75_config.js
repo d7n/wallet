@@ -1,1 +1,1 @@
-var mnemonic = "agent prosper shuffle victory rebel woman pear promote dynamic endorse sound warfare";
+var mnemonic = "fabric insect project yard guitar under problem venue spice can join bacon";

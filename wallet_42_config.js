@@ -1,1 +1,1 @@
-var mnemonic = "inflict volcano average settle agent blast tide eternal slab bachelor either this";
+var mnemonic = "style drama glue trick judge control coral cup please mass ignore cable";

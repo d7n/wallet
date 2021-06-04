@@ -1,1 +1,1 @@
-var mnemonic = "legal climb mask crane strike dream month bitter manual adjust custom quantum";
+var mnemonic = "beach heavy lady project spot odor legend wife grit banana awake aisle";

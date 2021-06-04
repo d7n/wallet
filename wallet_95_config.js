@@ -1,1 +1,1 @@
-var mnemonic = "arrange fever mystery push solve cart card chicken elite parrot hard nest";
+var mnemonic = "exchange artefact gallery flush media spend deer visit scare essence actress cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe prefer essay nation logic gauge galaxy garden spot mosquito era sand";
+var mnemonic = "print wolf fence absurd shock attack goose seed creek more false digital";

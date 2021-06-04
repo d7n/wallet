@@ -1,1 +1,1 @@
-var mnemonic = "venture eternal grass guide rug swamp castle there have monster age couch";
+var mnemonic = "polar appear grape kitten notice rare cricket speed popular weather fly rough";

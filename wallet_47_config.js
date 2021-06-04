@@ -1,1 +1,1 @@
-var mnemonic = "cruise service love position indoor alley section brain bench drama hope prevent";
+var mnemonic = "pigeon unfold avoid cotton leopard notable absent initial only slot begin able";

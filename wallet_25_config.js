@@ -1,1 +1,1 @@
-var mnemonic = "just local crisp attitude under increase seek spend betray bar feel save";
+var mnemonic = "brisk shock easily like used drive tent slender affair boss portion mule";

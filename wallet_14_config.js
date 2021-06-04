@@ -1,1 +1,1 @@
-var mnemonic = "view seek rebel volume dismiss organ injury ice name survey crane tube";
+var mnemonic = "expand siren quick can ring inject secret nose urban own achieve climb";

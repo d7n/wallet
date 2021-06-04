@@ -1,1 +1,1 @@
-var mnemonic = "office glad venture trade slow sound office truth culture angle dust galaxy";
+var mnemonic = "medal festival pelican camera wet subject script switch trick valid admit fiction";

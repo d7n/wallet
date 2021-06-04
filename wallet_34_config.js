@@ -1,1 +1,1 @@
-var mnemonic = "brown arm kitchen immense start slam about grocery ladder future either step";
+var mnemonic = "balcony advance useless shy write scatter group miracle unusual tilt staff trophy";

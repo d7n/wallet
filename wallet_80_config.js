@@ -1,1 +1,1 @@
-var mnemonic = "amused rose sleep exotic balcony calm farm bar cave ill breeze verb";
+var mnemonic = "surge fashion traffic blur rigid tiger tilt glare blame gold charge draw";

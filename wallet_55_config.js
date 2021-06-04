@@ -1,1 +1,1 @@
-var mnemonic = "cake strike gas broccoli reunion tuna ecology tribe burger sustain split worry";
+var mnemonic = "corn flame ski crack display master help rely disagree add wire blouse";

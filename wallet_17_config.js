@@ -1,1 +1,1 @@
-var mnemonic = "nice portion unveil dust huge forum panic increase club erupt clown daring";
+var mnemonic = "scout diesel addict boss soon fresh taste mystery isolate glove roast village";

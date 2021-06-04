@@ -1,1 +1,1 @@
-var mnemonic = "typical step shiver flame cover simple lunar topic wild slide monkey skirt";
+var mnemonic = "machine crater glad debris uniform trade future pet account grape shift someone";

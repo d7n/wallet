@@ -1,1 +1,1 @@
-var mnemonic = "slush supreme mushroom route industry cause major plastic term win unfold pave";
+var mnemonic = "staff dash dad energy impact window merry purchase achieve blush normal arm";

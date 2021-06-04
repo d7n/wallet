@@ -1,1 +1,1 @@
-var mnemonic = "bracket top legal safe egg next stem protect quality foam cause mistake";
+var mnemonic = "fresh desert indoor false combine depend ramp post apple wood tell grant";

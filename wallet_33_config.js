@@ -1,1 +1,1 @@
-var mnemonic = "fruit orphan annual test tornado valid update federal oblige clerk notice observe";
+var mnemonic = "update motion limb beef alert drill fiscal slender divert bicycle design demand";

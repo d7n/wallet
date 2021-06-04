@@ -1,1 +1,1 @@
-var mnemonic = "capital elbow exercise gallery peanut cart sting flush dutch claim alone symbol";
+var mnemonic = "afford iron manage nominee mandate decide bullet aim armor concert proof pepper";

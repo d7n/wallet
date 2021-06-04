@@ -1,1 +1,1 @@
-var mnemonic = "confirm must trophy survey payment unlock polar skirt budget chapter raw allow";
+var mnemonic = "frog quote rate frost popular myth curtain device nothing ecology picnic bunker";

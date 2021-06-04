@@ -1,1 +1,1 @@
-var mnemonic = "few garbage rural click boring night forward quantum city weapon race outer";
+var mnemonic = "pizza enough control work oil elevator volume funny slim sausage enemy clock";

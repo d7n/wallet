@@ -1,1 +1,1 @@
-var mnemonic = "tent ordinary rug resist recycle same sentence clog napkin coast apart glue";
+var mnemonic = "snap push cook cruel left steak busy thrive festival kiss alarm stool";

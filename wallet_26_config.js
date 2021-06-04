@@ -1,1 +1,1 @@
-var mnemonic = "goose siren coral hen ancient broken entry page draft vicious goddess marble";
+var mnemonic = "swamp snow video tray matter sister friend report milk neglect noble pepper";

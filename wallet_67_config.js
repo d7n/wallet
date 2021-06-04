@@ -1,1 +1,1 @@
-var mnemonic = "fame tag give inject genius attract provide fault rural process aerobic decrease";
+var mnemonic = "mistake boy tent tuna easily impact quiz open draft imitate meat awful";

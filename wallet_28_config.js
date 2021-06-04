@@ -1,1 +1,1 @@
-var mnemonic = "solar pledge tortoise biology december luggage rotate text raccoon normal hip wide";
+var mnemonic = "angry dentist dish network cheese soft warfare trend belt autumn calm mansion";

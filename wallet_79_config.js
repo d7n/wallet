@@ -1,1 +1,1 @@
-var mnemonic = "wire diamond labor satoshi pretty dance gym can bench raise girl emotion";
+var mnemonic = "tiny skull govern upon skirt waste host jaguar sorry region trophy kid";

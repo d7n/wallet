@@ -1,1 +1,1 @@
-var mnemonic = "sand topple decrease twin grow render blush detail danger van ball timber";
+var mnemonic = "lesson slot decade space appear argue expand scale industry debate expire disease";

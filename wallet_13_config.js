@@ -1,1 +1,1 @@
-var mnemonic = "question gadget runway crop write keen inject engage bamboo sort oblige click";
+var mnemonic = "reform final weather eternal consider wealth payment defy harvest beef high embrace";

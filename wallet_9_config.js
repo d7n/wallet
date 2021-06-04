@@ -1,1 +1,1 @@
-var mnemonic = "garbage else screen key spawn tuna purpose february eye champion pistol illegal";
+var mnemonic = "tank soldier bean inject solve green two height cry summer trick bunker";

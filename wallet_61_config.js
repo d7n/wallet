@@ -1,1 +1,1 @@
-var mnemonic = "grain defy popular crunch kite galaxy hood spoon gauge indoor captain easy";
+var mnemonic = "flash receive roast scissors city vanish elevator awake curtain opinion eager palm";

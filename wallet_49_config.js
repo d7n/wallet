@@ -1,1 +1,1 @@
-var mnemonic = "myself scale hood across win pupil toss during caught offer soda person";
+var mnemonic = "myself grass weapon april jungle leave high cancel census practice double script";

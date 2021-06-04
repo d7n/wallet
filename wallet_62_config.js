@@ -1,1 +1,1 @@
-var mnemonic = "owner film daring mesh orbit cousin expose chicken play sorry curve funny";
+var mnemonic = "track eternal sport intact remove nasty approve cover enough valid earth vital";

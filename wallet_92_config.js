@@ -1,1 +1,1 @@
-var mnemonic = "lunar miracle cave margin canoe sugar innocent awesome correct morning gasp step";
+var mnemonic = "hair random cloud lawn lonely ceiling walnut dynamic chicken bag menu grape";

@@ -1,1 +1,1 @@
-var mnemonic = "bind volume defense quote situate soda miracle pole dish ride girl live";
+var mnemonic = "night tumble fossil broom glare opinion maximum dinosaur defense zebra loan husband";

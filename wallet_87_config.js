@@ -1,1 +1,1 @@
-var mnemonic = "rigid bird course student dinner chase churn calm vibrant bubble scare analyst";
+var mnemonic = "cart grace day please cheap audit invest result only glow search pool";

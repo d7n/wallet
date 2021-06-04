@@ -1,1 +1,1 @@
-var mnemonic = "salon guitar theme urge base glide print rural breeze dinner disagree rate";
+var mnemonic = "exercise pilot horror glance will cube uphold advance mad culture custom skirt";

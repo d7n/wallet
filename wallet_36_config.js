@@ -1,1 +1,1 @@
-var mnemonic = "silly large broccoli air manual awake price album control awesome deliver negative";
+var mnemonic = "sport fly song stairs meat brown basket diamond define project boost sure";

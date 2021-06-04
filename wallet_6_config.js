@@ -1,1 +1,1 @@
-var mnemonic = "gentle decide pause castle arena hat immense cave drive arch claim eager";
+var mnemonic = "hope strong industry slim desert behave flag sphere region phone release aspect";

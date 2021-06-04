@@ -1,1 +1,1 @@
-var mnemonic = "owner patrol disagree oven prize exile almost chest husband turtle remind female";
+var mnemonic = "budget equip entry vault curtain sustain certain coconut finger bread describe web";

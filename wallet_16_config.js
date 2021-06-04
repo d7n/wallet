@@ -1,1 +1,1 @@
-var mnemonic = "wall vehicle robot stadium slide federal link tray toy design fox awful";
+var mnemonic = "glad plate off trap luxury rather cover stumble warm better index permit";

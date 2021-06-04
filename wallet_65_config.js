@@ -1,1 +1,1 @@
-var mnemonic = "coin spider exit series inject display unaware unfold release pigeon trumpet resource";
+var mnemonic = "repair glory dry solve galaxy way foot palm accident frozen alpha school";

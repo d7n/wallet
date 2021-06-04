@@ -1,1 +1,1 @@
-var mnemonic = "little lunar slight forget book dry slide bamboo album load script float";
+var mnemonic = "stomach vanish flip decline allow erosion delay brush ramp effort certain file";
