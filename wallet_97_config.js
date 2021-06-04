@@ -1,1 +1,1 @@
-var mnemonic = "bronze cruel car session loud frozen group season give endless replace raw";
+var mnemonic = "notable scatter flag invite pave embrace mandate cabbage hope day system tennis";

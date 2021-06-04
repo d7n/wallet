@@ -1,1 +1,1 @@
-var mnemonic = "acquire page arch enable stick grief burger snow vibrant purse hill benefit";
+var mnemonic = "will wall hockey keen clean purse luxury trend pond arrest beauty text";

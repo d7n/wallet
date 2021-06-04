@@ -1,1 +1,1 @@
-var mnemonic = "dial faith boring vintage admit winner swing ranch wasp resemble few captain";
+var mnemonic = "matter clever whale swallow unaware crater actual lamp captain valve renew hat";

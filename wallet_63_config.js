@@ -1,1 +1,1 @@
-var mnemonic = "island alley hammer bubble text exercise usual prison north predict rally clay";
+var mnemonic = "solid saddle crush crop absorb metal lottery element hero when fatigue jealous";

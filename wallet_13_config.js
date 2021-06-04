@@ -1,1 +1,1 @@
-var mnemonic = "capital myth agent nation mercy adapt cereal eyebrow congress title uniform squeeze";
+var mnemonic = "trade alter click family empower kitchen trophy okay sister drift fold eight";

@@ -1,1 +1,1 @@
-var mnemonic = "remember coffee planet hip silver illness minor lift labor senior chunk image";
+var mnemonic = "tip bomb frame dove minute enough width lobster invest whisper stove meat";

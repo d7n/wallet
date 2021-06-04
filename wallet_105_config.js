@@ -1,1 +1,1 @@
-var mnemonic = "yellow wolf protect plastic country rich begin shuffle claw oxygen life stage";
+var mnemonic = "fury repair venue mask deposit fish belt oil apart delay intact smooth";

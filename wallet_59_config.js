@@ -1,1 +1,1 @@
-var mnemonic = "observe calm casino chaos cause speed tape bulb collect crop long monster";
+var mnemonic = "card illegal switch uniform shoot service unable panel online cruel orphan stock";

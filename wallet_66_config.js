@@ -1,1 +1,1 @@
-var mnemonic = "wolf walk mimic blade trip future art blur biology nice inform session";
+var mnemonic = "rack mask aim race student kiss text effort cube stadium mind ritual";

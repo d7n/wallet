@@ -1,1 +1,1 @@
-var mnemonic = "mobile blur alcohol wish gap motion uncover provide enrich relief fault rubber";
+var mnemonic = "credit turn hood tag define giant alcohol snake else attitude wisdom crater";

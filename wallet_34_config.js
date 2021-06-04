@@ -1,1 +1,1 @@
-var mnemonic = "uncover auto fortune two eight power slim mother timber indoor sell spread";
+var mnemonic = "rotate mirror ecology patient rail stomach drama boost dawn skin rail warrior";

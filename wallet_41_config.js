@@ -1,1 +1,1 @@
-var mnemonic = "prize embrace wrong renew pony must twist become they glance return equip";
+var mnemonic = "anxiety pony unfair spoon coconut chuckle then brave rotate mass leave obtain";

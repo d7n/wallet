@@ -1,1 +1,1 @@
-var mnemonic = "drip upper panda flip eyebrow way soldier devote muffin luxury little vast";
+var mnemonic = "club oak bamboo easy swarm aunt record perfect weird asthma rigid path";

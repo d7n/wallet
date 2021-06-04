@@ -1,1 +1,1 @@
-var mnemonic = "choose kid party cute hundred margin swim focus finish saddle tired cousin";
+var mnemonic = "lift ceiling chaos cluster toss zoo tool novel dry produce about will";

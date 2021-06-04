@@ -1,1 +1,1 @@
-var mnemonic = "cabbage title old inner obey luggage mammal pair maid lemon admit winter";
+var mnemonic = "antique craft describe dinosaur draw intact six beyond song camp album raccoon";

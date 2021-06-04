@@ -1,1 +1,1 @@
-var mnemonic = "gorilla pitch coast amount situate street solution labor clever deposit ritual delay";
+var mnemonic = "sting utility away scatter category oak risk divorce crater butter travel coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt verb magic mammal unusual pig old eye unknown tone cage husband";
+var mnemonic = "brown apart parrot twice vehicle fire rib wing rigid cactus main obscure";

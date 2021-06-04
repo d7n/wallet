@@ -1,1 +1,1 @@
-var mnemonic = "stereo broom slender patrol sock control author cigar judge potato eye buffalo";
+var mnemonic = "over state glow awesome future attract jeans obvious pipe cereal wire labor";

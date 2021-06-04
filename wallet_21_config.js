@@ -1,1 +1,1 @@
-var mnemonic = "gap material erase cloud copper token differ soda arrive cruel blood energy";
+var mnemonic = "forget clog hockey cover just drop fantasy couch reflect minor ski pool";

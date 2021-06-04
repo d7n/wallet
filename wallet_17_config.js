@@ -1,1 +1,1 @@
-var mnemonic = "afraid quiz update similar project immense dirt length maximum deal act crop";
+var mnemonic = "brain example tornado glide oxygen coral elder genius genre more moment century";

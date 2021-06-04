@@ -1,1 +1,1 @@
-var mnemonic = "often person riot milk original holiday talk caught fly goddess radio depend";
+var mnemonic = "chapter panther cushion toast upon three net prosper cake seed dream sure";

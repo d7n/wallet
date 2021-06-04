@@ -1,1 +1,1 @@
-var mnemonic = "answer emotion absent stadium ridge grain victory twice age swim mystery farm";
+var mnemonic = "valley blast age clay doctor dream sock alley annual vital now garlic";

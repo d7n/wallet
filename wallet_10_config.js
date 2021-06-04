@@ -1,1 +1,1 @@
-var mnemonic = "wink cannon derive dish farm way dinosaur grow bean input nature forward";
+var mnemonic = "green raise sheriff retreat glide medal meat real current admit clap spray";

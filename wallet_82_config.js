@@ -1,1 +1,1 @@
-var mnemonic = "speak aspect okay holiday chapter fury always ask taste vendor catalog dignity";
+var mnemonic = "picnic orient expand opera ask young tent nominee frog stone bullet evil";

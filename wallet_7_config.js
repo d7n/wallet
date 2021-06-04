@@ -1,1 +1,1 @@
-var mnemonic = "toddler behave rebel senior unit license follow regret fever truck inject vocal";
+var mnemonic = "paddle radio disorder domain final balance refuse that local visual pottery apology";

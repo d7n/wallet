@@ -1,1 +1,1 @@
-var mnemonic = "fit loan blind robot broken never vintage flame harsh hawk guard forward";
+var mnemonic = "brother decorate equal riot auto rhythm verify law pizza clerk mask water";

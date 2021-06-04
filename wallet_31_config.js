@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wrestle human hedgehog unveil box slight title card unaware brief ethics";
+var mnemonic = "dice fragile print walnut bicycle tribe angle hole among suspect open bread";

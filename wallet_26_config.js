@@ -1,1 +1,1 @@
-var mnemonic = "series wait fold swim rely sick matrix brush crawl liquid bench damage";
+var mnemonic = "limb peasant dream juice lawn rail below divorce virus mouse bridge rate";

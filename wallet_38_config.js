@@ -1,1 +1,1 @@
-var mnemonic = "monkey palm oak hour employ drill before stem polar fit velvet combine";
+var mnemonic = "board midnight style belt catch picnic position blur canyon usage option rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft office veteran marble smooth talent garment mad method shadow armed lottery";
+var mnemonic = "sponsor arrow kangaroo abuse goddess join maid party brisk quantum uniform easy";

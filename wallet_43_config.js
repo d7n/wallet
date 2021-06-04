@@ -1,1 +1,1 @@
-var mnemonic = "three melody stairs train order betray notice between zoo gun chef coconut";
+var mnemonic = "banner humble erode palace toast immense circle oval squirrel crack delay journey";

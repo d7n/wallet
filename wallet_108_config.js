@@ -1,1 +1,1 @@
-var mnemonic = "runway section wheel library wool nose pizza train bean jelly pass broken";
+var mnemonic = "guide barely razor pool retreat desk people shell blast blouse heart whale";

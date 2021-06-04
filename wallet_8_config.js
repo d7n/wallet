@@ -1,1 +1,1 @@
-var mnemonic = "ride strong edge once analyst drive woman pistol pen gold glow link";
+var mnemonic = "describe swing vivid cigar lawn inmate visual inquiry autumn impact dumb enrich";

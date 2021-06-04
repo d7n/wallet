@@ -1,1 +1,1 @@
-var mnemonic = "palace ceiling stereo unknown useful dial glad middle region suffer chuckle aspect";
+var mnemonic = "nature panic sea plate six border summer skirt unfair attend topic ask";

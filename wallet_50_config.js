@@ -1,1 +1,1 @@
-var mnemonic = "wave kiwi slim energy address rail slow bronze strong shadow learn fetch";
+var mnemonic = "trap bike awkward boss library fox trouble believe island peanut enough ugly";

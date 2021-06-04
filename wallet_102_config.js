@@ -1,1 +1,1 @@
-var mnemonic = "tower wild call critic rotate box pitch large session clock cement miss";
+var mnemonic = "brand post puppy alter elevator ghost pink biology fatigue capable save modify";

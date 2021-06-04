@@ -1,1 +1,1 @@
-var mnemonic = "motion nothing error truck exchange capable admit income sausage arrow credit minute";
+var mnemonic = "hospital nuclear dose easily buddy carry omit live ladder skin fragile trend";

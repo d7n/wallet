@@ -1,1 +1,1 @@
-var mnemonic = "brief purpose turkey tube joy gate sorry harbor smoke inner omit never";
+var mnemonic = "jacket solar manage battle zero begin cube dad hill soap move resemble";

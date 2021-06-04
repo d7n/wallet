@@ -1,1 +1,1 @@
-var mnemonic = "shock since audit distance million sort steel boost chunk myth version skirt";
+var mnemonic = "hello collect amazing margin gasp penalty ensure mountain live account dizzy enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel sorry leaf lawn normal copy power stool bleak doctor rice emerge";
+var mnemonic = "involve sick carbon visual nest give phrase arrange cross now buyer voice";

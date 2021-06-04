@@ -1,1 +1,1 @@
-var mnemonic = "brown message pond fish kingdom merit sense joke visa evidence only venue";
+var mnemonic = "movie annual rail cruise anchor junior mixture stuff distance toilet soccer illegal";

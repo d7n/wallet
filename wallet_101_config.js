@@ -1,1 +1,1 @@
-var mnemonic = "monkey tunnel audit person govern rule phone spend film baby spirit afraid";
+var mnemonic = "cement wet people fold thrive museum provide loyal dawn bottom six dynamic";

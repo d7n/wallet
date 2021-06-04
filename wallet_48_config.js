@@ -1,1 +1,1 @@
-var mnemonic = "damp device easy scout trade captain energy fatigue hybrid decorate first top";
+var mnemonic = "fee true you item leader panic essay sport together poem regret great";

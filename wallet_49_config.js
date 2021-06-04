@@ -1,1 +1,1 @@
-var mnemonic = "sad sting sport globe match giant throw luggage grit initial weird way";
+var mnemonic = "talk affair what pony hover label vague train agree poet emerge anchor";

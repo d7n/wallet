@@ -1,1 +1,1 @@
-var mnemonic = "dice doll civil innocent nature latin beef unknown target burden disease vocal";
+var mnemonic = "diary return room crunch couple brown first execute clever win royal urge";

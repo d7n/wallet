@@ -1,1 +1,1 @@
-var mnemonic = "draw accuse what pledge shift dice galaxy omit observe exotic praise oil";
+var mnemonic = "frozen burst path excite pledge tonight discover scan away thunder level start";

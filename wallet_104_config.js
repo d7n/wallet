@@ -1,1 +1,1 @@
-var mnemonic = "multiply vendor evoke vacuum six stove lab garbage silver renew question pistol";
+var mnemonic = "kind file shrimp pole oil ritual mimic unknown slight this harsh clap";

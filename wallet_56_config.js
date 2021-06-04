@@ -1,1 +1,1 @@
-var mnemonic = "sign cherry frog soldier giggle riot idle exact beyond gasp draft wealth";
+var mnemonic = "leopard autumn assault attack seat witness pond seminar skull later mandate clerk";

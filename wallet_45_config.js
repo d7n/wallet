@@ -1,1 +1,1 @@
-var mnemonic = "vibrant flower oven zero shove time scene afford pelican image limb celery";
+var mnemonic = "media shock upgrade focus around local tape secret oxygen sport glare salad";

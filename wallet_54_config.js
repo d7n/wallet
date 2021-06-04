@@ -1,1 +1,1 @@
-var mnemonic = "unknown talk wealth link final tail detect word coconut change autumn kangaroo";
+var mnemonic = "hair work segment gather zone lake skate layer useless hat flock calm";

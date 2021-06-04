@@ -1,1 +1,1 @@
-var mnemonic = "leisure rubber tuition unhappy opera detect picture angle wise express movie wheat";
+var mnemonic = "dress ostrich father conduct bid machine alter capital answer couch clay mail";

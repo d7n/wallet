@@ -1,1 +1,1 @@
-var mnemonic = "page mutual margin illness unfold crew useless gold multiply junior crystal bracket";
+var mnemonic = "auction lunar cash metal utility water thank lion kingdom act attitude together";

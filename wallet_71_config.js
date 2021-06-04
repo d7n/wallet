@@ -1,1 +1,1 @@
-var mnemonic = "discover thumb cover hedgehog few blue boost follow broom charge tail robust";
+var mnemonic = "say senior spirit cancel lesson jump fancy morning unit such flame obscure";

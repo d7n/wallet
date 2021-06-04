@@ -1,1 +1,1 @@
-var mnemonic = "away pluck mule prevent vibrant iron reject waste leopard name robust govern";
+var mnemonic = "swarm ripple copper sport helmet small vault nasty age zero magic cute";

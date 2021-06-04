@@ -1,1 +1,1 @@
-var mnemonic = "ensure must history orange online glance desert congress profit often ethics case";
+var mnemonic = "debate captain address witness enter genuine night sadness arm way jump doctor";

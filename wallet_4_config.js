@@ -1,1 +1,1 @@
-var mnemonic = "hole vital afraid define venture window busy claw swift cinnamon indoor manage";
+var mnemonic = "three draw twelve lounge chalk faith salt income achieve prefer theme switch";

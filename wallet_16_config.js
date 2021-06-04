@@ -1,1 +1,1 @@
-var mnemonic = "border sell brain mixture bulb lobster few tilt indicate certain island mandate";
+var mnemonic = "say need satisfy pig party disorder sign leopard brisk fitness twelve dog";

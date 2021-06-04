@@ -1,1 +1,1 @@
-var mnemonic = "shy eagle side dizzy sorry junior inherit alley seat train ahead silver";
+var mnemonic = "oak square bomb bid auto skull coast wild category nut bind lunch";

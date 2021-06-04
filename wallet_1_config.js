@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fiber exit chef grab volcano avoid jaguar grid catalog certain bench";
+var mnemonic = "year borrow horn convince hybrid meadow mountain select deer stay depend swamp";

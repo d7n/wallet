@@ -1,1 +1,1 @@
-var mnemonic = "twin train paper when inject link coil vapor pet wine cycle burden";
+var mnemonic = "custom smooth window lamp focus sign scatter term grid sheriff online return";

@@ -1,1 +1,1 @@
-var mnemonic = "priority trial expect addict device fix eight blue monster giggle amateur rescue";
+var mnemonic = "bomb honey civil analyst camera exist garden pipe desert above melody truck";

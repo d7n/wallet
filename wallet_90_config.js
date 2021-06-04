@@ -1,1 +1,1 @@
-var mnemonic = "rather ladder behave swing element pact chest party noble sign document solar";
+var mnemonic = "since super aerobic task around off toddler daughter over leopard surface inquiry";

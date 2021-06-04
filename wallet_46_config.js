@@ -1,1 +1,1 @@
-var mnemonic = "notice custom weather debris cabbage crane crater rebel shine permit tennis husband";
+var mnemonic = "guide amount voyage capable poem reflect switch deliver female again owner engine";

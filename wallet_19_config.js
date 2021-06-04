@@ -1,1 +1,1 @@
-var mnemonic = "enroll frame network junk wheel sunset clutch normal secret push credit toddler";
+var mnemonic = "dwarf light physical best maximum cabin fatigue grow protect ranch turkey observe";

@@ -1,1 +1,1 @@
-var mnemonic = "resource slot yellow enter proud trumpet mosquito million pause legend collect cool";
+var mnemonic = "mandate tag always dismiss various absurd stadium puzzle pride mix coffee clip";

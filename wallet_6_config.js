@@ -1,1 +1,1 @@
-var mnemonic = "napkin exhaust cattle lamp nerve leopard believe stomach off drop upset shine";
+var mnemonic = "install fault family tennis race lobster beef token harvest private age prison";

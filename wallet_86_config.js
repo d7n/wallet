@@ -1,1 +1,1 @@
-var mnemonic = "problem spice predict kiwi exact dice author pear decline episode soldier attitude";
+var mnemonic = "taste mountain network barely labor consider wagon vendor creek light peace found";

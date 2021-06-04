@@ -1,1 +1,1 @@
-var mnemonic = "fly stairs train very dismiss pole goose tornado height kidney average wear";
+var mnemonic = "dash exhibit master double unveil method fury oyster goddess canoe victory drip";

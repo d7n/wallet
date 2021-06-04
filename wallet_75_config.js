@@ -1,1 +1,1 @@
-var mnemonic = "either guard strategy term sister offer minor echo rigid cushion rescue young";
+var mnemonic = "mother loop million roof upset icon actor online light lucky excite tomorrow";

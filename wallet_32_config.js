@@ -1,1 +1,1 @@
-var mnemonic = "omit rescue oblige edit exact gallery elevator tragic east address wine please";
+var mnemonic = "online toy shield spend whisper lounge snow project cloud smoke excuse funny";

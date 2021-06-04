@@ -1,1 +1,1 @@
-var mnemonic = "tell state quantum finger motor miracle grief sponsor reward whale exact donkey";
+var mnemonic = "leisure robot bronze chunk electric change churn exercise idle casino cross special";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome inside holiday copper arch olympic crystal ecology illegal segment glide clock";
+var mnemonic = "garlic humor avocado traffic visual length dad muffin beyond knock grace spoil";

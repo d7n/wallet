@@ -1,1 +1,1 @@
-var mnemonic = "eye ginger sample deputy credit unaware simple donkey ridge roast aisle execute";
+var mnemonic = "make cancel anchor boss call act work vague ocean purpose point hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "same robust rain under hobby demand swim resist junior destroy mandate panic";
+var mnemonic = "slice aware crumble zone whale clutch task clarify clean harbor announce depend";

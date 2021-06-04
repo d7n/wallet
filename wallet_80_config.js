@@ -1,1 +1,1 @@
-var mnemonic = "final claim talent squeeze yard alpha stage adapt defy day mirror dilemma";
+var mnemonic = "layer aware project live category trigger list tent crawl season tortoise bottom";

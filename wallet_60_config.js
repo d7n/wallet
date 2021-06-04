@@ -1,1 +1,1 @@
-var mnemonic = "citizen ethics country cricket coach bubble ocean media ancient tackle youth climb";
+var mnemonic = "canal system source domain dirt always flush ability shine robust three divorce";

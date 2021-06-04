@@ -1,1 +1,1 @@
-var mnemonic = "option omit polar alpha avoid warrior amount grunt observe cupboard dutch veteran";
+var mnemonic = "east improve donor shine feel hello key meat color tissue panther view";

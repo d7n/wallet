@@ -1,1 +1,1 @@
-var mnemonic = "flee album approve large secret error baby aerobic verb rigid entry corn";
+var mnemonic = "execute window much display quote forest chest left fork fitness honey gloom";

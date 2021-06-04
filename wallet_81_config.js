@@ -1,1 +1,1 @@
-var mnemonic = "hawk flight train rhythm total calm nut bless share visual meat siege";
+var mnemonic = "popular marine labor trophy speed inner diagram provide blanket hello you student";

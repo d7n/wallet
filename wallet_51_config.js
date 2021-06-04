@@ -1,1 +1,1 @@
-var mnemonic = "decide stove access clerk normal air speak feel fine grid update desk";
+var mnemonic = "minor skate inherit iron label brother soldier during whip canoe funny field";

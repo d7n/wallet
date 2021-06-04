@@ -1,1 +1,1 @@
-var mnemonic = "trust teach page fragile twelve lemon increase clutch custom fragile border home";
+var mnemonic = "usual wrestle subway useful crouch pelican maximum join swap unable razor any";

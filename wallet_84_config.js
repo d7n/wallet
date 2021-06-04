@@ -1,1 +1,1 @@
-var mnemonic = "hard front mother buyer glory material brush isolate shock multiply toy robot";
+var mnemonic = "cushion term endorse bottom also cargo dial spread appear roast fade friend";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon donate learn taste treat bid misery orange shock electric blush happy";
+var mnemonic = "honey trick cradle dream grief fiction taste kangaroo security nose sort village";

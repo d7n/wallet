@@ -1,1 +1,1 @@
-var mnemonic = "axis target able corn whisper clever check wisdom rapid miss system search";
+var mnemonic = "cruel receive delay draft boy balcony wheat admit hold wife private tuna";

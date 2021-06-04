@@ -1,1 +1,1 @@
-var mnemonic = "base rescue miracle swamp foil hat vacuum identify state gather bicycle basic";
+var mnemonic = "fat train express salmon exhibit ocean sail scout certain garment basic metal";

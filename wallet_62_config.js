@@ -1,1 +1,1 @@
-var mnemonic = "bamboo welcome labor jar cram link observe wink carbon burst still govern";
+var mnemonic = "mercy junior renew improve pluck tourist hurdle sad orchard candy world brief";
