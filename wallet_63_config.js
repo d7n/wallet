@@ -1,1 +1,1 @@
-var mnemonic = "solid saddle crush crop absorb metal lottery element hero when fatigue jealous";
+var mnemonic = "scan dune robot wide fury because defy strong lazy lonely attack ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "diary return room crunch couple brown first execute clever win royal urge";
+var mnemonic = "search dance else vocal festival despair destroy omit ride curious example employ";

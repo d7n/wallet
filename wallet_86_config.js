@@ -1,1 +1,1 @@
-var mnemonic = "taste mountain network barely labor consider wagon vendor creek light peace found";
+var mnemonic = "mountain execute enroll able hill loan index absurd capital name rebuild camera";

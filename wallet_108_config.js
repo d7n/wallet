@@ -1,1 +1,1 @@
-var mnemonic = "guide barely razor pool retreat desk people shell blast blouse heart whale";
+var mnemonic = "zone harsh find clinic swim round truly elephant book race cabbage usual";

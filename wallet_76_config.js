@@ -1,1 +1,1 @@
-var mnemonic = "leisure robot bronze chunk electric change churn exercise idle casino cross special";
+var mnemonic = "steak long memory kick stereo liar same artefact balance tenant raven menu";

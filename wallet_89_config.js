@@ -1,1 +1,1 @@
-var mnemonic = "cannon curious category switch unusual rival any parade spike exchange orange office";
+var mnemonic = "fiction ten maze wedding sting arena trouble final base private settle dilemma";

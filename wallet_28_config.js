@@ -1,1 +1,1 @@
-var mnemonic = "bomb honey civil analyst camera exist garden pipe desert above melody truck";
+var mnemonic = "wagon walk suspect dry task ice orchard license surround vacuum edit hamster";

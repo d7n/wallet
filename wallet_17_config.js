@@ -1,1 +1,1 @@
-var mnemonic = "brain example tornado glide oxygen coral elder genius genre more moment century";
+var mnemonic = "tomorrow risk pill sword pledge fluid knee that arrow fork beef scissors";

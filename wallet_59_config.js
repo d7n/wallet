@@ -1,1 +1,1 @@
-var mnemonic = "card illegal switch uniform shoot service unable panel online cruel orphan stock";
+var mnemonic = "deal jeans enforce multiply bid drama report science medal goat style grunt";

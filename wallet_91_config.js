@@ -1,1 +1,1 @@
-var mnemonic = "brother decorate equal riot auto rhythm verify law pizza clerk mask water";
+var mnemonic = "problem brick trumpet art squeeze one traffic fruit voice brass gift comic";

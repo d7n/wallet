@@ -1,1 +1,1 @@
-var mnemonic = "east improve donor shine feel hello key meat color tissue panther view";
+var mnemonic = "economy solve blue exhaust ride retire twist detect copy outdoor faculty nasty";

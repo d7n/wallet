@@ -1,1 +1,1 @@
-var mnemonic = "limb peasant dream juice lawn rail below divorce virus mouse bridge rate";
+var mnemonic = "include battle idle kingdom mimic rescue viable apology scheme grab bulk betray";

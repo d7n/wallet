@@ -1,1 +1,1 @@
-var mnemonic = "fury repair venue mask deposit fish belt oil apart delay intact smooth";
+var mnemonic = "umbrella melt sphere wisdom fine jacket walk mosquito load high opinion treat";

@@ -1,1 +1,1 @@
-var mnemonic = "talk affair what pony hover label vague train agree poet emerge anchor";
+var mnemonic = "camp leader maximum industry cattle hint early zone original urban version pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric control burst video stereo range fruit absurd card two vague sister";
+var mnemonic = "true frame cotton deny mercy frog tonight dilemma kidney shallow kite oblige";

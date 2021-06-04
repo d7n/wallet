@@ -1,1 +1,1 @@
-var mnemonic = "say need satisfy pig party disorder sign leopard brisk fitness twelve dog";
+var mnemonic = "inflict output faith service roast fire cradle hour sell theme minute toddler";

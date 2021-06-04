@@ -1,1 +1,1 @@
-var mnemonic = "guide amount voyage capable poem reflect switch deliver female again owner engine";
+var mnemonic = "ugly cherry come injury caution senior group scare quiz toast velvet junk";

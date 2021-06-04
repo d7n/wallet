@@ -1,1 +1,1 @@
-var mnemonic = "involve sick carbon visual nest give phrase arrange cross now buyer voice";
+var mnemonic = "crazy hold hint link organ ceiling girl castle jump brush okay this";

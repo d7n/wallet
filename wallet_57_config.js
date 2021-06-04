@@ -1,1 +1,1 @@
-var mnemonic = "print that among rebel uncle weekend kitten flash demise nominee focus robot";
+var mnemonic = "gain concert gap dry crystal this vanish fall boring ahead bullet absurd";

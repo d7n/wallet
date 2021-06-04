@@ -1,1 +1,1 @@
-var mnemonic = "mother loop million roof upset icon actor online light lucky excite tomorrow";
+var mnemonic = "illness visit start exhaust palace wife label nut cushion curve quiz weekend";

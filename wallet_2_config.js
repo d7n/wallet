@@ -1,1 +1,1 @@
-var mnemonic = "dash exhibit master double unveil method fury oyster goddess canoe victory drip";
+var mnemonic = "shove custom veteran funny agent science will melody alter once loyal abstract";

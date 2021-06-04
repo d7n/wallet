@@ -1,1 +1,1 @@
-var mnemonic = "state gorilla heavy evoke unknown elder horror hard mercy sick grunt repair";
+var mnemonic = "reveal endless fat round uniform canvas famous flight transfer tone live focus";

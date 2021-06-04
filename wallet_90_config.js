@@ -1,1 +1,1 @@
-var mnemonic = "since super aerobic task around off toddler daughter over leopard surface inquiry";
+var mnemonic = "what able dragon clarify horse cousin give plunge mask boss depth mandate";

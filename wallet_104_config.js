@@ -1,1 +1,1 @@
-var mnemonic = "kind file shrimp pole oil ritual mimic unknown slight this harsh clap";
+var mnemonic = "vibrant scan number denial coast search kick entry lounge cabbage other travel";

@@ -1,1 +1,1 @@
-var mnemonic = "rack mask aim race student kiss text effort cube stadium mind ritual";
+var mnemonic = "fever alert general lemon party december shy tag village supreme raw grocery";

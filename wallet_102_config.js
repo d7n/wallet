@@ -1,1 +1,1 @@
-var mnemonic = "brand post puppy alter elevator ghost pink biology fatigue capable save modify";
+var mnemonic = "grace result confirm chase movie truth company gospel top wolf junior pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "debate captain address witness enter genuine night sadness arm way jump doctor";
+var mnemonic = "romance artist vapor peace device offer across rather bronze winner cup trouble";

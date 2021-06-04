@@ -1,1 +1,1 @@
-var mnemonic = "tip bomb frame dove minute enough width lobster invest whisper stove meat";
+var mnemonic = "appear gasp tape cart stock stove jeans learn tape fox wrap raccoon";

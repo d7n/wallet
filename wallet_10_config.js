@@ -1,1 +1,1 @@
-var mnemonic = "green raise sheriff retreat glide medal meat real current admit clap spray";
+var mnemonic = "bag forward hotel crawl fix gift afford wrestle indicate grit cricket borrow";

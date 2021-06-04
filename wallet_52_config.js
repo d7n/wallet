@@ -1,1 +1,1 @@
-var mnemonic = "stage blue suggest spatial base category meadow disorder diagram change lounge forget";
+var mnemonic = "cancel churn exercise mixed group short wonder sad vintage essay teach stay";

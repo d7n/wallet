@@ -1,1 +1,1 @@
-var mnemonic = "matter clever whale swallow unaware crater actual lamp captain valve renew hat";
+var mnemonic = "banner myth please subway trend garlic pear summer picnic vocal together tragic";

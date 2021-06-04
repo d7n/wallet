@@ -1,1 +1,1 @@
-var mnemonic = "minor skate inherit iron label brother soldier during whip canoe funny field";
+var mnemonic = "labor farm hood satoshi mango cradle timber pause text wrong female ramp";

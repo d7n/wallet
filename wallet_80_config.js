@@ -1,1 +1,1 @@
-var mnemonic = "layer aware project live category trigger list tent crawl season tortoise bottom";
+var mnemonic = "alarm ripple dad survey inch bacon stumble donor wet head artefact middle";

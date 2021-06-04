@@ -1,1 +1,1 @@
-var mnemonic = "make cancel anchor boss call act work vague ocean purpose point hurry";
+var mnemonic = "aisle child hurdle jazz food weather trap stuff fruit praise warrior rail";

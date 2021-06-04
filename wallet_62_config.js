@@ -1,1 +1,1 @@
-var mnemonic = "mercy junior renew improve pluck tourist hurdle sad orchard candy world brief";
+var mnemonic = "wisdom point blur position they valve pipe crumble poem space nut next";

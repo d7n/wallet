@@ -1,1 +1,1 @@
-var mnemonic = "say senior spirit cancel lesson jump fancy morning unit such flame obscure";
+var mnemonic = "battle long fiction seminar patrol phrase sweet banana gown trial used airport";

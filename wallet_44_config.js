@@ -1,1 +1,1 @@
-var mnemonic = "wild knee critic uncover hungry project fun chuckle say people flower vanish";
+var mnemonic = "sell home net jelly unusual mule outdoor one trumpet clap grace figure";

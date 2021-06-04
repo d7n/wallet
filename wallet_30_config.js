@@ -1,1 +1,1 @@
-var mnemonic = "helmet section cement physical summer spider grass fancy reward anxiety dust crop";
+var mnemonic = "lens crush attend grab vacuum train spend brown uncover truth figure imitate";

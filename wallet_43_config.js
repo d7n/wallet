@@ -1,1 +1,1 @@
-var mnemonic = "banner humble erode palace toast immense circle oval squirrel crack delay journey";
+var mnemonic = "scheme unknown fork bike degree clip eyebrow faith view cake dilemma federal";

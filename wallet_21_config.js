@@ -1,1 +1,1 @@
-var mnemonic = "forget clog hockey cover just drop fantasy couch reflect minor ski pool";
+var mnemonic = "miracle plug horror curtain diamond park jaguar dolphin true vintage kid ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate mirror ecology patient rail stomach drama boost dawn skin rail warrior";
+var mnemonic = "trust impose purpose next gift gossip force target crucial bid ahead sugar";

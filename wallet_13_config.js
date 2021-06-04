@@ -1,1 +1,1 @@
-var mnemonic = "trade alter click family empower kitchen trophy okay sister drift fold eight";
+var mnemonic = "glow high column fatigue save negative spawn tilt reward agent flame draw";

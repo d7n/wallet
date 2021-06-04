@@ -1,1 +1,1 @@
-var mnemonic = "stay planet aerobic hand ridge negative fatigue soft tray frame what mail";
+var mnemonic = "you become lyrics useful tissue morning monkey member gap arrow mutual latin";

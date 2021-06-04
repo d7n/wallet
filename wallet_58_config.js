@@ -1,1 +1,1 @@
-var mnemonic = "jacket solar manage battle zero begin cube dad hill soap move resemble";
+var mnemonic = "random gap inner swim elevator okay upon say disagree reopen step turn";

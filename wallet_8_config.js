@@ -1,1 +1,1 @@
-var mnemonic = "describe swing vivid cigar lawn inmate visual inquiry autumn impact dumb enrich";
+var mnemonic = "public wheel afraid kind stay monster history exit puzzle inject chat naive";

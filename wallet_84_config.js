@@ -1,1 +1,1 @@
-var mnemonic = "cushion term endorse bottom also cargo dial spread appear roast fade friend";
+var mnemonic = "recycle any author child blossom glance address setup soon alien obtain gap";

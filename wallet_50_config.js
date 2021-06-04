@@ -1,1 +1,1 @@
-var mnemonic = "trap bike awkward boss library fox trouble believe island peanut enough ugly";
+var mnemonic = "rude scrap paddle weird cheese loyal lawsuit shop umbrella fatigue ripple thank";

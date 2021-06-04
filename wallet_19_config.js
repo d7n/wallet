@@ -1,1 +1,1 @@
-var mnemonic = "dwarf light physical best maximum cabin fatigue grow protect ranch turkey observe";
+var mnemonic = "south predict shallow cinnamon chalk wing borrow elbow shrug guilt diet note";

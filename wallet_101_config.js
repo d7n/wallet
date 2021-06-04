@@ -1,1 +1,1 @@
-var mnemonic = "cement wet people fold thrive museum provide loyal dawn bottom six dynamic";
+var mnemonic = "usage peasant minor bid gym wrist digital ripple idle rate cave blood";

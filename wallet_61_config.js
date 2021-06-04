@@ -1,1 +1,1 @@
-var mnemonic = "frozen burst path excite pledge tonight discover scan away thunder level start";
+var mnemonic = "kitchen under acid teach lazy guess prison gather popular leg segment dial";

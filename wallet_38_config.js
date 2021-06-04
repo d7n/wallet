@@ -1,1 +1,1 @@
-var mnemonic = "board midnight style belt catch picnic position blur canyon usage option rotate";
+var mnemonic = "cupboard evidence culture square salmon problem bike warrior exchange enter cupboard fatigue";

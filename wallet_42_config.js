@@ -1,1 +1,1 @@
-var mnemonic = "movie annual rail cruise anchor junior mixture stuff distance toilet soccer illegal";
+var mnemonic = "liquid share purity screen park cluster enemy assist damp stadium clump evidence";

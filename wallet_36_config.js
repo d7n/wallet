@@ -1,1 +1,1 @@
-var mnemonic = "begin fit spread dish must pill forum candy spring hammer syrup scene";
+var mnemonic = "electric letter frog all grain oil garbage question season essence course warm";

@@ -1,1 +1,1 @@
-var mnemonic = "provide piano siren toss chest dutch used hurt skin surround mandate present";
+var mnemonic = "charge bird laundry net type inspire cereal review loop fever horse wisdom";

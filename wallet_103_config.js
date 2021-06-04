@@ -1,1 +1,1 @@
-var mnemonic = "focus fantasy one girl acoustic kind mistake gossip relax cigar patient soccer";
+var mnemonic = "random soul until benefit elder ostrich sock angle ring talk photo dune";

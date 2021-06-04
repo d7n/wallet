@@ -1,1 +1,1 @@
-var mnemonic = "custom smooth window lamp focus sign scatter term grid sheriff online return";
+var mnemonic = "cook employ crawl nut priority soon choice thought just license tonight drum";

@@ -1,1 +1,1 @@
-var mnemonic = "credit turn hood tag define giant alcohol snake else attitude wisdom crater";
+var mnemonic = "nerve nominee little nerve throw card enroll public online judge holiday muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard autumn assault attack seat witness pond seminar skull later mandate clerk";
+var mnemonic = "devote cart rebel grab victory symptom enlist domain scale ridge fabric evil";

@@ -1,1 +1,1 @@
-var mnemonic = "online toy shield spend whisper lounge snow project cloud smoke excuse funny";
+var mnemonic = "slot kangaroo royal dilemma trim engine royal crowd friend series final siege";

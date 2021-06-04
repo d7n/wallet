@@ -1,1 +1,1 @@
-var mnemonic = "swarm ripple copper sport helmet small vault nasty age zero magic cute";
+var mnemonic = "holiday october tragic chef behave kangaroo bargain harbor column feature promote embark";

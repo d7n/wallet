@@ -1,1 +1,1 @@
-var mnemonic = "foil afford chase above oxygen insect current demand you permit pond cover";
+var mnemonic = "tunnel push speed merit snake album hold degree potato plastic leaf magnet";

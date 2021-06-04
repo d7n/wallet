@@ -1,1 +1,1 @@
-var mnemonic = "three draw twelve lounge chalk faith salt income achieve prefer theme switch";
+var mnemonic = "practice expand lottery tortoise shaft excite solution fish recycle session correct logic";

@@ -1,1 +1,1 @@
-var mnemonic = "honey trick cradle dream grief fiction taste kangaroo security nose sort village";
+var mnemonic = "kiwi arrive seek pave steak kangaroo pool toe inquiry grit dinner inherit";

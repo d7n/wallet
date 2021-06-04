@@ -1,1 +1,1 @@
-var mnemonic = "addict keen solution flip enact fiscal unlock fitness coffee wild happy theory";
+var mnemonic = "destroy thought similar hat final shrimp addict say hip valid bag coral";

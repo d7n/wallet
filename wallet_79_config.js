@@ -1,1 +1,1 @@
-var mnemonic = "fat train express salmon exhibit ocean sail scout certain garment basic metal";
+var mnemonic = "shove maple torch air hen guard wave surround vote fun pizza arena";

@@ -1,1 +1,1 @@
-var mnemonic = "nature panic sea plate six border summer skirt unfair attend topic ask";
+var mnemonic = "general sponsor list soon shell omit over gossip airport answer pelican enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital nuclear dose easily buddy carry omit live ladder skin fragile trend";
+var mnemonic = "toy hockey nature elbow hen song stage table bundle embark armor pistol";

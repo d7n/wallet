@@ -1,1 +1,1 @@
-var mnemonic = "lift ceiling chaos cluster toss zoo tool novel dry produce about will";
+var mnemonic = "inhale chief cupboard heavy poverty gadget truly obscure pony brush salon entry";

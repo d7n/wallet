@@ -1,1 +1,1 @@
-var mnemonic = "sponsor arrow kangaroo abuse goddess join maid party brisk quantum uniform easy";
+var mnemonic = "tomorrow remind under stage sphere share rich only bamboo one find code";

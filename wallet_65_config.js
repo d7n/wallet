@@ -1,1 +1,1 @@
-var mnemonic = "usual wrestle subway useful crouch pelican maximum join swap unable razor any";
+var mnemonic = "steel swallow short joke second harvest ensure demand lumber behind zoo miss";

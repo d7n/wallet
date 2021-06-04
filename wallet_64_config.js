@@ -1,1 +1,1 @@
-var mnemonic = "execute window much display quote forest chest left fork fitness honey gloom";
+var mnemonic = "kingdom venture pair security mountain guard excess edge town avoid fall three";

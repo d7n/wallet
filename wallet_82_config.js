@@ -1,1 +1,1 @@
-var mnemonic = "picnic orient expand opera ask young tent nominee frog stone bullet evil";
+var mnemonic = "fall siren analyst impact sibling citizen crush staff wrestle parade pole damage";

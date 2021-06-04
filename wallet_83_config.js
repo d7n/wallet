@@ -1,1 +1,1 @@
-var mnemonic = "marble tattoo parade peanut cheese cotton gentle brass road lava chase symptom";
+var mnemonic = "lawsuit desk tackle analyst tomorrow crane stick share blast luggage giant sure";

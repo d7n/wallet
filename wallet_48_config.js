@@ -1,1 +1,1 @@
-var mnemonic = "fee true you item leader panic essay sport together poem regret great";
+var mnemonic = "eight clerk gasp decade mouse burger fresh coach snow casual embrace coral";

@@ -1,1 +1,1 @@
-var mnemonic = "year borrow horn convince hybrid meadow mountain select deer stay depend swamp";
+var mnemonic = "true radio gauge leave traffic disease patch chicken mirror cherry crisp because";

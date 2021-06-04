@@ -1,1 +1,1 @@
-var mnemonic = "popular marine labor trophy speed inner diagram provide blanket hello you student";
+var mnemonic = "holiday forward culture discover venture cost alarm lock grab napkin fox north";

@@ -1,1 +1,1 @@
-var mnemonic = "hair work segment gather zone lake skate layer useless hat flock calm";
+var mnemonic = "useful estate eyebrow neutral veteran buzz jelly anxiety drink piece fine crystal";

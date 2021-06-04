@@ -1,1 +1,1 @@
-var mnemonic = "defense keen couch inflict perfect rabbit diet symptom dumb common chimney alien";
+var mnemonic = "scout radio muffin umbrella between disagree salad butter today paddle toilet lizard";

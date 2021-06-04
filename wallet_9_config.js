@@ -1,1 +1,1 @@
-var mnemonic = "celery sustain tomorrow jelly nurse someone door bachelor about brother shock where";
+var mnemonic = "sing vapor clap lake submit submit divide thank gap roof tribe humor";

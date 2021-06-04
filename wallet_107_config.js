@@ -1,1 +1,1 @@
-var mnemonic = "check tooth game twin educate purpose hybrid analyst cheese virtual cost cover";
+var mnemonic = "maple seminar region enroll athlete beauty benefit organ foster stamp seed believe";

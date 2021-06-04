@@ -1,1 +1,1 @@
-var mnemonic = "cruel receive delay draft boy balcony wheat admit hold wife private tuna";
+var mnemonic = "song ill absorb limb vote chaos around people bean scorpion cushion twin";

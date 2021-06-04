@@ -1,1 +1,1 @@
-var mnemonic = "media shock upgrade focus around local tape secret oxygen sport glare salad";
+var mnemonic = "awake gun obtain fit winner treat floor inside guilt genuine viable frown";

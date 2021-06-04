@@ -1,1 +1,1 @@
-var mnemonic = "dice fragile print walnut bicycle tribe angle hole among suspect open bread";
+var mnemonic = "educate broom friend fortune excuse myth rapid journey journey proud shed field";

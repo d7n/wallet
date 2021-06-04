@@ -1,1 +1,1 @@
-var mnemonic = "paddle radio disorder domain final balance refuse that local visual pottery apology";
+var mnemonic = "destroy guess interest hedgehog month vicious style length crouch bounce observe torch";

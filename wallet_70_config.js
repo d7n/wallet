@@ -1,1 +1,1 @@
-var mnemonic = "cloth ill barrel final dial kidney hope tattoo service where captain run";
+var mnemonic = "ivory throw parade reopen inform jealous scout satisfy mind salon cigar legal";

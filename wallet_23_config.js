@@ -1,1 +1,1 @@
-var mnemonic = "club oak bamboo easy swarm aunt record perfect weird asthma rigid path";
+var mnemonic = "address umbrella syrup scene equip vital upgrade balcony fresh you harvest crime";

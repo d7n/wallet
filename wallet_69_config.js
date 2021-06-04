@@ -1,1 +1,1 @@
-var mnemonic = "over state glow awesome future attract jeans obvious pipe cereal wire labor";
+var mnemonic = "custom senior viable valve twenty two possible fresh prosper vault alarm power";

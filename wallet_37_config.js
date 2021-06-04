@@ -1,1 +1,1 @@
-var mnemonic = "brown apart parrot twice vehicle fire rib wing rigid cactus main obscure";
+var mnemonic = "fly picnic dry embark alien slab confirm office poet only speak zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "focus hill abstract witness service acquire pony photo install wreck announce give";
+var mnemonic = "suspect drop comfort base blanket motor scatter common agent neutral catalog feel";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic humor avocado traffic visual length dad muffin beyond knock grace spoil";
+var mnemonic = "donor boss spring negative miracle spice rescue fee woman prison ship latin";

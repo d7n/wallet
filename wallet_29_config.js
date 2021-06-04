@@ -1,1 +1,1 @@
-var mnemonic = "hello collect amazing margin gasp penalty ensure mountain live account dizzy enroll";
+var mnemonic = "common curtain game fever staff hammer junior ahead ahead token betray amateur";

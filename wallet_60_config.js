@@ -1,1 +1,1 @@
-var mnemonic = "canal system source domain dirt always flush ability shine robust three divorce";
+var mnemonic = "below buyer escape shed vault mix edge iron asthma success initial crime";

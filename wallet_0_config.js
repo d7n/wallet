@@ -1,1 +1,1 @@
-var mnemonic = "write acid hen live pave enact fame leader cook change job bachelor";
+var mnemonic = "begin jelly clump ugly jaguar nerve panther antenna useless garden gentle manage";
