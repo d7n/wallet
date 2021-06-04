@@ -1,1 +1,1 @@
-var mnemonic = "setup real swear story room coyote fish floor join bamboo bacon royal";
+var mnemonic = "bottom baby jump elevator left mimic horse final margin upset meat victory";

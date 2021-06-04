@@ -1,1 +1,1 @@
-var mnemonic = "upset crowd they innocent motor wife fatal already message shadow kid speak";
+var mnemonic = "shell aware alley cream appear antique arrive impose limit purse renew salt";

@@ -1,1 +1,1 @@
-var mnemonic = "say injury sunny skill vote puzzle parent space document first nurse yellow";
+var mnemonic = "auto news that wheel canyon version thing burst idle ankle lava evil";

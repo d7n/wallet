@@ -1,1 +1,1 @@
-var mnemonic = "basket face front intact club ripple reflect wait again fog frame ancient";
+var mnemonic = "dutch awake cook duty trial extend item sword pitch bean analyst verify";

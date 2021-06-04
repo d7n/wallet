@@ -1,1 +1,1 @@
-var mnemonic = "opera oblige only involve brother found type quantum door maze fitness weekend";
+var mnemonic = "shoot upper shiver pigeon buddy immense resource ring track nothing ecology bulk";

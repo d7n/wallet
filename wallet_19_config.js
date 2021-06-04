@@ -1,1 +1,1 @@
-var mnemonic = "layer devote exile rifle opera exhibit plunge pride sketch much city frequent";
+var mnemonic = "sketch project brick right elder glory soup replace plastic salon cruise excuse";

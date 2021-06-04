@@ -1,1 +1,1 @@
-var mnemonic = "device village green address drill harvest pilot catch recall skate iron include";
+var mnemonic = "humble fatal glad host little cloud solution slight fever sick rain grid";

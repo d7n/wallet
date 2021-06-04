@@ -1,1 +1,1 @@
-var mnemonic = "north cry rice winter there edge shrug rescue useless feed bright net";
+var mnemonic = "nephew stamp surround alien theory business below lunar smart monitor lucky book";

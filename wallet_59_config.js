@@ -1,1 +1,1 @@
-var mnemonic = "walk elder charge report machine grace ladder require orchard fork confirm laugh";
+var mnemonic = "cabbage item wine spoil crystal swallow hour swim neck large sunset wire";

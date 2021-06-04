@@ -1,1 +1,1 @@
-var mnemonic = "recycle pact rice neglect agent luxury remind fade skirt chronic runway paper";
+var mnemonic = "wave clarify seat rare depend assault yard spirit weasel coyote neglect various";

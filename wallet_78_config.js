@@ -1,1 +1,1 @@
-var mnemonic = "ritual guess angry dilemma demand surprise arch rocket input tribe wage outside";
+var mnemonic = "cattle boy moment stand attract service wasp office when pulse escape weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid enact coach page favorite burden palace render gossip grow advice hungry";
+var mnemonic = "famous cook level knee solar year ready first sight fragile destroy pottery";

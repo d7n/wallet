@@ -1,1 +1,1 @@
-var mnemonic = "file narrow reflect theory energy pilot coach waste honey hero screen coconut";
+var mnemonic = "boring until local canoe sauce month myself whip wreck warfare chair weekend";

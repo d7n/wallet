@@ -1,1 +1,1 @@
-var mnemonic = "alter disagree limit buzz clean master eagle range engage toy ugly edit";
+var mnemonic = "vacant display undo window more raise pipe devote assist mosquito practice federal";

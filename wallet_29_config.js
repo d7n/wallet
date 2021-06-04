@@ -1,1 +1,1 @@
-var mnemonic = "hurdle safe traffic woman medal impact list vehicle drama brisk wood resist";
+var mnemonic = "blossom awful decorate cricket anchor when bronze immense syrup worth pattern excess";

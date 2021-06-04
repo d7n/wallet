@@ -1,1 +1,1 @@
-var mnemonic = "sentence reveal series material gap parent shaft pattern mom put awesome output";
+var mnemonic = "expect alone spell embody citizen body safe weasel eternal run aware bicycle";

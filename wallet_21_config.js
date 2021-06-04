@@ -1,1 +1,1 @@
-var mnemonic = "maximum hybrid universe bulb latin about blood issue fluid couple state dish";
+var mnemonic = "atom educate guard garbage hidden prepare genius wonder defy plunge language enroll";

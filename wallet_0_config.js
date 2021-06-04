@@ -1,1 +1,1 @@
-var mnemonic = "climb spirit double rose slide road artefact attack iron execute inflict display";
+var mnemonic = "nerve usual push mandate saddle salute model payment away success rebel coin";

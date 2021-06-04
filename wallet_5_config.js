@@ -1,1 +1,1 @@
-var mnemonic = "chronic poverty okay cage eight blame deliver ring letter cannon arm assume";
+var mnemonic = "suggest protect junk pupil wool blood marine awesome cheese brief tuna segment";

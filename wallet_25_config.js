@@ -1,1 +1,1 @@
-var mnemonic = "bonus innocent hat moon ticket crowd blush north mind produce fork faculty";
+var mnemonic = "sadness frame borrow climb scare nurse endless square wisdom weekend picnic amused";

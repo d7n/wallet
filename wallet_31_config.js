@@ -1,1 +1,1 @@
-var mnemonic = "brave aunt gold gold voyage cover nasty worry gaze spend gesture flavor";
+var mnemonic = "water license panic trip tennis obey fashion absent sign useful frown valid";

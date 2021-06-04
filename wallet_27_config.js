@@ -1,1 +1,1 @@
-var mnemonic = "table force acid amount sister sun assume law begin hard acoustic sunset";
+var mnemonic = "such skill depth smile fly cup ordinary fetch rich dog foil liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "path hover miss wise push brown intact kind bless palace flip topic";
+var mnemonic = "jaguar upper valid stay brown antique smile reward slab brother joy eye";

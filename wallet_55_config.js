@@ -1,1 +1,1 @@
-var mnemonic = "robot rug nothing country proud awkward morning caught broom gaze acid speak";
+var mnemonic = "skull library empower staff castle rival axis street master rival car unique";

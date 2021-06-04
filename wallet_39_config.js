@@ -1,1 +1,1 @@
-var mnemonic = "gather amazing boat boost math vocal system pupil sure razor silent eternal";
+var mnemonic = "royal winter negative toward cupboard baby alley egg sad arm flat sadness";

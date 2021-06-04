@@ -1,1 +1,1 @@
-var mnemonic = "off undo pact another one cool flower path matrix achieve rain ugly";
+var mnemonic = "middle merry real save enhance floor south author mean describe tape hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl dust setup road tomato gravity little fun tower fly then income";
+var mnemonic = "brown attack chapter style squeeze near will sport poverty antique wild thank";

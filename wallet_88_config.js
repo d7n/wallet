@@ -1,1 +1,1 @@
-var mnemonic = "disorder ridge attitude jacket reopen armor wasp bottom size truly digital lamp";
+var mnemonic = "catalog ginger clinic agree announce life panda among bring unhappy card tone";

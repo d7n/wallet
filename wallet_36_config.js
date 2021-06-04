@@ -1,1 +1,1 @@
-var mnemonic = "cheap side kangaroo cereal warfare wood submit gallery loan truck title valve";
+var mnemonic = "horror expand age vague color run zero hurdle talent wait draft cradle";

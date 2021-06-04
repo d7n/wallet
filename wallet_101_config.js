@@ -1,1 +1,1 @@
-var mnemonic = "salute office develop glare cover cheese snow lounge cream park popular butter";
+var mnemonic = "van cupboard payment rain avocado recycle canal fluid antique glimpse glad intact";

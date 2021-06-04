@@ -1,1 +1,1 @@
-var mnemonic = "clerk learn point napkin sauce hair ski frequent actor impact bundle jaguar";
+var mnemonic = "vote shallow involve once length nasty behind stool found code wage soldier";

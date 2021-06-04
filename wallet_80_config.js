@@ -1,1 +1,1 @@
-var mnemonic = "box term exchange volcano force crawl sight rifle senior elevator nut mean";
+var mnemonic = "spoil buddy sun heart romance grit foot melody pyramid lake giraffe piano";

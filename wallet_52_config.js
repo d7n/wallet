@@ -1,1 +1,1 @@
-var mnemonic = "index diesel tree silk fame stage meadow march canyon about moon secret";
+var mnemonic = "rapid opera please velvet unfair check visual bonus fruit fix dream half";

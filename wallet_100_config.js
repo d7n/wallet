@@ -1,1 +1,1 @@
-var mnemonic = "wait fringe choice physical squirrel today prison need escape burst unable hood";
+var mnemonic = "local useless board vacuum rotate brave father visual purse fury turkey job";

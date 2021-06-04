@@ -1,1 +1,1 @@
-var mnemonic = "share green auction joy uphold detail sword danger today economy crash answer";
+var mnemonic = "ugly unknown file upper six clog distance sea project edge collect bid";

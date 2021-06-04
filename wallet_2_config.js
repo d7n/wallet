@@ -1,1 +1,1 @@
-var mnemonic = "meat earn clean sick blind pulse mandate clerk repeat grunt dose impulse";
+var mnemonic = "flame guard quick festival garlic noble seminar despair history hub twelve spell";

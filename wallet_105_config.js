@@ -1,1 +1,1 @@
-var mnemonic = "credit rain acid awkward language vault spare flat uphold trick hold matter";
+var mnemonic = "duty reflect again diamond viable pumpkin cushion expire defense long episode cable";

@@ -1,1 +1,1 @@
-var mnemonic = "marine photo sting uncover luxury record blast burger domain run relief can";
+var mnemonic = "sudden there slice grow danger accuse never install sponsor manage cabbage drastic";

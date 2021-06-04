@@ -1,1 +1,1 @@
-var mnemonic = "element drive electric select middle spider trial victory art fetch funny mouse";
+var mnemonic = "mirror army people action lawsuit size vicious canvas clay crucial peanut vote";

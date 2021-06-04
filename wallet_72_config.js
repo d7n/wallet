@@ -1,1 +1,1 @@
-var mnemonic = "inch matter crunch damp parrot ask steak caught evolve alien enhance gown";
+var mnemonic = "athlete document trouble aspect hope vanish foam basket seat pattern future carpet";

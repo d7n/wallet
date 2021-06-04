@@ -1,1 +1,1 @@
-var mnemonic = "climb chalk addict round saddle enforce river deputy keen hammer save chase";
+var mnemonic = "problem night tower input barely dumb exact celery right pause multiply gold";

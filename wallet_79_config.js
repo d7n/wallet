@@ -1,1 +1,1 @@
-var mnemonic = "cigar onion other trip genuine silly broken attend foil horse hurdle razor";
+var mnemonic = "true found corn tide kingdom tide plunge hunt dish submit slim aunt";

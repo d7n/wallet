@@ -1,1 +1,1 @@
-var mnemonic = "text lady vocal lottery find coral joy donkey spray meadow shift churn";
+var mnemonic = "before romance regret dumb oxygen traffic cupboard mix leave design round genius";

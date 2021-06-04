@@ -1,1 +1,1 @@
-var mnemonic = "stomach april rug minimum deputy bike awake wood yellow sauce gun change";
+var mnemonic = "march then quit floor chef planet legend talk scatter forest lottery add";

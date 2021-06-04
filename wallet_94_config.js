@@ -1,1 +1,1 @@
-var mnemonic = "cave misery village cover fringe business addict planet awesome nest void fiscal";
+var mnemonic = "very fury invest door monster trumpet raven siren tomato swap lady enroll";

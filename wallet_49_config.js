@@ -1,1 +1,1 @@
-var mnemonic = "resource reason century behave feature admit update unhappy reveal orange correct wagon";
+var mnemonic = "book crouch organ anxiety differ day indicate aspect usual expand city rebuild";

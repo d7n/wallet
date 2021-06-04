@@ -1,1 +1,1 @@
-var mnemonic = "dismiss visual grant grace scatter upon creek bar super antique smile enroll";
+var mnemonic = "kind pool saddle candy kick rival rubber idea survey insect secret claw";

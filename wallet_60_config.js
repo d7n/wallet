@@ -1,1 +1,1 @@
-var mnemonic = "fly agree put tobacco bar someone twelve mistake crater sibling disease thrive";
+var mnemonic = "wisdom fitness soap rescue win beef patch mesh sustain comfort glory wolf";

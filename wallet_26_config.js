@@ -1,1 +1,1 @@
-var mnemonic = "energy fitness wreck icon recycle engage rack claim defense parrot park enable";
+var mnemonic = "health kitten under coral icon panda gossip parade drastic expire lock sustain";

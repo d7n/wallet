@@ -1,1 +1,1 @@
-var mnemonic = "verb umbrella nature census maximum accuse please marble brave mirror egg depth";
+var mnemonic = "local sure erupt sniff left indicate solution pelican amused van unknown govern";

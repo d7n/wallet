@@ -1,1 +1,1 @@
-var mnemonic = "artwork fire chimney direct couch rate school february enter float nation melody";
+var mnemonic = "mountain emotion family column derive identify answer blush chapter seven modify choice";

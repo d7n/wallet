@@ -1,1 +1,1 @@
-var mnemonic = "boil shove faculty nation defense boss tank caution voyage exact tray profit";
+var mnemonic = "enable blur ceiling stereo balcony loud smart cost credit attitude predict modify";

@@ -1,1 +1,1 @@
-var mnemonic = "coach armed valid limit hobby bracket onion abandon eight shaft illness eyebrow";
+var mnemonic = "analyst such never chief model carpet emerge curious check pony motor produce";

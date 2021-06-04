@@ -1,1 +1,1 @@
-var mnemonic = "wagon wrap fence reduce now appear announce auction gun join utility poem";
+var mnemonic = "hockey access curtain pen repair peace good fine vicious material mobile stable";

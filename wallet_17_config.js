@@ -1,1 +1,1 @@
-var mnemonic = "sad song leader scrap liberty ice trigger since tornado public enjoy note";
+var mnemonic = "mixed betray kit rubber witness tape across surround solar night honey noise";

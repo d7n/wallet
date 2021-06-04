@@ -1,1 +1,1 @@
-var mnemonic = "resource sister tired prepare barely eyebrow attend loan copy valid bid card";
+var mnemonic = "finish pen lemon antenna deliver famous true box response sort talent sustain";

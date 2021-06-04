@@ -1,1 +1,1 @@
-var mnemonic = "payment firm radar very program flash voyage forward rent toast hurt clump";
+var mnemonic = "alarm angry pulp divide gown foster inch acoustic area butter scout funny";

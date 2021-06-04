@@ -1,1 +1,1 @@
-var mnemonic = "hazard funny wreck legend brave hurry fire glad gap dolphin wife castle";
+var mnemonic = "bench slush push thrive regret melt horror dose globe escape hope visit";

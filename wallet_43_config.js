@@ -1,1 +1,1 @@
-var mnemonic = "toss lake seat wrong unhappy spirit caught apple renew bar drink aware";
+var mnemonic = "joke famous quote shift furnace drip agree you garbage because salmon indicate";

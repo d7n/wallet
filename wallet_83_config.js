@@ -1,1 +1,1 @@
-var mnemonic = "fury country fox hip brief ritual remember doll say help unhappy eternal";
+var mnemonic = "horn all smile youth slice vacant guide visa lunch chest dynamic evil";

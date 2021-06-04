@@ -1,1 +1,1 @@
-var mnemonic = "neglect enemy segment thank cattle merge entire neglect congress dust jewel lamp";
+var mnemonic = "survey chase sad that boring soon relief reopen parade history escape permit";

@@ -1,1 +1,1 @@
-var mnemonic = "actor bunker alarm hedgehog soccer peace alien road atom float menu chat";
+var mnemonic = "loan evil seat grit brain figure isolate cat suspect common movie supply";

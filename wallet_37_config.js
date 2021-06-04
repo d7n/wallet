@@ -1,1 +1,1 @@
-var mnemonic = "derive gauge pumpkin wrap uncover volcano cute reveal move pigeon close blame";
+var mnemonic = "already route zone enough bottom setup vault shuffle find spread above aim";

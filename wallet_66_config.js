@@ -1,1 +1,1 @@
-var mnemonic = "palm husband sail across disagree voice top sad federal cup fuel steel";
+var mnemonic = "regular vote program vehicle setup anchor width person pony denial fatigue share";

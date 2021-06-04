@@ -1,1 +1,1 @@
-var mnemonic = "spider potato business outer melt monster chair horse struggle luggage print sauce";
+var mnemonic = "wool electric focus world casual afford month blast must shaft nephew dove";

@@ -1,1 +1,1 @@
-var mnemonic = "village parrot that timber notice youth power weather glue pledge surface push";
+var mnemonic = "ball bench ball shy gun swing already veteran phrase awful royal liberty";

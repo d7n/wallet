@@ -1,1 +1,1 @@
-var mnemonic = "seek kidney glide half jaguar plunge purse until gas busy run honey";
+var mnemonic = "delay try process canal drip vehicle firm pupil sweet skirt chase nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "element polar soldier dust frame rely kiwi bread thrive camp wet orphan";
+var mnemonic = "dentist final pretty tunnel trap bench response fruit hero inmate pupil join";

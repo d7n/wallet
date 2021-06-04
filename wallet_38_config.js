@@ -1,1 +1,1 @@
-var mnemonic = "expand trap project hunt surprise peasant embrace sing clock crisp oil stadium";
+var mnemonic = "lock scorpion anxiety banana wrong because master require amused roof depart repeat";

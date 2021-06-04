@@ -1,1 +1,1 @@
-var mnemonic = "pill physical letter swallow trouble relax august aisle road robust industry zebra";
+var mnemonic = "anchor image elephant half crop alley language tenant brand tail spirit forward";

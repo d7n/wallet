@@ -1,1 +1,1 @@
-var mnemonic = "remain ankle piano furnace gorilla art during ridge depart rhythm spice mind";
+var mnemonic = "require summer kick example erupt canoe census glance must island this lawn";

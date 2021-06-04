@@ -1,1 +1,1 @@
-var mnemonic = "advance march candy fatal flower author you unveil scrap carpet knock limit";
+var mnemonic = "dance notice execute debris ivory exact snap armor blossom false danger stay";

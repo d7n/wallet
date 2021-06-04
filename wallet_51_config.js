@@ -1,1 +1,1 @@
-var mnemonic = "cool load quantum brown pelican opinion patch tip three shaft tattoo sibling";
+var mnemonic = "grocery vessel extend vessel vocal check margin barrel diary leave during legend";

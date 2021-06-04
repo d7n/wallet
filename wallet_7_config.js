@@ -1,1 +1,1 @@
-var mnemonic = "cluster foam episode kick fan mountain worth attract drama soda mask polar";
+var mnemonic = "suspect trap baby six rhythm ride monkey worth choice curious zero spirit";

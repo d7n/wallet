@@ -1,1 +1,1 @@
-var mnemonic = "spin snack protect casual easily smoke hungry slender abstract mercy tail inquiry";
+var mnemonic = "tennis corn crack much moral honey cool talent just coast bright hundred";

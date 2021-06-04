@@ -1,1 +1,1 @@
-var mnemonic = "across promote access social damage sing reflect material candy season expand resource";
+var mnemonic = "town change region comfort weapon wait valve amount mountain fortune certain dance";

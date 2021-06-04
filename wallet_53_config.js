@@ -1,1 +1,1 @@
-var mnemonic = "air sadness transfer tiger genre slice nature cheap target citizen future vendor";
+var mnemonic = "spoon enroll quality toddler glass rice now day once cram tiny say";

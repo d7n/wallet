@@ -1,1 +1,1 @@
-var mnemonic = "hazard learn motor apology napkin labor nominee human large alone congress parade";
+var mnemonic = "birth penalty unusual mushroom defy december capital secret air hamster atom zone";

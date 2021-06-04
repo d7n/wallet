@@ -1,1 +1,1 @@
-var mnemonic = "husband glimpse pair brother network spend enjoy stay scheme funny height tube";
+var mnemonic = "frost fatigue fabric annual step humble forest dawn genius lock ginger shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest become trust tenant wealth tree talent flush exchange odor illegal much";
+var mnemonic = "make affair attend battle sleep toy stool book online verify chief token";

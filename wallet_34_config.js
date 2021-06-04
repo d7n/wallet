@@ -1,1 +1,1 @@
-var mnemonic = "bone ten grief calm tragic exchange limb thought attitude hedgehog unit oyster";
+var mnemonic = "glove rather lounge summer simple kick squirrel useless arrest absurd goose toast";

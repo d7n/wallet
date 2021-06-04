@@ -1,1 +1,1 @@
-var mnemonic = "cross square measure sure title enjoy together apple grit warm brand mind";
+var mnemonic = "film excess place attitude exercise ensure depth sustain image task print pride";

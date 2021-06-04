@@ -1,1 +1,1 @@
-var mnemonic = "tilt century gallery loan angle knife fiscal mobile clay love rapid increase";
+var mnemonic = "tip wear inmate vicious such enact review pipe diagram dawn weekend inhale";

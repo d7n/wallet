@@ -1,1 +1,1 @@
-var mnemonic = "soon drip glide price stuff print relax amused long bring absorb cradle";
+var mnemonic = "bone divorce then wave intact urge opera upset parrot pipe shift royal";

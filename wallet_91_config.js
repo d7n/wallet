@@ -1,1 +1,1 @@
-var mnemonic = "render broccoli sort popular food brother fiber hand dirt hungry armed cross";
+var mnemonic = "birth veteran similar behind rack letter awake skill paddle sudden pledge employ";

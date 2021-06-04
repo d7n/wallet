@@ -1,1 +1,1 @@
-var mnemonic = "trust rack clever dose can comic giant glow orchard number matter advice";
+var mnemonic = "city history guide badge monkey jeans critic round tissue net crush cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "height rack furnace page transfer hen swing diesel alcohol garlic garbage title";
+var mnemonic = "wide bag fossil man shift jewel leaf wash rather culture reveal junk";

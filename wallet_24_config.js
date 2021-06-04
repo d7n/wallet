@@ -1,1 +1,1 @@
-var mnemonic = "release market when bonus sea eternal collect airport butter false charge elder";
+var mnemonic = "axis body tube midnight top sail sport opinion slow drum cave favorite";

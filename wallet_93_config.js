@@ -1,1 +1,1 @@
-var mnemonic = "perfect copy dignity trust stool notice card bread voice bacon flock adjust";
+var mnemonic = "hotel weather disagree raise relief pitch grace purity media beach stem guess";

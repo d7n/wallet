@@ -1,1 +1,1 @@
-var mnemonic = "smart session awesome acid rice wing casino record hotel kidney kite mutual";
+var mnemonic = "item gloom lunar express tuition process miss city bus key ramp young";

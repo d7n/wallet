@@ -1,1 +1,1 @@
-var mnemonic = "scheme rabbit goddess canvas shine patrol true whisper record taste sister inspire";
+var mnemonic = "letter blast grab viable planet team chase diet almost guard ahead waste";

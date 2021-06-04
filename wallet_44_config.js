@@ -1,1 +1,1 @@
-var mnemonic = "nerve apart melt runway isolate phrase bitter banner injury squirrel magnet general";
+var mnemonic = "blast club inner bitter cupboard dawn capable original burden blur pottery clock";

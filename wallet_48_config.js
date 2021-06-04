@@ -1,1 +1,1 @@
-var mnemonic = "trap priority add caught picture spend joy health attitude flip unit throw";
+var mnemonic = "document tray tobacco museum super polar powder beyond school fury suspect icon";
