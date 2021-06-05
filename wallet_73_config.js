@@ -1,1 +1,1 @@
-var mnemonic = "race crunch frequent make curve know lake state rail intact someone tornado";
+var mnemonic = "paddle bean hello choose credit virus present actor slender priority response electric";

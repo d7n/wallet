@@ -1,1 +1,1 @@
-var mnemonic = "cycle easy scorpion client glad damage harsh doll concert pen card speed";
+var mnemonic = "cook atom orbit neglect sausage alien grief burst fame setup flame boy";

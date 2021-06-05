@@ -1,1 +1,1 @@
-var mnemonic = "become that arm favorite bottom replace belt garden knee federal way priority";
+var mnemonic = "picture critic column brave scare goose digital gaze pizza cruise unit action";

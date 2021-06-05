@@ -1,1 +1,1 @@
-var mnemonic = "surface depth finger reunion arrow wreck concert toe alley amused section bright";
+var mnemonic = "display escape bike length dynamic wing open want clever chat trend program";

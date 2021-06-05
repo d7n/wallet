@@ -1,1 +1,1 @@
-var mnemonic = "kite live unknown stock tortoise head enroll parade spawn century safe crew";
+var mnemonic = "frozen account correct fury caught host work awful chaos stove camp identify";

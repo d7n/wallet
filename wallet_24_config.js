@@ -1,1 +1,1 @@
-var mnemonic = "effort jungle swamp devote portion lecture special miss mother inch obvious exist";
+var mnemonic = "sad defense syrup stand staff dice wish clarify teach rude trouble wagon";

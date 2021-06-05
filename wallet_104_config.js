@@ -1,1 +1,1 @@
-var mnemonic = "boost poem wool aisle season smart client huge phone tuition absent venue";
+var mnemonic = "fork various ride shoe bench love warrior shine make behave ripple labor";

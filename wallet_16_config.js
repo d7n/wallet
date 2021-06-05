@@ -1,1 +1,1 @@
-var mnemonic = "pitch sight long region convince select harsh enemy forest between nature split";
+var mnemonic = "grow wonder biology dentist share avocado save very brass question index focus";

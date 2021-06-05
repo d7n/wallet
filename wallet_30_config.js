@@ -1,1 +1,1 @@
-var mnemonic = "salute right twist glue shadow assist wrestle tribe elder point leg announce";
+var mnemonic = "broom casual resemble auto put slide rule ankle leg ten view vivid";

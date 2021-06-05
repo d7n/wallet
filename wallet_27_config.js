@@ -1,1 +1,1 @@
-var mnemonic = "jealous aisle demand shrimp call pioneer session clean position soccer people scrub";
+var mnemonic = "step reveal drastic receive loan develop alley useless roof math cake surprise";

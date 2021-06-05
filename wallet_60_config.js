@@ -1,1 +1,1 @@
-var mnemonic = "sign social axis feel cupboard betray salute dance snow rocket approve soda";
+var mnemonic = "wrap evil domain idle name lazy dignity fee plug waste enter vehicle";

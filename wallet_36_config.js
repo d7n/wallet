@@ -1,1 +1,1 @@
-var mnemonic = "one feel slight profit stick asthma wasp diesel galaxy author supreme logic";
+var mnemonic = "strategy degree pact coach axis announce split milk arm shoot like ask";

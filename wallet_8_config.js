@@ -1,1 +1,1 @@
-var mnemonic = "rebuild orange design electric bread usage swing noble start carry spawn aspect";
+var mnemonic = "police electric strong reopen margin unusual toddler august chunk actual wage rifle";

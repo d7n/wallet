@@ -1,1 +1,1 @@
-var mnemonic = "stadium memory canvas before warfare chase viable gossip learn order novel urge";
+var mnemonic = "syrup boost shadow wash pistol feed play cover time black language initial";

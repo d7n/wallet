@@ -1,1 +1,1 @@
-var mnemonic = "caught mirror deposit hedgehog memory reopen cable essay deal faint impact across";
+var mnemonic = "present boost music priority pretty soda face fire like smart daughter choice";

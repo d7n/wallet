@@ -1,1 +1,1 @@
-var mnemonic = "cherry grab annual prevent sauce thumb uncle cabin traffic frost motion weasel";
+var mnemonic = "same bar odor flavor icon surge fall spider pause notable evil outdoor";

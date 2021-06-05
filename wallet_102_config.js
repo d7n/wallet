@@ -1,1 +1,1 @@
-var mnemonic = "diet tell park husband size once isolate grant lake theme win between";
+var mnemonic = "lumber divorce bonus puzzle keep ignore remind boat slot crime absorb reason";

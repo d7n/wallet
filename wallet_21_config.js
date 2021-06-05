@@ -1,1 +1,1 @@
-var mnemonic = "gap stairs swallow toe slice valve cradle uncover slide reunion shoe next";
+var mnemonic = "nut galaxy nut cattle blossom absorb trick melody net upper side hope";

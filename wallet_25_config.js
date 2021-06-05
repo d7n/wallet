@@ -1,1 +1,1 @@
-var mnemonic = "jaguar hammer swim heart digital renew field baby type lyrics dolphin sample";
+var mnemonic = "receive engine toward long promote glare banner total vanish end physical public";

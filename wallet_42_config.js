@@ -1,1 +1,1 @@
-var mnemonic = "obtain page beyond know awake change double miss tomato black light goose";
+var mnemonic = "true catalog corn bounce cream coconut come cause combine unit raven proud";

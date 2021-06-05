@@ -1,1 +1,1 @@
-var mnemonic = "more depth disorder segment accident story trumpet off much frozen ball refuse";
+var mnemonic = "club rare belt bronze spot twice roast patrol foster visit slab assist";

@@ -1,1 +1,1 @@
-var mnemonic = "agree know similar gas interest oxygen work wolf fiscal ranch poet genius";
+var mnemonic = "file toss coyote copy arrange relax figure lens spread together mimic erosion";

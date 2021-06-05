@@ -1,1 +1,1 @@
-var mnemonic = "rib federal debate actual poet cricket century fan pistol final struggle usage";
+var mnemonic = "thumb polar chapter chaos maid speak oppose afraid glide promote mushroom bean";

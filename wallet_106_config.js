@@ -1,1 +1,1 @@
-var mnemonic = "vague town weekend panther rib few secret crash animal fancy idle torch";
+var mnemonic = "east acid wash label label wing wise cigar make man leaf birth";

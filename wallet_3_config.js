@@ -1,1 +1,1 @@
-var mnemonic = "public scan universe stairs home ten airport mosquito walk where clip wasp";
+var mnemonic = "ship unfold acquire income twice female later such chronic dolphin foot battle";

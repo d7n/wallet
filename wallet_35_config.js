@@ -1,1 +1,1 @@
-var mnemonic = "stable relief eye subject crime lunch annual aisle stage review photo enroll";
+var mnemonic = "sadness rhythm coil rib acid parade trigger canyon tape supreme theme job";

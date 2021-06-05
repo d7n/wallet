@@ -1,1 +1,1 @@
-var mnemonic = "vicious resource wish guitar pudding try middle play thought advice draw crouch";
+var mnemonic = "cheese turtle kitten flower runway discover afraid various safe bacon grace gravity";

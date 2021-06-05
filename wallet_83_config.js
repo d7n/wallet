@@ -1,1 +1,1 @@
-var mnemonic = "liar mirror solve energy puppy void various banner warrior insane daughter tragic";
+var mnemonic = "lift hero flip direct desk joy sock sword original apart message express";

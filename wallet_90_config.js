@@ -1,1 +1,1 @@
-var mnemonic = "ozone matter under upon salmon grant tissue any boat surround symbol pepper";
+var mnemonic = "silent fresh wrestle music buddy chuckle famous essence slim boil silly grocery";

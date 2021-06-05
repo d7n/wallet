@@ -1,1 +1,1 @@
-var mnemonic = "piece real wreck arctic will permit suspect used knock vague asthma sketch";
+var mnemonic = "chunk broccoli pen ostrich observe genius surprise liberty arrest arrive jealous twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "will biology practice rebuild census hair surround lady cement nominee bulk magic";
+var mnemonic = "argue weird skirt fat file lunar source wise fragile essence material march";

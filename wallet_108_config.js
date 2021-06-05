@@ -1,1 +1,1 @@
-var mnemonic = "fall sort bag story hurdle lemon kidney tide target lawsuit squeeze cactus";
+var mnemonic = "ready raise flight prefer sweet kangaroo version chunk theory find grid left";

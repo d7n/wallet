@@ -1,1 +1,1 @@
-var mnemonic = "pizza peanut armor enter tent hope tent endless master victory uncle ceiling";
+var mnemonic = "crush cry knee badge rose bid discover trim stay town tuition network";

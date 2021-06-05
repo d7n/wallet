@@ -1,1 +1,1 @@
-var mnemonic = "bring jump orient camp scare sound airport action obey wish attract valley";
+var mnemonic = "enforce vivid system medal payment moral pulp ball fog acoustic draw bread";

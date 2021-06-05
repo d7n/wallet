@@ -1,1 +1,1 @@
-var mnemonic = "noble avoid spike gasp grass head picnic either anchor avoid head sing";
+var mnemonic = "wing broom month air make cloth surge wedding coach oyster gown fun";

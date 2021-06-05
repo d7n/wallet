@@ -1,1 +1,1 @@
-var mnemonic = "stomach garbage tone west flat consider zero energy resource trash avocado coil";
+var mnemonic = "zebra upgrade torch sister slight cave ready forget siren lab awesome buzz";

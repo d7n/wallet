@@ -1,1 +1,1 @@
-var mnemonic = "whale need plunge employ bag demise fuel lyrics sing jacket bitter husband";
+var mnemonic = "belt source device combine relax faint trust fiber floor chapter depend science";

@@ -1,1 +1,1 @@
-var mnemonic = "naive stem taxi worth insane lazy fun coconut amateur profit toe buzz";
+var mnemonic = "banner valid dynamic rose noodle will segment verify pair marriage trial elite";

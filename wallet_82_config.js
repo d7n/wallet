@@ -1,1 +1,1 @@
-var mnemonic = "cargo produce update basket survey cargo radar exact brass airport bracket crime";
+var mnemonic = "twice broccoli race base saddle cry satoshi such under math educate fluid";

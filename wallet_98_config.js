@@ -1,1 +1,1 @@
-var mnemonic = "again bind spider narrow person survey blur business report rich hire move";
+var mnemonic = "sleep boring useless liberty source milk truth plate like angry bicycle crucial";

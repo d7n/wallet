@@ -1,1 +1,1 @@
-var mnemonic = "stage salad notice spirit manual soda hint easily open episode supreme peanut";
+var mnemonic = "hockey riot rent index harbor they wrist lizard debate phone silent poet";

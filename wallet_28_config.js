@@ -1,1 +1,1 @@
-var mnemonic = "wedding pulse purse execute dolphin prison february empower gaze view width jelly";
+var mnemonic = "sausage chat great crystal crouch combine half flavor tattoo silent stay hello";

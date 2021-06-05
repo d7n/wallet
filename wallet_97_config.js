@@ -1,1 +1,1 @@
-var mnemonic = "farm faith bridge present install steak require shaft winner tortoise couple reduce";
+var mnemonic = "number climb spoil sting athlete blossom scorpion nothing process brick horn mistake";

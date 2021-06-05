@@ -1,1 +1,1 @@
-var mnemonic = "mail diamond knock relax east nephew peasant symbol grass silver leisure fluid";
+var mnemonic = "biology blur quiz ball cool rather trust print toss august stereo park";

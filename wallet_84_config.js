@@ -1,1 +1,1 @@
-var mnemonic = "worth region employ trigger energy burst endless invite inmate build gadget matrix";
+var mnemonic = "enrich cube trouble table wrist scatter gun vendor acoustic foam key behind";

@@ -1,1 +1,1 @@
-var mnemonic = "insect athlete answer lunch anchor sick doll vessel salad maple disease zebra";
+var mnemonic = "mirror wing correct excuse clerk street clap announce assault crouch possible immune";

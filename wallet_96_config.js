@@ -1,1 +1,1 @@
-var mnemonic = "letter mushroom ranch gown define romance purchase label wild essay whale island";
+var mnemonic = "piece multiply depth history essay weekend weapon method hill deer wide blame";

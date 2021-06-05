@@ -1,1 +1,1 @@
-var mnemonic = "inmate hill lake job festival ten path swamp wide robust weird song";
+var mnemonic = "right rain metal daring used mirror slight pluck liberty hurdle assault mom";

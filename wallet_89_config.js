@@ -1,1 +1,1 @@
-var mnemonic = "all hockey river cool axis left slow pencil sword tragic ring draw";
+var mnemonic = "tray stumble useful misery salon cupboard scatter album couch lottery fee library";

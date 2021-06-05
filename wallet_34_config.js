@@ -1,1 +1,1 @@
-var mnemonic = "abandon jungle cherry talk jaguar embrace middle remain involve dismiss phone photo";
+var mnemonic = "enlist two arm bubble sword sponsor neither mass truth warm breeze circle";

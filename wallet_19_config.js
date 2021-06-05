@@ -1,1 +1,1 @@
-var mnemonic = "item mercy maid oyster simple edit mechanic human sugar amount snow deal";
+var mnemonic = "exchange later park fitness throw castle side original wrong hazard embrace truly";

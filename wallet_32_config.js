@@ -1,1 +1,1 @@
-var mnemonic = "space solve bronze snake clutch find pole unfair denial tongue entire history";
+var mnemonic = "carry vague pill mushroom direct finish worth message broccoli rough loud caught";

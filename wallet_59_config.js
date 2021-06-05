@@ -1,1 +1,1 @@
-var mnemonic = "flight hip addict absent mechanic marble drop kitten face jazz funny dwarf";
+var mnemonic = "stove beauty eagle merit pupil balance biology define gun capital equip hope";

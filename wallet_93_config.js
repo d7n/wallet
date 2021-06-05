@@ -1,1 +1,1 @@
-var mnemonic = "creek enact ski matrix shell jaguar control credit girl insane mad van";
+var mnemonic = "swim wisdom finger harvest broom fat assume bench want style hill scheme";

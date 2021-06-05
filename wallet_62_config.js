@@ -1,1 +1,1 @@
-var mnemonic = "fence wall normal vote general script resist top dawn any valley quiz";
+var mnemonic = "vibrant calm family donate helmet carpet category icon siege fit happy giant";

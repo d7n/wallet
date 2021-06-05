@@ -1,1 +1,1 @@
-var mnemonic = "toe price aspect start link ginger fashion leader tenant quick shove nuclear";
+var mnemonic = "twenty canoe mobile gospel gate spice destroy index cinnamon deal demise concert";

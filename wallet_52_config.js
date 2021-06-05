@@ -1,1 +1,1 @@
-var mnemonic = "emotion pupil local girl amused attitude dial festival budget earn exhibit waste";
+var mnemonic = "gain ten route quarter squirrel dice arrow nut gorilla fantasy town section";

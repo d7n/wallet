@@ -1,1 +1,1 @@
-var mnemonic = "jar whip address treat survey slam glide awake ridge match success run";
+var mnemonic = "dumb express object slide dash march father book beach jacket barrel token";

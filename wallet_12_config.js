@@ -1,1 +1,1 @@
-var mnemonic = "differ potato piece rigid tenant enforce body path usage utility advice shoe";
+var mnemonic = "suffer air sauce idle imitate oval enjoy tourist actress kitchen almost unable";

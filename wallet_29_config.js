@@ -1,1 +1,1 @@
-var mnemonic = "diamond nation charge exercise wonder youth mesh prosper front kind suspect special";
+var mnemonic = "ski february maximum youth license number chimney double again veteran taste street";

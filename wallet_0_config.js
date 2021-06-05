@@ -1,1 +1,1 @@
-var mnemonic = "foam release below measure evidence laptop crumble liberty science erase congress sugar";
+var mnemonic = "nerve goddess shop forget wrist live chapter congress frequent save ketchup impact";

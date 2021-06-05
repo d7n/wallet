@@ -1,1 +1,1 @@
-var mnemonic = "client sing resource bulk polar cargo humor wave leader problem fiscal cliff";
+var mnemonic = "stuff property village ranch enlist profit random merge pig dash hotel truly";

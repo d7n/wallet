@@ -1,1 +1,1 @@
-var mnemonic = "chest only typical potato job roof digital blame shoot remind position misery";
+var mnemonic = "coil around current elbow awkward immune level release soldier seed carbon bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow access lift decline october goat wisdom cream coyote country artist chuckle";
+var mnemonic = "license boost actual frog student extra arch rally want marriage rail reward";

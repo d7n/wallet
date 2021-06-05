@@ -1,1 +1,1 @@
-var mnemonic = "practice camera extend level eager bean pair novel brave neither ride inner";
+var mnemonic = "then kiwi tooth hybrid vote imitate three banner toast month affair leader";

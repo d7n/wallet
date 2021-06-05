@@ -1,1 +1,1 @@
-var mnemonic = "vault panel image know lens size have duty noise tool tilt tag";
+var mnemonic = "marine empty estate find stuff throw quiz project stereo blush rich female";

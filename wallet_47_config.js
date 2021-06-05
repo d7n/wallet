@@ -1,1 +1,1 @@
-var mnemonic = "material any stadium toy strike also version suggest half gather comfort hammer";
+var mnemonic = "crime lamp illegal ridge grunt raise aim awful inflict slim paper leopard";

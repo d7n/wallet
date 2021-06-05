@@ -1,1 +1,1 @@
-var mnemonic = "wear april puzzle affair crisp tribe round length shell laugh slice index";
+var mnemonic = "pole harvest armor squirrel tired pizza glad juice lobster include street health";

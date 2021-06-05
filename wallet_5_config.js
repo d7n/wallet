@@ -1,1 +1,1 @@
-var mnemonic = "force castle aware logic drill drill panther foster victory monster success miracle";
+var mnemonic = "hobby canyon lobster impulse ginger refuse hard jungle desert over picnic day";

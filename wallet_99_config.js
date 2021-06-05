@@ -1,1 +1,1 @@
-var mnemonic = "utility become capital truth beauty canal carry box sword void dune praise";
+var mnemonic = "gate cost brick hub race swarm theory science person child mass target";

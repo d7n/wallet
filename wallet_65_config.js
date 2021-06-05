@@ -1,1 +1,1 @@
-var mnemonic = "cake couple diesel labor place primary globe make border pull genius october";
+var mnemonic = "sorry people potato salt glue girl paddle achieve lyrics sound monster luxury";

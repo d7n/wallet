@@ -1,1 +1,1 @@
-var mnemonic = "found despair town illness unhappy pottery hard buddy angle anchor figure gather";
+var mnemonic = "spot sing grab valid wisdom rude hair extra dream describe wine now";

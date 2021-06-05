@@ -1,1 +1,1 @@
-var mnemonic = "race tragic alley other box display frequent oblige unit curious diary drink";
+var mnemonic = "trip know girl effort cousin smart twenty solid consider excess midnight rate";

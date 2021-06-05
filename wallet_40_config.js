@@ -1,1 +1,1 @@
-var mnemonic = "inner castle alley broken surround cool olive bomb flat exhaust rail idle";
+var mnemonic = "beach art dream couple immense giggle below setup budget live chicken canvas";

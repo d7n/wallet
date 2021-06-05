@@ -1,1 +1,1 @@
-var mnemonic = "wedding noble essence basic jaguar absurd where top rival weapon spring orange";
+var mnemonic = "foil canvas cool blame industry amount tourist feel silly ramp gorilla tilt";

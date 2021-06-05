@@ -1,1 +1,1 @@
-var mnemonic = "ozone oblige menu silly plate wait muscle holiday remain describe soap armed";
+var mnemonic = "broken hill gym ostrich bottom clay useless deputy harbor acoustic midnight zebra";

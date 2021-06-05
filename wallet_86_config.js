@@ -1,1 +1,1 @@
-var mnemonic = "amount whisper carbon balance logic trend kit garden knife game solid check";
+var mnemonic = "drop fade nominee uniform flee pioneer vault blind verify amateur law timber";

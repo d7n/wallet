@@ -1,1 +1,1 @@
-var mnemonic = "host circle dash position snack vault wedding drop can abuse jacket kidney";
+var mnemonic = "party runway crush fog poem invite chuckle game three grief trade conduct";

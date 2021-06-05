@@ -1,1 +1,1 @@
-var mnemonic = "sudden surround bag wolf bundle veteran history sketch infant repeat bamboo clown";
+var mnemonic = "pencil zoo pepper result film census between ritual text yellow release gun";

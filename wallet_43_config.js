@@ -1,1 +1,1 @@
-var mnemonic = "wrap effort plate cancel that deer damage crystal measure print exotic session";
+var mnemonic = "obscure athlete auction slide south walnut weapon bronze mountain state curtain pistol";

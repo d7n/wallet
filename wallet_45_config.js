@@ -1,1 +1,1 @@
-var mnemonic = "above oven ten lawsuit sword adjust wage need prefer between list client";
+var mnemonic = "wide hip urge save border dry again hurry welcome vocal special ramp";

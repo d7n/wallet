@@ -1,1 +1,1 @@
-var mnemonic = "question ensure vote fringe rookie pumpkin retreat truth country heavy knife theory";
+var mnemonic = "sure parent monitor near essence spoon light comfort wrist empty spike trick";

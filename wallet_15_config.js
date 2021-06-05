@@ -1,1 +1,1 @@
-var mnemonic = "exercise tuition two shoot rice chest make grocery police scatter syrup valve";
+var mnemonic = "flower depth express dress daughter catch chaos lava wild repeat hockey soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "space frame shed robust neglect involve forget assault visit maze festival fancy";
+var mnemonic = "thing green hand gather tag chicken harbor undo visit deal hair carry";

@@ -1,1 +1,1 @@
-var mnemonic = "awful side source place occur vivid frequent mind stadium axis cliff grass";
+var mnemonic = "diary knock pioneer foil mad bicycle brass rare image divorce melt silk";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet link twist mosquito fringe grant prosper wasp shoe rail pig three";
+var mnemonic = "royal smile nurse reveal body figure right yellow dinner green reflect lounge";

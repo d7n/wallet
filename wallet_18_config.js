@@ -1,1 +1,1 @@
-var mnemonic = "emotion cliff sad error tape dash habit legend author develop afford expect";
+var mnemonic = "table budget release pill hair panel catch lawsuit benefit slam easy oval";
