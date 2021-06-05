@@ -1,1 +1,1 @@
-var mnemonic = "pact glare story clock carpet garden main sight sphere bonus economy match";
+var mnemonic = "pet accident ready airport invite captain language share gravity interest kitten hour";

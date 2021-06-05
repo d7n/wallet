@@ -1,1 +1,1 @@
-var mnemonic = "clerk century off pave urge mammal slam satoshi water alpha ozone foam";
+var mnemonic = "shoot camera merry snack soda bacon damp motion bonus elephant impose across";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol ski glad bleak glance practice route universe anxiety local bomb tilt";
+var mnemonic = "palm speed cricket rescue soul dash shield hand glance endorse quick trim";

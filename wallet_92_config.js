@@ -1,1 +1,1 @@
-var mnemonic = "gossip photo indicate plug civil dose try buyer dignity dignity square ask";
+var mnemonic = "cruise hundred devote doctor cat liberty sibling unaware manual champion display quarter";

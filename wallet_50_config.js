@@ -1,1 +1,1 @@
-var mnemonic = "pupil ostrich anxiety right hawk mother misery onion girl reform vast lion";
+var mnemonic = "rice swamp pretty wrap please quantum that tiny rack surprise unusual pizza";

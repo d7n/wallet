@@ -1,1 +1,1 @@
-var mnemonic = "tobacco toward noble napkin orange eagle zone hour planet card gasp nuclear";
+var mnemonic = "achieve thunder salad rain anger soon gesture flip shield staff certain cute";

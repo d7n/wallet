@@ -1,1 +1,1 @@
-var mnemonic = "bike galaxy fuel matrix injury spot unaware forget leaf bicycle alcohol cattle";
+var mnemonic = "pyramid picnic setup soft solid ramp online deal mistake dynamic hamster pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "noble sentence bright glove strategy liar pelican smooth license rain genuine beef";
+var mnemonic = "dog loop destroy country lyrics upon engine hedgehog crush butter jacket vapor";

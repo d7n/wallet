@@ -1,1 +1,1 @@
-var mnemonic = "owner escape electric strong quarter measure story soap indicate fortune add head";
+var mnemonic = "essay produce arch that dragon enjoy laugh absent genre lobster rather blood";

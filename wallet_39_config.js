@@ -1,1 +1,1 @@
-var mnemonic = "scheme gallery elbow basic drive sunset twice broken eternal throw butter blanket";
+var mnemonic = "coil liberty hub unaware dizzy window color sight potato useful domain source";

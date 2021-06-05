@@ -1,1 +1,1 @@
-var mnemonic = "east top leader more north comfort soul near adapt steel lab zoo";
+var mnemonic = "method beyond suit basic inner law napkin animal vote surround approve suggest";

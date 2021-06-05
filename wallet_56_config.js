@@ -1,1 +1,1 @@
-var mnemonic = "arrest early runway pottery hand original congress balance follow deposit rally rude";
+var mnemonic = "core sister reward pride dress urge cram reject pizza half horse health";

@@ -1,1 +1,1 @@
-var mnemonic = "man ability hint nasty tape vibrant casino ketchup melody sport symptom material";
+var mnemonic = "squeeze damp basket fatal tonight nature secret settle orange mule ketchup cake";

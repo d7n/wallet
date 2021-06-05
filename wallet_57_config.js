@@ -1,1 +1,1 @@
-var mnemonic = "place pistol deal camera fame middle deliver picture dizzy enroll gloom viable";
+var mnemonic = "glide loud exact crucial blanket curious mutual panic couch lava near discover";

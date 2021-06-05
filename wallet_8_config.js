@@ -1,1 +1,1 @@
-var mnemonic = "tone cherry twin possible dwarf few type depth tunnel horn news eagle";
+var mnemonic = "shiver capable vessel they air iron swarm flock canoe display company napkin";

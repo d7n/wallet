@@ -1,1 +1,1 @@
-var mnemonic = "jacket wise link muffin case crystal list bulk next stadium clever sauce";
+var mnemonic = "bird horn clutch volcano stereo pulp benefit become reveal wing reopen gossip";

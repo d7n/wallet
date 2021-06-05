@@ -1,1 +1,1 @@
-var mnemonic = "rubber pilot maze prize race shield library cook fuel give mad tell";
+var mnemonic = "egg soap empty organ ridge parade neither swap fruit enlist measure earn";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep volume tumble assault vacuum assist omit fine trash elite person balance";
+var mnemonic = "history they woman dose scene prefer tent borrow couch key day much";

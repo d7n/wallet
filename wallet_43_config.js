@@ -1,1 +1,1 @@
-var mnemonic = "price round grab chest maple ranch under evidence table clerk repeat private";
+var mnemonic = "tiger citizen trouble today staff purse maple meat truth rescue axis hire";

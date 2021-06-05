@@ -1,1 +1,1 @@
-var mnemonic = "plastic wide turn inmate build vast history smile wait destroy dizzy library";
+var mnemonic = "average produce over great venture about fury fork acquire virtual pudding cereal";

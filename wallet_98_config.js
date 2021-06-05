@@ -1,1 +1,1 @@
-var mnemonic = "twenty south head auction tonight jacket neglect guess found end idle august";
+var mnemonic = "lady cause witness crumble pottery pet stand wrist accident verb thought issue";

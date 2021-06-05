@@ -1,1 +1,1 @@
-var mnemonic = "boost hair agent ignore venture scissors inquiry nothing green primary force frame";
+var mnemonic = "build enhance canyon edit develop clarify jungle physical obtain habit struggle eight";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond fitness correct clarify secret pool steak spend since hello report gold";
+var mnemonic = "gravity alarm lawn toast river fiction awake ribbon change intact cause observe";

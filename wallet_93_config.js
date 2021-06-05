@@ -1,1 +1,1 @@
-var mnemonic = "author actress future alone sand hotel isolate trumpet success argue ostrich cycle";
+var mnemonic = "jump oak pistol tank nerve funny slogan slam journey famous segment mention";

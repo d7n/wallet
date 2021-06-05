@@ -1,1 +1,1 @@
-var mnemonic = "buyer mind flight either column mule example scan nurse rough slab outdoor";
+var mnemonic = "orchard kite nerve raven crowd riot there wise fish balcony myself skin";

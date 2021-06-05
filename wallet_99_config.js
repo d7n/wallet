@@ -1,1 +1,1 @@
-var mnemonic = "soft approve increase window globe swap shrimp twelve kingdom category book wool";
+var mnemonic = "jelly bullet imitate enroll depart lunar cattle accident tone shrug announce crisp";

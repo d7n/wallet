@@ -1,1 +1,1 @@
-var mnemonic = "alert tube shiver cook second pretty soup staff misery defy innocent eager";
+var mnemonic = "shaft choice private typical step answer expose odor ranch side forward firm";

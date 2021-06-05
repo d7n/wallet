@@ -1,1 +1,1 @@
-var mnemonic = "symptom strategy north because layer ribbon scale drop subject mother token have";
+var mnemonic = "elder catch nephew atom rural puzzle illegal cool slight post hamster swim";

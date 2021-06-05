@@ -1,1 +1,1 @@
-var mnemonic = "suit result private blind fix unfair erase aisle chimney edit copper spin";
+var mnemonic = "enter banner army wealth analyst maid brown fly move secret tag high";

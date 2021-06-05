@@ -1,1 +1,1 @@
-var mnemonic = "neglect dinner bench offer diet sail perfect tuition pony outdoor royal swim";
+var mnemonic = "night reveal void wedding foam twenty entry snake nest gadget urban seed";

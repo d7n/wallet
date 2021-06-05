@@ -1,1 +1,1 @@
-var mnemonic = "crane gorilla latin benefit stomach guide lobster tonight female panther push knife";
+var mnemonic = "dawn metal unusual merge crunch action smile depart expect sand polar alter";

@@ -1,1 +1,1 @@
-var mnemonic = "trade puppy force away monster column finger danger piece ugly finger federal";
+var mnemonic = "tree reopen infant quit other boring snack creek thunder invite toilet fame";

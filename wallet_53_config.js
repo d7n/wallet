@@ -1,1 +1,1 @@
-var mnemonic = "spatial smoke weapon canyon deal liquid action bulk unique frog web stool";
+var mnemonic = "stairs increase stick weather super nest life ensure raccoon speak slogan year";

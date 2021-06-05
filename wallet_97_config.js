@@ -1,1 +1,1 @@
-var mnemonic = "media income repeat grunt develop nurse simple execute music disease total enforce";
+var mnemonic = "castle fix aunt alien champion betray broken gate select record taxi flash";

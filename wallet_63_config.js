@@ -1,1 +1,1 @@
-var mnemonic = "loud potato web riot struggle kit cotton ceiling token peanut sweet envelope";
+var mnemonic = "race pumpkin balcony swallow margin pond hospital inflict carry evil erupt cave";

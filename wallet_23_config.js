@@ -1,1 +1,1 @@
-var mnemonic = "update ball warfare bring resist vote winter unit right sound spring purity";
+var mnemonic = "crazy achieve garden mosquito craft echo learn hotel quick laundry present account";

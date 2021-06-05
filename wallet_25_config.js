@@ -1,1 +1,1 @@
-var mnemonic = "theme spirit saddle fashion enroll equal rural foster matter grocery that ball";
+var mnemonic = "section city coin apart dentist mimic hockey nuclear glass edge rice bird";

@@ -1,1 +1,1 @@
-var mnemonic = "ill because abuse pill erosion hidden miss valve eyebrow peasant glance kit";
+var mnemonic = "future that business coyote rhythm flush clerk ordinary anxiety lake name trigger";

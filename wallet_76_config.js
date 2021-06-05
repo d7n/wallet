@@ -1,1 +1,1 @@
-var mnemonic = "exclude length feature bird aware spy movie odor black bag owner fitness";
+var mnemonic = "possible topic until advice nut update require romance furnace symbol absurd fancy";

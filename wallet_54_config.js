@@ -1,1 +1,1 @@
-var mnemonic = "quit solve exhibit power snap dove palm city critic length execute normal";
+var mnemonic = "target pause stand faculty solid gap scrap use reopen approve legal thank";

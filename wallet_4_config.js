@@ -1,1 +1,1 @@
-var mnemonic = "cliff ivory immune route expire faculty tornado cactus sphere slender mutual metal";
+var mnemonic = "season ankle boost faith offer time august person vital bridge ethics guitar";

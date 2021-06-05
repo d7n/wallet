@@ -1,1 +1,1 @@
-var mnemonic = "dove globe coconut useful balcony step chicken stage museum trigger beyond table";
+var mnemonic = "orient dragon feel vicious hammer wonder document bundle effort scissors renew hamster";

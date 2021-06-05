@@ -1,1 +1,1 @@
-var mnemonic = "butter later crazy federal chat coast demand donate nest pool rival demand";
+var mnemonic = "happy avocado little situate when original example trick capital castle super split";

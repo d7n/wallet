@@ -1,1 +1,1 @@
-var mnemonic = "brain congress flame hole pause kick run happy famous swap theory artist";
+var mnemonic = "crazy magic reveal craft joy shaft couple lawsuit tip pole peace salt";

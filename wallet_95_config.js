@@ -1,1 +1,1 @@
-var mnemonic = "napkin ride dutch fantasy poem panther panda dream scare trust spray lunar";
+var mnemonic = "knee clarify into coast satoshi toilet blind emotion shy wire useless knife";

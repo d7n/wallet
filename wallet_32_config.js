@@ -1,1 +1,1 @@
-var mnemonic = "skate knock lemon network fly region slim lemon horse erosion soft addict";
+var mnemonic = "acoustic employ village grunt reduce brand canyon best such thrive rally nuclear";

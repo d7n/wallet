@@ -1,1 +1,1 @@
-var mnemonic = "flock place credit motion reunion stove angle letter scrap animal vault afford";
+var mnemonic = "empty argue aim kit yard two rival upset wire carbon isolate token";

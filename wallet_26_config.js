@@ -1,1 +1,1 @@
-var mnemonic = "limb will total heavy brass glove test gap armed current ostrich fitness";
+var mnemonic = "tattoo tattoo nuclear glove split damp toward hold term rigid craft raccoon";

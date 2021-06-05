@@ -1,1 +1,1 @@
-var mnemonic = "whip perfect account fiber verify aware bar neither speed vocal hill leopard";
+var mnemonic = "duck energy marble neglect despair merge inmate palace soon canyon winner token";

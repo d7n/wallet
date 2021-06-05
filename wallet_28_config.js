@@ -1,1 +1,1 @@
-var mnemonic = "bulb robust skull reopen medal demise dance wait admit assault client churn";
+var mnemonic = "mutual chef banana design lesson harbor adjust catch indicate neither hurry library";

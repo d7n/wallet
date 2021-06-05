@@ -1,1 +1,1 @@
-var mnemonic = "shield capable glory expect chase lecture spice material subject vacuum virus pulp";
+var mnemonic = "blast distance mask reform receive horror lawn december quiz rose float abandon";

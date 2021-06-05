@@ -1,1 +1,1 @@
-var mnemonic = "dog cool bus tragic trouble fitness almost cook quit canyon impose correct";
+var mnemonic = "ridge code baby safe trophy dismiss dawn survey fitness debris adult since";

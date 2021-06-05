@@ -1,1 +1,1 @@
-var mnemonic = "taxi manual hawk merit mesh asset toast busy clump energy mimic dwarf";
+var mnemonic = "menu broken velvet language memory news fragile drama supreme flock soda route";

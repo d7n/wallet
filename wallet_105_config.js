@@ -1,1 +1,1 @@
-var mnemonic = "harsh heavy wheel rare identify material sketch runway link sea fitness omit";
+var mnemonic = "seminar prison convince guess glass census bottom recall post adult scale drum";

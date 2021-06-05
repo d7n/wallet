@@ -1,1 +1,1 @@
-var mnemonic = "trim panther gate wool rookie void domain drift grief this quarter fold";
+var mnemonic = "vacuum raise omit tower afford follow struggle foil fragile shoot acoustic trouble";

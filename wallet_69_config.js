@@ -1,1 +1,1 @@
-var mnemonic = "critic wash echo series grab truly can relax hunt more always lend";
+var mnemonic = "depth keen angry flower wish path canoe curtain keen chief garment food";

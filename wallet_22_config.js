@@ -1,1 +1,1 @@
-var mnemonic = "view rival obscure swap produce hold hen cake valley better follow awesome";
+var mnemonic = "fire light prosper remind debate cruise squirrel love dry eight vehicle vehicle";

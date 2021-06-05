@@ -1,1 +1,1 @@
-var mnemonic = "dolphin grass source island aunt trial rookie heavy drip volume lazy maximum";
+var mnemonic = "patch banner fruit hazard color night width govern what polar tuna upon";

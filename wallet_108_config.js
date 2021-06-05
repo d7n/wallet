@@ -1,1 +1,1 @@
-var mnemonic = "valve woman salad disorder fish corn jelly announce human sausage style equip";
+var mnemonic = "idea piece north ride amateur render remember frost jewel drum dress kitten";

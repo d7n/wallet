@@ -1,1 +1,1 @@
-var mnemonic = "museum nuclear adapt mass believe verify filter treat unknown add scheme harsh";
+var mnemonic = "unique actress together slight swift detect boss track cake sentence rival canoe";

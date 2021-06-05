@@ -1,1 +1,1 @@
-var mnemonic = "account normal bonus give travel festival sell indoor amused opinion fog trade";
+var mnemonic = "absorb finger cable code desk front price ankle parrot hold impulse snap";

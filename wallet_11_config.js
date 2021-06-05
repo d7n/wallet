@@ -1,1 +1,1 @@
-var mnemonic = "spend whip shaft drastic giant shoulder mail brand senior ring wealth link";
+var mnemonic = "tennis multiply student bachelor sustain stay mother ginger answer expire ethics enhance";

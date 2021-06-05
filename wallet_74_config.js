@@ -1,1 +1,1 @@
-var mnemonic = "goose remain impact pluck used inquiry silent lottery lonely any goat clown";
+var mnemonic = "deliver danger image pig cruise drink cart art raven style spell century";

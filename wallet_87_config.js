@@ -1,1 +1,1 @@
-var mnemonic = "fortune primary rhythm dove blossom today quantum purpose empower message spawn viable";
+var mnemonic = "liar next maid distance kitchen fade broom voyage lounge also fine sentence";

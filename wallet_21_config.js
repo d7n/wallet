@@ -1,1 +1,1 @@
-var mnemonic = "ripple famous hunt parade embody what reform slow upgrade adapt pluck flash";
+var mnemonic = "twice find defense thank venue public mention angle equip lady clap client";

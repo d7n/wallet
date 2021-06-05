@@ -1,1 +1,1 @@
-var mnemonic = "rate stool grief glue cry wave coral bullet novel deputy exile kind";
+var mnemonic = "depart try piece ride crack dish wet coyote orphan lion will define";

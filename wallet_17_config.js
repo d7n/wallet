@@ -1,1 +1,1 @@
-var mnemonic = "elite erosion gun upper toward school paddle salmon tower future lyrics logic";
+var mnemonic = "kit panther what tumble pipe tail file trigger welcome debris tribe ask";

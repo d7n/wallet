@@ -1,1 +1,1 @@
-var mnemonic = "drive capital dizzy glance rose worth slush warrior old document armed section";
+var mnemonic = "dismiss rapid library member early heavy sense embark cube follow outer flavor";

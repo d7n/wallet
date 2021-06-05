@@ -1,1 +1,1 @@
-var mnemonic = "amused sweet level horn before engine cry crater arrow price remember wait";
+var mnemonic = "coin coffee expand lock cherry extra vibrant screen oval then enough final";

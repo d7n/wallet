@@ -1,1 +1,1 @@
-var mnemonic = "garment describe slam vintage entire inform legal satoshi wrong army master vintage";
+var mnemonic = "tag impact grow crater produce siege december habit combine yard essence author";

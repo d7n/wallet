@@ -1,1 +1,1 @@
-var mnemonic = "sponsor blush glad cross prison swarm forward assault gaze evolve vintage useless";
+var mnemonic = "solution misery left meat whisper popular rabbit situate panther wolf slow anxiety";

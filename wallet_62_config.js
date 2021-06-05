@@ -1,1 +1,1 @@
-var mnemonic = "tower together never scrub extra often aunt discover success flash night wash";
+var mnemonic = "move jungle renew awful goat core tomato neglect worth sick raven narrow";

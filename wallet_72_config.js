@@ -1,1 +1,1 @@
-var mnemonic = "banner clog sentence year kitchen van together kidney radar curve sweet plug";
+var mnemonic = "hand measure inform pool visual clinic try public team ability above awful";

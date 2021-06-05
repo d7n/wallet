@@ -1,1 +1,1 @@
-var mnemonic = "avocado empty energy mercy glory outer merry hint disagree hobby topic canvas";
+var mnemonic = "exit west valid below camp sunny funny feel kiss fade rough tail";

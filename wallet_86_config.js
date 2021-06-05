@@ -1,1 +1,1 @@
-var mnemonic = "notice fitness surface lecture net shiver code funny grace lounge spoon unit";
+var mnemonic = "hello winter simple illegal idea orphan refuse rail allow tragic ten gown";

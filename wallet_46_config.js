@@ -1,1 +1,1 @@
-var mnemonic = "public save sleep direct tackle correct loud online gun lady rack crystal";
+var mnemonic = "jaguar exclude depth know pill scene club blast mask sunny gossip alcohol";

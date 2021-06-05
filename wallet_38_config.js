@@ -1,1 +1,1 @@
-var mnemonic = "wrestle frequent boring among web weekend modify nurse jeans wall soul either";
+var mnemonic = "delay cloth edge excite addict quality milk electric science organ resist cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "foster axis sea valve zoo announce senior history liberty demand seminar spider";
+var mnemonic = "napkin spider chapter pilot volume candy connect mountain lounge dawn outer human";

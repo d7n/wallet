@@ -1,1 +1,1 @@
-var mnemonic = "room quick change jealous below toe humble choose indicate blossom staff sick";
+var mnemonic = "blossom topic jump chapter dentist sentence range virtual power above bind easily";

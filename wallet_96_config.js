@@ -1,1 +1,1 @@
-var mnemonic = "burst scheme actress blind dirt prison immense iron vote maze busy year";
+var mnemonic = "there inflict duck humor rebuild damp sing clog wild pride produce divide";

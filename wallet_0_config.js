@@ -1,1 +1,1 @@
-var mnemonic = "unusual result mass income power always average wheel transfer devote push rack";
+var mnemonic = "correct toe fine thumb promote setup below bike camp velvet slight van";

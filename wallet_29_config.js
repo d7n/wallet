@@ -1,1 +1,1 @@
-var mnemonic = "empower public scene sauce motor afraid concert above setup hover frog rotate";
+var mnemonic = "culture liar trial file exchange clever stand slab casino enhance skill list";

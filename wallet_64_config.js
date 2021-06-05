@@ -1,1 +1,1 @@
-var mnemonic = "glory truck surround usual agent wealth awful have grit word box order";
+var mnemonic = "grape cash hungry amateur voice electric payment pill venture idle property orchard";

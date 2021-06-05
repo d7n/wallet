@@ -1,1 +1,1 @@
-var mnemonic = "blur divide top wisdom paper trigger library pig sugar fall rich offer";
+var mnemonic = "grid capital simple hurry foil toe gym spare manual enlist giggle matrix";

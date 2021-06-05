@@ -1,1 +1,1 @@
-var mnemonic = "theme night awesome bracket welcome insane garden dinner present illness live bench";
+var mnemonic = "panic post tooth decade badge bundle kiss invite daring tooth black december";

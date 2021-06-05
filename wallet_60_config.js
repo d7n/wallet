@@ -1,1 +1,1 @@
-var mnemonic = "wasp regret tool town hidden mass taste frown river uphold grunt sugar";
+var mnemonic = "sure unfair unaware owner admit maximum monkey owner iron income useless only";
