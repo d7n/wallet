@@ -1,1 +1,1 @@
-var mnemonic = "renew orbit thank margin apology below craft law goat swift dry spoon";
+var mnemonic = "napkin ride dutch fantasy poem panther panda dream scare trust spray lunar";

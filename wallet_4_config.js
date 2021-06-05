@@ -1,1 +1,1 @@
-var mnemonic = "pudding repeat lake ski knife rural account process that sort tortoise pluck";
+var mnemonic = "cliff ivory immune route expire faculty tornado cactus sphere slender mutual metal";

@@ -1,1 +1,1 @@
-var mnemonic = "course surround escape please trigger visual badge army iron beyond section prosper";
+var mnemonic = "pact glare story clock carpet garden main sight sphere bonus economy match";

@@ -1,1 +1,1 @@
-var mnemonic = "rude panel lend either wealth actress ski ankle caught leisure oval labor";
+var mnemonic = "arrest early runway pottery hand original congress balance follow deposit rally rude";

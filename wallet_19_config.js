@@ -1,1 +1,1 @@
-var mnemonic = "spray scissors scatter polar useless rigid distance odor neglect someone gym churn";
+var mnemonic = "draft chest swing middle tornado regular pizza electric century rebel neutral leg";

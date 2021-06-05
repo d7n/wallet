@@ -1,1 +1,1 @@
-var mnemonic = "sister exotic topic useless meat layer prepare august airport electric memory chronic";
+var mnemonic = "ill because abuse pill erosion hidden miss valve eyebrow peasant glance kit";

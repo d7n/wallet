@@ -1,1 +1,1 @@
-var mnemonic = "piano differ ready food error lazy purity fan thing major raise stuff";
+var mnemonic = "finish bid sting wrong adapt unfair yellow cool wolf pride episode key";

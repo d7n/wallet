@@ -1,1 +1,1 @@
-var mnemonic = "zone pepper pen electric zero vault junk flame entry ignore measure since";
+var mnemonic = "media income repeat grunt develop nurse simple execute music disease total enforce";

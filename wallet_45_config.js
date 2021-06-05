@@ -1,1 +1,1 @@
-var mnemonic = "flee brown monster morning boost course antenna person outer judge credit field";
+var mnemonic = "trade puppy force away monster column finger danger piece ugly finger federal";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza gift swarm airport addict belt fly token pudding thought hello outside";
+var mnemonic = "view rival obscure swap produce hold hen cake valley better follow awesome";

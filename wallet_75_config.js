@@ -1,1 +1,1 @@
-var mnemonic = "north concert century degree pumpkin giant analyst correct silk neglect refuse notable";
+var mnemonic = "plastic wide turn inmate build vast history smile wait destroy dizzy library";

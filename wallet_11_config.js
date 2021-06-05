@@ -1,1 +1,1 @@
-var mnemonic = "major snack crucial decorate distance custom provide holiday lawsuit between dawn jelly";
+var mnemonic = "spend whip shaft drastic giant shoulder mail brand senior ring wealth link";

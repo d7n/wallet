@@ -1,1 +1,1 @@
-var mnemonic = "core amazing prosper follow guilt answer garage soccer peasant firm flavor quiz";
+var mnemonic = "quit solve exhibit power snap dove palm city critic length execute normal";

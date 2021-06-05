@@ -1,1 +1,1 @@
-var mnemonic = "rigid olympic one vote peanut daughter leopard achieve stone until dream adapt";
+var mnemonic = "jacket wise link muffin case crystal list bulk next stadium clever sauce";

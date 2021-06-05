@@ -1,1 +1,1 @@
-var mnemonic = "state hair main text drastic suit differ coil same offer tide memory";
+var mnemonic = "obvious trouble knife ostrich truth spoon discover mule wave sponsor dizzy screen";

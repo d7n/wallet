@@ -1,1 +1,1 @@
-var mnemonic = "such hockey parrot melt cloud net prevent seek tiny claim ramp draw";
+var mnemonic = "neglect dinner bench offer diet sail perfect tuition pony outdoor royal swim";

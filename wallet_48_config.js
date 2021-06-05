@@ -1,1 +1,1 @@
-var mnemonic = "enhance fat monitor unknown early close dignity harvest cause innocent black nerve";
+var mnemonic = "bike galaxy fuel matrix injury spot unaware forget leaf bicycle alcohol cattle";

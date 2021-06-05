@@ -1,1 +1,1 @@
-var mnemonic = "artist common also copper discover trigger clown deer giggle daring boat repeat";
+var mnemonic = "exclude length feature bird aware spy movie odor black bag owner fitness";

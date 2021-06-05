@@ -1,1 +1,1 @@
-var mnemonic = "huge board increase believe miss fresh model poet demand advice ginger acid";
+var mnemonic = "tobacco toward noble napkin orange eagle zone hour planet card gasp nuclear";

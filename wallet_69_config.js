@@ -1,1 +1,1 @@
-var mnemonic = "into inhale success churn burger cactus artwork supreme list panic seven shadow";
+var mnemonic = "critic wash echo series grab truly can relax hunt more always lend";

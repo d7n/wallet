@@ -1,1 +1,1 @@
-var mnemonic = "mesh fox romance chat cabbage ignore sorry embody canoe top shock under";
+var mnemonic = "crush smile swamp pole local hole edge upgrade math luxury picture silent";

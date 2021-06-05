@@ -1,1 +1,1 @@
-var mnemonic = "guide ancient boil bulk sun exist lottery essay cake title world flock";
+var mnemonic = "nephew dragon gasp aim midnight flash damage wise list lucky slice trouble";

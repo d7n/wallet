@@ -1,1 +1,1 @@
-var mnemonic = "gym review cement poem shell around defy sentence wheel cattle area cargo";
+var mnemonic = "blur divide top wisdom paper trigger library pig sugar fall rich offer";

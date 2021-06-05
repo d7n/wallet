@@ -1,1 +1,1 @@
-var mnemonic = "task cry upgrade maid master sentence kangaroo person argue wide link mix";
+var mnemonic = "garment describe slam vintage entire inform legal satoshi wrong army master vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "fame wear budget motion angry mail arrive hint donkey photo pipe level";
+var mnemonic = "spatial smoke weapon canyon deal liquid action bulk unique frog web stool";

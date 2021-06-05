@@ -1,1 +1,1 @@
-var mnemonic = "great series dash young atom assist icon genuine all again upset curtain";
+var mnemonic = "crane gorilla latin benefit stomach guide lobster tonight female panther push knife";

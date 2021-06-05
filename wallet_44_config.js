@@ -1,1 +1,1 @@
-var mnemonic = "pink ordinary merit comfort taste belt patch pet guide proof sauce say";
+var mnemonic = "whip perfect account fiber verify aware bar neither speed vocal hill leopard";

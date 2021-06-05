@@ -1,1 +1,1 @@
-var mnemonic = "tragic music bubble zoo erosion act sound ensure day spring stick relax";
+var mnemonic = "update ball warfare bring resist vote winter unit right sound spring purity";

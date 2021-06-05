@@ -1,1 +1,1 @@
-var mnemonic = "balance egg talent chunk they isolate pretty loan hat later inflict cancel";
+var mnemonic = "unusual result mass income power always average wheel transfer devote push rack";

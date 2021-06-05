@@ -1,1 +1,1 @@
-var mnemonic = "orchard market verify whale bless brick income state image ride spirit wait";
+var mnemonic = "enroll panther thrive scorpion rubber word medal trend person swing pond bamboo";

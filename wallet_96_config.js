@@ -1,1 +1,1 @@
-var mnemonic = "health try either object leopard uncover twice fiction quality hero lift theme";
+var mnemonic = "burst scheme actress blind dirt prison immense iron vote maze busy year";

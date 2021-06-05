@@ -1,1 +1,1 @@
-var mnemonic = "space cancel width idea worth physical birth bounce virus confirm table describe";
+var mnemonic = "cushion boat cruel country caution attitude vanish anger tobacco tower strike echo";

@@ -1,1 +1,1 @@
-var mnemonic = "smile three fruit prepare lava spawn jelly soon offer fat shiver strategy";
+var mnemonic = "museum nuclear adapt mass believe verify filter treat unknown add scheme harsh";

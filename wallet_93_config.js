@@ -1,1 +1,1 @@
-var mnemonic = "kid bunker result mirror possible snake squirrel budget ritual fence moon goose";
+var mnemonic = "author actress future alone sand hotel isolate trumpet success argue ostrich cycle";

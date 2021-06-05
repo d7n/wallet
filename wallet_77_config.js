@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tourist horror exchange cannon bid talent tourist stool right universe mesh";
+var mnemonic = "symptom strategy north because layer ribbon scale drop subject mother token have";

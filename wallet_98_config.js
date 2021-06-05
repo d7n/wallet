@@ -1,1 +1,1 @@
-var mnemonic = "skull magic valve antenna cause general leaf allow unusual bus category analyst";
+var mnemonic = "twenty south head auction tonight jacket neglect guess found end idle august";

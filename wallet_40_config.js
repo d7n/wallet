@@ -1,1 +1,1 @@
-var mnemonic = "thunder point bind ribbon cannon report nothing unfair visit video crucial fat";
+var mnemonic = "flock squirrel hawk artist proof flavor figure topple find mutual punch plastic";

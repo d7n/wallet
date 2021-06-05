@@ -1,1 +1,1 @@
-var mnemonic = "stool wrong thrive network now case glove smoke empower water electric frog";
+var mnemonic = "account normal bonus give travel festival sell indoor amused opinion fog trade";

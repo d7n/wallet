@@ -1,1 +1,1 @@
-var mnemonic = "ozone market mixture clock crash blind fade panther horror jungle six surface";
+var mnemonic = "limb will total heavy brass glove test gap armed current ostrich fitness";

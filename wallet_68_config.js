@@ -1,1 +1,1 @@
-var mnemonic = "room twin hollow until lens same illegal direct build leader divert income";
+var mnemonic = "buyer mind flight either column mule example scan nurse rough slab outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz tree acid degree aware always exist robot bachelor trap genius legal";
+var mnemonic = "soft approve increase window globe swap shrimp twelve kingdom category book wool";

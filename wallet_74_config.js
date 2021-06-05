@@ -1,1 +1,1 @@
-var mnemonic = "huge vague wrap insect taste clean syrup want balance raise differ claim";
+var mnemonic = "goose remain impact pluck used inquiry silent lottery lonely any goat clown";

@@ -1,1 +1,1 @@
-var mnemonic = "dash define grocery forward discover glimpse stamp hope afford science robot flavor";
+var mnemonic = "butter later crazy federal chat coast demand donate nest pool rival demand";

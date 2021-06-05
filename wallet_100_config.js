@@ -1,1 +1,1 @@
-var mnemonic = "opera front merit evolve audit present roof kingdom sting frost type iron";
+var mnemonic = "plunge verb into soccer metal bundle topple slow speak scene country kitten";

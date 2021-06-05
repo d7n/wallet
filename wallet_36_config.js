@@ -1,1 +1,1 @@
-var mnemonic = "blame cause junk immense tilt regret viable best panic used energy axis";
+var mnemonic = "pluck stomach shine ride chalk then bamboo gift energy host fruit afraid";

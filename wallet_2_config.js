@@ -1,1 +1,1 @@
-var mnemonic = "plate canal eagle attitude fragile detect slide obey visit torch only visual";
+var mnemonic = "owner escape electric strong quarter measure story soap indicate fortune add head";

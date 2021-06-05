@@ -1,1 +1,1 @@
-var mnemonic = "three destroy walk dolphin hotel stock clap museum novel emerge myself veteran";
+var mnemonic = "fish client fan retreat aspect tortoise amount again gloom innocent front icon";

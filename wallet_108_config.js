@@ -1,1 +1,1 @@
-var mnemonic = "muscle vibrant motion owner kangaroo stem invite blast vibrant perfect display traffic";
+var mnemonic = "valve woman salad disorder fish corn jelly announce human sausage style equip";

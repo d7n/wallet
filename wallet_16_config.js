@@ -1,1 +1,1 @@
-var mnemonic = "title about lunch blame proof imitate autumn eager believe almost kingdom outer";
+var mnemonic = "patrol ski glad bleak glance practice route universe anxiety local bomb tilt";

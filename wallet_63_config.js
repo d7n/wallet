@@ -1,1 +1,1 @@
-var mnemonic = "sign shell fantasy ozone near live lounge myth spoon history winner donate";
+var mnemonic = "loud potato web riot struggle kit cotton ceiling token peanut sweet envelope";

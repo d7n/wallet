@@ -1,1 +1,1 @@
-var mnemonic = "field tuition have pull excess satoshi market chaos pencil nice clump want";
+var mnemonic = "notice fitness surface lecture net shiver code funny grace lounge spoon unit";

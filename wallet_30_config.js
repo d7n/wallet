@@ -1,1 +1,1 @@
-var mnemonic = "nurse bubble jealous solar flower divert flat unlock hurdle bulb blast spirit";
+var mnemonic = "sleep volume tumble assault vacuum assist omit fine trash elite person balance";

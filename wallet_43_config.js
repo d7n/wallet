@@ -1,1 +1,1 @@
-var mnemonic = "six stairs yellow diesel company amateur sister trend syrup oil sport vintage";
+var mnemonic = "price round grab chest maple ranch under evidence table clerk repeat private";

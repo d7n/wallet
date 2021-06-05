@@ -1,1 +1,1 @@
-var mnemonic = "rifle keen lock fluid bike glad myth cement few merry coconut clean";
+var mnemonic = "tower together never scrub extra often aunt discover success flash night wash";

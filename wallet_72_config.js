@@ -1,1 +1,1 @@
-var mnemonic = "junior frog donate piece toilet post olympic rabbit comic panel luxury ill";
+var mnemonic = "banner clog sentence year kitchen van together kidney radar curve sweet plug";

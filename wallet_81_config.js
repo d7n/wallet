@@ -1,1 +1,1 @@
-var mnemonic = "wrong medal obtain kit slush divide stadium riot flee nature story print";
+var mnemonic = "suit result private blind fix unfair erase aisle chimney edit copper spin";

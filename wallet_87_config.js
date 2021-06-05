@@ -1,1 +1,1 @@
-var mnemonic = "example hidden afraid minute call badge test write maple silent adult ten";
+var mnemonic = "fortune primary rhythm dove blossom today quantum purpose empower message spawn viable";

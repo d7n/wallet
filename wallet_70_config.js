@@ -1,1 +1,1 @@
-var mnemonic = "tail coffee shine around bacon list silver stamp play victory popular menu";
+var mnemonic = "dizzy degree grunt column green barrel vendor lesson never add only notable";

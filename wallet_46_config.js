@@ -1,1 +1,1 @@
-var mnemonic = "grape affair mail punch drum life you debris main base finish bamboo";
+var mnemonic = "public save sleep direct tackle correct loud online gun lady rack crystal";

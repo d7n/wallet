@@ -1,1 +1,1 @@
-var mnemonic = "deliver mammal resource zoo sustain warm jealous trial evidence bird inform ridge";
+var mnemonic = "scheme gallery elbow basic drive sunset twice broken eternal throw butter blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "panther inch base second talent price include adjust affair wreck aware behind";
+var mnemonic = "dolphin grass source island aunt trial rookie heavy drip volume lazy maximum";

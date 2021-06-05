@@ -1,1 +1,1 @@
-var mnemonic = "secret yard leisure vote there skin clap arctic twist extend benefit quote";
+var mnemonic = "gossip photo indicate plug civil dose try buyer dignity dignity square ask";

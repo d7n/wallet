@@ -1,1 +1,1 @@
-var mnemonic = "amused slow coconut remember public client essay lend goddess turkey auction any";
+var mnemonic = "noble sentence bright glove strategy liar pelican smooth license rain genuine beef";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny injury critic useless scene fine own force cupboard swing table cattle";
+var mnemonic = "theme night awesome bracket welcome insane garden dinner present illness live bench";

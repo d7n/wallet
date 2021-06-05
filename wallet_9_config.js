@@ -1,1 +1,1 @@
-var mnemonic = "act dismiss treat predict pizza magic tomorrow leisure lounge immense unaware planet";
+var mnemonic = "flock place credit motion reunion stove angle letter scrap animal vault afford";

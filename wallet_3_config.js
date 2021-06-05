@@ -1,1 +1,1 @@
-var mnemonic = "under quarter resist confirm delay vague lecture million crater bar settle jeans";
+var mnemonic = "update legend loop betray render inch limb cereal clown sniff frozen swim";

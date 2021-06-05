@@ -1,1 +1,1 @@
-var mnemonic = "rent smooth slender tool budget kiss input machine lawsuit goose space parent";
+var mnemonic = "drive capital dizzy glance rose worth slush warrior old document armed section";

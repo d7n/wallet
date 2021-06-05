@@ -1,1 +1,1 @@
-var mnemonic = "undo hero seek tennis gym stove isolate rural gloom holiday tunnel tourist";
+var mnemonic = "notable reopen walnut vital dad away tent melody apart seek range rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "payment since news climb message oxygen symbol dry wreck upset better assault";
+var mnemonic = "wrestle frequent boring among web weekend modify nurse jeans wall soul either";

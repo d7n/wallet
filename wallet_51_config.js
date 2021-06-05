@@ -1,1 +1,1 @@
-var mnemonic = "intact ensure forward siege entire earth erupt crunch process crouch salad pear";
+var mnemonic = "amused sweet level horn before engine cry crater arrow price remember wait";

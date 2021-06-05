@@ -1,1 +1,1 @@
-var mnemonic = "ramp quality strong aspect hunt awful click leopard fatigue file this stock";
+var mnemonic = "attitude address wide repair jacket frequent cover crop cactus height heart audit";

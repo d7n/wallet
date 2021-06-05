@@ -1,1 +1,1 @@
-var mnemonic = "crew wife accident that village update stand devote castle elephant devote symptom";
+var mnemonic = "beyond fitness correct clarify secret pool steak spend since hello report gold";

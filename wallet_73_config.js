@@ -1,1 +1,1 @@
-var mnemonic = "glance sauce pause minimum source license lock volume inch arctic medal purchase";
+var mnemonic = "undo steel suffer permit fence employ game cook polar quick easily copper";

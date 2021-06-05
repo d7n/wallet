@@ -1,1 +1,1 @@
-var mnemonic = "custom fun silver art divide friend palm olympic strong flight dwarf floor";
+var mnemonic = "arrive palm hope expect render wealth pluck skill bottom clog fiber split";

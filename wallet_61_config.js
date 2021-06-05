@@ -1,1 +1,1 @@
-var mnemonic = "across culture pencil crack minute grief tennis since injury acoustic stove cabin";
+var mnemonic = "boost hair agent ignore venture scissors inquiry nothing green primary force frame";

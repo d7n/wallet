@@ -1,1 +1,1 @@
-var mnemonic = "rent dismiss staff federal motion vacant absent flight only undo glass creek";
+var mnemonic = "theme spirit saddle fashion enroll equal rural foster matter grocery that ball";

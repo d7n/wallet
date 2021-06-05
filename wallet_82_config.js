@@ -1,1 +1,1 @@
-var mnemonic = "picture crucial minimum increase body wash glance reason neck garden pigeon digital";
+var mnemonic = "foster axis sea valve zoo announce senior history liberty demand seminar spider";

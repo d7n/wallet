@@ -1,1 +1,1 @@
-var mnemonic = "protect say settle disagree van arch wreck wasp orange lens finger card";
+var mnemonic = "rate stool grief glue cry wave coral bullet novel deputy exile kind";

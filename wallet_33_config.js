@@ -1,1 +1,1 @@
-var mnemonic = "joke move grief wear box club inside horse club color what bench";
+var mnemonic = "man ability hint nasty tape vibrant casino ketchup melody sport symptom material";

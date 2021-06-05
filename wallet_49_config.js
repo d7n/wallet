@@ -1,1 +1,1 @@
-var mnemonic = "sad welcome topple crazy pattern area find popular direct excess afraid wheat";
+var mnemonic = "dog cool bus tragic trouble fitness almost cook quit canyon impose correct";

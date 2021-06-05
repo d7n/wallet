@@ -1,1 +1,1 @@
-var mnemonic = "holiday fame kick bamboo piece path illegal arena train enforce senior there";
+var mnemonic = "diary guess disagree project type join height near moment west useful adult";

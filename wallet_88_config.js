@@ -1,1 +1,1 @@
-var mnemonic = "always spray receive double medal cement item install void basket paper wrap";
+var mnemonic = "room quick change jealous below toe humble choose indicate blossom staff sick";

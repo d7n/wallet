@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin south slice bright spider horn come need urge because dog picture";
+var mnemonic = "rubber pilot maze prize race shield library cook fuel give mad tell";

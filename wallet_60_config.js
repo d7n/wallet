@@ -1,1 +1,1 @@
-var mnemonic = "wonder tongue imitate smooth stumble evolve nature catch power aisle hobby veteran";
+var mnemonic = "wasp regret tool town hidden mass taste frown river uphold grunt sugar";

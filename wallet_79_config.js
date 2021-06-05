@@ -1,1 +1,1 @@
-var mnemonic = "swing album mother dinosaur genre case copy dry steak input firm slim";
+var mnemonic = "dove globe coconut useful balcony step chicken stage museum trigger beyond table";

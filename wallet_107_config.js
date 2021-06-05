@@ -1,1 +1,1 @@
-var mnemonic = "genius owner sausage code destroy language age where side world shy security";
+var mnemonic = "east top leader more north comfort soul near adapt steel lab zoo";

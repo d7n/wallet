@@ -1,1 +1,1 @@
-var mnemonic = "tonight airport edge immense gossip exchange field shaft never crucial tide tooth";
+var mnemonic = "shield capable glory expect chase lecture spice material subject vacuum virus pulp";

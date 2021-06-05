@@ -1,1 +1,1 @@
-var mnemonic = "monkey wife lonely sure actor come depth hawk raise essay direct slogan";
+var mnemonic = "harsh heavy wheel rare identify material sketch runway link sea fitness omit";

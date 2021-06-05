@@ -1,1 +1,1 @@
-var mnemonic = "weird slight radar draw iron reform boil hurry point fabric clog rose";
+var mnemonic = "ripple famous hunt parade embody what reform slow upgrade adapt pluck flash";

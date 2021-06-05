@@ -1,1 +1,1 @@
-var mnemonic = "hurdle drink funny spray dirt tag soft decline giraffe toilet ribbon drill";
+var mnemonic = "race eternal roof olympic valid crystal spawn chair secret mistake trick dry";

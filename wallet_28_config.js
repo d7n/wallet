@@ -1,1 +1,1 @@
-var mnemonic = "tide rare attitude suit mixed enhance rapid apple birth radio voice want";
+var mnemonic = "bulb robust skull reopen medal demise dance wait admit assault client churn";

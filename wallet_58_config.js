@@ -1,1 +1,1 @@
-var mnemonic = "liberty wash neutral tunnel unable follow salad general promote warm galaxy predict";
+var mnemonic = "void drill feed apology position bulb embark expire loop make entry science";

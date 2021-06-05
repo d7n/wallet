@@ -1,1 +1,1 @@
-var mnemonic = "describe disagree rotate point enter hat layer sunset wonder federal toast state";
+var mnemonic = "brain congress flame hole pause kick run happy famous swap theory artist";

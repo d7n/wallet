@@ -1,1 +1,1 @@
-var mnemonic = "neutral afford erase lemon topple fit style shop fine around twin process";
+var mnemonic = "trim panther gate wool rookie void domain drift grief this quarter fold";

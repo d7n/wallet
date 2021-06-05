@@ -1,1 +1,1 @@
-var mnemonic = "tattoo edit club hope stage ring token draw boost wing grace hand";
+var mnemonic = "clerk century off pave urge mammal slam satoshi water alpha ozone foam";

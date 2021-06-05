@@ -1,1 +1,1 @@
-var mnemonic = "now black ghost step east gift loyal wire prison useful hotel code";
+var mnemonic = "pupil ostrich anxiety right hawk mother misery onion girl reform vast lion";
