@@ -1,1 +1,1 @@
-var mnemonic = "media stick wedding victory focus segment teach celery spirit ozone wife jungle";
+var mnemonic = "legal job build hobby benefit cement teach despair wealth method learn work";

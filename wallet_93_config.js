@@ -1,1 +1,1 @@
-var mnemonic = "diet weekend cancel fee direct decide rapid dog hour license bind fire";
+var mnemonic = "pulp boss correct major armed scout thunder marble add stable toy emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "advance eagle budget rigid angry this chief glimpse pool guilt dove bracket";
+var mnemonic = "load mountain crumble hold patrol inch tail castle illegal hire floor dry";

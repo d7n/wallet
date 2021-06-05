@@ -1,1 +1,1 @@
-var mnemonic = "prepare brick draw can glimpse coconut kitten magic black only transfer agent";
+var mnemonic = "drive already verb infant explain demise fiber hat clay copper couple glance";

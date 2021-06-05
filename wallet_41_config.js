@@ -1,1 +1,1 @@
-var mnemonic = "half neither pill help hollow media endless document memory ill dizzy noble";
+var mnemonic = "peasant tumble ten someone chef aim grief arrive ancient frog sun bounce";

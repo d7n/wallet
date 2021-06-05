@@ -1,1 +1,1 @@
-var mnemonic = "olympic repair aisle mixture spot choose merge coyote shove number thrive noise";
+var mnemonic = "virtual time shift size urge giggle cart gaze twelve art praise rug";

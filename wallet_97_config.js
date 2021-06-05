@@ -1,1 +1,1 @@
-var mnemonic = "area small under medal online divert divorce drip actual beach disagree group";
+var mnemonic = "owner tuna off misery habit awesome gaze happy ride liquid mobile annual";

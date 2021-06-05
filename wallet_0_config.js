@@ -1,1 +1,1 @@
-var mnemonic = "runway mouse hockey area memory legend step inner foot share double flavor";
+var mnemonic = "sure nest deputy omit stone shaft door now daughter embark onion minor";

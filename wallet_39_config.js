@@ -1,1 +1,1 @@
-var mnemonic = "garlic random insane laptop long day credit dizzy exist tree much pass";
+var mnemonic = "fossil all blast honey alone essay game text stadium ancient fix ugly";

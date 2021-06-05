@@ -1,1 +1,1 @@
-var mnemonic = "various enjoy symbol walnut property affair sock before visit blur frown capable";
+var mnemonic = "return trick swing where spot smoke rigid play slide split engage pill";

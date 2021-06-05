@@ -1,1 +1,1 @@
-var mnemonic = "skate jaguar sustain certain grit boy omit budget copper ceiling minor stem";
+var mnemonic = "quarter damp vacant live airport danger survey crew parent october reform number";

@@ -1,1 +1,1 @@
-var mnemonic = "caught vote mushroom until wild duty zoo can goddess material leaf urge";
+var mnemonic = "stomach accident inject way more innocent helmet still gloom prize pig beauty";

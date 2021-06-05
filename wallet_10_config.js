@@ -1,1 +1,1 @@
-var mnemonic = "pipe spirit tissue kid pretty submit setup truth shaft swift turtle certain";
+var mnemonic = "age announce federal virus olive immune hood size sell sight bitter milk";

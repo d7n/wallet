@@ -1,1 +1,1 @@
-var mnemonic = "occur reduce congress stairs menu unlock one erosion history avocado dismiss want";
+var mnemonic = "fine bonus faint tonight jar margin soup soda charge include poem police";

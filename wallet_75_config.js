@@ -1,1 +1,1 @@
-var mnemonic = "stay pool kidney project return auto hair ocean assume prize today collect";
+var mnemonic = "coin pigeon gesture peace arrange cabbage upon garage over smart another episode";

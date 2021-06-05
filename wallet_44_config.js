@@ -1,1 +1,1 @@
-var mnemonic = "vote duty column large hospital tennis decrease venue kidney nest fiber yard";
+var mnemonic = "route enforce floor nest weekend initial nothing credit green awful miracle primary";

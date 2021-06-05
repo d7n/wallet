@@ -1,1 +1,1 @@
-var mnemonic = "secret first arm panther circle echo busy between bullet lock kitchen brown";
+var mnemonic = "rescue advice language tree twelve junior rice bubble spray fatigue huge congress";

@@ -1,1 +1,1 @@
-var mnemonic = "brass drip canal receive benefit social satoshi slab oxygen toy blush indoor";
+var mnemonic = "weasel select turtle sunny donkey one crucial open permit shuffle urge emotion";

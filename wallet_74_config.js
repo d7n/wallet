@@ -1,1 +1,1 @@
-var mnemonic = "license fiber table field space tribe name tomato original polar tell exile";
+var mnemonic = "actual pattern smoke panther cave cousin cricket burden donate flavor subway reason";

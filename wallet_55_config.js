@@ -1,1 +1,1 @@
-var mnemonic = "cancel eternal employ unfair include mind bamboo topic thank bracket avocado visual";
+var mnemonic = "work web million trip pizza shop shock injury heavy champion youth club";

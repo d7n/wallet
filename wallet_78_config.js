@@ -1,1 +1,1 @@
-var mnemonic = "lumber gain pilot drip inhale clerk math cancel assist route spare robot";
+var mnemonic = "group silent ready borrow excite liberty pluck duty either under note garbage";

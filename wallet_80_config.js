@@ -1,1 +1,1 @@
-var mnemonic = "often flat paper focus clean bind lake sight dizzy sustain special catalog";
+var mnemonic = "grid almost journey sock yard maximum board rib laptop fragile cook potato";

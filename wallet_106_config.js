@@ -1,1 +1,1 @@
-var mnemonic = "cloth frog street tongue tribe change fetch security essence super swear butter";
+var mnemonic = "trigger mammal spawn neutral fresh jewel pottery trash slice judge sorry peace";

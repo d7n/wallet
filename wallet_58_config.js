@@ -1,1 +1,1 @@
-var mnemonic = "myth foot enough crazy economy hour useless banner ecology tent blame cup";
+var mnemonic = "affair doctor what blast supply cube cook civil planet mail grief wall";

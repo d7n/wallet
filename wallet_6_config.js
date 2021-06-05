@@ -1,1 +1,1 @@
-var mnemonic = "fee grab spin endless lion trick dutch obscure edge school liar bulb";
+var mnemonic = "phrase sketch exercise promote omit candy provide glide arm pluck work wet";

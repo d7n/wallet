@@ -1,1 +1,1 @@
-var mnemonic = "lizard involve bracket better possible family used inmate couple agent exotic shove";
+var mnemonic = "glove much foil impact noise chaos pilot report direct salute quick clump";

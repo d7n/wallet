@@ -1,1 +1,1 @@
-var mnemonic = "safe document donate govern permit once misery witness govern enact banner good";
+var mnemonic = "faith help jazz occur blossom belt vast hedgehog unable rare cave accuse";

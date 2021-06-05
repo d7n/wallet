@@ -1,1 +1,1 @@
-var mnemonic = "sure local diet emerge cabin sphere rain pony spoil grow bread decorate";
+var mnemonic = "company unaware laundry segment beauty tribe unlock flash crush raccoon good sense";

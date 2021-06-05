@@ -1,1 +1,1 @@
-var mnemonic = "year crash animal okay cloud surface oval pistol ranch short broccoli desert";
+var mnemonic = "manage bike lunar dutch across chalk hope erase public captain enjoy grape";

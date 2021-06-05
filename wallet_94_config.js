@@ -1,1 +1,1 @@
-var mnemonic = "category peasant tunnel search confirm expire involve twist collect december equip portion";
+var mnemonic = "lawn rare century wide present unaware race exhibit group tattoo lamp ivory";

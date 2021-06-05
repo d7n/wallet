@@ -1,1 +1,1 @@
-var mnemonic = "casino curtain hat whisper demise parrot link birth state robot bacon icon";
+var mnemonic = "taxi during cave palace clump note satoshi spend dignity festival magnet bag";

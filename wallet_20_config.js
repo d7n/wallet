@@ -1,1 +1,1 @@
-var mnemonic = "reform spot deal eager crop nut sell runway jewel remain slam bulk";
+var mnemonic = "alter analyst token appear dose slogan valley sphere media age initial talent";

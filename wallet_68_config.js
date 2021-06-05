@@ -1,1 +1,1 @@
-var mnemonic = "payment weapon shoulder fee kangaroo reject hazard diary sun happy hero stem";
+var mnemonic = "among dignity toe kiss punch toe wash garlic decrease damp chicken hill";

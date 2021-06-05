@@ -1,1 +1,1 @@
-var mnemonic = "conduct point vague item squirrel cousin cradle claw maple match embrace boat";
+var mnemonic = "record warfare lunch little auction roof brisk million proof squeeze awkward please";

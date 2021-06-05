@@ -1,1 +1,1 @@
-var mnemonic = "fine eager wing burst embark twist undo post walk syrup test direct";
+var mnemonic = "poverty obey mandate steel test mosquito trophy income profit blame world second";

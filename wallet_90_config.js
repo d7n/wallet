@@ -1,1 +1,1 @@
-var mnemonic = "detail purse session jaguar mom donkey charge rule frown dutch chair evolve";
+var mnemonic = "tray alcohol trap pigeon stay prefer room frequent sudden busy they bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl tree reward parrot solid provide leopard yard jealous wet magnet worth";
+var mnemonic = "valley brief giant loop until arctic uniform rural recycle police diary hip";

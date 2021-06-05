@@ -1,1 +1,1 @@
-var mnemonic = "electric field almost ice minute erupt flash alone badge update boring answer";
+var mnemonic = "demand manual stereo domain audit damage nation misery sad market mixed car";

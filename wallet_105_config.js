@@ -1,1 +1,1 @@
-var mnemonic = "victory breeze eight planet message drink under crop run broccoli child dinner";
+var mnemonic = "upper river verify wave crawl auto reflect cannon pig trigger genre enforce";

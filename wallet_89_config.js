@@ -1,1 +1,1 @@
-var mnemonic = "slight vendor embrace move evidence mean neither brave protect people just piece";
+var mnemonic = "hen proud hurdle account earth gossip struggle almost soup mechanic siege charge";

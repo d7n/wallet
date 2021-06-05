@@ -1,1 +1,1 @@
-var mnemonic = "health festival glue insect hand chuckle glare siege pill ball oblige despair";
+var mnemonic = "quote mask mom color wait season offer whisper guilt undo subway cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "endless patient fame satisfy train pluck shove differ fury describe kidney valley";
+var mnemonic = "sweet unhappy survey meadow dynamic online unique army approve silly venue slice";

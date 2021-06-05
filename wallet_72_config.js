@@ -1,1 +1,1 @@
-var mnemonic = "recycle among frown thumb embrace lunar dash vintage novel one picture own";
+var mnemonic = "pull assume need example resist material dutch hybrid layer shop skull indicate";

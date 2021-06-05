@@ -1,1 +1,1 @@
-var mnemonic = "museum giraffe tool have dream grant evolve asthma trend black resemble bus";
+var mnemonic = "parrot good lock duck addict soft squirrel satisfy easy slush town they";

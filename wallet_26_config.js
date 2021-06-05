@@ -1,1 +1,1 @@
-var mnemonic = "word tornado rose jungle actual spirit toilet face shallow taxi drum notable";
+var mnemonic = "grape achieve kind trim word nephew yellow spirit ahead arena inherit south";

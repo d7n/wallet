@@ -1,1 +1,1 @@
-var mnemonic = "little glory blur awesome chronic genre type drama multiply lady bounce expand";
+var mnemonic = "term coral amused latin proud awesome churn across escape verify sunny purity";

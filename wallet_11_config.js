@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon error glow right ring forum clown salute mention real squeeze other";
+var mnemonic = "wrap squirrel symbol fade gown pigeon emotion aim lend wave clip sort";

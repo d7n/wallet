@@ -1,1 +1,1 @@
-var mnemonic = "pear mixed erosion mushroom dust wheat repair solar practice media lunch curve";
+var mnemonic = "label opera select border thumb vehicle check reject kangaroo garlic school notice";

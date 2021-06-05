@@ -1,1 +1,1 @@
-var mnemonic = "retreat another useless blur list know bomb museum bounce dwarf arrest scan";
+var mnemonic = "carry crouch dirt twenty leaf minimum scorpion fire acoustic uncle erode dignity";

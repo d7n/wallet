@@ -1,1 +1,1 @@
-var mnemonic = "live sign cool bridge always stamp turtle tuition satisfy shrug dentist access";
+var mnemonic = "input popular milk brief happy gain donate icon similar impose notice million";

@@ -1,1 +1,1 @@
-var mnemonic = "random hold concert someone unhappy popular captain orphan used cinnamon tuition rural";
+var mnemonic = "excuse crazy feed scrap bird remove planet pencil loud until ecology clinic";

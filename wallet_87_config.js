@@ -1,1 +1,1 @@
-var mnemonic = "quality this bamboo safe trial know insect join final urban punch shallow";
+var mnemonic = "fall stumble label dragon flower few bar angle side chuckle renew evoke";

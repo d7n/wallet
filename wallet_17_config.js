@@ -1,1 +1,1 @@
-var mnemonic = "goddess wedding kitten tragic color crop spice fetch latin gloom loop outer";
+var mnemonic = "blood task aunt main multiply nut behave author because panel daughter negative";

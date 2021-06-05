@@ -1,1 +1,1 @@
-var mnemonic = "pluck scale bulb siren party solid radar pave scout slice glory review";
+var mnemonic = "section club remember trouble any royal enhance loyal pudding world among dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss topple steak anger pair merit novel video chat prosper tell bracket";
+var mnemonic = "token steel seat upper squeeze patient rally artwork juice boring act foster";

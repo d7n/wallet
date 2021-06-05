@@ -1,1 +1,1 @@
-var mnemonic = "parent rare road unit theme end surface vibrant alarm flame scout tobacco";
+var mnemonic = "zero toilet fruit where visual spatial obscure trick still reduce material embark";

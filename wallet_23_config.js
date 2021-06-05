@@ -1,1 +1,1 @@
-var mnemonic = "gadget stem bridge kit essay beyond science tail human rude middle clock";
+var mnemonic = "garden consider master royal future gas anger island violin grant grit soup";

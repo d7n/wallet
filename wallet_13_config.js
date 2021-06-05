@@ -1,1 +1,1 @@
-var mnemonic = "wagon inside tank neither local cheap lecture clever eager baby glad snack";
+var mnemonic = "legal note script stamp dynamic balcony present hybrid rebel giggle win maximum";

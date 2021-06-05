@@ -1,1 +1,1 @@
-var mnemonic = "climb tribe right cable turkey push system behind waste dignity addict reflect";
+var mnemonic = "egg mosquito adjust spoon upgrade rough appear kiwi either please wrist diesel";

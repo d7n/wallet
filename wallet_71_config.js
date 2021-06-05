@@ -1,1 +1,1 @@
-var mnemonic = "pottery rich thought holiday menu direct head ill tissue embrace noise bulb";
+var mnemonic = "educate collect puppy artist clutch hotel infant allow concert razor rural exercise";

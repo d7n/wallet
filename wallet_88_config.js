@@ -1,1 +1,1 @@
-var mnemonic = "cricket reopen mixed salad assault piano adapt drastic bounce caution wash artefact";
+var mnemonic = "misery banana lazy dragon easily shell duck eternal thought extra reduce whale";

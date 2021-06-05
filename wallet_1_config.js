@@ -1,1 +1,1 @@
-var mnemonic = "brain know nose hedgehog cube share beef glance edge garment afford trigger";
+var mnemonic = "dog lamp attitude endless clip boil never gas gas reopen speed license";

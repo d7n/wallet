@@ -1,1 +1,1 @@
-var mnemonic = "seat subway plunge ask sentence artist tackle uncover inside civil lazy bubble";
+var mnemonic = "step truck actual aunt unhappy section hazard frown moral enlist reform subject";

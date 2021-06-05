@@ -1,1 +1,1 @@
-var mnemonic = "loud firm punch brief badge farm soul camp tool first junk tree";
+var mnemonic = "lunar total dash miss light stone avoid tell nurse brief prosper father";

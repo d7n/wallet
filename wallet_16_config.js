@@ -1,1 +1,1 @@
-var mnemonic = "harbor near voice hybrid blade torch snack arrest card wonder enlist suit";
+var mnemonic = "ensure lonely argue spoon update knock furnace gloom eyebrow popular electric attend";

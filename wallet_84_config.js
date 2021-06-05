@@ -1,1 +1,1 @@
-var mnemonic = "hospital add boil crystal grunt catch effort domain illness middle digital scan";
+var mnemonic = "shaft liquid range benefit negative bitter fetch arena shiver stairs notable goose";

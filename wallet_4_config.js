@@ -1,1 +1,1 @@
-var mnemonic = "trap digital robust clip hint despair health bless wagon toilet indoor trash";
+var mnemonic = "nephew drive critic soon skull range goddess couch delay jewel sea fly";

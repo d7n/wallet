@@ -1,1 +1,1 @@
-var mnemonic = "robot flight crouch chef morning genuine close cake rail fault pelican tribe";
+var mnemonic = "elbow fetch muffin kiss square february machine include cement tuition certain kick";

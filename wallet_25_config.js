@@ -1,1 +1,1 @@
-var mnemonic = "include harsh ecology noodle damp blade erosion leg coil raccoon skull price";
+var mnemonic = "exercise ostrich under evolve nurse best lunar sorry initial feed excite inspire";

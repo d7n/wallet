@@ -1,1 +1,1 @@
-var mnemonic = "cash include miracle night filter settle kiwi jelly van mansion dash mother";
+var mnemonic = "illness keep toast boss code churn maze nurse toward pudding method artwork";

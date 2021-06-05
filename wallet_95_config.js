@@ -1,1 +1,1 @@
-var mnemonic = "employ empower dumb fancy long barely jungle live library oil sheriff useful";
+var mnemonic = "strategy invest license palace result aim suggest knee wrist arrange cherry decline";

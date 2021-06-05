@@ -1,1 +1,1 @@
-var mnemonic = "banner tuna defy key label club crater goose play junior sponsor option";
+var mnemonic = "foster swing gold zone mad want defense casual current rebel maze manual";

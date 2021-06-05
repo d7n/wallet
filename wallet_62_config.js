@@ -1,1 +1,1 @@
-var mnemonic = "coach chalk above body dismiss can glance comfort silver tide spider quality";
+var mnemonic = "vicious chest small danger sketch domain original maid permit swarm oblige casino";

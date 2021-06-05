@@ -1,1 +1,1 @@
-var mnemonic = "what alcohol lobster bring table south resist maple rhythm mimic impose poverty";
+var mnemonic = "same rib title climb lonely fiscal credit vapor still arrest cycle orange";

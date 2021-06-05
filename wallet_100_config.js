@@ -1,1 +1,1 @@
-var mnemonic = "multiply stick risk chicken equip dynamic peasant outside abuse utility power empower";
+var mnemonic = "town scorpion accident smoke shift copy nation benefit river symbol empower glare";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow night then easy sea still burst priority pig excuse cupboard love";
+var mnemonic = "cube smile tourist assist tilt faint master trip fish alley atom blouse";

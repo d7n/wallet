@@ -1,1 +1,1 @@
-var mnemonic = "relax glory answer build gas crowd prize question turn tribe hen stable";
+var mnemonic = "elite cereal maximum ghost pear question sketch negative yellow humor spring defense";

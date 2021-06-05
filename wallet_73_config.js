@@ -1,1 +1,1 @@
-var mnemonic = "glide dust brand jewel control target much stadium crumble remind check inject";
+var mnemonic = "leg seat mushroom school agent version knee atom moral digital input enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "month arch tape invest where primary cement before palace antenna artefact unaware";
+var mnemonic = "health prosper taxi like embrace youth wine crawl judge cup use dwarf";

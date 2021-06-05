@@ -1,1 +1,1 @@
-var mnemonic = "wrong upon carbon smoke observe sister pigeon harbor remove robust call annual";
+var mnemonic = "shaft trend bar transfer increase blossom used heavy pitch marine wheat draw";

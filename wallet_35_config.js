@@ -1,1 +1,1 @@
-var mnemonic = "manage perfect topic little tide avocado rice trigger antenna renew select raise";
+var mnemonic = "visual cause brother divorce concert swamp discover twice best day ethics define";

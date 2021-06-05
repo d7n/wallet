@@ -1,1 +1,1 @@
-var mnemonic = "fringe stomach oyster come media aisle shaft egg industry festival deer sure";
+var mnemonic = "normal actor grab trick give crystal pass switch print prefer setup miracle";

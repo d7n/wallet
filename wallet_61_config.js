@@ -1,1 +1,1 @@
-var mnemonic = "switch will sniff tired off dawn attitude sponsor dance elite door slight";
+var mnemonic = "symbol puzzle pyramid decide island craft poet globe include lend bullet rose";

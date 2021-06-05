@@ -1,1 +1,1 @@
-var mnemonic = "where quick stuff horse fitness bind swim inject spin please grow anchor";
+var mnemonic = "myth attack convince company flight short boy short vessel private series width";

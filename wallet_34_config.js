@@ -1,1 +1,1 @@
-var mnemonic = "lecture rhythm dignity despair broom sheriff wool doctor bullet diagram roast one";
+var mnemonic = "dial vote cost industry must note lemon mean eagle license blouse already";

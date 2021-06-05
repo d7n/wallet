@@ -1,1 +1,1 @@
-var mnemonic = "comic any garbage average exhaust excuse taste trip orphan brother neglect dice";
+var mnemonic = "bleak audit accuse measure taste daughter shrug lobster topic wonder pause belt";

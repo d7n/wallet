@@ -1,1 +1,1 @@
-var mnemonic = "clown spray ostrich point coin ordinary load chronic october share goose hamster";
+var mnemonic = "huge diagram rail lumber fun seed urge you tip curve reflect discover";

@@ -1,1 +1,1 @@
-var mnemonic = "chest hospital category lake scrap quiz bus rib oxygen actor glare forward";
+var mnemonic = "another image satoshi where caution choice much pizza spend foam mandate adult";
