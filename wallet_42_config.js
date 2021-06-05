@@ -1,1 +1,1 @@
-var mnemonic = "blouse burden viable veteran hybrid reason million derive chimney memory delay unfold";
+var mnemonic = "rude elephant gown fix much witness slush night want rely side round";

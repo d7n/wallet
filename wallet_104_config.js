@@ -1,1 +1,1 @@
-var mnemonic = "carbon penalty design build vacuum whale question clap dilemma surge echo arctic";
+var mnemonic = "staff uncle fence unhappy fog garbage ugly grid spell render artwork frost";

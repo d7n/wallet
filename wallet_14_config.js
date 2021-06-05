@@ -1,1 +1,1 @@
-var mnemonic = "mixture panel taste hood hamster gallery deer small pitch rally nasty panda";
+var mnemonic = "fringe finger patch method infant when junk bronze syrup identify response core";

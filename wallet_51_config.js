@@ -1,1 +1,1 @@
-var mnemonic = "shy spare flock border during rude machine child flag position eager hazard";
+var mnemonic = "pulse burst reflect sketch lonely similar front mention quick float welcome weapon";

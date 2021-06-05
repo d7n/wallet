@@ -1,1 +1,1 @@
-var mnemonic = "spawn aunt concert ribbon brand gravity autumn educate tongue service between grocery";
+var mnemonic = "enroll cruel indicate change people cloud bicycle rather coral rose balcony pear";

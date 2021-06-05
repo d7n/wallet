@@ -1,1 +1,1 @@
-var mnemonic = "gentle scale curious cheese impact hamster habit hip short spy salt body";
+var mnemonic = "pride lift crush beyond noble multiply order stuff simple paddle seminar old";

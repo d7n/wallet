@@ -1,1 +1,1 @@
-var mnemonic = "year organ conduct story faith gap describe service theme together soup planet";
+var mnemonic = "hammer enemy valley orange trophy resemble lottery demand erode party test rate";

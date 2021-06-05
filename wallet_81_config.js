@@ -1,1 +1,1 @@
-var mnemonic = "damage erosion faith pitch piano solar argue arch surround family thumb crane";
+var mnemonic = "custom clump shed atom firm belt coconut champion brand surge verify index";

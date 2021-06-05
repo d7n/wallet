@@ -1,1 +1,1 @@
-var mnemonic = "keep witness raccoon garment try blur beyond distance bind change kid sniff";
+var mnemonic = "boy nephew still wonder divorce spread pulp bike priority speed apple square";

@@ -1,1 +1,1 @@
-var mnemonic = "nice expire type act drift inquiry hurry project season dutch orbit squirrel";
+var mnemonic = "rotate tortoise castle sadness candy pride unaware cloth lunar next poem journey";

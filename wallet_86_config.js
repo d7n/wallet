@@ -1,1 +1,1 @@
-var mnemonic = "used brave brush place maple thrive disorder auto swarm click please lava";
+var mnemonic = "october chef shy pull myth slab figure crater victory soda rapid ability";

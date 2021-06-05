@@ -1,1 +1,1 @@
-var mnemonic = "equal surge loyal body number rain inject math cross detail thing clean";
+var mnemonic = "rigid region trigger soda outdoor bleak camera copy decrease music slight wear";

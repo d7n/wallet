@@ -1,1 +1,1 @@
-var mnemonic = "umbrella marine peasant unfold cloth release route decrease hat power during when";
+var mnemonic = "kitchen stock brick robot glove father require legal equip zone remember clever";

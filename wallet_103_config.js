@@ -1,1 +1,1 @@
-var mnemonic = "total pulp weekend clerk candy regular warm plunge dash boat media degree";
+var mnemonic = "taxi menu copy pave dizzy joy increase phone liar spend online earth";

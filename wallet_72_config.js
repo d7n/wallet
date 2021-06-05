@@ -1,1 +1,1 @@
-var mnemonic = "spirit public bar alarm useless private item fragile buzz person review piano";
+var mnemonic = "eight hungry enhance range trumpet three member grape lunch reform ill kidney";

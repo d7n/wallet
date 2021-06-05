@@ -1,1 +1,1 @@
-var mnemonic = "before original grant noble congress ginger express exact actor load globe dust";
+var mnemonic = "cricket stereo echo copper hub rent tongue method tree decide nothing age";

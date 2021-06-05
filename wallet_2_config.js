@@ -1,1 +1,1 @@
-var mnemonic = "remember path fame drive mad trend seminar word friend diet diet scatter";
+var mnemonic = "patient ladder debris defense viable crane obscure torch real twice base despair";

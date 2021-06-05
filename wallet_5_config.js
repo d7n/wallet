@@ -1,1 +1,1 @@
-var mnemonic = "correct trust core flavor day estate seven tenant test chase castle deputy";
+var mnemonic = "tongue knife abandon metal table salt copper mobile supreme age kid bicycle";

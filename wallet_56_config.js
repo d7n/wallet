@@ -1,1 +1,1 @@
-var mnemonic = "sauce cage museum heart human stomach dose image near buyer ocean middle";
+var mnemonic = "boy kangaroo sing below myself mosquito gadget melody humble ocean oyster timber";

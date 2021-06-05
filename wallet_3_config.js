@@ -1,1 +1,1 @@
-var mnemonic = "frown cannon chalk coconut napkin time bar ceiling fog impulse similar tenant";
+var mnemonic = "capital spread blossom surface silent used same juice recipe feel quit fatigue";

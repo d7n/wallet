@@ -1,1 +1,1 @@
-var mnemonic = "payment banner motion search damp report universe agree transfer flash faith fuel";
+var mnemonic = "shaft acquire bicycle feed possible heart reveal unusual wagon bacon neck borrow";

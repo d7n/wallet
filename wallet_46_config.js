@@ -1,1 +1,1 @@
-var mnemonic = "dune captain gold distance sunset minor exhaust grocery define disorder track enact";
+var mnemonic = "bar code laugh adapt zebra million inhale valley globe frozen cross castle";

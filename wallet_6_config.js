@@ -1,1 +1,1 @@
-var mnemonic = "achieve near lizard paddle define gentle elite visa vivid science anxiety celery";
+var mnemonic = "fiscal burst tragic front knock pitch spike whisper more badge enjoy world";

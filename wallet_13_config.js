@@ -1,1 +1,1 @@
-var mnemonic = "chef left patient gauge prison boring element mother affair afraid arena fence";
+var mnemonic = "pelican flat rebel achieve inject output tenant syrup record what punch gasp";

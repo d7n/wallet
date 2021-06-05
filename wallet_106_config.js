@@ -1,1 +1,1 @@
-var mnemonic = "will gloom together trim maze warfare unit hip wrap crouch feel property";
+var mnemonic = "cook elevator joke bitter street bleak main cable misery cross mansion picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "mother inform guilt explain genius video october dress bring recipe rhythm roof";
+var mnemonic = "shrug admit own kingdom reopen wealth cloth shoulder brown sadness veteran bitter";

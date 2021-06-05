@@ -1,1 +1,1 @@
-var mnemonic = "bubble letter table mercy couple hungry differ oil twelve suit blur way";
+var mnemonic = "guilt enforce favorite autumn dilemma topic major know ankle license evoke snack";

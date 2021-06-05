@@ -1,1 +1,1 @@
-var mnemonic = "drum trouble wasp occur clown around smile vehicle local reject thing suit";
+var mnemonic = "rich wealth giraffe shock odor call talk firm notice fan average inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "critic else network clerk friend nephew meat until cliff robot afraid tag";
+var mnemonic = "survey rack common sure acoustic alone tunnel click print trip chalk slice";

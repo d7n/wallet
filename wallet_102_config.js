@@ -1,1 +1,1 @@
-var mnemonic = "shrug jewel idle fix just canvas emotion dirt mesh pioneer bulb print";
+var mnemonic = "derive profit trial album hobby index below unfold arm supply define horror";

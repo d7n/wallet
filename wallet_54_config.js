@@ -1,1 +1,1 @@
-var mnemonic = "strategy flavor bamboo frown remain key deer young load tobacco mammal beauty";
+var mnemonic = "keep gap marriage gap finish throw blossom glove trigger drum ahead sudden";

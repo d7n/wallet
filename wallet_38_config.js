@@ -1,1 +1,1 @@
-var mnemonic = "hold income settle relax ripple final engage apology maze young reduce holiday";
+var mnemonic = "old theme dune badge nose mouse cry emotion endless main puppy wrist";

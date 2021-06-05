@@ -1,1 +1,1 @@
-var mnemonic = "surprise odor deer faith system deputy else glove yard yellow inquiry retreat";
+var mnemonic = "correct peasant album city lunar budget list staff youth echo foil barrel";

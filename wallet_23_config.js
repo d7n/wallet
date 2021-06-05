@@ -1,1 +1,1 @@
-var mnemonic = "side spend tornado trick combine better neutral craft key swing hobby mosquito";
+var mnemonic = "neglect success chicken armed size clinic number put toilet pact unlock pink";

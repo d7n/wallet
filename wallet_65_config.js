@@ -1,1 +1,1 @@
-var mnemonic = "silver power video stadium equal double mountain jaguar betray exit edit grape";
+var mnemonic = "spy long aware mercy quarter aware acquire regular lunar shiver vacuum purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "gain movie alpha gold summer nothing fence damage hospital method trash blame";
+var mnemonic = "arch case strategy casino often power emerge combine stem fly pudding transfer";

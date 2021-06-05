@@ -1,1 +1,1 @@
-var mnemonic = "sun frown cruel oven sibling black travel away current attack juice secret";
+var mnemonic = "cube intact purpose wear judge game off vibrant cabbage vendor random addict";

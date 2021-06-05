@@ -1,1 +1,1 @@
-var mnemonic = "child brown genius early shaft bar protect sorry keep skull bunker gorilla";
+var mnemonic = "amount motion blossom sunny oblige latin reveal right scheme solar expose extend";

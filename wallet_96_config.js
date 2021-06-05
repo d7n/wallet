@@ -1,1 +1,1 @@
-var mnemonic = "more enemy note act puzzle practice click weekend road alert day inflict";
+var mnemonic = "soda strike glow veteran engine attend have rich surround stem feed plug";

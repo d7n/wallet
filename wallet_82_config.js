@@ -1,1 +1,1 @@
-var mnemonic = "regular loop earn media kind bar royal move scrub flock bundle oblige";
+var mnemonic = "common state behind ice flock menu knee brass exist bounce dial fossil";

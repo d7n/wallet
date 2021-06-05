@@ -1,1 +1,1 @@
-var mnemonic = "wait regular melody pen exchange solar pink witness end tube mimic current";
+var mnemonic = "small nominee damp palm lock inflict kidney journey dress curious pink common";

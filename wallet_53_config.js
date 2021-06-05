@@ -1,1 +1,1 @@
-var mnemonic = "setup harsh cement indoor smooth mosquito bag often sight salt junior tail";
+var mnemonic = "scout ramp chef cactus stone age retreat syrup now axis adapt release";

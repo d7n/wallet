@@ -1,1 +1,1 @@
-var mnemonic = "peace forest wise metal cluster truth magic defense bundle stand size glimpse";
+var mnemonic = "camp twice interest awful aunt sorry target wine steak funny immune emerge";

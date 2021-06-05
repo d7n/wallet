@@ -1,1 +1,1 @@
-var mnemonic = "stereo remind table market strike culture cup clever legend edge insect tobacco";
+var mnemonic = "trash tube gain payment risk cinnamon rather champion token route gold way";

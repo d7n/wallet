@@ -1,1 +1,1 @@
-var mnemonic = "solve trial fury indoor blast blast test sing erosion double amazing domain";
+var mnemonic = "october rubber regular length anger turtle pyramid faint alone message visa spike";

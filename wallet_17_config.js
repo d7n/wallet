@@ -1,1 +1,1 @@
-var mnemonic = "puzzle dash absorb sauce bamboo abandon concert slab ski rally hurt memory";
+var mnemonic = "helmet want margin satoshi antique loud real home assist fix popular potato";

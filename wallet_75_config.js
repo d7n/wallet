@@ -1,1 +1,1 @@
-var mnemonic = "click journey filter grit select yard exhibit wonder project mushroom test category";
+var mnemonic = "foot gym deer tourist silk acid neutral ketchup essay shuffle spider now";

@@ -1,1 +1,1 @@
-var mnemonic = "manual gospel walnut dial jaguar drill loud load guard first fantasy sorry";
+var mnemonic = "light horror exist asset muffin grid turtle brief system balance control onion";

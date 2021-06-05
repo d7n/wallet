@@ -1,1 +1,1 @@
-var mnemonic = "illness bless tongue duck whisper hedgehog attack rigid census top camp theory";
+var mnemonic = "april push survey extend lens index spatial trade inmate toy treat mean";

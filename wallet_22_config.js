@@ -1,1 +1,1 @@
-var mnemonic = "predict magnet matter taxi battle follow hammer bring found manage blast fever";
+var mnemonic = "item squirrel soup rent rapid moral fog shock mule guilt humble man";

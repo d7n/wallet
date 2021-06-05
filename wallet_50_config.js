@@ -1,1 +1,1 @@
-var mnemonic = "oppose swallow kingdom front virtual ghost code mercy float alley sting major";
+var mnemonic = "someone eyebrow clean shift rotate resemble flag screen age shine mirror drive";

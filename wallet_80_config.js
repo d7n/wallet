@@ -1,1 +1,1 @@
-var mnemonic = "black kind rib jazz crouch hour yellow marriage wrong opera drink ankle";
+var mnemonic = "flash marble favorite bicycle dinner patient empower arm silver couple master toss";

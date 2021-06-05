@@ -1,1 +1,1 @@
-var mnemonic = "similar media angry margin sad reduce blush crash steak unfold meadow health";
+var mnemonic = "token patrol alone differ immune monkey same math lobster tragic borrow approve";

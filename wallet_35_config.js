@@ -1,1 +1,1 @@
-var mnemonic = "satoshi age click pistol runway appear park involve laugh invest race tail";
+var mnemonic = "turtle design toddler over cycle fan peanut dash kiwi matrix analyst federal";

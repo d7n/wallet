@@ -1,1 +1,1 @@
-var mnemonic = "swamp super achieve universe raw jacket volcano drink young depart dynamic swift";
+var mnemonic = "invest south innocent sketch paper truth insane milk oppose kiss parrot gown";

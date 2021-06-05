@@ -1,1 +1,1 @@
-var mnemonic = "crew burger stool general entry ketchup absorb rude photo pupil tennis random";
+var mnemonic = "bag orient announce elbow guide struggle hat flower arm trim tuna tunnel";

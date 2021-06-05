@@ -1,1 +1,1 @@
-var mnemonic = "tell tiny suit erosion grow earth club jar crunch share index smart";
+var mnemonic = "route salt cannon brief verb leopard law neutral little wide bone modify";

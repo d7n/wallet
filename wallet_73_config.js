@@ -1,1 +1,1 @@
-var mnemonic = "verb once gallery seminar coast sleep citizen never give defense black uncover";
+var mnemonic = "forest ordinary cushion ill scene harbor enter earn remain fold educate injury";

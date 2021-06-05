@@ -1,1 +1,1 @@
-var mnemonic = "pretty system crime dove vault mountain purchase west false dirt blush cabin";
+var mnemonic = "toddler chef cloud suggest grab deposit wine boy expose feed slice tank";

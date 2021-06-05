@@ -1,1 +1,1 @@
-var mnemonic = "waste myth body later front resemble wrist hurry weather bean hope execute";
+var mnemonic = "humor estate know smoke castle lion swift sorry shove image assault major";

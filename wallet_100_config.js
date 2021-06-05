@@ -1,1 +1,1 @@
-var mnemonic = "evidence diamond note citizen tube purse shrug drill resist actual three sea";
+var mnemonic = "reform crane orient style essay sure undo limb fix orient sudden disagree";

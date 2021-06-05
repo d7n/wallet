@@ -1,1 +1,1 @@
-var mnemonic = "promote retire keen bullet drama stable laundry inspire pull spread latin tree";
+var mnemonic = "shrug suspect room bench lava beauty crunch cram survey leopard desk bless";

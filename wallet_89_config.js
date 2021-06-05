@@ -1,1 +1,1 @@
-var mnemonic = "federal fitness warrior mesh crawl hill tiger mandate mango horror thing ostrich";
+var mnemonic = "boy then brain plunge tribe very angle clinic duty consider swear casino";

@@ -1,1 +1,1 @@
-var mnemonic = "glow shell grief lunch crowd office sausage core motion swarm feature shop";
+var mnemonic = "enter crater guard coyote couch leisure gasp mammal empty scissors lyrics always";

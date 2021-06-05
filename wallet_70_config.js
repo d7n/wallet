@@ -1,1 +1,1 @@
-var mnemonic = "exhaust village equal junk series forum impulse clog simple save range fat";
+var mnemonic = "brush brother kangaroo tortoise round public giggle device very put salad attack";

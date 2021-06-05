@@ -1,1 +1,1 @@
-var mnemonic = "member hood rule tiger pencil result double immune ugly card buzz around";
+var mnemonic = "check clog idle empower culture keep close print infant picture avoid token";

@@ -1,1 +1,1 @@
-var mnemonic = "onion defense announce force proud ship mask repair sphere dash another winner";
+var mnemonic = "violin clerk real noodle advice rack term click rather unknown garbage floor";

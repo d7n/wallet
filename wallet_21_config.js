@@ -1,1 +1,1 @@
-var mnemonic = "kidney audit ancient invest lyrics place acid grit melody neglect giant amazing";
+var mnemonic = "people dinosaur pave mistake crouch evolve normal mail tiger correct nasty taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve over rookie near food vessel senior gorilla minor pledge shoot despair";
+var mnemonic = "wave pledge radio anger wall fetch layer cluster midnight cost clean hamster";

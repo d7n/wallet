@@ -1,1 +1,1 @@
-var mnemonic = "text panda plunge defy absorb lion elbow silk cup trim lawsuit depend";
+var mnemonic = "narrow brown gaze vehicle gas mansion hunt miss circle prison armed mistake";

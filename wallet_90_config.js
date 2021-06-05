@@ -1,1 +1,1 @@
-var mnemonic = "bulb nose solution upper copy tourist wish february slice better arrive tell";
+var mnemonic = "include champion island word judge elite split silent spice dynamic cart about";

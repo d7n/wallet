@@ -1,1 +1,1 @@
-var mnemonic = "pizza finish pave verify update gym love solution salmon slab album oppose";
+var mnemonic = "gate tribe sleep build picnic typical old hill bike credit round girl";

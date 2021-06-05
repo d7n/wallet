@@ -1,1 +1,1 @@
-var mnemonic = "pole horse ahead current more share calm obey trust two ten wreck";
+var mnemonic = "melt wash tomorrow tower enhance inform student vanish sheriff treat okay finish";

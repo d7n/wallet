@@ -1,1 +1,1 @@
-var mnemonic = "expand anger exhibit symptom congress witness wet inspire jungle sadness grant observe";
+var mnemonic = "require stand jacket kitten glance liberty school oak resemble frown pencil post";

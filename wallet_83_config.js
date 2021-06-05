@@ -1,1 +1,1 @@
-var mnemonic = "glad rich then unknown remove drastic expect shock shed elevator remain veteran";
+var mnemonic = "say icon small bread people snack chef estate boost blade snow you";

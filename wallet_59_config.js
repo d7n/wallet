@@ -1,1 +1,1 @@
-var mnemonic = "tribe task control crucial phrase juice squeeze fit wisdom renew cheese one";
+var mnemonic = "sign sorry purpose junk alarm planet glove earth fish ripple feed axis";

@@ -1,1 +1,1 @@
-var mnemonic = "human track nothing electric trial hotel clarify depth reject defy payment elevator";
+var mnemonic = "chair pottery spawn mail traffic average pet because wage open shy notice";

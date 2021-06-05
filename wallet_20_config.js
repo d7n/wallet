@@ -1,1 +1,1 @@
-var mnemonic = "fade sentence jaguar filter match gloom unable range tube section broccoli affair";
+var mnemonic = "company gaze illness bless this ramp core mansion basic tower april economy";

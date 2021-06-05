@@ -1,1 +1,1 @@
-var mnemonic = "future recycle entry expire library fatigue digital quick ahead draft modify other";
+var mnemonic = "salad diagram edit answer bless then swim metal lava task balcony occur";

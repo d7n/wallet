@@ -1,1 +1,1 @@
-var mnemonic = "trap witness scout whip shrimp elbow weird fantasy icon easily list split";
+var mnemonic = "estate weapon fiction entry tongue depart stay fabric unlock bitter measure start";

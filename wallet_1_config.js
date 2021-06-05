@@ -1,1 +1,1 @@
-var mnemonic = "mercy hollow any idea leg tornado voice turkey stock chimney during allow";
+var mnemonic = "awesome cost fall today notice city attract unhappy tragic harbor list bike";

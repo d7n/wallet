@@ -1,1 +1,1 @@
-var mnemonic = "save olympic exhibit laundry neglect voice answer curve fury edge adjust above";
+var mnemonic = "essay cruel track deliver camera give person attack sketch drift impose flip";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson season task retire bacon demise canoe put amateur brain country slow";
+var mnemonic = "effort abandon worry quality doll pelican only dose allow cement double example";

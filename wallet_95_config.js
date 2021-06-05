@@ -1,1 +1,1 @@
-var mnemonic = "wedding sock fall gasp pass together ride image urge mix spring fiscal";
+var mnemonic = "damage walnut raven salon goddess page cruise reveal chief circle kangaroo heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "lens sail super enter chaos explain volcano wisdom say guard whale scissors";
+var mnemonic = "wave brick joy normal sausage conduct leaf enemy lawsuit charge fiction like";

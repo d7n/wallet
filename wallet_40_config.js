@@ -1,1 +1,1 @@
-var mnemonic = "volcano wave such faint hat oyster client pass pair lobster orbit antique";
+var mnemonic = "oblige ritual fat apology hint paper forum goddess category shove earth tree";

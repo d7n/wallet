@@ -1,1 +1,1 @@
-var mnemonic = "way submit advice shrimp fiber walk shuffle silent rocket october cup rebuild";
+var mnemonic = "edge buddy hurt omit box upper hire pink stove topic private solid";

@@ -1,1 +1,1 @@
-var mnemonic = "legend organ connect divide scheme ozone village emerge media burden clever turkey";
+var mnemonic = "focus steel advice zebra senior agree vocal acquire outside globe fury hour";

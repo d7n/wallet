@@ -1,1 +1,1 @@
-var mnemonic = "brown picnic merry gym able good dumb rack bacon flip organ extra";
+var mnemonic = "lyrics surround insane sorry matter post purchase exist couple animal drop beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "cook goat oxygen state next limb lens phone update uncle gallery tortoise";
+var mnemonic = "giggle silk typical regular remain nice hero dizzy elbow sure initial kitchen";

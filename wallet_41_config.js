@@ -1,1 +1,1 @@
-var mnemonic = "spy enable grant magnet tip hub front wolf wrong edge essence multiply";
+var mnemonic = "uncle radar crane sock member pact arrange swear blouse retreat maze remind";

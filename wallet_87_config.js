@@ -1,1 +1,1 @@
-var mnemonic = "such argue word vanish endorse cable spoil board tell bottom sick leader";
+var mnemonic = "truly upper whale panic slender path utility stand gate armed suffer tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "horn bullet hybrid sister help basic ribbon refuse disorder toss huge wage";
+var mnemonic = "slogan gap dolphin begin cheese paddle desk gym job bargain page galaxy";

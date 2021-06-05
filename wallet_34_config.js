@@ -1,1 +1,1 @@
-var mnemonic = "ribbon fury clay morning garage come phrase excite manual theme derive police";
+var mnemonic = "shiver toilet eyebrow play more reward resemble giggle dumb frequent lift tenant";

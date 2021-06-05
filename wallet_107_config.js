@@ -1,1 +1,1 @@
-var mnemonic = "hamster sleep together ancient child mouse actual sorry silk online summer marine";
+var mnemonic = "effort insane series clip twist industry panda harvest venue note slow shove";
