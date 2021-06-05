@@ -1,1 +1,1 @@
-var mnemonic = "purpose pony dutch quarter blood pudding cigar baby problem salt fat clump";
+var mnemonic = "place hat solar coin submit digital exchange brain infant actress sugar bread";

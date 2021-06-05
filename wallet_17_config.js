@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit half apology ready omit need repair collect sport soldier lamp list";
+var mnemonic = "unusual provide end repeat unique festival say stand salon ignore stick such";

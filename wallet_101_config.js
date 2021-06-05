@@ -1,1 +1,1 @@
-var mnemonic = "glory seminar begin place claim wink couple innocent treat taxi narrow dinosaur";
+var mnemonic = "deputy jealous describe enhance series bike uncover adapt stage keen range wrestle";

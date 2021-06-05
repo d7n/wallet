@@ -1,1 +1,1 @@
-var mnemonic = "make security nothing weasel unique high great crawl meadow census rocket code";
+var mnemonic = "actress crane sure panda twice drum parade rate light energy visual situate";

@@ -1,1 +1,1 @@
-var mnemonic = "essay poem better boost survey physical ball render armor athlete cloud silver";
+var mnemonic = "below critic below sing simple minute bone rice stem guard feature decrease";

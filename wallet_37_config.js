@@ -1,1 +1,1 @@
-var mnemonic = "regret salute island truck egg album scheme antique local link identify sniff";
+var mnemonic = "genre demand define abandon test actor remove symbol wage unique decline december";

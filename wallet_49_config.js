@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon able wool cabin edge judge chapter dirt spare orient relax orient";
+var mnemonic = "similar almost face salad pool detail olive shy legend unhappy gold noodle";

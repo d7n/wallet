@@ -1,1 +1,1 @@
-var mnemonic = "purse stem erupt stamp tone appear nest embody segment beach scissors magic";
+var mnemonic = "industry aware kangaroo language just ostrich second spare trap tornado wagon exclude";

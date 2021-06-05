@@ -1,1 +1,1 @@
-var mnemonic = "clutch hammer hazard diamond nut dad lab spot age tumble pill stock";
+var mnemonic = "foil verb ceiling business adult neck comic join basic need stomach teach";

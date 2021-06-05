@@ -1,1 +1,1 @@
-var mnemonic = "bean giggle debris search release prosper remember where tunnel raise off saddle";
+var mnemonic = "also nominee trade brand tornado anger young close tourist table mechanic brave";

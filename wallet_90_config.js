@@ -1,1 +1,1 @@
-var mnemonic = "route hello minute convince daring actress print promote absurd radar finger dust";
+var mnemonic = "road country address wet sibling empty lens blind eagle mistake raise spot";

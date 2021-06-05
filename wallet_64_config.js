@@ -1,1 +1,1 @@
-var mnemonic = "unknown recipe banner element sugar benefit expose dynamic flight become fatal must";
+var mnemonic = "sea garlic weather behave abstract believe skirt toe false lottery inch strike";

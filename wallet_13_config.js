@@ -1,1 +1,1 @@
-var mnemonic = "render patch soldier coast clarify brand mention error nephew flower develop choose";
+var mnemonic = "fan tired scissors length lava like illness entry decline blur hand jungle";

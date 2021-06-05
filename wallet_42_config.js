@@ -1,1 +1,1 @@
-var mnemonic = "blossom accuse win urban brush illness tobacco suffer hundred know disagree leaf";
+var mnemonic = "cart young curious stay eternal wave fury thank figure flame photo flock";

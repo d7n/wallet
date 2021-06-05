@@ -1,1 +1,1 @@
-var mnemonic = "minimum art tomorrow news cross dress long social spatial wisdom merry diary";
+var mnemonic = "now under blanket edit bullet canvas powder bundle infant monitor devote fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "merge awake raven sound other observe elbow blossom upset polar invite million";
+var mnemonic = "tennis excess enlist spider select electric motion battle depth machine foster foil";

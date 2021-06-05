@@ -1,1 +1,1 @@
-var mnemonic = "glory hurdle zero fantasy puppy pitch earn dance base either hint act";
+var mnemonic = "sugar embrace ribbon vivid position enact little faint silk police panic error";

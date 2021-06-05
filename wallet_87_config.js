@@ -1,1 +1,1 @@
-var mnemonic = "hazard frame dream type flock view air vivid fat junk way struggle";
+var mnemonic = "draw same group flag entire helmet want ability mimic soft service arrow";

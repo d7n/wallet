@@ -1,1 +1,1 @@
-var mnemonic = "rib trumpet return avocado coach invite solid under boss frown unfair crazy";
+var mnemonic = "base night devote gap hockey trend shop puzzle leopard record goose opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "culture rail powder invite olympic such theme blanket stem note remain butter";
+var mnemonic = "alley rival corn twist update ignore asthma stay fade gown olympic dash";

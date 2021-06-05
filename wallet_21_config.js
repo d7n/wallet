@@ -1,1 +1,1 @@
-var mnemonic = "luggage ugly enforce range carbon board weasel lock helmet cake sure edge";
+var mnemonic = "fit second depend armor flower over adjust only tell mimic wine mosquito";

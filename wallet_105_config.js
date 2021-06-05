@@ -1,1 +1,1 @@
-var mnemonic = "jacket voice alpha cave much aware dwarf random spatial steel abandon hollow";
+var mnemonic = "frost still list diamond weather butter toe robust adult pig exhibit live";

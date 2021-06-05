@@ -1,1 +1,1 @@
-var mnemonic = "auto canal peanut lady shallow stem giant design must dish over medal";
+var mnemonic = "prepare nice punch thank maximum review floor party consider bonus mansion sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "then ten ready average main mandate deputy feel garment suggest talent share";
+var mnemonic = "pilot patient salt hair autumn split scatter capable submit predict sphere enemy";

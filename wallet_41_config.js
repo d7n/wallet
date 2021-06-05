@@ -1,1 +1,1 @@
-var mnemonic = "desert build arena noble saddle someone acquire carbon harvest search scrap entry";
+var mnemonic = "daughter budget fluid brave cook nut behind exotic hurdle space duty wear";

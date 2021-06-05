@@ -1,1 +1,1 @@
-var mnemonic = "zone any stamp food blade laugh side ribbon ill crumble next depart";
+var mnemonic = "clinic shallow rebel force infant second deny digital boss awful resist category";

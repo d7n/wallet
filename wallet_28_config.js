@@ -1,1 +1,1 @@
-var mnemonic = "moon stuff capable sail fetch spin surprise quick lens glad segment idle";
+var mnemonic = "invite mask comfort bind teach approve announce venture estate define author client";

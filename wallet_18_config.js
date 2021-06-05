@@ -1,1 +1,1 @@
-var mnemonic = "salon pet audit credit next kiss truth empower moon level room short";
+var mnemonic = "mechanic flame giggle favorite orphan one clock jar ethics rack parent decade";

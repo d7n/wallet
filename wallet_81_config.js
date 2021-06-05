@@ -1,1 +1,1 @@
-var mnemonic = "bind net crawl negative plug nephew attend genuine thunder glare what okay";
+var mnemonic = "much payment tray swallow bargain number space view old wear hub fetch";

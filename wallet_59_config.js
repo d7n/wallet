@@ -1,1 +1,1 @@
-var mnemonic = "initial okay merit human hard result someone fish fire crouch garlic cannon";
+var mnemonic = "room robust boil liberty solar payment fragile skull phrase romance shoot wedding";

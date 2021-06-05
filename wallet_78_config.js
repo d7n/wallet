@@ -1,1 +1,1 @@
-var mnemonic = "spawn another upon elephant renew awesome envelope foam perfect staff fire boy";
+var mnemonic = "occur blood later pen pulp shrug brief palace laptop pupil nice belt";

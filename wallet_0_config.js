@@ -1,1 +1,1 @@
-var mnemonic = "recipe flavor alert melody wolf power despair fabric treat powder hurt trap";
+var mnemonic = "nation drift pact exist child normal purpose any depend bulk budget father";

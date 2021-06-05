@@ -1,1 +1,1 @@
-var mnemonic = "soon over pyramid more busy unaware security hawk width wear vault silk";
+var mnemonic = "crop oval burst ketchup tomorrow weasel approve enable elite current dust twin";

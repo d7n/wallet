@@ -1,1 +1,1 @@
-var mnemonic = "student charge nothing hamster key such tornado arrange speed copper space good";
+var mnemonic = "must load enforce priority chimney fish orient supply act mistake pig civil";

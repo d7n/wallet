@@ -1,1 +1,1 @@
-var mnemonic = "priority era motion hand pattern wrestle weapon belt powder saddle reward foil";
+var mnemonic = "scene below mirror move brass pole upset buddy yard teach attack stool";

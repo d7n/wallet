@@ -1,1 +1,1 @@
-var mnemonic = "alien hero grass scrub once boil pass coconut auto legal once impose";
+var mnemonic = "shadow time caught nerve wear weekend jungle glove arctic reform alpha wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "rough noble conduct fatigue enrich sense slush lend swim clerk annual frog";
+var mnemonic = "similar enroll truly clever october cheese electric board bonus father ranch recipe";

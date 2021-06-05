@@ -1,1 +1,1 @@
-var mnemonic = "other aerobic shield view false daughter ten call act pupil radio march";
+var mnemonic = "neglect owner admit silk bracket effort staff betray brush toast wait grace";

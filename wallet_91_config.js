@@ -1,1 +1,1 @@
-var mnemonic = "remember sense pencil quiz another make analyst dress wheel armed thrive mercy";
+var mnemonic = "problem dolphin thumb advice chef creek cry velvet time bronze vacuum easy";

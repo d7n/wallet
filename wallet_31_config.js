@@ -1,1 +1,1 @@
-var mnemonic = "picnic spy era hollow avocado capital prefer round lake nerve frequent save";
+var mnemonic = "early genius buyer tool chunk traffic reason text claim raise remember lottery";

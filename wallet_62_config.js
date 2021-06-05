@@ -1,1 +1,1 @@
-var mnemonic = "wear seat indicate blur jeans light float swift host invite deny connect";
+var mnemonic = "ten scissors extend silly govern napkin alter since harvest pull imitate film";

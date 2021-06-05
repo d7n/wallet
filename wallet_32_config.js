@@ -1,1 +1,1 @@
-var mnemonic = "marriage spoil pigeon nut film note boy direct physical endless museum boring";
+var mnemonic = "town unveil west output muffin gate idea duty okay planet absorb drill";

@@ -1,1 +1,1 @@
-var mnemonic = "celery enable visa hundred fringe coral twin stumble cruise butter note hurdle";
+var mnemonic = "practice winner profit fire color wrist index valve over cook uphold essay";

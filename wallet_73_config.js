@@ -1,1 +1,1 @@
-var mnemonic = "strike idle moral cereal fashion cute bubble brisk divert tuna hospital federal";
+var mnemonic = "dose skate lock guide cheese dust wreck clerk nerve resource quit palace";

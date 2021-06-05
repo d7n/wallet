@@ -1,1 +1,1 @@
-var mnemonic = "until shop bacon crash iron chef voice viable breeze topic general pumpkin";
+var mnemonic = "subway move champion humor reveal curve school spike youth jeans velvet escape";

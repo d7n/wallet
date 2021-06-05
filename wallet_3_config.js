@@ -1,1 +1,1 @@
-var mnemonic = "sausage home battle dry ask advice member nut hole fly high verb";
+var mnemonic = "round limit cluster express chimney kit wrestle twelve remember evil lucky until";

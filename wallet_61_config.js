@@ -1,1 +1,1 @@
-var mnemonic = "kiwi young chuckle case that snack clown series lucky marriage bench day";
+var mnemonic = "hidden pottery grain cram hotel inhale soccer diagram crazy pair limb best";

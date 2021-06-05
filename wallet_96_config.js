@@ -1,1 +1,1 @@
-var mnemonic = "luxury pool exist index remove legal transfer margin roof galaxy frame poem";
+var mnemonic = "total exercise alter daughter valley distance trade satoshi comic spoil clap strong";

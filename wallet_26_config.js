@@ -1,1 +1,1 @@
-var mnemonic = "machine tenant remove clarify pudding inner ocean razor nice issue lady cinnamon";
+var mnemonic = "protect pyramid tuition radio happy sample trouble exchange canyon have attract property";

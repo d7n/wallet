@@ -1,1 +1,1 @@
-var mnemonic = "layer fancy hair twelve frog wedding visual tuition ripple ancient helmet joke";
+var mnemonic = "idea motion seven office flight keep ship discover dragon style cabbage scrub";

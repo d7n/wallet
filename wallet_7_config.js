@@ -1,1 +1,1 @@
-var mnemonic = "absent sustain teach sudden depart involve charge silk fee nose post bring";
+var mnemonic = "assault purpose rabbit wrestle apart endless volume bind stock dawn online canvas";

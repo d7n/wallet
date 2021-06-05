@@ -1,1 +1,1 @@
-var mnemonic = "file journey unfold alter east tortoise solve illness inmate void rough solid";
+var mnemonic = "nerve oval crucial foil tuition shaft despair stick mushroom provide basic wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "ten october any wall chat dilemma gun total rhythm quantum draft raw";
+var mnemonic = "siege parent oil casino what special casual lecture gap breeze lift find";

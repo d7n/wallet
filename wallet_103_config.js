@@ -1,1 +1,1 @@
-var mnemonic = "photo oppose doll enable slender basic blame boost glass town explain this";
+var mnemonic = "orchard awkward since scan desert soup hunt swap skill correct custom filter";

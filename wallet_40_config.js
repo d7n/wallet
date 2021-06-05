@@ -1,1 +1,1 @@
-var mnemonic = "curve drift ice book deputy float sibling globe glimpse giant card address";
+var mnemonic = "tell genre away enrich age eight age follow tip proof horn capital";

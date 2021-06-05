@@ -1,1 +1,1 @@
-var mnemonic = "snack project canvas scorpion true miss cute broken custom unknown blast acid";
+var mnemonic = "drama tobacco funny heavy mountain code system sand world cute ivory exotic";

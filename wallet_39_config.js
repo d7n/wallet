@@ -1,1 +1,1 @@
-var mnemonic = "fan excuse casino inject jacket popular core year diet giggle grief uphold";
+var mnemonic = "couch love end reward settle teach wrap mushroom axis broccoli fiction actor";

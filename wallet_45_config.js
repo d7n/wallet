@@ -1,1 +1,1 @@
-var mnemonic = "noodle pipe then melody draw random peanut fish twelve predict zebra profit";
+var mnemonic = "detect relax artefact annual leopard purchase dizzy stove cricket air toss match";

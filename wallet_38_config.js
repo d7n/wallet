@@ -1,1 +1,1 @@
-var mnemonic = "slender salute hungry beyond used artefact thunder catch whip ethics upgrade little";
+var mnemonic = "kit oblige trophy slot weekend filter gather pattern unaware rely sort text";

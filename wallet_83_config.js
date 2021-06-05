@@ -1,1 +1,1 @@
-var mnemonic = "head actor genre length calm miracle toward present early asthma wave vote";
+var mnemonic = "smoke sample wash desert execute group horse vacuum crime color toddler world";

@@ -1,1 +1,1 @@
-var mnemonic = "wild leaf two deal relax start wink final field special feel because";
+var mnemonic = "wool light leaf loyal measure prison razor direct exit clock myself few";

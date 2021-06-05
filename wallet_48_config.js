@@ -1,1 +1,1 @@
-var mnemonic = "lunch blood ability over ozone poverty include wine soul chase doll day";
+var mnemonic = "orient forest pitch napkin defense luxury popular odor security truck trouble mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cinnamon skill settle planet picture deny blanket radar eyebrow section end";
+var mnemonic = "pig law fox suggest hedgehog feature dose dynamic earn flip ability victory";

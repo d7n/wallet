@@ -1,1 +1,1 @@
-var mnemonic = "taxi charge arena guide success fox then bounce bubble mule fine luggage";
+var mnemonic = "beyond design face minute awkward illegal practice gift gun ski anger snake";

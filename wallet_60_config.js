@@ -1,1 +1,1 @@
-var mnemonic = "crisp stool code clap pupil robust goat budget ball surprise year suspect";
+var mnemonic = "energy shadow hand crystal spot equip antenna excuse october solar trip island";

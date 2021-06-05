@@ -1,1 +1,1 @@
-var mnemonic = "service abuse betray false armed split assume eternal dwarf neglect saddle valley";
+var mnemonic = "repeat vast liberty hurry fatigue drift reflect topic trust audit race say";

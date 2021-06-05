@@ -1,1 +1,1 @@
-var mnemonic = "clown then pudding witness type mass sock grant fabric badge brush doll";
+var mnemonic = "focus napkin sauce spirit member ghost option flight morning focus water kid";

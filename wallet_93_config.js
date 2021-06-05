@@ -1,1 +1,1 @@
-var mnemonic = "hockey catalog jazz novel fiber beach online must coil into oven original";
+var mnemonic = "shield help stomach barely gym salmon popular health ring desk crack simple";

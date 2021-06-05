@@ -1,1 +1,1 @@
-var mnemonic = "prepare soldier use resist shoot shaft wet sunny raise feature mouse rebel";
+var mnemonic = "forum bunker soul blade harvest vibrant juice indicate nation lucky hint decrease";

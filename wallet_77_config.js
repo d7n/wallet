@@ -1,1 +1,1 @@
-var mnemonic = "welcome twenty what balance lab hurry wish mistake bullet upset involve walnut";
+var mnemonic = "turkey inner lab mechanic usage rebel mountain cement peace jealous parrot denial";

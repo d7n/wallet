@@ -1,1 +1,1 @@
-var mnemonic = "pretty favorite copy neutral siren news any solid lunar light market tonight";
+var mnemonic = "middle oil alley come pony master sphere sentence tiger yellow render interest";

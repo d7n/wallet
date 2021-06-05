@@ -1,1 +1,1 @@
-var mnemonic = "mother apology follow bonus mouse tool basic breeze absurd play cube spring";
+var mnemonic = "rapid able anger crowd task hurry syrup trial this champion jump planet";

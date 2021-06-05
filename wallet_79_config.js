@@ -1,1 +1,1 @@
-var mnemonic = "engine when oblige witness force patch antenna poverty attack canal banner various";
+var mnemonic = "cake prosper physical edit pet now tiger cause vintage student target negative";

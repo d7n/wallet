@@ -1,1 +1,1 @@
-var mnemonic = "tree pitch pudding minor dish copy slot robot auction acquire youth coyote";
+var mnemonic = "away more defy mechanic extend clever frog battle tool memory achieve author";

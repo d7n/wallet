@@ -1,1 +1,1 @@
-var mnemonic = "soap purse cabbage roof light vague behave drop inform only pluck length";
+var mnemonic = "modify oppose canal economy flush faculty dwarf scare accuse machine swing result";

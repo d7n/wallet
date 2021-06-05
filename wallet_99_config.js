@@ -1,1 +1,1 @@
-var mnemonic = "lazy enforce marble jazz page winter alpha clip husband game bubble ankle";
+var mnemonic = "arm nerve twist list very bonus keep harvest inject target wire across";

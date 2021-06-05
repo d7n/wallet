@@ -1,1 +1,1 @@
-var mnemonic = "drill drink word shell wedding thank lottery upper uncle critic lazy warrior";
+var mnemonic = "another raw deer fluid material system street nuclear predict utility fun stereo";

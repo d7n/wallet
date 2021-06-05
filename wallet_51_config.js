@@ -1,1 +1,1 @@
-var mnemonic = "bachelor afraid produce faint capable vacuum expire attitude unusual number fruit inquiry";
+var mnemonic = "unaware rough vacuum hurt fatal hedgehog dentist vacuum broccoli inner any outside";

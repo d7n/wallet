@@ -1,1 +1,1 @@
-var mnemonic = "try staff radar must heart burger napkin require design oven board galaxy";
+var mnemonic = "area coin usual future soccer tool pear tourist machine drive outside light";

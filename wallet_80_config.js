@@ -1,1 +1,1 @@
-var mnemonic = "misery ice drift canal dentist amateur coral cloud explain faint walk shop";
+var mnemonic = "response comic equip decline trash kitchen put dentist street evidence provide response";

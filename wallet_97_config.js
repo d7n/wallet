@@ -1,1 +1,1 @@
-var mnemonic = "enemy mad much congress tape mobile unique amateur hidden pattern setup illness";
+var mnemonic = "vapor fetch shove among defense high thank estate general camp oxygen angle";

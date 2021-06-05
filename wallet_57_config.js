@@ -1,1 +1,1 @@
-var mnemonic = "column banana rival circle pulse able agree liberty intact icon impact asthma";
+var mnemonic = "program crazy topic primary urge level wisdom firm main embrace gift success";

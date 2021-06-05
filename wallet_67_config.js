@@ -1,1 +1,1 @@
-var mnemonic = "decide age donkey paddle wolf chase fame fence transfer since since expect";
+var mnemonic = "boy bright label vivid captain health where gather income blur multiply true";

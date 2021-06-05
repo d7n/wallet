@@ -1,1 +1,1 @@
-var mnemonic = "key ship eager grab agent marble recall forum issue jacket pond race";
+var mnemonic = "mesh wolf also snack tilt blind beauty board tag speed turtle frost";

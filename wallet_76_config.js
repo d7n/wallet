@@ -1,1 +1,1 @@
-var mnemonic = "edge arm hawk hope end noise club hammer use inform quiz surface";
+var mnemonic = "toilet chat letter episode usual alone credit gloom field genuine escape sun";

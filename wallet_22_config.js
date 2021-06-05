@@ -1,1 +1,1 @@
-var mnemonic = "struggle reason crunch nerve enable talent blame coyote divorce horror relax rebuild";
+var mnemonic = "town retire drill verify invite nation advance govern trash dream west sorry";

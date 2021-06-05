@@ -1,1 +1,1 @@
-var mnemonic = "clerk artwork claw sea network brick drill frozen void spend oval excess";
+var mnemonic = "thought domain subway heavy knee winter strategy sword tube gap cup zero";

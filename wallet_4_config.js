@@ -1,1 +1,1 @@
-var mnemonic = "hand annual slender little wife noodle height stadium guilt feed civil napkin";
+var mnemonic = "excite salmon proof advance dad index come mass pipe wear knock occur";

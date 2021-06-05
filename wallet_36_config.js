@@ -1,1 +1,1 @@
-var mnemonic = "avocado month knee public slam pig antique cheap hammer spice identify obey";
+var mnemonic = "diet program blade seek guitar fade hour orient leaf country bring genuine";

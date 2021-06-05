@@ -1,1 +1,1 @@
-var mnemonic = "marine better west liberty provide fan airport sort wheat tomorrow real possible";
+var mnemonic = "pumpkin chalk daughter bind addict observe infant alpha because dice void quit";
