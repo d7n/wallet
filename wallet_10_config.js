@@ -1,1 +1,1 @@
-var mnemonic = "museum scheme tail trial street summer pause clip betray magic spend together";
+var mnemonic = "undo hero seek tennis gym stove isolate rural gloom holiday tunnel tourist";

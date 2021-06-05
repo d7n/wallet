@@ -1,1 +1,1 @@
-var mnemonic = "observe claim razor spring squeeze garden river people develop rough diagram relief";
+var mnemonic = "such hockey parrot melt cloud net prevent seek tiny claim ramp draw";

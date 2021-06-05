@@ -1,1 +1,1 @@
-var mnemonic = "media depend mutual immense story dry bronze elbow creek lumber host resist";
+var mnemonic = "ask kite hello dance increase solve mobile arm vapor vast coin tide";

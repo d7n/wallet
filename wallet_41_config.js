@@ -1,1 +1,1 @@
-var mnemonic = "immense hip dry uphold use slab chest armed rigid mountain side urge";
+var mnemonic = "tonight airport edge immense gossip exchange field shaft never crucial tide tooth";

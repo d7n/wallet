@@ -1,1 +1,1 @@
-var mnemonic = "blossom apart unit toss hello tide consider sort topple trim hand primary";
+var mnemonic = "grape affair mail punch drum life you debris main base finish bamboo";

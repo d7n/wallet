@@ -1,1 +1,1 @@
-var mnemonic = "rubber helmet mimic donor case hip report deal series trick supreme silk";
+var mnemonic = "nurse bubble jealous solar flower divert flat unlock hurdle bulb blast spirit";

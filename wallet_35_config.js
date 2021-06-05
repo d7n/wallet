@@ -1,1 +1,1 @@
-var mnemonic = "alarm bridge throw piece orient stamp lawn owner crawl verb execute screen";
+var mnemonic = "smile three fruit prepare lava spawn jelly soon offer fat shiver strategy";

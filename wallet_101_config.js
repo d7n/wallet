@@ -1,1 +1,1 @@
-var mnemonic = "size include size segment horse fan pelican thunder slot seat spread crazy";
+var mnemonic = "asset congress enjoy web adult increase will case end boil acoustic group";

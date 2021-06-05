@@ -1,1 +1,1 @@
-var mnemonic = "bread crystal entire palace useful amazing slight energy direct bridge recipe east";
+var mnemonic = "health try either object leopard uncover twice fiction quality hero lift theme";

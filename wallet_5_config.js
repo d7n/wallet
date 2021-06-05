@@ -1,1 +1,1 @@
-var mnemonic = "spray vivid item hospital now dwarf twice fever flee garment surge kangaroo";
+var mnemonic = "course surround escape please trigger visual badge army iron beyond section prosper";

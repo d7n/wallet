@@ -1,1 +1,1 @@
-var mnemonic = "blanket clay anxiety yellow tunnel order satoshi frequent sustain blur frequent answer";
+var mnemonic = "rigid olympic one vote peanut daughter leopard achieve stone until dream adapt";

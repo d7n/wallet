@@ -1,1 +1,1 @@
-var mnemonic = "marine north gaze dutch argue margin shy stamp forest canoe funny verify";
+var mnemonic = "opera front merit evolve audit present roof kingdom sting frost type iron";

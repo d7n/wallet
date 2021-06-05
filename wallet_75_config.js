@@ -1,1 +1,1 @@
-var mnemonic = "second warm funny cable clap usual renew person three rare eyebrow rent";
+var mnemonic = "north concert century degree pumpkin giant analyst correct silk neglect refuse notable";

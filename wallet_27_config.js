@@ -1,1 +1,1 @@
-var mnemonic = "very school toy another next ticket adult reform hen antique connect know";
+var mnemonic = "huge board increase believe miss fresh model poet demand advice ginger acid";

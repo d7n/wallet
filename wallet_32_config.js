@@ -1,1 +1,1 @@
-var mnemonic = "above crowd flag cabbage zone royal reunion infant absorb skull mule setup";
+var mnemonic = "stable mechanic capable bless bachelor parade brain believe season identify spirit lemon";

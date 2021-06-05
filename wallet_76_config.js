@@ -1,1 +1,1 @@
-var mnemonic = "grass among jealous march category provide thought opinion example bulk never figure";
+var mnemonic = "artist common also copper discover trigger clown deer giggle daring boat repeat";

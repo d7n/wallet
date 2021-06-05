@@ -1,1 +1,1 @@
-var mnemonic = "snack ring final lizard test extend edit recall grain live milk fog";
+var mnemonic = "sister exotic topic useless meat layer prepare august airport electric memory chronic";

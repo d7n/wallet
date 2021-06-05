@@ -1,1 +1,1 @@
-var mnemonic = "solution oblige trip impulse easily puppy sausage crystal fiction feed mimic charge";
+var mnemonic = "plate canal eagle attitude fragile detect slide obey visit torch only visual";

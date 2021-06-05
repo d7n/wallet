@@ -1,1 +1,1 @@
-var mnemonic = "bid dose plunge tray recycle wrap glimpse dance theme degree easily fish";
+var mnemonic = "spread waste income net open acoustic jump blue volume weasel model dizzy";

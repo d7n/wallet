@@ -1,1 +1,1 @@
-var mnemonic = "debate fancy flight loud bread sun cry cushion depart author rival luxury";
+var mnemonic = "always spray receive double medal cement item install void basket paper wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "inform eternal arctic sick bullet shove curve arrange crystal alarm awake fancy";
+var mnemonic = "tiny injury critic useless scene fine own force cupboard swing table cattle";

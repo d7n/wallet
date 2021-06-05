@@ -1,1 +1,1 @@
-var mnemonic = "sustain gallery intact trip girl announce divorce sight truth flash road point";
+var mnemonic = "neutral afford erase lemon topple fit style shop fine around twin process";

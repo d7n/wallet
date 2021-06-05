@@ -1,1 +1,1 @@
-var mnemonic = "degree gun click distance asthma chase child proud venue proof clutch scheme";
+var mnemonic = "field tuition have pull excess satoshi market chaos pencil nice clump want";

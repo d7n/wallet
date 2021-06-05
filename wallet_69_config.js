@@ -1,1 +1,1 @@
-var mnemonic = "subject bicycle teach expect cake else help play donate path sock rather";
+var mnemonic = "into inhale success churn burger cactus artwork supreme list panic seven shadow";

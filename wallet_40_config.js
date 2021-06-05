@@ -1,1 +1,1 @@
-var mnemonic = "figure base meadow combine price twin situate decline wheel claw narrow educate";
+var mnemonic = "thunder point bind ribbon cannon report nothing unfair visit video crucial fat";

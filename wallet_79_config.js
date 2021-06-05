@@ -1,1 +1,1 @@
-var mnemonic = "sure hip retire lift chronic tool inch inspire child settle desk sense";
+var mnemonic = "swing album mother dinosaur genre case copy dry steak input firm slim";

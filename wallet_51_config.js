@@ -1,1 +1,1 @@
-var mnemonic = "render tuition best web motion school powder lawsuit speak brown deposit base";
+var mnemonic = "intact ensure forward siege entire earth erupt crunch process crouch salad pear";

@@ -1,1 +1,1 @@
-var mnemonic = "someone learn across maximum focus loud park wall quote enrich lamp news";
+var mnemonic = "piano differ ready food error lazy purity fan thing major raise stuff";

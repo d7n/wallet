@@ -1,1 +1,1 @@
-var mnemonic = "breeze scene hybrid wonder leisure citizen salon math siege hint humble balance";
+var mnemonic = "hair mushroom cactus pretty pluck gloom begin magic mansion husband flame jeans";

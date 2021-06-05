@@ -1,1 +1,1 @@
-var mnemonic = "secret furnace shove year eye forget harvest jeans adult nothing develop armor";
+var mnemonic = "major snack crucial decorate distance custom provide holiday lawsuit between dawn jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum insane two bridge hurry knock empower drive moon hour hen rocket";
+var mnemonic = "tail coffee shine around bacon list silver stamp play victory popular menu";

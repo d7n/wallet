@@ -1,1 +1,1 @@
-var mnemonic = "head vanish degree void later devote normal green reform because stereo harvest";
+var mnemonic = "pudding repeat lake ski knife rural account process that sort tortoise pluck";

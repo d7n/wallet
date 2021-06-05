@@ -1,1 +1,1 @@
-var mnemonic = "cat coral castle planet talent virtual quick gym debris jump voyage charge";
+var mnemonic = "secret yard leisure vote there skin clap arctic twist extend benefit quote";

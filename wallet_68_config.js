@@ -1,1 +1,1 @@
-var mnemonic = "much pizza snack curtain lens very radio apart pupil glide hollow wall";
+var mnemonic = "room twin hollow until lens same illegal direct build leader divert income";

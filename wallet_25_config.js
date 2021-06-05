@@ -1,1 +1,1 @@
-var mnemonic = "spatial stomach seek iron trick tribe coral venue six much city olive";
+var mnemonic = "rent dismiss staff federal motion vacant absent flight only undo glass creek";

@@ -1,1 +1,1 @@
-var mnemonic = "rather light chat clump hunt material dial wire alpha fashion neither brave";
+var mnemonic = "zone pepper pen electric zero vault junk flame entry ignore measure since";

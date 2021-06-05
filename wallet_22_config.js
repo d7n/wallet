@@ -1,1 +1,1 @@
-var mnemonic = "live aware sister junk memory test vehicle vessel lamp basket summer raise";
+var mnemonic = "pizza gift swarm airport addict belt fly token pudding thought hello outside";

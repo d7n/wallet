@@ -1,1 +1,1 @@
-var mnemonic = "sentence intact glad uphold front month morning screen effort twenty fog drum";
+var mnemonic = "wonder tongue imitate smooth stumble evolve nature catch power aisle hobby veteran";

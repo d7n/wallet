@@ -1,1 +1,1 @@
-var mnemonic = "loop front number industry charge shallow cute water coral hero second remind";
+var mnemonic = "mobile scare abstract key marriage toddler tuition razor mule between idle code";

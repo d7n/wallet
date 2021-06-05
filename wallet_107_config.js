@@ -1,1 +1,1 @@
-var mnemonic = "another adapt unusual brave neglect lemon taste auto carbon middle quantum used";
+var mnemonic = "genius owner sausage code destroy language age where side world shy security";

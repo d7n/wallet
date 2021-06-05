@@ -1,1 +1,1 @@
-var mnemonic = "fiction eight velvet spot end emotion account entire insect order social alter";
+var mnemonic = "huge vague wrap insect taste clean syrup want balance raise differ claim";

@@ -1,1 +1,1 @@
-var mnemonic = "height innocent monkey like egg wreck airport piece fashion click bicycle drip";
+var mnemonic = "bulb absurd found sock talent castle luxury radio assist govern album clown";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory sense swim satisfy ostrich long clever meadow rifle quarter salute color";
+var mnemonic = "rent smooth slender tool budget kiss input machine lawsuit goose space parent";

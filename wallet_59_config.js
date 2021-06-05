@@ -1,1 +1,1 @@
-var mnemonic = "trade cloth belt symbol swap assault hire fuel mutual timber nut gallery";
+var mnemonic = "dash define grocery forward discover glimpse stamp hope afford science robot flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "universe salad fluid belt hand drive charge flame weather rookie satisfy ladder";
+var mnemonic = "hurdle drink funny spray dirt tag soft decline giraffe toilet ribbon drill";

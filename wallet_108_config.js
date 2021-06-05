@@ -1,1 +1,1 @@
-var mnemonic = "diagram cruel neck dynamic river pencil seek expect balcony east keep box";
+var mnemonic = "muscle vibrant motion owner kangaroo stem invite blast vibrant perfect display traffic";

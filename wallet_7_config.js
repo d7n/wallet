@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow render trim latin brand kite belt gun ill ice when marriage";
+var mnemonic = "ramp quality strong aspect hunt awful click leopard fatigue file this stock";

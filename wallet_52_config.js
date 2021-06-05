@@ -1,1 +1,1 @@
-var mnemonic = "cricket soda elder provide rigid say light girl paper lava rack example";
+var mnemonic = "three destroy walk dolphin hotel stock clap museum novel emerge myself veteran";

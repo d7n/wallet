@@ -1,1 +1,1 @@
-var mnemonic = "roof gospel celery breeze yard cruise place reason pepper banana crisp dash";
+var mnemonic = "now black ghost step east gift loyal wire prison useful hotel code";

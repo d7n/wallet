@@ -1,1 +1,1 @@
-var mnemonic = "rifle like elite various sweet chalk true pumpkin submit fantasy subject pink";
+var mnemonic = "tattoo edit club hope stage ring token draw boost wing grace hand";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder coach cause state tobacco blossom eyebrow ritual insane penalty churn romance";
+var mnemonic = "orchard market verify whale bless brick income state image ride spirit wait";

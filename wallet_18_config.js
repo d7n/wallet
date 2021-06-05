@@ -1,1 +1,1 @@
-var mnemonic = "twist beyond choose captain rival card hour hair wrong town also joy";
+var mnemonic = "stool wrong thrive network now case glove smoke empower water electric frog";

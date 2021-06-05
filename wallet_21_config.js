@@ -1,1 +1,1 @@
-var mnemonic = "chef spice stem hedgehog express mean pattern surround typical yellow lounge spoon";
+var mnemonic = "weird slight radar draw iron reform boil hurry point fabric clog rose";

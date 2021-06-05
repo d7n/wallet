@@ -1,1 +1,1 @@
-var mnemonic = "verify always involve ghost common minor caught calm pelican minimum act reflect";
+var mnemonic = "wrong medal obtain kit slush divide stadium riot flee nature story print";

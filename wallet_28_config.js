@@ -1,1 +1,1 @@
-var mnemonic = "wild defy gain rocket unfair borrow erupt exit scheme sail galaxy cry";
+var mnemonic = "tide rare attitude suit mixed enhance rapid apple birth radio voice want";

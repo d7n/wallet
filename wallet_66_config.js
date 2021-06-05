@@ -1,1 +1,1 @@
-var mnemonic = "pilot birth rough city order drink pilot mother cross raise someone country";
+var mnemonic = "state hair main text drastic suit differ coil same offer tide memory";

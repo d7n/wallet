@@ -1,1 +1,1 @@
-var mnemonic = "catalog olympic boring recipe order erupt where minute hunt blush vast recycle";
+var mnemonic = "under quarter resist confirm delay vague lecture million crater bar settle jeans";

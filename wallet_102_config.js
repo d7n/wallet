@@ -1,1 +1,1 @@
-var mnemonic = "west guide female practice hope hollow sand science bind useful minimum engine";
+var mnemonic = "moment wear area judge camera tail vacant chest napkin muscle seed flush";

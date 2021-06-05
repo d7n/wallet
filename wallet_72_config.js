@@ -1,1 +1,1 @@
-var mnemonic = "boat wasp actress water rose galaxy buzz firm flock churn barely humor";
+var mnemonic = "junior frog donate piece toilet post olympic rabbit comic panel luxury ill";

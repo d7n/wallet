@@ -1,1 +1,1 @@
-var mnemonic = "world filter nothing siren congress isolate extra lunar bread quarter fork before";
+var mnemonic = "describe disagree rotate point enter hat layer sunset wonder federal toast state";

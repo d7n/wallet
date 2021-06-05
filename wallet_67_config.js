@@ -1,1 +1,1 @@
-var mnemonic = "helmet slush jeans casual skate file hazard find scatter weapon glove injury";
+var mnemonic = "gym review cement poem shell around defy sentence wheel cattle area cargo";

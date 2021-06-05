@@ -1,1 +1,1 @@
-var mnemonic = "fashion physical refuse used protect upgrade exhibit spider zone devote usage firm";
+var mnemonic = "glance sauce pause minimum source license lock volume inch arctic medal purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "airport possible solid grief iron breeze undo boil velvet arrange follow rain";
+var mnemonic = "fame wear budget motion angry mail arrive hint donkey photo pipe level";

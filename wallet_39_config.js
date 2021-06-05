@@ -1,1 +1,1 @@
-var mnemonic = "tennis uphold stable olive horse cat small talent winter key list polar";
+var mnemonic = "deliver mammal resource zoo sustain warm jealous trial evidence bird inform ridge";

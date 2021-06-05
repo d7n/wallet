@@ -1,1 +1,1 @@
-var mnemonic = "thumb tunnel voyage pistol wrap final make eyebrow expire true spin picture";
+var mnemonic = "title about lunch blame proof imitate autumn eager believe almost kingdom outer";

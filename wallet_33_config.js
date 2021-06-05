@@ -1,1 +1,1 @@
-var mnemonic = "few bag praise voyage symptom parent false skull clown autumn window range";
+var mnemonic = "joke move grief wear box club inside horse club color what bench";

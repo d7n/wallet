@@ -1,1 +1,1 @@
-var mnemonic = "search appear multiply dismiss mango throw digital donkey burger celery unveil inside";
+var mnemonic = "skull magic valve antenna cause general leaf allow unusual bus category analyst";

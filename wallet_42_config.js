@@ -1,1 +1,1 @@
-var mnemonic = "fever divert ritual copy shallow ocean initial patrol camp such twelve identify";
+var mnemonic = "crew wife accident that village update stand devote castle elephant devote symptom";

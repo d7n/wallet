@@ -1,1 +1,1 @@
-var mnemonic = "cute will street subway harbor wool bleak dad junior relief film march";
+var mnemonic = "across culture pencil crack minute grief tennis since injury acoustic stove cabin";

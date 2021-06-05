@@ -1,1 +1,1 @@
-var mnemonic = "jungle ready distance whale cost shell expand scare boss orbit file powder";
+var mnemonic = "enhance fat monitor unknown early close dignity harvest cause innocent black nerve";

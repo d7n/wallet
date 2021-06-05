@@ -1,1 +1,1 @@
-var mnemonic = "approve dice hello wear fall cement post puppy behave family neck baby";
+var mnemonic = "amused slow coconut remember public client essay lend goddess turkey auction any";

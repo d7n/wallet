@@ -1,1 +1,1 @@
-var mnemonic = "torch skull aspect regret remind price celery merit prevent patient daring public";
+var mnemonic = "pink ordinary merit comfort taste belt patch pet guide proof sauce say";

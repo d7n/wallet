@@ -1,1 +1,1 @@
-var mnemonic = "romance clump inch ability student steak often announce admit cup era loan";
+var mnemonic = "rose deer update find artwork nest shy sword tattoo labor nest enlist";

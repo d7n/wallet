@@ -1,1 +1,1 @@
-var mnemonic = "hobby danger wash hand siege century imitate topple gather genre thumb grab";
+var mnemonic = "wisdom tourist horror exchange cannon bid talent tourist stool right universe mesh";

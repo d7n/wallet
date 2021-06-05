@@ -1,1 +1,1 @@
-var mnemonic = "final engine merge drop shuffle immune tray boat loud word exercise laundry";
+var mnemonic = "kid bunker result mirror possible snake squirrel budget ritual fence moon goose";

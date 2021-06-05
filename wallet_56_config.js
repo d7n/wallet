@@ -1,1 +1,1 @@
-var mnemonic = "detect turn blush fatal meat valid bone where recipe clog mass shaft";
+var mnemonic = "rude panel lend either wealth actress ski ankle caught leisure oval labor";

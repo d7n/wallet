@@ -1,1 +1,1 @@
-var mnemonic = "base topic make mixed dumb fine diamond deer trim wet yellow glimpse";
+var mnemonic = "example hidden afraid minute call badge test write maple silent adult ten";

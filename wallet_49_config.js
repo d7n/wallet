@@ -1,1 +1,1 @@
-var mnemonic = "audit test copper magnet lonely surround tower tourist noodle injury lamp snap";
+var mnemonic = "sad welcome topple crazy pattern area find popular direct excess afraid wheat";

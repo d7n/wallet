@@ -1,1 +1,1 @@
-var mnemonic = "sound dirt pepper direct distance grant cook steak school warrior ask mixture";
+var mnemonic = "core amazing prosper follow guilt answer garage soccer peasant firm flavor quiz";

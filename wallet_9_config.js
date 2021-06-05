@@ -1,1 +1,1 @@
-var mnemonic = "nasty phone engine weather beef ugly truly deer news hard emotion ridge";
+var mnemonic = "act dismiss treat predict pizza magic tomorrow leisure lounge immense unaware planet";

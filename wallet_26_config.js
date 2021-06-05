@@ -1,1 +1,1 @@
-var mnemonic = "alley easy siren swarm hunt banner measure web hover city gossip calm";
+var mnemonic = "ozone market mixture clock crash blind fade panther horror jungle six surface";

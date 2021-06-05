@@ -1,1 +1,1 @@
-var mnemonic = "table jewel switch exercise diagram argue junior hole toe beyond imitate present";
+var mnemonic = "panther inch base second talent price include adjust affair wreck aware behind";

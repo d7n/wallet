@@ -1,1 +1,1 @@
-var mnemonic = "machine artefact capital angry pioneer guilt primary accuse offer radio ensure acoustic";
+var mnemonic = "balance egg talent chunk they isolate pretty loan hat later inflict cancel";

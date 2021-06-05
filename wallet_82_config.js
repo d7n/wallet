@@ -1,1 +1,1 @@
-var mnemonic = "unhappy crumble wrap faculty own boost soap banner scene pudding shrug hybrid";
+var mnemonic = "picture crucial minimum increase body wash glance reason neck garden pigeon digital";

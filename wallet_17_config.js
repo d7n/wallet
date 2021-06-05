@@ -1,1 +1,1 @@
-var mnemonic = "useful project express promote track pelican early island burst fluid employ interest";
+var mnemonic = "holiday seminar hollow concert elegant distance what vendor pass away analyst correct";

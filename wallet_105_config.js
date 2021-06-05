@@ -1,1 +1,1 @@
-var mnemonic = "inner action latin scan present ticket raw step fresh unveil float document";
+var mnemonic = "monkey wife lonely sure actor come depth hawk raise essay direct slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "element hip inner coconut number wave unfold person trouble inherit update business";
+var mnemonic = "space cancel width idea worth physical birth bounce virus confirm table describe";

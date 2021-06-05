@@ -1,1 +1,1 @@
-var mnemonic = "fade fatal prefer unveil access slush before fog paper budget ski silent";
+var mnemonic = "jazz tree acid degree aware always exist robot bachelor trap genius legal";

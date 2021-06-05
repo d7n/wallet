@@ -1,1 +1,1 @@
-var mnemonic = "movie type metal surface balance loud ceiling have arrow tape dune wasp";
+var mnemonic = "rifle keen lock fluid bike glad myth cement few merry coconut clean";

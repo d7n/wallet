@@ -1,1 +1,1 @@
-var mnemonic = "clerk enemy body switch leader cousin thought actual ritual catch ostrich panic";
+var mnemonic = "six stairs yellow diesel company amateur sister trend syrup oil sport vintage";

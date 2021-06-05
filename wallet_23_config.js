@@ -1,1 +1,1 @@
-var mnemonic = "success episode lady wrist distance nominee tank toy gather foster cost giant";
+var mnemonic = "tragic music bubble zoo erosion act sound ensure day spring stick relax";
