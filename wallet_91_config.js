@@ -1,1 +1,1 @@
-var mnemonic = "problem dolphin thumb advice chef creek cry velvet time bronze vacuum easy";
+var mnemonic = "beyond tilt afford chat announce relax real fix jealous neutral news alpha";

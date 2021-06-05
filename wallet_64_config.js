@@ -1,1 +1,1 @@
-var mnemonic = "sea garlic weather behave abstract believe skirt toe false lottery inch strike";
+var mnemonic = "anxiety omit never cushion flat cigar brush orphan spare oval card ripple";

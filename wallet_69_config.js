@@ -1,1 +1,1 @@
-var mnemonic = "scene below mirror move brass pole upset buddy yard teach attack stool";
+var mnemonic = "solar unknown near expose broom rude fitness fall infant ability science average";

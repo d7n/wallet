@@ -1,1 +1,1 @@
-var mnemonic = "base night devote gap hockey trend shop puzzle leopard record goose opinion";
+var mnemonic = "plunge trap mountain shove appear trial become icon burden dentist usage double";

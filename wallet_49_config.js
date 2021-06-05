@@ -1,1 +1,1 @@
-var mnemonic = "similar almost face salad pool detail olive shy legend unhappy gold noodle";
+var mnemonic = "sick swim monitor palm awake shove debate book ski network opera blind";

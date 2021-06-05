@@ -1,1 +1,1 @@
-var mnemonic = "modify oppose canal economy flush faculty dwarf scare accuse machine swing result";
+var mnemonic = "element nuclear admit enrich argue claw donkey vacuum lawn swamp lucky orient";

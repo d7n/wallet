@@ -1,1 +1,1 @@
-var mnemonic = "also nominee trade brand tornado anger young close tourist table mechanic brave";
+var mnemonic = "balance broccoli pistol beyond naive health canoe shop grow stumble equip differ";

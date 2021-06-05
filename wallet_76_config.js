@@ -1,1 +1,1 @@
-var mnemonic = "toilet chat letter episode usual alone credit gloom field genuine escape sun";
+var mnemonic = "scene romance crystal federal country source among jacket era spike need chunk";

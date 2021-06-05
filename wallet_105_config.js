@@ -1,1 +1,1 @@
-var mnemonic = "frost still list diamond weather butter toe robust adult pig exhibit live";
+var mnemonic = "census cash leg eight scale grant glove ritual warrior anger bird husband";

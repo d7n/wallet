@@ -1,1 +1,1 @@
-var mnemonic = "must load enforce priority chimney fish orient supply act mistake pig civil";
+var mnemonic = "cliff load glass blade novel service shed argue destroy antique crack pistol";

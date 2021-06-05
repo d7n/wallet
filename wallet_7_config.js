@@ -1,1 +1,1 @@
-var mnemonic = "assault purpose rabbit wrestle apart endless volume bind stock dawn online canvas";
+var mnemonic = "slam danger decide tone reduce able bus color learn jaguar wild flower";

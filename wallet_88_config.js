@@ -1,1 +1,1 @@
-var mnemonic = "clock brave cram another tongue series orbit sibling help wheel ghost require";
+var mnemonic = "wish smart effort tunnel divorce team off risk other know save fix";

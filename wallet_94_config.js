@@ -1,1 +1,1 @@
-var mnemonic = "manual guard bomb busy robot media primary unique say tomorrow post poet";
+var mnemonic = "moment maple knee glow rent eternal blind october mirror parent wrestle elephant";

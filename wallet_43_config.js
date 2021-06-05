@@ -1,1 +1,1 @@
-var mnemonic = "foil verb ceiling business adult neck comic join basic need stomach teach";
+var mnemonic = "identify brother cement whip actress weekend ladder slender sail salute hobby rabbit";

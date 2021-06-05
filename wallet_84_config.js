@@ -1,1 +1,1 @@
-var mnemonic = "practice winner profit fire color wrist index valve over cook uphold essay";
+var mnemonic = "source cheap clay gorilla someone program verify act hockey stereo rich express";

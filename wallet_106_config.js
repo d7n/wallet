@@ -1,1 +1,1 @@
-var mnemonic = "inch approve night gloom man ozone position lobster tortoise sense arrest scout";
+var mnemonic = "tongue mirror balcony just help iron kitten tortoise leisure bicycle skull wrist";

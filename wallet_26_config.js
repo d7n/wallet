@@ -1,1 +1,1 @@
-var mnemonic = "protect pyramid tuition radio happy sample trouble exchange canyon have attract property";
+var mnemonic = "pulp deal fine merge crack dice galaxy story horn eagle sunny glimpse";

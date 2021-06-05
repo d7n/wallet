@@ -1,1 +1,1 @@
-var mnemonic = "shield help stomach barely gym salmon popular health ring desk crack simple";
+var mnemonic = "electric hockey duck skate dutch shadow patient sustain unusual equip glass found";

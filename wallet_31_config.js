@@ -1,1 +1,1 @@
-var mnemonic = "early genius buyer tool chunk traffic reason text claim raise remember lottery";
+var mnemonic = "color wolf chaos vanish innocent trouble record seek replace behave aunt rose";

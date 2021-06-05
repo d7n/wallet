@@ -1,1 +1,1 @@
-var mnemonic = "occur blood later pen pulp shrug brief palace laptop pupil nice belt";
+var mnemonic = "message little peace tonight magnet odor fiber gaze cactus vicious eye project";

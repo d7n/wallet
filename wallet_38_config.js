@@ -1,1 +1,1 @@
-var mnemonic = "kit oblige trophy slot weekend filter gather pattern unaware rely sort text";
+var mnemonic = "boss metal embark law scene ask shiver forest little action arena put";

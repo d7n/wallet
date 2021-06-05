@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin chalk daughter bind addict observe infant alpha because dice void quit";
+var mnemonic = "news grocery drift raven chair patrol spirit need toast orient master kangaroo";

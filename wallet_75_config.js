@@ -1,1 +1,1 @@
-var mnemonic = "crop oval burst ketchup tomorrow weasel approve enable elite current dust twin";
+var mnemonic = "bounce earth matrix talk educate task ripple salon task series myth garment";

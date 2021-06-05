@@ -1,1 +1,1 @@
-var mnemonic = "pig law fox suggest hedgehog feature dose dynamic earn flip ability victory";
+var mnemonic = "team bomb receive great apple prize cross warrior gloom rotate improve public";

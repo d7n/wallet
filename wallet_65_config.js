@@ -1,1 +1,1 @@
-var mnemonic = "siege parent oil casino what special casual lecture gap breeze lift find";
+var mnemonic = "praise funny subject dumb once gospel hospital loyal balance boost bench used";

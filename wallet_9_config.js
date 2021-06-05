@@ -1,1 +1,1 @@
-var mnemonic = "actress crane sure panda twice drum parade rate light energy visual situate";
+var mnemonic = "dumb ranch garbage together trick involve audit nephew orchard crumble rapid image";

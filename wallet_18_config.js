@@ -1,1 +1,1 @@
-var mnemonic = "mechanic flame giggle favorite orphan one clock jar ethics rack parent decade";
+var mnemonic = "seminar tuna window ripple use lonely fold pink soft stool rotate camp";

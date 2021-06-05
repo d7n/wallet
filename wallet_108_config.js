@@ -1,1 +1,1 @@
-var mnemonic = "pilot patient salt hair autumn split scatter capable submit predict sphere enemy";
+var mnemonic = "swing pupil follow veteran cement giraffe empty else cushion soda faculty hair";

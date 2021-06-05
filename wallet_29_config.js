@@ -1,1 +1,1 @@
-var mnemonic = "place hat solar coin submit digital exchange brain infant actress sugar bread";
+var mnemonic = "peasant mad detail pigeon sorry coconut process extra trial frost baby piece";

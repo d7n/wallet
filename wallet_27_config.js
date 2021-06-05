@@ -1,1 +1,1 @@
-var mnemonic = "credit seminar unique cabbage glove judge toilet ridge mistake actress craft machine";
+var mnemonic = "prison crazy define profit inject rabbit dentist flame slogan habit reason scissors";

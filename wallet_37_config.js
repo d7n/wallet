@@ -1,1 +1,1 @@
-var mnemonic = "genre demand define abandon test actor remove symbol wage unique decline december";
+var mnemonic = "clarify cover junior cruise purchase shadow beauty phrase defense predict refuse survey";

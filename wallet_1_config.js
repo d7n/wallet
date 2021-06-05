@@ -1,1 +1,1 @@
-var mnemonic = "frost equip group area life lumber reopen loop marine eager swing fly";
+var mnemonic = "metal impulse soon review crew monster ill clarify holiday hammer tower hunt";

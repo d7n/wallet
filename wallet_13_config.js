@@ -1,1 +1,1 @@
-var mnemonic = "fan tired scissors length lava like illness entry decline blur hand jungle";
+var mnemonic = "aware spy adult budget cheap able benefit salt betray fox weasel chair";

@@ -1,1 +1,1 @@
-var mnemonic = "now under blanket edit bullet canvas powder bundle infant monitor devote fabric";
+var mnemonic = "small wide scatter slight common inner able awake ordinary stomach aware minute";

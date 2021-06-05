@@ -1,1 +1,1 @@
-var mnemonic = "unusual provide end repeat unique festival say stand salon ignore stick such";
+var mnemonic = "paddle exist print tuna empty twenty lucky symbol witness limb april winter";

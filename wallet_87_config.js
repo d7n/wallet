@@ -1,1 +1,1 @@
-var mnemonic = "draw same group flag entire helmet want ability mimic soft service arrow";
+var mnemonic = "shock tell coral aware neck damage pulp escape floor armor dose notable";

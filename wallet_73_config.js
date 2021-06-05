@@ -1,1 +1,1 @@
-var mnemonic = "dose skate lock guide cheese dust wreck clerk nerve resource quit palace";
+var mnemonic = "mango dove join build duty ramp domain one cradle that device worth";

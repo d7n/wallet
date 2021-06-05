@@ -1,1 +1,1 @@
-var mnemonic = "total exercise alter daughter valley distance trade satoshi comic spoil clap strong";
+var mnemonic = "power safe genuine position divert much sword unlock collect clerk tomato engine";

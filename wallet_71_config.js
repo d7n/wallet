@@ -1,1 +1,1 @@
-var mnemonic = "wool light leaf loyal measure prison razor direct exit clock myself few";
+var mnemonic = "pull hand risk turn october width route spell abstract crop erosion observe";

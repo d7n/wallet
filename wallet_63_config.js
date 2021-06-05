@@ -1,1 +1,1 @@
-var mnemonic = "winter volcano group puzzle student ice much run piano oblige found that";
+var mnemonic = "damage surface steel verify general protect next solid angle broccoli near robot";

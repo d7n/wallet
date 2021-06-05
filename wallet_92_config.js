@@ -1,1 +1,1 @@
-var mnemonic = "middle oil alley come pony master sphere sentence tiger yellow render interest";
+var mnemonic = "swim supreme collect dose swamp seat crazy chapter bird rookie initial napkin";

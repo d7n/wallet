@@ -1,1 +1,1 @@
-var mnemonic = "vapor fetch shove among defense high thank estate general camp oxygen angle";
+var mnemonic = "ugly fluid kidney egg response fever account next grain early useless siren";

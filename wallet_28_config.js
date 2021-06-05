@@ -1,1 +1,1 @@
-var mnemonic = "invite mask comfort bind teach approve announce venture estate define author client";
+var mnemonic = "base snack unlock skate purity circle call spread kidney word dress actor";

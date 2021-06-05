@@ -1,1 +1,1 @@
-var mnemonic = "hidden pottery grain cram hotel inhale soccer diagram crazy pair limb best";
+var mnemonic = "race rescue hour cheap okay ship sponsor simple nominee lunch lawsuit meat";

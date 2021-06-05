@@ -1,1 +1,1 @@
-var mnemonic = "town retire drill verify invite nation advance govern trash dream west sorry";
+var mnemonic = "injury that poet omit sweet awake virus person claim home other render";

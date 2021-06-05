@@ -1,1 +1,1 @@
-var mnemonic = "cake prosper physical edit pet now tiger cause vintage student target negative";
+var mnemonic = "nuclear shock insane smoke stool gasp wet wire gorilla expose blade bean";

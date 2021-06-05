@@ -1,1 +1,1 @@
-var mnemonic = "boy bright label vivid captain health where gather income blur multiply true";
+var mnemonic = "miss expect earth glory manual dose vital possible hockey brisk paper typical";

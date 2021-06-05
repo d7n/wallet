@@ -1,1 +1,1 @@
-var mnemonic = "round limit cluster express chimney kit wrestle twelve remember evil lucky until";
+var mnemonic = "turn elegant cannon favorite ready donor before write inherit shoulder whisper heavy";

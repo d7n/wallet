@@ -1,1 +1,1 @@
-var mnemonic = "program crazy topic primary urge level wisdom firm main embrace gift success";
+var mnemonic = "wisdom few tobacco milk media always tower orbit gown twist knock sand";

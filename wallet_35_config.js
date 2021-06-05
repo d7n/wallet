@@ -1,1 +1,1 @@
-var mnemonic = "salad need alpha give valley year settle funny sugar hunt poem public";
+var mnemonic = "hundred mansion van buddy hint crash tiger young announce during weekend install";

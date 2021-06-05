@@ -1,1 +1,1 @@
-var mnemonic = "orient forest pitch napkin defense luxury popular odor security truck trouble mimic";
+var mnemonic = "grow rude process tobacco depth surprise case world nurse hill fix ski";

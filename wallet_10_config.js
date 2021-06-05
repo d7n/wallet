@@ -1,1 +1,1 @@
-var mnemonic = "drama tobacco funny heavy mountain code system sand world cute ivory exotic";
+var mnemonic = "pride monkey melody fame vicious lounge barely earn art scout gallery almost";

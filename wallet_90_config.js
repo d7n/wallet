@@ -1,1 +1,1 @@
-var mnemonic = "road country address wet sibling empty lens blind eagle mistake raise spot";
+var mnemonic = "join elegant canal oven life giraffe awkward grass swing scissors all swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "salt buyer chuckle burst sail matter friend again poet bunker garlic maid";
+var mnemonic = "pen decide access snap club enroll sound sail denial impose poverty sell";

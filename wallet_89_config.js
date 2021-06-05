@@ -1,1 +1,1 @@
-var mnemonic = "cloud cushion unfold laundry draw blanket soft tobacco able click question version";
+var mnemonic = "glory armed setup fame absurd scissors possible satoshi fringe merit pretty give";

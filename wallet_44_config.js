@@ -1,1 +1,1 @@
-var mnemonic = "nerve oval crucial foil tuition shaft despair stick mushroom provide basic wonder";
+var mnemonic = "valley coach leaf gun pull illness hunt happy ivory menu shuffle swap";

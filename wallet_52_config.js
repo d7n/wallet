@@ -1,1 +1,1 @@
-var mnemonic = "alley rival corn twist update ignore asthma stay fade gown olympic dash";
+var mnemonic = "process broccoli brush emerge doll effort begin learn grow opera lobster sport";

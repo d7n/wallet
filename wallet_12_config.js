@@ -1,1 +1,1 @@
-var mnemonic = "shadow time caught nerve wear weekend jungle glove arctic reform alpha wasp";
+var mnemonic = "infant second solar antenna clog spot bus indicate unfair panel rookie cool";

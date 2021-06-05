@@ -1,1 +1,1 @@
-var mnemonic = "turkey inner lab mechanic usage rebel mountain cement peace jealous parrot denial";
+var mnemonic = "system wrap fork reward impose extend dumb need silk law loud material";

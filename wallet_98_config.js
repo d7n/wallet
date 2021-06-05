@@ -1,1 +1,1 @@
-var mnemonic = "mesh wolf also snack tilt blind beauty board tag speed turtle frost";
+var mnemonic = "give alter custom goat quantum toast bargain live include glow scrub dove";

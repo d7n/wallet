@@ -1,1 +1,1 @@
-var mnemonic = "arm nerve twist list very bonus keep harvest inject target wire across";
+var mnemonic = "tip title soft spot drum multiply brick mandate donor erupt wear like";

@@ -1,1 +1,1 @@
-var mnemonic = "away more defy mechanic extend clever frog battle tool memory achieve author";
+var mnemonic = "position boss exit quantum mansion belt relax pact off sunny despair toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke sample wash desert execute group horse vacuum crime color toddler world";
+var mnemonic = "region gallery inner warrior arrow rough tattoo acquire bless almost wire master";

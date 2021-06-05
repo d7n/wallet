@@ -1,1 +1,1 @@
-var mnemonic = "tennis excess enlist spider select electric motion battle depth machine foster foil";
+var mnemonic = "noble work leave later mule you cute they poem jealous tuition summer";

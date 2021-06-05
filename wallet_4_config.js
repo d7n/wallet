@@ -1,1 +1,1 @@
-var mnemonic = "excite salmon proof advance dad index come mass pipe wear knock occur";
+var mnemonic = "judge kidney inflict whip casino benefit connect pilot summer like narrow pig";

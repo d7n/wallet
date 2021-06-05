@@ -1,1 +1,1 @@
-var mnemonic = "clinic shallow rebel force infant second deny digital boss awful resist category";
+var mnemonic = "that involve river fitness caution fluid remain wheel spoil frog disorder genre";

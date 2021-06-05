@@ -1,1 +1,1 @@
-var mnemonic = "drastic smoke gain raise inspire palm dentist carpet must between hope door";
+var mnemonic = "blanket mother spread sight scan lake number fence monitor oak bone asthma";

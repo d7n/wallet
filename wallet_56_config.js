@@ -1,1 +1,1 @@
-var mnemonic = "sugar embrace ribbon vivid position enact little faint silk police panic error";
+var mnemonic = "tenant solar december employ nation hub cry hospital gadget prosper once service";

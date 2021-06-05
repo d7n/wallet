@@ -1,1 +1,1 @@
-var mnemonic = "orient immune book window old volcano undo fine logic label army raccoon";
+var mnemonic = "envelope adjust gloom hurdle proof winter style affair seminar sleep uniform harsh";

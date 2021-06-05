@@ -1,1 +1,1 @@
-var mnemonic = "daughter budget fluid brave cook nut behind exotic hurdle space duty wear";
+var mnemonic = "butter control donkey juice inspire avoid toss imitate rain cute scout custom";

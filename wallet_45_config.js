@@ -1,1 +1,1 @@
-var mnemonic = "detect relax artefact annual leopard purchase dizzy stove cricket air toss match";
+var mnemonic = "sick virus margin knife final crazy tiny gossip session enact prefer cube";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare nice punch thank maximum review floor party consider bonus mansion sniff";
+var mnemonic = "bridge drama rug struggle decide fly already jealous moral fatigue carpet trim";

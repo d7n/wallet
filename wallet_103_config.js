@@ -1,1 +1,1 @@
-var mnemonic = "orchard awkward since scan desert soup hunt swap skill correct custom filter";
+var mnemonic = "kitten library view shoe oven cook float record gloom save excite fossil";

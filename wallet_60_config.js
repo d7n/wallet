@@ -1,1 +1,1 @@
-var mnemonic = "energy shadow hand crystal spot equip antenna excuse october solar trip island";
+var mnemonic = "brain rely second gold robust blast brand obvious arrange valid obtain require";

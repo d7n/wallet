@@ -1,1 +1,1 @@
-var mnemonic = "similar enroll truly clever october cheese electric board bonus father ranch recipe";
+var mnemonic = "patch canyon jump issue prepare size traffic kiss improve will circle alert";

@@ -1,1 +1,1 @@
-var mnemonic = "below critic below sing simple minute bone rice stem guard feature decrease";
+var mnemonic = "gown sister float injury divert collect apple episode deal hotel fit uphold";

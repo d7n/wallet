@@ -1,1 +1,1 @@
-var mnemonic = "idea motion seven office flight keep ship discover dragon style cabbage scrub";
+var mnemonic = "sad south measure member fine witness prize elephant craft similar news picture";

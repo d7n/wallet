@@ -1,1 +1,1 @@
-var mnemonic = "room robust boil liberty solar payment fragile skull phrase romance shoot wedding";
+var mnemonic = "scale outdoor grid quote orient husband menu style ancient wonder cable wink";

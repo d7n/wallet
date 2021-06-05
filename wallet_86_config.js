@@ -1,1 +1,1 @@
-var mnemonic = "rapid able anger crowd task hurry syrup trial this champion jump planet";
+var mnemonic = "skill cushion box victory tower surface scissors fork vault path climb main";

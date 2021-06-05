@@ -1,1 +1,1 @@
-var mnemonic = "sting unable expose cart income hungry trick sting behave carpet elevator hour";
+var mnemonic = "wine artwork question jeans domain volcano beauty bid nut local split fox";

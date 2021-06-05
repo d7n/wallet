@@ -1,1 +1,1 @@
-var mnemonic = "believe frown hero helmet clap alarm gospel jar harbor ship concert impulse";
+var mnemonic = "hawk brass silk cup custom giraffe like endorse captain pepper afford asthma";

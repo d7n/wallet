@@ -1,1 +1,1 @@
-var mnemonic = "focus napkin sauce spirit member ghost option flight morning focus water kid";
+var mnemonic = "void tumble brick film enough absent public enhance arch soldier need elegant";

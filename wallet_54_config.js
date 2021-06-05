@@ -1,1 +1,1 @@
-var mnemonic = "filter small book dinner century vast fuel bullet parrot lava brown cruel";
+var mnemonic = "immense aerobic guitar festival vacuum since worth lava label follow upgrade bullet";

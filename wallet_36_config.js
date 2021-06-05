@@ -1,1 +1,1 @@
-var mnemonic = "diet program blade seek guitar fade hour orient leaf country bring genuine";
+var mnemonic = "upon attract furnace tool brief horror squeeze throw hockey cereal explain enlist";

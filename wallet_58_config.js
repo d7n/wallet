@@ -1,1 +1,1 @@
-var mnemonic = "repeat vast liberty hurry fatigue drift reflect topic trust audit race say";
+var mnemonic = "coyote fabric wheat cactus bonus leave split castle waste notice secret erase";

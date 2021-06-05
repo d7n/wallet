@@ -1,1 +1,1 @@
-var mnemonic = "cart young curious stay eternal wave fury thank figure flame photo flock";
+var mnemonic = "host situate ceiling into destroy kick move walk polar unfold between blush";

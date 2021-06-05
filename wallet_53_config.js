@@ -1,1 +1,1 @@
-var mnemonic = "another raw deer fluid material system street nuclear predict utility fun stereo";
+var mnemonic = "cotton loud check salute salmon daring label nuclear metal volcano glass result";

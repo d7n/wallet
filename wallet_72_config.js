@@ -1,1 +1,1 @@
-var mnemonic = "neglect owner admit silk bracket effort staff betray brush toast wait grace";
+var mnemonic = "marriage crash rack blast glad ghost gift rather video wage reopen blood";
