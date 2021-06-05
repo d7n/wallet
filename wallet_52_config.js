@@ -1,1 +1,1 @@
-var mnemonic = "conduct desk behind casino surge country address canyon afford wise hurry amateur";
+var mnemonic = "lesson park loyal trip long drift payment draw stamp giggle silk local";

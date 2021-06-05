@@ -1,1 +1,1 @@
-var mnemonic = "basket weapon kiss final evoke polar luggage shine sell various ocean cricket";
+var mnemonic = "present impulse runway drip chunk armor already settle domain pride tree secret";

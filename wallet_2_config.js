@@ -1,1 +1,1 @@
-var mnemonic = "hand mean permit eye lake guitar buzz brief friend usual mule purity";
+var mnemonic = "twin tower worry knock brain approve shy toilet negative all sustain shift";

@@ -1,1 +1,1 @@
-var mnemonic = "used share connect angry release series lock laptop used display bounce forest";
+var mnemonic = "ancient task pink eagle text salmon tobacco ring muffin snake run call";

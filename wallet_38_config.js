@@ -1,1 +1,1 @@
-var mnemonic = "chase dizzy total digital skirt couch finger shell wrong laugh happy express";
+var mnemonic = "unfair pioneer gym attend tumble fiscal issue man flush obvious width deal";

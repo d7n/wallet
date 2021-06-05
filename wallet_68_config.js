@@ -1,1 +1,1 @@
-var mnemonic = "deal confirm laptop usage trip sibling plate heart include rival youth token";
+var mnemonic = "steel relax summer master check obey ozone property dignity suggest notable shuffle";

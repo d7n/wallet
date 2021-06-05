@@ -1,1 +1,1 @@
-var mnemonic = "release crop arrow vault index language island canal guard hungry believe leopard";
+var mnemonic = "skull flat spread floor wage vital vibrant extra student gospel night daughter";

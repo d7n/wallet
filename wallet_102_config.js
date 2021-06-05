@@ -1,1 +1,1 @@
-var mnemonic = "level name extra sun this disagree hello pumpkin van spare heart pair";
+var mnemonic = "minimum wild cactus eagle barrel track net issue excite clerk guide vendor";

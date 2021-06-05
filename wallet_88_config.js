@@ -1,1 +1,1 @@
-var mnemonic = "sea evoke board another liquid eyebrow problem unfair latin sick rack design";
+var mnemonic = "churn range gloom east skin turtle payment morning stem gaze super foam";

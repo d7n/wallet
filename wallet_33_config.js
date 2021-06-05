@@ -1,1 +1,1 @@
-var mnemonic = "account oval match order abandon romance claim grab balance sorry pink panel";
+var mnemonic = "purpose trap bird giant private rule boat endless void crush army pencil";

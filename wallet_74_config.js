@@ -1,1 +1,1 @@
-var mnemonic = "include flock wood scorpion venture tape rich viable symptom pistol correct weather";
+var mnemonic = "tip three insect hip more clean wisdom woman squirrel garlic object carbon";

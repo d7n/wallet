@@ -1,1 +1,1 @@
-var mnemonic = "hurt home popular game spend tonight supreme globe steak neglect despair shift";
+var mnemonic = "provide release forum fiction hire method dog pair response future satisfy faculty";

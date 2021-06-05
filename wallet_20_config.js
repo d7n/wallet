@@ -1,1 +1,1 @@
-var mnemonic = "myth run bus unhappy crawl sunset rigid release utility neck culture crowd";
+var mnemonic = "dog tuition island chef tuna life famous divide dumb crumble ability doll";

@@ -1,1 +1,1 @@
-var mnemonic = "network raven spare paper jealous basic people column vicious waste annual leg";
+var mnemonic = "jungle jungle assault dinosaur gate blind anxiety excite enjoy mechanic start sibling";

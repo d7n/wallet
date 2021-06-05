@@ -1,1 +1,1 @@
-var mnemonic = "dune deny style oval change scorpion trust solution change level minor place";
+var mnemonic = "refuse magnet enable speed fabric napkin still weather cradle supreme roast bounce";

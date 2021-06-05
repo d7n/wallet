@@ -1,1 +1,1 @@
-var mnemonic = "abandon crystal obscure wet prize faint list frame vast industry process auto";
+var mnemonic = "sign insane kick wing weapon economy aspect shell sunset endorse mule mad";

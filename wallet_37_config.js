@@ -1,1 +1,1 @@
-var mnemonic = "upset bicycle run deny leg quick adapt teach maze latin sadness asset";
+var mnemonic = "method top benefit radio merge assist cause boss exhibit kitchen rate hen";

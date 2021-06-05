@@ -1,1 +1,1 @@
-var mnemonic = "poverty ghost pave cousin hub trim act squeeze isolate build autumn october";
+var mnemonic = "owner harbor whisper sentence economy snack fossil bounce very spoon bulk grain";

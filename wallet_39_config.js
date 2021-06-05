@@ -1,1 +1,1 @@
-var mnemonic = "drink salt talk ice track love tower apart space shine void lend";
+var mnemonic = "embark sock vibrant frozen reunion label sense gravity night girl deny salute";

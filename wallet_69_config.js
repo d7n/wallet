@@ -1,1 +1,1 @@
-var mnemonic = "this arctic seat save spawn mystery toilet mimic equal control vendor gravity";
+var mnemonic = "club axis strong trial drop sausage trust anger tell age first smile";

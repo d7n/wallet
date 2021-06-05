@@ -1,1 +1,1 @@
-var mnemonic = "around faith obvious vibrant scene minimum cost exist alien tenant forest crazy";
+var mnemonic = "flag orchard sail owner where just recipe install speak breeze cactus few";

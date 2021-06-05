@@ -1,1 +1,1 @@
-var mnemonic = "curious woman own tent tilt suffer favorite buzz donkey amazing blast want";
+var mnemonic = "bargain learn shuffle tail pudding found tattoo cruel conduct similar portion jewel";

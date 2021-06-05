@@ -1,1 +1,1 @@
-var mnemonic = "stone cable gallery canoe pepper identify street merit flush dry winner waste";
+var mnemonic = "canal coin waste trust visit entry drill unknown unique lend photo napkin";

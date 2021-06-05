@@ -1,1 +1,1 @@
-var mnemonic = "wall chapter discover draft laugh vault sauce possible grace grass palace often";
+var mnemonic = "divide worth cargo insane keep hover tennis buyer paddle vendor awesome desert";

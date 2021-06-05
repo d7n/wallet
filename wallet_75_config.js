@@ -1,1 +1,1 @@
-var mnemonic = "pull system rally joy acquire august skill derive enlist sustain mix all";
+var mnemonic = "glow topic donkey retire burden erosion humble diagram shiver cake dwarf guitar";

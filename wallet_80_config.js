@@ -1,1 +1,1 @@
-var mnemonic = "route tissue empty entry right magnet fit pupil tool turkey flat logic";
+var mnemonic = "brief setup filter iron tunnel taxi movie vote champion various verb orient";

@@ -1,1 +1,1 @@
-var mnemonic = "glad net fashion appear case method cushion shoulder sand drastic demise song";
+var mnemonic = "fat buyer sure drift suspect core jacket crazy drama flip flower pass";

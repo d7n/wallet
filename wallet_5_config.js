@@ -1,1 +1,1 @@
-var mnemonic = "year ripple acquire welcome mix game next attack tide tumble pipe coyote";
+var mnemonic = "fix diary regular game stove domain proud mix evoke woman imitate replace";

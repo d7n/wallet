@@ -1,1 +1,1 @@
-var mnemonic = "enact solar repeat pitch fee asset bonus lemon glove carbon kind jewel";
+var mnemonic = "need toe across source faint hard century hawk dutch result candy shell";

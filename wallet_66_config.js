@@ -1,1 +1,1 @@
-var mnemonic = "round spray motor acquire lift ready unusual bind maze bridge globe amused";
+var mnemonic = "fragile hello uncover virus surround spray bonus rookie gauge voyage improve surprise";

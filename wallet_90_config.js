@@ -1,1 +1,1 @@
-var mnemonic = "innocent crater together height ankle crisp edit correct water recall easily hobby";
+var mnemonic = "desert setup donkey tongue among note secret youth horn choose combine guide";

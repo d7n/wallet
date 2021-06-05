@@ -1,1 +1,1 @@
-var mnemonic = "breeze jacket year medal dumb book blush left humor blush sail second";
+var mnemonic = "cross mother skull choice pull elephant silly ship sudden museum wrong game";

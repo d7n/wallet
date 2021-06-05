@@ -1,1 +1,1 @@
-var mnemonic = "fish gaze chalk concert layer copper position elephant nurse zone depart cruel";
+var mnemonic = "swarm purse skin tag rebuild extra august convince tragic release claw merge";

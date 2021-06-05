@@ -1,1 +1,1 @@
-var mnemonic = "voyage engine skate snap usage clean shy wear canoe athlete current they";
+var mnemonic = "lab cave vault sniff window elite swift strike lazy fiber style hamster";

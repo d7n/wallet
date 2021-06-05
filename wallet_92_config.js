@@ -1,1 +1,1 @@
-var mnemonic = "cereal dove desert similar fatigue awake spider claim flat scale lobster answer";
+var mnemonic = "attend bounce donor mountain weekend kidney since welcome nuclear food script pyramid";

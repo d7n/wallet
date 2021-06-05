@@ -1,1 +1,1 @@
-var mnemonic = "large squeeze develop ripple false document subway photo glide scrub roof betray";
+var mnemonic = "solution gesture tourist feed coyote assist scissors wood agree earn tuition normal";

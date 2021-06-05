@@ -1,1 +1,1 @@
-var mnemonic = "enter hidden plunge struggle resource bottom test alley venture execute million cushion";
+var mnemonic = "remind mule apart traffic gadget inherit narrow tuna swing mail height clarify";

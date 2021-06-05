@@ -1,1 +1,1 @@
-var mnemonic = "engage color resemble idea alter victory peasant arrest decide alarm castle among";
+var mnemonic = "learn bamboo duck army pigeon feature copy birth ladder trade dinner rescue";

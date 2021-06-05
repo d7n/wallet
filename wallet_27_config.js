@@ -1,1 +1,1 @@
-var mnemonic = "dash mention focus exercise palace dial car forest script they best bacon";
+var mnemonic = "welcome bounce axis lazy dog match advice bitter beef appear settle yard";

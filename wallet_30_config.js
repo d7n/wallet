@@ -1,1 +1,1 @@
-var mnemonic = "burden clown perfect game stove farm south person library color scale vanish";
+var mnemonic = "execute eye situate lazy crazy riot guide mesh vast sugar chuckle more";

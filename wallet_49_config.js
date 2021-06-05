@@ -1,1 +1,1 @@
-var mnemonic = "divorce clip thing theory salute extra lunar barrel pelican lens glimpse dirt";
+var mnemonic = "donkey parent cycle tortoise spirit asset process review scare stem believe silver";

@@ -1,1 +1,1 @@
-var mnemonic = "banner voyage canyon hamster approve fancy input kidney retreat venue polar silver";
+var mnemonic = "guide hub reunion scan tomorrow item bike unable chalk reform mistake assault";

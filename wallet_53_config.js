@@ -1,1 +1,1 @@
-var mnemonic = "glue chase fun common because excess slender sentence sphere horn wait gown";
+var mnemonic = "hire youth village kingdom settle pluck naive elevator abstract hood once tooth";

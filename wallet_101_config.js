@@ -1,1 +1,1 @@
-var mnemonic = "park effort enemy broccoli benefit legend crumble lawn doctor tackle silk idle";
+var mnemonic = "round crush current yellow kangaroo various walk nothing drop leisure story speak";

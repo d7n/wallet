@@ -1,1 +1,1 @@
-var mnemonic = "mass tell sniff battle basket celery sudden ozone shy wire effort mimic";
+var mnemonic = "scrub grass document castle genuine bird flip online potato pluck morning message";

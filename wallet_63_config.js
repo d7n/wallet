@@ -1,1 +1,1 @@
-var mnemonic = "wonder twenty diet vessel eager swamp lake library maze bid year afford";
+var mnemonic = "hill fire hover drum language over another life session lecture hospital effort";

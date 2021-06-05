@@ -1,1 +1,1 @@
-var mnemonic = "heavy gift stomach fancy guitar fiction decline extend afford napkin short found";
+var mnemonic = "output boss walnut adult weapon ability vibrant elevator stone beef gate large";

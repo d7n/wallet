@@ -1,1 +1,1 @@
-var mnemonic = "output vendor senior always need puppy mushroom cigar cannon hammer kiwi law";
+var mnemonic = "aerobic suggest lend acquire clutch derive spy fiber fame trim embrace unique";

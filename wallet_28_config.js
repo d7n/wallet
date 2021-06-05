@@ -1,1 +1,1 @@
-var mnemonic = "unknown name keep actor valve scan two fancy job orchard slab such";
+var mnemonic = "damp hat truck lava drill tomato better shoe naive milk girl lizard";

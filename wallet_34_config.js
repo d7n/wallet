@@ -1,1 +1,1 @@
-var mnemonic = "modify silk chuckle custom patch now enact pilot either sail bridge spot";
+var mnemonic = "clutch glare guard alarm purse mom use chef domain ten salt intact";

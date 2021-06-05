@@ -1,1 +1,1 @@
-var mnemonic = "please useless spike chief pave lyrics trip south disorder disease candy finger";
+var mnemonic = "credit globe notice canal asthma hobby unfold carbon enjoy lesson name insane";

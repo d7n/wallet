@@ -1,1 +1,1 @@
-var mnemonic = "notable invest food impact modify disorder appear barrel snow amateur acquire describe";
+var mnemonic = "cabbage summer focus zero educate empower proud ship volcano physical essence curtain";

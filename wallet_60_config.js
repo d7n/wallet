@@ -1,1 +1,1 @@
-var mnemonic = "sausage manage field blue cheese furnace awful vocal book total century relax";
+var mnemonic = "note maid dune inherit convince ordinary noise purity rare invite system party";

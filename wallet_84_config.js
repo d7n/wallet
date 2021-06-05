@@ -1,1 +1,1 @@
-var mnemonic = "motion release across trust current emotion truth example sunny team unit miss";
+var mnemonic = "ranch pool spread quick shallow enroll trim weapon lab inspire mention topple";

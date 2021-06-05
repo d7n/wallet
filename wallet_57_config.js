@@ -1,1 +1,1 @@
-var mnemonic = "cry mixed time jeans dream much gossip bar armor jazz crash token";
+var mnemonic = "front key mutual rent project become pigeon task open race mosquito ripple";

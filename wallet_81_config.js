@@ -1,1 +1,1 @@
-var mnemonic = "talent guess sunset flock parent include mistake plug radar coffee thumb useless";
+var mnemonic = "piece rhythm fire nominee gadget delay same unable skill flag people need";

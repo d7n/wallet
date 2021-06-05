@@ -1,1 +1,1 @@
-var mnemonic = "fabric patch focus column cattle pact shy physical captain brisk pupil grief";
+var mnemonic = "display jaguar priority humble girl inform unveil coyote pulse brass among crazy";

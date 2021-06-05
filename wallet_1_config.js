@@ -1,1 +1,1 @@
-var mnemonic = "situate unknown boss equal basic mango garden ghost dog whale gravity differ";
+var mnemonic = "ticket marine gasp near wife rough balance outer boat stable grid silk";

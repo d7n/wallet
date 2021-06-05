@@ -1,1 +1,1 @@
-var mnemonic = "shoulder crumble tourist where adapt oval near media barely remain choose mean";
+var mnemonic = "member prison wagon drip spider circle test voice wolf loyal appear farm";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony hello crew mean clay foster oil install predict admit unlock acid";
+var mnemonic = "cable initial weekend elephant volcano hint clarify budget cute pony symbol latin";

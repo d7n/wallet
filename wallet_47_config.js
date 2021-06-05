@@ -1,1 +1,1 @@
-var mnemonic = "spawn rookie lens arctic silk virus man way dynamic young embody alarm";
+var mnemonic = "hockey clerk tunnel search trade clever month company tomato habit woman toddler";

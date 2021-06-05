@@ -1,1 +1,1 @@
-var mnemonic = "average twist endless melt rebel afford scrub adapt another area magic alley";
+var mnemonic = "auto pill arrange nest electric assist tell follow reform prevent stay message";

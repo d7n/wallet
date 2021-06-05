@@ -1,1 +1,1 @@
-var mnemonic = "silly start ask adapt earn pupil runway rebel oblige volcano subject name";
+var mnemonic = "expose heavy reunion ill special blood raise eternal must arch tag monkey";

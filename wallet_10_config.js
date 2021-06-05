@@ -1,1 +1,1 @@
-var mnemonic = "tackle hub jungle sadness lizard able pyramid swing receive veteran churn kind";
+var mnemonic = "nurse lock pigeon mansion list barrel message oppose insect donkey void point";

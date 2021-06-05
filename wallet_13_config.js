@@ -1,1 +1,1 @@
-var mnemonic = "keep bulk boring hockey good quantum argue nephew language tent butter dismiss";
+var mnemonic = "book sleep make stick verb around deer want subject finish resource false";

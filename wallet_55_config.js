@@ -1,1 +1,1 @@
-var mnemonic = "swallow anger consider bulk zebra disease shed apart timber flat purpose weird";
+var mnemonic = "pitch monitor stadium apple manage raw token response draft goat east sure";

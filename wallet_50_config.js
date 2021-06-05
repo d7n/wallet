@@ -1,1 +1,1 @@
-var mnemonic = "siege glide away wink gate liberty dentist upon vague figure pact butter";
+var mnemonic = "bar quality produce crawl poem need liberty kid sword tell now lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "bus obey vote shell north eight never gun timber sibling mixture actress";
+var mnemonic = "gorilla museum bus leg flower claw weasel shop gain adult young jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow snap enter wisdom duck avocado oven kangaroo mansion exchange window magnet";
+var mnemonic = "thought enlist desk fatigue pulse unknown chuckle danger school rebuild second bean";

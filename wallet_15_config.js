@@ -1,1 +1,1 @@
-var mnemonic = "require voice entry dumb inch must timber crisp snake into tooth chunk";
+var mnemonic = "disagree ugly symbol region stay render smart movie claw sunny this nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "arm curtain spatial craft feel narrow such hire evoke trigger virtual trophy";
+var mnemonic = "deputy dog airport horror memory carbon brown joke pave ethics clap cart";

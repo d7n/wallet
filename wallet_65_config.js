@@ -1,1 +1,1 @@
-var mnemonic = "cute suspect wheel race garden trash group search mass lobster staff rate";
+var mnemonic = "rhythm cause blade aisle match slender choose giant cruise drill balance present";

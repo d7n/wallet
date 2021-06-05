@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin airport glory coral state initial reduce float boss opera glass usual";
+var mnemonic = "flame extra glove carpet trap suspect sea obey useful protect book exhibit";

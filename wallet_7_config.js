@@ -1,1 +1,1 @@
-var mnemonic = "sting burden ten lamp easily convince style void mother despair hint act";
+var mnemonic = "spirit sleep easy insane pink surge buffalo guide blood immense fly rabbit";

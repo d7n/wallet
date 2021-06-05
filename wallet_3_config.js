@@ -1,1 +1,1 @@
-var mnemonic = "perfect salmon piano will rural direct chief stomach crunch into employ section";
+var mnemonic = "minor recycle improve express never kind inspire raven erase boat thank doll";

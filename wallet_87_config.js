@@ -1,1 +1,1 @@
-var mnemonic = "aisle theme coin suit sport short spike cream puzzle rule chef radar";
+var mnemonic = "amused problem multiply what science yard begin wine just milk hazard van";

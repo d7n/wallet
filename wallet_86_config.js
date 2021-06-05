@@ -1,1 +1,1 @@
-var mnemonic = "meat spatial such unfold garbage tree liar armor bounce click asset sentence";
+var mnemonic = "abandon since play gesture spoil grid way spend salt hobby soup clutch";

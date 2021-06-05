@@ -1,1 +1,1 @@
-var mnemonic = "spend remember income actress mixed ozone nasty order close weapon body matter";
+var mnemonic = "rail vote vivid enrich monkey seek eager leisure core heart door fox";

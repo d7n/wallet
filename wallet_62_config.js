@@ -1,1 +1,1 @@
-var mnemonic = "window rail manage milk kid verb rate argue bind roof limb flame";
+var mnemonic = "you whisper provide blade van glass doll coast stamp switch tell robot";

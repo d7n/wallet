@@ -1,1 +1,1 @@
-var mnemonic = "genre milk stick upgrade faint capital reduce major become camp stadium chalk";
+var mnemonic = "desert table sibling country ivory elbow enroll neglect office cattle asthma rescue";

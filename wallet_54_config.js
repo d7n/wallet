@@ -1,1 +1,1 @@
-var mnemonic = "atom result mean penalty update task talk increase improve dad off aerobic";
+var mnemonic = "summer warm glimpse day confirm cluster drastic lunch school second minor strike";

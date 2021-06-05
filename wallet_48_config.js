@@ -1,1 +1,1 @@
-var mnemonic = "dose sure comic elite book file reward luggage arm hard awesome month";
+var mnemonic = "asset champion machine crisp depend trigger shoot grief net civil panel unique";

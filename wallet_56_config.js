@@ -1,1 +1,1 @@
-var mnemonic = "exist vital cloth goddess accuse model brother skirt knock stem vacant toe";
+var mnemonic = "limit equal kidney radio link menu hat excite wife merit tip odor";
