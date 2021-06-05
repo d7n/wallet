@@ -1,1 +1,1 @@
-var mnemonic = "city reveal cement clever craft mixture phone believe main gentle riot ill";
+var mnemonic = "coin town purpose staff victory love artwork reward enforce draft toe wait";

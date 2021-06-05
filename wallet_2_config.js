@@ -1,1 +1,1 @@
-var mnemonic = "solar length cute always math wasp winter apart glow clown curve furnace";
+var mnemonic = "lemon salute cake eyebrow donkey sad dance blind orange club tape member";

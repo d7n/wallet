@@ -1,1 +1,1 @@
-var mnemonic = "dust diamond ramp idle staff matter recipe transfer attract clinic outdoor butter";
+var mnemonic = "discover fold deal file man latin anxiety aisle toilet animal thumb betray";

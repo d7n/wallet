@@ -1,1 +1,1 @@
-var mnemonic = "sea level come age insane van protect tank find recipe safe source";
+var mnemonic = "salute local tuna main trash garlic human pottery burst bridge bean ball";

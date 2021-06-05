@@ -1,1 +1,1 @@
-var mnemonic = "switch immense modify ordinary bind silent casual mystery upset infant lottery speak";
+var mnemonic = "beach fine erupt business still sniff diesel yellow season obey combine pair";

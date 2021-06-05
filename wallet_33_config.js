@@ -1,1 +1,1 @@
-var mnemonic = "faith lamp total short deputy various critic girl scrap picture media swim";
+var mnemonic = "rather month depth car address famous help helmet pause crumble travel control";

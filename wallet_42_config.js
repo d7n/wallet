@@ -1,1 +1,1 @@
-var mnemonic = "velvet magic home prison day oven hospital tornado use reunion say fancy";
+var mnemonic = "brain toilet scorpion raw scorpion rich host polar ripple unlock differ trash";

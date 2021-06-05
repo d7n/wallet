@@ -1,1 +1,1 @@
-var mnemonic = "card charge pyramid thought tumble manage mouse remain live pilot essay addict";
+var mnemonic = "century neither miracle neck start champion craft current blanket genre spoil place";

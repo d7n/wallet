@@ -1,1 +1,1 @@
-var mnemonic = "dune dream certain learn silent topple ceiling onion shoulder segment issue obscure";
+var mnemonic = "trade indicate century useless cigar mom age trial boy patch smoke decorate";

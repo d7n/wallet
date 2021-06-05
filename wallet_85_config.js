@@ -1,1 +1,1 @@
-var mnemonic = "hover acoustic thumb risk beauty develop submit giraffe funny dilemma coil gorilla";
+var mnemonic = "worth quit there cinnamon resemble beef return dance conduct enroll inform decorate";

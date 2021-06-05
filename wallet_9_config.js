@@ -1,1 +1,1 @@
-var mnemonic = "hammer ticket harsh actress tooth flock hero sentence type process champion ginger";
+var mnemonic = "foam wood someone juice acid zone mail glove tissue copper volcano giraffe";

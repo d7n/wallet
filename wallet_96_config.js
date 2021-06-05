@@ -1,1 +1,1 @@
-var mnemonic = "symbol school retire blossom hurdle input acid bargain tragic avoid blanket update";
+var mnemonic = "pencil trend foster awesome symptom pelican adapt empty federal output make retire";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse zero october sense resemble brick leader inform strike pink lumber farm";
+var mnemonic = "clip cancel pulse goddess empty east deal father annual age off coin";

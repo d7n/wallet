@@ -1,1 +1,1 @@
-var mnemonic = "umbrella depth use choose boy garden method purpose add source program witness";
+var mnemonic = "tank then eight grunt cereal swarm spray inform lecture trend tackle bomb";

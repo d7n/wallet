@@ -1,1 +1,1 @@
-var mnemonic = "marble injury angry actual math visual advice tube anger measure manual game";
+var mnemonic = "broccoli grid present lava appear humble hybrid palm galaxy oblige version nerve";

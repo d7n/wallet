@@ -1,1 +1,1 @@
-var mnemonic = "bundle expand vivid region meat carry salon drill oblige soon detail such";
+var mnemonic = "detect away length effort trend same bleak final bulb lecture save lady";

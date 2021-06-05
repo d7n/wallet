@@ -1,1 +1,1 @@
-var mnemonic = "reason museum color enhance token stomach spatial move domain dignity follow trim";
+var mnemonic = "light usage royal give luggage index aware carbon dress remember luxury lion";

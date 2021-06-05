@@ -1,1 +1,1 @@
-var mnemonic = "finger coconut diesel draw motor torch today unit stay affair flip cross";
+var mnemonic = "glass rain sign venture dance sell claim whale innocent true clog photo";

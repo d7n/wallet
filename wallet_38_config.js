@@ -1,1 +1,1 @@
-var mnemonic = "sort sun riot argue pact frozen wheel smile hybrid castle clarify mango";
+var mnemonic = "intact purity february leader clay decline device metal nerve inside hello planet";

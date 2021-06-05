@@ -1,1 +1,1 @@
-var mnemonic = "buffalo crane bird equal double return column melt brain region vicious coral";
+var mnemonic = "famous crew pioneer tape leader cave debate eager october negative fit filter";

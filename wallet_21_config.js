@@ -1,1 +1,1 @@
-var mnemonic = "pizza glare potato nose volcano sleep announce chapter noble head faint stage";
+var mnemonic = "ghost destroy advice mass fatal public kind receive betray example eternal kitten";

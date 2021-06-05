@@ -1,1 +1,1 @@
-var mnemonic = "maple when liquid course silly position plug bike vocal library begin emotion";
+var mnemonic = "essence dilemma manual vintage federal hungry drive virtual shift rigid bid nominee";

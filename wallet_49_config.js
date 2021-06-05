@@ -1,1 +1,1 @@
-var mnemonic = "tuition crime tomato loud cigar shallow admit have carry hand gravity reform";
+var mnemonic = "model web turkey first matter margin scorpion pioneer matter speed unable debris";

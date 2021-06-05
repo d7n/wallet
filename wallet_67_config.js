@@ -1,1 +1,1 @@
-var mnemonic = "shell vanish law almost elegant oval chunk enlist day winter slice bicycle";
+var mnemonic = "town vague once horror empower shoe transfer sport goat naive wonder guess";

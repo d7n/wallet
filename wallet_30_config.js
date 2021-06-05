@@ -1,1 +1,1 @@
-var mnemonic = "cute orchard allow coyote grow remember thank peace move excuse under truck";
+var mnemonic = "bone equip length final art cigar tattoo expose alter alley virtual describe";

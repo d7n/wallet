@@ -1,1 +1,1 @@
-var mnemonic = "oven uphold blouse civil proof regular unfold voice jealous laptop diet buffalo";
+var mnemonic = "insane excuse display leader furnace cause empty floor basic power peanut wise";

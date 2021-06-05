@@ -1,1 +1,1 @@
-var mnemonic = "spread monster coyote feed team cross mass speak rate rough toddler junk";
+var mnemonic = "soap pledge abstract fault fold include current donate purse false race fish";

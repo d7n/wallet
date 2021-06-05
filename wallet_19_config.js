@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dynamic motor consider forest toward harsh submit vendor raven mom soldier";
+var mnemonic = "cherry pole test super tobacco tape bridge gift true sport enter want";

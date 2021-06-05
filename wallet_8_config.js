@@ -1,1 +1,1 @@
-var mnemonic = "genius front addict chronic short invite habit glove industry bulb tonight mix";
+var mnemonic = "wreck chef foam you chalk marble hello frown concert crunch swap purse";

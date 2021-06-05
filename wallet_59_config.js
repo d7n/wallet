@@ -1,1 +1,1 @@
-var mnemonic = "poem phrase soldier salad define cereal indoor boil rice speak brown column";
+var mnemonic = "tree taste pilot fuel degree machine scheme beyond cheap garlic soap hello";

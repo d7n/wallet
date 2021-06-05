@@ -1,1 +1,1 @@
-var mnemonic = "vendor cool busy jar else glove kiwi fat deputy ribbon risk egg";
+var mnemonic = "behind accuse fragile nest execute capital orphan express edge stamp minimum apple";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut fire certain image tragic phone joy excess drip dolphin strategy picnic";
+var mnemonic = "industry inherit arrow off tumble away syrup calm train modify slice just";

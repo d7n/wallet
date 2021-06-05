@@ -1,1 +1,1 @@
-var mnemonic = "uncover protect ghost frame peasant polar express alarm orphan parade peanut online";
+var mnemonic = "pumpkin welcome flame great hero wagon avocado material evolve artefact goddess run";

@@ -1,1 +1,1 @@
-var mnemonic = "swim myth cargo faint history million lift online ritual book depth stumble";
+var mnemonic = "direct dentist magnet bicycle nerve upon pact bleak iron glass cool kite";

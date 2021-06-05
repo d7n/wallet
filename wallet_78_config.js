@@ -1,1 +1,1 @@
-var mnemonic = "rail virus option orchard physical same peace trouble pupil busy party acquire";
+var mnemonic = "minute list device bracket panic they bubble foster peace party auction daughter";

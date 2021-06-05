@@ -1,1 +1,1 @@
-var mnemonic = "wool ostrich physical eyebrow simple give silver snow regular famous short maple";
+var mnemonic = "beyond sausage lemon almost inspire because fine enhance earn bracket gesture antique";

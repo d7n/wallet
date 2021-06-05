@@ -1,1 +1,1 @@
-var mnemonic = "dawn slot way other tag marine settle yard language similar alpha shock";
+var mnemonic = "brush gaze math view burst parade live immune matrix page raw cage";

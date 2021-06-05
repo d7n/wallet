@@ -1,1 +1,1 @@
-var mnemonic = "flock runway critic milk team expose pull shy dumb truck raven spider";
+var mnemonic = "repeat collect sentence front labor grocery chat party hotel door skin main";

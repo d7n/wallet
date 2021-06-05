@@ -1,1 +1,1 @@
-var mnemonic = "design chief spare spread route focus theme unique cricket try become cash";
+var mnemonic = "woman kiss similar express offer depend alone blast abandon gravity horror thumb";

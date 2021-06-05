@@ -1,1 +1,1 @@
-var mnemonic = "cereal island picnic solution cotton dress mesh fade affair invite leaf dinosaur";
+var mnemonic = "bamboo artwork kangaroo drip wait wheat differ narrow excess ceiling identify detail";

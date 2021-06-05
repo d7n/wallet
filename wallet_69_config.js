@@ -1,1 +1,1 @@
-var mnemonic = "forest spider juice forum crowd van carry sail sell soon two clerk";
+var mnemonic = "grit beach slender have trim essence little apple syrup high cave clown";

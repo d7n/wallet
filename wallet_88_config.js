@@ -1,1 +1,1 @@
-var mnemonic = "hotel federal arrive immense sunset flock swear network follow ridge next execute";
+var mnemonic = "south object lucky height logic elder funny sunset banner heavy lady taste";

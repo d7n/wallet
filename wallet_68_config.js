@@ -1,1 +1,1 @@
-var mnemonic = "buddy casual face easy raccoon craft avoid one oval price dream multiply";
+var mnemonic = "butter offer honey elder camera armed infant catalog invest leg replace layer";

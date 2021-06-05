@@ -1,1 +1,1 @@
-var mnemonic = "subject trumpet giant jaguar lawn smile morning impose update cross improve zone";
+var mnemonic = "purchase autumn balcony hunt reopen math plunge engage school forum rabbit seminar";

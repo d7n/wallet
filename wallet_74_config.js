@@ -1,1 +1,1 @@
-var mnemonic = "public surprise torch drip iron girl above stone flag shy idle true";
+var mnemonic = "economy ordinary share flag bird bench attend nothing control canvas jaguar rookie";

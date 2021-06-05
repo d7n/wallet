@@ -1,1 +1,1 @@
-var mnemonic = "peasant hen skill become boss issue van wet camp pulp south airport";
+var mnemonic = "glide jelly cargo palm special model weather tired solar tragic emotion outdoor";

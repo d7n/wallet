@@ -1,1 +1,1 @@
-var mnemonic = "same present top twist exercise coconut twin apple swallow flock cigar normal";
+var mnemonic = "virtual sibling mushroom assume range sample federal hello exit drink want drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "crane diet brisk hat rose clock fringe animal host top amateur universe";
+var mnemonic = "yellow work fiction matter genius recipe divide onion shadow genre economy daughter";

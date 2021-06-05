@@ -1,1 +1,1 @@
-var mnemonic = "device exact furnace tonight helmet school key model two trial follow moral";
+var mnemonic = "bag mask slide tunnel runway dice atom clip entire dynamic where road";

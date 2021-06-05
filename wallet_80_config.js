@@ -1,1 +1,1 @@
-var mnemonic = "broken menu segment total twice large worry fee wedding describe dirt horn";
+var mnemonic = "entire shove model clerk bag replace injury strategy robot boil feed electric";

@@ -1,1 +1,1 @@
-var mnemonic = "drive width keep warrior often session remove key receive install jealous van";
+var mnemonic = "general pact spell corn beyond hope federal struggle speak couch country abstract";

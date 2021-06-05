@@ -1,1 +1,1 @@
-var mnemonic = "eight problem dizzy sail smile spare twin floor almost chaos skate tiger";
+var mnemonic = "reunion pause cruel flip off balance lazy shove tongue salon assist abuse";

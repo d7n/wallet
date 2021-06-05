@@ -1,1 +1,1 @@
-var mnemonic = "lab region mesh doctor multiply actress find slight cliff worth fence knock";
+var mnemonic = "senior squirrel peasant beauty horror lyrics actual inform rail amount stereo swarm";

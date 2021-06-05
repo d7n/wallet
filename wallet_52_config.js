@@ -1,1 +1,1 @@
-var mnemonic = "gun almost naive piece path tiger physical group guilt extra infant nation";
+var mnemonic = "biology avoid army profit inherit chalk absent fox enrich damp fee clock";

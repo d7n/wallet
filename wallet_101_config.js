@@ -1,1 +1,1 @@
-var mnemonic = "anxiety scan extend sunset spatial tumble number boy people jungle shallow security";
+var mnemonic = "awful truck veteran private alter theme breeze broom garbage toilet hospital obey";

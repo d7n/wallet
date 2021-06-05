@@ -1,1 +1,1 @@
-var mnemonic = "cart wood saddle census riot jazz olive leopard local mean fence ten";
+var mnemonic = "immune catalog topic caution actress hobby twenty enroll jazz wheat fabric great";

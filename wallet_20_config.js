@@ -1,1 +1,1 @@
-var mnemonic = "aware outdoor decade prize satisfy cross biology clerk soft insect under nurse";
+var mnemonic = "ice friend energy exhaust ring blur property bounce collect rate anchor stick";

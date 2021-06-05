@@ -1,1 +1,1 @@
-var mnemonic = "dog network problem hazard bounce lawsuit visit want wheel unique swallow february";
+var mnemonic = "more stadium element wear member cat toss pistol cradle raven list arrange";

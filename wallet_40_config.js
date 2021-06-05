@@ -1,1 +1,1 @@
-var mnemonic = "hammer scrap skin metal kidney tag oak mistake grief involve stable olive";
+var mnemonic = "crunch ski decorate purity cook vivid supreme lock casual drama involve organ";

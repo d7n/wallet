@@ -1,1 +1,1 @@
-var mnemonic = "update gaze afford hawk journey animal fiber monitor ankle skirt shove mouse";
+var mnemonic = "powder raccoon immune urge noodle pact clarify utility refuse salute produce unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "else night become spike menu fold speak picnic conduct liquid soccer this";
+var mnemonic = "coil tower major inject check impose tonight buzz security off giraffe quantum";

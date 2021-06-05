@@ -1,1 +1,1 @@
-var mnemonic = "rent document hat tunnel hair home gorilla regular piano kit verify rubber";
+var mnemonic = "enjoy ethics romance alpha height cupboard meat wedding donor filter rhythm diary";

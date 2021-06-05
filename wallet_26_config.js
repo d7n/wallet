@@ -1,1 +1,1 @@
-var mnemonic = "elder enrich kind ring rich enlist giggle bench unable bitter coast echo";
+var mnemonic = "behind over fitness clutch rich hunt ring bench occur custom oppose eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "name grid below rather come clap exchange behave bubble lawn surprise margin";
+var mnemonic = "broken second clip cube thought year maid thumb enemy mouse holiday uphold";

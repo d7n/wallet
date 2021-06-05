@@ -1,1 +1,1 @@
-var mnemonic = "cigar wheat claw pass obtain spirit broken beyond cruise hollow sniff bridge";
+var mnemonic = "audit cry issue inquiry evidence destroy wasp sight breeze pole skull design";

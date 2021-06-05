@@ -1,1 +1,1 @@
-var mnemonic = "peace practice warfare water teach loop salad fury coffee yellow rebuild attract";
+var mnemonic = "actual confirm deal negative hollow major bird squeeze web injury burden taste";

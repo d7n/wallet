@@ -1,1 +1,1 @@
-var mnemonic = "protect quote suggest evidence resemble enroll track match dinner enforce oblige eye";
+var mnemonic = "search crop toe solve minute trial pepper settle grape industry thrive attract";

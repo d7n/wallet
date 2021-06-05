@@ -1,1 +1,1 @@
-var mnemonic = "brave conduct rapid own fossil snap food park unknown siege rally security";
+var mnemonic = "talent quarter leaf crunch adapt august correct deal patient beach mirror logic";

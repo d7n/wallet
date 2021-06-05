@@ -1,1 +1,1 @@
-var mnemonic = "carbon arrange frog whisper only immune pottery nominee speed maid universe nation";
+var mnemonic = "payment cupboard charge mirror interest rather deposit bag walk practice layer stamp";

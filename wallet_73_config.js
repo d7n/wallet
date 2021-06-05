@@ -1,1 +1,1 @@
-var mnemonic = "render foot aunt main drill miss lobster spoon banana crisp smart fitness";
+var mnemonic = "volcano empower unable boss deputy friend diagram bring exhaust best prize lecture";

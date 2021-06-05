@@ -1,1 +1,1 @@
-var mnemonic = "gorilla round citizen number zoo idea thrive deposit nothing inmate flash soda";
+var mnemonic = "holiday wasp swim glass hunt portion tower glide calm copper supreme rabbit";

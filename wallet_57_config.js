@@ -1,1 +1,1 @@
-var mnemonic = "eagle badge sure aspect anxiety mercy eyebrow scorpion autumn giggle list decide";
+var mnemonic = "marble trial scheme approve match guilt wrap disagree deer produce cherry sport";

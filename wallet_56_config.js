@@ -1,1 +1,1 @@
-var mnemonic = "humble sheriff cabbage injury project lonely path loop pulp evidence power shiver";
+var mnemonic = "tool huge ritual soul guide better robust gym aware melody acquire awake";

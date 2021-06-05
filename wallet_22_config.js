@@ -1,1 +1,1 @@
-var mnemonic = "notable math secret economy fork butter destroy defy latin stumble cluster when";
+var mnemonic = "churn want catch truly zebra burden web ranch head vote type hawk";

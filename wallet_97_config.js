@@ -1,1 +1,1 @@
-var mnemonic = "invite test humor situate number syrup check replace struggle gift fish giggle";
+var mnemonic = "salt sting weird simple strategy novel high hip pioneer dose fortune vague";

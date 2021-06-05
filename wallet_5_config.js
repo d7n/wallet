@@ -1,1 +1,1 @@
-var mnemonic = "kitchen industry alert best topic broom rate color rent person snack lumber";
+var mnemonic = "wonder language tackle brave local display barrel original usual cricket gesture vacuum";

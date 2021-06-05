@@ -1,1 +1,1 @@
-var mnemonic = "festival about climb gloom foster soap prize bottom gorilla upgrade dismiss parent";
+var mnemonic = "library burger medal chat six short skin shrug input bulb trial tuition";

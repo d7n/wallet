@@ -1,1 +1,1 @@
-var mnemonic = "knife age galaxy lizard crack control length hedgehog pond range any bleak";
+var mnemonic = "pipe apart bus monitor aerobic choose disease width gospel weekend police gather";

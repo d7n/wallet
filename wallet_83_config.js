@@ -1,1 +1,1 @@
-var mnemonic = "unaware report laptop dog bubble fish tenant double island team faith leg";
+var mnemonic = "artwork oak setup later issue all unhappy display audit anchor caution faculty";

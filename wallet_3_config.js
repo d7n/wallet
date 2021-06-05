@@ -1,1 +1,1 @@
-var mnemonic = "behave dinosaur cost secret coach during evoke pattern excuse intact whale argue";
+var mnemonic = "unlock recycle clown supply bar shrimp matter ostrich upgrade image forest dragon";

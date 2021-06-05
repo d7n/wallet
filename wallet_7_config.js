@@ -1,1 +1,1 @@
-var mnemonic = "velvet level adapt group spare borrow iron squeeze finish mystery client alcohol";
+var mnemonic = "occur earth honey pen split govern run planet attack always strong title";

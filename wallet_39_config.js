@@ -1,1 +1,1 @@
-var mnemonic = "humble position million scene unusual key always jar output morning mushroom diamond";
+var mnemonic = "harbor decide ahead goddess core flash expand fancy speak sock right urge";

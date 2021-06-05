@@ -1,1 +1,1 @@
-var mnemonic = "limb exercise retire bag energy ill vendor way crisp bounce loan cinnamon";
+var mnemonic = "athlete interest stand gate mass inmate dog admit twice grow comfort dwarf";

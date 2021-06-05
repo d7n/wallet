@@ -1,1 +1,1 @@
-var mnemonic = "leopard game wire clap pole flag attack critic shell hundred green whale";
+var mnemonic = "horn average deny prize liquid alarm city auction tattoo check tumble add";
