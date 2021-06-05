@@ -1,1 +1,1 @@
-var mnemonic = "clutch glare guard alarm purse mom use chef domain ten salt intact";
+var mnemonic = "oil price flash cage file win cup goose vital chuckle blue prevent";

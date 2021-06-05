@@ -1,1 +1,1 @@
-var mnemonic = "embark sock vibrant frozen reunion label sense gravity night girl deny salute";
+var mnemonic = "breeze chronic music lumber olive must voyage rookie volume anchor degree true";

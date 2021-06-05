@@ -1,1 +1,1 @@
-var mnemonic = "hockey clerk tunnel search trade clever month company tomato habit woman toddler";
+var mnemonic = "dragon similar transfer rubber repeat little wave consider domain street section angry";

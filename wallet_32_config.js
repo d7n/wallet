@@ -1,1 +1,1 @@
-var mnemonic = "divide worth cargo insane keep hover tennis buyer paddle vendor awesome desert";
+var mnemonic = "offer neglect flip armor garlic phrase best wash talent once adapt buyer";

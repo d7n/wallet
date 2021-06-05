@@ -1,1 +1,1 @@
-var mnemonic = "bar quality produce crawl poem need liberty kid sword tell now lottery";
+var mnemonic = "quarter universe sleep gun much blue normal session topple lock mom load";

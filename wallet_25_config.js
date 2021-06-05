@@ -1,1 +1,1 @@
-var mnemonic = "rail vote vivid enrich monkey seek eager leisure core heart door fox";
+var mnemonic = "plug joy rookie desert fee health glare seven save forward exercise close";

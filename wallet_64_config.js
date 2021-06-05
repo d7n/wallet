@@ -1,1 +1,1 @@
-var mnemonic = "useless rain legal must sausage spray history sell festival million stove umbrella";
+var mnemonic = "pencil bid error blanket able decide measure fortune grape multiply kidney decide";

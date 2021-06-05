@@ -1,1 +1,1 @@
-var mnemonic = "member prison wagon drip spider circle test voice wolf loyal appear farm";
+var mnemonic = "thing sun rude void tooth artist tuition extra salt bless elephant casino";

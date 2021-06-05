@@ -1,1 +1,1 @@
-var mnemonic = "flag orchard sail owner where just recipe install speak breeze cactus few";
+var mnemonic = "dance prefer puzzle vacant slow swim giraffe arrest lift drum mosquito budget";

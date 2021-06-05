@@ -1,1 +1,1 @@
-var mnemonic = "display jaguar priority humble girl inform unveil coyote pulse brass among crazy";
+var mnemonic = "toddler keep what future legal practice jar solid regular bench lion bring";

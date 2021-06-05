@@ -1,1 +1,1 @@
-var mnemonic = "fat buyer sure drift suspect core jacket crazy drama flip flower pass";
+var mnemonic = "surround wisdom give dance audit jungle rubber salmon choose coconut salad stem";

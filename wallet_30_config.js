@@ -1,1 +1,1 @@
-var mnemonic = "execute eye situate lazy crazy riot guide mesh vast sugar chuckle more";
+var mnemonic = "rhythm addict universe radio fuel silver farm urban satoshi cruise garden airport";

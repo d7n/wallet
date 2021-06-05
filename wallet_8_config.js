@@ -1,1 +1,1 @@
-var mnemonic = "desert table sibling country ivory elbow enroll neglect office cattle asthma rescue";
+var mnemonic = "cushion illegal rail drill raccoon sibling invite mutual dragon subject scrub keen";

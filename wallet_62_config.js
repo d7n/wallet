@@ -1,1 +1,1 @@
-var mnemonic = "you whisper provide blade van glass doll coast stamp switch tell robot";
+var mnemonic = "push move draw file carry echo slot come imitate net dog media";

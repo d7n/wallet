@@ -1,1 +1,1 @@
-var mnemonic = "front key mutual rent project become pigeon task open race mosquito ripple";
+var mnemonic = "unhappy switch crunch profit muscle rain raise obvious tonight celery kitten animal";

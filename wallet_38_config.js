@@ -1,1 +1,1 @@
-var mnemonic = "unfair pioneer gym attend tumble fiscal issue man flush obvious width deal";
+var mnemonic = "water river south garden enroll execute umbrella correct cotton monkey innocent entry";

@@ -1,1 +1,1 @@
-var mnemonic = "medal gentle nuclear history present stumble myth wheat prize fly boy slab";
+var mnemonic = "wise tuna fun grape arctic route hockey amazing fog pig stay abuse";

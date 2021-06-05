@@ -1,1 +1,1 @@
-var mnemonic = "tip three insect hip more clean wisdom woman squirrel garlic object carbon";
+var mnemonic = "aerobic october alley critic wave endorse frequent lottery kind anxiety sport essence";

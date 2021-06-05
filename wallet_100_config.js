@@ -1,1 +1,1 @@
-var mnemonic = "pet crawl common child swing bubble bracket warfare chair ten high illness";
+var mnemonic = "warrior snap jar lemon blossom huge truth galaxy limb modify absent much";

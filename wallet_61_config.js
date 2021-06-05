@@ -1,1 +1,1 @@
-var mnemonic = "cable initial weekend elephant volcano hint clarify budget cute pony symbol latin";
+var mnemonic = "bind broccoli inspire first alert usual purity round mail amateur spawn eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid siege merry slogan behind armed album trophy spread add casual page";
+var mnemonic = "rather solution refuse act art easy fatigue topple under tragic disease possible";

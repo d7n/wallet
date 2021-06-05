@@ -1,1 +1,1 @@
-var mnemonic = "thought enlist desk fatigue pulse unknown chuckle danger school rebuild second bean";
+var mnemonic = "sweet load decide urban regular goat news virus horror regular hotel material";

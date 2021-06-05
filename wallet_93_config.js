@@ -1,1 +1,1 @@
-var mnemonic = "auto pill arrange nest electric assist tell follow reform prevent stay message";
+var mnemonic = "marble lava decide misery onion three detail medal glory noise cry moment";

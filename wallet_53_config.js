@@ -1,1 +1,1 @@
-var mnemonic = "hire youth village kingdom settle pluck naive elevator abstract hood once tooth";
+var mnemonic = "silver kite grace inch federal host float silver during slice gift ability";

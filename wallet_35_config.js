@@ -1,1 +1,1 @@
-var mnemonic = "cross mother skull choice pull elephant silly ship sudden museum wrong game";
+var mnemonic = "exercise social obey slow index situate switch dove illness cream weather clever";

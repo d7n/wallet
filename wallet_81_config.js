@@ -1,1 +1,1 @@
-var mnemonic = "piece rhythm fire nominee gadget delay same unable skill flag people need";
+var mnemonic = "upgrade predict arm oxygen gospel harsh fiscal session seed road demand erosion";

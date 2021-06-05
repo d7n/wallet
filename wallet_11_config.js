@@ -1,1 +1,1 @@
-var mnemonic = "output boss walnut adult weapon ability vibrant elevator stone beef gate large";
+var mnemonic = "enhance fever young shoe clump village elephant ball ladder shiver own news";

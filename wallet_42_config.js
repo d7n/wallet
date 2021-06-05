@@ -1,1 +1,1 @@
-var mnemonic = "guide hub reunion scan tomorrow item bike unable chalk reform mistake assault";
+var mnemonic = "melody cherry broom post law arrow upset develop toward combine number rail";

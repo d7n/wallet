@@ -1,1 +1,1 @@
-var mnemonic = "ostrich idle era exile sure spray transfer crunch coral useless lumber shift";
+var mnemonic = "asthma salon medal crack apology average master good ozone remind merit repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "utility jazz swift render position bubble ozone slender report arrest myself window";
+var mnemonic = "thunder uncle situate coyote youth feed nuclear vehicle slogan slim nuclear salon";

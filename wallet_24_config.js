@@ -1,1 +1,1 @@
-var mnemonic = "orient region alien perfect join kite gloom dinner slow dish law brush";
+var mnemonic = "steel offer opinion resemble acquire blade staff cancel moral affair artist blade";

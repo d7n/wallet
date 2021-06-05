@@ -1,1 +1,1 @@
-var mnemonic = "media culture multiply manual avoid lumber gym engine joy fuel method match";
+var mnemonic = "draw stock choice slide resemble reform black address lucky paddle awkward excite";

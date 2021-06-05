@@ -1,1 +1,1 @@
-var mnemonic = "hill fire hover drum language over another life session lecture hospital effort";
+var mnemonic = "mass upgrade omit please network inject pizza priority salute hunt melody rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "credit thank reason thumb please fade bicycle permit wheat guilt flavor initial";
+var mnemonic = "fix still typical invite swim guard fat morning phone horse voice couch";

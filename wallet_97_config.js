@@ -1,1 +1,1 @@
-var mnemonic = "gorilla museum bus leg flower claw weasel shop gain adult young jealous";
+var mnemonic = "high shoe project diesel exact license fury latin strong have shop blur";

@@ -1,1 +1,1 @@
-var mnemonic = "skull flat spread floor wage vital vibrant extra student gospel night daughter";
+var mnemonic = "front library quiz fun then risk very idea penalty food like away";

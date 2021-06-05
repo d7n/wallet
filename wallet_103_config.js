@@ -1,1 +1,1 @@
-var mnemonic = "hood lava pigeon tell maid tower rocket city jaguar stool dream glove";
+var mnemonic = "cheap reopen embody enact jaguar logic merry bitter grant obscure more pulse";

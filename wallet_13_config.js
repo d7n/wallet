@@ -1,1 +1,1 @@
-var mnemonic = "book sleep make stick verb around deer want subject finish resource false";
+var mnemonic = "deny fashion open disease blood rocket excite patch scale mosquito diesel mouse";

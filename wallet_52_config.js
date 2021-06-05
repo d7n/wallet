@@ -1,1 +1,1 @@
-var mnemonic = "lesson park loyal trip long drift payment draw stamp giggle silk local";
+var mnemonic = "plate kangaroo siege aisle virus deposit ridge renew junior mesh manage father";

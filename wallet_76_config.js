@@ -1,1 +1,1 @@
-var mnemonic = "group avocado swap obtain bind rescue final that unlock entry bicycle sunny";
+var mnemonic = "purse village razor protect fog identify praise little sorry speak suit zero";

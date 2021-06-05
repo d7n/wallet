@@ -1,1 +1,1 @@
-var mnemonic = "auto task inner soul romance party claw pact orbit enrich cabin worry";
+var mnemonic = "fragile liar zoo maple ripple tuna prevent sorry wrestle inch arm chair";

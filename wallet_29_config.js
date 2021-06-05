@@ -1,1 +1,1 @@
-var mnemonic = "digital juice hedgehog nominee idle mad six door warfare lunar butter citizen";
+var mnemonic = "shuffle wood point pool six foot dwarf rice fever exercise episode fantasy";

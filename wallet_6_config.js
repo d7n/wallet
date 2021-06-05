@@ -1,1 +1,1 @@
-var mnemonic = "gun offer laugh furnace execute beef start find coil antique tray car";
+var mnemonic = "puzzle release slice rebuild keen wagon monitor attend fitness night daring friend";

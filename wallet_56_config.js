@@ -1,1 +1,1 @@
-var mnemonic = "limit equal kidney radio link menu hat excite wife merit tip odor";
+var mnemonic = "include invest autumn orbit aware parade palm boil beauty crystal emotion vendor";

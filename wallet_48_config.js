@@ -1,1 +1,1 @@
-var mnemonic = "asset champion machine crisp depend trigger shoot grief net civil panel unique";
+var mnemonic = "forward excuse amused hill flame pear penalty skull parrot humor tube sand";

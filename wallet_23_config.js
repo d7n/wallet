@@ -1,1 +1,1 @@
-var mnemonic = "owner harbor whisper sentence economy snack fossil bounce very spoon bulk grain";
+var mnemonic = "enter daring learn theme belt match purpose speed talk silent dash tissue";

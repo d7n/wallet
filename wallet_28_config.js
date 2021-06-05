@@ -1,1 +1,1 @@
-var mnemonic = "damp hat truck lava drill tomato better shoe naive milk girl lizard";
+var mnemonic = "torch shell raw exotic wall flush close bridge wreck crane aunt goose";

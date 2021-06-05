@@ -1,1 +1,1 @@
-var mnemonic = "club axis strong trial drop sausage trust anger tell age first smile";
+var mnemonic = "inquiry history depth civil retreat cigar captain time useless riot town brave";

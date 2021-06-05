@@ -1,1 +1,1 @@
-var mnemonic = "sign insane kick wing weapon economy aspect shell sunset endorse mule mad";
+var mnemonic = "state salad duty box kitchen cover pink ramp miracle wild exit useless";

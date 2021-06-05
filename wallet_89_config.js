@@ -1,1 +1,1 @@
-var mnemonic = "jungle jungle assault dinosaur gate blind anxiety excite enjoy mechanic start sibling";
+var mnemonic = "dog donor very song shadow occur huge happy broom abstract floor corn";

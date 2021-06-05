@@ -1,1 +1,1 @@
-var mnemonic = "aerobic suggest lend acquire clutch derive spy fiber fame trim embrace unique";
+var mnemonic = "sad advice square wall final wish edit mechanic cup morning broccoli claw";

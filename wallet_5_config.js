@@ -1,1 +1,1 @@
-var mnemonic = "fix diary regular game stove domain proud mix evoke woman imitate replace";
+var mnemonic = "fatigue tomorrow color barely wine enact parrot tag quote aerobic false solve";

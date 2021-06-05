@@ -1,1 +1,1 @@
-var mnemonic = "cabbage summer focus zero educate empower proud ship volcano physical essence curtain";
+var mnemonic = "draw weird prefer siren repeat calm anchor style reveal mind grocery general";

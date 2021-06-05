@@ -1,1 +1,1 @@
-var mnemonic = "round crush current yellow kangaroo various walk nothing drop leisure story speak";
+var mnemonic = "employ royal win market swim kite amused flip core rescue room either";

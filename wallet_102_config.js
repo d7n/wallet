@@ -1,1 +1,1 @@
-var mnemonic = "minimum wild cactus eagle barrel track net issue excite clerk guide vendor";
+var mnemonic = "sauce situate purpose vital sad crater injury swallow all raise load quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "female apart delay hood black cloth lion must trend wild tobacco post";
+var mnemonic = "air normal hunt weather spring hill all faculty below theory moral shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma spawn pepper predict grain tag goose maze fuel alone amateur acquire";
+var mnemonic = "organ mutual blame maze bar asset together glass base thing oyster cloth";

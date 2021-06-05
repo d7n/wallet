@@ -1,1 +1,1 @@
-var mnemonic = "actual merry coast nut long flip gossip sister auto affair label opera";
+var mnemonic = "fog assume funny town appear marble divorce champion bulk liberty ketchup ready";

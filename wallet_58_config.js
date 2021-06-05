@@ -1,1 +1,1 @@
-var mnemonic = "remind mule apart traffic gadget inherit narrow tuna swing mail height clarify";
+var mnemonic = "gorilla seek calm season moral claw shy puzzle abandon atom embody short";

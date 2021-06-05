@@ -1,1 +1,1 @@
-var mnemonic = "poverty spare stem law jelly modify error same hockey eager ask point";
+var mnemonic = "portion sound diagram marble lab glue such crack wine fee alter silk";

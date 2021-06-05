@@ -1,1 +1,1 @@
-var mnemonic = "canal coin waste trust visit entry drill unknown unique lend photo napkin";
+var mnemonic = "crime seek amazing sad chef unveil outer casual glance oval embrace top";

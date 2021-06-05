@@ -1,1 +1,1 @@
-var mnemonic = "fragile hello uncover virus surround spray bonus rookie gauge voyage improve surprise";
+var mnemonic = "gain luggage index equal ghost degree coral pipe urban beauty title voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "snake spoon glove reward spider release stock reflect old evil squeeze museum";
+var mnemonic = "silent insect panic denial since detect huge another network bamboo video uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "solution gesture tourist feed coyote assist scissors wood agree earn tuition normal";
+var mnemonic = "grass quantum eyebrow cradle latin giggle fog body shift just employ error";

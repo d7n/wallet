@@ -1,1 +1,1 @@
-var mnemonic = "nurse lock pigeon mansion list barrel message oppose insect donkey void point";
+var mnemonic = "bleak rug night original tiny obtain junk expose orchard benefit order clog";

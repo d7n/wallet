@@ -1,1 +1,1 @@
-var mnemonic = "welcome bounce axis lazy dog match advice bitter beef appear settle yard";
+var mnemonic = "soccer current spray craft easy hollow cheese pistol short interest oxygen client";

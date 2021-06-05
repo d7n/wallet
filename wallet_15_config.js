@@ -1,1 +1,1 @@
-var mnemonic = "disagree ugly symbol region stay render smart movie claw sunny this nuclear";
+var mnemonic = "river actress make august mind finger scare physical inner black bleak pencil";

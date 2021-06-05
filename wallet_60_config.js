@@ -1,1 +1,1 @@
-var mnemonic = "note maid dune inherit convince ordinary noise purity rare invite system party";
+var mnemonic = "novel evil crew raise dust foster bring inmate hard organ sugar sting";

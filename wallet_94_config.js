@@ -1,1 +1,1 @@
-var mnemonic = "present impulse runway drip chunk armor already settle domain pride tree secret";
+var mnemonic = "liquid castle merge doll renew pumpkin giggle rabbit congress flip tonight habit";

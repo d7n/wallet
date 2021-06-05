@@ -1,1 +1,1 @@
-var mnemonic = "provide release forum fiction hire method dog pair response future satisfy faculty";
+var mnemonic = "oppose river wrap barely logic observe develop pistol impulse december test inmate";

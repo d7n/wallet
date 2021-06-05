@@ -1,1 +1,1 @@
-var mnemonic = "churn range gloom east skin turtle payment morning stem gaze super foam";
+var mnemonic = "style video noise modify ankle off end horse keen vapor because knock";

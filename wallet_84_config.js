@@ -1,1 +1,1 @@
-var mnemonic = "ranch pool spread quick shallow enroll trim weapon lab inspire mention topple";
+var mnemonic = "diesel cushion prison inject book logic obscure ghost idle unhappy silver swing";

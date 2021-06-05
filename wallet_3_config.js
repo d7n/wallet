@@ -1,1 +1,1 @@
-var mnemonic = "minor recycle improve express never kind inspire raven erase boat thank doll";
+var mnemonic = "key design puppy charge document option love cargo excess artefact artefact coffee";

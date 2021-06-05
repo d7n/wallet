@@ -1,1 +1,1 @@
-var mnemonic = "refuse magnet enable speed fabric napkin still weather cradle supreme roast bounce";
+var mnemonic = "paper devote frame sweet fly river refuse walk people hunt flash resource";

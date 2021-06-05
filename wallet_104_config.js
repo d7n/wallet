@@ -1,1 +1,1 @@
-var mnemonic = "lamp face tube humor rather man tourist loop stone usual dutch buddy";
+var mnemonic = "rubber mutual garlic any decade minimum rice gift foam merry umbrella dragon";

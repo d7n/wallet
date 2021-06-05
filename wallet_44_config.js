@@ -1,1 +1,1 @@
-var mnemonic = "swarm purse skin tag rebuild extra august convince tragic release claw merge";
+var mnemonic = "giraffe basket tuition trial green crouch gadget pottery demand sausage defy raccoon";

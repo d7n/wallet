@@ -1,1 +1,1 @@
-var mnemonic = "need toe across source faint hard century hawk dutch result candy shell";
+var mnemonic = "turn urban lava bamboo excite crop betray notice fuel swing unit agree";

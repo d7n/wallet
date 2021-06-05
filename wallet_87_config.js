@@ -1,1 +1,1 @@
-var mnemonic = "amused problem multiply what science yard begin wine just milk hazard van";
+var mnemonic = "camera one heavy noble crane sauce ugly void lock lecture elephant gossip";

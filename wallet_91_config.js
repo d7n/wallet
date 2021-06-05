@@ -1,1 +1,1 @@
-var mnemonic = "bargain learn shuffle tail pudding found tattoo cruel conduct similar portion jewel";
+var mnemonic = "reward inspire task hour lend chat either crash enlist dutch car festival";

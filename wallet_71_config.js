@@ -1,1 +1,1 @@
-var mnemonic = "subway garden ahead ridge brown pony okay company light point select cement";
+var mnemonic = "cart sentence adjust pet cement ranch lounge luggage barrel famous cry olive";

@@ -1,1 +1,1 @@
-var mnemonic = "twin tower worry knock brain approve shy toilet negative all sustain shift";
+var mnemonic = "scene gasp fence hint valley shoulder midnight defense right globe buddy pass";

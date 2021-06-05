@@ -1,1 +1,1 @@
-var mnemonic = "method top benefit radio merge assist cause boss exhibit kitchen rate hen";
+var mnemonic = "disagree skill pulp net clock dismiss hole group marble hurry february shine";

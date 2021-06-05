@@ -1,1 +1,1 @@
-var mnemonic = "donkey parent cycle tortoise spirit asset process review scare stem believe silver";
+var mnemonic = "puppy one night tilt poverty wolf note fit country virus save outer";

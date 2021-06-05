@@ -1,1 +1,1 @@
-var mnemonic = "cheese solid cactus load humble ten stumble door weird help mandate motor";
+var mnemonic = "goddess agent slice dizzy museum jacket business finger genius exact youth together";

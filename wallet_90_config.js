@@ -1,1 +1,1 @@
-var mnemonic = "desert setup donkey tongue among note secret youth horn choose combine guide";
+var mnemonic = "miss cube into tobacco source galaxy broccoli bone behave dice more easily";

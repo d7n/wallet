@@ -1,1 +1,1 @@
-var mnemonic = "glow topic donkey retire burden erosion humble diagram shiver cake dwarf guitar";
+var mnemonic = "member hub horse mass debris easily outer steak prevent guard box monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "credit globe notice canal asthma hobby unfold carbon enjoy lesson name insane";
+var mnemonic = "envelope ghost cost combine explain wealth primary ship echo goose dust wealth";

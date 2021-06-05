@@ -1,1 +1,1 @@
-var mnemonic = "abandon since play gesture spoil grid way spend salt hobby soup clutch";
+var mnemonic = "youth craft toilet fuel swear smart teach hover unique drink wire total";

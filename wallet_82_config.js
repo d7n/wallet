@@ -1,1 +1,1 @@
-var mnemonic = "ancient task pink eagle text salmon tobacco ring muffin snake run call";
+var mnemonic = "original emotion couch excite drink banana cigar sand kangaroo certain plug decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "learn bamboo duck army pigeon feature copy birth ladder trade dinner rescue";
+var mnemonic = "fiscal regret script choice similar beauty twist next flame travel firm menu";

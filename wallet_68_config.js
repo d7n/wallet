@@ -1,1 +1,1 @@
-var mnemonic = "steel relax summer master check obey ozone property dignity suggest notable shuffle";
+var mnemonic = "type sure input pink speed giraffe grocery rocket until excess rhythm shiver";

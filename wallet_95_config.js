@@ -1,1 +1,1 @@
-var mnemonic = "scrub grass document castle genuine bird flip online potato pluck morning message";
+var mnemonic = "raise ranch anxiety main flag boil runway genuine deliver broccoli shine wrap";

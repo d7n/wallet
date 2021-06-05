@@ -1,1 +1,1 @@
-var mnemonic = "attend bounce donor mountain weekend kidney since welcome nuclear food script pyramid";
+var mnemonic = "pool pole ribbon cost volcano aspect view fever distance tennis supply horror";

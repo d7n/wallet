@@ -1,1 +1,1 @@
-var mnemonic = "rhythm cause blade aisle match slender choose giant cruise drill balance present";
+var mnemonic = "cram crystal acid cheap dawn eagle snap guard cube near much wrap";
