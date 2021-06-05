@@ -1,1 +1,1 @@
-var mnemonic = "section club remember trouble any royal enhance loyal pudding world among dwarf";
+var mnemonic = "spoil huge sauce jewel civil explain hint success nut ask obvious sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "label opera select border thumb vehicle check reject kangaroo garlic school notice";
+var mnemonic = "spoil plastic peanut gown damp buyer company track edge pink lawsuit extra";

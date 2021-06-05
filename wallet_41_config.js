@@ -1,1 +1,1 @@
-var mnemonic = "peasant tumble ten someone chef aim grief arrive ancient frog sun bounce";
+var mnemonic = "entry carpet rack nerve critic warfare there ozone toward cat olive square";

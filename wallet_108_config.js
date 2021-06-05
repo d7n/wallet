@@ -1,1 +1,1 @@
-var mnemonic = "odor genre boil note claw bleak throw outer rescue manage elevator kind";
+var mnemonic = "script result noodle trophy have train equip ghost awkward word swarm hat";

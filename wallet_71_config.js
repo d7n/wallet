@@ -1,1 +1,1 @@
-var mnemonic = "educate collect puppy artist clutch hotel infant allow concert razor rural exercise";
+var mnemonic = "rhythm flower peace round cause beyond clay manage bullet public school figure";

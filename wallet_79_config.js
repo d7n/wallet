@@ -1,1 +1,1 @@
-var mnemonic = "suffer proof erosion boost goddess wealth range vast dash oblige bronze chase";
+var mnemonic = "word van alpha cactus office fortune heavy flower indoor also depth must";

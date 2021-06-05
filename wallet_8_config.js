@@ -1,1 +1,1 @@
-var mnemonic = "girl clock trim glass practice into merge ski correct camera artwork delay";
+var mnemonic = "beef door enlist brush helmet nuclear merry agent quote animal genius rocket";

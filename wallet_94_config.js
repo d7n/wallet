@@ -1,1 +1,1 @@
-var mnemonic = "lawn rare century wide present unaware race exhibit group tattoo lamp ivory";
+var mnemonic = "ship rather peanut antique escape awful seed retire shop industry tent outside";

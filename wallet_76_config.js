@@ -1,1 +1,1 @@
-var mnemonic = "load mountain crumble hold patrol inch tail castle illegal hire floor dry";
+var mnemonic = "demand spray enhance use slogan chase fluid rack earth genius area fox";

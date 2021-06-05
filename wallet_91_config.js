@@ -1,1 +1,1 @@
-var mnemonic = "company unaware laundry segment beauty tribe unlock flash crush raccoon good sense";
+var mnemonic = "segment gift lake never glimpse shrimp question general license forest true chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure lonely argue spoon update knock furnace gloom eyebrow popular electric attend";
+var mnemonic = "mom return image praise razor differ dream desk scrub hood message exile";

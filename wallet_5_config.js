@@ -1,1 +1,1 @@
-var mnemonic = "net patient protect state drift nation ramp please wasp diary ethics custom";
+var mnemonic = "liberty during garlic chapter peasant skin faith unit kingdom meat close april";

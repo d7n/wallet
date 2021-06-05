@@ -1,1 +1,1 @@
-var mnemonic = "trigger mammal spawn neutral fresh jewel pottery trash slice judge sorry peace";
+var mnemonic = "twice master lift rapid clinic zero dinner razor course hotel main spirit";

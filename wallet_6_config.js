@@ -1,1 +1,1 @@
-var mnemonic = "phrase sketch exercise promote omit candy provide glide arm pluck work wet";
+var mnemonic = "scare above tower anger stairs trash goddess wrap dismiss mushroom nuclear shop";

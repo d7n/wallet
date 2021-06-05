@@ -1,1 +1,1 @@
-var mnemonic = "work web million trip pizza shop shock injury heavy champion youth club";
+var mnemonic = "ring nephew empty express apology gather bus magnet pair nest cup border";

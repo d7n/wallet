@@ -1,1 +1,1 @@
-var mnemonic = "elbow fetch muffin kiss square february machine include cement tuition certain kick";
+var mnemonic = "pill profit wrist window forget humble excite jacket stuff ankle brown fence";

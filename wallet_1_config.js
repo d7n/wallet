@@ -1,1 +1,1 @@
-var mnemonic = "dog lamp attitude endless clip boil never gas gas reopen speed license";
+var mnemonic = "demand when slam potato hip manual shrimp spice embody delay occur card";

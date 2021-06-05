@@ -1,1 +1,1 @@
-var mnemonic = "garden consider master royal future gas anger island violin grant grit soup";
+var mnemonic = "double child bacon youth design child kit kiwi found pencil deer soft";

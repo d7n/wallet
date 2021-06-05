@@ -1,1 +1,1 @@
-var mnemonic = "fine bonus faint tonight jar margin soup soda charge include poem police";
+var mnemonic = "section imitate runway flag group announce include base trash tag sting narrow";

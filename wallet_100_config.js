@@ -1,1 +1,1 @@
-var mnemonic = "town scorpion accident smoke shift copy nation benefit river symbol empower glare";
+var mnemonic = "hotel silver awkward arrive robust actor can ridge aerobic bird bamboo tray";

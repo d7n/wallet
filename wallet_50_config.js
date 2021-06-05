@@ -1,1 +1,1 @@
-var mnemonic = "drive already verb infant explain demise fiber hat clay copper couple glance";
+var mnemonic = "panic pride toy letter genuine force laugh inmate window input need odor";

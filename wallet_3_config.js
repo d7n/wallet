@@ -1,1 +1,1 @@
-var mnemonic = "silk two rib snack relax myth feed amused plug weird novel bargain";
+var mnemonic = "ill stove wagon year exist medal test bronze spice ordinary vital ride";

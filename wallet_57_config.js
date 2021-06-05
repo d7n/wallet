@@ -1,1 +1,1 @@
-var mnemonic = "token steel seat upper squeeze patient rally artwork juice boring act foster";
+var mnemonic = "apart cash stomach nominee toward tuition remain unveil piece build train syrup";

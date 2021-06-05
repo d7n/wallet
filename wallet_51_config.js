@@ -1,1 +1,1 @@
-var mnemonic = "nest dice cruel wonder orchard child mandate manual diagram identify cushion machine";
+var mnemonic = "quick one have review crystal novel camera capable video purpose ginger clever";

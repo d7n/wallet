@@ -1,1 +1,1 @@
-var mnemonic = "valley brief giant loop until arctic uniform rural recycle police diary hip";
+var mnemonic = "fossil replace city egg festival giraffe stairs awake tired law game usage";

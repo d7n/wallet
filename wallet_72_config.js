@@ -1,1 +1,1 @@
-var mnemonic = "pull assume need example resist material dutch hybrid layer shop skull indicate";
+var mnemonic = "travel run buyer mansion prefer owner will fence scorpion sentence bag enter";

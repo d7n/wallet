@@ -1,1 +1,1 @@
-var mnemonic = "initial catch loud brass solar miss purchase carry soccer cry tilt increase";
+var mnemonic = "shadow spy world great menu boy pole heavy arrow short orient giggle";

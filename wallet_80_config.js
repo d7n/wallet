@@ -1,1 +1,1 @@
-var mnemonic = "grid almost journey sock yard maximum board rib laptop fragile cook potato";
+var mnemonic = "chest submit nurse butter property shadow next nothing skill output harsh body";

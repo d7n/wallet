@@ -1,1 +1,1 @@
-var mnemonic = "egg mosquito adjust spoon upgrade rough appear kiwi either please wrist diesel";
+var mnemonic = "rural describe carry siren undo thought diagram recall rely helmet surprise zero";

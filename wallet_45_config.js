@@ -1,1 +1,1 @@
-var mnemonic = "normal actor grab trick give crystal pass switch print prefer setup miracle";
+var mnemonic = "offer tide cannon drift buzz turtle umbrella gift cruise volume anger uncle";

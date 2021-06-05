@@ -1,1 +1,1 @@
-var mnemonic = "exercise ostrich under evolve nurse best lunar sorry initial feed excite inspire";
+var mnemonic = "employ trash enact violin true engage slow magic deliver liar drama puppy";

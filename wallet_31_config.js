@@ -1,1 +1,1 @@
-var mnemonic = "cube smile tourist assist tilt faint master trip fish alley atom blouse";
+var mnemonic = "clerk expire puzzle vessel great tired brief bounce debris tail region dirt";

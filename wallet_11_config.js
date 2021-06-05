@@ -1,1 +1,1 @@
-var mnemonic = "wrap squirrel symbol fade gown pigeon emotion aim lend wave clip sort";
+var mnemonic = "argue bridge jeans smooth light simple nasty horse clarify unable casual urge";

@@ -1,1 +1,1 @@
-var mnemonic = "misery banana lazy dragon easily shell duck eternal thought extra reduce whale";
+var mnemonic = "once glad couch armor flat bottom junk tomato announce lounge drink autumn";

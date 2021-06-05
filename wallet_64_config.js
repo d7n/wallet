@@ -1,1 +1,1 @@
-var mnemonic = "input popular milk brief happy gain donate icon similar impose notice million";
+var mnemonic = "rally foster garlic federal gain pig taxi rule know diary begin seven";

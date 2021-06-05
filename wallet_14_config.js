@@ -1,1 +1,1 @@
-var mnemonic = "blood before maple refuse napkin leaf secret ocean bachelor fat carbon gate";
+var mnemonic = "century file cram poverty step zoo plastic inspire wonder grant fall hen";

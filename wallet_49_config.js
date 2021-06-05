@@ -1,1 +1,1 @@
-var mnemonic = "able useless access run tomato neck excuse salt worth panther alert title";
+var mnemonic = "faint shine cash robust advice sample portion morning orchard avocado pledge trade";

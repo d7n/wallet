@@ -1,1 +1,1 @@
-var mnemonic = "fall stumble label dragon flower few bar angle side chuckle renew evoke";
+var mnemonic = "portion safe oven endless cluster shine manage sleep enhance legal blue say";

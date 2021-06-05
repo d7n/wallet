@@ -1,1 +1,1 @@
-var mnemonic = "much ensure kangaroo rib meadow salad ignore cancel review drink edit peace";
+var mnemonic = "above remind enter pretty raw high step ostrich record risk avoid emotion";

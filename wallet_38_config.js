@@ -1,1 +1,1 @@
-var mnemonic = "door dismiss dinosaur effort vacant office gasp eager heavy capable critic sunny";
+var mnemonic = "purpose head cotton buddy album purpose pilot actual wrestle license because atom";

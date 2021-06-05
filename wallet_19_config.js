@@ -1,1 +1,1 @@
-var mnemonic = "bleak audit accuse measure taste daughter shrug lobster topic wonder pause belt";
+var mnemonic = "kangaroo cruise pair sadness decorate immune hand together sniff nuclear purse scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew drive critic soon skull range goddess couch delay jewel sea fly";
+var mnemonic = "love ladder record believe cherry before maximum account series into mammal coffee";

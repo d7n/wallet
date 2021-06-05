@@ -1,1 +1,1 @@
-var mnemonic = "pulp boss correct major armed scout thunder marble add stable toy emotion";
+var mnemonic = "okay cargo subject science drip hard noodle member alley bridge taste glass";

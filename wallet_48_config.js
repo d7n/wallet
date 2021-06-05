@@ -1,1 +1,1 @@
-var mnemonic = "record warfare lunch little auction roof brisk million proof squeeze awkward please";
+var mnemonic = "poet wheel echo edit lend that slogan cube sketch family choice sudden";

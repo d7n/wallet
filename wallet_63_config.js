@@ -1,1 +1,1 @@
-var mnemonic = "manage bike lunar dutch across chalk hope erase public captain enjoy grape";
+var mnemonic = "alter render size around album kick surprise hunt horn apple produce case";

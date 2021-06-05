@@ -1,1 +1,1 @@
-var mnemonic = "sure nest deputy omit stone shaft door now daughter embark onion minor";
+var mnemonic = "conduct crash post peace pizza top uncover lamp decade fire vault slot";

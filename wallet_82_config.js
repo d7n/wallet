@@ -1,1 +1,1 @@
-var mnemonic = "step truck actual aunt unhappy section hazard frown moral enlist reform subject";
+var mnemonic = "guitar glance soap smart juice impact before junior trick royal wood question";

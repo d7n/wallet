@@ -1,1 +1,1 @@
-var mnemonic = "leg seat mushroom school agent version knee atom moral digital input enhance";
+var mnemonic = "agent color proud rack fan wall keep cake hour summer action produce";

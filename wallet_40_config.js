@@ -1,1 +1,1 @@
-var mnemonic = "legal job build hobby benefit cement teach despair wealth method learn work";
+var mnemonic = "issue draft tobacco ketchup road banana genuine tomorrow vendor beyond adapt move";

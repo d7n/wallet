@@ -1,1 +1,1 @@
-var mnemonic = "quarter damp vacant live airport danger survey crew parent october reform number";
+var mnemonic = "trap double calm cram fresh wear leader leisure click pull coyote wrist";

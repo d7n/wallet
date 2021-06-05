@@ -1,1 +1,1 @@
-var mnemonic = "zero toilet fruit where visual spatial obscure trick still reduce material embark";
+var mnemonic = "repeat achieve tired margin visual pride easily hundred nerve duck census decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct future game erase jazz burden ripple random laundry neglect any stick";
+var mnemonic = "ice bitter swear direct afford sniff scrap primary orphan web sister census";

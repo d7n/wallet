@@ -1,1 +1,1 @@
-var mnemonic = "fossil all blast honey alone essay game text stadium ancient fix ugly";
+var mnemonic = "faith traffic clarify crane rookie cargo call correct leg cook cruel supply";

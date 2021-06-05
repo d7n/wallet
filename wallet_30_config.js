@@ -1,1 +1,1 @@
-var mnemonic = "elite cereal maximum ghost pear question sketch negative yellow humor spring defense";
+var mnemonic = "hammer hedgehog find knock coconut decide crumble update illness bar river person";

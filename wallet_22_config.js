@@ -1,1 +1,1 @@
-var mnemonic = "foster swing gold zone mad want defense casual current rebel maze manual";
+var mnemonic = "between unable person february narrow choice wild letter inner drip manual broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "upper river verify wave crawl auto reflect cannon pig trigger genre enforce";
+var mnemonic = "breeze custom tattoo neither aunt uncle lift snap hockey rough nephew brand";

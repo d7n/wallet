@@ -1,1 +1,1 @@
-var mnemonic = "another image satoshi where caution choice much pizza spend foam mandate adult";
+var mnemonic = "table festival illegal bomb crawl hawk lady decide effort shoe next aspect";

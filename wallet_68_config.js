@@ -1,1 +1,1 @@
-var mnemonic = "among dignity toe kiss punch toe wash garlic decrease damp chicken hill";
+var mnemonic = "head depth science lottery demise under parrot gallery provide pistol scissors boss";

@@ -1,1 +1,1 @@
-var mnemonic = "myth attack convince company flight short boy short vessel private series width";
+var mnemonic = "scare giraffe globe fuel antenna bronze wheel firm ask buffalo cage absent";

@@ -1,1 +1,1 @@
-var mnemonic = "shell oil smooth matter field uniform scan relief just lesson what upper";
+var mnemonic = "truck ski survey turtle heavy cart margin subject air island lonely exile";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet unhappy survey meadow dynamic online unique army approve silly venue slice";
+var mnemonic = "artefact cattle bright quality coil supply awful slam then rabbit muffin core";

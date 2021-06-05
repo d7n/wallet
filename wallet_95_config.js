@@ -1,1 +1,1 @@
-var mnemonic = "strategy invest license palace result aim suggest knee wrist arrange cherry decline";
+var mnemonic = "flock lab tooth mechanic clump horse egg royal ketchup victory argue better";

@@ -1,1 +1,1 @@
-var mnemonic = "assume prepare bulk object eager trophy rely term churn that power box";
+var mnemonic = "sail crop excite sure member board across endorse hand knee fame text";

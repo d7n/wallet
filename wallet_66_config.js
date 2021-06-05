@@ -1,1 +1,1 @@
-var mnemonic = "stomach accident inject way more innocent helmet still gloom prize pig beauty";
+var mnemonic = "credit chuckle link december unfold trumpet board ball when ginger cousin will";

@@ -1,1 +1,1 @@
-var mnemonic = "grape achieve kind trim word nephew yellow spirit ahead arena inherit south";
+var mnemonic = "beyond option width pen have visa armed into valley father clip script";

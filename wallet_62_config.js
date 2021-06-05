@@ -1,1 +1,1 @@
-var mnemonic = "vicious chest small danger sketch domain original maid permit swarm oblige casino";
+var mnemonic = "evil spawn purpose fresh just ask cliff visa enroll valve valid twin";

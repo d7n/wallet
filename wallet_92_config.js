@@ -1,1 +1,1 @@
-var mnemonic = "increase memory inside top frequent someone jar drum level rely stadium absurd";
+var mnemonic = "arctic tonight fuel include future debate bulb garbage toy prison conduct limb";

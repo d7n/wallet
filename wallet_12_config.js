@@ -1,1 +1,1 @@
-var mnemonic = "child frost midnight reason ball waste curious turkey iron action raise wife";
+var mnemonic = "case novel join model armor scissors cook bullet soup sunny lottery afraid";

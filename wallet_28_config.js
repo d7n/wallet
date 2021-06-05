@@ -1,1 +1,1 @@
-var mnemonic = "cover later act dinosaur album exclude priority pepper amount lady whip pledge";
+var mnemonic = "galaxy text maze tell arena load arrow more alter govern stairs south";

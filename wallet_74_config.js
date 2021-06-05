@@ -1,1 +1,1 @@
-var mnemonic = "actual pattern smoke panther cave cousin cricket burden donate flavor subway reason";
+var mnemonic = "echo client brother comic sea infant rally subject vapor spray similar rally";

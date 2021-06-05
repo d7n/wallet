@@ -1,1 +1,1 @@
-var mnemonic = "tray alcohol trap pigeon stay prefer room frequent sudden busy they bleak";
+var mnemonic = "toward phrase best dry cause process move expect absorb lab siren display";

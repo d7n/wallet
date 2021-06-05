@@ -1,1 +1,1 @@
-var mnemonic = "same rib title climb lonely fiscal credit vapor still arrest cycle orange";
+var mnemonic = "replace pledge win question snack champion high amused strategy before royal sound";

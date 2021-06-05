@@ -1,1 +1,1 @@
-var mnemonic = "jungle person unfold quarter alpha mutual desert bleak letter review rain height";
+var mnemonic = "disorder eight fashion ability oil flee fat garden issue soon pony pause";

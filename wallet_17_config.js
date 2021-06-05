@@ -1,1 +1,1 @@
-var mnemonic = "blood task aunt main multiply nut behave author because panel daughter negative";
+var mnemonic = "super talent egg business merge same ice enroll weasel ticket aspect advice";

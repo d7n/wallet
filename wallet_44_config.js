@@ -1,1 +1,1 @@
-var mnemonic = "route enforce floor nest weekend initial nothing credit green awful miracle primary";
+var mnemonic = "they provide soccer multiply salad gap fever exchange quarter maximum onion inhale";

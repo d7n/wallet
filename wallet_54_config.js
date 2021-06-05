@@ -1,1 +1,1 @@
-var mnemonic = "demand manual stereo domain audit damage nation misery sad market mixed car";
+var mnemonic = "casino close warm want idea bronze parent south act nation quantum hollow";

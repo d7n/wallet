@@ -1,1 +1,1 @@
-var mnemonic = "symbol puzzle pyramid decide island craft poet globe include lend bullet rose";
+var mnemonic = "improve supreme vacant guilt capable amount high lawn eternal ancient close renew";

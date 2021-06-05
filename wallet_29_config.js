@@ -1,1 +1,1 @@
-var mnemonic = "weasel select turtle sunny donkey one crucial open permit shuffle urge emotion";
+var mnemonic = "pass visit thrive document mountain cause talk eternal close light work knee";

@@ -1,1 +1,1 @@
-var mnemonic = "glove much foil impact noise chaos pilot report direct salute quick clump";
+var mnemonic = "item possible answer retreat federal honey bread bike brick panic amused seven";

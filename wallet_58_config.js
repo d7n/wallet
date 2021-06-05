@@ -1,1 +1,1 @@
-var mnemonic = "affair doctor what blast supply cube cook civil planet mail grief wall";
+var mnemonic = "hole foster split steak report pear layer noodle quick cup walnut cake";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk skirt record maple laptop upon arrange truth crowd bar top cube";
+var mnemonic = "poet seven peace mention earn borrow guard hello payment woman connect stable";

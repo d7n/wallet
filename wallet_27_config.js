@@ -1,1 +1,1 @@
-var mnemonic = "virtual time shift size urge giggle cart gaze twelve art praise rug";
+var mnemonic = "cotton more gate boy enjoy enjoy apart ice prepare beach veteran shadow";

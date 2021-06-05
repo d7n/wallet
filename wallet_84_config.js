@@ -1,1 +1,1 @@
-var mnemonic = "shaft liquid range benefit negative bitter fetch arena shiver stairs notable goose";
+var mnemonic = "patrol path nature mobile exact fossil awesome blue hello multiply weapon actor";

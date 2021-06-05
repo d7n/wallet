@@ -1,1 +1,1 @@
-var mnemonic = "shaft trend bar transfer increase blossom used heavy pitch marine wheat draw";
+var mnemonic = "say very bomb cash tool crazy sentence detail mountain hundred toss juice";

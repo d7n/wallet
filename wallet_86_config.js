@@ -1,1 +1,1 @@
-var mnemonic = "excuse crazy feed scrap bird remove planet pencil loud until ecology clinic";
+var mnemonic = "guide daughter harvest cook coin rocket pupil dream country chief company click";

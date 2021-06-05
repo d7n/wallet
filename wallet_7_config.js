@@ -1,1 +1,1 @@
-var mnemonic = "parrot good lock duck addict soft squirrel satisfy easy slush town they";
+var mnemonic = "rally work job salt grow require harvest weather charge wasp core dust";

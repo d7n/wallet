@@ -1,1 +1,1 @@
-var mnemonic = "cupboard recall era day spell round undo pupil curious cover any steel";
+var mnemonic = "tired evil across leader tomato solid advice desk eight buyer hold tone";

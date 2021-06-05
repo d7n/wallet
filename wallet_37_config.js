@@ -1,1 +1,1 @@
-var mnemonic = "health prosper taxi like embrace youth wine crawl judge cup use dwarf";
+var mnemonic = "board gasp bus limb atom truly domain crane welcome all pepper tourist";

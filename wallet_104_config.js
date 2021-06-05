@@ -1,1 +1,1 @@
-var mnemonic = "carry crouch dirt twenty leaf minimum scorpion fire acoustic uncle erode dignity";
+var mnemonic = "surge latin alpha unknown hero lawsuit tuna brief stone rifle pet broken";

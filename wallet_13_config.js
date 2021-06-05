@@ -1,1 +1,1 @@
-var mnemonic = "legal note script stamp dynamic balcony present hybrid rebel giggle win maximum";
+var mnemonic = "school village amused dune kidney maple that wage enhance escape swap spell";

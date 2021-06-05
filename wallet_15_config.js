@@ -1,1 +1,1 @@
-var mnemonic = "return trick swing where spot smoke rigid play slide split engage pill";
+var mnemonic = "canal nuclear over spray glory swear young problem trip moment ladder caution";
