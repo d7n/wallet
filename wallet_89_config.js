@@ -1,1 +1,1 @@
-var mnemonic = "tray coast silver mountain size section opinion forest wrap siren crucial response";
+var mnemonic = "jelly cube awful twist supply zone muffin join cloth occur topple expand";

@@ -1,1 +1,1 @@
-var mnemonic = "park slot myth blade language tortoise burden arctic inch resist soup certain";
+var mnemonic = "sunset orchard core left stuff edge sphere subway nominee divorce sand lady";

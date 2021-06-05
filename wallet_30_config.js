@@ -1,1 +1,1 @@
-var mnemonic = "purity festival tool october horse laugh under chalk suit dream cricket blanket";
+var mnemonic = "farm coach repair air record century peace birth auto blood drum train";

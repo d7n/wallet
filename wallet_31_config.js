@@ -1,1 +1,1 @@
-var mnemonic = "clutch glass supreme skin height outside rack scout rebuild habit obscure assume";
+var mnemonic = "melt layer advance hurt flee music welcome fantasy myth swear clog salt";

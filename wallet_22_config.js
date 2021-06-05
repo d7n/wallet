@@ -1,1 +1,1 @@
-var mnemonic = "column arrest grow electric usage arctic swing piano trouble right pattern merry";
+var mnemonic = "glare usual uncover foam width mercy quarter exact arrow excite first trash";

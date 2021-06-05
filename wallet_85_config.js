@@ -1,1 +1,1 @@
-var mnemonic = "enlist riot asset apple vote afraid hub fluid carbon merry oyster belt";
+var mnemonic = "resist roast draw husband glove ghost shield stand coral flavor labor drastic";

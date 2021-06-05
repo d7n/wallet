@@ -1,1 +1,1 @@
-var mnemonic = "scare essay run flee bracket security ivory suffer smoke small extra labor";
+var mnemonic = "snow salt spray level trap oil episode plastic lecture poverty gate belt";

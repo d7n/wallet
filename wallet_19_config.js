@@ -1,1 +1,1 @@
-var mnemonic = "cactus again gentle husband chuckle ankle energy birth nominee hover rather bulk";
+var mnemonic = "surface false bus believe year federal artefact diamond rhythm erase sell paper";

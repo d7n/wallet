@@ -1,1 +1,1 @@
-var mnemonic = "turkey canal speed latin chair fetch suspect label horror humor three remind";
+var mnemonic = "hip matter program cherry cable educate prefer height peanut depend project half";

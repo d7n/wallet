@@ -1,1 +1,1 @@
-var mnemonic = "chest debris equal snake push online anxiety luxury series castle ocean airport";
+var mnemonic = "negative economy suggest layer swim rifle bulk shaft clerk carbon comfort pass";

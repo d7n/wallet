@@ -1,1 +1,1 @@
-var mnemonic = "end grass jelly taste perfect hub pull piano praise typical promote bomb";
+var mnemonic = "glimpse museum entire wonder deal attract wall state clinic image wine pledge";

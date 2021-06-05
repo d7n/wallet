@@ -1,1 +1,1 @@
-var mnemonic = "produce night matrix smile hybrid length road course slot civil siege artefact";
+var mnemonic = "breeze churn notice appear wine curve hidden height say festival melt upset";

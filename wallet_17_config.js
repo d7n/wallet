@@ -1,1 +1,1 @@
-var mnemonic = "simple glue peace route wheel wool toy wash used someone judge private";
+var mnemonic = "point spin hire quality easily virus fade rival will tunnel around install";

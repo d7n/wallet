@@ -1,1 +1,1 @@
-var mnemonic = "zero omit spatial warm rural green eight equal patient code mushroom rose";
+var mnemonic = "about element whale potato lava album potato deny battle host weather trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "force embody pigeon guide divert join expand any person awesome easily twin";
+var mnemonic = "shallow beach pupil exotic initial number gorilla road wreck deal frog sugar";

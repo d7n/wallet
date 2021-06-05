@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo door kidney same catalog mind property decade rebel retire artist wet";
+var mnemonic = "display flash business maximum grant face hope vacant brave bulb barrel album";

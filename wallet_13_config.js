@@ -1,1 +1,1 @@
-var mnemonic = "state merry pupil same disease option receive benefit alert enable pigeon voice";
+var mnemonic = "require elevator flat tomorrow bid remove lunch walk tongue staff know enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "age board fly zero box winter lab garden sustain omit attack joke";
+var mnemonic = "universe pyramid toss man dial amused elbow clog decide couple elevator moral";

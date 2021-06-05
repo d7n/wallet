@@ -1,1 +1,1 @@
-var mnemonic = "length blind together recycle song pretty chief laundry churn ten south era";
+var mnemonic = "skin screen globe bachelor supply rail asset enlist position have clog shrug";

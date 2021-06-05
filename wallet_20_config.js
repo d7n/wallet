@@ -1,1 +1,1 @@
-var mnemonic = "drop below exile into estate board pulp vote east piano atom slight";
+var mnemonic = "vacant outdoor because frost electric fossil service beauty economy decrease list alter";

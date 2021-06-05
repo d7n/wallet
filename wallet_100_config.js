@@ -1,1 +1,1 @@
-var mnemonic = "science dinner chapter swallow situate canoe inch scan accuse protect cry wisdom";
+var mnemonic = "helmet display private point salt broccoli ship income rug worry retire leopard";

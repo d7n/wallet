@@ -1,1 +1,1 @@
-var mnemonic = "strong abuse foster pretty wage absent trim debris decrease bar hurry amount";
+var mnemonic = "answer man party pepper age poet display health garden umbrella company gravity";

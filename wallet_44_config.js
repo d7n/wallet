@@ -1,1 +1,1 @@
-var mnemonic = "violin receive tennis tuna school leaf jacket step twin cream pottery task";
+var mnemonic = "express impulse inquiry mom airport accuse bind vacuum flash urban pill portion";

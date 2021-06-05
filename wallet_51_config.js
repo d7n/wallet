@@ -1,1 +1,1 @@
-var mnemonic = "busy welcome stove debate enter employ head radar gesture salt among lava";
+var mnemonic = "need idea finger panel close document fold general depth motion acquire soul";

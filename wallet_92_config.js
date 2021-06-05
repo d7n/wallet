@@ -1,1 +1,1 @@
-var mnemonic = "ill business skate expose since side heavy wet crazy fluid claim sniff";
+var mnemonic = "gossip cook lobster narrow close acid place rally spray virus other process";

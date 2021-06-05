@@ -1,1 +1,1 @@
-var mnemonic = "rain forward quality buffalo brown involve inside around night salt park inject";
+var mnemonic = "jaguar task prosper warrior elevator basic stay reduce bright expose giraffe crunch";

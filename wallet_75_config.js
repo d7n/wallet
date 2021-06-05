@@ -1,1 +1,1 @@
-var mnemonic = "assist picture equip clutch off beach else luggage author hat because disorder";
+var mnemonic = "wear game script rifle slight drastic drink suffer own normal scheme remember";

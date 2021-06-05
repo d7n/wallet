@@ -1,1 +1,1 @@
-var mnemonic = "lamp nest year oven vivid edge pudding nothing polar similar cement job";
+var mnemonic = "useless foster gadget unfold hen inflict jar runway dumb rely saddle belt";

@@ -1,1 +1,1 @@
-var mnemonic = "crash recycle dwarf man fun erase owner token setup drip stem sun";
+var mnemonic = "report rule fringe hill sniff century canyon rural erupt connect reopen palace";

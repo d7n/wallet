@@ -1,1 +1,1 @@
-var mnemonic = "choose primary super coil length hunt category harvest attack toy private wet";
+var mnemonic = "thank swear exotic issue kit thumb hair early thrive cheese service olympic";

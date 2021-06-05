@@ -1,1 +1,1 @@
-var mnemonic = "raven gown early bundle hire nominee guard snap artist teach great guide";
+var mnemonic = "ride write aunt insane monster bunker junk lava fun wink sound congress";

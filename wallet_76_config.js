@@ -1,1 +1,1 @@
-var mnemonic = "donor hamster certain fancy exhibit task lobster hundred search nothing daring crush";
+var mnemonic = "hamster crush erode allow mule year barely circle tackle curtain dream practice";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus detail pelican mushroom ozone decline survey supreme foil maze visit exhibit";
+var mnemonic = "lucky recycle comic husband sentence extra outer obey quiz garage cement uphold";

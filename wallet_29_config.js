@@ -1,1 +1,1 @@
-var mnemonic = "label horn hover kiss cram forest meat fat chief result clump kangaroo";
+var mnemonic = "bargain chicken galaxy example edit knock wine predict era void teach height";

@@ -1,1 +1,1 @@
-var mnemonic = "draft right junior sheriff luggage picnic join update number scale circle spawn";
+var mnemonic = "write crater boost wolf velvet brisk shoe sadness merit chronic exhibit bean";

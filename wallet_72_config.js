@@ -1,1 +1,1 @@
-var mnemonic = "reason hurdle torch side during large fold addict stick combine depth chief";
+var mnemonic = "library calm pig fancy digital spawn tackle regular athlete vibrant lecture suffer";

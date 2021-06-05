@@ -1,1 +1,1 @@
-var mnemonic = "divorce uncle rhythm ginger credit rookie movie claim pony lend asthma toward";
+var mnemonic = "tower rabbit strategy local swamp resist device bachelor radio federal else mandate";

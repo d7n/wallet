@@ -1,1 +1,1 @@
-var mnemonic = "abuse food harsh skirt mesh tip bachelor equal poverty forum north pluck";
+var mnemonic = "define promote recycle hedgehog proud damp fruit twist bullet memory ugly powder";

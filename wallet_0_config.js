@@ -1,1 +1,1 @@
-var mnemonic = "badge spell game impulse note swallow output cotton pet dress survey disagree";
+var mnemonic = "odor kiss eagle maple vapor pluck okay social around suggest nice gun";

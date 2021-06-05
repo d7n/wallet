@@ -1,1 +1,1 @@
-var mnemonic = "hero dinner among double laundry curtain describe orchard ability inhale raw miss";
+var mnemonic = "crouch real age balcony crush cake false employ master goddess priority kite";

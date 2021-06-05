@@ -1,1 +1,1 @@
-var mnemonic = "latin lunch angle lesson insect deputy message royal wife quarter response accident";
+var mnemonic = "opinion travel reflect pretty mean detail wave wink bless denial caution fish";

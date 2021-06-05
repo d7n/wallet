@@ -1,1 +1,1 @@
-var mnemonic = "cream rib trip race roast bomb box slush glide priority narrow decrease";
+var mnemonic = "ocean fine economy argue castle silly shell miss market fossil toss humor";

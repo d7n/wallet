@@ -1,1 +1,1 @@
-var mnemonic = "galaxy stable slender clog ugly turkey version manual retire tobacco domain satisfy";
+var mnemonic = "motion utility cricket orchard expand provide pudding inflict pudding give daring shoulder";

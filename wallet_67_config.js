@@ -1,1 +1,1 @@
-var mnemonic = "law stable expect joke dwarf guide divorce churn desk urge edit cram";
+var mnemonic = "have plug palm gold sun steak party planet engage giraffe attitude laugh";

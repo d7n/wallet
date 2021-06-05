@@ -1,1 +1,1 @@
-var mnemonic = "spirit popular violin lonely fiber scrap snake drum cannon dance fat valve";
+var mnemonic = "output exhibit twelve current recall dune elite spider burst cattle cabin target";

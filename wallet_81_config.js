@@ -1,1 +1,1 @@
-var mnemonic = "liberty mammal open carpet artefact demise predict very vehicle secret glow twenty";
+var mnemonic = "announce tomato funny indoor during hospital weekend catch funny current start hunt";

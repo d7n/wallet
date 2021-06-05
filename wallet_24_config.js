@@ -1,1 +1,1 @@
-var mnemonic = "remember lobster beyond burst asset purity proud debris mesh chief cancel cube";
+var mnemonic = "ancient stable concert baby wash sail hedgehog then lava until melt eager";

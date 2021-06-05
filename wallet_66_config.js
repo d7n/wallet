@@ -1,1 +1,1 @@
-var mnemonic = "vintage bless eager thought trick monster rigid machine lyrics hamster sleep depend";
+var mnemonic = "chalk hurdle sunset swap check brisk abstract project wolf engine twelve fatigue";

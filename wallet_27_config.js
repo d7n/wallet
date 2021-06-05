@@ -1,1 +1,1 @@
-var mnemonic = "earth trim gain supply object myth drip mushroom aerobic never video dog";
+var mnemonic = "easy easily punch peace slogan above swallow silk wealth transfer source child";

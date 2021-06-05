@@ -1,1 +1,1 @@
-var mnemonic = "shoe can pretty inmate tone blur bag dash canvas shed opera soccer";
+var mnemonic = "practice goose dolphin visit brisk path pledge mansion siren inherit cram outer";

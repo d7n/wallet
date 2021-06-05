@@ -1,1 +1,1 @@
-var mnemonic = "fly tower key jewel settle nice giggle matter daughter roof violin saddle";
+var mnemonic = "soft task print wet game drink diet drink game demand design chicken";

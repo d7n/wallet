@@ -1,1 +1,1 @@
-var mnemonic = "cable nerve book gain struggle fork trick nominee option afraid rough other";
+var mnemonic = "casual endorse major skill budget lemon together canal cute winter rail board";

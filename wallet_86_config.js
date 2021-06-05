@@ -1,1 +1,1 @@
-var mnemonic = "name scene seek gaze coyote cage chef meadow media secret vague album";
+var mnemonic = "predict uphold segment merit siege praise pilot crisp beach monitor uncover rare";

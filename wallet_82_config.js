@@ -1,1 +1,1 @@
-var mnemonic = "any hobby cargo marine rude kangaroo need shallow devote return audit forget";
+var mnemonic = "addict pelican city allow net enter guard liar shallow marriage wood donkey";

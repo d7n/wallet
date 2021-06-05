@@ -1,1 +1,1 @@
-var mnemonic = "achieve bomb surface addict elephant indicate acquire differ bag gain fat end";
+var mnemonic = "bag sibling enrich buzz daughter drive deal funny scrub notable venue month";

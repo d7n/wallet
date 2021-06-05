@@ -1,1 +1,1 @@
-var mnemonic = "eight slow error matter salute vibrant velvet corn crouch benefit bounce sting";
+var mnemonic = "recycle various move pill company frozen fork twenty describe million tongue earth";

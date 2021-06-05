@@ -1,1 +1,1 @@
-var mnemonic = "alien early bind link enact aunt profit yellow suggest bless camera pig";
+var mnemonic = "asthma good oil nominee spare enlist addict festival bleak head reform weasel";

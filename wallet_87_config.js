@@ -1,1 +1,1 @@
-var mnemonic = "analyst ice used reflect soap render walk over figure gun staff zoo";
+var mnemonic = "face merry tattoo noble plug depart future left pool oblige law element";

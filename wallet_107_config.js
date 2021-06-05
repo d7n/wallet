@@ -1,1 +1,1 @@
-var mnemonic = "cheap flag thumb bright great must ill equip equal weekend style until";
+var mnemonic = "scheme general enhance lens ancient dash near question soap there leader style";

@@ -1,1 +1,1 @@
-var mnemonic = "deal stone gloom siren thank asthma warm orphan brown risk column stay";
+var mnemonic = "treat horse cost shield club half velvet birth because rack scale concert";

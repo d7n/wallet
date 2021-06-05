@@ -1,1 +1,1 @@
-var mnemonic = "tomato soda town vault crisp assist lake fan flat install prefer coil";
+var mnemonic = "smart trip judge mistake weapon aisle father glove keep lawn spy outside";

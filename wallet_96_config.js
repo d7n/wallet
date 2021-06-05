@@ -1,1 +1,1 @@
-var mnemonic = "cannon human measure ready giant mistake state duty afraid yellow bridge bone";
+var mnemonic = "ankle pass liquid snack lemon pattern coil wheat broken divide shop photo";

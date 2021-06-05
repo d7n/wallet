@@ -1,1 +1,1 @@
-var mnemonic = "monitor market wreck butter image left lock glad armor forest tray basic";
+var mnemonic = "feed exile embark jazz inquiry throw grace awkward quiz urge furnace garden";

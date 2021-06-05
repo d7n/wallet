@@ -1,1 +1,1 @@
-var mnemonic = "inform wet profit vacuum plug else develop civil awkward book rose eternal";
+var mnemonic = "bullet only cannon kangaroo brick pig simple until bunker undo critic symbol";

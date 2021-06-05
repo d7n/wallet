@@ -1,1 +1,1 @@
-var mnemonic = "danger leaf together travel ocean couch gown stool motion also group brass";
+var mnemonic = "educate august hospital claw decorate food weird glove tide auction post banana";

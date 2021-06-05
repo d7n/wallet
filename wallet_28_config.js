@@ -1,1 +1,1 @@
-var mnemonic = "police witness beyond depend phone stadium anchor acid token crucial enable salt";
+var mnemonic = "electric mix have dizzy tomato release oppose staff mammal type office hobby";

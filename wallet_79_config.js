@@ -1,1 +1,1 @@
-var mnemonic = "second hen cheap boat imitate scene syrup deal force chalk annual someone";
+var mnemonic = "super sword dutch tornado option head blue unfair enlist steel utility cupboard";

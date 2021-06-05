@@ -1,1 +1,1 @@
-var mnemonic = "target ocean wheat blanket river clip punch tattoo raw name cupboard disease";
+var mnemonic = "blind wood visual often chase shift ethics source ladder more start float";

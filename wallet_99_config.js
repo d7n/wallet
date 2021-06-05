@@ -1,1 +1,1 @@
-var mnemonic = "domain country sketch immense grace cricket slice great believe photo doll receive";
+var mnemonic = "squeeze sound bargain shoe either opinion acquire woman pioneer faith rescue smart";

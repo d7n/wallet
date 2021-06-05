@@ -1,1 +1,1 @@
-var mnemonic = "smart ethics fine athlete useful journey seminar virtual kid flame heart devote";
+var mnemonic = "couple crucial deal lion lonely clerk wood pact brain view island mirror";

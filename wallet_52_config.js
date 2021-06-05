@@ -1,1 +1,1 @@
-var mnemonic = "elevator digital burden section team script snow wish ski alien dry tiny";
+var mnemonic = "magic rookie begin hotel bomb ensure model feel drip gown utility unlock";

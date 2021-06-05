@@ -1,1 +1,1 @@
-var mnemonic = "execute pipe image decade maze member sock extend assume joy zero faith";
+var mnemonic = "delay twelve affair year canyon stadium biology trick dad erupt axis benefit";

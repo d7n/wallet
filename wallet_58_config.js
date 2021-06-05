@@ -1,1 +1,1 @@
-var mnemonic = "afraid congress cash trophy inflict ivory method space end notable faculty basket";
+var mnemonic = "planet swarm fuel exit slogan retreat first floor tourist dial job icon";

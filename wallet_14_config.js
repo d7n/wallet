@@ -1,1 +1,1 @@
-var mnemonic = "ozone canvas powder relief tree filter shallow elegant lumber then photo average";
+var mnemonic = "ship orchard final peanut clever gloom hard grunt moon episode flame guess";

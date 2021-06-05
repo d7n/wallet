@@ -1,1 +1,1 @@
-var mnemonic = "post whisper eager luggage same metal excuse general display antenna conduct clown";
+var mnemonic = "spider slot forget over saddle erode design sword used soft captain taxi";

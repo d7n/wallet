@@ -1,1 +1,1 @@
-var mnemonic = "table offer shoot mail oblige leave wagon victory wreck sheriff habit once";
+var mnemonic = "giggle group whisper demand hero cabin present dress glove enter leader face";

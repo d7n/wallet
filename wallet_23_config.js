@@ -1,1 +1,1 @@
-var mnemonic = "jelly pluck wave ladder next topic creek enjoy error scan run trend";
+var mnemonic = "text three belt leave harsh coach fluid true pipe eight tragic trick";

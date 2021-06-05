@@ -1,1 +1,1 @@
-var mnemonic = "regret build barrel save attack hand promote there one sting supply detail";
+var mnemonic = "interest tilt film bronze wonder advance decade chalk helmet demand smart dust";

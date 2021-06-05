@@ -1,1 +1,1 @@
-var mnemonic = "ivory avoid child clap debate slot dentist marine entire message shell regular";
+var mnemonic = "blanket fluid topic hood response also aware glow mistake cactus patient panther";

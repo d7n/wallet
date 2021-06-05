@@ -1,1 +1,1 @@
-var mnemonic = "smile carpet mystery viable dolphin venture educate prefer february man slice snack";
+var mnemonic = "manage panic fade rack enact also grid paper lazy feed mercy rookie";

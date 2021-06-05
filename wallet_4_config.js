@@ -1,1 +1,1 @@
-var mnemonic = "paddle quarter ripple balance receive coast replace sick clever proud traffic unusual";
+var mnemonic = "dish defy language dust resist salmon canal artefact deposit island clip frame";

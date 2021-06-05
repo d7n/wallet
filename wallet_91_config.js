@@ -1,1 +1,1 @@
-var mnemonic = "boss gallery team congress spell loyal luggage hint faculty arrow cereal funny";
+var mnemonic = "tomato turkey marble welcome mutual engage story zone catalog orphan mouse belt";

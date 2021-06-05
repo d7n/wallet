@@ -1,1 +1,1 @@
-var mnemonic = "tail adult rebel use pluck process young more border boss prison absent";
+var mnemonic = "captain sorry decide rich list fold stuff heavy multiply tent february habit";

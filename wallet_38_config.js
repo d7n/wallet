@@ -1,1 +1,1 @@
-var mnemonic = "dry diamond method neither okay sauce fold cousin meat today choice tilt";
+var mnemonic = "skirt empower visual dolphin mandate august awake sphere wheel tree citizen diamond";

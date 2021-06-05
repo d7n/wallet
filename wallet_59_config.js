@@ -1,1 +1,1 @@
-var mnemonic = "trap trap subject loyal orchard say fire damp hub disagree jar magnet";
+var mnemonic = "puzzle jungle ketchup post onion donor eyebrow follow club relax fringe soup";

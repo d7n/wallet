@@ -1,1 +1,1 @@
-var mnemonic = "blue stay pool parent play apart child modify rebuild monster ready advice";
+var mnemonic = "when funny wide link hollow skull apology because assault beach crisp radar";

@@ -1,1 +1,1 @@
-var mnemonic = "arena unveil armed poverty display oil dash govern castle develop ceiling grass";
+var mnemonic = "run want mountain step nose grace width upset trophy bless expand throw";

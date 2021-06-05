@@ -1,1 +1,1 @@
-var mnemonic = "coyote pepper general hawk pave uphold ten divorce net forward kid blue";
+var mnemonic = "erosion spring dolphin wait slide bargain gadget hurry army robot reward repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "fold almost despair convince permit fortune slot robust grow exhaust eager card";
+var mnemonic = "huge quality wet common tail adjust picture into put rival life link";

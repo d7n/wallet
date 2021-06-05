@@ -1,1 +1,1 @@
-var mnemonic = "session grant agree blame payment abuse text chuckle opera obey laugh marriage";
+var mnemonic = "select gun dwarf stomach cave swim polar grant stay creek deer over";

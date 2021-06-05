@@ -1,1 +1,1 @@
-var mnemonic = "blush worth chef calm group night tilt climb dwarf anger smart other";
+var mnemonic = "symbol blanket tag often nice catalog kit ball match picnic still month";

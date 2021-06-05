@@ -1,1 +1,1 @@
-var mnemonic = "volcano typical legend credit glad dance fix foot road clown fun slush";
+var mnemonic = "kid need market curtain know urban music vicious meadow bar neck comic";

@@ -1,1 +1,1 @@
-var mnemonic = "wood mirror scout load actress congress position film enroll curve noise swallow";
+var mnemonic = "round bunker limit when mistake unlock sort gentle worth hamster law language";

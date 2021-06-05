@@ -1,1 +1,1 @@
-var mnemonic = "float bottom mammal pulp episode wild sniff correct enforce motion shove urge";
+var mnemonic = "pledge guitar crunch husband split man moment seminar purity age please aunt";

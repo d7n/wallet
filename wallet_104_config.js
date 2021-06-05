@@ -1,1 +1,1 @@
-var mnemonic = "tragic clump sell draw talent spin priority own blind earth lesson wing";
+var mnemonic = "input antique demise edge country daughter decline loan grass cute rocket message";
