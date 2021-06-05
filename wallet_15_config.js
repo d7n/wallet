@@ -1,1 +1,1 @@
-var mnemonic = "wild manual ugly memory erupt trash inhale base endorse envelope pause country";
+var mnemonic = "bid nothing approve goose minimum debate during yellow amount piece pig toddler";

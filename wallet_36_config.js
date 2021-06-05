@@ -1,1 +1,1 @@
-var mnemonic = "illness what divide work train verify denial glue scheme jump annual waste";
+var mnemonic = "element romance silk scale food audit useless rib process priority sibling shadow";

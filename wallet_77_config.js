@@ -1,1 +1,1 @@
-var mnemonic = "novel upper stamp monitor organ permit maid tennis inner repair tunnel sail";
+var mnemonic = "enemy clog virus uncover drive catch tennis inform history rare friend lizard";

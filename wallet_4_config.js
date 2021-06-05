@@ -1,1 +1,1 @@
-var mnemonic = "jeans flower breeze taste jump sick broccoli expire inject oil case hold";
+var mnemonic = "dry attend false excess flat scale sudden flower pluck culture bus reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle sugar airport alley artefact genre culture ordinary author walk cube subject";
+var mnemonic = "key mad unknown solution possible churn put mule symptom media trumpet bottom";

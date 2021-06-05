@@ -1,1 +1,1 @@
-var mnemonic = "whale other glove devote rocket shield base follow tip nephew expect item";
+var mnemonic = "kite course family change path hidden exclude pause donkey wrap celery feed";

@@ -1,1 +1,1 @@
-var mnemonic = "priority scout above define history practice certain follow online secret lucky oblige";
+var mnemonic = "width differ maid apple pattern pen chapter when spray memory sand twin";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow wrist visa school inhale finger picture salmon tumble dragon essay plastic";
+var mnemonic = "dragon stairs resemble toss width social street repair pelican maid pretty trend";

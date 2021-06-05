@@ -1,1 +1,1 @@
-var mnemonic = "wire bright couch slush vast real phrase relax plastic street skirt gather";
+var mnemonic = "project nice enhance add need deer donate crouch dwarf embody spell antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "badge spoon candy grain since rally upon split spawn combine edit ivory";
+var mnemonic = "fatal paper struggle save impose panel rabbit depend rebuild forest roof patrol";

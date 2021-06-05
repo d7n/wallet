@@ -1,1 +1,1 @@
-var mnemonic = "grain middle spin tag bonus reflect space stay area rhythm afraid observe";
+var mnemonic = "mountain range duck opinion maze wine palm region rifle major envelope zone";

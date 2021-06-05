@@ -1,1 +1,1 @@
-var mnemonic = "critic crouch burst topple document black famous drama ice robot involve define";
+var mnemonic = "excite door drift solid blossom crime fall bike sad myself gown unfair";

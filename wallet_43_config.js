@@ -1,1 +1,1 @@
-var mnemonic = "pluck elevator allow inflict poverty enjoy unfair earth like globe very visual";
+var mnemonic = "renew vacuum drill pilot husband field embark sort help address debate glass";

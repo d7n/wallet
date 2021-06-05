@@ -1,1 +1,1 @@
-var mnemonic = "force fit direct trade spy measure pool sick magic inhale patch service";
+var mnemonic = "problem explain flee today base obtain rail tribe apart crack surface loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar present rabbit marble found ridge hunt skate rural pilot luggage grief";
+var mnemonic = "viable artist game pulse orange sort wisdom calm wear puppy tragic disorder";

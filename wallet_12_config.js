@@ -1,1 +1,1 @@
-var mnemonic = "minimum guess often engine term upper cattle sudden beauty humor attack junk";
+var mnemonic = "afford north catalog shoulder body dutch knock sister upper odor reform usage";

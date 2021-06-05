@@ -1,1 +1,1 @@
-var mnemonic = "wise produce symptom debate latin brick session fork hello party lend scheme";
+var mnemonic = "ship shoe ecology flat priority measure tennis decrease gate rack edit clap";

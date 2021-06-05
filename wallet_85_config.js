@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog illegal exhibit ripple person endless crack perfect ozone accuse visa shoulder";
+var mnemonic = "enroll badge dad problem effort mosquito slow multiply bring velvet scale jacket";

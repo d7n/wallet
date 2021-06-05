@@ -1,1 +1,1 @@
-var mnemonic = "inmate vehicle jungle code notice venture chef again laptop drift clerk hedgehog";
+var mnemonic = "report convince resist cause woman employ mushroom city insane permit sister zone";

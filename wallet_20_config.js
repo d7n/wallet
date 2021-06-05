@@ -1,1 +1,1 @@
-var mnemonic = "become cluster blossom nose net wood inherit talk ocean skin inside margin";
+var mnemonic = "square fatigue invest deny keen gospel cave shield tag zone bitter bundle";

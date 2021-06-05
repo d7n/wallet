@@ -1,1 +1,1 @@
-var mnemonic = "annual dirt faith observe bring basic hungry debate switch acoustic thunder whip";
+var mnemonic = "field chunk legal mean inside claw today direct moon void absent glide";

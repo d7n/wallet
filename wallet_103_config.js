@@ -1,1 +1,1 @@
-var mnemonic = "leave odor type wonder have erase afraid arena floor soldier egg vintage";
+var mnemonic = "author unlock glimpse fox release slam assume friend theory chronic pig office";

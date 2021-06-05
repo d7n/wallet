@@ -1,1 +1,1 @@
-var mnemonic = "tank decrease million genuine place proud girl wealth nut senior punch blood";
+var mnemonic = "soccer deal torch between emerge hamster table employ tissue wish minimum room";

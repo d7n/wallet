@@ -1,1 +1,1 @@
-var mnemonic = "satisfy lecture forest flash total orbit laundry sentence salute essay pool fly";
+var mnemonic = "dolphin chest bamboo intact monster width example love diet spend tent lift";

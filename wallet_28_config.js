@@ -1,1 +1,1 @@
-var mnemonic = "silent athlete barrel century obscure champion stumble boring that promote range baby";
+var mnemonic = "decrease comfort book need anchor romance stable copy large odor rhythm skirt";

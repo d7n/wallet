@@ -1,1 +1,1 @@
-var mnemonic = "trick acoustic clap garage capital road muscle fix unit cause public angry";
+var mnemonic = "front pledge juice urge battle erode abandon undo genre punch turtle slogan";

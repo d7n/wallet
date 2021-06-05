@@ -1,1 +1,1 @@
-var mnemonic = "wink crumble duty repair enact biology embark end still juice upper uphold";
+var mnemonic = "trap grab chronic sister vital fog feed method mention photo inhale material";

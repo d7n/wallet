@@ -1,1 +1,1 @@
-var mnemonic = "crush lawn unable small buffalo remember solid knife wave hero arch kangaroo";
+var mnemonic = "style swing asthma wink just cost denial forward achieve stumble assume cram";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony clean grocery rail say spray winner tilt mule unique frog husband";
+var mnemonic = "eager catch acid super mansion south suffer share catch jeans predict beauty";

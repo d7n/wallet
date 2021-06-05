@@ -1,1 +1,1 @@
-var mnemonic = "word donor alter split decide affair beyond gentle any absorb sell bring";
+var mnemonic = "veteran excess afraid under mouse airport uncover option spring game pole dose";

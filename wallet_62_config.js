@@ -1,1 +1,1 @@
-var mnemonic = "shuffle imitate forward old educate stumble alert enrich key mushroom obscure crisp";
+var mnemonic = "thank cage tilt session thank tortoise ready index annual tissue carpet sorry";

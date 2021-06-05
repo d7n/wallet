@@ -1,1 +1,1 @@
-var mnemonic = "sea screen canoe basic champion inspire check cup sport base lumber harvest";
+var mnemonic = "unique best shaft miracle spoil banana digital junior talent donor minute cargo";

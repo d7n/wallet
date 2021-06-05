@@ -1,1 +1,1 @@
-var mnemonic = "rely fence wisdom reopen upon outside beyond curve matrix hamster echo govern";
+var mnemonic = "virus retire ten click ketchup cereal champion vacant frog country smooth path";

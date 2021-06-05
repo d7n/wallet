@@ -1,1 +1,1 @@
-var mnemonic = "devote behind power fluid fuel nation venture artwork grace mammal reduce couch";
+var mnemonic = "scheme south column owner dish defy office glue accuse pyramid grow crazy";

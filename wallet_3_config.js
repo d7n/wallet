@@ -1,1 +1,1 @@
-var mnemonic = "record onion morning trade utility damp one gown envelope cinnamon spread appear";
+var mnemonic = "ship mix april usual there pigeon enlist antenna ceiling afraid amateur good";

@@ -1,1 +1,1 @@
-var mnemonic = "derive rack various manual found panther prison beef page ship universe system";
+var mnemonic = "trophy tray affair disagree bundle fury ostrich beach notable february mom wave";

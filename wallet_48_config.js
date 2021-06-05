@@ -1,1 +1,1 @@
-var mnemonic = "inherit honey giraffe flower tongue blur hamster admit unlock push occur abuse";
+var mnemonic = "make occur have panel aisle flash moon sense leader oblige boil neck";

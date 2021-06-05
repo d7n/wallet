@@ -1,1 +1,1 @@
-var mnemonic = "taxi outside cactus toward labor effort truth today elegant mixed stuff chat";
+var mnemonic = "stay supreme debate purse thought romance laptop slow outdoor hero tomato void";

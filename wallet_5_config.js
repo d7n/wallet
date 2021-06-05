@@ -1,1 +1,1 @@
-var mnemonic = "crucial raven desert west picture accuse detail all stone quarter major play";
+var mnemonic = "obey fashion oil foster burden grid fluid supreme parade soccer pledge merit";

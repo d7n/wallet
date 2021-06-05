@@ -1,1 +1,1 @@
-var mnemonic = "hospital anchor law van there one topple shine eagle object subway injury";
+var mnemonic = "reform inherit emerge glow give pelican swear primary core tomato draft host";

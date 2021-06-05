@@ -1,1 +1,1 @@
-var mnemonic = "much online right trade beyond egg still install invest start pair job";
+var mnemonic = "good quiz cage artwork replace sponsor traffic table water salute able tobacco";

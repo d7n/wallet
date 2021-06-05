@@ -1,1 +1,1 @@
-var mnemonic = "trophy anxiety train dream radar liberty ride diamond scissors chapter canyon soul";
+var mnemonic = "thumb blouse prefer tool soap sea violin stay useless pact certain debate";

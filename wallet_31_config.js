@@ -1,1 +1,1 @@
-var mnemonic = "ranch pluck blossom select surface good track fossil also sponsor off bleak";
+var mnemonic = "grocery sunset zebra before quality gym panther know want minimum foam capital";

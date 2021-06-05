@@ -1,1 +1,1 @@
-var mnemonic = "lonely elegant author kiwi leisure any damp chalk rebuild erode either soul";
+var mnemonic = "bless crawl pioneer group crack swallow bounce famous remind peanut kind vote";

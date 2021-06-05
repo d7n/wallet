@@ -1,1 +1,1 @@
-var mnemonic = "position adjust scorpion alpha foster adjust bundle option couch brush fruit review";
+var mnemonic = "ordinary abandon joy hero pluck village detect now ancient put curious arrest";

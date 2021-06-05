@@ -1,1 +1,1 @@
-var mnemonic = "citizen business honey equal frost north bargain this position praise thunder brother";
+var mnemonic = "legend burst ready belt aspect song frost forum butter upgrade catalog wasp";

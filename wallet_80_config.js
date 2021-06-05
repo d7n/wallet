@@ -1,1 +1,1 @@
-var mnemonic = "replace already seven pumpkin warfare rubber ten client cheap guess modify color";
+var mnemonic = "spike shift spare script repeat cage history case ecology pulse pigeon pilot";

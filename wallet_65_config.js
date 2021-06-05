@@ -1,1 +1,1 @@
-var mnemonic = "list what culture electric cargo eternal ready wave hard wrap steak still";
+var mnemonic = "name connect ordinary scorpion injury then utility nerve wild siege tool ethics";

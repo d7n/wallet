@@ -1,1 +1,1 @@
-var mnemonic = "kitchen invest goddess slab place gauge fame picnic until brown already real";
+var mnemonic = "extra december pistol exclude admit demand about purchase cream crowd rent loud";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor spread hover abstract diet better sphere circle recipe chase net rose";
+var mnemonic = "gap candy west hedgehog about random enemy divorce border devote cricket fatigue";

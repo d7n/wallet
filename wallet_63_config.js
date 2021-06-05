@@ -1,1 +1,1 @@
-var mnemonic = "system castle any once tool tornado measure mouse conduct shop lawn bundle";
+var mnemonic = "gold bicycle trim priority patch analyst lawsuit immune little illegal worry seat";

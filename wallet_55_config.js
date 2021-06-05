@@ -1,1 +1,1 @@
-var mnemonic = "piano range bundle lecture cheese blood trade child air flag spread battle";
+var mnemonic = "daring disagree reform timber exhibit permit switch mom ankle vast skill empower";

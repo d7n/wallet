@@ -1,1 +1,1 @@
-var mnemonic = "cluster quality abstract square panic custom obtain protect cherry board view report";
+var mnemonic = "tunnel violin toward shiver debris venture rent kangaroo nephew heavy pride submit";

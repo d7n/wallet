@@ -1,1 +1,1 @@
-var mnemonic = "wage ten snow amateur word control misery govern liberty nature vast gravity";
+var mnemonic = "load gorilla sponsor clock goose print whale abandon aspect sun giant patient";

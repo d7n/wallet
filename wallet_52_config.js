@@ -1,1 +1,1 @@
-var mnemonic = "silent spend weekend prison sail fish certain transfer dose gadget middle gasp";
+var mnemonic = "wolf waste apple victory chaos escape matrix scale bid tragic claim ticket";

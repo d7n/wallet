@@ -1,1 +1,1 @@
-var mnemonic = "chest replace only cannon roof remember mushroom wave interest suit riot item";
+var mnemonic = "inquiry winner cash anxiety finish garage man alarm lounge slice surface cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "under country letter coconut rally citizen vivid runway coach steel owner mass";
+var mnemonic = "output myth chef beach timber town loan describe jaguar unusual pilot habit";

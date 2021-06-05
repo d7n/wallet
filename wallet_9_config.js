@@ -1,1 +1,1 @@
-var mnemonic = "level rural regular advance project alcohol legend teach dumb twin pottery special";
+var mnemonic = "deny stick valid keep legend lens slow leaf market guitar grocery moral";

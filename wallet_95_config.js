@@ -1,1 +1,1 @@
-var mnemonic = "usual section solid fold belt scrap angry clock lesson palm dove nasty";
+var mnemonic = "flash disorder gesture direct select suffer napkin melt float oven distance lazy";

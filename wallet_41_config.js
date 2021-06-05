@@ -1,1 +1,1 @@
-var mnemonic = "sure correct connect cinnamon pass priority weapon sunny mass vintage palace patch";
+var mnemonic = "bus arrange use crew better network key void blind smoke hope quote";

@@ -1,1 +1,1 @@
-var mnemonic = "lab addict danger scheme avocado coil remember chest hen upgrade smile jump";
+var mnemonic = "weasel lake position century success machine coral recipe floor december safe recycle";

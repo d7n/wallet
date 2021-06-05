@@ -1,1 +1,1 @@
-var mnemonic = "crack scorpion siren party analyst obvious stairs weapon render shed traffic grape";
+var mnemonic = "basket pull attitude brand leave obey dignity mandate palm orbit birth bone";

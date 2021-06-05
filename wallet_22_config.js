@@ -1,1 +1,1 @@
-var mnemonic = "million capital barrel cause couch twelve gloom settle deliver summer sock daring";
+var mnemonic = "journey mango scatter empty key trim focus buzz popular tool text when";

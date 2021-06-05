@@ -1,1 +1,1 @@
-var mnemonic = "survey winner pig economy legend kit trigger shove cactus flag inquiry rail";
+var mnemonic = "toddler debris afraid shield depart skull skate undo husband excess wink breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "rail market despair glide because creek wear strategy joke volume brave apology";
+var mnemonic = "brick myth nuclear couple such service tobacco enact diesel stomach maple present";

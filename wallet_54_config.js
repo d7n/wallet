@@ -1,1 +1,1 @@
-var mnemonic = "lemon fat tray obvious course grain echo coconut resource vocal cotton clean";
+var mnemonic = "infant view arrow artefact motion laundry oppose cross path place index autumn";

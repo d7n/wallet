@@ -1,1 +1,1 @@
-var mnemonic = "shove skull act grant tattoo analyst rare soda kiwi sun sword domain";
+var mnemonic = "wheat shield want orient sketch sauce upset price desert chronic work now";

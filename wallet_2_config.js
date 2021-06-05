@@ -1,1 +1,1 @@
-var mnemonic = "erupt scrub arrow short vanish spray ensure casino situate hotel accident gown";
+var mnemonic = "supreme dune admit debate reunion alien anger ladder axis margin town useful";

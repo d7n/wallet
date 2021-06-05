@@ -1,1 +1,1 @@
-var mnemonic = "kitchen end fold dinner spare soccer keep pull rebel arrive mercy kind";
+var mnemonic = "heart water plunge swap spider put lecture catalog myself drink joke athlete";

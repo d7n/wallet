@@ -1,1 +1,1 @@
-var mnemonic = "strategy metal next ridge world episode magnet real spice work lucky diamond";
+var mnemonic = "price rib virus latin craft figure you essay moral nerve promote rude";

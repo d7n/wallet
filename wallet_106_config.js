@@ -1,1 +1,1 @@
-var mnemonic = "aim tail shift admit arch cheese lumber waste kind guard shed maximum";
+var mnemonic = "six slice obtain cake scout december maple cash extra language illegal true";

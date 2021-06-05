@@ -1,1 +1,1 @@
-var mnemonic = "maze burger drip pilot easy safe dirt collect general toast main bicycle";
+var mnemonic = "public match jewel expand tuna accident lava crumble author barrel chase razor";

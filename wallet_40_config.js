@@ -1,1 +1,1 @@
-var mnemonic = "carbon keen between program bid crazy vivid super leg bread stone interest";
+var mnemonic = "view prevent parent much fabric excite tongue person protect infant resource drama";

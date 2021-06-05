@@ -1,1 +1,1 @@
-var mnemonic = "size broom awful assume shed marriage smile join give pelican aspect man";
+var mnemonic = "jaguar manual perfect lazy initial antenna tackle rescue carry coconut silly indicate";

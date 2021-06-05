@@ -1,1 +1,1 @@
-var mnemonic = "oven eight peasant inherit always train someone toddler mirror mask happy patient";
+var mnemonic = "august crucial narrow east include solid cruise creek enlist rich slide asset";

@@ -1,1 +1,1 @@
-var mnemonic = "tank black envelope angle card only mixed wing plug extend dress wine";
+var mnemonic = "pulp volcano update palm toddler barely item frame dish exotic dynamic chase";

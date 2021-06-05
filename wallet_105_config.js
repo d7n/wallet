@@ -1,1 +1,1 @@
-var mnemonic = "top bid surprise bottom valve actor despair alley warm annual sport dismiss";
+var mnemonic = "kangaroo theme lazy good barrel number enjoy payment play prevent cliff dog";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff behave agree buzz achieve mom gap dynamic blush reward tomato blade";
+var mnemonic = "rookie helmet join cause blouse wage clerk baby bag cancel task stem";

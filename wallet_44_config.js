@@ -1,1 +1,1 @@
-var mnemonic = "property girl pipe ski maximum stone verb amused flag imitate spice clog";
+var mnemonic = "grunt panic sorry meadow cluster service feel opinion super huge hidden game";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate fall express silver draft exhaust fat equip cattle door paper crouch";
+var mnemonic = "bracket find tissue ladder shove core travel lock office glide shallow question";

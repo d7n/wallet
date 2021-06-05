@@ -1,1 +1,1 @@
-var mnemonic = "impulse saddle injury repeat figure spider occur ancient curtain recipe bright left";
+var mnemonic = "response balcony train cluster castle talk dinner crew mule tennis pond sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "tower stay wire boil end dish same any idea physical remember imitate";
+var mnemonic = "rigid approve apart meat liquid switch sweet time degree axis where arrow";

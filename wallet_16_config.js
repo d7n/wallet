@@ -1,1 +1,1 @@
-var mnemonic = "noise village sudden green voyage jazz metal daring quit this pact large";
+var mnemonic = "peace grief such tornado crowd steel goat dizzy pattern key toss cherry";

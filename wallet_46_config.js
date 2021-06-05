@@ -1,1 +1,1 @@
-var mnemonic = "ritual insect series bronze want dose lizard rifle screen word jealous glue";
+var mnemonic = "cheap gesture crack catalog error loan pet main pizza play soon slush";

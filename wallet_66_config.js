@@ -1,1 +1,1 @@
-var mnemonic = "fix write rebel farm february diesel account inner addict comfort jacket world";
+var mnemonic = "agent organ regret fish butter range buddy budget knee sun voice before";

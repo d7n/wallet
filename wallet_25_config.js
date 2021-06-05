@@ -1,1 +1,1 @@
-var mnemonic = "then disease innocent cycle reward paper benefit build tower window finish faith";
+var mnemonic = "dash carbon inside friend fee original bench busy middle kingdom radio tomorrow";

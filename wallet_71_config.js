@@ -1,1 +1,1 @@
-var mnemonic = "age ozone orchard sentence treat lyrics prison clog grunt absurd guilt swim";
+var mnemonic = "best trash keep ridge split regular umbrella girl soon reason expect spirit";

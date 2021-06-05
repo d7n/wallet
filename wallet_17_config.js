@@ -1,1 +1,1 @@
-var mnemonic = "announce acid joy lyrics teach rally earn hair burden begin dad renew";
+var mnemonic = "embody mercy either glimpse place better rough stamp happy tattoo pepper phrase";

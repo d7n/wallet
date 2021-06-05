@@ -1,1 +1,1 @@
-var mnemonic = "obscure danger woman market syrup cave slight gloom orphan fame little thrive";
+var mnemonic = "sail kit vessel album crop fit palm can mother success suit vicious";

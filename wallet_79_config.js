@@ -1,1 +1,1 @@
-var mnemonic = "bus medal april destroy sauce furnace profit ahead clerk okay anger salmon";
+var mnemonic = "leopard filter detect swamp urban vicious they swim rural identify oak piece";

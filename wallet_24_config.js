@@ -1,1 +1,1 @@
-var mnemonic = "foster goddess hat canoe hurt trick obscure cricket slim episode planet chair";
+var mnemonic = "century leaf forum cupboard pass purchase entire erase wide vessel gossip clean";

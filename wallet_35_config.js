@@ -1,1 +1,1 @@
-var mnemonic = "holiday power mosquito agent upper salad antenna patrol six snake toy know";
+var mnemonic = "layer inquiry cup history soap air unique border open admit inquiry paddle";

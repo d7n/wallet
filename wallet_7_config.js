@@ -1,1 +1,1 @@
-var mnemonic = "funny guide birth close comfort thought ignore few fresh genius junk stuff";
+var mnemonic = "mystery crucial kiss blanket kangaroo exhibit bright elder nice letter ready hamster";

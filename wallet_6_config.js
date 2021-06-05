@@ -1,1 +1,1 @@
-var mnemonic = "cook unable humor stable okay tank roof noble require parrot gun grass";
+var mnemonic = "ring hunt danger warm assault fabric awkward spray armor volume flag arm";

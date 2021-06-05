@@ -1,1 +1,1 @@
-var mnemonic = "render leg betray tobacco short smooth fitness suspect option acid envelope upon";
+var mnemonic = "curious industry cover leader opera paddle evoke wave evidence equal cram artwork";
