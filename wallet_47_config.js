@@ -1,1 +1,1 @@
-var mnemonic = "front pledge juice urge battle erode abandon undo genre punch turtle slogan";
+var mnemonic = "material any stadium toy strike also version suggest half gather comfort hammer";

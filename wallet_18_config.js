@@ -1,1 +1,1 @@
-var mnemonic = "august crucial narrow east include solid cruise creek enlist rich slide asset";
+var mnemonic = "emotion cliff sad error tape dash habit legend author develop afford expect";

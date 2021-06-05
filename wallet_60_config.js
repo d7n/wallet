@@ -1,1 +1,1 @@
-var mnemonic = "toddler debris afraid shield depart skull skate undo husband excess wink breeze";
+var mnemonic = "sign social axis feel cupboard betray salute dance snow rocket approve soda";

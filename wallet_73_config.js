@@ -1,1 +1,1 @@
-var mnemonic = "heart water plunge swap spider put lecture catalog myself drink joke athlete";
+var mnemonic = "race crunch frequent make curve know lake state rail intact someone tornado";

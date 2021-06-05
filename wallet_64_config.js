@@ -1,1 +1,1 @@
-var mnemonic = "reform inherit emerge glow give pelican swear primary core tomato draft host";
+var mnemonic = "crop garage guess dish frozen dust help urban pull coconut regular stand";

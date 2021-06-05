@@ -1,1 +1,1 @@
-var mnemonic = "best trash keep ridge split regular umbrella girl soon reason expect spirit";
+var mnemonic = "bring jump orient camp scare sound airport action obey wish attract valley";

@@ -1,1 +1,1 @@
-var mnemonic = "obey fashion oil foster burden grid fluid supreme parade soccer pledge merit";
+var mnemonic = "force castle aware logic drill drill panther foster victory monster success miracle";

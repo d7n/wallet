@@ -1,1 +1,1 @@
-var mnemonic = "element romance silk scale food audit useless rib process priority sibling shadow";
+var mnemonic = "one feel slight profit stick asthma wasp diesel galaxy author supreme logic";

@@ -1,1 +1,1 @@
-var mnemonic = "century leaf forum cupboard pass purchase entire erase wide vessel gossip clean";
+var mnemonic = "effort jungle swamp devote portion lecture special miss mother inch obvious exist";

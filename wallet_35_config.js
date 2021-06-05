@@ -1,1 +1,1 @@
-var mnemonic = "layer inquiry cup history soap air unique border open admit inquiry paddle";
+var mnemonic = "stable relief eye subject crime lunch annual aisle stage review photo enroll";

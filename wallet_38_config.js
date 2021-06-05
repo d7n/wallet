@@ -1,1 +1,1 @@
-var mnemonic = "viable artist game pulse orange sort wisdom calm wear puppy tragic disorder";
+var mnemonic = "parent prize furnace pudding skin always fork remove sadness twelve increase camp";

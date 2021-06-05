@@ -1,1 +1,1 @@
-var mnemonic = "extra december pistol exclude admit demand about purchase cream crowd rent loud";
+var mnemonic = "strike supply sleep blame smooth cupboard phone reopen amateur typical nut cabin";

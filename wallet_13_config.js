@@ -1,1 +1,1 @@
-var mnemonic = "virus retire ten click ketchup cereal champion vacant frog country smooth path";
+var mnemonic = "client sing resource bulk polar cargo humor wave leader problem fiscal cliff";

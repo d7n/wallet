@@ -1,1 +1,1 @@
-var mnemonic = "rookie helmet join cause blouse wage clerk baby bag cancel task stem";
+var mnemonic = "again bind spider narrow person survey blur business report rich hire move";

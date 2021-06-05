@@ -1,1 +1,1 @@
-var mnemonic = "dragon stairs resemble toss width social street repair pelican maid pretty trend";
+var mnemonic = "worth region employ trigger energy burst endless invite inmate build gadget matrix";

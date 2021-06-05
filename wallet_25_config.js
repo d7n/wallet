@@ -1,1 +1,1 @@
-var mnemonic = "dash carbon inside friend fee original bench busy middle kingdom radio tomorrow";
+var mnemonic = "jaguar hammer swim heart digital renew field baby type lyrics dolphin sample";

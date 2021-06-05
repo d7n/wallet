@@ -1,1 +1,1 @@
-var mnemonic = "weasel lake position century success machine coral recipe floor december safe recycle";
+var mnemonic = "caught mirror deposit hedgehog memory reopen cable essay deal faint impact across";

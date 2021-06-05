@@ -1,1 +1,1 @@
-var mnemonic = "spike shift spare script repeat cage history case ecology pulse pigeon pilot";
+var mnemonic = "sudden surround bag wolf bundle veteran history sketch infant repeat bamboo clown";

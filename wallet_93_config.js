@@ -1,1 +1,1 @@
-var mnemonic = "rigid approve apart meat liquid switch sweet time degree axis where arrow";
+var mnemonic = "creek enact ski matrix shell jaguar control credit girl insane mad van";

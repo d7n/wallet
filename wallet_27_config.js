@@ -1,1 +1,1 @@
-var mnemonic = "load gorilla sponsor clock goose print whale abandon aspect sun giant patient";
+var mnemonic = "jealous aisle demand shrimp call pioneer session clean position soccer people scrub";

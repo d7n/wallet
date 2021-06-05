@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo theme lazy good barrel number enjoy payment play prevent cliff dog";
+var mnemonic = "chest only typical potato job roof digital blame shoot remind position misery";

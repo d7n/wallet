@@ -1,1 +1,1 @@
-var mnemonic = "view prevent parent much fabric excite tongue person protect infant resource drama";
+var mnemonic = "inner castle alley broken surround cool olive bomb flat exhaust rail idle";

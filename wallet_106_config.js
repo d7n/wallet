@@ -1,1 +1,1 @@
-var mnemonic = "six slice obtain cake scout december maple cash extra language illegal true";
+var mnemonic = "vague town weekend panther rib few secret crash animal fancy idle torch";

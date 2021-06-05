@@ -1,1 +1,1 @@
-var mnemonic = "enroll badge dad problem effort mosquito slow multiply bring velvet scale jacket";
+var mnemonic = "cherry grab annual prevent sauce thumb uncle cabin traffic frost motion weasel";

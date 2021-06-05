@@ -1,1 +1,1 @@
-var mnemonic = "zoo bounce market casual rack science trigger vocal grain catalog memory chase";
+var mnemonic = "obtain page beyond know awake change double miss tomato black light goose";

@@ -1,1 +1,1 @@
-var mnemonic = "thank cage tilt session thank tortoise ready index annual tissue carpet sorry";
+var mnemonic = "fence wall normal vote general script resist top dawn any valley quiz";

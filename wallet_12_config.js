@@ -1,1 +1,1 @@
-var mnemonic = "afford north catalog shoulder body dutch knock sister upper odor reform usage";
+var mnemonic = "differ potato piece rigid tenant enforce body path usage utility advice shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "embody mercy either glimpse place better rough stamp happy tattoo pepper phrase";
+var mnemonic = "vault panel image know lens size have duty noise tool tilt tag";

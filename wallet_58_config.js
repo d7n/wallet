@@ -1,1 +1,1 @@
-var mnemonic = "thumb blouse prefer tool soap sea violin stay useless pact certain debate";
+var mnemonic = "inmate hill lake job festival ten path swamp wide robust weird song";

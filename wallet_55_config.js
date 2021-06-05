@@ -1,1 +1,1 @@
-var mnemonic = "daring disagree reform timber exhibit permit switch mom ankle vast skill empower";
+var mnemonic = "vicious resource wish guitar pudding try middle play thought advice draw crouch";

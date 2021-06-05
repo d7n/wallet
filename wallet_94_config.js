@@ -1,1 +1,1 @@
-var mnemonic = "pulp volcano update palm toddler barely item frame dish exotic dynamic chase";
+var mnemonic = "modify grab person mesh broken title will lift skill crew image until";

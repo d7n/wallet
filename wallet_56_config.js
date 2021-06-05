@@ -1,1 +1,1 @@
-var mnemonic = "soccer deal torch between emerge hamster table employ tissue wish minimum room";
+var mnemonic = "wedding noble essence basic jaguar absurd where top rival weapon spring orange";

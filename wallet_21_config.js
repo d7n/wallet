@@ -1,1 +1,1 @@
-var mnemonic = "width differ maid apple pattern pen chapter when spray memory sand twin";
+var mnemonic = "gap stairs swallow toe slice valve cradle uncover slide reunion shoe next";

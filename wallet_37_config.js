@@ -1,1 +1,1 @@
-var mnemonic = "maple camp local dutch era fence task unfold barely biology cannon finger";
+var mnemonic = "toilet link twist mosquito fringe grant prosper wasp shoe rail pig three";

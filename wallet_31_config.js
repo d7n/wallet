@@ -1,1 +1,1 @@
-var mnemonic = "grocery sunset zebra before quality gym panther know want minimum foam capital";
+var mnemonic = "shallow access lift decline october goat wisdom cream coyote country artist chuckle";

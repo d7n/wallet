@@ -1,1 +1,1 @@
-var mnemonic = "bid nothing approve goose minimum debate during yellow amount piece pig toddler";
+var mnemonic = "exercise tuition two shoot rice chest make grocery police scatter syrup valve";

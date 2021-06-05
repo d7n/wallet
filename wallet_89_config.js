@@ -1,1 +1,1 @@
-var mnemonic = "sad planet ill desert bottom wait address basket tortoise wife cigar lady";
+var mnemonic = "all hockey river cool axis left slow pencil sword tragic ring draw";

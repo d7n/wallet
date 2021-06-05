@@ -1,1 +1,1 @@
-var mnemonic = "basket pull attitude brand leave obey dignity mandate palm orbit birth bone";
+var mnemonic = "amount whisper carbon balance logic trend kit garden knife game solid check";

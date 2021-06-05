@@ -1,1 +1,1 @@
-var mnemonic = "bless crawl pioneer group crack swallow bounce famous remind peanut kind vote";
+var mnemonic = "question ensure vote fringe rookie pumpkin retreat truth country heavy knife theory";

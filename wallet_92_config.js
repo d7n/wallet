@@ -1,1 +1,1 @@
-var mnemonic = "project nice enhance add need deer donate crouch dwarf embody spell antenna";
+var mnemonic = "naive stem taxi worth insane lazy fun coconut amateur profit toe buzz";

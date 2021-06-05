@@ -1,1 +1,1 @@
-var mnemonic = "enemy clog virus uncover drive catch tennis inform history rare friend lizard";
+var mnemonic = "stadium memory canvas before warfare chase viable gossip learn order novel urge";

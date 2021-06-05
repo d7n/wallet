@@ -1,1 +1,1 @@
-var mnemonic = "flash disorder gesture direct select suffer napkin melt float oven distance lazy";
+var mnemonic = "pulse hurry clog quick pen perfect illness later crew addict exile merge";

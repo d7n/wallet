@@ -1,1 +1,1 @@
-var mnemonic = "peasant anchor suggest hole very panel general knock derive cluster expect injury";
+var mnemonic = "abandon jungle cherry talk jaguar embrace middle remain involve dismiss phone photo";

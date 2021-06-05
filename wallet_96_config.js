@@ -1,1 +1,1 @@
-var mnemonic = "key mad unknown solution possible churn put mule symptom media trumpet bottom";
+var mnemonic = "letter mushroom ranch gown define romance purchase label wild essay whale island";

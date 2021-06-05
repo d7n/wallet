@@ -1,1 +1,1 @@
-var mnemonic = "name connect ordinary scorpion injury then utility nerve wild siege tool ethics";
+var mnemonic = "cake couple diesel labor place primary globe make border pull genius october";

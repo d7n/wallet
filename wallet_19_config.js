@@ -1,1 +1,1 @@
-var mnemonic = "bracket find tissue ladder shove core travel lock office glide shallow question";
+var mnemonic = "item mercy maid oyster simple edit mechanic human sugar amount snow deal";

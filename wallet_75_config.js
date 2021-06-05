@@ -1,1 +1,1 @@
-var mnemonic = "wheat shield want orient sketch sauce upset price desert chronic work now";
+var mnemonic = "polar glory genius assume dove mandate labor busy lucky tool fossil shallow";

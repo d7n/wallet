@@ -1,1 +1,1 @@
-var mnemonic = "dolphin chest bamboo intact monster width example love diet spend tent lift";
+var mnemonic = "vanish auto fatal thing saddle ethics law patient foam thumb soccer swap";

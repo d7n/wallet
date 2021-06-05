@@ -1,1 +1,1 @@
-var mnemonic = "ring hunt danger warm assault fabric awkward spray armor volume flag arm";
+var mnemonic = "awful side source place occur vivid frequent mind stadium axis cliff grass";

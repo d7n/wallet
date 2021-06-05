@@ -1,1 +1,1 @@
-var mnemonic = "brick myth nuclear couple such service tobacco enact diesel stomach maple present";
+var mnemonic = "noble avoid spike gasp grass head picnic either anchor avoid head sing";

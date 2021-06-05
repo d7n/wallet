@@ -1,1 +1,1 @@
-var mnemonic = "coyote dirt mobile list ocean attitude wall trouble express tunnel impact quantum";
+var mnemonic = "piece real wreck arctic will permit suspect used knock vague asthma sketch";

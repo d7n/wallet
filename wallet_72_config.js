@@ -1,1 +1,1 @@
-var mnemonic = "output myth chef beach timber town loan describe jaguar unusual pilot habit";
+var mnemonic = "mouse divert sketch raise public vapor bounce gravity ahead jelly what junk";

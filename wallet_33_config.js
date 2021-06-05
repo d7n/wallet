@@ -1,1 +1,1 @@
-var mnemonic = "stay supreme debate purse thought romance laptop slow outdoor hero tomato void";
+var mnemonic = "sunset mad spend cigar lawsuit solar spice find since more range creek";

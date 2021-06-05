@@ -1,1 +1,1 @@
-var mnemonic = "agent organ regret fish butter range buddy budget knee sun voice before";
+var mnemonic = "found despair town illness unhappy pottery hard buddy angle anchor figure gather";

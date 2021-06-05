@@ -1,1 +1,1 @@
-var mnemonic = "improve hip mobile despair shoot sock arrive crucial salute helmet pitch flush";
+var mnemonic = "rebuild orange design electric bread usage swing noble start carry spawn aspect";

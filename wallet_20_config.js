@@ -1,1 +1,1 @@
-var mnemonic = "square fatigue invest deny keen gospel cave shield tag zone bitter bundle";
+var mnemonic = "practice camera extend level eager bean pair novel brave neither ride inner";

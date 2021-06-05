@@ -1,1 +1,1 @@
-var mnemonic = "under mimic climb attend mom control funny carry buzz ask valid blind";
+var mnemonic = "diet tell park husband size once isolate grant lake theme win between";

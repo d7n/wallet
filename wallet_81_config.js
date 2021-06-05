@@ -1,1 +1,1 @@
-var mnemonic = "kite course family change path hidden exclude pause donkey wrap celery feed";
+var mnemonic = "wear april puzzle affair crisp tribe round length shell laugh slice index";

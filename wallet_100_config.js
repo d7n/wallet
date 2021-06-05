@@ -1,1 +1,1 @@
-var mnemonic = "report convince resist cause woman employ mushroom city insane permit sister zone";
+var mnemonic = "insect athlete answer lunch anchor sick doll vessel salad maple disease zebra";

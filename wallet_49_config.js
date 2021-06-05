@@ -1,1 +1,1 @@
-var mnemonic = "unique best shaft miracle spoil banana digital junior talent donor minute cargo";
+var mnemonic = "case alert false execute exclude caught banana pattern despair crouch analyst across";

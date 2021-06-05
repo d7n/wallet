@@ -1,1 +1,1 @@
-var mnemonic = "tunnel violin toward shiver debris venture rent kangaroo nephew heavy pride submit";
+var mnemonic = "solid power prepare shine avocado flight easy warm family major plastic spray";

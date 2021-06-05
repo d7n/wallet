@@ -1,1 +1,1 @@
-var mnemonic = "mountain range duck opinion maze wine palm region rifle major envelope zone";
+var mnemonic = "valve curtain absurd cream benefit decorate tilt cigar issue endorse window renew";

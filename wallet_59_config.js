@@ -1,1 +1,1 @@
-var mnemonic = "sail kit vessel album crop fit palm can mother success suit vicious";
+var mnemonic = "flight hip addict absent mechanic marble drop kitten face jazz funny dwarf";

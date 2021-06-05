@@ -1,1 +1,1 @@
-var mnemonic = "infant view arrow artefact motion laundry oppose cross path place index autumn";
+var mnemonic = "industry tone grab lemon toddler real flavor turn dance proof frozen chicken";

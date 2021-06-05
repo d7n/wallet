@@ -1,1 +1,1 @@
-var mnemonic = "field chunk legal mean inside claw today direct moon void absent glide";
+var mnemonic = "more depth disorder segment accident story trumpet off much frozen ball refuse";

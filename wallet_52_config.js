@@ -1,1 +1,1 @@
-var mnemonic = "wolf waste apple victory chaos escape matrix scale bid tragic claim ticket";
+var mnemonic = "emotion pupil local girl amused attitude dial festival budget earn exhibit waste";

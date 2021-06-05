@@ -1,1 +1,1 @@
-var mnemonic = "leopard filter detect swamp urban vicious they swim rural identify oak piece";
+var mnemonic = "will biology practice rebuild census hair surround lady cement nominee bulk magic";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt panic sorry meadow cluster service feel opinion super huge hidden game";
+var mnemonic = "cycle easy scorpion client glad damage harsh doll concert pen card speed";

@@ -1,1 +1,1 @@
-var mnemonic = "eager catch acid super mansion south suffer share catch jeans predict beauty";
+var mnemonic = "race tragic alley other box display frequent oblige unit curious diary drink";

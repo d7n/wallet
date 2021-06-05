@@ -1,1 +1,1 @@
-var mnemonic = "gold bicycle trim priority patch analyst lawsuit immune little illegal worry seat";
+var mnemonic = "stage salad notice spirit manual soda hint easily open episode supreme peanut";

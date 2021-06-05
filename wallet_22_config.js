@@ -1,1 +1,1 @@
-var mnemonic = "journey mango scatter empty key trim focus buzz popular tool text when";
+var mnemonic = "inside reopen city grief cram rice priority useless betray top exclude royal";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry winner cash anxiety finish garage man alarm lounge slice surface cruise";
+var mnemonic = "host circle dash position snack vault wedding drop can abuse jacket kidney";

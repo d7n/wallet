@@ -1,1 +1,1 @@
-var mnemonic = "good quiz cage artwork replace sponsor traffic table water salute able tobacco";
+var mnemonic = "easily parrot noise abuse punch session runway hurt field team cousin ignore";

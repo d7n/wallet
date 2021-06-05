@@ -1,1 +1,1 @@
-var mnemonic = "response balcony train cluster castle talk dinner crew mule tennis pond sphere";
+var mnemonic = "cup profit liar farm item verb catch detail destroy indicate drink crystal";

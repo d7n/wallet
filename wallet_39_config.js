@@ -1,1 +1,1 @@
-var mnemonic = "excite door drift solid blossom crime fall bike sad myself gown unfair";
+var mnemonic = "taxi elite citizen pyramid voyage sock rule sister olive image sudden report";

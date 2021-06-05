@@ -1,1 +1,1 @@
-var mnemonic = "fatal paper struggle save impose panel rabbit depend rebuild forest roof patrol";
+var mnemonic = "ozone matter under upon salmon grant tissue any boat surround symbol pepper";

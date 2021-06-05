@@ -1,1 +1,1 @@
-var mnemonic = "ship mix april usual there pigeon enlist antenna ceiling afraid amateur good";
+var mnemonic = "public scan universe stairs home ten airport mosquito walk where clip wasp";

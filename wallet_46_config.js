@@ -1,1 +1,1 @@
-var mnemonic = "cheap gesture crack catalog error loan pet main pizza play soon slush";
+var mnemonic = "rib federal debate actual poet cricket century fan pistol final struggle usage";

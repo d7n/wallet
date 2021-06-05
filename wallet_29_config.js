@@ -1,1 +1,1 @@
-var mnemonic = "public match jewel expand tuna accident lava crumble author barrel chase razor";
+var mnemonic = "diamond nation charge exercise wonder youth mesh prosper front kind suspect special";

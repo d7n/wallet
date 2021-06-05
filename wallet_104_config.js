@@ -1,1 +1,1 @@
-var mnemonic = "veteran excess afraid under mouse airport uncover option spring game pole dose";
+var mnemonic = "boost poem wool aisle season smart client huge phone tuition absent venue";

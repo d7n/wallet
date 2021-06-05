@@ -1,1 +1,1 @@
-var mnemonic = "price rib virus latin craft figure you essay moral nerve promote rude";
+var mnemonic = "wash cram sign ribbon consider satoshi grid act modify parade pioneer oxygen";

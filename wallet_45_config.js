@@ -1,1 +1,1 @@
-var mnemonic = "trap grab chronic sister vital fog feed method mention photo inhale material";
+var mnemonic = "above oven ten lawsuit sword adjust wage need prefer between list client";

@@ -1,1 +1,1 @@
-var mnemonic = "peace grief such tornado crowd steel goat dizzy pattern key toss cherry";
+var mnemonic = "pitch sight long region convince select harsh enemy forest between nature split";

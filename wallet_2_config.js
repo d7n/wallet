@@ -1,1 +1,1 @@
-var mnemonic = "supreme dune admit debate reunion alien anger ladder axis margin town useful";
+var mnemonic = "agree know similar gas interest oxygen work wolf fiscal ranch poet genius";

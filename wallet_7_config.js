@@ -1,1 +1,1 @@
-var mnemonic = "mystery crucial kiss blanket kangaroo exhibit bright elder nice letter ready hamster";
+var mnemonic = "room polar decade behave squeeze find keep cost ridge island bachelor ginger";

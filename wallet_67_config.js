@@ -1,1 +1,1 @@
-var mnemonic = "ordinary abandon joy hero pluck village detect now ancient put curious arrest";
+var mnemonic = "space frame shed robust neglect involve forget assault visit maze festival fancy";
