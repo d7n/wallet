@@ -1,1 +1,1 @@
-var mnemonic = "praise service owner trust fat coin nothing giggle local episode gentle reopen";
+var mnemonic = "situate connect involve ceiling current soldier ability girl finish focus connect lake";

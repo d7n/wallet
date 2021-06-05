@@ -1,1 +1,1 @@
-var mnemonic = "sun guitar cherry equip off silent broom unusual reflect magnet piece relax";
+var mnemonic = "actress dutch tuna layer lawn subject estate arch retreat emerge hole settle";

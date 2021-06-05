@@ -1,1 +1,1 @@
-var mnemonic = "peace safe page injury govern hotel design busy slender install outdoor fabric";
+var mnemonic = "merit start develop ramp rally grab brain movie onion voice clarify robust";

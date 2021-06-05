@@ -1,1 +1,1 @@
-var mnemonic = "naive region benefit ice small hen fun please hand miracle fiction offer";
+var mnemonic = "license casual mushroom melody pizza jacket slam capable toss play can walnut";

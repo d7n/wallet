@@ -1,1 +1,1 @@
-var mnemonic = "mule brain funny artefact attack future wild project wear shuffle total tornado";
+var mnemonic = "circle key noble vacuum year all found spy more arrow egg ugly";

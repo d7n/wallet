@@ -1,1 +1,1 @@
-var mnemonic = "canoe call obey joy citizen wealth renew auto dismiss update kick law";
+var mnemonic = "street deal empower best oxygen desert gadget first pony grunt knife boy";

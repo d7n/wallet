@@ -1,1 +1,1 @@
-var mnemonic = "setup lunar quarter talent home screen garden fault lamp mechanic dash memory";
+var mnemonic = "equal witness laptop law combine south inspire round enroll innocent more dove";

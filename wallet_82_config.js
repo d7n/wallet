@@ -1,1 +1,1 @@
-var mnemonic = "buzz end annual uncover simple stock segment search wrestle media among raise";
+var mnemonic = "soon taste proud budget never correct face gather olympic noble hub top";

@@ -1,1 +1,1 @@
-var mnemonic = "inside bulb boost fury cluster this impact opinion other swap ask diamond";
+var mnemonic = "warm spring exist version limb twelve vast open clutch crash october farm";

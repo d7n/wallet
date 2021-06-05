@@ -1,1 +1,1 @@
-var mnemonic = "combine pill olympic plate broken frozen sniff issue health fame myself sugar";
+var mnemonic = "pigeon profit scatter ball route rookie velvet board angle logic hurt pave";

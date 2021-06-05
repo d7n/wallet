@@ -1,1 +1,1 @@
-var mnemonic = "fiscal exact forest almost fog energy task disorder assist false midnight flat";
+var mnemonic = "segment collect ticket sister pill two furnace eye wagon opera enough drip";

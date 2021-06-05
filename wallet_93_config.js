@@ -1,1 +1,1 @@
-var mnemonic = "rib all rail still finger project borrow develop measure action parade stool";
+var mnemonic = "glad tail pond fabric violin state valid erosion require mixed blade near";

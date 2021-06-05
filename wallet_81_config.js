@@ -1,1 +1,1 @@
-var mnemonic = "relax okay unlock success feature virus attitude crunch glory hurt sail poverty";
+var mnemonic = "step snow rent inject outer another elephant forget need cream begin peanut";

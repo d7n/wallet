@@ -1,1 +1,1 @@
-var mnemonic = "orphan ecology six arrive tent before sustain state mountain nice rather unable";
+var mnemonic = "behave submit pumpkin host rally lumber genre lazy unable kitten prison stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "secret cupboard dizzy ghost defy medal approve giant worry paddle require two";
+var mnemonic = "shell lemon film praise segment tide peasant mystery tray fringe limit arch";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco valley patrol assault inner phone eagle buzz citizen decorate mixed flat";
+var mnemonic = "ankle train diet raw mule prepare zebra equal salt injury issue gospel";

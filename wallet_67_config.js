@@ -1,1 +1,1 @@
-var mnemonic = "weird idle round feel net gallery demand distance enrich sick bench power";
+var mnemonic = "wheat relax energy digital pioneer wheat prevent unknown gauge film box mansion";

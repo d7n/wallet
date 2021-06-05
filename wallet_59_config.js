@@ -1,1 +1,1 @@
-var mnemonic = "protect hover leisure buzz horror fault tube guitar bird same album make";
+var mnemonic = "useful vacuum rifle fiscal region history useful duck sport dad hotel purpose";

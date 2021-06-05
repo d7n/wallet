@@ -1,1 +1,1 @@
-var mnemonic = "tray library diary welcome banner weekend fragile fold island truly discover client";
+var mnemonic = "damage blush stable play series thing insane fluid clown pelican nuclear autumn";

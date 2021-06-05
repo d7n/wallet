@@ -1,1 +1,1 @@
-var mnemonic = "bulk expire ethics yard mosquito muscle obtain sadness connect comfort immense swim";
+var mnemonic = "space maid olympic tomorrow snap trust note budget film custom erase armed";

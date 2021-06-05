@@ -1,1 +1,1 @@
-var mnemonic = "section torch open park key inside worry method panther van lift staff";
+var mnemonic = "apple tip bind sister minute auction hint connect patient melt scorpion rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke welcome clip orphan damp section scale sugar warfare palm magic sad";
+var mnemonic = "slow hip much celery pull ride dune copper kit clump seminar bachelor";

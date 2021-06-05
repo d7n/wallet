@@ -1,1 +1,1 @@
-var mnemonic = "hover guard uniform cable attack evolve unfair farm grocery mushroom journey physical";
+var mnemonic = "true loud swarm quick kid rich like use brother confirm able supreme";

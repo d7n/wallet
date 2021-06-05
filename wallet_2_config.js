@@ -1,1 +1,1 @@
-var mnemonic = "group grain length crater turkey yellow retreat melody tissue food kidney magic";
+var mnemonic = "trade slab leader rail front maximum wink reopen labor burden corn battle";

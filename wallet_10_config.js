@@ -1,1 +1,1 @@
-var mnemonic = "cost jump sign thunder wink eager help immune dwarf wash satoshi wash";
+var mnemonic = "cute vapor absurd inner trophy ridge fatal roast leisure day measure scene";

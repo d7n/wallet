@@ -1,1 +1,1 @@
-var mnemonic = "relax minute apple door skate loud guess dismiss celery secret target leisure";
+var mnemonic = "offer utility grief used cheese service wash obtain grocery zebra require scene";

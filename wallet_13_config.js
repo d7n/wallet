@@ -1,1 +1,1 @@
-var mnemonic = "need torch select force alien hat heavy credit artist during poverty foam";
+var mnemonic = "accident catch match pluck flip modify library frown chunk desert now situate";

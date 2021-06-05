@@ -1,1 +1,1 @@
-var mnemonic = "science hunt huge era achieve awake lend clerk argue code outside broom";
+var mnemonic = "post borrow fruit detail uniform split craft rough fire clean cost sun";

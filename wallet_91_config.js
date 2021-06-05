@@ -1,1 +1,1 @@
-var mnemonic = "hidden swarm meat humor galaxy math real normal dove replace neglect tag";
+var mnemonic = "ugly ramp margin pause settle easy chair client like topple cry snow";

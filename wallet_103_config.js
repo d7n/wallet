@@ -1,1 +1,1 @@
-var mnemonic = "rapid slice daring clinic love payment loud cruel net trim appear jaguar";
+var mnemonic = "hip tip liberty pluck size year case soldier flash build math fruit";

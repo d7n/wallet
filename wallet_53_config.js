@@ -1,1 +1,1 @@
-var mnemonic = "mosquito orient reason sand page own today swing december strong attend sad";
+var mnemonic = "hybrid actress royal vital sight urge sea pledge pulp neck hat silly";

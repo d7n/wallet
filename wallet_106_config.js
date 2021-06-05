@@ -1,1 +1,1 @@
-var mnemonic = "catch novel royal celery dentist found patrol whisper scale celery rapid iron";
+var mnemonic = "sphere valve journey awful glare group gun clever cute enforce flavor fence";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong bargain junior space nasty cabin you valley river taxi visit noble";
+var mnemonic = "fan arrest fury subway cinnamon ugly priority tower input acid noise festival";

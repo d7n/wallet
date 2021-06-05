@@ -1,1 +1,1 @@
-var mnemonic = "exclude unveil glare staff forest spice agree museum diagram access dove famous";
+var mnemonic = "sure energy expect glide square wheat local zero gauge menu novel alley";

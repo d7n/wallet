@@ -1,1 +1,1 @@
-var mnemonic = "tunnel prevent skirt battle spirit rich photo crime fault spike term horror";
+var mnemonic = "palace economy they warm wasp lounge coast track orchard enhance half pink";

@@ -1,1 +1,1 @@
-var mnemonic = "hill raw twin gloom hip drum prepare veteran human sword police magnet";
+var mnemonic = "tube option emerge illegal honey nephew ahead steak smart denial crater protect";

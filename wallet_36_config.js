@@ -1,1 +1,1 @@
-var mnemonic = "blossom satoshi inquiry chuckle brother wrestle chimney vacuum lady simple job hurdle";
+var mnemonic = "marine legal oil public stool wage alpha cable song better state steel";

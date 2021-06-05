@@ -1,1 +1,1 @@
-var mnemonic = "bachelor lava column bamboo virus kite connect chat despair motor track stick";
+var mnemonic = "zebra knock current initial century blind fence stand lab fan control state";

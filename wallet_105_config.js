@@ -1,1 +1,1 @@
-var mnemonic = "advance drastic search announce gain dirt surge regular lady album mother sphere";
+var mnemonic = "miracle library stool picture ostrich inquiry squeeze rescue wealth congress find mesh";

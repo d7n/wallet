@@ -1,1 +1,1 @@
-var mnemonic = "couple hand goddess arctic pill plastic tomorrow eyebrow repair heart shallow double";
+var mnemonic = "mail melody around cool churn alter display animal skate silent glue staff";

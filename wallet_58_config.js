@@ -1,1 +1,1 @@
-var mnemonic = "problem spike jacket diet neglect pony claim swear debate normal erase sure";
+var mnemonic = "also place search secret across they honey credit turn rigid they art";

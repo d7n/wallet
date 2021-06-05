@@ -1,1 +1,1 @@
-var mnemonic = "kit swarm athlete bachelor minor whale popular water paddle tired limb holiday";
+var mnemonic = "huge purchase lemon bitter always diamond wall dragon bring ignore ostrich photo";

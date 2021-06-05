@@ -1,1 +1,1 @@
-var mnemonic = "jazz sand piano scrap glance hip fresh expose retire else solar van";
+var mnemonic = "strike sight below erode home grocery found black foil stove dragon shy";

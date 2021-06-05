@@ -1,1 +1,1 @@
-var mnemonic = "castle exist seek yellow cotton lock oblige actress giraffe math network provide";
+var mnemonic = "master fire inside bird ball gospel join then area man clutch version";

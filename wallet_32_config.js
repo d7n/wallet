@@ -1,1 +1,1 @@
-var mnemonic = "man decade wild letter depart acid habit tackle when index fluid extra";
+var mnemonic = "inner able girl prosper spirit unknown possible achieve maximum diagram spice coach";

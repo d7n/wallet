@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit remember tattoo boat magic source angle stool noodle void object three";
+var mnemonic = "firm glow protect kite often uniform between heavy rude motor fit ignore";

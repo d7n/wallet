@@ -1,1 +1,1 @@
-var mnemonic = "eye utility escape case fence bind afraid juice elevator endorse say gold";
+var mnemonic = "card clip slow memory sword uniform nephew monkey trigger aerobic manage fence";

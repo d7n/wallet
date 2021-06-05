@@ -1,1 +1,1 @@
-var mnemonic = "supply lottery aware jungle myth network salt marine pride unusual proof toward";
+var mnemonic = "insect another belt torch write burst jacket kangaroo weekend arrange seven box";

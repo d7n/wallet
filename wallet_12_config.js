@@ -1,1 +1,1 @@
-var mnemonic = "baby alpha tongue start hire slender veteran across flag scatter market myself";
+var mnemonic = "elite alcohol stumble reduce demise faint flag amount narrow team proud stone";

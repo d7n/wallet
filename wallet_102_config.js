@@ -1,1 +1,1 @@
-var mnemonic = "quick normal combine fresh patient express rich shock merit when wrong radar";
+var mnemonic = "naive foam squirrel snake stove cousin name alter turn glimpse ankle table";

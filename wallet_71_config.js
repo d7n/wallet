@@ -1,1 +1,1 @@
-var mnemonic = "case page soccer random begin easily level brief bid job weasel guard";
+var mnemonic = "bike human eager adult minute embody dream balance hammer square stairs grow";

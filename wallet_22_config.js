@@ -1,1 +1,1 @@
-var mnemonic = "brush pulp obtain rebel negative shoot law treat good assume busy beyond";
+var mnemonic = "lend require junk offer all total twelve fringe final divorce bright token";

@@ -1,1 +1,1 @@
-var mnemonic = "sun flat nothing hockey praise argue retire donkey amount antenna legend click";
+var mnemonic = "hawk tag gate piece nature kit wet tower eagle crush oval argue";

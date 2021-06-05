@@ -1,1 +1,1 @@
-var mnemonic = "isolate face imitate erode imitate unique apple attend marriage pulse asthma alley";
+var mnemonic = "corn symptom garment debate gauge pact human pretty danger dose diet arctic";

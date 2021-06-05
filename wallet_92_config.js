@@ -1,1 +1,1 @@
-var mnemonic = "surprise web upon differ ankle whisper merge pill game chunk joke engage";
+var mnemonic = "gas slide distance royal talent pet forward crazy lamp arm toddler mention";

@@ -1,1 +1,1 @@
-var mnemonic = "keep few reopen digital unusual uncle glory senior friend move garlic please";
+var mnemonic = "multiply unhappy skill recall today entry weather forest apart fruit rent bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip wish scout vendor brick unable game joke churn cereal stem marine";
+var mnemonic = "social neglect city light borrow ostrich diamond rule smooth hedgehog differ apart";

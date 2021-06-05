@@ -1,1 +1,1 @@
-var mnemonic = "dream come treat come dilemma kidney else venue danger brave catalog goat";
+var mnemonic = "buddy dragon measure shy enlist bullet quiz edit pistol mercy hungry dry";

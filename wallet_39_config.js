@@ -1,1 +1,1 @@
-var mnemonic = "rhythm relax basket pumpkin again velvet brush update shield banana post angry";
+var mnemonic = "sport spoil race cake laptop symbol relief sketch march fetch roof close";

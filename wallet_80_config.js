@@ -1,1 +1,1 @@
-var mnemonic = "legend paper pear film negative split clever autumn visit despair toy equal";
+var mnemonic = "amateur fine modify hammer noise fine sick pulse reject radio pet planet";

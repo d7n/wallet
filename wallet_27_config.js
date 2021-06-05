@@ -1,1 +1,1 @@
-var mnemonic = "fee leader what angry blouse mask olympic once peasant denial ill give";
+var mnemonic = "dinner top unusual that extend cement coin travel explain fire sand shy";

@@ -1,1 +1,1 @@
-var mnemonic = "release want cruel panic when accident error exchange tuna mom pole runway";
+var mnemonic = "air cannon lounge smoke tunnel stomach gain identify man staff guess weapon";

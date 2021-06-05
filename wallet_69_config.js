@@ -1,1 +1,1 @@
-var mnemonic = "atom giggle stool else stage edit size torch twice pottery enter belt";
+var mnemonic = "venture maximum crash curious sister doctor fix wash floor amused grain mobile";

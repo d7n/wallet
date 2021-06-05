@@ -1,1 +1,1 @@
-var mnemonic = "final peace chief artwork viable install extra ridge squirrel task moral march";
+var mnemonic = "debate maid destroy sleep color oven novel corn leave divorce asset coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "green aisle action negative circle moral labor keen solution total hole ticket";
+var mnemonic = "day luxury diary axis trigger genuine work lunch record mail inmate device";

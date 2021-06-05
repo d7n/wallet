@@ -1,1 +1,1 @@
-var mnemonic = "hire dinner strong stay much agent make fade afford you error spread";
+var mnemonic = "embody hammer orphan tribe short mobile finish hour maple jump over rose";

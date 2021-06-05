@@ -1,1 +1,1 @@
-var mnemonic = "degree float drift erode wash legend emerge measure apple sweet carry piece";
+var mnemonic = "million hobby assist library render bicycle since ocean sight tree wagon next";

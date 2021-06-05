@@ -1,1 +1,1 @@
-var mnemonic = "replace wear faith raven pattern physical fringe million damage below glow race";
+var mnemonic = "silver measure minute grab describe reveal peace across input october tumble random";

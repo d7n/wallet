@@ -1,1 +1,1 @@
-var mnemonic = "taxi hockey idea need slow plug reopen resist female obvious angle radio";
+var mnemonic = "impulse visa sweet train month tortoise wolf rabbit hub coast either blur";

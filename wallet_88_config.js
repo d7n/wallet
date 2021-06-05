@@ -1,1 +1,1 @@
-var mnemonic = "gauge rhythm table clump type laptop present air resemble dash rather hobby";
+var mnemonic = "account stock rubber give domain can neglect liberty essay blouse gather quote";

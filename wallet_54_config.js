@@ -1,1 +1,1 @@
-var mnemonic = "any nasty sniff senior blast agent despair either taste trust become please";
+var mnemonic = "relax orange assault mad movie supreme another moon rare scrap alone illness";

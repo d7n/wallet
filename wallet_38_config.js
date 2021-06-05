@@ -1,1 +1,1 @@
-var mnemonic = "prize erase among oxygen case huge admit inform scare inside jungle village";
+var mnemonic = "dutch orange ensure stairs awful airport cement front blossom current rhythm unaware";

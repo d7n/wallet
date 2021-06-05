@@ -1,1 +1,1 @@
-var mnemonic = "supply load pencil head evolve radio gravity tool print usual brass mushroom";
+var mnemonic = "pattern bomb seed sibling guide tilt little earth punch inspire crater argue";

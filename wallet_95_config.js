@@ -1,1 +1,1 @@
-var mnemonic = "chaos between arrange around canyon royal goose sell denial nest pelican cover";
+var mnemonic = "pitch build price leisure bamboo live recipe submit carry shrimp traffic news";

@@ -1,1 +1,1 @@
-var mnemonic = "option ketchup satoshi mad skate exercise half umbrella nature photo market garment";
+var mnemonic = "coach animal dry east exotic nature write family obtain useful device alley";

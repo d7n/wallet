@@ -1,1 +1,1 @@
-var mnemonic = "strong awesome near bean mirror elbow bitter raise humor detect forward mention";
+var mnemonic = "fat deer oyster cotton net side load novel giant top spy pass";

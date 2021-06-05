@@ -1,1 +1,1 @@
-var mnemonic = "filter aunt fatal lawsuit tenant slice planet toward search shoot penalty fresh";
+var mnemonic = "smart science salute address ship maze letter fantasy brother round raccoon exercise";

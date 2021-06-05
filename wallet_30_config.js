@@ -1,1 +1,1 @@
-var mnemonic = "inner offer slide lava ivory flight love comfort tone ignore capable sustain";
+var mnemonic = "differ impact maid quality lucky omit trip broom theory erode lecture mail";

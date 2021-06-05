@@ -1,1 +1,1 @@
-var mnemonic = "pen peace obey zone text cinnamon weekend dance thumb riot harvest sort";
+var mnemonic = "impose birth garbage account hard quality usual slender latin school quality figure";

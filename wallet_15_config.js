@@ -1,1 +1,1 @@
-var mnemonic = "cluster bunker poem debris cheap kit lemon stuff merit kitchen conduct notable";
+var mnemonic = "where rally page venue insect panda neck cruise enforce orchard gain whale";

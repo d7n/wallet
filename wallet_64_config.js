@@ -1,1 +1,1 @@
-var mnemonic = "weapon vendor material reject panic rookie toilet blade run kiwi daughter naive";
+var mnemonic = "virus awkward purpose maid twenty close sting toast until interest luxury pill";

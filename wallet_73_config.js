@@ -1,1 +1,1 @@
-var mnemonic = "pudding amount paddle cave add two machine hurry unlock safe license oven";
+var mnemonic = "lawsuit dragon gesture wall crumble buyer void first fit nominee local other";
