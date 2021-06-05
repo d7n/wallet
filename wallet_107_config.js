@@ -1,1 +1,1 @@
-var mnemonic = "dignity jacket favorite box liquid globe media evolve zone breeze cabin twelve";
+var mnemonic = "another adapt unusual brave neglect lemon taste auto carbon middle quantum used";

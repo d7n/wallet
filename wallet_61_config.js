@@ -1,1 +1,1 @@
-var mnemonic = "trash sense pretty lady exclude simple various flavor impose steel want candy";
+var mnemonic = "cute will street subway harbor wool bleak dad junior relief film march";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion liberty screen destroy drastic earn taste lab helmet vivid frost salute";
+var mnemonic = "inform eternal arctic sick bullet shove curve arrange crystal alarm awake fancy";

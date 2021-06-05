@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit lecture matrix mention legal concert walnut peace destroy crush scare note";
+var mnemonic = "fever divert ritual copy shallow ocean initial patrol camp such twelve identify";

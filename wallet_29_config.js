@@ -1,1 +1,1 @@
-var mnemonic = "hand street asthma illegal fury gesture yellow ski cool dance liquid soon";
+var mnemonic = "height innocent monkey like egg wreck airport piece fashion click bicycle drip";

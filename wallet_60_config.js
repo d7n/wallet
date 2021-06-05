@@ -1,1 +1,1 @@
-var mnemonic = "spike proof good teach expect help omit toward useful orchard cricket bunker";
+var mnemonic = "sentence intact glad uphold front month morning screen effort twenty fog drum";

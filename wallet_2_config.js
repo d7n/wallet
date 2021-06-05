@@ -1,1 +1,1 @@
-var mnemonic = "series wing item wave noise subway razor discover motion special fury hollow";
+var mnemonic = "solution oblige trip impulse easily puppy sausage crystal fiction feed mimic charge";

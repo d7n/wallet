@@ -1,1 +1,1 @@
-var mnemonic = "plug legend duty mercy original glad mistake clap hub portion modify impulse";
+var mnemonic = "toy crisp drink lunar average much mystery unveil media minimum guitar disorder";

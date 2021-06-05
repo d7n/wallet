@@ -1,1 +1,1 @@
-var mnemonic = "illness other village aunt easily print word buyer dilemma dizzy level elegant";
+var mnemonic = "cat coral castle planet talent virtual quick gym debris jump voyage charge";

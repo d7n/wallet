@@ -1,1 +1,1 @@
-var mnemonic = "admit viable love few stable lava radar else save gentle supply assault";
+var mnemonic = "alarm bridge throw piece orient stamp lawn owner crawl verb execute screen";

@@ -1,1 +1,1 @@
-var mnemonic = "budget squeeze recycle enroll shrug skin fringe trend alter win tone demise";
+var mnemonic = "fashion physical refuse used protect upgrade exhibit spider zone devote usage firm";

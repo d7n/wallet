@@ -1,1 +1,1 @@
-var mnemonic = "clock toe desk bus soldier hazard now dentist extend rail rebuild cushion";
+var mnemonic = "media depend mutual immense story dry bronze elbow creek lumber host resist";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile exotic morning asthma drive useless vapor tortoise denial venue knee state";
+var mnemonic = "snack ring final lizard test extend edit recall grain live milk fog";

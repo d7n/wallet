@@ -1,1 +1,1 @@
-var mnemonic = "trim repeat field deer dice stuff moon tonight theory scheme grocery okay";
+var mnemonic = "jungle ready distance whale cost shell expand scare boss orbit file powder";

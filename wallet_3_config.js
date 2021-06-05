@@ -1,1 +1,1 @@
-var mnemonic = "possible ghost picture episode carbon naive kiss edit roof range paper winter";
+var mnemonic = "catalog olympic boring recipe order erupt where minute hunt blush vast recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "wing unusual lion elbow cook night recycle razor violin muffin medal crazy";
+var mnemonic = "universe salad fluid belt hand drive charge flame weather rookie satisfy ladder";

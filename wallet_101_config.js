@@ -1,1 +1,1 @@
-var mnemonic = "bottom miss endless you vibrant disagree shoot hello remain page mouse fiscal";
+var mnemonic = "size include size segment horse fan pelican thunder slot seat spread crazy";

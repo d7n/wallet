@@ -1,1 +1,1 @@
-var mnemonic = "divorce symptom lounge congress rescue obscure success roof hidden remind tuna enlist";
+var mnemonic = "someone learn across maximum focus loud park wall quote enrich lamp news";

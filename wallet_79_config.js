@@ -1,1 +1,1 @@
-var mnemonic = "prize clinic shiver garlic conduct sugar state business task nominee pilot crystal";
+var mnemonic = "sure hip retire lift chronic tool inch inspire child settle desk sense";

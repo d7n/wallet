@@ -1,1 +1,1 @@
-var mnemonic = "order elder detect emerge april garden rare later coyote amateur potato sign";
+var mnemonic = "breeze scene hybrid wonder leisure citizen salon math siege hint humble balance";

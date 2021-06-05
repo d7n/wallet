@@ -1,1 +1,1 @@
-var mnemonic = "arrow creek lunch noodle anxiety pitch time curve close isolate spoon venture";
+var mnemonic = "immense hip dry uphold use slab chest armed rigid mountain side urge";

@@ -1,1 +1,1 @@
-var mnemonic = "solar occur desert brother cup portion cushion return dumb control cream bright";
+var mnemonic = "debate fancy flight loud bread sun cry cushion depart author rival luxury";

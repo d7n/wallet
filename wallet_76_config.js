@@ -1,1 +1,1 @@
-var mnemonic = "turkey void worth tenant symbol start rescue business horse chat kingdom liberty";
+var mnemonic = "grass among jealous march category provide thought opinion example bulk never figure";

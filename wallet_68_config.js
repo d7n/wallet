@@ -1,1 +1,1 @@
-var mnemonic = "toddler success able cousin planet couch section infant wave alpha eyebrow usual";
+var mnemonic = "much pizza snack curtain lens very radio apart pupil glide hollow wall";

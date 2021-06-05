@@ -1,1 +1,1 @@
-var mnemonic = "novel forest develop sugar antenna crazy scheme enlist cushion ketchup because figure";
+var mnemonic = "narrow shrimp warrior symptom eagle fever cinnamon dizzy elder pride portion patch";

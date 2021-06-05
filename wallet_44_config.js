@@ -1,1 +1,1 @@
-var mnemonic = "output eagle regret over drill universe crane lucky caution cricket athlete engage";
+var mnemonic = "torch skull aspect regret remind price celery merit prevent patient daring public";

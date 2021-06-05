@@ -1,1 +1,1 @@
-var mnemonic = "melt hundred glad unit chef smooth color moral response trouble dragon unaware";
+var mnemonic = "boat wasp actress water rose galaxy buzz firm flock churn barely humor";

@@ -1,1 +1,1 @@
-var mnemonic = "fall vehicle strike visual axis autumn spring orbit praise innocent situate spoil";
+var mnemonic = "tennis uphold stable olive horse cat small talent winter key list polar";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage super burger actual law market obey dinosaur picture awkward beauty merit";
+var mnemonic = "roof gospel celery breeze yard cruise place reason pepper banana crisp dash";

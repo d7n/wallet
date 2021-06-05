@@ -1,1 +1,1 @@
-var mnemonic = "jealous caution bread sun sudden polar enable mansion clay goat solution area";
+var mnemonic = "element hip inner coconut number wave unfold person trouble inherit update business";

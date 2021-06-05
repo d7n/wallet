@@ -1,1 +1,1 @@
-var mnemonic = "fan merit genius waste modify talk attract episode say machine aim bread";
+var mnemonic = "success episode lady wrist distance nominee tank toy gather foster cost giant";

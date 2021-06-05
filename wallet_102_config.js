@@ -1,1 +1,1 @@
-var mnemonic = "slot melt dress inch ship student action tonight same duck clap best";
+var mnemonic = "west guide female practice hope hollow sand science bind useful minimum engine";

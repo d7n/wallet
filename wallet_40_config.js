@@ -1,1 +1,1 @@
-var mnemonic = "trigger aware step move false brick dress lesson thank tide exact easily";
+var mnemonic = "figure base meadow combine price twin situate decline wheel claw narrow educate";

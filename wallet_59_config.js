@@ -1,1 +1,1 @@
-var mnemonic = "explain hamster vehicle ozone vacant swim bean caught mercy own nothing educate";
+var mnemonic = "trade cloth belt symbol swap assault hire fuel mutual timber nut gallery";

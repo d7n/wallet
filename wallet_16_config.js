@@ -1,1 +1,1 @@
-var mnemonic = "immune luxury beef wine path history catalog pudding hockey obvious sad airport";
+var mnemonic = "thumb tunnel voyage pistol wrap final make eyebrow expire true spin picture";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon iron success short deposit dismiss roof typical wine high outside problem";
+var mnemonic = "render tuition best web motion school powder lawsuit speak brown deposit base";

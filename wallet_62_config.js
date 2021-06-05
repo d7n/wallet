@@ -1,1 +1,1 @@
-var mnemonic = "science axis tooth use fog erupt aspect evolve ketchup muscle tomorrow essence";
+var mnemonic = "movie type metal surface balance loud ceiling have arrow tape dune wasp";

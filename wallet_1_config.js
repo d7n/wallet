@@ -1,1 +1,1 @@
-var mnemonic = "sponsor monkey bundle save flee mosquito power trust beach giraffe burden found";
+var mnemonic = "world filter nothing siren congress isolate extra lunar bread quarter fork before";

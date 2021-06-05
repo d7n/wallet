@@ -1,1 +1,1 @@
-var mnemonic = "method finger resource share usage mesh novel dash pistol polar cotton cannon";
+var mnemonic = "twist beyond choose captain rival card hour hair wrong town also joy";

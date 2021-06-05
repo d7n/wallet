@@ -1,1 +1,1 @@
-var mnemonic = "rate unique brave tool bronze pigeon manual drop spend valley inflict veteran";
+var mnemonic = "fade fatal prefer unveil access slush before fog paper budget ski silent";

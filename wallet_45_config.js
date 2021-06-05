@@ -1,1 +1,1 @@
-var mnemonic = "game wreck staff spare rule village lend hole stage bitter range nice";
+var mnemonic = "speak arrest misery sniff random gentle you grid rib meadow inner hill";

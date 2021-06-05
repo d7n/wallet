@@ -1,1 +1,1 @@
-var mnemonic = "unfair galaxy run answer suit boss cart local vapor online athlete camp";
+var mnemonic = "audit test copper magnet lonely surround tower tourist noodle injury lamp snap";

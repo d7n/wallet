@@ -1,1 +1,1 @@
-var mnemonic = "office escape couple nut cute web brown member client unfair rebuild sea";
+var mnemonic = "sustain gallery intact trip girl announce divorce sight truth flash road point";

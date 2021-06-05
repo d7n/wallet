@@ -1,1 +1,1 @@
-var mnemonic = "impose help wolf become napkin aim sort conduct latin erupt dog mean";
+var mnemonic = "final engine merge drop shuffle immune tray boat loud word exercise laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "assist purity act garment gun whale benefit tomorrow used flip innocent knock";
+var mnemonic = "machine artefact capital angry pioneer guilt primary accuse offer radio ensure acoustic";

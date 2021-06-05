@@ -1,1 +1,1 @@
-var mnemonic = "green loan camera snow script ridge crucial desk vacant october axis federal";
+var mnemonic = "spatial stomach seek iron trick tribe coral venue six much city olive";

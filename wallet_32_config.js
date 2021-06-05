@@ -1,1 +1,1 @@
-var mnemonic = "okay grow hover police current diary speed flame buffalo cruise humor exhibit";
+var mnemonic = "above crowd flag cabbage zone royal reunion infant absorb skull mule setup";

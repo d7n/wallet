@@ -1,1 +1,1 @@
-var mnemonic = "define perfect cycle father once apart offer figure oval pistol arrange budget";
+var mnemonic = "ivory sense swim satisfy ostrich long clever meadow rifle quarter salute color";

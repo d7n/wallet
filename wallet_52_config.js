@@ -1,1 +1,1 @@
-var mnemonic = "fragile mushroom urban security build divide elevator asthma friend copy execute cricket";
+var mnemonic = "cricket soda elder provide rigid say light girl paper lava rack example";

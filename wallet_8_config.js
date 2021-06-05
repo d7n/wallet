@@ -1,1 +1,1 @@
-var mnemonic = "stamp people grief lizard project slim stumble board spider brain fragile home";
+var mnemonic = "pride surround daring swear winner bunker tell annual bamboo quick image saddle";

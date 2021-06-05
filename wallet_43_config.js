@@ -1,1 +1,1 @@
-var mnemonic = "slight edge play capable auto flip hollow retreat antenna syrup faith faith";
+var mnemonic = "clerk enemy body switch leader cousin thought actual ritual catch ostrich panic";

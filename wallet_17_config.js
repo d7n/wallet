@@ -1,1 +1,1 @@
-var mnemonic = "capable quantum occur virus control edge script category hunt noble warrior satoshi";
+var mnemonic = "useful project express promote track pelican early island burst fluid employ interest";

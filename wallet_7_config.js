@@ -1,1 +1,1 @@
-var mnemonic = "width actor cabbage hour rice solid become scale endorse laundry often also";
+var mnemonic = "eyebrow render trim latin brand kite belt gun ill ice when marriage";

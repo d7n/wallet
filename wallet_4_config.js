@@ -1,1 +1,1 @@
-var mnemonic = "hint task subway jar fury deny stereo bread stem annual topic skate";
+var mnemonic = "head vanish degree void later devote normal green reform because stereo harvest";

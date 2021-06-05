@@ -1,1 +1,1 @@
-var mnemonic = "develop april island gown foam defense echo embody camera kingdom drill luggage";
+var mnemonic = "seat siren field lumber bullet fit museum motion lens olympic ability cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "speed mushroom glare slush acoustic lion truth pottery question champion outside reason";
+var mnemonic = "helmet slush jeans casual skate file hazard find scatter weapon glove injury";

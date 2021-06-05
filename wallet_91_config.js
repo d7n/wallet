@@ -1,1 +1,1 @@
-var mnemonic = "over escape kit wall message hero cabin crisp increase patch simple brain";
+var mnemonic = "rifle like elite various sweet chalk true pumpkin submit fantasy subject pink";

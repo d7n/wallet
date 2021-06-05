@@ -1,1 +1,1 @@
-var mnemonic = "tag basket transfer state teach hold benefit design sure pioneer hybrid carbon";
+var mnemonic = "bid dose plunge tray recycle wrap glimpse dance theme degree easily fish";

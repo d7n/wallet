@@ -1,1 +1,1 @@
-var mnemonic = "exact thumb roof sign category whale above sword push blood rate orbit";
+var mnemonic = "detect turn blush fatal meat valid bone where recipe clog mass shaft";

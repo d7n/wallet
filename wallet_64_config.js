@@ -1,1 +1,1 @@
-var mnemonic = "abuse science warfare uniform soft subject badge sadness actual blast pony can";
+var mnemonic = "crane athlete between glow crack guilt shop cargo canal diamond quote broom";

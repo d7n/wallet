@@ -1,1 +1,1 @@
-var mnemonic = "reveal skirt puppy area runway nuclear luxury blood canoe meadow fossil drink";
+var mnemonic = "diagram cruel neck dynamic river pencil seek expect balcony east keep box";

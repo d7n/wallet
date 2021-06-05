@@ -1,1 +1,1 @@
-var mnemonic = "purse hen mimic obey clown uncover swarm cluster print space harvest once";
+var mnemonic = "pilot birth rough city order drink pilot mother cross raise someone country";

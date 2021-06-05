@@ -1,1 +1,1 @@
-var mnemonic = "crunch advice forum turn fresh sad room genius shiver learn because because";
+var mnemonic = "chef spice stem hedgehog express mean pattern surround typical yellow lounge spoon";

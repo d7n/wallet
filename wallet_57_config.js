@@ -1,1 +1,1 @@
-var mnemonic = "squeeze coffee uncle baby castle maid real tone senior student field cloud";
+var mnemonic = "romance clump inch ability student steak often announce admit cup era loan";

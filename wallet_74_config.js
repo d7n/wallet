@@ -1,1 +1,1 @@
-var mnemonic = "tackle warrior damage leader comic midnight grab whip fruit meat gauge trade";
+var mnemonic = "fiction eight velvet spot end emotion account entire insect order social alter";

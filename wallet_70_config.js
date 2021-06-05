@@ -1,1 +1,1 @@
-var mnemonic = "ordinary sock wreck win century address weapon need slight wrap sense mobile";
+var mnemonic = "maximum insane two bridge hurry knock empower drive moon hour hen rocket";

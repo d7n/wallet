@@ -1,1 +1,1 @@
-var mnemonic = "genre view pilot shoe another print inject month section blanket chimney fold";
+var mnemonic = "nasty phone engine weather beef ugly truly deer news hard emotion ridge";

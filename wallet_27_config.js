@@ -1,1 +1,1 @@
-var mnemonic = "possible core rally offer balcony drop modify motion dizzy crouch pumpkin purpose";
+var mnemonic = "very school toy another next ticket adult reform hen antique connect know";

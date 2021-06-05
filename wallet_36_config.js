@@ -1,1 +1,1 @@
-var mnemonic = "warm dish present tissue secret panda coach mechanic tiger someone resemble miracle";
+var mnemonic = "identify reveal slender chat segment gain chimney theory add board dog frog";

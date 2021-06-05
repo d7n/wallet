@@ -1,1 +1,1 @@
-var mnemonic = "enact usual spray hood cliff release grow special maple stuff wall team";
+var mnemonic = "relief advance again organ source private cave coast index exact awesome blur";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch table need dial farm crane claw cover praise border feature correct";
+var mnemonic = "few bag praise voyage symptom parent false skull clown autumn window range";

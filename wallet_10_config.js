@@ -1,1 +1,1 @@
-var mnemonic = "outside course viable turkey double circle modify sample scan priority royal swift";
+var mnemonic = "museum scheme tail trial street summer pause clip betray magic spend together";

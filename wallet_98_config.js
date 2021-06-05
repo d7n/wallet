@@ -1,1 +1,1 @@
-var mnemonic = "alien bullet deal peace knife engage warfare left dwarf federal size abuse";
+var mnemonic = "search appear multiply dismiss mango throw digital donkey burger celery unveil inside";

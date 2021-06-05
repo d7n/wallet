@@ -1,1 +1,1 @@
-var mnemonic = "swing soul fatigue steak team soccer manage salt brief scrub roast rug";
+var mnemonic = "blanket clay anxiety yellow tunnel order satoshi frequent sustain blur frequent answer";

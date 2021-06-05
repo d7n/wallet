@@ -1,1 +1,1 @@
-var mnemonic = "middle wonder jaguar dilemma gold lamp assault ocean obscure section what girl";
+var mnemonic = "verify always involve ghost common minor caught calm pelican minimum act reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol eternal hat obtain object scissors donkey live enlist feed truck hill";
+var mnemonic = "hobby danger wash hand siege century imitate topple gather genre thumb grab";

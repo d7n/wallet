@@ -1,1 +1,1 @@
-var mnemonic = "that payment payment hire finger true attack test head play solid gun";
+var mnemonic = "leopard bring tennis across loan more school galaxy entire error gorilla twelve";

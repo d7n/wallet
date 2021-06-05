@@ -1,1 +1,1 @@
-var mnemonic = "bachelor young solar same illegal ball light betray brush bulk adult amateur";
+var mnemonic = "alley easy siren swarm hunt banner measure web hover city gossip calm";

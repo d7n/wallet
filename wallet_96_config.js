@@ -1,1 +1,1 @@
-var mnemonic = "rug analyst void maze amateur dry viable hotel grape outer display grit";
+var mnemonic = "bread crystal entire palace useful amazing slight energy direct bridge recipe east";

@@ -1,1 +1,1 @@
-var mnemonic = "couple bus cross similar gather village addict build correct potato topple fever";
+var mnemonic = "rather light chat clump hunt material dial wire alpha fashion neither brave";

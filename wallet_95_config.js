@@ -1,1 +1,1 @@
-var mnemonic = "gate witness autumn ship hint basket bitter fee rural muscle gate inflict";
+var mnemonic = "width door concert frown way annual mushroom pioneer knife limb enjoy junk";

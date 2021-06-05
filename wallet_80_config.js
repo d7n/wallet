@@ -1,1 +1,1 @@
-var mnemonic = "bus palace fluid usual tag rude remember delay chicken element wire spoon";
+var mnemonic = "eight casino laundry wide involve across slot sea misery suit fabric used";

@@ -1,1 +1,1 @@
-var mnemonic = "double real feed renew only fetch street van hidden salmon caution guitar";
+var mnemonic = "vintage enjoy cover worth candy trash fit other foam cat rhythm master";

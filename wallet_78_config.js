@@ -1,1 +1,1 @@
-var mnemonic = "attract busy cat reward depend disorder oil tissue base garment cheap primary";
+var mnemonic = "anxiety unit coin coyote wasp priority treat wish misery awake chat chronic";

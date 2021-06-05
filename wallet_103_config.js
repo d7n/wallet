@@ -1,1 +1,1 @@
-var mnemonic = "opera real repeat wing network eagle ritual photo taxi spin cattle include";
+var mnemonic = "find burger sleep hip bag raise boy page credit tool guard kid";

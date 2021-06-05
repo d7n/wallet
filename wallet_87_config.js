@@ -1,1 +1,1 @@
-var mnemonic = "transfer snack pottery ship ordinary multiply reform click across finish river pledge";
+var mnemonic = "base topic make mixed dumb fine diamond deer trim wet yellow glimpse";

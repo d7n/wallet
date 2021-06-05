@@ -1,1 +1,1 @@
-var mnemonic = "story giraffe donate loud frozen warrior laundry put menu stick case rescue";
+var mnemonic = "marine north gaze dutch argue margin shy stamp forest canoe funny verify";

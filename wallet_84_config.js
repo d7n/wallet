@@ -1,1 +1,1 @@
-var mnemonic = "horror dizzy brief unique diagram person grief debris angry mention flag eye";
+var mnemonic = "table jewel switch exercise diagram argue junior hole toe beyond imitate present";

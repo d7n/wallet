@@ -1,1 +1,1 @@
-var mnemonic = "success asset dentist advance swallow attitude onion dinner amazing black enrich inner";
+var mnemonic = "secret furnace shove year eye forget harvest jeans adult nothing develop armor";

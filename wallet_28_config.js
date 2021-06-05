@@ -1,1 +1,1 @@
-var mnemonic = "please barely case twin affair street motion extend demise loud pink flash";
+var mnemonic = "wild defy gain rocket unfair borrow erupt exit scheme sail galaxy cry";

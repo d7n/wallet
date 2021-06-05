@@ -1,1 +1,1 @@
-var mnemonic = "climb seat envelope setup jewel fatigue noise already equal journey need faith";
+var mnemonic = "reduce exercise want flavor pole isolate tornado voyage angry panic cattle media";

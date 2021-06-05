@@ -1,1 +1,1 @@
-var mnemonic = "barely valley never suggest muscle exit fall song grit during antenna mixture";
+var mnemonic = "approve dice hello wear fall cement post puppy behave family neck baby";
