@@ -1,1 +1,1 @@
-var mnemonic = "fix tuna scissors riot busy tent athlete subway tag child another intact";
+var mnemonic = "fatal bubble embark you smoke curious glove lamp column describe route castle";

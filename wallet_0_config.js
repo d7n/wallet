@@ -1,1 +1,1 @@
-var mnemonic = "space fruit rich grape horror resist allow pizza feature lyrics minor short";
+var mnemonic = "one public silk thing enforce language guide draft depth sand exotic miracle";

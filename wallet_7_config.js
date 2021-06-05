@@ -1,1 +1,1 @@
-var mnemonic = "diary language process test wheel rain member expose potato lab vacuum sibling";
+var mnemonic = "thank unfair enact glare region comic unusual sniff luxury liar hedgehog attract";

@@ -1,1 +1,1 @@
-var mnemonic = "raven horse meat damage express donkey core test veteran property wall grunt";
+var mnemonic = "stock viable loyal truly concert donate round decline famous inmate machine cause";

@@ -1,1 +1,1 @@
-var mnemonic = "culture battle slush pitch rabbit humble pen brain awake brisk route hunt";
+var mnemonic = "cargo roast industry hip top awful margin smoke diet casino balance unaware";

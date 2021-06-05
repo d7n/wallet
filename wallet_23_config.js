@@ -1,1 +1,1 @@
-var mnemonic = "foam card tenant reflect excess flock mansion equal dawn desert pulse whisper";
+var mnemonic = "dynamic vault liberty steel nature arch sock ostrich pear jump diesel vicious";

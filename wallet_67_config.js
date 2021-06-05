@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur night foil empty also polar crane gate tunnel hair fossil frown";
+var mnemonic = "twenty mandate mouse neutral camp shoot mansion frame aerobic quality roast unit";

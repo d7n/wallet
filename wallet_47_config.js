@@ -1,1 +1,1 @@
-var mnemonic = "fitness maple inside cushion obtain lion old east idea pitch video ghost";
+var mnemonic = "audit maximum foam conduct tomorrow asthma first tuition smooth boss infant dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "lion vibrant girl deputy race foster room excess this easily control obey";
+var mnemonic = "pencil copper stage flame stairs smoke member illegal success interest cry wild";

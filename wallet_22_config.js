@@ -1,1 +1,1 @@
-var mnemonic = "special never asset sheriff myth armor pudding wheel situate stem web minor";
+var mnemonic = "pretty federal army achieve annual slender knee pet elder glimpse castle milk";

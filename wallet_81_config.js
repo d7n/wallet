@@ -1,1 +1,1 @@
-var mnemonic = "dumb blouse raise social bike cactus catalog slogan unusual brisk bounce survey";
+var mnemonic = "digital owner duty morning major valley online cannon you false actress mean";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire group patrol grain obey trim file say canal all text foot";
+var mnemonic = "pudding then cause valve goddess among wish mystery jacket dice topple swift";

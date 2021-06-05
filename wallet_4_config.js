@@ -1,1 +1,1 @@
-var mnemonic = "jewel economy maple age panic lucky snap sense alert police song tiger";
+var mnemonic = "ride fruit disagree occur office erosion future stable swift assault beyond amateur";

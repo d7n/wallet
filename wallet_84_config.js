@@ -1,1 +1,1 @@
-var mnemonic = "afraid tuition vehicle tonight identify life laptop tackle achieve robot forum above";
+var mnemonic = "theme change spawn shadow lunch renew youth total three wire wrong zone";

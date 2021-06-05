@@ -1,1 +1,1 @@
-var mnemonic = "fossil glass park joke season eagle roast inquiry stumble undo lecture cricket";
+var mnemonic = "among history above venue social vocal spice enforce have melt example venture";

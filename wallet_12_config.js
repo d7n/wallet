@@ -1,1 +1,1 @@
-var mnemonic = "just little lava caught crystal wrap one broken simple city discover use";
+var mnemonic = "spirit track practice salute exercise spy obscure transfer clay security tomorrow suffer";

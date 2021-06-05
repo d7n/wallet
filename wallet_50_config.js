@@ -1,1 +1,1 @@
-var mnemonic = "devote divide crack long spice daring item fire fortune ignore ceiling use";
+var mnemonic = "pioneer scout family oblige mind borrow answer year pudding panther wood science";

@@ -1,1 +1,1 @@
-var mnemonic = "angry social empty shrimp ball estate chapter debate joke canvas oppose hazard";
+var mnemonic = "ten palm song gap arrest multiply piano predict kitchen shop trial basic";

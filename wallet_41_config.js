@@ -1,1 +1,1 @@
-var mnemonic = "limit add dust dutch system mixed push space question onion remove ceiling";
+var mnemonic = "angle alert buffalo rack silly force army awesome choice abuse two tuition";

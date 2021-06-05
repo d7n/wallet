@@ -1,1 +1,1 @@
-var mnemonic = "mechanic income cage tank draw hammer shrimp catch pulse strategy high middle";
+var mnemonic = "version stadium lizard duty soon spot equal viable witness increase craft vendor";

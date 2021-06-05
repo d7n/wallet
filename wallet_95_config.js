@@ -1,1 +1,1 @@
-var mnemonic = "skirt sentence point before legend tumble snack group gain hair claim bulk";
+var mnemonic = "name tongue release tape movie cup brave setup stomach adjust tissue option";

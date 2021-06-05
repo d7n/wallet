@@ -1,1 +1,1 @@
-var mnemonic = "artefact error struggle proof more exact truly obvious document silly plunge spread";
+var mnemonic = "boost group elevator now bring galaxy easy surface clever clerk wine random";

@@ -1,1 +1,1 @@
-var mnemonic = "fog skull ankle snow piece kiwi wash program list excess scrap know";
+var mnemonic = "banner soup save time voyage fury truck industry autumn object useful elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "salt camera gift that connect pond stand scrap one fatal clump gadget";
+var mnemonic = "miracle unit tourist until scrap female oil brick remember know gather erase";

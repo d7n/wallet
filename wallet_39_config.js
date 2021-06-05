@@ -1,1 +1,1 @@
-var mnemonic = "wall coast cement worth eagle jungle guide inner disease term budget inherit";
+var mnemonic = "liberty omit girl know assume captain traffic garden patch regret office turn";

@@ -1,1 +1,1 @@
-var mnemonic = "awful cactus dune trim silver erase main liberty flat swap auction usage";
+var mnemonic = "vanish silver rent inflict proud used width drama verify enroll school two";

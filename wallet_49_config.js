@@ -1,1 +1,1 @@
-var mnemonic = "diamond acid arena corn diet observe trade demise tumble shrimp weird cause";
+var mnemonic = "coast delay quote matrix lock anger hour globe art mean rose sunny";

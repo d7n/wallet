@@ -1,1 +1,1 @@
-var mnemonic = "husband develop sun twist salon mirror repair desk switch settle promote chef";
+var mnemonic = "logic olive dry horse clock crater note film diamond loud measure refuse";

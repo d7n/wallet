@@ -1,1 +1,1 @@
-var mnemonic = "ivory together decrease pause history assume despair ready hand people solve camp";
+var mnemonic = "also laundry anxiety knee motion nuclear cabbage buddy firm stuff cruel share";

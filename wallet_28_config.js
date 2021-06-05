@@ -1,1 +1,1 @@
-var mnemonic = "canal victory express jungle sad roast glide habit bridge ask canyon donate";
+var mnemonic = "glance skill nasty enlist final camera rubber nut elbow latin paddle devote";

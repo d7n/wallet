@@ -1,1 +1,1 @@
-var mnemonic = "sustain muffin praise correct hockey army achieve rude travel drive whale bottom";
+var mnemonic = "tray machine neglect expose ancient balcony mean success improve exhaust address sea";

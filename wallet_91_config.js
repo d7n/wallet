@@ -1,1 +1,1 @@
-var mnemonic = "rabbit bottom disagree pig main oven diet glory later goddess holiday theme";
+var mnemonic = "order approve wave apple wage cloud oblige beef cable limb denial catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "corn slam say video pulse scare expose weekend hedgehog pyramid load seminar";
+var mnemonic = "song neck assist bullet make gas demise milk river connect torch cable";

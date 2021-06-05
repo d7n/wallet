@@ -1,1 +1,1 @@
-var mnemonic = "pioneer absent ignore sentence economy setup spray man exile attend daughter sell";
+var mnemonic = "pink elder patch regular hobby claim fury news symbol travel sorry conduct";

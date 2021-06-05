@@ -1,1 +1,1 @@
-var mnemonic = "team conduct crater blossom year hint sight mind labor salon inhale steel";
+var mnemonic = "either original intact entire average mass clap outdoor hybrid raw ladder canal";

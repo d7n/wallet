@@ -1,1 +1,1 @@
-var mnemonic = "blanket timber smile ridge loop head young pilot economy uphold tragic elite";
+var mnemonic = "obscure task trouble silver only deny rebuild toss stand idle smart icon";

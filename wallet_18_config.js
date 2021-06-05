@@ -1,1 +1,1 @@
-var mnemonic = "plunge salt used squirrel gaze invest cream cliff fix thumb vocal action";
+var mnemonic = "young floor involve pig orient together total grace deliver option omit tired";

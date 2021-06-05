@@ -1,1 +1,1 @@
-var mnemonic = "tunnel seek walnut weird fire tribe donate odor junior between beef label";
+var mnemonic = "border capital ethics faculty oak fan material bomb fever black enforce fly";

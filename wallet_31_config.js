@@ -1,1 +1,1 @@
-var mnemonic = "matter device enhance time visa motion destroy math later uncover rain conduct";
+var mnemonic = "extend cat hello special hat note twice exit crane lazy inside cage";

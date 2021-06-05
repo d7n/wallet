@@ -1,1 +1,1 @@
-var mnemonic = "scrub deal evidence rocket suit cradle confirm appear galaxy piece almost black";
+var mnemonic = "produce victory voice until begin place betray cannon trophy engine neutral rebuild";

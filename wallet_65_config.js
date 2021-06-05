@@ -1,1 +1,1 @@
-var mnemonic = "prevent vague banana effort unveil hair plate toe essence swallow opinion future";
+var mnemonic = "split snow shell later daring nurse advance sea sail pet hunt hill";

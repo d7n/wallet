@@ -1,1 +1,1 @@
-var mnemonic = "enforce spot gasp expand social deposit pizza ride stage hurry such require";
+var mnemonic = "right flag trust hen angry this soccer close fade love possible area";

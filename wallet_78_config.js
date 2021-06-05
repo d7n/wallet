@@ -1,1 +1,1 @@
-var mnemonic = "diagram empower draft boy unaware attend jar swear abuse convince design beach";
+var mnemonic = "rare wheel name moral twelve rapid legend knee social intact scene yard";

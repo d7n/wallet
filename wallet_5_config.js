@@ -1,1 +1,1 @@
-var mnemonic = "mimic destroy result gallery film treat record slender monkey hidden win enlist";
+var mnemonic = "say long code cook execute differ purpose siege ahead document mechanic violin";

@@ -1,1 +1,1 @@
-var mnemonic = "coin measure mixed clip test hurt lend young emotion usage wrap marine";
+var mnemonic = "loud cluster cereal beauty spread icon fantasy episode mass exotic mix card";

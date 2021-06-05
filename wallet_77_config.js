@@ -1,1 +1,1 @@
-var mnemonic = "gesture athlete gauge caution obvious inquiry saddle retire normal pride budget tiny";
+var mnemonic = "adjust dream fluid pony poet vague search rapid flavor method surface dog";

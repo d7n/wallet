@@ -1,1 +1,1 @@
-var mnemonic = "zone hen replace usual blossom situate address weasel maximum climb catch leave";
+var mnemonic = "sword early case boil proof retreat thing angle sure dream morning crack";

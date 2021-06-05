@@ -1,1 +1,1 @@
-var mnemonic = "reveal cook town away shoot prison fatigue sudden attitude safe seat cash";
+var mnemonic = "maple dragon believe north youth kidney charge step empower gate toss play";

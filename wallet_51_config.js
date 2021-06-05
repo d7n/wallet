@@ -1,1 +1,1 @@
-var mnemonic = "inquiry other strong slim consider swear festival mistake scrap flock major valid";
+var mnemonic = "tumble seat van ready dutch size present brand forget believe number music";

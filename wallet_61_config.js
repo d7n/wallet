@@ -1,1 +1,1 @@
-var mnemonic = "exhibit settle lottery gold spoil bargain collect file waste movie search town";
+var mnemonic = "master enable limit unhappy trim paper tail snow bag finish female alien";

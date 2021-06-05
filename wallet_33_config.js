@@ -1,1 +1,1 @@
-var mnemonic = "replace argue ivory useful monitor gun mirror caught toast annual trouble mutual";
+var mnemonic = "garden scare gloom story general labor system canal liar shaft reform lion";

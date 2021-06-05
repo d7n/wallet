@@ -1,1 +1,1 @@
-var mnemonic = "angry cloud find concert oppose picnic secret awful crack junior banner pyramid";
+var mnemonic = "stage story prevent inflict key snack mushroom object plate health relief spin";

@@ -1,1 +1,1 @@
-var mnemonic = "fog pudding hammer option also tower sweet faculty faculty chuckle drip struggle";
+var mnemonic = "daughter awful erupt glad uncle unit mind pudding canoe tape siren twist";

@@ -1,1 +1,1 @@
-var mnemonic = "service include caution purse bus usage toward cloud long hospital garage egg";
+var mnemonic = "south sausage arrow nominee sibling eye hammer olympic clump silk aunt bid";

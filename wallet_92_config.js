@@ -1,1 +1,1 @@
-var mnemonic = "repair draft grab drip gown humor boss session nation dragon trial fold";
+var mnemonic = "canvas bless install unveil alter infant diamond release segment humble involve asthma";

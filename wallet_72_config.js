@@ -1,1 +1,1 @@
-var mnemonic = "capable pink coin same wear enough december sail entry bench regret hundred";
+var mnemonic = "foam sense keep opera next traffic gain palm labor error elite cruise";

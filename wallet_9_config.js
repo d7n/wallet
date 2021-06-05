@@ -1,1 +1,1 @@
-var mnemonic = "market category diamond brother famous sing ordinary mechanic assist ivory gold situate";
+var mnemonic = "enemy power jaguar submit stable drift sight picture hybrid drift license pass";

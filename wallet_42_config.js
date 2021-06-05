@@ -1,1 +1,1 @@
-var mnemonic = "wear brand share deal observe problem tobacco disorder inquiry chase lumber citizen";
+var mnemonic = "faint circle wonder title paddle follow retire eyebrow what noble verb tag";

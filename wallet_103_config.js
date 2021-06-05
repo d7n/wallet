@@ -1,1 +1,1 @@
-var mnemonic = "hundred broccoli crystal tank inflict early segment endless gesture clump boil manual";
+var mnemonic = "oyster ranch argue clever unfair walnut gravity sponsor choice orchard echo tube";

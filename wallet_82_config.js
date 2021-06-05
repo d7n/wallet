@@ -1,1 +1,1 @@
-var mnemonic = "midnight frog cricket net novel spider dismiss flee awkward honey vintage combine";
+var mnemonic = "audit debris song rival vintage curious project then blue clinic strike flash";

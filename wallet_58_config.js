@@ -1,1 +1,1 @@
-var mnemonic = "stay tank almost alter oblige orchard allow deer doctor during thank tonight";
+var mnemonic = "steel reject monitor script shrug cinnamon attack slot flee canvas club purse";

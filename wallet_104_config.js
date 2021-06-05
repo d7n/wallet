@@ -1,1 +1,1 @@
-var mnemonic = "imitate sure gasp veteran another enter attend turkey sight age satoshi axis";
+var mnemonic = "never speed spring twice decrease orient husband december phone cereal grit relax";

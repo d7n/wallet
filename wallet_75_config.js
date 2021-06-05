@@ -1,1 +1,1 @@
-var mnemonic = "stand nuclear figure foam enforce victory snap wrestle wealth audit involve visual";
+var mnemonic = "type scheme suffer ranch appear cram episode rice double salon ring toward";

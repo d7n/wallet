@@ -1,1 +1,1 @@
-var mnemonic = "birth toast erupt true sun siege absorb ginger degree lock seminar approve";
+var mnemonic = "smart lumber cage strong that suspect magnet endorse electric nasty relax pelican";

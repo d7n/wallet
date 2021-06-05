@@ -1,1 +1,1 @@
-var mnemonic = "all face tragic whip odor illegal kidney tooth urban jelly nephew toe";
+var mnemonic = "sick artefact tonight dutch action outside pottery pudding nothing promote alcohol visa";

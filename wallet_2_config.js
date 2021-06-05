@@ -1,1 +1,1 @@
-var mnemonic = "train blouse gown better extend spice praise city vibrant stone repeat dry";
+var mnemonic = "fence document chapter room hire smile east mimic baby emerge abstract tank";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist vacuum swim prosper system write version cruise tape enrich muffin token";
+var mnemonic = "tribe hidden immense strategy hedgehog tattoo student club strong day spot child";

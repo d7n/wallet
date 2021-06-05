@@ -1,1 +1,1 @@
-var mnemonic = "visual wife measure ecology border wedding stumble drama rookie cry oxygen doctor";
+var mnemonic = "core aspect explain evil proof cage gadget merit rent account distance another";

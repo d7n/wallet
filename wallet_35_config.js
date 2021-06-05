@@ -1,1 +1,1 @@
-var mnemonic = "inform shrimp day film style mixture frost aunt tray head ability very";
+var mnemonic = "stadium shine damage torch crouch foot west trap very glide ring drill";

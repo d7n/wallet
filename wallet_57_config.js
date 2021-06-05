@@ -1,1 +1,1 @@
-var mnemonic = "apart hunt absorb elite grass cloth slice pelican tobacco tank pretty also";
+var mnemonic = "wave garment crater behind answer taxi letter gadget walk science hamster horror";

@@ -1,1 +1,1 @@
-var mnemonic = "often page boring silent anchor want hire enact grain payment gorilla ride";
+var mnemonic = "stereo provide sure ready squirrel print dwarf catalog disagree autumn when trim";

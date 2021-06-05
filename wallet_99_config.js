@@ -1,1 +1,1 @@
-var mnemonic = "gown already gauge skill soccer rhythm cabin able safe crunch number gospel";
+var mnemonic = "exercise garage delay chimney blade crouch leisure core spring west later script";

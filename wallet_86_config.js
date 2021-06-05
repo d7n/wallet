@@ -1,1 +1,1 @@
-var mnemonic = "oyster keep lemon toss sting month arrange nephew there update planet vague";
+var mnemonic = "flush absurd quality scrub scare portion girl mercy exclude bounce people giraffe";

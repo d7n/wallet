@@ -1,1 +1,1 @@
-var mnemonic = "guide energy manage blur deposit front fuel call burger oven turkey human";
+var mnemonic = "office sight father future satoshi okay easy squeeze curve rice various segment";

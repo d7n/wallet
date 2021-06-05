@@ -1,1 +1,1 @@
-var mnemonic = "wagon planet trumpet sunset portion live have original gauge odor multiply camera";
+var mnemonic = "brown century vital copy daughter group arm twelve achieve furnace boat motor";

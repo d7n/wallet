@@ -1,1 +1,1 @@
-var mnemonic = "bench mansion base anxiety bean about six lobster woman reopen pioneer canvas";
+var mnemonic = "outer music search envelope swear feel flat invest saddle steak cloud mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "theory neutral twice rigid cook solve sight provide dolphin order deer swamp";
+var mnemonic = "bread ski top resource sunny rose ghost melody orbit brief lonely cereal";

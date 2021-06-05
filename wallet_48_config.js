@@ -1,1 +1,1 @@
-var mnemonic = "gentle issue march example around expire symbol salmon prize limit tackle among";
+var mnemonic = "topple other fruit accuse never soup era confirm present embrace trash front";

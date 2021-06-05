@@ -1,1 +1,1 @@
-var mnemonic = "nothing kitchen you oval derive system intact supply this allow tree sentence";
+var mnemonic = "update amount student strike asthma duck rescue cash unusual glad script chase";

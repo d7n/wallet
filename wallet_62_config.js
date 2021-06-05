@@ -1,1 +1,1 @@
-var mnemonic = "trigger book solar basic nurse glad allow coyote edge push grab senior";
+var mnemonic = "penalty eager vibrant guard social deliver room now govern system bag awkward";

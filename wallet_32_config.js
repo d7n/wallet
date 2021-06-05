@@ -1,1 +1,1 @@
-var mnemonic = "brief ceiling sample lift grab fitness remain velvet random chicken doctor lift";
+var mnemonic = "stand session spider medal wealth curve image visit job buffalo kidney fatal";

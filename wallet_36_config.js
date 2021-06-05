@@ -1,1 +1,1 @@
-var mnemonic = "april noodle west enact fabric master cement summer secret vocal enrich put";
+var mnemonic = "average deny skin horse gift opinion night phone essence cram horror desk";

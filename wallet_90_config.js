@@ -1,1 +1,1 @@
-var mnemonic = "forget ketchup bomb gym water sheriff black shadow chief sister apology brave";
+var mnemonic = "coral social relax enable coconut mobile sibling fork finger scare dawn elbow";

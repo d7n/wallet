@@ -1,1 +1,1 @@
-var mnemonic = "shallow glove term alley someone finish inner royal candy section crumble once";
+var mnemonic = "pilot unknown wish circle width roof orphan sting just attitude equip help";

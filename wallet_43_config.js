@@ -1,1 +1,1 @@
-var mnemonic = "hazard green legal once fork mule divert type dream staff reopen giant";
+var mnemonic = "payment hard target indoor firm achieve inch blanket finish video rural rain";

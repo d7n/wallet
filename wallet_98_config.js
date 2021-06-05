@@ -1,1 +1,1 @@
-var mnemonic = "tank love rose rebel photo flower bless quit vague riot inquiry calm";
+var mnemonic = "seek traffic author shaft dream story army report execute ill lock inquiry";

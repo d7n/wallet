@@ -1,1 +1,1 @@
-var mnemonic = "chaos alien bridge matrix service process town cake thank empower girl lab";
+var mnemonic = "siege brave tissue reduce dilemma ripple sister target flower injury ethics update";

@@ -1,1 +1,1 @@
-var mnemonic = "height six wood involve carry outdoor federal essence robust grid fresh giraffe";
+var mnemonic = "train flight alien light attend dad hawk warfare file gate talk voyage";

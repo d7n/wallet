@@ -1,1 +1,1 @@
-var mnemonic = "medal divorce program load regular nasty jelly wrap umbrella begin client dream";
+var mnemonic = "remove total imitate portion hunt hedgehog detect kind gravity program mind guard";

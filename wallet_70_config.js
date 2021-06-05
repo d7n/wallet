@@ -1,1 +1,1 @@
-var mnemonic = "blush piano humor wedding feed trim leopard stem frown donkey hungry edit";
+var mnemonic = "tribe luxury ranch clever loud can beach spray click expect spice review";

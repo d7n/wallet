@@ -1,1 +1,1 @@
-var mnemonic = "cave knife digital memory upgrade beyond tank permit brick carbon always embrace";
+var mnemonic = "image abandon ecology monitor dentist van father despair book initial over daring";

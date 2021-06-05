@@ -1,1 +1,1 @@
-var mnemonic = "online spend market will shell idea milk owner sauce noodle bind bargain";
+var mnemonic = "crush cactus bracket void uniform tragic enroll steak lyrics happy feature kingdom";

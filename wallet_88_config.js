@@ -1,1 +1,1 @@
-var mnemonic = "cream undo local guard echo inhale crunch rather scrub inherit bubble knife";
+var mnemonic = "mobile excuse flee element gossip faculty play host cool fish raise tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "powder recall demand echo usage casual weird pitch gasp ill curious portion";
+var mnemonic = "poet brisk license sail myself acoustic maze time ozone gold rocket elevator";
