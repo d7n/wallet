@@ -1,1 +1,1 @@
-var mnemonic = "foil canvas cool blame industry amount tourist feel silly ramp gorilla tilt";
+var mnemonic = "ramp quote pact wide state ghost tissue lion valve disease all antique";

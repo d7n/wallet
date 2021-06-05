@@ -1,1 +1,1 @@
-var mnemonic = "display escape bike length dynamic wing open want clever chat trend program";
+var mnemonic = "huge dumb split beauty pipe alone jungle coil curious can oven weird";

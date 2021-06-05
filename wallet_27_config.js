@@ -1,1 +1,1 @@
-var mnemonic = "step reveal drastic receive loan develop alley useless roof math cake surprise";
+var mnemonic = "hello tip harsh waste suspect over truck trumpet runway drop taste lend";

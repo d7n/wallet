@@ -1,1 +1,1 @@
-var mnemonic = "sorry people potato salt glue girl paddle achieve lyrics sound monster luxury";
+var mnemonic = "ecology neutral regret biology cash coin recipe know purity employ special caught";

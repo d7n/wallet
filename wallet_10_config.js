@@ -1,1 +1,1 @@
-var mnemonic = "picture critic column brave scare goose digital gaze pizza cruise unit action";
+var mnemonic = "wise liquid rocket utility faculty waste zone ketchup kid attend hedgehog love";

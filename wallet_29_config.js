@@ -1,1 +1,1 @@
-var mnemonic = "ski february maximum youth license number chimney double again veteran taste street";
+var mnemonic = "crumble club frost ginger unveil record abuse sure elegant ankle proud lonely";

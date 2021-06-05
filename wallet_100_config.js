@@ -1,1 +1,1 @@
-var mnemonic = "mirror wing correct excuse clerk street clap announce assault crouch possible immune";
+var mnemonic = "asthma cigar crucial catalog yard sea spell aspect feed hidden viable orange";

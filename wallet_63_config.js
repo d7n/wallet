@@ -1,1 +1,1 @@
-var mnemonic = "hockey riot rent index harbor they wrist lizard debate phone silent poet";
+var mnemonic = "blue wink question talent uncle mouse broccoli buffalo dose click host discover";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey wide cabin miss diesel current zebra liar join outdoor post sweet";
+var mnemonic = "excite sauce vendor because cycle tired meadow initial soft squirrel garden remain";

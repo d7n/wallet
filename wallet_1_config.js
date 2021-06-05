@@ -1,1 +1,1 @@
-var mnemonic = "party runway crush fog poem invite chuckle game three grief trade conduct";
+var mnemonic = "minor morning cool rescue wise reward sense alone damp rally fury govern";

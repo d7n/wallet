@@ -1,1 +1,1 @@
-var mnemonic = "sudden neither change nice sting resource notable response seven gloom run pass";
+var mnemonic = "goat matrix damp fox desk taste twelve ladder sugar foam shrug kiwi";

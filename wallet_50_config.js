@@ -1,1 +1,1 @@
-var mnemonic = "belt source device combine relax faint trust fiber floor chapter depend science";
+var mnemonic = "force about year ball toddler skate before guitar cube start snap index";

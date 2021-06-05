@@ -1,1 +1,1 @@
-var mnemonic = "produce guard excuse grow arrest omit sell abuse expire symbol desert sunny";
+var mnemonic = "private grit excite inspire frown myself stock price victory stand stone scrub";

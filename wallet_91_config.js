@@ -1,1 +1,1 @@
-var mnemonic = "dumb express object slide dash march father book beach jacket barrel token";
+var mnemonic = "song file employ guard flower fly immune drip goat quantum city pill";

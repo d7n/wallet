@@ -1,1 +1,1 @@
-var mnemonic = "live shy panther glad sound cruise replace tenant fan busy position birth";
+var mnemonic = "castle sport little job merry angle crash dirt green suspect eternal erupt";

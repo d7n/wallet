@@ -1,1 +1,1 @@
-var mnemonic = "carry vague pill mushroom direct finish worth message broccoli rough loud caught";
+var mnemonic = "vital salute lab jewel render sudden drama travel black hurry calm laugh";

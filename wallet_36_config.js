@@ -1,1 +1,1 @@
-var mnemonic = "strategy degree pact coach axis announce split milk arm shoot like ask";
+var mnemonic = "become concert adjust pipe dash art squirrel verb level connect young staff";

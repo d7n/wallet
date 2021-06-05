@@ -1,1 +1,1 @@
-var mnemonic = "wing broom month air make cloth surge wedding coach oyster gown fun";
+var mnemonic = "attack convince dawn employ salt glad budget orient indicate marine utility lobster";

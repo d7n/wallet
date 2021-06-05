@@ -1,1 +1,1 @@
-var mnemonic = "vibrant calm family donate helmet carpet category icon siege fit happy giant";
+var mnemonic = "eyebrow brush swear check leaf accuse pottery immense moment evil venture cliff";

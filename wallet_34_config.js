@@ -1,1 +1,1 @@
-var mnemonic = "enlist two arm bubble sword sponsor neither mass truth warm breeze circle";
+var mnemonic = "test moment subway skin ozone explain taste drink debate nominee chimney color";

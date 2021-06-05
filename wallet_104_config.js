@@ -1,1 +1,1 @@
-var mnemonic = "fork various ride shoe bench love warrior shine make behave ripple labor";
+var mnemonic = "resource chuckle lucky urban indicate general mechanic upon blood always inhale come";

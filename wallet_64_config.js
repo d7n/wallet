@@ -1,1 +1,1 @@
-var mnemonic = "plug outside today loan vivid danger alien orange service avoid monitor dentist";
+var mnemonic = "grain labor unknown couple price jelly donate grass only season crane grab";

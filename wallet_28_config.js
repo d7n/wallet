@@ -1,1 +1,1 @@
-var mnemonic = "sausage chat great crystal crouch combine half flavor tattoo silent stay hello";
+var mnemonic = "grace follow lazy sun space bamboo destroy veteran present dust orbit promote";

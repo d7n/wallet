@@ -1,1 +1,1 @@
-var mnemonic = "enrich cube trouble table wrist scatter gun vendor acoustic foam key behind";
+var mnemonic = "shuffle you document obscure unknown genuine coyote sure life unusual slogan aerobic";

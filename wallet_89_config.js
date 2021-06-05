@@ -1,1 +1,1 @@
-var mnemonic = "tray stumble useful misery salon cupboard scatter album couch lottery fee library";
+var mnemonic = "column vocal copy curve public all history funny coast defense burst twin";

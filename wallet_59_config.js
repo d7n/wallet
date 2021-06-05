@@ -1,1 +1,1 @@
-var mnemonic = "stove beauty eagle merit pupil balance biology define gun capital equip hope";
+var mnemonic = "special brisk current reason term solid system candy earn mercy strike decide";

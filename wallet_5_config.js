@@ -1,1 +1,1 @@
-var mnemonic = "hobby canyon lobster impulse ginger refuse hard jungle desert over picnic day";
+var mnemonic = "tank match duck route dose bamboo tenant gold unit expand evoke game";

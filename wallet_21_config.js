@@ -1,1 +1,1 @@
-var mnemonic = "nut galaxy nut cattle blossom absorb trick melody net upper side hope";
+var mnemonic = "fruit theory heavy seven term alone sunny diesel bachelor scale item raccoon";

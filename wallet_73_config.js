@@ -1,1 +1,1 @@
-var mnemonic = "paddle bean hello choose credit virus present actor slender priority response electric";
+var mnemonic = "garlic slice blur coil satoshi pigeon negative trumpet heavy label tumble lyrics";

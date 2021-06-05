@@ -1,1 +1,1 @@
-var mnemonic = "estate curtain abuse valid theme prosper police burst forget recall bike alarm";
+var mnemonic = "junior motor job logic seed penalty peasant wool father become ladder wreck";

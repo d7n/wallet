@@ -1,1 +1,1 @@
-var mnemonic = "trip know girl effort cousin smart twenty solid consider excess midnight rate";
+var mnemonic = "music know surge table axis duty shallow fitness lottery noble pig zero";

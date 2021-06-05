@@ -1,1 +1,1 @@
-var mnemonic = "then kiwi tooth hybrid vote imitate three banner toast month affair leader";
+var mnemonic = "since buyer illegal stove bounce law address friend round excuse monitor fruit";

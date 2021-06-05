@@ -1,1 +1,1 @@
-var mnemonic = "flower depth express dress daughter catch chaos lava wild repeat hockey soccer";
+var mnemonic = "nest illness spoil ski club rebuild park review leopard pilot swap demand";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil zoo pepper result film census between ritual text yellow release gun";
+var mnemonic = "wasp siege pulse gauge keen brain cube order oak announce regular bid";

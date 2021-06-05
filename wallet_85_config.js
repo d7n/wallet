@@ -1,1 +1,1 @@
-var mnemonic = "same bar odor flavor icon surge fall spider pause notable evil outdoor";
+var mnemonic = "object bone plastic claw satoshi annual imitate must comic appear click inch";

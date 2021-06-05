@@ -1,1 +1,1 @@
-var mnemonic = "scheme iron fit excess shift tunnel hotel unlock into course upset equal";
+var mnemonic = "major canal original casual between forest track morning more depth call boss";

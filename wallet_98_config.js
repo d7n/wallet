@@ -1,1 +1,1 @@
-var mnemonic = "sleep boring useless liberty source milk truth plate like angry bicycle crucial";
+var mnemonic = "flat stove steel poverty enhance toilet horse oval describe negative raw saddle";

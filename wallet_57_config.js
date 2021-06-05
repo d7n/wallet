@@ -1,1 +1,1 @@
-var mnemonic = "baby great universe brave slogan clip error team rebel hair resemble fetch";
+var mnemonic = "glad same remove magic test section dizzy unfair protect similar measure occur";

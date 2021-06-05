@@ -1,1 +1,1 @@
-var mnemonic = "license boost actual frog student extra arch rally want marriage rail reward";
+var mnemonic = "parent exotic hero hire physical deposit gift toss fade globe mirror width";

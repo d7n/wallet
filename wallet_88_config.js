@@ -1,1 +1,1 @@
-var mnemonic = "name century flat acid head basket destroy onion material slim hover color";
+var mnemonic = "weird dizzy fan raw moment picnic husband gain expect gas humble scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "table budget release pill hair panel catch lawsuit benefit slam easy oval";
+var mnemonic = "project fluid often horse walnut ghost expire treat tonight van cable number";

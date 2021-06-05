@@ -1,1 +1,1 @@
-var mnemonic = "argue weird skirt fat file lunar source wise fragile essence material march";
+var mnemonic = "true coffee motion lizard sound ahead crunch scene gallery solution repeat over";

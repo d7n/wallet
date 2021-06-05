@@ -1,1 +1,1 @@
-var mnemonic = "royal smile nurse reveal body figure right yellow dinner green reflect lounge";
+var mnemonic = "end survey update speed make boil belt speak buzz sponsor struggle burst";

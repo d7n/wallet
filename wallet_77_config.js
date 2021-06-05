@@ -1,1 +1,1 @@
-var mnemonic = "syrup boost shadow wash pistol feed play cover time black language initial";
+var mnemonic = "civil orbit body simple jelly tank cancel divert waste cake cram segment";

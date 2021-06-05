@@ -1,1 +1,1 @@
-var mnemonic = "east acid wash label label wing wise cigar make man leaf birth";
+var mnemonic = "ghost phrase admit blame bone snake work select august little author elephant";

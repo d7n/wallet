@@ -1,1 +1,1 @@
-var mnemonic = "marine empty estate find stuff throw quiz project stereo blush rich female";
+var mnemonic = "cross popular buyer trick area bracket figure critic round matter general easily";

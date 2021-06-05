@@ -1,1 +1,1 @@
-var mnemonic = "concert reflect skin dress deposit avocado piece lucky ahead digital scissors crawl";
+var mnemonic = "dirt repair there duty twice sponsor unveil ask brick idle cargo tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "lift hero flip direct desk joy sock sword original apart message express";
+var mnemonic = "like child reject involve cross anger sugar swarm stereo broccoli invite immune";

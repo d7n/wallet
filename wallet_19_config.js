@@ -1,1 +1,1 @@
-var mnemonic = "exchange later park fitness throw castle side original wrong hazard embrace truly";
+var mnemonic = "exact embody actress divorce when wood milk vacant armed legend unique resource";

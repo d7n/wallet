@@ -1,1 +1,1 @@
-var mnemonic = "flat quote climb comic thank sibling mechanic much arrest apology squirrel mountain";
+var mnemonic = "shed believe ability strong found post scan job yellow avoid ahead squirrel";

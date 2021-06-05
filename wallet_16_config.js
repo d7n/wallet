@@ -1,1 +1,1 @@
-var mnemonic = "grow wonder biology dentist share avocado save very brass question index focus";
+var mnemonic = "please picnic speak swamp canvas rabbit lawsuit endless eight fetch cloud payment";

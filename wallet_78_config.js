@@ -1,1 +1,1 @@
-var mnemonic = "canal bachelor digital velvet you stage crisp aspect object essay capable today";
+var mnemonic = "person spring donate behave deer snake prefer gym boil pottery video snow";

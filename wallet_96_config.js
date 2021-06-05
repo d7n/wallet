@@ -1,1 +1,1 @@
-var mnemonic = "piece multiply depth history essay weekend weapon method hill deer wide blame";
+var mnemonic = "water audit riot tool dolphin canal combine identify walk muffin daughter amount";

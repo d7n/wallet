@@ -1,1 +1,1 @@
-var mnemonic = "enforce vivid system medal payment moral pulp ball fog acoustic draw bread";
+var mnemonic = "winner fall ball fox waste discover trouble flush chief divert federal gown";

@@ -1,1 +1,1 @@
-var mnemonic = "ready raise flight prefer sweet kangaroo version chunk theory find grid left";
+var mnemonic = "orient drink mad stable shove situate hour slender you steel pyramid rigid";

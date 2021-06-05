@@ -1,1 +1,1 @@
-var mnemonic = "number climb spoil sting athlete blossom scorpion nothing process brick horn mistake";
+var mnemonic = "peace blur salad pink satoshi weapon select gift open tent sport sea";

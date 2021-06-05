@@ -1,1 +1,1 @@
-var mnemonic = "twenty canoe mobile gospel gate spice destroy index cinnamon deal demise concert";
+var mnemonic = "someone panther exact need thrive bronze left cattle position champion travel pluck";

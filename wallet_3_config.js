@@ -1,1 +1,1 @@
-var mnemonic = "ship unfold acquire income twice female later such chronic dolphin foot battle";
+var mnemonic = "power color code icon dance actual clog ready pond butter guilt asset";

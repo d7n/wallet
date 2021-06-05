@@ -1,1 +1,1 @@
-var mnemonic = "right rain metal daring used mirror slight pluck liberty hurdle assault mom";
+var mnemonic = "actor acid silver faith become orient venue ecology wire sea drill bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure athlete auction slide south walnut weapon bronze mountain state curtain pistol";
+var mnemonic = "thank acquire recipe claw gauge hollow illegal awesome turn cloth focus toddler";

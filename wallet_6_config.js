@@ -1,1 +1,1 @@
-var mnemonic = "diary knock pioneer foil mad bicycle brass rare image divorce melt silk";
+var mnemonic = "route join around gorilla tissue design sniff plastic punch fine vapor another";

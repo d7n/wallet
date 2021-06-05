@@ -1,1 +1,1 @@
-var mnemonic = "broken hill gym ostrich bottom clay useless deputy harbor acoustic midnight zebra";
+var mnemonic = "bus paper steel install spring wave believe horse wrap behave code region";

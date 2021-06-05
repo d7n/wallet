@@ -1,1 +1,1 @@
-var mnemonic = "gate cost brick hub race swarm theory science person child mass target";
+var mnemonic = "term eager renew ladder junk stool copper forest blue glow pyramid strategy";

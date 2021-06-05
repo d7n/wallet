@@ -1,1 +1,1 @@
-var mnemonic = "sad defense syrup stand staff dice wish clarify teach rude trouble wagon";
+var mnemonic = "task stomach very soccer elder sphere letter head worry giggle benefit large";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese turtle kitten flower runway discover afraid various safe bacon grace gravity";
+var mnemonic = "capable basket desk cat educate warfare pet one high unable scale appear";

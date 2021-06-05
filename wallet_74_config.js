@@ -1,1 +1,1 @@
-var mnemonic = "toe coach extra south daughter typical seminar head basic path olympic more";
+var mnemonic = "hair renew expose twice disagree aware cancel amateur goat grain analyst thrive";

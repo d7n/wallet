@@ -1,1 +1,1 @@
-var mnemonic = "gain ten route quarter squirrel dice arrow nut gorilla fantasy town section";
+var mnemonic = "ski credit timber sudden hole mail dry advice father sustain coil sniff";

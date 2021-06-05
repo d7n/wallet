@@ -1,1 +1,1 @@
-var mnemonic = "receive engine toward long promote glare banner total vanish end physical public";
+var mnemonic = "corn stool already action lion spend leave warfare spring dilemma bone convince";

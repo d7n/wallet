@@ -1,1 +1,1 @@
-var mnemonic = "angry pig ensure lady joy shallow resemble impose tissue solid bitter breeze";
+var mnemonic = "boat electric area shuffle zebra venue chunk empower brave select wood scrub";

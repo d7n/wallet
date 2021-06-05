@@ -1,1 +1,1 @@
-var mnemonic = "chunk broccoli pen ostrich observe genius surprise liberty arrest arrive jealous twelve";
+var mnemonic = "twist total obey sentence either decade bar behave spatial dad holiday submit";

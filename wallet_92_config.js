@@ -1,1 +1,1 @@
-var mnemonic = "banner valid dynamic rose noodle will segment verify pair marriage trial elite";
+var mnemonic = "receive recall impulse swarm leg use crash inch glimpse easily foot multiply";

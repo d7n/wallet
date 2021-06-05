@@ -1,1 +1,1 @@
-var mnemonic = "police electric strong reopen margin unusual toddler august chunk actual wage rifle";
+var mnemonic = "vicious mutual ride flat among bench boat trap orchard identify impulse potato";

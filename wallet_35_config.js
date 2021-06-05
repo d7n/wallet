@@ -1,1 +1,1 @@
-var mnemonic = "sadness rhythm coil rib acid parade trigger canyon tape supreme theme job";
+var mnemonic = "off shift float trap senior rack quarter laugh always jaguar punch face";

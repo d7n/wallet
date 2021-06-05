@@ -1,1 +1,1 @@
-var mnemonic = "club rare belt bronze spot twice roast patrol foster visit slab assist";
+var mnemonic = "express wolf question spell retreat donate never obtain zero tackle praise tool";

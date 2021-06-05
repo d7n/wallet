@@ -1,1 +1,1 @@
-var mnemonic = "broom casual resemble auto put slide rule ankle leg ten view vivid";
+var mnemonic = "retreat chat ostrich profit company shaft old tag release stomach beyond idea";

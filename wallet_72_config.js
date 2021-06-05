@@ -1,1 +1,1 @@
-var mnemonic = "session erode sketch equal female ignore envelope sunset fire screen mother biology";
+var mnemonic = "renew legal carbon fantasy lyrics ski memory escape level north answer maximum";

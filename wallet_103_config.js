@@ -1,1 +1,1 @@
-var mnemonic = "biology blur quiz ball cool rather trust print toss august stereo park";
+var mnemonic = "silly few way day draw march pistol black control embark dial fat";

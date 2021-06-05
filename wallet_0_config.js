@@ -1,1 +1,1 @@
-var mnemonic = "nerve goddess shop forget wrist live chapter congress frequent save ketchup impact";
+var mnemonic = "share judge staff session throw wisdom renew lottery forest corn jacket modify";

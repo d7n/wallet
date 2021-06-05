@@ -1,1 +1,1 @@
-var mnemonic = "true catalog corn bounce cream coconut come cause combine unit raven proud";
+var mnemonic = "purchase dragon elevator key junior inside book ahead online stereo vital first";

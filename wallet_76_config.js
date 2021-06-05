@@ -1,1 +1,1 @@
-var mnemonic = "frozen account correct fury caught host work awful chaos stove camp identify";
+var mnemonic = "basic what tissue visa inner never marine soccer skate keep price action";

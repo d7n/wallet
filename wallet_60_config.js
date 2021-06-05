@@ -1,1 +1,1 @@
-var mnemonic = "wrap evil domain idle name lazy dignity fee plug waste enter vehicle";
+var mnemonic = "century spot length tilt farm leaf violin reflect crouch hint shrug mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "thing green hand gather tag chicken harbor undo visit deal hair carry";
+var mnemonic = "shuffle decorate napkin flower hockey cube seminar valve share average skate stadium";

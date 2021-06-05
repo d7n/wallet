@@ -1,1 +1,1 @@
-var mnemonic = "stuff property village ranch enlist profit random merge pig dash hotel truly";
+var mnemonic = "core quarter profit ride card cheap galaxy ensure victory ordinary scorpion wet";

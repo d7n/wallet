@@ -1,1 +1,1 @@
-var mnemonic = "crime lamp illegal ridge grunt raise aim awful inflict slim paper leopard";
+var mnemonic = "base must push often physical crazy entire ripple dance must thrive punch";

@@ -1,1 +1,1 @@
-var mnemonic = "wink proof worry vendor click stomach crunch world waste parrot stamp below";
+var mnemonic = "shy analyst father parent hedgehog pond vessel gain kid crush outside drip";

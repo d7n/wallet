@@ -1,1 +1,1 @@
-var mnemonic = "route dilemma seek bullet build best minor swing kiwi grant remember brown";
+var mnemonic = "couple mansion curious quick much effort loyal among amount car box sad";
