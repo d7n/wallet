@@ -1,1 +1,1 @@
-var mnemonic = "glare debate rich shove news letter sad guitar muffin destroy helmet goddess";
+var mnemonic = "bulk snake rally nuclear crush sort plate club sea tennis figure spy";

@@ -1,1 +1,1 @@
-var mnemonic = "smart acquire hobby cram tribe scorpion fence album airport uncle know warfare";
+var mnemonic = "squeeze abstract destroy shy immense decade buddy kind trend step inquiry smart";

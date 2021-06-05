@@ -1,1 +1,1 @@
-var mnemonic = "easily elegant polar attract pink humble sleep eager say enroll disease announce";
+var mnemonic = "sword novel tongue fall section gain switch kite rocket excuse employ athlete";

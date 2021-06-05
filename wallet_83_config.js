@@ -1,1 +1,1 @@
-var mnemonic = "rough neck zero space wedding road demise else afford rubber resemble exile";
+var mnemonic = "fury prefer episode mimic pretty regular receive scrub fury mom reason layer";

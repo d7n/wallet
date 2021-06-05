@@ -1,1 +1,1 @@
-var mnemonic = "ahead caught laundry govern heart employ hawk payment member main subject make";
+var mnemonic = "more kiss adjust assist mercy wood spend rapid arm rough sponsor usual";

@@ -1,1 +1,1 @@
-var mnemonic = "snake student boy palm bonus rhythm palace battle lend twice edit benefit";
+var mnemonic = "tomorrow comfort brush friend grab universe crowd filter champion sure make leopard";

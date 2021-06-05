@@ -1,1 +1,1 @@
-var mnemonic = "dose nephew case cruise mesh pen powder analyst document lab olympic engage";
+var mnemonic = "athlete seat glow gloom grid inherit net rural pitch state glow myself";

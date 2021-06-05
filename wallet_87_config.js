@@ -1,1 +1,1 @@
-var mnemonic = "jealous card equip blast naive route speed honey diesel polar army yard";
+var mnemonic = "secret worry twenty myself same vote dove enroll crouch hair settle easy";

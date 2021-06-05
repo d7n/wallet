@@ -1,1 +1,1 @@
-var mnemonic = "proof cricket keen fruit myth eager basic fruit arrow salon original foot";
+var mnemonic = "rifle thought lift pull flee honey like lunar shed keen depth acid";

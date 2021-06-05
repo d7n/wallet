@@ -1,1 +1,1 @@
-var mnemonic = "skill feed crisp rule undo another bird abandon thumb abandon chicken romance";
+var mnemonic = "mammal test alpha people ten alien return uniform acoustic giggle mask royal";

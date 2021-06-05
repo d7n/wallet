@@ -1,1 +1,1 @@
-var mnemonic = "card swarm evil budget drill better turn crouch mask anchor wait picnic";
+var mnemonic = "end travel rookie orbit guitar uniform solid army magnet someone earn calm";

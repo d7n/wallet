@@ -1,1 +1,1 @@
-var mnemonic = "vocal melt change umbrella grow remain fix outdoor tuna bread famous wheel";
+var mnemonic = "argue lion cliff silver sauce crane rack conduct switch gun actual muffin";

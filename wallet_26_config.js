@@ -1,1 +1,1 @@
-var mnemonic = "round position steel burden left liquid update dog undo race useless write";
+var mnemonic = "improve elite weapon envelope forget shaft riot sail utility turtle script lawn";

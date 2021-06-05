@@ -1,1 +1,1 @@
-var mnemonic = "ill mushroom property catalog swear pear tiny abstract salmon hard genuine empty";
+var mnemonic = "tennis bone surface genius swallow opinion cart interest crew brand genius loyal";

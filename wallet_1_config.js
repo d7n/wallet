@@ -1,1 +1,1 @@
-var mnemonic = "help width prefer tribe fox forward fence label twin apple explain drum";
+var mnemonic = "bamboo true lava float token scatter glory season file glue voice uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "know cream express nose travel pluck park elegant feature drift blanket patient";
+var mnemonic = "rice actress foam check valve chuckle staff gallery true sort bone country";

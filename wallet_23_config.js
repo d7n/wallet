@@ -1,1 +1,1 @@
-var mnemonic = "distance govern pattern priority design grain skin license guilt across secret expect";
+var mnemonic = "vapor sentence approve puppy cactus pizza execute together option ethics raw truck";

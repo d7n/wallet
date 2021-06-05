@@ -1,1 +1,1 @@
-var mnemonic = "lift midnight web travel seven unhappy tobacco cotton poem effort rapid mesh";
+var mnemonic = "bone gravity rather cluster review portion fault couch arch salmon exact behind";

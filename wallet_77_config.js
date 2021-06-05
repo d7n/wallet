@@ -1,1 +1,1 @@
-var mnemonic = "critic nose cruise observe employ inch toddler stock table income cream fly";
+var mnemonic = "stay bunker country bag mule endorse shaft unaware water mercy fresh captain";

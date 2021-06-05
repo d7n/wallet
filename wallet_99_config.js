@@ -1,1 +1,1 @@
-var mnemonic = "crystal original eyebrow lazy chunk only mixture hurry faint absurd hurt olympic";
+var mnemonic = "border useless tray beauty profit inflict verb rate index until ride accident";

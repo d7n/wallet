@@ -1,1 +1,1 @@
-var mnemonic = "angry father avocado curious trouble key topple rent trade penalty eager peasant";
+var mnemonic = "arm wasp armor tower chunk gallery country brave frown witness refuse forward";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon board shiver skull canal bulk galaxy silent marriage rotate cargo army";
+var mnemonic = "birth suggest scout iron rude other hobby husband donkey sound elegant raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "task enough favorite cupboard gesture length wise route lizard prefer hour combine";
+var mnemonic = "busy program cradle neglect weather bridge myth alpha parrot awful usual fun";

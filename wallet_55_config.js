@@ -1,1 +1,1 @@
-var mnemonic = "coast tank hold initial brick trim carry wave endorse pupil govern good";
+var mnemonic = "attack wire owner home slide hat network arch weapon poem decorate brown";

@@ -1,1 +1,1 @@
-var mnemonic = "mad south royal involve age crash pave magic ill treat chase learn";
+var mnemonic = "crouch alter diagram swallow floor guess genuine agent phrase pass desk ball";

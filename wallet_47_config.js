@@ -1,1 +1,1 @@
-var mnemonic = "tragic crash develop armor mandate warrior brass biology dinner cushion year elder";
+var mnemonic = "round ball ladder spoon behave found velvet voyage vacant hello devote echo";

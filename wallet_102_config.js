@@ -1,1 +1,1 @@
-var mnemonic = "lock monitor pair between able agree duck omit mercy lizard margin donate";
+var mnemonic = "mushroom chimney situate shift snake people trim crew rich tray assault phrase";

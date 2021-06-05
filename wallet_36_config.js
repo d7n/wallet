@@ -1,1 +1,1 @@
-var mnemonic = "kick hawk quality seat vast throw myself furnace fat draft warm garage";
+var mnemonic = "eternal valley undo property legal trophy diet feature arrive phrase truck palm";

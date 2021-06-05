@@ -1,1 +1,1 @@
-var mnemonic = "panther crane stumble extend burger father flock spike collect lounge cook wash";
+var mnemonic = "pill loan dance eye purchase discover label vague year gentle ivory material";

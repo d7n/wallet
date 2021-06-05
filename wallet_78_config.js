@@ -1,1 +1,1 @@
-var mnemonic = "goddess museum boost opera price army result task vendor shoe climb lumber";
+var mnemonic = "disorder power absorb brush question slab slogan original cheese buzz grief attract";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp law child endless suffer wheat live crater inner afraid funny number";
+var mnemonic = "fashion evidence sponsor frame obscure trigger rib outer message manage need car";

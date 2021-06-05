@@ -1,1 +1,1 @@
-var mnemonic = "witness phrase empower sphere fault beauty blanket obscure wheel language announce bird";
+var mnemonic = "cannon outdoor dice giraffe lend recipe poverty include tortoise cry bless electric";

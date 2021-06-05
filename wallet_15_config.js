@@ -1,1 +1,1 @@
-var mnemonic = "warm dynamic element bubble return venture vacant devote beyond minor jewel fatigue";
+var mnemonic = "whisper journey edit roast episode muffin dutch prevent vote process learn sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "atom wine release music rare admit acid jealous cereal chimney evoke describe";
+var mnemonic = "someone normal lizard opera lock robot rifle pepper pink twist naive comfort";

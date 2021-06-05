@@ -1,1 +1,1 @@
-var mnemonic = "book drum entry rate slide wreck frequent still range else fiction exile";
+var mnemonic = "engine remember silly peasant range they match simple inhale umbrella flash unfold";

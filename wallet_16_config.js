@@ -1,1 +1,1 @@
-var mnemonic = "pitch frame own thunder use caught century ethics huge equip aware art";
+var mnemonic = "memory stairs output adapt common large need owner practice season flavor fringe";

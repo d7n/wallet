@@ -1,1 +1,1 @@
-var mnemonic = "woman churn soft hazard topic daring oxygen drink theory air humor hole";
+var mnemonic = "glory help tiger film noise bamboo margin promote pluck group lady picnic";

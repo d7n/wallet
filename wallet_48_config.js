@@ -1,1 +1,1 @@
-var mnemonic = "mix way zebra garlic assume client job enroll educate road camp morning";
+var mnemonic = "cost three impose demand giraffe decrease example mule fitness keep that skate";

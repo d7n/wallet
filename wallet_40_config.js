@@ -1,1 +1,1 @@
-var mnemonic = "resource mercy tiger agent lottery august upper evolve deny spray damage song";
+var mnemonic = "umbrella word wrong cattle advice number sunset despair pizza fancy invite outdoor";

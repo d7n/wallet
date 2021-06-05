@@ -1,1 +1,1 @@
-var mnemonic = "exile code jazz truth film what sustain stuff wrestle cake swap swamp";
+var mnemonic = "distance ridge flag bracket census six idle master fish sign drum add";

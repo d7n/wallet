@@ -1,1 +1,1 @@
-var mnemonic = "innocent warrior morning find code tortoise consider physical ensure copper ladder number";
+var mnemonic = "gadget develop high effort increase bullet business make wagon deer keep shock";

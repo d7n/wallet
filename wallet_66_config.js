@@ -1,1 +1,1 @@
-var mnemonic = "stem increase obtain immune lava curve agent liberty dwarf angry curve fiscal";
+var mnemonic = "gun forum helmet kick table slab scout blouse radar save twelve boat";

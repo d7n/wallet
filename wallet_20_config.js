@@ -1,1 +1,1 @@
-var mnemonic = "evil dawn column broccoli seat domain sing coil oyster napkin fame girl";
+var mnemonic = "vapor apple brother answer improve sugar desk current safe turn bronze hair";

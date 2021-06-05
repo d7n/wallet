@@ -1,1 +1,1 @@
-var mnemonic = "pattern comfort airport betray cram decline afraid zone other deputy label credit";
+var mnemonic = "safe true throw bomb warrior train village alcohol lyrics desert disagree race";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope rich fan reunion escape animal pause ugly avoid foil together giraffe";
+var mnemonic = "spell regret actress funny describe village roast confirm embody desert below clerk";

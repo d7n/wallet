@@ -1,1 +1,1 @@
-var mnemonic = "super mail naive net race cricket soap exhibit skate process sunny winner";
+var mnemonic = "ramp essay awkward agree taxi floor drive pair rebel barrel sure strong";

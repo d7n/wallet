@@ -1,1 +1,1 @@
-var mnemonic = "salon develop lock bike together flush bunker attitude thrive turn wrist place";
+var mnemonic = "extra speak dish nation october claim bone history learn present bitter alcohol";

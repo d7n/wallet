@@ -1,1 +1,1 @@
-var mnemonic = "planet manual toss chair lady multiply offer aunt drastic hour bench van";
+var mnemonic = "hip antique pitch trend cube pen symbol camp gate capital verb task";

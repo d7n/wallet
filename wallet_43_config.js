@@ -1,1 +1,1 @@
-var mnemonic = "six column region enforce wet divert zero soda latin inform glad library";
+var mnemonic = "charge decade avoid dry van attend adult sample choose hundred three bullet";

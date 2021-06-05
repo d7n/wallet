@@ -1,1 +1,1 @@
-var mnemonic = "ramp elbow either punch myth order tired lazy motion lucky forget voice";
+var mnemonic = "spoil wedding element tank usual furnace fold will oven endless carpet luggage";

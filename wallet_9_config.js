@@ -1,1 +1,1 @@
-var mnemonic = "stage stand wonder captain rabbit luggage voice kingdom deal surface hint end";
+var mnemonic = "turkey fan fabric welcome mix deposit load click leopard idle inhale inspire";

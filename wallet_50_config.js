@@ -1,1 +1,1 @@
-var mnemonic = "praise ice predict unique syrup analyst easily inhale street table utility evoke";
+var mnemonic = "tornado embody fire van time foil limit rare pony champion accident catalog";

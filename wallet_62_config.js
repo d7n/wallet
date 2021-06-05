@@ -1,1 +1,1 @@
-var mnemonic = "joy color fragile radar mind sample era invest win black wine job";
+var mnemonic = "lottery nature dry fat own girl deliver zoo room burden payment royal";

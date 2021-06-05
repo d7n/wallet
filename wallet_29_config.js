@@ -1,1 +1,1 @@
-var mnemonic = "gap imitate cancel absurd asthma slab settle infant timber elder tell put";
+var mnemonic = "pudding scout one bean onion hawk basket spoon pluck gospel economy transfer";

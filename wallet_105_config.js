@@ -1,1 +1,1 @@
-var mnemonic = "creek hundred total supply useless main desk cup special consider lesson strike";
+var mnemonic = "force wing upset phrase already midnight angle luxury enter soap immune wrist";

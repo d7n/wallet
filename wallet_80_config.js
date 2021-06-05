@@ -1,1 +1,1 @@
-var mnemonic = "fall pilot honey already royal add toe mask make evidence pyramid clay";
+var mnemonic = "enhance weather sugar curtain denial depart build humor entire often salute unknown";

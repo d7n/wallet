@@ -1,1 +1,1 @@
-var mnemonic = "payment mansion blast damage keen slab echo leaf cinnamon angry high tongue";
+var mnemonic = "bullet angle put camera seven mixture eyebrow gauge buffalo estate spin taxi";

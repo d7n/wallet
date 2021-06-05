@@ -1,1 +1,1 @@
-var mnemonic = "hurt please deal language bullet reveal patrol normal pen you caution attitude";
+var mnemonic = "coach wish seven casino satisfy like scatter undo approve wealth such size";

@@ -1,1 +1,1 @@
-var mnemonic = "blade twist engine result birth pink lumber poet glance end strike foil";
+var mnemonic = "ignore tuition cinnamon heart surprise slot surprise prize retreat pitch advice disease";

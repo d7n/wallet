@@ -1,1 +1,1 @@
-var mnemonic = "dolphin labor phone element summer drink parrot noise scorpion tree pretty mechanic";
+var mnemonic = "again roast tribe window oven shrug enlist vacuum student umbrella before rug";

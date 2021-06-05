@@ -1,1 +1,1 @@
-var mnemonic = "machine jacket program master few panel layer jar guide height close used";
+var mnemonic = "dizzy usage nominee tiny hold when tuition crater occur garlic muscle diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan taste toward public recipe fury faint sad enough comfort business cross";
+var mnemonic = "delay vast rubber town trim october tail oil bulk van route model";

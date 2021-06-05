@@ -1,1 +1,1 @@
-var mnemonic = "ocean burden select divert undo old more tide over another ghost flush";
+var mnemonic = "alarm weather nothing glance bubble scene wealth lamp rubber village pill inject";

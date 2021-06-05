@@ -1,1 +1,1 @@
-var mnemonic = "funny pencil warm later van rare spend elder shy stable desk abandon";
+var mnemonic = "jazz mask pact drop sausage guide animal journey announce flat violin jazz";

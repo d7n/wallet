@@ -1,1 +1,1 @@
-var mnemonic = "real calm wide quote coffee portion find flower embark immune point slam";
+var mnemonic = "extra section across silent inflict cool feature member morning phrase already oxygen";

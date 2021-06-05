@@ -1,1 +1,1 @@
-var mnemonic = "faint hire onion boy riot egg magic ladder occur achieve believe achieve";
+var mnemonic = "truly fatigue foot hurt bomb wrap under art blur bridge math shed";

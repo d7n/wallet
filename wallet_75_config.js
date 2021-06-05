@@ -1,1 +1,1 @@
-var mnemonic = "december van rotate chalk stay twenty milk angle syrup grunt maid virus";
+var mnemonic = "crunch they shoulder reveal defense affair scout annual decline time wave strike";

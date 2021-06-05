@@ -1,1 +1,1 @@
-var mnemonic = "oak tuition slush holiday yard exist pyramid infant auto amazing dish car";
+var mnemonic = "pole journey brisk venture pair humor tomorrow feel script winner shoulder acquire";

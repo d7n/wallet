@@ -1,1 +1,1 @@
-var mnemonic = "ability meadow result squeeze true frozen worth you only sorry garlic strike";
+var mnemonic = "mind sudden tank adjust coin limit excite betray pride young refuse oval";

@@ -1,1 +1,1 @@
-var mnemonic = "birth tattoo never enter advice orbit mosquito trend require vast knee guilt";
+var mnemonic = "put protect hazard deliver maximum vital helmet bomb love few noise scorpion";

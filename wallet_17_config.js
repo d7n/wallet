@@ -1,1 +1,1 @@
-var mnemonic = "borrow drill afraid liberty thank congress next abuse differ boat test budget";
+var mnemonic = "coil never achieve oppose pistol exact reveal physical top street argue recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey rule course gentle bunker wish awake much rose veteran during across";
+var mnemonic = "wide body ahead suspect dumb danger island furnace novel control host pottery";

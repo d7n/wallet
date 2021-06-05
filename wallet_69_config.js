@@ -1,1 +1,1 @@
-var mnemonic = "cruel fringe until uniform reveal misery into aerobic vessel cool desert gift";
+var mnemonic = "obvious artwork kidney parrot deal cricket toy rib forward section timber gesture";

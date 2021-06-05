@@ -1,1 +1,1 @@
-var mnemonic = "end thank chat rule zoo pole impulse ceiling dawn borrow learn detect";
+var mnemonic = "hundred birth flavor unfair liberty guard play knock use grief spoon lobster";

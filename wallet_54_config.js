@@ -1,1 +1,1 @@
-var mnemonic = "flip shell deer wave today deal copy travel begin next uphold mind";
+var mnemonic = "left clock rich april tourist great door crew coffee rack ability bullet";

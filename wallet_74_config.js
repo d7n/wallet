@@ -1,1 +1,1 @@
-var mnemonic = "canoe crisp situate cereal aunt bachelor gain obvious settle lend meat noodle";
+var mnemonic = "liquid sauce crew lawn item smoke rigid cradle bone zoo fit garlic";

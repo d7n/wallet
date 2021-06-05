@@ -1,1 +1,1 @@
-var mnemonic = "food aunt vacant chimney patrol sand civil clap rack reflect huge jeans";
+var mnemonic = "roof ostrich match exit increase wet multiply smile spell stuff crew plunge";

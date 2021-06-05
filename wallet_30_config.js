@@ -1,1 +1,1 @@
-var mnemonic = "biology pledge flat merry village mammal pilot must trip harsh setup warrior";
+var mnemonic = "stove canvas unusual adjust drive unlock snack pelican before hungry enlist grain";

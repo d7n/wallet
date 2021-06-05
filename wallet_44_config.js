@@ -1,1 +1,1 @@
-var mnemonic = "autumn notable people copy trouble woman erupt bounce drip light exclude resource";
+var mnemonic = "raccoon kingdom label labor machine fossil push scorpion sell find swing glass";

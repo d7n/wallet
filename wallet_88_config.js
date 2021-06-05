@@ -1,1 +1,1 @@
-var mnemonic = "blind term excuse glimpse twenty where connect social quiz chest table cabbage";
+var mnemonic = "sick jar sunny measure require trumpet square coil boil chuckle nerve plastic";

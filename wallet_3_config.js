@@ -1,1 +1,1 @@
-var mnemonic = "rice stuff saddle yellow lesson exhibit obvious thing wrong slush space modify";
+var mnemonic = "library magic limb six easy learn that later weather come certain riot";

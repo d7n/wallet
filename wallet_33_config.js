@@ -1,1 +1,1 @@
-var mnemonic = "clock yellow symptom lunch hedgehog demise mail polar captain city barrel chicken";
+var mnemonic = "famous admit cute wine vessel harsh alley cupboard dress spike trade arrange";

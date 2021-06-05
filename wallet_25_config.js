@@ -1,1 +1,1 @@
-var mnemonic = "leaf bronze advice unique history decorate dentist crawl twist alley height ranch";
+var mnemonic = "quarter fine grain hospital pet pulse deliver breeze planet muffin relief grant";

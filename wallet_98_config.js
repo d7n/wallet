@@ -1,1 +1,1 @@
-var mnemonic = "toast frequent seat bitter midnight toddler mouse coral bachelor relax vote grain";
+var mnemonic = "truck matrix differ wrong adapt ship exhaust sail state magnet glass sample";

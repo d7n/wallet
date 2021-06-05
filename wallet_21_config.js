@@ -1,1 +1,1 @@
-var mnemonic = "wink oval reveal left area govern today toe video raw heavy stamp";
+var mnemonic = "festival quality palace toast palace upgrade dirt blood fame submit gesture achieve";

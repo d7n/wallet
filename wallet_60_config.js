@@ -1,1 +1,1 @@
-var mnemonic = "twenty dragon grocery girl patient sea actual vacant sun insane teach rural";
+var mnemonic = "pudding call minute transfer glare ramp afraid famous sauce paddle buyer match";

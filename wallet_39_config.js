@@ -1,1 +1,1 @@
-var mnemonic = "ten own blade vocal order treat claw state butter table inner romance";
+var mnemonic = "deer soon vast clip soap salad tell sauce clinic fold hazard census";

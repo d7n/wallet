@@ -1,1 +1,1 @@
-var mnemonic = "parade theory coin quality moon act noodle fee tumble dentist suit target";
+var mnemonic = "winter erase pill motion retreat bronze mention direct fluid daughter behind obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity swarm farm grit today hand impulse inherit scare acid conduct inquiry";
+var mnemonic = "state cream day inner frog arrest weekend hub camp dress entire connect";

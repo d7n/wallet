@@ -1,1 +1,1 @@
-var mnemonic = "resist door accident eight galaxy model cry omit level web maze slogan";
+var mnemonic = "prosper purity license country acquire cruise awesome profit make core early honey";

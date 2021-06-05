@@ -1,1 +1,1 @@
-var mnemonic = "remind indoor broom now thumb worth best bunker grain pave guess rare";
+var mnemonic = "vendor gap science duck coast ridge october wheel lake congress sound cool";

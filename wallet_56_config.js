@@ -1,1 +1,1 @@
-var mnemonic = "flag palm video dumb glimpse lend smart phone road fun blind thumb";
+var mnemonic = "recall flash mass tuna wrong raccoon nose guitar viable clock sniff fuel";
