@@ -1,1 +1,1 @@
-var mnemonic = "define deputy direct multiply saddle word narrow possible near noise bike cart";
+var mnemonic = "service abuse betray false armed split assume eternal dwarf neglect saddle valley";

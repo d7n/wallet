@@ -1,1 +1,1 @@
-var mnemonic = "trick stable guilt assist dash elevator chicken potato stock pen hundred oil";
+var mnemonic = "picnic spy era hollow avocado capital prefer round lake nerve frequent save";

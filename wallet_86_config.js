@@ -1,1 +1,1 @@
-var mnemonic = "whisper sport cushion away tenant ecology pear staff blouse sun abandon sentence";
+var mnemonic = "mother apology follow bonus mouse tool basic breeze absurd play cube spring";

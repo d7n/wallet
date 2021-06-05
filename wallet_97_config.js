@@ -1,1 +1,1 @@
-var mnemonic = "bless cactus idea mushroom hurdle meat blush original dove jar address during";
+var mnemonic = "enemy mad much congress tape mobile unique amateur hidden pattern setup illness";

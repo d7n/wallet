@@ -1,1 +1,1 @@
-var mnemonic = "movie rough rifle glare brain cabin glory glory over aspect garbage powder";
+var mnemonic = "tortoise cinnamon skill settle planet picture deny blanket radar eyebrow section end";

@@ -1,1 +1,1 @@
-var mnemonic = "legend drama charge orbit faculty envelope manage because normal december face deer";
+var mnemonic = "column banana rival circle pulse able agree liberty intact icon impact asthma";

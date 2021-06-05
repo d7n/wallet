@@ -1,1 +1,1 @@
-var mnemonic = "wall must fruit amount future tragic nest inside gravity patient sphere ski";
+var mnemonic = "remember sense pencil quiz another make analyst dress wheel armed thrive mercy";

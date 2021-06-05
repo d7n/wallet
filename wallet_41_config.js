@@ -1,1 +1,1 @@
-var mnemonic = "flower rigid trap impulse usage indicate happy quote garment marine real twice";
+var mnemonic = "desert build arena noble saddle someone acquire carbon harvest search scrap entry";

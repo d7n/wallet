@@ -1,1 +1,1 @@
-var mnemonic = "ginger stock struggle divert silent spike brain economy anger asset apple advice";
+var mnemonic = "key ship eager grab agent marble recall forum issue jacket pond race";

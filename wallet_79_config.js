@@ -1,1 +1,1 @@
-var mnemonic = "jungle quiz guitar crash rib shed obscure inherit fence attend sponsor boy";
+var mnemonic = "engine when oblige witness force patch antenna poverty attack canal banner various";

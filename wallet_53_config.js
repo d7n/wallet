@@ -1,1 +1,1 @@
-var mnemonic = "lumber reform bronze boy group invite fitness car verify point excite dignity";
+var mnemonic = "drill drink word shell wedding thank lottery upper uncle critic lazy warrior";

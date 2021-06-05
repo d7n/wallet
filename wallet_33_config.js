@@ -1,1 +1,1 @@
-var mnemonic = "blanket business bone energy idle mystery insect dish skill dish picture clap";
+var mnemonic = "sell reject love message stairs real doctor chapter essay dawn kiwi tree";

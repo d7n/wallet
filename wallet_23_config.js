@@ -1,1 +1,1 @@
-var mnemonic = "lyrics biology stem twist pair head antique again collect boat talent network";
+var mnemonic = "clown then pudding witness type mass sock grant fabric badge brush doll";

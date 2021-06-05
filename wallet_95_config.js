@@ -1,1 +1,1 @@
-var mnemonic = "zero benefit human shoe anchor orbit shine beef top spoon enable soup";
+var mnemonic = "auto canal peanut lady shallow stem giant design must dish over medal";

@@ -1,1 +1,1 @@
-var mnemonic = "steel usage quarter total guitar shrimp they option jealous inherit allow illegal";
+var mnemonic = "render patch soldier coast clarify brand mention error nephew flower develop choose";

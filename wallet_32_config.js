@@ -1,1 +1,1 @@
-var mnemonic = "uncover acquire grab lobster hidden bench hour orbit just void harbor science";
+var mnemonic = "marriage spoil pigeon nut film note boy direct physical endless museum boring";

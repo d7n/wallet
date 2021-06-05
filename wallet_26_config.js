@@ -1,1 +1,1 @@
-var mnemonic = "tell gain green ordinary account input become cage opinion nest skin robot";
+var mnemonic = "machine tenant remove clarify pudding inner ocean razor nice issue lady cinnamon";

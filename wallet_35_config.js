@@ -1,1 +1,1 @@
-var mnemonic = "immune physical render client clinic step inspire jaguar gown rapid blood special";
+var mnemonic = "giggle crack master tilt can chat science display chase kangaroo never sweet";

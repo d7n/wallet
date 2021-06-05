@@ -1,1 +1,1 @@
-var mnemonic = "relief tenant rubber relief unhappy cabbage observe grain drift invite segment title";
+var mnemonic = "forward margin vote near post recipe language crawl journey pledge annual right";

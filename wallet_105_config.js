@@ -1,1 +1,1 @@
-var mnemonic = "unfold bright elbow garden allow shift juice chest panel captain rural music";
+var mnemonic = "jacket voice alpha cave much aware dwarf random spatial steel abandon hollow";

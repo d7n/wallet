@@ -1,1 +1,1 @@
-var mnemonic = "author give faint silver offer wasp police reform dilemma rather mass noodle";
+var mnemonic = "behave soccer million elbow educate until divorce quiz advance enforce achieve bread";

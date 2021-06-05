@@ -1,1 +1,1 @@
-var mnemonic = "document soda feed reunion tide any eyebrow behave fiction rude cliff tower";
+var mnemonic = "faculty position frequent render ball access behind nasty syrup april truth post";

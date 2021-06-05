@@ -1,1 +1,1 @@
-var mnemonic = "flavor arrange believe net wet diet segment nest define great master tackle";
+var mnemonic = "try staff radar must heart burger napkin require design oven board galaxy";

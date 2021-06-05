@@ -1,1 +1,1 @@
-var mnemonic = "cloud middle awful spy dial include correct okay segment endless vendor cruise";
+var mnemonic = "bind net crawl negative plug nephew attend genuine thunder glare what okay";

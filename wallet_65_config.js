@@ -1,1 +1,1 @@
-var mnemonic = "execute camp win unhappy auction trial panther diagram equal vivid alone comfort";
+var mnemonic = "ten october any wall chat dilemma gun total rhythm quantum draft raw";

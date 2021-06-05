@@ -1,1 +1,1 @@
-var mnemonic = "parrot wagon jar faith stereo provide need knife before item allow prepare";
+var mnemonic = "edge arm hawk hope end noise club hammer use inform quiz surface";

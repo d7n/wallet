@@ -1,1 +1,1 @@
-var mnemonic = "gospel equip present april hazard coast uniform habit soccer atom soccer hungry";
+var mnemonic = "unknown recipe banner element sugar benefit expose dynamic flight become fatal must";

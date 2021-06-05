@@ -1,1 +1,1 @@
-var mnemonic = "wool unveil glance firm galaxy great kind sudden trend cricket love burst";
+var mnemonic = "welcome twenty what balance lab hurry wish mistake bullet upset involve walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "clay forward parade permit pig found mask knee garden beauty romance aerobic";
+var mnemonic = "sausage home battle dry ask advice member nut hole fly high verb";

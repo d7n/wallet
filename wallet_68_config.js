@@ -1,1 +1,1 @@
-var mnemonic = "confirm base hybrid guilt announce hidden wash pear example shaft reopen crisp";
+var mnemonic = "prepare soldier use resist shoot shaft wet sunny raise feature mouse rebel";

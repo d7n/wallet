@@ -1,1 +1,1 @@
-var mnemonic = "sort cave grass supreme cousin web bright flat favorite kid digital wait";
+var mnemonic = "file journey unfold alter east tortoise solve illness inmate void rough solid";

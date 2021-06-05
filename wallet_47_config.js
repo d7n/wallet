@@ -1,1 +1,1 @@
-var mnemonic = "lyrics cat write ten close appear lab wall relax blade visit cannon";
+var mnemonic = "essay poem better boost survey physical ball render armor athlete cloud silver";

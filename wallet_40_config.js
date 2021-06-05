@@ -1,1 +1,1 @@
-var mnemonic = "skin canyon mail badge render clay lucky cool slam leaf excuse orchard";
+var mnemonic = "curve drift ice book deputy float sibling globe glimpse giant card address";

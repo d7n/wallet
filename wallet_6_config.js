@@ -1,1 +1,1 @@
-var mnemonic = "critic voice exist room fiscal drama hand result valve asset people gold";
+var mnemonic = "bean giggle debris search release prosper remember where tunnel raise off saddle";

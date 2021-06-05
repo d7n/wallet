@@ -1,1 +1,1 @@
-var mnemonic = "estate print volcano lemon secret artist student man possible ride tank blanket";
+var mnemonic = "clutch hammer hazard diamond nut dad lab spot age tumble pill stock";

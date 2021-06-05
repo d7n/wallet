@@ -1,1 +1,1 @@
-var mnemonic = "sketch bracket bonus cluster walnut firm nature orange fever robust animal satoshi";
+var mnemonic = "wild leaf two deal relax start wink final field special feel because";

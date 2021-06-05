@@ -1,1 +1,1 @@
-var mnemonic = "catch steak wealth reflect orphan type soldier subject category trade winter inherit";
+var mnemonic = "blossom accuse win urban brush illness tobacco suffer hundred know disagree leaf";

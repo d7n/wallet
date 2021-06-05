@@ -1,1 +1,1 @@
-var mnemonic = "jungle grab kiwi divide boss auto battle author riot mother solution rule";
+var mnemonic = "rough noble conduct fatigue enrich sense slush lend swim clerk annual frog";

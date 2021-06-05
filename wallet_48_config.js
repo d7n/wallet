@@ -1,1 +1,1 @@
-var mnemonic = "safe admit remain empower phrase sample situate that they scrap mobile giant";
+var mnemonic = "lunch blood ability over ozone poverty include wine soul chase doll day";

@@ -1,1 +1,1 @@
-var mnemonic = "ask victory humor sentence zoo suit amazing about steel violin message person";
+var mnemonic = "because type glass town during shuffle volume awful ship once orange upgrade";

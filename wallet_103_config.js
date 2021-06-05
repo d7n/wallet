@@ -1,1 +1,1 @@
-var mnemonic = "remind giggle judge long celery bronze south express final fat dry bus";
+var mnemonic = "photo oppose doll enable slender basic blame boost glass town explain this";

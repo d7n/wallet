@@ -1,1 +1,1 @@
-var mnemonic = "opera strike elder twist elephant prevent nurse build firm appear surface slush";
+var mnemonic = "tree pitch pudding minor dish copy slot robot auction acquire youth coyote";

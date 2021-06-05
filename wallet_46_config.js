@@ -1,1 +1,1 @@
-var mnemonic = "prefer collect essay present jaguar indicate armed asthma feel hint trap abuse";
+var mnemonic = "student charge nothing hamster key such tornado arrange speed copper space good";

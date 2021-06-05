@@ -1,1 +1,1 @@
-var mnemonic = "game resource daughter original win awesome cram innocent oval correct tattoo royal";
+var mnemonic = "celery enable visa hundred fringe coral twin stumble cruise butter note hurdle";

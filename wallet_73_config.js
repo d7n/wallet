@@ -1,1 +1,1 @@
-var mnemonic = "pattern curious wedding ankle ritual spoon develop elegant try play salt giant";
+var mnemonic = "strike idle moral cereal fashion cute bubble brisk divert tuna hospital federal";

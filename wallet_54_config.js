@@ -1,1 +1,1 @@
-var mnemonic = "glow fire open adjust member sphere update deputy iron monster wear victory";
+var mnemonic = "ecology gauge garment never solve park entry twin useless amount science promote";

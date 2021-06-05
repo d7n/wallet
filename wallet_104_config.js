@@ -1,1 +1,1 @@
-var mnemonic = "churn warm cover box goose estate ice model vintage tide flush have";
+var mnemonic = "baby series must decorate pilot boat hood shuffle menu assault chair season";

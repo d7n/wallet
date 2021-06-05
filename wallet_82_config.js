@@ -1,1 +1,1 @@
-var mnemonic = "quiz view process ladder lounge advice view accident leaf critic urban fault";
+var mnemonic = "soap purse cabbage roof light vague behave drop inform only pluck length";

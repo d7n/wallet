@@ -1,1 +1,1 @@
-var mnemonic = "evolve stumble toy junior brown fiber fuel dignity sample report test ethics";
+var mnemonic = "other aerobic shield view false daughter ten call act pupil radio march";

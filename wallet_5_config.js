@@ -1,1 +1,1 @@
-var mnemonic = "two video fee doll tattoo demise relax humor wheat vintage merge can";
+var mnemonic = "accuse worry infant limb lab chalk light hole west casual dumb local";

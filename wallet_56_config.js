@@ -1,1 +1,1 @@
-var mnemonic = "enough love pistol echo cattle coil velvet material budget salute prosper female";
+var mnemonic = "glory hurdle zero fantasy puppy pitch earn dance base either hint act";

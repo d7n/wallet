@@ -1,1 +1,1 @@
-var mnemonic = "satoshi canal floor bean blanket frost invest small coral upgrade salute stand";
+var mnemonic = "initial okay merit human hard result someone fish fire crouch garlic cannon";

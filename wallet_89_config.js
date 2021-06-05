@@ -1,1 +1,1 @@
-var mnemonic = "worth wire view journey misery lobster gauge soap raccoon math skill grit";
+var mnemonic = "joy school used usual pink cook patrol drastic expose tray mercy weather";

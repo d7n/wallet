@@ -1,1 +1,1 @@
-var mnemonic = "bamboo grape lock fire unique employ naive estate antique bring above leg";
+var mnemonic = "minimum art tomorrow news cross dress long social spatial wisdom merry diary";

@@ -1,1 +1,1 @@
-var mnemonic = "young perfect liberty about elephant hurdle buzz man oxygen payment mimic lemon";
+var mnemonic = "luxury pool exist index remove legal transfer margin roof galaxy frame poem";

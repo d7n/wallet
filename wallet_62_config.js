@@ -1,1 +1,1 @@
-var mnemonic = "plunge tooth top roast cricket boss behave gauge game young they elder";
+var mnemonic = "wear seat indicate blur jeans light float swift host invite deny connect";

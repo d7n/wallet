@@ -1,1 +1,1 @@
-var mnemonic = "prevent arm cloud coast twelve tone pretty soda tired comic fog bread";
+var mnemonic = "pretty favorite copy neutral siren news any solid lunar light market tonight";

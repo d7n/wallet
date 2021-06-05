@@ -1,1 +1,1 @@
-var mnemonic = "car mammal forward alter used brother hospital feature wine stamp spot envelope";
+var mnemonic = "tenant axis square direct joy two present one either sorry raw narrow";

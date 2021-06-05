@@ -1,1 +1,1 @@
-var mnemonic = "basic fall success weekend danger island warfare any junk trade female perfect";
+var mnemonic = "absent sustain teach sudden depart involve charge silk fee nose post bring";

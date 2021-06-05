@@ -1,1 +1,1 @@
-var mnemonic = "online cherry swim toy figure dance couple siren nominee caution describe easy";
+var mnemonic = "hazard frame dream type flock view air vivid fat junk way struggle";

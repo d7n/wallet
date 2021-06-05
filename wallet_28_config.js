@@ -1,1 +1,1 @@
-var mnemonic = "welcome absurd behave off visa biology position noodle tail omit slab brain";
+var mnemonic = "moon stuff capable sail fetch spin surprise quick lens glad segment idle";

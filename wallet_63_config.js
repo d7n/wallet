@@ -1,1 +1,1 @@
-var mnemonic = "young dress screen swarm loop glue speed orange winter orange banana absorb";
+var mnemonic = "ability false educate verify heavy convince entry celery tape kite enable document";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair frost umbrella window lizard title laugh veteran book candy boss security";
+var mnemonic = "salon pet audit credit next kiss truth empower moon level room short";

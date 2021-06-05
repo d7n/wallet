@@ -1,1 +1,1 @@
-var mnemonic = "detect repair transfer voice festival first cancel current price cage beyond project";
+var mnemonic = "kiwi young chuckle case that snack clown series lucky marriage bench day";

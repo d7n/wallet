@@ -1,1 +1,1 @@
-var mnemonic = "west swift dash tobacco town meadow empty goat exercise tide canvas domain";
+var mnemonic = "faint measure snap zebra daring hurdle hurdle owner hope market combine liberty";

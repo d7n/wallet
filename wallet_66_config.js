@@ -1,1 +1,1 @@
-var mnemonic = "coral suggest year stomach coin artist muffin turtle response cruel muscle bike";
+var mnemonic = "taxi charge arena guide success fox then bounce bubble mule fine luggage";

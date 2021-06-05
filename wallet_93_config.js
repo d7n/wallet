@@ -1,1 +1,1 @@
-var mnemonic = "movie race burst series dawn final wisdom capital replace agree need diesel";
+var mnemonic = "hockey catalog jazz novel fiber beach online must coil into oven original";

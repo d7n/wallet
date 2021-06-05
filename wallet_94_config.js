@@ -1,1 +1,1 @@
-var mnemonic = "assume clip moon else slow arm switch another truly jelly pulp sadness";
+var mnemonic = "earth gravity uphold airport output say toilet lobster fine sheriff shine afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "eight gasp reunion umbrella improve laptop burden approve room cross poem furnace";
+var mnemonic = "soon over pyramid more busy unaware security hawk width wear vault silk";

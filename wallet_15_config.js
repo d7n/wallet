@@ -1,1 +1,1 @@
-var mnemonic = "police amused absurd light silver great illness unaware erode twice lock mistake";
+var mnemonic = "duck huge grape glow reveal liberty victory box monkey dawn grief entire";

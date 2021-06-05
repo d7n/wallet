@@ -1,1 +1,1 @@
-var mnemonic = "dizzy angry trim wild enhance tide accident junior lazy absent parrot online";
+var mnemonic = "noodle pipe then melody draw random peanut fish twelve predict zebra profit";

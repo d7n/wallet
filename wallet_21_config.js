@@ -1,1 +1,1 @@
-var mnemonic = "town dragon jewel vicious party slender rent matrix viable track pulp all";
+var mnemonic = "luggage ugly enforce range carbon board weasel lock helmet cake sure edge";

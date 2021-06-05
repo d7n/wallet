@@ -1,1 +1,1 @@
-var mnemonic = "panda time just enter valve slot bring ball unlock cousin cover misery";
+var mnemonic = "wealth great evoke grocery mention silent path poem scrub top craft december";

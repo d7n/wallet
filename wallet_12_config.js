@@ -1,1 +1,1 @@
-var mnemonic = "ostrich suit extend motor bulk ostrich attitude april include arena school sense";
+var mnemonic = "alien hero grass scrub once boil pass coconut auto legal once impose";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat fade liquid notice middle plate unusual load depart total pigeon alert";
+var mnemonic = "purpose pony dutch quarter blood pudding cigar baby problem salt fat clump";

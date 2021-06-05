@@ -1,1 +1,1 @@
-var mnemonic = "hurt disorder scan apple oppose club audit prosper cabbage velvet utility swift";
+var mnemonic = "layer fancy hair twelve frog wedding visual tuition ripple ancient helmet joke";

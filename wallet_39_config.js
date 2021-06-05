@@ -1,1 +1,1 @@
-var mnemonic = "write alien stove urge enrich horn crisp track town friend nuclear rookie";
+var mnemonic = "fan excuse casino inject jacket popular core year diet giggle grief uphold";

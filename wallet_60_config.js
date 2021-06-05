@@ -1,1 +1,1 @@
-var mnemonic = "goat industry roast guilt nasty height spend fresh winter loan auction mushroom";
+var mnemonic = "crisp stool code clap pupil robust goat budget ball surprise year suspect";

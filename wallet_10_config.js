@@ -1,1 +1,1 @@
-var mnemonic = "artist harvest that giant hello flush annual recipe shine february spin knock";
+var mnemonic = "snack project canvas scorpion true miss cute broken custom unknown blast acid";

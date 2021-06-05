@@ -1,1 +1,1 @@
-var mnemonic = "enact citizen receive dutch theme wrist forward found chapter slogan weird harsh";
+var mnemonic = "regret salute island truck egg album scheme antique local link identify sniff";

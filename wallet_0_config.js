@@ -1,1 +1,1 @@
-var mnemonic = "pizza firm split hold belt seat pulse couple begin please aerobic forward";
+var mnemonic = "recipe flavor alert melody wolf power despair fabric treat powder hurt trap";

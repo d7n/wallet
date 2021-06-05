@@ -1,1 +1,1 @@
-var mnemonic = "govern borrow dice detail winner fix real join hair salt census attack";
+var mnemonic = "misery ice drift canal dentist amateur coral cloud explain faint walk shop";

@@ -1,1 +1,1 @@
-var mnemonic = "then head kite frequent race peace tobacco retreat caution quality great online";
+var mnemonic = "avocado month knee public slam pig antique cheap hammer spice identify obey";

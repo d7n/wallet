@@ -1,1 +1,1 @@
-var mnemonic = "fabric apology time shed december humor canvas display cram lecture wine resist";
+var mnemonic = "then ten ready average main mandate deputy feel garment suggest talent share";

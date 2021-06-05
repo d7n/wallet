@@ -1,1 +1,1 @@
-var mnemonic = "suspect host domain patient slot question predict ginger find fiber install maple";
+var mnemonic = "clown raven monster urban column into mean long maximum winner point cruise";

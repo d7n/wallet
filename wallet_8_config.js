@@ -1,1 +1,1 @@
-var mnemonic = "buzz lava nest topple town hint harbor opinion badge enact exchange about";
+var mnemonic = "zone any stamp food blade laugh side ribbon ill crumble next depart";

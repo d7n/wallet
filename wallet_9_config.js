@@ -1,1 +1,1 @@
-var mnemonic = "faith direct wave nasty oval bright exercise tip ripple suffer ordinary cloth";
+var mnemonic = "make security nothing weasel unique high great crawl meadow census rocket code";

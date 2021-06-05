@@ -1,1 +1,1 @@
-var mnemonic = "bind surge street trap border vicious grace combine oven often drip impact";
+var mnemonic = "purse stem erupt stamp tone appear nest embody segment beach scissors magic";

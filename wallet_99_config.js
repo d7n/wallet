@@ -1,1 +1,1 @@
-var mnemonic = "sleep output check any click duty judge distance sign wing dinosaur camera";
+var mnemonic = "lazy enforce marble jazz page winter alpha clip husband game bubble ankle";

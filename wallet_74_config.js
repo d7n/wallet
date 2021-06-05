@@ -1,1 +1,1 @@
-var mnemonic = "deny indicate romance army snap angry method clerk bronze parrot wife forum";
+var mnemonic = "rib trumpet return avocado coach invite solid under boss frown unfair crazy";

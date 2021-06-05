@@ -1,1 +1,1 @@
-var mnemonic = "shoe walk scissors brown vanish useless century cage panther little resemble rebuild";
+var mnemonic = "spawn another upon elephant renew awesome envelope foam perfect staff fire boy";

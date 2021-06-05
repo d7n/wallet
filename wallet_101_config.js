@@ -1,1 +1,1 @@
-var mnemonic = "hammer loan slight vapor amused bitter beauty crazy foot write cause stamp";
+var mnemonic = "glory seminar begin place claim wink couple innocent treat taxi narrow dinosaur";

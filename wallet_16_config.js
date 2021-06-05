@@ -1,1 +1,1 @@
-var mnemonic = "august initial charge just solar universe inflict picnic animal vault retire output";
+var mnemonic = "merge awake raven sound other observe elbow blossom upset polar invite million";

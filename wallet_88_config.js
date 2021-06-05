@@ -1,1 +1,1 @@
-var mnemonic = "invite girl pen parade excuse nothing click produce moment roast nice dentist";
+var mnemonic = "fan harvest scout strong express among basic spoon where lucky canyon shuffle";

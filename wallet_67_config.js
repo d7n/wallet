@@ -1,1 +1,1 @@
-var mnemonic = "during drill practice canvas mom inside hello parrot fringe voice crystal ill";
+var mnemonic = "decide age donkey paddle wolf chase fame fence transfer since since expect";

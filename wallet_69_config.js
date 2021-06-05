@@ -1,1 +1,1 @@
-var mnemonic = "column easy bridge bargain rather upset great feature fox knife someone client";
+var mnemonic = "priority era motion hand pattern wrestle weapon belt powder saddle reward foil";

@@ -1,1 +1,1 @@
-var mnemonic = "figure dinosaur bus blade left draw business claim tell point parade surge";
+var mnemonic = "route hello minute convince daring actress print promote absurd radar finger dust";
