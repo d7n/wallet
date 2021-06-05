@@ -1,1 +1,1 @@
-var mnemonic = "amateur trophy energy work learn mistake critic tent pass kitchen barely sense";
+var mnemonic = "alarm volume coach gift receive casino fitness apart pink enact north slush";

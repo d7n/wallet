@@ -1,1 +1,1 @@
-var mnemonic = "cherry maid lawn undo virus chair symptom faith congress foil bounce loyal";
+var mnemonic = "what blouse common force luxury enough stove sphere shed switch satoshi can";

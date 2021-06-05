@@ -1,1 +1,1 @@
-var mnemonic = "december mail write cheese liquid smooth donkey cattle loop this steak coffee";
+var mnemonic = "please primary reopen fame brown surge delay lumber gospel situate upgrade gas";

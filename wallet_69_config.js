@@ -1,1 +1,1 @@
-var mnemonic = "elevator artist install fluid robust upper aspect exercise track step theory usage";
+var mnemonic = "quality actual recipe just protect arrest hollow quantum awesome hold half believe";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial shine control demise success trend squirrel true cool blossom hollow bleak";
+var mnemonic = "silver invite mad track work daughter easily tank loan olympic age install";

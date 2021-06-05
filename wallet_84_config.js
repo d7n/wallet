@@ -1,1 +1,1 @@
-var mnemonic = "fetch roof arrest tooth wonder lawn loop possible brain combine man obvious";
+var mnemonic = "cabin fall ordinary adult actress museum electric aware carpet unusual account pumpkin";

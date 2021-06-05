@@ -1,1 +1,1 @@
-var mnemonic = "blur bleak vocal access degree heavy again shrug oblige denial stay just";
+var mnemonic = "digital combine mosquito rookie fiscal artwork moon burger vague inspire lava tuition";

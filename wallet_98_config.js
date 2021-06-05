@@ -1,1 +1,1 @@
-var mnemonic = "liar kick lake fabric ankle sadness soul engage plate tuna alter notice";
+var mnemonic = "speak plunge bless obvious vague thank you deer green junior husband local";

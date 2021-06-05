@@ -1,1 +1,1 @@
-var mnemonic = "shoot frozen proof clever diary night load breeze wrong place scare poverty";
+var mnemonic = "mosquito prison recycle pelican pigeon town plastic camera unit soap fence manage";

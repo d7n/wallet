@@ -1,1 +1,1 @@
-var mnemonic = "balcony okay little craft loan flee odor forget claim segment lecture adapt";
+var mnemonic = "usage muscle glide topple huge doctor current quarter chalk pass link fabric";

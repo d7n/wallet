@@ -1,1 +1,1 @@
-var mnemonic = "record pig alley area rare try fade fresh feed infant choose walnut";
+var mnemonic = "guess elder clap hidden foil insane slam bachelor net fix sport window";

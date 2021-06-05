@@ -1,1 +1,1 @@
-var mnemonic = "road dinner rough trial intact tobacco scare road barely into wild push";
+var mnemonic = "jump outside key athlete bind never version rhythm mother steel text mirror";

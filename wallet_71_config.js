@@ -1,1 +1,1 @@
-var mnemonic = "purity cliff rose feed glow sustain advice left fix jungle check exist";
+var mnemonic = "puzzle true pact swim wing decorate bacon have disease knock six element";

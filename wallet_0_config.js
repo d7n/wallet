@@ -1,1 +1,1 @@
-var mnemonic = "universe discover case box surface identify begin ability desert then crouch demise";
+var mnemonic = "olive jealous alarm artist describe door retire relax system engage wreck stool";

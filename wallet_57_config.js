@@ -1,1 +1,1 @@
-var mnemonic = "broken skirt arctic million stage second build devote metal remain coconut mesh";
+var mnemonic = "reject child swallow under mention south pet finger rookie loyal frequent future";

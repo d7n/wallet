@@ -1,1 +1,1 @@
-var mnemonic = "suit option rhythm nurse ability between quality border load clay convince coconut";
+var mnemonic = "sand rhythm trumpet close first either bitter swap north cram diary motion";

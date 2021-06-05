@@ -1,1 +1,1 @@
-var mnemonic = "jelly estate erase depth tiny tube yard velvet slot use usual quantum";
+var mnemonic = "verify food honey weekend often mountain what put audit leader panther rival";

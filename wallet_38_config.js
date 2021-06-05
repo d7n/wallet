@@ -1,1 +1,1 @@
-var mnemonic = "video word define kiss hollow buddy roof blur zoo into direct during";
+var mnemonic = "conduct behind call caution rather general pair patch clown build brain believe";

@@ -1,1 +1,1 @@
-var mnemonic = "silver million axis tissue electric lawsuit acquire dizzy notable pool stem dinner";
+var mnemonic = "foam arch alcohol heart snow crazy head easily metal party fence nephew";

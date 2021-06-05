@@ -1,1 +1,1 @@
-var mnemonic = "purity fix vanish often dream lesson author frost bag timber network dawn";
+var mnemonic = "hub captain spawn ability choose horn right web that body absorb join";

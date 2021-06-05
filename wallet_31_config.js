@@ -1,1 +1,1 @@
-var mnemonic = "wash annual illness impulse final scout artwork lizard depth hospital maple view";
+var mnemonic = "dash under super phone tattoo light calm grief diet add used scan";

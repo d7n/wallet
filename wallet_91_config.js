@@ -1,1 +1,1 @@
-var mnemonic = "waste shoulder cover vital segment cannon lizard orchard adult drive resist total";
+var mnemonic = "prefer credit proof core marble scan decade exchange piece transfer negative manage";

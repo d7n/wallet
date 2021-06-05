@@ -1,1 +1,1 @@
-var mnemonic = "aware crater caught lab dose post charge dog stuff silly engage approve";
+var mnemonic = "flag consider celery dream funny elite still love balance spot maple inspire";

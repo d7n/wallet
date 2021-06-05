@@ -1,1 +1,1 @@
-var mnemonic = "inside course salt apart universe country knock useful enrich gallery inject clarify";
+var mnemonic = "symbol addict fresh coconut noble lunch hover lecture pilot enforce kind always";

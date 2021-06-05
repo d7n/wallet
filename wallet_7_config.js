@@ -1,1 +1,1 @@
-var mnemonic = "indicate actress health echo potato vital glove obtain audit august minute column";
+var mnemonic = "speed ghost huge junk grab spare consider tiger token hobby chicken truly";

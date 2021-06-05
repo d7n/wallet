@@ -1,1 +1,1 @@
-var mnemonic = "face false memory salt another south near immune reopen fine liquid mandate";
+var mnemonic = "equal surround aware fever practice element flight usage derive weather verb dentist";

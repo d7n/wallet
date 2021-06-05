@@ -1,1 +1,1 @@
-var mnemonic = "mail distance gadget extra cousin review beauty snap will border jewel broom";
+var mnemonic = "weapon wine shield suggest now walnut rack choice image joke endorse wise";

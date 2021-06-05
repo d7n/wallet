@@ -1,1 +1,1 @@
-var mnemonic = "column witness govern judge taste become jaguar local clerk detail spare want";
+var mnemonic = "column waste genre sell mimic disease sheriff gallery enroll first demise swift";

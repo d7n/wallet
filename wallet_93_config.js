@@ -1,1 +1,1 @@
-var mnemonic = "nature ridge bulk duty trophy asthma sleep admit document floor local master";
+var mnemonic = "license airport convince track anger airport dice wing seed kidney kidney problem";

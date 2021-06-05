@@ -1,1 +1,1 @@
-var mnemonic = "base govern slice cost cream runway lava sugar office govern swap matter";
+var mnemonic = "winner label prevent boss ill helmet notice all medal gate barely cigar";

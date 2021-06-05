@@ -1,1 +1,1 @@
-var mnemonic = "water amateur trap muscle oxygen strong pig tag resist antique urge share";
+var mnemonic = "popular dolphin output gun security sadness phrase cable improve price garment else";

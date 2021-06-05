@@ -1,1 +1,1 @@
-var mnemonic = "vibrant expect birth illegal hollow simple neither basket donate slice mesh crater";
+var mnemonic = "twelve orphan enjoy lady vital system cupboard arch science radar video panda";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely inflict federal turkey gather wall enough dial act valid dad main";
+var mnemonic = "piece few business antique arm lend forum layer leopard add repair choose";

@@ -1,1 +1,1 @@
-var mnemonic = "rose napkin weekend snow sister select coach ski leaf ankle police step";
+var mnemonic = "ensure fatigue basic muscle merry train mother divert move inject poet rule";

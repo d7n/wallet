@@ -1,1 +1,1 @@
-var mnemonic = "lift concert diary heart jelly people speed tongue loud shop knee critic";
+var mnemonic = "bamboo stand inner quit diamond doctor horn parrot only smart royal ticket";

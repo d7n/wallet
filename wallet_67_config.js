@@ -1,1 +1,1 @@
-var mnemonic = "venue pass mask fury leaf useful mango gaze artwork march isolate degree";
+var mnemonic = "gate sample skate guitar include spirit heart cement afford ladder stem female";

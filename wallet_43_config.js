@@ -1,1 +1,1 @@
-var mnemonic = "begin merry fence win upon success peasant exclude bubble ritual movie prepare";
+var mnemonic = "visa hotel brother foil sustain rebel mass gift unique laptop tree shield";

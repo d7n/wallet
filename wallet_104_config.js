@@ -1,1 +1,1 @@
-var mnemonic = "various breeze excess butter input step harbor eager delay flight topic car";
+var mnemonic = "swing chunk lonely brain output squirrel royal donate kidney man extend future";

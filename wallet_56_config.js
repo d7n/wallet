@@ -1,1 +1,1 @@
-var mnemonic = "wall awkward crazy health gate prevent about online dinosaur inflict harsh visa";
+var mnemonic = "pill glance piece orphan math crazy burger modify swing hold giant arm";

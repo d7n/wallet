@@ -1,1 +1,1 @@
-var mnemonic = "oven mass caution rigid ten index caution analyst kingdom buyer organ hurry";
+var mnemonic = "edge animal humor cross pause fade cherry erase obvious agree letter picnic";

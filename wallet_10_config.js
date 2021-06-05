@@ -1,1 +1,1 @@
-var mnemonic = "robot else matter reform west sister large group pig lounge impact drive";
+var mnemonic = "fiscal install correct grace silent thrive pistol october exclude goat hold sell";

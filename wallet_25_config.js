@@ -1,1 +1,1 @@
-var mnemonic = "prosper debate habit soap impact place barrel high enough dose fuel luxury";
+var mnemonic = "tomorrow accident swarm announce fence possible uphold reopen very call brand broccoli";

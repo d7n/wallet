@@ -1,1 +1,1 @@
-var mnemonic = "quote flame correct run spoon need laptop sugar entry target alcohol chunk";
+var mnemonic = "outside degree like purchase spray solid asthma permit enter notice wage hundred";

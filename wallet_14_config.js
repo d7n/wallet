@@ -1,1 +1,1 @@
-var mnemonic = "reform flash thrive evolve distance chase drastic able diet animal assist bunker";
+var mnemonic = "puppy wreck exotic rough hill genius update resemble history survey worry protect";

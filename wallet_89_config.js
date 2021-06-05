@@ -1,1 +1,1 @@
-var mnemonic = "mean share cycle student brother trend brown butter giant source gap close";
+var mnemonic = "fire panel razor steak shoe arrow birth make laptop opinion torch valve";

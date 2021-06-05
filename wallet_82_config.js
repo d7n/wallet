@@ -1,1 +1,1 @@
-var mnemonic = "almost real indoor screen estate rack duck hood now suffer media suspect";
+var mnemonic = "athlete leave dragon awkward census like moral sketch weasel host table cattle";

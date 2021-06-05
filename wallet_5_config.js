@@ -1,1 +1,1 @@
-var mnemonic = "release decrease foot battle company bridge atom off what poet express swap";
+var mnemonic = "throw over accident baby rebel grit sense dignity arrange ice curious science";

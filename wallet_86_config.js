@@ -1,1 +1,1 @@
-var mnemonic = "art flag mirror nerve mouse giant desert bone consider silent attend rug";
+var mnemonic = "gasp flame swap cheap robot magnet under abstract sadness bone figure arctic";

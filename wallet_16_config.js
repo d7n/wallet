@@ -1,1 +1,1 @@
-var mnemonic = "excess quiz ask when rose finish online rare crop subject arrest hotel";
+var mnemonic = "atom tape noise profit father they renew copy manual mixture robot vicious";

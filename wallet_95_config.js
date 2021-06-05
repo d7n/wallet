@@ -1,1 +1,1 @@
-var mnemonic = "express sadness solid media purse below glove size leaf rebel airport bachelor";
+var mnemonic = "ticket ice input achieve unit swim tackle lawn orbit hurdle absurd replace";

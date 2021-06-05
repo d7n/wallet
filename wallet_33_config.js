@@ -1,1 +1,1 @@
-var mnemonic = "text multiply pool scene laundry unaware company cross shuffle lady notice absorb";
+var mnemonic = "tiger domain butter dwarf achieve silly until burst balcony able wide mirror";

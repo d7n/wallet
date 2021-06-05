@@ -1,1 +1,1 @@
-var mnemonic = "actress project dynamic dentist under coffee plastic zebra bench test celery fresh";
+var mnemonic = "air whisper mask cigar weapon crunch cactus win surge sun wealth oyster";

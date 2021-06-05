@@ -1,1 +1,1 @@
-var mnemonic = "scout favorite pudding joke destroy evil head eager laundry volcano absent march";
+var mnemonic = "elegant elite attitude surge stone visit cool alley success labor slender festival";

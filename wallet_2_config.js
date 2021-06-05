@@ -1,1 +1,1 @@
-var mnemonic = "hero document venue measure party powder ability material strong afraid forest sock";
+var mnemonic = "muffin into install priority news because humble quick rain grocery canyon scan";

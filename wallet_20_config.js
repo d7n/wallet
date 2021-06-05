@@ -1,1 +1,1 @@
-var mnemonic = "treat idle force link gaze problem coffee soccer time extra twist select";
+var mnemonic = "iron soap asset fitness honey art path easy meat test solution cabbage";

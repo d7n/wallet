@@ -1,1 +1,1 @@
-var mnemonic = "tail critic okay ten current fade skirt parent celery video elevator theory";
+var mnemonic = "lunch mammal post wagon cheese vendor like credit company gown taste analyst";

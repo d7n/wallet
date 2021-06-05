@@ -1,1 +1,1 @@
-var mnemonic = "upset mixture riot people bless agent any lion small cloud system tent";
+var mnemonic = "present clean tackle quantum slam salt joke forest prevent obscure oil warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "west clinic grant leisure crisp rebel system caution response chef nest essence";
+var mnemonic = "gun sail private tent sail love isolate hundred awake trade nurse fun";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna spoon neutral neutral play arena valley fit salute feed present salon";
+var mnemonic = "ritual object soap mixture erode drastic soon erosion note banana crop divorce";

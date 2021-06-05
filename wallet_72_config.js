@@ -1,1 +1,1 @@
-var mnemonic = "wish three tattoo execute security search shuffle peanut winner inquiry immense eight";
+var mnemonic = "spring common exact diagram mechanic innocent hollow lazy clever shuffle good cover";

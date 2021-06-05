@@ -1,1 +1,1 @@
-var mnemonic = "teach route lava skirt thumb among zero acquire shed addict march effort";
+var mnemonic = "cupboard escape until cake either narrow minimum flight radio present fold lawn";

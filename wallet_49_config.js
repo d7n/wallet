@@ -1,1 +1,1 @@
-var mnemonic = "come regret caught resource motor october record bunker wedding cousin expect aware";
+var mnemonic = "attract edit suspect voice south burger imitate eye emerge ramp taste wonder";

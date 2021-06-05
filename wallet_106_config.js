@@ -1,1 +1,1 @@
-var mnemonic = "license undo solar stairs tornado scorpion afraid disagree family vault canal robot";
+var mnemonic = "frown behind park frost will safe depart daughter skill undo bless comic";

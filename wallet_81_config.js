@@ -1,1 +1,1 @@
-var mnemonic = "find wing track victory helmet payment addict wet future rug pool soda";
+var mnemonic = "derive flush direct boss earth load uphold witness foam version focus record";

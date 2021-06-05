@@ -1,1 +1,1 @@
-var mnemonic = "caution giggle gas imitate famous payment popular dentist nice that endless square";
+var mnemonic = "trophy slot swap chaos giant best material regret half olive name mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard solve enemy draw throw found tongue illness busy cheese jewel mutual";
+var mnemonic = "powder title afraid ritual system process multiply suit drum extend eager large";

@@ -1,1 +1,1 @@
-var mnemonic = "dog drink legal equip illegal globe pencil corn train dinosaur antenna utility";
+var mnemonic = "hold betray worth office noodle faculty north pistol isolate sphere unaware quality";

@@ -1,1 +1,1 @@
-var mnemonic = "fire pony draft maple love home area tool sudden fire brain foam";
+var mnemonic = "asset afford life pupil pull embrace tide quantum burden common unable farm";

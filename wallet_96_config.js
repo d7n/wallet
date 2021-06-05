@@ -1,1 +1,1 @@
-var mnemonic = "laugh road unhappy valley orchard judge shell ahead rib goddess cabin topple";
+var mnemonic = "action adult aerobic organ sniff impact turtle equip crawl exercise oyster half";

@@ -1,1 +1,1 @@
-var mnemonic = "oak notable hour chase addict employ brain cruise bunker they feed energy";
+var mnemonic = "injury lesson permit endless island charge layer tip deer best wife army";

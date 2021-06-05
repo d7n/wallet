@@ -1,1 +1,1 @@
-var mnemonic = "finish horn barely initial style humble bomb economy pioneer rude before remain";
+var mnemonic = "razor convince remind meat sponsor scrap mouse claim thing tank oblige glow";

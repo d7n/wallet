@@ -1,1 +1,1 @@
-var mnemonic = "twist canal proud fever moral bag hobby diagram laptop burden spider intact";
+var mnemonic = "edit spin vintage ginger wheel suspect husband pioneer enable idle lottery kit";

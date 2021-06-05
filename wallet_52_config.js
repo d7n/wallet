@@ -1,1 +1,1 @@
-var mnemonic = "enjoy nest buffalo bamboo child frown setup argue cheap van ball various";
+var mnemonic = "glue medal wife mouse trade army rail aisle river author mail struggle";

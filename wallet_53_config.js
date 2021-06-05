@@ -1,1 +1,1 @@
-var mnemonic = "mercy advance prison garbage unaware green junk use track spare else stay";
+var mnemonic = "fresh curious chest raccoon tennis panel tiny insect next few race ball";

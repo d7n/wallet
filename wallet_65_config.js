@@ -1,1 +1,1 @@
-var mnemonic = "celery ramp annual topple wash creek foil erode rare battle gaze skate";
+var mnemonic = "raccoon census exist skate bottom soda hood tackle minimum usual priority rubber";

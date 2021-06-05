@@ -1,1 +1,1 @@
-var mnemonic = "chicken used turn ordinary pulse someone erupt quick squirrel build half excite";
+var mnemonic = "blush destroy shell laugh wool young brisk idle direct couple frame pave";

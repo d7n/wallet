@@ -1,1 +1,1 @@
-var mnemonic = "measure badge hurdle curtain real trial earth peanut truly piece flee arrest";
+var mnemonic = "anger wish utility mouse struggle divorce know floor amount emerge service enhance";

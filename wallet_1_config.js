@@ -1,1 +1,1 @@
-var mnemonic = "stamp salt magnet wink inspire bid genre woman jaguar evidence north price";
+var mnemonic = "cable rebel shoulder forget jazz exit milk involve robust order donor staff";

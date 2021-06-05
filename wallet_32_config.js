@@ -1,1 +1,1 @@
-var mnemonic = "scorpion syrup found harbor matrix isolate fabric six circle dry valid entire";
+var mnemonic = "gown bean poet evidence bacon web member negative valid text wrist wheel";

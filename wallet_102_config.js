@@ -1,1 +1,1 @@
-var mnemonic = "smart cement rally permit enhance wreck worry power crater fun such maze";
+var mnemonic = "walk salt fix alcohol fury drip extra host still layer crazy until";

@@ -1,1 +1,1 @@
-var mnemonic = "business lady lyrics early thought dragon envelope advice coil copy youth day";
+var mnemonic = "major page alpha supreme oppose worth ship gown gorilla brick emerge virtual";

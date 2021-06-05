@@ -1,1 +1,1 @@
-var mnemonic = "custom surprise tourist place mass author diet cliff rude round better capital";
+var mnemonic = "air eagle ski whisper maze calm limb lend twin that hair length";

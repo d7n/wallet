@@ -1,1 +1,1 @@
-var mnemonic = "vessel love illegal draw tiger runway start main tool just dinosaur mirror";
+var mnemonic = "alarm figure utility truth very priority slender chimney talent axis tiny ginger";

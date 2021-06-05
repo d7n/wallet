@@ -1,1 +1,1 @@
-var mnemonic = "gravity drop joke ritual mix awake jealous tattoo chalk tribe wolf hotel";
+var mnemonic = "now month immense twin quality seat avocado gas aware father winner nation";

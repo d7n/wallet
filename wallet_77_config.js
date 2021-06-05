@@ -1,1 +1,1 @@
-var mnemonic = "power violin middle weasel shoulder sphere limit vital must predict grant digital";
+var mnemonic = "economy genre mammal chuckle medal guess remain april oxygen bubble index bench";

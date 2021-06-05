@@ -1,1 +1,1 @@
-var mnemonic = "vacuum vapor fine actual occur grant update fix glide giggle maid wear";
+var mnemonic = "close medal infant shine unknown output sponsor bicycle avocado feature gallery recycle";

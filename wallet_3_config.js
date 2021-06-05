@@ -1,1 +1,1 @@
-var mnemonic = "champion border minor certain share wealth busy nephew better long view pool";
+var mnemonic = "develop local wear round valve candy blossom word favorite leg depend together";

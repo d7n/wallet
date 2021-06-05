@@ -1,1 +1,1 @@
-var mnemonic = "garbage rotate special dove fury width fold stairs wood cube exercise adjust";
+var mnemonic = "once cupboard slush employ spice program manual burger talk debate brick grocery";

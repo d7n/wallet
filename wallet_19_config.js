@@ -1,1 +1,1 @@
-var mnemonic = "skull cash open omit display about jazz accuse curious modify hand witness";
+var mnemonic = "couch render goat clog address grape mobile ability suggest wash web horse";

@@ -1,1 +1,1 @@
-var mnemonic = "film member census hover multiply ranch beef glad upon trick hope seminar";
+var mnemonic = "curve health menu frequent enter runway identify crop answer cart manage basic";

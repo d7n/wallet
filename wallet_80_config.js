@@ -1,1 +1,1 @@
-var mnemonic = "omit narrow celery unfair sorry taste engine crumble into obtain celery suggest";
+var mnemonic = "mask elephant quiz stairs menu galaxy turtle penalty keep leaf fashion need";

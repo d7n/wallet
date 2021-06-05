@@ -1,1 +1,1 @@
-var mnemonic = "egg bicycle bundle jar chicken talent wrap armed south mouse effort ethics";
+var mnemonic = "embark hood arrange noodle little normal either confirm vote brave glass alpha";

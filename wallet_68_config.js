@@ -1,1 +1,1 @@
-var mnemonic = "zoo afraid burden drop possible soup exist empty fancy hollow escape print";
+var mnemonic = "misery trouble age honey audit field pride matrix text glad inspire danger";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans insane butter forget jealous notice way hundred basic route punch lecture";
+var mnemonic = "program plastic lunch ribbon into online aisle cluster canoe rely fortune disorder";

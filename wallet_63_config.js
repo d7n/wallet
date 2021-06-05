@@ -1,1 +1,1 @@
-var mnemonic = "mushroom decide palace home surround era midnight jump canal tennis planet critic";
+var mnemonic = "error patch open primary stand limit lottery speed town conduct swim announce";

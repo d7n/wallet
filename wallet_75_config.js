@@ -1,1 +1,1 @@
-var mnemonic = "glue talk satisfy various version cover sand eagle acquire pupil language wire";
+var mnemonic = "express clever retire lounge impact elegant enjoy able gift fox general coil";
