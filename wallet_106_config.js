@@ -1,1 +1,1 @@
-var mnemonic = "senior vicious scene patient edge hero iron replace engage zone urge page";
+var mnemonic = "ask victory humor sentence zoo suit amazing about steel violin message person";

@@ -1,1 +1,1 @@
-var mnemonic = "trust hen sort valley chair transfer basket plug fever stick barrel range";
+var mnemonic = "bind surge street trap border vicious grace combine oven often drip impact";

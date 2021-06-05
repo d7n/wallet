@@ -1,1 +1,1 @@
-var mnemonic = "switch rhythm trumpet cinnamon tennis monster jaguar involve joy infant parent flat";
+var mnemonic = "lumber reform bronze boy group invite fitness car verify point excite dignity";

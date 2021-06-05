@@ -1,1 +1,1 @@
-var mnemonic = "resemble pepper price lava foot over column sponsor term enforce faint scatter";
+var mnemonic = "opera strike elder twist elephant prevent nurse build firm appear surface slush";

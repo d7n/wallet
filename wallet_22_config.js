@@ -1,1 +1,1 @@
-var mnemonic = "code finish theme shed minor auto thank play ship town transfer kiwi";
+var mnemonic = "cereal blame enough actress inside royal napkin more save guilt erode build";

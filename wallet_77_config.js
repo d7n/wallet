@@ -1,1 +1,1 @@
-var mnemonic = "consider lottery dinosaur squeeze angle someone rotate rather token ocean hockey typical";
+var mnemonic = "wool unveil glance firm galaxy great kind sudden trend cricket love burst";

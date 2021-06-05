@@ -1,1 +1,1 @@
-var mnemonic = "chunk until wine belt butter try island match basic cost welcome please";
+var mnemonic = "police amused absurd light silver great illness unaware erode twice lock mistake";

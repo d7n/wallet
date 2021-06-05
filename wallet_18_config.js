@@ -1,1 +1,1 @@
-var mnemonic = "twice tuition naive roast census inject table ketchup crunch body loop guitar";
+var mnemonic = "unfair frost umbrella window lizard title laugh veteran book candy boss security";

@@ -1,1 +1,1 @@
-var mnemonic = "hire fly myself used erode leave empty march fossil champion fabric huge";
+var mnemonic = "parrot wagon jar faith stereo provide need knife before item allow prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "frog dumb smart original lava price wire donor false magic eternal climb";
+var mnemonic = "pattern curious wedding ankle ritual spoon develop elegant try play salt giant";

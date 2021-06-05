@@ -1,1 +1,1 @@
-var mnemonic = "acid region chunk update acquire copper tattoo credit wet poem alpha payment";
+var mnemonic = "artist harvest that giant hello flush annual recipe shine february spin knock";

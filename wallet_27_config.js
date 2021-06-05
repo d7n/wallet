@@ -1,1 +1,1 @@
-var mnemonic = "material special glove try pink tomato luggage provide device bounce provide quick";
+var mnemonic = "car mammal forward alter used brother hospital feature wine stamp spot envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise orchard yellow unaware obtain real goddess mixed term device office buffalo";
+var mnemonic = "unfold bright elbow garden allow shift juice chest panel captain rural music";

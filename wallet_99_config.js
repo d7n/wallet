@@ -1,1 +1,1 @@
-var mnemonic = "blossom crumble parrot solid whip exhibit shrug person expect diary gentle gentle";
+var mnemonic = "sleep output check any click duty judge distance sign wing dinosaur camera";

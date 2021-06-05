@@ -1,1 +1,1 @@
-var mnemonic = "useful gasp gospel endless smart hurry song stool staff sheriff desk priority";
+var mnemonic = "wall must fruit amount future tragic nest inside gravity patient sphere ski";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe cousin blame prefer nerve material shrug wire giraffe light cycle lucky";
+var mnemonic = "goat industry roast guilt nasty height spend fresh winter loan auction mushroom";

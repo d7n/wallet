@@ -1,1 +1,1 @@
-var mnemonic = "scale mobile cherry grab winner bulk owner goat intact account sock scale";
+var mnemonic = "cloud middle awful spy dial include correct okay segment endless vendor cruise";

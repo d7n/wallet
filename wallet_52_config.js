@@ -1,1 +1,1 @@
-var mnemonic = "fatigue opinion bachelor protect carpet file hollow prefer jump dutch huge shine";
+var mnemonic = "dry glance best indoor confirm kitten color monitor rigid rapid neck affair";

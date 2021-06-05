@@ -1,1 +1,1 @@
-var mnemonic = "combine arctic melody invite rule parent length until car gesture suggest page";
+var mnemonic = "prevent arm cloud coast twelve tone pretty soda tired comic fog bread";

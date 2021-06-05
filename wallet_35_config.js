@@ -1,1 +1,1 @@
-var mnemonic = "license kiss sponsor level pole furnace shoot room day plug dry improve";
+var mnemonic = "immune physical render client clinic step inspire jaguar gown rapid blood special";

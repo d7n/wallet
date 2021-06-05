@@ -1,1 +1,1 @@
-var mnemonic = "throw retire enroll system quote buddy design warm rocket menu three swing";
+var mnemonic = "lyrics biology stem twist pair head antique again collect boat talent network";

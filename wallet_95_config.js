@@ -1,1 +1,1 @@
-var mnemonic = "asset suffer street total pink secret gown exchange frozen shove inside giggle";
+var mnemonic = "zero benefit human shoe anchor orbit shine beef top spoon enable soup";

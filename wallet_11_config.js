@@ -1,1 +1,1 @@
-var mnemonic = "one damp trade treat license place devote ranch excite obtain success net";
+var mnemonic = "hurt disorder scan apple oppose club audit prosper cabbage velvet utility swift";

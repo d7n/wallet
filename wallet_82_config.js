@@ -1,1 +1,1 @@
-var mnemonic = "original regret refuse scheme drama like column receive winter protect fancy reduce";
+var mnemonic = "quiz view process ladder lounge advice view accident leaf critic urban fault";

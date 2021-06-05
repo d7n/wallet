@@ -1,1 +1,1 @@
-var mnemonic = "squirrel veteran welcome dune just blanket case autumn engage visual paper never";
+var mnemonic = "online cherry swim toy figure dance couple siren nominee caution describe easy";

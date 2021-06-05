@@ -1,1 +1,1 @@
-var mnemonic = "upper action sign capital cage birth delay economy illness sauce release wasp";
+var mnemonic = "safe admit remain empower phrase sample situate that they scrap mobile giant";

@@ -1,1 +1,1 @@
-var mnemonic = "burst water estate congress mean bless advice wage dust ahead stool drive";
+var mnemonic = "churn warm cover box goose estate ice model vintage tide flush have";

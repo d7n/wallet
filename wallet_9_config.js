@@ -1,1 +1,1 @@
-var mnemonic = "permit lottery parrot panel convince solar basic record repeat witness ritual security";
+var mnemonic = "faith direct wave nasty oval bright exercise tip ripple suffer ordinary cloth";

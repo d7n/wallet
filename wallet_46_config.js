@@ -1,1 +1,1 @@
-var mnemonic = "banana family wolf choose news rule material coil cheap end woman very";
+var mnemonic = "prefer collect essay present jaguar indicate armed asthma feel hint trap abuse";

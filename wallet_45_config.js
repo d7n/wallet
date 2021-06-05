@@ -1,1 +1,1 @@
-var mnemonic = "still still own rocket swamp silly web excess dish put happy capital";
+var mnemonic = "dizzy angry trim wild enhance tide accident junior lazy absent parrot online";

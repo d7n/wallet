@@ -1,1 +1,1 @@
-var mnemonic = "window banana setup neck place hold path ecology biology cup bargain runway";
+var mnemonic = "then head kite frequent race peace tobacco retreat caution quality great online";

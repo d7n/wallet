@@ -1,1 +1,1 @@
-var mnemonic = "beauty volcano account scatter crystal wheel march merit evil general join change";
+var mnemonic = "west swift dash tobacco town meadow empty goat exercise tide canvas domain";

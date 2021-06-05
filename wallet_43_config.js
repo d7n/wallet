@@ -1,1 +1,1 @@
-var mnemonic = "athlete stereo cram enlist sword junk merry slam lens kiss bunker service";
+var mnemonic = "estate print volcano lemon secret artist student man possible ride tank blanket";

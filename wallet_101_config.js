@@ -1,1 +1,1 @@
-var mnemonic = "antenna word gun soul nuclear where bench under round belt shell begin";
+var mnemonic = "hammer loan slight vapor amused bitter beauty crazy foot write cause stamp";

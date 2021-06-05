@@ -1,1 +1,1 @@
-var mnemonic = "height inspire brief naive topic consider ship exit legal identify fashion juice";
+var mnemonic = "coral suggest year stomach coin artist muffin turtle response cruel muscle bike";

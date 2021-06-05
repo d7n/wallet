@@ -1,1 +1,1 @@
-var mnemonic = "author prize dwarf solve million pony task monkey spin scan walk weather";
+var mnemonic = "negative frog season blind project wait discover will ask orange route exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar derive attack skull swim space math utility surface staff hundred dream";
+var mnemonic = "pizza firm split hold belt seat pulse couple begin please aerobic forward";

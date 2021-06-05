@@ -1,1 +1,1 @@
-var mnemonic = "magic say orphan aerobic charge cute annual choice force evolve soldier purity";
+var mnemonic = "game resource daughter original win awesome cram innocent oval correct tattoo royal";

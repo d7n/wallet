@@ -1,1 +1,1 @@
-var mnemonic = "hundred verify mountain again fossil asset nephew gain industry celery drift stone";
+var mnemonic = "whisper sport cushion away tenant ecology pear staff blouse sun abandon sentence";

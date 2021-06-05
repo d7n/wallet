@@ -1,1 +1,1 @@
-var mnemonic = "trade token below error curious toy slow clog divert connect useless roof";
+var mnemonic = "sketch bracket bonus cluster walnut firm nature orange fever robust animal satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "pull price attitude idea ethics daring orchard enjoy clown click label airport";
+var mnemonic = "write alien stove urge enrich horn crisp track town friend nuclear rookie";

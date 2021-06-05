@@ -1,1 +1,1 @@
-var mnemonic = "game spray mushroom critic crunch pig damp noise tide border eternal win";
+var mnemonic = "young dress screen swarm loop glue speed orange winter orange banana absorb";

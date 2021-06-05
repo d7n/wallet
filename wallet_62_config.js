@@ -1,1 +1,1 @@
-var mnemonic = "undo remember impose mesh lawsuit ostrich pen provide amount view crunch holiday";
+var mnemonic = "plunge tooth top roast cricket boss behave gauge game young they elder";

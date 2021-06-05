@@ -1,1 +1,1 @@
-var mnemonic = "happy crawl essay rare across erode mammal snow oblige park since poet";
+var mnemonic = "ginger stock struggle divert silent spike brain economy anger asset apple advice";

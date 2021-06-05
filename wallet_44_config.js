@@ -1,1 +1,1 @@
-var mnemonic = "water season execute neglect exclude dress deer urge board exchange run mixture";
+var mnemonic = "sort cave grass supreme cousin web bright flat favorite kid digital wait";

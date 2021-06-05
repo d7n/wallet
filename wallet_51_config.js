@@ -1,1 +1,1 @@
-var mnemonic = "involve bracket refuse produce wing annual hungry edit put pair involve lava";
+var mnemonic = "sorry output power scout galaxy only carbon resource brown fold balance ketchup";

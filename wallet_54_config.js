@@ -1,1 +1,1 @@
-var mnemonic = "cotton illness picture property trumpet humor black glove skill sorry miss laugh";
+var mnemonic = "glow fire open adjust member sphere update deputy iron monster wear victory";

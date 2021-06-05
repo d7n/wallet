@@ -1,1 +1,1 @@
-var mnemonic = "palace chalk warrior gown spray wrestle sentence disorder despair response balcony calm";
+var mnemonic = "satoshi canal floor bean blanket frost invest small coral upgrade salute stand";

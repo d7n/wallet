@@ -1,1 +1,1 @@
-var mnemonic = "solution buffalo little leisure address stadium blood hen slide cabbage unique bottom";
+var mnemonic = "skin canyon mail badge render clay lucky cool slam leaf excuse orchard";

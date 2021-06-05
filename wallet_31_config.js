@@ -1,1 +1,1 @@
-var mnemonic = "middle undo pulp record provide goddess transfer modify present cute bread valley";
+var mnemonic = "trick stable guilt assist dash elevator chicken potato stock pen hundred oil";

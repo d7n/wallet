@@ -1,1 +1,1 @@
-var mnemonic = "dirt truly office bless sketch blast vague opinion charge congress lion metal";
+var mnemonic = "eight gasp reunion umbrella improve laptop burden approve room cross poem furnace";

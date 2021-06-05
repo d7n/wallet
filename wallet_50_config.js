@@ -1,1 +1,1 @@
-var mnemonic = "pencil ball enable stone vacuum mom lion impulse mesh vivid load airport";
+var mnemonic = "alley diary slot session crystal guess syrup cover length access appear stand";

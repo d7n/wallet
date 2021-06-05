@@ -1,1 +1,1 @@
-var mnemonic = "warm aunt usage surface bunker feature scout spread swamp gallery then bleak";
+var mnemonic = "author give faint silver offer wasp police reform dilemma rather mass noodle";

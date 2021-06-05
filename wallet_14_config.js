@@ -1,1 +1,1 @@
-var mnemonic = "veteran forget increase daughter upon matter kingdom raw warm happy ginger judge";
+var mnemonic = "panda time just enter valve slot bring ball unlock cousin cover misery";

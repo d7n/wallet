@@ -1,1 +1,1 @@
-var mnemonic = "quit tower brother stereo cement vanish guilt inject wrong truck trim pond";
+var mnemonic = "fabric apology time shed december humor canvas display cram lecture wine resist";

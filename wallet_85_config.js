@@ -1,1 +1,1 @@
-var mnemonic = "stairs warrior early burst person bubble believe spend charge choice mosquito reduce";
+var mnemonic = "kidney invite auction hat yard rent scissors globe south tide recall glass";

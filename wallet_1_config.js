@@ -1,1 +1,1 @@
-var mnemonic = "copy leisure memory roof trigger thumb basic hill hub city upset mixed";
+var mnemonic = "document soda feed reunion tide any eyebrow behave fiction rude cliff tower";

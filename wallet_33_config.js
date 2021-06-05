@@ -1,1 +1,1 @@
-var mnemonic = "oil room toss swing infant either among hurry space solution middle live";
+var mnemonic = "blanket business bone energy idle mystery insect dish skill dish picture clap";

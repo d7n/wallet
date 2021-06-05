@@ -1,1 +1,1 @@
-var mnemonic = "chair jazz ugly hazard pill judge image reject drama sort term cigar";
+var mnemonic = "confirm base hybrid guilt announce hidden wash pear example shaft reopen crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "robot art party announce icon recall balcony fine humor valid until knock";
+var mnemonic = "enact citizen receive dutch theme wrist forward found chapter slogan weird harsh";

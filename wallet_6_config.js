@@ -1,1 +1,1 @@
-var mnemonic = "expire dizzy resist system motor couple design anger radar spot exile rent";
+var mnemonic = "critic voice exist room fiscal drama hand result valve asset people gold";

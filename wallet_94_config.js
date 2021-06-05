@@ -1,1 +1,1 @@
-var mnemonic = "initial enjoy dice allow dish trash praise evolve push repeat source aspect";
+var mnemonic = "assume clip moon else slow arm switch another truly jelly pulp sadness";

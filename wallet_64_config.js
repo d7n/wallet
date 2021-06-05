@@ -1,1 +1,1 @@
-var mnemonic = "despair glove lens step bag view scale sleep focus exile test rack";
+var mnemonic = "gospel equip present april hazard coast uniform habit soccer atom soccer hungry";

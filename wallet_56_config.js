@@ -1,1 +1,1 @@
-var mnemonic = "cute flat dizzy swarm ivory tragic wool clock fork option final embody";
+var mnemonic = "enough love pistol echo cattle coil velvet material budget salute prosper female";

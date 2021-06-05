@@ -1,1 +1,1 @@
-var mnemonic = "assault position virus dwarf negative spoon nothing allow sick damage onion book";
+var mnemonic = "movie rough rifle glare brain cabin glory glory over aspect garbage powder";

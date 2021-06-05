@@ -1,1 +1,1 @@
-var mnemonic = "gown aspect entry soft uphold exhibit tuition margin evoke dinner task mixture";
+var mnemonic = "ostrich suit extend motor bulk ostrich attitude april include arena school sense";

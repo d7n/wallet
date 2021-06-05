@@ -1,1 +1,1 @@
-var mnemonic = "census depth sell disease champion wealth ring border leave history close crawl";
+var mnemonic = "basic kangaroo cry palace iron best clean easy crucial wrap draft net";

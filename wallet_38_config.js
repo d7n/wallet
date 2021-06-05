@@ -1,1 +1,1 @@
-var mnemonic = "orient retreat tackle liberty field elbow other crumble depend bulk wine flower";
+var mnemonic = "tragic rule bread inhale together prison obey palace turkey green primary seek";

@@ -1,1 +1,1 @@
-var mnemonic = "slab night country pride siege pledge catch street saddle sure tree recycle";
+var mnemonic = "banana doctor powder render notable junior festival exhibit spring protect indoor burger";

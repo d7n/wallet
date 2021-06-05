@@ -1,1 +1,1 @@
-var mnemonic = "maze april scout divide quote senior scatter same hedgehog scene same rather";
+var mnemonic = "uncover acquire grab lobster hidden bench hour orbit just void harbor science";

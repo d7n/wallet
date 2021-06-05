@@ -1,1 +1,1 @@
-var mnemonic = "move mother sand payment simple annual laundry split supreme visual talk thrive";
+var mnemonic = "legend drama charge orbit faculty envelope manage because normal december face deer";

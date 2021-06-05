@@ -1,1 +1,1 @@
-var mnemonic = "expire sure human brush neglect iron write hip unaware evoke holiday height";
+var mnemonic = "jungle quiz guitar crash rib shed obscure inherit fence attend sponsor boy";

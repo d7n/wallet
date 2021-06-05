@@ -1,1 +1,1 @@
-var mnemonic = "extend dry impact badge step label room clever frozen type enhance cup";
+var mnemonic = "flower rigid trap impulse usage indicate happy quote garment marine real twice";

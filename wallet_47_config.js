@@ -1,1 +1,1 @@
-var mnemonic = "one upgrade whisper spirit consider mean skill nut gallery fence uphold wink";
+var mnemonic = "lyrics cat write ten close appear lab wall relax blade visit cannon";

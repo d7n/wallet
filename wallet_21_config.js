@@ -1,1 +1,1 @@
-var mnemonic = "chat catch bounce vital extra famous volcano patrol festival napkin village post";
+var mnemonic = "town dragon jewel vicious party slender rent matrix viable track pulp all";

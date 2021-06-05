@@ -1,1 +1,1 @@
-var mnemonic = "green pulp above sudden army myth nose behind doll bonus seat virus";
+var mnemonic = "young perfect liberty about elephant hurdle buzz man oxygen payment mimic lemon";

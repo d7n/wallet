@@ -1,1 +1,1 @@
-var mnemonic = "avoid question grid solution toilet put pair risk tired artist bargain abandon";
+var mnemonic = "cluster album venue dutch resist rail gasp virtual they only bone seminar";

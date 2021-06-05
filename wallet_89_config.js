@@ -1,1 +1,1 @@
-var mnemonic = "home grape heart library place midnight moment stage glow lunch gather great";
+var mnemonic = "worth wire view journey misery lobster gauge soap raccoon math skill grit";

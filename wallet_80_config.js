@@ -1,1 +1,1 @@
-var mnemonic = "hello bacon inform wife flavor wrist club beef steak notice protect artefact";
+var mnemonic = "govern borrow dice detail winner fix real join hair salt census attack";

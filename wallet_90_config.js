@@ -1,1 +1,1 @@
-var mnemonic = "boss unaware include brief maximum region nice canvas media filter brain festival";
+var mnemonic = "figure dinosaur bus blade left draw business claim tell point parade surge";

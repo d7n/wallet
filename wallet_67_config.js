@@ -1,1 +1,1 @@
-var mnemonic = "predict ostrich expire noble inquiry grit stable rice response stuff mind anxiety";
+var mnemonic = "during drill practice canvas mom inside hello parrot fringe voice crystal ill";

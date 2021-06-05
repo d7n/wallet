@@ -1,1 +1,1 @@
-var mnemonic = "portion region wisdom labor cushion basket brass main know during robot angle";
+var mnemonic = "invite girl pen parade excuse nothing click produce moment roast nice dentist";

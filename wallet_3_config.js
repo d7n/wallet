@@ -1,1 +1,1 @@
-var mnemonic = "soap pigeon floor actual assume mansion pumpkin slam library vehicle edit assist";
+var mnemonic = "clay forward parade permit pig found mask knee garden beauty romance aerobic";

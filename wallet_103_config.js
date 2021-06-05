@@ -1,1 +1,1 @@
-var mnemonic = "fit army rib gossip present cup inch caution desk what chase wrist";
+var mnemonic = "remind giggle judge long celery bronze south express final fat dry bus";

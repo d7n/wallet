@@ -1,1 +1,1 @@
-var mnemonic = "punch jungle puppy crouch kid rhythm priority this curious relief rapid cushion";
+var mnemonic = "catch steak wealth reflect orphan type soldier subject category trade winter inherit";

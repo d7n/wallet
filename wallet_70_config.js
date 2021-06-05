@@ -1,1 +1,1 @@
-var mnemonic = "deal bicycle left aim narrow move chair web season hurry ensure use";
+var mnemonic = "jungle grab kiwi divide boss auto battle author riot mother solution rule";

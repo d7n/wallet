@@ -1,1 +1,1 @@
-var mnemonic = "radio toilet number original skill timber warm circle bitter ice orphan online";
+var mnemonic = "false merge print magic panic coral umbrella minimum demise vast type denial";

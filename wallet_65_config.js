@@ -1,1 +1,1 @@
-var mnemonic = "strategy voice urban cave today laugh elevator game pause cruise better vacant";
+var mnemonic = "execute camp win unhappy auction trial panther diagram equal vivid alone comfort";

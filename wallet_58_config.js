@@ -1,1 +1,1 @@
-var mnemonic = "emerge amused student little service holiday rail champion magic nothing wolf element";
+var mnemonic = "define deputy direct multiply saddle word narrow possible near noise bike cart";

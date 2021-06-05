@@ -1,1 +1,1 @@
-var mnemonic = "canvas hub cream remove devote column staff prize fashion slender hair heavy";
+var mnemonic = "elevator alone ten join tumble food unaware promote defense enhance wall trade";

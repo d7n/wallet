@@ -1,1 +1,1 @@
-var mnemonic = "sustain prosper code retreat purpose tissue session shoot jump buzz undo lumber";
+var mnemonic = "detect repair transfer voice festival first cancel current price cage beyond project";

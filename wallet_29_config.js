@@ -1,1 +1,1 @@
-var mnemonic = "high option budget water wrap orphan spoon safe depend legal faith carry";
+var mnemonic = "retreat fade liquid notice middle plate unusual load depart total pigeon alert";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver capable lawn category attack rhythm draft tackle series image fringe giraffe";
+var mnemonic = "tell gain green ordinary account input become cage opinion nest skin robot";
