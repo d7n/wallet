@@ -1,1 +1,1 @@
-var mnemonic = "wheat misery narrow virtual trumpet normal resist wet narrow embark video essence";
+var mnemonic = "one upgrade whisper spirit consider mean skill nut gallery fence uphold wink";

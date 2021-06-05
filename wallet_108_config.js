@@ -1,1 +1,1 @@
-var mnemonic = "crumble lab coyote survey very spatial tiger picnic amazing mule color curve";
+var mnemonic = "quit tower brother stereo cement vanish guilt inject wrong truck trim pond";

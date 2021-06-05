@@ -1,1 +1,1 @@
-var mnemonic = "village guard staff upper miracle mutual unknown shadow erase wrestle smooth excess";
+var mnemonic = "frog dumb smart original lava price wire donor false magic eternal climb";

@@ -1,1 +1,1 @@
-var mnemonic = "treat trim push swear curve inquiry arrow funny puppy female robot later";
+var mnemonic = "expire dizzy resist system motor couple design anger radar spot exile rent";

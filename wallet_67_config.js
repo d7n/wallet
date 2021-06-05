@@ -1,1 +1,1 @@
-var mnemonic = "journey model sing floor strategy prepare develop design gather middle category relief";
+var mnemonic = "predict ostrich expire noble inquiry grit stable rice response stuff mind anxiety";

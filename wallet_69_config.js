@@ -1,1 +1,1 @@
-var mnemonic = "slow predict spoil garbage kitten actor glance finish motor tilt buffalo olive";
+var mnemonic = "ritual type deposit tower tower invest together fit predict slice lady science";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding sting scan tower camera great wife coral great private worry tissue";
+var mnemonic = "involve bracket refuse produce wing annual hungry edit put pair involve lava";

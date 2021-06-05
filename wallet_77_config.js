@@ -1,1 +1,1 @@
-var mnemonic = "super tag match awful bid hover tissue repair silent amount material fantasy";
+var mnemonic = "consider lottery dinosaur squeeze angle someone rotate rather token ocean hockey typical";

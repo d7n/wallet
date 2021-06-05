@@ -1,1 +1,1 @@
-var mnemonic = "element fuel valve uniform nurse consider select mutual thrive segment again clever";
+var mnemonic = "upper action sign capital cage birth delay economy illness sauce release wasp";

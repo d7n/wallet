@@ -1,1 +1,1 @@
-var mnemonic = "slush doll razor mix govern dirt useful clarify unhappy gain muffin rabbit";
+var mnemonic = "home grape heart library place midnight moment stage glow lunch gather great";

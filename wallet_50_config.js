@@ -1,1 +1,1 @@
-var mnemonic = "apart wrap call rescue toddler notable image enlist cheap layer thunder couple";
+var mnemonic = "pencil ball enable stone vacuum mom lion impulse mesh vivid load airport";

@@ -1,1 +1,1 @@
-var mnemonic = "put screen slogan camera obscure slight jealous fever this holiday friend disagree";
+var mnemonic = "stairs lion invest parrot embody brief excite swarm size mom salad purse";

@@ -1,1 +1,1 @@
-var mnemonic = "wood energy text sing wool man gaze creek night uniform shoot lyrics";
+var mnemonic = "deal bicycle left aim narrow move chair web season hurry ensure use";

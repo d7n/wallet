@@ -1,1 +1,1 @@
-var mnemonic = "you canoe vital guess unknown fancy neutral awake liberty cabin frozen toddler";
+var mnemonic = "fit army rib gossip present cup inch caution desk what chase wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "fall shadow salute amateur reunion game scrap tackle wear play duck lonely";
+var mnemonic = "dirt truly office bless sketch blast vague opinion charge congress lion metal";

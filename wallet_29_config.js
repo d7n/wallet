@@ -1,1 +1,1 @@
-var mnemonic = "system file victory cloth west water tackle gauge gate airport fire lazy";
+var mnemonic = "high option budget water wrap orphan spoon safe depend legal faith carry";

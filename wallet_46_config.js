@@ -1,1 +1,1 @@
-var mnemonic = "illness fat couch pattern insect level museum clock control code damp enrich";
+var mnemonic = "banana family wolf choose news rule material coil cheap end woman very";

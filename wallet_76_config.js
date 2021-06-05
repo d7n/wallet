@@ -1,1 +1,1 @@
-var mnemonic = "suit leopard rely skate urban buzz cricket report finish decorate another use";
+var mnemonic = "hire fly myself used erode leave empty march fossil champion fabric huge";

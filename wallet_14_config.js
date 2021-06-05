@@ -1,1 +1,1 @@
-var mnemonic = "doll start stadium exhibit bomb spring banana jazz december company sketch angle";
+var mnemonic = "veteran forget increase daughter upon matter kingdom raw warm happy ginger judge";

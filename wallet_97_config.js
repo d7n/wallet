@@ -1,1 +1,1 @@
-var mnemonic = "bonus bar lonely tennis ramp man behave tell control best ten imitate";
+var mnemonic = "upper luxury apology smile reform shrug volcano news kick guilt orbit walnut";

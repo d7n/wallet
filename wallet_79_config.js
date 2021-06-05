@@ -1,1 +1,1 @@
-var mnemonic = "noodle hurt brush comfort nose kind teach problem convince month execute maximum";
+var mnemonic = "expire sure human brush neglect iron write hip unaware evoke holiday height";

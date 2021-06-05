@@ -1,1 +1,1 @@
-var mnemonic = "message photo razor skirt system pave scorpion maze opinion romance grace test";
+var mnemonic = "chat catch bounce vital extra famous volcano patrol festival napkin village post";

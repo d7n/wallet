@@ -1,1 +1,1 @@
-var mnemonic = "tide tuna surge virtual blouse material legend sand vast merry beyond engage";
+var mnemonic = "soap pigeon floor actual assume mansion pumpkin slam library vehicle edit assist";

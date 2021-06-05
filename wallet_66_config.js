@@ -1,1 +1,1 @@
-var mnemonic = "embark maid badge impulse stadium over pizza spread noodle sauce reunion target";
+var mnemonic = "height inspire brief naive topic consider ship exit legal identify fashion juice";

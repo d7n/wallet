@@ -1,1 +1,1 @@
-var mnemonic = "umbrella height mimic explain rug summer earth put cushion move invest dismiss";
+var mnemonic = "happy crawl essay rare across erode mammal snow oblige park since poet";

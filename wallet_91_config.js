@@ -1,1 +1,1 @@
-var mnemonic = "country bargain core liquid hammer march sea trouble main piano repeat dove";
+var mnemonic = "useful gasp gospel endless smart hurry song stool staff sheriff desk priority";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas circle spread try husband sunny sauce witness tilt damp pigeon flip";
+var mnemonic = "robot art party announce icon recall balcony fine humor valid until knock";

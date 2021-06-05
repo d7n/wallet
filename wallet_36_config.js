@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog spend laptop flush anger response alone saddle govern slogan remember drastic";
+var mnemonic = "window banana setup neck place hold path ecology biology cup bargain runway";

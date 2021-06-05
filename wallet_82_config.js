@@ -1,1 +1,1 @@
-var mnemonic = "clog category amateur borrow industry dash gauge ring congress lunch obtain dolphin";
+var mnemonic = "original regret refuse scheme drama like column receive winter protect fancy reduce";

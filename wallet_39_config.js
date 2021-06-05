@@ -1,1 +1,1 @@
-var mnemonic = "hybrid assault steel science bless exhibit luxury deputy vital trend quality error";
+var mnemonic = "pull price attitude idea ethics daring orchard enjoy clown click label airport";

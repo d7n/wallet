@@ -1,1 +1,1 @@
-var mnemonic = "frost soccer avoid emerge pepper miracle horse fringe echo denial label abuse";
+var mnemonic = "lunar derive attack skull swim space math utility surface staff hundred dream";

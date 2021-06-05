@@ -1,1 +1,1 @@
-var mnemonic = "assume empty envelope decade mutual vapor chuckle rough turn scissors ball cube";
+var mnemonic = "combine arctic melody invite rule parent length until car gesture suggest page";

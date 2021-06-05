@@ -1,1 +1,1 @@
-var mnemonic = "wealth provide squeeze armor number mail grab awesome margin tragic capital galaxy";
+var mnemonic = "undo remember impose mesh lawsuit ostrich pen provide amount view crunch holiday";

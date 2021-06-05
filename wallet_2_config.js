@@ -1,1 +1,1 @@
-var mnemonic = "enlist local curve away aunt latin absorb attitude distance peasant venue path";
+var mnemonic = "canvas hub cream remove devote column staff prize fashion slender hair heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior sketch private tube robust spice century tobacco swift term peasant sustain";
+var mnemonic = "game spray mushroom critic crunch pig damp noise tide border eternal win";

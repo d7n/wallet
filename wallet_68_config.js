@@ -1,1 +1,1 @@
-var mnemonic = "leopard puppy spike crew universe sleep flip scrub gallery fiction job end";
+var mnemonic = "chair jazz ugly hazard pill judge image reject drama sort term cigar";

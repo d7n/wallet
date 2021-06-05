@@ -1,1 +1,1 @@
-var mnemonic = "slogan suffer emotion cart satisfy joy trust crowd phrase lucky nut tray";
+var mnemonic = "tribe cousin blame prefer nerve material shrug wire giraffe light cycle lucky";

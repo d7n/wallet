@@ -1,1 +1,1 @@
-var mnemonic = "joy comic cash dwarf potato rule armed spot million labor march place";
+var mnemonic = "acid region chunk update acquire copper tattoo credit wet poem alpha payment";

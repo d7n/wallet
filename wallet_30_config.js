@@ -1,1 +1,1 @@
-var mnemonic = "salute bag time awesome agree moral nest city universe brief quantum whale";
+var mnemonic = "assault position virus dwarf negative spoon nothing allow sick damage onion book";

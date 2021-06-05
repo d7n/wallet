@@ -1,1 +1,1 @@
-var mnemonic = "skate trouble tuition project inner blame shrimp swap you screen polar box";
+var mnemonic = "scale mobile cherry grab winner bulk owner goat intact account sock scale";

@@ -1,1 +1,1 @@
-var mnemonic = "first hint roof drip sell reject enter bunker time myth exotic strong";
+var mnemonic = "enhance build laugh old purchase spider surface device slot gospel nation brush";

@@ -1,1 +1,1 @@
-var mnemonic = "reward jungle purpose zebra write oyster ladder metal coconut recall deliver ice";
+var mnemonic = "blossom crumble parrot solid whip exhibit shrug person expect diary gentle gentle";

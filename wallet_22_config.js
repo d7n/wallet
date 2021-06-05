@@ -1,1 +1,1 @@
-var mnemonic = "canoe armed since bus pelican foam outdoor wrap tourist ozone slush palm";
+var mnemonic = "code finish theme shed minor auto thank play ship town transfer kiwi";

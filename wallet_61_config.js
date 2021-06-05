@@ -1,1 +1,1 @@
-var mnemonic = "daring giraffe result brick group okay slight deposit buyer motion deal whisper";
+var mnemonic = "sustain prosper code retreat purpose tissue session shoot jump buzz undo lumber";

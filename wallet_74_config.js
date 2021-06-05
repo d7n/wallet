@@ -1,1 +1,1 @@
-var mnemonic = "extend actual bright danger client spike remove ginger tornado when between member";
+var mnemonic = "diagram foam hammer romance onion fever mass impact wonder steel boost slide";

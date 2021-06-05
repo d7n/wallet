@@ -1,1 +1,1 @@
-var mnemonic = "pottery coconut disorder pluck marriage check extend steak wine hamster adult cannon";
+var mnemonic = "trade token below error curious toy slow clog divert connect useless roof";

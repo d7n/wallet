@@ -1,1 +1,1 @@
-var mnemonic = "uncle muscle pole dog rice ceiling twenty rifle champion sunny install develop";
+var mnemonic = "despair glove lens step bag view scale sleep focus exile test rack";

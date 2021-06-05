@@ -1,1 +1,1 @@
-var mnemonic = "parrot segment whisper club transfer boil intact mail need unknown sorry couch";
+var mnemonic = "extend dry impact badge step label room clever frozen type enhance cup";

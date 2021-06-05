@@ -1,1 +1,1 @@
-var mnemonic = "eternal caution flower valid sea doctor rubber sketch hotel bone swim absent";
+var mnemonic = "ski satisfy amused feed eight enforce sister then drama reform kiss huge";

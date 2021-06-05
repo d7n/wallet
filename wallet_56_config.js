@@ -1,1 +1,1 @@
-var mnemonic = "coconut road renew drum menu matter wink thumb cause broken floor congress";
+var mnemonic = "cute flat dizzy swarm ivory tragic wool clock fork option final embody";

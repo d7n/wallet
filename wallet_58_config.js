@@ -1,1 +1,1 @@
-var mnemonic = "belt near size hour runway vital vote say grain zone pledge crane";
+var mnemonic = "emerge amused student little service holiday rail champion magic nothing wolf element";

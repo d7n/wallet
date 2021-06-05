@@ -1,1 +1,1 @@
-var mnemonic = "advice pull awkward leisure core volume able measure cry surface miss between";
+var mnemonic = "stairs warrior early burst person bubble believe spend charge choice mosquito reduce";

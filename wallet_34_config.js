@@ -1,1 +1,1 @@
-var mnemonic = "dynamic badge fresh check jealous shuffle hawk sugar hidden circle exotic acid";
+var mnemonic = "beauty volcano account scatter crystal wheel march merit evil general join change";

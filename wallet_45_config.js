@@ -1,1 +1,1 @@
-var mnemonic = "buzz child surprise strike draw certain sock sword crack pass unfair cool";
+var mnemonic = "still still own rocket swamp silly web excess dish put happy capital";

@@ -1,1 +1,1 @@
-var mnemonic = "enact space grow nest rate squirrel okay gesture rhythm group brain lion";
+var mnemonic = "permit lottery parrot panel convince solar basic record repeat witness ritual security";

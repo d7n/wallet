@@ -1,1 +1,1 @@
-var mnemonic = "custom elder lift noise celery minute grace shift use mutual member scatter";
+var mnemonic = "miracle abandon despair tube suggest tell note cram noise churn business auction";

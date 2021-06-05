@@ -1,1 +1,1 @@
-var mnemonic = "venture entire quit arrow join hotel uncle keen blue asset anchor wrestle";
+var mnemonic = "asset suffer street total pink secret gown exchange frozen shove inside giggle";

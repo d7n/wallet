@@ -1,1 +1,1 @@
-var mnemonic = "power pigeon accuse rice trend there dynamic someone topple caught globe stay";
+var mnemonic = "strategy voice urban cave today laugh elevator game pause cruise better vacant";

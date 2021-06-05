@@ -1,1 +1,1 @@
-var mnemonic = "satoshi grow cradle expect fragile model dismiss analyst note attend churn way";
+var mnemonic = "initial enjoy dice allow dish trash praise evolve push repeat source aspect";

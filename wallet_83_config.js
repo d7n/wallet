@@ -1,1 +1,1 @@
-var mnemonic = "rebuild dolphin digital review mean vital window joy brain rate manage gorilla";
+var mnemonic = "census depth sell disease champion wealth ring border leave history close crawl";

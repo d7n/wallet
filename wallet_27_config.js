@@ -1,1 +1,1 @@
-var mnemonic = "require shell surface phone eternal mass focus vast engage famous vendor share";
+var mnemonic = "material special glove try pink tomato luggage provide device bounce provide quick";

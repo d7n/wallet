@@ -1,1 +1,1 @@
-var mnemonic = "index problem method foot diagram eager canvas cart sheriff silent over poem";
+var mnemonic = "avoid question grid solution toilet put pair risk tired artist bargain abandon";

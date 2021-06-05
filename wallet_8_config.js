@@ -1,1 +1,1 @@
-var mnemonic = "toddler sentence yard focus place across search image badge expose crazy february";
+var mnemonic = "spring junk battle world plunge soft silk distance drastic hospital certain kingdom";

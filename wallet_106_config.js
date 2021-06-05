@@ -1,1 +1,1 @@
-var mnemonic = "behind imitate believe certain blouse sail frequent catalog easily limit defense bomb";
+var mnemonic = "senior vicious scene patient edge hero iron replace engage zone urge page";

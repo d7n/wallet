@@ -1,1 +1,1 @@
-var mnemonic = "taxi power peasant they save blade vital robot possible claw more knife";
+var mnemonic = "hundred verify mountain again fossil asset nephew gain industry celery drift stone";

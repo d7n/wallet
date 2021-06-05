@@ -1,1 +1,1 @@
-var mnemonic = "crazy rate lion capital spoil oak tenant among club enjoy retreat update";
+var mnemonic = "middle undo pulp record provide goddess transfer modify present cute bread valley";

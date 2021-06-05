@@ -1,1 +1,1 @@
-var mnemonic = "street antique scheme glue question entry panic face tourist misery sick answer";
+var mnemonic = "reveal situate sadness stick holiday butter enter news cargo exercise safe genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "very demise monster midnight puppy spread stamp problem test cable nice aunt";
+var mnemonic = "recipe slab click document uncover decorate expand regular gold example early great";

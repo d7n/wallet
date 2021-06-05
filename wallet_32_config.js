@@ -1,1 +1,1 @@
-var mnemonic = "unit amused abuse cloud spot dream orbit powder tonight digital garage round";
+var mnemonic = "maze april scout divide quote senior scatter same hedgehog scene same rather";

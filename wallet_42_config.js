@@ -1,1 +1,1 @@
-var mnemonic = "solid quality cousin order lunch dragon hold achieve void elevator oven cargo";
+var mnemonic = "punch jungle puppy crouch kid rhythm priority this curious relief rapid cushion";

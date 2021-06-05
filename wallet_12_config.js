@@ -1,1 +1,1 @@
-var mnemonic = "shrug above talent avocado announce hurdle cluster front damp decrease bacon hybrid";
+var mnemonic = "gown aspect entry soft uphold exhibit tuition margin evoke dinner task mixture";

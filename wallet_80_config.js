@@ -1,1 +1,1 @@
-var mnemonic = "rely section sport bag judge virtual mutual maze split front sleep voyage";
+var mnemonic = "hello bacon inform wife flavor wrist club beef steak notice protect artefact";

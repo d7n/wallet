@@ -1,1 +1,1 @@
-var mnemonic = "brown throw horn wrong mountain alien century ski female race end market";
+var mnemonic = "angle biology rescue impose creek gesture blush strong west march sail inch";

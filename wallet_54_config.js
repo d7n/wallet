@@ -1,1 +1,1 @@
-var mnemonic = "group paper affair abuse depend access nurse cushion alter million boss wrap";
+var mnemonic = "cotton illness picture property trumpet humor black glove skill sorry miss laugh";

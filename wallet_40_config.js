@@ -1,1 +1,1 @@
-var mnemonic = "broccoli shift forward canvas radio faculty guard few actor burst vapor bullet";
+var mnemonic = "solution buffalo little leisure address stadium blood hen slide cabbage unique bottom";

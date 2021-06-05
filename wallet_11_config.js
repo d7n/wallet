@@ -1,1 +1,1 @@
-var mnemonic = "wreck smooth awesome nasty kiss faculty junior cash survey caught legal deer";
+var mnemonic = "one damp trade treat license place devote ranch excite obtain success net";

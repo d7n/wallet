@@ -1,1 +1,1 @@
-var mnemonic = "access purity recycle chase popular cute enjoy vast song steak coffee into";
+var mnemonic = "chunk until wine belt butter try island match basic cost welcome please";

@@ -1,1 +1,1 @@
-var mnemonic = "margin slow rookie child mesh fan borrow mass garbage speak race hurry";
+var mnemonic = "throw retire enroll system quote buddy design warm rocket menu three swing";

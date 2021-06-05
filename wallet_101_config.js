@@ -1,1 +1,1 @@
-var mnemonic = "knee father enough pupil kidney spy awesome always anxiety copper solid fan";
+var mnemonic = "antenna word gun soul nuclear where bench under round belt shell begin";

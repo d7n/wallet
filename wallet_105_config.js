@@ -1,1 +1,1 @@
-var mnemonic = "detail health father critic else into cherry debris animal come hospital license";
+var mnemonic = "tortoise orchard yellow unaware obtain real goddess mixed term device office buffalo";

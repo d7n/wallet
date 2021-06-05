@@ -1,1 +1,1 @@
-var mnemonic = "mass stadium sample achieve strong eyebrow apple mansion glow hour glass shove";
+var mnemonic = "magic say orphan aerobic charge cute annual choice force evolve soldier purity";

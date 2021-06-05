@@ -1,1 +1,1 @@
-var mnemonic = "holiday melt collect lazy measure egg neglect music where found tip tomato";
+var mnemonic = "portion region wisdom labor cushion basket brass main know during robot angle";

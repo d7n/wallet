@@ -1,1 +1,1 @@
-var mnemonic = "chalk hundred surface famous just half torch alcohol relax large brush next";
+var mnemonic = "license kiss sponsor level pole furnace shoot room day plug dry improve";

@@ -1,1 +1,1 @@
-var mnemonic = "match phrase mouse aunt ignore left entire kangaroo welcome allow share era";
+var mnemonic = "deliver capable lawn category attack rhythm draft tackle series image fringe giraffe";

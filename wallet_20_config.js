@@ -1,1 +1,1 @@
-var mnemonic = "square view afford venue million school dawn noodle cage six raw chest";
+var mnemonic = "subject twice wish ghost blast ice grunt price twelve absorb slab metal";

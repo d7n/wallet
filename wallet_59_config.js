@@ -1,1 +1,1 @@
-var mnemonic = "drip market hood charge air whale illegal loan film exchange middle tackle";
+var mnemonic = "palace chalk warrior gown spray wrestle sentence disorder despair response balcony calm";

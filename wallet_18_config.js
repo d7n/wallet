@@ -1,1 +1,1 @@
-var mnemonic = "promote bridge squirrel wire street work attend labor zoo swift winner guide";
+var mnemonic = "twice tuition naive roast census inject table ketchup crunch body loop guitar";

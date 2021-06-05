@@ -1,1 +1,1 @@
-var mnemonic = "detect unable timber joy profit village enter power glide pledge evil carbon";
+var mnemonic = "green pulp above sudden army myth nose behind doll bonus seat virus";
