@@ -1,1 +1,1 @@
-var mnemonic = "column vocal copy curve public all history funny coast defense burst twin";
+var mnemonic = "journey destroy alcohol awkward review green shaft lens usual assume piece focus";

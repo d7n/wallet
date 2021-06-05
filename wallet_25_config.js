@@ -1,1 +1,1 @@
-var mnemonic = "corn stool already action lion spend leave warfare spring dilemma bone convince";
+var mnemonic = "steak tool reflect truck price menu erode danger tunnel episode galaxy private";

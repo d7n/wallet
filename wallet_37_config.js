@@ -1,1 +1,1 @@
-var mnemonic = "end survey update speed make boil belt speak buzz sponsor struggle burst";
+var mnemonic = "tone enforce vicious flock shoulder craft skill ranch portion equip twin real";

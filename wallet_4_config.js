@@ -1,1 +1,1 @@
-var mnemonic = "bus paper steel install spring wave believe horse wrap behave code region";
+var mnemonic = "idle vital filter tattoo smile tail drama attend thing aspect goose custom";

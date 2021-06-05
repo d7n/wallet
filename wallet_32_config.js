@@ -1,1 +1,1 @@
-var mnemonic = "vital salute lab jewel render sudden drama travel black hurry calm laugh";
+var mnemonic = "sure bottom rib motor chalk hunt maze all sustain general inmate session";

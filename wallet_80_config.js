@@ -1,1 +1,1 @@
-var mnemonic = "wasp siege pulse gauge keen brain cube order oak announce regular bid";
+var mnemonic = "peace lift issue suffer delay senior hill present afford initial budget spy";

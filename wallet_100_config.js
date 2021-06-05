@@ -1,1 +1,1 @@
-var mnemonic = "asthma cigar crucial catalog yard sea spell aspect feed hidden viable orange";
+var mnemonic = "push someone school crash sunset census accuse north purpose cup foil hamster";

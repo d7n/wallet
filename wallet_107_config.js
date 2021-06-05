@@ -1,1 +1,1 @@
-var mnemonic = "music know surge table axis duty shallow fitness lottery noble pig zero";
+var mnemonic = "patch claim culture canyon boss trumpet address pill mass busy depth pulp";

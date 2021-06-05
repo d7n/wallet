@@ -1,1 +1,1 @@
-var mnemonic = "shuffle you document obscure unknown genuine coyote sure life unusual slogan aerobic";
+var mnemonic = "sad loyal slide eagle peasant evolve march pact vintage soda match suspect";

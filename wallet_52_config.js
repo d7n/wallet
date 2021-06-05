@@ -1,1 +1,1 @@
-var mnemonic = "ski credit timber sudden hole mail dry advice father sustain coil sniff";
+var mnemonic = "orange seed chaos tide museum between team spike holiday tell chuckle say";

@@ -1,1 +1,1 @@
-var mnemonic = "volume duty sauce sun desk popular bronze dwarf version park disagree planet";
+var mnemonic = "garment inflict guess around box loud scissors panda one negative tent fabric";

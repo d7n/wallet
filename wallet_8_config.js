@@ -1,1 +1,1 @@
-var mnemonic = "vicious mutual ride flat among bench boat trap orchard identify impulse potato";
+var mnemonic = "alley thunder august trim census senior gossip vacant crisp sleep smoke embark";

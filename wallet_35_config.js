@@ -1,1 +1,1 @@
-var mnemonic = "off shift float trap senior rack quarter laugh always jaguar punch face";
+var mnemonic = "water enforce admit online stadium dad display plate same frame capital adult";

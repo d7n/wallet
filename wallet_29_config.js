@@ -1,1 +1,1 @@
-var mnemonic = "crumble club frost ginger unveil record abuse sure elegant ankle proud lonely";
+var mnemonic = "charge volcano embody approve burger arm bamboo lamp patrol put mean armor";

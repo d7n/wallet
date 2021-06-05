@@ -1,1 +1,1 @@
-var mnemonic = "receive recall impulse swarm leg use crash inch glimpse easily foot multiply";
+var mnemonic = "panther limit aware pattern critic coffee spread machine allow run gallery place";

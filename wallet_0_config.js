@@ -1,1 +1,1 @@
-var mnemonic = "share judge staff session throw wisdom renew lottery forest corn jacket modify";
+var mnemonic = "discover drop market dream fancy deny narrow wood indoor protect aunt orchard";

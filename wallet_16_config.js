@@ -1,1 +1,1 @@
-var mnemonic = "please picnic speak swamp canvas rabbit lawsuit endless eight fetch cloud payment";
+var mnemonic = "hurdle almost borrow core planet innocent kingdom scare example dry oyster field";

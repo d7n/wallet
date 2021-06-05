@@ -1,1 +1,1 @@
-var mnemonic = "peace blur salad pink satoshi weapon select gift open tent sport sea";
+var mnemonic = "acoustic else excite super team volcano tattoo siege gate mountain coast dust";

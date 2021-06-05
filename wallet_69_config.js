@@ -1,1 +1,1 @@
-var mnemonic = "twist total obey sentence either decade bar behave spatial dad holiday submit";
+var mnemonic = "year surprise hill unfold original network south type egg hour reflect party";

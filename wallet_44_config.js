@@ -1,1 +1,1 @@
-var mnemonic = "control rent jacket chunk disagree scorpion govern run patch caution grant van";
+var mnemonic = "retreat decorate trick empty oval split soon entry history question rubber sing";

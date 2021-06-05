@@ -1,1 +1,1 @@
-var mnemonic = "huge dumb split beauty pipe alone jungle coil curious can oven weird";
+var mnemonic = "auction under habit frog snack cram lottery only zoo tent defy want";

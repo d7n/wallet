@@ -1,1 +1,1 @@
-var mnemonic = "silly few way day draw march pistol black control embark dial fat";
+var mnemonic = "claw spare flight coil timber outer tragic senior draw hotel because crucial";

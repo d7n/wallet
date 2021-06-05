@@ -1,1 +1,1 @@
-var mnemonic = "excite sauce vendor because cycle tired meadow initial soft squirrel garden remain";
+var mnemonic = "popular creek carpet bacon napkin vote zebra fire start sense decade slim";

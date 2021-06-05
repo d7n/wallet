@@ -1,1 +1,1 @@
-var mnemonic = "inform social gallery until brass proof oval blouse sea grow slab release";
+var mnemonic = "obey gravity account sorry into stem differ mass path solution initial reform";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt repair there duty twice sponsor unveil ask brick idle cargo tuition";
+var mnemonic = "pool exotic voice prevent holiday bargain person horror consider machine riot tank";

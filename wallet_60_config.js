@@ -1,1 +1,1 @@
-var mnemonic = "century spot length tilt farm leaf violin reflect crouch hint shrug mercy";
+var mnemonic = "shoe flat minimum law success useless liquid drink ice stumble limb vote";

@@ -1,1 +1,1 @@
-var mnemonic = "true coffee motion lizard sound ahead crunch scene gallery solution repeat over";
+var mnemonic = "consider net head cloth afraid donate odor october trade lift penalty practice";

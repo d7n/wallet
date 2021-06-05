@@ -1,1 +1,1 @@
-var mnemonic = "capable basket desk cat educate warfare pet one high unable scale appear";
+var mnemonic = "grain bless claw fitness diagram hungry color grab buffalo cotton clever boil";

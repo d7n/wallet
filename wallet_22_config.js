@@ -1,1 +1,1 @@
-var mnemonic = "owner jazz chaos party toddler mimic gown brief enter amused kiwi card";
+var mnemonic = "flavor confirm hair crumble age seek utility insane battle force shaft delay";

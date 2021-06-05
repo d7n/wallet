@@ -1,1 +1,1 @@
-var mnemonic = "shy analyst father parent hedgehog pond vessel gain kid crush outside drip";
+var mnemonic = "pear history love rhythm give skill addict hidden rug leopard perfect vital";

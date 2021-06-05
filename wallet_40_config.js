@@ -1,1 +1,1 @@
-var mnemonic = "wasp salmon stage laundry holiday march tiny tornado coffee obtain turkey reduce";
+var mnemonic = "sport proud bundle erupt fancy real segment sense scatter blush option select";

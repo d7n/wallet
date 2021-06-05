@@ -1,1 +1,1 @@
-var mnemonic = "hair renew expose twice disagree aware cancel amateur goat grain analyst thrive";
+var mnemonic = "clarify panic isolate material rifle pass video hat warfare globe actress scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "winner fall ball fox waste discover trouble flush chief divert federal gown";
+var mnemonic = "symptom pole glance scout awake appear mother robust faculty aware bachelor volume";

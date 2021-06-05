@@ -1,1 +1,1 @@
-var mnemonic = "service boring crisp raccoon tenant disorder panic bird index tobacco mechanic frequent";
+var mnemonic = "hungry into change lawn prosper leisure hurt gift depth frown garlic kiss";

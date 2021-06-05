@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow brush swear check leaf accuse pottery immense moment evil venture cliff";
+var mnemonic = "undo disagree accuse letter aim outdoor nation shrimp lyrics honey carpet age";

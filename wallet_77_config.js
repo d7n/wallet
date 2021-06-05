@@ -1,1 +1,1 @@
-var mnemonic = "civil orbit body simple jelly tank cancel divert waste cake cram segment";
+var mnemonic = "now camera orphan metal audit destroy half length forget crumble private enhance";

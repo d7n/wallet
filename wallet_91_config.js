@@ -1,1 +1,1 @@
-var mnemonic = "song file employ guard flower fly immune drip goat quantum city pill";
+var mnemonic = "purpose clean business manage tool theory flee pigeon force mom crowd steel";

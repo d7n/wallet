@@ -1,1 +1,1 @@
-var mnemonic = "gather boost rubber among icon exotic hope execute castle flip keep shoe";
+var mnemonic = "remain planet shy vehicle quarter certain insane thing fresh identify idea corn";

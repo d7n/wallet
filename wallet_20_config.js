@@ -1,1 +1,1 @@
-var mnemonic = "since buyer illegal stove bounce law address friend round excuse monitor fruit";
+var mnemonic = "copper acid urban exotic swear double sadness romance elder interest broken hawk";

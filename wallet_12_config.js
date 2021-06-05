@@ -1,1 +1,1 @@
-var mnemonic = "economy staff oak wrap prevent major manual focus truly hour depart enact";
+var mnemonic = "bar spoil sort believe fossil night carbon again inner gym attack abstract";

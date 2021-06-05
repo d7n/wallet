@@ -1,1 +1,1 @@
-var mnemonic = "lend attend claim scorpion like clarify rescue gravity target type time salmon";
+var mnemonic = "hobby kitchen general senior road increase omit sun try purchase spread vacuum";

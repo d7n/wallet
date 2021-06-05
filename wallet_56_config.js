@@ -1,1 +1,1 @@
-var mnemonic = "ramp quote pact wide state ghost tissue lion valve disease all antique";
+var mnemonic = "glimpse barrel lift slab aspect excite hurry breeze magnet prepare drift bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "flat stove steel poverty enhance toilet horse oval describe negative raw saddle";
+var mnemonic = "quantum hole laptop space yard make relax plastic ostrich ugly keep regular";

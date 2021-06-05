@@ -1,1 +1,1 @@
-var mnemonic = "become concert adjust pipe dash art squirrel verb level connect young staff";
+var mnemonic = "color picture wood brush pole culture sugar unable toast portion account smile";

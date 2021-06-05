@@ -1,1 +1,1 @@
-var mnemonic = "retreat chat ostrich profit company shaft old tag release stomach beyond idea";
+var mnemonic = "genre twin tortoise main canoe arrow retreat track inject across message spatial";

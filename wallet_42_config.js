@@ -1,1 +1,1 @@
-var mnemonic = "purchase dragon elevator key junior inside book ahead online stereo vital first";
+var mnemonic = "useless frost allow family deer chimney pass wife tank huge room repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "trap utility arrow web capital gauge panic table right follow blur peasant";
+var mnemonic = "begin roof increase venture uphold toilet flip tower always whip insect kiss";

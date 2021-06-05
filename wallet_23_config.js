@@ -1,1 +1,1 @@
-var mnemonic = "express wolf question spell retreat donate never obtain zero tackle praise tool";
+var mnemonic = "record plug assault just charge marble mushroom height rebuild exclude debris report";

@@ -1,1 +1,1 @@
-var mnemonic = "junior motor job logic seed penalty peasant wool father become ladder wreck";
+var mnemonic = "obvious garage nice office quote blue okay mouse catch doctor level old";

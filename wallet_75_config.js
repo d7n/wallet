@@ -1,1 +1,1 @@
-var mnemonic = "hotel deal oppose scan sausage dirt guess food element cute fetch police";
+var mnemonic = "history convince turtle dish fan dignity initial belt trend over tongue decline";

@@ -1,1 +1,1 @@
-var mnemonic = "weird dizzy fan raw moment picnic husband gain expect gas humble scheme";
+var mnemonic = "bike theory mystery pelican present duty window elbow young guess domain pull";

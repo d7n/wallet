@@ -1,1 +1,1 @@
-var mnemonic = "fruit theory heavy seven term alone sunny diesel bachelor scale item raccoon";
+var mnemonic = "roast foot peasant lady fiscal slot bid pilot move act impose require";

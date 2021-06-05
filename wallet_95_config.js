@@ -1,1 +1,1 @@
-var mnemonic = "cause buddy afraid junior crack worth group elbow tumble attitude alert useless";
+var mnemonic = "quit example question certain obscure cat way anxiety nose forum strong share";

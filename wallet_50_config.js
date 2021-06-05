@@ -1,1 +1,1 @@
-var mnemonic = "force about year ball toddler skate before guitar cube start snap index";
+var mnemonic = "ranch various creek man stove over warfare blame champion when quick unfold";

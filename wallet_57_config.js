@@ -1,1 +1,1 @@
-var mnemonic = "glad same remove magic test section dizzy unfair protect similar measure occur";
+var mnemonic = "husband farm labor hotel broom empty bicycle master parrot plastic path novel";

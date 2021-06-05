@@ -1,1 +1,1 @@
-var mnemonic = "someone panther exact need thrive bronze left cattle position champion travel pluck";
+var mnemonic = "sauce jeans art weasel cement answer firm pepper festival egg divorce border";

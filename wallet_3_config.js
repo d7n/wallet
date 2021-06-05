@@ -1,1 +1,1 @@
-var mnemonic = "power color code icon dance actual clog ready pond butter guilt asset";
+var mnemonic = "coffee van pepper virus vivid coconut flush bracket long absurd hollow advice";

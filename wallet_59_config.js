@@ -1,1 +1,1 @@
-var mnemonic = "special brisk current reason term solid system candy earn mercy strike decide";
+var mnemonic = "indicate buzz rent couple bag flight elevator race faith depend smoke festival";

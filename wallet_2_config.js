@@ -1,1 +1,1 @@
-var mnemonic = "illegal ten guitar crack figure beach second vacant siege diary dumb describe";
+var mnemonic = "laundry rival sound print message wheel shed bachelor lecture bring fluid ostrich";

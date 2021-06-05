@@ -1,1 +1,1 @@
-var mnemonic = "private grit excite inspire frown myself stock price victory stand stone scrub";
+var mnemonic = "moment all ignore soccer celery trial vanish during furnace palace smooth mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "project fluid often horse walnut ghost expire treat tonight van cable number";
+var mnemonic = "diamond survey alley mixture jump mix book float around hen mountain glory";

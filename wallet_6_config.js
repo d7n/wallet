@@ -1,1 +1,1 @@
-var mnemonic = "route join around gorilla tissue design sniff plastic punch fine vapor another";
+var mnemonic = "smooth service gesture message glide jeans race news clean novel bubble second";

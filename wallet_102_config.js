@@ -1,1 +1,1 @@
-var mnemonic = "priority plate pride enlist chronic find scare ride midnight canal cross dilemma";
+var mnemonic = "habit foam month wool average access knee pelican genre couple earth devote";

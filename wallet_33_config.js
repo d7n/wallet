@@ -1,1 +1,1 @@
-var mnemonic = "castle sport little job merry angle crash dirt green suspect eternal erupt";
+var mnemonic = "candy urge usual abandon alley mother setup lamp eye coin toy salmon";

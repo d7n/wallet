@@ -1,1 +1,1 @@
-var mnemonic = "major canal original casual between forest track morning more depth call boss";
+var mnemonic = "field horror cargo biology raise boy wasp order coral winner giraffe endless";

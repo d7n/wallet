@@ -1,1 +1,1 @@
-var mnemonic = "garlic slice blur coil satoshi pigeon negative trumpet heavy label tumble lyrics";
+var mnemonic = "abandon sibling game craft seek say bounce sorry try steak path shop";

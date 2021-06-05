@@ -1,1 +1,1 @@
-var mnemonic = "couple mansion curious quick much effort loyal among amount car box sad";
+var mnemonic = "gospel code ski siren fall obey miss rabbit cheap true chimney movie";

@@ -1,1 +1,1 @@
-var mnemonic = "person spring donate behave deer snake prefer gym boil pottery video snow";
+var mnemonic = "betray lamp mosquito escape job clean decide multiply ozone total fashion mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "resource chuckle lucky urban indicate general mechanic upon blood always inhale come";
+var mnemonic = "grow blur bind advice sniff absent oven leader small glow soda cheese";

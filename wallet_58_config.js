@@ -1,1 +1,1 @@
-var mnemonic = "actor acid silver faith become orient venue ecology wire sea drill bleak";
+var mnemonic = "envelope dismiss horn gauge trip day forest among hamster odor rigid nephew";

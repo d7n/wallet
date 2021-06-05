@@ -1,1 +1,1 @@
-var mnemonic = "cement lottery polar focus top adapt gift manage salad prosper element doll";
+var mnemonic = "auto cube tide puzzle bracket behave truth cactus pair oppose discover diamond";

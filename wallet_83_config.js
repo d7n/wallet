@@ -1,1 +1,1 @@
-var mnemonic = "like child reject involve cross anger sugar swarm stereo broccoli invite immune";
+var mnemonic = "champion vocal alcohol mobile boil flush rabbit few track cry frozen brisk";

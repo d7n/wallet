@@ -1,1 +1,1 @@
-var mnemonic = "orient drink mad stable shove situate hour slender you steel pyramid rigid";
+var mnemonic = "uniform kid desert bitter any hire speed fantasy year vibrant major aunt";

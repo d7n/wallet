@@ -1,1 +1,1 @@
-var mnemonic = "maid concert limb flock network remind hope legal gauge useless slam sand";
+var mnemonic = "echo delay narrow toe lawsuit metal purse material ribbon foot direct whisper";

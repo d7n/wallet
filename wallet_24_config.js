@@ -1,1 +1,1 @@
-var mnemonic = "task stomach very soccer elder sphere letter head worry giggle benefit large";
+var mnemonic = "weather ring family close rural collect subway mad bone license odor session";

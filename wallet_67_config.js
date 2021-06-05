@@ -1,1 +1,1 @@
-var mnemonic = "shuffle decorate napkin flower hockey cube seminar valve share average skate stadium";
+var mnemonic = "bless anxiety hip judge wasp elegant sort monitor frog harvest rabbit animal";

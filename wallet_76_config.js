@@ -1,1 +1,1 @@
-var mnemonic = "basic what tissue visa inner never marine soccer skate keep price action";
+var mnemonic = "clump grid dream camera army castle cake end fancy bean session crouch";

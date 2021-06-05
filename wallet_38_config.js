@@ -1,1 +1,1 @@
-var mnemonic = "medal blur wash lawsuit venue main hand lunch soap bless merit response";
+var mnemonic = "candy tragic property income area already stay door sketch normal boring symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "goat matrix damp fox desk taste twelve ladder sugar foam shrug kiwi";
+var mnemonic = "engage upset creek render uphold sword rigid atom empty advice smile movie";

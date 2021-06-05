@@ -1,1 +1,1 @@
-var mnemonic = "cross popular buyer trick area bracket figure critic round matter general easily";
+var mnemonic = "alert train trick same curve tomorrow neck bubble shed forget bonus coconut";

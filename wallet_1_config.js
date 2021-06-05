@@ -1,1 +1,1 @@
-var mnemonic = "minor morning cool rescue wise reward sense alone damp rally fury govern";
+var mnemonic = "gift inject entire impulse cigar upset tape fatal minute sketch noodle advance";

@@ -1,1 +1,1 @@
-var mnemonic = "shed believe ability strong found post scan job yellow avoid ahead squirrel";
+var mnemonic = "today flavor card return pulse bus gentle upper enforce drive behind easy";

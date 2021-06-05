@@ -1,1 +1,1 @@
-var mnemonic = "blue wink question talent uncle mouse broccoli buffalo dose click host discover";
+var mnemonic = "manage vibrant resource reunion beach fragile aware goddess spy action draw aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "core quarter profit ride card cheap galaxy ensure victory ordinary scorpion wet";
+var mnemonic = "lonely fish invite slender paper knee error conduct notable cloth excuse escape";

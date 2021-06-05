@@ -1,1 +1,1 @@
-var mnemonic = "attack convince dawn employ salt glad budget orient indicate marine utility lobster";
+var mnemonic = "silver jelly share garage anger mutual snack cereal arctic winner kite grass";

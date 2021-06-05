@@ -1,1 +1,1 @@
-var mnemonic = "thank acquire recipe claw gauge hollow illegal awesome turn cloth focus toddler";
+var mnemonic = "sudden ancient rice marble junk gossip hold illness screen circle popular divide";

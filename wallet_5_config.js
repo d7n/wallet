@@ -1,1 +1,1 @@
-var mnemonic = "tank match duck route dose bamboo tenant gold unit expand evoke game";
+var mnemonic = "strategy reflect boy spirit system neither foam entry canvas goat shuffle side";

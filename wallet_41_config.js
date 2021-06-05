@@ -1,1 +1,1 @@
-var mnemonic = "able flush tube reveal cool despair fringe already kitten unveil pink monster";
+var mnemonic = "position virtual tilt veteran pair disagree fan unlock ceiling bind alarm length";

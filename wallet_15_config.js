@@ -1,1 +1,1 @@
-var mnemonic = "nest illness spoil ski club rebuild park review leopard pilot swap demand";
+var mnemonic = "bring pelican process ask ticket fork seek crawl pond swamp act kingdom";

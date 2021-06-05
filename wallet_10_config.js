@@ -1,1 +1,1 @@
-var mnemonic = "wise liquid rocket utility faculty waste zone ketchup kid attend hedgehog love";
+var mnemonic = "shadow grass clean this put boring ten remain term jealous kite swap";

@@ -1,1 +1,1 @@
-var mnemonic = "there exist office panic toast wrap where body trigger year average riot";
+var mnemonic = "vital entire silver choice cup sick day bachelor airport allow state solution";

@@ -1,1 +1,1 @@
-var mnemonic = "boat electric area shuffle zebra venue chunk empower brave select wood scrub";
+var mnemonic = "scare speed rocket light inflict arrive guess frost orchard walk grocery motor";

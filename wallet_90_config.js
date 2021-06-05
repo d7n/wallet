@@ -1,1 +1,1 @@
-var mnemonic = "wide raw mad size discover around paper fall sausage reform radar dune";
+var mnemonic = "betray stem lens squirrel odor abstract hub talk regret kangaroo monster draw";

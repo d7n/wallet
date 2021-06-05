@@ -1,1 +1,1 @@
-var mnemonic = "base must push often physical crazy entire ripple dance must thrive punch";
+var mnemonic = "only ocean trophy hire market cover auto near path urban salmon cake";
