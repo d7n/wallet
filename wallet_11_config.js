@@ -1,1 +1,1 @@
-var mnemonic = "mosquito zero olive shove timber fantasy imitate engine remind blouse kangaroo indoor";
+var mnemonic = "point chronic enjoy pact bronze number issue steak pilot design huge weird";

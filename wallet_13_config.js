@@ -1,1 +1,1 @@
-var mnemonic = "always tank kidney tortoise spin where jelly satoshi movie race huge holiday";
+var mnemonic = "rack mask cattle initial ankle sick interest cage intact version trap alone";

@@ -1,1 +1,1 @@
-var mnemonic = "recall flash mass tuna wrong raccoon nose guitar viable clock sniff fuel";
+var mnemonic = "month drive cat lyrics million shoot okay music present ginger stadium result";

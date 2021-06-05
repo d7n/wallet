@@ -1,1 +1,1 @@
-var mnemonic = "ecology shaft oil hire tunnel govern design save nature detect attract together";
+var mnemonic = "dog top trigger theme husband else absent elephant weather head shuffle improve";

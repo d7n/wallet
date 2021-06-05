@@ -1,1 +1,1 @@
-var mnemonic = "round ball ladder spoon behave found velvet voyage vacant hello devote echo";
+var mnemonic = "allow idle special edge brass leader quiz noble erosion tired winter stumble";

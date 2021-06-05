@@ -1,1 +1,1 @@
-var mnemonic = "deer soon vast clip soap salad tell sauce clinic fold hazard census";
+var mnemonic = "circle private enroll thunder sketch cattle maximum similar mixed coyote viable chase";

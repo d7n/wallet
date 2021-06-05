@@ -1,1 +1,1 @@
-var mnemonic = "gadget develop high effort increase bullet business make wagon deer keep shock";
+var mnemonic = "method harvest build fold sadness leg dolphin female happy morning process atom";

@@ -1,1 +1,1 @@
-var mnemonic = "coach wish seven casino satisfy like scatter undo approve wealth such size";
+var mnemonic = "slice mom era pumpkin shell final chaos banana skill expire age ramp";

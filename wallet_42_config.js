@@ -1,1 +1,1 @@
-var mnemonic = "squeeze abstract destroy shy immense decade buddy kind trend step inquiry smart";
+var mnemonic = "stool enforce wreck express replace raise visa liar chalk solution reject margin";

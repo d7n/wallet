@@ -1,1 +1,1 @@
-var mnemonic = "extra section across silent inflict cool feature member morning phrase already oxygen";
+var mnemonic = "prefer canyon behind pilot all scrap east bag evolve buzz post sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "festival quality palace toast palace upgrade dirt blood fame submit gesture achieve";
+var mnemonic = "surge lumber decorate dune cheap cage expose thumb december loan balcony such";

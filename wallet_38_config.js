@@ -1,1 +1,1 @@
-var mnemonic = "volume globe marble maximum find rib tenant moon mechanic deny unusual hobby";
+var mnemonic = "unhappy shift tennis vote civil fiber theme thank purchase squirrel thunder settle";

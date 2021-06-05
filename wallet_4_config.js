@@ -1,1 +1,1 @@
-var mnemonic = "fashion evidence sponsor frame obscure trigger rib outer message manage need car";
+var mnemonic = "lizard fortune curve early pumpkin pole grunt learn hub minimum expand affair";

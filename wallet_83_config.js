@@ -1,1 +1,1 @@
-var mnemonic = "fury prefer episode mimic pretty regular receive scrub fury mom reason layer";
+var mnemonic = "banana dilemma naive dragon puppy sort decrease uncle cake sheriff sugar road";

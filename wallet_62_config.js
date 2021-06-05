@@ -1,1 +1,1 @@
-var mnemonic = "lottery nature dry fat own girl deliver zoo room burden payment royal";
+var mnemonic = "pioneer deal conduct service long gaze crucial chest child bicycle toilet town";

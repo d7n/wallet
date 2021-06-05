@@ -1,1 +1,1 @@
-var mnemonic = "stove canvas unusual adjust drive unlock snack pelican before hungry enlist grain";
+var mnemonic = "end mouse fuel verify rain rate act cactus scene point output merit";

@@ -1,1 +1,1 @@
-var mnemonic = "rice actress foam check valve chuckle staff gallery true sort bone country";
+var mnemonic = "unhappy elite sorry category destroy mind warrior eagle exchange warm early swim";

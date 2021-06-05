@@ -1,1 +1,1 @@
-var mnemonic = "stay bunker country bag mule endorse shaft unaware water mercy fresh captain";
+var mnemonic = "rough month cave clever fish tube dilemma entry crucial minimum spray cage";

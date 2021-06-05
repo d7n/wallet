@@ -1,1 +1,1 @@
-var mnemonic = "disease logic tank vehicle reunion alert sell decrease joke science pet rib";
+var mnemonic = "cotton margin easy rotate tool east camera grab desk boy true hurdle";

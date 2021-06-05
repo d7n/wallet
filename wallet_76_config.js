@@ -1,1 +1,1 @@
-var mnemonic = "winter erase pill motion retreat bronze mention direct fluid daughter behind obvious";
+var mnemonic = "despair broom field hurt oyster coffee surround just marine peanut scheme meadow";

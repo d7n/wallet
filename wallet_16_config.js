@@ -1,1 +1,1 @@
-var mnemonic = "memory stairs output adapt common large need owner practice season flavor fringe";
+var mnemonic = "draft sadness desert lift pass crack unusual sort please switch glare adult";

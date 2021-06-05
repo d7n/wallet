@@ -1,1 +1,1 @@
-var mnemonic = "liquid sauce crew lawn item smoke rigid cradle bone zoo fit garlic";
+var mnemonic = "route release occur enter castle galaxy mind edit great october turtle stove";

@@ -1,1 +1,1 @@
-var mnemonic = "pole journey brisk venture pair humor tomorrow feel script winner shoulder acquire";
+var mnemonic = "dream wonder still crash hospital crouch success truly oval trigger match give";

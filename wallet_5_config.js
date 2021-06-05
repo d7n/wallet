@@ -1,1 +1,1 @@
-var mnemonic = "ignore tuition cinnamon heart surprise slot surprise prize retreat pitch advice disease";
+var mnemonic = "miss file improve pulp priority inside pattern cause spread real rent core";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz mask pact drop sausage guide animal journey announce flat violin jazz";
+var mnemonic = "fluid nephew pear roof depth execute boy hub smart race wide clinic";

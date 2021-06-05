@@ -1,1 +1,1 @@
-var mnemonic = "tornado embody fire van time foil limit rare pony champion accident catalog";
+var mnemonic = "meadow quantum unhappy foam large lava best crew draw fever satisfy infant";

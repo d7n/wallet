@@ -1,1 +1,1 @@
-var mnemonic = "obvious artwork kidney parrot deal cricket toy rib forward section timber gesture";
+var mnemonic = "feed negative window phone begin catalog loop hood iron exact true ask";

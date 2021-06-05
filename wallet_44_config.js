@@ -1,1 +1,1 @@
-var mnemonic = "raccoon kingdom label labor machine fossil push scorpion sell find swing glass";
+var mnemonic = "green borrow artist seven head metal thank element scissors taste learn allow";

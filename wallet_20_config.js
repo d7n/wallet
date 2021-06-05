@@ -1,1 +1,1 @@
-var mnemonic = "vapor apple brother answer improve sugar desk current safe turn bronze hair";
+var mnemonic = "mesh solve marine target air tree sketch practice basket apple ocean rebuild";

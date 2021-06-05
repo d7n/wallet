@@ -1,1 +1,1 @@
-var mnemonic = "truly fatigue foot hurt bomb wrap under art blur bridge math shed";
+var mnemonic = "swing very frequent hidden spy season nose embark recycle renew ethics flat";

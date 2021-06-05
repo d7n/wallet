@@ -1,1 +1,1 @@
-var mnemonic = "border useless tray beauty profit inflict verb rate index until ride accident";
+var mnemonic = "word pave front cinnamon city tornado adapt boy practice knife supply unique";

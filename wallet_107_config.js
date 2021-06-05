@@ -1,1 +1,1 @@
-var mnemonic = "athlete seat glow gloom grid inherit net rural pitch state glow myself";
+var mnemonic = "unable found desk use bleak because enjoy motor winner popular bless reveal";

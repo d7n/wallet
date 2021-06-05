@@ -1,1 +1,1 @@
-var mnemonic = "state cream day inner frog arrest weekend hub camp dress entire connect";
+var mnemonic = "relax animal sauce sausage sand clean empower almost check sign throw drastic";

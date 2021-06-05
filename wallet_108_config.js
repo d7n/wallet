@@ -1,1 +1,1 @@
-var mnemonic = "engine remember silly peasant range they match simple inhale umbrella flash unfold";
+var mnemonic = "sight click repair try tennis route slogan issue finger prosper oil exit";

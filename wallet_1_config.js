@@ -1,1 +1,1 @@
-var mnemonic = "bamboo true lava float token scatter glory season file glue voice uphold";
+var mnemonic = "crouch glide north renew execute artwork coyote bus swim document maze spice";

@@ -1,1 +1,1 @@
-var mnemonic = "put protect hazard deliver maximum vital helmet bomb love few noise scorpion";
+var mnemonic = "coin penalty light gun wrap ugly joy fox pill slogan arrow cricket";

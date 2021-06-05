@@ -1,1 +1,1 @@
-var mnemonic = "hundred birth flavor unfair liberty guard play knock use grief spoon lobster";
+var mnemonic = "beyond dwarf slush dice old welcome estate senior mind ahead quality measure";

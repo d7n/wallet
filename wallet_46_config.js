@@ -1,1 +1,1 @@
-var mnemonic = "cannon outdoor dice giraffe lend recipe poverty include tortoise cry bless electric";
+var mnemonic = "swift combine island blue health exhibit profit fringe expand upon acoustic parade";

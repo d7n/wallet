@@ -1,1 +1,1 @@
-var mnemonic = "bulk snake rally nuclear crush sort plate club sea tennis figure spy";
+var mnemonic = "shoot medal urge raccoon exit attract shadow error bright poverty trick wrist";

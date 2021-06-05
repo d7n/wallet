@@ -1,1 +1,1 @@
-var mnemonic = "crunch they shoulder reveal defense affair scout annual decline time wave strike";
+var mnemonic = "educate depth poverty crouch under bubble fury turtle general round caught jelly";

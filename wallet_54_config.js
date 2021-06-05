@@ -1,1 +1,1 @@
-var mnemonic = "left clock rich april tourist great door crew coffee rack ability bullet";
+var mnemonic = "flash ramp nominee scorpion glove space salon device cigar party alien jazz";

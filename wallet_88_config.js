@@ -1,1 +1,1 @@
-var mnemonic = "sick jar sunny measure require trumpet square coil boil chuckle nerve plastic";
+var mnemonic = "bonus electric glass scare blind pretty theory cycle dragon viable cover broccoli";

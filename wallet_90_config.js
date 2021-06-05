@@ -1,1 +1,1 @@
-var mnemonic = "pill loan dance eye purchase discover label vague year gentle ivory material";
+var mnemonic = "fiction permit panda steel release wrist february present degree match accident coil";

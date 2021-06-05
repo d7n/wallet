@@ -1,1 +1,1 @@
-var mnemonic = "alarm weather nothing glance bubble scene wealth lamp rubber village pill inject";
+var mnemonic = "bus kite citizen pet moon arena zebra loop park sorry slice nation";

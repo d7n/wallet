@@ -1,1 +1,1 @@
-var mnemonic = "again roast tribe window oven shrug enlist vacuum student umbrella before rug";
+var mnemonic = "usage arrive kind mechanic still turn illegal lonely ride wine eagle acid";

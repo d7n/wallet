@@ -1,1 +1,1 @@
-var mnemonic = "end travel rookie orbit guitar uniform solid army magnet someone earn calm";
+var mnemonic = "expose orange lion powder hospital wrap pond obvious umbrella host bunker asset";

@@ -1,1 +1,1 @@
-var mnemonic = "library magic limb six easy learn that later weather come certain riot";
+var mnemonic = "nasty cram garbage super arm diet order bubble unaware stay rally neutral";

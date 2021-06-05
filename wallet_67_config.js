@@ -1,1 +1,1 @@
-var mnemonic = "consider hour steel since urban saddle erase swift cotton used drink clerk";
+var mnemonic = "monitor below develop remember wet walk balance between garage clog math drink";

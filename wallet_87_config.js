@@ -1,1 +1,1 @@
-var mnemonic = "secret worry twenty myself same vote dove enroll crouch hair settle easy";
+var mnemonic = "almost sad captain sniff replace earth refuse attract consider fuel blood blast";

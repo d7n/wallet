@@ -1,1 +1,1 @@
-var mnemonic = "average bring tuition train gasp next noodle jelly speed poet nest crazy";
+var mnemonic = "million useful omit chief trash scene any tattoo biology century zebra love";

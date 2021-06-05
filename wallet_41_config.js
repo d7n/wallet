@@ -1,1 +1,1 @@
-var mnemonic = "delay vast rubber town trim october tail oil bulk van route model";
+var mnemonic = "tree soldier guard physical tiger adapt broom gorilla wheat rose claw online";

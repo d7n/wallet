@@ -1,1 +1,1 @@
-var mnemonic = "cup garden tank jelly arch embark card buyer toss series chronic train";
+var mnemonic = "motor cabbage satoshi motor much item short onion palm shallow near deposit";

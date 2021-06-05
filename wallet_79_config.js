@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow comfort brush friend grab universe crowd filter champion sure make leopard";
+var mnemonic = "silver calm sweet pear either visual olympic omit absent elegant always reward";

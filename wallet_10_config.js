@@ -1,1 +1,1 @@
-var mnemonic = "busy over scatter system clerk december auction army pride math fork satisfy";
+var mnemonic = "sock sing sample blood dance bus identify grain grief shadow own annual";

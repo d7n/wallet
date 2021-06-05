@@ -1,1 +1,1 @@
-var mnemonic = "glory help tiger film noise bamboo margin promote pluck group lady picnic";
+var mnemonic = "settle bench slab retreat armed then wife acquire clock view rival expand";

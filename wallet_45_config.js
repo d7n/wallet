@@ -1,1 +1,1 @@
-var mnemonic = "argue lion cliff silver sauce crane rack conduct switch gun actual muffin";
+var mnemonic = "top toddler round scatter wire text ginger metal spread text prison spell";

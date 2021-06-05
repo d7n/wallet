@@ -1,1 +1,1 @@
-var mnemonic = "umbrella word wrong cattle advice number sunset despair pizza fancy invite outdoor";
+var mnemonic = "client bread cliff hundred juice coin fantasy abandon secret smile manual ship";

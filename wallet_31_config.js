@@ -1,1 +1,1 @@
-var mnemonic = "wide body ahead suspect dumb danger island furnace novel control host pottery";
+var mnemonic = "uphold movie capital hub certain ribbon ancient write shaft zoo link brass";

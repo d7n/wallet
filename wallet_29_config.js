@@ -1,1 +1,1 @@
-var mnemonic = "pudding scout one bean onion hawk basket spoon pluck gospel economy transfer";
+var mnemonic = "grape evidence maze hood avocado return fire senior note dress bubble ridge";

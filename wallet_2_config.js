@@ -1,1 +1,1 @@
-var mnemonic = "priority next off pen remain gaze survey sound quarter creek slush wrap";
+var mnemonic = "motion bean asset write fault blush hollow giggle border cable wish vital";

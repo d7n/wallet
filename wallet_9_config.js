@@ -1,1 +1,1 @@
-var mnemonic = "turkey fan fabric welcome mix deposit load click leopard idle inhale inspire";
+var mnemonic = "begin bar spike erode arch sand file dove tunnel brave poem iron";

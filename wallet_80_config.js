@@ -1,1 +1,1 @@
-var mnemonic = "enhance weather sugar curtain denial depart build humor entire often salute unknown";
+var mnemonic = "aspect weekend concert stool dust tornado fresh strike manual raw tongue flame";

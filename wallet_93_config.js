@@ -1,1 +1,1 @@
-var mnemonic = "wool ceiling must monkey prevent unusual clarify future educate similar robot travel";
+var mnemonic = "close bottom state gesture evoke worry peanut spare jelly credit coyote idle";

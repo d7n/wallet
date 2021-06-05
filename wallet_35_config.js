@@ -1,1 +1,1 @@
-var mnemonic = "burst scrap replace price snack voyage reject offer sick tray remember romance";
+var mnemonic = "cinnamon cycle invite tenant panther runway bless tuition dry leg escape diagram";

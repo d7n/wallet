@@ -1,1 +1,1 @@
-var mnemonic = "safe true throw bomb warrior train village alcohol lyrics desert disagree race";
+var mnemonic = "city come unlock actress property tornado nut found elegant state style excite";

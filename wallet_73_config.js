@@ -1,1 +1,1 @@
-var mnemonic = "vendor gap science duck coast ridge october wheel lake congress sound cool";
+var mnemonic = "black diary invite ball seed mask divide shiver hand nice come twice";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal test alpha people ten alien return uniform acoustic giggle mask royal";
+var mnemonic = "stem brown mushroom attitude bullet around coin define hover speak outdoor shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "famous admit cute wine vessel harsh alley cupboard dress spike trade arrange";
+var mnemonic = "put fresh plate young nominee icon news symptom prosper pattern toe vicious";

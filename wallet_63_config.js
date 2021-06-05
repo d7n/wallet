@@ -1,1 +1,1 @@
-var mnemonic = "distance ridge flag bracket census six idle master fish sign drum add";
+var mnemonic = "media short public vicious this ball select retire piece picture soon hub";

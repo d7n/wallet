@@ -1,1 +1,1 @@
-var mnemonic = "bone gravity rather cluster review portion fault couch arch salmon exact behind";
+var mnemonic = "taste dirt prepare polar absurd parrot stool lens engine mistake order pole";

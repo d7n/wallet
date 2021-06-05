@@ -1,1 +1,1 @@
-var mnemonic = "force wing upset phrase already midnight angle luxury enter soap immune wrist";
+var mnemonic = "color universe endless broken this fall envelope online permit only embark service";

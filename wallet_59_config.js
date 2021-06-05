@@ -1,1 +1,1 @@
-var mnemonic = "rifle thought lift pull flee honey like lunar shed keen depth acid";
+var mnemonic = "gown tiny world interest borrow hospital pencil situate demise sure box twice";

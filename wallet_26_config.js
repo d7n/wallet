@@ -1,1 +1,1 @@
-var mnemonic = "improve elite weapon envelope forget shaft riot sail utility turtle script lawn";
+var mnemonic = "victory science patch know lecture resemble draft success limit divide spawn blast";

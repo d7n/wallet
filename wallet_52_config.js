@@ -1,1 +1,1 @@
-var mnemonic = "sword novel tongue fall section gain switch kite rocket excuse employ athlete";
+var mnemonic = "lazy surprise proud want wreck spider crew century push identify pupil bench";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore just topple heart lawn volcano square motion maid hen law rally";
+var mnemonic = "van despair lock comic wish skin occur dizzy address milk pyramid normal";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch alter diagram swallow floor guess genuine agent phrase pass desk ball";
+var mnemonic = "excite erupt excess repair harvest flush pitch vanish river draw floor penalty";

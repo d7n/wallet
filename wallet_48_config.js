@@ -1,1 +1,1 @@
-var mnemonic = "cost three impose demand giraffe decrease example mule fitness keep that skate";
+var mnemonic = "trash stumble pyramid alcohol glare fire raven fever omit dream income draw";

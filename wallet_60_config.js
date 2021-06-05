@@ -1,1 +1,1 @@
-var mnemonic = "pudding call minute transfer glare ramp afraid famous sauce paddle buyer match";
+var mnemonic = "blind ahead taste lemon zoo topple custom observe suspect pudding combine shuffle";

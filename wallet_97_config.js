@@ -1,1 +1,1 @@
-var mnemonic = "dizzy usage nominee tiny hold when tuition crater occur garlic muscle diesel";
+var mnemonic = "bridge organ broom around theme sun seek catch dish party liar alcohol";

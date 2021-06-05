@@ -1,1 +1,1 @@
-var mnemonic = "prosper purity license country acquire cruise awesome profit make core early honey";
+var mnemonic = "twin guard question whip kind oblige dance clarify wet silent buyer upgrade";

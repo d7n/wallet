@@ -1,1 +1,1 @@
-var mnemonic = "disorder power absorb brush question slab slogan original cheese buzz grief attract";
+var mnemonic = "select verify swear refuse eagle usage twenty castle olive cage embark abstract";

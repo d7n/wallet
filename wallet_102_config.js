@@ -1,1 +1,1 @@
-var mnemonic = "mushroom chimney situate shift snake people trim crew rich tray assault phrase";
+var mnemonic = "canoe forward amateur quote visit soon machine draw sauce disagree ripple organ";

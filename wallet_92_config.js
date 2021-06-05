@@ -1,1 +1,1 @@
-var mnemonic = "bullet angle put camera seven mixture eyebrow gauge buffalo estate spin taxi";
+var mnemonic = "coach odor canal organ smooth celery legal render middle chef quick august";

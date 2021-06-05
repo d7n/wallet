@@ -1,1 +1,1 @@
-var mnemonic = "extra speak dish nation october claim bone history learn present bitter alcohol";
+var mnemonic = "atom west peasant garlic crystal lucky explain midnight tourist arrange rigid jeans";

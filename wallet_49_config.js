@@ -1,1 +1,1 @@
-var mnemonic = "spoil wedding element tank usual furnace fold will oven endless carpet luggage";
+var mnemonic = "animal sample lounge winter swift tilt put issue garment crucial account science";

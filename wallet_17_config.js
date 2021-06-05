@@ -1,1 +1,1 @@
-var mnemonic = "coil never achieve oppose pistol exact reveal physical top street argue recipe";
+var mnemonic = "beauty jump draft plunge strike water book sell improve unveil trial pet";

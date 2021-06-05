@@ -1,1 +1,1 @@
-var mnemonic = "pull elite stomach good minimum want settle shoe fiscal tower output goddess";
+var mnemonic = "laundry fade disagree survey culture size excuse vessel permit easily online miss";

@@ -1,1 +1,1 @@
-var mnemonic = "busy program cradle neglect weather bridge myth alpha parrot awful usual fun";
+var mnemonic = "jelly apology make ice business road bleak victory profit kitchen trumpet scale";

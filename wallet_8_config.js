@@ -1,1 +1,1 @@
-var mnemonic = "ramp essay awkward agree taxi floor drive pair rebel barrel sure strong";
+var mnemonic = "planet prosper quality horse hybrid neglect blanket agree half desert wink peasant";

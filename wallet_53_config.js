@@ -1,1 +1,1 @@
-var mnemonic = "more kiss adjust assist mercy wood spend rapid arm rough sponsor usual";
+var mnemonic = "crash embody twice swift image today change heart olympic upper plate mushroom";

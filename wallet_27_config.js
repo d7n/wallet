@@ -1,1 +1,1 @@
-var mnemonic = "tennis bone surface genius swallow opinion cart interest crew brand genius loyal";
+var mnemonic = "broom diary pupil travel erupt habit music will mobile return tuition sustain";

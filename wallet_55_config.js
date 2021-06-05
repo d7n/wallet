@@ -1,1 +1,1 @@
-var mnemonic = "attack wire owner home slide hat network arch weapon poem decorate brown";
+var mnemonic = "wasp together arrive match pupil fluid today autumn lawn swing game then";

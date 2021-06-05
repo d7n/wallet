@@ -1,1 +1,1 @@
-var mnemonic = "gun forum helmet kick table slab scout blouse radar save twelve boat";
+var mnemonic = "brand gorilla organ time vehicle enjoy glimpse reward improve nut correct renew";

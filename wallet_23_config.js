@@ -1,1 +1,1 @@
-var mnemonic = "vapor sentence approve puppy cactus pizza execute together option ethics raw truck";
+var mnemonic = "sorry require language maple level inflict when cry twin rude apple few";
