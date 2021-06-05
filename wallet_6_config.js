@@ -1,1 +1,1 @@
-var mnemonic = "asset afford life pupil pull embrace tide quantum burden common unable farm";
+var mnemonic = "army lock salad deny warm brass charge arrive office range buzz someone";

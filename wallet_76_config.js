@@ -1,1 +1,1 @@
-var mnemonic = "embark hood arrange noodle little normal either confirm vote brave glass alpha";
+var mnemonic = "coil excuse deny half sorry north pepper noise road pen liberty craft";

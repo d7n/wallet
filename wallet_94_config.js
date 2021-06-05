@@ -1,1 +1,1 @@
-var mnemonic = "alarm figure utility truth very priority slender chimney talent axis tiny ginger";
+var mnemonic = "bubble carpet wrestle exhaust cliff daring detail ship toss purchase anger walk";

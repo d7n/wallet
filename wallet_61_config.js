@@ -1,1 +1,1 @@
-var mnemonic = "scrub anger paddle afraid vehicle nerve basket exile much river penalty ordinary";
+var mnemonic = "transfer brick excess expose melt element jewel weapon claim risk slogan excuse";

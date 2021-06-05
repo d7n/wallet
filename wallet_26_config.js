@@ -1,1 +1,1 @@
-var mnemonic = "please primary reopen fame brown surge delay lumber gospel situate upgrade gas";
+var mnemonic = "youth achieve reveal close domain erosion case torch economy lonely sight verify";

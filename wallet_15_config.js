@@ -1,1 +1,1 @@
-var mnemonic = "whale bacon pair foam lawn develop wet valve pyramid distance foot govern";
+var mnemonic = "throw surface picture benefit mixture cousin track gallery relief cute main problem";

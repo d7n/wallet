@@ -1,1 +1,1 @@
-var mnemonic = "weapon wine shield suggest now walnut rack choice image joke endorse wise";
+var mnemonic = "artefact resemble profit guard cricket fit rapid leisure joke music grain same";

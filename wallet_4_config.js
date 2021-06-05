@@ -1,1 +1,1 @@
-var mnemonic = "winner label prevent boss ill helmet notice all medal gate barely cigar";
+var mnemonic = "despair sibling recall exhaust join afford divert catch curtain damage bomb comic";

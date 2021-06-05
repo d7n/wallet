@@ -1,1 +1,1 @@
-var mnemonic = "muffin into install priority news because humble quick rain grocery canyon scan";
+var mnemonic = "glimpse jacket soldier leave myself dumb wild lunar check magnet outdoor narrow";

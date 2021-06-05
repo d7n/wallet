@@ -1,1 +1,1 @@
-var mnemonic = "actor plunge allow speed unaware alley sniff legal near deputy seat trigger";
+var mnemonic = "account remove pave code arena dash chase phrase pony trigger valid wink";

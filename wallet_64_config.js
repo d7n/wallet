@@ -1,1 +1,1 @@
-var mnemonic = "outside degree like purchase spray solid asthma permit enter notice wage hundred";
+var mnemonic = "van insect hybrid fault add glide inch wrong banana argue spice blast";

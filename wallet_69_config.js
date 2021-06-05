@@ -1,1 +1,1 @@
-var mnemonic = "quality actual recipe just protect arrest hollow quantum awesome hold half believe";
+var mnemonic = "friend mention access owner circle term pair praise secret april clump urge";

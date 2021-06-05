@@ -1,1 +1,1 @@
-var mnemonic = "license airport convince track anger airport dice wing seed kidney kidney problem";
+var mnemonic = "organ bus seven fun anchor brave private castle enough shoe gadget poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "error patch open primary stand limit lottery speed town conduct swim announce";
+var mnemonic = "pencil kidney fiscal envelope lend amount skull step bird miss torch loud";

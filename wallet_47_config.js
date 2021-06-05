@@ -1,1 +1,1 @@
-var mnemonic = "verify food honey weekend often mountain what put audit leader panther rival";
+var mnemonic = "that diagram lift office record gesture oak alert physical fruit boy project";

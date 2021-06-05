@@ -1,1 +1,1 @@
-var mnemonic = "puppy wreck exotic rough hill genius update resemble history survey worry protect";
+var mnemonic = "toward scare turkey record screen ghost other inspire unique dwarf walk curve";

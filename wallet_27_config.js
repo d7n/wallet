@@ -1,1 +1,1 @@
-var mnemonic = "hold betray worth office noodle faculty north pistol isolate sphere unaware quality";
+var mnemonic = "pact stamp vague fever situate logic divide lemon during pear frequent chef";

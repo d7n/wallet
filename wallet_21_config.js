@@ -1,1 +1,1 @@
-var mnemonic = "flag consider celery dream funny elite still love balance spot maple inspire";
+var mnemonic = "because olive update update armed able opera summer animal usage gold tuna";

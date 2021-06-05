@@ -1,1 +1,1 @@
-var mnemonic = "air whisper mask cigar weapon crunch cactus win surge sun wealth oyster";
+var mnemonic = "taste aunt space street voyage scheme unhappy belt cruise coil umbrella budget";

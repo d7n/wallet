@@ -1,1 +1,1 @@
-var mnemonic = "injury lesson permit endless island charge layer tip deer best wife army";
+var mnemonic = "divert festival garbage horn bag virtual vibrant divorce scorpion pipe engage cargo";

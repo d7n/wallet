@@ -1,1 +1,1 @@
-var mnemonic = "gown bean poet evidence bacon web member negative valid text wrist wheel";
+var mnemonic = "perfect speak able viable burden spot hundred rather picture excite fox domain";

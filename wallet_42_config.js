@@ -1,1 +1,1 @@
-var mnemonic = "lunch mammal post wagon cheese vendor like credit company gown taste analyst";
+var mnemonic = "ship giant team shiver expand monitor movie wealth annual cool misery mercy";

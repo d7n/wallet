@@ -1,1 +1,1 @@
-var mnemonic = "bamboo stand inner quit diamond doctor horn parrot only smart royal ticket";
+var mnemonic = "green ask camera remember same plastic because observe rule surface afraid kiwi";

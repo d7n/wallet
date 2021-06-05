@@ -1,1 +1,1 @@
-var mnemonic = "prefer credit proof core marble scan decade exchange piece transfer negative manage";
+var mnemonic = "dance clay smoke civil gasp sense ocean general seek fence private illegal";

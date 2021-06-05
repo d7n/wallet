@@ -1,1 +1,1 @@
-var mnemonic = "anger wish utility mouse struggle divorce know floor amount emerge service enhance";
+var mnemonic = "unusual task phone practice believe else manual marriage tenant curve chat cart";

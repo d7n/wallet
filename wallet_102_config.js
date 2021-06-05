@@ -1,1 +1,1 @@
-var mnemonic = "walk salt fix alcohol fury drip extra host still layer crazy until";
+var mnemonic = "deputy balance quote duty vote cream parade town horn jeans topic sort";

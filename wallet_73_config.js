@@ -1,1 +1,1 @@
-var mnemonic = "piece few business antique arm lend forum layer leopard add repair choose";
+var mnemonic = "siren cupboard antique glove upon meadow learn merit catch brass spice wood";

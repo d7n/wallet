@@ -1,1 +1,1 @@
-var mnemonic = "throw over accident baby rebel grit sense dignity arrange ice curious science";
+var mnemonic = "mammal reveal social burst drop news uncover buyer velvet people sleep guide";

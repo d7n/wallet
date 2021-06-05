@@ -1,1 +1,1 @@
-var mnemonic = "crumble filter bullet vanish deer pink permit alarm error wide weekend icon";
+var mnemonic = "topic game video face sound uniform fruit market squeeze enforce grain spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "visa hotel brother foil sustain rebel mass gift unique laptop tree shield";
+var mnemonic = "lyrics away excuse ghost absent decrease horse innocent fee custom coyote spot";

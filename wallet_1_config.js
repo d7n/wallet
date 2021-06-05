@@ -1,1 +1,1 @@
-var mnemonic = "cable rebel shoulder forget jazz exit milk involve robust order donor staff";
+var mnemonic = "ask shift industry worth youth guard behind broken frost loop isolate push";

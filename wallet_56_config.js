@@ -1,1 +1,1 @@
-var mnemonic = "pill glance piece orphan math crazy burger modify swing hold giant arm";
+var mnemonic = "oppose behave name infant hint mom cinnamon tuition gorilla size rare gasp";

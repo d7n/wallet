@@ -1,1 +1,1 @@
-var mnemonic = "symbol addict fresh coconut noble lunch hover lecture pilot enforce kind always";
+var mnemonic = "lemon donor yard swim horse glare layer nominee give cradle harsh boat";

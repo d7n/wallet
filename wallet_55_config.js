@@ -1,1 +1,1 @@
-var mnemonic = "digital combine mosquito rookie fiscal artwork moon burger vague inspire lava tuition";
+var mnemonic = "six guide column below wool neither limit grunt vital oven bean key";

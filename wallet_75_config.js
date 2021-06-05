@@ -1,1 +1,1 @@
-var mnemonic = "express clever retire lounge impact elegant enjoy able gift fox general coil";
+var mnemonic = "violin jelly tide mouse economy hobby frown scrub hospital hidden network scare";

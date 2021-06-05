@@ -1,1 +1,1 @@
-var mnemonic = "popular dolphin output gun security sadness phrase cable improve price garment else";
+var mnemonic = "disagree clay ethics normal attitude crush they conduct trash slush pig want";

@@ -1,1 +1,1 @@
-var mnemonic = "olive jealous alarm artist describe door retire relax system engage wreck stool";
+var mnemonic = "session radio bicycle weather agree only baby album scan over curious someone";

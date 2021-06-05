@@ -1,1 +1,1 @@
-var mnemonic = "raccoon census exist skate bottom soda hood tackle minimum usual priority rubber";
+var mnemonic = "imitate slender code drop purpose pelican twenty bachelor discover panther toast ceiling";

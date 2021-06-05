@@ -1,1 +1,1 @@
-var mnemonic = "powder title afraid ritual system process multiply suit drum extend eager large";
+var mnemonic = "disorder energy theme dolphin matter purity cargo various define float book produce";

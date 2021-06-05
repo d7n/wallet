@@ -1,1 +1,1 @@
-var mnemonic = "economy genre mammal chuckle medal guess remain april oxygen bubble index bench";
+var mnemonic = "glimpse firm poverty holiday winner fossil fringe supply mule long chief priority";

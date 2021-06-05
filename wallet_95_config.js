@@ -1,1 +1,1 @@
-var mnemonic = "ticket ice input achieve unit swim tackle lawn orbit hurdle absurd replace";
+var mnemonic = "remind match critic seminar anxiety tail axis surface clump slam home eager";

@@ -1,1 +1,1 @@
-var mnemonic = "develop local wear round valve candy blossom word favorite leg depend together";
+var mnemonic = "modify manage barrel piano sauce long toss action spend genre spare tornado";

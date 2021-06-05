@@ -1,1 +1,1 @@
-var mnemonic = "action adult aerobic organ sniff impact turtle equip crawl exercise oyster half";
+var mnemonic = "kite boss price right chuckle best vibrant manage spread glue time dentist";

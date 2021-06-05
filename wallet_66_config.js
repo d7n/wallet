@@ -1,1 +1,1 @@
-var mnemonic = "usage muscle glide topple huge doctor current quarter chalk pass link fabric";
+var mnemonic = "lonely cotton angry minor dilemma permit interest disease neutral enter cancel rally";

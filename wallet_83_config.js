@@ -1,1 +1,1 @@
-var mnemonic = "spread gown donate reveal canyon index stamp circle arctic hole warrior avoid";
+var mnemonic = "describe mosquito people inherit soap erupt abuse ginger you tank hungry trial";

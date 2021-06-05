@@ -1,1 +1,1 @@
-var mnemonic = "swing chunk lonely brain output squirrel royal donate kidney man extend future";
+var mnemonic = "coffee leg taxi turkey fever sight mask ability black tenant able climb";

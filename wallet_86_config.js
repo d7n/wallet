@@ -1,1 +1,1 @@
-var mnemonic = "gasp flame swap cheap robot magnet under abstract sadness bone figure arctic";
+var mnemonic = "reveal feed senior stairs chimney soon tobacco deny ritual mean wave desk";

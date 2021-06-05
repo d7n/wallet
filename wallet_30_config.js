@@ -1,1 +1,1 @@
-var mnemonic = "across erase donkey exotic hip brisk raven party service turkey kid song";
+var mnemonic = "spend pepper soccer word spoil bless bomb swallow venture breeze need regret";

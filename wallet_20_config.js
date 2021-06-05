@@ -1,1 +1,1 @@
-var mnemonic = "iron soap asset fitness honey art path easy meat test solution cabbage";
+var mnemonic = "energy leader frown weasel yellow volcano usage fix try lucky outside illegal";

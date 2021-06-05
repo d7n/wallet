@@ -1,1 +1,1 @@
-var mnemonic = "ritual object soap mixture erode drastic soon erosion note banana crop divorce";
+var mnemonic = "mutual close goddess wreck cliff flee amazing extend tiger video invest apology";

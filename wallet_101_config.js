@@ -1,1 +1,1 @@
-var mnemonic = "guess elder clap hidden foil insane slam bachelor net fix sport window";
+var mnemonic = "very learn bronze improve double trash kiss endorse remind other plastic grow";

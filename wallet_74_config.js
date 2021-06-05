@@ -1,1 +1,1 @@
-var mnemonic = "elegant elite attitude surge stone visit cool alley success labor slender festival";
+var mnemonic = "kingdom occur twenty outer race sun state library else arrest camp pepper";

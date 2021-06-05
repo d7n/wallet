@@ -1,1 +1,1 @@
-var mnemonic = "athlete leave dragon awkward census like moral sketch weasel host table cattle";
+var mnemonic = "effort matrix rifle park initial brick escape praise good level omit honey";

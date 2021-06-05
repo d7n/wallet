@@ -1,1 +1,1 @@
-var mnemonic = "air eagle ski whisper maze calm limb lend twin that hair length";
+var mnemonic = "captain plastic thunder dumb spy secret side time crime thought soda shallow";

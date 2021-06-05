@@ -1,1 +1,1 @@
-var mnemonic = "mosquito prison recycle pelican pigeon town plastic camera unit soap fence manage";
+var mnemonic = "anchor young enough violin expect purse simple admit quantum fuel tiny sunset";

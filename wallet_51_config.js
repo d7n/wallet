@@ -1,1 +1,1 @@
-var mnemonic = "trophy slot swap chaos giant best material regret half olive name mechanic";
+var mnemonic = "mention post move finish jazz maximum vicious annual unknown protect utility outdoor";

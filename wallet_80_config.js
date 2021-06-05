@@ -1,1 +1,1 @@
-var mnemonic = "mask elephant quiz stairs menu galaxy turtle penalty keep leaf fashion need";
+var mnemonic = "around hunt skull banner stand device sign cover crouch soon barely over";

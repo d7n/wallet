@@ -1,1 +1,1 @@
-var mnemonic = "spring common exact diagram mechanic innocent hollow lazy clever shuffle good cover";
+var mnemonic = "guide season bench slow board vague wing scout eternal orbit embrace unveil";

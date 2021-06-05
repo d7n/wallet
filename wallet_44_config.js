@@ -1,1 +1,1 @@
-var mnemonic = "place gap normal sunny expect sail hold gauge apology kite palm fashion";
+var mnemonic = "era ride spend beyond calm picture object run minor sponsor thing brother";

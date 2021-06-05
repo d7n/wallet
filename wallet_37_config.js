@@ -1,1 +1,1 @@
-var mnemonic = "column waste genre sell mimic disease sheriff gallery enroll first demise swift";
+var mnemonic = "alcohol angry where hazard cloth curious panda can sure denial crush also";

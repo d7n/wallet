@@ -1,1 +1,1 @@
-var mnemonic = "close medal infant shine unknown output sponsor bicycle avocado feature gallery recycle";
+var mnemonic = "just choice welcome reject close track hunt air also endorse century hope";

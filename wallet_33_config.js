@@ -1,1 +1,1 @@
-var mnemonic = "tiger domain butter dwarf achieve silly until burst balcony able wide mirror";
+var mnemonic = "wine cage correct relax gorilla farm chest foil tent genius aspect sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve orphan enjoy lady vital system cupboard arch science radar video panda";
+var mnemonic = "mammal stable crystal donate winter canoe cancel apology heart spell quantum rent";

@@ -1,1 +1,1 @@
-var mnemonic = "dash under super phone tattoo light calm grief diet add used scan";
+var mnemonic = "please matrix sweet inject bag lift narrow humble sister gather spirit trigger";

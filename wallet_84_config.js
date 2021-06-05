@@ -1,1 +1,1 @@
-var mnemonic = "cabin fall ordinary adult actress museum electric aware carpet unusual account pumpkin";
+var mnemonic = "shrug evoke vanish kick turtle special fringe book split unfair load anchor";

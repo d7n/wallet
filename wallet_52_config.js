@@ -1,1 +1,1 @@
-var mnemonic = "glue medal wife mouse trade army rail aisle river author mail struggle";
+var mnemonic = "charge stove swing orphan frost focus denial silver ask base beef move";

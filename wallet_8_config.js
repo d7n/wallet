@@ -1,1 +1,1 @@
-var mnemonic = "link cycle valid snack oppose riot punch network habit subway sight wood";
+var mnemonic = "dirt print fancy proof boat until myth city also dinner stick absorb";

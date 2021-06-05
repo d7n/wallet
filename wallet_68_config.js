@@ -1,1 +1,1 @@
-var mnemonic = "misery trouble age honey audit field pride matrix text glad inspire danger";
+var mnemonic = "toilet venue budget already select inmate bag month someone gain conduct absorb";

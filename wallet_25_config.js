@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow accident swarm announce fence possible uphold reopen very call brand broccoli";
+var mnemonic = "album agent aisle caution aware island print nominee captain donate response toy";

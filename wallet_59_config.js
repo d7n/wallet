@@ -1,1 +1,1 @@
-var mnemonic = "program plastic lunch ribbon into online aisle cluster canoe rely fortune disorder";
+var mnemonic = "wife dice legend begin smooth intact crawl sister tell slogan doll split";

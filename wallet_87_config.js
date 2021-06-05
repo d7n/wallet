@@ -1,1 +1,1 @@
-var mnemonic = "gun sail private tent sail love isolate hundred awake trade nurse fun";
+var mnemonic = "twist scissors truly style winter tower segment gap kit slender whale eight";

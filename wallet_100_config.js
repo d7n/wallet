@@ -1,1 +1,1 @@
-var mnemonic = "wife jungle coast goat say elephant east scan south page pigeon gasp";
+var mnemonic = "staff private display window cheap witness ski sense usual minimum climb adjust";

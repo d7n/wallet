@@ -1,1 +1,1 @@
-var mnemonic = "equal surround aware fever practice element flight usage derive weather verb dentist";
+var mnemonic = "denial change attitude gym year fitness jazz shadow uphold field duck pyramid";

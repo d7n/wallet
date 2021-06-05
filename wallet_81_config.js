@@ -1,1 +1,1 @@
-var mnemonic = "derive flush direct boss earth load uphold witness foam version focus record";
+var mnemonic = "ticket govern wisdom knock stable essence assume cross history capable firm correct";

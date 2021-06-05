@@ -1,1 +1,1 @@
-var mnemonic = "what blouse common force luxury enough stove sphere shed switch satoshi can";
+var mnemonic = "happy solve angle country humor tomato they bench banner venture sample riot";

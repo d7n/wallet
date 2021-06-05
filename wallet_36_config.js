@@ -1,1 +1,1 @@
-var mnemonic = "alarm volume coach gift receive casino fitness apart pink enact north slush";
+var mnemonic = "amount unveil soap address seek grass bunker auction enrich differ ketchup stable";

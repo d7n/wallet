@@ -1,1 +1,1 @@
-var mnemonic = "foam arch alcohol heart snow crazy head easily metal party fence nephew";
+var mnemonic = "upper trim volcano useless believe hat census cereal fox nest couple spoil";

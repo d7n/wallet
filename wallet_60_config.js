@@ -1,1 +1,1 @@
-var mnemonic = "ensure fatigue basic muscle merry train mother divert move inject poet rule";
+var mnemonic = "casino faculty hill door glass fork deny cement marine change nut leg";

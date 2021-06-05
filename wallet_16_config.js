@@ -1,1 +1,1 @@
-var mnemonic = "atom tape noise profit father they renew copy manual mixture robot vicious";
+var mnemonic = "legend wedding chuckle poet degree layer keep victory hamster insect dust wrist";

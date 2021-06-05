@@ -1,1 +1,1 @@
-var mnemonic = "now month immense twin quality seat avocado gas aware father winner nation";
+var mnemonic = "swim noodle prison lumber inmate horse fuel double open olympic provide cage";

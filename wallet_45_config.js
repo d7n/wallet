@@ -1,1 +1,1 @@
-var mnemonic = "major page alpha supreme oppose worth ship gown gorilla brick emerge virtual";
+var mnemonic = "hospital sniff grow also empower until cart rude feel bottom dizzy word";

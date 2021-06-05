@@ -1,1 +1,1 @@
-var mnemonic = "accident congress quality twist puppy elegant penalty spike submit inquiry luxury nothing";
+var mnemonic = "mention beyond evolve noodle cabin crumble festival oven decline pledge science alert";

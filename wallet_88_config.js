@@ -1,1 +1,1 @@
-var mnemonic = "cupboard escape until cake either narrow minimum flight radio present fold lawn";
+var mnemonic = "pony limit virtual confirm ramp able large diamond street digital teach song";

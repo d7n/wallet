@@ -1,1 +1,1 @@
-var mnemonic = "frown behind park frost will safe depart daughter skill undo bless comic";
+var mnemonic = "weapon hybrid buffalo injury thing someone develop loud burger good excuse world";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle true pact swim wing decorate bacon have disease knock six element";
+var mnemonic = "animal gun use absent luggage drill slow hello must alcohol fish cycle";

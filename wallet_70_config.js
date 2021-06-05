@@ -1,1 +1,1 @@
-var mnemonic = "once cupboard slush employ spice program manual burger talk debate brick grocery";
+var mnemonic = "boring march blade health sauce either power slide abuse icon absorb antique";

@@ -1,1 +1,1 @@
-var mnemonic = "couch render goat clog address grape mobile ability suggest wash web horse";
+var mnemonic = "slogan slow pitch ghost know category dinosaur abuse melody east flat decline";

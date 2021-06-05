@@ -1,1 +1,1 @@
-var mnemonic = "curve health menu frequent enter runway identify crop answer cart manage basic";
+var mnemonic = "heart taste food bounce occur love engage mimic stem seven siren cat";

@@ -1,1 +1,1 @@
-var mnemonic = "speed ghost huge junk grab spare consider tiger token hobby chicken truly";
+var mnemonic = "gravity flat rotate axis coffee wire shaft frown lend save depend alpha";

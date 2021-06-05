@@ -1,1 +1,1 @@
-var mnemonic = "exclude supreme benefit donor cricket dress brown blame mother index sleep option";
+var mnemonic = "muffin mask speak bomb damage fiscal three horn entry iron flee detail";

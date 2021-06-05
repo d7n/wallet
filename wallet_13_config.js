@@ -1,1 +1,1 @@
-var mnemonic = "razor convince remind meat sponsor scrap mouse claim thing tank oblige glow";
+var mnemonic = "pig forest scene style kitten bright ten cricket wedding exotic farm diary";

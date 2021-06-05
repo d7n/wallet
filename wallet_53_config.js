@@ -1,1 +1,1 @@
-var mnemonic = "fresh curious chest raccoon tennis panel tiny insect next few race ball";
+var mnemonic = "husband menu time morning motor pitch bulb skin skull rain relief churn";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct behind call caution rather general pair patch clown build brain believe";
+var mnemonic = "dizzy logic alpha movie vapor cycle taste flip together yard enhance thought";

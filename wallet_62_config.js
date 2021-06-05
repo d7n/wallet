@@ -1,1 +1,1 @@
-var mnemonic = "edit spin vintage ginger wheel suspect husband pioneer enable idle lottery kit";
+var mnemonic = "depart comfort route agent wisdom quarter violin skin harbor alcohol power element";

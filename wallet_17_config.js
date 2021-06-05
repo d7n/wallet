@@ -1,1 +1,1 @@
-var mnemonic = "hub captain spawn ability choose horn right web that body absorb join";
+var mnemonic = "ordinary liar build rather gesture canoe donkey dignity syrup fine worth crash";
