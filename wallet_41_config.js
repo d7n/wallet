@@ -1,1 +1,1 @@
-var mnemonic = "artist tired wrist all phrase stage athlete crack lumber fit jump mother";
+var mnemonic = "half neither pill help hollow media endless document memory ill dizzy noble";

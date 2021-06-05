@@ -1,1 +1,1 @@
-var mnemonic = "tackle exhibit smoke enforce siege code soda zero tell burger still pelican";
+var mnemonic = "abstract space man spy walk salute start source brown health baby direct";

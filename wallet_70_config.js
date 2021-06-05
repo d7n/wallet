@@ -1,1 +1,1 @@
-var mnemonic = "clinic slush wonder turn unknown lucky olympic spot midnight faculty degree ticket";
+var mnemonic = "toy decide deny double thing wait mirror impulse tuition crew task rug";

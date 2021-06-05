@@ -1,1 +1,1 @@
-var mnemonic = "coin toast bridge breeze report trial salad depth faint wheel bacon six";
+var mnemonic = "narrow night then easy sea still burst priority pig excuse cupboard love";

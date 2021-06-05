@@ -1,1 +1,1 @@
-var mnemonic = "small demise coffee width flag unable unusual clog picture slice shoe blossom";
+var mnemonic = "where quick stuff horse fitness bind swim inject spin please grow anchor";

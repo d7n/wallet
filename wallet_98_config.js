@@ -1,1 +1,1 @@
-var mnemonic = "sauce foil deer banner pumpkin earth lock remove seat vocal nominee elite";
+var mnemonic = "fine eager wing burst embark twist undo post walk syrup test direct";

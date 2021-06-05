@@ -1,1 +1,1 @@
-var mnemonic = "spice urban pride valley skirt stairs bachelor armor welcome tennis shove violin";
+var mnemonic = "cabbage aunt picnic laugh issue prison music shoe buyer advance spring anxiety";

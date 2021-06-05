@@ -1,1 +1,1 @@
-var mnemonic = "myself damage acoustic bounce shoe rate inform travel talk bitter talent desk";
+var mnemonic = "glide dust brand jewel control target much stadium crumble remind check inject";

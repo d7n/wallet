@@ -1,1 +1,1 @@
-var mnemonic = "real canvas spray modify crumble luxury actual absurd leopard major scatter total";
+var mnemonic = "secret first arm panther circle echo busy between bullet lock kitchen brown";

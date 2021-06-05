@@ -1,1 +1,1 @@
-var mnemonic = "mention boring river cargo average essay suffer hire ginger portion stage circle";
+var mnemonic = "cricket reopen mixed salad assault piano adapt drastic bounce caution wash artefact";

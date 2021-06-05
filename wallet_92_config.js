@@ -1,1 +1,1 @@
-var mnemonic = "unaware arch now purse expect banana decide seminar oil box radio harvest";
+var mnemonic = "urban city urban crew dilemma bottom profit hold moment erosion perfect private";

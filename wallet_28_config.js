@@ -1,1 +1,1 @@
-var mnemonic = "pledge exit soccer plug maze boy artist scrap square relax sense bright";
+var mnemonic = "category side often point relief outside welcome mechanic uphold ostrich nut degree";

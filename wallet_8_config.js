@@ -1,1 +1,1 @@
-var mnemonic = "want blame echo fitness humble frown citizen wrist wrap sorry security valley";
+var mnemonic = "among street hollow scheme rail hope corn antique chair hip suggest hill";

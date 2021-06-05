@@ -1,1 +1,1 @@
-var mnemonic = "session half primary any mechanic buffalo park country egg crash push garbage";
+var mnemonic = "brass drip canal receive benefit social satoshi slab oxygen toy blush indoor";

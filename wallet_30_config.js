@@ -1,1 +1,1 @@
-var mnemonic = "fabric zone year law toilet trumpet solid episode emotion ladder boring brisk";
+var mnemonic = "relax glory answer build gas crowd prize question turn tribe hen stable";

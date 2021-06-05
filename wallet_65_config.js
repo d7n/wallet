@@ -1,1 +1,1 @@
-var mnemonic = "guide warrior discover fox brave fork point panic sound forest negative around";
+var mnemonic = "flash strategy purse wasp claim glare order butter aspect sheriff setup anchor";

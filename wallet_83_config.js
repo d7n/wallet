@@ -1,1 +1,1 @@
-var mnemonic = "evoke stage detect clump detect lottery home hurry betray spatial wash bacon";
+var mnemonic = "little glory blur awesome chronic genre type drama multiply lady bounce expand";

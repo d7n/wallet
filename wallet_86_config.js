@@ -1,1 +1,1 @@
-var mnemonic = "winter visa average cup level evoke later explain doll round moment web";
+var mnemonic = "random hold concert someone unhappy popular captain orphan used cinnamon tuition rural";

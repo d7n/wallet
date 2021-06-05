@@ -1,1 +1,1 @@
-var mnemonic = "blanket cheap noodle crater photo marine game fork pen level crane guard";
+var mnemonic = "sign parade trouble answer meat valve soup vacuum spin ten outdoor misery";

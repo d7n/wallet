@@ -1,1 +1,1 @@
-var mnemonic = "swing weapon cradle slight scissors river ready reunion protect canvas behave surge";
+var mnemonic = "harbor near voice hybrid blade torch snack arrest card wonder enlist suit";

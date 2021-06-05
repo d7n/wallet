@@ -1,1 +1,1 @@
-var mnemonic = "peanut else army motion used genre skate pepper assault scrap kitchen nerve";
+var mnemonic = "duck gadget tent piano olympic embark worry blood guitar toddler nerve erupt";

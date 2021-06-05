@@ -1,1 +1,1 @@
-var mnemonic = "spy plastic pepper bunker upon hello artwork weather valid aware goose woman";
+var mnemonic = "recall gas cost zone snake oil autumn bike coral symptom enemy feel";

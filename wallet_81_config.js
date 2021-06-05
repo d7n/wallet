@@ -1,1 +1,1 @@
-var mnemonic = "strategy awkward tool shed random wait absurd dinosaur monkey focus track moment";
+var mnemonic = "casino curtain hat whisper demise parrot link birth state robot bacon icon";

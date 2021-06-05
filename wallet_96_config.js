@@ -1,1 +1,1 @@
-var mnemonic = "pelican pepper damp jazz used anchor notice grace know large milk garbage";
+var mnemonic = "husband small enroll situate diesel trouble riot ahead sand rule lecture manage";

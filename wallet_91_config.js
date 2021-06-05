@@ -1,1 +1,1 @@
-var mnemonic = "satisfy potato staff used lounge steel fox involve ski key lens mouse";
+var mnemonic = "sure local diet emerge cabin sphere rain pony spoil grow bread decorate";

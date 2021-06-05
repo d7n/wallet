@@ -1,1 +1,1 @@
-var mnemonic = "yard fence winter season afford divorce often tide coast dad rough artwork";
+var mnemonic = "year crash animal okay cloud surface oval pistol ranch short broccoli desert";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer stool flavor buffalo note glory strong work stone intact broom east";
+var mnemonic = "what alcohol lobster bring table south resist maple rhythm mimic impose poverty";

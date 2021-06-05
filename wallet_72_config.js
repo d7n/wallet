@@ -1,1 +1,1 @@
-var mnemonic = "eternal view reject delay kind just patient scheme squeeze slow rival salmon";
+var mnemonic = "recycle among frown thumb embrace lunar dash vintage novel one picture own";

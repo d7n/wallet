@@ -1,1 +1,1 @@
-var mnemonic = "often apart waste sadness crater movie credit autumn paddle pudding next shine";
+var mnemonic = "word tornado rose jungle actual spirit toilet face shallow taxi drum notable";

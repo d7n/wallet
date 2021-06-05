@@ -1,1 +1,1 @@
-var mnemonic = "depth fashion jewel push ginger helmet fuel other awful awful like someone";
+var mnemonic = "trap unfold pet analyst buddy nothing oil fury hire truth jewel alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "original glance advance ensure bounce leave spot noble forum volume inside sure";
+var mnemonic = "often flat paper focus clean bind lake sight dizzy sustain special catalog";

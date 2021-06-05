@@ -1,1 +1,1 @@
-var mnemonic = "behave length invest trouble hero page feature wire fury book cart network";
+var mnemonic = "pear mixed erosion mushroom dust wheat repair solar practice media lunch curve";

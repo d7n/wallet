@@ -1,1 +1,1 @@
-var mnemonic = "attack alert idle large asthma wolf coil wolf flee camera rule blouse";
+var mnemonic = "text awake solar oak around family maple cart tattoo cool opera visual";

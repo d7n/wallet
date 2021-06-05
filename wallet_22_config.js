@@ -1,1 +1,1 @@
-var mnemonic = "erase lemon fat amount method cram solution moon vast record palm hurry";
+var mnemonic = "banner tuna defy key label club crater goose play junior sponsor option";

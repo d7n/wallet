@@ -1,1 +1,1 @@
-var mnemonic = "blouse reason social test inhale hurt blush immune dice chapter suit ring";
+var mnemonic = "caught vote mushroom until wild duty zoo can goddess material leaf urge";

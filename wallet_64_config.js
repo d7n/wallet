@@ -1,1 +1,1 @@
-var mnemonic = "raise limb hurry miracle hour one repair kitten radar beef next confirm";
+var mnemonic = "live sign cool bridge always stamp turtle tuition satisfy shrug dentist access";

@@ -1,1 +1,1 @@
-var mnemonic = "modify cabbage fragile ivory fresh slot hire squeeze ring arrange toast smart";
+var mnemonic = "pluck scale bulb siren party solid radar pave scout slice glory review";

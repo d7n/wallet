@@ -1,1 +1,1 @@
-var mnemonic = "chimney duty axis call lucky trash choice token place defy involve about";
+var mnemonic = "cloth frog street tongue tribe change fetch security essence super swear butter";

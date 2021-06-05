@@ -1,1 +1,1 @@
-var mnemonic = "cup green charge wing barrel gloom beauty betray poverty patch swift tomorrow";
+var mnemonic = "skate jaguar sustain certain grit boy omit budget copper ceiling minor stem";

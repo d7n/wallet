@@ -1,1 +1,1 @@
-var mnemonic = "toddler bar evolve vapor scorpion remind fresh fitness airport rubber slow donkey";
+var mnemonic = "coach chalk above body dismiss can glance comfort silver tide spider quality";

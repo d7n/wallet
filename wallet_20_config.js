@@ -1,1 +1,1 @@
-var mnemonic = "guess clean robot riot portion come walk service during casino black oil";
+var mnemonic = "reform spot deal eager crop nut sell runway jewel remain slam bulk";

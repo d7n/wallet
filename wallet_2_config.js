@@ -1,1 +1,1 @@
-var mnemonic = "debate transfer bird gadget key comfort budget enroll object rose price act";
+var mnemonic = "climb tribe right cable turkey push system behind waste dignity addict reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "enough card tape about ceiling nasty pet cruise era network fatal uncover";
+var mnemonic = "goddess wedding kitten tragic color crop spice fetch latin gloom loop outer";

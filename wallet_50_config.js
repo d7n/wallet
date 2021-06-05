@@ -1,1 +1,1 @@
-var mnemonic = "infant upgrade enter clip quick start example seven immense vivid blur prison";
+var mnemonic = "prepare brick draw can glimpse coconut kitten magic black only transfer agent";

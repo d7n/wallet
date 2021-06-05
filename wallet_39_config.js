@@ -1,1 +1,1 @@
-var mnemonic = "race question assist harbor warm slender elbow federal obvious pen process spare";
+var mnemonic = "garlic random insane laptop long day credit dizzy exist tree much pass";

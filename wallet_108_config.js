@@ -1,1 +1,1 @@
-var mnemonic = "idle cabin fashion gentle weather song first nurse bright aerobic uniform music";
+var mnemonic = "wear shell bench throw soon unit version cake seed repair about prize";

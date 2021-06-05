@@ -1,1 +1,1 @@
-var mnemonic = "noodle fee blossom essay shell emerge census decrease curve radar ancient high";
+var mnemonic = "myth foot enough crazy economy hour useless banner ecology tent blame cup";

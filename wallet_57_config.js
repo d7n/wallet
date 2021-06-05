@@ -1,1 +1,1 @@
-var mnemonic = "save perfect because question fish month wrong ski bubble potato follow race";
+var mnemonic = "kiss topple steak anger pair merit novel video chat prosper tell bracket";

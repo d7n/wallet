@@ -1,1 +1,1 @@
-var mnemonic = "broccoli inquiry cruel crumble just flag thunder trust crack alien caught motor";
+var mnemonic = "employ empower dumb fancy long barely jungle live library oil sheriff useful";

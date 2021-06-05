@@ -1,1 +1,1 @@
-var mnemonic = "unusual pioneer stable mouse segment dinner twist dynamic tragic entire divert use";
+var mnemonic = "hospital add boil crystal grunt catch effort domain illness middle digital scan";

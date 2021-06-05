@@ -1,1 +1,1 @@
-var mnemonic = "thunder prepare cabin bracket fatal cube patch pear lucky pretty column setup";
+var mnemonic = "process grass garden amazing engage mammal case boy tonight trust flame flower";

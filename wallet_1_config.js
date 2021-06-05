@@ -1,1 +1,1 @@
-var mnemonic = "machine clinic retire reform render stem curious actual rabbit brisk absorb similar";
+var mnemonic = "brain know nose hedgehog cube share beef glance edge garment afford trigger";

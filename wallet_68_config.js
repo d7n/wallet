@@ -1,1 +1,1 @@
-var mnemonic = "hammer robust zebra enforce patch source reject slender grant merry imitate nuclear";
+var mnemonic = "payment weapon shoulder fee kangaroo reject hazard diary sun happy hero stem";

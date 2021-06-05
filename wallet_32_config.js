@@ -1,1 +1,1 @@
-var mnemonic = "garbage donate nephew fork little pistol venture claw unique lift often song";
+var mnemonic = "chest hospital category lake scrap quiz bus rib oxygen actor glare forward";

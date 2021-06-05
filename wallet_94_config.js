@@ -1,1 +1,1 @@
-var mnemonic = "during artwork sauce airport behave earn okay pulse marble symptom pelican fancy";
+var mnemonic = "category peasant tunnel search confirm expire involve twist collect december equip portion";

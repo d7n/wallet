@@ -1,1 +1,1 @@
-var mnemonic = "mansion exclude because tonight fitness roast flat cactus crane note weather wheat";
+var mnemonic = "loud firm punch brief badge farm soul camp tool first junk tree";

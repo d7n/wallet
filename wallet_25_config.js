@@ -1,1 +1,1 @@
-var mnemonic = "remove bright crunch pipe admit inflict cause swim silent frozen trip pear";
+var mnemonic = "include harsh ecology noodle damp blade erosion leg coil raccoon skull price";

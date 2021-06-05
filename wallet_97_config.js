@@ -1,1 +1,1 @@
-var mnemonic = "clever two must razor banana require resemble spatial wire mansion turtle shop";
+var mnemonic = "area small under medal online divert divorce drip actual beach disagree group";

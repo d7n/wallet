@@ -1,1 +1,1 @@
-var mnemonic = "educate message lock isolate destroy rocket stove twenty excuse alter process rural";
+var mnemonic = "robot flight crouch chef morning genuine close cake rail fault pelican tribe";

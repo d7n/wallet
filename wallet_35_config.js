@@ -1,1 +1,1 @@
-var mnemonic = "alien entire expect wood guilt reunion neck custom brother sugar focus figure";
+var mnemonic = "manage perfect topic little tide avocado rice trigger antenna renew select raise";

@@ -1,1 +1,1 @@
-var mnemonic = "fine give glue tomato royal mistake track candy orchard knife innocent insect";
+var mnemonic = "vote duty column large hospital tennis decrease venue kidney nest fiber yard";

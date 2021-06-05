@@ -1,1 +1,1 @@
-var mnemonic = "junior they orient hurt century amazing clip credit friend segment hospital despair";
+var mnemonic = "health festival glue insect hand chuckle glare siege pill ball oblige despair";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh brush run peanut forest again pattern memory rocket boy happy slight";
+var mnemonic = "wagon inside tank neither local cheap lecture clever eager baby glad snack";

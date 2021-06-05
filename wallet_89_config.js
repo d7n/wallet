@@ -1,1 +1,1 @@
-var mnemonic = "point foster elbow hint human aerobic section trophy mandate vocal guilt wish";
+var mnemonic = "slight vendor embrace move evidence mean neither brave protect people just piece";

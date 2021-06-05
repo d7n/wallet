@@ -1,1 +1,1 @@
-var mnemonic = "length entry vibrant gorilla rather ecology firm organ submit blossom aspect start";
+var mnemonic = "retreat another useless blur list know bomb museum bounce dwarf arrest scan";

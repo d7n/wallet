@@ -1,1 +1,1 @@
-var mnemonic = "alley phrase speak raw wait lounge sketch february artefact access couch stool";
+var mnemonic = "lumber gain pilot drip inhale clerk math cancel assist route spare robot";

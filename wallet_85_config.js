@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cruise present hair pact deal rule just volume parade follow crush";
+var mnemonic = "wrong upon carbon smoke observe sister pigeon harbor remove robust call annual";

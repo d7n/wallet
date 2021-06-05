@@ -1,1 +1,1 @@
-var mnemonic = "moment such series wrist van tape evoke account van coach name awful";
+var mnemonic = "museum giraffe tool have dream grant evolve asthma trend black resemble bus";

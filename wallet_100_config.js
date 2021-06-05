@@ -1,1 +1,1 @@
-var mnemonic = "desk glow vague arrange marine fury bachelor equal order frost shed scissors";
+var mnemonic = "multiply stick risk chicken equip dynamic peasant outside abuse utility power empower";

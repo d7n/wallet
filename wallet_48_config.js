@@ -1,1 +1,1 @@
-var mnemonic = "vessel whip permit virus merit uphold slogan admit coil only neutral curious";
+var mnemonic = "conduct point vague item squirrel cousin cradle claw maple match embrace boat";

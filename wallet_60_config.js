@@ -1,1 +1,1 @@
-var mnemonic = "quantum pond protect game hospital stage original input stool turtle rebuild client";
+var mnemonic = "clown spray ostrich point coin ordinary load chronic october share goose hamster";

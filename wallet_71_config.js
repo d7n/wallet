@@ -1,1 +1,1 @@
-var mnemonic = "enforce scare diet length patrol wrist true into shoe doctor frequent wire";
+var mnemonic = "pottery rich thought holiday menu direct head ill tissue embrace noise bulb";

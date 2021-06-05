@@ -1,1 +1,1 @@
-var mnemonic = "general island food exhaust exhaust frown gesture draft lamp ensure angry enter";
+var mnemonic = "diet weekend cancel fee direct decide rapid dog hour license bind fire";

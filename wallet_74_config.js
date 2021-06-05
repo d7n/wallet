@@ -1,1 +1,1 @@
-var mnemonic = "arctic fun shuffle absurd carpet exercise boil capable cover quantum cigar truly";
+var mnemonic = "license fiber table field space tribe name tomato original polar tell exile";

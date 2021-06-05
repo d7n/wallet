@@ -1,1 +1,1 @@
-var mnemonic = "athlete shoulder frown congress north bird busy boring echo ten naive buyer";
+var mnemonic = "quality this bamboo safe trial know insect join final urban punch shallow";

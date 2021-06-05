@@ -1,1 +1,1 @@
-var mnemonic = "twice fitness mushroom oak dream unit habit weasel nerve decade daughter sad";
+var mnemonic = "electric field almost ice minute erupt flash alone badge update boring answer";

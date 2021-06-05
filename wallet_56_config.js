@@ -1,1 +1,1 @@
-var mnemonic = "shrimp chef bounce host squirrel near nerve attitude spawn airport broccoli divert";
+var mnemonic = "crawl tree reward parrot solid provide leopard yard jealous wet magnet worth";

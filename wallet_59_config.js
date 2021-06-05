@@ -1,1 +1,1 @@
-var mnemonic = "feel pattern cover trap stick pencil once quiz buzz box shrimp update";
+var mnemonic = "lizard involve bracket better possible family used inmate couple agent exotic shove";

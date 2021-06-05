@@ -1,1 +1,1 @@
-var mnemonic = "forward lonely glass clutch crew treat flee crater ketchup tank oxygen large";
+var mnemonic = "endless patient fame satisfy train pluck shove differ fury describe kidney valley";

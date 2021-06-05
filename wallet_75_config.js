@@ -1,1 +1,1 @@
-var mnemonic = "license spend save bench grunt pass wire organ return coil mesh wrong";
+var mnemonic = "stay pool kidney project return auto hair ocean assume prize today collect";

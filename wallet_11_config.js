@@ -1,1 +1,1 @@
-var mnemonic = "melody float diagram bundle people angry talk during scout unable gravity extra";
+var mnemonic = "cinnamon error glow right ring forum clown salute mention real squeeze other";

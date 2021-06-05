@@ -1,1 +1,1 @@
-var mnemonic = "length tribe rack witness security fluid super mixture patch tumble tunnel soup";
+var mnemonic = "fringe stomach oyster come media aisle shaft egg industry festival deer sure";

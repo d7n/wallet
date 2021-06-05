@@ -1,1 +1,1 @@
-var mnemonic = "farm enrich typical exercise lady call carbon pluck frog lawn card urban";
+var mnemonic = "lab seminar all gorilla cabbage neck ripple whale maid layer range monitor";

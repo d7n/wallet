@@ -1,1 +1,1 @@
-var mnemonic = "resemble ramp soldier erase already license squeeze motion hurt man execute camp";
+var mnemonic = "slim cabin pudding kind wedding rescue what surround pumpkin ugly absorb safe";

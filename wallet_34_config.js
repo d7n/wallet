@@ -1,1 +1,1 @@
-var mnemonic = "claw already trust clutch mosquito volcano attack cook pioneer similar goat draw";
+var mnemonic = "lecture rhythm dignity despair broom sheriff wool doctor bullet diagram roast one";

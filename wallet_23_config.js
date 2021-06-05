@@ -1,1 +1,1 @@
-var mnemonic = "pear diagram miss focus return mistake minute silly sister cactus diagram they";
+var mnemonic = "gadget stem bridge kit essay beyond science tail human rude middle clock";

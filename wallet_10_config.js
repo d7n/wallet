@@ -1,1 +1,1 @@
-var mnemonic = "leave sea volcano quick used network before equip adjust cabin situate month";
+var mnemonic = "pipe spirit tissue kid pretty submit setup truth shaft swift turtle certain";

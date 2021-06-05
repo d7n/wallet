@@ -1,1 +1,1 @@
-var mnemonic = "ball false hill beach someone mechanic cost exhibit frozen mad bargain boat";
+var mnemonic = "quiz mesh crack tortoise parade meat turn basic since tiger clutch apart";

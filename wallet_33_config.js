@@ -1,1 +1,1 @@
-var mnemonic = "claw notice senior omit net truck lesson chef impact oxygen net silver";
+var mnemonic = "occur reduce congress stairs menu unlock one erosion history avocado dismiss want";

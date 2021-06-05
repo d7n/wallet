@@ -1,1 +1,1 @@
-var mnemonic = "during firm snack runway reunion artwork immune kitchen inflict siren monster verb";
+var mnemonic = "olympic repair aisle mixture spot choose merge coyote shove number thrive noise";

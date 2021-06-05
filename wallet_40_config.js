@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fruit derive frog lazy mercy viable vocal wink marriage walk lounge";
+var mnemonic = "media stick wedding victory focus segment teach celery spirit ozone wife jungle";

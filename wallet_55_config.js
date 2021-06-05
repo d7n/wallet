@@ -1,1 +1,1 @@
-var mnemonic = "vicious bamboo economy wasp harsh flavor ball opinion finger fury west useful";
+var mnemonic = "cancel eternal employ unfair include mind bamboo topic thank bracket avocado visual";

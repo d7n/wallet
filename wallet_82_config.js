@@ -1,1 +1,1 @@
-var mnemonic = "digital cause snow ship culture office cart runway pond saddle letter math";
+var mnemonic = "seat subway plunge ask sentence artist tackle uncover inside civil lazy bubble";

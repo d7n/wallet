@@ -1,1 +1,1 @@
-var mnemonic = "social click sample chuckle input dismiss cushion image crush knock giggle position";
+var mnemonic = "victory breeze eight planet message drink under crop run broccoli child dinner";

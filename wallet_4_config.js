@@ -1,1 +1,1 @@
-var mnemonic = "frozen motion witness travel govern deer alley involve achieve pipe acquire sound";
+var mnemonic = "trap digital robust clip hint despair health bless wagon toilet indoor trash";
