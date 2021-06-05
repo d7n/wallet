@@ -1,1 +1,1 @@
-var mnemonic = "leader rebel edge attract wing clever near boost utility wine saddle crucial";
+var mnemonic = "release false sauce toy cactus genre upon pool student conduct jazz undo";

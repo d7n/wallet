@@ -1,1 +1,1 @@
-var mnemonic = "talk harvest camp normal always ankle post all envelope view border save";
+var mnemonic = "capable injury battle laugh federal fatigue spider follow thunder crop inform dirt";

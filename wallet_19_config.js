@@ -1,1 +1,1 @@
-var mnemonic = "once december follow inhale tissue tennis run ahead glare shy song enjoy";
+var mnemonic = "pilot sword antique broccoli width emerge swamp unfold glimpse eight rival cage";

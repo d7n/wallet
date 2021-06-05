@@ -1,1 +1,1 @@
-var mnemonic = "slim forest noodle island youth antenna gift pyramid squeeze table only describe";
+var mnemonic = "forest aspect plastic fold wool vote fantasy curve lamp doctor crystal tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "scene catch convince emerge cross inner private same robust next prize tongue";
+var mnemonic = "flat fossil miracle ripple wool master stool leisure menu soul interest rule";

@@ -1,1 +1,1 @@
-var mnemonic = "rather advance juice behave void afford sausage pyramid average dynamic silver mercy";
+var mnemonic = "skin pyramid bamboo pride ordinary rude alley carry motor pulp gate ozone";

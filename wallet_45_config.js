@@ -1,1 +1,1 @@
-var mnemonic = "plastic sauce swallow early giant essay rebuild way original rigid loud victory";
+var mnemonic = "term entry person rain cloth tool pause fish federal wrist volume absent";

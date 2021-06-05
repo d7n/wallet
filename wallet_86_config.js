@@ -1,1 +1,1 @@
-var mnemonic = "short enough reduce keep nothing require letter shallow marble wrestle immune oil";
+var mnemonic = "design butter modify clever chapter birth sausage stable side push hour next";

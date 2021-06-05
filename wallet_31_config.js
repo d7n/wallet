@@ -1,1 +1,1 @@
-var mnemonic = "west eternal over degree chuckle addict adjust twin clay umbrella stereo margin";
+var mnemonic = "butter radio acid under vapor rebel mimic stairs coast bullet excess face";

@@ -1,1 +1,1 @@
-var mnemonic = "piece pudding ugly board entry neutral board fade couch snake goose usage";
+var mnemonic = "obey behave grab humor exist bacon auction silly win direct sniff distance";

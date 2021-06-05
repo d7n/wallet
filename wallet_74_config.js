@@ -1,1 +1,1 @@
-var mnemonic = "idle search kite correct bomb hawk pelican gown infant hunt wash flip";
+var mnemonic = "delay file attract involve cruise host skin obscure body undo follow venture";

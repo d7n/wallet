@@ -1,1 +1,1 @@
-var mnemonic = "mosquito quarter icon ginger domain fade exclude slogan profit motor cricket kind";
+var mnemonic = "lyrics tell limb fuel gossip way tiger float amount thumb razor valley";

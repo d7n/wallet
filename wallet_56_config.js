@@ -1,1 +1,1 @@
-var mnemonic = "coffee emotion glance visa bright tip flip exact thing weekend over surprise";
+var mnemonic = "effort fitness wet desert replace artefact again okay frost maximum minute health";

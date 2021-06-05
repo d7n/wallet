@@ -1,1 +1,1 @@
-var mnemonic = "attack exercise decade basket pilot elbow vehicle come try pulse strategy turkey";
+var mnemonic = "cage symbol witness reduce shaft welcome napkin danger slam flat forum topic";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest foster morning rocket route sudden carbon gesture lawsuit humor mention sound";
+var mnemonic = "shove member escape quiz oppose primary easily day ignore focus cry elevator";

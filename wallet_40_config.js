@@ -1,1 +1,1 @@
-var mnemonic = "chef next ivory talent finish fiction alpha easy slush rapid enemy develop";
+var mnemonic = "force fantasy abstract shuffle cliff ordinary color file double spoon piano announce";

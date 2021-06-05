@@ -1,1 +1,1 @@
-var mnemonic = "series dish label scout marriage must able raise square obtain maid taxi";
+var mnemonic = "wrist welcome person immune obtain decrease mansion crunch dove muscle benefit jump";

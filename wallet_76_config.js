@@ -1,1 +1,1 @@
-var mnemonic = "weasel clay theory tone immune pen loyal ketchup true stairs cliff lobster";
+var mnemonic = "cute trap fly bounce dice write gold abuse quantum crumble shed inspire";

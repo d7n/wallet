@@ -1,1 +1,1 @@
-var mnemonic = "size brown crowd route supreme sponsor because guide alien excess demand hurry";
+var mnemonic = "quote provide unveil brick limb town soccer easily argue orange movie tourist";

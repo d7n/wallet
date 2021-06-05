@@ -1,1 +1,1 @@
-var mnemonic = "shoe enhance walnut sample toilet reform praise scrub swamp mix soda meat";
+var mnemonic = "comfort globe chunk sure solid flame hill member injury magic meadow clock";

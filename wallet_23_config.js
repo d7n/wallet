@@ -1,1 +1,1 @@
-var mnemonic = "shaft frog october climb clay advice earth sing split vague rent awesome";
+var mnemonic = "owner order slab spice similar infant top cool wide entry negative broken";

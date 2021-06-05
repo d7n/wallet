@@ -1,1 +1,1 @@
-var mnemonic = "eternal tuna render kite pill random pause short shoot ivory question grass";
+var mnemonic = "script theme blue broken clown portion voice amateur token mom body hedgehog";

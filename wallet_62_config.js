@@ -1,1 +1,1 @@
-var mnemonic = "wheat siege gun rude sibling enable faint curve wreck bargain panda spin";
+var mnemonic = "impulse bitter swap mutual resist dry dress wait reopen spatial school segment";

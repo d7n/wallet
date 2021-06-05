@@ -1,1 +1,1 @@
-var mnemonic = "trumpet priority common useful fan oil turtle fun combine angry situate affair";
+var mnemonic = "trim hollow creek dinosaur crowd lazy female sniff sorry spot path lunar";

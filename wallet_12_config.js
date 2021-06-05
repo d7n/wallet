@@ -1,1 +1,1 @@
-var mnemonic = "inject split acoustic moon force banana brass olympic mesh purse veteran infant";
+var mnemonic = "increase put grape lens owner above skirt cricket notable move one kid";

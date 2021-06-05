@@ -1,1 +1,1 @@
-var mnemonic = "upgrade inflict rookie prepare universe alter wrestle oil group cube neglect satisfy";
+var mnemonic = "social sting funny fiber main avoid boring achieve weasel praise mosquito deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo spike draft step float pilot power throw clutch mammal shove clock";
+var mnemonic = "firm palace simple salmon avocado place category decade team discover gas enlist";

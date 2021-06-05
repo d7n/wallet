@@ -1,1 +1,1 @@
-var mnemonic = "retreat gasp work connect excite large fat tomato vast physical course easy";
+var mnemonic = "tray slight crane guide soldier civil step broom library amazing ignore ability";

@@ -1,1 +1,1 @@
-var mnemonic = "fury base put alarm tragic detect thrive three grid visual drama skill";
+var mnemonic = "intact pet live laundry material gallery symptom sport taxi era emotion motor";

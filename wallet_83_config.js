@@ -1,1 +1,1 @@
-var mnemonic = "uncle curve crunch fossil dizzy armed original vessel gun trash worth secret";
+var mnemonic = "library task echo family believe velvet illness dignity discover play magnet drum";

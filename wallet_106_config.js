@@ -1,1 +1,1 @@
-var mnemonic = "pudding grace fine click cigar element organ mystery voice glare dignity acoustic";
+var mnemonic = "fantasy blind world siege apart fancy market foil find lesson vessel capable";

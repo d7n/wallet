@@ -1,1 +1,1 @@
-var mnemonic = "dash outer castle chunk cross gate erase hurt quick river cloth gown";
+var mnemonic = "oppose convince laugh disagree knock tip ivory news floor frown guide lounge";

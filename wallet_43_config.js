@@ -1,1 +1,1 @@
-var mnemonic = "knock print voyage sorry all senior okay consider kangaroo jacket oxygen bamboo";
+var mnemonic = "afford hurry cat enable consider curve peanut segment advance ship spend empower";

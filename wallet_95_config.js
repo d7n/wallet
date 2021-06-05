@@ -1,1 +1,1 @@
-var mnemonic = "erosion inherit high mean garlic arctic arm shell celery spike ocean bean";
+var mnemonic = "noise doctor trap wish step fork fish pair truly grant crop cook";

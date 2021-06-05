@@ -1,1 +1,1 @@
-var mnemonic = "congress host upon clip forest invest idea silly approve change stamp sample";
+var mnemonic = "recipe brisk emotion enhance stone laptop close crumble garlic badge globe immune";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant poverty text royal mask patient debate vacuum coin planet tilt speak";
+var mnemonic = "drama throw shrug plastic kingdom true vintage digital nose lonely quote resemble";

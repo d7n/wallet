@@ -1,1 +1,1 @@
-var mnemonic = "life metal use proud nominee duck grace tortoise expire lake outer animal";
+var mnemonic = "poverty bulk inflict undo reject memory forget rocket olympic prosper system version";

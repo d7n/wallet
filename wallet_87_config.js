@@ -1,1 +1,1 @@
-var mnemonic = "emerge crack another wife need update normal exotic critic document law embody";
+var mnemonic = "leg dragon razor oil volume upset atom repair jaguar chimney excuse wool";

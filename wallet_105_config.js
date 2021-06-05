@@ -1,1 +1,1 @@
-var mnemonic = "advice stool alley robust blossom coyote way ginger harsh pitch rug merit";
+var mnemonic = "panic swamp claim fancy sort enjoy speak bullet source powder screen flash";

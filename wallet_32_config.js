@@ -1,1 +1,1 @@
-var mnemonic = "april adult rich forget spread key theory journey left coach track rally";
+var mnemonic = "bachelor cost solution hurt allow spoon domain bitter fiscal idea witness weapon";

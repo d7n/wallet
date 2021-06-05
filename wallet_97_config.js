@@ -1,1 +1,1 @@
-var mnemonic = "fold drastic vast vibrant drink student jelly lumber kangaroo infant flash insane";
+var mnemonic = "toe blade shock achieve sock stem mean cotton screen genius plunge lottery";

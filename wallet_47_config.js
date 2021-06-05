@@ -1,1 +1,1 @@
-var mnemonic = "agree nice screen cart manual avocado sea still march play useful obscure";
+var mnemonic = "tip senior blouse assault they rug blood dawn october source depart remain";

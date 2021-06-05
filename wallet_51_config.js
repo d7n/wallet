@@ -1,1 +1,1 @@
-var mnemonic = "exhaust polar diary cry horror van please civil trust glass humor next";
+var mnemonic = "blast area turn kingdom example stone army weird tenant jazz arena salon";

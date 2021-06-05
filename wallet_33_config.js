@@ -1,1 +1,1 @@
-var mnemonic = "aunt warfare sample valve humble matrix light melt suffer wire keep truly";
+var mnemonic = "payment equip vicious family ivory illness consider rescue panther recall piece year";

@@ -1,1 +1,1 @@
-var mnemonic = "security regular discover world mom seat twin tiny museum clap slim right";
+var mnemonic = "certain gaze outer another slice pave aisle hobby off dove reject photo";

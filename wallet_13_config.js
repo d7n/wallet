@@ -1,1 +1,1 @@
-var mnemonic = "owner egg enact kiss cupboard output express usage animal abandon harvest rent";
+var mnemonic = "pole hole owner fancy gossip session fatal chaos core west unlock educate";

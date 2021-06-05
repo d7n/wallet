@@ -1,1 +1,1 @@
-var mnemonic = "trick affair decline drive leisure skin struggle large noise observe blush screen";
+var mnemonic = "unable cover exercise beach scale noise guilt dirt update write gorilla goddess";

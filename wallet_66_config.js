@@ -1,1 +1,1 @@
-var mnemonic = "wheel bonus option cushion record speak oblige chef normal enlist carpet enjoy";
+var mnemonic = "rookie scorpion joy away educate layer song flip oyster decline control upgrade";

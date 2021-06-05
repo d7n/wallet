@@ -1,1 +1,1 @@
-var mnemonic = "license entire switch sign enhance leaf gun panic february arrest polar borrow";
+var mnemonic = "frost trick dose avoid paper language undo that aerobic together remove trap";

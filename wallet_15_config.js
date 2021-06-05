@@ -1,1 +1,1 @@
-var mnemonic = "ensure north fix laundry chest matter illegal heavy damage know prefer patrol";
+var mnemonic = "immune praise sense gesture report dance category daring cross found tone muffin";

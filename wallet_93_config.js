@@ -1,1 +1,1 @@
-var mnemonic = "popular farm fly foot sense decade vintage topic sleep output start defy";
+var mnemonic = "flower also move control brisk royal demise clean master meat budget chair";

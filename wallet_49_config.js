@@ -1,1 +1,1 @@
-var mnemonic = "soul slam primary protect make pottery tribe glow during hungry spell camera";
+var mnemonic = "enemy border pave shine toast forum fox peasant vivid include mistake purse";

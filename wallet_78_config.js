@@ -1,1 +1,1 @@
-var mnemonic = "busy clinic address buddy trick hour silk crowd opera program usual reduce";
+var mnemonic = "hub adult february legal spot sleep boost welcome toe viable pet hole";

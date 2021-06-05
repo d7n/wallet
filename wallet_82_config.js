@@ -1,1 +1,1 @@
-var mnemonic = "attack deal pride grunt ready travel pony cool merit useful grunt club";
+var mnemonic = "poem spike giant disease number safe toe clerk ginger aunt make fame";

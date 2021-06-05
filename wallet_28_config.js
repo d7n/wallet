@@ -1,1 +1,1 @@
-var mnemonic = "gather illness prepare leopard never ridge foot mushroom mom twenty remind chimney";
+var mnemonic = "student language identify firm trick thank lonely chimney bread shield wash light";

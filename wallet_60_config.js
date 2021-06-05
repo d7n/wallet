@@ -1,1 +1,1 @@
-var mnemonic = "inside lamp solar clog celery lesson retreat suffer middle sport place wage";
+var mnemonic = "solar sick pact emotion dentist wash payment brown fresh online couple add";

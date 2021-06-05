@@ -1,1 +1,1 @@
-var mnemonic = "word govern hello scale ceiling kiwi verify coast letter enhance agree story";
+var mnemonic = "run fruit impose noise match test video entry switch decade multiply dove";

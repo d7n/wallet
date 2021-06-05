@@ -1,1 +1,1 @@
-var mnemonic = "swallow cook barrel toast grunt empower limb blush six doll audit kick";
+var mnemonic = "price close teach seek surround learn summer hurry horse hundred enough illegal";

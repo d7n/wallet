@@ -1,1 +1,1 @@
-var mnemonic = "again thought rule canyon master wear trash oil egg worry moral opinion";
+var mnemonic = "fan left where aisle sure globe exclude slam pause twelve sting hammer";

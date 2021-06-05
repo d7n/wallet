@@ -1,1 +1,1 @@
-var mnemonic = "canoe cage tube furnace stereo deal hungry ahead drama happy check tumble";
+var mnemonic = "nurse blossom wide affair boat nurse cage puzzle offer this visa frost";

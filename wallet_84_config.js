@@ -1,1 +1,1 @@
-var mnemonic = "problem celery current country average olive memory hurry roof pill stove soft";
+var mnemonic = "elephant purse quality remember awesome debris ask myth slot wealth snow exact";

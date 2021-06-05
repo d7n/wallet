@@ -1,1 +1,1 @@
-var mnemonic = "advice connect reveal race energy merge gown air melt glue harvest merge";
+var mnemonic = "you excite spin horn noise doll song explain awful frequent frequent wrap";

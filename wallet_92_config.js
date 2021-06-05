@@ -1,1 +1,1 @@
-var mnemonic = "bronze change gentle thrive quiz catalog drum multiply spell work ahead quality";
+var mnemonic = "color limit fun clock advice share test phrase daring tattoo session adult";

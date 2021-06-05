@@ -1,1 +1,1 @@
-var mnemonic = "solid long mountain since enjoy miracle fly horse case infant gas gap";
+var mnemonic = "banner travel stuff ankle curtain choose fun family much view document congress";

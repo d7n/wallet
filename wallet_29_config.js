@@ -1,1 +1,1 @@
-var mnemonic = "toilet swamp right reform pumpkin project during coil feed good honey rebel";
+var mnemonic = "body image athlete detect bronze glimpse chair eternal eager hat quantum income";

@@ -1,1 +1,1 @@
-var mnemonic = "begin obvious home action differ coyote arctic critic menu tattoo grow lizard";
+var mnemonic = "decorate jar hammer umbrella orphan simple truck current leisure pink member toe";

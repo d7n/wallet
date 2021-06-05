@@ -1,1 +1,1 @@
-var mnemonic = "cigar glad course wave patch flush friend ticket monster choose debate dynamic";
+var mnemonic = "host merge turtle element cannon bar firm pyramid strike innocent network amount";

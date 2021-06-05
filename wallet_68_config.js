@@ -1,1 +1,1 @@
-var mnemonic = "walk pink patrol call install gloom elephant section degree inch roast secret";
+var mnemonic = "dawn off pledge desk flee debate arrest spider acid push explain unknown";

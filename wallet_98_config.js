@@ -1,1 +1,1 @@
-var mnemonic = "below wing jar desert legal rabbit found nest snap document engage coach";
+var mnemonic = "cereal purse license dad page library start area bulb used oxygen twenty";

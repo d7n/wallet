@@ -1,1 +1,1 @@
-var mnemonic = "brother aspect captain raccoon disorder indicate raw suit return sure pig insect";
+var mnemonic = "sunny moon mistake liar main attend vendor chest ready aisle palm glass";

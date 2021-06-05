@@ -1,1 +1,1 @@
-var mnemonic = "replace fancy awesome miss stumble boy mistake crime caught roast embody legal";
+var mnemonic = "oppose legend wire load unusual woman media melody castle sugar world private";

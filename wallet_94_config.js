@@ -1,1 +1,1 @@
-var mnemonic = "almost chalk wink laptop coyote poverty win wisdom cheese short pumpkin proud";
+var mnemonic = "web hurt dragon purse assault almost boost lens vacant employ fabric cattle";

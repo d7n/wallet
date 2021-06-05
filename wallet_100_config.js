@@ -1,1 +1,1 @@
-var mnemonic = "help essence evoke arrest hold logic inject canal suggest enact picture smooth";
+var mnemonic = "hire lady gap useless approve goat demand pizza install quote wrestle cliff";

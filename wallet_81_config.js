@@ -1,1 +1,1 @@
-var mnemonic = "vapor pulse half forum dream people acoustic citizen final punch puppy maple";
+var mnemonic = "film carry twin dutch rigid maid renew lecture avoid airport exact harsh";

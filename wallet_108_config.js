@@ -1,1 +1,1 @@
-var mnemonic = "hair vivid thing hockey blouse release orient decline dismiss catalog split expire";
+var mnemonic = "snack fashion victory lake sight common trial magic fire point rhythm correct";

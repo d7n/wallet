@@ -1,1 +1,1 @@
-var mnemonic = "dragon dish sea scout mango circle dad slot will rapid away rug";
+var mnemonic = "camp parade glad rose find garbage vessel reject rebel paddle label office";

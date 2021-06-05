@@ -1,1 +1,1 @@
-var mnemonic = "patrol print soda weird chimney sick able perfect call vague cage inject";
+var mnemonic = "stable search ugly music bottom tiger grid alpha silver almost crowd seminar";

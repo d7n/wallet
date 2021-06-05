@@ -1,1 +1,1 @@
-var mnemonic = "kit fitness test spice margin cruise resemble ghost wild dry tree saddle";
+var mnemonic = "sponsor time input nasty cart detail era dune recycle pig kid cousin";

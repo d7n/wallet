@@ -1,1 +1,1 @@
-var mnemonic = "element spice wheel leisure night trumpet exercise speed manage snack nerve rival";
+var mnemonic = "cake winter case average grab famous hair rice mosquito hurdle aim cradle";

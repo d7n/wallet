@@ -1,1 +1,1 @@
-var mnemonic = "enable trust quiz screen wink young betray enemy divorce nurse mandate news";
+var mnemonic = "figure where cabin bike modify small cake boss during immense good beef";

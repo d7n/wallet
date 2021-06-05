@@ -1,1 +1,1 @@
-var mnemonic = "one pipe hungry any crisp powder impact mesh predict prison undo skin";
+var mnemonic = "desert vintage scheme patch task silent rare scale cigar party force income";

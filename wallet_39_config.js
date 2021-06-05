@@ -1,1 +1,1 @@
-var mnemonic = "call write wool theory junk catch coast push anchor relax mesh inject";
+var mnemonic = "spy stereo kind prefer camp throw kitten error fancy nephew wheel nation";

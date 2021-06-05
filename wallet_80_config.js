@@ -1,1 +1,1 @@
-var mnemonic = "sniff furnace sadness thrive remind insane office inspire neglect absent accuse wonder";
+var mnemonic = "elbow arrow clarify duty burden scorpion joy deposit shock client liberty expose";

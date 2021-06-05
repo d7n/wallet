@@ -1,1 +1,1 @@
-var mnemonic = "wave retreat much river entire warm among cherry sorry fat degree build";
+var mnemonic = "put seven kangaroo floor spike floor boss luxury join home foam shoe";

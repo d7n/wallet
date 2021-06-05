@@ -1,1 +1,1 @@
-var mnemonic = "saddle worry replace fiction cluster mistake age dizzy divert produce balcony option";
+var mnemonic = "stage foil runway setup life caught taxi episode dust unable trade medal";

@@ -1,1 +1,1 @@
-var mnemonic = "join online shield color hungry put wide vintage piano fork alone message";
+var mnemonic = "possible ranch check real cry latin word twin core neglect cannon knock";

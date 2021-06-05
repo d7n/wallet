@@ -1,1 +1,1 @@
-var mnemonic = "state setup relax door cluster arrive retreat catalog pill security search insect";
+var mnemonic = "ginger write token ghost crop neglect receive transfer audit swear raccoon add";

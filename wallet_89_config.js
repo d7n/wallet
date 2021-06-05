@@ -1,1 +1,1 @@
-var mnemonic = "man ecology captain woman issue latin else buzz pass ranch angle place";
+var mnemonic = "dumb nose dog glow afraid action salad orbit rubber color jacket wagon";

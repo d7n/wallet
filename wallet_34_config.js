@@ -1,1 +1,1 @@
-var mnemonic = "excite reveal please moral enforce suspect item minimum kiwi fatal pen grunt";
+var mnemonic = "client planet auto ghost luxury peace spread army slogan describe toy version";
