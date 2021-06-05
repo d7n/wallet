@@ -1,1 +1,1 @@
-var mnemonic = "swing very frequent hidden spy season nose embark recycle renew ethics flat";
+var mnemonic = "please barely case twin affair street motion extend demise loud pink flash";

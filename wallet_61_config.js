@@ -1,1 +1,1 @@
-var mnemonic = "atom west peasant garlic crystal lucky explain midnight tourist arrange rigid jeans";
+var mnemonic = "trash sense pretty lady exclude simple various flavor impose steel want candy";

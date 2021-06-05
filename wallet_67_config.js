@@ -1,1 +1,1 @@
-var mnemonic = "monitor below develop remember wet walk balance between garage clog math drink";
+var mnemonic = "speed mushroom glare slush acoustic lion truth pottery question champion outside reason";

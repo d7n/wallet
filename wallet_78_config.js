@@ -1,1 +1,1 @@
-var mnemonic = "select verify swear refuse eagle usage twenty castle olive cage embark abstract";
+var mnemonic = "attract busy cat reward depend disorder oil tissue base garment cheap primary";

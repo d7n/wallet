@@ -1,1 +1,1 @@
-var mnemonic = "dream wonder still crash hospital crouch success truly oval trigger match give";
+var mnemonic = "cinnamon iron success short deposit dismiss roof typical wine high outside problem";

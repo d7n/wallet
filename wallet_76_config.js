@@ -1,1 +1,1 @@
-var mnemonic = "despair broom field hurt oyster coffee surround just marine peanut scheme meadow";
+var mnemonic = "turkey void worth tenant symbol start rescue business horse chat kingdom liberty";

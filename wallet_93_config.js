@@ -1,1 +1,1 @@
-var mnemonic = "close bottom state gesture evoke worry peanut spare jelly credit coyote idle";
+var mnemonic = "impose help wolf become napkin aim sort conduct latin erupt dog mean";

@@ -1,1 +1,1 @@
-var mnemonic = "brand gorilla organ time vehicle enjoy glimpse reward improve nut correct renew";
+var mnemonic = "purse hen mimic obey clown uncover swarm cluster print space harvest once";

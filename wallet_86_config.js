@@ -1,1 +1,1 @@
-var mnemonic = "jelly apology make ice business road bleak victory profit kitchen trumpet scale";
+var mnemonic = "wagon solve industry half hover jar unit hen sure traffic approve immense";

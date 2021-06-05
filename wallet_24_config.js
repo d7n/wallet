@@ -1,1 +1,1 @@
-var mnemonic = "twin guard question whip kind oblige dance clarify wet silent buyer upgrade";
+var mnemonic = "swing soul fatigue steak team soccer manage salt brief scrub roast rug";

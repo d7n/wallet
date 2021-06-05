@@ -1,1 +1,1 @@
-var mnemonic = "broom diary pupil travel erupt habit music will mobile return tuition sustain";
+var mnemonic = "possible core rally offer balcony drop modify motion dizzy crouch pumpkin purpose";

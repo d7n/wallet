@@ -1,1 +1,1 @@
-var mnemonic = "pioneer deal conduct service long gaze crucial chest child bicycle toilet town";
+var mnemonic = "science axis tooth use fog erupt aspect evolve ketchup muscle tomorrow essence";

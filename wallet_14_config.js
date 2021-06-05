@@ -1,1 +1,1 @@
-var mnemonic = "canyon remain ensure shadow cannon pass music crew lawsuit jacket board example";
+var mnemonic = "develop april island gown foam defense echo embody camera kingdom drill luggage";

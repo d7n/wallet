@@ -1,1 +1,1 @@
-var mnemonic = "animal sample lounge winter swift tilt put issue garment crucial account science";
+var mnemonic = "unfair galaxy run answer suit boss cart local vapor online athlete camp";

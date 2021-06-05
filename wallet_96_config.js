@@ -1,1 +1,1 @@
-var mnemonic = "coin penalty light gun wrap ugly joy fox pill slogan arrow cricket";
+var mnemonic = "rug analyst void maze amateur dry viable hotel grape outer display grit";

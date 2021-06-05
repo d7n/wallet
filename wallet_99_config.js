@@ -1,1 +1,1 @@
-var mnemonic = "word pave front cinnamon city tornado adapt boy practice knife supply unique";
+var mnemonic = "rate unique brave tool bronze pigeon manual drop spend valley inflict veteran";

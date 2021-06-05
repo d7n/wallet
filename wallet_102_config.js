@@ -1,1 +1,1 @@
-var mnemonic = "canoe forward amateur quote visit soon machine draw sauce disagree ripple organ";
+var mnemonic = "slot melt dress inch ship student action tonight same duck clap best";

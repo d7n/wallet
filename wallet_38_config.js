@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shift tennis vote civil fiber theme thank purchase squirrel thunder settle";
+var mnemonic = "enact usual spray hood cliff release grow special maple stuff wall team";

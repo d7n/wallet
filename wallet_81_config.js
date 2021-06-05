@@ -1,1 +1,1 @@
-var mnemonic = "relax animal sauce sausage sand clean empower almost check sign throw drastic";
+var mnemonic = "middle wonder jaguar dilemma gold lamp assault ocean obscure section what girl";

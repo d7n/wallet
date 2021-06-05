@@ -1,1 +1,1 @@
-var mnemonic = "taste dirt prepare polar absurd parrot stool lens engine mistake order pole";
+var mnemonic = "hood until submit chunk prevent milk rough gentle write conduct ripple forward";

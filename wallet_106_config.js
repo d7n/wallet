@@ -1,1 +1,1 @@
-var mnemonic = "bone harbor comic congress purity fever cupboard border sample among step unhappy";
+var mnemonic = "you luggage attitude glad palm amateur vivid render fashion warm angle vehicle";

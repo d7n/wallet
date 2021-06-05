@@ -1,1 +1,1 @@
-var mnemonic = "draft sadness desert lift pass crack unusual sort please switch glare adult";
+var mnemonic = "immune luxury beef wine path history catalog pudding hockey obvious sad airport";

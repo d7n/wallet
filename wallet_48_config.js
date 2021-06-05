@@ -1,1 +1,1 @@
-var mnemonic = "trash stumble pyramid alcohol glare fire raven fever omit dream income draw";
+var mnemonic = "trim repeat field deer dice stuff moon tonight theory scheme grocery okay";

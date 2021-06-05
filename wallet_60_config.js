@@ -1,1 +1,1 @@
-var mnemonic = "blind ahead taste lemon zoo topple custom observe suspect pudding combine shuffle";
+var mnemonic = "spike proof good teach expect help omit toward useful orchard cricket bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "point chronic enjoy pact bronze number issue steak pilot design huge weird";
+var mnemonic = "success asset dentist advance swallow attitude onion dinner amazing black enrich inner";

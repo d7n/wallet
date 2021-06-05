@@ -1,1 +1,1 @@
-var mnemonic = "city come unlock actress property tornado nut found elegant state style excite";
+var mnemonic = "barely valley never suggest muscle exit fall song grit during antenna mixture";

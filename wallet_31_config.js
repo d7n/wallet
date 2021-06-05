@@ -1,1 +1,1 @@
-var mnemonic = "uphold movie capital hub certain ribbon ancient write shaft zoo link brass";
+var mnemonic = "jealous caution bread sun sudden polar enable mansion clay goat solution area";

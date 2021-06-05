@@ -1,1 +1,1 @@
-var mnemonic = "method harvest build fold sadness leg dolphin female happy morning process atom";
+var mnemonic = "assist purity act garment gun whale benefit tomorrow used flip innocent knock";

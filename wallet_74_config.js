@@ -1,1 +1,1 @@
-var mnemonic = "route release occur enter castle galaxy mind edit great october turtle stove";
+var mnemonic = "tackle warrior damage leader comic midnight grab whip fruit meat gauge trade";

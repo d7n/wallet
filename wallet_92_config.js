@@ -1,1 +1,1 @@
-var mnemonic = "coach odor canal organ smooth celery legal render middle chef quick august";
+var mnemonic = "illness other village aunt easily print word buyer dilemma dizzy level elegant";

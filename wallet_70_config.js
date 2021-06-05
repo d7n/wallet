@@ -1,1 +1,1 @@
-var mnemonic = "dog top trigger theme husband else absent elephant weather head shuffle improve";
+var mnemonic = "ordinary sock wreck win century address weapon need slight wrap sense mobile";

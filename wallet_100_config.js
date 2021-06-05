@@ -1,1 +1,1 @@
-var mnemonic = "bus kite citizen pet moon arena zebra loop park sorry slice nation";
+var mnemonic = "story giraffe donate loud frozen warrior laundry put menu stick case rescue";

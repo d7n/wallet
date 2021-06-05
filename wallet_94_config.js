@@ -1,1 +1,1 @@
-var mnemonic = "swallow paper glue join umbrella shrimp evidence aim april cool what surface";
+var mnemonic = "fall color cave diesel gentle damp tiny hidden legend sad defy garbage";

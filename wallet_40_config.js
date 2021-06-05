@@ -1,1 +1,1 @@
-var mnemonic = "client bread cliff hundred juice coin fantasy abandon secret smile manual ship";
+var mnemonic = "trigger aware step move false brick dress lesson thank tide exact easily";

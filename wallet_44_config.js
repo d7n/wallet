@@ -1,1 +1,1 @@
-var mnemonic = "green borrow artist seven head metal thank element scissors taste learn allow";
+var mnemonic = "output eagle regret over drill universe crane lucky caution cricket athlete engage";

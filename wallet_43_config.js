@@ -1,1 +1,1 @@
-var mnemonic = "husband drink diet margin birth question canal drastic million custom small risk";
+var mnemonic = "slight edge play capable auto flip hollow retreat antenna syrup faith faith";

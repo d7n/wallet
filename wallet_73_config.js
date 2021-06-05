@@ -1,1 +1,1 @@
-var mnemonic = "black diary invite ball seed mask divide shiver hand nice come twice";
+var mnemonic = "budget squeeze recycle enroll shrug skin fringe trend alter win tone demise";

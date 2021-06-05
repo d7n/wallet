@@ -1,1 +1,1 @@
-var mnemonic = "excite erupt excess repair harvest flush pitch vanish river draw floor penalty";
+var mnemonic = "that payment payment hire finger true attack test head play solid gun";

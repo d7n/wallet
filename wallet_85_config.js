@@ -1,1 +1,1 @@
-var mnemonic = "million useful omit chief trash scene any tattoo biology century zebra love";
+var mnemonic = "train comic end witness fold bird ensure predict tackle oppose royal crisp";

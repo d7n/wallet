@@ -1,1 +1,1 @@
-var mnemonic = "sock sing sample blood dance bus identify grain grief shadow own annual";
+var mnemonic = "outside course viable turkey double circle modify sample scan priority royal swift";

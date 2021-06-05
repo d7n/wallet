@@ -1,1 +1,1 @@
-var mnemonic = "stem brown mushroom attitude bullet around coin define hover speak outdoor shiver";
+var mnemonic = "double real feed renew only fetch street van hidden salmon caution guitar";

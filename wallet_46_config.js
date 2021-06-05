@@ -1,1 +1,1 @@
-var mnemonic = "swift combine island blue health exhibit profit fringe expand upon acoustic parade";
+var mnemonic = "clown giant public phrase spirit govern expire option edit pistol deputy ceiling";

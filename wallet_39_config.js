@@ -1,1 +1,1 @@
-var mnemonic = "circle private enroll thunder sketch cattle maximum similar mixed coyote viable chase";
+var mnemonic = "fall vehicle strike visual axis autumn spring orbit praise innocent situate spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy elite sorry category destroy mind warrior eagle exchange warm early swim";
+var mnemonic = "coffee draft play purse page jazz broccoli nice over giggle cousin blade";

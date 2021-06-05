@@ -1,1 +1,1 @@
-var mnemonic = "beauty jump draft plunge strike water book sell improve unveil trial pet";
+var mnemonic = "capable quantum occur virus control edge script category hunt noble warrior satoshi";

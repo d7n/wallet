@@ -1,1 +1,1 @@
-var mnemonic = "van despair lock comic wish skin occur dizzy address milk pyramid normal";
+var mnemonic = "melt hundred glad unit chef smooth color moral response trouble dragon unaware";

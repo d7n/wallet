@@ -1,1 +1,1 @@
-var mnemonic = "color universe endless broken this fall envelope online permit only embark service";
+var mnemonic = "apology relax repair super fall report easily cram body invite into economy";

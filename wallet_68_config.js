@@ -1,1 +1,1 @@
-var mnemonic = "fluid nephew pear roof depth execute boy hub smart race wide clinic";
+var mnemonic = "toddler success able cousin planet couch section infant wave alpha eyebrow usual";

@@ -1,1 +1,1 @@
-var mnemonic = "loud soap demise desert video shrimp upgrade short pottery trip talk owner";
+var mnemonic = "warm dish present tissue secret panda coach mechanic tiger someone resemble miracle";

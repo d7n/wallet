@@ -1,1 +1,1 @@
-var mnemonic = "end mouse fuel verify rain rate act cactus scene point output merit";
+var mnemonic = "prison neglect lumber mad lobster stereo used float where animal corn swarm";

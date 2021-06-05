@@ -1,1 +1,1 @@
-var mnemonic = "almost sad captain sniff replace earth refuse attract consider fuel blood blast";
+var mnemonic = "transfer snack pottery ship ordinary multiply reform click across finish river pledge";

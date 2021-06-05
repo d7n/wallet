@@ -1,1 +1,1 @@
-var mnemonic = "victory science patch know lecture resemble draft success limit divide spawn blast";
+var mnemonic = "bachelor young solar same illegal ball light betray brush bulk adult amateur";

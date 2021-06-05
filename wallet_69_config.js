@@ -1,1 +1,1 @@
-var mnemonic = "feed negative window phone begin catalog loop hood iron exact true ask";
+var mnemonic = "humble gossip sunset achieve vintage diesel salmon bronze horn creek lyrics limb";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cycle invite tenant panther runway bless tuition dry leg escape diagram";
+var mnemonic = "admit viable love few stable lava radar else save gentle supply assault";

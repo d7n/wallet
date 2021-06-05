@@ -1,1 +1,1 @@
-var mnemonic = "give inside loyal shiver ability urban demand include design hard magic will";
+var mnemonic = "define perfect cycle father once apart offer figure oval pistol arrange budget";

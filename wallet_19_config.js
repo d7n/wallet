@@ -1,1 +1,1 @@
-var mnemonic = "beyond dwarf slush dice old welcome estate senior mind ahead quality measure";
+var mnemonic = "novel forest develop sugar antenna crazy scheme enlist cushion ketchup because figure";

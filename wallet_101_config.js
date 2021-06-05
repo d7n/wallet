@@ -1,1 +1,1 @@
-var mnemonic = "screen boss door inspire donate donor defense village talent cargo resource exhibit";
+var mnemonic = "bottom miss endless you vibrant disagree shoot hello remain page mouse fiscal";

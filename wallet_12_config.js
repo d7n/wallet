@@ -1,1 +1,1 @@
-var mnemonic = "cotton margin easy rotate tool east camera grab desk boy true hurdle";
+var mnemonic = "office escape couple nut cute web brown member client unfair rebuild sea";

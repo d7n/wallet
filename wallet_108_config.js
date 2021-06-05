@@ -1,1 +1,1 @@
-var mnemonic = "sight click repair try tennis route slogan issue finger prosper oil exit";
+var mnemonic = "reveal skirt puppy area runway nuclear luxury blood canoe meadow fossil drink";

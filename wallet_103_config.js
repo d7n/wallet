@@ -1,1 +1,1 @@
-var mnemonic = "virtual stereo moon unfair pencil depart join pumpkin crouch wedding fitness end";
+var mnemonic = "opera real repeat wing network eagle ritual photo taxi spin cattle include";

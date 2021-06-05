@@ -1,1 +1,1 @@
-var mnemonic = "crash embody twice swift image today change heart olympic upper plate mushroom";
+var mnemonic = "excess trophy please fluid life cup fabric scrap rookie mango gaze exhibit";

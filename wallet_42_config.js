@@ -1,1 +1,1 @@
-var mnemonic = "stool enforce wreck express replace raise visa liar chalk solution reject margin";
+var mnemonic = "lawsuit lecture matrix mention legal concert walnut peace destroy crush scare note";

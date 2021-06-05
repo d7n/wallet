@@ -1,1 +1,1 @@
-var mnemonic = "educate depth poverty crouch under bubble fury turtle general round caught jelly";
+var mnemonic = "blade exit jelly candy nose stuff tail horror marriage human gasp fall";

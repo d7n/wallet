@@ -1,1 +1,1 @@
-var mnemonic = "canyon muffin dust antique veteran jacket maximum twice merry core total diesel";
+var mnemonic = "width actor cabbage hour rice solid become scale endorse laundry often also";

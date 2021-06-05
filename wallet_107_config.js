@@ -1,1 +1,1 @@
-var mnemonic = "unable found desk use bleak because enjoy motor winner popular bless reveal";
+var mnemonic = "dignity jacket favorite box liquid globe media evolve zone breeze cabin twelve";

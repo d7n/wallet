@@ -1,1 +1,1 @@
-var mnemonic = "crouch glide north renew execute artwork coyote bus swim document maze spice";
+var mnemonic = "sponsor monkey bundle save flee mosquito power trust beach giraffe burden found";

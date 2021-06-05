@@ -1,1 +1,1 @@
-var mnemonic = "silver calm sweet pear either visual olympic omit absent elegant always reward";
+var mnemonic = "prize clinic shiver garlic conduct sugar state business task nominee pilot crystal";

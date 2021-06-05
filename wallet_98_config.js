@@ -1,1 +1,1 @@
-var mnemonic = "hobby size burst switch siren coconut poet truck capital best wave acquire";
+var mnemonic = "alien bullet deal peace knife engage warfare left dwarf federal size abuse";

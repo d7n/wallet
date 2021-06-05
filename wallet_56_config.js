@@ -1,1 +1,1 @@
-var mnemonic = "month drive cat lyrics million shoot okay music present ginger stadium result";
+var mnemonic = "exact thumb roof sign category whale above sword push blood rate orbit";

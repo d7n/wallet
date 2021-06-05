@@ -1,1 +1,1 @@
-var mnemonic = "aspect weekend concert stool dust tornado fresh strike manual raw tongue flame";
+var mnemonic = "bus palace fluid usual tag rude remember delay chicken element wire spoon";

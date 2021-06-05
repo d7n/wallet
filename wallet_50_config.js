@@ -1,1 +1,1 @@
-var mnemonic = "meadow quantum unhappy foam large lava best crew draw fever satisfy infant";
+var mnemonic = "cabbage super burger actual law market obey dinosaur picture awkward beauty merit";

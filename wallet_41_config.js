@@ -1,1 +1,1 @@
-var mnemonic = "tree soldier guard physical tiger adapt broom gorilla wheat rose claw online";
+var mnemonic = "arrow creek lunch noodle anxiety pitch time curve close isolate spoon venture";

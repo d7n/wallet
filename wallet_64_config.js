@@ -1,1 +1,1 @@
-var mnemonic = "unfold ahead duck blast glove sudden lobster lens honey predict subway draft";
+var mnemonic = "abuse science warfare uniform soft subject badge sadness actual blast pony can";

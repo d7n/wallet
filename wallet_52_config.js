@@ -1,1 +1,1 @@
-var mnemonic = "lazy surprise proud want wreck spider crew century push identify pupil bench";
+var mnemonic = "fragile mushroom urban security build divide elevator asthma friend copy execute cricket";

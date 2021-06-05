@@ -1,1 +1,1 @@
-var mnemonic = "banana dilemma naive dragon puppy sort decrease uncle cake sheriff sugar road";
+var mnemonic = "clock toe desk bus soldier hazard now dentist extend rail rebuild cushion";

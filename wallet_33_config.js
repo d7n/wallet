@@ -1,1 +1,1 @@
-var mnemonic = "put fresh plate young nominee icon news symptom prosper pattern toe vicious";
+var mnemonic = "ranch table need dial farm crane claw cover praise border feature correct";

@@ -1,1 +1,1 @@
-var mnemonic = "miss file improve pulp priority inside pattern cause spread real rent core";
+var mnemonic = "swift army happy marble agent busy symbol industry evil ordinary know crew";

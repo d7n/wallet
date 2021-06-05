@@ -1,1 +1,1 @@
-var mnemonic = "settle bench slab retreat armed then wife acquire clock view rival expand";
+var mnemonic = "fragile exotic morning asthma drive useless vapor tortoise denial venue knee state";

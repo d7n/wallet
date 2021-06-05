@@ -1,1 +1,1 @@
-var mnemonic = "motor cabbage satoshi motor much item short onion palm shallow near deposit";
+var mnemonic = "skirt random call sea trust cruise trigger anchor want nature nothing relax";

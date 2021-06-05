@@ -1,1 +1,1 @@
-var mnemonic = "grape evidence maze hood avocado return fire senior note dress bubble ridge";
+var mnemonic = "hand street asthma illegal fury gesture yellow ski cool dance liquid soon";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus electric glass scare blind pretty theory cycle dragon viable cover broccoli";
+var mnemonic = "solar occur desert brother cup portion cushion return dumb control cream bright";

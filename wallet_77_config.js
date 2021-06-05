@@ -1,1 +1,1 @@
-var mnemonic = "rough month cave clever fish tube dilemma entry crucial minimum spray cage";
+var mnemonic = "pistol eternal hat obtain object scissors donkey live enlist feed truck hill";

@@ -1,1 +1,1 @@
-var mnemonic = "top toddler round scatter wire text ginger metal spread text prison spell";
+var mnemonic = "game wreck staff spare rule village lend hole stage bitter range nice";

@@ -1,1 +1,1 @@
-var mnemonic = "allow idle special edge brass leader quiz noble erosion tired winter stumble";
+var mnemonic = "emotion liberty screen destroy drastic earn taste lab helmet vivid frost salute";

@@ -1,1 +1,1 @@
-var mnemonic = "slice mom era pumpkin shell final chaos banana skill expire age ramp";
+var mnemonic = "trap govern such craft mixed warm game kitchen category broken web step";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp together arrive match pupil fluid today autumn lawn swing game then";
+var mnemonic = "divorce symptom lounge congress rescue obscure success roof hidden remind tuna enlist";
