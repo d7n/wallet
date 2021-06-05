@@ -1,1 +1,1 @@
-var mnemonic = "sponsor time input nasty cart detail era dune recycle pig kid cousin";
+var mnemonic = "slam canvas olympic describe cart sport cushion play upgrade dentist stairs area";

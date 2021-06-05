@@ -1,1 +1,1 @@
-var mnemonic = "release false sauce toy cactus genre upon pool student conduct jazz undo";
+var mnemonic = "verb once gallery seminar coast sleep citizen never give defense black uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "spy stereo kind prefer camp throw kitten error fancy nephew wheel nation";
+var mnemonic = "similar media angry margin sad reduce blush crash steak unfold meadow health";

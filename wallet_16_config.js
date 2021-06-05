@@ -1,1 +1,1 @@
-var mnemonic = "tail say summer share door gold magnet accident spirit chapter flush snow";
+var mnemonic = "peace forest wise metal cluster truth magic defense bundle stand size glimpse";

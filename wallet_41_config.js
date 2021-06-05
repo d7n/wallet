@@ -1,1 +1,1 @@
-var mnemonic = "you excite spin horn noise doll song explain awful frequent frequent wrap";
+var mnemonic = "spy enable grant magnet tip hub front wolf wrong edge essence multiply";

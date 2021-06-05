@@ -1,1 +1,1 @@
-var mnemonic = "memory target hawk column involve warrior drop thing daring twenty mystery protect";
+var mnemonic = "gentle scale curious cheese impact hamster habit hip short spy salt body";

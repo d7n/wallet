@@ -1,1 +1,1 @@
-var mnemonic = "run fruit impose noise match test video entry switch decade multiply dove";
+var mnemonic = "save olympic exhibit laundry neglect voice answer curve fury edge adjust above";

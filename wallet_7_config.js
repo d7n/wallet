@@ -1,1 +1,1 @@
-var mnemonic = "tiger few nature climb design marriage alert nice spin coin crush together";
+var mnemonic = "piece cargo allow mistake theme hint sibling marine act focus swamp cycle";

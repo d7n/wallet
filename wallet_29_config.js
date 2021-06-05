@@ -1,1 +1,1 @@
-var mnemonic = "body image athlete detect bronze glimpse chair eternal eager hat quantum income";
+var mnemonic = "keep witness raccoon garment try blur beyond distance bind change kid sniff";

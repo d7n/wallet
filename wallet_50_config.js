@@ -1,1 +1,1 @@
-var mnemonic = "stage foil runway setup life caught taxi episode dust unable trade medal";
+var mnemonic = "oppose swallow kingdom front virtual ghost code mercy float alley sting major";

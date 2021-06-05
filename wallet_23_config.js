@@ -1,1 +1,1 @@
-var mnemonic = "owner order slab spice similar infant top cool wide entry negative broken";
+var mnemonic = "side spend tornado trick combine better neutral craft key swing hobby mosquito";

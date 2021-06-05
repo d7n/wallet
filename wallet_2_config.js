@@ -1,1 +1,1 @@
-var mnemonic = "forest aspect plastic fold wool vote fantasy curve lamp doctor crystal tiny";
+var mnemonic = "remember path fame drive mad trend seminar word friend diet diet scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "student language identify firm trick thank lonely chimney bread shield wash light";
+var mnemonic = "tell tiny suit erosion grow earth club jar crunch share index smart";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow arrow clarify duty burden scorpion joy deposit shock client liberty expose";
+var mnemonic = "black kind rib jazz crouch hour yellow marriage wrong opera drink ankle";

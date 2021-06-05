@@ -1,1 +1,1 @@
-var mnemonic = "social sting funny fiber main avoid boring achieve weasel praise mosquito deposit";
+var mnemonic = "setup harsh cement indoor smooth mosquito bag often sight salt junior tail";

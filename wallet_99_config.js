@@ -1,1 +1,1 @@
-var mnemonic = "oppose legend wire load unusual woman media melody castle sugar world private";
+var mnemonic = "cook goat oxygen state next limb lens phone update uncle gallery tortoise";

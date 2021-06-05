@@ -1,1 +1,1 @@
-var mnemonic = "capable injury battle laugh federal fatigue spider follow thunder crop inform dirt";
+var mnemonic = "fade sentence jaguar filter match gloom unable range tube section broccoli affair";

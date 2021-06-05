@@ -1,1 +1,1 @@
-var mnemonic = "intact pet live laundry material gallery symptom sport taxi era emotion motor";
+var mnemonic = "blouse burden viable veteran hybrid reason million derive chimney memory delay unfold";

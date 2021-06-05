@@ -1,1 +1,1 @@
-var mnemonic = "genius among ceiling situate hobby ensure sauce cube junior bag zebra session";
+var mnemonic = "payment banner motion search damp report universe agree transfer flash faith fuel";

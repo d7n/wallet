@@ -1,1 +1,1 @@
-var mnemonic = "effort fitness wet desert replace artefact again okay frost maximum minute health";
+var mnemonic = "sauce cage museum heart human stomach dose image near buyer ocean middle";

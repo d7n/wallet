@@ -1,1 +1,1 @@
-var mnemonic = "immune praise sense gesture report dance category daring cross found tone muffin";
+var mnemonic = "peace income draw whip will bacon reflect flower mix disagree practice disagree";

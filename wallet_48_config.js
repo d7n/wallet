@@ -1,1 +1,1 @@
-var mnemonic = "idea student mail recipe citizen fiction shoe smart predict mass custom elegant";
+var mnemonic = "future recycle entry expire library fatigue digital quick ahead draft modify other";

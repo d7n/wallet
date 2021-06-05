@@ -1,1 +1,1 @@
-var mnemonic = "afford hurry cat enable consider curve peanut segment advance ship spend empower";
+var mnemonic = "endorse crime scorpion believe pupil lottery crawl cool slow little loud lady";

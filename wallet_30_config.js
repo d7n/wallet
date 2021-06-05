@@ -1,1 +1,1 @@
-var mnemonic = "cake winter case average grab famous hair rice mosquito hurdle aim cradle";
+var mnemonic = "also replace world usage able load frame clump dash defy assault mixed";

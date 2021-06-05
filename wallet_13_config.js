@@ -1,1 +1,1 @@
-var mnemonic = "pole hole owner fancy gossip session fatal chaos core west unlock educate";
+var mnemonic = "chef left patient gauge prison boring element mother affair afraid arena fence";

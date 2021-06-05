@@ -1,1 +1,1 @@
-var mnemonic = "payment wrong inquiry voyage cute deposit negative rib ready split depend kidney";
+var mnemonic = "silver power video stadium equal double mountain jaguar betray exit edit grape";

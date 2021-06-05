@@ -1,1 +1,1 @@
-var mnemonic = "color limit fun clock advice share test phrase daring tattoo session adult";
+var mnemonic = "year organ conduct story faith gap describe service theme together soup planet";

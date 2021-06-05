@@ -1,1 +1,1 @@
-var mnemonic = "hire lady gap useless approve goat demand pizza install quote wrestle cliff";
+var mnemonic = "evidence diamond note citizen tube purse shrug drill resist actual three sea";

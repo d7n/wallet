@@ -1,1 +1,1 @@
-var mnemonic = "nurse blossom wide affair boat nurse cage puzzle offer this visa frost";
+var mnemonic = "sun frown cruel oven sibling black travel away current attack juice secret";

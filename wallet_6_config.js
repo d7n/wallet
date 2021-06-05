@@ -1,1 +1,1 @@
-var mnemonic = "large mesh believe object tourist arrest best denial bunker vendor gather creek";
+var mnemonic = "achieve near lizard paddle define gentle elite visa vivid science anxiety celery";

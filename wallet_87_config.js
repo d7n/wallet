@@ -1,1 +1,1 @@
-var mnemonic = "leg dragon razor oil volume upset atom repair jaguar chimney excuse wool";
+var mnemonic = "such argue word vanish endorse cable spoil board tell bottom sick leader";

@@ -1,1 +1,1 @@
-var mnemonic = "delay file attract involve cruise host skin obscure body undo follow venture";
+var mnemonic = "human track nothing electric trial hotel clarify depth reject defy payment elevator";

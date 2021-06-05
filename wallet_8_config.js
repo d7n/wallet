@@ -1,1 +1,1 @@
-var mnemonic = "attract access hammer emerge wheel write flower foil depart cool rough apart";
+var mnemonic = "before original grant noble congress ginger express exact actor load globe dust";

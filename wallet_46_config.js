@@ -1,1 +1,1 @@
-var mnemonic = "possible ranch check real cry latin word twin core neglect cannon knock";
+var mnemonic = "dune captain gold distance sunset minor exhaust grocery define disorder track enact";

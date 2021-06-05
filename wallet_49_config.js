@@ -1,1 +1,1 @@
-var mnemonic = "enemy border pave shine toast forum fox peasant vivid include mistake purse";
+var mnemonic = "original cloth because wise mention credit deny aisle onion side tumble crush";

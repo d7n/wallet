@@ -1,1 +1,1 @@
-var mnemonic = "stable search ugly music bottom tiger grid alpha silver almost crowd seminar";
+var mnemonic = "illness bless tongue duck whisper hedgehog attack rigid census top camp theory";

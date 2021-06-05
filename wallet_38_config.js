@@ -1,1 +1,1 @@
-var mnemonic = "certain gaze outer another slice pave aisle hobby off dove reject photo";
+var mnemonic = "hold income settle relax ripple final engage apology maze young reduce holiday";

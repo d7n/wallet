@@ -1,1 +1,1 @@
-var mnemonic = "oppose convince laugh disagree knock tip ivory news floor frown guide lounge";
+var mnemonic = "knee vanish sausage east brave innocent during rely hurt lake story small";

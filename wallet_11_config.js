@@ -1,1 +1,1 @@
-var mnemonic = "excuse lunch stomach ladder gain critic beef brand giraffe family wine pink";
+var mnemonic = "critic else network clerk friend nephew meat until cliff robot afraid tag";

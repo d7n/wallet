@@ -1,1 +1,1 @@
-var mnemonic = "drama throw shrug plastic kingdom true vintage digital nose lonely quote resemble";
+var mnemonic = "horn bullet hybrid sister help basic ribbon refuse disorder toss huge wage";

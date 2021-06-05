@@ -1,1 +1,1 @@
-var mnemonic = "cute trap fly bounce dice write gold abuse quantum crumble shed inspire";
+var mnemonic = "solve trial fury indoor blast blast test sing erosion double amazing domain";

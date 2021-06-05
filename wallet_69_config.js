@@ -1,1 +1,1 @@
-var mnemonic = "tray slight crane guide soldier civil step broom library amazing ignore ability";
+var mnemonic = "wait regular melody pen exchange solar pink witness end tube mimic current";

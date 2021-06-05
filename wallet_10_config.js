@@ -1,1 +1,1 @@
-var mnemonic = "shuffle flower like father analyst frame become section pride oppose exclude flush";
+var mnemonic = "waste myth body later front resemble wrist hurry weather bean hope execute";

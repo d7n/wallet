@@ -1,1 +1,1 @@
-var mnemonic = "pilot sword antique broccoli width emerge swamp unfold glimpse eight rival cage";
+var mnemonic = "blush dream combine crumble change throw now panic visa dilemma leg bone";

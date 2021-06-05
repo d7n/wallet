@@ -1,1 +1,1 @@
-var mnemonic = "firm palace simple salmon avocado place category decade team discover gas enlist";
+var mnemonic = "exhaust village equal junk series forum impulse clog simple save range fat";

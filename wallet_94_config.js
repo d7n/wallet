@@ -1,1 +1,1 @@
-var mnemonic = "web hurt dragon purse assault almost boost lens vacant employ fabric cattle";
+var mnemonic = "manual gospel walnut dial jaguar drill loud load guard first fantasy sorry";

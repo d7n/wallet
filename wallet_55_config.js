@@ -1,1 +1,1 @@
-var mnemonic = "gaze tuition craft kitchen thank final alone tuna grass jaguar royal day";
+var mnemonic = "stereo remind table market strike culture cup clever legend edge insect tobacco";

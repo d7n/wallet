@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cost solution hurt allow spoon domain bitter fiscal idea witness weapon";
+var mnemonic = "onion defense announce force proud ship mask repair sphere dash another winner";

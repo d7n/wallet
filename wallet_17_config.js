@@ -1,1 +1,1 @@
-var mnemonic = "trim hollow creek dinosaur crowd lazy female sniff sorry spot path lunar";
+var mnemonic = "puzzle dash absorb sauce bamboo abandon concert slab ski rally hurt memory";

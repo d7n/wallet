@@ -1,1 +1,1 @@
-var mnemonic = "prison pulse work company trap fee shoulder orient bread romance else hotel";
+var mnemonic = "total pulp weekend clerk candy regular warm plunge dash boat media degree";

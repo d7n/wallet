@@ -1,1 +1,1 @@
-var mnemonic = "library task echo family believe velvet illness dignity discover play magnet drum";
+var mnemonic = "glad rich then unknown remove drastic expect shock shed elevator remain veteran";

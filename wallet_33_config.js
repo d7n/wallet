@@ -1,1 +1,1 @@
-var mnemonic = "payment equip vicious family ivory illness consider rescue panther recall piece year";
+var mnemonic = "drum trouble wasp occur clown around smile vehicle local reject thing suit";

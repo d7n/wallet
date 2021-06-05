@@ -1,1 +1,1 @@
-var mnemonic = "cage symbol witness reduce shaft welcome napkin danger slam flat forum topic";
+var mnemonic = "nice expire type act drift inquiry hurry project season dutch orbit squirrel";

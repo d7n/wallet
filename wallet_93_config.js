@@ -1,1 +1,1 @@
-var mnemonic = "flower also move control brisk royal demise clean master meat budget chair";
+var mnemonic = "glow shell grief lunch crowd office sausage core motion swarm feature shop";

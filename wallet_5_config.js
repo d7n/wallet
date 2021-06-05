@@ -1,1 +1,1 @@
-var mnemonic = "host merge turtle element cannon bar firm pyramid strike innocent network amount";
+var mnemonic = "correct trust core flavor day estate seven tenant test chase castle deputy";

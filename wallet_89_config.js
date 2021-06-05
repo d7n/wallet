@@ -1,1 +1,1 @@
-var mnemonic = "dumb nose dog glow afraid action salad orbit rubber color jacket wagon";
+var mnemonic = "federal fitness warrior mesh crawl hill tiger mandate mango horror thing ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "film carry twin dutch rigid maid renew lecture avoid airport exact harsh";
+var mnemonic = "damage erosion faith pitch piano solar argue arch surround family thumb crane";

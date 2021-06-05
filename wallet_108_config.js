@@ -1,1 +1,1 @@
-var mnemonic = "snack fashion victory lake sight common trial magic fire point rhythm correct";
+var mnemonic = "promote retire keen bullet drama stable laundry inspire pull spread latin tree";

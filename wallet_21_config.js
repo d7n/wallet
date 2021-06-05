@@ -1,1 +1,1 @@
-var mnemonic = "learn unaware trip involve sure impact someone better board enable top anger";
+var mnemonic = "kidney audit ancient invest lyrics place acid grit melody neglect giant amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "blast area turn kingdom example stone army weird tenant jazz arena salon";
+var mnemonic = "shy spare flock border during rude machine child flag position eager hazard";

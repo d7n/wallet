@@ -1,1 +1,1 @@
-var mnemonic = "skin pyramid bamboo pride ordinary rude alley carry motor pulp gate ozone";
+var mnemonic = "hammer just expand divorce brand prize knee impulse exclude marine bomb sting";

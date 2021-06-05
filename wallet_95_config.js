@@ -1,1 +1,1 @@
-var mnemonic = "noise doctor trap wish step fork fish pair truly grant crop cook";
+var mnemonic = "wedding sock fall gasp pass together ride image urge mix spring fiscal";

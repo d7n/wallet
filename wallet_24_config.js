@@ -1,1 +1,1 @@
-var mnemonic = "tired scheme remind crew nest coil destroy between scare mutual cancel conduct";
+var mnemonic = "prosper come donate dune claim bounce swallow shiver order typical mutual flip";

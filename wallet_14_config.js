@@ -1,1 +1,1 @@
-var mnemonic = "arena dismiss boy certain casual simple drink pattern office fabric grit mandate";
+var mnemonic = "mixture panel taste hood hamster gallery deer small pitch rally nasty panda";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger write token ghost crop neglect receive transfer audit swear raccoon add";
+var mnemonic = "frown cannon chalk coconut napkin time bar ceiling fog impulse similar tenant";

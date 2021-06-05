@@ -1,1 +1,1 @@
-var mnemonic = "put seven kangaroo floor spike floor boss luxury join home foam shoe";
+var mnemonic = "mother inform guilt explain genius video october dress bring recipe rhythm roof";

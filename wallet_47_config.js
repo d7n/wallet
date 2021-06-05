@@ -1,1 +1,1 @@
-var mnemonic = "tip senior blouse assault they rug blood dawn october source depart remain";
+var mnemonic = "lens sail super enter chaos explain volcano wisdom say guard whale scissors";

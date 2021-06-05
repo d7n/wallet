@@ -1,1 +1,1 @@
-var mnemonic = "finish where mushroom once ten quantum family grass denial cry firm sphere";
+var mnemonic = "spawn aunt concert ribbon brand gravity autumn educate tongue service between grocery";

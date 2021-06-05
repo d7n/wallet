@@ -1,1 +1,1 @@
-var mnemonic = "term entry person rain cloth tool pause fish federal wrist volume absent";
+var mnemonic = "child brown genius early shaft bar protect sorry keep skull bunker gorilla";

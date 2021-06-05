@@ -1,1 +1,1 @@
-var mnemonic = "sunny moon mistake liar main attend vendor chest ready aisle palm glass";
+var mnemonic = "hamster sleep together ancient child mouse actual sorry silk online summer marine";

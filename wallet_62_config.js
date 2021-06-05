@@ -1,1 +1,1 @@
-var mnemonic = "impulse bitter swap mutual resist dry dress wait reopen spatial school segment";
+var mnemonic = "brown picnic merry gym able good dumb rack bacon flip organ extra";

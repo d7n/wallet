@@ -1,1 +1,1 @@
-var mnemonic = "obey behave grab humor exist bacon auction silly win direct sniff distance";
+var mnemonic = "predict magnet matter taxi battle follow hammer bring found manage blast fever";

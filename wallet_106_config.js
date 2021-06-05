@@ -1,1 +1,1 @@
-var mnemonic = "fantasy blind world siege apart fancy market foil find lesson vessel capable";
+var mnemonic = "will gloom together trim maze warfare unit hip wrap crouch feel property";

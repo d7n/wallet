@@ -1,1 +1,1 @@
-var mnemonic = "price close teach seek surround learn summer hurry horse hundred enough illegal";
+var mnemonic = "shrug jewel idle fix just canvas emotion dirt mesh pioneer bulb print";

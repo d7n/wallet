@@ -1,1 +1,1 @@
-var mnemonic = "panic swamp claim fancy sort enjoy speak bullet source powder screen flash";
+var mnemonic = "pretty system crime dove vault mountain purchase west false dirt blush cabin";

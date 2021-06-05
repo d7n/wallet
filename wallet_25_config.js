@@ -1,1 +1,1 @@
-var mnemonic = "camp parade glad rose find garbage vessel reject rebel paddle label office";
+var mnemonic = "pole horse ahead current more share calm obey trust two ten wreck";

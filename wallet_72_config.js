@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tell limb fuel gossip way tiger float amount thumb razor valley";
+var mnemonic = "spirit public bar alarm useless private item fragile buzz person review piano";

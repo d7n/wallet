@@ -1,1 +1,1 @@
-var mnemonic = "recipe brisk emotion enhance stone laptop close crumble garlic badge globe immune";
+var mnemonic = "satoshi age click pistol runway appear park involve laugh invest race tail";

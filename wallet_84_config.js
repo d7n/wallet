@@ -1,1 +1,1 @@
-var mnemonic = "elephant purse quality remember awesome debris ask myth slot wealth snow exact";
+var mnemonic = "trap witness scout whip shrimp elbow weird fantasy icon easily list split";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos pole latin grape effort evidence sea convince limb type zero lyrics";
+var mnemonic = "surprise odor deer faith system deputy else glove yard yellow inquiry retreat";

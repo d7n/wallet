@@ -1,1 +1,1 @@
-var mnemonic = "fan left where aisle sure globe exclude slam pause twelve sting hammer";
+var mnemonic = "mercy hollow any idea leg tornado voice turkey stock chimney during allow";

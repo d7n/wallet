@@ -1,1 +1,1 @@
-var mnemonic = "quote provide unveil brick limb town soccer easily argue orange movie tourist";
+var mnemonic = "umbrella marine peasant unfold cloth release route decrease hat power during when";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn off pledge desk flee debate arrest spider acid push explain unknown";
+var mnemonic = "pizza finish pave verify update gym love solution salmon slab album oppose";

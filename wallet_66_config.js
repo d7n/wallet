@@ -1,1 +1,1 @@
-var mnemonic = "rookie scorpion joy away educate layer song flip oyster decline control upgrade";
+var mnemonic = "gain movie alpha gold summer nothing fence damage hospital method trash blame";

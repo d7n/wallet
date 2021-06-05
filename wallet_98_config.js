@@ -1,1 +1,1 @@
-var mnemonic = "cereal purse license dad page library start area bulb used oxygen twenty";
+var mnemonic = "intact trigger corn drum million symptom decade thought knee render upper squeeze";

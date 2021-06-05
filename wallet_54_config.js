@@ -1,1 +1,1 @@
-var mnemonic = "frost trick dose avoid paper language undo that aerobic together remove trap";
+var mnemonic = "strategy flavor bamboo frown remain key deer young load tobacco mammal beauty";

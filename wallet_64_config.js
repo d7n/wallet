@@ -1,1 +1,1 @@
-var mnemonic = "poverty bulk inflict undo reject memory forget rocket olympic prosper system version";
+var mnemonic = "expand anger exhibit symptom congress witness wet inspire jungle sadness grant observe";

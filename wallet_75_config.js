@@ -1,1 +1,1 @@
-var mnemonic = "unable cover exercise beach scale noise guilt dirt update write gorilla goddess";
+var mnemonic = "click journey filter grit select yard exhibit wonder project mushroom test category";

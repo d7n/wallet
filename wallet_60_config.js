@@ -1,1 +1,1 @@
-var mnemonic = "solar sick pact emotion dentist wash payment brown fresh online couple add";
+var mnemonic = "member hood rule tiger pencil result double immune ugly card buzz around";

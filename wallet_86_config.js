@@ -1,1 +1,1 @@
-var mnemonic = "design butter modify clever chapter birth sausage stable side push hour next";
+var mnemonic = "used brave brush place maple thrive disorder auto swarm click please lava";
