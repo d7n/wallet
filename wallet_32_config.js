@@ -1,1 +1,1 @@
-var mnemonic = "violin clerk real noodle advice rack term click rather unknown garbage floor";
+var mnemonic = "diagram interest liberty direct inch deer refuse cube clay include depend lumber";

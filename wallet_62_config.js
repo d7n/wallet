@@ -1,1 +1,1 @@
-var mnemonic = "lyrics surround insane sorry matter post purchase exist couple animal drop beyond";
+var mnemonic = "hand pigeon much business tank club moment fitness check champion lunch risk";

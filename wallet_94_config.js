@@ -1,1 +1,1 @@
-var mnemonic = "light horror exist asset muffin grid turtle brief system balance control onion";
+var mnemonic = "behave judge busy entire lock damage hip okay install young before defy";

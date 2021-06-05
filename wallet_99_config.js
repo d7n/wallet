@@ -1,1 +1,1 @@
-var mnemonic = "giggle silk typical regular remain nice hero dizzy elbow sure initial kitchen";
+var mnemonic = "afford dizzy car business destroy album need diary reveal maximum decrease notice";

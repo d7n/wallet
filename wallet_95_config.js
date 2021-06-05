@@ -1,1 +1,1 @@
-var mnemonic = "damage walnut raven salon goddess page cruise reveal chief circle kangaroo heavy";
+var mnemonic = "wine please process price radio harbor crisp book stand laugh fold hole";

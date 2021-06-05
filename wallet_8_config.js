@@ -1,1 +1,1 @@
-var mnemonic = "cricket stereo echo copper hub rent tongue method tree decide nothing age";
+var mnemonic = "elevator dust orient social glance olive myself now pupil man option razor";

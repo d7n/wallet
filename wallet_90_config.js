@@ -1,1 +1,1 @@
-var mnemonic = "include champion island word judge elite split silent spice dynamic cart about";
+var mnemonic = "clever elder impose answer ribbon waste foot nerve tower grass inner farm";

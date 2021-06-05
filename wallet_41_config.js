@@ -1,1 +1,1 @@
-var mnemonic = "uncle radar crane sock member pact arrange swear blouse retreat maze remind";
+var mnemonic = "elephant prefer coral surprise document melody amazing olive road armor eight forum";

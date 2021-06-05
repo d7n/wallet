@@ -1,1 +1,1 @@
-var mnemonic = "invest south innocent sketch paper truth insane milk oppose kiss parrot gown";
+var mnemonic = "stay equip chunk hour simple coral label quiz call crush forward early";

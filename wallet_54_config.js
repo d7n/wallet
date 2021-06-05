@@ -1,1 +1,1 @@
-var mnemonic = "keep gap marriage gap finish throw blossom glove trigger drum ahead sudden";
+var mnemonic = "purchase carpet priority carbon submit lucky knife bread update supply twelve bullet";

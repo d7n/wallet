@@ -1,1 +1,1 @@
-var mnemonic = "flash marble favorite bicycle dinner patient empower arm silver couple master toss";
+var mnemonic = "whip certain entire brass pencil truck tomato approve process glory away off";

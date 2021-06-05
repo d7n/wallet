@@ -1,1 +1,1 @@
-var mnemonic = "fringe finger patch method infant when junk bronze syrup identify response core";
+var mnemonic = "old simple expose mansion equal peasant forget valid junk hair path repeat";

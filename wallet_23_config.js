@@ -1,1 +1,1 @@
-var mnemonic = "neglect success chicken armed size clinic number put toilet pact unlock pink";
+var mnemonic = "until clarify cloth punch nephew coast razor tool setup outdoor example runway";

@@ -1,1 +1,1 @@
-var mnemonic = "rich wealth giraffe shock odor call talk firm notice fan average inspire";
+var mnemonic = "power mix civil cargo habit over cargo fashion ketchup actor hidden lemon";

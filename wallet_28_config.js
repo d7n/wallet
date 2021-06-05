@@ -1,1 +1,1 @@
-var mnemonic = "route salt cannon brief verb leopard law neutral little wide bone modify";
+var mnemonic = "confirm digital clown immune shine gather improve debate youth prosper route lawn";

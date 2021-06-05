@@ -1,1 +1,1 @@
-var mnemonic = "focus steel advice zebra senior agree vocal acquire outside globe fury hour";
+var mnemonic = "soon mystery hole engage federal token catalog ship shrug dinner seed fence";

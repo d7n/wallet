@@ -1,1 +1,1 @@
-var mnemonic = "maximum parade young devote winner ill uniform beef whale rather renew upgrade";
+var mnemonic = "glory power hint slight turn chase weekend sugar velvet pipe sorry truck";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue knife abandon metal table salt copper mobile supreme age kid bicycle";
+var mnemonic = "sibling radio champion reason fix reason deposit job legal speak canvas mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "salad diagram edit answer bless then swim metal lava task balcony occur";
+var mnemonic = "artefact tag slab eagle mixed angle sock lounge sort ecology leaf human";

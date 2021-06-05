@@ -1,1 +1,1 @@
-var mnemonic = "company gaze illness bless this ramp core mansion basic tower april economy";
+var mnemonic = "achieve rescue artefact cabin swing replace purity hold garlic steak unable penalty";

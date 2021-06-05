@@ -1,1 +1,1 @@
-var mnemonic = "october chef shy pull myth slab figure crater victory soda rapid ability";
+var mnemonic = "cake flat stadium bounce federal captain loop month clerk brass steel give";

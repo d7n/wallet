@@ -1,1 +1,1 @@
-var mnemonic = "item squirrel soup rent rapid moral fog shock mule guilt humble man";
+var mnemonic = "weasel affair gap predict viable walnut undo feel tennis gift tumble emerge";

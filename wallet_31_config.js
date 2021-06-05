@@ -1,1 +1,1 @@
-var mnemonic = "wave pledge radio anger wall fetch layer cluster midnight cost clean hamster";
+var mnemonic = "sniff patrol thrive kitten jungle fury leader advice toddler immune build display";

@@ -1,1 +1,1 @@
-var mnemonic = "rose wise egg scare gossip receive cotton congress fatal olympic ill conduct";
+var mnemonic = "athlete reunion aspect abstract blur hill range average prefer flag wool drama";

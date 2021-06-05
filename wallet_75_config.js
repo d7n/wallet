@@ -1,1 +1,1 @@
-var mnemonic = "foot gym deer tourist silk acid neutral ketchup essay shuffle spider now";
+var mnemonic = "refuse grocery apology wreck blue stool state run charge extend gospel habit";

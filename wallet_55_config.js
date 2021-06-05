@@ -1,1 +1,1 @@
-var mnemonic = "trash tube gain payment risk cinnamon rather champion token route gold way";
+var mnemonic = "exile file play awake glad valve birth donor news slab video cash";

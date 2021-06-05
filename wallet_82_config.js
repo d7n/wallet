@@ -1,1 +1,1 @@
-var mnemonic = "common state behind ice flock menu knee brass exist bounce dial fossil";
+var mnemonic = "method enjoy news wasp cry old round allow corn vendor album mean";

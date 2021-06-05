@@ -1,1 +1,1 @@
-var mnemonic = "token patrol alone differ immune monkey same math lobster tragic borrow approve";
+var mnemonic = "domain soldier ripple retire state acoustic train truth iron child click outer";

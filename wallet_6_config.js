@@ -1,1 +1,1 @@
-var mnemonic = "fiscal burst tragic front knock pitch spike whisper more badge enjoy world";
+var mnemonic = "damage judge ripple true photo setup video truck flight vivid soldier duty";

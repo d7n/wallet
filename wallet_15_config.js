@@ -1,1 +1,1 @@
-var mnemonic = "fork urge cotton tribe sorry pony motor valid tape egg suffer pass";
+var mnemonic = "mystery upper angry hat segment can tide hen front surge cricket crater";

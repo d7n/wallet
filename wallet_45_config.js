@@ -1,1 +1,1 @@
-var mnemonic = "amount motion blossom sunny oblige latin reveal right scheme solar expose extend";
+var mnemonic = "simple lab spin run truly tuition mountain plate fresh possible matrix calm";

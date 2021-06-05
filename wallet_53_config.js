@@ -1,1 +1,1 @@
-var mnemonic = "scout ramp chef cactus stone age retreat syrup now axis adapt release";
+var mnemonic = "cargo pyramid tooth embark orient silly across rival power mechanic creek witness";

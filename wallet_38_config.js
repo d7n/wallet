@@ -1,1 +1,1 @@
-var mnemonic = "old theme dune badge nose mouse cry emotion endless main puppy wrist";
+var mnemonic = "market either obvious cube wise section secret inject polar police banner rival";

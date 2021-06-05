@@ -1,1 +1,1 @@
-var mnemonic = "essay cruel track deliver camera give person attack sketch drift impose flip";
+var mnemonic = "chase wash betray keen inch acid voyage flip frost clock audit warfare";

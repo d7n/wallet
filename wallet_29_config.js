@@ -1,1 +1,1 @@
-var mnemonic = "boy nephew still wonder divorce spread pulp bike priority speed apple square";
+var mnemonic = "indoor steel barrel fee letter develop then before play worth female priority";

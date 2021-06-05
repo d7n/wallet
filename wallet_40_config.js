@@ -1,1 +1,1 @@
-var mnemonic = "oblige ritual fat apology hint paper forum goddess category shove earth tree";
+var mnemonic = "goat person shift leaf dust used prepare common lonely rib outside bacon";

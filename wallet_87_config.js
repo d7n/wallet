@@ -1,1 +1,1 @@
-var mnemonic = "truly upper whale panic slender path utility stand gate armed suffer tomorrow";
+var mnemonic = "upper document dismiss siren today jeans grief that fat near loop impulse";

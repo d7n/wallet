@@ -1,1 +1,1 @@
-var mnemonic = "people dinosaur pave mistake crouch evolve normal mail tiger correct nasty taxi";
+var mnemonic = "very swallow shift purchase outside someone exact shy ocean exact all luggage";

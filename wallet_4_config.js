@@ -1,1 +1,1 @@
-var mnemonic = "enroll cruel indicate change people cloud bicycle rather coral rose balcony pear";
+var mnemonic = "pizza smile nominee wheat frog theory deer spare honey license fat cat";

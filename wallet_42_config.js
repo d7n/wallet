@@ -1,1 +1,1 @@
-var mnemonic = "rude elephant gown fix much witness slush night want rely side round";
+var mnemonic = "sword addict guitar width hobby cannon ribbon scrub favorite wink large verb";

@@ -1,1 +1,1 @@
-var mnemonic = "say icon small bread people snack chef estate boost blade snow you";
+var mnemonic = "witness detect dinosaur letter obey pioneer laptop hello card manage spoil burst";

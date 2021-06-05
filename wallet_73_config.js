@@ -1,1 +1,1 @@
-var mnemonic = "forest ordinary cushion ill scene harbor enter earn remain fold educate injury";
+var mnemonic = "shell cost collect theme pole pattern clever busy industry pepper error mammal";

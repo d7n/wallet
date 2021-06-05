@@ -1,1 +1,1 @@
-var mnemonic = "awesome cost fall today notice city attract unhappy tragic harbor list bike";
+var mnemonic = "fatigue hero stay exist spray page dog build capital satisfy river image";

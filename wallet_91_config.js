@@ -1,1 +1,1 @@
-var mnemonic = "cube intact purpose wear judge game off vibrant cabbage vendor random addict";
+var mnemonic = "inspire caution prosper model assault unique peace able obvious swarm frequent police";

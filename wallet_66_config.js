@@ -1,1 +1,1 @@
-var mnemonic = "arch case strategy casino often power emerge combine stem fly pudding transfer";
+var mnemonic = "arena wasp inquiry case bridge wall portion alarm rotate city auction public";

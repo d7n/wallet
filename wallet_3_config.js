@@ -1,1 +1,1 @@
-var mnemonic = "capital spread blossom surface silent used same juice recipe feel quit fatigue";
+var mnemonic = "guess economy fatal stuff attack olympic lens city spare where friend retreat";

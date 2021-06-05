@@ -1,1 +1,1 @@
-var mnemonic = "brush brother kangaroo tortoise round public giggle device very put salad attack";
+var mnemonic = "glad laptop fold volcano absent leaf coffee foot nuclear attitude talk insect";

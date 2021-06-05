@@ -1,1 +1,1 @@
-var mnemonic = "reflect element frown tissue must swim quarter tube lecture nominee old aunt";
+var mnemonic = "unhappy sentence royal bone ridge plastic cross rural dry win gospel know";

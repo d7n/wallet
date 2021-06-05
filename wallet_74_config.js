@@ -1,1 +1,1 @@
-var mnemonic = "chair pottery spawn mail traffic average pet because wage open shy notice";
+var mnemonic = "depth purse kiwi garlic erode error fashion excess rural athlete faith shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer enemy valley orange trophy resemble lottery demand erode party test rate";
+var mnemonic = "volcano divide decline prosper rural symbol defy neck flat cup screen swallow";

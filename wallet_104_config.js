@@ -1,1 +1,1 @@
-var mnemonic = "staff uncle fence unhappy fog garbage ugly grid spell render artwork frost";
+var mnemonic = "carpet ecology alley spell jar any jazz render foster tongue sheriff arrow";

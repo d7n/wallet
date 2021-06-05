@@ -1,1 +1,1 @@
-var mnemonic = "excess excite dutch addict result season payment exhaust attack argue dash artefact";
+var mnemonic = "expire success hammer east chuckle office clip surface fan quantum hole race";

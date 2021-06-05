@@ -1,1 +1,1 @@
-var mnemonic = "endorse measure detect total ill keep bulb observe torch glad prevent satoshi";
+var mnemonic = "kiss buyer tone gesture live lizard mango leg pair rail permit practice";

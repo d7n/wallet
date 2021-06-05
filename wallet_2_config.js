@@ -1,1 +1,1 @@
-var mnemonic = "patient ladder debris defense viable crane obscure torch real twice base despair";
+var mnemonic = "energy relax hub gadget trust violin add disagree wasp confirm number paper";

@@ -1,1 +1,1 @@
-var mnemonic = "boy then brain plunge tribe very angle clinic duty consider swear casino";
+var mnemonic = "forward tragic vote physical pole keen fox eagle clever betray rhythm collect";

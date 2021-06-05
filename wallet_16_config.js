@@ -1,1 +1,1 @@
-var mnemonic = "camp twice interest awful aunt sorry target wine steak funny immune emerge";
+var mnemonic = "begin crumble bird romance essence tennis rely original narrow gorilla offer can";

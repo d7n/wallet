@@ -1,1 +1,1 @@
-var mnemonic = "shaft acquire bicycle feed possible heart reveal unusual wagon bacon neck borrow";
+var mnemonic = "lens unique salute pole tag concert sample boat accuse penalty few upset";

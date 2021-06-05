@@ -1,1 +1,1 @@
-var mnemonic = "spend cube claim excuse ancient minimum gallery paper assume moon smile mansion";
+var mnemonic = "either behave purity uniform grab palm legend lake trouble shoulder purpose online";

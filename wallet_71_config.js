@@ -1,1 +1,1 @@
-var mnemonic = "correct peasant album city lunar budget list staff youth echo foil barrel";
+var mnemonic = "detect radio canoe burger field manual debate merge capable fashion december affair";

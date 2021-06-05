@@ -1,1 +1,1 @@
-var mnemonic = "guilt enforce favorite autumn dilemma topic major know ankle license evoke snack";
+var mnemonic = "brown tooth ability code valley hurt love morning electric sense idle angle";

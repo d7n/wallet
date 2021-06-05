@@ -1,1 +1,1 @@
-var mnemonic = "taxi menu copy pave dizzy joy increase phone liar spend online earth";
+var mnemonic = "identify undo promote outer inhale rural energy proof tumble auction country immense";

@@ -1,1 +1,1 @@
-var mnemonic = "check clog idle empower culture keep close print infant picture avoid token";
+var mnemonic = "cake fluid since coral lab nominee wet second thing bottom fresh favorite";

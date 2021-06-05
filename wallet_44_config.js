@@ -1,1 +1,1 @@
-var mnemonic = "convince divert obey cave gloom barrel identify breeze entire toast wish about";
+var mnemonic = "ability limb love shrimp wheat mammal van embody alcohol pumpkin index stove";

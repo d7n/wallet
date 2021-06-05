@@ -1,1 +1,1 @@
-var mnemonic = "april push survey extend lens index spatial trade inmate toy treat mean";
+var mnemonic = "renew expand decrease execute river lunch buffalo pledge close tissue minor visual";

@@ -1,1 +1,1 @@
-var mnemonic = "cook elevator joke bitter street bleak main cable misery cross mansion picnic";
+var mnemonic = "total animal sleep junior super flush tragic frequent crouch order juice hotel";

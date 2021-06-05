@@ -1,1 +1,1 @@
-var mnemonic = "sign sorry purpose junk alarm planet glove earth fish ripple feed axis";
+var mnemonic = "uncover dizzy slender syrup napkin lecture salmon home draw speed output valve";

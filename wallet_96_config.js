@@ -1,1 +1,1 @@
-var mnemonic = "soda strike glow veteran engine attend have rich surround stem feed plug";
+var mnemonic = "mention despair drill faculty group boost talent twin already machine target promote";

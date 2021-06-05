@@ -1,1 +1,1 @@
-var mnemonic = "boy kangaroo sing below myself mosquito gadget melody humble ocean oyster timber";
+var mnemonic = "weapon volume index capable spoon annual barely project ivory circle topic fog";

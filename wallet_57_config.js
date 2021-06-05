@@ -1,1 +1,1 @@
-var mnemonic = "narrow brown gaze vehicle gas mansion hunt miss circle prison armed mistake";
+var mnemonic = "east negative lamp defense cabbage ozone enable comic sadness orient edge argue";

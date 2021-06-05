@@ -1,1 +1,1 @@
-var mnemonic = "kingdom lake magnet photo uniform curious bright kitten portion rare buddy science";
+var mnemonic = "drip piece forget badge outdoor hill visa observe aware crumble blind aspect";

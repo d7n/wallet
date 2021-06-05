@@ -1,1 +1,1 @@
-var mnemonic = "someone eyebrow clean shift rotate resemble flag screen age shine mirror drive";
+var mnemonic = "solve mistake cool wing crop liberty alley injury awful consider solution embody";

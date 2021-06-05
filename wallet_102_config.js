@@ -1,1 +1,1 @@
-var mnemonic = "derive profit trial album hobby index below unfold arm supply define horror";
+var mnemonic = "lens deer wine base bleak weather actual basic gossip promote pupil recycle";

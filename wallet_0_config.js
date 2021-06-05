@@ -1,1 +1,1 @@
-var mnemonic = "shrug admit own kingdom reopen wealth cloth shoulder brown sadness veteran bitter";
+var mnemonic = "story bus alley shallow physical suggest fresh about damage cage donkey helmet";

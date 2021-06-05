@@ -1,1 +1,1 @@
-var mnemonic = "october rubber regular length anger turtle pyramid faint alone message visa spike";
+var mnemonic = "small face snap field speak bag sphere engine front wrap panther exist";

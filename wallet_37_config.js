@@ -1,1 +1,1 @@
-var mnemonic = "return steak banana grant guard solar poet road range cattle truth rack";
+var mnemonic = "when sword anchor intact actual chalk dish sweet treat type agree caution";

@@ -1,1 +1,1 @@
-var mnemonic = "small nominee damp palm lock inflict kidney journey dress curious pink common";
+var mnemonic = "desert include reform bacon liar seat ten situate silent wide capital diagram";

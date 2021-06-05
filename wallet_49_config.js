@@ -1,1 +1,1 @@
-var mnemonic = "box patient chief economy grant yard pen assault patient super police hint";
+var mnemonic = "rabbit hazard coyote giraffe marine apple minimum hard uncover autumn judge swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "require stand jacket kitten glance liberty school oak resemble frown pencil post";
+var mnemonic = "govern exile solar topple pass frost hero sister fog organ ask october";

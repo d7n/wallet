@@ -1,1 +1,1 @@
-var mnemonic = "custom clump shed atom firm belt coconut champion brand surge verify index";
+var mnemonic = "soup secret vital among clutch promote crack tumble snow wealth disagree heavy";

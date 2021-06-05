@@ -1,1 +1,1 @@
-var mnemonic = "turtle design toddler over cycle fan peanut dash kiwi matrix analyst federal";
+var mnemonic = "whale refuse fix recycle position enable patch family apple shadow write gorilla";

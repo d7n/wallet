@@ -1,1 +1,1 @@
-var mnemonic = "keen kind now arrange slab turn frozen gym village boost carry install";
+var mnemonic = "very cage cage cry wedding advice polar brisk allow derive tape fantasy";

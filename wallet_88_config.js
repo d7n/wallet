@@ -1,1 +1,1 @@
-var mnemonic = "rotate tortoise castle sadness candy pride unaware cloth lunar next poem journey";
+var mnemonic = "zero term dove east rich club door garlic talk fruit suit another";

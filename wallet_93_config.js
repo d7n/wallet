@@ -1,1 +1,1 @@
-var mnemonic = "enter crater guard coyote couch leisure gasp mammal empty scissors lyrics always";
+var mnemonic = "tuition reunion climb theme violin recall mass brush stove attitude pistol spice";

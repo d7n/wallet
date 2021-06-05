@@ -1,1 +1,1 @@
-var mnemonic = "humor estate know smoke castle lion swift sorry shove image assault major";
+var mnemonic = "achieve rose perfect actress unfold bring meadow soft good wheel sense spirit";

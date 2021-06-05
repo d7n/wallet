@@ -1,1 +1,1 @@
-var mnemonic = "eight hungry enhance range trumpet three member grape lunch reform ill kidney";
+var mnemonic = "luxury opinion merge coral various label result cement tilt tattoo taxi either";

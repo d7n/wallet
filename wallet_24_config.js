@@ -1,1 +1,1 @@
-var mnemonic = "bubble honey invite reopen august charge clown art near almost clever useful";
+var mnemonic = "upset humble assault scare heart range into piano ecology ahead insect annual";

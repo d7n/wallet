@@ -1,1 +1,1 @@
-var mnemonic = "helmet want margin satoshi antique loud real home assist fix popular potato";
+var mnemonic = "tennis tilt price truth power ladder crowd bronze cloud comic two chest";

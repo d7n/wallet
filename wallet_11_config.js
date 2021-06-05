@@ -1,1 +1,1 @@
-var mnemonic = "survey rack common sure acoustic alone tunnel click print trip chalk slice";
+var mnemonic = "fatal choose solution license oven robot fit series struggle aerobic filter boy";
