@@ -1,1 +1,1 @@
-var mnemonic = "fatigue tomorrow color barely wine enact parrot tag quote aerobic false solve";
+var mnemonic = "resemble ramp soldier erase already license squeeze motion hurt man execute camp";

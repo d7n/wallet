@@ -1,1 +1,1 @@
-var mnemonic = "cart sentence adjust pet cement ranch lounge luggage barrel famous cry olive";
+var mnemonic = "enforce scare diet length patrol wrist true into shoe doctor frequent wire";

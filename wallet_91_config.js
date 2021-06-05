@@ -1,1 +1,1 @@
-var mnemonic = "reward inspire task hour lend chat either crash enlist dutch car festival";
+var mnemonic = "satisfy potato staff used lounge steel fox involve ski key lens mouse";

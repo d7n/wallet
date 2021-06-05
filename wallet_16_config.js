@@ -1,1 +1,1 @@
-var mnemonic = "wise tuna fun grape arctic route hockey amazing fog pig stay abuse";
+var mnemonic = "swing weapon cradle slight scissors river ready reunion protect canvas behave surge";

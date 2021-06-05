@@ -1,1 +1,1 @@
-var mnemonic = "upgrade predict arm oxygen gospel harsh fiscal session seed road demand erosion";
+var mnemonic = "strategy awkward tool shed random wait absurd dinosaur monkey focus track moment";

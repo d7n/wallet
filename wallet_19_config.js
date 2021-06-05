@@ -1,1 +1,1 @@
-var mnemonic = "paper devote frame sweet fly river refuse walk people hunt flash resource";
+var mnemonic = "orbit twice stay thank vivid identify almost scene torch clap mean unit";

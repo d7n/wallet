@@ -1,1 +1,1 @@
-var mnemonic = "envelope ghost cost combine explain wealth primary ship echo goose dust wealth";
+var mnemonic = "eternal view reject delay kind just patient scheme squeeze slow rival salmon";

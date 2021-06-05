@@ -1,1 +1,1 @@
-var mnemonic = "torch shell raw exotic wall flush close bridge wreck crane aunt goose";
+var mnemonic = "pledge exit soccer plug maze boy artist scrap square relax sense bright";

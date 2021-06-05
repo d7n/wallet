@@ -1,1 +1,1 @@
-var mnemonic = "sad advice square wall final wish edit mechanic cup morning broccoli claw";
+var mnemonic = "tackle exhibit smoke enforce siege code soda zero tell burger still pelican";

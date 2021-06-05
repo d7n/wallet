@@ -1,1 +1,1 @@
-var mnemonic = "cram crystal acid cheap dawn eagle snap guard cube near much wrap";
+var mnemonic = "guide warrior discover fox brave fork point panic sound forest negative around";

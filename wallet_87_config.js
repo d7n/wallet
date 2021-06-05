@@ -1,1 +1,1 @@
-var mnemonic = "camera one heavy noble crane sauce ugly void lock lecture elephant gossip";
+var mnemonic = "athlete shoulder frown congress north bird busy boring echo ten naive buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose river wrap barely logic observe develop pistol impulse december test inmate";
+var mnemonic = "thunder prepare cabin bracket fatal cube patch pear lucky pretty column setup";

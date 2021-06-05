@@ -1,1 +1,1 @@
-var mnemonic = "pencil bid error blanket able decide measure fortune grape multiply kidney decide";
+var mnemonic = "raise limb hurry miracle hour one repair kitten radar beef next confirm";

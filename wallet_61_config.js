@@ -1,1 +1,1 @@
-var mnemonic = "bind broccoli inspire first alert usual purity round mail amateur spawn eternal";
+var mnemonic = "observe illness execute thrive rely beyond buddy vacuum collect nothing inflict special";

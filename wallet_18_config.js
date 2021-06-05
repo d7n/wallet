@@ -1,1 +1,1 @@
-var mnemonic = "fragile liar zoo maple ripple tuna prevent sorry wrestle inch arm chair";
+var mnemonic = "forward lonely glass clutch crew treat flee crater ketchup tank oxygen large";

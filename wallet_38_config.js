@@ -1,1 +1,1 @@
-var mnemonic = "water river south garden enroll execute umbrella correct cotton monkey innocent entry";
+var mnemonic = "spice urban pride valley skirt stairs bachelor armor welcome tennis shove violin";

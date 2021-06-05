@@ -1,1 +1,1 @@
-var mnemonic = "key design puppy charge document option love cargo excess artefact artefact coffee";
+var mnemonic = "farm enrich typical exercise lady call carbon pluck frog lawn card urban";

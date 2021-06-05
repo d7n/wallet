@@ -1,1 +1,1 @@
-var mnemonic = "goddess agent slice dizzy museum jacket business finger genius exact youth together";
+var mnemonic = "junior they orient hurt century amazing clip credit friend segment hospital despair";

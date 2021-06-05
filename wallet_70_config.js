@@ -1,1 +1,1 @@
-var mnemonic = "organ mutual blame maze bar asset together glass base thing oyster cloth";
+var mnemonic = "clinic slush wonder turn unknown lucky olympic spot midnight faculty degree ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder uncle situate coyote youth feed nuclear vehicle slogan slim nuclear salon";
+var mnemonic = "myself damage acoustic bounce shoe rate inform travel talk bitter talent desk";

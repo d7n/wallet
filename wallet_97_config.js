@@ -1,1 +1,1 @@
-var mnemonic = "high shoe project diesel exact license fury latin strong have shop blur";
+var mnemonic = "clever two must razor banana require resemble spatial wire mansion turtle shop";

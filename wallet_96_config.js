@@ -1,1 +1,1 @@
-var mnemonic = "illegal carpet armor shuffle mixture era tackle glad street silver produce logic";
+var mnemonic = "pelican pepper damp jazz used anchor notice grace know large milk garbage";

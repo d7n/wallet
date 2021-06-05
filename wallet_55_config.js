@@ -1,1 +1,1 @@
-var mnemonic = "tail slush canvas material annual chapter mail cushion senior easily perfect topic";
+var mnemonic = "vicious bamboo economy wasp harsh flavor ball opinion finger fury west useful";

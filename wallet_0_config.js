@@ -1,1 +1,1 @@
-var mnemonic = "fiscal regret script choice similar beauty twist next flame travel firm menu";
+var mnemonic = "earth census neither anchor route metal brisk pull daring attract merry tongue";

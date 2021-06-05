@@ -1,1 +1,1 @@
-var mnemonic = "asthma salon medal crack apology average master good ozone remind merit repeat";
+var mnemonic = "pioneer cruise present hair pact deal rule just volume parade follow crush";

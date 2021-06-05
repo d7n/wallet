@@ -1,1 +1,1 @@
-var mnemonic = "air normal hunt weather spring hill all faculty below theory moral shallow";
+var mnemonic = "sauce foil deer banner pumpkin earth lock remove seat vocal nominee elite";

@@ -1,1 +1,1 @@
-var mnemonic = "surround wisdom give dance audit jungle rubber salmon choose coconut salad stem";
+var mnemonic = "peanut else army motion used genre skate pepper assault scrap kitchen nerve";

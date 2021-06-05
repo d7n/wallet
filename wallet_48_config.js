@@ -1,1 +1,1 @@
-var mnemonic = "forward excuse amused hill flame pear penalty skull parrot humor tube sand";
+var mnemonic = "vessel whip permit virus merit uphold slogan admit coil only neutral curious";

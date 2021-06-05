@@ -1,1 +1,1 @@
-var mnemonic = "only into indoor left word shrug broom breeze tower recycle recall version";
+var mnemonic = "chimney duty axis call lucky trash choice token place defy involve about";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet load decide urban regular goat news virus horror regular hotel material";
+var mnemonic = "modify cabbage fragile ivory fresh slot hire squeeze ring arrange toast smart";

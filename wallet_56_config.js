@@ -1,1 +1,1 @@
-var mnemonic = "include invest autumn orbit aware parade palm boil beauty crystal emotion vendor";
+var mnemonic = "shrimp chef bounce host squirrel near nerve attitude spawn airport broccoli divert";

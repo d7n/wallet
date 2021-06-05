@@ -1,1 +1,1 @@
-var mnemonic = "fog assume funny town appear marble divorce champion bulk liberty ketchup ready";
+var mnemonic = "often apart waste sadness crater movie credit autumn paddle pudding next shine";

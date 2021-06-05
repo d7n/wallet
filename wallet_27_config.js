@@ -1,1 +1,1 @@
-var mnemonic = "soccer current spray craft easy hollow cheese pistol short interest oxygen client";
+var mnemonic = "during firm snack runway reunion artwork immune kitchen inflict siren monster verb";

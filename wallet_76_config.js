@@ -1,1 +1,1 @@
-var mnemonic = "purse village razor protect fog identify praise little sorry speak suit zero";
+var mnemonic = "fan pass cliff message stadium arctic table list inflict around math cruel";

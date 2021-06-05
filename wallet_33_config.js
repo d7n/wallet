@@ -1,1 +1,1 @@
-var mnemonic = "conduct strong control adjust birth alley mix truck chunk minimum panther ball";
+var mnemonic = "claw notice senior omit net truck lesson chef impact oxygen net silver";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak rug night original tiny obtain junk expose orchard benefit order clog";
+var mnemonic = "leave sea volcano quick used network before equip adjust cabin situate month";

@@ -1,1 +1,1 @@
-var mnemonic = "plate kangaroo siege aisle virus deposit ridge renew junior mesh manage father";
+var mnemonic = "sister shy bind today valve someone nominee bronze train fish tuna gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze fox alpha garbage narrow parrot country loyal catalog file upgrade wagon";
+var mnemonic = "behave length invest trouble hero page feature wire fury book cart network";

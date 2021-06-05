@@ -1,1 +1,1 @@
-var mnemonic = "puzzle release slice rebuild keen wagon monitor attend fitness night daring friend";
+var mnemonic = "measure physical plug stock emerge alien mushroom way month exit second horn";

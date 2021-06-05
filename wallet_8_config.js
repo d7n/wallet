@@ -1,1 +1,1 @@
-var mnemonic = "cushion illegal rail drill raccoon sibling invite mutual dragon subject scrub keen";
+var mnemonic = "want blame echo fitness humble frown citizen wrist wrap sorry security valley";

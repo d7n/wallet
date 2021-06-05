@@ -1,1 +1,1 @@
-var mnemonic = "giraffe basket tuition trial green crouch gadget pottery demand sausage defy raccoon";
+var mnemonic = "fine give glue tomato royal mistake track candy orchard knife innocent insect";

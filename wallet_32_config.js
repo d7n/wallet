@@ -1,1 +1,1 @@
-var mnemonic = "offer neglect flip armor garlic phrase best wash talent once adapt buyer";
+var mnemonic = "garbage donate nephew fork little pistol venture claw unique lift often song";

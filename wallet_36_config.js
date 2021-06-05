@@ -1,1 +1,1 @@
-var mnemonic = "draw weird prefer siren repeat calm anchor style reveal mind grocery general";
+var mnemonic = "small demise coffee width flag unable unusual clog picture slice shoe blossom";

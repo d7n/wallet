@@ -1,1 +1,1 @@
-var mnemonic = "spin mobile prepare east regular code grab distance balance rhythm clown truly";
+var mnemonic = "canyon ticket evolve gas polar renew shift tunnel detail soon midnight screen";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla seek calm season moral claw shy puzzle abandon atom embody short";
+var mnemonic = "noodle fee blossom essay shell emerge census decrease curve radar ancient high";

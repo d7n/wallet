@@ -1,1 +1,1 @@
-var mnemonic = "river actress make august mind finger scare physical inner black bleak pencil";
+var mnemonic = "syrup cheese real airport defy possible document arena sugar gain giant olive";

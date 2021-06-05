@@ -1,1 +1,1 @@
-var mnemonic = "diesel cable negative people crowd violin wealth poet laugh broken badge turkey";
+var mnemonic = "original glance advance ensure bounce leave spot noble forum volume inside sure";

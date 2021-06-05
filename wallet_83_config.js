@@ -1,1 +1,1 @@
-var mnemonic = "grass quantum eyebrow cradle latin giggle fog body shift just employ error";
+var mnemonic = "evoke stage detect clump detect lottery home hurry betray spatial wash bacon";

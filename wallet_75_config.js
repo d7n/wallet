@@ -1,1 +1,1 @@
-var mnemonic = "member hub horse mass debris easily outer steak prevent guard box monitor";
+var mnemonic = "license spend save bench grunt pass wire organ return coil mesh wrong";

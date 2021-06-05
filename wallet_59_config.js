@@ -1,1 +1,1 @@
-var mnemonic = "silent insect panic denial since detect huge another network bamboo video uphold";
+var mnemonic = "feel pattern cover trap stick pencil once quiz buzz box shrimp update";

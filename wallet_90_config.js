@@ -1,1 +1,1 @@
-var mnemonic = "miss cube into tobacco source galaxy broccoli bone behave dice more easily";
+var mnemonic = "circle physical solid street pulse mother seed crash dish infant hello suffer";

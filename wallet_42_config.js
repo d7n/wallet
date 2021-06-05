@@ -1,1 +1,1 @@
-var mnemonic = "melody cherry broom post law arrow upset develop toward combine number rail";
+var mnemonic = "attack alert idle large asthma wolf coil wolf flee camera rule blouse";

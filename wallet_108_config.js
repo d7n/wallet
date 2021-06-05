@@ -1,1 +1,1 @@
-var mnemonic = "thing sun rude void tooth artist tuition extra salt bless elephant casino";
+var mnemonic = "idle cabin fashion gentle weather song first nurse bright aerobic uniform music";

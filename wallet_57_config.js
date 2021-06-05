@@ -1,1 +1,1 @@
-var mnemonic = "unhappy switch crunch profit muscle rain raise obvious tonight celery kitten animal";
+var mnemonic = "save perfect because question fish month wrong ski bubble potato follow race";

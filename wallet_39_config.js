@@ -1,1 +1,1 @@
-var mnemonic = "breeze chronic music lumber olive must voyage rookie volume anchor degree true";
+var mnemonic = "race question assist harbor warm slender elbow federal obvious pen process spare";

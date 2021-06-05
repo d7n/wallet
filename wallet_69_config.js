@@ -1,1 +1,1 @@
-var mnemonic = "inquiry history depth civil retreat cigar captain time useless riot town brave";
+var mnemonic = "real canvas spray modify crumble luxury actual absurd leopard major scatter total";

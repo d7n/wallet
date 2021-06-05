@@ -1,1 +1,1 @@
-var mnemonic = "quarter universe sleep gun much blue normal session topple lock mom load";
+var mnemonic = "infant upgrade enter clip quick start example seven immense vivid blur prison";

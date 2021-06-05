@@ -1,1 +1,1 @@
-var mnemonic = "liquid castle merge doll renew pumpkin giggle rabbit congress flip tonight habit";
+var mnemonic = "during artwork sauce airport behave earn okay pulse marble symptom pelican fancy";

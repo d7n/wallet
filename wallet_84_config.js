@@ -1,1 +1,1 @@
-var mnemonic = "diesel cushion prison inject book logic obscure ghost idle unhappy silver swing";
+var mnemonic = "unusual pioneer stable mouse segment dinner twist dynamic tragic entire divert use";

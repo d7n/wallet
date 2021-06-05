@@ -1,1 +1,1 @@
-var mnemonic = "enhance fever young shoe clump village elephant ball ladder shiver own news";
+var mnemonic = "melody float diagram bundle people angry talk during scout unable gravity extra";

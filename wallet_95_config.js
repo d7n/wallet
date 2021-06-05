@@ -1,1 +1,1 @@
-var mnemonic = "raise ranch anxiety main flag boil runway genuine deliver broccoli shine wrap";
+var mnemonic = "broccoli inquiry cruel crumble just flag thunder trust crack alien caught motor";

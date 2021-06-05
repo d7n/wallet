@@ -1,1 +1,1 @@
-var mnemonic = "sauce situate purpose vital sad crater injury swallow all raise load quantum";
+var mnemonic = "spy plastic pepper bunker upon hello artwork weather valid aware goose woman";

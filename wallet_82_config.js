@@ -1,1 +1,1 @@
-var mnemonic = "original emotion couch excite drink banana cigar sand kangaroo certain plug decrease";
+var mnemonic = "digital cause snow ship culture office cart runway pond saddle letter math";

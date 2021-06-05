@@ -1,1 +1,1 @@
-var mnemonic = "disagree skill pulp net clock dismiss hole group marble hurry february shine";
+var mnemonic = "verify ritual swim response false hard chapter state innocent ensure oven half";

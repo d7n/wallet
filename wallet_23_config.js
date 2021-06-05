@@ -1,1 +1,1 @@
-var mnemonic = "enter daring learn theme belt match purpose speed talk silent dash tissue";
+var mnemonic = "pear diagram miss focus return mistake minute silly sister cactus diagram they";

@@ -1,1 +1,1 @@
-var mnemonic = "brain liberty loyal rapid sheriff rule biology squirrel replace egg physical cat";
+var mnemonic = "moment such series wrist van tape evoke account van coach name awful";

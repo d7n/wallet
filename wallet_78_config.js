@@ -1,1 +1,1 @@
-var mnemonic = "fix still typical invite swim guard fat morning phone horse voice couch";
+var mnemonic = "alley phrase speak raw wait lounge sketch february artefact access couch stool";

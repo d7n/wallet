@@ -1,1 +1,1 @@
-var mnemonic = "youth craft toilet fuel swear smart teach hover unique drink wire total";
+var mnemonic = "winter visa average cup level evoke later explain doll round moment web";

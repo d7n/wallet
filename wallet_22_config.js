@@ -1,1 +1,1 @@
-var mnemonic = "crime seek amazing sad chef unveil outer casual glance oval embrace top";
+var mnemonic = "erase lemon fat amount method cram solution moon vast record palm hurry";

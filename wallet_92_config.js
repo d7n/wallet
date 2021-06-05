@@ -1,1 +1,1 @@
-var mnemonic = "pool pole ribbon cost volcano aspect view fever distance tennis supply horror";
+var mnemonic = "unaware arch now purse expect banana decide seminar oil box radio harvest";

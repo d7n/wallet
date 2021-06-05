@@ -1,1 +1,1 @@
-var mnemonic = "front library quiz fun then risk very idea penalty food like away";
+var mnemonic = "ball false hill beach someone mechanic cost exhibit frozen mad bargain boat";

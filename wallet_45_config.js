@@ -1,1 +1,1 @@
-var mnemonic = "click satoshi vacant much fatal cause fever skate master cook extend cement";
+var mnemonic = "length tribe rack witness security fluid super mixture patch tumble tunnel soup";

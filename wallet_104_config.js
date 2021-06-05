@@ -1,1 +1,1 @@
-var mnemonic = "rubber mutual garlic any decade minimum rice gift foam merry umbrella dragon";
+var mnemonic = "length entry vibrant gorilla rather ecology firm organ submit blossom aspect start";

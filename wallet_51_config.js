@@ -1,1 +1,1 @@
-var mnemonic = "rather solution refuse act art easy fatigue topple under tragic disease possible";
+var mnemonic = "blanket cheap noodle crater photo marine game fork pen level crane guard";

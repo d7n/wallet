@@ -1,1 +1,1 @@
-var mnemonic = "plug joy rookie desert fee health glare seven save forward exercise close";
+var mnemonic = "remove bright crunch pipe admit inflict cause swim silent frozen trip pear";

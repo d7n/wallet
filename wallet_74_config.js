@@ -1,1 +1,1 @@
-var mnemonic = "aerobic october alley critic wave endorse frequent lottery kind anxiety sport essence";
+var mnemonic = "arctic fun shuffle absurd carpet exercise boil capable cover quantum cigar truly";

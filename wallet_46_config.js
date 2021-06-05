@@ -1,1 +1,1 @@
-var mnemonic = "turn urban lava bamboo excite crop betray notice fuel swing unit agree";
+var mnemonic = "idle edit hold bundle useless spoil crawl pair local range virus toddler";

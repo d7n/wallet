@@ -1,1 +1,1 @@
-var mnemonic = "push move draw file carry echo slot come imitate net dog media";
+var mnemonic = "toddler bar evolve vapor scorpion remind fresh fitness airport rubber slow donkey";

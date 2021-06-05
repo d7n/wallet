@@ -1,1 +1,1 @@
-var mnemonic = "elegant orchard there inject sense ozone creek infant fun senior little sunset";
+var mnemonic = "machine clinic retire reform render stem curious actual rabbit brisk absorb similar";

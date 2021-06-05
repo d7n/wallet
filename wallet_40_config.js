@@ -1,1 +1,1 @@
-var mnemonic = "state salad duty box kitchen cover pink ramp miracle wild exit useless";
+var mnemonic = "kitchen fruit derive frog lazy mercy viable vocal wink marriage walk lounge";

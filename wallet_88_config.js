@@ -1,1 +1,1 @@
-var mnemonic = "style video noise modify ankle off end horse keen vapor because knock";
+var mnemonic = "mention boring river cargo average essay suffer hire ginger portion stage circle";

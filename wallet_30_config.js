@@ -1,1 +1,1 @@
-var mnemonic = "rhythm addict universe radio fuel silver farm urban satoshi cruise garden airport";
+var mnemonic = "fabric zone year law toilet trumpet solid episode emotion ladder boring brisk";

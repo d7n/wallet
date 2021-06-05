@@ -1,1 +1,1 @@
-var mnemonic = "dragon similar transfer rubber repeat little wave consider domain street section angry";
+var mnemonic = "suffer stool flavor buffalo note glory strong work stone intact broom east";

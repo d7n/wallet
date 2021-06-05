@@ -1,1 +1,1 @@
-var mnemonic = "employ royal win market swim kite amused flip core rescue room either";
+var mnemonic = "direct marine spawn bind riot panel doll sponsor much oyster zone better";
