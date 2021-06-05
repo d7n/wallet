@@ -1,1 +1,1 @@
-var mnemonic = "book pave barely add large crush random hole remember history across oval";
+var mnemonic = "oven uphold blouse civil proof regular unfold voice jealous laptop diet buffalo";

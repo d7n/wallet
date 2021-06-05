@@ -1,1 +1,1 @@
-var mnemonic = "trial piano awake pill possible artefact boost coconut victory section motion misery";
+var mnemonic = "knife age galaxy lizard crack control length hedgehog pond range any bleak";

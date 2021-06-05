@@ -1,1 +1,1 @@
-var mnemonic = "easily target tree margin smart raw copper seminar danger trigger armor link";
+var mnemonic = "unaware report laptop dog bubble fish tenant double island team faith leg";

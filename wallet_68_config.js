@@ -1,1 +1,1 @@
-var mnemonic = "dice lab double inner cake analyst renew swim ocean grit fire dinosaur";
+var mnemonic = "buddy casual face easy raccoon craft avoid one oval price dream multiply";

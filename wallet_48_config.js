@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fade unhappy discover shop neutral jealous figure elbow frog artist main";
+var mnemonic = "drive width keep warrior often session remove key receive install jealous van";

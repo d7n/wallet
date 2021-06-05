@@ -1,1 +1,1 @@
-var mnemonic = "arena occur bright crisp scene undo bag chimney menu frown ready shuffle";
+var mnemonic = "bundle expand vivid region meat carry salon drill oblige soon detail such";

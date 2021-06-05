@@ -1,1 +1,1 @@
-var mnemonic = "reject sudden daring pink dutch link february absurd gadget state name spin";
+var mnemonic = "uncover protect ghost frame peasant polar express alarm orphan parade peanut online";

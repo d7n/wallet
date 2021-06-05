@@ -1,1 +1,1 @@
-var mnemonic = "lumber foam fade ability aerobic photo since potato jewel volume travel stuff";
+var mnemonic = "peanut fire certain image tragic phone joy excess drip dolphin strategy picnic";

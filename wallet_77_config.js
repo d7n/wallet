@@ -1,1 +1,1 @@
-var mnemonic = "patient suggest agent salon alien share mixed survey flight bacon common average";
+var mnemonic = "dog network problem hazard bounce lawsuit visit want wheel unique swallow february";

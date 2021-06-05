@@ -1,1 +1,1 @@
-var mnemonic = "produce gain broken tide crime march craft slush deposit resource culture author";
+var mnemonic = "strike silver primary fault wild awake dose worth grace trim lens panic";

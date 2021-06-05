@@ -1,1 +1,1 @@
-var mnemonic = "another error caught trim home sniff acquire tomorrow defy river load script";
+var mnemonic = "hole rice disagree captain gas hope trash metal furnace fatal virus chief";

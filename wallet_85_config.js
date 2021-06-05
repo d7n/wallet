@@ -1,1 +1,1 @@
-var mnemonic = "pulse live lift settle script autumn table pyramid guess liberty bubble addict";
+var mnemonic = "hover acoustic thumb risk beauty develop submit giraffe funny dilemma coil gorilla";

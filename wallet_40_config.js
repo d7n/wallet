@@ -1,1 +1,1 @@
-var mnemonic = "truck order census observe bag crash action home cigar melody renew horn";
+var mnemonic = "hammer scrap skin metal kidney tag oak mistake grief involve stable olive";

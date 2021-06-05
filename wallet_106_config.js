@@ -1,1 +1,1 @@
-var mnemonic = "blouse negative summer wrong pond vivid lazy climb moment judge dove energy";
+var mnemonic = "peasant hen skill become boss issue van wet camp pulp south airport";

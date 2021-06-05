@@ -1,1 +1,1 @@
-var mnemonic = "slice sting universe bar fork shuffle spy toward head give member question";
+var mnemonic = "dust diamond ramp idle staff matter recipe transfer attract clinic outdoor butter";

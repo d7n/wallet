@@ -1,1 +1,1 @@
-var mnemonic = "inject door manage wave live fly coast same human normal gym pill";
+var mnemonic = "peace practice warfare water teach loop salad fury coffee yellow rebuild attract";

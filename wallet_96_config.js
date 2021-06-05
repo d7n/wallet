@@ -1,1 +1,1 @@
-var mnemonic = "humor diary caution spice north dream fox lazy pulse tackle bar boy";
+var mnemonic = "symbol school retire blossom hurdle input acid bargain tragic avoid blanket update";

@@ -1,1 +1,1 @@
-var mnemonic = "cube together electric trigger loan awkward fix spike jeans elephant caught broccoli";
+var mnemonic = "sort sun riot argue pact frozen wheel smile hybrid castle clarify mango";

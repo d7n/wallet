@@ -1,1 +1,1 @@
-var mnemonic = "shield tip wire kingdom ginger rebel kid cannon beef public kite tree";
+var mnemonic = "festival about climb gloom foster soap prize bottom gorilla upgrade dismiss parent";

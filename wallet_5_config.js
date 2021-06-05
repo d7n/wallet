@@ -1,1 +1,1 @@
-var mnemonic = "tell size notable original route lens expose phrase voice try rack abstract";
+var mnemonic = "kitchen industry alert best topic broom rate color rent person snack lumber";

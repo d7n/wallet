@@ -1,1 +1,1 @@
-var mnemonic = "grit unusual rain duck squeeze fork soap simple panther sign marine trade";
+var mnemonic = "else night become spike menu fold speak picnic conduct liquid soccer this";

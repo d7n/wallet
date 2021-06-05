@@ -1,1 +1,1 @@
-var mnemonic = "stock inmate drama omit quality satisfy push disagree twin normal drift rifle";
+var mnemonic = "sea level come age insane van protect tank find recipe safe source";

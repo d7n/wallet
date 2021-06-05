@@ -1,1 +1,1 @@
-var mnemonic = "palace broom initial rich inside raven depart enforce grace blossom crystal viable";
+var mnemonic = "behave dinosaur cost secret coach during evoke pattern excuse intact whale argue";

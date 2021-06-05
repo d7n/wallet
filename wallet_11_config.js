@@ -1,1 +1,1 @@
-var mnemonic = "kiss someone rubber airport anchor high mask ignore alarm hill device teach";
+var mnemonic = "soda banner violin senior push indicate live small interest ostrich essence salt";

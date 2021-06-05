@@ -1,1 +1,1 @@
-var mnemonic = "husband second oak milk print owner common obey mean mask fat nest";
+var mnemonic = "solar length cute always math wasp winter apart glow clown curve furnace";

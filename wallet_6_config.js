@@ -1,1 +1,1 @@
-var mnemonic = "trouble bone aisle top acquire rail ridge pet tape clown tribe arena";
+var mnemonic = "summer moment sick reduce perfect scrub derive enroll prefer utility work thank";

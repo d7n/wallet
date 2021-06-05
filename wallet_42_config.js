@@ -1,1 +1,1 @@
-var mnemonic = "popular fun shy much desert can runway enroll anger grit attend surprise";
+var mnemonic = "velvet magic home prison day oven hospital tornado use reunion say fancy";

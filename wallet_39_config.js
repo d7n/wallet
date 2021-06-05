@@ -1,1 +1,1 @@
-var mnemonic = "exact horse elite boss syrup lady sunset dilemma like salt primary gas";
+var mnemonic = "humble position million scene unusual key always jar output morning mushroom diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "believe case resemble anchor gap people nominee develop ostrich ankle family hotel";
+var mnemonic = "dune dream certain learn silent topple ceiling onion shoulder segment issue obscure";

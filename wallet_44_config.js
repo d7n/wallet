@@ -1,1 +1,1 @@
-var mnemonic = "day secret aim flavor soldier guilt melt punch ensure glue remind duck";
+var mnemonic = "brave conduct rapid own fossil snap food park unknown siege rally security";

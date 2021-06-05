@@ -1,1 +1,1 @@
-var mnemonic = "access aware pause spirit army glory exclude quality scrap pig false audit";
+var mnemonic = "gorilla round citizen number zoo idea thrive deposit nothing inmate flash soda";

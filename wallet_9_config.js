@@ -1,1 +1,1 @@
-var mnemonic = "drive ball strong gasp snake palace twelve session two banner catch acquire";
+var mnemonic = "hammer ticket harsh actress tooth flock hero sentence type process champion ginger";

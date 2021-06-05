@@ -1,1 +1,1 @@
-var mnemonic = "east broken course trick situate trouble use fancy cargo crawl cram account";
+var mnemonic = "wool ostrich physical eyebrow simple give silver snow regular famous short maple";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp expire dirt rhythm wool adapt cute list artwork style crime clog";
+var mnemonic = "finger coconut diesel draw motor torch today unit stay affair flip cross";

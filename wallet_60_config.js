@@ -1,1 +1,1 @@
-var mnemonic = "problem surprise crew avoid kit into one inspire harvest accident poverty ripple";
+var mnemonic = "rent document hat tunnel hair home gorilla regular piano kit verify rubber";

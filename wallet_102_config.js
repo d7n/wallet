@@ -1,1 +1,1 @@
-var mnemonic = "sorry maximum bomb way bench transfer giant subway like cattle tide solve";
+var mnemonic = "endorse zero october sense resemble brick leader inform strike pink lumber farm";

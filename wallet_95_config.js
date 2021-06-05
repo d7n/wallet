@@ -1,1 +1,1 @@
-var mnemonic = "absorb impulse cable ancient canvas vote lunch turn busy actor mechanic inject";
+var mnemonic = "injury essay raccoon hollow normal ritual glad merge bike voyage scorpion august";

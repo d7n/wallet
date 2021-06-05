@@ -1,1 +1,1 @@
-var mnemonic = "kitchen duty inspire school journey shadow grief rather similar faith puppy verify";
+var mnemonic = "gold off leopard mango depend luxury tonight escape bunker save fatigue bunker";

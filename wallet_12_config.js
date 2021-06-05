@@ -1,1 +1,1 @@
-var mnemonic = "spare hundred lecture program display waste since bridge copper act laugh dinosaur";
+var mnemonic = "switch immense modify ordinary bind silent casual mystery upset infant lottery speak";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle rail regret trash fiction recipe use spring know million siren soul";
+var mnemonic = "buffalo crane bird equal double return column melt brain region vicious coral";

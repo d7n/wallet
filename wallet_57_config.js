@@ -1,1 +1,1 @@
-var mnemonic = "response ocean dog fence end whip fire vague any tent under more";
+var mnemonic = "eagle badge sure aspect anxiety mercy eyebrow scorpion autumn giggle list decide";

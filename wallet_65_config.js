@@ -1,1 +1,1 @@
-var mnemonic = "cube doctor universe radio same east vehicle spin learn hat armed resemble";
+var mnemonic = "card charge pyramid thought tumble manage mouse remain live pilot essay addict";

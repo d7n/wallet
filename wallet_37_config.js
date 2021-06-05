@@ -1,1 +1,1 @@
-var mnemonic = "post surge school then useful exchange horror renew mobile parade basket bubble";
+var mnemonic = "dawn slot way other tag marine settle yard language similar alpha shock";

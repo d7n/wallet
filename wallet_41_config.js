@@ -1,1 +1,1 @@
-var mnemonic = "above luggage debate blue shoot split credit syrup choice hire valve keep";
+var mnemonic = "year sign duty review keen emotion trust now crime snap liquid hole";

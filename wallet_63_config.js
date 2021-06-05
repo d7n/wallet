@@ -1,1 +1,1 @@
-var mnemonic = "lemon feed together bundle hub clump render equip skirt vague napkin wild";
+var mnemonic = "spread monster coyote feed team cross mass speak rate rough toddler junk";

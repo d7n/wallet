@@ -1,1 +1,1 @@
-var mnemonic = "raw stereo universe rather ahead topic cradle faith space response put apple";
+var mnemonic = "slam stay bright equip able festival advice slight walk sad local fiscal";

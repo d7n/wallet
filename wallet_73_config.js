@@ -1,1 +1,1 @@
-var mnemonic = "before canoe balance staff wagon prison few fruit donor rule much boat";
+var mnemonic = "render foot aunt main drill miss lobster spoon banana crisp smart fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise dinner panel blouse boring neck vacant report aunt deny goat symptom";
+var mnemonic = "marble injury angry actual math visual advice tube anger measure manual game";

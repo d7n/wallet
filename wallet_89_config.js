@@ -1,1 +1,1 @@
-var mnemonic = "gift alcohol work order eye resemble clarify heavy favorite claim salmon dial";
+var mnemonic = "reason museum color enhance token stomach spatial move domain dignity follow trim";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal chunk gallery announce agree blast want step drill system member extra";
+var mnemonic = "gun almost naive piece path tiger physical group guilt extra infant nation";

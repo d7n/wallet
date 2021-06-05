@@ -1,1 +1,1 @@
-var mnemonic = "drastic length proof feed weird ozone immune quote typical donor pass negative";
+var mnemonic = "invite test humor situate number syrup check replace struggle gift fish giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "suit sketch match float screen picture wreck cliff evolve bird public used";
+var mnemonic = "cigar wheat claw pass obtain spirit broken beyond cruise hollow sniff bridge";

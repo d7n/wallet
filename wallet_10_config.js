@@ -1,1 +1,1 @@
-var mnemonic = "blade sick jungle mention silent palm axis island obvious bless grass thrive";
+var mnemonic = "swim myth cargo faint history million lift online ritual book depth stumble";

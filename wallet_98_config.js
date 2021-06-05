@@ -1,1 +1,1 @@
-var mnemonic = "major fox verb pact similar cactus width life anger reward worry marine";
+var mnemonic = "oval lava once enjoy actor camera know exit decline loyal volume swallow";

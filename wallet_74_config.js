@@ -1,1 +1,1 @@
-var mnemonic = "beauty coach ripple curtain curve glad two bar inspire hood bounce famous";
+var mnemonic = "public surprise torch drip iron girl above stone flag shy idle true";

@@ -1,1 +1,1 @@
-var mnemonic = "mad excess path forest blade crisp erase flip noble throw crowd into";
+var mnemonic = "cart wood saddle census riot jazz olive leopard local mean fence ten";

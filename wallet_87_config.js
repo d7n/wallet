@@ -1,1 +1,1 @@
-var mnemonic = "atom entry youth tonight since zebra coral bind punch merit awesome cousin";
+var mnemonic = "protect quote suggest evidence resemble enroll track match dinner enforce oblige eye";

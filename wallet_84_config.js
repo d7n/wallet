@@ -1,1 +1,1 @@
-var mnemonic = "angry catalog void immune champion margin also report own inner soup silver";
+var mnemonic = "eight problem dizzy sail smile spare twin floor almost chaos skate tiger";

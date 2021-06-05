@@ -1,1 +1,1 @@
-var mnemonic = "spend pair galaxy industry vivid monster artefact celery unit orbit patch refuse";
+var mnemonic = "hedgehog duck pledge strike country second bird fantasy barely ceiling squeeze rich";

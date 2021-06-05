@@ -1,1 +1,1 @@
-var mnemonic = "struggle page merry hope skin hollow violin wrist galaxy decrease goddess course";
+var mnemonic = "umbrella depth use choose boy garden method purpose add source program witness";

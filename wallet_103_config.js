@@ -1,1 +1,1 @@
-var mnemonic = "legal action diet dose output regular travel rubber orbit mimic child giant";
+var mnemonic = "city reveal cement clever craft mixture phone believe main gentle riot ill";

@@ -1,1 +1,1 @@
-var mnemonic = "never large they avoid steak secret claim cement quality assume often bicycle";
+var mnemonic = "forest spider juice forum crowd van carry sail sell soon two clerk";

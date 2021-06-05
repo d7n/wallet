@@ -1,1 +1,1 @@
-var mnemonic = "hawk engage erupt damage obey fragile angle quit onion together absurd such";
+var mnemonic = "two solar educate boring deal barrel term whip cart edit grace relax";

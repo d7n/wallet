@@ -1,1 +1,1 @@
-var mnemonic = "whisper link pet rural spread lottery common estate caught shallow disagree visual";
+var mnemonic = "carbon arrange frog whisper only immune pottery nominee speed maid universe nation";

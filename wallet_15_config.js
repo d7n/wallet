@@ -1,1 +1,1 @@
-var mnemonic = "joke high age observe payment squirrel slice general action ride spare scatter";
+var mnemonic = "castle oblige suspect else elbow hidden brown deputy drink street bacon plastic";

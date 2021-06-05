@@ -1,1 +1,1 @@
-var mnemonic = "clean account spray corn badge bulb kiss exhibit exchange title village account";
+var mnemonic = "flock column pig pulse world jelly dolphin rare retire pipe habit elbow";

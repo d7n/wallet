@@ -1,1 +1,1 @@
-var mnemonic = "dial enforce idle worry lesson false sense accident slide strategy video illness";
+var mnemonic = "spin gallery under surprise cram worth split another chicken guilt deposit neglect";

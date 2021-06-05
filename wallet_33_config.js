@@ -1,1 +1,1 @@
-var mnemonic = "cruise push kingdom comic bag tongue lamp snake impose claw trigger canoe";
+var mnemonic = "faith lamp total short deputy various critic girl scrap picture media swim";

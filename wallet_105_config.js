@@ -1,1 +1,1 @@
-var mnemonic = "swim vacuum junk hunt midnight grid attack buzz nature dutch tube south";
+var mnemonic = "permit distance forget pull poverty spatial west cliff day duty patient come";

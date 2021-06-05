@@ -1,1 +1,1 @@
-var mnemonic = "broken confirm injury north wear duty desert still script ten sudden seven";
+var mnemonic = "humble sheriff cabbage injury project lonely path loop pulp evidence power shiver";

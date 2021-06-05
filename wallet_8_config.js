@@ -1,1 +1,1 @@
-var mnemonic = "guitar earn oil genuine dirt truly vital obtain flat measure eager board";
+var mnemonic = "genius front addict chronic short invite habit glove industry bulb tonight mix";

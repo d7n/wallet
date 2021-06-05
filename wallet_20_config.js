@@ -1,1 +1,1 @@
-var mnemonic = "napkin love during kidney swim absent plate crucial dismiss behave boring comfort";
+var mnemonic = "aware outdoor decade prize satisfy cross biology clerk soft insect under nurse";

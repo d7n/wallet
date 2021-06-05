@@ -1,1 +1,1 @@
-var mnemonic = "bring gather endless marine history atom float elite copy artefact sadness gun";
+var mnemonic = "rally slide observe current bird country amateur child piano access lottery toast";

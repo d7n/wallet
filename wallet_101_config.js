@@ -1,1 +1,1 @@
-var mnemonic = "tackle feature spider circle burden axis loan balcony apology around labor parent";
+var mnemonic = "anxiety scan extend sunset spatial tumble number boy people jungle shallow security";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl pave odor fatigue address approve option climb throw provide cannon concert";
+var mnemonic = "multiply absent orphan matrix depend ecology weather hazard trumpet young arrange nation";

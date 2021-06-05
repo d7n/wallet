@@ -1,1 +1,1 @@
-var mnemonic = "exact input excess engine stand february correct blind divorce traffic off surround";
+var mnemonic = "crane diet brisk hat rose clock fringe animal host top amateur universe";

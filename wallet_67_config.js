@@ -1,1 +1,1 @@
-var mnemonic = "blue priority place crumble express nut supreme purity pull theory elephant decade";
+var mnemonic = "shell vanish law almost elegant oval chunk enlist day winter slice bicycle";

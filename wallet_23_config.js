@@ -1,1 +1,1 @@
-var mnemonic = "bonus amused dignity original siege olive miracle chaos scene castle vibrant rebel";
+var mnemonic = "update gaze afford hawk journey animal fiber monitor ankle skirt shove mouse";

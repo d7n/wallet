@@ -1,1 +1,1 @@
-var mnemonic = "write solution door view write adapt bullet force dance trial dish legend";
+var mnemonic = "fun laugh ride dynamic capable disease scheme build around alarm brother safe";

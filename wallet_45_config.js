@@ -1,1 +1,1 @@
-var mnemonic = "stand blade quality cross card ring dry crazy magnet cup young cycle";
+var mnemonic = "design chief spare spread route focus theme unique cricket try become cash";

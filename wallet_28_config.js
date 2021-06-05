@@ -1,1 +1,1 @@
-var mnemonic = "resemble stuff feel sell glass ghost apology balance property year drum spike";
+var mnemonic = "flock runway critic milk team expose pull shy dumb truck raven spider";

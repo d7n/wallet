@@ -1,1 +1,1 @@
-var mnemonic = "divert step rigid object witness soft noble pig brick humor raven network";
+var mnemonic = "hidden type arena rail initial estate miracle wrong flower bounce ensure proof";

@@ -1,1 +1,1 @@
-var mnemonic = "business lobster verify drop design shoulder slogan october cave skull brush broccoli";
+var mnemonic = "pizza glare potato nose volcano sleep announce chapter noble head faint stage";

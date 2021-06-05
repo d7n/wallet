@@ -1,1 +1,1 @@
-var mnemonic = "nothing yard monitor trim apart clown kiwi panda mixture banana amount cluster";
+var mnemonic = "they gym arrange bright found wink stock grant discover reunion deputy canal";

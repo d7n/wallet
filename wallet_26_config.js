@@ -1,1 +1,1 @@
-var mnemonic = "index biology muscle mixed crowd cube crisp december ticket radar slice dismiss";
+var mnemonic = "elder enrich kind ring rich enlist giggle bench unable bitter coast echo";

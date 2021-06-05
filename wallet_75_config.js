@@ -1,1 +1,1 @@
-var mnemonic = "cup verb vanish quiz thing improve note kitten cattle course tomato bottom";
+var mnemonic = "cereal island picnic solution cotton dress mesh fade affair invite leaf dinosaur";

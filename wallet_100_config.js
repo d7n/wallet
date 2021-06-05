@@ -1,1 +1,1 @@
-var mnemonic = "junior vicious isolate sentence stock afford fish magic reduce diagram festival heavy";
+var mnemonic = "warrior seek property desert net wing orchard deliver buzz motion fuel fringe";

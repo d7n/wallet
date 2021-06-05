@@ -1,1 +1,1 @@
-var mnemonic = "jelly other ability hospital tide song spider prize couch deal material since";
+var mnemonic = "cabbage dynamic motor consider forest toward harsh submit vendor raven mom soldier";
