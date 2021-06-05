@@ -1,1 +1,1 @@
-var mnemonic = "rookie place motor action own define endless save gloom history ankle virtual";
+var mnemonic = "latin lunch angle lesson insect deputy message royal wife quarter response accident";

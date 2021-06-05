@@ -1,1 +1,1 @@
-var mnemonic = "symbol demise toast friend fork normal fox shield skill fever raise chaos";
+var mnemonic = "monitor market wreck butter image left lock glad armor forest tray basic";

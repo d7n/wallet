@@ -1,1 +1,1 @@
-var mnemonic = "north burger reflect grow page seek dog pottery goddess dawn bicycle convince";
+var mnemonic = "eight slow error matter salute vibrant velvet corn crouch benefit bounce sting";

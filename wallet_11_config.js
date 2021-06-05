@@ -1,1 +1,1 @@
-var mnemonic = "slot alone arrive song tornado frown slim phone pair right cargo story";
+var mnemonic = "myself coil thing order will control beauty bottom stereo involve repair ketchup";

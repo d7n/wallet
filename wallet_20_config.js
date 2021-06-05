@@ -1,1 +1,1 @@
-var mnemonic = "vendor save rescue shrug stadium vessel exhibit erase hawk dove hint emotion";
+var mnemonic = "drop below exile into estate board pulp vote east piano atom slight";

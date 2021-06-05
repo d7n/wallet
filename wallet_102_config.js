@@ -1,1 +1,1 @@
-var mnemonic = "height offer ring faint salt square firm horn tattoo brush credit light";
+var mnemonic = "lamp nest year oven vivid edge pudding nothing polar similar cement job";

@@ -1,1 +1,1 @@
-var mnemonic = "stock ladder mad swing hold corn eagle tennis region trumpet decade dose";
+var mnemonic = "rain forward quality buffalo brown involve inside around night salt park inject";

@@ -1,1 +1,1 @@
-var mnemonic = "movie flee myth piano tumble accuse whale verb mansion excess lobster merry";
+var mnemonic = "fold almost despair convince permit fortune slot robust grow exhaust eager card";

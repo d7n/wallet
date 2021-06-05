@@ -1,1 +1,1 @@
-var mnemonic = "live strategy offer error radio thing useful area peace mercy fabric liar";
+var mnemonic = "alien early bind link enact aunt profit yellow suggest bless camera pig";

@@ -1,1 +1,1 @@
-var mnemonic = "call tape work wedding daughter kangaroo notable cute inside embark match easy";
+var mnemonic = "raven gown early bundle hire nominee guard snap artist teach great guide";

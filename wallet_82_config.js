@@ -1,1 +1,1 @@
-var mnemonic = "lady glove knee there tobacco volume venture shrimp report oyster harsh rice";
+var mnemonic = "any hobby cargo marine rude kangaroo need shallow devote return audit forget";

@@ -1,1 +1,1 @@
-var mnemonic = "dial eagle sample scrap okay level route donor robot alert pelican young";
+var mnemonic = "achieve bomb surface addict elephant indicate acquire differ bag gain fat end";

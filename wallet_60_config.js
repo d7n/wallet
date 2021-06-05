@@ -1,1 +1,1 @@
-var mnemonic = "file current deny exhaust champion abstract spoon win indicate wear mix royal";
+var mnemonic = "chest debris equal snake push online anxiety luxury series castle ocean airport";

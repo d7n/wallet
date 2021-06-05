@@ -1,1 +1,1 @@
-var mnemonic = "kind ethics first grocery wisdom great zebra scheme trick knock child holiday";
+var mnemonic = "dry diamond method neither okay sauce fold cousin meat today choice tilt";

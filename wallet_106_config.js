@@ -1,1 +1,1 @@
-var mnemonic = "angry undo kitten suspect track leopard food give sibling excite hello surround";
+var mnemonic = "blue stay pool parent play apart child modify rebuild monster ready advice";

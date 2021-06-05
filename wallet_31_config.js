@@ -1,1 +1,1 @@
-var mnemonic = "addict mask recipe camera payment negative north mechanic dust notable lounge praise";
+var mnemonic = "clutch glass supreme skin height outside rack scout rebuild habit obscure assume";

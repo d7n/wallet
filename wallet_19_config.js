@@ -1,1 +1,1 @@
-var mnemonic = "fix indoor route attack sorry buddy copper pledge crime rice fashion pen";
+var mnemonic = "cactus again gentle husband chuckle ankle energy birth nominee hover rather bulk";

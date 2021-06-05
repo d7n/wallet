@@ -1,1 +1,1 @@
-var mnemonic = "trick damage gain come pioneer claw range initial account dinosaur knife finger";
+var mnemonic = "science dinner chapter swallow situate canoe inch scan accuse protect cry wisdom";

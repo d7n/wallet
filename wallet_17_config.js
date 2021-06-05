@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cool same vicious dog floor shock avoid lake fashion end slot";
+var mnemonic = "simple glue peace route wheel wool toy wash used someone judge private";

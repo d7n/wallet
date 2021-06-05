@@ -1,1 +1,1 @@
-var mnemonic = "bike stock useless typical rely apart wagon federal captain mercy cheese anger";
+var mnemonic = "cabin giggle heavy pet solid vapor march security mesh noble afraid shop";

@@ -1,1 +1,1 @@
-var mnemonic = "fade picture half taste brother noise build ask palm poem need play";
+var mnemonic = "paddle quarter ripple balance receive coast replace sick clever proud traffic unusual";

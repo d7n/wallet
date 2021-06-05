@@ -1,1 +1,1 @@
-var mnemonic = "choice live alcohol post grow boost hero day lonely setup siege fold";
+var mnemonic = "enjoy spider canal siren during ability slice trim spread wreck pole tired";

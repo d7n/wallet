@@ -1,1 +1,1 @@
-var mnemonic = "wheel opera crater stuff mention couple way saddle lion good then dose";
+var mnemonic = "fly tower key jewel settle nice giggle matter daughter roof violin saddle";

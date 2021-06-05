@@ -1,1 +1,1 @@
-var mnemonic = "eager account pitch hero angle season magnet smoke skin peace ramp soul";
+var mnemonic = "session grant agree blame payment abuse text chuckle opera obey laugh marriage";

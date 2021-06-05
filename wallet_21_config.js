@@ -1,1 +1,1 @@
-var mnemonic = "mirror knife oblige fade mother issue toddler improve primary awake best fetch";
+var mnemonic = "tomato soda town vault crisp assist lake fan flat install prefer coil";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch panic mobile extra tape green hunt tourist rigid case bridge trap";
+var mnemonic = "ivory avoid child clap debate slot dentist marine entire message shell regular";

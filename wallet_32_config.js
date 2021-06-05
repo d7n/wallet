@@ -1,1 +1,1 @@
-var mnemonic = "custom world calm expose bamboo steel apple boss surprise group ice will";
+var mnemonic = "shoe can pretty inmate tone blur bag dash canvas shed opera soccer";

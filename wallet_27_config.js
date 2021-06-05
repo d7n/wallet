@@ -1,1 +1,1 @@
-var mnemonic = "zoo rocket giggle arrow across follow glass hurt office country climb caution";
+var mnemonic = "earth trim gain supply object myth drip mushroom aerobic never video dog";

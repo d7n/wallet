@@ -1,1 +1,1 @@
-var mnemonic = "such option game space mobile ranch recipe kangaroo total slender day pool";
+var mnemonic = "police witness beyond depend phone stadium anchor acid token crucial enable salt";

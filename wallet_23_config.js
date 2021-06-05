@@ -1,1 +1,1 @@
-var mnemonic = "neither judge make toss bulk please around educate maple degree auction miracle";
+var mnemonic = "jelly pluck wave ladder next topic creek enjoy error scan run trend";

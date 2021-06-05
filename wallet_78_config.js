@@ -1,1 +1,1 @@
-var mnemonic = "gasp fragile fancy raccoon bread minute pave beauty dawn kangaroo trial reward";
+var mnemonic = "regret build barrel save attack hand promote there one sting supply detail";

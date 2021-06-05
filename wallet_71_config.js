@@ -1,1 +1,1 @@
-var mnemonic = "curve toward vocal piano mother arm mango burst start need race chef";
+var mnemonic = "panda gorilla asthma basket icon razor mule enjoy arena ski local element";

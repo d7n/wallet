@@ -1,1 +1,1 @@
-var mnemonic = "aim turkey wrestle vivid economy conduct taxi kid found color brass dragon";
+var mnemonic = "produce night matrix smile hybrid length road course slot civil siege artefact";

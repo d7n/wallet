@@ -1,1 +1,1 @@
-var mnemonic = "father wreck island unhappy intact injury shock trend absent put federal chief";
+var mnemonic = "blush worth chef calm group night tilt climb dwarf anger smart other";

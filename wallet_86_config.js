@@ -1,1 +1,1 @@
-var mnemonic = "dash assume vendor into spend blanket home journey coconut pulp art arena";
+var mnemonic = "name scene seek gaze coyote cage chef meadow media secret vague album";

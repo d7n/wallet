@@ -1,1 +1,1 @@
-var mnemonic = "paddle crystal upper oyster agree choice page nest share vibrant kitchen broccoli";
+var mnemonic = "smile carpet mystery viable dolphin venture educate prefer february man slice snack";

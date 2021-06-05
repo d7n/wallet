@@ -1,1 +1,1 @@
-var mnemonic = "deal copper roast rice please job dance happy beef ignore solution train";
+var mnemonic = "tray coast silver mountain size section opinion forest wrap siren crucial response";

@@ -1,1 +1,1 @@
-var mnemonic = "input denial spatial pottery heavy diagram permit retire able purse evoke agent";
+var mnemonic = "galaxy stable slender clog ugly turkey version manual retire tobacco domain satisfy";

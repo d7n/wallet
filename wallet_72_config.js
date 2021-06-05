@@ -1,1 +1,1 @@
-var mnemonic = "electric bind hold daring decline cinnamon dune claim excuse media film basket";
+var mnemonic = "reason hurdle torch side during large fold addict stick combine depth chief";

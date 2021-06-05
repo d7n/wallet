@@ -1,1 +1,1 @@
-var mnemonic = "sadness allow muffin novel slow now start spy number tent grab draft";
+var mnemonic = "deal stone gloom siren thank asthma warm orphan brown risk column stay";

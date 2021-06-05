@@ -1,1 +1,1 @@
-var mnemonic = "like month recipe hub about riot book abandon beauty admit measure pair";
+var mnemonic = "post whisper eager luggage same metal excuse general display antenna conduct clown";

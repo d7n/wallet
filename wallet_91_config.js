@@ -1,1 +1,1 @@
-var mnemonic = "donkey soon million edit person tonight pause disorder domain chair roast loud";
+var mnemonic = "boss gallery team congress spell loyal luggage hint faculty arrow cereal funny";

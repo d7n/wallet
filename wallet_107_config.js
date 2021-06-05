@@ -1,1 +1,1 @@
-var mnemonic = "survey various flip modify destroy onion sure blush infant toilet horn mutual";
+var mnemonic = "cheap flag thumb bright great must ill equip equal weekend style until";

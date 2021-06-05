@@ -1,1 +1,1 @@
-var mnemonic = "trap knock aim rug opera finish kangaroo aisle destroy field scheme age";
+var mnemonic = "execute pipe image decade maze member sock extend assume joy zero faith";

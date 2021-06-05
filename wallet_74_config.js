@@ -1,1 +1,1 @@
-var mnemonic = "monkey anger skate drill raccoon pottery bench matrix shock vehicle stable foot";
+var mnemonic = "draft right junior sheriff luggage picnic join update number scale circle spawn";

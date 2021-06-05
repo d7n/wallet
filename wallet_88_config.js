@@ -1,1 +1,1 @@
-var mnemonic = "avocado buyer charge jewel awake frog comic injury claw produce income skill";
+var mnemonic = "spirit popular violin lonely fiber scrap snake drum cannon dance fat valve";

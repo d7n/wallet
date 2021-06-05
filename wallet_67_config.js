@@ -1,1 +1,1 @@
-var mnemonic = "version dutch sunny goddess bless key enforce carpet have price narrow want";
+var mnemonic = "law stable expect joke dwarf guide divorce churn desk urge edit cram";

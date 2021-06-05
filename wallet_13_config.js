@@ -1,1 +1,1 @@
-var mnemonic = "few zero pioneer bleak faith humble body budget neck million assume penalty";
+var mnemonic = "state merry pupil same disease option receive benefit alert enable pigeon voice";

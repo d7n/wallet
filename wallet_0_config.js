@@ -1,1 +1,1 @@
-var mnemonic = "loyal demise begin tuition cause fetch grape census fan vehicle rate album";
+var mnemonic = "badge spell game impulse note swallow output cotton pet dress survey disagree";

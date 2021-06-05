@@ -1,1 +1,1 @@
-var mnemonic = "broccoli seat elegant window endorse aisle basket success taste myself brisk hard";
+var mnemonic = "danger leaf together travel ocean couch gown stool motion also group brass";

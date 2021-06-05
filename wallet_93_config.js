@@ -1,1 +1,1 @@
-var mnemonic = "shadow shove suggest unusual tomato opera cheese distance visit situate release monkey";
+var mnemonic = "tail adult rebel use pluck process young more border boss prison absent";

@@ -1,1 +1,1 @@
-var mnemonic = "stand bike couple high magnet nephew shine convince system cement balance tongue";
+var mnemonic = "donor hamster certain fancy exhibit task lobster hundred search nothing daring crush";

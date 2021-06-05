@@ -1,1 +1,1 @@
-var mnemonic = "issue deal belt magic gallery tree canyon math glide dumb bullet wood";
+var mnemonic = "domain country sketch immense grace cricket slice great believe photo doll receive";

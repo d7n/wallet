@@ -1,1 +1,1 @@
-var mnemonic = "cook mango rally birth feed now glimpse muffin dice bracket million until";
+var mnemonic = "vintage bless eager thought trick monster rigid machine lyrics hamster sleep depend";

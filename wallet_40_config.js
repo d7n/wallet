@@ -1,1 +1,1 @@
-var mnemonic = "rich baby pledge scout innocent saddle dawn elevator picture donkey cinnamon surface";
+var mnemonic = "camera tuition ensure myth under matter grape flame maid rhythm whip hover";

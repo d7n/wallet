@@ -1,1 +1,1 @@
-var mnemonic = "cage chunk denial brass crater choose sunny merit carry steak velvet tilt";
+var mnemonic = "violin receive tennis tuna school leaf jacket step twin cream pottery task";

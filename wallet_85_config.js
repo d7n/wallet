@@ -1,1 +1,1 @@
-var mnemonic = "remain twenty oven spirit sell traffic dial parade actual cover setup entry";
+var mnemonic = "enlist riot asset apple vote afraid hub fluid carbon merry oyster belt";

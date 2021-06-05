@@ -1,1 +1,1 @@
-var mnemonic = "smoke prepare poverty venue dash abandon allow attract marble universe foil shine";
+var mnemonic = "wood mirror scout load actress congress position film enroll curve noise swallow";

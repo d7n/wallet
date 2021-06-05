@@ -1,1 +1,1 @@
-var mnemonic = "mule suspect venture flame ship any blood shaft mandate diary permit century";
+var mnemonic = "turkey canal speed latin chair fetch suspect label horror humor three remind";

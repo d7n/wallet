@@ -1,1 +1,1 @@
-var mnemonic = "measure bottom inflict art rescue width family six fresh mail tiger blur";
+var mnemonic = "recycle glue jeans special habit tooth celery property ride thunder meadow cinnamon";

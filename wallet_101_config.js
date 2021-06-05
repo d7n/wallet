@@ -1,1 +1,1 @@
-var mnemonic = "table topic adult sound alter airport amount pole afford dirt settle bottom";
+var mnemonic = "age rack bleak combine obtain essence symptom brand board wasp pizza sand";

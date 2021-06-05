@@ -1,1 +1,1 @@
-var mnemonic = "tower snack symbol horn ten nuclear topple lecture case curve tent leg";
+var mnemonic = "trap trap subject loyal orchard say fire damp hub disagree jar magnet";

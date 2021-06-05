@@ -1,1 +1,1 @@
-var mnemonic = "vacuum shove cactus govern pear poverty insane debate danger under reduce priority";
+var mnemonic = "second hen cheap boat imitate scene syrup deal force chalk annual someone";

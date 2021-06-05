@@ -1,1 +1,1 @@
-var mnemonic = "same mansion cruel quantum you portion valve route soon copper round first";
+var mnemonic = "ozone canvas powder relief tree filter shallow elegant lumber then photo average";

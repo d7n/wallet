@@ -1,1 +1,1 @@
-var mnemonic = "remove armor upon swim visual decade sustain never system decide dumb picture";
+var mnemonic = "ill business skate expose since side heavy wet crazy fluid claim sniff";

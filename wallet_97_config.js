@@ -1,1 +1,1 @@
-var mnemonic = "cool alone zone bright wing range motor volume raccoon awkward logic poet";
+var mnemonic = "target ocean wheat blanket river clip punch tattoo raw name cupboard disease";

@@ -1,1 +1,1 @@
-var mnemonic = "message famous wrap insane consider dignity round field lawsuit alone detect cream";
+var mnemonic = "cable nerve book gain struggle fork trick nominee option afraid rough other";

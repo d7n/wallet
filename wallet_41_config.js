@@ -1,1 +1,1 @@
-var mnemonic = "harbor shallow upon below material auction exit disease prize clean sort icon";
+var mnemonic = "tube select short segment ghost gossip cruel arrange shell degree grocery quick";

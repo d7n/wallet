@@ -1,1 +1,1 @@
-var mnemonic = "letter pride cup song cannon nerve render company lobster cousin wear mask";
+var mnemonic = "arena unveil armed poverty display oil dash govern castle develop ceiling grass";

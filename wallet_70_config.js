@@ -1,1 +1,1 @@
-var mnemonic = "jaguar helmet blast naive insect pupil abandon success year deposit height quarter";
+var mnemonic = "table offer shoot mail oblige leave wagon victory wreck sheriff habit once";

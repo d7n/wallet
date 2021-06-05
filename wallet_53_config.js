@@ -1,1 +1,1 @@
-var mnemonic = "rail vital cement grape can burden sick nuclear stomach scare fan already";
+var mnemonic = "throw caught lizard radar later enforce angle depart miss tortoise flat drift";

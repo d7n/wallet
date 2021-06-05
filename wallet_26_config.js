@@ -1,1 +1,1 @@
-var mnemonic = "edge unique spring slice judge about bag aware aim problem joy rotate";
+var mnemonic = "choose primary super coil length hunt category harvest attack toy private wet";

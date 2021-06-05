@@ -1,1 +1,1 @@
-var mnemonic = "catalog estate pottery trade bleak hammer lyrics number black wedding ride harvest";
+var mnemonic = "age board fly zero box winter lab garden sustain omit attack joke";

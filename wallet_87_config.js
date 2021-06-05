@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tomorrow can merry skirt ethics input magic ability high rather dove";
+var mnemonic = "analyst ice used reflect soap render walk over figure gun staff zoo";

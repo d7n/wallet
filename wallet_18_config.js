@@ -1,1 +1,1 @@
-var mnemonic = "notable client wine humor dust hip attitude snow copy nature tennis lake";
+var mnemonic = "scare essay run flee bracket security ivory suffer smoke small extra labor";

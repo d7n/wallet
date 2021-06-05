@@ -1,1 +1,1 @@
-var mnemonic = "bomb board pledge trouble trust scheme snack decade material mom soap wheel";
+var mnemonic = "divorce uncle rhythm ginger credit rookie movie claim pony lend asthma toward";

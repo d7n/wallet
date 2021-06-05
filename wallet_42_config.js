@@ -1,1 +1,1 @@
-var mnemonic = "rescue embody weekend arch wrestle crucial hurt secret club travel squeeze wedding";
+var mnemonic = "end grass jelly taste perfect hub pull piano praise typical promote bomb";

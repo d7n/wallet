@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fade caught hurt inhale elite guide danger host rigid ask noise";
+var mnemonic = "float bottom mammal pulp episode wild sniff correct enforce motion shove urge";

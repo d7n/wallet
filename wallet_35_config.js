@@ -1,1 +1,1 @@
-var mnemonic = "coyote hazard tuna crush pyramid skill detect grant yellow basic shoulder flash";
+var mnemonic = "analyst almost caution curtain design observe disorder canvas juice step crater seek";

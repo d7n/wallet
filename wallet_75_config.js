@@ -1,1 +1,1 @@
-var mnemonic = "seven hurry like success smile mystery orient gather drop brisk mechanic project";
+var mnemonic = "assist picture equip clutch off beach else luggage author hat because disorder";

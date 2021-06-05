@@ -1,1 +1,1 @@
-var mnemonic = "act because boy effort ketchup blanket inch sense sunset lawsuit spring teach";
+var mnemonic = "elevator digital burden section team script snow wish ski alien dry tiny";

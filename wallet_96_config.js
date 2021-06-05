@@ -1,1 +1,1 @@
-var mnemonic = "wave tooth review magic update kind limb process alone walk fancy pepper";
+var mnemonic = "cannon human measure ready giant mistake state duty afraid yellow bridge bone";

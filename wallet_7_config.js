@@ -1,1 +1,1 @@
-var mnemonic = "chase assault tape dutch jar exotic verify spray vicious question coffee float";
+var mnemonic = "crash recycle dwarf man fun erase owner token setup drip stem sun";

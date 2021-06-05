@@ -1,1 +1,1 @@
-var mnemonic = "proof between eager friend absurd chair found absent couch noble divorce aim";
+var mnemonic = "smart ethics fine athlete useful journey seminar virtual kid flame heart devote";

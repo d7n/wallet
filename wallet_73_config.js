@@ -1,1 +1,1 @@
-var mnemonic = "bunker female network riot lady crisp mind blame plate team ginger weird";
+var mnemonic = "abuse food harsh skirt mesh tip bachelor equal poverty forum north pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "switch butter put mom glove age orient situate express glimpse family great";
+var mnemonic = "night hope exclude tree despair coconut grant between snap shift just medal";

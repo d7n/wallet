@@ -1,1 +1,1 @@
-var mnemonic = "quit rack boil success vendor curtain genius snow charge that donor glass";
+var mnemonic = "kangaroo door kidney same catalog mind property decade rebel retire artist wet";

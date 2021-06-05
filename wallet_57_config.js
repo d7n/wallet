@@ -1,1 +1,1 @@
-var mnemonic = "top obey believe walk myself elevator wall canvas dry shine sunset manual";
+var mnemonic = "cactus detail pelican mushroom ozone decline survey supreme foil maze visit exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "feature radar apple tooth junior charge diagram mandate consider toast tennis merge";
+var mnemonic = "busy welcome stove debate enter employ head radar gesture salt among lava";

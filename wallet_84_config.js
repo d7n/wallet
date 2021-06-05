@@ -1,1 +1,1 @@
-var mnemonic = "fitness hour build health word confirm shed orange ticket afford debate crater";
+var mnemonic = "park slot myth blade language tortoise burden arctic inch resist soup certain";

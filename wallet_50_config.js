@@ -1,1 +1,1 @@
-var mnemonic = "truck canoe library human alley purchase walk fun essay awful kangaroo purity";
+var mnemonic = "length blind together recycle song pretty chief laundry churn ten south era";

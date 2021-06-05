@@ -1,1 +1,1 @@
-var mnemonic = "reduce dish vintage captain immense hobby wagon false patient burger inmate spray";
+var mnemonic = "caught unit pole various tail subway random sweet fork soap mask review";

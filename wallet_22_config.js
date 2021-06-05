@@ -1,1 +1,1 @@
-var mnemonic = "urge fiscal satisfy face dove width demand moral quote cotton phrase transfer";
+var mnemonic = "column arrest grow electric usage arctic swing piano trouble right pattern merry";
