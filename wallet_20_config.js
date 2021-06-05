@@ -1,1 +1,1 @@
-var mnemonic = "energy leader frown weasel yellow volcano usage fix try lucky outside illegal";
+var mnemonic = "lobster timber maid accident exotic original piece food tornado token beef push";

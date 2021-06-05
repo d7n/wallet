@@ -1,1 +1,1 @@
-var mnemonic = "kingdom occur twenty outer race sun state library else arrest camp pepper";
+var mnemonic = "sibling tongue talent female lucky proud caught distance tiny ecology scrub tell";

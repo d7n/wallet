@@ -1,1 +1,1 @@
-var mnemonic = "swim noodle prison lumber inmate horse fuel double open olympic provide cage";
+var mnemonic = "use abstract pigeon rival stick vacuum bicycle gaze polar home label various";

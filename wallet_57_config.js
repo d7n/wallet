@@ -1,1 +1,1 @@
-var mnemonic = "subway festival remember divert vital ski cannon always lounge flower gasp lemon";
+var mnemonic = "gesture novel purity owner satoshi best project bring depend riot gallery limit";

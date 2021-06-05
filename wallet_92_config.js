@@ -1,1 +1,1 @@
-var mnemonic = "mammal stable crystal donate winter canoe cancel apology heart spell quantum rent";
+var mnemonic = "oval flee notice enable glory arctic person health dish run vital faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "charge stove swing orphan frost focus denial silver ask base beef move";
+var mnemonic = "wedding company exhaust genius stage manage argue crisp runway muscle bring pink";

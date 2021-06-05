@@ -1,1 +1,1 @@
-var mnemonic = "wealth rifle dog hidden great bring miracle load inspire donate element hurdle";
+var mnemonic = "quantum coconut flower detail pen oak reward present snack lend capable lounge";

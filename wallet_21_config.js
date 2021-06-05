@@ -1,1 +1,1 @@
-var mnemonic = "because olive update update armed able opera summer animal usage gold tuna";
+var mnemonic = "race pattern average main cigar tooth modify accuse river rack timber fluid";

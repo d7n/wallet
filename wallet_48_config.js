@@ -1,1 +1,1 @@
-var mnemonic = "disagree clay ethics normal attitude crush they conduct trash slush pig want";
+var mnemonic = "layer basket faint father omit option desert cry swim silk attack stem";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug evoke vanish kick turtle special fringe book split unfair load anchor";
+var mnemonic = "helmet monster chunk open all visit wealth despair glimpse august move pony";

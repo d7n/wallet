@@ -1,1 +1,1 @@
-var mnemonic = "youth achieve reveal close domain erosion case torch economy lonely sight verify";
+var mnemonic = "okay exist lobster radio special fiber purse dignity return nation milk goat";

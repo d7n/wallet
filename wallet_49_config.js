@@ -1,1 +1,1 @@
-var mnemonic = "park system law bacon napkin hospital remember lion balance ball area salt";
+var mnemonic = "wide mesh pear vendor venue toss memory process rubber muffin gadget door";

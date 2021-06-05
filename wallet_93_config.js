@@ -1,1 +1,1 @@
-var mnemonic = "organ bus seven fun anchor brave private castle enough shoe gadget poverty";
+var mnemonic = "outdoor flavor tribe now purpose park small powder hire budget canal cream";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket govern wisdom knock stable essence assume cross history capable firm correct";
+var mnemonic = "tongue key place good business lucky pig upgrade scout cage glare detect";

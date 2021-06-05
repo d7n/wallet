@@ -1,1 +1,1 @@
-var mnemonic = "deputy balance quote duty vote cream parade town horn jeans topic sort";
+var mnemonic = "math feed december promote wear rural tilt early jacket world cement spoil";

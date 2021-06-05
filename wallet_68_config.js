@@ -1,1 +1,1 @@
-var mnemonic = "toilet venue budget already select inmate bag month someone gain conduct absorb";
+var mnemonic = "feed flight maximum pass frost taxi coral bounce first cost situate limb";

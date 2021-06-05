@@ -1,1 +1,1 @@
-var mnemonic = "disorder energy theme dolphin matter purity cargo various define float book produce";
+var mnemonic = "absorb pupil evoke diamond silly size excite country peasant breeze frost face";

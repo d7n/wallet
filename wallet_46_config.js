@@ -1,1 +1,1 @@
-var mnemonic = "happy clap key debris indicate false noise kingdom ritual toast smoke meat";
+var mnemonic = "mix scale dog stumble canoe budget sphere face horn wrist render silent";

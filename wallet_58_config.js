@@ -1,1 +1,1 @@
-var mnemonic = "chase amazing forward wedding vibrant carpet mobile pilot lunch depth hole alley";
+var mnemonic = "vault maple permit confirm dove cake only teach observe flat tank thank";

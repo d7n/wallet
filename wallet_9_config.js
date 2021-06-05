@@ -1,1 +1,1 @@
-var mnemonic = "mention beyond evolve noodle cabin crumble festival oven decline pledge science alert";
+var mnemonic = "isolate dress enhance industry actress pave raw put benefit pen dad mix";

@@ -1,1 +1,1 @@
-var mnemonic = "modify manage barrel piano sauce long toss action spend genre spare tornado";
+var mnemonic = "twice such height husband tongue broom chalk magic enrich engage physical fat";

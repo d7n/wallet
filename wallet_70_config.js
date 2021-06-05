@@ -1,1 +1,1 @@
-var mnemonic = "boring march blade health sauce either power slide abuse icon absorb antique";
+var mnemonic = "february abandon cable liberty arrow topic model scare lock remind scout original";

@@ -1,1 +1,1 @@
-var mnemonic = "casino faculty hill door glass fork deny cement marine change nut leg";
+var mnemonic = "garage hospital champion ball left sugar mansion original attract put rhythm such";

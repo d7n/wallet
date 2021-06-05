@@ -1,1 +1,1 @@
-var mnemonic = "please matrix sweet inject bag lift narrow humble sister gather spirit trigger";
+var mnemonic = "dirt immune thunder advice parade wage bicycle lunar start limb sound want";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket artist physical book snow gaze maximum discover essence enhance item decorate";
+var mnemonic = "mom key mule page reason rescue trigger roof give learn buzz detect";

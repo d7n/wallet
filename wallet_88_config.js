@@ -1,1 +1,1 @@
-var mnemonic = "pony limit virtual confirm ramp able large diamond street digital teach song";
+var mnemonic = "mass proud estate jungle biology aim gym draw afford pole secret lemon";

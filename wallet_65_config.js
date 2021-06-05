@@ -1,1 +1,1 @@
-var mnemonic = "imitate slender code drop purpose pelican twenty bachelor discover panther toast ceiling";
+var mnemonic = "mixture mushroom ensure dumb answer raise thumb magic tunnel melt diary soul";

@@ -1,1 +1,1 @@
-var mnemonic = "viable drum call scene shield random call tired monster upon pulse fetch";
+var mnemonic = "flush book bleak crime math action saddle sense room frozen banner collect";

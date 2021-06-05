@@ -1,1 +1,1 @@
-var mnemonic = "describe mosquito people inherit soap erupt abuse ginger you tank hungry trial";
+var mnemonic = "winter exit mutual barely winter dove crouch ship regret refuse lawn target";

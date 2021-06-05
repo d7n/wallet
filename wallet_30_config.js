@@ -1,1 +1,1 @@
-var mnemonic = "spend pepper soccer word spoil bless bomb swallow venture breeze need regret";
+var mnemonic = "proof write buffalo dizzy deposit sniff salad feel enough invite click auto";

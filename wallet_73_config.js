@@ -1,1 +1,1 @@
-var mnemonic = "siren cupboard antique glove upon meadow learn merit catch brass spice wood";
+var mnemonic = "wreck heart upper approve total candy absurd giggle lava rare wheel aspect";

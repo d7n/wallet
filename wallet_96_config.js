@@ -1,1 +1,1 @@
-var mnemonic = "kite boss price right chuckle best vibrant manage spread glue time dentist";
+var mnemonic = "there visa battle slow satoshi cram course open index spot fortune twist";

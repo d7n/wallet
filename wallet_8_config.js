@@ -1,1 +1,1 @@
-var mnemonic = "dirt print fancy proof boat until myth city also dinner stick absorb";
+var mnemonic = "grit load pudding mobile enemy project moral exhaust play burst asset toe";

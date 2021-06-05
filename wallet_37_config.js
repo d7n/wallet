@@ -1,1 +1,1 @@
-var mnemonic = "alcohol angry where hazard cloth curious panda can sure denial crush also";
+var mnemonic = "hint olive industry obscure debate refuse shy olive load name gown shrug";

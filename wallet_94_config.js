@@ -1,1 +1,1 @@
-var mnemonic = "bubble carpet wrestle exhaust cliff daring detail ship toss purchase anger walk";
+var mnemonic = "stumble correct air urge once domain sketch smooth ivory favorite slide camp";

@@ -1,1 +1,1 @@
-var mnemonic = "upper trim volcano useless believe hat census cereal fox nest couple spoil";
+var mnemonic = "surge tomato soldier kid border banner fury crush priority van obtain snow";

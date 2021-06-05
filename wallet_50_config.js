@@ -1,1 +1,1 @@
-var mnemonic = "denial change attitude gym year fitness jazz shadow uphold field duck pyramid";
+var mnemonic = "calm wrong decorate magnet tunnel helmet siren essay undo lock advice miracle";

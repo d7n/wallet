@@ -1,1 +1,1 @@
-var mnemonic = "ship giant team shiver expand monitor movie wealth annual cool misery mercy";
+var mnemonic = "innocent sea twin security forget wide indicate refuse two rescue loyal badge";

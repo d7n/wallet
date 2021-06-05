@@ -1,1 +1,1 @@
-var mnemonic = "van insect hybrid fault add glide inch wrong banana argue spice blast";
+var mnemonic = "bicycle dirt aspect vapor shiver poem stick lamp fragile best violin photo";

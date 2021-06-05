@@ -1,1 +1,1 @@
-var mnemonic = "assist urban obtain affair outside struggle useless flush list empower lion genius";
+var mnemonic = "economy ketchup cover answer explain absent onion donate jeans energy file holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse jacket soldier leave myself dumb wild lunar check magnet outdoor narrow";
+var mnemonic = "call foil caught quantum topple pluck wonder dutch swear stage defense recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics away excuse ghost absent decrease horse innocent fee custom coyote spot";
+var mnemonic = "gallery sketch food media enhance side donate stock shrimp tube auction hour";

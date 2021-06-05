@@ -1,1 +1,1 @@
-var mnemonic = "dance clay smoke civil gasp sense ocean general seek fence private illegal";
+var mnemonic = "hip gaze furnace lizard fly lonely situate ask sea delay hazard exist";

@@ -1,1 +1,1 @@
-var mnemonic = "coil excuse deny half sorry north pepper noise road pen liberty craft";
+var mnemonic = "short forum minimum wild one glide salute dumb depth survey used liberty";

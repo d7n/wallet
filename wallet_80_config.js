@@ -1,1 +1,1 @@
-var mnemonic = "around hunt skull banner stand device sign cover crouch soon barely over";
+var mnemonic = "grape obvious wasp boring axis stove vendor cousin gift mule local scissors";

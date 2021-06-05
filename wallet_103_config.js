@@ -1,1 +1,1 @@
-var mnemonic = "divert festival garbage horn bag virtual vibrant divorce scorpion pipe engage cargo";
+var mnemonic = "garden control pact stable bind usage taxi squeeze reveal exchange near deny";

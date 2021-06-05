@@ -1,1 +1,1 @@
-var mnemonic = "oppose behave name infant hint mom cinnamon tuition gorilla size rare gasp";
+var mnemonic = "patch follow valid width vivid diet myself ready rebuild boat gather seek";

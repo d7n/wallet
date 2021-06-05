@@ -1,1 +1,1 @@
-var mnemonic = "topic game video face sound uniform fruit market squeeze enforce grain spoon";
+var mnemonic = "absent result rule benefit blouse six bar three brain easy swim hole";

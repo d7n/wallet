@@ -1,1 +1,1 @@
-var mnemonic = "perfect speak able viable burden spot hundred rather picture excite fox domain";
+var mnemonic = "vocal pipe cupboard skate explain remember kiwi kind side castle run hour";

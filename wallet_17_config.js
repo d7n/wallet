@@ -1,1 +1,1 @@
-var mnemonic = "ordinary liar build rather gesture canoe donkey dignity syrup fine worth crash";
+var mnemonic = "empty utility ranch review toward slab hedgehog toast crash spy clay roof";

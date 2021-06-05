@@ -1,1 +1,1 @@
-var mnemonic = "rival end inch box husband review imitate zebra armed joy arch champion";
+var mnemonic = "latin jeans pole music early pilot dad must panda volume amount execute";

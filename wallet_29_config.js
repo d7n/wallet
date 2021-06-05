@@ -1,1 +1,1 @@
-var mnemonic = "muffin mask speak bomb damage fiscal three horn entry iron flee detail";
+var mnemonic = "wood income joke code decide claw tide between satisfy orange human saddle";

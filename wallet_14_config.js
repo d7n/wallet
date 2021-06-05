@@ -1,1 +1,1 @@
-var mnemonic = "toward scare turkey record screen ghost other inspire unique dwarf walk curve";
+var mnemonic = "social vault warfare only direct ill actress three kite walnut dignity try";

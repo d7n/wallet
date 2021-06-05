@@ -1,1 +1,1 @@
-var mnemonic = "army lock salad deny warm brass charge arrive office range buzz someone";
+var mnemonic = "reject come pelican define airport cloud fuel decade effort cry super snap";

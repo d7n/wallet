@@ -1,1 +1,1 @@
-var mnemonic = "wife dice legend begin smooth intact crawl sister tell slogan doll split";
+var mnemonic = "office usual steak theory other message speak also air scorpion short call";

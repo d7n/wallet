@@ -1,1 +1,1 @@
-var mnemonic = "transfer brick excess expose melt element jewel weapon claim risk slogan excuse";
+var mnemonic = "actress found guilt reveal strike income moral dry erase attend company cash";

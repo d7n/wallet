@@ -1,1 +1,1 @@
-var mnemonic = "pencil kidney fiscal envelope lend amount skull step bird miss torch loud";
+var mnemonic = "cargo ocean task sea staff sail duck napkin kangaroo dutch ten bundle";

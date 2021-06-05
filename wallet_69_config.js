@@ -1,1 +1,1 @@
-var mnemonic = "friend mention access owner circle term pair praise secret april clump urge";
+var mnemonic = "sibling choose possible reopen cliff rose yellow twice fresh puppy render owner";

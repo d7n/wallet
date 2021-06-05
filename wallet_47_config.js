@@ -1,1 +1,1 @@
-var mnemonic = "that diagram lift office record gesture oak alert physical fruit boy project";
+var mnemonic = "squirrel post elbow result crouch depend deer near snow cherry immense cement";

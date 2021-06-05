@@ -1,1 +1,1 @@
-var mnemonic = "coffee leg taxi turkey fever sight mask ability black tenant able climb";
+var mnemonic = "punch enhance artwork globe sheriff lucky cloud lake delay useless actor twelve";

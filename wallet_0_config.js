@@ -1,1 +1,1 @@
-var mnemonic = "session radio bicycle weather agree only baby album scan over curious someone";
+var mnemonic = "assault check exotic dismiss fold exotic mixed twice focus together husband amazing";

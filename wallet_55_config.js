@@ -1,1 +1,1 @@
-var mnemonic = "six guide column below wool neither limit grunt vital oven bean key";
+var mnemonic = "tank early casino ritual eight dune ticket crunch spin good struggle glimpse";

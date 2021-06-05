@@ -1,1 +1,1 @@
-var mnemonic = "amount unveil soap address seek grass bunker auction enrich differ ketchup stable";
+var mnemonic = "art spin train carpet slush fringe shine disorder market desert pond century";

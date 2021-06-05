@@ -1,1 +1,1 @@
-var mnemonic = "album agent aisle caution aware island print nominee captain donate response toy";
+var mnemonic = "inch gun poet jungle birth aerobic dust horse virtual banner swift thought";

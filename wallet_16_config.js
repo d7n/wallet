@@ -1,1 +1,1 @@
-var mnemonic = "legend wedding chuckle poet degree layer keep victory hamster insect dust wrist";
+var mnemonic = "device inner junior fine style teach cheese clutch wasp inhale figure harbor";

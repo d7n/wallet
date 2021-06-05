@@ -1,1 +1,1 @@
-var mnemonic = "reveal feed senior stairs chimney soon tobacco deny ritual mean wave desk";
+var mnemonic = "pupil danger tourist scatter knee scene produce sick warfare limb frozen into";

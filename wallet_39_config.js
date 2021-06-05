@@ -1,1 +1,1 @@
-var mnemonic = "green ask camera remember same plastic because observe rule surface afraid kiwi";
+var mnemonic = "diamond garment sunset echo current abstract aerobic guard bunker call luxury embrace";

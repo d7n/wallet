@@ -1,1 +1,1 @@
-var mnemonic = "husband menu time morning motor pitch bulb skin skull rain relief churn";
+var mnemonic = "follow head upper shaft honey couch brain top finish animal auction midnight";

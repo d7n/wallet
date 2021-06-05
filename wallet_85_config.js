@@ -1,1 +1,1 @@
-var mnemonic = "account remove pave code arena dash chase phrase pony trigger valid wink";
+var mnemonic = "opinion party tired nerve gadget fabric help clean emerge utility session stadium";

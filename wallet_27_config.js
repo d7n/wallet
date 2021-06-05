@@ -1,1 +1,1 @@
-var mnemonic = "pact stamp vague fever situate logic divide lemon during pear frequent chef";
+var mnemonic = "garden grief apology muscle carry floor impose mesh bread left trend horse";

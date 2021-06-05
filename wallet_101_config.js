@@ -1,1 +1,1 @@
-var mnemonic = "very learn bronze improve double trash kiss endorse remind other plastic grow";
+var mnemonic = "charge wrist vacant reject salute attitude visa open cabin front hundred scrub";

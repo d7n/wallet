@@ -1,1 +1,1 @@
-var mnemonic = "twist scissors truly style winter tower segment gap kit slender whale eight";
+var mnemonic = "balance news latin blade brain canvas crack meadow fury real true canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor young enough violin expect purse simple admit quantum fuel tiny sunset";
+var mnemonic = "narrow author slogan insect know skirt cat vacuum brief region script reason";

@@ -1,1 +1,1 @@
-var mnemonic = "mention post move finish jazz maximum vicious annual unknown protect utility outdoor";
+var mnemonic = "anger width organ bone provide drama library divert educate economy kind worry";

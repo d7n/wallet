@@ -1,1 +1,1 @@
-var mnemonic = "lemon donor yard swim horse glare layer nominee give cradle harsh boat";
+var mnemonic = "vast lecture poverty hammer female zone cook setup laptop torch online friend";

@@ -1,1 +1,1 @@
-var mnemonic = "depart comfort route agent wisdom quarter violin skin harbor alcohol power element";
+var mnemonic = "material nature genuine urban coast depth purse upgrade park labor smoke hurry";

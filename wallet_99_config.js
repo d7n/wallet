@@ -1,1 +1,1 @@
-var mnemonic = "heart taste food bounce occur love engage mimic stem seven siren cat";
+var mnemonic = "sketch target drop angry vintage fetch tomorrow ski broken unfold hood faith";

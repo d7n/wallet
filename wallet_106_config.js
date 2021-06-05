@@ -1,1 +1,1 @@
-var mnemonic = "weapon hybrid buffalo injury thing someone develop loud burger good excuse world";
+var mnemonic = "debate cream decade awkward weasel ordinary fall perfect pause scene remind nut";

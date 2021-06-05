@@ -1,1 +1,1 @@
-var mnemonic = "despair sibling recall exhaust join afford divert catch curtain damage bomb comic";
+var mnemonic = "divorce frost trap client put rocket reveal illness coast trip across pizza";

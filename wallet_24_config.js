@@ -1,1 +1,1 @@
-var mnemonic = "captain plastic thunder dumb spy secret side time crime thought soda shallow";
+var mnemonic = "member feel path yellow alarm wide desert coyote arch cake plate calm";

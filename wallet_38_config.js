@@ -1,1 +1,1 @@
-var mnemonic = "dizzy logic alpha movie vapor cycle taste flip together yard enhance thought";
+var mnemonic = "short wrist copper banner wish bullet voyage crowd innocent visa family affair";

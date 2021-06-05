@@ -1,1 +1,1 @@
-var mnemonic = "ticket sick upper book chat task worth build saddle leopard cinnamon you";
+var mnemonic = "wisdom valve oil object crane panic dish faith trouble oyster vicious family";

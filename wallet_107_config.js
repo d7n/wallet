@@ -1,1 +1,1 @@
-var mnemonic = "mutual close goddess wreck cliff flee amazing extend tiger video invest apology";
+var mnemonic = "improve spatial will idea lecture visual shadow web tape nasty among album";
