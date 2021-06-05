@@ -1,1 +1,1 @@
-var mnemonic = "mutual chef banana design lesson harbor adjust catch indicate neither hurry library";
+var mnemonic = "canal victory express jungle sad roast glide habit bridge ask canyon donate";

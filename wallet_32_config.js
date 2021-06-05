@@ -1,1 +1,1 @@
-var mnemonic = "acoustic employ village grunt reduce brand canyon best such thrive rally nuclear";
+var mnemonic = "brief ceiling sample lift grab fitness remain velvet random chicken doctor lift";

@@ -1,1 +1,1 @@
-var mnemonic = "there inflict duck humor rebuild damp sing clog wild pride produce divide";
+var mnemonic = "guide energy manage blur deposit front fuel call burger oven turkey human";

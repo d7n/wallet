@@ -1,1 +1,1 @@
-var mnemonic = "grape cash hungry amateur voice electric payment pill venture idle property orchard";
+var mnemonic = "surge among future price dress lemon acquire remain kick enemy tent bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet captain canal spike federal exclude laundry payment run brother umbrella doll";
+var mnemonic = "angry social empty shrimp ball estate chapter debate joke canvas oppose hazard";

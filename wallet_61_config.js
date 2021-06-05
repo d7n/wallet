@@ -1,1 +1,1 @@
-var mnemonic = "build enhance canyon edit develop clarify jungle physical obtain habit struggle eight";
+var mnemonic = "exhibit settle lottery gold spoil bargain collect file waste movie search town";

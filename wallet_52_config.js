@@ -1,1 +1,1 @@
-var mnemonic = "cost guard broken crowd twelve uphold nothing poverty language robust gentle donor";
+var mnemonic = "shallow glove term alley someone finish inner royal candy section crumble once";

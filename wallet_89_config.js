@@ -1,1 +1,1 @@
-var mnemonic = "dog loop destroy country lyrics upon engine hedgehog crush butter jacket vapor";
+var mnemonic = "raven horse meat damage express donkey core test veteran property wall grunt";

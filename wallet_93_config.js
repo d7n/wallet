@@ -1,1 +1,1 @@
-var mnemonic = "jump oak pistol tank nerve funny slogan slam journey famous segment mention";
+var mnemonic = "bench mansion base anxiety bean about six lobster woman reopen pioneer canvas";

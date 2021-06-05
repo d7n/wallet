@@ -1,1 +1,1 @@
-var mnemonic = "unique actress together slight swift detect boss track cake sentence rival canoe";
+var mnemonic = "inform shrimp day film style mixture frost aunt tray head ability very";

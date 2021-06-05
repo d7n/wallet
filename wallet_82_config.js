@@ -1,1 +1,1 @@
-var mnemonic = "napkin spider chapter pilot volume candy connect mountain lounge dawn outer human";
+var mnemonic = "midnight frog cricket net novel spider dismiss flee awkward honey vintage combine";

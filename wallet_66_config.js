@@ -1,1 +1,1 @@
-var mnemonic = "lab differ kitchen call illness harsh indoor cluster version inside achieve target";
+var mnemonic = "visual wife measure ecology border wedding stumble drama rookie cry oxygen doctor";

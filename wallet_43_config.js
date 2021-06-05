@@ -1,1 +1,1 @@
-var mnemonic = "tiger citizen trouble today staff purse maple meat truth rescue axis hire";
+var mnemonic = "hazard green legal once fork mule divert type dream staff reopen giant";

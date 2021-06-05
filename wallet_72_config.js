@@ -1,1 +1,1 @@
-var mnemonic = "hand measure inform pool visual clinic try public team ability above awful";
+var mnemonic = "capable pink coin same wear enough december sail entry bench regret hundred";

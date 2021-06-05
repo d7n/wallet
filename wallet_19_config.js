@@ -1,1 +1,1 @@
-var mnemonic = "twist female slogan oyster reunion cram grape nerve prize decrease later that";
+var mnemonic = "chaos alien bridge matrix service process town cake thank empower girl lab";

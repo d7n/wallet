@@ -1,1 +1,1 @@
-var mnemonic = "history they woman dose scene prefer tent borrow couch key day much";
+var mnemonic = "scrub deal evidence rocket suit cradle confirm appear galaxy piece almost black";

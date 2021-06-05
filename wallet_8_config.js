@@ -1,1 +1,1 @@
-var mnemonic = "shiver capable vessel they air iron swarm flock canoe display company napkin";
+var mnemonic = "acquire group patrol grain obey trim file say canal all text foot";

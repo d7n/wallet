@@ -1,1 +1,1 @@
-var mnemonic = "jaguar exclude depth know pill scene club blast mask sunny gossip alcohol";
+var mnemonic = "often page boring silent anchor want hire enact grain payment gorilla ride";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid picnic setup soft solid ramp online deal mistake dynamic hamster pizza";
+var mnemonic = "gentle issue march example around expire symbol salmon prize limit tackle among";

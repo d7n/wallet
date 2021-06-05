@@ -1,1 +1,1 @@
-var mnemonic = "depth keen angry flower wish path canoe curtain keen chief garment food";
+var mnemonic = "blanket timber smile ridge loop head young pilot economy uphold tragic elite";

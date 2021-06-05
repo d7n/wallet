@@ -1,1 +1,1 @@
-var mnemonic = "spray snack meat ocean stage educate camp trophy aisle dinosaur practice return";
+var mnemonic = "pioneer absent ignore sentence economy setup spray man exile attend daughter sell";

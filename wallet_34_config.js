@@ -1,1 +1,1 @@
-var mnemonic = "dawn metal unusual merge crunch action smile depart expect sand polar alter";
+var mnemonic = "artefact error struggle proof more exact truly obvious document silly plunge spread";

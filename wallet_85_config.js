@@ -1,1 +1,1 @@
-var mnemonic = "night reveal void wedding foam twenty entry snake nest gadget urban seed";
+var mnemonic = "always ability cable relax spatial strike sadness domain pattern denial cram orphan";

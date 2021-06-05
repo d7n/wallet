@@ -1,1 +1,1 @@
-var mnemonic = "bounce dove left dignity sick shock exchange engine train art become enact";
+var mnemonic = "prevent vague banana effort unveil hair plate toe essence swallow opinion future";

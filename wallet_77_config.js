@@ -1,1 +1,1 @@
-var mnemonic = "elder catch nephew atom rural puzzle illegal cool slight post hamster swim";
+var mnemonic = "gesture athlete gauge caution obvious inquiry saddle retire normal pride budget tiny";

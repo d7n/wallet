@@ -1,1 +1,1 @@
-var mnemonic = "duck energy marble neglect despair merge inmate palace soon canyon winner token";
+var mnemonic = "parade width hurdle basket retire banana unable stock oppose junior soul comic";

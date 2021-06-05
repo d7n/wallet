@@ -1,1 +1,1 @@
-var mnemonic = "hair shop weekend possible error benefit armed timber roof change spider level";
+var mnemonic = "diagram empower draft boy unaware attend jar swear abuse convince design beach";

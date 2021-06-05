@@ -1,1 +1,1 @@
-var mnemonic = "puppy approve cave fringe hole visual rabbit general myself coil office wage";
+var mnemonic = "fog pudding hammer option also tower sweet faculty faculty chuckle drip struggle";

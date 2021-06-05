@@ -1,1 +1,1 @@
-var mnemonic = "jelly bullet imitate enroll depart lunar cattle accident tone shrug announce crisp";
+var mnemonic = "gown already gauge skill soccer rhythm cabin able safe crunch number gospel";

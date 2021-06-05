@@ -1,1 +1,1 @@
-var mnemonic = "patch banner fruit hazard color night width govern what polar tuna upon";
+var mnemonic = "afraid tuition vehicle tonight identify life laptop tackle achieve robot forum above";

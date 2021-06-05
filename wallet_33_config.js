@@ -1,1 +1,1 @@
-var mnemonic = "squeeze damp basket fatal tonight nature secret settle orange mule ketchup cake";
+var mnemonic = "replace argue ivory useful monitor gun mirror caught toast annual trouble mutual";

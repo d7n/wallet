@@ -1,1 +1,1 @@
-var mnemonic = "cruise hundred devote doctor cat liberty sibling unaware manual champion display quarter";
+var mnemonic = "repair draft grab drip gown humor boss session nation dragon trial fold";

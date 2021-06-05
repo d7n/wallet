@@ -1,1 +1,1 @@
-var mnemonic = "field almost picture slice buyer focus hand type scatter spare rug spike";
+var mnemonic = "stay tank almost alter oblige orchard allow deer doctor during thank tonight";

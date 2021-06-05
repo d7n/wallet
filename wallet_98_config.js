@@ -1,1 +1,1 @@
-var mnemonic = "lady cause witness crumble pottery pet stand wrist accident verb thought issue";
+var mnemonic = "tank love rose rebel photo flower bless quit vague riot inquiry calm";

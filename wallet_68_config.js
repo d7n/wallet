@@ -1,1 +1,1 @@
-var mnemonic = "orchard kite nerve raven crowd riot there wise fish balcony myself skin";
+var mnemonic = "powder recall demand echo usage casual weird pitch gasp ill curious portion";

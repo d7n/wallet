@@ -1,1 +1,1 @@
-var mnemonic = "possible topic until advice nut update require romance furnace symbol absurd fancy";
+var mnemonic = "ivory together decrease pause history assume despair ready hand people solve camp";

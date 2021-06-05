@@ -1,1 +1,1 @@
-var mnemonic = "dutch prevent eye cycle street banana east lucky mobile gaze announce tone";
+var mnemonic = "tunnel seek walnut weird fire tribe donate odor junior between beef label";

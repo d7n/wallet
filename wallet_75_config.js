@@ -1,1 +1,1 @@
-var mnemonic = "average produce over great venture about fury fork acquire virtual pudding cereal";
+var mnemonic = "stand nuclear figure foam enforce victory snap wrestle wealth audit involve visual";

@@ -1,1 +1,1 @@
-var mnemonic = "method beyond suit basic inner law napkin animal vote surround approve suggest";
+var mnemonic = "team conduct crater blossom year hint sight mind labor salon inhale steel";

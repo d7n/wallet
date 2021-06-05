@@ -1,1 +1,1 @@
-var mnemonic = "fury private before shoe false hood shell select loan stool twelve estate";
+var mnemonic = "matter device enhance time visa motion destroy math later uncover rain conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "correct toe fine thumb promote setup below bike camp velvet slight van";
+var mnemonic = "space fruit rich grape horror resist allow pizza feature lyrics minor short";

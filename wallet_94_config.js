@@ -1,1 +1,1 @@
-var mnemonic = "exile dune rain prison farm spirit cage weird glance paper category ribbon";
+var mnemonic = "wagon planet trumpet sunset portion live have original gauge odor multiply camera";

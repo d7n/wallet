@@ -1,1 +1,1 @@
-var mnemonic = "man amused job ostrich wrestle alarm mountain cereal notice system option inform";
+var mnemonic = "enforce spot gasp expand social deposit pizza ride stage hurry such require";

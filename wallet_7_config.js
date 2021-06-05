@@ -1,1 +1,1 @@
-var mnemonic = "sleep olive amount lens swear resemble actual excess couple mixture beach upset";
+var mnemonic = "diary language process test wheel rain member expose potato lab vacuum sibling";

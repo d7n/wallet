@@ -1,1 +1,1 @@
-var mnemonic = "race pumpkin balcony swallow margin pond hospital inflict carry evil erupt cave";
+var mnemonic = "update keep license athlete nerve tape rose credit prosper weather industry glow";

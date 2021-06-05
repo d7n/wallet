@@ -1,1 +1,1 @@
-var mnemonic = "target pause stand faculty solid gap scrap use reopen approve legal thank";
+var mnemonic = "corn slam say video pulse scare expose weekend hedgehog pyramid load seminar";

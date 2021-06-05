@@ -1,1 +1,1 @@
-var mnemonic = "section city coin apart dentist mimic hockey nuclear glass edge rice bird";
+var mnemonic = "service include caution purse bus usage toward cloud long hospital garage egg";

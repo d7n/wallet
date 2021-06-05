@@ -1,1 +1,1 @@
-var mnemonic = "idea piece north ride amateur render remember frost jewel drum dress kitten";
+var mnemonic = "height six wood involve carry outdoor federal essence robust grid fresh giraffe";

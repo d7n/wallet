@@ -1,1 +1,1 @@
-var mnemonic = "fire light prosper remind debate cruise squirrel love dry eight vehicle vehicle";
+var mnemonic = "special never asset sheriff myth armor pudding wheel situate stem web minor";

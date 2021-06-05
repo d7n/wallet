@@ -1,1 +1,1 @@
-var mnemonic = "twice find defense thank venue public mention angle equip lady clap client";
+var mnemonic = "fix tuna scissors riot busy tent athlete subway tag child another intact";

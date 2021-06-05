@@ -1,1 +1,1 @@
-var mnemonic = "absorb finger cable code desk front price ankle parrot hold impulse snap";
+var mnemonic = "plunge salt used squirrel gaze invest cream cliff fix thumb vocal action";

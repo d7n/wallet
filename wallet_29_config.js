@@ -1,1 +1,1 @@
-var mnemonic = "culture liar trial file exchange clever stand slab casino enhance skill list";
+var mnemonic = "medal divorce program load regular nasty jelly wrap umbrella begin client dream";

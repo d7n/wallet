@@ -1,1 +1,1 @@
-var mnemonic = "shoot camera merry snack soda bacon damp motion bonus elephant impose across";
+var mnemonic = "rabbit bottom disagree pig main oven diet glory later goddess holiday theme";

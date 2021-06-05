@@ -1,1 +1,1 @@
-var mnemonic = "panic post tooth decade badge bundle kiss invite daring tooth black december";
+var mnemonic = "fitness maple inside cushion obtain lion old east idea pitch video ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "egg soap empty organ ridge parade neither swap fruit enlist measure earn";
+var mnemonic = "forget ketchup bomb gym water sheriff black shadow chief sister apology brave";

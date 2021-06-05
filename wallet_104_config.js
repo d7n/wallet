@@ -1,1 +1,1 @@
-var mnemonic = "dismiss rapid library member early heavy sense embark cube follow outer flavor";
+var mnemonic = "imitate sure gasp veteran another enter attend turkey sight age satoshi axis";

@@ -1,1 +1,1 @@
-var mnemonic = "motion huge fringe satoshi topic glad discover because turtle trial open hand";
+var mnemonic = "reveal cook town away shoot prison fatigue sudden attitude safe seat cash";

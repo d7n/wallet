@@ -1,1 +1,1 @@
-var mnemonic = "shaft choice private typical step answer expose odor ranch side forward firm";
+var mnemonic = "birth toast erupt true sun siege absorb ginger degree lock seminar approve";

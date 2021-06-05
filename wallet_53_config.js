@@ -1,1 +1,1 @@
-var mnemonic = "stairs increase stick weather super nest life ensure raccoon speak slogan year";
+var mnemonic = "cave knife digital memory upgrade beyond tank permit brick carbon always embrace";

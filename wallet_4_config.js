@@ -1,1 +1,1 @@
-var mnemonic = "season ankle boost faith offer time august person vital bridge ethics guitar";
+var mnemonic = "jewel economy maple age panic lucky snap sense alert police song tiger";

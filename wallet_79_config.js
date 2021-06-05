@@ -1,1 +1,1 @@
-var mnemonic = "orient dragon feel vicious hammer wonder document bundle effort scissors renew hamster";
+var mnemonic = "nothing kitchen you oval derive system intact supply this allow tree sentence";

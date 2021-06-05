@@ -1,1 +1,1 @@
-var mnemonic = "deliver danger image pig cruise drink cart art raven style spell century";
+var mnemonic = "theory neutral twice rigid cook solve sight provide dolphin order deer swamp";

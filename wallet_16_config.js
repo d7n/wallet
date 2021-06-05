@@ -1,1 +1,1 @@
-var mnemonic = "palm speed cricket rescue soul dash shield hand glance endorse quick trim";
+var mnemonic = "tourist vacuum swim prosper system write version cruise tape enrich muffin token";

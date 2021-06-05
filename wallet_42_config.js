@@ -1,1 +1,1 @@
-var mnemonic = "gravity alarm lawn toast river fiction awake ribbon change intact cause observe";
+var mnemonic = "wear brand share deal observe problem tobacco disorder inquiry chase lumber citizen";

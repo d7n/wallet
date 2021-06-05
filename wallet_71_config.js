@@ -1,1 +1,1 @@
-var mnemonic = "budget tornado cigar bridge tank buzz panel pretty capable sign execute pigeon";
+var mnemonic = "fossil glass park joke season eagle roast inquiry stumble undo lecture cricket";

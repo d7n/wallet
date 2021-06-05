@@ -1,1 +1,1 @@
-var mnemonic = "blast distance mask reform receive horror lawn december quiz rose float abandon";
+var mnemonic = "limit add dust dutch system mixed push space question onion remove ceiling";

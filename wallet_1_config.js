@@ -1,1 +1,1 @@
-var mnemonic = "crazy magic reveal craft joy shaft couple lawsuit tip pole peace salt";
+var mnemonic = "all face tragic whip odor illegal kidney tooth urban jelly nephew toe";

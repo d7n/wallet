@@ -1,1 +1,1 @@
-var mnemonic = "blossom topic jump chapter dentist sentence range virtual power above bind easily";
+var mnemonic = "cream undo local guard echo inhale crunch rather scrub inherit bubble knife";

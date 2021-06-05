@@ -1,1 +1,1 @@
-var mnemonic = "tree reopen infant quit other boring snack creek thunder invite toilet fame";
+var mnemonic = "husband develop sun twist salon mirror repair desk switch settle promote chef";

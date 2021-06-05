@@ -1,1 +1,1 @@
-var mnemonic = "hotel target prefer wonder bulb crystal fit alter clerk calm path ticket";
+var mnemonic = "sustain muffin praise correct hockey army achieve rude travel drive whale bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel athlete cook feature bundle holiday scan salmon outdoor little devote rocket";
+var mnemonic = "hard offer tone cruel fault tourist kind upset onion snake famous brain";

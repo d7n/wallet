@@ -1,1 +1,1 @@
-var mnemonic = "castle fix aunt alien champion betray broken gate select record taxi flash";
+var mnemonic = "salt camera gift that connect pond stand scrap one fatal clump gadget";

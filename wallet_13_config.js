@@ -1,1 +1,1 @@
-var mnemonic = "menu broken velvet language memory news fragile drama supreme flock soda route";
+var mnemonic = "zebra genuine spy during mean discover layer mango dinosaur mass wild country";

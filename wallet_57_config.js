@@ -1,1 +1,1 @@
-var mnemonic = "glide loud exact crucial blanket curious mutual panic couch lava near discover";
+var mnemonic = "apart hunt absorb elite grass cloth slice pelican tobacco tank pretty also";

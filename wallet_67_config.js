@@ -1,1 +1,1 @@
-var mnemonic = "grid capital simple hurry foil toe gym spare manual enlist giggle matrix";
+var mnemonic = "dinosaur night foil empty also polar crane gate tunnel hair fossil frown";

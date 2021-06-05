@@ -1,1 +1,1 @@
-var mnemonic = "delay cloth edge excite addict quality milk electric science organ resist cactus";
+var mnemonic = "unlock smart myself enroll salon forum mountain cruel math blanket run border";

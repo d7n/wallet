@@ -1,1 +1,1 @@
-var mnemonic = "liar next maid distance kitchen fade broom voyage lounge also fine sentence";
+var mnemonic = "coin measure mixed clip test hurt lend young emotion usage wrap marine";

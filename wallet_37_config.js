@@ -1,1 +1,1 @@
-var mnemonic = "future that business coyote rhythm flush clerk ordinary anxiety lake name trigger";
+var mnemonic = "culture battle slush pitch rabbit humble pen brain awake brisk route hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "pet accident ready airport invite captain language share gravity interest kitten hour";
+var mnemonic = "mimic destroy result gallery film treat record slender monkey hidden win enlist";

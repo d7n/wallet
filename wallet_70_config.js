@@ -1,1 +1,1 @@
-var mnemonic = "equip knife slow make erode depart room special clay defense balance salute";
+var mnemonic = "blush piano humor wedding feed trim leopard stem frown donkey hungry edit";

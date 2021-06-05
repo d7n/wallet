@@ -1,1 +1,1 @@
-var mnemonic = "coil liberty hub unaware dizzy window color sight potato useful domain source";
+var mnemonic = "wall coast cement worth eagle jungle guide inner disease term budget inherit";
