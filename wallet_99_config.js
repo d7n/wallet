@@ -1,1 +1,1 @@
-var mnemonic = "ask school truth trash subject blur kiwi return example frame shrug love";
+var mnemonic = "captain diamond tip lend large feature search ahead before unfair fruit invest";

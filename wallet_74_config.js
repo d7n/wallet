@@ -1,1 +1,1 @@
-var mnemonic = "sorry update spatial walk dream cat thumb victory tenant soon grunt else";
+var mnemonic = "beauty coach ripple curtain curve glad two bar inspire hood bounce famous";

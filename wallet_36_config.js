@@ -1,1 +1,1 @@
-var mnemonic = "wisdom cup chalk jaguar own element early company client decrease lion shop";
+var mnemonic = "inject door manage wave live fly coast same human normal gym pill";

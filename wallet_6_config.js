@@ -1,1 +1,1 @@
-var mnemonic = "melody choice team ridge begin system broken super write output suspect peanut";
+var mnemonic = "trouble bone aisle top acquire rail ridge pet tape clown tribe arena";

@@ -1,1 +1,1 @@
-var mnemonic = "axis member rabbit right danger stone spin ten rocket melt upset arm";
+var mnemonic = "struggle page merry hope skin hollow violin wrist galaxy decrease goddess course";

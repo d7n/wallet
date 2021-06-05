@@ -1,1 +1,1 @@
-var mnemonic = "harvest hazard conduct feed double dynamic club three enroll hurdle seed aisle";
+var mnemonic = "spend slight frost stomach rookie mule eagle witness pen garlic capable crew";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel slide observe oppose salon milk clutch become song company point umbrella";
+var mnemonic = "popular fun shy much desert can runway enroll anger grit attend surprise";

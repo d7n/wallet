@@ -1,1 +1,1 @@
-var mnemonic = "also violin supreme merry mirror reveal embrace furnace debate between snack bronze";
+var mnemonic = "shield tip wire kingdom ginger rebel kid cannon beef public kite tree";

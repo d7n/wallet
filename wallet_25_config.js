@@ -1,1 +1,1 @@
-var mnemonic = "bounce net dwarf hour charge face glue reason reopen drop rain demise";
+var mnemonic = "paddle rail regret trash fiction recipe use spring know million siren soul";

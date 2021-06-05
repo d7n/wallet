@@ -1,1 +1,1 @@
-var mnemonic = "polar motor blast hobby field net enjoy explain ethics reflect run inflict";
+var mnemonic = "produce gain broken tide crime march craft slush deposit resource culture author";

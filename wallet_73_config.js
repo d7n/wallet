@@ -1,1 +1,1 @@
-var mnemonic = "cup theory mistake typical device bag program ankle vast craft remain ostrich";
+var mnemonic = "before canoe balance staff wagon prison few fruit donor rule much boat";

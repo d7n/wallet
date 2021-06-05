@@ -1,1 +1,1 @@
-var mnemonic = "gadget garage exclude dune verb present damp planet elephant alpha labor solar";
+var mnemonic = "mad excess path forest blade crisp erase flip noble throw crowd into";

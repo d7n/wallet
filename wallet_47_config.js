@@ -1,1 +1,1 @@
-var mnemonic = "badge position fortune chicken cram genius fall marriage hospital sphere slam weather";
+var mnemonic = "stock inmate drama omit quality satisfy push disagree twin normal drift rifle";

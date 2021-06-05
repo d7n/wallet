@@ -1,1 +1,1 @@
-var mnemonic = "ticket april pair school moment hunt empty ridge mirror syrup soda happy";
+var mnemonic = "junior vicious isolate sentence stock afford fish magic reduce diagram festival heavy";

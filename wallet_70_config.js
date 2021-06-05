@@ -1,1 +1,1 @@
-var mnemonic = "much knife magnet arrive turtle rose click high force web already car";
+var mnemonic = "spend pair galaxy industry vivid monster artefact celery unit orbit patch refuse";

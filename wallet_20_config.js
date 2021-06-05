@@ -1,1 +1,1 @@
-var mnemonic = "sound result print fragile inherit kitten kiss apple pizza update ship stay";
+var mnemonic = "napkin love during kidney swim absent plate crucial dismiss behave boring comfort";

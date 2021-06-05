@@ -1,1 +1,1 @@
-var mnemonic = "cabbage crane raw company client bonus garment peasant minor reduce mom brain";
+var mnemonic = "cup verb vanish quiz thing improve note kitten cattle course tomato bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "seed foam seven clown super trouble snow amused fever input quantum joke";
+var mnemonic = "bonus amused dignity original siege olive miracle chaos scene castle vibrant rebel";

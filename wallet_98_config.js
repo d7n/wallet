@@ -1,1 +1,1 @@
-var mnemonic = "word use other finger duck artwork corn space grief unlock accuse beach";
+var mnemonic = "major fox verb pact similar cactus width life anger reward worry marine";

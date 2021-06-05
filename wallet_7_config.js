@@ -1,1 +1,1 @@
-var mnemonic = "color tuition barely spike mushroom bubble fatal myth garment pen author shrug";
+var mnemonic = "arena process merit plunge spend horror work clump end shoulder trip motion";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos brown add submit food genre zone turkey blade spirit forget below";
+var mnemonic = "blade sick jungle mention silent palm axis island obvious bless grass thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "task whip clock need calm member uphold pony race dinosaur about taste";
+var mnemonic = "drive ball strong gasp snake palace twelve session two banner catch acquire";

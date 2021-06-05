@@ -1,1 +1,1 @@
-var mnemonic = "second plunge fabric oil bargain frog perfect midnight smooth refuse give dinosaur";
+var mnemonic = "absorb impulse cable ancient canvas vote lunch turn busy actor mechanic inject";

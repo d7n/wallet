@@ -1,1 +1,1 @@
-var mnemonic = "slab vintage earth quit educate proof cash adapt horn cherry black museum";
+var mnemonic = "arena occur bright crisp scene undo bag chimney menu frown ready shuffle";

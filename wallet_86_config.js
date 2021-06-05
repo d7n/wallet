@@ -1,1 +1,1 @@
-var mnemonic = "priority calm tank play scorpion move scene harbor soup blood occur tonight";
+var mnemonic = "crawl pave odor fatigue address approve option climb throw provide cannon concert";

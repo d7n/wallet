@@ -1,1 +1,1 @@
-var mnemonic = "plate office hill cake find leisure equip height hire scissors mule evoke";
+var mnemonic = "dice lab double inner cake analyst renew swim ocean grit fire dinosaur";

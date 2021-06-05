@@ -1,1 +1,1 @@
-var mnemonic = "foster dirt cancel acid flash case then logic burden slot bag tide";
+var mnemonic = "pulse live lift settle script autumn table pyramid guess liberty bubble addict";

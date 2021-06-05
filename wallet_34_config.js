@@ -1,1 +1,1 @@
-var mnemonic = "cloud until blind panel screen nature tail oak slab ginger amused cactus";
+var mnemonic = "book pave barely add large crush random hole remember history across oval";

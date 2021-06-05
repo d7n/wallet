@@ -1,1 +1,1 @@
-var mnemonic = "explain crumble invite join phone favorite aspect trash label critic pattern penalty";
+var mnemonic = "write solution door view write adapt bullet force dance trial dish legend";

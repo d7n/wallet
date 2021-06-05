@@ -1,1 +1,1 @@
-var mnemonic = "banner gospel general room market merit practice armor shell rival saddle limit";
+var mnemonic = "zebra release strategy very ceiling bottom round easily venue wreck sure oven";

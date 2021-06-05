@@ -1,1 +1,1 @@
-var mnemonic = "book alien imitate throw gospel height sting scatter accuse labor daring mixture";
+var mnemonic = "kitchen duty inspire school journey shadow grief rather similar faith puppy verify";

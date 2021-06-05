@@ -1,1 +1,1 @@
-var mnemonic = "pattern desk squirrel electric slot useful ripple amateur stove jar actor exhibit";
+var mnemonic = "cube doctor universe radio same east vehicle spin learn hat armed resemble";

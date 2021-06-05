@@ -1,1 +1,1 @@
-var mnemonic = "venue ethics force toe palm remove dose federal notice have caution health";
+var mnemonic = "angry catalog void immune champion margin also report own inner soup silver";

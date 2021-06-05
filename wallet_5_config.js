@@ -1,1 +1,1 @@
-var mnemonic = "library affair ill auction next disagree shoot cushion grunt exile cat shield";
+var mnemonic = "tell size notable original route lens expose phrase voice try rack abstract";

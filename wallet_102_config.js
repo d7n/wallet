@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow brick sort shoe enhance student service obey chunk enrich update gorilla";
+var mnemonic = "sorry maximum bomb way bench transfer giant subway like cattle tide solve";

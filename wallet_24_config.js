@@ -1,1 +1,1 @@
-var mnemonic = "labor devote range dash heavy use champion travel deputy rose agree sample";
+var mnemonic = "dial enforce idle worry lesson false sense accident slide strategy video illness";

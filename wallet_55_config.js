@@ -1,1 +1,1 @@
-var mnemonic = "wonder knife address autumn august giggle swarm hair owner kitten music embody";
+var mnemonic = "raw stereo universe rather ahead topic cradle faith space response put apple";

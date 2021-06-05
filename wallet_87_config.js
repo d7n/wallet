@@ -1,1 +1,1 @@
-var mnemonic = "discover only black pelican very address online about orchard curtain fancy scorpion";
+var mnemonic = "atom entry youth tonight since zebra coral bind punch merit awesome cousin";

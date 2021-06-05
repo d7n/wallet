@@ -1,1 +1,1 @@
-var mnemonic = "prepare type when govern ghost latin little large cheap acid expand accuse";
+var mnemonic = "access aware pause spirit army glory exclude quality scrap pig false audit";

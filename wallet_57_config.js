@@ -1,1 +1,1 @@
-var mnemonic = "silver consider whip century body science inhale swift cat spread split neglect";
+var mnemonic = "response ocean dog fence end whip fire vague any tent under more";

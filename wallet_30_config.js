@@ -1,1 +1,1 @@
-var mnemonic = "paddle river adapt liberty act crunch fiscal leader panda void inner crew";
+var mnemonic = "harsh autumn payment advance loan debris outdoor ensure history payment wage inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "man major buyer lunch elbow neutral agree test distance green report donkey";
+var mnemonic = "cruise push kingdom comic bag tongue lamp snake impose claw trigger canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "youth gift teach sorry fun display flight end stuff paddle peasant copper";
+var mnemonic = "cube together electric trigger loan awkward fix spike jeans elephant caught broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "smart grain raven cram speed mom stuff gift review sweet spoon equip";
+var mnemonic = "tool maximum drive veteran live client naive occur firm crunch neglect easily";

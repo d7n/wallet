@@ -1,1 +1,1 @@
-var mnemonic = "have pottery mad arena material fatigue auto try random unfold shaft street";
+var mnemonic = "border admit detail cactus raw kitchen acid margin priority jazz banner rate";

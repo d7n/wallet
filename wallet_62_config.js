@@ -1,1 +1,1 @@
-var mnemonic = "forum cargo repeat inspire barely act deer eight park vital train clinic";
+var mnemonic = "poet age point young round foot bind victory safe outdoor brown bar";

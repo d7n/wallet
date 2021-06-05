@@ -1,1 +1,1 @@
-var mnemonic = "view price resist element nurse wine drive tissue also casino attitude family";
+var mnemonic = "husband second oak milk print owner common obey mean mask fat nest";

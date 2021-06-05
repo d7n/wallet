@@ -1,1 +1,1 @@
-var mnemonic = "book despair cousin vivid pilot fly dice uniform invite battle vocal rose";
+var mnemonic = "buffalo fade unhappy discover shop neutral jealous figure elbow frog artist main";

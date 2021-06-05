@@ -1,1 +1,1 @@
-var mnemonic = "peanut stool embody ice donkey weird pelican skill catch tenant joke smart";
+var mnemonic = "broken confirm injury north wear duty desert still script ten sudden seven";

@@ -1,1 +1,1 @@
-var mnemonic = "flash degree advance clutch flee inner defense mixed piece ecology embrace below";
+var mnemonic = "bring gather endless marine history atom float elite copy artefact sadness gun";

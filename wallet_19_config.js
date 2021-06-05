@@ -1,1 +1,1 @@
-var mnemonic = "finger pill shallow cheap master guilt boss blur curious spike grab review";
+var mnemonic = "jelly other ability hospital tide song spider prize couch deal material since";

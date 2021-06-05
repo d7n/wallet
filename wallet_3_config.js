@@ -1,1 +1,1 @@
-var mnemonic = "chunk memory struggle library purse chair wire ecology equip shoe choice mind";
+var mnemonic = "palace broom initial rich inside raven depart enforce grace blossom crystal viable";

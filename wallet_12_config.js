@@ -1,1 +1,1 @@
-var mnemonic = "ozone element assist describe pill teach into trim pass abuse tragic gown";
+var mnemonic = "spare hundred lecture program display waste since bridge copper act laugh dinosaur";

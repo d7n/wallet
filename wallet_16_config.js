@@ -1,1 +1,1 @@
-var mnemonic = "dream abuse any chalk soldier fantasy gym brush wrong they region vault";
+var mnemonic = "size join damp glass nice young okay oppose differ vote beach chaos";

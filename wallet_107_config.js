@@ -1,1 +1,1 @@
-var mnemonic = "fiber record ribbon gossip timber omit ladder raw unveil essay black seat";
+var mnemonic = "slice sting universe bar fork shuffle spy toward head give member question";

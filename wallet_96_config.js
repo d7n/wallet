@@ -1,1 +1,1 @@
-var mnemonic = "raw forward produce mango frequent noodle breeze rug name case similar vendor";
+var mnemonic = "humor diary caution spice north dream fox lazy pulse tackle bar boy";

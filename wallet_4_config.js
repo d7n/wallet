@@ -1,1 +1,1 @@
-var mnemonic = "public velvet rack lens outside bus inflict ribbon execute dance hint public";
+var mnemonic = "cruise dinner panel blouse boring neck vacant report aunt deny goat symptom";

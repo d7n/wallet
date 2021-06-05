@@ -1,1 +1,1 @@
-var mnemonic = "youth warm noise panel stock system often brave fantasy scan pudding combine";
+var mnemonic = "author basic author install airport chase ridge embark goat horn raw upper";

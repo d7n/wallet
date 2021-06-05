@@ -1,1 +1,1 @@
-var mnemonic = "sad exit round oxygen suggest supreme park depth arrange luxury claim stamp";
+var mnemonic = "gift alcohol work order eye resemble clarify heavy favorite claim salmon dial";

@@ -1,1 +1,1 @@
-var mnemonic = "seek city rate icon chair hero struggle property check click blast dwarf";
+var mnemonic = "owner faint game excess move report salad digital diamond zebra frog cruise";

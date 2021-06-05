@@ -1,1 +1,1 @@
-var mnemonic = "robot glove party bless job toe burden brand park funny donate security";
+var mnemonic = "merry auction inhale garment flavor globe web method immense term video panther";

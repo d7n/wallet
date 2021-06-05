@@ -1,1 +1,1 @@
-var mnemonic = "hybrid field elite damage often series also wire large antique bag copy";
+var mnemonic = "patient suggest agent salon alien share mixed survey flight bacon common average";

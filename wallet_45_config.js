@@ -1,1 +1,1 @@
-var mnemonic = "machine february morning they rack economy orbit grab someone mirror ankle forget";
+var mnemonic = "stand blade quality cross card ring dry crazy magnet cup young cycle";

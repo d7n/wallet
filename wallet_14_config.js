@@ -1,1 +1,1 @@
-var mnemonic = "vague grace cigar grape praise child venture scout strike garage grid dutch";
+var mnemonic = "song betray poet powder stable transfer cluster beauty quarter decorate congress chimney";

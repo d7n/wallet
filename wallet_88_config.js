@@ -1,1 +1,1 @@
-var mnemonic = "silver mass error frown relief about there run despair ability steel uncle";
+var mnemonic = "evidence artefact jungle stand borrow hover critic chase cargo evolve else silly";

@@ -1,1 +1,1 @@
-var mnemonic = "merge girl friend another reject night romance horn copy cabin tomato scheme";
+var mnemonic = "swim vacuum junk hunt midnight grid attack buzz nature dutch tube south";

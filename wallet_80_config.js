@@ -1,1 +1,1 @@
-var mnemonic = "cheese weasel trash first ignore excess clinic wealth virtual easy hunt work";
+var mnemonic = "family cat rather nut oxygen plate stereo fine find culture absurd hat";

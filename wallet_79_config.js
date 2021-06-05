@@ -1,1 +1,1 @@
-var mnemonic = "isolate fragile upper leopard toss alert undo minimum off token chat gossip";
+var mnemonic = "hawk engage erupt damage obey fragile angle quit onion together absurd such";

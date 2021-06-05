@@ -1,1 +1,1 @@
-var mnemonic = "torch area depart finish bring surge keep direct critic nose screen giant";
+var mnemonic = "drastic length proof feed weird ozone immune quote typical donor pass negative";

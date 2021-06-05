@@ -1,1 +1,1 @@
-var mnemonic = "humble pig crime blanket enjoy chair install brush crush drip melt seed";
+var mnemonic = "loyal chunk gallery announce agree blast want step drill system member extra";

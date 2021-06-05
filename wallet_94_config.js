@@ -1,1 +1,1 @@
-var mnemonic = "betray ten hungry cannon laptop must purchase key excess father exercise barrel";
+var mnemonic = "nothing yard monitor trim apart clown kiwi panda mixture banana amount cluster";

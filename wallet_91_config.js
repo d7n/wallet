@@ -1,1 +1,1 @@
-var mnemonic = "lazy symbol attend punch remove practice prize caught enhance axis cotton source";
+var mnemonic = "grit unusual rain duck squeeze fork soap simple panther sign marine trade";

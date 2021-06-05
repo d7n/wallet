@@ -1,1 +1,1 @@
-var mnemonic = "steel aspect obvious notice float weird second unfold step rich nation method";
+var mnemonic = "believe case resemble anchor gap people nominee develop ostrich ankle family hotel";

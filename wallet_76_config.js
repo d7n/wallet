@@ -1,1 +1,1 @@
-var mnemonic = "fat train slogan clutch prevent fox board sign draft sponsor squirrel purity";
+var mnemonic = "enlist antenna black hope medal crash cabin curtain input tag giggle breeze";

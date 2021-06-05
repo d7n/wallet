@@ -1,1 +1,1 @@
-var mnemonic = "matrix test garden sense gas account possible disease hold great south symptom";
+var mnemonic = "lemon feed together bundle hub clump render equip skirt vague napkin wild";

@@ -1,1 +1,1 @@
-var mnemonic = "cool neutral slush sea song rent moment easily reveal tackle robust age";
+var mnemonic = "east broken course trick situate trouble use fancy cargo crawl cram account";

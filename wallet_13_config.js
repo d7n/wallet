@@ -1,1 +1,1 @@
-var mnemonic = "verify violin business castle scale jaguar rose humble wear dolphin flee poverty";
+var mnemonic = "shrimp expire dirt rhythm wool adapt cute list artwork style crime clog";

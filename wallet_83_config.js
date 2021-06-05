@@ -1,1 +1,1 @@
-var mnemonic = "whisper agree nice benefit material eager trigger siren only two manual town";
+var mnemonic = "easily target tree margin smart raw copper seminar danger trigger armor link";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pear logic must sound february mechanic plug ocean roast hover kick";
+var mnemonic = "clean account spray corn badge bulb kiss exhibit exchange title village account";

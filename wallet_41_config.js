@@ -1,1 +1,1 @@
-var mnemonic = "parade black coconut accuse agent keen bicycle scheme reflect memory play solid";
+var mnemonic = "above luggage debate blue shoot split credit syrup choice hire valve keep";

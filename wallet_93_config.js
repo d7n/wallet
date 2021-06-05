@@ -1,1 +1,1 @@
-var mnemonic = "dignity assist oyster fade fold recipe say bracket coin almost walk scare";
+var mnemonic = "library yard cost usage since morning raw okay mad devote recycle share";

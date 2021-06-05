@@ -1,1 +1,1 @@
-var mnemonic = "awesome object seven quit spirit neglect distance pattern horror struggle parade filter";
+var mnemonic = "blouse negative summer wrong pond vivid lazy climb moment judge dove energy";

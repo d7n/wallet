@@ -1,1 +1,1 @@
-var mnemonic = "knee surprise swap arrive female boat plastic rival learn pigeon cool similar";
+var mnemonic = "legal action diet dose output regular travel rubber orbit mimic child giant";

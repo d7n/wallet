@@ -1,1 +1,1 @@
-var mnemonic = "minimum capital arrange still gloom camera north elite garbage awful there census";
+var mnemonic = "problem surprise crew avoid kit into one inspire harvest accident poverty ripple";

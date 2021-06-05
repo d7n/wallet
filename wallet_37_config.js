@@ -1,1 +1,1 @@
-var mnemonic = "describe erode early guess middle advice fire mango make rare coach dust";
+var mnemonic = "post surge school then useful exchange horror renew mobile parade basket bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "blood play snack fog salon brother iron shoe genuine shoot stone vapor";
+var mnemonic = "tackle feature spider circle burden axis loan balcony apology around labor parent";

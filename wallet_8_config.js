@@ -1,1 +1,1 @@
-var mnemonic = "despair language step ozone leopard panther excuse gift body debris during shift";
+var mnemonic = "guitar earn oil genuine dirt truly vital obtain flat measure eager board";
