@@ -1,1 +1,1 @@
-var mnemonic = "trade slab leader rail front maximum wink reopen labor burden corn battle";
+var mnemonic = "slim forest noodle island youth antenna gift pyramid squeeze table only describe";

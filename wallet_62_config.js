@@ -1,1 +1,1 @@
-var mnemonic = "shell lemon film praise segment tide peasant mystery tray fringe limit arch";
+var mnemonic = "wheat siege gun rude sibling enable faint curve wreck bargain panda spin";

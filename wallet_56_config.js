@@ -1,1 +1,1 @@
-var mnemonic = "nut census load funny limb harsh metal debris hunt monkey sense empower";
+var mnemonic = "coffee emotion glance visa bright tip flip exact thing weekend over surprise";

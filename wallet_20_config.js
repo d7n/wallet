@@ -1,1 +1,1 @@
-var mnemonic = "truly recycle grocery segment prepare mass trigger obscure exile busy crystal engine";
+var mnemonic = "talk harvest camp normal always ankle post all envelope view border save";

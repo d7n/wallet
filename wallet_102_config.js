@@ -1,1 +1,1 @@
-var mnemonic = "naive foam squirrel snake stove cousin name alter turn glimpse ankle table";
+var mnemonic = "swallow cook barrel toast grunt empower limb blush six doll audit kick";

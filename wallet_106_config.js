@@ -1,1 +1,1 @@
-var mnemonic = "sphere valve journey awful glare group gun clever cute enforce flavor fence";
+var mnemonic = "pudding grace fine click cigar element organ mystery voice glare dignity acoustic";

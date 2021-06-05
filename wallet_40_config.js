@@ -1,1 +1,1 @@
-var mnemonic = "social neglect city light borrow ostrich diamond rule smooth hedgehog differ apart";
+var mnemonic = "chef next ivory talent finish fiction alpha easy slush rapid enemy develop";

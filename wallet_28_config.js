@@ -1,1 +1,1 @@
-var mnemonic = "corn symptom garment debate gauge pact human pretty danger dose diet arctic";
+var mnemonic = "gather illness prepare leopard never ridge foot mushroom mom twenty remind chimney";

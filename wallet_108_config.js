@@ -1,1 +1,1 @@
-var mnemonic = "success wage neither razor hill panther garden jazz occur insane craft kit";
+var mnemonic = "hair vivid thing hockey blouse release orient decline dismiss catalog split expire";

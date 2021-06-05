@@ -1,1 +1,1 @@
-var mnemonic = "merit start develop ramp rally grab brain movie onion voice clarify robust";
+var mnemonic = "rescue fork taxi puppy pact snack reflect scheme document embody submit stay";

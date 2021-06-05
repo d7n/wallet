@@ -1,1 +1,1 @@
-var mnemonic = "bundle neglect cable enhance wear control sister lonely glory truck depart remain";
+var mnemonic = "begin obvious home action differ coyote arctic critic menu tattoo grow lizard";

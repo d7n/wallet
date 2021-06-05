@@ -1,1 +1,1 @@
-var mnemonic = "sport spoil race cake laptop symbol relief sketch march fetch roof close";
+var mnemonic = "call write wool theory junk catch coast push anchor relax mesh inject";

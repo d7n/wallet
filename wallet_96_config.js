@@ -1,1 +1,1 @@
-var mnemonic = "street deal empower best oxygen desert gadget first pony grunt knife boy";
+var mnemonic = "enable trust quiz screen wink young betray enemy divorce nurse mandate news";

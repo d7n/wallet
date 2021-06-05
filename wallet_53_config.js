@@ -1,1 +1,1 @@
-var mnemonic = "hybrid actress royal vital sight urge sea pledge pulp neck hat silly";
+var mnemonic = "upgrade inflict rookie prepare universe alter wrestle oil group cube neglect satisfy";

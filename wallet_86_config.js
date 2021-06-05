@@ -1,1 +1,1 @@
-var mnemonic = "hawk tag gate piece nature kit wet tower eagle crush oval argue";
+var mnemonic = "short enough reduce keep nothing require letter shallow marble wrestle immune oil";

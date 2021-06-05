@@ -1,1 +1,1 @@
-var mnemonic = "strike sight below erode home grocery found black foil stove dragon shy";
+var mnemonic = "west eternal over degree chuckle addict adjust twin clay umbrella stereo margin";

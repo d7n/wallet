@@ -1,1 +1,1 @@
-var mnemonic = "offer utility grief used cheese service wash obtain grocery zebra require scene";
+var mnemonic = "goat element myself oak merry identify door usual canyon convince strategy include";

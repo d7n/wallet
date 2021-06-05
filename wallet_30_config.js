@@ -1,1 +1,1 @@
-var mnemonic = "differ impact maid quality lucky omit trip broom theory erode lecture mail";
+var mnemonic = "element spice wheel leisure night trumpet exercise speed manage snack nerve rival";

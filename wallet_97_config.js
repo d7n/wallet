@@ -1,1 +1,1 @@
-var mnemonic = "moment dad lock work repeat sleep bounce kind frame february foil power";
+var mnemonic = "fold drastic vast vibrant drink student jelly lumber kangaroo infant flash insane";

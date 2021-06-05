@@ -1,1 +1,1 @@
-var mnemonic = "useful vacuum rifle fiscal region history useful duck sport dad hotel purpose";
+var mnemonic = "eternal tuna render kite pill random pause short shoot ivory question grass";

@@ -1,1 +1,1 @@
-var mnemonic = "also place search secret across they honey credit turn rigid they art";
+var mnemonic = "one pipe hungry any crisp powder impact mesh predict prison undo skin";

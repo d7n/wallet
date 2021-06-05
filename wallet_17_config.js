@@ -1,1 +1,1 @@
-var mnemonic = "behave submit pumpkin host rally lumber genre lazy unable kitten prison stumble";
+var mnemonic = "trumpet priority common useful fan oil turtle fun combine angry situate affair";

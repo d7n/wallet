@@ -1,1 +1,1 @@
-var mnemonic = "fat deer oyster cotton net side load novel giant top spy pass";
+var mnemonic = "dash outer castle chunk cross gate erase hurt quick river cloth gown";

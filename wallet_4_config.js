@@ -1,1 +1,1 @@
-var mnemonic = "embody hammer orphan tribe short mobile finish hour maple jump over rose";
+var mnemonic = "bicycle squeeze better drink tide quantum rose mango wild return strong young";

@@ -1,1 +1,1 @@
-var mnemonic = "move pulse thrive rude doctor enjoy destroy keep moon misery thought legend";
+var mnemonic = "plastic sauce swallow early giant essay rebuild way original rigid loud victory";

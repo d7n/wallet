@@ -1,1 +1,1 @@
-var mnemonic = "muffin merry hybrid wrap bind problem imitate warfare gravity hill paper alley";
+var mnemonic = "idle search kite correct bomb hawk pelican gown infant hunt wash flip";

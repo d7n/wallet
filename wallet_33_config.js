@@ -1,1 +1,1 @@
-var mnemonic = "insect another belt torch write burst jacket kangaroo weekend arrange seven box";
+var mnemonic = "aunt warfare sample valve humble matrix light melt suffer wire keep truly";

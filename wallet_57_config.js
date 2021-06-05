@@ -1,1 +1,1 @@
-var mnemonic = "forest digital office clean carry dinosaur casual allow alley already check above";
+var mnemonic = "evidence vanish custom injury junk inspire farm cousin fatal outer naive inmate";

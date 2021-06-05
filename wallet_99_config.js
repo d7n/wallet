@@ -1,1 +1,1 @@
-var mnemonic = "tube option emerge illegal honey nephew ahead steak smart denial crater protect";
+var mnemonic = "replace fancy awesome miss stumble boy mistake crime caught roast embody legal";

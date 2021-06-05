@@ -1,1 +1,1 @@
-var mnemonic = "step snow rent inject outer another elephant forget need cream begin peanut";
+var mnemonic = "vapor pulse half forum dream people acoustic citizen final punch puppy maple";

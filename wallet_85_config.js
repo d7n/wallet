@@ -1,1 +1,1 @@
-var mnemonic = "input nothing web devote olympic jar room fruit peanut inquiry cabbage panel";
+var mnemonic = "patrol print soda weird chimney sick able perfect call vague cage inject";

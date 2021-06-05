@@ -1,1 +1,1 @@
-var mnemonic = "marine legal oil public stool wage alpha cable song better state steel";
+var mnemonic = "word govern hello scale ceiling kiwi verify coast letter enhance agree story";

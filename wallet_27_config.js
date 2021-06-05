@@ -1,1 +1,1 @@
-var mnemonic = "dinner top unusual that extend cement coin travel explain fire sand shy";
+var mnemonic = "rebel evil say hotel brown hurdle peanut trouble curious menu trap jelly";

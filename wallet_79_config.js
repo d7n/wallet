@@ -1,1 +1,1 @@
-var mnemonic = "post borrow fruit detail uniform split craft rough fire clean cost sun";
+var mnemonic = "shoe enhance walnut sample toilet reform praise scrub swamp mix soda meat";

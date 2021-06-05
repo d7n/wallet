@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit dragon gesture wall crumble buyer void first fit nominee local other";
+var mnemonic = "leader rebel edge attract wing clever near boost utility wine saddle crucial";

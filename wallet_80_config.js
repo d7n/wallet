@@ -1,1 +1,1 @@
-var mnemonic = "amateur fine modify hammer noise fine sick pulse reject radio pet planet";
+var mnemonic = "sniff furnace sadness thrive remind insane office inspire neglect absent accuse wonder";

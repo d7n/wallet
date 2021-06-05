@@ -1,1 +1,1 @@
-var mnemonic = "impose birth garbage account hard quality usual slender latin school quality figure";
+var mnemonic = "fury base put alarm tragic detect thrive three grid visual drama skill";

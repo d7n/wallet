@@ -1,1 +1,1 @@
-var mnemonic = "ankle train diet raw mule prepare zebra equal salt injury issue gospel";
+var mnemonic = "excite reveal please moral enforce suspect item minimum kiwi fatal pen grunt";

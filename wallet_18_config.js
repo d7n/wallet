@@ -1,1 +1,1 @@
-var mnemonic = "buddy dragon measure shy enlist bullet quiz edit pistol mercy hungry dry";
+var mnemonic = "peasant poverty text royal mask patient debate vacuum coin planet tilt speak";

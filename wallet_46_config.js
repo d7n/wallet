@@ -1,1 +1,1 @@
-var mnemonic = "income panther tennis adapt oil annual zebra oxygen ritual select protect window";
+var mnemonic = "join online shield color hungry put wide vintage piano fork alone message";

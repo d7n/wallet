@@ -1,1 +1,1 @@
-var mnemonic = "grain state earth rescue cook surprise nature napkin ask forward object together";
+var mnemonic = "frost escape session sand black round web silver chronic eyebrow walk thank";

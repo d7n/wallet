@@ -1,1 +1,1 @@
-var mnemonic = "mail melody around cool churn alter display animal skate silent glue staff";
+var mnemonic = "walk pink patrol call install gloom elephant section degree inch roast secret";

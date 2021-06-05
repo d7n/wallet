@@ -1,1 +1,1 @@
-var mnemonic = "law truth chat exist donkey fork kit pond select bicycle lazy belt";
+var mnemonic = "once december follow inhale tissue tennis run ahead glare shy song enjoy";

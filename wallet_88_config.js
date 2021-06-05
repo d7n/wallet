@@ -1,1 +1,1 @@
-var mnemonic = "account stock rubber give domain can neglect liberty essay blouse gather quote";
+var mnemonic = "attack exercise decade basket pilot elbow vehicle come try pulse strategy turkey";

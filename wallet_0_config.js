@@ -1,1 +1,1 @@
-var mnemonic = "fringe tool world violin neck stock ugly matter release spend rebel praise";
+var mnemonic = "wave retreat much river entire warm among cherry sorry fat degree build";

@@ -1,1 +1,1 @@
-var mnemonic = "slow hip much celery pull ride dune copper kit clump seminar bachelor";
+var mnemonic = "rather advance juice behave void afford sausage pyramid average dynamic silver mercy";

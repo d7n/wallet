@@ -1,1 +1,1 @@
-var mnemonic = "multiply unhappy skill recall today entry weather forest apart fruit rent bitter";
+var mnemonic = "travel hotel science during stereo fiscal then conduct pause require wasp guitar";

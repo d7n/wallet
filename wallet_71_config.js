@@ -1,1 +1,1 @@
-var mnemonic = "bike human eager adult minute embody dream balance hammer square stairs grow";
+var mnemonic = "govern turtle heavy hollow color board east parade check manual lazy satisfy";

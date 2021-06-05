@@ -1,1 +1,1 @@
-var mnemonic = "thumb curious fiscal poverty badge luxury retreat practice cinnamon seek crystal assume";
+var mnemonic = "inside lamp solar clog celery lesson retreat suffer middle sport place wage";

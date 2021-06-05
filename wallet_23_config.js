@@ -1,1 +1,1 @@
-var mnemonic = "true loud swarm quick kid rich like use brother confirm able supreme";
+var mnemonic = "shaft frog october climb clay advice earth sing split vague rent awesome";

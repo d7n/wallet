@@ -1,1 +1,1 @@
-var mnemonic = "glad tail pond fabric violin state valid erosion require mixed blade near";
+var mnemonic = "popular farm fly foot sense decade vintage topic sleep output start defy";

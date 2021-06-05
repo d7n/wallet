@@ -1,1 +1,1 @@
-var mnemonic = "huge purchase lemon bitter always diamond wall dragon bring ignore ostrich photo";
+var mnemonic = "congress host upon clip forest invest idea silly approve change stamp sample";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn lab drama make finger section coil silent history drama impact tooth";
+var mnemonic = "advice connect reveal race energy merge gown air melt glue harvest merge";

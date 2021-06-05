@@ -1,1 +1,1 @@
-var mnemonic = "elite alcohol stumble reduce demise faint flag amount narrow team proud stone";
+var mnemonic = "inject split acoustic moon force banana brass olympic mesh purse veteran infant";

@@ -1,1 +1,1 @@
-var mnemonic = "debate maid destroy sleep color oven novel corn leave divorce asset coyote";
+var mnemonic = "below wing jar desert legal rabbit found nest snap document engage coach";

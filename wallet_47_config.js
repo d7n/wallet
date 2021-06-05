@@ -1,1 +1,1 @@
-var mnemonic = "mobile weasel total aerobic term aunt vital merge vocal decade van member";
+var mnemonic = "agree nice screen cart manual avocado sea still march play useful obscure";

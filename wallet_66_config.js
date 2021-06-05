@@ -1,1 +1,1 @@
-var mnemonic = "sure energy expect glide square wheat local zero gauge menu novel alley";
+var mnemonic = "wheel bonus option cushion record speak oblige chef normal enlist carpet enjoy";

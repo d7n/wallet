@@ -1,1 +1,1 @@
-var mnemonic = "pool fit enter hat easy galaxy hybrid scout swallow alpha hope journey";
+var mnemonic = "man ecology captain woman issue latin else buzz pass ranch angle place";

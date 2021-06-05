@@ -1,1 +1,1 @@
-var mnemonic = "cute vapor absurd inner trophy ridge fatal roast leisure day measure scene";
+var mnemonic = "joy benefit alert cup cabin ring equip dentist depend sustain guide amount";

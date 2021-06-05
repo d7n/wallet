@@ -1,1 +1,1 @@
-var mnemonic = "air cannon lounge smoke tunnel stomach gain identify man staff guess weapon";
+var mnemonic = "dragon dish sea scout mango circle dad slot will rapid away rug";

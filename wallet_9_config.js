@@ -1,1 +1,1 @@
-var mnemonic = "segment collect ticket sister pill two furnace eye wagon opera enough drip";
+var mnemonic = "size brown crowd route supreme sponsor because guide alien excess demand hurry";

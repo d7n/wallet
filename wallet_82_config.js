@@ -1,1 +1,1 @@
-var mnemonic = "soon taste proud budget never correct face gather olympic noble hub top";
+var mnemonic = "attack deal pride grunt ready travel pony cool merit useful grunt club";

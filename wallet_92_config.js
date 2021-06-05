@@ -1,1 +1,1 @@
-var mnemonic = "gas slide distance royal talent pet forward crazy lamp arm toddler mention";
+var mnemonic = "bronze change gentle thrive quiz catalog drum multiply spell work ahead quality";

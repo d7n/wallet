@@ -1,1 +1,1 @@
-var mnemonic = "virus awkward purpose maid twenty close sting toast until interest luxury pill";
+var mnemonic = "life metal use proud nominee duck grace tortoise expire lake outer animal";

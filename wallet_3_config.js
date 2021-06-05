@@ -1,1 +1,1 @@
-var mnemonic = "fan arrest fury subway cinnamon ugly priority tower input acid noise festival";
+var mnemonic = "state setup relax door cluster arrive retreat catalog pill security search insect";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra knock current initial century blind fence stand lab fan control state";
+var mnemonic = "soul slam primary protect make pottery tribe glow during hungry spell camera";

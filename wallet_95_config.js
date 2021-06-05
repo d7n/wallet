@@ -1,1 +1,1 @@
-var mnemonic = "pitch build price leisure bamboo live recipe submit carry shrimp traffic news";
+var mnemonic = "erosion inherit high mean garlic arctic arm shell celery spike ocean bean";

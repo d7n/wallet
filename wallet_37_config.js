@@ -1,1 +1,1 @@
-var mnemonic = "actress dutch tuna layer lawn subject estate arch retreat emerge hole settle";
+var mnemonic = "scene catch convince emerge cross inner private same robust next prize tongue";

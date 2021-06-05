@@ -1,1 +1,1 @@
-var mnemonic = "impulse visa sweet train month tortoise wolf rabbit hub coast either blur";
+var mnemonic = "saddle worry replace fiction cluster mistake age dizzy divert produce balcony option";

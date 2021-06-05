@@ -1,1 +1,1 @@
-var mnemonic = "situate connect involve ceiling current soldier ability girl finish focus connect lake";
+var mnemonic = "iron injury exist opinion mesh remember chat omit suspect weather powder hobby";

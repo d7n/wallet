@@ -1,1 +1,1 @@
-var mnemonic = "smart science salute address ship maze letter fantasy brother round raccoon exercise";
+var mnemonic = "custom attract spice picture chicken office biology ozone zoo flight struggle devote";

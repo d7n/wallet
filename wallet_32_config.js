@@ -1,1 +1,1 @@
-var mnemonic = "inner able girl prosper spirit unknown possible achieve maximum diagram spice coach";
+var mnemonic = "april adult rich forget spread key theory journey left coach track rally";

@@ -1,1 +1,1 @@
-var mnemonic = "space maid olympic tomorrow snap trust note budget film custom erase armed";
+var mnemonic = "image tissue fork bullet plate tray live expose rude front section level";

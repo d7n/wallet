@@ -1,1 +1,1 @@
-var mnemonic = "outdoor crack enrich nurse alarm kind climb damage nephew price often basket";
+var mnemonic = "cigar glad course wave patch flush friend ticket monster choose debate dynamic";

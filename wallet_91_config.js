@@ -1,1 +1,1 @@
-var mnemonic = "ugly ramp margin pause settle easy chair client like topple cry snow";
+var mnemonic = "canoe cage tube furnace stereo deal hungry ahead drama happy check tumble";

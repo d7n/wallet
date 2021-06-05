@@ -1,1 +1,1 @@
-var mnemonic = "million hobby assist library render bicycle since ocean sight tree wagon next";
+var mnemonic = "series dish label scout marriage must able raise square obtain maid taxi";

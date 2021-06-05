@@ -1,1 +1,1 @@
-var mnemonic = "lend require junk offer all total twelve fringe final divorce bright token";
+var mnemonic = "piece pudding ugly board entry neutral board fade couch snake goose usage";

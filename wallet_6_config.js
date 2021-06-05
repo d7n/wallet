@@ -1,1 +1,1 @@
-var mnemonic = "master fire inside bird ball gospel join then area man clutch version";
+var mnemonic = "distance apple frown square provide club denial tuna negative fever panda water";

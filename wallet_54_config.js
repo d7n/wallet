@@ -1,1 +1,1 @@
-var mnemonic = "relax orange assault mad movie supreme another moon rare scrap alone illness";
+var mnemonic = "license entire switch sign enhance leaf gun panic february arrest polar borrow";

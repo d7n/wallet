@@ -1,1 +1,1 @@
-var mnemonic = "damage blush stable play series thing insane fluid clown pelican nuclear autumn";
+var mnemonic = "trick affair decline drive leisure skin struggle large noise observe blush screen";

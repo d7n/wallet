@@ -1,1 +1,1 @@
-var mnemonic = "where rally page venue insect panda neck cruise enforce orchard gain whale";
+var mnemonic = "ensure north fix laundry chest matter illegal heavy damage know prefer patrol";

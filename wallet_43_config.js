@@ -1,1 +1,1 @@
-var mnemonic = "pattern bomb seed sibling guide tilt little earth punch inspire crater argue";
+var mnemonic = "knock print voyage sorry all senior okay consider kangaroo jacket oxygen bamboo";

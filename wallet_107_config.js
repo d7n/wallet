@@ -1,1 +1,1 @@
-var mnemonic = "hen jaguar pool patient doctor smile amateur helmet gun waste puzzle hamster";
+var mnemonic = "brother aspect captain raccoon disorder indicate raw suit return sure pig insect";

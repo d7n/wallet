@@ -1,1 +1,1 @@
-var mnemonic = "license casual mushroom melody pizza jacket slam capable toss play can walnut";
+var mnemonic = "weasel clay theory tone immune pen loyal ketchup true stairs cliff lobster";

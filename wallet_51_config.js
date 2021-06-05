@@ -1,1 +1,1 @@
-var mnemonic = "marriage glide permit card there woman expose convince target slot panther keep";
+var mnemonic = "exhaust polar diary cry horror van please civil trust glass humor next";

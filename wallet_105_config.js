@@ -1,1 +1,1 @@
-var mnemonic = "miracle library stool picture ostrich inquiry squeeze rescue wealth congress find mesh";
+var mnemonic = "advice stool alley robust blossom coyote way ginger harsh pitch rug merit";

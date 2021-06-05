@@ -1,1 +1,1 @@
-var mnemonic = "equal witness laptop law combine south inspire round enroll innocent more dove";
+var mnemonic = "kangaroo spike draft step float pilot power throw clutch mammal shove clock";

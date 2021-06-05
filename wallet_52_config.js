@@ -1,1 +1,1 @@
-var mnemonic = "palace economy they warm wasp lounge coast track orchard enhance half pink";
+var mnemonic = "render claw dirt milk super enable industry switch dinosaur rail multiply betray";

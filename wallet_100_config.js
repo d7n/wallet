@@ -1,1 +1,1 @@
-var mnemonic = "flag expand ready frog knife world mosquito busy bonus history cool visa";
+var mnemonic = "help essence evoke arrest hold logic inject canal suggest enact picture smooth";

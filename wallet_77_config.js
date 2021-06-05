@@ -1,1 +1,1 @@
-var mnemonic = "slight gate army offer claw fancy kite very arrive enroll try have";
+var mnemonic = "solid long mountain since enjoy miracle fly horse case infant gas gap";

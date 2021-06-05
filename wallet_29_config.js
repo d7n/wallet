@@ -1,1 +1,1 @@
-var mnemonic = "circle key noble vacuum year all found spy more arrow egg ugly";
+var mnemonic = "toilet swamp right reform pumpkin project during coil feed good honey rebel";

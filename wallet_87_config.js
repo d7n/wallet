@@ -1,1 +1,1 @@
-var mnemonic = "pigeon profit scatter ball route rookie velvet board angle logic hurt pave";
+var mnemonic = "emerge crack another wife need update normal exotic critic document law embody";

@@ -1,1 +1,1 @@
-var mnemonic = "accident catch match pluck flip modify library frown chunk desert now situate";
+var mnemonic = "owner egg enact kiss cupboard output express usage animal abandon harvest rent";

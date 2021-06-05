@@ -1,1 +1,1 @@
-var mnemonic = "warm spring exist version limb twelve vast open clutch crash october farm";
+var mnemonic = "angry basket panther enrich print tower moon enable ignore onion news whale";
