@@ -1,1 +1,1 @@
-var mnemonic = "elephant prefer coral surprise document melody amazing olive road armor eight forum";
+var mnemonic = "recipe endorse pull orchard glow library skirt tone become network square patrol";

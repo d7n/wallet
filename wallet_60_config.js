@@ -1,1 +1,1 @@
-var mnemonic = "cake fluid since coral lab nominee wet second thing bottom fresh favorite";
+var mnemonic = "sausage manage field blue cheese furnace awful vocal book total century relax";

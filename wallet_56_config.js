@@ -1,1 +1,1 @@
-var mnemonic = "weapon volume index capable spoon annual barely project ivory circle topic fog";
+var mnemonic = "exist vital cloth goddess accuse model brother skirt knock stem vacant toe";

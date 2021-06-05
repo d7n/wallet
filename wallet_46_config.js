@@ -1,1 +1,1 @@
-var mnemonic = "twice winner client human valley clerk lunch such rare umbrella sound dish";
+var mnemonic = "enact solar repeat pitch fee asset bonus lemon glove carbon kind jewel";

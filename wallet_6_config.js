@@ -1,1 +1,1 @@
-var mnemonic = "damage judge ripple true photo setup video truck flight vivid soldier duty";
+var mnemonic = "city trial flame evolve envelope typical body pelican table regret list slush";

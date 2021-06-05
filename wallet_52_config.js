@@ -1,1 +1,1 @@
-var mnemonic = "lens unique salute pole tag concert sample boat accuse penalty few upset";
+var mnemonic = "conduct desk behind casino surge country address canyon afford wise hurry amateur";

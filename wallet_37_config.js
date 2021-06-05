@@ -1,1 +1,1 @@
-var mnemonic = "when sword anchor intact actual chalk dish sweet treat type agree caution";
+var mnemonic = "upset bicycle run deny leg quick adapt teach maze latin sadness asset";

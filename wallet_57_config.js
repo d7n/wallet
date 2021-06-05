@@ -1,1 +1,1 @@
-var mnemonic = "east negative lamp defense cabbage ozone enable comic sadness orient edge argue";
+var mnemonic = "cry mixed time jeans dream much gossip bar armor jazz crash token";

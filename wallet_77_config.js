@@ -1,1 +1,1 @@
-var mnemonic = "town wet ostrich figure space suffer label life occur initial limb almost";
+var mnemonic = "glad net fashion appear case method cushion shoulder sand drastic demise song";

@@ -1,1 +1,1 @@
-var mnemonic = "witness detect dinosaur letter obey pioneer laptop hello card manage spoil burst";
+var mnemonic = "large squeeze develop ripple false document subway photo glide scrub roof betray";

@@ -1,1 +1,1 @@
-var mnemonic = "dry hazard danger apart provide dove moon silk bench trade cigar hockey";
+var mnemonic = "disease matrix digital emerge yellow initial half crush wrap latin tiny rally";

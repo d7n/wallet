@@ -1,1 +1,1 @@
-var mnemonic = "upper document dismiss siren today jeans grief that fat near loop impulse";
+var mnemonic = "aisle theme coin suit sport short spike cream puzzle rule chef radar";

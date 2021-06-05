@@ -1,1 +1,1 @@
-var mnemonic = "desert include reform bacon liar seat ten situate silent wide capital diagram";
+var mnemonic = "this arctic seat save spawn mystery toilet mimic equal control vendor gravity";

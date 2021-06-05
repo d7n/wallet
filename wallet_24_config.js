@@ -1,1 +1,1 @@
-var mnemonic = "upset humble assault scare heart range into piano ecology ahead insect annual";
+var mnemonic = "rent employ lava yellow point leaf spirit august genius pear budget rigid";

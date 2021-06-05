@@ -1,1 +1,1 @@
-var mnemonic = "guess economy fatal stuff attack olympic lens city spare where friend retreat";
+var mnemonic = "perfect salmon piano will rural direct chief stomach crunch into employ section";

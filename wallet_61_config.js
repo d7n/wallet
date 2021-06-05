@@ -1,1 +1,1 @@
-var mnemonic = "brown tooth ability code valley hurt love morning electric sense idle angle";
+var mnemonic = "balcony hello crew mean clay foster oil install predict admit unlock acid";

@@ -1,1 +1,1 @@
-var mnemonic = "wine please process price radio harbor crisp book stand laugh fold hole";
+var mnemonic = "mass tell sniff battle basket celery sudden ozone shy wire effort mimic";

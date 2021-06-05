@@ -1,1 +1,1 @@
-var mnemonic = "story bus alley shallow physical suggest fresh about damage cage donkey helmet";
+var mnemonic = "engage color resemble idea alter victory peasant arrest decide alarm castle among";

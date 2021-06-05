@@ -1,1 +1,1 @@
-var mnemonic = "achieve rescue artefact cabin swing replace purity hold garlic steak unable penalty";
+var mnemonic = "myth run bus unhappy crawl sunset rigid release utility neck culture crowd";

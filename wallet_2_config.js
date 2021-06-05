@@ -1,1 +1,1 @@
-var mnemonic = "energy relax hub gadget trust violin add disagree wasp confirm number paper";
+var mnemonic = "hand mean permit eye lake guitar buzz brief friend usual mule purity";

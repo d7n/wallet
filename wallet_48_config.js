@@ -1,1 +1,1 @@
-var mnemonic = "artefact tag slab eagle mixed angle sock lounge sort ecology leaf human";
+var mnemonic = "dose sure comic elite book file reward luggage arm hard awesome month";

@@ -1,1 +1,1 @@
-var mnemonic = "hand pigeon much business tank club moment fitness check champion lunch risk";
+var mnemonic = "window rail manage milk kid verb rate argue bind roof limb flame";

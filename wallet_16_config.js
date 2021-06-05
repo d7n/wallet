@@ -1,1 +1,1 @@
-var mnemonic = "begin crumble bird romance essence tennis rely original narrow gorilla offer can";
+var mnemonic = "power cycle ability tennis winter inmate gossip notable fiscal repeat false verify";

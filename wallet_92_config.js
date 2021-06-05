@@ -1,1 +1,1 @@
-var mnemonic = "volcano divide decline prosper rural symbol defy neck flat cup screen swallow";
+var mnemonic = "cereal dove desert similar fatigue awake spider claim flat scale lobster answer";

@@ -1,1 +1,1 @@
-var mnemonic = "excess move evidence identify purpose scorpion attack shift outside divorce hammer clinic";
+var mnemonic = "modify silk chuckle custom patch now enact pilot either sail bridge spot";

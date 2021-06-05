@@ -1,1 +1,1 @@
-var mnemonic = "glance ready famous impulse piano biology cloth great garage hawk novel rude";
+var mnemonic = "dune deny style oval change scorpion trust solution change level minor place";

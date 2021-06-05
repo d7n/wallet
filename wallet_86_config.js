@@ -1,1 +1,1 @@
-var mnemonic = "cake flat stadium bounce federal captain loop month clerk brass steel give";
+var mnemonic = "meat spatial such unfold garbage tree liar armor bounce click asset sentence";

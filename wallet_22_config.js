@@ -1,1 +1,1 @@
-var mnemonic = "weasel affair gap predict viable walnut undo feel tennis gift tumble emerge";
+var mnemonic = "stone cable gallery canoe pepper identify street merit flush dry winner waste";

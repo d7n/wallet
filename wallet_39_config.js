@@ -1,1 +1,1 @@
-var mnemonic = "domain soldier ripple retire state acoustic train truth iron child click outer";
+var mnemonic = "drink salt talk ice track love tower apart space shine void lend";

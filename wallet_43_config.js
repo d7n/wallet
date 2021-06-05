@@ -1,1 +1,1 @@
-var mnemonic = "either behave purity uniform grab palm legend lake trouble shoulder purpose online";
+var mnemonic = "around faith obvious vibrant scene minimum cost exist alien tenant forest crazy";

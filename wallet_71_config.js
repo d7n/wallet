@@ -1,1 +1,1 @@
-var mnemonic = "detect radio canoe burger field manual debate merge capable fashion december affair";
+var mnemonic = "all child elephant during avoid away jealous engage silly forest submit saddle";

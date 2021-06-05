@@ -1,1 +1,1 @@
-var mnemonic = "mystery upper angry hat segment can tide hen front surge cricket crater";
+var mnemonic = "require voice entry dumb inch must timber crisp snake into tooth chunk";

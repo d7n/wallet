@@ -1,1 +1,1 @@
-var mnemonic = "depth purse kiwi garlic erode error fashion excess rural athlete faith shoot";
+var mnemonic = "include flock wood scorpion venture tape rich viable symptom pistol correct weather";

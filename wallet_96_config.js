@@ -1,1 +1,1 @@
-var mnemonic = "mention despair drill faculty group boost talent twin already machine target promote";
+var mnemonic = "arm curtain spatial craft feel narrow such hire evoke trigger virtual trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve rose perfect actress unfold bring meadow soft good wheel sense spirit";
+var mnemonic = "tackle hub jungle sadness lizard able pyramid swing receive veteran churn kind";

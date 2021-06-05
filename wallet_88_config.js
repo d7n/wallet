@@ -1,1 +1,1 @@
-var mnemonic = "zero term dove east rich club door garlic talk fruit suit another";
+var mnemonic = "sea evoke board another liquid eyebrow problem unfair latin sick rack design";

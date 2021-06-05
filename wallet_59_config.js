@@ -1,1 +1,1 @@
-var mnemonic = "uncover dizzy slender syrup napkin lecture salmon home draw speed output valve";
+var mnemonic = "aunt notice boil first faith skin industry claw salute pond merry engage";

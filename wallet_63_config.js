@@ -1,1 +1,1 @@
-var mnemonic = "kiss buyer tone gesture live lizard mango leg pair rail permit practice";
+var mnemonic = "wonder twenty diet vessel eager swamp lake library maze bid year afford";

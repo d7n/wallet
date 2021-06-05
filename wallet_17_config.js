@@ -1,1 +1,1 @@
-var mnemonic = "tennis tilt price truth power ladder crowd bronze cloud comic two chest";
+var mnemonic = "item episode donor team cover dismiss they cactus argue reason juice tray";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hero stay exist spray page dog build capital satisfy river image";
+var mnemonic = "situate unknown boss equal basic mango garden ghost dog whale gravity differ";

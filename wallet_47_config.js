@@ -1,1 +1,1 @@
-var mnemonic = "radar direct program swamp lyrics stick sausage strike begin unique raccoon merge";
+var mnemonic = "spawn rookie lens arctic silk virus man way dynamic young embody alarm";

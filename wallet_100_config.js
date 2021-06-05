@@ -1,1 +1,1 @@
-var mnemonic = "blanket number caught hobby buzz oval bird keep benefit diagram remind ocean";
+var mnemonic = "sword filter dizzy swim pulse truly ramp forum attract mask flavor sheriff";

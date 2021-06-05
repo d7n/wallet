@@ -1,1 +1,1 @@
-var mnemonic = "stay equip chunk hour simple coral label quiz call crush forward early";
+var mnemonic = "token title tattoo arm rent index give couple office dream stage benefit";

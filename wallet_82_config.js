@@ -1,1 +1,1 @@
-var mnemonic = "method enjoy news wasp cry old round allow corn vendor album mean";
+var mnemonic = "used share connect angry release series lock laptop used display bounce forest";

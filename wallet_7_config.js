@@ -1,1 +1,1 @@
-var mnemonic = "drip piece forget badge outdoor hill visa observe aware crumble blind aspect";
+var mnemonic = "sting burden ten lamp easily convince style void mother despair hint act";

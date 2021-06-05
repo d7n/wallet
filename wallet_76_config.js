@@ -1,1 +1,1 @@
-var mnemonic = "small face snap field speak bag sphere engine front wrap panther exist";
+var mnemonic = "orient daughter issue child soda detail enough method any view because orphan";

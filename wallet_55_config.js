@@ -1,1 +1,1 @@
-var mnemonic = "exile file play awake glad valve birth donor news slab video cash";
+var mnemonic = "swallow anger consider bulk zebra disease shed apart timber flat purpose weird";

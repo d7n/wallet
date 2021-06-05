@@ -1,1 +1,1 @@
-var mnemonic = "simple lab spin run truly tuition mountain plate fresh possible matrix calm";
+var mnemonic = "rude tenant invite steak version earth steel royal shoe fault grow panel";

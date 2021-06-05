@@ -1,1 +1,1 @@
-var mnemonic = "unhappy sentence royal bone ridge plastic cross rural dry win gospel know";
+var mnemonic = "park effort enemy broccoli benefit legend crumble lawn doctor tackle silk idle";

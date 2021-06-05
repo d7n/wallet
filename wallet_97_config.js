@@ -1,1 +1,1 @@
-var mnemonic = "expire success hammer east chuckle office clip surface fan quantum hole race";
+var mnemonic = "bus obey vote shell north eight never gun timber sibling mixture actress";

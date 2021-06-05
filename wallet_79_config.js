@@ -1,1 +1,1 @@
-var mnemonic = "attract slam barely chimney mansion strong security member tiny cricket render six";
+var mnemonic = "hurt home popular game spend tonight supreme globe steak neglect despair shift";

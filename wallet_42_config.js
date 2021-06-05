@@ -1,1 +1,1 @@
-var mnemonic = "sword addict guitar width hobby cannon ribbon scrub favorite wink large verb";
+var mnemonic = "banner voyage canyon hamster approve fancy input kidney retreat venue polar silver";

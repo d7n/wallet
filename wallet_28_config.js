@@ -1,1 +1,1 @@
-var mnemonic = "confirm digital clown immune shine gather improve debate youth prosper route lawn";
+var mnemonic = "unknown name keep actor valve scan two fancy job orchard slab such";

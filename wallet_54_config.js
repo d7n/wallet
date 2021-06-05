@@ -1,1 +1,1 @@
-var mnemonic = "purchase carpet priority carbon submit lucky knife bread update supply twelve bullet";
+var mnemonic = "atom result mean penalty update task talk increase improve dad off aerobic";

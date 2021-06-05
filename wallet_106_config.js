@@ -1,1 +1,1 @@
-var mnemonic = "total animal sleep junior super flush tragic frequent crouch order juice hotel";
+var mnemonic = "voyage engine skate snap usage clean shy wear canoe athlete current they";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano follow stone crawl attitude battle huge they gain plunge task abandon";
+var mnemonic = "sample student hazard satisfy body powder range boil athlete marine route one";

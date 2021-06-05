@@ -1,1 +1,1 @@
-var mnemonic = "soon mystery hole engage federal token catalog ship shrug dinner seed fence";
+var mnemonic = "release crop arrow vault index language island canal guard hungry believe leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "renew expand decrease execute river lunch buffalo pledge close tissue minor visual";
+var mnemonic = "build left suffer super pistol vital recycle purse dawn bachelor baby industry";

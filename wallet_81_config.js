@@ -1,1 +1,1 @@
-var mnemonic = "soup secret vital among clutch promote crack tumble snow wealth disagree heavy";
+var mnemonic = "talent guess sunset flock parent include mistake plug radar coffee thumb useless";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle wage knee music leopard void scrub buyer broccoli broken chalk essay";
+var mnemonic = "zebra giraffe screen invite interest require print habit pig zone hurdle canal";

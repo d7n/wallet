@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hazard coyote giraffe marine apple minimum hard uncover autumn judge swarm";
+var mnemonic = "divorce clip thing theory salute extra lunar barrel pelican lens glimpse dirt";

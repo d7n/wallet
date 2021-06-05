@@ -1,1 +1,1 @@
-var mnemonic = "afford dizzy car business destroy album need diary reveal maximum decrease notice";
+var mnemonic = "hollow snap enter wisdom duck avocado oven kangaroo mansion exchange window magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "goat person shift leaf dust used prepare common lonely rib outside bacon";
+var mnemonic = "abandon crystal obscure wet prize faint list frame vast industry process auto";

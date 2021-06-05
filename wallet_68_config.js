@@ -1,1 +1,1 @@
-var mnemonic = "polar reject process vibrant copper suggest resist unable silly repair remove fringe";
+var mnemonic = "deal confirm laptop usage trip sibling plate heart include rival youth token";

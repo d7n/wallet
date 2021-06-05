@@ -1,1 +1,1 @@
-var mnemonic = "nice pistol force impose shield noise woman silk news guitar mushroom call";
+var mnemonic = "motion release across trust current emotion truth example sunny team unit miss";

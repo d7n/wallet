@@ -1,1 +1,1 @@
-var mnemonic = "whip certain entire brass pencil truck tomato approve process glory away off";
+var mnemonic = "route tissue empty entry right magnet fit pupil tool turkey flat logic";

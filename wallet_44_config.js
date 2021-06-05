@@ -1,1 +1,1 @@
-var mnemonic = "ability limb love shrimp wheat mammal van embody alcohol pumpkin index stove";
+var mnemonic = "fish gaze chalk concert layer copper position elephant nurse zone depart cruel";

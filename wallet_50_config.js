@@ -1,1 +1,1 @@
-var mnemonic = "solve mistake cool wing crop liberty alley injury awful consider solution embody";
+var mnemonic = "siege glide away wink gate liberty dentist upon vague figure pact butter";

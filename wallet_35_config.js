@@ -1,1 +1,1 @@
-var mnemonic = "whale refuse fix recycle position enable patch family apple shadow write gorilla";
+var mnemonic = "breeze jacket year medal dumb book blush left humor blush sail second";

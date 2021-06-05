@@ -1,1 +1,1 @@
-var mnemonic = "clever elder impose answer ribbon waste foot nerve tower grass inner farm";
+var mnemonic = "innocent crater together height ankle crisp edit correct water recall easily hobby";

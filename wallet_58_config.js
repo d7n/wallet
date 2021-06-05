@@ -1,1 +1,1 @@
-var mnemonic = "glory power hint slight turn chase weekend sugar velvet pipe sorry truck";
+var mnemonic = "enter hidden plunge struggle resource bottom test alley venture execute million cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "asset blush vehicle now wing arena village gospel choice monkey novel jar";
+var mnemonic = "cute suspect wheel race garden trash group search mass lobster staff rate";

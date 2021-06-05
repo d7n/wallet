@@ -1,1 +1,1 @@
-var mnemonic = "carpet ecology alley spell jar any jazz render foster tongue sheriff arrow";
+var mnemonic = "solar arm rapid energy glory witness staff swamp lady leg quantum goat";

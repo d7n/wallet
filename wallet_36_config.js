@@ -1,1 +1,1 @@
-var mnemonic = "chase wash betray keen inch acid voyage flip frost clock audit warfare";
+var mnemonic = "notable invest food impact modify disorder appear barrel snow amateur acquire describe";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage raise virus alpha split scout parade dwarf cliff follow dog subject";
+var mnemonic = "dash mention focus exercise palace dial car forest script they best bacon";

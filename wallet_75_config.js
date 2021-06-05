@@ -1,1 +1,1 @@
-var mnemonic = "refuse grocery apology wreck blue stool state run charge extend gospel habit";
+var mnemonic = "pull system rally joy acquire august skill derive enlist sustain mix all";

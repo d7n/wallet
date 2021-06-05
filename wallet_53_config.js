@@ -1,1 +1,1 @@
-var mnemonic = "cargo pyramid tooth embark orient silly across rival power mechanic creek witness";
+var mnemonic = "glue chase fun common because excess slender sentence sphere horn wait gown";

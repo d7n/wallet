@@ -1,1 +1,1 @@
-var mnemonic = "praise weapon wasp woman unveil corn canal sauce nasty husband eight manage";
+var mnemonic = "shoulder crumble tourist where adapt oval near media barely remain choose mean";

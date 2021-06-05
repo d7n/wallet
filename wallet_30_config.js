@@ -1,1 +1,1 @@
-var mnemonic = "very cage cage cry wedding advice polar brisk allow derive tape fantasy";
+var mnemonic = "burden clown perfect game stove farm south person library color scale vanish";

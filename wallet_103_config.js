@@ -1,1 +1,1 @@
-var mnemonic = "identify undo promote outer inhale rural energy proof tumble auction country immense";
+var mnemonic = "about session pilot endorse trigger motor slice demise noodle wage legal toddler";

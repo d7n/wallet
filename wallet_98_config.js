@@ -1,1 +1,1 @@
-var mnemonic = "athlete reunion aspect abstract blur hill range average prefer flag wool drama";
+var mnemonic = "border pumpkin panel resemble raven myth bitter divide enjoy junk grit buzz";

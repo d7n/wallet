@@ -1,1 +1,1 @@
-var mnemonic = "indoor steel barrel fee letter develop then before play worth female priority";
+var mnemonic = "yard among curious save skull between rapid country fantasy assume various network";

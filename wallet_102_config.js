@@ -1,1 +1,1 @@
-var mnemonic = "lens deer wine base bleak weather actual basic gossip promote pupil recycle";
+var mnemonic = "level name extra sun this disagree hello pumpkin van spare heart pair";

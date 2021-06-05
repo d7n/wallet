@@ -1,1 +1,1 @@
-var mnemonic = "shell cost collect theme pole pattern clever busy industry pepper error mammal";
+var mnemonic = "evoke lobster mammal dutch custom pottery piece wife sorry write scheme model";

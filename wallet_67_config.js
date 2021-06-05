@@ -1,1 +1,1 @@
-var mnemonic = "token lunch midnight benefit blouse festival husband beyond estate candy lottery artefact";
+var mnemonic = "output vendor senior always need puppy mushroom cigar cannon hammer kiwi law";

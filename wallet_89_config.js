@@ -1,1 +1,1 @@
-var mnemonic = "forward tragic vote physical pole keen fox eagle clever betray rhythm collect";
+var mnemonic = "network raven spare paper jealous basic people column vicious waste annual leg";

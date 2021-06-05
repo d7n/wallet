@@ -1,1 +1,1 @@
-var mnemonic = "describe powder merit clean wrist must final wasp barrel cloud bus hill";
+var mnemonic = "tattoo mountain core energy move shadow nephew habit room give arch toy";

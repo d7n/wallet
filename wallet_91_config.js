@@ -1,1 +1,1 @@
-var mnemonic = "inspire caution prosper model assault unique peace able obvious swarm frequent police";
+var mnemonic = "curious woman own tent tilt suffer favorite buzz donkey amazing blast want";

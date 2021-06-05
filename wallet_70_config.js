@@ -1,1 +1,1 @@
-var mnemonic = "glad laptop fold volcano absent leaf coffee foot nuclear attitude talk insect";
+var mnemonic = "cigar pink wing subway across miss jaguar attitude brass cliff person subway";
