@@ -1,1 +1,1 @@
-var mnemonic = "broken second clip cube thought year maid thumb enemy mouse holiday uphold";
+var mnemonic = "wealth provide squeeze armor number mail grab awesome margin tragic capital galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "general pact spell corn beyond hope federal struggle speak couch country abstract";
+var mnemonic = "element fuel valve uniform nurse consider select mutual thrive segment again clever";

@@ -1,1 +1,1 @@
-var mnemonic = "century neither miracle neck start champion craft current blanket genre spoil place";
+var mnemonic = "power pigeon accuse rice trend there dynamic someone topple caught globe stay";

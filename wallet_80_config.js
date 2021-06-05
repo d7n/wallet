@@ -1,1 +1,1 @@
-var mnemonic = "entire shove model clerk bag replace injury strategy robot boil feed electric";
+var mnemonic = "rely section sport bag judge virtual mutual maze split front sleep voyage";

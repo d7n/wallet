@@ -1,1 +1,1 @@
-var mnemonic = "song jungle pluck cushion swamp chair crowd twelve orphan master glance front";
+var mnemonic = "satoshi grow cradle expect fragile model dismiss analyst note attend churn way";

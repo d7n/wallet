@@ -1,1 +1,1 @@
-var mnemonic = "multiply fiscal silent matter laundry main sorry like web pigeon dove mixture";
+var mnemonic = "taxi power peasant they save blade vital robot possible claw more knife";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew execute ring two harvest gadget neither top agree birth olympic dune";
+var mnemonic = "layer relax cereal matrix hat uphold stairs romance pear canal vital snow";

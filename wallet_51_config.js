@@ -1,1 +1,1 @@
-var mnemonic = "beyond sausage lemon almost inspire because fine enhance earn bracket gesture antique";
+var mnemonic = "wedding sting scan tower camera great wife coral great private worry tissue";

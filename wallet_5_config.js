@@ -1,1 +1,1 @@
-var mnemonic = "wonder language tackle brave local display barrel original usual cricket gesture vacuum";
+var mnemonic = "custom elder lift noise celery minute grace shift use mutual member scatter";

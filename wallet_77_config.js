@@ -1,1 +1,1 @@
-var mnemonic = "more stadium element wear member cat toss pistol cradle raven list arrange";
+var mnemonic = "super tag match awful bid hover tissue repair silent amount material fantasy";

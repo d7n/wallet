@@ -1,1 +1,1 @@
-var mnemonic = "rookie category benefit cash tribe off foil arm busy grain window express";
+var mnemonic = "umbrella height mimic explain rug summer earth put cushion move invest dismiss";

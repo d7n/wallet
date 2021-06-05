@@ -1,1 +1,1 @@
-var mnemonic = "crunch ski decorate purity cook vivid supreme lock casual drama involve organ";
+var mnemonic = "broccoli shift forward canvas radio faculty guard few actor burst vapor bullet";

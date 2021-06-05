@@ -1,1 +1,1 @@
-var mnemonic = "glass rain sign venture dance sell claim whale innocent true clog photo";
+var mnemonic = "first hint roof drip sell reject enter bunker time myth exotic strong";

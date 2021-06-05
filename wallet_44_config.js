@@ -1,1 +1,1 @@
-var mnemonic = "talent quarter leaf crunch adapt august correct deal patient beach mirror logic";
+var mnemonic = "cash fatigue bicycle garment news apple coil shield conduct planet hill short";

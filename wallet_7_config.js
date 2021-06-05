@@ -1,1 +1,1 @@
-var mnemonic = "occur earth honey pen split govern run planet attack always strong title";
+var mnemonic = "eternal caution flower valid sea doctor rubber sketch hotel bone swim absent";

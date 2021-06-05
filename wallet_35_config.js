@@ -1,1 +1,1 @@
-var mnemonic = "immune catalog topic caution actress hobby twenty enroll jazz wheat fabric great";
+var mnemonic = "chalk hundred surface famous just half torch alcohol relax large brush next";

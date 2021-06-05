@@ -1,1 +1,1 @@
-var mnemonic = "famous crew pioneer tape leader cave debate eager october negative fit filter";
+var mnemonic = "teach jungle cube gas mercy gloom pyramid only twelve endless heart address";

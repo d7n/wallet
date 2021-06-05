@@ -1,1 +1,1 @@
-var mnemonic = "gate faith draw expand matter appear mix modify hat lawn satisfy absent";
+var mnemonic = "wood energy text sing wool man gaze creek night uniform shoot lyrics";

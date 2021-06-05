@@ -1,1 +1,1 @@
-var mnemonic = "foam wood someone juice acid zone mail glove tissue copper volcano giraffe";
+var mnemonic = "enact space grow nest rate squirrel okay gesture rhythm group brain lion";

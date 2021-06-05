@@ -1,1 +1,1 @@
-var mnemonic = "detect away length effort trend same bleak final bulb lecture save lady";
+var mnemonic = "pottery coconut disorder pluck marriage check extend steak wine hamster adult cannon";

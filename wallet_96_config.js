@@ -1,1 +1,1 @@
-var mnemonic = "pencil trend foster awesome symptom pelican adapt empty federal output make retire";
+var mnemonic = "detect unable timber joy profit village enter power glide pledge evil carbon";

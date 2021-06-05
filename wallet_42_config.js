@@ -1,1 +1,1 @@
-var mnemonic = "brain toilet scorpion raw scorpion rich host polar ripple unlock differ trash";
+var mnemonic = "solid quality cousin order lunch dragon hold achieve void elevator oven cargo";

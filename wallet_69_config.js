@@ -1,1 +1,1 @@
-var mnemonic = "grit beach slender have trim essence little apple syrup high cave clown";
+var mnemonic = "slow predict spoil garbage kitten actor glance finish motor tilt buffalo olive";

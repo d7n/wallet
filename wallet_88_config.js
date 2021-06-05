@@ -1,1 +1,1 @@
-var mnemonic = "south object lucky height logic elder funny sunset banner heavy lady taste";
+var mnemonic = "holiday melt collect lazy measure egg neglect music where found tip tomato";

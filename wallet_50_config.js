@@ -1,1 +1,1 @@
-var mnemonic = "trick economy circle medal hospital wave own deal shoulder arctic coyote spawn";
+var mnemonic = "apart wrap call rescue toddler notable image enlist cheap layer thunder couple";

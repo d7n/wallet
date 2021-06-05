@@ -1,1 +1,1 @@
-var mnemonic = "public start stove dash arrow soldier glad razor way fish tongue sister";
+var mnemonic = "noodle hurt brush comfort nose kind teach problem convince month execute maximum";

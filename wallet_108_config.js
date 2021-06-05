@@ -1,1 +1,1 @@
-var mnemonic = "museum quarter together forest bracket mandate joy normal point fringe hobby agree";
+var mnemonic = "crumble lab coyote survey very spatial tiger picnic amazing mule color curve";

@@ -1,1 +1,1 @@
-var mnemonic = "economy rifle you disagree only churn room roast just much genre federal";
+var mnemonic = "organ man buffalo shadow plunge economy snap energy type cement junior advance";

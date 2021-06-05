@@ -1,1 +1,1 @@
-var mnemonic = "artwork oak setup later issue all unhappy display audit anchor caution faculty";
+var mnemonic = "rebuild dolphin digital review mean vital window joy brain rate manage gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "coil tower major inject check impose tonight buzz security off giraffe quantum";
+var mnemonic = "country bargain core liquid hammer march sea trouble main piano repeat dove";

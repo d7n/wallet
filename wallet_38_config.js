@@ -1,1 +1,1 @@
-var mnemonic = "intact purity february leader clay decline device metal nerve inside hello planet";
+var mnemonic = "ask two frozen milk heavy opera mobile fade mosquito property syrup head";

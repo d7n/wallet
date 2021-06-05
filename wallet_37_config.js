@@ -1,1 +1,1 @@
-var mnemonic = "brush gaze math view burst parade live immune matrix page raw cage";
+var mnemonic = "canvas circle spread try husband sunny sauce witness tilt damp pigeon flip";

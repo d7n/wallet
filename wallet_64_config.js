@@ -1,1 +1,1 @@
-var mnemonic = "liquid banner major hungry call endless shoulder task evil because make shrimp";
+var mnemonic = "uncle muscle pole dog rice ceiling twenty rifle champion sunny install develop";

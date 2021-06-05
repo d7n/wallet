@@ -1,1 +1,1 @@
-var mnemonic = "butter offer honey elder camera armed infant catalog invest leg replace layer";
+var mnemonic = "leopard puppy spike crew universe sleep flip scrub gallery fiction job end";

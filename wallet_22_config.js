@@ -1,1 +1,1 @@
-var mnemonic = "churn want catch truly zebra burden web ranch head vote type hawk";
+var mnemonic = "canoe armed since bus pelican foam outdoor wrap tourist ozone slush palm";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost destroy advice mass fatal public kind receive betray example eternal kitten";
+var mnemonic = "message photo razor skirt system pave scorpion maze opinion romance grace test";

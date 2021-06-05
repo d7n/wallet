@@ -1,1 +1,1 @@
-var mnemonic = "bamboo artwork kangaroo drip wait wheat differ narrow excess ceiling identify detail";
+var mnemonic = "fall shadow salute amateur reunion game scrap tackle wear play duck lonely";

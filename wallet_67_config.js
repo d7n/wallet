@@ -1,1 +1,1 @@
-var mnemonic = "town vague once horror empower shoe transfer sport goat naive wonder guess";
+var mnemonic = "journey model sing floor strategy prepare develop design gather middle category relief";

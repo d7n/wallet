@@ -1,1 +1,1 @@
-var mnemonic = "repeat collect sentence front labor grocery chat party hotel door skin main";
+var mnemonic = "street antique scheme glue question entry panic face tourist misery sick answer";

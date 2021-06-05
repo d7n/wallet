@@ -1,1 +1,1 @@
-var mnemonic = "bag mask slide tunnel runway dice atom clip entire dynamic where road";
+var mnemonic = "promote bridge squirrel wire street work attend labor zoo swift winner guide";

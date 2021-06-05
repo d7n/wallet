@@ -1,1 +1,1 @@
-var mnemonic = "biology avoid army profit inherit chalk absent fox enrich damp fee clock";
+var mnemonic = "merit truck arctic tag utility reveal initial sword perfect garment brush almost";

@@ -1,1 +1,1 @@
-var mnemonic = "coin town purpose staff victory love artwork reward enforce draft toe wait";
+var mnemonic = "you canoe vital guess unknown fancy neutral awake liberty cabin frozen toddler";

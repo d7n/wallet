@@ -1,1 +1,1 @@
-var mnemonic = "cherry pole test super tobacco tape bridge gift true sport enter want";
+var mnemonic = "index problem method foot diagram eager canvas cart sheriff silent over poem";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon salute cake eyebrow donkey sad dance blind orange club tape member";
+var mnemonic = "enlist local curve away aunt latin absorb attitude distance peasant venue path";

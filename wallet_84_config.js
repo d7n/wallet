@@ -1,1 +1,1 @@
-var mnemonic = "reunion pause cruel flip off balance lazy shove tongue salon assist abuse";
+var mnemonic = "mass stadium sample achieve strong eyebrow apple mansion glow hour glass shove";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow work fiction matter genius recipe divide onion shadow genre economy daughter";
+var mnemonic = "suffer wash giggle amused share iron donate enlist device ensure about soft";

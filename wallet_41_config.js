@@ -1,1 +1,1 @@
-var mnemonic = "exit broken solid muscle unfold blouse arctic destroy vessel sister bounce cat";
+var mnemonic = "parrot segment whisper club transfer boil intact mail need unknown sorry couch";

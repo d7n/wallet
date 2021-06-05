@@ -1,1 +1,1 @@
-var mnemonic = "library burger medal chat six short skin shrug input bulb trial tuition";
+var mnemonic = "coffee legal pull science total twelve off globe dentist weekend basket few";

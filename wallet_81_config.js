@@ -1,1 +1,1 @@
-var mnemonic = "wine actual pencil mutual lucky actress identify comic attack truck bonus dash";
+var mnemonic = "skate trouble tuition project inner blame shrimp swap you screen polar box";

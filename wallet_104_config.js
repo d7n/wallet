@@ -1,1 +1,1 @@
-var mnemonic = "virtual sibling mushroom assume range sample federal hello exit drink want drastic";
+var mnemonic = "blood private coconut decrease today talent color sponsor address develop aspect general";

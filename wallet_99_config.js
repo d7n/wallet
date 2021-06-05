@@ -1,1 +1,1 @@
-var mnemonic = "mango antique vintage where plate town elevator door zero axis over cushion";
+var mnemonic = "reward jungle purpose zebra write oyster ladder metal coconut recall deliver ice";

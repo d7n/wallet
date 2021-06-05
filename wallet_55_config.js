@@ -1,1 +1,1 @@
-var mnemonic = "monitor cram unit shuffle park nose print swarm spike capable element vibrant";
+var mnemonic = "club kite alter survey medal check capable bone oblige robot neglect tree";

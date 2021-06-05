@@ -1,1 +1,1 @@
-var mnemonic = "light usage royal give luggage index aware carbon dress remember luxury lion";
+var mnemonic = "slush doll razor mix govern dirt useful clarify unhappy gain muffin rabbit";

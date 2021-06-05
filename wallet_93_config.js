@@ -1,1 +1,1 @@
-var mnemonic = "fork law please survey acquire time toast meat tape test noble layer";
+var mnemonic = "very demise monster midnight puppy spread stamp problem test cable nice aunt";

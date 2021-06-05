@@ -1,1 +1,1 @@
-var mnemonic = "essence dilemma manual vintage federal hungry drive virtual shift rigid bid nominee";
+var mnemonic = "clog category amateur borrow industry dash gauge ring congress lunch obtain dolphin";

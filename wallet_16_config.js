@@ -1,1 +1,1 @@
-var mnemonic = "pen tent remain boring mad eternal paper neck carbon orbit anger grant";
+var mnemonic = "put screen slogan camera obscure slight jealous fever this holiday friend disagree";

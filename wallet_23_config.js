@@ -1,1 +1,1 @@
-var mnemonic = "powder raccoon immune urge noodle pact clarify utility refuse salute produce unlock";
+var mnemonic = "margin slow rookie child mesh fan borrow mass garbage speak race hurry";

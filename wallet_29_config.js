@@ -1,1 +1,1 @@
-var mnemonic = "horn average deny prize liquid alarm city auction tattoo check tumble add";
+var mnemonic = "system file victory cloth west water tackle gauge gate airport fire lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "soap pledge abstract fault fold include current donate purse false race fish";
+var mnemonic = "warrior sketch private tube robust spice century tobacco swift term peasant sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck chef foam you chalk marble hello frown concert crunch swap purse";
+var mnemonic = "toddler sentence yard focus place across search image badge expose crazy february";

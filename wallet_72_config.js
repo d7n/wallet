@@ -1,1 +1,1 @@
-var mnemonic = "pencil join way much forum beyond prevent will project write grace outside";
+var mnemonic = "toss fog melt engine version young exit spoil eyebrow never sustain fluid";

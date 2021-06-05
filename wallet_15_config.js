@@ -1,1 +1,1 @@
-var mnemonic = "garment ten owner nurse shoulder neglect spell govern piano horror clever royal";
+var mnemonic = "access purity recycle chase popular cute enjoy vast song steak coffee into";

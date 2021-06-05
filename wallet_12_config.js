@@ -1,1 +1,1 @@
-var mnemonic = "beach fine erupt business still sniff diesel yellow season obey combine pair";
+var mnemonic = "shrug above talent avocado announce hurdle cluster front damp decrease bacon hybrid";

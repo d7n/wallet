@@ -1,1 +1,1 @@
-var mnemonic = "tank then eight grunt cereal swarm spray inform lecture trend tackle bomb";
+var mnemonic = "knee direct object receive champion assault client vote seminar video broken tilt";

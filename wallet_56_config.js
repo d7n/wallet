@@ -1,1 +1,1 @@
-var mnemonic = "tool huge ritual soul guide better robust gym aware melody acquire awake";
+var mnemonic = "coconut road renew drum menu matter wink thumb cause broken floor congress";

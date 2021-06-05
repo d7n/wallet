@@ -1,1 +1,1 @@
-var mnemonic = "discover fold deal file man latin anxiety aisle toilet animal thumb betray";
+var mnemonic = "rubber lounge common carbon canoe thrive track riot sense sniff until catalog";

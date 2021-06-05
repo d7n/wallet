@@ -1,1 +1,1 @@
-var mnemonic = "worth quit there cinnamon resemble beef return dance conduct enroll inform decorate";
+var mnemonic = "advice pull awkward leisure core volume able measure cry surface miss between";

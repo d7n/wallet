@@ -1,1 +1,1 @@
-var mnemonic = "harbor decide ahead goddess core flash expand fancy speak sock right urge";
+var mnemonic = "hybrid assault steel science bless exhibit luxury deputy vital trend quality error";

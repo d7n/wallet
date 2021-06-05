@@ -1,1 +1,1 @@
-var mnemonic = "clip cancel pulse goddess empty east deal father annual age off coin";
+var mnemonic = "laptop music puppy area slide strong dad extend purity loan main market";

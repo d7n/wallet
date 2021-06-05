@@ -1,1 +1,1 @@
-var mnemonic = "holiday wasp swim glass hunt portion tower glide calm copper supreme rabbit";
+var mnemonic = "crazy rate lion capital spoil oak tenant among club enjoy retreat update";

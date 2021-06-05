@@ -1,1 +1,1 @@
-var mnemonic = "volcano empower unable boss deputy friend diagram bring exhaust best prize lecture";
+var mnemonic = "village guard staff upper miracle mutual unknown shadow erase wrestle smooth excess";

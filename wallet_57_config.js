@@ -1,1 +1,1 @@
-var mnemonic = "marble trial scheme approve match guilt wrap disagree deer produce cherry sport";
+var mnemonic = "use cram fire slim ball cereal hunt talent title welcome oil pride";

@@ -1,1 +1,1 @@
-var mnemonic = "actual confirm deal negative hollow major bird squeeze web injury burden taste";
+var mnemonic = "hedgehog spend laptop flush anger response alone saddle govern slogan remember drastic";

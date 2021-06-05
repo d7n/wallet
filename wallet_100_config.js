@@ -1,1 +1,1 @@
-var mnemonic = "pretty reflect lecture switch note chest tuition era time resist across utility";
+var mnemonic = "decline market mom cupboard lonely announce dial screen turn diary drip angry";

@@ -1,1 +1,1 @@
-var mnemonic = "senior squirrel peasant beauty horror lyrics actual inform rail amount stereo swarm";
+var mnemonic = "doll start stadium exhibit bomb spring banana jazz december company sketch angle";

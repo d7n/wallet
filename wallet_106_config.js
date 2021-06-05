@@ -1,1 +1,1 @@
-var mnemonic = "glide jelly cargo palm special model weather tired solar tragic emotion outdoor";
+var mnemonic = "behind imitate believe certain blouse sail frequent catalog easily limit defense bomb";

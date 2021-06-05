@@ -1,1 +1,1 @@
-var mnemonic = "broccoli grid present lava appear humble hybrid palm galaxy oblige version nerve";
+var mnemonic = "decade hint maple plunge assist pulp crawl slim correct account ill save";

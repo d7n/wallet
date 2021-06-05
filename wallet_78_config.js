@@ -1,1 +1,1 @@
-var mnemonic = "minute list device bracket panic they bubble foster peace party auction daughter";
+var mnemonic = "brown throw horn wrong mountain alien century ski female race end market";

@@ -1,1 +1,1 @@
-var mnemonic = "search crop toe solve minute trial pepper settle grape industry thrive attract";
+var mnemonic = "piece clock sad say fantasy fabric author chair blouse word major slender";

@@ -1,1 +1,1 @@
-var mnemonic = "audit cry issue inquiry evidence destroy wasp sight breeze pole skull design";
+var mnemonic = "illness fat couch pattern insect level museum clock control code damp enrich";

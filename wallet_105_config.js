@@ -1,1 +1,1 @@
-var mnemonic = "risk patrol rhythm power pole pudding long business grace light peasant extend";
+var mnemonic = "detail health father critic else into cherry debris animal come hospital license";

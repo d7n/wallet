@@ -1,1 +1,1 @@
-var mnemonic = "salt sting weird simple strategy novel high hip pioneer dose fortune vague";
+var mnemonic = "bonus bar lonely tennis ramp man behave tell control best ten imitate";

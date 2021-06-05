@@ -1,1 +1,1 @@
-var mnemonic = "pizza priority admit cake episode equal add science topic key industry risk";
+var mnemonic = "treat trim push swear curve inquiry arrow funny puppy female robot later";

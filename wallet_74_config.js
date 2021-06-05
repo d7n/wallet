@@ -1,1 +1,1 @@
-var mnemonic = "economy ordinary share flag bird bench attend nothing control canvas jaguar rookie";
+var mnemonic = "extend actual bright danger client spike remove ginger tornado when between member";

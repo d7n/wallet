@@ -1,1 +1,1 @@
-var mnemonic = "rather month depth car address famous help helmet pause crumble travel control";
+var mnemonic = "cook resist law book actor render steak coyote spice bind trip belt";

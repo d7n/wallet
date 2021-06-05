@@ -1,1 +1,1 @@
-var mnemonic = "model web turkey first matter margin scorpion pioneer matter speed unable debris";
+var mnemonic = "deputy weasel favorite barrel erode race waste husband remind debate trophy update";

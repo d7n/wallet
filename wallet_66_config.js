@@ -1,1 +1,1 @@
-var mnemonic = "trade indicate century useless cigar mom age trial boy patch smoke decorate";
+var mnemonic = "embark maid badge impulse stadium over pizza spread noodle sauce reunion target";

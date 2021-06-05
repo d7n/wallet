@@ -1,1 +1,1 @@
-var mnemonic = "ice friend energy exhaust ring blur property bounce collect rate anchor stick";
+var mnemonic = "square view afford venue million school dawn noodle cage six raw chest";

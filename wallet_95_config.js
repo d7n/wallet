@@ -1,1 +1,1 @@
-var mnemonic = "rabbit april step zoo asthma swim nose cart object hour course scale";
+var mnemonic = "venture entire quit arrow join hotel uncle keen blue asset anchor wrestle";
