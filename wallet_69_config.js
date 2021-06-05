@@ -1,1 +1,1 @@
-var mnemonic = "about element whale potato lava album potato deny battle host weather trouble";
+var mnemonic = "cluster wood require almost bronze report crew click slush decline dawn blood";

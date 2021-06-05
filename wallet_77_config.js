@@ -1,1 +1,1 @@
-var mnemonic = "tower rabbit strategy local swamp resist device bachelor radio federal else mandate";
+var mnemonic = "hybrid field elite damage often series also wire large antique bag copy";

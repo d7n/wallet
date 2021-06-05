@@ -1,1 +1,1 @@
-var mnemonic = "define promote recycle hedgehog proud damp fruit twist bullet memory ugly powder";
+var mnemonic = "cup theory mistake typical device bag program ankle vast craft remain ostrich";

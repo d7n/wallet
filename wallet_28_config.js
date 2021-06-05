@@ -1,1 +1,1 @@
-var mnemonic = "electric mix have dizzy tomato release oppose staff mammal type office hobby";
+var mnemonic = "salute flag melt exile obscure mule fortune involve habit wisdom equip wall";

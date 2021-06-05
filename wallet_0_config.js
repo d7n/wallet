@@ -1,1 +1,1 @@
-var mnemonic = "odor kiss eagle maple vapor pluck okay social around suggest nice gun";
+var mnemonic = "during circle genuine setup rug butter crash stuff vintage feed charge pave";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar task prosper warrior elevator basic stay reduce bright expose giraffe crunch";
+var mnemonic = "man major buyer lunch elbow neutral agree test distance green report donkey";

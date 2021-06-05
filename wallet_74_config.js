@@ -1,1 +1,1 @@
-var mnemonic = "write crater boost wolf velvet brisk shoe sadness merit chronic exhibit bean";
+var mnemonic = "sorry update spatial walk dream cat thumb victory tenant soon grunt else";

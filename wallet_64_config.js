@@ -1,1 +1,1 @@
-var mnemonic = "dose blood bottom timber tornado chest engine behind arrange toilet brush vast";
+var mnemonic = "book alien imitate throw gospel height sting scatter accuse labor daring mixture";

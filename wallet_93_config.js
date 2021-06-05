@@ -1,1 +1,1 @@
-var mnemonic = "captain sorry decide rich list fold stuff heavy multiply tent february habit";
+var mnemonic = "dignity assist oyster fade fold recipe say bracket coin almost walk scare";

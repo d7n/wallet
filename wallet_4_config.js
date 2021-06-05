@@ -1,1 +1,1 @@
-var mnemonic = "dish defy language dust resist salmon canal artefact deposit island clip frame";
+var mnemonic = "public velvet rack lens outside bus inflict ribbon execute dance hint public";

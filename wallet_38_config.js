@@ -1,1 +1,1 @@
-var mnemonic = "skirt empower visual dolphin mandate august awake sphere wheel tree citizen diamond";
+var mnemonic = "youth gift teach sorry fun display flight end stuff paddle peasant copper";

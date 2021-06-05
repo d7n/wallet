@@ -1,1 +1,1 @@
-var mnemonic = "glare usual uncover foam width mercy quarter exact arrow excite first trash";
+var mnemonic = "valve connect name giraffe during mistake kit symptom vital electric snack suffer";

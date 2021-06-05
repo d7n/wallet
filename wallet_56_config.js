@@ -1,1 +1,1 @@
-var mnemonic = "clean vehicle talk firm pudding stove other caught chuckle junior proud castle";
+var mnemonic = "peanut stool embody ice donkey weird pelican skill catch tenant joke smart";

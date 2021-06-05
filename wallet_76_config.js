@@ -1,1 +1,1 @@
-var mnemonic = "hamster crush erode allow mule year barely circle tackle curtain dream practice";
+var mnemonic = "fat train slogan clutch prevent fox board sign draft sponsor squirrel purity";

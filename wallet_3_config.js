@@ -1,1 +1,1 @@
-var mnemonic = "round bunker limit when mistake unlock sort gentle worth hamster law language";
+var mnemonic = "chunk memory struggle library purse chair wire ecology equip shoe choice mind";

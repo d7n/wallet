@@ -1,1 +1,1 @@
-var mnemonic = "ancient stable concert baby wash sail hedgehog then lava until melt eager";
+var mnemonic = "labor devote range dash heavy use champion travel deputy rose agree sample";

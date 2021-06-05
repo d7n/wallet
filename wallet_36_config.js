@@ -1,1 +1,1 @@
-var mnemonic = "symbol blanket tag often nice catalog kit ball match picnic still month";
+var mnemonic = "wisdom cup chalk jaguar own element early company client decrease lion shop";

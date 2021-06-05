@@ -1,1 +1,1 @@
-var mnemonic = "jelly cube awful twist supply zone muffin join cloth occur topple expand";
+var mnemonic = "sad exit round oxygen suggest supreme park depth arrange luxury claim stamp";

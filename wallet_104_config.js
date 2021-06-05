@@ -1,1 +1,1 @@
-var mnemonic = "input antique demise edge country daughter decline loan grass cute rocket message";
+var mnemonic = "harvest hazard conduct feed double dynamic club three enroll hurdle seed aisle";

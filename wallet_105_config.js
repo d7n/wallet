@@ -1,1 +1,1 @@
-var mnemonic = "pledge guitar crunch husband split man moment seminar purity age please aunt";
+var mnemonic = "merge girl friend another reject night romance horn copy cabin tomato scheme";

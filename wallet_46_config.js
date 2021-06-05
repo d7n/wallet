@@ -1,1 +1,1 @@
-var mnemonic = "manage panic fade rack enact also grid paper lazy feed mercy rookie";
+var mnemonic = "leisure memory novel diagram swing lawsuit control glad field seminar logic sweet";

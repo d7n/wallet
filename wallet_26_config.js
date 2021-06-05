@@ -1,1 +1,1 @@
-var mnemonic = "thank swear exotic issue kit thumb hair early thrive cheese service olympic";
+var mnemonic = "amount scene wine way elegant stamp car else time useless secret salon";

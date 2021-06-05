@@ -1,1 +1,1 @@
-var mnemonic = "feed exile embark jazz inquiry throw grace awkward quiz urge furnace garden";
+var mnemonic = "seek city rate icon chair hero struggle property check click blast dwarf";

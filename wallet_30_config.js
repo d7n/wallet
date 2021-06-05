@@ -1,1 +1,1 @@
-var mnemonic = "farm coach repair air record century peace birth auto blood drum train";
+var mnemonic = "paddle river adapt liberty act crunch fiscal leader panda void inner crew";

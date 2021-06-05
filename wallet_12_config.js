@@ -1,1 +1,1 @@
-var mnemonic = "ocean fine economy argue castle silly shell miss market fossil toss humor";
+var mnemonic = "ozone element assist describe pill teach into trim pass abuse tragic gown";

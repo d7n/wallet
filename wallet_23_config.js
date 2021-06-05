@@ -1,1 +1,1 @@
-var mnemonic = "text three belt leave harsh coach fluid true pipe eight tragic trick";
+var mnemonic = "seed foam seven clown super trouble snow amused fever input quantum joke";

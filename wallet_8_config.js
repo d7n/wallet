@@ -1,1 +1,1 @@
-var mnemonic = "display flash business maximum grant face hope vacant brave bulb barrel album";
+var mnemonic = "despair language step ozone leopard panther excuse gift body debris during shift";

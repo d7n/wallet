@@ -1,1 +1,1 @@
-var mnemonic = "output exhibit twelve current recall dune elite spider burst cattle cabin target";
+var mnemonic = "silver mass error frown relief about there run despair ability steel uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "soft task print wet game drink diet drink game demand design chicken";
+var mnemonic = "whisper agree nice benefit material eager trigger siren only two manual town";

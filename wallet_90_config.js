@@ -1,1 +1,1 @@
-var mnemonic = "supreme tape link amused pupil rebuild bench earth bacon humble sun hen";
+var mnemonic = "smoke tortoise action math polar knock clump sausage fabric surround pistol tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse museum entire wonder deal attract wall state clinic image wine pledge";
+var mnemonic = "weasel slide observe oppose salon milk clutch become song company point umbrella";

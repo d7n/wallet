@@ -1,1 +1,1 @@
-var mnemonic = "addict pelican city allow net enter guard liar shallow marriage wood donkey";
+var mnemonic = "such utility duck grace squeeze raven swap hair ritual rookie car fox";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle jungle ketchup post onion donor eyebrow follow club relax fringe soup";
+var mnemonic = "robot glove party bless job toe burden brand park funny donate security";

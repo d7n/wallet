@@ -1,1 +1,1 @@
-var mnemonic = "skin screen globe bachelor supply rail asset enlist position have clog shrug";
+var mnemonic = "future crazy view morning service february bridge clip problem still entire doll";

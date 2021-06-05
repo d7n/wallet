@@ -1,1 +1,1 @@
-var mnemonic = "treat horse cost shield club half velvet birth because rack scale concert";
+var mnemonic = "library affair ill auction next disagree shoot cushion grunt exile cat shield";

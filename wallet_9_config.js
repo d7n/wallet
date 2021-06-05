@@ -1,1 +1,1 @@
-var mnemonic = "ride write aunt insane monster bunker junk lava fun wink sound congress";
+var mnemonic = "task whip clock need calm member uphold pony race dinosaur about taste";

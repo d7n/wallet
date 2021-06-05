@@ -1,1 +1,1 @@
-var mnemonic = "chalk hurdle sunset swap check brisk abstract project wolf engine twelve fatigue";
+var mnemonic = "steel aspect obvious notice float weird second unfold step rich nation method";

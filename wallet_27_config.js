@@ -1,1 +1,1 @@
-var mnemonic = "easy easily punch peace slogan above swallow silk wealth transfer source child";
+var mnemonic = "point topic left wood pluck damage regret tower digital body frog hurt";

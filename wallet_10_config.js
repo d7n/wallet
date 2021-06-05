@@ -1,1 +1,1 @@
-var mnemonic = "shallow beach pupil exotic initial number gorilla road wreck deal frog sugar";
+var mnemonic = "chaos brown add submit food genre zone turkey blade spirit forget below";

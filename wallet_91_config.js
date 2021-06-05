@@ -1,1 +1,1 @@
-var mnemonic = "tomato turkey marble welcome mutual engage story zone catalog orphan mouse belt";
+var mnemonic = "lazy symbol attend punch remove practice prize caught enhance axis cotton source";

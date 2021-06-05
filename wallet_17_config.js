@@ -1,1 +1,1 @@
-var mnemonic = "point spin hire quality easily virus fade rival will tunnel around install";
+var mnemonic = "much loop strike mule soccer school achieve slender coach mother park gun";

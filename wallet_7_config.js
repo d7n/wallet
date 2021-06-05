@@ -1,1 +1,1 @@
-var mnemonic = "report rule fringe hill sniff century canyon rural erupt connect reopen palace";
+var mnemonic = "color tuition barely spike mushroom bubble fatal myth garment pen author shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "answer man party pepper age poet display health garden umbrella company gravity";
+var mnemonic = "wonder knife address autumn august giggle swarm hair owner kitten music embody";

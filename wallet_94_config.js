@@ -1,1 +1,1 @@
-var mnemonic = "motion utility cricket orchard expand provide pudding inflict pudding give daring shoulder";
+var mnemonic = "betray ten hungry cannon laptop must purchase key excess father exercise barrel";

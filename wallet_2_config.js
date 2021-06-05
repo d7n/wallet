@@ -1,1 +1,1 @@
-var mnemonic = "run want mountain step nose grace width upset trophy bless expand throw";
+var mnemonic = "view price resist element nurse wine drive tissue also casino attitude family";

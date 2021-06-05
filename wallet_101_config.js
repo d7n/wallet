@@ -1,1 +1,1 @@
-var mnemonic = "army tape pole veteran march love task awful siren knock invite violin";
+var mnemonic = "blood play snack fog salon brother iron shoe genuine shoot stone vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "melt layer advance hurt flee music welcome fantasy myth swear clog salt";
+var mnemonic = "prepare type when govern ghost latin little large cheap acid expand accuse";

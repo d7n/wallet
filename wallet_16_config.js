@@ -1,1 +1,1 @@
-var mnemonic = "bag sibling enrich buzz daughter drive deal funny scrub notable venue month";
+var mnemonic = "dream abuse any chalk soldier fantasy gym brush wrong they region vault";

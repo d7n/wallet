@@ -1,1 +1,1 @@
-var mnemonic = "breeze churn notice appear wine curve hidden height say festival melt upset";
+var mnemonic = "plate office hill cake find leisure equip height hire scissors mule evoke";

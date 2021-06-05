@@ -1,1 +1,1 @@
-var mnemonic = "planet swarm fuel exit slogan retreat first floor tourist dial job icon";
+var mnemonic = "smart grain raven cram speed mom stuff gift review sweet spoon equip";

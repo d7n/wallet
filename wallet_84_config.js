@@ -1,1 +1,1 @@
-var mnemonic = "sunset orchard core left stuff edge sphere subway nominee divorce sand lady";
+var mnemonic = "venue ethics force toe palm remove dose federal notice have caution health";

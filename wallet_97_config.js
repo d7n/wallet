@@ -1,1 +1,1 @@
-var mnemonic = "blind wood visual often chase shift ethics source ladder more start float";
+var mnemonic = "torch area depart finish bring surge keep direct critic nose screen giant";

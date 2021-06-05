@@ -1,1 +1,1 @@
-var mnemonic = "huge quality wet common tail adjust picture into put rival life link";
+var mnemonic = "knee surprise swap arrive female boat plastic rival learn pigeon cool similar";

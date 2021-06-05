@@ -1,1 +1,1 @@
-var mnemonic = "recycle various move pill company frozen fork twenty describe million tongue earth";
+var mnemonic = "banner gospel general room market merit practice armor shell rival saddle limit";

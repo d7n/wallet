@@ -1,1 +1,1 @@
-var mnemonic = "couple crucial deal lion lonely clerk wood pact brain view island mirror";
+var mnemonic = "badge position fortune chicken cram genius fall marriage hospital sphere slam weather";

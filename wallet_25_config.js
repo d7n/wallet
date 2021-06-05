@@ -1,1 +1,1 @@
-var mnemonic = "patch brain ritual fence palm first hedgehog amateur tell ten unknown then";
+var mnemonic = "bounce net dwarf hour charge face glue reason reopen drop rain demise";

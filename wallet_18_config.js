@@ -1,1 +1,1 @@
-var mnemonic = "snow salt spray level trap oil episode plastic lecture poverty gate belt";
+var mnemonic = "unfair mad cool fruit photo canyon debate model fragile foam health useless";

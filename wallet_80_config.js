@@ -1,1 +1,1 @@
-var mnemonic = "educate august hospital claw decorate food weird glove tide auction post banana";
+var mnemonic = "cheese weasel trash first ignore excess clinic wealth virtual easy hunt work";

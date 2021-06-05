@@ -1,1 +1,1 @@
-var mnemonic = "humble bag often air cloth all shrimp citizen ridge donor obscure squirrel";
+var mnemonic = "fruit any glory air primary secret always sudden sustain margin monitor across";

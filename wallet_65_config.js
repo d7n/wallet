@@ -1,1 +1,1 @@
-var mnemonic = "kid need market curtain know urban music vicious meadow bar neck comic";
+var mnemonic = "pattern desk squirrel electric slot useful ripple amateur stove jar actor exhibit";

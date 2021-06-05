@@ -1,1 +1,1 @@
-var mnemonic = "predict uphold segment merit siege praise pilot crisp beach monitor uncover rare";
+var mnemonic = "priority calm tank play scorpion move scene harbor soup blood occur tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet display private point salt broccoli ship income rug worry retire leopard";
+var mnemonic = "ticket april pair school moment hunt empty ridge mirror syrup soda happy";

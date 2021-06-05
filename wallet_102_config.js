@@ -1,1 +1,1 @@
-var mnemonic = "useless foster gadget unfold hen inflict jar runway dumb rely saddle belt";
+var mnemonic = "eyebrow brick sort shoe enhance student service obey chunk enrich update gorilla";

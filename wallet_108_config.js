@@ -1,1 +1,1 @@
-var mnemonic = "spider slot forget over saddle erode design sword used soft captain taxi";
+var mnemonic = "giraffe pear logic must sound february mechanic plug ocean roast hover kick";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch real age balcony crush cake false employ master goddess priority kite";
+var mnemonic = "melody choice team ridge begin system broken super write output suspect peanut";

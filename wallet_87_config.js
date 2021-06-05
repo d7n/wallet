@@ -1,1 +1,1 @@
-var mnemonic = "face merry tattoo noble plug depart future left pool oblige law element";
+var mnemonic = "discover only black pelican very address online about orchard curtain fancy scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "magic rookie begin hotel bomb ensure model feel drip gown utility unlock";
+var mnemonic = "humble pig crime blanket enjoy chair install brush crush drip melt seed";

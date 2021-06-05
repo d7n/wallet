@@ -1,1 +1,1 @@
-var mnemonic = "when funny wide link hollow skull apology because assault beach crisp radar";
+var mnemonic = "awesome object seven quit spirit neglect distance pattern horror struggle parade filter";

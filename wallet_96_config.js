@@ -1,1 +1,1 @@
-var mnemonic = "ankle pass liquid snack lemon pattern coil wheat broken divide shop photo";
+var mnemonic = "raw forward produce mango frequent noodle breeze rug name case similar vendor";

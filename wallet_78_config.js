@@ -1,1 +1,1 @@
-var mnemonic = "interest tilt film bronze wonder advance decade chalk helmet demand smart dust";
+var mnemonic = "have pottery mad arena material fatigue auto try random unfold shaft street";

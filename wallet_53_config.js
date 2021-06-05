@@ -1,1 +1,1 @@
-var mnemonic = "language enact casino siege unable false state humor usual curious island erase";
+var mnemonic = "flash degree advance clutch flee inner defense mixed piece ecology embrace below";

@@ -1,1 +1,1 @@
-var mnemonic = "select gun dwarf stomach cave swim polar grant stay creek deer over";
+var mnemonic = "second plunge fabric oil bargain frog perfect midnight smooth refuse give dinosaur";

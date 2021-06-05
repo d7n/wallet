@@ -1,1 +1,1 @@
-var mnemonic = "income air remember blouse salon rich east fitness mystery shoot keep isolate";
+var mnemonic = "slab vintage earth quit educate proof cash adapt horn cherry black museum";

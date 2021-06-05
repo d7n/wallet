@@ -1,1 +1,1 @@
-var mnemonic = "giggle group whisper demand hero cabin present dress glove enter leader face";
+var mnemonic = "much knife magnet arrive turtle rose click high force web already car";

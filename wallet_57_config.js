@@ -1,1 +1,1 @@
-var mnemonic = "lucky recycle comic husband sentence extra outer obey quiz garage cement uphold";
+var mnemonic = "silver consider whip century body science inhale swift cat spread split neglect";

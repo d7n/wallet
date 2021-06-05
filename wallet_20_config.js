@@ -1,1 +1,1 @@
-var mnemonic = "vacant outdoor because frost electric fossil service beauty economy decrease list alter";
+var mnemonic = "sound result print fragile inherit kitten kiss apple pizza update ship stay";

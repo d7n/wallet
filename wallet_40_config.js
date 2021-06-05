@@ -1,1 +1,1 @@
-var mnemonic = "maximum museum undo dilemma pass differ ball alien work expect robot audit";
+var mnemonic = "number school puzzle record night step report battle treat chunk wedding crash";

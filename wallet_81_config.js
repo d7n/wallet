@@ -1,1 +1,1 @@
-var mnemonic = "announce tomato funny indoor during hospital weekend catch funny current start hunt";
+var mnemonic = "explain crumble invite join phone favorite aspect trash label critic pattern penalty";

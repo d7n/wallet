@@ -1,1 +1,1 @@
-var mnemonic = "express impulse inquiry mom airport accuse bind vacuum flash urban pill portion";
+var mnemonic = "veteran special olympic wish visit funny actual icon gown club gift manage";

@@ -1,1 +1,1 @@
-var mnemonic = "forest stumble cradle observe gap viable champion will letter labor impulse have";
+var mnemonic = "matrix test garden sense gas account possible disease hold great south symptom";

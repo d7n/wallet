@@ -1,1 +1,1 @@
-var mnemonic = "super sword dutch tornado option head blue unfair enlist steel utility cupboard";
+var mnemonic = "isolate fragile upper leopard toss alert undo minimum off token chat gossip";

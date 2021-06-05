@@ -1,1 +1,1 @@
-var mnemonic = "blanket fluid topic hood response also aware glow mistake cactus patient panther";
+var mnemonic = "also violin supreme merry mirror reveal embrace furnace debate between snack bronze";

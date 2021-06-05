@@ -1,1 +1,1 @@
-var mnemonic = "erosion spring dolphin wait slide bargain gadget hurry army robot reward repeat";
+var mnemonic = "word use other finger duck artwork corn space grief unlock accuse beach";

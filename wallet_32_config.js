@@ -1,1 +1,1 @@
-var mnemonic = "practice goose dolphin visit brisk path pledge mansion siren inherit cram outer";
+var mnemonic = "polar motor blast hobby field net enjoy explain ethics reflect run inflict";

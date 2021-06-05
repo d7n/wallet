@@ -1,1 +1,1 @@
-var mnemonic = "need idea finger panel close document fold general depth motion acquire soul";
+var mnemonic = "cool neutral slush sea song rent moment easily reveal tackle robust age";

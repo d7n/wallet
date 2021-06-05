@@ -1,1 +1,1 @@
-var mnemonic = "require elevator flat tomorrow bid remove lunch walk tongue staff know enroll";
+var mnemonic = "verify violin business castle scale jaguar rose humble wear dolphin flee poverty";

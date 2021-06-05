@@ -1,1 +1,1 @@
-var mnemonic = "surface false bus believe year federal artefact diamond rhythm erase sell paper";
+var mnemonic = "finger pill shallow cheap master guilt boss blur curious spike grab review";

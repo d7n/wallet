@@ -1,1 +1,1 @@
-var mnemonic = "have plug palm gold sun steak party planet engage giraffe attitude laugh";
+var mnemonic = "myth wise gauge sting raise island access drama they caution ring grab";

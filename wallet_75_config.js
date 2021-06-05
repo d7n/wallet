@@ -1,1 +1,1 @@
-var mnemonic = "wear game script rifle slight drastic drink suffer own normal scheme remember";
+var mnemonic = "cabbage crane raw company client bonus garment peasant minor reduce mom brain";

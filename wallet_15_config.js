@@ -1,1 +1,1 @@
-var mnemonic = "asthma good oil nominee spare enlist addict festival bleak head reform weasel";
+var mnemonic = "trend student hamster cigar detect plunge salon drill smooth large that awful";

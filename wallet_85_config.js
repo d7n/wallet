@@ -1,1 +1,1 @@
-var mnemonic = "resist roast draw husband glove ghost shield stand coral flavor labor drastic";
+var mnemonic = "foster dirt cancel acid flash case then logic burden slot bag tide";

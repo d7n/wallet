@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sound bargain shoe either opinion acquire woman pioneer faith rescue smart";
+var mnemonic = "ask school truth trash subject blur kiwi return example frame shrug love";

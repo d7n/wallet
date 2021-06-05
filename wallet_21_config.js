@@ -1,1 +1,1 @@
-var mnemonic = "smart trip judge mistake weapon aisle father glove keep lawn spy outside";
+var mnemonic = "plate hire dry spoon excess penalty table zone memory multiply twenty sign";

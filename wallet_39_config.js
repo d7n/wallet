@@ -1,1 +1,1 @@
-var mnemonic = "universe pyramid toss man dial amused elbow clog decide couple elevator moral";
+var mnemonic = "thunder limb express eternal bone balcony stomach swamp laugh guitar used canoe";

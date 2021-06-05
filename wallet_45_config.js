@@ -1,1 +1,1 @@
-var mnemonic = "opinion travel reflect pretty mean detail wave wink bless denial caution fish";
+var mnemonic = "machine february morning they rack economy orbit grab someone mirror ankle forget";

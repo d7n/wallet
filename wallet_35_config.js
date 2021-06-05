@@ -1,1 +1,1 @@
-var mnemonic = "defy hill metal lumber brick opinion return train chase twin timber town";
+var mnemonic = "gadget garage exclude dune verb present damp planet elephant alpha labor solar";
