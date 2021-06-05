@@ -1,1 +1,1 @@
-var mnemonic = "daring runway bar ride pupil tenant hamster grab catalog ignore senior ticket";
+var mnemonic = "symbol demise toast friend fork normal fox shield skill fever raise chaos";

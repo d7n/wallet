@@ -1,1 +1,1 @@
-var mnemonic = "sign picnic novel police green alcohol odor direct logic blouse wave depend";
+var mnemonic = "live strategy offer error radio thing useful area peace mercy fabric liar";

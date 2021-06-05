@@ -1,1 +1,1 @@
-var mnemonic = "today rubber mix toddler attitude tomato omit blush silver jewel return trial";
+var mnemonic = "remain twenty oven spirit sell traffic dial parade actual cover setup entry";

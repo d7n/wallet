@@ -1,1 +1,1 @@
-var mnemonic = "sun gate list bamboo able rough solve mention general together pupil milk";
+var mnemonic = "like month recipe hub about riot book abandon beauty admit measure pair";

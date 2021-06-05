@@ -1,1 +1,1 @@
-var mnemonic = "kingdom detail trim rail joke animal chalk arctic space jazz beauty kangaroo";
+var mnemonic = "trick damage gain come pioneer claw range initial account dinosaur knife finger";

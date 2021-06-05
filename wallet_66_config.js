@@ -1,1 +1,1 @@
-var mnemonic = "leave stock renew material smart finger text museum chalk affair width imitate";
+var mnemonic = "cook mango rally birth feed now glimpse muffin dice bracket million until";

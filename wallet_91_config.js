@@ -1,1 +1,1 @@
-var mnemonic = "transfer service link scissors flip baby solid duck session breeze easily faculty";
+var mnemonic = "donkey soon million edit person tonight pause disorder domain chair roast loud";

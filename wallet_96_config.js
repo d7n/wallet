@@ -1,1 +1,1 @@
-var mnemonic = "wheel ahead actual angry any afford symptom hundred subject twice unveil salon";
+var mnemonic = "wave tooth review magic update kind limb process alone walk fancy pepper";

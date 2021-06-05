@@ -1,1 +1,1 @@
-var mnemonic = "furnace feel promote box fade more orange brass coffee drift aspect close";
+var mnemonic = "choice live alcohol post grow boost hero day lonely setup siege fold";

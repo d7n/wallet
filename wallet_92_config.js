@@ -1,1 +1,1 @@
-var mnemonic = "forget stereo enemy have flag family ginger funny relief huge cradle drastic";
+var mnemonic = "remove armor upon swim visual decade sustain never system decide dumb picture";

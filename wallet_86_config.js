@@ -1,1 +1,1 @@
-var mnemonic = "syrup mystery wise language vanish race husband brother retire certain sauce drink";
+var mnemonic = "dash assume vendor into spend blanket home journey coconut pulp art arena";

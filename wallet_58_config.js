@@ -1,1 +1,1 @@
-var mnemonic = "snap dish monster matrix render pelican boil winter draw disagree tone dumb";
+var mnemonic = "swap abandon tip purchase grain month jump accident humor prosper middle all";

@@ -1,1 +1,1 @@
-var mnemonic = "pill loop next together tiny clog sniff strategy wash grow conduct model";
+var mnemonic = "mirror knife oblige fade mother issue toddler improve primary awake best fetch";

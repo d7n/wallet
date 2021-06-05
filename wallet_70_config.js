@@ -1,1 +1,1 @@
-var mnemonic = "adult express fitness hockey gadget window mother farm phrase clutch helmet suspect";
+var mnemonic = "jaguar helmet blast naive insect pupil abandon success year deposit height quarter";

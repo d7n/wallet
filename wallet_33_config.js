@@ -1,1 +1,1 @@
-var mnemonic = "horror mechanic monster happy sentence today empty false exit glass favorite key";
+var mnemonic = "stock ladder mad swing hold corn eagle tennis region trumpet decade dose";

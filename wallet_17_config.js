@@ -1,1 +1,1 @@
-var mnemonic = "grief shine charge brown once winner quarter mystery right proud season winner";
+var mnemonic = "mechanic cool same vicious dog floor shock avoid lake fashion end slot";

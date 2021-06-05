@@ -1,1 +1,1 @@
-var mnemonic = "sniff woman couch radio online pizza wild pottery ethics discover this doll";
+var mnemonic = "such option game space mobile ranch recipe kangaroo total slender day pool";

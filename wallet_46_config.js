@@ -1,1 +1,1 @@
-var mnemonic = "possible bid property stove one garbage away game mountain zero brick cargo";
+var mnemonic = "paddle crystal upper oyster agree choice page nest share vibrant kitchen broccoli";

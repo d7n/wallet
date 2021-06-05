@@ -1,1 +1,1 @@
-var mnemonic = "pact mention ahead stage rib submit win door escape bag vote mesh";
+var mnemonic = "shadow shove suggest unusual tomato opera cheese distance visit situate release monkey";

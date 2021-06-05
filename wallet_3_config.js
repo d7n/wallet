@@ -1,1 +1,1 @@
-var mnemonic = "target soldier stay mistake that edge dry lamp wish divorce strike blur";
+var mnemonic = "smoke prepare poverty venue dash abandon allow attract marble universe foil shine";

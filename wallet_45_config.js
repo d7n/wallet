@@ -1,1 +1,1 @@
-var mnemonic = "beef use explain chimney adult such hill cook tube salmon bird lucky";
+var mnemonic = "rookie place motor action own define endless save gloom history ankle virtual";

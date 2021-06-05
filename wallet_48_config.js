@@ -1,1 +1,1 @@
-var mnemonic = "clip elevator memory sketch rain enforce neither match expose lobster heavy stage";
+var mnemonic = "message famous wrap insane consider dignity round field lawsuit alone detect cream";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange town ozone claim boil plate old inhale state tortoise clog nest";
+var mnemonic = "urge fiscal satisfy face dove width demand moral quote cotton phrase transfer";

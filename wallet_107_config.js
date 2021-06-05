@@ -1,1 +1,1 @@
-var mnemonic = "great message slot immune prison abstract solution year boat list caution absent";
+var mnemonic = "survey various flip modify destroy onion sure blush infant toilet horn mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "cake snack world issue charge unusual zoo surface pair popular canvas exotic";
+var mnemonic = "vacuum shove cactus govern pear poverty insane debate danger under reduce priority";

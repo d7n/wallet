@@ -1,1 +1,1 @@
-var mnemonic = "game rule gold miracle choose public gym artwork unit fluid client concert";
+var mnemonic = "find rent fog envelope useless fatal battle menu motor lens front please";

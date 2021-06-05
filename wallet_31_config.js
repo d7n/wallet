@@ -1,1 +1,1 @@
-var mnemonic = "power sword wet evil earth eagle extend silk toilet symbol utility oyster";
+var mnemonic = "addict mask recipe camera payment negative north mechanic dust notable lounge praise";

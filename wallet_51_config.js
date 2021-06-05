@@ -1,1 +1,1 @@
-var mnemonic = "arm satoshi theory blur regular river assault such faith shadow remove option";
+var mnemonic = "feature radar apple tooth junior charge diagram mandate consider toast tennis merge";

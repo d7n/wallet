@@ -1,1 +1,1 @@
-var mnemonic = "pool nation barely aim argue sun rookie first tag grid cube oven";
+var mnemonic = "sadness allow muffin novel slow now start spy number tent grab draft";

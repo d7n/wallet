@@ -1,1 +1,1 @@
-var mnemonic = "century radar cluster electric name script conduct ball double nature uncle glory";
+var mnemonic = "height offer ring faint salt square firm horn tattoo brush credit light";

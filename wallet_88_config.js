@@ -1,1 +1,1 @@
-var mnemonic = "step claw glad solve employ glad bread paper display tissue bullet drip";
+var mnemonic = "avocado buyer charge jewel awake frog comic injury claw produce income skill";

@@ -1,1 +1,1 @@
-var mnemonic = "snow sphere imitate ridge receive film add faculty poverty raise correct elite";
+var mnemonic = "monkey anger skate drill raccoon pottery bench matrix shock vehicle stable foot";

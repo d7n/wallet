@@ -1,1 +1,1 @@
-var mnemonic = "seed short gate enhance diesel crucial vote adult dial hub measure ketchup";
+var mnemonic = "carbon file major blame famous portion insane endless small job east below";

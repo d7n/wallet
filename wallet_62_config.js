@@ -1,1 +1,1 @@
-var mnemonic = "fresh material truth debris begin page immense flag pitch now snack junk";
+var mnemonic = "bike stock useless typical rely apart wagon federal captain mercy cheese anger";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom sing describe volcano old slam cherry harbor baby vibrant funny stove";
+var mnemonic = "bomb board pledge trouble trust scheme snack decade material mom soap wheel";

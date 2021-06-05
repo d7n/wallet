@@ -1,1 +1,1 @@
-var mnemonic = "earn comfort source isolate gun into always border become roof aunt illegal";
+var mnemonic = "issue deal belt magic gallery tree canyon math glide dumb bullet wood";

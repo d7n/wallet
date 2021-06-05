@@ -1,1 +1,1 @@
-var mnemonic = "match resource give art insane file summer punch rate prepare size radar";
+var mnemonic = "measure bottom inflict art rescue width family six fresh mail tiger blur";

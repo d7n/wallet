@@ -1,1 +1,1 @@
-var mnemonic = "crush involve spend move napkin oven diet card spider urban bridge glory";
+var mnemonic = "curve toward vocal piano mother arm mango burst start need race chef";

@@ -1,1 +1,1 @@
-var mnemonic = "dune alter version wine note bleak benefit other drift dream attitude defense";
+var mnemonic = "cage chunk denial brass crater choose sunny merit carry steak velvet tilt";

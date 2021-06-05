@@ -1,1 +1,1 @@
-var mnemonic = "venture lemon jewel pole lesson eyebrow oil deputy voice wet truck people";
+var mnemonic = "earn seed bus lab any talk sweet melt vague wash coral junior";

@@ -1,1 +1,1 @@
-var mnemonic = "south sun story wink attract much during pyramid dentist must mushroom corn";
+var mnemonic = "love account cart security hammer void elder pave nephew repair bone jelly";

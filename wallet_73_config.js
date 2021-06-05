@@ -1,1 +1,1 @@
-var mnemonic = "crater provide enter brick sibling width capable wild practice strong type news";
+var mnemonic = "bunker female network riot lady crisp mind blame plate team ginger weird";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid order charge forest employ sail family spring advice youth dove bomb";
+var mnemonic = "reduce dish vintage captain immense hobby wagon false patient burger inmate spray";

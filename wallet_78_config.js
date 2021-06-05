@@ -1,1 +1,1 @@
-var mnemonic = "left onion violin laugh rack hub shaft describe enrich banner test scrub";
+var mnemonic = "gasp fragile fancy raccoon bread minute pave beauty dawn kangaroo trial reward";

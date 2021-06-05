@@ -1,1 +1,1 @@
-var mnemonic = "else win fringe glass crack brave coin deny anger dragon scrap intact";
+var mnemonic = "shoot usual once clip dismiss wedding confirm success giraffe chapter fruit shock";

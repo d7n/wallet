@@ -1,1 +1,1 @@
-var mnemonic = "canal artist often panel chalk rug neglect february purse ask roof announce";
+var mnemonic = "zoo rocket giggle arrow across follow glass hurt office country climb caution";

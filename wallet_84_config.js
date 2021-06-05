@@ -1,1 +1,1 @@
-var mnemonic = "submit pattern tongue social today snake margin mercy matrix change green gadget";
+var mnemonic = "fitness hour build health word confirm shed orange ticket afford debate crater";

@@ -1,1 +1,1 @@
-var mnemonic = "slice anger bubble basket seat arrange scrub verify cement twist lake bind";
+var mnemonic = "broccoli seat elegant window endorse aisle basket success taste myself brisk hard";

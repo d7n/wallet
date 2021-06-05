@@ -1,1 +1,1 @@
-var mnemonic = "indoor join gym shove easily opinion cake lemon sheriff strike medal express";
+var mnemonic = "fix indoor route attack sorry buddy copper pledge crime rice fashion pen";

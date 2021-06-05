@@ -1,1 +1,1 @@
-var mnemonic = "flame toilet uniform arrange orchard north supply market double situate coconut point";
+var mnemonic = "vendor save rescue shrug stadium vessel exhibit erase hawk dove hint emotion";

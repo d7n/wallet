@@ -1,1 +1,1 @@
-var mnemonic = "quantum sorry brief allow access save merit net name keen quote mom";
+var mnemonic = "clinic soldier noodle search special author conduct settle good desk canoe sight";

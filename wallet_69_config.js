@@ -1,1 +1,1 @@
-var mnemonic = "oak ladder impact need delay nominee discover sphere short possible consider syrup";
+var mnemonic = "trick smoke infant genius evidence wheat loud nerve vehicle cigar diagram tragic";

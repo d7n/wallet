@@ -1,1 +1,1 @@
-var mnemonic = "recall weather comic trophy column moral key inject inform sustain crime taste";
+var mnemonic = "dizzy tomorrow can merry skirt ethics input magic ability high rather dove";

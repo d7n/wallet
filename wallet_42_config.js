@@ -1,1 +1,1 @@
-var mnemonic = "buyer pigeon stuff angry drop tilt rebuild current gloom sunny online tree";
+var mnemonic = "rescue embody weekend arch wrestle crucial hurt secret club travel squeeze wedding";

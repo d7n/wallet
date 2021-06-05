@@ -1,1 +1,1 @@
-var mnemonic = "immune topic once liberty define label escape genius aunt smoke phrase float";
+var mnemonic = "act because boy effort ketchup blanket inch sense sunset lawsuit spring teach";

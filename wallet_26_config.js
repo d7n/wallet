@@ -1,1 +1,1 @@
-var mnemonic = "fantasy rule sketch afraid during topic work obey member popular radio diagram";
+var mnemonic = "edge unique spring slice judge about bag aware aim problem joy rotate";

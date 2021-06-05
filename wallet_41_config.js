@@ -1,1 +1,1 @@
-var mnemonic = "during aerobic unit fatal blood bronze enforce bless unfair tiger rule program";
+var mnemonic = "harbor shallow upon below material auction exit disease prize clean sort icon";

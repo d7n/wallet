@@ -1,1 +1,1 @@
-var mnemonic = "wear van smile witness spoil say muscle plunge lady trade this student";
+var mnemonic = "joke way typical invite mystery pottery assume awful race announce initial other";

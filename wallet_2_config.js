@@ -1,1 +1,1 @@
-var mnemonic = "bargain coin useless gasp belt media genius urban infant barrel injury egg";
+var mnemonic = "letter pride cup song cannon nerve render company lobster cousin wear mask";

@@ -1,1 +1,1 @@
-var mnemonic = "swap gesture wild display slim border olive labor ritual renew usage scout";
+var mnemonic = "chase assault tape dutch jar exotic verify spray vicious question coffee float";

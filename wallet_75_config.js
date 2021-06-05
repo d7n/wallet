@@ -1,1 +1,1 @@
-var mnemonic = "auto escape faint blind come avoid leg use kingdom tool plug hurdle";
+var mnemonic = "seven hurry like success smile mystery orient gather drop brisk mechanic project";

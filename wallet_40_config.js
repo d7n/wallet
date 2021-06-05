@@ -1,1 +1,1 @@
-var mnemonic = "soft shoulder mechanic ribbon crater diary muscle custom fee walnut cigar spy";
+var mnemonic = "rich baby pledge scout innocent saddle dawn elevator picture donkey cinnamon surface";

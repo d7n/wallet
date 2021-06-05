@@ -1,1 +1,1 @@
-var mnemonic = "cotton valley what point firm business panther angry gospel shoot forward fantasy";
+var mnemonic = "mule suspect venture flame ship any blood shaft mandate diary permit century";

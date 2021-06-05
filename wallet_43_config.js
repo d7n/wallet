@@ -1,1 +1,1 @@
-var mnemonic = "quick coach require need unit someone captain suit uniform eight release excite";
+var mnemonic = "trap knock aim rug opera finish kangaroo aisle destroy field scheme age";

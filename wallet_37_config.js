@@ -1,1 +1,1 @@
-var mnemonic = "object pole play team olive valve fossil inner hint long swift order";
+var mnemonic = "public cargo amused virus until aspect ancient grocery diamond hope wall weapon";

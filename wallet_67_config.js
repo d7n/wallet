@@ -1,1 +1,1 @@
-var mnemonic = "crunch section prevent case stove inquiry cradle charge smoke hunt claw crucial";
+var mnemonic = "version dutch sunny goddess bless key enforce carpet have price narrow want";

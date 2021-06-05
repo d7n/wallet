@@ -1,1 +1,1 @@
-var mnemonic = "critic siren execute insect fuel sure slight flag normal weapon swap trend";
+var mnemonic = "tower snack symbol horn ten nuclear topple lecture case curve tent leg";

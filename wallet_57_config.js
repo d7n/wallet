@@ -1,1 +1,1 @@
-var mnemonic = "lion mind clean attend common rely business almost grant movie brown innocent";
+var mnemonic = "top obey believe walk myself elevator wall canvas dry shine sunset manual";

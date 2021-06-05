@@ -1,1 +1,1 @@
-var mnemonic = "tube lecture sudden hidden habit cherry reject own raven vibrant camera sense";
+var mnemonic = "custom world calm expose bamboo steel apple boss surprise group ice will";

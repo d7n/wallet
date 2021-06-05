@@ -1,1 +1,1 @@
-var mnemonic = "review diagram alone offer fantasy impulse merge flag sound away record illegal";
+var mnemonic = "switch butter put mom glove age orient situate express glimpse family great";

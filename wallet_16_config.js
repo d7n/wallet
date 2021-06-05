@@ -1,1 +1,1 @@
-var mnemonic = "survey practice couple error wonder foot nation mix agree snake rabbit limit";
+var mnemonic = "dial eagle sample scrap okay level route donor robot alert pelican young";

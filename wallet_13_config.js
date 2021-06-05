@@ -1,1 +1,1 @@
-var mnemonic = "faint taxi palace empty add capable marriage sign type gallery canyon oil";
+var mnemonic = "few zero pioneer bleak faith humble body budget neck million assume penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "father vivid need maple candy peace brown damage glass vote broom account";
+var mnemonic = "asthma negative movie submit animal join lumber bid sock curious street spawn";

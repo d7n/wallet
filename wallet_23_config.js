@@ -1,1 +1,1 @@
-var mnemonic = "soft consider lake coach square auto thrive allow ball foil nature reopen";
+var mnemonic = "neither judge make toss bulk please around educate maple degree auction miracle";

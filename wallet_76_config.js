@@ -1,1 +1,1 @@
-var mnemonic = "owner final farm tail hunt enter push surge wrong cup upon dutch";
+var mnemonic = "stand bike couple high magnet nephew shine convince system cement balance tongue";

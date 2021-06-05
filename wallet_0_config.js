@@ -1,1 +1,1 @@
-var mnemonic = "palace canal rapid frozen pen throw foam innocent day include burst citizen";
+var mnemonic = "loyal demise begin tuition cause fetch grape census fan vehicle rate album";

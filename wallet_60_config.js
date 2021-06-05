@@ -1,1 +1,1 @@
-var mnemonic = "cross ice barrel ball major garage work verify letter addict grit pig";
+var mnemonic = "file current deny exhaust champion abstract spoon win indicate wear mix royal";

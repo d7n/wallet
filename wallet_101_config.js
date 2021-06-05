@@ -1,1 +1,1 @@
-var mnemonic = "idea answer truly claw universe toward edge trumpet agree monitor race express";
+var mnemonic = "table topic adult sound alter airport amount pole afford dirt settle bottom";

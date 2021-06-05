@@ -1,1 +1,1 @@
-var mnemonic = "fog path museum guide lava veteran fence claw truck snap garment sugar";
+var mnemonic = "angry undo kitten suspect track leopard food give sibling excite hello surround";

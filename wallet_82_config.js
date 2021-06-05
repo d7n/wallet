@@ -1,1 +1,1 @@
-var mnemonic = "soldier kiwi truly intact wear audit illegal ocean staff measure employ finger";
+var mnemonic = "lady glove knee there tobacco volume venture shrimp report oyster harsh rice";

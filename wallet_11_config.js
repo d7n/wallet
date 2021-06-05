@@ -1,1 +1,1 @@
-var mnemonic = "seven sick off catalog dignity task strong slot rain involve measure trend";
+var mnemonic = "slot alone arrive song tornado frown slim phone pair right cargo story";

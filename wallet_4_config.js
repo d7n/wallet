@@ -1,1 +1,1 @@
-var mnemonic = "universe dress daughter hard boost lake theme amount size soon anchor ostrich";
+var mnemonic = "fade picture half taste brother noise build ask palm poem need play";

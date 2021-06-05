@@ -1,1 +1,1 @@
-var mnemonic = "gun miracle outside cram sister agent buyer boss response language scrub board";
+var mnemonic = "movie flee myth piano tumble accuse whale verb mansion excess lobster merry";

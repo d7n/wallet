@@ -1,1 +1,1 @@
-var mnemonic = "gesture fire miss trade maid enhance exhibit arrange eye dial banana verify";
+var mnemonic = "rail vital cement grape can burden sick nuclear stomach scare fan already";

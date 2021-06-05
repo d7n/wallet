@@ -1,1 +1,1 @@
-var mnemonic = "buzz bacon coast need slender project else spring penalty jeans diesel biology";
+var mnemonic = "truck canoe library human alley purchase walk fun essay awful kangaroo purity";

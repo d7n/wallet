@@ -1,1 +1,1 @@
-var mnemonic = "muffin link ridge post rubber mushroom prefer join develop daughter bonus kitchen";
+var mnemonic = "father wreck island unhappy intact injury shock trend absent put federal chief";

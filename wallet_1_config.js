@@ -1,1 +1,1 @@
-var mnemonic = "month only park faculty unusual attend video mountain market road turtle insane";
+var mnemonic = "pitch panic mobile extra tape green hunt tourist rigid case bridge trap";

@@ -1,1 +1,1 @@
-var mnemonic = "sure exclude apart grace nephew owner list weapon traffic shock add cause";
+var mnemonic = "wheel opera crater stuff mention couple way saddle lion good then dose";

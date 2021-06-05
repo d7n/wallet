@@ -1,1 +1,1 @@
-var mnemonic = "depth grant gift inflict frozen income resource pigeon satisfy lawn hold scene";
+var mnemonic = "kind ethics first grocery wisdom great zebra scheme trick knock child holiday";
