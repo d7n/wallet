@@ -1,1 +1,1 @@
-var mnemonic = "senior between owner slam gauge jar mean bright save abstract gold despair";
+var mnemonic = "kind rifle cricket shock already innocent chase wonder when device fat immense";

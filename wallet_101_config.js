@@ -1,1 +1,1 @@
-var mnemonic = "disorder eight fashion ability oil flee fat garden issue soon pony pause";
+var mnemonic = "correct swim endorse update debris join myself feature isolate appear mandate picture";

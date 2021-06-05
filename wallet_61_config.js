@@ -1,1 +1,1 @@
-var mnemonic = "improve supreme vacant guilt capable amount high lawn eternal ancient close renew";
+var mnemonic = "crater wreck guilt fruit result spoon boss flash video vanish wrist conduct";

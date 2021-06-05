@@ -1,1 +1,1 @@
-var mnemonic = "employ trash enact violin true engage slow magic deliver liar drama puppy";
+var mnemonic = "very visa honey correct drum range moon flee shuffle bullet sunny jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "issue draft tobacco ketchup road banana genuine tomorrow vendor beyond adapt move";
+var mnemonic = "jungle hour erosion name visual spoon verb judge arctic october fury leaf";

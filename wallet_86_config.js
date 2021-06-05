@@ -1,1 +1,1 @@
-var mnemonic = "guide daughter harvest cook coin rocket pupil dream country chief company click";
+var mnemonic = "letter already doll goose total gesture steak robust pigeon orange leaf dad";

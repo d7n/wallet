@@ -1,1 +1,1 @@
-var mnemonic = "circle cargo merge sleep flash venue spawn vast ivory execute cat jealous";
+var mnemonic = "morning portion pumpkin void million city truth hour change push under hen";

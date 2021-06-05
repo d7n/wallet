@@ -1,1 +1,1 @@
-var mnemonic = "surge latin alpha unknown hero lawsuit tuna brief stone rifle pet broken";
+var mnemonic = "nose damp drift tunnel soldier width dutch sphere camp chat hold trigger";

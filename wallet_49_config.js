@@ -1,1 +1,1 @@
-var mnemonic = "faint shine cash robust advice sample portion morning orchard avocado pledge trade";
+var mnemonic = "chronic depart armor economy purchase scan dog true cover latin balance quiz";

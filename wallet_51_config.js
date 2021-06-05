@@ -1,1 +1,1 @@
-var mnemonic = "quick one have review crystal novel camera capable video purpose ginger clever";
+var mnemonic = "tent raven belt this manage shine mask tennis air lesson suggest strategy";

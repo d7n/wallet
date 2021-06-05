@@ -1,1 +1,1 @@
-var mnemonic = "rally work job salt grow require harvest weather charge wasp core dust";
+var mnemonic = "oval drastic grant truly desk erosion occur front fat income month atom";

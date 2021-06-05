@@ -1,1 +1,1 @@
-var mnemonic = "liberty during garlic chapter peasant skin faith unit kingdom meat close april";
+var mnemonic = "demise mammal race model permit blame hospital voyage axis search diamond slot";

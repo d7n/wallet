@@ -1,1 +1,1 @@
-var mnemonic = "chest submit nurse butter property shadow next nothing skill output harsh body";
+var mnemonic = "pottery parent verify unlock unknown warfare region roof timber clock success spray";

@@ -1,1 +1,1 @@
-var mnemonic = "script result noodle trophy have train equip ghost awkward word swarm hat";
+var mnemonic = "impulse gain civil claim pattern chapter hair vessel reveal sheriff hybrid tissue";

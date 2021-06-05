@@ -1,1 +1,1 @@
-var mnemonic = "visual useful faint reward make soccer assist noble skirt wrap jar fence";
+var mnemonic = "give margin dune leader eager mobile taxi knife have minor frame year";

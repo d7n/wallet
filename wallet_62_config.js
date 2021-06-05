@@ -1,1 +1,1 @@
-var mnemonic = "evil spawn purpose fresh just ask cliff visa enroll valve valid twin";
+var mnemonic = "myth excess run alter little illegal heart display twist aisle dutch flip";

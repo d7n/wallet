@@ -1,1 +1,1 @@
-var mnemonic = "toward phrase best dry cause process move expect absorb lab siren display";
+var mnemonic = "range orange govern now prepare leave fiction identify spell hybrid hope often";

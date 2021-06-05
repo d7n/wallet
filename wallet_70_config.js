@@ -1,1 +1,1 @@
-var mnemonic = "sail crop excite sure member board across endorse hand knee fame text";
+var mnemonic = "valid protect exact diagram left have great approve garden ocean obtain mom";

@@ -1,1 +1,1 @@
-var mnemonic = "say very bomb cash tool crazy sentence detail mountain hundred toss juice";
+var mnemonic = "sphere bubble scatter fashion script peanut road refuse fabric atom journey staff";

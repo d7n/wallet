@@ -1,1 +1,1 @@
-var mnemonic = "agent color proud rack fan wall keep cake hour summer action produce";
+var mnemonic = "settle fluid crew actress jar relief upgrade east envelope fun seed trap";

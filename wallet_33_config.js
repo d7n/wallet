@@ -1,1 +1,1 @@
-var mnemonic = "section imitate runway flag group announce include base trash tag sting narrow";
+var mnemonic = "rabbit erode spin orbit reopen bread wink forget used breeze select test";

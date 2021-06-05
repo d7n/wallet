@@ -1,1 +1,1 @@
-var mnemonic = "mom return image praise razor differ dream desk scrub hood message exile";
+var mnemonic = "inherit gap fox argue stereo disagree parent shop more duck you wood";

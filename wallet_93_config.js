@@ -1,1 +1,1 @@
-var mnemonic = "okay cargo subject science drip hard noodle member alley bridge taste glass";
+var mnemonic = "error bird note dinosaur clip beauty chronic viable front disease leisure disease";

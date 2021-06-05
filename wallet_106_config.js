@@ -1,1 +1,1 @@
-var mnemonic = "twice master lift rapid clinic zero dinner razor course hotel main spirit";
+var mnemonic = "toe length clever april satoshi warm viable drink bronze cotton risk shiver";

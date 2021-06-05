@@ -1,1 +1,1 @@
-var mnemonic = "panic pride toy letter genuine force laugh inmate window input need odor";
+var mnemonic = "payment idea human domain sphere drama cabin same shove music pupil duty";

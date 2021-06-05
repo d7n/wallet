@@ -1,1 +1,1 @@
-var mnemonic = "once glad couch armor flat bottom junk tomato announce lounge drink autumn";
+var mnemonic = "split shrimp ethics topple aisle source donor arrest sunset obvious recipe ginger";

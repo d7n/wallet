@@ -1,1 +1,1 @@
-var mnemonic = "rally foster garlic federal gain pig taxi rule know diary begin seven";
+var mnemonic = "indicate cube prison arch bind garment elephant claw census scene idle song";

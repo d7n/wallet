@@ -1,1 +1,1 @@
-var mnemonic = "ice bitter swear direct afford sniff scrap primary orphan web sister census";
+var mnemonic = "bunker acoustic omit lend term chuckle popular uniform normal mansion protect miss";

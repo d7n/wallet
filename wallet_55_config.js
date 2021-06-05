@@ -1,1 +1,1 @@
-var mnemonic = "ring nephew empty express apology gather bus magnet pair nest cup border";
+var mnemonic = "media defy broken depth jeans solve leaf awful rare pluck return detect";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble abandon alien second measure desert better render volcano photo room primary";
+var mnemonic = "van feel salmon puzzle engine section element fork cruel flag zone flash";

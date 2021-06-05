@@ -1,1 +1,1 @@
-var mnemonic = "apart cash stomach nominee toward tuition remain unveil piece build train syrup";
+var mnemonic = "direct cement injury oblige drum menu upper finger diesel volcano mechanic indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "super talent egg business merge same ice enroll weasel ticket aspect advice";
+var mnemonic = "drop letter round flavor latin fluid sick welcome legend stove key dentist";

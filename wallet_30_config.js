@@ -1,1 +1,1 @@
-var mnemonic = "hammer hedgehog find knock coconut decide crumble update illness bar river person";
+var mnemonic = "actor field excess occur box price flower night risk review spatial guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "credit chuckle link december unfold trumpet board ball when ginger cousin will";
+var mnemonic = "now pill blame logic jaguar recipe butter law vintage panther awkward uncle";

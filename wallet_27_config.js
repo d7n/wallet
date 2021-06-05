@@ -1,1 +1,1 @@
-var mnemonic = "cotton more gate boy enjoy enjoy apart ice prepare beach veteran shadow";
+var mnemonic = "segment achieve stage gloom predict drum life dirt ghost nation drum mountain";

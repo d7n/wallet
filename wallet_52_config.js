@@ -1,1 +1,1 @@
-var mnemonic = "hero chaos security mix task fantasy prevent huge warfare little marble any";
+var mnemonic = "raw oven chief timber present plate better income document tube similar citizen";

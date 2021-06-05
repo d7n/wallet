@@ -1,1 +1,1 @@
-var mnemonic = "rhythm flower peace round cause beyond clay manage bullet public school figure";
+var mnemonic = "eye very green fresh slim total feature check inject boss noodle awful";

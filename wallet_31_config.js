@@ -1,1 +1,1 @@
-var mnemonic = "clerk expire puzzle vessel great tired brief bounce debris tail region dirt";
+var mnemonic = "cake sense mind forest moral uncle wood calm run flee boil fan";

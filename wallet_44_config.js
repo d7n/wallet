@@ -1,1 +1,1 @@
-var mnemonic = "they provide soccer multiply salad gap fever exchange quarter maximum onion inhale";
+var mnemonic = "devote riot forum inmate disagree robot rhythm engage cake lazy pear chunk";

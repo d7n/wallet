@@ -1,1 +1,1 @@
-var mnemonic = "replace pledge win question snack champion high amused strategy before royal sound";
+var mnemonic = "lend hill uniform gadget sister actual alert champion leave topple awkward govern";

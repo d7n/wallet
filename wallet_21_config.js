@@ -1,1 +1,1 @@
-var mnemonic = "trap double calm cram fresh wear leader leisure click pull coyote wrist";
+var mnemonic = "safe member develop crazy wild leader valley market anxiety tired build master";

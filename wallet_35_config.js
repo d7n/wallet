@@ -1,1 +1,1 @@
-var mnemonic = "client curtain pole engage butter civil excite pudding library arrow jazz alien";
+var mnemonic = "term since cruise tape under hollow cradle rabbit nasty jealous now silly";

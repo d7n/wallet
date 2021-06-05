@@ -1,1 +1,1 @@
-var mnemonic = "conduct crash post peace pizza top uncover lamp decade fire vault slot";
+var mnemonic = "skin tonight ship effort before flower deer coach pledge burger rely silver";

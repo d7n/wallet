@@ -1,1 +1,1 @@
-var mnemonic = "artefact cattle bright quality coil supply awful slam then rabbit muffin core";
+var mnemonic = "eight chunk blame retire market toss you trust educate bargain monitor giggle";

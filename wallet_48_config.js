@@ -1,1 +1,1 @@
-var mnemonic = "poet wheel echo edit lend that slogan cube sketch family choice sudden";
+var mnemonic = "wine control twin advance pave danger around observe similar manage script pyramid";

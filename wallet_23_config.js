@@ -1,1 +1,1 @@
-var mnemonic = "double child bacon youth design child kit kiwi found pencil deer soft";
+var mnemonic = "awake exile pelican south mutual taste lesson cup believe rotate pioneer dose";

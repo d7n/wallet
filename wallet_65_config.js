@@ -1,1 +1,1 @@
-var mnemonic = "truck ski survey turtle heavy cart margin subject air island lonely exile";
+var mnemonic = "phone coffee supply modify cage push capable cost evidence about age garbage";

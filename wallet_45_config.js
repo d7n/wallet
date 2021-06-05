@@ -1,1 +1,1 @@
-var mnemonic = "offer tide cannon drift buzz turtle umbrella gift cruise volume anger uncle";
+var mnemonic = "fruit then globe wink uncover fossil expose liar push fun pet repeat";

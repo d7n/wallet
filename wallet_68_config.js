@@ -1,1 +1,1 @@
-var mnemonic = "head depth science lottery demise under parrot gallery provide pistol scissors boss";
+var mnemonic = "shell crush try only garden photo usual lottery catch rally armed baby";

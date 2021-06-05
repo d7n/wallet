@@ -1,1 +1,1 @@
-var mnemonic = "wage derive ladder lazy imitate during chapter puzzle hurry drift foam hamster";
+var mnemonic = "amazing quote affair emerge rate borrow royal fiscal chef orphan horse leg";

@@ -1,1 +1,1 @@
-var mnemonic = "entry carpet rack nerve critic warfare there ozone toward cat olive square";
+var mnemonic = "mad cargo device unaware tourist topic cream border diary various about wrong";

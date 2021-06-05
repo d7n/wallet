@@ -1,1 +1,1 @@
-var mnemonic = "deposit spawn problem battle bargain crowd car elevator three away depth foster";
+var mnemonic = "symptom hour impact document zebra balcony believe toy scene love hockey tide";

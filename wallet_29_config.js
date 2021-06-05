@@ -1,1 +1,1 @@
-var mnemonic = "pass visit thrive document mountain cause talk eternal close light work knee";
+var mnemonic = "recall dream fix indoor fine fall avocado emotion grab total deliver emerge";

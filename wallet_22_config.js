@@ -1,1 +1,1 @@
-var mnemonic = "between unable person february narrow choice wild letter inner drip manual broccoli";
+var mnemonic = "balance repeat cave palm alley grant aware fee knife stage capable subway";

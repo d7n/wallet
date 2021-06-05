@@ -1,1 +1,1 @@
-var mnemonic = "arctic tonight fuel include future debate bulb garbage toy prison conduct limb";
+var mnemonic = "focus travel nuclear such seat learn child print shine code arena emerge";

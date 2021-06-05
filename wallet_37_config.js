@@ -1,1 +1,1 @@
-var mnemonic = "board gasp bus limb atom truly domain crane welcome all pepper tourist";
+var mnemonic = "dog isolate inform tortoise table good hammer diamond stereo goddess emerge expire";

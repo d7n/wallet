@@ -1,1 +1,1 @@
-var mnemonic = "ship rather peanut antique escape awful seed retire shop industry tent outside";
+var mnemonic = "buyer cross blush series regular among festival weekend antique brief include unlock";

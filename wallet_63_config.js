@@ -1,1 +1,1 @@
-var mnemonic = "alter render size around album kick surprise hunt horn apple produce case";
+var mnemonic = "aerobic about extra swim produce illegal view glimpse sign pink wife waste";

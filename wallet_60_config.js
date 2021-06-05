@@ -1,1 +1,1 @@
-var mnemonic = "job olympic profit rule uphold swallow breeze sketch adjust teach print eager";
+var mnemonic = "hello rice antique city unique ridge annual like mask convince rigid stable";

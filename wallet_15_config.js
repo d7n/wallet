@@ -1,1 +1,1 @@
-var mnemonic = "canal nuclear over spray glory swear young problem trip moment ladder caution";
+var mnemonic = "gun bicycle wing negative upon rapid educate razor nice ostrich music reveal";

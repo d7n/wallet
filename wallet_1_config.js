@@ -1,1 +1,1 @@
-var mnemonic = "demand when slam potato hip manual shrimp spice embody delay occur card";
+var mnemonic = "place assume wet usage tent fire property stock wedding cloud switch switch";

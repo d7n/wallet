@@ -1,1 +1,1 @@
-var mnemonic = "hotel silver awkward arrive robust actor can ridge aerobic bird bamboo tray";
+var mnemonic = "myth endorse quantum almost short draw cluster birth inquiry slam earth behind";

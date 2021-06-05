@@ -1,1 +1,1 @@
-var mnemonic = "above remind enter pretty raw high step ostrich record risk avoid emotion";
+var mnemonic = "special endorse eyebrow inject wash exhibit puzzle spell upset mail coral gown";

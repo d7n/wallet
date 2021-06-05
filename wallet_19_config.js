@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cruise pair sadness decorate immune hand together sniff nuclear purse scorpion";
+var mnemonic = "snack fly decrease method atom sight pen image tired together throw choice";

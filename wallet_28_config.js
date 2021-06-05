@@ -1,1 +1,1 @@
-var mnemonic = "galaxy text maze tell arena load arrow more alter govern stairs south";
+var mnemonic = "jewel bean margin phrase faith replace morning usage reform dragon tower thrive";

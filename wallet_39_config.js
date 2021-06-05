@@ -1,1 +1,1 @@
-var mnemonic = "faith traffic clarify crane rookie cargo call correct leg cook cruel supply";
+var mnemonic = "day option increase tissue clarify glue near child female silver spice debate";

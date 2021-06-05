@@ -1,1 +1,1 @@
-var mnemonic = "purpose head cotton buddy album purpose pilot actual wrestle license because atom";
+var mnemonic = "lesson crash boring forum obscure sound flash news sudden brass transfer robot";

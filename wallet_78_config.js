@@ -1,1 +1,1 @@
-var mnemonic = "cargo layer kiwi mother correct blue seek rug gadget antique permit eight";
+var mnemonic = "toast change insane volume easily traffic museum desert such canal average alter";

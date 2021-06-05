@@ -1,1 +1,1 @@
-var mnemonic = "table festival illegal bomb crawl hawk lady decide effort shoe next aspect";
+var mnemonic = "time treat degree foster enhance flower fire chunk face code mountain entire";

@@ -1,1 +1,1 @@
-var mnemonic = "school village amused dune kidney maple that wage enhance escape swap spell";
+var mnemonic = "shell enable remember school garlic strike urban lyrics math gate chicken either";

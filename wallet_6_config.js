@@ -1,1 +1,1 @@
-var mnemonic = "scare above tower anger stairs trash goddess wrap dismiss mushroom nuclear shop";
+var mnemonic = "wrong okay envelope wheat lake yard fury month clarify later betray unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "portion safe oven endless cluster shine manage sleep enhance legal blue say";
+var mnemonic = "kit ability oil identify just sustain pledge harvest zero liar action illegal";

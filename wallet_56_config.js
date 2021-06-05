@@ -1,1 +1,1 @@
-var mnemonic = "fossil replace city egg festival giraffe stairs awake tired law game usage";
+var mnemonic = "stadium cargo square valley scorpion knife detail violin pen pitch beach gaze";

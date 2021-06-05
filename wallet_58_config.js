@@ -1,1 +1,1 @@
-var mnemonic = "hole foster split steak report pear layer noodle quick cup walnut cake";
+var mnemonic = "nut dynamic knife napkin fee opinion jungle lottery fall catalog brother agree";

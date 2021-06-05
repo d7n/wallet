@@ -1,1 +1,1 @@
-var mnemonic = "casino close warm want idea bronze parent south act nation quantum hollow";
+var mnemonic = "wait street annual plug federal bean comic stomach equal life season napkin";

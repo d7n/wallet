@@ -1,1 +1,1 @@
-var mnemonic = "feed humble weather cool defense lemon seminar shed hill genuine afford accuse";
+var mnemonic = "faculty embark pair bronze diagram firm world close shoe avocado dice actress";

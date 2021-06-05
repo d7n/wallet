@@ -1,1 +1,1 @@
-var mnemonic = "patrol path nature mobile exact fossil awesome blue hello multiply weapon actor";
+var mnemonic = "foster jewel delay chronic chronic upgrade fashion indicate next blur impulse scare";

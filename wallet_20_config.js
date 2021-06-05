@@ -1,1 +1,1 @@
-var mnemonic = "inflict sound tortoise sniff turn blood eight damage limit dish annual cube";
+var mnemonic = "size guilt remember parade lottery bronze bulb curve crystal coyote shed vehicle";

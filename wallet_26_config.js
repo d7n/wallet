@@ -1,1 +1,1 @@
-var mnemonic = "beyond option width pen have visa armed into valley father clip script";
+var mnemonic = "foster term brush inherit must tackle eye habit option obey adapt dumb";

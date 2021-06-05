@@ -1,1 +1,1 @@
-var mnemonic = "item possible answer retreat federal honey bread bike brick panic amused seven";
+var mnemonic = "merge submit year unlock fancy clever together warm reveal pilot devote trumpet";

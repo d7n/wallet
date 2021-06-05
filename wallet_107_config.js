@@ -1,1 +1,1 @@
-var mnemonic = "spoil plastic peanut gown damp buyer company track edge pink lawsuit extra";
+var mnemonic = "begin horn bubble cruel exhibit bench elegant runway early asthma token violin";

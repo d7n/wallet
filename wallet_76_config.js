@@ -1,1 +1,1 @@
-var mnemonic = "demand spray enhance use slogan chase fluid rack earth genius area fox";
+var mnemonic = "sun agent stadium scorpion again hawk deliver gorilla number morning fat neutral";

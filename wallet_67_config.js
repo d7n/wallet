@@ -1,1 +1,1 @@
-var mnemonic = "poet seven peace mention earn borrow guard hello payment woman connect stable";
+var mnemonic = "morning wrist lazy control moon combine relax wing type ceiling skill shed";

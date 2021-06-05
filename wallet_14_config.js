@@ -1,1 +1,1 @@
-var mnemonic = "century file cram poverty step zoo plastic inspire wonder grant fall hen";
+var mnemonic = "group guess regret surround champion orange primary demise jungle school valve infant";

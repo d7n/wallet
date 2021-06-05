@@ -1,1 +1,1 @@
-var mnemonic = "convince tongue error intact lunar orange mom scissors problem have recipe door";
+var mnemonic = "van dice salon cricket scheme decrease pass subway sample aisle job spray";

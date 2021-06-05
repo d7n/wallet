@@ -1,1 +1,1 @@
-var mnemonic = "rural describe carry siren undo thought diagram recall rely helmet surprise zero";
+var mnemonic = "amount keen soul bus portion job fault team liberty kitten weather snack";

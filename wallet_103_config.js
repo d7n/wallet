@@ -1,1 +1,1 @@
-var mnemonic = "decline hat gloom demise loan palace pulp recipe taste margin nurse brain";
+var mnemonic = "silk click punch episode clean hero mention chunk globe any arch club";

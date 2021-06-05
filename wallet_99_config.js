@@ -1,1 +1,1 @@
-var mnemonic = "spoil huge sauce jewel civil explain hint success nut ask obvious sleep";
+var mnemonic = "basket check argue hello alley purse weapon antenna tiny nature kingdom divert";

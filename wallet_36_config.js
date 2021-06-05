@@ -1,1 +1,1 @@
-var mnemonic = "scare giraffe globe fuel antenna bronze wheel firm ask buffalo cage absent";
+var mnemonic = "virus affair away chest picnic fold acid ginger hat elbow easily fringe";

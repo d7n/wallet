@@ -1,1 +1,1 @@
-var mnemonic = "echo client brother comic sea infant rally subject vapor spray similar rally";
+var mnemonic = "immune wish peanut quote jump noodle faith peace piano toss monster lens";

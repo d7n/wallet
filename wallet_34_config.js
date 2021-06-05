@@ -1,1 +1,1 @@
-var mnemonic = "soap bacon produce twice wash lab adjust tuna middle mule nephew hand";
+var mnemonic = "coach turkey wrong wrestle barrel welcome spirit fiber harvest cover lottery piece";

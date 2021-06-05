@@ -1,1 +1,1 @@
-var mnemonic = "love ladder record believe cherry before maximum account series into mammal coffee";
+var mnemonic = "inmate ostrich ankle around comfort deposit torch rent bar bacon hat tuition";

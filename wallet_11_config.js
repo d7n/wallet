@@ -1,1 +1,1 @@
-var mnemonic = "argue bridge jeans smooth light simple nasty horse clarify unable casual urge";
+var mnemonic = "fever angle salt scare solution day bubble saddle margin thank catalog man";
