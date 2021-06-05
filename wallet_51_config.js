@@ -1,1 +1,1 @@
-var mnemonic = "split narrow venue stomach rose ten camera weird hub crew calm little";
+var mnemonic = "oak tuition slush holiday yard exist pyramid infant auto amazing dish car";

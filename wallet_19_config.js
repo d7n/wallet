@@ -1,1 +1,1 @@
-var mnemonic = "news grocery drift raven chair patrol spirit need toast orient master kangaroo";
+var mnemonic = "end thank chat rule zoo pole impulse ceiling dawn borrow learn detect";

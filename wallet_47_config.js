@@ -1,1 +1,1 @@
-var mnemonic = "gown sister float injury divert collect apple episode deal hotel fit uphold";
+var mnemonic = "tragic crash develop armor mandate warrior brass biology dinner cushion year elder";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge drama rug struggle decide fly already jealous moral fatigue carpet trim";
+var mnemonic = "ability meadow result squeeze true frozen worth you only sorry garlic strike";

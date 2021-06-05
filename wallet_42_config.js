@@ -1,1 +1,1 @@
-var mnemonic = "host situate ceiling into destroy kick move walk polar unfold between blush";
+var mnemonic = "smart acquire hobby cram tribe scorpion fence album airport uncle know warfare";

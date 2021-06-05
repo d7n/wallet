@@ -1,1 +1,1 @@
-var mnemonic = "upon attract furnace tool brief horror squeeze throw hockey cereal explain enlist";
+var mnemonic = "kick hawk quality seat vast throw myself furnace fat draft warm garage";

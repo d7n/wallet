@@ -1,1 +1,1 @@
-var mnemonic = "kitten library view shoe oven cook float record gloom save excite fossil";
+var mnemonic = "envelope rich fan reunion escape animal pause ugly avoid foil together giraffe";

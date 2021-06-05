@@ -1,1 +1,1 @@
-var mnemonic = "valley coach leaf gun pull illness hunt happy ivory menu shuffle swap";
+var mnemonic = "autumn notable people copy trouble woman erupt bounce drip light exclude resource";

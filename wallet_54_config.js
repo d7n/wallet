@@ -1,1 +1,1 @@
-var mnemonic = "immense aerobic guitar festival vacuum since worth lava label follow upgrade bullet";
+var mnemonic = "flip shell deer wave today deal copy travel begin next uphold mind";

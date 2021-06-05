@@ -1,1 +1,1 @@
-var mnemonic = "pull hand risk turn october width route spell abstract crop erosion observe";
+var mnemonic = "blanket match insane harvest smoke slot suggest summer extra thank emotion wool";

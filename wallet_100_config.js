@@ -1,1 +1,1 @@
-var mnemonic = "wealth rent world brand dilemma address athlete pink borrow lend output spin";
+var mnemonic = "ocean burden select divert undo old more tide over another ghost flush";

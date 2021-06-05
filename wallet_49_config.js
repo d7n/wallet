@@ -1,1 +1,1 @@
-var mnemonic = "sick swim monitor palm awake shove debate book ski network opera blind";
+var mnemonic = "ramp elbow either punch myth order tired lazy motion lucky forget voice";

@@ -1,1 +1,1 @@
-var mnemonic = "noble work leave later mule you cute they poem jealous tuition summer";
+var mnemonic = "pitch frame own thunder use caught century ethics huge equip aware art";

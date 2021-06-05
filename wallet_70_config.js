@@ -1,1 +1,1 @@
-var mnemonic = "patch canyon jump issue prepare size traffic kiss improve will circle alert";
+var mnemonic = "wrong curtain real humor avocado miss exact capable essence today clever left";

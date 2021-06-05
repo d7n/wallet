@@ -1,1 +1,1 @@
-var mnemonic = "seminar tuna window ripple use lonely fold pink soft stool rotate camp";
+var mnemonic = "rug object best giraffe adult wine rocket track priority improve quality foil";

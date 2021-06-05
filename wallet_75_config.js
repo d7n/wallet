@@ -1,1 +1,1 @@
-var mnemonic = "bounce earth matrix talk educate task ripple salon task series myth garment";
+var mnemonic = "december van rotate chalk stay twenty milk angle syrup grunt maid virus";

@@ -1,1 +1,1 @@
-var mnemonic = "pride monkey melody fame vicious lounge barely earn art scout gallery almost";
+var mnemonic = "illness north vocal chat twin aspect sibling cereal frog answer north walk";

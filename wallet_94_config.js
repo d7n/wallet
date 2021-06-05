@@ -1,1 +1,1 @@
-var mnemonic = "moment maple knee glow rent eternal blind october mirror parent wrestle elephant";
+var mnemonic = "discover sting since cat piano phrase corn school noise stay phrase film";

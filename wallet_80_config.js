@@ -1,1 +1,1 @@
-var mnemonic = "settle typical erupt adult frequent clutch ostrich kidney whale because beauty bulb";
+var mnemonic = "fall pilot honey already royal add toe mask make evidence pyramid clay";

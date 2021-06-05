@@ -1,1 +1,1 @@
-var mnemonic = "blanket mother spread sight scan lake number fence monitor oak bone asthma";
+var mnemonic = "coast tank hold initial brick trim carry wave endorse pupil govern good";

@@ -1,1 +1,1 @@
-var mnemonic = "judge kidney inflict whip casino benefit connect pilot summer like narrow pig";
+var mnemonic = "shrimp law child endless suffer wheat live crater inner afraid funny number";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict simple behind road once blanket clog shy fall super lake during";
+var mnemonic = "ribbon board shiver skull canal bulk galaxy silent marriage rotate cargo army";

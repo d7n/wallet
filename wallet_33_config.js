@@ -1,1 +1,1 @@
-var mnemonic = "hawk brass silk cup custom giraffe like endorse captain pepper afford asthma";
+var mnemonic = "clock yellow symptom lunch hedgehog demise mail polar captain city barrel chicken";

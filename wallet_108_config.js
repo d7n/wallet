@@ -1,1 +1,1 @@
-var mnemonic = "swing pupil follow veteran cement giraffe empty else cushion soda faculty hair";
+var mnemonic = "book drum entry rate slide wreck frequent still range else fiction exile";

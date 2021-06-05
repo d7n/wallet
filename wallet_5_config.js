@@ -1,1 +1,1 @@
-var mnemonic = "envelope adjust gloom hurdle proof winter style affair seminar sleep uniform harsh";
+var mnemonic = "blade twist engine result birth pink lumber poet glance end strike foil";

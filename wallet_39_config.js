@@ -1,1 +1,1 @@
-var mnemonic = "hen fury panda fuel what type pudding when forget gadget remove detect";
+var mnemonic = "ten own blade vocal order treat claw state butter table inner romance";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom few tobacco milk media always tower orbit gown twist knock sand";
+var mnemonic = "card swarm evil budget drill better turn crouch mask anchor wait picnic";

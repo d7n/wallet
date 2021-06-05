@@ -1,1 +1,1 @@
-var mnemonic = "prison crazy define profit inject rabbit dentist flame slogan habit reason scissors";
+var mnemonic = "ill mushroom property catalog swear pear tiny abstract salmon hard genuine empty";

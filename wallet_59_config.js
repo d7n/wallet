@@ -1,1 +1,1 @@
-var mnemonic = "scale outdoor grid quote orient husband menu style ancient wonder cable wink";
+var mnemonic = "proof cricket keen fruit myth eager basic fruit arrow salon original foot";

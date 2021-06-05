@@ -1,1 +1,1 @@
-var mnemonic = "clap version link type verb book they squirrel describe length tortoise music";
+var mnemonic = "gravity swarm farm grit today hand impulse inherit scare acid conduct inquiry";

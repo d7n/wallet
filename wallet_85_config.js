@@ -1,1 +1,1 @@
-var mnemonic = "print leave dream swift pattern abstract best settle miracle blanket cluster shaft";
+var mnemonic = "mountain side long sorry reduce easy pitch lock chapter myth spawn endless";

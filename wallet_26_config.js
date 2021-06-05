@@ -1,1 +1,1 @@
-var mnemonic = "pulp deal fine merge crack dice galaxy story horn eagle sunny glimpse";
+var mnemonic = "round position steel burden left liquid update dog undo race useless write";

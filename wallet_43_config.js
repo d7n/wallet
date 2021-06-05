@@ -1,1 +1,1 @@
-var mnemonic = "identify brother cement whip actress weekend ladder slender sail salute hobby rabbit";
+var mnemonic = "six column region enforce wet divert zero soda latin inform glad library";

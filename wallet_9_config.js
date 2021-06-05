@@ -1,1 +1,1 @@
-var mnemonic = "dumb ranch garbage together trick involve audit nephew orchard crumble rapid image";
+var mnemonic = "stage stand wonder captain rabbit luggage voice kingdom deal surface hint end";

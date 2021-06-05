@@ -1,1 +1,1 @@
-var mnemonic = "shock tell coral aware neck damage pulp escape floor armor dose notable";
+var mnemonic = "jealous card equip blast naive route speed honey diesel polar army yard";

@@ -1,1 +1,1 @@
-var mnemonic = "chase comic twice misery laundry pause distance couch battle tray torch beauty";
+var mnemonic = "skill feed crisp rule undo another bird abandon thumb abandon chicken romance";

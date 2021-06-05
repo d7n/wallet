@@ -1,1 +1,1 @@
-var mnemonic = "anxiety omit never cushion flat cigar brush orphan spare oval card ripple";
+var mnemonic = "deer pledge rally wool express coach lock legend often eternal fall hobby";

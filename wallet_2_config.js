@@ -1,1 +1,1 @@
-var mnemonic = "breeze used salute arrange hidden also cash disorder afford ketchup atom treat";
+var mnemonic = "use during peace slam rich bacon surround olive zone mixed normal analyst";

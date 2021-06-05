@@ -1,1 +1,1 @@
-var mnemonic = "wine artwork question jeans domain volcano beauty bid nut local split fox";
+var mnemonic = "atom wine release music rare admit acid jealous cereal chimney evoke describe";

@@ -1,1 +1,1 @@
-var mnemonic = "fan fabric zero curve winter little skirt mean project tuna denial mail";
+var mnemonic = "resist door accident eight galaxy model cry omit level web maze slogan";

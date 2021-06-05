@@ -1,1 +1,1 @@
-var mnemonic = "pen decide access snap club enroll sound sail denial impose poverty sell";
+var mnemonic = "warm dynamic element bubble return venture vacant devote beyond minor jewel fatigue";

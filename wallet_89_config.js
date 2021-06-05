@@ -1,1 +1,1 @@
-var mnemonic = "glory armed setup fame absurd scissors possible satoshi fringe merit pretty give";
+var mnemonic = "pattern comfort airport betray cram decline afraid zone other deputy label credit";

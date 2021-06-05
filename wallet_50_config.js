@@ -1,1 +1,1 @@
-var mnemonic = "option cash wrap jaguar fox concert damp expect decorate bounce cruel wealth";
+var mnemonic = "praise ice predict unique syrup analyst easily inhale street table utility evoke";

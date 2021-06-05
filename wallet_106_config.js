@@ -1,1 +1,1 @@
-var mnemonic = "tongue mirror balcony just help iron kitten tortoise leisure bicycle skull wrist";
+var mnemonic = "angry father avocado curious trouble key topple rent trade penalty eager peasant";

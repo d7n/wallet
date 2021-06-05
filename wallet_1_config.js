@@ -1,1 +1,1 @@
-var mnemonic = "metal impulse soon review crew monster ill clarify holiday hammer tower hunt";
+var mnemonic = "help width prefer tribe fox forward fence label twin apple explain drum";

@@ -1,1 +1,1 @@
-var mnemonic = "system wrap fork reward impose extend dumb need silk law loud material";
+var mnemonic = "critic nose cruise observe employ inch toddler stock table income cream fly";

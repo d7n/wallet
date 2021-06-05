@@ -1,1 +1,1 @@
-var mnemonic = "paddle exist print tuna empty twenty lucky symbol witness limb april winter";
+var mnemonic = "borrow drill afraid liberty thank congress next abuse differ boat test budget";

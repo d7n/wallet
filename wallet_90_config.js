@@ -1,1 +1,1 @@
-var mnemonic = "join elegant canal oven life giraffe awkward grass swing scissors all swarm";
+var mnemonic = "panther crane stumble extend burger father flock spike collect lounge cook wash";

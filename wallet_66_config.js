@@ -1,1 +1,1 @@
-var mnemonic = "interest embody excess habit ability enrich task subject bring object input zoo";
+var mnemonic = "stem increase obtain immune lava curve agent liberty dwarf angry curve fiscal";

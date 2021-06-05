@@ -1,1 +1,1 @@
-var mnemonic = "boss metal embark law scene ask shiver forest little action arena put";
+var mnemonic = "connect school radio century faith patient curtain trigger elite wedding giggle paper";

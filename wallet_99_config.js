@@ -1,1 +1,1 @@
-var mnemonic = "tip title soft spot drum multiply brick mandate donor erupt wear like";
+var mnemonic = "crystal original eyebrow lazy chunk only mixture hurry faint absurd hurt olympic";

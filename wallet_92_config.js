@@ -1,1 +1,1 @@
-var mnemonic = "swim supreme collect dose swamp seat crazy chapter bird rookie initial napkin";
+var mnemonic = "payment mansion blast damage keen slab echo leaf cinnamon angry high tongue";

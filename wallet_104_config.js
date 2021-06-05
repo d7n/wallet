@@ -1,1 +1,1 @@
-var mnemonic = "angry recycle balcony below shallow top upset relief trade puzzle nose obtain";
+var mnemonic = "planet manual toss chair lady multiply offer aunt drastic hour bench van";

@@ -1,1 +1,1 @@
-var mnemonic = "census cash leg eight scale grant glove ritual warrior anger bird husband";
+var mnemonic = "creek hundred total supply useless main desk cup special consider lesson strike";

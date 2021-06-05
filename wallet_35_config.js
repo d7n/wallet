@@ -1,1 +1,1 @@
-var mnemonic = "hundred mansion van buddy hint crash tiger young announce during weekend install";
+var mnemonic = "mutual chief humble extend keep gloom put adult arrive rebuild deposit own";

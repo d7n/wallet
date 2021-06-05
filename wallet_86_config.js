@@ -1,1 +1,1 @@
-var mnemonic = "skill cushion box victory tower surface scissors fork vault path climb main";
+var mnemonic = "task enough favorite cupboard gesture length wise route lizard prefer hour combine";

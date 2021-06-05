@@ -1,1 +1,1 @@
-var mnemonic = "coyote fabric wheat cactus bonus leave split castle waste notice secret erase";
+var mnemonic = "mad south royal involve age crash pave magic ill treat chase learn";

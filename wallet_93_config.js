@@ -1,1 +1,1 @@
-var mnemonic = "electric hockey duck skate dutch shadow patient sustain unusual equip glass found";
+var mnemonic = "bicycle forum govern fun hip place glide sight alert galaxy ecology expose";

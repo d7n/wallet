@@ -1,1 +1,1 @@
-var mnemonic = "ugly fluid kidney egg response fever account next grain early useless siren";
+var mnemonic = "machine jacket program master few panel layer jar guide height close used";

@@ -1,1 +1,1 @@
-var mnemonic = "base snack unlock skate purity circle call spread kidney word dress actor";
+var mnemonic = "faint hire onion boy riot egg magic ladder occur achieve believe achieve";

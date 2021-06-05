@@ -1,1 +1,1 @@
-var mnemonic = "brain rely second gold robust blast brand obvious arrange valid obtain require";
+var mnemonic = "twenty dragon grocery girl patient sea actual vacant sun insane teach rural";

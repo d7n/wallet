@@ -1,1 +1,1 @@
-var mnemonic = "plunge trap mountain shove appear trial become icon burden dentist usage double";
+var mnemonic = "canoe crisp situate cereal aunt bachelor gain obvious settle lend meat noodle";

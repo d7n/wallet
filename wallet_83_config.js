@@ -1,1 +1,1 @@
-var mnemonic = "region gallery inner warrior arrow rough tattoo acquire bless almost wire master";
+var mnemonic = "rough neck zero space wedding road demise else afford rubber resemble exile";

@@ -1,1 +1,1 @@
-var mnemonic = "scene romance crystal federal country source among jacket era spike need chunk";
+var mnemonic = "parade theory coin quality moon act noodle fee tumble dentist suit target";

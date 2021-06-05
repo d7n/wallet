@@ -1,1 +1,1 @@
-var mnemonic = "team bomb receive great apple prize cross warrior gloom rotate improve public";
+var mnemonic = "biology pledge flat merry village mammal pilot must trip harsh setup warrior";

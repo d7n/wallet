@@ -1,1 +1,1 @@
-var mnemonic = "peasant mad detail pigeon sorry coconut process extra trial frost baby piece";
+var mnemonic = "gap imitate cancel absurd asthma slab settle infant timber elder tell put";

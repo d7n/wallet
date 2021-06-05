@@ -1,1 +1,1 @@
-var mnemonic = "element nuclear admit enrich argue claw donkey vacuum lawn swamp lucky orient";
+var mnemonic = "know cream express nose travel pluck park elegant feature drift blanket patient";

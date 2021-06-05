@@ -1,1 +1,1 @@
-var mnemonic = "meadow blast rural excuse blood pitch network disorder crime protect virus hint";
+var mnemonic = "lock monitor pair between able agree duck omit mercy lizard margin donate";

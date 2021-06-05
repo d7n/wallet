@@ -1,1 +1,1 @@
-var mnemonic = "that involve river fitness caution fluid remain wheel spoil frog disorder genre";
+var mnemonic = "super mail naive net race cricket soap exhibit skate process sunny winner";

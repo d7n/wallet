@@ -1,1 +1,1 @@
-var mnemonic = "sad south measure member fine witness prize elephant craft similar news picture";
+var mnemonic = "dragon boy caught wise wrong lens choice gym cheap enjoy crew suggest";

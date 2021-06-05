@@ -1,1 +1,1 @@
-var mnemonic = "power safe genuine position divert much sword unlock collect clerk tomato engine";
+var mnemonic = "birth tattoo never enter advice orbit mosquito trend require vast knee guilt";

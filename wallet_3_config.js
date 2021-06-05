@@ -1,1 +1,1 @@
-var mnemonic = "turn elegant cannon favorite ready donor before write inherit shoulder whisper heavy";
+var mnemonic = "rice stuff saddle yellow lesson exhibit obvious thing wrong slush space modify";

@@ -1,1 +1,1 @@
-var mnemonic = "solar unknown near expose broom rude fitness fall infant ability science average";
+var mnemonic = "cruel fringe until uniform reveal misery into aerobic vessel cool desert gift";

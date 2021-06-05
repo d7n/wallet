@@ -1,1 +1,1 @@
-var mnemonic = "position boss exit quantum mansion belt relax pact off sunny despair toddler";
+var mnemonic = "leaf bronze advice unique history decorate dentist crawl twist alley height ranch";

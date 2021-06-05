@@ -1,1 +1,1 @@
-var mnemonic = "sick virus margin knife final crazy tiny gossip session enact prefer cube";
+var mnemonic = "vocal melt change umbrella grow remain fix outdoor tuna bread famous wheel";

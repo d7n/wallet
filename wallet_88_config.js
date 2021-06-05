@@ -1,1 +1,1 @@
-var mnemonic = "wish smart effort tunnel divorce team off risk other know save fix";
+var mnemonic = "blind term excuse glimpse twenty where connect social quiz chest table cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "aware spy adult budget cheap able benefit salt betray fox weasel chair";
+var mnemonic = "situate action enter asthma oil rather super fade aerobic follow fiber venue";

@@ -1,1 +1,1 @@
-var mnemonic = "balance broccoli pistol beyond naive health canoe shop grow stumble equip differ";
+var mnemonic = "dolphin labor phone element summer drink parrot noise scorpion tree pretty mechanic";

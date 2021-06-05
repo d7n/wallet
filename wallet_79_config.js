@@ -1,1 +1,1 @@
-var mnemonic = "nuclear shock insane smoke stool gasp wet wire gorilla expose blade bean";
+var mnemonic = "snake student boy palm bonus rhythm palace battle lend twice edit benefit";

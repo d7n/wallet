@@ -1,1 +1,1 @@
-var mnemonic = "coin umbrella minimum hybrid turn mansion session motion spy increase hedgehog lobster";
+var mnemonic = "glare debate rich shove news letter sad guitar muffin destroy helmet goddess";

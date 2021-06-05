@@ -1,1 +1,1 @@
-var mnemonic = "beyond tilt afford chat announce relax real fix jealous neutral news alpha";
+var mnemonic = "real calm wide quote coffee portion find flower embark immune point slam";

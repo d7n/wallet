@@ -1,1 +1,1 @@
-var mnemonic = "butter control donkey juice inspire avoid toss imitate rain cute scout custom";
+var mnemonic = "slogan taste toward public recipe fury faint sad enough comfort business cross";

@@ -1,1 +1,1 @@
-var mnemonic = "mention nest wet faint true doll behave impulse fault short tooth become";
+var mnemonic = "resource mercy tiger agent lottery august upper evolve deny spray damage song";

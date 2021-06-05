@@ -1,1 +1,1 @@
-var mnemonic = "message little peace tonight magnet odor fiber gaze cactus vicious eye project";
+var mnemonic = "goddess museum boost opera price army result task vendor shoe climb lumber";

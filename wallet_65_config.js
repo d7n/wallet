@@ -1,1 +1,1 @@
-var mnemonic = "praise funny subject dumb once gospel hospital loyal balance boost bench used";
+var mnemonic = "lift midnight web travel seven unhappy tobacco cotton poem effort rapid mesh";

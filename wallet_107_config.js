@@ -1,1 +1,1 @@
-var mnemonic = "balance clap time rich twelve exist dose fun talent fox oval decade";
+var mnemonic = "dose nephew case cruise mesh pen powder analyst document lab olympic engage";

@@ -1,1 +1,1 @@
-var mnemonic = "source cheap clay gorilla someone program verify act hockey stereo rich express";
+var mnemonic = "mountain enable isolate confirm nasty razor sense blade helmet teach rhythm zone";

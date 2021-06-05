@@ -1,1 +1,1 @@
-var mnemonic = "clarify cover junior cruise purchase shadow beauty phrase defense predict refuse survey";
+var mnemonic = "woman churn soft hazard topic daring oxygen drink theory air humor hole";

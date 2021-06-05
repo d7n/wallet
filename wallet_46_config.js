@@ -1,1 +1,1 @@
-var mnemonic = "cliff load glass blade novel service shed argue destroy antique crack pistol";
+var mnemonic = "witness phrase empower sphere fault beauty blanket obscure wheel language announce bird";

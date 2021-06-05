@@ -1,1 +1,1 @@
-var mnemonic = "reflect juice sample amateur exit slender tone orient upon machine panther custom";
+var mnemonic = "innocent warrior morning find code tortoise consider physical ensure copper ladder number";

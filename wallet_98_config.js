@@ -1,1 +1,1 @@
-var mnemonic = "give alter custom goat quantum toast bargain live include glow scrub dove";
+var mnemonic = "toast frequent seat bitter midnight toddler mouse coral bachelor relax vote grain";

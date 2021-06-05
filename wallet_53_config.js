@@ -1,1 +1,1 @@
-var mnemonic = "cotton loud check salute salmon daring label nuclear metal volcano glass result";
+var mnemonic = "ahead caught laundry govern heart employ hawk payment member main subject make";

@@ -1,1 +1,1 @@
-var mnemonic = "small wide scatter slight common inner able awake ordinary stomach aware minute";
+var mnemonic = "evil dawn column broccoli seat domain sing coil oyster napkin fame girl";

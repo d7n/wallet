@@ -1,1 +1,1 @@
-var mnemonic = "race rescue hour cheap okay ship sponsor simple nominee lunch lawsuit meat";
+var mnemonic = "salon develop lock bike together flush bunker attitude thrive turn wrist place";
