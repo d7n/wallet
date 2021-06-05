@@ -1,1 +1,1 @@
-var mnemonic = "garage hospital champion ball left sugar mansion original attract put rhythm such";
+var mnemonic = "survey winner pig economy legend kit trigger shove cactus flag inquiry rail";

@@ -1,1 +1,1 @@
-var mnemonic = "oval flee notice enable glory arctic person health dish run vital faculty";
+var mnemonic = "wire bright couch slush vast real phrase relax plastic street skirt gather";

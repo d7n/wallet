@@ -1,1 +1,1 @@
-var mnemonic = "answer similar run purpose pink vast tiger tuna attend call palm mutual";
+var mnemonic = "badge spoon candy grain since rally upon split spawn combine edit ivory";

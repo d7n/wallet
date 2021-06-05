@@ -1,1 +1,1 @@
-var mnemonic = "stumble correct air urge once domain sketch smooth ivory favorite slide camp";
+var mnemonic = "tank black envelope angle card only mixed wing plug extend dress wine";

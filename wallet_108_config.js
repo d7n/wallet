@@ -1,1 +1,1 @@
-var mnemonic = "pepper fog cram black economy multiply river security speed stamp source enlist";
+var mnemonic = "secret fit robot lottery vicious candy damage model hollow orient truck gentle";

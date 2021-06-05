@@ -1,1 +1,1 @@
-var mnemonic = "tank early casino ritual eight dune ticket crunch spin good struggle glimpse";
+var mnemonic = "piano range bundle lecture cheese blood trade child air flag spread battle";

@@ -1,1 +1,1 @@
-var mnemonic = "improve spatial will idea lecture visual shadow web tape nasty among album";
+var mnemonic = "balcony clean grocery rail say spray winner tilt mule unique frog husband";

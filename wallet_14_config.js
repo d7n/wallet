@@ -1,1 +1,1 @@
-var mnemonic = "social vault warfare only direct ill actress three kite walnut dignity try";
+var mnemonic = "strategy metal next ridge world episode magnet real spice work lucky diamond";

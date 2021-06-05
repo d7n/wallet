@@ -1,1 +1,1 @@
-var mnemonic = "proof write buffalo dizzy deposit sniff salad feel enough invite click auto";
+var mnemonic = "crush lawn unable small buffalo remember solid knife wave hero arch kangaroo";

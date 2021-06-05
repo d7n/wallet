@@ -1,1 +1,1 @@
-var mnemonic = "cook measure deer feed regular cart game silent rug save still spatial";
+var mnemonic = "wild manual ugly memory erupt trash inhale base endorse envelope pause country";

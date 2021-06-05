@@ -1,1 +1,1 @@
-var mnemonic = "race pattern average main cigar tooth modify accuse river rack timber fluid";
+var mnemonic = "priority scout above define history practice certain follow online secret lucky oblige";

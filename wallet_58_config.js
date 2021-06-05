@@ -1,1 +1,1 @@
-var mnemonic = "vault maple permit confirm dove cake only teach observe flat tank thank";
+var mnemonic = "trophy anxiety train dream radar liberty ride diamond scissors chapter canyon soul";

@@ -1,1 +1,1 @@
-var mnemonic = "short forum minimum wild one glide salute dumb depth survey used liberty";
+var mnemonic = "foil parade minute feature dumb sight federal move later slide river inflict";

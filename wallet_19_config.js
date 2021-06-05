@@ -1,1 +1,1 @@
-var mnemonic = "equip steel orphan winner neutral build erode window echo kit flag cry";
+var mnemonic = "inmate fall express silver draft exhaust fat equip cattle door paper crouch";

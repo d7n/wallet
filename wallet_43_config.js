@@ -1,1 +1,1 @@
-var mnemonic = "gallery sketch food media enhance side donate stock shrimp tube auction hour";
+var mnemonic = "pluck elevator allow inflict poverty enjoy unfair earth like globe very visual";

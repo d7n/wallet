@@ -1,1 +1,1 @@
-var mnemonic = "divorce frost trap client put rocket reveal illness coast trip across pizza";
+var mnemonic = "jeans flower breeze taste jump sick broccoli expire inject oil case hold";

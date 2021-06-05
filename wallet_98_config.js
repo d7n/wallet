@@ -1,1 +1,1 @@
-var mnemonic = "economy ketchup cover answer explain absent onion donate jeans energy file holiday";
+var mnemonic = "stuff behave agree buzz achieve mom gap dynamic blush reward tomato blade";

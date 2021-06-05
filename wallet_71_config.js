@@ -1,1 +1,1 @@
-var mnemonic = "check tragic injury kitten machine laundry potato color turtle type gym apart";
+var mnemonic = "age ozone orchard sentence treat lyrics prison clog grunt absurd guilt swim";

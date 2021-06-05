@@ -1,1 +1,1 @@
-var mnemonic = "layer basket faint father omit option desert cry swim silk attack stem";
+var mnemonic = "inherit honey giraffe flower tongue blur hamster admit unlock push occur abuse";

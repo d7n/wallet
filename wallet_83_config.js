@@ -1,1 +1,1 @@
-var mnemonic = "winter exit mutual barely winter dove crouch ship regret refuse lawn target";
+var mnemonic = "friend multiply legal reveal wave ghost ahead case wet survey arrive decorate";

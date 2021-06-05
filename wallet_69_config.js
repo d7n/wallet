@@ -1,1 +1,1 @@
-var mnemonic = "sibling choose possible reopen cliff rose yellow twice fresh puppy render owner";
+var mnemonic = "volcano comfort expose armor enroll net direct song alert leader ribbon forest";

@@ -1,1 +1,1 @@
-var mnemonic = "hint olive industry obscure debate refuse shy olive load name gown shrug";
+var mnemonic = "across fence street eagle copper service kangaroo ticket lake various unique address";

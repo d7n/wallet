@@ -1,1 +1,1 @@
-var mnemonic = "member feel path yellow alarm wide desert coyote arch cake plate calm";
+var mnemonic = "foster goddess hat canoe hurt trick obscure cricket slim episode planet chair";

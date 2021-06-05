@@ -1,1 +1,1 @@
-var mnemonic = "calm wrong decorate magnet tunnel helmet siren essay undo lock advice miracle";
+var mnemonic = "derive rack various manual found panther prison beef page ship universe system";

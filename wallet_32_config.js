@@ -1,1 +1,1 @@
-var mnemonic = "vocal pipe cupboard skate explain remember kiwi kind side castle run hour";
+var mnemonic = "size broom awful assume shed marriage smile join give pelican aspect man";

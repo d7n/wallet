@@ -1,1 +1,1 @@
-var mnemonic = "vast lecture poverty hammer female zone cook setup laptop torch online friend";
+var mnemonic = "fiber oppose traffic olympic vibrant run fit license you between crawl awesome";

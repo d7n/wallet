@@ -1,1 +1,1 @@
-var mnemonic = "flush book bleak crime math action saddle sense room frozen banner collect";
+var mnemonic = "vendor spread hover abstract diet better sphere circle recipe chase net rose";

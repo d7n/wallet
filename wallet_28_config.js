@@ -1,1 +1,1 @@
-var mnemonic = "use abstract pigeon rival stick vacuum bicycle gaze polar home label various";
+var mnemonic = "silent athlete barrel century obscure champion stumble boring that promote range baby";

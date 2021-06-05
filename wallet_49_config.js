@@ -1,1 +1,1 @@
-var mnemonic = "wide mesh pear vendor venue toss memory process rubber muffin gadget door";
+var mnemonic = "sea screen canoe basic champion inspire check cup sport base lumber harvest";

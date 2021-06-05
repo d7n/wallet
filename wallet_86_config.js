@@ -1,1 +1,1 @@
-var mnemonic = "pupil danger tourist scatter knee scene produce sick warfare limb frozen into";
+var mnemonic = "crack scorpion siren party analyst obvious stairs weapon render shed traffic grape";

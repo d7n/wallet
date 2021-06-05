@@ -1,1 +1,1 @@
-var mnemonic = "mixture mushroom ensure dumb answer raise thumb magic tunnel melt diary soul";
+var mnemonic = "list what culture electric cargo eternal ready wave hard wrap steak still";

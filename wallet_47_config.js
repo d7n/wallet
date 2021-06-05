@@ -1,1 +1,1 @@
-var mnemonic = "squirrel post elbow result crouch depend deer near snow cherry immense cement";
+var mnemonic = "trick acoustic clap garage capital road muscle fix unit cause public angry";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch target drop angry vintage fetch tomorrow ski broken unfold hood faith";
+var mnemonic = "force fit direct trade spy measure pool sick magic inhale patch service";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue key place good business lucky pig upgrade scout cage glare detect";
+var mnemonic = "whale other glove devote rocket shield base follow tip nephew expect item";

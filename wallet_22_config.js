@@ -1,1 +1,1 @@
-var mnemonic = "surge tomato soldier kid border banner fury crush priority van obtain snow";
+var mnemonic = "million capital barrel cause couch twelve gloom settle deliver summer sock daring";

@@ -1,1 +1,1 @@
-var mnemonic = "art spin train carpet slush fringe shine disorder market desert pond century";
+var mnemonic = "illness what divide work train verify denial glue scheme jump annual waste";

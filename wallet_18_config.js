@@ -1,1 +1,1 @@
-var mnemonic = "mom key mule page reason rescue trigger roof give learn buzz detect";
+var mnemonic = "oven eight peasant inherit always train someone toddler mirror mask happy patient";

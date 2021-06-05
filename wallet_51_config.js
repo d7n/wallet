@@ -1,1 +1,1 @@
-var mnemonic = "anger width organ bone provide drama library divert educate economy kind worry";
+var mnemonic = "grain middle spin tag bonus reflect space stay area rhythm afraid observe";

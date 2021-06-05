@@ -1,1 +1,1 @@
-var mnemonic = "patch follow valid width vivid diet myself ready rebuild boat gather seek";
+var mnemonic = "tank decrease million genuine place proud girl wealth nut senior punch blood";

@@ -1,1 +1,1 @@
-var mnemonic = "wood income joke code decide claw tide between satisfy orange human saddle";
+var mnemonic = "maze burger drip pilot easy safe dirt collect general toast main bicycle";

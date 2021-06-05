@@ -1,1 +1,1 @@
-var mnemonic = "okay exist lobster radio special fiber purse dignity return nation milk goat";
+var mnemonic = "wise produce symptom debate latin brick session fork hello party lend scheme";

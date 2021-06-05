@@ -1,1 +1,1 @@
-var mnemonic = "material nature genuine urban coast depth purse upgrade park labor smoke hurry";
+var mnemonic = "shuffle imitate forward old educate stumble alert enrich key mushroom obscure crisp";

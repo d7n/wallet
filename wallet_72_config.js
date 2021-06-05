@@ -1,1 +1,1 @@
-var mnemonic = "rice zebra kit unaware color among genre industry valid frequent flower broken";
+var mnemonic = "under country letter coconut rally citizen vivid runway coach steel owner mass";

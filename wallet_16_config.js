@@ -1,1 +1,1 @@
-var mnemonic = "device inner junior fine style teach cheese clutch wasp inhale figure harbor";
+var mnemonic = "noise village sudden green voyage jazz metal daring quit this pact large";

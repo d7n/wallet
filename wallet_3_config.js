@@ -1,1 +1,1 @@
-var mnemonic = "twice such height husband tongue broom chalk magic enrich engage physical fat";
+var mnemonic = "record onion morning trade utility damp one gown envelope cinnamon spread appear";

@@ -1,1 +1,1 @@
-var mnemonic = "punch enhance artwork globe sheriff lucky cloud lake delay useless actor twelve";
+var mnemonic = "word donor alter split decide affair beyond gentle any absorb sell bring";

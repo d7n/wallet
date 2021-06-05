@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cup audit insane cushion turkey uphold river indicate truck online come";
+var mnemonic = "shove skull act grant tattoo analyst rare soda kiwi sun sword domain";

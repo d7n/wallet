@@ -1,1 +1,1 @@
-var mnemonic = "call foil caught quantum topple pluck wonder dutch swear stage defense recipe";
+var mnemonic = "erupt scrub arrow short vanish spray ensure casino situate hotel accident gown";

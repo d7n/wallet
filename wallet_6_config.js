@@ -1,1 +1,1 @@
-var mnemonic = "reject come pelican define airport cloud fuel decade effort cry super snap";
+var mnemonic = "cook unable humor stable okay tank roof noble require parrot gun grass";

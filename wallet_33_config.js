@@ -1,1 +1,1 @@
-var mnemonic = "board vendor script alarm spirit path weird news purchase august gravity yard";
+var mnemonic = "taxi outside cactus toward labor effort truth today elegant mixed stuff chat";

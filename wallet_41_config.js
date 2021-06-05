@@ -1,1 +1,1 @@
-var mnemonic = "absent result rule benefit blouse six bar three brain easy swim hole";
+var mnemonic = "sure correct connect cinnamon pass priority weapon sunny mass vintage palace patch";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding company exhaust genius stage manage argue crisp runway muscle bring pink";
+var mnemonic = "silent spend weekend prison sail fish certain transfer dose gadget middle gasp";

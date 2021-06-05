@@ -1,1 +1,1 @@
-var mnemonic = "wisdom valve oil object crane panic dish faith trouble oyster vicious family";
+var mnemonic = "bus medal april destroy sauce furnace profit ahead clerk okay anger salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "define embark radar assume torch science page dumb wife stereo stumble among";
+var mnemonic = "satisfy lecture forest flash total orbit laundry sentence salute essay pool fly";

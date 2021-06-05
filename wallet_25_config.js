@@ -1,1 +1,1 @@
-var mnemonic = "inch gun poet jungle birth aerobic dust horse virtual banner swift thought";
+var mnemonic = "then disease innocent cycle reward paper benefit build tower window finish faith";

@@ -1,1 +1,1 @@
-var mnemonic = "library connect sample grain head road clay birth news enter shallow large";
+var mnemonic = "render leg betray tobacco short smooth fitness suspect option acid envelope upon";

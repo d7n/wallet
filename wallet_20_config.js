@@ -1,1 +1,1 @@
-var mnemonic = "lobster timber maid accident exotic original piece food tornado token beef push";
+var mnemonic = "become cluster blossom nose net wood inherit talk ocean skin inside margin";

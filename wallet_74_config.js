@@ -1,1 +1,1 @@
-var mnemonic = "sibling tongue talent female lucky proud caught distance tiny ecology scrub tell";
+var mnemonic = "devote behind power fluid fuel nation venture artwork grace mammal reduce couch";

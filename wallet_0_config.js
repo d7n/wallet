@@ -1,1 +1,1 @@
-var mnemonic = "assault check exotic dismiss fold exotic mixed twice focus together husband amazing";
+var mnemonic = "audit online distance anchor baby allow evil collect survey draw document symbol";

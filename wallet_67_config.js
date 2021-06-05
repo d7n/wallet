@@ -1,1 +1,1 @@
-var mnemonic = "latin jeans pole music early pilot dad must panda volume amount execute";
+var mnemonic = "position adjust scorpion alpha foster adjust bundle option couch brush fruit review";

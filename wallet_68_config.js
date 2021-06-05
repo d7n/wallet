@@ -1,1 +1,1 @@
-var mnemonic = "feed flight maximum pass frost taxi coral bounce first cost situate limb";
+var mnemonic = "lucky simple document behave island orange credit drastic cube resemble quit fragile";

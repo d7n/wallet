@@ -1,1 +1,1 @@
-var mnemonic = "gesture novel purity owner satoshi best project bring depend riot gallery limit";
+var mnemonic = "kitchen invest goddess slab place gauge fame picnic until brown already real";

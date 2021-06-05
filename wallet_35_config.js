@@ -1,1 +1,1 @@
-var mnemonic = "stuff outside swear ball margin dynamic major duck claim near empty lounge";
+var mnemonic = "holiday power mosquito agent upper salad antenna patrol six snake toy know";

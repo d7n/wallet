@@ -1,1 +1,1 @@
-var mnemonic = "follow head upper shaft honey couch brain top finish animal auction midnight";
+var mnemonic = "much online right trade beyond egg still install invest start pair job";

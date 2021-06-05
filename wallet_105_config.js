@@ -1,1 +1,1 @@
-var mnemonic = "legal mosquito biology vessel cluster drama cute lock ask embrace special mixed";
+var mnemonic = "top bid surprise bottom valve actor despair alley warm annual sport dismiss";

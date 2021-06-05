@@ -1,1 +1,1 @@
-var mnemonic = "trip derive rather fever equal similar thunder addict economy jump lens seminar";
+var mnemonic = "chest replace only cannon roof remember mushroom wave interest suit riot item";

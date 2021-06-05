@@ -1,1 +1,1 @@
-var mnemonic = "own chaos gloom hen slam elder bulk word angle window shoot angle";
+var mnemonic = "lemon fat tray obvious course grain echo coconut resource vocal cotton clean";

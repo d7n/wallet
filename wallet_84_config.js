@@ -1,1 +1,1 @@
-var mnemonic = "helmet monster chunk open all visit wealth despair glimpse august move pony";
+var mnemonic = "shadow wrist visa school inhale finger picture salmon tumble dragon essay plastic";

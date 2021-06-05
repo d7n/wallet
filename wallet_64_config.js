@@ -1,1 +1,1 @@
-var mnemonic = "bicycle dirt aspect vapor shiver poem stick lamp fragile best violin photo";
+var mnemonic = "hospital anchor law van there one topple shine eagle object subway injury";

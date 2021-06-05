@@ -1,1 +1,1 @@
-var mnemonic = "card ghost online mountain dinosaur motor era message scissors state jump velvet";
+var mnemonic = "usual section solid fold belt scrap angry clock lesson palm dove nasty";

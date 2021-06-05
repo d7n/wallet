@@ -1,1 +1,1 @@
-var mnemonic = "mass proud estate jungle biology aim gym draw afford pole secret lemon";
+var mnemonic = "impulse saddle injury repeat figure spider occur ancient curtain recipe bright left";

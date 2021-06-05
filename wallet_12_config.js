@@ -1,1 +1,1 @@
-var mnemonic = "cattle real have vivid genius where pipe boy hungry idea bacon twist";
+var mnemonic = "minimum guess often engine term upper cattle sudden beauty humor attack junk";

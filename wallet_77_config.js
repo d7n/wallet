@@ -1,1 +1,1 @@
-var mnemonic = "invest hollow fence worry breeze fatigue fluid immune trade enforce bubble fantasy";
+var mnemonic = "novel upper stamp monitor organ permit maid tennis inner repair tunnel sail";

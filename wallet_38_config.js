@@ -1,1 +1,1 @@
-var mnemonic = "short wrist copper banner wish bullet voyage crowd innocent visa family affair";
+var mnemonic = "guitar present rabbit marble found ridge hunt skate rural pilot luggage grief";

@@ -1,1 +1,1 @@
-var mnemonic = "grit load pudding mobile enemy project moral exhaust play burst asset toe";
+var mnemonic = "unlock tomato jewel glad clarify oppose problem color burst property rib false";

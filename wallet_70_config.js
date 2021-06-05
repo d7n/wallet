@@ -1,1 +1,1 @@
-var mnemonic = "february abandon cable liberty arrow topic model scare lock remind scout original";
+var mnemonic = "rail market despair glide because creek wear strategy joke volume brave apology";

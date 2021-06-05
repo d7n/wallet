@@ -1,1 +1,1 @@
-var mnemonic = "garden grief apology muscle carry floor impose mesh bread left trend horse";
+var mnemonic = "wage ten snow amateur word control misery govern liberty nature vast gravity";

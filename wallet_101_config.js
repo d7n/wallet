@@ -1,1 +1,1 @@
-var mnemonic = "charge wrist vacant reject salute attitude visa open cabin front hundred scrub";
+var mnemonic = "lab addict danger scheme avocado coil remember chest hen upgrade smile jump";

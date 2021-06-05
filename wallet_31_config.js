@@ -1,1 +1,1 @@
-var mnemonic = "dirt immune thunder advice parade wage bicycle lunar start limb sound want";
+var mnemonic = "ranch pluck blossom select surface good track fossil also sponsor off bleak";

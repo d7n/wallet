@@ -1,1 +1,1 @@
-var mnemonic = "omit title oval tell piano autumn adjust soda staff leopard decide wonder";
+var mnemonic = "intact until apart dumb brass syrup start call retreat stove found season";

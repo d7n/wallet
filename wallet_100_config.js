@@ -1,1 +1,1 @@
-var mnemonic = "pride amateur skull chase knock balance quantum two report receive stage lobster";
+var mnemonic = "inmate vehicle jungle code notice venture chef again laptop drift clerk hedgehog";

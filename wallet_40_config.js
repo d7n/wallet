@@ -1,1 +1,1 @@
-var mnemonic = "narrow author slogan insect know skirt cat vacuum brief region script reason";
+var mnemonic = "carbon keen between program bid crazy vivid super leg bread stone interest";

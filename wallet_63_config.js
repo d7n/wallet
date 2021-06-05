@@ -1,1 +1,1 @@
-var mnemonic = "cargo ocean task sea staff sail duck napkin kangaroo dutch ten bundle";
+var mnemonic = "system castle any once tool tornado measure mouse conduct shop lawn bundle";

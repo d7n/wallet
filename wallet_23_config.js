@@ -1,1 +1,1 @@
-var mnemonic = "absorb pupil evoke diamond silly size excite country peasant breeze frost face";
+var mnemonic = "annual dirt faith observe bring basic hungry debate switch acoustic thunder whip";

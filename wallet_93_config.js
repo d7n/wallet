@@ -1,1 +1,1 @@
-var mnemonic = "outdoor flavor tribe now purpose park small powder hire budget canal cream";
+var mnemonic = "tower stay wire boil end dish same any idea physical remember imitate";

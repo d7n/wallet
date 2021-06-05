@@ -1,1 +1,1 @@
-var mnemonic = "hip gaze furnace lizard fly lonely situate ask sea delay hazard exist";
+var mnemonic = "speed tiny water calm demise exist ancient stuff uniform page into snow";
