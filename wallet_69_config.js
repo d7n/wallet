@@ -1,1 +1,1 @@
-var mnemonic = "morning portion pumpkin void million city truth hour change push under hen";
+var mnemonic = "oak ladder impact need delay nominee discover sphere short possible consider syrup";

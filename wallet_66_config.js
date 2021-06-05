@@ -1,1 +1,1 @@
-var mnemonic = "now pill blame logic jaguar recipe butter law vintage panther awkward uncle";
+var mnemonic = "leave stock renew material smart finger text museum chalk affair width imitate";

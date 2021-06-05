@@ -1,1 +1,1 @@
-var mnemonic = "media defy broken depth jeans solve leaf awful rare pluck return detect";
+var mnemonic = "draw other truck vessel umbrella liquid mansion spoon sponsor ripple myself leaf";

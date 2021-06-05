@@ -1,1 +1,1 @@
-var mnemonic = "come shell juice devote taxi business garden cost weekend fix increase say";
+var mnemonic = "evil sun diesel vendor enter trash other knife illness enhance divide inject";

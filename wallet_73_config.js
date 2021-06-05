@@ -1,1 +1,1 @@
-var mnemonic = "settle fluid crew actress jar relief upgrade east envelope fun seed trap";
+var mnemonic = "crater provide enter brick sibling width capable wild practice strong type news";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse gain civil claim pattern chapter hair vessel reveal sheriff hybrid tissue";
+var mnemonic = "sun gate list bamboo able rough solve mention general together pupil milk";

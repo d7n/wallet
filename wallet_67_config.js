@@ -1,1 +1,1 @@
-var mnemonic = "morning wrist lazy control moon combine relax wing type ceiling skill shed";
+var mnemonic = "crunch section prevent case stove inquiry cradle charge smoke hunt claw crucial";

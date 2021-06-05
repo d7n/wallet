@@ -1,1 +1,1 @@
-var mnemonic = "correct swim endorse update debris join myself feature isolate appear mandate picture";
+var mnemonic = "idea answer truly claw universe toward edge trumpet agree monitor race express";

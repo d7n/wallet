@@ -1,1 +1,1 @@
-var mnemonic = "range orange govern now prepare leave fiction identify spell hybrid hope often";
+var mnemonic = "furnace feel promote box fade more orange brass coffee drift aspect close";

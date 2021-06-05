@@ -1,1 +1,1 @@
-var mnemonic = "recall dream fix indoor fine fall avocado emotion grab total deliver emerge";
+var mnemonic = "eight calm muscle stem bonus enable giraffe trade course essence rich swear";

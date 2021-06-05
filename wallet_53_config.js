@@ -1,1 +1,1 @@
-var mnemonic = "tobacco document burden bean sentence target door promote galaxy copy buddy coyote";
+var mnemonic = "gesture fire miss trade maid enhance exhibit arrange eye dial banana verify";

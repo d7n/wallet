@@ -1,1 +1,1 @@
-var mnemonic = "error you flee horse dumb pattern pause display abandon wild cheese cry";
+var mnemonic = "flip cinnamon film sausage target royal audit craft quit barrel ridge material";

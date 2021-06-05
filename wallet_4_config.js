@@ -1,1 +1,1 @@
-var mnemonic = "inmate ostrich ankle around comfort deposit torch rent bar bacon hat tuition";
+var mnemonic = "universe dress daughter hard boost lake theme amount size soon anchor ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery parent verify unlock unknown warfare region roof timber clock success spray";
+var mnemonic = "slice anger bubble basket seat arrange scrub verify cement twist lake bind";

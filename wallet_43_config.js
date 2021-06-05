@@ -1,1 +1,1 @@
-var mnemonic = "faculty embark pair bronze diagram firm world close shoe avocado dice actress";
+var mnemonic = "quick coach require need unit someone captain suit uniform eight release excite";

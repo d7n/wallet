@@ -1,1 +1,1 @@
-var mnemonic = "kit ability oil identify just sustain pledge harvest zero liar action illegal";
+var mnemonic = "recall weather comic trophy column moral key inject inform sustain crime taste";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit then globe wink uncover fossil expose liar push fun pet repeat";
+var mnemonic = "beef use explain chimney adult such hill cook tube salmon bird lucky";

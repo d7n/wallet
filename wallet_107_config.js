@@ -1,1 +1,1 @@
-var mnemonic = "begin horn bubble cruel exhibit bench elegant runway early asthma token violin";
+var mnemonic = "great message slot immune prison abstract solution year boat list caution absent";

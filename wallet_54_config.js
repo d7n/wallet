@@ -1,1 +1,1 @@
-var mnemonic = "wait street annual plug federal bean comic stomach equal life season napkin";
+var mnemonic = "cotton valley what point firm business panther angry gospel shoot forward fantasy";

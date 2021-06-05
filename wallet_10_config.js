@@ -1,1 +1,1 @@
-var mnemonic = "van feel salmon puzzle engine section element fork cruel flag zone flash";
+var mnemonic = "game rule gold miracle choose public gym artwork unit fluid client concert";

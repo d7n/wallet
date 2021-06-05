@@ -1,1 +1,1 @@
-var mnemonic = "indicate cube prison arch bind garment elephant claw census scene idle song";
+var mnemonic = "quantum sorry brief allow access save merit net name keen quote mom";

@@ -1,1 +1,1 @@
-var mnemonic = "drop letter round flavor latin fluid sick welcome legend stove key dentist";
+var mnemonic = "grief shine charge brown once winner quarter mystery right proud season winner";

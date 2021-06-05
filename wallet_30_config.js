@@ -1,1 +1,1 @@
-var mnemonic = "actor field excess occur box price flower night risk review spatial guitar";
+var mnemonic = "plunge hybrid two method all rich owner attitude quote swift electric liberty";

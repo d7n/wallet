@@ -1,1 +1,1 @@
-var mnemonic = "stadium cargo square valley scorpion knife detail violin pen pitch beach gaze";
+var mnemonic = "afraid order charge forest employ sail family spring advice youth dove bomb";

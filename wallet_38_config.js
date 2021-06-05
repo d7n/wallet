@@ -1,1 +1,1 @@
-var mnemonic = "lesson crash boring forum obscure sound flash news sudden brass transfer robot";
+var mnemonic = "depth grant gift inflict frozen income resource pigeon satisfy lawn hold scene";

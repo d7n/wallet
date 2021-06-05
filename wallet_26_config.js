@@ -1,1 +1,1 @@
-var mnemonic = "foster term brush inherit must tackle eye habit option obey adapt dumb";
+var mnemonic = "fantasy rule sketch afraid during topic work obey member popular radio diagram";

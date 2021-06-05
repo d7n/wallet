@@ -1,1 +1,1 @@
-var mnemonic = "safe member develop crazy wild leader valley market anxiety tired build master";
+var mnemonic = "pill loop next together tiny clog sniff strategy wash grow conduct model";

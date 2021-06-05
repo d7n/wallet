@@ -1,1 +1,1 @@
-var mnemonic = "immune wish peanut quote jump noodle faith peace piano toss monster lens";
+var mnemonic = "snow sphere imitate ridge receive film add faculty poverty raise correct elite";

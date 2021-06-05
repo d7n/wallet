@@ -1,1 +1,1 @@
-var mnemonic = "term since cruise tape under hollow cradle rabbit nasty jealous now silly";
+var mnemonic = "alpha rookie ceiling thumb monster much call neglect duty turkey vintage scissors";

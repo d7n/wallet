@@ -1,1 +1,1 @@
-var mnemonic = "crater wreck guilt fruit result spoon boss flash video vanish wrist conduct";
+var mnemonic = "stage error globe during cotton opinion pause common rent unit leg tattoo";

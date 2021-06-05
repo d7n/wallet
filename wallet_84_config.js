@@ -1,1 +1,1 @@
-var mnemonic = "foster jewel delay chronic chronic upgrade fashion indicate next blur impulse scare";
+var mnemonic = "submit pattern tongue social today snake margin mercy matrix change green gadget";

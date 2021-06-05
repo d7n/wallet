@@ -1,1 +1,1 @@
-var mnemonic = "nut dynamic knife napkin fee opinion jungle lottery fall catalog brother agree";
+var mnemonic = "snap dish monster matrix render pelican boil winter draw disagree tone dumb";

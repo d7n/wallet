@@ -1,1 +1,1 @@
-var mnemonic = "open young tomorrow hole much body tunnel brown climb soup satoshi add";
+var mnemonic = "possible bid property stove one garbage away game mountain zero brick cargo";

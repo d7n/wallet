@@ -1,1 +1,1 @@
-var mnemonic = "cake sense mind forest moral uncle wood calm run flee boil fan";
+var mnemonic = "power sword wet evil earth eagle extend silk toilet symbol utility oyster";

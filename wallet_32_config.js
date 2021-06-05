@@ -1,1 +1,1 @@
-var mnemonic = "time treat degree foster enhance flower fire chunk face code mountain entire";
+var mnemonic = "tube lecture sudden hidden habit cherry reject own raven vibrant camera sense";

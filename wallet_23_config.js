@@ -1,1 +1,1 @@
-var mnemonic = "awake exile pelican south mutual taste lesson cup believe rotate pioneer dose";
+var mnemonic = "soft consider lake coach square auto thrive allow ball foil nature reopen";

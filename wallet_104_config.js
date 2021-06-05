@@ -1,1 +1,1 @@
-var mnemonic = "nose damp drift tunnel soldier width dutch sphere camp chat hold trigger";
+var mnemonic = "jelly slide gun first gallery return shoe goat worth gospel welcome course";

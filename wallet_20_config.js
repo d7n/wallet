@@ -1,1 +1,1 @@
-var mnemonic = "size guilt remember parade lottery bronze bulb curve crystal coyote shed vehicle";
+var mnemonic = "flame toilet uniform arrange orchard north supply market double situate coconut point";

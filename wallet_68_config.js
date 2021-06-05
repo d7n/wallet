@@ -1,1 +1,1 @@
-var mnemonic = "shell crush try only garden photo usual lottery catch rally armed baby";
+var mnemonic = "accuse vivid episode smart pass heavy service plug violin toss frozen program";

@@ -1,1 +1,1 @@
-var mnemonic = "coach turkey wrong wrestle barrel welcome spirit fiber harvest cover lottery piece";
+var mnemonic = "match resource give art insane file summer punch rate prepare size radar";

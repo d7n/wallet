@@ -1,1 +1,1 @@
-var mnemonic = "mad cargo device unaware tourist topic cream border diary various about wrong";
+var mnemonic = "during aerobic unit fatal blood bronze enforce bless unfair tiger rule program";

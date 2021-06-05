@@ -1,1 +1,1 @@
-var mnemonic = "sun agent stadium scorpion again hawk deliver gorilla number morning fat neutral";
+var mnemonic = "owner final farm tail hunt enter push surge wrong cup upon dutch";

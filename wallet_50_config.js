@@ -1,1 +1,1 @@
-var mnemonic = "payment idea human domain sphere drama cabin same shove music pupil duty";
+var mnemonic = "buzz bacon coast need slender project else spring penalty jeans diesel biology";

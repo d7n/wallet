@@ -1,1 +1,1 @@
-var mnemonic = "chronic depart armor economy purchase scan dog true cover latin balance quiz";
+var mnemonic = "daring runway bar ride pupil tenant hamster grab catalog ignore senior ticket";

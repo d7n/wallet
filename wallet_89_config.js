@@ -1,1 +1,1 @@
-var mnemonic = "symptom hour impact document zebra balcony believe toy scene love hockey tide";
+var mnemonic = "lady soft drift episode virus canyon host firm party orient train share";

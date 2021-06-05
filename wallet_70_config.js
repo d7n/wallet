@@ -1,1 +1,1 @@
-var mnemonic = "valid protect exact diagram left have great approve garden ocean obtain mom";
+var mnemonic = "adult express fitness hockey gadget window mother farm phrase clutch helmet suspect";

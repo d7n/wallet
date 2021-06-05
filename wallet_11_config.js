@@ -1,1 +1,1 @@
-var mnemonic = "fever angle salt scare solution day bubble saddle margin thank catalog man";
+var mnemonic = "seven sick off catalog dignity task strong slot rain involve measure trend";

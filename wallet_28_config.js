@@ -1,1 +1,1 @@
-var mnemonic = "jewel bean margin phrase faith replace morning usage reform dragon tower thrive";
+var mnemonic = "sniff woman couch radio online pizza wild pottery ethics discover this doll";

@@ -1,1 +1,1 @@
-var mnemonic = "toe length clever april satoshi warm viable drink bronze cotton risk shiver";
+var mnemonic = "fog path museum guide lava veteran fence claw truck snap garment sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "group guess regret surround champion orange primary demise jungle school valve infant";
+var mnemonic = "purity gain rocket strong civil until scorpion box dry cupboard pitch blur";

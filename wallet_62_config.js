@@ -1,1 +1,1 @@
-var mnemonic = "myth excess run alter little illegal heart display twist aisle dutch flip";
+var mnemonic = "fresh material truth debris begin page immense flag pitch now snack junk";

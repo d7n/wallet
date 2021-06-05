@@ -1,1 +1,1 @@
-var mnemonic = "give margin dune leader eager mobile taxi knife have minor frame year";
+var mnemonic = "wear van smile witness spoil say muscle plunge lady trade this student";

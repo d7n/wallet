@@ -1,1 +1,1 @@
-var mnemonic = "aerobic about extra swim produce illegal view glimpse sign pink wife waste";
+var mnemonic = "review diagram alone offer fantasy impulse merge flag sound away record illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "split shrimp ethics topple aisle source donor arrest sunset obvious recipe ginger";
+var mnemonic = "step claw glad solve employ glad bread paper display tissue bullet drip";

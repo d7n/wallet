@@ -1,1 +1,1 @@
-var mnemonic = "special endorse eyebrow inject wash exhibit puzzle spell upset mail coral gown";
+var mnemonic = "blossom sing describe volcano old slam cherry harbor baby vibrant funny stove";

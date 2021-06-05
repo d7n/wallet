@@ -1,1 +1,1 @@
-var mnemonic = "bunker acoustic omit lend term chuckle popular uniform normal mansion protect miss";
+var mnemonic = "buyer pigeon stuff angry drop tilt rebuild current gloom sunny online tree";

@@ -1,1 +1,1 @@
-var mnemonic = "tent raven belt this manage shine mask tennis air lesson suggest strategy";
+var mnemonic = "arm satoshi theory blur regular river assault such faith shadow remove option";

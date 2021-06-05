@@ -1,1 +1,1 @@
-var mnemonic = "place assume wet usage tent fire property stock wedding cloud switch switch";
+var mnemonic = "month only park faculty unusual attend video mountain market road turtle insane";

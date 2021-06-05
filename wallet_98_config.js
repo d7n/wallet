@@ -1,1 +1,1 @@
-var mnemonic = "amazing quote affair emerge rate borrow royal fiscal chef orphan horse leg";
+var mnemonic = "run will unhappy inject broken sadness stairs fragile nominee kangaroo bar access";

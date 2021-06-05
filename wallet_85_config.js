@@ -1,1 +1,1 @@
-var mnemonic = "sphere bubble scatter fashion script peanut road refuse fabric atom journey staff";
+var mnemonic = "today rubber mix toddler attitude tomato omit blush silver jewel return trial";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware bulb silver rigid favorite tuition hybrid pistol chalk problem trigger age";
+var mnemonic = "cake snack world issue charge unusual zoo surface pair popular canvas exotic";

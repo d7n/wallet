@@ -1,1 +1,1 @@
-var mnemonic = "demise mammal race model permit blame hospital voyage axis search diamond slot";
+var mnemonic = "pool nation barely aim argue sun rookie first tag grid cube oven";

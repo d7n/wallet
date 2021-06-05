@@ -1,1 +1,1 @@
-var mnemonic = "balance repeat cave palm alley grant aware fee knife stage capable subway";
+var mnemonic = "arrange town ozone claim boil plate old inhale state tortoise clog nest";

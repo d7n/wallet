@@ -1,1 +1,1 @@
-var mnemonic = "jungle hour erosion name visual spoon verb judge arctic october fury leaf";
+var mnemonic = "soft shoulder mechanic ribbon crater diary muscle custom fee walnut cigar spy";

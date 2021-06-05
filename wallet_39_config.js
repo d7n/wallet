@@ -1,1 +1,1 @@
-var mnemonic = "day option increase tissue clarify glue near child female silver spice debate";
+var mnemonic = "myself filter journey recycle chase rival patient stick lecture park trigger mansion";

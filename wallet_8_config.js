@@ -1,1 +1,1 @@
-var mnemonic = "vanish scout together office never better wish tiny violin vibrant remove nephew";
+var mnemonic = "brother need machine super depart tongue alone emotion sing cheap salt liar";

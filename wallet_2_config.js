@@ -1,1 +1,1 @@
-var mnemonic = "amount keen soul bus portion job fault team liberty kitten weather snack";
+var mnemonic = "bargain coin useless gasp belt media genius urban infant barrel injury egg";

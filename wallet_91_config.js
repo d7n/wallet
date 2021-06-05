@@ -1,1 +1,1 @@
-var mnemonic = "depth fuel put upon occur plate move deposit risk giraffe tragic trend";
+var mnemonic = "transfer service link scissors flip baby solid duck session breeze easily faculty";

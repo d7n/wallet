@@ -1,1 +1,1 @@
-var mnemonic = "earth length since reopen robust cycle impulse federal plunge park fluid chaos";
+var mnemonic = "else win fringe glass crack brave coin deny anger dragon scrap intact";

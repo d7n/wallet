@@ -1,1 +1,1 @@
-var mnemonic = "hello rice antique city unique ridge annual like mask convince rigid stable";
+var mnemonic = "cross ice barrel ball major garage work verify letter addict grit pig";

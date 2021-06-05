@@ -1,1 +1,1 @@
-var mnemonic = "letter already doll goose total gesture steak robust pigeon orange leaf dad";
+var mnemonic = "syrup mystery wise language vanish race husband brother retire certain sauce drink";

@@ -1,1 +1,1 @@
-var mnemonic = "raw oven chief timber present plate better income document tube similar citizen";
+var mnemonic = "immune topic once liberty define label escape genius aunt smoke phrase float";

@@ -1,1 +1,1 @@
-var mnemonic = "extra stay attend odor keen crumble chicken dress body random mention lunar";
+var mnemonic = "target soldier stay mistake that edge dry lamp wish divorce strike blur";

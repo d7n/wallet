@@ -1,1 +1,1 @@
-var mnemonic = "gun bicycle wing negative upon rapid educate razor nice ostrich music reveal";
+var mnemonic = "sign picnic novel police green alcohol odor direct logic blouse wave depend";

@@ -1,1 +1,1 @@
-var mnemonic = "direct cement injury oblige drum menu upper finger diesel volcano mechanic indicate";
+var mnemonic = "lion mind clean attend common rely business almost grant movie brown innocent";

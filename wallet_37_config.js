@@ -1,1 +1,1 @@
-var mnemonic = "dog isolate inform tortoise table good hammer diamond stereo goddess emerge expire";
+var mnemonic = "object pole play team olive valve fossil inner hint long swift order";

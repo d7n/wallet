@@ -1,1 +1,1 @@
-var mnemonic = "eight chunk blame retire market toss you trust educate bargain monitor giggle";
+var mnemonic = "desk hand gain degree label arctic receive bar slight ability clerk okay";

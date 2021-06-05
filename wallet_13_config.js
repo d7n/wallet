@@ -1,1 +1,1 @@
-var mnemonic = "shell enable remember school garlic strike urban lyrics math gate chicken either";
+var mnemonic = "faint taxi palace empty add capable marriage sign type gallery canyon oil";

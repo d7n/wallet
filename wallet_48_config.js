@@ -1,1 +1,1 @@
-var mnemonic = "wine control twin advance pave danger around observe similar manage script pyramid";
+var mnemonic = "clip elevator memory sketch rain enforce neither match expose lobster heavy stage";

@@ -1,1 +1,1 @@
-var mnemonic = "error bird note dinosaur clip beauty chronic viable front disease leisure disease";
+var mnemonic = "pact mention ahead stage rib submit win door escape bag vote mesh";

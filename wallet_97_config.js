@@ -1,1 +1,1 @@
-var mnemonic = "van dice salon cricket scheme decrease pass subway sample aisle job spray";
+var mnemonic = "desk kick creek remove dress raw art basket memory organ liberty wine";

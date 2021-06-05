@@ -1,1 +1,1 @@
-var mnemonic = "lend hill uniform gadget sister actual alert champion leave topple awkward govern";
+var mnemonic = "fiction cinnamon bar nature mandate exile curious hour frozen enlist crucial chest";

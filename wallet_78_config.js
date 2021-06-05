@@ -1,1 +1,1 @@
-var mnemonic = "toast change insane volume easily traffic museum desert such canal average alter";
+var mnemonic = "left onion violin laugh rack hub shaft describe enrich banner test scrub";

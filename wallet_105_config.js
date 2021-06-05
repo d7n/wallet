@@ -1,1 +1,1 @@
-var mnemonic = "lazy exclude scan obey capable spawn major off raw grief brief tonight";
+var mnemonic = "rack cave source vanish visual harvest asthma jewel october address point soon";

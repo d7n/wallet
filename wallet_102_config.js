@@ -1,1 +1,1 @@
-var mnemonic = "degree apple blood kangaroo account entry shallow swing flash keep soap jump";
+var mnemonic = "century radar cluster electric name script conduct ball double nature uncle glory";

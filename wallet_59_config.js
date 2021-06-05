@@ -1,1 +1,1 @@
-var mnemonic = "merge submit year unlock fancy clever together warm reveal pilot devote trumpet";
+var mnemonic = "critic siren execute insect fuel sure slight flag normal weapon swap trend";

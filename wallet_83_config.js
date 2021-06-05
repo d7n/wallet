@@ -1,1 +1,1 @@
-var mnemonic = "kind rifle cricket shock already innocent chase wonder when device fat immense";
+var mnemonic = "sure exclude apart grace nephew owner list weapon traffic shock add cause";

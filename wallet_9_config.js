@@ -1,1 +1,1 @@
-var mnemonic = "cruise gesture lobster fence marriage sugar jelly entire cube nasty exercise rude";
+var mnemonic = "become daughter cereal banner admit exact hamster sing moon useful reunion turn";
