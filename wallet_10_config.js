@@ -1,1 +1,1 @@
-var mnemonic = "pink elder patch regular hobby claim fury news symbol travel sorry conduct";
+var mnemonic = "robot else matter reform west sister large group pig lounge impact drive";

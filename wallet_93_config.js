@@ -1,1 +1,1 @@
-var mnemonic = "outer music search envelope swear feel flat invest saddle steak cloud mimic";
+var mnemonic = "nature ridge bulk duty trophy asthma sleep admit document floor local master";

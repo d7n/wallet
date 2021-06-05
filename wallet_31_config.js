@@ -1,1 +1,1 @@
-var mnemonic = "extend cat hello special hat note twice exit crane lazy inside cage";
+var mnemonic = "wash annual illness impulse final scout artwork lizard depth hospital maple view";

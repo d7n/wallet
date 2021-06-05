@@ -1,1 +1,1 @@
-var mnemonic = "liberty omit girl know assume captain traffic garden patch regret office turn";
+var mnemonic = "lift concert diary heart jelly people speed tongue loud shop knee critic";

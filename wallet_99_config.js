@@ -1,1 +1,1 @@
-var mnemonic = "exercise garage delay chimney blade crouch leisure core spring west later script";
+var mnemonic = "film member census hover multiply ranch beef glad upon trick hope seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "tray machine neglect expose ancient balcony mean success improve exhaust address sea";
+var mnemonic = "lonely inflict federal turkey gather wall enough dial act valid dad main";

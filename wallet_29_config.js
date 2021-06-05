@@ -1,1 +1,1 @@
-var mnemonic = "remove total imitate portion hunt hedgehog detect kind gravity program mind guard";
+var mnemonic = "excess drill name suit gap member section holiday apple rack ill wet";

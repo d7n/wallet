@@ -1,1 +1,1 @@
-var mnemonic = "stadium shine damage torch crouch foot west trap very glide ring drill";
+var mnemonic = "suit option rhythm nurse ability between quality border load clay convince coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish silver rent inflict proud used width drama verify enroll school two";
+var mnemonic = "purity fix vanish often dream lesson author frost bag timber network dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "faint half color tired family deal orient lady pottery chronic excite dignity";
+var mnemonic = "wall awkward crazy health gate prevent about online dinosaur inflict harsh visa";

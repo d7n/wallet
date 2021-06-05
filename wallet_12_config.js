@@ -1,1 +1,1 @@
-var mnemonic = "spirit track practice salute exercise spy obscure transfer clay security tomorrow suffer";
+var mnemonic = "vacuum vapor fine actual occur grant update fix glide giggle maid wear";

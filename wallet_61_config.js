@@ -1,1 +1,1 @@
-var mnemonic = "master enable limit unhappy trim paper tail snow bag finish female alien";
+var mnemonic = "sadness wet book cart spoon flame rookie where cloth swear betray sting";

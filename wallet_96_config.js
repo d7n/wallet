@@ -1,1 +1,1 @@
-var mnemonic = "office sight father future satoshi okay easy squeeze curve rice various segment";
+var mnemonic = "laugh road unhappy valley orchard judge shell ahead rib goddess cabin topple";

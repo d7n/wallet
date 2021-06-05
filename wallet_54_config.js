@@ -1,1 +1,1 @@
-var mnemonic = "song neck assist bullet make gas demise milk river connect torch cable";
+var mnemonic = "measure badge hurdle curtain real trial earth peanut truly piece flee arrest";

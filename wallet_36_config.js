@@ -1,1 +1,1 @@
-var mnemonic = "average deny skin horse gift opinion night phone essence cram horror desk";
+var mnemonic = "amateur trophy energy work learn mistake critic tent pass kitchen barely sense";

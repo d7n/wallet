@@ -1,1 +1,1 @@
-var mnemonic = "payment hard target indoor firm achieve inch blanket finish video rural rain";
+var mnemonic = "begin merry fence win upon success peasant exclude bubble ritual movie prepare";

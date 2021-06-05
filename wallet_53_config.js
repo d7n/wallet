@@ -1,1 +1,1 @@
-var mnemonic = "image abandon ecology monitor dentist van father despair book initial over daring";
+var mnemonic = "mercy advance prison garbage unaware green junk use track spare else stay";

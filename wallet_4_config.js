@@ -1,1 +1,1 @@
-var mnemonic = "ride fruit disagree occur office erosion future stable swift assault beyond amateur";
+var mnemonic = "base govern slice cost cream runway lava sugar office govern swap matter";

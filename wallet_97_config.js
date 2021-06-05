@@ -1,1 +1,1 @@
-var mnemonic = "miracle unit tourist until scrap female oil brick remember know gather erase";
+var mnemonic = "inside course salt apart universe country knock useful enrich gallery inject clarify";

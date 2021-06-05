@@ -1,1 +1,1 @@
-var mnemonic = "seek traffic author shaft dream story army report execute ill lock inquiry";
+var mnemonic = "liar kick lake fabric ankle sadness soul engage plate tuna alter notice";

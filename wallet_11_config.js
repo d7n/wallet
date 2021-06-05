@@ -1,1 +1,1 @@
-var mnemonic = "crush cactus bracket void uniform tragic enroll steak lyrics happy feature kingdom";
+var mnemonic = "mail distance gadget extra cousin review beauty snap will border jewel broom";

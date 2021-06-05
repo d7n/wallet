@@ -1,1 +1,1 @@
-var mnemonic = "poet brisk license sail myself acoustic maze time ozone gold rocket elevator";
+var mnemonic = "zoo afraid burden drop possible soup exist empty fancy hollow escape print";

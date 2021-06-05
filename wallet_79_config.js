@@ -1,1 +1,1 @@
-var mnemonic = "update amount student strike asthma duck rescue cash unusual glad script chase";
+var mnemonic = "drift large galaxy rabbit field chalk sister offer omit winner language budget";

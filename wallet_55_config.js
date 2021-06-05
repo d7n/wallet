@@ -1,1 +1,1 @@
-var mnemonic = "daughter awful erupt glad uncle unit mind pudding canoe tape siren twist";
+var mnemonic = "blur bleak vocal access degree heavy again shrug oblige denial stay just";

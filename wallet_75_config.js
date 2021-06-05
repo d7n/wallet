@@ -1,1 +1,1 @@
-var mnemonic = "type scheme suffer ranch appear cram episode rice double salon ring toward";
+var mnemonic = "glue talk satisfy various version cover sand eagle acquire pupil language wire";

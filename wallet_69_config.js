@@ -1,1 +1,1 @@
-var mnemonic = "obscure task trouble silver only deny rebuild toss stand idle smart icon";
+var mnemonic = "elevator artist install fluid robust upper aspect exercise track step theory usage";

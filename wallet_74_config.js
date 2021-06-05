@@ -1,1 +1,1 @@
-var mnemonic = "bread ski top resource sunny rose ghost melody orbit brief lonely cereal";
+var mnemonic = "scout favorite pudding joke destroy evil head eager laundry volcano absent march";

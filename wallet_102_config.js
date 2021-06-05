@@ -1,1 +1,1 @@
-var mnemonic = "ask collect purse crawl absurd injury grunt moral eight position fox salmon";
+var mnemonic = "smart cement rally permit enhance wreck worry power crater fun such maze";

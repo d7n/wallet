@@ -1,1 +1,1 @@
-var mnemonic = "say long code cook execute differ purpose siege ahead document mechanic violin";
+var mnemonic = "release decrease foot battle company bridge atom off what poet express swap";

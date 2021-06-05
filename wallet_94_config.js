@@ -1,1 +1,1 @@
-var mnemonic = "brown century vital copy daughter group arm twelve achieve furnace boat motor";
+var mnemonic = "vessel love illegal draw tiger runway start main tool just dinosaur mirror";

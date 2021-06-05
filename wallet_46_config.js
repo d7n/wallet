@@ -1,1 +1,1 @@
-var mnemonic = "stereo provide sure ready squirrel print dwarf catalog disagree autumn when trim";
+var mnemonic = "hood bracket satoshi mutual sugar century stereo almost pumpkin window clever hello";

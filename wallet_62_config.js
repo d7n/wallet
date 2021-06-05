@@ -1,1 +1,1 @@
-var mnemonic = "penalty eager vibrant guard social deliver room now govern system bag awkward";
+var mnemonic = "twist canal proud fever moral bag hobby diagram laptop burden spider intact";

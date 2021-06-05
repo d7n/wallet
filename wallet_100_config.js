@@ -1,1 +1,1 @@
-var mnemonic = "raw ill barrel else fall law cube license select card reopen fee";
+var mnemonic = "cattle seat build rely balance ramp shove bitter swap floor involve hospital";

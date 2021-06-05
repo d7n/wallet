@@ -1,1 +1,1 @@
-var mnemonic = "canvas bless install unveil alter infant diamond release segment humble involve asthma";
+var mnemonic = "vibrant expect birth illegal hollow simple neither basket donate slice mesh crater";

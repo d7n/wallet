@@ -1,1 +1,1 @@
-var mnemonic = "stock viable loyal truly concert donate round decline famous inmate machine cause";
+var mnemonic = "mean share cycle student brother trend brown butter giant source gap close";

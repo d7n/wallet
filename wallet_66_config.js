@@ -1,1 +1,1 @@
-var mnemonic = "core aspect explain evil proof cage gadget merit rent account distance another";
+var mnemonic = "balcony okay little craft loan flee odor forget claim segment lecture adapt";

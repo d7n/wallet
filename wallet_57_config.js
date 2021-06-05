@@ -1,1 +1,1 @@
-var mnemonic = "wave garment crater behind answer taxi letter gadget walk science hamster horror";
+var mnemonic = "broken skirt arctic million stage second build devote metal remain coconut mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "angle alert buffalo rack silly force army awesome choice abuse two tuition";
+var mnemonic = "nerve usual rose arctic tail merit toward obvious prevent zoo ignore crystal";

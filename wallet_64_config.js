@@ -1,1 +1,1 @@
-var mnemonic = "average spirit two drive kit taxi volume juice husband civil damage radar";
+var mnemonic = "quote flame correct run spoon need laptop sugar entry target alcohol chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer scout family oblige mind borrow answer year pudding panther wood science";
+var mnemonic = "face false memory salt another south near immune reopen fine liquid mandate";

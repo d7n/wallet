@@ -1,1 +1,1 @@
-var mnemonic = "erosion solution indoor shrimp wait crazy agree whale grid fashion analyst legend";
+var mnemonic = "treat idle force link gaze problem coffee soccer time extra twist select";

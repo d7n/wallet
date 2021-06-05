@@ -1,1 +1,1 @@
-var mnemonic = "pilot unknown wish circle width roof orphan sting just attitude equip help";
+var mnemonic = "enjoy nest buffalo bamboo child frown setup argue cheap van ball various";

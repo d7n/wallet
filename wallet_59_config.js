@@ -1,1 +1,1 @@
-var mnemonic = "banner soup save time voyage fury truck industry autumn object useful elevator";
+var mnemonic = "jeans insane butter forget jealous notice way hundred basic route punch lecture";

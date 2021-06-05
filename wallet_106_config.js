@@ -1,1 +1,1 @@
-var mnemonic = "you resource fatigue scare derive child biology uncle crew double romance network";
+var mnemonic = "license undo solar stairs tornado scorpion afraid disagree family vault canal robot";

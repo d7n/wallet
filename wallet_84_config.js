@@ -1,1 +1,1 @@
-var mnemonic = "theme change spawn shadow lunch renew youth total three wire wrong zone";
+var mnemonic = "fetch roof arrest tooth wonder lawn loop possible brain combine man obvious";

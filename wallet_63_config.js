@@ -1,1 +1,1 @@
-var mnemonic = "beyond drip diesel crush barely power year boost grape notable ghost spy";
+var mnemonic = "mushroom decide palace home surround era midnight jump canal tennis planet critic";

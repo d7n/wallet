@@ -1,1 +1,1 @@
-var mnemonic = "coast delay quote matrix lock anger hour globe art mean rose sunny";
+var mnemonic = "come regret caught resource motor october record bunker wedding cousin expect aware";

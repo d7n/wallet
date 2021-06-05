@@ -1,1 +1,1 @@
-var mnemonic = "young floor involve pig orient together total grace deliver option omit tired";
+var mnemonic = "upset mixture riot people bless agent any lion small cloud system tent";

@@ -1,1 +1,1 @@
-var mnemonic = "order approve wave apple wage cloud oblige beef cable limb denial catalog";
+var mnemonic = "waste shoulder cover vital segment cannon lizard orchard adult drive resist total";

@@ -1,1 +1,1 @@
-var mnemonic = "renew tackle orphan wide case must horror cry price twice day twice";
+var mnemonic = "record pig alley area rare try fade fresh feed infant choose walnut";

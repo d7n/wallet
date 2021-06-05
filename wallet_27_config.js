@@ -1,1 +1,1 @@
-var mnemonic = "harvest vivid settle dose labor hip fragile insane mouse farm essay pass";
+var mnemonic = "dog drink legal equip illegal globe pencil corn train dinosaur antenna utility";

@@ -1,1 +1,1 @@
-var mnemonic = "audit maximum foam conduct tomorrow asthma first tuition smooth boss infant dolphin";
+var mnemonic = "jelly estate erase depth tiny tube yard velvet slot use usual quantum";

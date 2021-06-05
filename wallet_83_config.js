@@ -1,1 +1,1 @@
-var mnemonic = "smart lumber cage strong that suspect magnet endorse electric nasty relax pelican";
+var mnemonic = "advice element dawn reject acid boy surprise mountain torch rebel churn pupil";

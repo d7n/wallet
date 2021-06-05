@@ -1,1 +1,1 @@
-var mnemonic = "steel reject monitor script shrug cinnamon attack slot flee canvas club purse";
+var mnemonic = "crucial shine control demise success trend squirrel true cool blossom hollow bleak";

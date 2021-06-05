@@ -1,1 +1,1 @@
-var mnemonic = "version stadium lizard duty soon spot equal viable witness increase craft vendor";
+var mnemonic = "reform flash thrive evolve distance chase drastic able diet animal assist bunker";

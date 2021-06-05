@@ -1,1 +1,1 @@
-var mnemonic = "stand session spider medal wealth curve image visit job buffalo kidney fatal";
+var mnemonic = "scorpion syrup found harbor matrix isolate fabric six circle dry valid entire";

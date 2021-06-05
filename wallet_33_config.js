@@ -1,1 +1,1 @@
-var mnemonic = "garden scare gloom story general labor system canal liar shaft reform lion";
+var mnemonic = "text multiply pool scene laundry unaware company cross shuffle lady notice absorb";

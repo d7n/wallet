@@ -1,1 +1,1 @@
-var mnemonic = "siege brave tissue reduce dilemma ripple sister target flower injury ethics update";
+var mnemonic = "skull cash open omit display about jazz accuse curious modify hand witness";

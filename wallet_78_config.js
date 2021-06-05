@@ -1,1 +1,1 @@
-var mnemonic = "rare wheel name moral twelve rapid legend knee social intact scene yard";
+var mnemonic = "chicken used turn ordinary pulse someone erupt quick squirrel build half excite";

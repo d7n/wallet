@@ -1,1 +1,1 @@
-var mnemonic = "either original intact entire average mass clap outdoor hybrid raw ladder canal";
+var mnemonic = "tuna spoon neutral neutral play arena valley fit salute feed present salon";

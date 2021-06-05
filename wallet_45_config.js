@@ -1,1 +1,1 @@
-var mnemonic = "logic olive dry horse clock crater note film diamond loud measure refuse";
+var mnemonic = "business lady lyrics early thought dragon envelope advice coil copy youth day";

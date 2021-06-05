@@ -1,1 +1,1 @@
-var mnemonic = "fatal bubble embark you smoke curious glove lamp column describe route castle";
+var mnemonic = "aware crater caught lab dose post charge dog stuff silly engage approve";

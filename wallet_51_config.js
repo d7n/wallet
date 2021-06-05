@@ -1,1 +1,1 @@
-var mnemonic = "tumble seat van ready dutch size present brand forget believe number music";
+var mnemonic = "caution giggle gas imitate famous payment popular dentist nice that endless square";

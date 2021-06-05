@@ -1,1 +1,1 @@
-var mnemonic = "copper quarter nerve vacant apart enact tunnel river rail utility dish modify";
+var mnemonic = "rose napkin weekend snow sister select coach ski leaf ankle police step";

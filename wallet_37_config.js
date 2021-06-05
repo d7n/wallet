@@ -1,1 +1,1 @@
-var mnemonic = "cargo roast industry hip top awful margin smoke diet casino balance unaware";
+var mnemonic = "column witness govern judge taste become jaguar local clerk detail spare want";

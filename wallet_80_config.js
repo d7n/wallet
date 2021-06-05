@@ -1,1 +1,1 @@
-var mnemonic = "sword early case boil proof retreat thing angle sure dream morning crack";
+var mnemonic = "omit narrow celery unfair sorry taste engine crumble into obtain celery suggest";

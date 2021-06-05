@@ -1,1 +1,1 @@
-var mnemonic = "pencil copper stage flame stairs smoke member illegal success interest cry wild";
+var mnemonic = "december mail write cheese liquid smooth donkey cattle loop this steak coffee";

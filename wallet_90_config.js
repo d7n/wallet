@@ -1,1 +1,1 @@
-var mnemonic = "coral social relax enable coconut mobile sibling fork finger scare dawn elbow";
+var mnemonic = "road dinner rough trial intact tobacco scare road barely into wild push";

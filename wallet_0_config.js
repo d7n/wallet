@@ -1,1 +1,1 @@
-var mnemonic = "one public silk thing enforce language guide draft depth sand exotic miracle";
+var mnemonic = "universe discover case box surface identify begin ability desert then crouch demise";

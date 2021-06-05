@@ -1,1 +1,1 @@
-var mnemonic = "boost group elevator now bring galaxy easy surface clever clerk wine random";
+var mnemonic = "oven mass caution rigid ten index caution analyst kingdom buyer organ hurry";

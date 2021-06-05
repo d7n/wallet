@@ -1,1 +1,1 @@
-var mnemonic = "name tongue release tape movie cup brave setup stomach adjust tissue option";
+var mnemonic = "express sadness solid media purse below glove size leaf rebel airport bachelor";

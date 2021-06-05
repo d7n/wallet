@@ -1,1 +1,1 @@
-var mnemonic = "pudding then cause valve goddess among wish mystery jacket dice topple swift";
+var mnemonic = "perfect net adult rhythm offer fox glass boss tray exercise wasp hybrid";

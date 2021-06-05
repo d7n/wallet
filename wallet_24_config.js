@@ -1,1 +1,1 @@
-var mnemonic = "stage story prevent inflict key snack mushroom object plate health relief spin";
+var mnemonic = "custom surprise tourist place mass author diet cliff rude round better capital";

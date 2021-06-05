@@ -1,1 +1,1 @@
-var mnemonic = "sick artefact tonight dutch action outside pottery pudding nothing promote alcohol visa";
+var mnemonic = "stamp salt magnet wink inspire bid genre woman jaguar evidence north price";

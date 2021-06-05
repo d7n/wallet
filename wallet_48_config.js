@@ -1,1 +1,1 @@
-var mnemonic = "topple other fruit accuse never soup era confirm present embrace trash front";
+var mnemonic = "water amateur trap muscle oxygen strong pig tag resist antique urge share";

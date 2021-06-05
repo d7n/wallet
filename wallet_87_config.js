@@ -1,1 +1,1 @@
-var mnemonic = "loud cluster cereal beauty spread icon fantasy episode mass exotic mix card";
+var mnemonic = "west clinic grant leisure crisp rebel system caution response chef nest essence";

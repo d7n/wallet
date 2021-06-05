@@ -1,1 +1,1 @@
-var mnemonic = "foam sense keep opera next traffic gain palm labor error elite cruise";
+var mnemonic = "wish three tattoo execute security search shuffle peanut winner inquiry immense eight";

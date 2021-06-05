@@ -1,1 +1,1 @@
-var mnemonic = "right flag trust hen angry this soccer close fade love possible area";
+var mnemonic = "shoot frozen proof clever diary night load breeze wrong place scare poverty";

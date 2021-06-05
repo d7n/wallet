@@ -1,1 +1,1 @@
-var mnemonic = "oyster ranch argue clever unfair walnut gravity sponsor choice orchard echo tube";
+var mnemonic = "oak notable hour chase addict employ brain cruise bunker they feed energy";

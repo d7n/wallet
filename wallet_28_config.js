@@ -1,1 +1,1 @@
-var mnemonic = "glance skill nasty enlist final camera rubber nut elbow latin paddle devote";
+var mnemonic = "gravity drop joke ritual mix awake jealous tattoo chalk tribe wolf hotel";

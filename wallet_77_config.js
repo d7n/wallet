@@ -1,1 +1,1 @@
-var mnemonic = "adjust dream fluid pony poet vague search rapid flavor method surface dog";
+var mnemonic = "power violin middle weasel shoulder sphere limit vital must predict grant digital";

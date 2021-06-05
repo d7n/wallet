@@ -1,1 +1,1 @@
-var mnemonic = "among history above venue social vocal spice enforce have melt example venture";
+var mnemonic = "purity cliff rose feed glow sustain advice left fix jungle check exist";

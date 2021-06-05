@@ -1,1 +1,1 @@
-var mnemonic = "pretty federal army achieve annual slender knee pet elder glimpse castle milk";
+var mnemonic = "silver million axis tissue electric lawsuit acquire dizzy notable pool stem dinner";

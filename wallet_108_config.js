@@ -1,1 +1,1 @@
-var mnemonic = "train flight alien light attend dad hawk warfare file gate talk voyage";
+var mnemonic = "cherry maid lawn undo virus chair symptom faith congress foil bounce loyal";

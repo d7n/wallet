@@ -1,1 +1,1 @@
-var mnemonic = "pulp hidden disease cloth nut credit spray attract curve hammer luxury avoid";
+var mnemonic = "video word define kiss hollow buddy roof blur zoo into direct during";

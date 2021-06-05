@@ -1,1 +1,1 @@
-var mnemonic = "border capital ethics faculty oak fan material bomb fever black enforce fly";
+var mnemonic = "fire pony draft maple love home area tool sudden fire brain foam";

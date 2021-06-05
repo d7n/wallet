@@ -1,1 +1,1 @@
-var mnemonic = "ten palm song gap arrest multiply piano predict kitchen shop trial basic";
+var mnemonic = "champion border minor certain share wealth busy nephew better long view pool";

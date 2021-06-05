@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vault liberty steel nature arch sock ostrich pear jump diesel vicious";
+var mnemonic = "lizard solve enemy draw throw found tongue illness busy cheese jewel mutual";

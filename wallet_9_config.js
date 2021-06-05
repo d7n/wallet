@@ -1,1 +1,1 @@
-var mnemonic = "enemy power jaguar submit stable drift sight picture hybrid drift license pass";
+var mnemonic = "supreme need banana fold person supreme keen slide name kitchen tortoise abuse";

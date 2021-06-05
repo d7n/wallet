@@ -1,1 +1,1 @@
-var mnemonic = "south sausage arrow nominee sibling eye hammer olympic clump silk aunt bid";
+var mnemonic = "prosper debate habit soap impact place barrel high enough dose fuel luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "digital owner duty morning major valley online cannon you false actress mean";
+var mnemonic = "find wing track victory helmet payment addict wet future rug pool soda";

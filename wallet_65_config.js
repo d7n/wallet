@@ -1,1 +1,1 @@
-var mnemonic = "split snow shell later daring nurse advance sea sail pet hunt hill";
+var mnemonic = "celery ramp annual topple wash creek foil erode rare battle gaze skate";

@@ -1,1 +1,1 @@
-var mnemonic = "also laundry anxiety knee motion nuclear cabbage buddy firm stuff cruel share";
+var mnemonic = "egg bicycle bundle jar chicken talent wrap armed south mouse effort ethics";
