@@ -1,1 +1,1 @@
-var mnemonic = "know body sorry margin word transfer alpha expose fragile flight liar deer";
+var mnemonic = "arch illegal century interest vacuum escape black width engine faith desk three";

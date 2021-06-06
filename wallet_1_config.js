@@ -1,1 +1,1 @@
-var mnemonic = "turtle before relief jaguar tragic fashion similar history season gesture casual produce";
+var mnemonic = "forest glove current emotion stool render foster popular addict key pink office";

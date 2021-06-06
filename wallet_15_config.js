@@ -1,1 +1,1 @@
-var mnemonic = "palm potato reform engine indicate erase echo nature add float define almost";
+var mnemonic = "swing hammer frost now advance before cupboard almost actual spider couch candy";

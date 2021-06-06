@@ -1,1 +1,1 @@
-var mnemonic = "truly hybrid canvas auction expand spoil gorilla adapt crucial squeeze muscle stadium";
+var mnemonic = "celery damage panel relax twist sauce phone people balcony lawn estate announce";

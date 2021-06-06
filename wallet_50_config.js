@@ -1,1 +1,1 @@
-var mnemonic = "space convince emotion sport okay because attack gaze horse aunt buffalo bone";
+var mnemonic = "dragon document scissors river reason photo accuse pattern chest romance valid mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "chest plug argue luxury cliff gas oval life come shoulder because manual";
+var mnemonic = "staff betray option cage behave autumn much dry tennis laugh erase medal";

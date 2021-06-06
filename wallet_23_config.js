@@ -1,1 +1,1 @@
-var mnemonic = "siege sadness cattle hub often cart shrimp board differ loop prison despair";
+var mnemonic = "face industry broccoli ostrich diesel area choose place spare style crop mix";

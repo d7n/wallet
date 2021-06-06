@@ -1,1 +1,1 @@
-var mnemonic = "vacant refuse news device language dose vault season remain island rule simple";
+var mnemonic = "bid tonight fiction certain either garden riot mom pen across injury broom";

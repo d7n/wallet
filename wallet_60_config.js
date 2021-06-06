@@ -1,1 +1,1 @@
-var mnemonic = "tongue mail scheme still master frost despair flame pen need uncover use";
+var mnemonic = "slice sadness normal dinosaur relief airport upset deliver vendor raise wrap van";

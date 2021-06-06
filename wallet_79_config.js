@@ -1,1 +1,1 @@
-var mnemonic = "soul panda school pilot smart few illegal cave shallow october february account";
+var mnemonic = "setup then useless despair notice portion salute evolve lake tell rent among";

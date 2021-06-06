@@ -1,1 +1,1 @@
-var mnemonic = "wine catch cry shuffle sausage plate cigar laptop sphere trade north execute";
+var mnemonic = "vague noise exchange exit gas aerobic dog second gather depart day scene";

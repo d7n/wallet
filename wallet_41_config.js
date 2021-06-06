@@ -1,1 +1,1 @@
-var mnemonic = "mango tail bone maple mean volume ketchup baby rough travel bubble gate";
+var mnemonic = "genuine toast carpet face state toss antenna supply original afford nothing library";

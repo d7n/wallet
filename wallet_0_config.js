@@ -1,1 +1,1 @@
-var mnemonic = "hazard faculty then exchange note evolve train either myth depart attend rate";
+var mnemonic = "trim crack film become series prosper girl sister element stove resist arena";

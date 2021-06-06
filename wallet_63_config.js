@@ -1,1 +1,1 @@
-var mnemonic = "edit battle attitude column dress truth fiction minor vintage card federal lion";
+var mnemonic = "file labor damage sport digital retreat rescue liar example moral acid ship";

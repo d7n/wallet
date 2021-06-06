@@ -1,1 +1,1 @@
-var mnemonic = "eternal pluck edit jealous obvious conduct flight valley remember chunk grain deposit";
+var mnemonic = "stuff stuff mask paper chair ocean unaware cradle endless steak rug forum";

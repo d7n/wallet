@@ -1,1 +1,1 @@
-var mnemonic = "dice baby crystal exotic daughter exhibit divorce bring put tube verify movie";
+var mnemonic = "minor taxi anxiety trigger obey peace feed dune fine exile crisp pipe";

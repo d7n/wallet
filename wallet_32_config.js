@@ -1,1 +1,1 @@
-var mnemonic = "possible flip point curtain comfort pupil emotion skin various anger review token";
+var mnemonic = "clinic clown brave step wool blouse special edit sand narrow post devote";

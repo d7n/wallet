@@ -1,1 +1,1 @@
-var mnemonic = "remember blast humble hour album flee robust rifle maple focus breeze gaze";
+var mnemonic = "dawn axis bounce example result mind toddler early theme express faith muscle";

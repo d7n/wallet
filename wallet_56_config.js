@@ -1,1 +1,1 @@
-var mnemonic = "mobile ripple syrup author submit grant disagree image choose nut fitness fame";
+var mnemonic = "few repeat tilt rebuild dynamic wealth debate practice adapt network very black";

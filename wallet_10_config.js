@@ -1,1 +1,1 @@
-var mnemonic = "carpet impose fetch voyage slab loud work depth repair pull bleak taxi";
+var mnemonic = "board release honey nature verify practice hole battle december pumpkin decline since";

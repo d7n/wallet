@@ -1,1 +1,1 @@
-var mnemonic = "short moon script powder embody kiss style wash start trust power destroy";
+var mnemonic = "parade steel army tell stick casual music shell cry when wide gadget";

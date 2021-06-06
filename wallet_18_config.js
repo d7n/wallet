@@ -1,1 +1,1 @@
-var mnemonic = "unable myself lonely surprise hint help session violin unveil tennis cream three";
+var mnemonic = "tiny surge envelope pigeon blur own mutual ride cause midnight salad vague";

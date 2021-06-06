@@ -1,1 +1,1 @@
-var mnemonic = "winner muffin used avoid program legend purse rail panel flower label morning";
+var mnemonic = "citizen melody knife gaze escape chaos range field addict eyebrow fatal dad";

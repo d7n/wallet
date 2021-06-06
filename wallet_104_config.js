@@ -1,1 +1,1 @@
-var mnemonic = "practice color heavy profit copper artwork audit indoor leopard hazard earn brother";
+var mnemonic = "bottom post room vendor behind rather lyrics wrist fog crush dice swarm";

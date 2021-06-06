@@ -1,1 +1,1 @@
-var mnemonic = "bone good render lonely gauge air slow cross duck use cotton fault";
+var mnemonic = "indoor refuse feel orange interest family zoo erosion jeans radar region trumpet";

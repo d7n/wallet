@@ -1,1 +1,1 @@
-var mnemonic = "crane jewel reunion elder else pumpkin hub garlic truly hobby toward album";
+var mnemonic = "actor purity load tragic weather zebra culture voice dash maze guide man";

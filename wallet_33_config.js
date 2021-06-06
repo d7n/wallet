@@ -1,1 +1,1 @@
-var mnemonic = "mutual today scatter axis notice office table rebuild erupt level tackle best";
+var mnemonic = "struggle foster mosquito monitor city solar caught basket retreat behind apple easy";

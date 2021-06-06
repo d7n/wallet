@@ -1,1 +1,1 @@
-var mnemonic = "april danger amateur inhale vacant loan among era sniff resource fragile patient";
+var mnemonic = "then process blade spoon keen dolphin expire conduct alley trap egg erode";

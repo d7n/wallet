@@ -1,1 +1,1 @@
-var mnemonic = "minute liquid charge frog news tape fly medal fall admit badge wrist";
+var mnemonic = "expose quality offer blanket cradle science stadium maximum major post island mention";

@@ -1,1 +1,1 @@
-var mnemonic = "process fan company push key entry case across author distance recycle eight";
+var mnemonic = "hire mistake recipe crawl father obey window clutch license case just cereal";

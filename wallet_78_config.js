@@ -1,1 +1,1 @@
-var mnemonic = "broken settle office like soul report magnet narrow march evidence fame all";
+var mnemonic = "clip vacant matrix poem unknown loud salad candy month enhance snake gloom";

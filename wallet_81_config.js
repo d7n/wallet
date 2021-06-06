@@ -1,1 +1,1 @@
-var mnemonic = "distance dentist output hurt twice plug celery blue annual rack tribe poet";
+var mnemonic = "car pink advance neutral ocean setup episode vast pink host flash exile";

@@ -1,1 +1,1 @@
-var mnemonic = "frost flush prison margin marine gossip sunset trial minor snake drink mosquito";
+var mnemonic = "speak exile file pistol father session enforce tiger grow race jacket model";

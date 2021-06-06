@@ -1,1 +1,1 @@
-var mnemonic = "soon gossip case hip fiscal stone hand toss celery guilt account animal";
+var mnemonic = "laundry genius echo lesson practice time swallow pizza man bargain primary lizard";

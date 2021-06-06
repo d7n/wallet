@@ -1,1 +1,1 @@
-var mnemonic = "pizza poet siege pyramid author feed birth future basic liberty olympic guess";
+var mnemonic = "raw occur stereo festival picture stick resemble okay weapon dose peace wing";

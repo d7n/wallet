@@ -1,1 +1,1 @@
-var mnemonic = "include lift erode reveal crazy ranch industry cat potato hip equal box";
+var mnemonic = "sibling drip rifle viable diesel waste shrug kind hip excite group actress";

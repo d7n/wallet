@@ -1,1 +1,1 @@
-var mnemonic = "differ exotic chimney street hard reason sick coyote crouch upper height still";
+var mnemonic = "wage easily habit luxury seminar foil else jeans radio ethics enable relief";

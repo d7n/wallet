@@ -1,1 +1,1 @@
-var mnemonic = "claim model ankle pistol drama suit turkey never monster dilemma soap boy";
+var mnemonic = "lady valve language tilt observe shed orient hand rate practice rival forward";

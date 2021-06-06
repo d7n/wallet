@@ -1,1 +1,1 @@
-var mnemonic = "gallery loop coconut tool text soft notable custom puppy clutch between swap";
+var mnemonic = "wedding assault raven cost taxi entry scan one unfold agree cheap super";

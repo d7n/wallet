@@ -1,1 +1,1 @@
-var mnemonic = "fetch caught shed logic snack wish album use pause icon asset shaft";
+var mnemonic = "siren wet copper envelope cliff miss avoid journey identify decade caught defy";

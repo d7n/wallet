@@ -1,1 +1,1 @@
-var mnemonic = "camera calm talk tenant piece click guitar mom cereal episode west slot";
+var mnemonic = "hazard bone pepper neck wall gaze nurse transfer video theme ten leave";

@@ -1,1 +1,1 @@
-var mnemonic = "find clay huge rural visual coffee duck school grant student prize pioneer";
+var mnemonic = "mango dress mansion tool liar relax over praise october forest mask always";

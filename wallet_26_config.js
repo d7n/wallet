@@ -1,1 +1,1 @@
-var mnemonic = "similar nose act extend lazy raccoon whip resource potato crunch forget strategy";
+var mnemonic = "gallery either this inside marriage save weird believe unaware endless filter same";

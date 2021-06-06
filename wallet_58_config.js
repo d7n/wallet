@@ -1,1 +1,1 @@
-var mnemonic = "rabbit lady run brick surprise crisp trial timber bitter engine predict talk";
+var mnemonic = "pelican fiction sun project under fuel portion evidence evoke zebra frozen stereo";

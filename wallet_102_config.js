@@ -1,1 +1,1 @@
-var mnemonic = "team idea improve slush cake provide bag also flip spatial cement spike";
+var mnemonic = "pen series help rack nerve elevator area moral fringe normal forest real";

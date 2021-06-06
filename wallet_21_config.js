@@ -1,1 +1,1 @@
-var mnemonic = "outside floor dinosaur cactus mix student brave crush sustain husband nephew wrestle";
+var mnemonic = "donate orient that moment repair disagree wall market journey repeat awake spy";

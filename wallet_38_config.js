@@ -1,1 +1,1 @@
-var mnemonic = "label perfect sense feed airport swamp patch silent vocal this giant flash";
+var mnemonic = "pear any liberty oak amazing kind drift air fade hammer spirit educate";

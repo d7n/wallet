@@ -1,1 +1,1 @@
-var mnemonic = "print initial tool move price ginger frost tragic wish dynamic afraid cool";
+var mnemonic = "forward crack pigeon crawl often hint have reward version another position produce";

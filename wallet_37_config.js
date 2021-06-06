@@ -1,1 +1,1 @@
-var mnemonic = "father leopard cook abstract lamp apple position arrest loan frame tree afraid";
+var mnemonic = "punch whisper office high source garden submit equal brass quote street shell";

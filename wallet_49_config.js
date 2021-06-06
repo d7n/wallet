@@ -1,1 +1,1 @@
-var mnemonic = "again tide cement leopard air foster shell grow broken usual arch spray";
+var mnemonic = "source scene poem unit capable alley artist know weird air concert repair";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor radio barrel veteran shy crop guide endorse unhappy rent glove parrot";
+var mnemonic = "safe pave camera soft advice erase desert potato burden face violin addict";

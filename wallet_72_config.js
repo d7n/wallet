@@ -1,1 +1,1 @@
-var mnemonic = "try finish coil clog worth elephant hurdle fever capable hurry brain wasp";
+var mnemonic = "stem unfair leave network odor trumpet foster van tortoise razor sweet siren";

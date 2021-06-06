@@ -1,1 +1,1 @@
-var mnemonic = "usage please van guilt canoe subway million chef fly error armor dash";
+var mnemonic = "later throw sport sing ripple original name nothing local diesel lift envelope";

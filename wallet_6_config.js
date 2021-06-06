@@ -1,1 +1,1 @@
-var mnemonic = "illegal display polar basket table absent jar pretty october feel disagree lesson";
+var mnemonic = "friend myself asset host lift enhance angry oven sausage online wood bless";

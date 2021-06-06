@@ -1,1 +1,1 @@
-var mnemonic = "jungle inner fury pistol cabin island innocent yellow flat escape ecology volume";
+var mnemonic = "airport zebra december deliver trick cabin physical enough soap amazing bacon beach";

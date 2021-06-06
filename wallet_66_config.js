@@ -1,1 +1,1 @@
-var mnemonic = "decade magic motor decide visa despair animal maid void hospital first mean";
+var mnemonic = "crazy enlist desk remain parrot material charge surprise into polar inch pole";

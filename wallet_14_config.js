@@ -1,1 +1,1 @@
-var mnemonic = "amused father just goat ladder match rival thing forget history business spider";
+var mnemonic = "rib agree silly oil distance much rather course someone merry senior horn";

@@ -1,1 +1,1 @@
-var mnemonic = "rather cycle rapid usual reward reunion know merry shrimp short announce have";
+var mnemonic = "hunt memory current obtain pear foam kingdom palm coral horse long organ";

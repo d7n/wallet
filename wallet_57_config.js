@@ -1,1 +1,1 @@
-var mnemonic = "collect cargo stomach stomach crowd change evidence rude orient clock cram humble";
+var mnemonic = "hip bid practice amount sweet wire put genuine suspect leader wire palm";

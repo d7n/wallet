@@ -1,1 +1,1 @@
-var mnemonic = "nice insect razor sock leopard math mandate diamond enjoy hungry evoke thing";
+var mnemonic = "method input hero century dismiss tilt orient spirit what wolf picture despair";

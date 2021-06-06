@@ -1,1 +1,1 @@
-var mnemonic = "trip about help defense blur degree mango live prosper dizzy man learn";
+var mnemonic = "wolf fire flavor raise blue peanut hurdle monkey unfair surprise adapt essence";

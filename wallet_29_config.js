@@ -1,1 +1,1 @@
-var mnemonic = "parent young benefit bitter safe diesel walk slight opera dizzy manage mix";
+var mnemonic = "hover argue improve satisfy little tumble loan artist glow juice finger voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble announce paddle utility joke sustain below sell venue calm air number";
+var mnemonic = "raise robust brass trim stay together cluster program piece frown bamboo work";

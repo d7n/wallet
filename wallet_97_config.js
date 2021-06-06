@@ -1,1 +1,1 @@
-var mnemonic = "kidney nature dove razor develop click select web vessel endless romance bitter";
+var mnemonic = "interest stand identify fancy olive accuse seven off equip job lonely dog";

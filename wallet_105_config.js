@@ -1,1 +1,1 @@
-var mnemonic = "patch sugar harvest blur genuine soap senior phone cactus insect rent lab";
+var mnemonic = "depart wet verb smart gather head bread bachelor exit theme genuine addict";

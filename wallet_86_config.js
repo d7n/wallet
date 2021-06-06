@@ -1,1 +1,1 @@
-var mnemonic = "bullet today crowd exact heart install furnace project blood screen daring drill";
+var mnemonic = "host expect fame over kitten morning wheel rate double cause wish frog";

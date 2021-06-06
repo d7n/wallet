@@ -1,1 +1,1 @@
-var mnemonic = "hungry meadow peace chuckle bar word setup pizza spot roof loop unhappy";
+var mnemonic = "pumpkin edge actor type grab turn actress tape one figure uncle frown";

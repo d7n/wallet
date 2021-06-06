@@ -1,1 +1,1 @@
-var mnemonic = "earth theme luxury tunnel excess virus town bright crater major off dumb";
+var mnemonic = "sauce pistol exhaust into earth crater draft shift giant observe oblige connect";

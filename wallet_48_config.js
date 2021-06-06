@@ -1,1 +1,1 @@
-var mnemonic = "exercise hurry ridge wire unhappy horror proof autumn blush lift object nation";
+var mnemonic = "coach slide rally cigar neutral bamboo kiwi maze absorb amount shoe veteran";

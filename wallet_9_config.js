@@ -1,1 +1,1 @@
-var mnemonic = "apple answer hedgehog eternal cup urban town rich push syrup boost track";
+var mnemonic = "cricket brown lounge bacon planet total eagle assume ensure ahead material grain";

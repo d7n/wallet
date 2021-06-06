@@ -1,1 +1,1 @@
-var mnemonic = "strong october okay reunion garage genius fire shoe reduce great square gospel";
+var mnemonic = "acoustic rural satoshi viable phone ill join faith absurd brain tip canoe";

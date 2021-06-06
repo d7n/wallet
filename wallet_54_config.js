@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pet bounce tourist welcome feed column age cabin catalog girl genre";
+var mnemonic = "cool symptom toe guess venue true local bounce deal world laundry laptop";

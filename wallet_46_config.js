@@ -1,1 +1,1 @@
-var mnemonic = "lawn region inquiry damp meat solve host swing foot catalog ability one";
+var mnemonic = "punch worth concert raven donkey deliver kiss elder nut fuel describe record";

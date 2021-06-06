@@ -1,1 +1,1 @@
-var mnemonic = "hire road route alien capital wolf survey where dawn aerobic pitch arrest";
+var mnemonic = "utility phrase gossip mother occur noodle fresh valley dash firm faint vocal";

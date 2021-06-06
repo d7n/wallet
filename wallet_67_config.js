@@ -1,1 +1,1 @@
-var mnemonic = "viable solution cloth lunch initial embark crucial math frown ritual urban twenty";
+var mnemonic = "vintage stone broccoli unfair stick predict west possible oak jacket pole drama";

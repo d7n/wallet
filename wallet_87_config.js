@@ -1,1 +1,1 @@
-var mnemonic = "mule have elegant diamond solve rose laugh robot give wisdom regular name";
+var mnemonic = "lock focus claw tongue cart alien relax chronic gadget breeze loud diet";

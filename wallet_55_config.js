@@ -1,1 +1,1 @@
-var mnemonic = "empty busy yard iron basket wool sing near market announce wait valley";
+var mnemonic = "sell blame jungle poet language yard naive bean horse cabbage inch swift";

@@ -1,1 +1,1 @@
-var mnemonic = "under giant sponsor quality benefit make dynamic renew uncover fish adapt turn";
+var mnemonic = "sick replace run sad reflect faculty course thing area model diamond video";

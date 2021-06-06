@@ -1,1 +1,1 @@
-var mnemonic = "stool math power captain play hazard gun swift force street usual budget";
+var mnemonic = "sort penalty exit typical van diesel ticket bachelor unaware trust narrow dice";

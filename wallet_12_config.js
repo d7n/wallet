@@ -1,1 +1,1 @@
-var mnemonic = "toss depend there bacon radar powder fury alpha fog void antique spike";
+var mnemonic = "media essence critic hard famous valid ability stove base deposit uphold decline";

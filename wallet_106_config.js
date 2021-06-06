@@ -1,1 +1,1 @@
-var mnemonic = "waste slush carbon crew identify bomb snap wife answer fence vicious pyramid";
+var mnemonic = "print album truly envelope holiday donkey soccer voice broken armed noble walnut";

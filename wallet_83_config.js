@@ -1,1 +1,1 @@
-var mnemonic = "reform review mistake joke off churn air acoustic owner box answer jaguar";
+var mnemonic = "choice delay pink safe mom exchange annual abandon virus dog pave submit";

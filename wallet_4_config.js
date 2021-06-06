@@ -1,1 +1,1 @@
-var mnemonic = "stuff mean glad decade mix like phrase bind riot dune smoke galaxy";
+var mnemonic = "turn ankle habit loan dutch laundry enact abstract ankle hard ensure hood";

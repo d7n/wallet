@@ -1,1 +1,1 @@
-var mnemonic = "admit know protect scrap excess velvet fortune oval jelly seat total suggest";
+var mnemonic = "access utility salmon memory code final feel begin deny science anger faculty";

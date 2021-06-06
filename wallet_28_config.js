@@ -1,1 +1,1 @@
-var mnemonic = "useful heart switch pioneer jump spider idle lock order blast come call";
+var mnemonic = "add cause floor receive people possible first property surge sketch hood write";

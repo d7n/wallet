@@ -1,1 +1,1 @@
-var mnemonic = "treat certain call hill beach auction cycle naive then goat general slow";
+var mnemonic = "rate knee solar ordinary side fiber uniform squeeze win horn stamp athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "just post whale auction test marine laugh way suggest school remain crystal";
+var mnemonic = "few debris vapor camera burger tomato home skull tilt hollow crunch theme";
