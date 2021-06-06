@@ -1,1 +1,1 @@
-var mnemonic = "goddess manage bird lens ecology dish ceiling problem cushion horse clap funny";
+var mnemonic = "disagree rug ice fan extra cram throw pet van front online script";

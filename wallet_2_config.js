@@ -1,1 +1,1 @@
-var mnemonic = "talent follow ask shallow result canal hour item punch walnut west fluid";
+var mnemonic = "match post embody pulse betray drive when success zone spatial few gas";

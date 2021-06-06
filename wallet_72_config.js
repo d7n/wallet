@@ -1,1 +1,1 @@
-var mnemonic = "own choice february reason expand two sad bird napkin habit load pool";
+var mnemonic = "myself team picture tornado speed retreat element unlock hand elephant discover frown";

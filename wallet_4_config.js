@@ -1,1 +1,1 @@
-var mnemonic = "bargain rose siren piece usage heavy noise cradle reveal shop shadow adult";
+var mnemonic = "creek page neutral harsh enroll frequent primary woman vast toast pizza orbit";

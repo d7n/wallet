@@ -1,1 +1,1 @@
-var mnemonic = "rookie slide cement team onion labor glass slab pottery phrase praise front";
+var mnemonic = "garment maximum abandon sort wide dove treat three decline cross motor claim";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie genius scene innocent extend exile call meadow special primary tool skill";
+var mnemonic = "owner race undo involve apart glimpse split body destroy page gossip arrest";

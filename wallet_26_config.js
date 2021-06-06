@@ -1,1 +1,1 @@
-var mnemonic = "armed record lobster jelly kiss limb fetch category exchange nurse churn border";
+var mnemonic = "blossom stomach umbrella just raccoon clinic thank bridge drink fragile few job";

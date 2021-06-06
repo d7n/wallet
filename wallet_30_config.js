@@ -1,1 +1,1 @@
-var mnemonic = "luggage fortune power able local output height net foster simple tail awake";
+var mnemonic = "devote concert arrow monitor prize assault gap flash power manual caught sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "later tongue top sorry fit arctic rotate dune best autumn retire tomato";
+var mnemonic = "hope yard recall clutch flat offer hole such else fence endless capital";

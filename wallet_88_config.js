@@ -1,1 +1,1 @@
-var mnemonic = "salt once snap frozen bonus wisdom burst damage flavor envelope employ runway";
+var mnemonic = "blind oak isolate crew solution profit bulk claim runway gaze frame income";

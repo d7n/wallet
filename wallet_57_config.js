@@ -1,1 +1,1 @@
-var mnemonic = "aim royal weapon silly plunge buffalo subway hello walnut army panel stage";
+var mnemonic = "rack language lawsuit rather delay lemon load crack list news table stock";

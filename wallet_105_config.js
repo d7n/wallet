@@ -1,1 +1,1 @@
-var mnemonic = "grant whisper stereo endless away garment spoil very finish promote crunch flower";
+var mnemonic = "brush supply unhappy youth small finish educate sleep scrub scene enter destroy";

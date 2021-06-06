@@ -1,1 +1,1 @@
-var mnemonic = "roast exchange close brush elder squirrel soccer february crucial priority sock sweet";
+var mnemonic = "defy enforce drip bar horn olive document property salad tumble autumn calm";

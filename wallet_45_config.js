@@ -1,1 +1,1 @@
-var mnemonic = "route young renew cash abuse crucial magnet hungry victory exit easy recycle";
+var mnemonic = "claim kite drum girl used cave because month unusual prosper couple hamster";

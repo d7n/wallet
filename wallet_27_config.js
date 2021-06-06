@@ -1,1 +1,1 @@
-var mnemonic = "list pulp today dumb turtle kitchen spread butter mirror casino common tape";
+var mnemonic = "space divide vital actor reveal disagree damp artist van appear index diamond";

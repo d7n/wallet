@@ -1,1 +1,1 @@
-var mnemonic = "pretty quick title beef horror scrap slight hollow foam vanish jelly match";
+var mnemonic = "club weather approve trouble comic forum giraffe lawn above hole there inch";

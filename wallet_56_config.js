@@ -1,1 +1,1 @@
-var mnemonic = "cotton famous vanish vivid like educate urge trade venue private glue jacket";
+var mnemonic = "antenna devote shrug bean era swing pear subway luxury festival forum science";

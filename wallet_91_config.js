@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit neither upper design trigger diet stay erosion journey unfair sort afraid";
+var mnemonic = "advance uncover inform harbor giraffe tornado right style broccoli west barrel minute";

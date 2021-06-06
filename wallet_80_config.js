@@ -1,1 +1,1 @@
-var mnemonic = "broom source garlic robust fossil setup brick autumn high stumble surge guide";
+var mnemonic = "casual garlic palm increase run grant crane boost scissors seven credit world";

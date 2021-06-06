@@ -1,1 +1,1 @@
-var mnemonic = "cabbage crew glory lunar cradle coffee wet left habit net horse library";
+var mnemonic = "defense stick black clever kid swap ugly gate convince unhappy prepare jealous";

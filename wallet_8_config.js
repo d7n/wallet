@@ -1,1 +1,1 @@
-var mnemonic = "initial legend gauge explain tomorrow hazard aspect welcome used crew fly hundred";
+var mnemonic = "cage orange plate dog fringe decline certain tattoo blossom grid razor beauty";

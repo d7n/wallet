@@ -1,1 +1,1 @@
-var mnemonic = "meadow basic wrap toast ugly vintage sausage famous business time fragile head";
+var mnemonic = "hazard project crane horror scene bid monitor draw bullet weasel one debate";

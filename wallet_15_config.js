@@ -1,1 +1,1 @@
-var mnemonic = "vital mammal clever idle moment dwarf reunion plunge gun physical ice anger";
+var mnemonic = "lunch estate include unaware dwarf side tell magic attend endorse maze must";

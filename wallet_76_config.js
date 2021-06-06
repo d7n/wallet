@@ -1,1 +1,1 @@
-var mnemonic = "thumb picnic fancy car excite thing struggle divide kit flock call people";
+var mnemonic = "message dance alcohol elbow flower crisp diesel bar must once seminar lab";

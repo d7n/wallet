@@ -1,1 +1,1 @@
-var mnemonic = "token enable someone drum assist club firm theory poet need vapor wait";
+var mnemonic = "moral melt east globe water august rice giggle peace walnut chimney saddle";

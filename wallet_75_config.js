@@ -1,1 +1,1 @@
-var mnemonic = "ethics angle clinic traffic unveil alter emerge drink zebra grunt drink snap";
+var mnemonic = "benefit tank network whip lazy coil skate leaf business ostrich acquire round";

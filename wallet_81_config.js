@@ -1,1 +1,1 @@
-var mnemonic = "woman coach physical butter nose rude diet duty lumber achieve harsh toe";
+var mnemonic = "future element sad spend furnace maple author slide ready guess avoid near";

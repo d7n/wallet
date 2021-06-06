@@ -1,1 +1,1 @@
-var mnemonic = "south green broken anchor tackle screen matrix trial night convince jump crime";
+var mnemonic = "glory toward tray wagon ugly marble robust dinosaur awesome unveil tortoise gown";

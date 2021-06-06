@@ -1,1 +1,1 @@
-var mnemonic = "same laugh wagon gloom skin vague arrow satoshi silent effort member rural";
+var mnemonic = "symbol amazing risk cluster sell siege method feature stick six demand expand";

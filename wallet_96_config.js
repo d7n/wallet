@@ -1,1 +1,1 @@
-var mnemonic = "mean receive tent forum key hold couch juice page muscle scare improve";
+var mnemonic = "keen drink bullet vendor release caught warrior acoustic promote solid dance close";

@@ -1,1 +1,1 @@
-var mnemonic = "empty melody pear oyster cabin fuel buffalo pool brush reason cloud clump";
+var mnemonic = "spirit little tip early climb large people ketchup soccer mesh spell draft";

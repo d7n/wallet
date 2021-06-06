@@ -1,1 +1,1 @@
-var mnemonic = "fancy exile host vapor blood ghost bright meat bullet spike apart paper";
+var mnemonic = "direct oven song dune wreck shaft dizzy horror group cycle monkey bird";

@@ -1,1 +1,1 @@
-var mnemonic = "summer sister crystal derive shaft night enjoy require leave coyote office bring";
+var mnemonic = "festival oak feed ritual add abuse sun border clump update off addict";

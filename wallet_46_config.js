@@ -1,1 +1,1 @@
-var mnemonic = "detail walk vintage sock ability rebuild behind save manage asthma roast ecology";
+var mnemonic = "fabric uphold army local gasp rebuild lemon street ignore risk flip foam";

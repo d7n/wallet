@@ -1,1 +1,1 @@
-var mnemonic = "hope antique noodle term hammer blade trash family sea fork donor similar";
+var mnemonic = "slab mirror excess spatial release feel try snack spring vessel ivory flip";

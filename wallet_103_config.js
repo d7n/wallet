@@ -1,1 +1,1 @@
-var mnemonic = "record rival start dash ketchup market reject pigeon message quarter story humble";
+var mnemonic = "prosper vault ask ivory orbit suggest strategy leg wage hair melt portion";

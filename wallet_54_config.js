@@ -1,1 +1,1 @@
-var mnemonic = "point marriage shuffle hammer monitor dove absent damage sadness install always alpha";
+var mnemonic = "retire victory gorilla pact scatter planet unfold reform believe gas figure similar";

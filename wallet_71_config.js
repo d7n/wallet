@@ -1,1 +1,1 @@
-var mnemonic = "salute noodle long impact announce fabric medal solar fire blouse fruit hundred";
+var mnemonic = "armed switch gown artwork round nation rare pigeon little transfer blast script";

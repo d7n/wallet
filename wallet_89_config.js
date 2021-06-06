@@ -1,1 +1,1 @@
-var mnemonic = "fabric dwarf motion achieve rabbit drama cable glove divert glue sweet suit";
+var mnemonic = "figure long pledge uncover glare great catch panda orient alley genius smoke";

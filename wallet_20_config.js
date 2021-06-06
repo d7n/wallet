@@ -1,1 +1,1 @@
-var mnemonic = "flight maple habit scissors situate account express people remember indicate arrow veteran";
+var mnemonic = "antique shoe strike lesson find crack excite glimpse wet average talent engine";

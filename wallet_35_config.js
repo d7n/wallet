@@ -1,1 +1,1 @@
-var mnemonic = "dolphin unusual apology neglect round skill veteran account transfer fence final derive";
+var mnemonic = "genre pitch engage enrich spin region organ cabbage crucial island pizza catalog";

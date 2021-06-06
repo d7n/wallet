@@ -1,1 +1,1 @@
-var mnemonic = "left common loan excess bright outside that cram trip maid limb tribe";
+var mnemonic = "payment kiss prefer index office deliver album cabbage garage fancy arrest meat";

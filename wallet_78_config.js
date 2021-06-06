@@ -1,1 +1,1 @@
-var mnemonic = "melody ring shoot author pond surge black disorder stage control decrease enforce";
+var mnemonic = "scare soda eager matter birth wet diesel expose ginger please carry around";

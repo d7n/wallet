@@ -1,1 +1,1 @@
-var mnemonic = "crouch aware slide brisk rotate extra drop marine congress silk evil cycle";
+var mnemonic = "dad turtle cave crater anxiety rally employ expire attack absorb swallow treat";

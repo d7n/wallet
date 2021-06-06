@@ -1,1 +1,1 @@
-var mnemonic = "rotate split fan bind swarm cook allow good agent entry kid farm";
+var mnemonic = "rubber allow marble feature cushion two cannon fashion enact kiss risk winner";

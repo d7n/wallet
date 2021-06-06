@@ -1,1 +1,1 @@
-var mnemonic = "skull ten churn car laugh tragic hen pill special prevent employ staff";
+var mnemonic = "idle thrive genius dinosaur cloud jazz witness casino sick phrase ancient visit";

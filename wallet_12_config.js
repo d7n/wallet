@@ -1,1 +1,1 @@
-var mnemonic = "pride matrix thank patch relief install pepper level endless sleep guilt search";
+var mnemonic = "easily machine ring wise essay gain market health write auto dirt tattoo";

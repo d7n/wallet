@@ -1,1 +1,1 @@
-var mnemonic = "aspect wreck ecology food peanut present actor toss then prefer horn pledge";
+var mnemonic = "salmon tooth firm expose dial vendor vocal private metal lumber typical aspect";

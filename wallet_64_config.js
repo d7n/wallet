@@ -1,1 +1,1 @@
-var mnemonic = "sure promote tail sketch lazy liar kitchen clay nose blur garage patch";
+var mnemonic = "share fiction riot okay mandate say still damage season dance panel snow";

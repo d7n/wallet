@@ -1,1 +1,1 @@
-var mnemonic = "eye replace duty hub cable rail load bacon cargo grant ball body";
+var mnemonic = "desk token top venture crater rug beyond discover dust blade planet record";

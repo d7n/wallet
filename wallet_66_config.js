@@ -1,1 +1,1 @@
-var mnemonic = "sweet law junk usage chapter lazy barely speed update earn nature odor";
+var mnemonic = "quality someone seek move boring hazard harsh add basket attitude brand dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "orange trumpet alien remind travel quiz smart bomb develop audit turn mirror";
+var mnemonic = "mammal auction sniff gun erase lunar useless penalty vicious wrist delay always";

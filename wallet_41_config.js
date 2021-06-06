@@ -1,1 +1,1 @@
-var mnemonic = "pet argue own crazy palm hub tragic start nose airport super predict";
+var mnemonic = "panel source crush version scene flower ostrich act mountain please craft scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "broom wash hint wild dumb chair double morning real river seat enough";
+var mnemonic = "van hold car match month vapor absorb citizen dad middle enlist always";

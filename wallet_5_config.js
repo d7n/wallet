@@ -1,1 +1,1 @@
-var mnemonic = "grab walnut piece bamboo music file bamboo skill report gloom among above";
+var mnemonic = "bubble damage mind bag tide gift home riot atom either save crucial";

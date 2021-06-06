@@ -1,1 +1,1 @@
-var mnemonic = "entry album direct pave junk minimum impose describe flower shop nice risk";
+var mnemonic = "any tenant chuckle census radio sample truck drip unaware brain camp unfair";

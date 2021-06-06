@@ -1,1 +1,1 @@
-var mnemonic = "peasant all brush net patrol glimpse wide hawk gallery inch beach supreme";
+var mnemonic = "mirror desert fitness maple upon deal whisper flock parade nice wedding beyond";

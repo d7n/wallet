@@ -1,1 +1,1 @@
-var mnemonic = "good soccer miracle vessel engage journey demand dinner asset worry shoot amused";
+var mnemonic = "coconut okay feed usage snake prosper case leg state slim prefer timber";

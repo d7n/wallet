@@ -1,1 +1,1 @@
-var mnemonic = "lift miss nasty pizza trumpet nation home despair enough puppy occur cup";
+var mnemonic = "middle nephew ramp craft assist lesson subject garage silk reopen chaos comfort";

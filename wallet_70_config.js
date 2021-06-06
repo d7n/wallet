@@ -1,1 +1,1 @@
-var mnemonic = "behave tip cream security busy silver primary detect economy sibling luxury page";
+var mnemonic = "object corn pledge exercise kiwi dove size expose honey lend club kingdom";

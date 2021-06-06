@@ -1,1 +1,1 @@
-var mnemonic = "cycle someone fork frozen together present swallow attack property cook topic injury";
+var mnemonic = "together edit assume swamp rice avocado fatal witness acquire marriage depth tree";

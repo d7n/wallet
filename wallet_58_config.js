@@ -1,1 +1,1 @@
-var mnemonic = "vital update coyote orchard art sun walk club easy volcano vocal around";
+var mnemonic = "fence giggle grocery sauce food decorate video icon medal banana leader this";

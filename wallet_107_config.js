@@ -1,1 +1,1 @@
-var mnemonic = "talent want tourist stadium apology tag clever raccoon pyramid marriage vicious disease";
+var mnemonic = "follow adapt similar turkey link link hungry artefact morning occur dress detail";

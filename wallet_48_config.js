@@ -1,1 +1,1 @@
-var mnemonic = "series camera hire street more auto rent okay excite prepare segment ritual";
+var mnemonic = "upper flat trophy size wife practice human flock access artwork machine pond";

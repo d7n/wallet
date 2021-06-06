@@ -1,1 +1,1 @@
-var mnemonic = "inch cruel barely picture trigger length genius permit hire midnight story recycle";
+var mnemonic = "small useless crucial say tilt lens butter kiwi fatigue possible slide make";

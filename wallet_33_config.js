@@ -1,1 +1,1 @@
-var mnemonic = "file physical delay one isolate cool accuse wreck know heart school quick";
+var mnemonic = "broccoli pumpkin weapon entry trend perfect wrap wine history between fiber board";

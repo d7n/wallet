@@ -1,1 +1,1 @@
-var mnemonic = "general guard heart since crowd plate nest surround senior differ return act";
+var mnemonic = "fish annual depart enemy glide tool laundry major inner mass mutual vacuum";

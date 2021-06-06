@@ -1,1 +1,1 @@
-var mnemonic = "hand inflict movie usual ancient total asthma apple tube invest census yard";
+var mnemonic = "beyond dawn engage between vault abstract glimpse chest draft give doctor quiz";

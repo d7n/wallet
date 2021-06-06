@@ -1,1 +1,1 @@
-var mnemonic = "water hope accident warfare knife mesh reform pilot mother box sugar truly";
+var mnemonic = "leaf lamp bargain violin wink decade average duty sense horror voyage erosion";

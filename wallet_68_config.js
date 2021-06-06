@@ -1,1 +1,1 @@
-var mnemonic = "tree empty dance fabric taxi demise lucky suspect mansion attract hire animal";
+var mnemonic = "unable minimum purpose energy rack hospital humble grunt accident olive false empty";

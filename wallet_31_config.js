@@ -1,1 +1,1 @@
-var mnemonic = "remain pave promote upgrade gown boil first nasty foster wrap culture era";
+var mnemonic = "banana tell execute genius mansion bargain owner wave divert drastic isolate fog";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog fitness time shaft sorry pride job easily file faint short define";
+var mnemonic = "roof piano advance grab indoor wait advice explain visa cricket census target";

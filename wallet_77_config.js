@@ -1,1 +1,1 @@
-var mnemonic = "rely nurse correct before monitor unique method assist author hair wheel forum";
+var mnemonic = "tag letter hair stock mixture carry final table tragic lion mind pledge";

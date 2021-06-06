@@ -1,1 +1,1 @@
-var mnemonic = "term usual appear marriage receive crater despair mesh cloth quote person dynamic";
+var mnemonic = "imitate injury foil result toe want hollow discover obey reason traffic robust";

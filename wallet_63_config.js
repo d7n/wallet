@@ -1,1 +1,1 @@
-var mnemonic = "risk twin brick rack step frown basket soup climb involve sting friend";
+var mnemonic = "black theme erosion capable topic sport indoor culture deer olive ski derive";

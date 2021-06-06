@@ -1,1 +1,1 @@
-var mnemonic = "camp track cabbage search mechanic web injury pottery rail option olympic capable";
+var mnemonic = "predict major question safe voyage group pilot bubble sauce hub canal code";

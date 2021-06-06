@@ -1,1 +1,1 @@
-var mnemonic = "erupt refuse imitate isolate ill advice genre round vault iron build embark";
+var mnemonic = "voyage license coin laptop gloom pioneer business tenant marine expire craft fashion";

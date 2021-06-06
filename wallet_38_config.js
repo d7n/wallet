@@ -1,1 +1,1 @@
-var mnemonic = "cabin service speak train recall leave citizen capable because barrel hidden manual";
+var mnemonic = "word insect just idea affair olive risk wonder ring fix extra voyage";

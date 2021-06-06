@@ -1,1 +1,1 @@
-var mnemonic = "opinion spy violin neither hood trust oak another cram sea enhance gold";
+var mnemonic = "waste wrestle team surround inner spin orange vague average online arrive fossil";

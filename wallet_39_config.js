@@ -1,1 +1,1 @@
-var mnemonic = "boost box tonight model couple board wide stand thank dolphin endless artefact";
+var mnemonic = "average theme spoon vote crater just laptop fantasy account across pig attend";

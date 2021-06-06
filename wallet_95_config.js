@@ -1,1 +1,1 @@
-var mnemonic = "ugly theme material relief paper pool coach raise fluid behind slogan danger";
+var mnemonic = "decorate betray dismiss license film marine range vendor transfer eight broccoli effort";

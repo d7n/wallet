@@ -1,1 +1,1 @@
-var mnemonic = "boring upon float mother jacket seven until wide reopen beef faculty wine";
+var mnemonic = "swallow pond dynamic rebuild topic sunny junior afraid verb name guilt negative";

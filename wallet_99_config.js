@@ -1,1 +1,1 @@
-var mnemonic = "wedding cool beauty puppy obvious time swallow agent hip rival muffin renew";
+var mnemonic = "lens guess slender shoe effort couch north picture rival dizzy elite wonder";

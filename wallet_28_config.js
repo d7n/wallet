@@ -1,1 +1,1 @@
-var mnemonic = "dream virtual will group rescue nose frame student kind auction runway sustain";
+var mnemonic = "ivory quote furnace pitch dignity imitate color apology ribbon town turn cream";

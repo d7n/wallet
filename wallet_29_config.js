@@ -1,1 +1,1 @@
-var mnemonic = "total jacket sentence host reward own bridge dismiss direct tomato inquiry cluster";
+var mnemonic = "walk debris camera chef own decline figure damp walnut animal olive misery";

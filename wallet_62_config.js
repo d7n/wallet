@@ -1,1 +1,1 @@
-var mnemonic = "foam marriage brave drum shiver injury echo easy little satisfy discover myth";
+var mnemonic = "audit cup mass merge employ build little quantum step flight auto vote";

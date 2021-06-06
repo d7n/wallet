@@ -1,1 +1,1 @@
-var mnemonic = "ring flavor upon neutral click among price transfer ice elephant oak type";
+var mnemonic = "alarm guard nothing razor grit boil whale crack cube way smile clay";

@@ -1,1 +1,1 @@
-var mnemonic = "candy trend weekend harvest matter escape scan success method lab salt cattle";
+var mnemonic = "term eagle property vocal favorite deliver snow fire wealth forum desk struggle";

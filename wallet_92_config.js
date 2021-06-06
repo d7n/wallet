@@ -1,1 +1,1 @@
-var mnemonic = "truth mirror obey depart easy outer any stairs also hint arrest tobacco";
+var mnemonic = "behave novel share review subway uncle apology diesel rapid ticket load public";

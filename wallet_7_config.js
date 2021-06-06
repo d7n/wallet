@@ -1,1 +1,1 @@
-var mnemonic = "private save radio shrimp genius tent tourist gap february leisure meat receive";
+var mnemonic = "future limb solar exhibit code anger electric truck distance raven work machine";

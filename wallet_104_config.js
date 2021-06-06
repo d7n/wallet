@@ -1,1 +1,1 @@
-var mnemonic = "clip alien athlete radio treat decade cement comic ginger nephew code arrange";
+var mnemonic = "rain loop ordinary odor drop mango worry nothing include neglect spread scatter";
