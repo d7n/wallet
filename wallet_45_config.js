@@ -1,1 +1,1 @@
-var mnemonic = "assist roast purity clarify laundry panda depth exist fiscal defy lecture impact";
+var mnemonic = "valley deposit noise two pilot inject forget cry garment earth color sheriff";

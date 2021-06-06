@@ -1,1 +1,1 @@
-var mnemonic = "rule supply flag catch hat surround hazard monster mango note fury deal";
+var mnemonic = "always bench fee ice boost mystery ice sure hammer rare uncover pilot";

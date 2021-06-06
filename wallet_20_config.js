@@ -1,1 +1,1 @@
-var mnemonic = "group hour owner barrel sadness scan reject enemy rich fine deliver sudden";
+var mnemonic = "release climb penalty excuse busy violin border citizen exclude scale plug pluck";

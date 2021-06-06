@@ -1,1 +1,1 @@
-var mnemonic = "name wish evil truck siren uncle dial dragon tide harbor olympic nasty";
+var mnemonic = "stable follow marine warm orange choose donate increase arrest axis answer core";

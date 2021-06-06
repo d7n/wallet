@@ -1,1 +1,1 @@
-var mnemonic = "little dust between ability badge action intact direct shadow shrimp grab jelly";
+var mnemonic = "forum reason clutch kite team job then speed flag appear frown trust";

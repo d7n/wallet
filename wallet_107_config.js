@@ -1,1 +1,1 @@
-var mnemonic = "foil label wealth call have arrange wheel fortune property glide maze amateur";
+var mnemonic = "panda time deliver other multiply west dish satoshi appear result essay imitate";

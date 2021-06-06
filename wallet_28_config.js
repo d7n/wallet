@@ -1,1 +1,1 @@
-var mnemonic = "toddler prevent quarter cloud ceiling segment drift dizzy ritual wonder real attitude";
+var mnemonic = "unlock search share myth cancel donate kingdom wheel section music movie book";

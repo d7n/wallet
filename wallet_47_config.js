@@ -1,1 +1,1 @@
-var mnemonic = "defense thank one service salmon jazz strong valley jacket still leaf boil";
+var mnemonic = "barely can carbon tiny spring extend vapor peace valid grant apology exercise";

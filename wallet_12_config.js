@@ -1,1 +1,1 @@
-var mnemonic = "waste rice section sad century business fetch abandon mail soul defy black";
+var mnemonic = "cable clarify toilet detect dry rely beauty bullet average eternal rocket split";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk agree subject always bachelor lava find rib hockey mushroom atom eternal";
+var mnemonic = "rebel dress promote slogan anxiety mountain pepper situate sustain churn pigeon remind";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify fantasy tuition blast acoustic speed luxury garlic obscure pass burst trap";
+var mnemonic = "grass among truly high ghost time wink fashion good empower nut shove";

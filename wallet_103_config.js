@@ -1,1 +1,1 @@
-var mnemonic = "swim core amount lyrics orchard mobile mail item soldier kitchen taste prevent";
+var mnemonic = "lemon fish paddle double waste verify arm poverty name lecture tenant delay";

@@ -1,1 +1,1 @@
-var mnemonic = "mask gaze soft squeeze attack spatial actress fruit horror illness that unlock";
+var mnemonic = "adapt notice snap rigid peanut dawn invite roast make crash remember exile";

@@ -1,1 +1,1 @@
-var mnemonic = "provide lake sadness believe expire survey weekend crowd limit purpose then join";
+var mnemonic = "attack turkey leopard comfort luggage edge film faith trouble brief ski reduce";

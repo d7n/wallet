@@ -1,1 +1,1 @@
-var mnemonic = "faint awake disorder coconut grid crew plunge enemy fault hobby misery own";
+var mnemonic = "crowd scene nation life assume dose harsh occur hub adjust genuine weather";

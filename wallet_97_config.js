@@ -1,1 +1,1 @@
-var mnemonic = "soda diamond festival sock cream advice menu van spread mention elite found";
+var mnemonic = "wreck caution pistol much sea keen bachelor evil true pony hover betray";

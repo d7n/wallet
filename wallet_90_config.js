@@ -1,1 +1,1 @@
-var mnemonic = "flush imitate trick save hope orbit fit ability feature marine edit upset";
+var mnemonic = "toy step young suffer resemble mother buffalo another accident interest close toy";

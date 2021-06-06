@@ -1,1 +1,1 @@
-var mnemonic = "butter hundred friend meadow seat main soup together wagon elbow miss north";
+var mnemonic = "usage life swamp produce because inflict kit multiply novel mule puzzle antique";

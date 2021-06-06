@@ -1,1 +1,1 @@
-var mnemonic = "verify crack blanket crouch tray poem grit aerobic reason brisk spatial improve";
+var mnemonic = "alert glue often drive stick sphere present legal frame pause forget sugar";

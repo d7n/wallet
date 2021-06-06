@@ -1,1 +1,1 @@
-var mnemonic = "empty music meadow announce lunar sock hello finish below normal category stick";
+var mnemonic = "bean receive shadow group exclude another climb tattoo shock text unhappy typical";

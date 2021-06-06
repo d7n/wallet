@@ -1,1 +1,1 @@
-var mnemonic = "ring winner sugar near caution dinner legend blood stem waste plastic thought";
+var mnemonic = "romance fury accuse cattle treat captain minimum witness treat matter avocado entry";

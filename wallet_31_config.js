@@ -1,1 +1,1 @@
-var mnemonic = "range able immense ginger require clever goddess capital alter neglect grass trigger";
+var mnemonic = "embody social snack post strategy liquid logic air harvest depth guard champion";

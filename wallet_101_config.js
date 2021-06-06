@@ -1,1 +1,1 @@
-var mnemonic = "boring danger visit mistake nominee law ivory service wink marine identify ivory";
+var mnemonic = "outside enrich energy tumble blame buffalo skin board undo marine legend garbage";

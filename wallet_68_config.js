@@ -1,1 +1,1 @@
-var mnemonic = "frozen poverty say assist alert quiz shine stand flip brief hammer ethics";
+var mnemonic = "glide bar discover present hammer warfare success pioneer adult practice donate spoon";

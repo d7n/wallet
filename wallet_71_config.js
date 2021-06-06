@@ -1,1 +1,1 @@
-var mnemonic = "work hen thank sock online amateur velvet undo tunnel cycle news team";
+var mnemonic = "frozen dentist insect tired gravity someone swarm asthma summer door liberty appear";

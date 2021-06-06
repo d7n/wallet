@@ -1,1 +1,1 @@
-var mnemonic = "nut depart utility angry verb evil floor put raven letter arch wash";
+var mnemonic = "hen various song enemy cupboard prevent begin term attitude wagon today skirt";

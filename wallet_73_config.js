@@ -1,1 +1,1 @@
-var mnemonic = "viable round tank extend parade episode ritual riot announce protect say track";
+var mnemonic = "salon half knife soup essence man movie episode swing village valid essence";

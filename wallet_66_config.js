@@ -1,1 +1,1 @@
-var mnemonic = "clutch state digital media elegant try labor traffic taste labor south woman";
+var mnemonic = "cigar box lend glimpse sing pretty actress liar hen tunnel copper goddess";

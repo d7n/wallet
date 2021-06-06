@@ -1,1 +1,1 @@
-var mnemonic = "town toy benefit usual clown immense pretty glide almost frost like spare";
+var mnemonic = "economy similar hobby change ask treat please vessel fury sleep dirt uncover";

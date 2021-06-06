@@ -1,1 +1,1 @@
-var mnemonic = "maid quiz monkey ribbon obey lab distance resist ice matter green jelly";
+var mnemonic = "nothing month anchor pitch paper measure inside attitude amateur release frost shrimp";

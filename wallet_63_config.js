@@ -1,1 +1,1 @@
-var mnemonic = "prison siege surface state suit call squeeze desert split trouble small save";
+var mnemonic = "rude transfer fly bridge horn organ dilemma close ozone catalog jump fabric";

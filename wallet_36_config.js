@@ -1,1 +1,1 @@
-var mnemonic = "love current rally hand fossil decide employ degree aim cruel moment human";
+var mnemonic = "consider zero sting frog glance beach ski cushion ethics foot figure front";

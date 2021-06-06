@@ -1,1 +1,1 @@
-var mnemonic = "cheese teach wrap insect improve shrug admit coffee hair please spoon equal";
+var mnemonic = "supply until define penalty liar stable uncover tattoo bind undo inside crouch";

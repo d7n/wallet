@@ -1,1 +1,1 @@
-var mnemonic = "sugar blame logic finger radar brick ability elbow coach pepper thing usual";
+var mnemonic = "hen run lab faculty tunnel fade valid tomorrow spring system response bargain";

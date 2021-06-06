@@ -1,1 +1,1 @@
-var mnemonic = "system primary afraid grape slide flag fiber soap humble stand door proud";
+var mnemonic = "ill symbol race boring lottery dynamic power cinnamon industry hub blue equip";

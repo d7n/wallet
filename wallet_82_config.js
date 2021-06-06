@@ -1,1 +1,1 @@
-var mnemonic = "this lonely corn conduct issue divert crystal tell screen average endorse myself";
+var mnemonic = "enemy shed peanut cute demise palace like glide vocal marriage glimpse faith";

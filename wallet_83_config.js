@@ -1,1 +1,1 @@
-var mnemonic = "vicious turkey loan flavor bottom lab beauty jungle wrap patrol trouble soon";
+var mnemonic = "barrel panda sense tissue payment win sing shadow ladder civil category carbon";

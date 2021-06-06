@@ -1,1 +1,1 @@
-var mnemonic = "promote notable oyster melody divorce maze credit brown company special friend scrub";
+var mnemonic = "analyst short brush cushion sting view surface canal shallow welcome cradle drive";

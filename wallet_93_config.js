@@ -1,1 +1,1 @@
-var mnemonic = "pill first add deal truck change dwarf clock melt muffin coconut naive";
+var mnemonic = "sword rare flag guard topple orient verb welcome fruit useful find observe";

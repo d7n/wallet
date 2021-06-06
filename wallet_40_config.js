@@ -1,1 +1,1 @@
-var mnemonic = "jazz check erode baby vintage patrol art pet surface ceiling dragon erosion";
+var mnemonic = "during point control broccoli busy rate produce expect satoshi mobile glance goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "file illegal system increase physical tooth sibling cake fabric beef coach tonight";
+var mnemonic = "submit embody curious laundry occur island catalog lunch boy before cabbage click";

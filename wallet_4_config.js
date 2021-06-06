@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bag erode lizard poet blast scout scrub father reopen spatial truck";
+var mnemonic = "shove laugh maid village knock roast holiday whisper leisure amateur chapter fuel";

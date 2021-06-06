@@ -1,1 +1,1 @@
-var mnemonic = "course duty transfer region dwarf leave film shoe nuclear three little dog";
+var mnemonic = "endless involve enter celery omit left museum combine cause creek basket ring";

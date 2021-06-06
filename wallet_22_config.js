@@ -1,1 +1,1 @@
-var mnemonic = "quality insane rent used purchase erase twice isolate scrub flock blind soda";
+var mnemonic = "royal fat load axis fluid worry blade network logic vapor minimum tortoise";

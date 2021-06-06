@@ -1,1 +1,1 @@
-var mnemonic = "response hobby ahead jelly oyster radar way light idea maze either guard";
+var mnemonic = "october stomach orient advance civil winner swift cloud coral family hurt evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle aerobic pyramid mango dream cram message best climb height predict famous";
+var mnemonic = "reflect field random elephant race tip deposit blue patient change wisdom future";

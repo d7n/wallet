@@ -1,1 +1,1 @@
-var mnemonic = "sand spice endorse nephew drink dress proud vicious grain present dwarf monitor";
+var mnemonic = "deposit grape stage session scatter used hood young hen charge cup mosquito";

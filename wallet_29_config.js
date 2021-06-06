@@ -1,1 +1,1 @@
-var mnemonic = "mechanic mule health welcome shine history achieve copper nation old brother settle";
+var mnemonic = "enjoy danger assault sorry reason wasp ticket require view rotate anxiety veteran";

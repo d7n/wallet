@@ -1,1 +1,1 @@
-var mnemonic = "mobile stand hero include you piano damage pet boil sun horse clip";
+var mnemonic = "lift news notable position also orient symptom army dance fashion surge core";

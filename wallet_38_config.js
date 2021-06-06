@@ -1,1 +1,1 @@
-var mnemonic = "chapter badge habit rule apple atom hospital since side romance fever prefer";
+var mnemonic = "material hammer flag whale goat glide render trend judge useless brisk ill";

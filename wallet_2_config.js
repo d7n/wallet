@@ -1,1 +1,1 @@
-var mnemonic = "south notable six outdoor crane usage vehicle toy gasp avoid cart wash";
+var mnemonic = "wonder tent blanket sudden nest spawn human minor tonight rather door wagon";

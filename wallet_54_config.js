@@ -1,1 +1,1 @@
-var mnemonic = "wheel method black nominee flame brown hunt rich hen pumpkin response quit";
+var mnemonic = "develop police puppy snap clerk envelope depth mesh life fox drive select";

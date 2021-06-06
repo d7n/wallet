@@ -1,1 +1,1 @@
-var mnemonic = "polar device useless truly switch useless skirt motor caught abuse avocado display";
+var mnemonic = "pig blind have unique ribbon elder celery advice whip broom middle weather";

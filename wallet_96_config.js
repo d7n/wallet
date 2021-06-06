@@ -1,1 +1,1 @@
-var mnemonic = "swallow cereal vendor car tattoo mirror angle delay peanut beauty bring throw";
+var mnemonic = "match rookie road nerve grape three senior devote menu stage library defense";

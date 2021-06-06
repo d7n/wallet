@@ -1,1 +1,1 @@
-var mnemonic = "taxi weekend mobile toe flavor vote manual acoustic debris hockey engage slab";
+var mnemonic = "illegal joy subject measure snap only surge legend come wood sound stem";

@@ -1,1 +1,1 @@
-var mnemonic = "fire cruise glad notable problem pizza bean elephant analyst screen climb daring";
+var mnemonic = "survey tilt opinion false scout interest man major gadget middle police critic";

@@ -1,1 +1,1 @@
-var mnemonic = "print crash regret gasp helmet install badge rhythm shoe extend morning solid";
+var mnemonic = "pave climb cement approve chief mimic once supreme april rally test body";

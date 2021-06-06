@@ -1,1 +1,1 @@
-var mnemonic = "hair census female major elegant mom inside renew lunch promote more bulk";
+var mnemonic = "vibrant taxi model clean voice tip lawsuit meat rookie please tissue tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "core label sense talent phone market section assist chaos person panther monster";
+var mnemonic = "chair glue error amateur culture nephew have laptop attitude cry math shoe";

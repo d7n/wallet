@@ -1,1 +1,1 @@
-var mnemonic = "response brick morning script bench access pitch three badge monitor knock fall";
+var mnemonic = "couch toast pumpkin seed adult bulk cram mercy sadness solve inch pond";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal answer leaf hire tomato fatigue enough midnight bachelor lab siren bracket";
+var mnemonic = "food divert rack relief unfold element vicious pause artwork noble winter organ";

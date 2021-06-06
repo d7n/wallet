@@ -1,1 +1,1 @@
-var mnemonic = "chunk blind wire among cinnamon jump jungle diagram jacket fiscal theme range";
+var mnemonic = "short panda become weasel next congress minor syrup funny burden gate crash";

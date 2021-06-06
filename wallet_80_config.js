@@ -1,1 +1,1 @@
-var mnemonic = "utility kit never run royal toilet shrimp high clog smoke nest blur";
+var mnemonic = "fault tunnel early room century depart trouble repeat glory bid rhythm venue";

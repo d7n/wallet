@@ -1,1 +1,1 @@
-var mnemonic = "angry hip quarter admit symbol gadget labor solution guess infant right scout";
+var mnemonic = "quote indicate fluid gadget grant road behind topic powder volume roof base";

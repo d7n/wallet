@@ -1,1 +1,1 @@
-var mnemonic = "emotion excite tower park antenna trumpet unhappy label nurse boring husband beach";
+var mnemonic = "emotion tilt plastic video enact tomato method suffer win squeeze siege tail";

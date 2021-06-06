@@ -1,1 +1,1 @@
-var mnemonic = "warrior ankle swift address thunder regret shrimp hospital motor kite garlic family";
+var mnemonic = "win valid cart chuckle boost juice maze forward spring jaguar measure bar";

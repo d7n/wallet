@@ -1,1 +1,1 @@
-var mnemonic = "error fit skull lumber lend trim voice rain income buzz endless mixed";
+var mnemonic = "toddler fringe inch vault hero trigger cradle furnace federal pretty route rent";

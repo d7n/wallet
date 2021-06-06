@@ -1,1 +1,1 @@
-var mnemonic = "friend mimic clerk airport funny scrap wild trigger hurt rival caught arctic";
+var mnemonic = "attitude mechanic extend admit brown aisle harbor south bubble fuel split puzzle";

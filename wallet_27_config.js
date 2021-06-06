@@ -1,1 +1,1 @@
-var mnemonic = "all live save sign better dignity tourist little moment giant hint reveal";
+var mnemonic = "tip law jelly fantasy enable govern dish guess equip solve thrive since";

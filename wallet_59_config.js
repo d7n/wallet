@@ -1,1 +1,1 @@
-var mnemonic = "foam version person deposit course foil lecture mansion bring aware loan trouble";
+var mnemonic = "share awake scene session test notice gym spice moment duck enroll lizard";

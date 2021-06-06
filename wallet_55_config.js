@@ -1,1 +1,1 @@
-var mnemonic = "delay horror ice gold sweet tissue keen fluid jungle call polar verb";
+var mnemonic = "trigger napkin oxygen bird raise blanket job quick hello spread toy blame";

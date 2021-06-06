@@ -1,1 +1,1 @@
-var mnemonic = "crush smoke census flight dash bright gun frost logic remind spread embody";
+var mnemonic = "volcano nation vague myth below index song family sword renew fiscal jealous";

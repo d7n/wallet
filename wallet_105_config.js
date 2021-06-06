@@ -1,1 +1,1 @@
-var mnemonic = "ozone cactus venture cart picture security flight prison measure open change first";
+var mnemonic = "slow giggle tattoo black blanket venture fault library utility air hold region";

@@ -1,1 +1,1 @@
-var mnemonic = "spot blood police enable ecology casino armor tilt topic hunt blossom minor";
+var mnemonic = "then entire medal dove visit segment afraid tennis swear mule wisdom make";

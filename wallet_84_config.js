@@ -1,1 +1,1 @@
-var mnemonic = "hip resemble canyon apology random merry rival track spider stage maid gate";
+var mnemonic = "sugar rebuild sudden ugly black banner enemy order gun daring excess fever";

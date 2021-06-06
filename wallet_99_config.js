@@ -1,1 +1,1 @@
-var mnemonic = "acquire immune resource very total swamp broken rib edit buyer stove hurry";
+var mnemonic = "odor throw genre like scout aunt argue table improve hole fever steel";

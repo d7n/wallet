@@ -1,1 +1,1 @@
-var mnemonic = "empty ordinary result million ethics common book traffic true stem upgrade path";
+var mnemonic = "head unveil small grid ring peanut assist fuel history junk level survey";

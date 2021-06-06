@@ -1,1 +1,1 @@
-var mnemonic = "piano jungle napkin unhappy body identify arch ripple praise subway river oblige";
+var mnemonic = "neck acoustic ghost carbon quote junior pottery coral jealous canvas tonight balcony";

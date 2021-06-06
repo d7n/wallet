@@ -1,1 +1,1 @@
-var mnemonic = "barely model mango mistake mass domain future own mandate practice dust drive";
+var mnemonic = "pole pond upon reject boring outdoor history section segment decorate jazz suggest";

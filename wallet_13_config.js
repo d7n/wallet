@@ -1,1 +1,1 @@
-var mnemonic = "elegant cactus flight wolf include collect trial boost mixed slide garage saddle";
+var mnemonic = "hint render mushroom exclude slab resemble conduct celery six amused lottery initial";

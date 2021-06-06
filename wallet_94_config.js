@@ -1,1 +1,1 @@
-var mnemonic = "action kit record language original balance correct grain horror busy race outside";
+var mnemonic = "shallow have cake use seven cover doctor sleep around track slam chair";

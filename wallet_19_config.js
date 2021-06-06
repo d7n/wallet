@@ -1,1 +1,1 @@
-var mnemonic = "urge shiver muscle zone heavy emerge sort exchange sudden tumble legend tray";
+var mnemonic = "gospel emotion level entry notice raven answer energy payment flight recycle find";

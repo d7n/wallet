@@ -1,1 +1,1 @@
-var mnemonic = "pattern depend bubble amazing dignity resource mistake pet garment moon position grace";
+var mnemonic = "mandate rebuild awesome arrive about must erode mechanic attract gadget yard hand";

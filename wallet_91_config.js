@@ -1,1 +1,1 @@
-var mnemonic = "bid physical carbon toddler trap recipe dutch smile prefer man property catalog";
+var mnemonic = "dance hawk filter fancy base insane curve sudden arctic memory gate turn";

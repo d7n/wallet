@@ -1,1 +1,1 @@
-var mnemonic = "avocado dwarf ball list coach food indoor grab lemon fit grow venue";
+var mnemonic = "deposit right second mammal surface monster toast fork ceiling bicycle capable fire";

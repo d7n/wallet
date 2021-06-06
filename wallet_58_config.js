@@ -1,1 +1,1 @@
-var mnemonic = "run acoustic ladder amateur glad column royal aisle opera electric oblige replace";
+var mnemonic = "giant soon sail atom isolate year tape unit curious wheat vault nut";

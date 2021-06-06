@@ -1,1 +1,1 @@
-var mnemonic = "express rough that away main invite bitter embrace depart birth then west";
+var mnemonic = "category they sibling vivid border keep fit outer fall drum defense agent";

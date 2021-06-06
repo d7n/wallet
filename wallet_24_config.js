@@ -1,1 +1,1 @@
-var mnemonic = "pioneer buyer rebel left soda wise used music toss ready train obtain";
+var mnemonic = "crunch scatter loan pass equal utility narrow license trend elegant sustain glove";

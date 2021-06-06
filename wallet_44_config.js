@@ -1,1 +1,1 @@
-var mnemonic = "radio angry cradle suit cash never man market property fiction snake owner";
+var mnemonic = "easy faith rifle swamp curtain feel agent raccoon noble horror mystery wisdom";
