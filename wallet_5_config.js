@@ -1,1 +1,1 @@
-var mnemonic = "purse rain rabbit parade fury wine robot maze silly stock student call";
+var mnemonic = "pottery lift artwork return child shield glove domain shaft fetch net discover";

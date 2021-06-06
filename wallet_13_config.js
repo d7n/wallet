@@ -1,1 +1,1 @@
-var mnemonic = "swamp eyebrow plate output female verb sustain defy bleak theme frozen volcano";
+var mnemonic = "horn immense neck blanket eagle agent ordinary tribe assist quick license north";

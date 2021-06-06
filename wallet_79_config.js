@@ -1,1 +1,1 @@
-var mnemonic = "attract slab inspire spirit smile cousin waste high shell net pulp like";
+var mnemonic = "cup this slice grape betray sight boil broom horror veteran whip rough";

@@ -1,1 +1,1 @@
-var mnemonic = "try search luxury found spray boy student air draw usage remain anger";
+var mnemonic = "author that defy excuse output primary fine rib nothing math sauce medal";

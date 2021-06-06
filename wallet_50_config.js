@@ -1,1 +1,1 @@
-var mnemonic = "fresh put cricket art reward tiny stereo bread focus dizzy motion tiger";
+var mnemonic = "slice trick genre winner meat kit window raw describe castle truly gentle";

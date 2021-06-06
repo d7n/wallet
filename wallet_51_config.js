@@ -1,1 +1,1 @@
-var mnemonic = "provide gentle glimpse gloom bunker mansion noodle raw smile exclude mean arch";
+var mnemonic = "cluster nut snow dog topic duty chronic rule wheel social ancient armor";

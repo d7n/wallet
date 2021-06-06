@@ -1,1 +1,1 @@
-var mnemonic = "ivory cake escape satisfy apart brand rug shrug beauty eager swift flag";
+var mnemonic = "stem vendor struggle crop season subject insect slight split under hen joke";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle tortoise federal later bamboo genre nature idea direct powder habit because";
+var mnemonic = "faint medal artist arena shiver machine surround embody certain knee harsh wife";

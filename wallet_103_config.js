@@ -1,1 +1,1 @@
-var mnemonic = "ordinary topic ill first usage major exclude fade sell laugh noble donate";
+var mnemonic = "mixed auction motor night old glide gate spin bone champion become choice";

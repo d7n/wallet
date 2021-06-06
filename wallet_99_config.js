@@ -1,1 +1,1 @@
-var mnemonic = "plastic humor ketchup struggle turtle pair retreat inhale wire search that city";
+var mnemonic = "cliff fault ridge benefit auction usual deputy butter summer hurry blind kind";

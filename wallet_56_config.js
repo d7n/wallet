@@ -1,1 +1,1 @@
-var mnemonic = "have because spirit must olympic call name obvious pigeon panther drop over";
+var mnemonic = "trade moon weather rare element forest void easy faint butter chalk human";

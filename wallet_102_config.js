@@ -1,1 +1,1 @@
-var mnemonic = "tenant gorilla magic render trigger piece fame decorate wreck close maid enlist";
+var mnemonic = "cat lonely main crush galaxy clean ketchup toss siege envelope cross artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "duck shine daring wolf satoshi stuff siege quote price minimum bar brother";
+var mnemonic = "best clog plastic merit able change exchange when behind elephant toddler height";

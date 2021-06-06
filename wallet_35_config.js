@@ -1,1 +1,1 @@
-var mnemonic = "obey disagree blush couch inflict sort undo raise disagree matrix edge eyebrow";
+var mnemonic = "cube climb section bacon tilt tonight gadget oak utility quantum disease road";

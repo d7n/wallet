@@ -1,1 +1,1 @@
-var mnemonic = "across annual kid viable science two layer heart domain wire kidney gorilla";
+var mnemonic = "weasel copper region slim fold mixed home about stay above donkey inform";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup sleep broccoli regular reform payment flat list announce blade high middle";
+var mnemonic = "mirror often fee option sail potato afford affair lock spin junk aisle";

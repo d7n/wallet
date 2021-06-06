@@ -1,1 +1,1 @@
-var mnemonic = "amateur shiver human economy moral avoid icon desk tragic acquire inject ten";
+var mnemonic = "company alarm cheap front step chapter affair digital asthma weather pretty unfair";

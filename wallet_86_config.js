@@ -1,1 +1,1 @@
-var mnemonic = "truly endorse kiwi nut pizza forget unaware napkin measure club issue canal";
+var mnemonic = "decade duty payment busy alpha hunt spell kiss juice chase again key";

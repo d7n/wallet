@@ -1,1 +1,1 @@
-var mnemonic = "record real skill crumble member lunch jaguar wisdom blame hollow alien sight";
+var mnemonic = "scissors course mountain legend artefact pig play walnut lady level shop ball";

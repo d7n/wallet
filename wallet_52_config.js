@@ -1,1 +1,1 @@
-var mnemonic = "blush ice energy universe bulb thing crawl pelican order limb iron float";
+var mnemonic = "put trip pear garden trend foster little donor post measure couch vehicle";

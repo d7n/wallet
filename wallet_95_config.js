@@ -1,1 +1,1 @@
-var mnemonic = "lawn inflict village hood art hunt oppose addict choose output clap manage";
+var mnemonic = "neutral ribbon involve always fat ketchup kitchen range pistol twin margin ceiling";

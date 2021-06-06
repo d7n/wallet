@@ -1,1 +1,1 @@
-var mnemonic = "scout abuse diagram one nature tone marble income angle margin blanket pole";
+var mnemonic = "fix melt obey denial sentence melody december car smooth loan cup tennis";

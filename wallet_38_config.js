@@ -1,1 +1,1 @@
-var mnemonic = "stumble donkey define furnace solve walnut accuse guess pyramid slab eternal indoor";
+var mnemonic = "outside enemy describe sister zero approve matrix bracket output mouse exclude critic";

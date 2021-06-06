@@ -1,1 +1,1 @@
-var mnemonic = "mouse sight season loan abandon mimic idea squirrel scale ticket pistol neglect";
+var mnemonic = "wise soap floor uphold waste wheel blame essay blue step million trip";

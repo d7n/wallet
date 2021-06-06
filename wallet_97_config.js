@@ -1,1 +1,1 @@
-var mnemonic = "ugly cat loyal roast tuna bronze climb come among ride soldier best";
+var mnemonic = "drastic east stage parent motor tape parrot size lounge dune nasty churn";

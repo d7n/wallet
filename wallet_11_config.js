@@ -1,1 +1,1 @@
-var mnemonic = "praise glad hill crunch slice segment connect cruel quit sausage ocean glimpse";
+var mnemonic = "infant nature gasp earth plug play trade cook grow twice obey enhance";

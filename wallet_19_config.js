@@ -1,1 +1,1 @@
-var mnemonic = "venue bitter strike describe hard gossip trust gallery peanut detect sample blanket";
+var mnemonic = "used network ride require sail approve churn keep turn mercy draw saddle";

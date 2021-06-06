@@ -1,1 +1,1 @@
-var mnemonic = "move repeat another filter festival avocado collect fish movie slim young pretty";
+var mnemonic = "notice wire practice exile team awake kingdom robust program shuffle still provide";

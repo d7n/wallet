@@ -1,1 +1,1 @@
-var mnemonic = "gown absent original achieve infant include mix helmet scheme indoor hidden wet";
+var mnemonic = "call swim boy breeze abandon legend tattoo cluster dream menu candy ghost";

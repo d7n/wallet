@@ -1,1 +1,1 @@
-var mnemonic = "never envelope rent coral sting model like corn wreck south mobile salute";
+var mnemonic = "patient chaos coffee still flush kitten bright power city away solution regret";

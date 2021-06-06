@@ -1,1 +1,1 @@
-var mnemonic = "similar abuse middle shoot main pencil mercy match frown speak border trust";
+var mnemonic = "budget metal noble few sibling barely orchard essence uncle camp similar people";

@@ -1,1 +1,1 @@
-var mnemonic = "drift dynamic rather canal typical clap order outer oven age kiss direct";
+var mnemonic = "wet panel resource alien bacon divorce solution remember tell admit flavor clever";

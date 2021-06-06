@@ -1,1 +1,1 @@
-var mnemonic = "inmate leisure friend plug cotton super slice six divorce toss tower smile";
+var mnemonic = "blue project yellow dirt crisp liquid ribbon grunt century artwork butter note";

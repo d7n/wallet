@@ -1,1 +1,1 @@
-var mnemonic = "ecology blouse tenant december exile enrich position lawn wrap denial item armor";
+var mnemonic = "since gap size giant club day fat fashion else hello imitate window";

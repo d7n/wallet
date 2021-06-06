@@ -1,1 +1,1 @@
-var mnemonic = "brave bronze swarm dragon curious small rent front black hollow surface napkin";
+var mnemonic = "man airport slogan minimum catalog atom right demand sister rack powder ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "matter sentence below hammer frame repeat blade camp salt ready cause wrist";
+var mnemonic = "rocket kidney sunset prevent clay guitar hope hill dove misery usual simple";

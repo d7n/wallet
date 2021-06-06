@@ -1,1 +1,1 @@
-var mnemonic = "sign draw legend spawn noodle deposit talent stem skate glare distance west";
+var mnemonic = "loyal salad sphere certain subject usage else grit brass gravity wash lawsuit";

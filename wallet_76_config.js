@@ -1,1 +1,1 @@
-var mnemonic = "toast spoon load wise delay morning loyal pulp sun drum innocent tattoo";
+var mnemonic = "elite praise this deny service depart flag tissue slow scorpion planet shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "math method faculty exclude violin unfair satoshi broccoli festival tent diesel gravity";
+var mnemonic = "gym gallery biology fabric tree must dwarf unhappy noise skate border scrap";

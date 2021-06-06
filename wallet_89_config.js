@@ -1,1 +1,1 @@
-var mnemonic = "fan year pair bronze cover medal suffer bunker window nose album grocery";
+var mnemonic = "ordinary play physical liberty trust retreat promote lounge appear brown palm claim";

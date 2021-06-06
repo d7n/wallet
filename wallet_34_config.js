@@ -1,1 +1,1 @@
-var mnemonic = "debate worry absent tenant jump author major gap tone barely cheap team";
+var mnemonic = "decrease choose half abandon local brisk delay style buzz frequent obvious evil";

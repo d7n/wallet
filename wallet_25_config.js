@@ -1,1 +1,1 @@
-var mnemonic = "glory shell rose legend elbow raven cushion cream charge gain yard easily";
+var mnemonic = "crack enter govern judge flight friend illegal hurry swamp leave trend airport";

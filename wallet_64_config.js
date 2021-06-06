@@ -1,1 +1,1 @@
-var mnemonic = "join float sniff half impose beef bus kitchen way icon you satisfy";
+var mnemonic = "bunker crunch laugh inch mango ginger gloom loan rose deny noodle zone";

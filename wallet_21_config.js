@@ -1,1 +1,1 @@
-var mnemonic = "tornado type salt head armed tunnel nephew ring brother like cool certain";
+var mnemonic = "message choose cycle admit barrel decline stuff dog else ten motor scatter";

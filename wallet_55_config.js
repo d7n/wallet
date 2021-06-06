@@ -1,1 +1,1 @@
-var mnemonic = "hood lake final witness awesome awkward audit correct answer reveal door boring";
+var mnemonic = "illegal van omit mosquito daring stick file subway actress bridge spoil pretty";

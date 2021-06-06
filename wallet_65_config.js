@@ -1,1 +1,1 @@
-var mnemonic = "habit okay face magic lounge essay journey brand mean cupboard summer sustain";
+var mnemonic = "patrol window bike ridge gun crush nominee olympic mention festival warfare cook";

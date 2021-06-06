@@ -1,1 +1,1 @@
-var mnemonic = "device brass live deny level run chicken curious scissors book tunnel rose";
+var mnemonic = "fat below cheap quarter economy timber glass rally solar swift must title";

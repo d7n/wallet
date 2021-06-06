@@ -1,1 +1,1 @@
-var mnemonic = "between jewel mushroom head menu section poverty marble boring pear matter gasp";
+var mnemonic = "noble rose census issue upgrade cover else slender swift lemon edit curious";

@@ -1,1 +1,1 @@
-var mnemonic = "worry park wave boost noodle chair cricket online obscure vapor lake manual";
+var mnemonic = "satoshi hamster soul oil switch this ladder avoid member picnic save pizza";

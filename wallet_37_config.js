@@ -1,1 +1,1 @@
-var mnemonic = "asset deposit nasty dolphin another army guilt wife input soldier blue edit";
+var mnemonic = "genuine input inspire brown powder broccoli lizard use occur kick force spoon";

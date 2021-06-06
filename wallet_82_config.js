@@ -1,1 +1,1 @@
-var mnemonic = "exchange flock enhance spawn day frequent turkey hard agent viable traffic chalk";
+var mnemonic = "cliff wealth regular dad top orange collect asset myself bleak leisure bag";

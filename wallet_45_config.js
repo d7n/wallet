@@ -1,1 +1,1 @@
-var mnemonic = "light board scissors soccer special web pluck coach category alpha damp floor";
+var mnemonic = "magnet rate bridge exchange reunion giraffe join aspect own disagree cereal rich";

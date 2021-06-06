@@ -1,1 +1,1 @@
-var mnemonic = "item trumpet east hub bulk glare tooth asthma simple stone wreck fitness";
+var mnemonic = "obtain gun rack cargo erase dynamic fresh exhaust ethics derive appear stamp";

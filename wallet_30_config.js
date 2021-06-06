@@ -1,1 +1,1 @@
-var mnemonic = "large expose save salute hub ticket need portion ship script decorate conduct";
+var mnemonic = "round river address rack warm exhaust soul cabbage grocery depth arrest typical";

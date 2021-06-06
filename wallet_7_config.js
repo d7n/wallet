@@ -1,1 +1,1 @@
-var mnemonic = "blood around latin neither orbit bronze aerobic digital oppose this front lazy";
+var mnemonic = "obey public web ball betray major pioneer youth fade equal fly swift";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge toddler home garbage hotel include jazz three panic taste empower develop";
+var mnemonic = "uncle wrong short stumble grit method sight wish feature mixture antique high";

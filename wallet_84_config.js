@@ -1,1 +1,1 @@
-var mnemonic = "grunt word find wisdom mango erode boy hospital scatter video profit cream";
+var mnemonic = "east glance profit stone input area tribe doll zero april patch cargo";

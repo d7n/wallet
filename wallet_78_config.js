@@ -1,1 +1,1 @@
-var mnemonic = "crowd border sword nephew meadow door long twin increase always stove reason";
+var mnemonic = "snack vessel slim radar own walk atom sample plate over slender sibling";

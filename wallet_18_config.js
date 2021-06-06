@@ -1,1 +1,1 @@
-var mnemonic = "brother whisper august lecture potato help amateur clean cancel olive another bright";
+var mnemonic = "museum sadness sure shoe cloth peanut dove enlist also team machine cute";

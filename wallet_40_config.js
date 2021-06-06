@@ -1,1 +1,1 @@
-var mnemonic = "text lyrics glory people outdoor winter depth crouch balance rebel relief pool";
+var mnemonic = "salt lesson ill royal enhance blood switch expose author valve boy plug";

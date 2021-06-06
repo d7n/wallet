@@ -1,1 +1,1 @@
-var mnemonic = "analyst draft demise cave useless upset report arrive expose lend donkey team";
+var mnemonic = "powder question about produce leader equal lake mandate escape artist social pigeon";

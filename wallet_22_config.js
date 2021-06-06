@@ -1,1 +1,1 @@
-var mnemonic = "scatter carbon impose depart charge ostrich about fiscal hour almost guilt immense";
+var mnemonic = "garment north acid hundred cake pear aisle early amount false awake portion";

@@ -1,1 +1,1 @@
-var mnemonic = "winter prefer shoulder afraid boost cactus garbage cousin sudden tongue school extra";
+var mnemonic = "bridge jelly mansion oyster zebra legend cave horror drip library speed safe";

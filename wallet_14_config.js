@@ -1,1 +1,1 @@
-var mnemonic = "fat frequent crouch moral opinion bleak liquid spoon skin armed journey sail";
+var mnemonic = "orchard kid industry sample spice essence grocery figure harsh ramp season open";

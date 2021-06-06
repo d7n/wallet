@@ -1,1 +1,1 @@
-var mnemonic = "plunge theory library perfect tuition employ soccer crucial embark sport empower property";
+var mnemonic = "time need decorate quality better pledge tilt profit mean pen retreat trim";

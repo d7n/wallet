@@ -1,1 +1,1 @@
-var mnemonic = "decline close buzz bounce pelican profit tired anxiety venue excite mechanic entire";
+var mnemonic = "master hip climb magic fancy firm double bullet fatal gold this nurse";

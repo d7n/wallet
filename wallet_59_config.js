@@ -1,1 +1,1 @@
-var mnemonic = "village risk purse few never vibrant bottom mention treat salmon orbit sting";
+var mnemonic = "tone clutch also shift cotton army green find search frozen useful spice";

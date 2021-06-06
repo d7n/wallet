@@ -1,1 +1,1 @@
-var mnemonic = "bike liberty grunt burden swift flight medal galaxy crumble now shaft where";
+var mnemonic = "panel nurse banner decline rotate shallow sting holiday quarter patrol surround empower";

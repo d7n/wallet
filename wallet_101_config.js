@@ -1,1 +1,1 @@
-var mnemonic = "fire trap twenty caught flip rookie joke benefit wealth trial waste motion";
+var mnemonic = "clutch away attack convince debris dose thunder delay cluster escape valve glare";

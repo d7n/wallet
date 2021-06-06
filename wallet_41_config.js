@@ -1,1 +1,1 @@
-var mnemonic = "expose beef spice camp common bargain category hundred clean surprise direct fine";
+var mnemonic = "cycle tip wheel velvet useful regular spoon laptop add squeeze refuse random";

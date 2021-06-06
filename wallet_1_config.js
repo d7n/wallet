@@ -1,1 +1,1 @@
-var mnemonic = "virtual size access moral obscure card lucky resist fade shine train guess";
+var mnemonic = "summer chef major depend fabric material supreme give day disease fish kick";

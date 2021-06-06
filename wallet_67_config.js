@@ -1,1 +1,1 @@
-var mnemonic = "rule fun shine gorilla visual club tell motor tell they feel nose";
+var mnemonic = "chalk return ship snake junk decide check armed grocery confirm soap power";

@@ -1,1 +1,1 @@
-var mnemonic = "stage put oil layer silver desk rescue total material scout disease ocean";
+var mnemonic = "torch bleak deny frost bread dry link ceiling aim disorder increase boil";

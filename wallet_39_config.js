@@ -1,1 +1,1 @@
-var mnemonic = "original upper bamboo saddle young goose honey photo oil range siren oval";
+var mnemonic = "frequent loyal perfect lounge collect front floor knife either artefact fluid put";

@@ -1,1 +1,1 @@
-var mnemonic = "practice brass below patch quarter surge vehicle fame yellow math sausage economy";
+var mnemonic = "model cloud guard bonus regret surface glimpse slice message ceiling lemon caught";

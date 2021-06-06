@@ -1,1 +1,1 @@
-var mnemonic = "choose intact goddess envelope zone basket oak fly pledge shed equal term";
+var mnemonic = "retire fragile pretty love pill expire gather hope recipe area reveal eye";

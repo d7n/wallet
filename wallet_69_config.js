@@ -1,1 +1,1 @@
-var mnemonic = "welcome dove fury perfect roof wolf innocent private social assume prosper secret";
+var mnemonic = "obscure lumber habit near congress best gap virus certain flag where talent";

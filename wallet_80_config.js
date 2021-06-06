@@ -1,1 +1,1 @@
-var mnemonic = "spray become brush pull wonder anxiety mom maze unable grief buddy high";
+var mnemonic = "boss number august ivory swallow broom top question giggle palm amount latin";

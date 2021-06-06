@@ -1,1 +1,1 @@
-var mnemonic = "violin winter mix fortune slender melody main caution afford mention vendor demise";
+var mnemonic = "illegal economy radio merit one riot endorse volume merit chair letter happy";

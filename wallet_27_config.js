@@ -1,1 +1,1 @@
-var mnemonic = "play present involve shadow shell fee remember able century carbon scare glimpse";
+var mnemonic = "invest powder explain culture carbon enough faint kiss spirit help galaxy stand";

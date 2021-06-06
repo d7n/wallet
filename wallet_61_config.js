@@ -1,1 +1,1 @@
-var mnemonic = "real parent kidney burst toward banana tourist prosper strike tide online diesel";
+var mnemonic = "index model tragic slogan domain drama load tourist bracket guard vast furnace";

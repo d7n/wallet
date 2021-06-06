@@ -1,1 +1,1 @@
-var mnemonic = "oil west urge drift auction coconut primary butter image scan alien accident";
+var mnemonic = "flee tape wire stone just arena eye armed ketchup maximum law help";

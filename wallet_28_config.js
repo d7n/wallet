@@ -1,1 +1,1 @@
-var mnemonic = "rule burst escape parent merit shoe enact chat grab number seat hurdle";
+var mnemonic = "hundred poem fringe peasant sun fault crunch carry mistake economy gain come";

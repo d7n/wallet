@@ -1,1 +1,1 @@
-var mnemonic = "boss problem taxi short derive tube jump home tool coconut still once";
+var mnemonic = "predict orphan success cable slow develop parent devote material season furnace talent";

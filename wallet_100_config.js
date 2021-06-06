@@ -1,1 +1,1 @@
-var mnemonic = "drip bike sunset logic river nothing struggle aisle orphan stuff pioneer globe";
+var mnemonic = "fetch junk canvas gap shiver alley elite addict curtain action obscure arrest";

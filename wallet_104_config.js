@@ -1,1 +1,1 @@
-var mnemonic = "arctic pretty april digital gloom orient rebel bicycle battle puppy near caught";
+var mnemonic = "coconut velvet creek people fiction bird inform rice rate script lava camp";

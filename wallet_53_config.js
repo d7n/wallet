@@ -1,1 +1,1 @@
-var mnemonic = "possible grab polar motor infant cheese size general cinnamon include search proud";
+var mnemonic = "speak exit right success leg payment reject survey muscle scout increase disorder";

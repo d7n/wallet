@@ -1,1 +1,1 @@
-var mnemonic = "success nephew priority wet smile return clever palm gain arch age captain";
+var mnemonic = "twice choice innocent witness globe crisp fragile toe employ practice price canoe";

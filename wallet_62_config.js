@@ -1,1 +1,1 @@
-var mnemonic = "nasty weird short winner birth team lawsuit equal federal language donate screen";
+var mnemonic = "dirt coach lumber prize picnic arm dirt fruit yard ripple safe bread";

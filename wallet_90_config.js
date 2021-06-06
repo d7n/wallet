@@ -1,1 +1,1 @@
-var mnemonic = "often protect brave summer sunny manage kiwi arrow tone tooth fringe purse";
+var mnemonic = "pistol orient rather document artwork crane explain relief prefer dial junior chef";

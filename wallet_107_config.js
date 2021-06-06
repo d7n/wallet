@@ -1,1 +1,1 @@
-var mnemonic = "grocery scout width engage announce sad quote spell maple angle pool observe";
+var mnemonic = "promote ceiling arrange globe trumpet urge shift hen boil small exercise hair";

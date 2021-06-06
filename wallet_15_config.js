@@ -1,1 +1,1 @@
-var mnemonic = "orphan two amazing flower thought crawl venture shoot surge era play crater";
+var mnemonic = "problem topple loop caution genuine risk chair alpha antenna shield dad camp";
