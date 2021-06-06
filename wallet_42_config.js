@@ -1,1 +1,1 @@
-var mnemonic = "general defense wire edit age crush absent render extend jeans evil infant";
+var mnemonic = "cement view consider sock ski desk case explain fashion axis large edit";

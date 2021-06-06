@@ -1,1 +1,1 @@
-var mnemonic = "world onion property napkin dry wealth harvest antenna praise indicate guilt marble";
+var mnemonic = "glory rigid rhythm silk park calm crumble cruise fan side ozone soft";

@@ -1,1 +1,1 @@
-var mnemonic = "shine strategy answer into whale clock endorse sniff sister foam tenant trip";
+var mnemonic = "arrange fish recall online sauce eight exchange doll sing ask portion depend";

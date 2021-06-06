@@ -1,1 +1,1 @@
-var mnemonic = "exclude avoid offer ethics more patch drastic kit current shrug device physical";
+var mnemonic = "place teach grass situate frost satisfy misery ivory annual federal heavy antenna";

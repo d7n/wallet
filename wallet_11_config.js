@@ -1,1 +1,1 @@
-var mnemonic = "april pepper wrap only caught network retire message scout under mistake awesome";
+var mnemonic = "ice hen sausage noise mad know review jaguar reject clutch below party";

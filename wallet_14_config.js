@@ -1,1 +1,1 @@
-var mnemonic = "method reunion century fever oppose hat comfort drip gloom tissue bachelor until";
+var mnemonic = "nurse mansion pistol person job fantasy field energy table general crew tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze various large paddle rotate crack view axis stereo system flee diesel";
+var mnemonic = "sudden season gloom worry arrow seminar load smoke curious hat page pistol";

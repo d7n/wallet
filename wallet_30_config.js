@@ -1,1 +1,1 @@
-var mnemonic = "tiny student renew tennis limb second hair glide short legend execute hole";
+var mnemonic = "fiber milk coast artist theme demise coast stumble surge art gap rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "little copy reunion regular toast reduce iron damp vessel tube gadget crucial";
+var mnemonic = "moon century payment radio laptop glide what put carbon small step brush";

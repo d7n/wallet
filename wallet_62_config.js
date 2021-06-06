@@ -1,1 +1,1 @@
-var mnemonic = "soon firm cruise garden face critic stove lazy exclude coconut pipe margin";
+var mnemonic = "ball banana remember step grab obtain mad silly figure patient capable insane";

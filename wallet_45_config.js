@@ -1,1 +1,1 @@
-var mnemonic = "dentist elegant pear dove crawl awkward control bronze talent match addict clinic";
+var mnemonic = "message piece test pear affair alter squeeze piece shiver post obvious naive";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch grab moral file rice fantasy debate blast angle lazy wheel expect";
+var mnemonic = "lend trumpet follow stem embark action sustain advance unknown faculty eager loop";

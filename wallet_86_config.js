@@ -1,1 +1,1 @@
-var mnemonic = "zebra army wall reward own dance slice green that palm sibling topic";
+var mnemonic = "reopen top glad knee mercy loop bike yard skin pledge core dream";

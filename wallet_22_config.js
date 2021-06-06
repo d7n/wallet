@@ -1,1 +1,1 @@
-var mnemonic = "idle frequent scissors blue absorb style ghost share extra cross approve dignity";
+var mnemonic = "jealous rack agree perfect list cigar stumble oval reward fiber one puzzle";

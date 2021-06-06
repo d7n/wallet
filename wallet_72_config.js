@@ -1,1 +1,1 @@
-var mnemonic = "program eyebrow scorpion umbrella pole hybrid obvious style upgrade census avocado embark";
+var mnemonic = "market space card dash seven profit sight lumber float return second dust";

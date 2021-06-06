@@ -1,1 +1,1 @@
-var mnemonic = "umbrella garlic sauce bachelor skull erase step marble hand parade mimic pen";
+var mnemonic = "box disorder shoulder bulk erupt this language dizzy arrive weapon spy reunion";

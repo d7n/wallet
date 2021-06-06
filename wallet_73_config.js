@@ -1,1 +1,1 @@
-var mnemonic = "shaft fragile trophy blanket polar design hotel tourist choose term anchor wonder";
+var mnemonic = "hospital inflict loyal plate pledge borrow exclude trip lava video dial olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "anger crawl autumn element magic essence giraffe fruit frozen session category rabbit";
+var mnemonic = "senior thank air carpet perfect present scorpion fun alpha valve spare junk";

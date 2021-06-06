@@ -1,1 +1,1 @@
-var mnemonic = "voice east genius critic surprise giggle secret float tenant refuse oppose rain";
+var mnemonic = "maximum squeeze dress motor choose solve bean tank silent crack busy devote";

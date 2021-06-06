@@ -1,1 +1,1 @@
-var mnemonic = "sound win nephew awesome tray plug remain dignity key end twenty chuckle";
+var mnemonic = "win black rate two chronic autumn soup pepper salute benefit era reason";

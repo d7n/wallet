@@ -1,1 +1,1 @@
-var mnemonic = "walk easy goddess tree know leader hip gloom fog crowd ugly plug";
+var mnemonic = "joy tourist excite wage situate tilt field belt siege captain grid bone";

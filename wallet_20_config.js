@@ -1,1 +1,1 @@
-var mnemonic = "genius twelve width rate cream try pupil more boy view outdoor elegant";
+var mnemonic = "outside series three food staff letter wolf carpet lab pitch casino swap";

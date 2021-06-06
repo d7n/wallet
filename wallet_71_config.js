@@ -1,1 +1,1 @@
-var mnemonic = "latin inmate click priority position practice wedding despair hunt october assist sugar";
+var mnemonic = "shy siege stumble service despair connect actress grid mechanic step popular sustain";

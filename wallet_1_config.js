@@ -1,1 +1,1 @@
-var mnemonic = "butter attitude vanish tenant snack invite void quit forward cabin blouse interest";
+var mnemonic = "pelican slogan zone strike into term ecology antique traffic north gym shaft";

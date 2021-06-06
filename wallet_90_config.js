@@ -1,1 +1,1 @@
-var mnemonic = "keen ocean dinosaur renew scorpion similar fine fold around right symbol excess";
+var mnemonic = "hill blossom crop sign same height security left light vivid sail setup";

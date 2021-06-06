@@ -1,1 +1,1 @@
-var mnemonic = "cement rebel include disagree collect echo sock host window ill town return";
+var mnemonic = "library own camp scatter cost chaos stone angry normal energy kangaroo spot";

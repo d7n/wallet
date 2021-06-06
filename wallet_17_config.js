@@ -1,1 +1,1 @@
-var mnemonic = "have into light critic muscle input execute remove hope daughter venture myself";
+var mnemonic = "gym east horn party beef follow gorilla fit dog ahead make more";

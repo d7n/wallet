@@ -1,1 +1,1 @@
-var mnemonic = "there taste state label lucky luxury ribbon trash refuse obtain bid dutch";
+var mnemonic = "mixture mobile illegal learn record dentist blush forum adjust disagree kiwi toss";

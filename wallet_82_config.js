@@ -1,1 +1,1 @@
-var mnemonic = "weather turtle when lens fine age pond wave click tunnel emotion endorse";
+var mnemonic = "crunch crew describe clarify also sort claw garlic until gun police often";

@@ -1,1 +1,1 @@
-var mnemonic = "hat vast despair mistake cause material sugar tumble wreck purity cherry era";
+var mnemonic = "media random puzzle vital suit vehicle push bicycle matrix vivid series clown";

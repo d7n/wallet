@@ -1,1 +1,1 @@
-var mnemonic = "pass world ostrich police student arrange betray mercy frog rug law rare";
+var mnemonic = "soon raise thrive muffin bless journey razor kiss hard unique federal network";

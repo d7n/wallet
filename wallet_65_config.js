@@ -1,1 +1,1 @@
-var mnemonic = "grass answer faith crunch plastic buddy subject isolate mass supply embrace height";
+var mnemonic = "library rare alarm vintage badge shallow resemble welcome slot harbor settle clerk";

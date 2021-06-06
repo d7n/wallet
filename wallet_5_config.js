@@ -1,1 +1,1 @@
-var mnemonic = "pizza life energy pumpkin offer smoke upper hospital cake lumber program twin";
+var mnemonic = "rapid portion sail forum away coil match gloom leader school peace discover";

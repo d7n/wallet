@@ -1,1 +1,1 @@
-var mnemonic = "unlock struggle same art page spell open pause infant jungle talent hire";
+var mnemonic = "crane extra jeans become resource forget increase appear gospel erase train figure";

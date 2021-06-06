@@ -1,1 +1,1 @@
-var mnemonic = "fish lab hope term retire tag group hazard panda add car mixture";
+var mnemonic = "awesome health body season frost dose coconut rebel program cousin reason craft";

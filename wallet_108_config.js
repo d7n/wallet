@@ -1,1 +1,1 @@
-var mnemonic = "change dice focus pride start symptom garment purity just face promote suffer";
+var mnemonic = "leg news animal rail nasty model edge lava razor common wait nut";

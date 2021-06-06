@@ -1,1 +1,1 @@
-var mnemonic = "token frequent mask panic twin cause goose hurry photo venture silver praise";
+var mnemonic = "flight comic bitter blush fury group shoot income fat joke best source";

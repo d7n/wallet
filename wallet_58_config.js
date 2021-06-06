@@ -1,1 +1,1 @@
-var mnemonic = "laundry hammer treat square churn south draft vital tenant emotion tree cherry";
+var mnemonic = "jaguar assist unfold middle park gate dash guitar canvas cream fancy live";

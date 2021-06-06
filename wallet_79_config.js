@@ -1,1 +1,1 @@
-var mnemonic = "era sheriff object find forum update dish smoke romance vault cactus mask";
+var mnemonic = "betray apology basic runway trade crisp silk patrol bargain ordinary patrol cause";

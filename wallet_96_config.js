@@ -1,1 +1,1 @@
-var mnemonic = "one creek ostrich rent hospital feature submit trial work whale alley unlock";
+var mnemonic = "toss win brand pledge churn company guitar reopen sea age lake inflict";

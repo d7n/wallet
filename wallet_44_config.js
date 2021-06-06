@@ -1,1 +1,1 @@
-var mnemonic = "unit bonus ranch repair minute bonus that tiger bid expire drive broom";
+var mnemonic = "fish rack comfort cannon museum pole leisure squirrel weasel dragon finger sand";

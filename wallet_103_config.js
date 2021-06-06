@@ -1,1 +1,1 @@
-var mnemonic = "abuse extra burden myself normal door journey humble lunch inch lyrics kind";
+var mnemonic = "coral twenty outer tortoise purchase unfold deny lemon donor earth slam hour";

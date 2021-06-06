@@ -1,1 +1,1 @@
-var mnemonic = "place gold south barely indoor order settle suffer smart horror novel ladder";
+var mnemonic = "harbor raven congress connect parent kitchen describe father cactus warm error buzz";

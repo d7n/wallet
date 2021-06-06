@@ -1,1 +1,1 @@
-var mnemonic = "rich pottery ill polar identify tide sweet confirm gadget sniff census crucial";
+var mnemonic = "seed life omit across damp tonight among cabin blast way mixed parade";

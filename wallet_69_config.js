@@ -1,1 +1,1 @@
-var mnemonic = "tomato stadium spike foil cotton jacket twice bargain enrich shrug foam skill";
+var mnemonic = "cream bronze start ginger recipe gorilla machine stomach rural tragic job train";

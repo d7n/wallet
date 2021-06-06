@@ -1,1 +1,1 @@
-var mnemonic = "rich plunge walnut audit select shrug topple hello close chief catalog radio";
+var mnemonic = "crawl still frequent crime appear impact concert amazing pipe lonely paper desk";

@@ -1,1 +1,1 @@
-var mnemonic = "eight draw tube tell utility shift sing term penalty diesel toss legal";
+var mnemonic = "similar lobster nose pledge great sail north skirt pretty debris million this";

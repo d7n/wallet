@@ -1,1 +1,1 @@
-var mnemonic = "crash mad friend hero chimney arrow funny doctor cousin idea useful sea";
+var mnemonic = "baby supply mule expire mammal mirror fresh medal hole zone mushroom nice";

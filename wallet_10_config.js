@@ -1,1 +1,1 @@
-var mnemonic = "million one trend impulse aim gloom patient purity pride process chapter happy";
+var mnemonic = "arm hurt please office oven universe kiwi fury wrap strategy cruise hospital";

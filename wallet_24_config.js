@@ -1,1 +1,1 @@
-var mnemonic = "skill muffin settle recycle large human raise transfer despair pink auto detail";
+var mnemonic = "toilet cube clarify tiny whisper fashion exile swing fitness owner assist color";

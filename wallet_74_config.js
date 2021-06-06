@@ -1,1 +1,1 @@
-var mnemonic = "spring candy joy captain neglect tell matter record canoe message jealous spatial";
+var mnemonic = "bunker bounce tray quit board injury paper way absent police dinner trouble";

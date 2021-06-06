@@ -1,1 +1,1 @@
-var mnemonic = "arrow vessel verify stamp cube diamond civil couch around kitten have dog";
+var mnemonic = "prison wonder often debris carbon supply angry pulse climb corn search sweet";

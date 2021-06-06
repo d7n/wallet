@@ -1,1 +1,1 @@
-var mnemonic = "letter elbow flush funny noble control crew fashion jazz fog area erosion";
+var mnemonic = "slight rabbit salmon calm paper long rose want today isolate album stuff";

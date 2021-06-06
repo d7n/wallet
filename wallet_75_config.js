@@ -1,1 +1,1 @@
-var mnemonic = "catch clay body sight vessel lens burst infant gravity once broccoli enjoy";
+var mnemonic = "quote mad pupil title sting robust gaze filter punch yard borrow share";

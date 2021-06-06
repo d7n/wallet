@@ -1,1 +1,1 @@
-var mnemonic = "detail sense almost become genre person margin cherry cloud glad network will";
+var mnemonic = "shed bird modify dose dog dilemma subway stomach envelope unable address end";

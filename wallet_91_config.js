@@ -1,1 +1,1 @@
-var mnemonic = "ordinary item session donor spice lunar oak foster security trend review border";
+var mnemonic = "immense husband manage alarm hamster target acid toward fringe frog dry nominee";

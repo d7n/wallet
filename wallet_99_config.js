@@ -1,1 +1,1 @@
-var mnemonic = "town convince inside network solve cat list mass feel acoustic unlock vacuum";
+var mnemonic = "oblige ask attract clerk flee diary sniff clay farm explain multiply donate";

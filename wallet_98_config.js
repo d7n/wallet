@@ -1,1 +1,1 @@
-var mnemonic = "squirrel nephew icon exotic metal weasel lunch joy congress firm bulb unit";
+var mnemonic = "daring cube clutch hand matrix fitness black lunar fatigue solar enhance sponsor";

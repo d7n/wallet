@@ -1,1 +1,1 @@
-var mnemonic = "whale shop below apple coil happy that now fashion flush test gown";
+var mnemonic = "forum group extra box dance laundry gallery ticket beef good wheel awful";

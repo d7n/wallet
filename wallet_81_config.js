@@ -1,1 +1,1 @@
-var mnemonic = "abuse bid oyster sing shiver rice fruit imitate chalk session orient merge";
+var mnemonic = "grain subway wear ramp blossom cream face shoe ensure genuine pill acid";

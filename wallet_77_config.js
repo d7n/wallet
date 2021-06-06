@@ -1,1 +1,1 @@
-var mnemonic = "light diesel adult unfold can sweet heavy tone endorse scorpion purchase acoustic";
+var mnemonic = "file resource lens trend logic fiction file snap already nerve imitate avoid";

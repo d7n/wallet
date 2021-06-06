@@ -1,1 +1,1 @@
-var mnemonic = "great biology mandate impose caution shiver engage burger spawn risk embark quiz";
+var mnemonic = "squirrel elevator original buddy aisle hub pledge regular inspire regret scan item";

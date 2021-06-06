@@ -1,1 +1,1 @@
-var mnemonic = "camp tiny length term jacket female discover dynamic void congress upset unhappy";
+var mnemonic = "bag cube monkey cotton mercy stereo void month profit few there medal";

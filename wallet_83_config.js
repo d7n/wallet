@@ -1,1 +1,1 @@
-var mnemonic = "next car scissors mandate rate forget whisper couch senior behind chair move";
+var mnemonic = "off real chest couple round shield fork knock grit oven bright cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "stage brave crush patient puppy scan ritual enroll party purpose emotion lottery";
+var mnemonic = "arrange foil verb tree early airport castle ship remain alarm inform artist";

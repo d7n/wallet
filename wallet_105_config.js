@@ -1,1 +1,1 @@
-var mnemonic = "object script nasty keep text exhibit iron sight polar kitten bottom grain";
+var mnemonic = "inch ill icon high worry volume eye satoshi junk beach short major";

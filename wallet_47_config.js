@@ -1,1 +1,1 @@
-var mnemonic = "sponsor open glory setup bulk spot pig erase unit weather family series";
+var mnemonic = "news goat pulse consider drive economy clump asset hand gather fancy idea";

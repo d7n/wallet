@@ -1,1 +1,1 @@
-var mnemonic = "unveil celery say hole lawsuit shock gather kick useless media album jungle";
+var mnemonic = "giant syrup flock taste bid twelve setup mango note rug inside creek";

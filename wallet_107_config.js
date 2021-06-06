@@ -1,1 +1,1 @@
-var mnemonic = "lunar final drastic light access federal pink video silent load install unable";
+var mnemonic = "wedding insect dwarf hazard endless actual letter glide display picnic sport kidney";

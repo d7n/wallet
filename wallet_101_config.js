@@ -1,1 +1,1 @@
-var mnemonic = "tail once use approve fine frame total copy desert pair balance vivid";
+var mnemonic = "pepper model erase tube buyer struggle myth insane say vehicle table girl";

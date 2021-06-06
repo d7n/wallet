@@ -1,1 +1,1 @@
-var mnemonic = "slam lab spirit vintage diesel focus hedgehog tube jeans host vapor excite";
+var mnemonic = "calm pipe frog bundle multiply acquire endorse group edit anger input black";

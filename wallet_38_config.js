@@ -1,1 +1,1 @@
-var mnemonic = "apology vehicle hobby theme kiss purity clean pill enhance height scout essence";
+var mnemonic = "razor barely item legend cover another bind ball dinosaur eager coil point";

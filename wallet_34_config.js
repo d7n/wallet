@@ -1,1 +1,1 @@
-var mnemonic = "organ grant bargain brand install frown scrub curve shy hybrid begin inform";
+var mnemonic = "sea satisfy dynamic butter decide balance name answer arctic century vacant tide";

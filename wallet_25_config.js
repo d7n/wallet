@@ -1,1 +1,1 @@
-var mnemonic = "cushion ladder section minute wasp infant mother middle account blame vague goose";
+var mnemonic = "long audit follow various dumb suit brisk trade legend tray frame roof";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure thing kid sustain sustain service begin glimpse wing rough define merge";
+var mnemonic = "observe impact poem elevator blanket primary thunder urban return brother cherry cattle";

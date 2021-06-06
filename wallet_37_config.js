@@ -1,1 +1,1 @@
-var mnemonic = "baby pipe such stay buddy volcano omit item scare spray riot promote";
+var mnemonic = "abuse scale gauge monster spot there dose bronze shove squirrel horn erase";

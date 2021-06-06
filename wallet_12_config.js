@@ -1,1 +1,1 @@
-var mnemonic = "cliff flip credit horn rocket supply arena pet busy remember sheriff violin";
+var mnemonic = "never soda plug grunt volcano harvest holiday code oval risk sadness reduce";

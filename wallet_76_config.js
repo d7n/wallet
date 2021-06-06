@@ -1,1 +1,1 @@
-var mnemonic = "pole much abandon abuse present system youth swamp capital rude follow crawl";
+var mnemonic = "drum modify clock peasant bullet enforce gold capital annual plunge pyramid jump";

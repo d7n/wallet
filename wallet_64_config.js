@@ -1,1 +1,1 @@
-var mnemonic = "disease tuition divert during insect since speak hill caution three ability then";
+var mnemonic = "light cloud access gap scrap off kid seed maze rebuild sphere act";

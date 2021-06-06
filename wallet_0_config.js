@@ -1,1 +1,1 @@
-var mnemonic = "future symbol finger cupboard museum mule case old dove festival left loud";
+var mnemonic = "maid tourist write crystal road aspect connect scissors sign help clog patch";
