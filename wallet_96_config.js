@@ -1,1 +1,1 @@
-var mnemonic = "question mom foam sausage swallow bachelor decorate trap essay miss cram thank";
+var mnemonic = "cat fire hour kit solid gift twist surge provide strong body party";

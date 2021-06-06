@@ -1,1 +1,1 @@
-var mnemonic = "switch exit device bounce ask proud knee surface violin similar vehicle trim";
+var mnemonic = "winner turtle flavor life access arrow salmon glance situate immense west choice";

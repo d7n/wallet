@@ -1,1 +1,1 @@
-var mnemonic = "orange funny what raccoon army eight labor purpose swim hair employ current";
+var mnemonic = "lift because photo street chaos tenant swim client abuse weather wrist basic";

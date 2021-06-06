@@ -1,1 +1,1 @@
-var mnemonic = "trash thunder yard coil weapon before hen drill comfort perfect dumb body";
+var mnemonic = "dentist social divert lazy wonder dose mirror camera lecture glow basic later";

@@ -1,1 +1,1 @@
-var mnemonic = "horror phrase lift ball hold decline until rural wagon actor stadium child";
+var mnemonic = "guitar extra equal have denial magic unit thunder wife kite bottom during";

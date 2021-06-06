@@ -1,1 +1,1 @@
-var mnemonic = "dignity stereo logic where bullet balcony nephew gravity clip word punch payment";
+var mnemonic = "dose kiss hotel today sniff pill alter sheriff pigeon horror trust relax";

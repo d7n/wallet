@@ -1,1 +1,1 @@
-var mnemonic = "frost echo market celery pipe age sock reveal two coach voice buyer";
+var mnemonic = "wink mechanic town question purpose clutch sample mass peasant long render vessel";

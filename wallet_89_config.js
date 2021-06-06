@@ -1,1 +1,1 @@
-var mnemonic = "stuff erosion comfort mistake stay asset subway ugly rather magnet educate forum";
+var mnemonic = "person twelve trigger patrol beach cheap exit wolf night country boy fire";

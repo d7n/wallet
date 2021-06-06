@@ -1,1 +1,1 @@
-var mnemonic = "wheel cereal dwarf peanut simple marine west where gate once ball volcano";
+var mnemonic = "outdoor wolf conduct enhance spin future budget tell grant acquire agree tide";

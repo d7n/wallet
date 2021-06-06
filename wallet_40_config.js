@@ -1,1 +1,1 @@
-var mnemonic = "strong ginger glue dinosaur exhibit army bean violin citizen gasp benefit pupil";
+var mnemonic = "local salmon tomato sock guitar idea nice climb boil silk gorilla dune";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard advice panic fog animal crew legend crumble aerobic tattoo goose retire";
+var mnemonic = "coast uncover wall canal grief sell gloom lottery strike volcano race tool";

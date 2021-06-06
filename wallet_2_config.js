@@ -1,1 +1,1 @@
-var mnemonic = "thrive insect citizen sleep liar dose cabin top enemy ridge code bonus";
+var mnemonic = "spoil plunge dragon nuclear license maid coffee lady slice plug pilot crop";

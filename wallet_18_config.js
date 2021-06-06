@@ -1,1 +1,1 @@
-var mnemonic = "blood sister observe soup nuclear vivid chicken milk afraid body hungry receive";
+var mnemonic = "upset accuse surface any auction top brick dream route galaxy blanket large";

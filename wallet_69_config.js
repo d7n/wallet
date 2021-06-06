@@ -1,1 +1,1 @@
-var mnemonic = "smile model share tourist dynamic buyer drum crime taste smooth twin provide";
+var mnemonic = "couple spoil miracle engine shed nasty option horror random belt heavy inside";

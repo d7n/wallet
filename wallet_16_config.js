@@ -1,1 +1,1 @@
-var mnemonic = "urge bag swim prepare process fade pear shell brief filter globe topic";
+var mnemonic = "acquire cruise mean advice solar grape exit siren poet alcohol crawl doctor";

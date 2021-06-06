@@ -1,1 +1,1 @@
-var mnemonic = "can elbow alone episode thrive corn text twice grunt night addict whip";
+var mnemonic = "sugar remember advice fault puppy proof vicious industry below depth hurry else";

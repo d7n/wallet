@@ -1,1 +1,1 @@
-var mnemonic = "detail shine around soda fringe depth language harsh occur vanish like festival";
+var mnemonic = "burden century destroy debris expose remind vessel involve memory energy paddle pet";

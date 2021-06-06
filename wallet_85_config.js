@@ -1,1 +1,1 @@
-var mnemonic = "indoor walk mouse silver session where pill enforce token obtain ghost gown";
+var mnemonic = "giraffe defy pig actual curtain engine cinnamon remove square wing tonight quiz";

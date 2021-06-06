@@ -1,1 +1,1 @@
-var mnemonic = "napkin effort express flock rare firm pelican disorder bless purpose metal speak";
+var mnemonic = "pigeon noodle gaze real meadow permit dilemma shell boil december goddess suggest";

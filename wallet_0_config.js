@@ -1,1 +1,1 @@
-var mnemonic = "filter final artist claw oppose expand link critic jewel claim thought north";
+var mnemonic = "choose cream tornado prison man soft predict foot wing proud setup cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "media street odor smooth cinnamon stove strike funny drink example alien degree";
+var mnemonic = "aware limb kid frost length fog board dog fish cage fork ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "source lens clay early peanut change shop spring valid actual drip feel";
+var mnemonic = "blast bounce surge joy suffer half connect hero endorse pond report true";

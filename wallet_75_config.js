@@ -1,1 +1,1 @@
-var mnemonic = "swear punch force antique swear vibrant forward between crash video east harvest";
+var mnemonic = "skill wife voyage pigeon ignore black supreme egg inject maximum pudding renew";

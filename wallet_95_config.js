@@ -1,1 +1,1 @@
-var mnemonic = "fog blast just frequent sword buddy brick rate rhythm skull come spell";
+var mnemonic = "junk story among juice before creek royal notable gauge north lecture soldier";

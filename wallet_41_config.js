@@ -1,1 +1,1 @@
-var mnemonic = "penalty repair hill peanut vivid grab huge tomato wild awake solve ancient";
+var mnemonic = "raven swear bachelor luxury shove bench boil simple warm always record bar";

@@ -1,1 +1,1 @@
-var mnemonic = "message muscle kite brand zone drama decrease mixed absorb engine repair amazing";
+var mnemonic = "master lonely ankle swing question believe pole frost wave adult lamp night";

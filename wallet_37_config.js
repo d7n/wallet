@@ -1,1 +1,1 @@
-var mnemonic = "soup squirrel kitten sense inject peanut walnut battle spring marble duty market";
+var mnemonic = "pattern together garage tool dad swamp enemy shoulder estate claim best lounge";

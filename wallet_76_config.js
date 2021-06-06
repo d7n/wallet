@@ -1,1 +1,1 @@
-var mnemonic = "magnet history add brain razor visual few diet fox name frame arrange";
+var mnemonic = "ride endorse symbol glow curve trigger little album meadow manage apple bar";

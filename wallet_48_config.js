@@ -1,1 +1,1 @@
-var mnemonic = "involve cricket damage trial orphan swear private kidney sort rug dolphin reason";
+var mnemonic = "film armed present immune output melt cave silent hand social target excuse";

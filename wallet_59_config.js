@@ -1,1 +1,1 @@
-var mnemonic = "excess castle unusual jar iron pear sister cost story alert pretty test";
+var mnemonic = "coffee margin thought reason group uniform inherit feature stable gossip quit title";

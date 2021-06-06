@@ -1,1 +1,1 @@
-var mnemonic = "ranch metal injury sound analyst again exile rookie nuclear decline lesson bundle";
+var mnemonic = "ticket minimum hockey void judge toss prevent behind opinion dinner normal meat";

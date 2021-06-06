@@ -1,1 +1,1 @@
-var mnemonic = "insane reward since must high source food inhale nerve weird cash happy";
+var mnemonic = "budget retreat mobile chronic birth motor carbon rough addict you good kitchen";

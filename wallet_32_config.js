@@ -1,1 +1,1 @@
-var mnemonic = "reflect sand barely memory lobster slender funny machine moment core address gun";
+var mnemonic = "sock goat mixed seek fluid crunch same manual floor room glimpse together";

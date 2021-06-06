@@ -1,1 +1,1 @@
-var mnemonic = "spike patient dizzy appear elite step twelve walk tell glare purpose inject";
+var mnemonic = "hidden release cinnamon they glide hand angry eye cluster game just advance";

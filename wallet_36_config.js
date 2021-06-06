@@ -1,1 +1,1 @@
-var mnemonic = "edit include gesture roast grunt trust crumble grief sting enlist glance exist";
+var mnemonic = "apple wrap sausage gesture latin answer reform end another call pipe runway";

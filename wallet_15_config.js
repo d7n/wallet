@@ -1,1 +1,1 @@
-var mnemonic = "tongue dust lunar scorpion summer drum warfare tennis inner bind echo tape";
+var mnemonic = "arrive matter equal alcohol fetch civil dizzy embark size alter urban dynamic";

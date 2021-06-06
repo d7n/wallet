@@ -1,1 +1,1 @@
-var mnemonic = "hawk can burst liar lock list jewel swap club web usual boat";
+var mnemonic = "journey post jar helmet accuse element wine move enroll option need above";

@@ -1,1 +1,1 @@
-var mnemonic = "wink below credit cactus chunk volume ensure business garbage stand december enhance";
+var mnemonic = "denial chapter scrub midnight able never trouble team exhibit remove wonder produce";

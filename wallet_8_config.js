@@ -1,1 +1,1 @@
-var mnemonic = "attract chase example tide crush radar clinic buyer blush myth mule glow";
+var mnemonic = "river involve evoke market dish search push window humor body fantasy fly";

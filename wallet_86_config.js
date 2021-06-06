@@ -1,1 +1,1 @@
-var mnemonic = "web betray donor wood senior notable bonus float reopen grit eight legal";
+var mnemonic = "spider resource chapter grid damage pledge split ship valve click rough relief";

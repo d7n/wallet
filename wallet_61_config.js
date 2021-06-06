@@ -1,1 +1,1 @@
-var mnemonic = "hurry tobacco blade junk surface castle museum knife observe opinion talent until";
+var mnemonic = "unusual mind angle defense office hobby spirit amount goose announce trick tray";

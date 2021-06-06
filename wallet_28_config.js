@@ -1,1 +1,1 @@
-var mnemonic = "sleep question monkey tourist accident elder joke garment cup mosquito conduct spy";
+var mnemonic = "dentist pear room feature camera cricket near idea lock planet alley broccoli";

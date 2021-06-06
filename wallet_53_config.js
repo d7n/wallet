@@ -1,1 +1,1 @@
-var mnemonic = "genius design normal educate syrup lab fine kidney giant dose antenna slow";
+var mnemonic = "napkin neither wrestle wrap festival evolve arrive spare dash almost between buyer";

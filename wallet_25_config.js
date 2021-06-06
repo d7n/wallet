@@ -1,1 +1,1 @@
-var mnemonic = "more torch method husband above victory jealous table yard issue image cupboard";
+var mnemonic = "useless lion excite autumn crater beyond peanut devote virus wine clap item";

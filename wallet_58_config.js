@@ -1,1 +1,1 @@
-var mnemonic = "teach minor capital clerk private wink senior wait slab filter cherry squirrel";
+var mnemonic = "hedgehog below wonder unit nuclear huge ask sudden agent patient route mad";

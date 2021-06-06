@@ -1,1 +1,1 @@
-var mnemonic = "review fix kid tank lecture type slot drop woman sure essence creek";
+var mnemonic = "liar quote report sausage vital century bar cabin satoshi palace brief shed";

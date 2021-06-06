@@ -1,1 +1,1 @@
-var mnemonic = "top salon nuclear barely moral grape mushroom public gadget shift rural case";
+var mnemonic = "opinion inflict tobacco fold focus panel normal enemy purpose fitness lamp moment";

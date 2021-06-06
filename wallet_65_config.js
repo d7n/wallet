@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin little carry sugar clinic hover jewel quote lonely popular swift depend";
+var mnemonic = "original neck border evil remain slide outer mass machine catch reflect culture";

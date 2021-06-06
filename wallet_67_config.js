@@ -1,1 +1,1 @@
-var mnemonic = "share idle winner media feed direct embrace bubble joy climb chaos rebel";
+var mnemonic = "soup extend genre security submit fork harbor awesome boss promote weekend firm";

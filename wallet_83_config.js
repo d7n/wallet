@@ -1,1 +1,1 @@
-var mnemonic = "satisfy deny acid grass woman surprise purse inside number green choice fee";
+var mnemonic = "organ runway protect nephew bronze finish barely coconut bread hand media aim";

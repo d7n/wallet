@@ -1,1 +1,1 @@
-var mnemonic = "leave expire tackle unit aspect call scout limb fever matter pink true";
+var mnemonic = "girl creek harsh obey satoshi pistol expire palace plug grief anchor program";

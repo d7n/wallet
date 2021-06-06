@@ -1,1 +1,1 @@
-var mnemonic = "tortoise artist lumber trigger bargain device record use segment ski neither jump";
+var mnemonic = "crouch almost second genius also tribe sail globe between fantasy seek parent";

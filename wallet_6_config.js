@@ -1,1 +1,1 @@
-var mnemonic = "ignore picture lunar sort stool pulp knife skate blade siren plate make";
+var mnemonic = "sentence venue purse enhance wrap unable ceiling give stereo rural cannon curve";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket nothing pause grunt confirm vapor wreck pave drink praise depend piece";
+var mnemonic = "series wrong reject jump flower settle manage broccoli exchange october public office";

@@ -1,1 +1,1 @@
-var mnemonic = "spike panic silk veteran olive bid pink kite purchase middle square tone";
+var mnemonic = "shop client always tiny aerobic brand lyrics exact quote enforce monkey chair";

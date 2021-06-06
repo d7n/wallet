@@ -1,1 +1,1 @@
-var mnemonic = "swamp armor deal order aware subject name conduct train special author admit";
+var mnemonic = "cousin lounge crumble suspect ready run pull oil galaxy much sauce price";

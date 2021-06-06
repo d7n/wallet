@@ -1,1 +1,1 @@
-var mnemonic = "shell review obtain hip window tray blind chunk assault soccer token home";
+var mnemonic = "reunion jealous village wrap strong quantum vintage aim buyer sausage load model";

@@ -1,1 +1,1 @@
-var mnemonic = "horn jacket chief shed swim chase window boy vital impulse edge now";
+var mnemonic = "affair radio trap lunch legend trend candy bridge orient have average image";

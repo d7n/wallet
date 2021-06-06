@@ -1,1 +1,1 @@
-var mnemonic = "match resemble early elephant great cupboard budget elephant airport loud lift isolate";
+var mnemonic = "fame clock spell marble ball earn circle path armed teach since limit";

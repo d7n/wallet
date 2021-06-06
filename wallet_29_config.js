@@ -1,1 +1,1 @@
-var mnemonic = "task mouse eye top train august bounce cricket rally slender rookie emotion";
+var mnemonic = "feed key swarm gold holiday divert theory disagree latin hammer amused zebra";

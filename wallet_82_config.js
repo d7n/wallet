@@ -1,1 +1,1 @@
-var mnemonic = "junior knife hip metal fine deliver glare faith gesture athlete area salon";
+var mnemonic = "control ribbon waste because antenna utility wife keep limb suspect trade scrap";

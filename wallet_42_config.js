@@ -1,1 +1,1 @@
-var mnemonic = "key parent curious aspect green buzz regret gym purity build water grass";
+var mnemonic = "fold resemble strategy gun used tornado quiz front entire among indoor absent";

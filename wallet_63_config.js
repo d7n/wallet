@@ -1,1 +1,1 @@
-var mnemonic = "correct notice pipe access arrow icon giggle onion section patch sight neither";
+var mnemonic = "city estate twice raise shed wagon organ scrap ancient country ticket bright";

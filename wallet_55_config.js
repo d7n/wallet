@@ -1,1 +1,1 @@
-var mnemonic = "minute story execute wrap bottom submit layer great erupt brother leaf bonus";
+var mnemonic = "peanut switch federal twelve detect tonight subject deal sugar civil wish stock";

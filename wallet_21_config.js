@@ -1,1 +1,1 @@
-var mnemonic = "track innocent enhance train certain mosquito cool dirt proof social term rifle";
+var mnemonic = "helmet castle immune impose choose typical trick able erosion into under waste";

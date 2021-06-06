@@ -1,1 +1,1 @@
-var mnemonic = "lend ranch error innocent clock rhythm erupt question account earth then tone";
+var mnemonic = "radar tiny awful wrong correct topple together icon blossom quick equip tongue";

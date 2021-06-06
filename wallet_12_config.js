@@ -1,1 +1,1 @@
-var mnemonic = "print deputy afford glue true quit lazy drink kite chalk gesture side";
+var mnemonic = "ritual move number spell detail scatter tonight piano sand isolate ritual nation";

@@ -1,1 +1,1 @@
-var mnemonic = "about turn split car orchard turn mention usage fit wrestle melt rocket";
+var mnemonic = "caution insane knife task proof wrestle video that provide know large guitar";

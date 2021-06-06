@@ -1,1 +1,1 @@
-var mnemonic = "region over attitude utility ticket journey crouch insect left confirm audit alone";
+var mnemonic = "quit alpha bid keen ankle menu spirit glide bone old series purse";

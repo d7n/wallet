@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin cannon toe donor north mother fine enrich omit comic peanut chalk";
+var mnemonic = "surge aisle tuition orange radio barrel health dismiss fragile salmon uphold company";

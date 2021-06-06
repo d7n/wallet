@@ -1,1 +1,1 @@
-var mnemonic = "clog depend visual pumpkin grant exile fence private bus famous blast skin";
+var mnemonic = "grab next egg borrow room frog depend atom utility harbor release slogan";

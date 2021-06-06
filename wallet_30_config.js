@@ -1,1 +1,1 @@
-var mnemonic = "evolve exhibit kiwi ski brand roast olympic palace derive myth ginger truck";
+var mnemonic = "soft heavy soccer rack exhibit thought much inner orphan follow liberty pretty";

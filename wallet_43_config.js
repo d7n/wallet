@@ -1,1 +1,1 @@
-var mnemonic = "blanket shadow twelve cat document main badge divide record culture walnut lion";
+var mnemonic = "vanish situate over hire play fiscal luxury love route tortoise prevent stereo";

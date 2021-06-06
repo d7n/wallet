@@ -1,1 +1,1 @@
-var mnemonic = "rail auto boost expand rely typical wild bottom movie wear stove mystery";
+var mnemonic = "require case critic hour animal key smile claw disease riot snow network";

@@ -1,1 +1,1 @@
-var mnemonic = "property hollow empty artefact custom spatial thunder prosper amused undo height wrestle";
+var mnemonic = "history field bubble flag output inject major noodle fringe enforce critic equip";

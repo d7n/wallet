@@ -1,1 +1,1 @@
-var mnemonic = "risk shine soft label govern inherit bring tobacco parrot update flee busy";
+var mnemonic = "duck hand genuine humor aisle vacuum divorce intact reject slush table suggest";

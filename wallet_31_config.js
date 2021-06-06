@@ -1,1 +1,1 @@
-var mnemonic = "remind fix water crumble eager kind squeeze cancel memory crater ginger crime";
+var mnemonic = "cage brown toe novel boost sustain scheme canvas kind bring vacuum bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "topple surface link just weapon notice bag term heavy dune left across";
+var mnemonic = "link invite wool icon sort symptom expand airport series tobacco input jewel";

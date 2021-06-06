@@ -1,1 +1,1 @@
-var mnemonic = "glance cricket frown prepare million post lady maximum drift fold chef film";
+var mnemonic = "loyal path man rare expect system jar episode escape museum drum drive";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse material ostrich immune curious coast radio cake step cabin extra paddle";
+var mnemonic = "embody assault aunt possible pottery basket remove hip girl repair pitch shoe";

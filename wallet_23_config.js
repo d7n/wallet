@@ -1,1 +1,1 @@
-var mnemonic = "hub matter current task inform gasp feature region real champion vacuum market";
+var mnemonic = "road mushroom police crucial history order garbage kick come moral miracle truly";

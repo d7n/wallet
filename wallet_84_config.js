@@ -1,1 +1,1 @@
-var mnemonic = "motor slab venue club rural miracle lock leaf mixture distance casual proof";
+var mnemonic = "where carpet near version shell child tray fantasy pair gorilla lecture alone";

@@ -1,1 +1,1 @@
-var mnemonic = "play butter ability fancy olive audit adapt canvas evil clerk garden shadow";
+var mnemonic = "immense involve elevator bachelor hurt section escape extend initial field peasant inhale";

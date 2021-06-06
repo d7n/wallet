@@ -1,1 +1,1 @@
-var mnemonic = "rely trigger fragile salt boring lumber dream whip hill destroy egg absent";
+var mnemonic = "undo alpha tornado furnace bridge repeat deny frog photo daring mixture fiber";

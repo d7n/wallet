@@ -1,1 +1,1 @@
-var mnemonic = "pill explain give kidney hundred month friend term guide kitchen august bamboo";
+var mnemonic = "enrich resist creek lunar eagle purse cricket rule divide oyster weather congress";

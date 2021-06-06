@@ -1,1 +1,1 @@
-var mnemonic = "boost book sand brain fox envelope smooth book catch gift provide produce";
+var mnemonic = "jealous apple during portion sell island fly century tiger memory immune loop";

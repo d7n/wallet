@@ -1,1 +1,1 @@
-var mnemonic = "spice debris cargo attitude lunar essence property cheap smoke amazing tip wealth";
+var mnemonic = "proud muffin half swamp lonely island salmon girl excuse calm fox blood";

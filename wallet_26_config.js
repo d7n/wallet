@@ -1,1 +1,1 @@
-var mnemonic = "debris space favorite aware office practice nurse initial alone want rival between";
+var mnemonic = "saddle main cheap stairs conduct fire define unfair child amount typical accident";

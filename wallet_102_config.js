@@ -1,1 +1,1 @@
-var mnemonic = "tail bless visa camera team ignore dragon divorce happy bid vivid purse";
+var mnemonic = "cherry client comic relief loop alcohol sea once client machine return mixed";

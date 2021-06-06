@@ -1,1 +1,1 @@
-var mnemonic = "boost fun very chase gown glide orphan nominee verify version jacket boil";
+var mnemonic = "bus clutch donate alarm winter width agree universe frozen reopen rigid enemy";

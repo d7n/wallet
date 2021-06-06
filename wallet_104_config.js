@@ -1,1 +1,1 @@
-var mnemonic = "gesture hurt void snake toward draw clutch current second trap steak night";
+var mnemonic = "effort chicken blame gun lamp slide worry item shallow cover toss all";

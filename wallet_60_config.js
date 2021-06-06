@@ -1,1 +1,1 @@
-var mnemonic = "enable grab waste scale industry indicate lion acquire craft advice vivid dish";
+var mnemonic = "version receive deliver favorite essay grocery expand grief olympic copper fluid bless";

@@ -1,1 +1,1 @@
-var mnemonic = "host february icon giraffe baby gaze novel bamboo position erase pyramid mask";
+var mnemonic = "toe taste elder blast spy arena banana same appear cute farm library";

@@ -1,1 +1,1 @@
-var mnemonic = "layer country second again scrub cheese unfair fade beef aunt faint damp";
+var mnemonic = "hawk dynamic notable cloud brother work type citizen raven return layer garden";

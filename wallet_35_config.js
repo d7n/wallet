@@ -1,1 +1,1 @@
-var mnemonic = "birth extra age rely cactus biology liar apple half spawn detect toddler";
+var mnemonic = "trouble spray below stick royal access stove motor enroll arctic horror session";
