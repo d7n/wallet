@@ -1,1 +1,1 @@
-var mnemonic = "rack record envelope boil drill grocery mesh glide retire canvas market burden";
+var mnemonic = "wear disease blind drastic wreck laugh express brave stem game half duty";

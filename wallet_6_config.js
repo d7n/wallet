@@ -1,1 +1,1 @@
-var mnemonic = "vehicle debris wisdom width permit depart sausage embrace art spring earn arena";
+var mnemonic = "movie prosper casual remind violin mesh leaf minor divert crouch hero skin";

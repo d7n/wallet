@@ -1,1 +1,1 @@
-var mnemonic = "fan area liquid hair jar must north off valley ticket kiss section";
+var mnemonic = "dice mouse dial vote orient butter need pottery travel kick surround oven";

@@ -1,1 +1,1 @@
-var mnemonic = "present organ area bike chronic weather focus call trap autumn slender photo";
+var mnemonic = "slice attract example color health brick master measure unaware choose either great";

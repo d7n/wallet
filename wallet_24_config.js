@@ -1,1 +1,1 @@
-var mnemonic = "tongue grain firm mother danger toss wrist more innocent best section swap";
+var mnemonic = "long joy replace cloth near announce spell shrug payment reveal shift bus";

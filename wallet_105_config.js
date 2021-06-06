@@ -1,1 +1,1 @@
-var mnemonic = "scatter magic imitate knife guide liberty buffalo deposit tribe term reunion shift";
+var mnemonic = "couch nasty steak such energy imitate bonus tragic culture lonely damage grow";

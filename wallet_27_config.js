@@ -1,1 +1,1 @@
-var mnemonic = "guitar danger hazard arrest barrel pelican royal wasp deer raise gun typical";
+var mnemonic = "city poverty decrease decade believe umbrella sword label auto salmon left canal";

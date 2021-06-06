@@ -1,1 +1,1 @@
-var mnemonic = "scrap dove season answer same zero air hour rough diamond alien step";
+var mnemonic = "couple answer wrist lady super frozen another lamp crew sphere dog much";

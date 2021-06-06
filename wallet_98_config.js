@@ -1,1 +1,1 @@
-var mnemonic = "wine memory become visit also cereal attitude subject choose segment nation squeeze";
+var mnemonic = "version bundle boring economy slab alien floor develop almost pair rude tired";

@@ -1,1 +1,1 @@
-var mnemonic = "tide dirt luxury loop offer avocado lazy hamster license setup demand sick";
+var mnemonic = "rocket nothing knock luxury pizza monitor feed curve judge draw knife replace";

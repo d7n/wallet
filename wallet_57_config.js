@@ -1,1 +1,1 @@
-var mnemonic = "ignore museum dirt curtain wolf indoor desert steel baby that split angle";
+var mnemonic = "agent eyebrow gather thumb desk balance pitch various sheriff second clown clay";

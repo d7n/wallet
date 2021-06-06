@@ -1,1 +1,1 @@
-var mnemonic = "edit roof fish romance glare series jar crime normal ahead practice bag";
+var mnemonic = "mixed pumpkin spell odor pledge teach rail helmet gesture maid over stomach";

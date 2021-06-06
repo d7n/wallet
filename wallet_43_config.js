@@ -1,1 +1,1 @@
-var mnemonic = "affair gap easy wide apology reopen middle initial skull city fatal excess";
+var mnemonic = "tip pulse traffic ranch concert weapon know double review glove type submit";

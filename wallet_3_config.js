@@ -1,1 +1,1 @@
-var mnemonic = "rural arrow check industry sauce genre despair make flag train piece cage";
+var mnemonic = "patient estate any range ankle reason heavy olympic eight talent group guard";

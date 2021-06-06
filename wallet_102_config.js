@@ -1,1 +1,1 @@
-var mnemonic = "stem margin banana song nurse expect income enemy change mean seven benefit";
+var mnemonic = "camp agree stairs hill exile require arrow always flight ecology blouse door";

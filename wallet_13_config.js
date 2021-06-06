@@ -1,1 +1,1 @@
-var mnemonic = "old prepare village echo cave unhappy laptop miracle model edit castle reopen";
+var mnemonic = "school regret violin keep soldier grief wrestle dial define legend sure coin";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon obscure boost icon drive symptom machine rose dish tooth crush edit";
+var mnemonic = "happy bicycle toss goose reward syrup desk body hope decrease myself describe";

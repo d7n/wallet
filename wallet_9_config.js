@@ -1,1 +1,1 @@
-var mnemonic = "champion churn busy when lottery episode curve silver half vibrant exile party";
+var mnemonic = "river lab diamond wire way hundred crumble window pigeon swift memory uphold";

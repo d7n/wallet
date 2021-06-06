@@ -1,1 +1,1 @@
-var mnemonic = "rare craft decline wool share boring nuclear raccoon eye minor promote moral";
+var mnemonic = "echo basket ask inner together announce annual december art deer come robot";

@@ -1,1 +1,1 @@
-var mnemonic = "memory shuffle joy music alone today height gasp march clog elbow exhibit";
+var mnemonic = "girl top sad chief range bar coyote escape put always very draw";

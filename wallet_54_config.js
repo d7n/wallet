@@ -1,1 +1,1 @@
-var mnemonic = "just list aim spawn stadium spoon cup general weasel lift desk payment";
+var mnemonic = "amazing nose crew accident robust meadow supreme pact cupboard virus spin man";

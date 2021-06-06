@@ -1,1 +1,1 @@
-var mnemonic = "tide fatigue garden pony tag pass rival other permit assist private endorse";
+var mnemonic = "lend elder seed involve diamond arrange toy chunk royal shallow brisk top";

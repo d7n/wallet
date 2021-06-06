@@ -1,1 +1,1 @@
-var mnemonic = "lock tiny atom turkey desk success profit possible jump armed project will";
+var mnemonic = "glue approve merge wall eight strong educate senior lunch noble loud useless";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy possible dizzy wisdom woman flavor weekend erode ladder decrease script play";
+var mnemonic = "salon tree steak traffic empty auction three prevent pond dilemma birth jump";

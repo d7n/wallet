@@ -1,1 +1,1 @@
-var mnemonic = "clean image approve practice rural absent play nothing expire oblige town walnut";
+var mnemonic = "door giant student custom tomorrow owner goddess unable educate text surround butter";

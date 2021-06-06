@@ -1,1 +1,1 @@
-var mnemonic = "latin burst fever drastic solve burden wait menu good please riot wire";
+var mnemonic = "calm stuff air lesson wink gentle asthma spy special student brand best";

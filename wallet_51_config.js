@@ -1,1 +1,1 @@
-var mnemonic = "metal turn dish chase young august unlock disease spy ocean decline start";
+var mnemonic = "genuine gentle hurdle grass fitness drive fix again coast cheap roast repeat";

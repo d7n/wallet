@@ -1,1 +1,1 @@
-var mnemonic = "impact patrol donate coral vicious grit useful together barely relief head notice";
+var mnemonic = "flush good ginger twelve excite say motor butter service right flat famous";

@@ -1,1 +1,1 @@
-var mnemonic = "exact hybrid okay erase fatigue vacant adult brown flee able opera great";
+var mnemonic = "explain number solution relief bright curious alpha identify tone ridge episode mansion";

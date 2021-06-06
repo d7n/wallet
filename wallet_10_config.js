@@ -1,1 +1,1 @@
-var mnemonic = "grace dad beyond bamboo gloom enough end okay weapon nominee pulp creek";
+var mnemonic = "rabbit mushroom cause ankle you skull alpha picture swift order october curve";

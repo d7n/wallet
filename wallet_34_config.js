@@ -1,1 +1,1 @@
-var mnemonic = "staff dance rebuild process guess spirit evoke menu stem forum manage hurdle";
+var mnemonic = "erase fence define fresh devote hybrid electric fatal alley street sausage armed";

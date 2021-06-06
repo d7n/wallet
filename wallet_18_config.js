@@ -1,1 +1,1 @@
-var mnemonic = "exile someone enrich lab catch lamp embody attack speed mom leisure similar";
+var mnemonic = "prosper govern horror birth random symptom note kitten surge bar nature wealth";

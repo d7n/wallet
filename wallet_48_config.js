@@ -1,1 +1,1 @@
-var mnemonic = "there ride biology clean recall demand timber emerge film brain egg pulp";
+var mnemonic = "obvious broccoli biology balance mansion bind duck fancy orbit tuna major hundred";

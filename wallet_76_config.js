@@ -1,1 +1,1 @@
-var mnemonic = "tiger cable tackle special merge evil immense mistake title retreat second share";
+var mnemonic = "find develop real answer split disagree original puppy recall sheriff symbol industry";

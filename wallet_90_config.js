@@ -1,1 +1,1 @@
-var mnemonic = "knife hello spider jelly similar cupboard palace diamond switch album clean inject";
+var mnemonic = "maze grunt fog connect piece opinion pottery scale idea pink zero guide";

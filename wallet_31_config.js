@@ -1,1 +1,1 @@
-var mnemonic = "illegal buddy arena pig latin fade crew ask keen bleak oil fun";
+var mnemonic = "hammer winter large devote diagram parrot other woman neither gate unknown head";

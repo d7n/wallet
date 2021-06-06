@@ -1,1 +1,1 @@
-var mnemonic = "replace hip joke visit virus fade meat open shrimp brand endorse ceiling";
+var mnemonic = "skate stereo claim butter reduce term behave barrel learn stable place prepare";

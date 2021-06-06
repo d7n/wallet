@@ -1,1 +1,1 @@
-var mnemonic = "provide town shadow hover library ripple disease lava middle pupil eyebrow maximum";
+var mnemonic = "nuclear canal among tray surface change grocery brand duck grant song accident";

@@ -1,1 +1,1 @@
-var mnemonic = "champion wild coil kick shrimp alley garbage tail catch caught energy truth";
+var mnemonic = "elite blossom fiction voice orange rich poet drip drastic box improve truly";

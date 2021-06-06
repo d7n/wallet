@@ -1,1 +1,1 @@
-var mnemonic = "laugh front weasel symbol loud bargain private dismiss detail parrot quick ocean";
+var mnemonic = "unable sense prize dog indicate hood clerk one mimic design illness person";

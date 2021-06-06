@@ -1,1 +1,1 @@
-var mnemonic = "expand pact goat defy insect mirror need again nothing dog resource fault";
+var mnemonic = "decorate year size gasp potato satisfy monkey lava hidden misery actress student";

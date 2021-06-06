@@ -1,1 +1,1 @@
-var mnemonic = "search harbor dash zone undo skate traffic century giraffe awful game invite";
+var mnemonic = "clock tilt twin struggle body lawn oven unlock wealth light february sun";

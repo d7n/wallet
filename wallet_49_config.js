@@ -1,1 +1,1 @@
-var mnemonic = "device inject inch chase color alert inhale melody scheme turtle another mechanic";
+var mnemonic = "scrub leaf trouble novel convince robot vendor super pink eternal arctic mistake";

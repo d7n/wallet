@@ -1,1 +1,1 @@
-var mnemonic = "addict mosquito divide wait cinnamon trick oak rocket stereo midnight drink type";
+var mnemonic = "grass task foil section artwork glory swamp admit front slab slim wool";

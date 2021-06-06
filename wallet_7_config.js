@@ -1,1 +1,1 @@
-var mnemonic = "distance execute clock avoid frown hobby better hedgehog humble ahead custom globe";
+var mnemonic = "inhale lava weekend ketchup predict avocado off sign latin maple mad bunker";

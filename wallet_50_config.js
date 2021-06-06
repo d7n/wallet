@@ -1,1 +1,1 @@
-var mnemonic = "frozen inmate engine chaos again charge best neither such crop provide clarify";
+var mnemonic = "injury topple minor deputy gauge winter blame just spell apology sun jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "believe burger catch poet balcony early appear wage chat duty message goat";
+var mnemonic = "potato knife release grass mix rude corn giggle carbon derive purse wine";

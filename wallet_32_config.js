@@ -1,1 +1,1 @@
-var mnemonic = "ranch diagram phrase found execute stay know puzzle giraffe pink miracle enjoy";
+var mnemonic = "struggle hollow quick limit orphan group program among negative potato option kingdom";

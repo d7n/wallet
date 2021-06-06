@@ -1,1 +1,1 @@
-var mnemonic = "situate sing master toe smile ugly asthma bean fancy butter addict blue";
+var mnemonic = "wheel course wrist network truck borrow range car certain pupil mind tree";

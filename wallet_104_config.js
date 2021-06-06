@@ -1,1 +1,1 @@
-var mnemonic = "slow bulk sad script donkey recipe powder tiny party fold proof script";
+var mnemonic = "material burger order verify ready excess super lecture actress oak expand jewel";

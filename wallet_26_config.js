@@ -1,1 +1,1 @@
-var mnemonic = "wing acquire release base soda audit wide disease unlock iron patient neither";
+var mnemonic = "cannon shell solar cement century play mule deliver fame length pass october";

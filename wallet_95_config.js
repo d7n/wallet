@@ -1,1 +1,1 @@
-var mnemonic = "mountain coffee wonder quick either seven office question report broccoli bunker sadness";
+var mnemonic = "whip same above debris layer club word coil suit duck jelly snake";

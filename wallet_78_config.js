@@ -1,1 +1,1 @@
-var mnemonic = "giant crucial local similar hub crime strike noodle conduct shock wild nasty";
+var mnemonic = "recycle when army hollow fame wash pass age tackle magic flee wage";

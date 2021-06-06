@@ -1,1 +1,1 @@
-var mnemonic = "input recall coconut exhaust negative cushion meadow obvious someone subway method talent";
+var mnemonic = "jealous develop want beach object robot strategy now song stove bring quarter";

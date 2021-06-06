@@ -1,1 +1,1 @@
-var mnemonic = "tongue heart elegant phrase vote buzz trouble van flower catch leave have";
+var mnemonic = "liberty vibrant rhythm total worry drink boil state milk online casual music";

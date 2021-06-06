@@ -1,1 +1,1 @@
-var mnemonic = "wine naive dilemma enact leg patch ability north helmet castle split window";
+var mnemonic = "brush antique vital coast supply mean worth guess cool message chalk long";

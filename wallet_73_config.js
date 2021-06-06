@@ -1,1 +1,1 @@
-var mnemonic = "coach tooth escape height garment pistol exclude ridge mountain limit case wedding";
+var mnemonic = "person change marriage purpose defense obvious giggle toe soldier canal unfair sword";

@@ -1,1 +1,1 @@
-var mnemonic = "paper jeans birth sun forest assault melt matter satoshi timber borrow state";
+var mnemonic = "matter garage essay iron car kitten tray sight axis tower velvet body";

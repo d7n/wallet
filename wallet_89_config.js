@@ -1,1 +1,1 @@
-var mnemonic = "drink monitor else adjust upon mandate rice foil badge coconut inch close";
+var mnemonic = "stairs high wasp now birth stay orchard fly ceiling agree ladder result";

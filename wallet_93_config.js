@@ -1,1 +1,1 @@
-var mnemonic = "profit jealous kick trigger elephant reunion tragic soup damp pill gym episode";
+var mnemonic = "build gather wreck seek van quick stomach helmet thing because business resemble";

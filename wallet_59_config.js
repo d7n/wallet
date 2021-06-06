@@ -1,1 +1,1 @@
-var mnemonic = "rough jump coconut alien wheel huge diary depth ramp donate ahead fatigue";
+var mnemonic = "alcohol magnet industry shift machine human eager cabbage announce law sport trap";

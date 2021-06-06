@@ -1,1 +1,1 @@
-var mnemonic = "flight assume sword bleak wage nominee vocal scout limit expire input mystery";
+var mnemonic = "ripple twin admit potato blade spice prison ticket gentle hill manual enhance";

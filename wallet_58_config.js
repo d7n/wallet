@@ -1,1 +1,1 @@
-var mnemonic = "globe card rookie entry legal clown doll orange prosper tool spy voice";
+var mnemonic = "uncle daughter biology produce pepper fall script bicycle sibling false mobile fossil";

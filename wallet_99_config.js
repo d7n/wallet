@@ -1,1 +1,1 @@
-var mnemonic = "injury range hint person street fatigue hat index twelve cover soda banner";
+var mnemonic = "like focus denial gallery sting mind produce escape human danger try auction";

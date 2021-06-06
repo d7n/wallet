@@ -1,1 +1,1 @@
-var mnemonic = "jeans damage avocado warm answer panther excuse forum fence detect often today";
+var mnemonic = "cupboard begin marble wink expire mosquito install erupt layer blast pull post";

@@ -1,1 +1,1 @@
-var mnemonic = "click spell apology chef minute young sail first thought reunion toddler decide";
+var mnemonic = "make review pond silent talk mountain match tennis dry trouble govern cram";

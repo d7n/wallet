@@ -1,1 +1,1 @@
-var mnemonic = "invest alarm ivory trade virtual enroll ill magnet chicken express please world";
+var mnemonic = "plate era fiber ready sister enlist lady rocket walnut dynamic balance under";

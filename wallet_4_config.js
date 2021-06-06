@@ -1,1 +1,1 @@
-var mnemonic = "connect goat miss try pride bamboo wasp broccoli answer album client hand";
+var mnemonic = "search tip cabin canvas share calm since surface fly diesel milk first";

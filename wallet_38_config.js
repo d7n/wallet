@@ -1,1 +1,1 @@
-var mnemonic = "club token draft opera name kid jar absurd knife observe marriage believe";
+var mnemonic = "funny color penalty photo jealous rough duck dove bus anger coral air";

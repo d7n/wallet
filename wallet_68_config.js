@@ -1,1 +1,1 @@
-var mnemonic = "erode lend stock father lava addict awkward faith explain solar pet old";
+var mnemonic = "blast time tape where paper wage caught cheap exclude friend pattern wild";

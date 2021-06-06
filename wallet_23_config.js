@@ -1,1 +1,1 @@
-var mnemonic = "right hold tonight polar know wing meadow buzz cotton salad sport demand";
+var mnemonic = "cargo coach eager warrior crush kitchen again physical bubble focus earth industry";

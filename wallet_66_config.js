@@ -1,1 +1,1 @@
-var mnemonic = "ozone dutch liberty estate enact ordinary pet tired trash develop sense slush";
+var mnemonic = "hollow mobile shock canal service cotton arrest gown razor auction pretty reopen";

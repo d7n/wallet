@@ -1,1 +1,1 @@
-var mnemonic = "brisk ice remember nothing budget bridge mix flip text mother fold decrease";
+var mnemonic = "truck orange account volume tone drum thank bacon hope tenant garden auction";

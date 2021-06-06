@@ -1,1 +1,1 @@
-var mnemonic = "issue vanish age usual rebel wrist volume effort gain upgrade economy tilt";
+var mnemonic = "runway absurd humble pool sock bottom mystery client local hazard stamp parade";

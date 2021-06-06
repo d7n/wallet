@@ -1,1 +1,1 @@
-var mnemonic = "weapon style chief wet control pudding device bleak boat message churn peasant";
+var mnemonic = "glow call garage drop cat remember siege type voyage impulse boat robust";

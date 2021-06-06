@@ -1,1 +1,1 @@
-var mnemonic = "dolphin road vessel discover buddy soda surface exact aspect large ignore elbow";
+var mnemonic = "funny wine ridge distance large visa student carbon rigid stomach sniff sauce";

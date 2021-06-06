@@ -1,1 +1,1 @@
-var mnemonic = "aware dumb bone seven miracle seat time flame swift enter ensure breeze";
+var mnemonic = "mail clarify hawk funny average verify ready choose cancel arrest slow quarter";

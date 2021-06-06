@@ -1,1 +1,1 @@
-var mnemonic = "fly process limit journey century try people fold cotton pizza hobby result";
+var mnemonic = "about south yard shove example young foster inmate car lift caught grace";

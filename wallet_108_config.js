@@ -1,1 +1,1 @@
-var mnemonic = "typical barrel rule burger daughter debris actual door original vendor service business";
+var mnemonic = "cash apple annual bean dutch endorse oak such post boat vicious release";

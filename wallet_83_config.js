@@ -1,1 +1,1 @@
-var mnemonic = "raw fitness explain minimum any rotate rely olive wear business model night";
+var mnemonic = "gap next stick cash world innocent vacuum gate vicious virtual autumn atom";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk fame crew jacket begin gesture buyer spawn net capable weasel security";
+var mnemonic = "catch apart media hazard grow prefer fork winner topple oil skin copper";

@@ -1,1 +1,1 @@
-var mnemonic = "sister total friend ivory dress quarter plastic champion advice expand tunnel modify";
+var mnemonic = "imitate enhance engage height flush fatigue balance congress range answer submit bright";

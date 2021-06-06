@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog wrist place relief casual involve bone inside kingdom mercy push deal";
+var mnemonic = "window ask chicken modify mansion slot dutch brush pet wheat monitor jar";

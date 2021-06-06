@@ -1,1 +1,1 @@
-var mnemonic = "open tribe minute maid trade crack absorb confirm vital mesh honey sample";
+var mnemonic = "cruel tell expand spring bargain atom arrest harvest pen pyramid cannon fence";

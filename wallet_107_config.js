@@ -1,1 +1,1 @@
-var mnemonic = "treat cover blade able live hidden warrior outside oven skull away stadium";
+var mnemonic = "buzz sell oven proud amount stock erosion grace winter lounge autumn morning";

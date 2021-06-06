@@ -1,1 +1,1 @@
-var mnemonic = "wolf plate pond effort friend orient meat please cricket void carbon review";
+var mnemonic = "athlete wheel other eye art oval tone sentence toddler female coconut camera";

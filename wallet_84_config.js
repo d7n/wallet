@@ -1,1 +1,1 @@
-var mnemonic = "practice siren awful across mistake hundred staff useful ticket amazing bid ozone";
+var mnemonic = "thrive walk alpha accuse travel finish lyrics remind leaf ask rifle bright";

@@ -1,1 +1,1 @@
-var mnemonic = "eight orchard razor maple trick trust isolate copy donate hamster unhappy want";
+var mnemonic = "solar hen error media result uniform walk uncover stable settle opera brisk";

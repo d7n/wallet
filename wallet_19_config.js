@@ -1,1 +1,1 @@
-var mnemonic = "become social sunset amateur blossom sunny giggle hub six popular today age";
+var mnemonic = "fresh shaft aware giggle tiger blossom organ worry ticket viable audit cattle";

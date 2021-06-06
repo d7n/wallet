@@ -1,1 +1,1 @@
-var mnemonic = "net depart kingdom buffalo comfort kidney noise snow galaxy want attack kitchen";
+var mnemonic = "patch safe clever pact surprise rally lesson people youth gown praise system";

@@ -1,1 +1,1 @@
-var mnemonic = "birth damp leaf century price guilt employ crucial slow defy novel tent";
+var mnemonic = "first twist lecture true trigger style purpose rely that true twelve unaware";

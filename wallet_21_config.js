@@ -1,1 +1,1 @@
-var mnemonic = "you giraffe naive opera expose lunar uncover roast vacant update drift magic";
+var mnemonic = "kit rubber hold lock sand chapter stock wine phone minute artist sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle squirrel coral emotion quit tourist weasel spread album flavor fiber crew";
+var mnemonic = "warrior pelican violin lecture priority tuna pigeon clinic piece size carbon dutch";

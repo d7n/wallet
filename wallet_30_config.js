@@ -1,1 +1,1 @@
-var mnemonic = "resemble topple bounce stumble carbon empower page inner gorilla decade hour swap";
+var mnemonic = "cost virus mad throw receive unveil sadness payment task pluck vessel cupboard";

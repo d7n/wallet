@@ -1,1 +1,1 @@
-var mnemonic = "tail suit warfare roast west top helmet exchange asset paper bid must";
+var mnemonic = "sleep deny banner reason latin follow curve custom solid citizen fetch quit";
