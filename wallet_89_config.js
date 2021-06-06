@@ -1,1 +1,1 @@
-var mnemonic = "cable arrive dash elbow little crash fat piece paper silver earth vivid";
+var mnemonic = "prepare host beef lawn over nuclear doll now farm verb smart fuel";

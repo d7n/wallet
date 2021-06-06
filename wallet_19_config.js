@@ -1,1 +1,1 @@
-var mnemonic = "silly sunset basket enforce casino poverty diagram coral illness swing join lounge";
+var mnemonic = "play fall abuse silly argue strategy glimpse push dolphin iron father wheel";

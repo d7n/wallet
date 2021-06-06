@@ -1,1 +1,1 @@
-var mnemonic = "scene admit gossip forward digital pencil reopen also modify evolve horn buddy";
+var mnemonic = "beyond soon inch salt glare embark elephant mistake palace alarm amused way";

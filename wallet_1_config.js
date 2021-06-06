@@ -1,1 +1,1 @@
-var mnemonic = "bargain maid business leg world promote culture market much mention another order";
+var mnemonic = "dentist hero actual scatter scale clown require attitude silver tornado top comfort";

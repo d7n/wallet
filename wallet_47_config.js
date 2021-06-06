@@ -1,1 +1,1 @@
-var mnemonic = "trumpet all vague lamp sniff entry buffalo try scissors honey clap vehicle";
+var mnemonic = "enforce owner evoke crumble alien board fox staff all rough inch toilet";

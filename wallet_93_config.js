@@ -1,1 +1,1 @@
-var mnemonic = "praise network market tomorrow receive hurt increase gold hard rib opera way";
+var mnemonic = "chat phone soul solar margin satoshi derive alpha piano ritual express obtain";

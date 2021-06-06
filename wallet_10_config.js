@@ -1,1 +1,1 @@
-var mnemonic = "region tomorrow oppose element material suggest spawn isolate twin what unable flip";
+var mnemonic = "actor room merge turkey raise shoot magic panda old music other theme";

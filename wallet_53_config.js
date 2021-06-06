@@ -1,1 +1,1 @@
-var mnemonic = "cave police insane lazy combine pizza region betray valley hole fan foster";
+var mnemonic = "bounce song possible cactus doctor donate snack mule doll laundry mechanic amused";

@@ -1,1 +1,1 @@
-var mnemonic = "display picnic armed truly fly moon normal symbol nut leave meadow habit";
+var mnemonic = "state armor address cloud sausage achieve spot survey check quick mass trophy";

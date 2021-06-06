@@ -1,1 +1,1 @@
-var mnemonic = "sibling addict design vendor more youth select virus purpose camp erosion artwork";
+var mnemonic = "include report risk wait unique dream isolate major holiday sphere rubber tide";

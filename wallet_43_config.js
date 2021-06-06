@@ -1,1 +1,1 @@
-var mnemonic = "matter shoot bonus grain able legend creek express sign turkey unique leopard";
+var mnemonic = "off before decrease grab tackle table tower symbol cupboard holiday nephew fashion";

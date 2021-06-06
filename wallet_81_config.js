@@ -1,1 +1,1 @@
-var mnemonic = "gadget viable clip rocket fat credit risk dice trust monitor poem ivory";
+var mnemonic = "extend loan fresh diet item surprise ensure unable virtual soccer silver silent";

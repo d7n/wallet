@@ -1,1 +1,1 @@
-var mnemonic = "ecology vessel oxygen spider left normal kidney wild slow swim upset size";
+var mnemonic = "unable paper breeze fox forum lake elephant clump topple shy say scout";

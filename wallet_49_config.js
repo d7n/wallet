@@ -1,1 +1,1 @@
-var mnemonic = "fiber truly attend whip plastic champion seat misery moral mango balcony corn";
+var mnemonic = "satisfy hip wisdom spider outside aerobic charge hunt obey brief shuffle input";

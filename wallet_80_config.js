@@ -1,1 +1,1 @@
-var mnemonic = "holiday control great kid attitude iron curious planet play author number credit";
+var mnemonic = "brush critic speak weapon wash measure brain pyramid security rule result forward";

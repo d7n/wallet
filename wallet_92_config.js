@@ -1,1 +1,1 @@
-var mnemonic = "pelican banner sphere dinosaur filter island defense useless flavor health like injury";
+var mnemonic = "sample couple valley wrist congress innocent sibling make social body close abstract";

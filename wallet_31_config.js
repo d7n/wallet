@@ -1,1 +1,1 @@
-var mnemonic = "toss network old warfare idea second uncle picture gap tooth alpha kit";
+var mnemonic = "warrior wedding piano biology amateur surround laundry useful stone domain armed twelve";

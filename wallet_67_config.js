@@ -1,1 +1,1 @@
-var mnemonic = "volume reject hire curtain meat circle drink antique drama fork pioneer panic";
+var mnemonic = "fan cry cigar resemble hair dog device hybrid artist item fancy gap";

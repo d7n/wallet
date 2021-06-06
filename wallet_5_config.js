@@ -1,1 +1,1 @@
-var mnemonic = "jeans worry amused victory arch trigger minute nest address notice dune guard";
+var mnemonic = "sort arrest solve myself hour impact able sun hen fog category require";

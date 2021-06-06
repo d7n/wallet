@@ -1,1 +1,1 @@
-var mnemonic = "spin behave clinic faint leader soup benefit crucial feature spatial cheap obtain";
+var mnemonic = "assume marriage puzzle light outside letter priority mimic virtual stereo library maid";

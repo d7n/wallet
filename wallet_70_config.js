@@ -1,1 +1,1 @@
-var mnemonic = "envelope assist ribbon pink jealous siren check feature junk primary pair eyebrow";
+var mnemonic = "pupil burger glue memory tongue two creek remove parrot hungry cricket chronic";

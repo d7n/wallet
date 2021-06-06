@@ -1,1 +1,1 @@
-var mnemonic = "razor steak luxury card split stove involve need paddle into raccoon deputy";
+var mnemonic = "honey body slight main olympic govern original answer hockey idea fringe sibling";

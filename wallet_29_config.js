@@ -1,1 +1,1 @@
-var mnemonic = "top dune bargain address ceiling crime throw pear belt sight verb mesh";
+var mnemonic = "hour window front parent pelican mistake melody rain silly near swim plunge";

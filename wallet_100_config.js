@@ -1,1 +1,1 @@
-var mnemonic = "arrange wet sound staff pretty change circle van mind heart oxygen peace";
+var mnemonic = "pink tag decorate game knee long various truth lonely reunion still cook";

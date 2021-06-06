@@ -1,1 +1,1 @@
-var mnemonic = "female canyon acoustic donkey potato anger wrong camera insect blur dawn image";
+var mnemonic = "merit bounce occur trumpet injury art will popular valid quote random boost";

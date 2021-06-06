@@ -1,1 +1,1 @@
-var mnemonic = "weapon hen mail vicious remain wife armed high found scrub jealous engine";
+var mnemonic = "cloth parent atom crouch time lady pole soon glance language glimpse spot";

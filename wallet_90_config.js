@@ -1,1 +1,1 @@
-var mnemonic = "razor jump match oxygen chicken edge funny area sound museum screen nothing";
+var mnemonic = "battle basket antique include sorry correct mind drastic into fury exile damage";

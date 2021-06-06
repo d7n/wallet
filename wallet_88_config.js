@@ -1,1 +1,1 @@
-var mnemonic = "possible renew pluck total permit lava faith equip genius shuffle normal recall";
+var mnemonic = "stadium arrest step staff pilot involve future rubber twist humor imitate ill";

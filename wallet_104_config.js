@@ -1,1 +1,1 @@
-var mnemonic = "jaguar winter coast solve hello exist tornado describe attitude cereal woman wealth";
+var mnemonic = "snake fever above snake beach tackle crater trial reason island employ source";

@@ -1,1 +1,1 @@
-var mnemonic = "top sword shield level original summer tenant shrimp art order bread green";
+var mnemonic = "judge spike proud make barely put tortoise jacket wrong labor noise tornado";

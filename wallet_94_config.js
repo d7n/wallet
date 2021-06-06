@@ -1,1 +1,1 @@
-var mnemonic = "pear critic piano dolphin analyst muscle empty arena loud alert middle task";
+var mnemonic = "figure tumble talent wide acquire scrub attract pride today amused build fitness";

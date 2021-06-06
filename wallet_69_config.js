@@ -1,1 +1,1 @@
-var mnemonic = "frozen much trash mixture laundry concert knock ill snack earth group lumber";
+var mnemonic = "cheap damage thumb hand robust oppose mutual angry absurd leader theory kite";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone witness cliff same sound injury march rhythm tragic mansion blossom pioneer";
+var mnemonic = "prosper bring umbrella stadium pulse wasp agent say else demise gauge daughter";

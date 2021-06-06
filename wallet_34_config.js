@@ -1,1 +1,1 @@
-var mnemonic = "sword napkin dawn major club right blouse width tissue frame spoon fruit";
+var mnemonic = "tomato issue bunker snake wagon exist giggle aerobic divide evil satisfy regret";

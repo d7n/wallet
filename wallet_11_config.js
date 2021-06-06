@@ -1,1 +1,1 @@
-var mnemonic = "license release involve asset poem radio effort observe plastic crush head rural";
+var mnemonic = "coyote century fragile use laundry hazard never side social copy weapon power";

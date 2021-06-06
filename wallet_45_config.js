@@ -1,1 +1,1 @@
-var mnemonic = "deny syrup famous receive major fitness because oven nice receive ribbon drama";
+var mnemonic = "expire sauce flee bronze celery emerge mountain clay sure dignity napkin lesson";

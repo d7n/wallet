@@ -1,1 +1,1 @@
-var mnemonic = "eight chief believe picnic because wheel super dawn effort media orbit pink";
+var mnemonic = "mixed trade awful olympic blouse energy minute waste carry quality wisdom dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "advice fuel syrup inflict youth suit fever online wrap debate rural shaft";
+var mnemonic = "kingdom marriage panther undo before coast seat govern annual bench fabric earth";

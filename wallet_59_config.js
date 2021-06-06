@@ -1,1 +1,1 @@
-var mnemonic = "saddle ecology guitar curious lake dose trophy garage include same witness polar";
+var mnemonic = "ladder twist glance bread mixed aisle lend window love list caught power";

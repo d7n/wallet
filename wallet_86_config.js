@@ -1,1 +1,1 @@
-var mnemonic = "raccoon danger fancy one word panther blossom fatigue buddy smoke hill water";
+var mnemonic = "region want impact rose brain stadium client early idle invest jar virus";

@@ -1,1 +1,1 @@
-var mnemonic = "music seminar yellow wife twenty animal armed advice silent grab smile swear";
+var mnemonic = "immune rug evil improve grit hover hawk gown main sort body hybrid";

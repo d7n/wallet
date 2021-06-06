@@ -1,1 +1,1 @@
-var mnemonic = "good remove pudding brick fantasy inhale capable trust swear indicate admit island";
+var mnemonic = "wage antique jealous sport trip life shoot awake measure card blind civil";

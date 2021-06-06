@@ -1,1 +1,1 @@
-var mnemonic = "impact skull wise pool pigeon melody fever drama give siren toddler visit";
+var mnemonic = "shove rubber real attend exhaust media unaware mix lawn voice dawn fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "total brush almost curious cross walk mask fatal teach odor say pulse";
+var mnemonic = "claw absurd uniform ladder sorry clip silk can title tired huge island";

@@ -1,1 +1,1 @@
-var mnemonic = "account tobacco day wing dust loop pave narrow gorilla weapon flush scout";
+var mnemonic = "hurt almost mom transfer wage wing ball truth prevent still hammer tent";

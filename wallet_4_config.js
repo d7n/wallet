@@ -1,1 +1,1 @@
-var mnemonic = "trouble asset cousin sword slow opera fragile stage arm priority royal zebra";
+var mnemonic = "pilot fiber limb juice loan sauce bronze secret cake lend tiny track";

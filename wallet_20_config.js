@@ -1,1 +1,1 @@
-var mnemonic = "clown force quality enrich rigid pet insect human social short invite midnight";
+var mnemonic = "room breeze monitor drink next fly kiwi zoo armor maximum ancient provide";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate addict foot radar brave drop abstract enjoy despair rich alley use";
+var mnemonic = "vintage month sight bitter wealth sweet attack fashion comfort trip knee inhale";

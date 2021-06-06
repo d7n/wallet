@@ -1,1 +1,1 @@
-var mnemonic = "infant weekend later ride potato cream brush pride teach donate elite owner";
+var mnemonic = "lawn airport baby confirm winter home lottery another act firm over stage";

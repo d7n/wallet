@@ -1,1 +1,1 @@
-var mnemonic = "outdoor congress utility exhibit tonight peanut kite rocket corn beauty twice stand";
+var mnemonic = "once mean front silent woman tornado inject lend genius pact sail blur";

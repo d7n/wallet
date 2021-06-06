@@ -1,1 +1,1 @@
-var mnemonic = "today gain antique hard monkey gather orange grunt tuna item cigar fatal";
+var mnemonic = "record feature novel glove cost injury cloth under donkey material puppy flip";

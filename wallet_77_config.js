@@ -1,1 +1,1 @@
-var mnemonic = "snack reward unknown open woman step twenty dizzy buyer bless erode among";
+var mnemonic = "turkey aspect empty airport gold home sight ghost hover abandon sunset access";

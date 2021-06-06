@@ -1,1 +1,1 @@
-var mnemonic = "claw round trip announce whale movie actor mixed okay bulk nerve there";
+var mnemonic = "wood client stage keep mean stand mind prepare hello coral afraid month";

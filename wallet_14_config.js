@@ -1,1 +1,1 @@
-var mnemonic = "report west lab ripple kangaroo slender armor cake funny whisper drama cousin";
+var mnemonic = "middle open differ ceiling brief wife whale client bird dismiss must start";

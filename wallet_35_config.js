@@ -1,1 +1,1 @@
-var mnemonic = "pupil elephant puppy guess price flash voyage poem receive diary sweet maple";
+var mnemonic = "green athlete century glimpse truck erase sugar maze road shy used surround";

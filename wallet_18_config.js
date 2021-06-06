@@ -1,1 +1,1 @@
-var mnemonic = "love system slide prepare reflect reform ski screen love vivid load task";
+var mnemonic = "outdoor garage shift fix horse high mutual clown ball you basket emerge";

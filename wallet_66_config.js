@@ -1,1 +1,1 @@
-var mnemonic = "chaos update cheap alarm frame lava prefer drift able orange sea puzzle";
+var mnemonic = "quantum advice uphold rescue tribe idea rescue element drum minor early apology";

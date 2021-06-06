@@ -1,1 +1,1 @@
-var mnemonic = "prevent addict area then output summer cousin harvest tortoise catalog satisfy author";
+var mnemonic = "captain token ivory lunar hard stage piano rubber age infant gossip early";

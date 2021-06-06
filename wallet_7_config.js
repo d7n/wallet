@@ -1,1 +1,1 @@
-var mnemonic = "grunt tissue audit author magic warrior file song interest poem print south";
+var mnemonic = "sample forum under mother exercise blame attack best spoil sound when glide";

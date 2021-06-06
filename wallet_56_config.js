@@ -1,1 +1,1 @@
-var mnemonic = "script onion copper pepper dry sing goose old water direct blouse erase";
+var mnemonic = "clock tooth excuse cushion dream segment dragon coconut property guess bench perfect";

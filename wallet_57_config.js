@@ -1,1 +1,1 @@
-var mnemonic = "mandate blue better cake trade inherit tornado predict cart grit metal lend";
+var mnemonic = "dismiss lava wedding vast puppy begin expose curve novel alone roof purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "keen virtual coyote meadow swim fox crawl pretty genre dad borrow trial";
+var mnemonic = "twin chaos short weekend fiber check argue test supply dial junior tackle";

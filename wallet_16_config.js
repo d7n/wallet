@@ -1,1 +1,1 @@
-var mnemonic = "ask field gun history silly person trigger toilet laundry boy coffee casual";
+var mnemonic = "endorse deny cattle excuse put dress elbow cruel drama shed combine sunset";

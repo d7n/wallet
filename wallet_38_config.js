@@ -1,1 +1,1 @@
-var mnemonic = "beyond month afraid shock comic neck width blanket order mask carry craft";
+var mnemonic = "salt diesel large pencil shift clap replace soup genre mystery foil shop";

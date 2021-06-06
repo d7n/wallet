@@ -1,1 +1,1 @@
-var mnemonic = "prosper door gauge obscure enable express catch teach siren spoil eternal history";
+var mnemonic = "safe clock envelope state comic car vote inflict list immune track matter";

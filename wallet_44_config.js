@@ -1,1 +1,1 @@
-var mnemonic = "light success champion pull between visit water junior mirror mother spray soccer";
+var mnemonic = "pave verb fly mom decrease loud about admit puzzle poem arrange still";

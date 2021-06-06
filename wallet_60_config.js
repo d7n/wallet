@@ -1,1 +1,1 @@
-var mnemonic = "repeat hope thrive sock pulp usual random rapid web design pipe fatal";
+var mnemonic = "body sentence trash around volume host hub nasty sleep comic observe estate";

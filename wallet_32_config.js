@@ -1,1 +1,1 @@
-var mnemonic = "diet october joy wash april subway little amazing hip notable couch try";
+var mnemonic = "stock sail vault analyst source grocery motion put nothing mobile breeze practice";

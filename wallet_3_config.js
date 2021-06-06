@@ -1,1 +1,1 @@
-var mnemonic = "music error crime talent source pride concert torch soldier crawl biology fun";
+var mnemonic = "frozen drink cactus safe lobster lazy worth achieve method camera scissors spring";

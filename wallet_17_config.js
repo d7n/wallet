@@ -1,1 +1,1 @@
-var mnemonic = "noise child jacket acoustic rebel dream render task vessel host educate gadget";
+var mnemonic = "patrol mushroom dish mercy derive toddler bag movie display curtain crack duck";

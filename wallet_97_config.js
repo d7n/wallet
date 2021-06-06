@@ -1,1 +1,1 @@
-var mnemonic = "sketch ocean violin gravity poverty hurt service yellow imitate display flame enemy";
+var mnemonic = "job chef screen donate tackle turtle bronze skirt that kingdom lady easily";

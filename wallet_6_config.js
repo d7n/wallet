@@ -1,1 +1,1 @@
-var mnemonic = "stem tomato space style must seed system engage paddle viable tail pledge";
+var mnemonic = "fatal diary pink fatal tool limit trash elite celery grow strategy repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "decade guess night often biology simple leave divide ozone indoor soul piano";
+var mnemonic = "speak clever digital corn tool west argue eye crisp wife maximum apart";

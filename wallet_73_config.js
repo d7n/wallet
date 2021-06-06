@@ -1,1 +1,1 @@
-var mnemonic = "trophy alarm sketch avoid staff wall add alert can genre escape cement";
+var mnemonic = "health luggage mistake hawk happy detail napkin cruel very better quick denial";

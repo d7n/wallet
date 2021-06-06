@@ -1,1 +1,1 @@
-var mnemonic = "sight pair recipe hand fog mom team famous sock trial jacket float";
+var mnemonic = "equal payment armed review cricket wrong pupil plate become winter ivory comfort";

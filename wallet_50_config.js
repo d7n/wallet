@@ -1,1 +1,1 @@
-var mnemonic = "curve ketchup deputy fee exact business friend diesel habit hair crush enhance";
+var mnemonic = "lend mesh tape sense enroll crowd pelican zoo parrot fatigue certain stove";

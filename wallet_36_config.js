@@ -1,1 +1,1 @@
-var mnemonic = "retreat describe valid gossip earn foil topple science fuel kangaroo evoke submit";
+var mnemonic = "warrior multiply buddy congress between like card mushroom quarter glory banner recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "old fetch ring mirror agent quantum enforce garage prefer spare negative pistol";
+var mnemonic = "enforce arrive impulse present evolve loop service quit agent second tonight uncle";

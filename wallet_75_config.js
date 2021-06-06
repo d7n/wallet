@@ -1,1 +1,1 @@
-var mnemonic = "traffic mix cycle sample bomb recycle shaft west elevator flee music tomorrow";
+var mnemonic = "arrest oxygen antique ordinary draw puzzle snack worth sunny soda paper remind";

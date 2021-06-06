@@ -1,1 +1,1 @@
-var mnemonic = "page similar hidden trial unable harsh miracle dutch thrive where armed sleep";
+var mnemonic = "fuel world match over genre twelve sustain fog never comic become slab";

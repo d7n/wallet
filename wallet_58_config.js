@@ -1,1 +1,1 @@
-var mnemonic = "submit verify goddess chronic jeans depth jeans version leg shaft shallow luggage";
+var mnemonic = "current arrive stock verify divide pilot yellow enough arena equip thumb original";

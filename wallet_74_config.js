@@ -1,1 +1,1 @@
-var mnemonic = "stool deny roast south frown tongue fade pen convince box sting maximum";
+var mnemonic = "swarm depend fade relax eight ethics interest cabbage burden energy prefer ship";

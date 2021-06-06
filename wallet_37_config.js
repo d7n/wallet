@@ -1,1 +1,1 @@
-var mnemonic = "absent parent curious basic useful alert achieve swarm mutual reopen furnace base";
+var mnemonic = "violin forward rib omit plug chicken art project knock range vacuum cycle";

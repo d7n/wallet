@@ -1,1 +1,1 @@
-var mnemonic = "wrong meadow shoe conduct explain option load spread female awful upon rug";
+var mnemonic = "rug reduce trend ancient negative celery obvious distance stem route ozone differ";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion mimic pledge fragile item trial crazy rare apart boost rival lyrics";
+var mnemonic = "pepper bird occur nose add curve truck together develop jar success myself";

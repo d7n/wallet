@@ -1,1 +1,1 @@
-var mnemonic = "often dog miss head bamboo usual world joy chronic favorite disagree number";
+var mnemonic = "extend smile property romance vintage gun educate airport nurse dismiss bike food";

@@ -1,1 +1,1 @@
-var mnemonic = "hard trumpet diary purchase reject oil soap chalk sentence problem gravity loan";
+var mnemonic = "stable oval excuse cash output myself tourist kidney plate act firm repeat";
