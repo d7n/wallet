@@ -1,1 +1,1 @@
-var mnemonic = "hello version mango miracle initial enrich hotel athlete convince sheriff shy very";
+var mnemonic = "pool drum document argue mouse release snap diagram viable slot inner panda";

@@ -1,1 +1,1 @@
-var mnemonic = "interest script pact flight piece art snow student green clean multiply crane";
+var mnemonic = "six bacon elbow indoor echo carry month web domain rack crater sport";

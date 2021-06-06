@@ -1,1 +1,1 @@
-var mnemonic = "sing wheel school round bike alien coast job cloth lava cinnamon jelly";
+var mnemonic = "fall problem then exclude candy food raven become brave powder oppose immune";

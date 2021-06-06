@@ -1,1 +1,1 @@
-var mnemonic = "before parent dove depend caught cabbage mammal time tuition success mad neither";
+var mnemonic = "nice tree violin file shrug disorder risk among spell bullet swing region";

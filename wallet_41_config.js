@@ -1,1 +1,1 @@
-var mnemonic = "dizzy federal august slab thing antenna major letter autumn gym domain uncover";
+var mnemonic = "flavor upon list student robot law rhythm spare life devote topple total";

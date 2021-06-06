@@ -1,1 +1,1 @@
-var mnemonic = "sponsor motor paddle argue develop gentle decrease scatter carry grace pencil deny";
+var mnemonic = "gun blind reopen clean slogan summer tornado much garlic awesome suspect situate";

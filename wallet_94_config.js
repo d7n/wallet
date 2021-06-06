@@ -1,1 +1,1 @@
-var mnemonic = "come learn echo shield opinion notable dove surge drop audit version spoon";
+var mnemonic = "practice mobile pet disagree soup oak brother bitter blood imitate pelican shock";

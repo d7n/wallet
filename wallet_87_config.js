@@ -1,1 +1,1 @@
-var mnemonic = "mass donkey shield warfare market coffee cinnamon brush domain hockey wool useless";
+var mnemonic = "own actual sock glad clarify present plate rare taste wink note use";

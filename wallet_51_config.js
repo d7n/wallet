@@ -1,1 +1,1 @@
-var mnemonic = "fiction awkward grab flower east oxygen inquiry armed sight kangaroo appear doll";
+var mnemonic = "daughter rule text deputy tomorrow sun another shuffle glory mad until fat";

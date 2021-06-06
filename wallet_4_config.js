@@ -1,1 +1,1 @@
-var mnemonic = "truck country pepper palace record radar only also ride quality access fall";
+var mnemonic = "cream jealous meat dragon wisdom put ecology satoshi maple amount slice project";

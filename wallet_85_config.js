@@ -1,1 +1,1 @@
-var mnemonic = "main chapter paddle husband truth sponsor potato trophy tomorrow sick innocent possible";
+var mnemonic = "soft one soda rose shed where dance casino open camp suffer asthma";

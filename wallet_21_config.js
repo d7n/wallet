@@ -1,1 +1,1 @@
-var mnemonic = "iron host grid thought gorilla violin pear mercy desert barely bachelor metal";
+var mnemonic = "horror fan urge trumpet never reason matrix cry shoe hurry fiber coral";

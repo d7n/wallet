@@ -1,1 +1,1 @@
-var mnemonic = "state service fog trial ceiling print symptom margin amused worry retire enjoy";
+var mnemonic = "tool account fortune bachelor essay toy deny extend seat access swing twin";

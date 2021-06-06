@@ -1,1 +1,1 @@
-var mnemonic = "join print snack use recipe issue announce parrot virtual fine model bright";
+var mnemonic = "entry butter damp arm board car school slot sadness decide point divide";

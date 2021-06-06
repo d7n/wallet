@@ -1,1 +1,1 @@
-var mnemonic = "struggle estate either library benefit woman seed juice festival kitchen six tonight";
+var mnemonic = "foot fish medal iron blouse toy capital skirt void canvas place bicycle";

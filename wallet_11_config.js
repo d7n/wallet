@@ -1,1 +1,1 @@
-var mnemonic = "wife fly midnight slice coral excess position voyage give reason recall royal";
+var mnemonic = "scheme message swing skin hard test drastic trumpet similar dawn possible original";

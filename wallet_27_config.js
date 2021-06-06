@@ -1,1 +1,1 @@
-var mnemonic = "raw smooth diamond defense step minor embody start young result symbol bone";
+var mnemonic = "toy vendor slogan bomb fancy enemy wrap amused blind teach penalty arrest";

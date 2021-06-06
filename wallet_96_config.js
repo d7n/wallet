@@ -1,1 +1,1 @@
-var mnemonic = "divert awful weapon lion same quick then hammer essence multiply force else";
+var mnemonic = "blind never rose idea clap devote sweet always laundry frame bring thrive";

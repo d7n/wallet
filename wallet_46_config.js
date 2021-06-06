@@ -1,1 +1,1 @@
-var mnemonic = "federal mansion path marble assist latin deer bracket shiver scout castle rabbit";
+var mnemonic = "say behind slide urban example polar fiber water shoulder drama wet someone";

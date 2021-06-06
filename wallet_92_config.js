@@ -1,1 +1,1 @@
-var mnemonic = "exact skirt front remind vehicle mammal bench first position situate motor globe";
+var mnemonic = "pudding exhibit pig repeat very throw source verify convince prison gorilla material";

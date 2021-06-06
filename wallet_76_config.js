@@ -1,1 +1,1 @@
-var mnemonic = "juice symbol cargo auction faith today casino harvest boat oyster buzz margin";
+var mnemonic = "word come lesson mother obscure achieve toe ten report joke pill system";

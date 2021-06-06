@@ -1,1 +1,1 @@
-var mnemonic = "search verify company this window laundry wife swim inner account battle echo";
+var mnemonic = "attack dynamic foot engage dial tail brown into predict smart mention icon";

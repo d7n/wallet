@@ -1,1 +1,1 @@
-var mnemonic = "example analyst call limit kick stove shine select corn apple runway vanish";
+var mnemonic = "share uncle neglect brick boat desert deliver game submit behave address balance";

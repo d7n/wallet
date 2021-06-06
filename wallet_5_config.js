@@ -1,1 +1,1 @@
-var mnemonic = "void labor pride list expire goat simple shove budget liquid exhibit nephew";
+var mnemonic = "stomach tornado come cradle citizen usual copper mandate cheese deputy close moon";

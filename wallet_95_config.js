@@ -1,1 +1,1 @@
-var mnemonic = "divide shed wagon retire insane float wash piece stereo gate kitchen never";
+var mnemonic = "another ball high task key drill reveal sight party noodle vacuum turn";

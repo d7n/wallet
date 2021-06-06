@@ -1,1 +1,1 @@
-var mnemonic = "stone blood boring pluck suggest system cement skin strategy tuition plunge rail";
+var mnemonic = "elder exist kiwi offer dawn device seat cliff explain dash exclude absorb";

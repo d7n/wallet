@@ -1,1 +1,1 @@
-var mnemonic = "timber metal trial loyal hire unfair capable recycle trick tomato mixed enlist";
+var mnemonic = "market victory organ exhaust lab horror food donor option rack chase struggle";

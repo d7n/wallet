@@ -1,1 +1,1 @@
-var mnemonic = "sphere plug burden brick because rotate diet snack rifle slow script envelope";
+var mnemonic = "swing monitor buffalo bring potato asthma mercy gun garden enemy elbow entry";

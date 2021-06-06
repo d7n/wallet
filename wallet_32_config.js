@@ -1,1 +1,1 @@
-var mnemonic = "review during romance maze couch tourist blood battle staff sun link cloud";
+var mnemonic = "provide atom wild before jealous long subway pair oblige silk history disagree";

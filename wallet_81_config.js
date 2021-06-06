@@ -1,1 +1,1 @@
-var mnemonic = "slender cupboard oil relief celery record boy stand abstract field family extra";
+var mnemonic = "drip slow cloth rhythm stove limb van attract below moral relief leader";

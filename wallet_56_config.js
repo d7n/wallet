@@ -1,1 +1,1 @@
-var mnemonic = "monster innocent void mirror unveil fatigue ripple slogan history angry boost account";
+var mnemonic = "differ any clean blouse robust uncle fuel time fan observe cause drill";

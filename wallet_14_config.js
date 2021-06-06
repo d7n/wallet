@@ -1,1 +1,1 @@
-var mnemonic = "sniff assault faint ill sort oil vital damage glue diet success faith";
+var mnemonic = "tail pigeon alone episode target skin outdoor record arrest keen taxi leave";

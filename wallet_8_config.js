@@ -1,1 +1,1 @@
-var mnemonic = "waste picnic castle crazy few shop toast clay tonight guide twelve sunny";
+var mnemonic = "omit energy admit energy repeat trumpet sleep staff cousin plug used dragon";

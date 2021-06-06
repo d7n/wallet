@@ -1,1 +1,1 @@
-var mnemonic = "word science better off laptop duty copper gossip luxury head town shrug";
+var mnemonic = "height peace clown glad enact about alcohol across sunset rough action brisk";

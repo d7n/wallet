@@ -1,1 +1,1 @@
-var mnemonic = "image else pride vintage deposit exact glare task lounge learn session mad";
+var mnemonic = "bright clinic kiss decade blind sure make produce goose snow expect permit";

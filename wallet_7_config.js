@@ -1,1 +1,1 @@
-var mnemonic = "scatter soul quality reflect hotel reopen second bomb sing increase onion kangaroo";
+var mnemonic = "plastic math pool bring useful ostrich debris measure argue annual hour extra";

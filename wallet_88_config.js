@@ -1,1 +1,1 @@
-var mnemonic = "notice stick van hedgehog egg draft benefit sample trash list depart jazz";
+var mnemonic = "often fall tomorrow bomb script genius hamster globe adapt noodle veteran royal";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch duty entry prevent habit figure opinion endorse arch little glory creek";
+var mnemonic = "open where only win page page solar rebel very relax loud cart";

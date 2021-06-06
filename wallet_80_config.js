@@ -1,1 +1,1 @@
-var mnemonic = "wonder animal rib major element left fan shaft vital segment affair dove";
+var mnemonic = "shadow tuna naive dumb invest figure repair place vapor clever art provide";

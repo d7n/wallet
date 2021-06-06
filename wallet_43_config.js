@@ -1,1 +1,1 @@
-var mnemonic = "subway match food service entry dynamic notice scene glue state tree truth";
+var mnemonic = "robot know soon abstract rifle pluck code chimney seek legend weather imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "present exotic confirm student dry immense recall family curve upset daring cattle";
+var mnemonic = "treat design saddle inmate gather crazy canyon holiday joy nasty habit melt";

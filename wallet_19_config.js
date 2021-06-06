@@ -1,1 +1,1 @@
-var mnemonic = "taxi guilt unfold tribe tell nuclear cliff robot split second film island";
+var mnemonic = "bubble shell pulse crowd tip amount scheme husband flush pioneer film expire";

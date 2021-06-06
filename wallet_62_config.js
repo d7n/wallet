@@ -1,1 +1,1 @@
-var mnemonic = "february lecture deer air quick convince step void impulse merry luggage state";
+var mnemonic = "bus pet drink always describe liberty novel busy eight rotate imitate quarter";

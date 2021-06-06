@@ -1,1 +1,1 @@
-var mnemonic = "skill height filter sorry another athlete source used smart shadow magnet grant";
+var mnemonic = "venture enemy puzzle lamp below stereo harsh cricket baby goose curious method";

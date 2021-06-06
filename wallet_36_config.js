@@ -1,1 +1,1 @@
-var mnemonic = "season umbrella tank scatter taste lizard example derive deny such vacuum canal";
+var mnemonic = "select orient link employ heavy strike source shy duty loyal perfect useful";

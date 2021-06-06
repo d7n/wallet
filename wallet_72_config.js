@@ -1,1 +1,1 @@
-var mnemonic = "bridge margin gown hello balance direct pink situate basket enable stand food";
+var mnemonic = "zoo either member cinnamon blood abuse plate ginger method pencil muffin outside";

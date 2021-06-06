@@ -1,1 +1,1 @@
-var mnemonic = "female lake resemble theory give erosion chicken cattle price desert property regular";
+var mnemonic = "elegant miracle sauce type icon orbit village day black repeat coast camera";

@@ -1,1 +1,1 @@
-var mnemonic = "undo happy grunt logic awkward canvas duck rescue leisure cruise once level";
+var mnemonic = "runway barely grunt canal unveil gossip unknown detect anxiety crowd initial zero";

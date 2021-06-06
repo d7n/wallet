@@ -1,1 +1,1 @@
-var mnemonic = "steak spray bachelor rare despair umbrella abstract nasty bunker real mother embrace";
+var mnemonic = "long timber ill smoke ivory sphere hamster town quality object chef cruise";

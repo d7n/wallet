@@ -1,1 +1,1 @@
-var mnemonic = "learn culture buzz laptop surface force diary catalog field fabric kind struggle";
+var mnemonic = "under pottery assume local poem comfort twice foam glimpse good convince swift";

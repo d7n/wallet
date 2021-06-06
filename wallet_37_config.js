@@ -1,1 +1,1 @@
-var mnemonic = "cost since seek drop figure tail solid between attract system excess income";
+var mnemonic = "boat dad panther permit furnace stomach smoke basic mango allow void snack";

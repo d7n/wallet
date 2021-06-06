@@ -1,1 +1,1 @@
-var mnemonic = "final note often garlic bargain orchard trigger fever genuine decrease stage alpha";
+var mnemonic = "true rose spend disagree enhance private can follow tide apple renew fiscal";

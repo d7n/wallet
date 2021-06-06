@@ -1,1 +1,1 @@
-var mnemonic = "gentle enjoy garage laundry humble trumpet grab sure soul found direct fade";
+var mnemonic = "hard common tenant zoo piece crack bargain exit dutch issue sentence large";

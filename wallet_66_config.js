@@ -1,1 +1,1 @@
-var mnemonic = "submit afraid home echo outside jazz staff arrest nephew lyrics fold aim";
+var mnemonic = "great ticket bulb network load change achieve ignore valley tunnel detect original";

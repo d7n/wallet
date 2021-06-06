@@ -1,1 +1,1 @@
-var mnemonic = "ensure open muffin actual pioneer flee speed gold arctic boil truck entire";
+var mnemonic = "company exclude behave skirt already live woman mesh joy page admit catalog";

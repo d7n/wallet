@@ -1,1 +1,1 @@
-var mnemonic = "mosquito humor warfare toe banana hair argue math priority slot push better";
+var mnemonic = "photo mind clown enough ghost inquiry foam village book parrot confirm garage";

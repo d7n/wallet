@@ -1,1 +1,1 @@
-var mnemonic = "crouch speed original travel ready flat photo sea require silk boring sugar";
+var mnemonic = "pistol crazy stove pluck blur puzzle lend zoo toy spell resist hundred";

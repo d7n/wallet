@@ -1,1 +1,1 @@
-var mnemonic = "blue liar blade salad rich true gentle kitten symbol electric strong jazz";
+var mnemonic = "brave panel slide sword stand current robust enjoy abstract copper kitten boil";

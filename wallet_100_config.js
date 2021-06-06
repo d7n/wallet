@@ -1,1 +1,1 @@
-var mnemonic = "roast either ugly coconut opinion thought venue wonder romance spring hen yellow";
+var mnemonic = "decide gloom outer twin chaos badge theory vacuum aspect concert choice agree";

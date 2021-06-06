@@ -1,1 +1,1 @@
-var mnemonic = "tortoise trash outer work grocery trip club play ivory desert taste mass";
+var mnemonic = "teach hedgehog cry kick abandon border twenty palm cave orient chuckle version";

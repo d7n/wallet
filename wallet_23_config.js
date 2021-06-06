@@ -1,1 +1,1 @@
-var mnemonic = "custom demise tube minute road tobacco oil snow very ticket able office";
+var mnemonic = "mix disorder service donkey ill surround slam october upset tragic voyage scale";

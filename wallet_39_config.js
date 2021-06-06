@@ -1,1 +1,1 @@
-var mnemonic = "crane vacant mystery toddler favorite joy fix fatigue base note earn obtain";
+var mnemonic = "blouse provide charge cargo deposit surround slush tuition resemble until opinion spot";

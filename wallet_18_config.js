@@ -1,1 +1,1 @@
-var mnemonic = "flee impulse decline alter vibrant churn bridge dragon ecology sustain title cup";
+var mnemonic = "umbrella onion camp exchange slim turtle zebra buyer there blue lemon fresh";

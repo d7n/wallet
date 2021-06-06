@@ -1,1 +1,1 @@
-var mnemonic = "satisfy run stand outside toy guard diagram type chair ignore blind apart";
+var mnemonic = "return tide bulb frost boy series find swarm impulse inhale rubber cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck fine tank turkey very lonely draft appear conduct ignore marriage swing";
+var mnemonic = "spend husband cloth pioneer renew labor magnet mobile rail insect ladder indoor";

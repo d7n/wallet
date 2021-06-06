@@ -1,1 +1,1 @@
-var mnemonic = "pretty nose power dream clown state orphan senior meat hawk exercise slide";
+var mnemonic = "tent meat front cupboard silent decorate napkin army flee embark switch ladder";

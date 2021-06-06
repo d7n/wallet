@@ -1,1 +1,1 @@
-var mnemonic = "raven naive mirror hospital insane crystal exhaust limit glory frame guitar today";
+var mnemonic = "promote isolate spray squeeze broken height common save parade mention cereal account";

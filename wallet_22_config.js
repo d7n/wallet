@@ -1,1 +1,1 @@
-var mnemonic = "arch donor marine enact monitor indicate polar upgrade arctic setup release image";
+var mnemonic = "island promote right concert poem typical bar muffin dirt buyer swing bunker";

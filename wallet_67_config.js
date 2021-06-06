@@ -1,1 +1,1 @@
-var mnemonic = "blue fish dune test grocery pitch sport organ topic trend toast candy";
+var mnemonic = "picnic napkin heart juice come knife relax market recall swear live matrix";

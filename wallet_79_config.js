@@ -1,1 +1,1 @@
-var mnemonic = "crowd object change gorilla scare volume anger chest wedding approve tunnel jungle";
+var mnemonic = "measure robust labor loop task gentle teach defense universe then blade basic";

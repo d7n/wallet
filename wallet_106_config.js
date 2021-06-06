@@ -1,1 +1,1 @@
-var mnemonic = "assist turtle model infant marriage wire decrease soda other hurdle true news";
+var mnemonic = "list again stumble ring cluster any dog cream aisle drop sign earth";

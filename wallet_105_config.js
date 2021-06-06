@@ -1,1 +1,1 @@
-var mnemonic = "file chase liar above leopard stick resemble garbage reflect order license kitchen";
+var mnemonic = "choice remain web sell state laundry place harvest oyster sheriff liquid cage";

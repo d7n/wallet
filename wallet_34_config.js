@@ -1,1 +1,1 @@
-var mnemonic = "bleak people example speak invite strike turkey garment flag tail stumble suggest";
+var mnemonic = "wave chimney fence canoe coral safe drum decrease drama stick genuine subway";

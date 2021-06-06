@@ -1,1 +1,1 @@
-var mnemonic = "pistol scatter volcano indicate tragic spring labor onion expect throw decline outer";
+var mnemonic = "vacuum family green curious situate seven ritual suggest hidden gadget sauce rule";

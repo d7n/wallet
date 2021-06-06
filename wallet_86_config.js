@@ -1,1 +1,1 @@
-var mnemonic = "smooth possible fragile athlete casual fog lumber start window core pass couch";
+var mnemonic = "lens joke check fluid fun blanket gather cherry remain find toss angry";

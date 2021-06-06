@@ -1,1 +1,1 @@
-var mnemonic = "update nest tattoo volcano addict rich memory bachelor raw input biology gun";
+var mnemonic = "during page nice twelve network drift online vault maze rural dignity april";

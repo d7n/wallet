@@ -1,1 +1,1 @@
-var mnemonic = "sugar wage cake broom final question goose inflict team opera impulse satisfy";
+var mnemonic = "diary visit amazing toe rude danger remain organ dutch indoor waste quality";

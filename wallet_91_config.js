@@ -1,1 +1,1 @@
-var mnemonic = "cluster flat inflict fossil alarm salon online hollow claim amazing tortoise sell";
+var mnemonic = "volume face shock car travel silver draft blood grief day cute pledge";

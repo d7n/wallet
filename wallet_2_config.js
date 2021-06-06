@@ -1,1 +1,1 @@
-var mnemonic = "void script cement advice fog collect end laugh strong ski spring predict";
+var mnemonic = "clump merit fantasy husband public destroy same expand beyond simple mutual hunt";
