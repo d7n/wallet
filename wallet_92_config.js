@@ -1,1 +1,1 @@
-var mnemonic = "resist humor river catalog interest behave magnet game guilt outside clean odor";
+var mnemonic = "chat staff oven know sell camera version violin copy bag saddle mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst cause right apart grain gallery fiction service soul million ivory limit";
+var mnemonic = "office era giraffe filter ancient else kidney suffer choice dolphin armor cousin";

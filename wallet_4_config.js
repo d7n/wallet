@@ -1,1 +1,1 @@
-var mnemonic = "roast vast crush zebra hen tragic group orbit attract mother joy below";
+var mnemonic = "hidden about federal tip cool since trouble feed mother height salute ride";

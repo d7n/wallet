@@ -1,1 +1,1 @@
-var mnemonic = "timber license vintage marble once renew erosion chuckle surge surface electric guide";
+var mnemonic = "leaf grain identify april verb despair biology crowd foil autumn buddy daring";

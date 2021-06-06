@@ -1,1 +1,1 @@
-var mnemonic = "alarm ten cancel rival surprise fan about ready hawk absorb sunset fog";
+var mnemonic = "winter level weapon close strategy eternal robot certain cost shop prefer myself";

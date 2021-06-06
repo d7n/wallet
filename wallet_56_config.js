@@ -1,1 +1,1 @@
-var mnemonic = "mask setup improve task diamond usual cotton hello level trophy glare sister";
+var mnemonic = "because alpha similar minor used dove maid task debris joy open voice";

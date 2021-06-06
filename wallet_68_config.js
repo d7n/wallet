@@ -1,1 +1,1 @@
-var mnemonic = "ski talk ripple hammer tongue oblige inside glance hand twice twelve home";
+var mnemonic = "upon cheese grass once rack sister speed top travel error tumble salt";

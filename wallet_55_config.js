@@ -1,1 +1,1 @@
-var mnemonic = "surround truly twice syrup garage warm poem remind shuffle crawl drink fog";
+var mnemonic = "list action liberty gadget fish bridge magnet blush ice fossil rent misery";

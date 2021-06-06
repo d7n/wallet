@@ -1,1 +1,1 @@
-var mnemonic = "ask cheap boil robot siege camp half traffic badge then polar drink";
+var mnemonic = "miss conduct bring awkward pupil trust describe electric relief man mango guess";

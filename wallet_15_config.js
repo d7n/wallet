@@ -1,1 +1,1 @@
-var mnemonic = "already dwarf pig fly rather snap weekend endorse provide cereal fitness output";
+var mnemonic = "foster pyramid leisure decrease liberty venue syrup cabin apart problem owner happy";

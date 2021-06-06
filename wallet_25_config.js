@@ -1,1 +1,1 @@
-var mnemonic = "bridge shop token object woman wine evidence double unique great divorce since";
+var mnemonic = "flip friend right cool include slow bonus flavor fire dog elder wrong";

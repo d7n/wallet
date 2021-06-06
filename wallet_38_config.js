@@ -1,1 +1,1 @@
-var mnemonic = "text dream head call earth reopen nephew cabin amount happy glare access";
+var mnemonic = "eyebrow effort topple damp shove tongue crisp fetch broom chalk bulb flee";

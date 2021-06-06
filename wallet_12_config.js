@@ -1,1 +1,1 @@
-var mnemonic = "usage window casino subject resist scrub music easy glass game cabbage young";
+var mnemonic = "two sock slot symptom weapon goddess journey another devote payment crazy series";

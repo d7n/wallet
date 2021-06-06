@@ -1,1 +1,1 @@
-var mnemonic = "main kangaroo false assist kitten stomach history upgrade dose ozone dry width";
+var mnemonic = "ankle home loop equal obscure nation gun mention eternal fragile library inject";

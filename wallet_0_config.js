@@ -1,1 +1,1 @@
-var mnemonic = "daughter hover check myself armed place tribe ghost boil unique oyster emotion";
+var mnemonic = "apple unit only fire assume fury cinnamon rigid give tube chapter resemble";

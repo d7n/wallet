@@ -1,1 +1,1 @@
-var mnemonic = "ticket master quantum shrug list renew wave demise satisfy soldier assume welcome";
+var mnemonic = "cup orient winter soon poverty stick gym budget announce train thought that";

@@ -1,1 +1,1 @@
-var mnemonic = "cross enforce nasty fantasy athlete vapor bring notable expire pitch meadow motion";
+var mnemonic = "moon obvious file bring canoe decade swear swing broccoli basic ordinary helmet";

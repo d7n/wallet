@@ -1,1 +1,1 @@
-var mnemonic = "meadow gravity attack follow violin always note letter silent minimum fat spy";
+var mnemonic = "monitor basket air upgrade such split remind depart venture room collect smoke";

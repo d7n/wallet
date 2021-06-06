@@ -1,1 +1,1 @@
-var mnemonic = "lazy shoe pool chair nature can faint people burden admit field mango";
+var mnemonic = "office theory rude normal original tuition average gesture width total unusual dirt";

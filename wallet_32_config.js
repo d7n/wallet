@@ -1,1 +1,1 @@
-var mnemonic = "fabric maid away kid brother ready rose noodle emotion fun hurry neglect";
+var mnemonic = "tree actual cheese ship tattoo price knock hotel guide during young style";

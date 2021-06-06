@@ -1,1 +1,1 @@
-var mnemonic = "want proof fancy kidney client interest issue nasty shoot tornado outer time";
+var mnemonic = "service exchange ice leave argue legend arrow lady evil knock worth awesome";

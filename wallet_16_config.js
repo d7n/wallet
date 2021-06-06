@@ -1,1 +1,1 @@
-var mnemonic = "drive crack noise present humble lock tongue lesson garment beauty apple primary";
+var mnemonic = "step action tunnel cover exchange increase entire naive just now renew anger";

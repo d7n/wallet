@@ -1,1 +1,1 @@
-var mnemonic = "thank forget labor fresh hold despair coconut person pool alone pair debate";
+var mnemonic = "sister olive alcohol coral thank profit entry drip impose post exit ankle";

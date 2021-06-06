@@ -1,1 +1,1 @@
-var mnemonic = "advance hope trouble argue parent genre devote token matrix wet person iron";
+var mnemonic = "fold leopard immense flush arrive ordinary raise mountain across voice antique moment";

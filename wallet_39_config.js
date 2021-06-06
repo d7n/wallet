@@ -1,1 +1,1 @@
-var mnemonic = "letter fine romance ability chase aisle vanish ancient mandate sport royal warm";
+var mnemonic = "globe lamp organ confirm deal fix enroll snap farm light virus dash";

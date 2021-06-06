@@ -1,1 +1,1 @@
-var mnemonic = "palace humble ordinary educate easy reopen insect fine prize develop tornado gallery";
+var mnemonic = "cattle wagon improve cup spatial inject head crowd caution trust trigger baby";

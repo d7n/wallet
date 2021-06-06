@@ -1,1 +1,1 @@
-var mnemonic = "lawn reflect faculty lecture lesson castle visual release plastic insane top patch";
+var mnemonic = "afford olympic pitch kid script advice impose camp return solid garage all";

@@ -1,1 +1,1 @@
-var mnemonic = "vault price cave recipe pool eye explain term add slot exchange sail";
+var mnemonic = "celery robot coin social lawsuit lucky that kitchen you cause hunt vote";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal couple nest shrimp inflict entire cereal negative method meadow life online";
+var mnemonic = "dwarf help awake defy asset bike middle melt plunge loan destroy crash";

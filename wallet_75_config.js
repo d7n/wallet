@@ -1,1 +1,1 @@
-var mnemonic = "long normal category used sand denial pen cancel abandon royal harvest violin";
+var mnemonic = "digital symptom twist unit service object shed ivory hidden crash isolate sick";

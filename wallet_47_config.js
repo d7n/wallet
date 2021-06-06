@@ -1,1 +1,1 @@
-var mnemonic = "vacant note wreck ugly below learn enact total paper swallow gas assault";
+var mnemonic = "waste field pear invite gravity lyrics bird violin myth depth thought allow";

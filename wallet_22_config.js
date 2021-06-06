@@ -1,1 +1,1 @@
-var mnemonic = "spider hidden dinosaur proof example whale ridge route inside movie govern case";
+var mnemonic = "obscure strong kingdom flower small where brass muscle spy valley spread balance";

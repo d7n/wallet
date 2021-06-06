@@ -1,1 +1,1 @@
-var mnemonic = "drip media shift bullet riot project what strong benefit arm either become";
+var mnemonic = "sport virus dinosaur silk image fatal bamboo vicious unlock online fine vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain square sunset vote dilemma length close rabbit gloom vacant faculty cave";
+var mnemonic = "giraffe deny marble few decade kitchen genre school purpose model similar coconut";

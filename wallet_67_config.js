@@ -1,1 +1,1 @@
-var mnemonic = "lazy kit nuclear once hello document leopard bid crouch fossil ostrich tide";
+var mnemonic = "laugh switch open wolf panda rare swallow emotion vicious eye icon weird";

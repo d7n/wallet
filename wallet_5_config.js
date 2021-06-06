@@ -1,1 +1,1 @@
-var mnemonic = "mom already orphan taste swift gym unaware swap appear want diesel diamond";
+var mnemonic = "shine junk attend whip suggest wall topic teach field pepper foam little";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb kick almost cat hand magic unveil slender bitter cup cake marble";
+var mnemonic = "target picture area deer sausage play balance tooth track beach cherry scrub";

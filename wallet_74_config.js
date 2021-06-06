@@ -1,1 +1,1 @@
-var mnemonic = "tone drum cram strike silver benefit weekend bronze enhance light connect leaf";
+var mnemonic = "unknown bar camp buddy stage wild position era material rival prepare giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "section destroy upon torch enemy build sure stove opera arm response program";
+var mnemonic = "air panel couple sleep bench situate unveil purse picnic pet save tongue";

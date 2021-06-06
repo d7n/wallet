@@ -1,1 +1,1 @@
-var mnemonic = "garlic boring since bean robust man machine expand stone photo power hello";
+var mnemonic = "couch antenna emotion equip nuclear web tattoo easy approve burger yard lava";

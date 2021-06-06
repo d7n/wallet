@@ -1,1 +1,1 @@
-var mnemonic = "arm return morning confirm arch share trophy exit broccoli fish venue shield";
+var mnemonic = "find mixed midnight hungry wing wild trouble ethics razor stay quiz voice";

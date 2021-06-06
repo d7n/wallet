@@ -1,1 +1,1 @@
-var mnemonic = "giraffe song turkey spot hub pudding comic recipe square swarm snap ketchup";
+var mnemonic = "elegant jacket order attack chapter road miss vague convince expose outside island";

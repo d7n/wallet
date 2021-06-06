@@ -1,1 +1,1 @@
-var mnemonic = "wing slow twin quiz census coral morning hard endorse suit off slab";
+var mnemonic = "label merit inmate frost bronze repair surge mesh insane canoe media mosquito";

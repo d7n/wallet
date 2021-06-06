@@ -1,1 +1,1 @@
-var mnemonic = "repeat over design flash isolate quote unaware exotic erase upset empty nose";
+var mnemonic = "point clerk hotel palace stumble tuition rude kick remove torch multiply neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon lizard embark reason thought what cheese spot combine apology rate toy";
+var mnemonic = "orbit caught limit liberty spirit emotion hawk common crane lyrics cattle salute";

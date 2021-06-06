@@ -1,1 +1,1 @@
-var mnemonic = "soccer favorite lawn margin outer away upper cattle donkey scare bullet agent";
+var mnemonic = "lava bind buzz tiny ritual clown couch such pumpkin spot ginger total";

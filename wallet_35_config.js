@@ -1,1 +1,1 @@
-var mnemonic = "upset asset shadow swallow forget device drill roast course youth about valid";
+var mnemonic = "ethics travel organ vital below parrot strategy argue zebra elbow ready all";

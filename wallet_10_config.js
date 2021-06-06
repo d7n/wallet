@@ -1,1 +1,1 @@
-var mnemonic = "someone brave danger end humor spawn truly banana enough category midnight entire";
+var mnemonic = "crater person meat seed alcohol elbow buffalo ship legal group indoor domain";

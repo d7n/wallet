@@ -1,1 +1,1 @@
-var mnemonic = "agent large fancy damage student uncover double social gesture grain phone forum";
+var mnemonic = "blur drop into because toast economy rose impact pride goose hundred winner";

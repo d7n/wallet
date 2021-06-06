@@ -1,1 +1,1 @@
-var mnemonic = "prison volume hazard party february hold industry radio enough genre property voice";
+var mnemonic = "peanut receive surface crouch exhibit twenty wreck immense unusual game alone auction";

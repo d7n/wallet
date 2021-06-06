@@ -1,1 +1,1 @@
-var mnemonic = "critic taste people deliver struggle glass describe fury woman shop hire million";
+var mnemonic = "actor surprise icon harsh casual expire avocado lizard list main brick coral";

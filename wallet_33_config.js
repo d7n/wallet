@@ -1,1 +1,1 @@
-var mnemonic = "weasel agree helmet stool attack grit balance give adult myth bullet bamboo";
+var mnemonic = "ceiling leader pyramid warrior divert honey wish guess vacuum approve pioneer fall";

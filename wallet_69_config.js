@@ -1,1 +1,1 @@
-var mnemonic = "village inmate maximum wisdom title number goat dinner dish erode whip blanket";
+var mnemonic = "pumpkin sword inhale short ceiling battle safe fresh apart unaware baby capital";

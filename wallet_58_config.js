@@ -1,1 +1,1 @@
-var mnemonic = "ensure legal extend news develop setup shuffle insane panda cream snake catch";
+var mnemonic = "bachelor open useless lottery subway sunset limit naive powder ramp rice dentist";

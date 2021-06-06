@@ -1,1 +1,1 @@
-var mnemonic = "burden matrix reward unknown flee favorite exhaust vivid upper eye obtain legend";
+var mnemonic = "artefact hybrid excess mention essay answer radio royal later yellow autumn oxygen";

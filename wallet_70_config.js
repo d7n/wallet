@@ -1,1 +1,1 @@
-var mnemonic = "trap lumber north juice bacon real melody lounge sugar warm indicate path";
+var mnemonic = "spell outside stone chalk page learn empty machine dream orbit target anxiety";

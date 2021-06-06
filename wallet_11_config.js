@@ -1,1 +1,1 @@
-var mnemonic = "planet liberty beach share because river broccoli tenant home win spend inject";
+var mnemonic = "awful walk unable hedgehog social pretty switch opera green unfair say spawn";

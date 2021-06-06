@@ -1,1 +1,1 @@
-var mnemonic = "curve awake curious print arrive surface alert under shadow escape inch tongue";
+var mnemonic = "satoshi cereal hammer hire banana mixed vital circle danger cushion erupt dove";

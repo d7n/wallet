@@ -1,1 +1,1 @@
-var mnemonic = "twelve cluster oxygen route dizzy cover brand morning extend trip warrior praise";
+var mnemonic = "fury idea jazz glimpse siege behave cannon rough mean dance perfect pass";

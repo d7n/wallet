@@ -1,1 +1,1 @@
-var mnemonic = "right warfare manual sword sting pluck tell budget dirt final abuse cereal";
+var mnemonic = "army rare monitor nature crawl tuition stem myself short west service spirit";

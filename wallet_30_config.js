@@ -1,1 +1,1 @@
-var mnemonic = "dirt enemy globe afraid clump sick please initial october hazard cruise amused";
+var mnemonic = "initial kite author truth genuine gift kiss rich income page carpet subject";

@@ -1,1 +1,1 @@
-var mnemonic = "album stumble grape april shallow struggle agree depend brand hobby absurd garden";
+var mnemonic = "car hungry rigid pear develop mention clinic turn sell floor park rib";

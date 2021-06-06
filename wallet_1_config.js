@@ -1,1 +1,1 @@
-var mnemonic = "deny diagram yard voice acid hurt shrimp gown fix term gym doll";
+var mnemonic = "what rather grace tent seminar script length habit language shell sausage trophy";

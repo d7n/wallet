@@ -1,1 +1,1 @@
-var mnemonic = "visit doll legal knock fit gadget fitness private couple denial accuse pretty";
+var mnemonic = "tiger junk stand travel antique travel arm catalog depend portion start capital";

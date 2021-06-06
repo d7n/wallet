@@ -1,1 +1,1 @@
-var mnemonic = "apart belt morning focus response arm tumble monkey rely easily friend toward";
+var mnemonic = "royal tray reward autumn nice spend oil later fruit very oil knock";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic escape antique supply body slice dignity live exact member inquiry museum";
+var mnemonic = "build recall okay tunnel quote write genre put thumb typical elite simple";

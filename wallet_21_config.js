@@ -1,1 +1,1 @@
-var mnemonic = "say cupboard toddler crash spy pool brown figure convince gospel flag lumber";
+var mnemonic = "follow walk private sort lady glide round actor dragon catch shove pole";

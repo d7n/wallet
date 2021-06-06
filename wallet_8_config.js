@@ -1,1 +1,1 @@
-var mnemonic = "frame power heavy tide upper code stem acquire pull network hip hard";
+var mnemonic = "before chuckle banner riot thrive liquid image nuclear gift hybrid funny grow";

@@ -1,1 +1,1 @@
-var mnemonic = "genius mammal harvest trade limit volcano finger faith pet belt proud term";
+var mnemonic = "chat obey worry nominee smart distance afford initial negative salon fish tent";

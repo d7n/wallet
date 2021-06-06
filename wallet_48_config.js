@@ -1,1 +1,1 @@
-var mnemonic = "uniform sentence regular fan hand wrestle track artwork toilet build december thought";
+var mnemonic = "domain quality position rude convince virtual control dune move mask mix language";

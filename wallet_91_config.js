@@ -1,1 +1,1 @@
-var mnemonic = "east sudden begin try divide matter drive fury doll note behave because";
+var mnemonic = "mail wonder current ladder skirt purse plastic magic edge pig immune vibrant";

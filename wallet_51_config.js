@@ -1,1 +1,1 @@
-var mnemonic = "candy student report train display spray announce enemy law question clap wait";
+var mnemonic = "screen cannon chalk nuclear quality list own fish ring want ten wrestle";

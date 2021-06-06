@@ -1,1 +1,1 @@
-var mnemonic = "lunch wasp battle orient rocket whip ginger where quit hurdle ski tilt";
+var mnemonic = "clay habit scrap print advance forget change lazy fold globe combine sorry";

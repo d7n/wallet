@@ -1,1 +1,1 @@
-var mnemonic = "zebra reflect present guilt grace chest mutual convince bind jar civil buffalo";
+var mnemonic = "peace trip emerge police goose apart emerge cruise garage forum stock valley";

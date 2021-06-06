@@ -1,1 +1,1 @@
-var mnemonic = "forest heart lazy purse faint sauce smoke curious horse rain insane desk";
+var mnemonic = "wild bright spice together slim social rose slight panel wrist museum spell";

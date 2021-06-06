@@ -1,1 +1,1 @@
-var mnemonic = "seven eagle crush illness vapor today exit inform obvious apart spare angry";
+var mnemonic = "mask twice twist advance slab side catalog twelve scale cargo episode mix";

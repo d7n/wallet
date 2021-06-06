@@ -1,1 +1,1 @@
-var mnemonic = "gravity okay brave quick liar mother bicycle slot grain gate resource visit";
+var mnemonic = "hour expand tenant repeat ugly either pride leaf great bitter account lesson";

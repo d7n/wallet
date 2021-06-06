@@ -1,1 +1,1 @@
-var mnemonic = "wild sniff anger stumble island maid machine night require foam garbage custom";
+var mnemonic = "size bubble over peace mango suspect can eagle inner document snake fatal";

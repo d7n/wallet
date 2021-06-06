@@ -1,1 +1,1 @@
-var mnemonic = "roof act clump detect soldier canyon soft check female script move session";
+var mnemonic = "casino brown regular merit siege exit craft surround quarter fog retreat region";

@@ -1,1 +1,1 @@
-var mnemonic = "extend regular caught act fox because enter asset pulse old access almost";
+var mnemonic = "rely hour eternal soft captain reason what loud priority essay empower pluck";

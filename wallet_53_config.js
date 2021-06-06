@@ -1,1 +1,1 @@
-var mnemonic = "mirror toward frown make ability equip fame parent top funny orchard crop";
+var mnemonic = "scan tourist laundry evoke spin loyal sport gaze gain gaze never panther";

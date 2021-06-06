@@ -1,1 +1,1 @@
-var mnemonic = "salmon ridge allow boss hello elder mercy poet mad tunnel ski vital";
+var mnemonic = "echo flee silent hour fresh figure text smile stadium wise room flip";

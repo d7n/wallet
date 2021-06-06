@@ -1,1 +1,1 @@
-var mnemonic = "judge liar six adapt frost route worth foil betray wink badge radio";
+var mnemonic = "myself prison skirt verb kidney dragon resemble rural december please below mixed";

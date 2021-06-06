@@ -1,1 +1,1 @@
-var mnemonic = "harsh way planet surge unaware paper rebel plastic indoor acoustic virus swamp";
+var mnemonic = "fluid garage luggage island top trash kick skill prepare ship document donor";

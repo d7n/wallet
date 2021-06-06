@@ -1,1 +1,1 @@
-var mnemonic = "dumb mechanic radio devote explain rain shaft furnace spare detail squeeze weird";
+var mnemonic = "rug cash divorce vapor tonight connect wait ketchup replace post census monkey";

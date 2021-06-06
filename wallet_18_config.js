@@ -1,1 +1,1 @@
-var mnemonic = "energy material reject sock fit face neglect season satoshi jungle age sister";
+var mnemonic = "tiny wet monkey weekend axis coyote dry coral case cheap slab else";
