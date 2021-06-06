@@ -1,1 +1,1 @@
-var mnemonic = "wolf fire flavor raise blue peanut hurdle monkey unfair surprise adapt essence";
+var mnemonic = "artist regret relief rotate market unveil portion junk season step giraffe truck";

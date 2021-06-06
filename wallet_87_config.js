@@ -1,1 +1,1 @@
-var mnemonic = "lock focus claw tongue cart alien relax chronic gadget breeze loud diet";
+var mnemonic = "label sudden measure keep what critic recipe private arctic toward gun phrase";

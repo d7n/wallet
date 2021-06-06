@@ -1,1 +1,1 @@
-var mnemonic = "print album truly envelope holiday donkey soccer voice broken armed noble walnut";
+var mnemonic = "maple area brave dignity giggle debris poem grocery end alert bracket poem";

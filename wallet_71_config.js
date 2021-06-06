@@ -1,1 +1,1 @@
-var mnemonic = "offer nurse trouble battle essay ghost original prosper swarm cheese deny initial";
+var mnemonic = "torch regret truth public infant anchor drastic forest degree horse knife copper";

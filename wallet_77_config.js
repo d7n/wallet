@@ -1,1 +1,1 @@
-var mnemonic = "staff betray option cage behave autumn much dry tennis laugh erase medal";
+var mnemonic = "sword betray hospital vibrant margin timber bachelor tray sausage skin enroll clerk";

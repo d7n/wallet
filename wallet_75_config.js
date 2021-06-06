@@ -1,1 +1,1 @@
-var mnemonic = "catalog crater draw oxygen tent roof convince cycle fiber lend silly muffin";
+var mnemonic = "urge normal jazz reopen stadium recycle skill govern hand syrup pole buffalo";

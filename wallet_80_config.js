@@ -1,1 +1,1 @@
-var mnemonic = "ozone where any nest midnight easy zero figure tenant output neither raw";
+var mnemonic = "start mimic impact service cattle chuckle before summer glance talk cupboard decide";

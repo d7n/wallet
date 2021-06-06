@@ -1,1 +1,1 @@
-var mnemonic = "expose quality offer blanket cradle science stadium maximum major post island mention";
+var mnemonic = "merry sister snake rabbit notice easy banana arrive hammer crazy scrub harvest";

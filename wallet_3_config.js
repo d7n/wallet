@@ -1,1 +1,1 @@
-var mnemonic = "lady valve language tilt observe shed orient hand rate practice rival forward";
+var mnemonic = "tool beach work unit economy capable bamboo shock license income task identify";

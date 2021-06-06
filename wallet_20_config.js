@@ -1,1 +1,1 @@
-var mnemonic = "airport zebra december deliver trick cabin physical enough soap amazing bacon beach";
+var mnemonic = "river blast sudden spread sing antenna mirror rain thrive search electric purity";

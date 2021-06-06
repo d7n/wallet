@@ -1,1 +1,1 @@
-var mnemonic = "host expect fame over kitten morning wheel rate double cause wish frog";
+var mnemonic = "shield sausage celery address sail filter trouble quote eye language rotate snack";

@@ -1,1 +1,1 @@
-var mnemonic = "parade steel army tell stick casual music shell cry when wide gadget";
+var mnemonic = "mask sister matrix fragile gas short planet proud ivory penalty judge skirt";

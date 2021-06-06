@@ -1,1 +1,1 @@
-var mnemonic = "indoor refuse feel orange interest family zoo erosion jeans radar region trumpet";
+var mnemonic = "remain expand define evidence rocket steak try lizard bread cool pattern wreck";

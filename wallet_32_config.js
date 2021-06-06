@@ -1,1 +1,1 @@
-var mnemonic = "clinic clown brave step wool blouse special edit sand narrow post devote";
+var mnemonic = "drill wear banner into pelican fat spoon exhaust boost endless either brass";

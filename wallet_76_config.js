@@ -1,1 +1,1 @@
-var mnemonic = "safe pave camera soft advice erase desert potato burden face violin addict";
+var mnemonic = "pact kind antique use doll reform dove march birth stem boss expect";

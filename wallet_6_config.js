@@ -1,1 +1,1 @@
-var mnemonic = "friend myself asset host lift enhance angry oven sausage online wood bless";
+var mnemonic = "social ketchup bring memory rapid struggle say beyond harsh napkin jar fluid";

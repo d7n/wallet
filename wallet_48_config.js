@@ -1,1 +1,1 @@
-var mnemonic = "coach slide rally cigar neutral bamboo kiwi maze absorb amount shoe veteran";
+var mnemonic = "lake blush muffin scout payment spawn mountain suspect invest apple banner security";

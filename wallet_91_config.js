@@ -1,1 +1,1 @@
-var mnemonic = "hazard bone pepper neck wall gaze nurse transfer video theme ten leave";
+var mnemonic = "busy record govern else fun core success ozone alert winner switch shoulder";

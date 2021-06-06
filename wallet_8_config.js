@@ -1,1 +1,1 @@
-var mnemonic = "raw occur stereo festival picture stick resemble okay weapon dose peace wing";
+var mnemonic = "pole hole cactus cinnamon asthma flower piece filter try sleep neutral lab";

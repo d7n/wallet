@@ -1,1 +1,1 @@
-var mnemonic = "pelican fiction sun project under fuel portion evidence evoke zebra frozen stereo";
+var mnemonic = "ripple divide exclude toast motion duck annual mango account balcony grunt teach";

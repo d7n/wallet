@@ -1,1 +1,1 @@
-var mnemonic = "sell blame jungle poet language yard naive bean horse cabbage inch swift";
+var mnemonic = "turn bracket crisp unfair essay satoshi blue must cruise junk hour zoo";

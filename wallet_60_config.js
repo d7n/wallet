@@ -1,1 +1,1 @@
-var mnemonic = "slice sadness normal dinosaur relief airport upset deliver vendor raise wrap van";
+var mnemonic = "trigger patient smart fame sorry gold shuffle jump bus mean chapter achieve";

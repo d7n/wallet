@@ -1,1 +1,1 @@
-var mnemonic = "raise robust brass trim stay together cluster program piece frown bamboo work";
+var mnemonic = "silent source quantum noise laundry camera move crater vault second rain enjoy";

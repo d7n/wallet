@@ -1,1 +1,1 @@
-var mnemonic = "crazy enlist desk remain parrot material charge surprise into polar inch pole";
+var mnemonic = "dentist swim romance census dynamic path sea impose table unknown session voice";

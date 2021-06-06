@@ -1,1 +1,1 @@
-var mnemonic = "slow poem husband picnic cliff cup rally seven load survey become fatigue";
+var mnemonic = "lens salt rescue blanket dash program dinosaur jazz search boss syrup hire";

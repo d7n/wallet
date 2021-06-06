@@ -1,1 +1,1 @@
-var mnemonic = "stick proof much chicken extra device access junior menu script abuse fun";
+var mnemonic = "water wine wide chief happy deny suggest member vocal give aunt bubble";

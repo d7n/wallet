@@ -1,1 +1,1 @@
-var mnemonic = "vintage stone broccoli unfair stick predict west possible oak jacket pole drama";
+var mnemonic = "brush vast december aware gorilla zone gift busy mirror choice range crouch";

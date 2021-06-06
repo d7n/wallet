@@ -1,1 +1,1 @@
-var mnemonic = "bid tonight fiction certain either garden riot mom pen across injury broom";
+var mnemonic = "squirrel mistake emotion need junk minor february drama narrow brief scrap cube";

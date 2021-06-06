@@ -1,1 +1,1 @@
-var mnemonic = "few debris vapor camera burger tomato home skull tilt hollow crunch theme";
+var mnemonic = "noise achieve pipe grunt design arctic paddle better kitten name saddle primary";

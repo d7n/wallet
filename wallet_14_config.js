@@ -1,1 +1,1 @@
-var mnemonic = "rib agree silly oil distance much rather course someone merry senior horn";
+var mnemonic = "art glove control deer call wasp shoe funny merry toward room field";

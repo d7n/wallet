@@ -1,1 +1,1 @@
-var mnemonic = "depart wet verb smart gather head bread bachelor exit theme genuine addict";
+var mnemonic = "lock math rice case green symptom apart hurt giraffe pet solution swift";

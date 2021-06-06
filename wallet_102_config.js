@@ -1,1 +1,1 @@
-var mnemonic = "pen series help rack nerve elevator area moral fringe normal forest real";
+var mnemonic = "call weapon wash wool royal lounge small fish void hold decade render";

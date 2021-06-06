@@ -1,1 +1,1 @@
-var mnemonic = "add cause floor receive people possible first property surge sketch hood write";
+var mnemonic = "adjust person pepper truth chef act vapor fit place begin leader knock";

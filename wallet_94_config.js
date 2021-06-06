@@ -1,1 +1,1 @@
-var mnemonic = "method input hero century dismiss tilt orient spirit what wolf picture despair";
+var mnemonic = "beef side melody lyrics ability rubber select embrace error river praise assist";

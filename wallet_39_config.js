@@ -1,1 +1,1 @@
-var mnemonic = "siren wet copper envelope cliff miss avoid journey identify decade caught defy";
+var mnemonic = "discover source brisk crop oblige lecture crisp pizza this copy arrest predict";

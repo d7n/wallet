@@ -1,1 +1,1 @@
-var mnemonic = "celery damage panel relax twist sauce phone people balcony lawn estate announce";
+var mnemonic = "sponsor panther play weasel twenty lend rose truth return scrap vanish market";

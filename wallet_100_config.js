@@ -1,1 +1,1 @@
-var mnemonic = "utility phrase gossip mother occur noodle fresh valley dash firm faint vocal";
+var mnemonic = "amount able fiction elbow wish pact citizen clock until tray harbor okay";

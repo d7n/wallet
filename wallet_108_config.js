@@ -1,1 +1,1 @@
-var mnemonic = "attract twenty column timber sun habit system treat galaxy coach castle minimum";
+var mnemonic = "device rely fluid bind monster hole code pilot scrap sadness arch raven";

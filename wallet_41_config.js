@@ -1,1 +1,1 @@
-var mnemonic = "genuine toast carpet face state toss antenna supply original afford nothing library";
+var mnemonic = "inquiry carbon length decide scrap eagle rival output describe share spider mix";

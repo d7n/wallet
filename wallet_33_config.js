@@ -1,1 +1,1 @@
-var mnemonic = "struggle foster mosquito monitor city solar caught basket retreat behind apple easy";
+var mnemonic = "isolate flight gate humble modify margin battle valley crowd empower retire birth";

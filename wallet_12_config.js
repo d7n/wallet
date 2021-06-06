@@ -1,1 +1,1 @@
-var mnemonic = "media essence critic hard famous valid ability stove base deposit uphold decline";
+var mnemonic = "stay kite egg combine orbit ripple midnight express pizza toddler ribbon still";

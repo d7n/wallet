@@ -1,1 +1,1 @@
-var mnemonic = "speak exile file pistol father session enforce tiger grow race jacket model";
+var mnemonic = "tunnel category buzz boil jacket concert basket position addict traffic coffee plastic";

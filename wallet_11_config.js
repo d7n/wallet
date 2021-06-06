@@ -1,1 +1,1 @@
-var mnemonic = "dawn axis bounce example result mind toddler early theme express faith muscle";
+var mnemonic = "side topple prison thank boost rally arctic click hockey shield arm theme";

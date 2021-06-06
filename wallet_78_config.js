@@ -1,1 +1,1 @@
-var mnemonic = "clip vacant matrix poem unknown loud salad candy month enhance snake gloom";
+var mnemonic = "tip junk identify hybrid cereal program glimpse butter rate shallow movie awake";

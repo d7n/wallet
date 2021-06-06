@@ -1,1 +1,1 @@
-var mnemonic = "zebra save jealous inch feature marriage bright debate that drum drift cause";
+var mnemonic = "base talent coyote carbon eager light spirit kingdom forward combine page web";

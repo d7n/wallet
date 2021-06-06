@@ -1,1 +1,1 @@
-var mnemonic = "stuff fly paddle pact muscle whip verify bright van force artist busy";
+var mnemonic = "they truly crack click culture effort inflict bullet basket horn invest swim";

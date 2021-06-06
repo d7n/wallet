@@ -1,1 +1,1 @@
-var mnemonic = "hunt memory current obtain pear foam kingdom palm coral horse long organ";
+var mnemonic = "dress age check bicycle trip category fox cake jar produce range label";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon document scissors river reason photo accuse pattern chest romance valid mobile";
+var mnemonic = "protect warrior ginger wire perfect delay admit carpet rhythm target rib wasp";

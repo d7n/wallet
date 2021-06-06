@@ -1,1 +1,1 @@
-var mnemonic = "original lazy door image border fatigue position cover mixed bone once improve";
+var mnemonic = "model faculty portion lucky wing arena tissue medal visa old video bacon";

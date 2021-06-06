@@ -1,1 +1,1 @@
-var mnemonic = "forward crack pigeon crawl often hint have reward version another position produce";
+var mnemonic = "food dice receive dry file stuff dial brush blind film resemble sign";

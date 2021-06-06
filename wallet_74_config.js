@@ -1,1 +1,1 @@
-var mnemonic = "mango dress mansion tool liar relax over praise october forest mask always";
+var mnemonic = "silent draw second agent leader gas secret rough lounge father honey expose";

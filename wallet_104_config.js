@@ -1,1 +1,1 @@
-var mnemonic = "bottom post room vendor behind rather lyrics wrist fog crush dice swarm";
+var mnemonic = "raw million until confirm mistake banner tongue diesel game proof admit maid";

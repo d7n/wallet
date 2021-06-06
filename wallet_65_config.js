@@ -1,1 +1,1 @@
-var mnemonic = "laundry genius echo lesson practice time swallow pizza man bargain primary lizard";
+var mnemonic = "spirit supreme expect forest fit over fitness someone aerobic old clock dog";

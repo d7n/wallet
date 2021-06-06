@@ -1,1 +1,1 @@
-var mnemonic = "later throw sport sing ripple original name nothing local diesel lift envelope";
+var mnemonic = "service auction police divert visit detail length drum rabbit disease pen wide";

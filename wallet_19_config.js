@@ -1,1 +1,1 @@
-var mnemonic = "sauce pistol exhaust into earth crater draft shift giant observe oblige connect";
+var mnemonic = "truly arm danger man real weapon viable tired name sauce attract unusual";

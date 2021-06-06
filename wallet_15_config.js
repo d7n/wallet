@@ -1,1 +1,1 @@
-var mnemonic = "swing hammer frost now advance before cupboard almost actual spider couch candy";
+var mnemonic = "tongue addict cross category zone razor square mammal lab someone earth lock";

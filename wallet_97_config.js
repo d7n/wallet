@@ -1,1 +1,1 @@
-var mnemonic = "interest stand identify fancy olive accuse seven off equip job lonely dog";
+var mnemonic = "mouse thing eager pumpkin sudden library twin bless risk faculty vintage define";

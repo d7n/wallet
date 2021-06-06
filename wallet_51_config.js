@@ -1,1 +1,1 @@
-var mnemonic = "sibling drip rifle viable diesel waste shrug kind hip excite group actress";
+var mnemonic = "remove luxury tower echo pass need inform effort stool truly pave tube";

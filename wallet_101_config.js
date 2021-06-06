@@ -1,1 +1,1 @@
-var mnemonic = "rate knee solar ordinary side fiber uniform squeeze win horn stamp athlete";
+var mnemonic = "video junk erode turn heart donkey pause rival husband margin certain rigid";

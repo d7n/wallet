@@ -1,1 +1,1 @@
-var mnemonic = "wedding assault raven cost taxi entry scan one unfold agree cheap super";
+var mnemonic = "run address machine dignity scorpion leader nominee cliff afford alpha rural offer";

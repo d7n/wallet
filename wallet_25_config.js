@@ -1,1 +1,1 @@
-var mnemonic = "pair lawn sudden motor youth industry angry life belt web kick essence";
+var mnemonic = "suspect fashion clip vehicle pipe friend obscure elder phrase oyster gospel goddess";

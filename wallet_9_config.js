@@ -1,1 +1,1 @@
-var mnemonic = "cricket brown lounge bacon planet total eagle assume ensure ahead material grain";
+var mnemonic = "giraffe foot life twist fury tenant hard patient pizza panel high raw";

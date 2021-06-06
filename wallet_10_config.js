@@ -1,1 +1,1 @@
-var mnemonic = "board release honey nature verify practice hole battle december pumpkin decline since";
+var mnemonic = "harsh fancy mushroom damp corn normal federal female hungry giggle what nose";

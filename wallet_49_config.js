@@ -1,1 +1,1 @@
-var mnemonic = "source scene poem unit capable alley artist know weird air concert repair";
+var mnemonic = "space key achieve ecology slight lobster peasant cube soap into olympic only";

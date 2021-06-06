@@ -1,1 +1,1 @@
-var mnemonic = "acoustic rural satoshi viable phone ill join faith absurd brain tip canoe";
+var mnemonic = "educate enjoy oval total hover mesh differ teach problem you recall erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "vague noise exchange exit gas aerobic dog second gather depart day scene";
+var mnemonic = "result creek banner change crash current file repair gauge mad differ belt";

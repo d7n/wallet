@@ -1,1 +1,1 @@
-var mnemonic = "bacon student employ close insane purse sign jeans chair divide sing mix";
+var mnemonic = "edge pelican fluid inmate chef nation toy rather twelve energy cheese find";

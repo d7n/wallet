@@ -1,1 +1,1 @@
-var mnemonic = "arch illegal century interest vacuum escape black width engine faith desk three";
+var mnemonic = "write act liar deny throw balance jacket antique scatter alien marble message";

@@ -1,1 +1,1 @@
-var mnemonic = "merry purity fabric shine exit uniform face rather drop lamp check dog";
+var mnemonic = "method wool method expect napkin taxi amazing combine legend globe sadness demand";

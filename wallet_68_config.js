@@ -1,1 +1,1 @@
-var mnemonic = "sort penalty exit typical van diesel ticket bachelor unaware trust narrow dice";
+var mnemonic = "abuse leave math skull ski turn harbor ticket say addict diary rent";

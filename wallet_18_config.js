@@ -1,1 +1,1 @@
-var mnemonic = "tiny surge envelope pigeon blur own mutual ride cause midnight salad vague";
+var mnemonic = "ring sweet denial column magnet cream fun address country aware hire cricket";

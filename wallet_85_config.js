@@ -1,1 +1,1 @@
-var mnemonic = "car lock tooth verb oppose nut submit price cabbage voyage where muscle";
+var mnemonic = "rookie shoot parrot filter wave old prison rebuild clock absorb wagon mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "wage easily habit luxury seminar foil else jeans radio ethics enable relief";
+var mnemonic = "oak wear push senior risk alley check burst suffer crane proof pizza";

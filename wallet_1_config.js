@@ -1,1 +1,1 @@
-var mnemonic = "forest glove current emotion stool render foster popular addict key pink office";
+var mnemonic = "burden annual forward eternal pride clap erosion act address bonus warfare two";

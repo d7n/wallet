@@ -1,1 +1,1 @@
-var mnemonic = "pear any liberty oak amazing kind drift air fade hammer spirit educate";
+var mnemonic = "thank glare seminar ivory dry ramp destroy release enact fog solve version";

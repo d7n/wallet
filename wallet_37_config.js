@@ -1,1 +1,1 @@
-var mnemonic = "punch whisper office high source garden submit equal brass quote street shell";
+var mnemonic = "crumble own scrub trumpet violin empty push arena suffer present fence together";

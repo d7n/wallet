@@ -1,1 +1,1 @@
-var mnemonic = "minor taxi anxiety trigger obey peace feed dune fine exile crisp pipe";
+var mnemonic = "once equip inhale sudden enemy dolphin episode cruise index notice wasp hamster";

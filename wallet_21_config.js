@@ -1,1 +1,1 @@
-var mnemonic = "donate orient that moment repair disagree wall market journey repeat awake spy";
+var mnemonic = "fury pill depart clock digital renew toy soda bomb multiply table pave";

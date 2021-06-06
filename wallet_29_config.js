@@ -1,1 +1,1 @@
-var mnemonic = "hover argue improve satisfy little tumble loan artist glow juice finger voyage";
+var mnemonic = "weird video chronic hat win valley shuffle add when abuse claim paddle";

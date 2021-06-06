@@ -1,1 +1,1 @@
-var mnemonic = "surround local scorpion goat tail screen moon upgrade fortune slice online area";
+var mnemonic = "daughter roof bring wife dance hero false onion off smile typical record";

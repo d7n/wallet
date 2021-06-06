@@ -1,1 +1,1 @@
-var mnemonic = "few repeat tilt rebuild dynamic wealth debate practice adapt network very black";
+var mnemonic = "door whip resource install magic receive sponsor survey magic garment success beyond";

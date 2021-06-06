@@ -1,1 +1,1 @@
-var mnemonic = "sick replace run sad reflect faculty course thing area model diamond video";
+var mnemonic = "ability moral brass day tag stage already relax knife crack fruit check";

@@ -1,1 +1,1 @@
-var mnemonic = "car pink advance neutral ocean setup episode vast pink host flash exile";
+var mnemonic = "damage front jaguar economy swallow hold early leopard lake badge pyramid sail";

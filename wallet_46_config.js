@@ -1,1 +1,1 @@
-var mnemonic = "punch worth concert raven donkey deliver kiss elder nut fuel describe record";
+var mnemonic = "peanut kingdom draw shoulder chalk educate enact couple satisfy spoon gallery mom";

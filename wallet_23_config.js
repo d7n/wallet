@@ -1,1 +1,1 @@
-var mnemonic = "face industry broccoli ostrich diesel area choose place spare style crop mix";
+var mnemonic = "type govern express unfold cry decide host pool usual buffalo ugly turn";

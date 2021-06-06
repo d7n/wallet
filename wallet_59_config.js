@@ -1,1 +1,1 @@
-var mnemonic = "citizen melody knife gaze escape chaos range field addict eyebrow fatal dad";
+var mnemonic = "renew kiss alert seat avocado club ill okay rule club fragile client";

@@ -1,1 +1,1 @@
-var mnemonic = "school chicken hero wisdom kick salon muffin spoil student assault garden spray";
+var mnemonic = "improve benefit voyage armor trend order prosper chest tobacco embark tired inhale";
