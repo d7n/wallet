@@ -1,1 +1,1 @@
-var mnemonic = "deposit right second mammal surface monster toast fork ceiling bicycle capable fire";
+var mnemonic = "glory thing claim rhythm matter hub crop quantum blush path night pretty";

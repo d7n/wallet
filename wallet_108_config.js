@@ -1,1 +1,1 @@
-var mnemonic = "october stomach orient advance civil winner swift cloud coral family hurt evolve";
+var mnemonic = "deposit armed point excuse sustain skill oak salmon debate dad fat cruel";

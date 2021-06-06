@@ -1,1 +1,1 @@
-var mnemonic = "rebel dress promote slogan anxiety mountain pepper situate sustain churn pigeon remind";
+var mnemonic = "trophy claim point original shadow icon warm alien emotion fun comic slush";

@@ -1,1 +1,1 @@
-var mnemonic = "always bench fee ice boost mystery ice sure hammer rare uncover pilot";
+var mnemonic = "candy evil grocery brief arrive liquid salad crouch lazy obtain input current";

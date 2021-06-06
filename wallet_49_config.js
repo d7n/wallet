@@ -1,1 +1,1 @@
-var mnemonic = "bicycle that cat tide uphold endorse clog sing latin toy theme never";
+var mnemonic = "wall oblige morning novel beauty keep chef ramp column special aspect destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "rude transfer fly bridge horn organ dilemma close ozone catalog jump fabric";
+var mnemonic = "demise hood awful tape scare toddler catch diesel away family visit exclude";

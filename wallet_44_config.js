@@ -1,1 +1,1 @@
-var mnemonic = "easy faith rifle swamp curtain feel agent raccoon noble horror mystery wisdom";
+var mnemonic = "negative stool volcano bitter buyer alter angry pride science penalty horror lunch";

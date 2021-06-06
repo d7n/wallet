@@ -1,1 +1,1 @@
-var mnemonic = "trigger napkin oxygen bird raise blanket job quick hello spread toy blame";
+var mnemonic = "area glow latin maid victory obvious topple month climb history whale dove";

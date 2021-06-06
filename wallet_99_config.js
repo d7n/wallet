@@ -1,1 +1,1 @@
-var mnemonic = "odor throw genre like scout aunt argue table improve hole fever steel";
+var mnemonic = "board enforce whip poet resemble immune tomorrow current cage core nominee swallow";

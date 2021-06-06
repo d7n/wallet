@@ -1,1 +1,1 @@
-var mnemonic = "metal enough lazy eye carbon charge cloth join wrist visit drum night";
+var mnemonic = "time minute tortoise demand brush canal flock cave green song net demise";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar rebuild sudden ugly black banner enemy order gun daring excess fever";
+var mnemonic = "extend syrup man fee lamp gold harvest monitor occur food elephant winner";

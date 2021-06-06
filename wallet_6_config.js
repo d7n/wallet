@@ -1,1 +1,1 @@
-var mnemonic = "skate dish hold hen cover hockey excuse equal panda visit sample broom";
+var mnemonic = "junk virus mesh tower ignore festival inflict lizard ready mechanic predict term";

@@ -1,1 +1,1 @@
-var mnemonic = "panda time deliver other multiply west dish satoshi appear result essay imitate";
+var mnemonic = "noodle truly flavor destroy people solve night proud fragile employ forget captain";

@@ -1,1 +1,1 @@
-var mnemonic = "stable follow marine warm orange choose donate increase arrest axis answer core";
+var mnemonic = "drive little foster tomato soon example dash wash doll body fragile legend";

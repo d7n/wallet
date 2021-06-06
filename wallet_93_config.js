@@ -1,1 +1,1 @@
-var mnemonic = "sword rare flag guard topple orient verb welcome fruit useful find observe";
+var mnemonic = "elite rail state ugly credit minute festival modify parent vessel organ coast";

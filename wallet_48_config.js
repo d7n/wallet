@@ -1,1 +1,1 @@
-var mnemonic = "endless involve enter celery omit left museum combine cause creek basket ring";
+var mnemonic = "diary spike visual limb pill palace celery divorce belt film employ enough";

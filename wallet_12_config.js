@@ -1,1 +1,1 @@
-var mnemonic = "cable clarify toilet detect dry rely beauty bullet average eternal rocket split";
+var mnemonic = "verb comfort slight couple defense own december replace monitor negative ripple impose";

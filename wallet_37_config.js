@@ -1,1 +1,1 @@
-var mnemonic = "vibrant taxi model clean voice tip lawsuit meat rookie please tissue tragic";
+var mnemonic = "update blouse path video journey will give nature clutch tooth foam next";

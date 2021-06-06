@@ -1,1 +1,1 @@
-var mnemonic = "crowd scene nation life assume dose harsh occur hub adjust genuine weather";
+var mnemonic = "leopard token session index shove tornado drive crack neglect model furnace vague";

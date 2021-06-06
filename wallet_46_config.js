@@ -1,1 +1,1 @@
-var mnemonic = "pole pond upon reject boring outdoor history section segment decorate jazz suggest";
+var mnemonic = "rebuild pulp smart crucial melody novel gentle upgrade blossom since foam fetch";

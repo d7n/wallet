@@ -1,1 +1,1 @@
-var mnemonic = "supply until define penalty liar stable uncover tattoo bind undo inside crouch";
+var mnemonic = "attitude exhibit riot old stove force popular december crucial save core bounce";

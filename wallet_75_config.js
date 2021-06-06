@@ -1,1 +1,1 @@
-var mnemonic = "hover monkey wrestle reform diary belt unhappy ancient timber cake candy video";
+var mnemonic = "elbow water bundle flash scrub ribbon country awake afford box abstract ocean";

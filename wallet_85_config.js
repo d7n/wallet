@@ -1,1 +1,1 @@
-var mnemonic = "category they sibling vivid border keep fit outer fall drum defense agent";
+var mnemonic = "monster ship move exercise elite tongue casual toddler jump used waste lava";

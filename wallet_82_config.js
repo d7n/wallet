@@ -1,1 +1,1 @@
-var mnemonic = "enemy shed peanut cute demise palace like glide vocal marriage glimpse faith";
+var mnemonic = "wonder hurt journey potato taxi cheese sphere pistol glass rude unfair company";

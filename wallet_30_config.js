@@ -1,1 +1,1 @@
-var mnemonic = "mandate rebuild awesome arrive about must erode mechanic attract gadget yard hand";
+var mnemonic = "march allow square make ask price bind device body way distance venture";

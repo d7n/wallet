@@ -1,1 +1,1 @@
-var mnemonic = "fault tunnel early room century depart trouble repeat glory bid rhythm venue";
+var mnemonic = "quality inhale cannon language absurd path book jump antique tell south draw";

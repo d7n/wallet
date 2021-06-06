@@ -1,1 +1,1 @@
-var mnemonic = "now wreck fee jacket frame start crowd owner fetch dynamic easily nominee";
+var mnemonic = "lock cradle mother buyer sunny suspect lounge woman empower toilet crouch about";

@@ -1,1 +1,1 @@
-var mnemonic = "shy piano pull return nasty case alone shop eyebrow during border strong";
+var mnemonic = "edit tree fancy manual margin tide jelly tunnel trade derive relax guard";

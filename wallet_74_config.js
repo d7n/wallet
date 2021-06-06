@@ -1,1 +1,1 @@
-var mnemonic = "alert glue often drive stick sphere present legal frame pause forget sugar";
+var mnemonic = "chimney step mixture sweet tell predict unusual bar spike system chaos loyal";

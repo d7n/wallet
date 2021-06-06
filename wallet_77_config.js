@@ -1,1 +1,1 @@
-var mnemonic = "grass among truly high ghost time wink fashion good empower nut shove";
+var mnemonic = "spot rhythm notable talk deposit uphold detail gate hint almost various magnet";

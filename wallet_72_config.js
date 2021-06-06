@@ -1,1 +1,1 @@
-var mnemonic = "artefact pride erosion trust scene drum slice runway borrow carry scene method";
+var mnemonic = "churn message fatigue violin stick camera whisper addict dial palace team sign";

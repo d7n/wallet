@@ -1,1 +1,1 @@
-var mnemonic = "during point control broccoli busy rate produce expect satoshi mobile glance goddess";
+var mnemonic = "small senior observe obvious giant mesh evidence thunder chunk village way cover";

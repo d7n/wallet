@@ -1,1 +1,1 @@
-var mnemonic = "wreck caution pistol much sea keen bachelor evil true pony hover betray";
+var mnemonic = "session achieve image lift urban calm robot damage identify glad frequent pass";

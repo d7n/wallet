@@ -1,1 +1,1 @@
-var mnemonic = "hello zone prosper acid caution kangaroo zebra arrow word federal kid chimney";
+var mnemonic = "chicken oxygen tissue flash settle whip unique predict just banana universe switch";

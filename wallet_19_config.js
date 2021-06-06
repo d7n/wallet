@@ -1,1 +1,1 @@
-var mnemonic = "gospel emotion level entry notice raven answer energy payment flight recycle find";
+var mnemonic = "pause carry sudden water noodle leg buyer blame can aware globe wreck";

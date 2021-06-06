@@ -1,1 +1,1 @@
-var mnemonic = "barrel panda sense tissue payment win sing shadow ladder civil category carbon";
+var mnemonic = "result hospital hurry jewel ceiling sphere search relax receive file field omit";

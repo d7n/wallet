@@ -1,1 +1,1 @@
-var mnemonic = "note region intact toy robust hungry mass culture liquid race together wasp";
+var mnemonic = "sock wreck park energy prefer panel miss online hello belt mirror custom";

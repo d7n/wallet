@@ -1,1 +1,1 @@
-var mnemonic = "chair glue error amateur culture nephew have laptop attitude cry math shoe";
+var mnemonic = "uniform only protect stairs cabin relief write immune drink boring cook submit";

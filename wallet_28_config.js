@@ -1,1 +1,1 @@
-var mnemonic = "unlock search share myth cancel donate kingdom wheel section music movie book";
+var mnemonic = "truth spot immune mutual tragic always morning quote until street valve vivid";

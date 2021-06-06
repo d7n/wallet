@@ -1,1 +1,1 @@
-var mnemonic = "crunch scatter loan pass equal utility narrow license trend elegant sustain glove";
+var mnemonic = "cloud sauce jealous small pupil gossip amazing program chuckle infant cram stool";

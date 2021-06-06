@@ -1,1 +1,1 @@
-var mnemonic = "frozen dentist insect tired gravity someone swarm asthma summer door liberty appear";
+var mnemonic = "valve fragile ring amused sponsor time diesel bronze hub poem such social";

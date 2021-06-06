@@ -1,1 +1,1 @@
-var mnemonic = "emotion tilt plastic video enact tomato method suffer win squeeze siege tail";
+var mnemonic = "shuffle post run shaft fringe cheese live eyebrow lens tree smoke gravity";

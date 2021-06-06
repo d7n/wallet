@@ -1,1 +1,1 @@
-var mnemonic = "cannon dragon six neck lazy panther pilot dream bright seek gesture meat";
+var mnemonic = "image relief need gaze indicate cart energy elder total fortune material silly";

@@ -1,1 +1,1 @@
-var mnemonic = "neck acoustic ghost carbon quote junior pottery coral jealous canvas tonight balcony";
+var mnemonic = "vivid stove gather body wedding small scrap this vote exist keen cool";

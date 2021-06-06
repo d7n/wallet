@@ -1,1 +1,1 @@
-var mnemonic = "nest own ride poet axis produce fiber elite tenant tuna first minor";
+var mnemonic = "cabin dirt useful opinion flavor cave endorse citizen ten diagram logic rate";

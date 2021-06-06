@@ -1,1 +1,1 @@
-var mnemonic = "outside enrich energy tumble blame buffalo skin board undo marine legend garbage";
+var mnemonic = "increase pistol network today snack wool critic crash human warfare cream episode";

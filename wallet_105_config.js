@@ -1,1 +1,1 @@
-var mnemonic = "slow giggle tattoo black blanket venture fault library utility air hold region";
+var mnemonic = "juice play stone pipe piece mouse dirt monitor lend need enough drive";

@@ -1,1 +1,1 @@
-var mnemonic = "glide bar discover present hammer warfare success pioneer adult practice donate spoon";
+var mnemonic = "coast snow toast silly aerobic until tennis wave stereo wheat power invest";

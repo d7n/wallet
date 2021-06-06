@@ -1,1 +1,1 @@
-var mnemonic = "eager night lottery help eight clean opera network dove boring subject exit";
+var mnemonic = "wise flavor photo empty exchange paper dune security cluster drum edit wolf";

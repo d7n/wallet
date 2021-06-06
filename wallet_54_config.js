@@ -1,1 +1,1 @@
-var mnemonic = "develop police puppy snap clerk envelope depth mesh life fox drive select";
+var mnemonic = "icon year express hint undo kiwi exist snack uncle estate host swarm";

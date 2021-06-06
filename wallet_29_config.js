@@ -1,1 +1,1 @@
-var mnemonic = "enjoy danger assault sorry reason wasp ticket require view rotate anxiety veteran";
+var mnemonic = "noodle exile crush chair myth slam october plunge book plastic wait welcome";

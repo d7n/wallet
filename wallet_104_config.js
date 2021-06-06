@@ -1,1 +1,1 @@
-var mnemonic = "differ time vote warrior stove swear since security coyote mutual spare tube";
+var mnemonic = "dinner beef call uniform lawn trip record ranch miss nurse space spray";

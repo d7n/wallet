@@ -1,1 +1,1 @@
-var mnemonic = "giant soon sail atom isolate year tape unit curious wheat vault nut";
+var mnemonic = "pigeon flip entry citizen duty immense now gloom curious sister fancy fine";

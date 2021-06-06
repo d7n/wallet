@@ -1,1 +1,1 @@
-var mnemonic = "usage life swamp produce because inflict kit multiply novel mule puzzle antique";
+var mnemonic = "tell silent food junk journey feed skate fence same west toward subway";

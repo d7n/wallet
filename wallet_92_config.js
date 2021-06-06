@@ -1,1 +1,1 @@
-var mnemonic = "nothing month anchor pitch paper measure inside attitude amateur release frost shrimp";
+var mnemonic = "caution border board issue away indoor crew wrist cart diesel dignity mind";

@@ -1,1 +1,1 @@
-var mnemonic = "forum reason clutch kite team job then speed flag appear frown trust";
+var mnemonic = "opera cross recall virtual assist bachelor mirror control off hole huge multiply";

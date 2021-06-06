@@ -1,1 +1,1 @@
-var mnemonic = "shallow have cake use seven cover doctor sleep around track slam chair";
+var mnemonic = "weather rent ship increase always another resource setup planet latin three feel";

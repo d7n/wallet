@@ -1,1 +1,1 @@
-var mnemonic = "then entire medal dove visit segment afraid tennis swear mule wisdom make";
+var mnemonic = "true giraffe olive hire sand prepare lobster allow bracket open image curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "head unveil small grid ring peanut assist fuel history junk level survey";
+var mnemonic = "bulb side pride small sorry extra quality exhaust fly circle correct lucky";

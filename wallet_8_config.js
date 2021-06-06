@@ -1,1 +1,1 @@
-var mnemonic = "require resist badge sell unfold rebel clerk crawl critic slender muscle head";
+var mnemonic = "flame city person town find blood put erode repair clever spare couch";

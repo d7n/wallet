@@ -1,1 +1,1 @@
-var mnemonic = "consider zero sting frog glance beach ski cushion ethics foot figure front";
+var mnemonic = "palm evoke glad chicken kingdom vapor cart grid harbor disease vintage asthma";

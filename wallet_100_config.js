@@ -1,1 +1,1 @@
-var mnemonic = "orbit apology gym clown decade parent spray slab produce fragile enhance timber";
+var mnemonic = "wine seminar length stamp bitter twelve method gaze curious sausage merit cluster";

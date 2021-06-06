@@ -1,1 +1,1 @@
-var mnemonic = "tip law jelly fantasy enable govern dish guess equip solve thrive since";
+var mnemonic = "aunt depart twelve test prevent hood cabin hip aerobic power young jazz";

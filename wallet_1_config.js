@@ -1,1 +1,1 @@
-var mnemonic = "lift news notable position also orient symptom army dance fashion surge core";
+var mnemonic = "result hamster nurse cook shrug squirrel rubber island phrase october satisfy mother";

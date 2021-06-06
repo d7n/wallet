@@ -1,1 +1,1 @@
-var mnemonic = "adapt notice snap rigid peanut dawn invite roast make crash remember exile";
+var mnemonic = "harbor orphan fog address open miracle mirror glare seek armed they message";

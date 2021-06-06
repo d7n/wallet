@@ -1,1 +1,1 @@
-var mnemonic = "hen various song enemy cupboard prevent begin term attitude wagon today skirt";
+var mnemonic = "consider chimney ecology head amused olympic oven ordinary stock urban twenty width";

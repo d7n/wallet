@@ -1,1 +1,1 @@
-var mnemonic = "hen run lab faculty tunnel fade valid tomorrow spring system response bargain";
+var mnemonic = "retreat near jacket equip expire hint bid social cruel space diary grow";

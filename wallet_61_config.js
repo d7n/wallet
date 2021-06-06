@@ -1,1 +1,1 @@
-var mnemonic = "never relief you coil later hover identify add mystery cause ignore reflect";
+var mnemonic = "grief motion trigger helmet weekend current hat corn tenant hat garbage manage";

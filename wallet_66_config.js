@@ -1,1 +1,1 @@
-var mnemonic = "cigar box lend glimpse sing pretty actress liar hen tunnel copper goddess";
+var mnemonic = "twist humble strike six pony drink lift junk brand rhythm captain point";

@@ -1,1 +1,1 @@
-var mnemonic = "romance fury accuse cattle treat captain minimum witness treat matter avocado entry";
+var mnemonic = "sausage pigeon help shed this object accuse paper deposit vibrant matter still";

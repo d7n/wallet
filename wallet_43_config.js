@@ -1,1 +1,1 @@
-var mnemonic = "win valid cart chuckle boost juice maze forward spring jaguar measure bar";
+var mnemonic = "grocery riot urge ticket east produce either weird current home blood airport";

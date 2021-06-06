@@ -1,1 +1,1 @@
-var mnemonic = "economy similar hobby change ask treat please vessel fury sleep dirt uncover";
+var mnemonic = "ecology snake two crush act miracle bring slogan tackle marine because melody";

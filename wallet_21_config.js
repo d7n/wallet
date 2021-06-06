@@ -1,1 +1,1 @@
-var mnemonic = "rookie minimum useless cruel fetch high choose shine visit boss exist lemon";
+var mnemonic = "check member clever brother shine auction erase february coyote rival ahead minor";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit grape stage session scatter used hood young hen charge cup mosquito";
+var mnemonic = "define already blind balcony kiss sponsor dutch blast example order journey twenty";

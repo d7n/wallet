@@ -1,1 +1,1 @@
-var mnemonic = "add wall update duty toddler maximum govern fiscal account custom curve giraffe";
+var mnemonic = "joy inquiry negative link monster normal yard answer impact labor sell honey";

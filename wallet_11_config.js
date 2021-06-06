@@ -1,1 +1,1 @@
-var mnemonic = "volcano nation vague myth below index song family sword renew fiscal jealous";
+var mnemonic = "exchange gift burden visa crack void plastic grief feature ancient trap agent";

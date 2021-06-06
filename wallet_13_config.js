@@ -1,1 +1,1 @@
-var mnemonic = "hint render mushroom exclude slab resemble conduct celery six amused lottery initial";
+var mnemonic = "unique enlist brother creek few ceiling shallow avoid flavor skin prison close";

@@ -1,1 +1,1 @@
-var mnemonic = "toy step young suffer resemble mother buffalo another accident interest close toy";
+var mnemonic = "labor doctor erosion build romance extend coconut battle alone mirror boring virus";

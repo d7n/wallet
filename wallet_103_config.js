@@ -1,1 +1,1 @@
-var mnemonic = "lemon fish paddle double waste verify arm poverty name lecture tenant delay";
+var mnemonic = "object youth embrace reveal recipe program half chief mixed word industry rally";

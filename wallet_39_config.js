@@ -1,1 +1,1 @@
-var mnemonic = "submit embody curious laundry occur island catalog lunch boy before cabbage click";
+var mnemonic = "assault urge dirt dune avocado swear invite goddess provide scene horror isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "auto amused brother two assume author fetch holiday leopard repair aware know";
+var mnemonic = "seek foil insect found entry employ potato monkey seek tackle mad include";

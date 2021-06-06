@@ -1,1 +1,1 @@
-var mnemonic = "wonder tent blanket sudden nest spawn human minor tonight rather door wagon";
+var mnemonic = "ozone army kit witness theme cherry cousin brisk diesel jeans park margin";

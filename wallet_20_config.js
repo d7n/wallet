@@ -1,1 +1,1 @@
-var mnemonic = "release climb penalty excuse busy violin border citizen exclude scale plug pluck";
+var mnemonic = "soap spend baby spider must enroll slot leopard marble member ship fatal";

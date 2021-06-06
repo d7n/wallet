@@ -1,1 +1,1 @@
-var mnemonic = "attack turkey leopard comfort luggage edge film faith trouble brief ski reduce";
+var mnemonic = "wrong hawk gallery forest success produce project spoon double north affair hammer";

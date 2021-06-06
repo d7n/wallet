@@ -1,1 +1,1 @@
-var mnemonic = "material hammer flag whale goat glide render trend judge useless brisk ill";
+var mnemonic = "width pudding dentist universe clerk tell pact tag outer rural wash rule";

@@ -1,1 +1,1 @@
-var mnemonic = "bean receive shadow group exclude another climb tattoo shock text unhappy typical";
+var mnemonic = "episode coast stool throw island bullet friend bicycle trap castle elevator habit";

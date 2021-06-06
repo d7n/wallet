@@ -1,1 +1,1 @@
-var mnemonic = "attitude mechanic extend admit brown aisle harbor south bubble fuel split puzzle";
+var mnemonic = "wife awesome exist grant clap soccer basic awake sniff wood quit swap";

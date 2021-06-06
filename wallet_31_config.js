@@ -1,1 +1,1 @@
-var mnemonic = "embody social snack post strategy liquid logic air harvest depth guard champion";
+var mnemonic = "erosion effort benefit rural hat life gap slot shoulder match certain agent";

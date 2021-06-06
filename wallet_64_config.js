@@ -1,1 +1,1 @@
-var mnemonic = "illegal joy subject measure snap only surge legend come wood sound stem";
+var mnemonic = "dial outside enter empty pelican enforce grain develop impose entire skull lawsuit";

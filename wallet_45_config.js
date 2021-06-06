@@ -1,1 +1,1 @@
-var mnemonic = "valley deposit noise two pilot inject forget cry garment earth color sheriff";
+var mnemonic = "course fabric what enforce cactus corn armor sunny fashion explain rotate welcome";

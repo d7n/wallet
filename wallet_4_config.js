@@ -1,1 +1,1 @@
-var mnemonic = "shove laugh maid village knock roast holiday whisper leisure amateur chapter fuel";
+var mnemonic = "reason alone gun chimney taxi rubber celery witness illegal hint bike high";

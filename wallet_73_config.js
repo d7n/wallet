@@ -1,1 +1,1 @@
-var mnemonic = "salon half knife soup essence man movie episode swing village valid essence";
+var mnemonic = "cigar own tuition skin mask consider humble diesel found divorce slot gloom";
