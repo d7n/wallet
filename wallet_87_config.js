@@ -1,1 +1,1 @@
-var mnemonic = "wink mechanic town question purpose clutch sample mass peasant long render vessel";
+var mnemonic = "mass donkey shield warfare market coffee cinnamon brush domain hockey wool useless";

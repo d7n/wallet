@@ -1,1 +1,1 @@
-var mnemonic = "river involve evoke market dish search push window humor body fantasy fly";
+var mnemonic = "waste picnic castle crazy few shop toast clay tonight guide twelve sunny";

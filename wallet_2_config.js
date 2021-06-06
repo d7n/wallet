@@ -1,1 +1,1 @@
-var mnemonic = "spoil plunge dragon nuclear license maid coffee lady slice plug pilot crop";
+var mnemonic = "void script cement advice fog collect end laugh strong ski spring predict";

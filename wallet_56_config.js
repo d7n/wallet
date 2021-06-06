@@ -1,1 +1,1 @@
-var mnemonic = "embody assault aunt possible pottery basket remove hip girl repair pitch shoe";
+var mnemonic = "monster innocent void mirror unveil fatigue ripple slogan history angry boost account";

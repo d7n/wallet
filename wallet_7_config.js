@@ -1,1 +1,1 @@
-var mnemonic = "grass buddy chuckle boil invite humble leopard become slender field feed ten";
+var mnemonic = "scatter soul quality reflect hotel reopen second bomb sing increase onion kangaroo";

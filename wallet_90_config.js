@@ -1,1 +1,1 @@
-var mnemonic = "reunion jealous village wrap strong quantum vintage aim buyer sausage load model";
+var mnemonic = "sing wheel school round bike alien coast job cloth lava cinnamon jelly";

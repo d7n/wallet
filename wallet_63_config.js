@@ -1,1 +1,1 @@
-var mnemonic = "city estate twice raise shed wagon organ scrap ancient country ticket bright";
+var mnemonic = "pony wire boss float draft silk token raven dust vacant artwork spray";

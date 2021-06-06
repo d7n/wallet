@@ -1,1 +1,1 @@
-var mnemonic = "defy penalty finger visa predict badge south consider mimic trigger youth hazard";
+var mnemonic = "genre silk gallery blade chair hobby rural sadness process receive pottery salon";

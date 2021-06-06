@@ -1,1 +1,1 @@
-var mnemonic = "acquire cruise mean advice solar grape exit siren poet alcohol crawl doctor";
+var mnemonic = "example analyst call limit kick stove shine select corn apple runway vanish";

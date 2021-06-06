@@ -1,1 +1,1 @@
-var mnemonic = "blast bounce surge joy suffer half connect hero endorse pond report true";
+var mnemonic = "raw smooth diamond defense step minor embody start young result symbol bone";

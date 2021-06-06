@@ -1,1 +1,1 @@
-var mnemonic = "control practice prosper remember curve twenty panda cube ancient elephant crack embody";
+var mnemonic = "cluster flat inflict fossil alarm salon online hollow claim amazing tortoise sell";

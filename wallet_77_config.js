@@ -1,1 +1,1 @@
-var mnemonic = "payment pluck loop witness midnight humor live price blur effort bone raise";
+var mnemonic = "spoil uncover fancy train vacant horse reunion charge legal oppose faint hazard";

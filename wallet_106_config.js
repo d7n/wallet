@@ -1,1 +1,1 @@
-var mnemonic = "immense involve elevator bachelor hurt section escape extend initial field peasant inhale";
+var mnemonic = "assist turtle model infant marriage wire decrease soda other hurdle true news";

@@ -1,1 +1,1 @@
-var mnemonic = "cage brown toe novel boost sustain scheme canvas kind bring vacuum bubble";
+var mnemonic = "state service fog trial ceiling print symptom margin amused worry retire enjoy";

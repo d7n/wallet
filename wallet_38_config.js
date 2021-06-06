@@ -1,1 +1,1 @@
-var mnemonic = "caution insane knife task proof wrestle video that provide know large guitar";
+var mnemonic = "present exotic confirm student dry immense recall family curve upset daring cattle";

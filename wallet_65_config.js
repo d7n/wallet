@@ -1,1 +1,1 @@
-var mnemonic = "original neck border evil remain slide outer mass machine catch reflect culture";
+var mnemonic = "start pull imitate alpha erode resist right horror conduct have desert exercise";

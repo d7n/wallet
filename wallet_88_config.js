@@ -1,1 +1,1 @@
-var mnemonic = "dose kiss hotel today sniff pill alter sheriff pigeon horror trust relax";
+var mnemonic = "notice stick van hedgehog egg draft benefit sample trash list depart jazz";

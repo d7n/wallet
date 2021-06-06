@@ -1,1 +1,1 @@
-var mnemonic = "giraffe defy pig actual curtain engine cinnamon remove square wing tonight quiz";
+var mnemonic = "main chapter paddle husband truth sponsor potato trophy tomorrow sick innocent possible";

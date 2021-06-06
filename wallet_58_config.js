@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog below wonder unit nuclear huge ask sudden agent patient route mad";
+var mnemonic = "during hard doctor food used exile clip inner emerge hurry camera object";

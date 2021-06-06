@@ -1,1 +1,1 @@
-var mnemonic = "raven swear bachelor luxury shove bench boil simple warm always record bar";
+var mnemonic = "dizzy federal august slab thing antenna major letter autumn gym domain uncover";

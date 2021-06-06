@@ -1,1 +1,1 @@
-var mnemonic = "link invite wool icon sort symptom expand airport series tobacco input jewel";
+var mnemonic = "word science better off laptop duty copper gossip luxury head town shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "apple wrap sausage gesture latin answer reform end another call pipe runway";
+var mnemonic = "season umbrella tank scatter taste lizard example derive deny such vacuum canal";

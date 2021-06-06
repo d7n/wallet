@@ -1,1 +1,1 @@
-var mnemonic = "shop client always tiny aerobic brand lyrics exact quote enforce monkey chair";
+var mnemonic = "february lecture deer air quick convince step void impulse merry luggage state";

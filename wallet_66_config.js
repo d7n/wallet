@@ -1,1 +1,1 @@
-var mnemonic = "radar tiny awful wrong correct topple together icon blossom quick equip tongue";
+var mnemonic = "submit afraid home echo outside jazz staff arrest nephew lyrics fold aim";

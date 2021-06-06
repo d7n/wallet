@@ -1,1 +1,1 @@
-var mnemonic = "dentist pear room feature camera cricket near idea lock planet alley broccoli";
+var mnemonic = "patrol dash frozen enable unique mystery record crater report fork arrange snap";

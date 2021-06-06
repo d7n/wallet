@@ -1,1 +1,1 @@
-var mnemonic = "sentence venue purse enhance wrap unable ceiling give stereo rural cannon curve";
+var mnemonic = "focus actor faculty auto zero under nasty edge crawl model viable actor";

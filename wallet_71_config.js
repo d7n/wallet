@@ -1,1 +1,1 @@
-var mnemonic = "crouch almost second genius also tribe sail globe between fantasy seek parent";
+var mnemonic = "sugar wage cake broom final question goose inflict team opera impulse satisfy";

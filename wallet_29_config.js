@@ -1,1 +1,1 @@
-var mnemonic = "feed key swarm gold holiday divert theory disagree latin hammer amused zebra";
+var mnemonic = "hello version mango miracle initial enrich hotel athlete convince sheriff shy very";

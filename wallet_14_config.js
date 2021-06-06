@@ -1,1 +1,1 @@
-var mnemonic = "history field bubble flag output inject major noodle fringe enforce critic equip";
+var mnemonic = "sniff assault faint ill sort oil vital damage glue diet success faith";

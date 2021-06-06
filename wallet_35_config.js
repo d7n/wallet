@@ -1,1 +1,1 @@
-var mnemonic = "trouble spray below stick royal access stove motor enroll arctic horror session";
+var mnemonic = "blue liar blade salad rich true gentle kitten symbol electric strong jazz";

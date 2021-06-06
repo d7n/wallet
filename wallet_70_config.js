@@ -1,1 +1,1 @@
-var mnemonic = "quit alpha bid keen ankle menu spirit glide bone old series purse";
+var mnemonic = "seven foil until legal world umbrella urge rare coast bulb multiply diamond";

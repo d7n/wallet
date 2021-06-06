@@ -1,1 +1,1 @@
-var mnemonic = "fame clock spell marble ball earn circle path armed teach since limit";
+var mnemonic = "file chase liar above leopard stick resemble garbage reflect order license kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin neither wrestle wrap festival evolve arrive spare dash almost between buyer";
+var mnemonic = "solution industry proof bargain pottery coin tool collect squeeze rabbit secret clarify";

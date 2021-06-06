@@ -1,1 +1,1 @@
-var mnemonic = "person twelve trigger patrol beach cheap exit wolf night country boy fire";
+var mnemonic = "female lake resemble theory give erosion chicken cattle price desert property regular";

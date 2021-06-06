@@ -1,1 +1,1 @@
-var mnemonic = "organ runway protect nephew bronze finish barely coconut bread hand media aim";
+var mnemonic = "pluck fine tank turkey very lonely draft appear conduct ignore marriage swing";

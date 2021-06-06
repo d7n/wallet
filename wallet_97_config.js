@@ -1,1 +1,1 @@
-var mnemonic = "girl creek harsh obey satoshi pistol expire palace plug grief anchor program";
+var mnemonic = "struggle estate either library benefit woman seed juice festival kitchen six tonight";

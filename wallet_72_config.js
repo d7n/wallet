@@ -1,1 +1,1 @@
-var mnemonic = "guitar extra equal have denial magic unit thunder wife kite bottom during";
+var mnemonic = "bridge margin gown hello balance direct pink situate basket enable stand food";

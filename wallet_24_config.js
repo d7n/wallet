@@ -1,1 +1,1 @@
-var mnemonic = "journey post jar helmet accuse element wine move enroll option need above";
+var mnemonic = "suit toddler sentence question churn mechanic shaft congress saddle grab oppose such";

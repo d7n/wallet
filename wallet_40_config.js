@@ -1,1 +1,1 @@
-var mnemonic = "local salmon tomato sock guitar idea nice climb boil silk gorilla dune";
+var mnemonic = "steak spray bachelor rare despair umbrella abstract nasty bunker real mother embrace";

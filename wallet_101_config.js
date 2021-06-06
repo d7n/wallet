@@ -1,1 +1,1 @@
-var mnemonic = "winner turtle flavor life access arrow salmon glance situate immense west choice";
+var mnemonic = "raven naive mirror hospital insane crystal exhaust limit glory frame guitar today";

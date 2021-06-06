@@ -1,1 +1,1 @@
-var mnemonic = "require case critic hour animal key smile claw disease riot snow network";
+var mnemonic = "skill height filter sorry another athlete source used smart shadow magnet grant";

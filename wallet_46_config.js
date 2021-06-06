@@ -1,1 +1,1 @@
-var mnemonic = "canyon prevent mixed bright service slender patient ramp call panda giggle twelve";
+var mnemonic = "federal mansion path marble assist latin deer bracket shiver scout castle rabbit";

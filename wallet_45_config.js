@@ -1,1 +1,1 @@
-var mnemonic = "jealous apple during portion sell island fly century tiger memory immune loop";
+var mnemonic = "pistol scatter volcano indicate tragic spring labor onion expect throw decline outer";

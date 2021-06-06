@@ -1,1 +1,1 @@
-var mnemonic = "project eagle fly congress dinner hospital where number matrix innocent meat witness";
+var mnemonic = "budget knee tomorrow intact consider bus deputy tragic era depart pen spatial";

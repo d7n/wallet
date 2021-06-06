@@ -1,1 +1,1 @@
-var mnemonic = "saddle main cheap stairs conduct fire define unfair child amount typical accident";
+var mnemonic = "insane fan industry coyote stable foam furnace will bread liar people grant";

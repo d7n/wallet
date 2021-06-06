@@ -1,1 +1,1 @@
-var mnemonic = "series wrong reject jump flower settle manage broccoli exchange october public office";
+var mnemonic = "bleak people example speak invite strike turkey garment flag tail stumble suggest";

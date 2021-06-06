@@ -1,1 +1,1 @@
-var mnemonic = "cat fire hour kit solid gift twist surge provide strong body party";
+var mnemonic = "divert awful weapon lion same quick then hammer essence multiply force else";

@@ -1,1 +1,1 @@
-var mnemonic = "undo alpha tornado furnace bridge repeat deny frog photo daring mixture fiber";
+var mnemonic = "office myself crawl helmet genius shrug humble dynamic entire wheel hello fatigue";

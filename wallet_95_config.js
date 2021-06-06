@@ -1,1 +1,1 @@
-var mnemonic = "junk story among juice before creek royal notable gauge north lecture soldier";
+var mnemonic = "divide shed wagon retire insane float wash piece stereo gate kitchen never";

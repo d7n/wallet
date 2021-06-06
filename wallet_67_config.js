@@ -1,1 +1,1 @@
-var mnemonic = "soup extend genre security submit fork harbor awesome boss promote weekend firm";
+var mnemonic = "blue fish dune test grocery pitch sport organ topic trend toast candy";

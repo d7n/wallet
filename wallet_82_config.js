@@ -1,1 +1,1 @@
-var mnemonic = "control ribbon waste because antenna utility wife keep limb suspect trade scrap";
+var mnemonic = "search verify company this window laundry wife swim inner account battle echo";

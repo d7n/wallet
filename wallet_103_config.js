@@ -1,1 +1,1 @@
-var mnemonic = "hawk dynamic notable cloud brother work type citizen raven return layer garden";
+var mnemonic = "liberty frozen cliff energy public flat ignore borrow harbor flock claw keen";

@@ -1,1 +1,1 @@
-var mnemonic = "fold resemble strategy gun used tornado quiz front entire among indoor absent";
+var mnemonic = "kangaroo vote social sibling kid eight knife elder ring key cheese dwarf";

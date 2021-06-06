@@ -1,1 +1,1 @@
-var mnemonic = "coffee margin thought reason group uniform inherit feature stable gossip quit title";
+var mnemonic = "recipe share disorder digital volcano noble orbit gym lake often donor puppy";

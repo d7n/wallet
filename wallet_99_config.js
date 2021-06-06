@@ -1,1 +1,1 @@
-var mnemonic = "bus clutch donate alarm winter width agree universe frozen reopen rigid enemy";
+var mnemonic = "gentle enjoy garage laundry humble trumpet grab sure soul found direct fade";

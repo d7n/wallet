@@ -1,1 +1,1 @@
-var mnemonic = "enrich resist creek lunar eagle purse cricket rule divide oyster weather congress";
+var mnemonic = "crowd object change gorilla scare volume anger chest wedding approve tunnel jungle";

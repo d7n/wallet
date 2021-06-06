@@ -1,1 +1,1 @@
-var mnemonic = "proud muffin half swamp lonely island salmon girl excuse calm fox blood";
+var mnemonic = "come learn echo shield opinion notable dove surge drop audit version spoon";

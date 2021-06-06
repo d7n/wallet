@@ -1,1 +1,1 @@
-var mnemonic = "speak powder sunset bullet reform burger like drastic betray borrow club pride";
+var mnemonic = "update nest tattoo volcano addict rich memory bachelor raw input biology gun";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar remember advice fault puppy proof vicious industry below depth hurry else";
+var mnemonic = "truck country pepper palace record radar only also ride quality access fall";

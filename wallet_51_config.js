@@ -1,1 +1,1 @@
-var mnemonic = "pigeon noodle gaze real meadow permit dilemma shell boil december goddess suggest";
+var mnemonic = "fiction awkward grab flower east oxygen inquiry armed sight kangaroo appear doll";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist social divert lazy wonder dose mirror camera lecture glow basic later";
+var mnemonic = "wonder animal rib major element left fan shaft vital segment affair dove";

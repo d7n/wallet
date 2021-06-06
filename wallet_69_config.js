@@ -1,1 +1,1 @@
-var mnemonic = "couple spoil miracle engine shed nasty option horror random belt heavy inside";
+var mnemonic = "before parent dove depend caught cabbage mammal time tuition success mad neither";

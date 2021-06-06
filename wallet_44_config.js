@@ -1,1 +1,1 @@
-var mnemonic = "lift because photo street chaos tenant swim client abuse weather wrist basic";
+var mnemonic = "pretty nose power dream clown state orphan senior meat hawk exercise slide";

@@ -1,1 +1,1 @@
-var mnemonic = "area broom flat example protect dirt federal this frog empty already broken";
+var mnemonic = "final note often garlic bargain orchard trigger fever genuine decrease stage alpha";

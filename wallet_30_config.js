@@ -1,1 +1,1 @@
-var mnemonic = "soft heavy soccer rack exhibit thought much inner orphan follow liberty pretty";
+var mnemonic = "cannon shrug orchard emotion mouse trash juice jazz owner october punch private";

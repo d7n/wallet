@@ -1,1 +1,1 @@
-var mnemonic = "hair doll gravity shrug rule say during bundle oxygen stove autumn drift";
+var mnemonic = "satisfy run stand outside toy guard diagram type chair ignore blind apart";

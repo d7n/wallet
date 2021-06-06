@@ -1,1 +1,1 @@
-var mnemonic = "road mushroom police crucial history order garbage kick come moral miracle truly";
+var mnemonic = "custom demise tube minute road tobacco oil snow very ticket able office";

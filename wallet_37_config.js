@@ -1,1 +1,1 @@
-var mnemonic = "pattern together garage tool dad swamp enemy shoulder estate claim best lounge";
+var mnemonic = "cost since seek drop figure tail solid between attract system excess income";

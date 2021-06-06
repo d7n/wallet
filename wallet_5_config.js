@@ -1,1 +1,1 @@
-var mnemonic = "toe taste elder blast spy arena banana same appear cute farm library";
+var mnemonic = "void labor pride list expire goat simple shove budget liquid exhibit nephew";

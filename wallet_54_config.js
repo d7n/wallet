@@ -1,1 +1,1 @@
-var mnemonic = "burden century destroy debris expose remind vessel involve memory energy paddle pet";
+var mnemonic = "stone blood boring pluck suggest system cement skin strategy tuition plunge rail";

@@ -1,1 +1,1 @@
-var mnemonic = "denial chapter scrub midnight able never trouble team exhibit remove wonder produce";
+var mnemonic = "tortoise trash outer work grocery trip club play ivory desert taste mass";

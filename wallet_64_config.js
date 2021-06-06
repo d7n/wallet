@@ -1,1 +1,1 @@
-var mnemonic = "budget retreat mobile chronic birth motor carbon rough addict you good kitchen";
+var mnemonic = "image else pride vintage deposit exact glare task lounge learn session mad";

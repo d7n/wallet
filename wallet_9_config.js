@@ -1,1 +1,1 @@
-var mnemonic = "master lonely ankle swing question believe pole frost wave adult lamp night";
+var mnemonic = "quote calm jelly genre retire viable corn debate egg dune hunt romance";

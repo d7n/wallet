@@ -1,1 +1,1 @@
-var mnemonic = "sock goat mixed seek fluid crunch same manual floor room glimpse together";
+var mnemonic = "review during romance maze couch tourist blood battle staff sun link cloud";

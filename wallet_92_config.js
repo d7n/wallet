@@ -1,1 +1,1 @@
-var mnemonic = "guess law glue broccoli zone fix nature clap senior apple wrist broken";
+var mnemonic = "exact skirt front remind vehicle mammal bench first position situate motor globe";

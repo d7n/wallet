@@ -1,1 +1,1 @@
-var mnemonic = "surge aisle tuition orange radio barrel health dismiss fragile salmon uphold company";
+var mnemonic = "slender cupboard oil relief celery record boy stand abstract field family extra";

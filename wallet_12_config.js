@@ -1,1 +1,1 @@
-var mnemonic = "ritual move number spell detail scatter tonight piano sand isolate ritual nation";
+var mnemonic = "interest strong wave sad boss dog empty sport settle record analyst fork";

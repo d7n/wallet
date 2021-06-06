@@ -1,1 +1,1 @@
-var mnemonic = "choose cream tornado prison man soft predict foot wing proud setup cricket";
+var mnemonic = "arrive tattoo stove grief cliff dial repeat knee truth cannon wine student";

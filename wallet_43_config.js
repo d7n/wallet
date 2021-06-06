@@ -1,1 +1,1 @@
-var mnemonic = "vanish situate over hire play fiscal luxury love route tortoise prevent stereo";
+var mnemonic = "subway match food service entry dynamic notice scene glue state tree truth";

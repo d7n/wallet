@@ -1,1 +1,1 @@
-var mnemonic = "aware limb kid frost length fog board dog fish cage fork ritual";
+var mnemonic = "sponsor motor paddle argue develop gentle decrease scatter carry grace pencil deny";

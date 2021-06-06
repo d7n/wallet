@@ -1,1 +1,1 @@
-var mnemonic = "effort chicken blame gun lamp slide worry item shallow cover toss all";
+var mnemonic = "crouch speed original travel ready flat photo sea require silk boring sugar";

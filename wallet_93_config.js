@@ -1,1 +1,1 @@
-var mnemonic = "coast uncover wall canal grief sell gloom lottery strike volcano race tool";
+var mnemonic = "interest script pact flight piece art snow student green clean multiply crane";

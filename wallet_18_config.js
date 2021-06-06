@@ -1,1 +1,1 @@
-var mnemonic = "upset accuse surface any auction top brick dream route galaxy blanket large";
+var mnemonic = "flee impulse decline alter vibrant churn bridge dragon ecology sustain title cup";

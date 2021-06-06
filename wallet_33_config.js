@@ -1,1 +1,1 @@
-var mnemonic = "opinion inflict tobacco fold focus panel normal enemy purpose fitness lamp moment";
+var mnemonic = "trash skull moon survey lava woman cake never alone very fade quit";

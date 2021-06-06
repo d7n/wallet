@@ -1,1 +1,1 @@
-var mnemonic = "affair radio trap lunch legend trend candy bridge orient have average image";
+var mnemonic = "token curious select quantum rabbit only slush prosper assault volcano approve taste";

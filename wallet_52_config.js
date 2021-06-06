@@ -1,1 +1,1 @@
-var mnemonic = "excess winner pole matrix main charge mule report veteran enforce fat smart";
+var mnemonic = "learn culture buzz laptop surface force diary catalog field fabric kind struggle";

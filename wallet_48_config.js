@@ -1,1 +1,1 @@
-var mnemonic = "film armed present immune output melt cave silent hand social target excuse";
+var mnemonic = "double right cheese era since turkey concert hair edit help private pull";

@@ -1,1 +1,1 @@
-var mnemonic = "version receive deliver favorite essay grocery expand grief olympic copper fluid bless";
+var mnemonic = "keep adult category burger coyote upgrade sight oval ethics segment senior organ";

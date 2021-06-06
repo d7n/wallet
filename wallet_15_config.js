@@ -1,1 +1,1 @@
-var mnemonic = "arrive matter equal alcohol fetch civil dizzy embark size alter urban dynamic";
+var mnemonic = "duck high blast valley below hip calm unfold luggage company truck easily";

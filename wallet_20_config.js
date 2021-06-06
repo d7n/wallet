@@ -1,1 +1,1 @@
-var mnemonic = "undo dismiss broccoli spot hand unfair domain key oyster library office opera";
+var mnemonic = "join print snack use recipe issue announce parrot virtual fine model bright";

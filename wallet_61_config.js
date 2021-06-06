@@ -1,1 +1,1 @@
-var mnemonic = "unusual mind angle defense office hobby spirit amount goose announce trick tray";
+var mnemonic = "syrup mercy derive dice decade unit magnet balance rigid join strong busy";
