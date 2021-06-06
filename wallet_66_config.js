@@ -1,1 +1,1 @@
-var mnemonic = "across erosion hidden moon kid sadness salt fat true actual replace pulp";
+var mnemonic = "usual safe vital window flush deputy ensure broccoli spray win rose trigger";

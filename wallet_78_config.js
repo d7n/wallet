@@ -1,1 +1,1 @@
-var mnemonic = "together need until weather hero solution used announce auction iron vendor number";
+var mnemonic = "common grass once foot cross chase casual leave tone tooth half farm";

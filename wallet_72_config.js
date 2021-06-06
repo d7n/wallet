@@ -1,1 +1,1 @@
-var mnemonic = "laundry able lab pony fog crumble saddle tackle person palace solution neck";
+var mnemonic = "cheap split punch develop sport tent forget canal valley heavy admit cotton";

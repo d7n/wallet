@@ -1,1 +1,1 @@
-var mnemonic = "unique pull shadow laundry express idle once pig jeans rabbit online lyrics";
+var mnemonic = "fiction ordinary erode wire home turkey pistol gloom double sign tent write";

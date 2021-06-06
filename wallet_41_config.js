@@ -1,1 +1,1 @@
-var mnemonic = "eager boy pave left helmet drive twice original glance ethics spot burger";
+var mnemonic = "retreat box silly alarm chef egg produce expose rice dumb lunar feed";

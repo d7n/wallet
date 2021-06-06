@@ -1,1 +1,1 @@
-var mnemonic = "duty chicken crazy injury dumb magic message trumpet critic refuse lobster oyster";
+var mnemonic = "tunnel someone demand foster volcano planet text index anger prepare finger clip";

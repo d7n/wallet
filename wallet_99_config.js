@@ -1,1 +1,1 @@
-var mnemonic = "humble junk future force range anger space check remove phrase enrich squeeze";
+var mnemonic = "merit delay nuclear clarify eye wall bomb follow quick hazard hint motion";

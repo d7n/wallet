@@ -1,1 +1,1 @@
-var mnemonic = "notice universe denial satisfy grace crack salute now involve jump moment pulp";
+var mnemonic = "invest head cycle response void amazing law image giant way attack host";

@@ -1,1 +1,1 @@
-var mnemonic = "try equal flavor myth alter question midnight onion brief jungle fashion twice";
+var mnemonic = "average wild basket edge mobile witness orient twenty ship door picture private";

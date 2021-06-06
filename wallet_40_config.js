@@ -1,1 +1,1 @@
-var mnemonic = "spoon expand memory acoustic obtain ill marriage agree wild enact voyage candy";
+var mnemonic = "brain cage loop raw wide apart balance indoor almost uniform canyon twenty";

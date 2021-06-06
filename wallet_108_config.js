@@ -1,1 +1,1 @@
-var mnemonic = "lesson grit walk display hamster talk gaze immune conduct old stereo hammer";
+var mnemonic = "frost opinion say weapon since off raven one stock vague helmet length";

@@ -1,1 +1,1 @@
-var mnemonic = "figure undo today review differ habit furnace jump pen educate wool matrix";
+var mnemonic = "bargain bird journey claim miss pilot worth march library final skirt afford";

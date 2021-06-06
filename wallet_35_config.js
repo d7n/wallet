@@ -1,1 +1,1 @@
-var mnemonic = "lemon oval skirt use suit useless crisp lens twist essay wire oxygen";
+var mnemonic = "awkward hover slim ensure shoot behind strategy page almost extra shrug peanut";

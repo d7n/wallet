@@ -1,1 +1,1 @@
-var mnemonic = "spider kingdom entry emotion drink frozen toss upgrade until present hope sibling";
+var mnemonic = "outdoor desk episode toilet romance treat spice range print ignore feature sword";

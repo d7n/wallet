@@ -1,1 +1,1 @@
-var mnemonic = "sell celery sample gain quantum cinnamon summer simple genre luggage machine bachelor";
+var mnemonic = "mercy twenty evoke debris adjust angle harvest confirm wealth knee script bundle";

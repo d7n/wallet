@@ -1,1 +1,1 @@
-var mnemonic = "minimum dizzy chat exercise awkward devote garage top athlete genuine tongue organ";
+var mnemonic = "once return tape shoe journey panda inch super dose leader album doll";

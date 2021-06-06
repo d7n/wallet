@@ -1,1 +1,1 @@
-var mnemonic = "unaware thunder paddle manual bullet immune tongue fall zebra suggest hero such";
+var mnemonic = "brass sound engine uncle lawsuit two fringe close coach student monitor enough";

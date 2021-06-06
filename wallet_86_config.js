@@ -1,1 +1,1 @@
-var mnemonic = "inhale air another repair hint loan panda limit unlock lend kind volcano";
+var mnemonic = "among cram exist exist vessel dice hedgehog business orange liberty fog issue";

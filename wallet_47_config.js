@@ -1,1 +1,1 @@
-var mnemonic = "hero narrow cloud agree salon stove page orphan moment potato about garage";
+var mnemonic = "garden enhance math obscure visual basket wish width flash advance relax average";

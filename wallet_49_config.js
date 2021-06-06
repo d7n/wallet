@@ -1,1 +1,1 @@
-var mnemonic = "lounge direct stove swim employ faith radio awful depend guess attack shy";
+var mnemonic = "amateur web pottery jar man wood assault neck include attend super hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "melt fold frost various canyon kite basic include panda assume faculty harsh";
+var mnemonic = "element tiny brain uniform slot blanket search another master bottom develop seven";

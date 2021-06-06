@@ -1,1 +1,1 @@
-var mnemonic = "spoil jewel indoor barely labor worry dream shock horse measure script actress";
+var mnemonic = "kit pledge axis trust lemon wild where slam together cement style approve";

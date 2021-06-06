@@ -1,1 +1,1 @@
-var mnemonic = "phrase minute blue hurry lizard basket you cliff silent spring road nice";
+var mnemonic = "vanish soon artwork kangaroo grace surprise inform measure peasant original minute another";

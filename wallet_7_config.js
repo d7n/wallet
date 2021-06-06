@@ -1,1 +1,1 @@
-var mnemonic = "kiwi swift young donor session twin steak upper bar seat lumber enact";
+var mnemonic = "wage retreat budget quality wait spoon retreat elegant wreck credit cost hover";

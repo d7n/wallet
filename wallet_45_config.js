@@ -1,1 +1,1 @@
-var mnemonic = "eye solar ice proud canal model board orphan helmet enroll mutual mammal";
+var mnemonic = "identify ten forum victory club match system odor couch version recycle poet";

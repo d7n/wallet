@@ -1,1 +1,1 @@
-var mnemonic = "together believe receive work cloud buyer skate gorilla cream initial during winner";
+var mnemonic = "obey scale chunk athlete silly trust velvet volume rich believe regret clog";

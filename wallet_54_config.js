@@ -1,1 +1,1 @@
-var mnemonic = "family scrub man race fluid cabbage manual barely shadow submit rib script";
+var mnemonic = "mail miracle actress scene clinic nose sphere ribbon saddle choice false raise";

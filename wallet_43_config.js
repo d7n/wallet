@@ -1,1 +1,1 @@
-var mnemonic = "exist oyster kitchen fly nation input hand boost weasel patrol quality traffic";
+var mnemonic = "south comfort merge hero live prison space plate address release give clip";

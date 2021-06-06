@@ -1,1 +1,1 @@
-var mnemonic = "neglect fish pig sweet check select dilemma gun mandate topple hedgehog weather";
+var mnemonic = "cool program near awesome ritual blanket large mammal embark degree load fancy";

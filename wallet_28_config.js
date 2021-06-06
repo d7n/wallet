@@ -1,1 +1,1 @@
-var mnemonic = "stairs seminar fruit blouse urge famous dune east match retreat cook hub";
+var mnemonic = "puzzle sail wrist market asset stable will table wife success wool leader";

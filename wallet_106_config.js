@@ -1,1 +1,1 @@
-var mnemonic = "mammal goose primary color assault bonus upper upset diet trip amount amount";
+var mnemonic = "rival sock man oxygen course cricket diet lottery tiny eager spatial enjoy";

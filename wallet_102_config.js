@@ -1,1 +1,1 @@
-var mnemonic = "ginger manage used urge scheme garbage execute where bachelor glory fame expect";
+var mnemonic = "arm situate fatigue test pond clog butter discover army dawn typical quiz";

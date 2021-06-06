@@ -1,1 +1,1 @@
-var mnemonic = "jaguar history better finger wait chef party dove aunt disorder coconut boss";
+var mnemonic = "inspire disagree banana claim height whip follow brown youth canvas style hair";

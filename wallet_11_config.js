@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tape matrix protect steak mom abstract common practice catalog moment shallow";
+var mnemonic = "pet tone banner crawl injury quarter police bulb cereal erupt tornado flat";

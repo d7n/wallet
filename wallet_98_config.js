@@ -1,1 +1,1 @@
-var mnemonic = "turtle silly verify hazard bag jaguar ride inhale opera space crowd oak";
+var mnemonic = "avoid finger empower audit bitter believe welcome muffin smile scan film leisure";

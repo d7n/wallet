@@ -1,1 +1,1 @@
-var mnemonic = "blur snake tunnel ask faculty pair weapon price crawl nasty coral artwork";
+var mnemonic = "force bounce guilt shock hole find impulse scrub wreck expect early dentist";

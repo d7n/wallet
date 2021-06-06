@@ -1,1 +1,1 @@
-var mnemonic = "balcony coral barrel swarm game million cabbage someone school minute grab grab";
+var mnemonic = "dish scare mushroom opera elegant enact oval tell monitor achieve spend orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "female drift exhibit wagon public fix grow pulp vessel remind visual void";
+var mnemonic = "wet coil notice sea echo mad dance merge great bargain judge squeeze";

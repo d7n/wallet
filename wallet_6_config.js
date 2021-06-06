@@ -1,1 +1,1 @@
-var mnemonic = "assist tennis mad trip tent trigger change century carbon atom grab mimic";
+var mnemonic = "inmate faculty timber body pear destroy spin other afford quality devote trophy";

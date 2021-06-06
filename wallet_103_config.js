@@ -1,1 +1,1 @@
-var mnemonic = "purity ethics auction average visual strike theory coffee please report retreat olive";
+var mnemonic = "soft tonight bronze saddle decrease antique moon mad candy vote pause make";

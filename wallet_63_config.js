@@ -1,1 +1,1 @@
-var mnemonic = "rice disease second coil plastic weekend select leg stereo action solid giggle";
+var mnemonic = "silk object gasp shrug holiday arrive tiny rate man music nation genuine";

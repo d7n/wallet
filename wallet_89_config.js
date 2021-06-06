@@ -1,1 +1,1 @@
-var mnemonic = "mirror legal bag pistol increase expand wheat bounce curve car razor wash";
+var mnemonic = "eye goat client disease meat achieve burger indoor drill various april eyebrow";

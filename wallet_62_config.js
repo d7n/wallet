@@ -1,1 +1,1 @@
-var mnemonic = "quarter shine ten black pumpkin head alert cluster chicken mandate snake anchor";
+var mnemonic = "fitness vague drip arctic decrease century sort cotton coyote merry kiss hand";

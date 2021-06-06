@@ -1,1 +1,1 @@
-var mnemonic = "glory hold praise cliff valley soft fly latin witness joy bright document";
+var mnemonic = "dynamic nation genius coconut boy nominee scene debate crush cattle tent poet";

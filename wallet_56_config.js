@@ -1,1 +1,1 @@
-var mnemonic = "deny render bring mimic razor giraffe forum example creek upgrade thumb ski";
+var mnemonic = "buzz derive zebra raise essence table stock way divide shine video acoustic";

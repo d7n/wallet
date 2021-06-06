@@ -1,1 +1,1 @@
-var mnemonic = "book fat episode multiply turtle next diary boring dilemma response orphan fan";
+var mnemonic = "axis thank soup repair name reject hard inmate deliver begin visit spray";

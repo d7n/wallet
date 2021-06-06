@@ -1,1 +1,1 @@
-var mnemonic = "hammer guess melt suit canvas ill word private antique pact silk conduct";
+var mnemonic = "quality remind lock marble wrap bus soft surge sphere leaf bread property";

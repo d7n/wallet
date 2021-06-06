@@ -1,1 +1,1 @@
-var mnemonic = "case focus fox promote lamp logic morning math beyond hawk pupil vicious";
+var mnemonic = "muffin rich snap kidney junior three muffin sun bind box fan divert";

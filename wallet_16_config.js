@@ -1,1 +1,1 @@
-var mnemonic = "autumn similar render entire wisdom knock dish club water more violin student";
+var mnemonic = "faith cream bulk safe submit ramp enable jelly couple notice basic expect";

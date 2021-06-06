@@ -1,1 +1,1 @@
-var mnemonic = "attend coin blade cook stamp gap crop debris pulp state wheel reopen";
+var mnemonic = "key top safe spice catalog phone image ten puzzle beyond diesel gown";

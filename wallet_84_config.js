@@ -1,1 +1,1 @@
-var mnemonic = "wisdom abuse concert slush device traffic fetch sunset hurdle pony salt install";
+var mnemonic = "choose conduct trend cycle sleep access acquire negative chicken consider behind hub";

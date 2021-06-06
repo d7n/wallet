@@ -1,1 +1,1 @@
-var mnemonic = "anchor episode sell tail discover valley boss narrow once utility room photo";
+var mnemonic = "lion knee wing cash donor simple person bean rapid relief amazing hope";

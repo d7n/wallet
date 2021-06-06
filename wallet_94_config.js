@@ -1,1 +1,1 @@
-var mnemonic = "hawk that minimum address slam bright wrap glad across torch design this";
+var mnemonic = "oblige pear logic wing between eager fever index keen zoo strategy unknown";

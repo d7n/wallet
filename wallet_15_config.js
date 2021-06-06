@@ -1,1 +1,1 @@
-var mnemonic = "double gentle engine bubble isolate clog surround follow exhaust royal sound fancy";
+var mnemonic = "pool sound holiday better grass supply cry dice outside cram clap slender";

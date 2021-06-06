@@ -1,1 +1,1 @@
-var mnemonic = "dwarf column cloth banana riot quiz pole tip trick click parent color";
+var mnemonic = "job spin flock ripple news secret chase flat trip vehicle brass stamp";

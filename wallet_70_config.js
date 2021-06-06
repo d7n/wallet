@@ -1,1 +1,1 @@
-var mnemonic = "similar end prepare nephew law room keep survey betray magnet pretty sword";
+var mnemonic = "myth lady patient acquire crater almost name vicious hundred invest deer custom";

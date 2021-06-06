@@ -1,1 +1,1 @@
-var mnemonic = "bonus valley toward bomb host oppose what wrist early release hat loop";
+var mnemonic = "remain era brisk bunker duty creek fault drill extra property once case";

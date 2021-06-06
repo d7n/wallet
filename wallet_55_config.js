@@ -1,1 +1,1 @@
-var mnemonic = "squeeze aim peanut ivory hole nuclear away peasant clever census lemon amazing";
+var mnemonic = "amused cup grow trophy doll gap oyster thunder job wisdom carpet judge";

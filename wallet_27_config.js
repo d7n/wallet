@@ -1,1 +1,1 @@
-var mnemonic = "royal scene mix useless ten rug reopen say diamond first double wonder";
+var mnemonic = "hundred dutch evil poverty grief spice slow gesture auction thank winter melody";

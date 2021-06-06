@@ -1,1 +1,1 @@
-var mnemonic = "nut frame file toward early accident tell pact purity glide disorder stone";
+var mnemonic = "candy bench solution onion turtle business garlic mercy almost boost eyebrow profit";

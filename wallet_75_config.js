@@ -1,1 +1,1 @@
-var mnemonic = "shoot lab rain material like timber initial hub annual embark busy shoulder";
+var mnemonic = "space know hidden hip float draft foam sure narrow become like field";

@@ -1,1 +1,1 @@
-var mnemonic = "near clay hat priority february coyote sea destroy genuine fantasy neutral catalog";
+var mnemonic = "afford addict order pave fence must gasp mesh involve hair mad holiday";

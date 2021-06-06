@@ -1,1 +1,1 @@
-var mnemonic = "key athlete loud weather slice first decade once syrup keep gospel doctor";
+var mnemonic = "reflect receive action young govern swim crouch clip permit castle mountain alarm";

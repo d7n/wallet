@@ -1,1 +1,1 @@
-var mnemonic = "police business slide host grace among moment brown next scatter trumpet blind";
+var mnemonic = "favorite toast shuffle feed junior room carpet embrace soap ignore pet install";

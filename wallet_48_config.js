@@ -1,1 +1,1 @@
-var mnemonic = "wrap answer number pizza noble whip armor gravity shed quiz check custom";
+var mnemonic = "panel wedding loyal sting wire scrap ask flash exile axis together buzz";

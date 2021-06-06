@@ -1,1 +1,1 @@
-var mnemonic = "magic board chuckle embark fluid apple predict danger today quick grow faculty";
+var mnemonic = "sea diet vacant crumble range roast borrow gadget window forward myself garlic";

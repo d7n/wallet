@@ -1,1 +1,1 @@
-var mnemonic = "twelve thank clarify mirror blind tube immense portion bottom hurt dress embody";
+var mnemonic = "tornado zebra sell doctor close stumble insect swear surface country release find";

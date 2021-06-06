@@ -1,1 +1,1 @@
-var mnemonic = "differ figure charge rival gun judge rack mask margin umbrella pulp coin";
+var mnemonic = "special tumble uniform burger wink fiction twice fury jelly rack noodle chapter";

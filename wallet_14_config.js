@@ -1,1 +1,1 @@
-var mnemonic = "cherry step cabin mountain fit double walnut noble until stem boat galaxy";
+var mnemonic = "huge monitor vibrant humble print inner test street click loan wood retire";

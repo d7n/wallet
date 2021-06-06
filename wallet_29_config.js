@@ -1,1 +1,1 @@
-var mnemonic = "exercise lens resource hello lava glove robot remember push angry rubber tower";
+var mnemonic = "ball era tooth brain orphan purchase fluid fatigue fit saddle lion result";

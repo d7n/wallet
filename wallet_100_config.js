@@ -1,1 +1,1 @@
-var mnemonic = "furnace bean vibrant empower spawn side add that churn glide lady clerk";
+var mnemonic = "cancel enforce badge coil equip rate canal search ensure ostrich scale elder";

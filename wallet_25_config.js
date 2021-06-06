@@ -1,1 +1,1 @@
-var mnemonic = "flavor old sort boring kitten method mistake best seminar era dragon evil";
+var mnemonic = "carbon female jewel autumn shock spider master hello predict omit derive order";

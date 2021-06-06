@@ -1,1 +1,1 @@
-var mnemonic = "property dance real reopen brief blush retire receive rigid wide dice voyage";
+var mnemonic = "smooth canal cream segment amount net sound screen output real smoke abstract";

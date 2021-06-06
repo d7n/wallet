@@ -1,1 +1,1 @@
-var mnemonic = "beyond artefact invest grief same toast country grace broccoli sail afford inside";
+var mnemonic = "setup fee garment void spawn uniform profit quiz utility bind answer bargain";

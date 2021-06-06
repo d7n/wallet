@@ -1,1 +1,1 @@
-var mnemonic = "problem black raccoon smoke also thrive dolphin only oval receive grab vivid";
+var mnemonic = "foster raccoon slice fabric enough awake trust curtain crime witness chair behind";

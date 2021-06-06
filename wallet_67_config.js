@@ -1,1 +1,1 @@
-var mnemonic = "cupboard actress erase pact goose pill foot purchase differ hurry barrel segment";
+var mnemonic = "grocery pudding steak soccer daring punch rate gather client galaxy nephew echo";

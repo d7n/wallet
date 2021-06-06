@@ -1,1 +1,1 @@
-var mnemonic = "broccoli genuine setup arm upset congress outdoor ladder future load bird dynamic";
+var mnemonic = "project increase smile ramp universe various mansion receive crazy choice panther unlock";

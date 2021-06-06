@@ -1,1 +1,1 @@
-var mnemonic = "acquire spin viable obtain debris knee ignore zoo creek catch improve galaxy";
+var mnemonic = "receive lava play bread panda minute analyst poem stone exhibit wagon tail";

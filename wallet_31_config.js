@@ -1,1 +1,1 @@
-var mnemonic = "admit speed long page split outer present angry differ chef live business";
+var mnemonic = "ethics drastic offer fetch finger pitch change rain museum hockey web joy";

@@ -1,1 +1,1 @@
-var mnemonic = "rather around settle divorce card pond defense fever since combine umbrella return";
+var mnemonic = "system dust loud upset obey alley job spin truth toy ghost update";

@@ -1,1 +1,1 @@
-var mnemonic = "decide again educate grab below daughter whisper whale body goat double whip";
+var mnemonic = "fancy decrease sail task spoon fog brand pink category stomach panel phrase";

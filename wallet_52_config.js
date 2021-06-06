@@ -1,1 +1,1 @@
-var mnemonic = "high output copper obtain area unlock artist hungry affair sweet robot fancy";
+var mnemonic = "smile scare reveal voyage size bundle inner spring artefact desk economy pottery";

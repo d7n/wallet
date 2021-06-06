@@ -1,1 +1,1 @@
-var mnemonic = "girl rail culture ghost rate jaguar slow zone primary surface spawn rent";
+var mnemonic = "oak seminar foam diary piece model check skull dog bulk cradle wise";

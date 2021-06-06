@@ -1,1 +1,1 @@
-var mnemonic = "anxiety absurd slab canyon again saddle treat example news drama ginger olive";
+var mnemonic = "torch crane luggage spoil stool audit buyer match segment smile prize sample";

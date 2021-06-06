@@ -1,1 +1,1 @@
-var mnemonic = "major already depth grid material pear plug effort wine ankle lamp proof";
+var mnemonic = "domain payment service list front daring fiction crawl cat recycle pencil connect";

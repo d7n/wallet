@@ -1,1 +1,1 @@
-var mnemonic = "exclude horror beef then boost eager undo fee extend spell desert battle";
+var mnemonic = "live later online bronze observe damage suspect slab stage industry promote ribbon";

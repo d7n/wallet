@@ -1,1 +1,1 @@
-var mnemonic = "century pulse train wash pigeon accident maximum blame body annual rescue maze";
+var mnemonic = "village patient roast romance major narrow eternal fall outdoor fish giant trick";

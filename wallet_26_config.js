@@ -1,1 +1,1 @@
-var mnemonic = "hour boy method jungle owner retreat lobster jealous tobacco raw nut sword";
+var mnemonic = "belt comic clog spin gentle grace lady inside clerk empty walk motion";

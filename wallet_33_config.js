@@ -1,1 +1,1 @@
-var mnemonic = "vivid obscure light this pretty fresh ability else radio despair must sponsor";
+var mnemonic = "leave spread prize else express loyal smart napkin vibrant among apology price";

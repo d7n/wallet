@@ -1,1 +1,1 @@
-var mnemonic = "inside inherit envelope orphan soldier kingdom nuclear hope parrot same code bulb";
+var mnemonic = "copper favorite adapt elephant sentence list snap book west shoot vague income";

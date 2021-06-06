@@ -1,1 +1,1 @@
-var mnemonic = "kiss social gate any custom unfair off retire horror illness famous erase";
+var mnemonic = "claim exclude seek vast know state design gift better blur kind spread";

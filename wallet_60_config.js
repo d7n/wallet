@@ -1,1 +1,1 @@
-var mnemonic = "salute desk skirt own wrap beef between desert turn insane plastic spoil";
+var mnemonic = "vast relief empower timber seek tornado cycle citizen truth gift husband cricket";

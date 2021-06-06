@@ -1,1 +1,1 @@
-var mnemonic = "donor cliff thank pool submit fault uphold season tired winner wish elephant";
+var mnemonic = "peanut embrace permit cabbage pledge famous civil garden comfort host movie december";

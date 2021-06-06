@@ -1,1 +1,1 @@
-var mnemonic = "sweet dove rural force forget exist pipe salad child ahead differ search";
+var mnemonic = "source athlete color second appear tilt shiver tourist subway degree advance distance";
