@@ -1,1 +1,1 @@
-var mnemonic = "liberty pattern hover dash devote sign assault farm peasant security bargain domain";
+var mnemonic = "crouch aware slide brisk rotate extra drop marine congress silk evil cycle";

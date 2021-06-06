@@ -1,1 +1,1 @@
-var mnemonic = "monster ship move exercise elite tongue casual toddler jump used waste lava";
+var mnemonic = "summer sister crystal derive shaft night enjoy require leave coyote office bring";

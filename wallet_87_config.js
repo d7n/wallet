@@ -1,1 +1,1 @@
-var mnemonic = "behave job ridge lift glance word rough they remember ripple license regret";
+var mnemonic = "boring dynamic tail silly side dignity across blur depend major behind inherit";

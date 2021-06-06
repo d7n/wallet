@@ -1,1 +1,1 @@
-var mnemonic = "flame city person town find blood put erode repair clever spare couch";
+var mnemonic = "initial legend gauge explain tomorrow hazard aspect welcome used crew fly hundred";

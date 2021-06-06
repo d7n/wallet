@@ -1,1 +1,1 @@
-var mnemonic = "update blouse path video journey will give nature clutch tooth foam next";
+var mnemonic = "south green broken anchor tackle screen matrix trial night convince jump crime";

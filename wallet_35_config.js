@@ -1,1 +1,1 @@
-var mnemonic = "vivid stove gather body wedding small scrap this vote exist keen cool";
+var mnemonic = "dolphin unusual apology neglect round skill veteran account transfer fence final derive";

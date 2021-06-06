@@ -1,1 +1,1 @@
-var mnemonic = "true giraffe olive hire sand prepare lobster allow bracket open image curtain";
+var mnemonic = "thumb picnic fancy car excite thing struggle divide kit flock call people";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange gift burden visa crack void plastic grief feature ancient trap agent";
+var mnemonic = "good soccer miracle vessel engage journey demand dinner asset worry shoot amused";

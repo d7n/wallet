@@ -1,1 +1,1 @@
-var mnemonic = "elite rail state ugly credit minute festival modify parent vessel organ coast";
+var mnemonic = "cycle someone fork frozen together present swallow attack property cook topic injury";

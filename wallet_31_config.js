@@ -1,1 +1,1 @@
-var mnemonic = "erosion effort benefit rural hat life gap slot shoulder match certain agent";
+var mnemonic = "remain pave promote upgrade gown boil first nasty foster wrap culture era";

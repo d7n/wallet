@@ -1,1 +1,1 @@
-var mnemonic = "trophy claim point original shadow icon warm alien emotion fun comic slush";
+var mnemonic = "capital science broccoli dress rain estate siege group monkey thank achieve master";

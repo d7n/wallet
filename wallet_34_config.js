@@ -1,1 +1,1 @@
-var mnemonic = "wise flavor photo empty exchange paper dune security cluster drum edit wolf";
+var mnemonic = "left common loan excess bright outside that cram trip maid limb tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb side pride small sorry extra quality exhaust fly circle correct lucky";
+var mnemonic = "woman coach physical butter nose rude diet duty lumber achieve harsh toe";

@@ -1,1 +1,1 @@
-var mnemonic = "drive little foster tomato soon example dash wash doll body fragile legend";
+var mnemonic = "aim royal weapon silly plunge buffalo subway hello walnut army panel stage";

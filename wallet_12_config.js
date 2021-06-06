@@ -1,1 +1,1 @@
-var mnemonic = "verb comfort slight couple defense own december replace monitor negative ripple impose";
+var mnemonic = "pride matrix thank patch relief install pepper level endless sleep guilt search";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard token session index shove tornado drive crack neglect model furnace vague";
+var mnemonic = "rookie genius scene innocent extend exile call meadow special primary tool skill";

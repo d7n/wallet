@@ -1,1 +1,1 @@
-var mnemonic = "wine seminar length stamp bitter twelve method gaze curious sausage merit cluster";
+var mnemonic = "meadow basic wrap toast ugly vintage sausage famous business time fragile head";

@@ -1,1 +1,1 @@
-var mnemonic = "labor doctor erosion build romance extend coconut battle alone mirror boring virus";
+var mnemonic = "away blast glimpse attract never boil muscle logic offer chunk soap zero";

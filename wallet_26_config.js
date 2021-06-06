@@ -1,1 +1,1 @@
-var mnemonic = "candy evil grocery brief arrive liquid salad crouch lazy obtain input current";
+var mnemonic = "armed record lobster jelly kiss limb fetch category exchange nurse churn border";

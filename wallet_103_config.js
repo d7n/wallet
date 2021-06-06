@@ -1,1 +1,1 @@
-var mnemonic = "object youth embrace reveal recipe program half chief mixed word industry rally";
+var mnemonic = "record rival start dash ketchup market reject pigeon message quarter story humble";

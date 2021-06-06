@@ -1,1 +1,1 @@
-var mnemonic = "soap spend baby spider must enroll slot leopard marble member ship fatal";
+var mnemonic = "flight maple habit scissors situate account express people remember indicate arrow veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard slogan wrong slim conduct blind wisdom east city horse fragile hungry";
+var mnemonic = "file physical delay one isolate cool accuse wreck know heart school quick";

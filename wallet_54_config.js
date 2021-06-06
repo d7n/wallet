@@ -1,1 +1,1 @@
-var mnemonic = "icon year express hint undo kiwi exist snack uncle estate host swarm";
+var mnemonic = "point marriage shuffle hammer monitor dove absent damage sadness install always alpha";

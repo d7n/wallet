@@ -1,1 +1,1 @@
-var mnemonic = "upon aware field list armor equal verb leopard second gesture stereo spend";
+var mnemonic = "boring upon float mother jacket seven until wide reopen beef faculty wine";

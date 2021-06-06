@@ -1,1 +1,1 @@
-var mnemonic = "chimney step mixture sweet tell predict unusual bar spike system chaos loyal";
+var mnemonic = "eight together kangaroo furnace fitness nature process deal dawn drastic inhale journey";

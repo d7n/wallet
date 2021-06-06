@@ -1,1 +1,1 @@
-var mnemonic = "attitude exhibit riot old stove force popular december crucial save core bounce";
+var mnemonic = "private save radio shrimp genius tent tourist gap february leisure meat receive";

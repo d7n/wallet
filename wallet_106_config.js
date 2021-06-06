@@ -1,1 +1,1 @@
-var mnemonic = "wrong hawk gallery forest success produce project spoon double north affair hammer";
+var mnemonic = "lock woman neither answer say tobacco target empower verify room joke choose";

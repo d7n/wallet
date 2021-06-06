@@ -1,1 +1,1 @@
-var mnemonic = "noodle truly flavor destroy people solve night proud fragile employ forget captain";
+var mnemonic = "talent want tourist stadium apology tag clever raccoon pyramid marriage vicious disease";

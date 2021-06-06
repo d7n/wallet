@@ -1,1 +1,1 @@
-var mnemonic = "board enforce whip poet resemble immune tomorrow current cage core nominee swallow";
+var mnemonic = "wedding cool beauty puppy obvious time swallow agent hip rival muffin renew";

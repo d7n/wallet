@@ -1,1 +1,1 @@
-var mnemonic = "aunt depart twelve test prevent hood cabin hip aerobic power young jazz";
+var mnemonic = "list pulp today dumb turtle kitchen spread butter mirror casino common tape";

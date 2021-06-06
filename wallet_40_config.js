@@ -1,1 +1,1 @@
-var mnemonic = "small senior observe obvious giant mesh evidence thunder chunk village way cover";
+var mnemonic = "catalog fitness time shaft sorry pride job easily file faint short define";

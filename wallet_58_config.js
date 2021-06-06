@@ -1,1 +1,1 @@
-var mnemonic = "pigeon flip entry citizen duty immense now gloom curious sister fancy fine";
+var mnemonic = "vital update coyote orchard art sun walk club easy volcano vocal around";

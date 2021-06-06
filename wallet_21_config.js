@@ -1,1 +1,1 @@
-var mnemonic = "check member clever brother shine auction erase february coyote rival ahead minor";
+var mnemonic = "stumble author define omit debate obvious dove upper caution prevent trumpet patch";

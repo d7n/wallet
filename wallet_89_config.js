@@ -1,1 +1,1 @@
-var mnemonic = "segment exit clean leave vocal cigar pumpkin satisfy walk clog gown produce";
+var mnemonic = "fabric dwarf motion achieve rabbit drama cable glove divert glue sweet suit";

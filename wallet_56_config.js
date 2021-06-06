@@ -1,1 +1,1 @@
-var mnemonic = "sausage pigeon help shed this object accuse paper deposit vibrant matter still";
+var mnemonic = "cotton famous vanish vivid like educate urge trade venue private glue jacket";

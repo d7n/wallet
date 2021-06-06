@@ -1,1 +1,1 @@
-var mnemonic = "increase pistol network today snack wool critic crash human warfare cream episode";
+var mnemonic = "opinion spy violin neither hood trust oak another cram sea enhance gold";

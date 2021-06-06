@@ -1,1 +1,1 @@
-var mnemonic = "session achieve image lift urban calm robot damage identify glad frequent pass";
+var mnemonic = "select giggle fog original avoid theory embark opera slide boil excite despair";

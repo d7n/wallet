@@ -1,1 +1,1 @@
-var mnemonic = "weather rent ship increase always another resource setup planet latin three feel";
+var mnemonic = "rotate split fan bind swarm cook allow good agent entry kid farm";

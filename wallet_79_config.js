@@ -1,1 +1,1 @@
-var mnemonic = "seek foil insect found entry employ potato monkey seek tackle mad include";
+var mnemonic = "goddess manage bird lens ecology dish ceiling problem cushion horse clap funny";

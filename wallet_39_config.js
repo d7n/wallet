@@ -1,1 +1,1 @@
-var mnemonic = "assault urge dirt dune avocado swear invite goddess provide scene horror isolate";
+var mnemonic = "boost box tonight model couple board wide stand thank dolphin endless artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "spot rhythm notable talk deposit uphold detail gate hint almost various magnet";
+var mnemonic = "rely nurse correct before monitor unique method assist author hair wheel forum";

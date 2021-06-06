@@ -1,1 +1,1 @@
-var mnemonic = "quality inhale cannon language absurd path book jump antique tell south draw";
+var mnemonic = "broom source garlic robust fossil setup brick autumn high stumble surge guide";

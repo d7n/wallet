@@ -1,1 +1,1 @@
-var mnemonic = "figure notice enforce rebel expand magic alley broccoli plug gap need outer";
+var mnemonic = "melody ring shoot author pond surge black disorder stage control decrease enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle exile crush chair myth slam october plunge book plastic wait welcome";
+var mnemonic = "total jacket sentence host reward own bridge dismiss direct tomato inquiry cluster";

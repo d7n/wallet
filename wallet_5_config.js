@@ -1,1 +1,1 @@
-var mnemonic = "image relief need gaze indicate cart energy elder total fortune material silly";
+var mnemonic = "grab walnut piece bamboo music file bamboo skill report gloom among above";

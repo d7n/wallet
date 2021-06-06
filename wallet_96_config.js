@@ -1,1 +1,1 @@
-var mnemonic = "arctic village achieve drift divert add minor town invest rate head slush";
+var mnemonic = "mean receive tent forum key hold couch juice page muscle scare improve";

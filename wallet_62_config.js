@@ -1,1 +1,1 @@
-var mnemonic = "uniform only protect stairs cabin relief write immune drink boring cook submit";
+var mnemonic = "foam marriage brave drum shiver injury echo easy little satisfy discover myth";

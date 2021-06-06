@@ -1,1 +1,1 @@
-var mnemonic = "wall oblige morning novel beauty keep chef ramp column special aspect destroy";
+var mnemonic = "furnace become tell merry stand curve bone vivid amount claw turn basic";

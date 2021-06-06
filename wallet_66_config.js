@@ -1,1 +1,1 @@
-var mnemonic = "twist humble strike six pony drink lift junk brand rhythm captain point";
+var mnemonic = "sweet law junk usage chapter lazy barely speed update earn nature odor";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat near jacket equip expire hint bid social cruel space diary grow";
+var mnemonic = "hope antique noodle term hammer blade trash family sea fork donor similar";

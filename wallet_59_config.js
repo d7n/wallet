@@ -1,1 +1,1 @@
-var mnemonic = "ghost vibrant unhappy gentle correct point will reason steel circle pupil lamp";
+var mnemonic = "pretty quick title beef horror scrap slight hollow foam vanish jelly match";

@@ -1,1 +1,1 @@
-var mnemonic = "width pudding dentist universe clerk tell pact tag outer rural wash rule";
+var mnemonic = "cabin service speak train recall leave citizen capable because barrel hidden manual";

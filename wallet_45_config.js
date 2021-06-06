@@ -1,1 +1,1 @@
-var mnemonic = "course fabric what enforce cactus corn armor sunny fashion explain rotate welcome";
+var mnemonic = "route young renew cash abuse crucial magnet hungry victory exit easy recycle";

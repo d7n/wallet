@@ -1,1 +1,1 @@
-var mnemonic = "caution border board issue away indoor crew wrist cart diesel dignity mind";
+var mnemonic = "truth mirror obey depart easy outer any stairs also hint arrest tobacco";

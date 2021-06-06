@@ -1,1 +1,1 @@
-var mnemonic = "opera cross recall virtual assist bachelor mirror control off hole huge multiply";
+var mnemonic = "skull ten churn car laugh tragic hen pill special prevent employ staff";

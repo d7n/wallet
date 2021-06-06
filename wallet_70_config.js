@@ -1,1 +1,1 @@
-var mnemonic = "dentist glare must blanket slim shoe core emerge rigid smart soccer anger";
+var mnemonic = "behave tip cream security busy silver primary detect economy sibling luxury page";

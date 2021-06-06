@@ -1,1 +1,1 @@
-var mnemonic = "dial outside enter empty pelican enforce grain develop impose entire skull lawsuit";
+var mnemonic = "sure promote tail sketch lazy liar kitchen clay nose blur garage patch";

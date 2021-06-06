@@ -1,1 +1,1 @@
-var mnemonic = "ozone army kit witness theme cherry cousin brisk diesel jeans park margin";
+var mnemonic = "talent follow ask shallow result canal hour item punch walnut west fluid";

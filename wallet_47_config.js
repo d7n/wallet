@@ -1,1 +1,1 @@
-var mnemonic = "table profit island define wise enlist timber embark liquid wheat town soccer";
+var mnemonic = "term usual appear marriage receive crater despair mesh cloth quote person dynamic";

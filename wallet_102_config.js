@@ -1,1 +1,1 @@
-var mnemonic = "keen assist jar response holiday gun congress vital hip invest screen decide";
+var mnemonic = "orange trumpet alien remind travel quiz smart bomb develop audit turn mirror";

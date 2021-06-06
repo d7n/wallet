@@ -1,1 +1,1 @@
-var mnemonic = "shield ice crash joy harbor unveil dismiss omit river vast sunset cute";
+var mnemonic = "broom material cinnamon soda gentle hip source cash shrimp once pair course";

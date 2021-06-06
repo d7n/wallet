@@ -1,1 +1,1 @@
-var mnemonic = "truth spot immune mutual tragic always morning quote until street valve vivid";
+var mnemonic = "dream virtual will group rescue nose frame student kind auction runway sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild pulp smart crucial melody novel gentle upgrade blossom since foam fetch";
+var mnemonic = "detail walk vintage sock ability rebuild behind save manage asthma roast ecology";

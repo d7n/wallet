@@ -1,1 +1,1 @@
-var mnemonic = "juice play stone pipe piece mouse dirt monitor lend need enough drive";
+var mnemonic = "grant whisper stereo endless away garment spoil very finish promote crunch flower";

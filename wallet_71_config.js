@@ -1,1 +1,1 @@
-var mnemonic = "valve fragile ring amused sponsor time diesel bronze hub poem such social";
+var mnemonic = "salute noodle long impact announce fabric medal solar fire blouse fruit hundred";

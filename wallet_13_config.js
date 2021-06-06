@@ -1,1 +1,1 @@
-var mnemonic = "unique enlist brother creek few ceiling shallow avoid flavor skin prison close";
+var mnemonic = "rate parent rate comic detail chimney sketch police rhythm carbon void accident";

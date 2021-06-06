@@ -1,1 +1,1 @@
-var mnemonic = "grocery riot urge ticket east produce either weird current home blood airport";
+var mnemonic = "thought before uncle aspect test expose olympic never ridge donor charge hammer";

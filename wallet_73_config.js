@@ -1,1 +1,1 @@
-var mnemonic = "cigar own tuition skin mask consider humble diesel found divorce slot gloom";
+var mnemonic = "roast exchange close brush elder squirrel soccer february crucial priority sock sweet";

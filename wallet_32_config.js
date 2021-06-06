@@ -1,1 +1,1 @@
-var mnemonic = "chicken oxygen tissue flash settle whip unique predict just banana universe switch";
+var mnemonic = "broom wash hint wild dumb chair double morning real river seat enough";

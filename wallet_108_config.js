@@ -1,1 +1,1 @@
-var mnemonic = "deposit armed point excuse sustain skill oak salmon debate dad fat cruel";
+var mnemonic = "rookie slide cement team onion labor glass slab pottery phrase praise front";

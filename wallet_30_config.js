@@ -1,1 +1,1 @@
-var mnemonic = "march allow square make ask price bind device body way distance venture";
+var mnemonic = "luggage fortune power able local output height net foster simple tail awake";

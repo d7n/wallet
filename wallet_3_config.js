@@ -1,1 +1,1 @@
-var mnemonic = "rely toddler task favorite alarm salmon find catch ball venture solution discover";
+var mnemonic = "aspect wreck ecology food peanut present actor toss then prefer horn pledge";

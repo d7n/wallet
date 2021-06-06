@@ -1,1 +1,1 @@
-var mnemonic = "cabin dirt useful opinion flavor cave endorse citizen ten diagram logic rate";
+var mnemonic = "have dog enhance distance hockey hungry merge margin margin urge fault purity";

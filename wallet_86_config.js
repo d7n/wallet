@@ -1,1 +1,1 @@
-var mnemonic = "define already blind balcony kiss sponsor dutch blast example order journey twenty";
+var mnemonic = "lift miss nasty pizza trumpet nation home despair enough puppy occur cup";

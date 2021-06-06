@@ -1,1 +1,1 @@
-var mnemonic = "pause carry sudden water noodle leg buyer blame can aware globe wreck";
+var mnemonic = "candy trend weekend harvest matter escape scan success method lab salt cattle";

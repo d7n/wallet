@@ -1,1 +1,1 @@
-var mnemonic = "area glow latin maid victory obvious topple month climb history whale dove";
+var mnemonic = "song smoke around shrimp river extend just cliff priority embark calm pig";

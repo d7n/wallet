@@ -1,1 +1,1 @@
-var mnemonic = "glory thing claim rhythm matter hub crop quantum blush path night pretty";
+var mnemonic = "later tongue top sorry fit arctic rotate dune best autumn retire tomato";

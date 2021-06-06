@@ -1,1 +1,1 @@
-var mnemonic = "lock cradle mother buyer sunny suspect lounge woman empower toilet crouch about";
+var mnemonic = "token enable someone drum assist club firm theory poet need vapor wait";

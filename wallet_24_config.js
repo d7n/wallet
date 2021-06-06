@@ -1,1 +1,1 @@
-var mnemonic = "cloud sauce jealous small pupil gossip amazing program chuckle infant cram stool";
+var mnemonic = "general guard heart since crowd plate nest surround senior differ return act";

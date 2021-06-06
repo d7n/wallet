@@ -1,1 +1,1 @@
-var mnemonic = "result hospital hurry jewel ceiling sphere search relax receive file field omit";
+var mnemonic = "peasant all brush net patrol glimpse wide hawk gallery inch beach supreme";

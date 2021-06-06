@@ -1,1 +1,1 @@
-var mnemonic = "junk virus mesh tower ignore festival inflict lizard ready mechanic predict term";
+var mnemonic = "empty melody pear oyster cabin fuel buffalo pool brush reason cloud clump";

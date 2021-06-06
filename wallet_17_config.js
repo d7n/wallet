@@ -1,1 +1,1 @@
-var mnemonic = "harbor orphan fog address open miracle mirror glare seek armed they message";
+var mnemonic = "camp track cabbage search mechanic web injury pottery rail option olympic capable";

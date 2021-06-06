@@ -1,1 +1,1 @@
-var mnemonic = "edit tree fancy manual margin tide jelly tunnel trade derive relax guard";
+var mnemonic = "ugly theme material relief paper pool coach raise fluid behind slogan danger";

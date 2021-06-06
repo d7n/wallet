@@ -1,1 +1,1 @@
-var mnemonic = "wonder hurt journey potato taxi cheese sphere pistol glass rude unfair company";
+var mnemonic = "fancy exile host vapor blood ghost bright meat bullet spike apart paper";

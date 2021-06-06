@@ -1,1 +1,1 @@
-var mnemonic = "coast snow toast silly aerobic until tennis wave stereo wheat power invest";
+var mnemonic = "tree empty dance fabric taxi demise lucky suspect mansion attract hire animal";

@@ -1,1 +1,1 @@
-var mnemonic = "episode coast stool throw island bullet friend bicycle trap castle elevator habit";
+var mnemonic = "select steak same supply caution pear lawsuit another capable burden delay pair";

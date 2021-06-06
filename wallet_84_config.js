@@ -1,1 +1,1 @@
-var mnemonic = "extend syrup man fee lamp gold harvest monitor occur food elephant winner";
+var mnemonic = "hand inflict movie usual ancient total asthma apple tube invest census yard";

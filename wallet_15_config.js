@@ -1,1 +1,1 @@
-var mnemonic = "proof adapt title hockey dish profit crater gym build ability genuine try";
+var mnemonic = "vital mammal clever idle moment dwarf reunion plunge gun physical ice anger";

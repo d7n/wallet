@@ -1,1 +1,1 @@
-var mnemonic = "joy inquiry negative link monster normal yard answer impact labor sell honey";
+var mnemonic = "inch cruel barely picture trigger length genius permit hire midnight story recycle";

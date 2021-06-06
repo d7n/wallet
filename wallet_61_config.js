@@ -1,1 +1,1 @@
-var mnemonic = "grief motion trigger helmet weekend current hat corn tenant hat garbage manage";
+var mnemonic = "eye replace duty hub cable rail load bacon cargo grant ball body";

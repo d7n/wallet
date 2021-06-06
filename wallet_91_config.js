@@ -1,1 +1,1 @@
-var mnemonic = "stem roast depart stairs enter talent knife prefer predict drama ghost wave";
+var mnemonic = "lawsuit neither upper design trigger diet stay erosion journey unfair sort afraid";
