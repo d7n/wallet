@@ -1,1 +1,1 @@
-var mnemonic = "ethics drastic offer fetch finger pitch change rain museum hockey web joy";
+var mnemonic = "toss network old warfare idea second uncle picture gap tooth alpha kit";

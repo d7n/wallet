@@ -1,1 +1,1 @@
-var mnemonic = "puzzle sail wrist market asset stable will table wife success wool leader";
+var mnemonic = "october foster kiwi impulse super spray fan visit depth damage barely barrel";

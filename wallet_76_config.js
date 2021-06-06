@@ -1,1 +1,1 @@
-var mnemonic = "cool program near awesome ritual blanket large mammal embark degree load fancy";
+var mnemonic = "lyrics cannon catch risk lend toddler noise adapt harbor display gold job";

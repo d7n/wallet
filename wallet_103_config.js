@@ -1,1 +1,1 @@
-var mnemonic = "soft tonight bronze saddle decrease antique moon mad candy vote pause make";
+var mnemonic = "scorpion mimic pledge fragile item trial crazy rare apart boost rival lyrics";

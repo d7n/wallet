@@ -1,1 +1,1 @@
-var mnemonic = "wage retreat budget quality wait spoon retreat elegant wreck credit cost hover";
+var mnemonic = "grunt tissue audit author magic warrior file song interest poem print south";

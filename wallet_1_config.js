@@ -1,1 +1,1 @@
-var mnemonic = "tongue bicycle square betray small clutch night cannon question fit magic fashion";
+var mnemonic = "bargain maid business leg world promote culture market much mention another order";

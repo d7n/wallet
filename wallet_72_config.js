@@ -1,1 +1,1 @@
-var mnemonic = "cheap split punch develop sport tent forget canal valley heavy admit cotton";
+var mnemonic = "weapon hen mail vicious remain wife armed high found scrub jealous engine";

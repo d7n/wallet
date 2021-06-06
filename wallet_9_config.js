@@ -1,1 +1,1 @@
-var mnemonic = "oak seminar foam diary piece model check skull dog bulk cradle wise";
+var mnemonic = "old fetch ring mirror agent quantum enforce garage prefer spare negative pistol";

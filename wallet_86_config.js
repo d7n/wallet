@@ -1,1 +1,1 @@
-var mnemonic = "among cram exist exist vessel dice hedgehog business orange liberty fog issue";
+var mnemonic = "raccoon danger fancy one word panther blossom fatigue buddy smoke hill water";

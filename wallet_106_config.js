@@ -1,1 +1,1 @@
-var mnemonic = "rival sock man oxygen course cricket diet lottery tiny eager spatial enjoy";
+var mnemonic = "memory tool february bike reopen raise genre tower sheriff athlete item dentist";

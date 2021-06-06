@@ -1,1 +1,1 @@
-var mnemonic = "vanish soon artwork kangaroo grace surprise inform measure peasant original minute another";
+var mnemonic = "cave police insane lazy combine pizza region betray valley hole fan foster";

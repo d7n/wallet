@@ -1,1 +1,1 @@
-var mnemonic = "once return tape shoe journey panda inch super dose leader album doll";
+var mnemonic = "noise child jacket acoustic rebel dream render task vessel host educate gadget";

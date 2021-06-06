@@ -1,1 +1,1 @@
-var mnemonic = "special tumble uniform burger wink fiction twice fury jelly rack noodle chapter";
+var mnemonic = "sketch ocean violin gravity poverty hurt service yellow imitate display flame enemy";

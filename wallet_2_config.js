@@ -1,1 +1,1 @@
-var mnemonic = "foster raccoon slice fabric enough awake trust curtain crime witness chair behind";
+var mnemonic = "grass witness possible sting pipe lazy coach fog cluster leave cup soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "copper favorite adapt elephant sentence list snap book west shoot vague income";
+var mnemonic = "outdoor congress utility exhibit tonight peanut kite rocket corn beauty twice stand";

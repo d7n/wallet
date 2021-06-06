@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog jungle sorry movie name hope surround amused coil toss spawn milk";
+var mnemonic = "today gain antique hard monkey gather orange grunt tuna item cigar fatal";

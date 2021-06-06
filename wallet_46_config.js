@@ -1,1 +1,1 @@
-var mnemonic = "claim exclude seek vast know state design gift better blur kind spread";
+var mnemonic = "female canyon acoustic donkey potato anger wrong camera insect blur dawn image";

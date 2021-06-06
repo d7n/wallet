@@ -1,1 +1,1 @@
-var mnemonic = "merit delay nuclear clarify eye wall bomb follow quick hazard hint motion";
+var mnemonic = "infant weekend later ride potato cream brush pride teach donate elite owner";

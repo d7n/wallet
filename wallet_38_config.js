@@ -1,1 +1,1 @@
-var mnemonic = "fiction ordinary erode wire home turkey pistol gloom double sign tent write";
+var mnemonic = "beyond month afraid shock comic neck width blanket order mask carry craft";

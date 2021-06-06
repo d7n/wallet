@@ -1,1 +1,1 @@
-var mnemonic = "silk object gasp shrug holiday arrive tiny rate man music nation genuine";
+var mnemonic = "sight pair recipe hand fog mom team famous sock trial jacket float";

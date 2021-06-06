@@ -1,1 +1,1 @@
-var mnemonic = "coin soul famous corn wisdom goat cream same square track like cable";
+var mnemonic = "mandate blue better cake trade inherit tornado predict cart grit metal lend";

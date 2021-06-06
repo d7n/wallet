@@ -1,1 +1,1 @@
-var mnemonic = "hundred dutch evil poverty grief spice slow gesture auction thank winter melody";
+var mnemonic = "sibling addict design vendor more youth select virus purpose camp erosion artwork";

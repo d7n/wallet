@@ -1,1 +1,1 @@
-var mnemonic = "tunnel someone demand foster volcano planet text index anger prepare finger clip";
+var mnemonic = "frozen much trash mixture laundry concert knock ill snack earth group lumber";

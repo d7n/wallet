@@ -1,1 +1,1 @@
-var mnemonic = "average wild basket edge mobile witness orient twenty ship door picture private";
+var mnemonic = "razor steak luxury card split stove involve need paddle into raccoon deputy";

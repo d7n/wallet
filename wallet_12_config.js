@@ -1,1 +1,1 @@
-var mnemonic = "afford addict order pave fence must gasp mesh involve hair mad holiday";
+var mnemonic = "useless oxygen broken slight science eternal crowd bubble lunch foil figure aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket grow network gadget attitude gentle sell arrange distance verb law sibling";
+var mnemonic = "trouble asset cousin sword slow opera fragile stage arm priority royal zebra";

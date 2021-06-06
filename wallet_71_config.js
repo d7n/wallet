@@ -1,1 +1,1 @@
-var mnemonic = "axis thank soup repair name reject hard inmate deliver begin visit spray";
+var mnemonic = "music seminar yellow wife twenty animal armed advice silent grab smile swear";

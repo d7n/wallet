@@ -1,1 +1,1 @@
-var mnemonic = "inspire disagree banana claim height whip follow brown youth canvas style hair";
+var mnemonic = "pelican banner sphere dinosaur filter island defense useless flavor health like injury";

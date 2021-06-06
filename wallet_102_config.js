@@ -1,1 +1,1 @@
-var mnemonic = "arm situate fatigue test pond clog butter discover army dawn typical quiz";
+var mnemonic = "scene admit gossip forward digital pencil reopen also modify evolve horn buddy";

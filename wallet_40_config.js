@@ -1,1 +1,1 @@
-var mnemonic = "brain cage loop raw wide apart balance indoor almost uniform canyon twenty";
+var mnemonic = "account tobacco day wing dust loop pave narrow gorilla weapon flush scout";

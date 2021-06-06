@@ -1,1 +1,1 @@
-var mnemonic = "space know hidden hip float draft foam sure narrow become like field";
+var mnemonic = "traffic mix cycle sample bomb recycle shaft west elevator flee music tomorrow";

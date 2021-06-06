@@ -1,1 +1,1 @@
-var mnemonic = "live later online bronze observe damage suspect slab stage industry promote ribbon";
+var mnemonic = "razor jump match oxygen chicken edge funny area sound museum screen nothing";

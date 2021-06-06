@@ -1,1 +1,1 @@
-var mnemonic = "receive lava play bread panda minute analyst poem stone exhibit wagon tail";
+var mnemonic = "gadget viable clip rocket fat credit risk dice trust monitor poem ivory";

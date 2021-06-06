@@ -1,1 +1,1 @@
-var mnemonic = "pool sound holiday better grass supply cry dice outside cram clap slender";
+var mnemonic = "ozone witness cliff same sound injury march rhythm tragic mansion blossom pioneer";

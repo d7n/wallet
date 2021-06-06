@@ -1,1 +1,1 @@
-var mnemonic = "choose conduct trend cycle sleep access acquire negative chicken consider behind hub";
+var mnemonic = "often dog miss head bamboo usual world joy chronic favorite disagree number";

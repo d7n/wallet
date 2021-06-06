@@ -1,1 +1,1 @@
-var mnemonic = "carbon female jewel autumn shock spider master hello predict omit derive order";
+var mnemonic = "hard trumpet diary purchase reject oil soap chalk sentence problem gravity loan";

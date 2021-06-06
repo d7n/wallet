@@ -1,1 +1,1 @@
-var mnemonic = "reflect receive action young govern swim crouch clip permit castle mountain alarm";
+var mnemonic = "advice fuel syrup inflict youth suit fever online wrap debate rural shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "smile scare reveal voyage size bundle inner spring artefact desk economy pottery";
+var mnemonic = "law twenty margin twelve marine invest town romance drastic duck fit road";

@@ -1,1 +1,1 @@
-var mnemonic = "source athlete color second appear tilt shiver tourist subway degree advance distance";
+var mnemonic = "claw round trip announce whale movie actor mixed okay bulk nerve there";

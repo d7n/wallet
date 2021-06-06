@@ -1,1 +1,1 @@
-var mnemonic = "inmate faculty timber body pear destroy spin other afford quality devote trophy";
+var mnemonic = "stem tomato space style must seed system engage paddle viable tail pledge";

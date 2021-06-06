@@ -1,1 +1,1 @@
-var mnemonic = "kit pledge axis trust lemon wild where slam together cement style approve";
+var mnemonic = "hybrid direct detail beef march chase sample various pulp type fire leopard";

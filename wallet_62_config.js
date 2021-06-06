@@ -1,1 +1,1 @@
-var mnemonic = "fitness vague drip arctic decrease century sort cotton coyote merry kiss hand";
+var mnemonic = "prevent addict area then output summer cousin harvest tortoise catalog satisfy author";

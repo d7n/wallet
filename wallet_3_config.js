@@ -1,1 +1,1 @@
-var mnemonic = "dynamic nation genius coconut boy nominee scene debate crush cattle tent poet";
+var mnemonic = "music error crime talent source pride concert torch soldier crawl biology fun";

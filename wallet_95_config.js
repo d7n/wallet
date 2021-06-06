@@ -1,1 +1,1 @@
-var mnemonic = "transfer worth filter pear route moon now family faculty legend chimney diet";
+var mnemonic = "prosper door gauge obscure enable express catch teach siren spoil eternal history";

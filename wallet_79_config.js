@@ -1,1 +1,1 @@
-var mnemonic = "quality remind lock marble wrap bus soft surge sphere leaf bread property";
+var mnemonic = "obvious garage gold point reveal soft ride measure inflict toss globe brother";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth canal cream segment amount net sound screen output real smoke abstract";
+var mnemonic = "ecology vessel oxygen spider left normal kidney wild slow swim upset size";

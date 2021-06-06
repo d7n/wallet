@@ -1,1 +1,1 @@
-var mnemonic = "actress winner old output inflict loud crunch play lyrics nominee exercise energy";
+var mnemonic = "snack reward unknown open woman step twenty dizzy buyer bless erode among";

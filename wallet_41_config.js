@@ -1,1 +1,1 @@
-var mnemonic = "retreat box silly alarm chef egg produce expose rice dumb lunar feed";
+var mnemonic = "eight chief believe picnic because wheel super dawn effort media orbit pink";

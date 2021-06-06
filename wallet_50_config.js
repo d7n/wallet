@@ -1,1 +1,1 @@
-var mnemonic = "invest head cycle response void amazing law image giant way attack host";
+var mnemonic = "curve ketchup deputy fee exact business friend diesel habit hair crush enhance";

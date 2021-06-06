@@ -1,1 +1,1 @@
-var mnemonic = "bargain bird journey claim miss pilot worth march library final skirt afford";
+var mnemonic = "trophy alarm sketch avoid staff wall add alert can genre escape cement";

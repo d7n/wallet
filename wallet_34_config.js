@@ -1,1 +1,1 @@
-var mnemonic = "item blanket hair maze share afford forest nothing mail stick mystery spice";
+var mnemonic = "sword napkin dawn major club right blouse width tissue frame spoon fruit";

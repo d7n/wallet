@@ -1,1 +1,1 @@
-var mnemonic = "buzz derive zebra raise essence table stock way divide shine video acoustic";
+var mnemonic = "script onion copper pepper dry sing goose old water direct blouse erase";

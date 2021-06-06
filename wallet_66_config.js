@@ -1,1 +1,1 @@
-var mnemonic = "usual safe vital window flush deputy ensure broccoli spray win rose trigger";
+var mnemonic = "chaos update cheap alarm frame lava prefer drift able orange sea puzzle";

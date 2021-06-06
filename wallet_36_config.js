@@ -1,1 +1,1 @@
-var mnemonic = "distance twelve problem gloom iron maze aware direct video prevent hair fence";
+var mnemonic = "retreat describe valid gossip earn foil topple science fuel kangaroo evoke submit";

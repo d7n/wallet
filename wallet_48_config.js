@@ -1,1 +1,1 @@
-var mnemonic = "panel wedding loyal sting wire scrap ask flash exile axis together buzz";
+var mnemonic = "good remove pudding brick fantasy inhale capable trust swear indicate admit island";

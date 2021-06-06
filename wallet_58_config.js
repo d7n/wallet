@@ -1,1 +1,1 @@
-var mnemonic = "wet coil notice sea echo mad dance merge great bargain judge squeeze";
+var mnemonic = "submit verify goddess chronic jeans depth jeans version leg shaft shallow luggage";

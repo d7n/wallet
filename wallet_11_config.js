@@ -1,1 +1,1 @@
-var mnemonic = "pet tone banner crawl injury quarter police bulb cereal erupt tornado flat";
+var mnemonic = "license release involve asset poem radio effort observe plastic crush head rural";

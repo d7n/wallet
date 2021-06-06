@@ -1,1 +1,1 @@
-var mnemonic = "fancy decrease sail task spoon fog brand pink category stomach panel phrase";
+var mnemonic = "dove type hotel nothing rhythm match hello swap dress wave transfer snap";

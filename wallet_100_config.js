@@ -1,1 +1,1 @@
-var mnemonic = "cancel enforce badge coil equip rate canal search ensure ostrich scale elder";
+var mnemonic = "arrange wet sound staff pretty change circle van mind heart oxygen peace";

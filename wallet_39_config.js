@@ -1,1 +1,1 @@
-var mnemonic = "favorite toast shuffle feed junior room carpet embrace soap ignore pet install";
+var mnemonic = "rotate addict foot radar brave drop abstract enjoy despair rich alley use";

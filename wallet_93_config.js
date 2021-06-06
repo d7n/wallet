@@ -1,1 +1,1 @@
-var mnemonic = "dish scare mushroom opera elegant enact oval tell monitor achieve spend orbit";
+var mnemonic = "praise network market tomorrow receive hurt increase gold hard rib opera way";

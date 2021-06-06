@@ -1,1 +1,1 @@
-var mnemonic = "key top safe spice catalog phone image ten puzzle beyond diesel gown";
+var mnemonic = "light success champion pull between visit water junior mirror mother spray soccer";

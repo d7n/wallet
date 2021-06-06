@@ -1,1 +1,1 @@
-var mnemonic = "common grass once foot cross chase casual leave tone tooth half farm";
+var mnemonic = "infant rose casino need trip arch always case ten piece vivid razor";

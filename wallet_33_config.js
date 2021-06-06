@@ -1,1 +1,1 @@
-var mnemonic = "leave spread prize else express loyal smart napkin vibrant among apology price";
+var mnemonic = "fix blossom desk shallow athlete conduct family term dolphin junk buffalo vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich segment own observe illness hockey antenna fortune furnace giant switch icon";
+var mnemonic = "model breeze ketchup town vapor drill cry ride approve lecture december sort";

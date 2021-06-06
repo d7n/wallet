@@ -1,1 +1,1 @@
-var mnemonic = "eye goat client disease meat achieve burger indoor drill various april eyebrow";
+var mnemonic = "cable arrive dash elbow little crash fat piece paper silver earth vivid";

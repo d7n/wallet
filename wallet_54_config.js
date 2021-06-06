@@ -1,1 +1,1 @@
-var mnemonic = "mail miracle actress scene clinic nose sphere ribbon saddle choice false raise";
+var mnemonic = "impact skull wise pool pigeon melody fever drama give siren toddler visit";

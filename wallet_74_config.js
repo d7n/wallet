@@ -1,1 +1,1 @@
-var mnemonic = "element tiny brain uniform slot blanket search another master bottom develop seven";
+var mnemonic = "stool deny roast south frown tongue fade pen convince box sting maximum";

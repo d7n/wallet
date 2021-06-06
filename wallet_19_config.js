@@ -1,1 +1,1 @@
-var mnemonic = "afford section vintage nation stomach deposit float jacket tuna video pepper question";
+var mnemonic = "silly sunset basket enforce casino poverty diagram coral illness swing join lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "obey scale chunk athlete silly trust velvet volume rich believe regret clog";
+var mnemonic = "describe umbrella gas mansion wheel aerobic reopen wise move favorite plate assist";

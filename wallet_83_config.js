@@ -1,1 +1,1 @@
-var mnemonic = "setup fee garment void spawn uniform profit quiz utility bind answer bargain";
+var mnemonic = "junior rich game session place belt obvious inside seminar retire powder hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "project increase smile ramp universe various mansion receive crazy choice panther unlock";
+var mnemonic = "scheme check coconut anchor ranch animal elegant magic only concert various pluck";

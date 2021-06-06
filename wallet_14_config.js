@@ -1,1 +1,1 @@
-var mnemonic = "huge monitor vibrant humble print inner test street click loan wood retire";
+var mnemonic = "report west lab ripple kangaroo slender armor cake funny whisper drama cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "myth lady patient acquire crater almost name vicious hundred invest deer custom";
+var mnemonic = "envelope assist ribbon pink jealous siren check feature junk primary pair eyebrow";

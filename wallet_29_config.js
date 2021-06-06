@@ -1,1 +1,1 @@
-var mnemonic = "ball era tooth brain orphan purchase fluid fatigue fit saddle lion result";
+var mnemonic = "top dune bargain address ceiling crime throw pear belt sight verb mesh";

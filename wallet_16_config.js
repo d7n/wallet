@@ -1,1 +1,1 @@
-var mnemonic = "faith cream bulk safe submit ramp enable jelly couple notice basic expect";
+var mnemonic = "ask field gun history silly person trigger toilet laundry boy coffee casual";

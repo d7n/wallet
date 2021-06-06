@@ -1,1 +1,1 @@
-var mnemonic = "mercy twenty evoke debris adjust angle harvest confirm wealth knee script bundle";
+var mnemonic = "jeans worry amused victory arch trigger minute nest address notice dune guard";

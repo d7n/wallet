@@ -1,1 +1,1 @@
-var mnemonic = "torch crane luggage spoil stool audit buyer match segment smile prize sample";
+var mnemonic = "region tomorrow oppose element material suggest spawn isolate twin what unable flip";

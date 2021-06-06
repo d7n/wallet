@@ -1,1 +1,1 @@
-var mnemonic = "brass sound engine uncle lawsuit two fringe close coach student monitor enough";
+var mnemonic = "wrong meadow shoe conduct explain option load spread female awful upon rug";

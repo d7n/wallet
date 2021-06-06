@@ -1,1 +1,1 @@
-var mnemonic = "identify ten forum victory club match system odor couch version recycle poet";
+var mnemonic = "deny syrup famous receive major fitness because oven nice receive ribbon drama";

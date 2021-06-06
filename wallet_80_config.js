@@ -1,1 +1,1 @@
-var mnemonic = "airport divide enable ten similar planet shock weird cancel punch vacuum plate";
+var mnemonic = "holiday control great kid attitude iron curious planet play author number credit";

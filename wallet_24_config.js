@@ -1,1 +1,1 @@
-var mnemonic = "candy bench solution onion turtle business garlic mercy almost boost eyebrow profit";
+var mnemonic = "menu attitude news side moral hand search milk buzz tennis lava balance";

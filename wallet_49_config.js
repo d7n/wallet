@@ -1,1 +1,1 @@
-var mnemonic = "amateur web pottery jar man wood assault neck include attend super hazard";
+var mnemonic = "fiber truly attend whip plastic champion seat misery moral mango balcony corn";

@@ -1,1 +1,1 @@
-var mnemonic = "belt comic clog spin gentle grace lady inside clerk empty walk motion";
+var mnemonic = "spin behave clinic faint leader soup benefit crucial feature spatial cheap obtain";

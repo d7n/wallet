@@ -1,1 +1,1 @@
-var mnemonic = "awkward hover slim ensure shoot behind strategy page almost extra shrug peanut";
+var mnemonic = "pupil elephant puppy guess price flash voyage poem receive diary sweet maple";
