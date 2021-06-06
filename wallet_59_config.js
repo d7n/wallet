@@ -1,1 +1,1 @@
-var mnemonic = "sail cheese local jealous measure above enhance curtain fancy come rather furnace";
+var mnemonic = "blur snake tunnel ask faculty pair weapon price crawl nasty coral artwork";

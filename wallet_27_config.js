@@ -1,1 +1,1 @@
-var mnemonic = "inner cake vault exotic truck law wall join hip eternal blossom ladder";
+var mnemonic = "royal scene mix useless ten rug reopen say diamond first double wonder";

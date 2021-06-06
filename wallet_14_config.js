@@ -1,1 +1,1 @@
-var mnemonic = "rebel fiction device group utility early lock drift recipe cream dragon casual";
+var mnemonic = "cherry step cabin mountain fit double walnut noble until stem boat galaxy";

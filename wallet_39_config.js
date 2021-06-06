@@ -1,1 +1,1 @@
-var mnemonic = "sheriff episode sausage dad muscle edit enrich flavor report surround margin act";
+var mnemonic = "police business slide host grace among moment brown next scatter trumpet blind";

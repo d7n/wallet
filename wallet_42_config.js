@@ -1,1 +1,1 @@
-var mnemonic = "kid silly catalog atom diagram mask ready must stamp impulse resource onion";
+var mnemonic = "century pulse train wash pigeon accident maximum blame body annual rescue maze";

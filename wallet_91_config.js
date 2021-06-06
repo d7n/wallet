@@ -1,1 +1,1 @@
-var mnemonic = "quote bonus roast olympic mule install tobacco excuse frost brass detect slab";
+var mnemonic = "try equal flavor myth alter question midnight onion brief jungle fashion twice";

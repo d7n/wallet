@@ -1,1 +1,1 @@
-var mnemonic = "family lazy disease useless action clump into around cube art figure safe";
+var mnemonic = "loyal unit relax tank zone spy lava stereo emotion faculty man resource";

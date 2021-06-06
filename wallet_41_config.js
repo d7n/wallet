@@ -1,1 +1,1 @@
-var mnemonic = "swift car shell mail actual stamp nerve mad soap lawn there dad";
+var mnemonic = "eager boy pave left helmet drive twice original glance ethics spot burger";

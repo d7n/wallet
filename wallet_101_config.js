@@ -1,1 +1,1 @@
-var mnemonic = "carpet edge clap unhappy priority end dismiss broom route purpose check grab";
+var mnemonic = "major already depth grid material pear plug effort wine ankle lamp proof";

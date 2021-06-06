@@ -1,1 +1,1 @@
-var mnemonic = "dress enemy hospital carpet degree quarter naive neutral prison fiscal adjust dinosaur";
+var mnemonic = "kit pride abstract indoor word beef prevent balance fat social divorce piano";

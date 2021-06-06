@@ -1,1 +1,1 @@
-var mnemonic = "coconut reopen found auto retire lazy have rice term jungle fiber whale";
+var mnemonic = "kiss social gate any custom unfair off retire horror illness famous erase";

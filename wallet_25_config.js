@@ -1,1 +1,1 @@
-var mnemonic = "elbow egg upgrade husband universe orphan act shrug hockey work spike captain";
+var mnemonic = "flavor old sort boring kitten method mistake best seminar era dragon evil";

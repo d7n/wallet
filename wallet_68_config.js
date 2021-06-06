@@ -1,1 +1,1 @@
-var mnemonic = "hill depth pair twelve like tooth idle stock gaze vehicle amateur awful";
+var mnemonic = "property dance real reopen brief blush retire receive rigid wide dice voyage";

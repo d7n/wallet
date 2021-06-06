@@ -1,1 +1,1 @@
-var mnemonic = "prepare disease nasty client virus elite high ceiling chef humor express express";
+var mnemonic = "cupboard actress erase pact goose pill foot purchase differ hurry barrel segment";

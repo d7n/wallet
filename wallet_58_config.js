@@ -1,1 +1,1 @@
-var mnemonic = "cigar toss exact swallow useful bleak elegant resource spin month lonely into";
+var mnemonic = "female drift exhibit wagon public fix grow pulp vessel remind visual void";

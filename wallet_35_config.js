@@ -1,1 +1,1 @@
-var mnemonic = "ankle stem lumber mountain title olive arm estate salt release sunny regular";
+var mnemonic = "lemon oval skirt use suit useless crisp lens twist essay wire oxygen";

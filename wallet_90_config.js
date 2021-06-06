@@ -1,1 +1,1 @@
-var mnemonic = "duck badge alien rookie game rose brisk track force caution walk paper";
+var mnemonic = "exclude horror beef then boost eager undo fee extend spell desert battle";

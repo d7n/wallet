@@ -1,1 +1,1 @@
-var mnemonic = "glue stomach much age expect mom super virus snow badge evoke shove";
+var mnemonic = "share argue element release tornado item cook forum movie lens hint pyramid";

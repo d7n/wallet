@@ -1,1 +1,1 @@
-var mnemonic = "eager move chicken stay whip will session develop luxury beef feature edge";
+var mnemonic = "nut frame file toward early accident tell pact purity glide disorder stone";

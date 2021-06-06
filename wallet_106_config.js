@@ -1,1 +1,1 @@
-var mnemonic = "truth crowd rent cute seat trade chief open venture century attack large";
+var mnemonic = "mammal goose primary color assault bonus upper upset diet trip amount amount";

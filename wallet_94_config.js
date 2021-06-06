@@ -1,1 +1,1 @@
-var mnemonic = "music stock snap shuffle seat assist decide mansion priority memory parade grass";
+var mnemonic = "hawk that minimum address slam bright wrap glad across torch design this";

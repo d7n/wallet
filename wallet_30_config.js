@@ -1,1 +1,1 @@
-var mnemonic = "front they taxi unit virus stuff girl wise perfect horn barely urge";
+var mnemonic = "together believe receive work cloud buyer skate gorilla cream initial during winner";

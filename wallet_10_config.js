@@ -1,1 +1,1 @@
-var mnemonic = "ranch install target once worth anchor worry west crucial rescue trade sponsor";
+var mnemonic = "anxiety absurd slab canyon again saddle treat example news drama ginger olive";

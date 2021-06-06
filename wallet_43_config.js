@@ -1,1 +1,1 @@
-var mnemonic = "scan shoot mad left tattoo tray zoo vast belt settle surge galaxy";
+var mnemonic = "exist oyster kitchen fly nation input hand boost weasel patrol quality traffic";

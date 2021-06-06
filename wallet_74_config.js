@@ -1,1 +1,1 @@
-var mnemonic = "magic peasant detail comic thing scrap hip mother electric vehicle bread swamp";
+var mnemonic = "melt fold frost various canyon kite basic include panda assume faculty harsh";

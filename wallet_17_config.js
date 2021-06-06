@@ -1,1 +1,1 @@
-var mnemonic = "ostrich cereal material focus skull mountain meadow enroll frown apart type judge";
+var mnemonic = "minimum dizzy chat exercise awkward devote garage top athlete genuine tongue organ";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus method title reason spread have grocery solve couple one final same";
+var mnemonic = "kiwi swift young donor session twin steak upper bar seat lumber enact";

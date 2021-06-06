@@ -1,1 +1,1 @@
-var mnemonic = "candy resource cushion link gap stereo convince card length wine earth tumble";
+var mnemonic = "figure undo today review differ habit furnace jump pen educate wool matrix";

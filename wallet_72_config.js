@@ -1,1 +1,1 @@
-var mnemonic = "idle boss install grape input mother despair pond donkey split moon ranch";
+var mnemonic = "laundry able lab pony fog crumble saddle tackle person palace solution neck";

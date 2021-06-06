@@ -1,1 +1,1 @@
-var mnemonic = "path bicycle shove bacon document girl eight pattern one grit check outside";
+var mnemonic = "jaguar history better finger wait chef party dove aunt disorder coconut boss";

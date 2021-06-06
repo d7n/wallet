@@ -1,1 +1,1 @@
-var mnemonic = "rare occur expect capable food often position choose churn glance program matter";
+var mnemonic = "vivid obscure light this pretty fresh ability else radio despair must sponsor";

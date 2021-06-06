@@ -1,1 +1,1 @@
-var mnemonic = "buffalo deal copper matter autumn spend already tragic agent ensure flavor eyebrow";
+var mnemonic = "anchor episode sell tail discover valley boss narrow once utility room photo";

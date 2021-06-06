@@ -1,1 +1,1 @@
-var mnemonic = "youth tonight fabric maple morning thank accident rubber urge urge glance child";
+var mnemonic = "assist tennis mad trip tent trigger change century carbon atom grab mimic";

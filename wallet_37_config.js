@@ -1,1 +1,1 @@
-var mnemonic = "aspect river science shift tumble simple enter tray doll gaze shiver burden";
+var mnemonic = "twelve thank clarify mirror blind tube immense portion bottom hurt dress embody";

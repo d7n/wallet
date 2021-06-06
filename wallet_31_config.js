@@ -1,1 +1,1 @@
-var mnemonic = "into original planet index moon item gauge parent awful weapon drama model";
+var mnemonic = "admit speed long page split outer present angry differ chef live business";

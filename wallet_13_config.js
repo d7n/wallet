@@ -1,1 +1,1 @@
-var mnemonic = "return fault muffin volcano risk special remember emerge foster evidence world embody";
+var mnemonic = "spoil jewel indoor barely labor worry dream shock horse measure script actress";

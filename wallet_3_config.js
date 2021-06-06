@@ -1,1 +1,1 @@
-var mnemonic = "middle page outdoor innocent gloom mask shine cushion survey royal bubble ramp";
+var mnemonic = "glory hold praise cliff valley soft fly latin witness joy bright document";

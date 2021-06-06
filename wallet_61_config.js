@@ -1,1 +1,1 @@
-var mnemonic = "remove bamboo glass add relax exact town degree prison cricket unlock project";
+var mnemonic = "dwarf column cloth banana riot quiz pole tip trick click parent color";

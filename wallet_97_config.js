@@ -1,1 +1,1 @@
-var mnemonic = "glass lend cake snack wide brave gold height spawn crazy thought bleak";
+var mnemonic = "differ figure charge rival gun judge rack mask margin umbrella pulp coin";

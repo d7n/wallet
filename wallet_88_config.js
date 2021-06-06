@@ -1,1 +1,1 @@
-var mnemonic = "run risk network sun diary salt segment fault praise scrap uncle teach";
+var mnemonic = "rather around settle divorce card pond defense fever since combine umbrella return";

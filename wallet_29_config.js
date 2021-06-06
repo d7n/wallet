@@ -1,1 +1,1 @@
-var mnemonic = "real mansion announce trade trigger zone club session super hip funny kitchen";
+var mnemonic = "exercise lens resource hello lava glove robot remember push angry rubber tower";

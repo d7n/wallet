@@ -1,1 +1,1 @@
-var mnemonic = "again fancy foam fashion dirt extend write ring riot modify ostrich wait";
+var mnemonic = "turtle silly verify hazard bag jaguar ride inhale opera space crowd oak";

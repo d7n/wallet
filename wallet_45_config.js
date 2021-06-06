@@ -1,1 +1,1 @@
-var mnemonic = "glove chair busy cancel flower tornado gap clinic soda erase barrel ripple";
+var mnemonic = "eye solar ice proud canal model board orphan helmet enroll mutual mammal";

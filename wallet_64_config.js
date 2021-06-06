@@ -1,1 +1,1 @@
-var mnemonic = "tattoo trick verify cost general define oyster material lake dignity orchard push";
+var mnemonic = "broccoli genuine setup arm upset congress outdoor ladder future load bird dynamic";

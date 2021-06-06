@@ -1,1 +1,1 @@
-var mnemonic = "sea eternal state elbow exotic good crumble vote pelican garment victory kingdom";
+var mnemonic = "wisdom abuse concert slush device traffic fetch sunset hurdle pony salt install";

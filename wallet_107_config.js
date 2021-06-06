@@ -1,1 +1,1 @@
-var mnemonic = "help van acid champion vague glory result crop embrace must enhance rescue";
+var mnemonic = "girl once robust crazy version credit dizzy save nasty banner teach execute";

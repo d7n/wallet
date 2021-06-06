@@ -1,1 +1,1 @@
-var mnemonic = "grief tone alarm profit jelly throw jump runway snow hen eye illness";
+var mnemonic = "purity ethics auction average visual strike theory coffee please report retreat olive";

@@ -1,1 +1,1 @@
-var mnemonic = "salon sentence beef few tray detect dilemma survey flash blade banana faculty";
+var mnemonic = "enjoy tape matrix protect steak mom abstract common practice catalog moment shallow";

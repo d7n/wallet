@@ -1,1 +1,1 @@
-var mnemonic = "youth siren curtain stable predict call volcano resist defense mushroom sun cupboard";
+var mnemonic = "donor cliff thank pool submit fault uphold season tired winner wish elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "topple leader village meadow special basic abstract car black adult helmet believe";
+var mnemonic = "image because stay sample inhale fame change embody famous poet priority girl";

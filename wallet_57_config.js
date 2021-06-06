@@ -1,1 +1,1 @@
-var mnemonic = "unlock idea solve pistol river wear all tape quantum toilet repeat saddle";
+var mnemonic = "discover claim page actress expire awful friend clip laptop build wild giraffe";

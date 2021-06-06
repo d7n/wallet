@@ -1,1 +1,1 @@
-var mnemonic = "mix leaf loud ring tool math bind want slogan rate wrestle picture";
+var mnemonic = "spoon expand memory acoustic obtain ill marriage agree wild enact voyage candy";

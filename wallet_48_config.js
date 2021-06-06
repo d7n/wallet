@@ -1,1 +1,1 @@
-var mnemonic = "risk ketchup process entire panda sudden myth rude radar curve addict chase";
+var mnemonic = "wrap answer number pizza noble whip armor gravity shed quiz check custom";

@@ -1,1 +1,1 @@
-var mnemonic = "improve slogan fall chest sight crumble twelve tiger type ocean section decline";
+var mnemonic = "double gentle engine bubble isolate clog surround follow exhaust royal sound fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist wise asthma burst junk velvet walnut rigid idea advice trust joy";
+var mnemonic = "sell celery sample gain quantum cinnamon summer simple genre luggage machine bachelor";

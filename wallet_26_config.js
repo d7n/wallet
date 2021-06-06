@@ -1,1 +1,1 @@
-var mnemonic = "chair two hedgehog damage bracket survey stamp program fruit sea wing scare";
+var mnemonic = "hour boy method jungle owner retreat lobster jealous tobacco raw nut sword";

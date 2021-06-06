@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sunny version tree debris achieve dragon oppose until wet liar into";
+var mnemonic = "humble junk future force range anger space check remove phrase enrich squeeze";

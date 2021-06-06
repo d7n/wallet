@@ -1,1 +1,1 @@
-var mnemonic = "clay century word crowd version exist thank average anger equip donate knife";
+var mnemonic = "family scrub man race fluid cabbage manual barely shadow submit rib script";

@@ -1,1 +1,1 @@
-var mnemonic = "oil guilt solution speed inch purse valve achieve just final duck valve";
+var mnemonic = "unaware thunder paddle manual bullet immune tongue fall zebra suggest hero such";

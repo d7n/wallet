@@ -1,1 +1,1 @@
-var mnemonic = "unable organ lend trumpet divorce dad patrol pull ghost obtain void battle";
+var mnemonic = "shoot lab rain material like timber initial hub annual embark busy shoulder";

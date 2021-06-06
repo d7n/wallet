@@ -1,1 +1,1 @@
-var mnemonic = "cloth general mean narrow stamp speed faculty forest connect green apple lock";
+var mnemonic = "near clay hat priority february coyote sea destroy genuine fantasy neutral catalog";

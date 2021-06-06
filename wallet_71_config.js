@@ -1,1 +1,1 @@
-var mnemonic = "bread throw teach bundle exclude slot random skate public find purity fetch";
+var mnemonic = "book fat episode multiply turtle next diary boring dilemma response orphan fan";

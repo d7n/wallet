@@ -1,1 +1,1 @@
-var mnemonic = "thrive tomorrow question misery illegal coyote dignity lazy recall slow bronze walnut";
+var mnemonic = "beyond artefact invest grief same toast country grace broccoli sail afford inside";

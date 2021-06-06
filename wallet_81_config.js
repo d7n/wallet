@@ -1,1 +1,1 @@
-var mnemonic = "empty calm roast barrel shoe tree gossip flip husband engage below moon";
+var mnemonic = "acquire spin viable obtain debris knee ignore zoo creek catch improve galaxy";

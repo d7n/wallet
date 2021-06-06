@@ -1,1 +1,1 @@
-var mnemonic = "paddle library camera bright coin face disorder judge cluster rebel grow sister";
+var mnemonic = "spider kingdom entry emotion drink frozen toss upgrade until present hope sibling";

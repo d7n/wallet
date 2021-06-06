@@ -1,1 +1,1 @@
-var mnemonic = "increase ability clarify derive banana maple offer glimpse kit effort jazz eager";
+var mnemonic = "balcony coral barrel swarm game million cabbage someone school minute grab grab";

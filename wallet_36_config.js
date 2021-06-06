@@ -1,1 +1,1 @@
-var mnemonic = "educate unhappy purpose soda voyage display glance immune actor protect dynamic limit";
+var mnemonic = "cup inject sight cook benefit copy today parade during priority neither cancel";

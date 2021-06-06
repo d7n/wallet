@@ -1,1 +1,1 @@
-var mnemonic = "model usage strong bounce stomach practice grant melt century absent dry cost";
+var mnemonic = "autumn similar render entire wisdom knock dish club water more violin student";

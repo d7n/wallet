@@ -1,1 +1,1 @@
-var mnemonic = "mail maze farm leader essence winter verify morning guess trust small public";
+var mnemonic = "magic board chuckle embark fluid apple predict danger today quick grow faculty";

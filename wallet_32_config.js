@@ -1,1 +1,1 @@
-var mnemonic = "sight silent perfect skate trumpet powder wage potato little change lab disease";
+var mnemonic = "bonus valley toward bomb host oppose what wrist early release hat loop";

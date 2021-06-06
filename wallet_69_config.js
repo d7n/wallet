@@ -1,1 +1,1 @@
-var mnemonic = "hungry increase cry below virtual forest scheme clutch twenty shop afraid bronze";
+var mnemonic = "duty chicken crazy injury dumb magic message trumpet critic refuse lobster oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "toward mad polar diet practice hold betray foot afraid summer spin detail";
+var mnemonic = "problem black raccoon smoke also thrive dolphin only oval receive grab vivid";

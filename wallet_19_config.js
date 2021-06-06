@@ -1,1 +1,1 @@
-var mnemonic = "quantum other place nut nice rabbit title miracle cage album custom bargain";
+var mnemonic = "scene opinion culture nut youth curve ladder sorry net anchor anchor youth";

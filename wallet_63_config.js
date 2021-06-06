@@ -1,1 +1,1 @@
-var mnemonic = "diesel tunnel coyote ancient depth daughter display turn pupil hover very unique";
+var mnemonic = "rice disease second coil plastic weekend select leg stereo action solid giggle";

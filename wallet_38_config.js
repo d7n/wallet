@@ -1,1 +1,1 @@
-var mnemonic = "picture damage phone must allow innocent vast match rely base cousin flavor";
+var mnemonic = "unique pull shadow laundry express idle once pig jeans rabbit online lyrics";

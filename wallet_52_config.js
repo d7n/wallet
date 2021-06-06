@@ -1,1 +1,1 @@
-var mnemonic = "turn diesel nothing trial afraid roof kid enable pudding radar race enrich";
+var mnemonic = "high output copper obtain area unlock artist hungry affair sweet robot fancy";

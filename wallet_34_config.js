@@ -1,1 +1,1 @@
-var mnemonic = "essence clock turtle spatial panel concert table spoil danger man beauty theme";
+var mnemonic = "heavy thumb zero aerobic you brick place cream clever join kitchen manual";

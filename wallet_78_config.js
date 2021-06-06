@@ -1,1 +1,1 @@
-var mnemonic = "busy blur head gossip purity caution inspire liquid legal again dinner team";
+var mnemonic = "together need until weather hero solution used announce auction iron vendor number";

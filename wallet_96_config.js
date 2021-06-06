@@ -1,1 +1,1 @@
-var mnemonic = "nice girl faculty method unfair torch orange whale trap hidden diamond velvet";
+var mnemonic = "good pottery panther illegal audit someone ostrich diesel always spoon rather soccer";

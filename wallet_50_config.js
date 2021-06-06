@@ -1,1 +1,1 @@
-var mnemonic = "fence left media art ridge virus correct debate buzz mention notice abandon";
+var mnemonic = "notice universe denial satisfy grace crack salute now involve jump moment pulp";

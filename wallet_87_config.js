@@ -1,1 +1,1 @@
-var mnemonic = "practice resist like myself mango earth gauge bridge expose argue stadium unknown";
+var mnemonic = "case focus fox promote lamp logic morning math beyond hawk pupil vicious";

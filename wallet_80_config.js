@@ -1,1 +1,1 @@
-var mnemonic = "fiction extra swear cricket session sweet visit wire culture cotton quarter increase";
+var mnemonic = "thumb marriage account eagle weekend have false convince episode valve clap series";

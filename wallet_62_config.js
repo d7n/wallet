@@ -1,1 +1,1 @@
-var mnemonic = "lion eyebrow nerve catalog elegant sad there foam scan tool spring crisp";
+var mnemonic = "quarter shine ten black pumpkin head alert cluster chicken mandate snake anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "crane puzzle stairs issue virus aerobic pottery false mechanic wasp envelope earth";
+var mnemonic = "girl rail culture ghost rate jaguar slow zone primary surface spawn rent";

@@ -1,1 +1,1 @@
-var mnemonic = "position river lend word concert position bracket gain average amused salad where";
+var mnemonic = "deny render bring mimic razor giraffe forum example creek upgrade thumb ski";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology first consider offer educate enact wrestle educate pole faculty neutral sight";
+var mnemonic = "mirror legal bag pistol increase expand wheat bounce curve car razor wash";
