@@ -1,1 +1,1 @@
-var mnemonic = "screen cannon chalk nuclear quality list own fish ring want ten wrestle";
+var mnemonic = "you matter evoke vendor public stumble garden region balcony reveal pen devote";

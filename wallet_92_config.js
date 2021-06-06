@@ -1,1 +1,1 @@
-var mnemonic = "chat staff oven know sell camera version violin copy bag saddle mosquito";
+var mnemonic = "license cabbage pulse shed you wine puppy excite tiger ripple inside bronze";

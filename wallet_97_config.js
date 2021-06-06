@@ -1,1 +1,1 @@
-var mnemonic = "office theory rude normal original tuition average gesture width total unusual dirt";
+var mnemonic = "maximum arctic moment cloth chapter dish mad snap inch addict sweet echo";

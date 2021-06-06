@@ -1,1 +1,1 @@
-var mnemonic = "cup orient winter soon poverty stick gym budget announce train thought that";
+var mnemonic = "arm viable civil buyer decline case raise dutch address urban budget upgrade";

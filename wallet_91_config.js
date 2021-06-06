@@ -1,1 +1,1 @@
-var mnemonic = "mail wonder current ladder skirt purse plastic magic edge pig immune vibrant";
+var mnemonic = "cost pioneer strong decorate video marriage hundred toilet noble jacket trick world";

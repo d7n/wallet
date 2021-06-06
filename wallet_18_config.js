@@ -1,1 +1,1 @@
-var mnemonic = "tiny wet monkey weekend axis coyote dry coral case cheap slab else";
+var mnemonic = "million wisdom square upset repair relax deer measure can club silly kiwi";

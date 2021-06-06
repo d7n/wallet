@@ -1,1 +1,1 @@
-var mnemonic = "monitor basket air upgrade such split remind depart venture room collect smoke";
+var mnemonic = "stairs number scene discover robust guide congress middle suspect few turtle scene";

@@ -1,1 +1,1 @@
-var mnemonic = "door flag clock sail barely thought spend build snake group taste same";
+var mnemonic = "quarter runway purse sick effort sport myth broccoli category range exotic welcome";

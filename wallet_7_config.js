@@ -1,1 +1,1 @@
-var mnemonic = "leaf grain identify april verb despair biology crowd foil autumn buddy daring";
+var mnemonic = "myth track sauce garden trash chicken proof cherry dress trust hybrid glad";

@@ -1,1 +1,1 @@
-var mnemonic = "upon cheese grass once rack sister speed top travel error tumble salt";
+var mnemonic = "toward tell tower hint daughter auction problem scale slim rapid elbow plate";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger junk stand travel antique travel arm catalog depend portion start capital";
+var mnemonic = "help wolf actor build wonder sand music outside school survey culture can";

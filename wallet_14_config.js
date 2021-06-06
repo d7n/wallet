@@ -1,1 +1,1 @@
-var mnemonic = "plate boat travel ancient subject enemy inflict talent stomach prison record apart";
+var mnemonic = "raccoon above episode online gloom expire sign violin brick lottery strong tent";

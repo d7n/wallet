@@ -1,1 +1,1 @@
-var mnemonic = "ankle home loop equal obscure nation gun mention eternal fragile library inject";
+var mnemonic = "antique rule museum flock hedgehog phone stool fatal often library galaxy burger";

@@ -1,1 +1,1 @@
-var mnemonic = "clay habit scrap print advance forget change lazy fold globe combine sorry";
+var mnemonic = "order primary super advice champion tornado subway private dog unusual stable exercise";

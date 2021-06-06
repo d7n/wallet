@@ -1,1 +1,1 @@
-var mnemonic = "unknown bar camp buddy stage wild position era material rival prepare giggle";
+var mnemonic = "mind conduct fatal above toe talent derive work amateur relief urge disagree";

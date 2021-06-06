@@ -1,1 +1,1 @@
-var mnemonic = "rely hour eternal soft captain reason what loud priority essay empower pluck";
+var mnemonic = "car require comfort coast spring naive issue music burst document pig forest";

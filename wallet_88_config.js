@@ -1,1 +1,1 @@
-var mnemonic = "artefact hybrid excess mention essay answer radio royal later yellow autumn oxygen";
+var mnemonic = "injury either raven emerge elder purity cat system ripple demise again resemble";

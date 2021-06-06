@@ -1,1 +1,1 @@
-var mnemonic = "moon obvious file bring canoe decade swear swing broccoli basic ordinary helmet";
+var mnemonic = "earn group potato solid ribbon silly crop kiss owner spider erode amazing";

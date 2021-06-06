@@ -1,1 +1,1 @@
-var mnemonic = "ritual simple rotate soup neutral hockey private liar myth image husband cable";
+var mnemonic = "right sibling fiction family topple detect doctor expire charge lunar divorce bulk";

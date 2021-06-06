@@ -1,1 +1,1 @@
-var mnemonic = "myself prison skirt verb kidney dragon resemble rural december please below mixed";
+var mnemonic = "end inhale margin laugh flush attitude inform arm trumpet axis unlock vague";

@@ -1,1 +1,1 @@
-var mnemonic = "drum amazing apart own skull glance yard capable quarter exhibit rule shift";
+var mnemonic = "stage crystal sting uncle south trial trigger orchard surprise ability junior position";

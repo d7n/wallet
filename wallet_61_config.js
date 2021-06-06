@@ -1,1 +1,1 @@
-var mnemonic = "casino brown regular merit siege exit craft surround quarter fog retreat region";
+var mnemonic = "nominee despair canoe dynamic bench smoke soul ritual dove satoshi slide habit";

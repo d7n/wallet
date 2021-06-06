@@ -1,1 +1,1 @@
-var mnemonic = "step action tunnel cover exchange increase entire naive just now renew anger";
+var mnemonic = "keen escape trigger abstract south wine runway social company innocent sick announce";

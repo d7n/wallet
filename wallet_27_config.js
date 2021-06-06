@@ -1,1 +1,1 @@
-var mnemonic = "orbit caught limit liberty spirit emotion hawk common crane lyrics cattle salute";
+var mnemonic = "problem bomb vast cycle spring theory say raven room hand rail sail";

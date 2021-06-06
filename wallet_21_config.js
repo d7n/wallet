@@ -1,1 +1,1 @@
-var mnemonic = "follow walk private sort lady glide round actor dragon catch shove pole";
+var mnemonic = "better derive alert congress gas eye receive earn silver series oppose also";

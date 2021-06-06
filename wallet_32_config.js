@@ -1,1 +1,1 @@
-var mnemonic = "tree actual cheese ship tattoo price knock hotel guide during young style";
+var mnemonic = "jump absurd inherit attitude lawsuit crystal weird note family quote amazing nothing";

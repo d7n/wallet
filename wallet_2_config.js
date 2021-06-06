@@ -1,1 +1,1 @@
-var mnemonic = "blur drop into because toast economy rose impact pride goose hundred winner";
+var mnemonic = "tiny guess enhance dinosaur various economy turtle upgrade animal scorpion order witness";

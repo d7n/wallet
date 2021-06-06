@@ -1,1 +1,1 @@
-var mnemonic = "size bubble over peace mango suspect can eagle inner document snake fatal";
+var mnemonic = "initial short isolate choose wife metal behind mean skate ask claim park";

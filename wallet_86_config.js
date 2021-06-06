@@ -1,1 +1,1 @@
-var mnemonic = "celery robot coin social lawsuit lucky that kitchen you cause hunt vote";
+var mnemonic = "mushroom defy column latin outer park front decrease arch sun toast valid";

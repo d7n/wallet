@@ -1,1 +1,1 @@
-var mnemonic = "addict sponsor used brush spice glue lake liberty frog ensure raise clean";
+var mnemonic = "angry force pass much call artefact damp food million claim abstract sudden";

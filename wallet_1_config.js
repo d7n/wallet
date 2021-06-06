@@ -1,1 +1,1 @@
-var mnemonic = "what rather grace tent seminar script length habit language shell sausage trophy";
+var mnemonic = "pony romance enable bullet cigar velvet chaos fan anxiety seed metal minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "foster pyramid leisure decrease liberty venue syrup cabin apart problem owner happy";
+var mnemonic = "network family ripple hub fresh rely image stomach live arch skill choose";

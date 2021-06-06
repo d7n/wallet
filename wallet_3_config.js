@@ -1,1 +1,1 @@
-var mnemonic = "wild bright spice together slim social rose slight panel wrist museum spell";
+var mnemonic = "clutch airport view million average firm palace travel squirrel cup label angle";

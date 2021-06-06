@@ -1,1 +1,1 @@
-var mnemonic = "fold leopard immense flush arrive ordinary raise mountain across voice antique moment";
+var mnemonic = "cloud clerk same scout grow always dog any chalk genre intact smart";

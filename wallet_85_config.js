@@ -1,1 +1,1 @@
-var mnemonic = "army rare monitor nature crawl tuition stem myself short west service spirit";
+var mnemonic = "decide west congress describe screen major swallow tennis label forest achieve juice";

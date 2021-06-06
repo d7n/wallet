@@ -1,1 +1,1 @@
-var mnemonic = "awful walk unable hedgehog social pretty switch opera green unfair say spawn";
+var mnemonic = "access pistol priority height story brand tiny strategy rural extend reveal lucky";

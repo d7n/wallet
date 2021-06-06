@@ -1,1 +1,1 @@
-var mnemonic = "peace trip emerge police goose apart emerge cruise garage forum stock valley";
+var mnemonic = "train board tide suffer lyrics female picture marine visual fog unfold ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap language grape lunar amazing position cause clock embrace wink nice remove";
+var mnemonic = "print bargain gym pelican desert dream art advance depth cage cabbage fuel";

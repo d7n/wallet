@@ -1,1 +1,1 @@
-var mnemonic = "raw cargo please plug fabric veteran trigger rare proof palace excuse gift";
+var mnemonic = "shadow bachelor dutch open term report rather worth worth inch fame tragic";

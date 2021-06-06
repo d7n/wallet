@@ -1,1 +1,1 @@
-var mnemonic = "royal tray reward autumn nice spend oil later fruit very oil knock";
+var mnemonic = "dawn pistol sun speed witness exotic can claw wedding able modify twice";

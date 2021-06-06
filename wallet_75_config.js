@@ -1,1 +1,1 @@
-var mnemonic = "digital symptom twist unit service object shed ivory hidden crash isolate sick";
+var mnemonic = "gravity reopen blame chaos hobby liberty brown feature hat scrub story animal";

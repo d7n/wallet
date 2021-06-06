@@ -1,1 +1,1 @@
-var mnemonic = "elegant jacket order attack chapter road miss vague convince expose outside island";
+var mnemonic = "race venture rocket ozone chat chicken convince public tent parrot hedgehog fragile";

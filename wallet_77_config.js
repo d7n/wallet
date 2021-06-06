@@ -1,1 +1,1 @@
-var mnemonic = "miss conduct bring awkward pupil trust describe electric relief man mango guess";
+var mnemonic = "odor throw soccer purchase mercy crew library shine local mind spice bright";

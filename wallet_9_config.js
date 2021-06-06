@@ -1,1 +1,1 @@
-var mnemonic = "fluid garage luggage island top trash kick skill prepare ship document donor";
+var mnemonic = "hungry grocery decide trick eyebrow this acquire term library light rifle noodle";

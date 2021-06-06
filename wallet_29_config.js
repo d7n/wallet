@@ -1,1 +1,1 @@
-var mnemonic = "giraffe deny marble few decade kitchen genre school purpose model similar coconut";
+var mnemonic = "initial whip rude tonight napkin bone image today soldier hire pencil cram";

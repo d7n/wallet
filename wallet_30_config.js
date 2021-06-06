@@ -1,1 +1,1 @@
-var mnemonic = "initial kite author truth genuine gift kiss rich income page carpet subject";
+var mnemonic = "unable opinion differ industry brick guide shrimp carpet valid tag relief gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "animal tunnel option snack grass border elbow marine glow suggest announce glance";
+var mnemonic = "happy sting hover detail flag nice injury oak approve fetch chapter total";

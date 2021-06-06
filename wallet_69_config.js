@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin sword inhale short ceiling battle safe fresh apart unaware baby capital";
+var mnemonic = "profit receive addict primary have auto stereo odor world puzzle enroll blur";

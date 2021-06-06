@@ -1,1 +1,1 @@
-var mnemonic = "scan tourist laundry evoke spin loyal sport gaze gain gaze never panther";
+var mnemonic = "juice student gas cute rotate word odor loyal happy two usual first";

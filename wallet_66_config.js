@@ -1,1 +1,1 @@
-var mnemonic = "stage velvet teach pill cactus tip mass fade design novel miss sunset";
+var mnemonic = "turn denial tube exotic evolve name grape stone cinnamon grow circle camera";

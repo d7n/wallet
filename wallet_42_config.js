@@ -1,1 +1,1 @@
-var mnemonic = "rug cash divorce vapor tonight connect wait ketchup replace post census monkey";
+var mnemonic = "genius erosion conduct penalty pretty ticket atom arrow slice found toe coffee";

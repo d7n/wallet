@@ -1,1 +1,1 @@
-var mnemonic = "spell outside stone chalk page learn empty machine dream orbit target anxiety";
+var mnemonic = "valid soap lecture limb rack egg cash tumble seek kick coin poet";

@@ -1,1 +1,1 @@
-var mnemonic = "only pear lake shoe real shock science dynamic speak jazz antenna twin";
+var mnemonic = "race suspect truly wide health describe vacant weather alcohol reduce position sauce";

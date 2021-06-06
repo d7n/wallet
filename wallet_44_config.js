@@ -1,1 +1,1 @@
-var mnemonic = "peanut receive surface crouch exhibit twenty wreck immense unusual game alone auction";
+var mnemonic = "napkin host enrich glove virus crowd omit auction milk spirit tuna save";

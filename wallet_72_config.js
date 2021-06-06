@@ -1,1 +1,1 @@
-var mnemonic = "build recall okay tunnel quote write genre put thumb typical elite simple";
+var mnemonic = "nest universe reject legal segment sentence cook yellow crumble ride reveal tunnel";

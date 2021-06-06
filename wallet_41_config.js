@@ -1,1 +1,1 @@
-var mnemonic = "dwarf help awake defy asset bike middle melt plunge loan destroy crash";
+var mnemonic = "stumble sense cart still silver outside pause stem saddle smile happy merry";

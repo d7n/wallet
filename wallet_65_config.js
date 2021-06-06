@@ -1,1 +1,1 @@
-var mnemonic = "point clerk hotel palace stumble tuition rude kick remove torch multiply neutral";
+var mnemonic = "priority egg art alone obey obey position silent viable erode brisk obtain";

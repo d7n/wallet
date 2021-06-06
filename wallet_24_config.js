@@ -1,1 +1,1 @@
-var mnemonic = "find mixed midnight hungry wing wild trouble ethics razor stay quiz voice";
+var mnemonic = "stomach today cover dignity flush shove surprise viable fetch outer surround february";

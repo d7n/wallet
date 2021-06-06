@@ -1,1 +1,1 @@
-var mnemonic = "bachelor open useless lottery subway sunset limit naive powder ramp rice dentist";
+var mnemonic = "diet earth voyage suffer enroll maximum stone jungle rack leave learn bomb";

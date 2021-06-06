@@ -1,1 +1,1 @@
-var mnemonic = "cattle wagon improve cup spatial inject head crowd caution trust trigger baby";
+var mnemonic = "barely upon relax ancient lock festival glance tuna brand goat candy doctor";

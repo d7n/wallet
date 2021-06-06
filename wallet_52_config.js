@@ -1,1 +1,1 @@
-var mnemonic = "latin radio carbon hello twin like mutual lady snow check dice source";
+var mnemonic = "world fuel youth open mimic elephant gym fringe voyage pond water blush";

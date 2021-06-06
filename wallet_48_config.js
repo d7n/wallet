@@ -1,1 +1,1 @@
-var mnemonic = "domain quality position rude convince virtual control dune move mask mix language";
+var mnemonic = "empty reveal area spin dynamic famous marriage smooth scatter mesh blush keen";

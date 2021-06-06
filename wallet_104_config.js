@@ -1,1 +1,1 @@
-var mnemonic = "mask twice twist advance slab side catalog twelve scale cargo episode mix";
+var mnemonic = "force process mountain home leisure snow royal cake harvest detail attack legal";

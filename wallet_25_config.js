@@ -1,1 +1,1 @@
-var mnemonic = "flip friend right cool include slow bonus flavor fire dog elder wrong";
+var mnemonic = "wisdom odor notice letter slice iron response radio soccer van coffee boost";

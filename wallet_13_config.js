@@ -1,1 +1,1 @@
-var mnemonic = "winter level weapon close strategy eternal robot certain cost shop prefer myself";
+var mnemonic = "uniform march stage glad prevent draw rural salute elite slogan pistol bar";

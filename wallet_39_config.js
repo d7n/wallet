@@ -1,1 +1,1 @@
-var mnemonic = "globe lamp organ confirm deal fix enroll snap farm light virus dash";
+var mnemonic = "jewel boring damp garden very license heavy achieve wish run kind magic";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden about federal tip cool since trouble feed mother height salute ride";
+var mnemonic = "arm word adult slam dutch awkward owner mix hat super aspect oven";

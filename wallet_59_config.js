@@ -1,1 +1,1 @@
-var mnemonic = "fashion biology liberty worry brown antenna drip typical outdoor wise oil visa";
+var mnemonic = "picnic skirt park assume sweet burst basket ability long travel horse segment";

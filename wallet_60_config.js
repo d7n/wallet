@@ -1,1 +1,1 @@
-var mnemonic = "car hungry rigid pear develop mention clinic turn sell floor park rib";
+var mnemonic = "wife arrive else portion output else word inflict bubble claw inherit swear";

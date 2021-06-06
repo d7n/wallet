@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cereal hammer hire banana mixed vital circle danger cushion erupt dove";
+var mnemonic = "renew biology elite shaft surround remember mosquito enact very garbage alley faculty";

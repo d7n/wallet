@@ -1,1 +1,1 @@
-var mnemonic = "two sock slot symptom weapon goddess journey another devote payment crazy series";
+var mnemonic = "guide rose educate become vicious traffic travel orbit radar vanish now purpose";

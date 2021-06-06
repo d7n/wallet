@@ -1,1 +1,1 @@
-var mnemonic = "sister olive alcohol coral thank profit entry drip impose post exit ankle";
+var mnemonic = "mango unlock spice truly relax brick across second reduce fix lesson kid";

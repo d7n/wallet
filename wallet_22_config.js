@@ -1,1 +1,1 @@
-var mnemonic = "obscure strong kingdom flower small where brass muscle spy valley spread balance";
+var mnemonic = "meat much case thrive sunset ski cinnamon flower purse habit term interest";

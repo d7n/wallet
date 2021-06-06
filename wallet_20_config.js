@@ -1,1 +1,1 @@
-var mnemonic = "air panel couple sleep bench situate unveil purse picnic pet save tongue";
+var mnemonic = "badge wing draw right right often neutral little two reveal inflict weather";

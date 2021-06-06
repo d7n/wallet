@@ -1,1 +1,1 @@
-var mnemonic = "ceiling leader pyramid warrior divert honey wish guess vacuum approve pioneer fall";
+var mnemonic = "spread wool verify resist alone chase rival rack churn above artist grocery";

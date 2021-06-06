@@ -1,1 +1,1 @@
-var mnemonic = "waste field pear invite gravity lyrics bird violin myth depth thought allow";
+var mnemonic = "endless include tragic toss bean first smile near spatial slow stuff stove";

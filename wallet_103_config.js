@@ -1,1 +1,1 @@
-var mnemonic = "chat obey worry nominee smart distance afford initial negative salon fish tent";
+var mnemonic = "spend eight jealous toss toe concert fiber delay door club panel wing";

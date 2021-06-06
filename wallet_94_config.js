@@ -1,1 +1,1 @@
-var mnemonic = "sport virus dinosaur silk image fatal bamboo vicious unlock online fine vivid";
+var mnemonic = "dinosaur illness sister believe bulb night pumpkin health sing valid field onion";

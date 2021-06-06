@@ -1,1 +1,1 @@
-var mnemonic = "flush harvest stable utility typical salt cinnamon axis ability solid pear gadget";
+var mnemonic = "column execute february warrior boy six trip husband someone main friend october";

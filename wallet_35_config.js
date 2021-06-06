@@ -1,1 +1,1 @@
-var mnemonic = "ethics travel organ vital below parrot strategy argue zebra elbow ready all";
+var mnemonic = "rich unfold gravity myth found tank obvious height draft guard soul issue";

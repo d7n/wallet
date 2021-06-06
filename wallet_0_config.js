@@ -1,1 +1,1 @@
-var mnemonic = "apple unit only fire assume fury cinnamon rigid give tube chapter resemble";
+var mnemonic = "hello noble valley foster dinner bless whale vital winter danger medal tower";

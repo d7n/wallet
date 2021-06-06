@@ -1,1 +1,1 @@
-var mnemonic = "lottery cage eye butter mixture general cherry catalog pipe spirit judge eternal";
+var mnemonic = "hip people pledge exchange canvas cliff join second onion task chronic shy";
