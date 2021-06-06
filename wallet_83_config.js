@@ -1,1 +1,1 @@
-var mnemonic = "emotion fiscal end fork cover orbit neglect firm flat wash tomorrow skate";
+var mnemonic = "bicycle bike soccer interest obey urge victory dilemma shock middle cake worth";

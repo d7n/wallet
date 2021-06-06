@@ -1,1 +1,1 @@
-var mnemonic = "nose critic immense ivory salon order quiz write local poem arrest twelve";
+var mnemonic = "cinnamon wish economy basket garden library brand violin exchange month ship picnic";

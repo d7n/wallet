@@ -1,1 +1,1 @@
-var mnemonic = "blast scare clarify insect mistake best rhythm they puppy random error lobster";
+var mnemonic = "gown broom ready enact reopen asthma strike grab clutch supply obey negative";

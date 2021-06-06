@@ -1,1 +1,1 @@
-var mnemonic = "junk biology flash frozen summer three story husband genius moral quantum knife";
+var mnemonic = "slice problem rigid thrive merit palm shield tip crisp turn away later";

@@ -1,1 +1,1 @@
-var mnemonic = "keen cry today index breeze olive essence spell steel transfer hello high";
+var mnemonic = "purse conduct race transfer chronic rather pioneer seven water turn stairs guilt";

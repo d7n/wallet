@@ -1,1 +1,1 @@
-var mnemonic = "imitate alert ankle unit session acid clerk assume advance media marble foam";
+var mnemonic = "one wage tag only buzz romance stomach embark hello help demand core";

@@ -1,1 +1,1 @@
-var mnemonic = "energy column crack cradle company syrup three disease certain salute carry jelly";
+var mnemonic = "attend tattoo leisure twin scorpion dismiss swear siege nut toilet combine indoor";

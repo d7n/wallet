@@ -1,1 +1,1 @@
-var mnemonic = "muscle refuse kiwi girl furnace mesh school swear inner thing warm mail";
+var mnemonic = "neutral this below coach buffalo produce reopen alarm use recall announce slab";

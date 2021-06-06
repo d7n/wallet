@@ -1,1 +1,1 @@
-var mnemonic = "pink exercise zero since segment filter elegant puzzle liberty conduct damp similar";
+var mnemonic = "extra valley coral nothing walk record orange absurd mountain solar churn melody";

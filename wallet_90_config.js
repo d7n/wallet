@@ -1,1 +1,1 @@
-var mnemonic = "health pattern three area arrive indoor sweet olive joke embrace trick approve";
+var mnemonic = "this large hockey win caution liquid oven sock humor soup misery nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "ten identify essay dynamic clown gate river abuse derive leg awake velvet";
+var mnemonic = "decade open creek attend polar combine price cat unknown increase hip lottery";

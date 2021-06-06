@@ -1,1 +1,1 @@
-var mnemonic = "essay lounge antique stove chat leisure muscle roof chuckle health rent chat";
+var mnemonic = "welcome inherit maximum yellow action bright steak shrimp resemble oil detail regret";

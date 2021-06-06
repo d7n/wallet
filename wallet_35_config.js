@@ -1,1 +1,1 @@
-var mnemonic = "symptom pulse champion kiss together void tail major father knee chapter rice";
+var mnemonic = "credit palm cancel bicycle argue cash when cup shy casino poem adapt";

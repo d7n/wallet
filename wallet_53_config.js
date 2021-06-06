@@ -1,1 +1,1 @@
-var mnemonic = "cave walk cycle calm seed absorb antique bright duty utility salon cupboard";
+var mnemonic = "better spell wire various grief scrap march list canal okay coil walnut";

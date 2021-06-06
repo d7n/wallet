@@ -1,1 +1,1 @@
-var mnemonic = "jar cliff pizza wonder cover north quiz unique dance record shadow insane";
+var mnemonic = "device champion bamboo predict cable fun differ work remain solution cage okay";

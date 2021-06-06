@@ -1,1 +1,1 @@
-var mnemonic = "edge web vintage type disease drill swallow assault cereal cook limit business";
+var mnemonic = "quick control three chimney because summer distance creek runway detail snack analyst";

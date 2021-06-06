@@ -1,1 +1,1 @@
-var mnemonic = "bread fat happy acid erode robust baby vehicle spray reflect produce buddy";
+var mnemonic = "kangaroo spider word nature yard flush alarm visa trophy extend question asthma";

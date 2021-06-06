@@ -1,1 +1,1 @@
-var mnemonic = "horror focus engage scale shove swear flower rural wine expect away enroll";
+var mnemonic = "jazz inform smart picture monkey office kiss impose foil giraffe copper certain";

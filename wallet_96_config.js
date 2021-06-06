@@ -1,1 +1,1 @@
-var mnemonic = "used attend pair copy trumpet seminar tank verb trouble bottom year clip";
+var mnemonic = "pulse urge laundry denial dove shift shrug legend chest any enact tobacco";

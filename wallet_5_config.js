@@ -1,1 +1,1 @@
-var mnemonic = "sing switch trend van insane ability credit express interest dentist unknown canyon";
+var mnemonic = "acoustic entire broom end enrich romance rather ritual success slim energy bread";

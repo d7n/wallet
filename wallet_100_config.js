@@ -1,1 +1,1 @@
-var mnemonic = "area recycle glow where dance crane bulk trophy strategy deer blossom leopard";
+var mnemonic = "collect item negative kiss crime pulse obtain plug elevator shift fall enough";

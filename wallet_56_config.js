@@ -1,1 +1,1 @@
-var mnemonic = "security digital mutual myself tilt major rail system fiscal elephant today multiply";
+var mnemonic = "emotion horror warrior faint muscle rural short tunnel dog unveil monkey topic";

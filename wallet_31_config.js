@@ -1,1 +1,1 @@
-var mnemonic = "glue cupboard faith buyer dawn opera lava rent truck antique boost skirt";
+var mnemonic = "increase permit buzz public brush kind decrease whale exchange face army surround";

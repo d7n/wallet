@@ -1,1 +1,1 @@
-var mnemonic = "job ten junk upper vital judge canvas share viable actress lyrics tent";
+var mnemonic = "social slam dismiss rib tent abstract mind muffin layer rare soft now";

@@ -1,1 +1,1 @@
-var mnemonic = "glare sword merge actual deer receive ginger maid glow satoshi setup arrange";
+var mnemonic = "kitten practice cabbage clay paddle spider zone mention like purse goose satisfy";

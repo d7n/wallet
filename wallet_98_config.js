@@ -1,1 +1,1 @@
-var mnemonic = "tribe detail arctic quote print tennis flag much desk purpose garden number";
+var mnemonic = "motor sad column organ believe found differ ride oak wire butter federal";

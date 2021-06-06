@@ -1,1 +1,1 @@
-var mnemonic = "uncover cute exact pass estate crouch gorilla uncle output goddess rib best";
+var mnemonic = "onion access mimic siren hungry napkin version among gesture tobacco vessel tooth";

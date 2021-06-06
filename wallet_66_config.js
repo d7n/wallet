@@ -1,1 +1,1 @@
-var mnemonic = "page gesture win barrel below slight street sense vacant twin decade cushion";
+var mnemonic = "frown coast grocery town same heavy brown garbage junk surface broom cruise";

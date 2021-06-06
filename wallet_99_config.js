@@ -1,1 +1,1 @@
-var mnemonic = "figure happy analyst category blast black choose normal fruit iron brother fuel";
+var mnemonic = "portion estate cancel thunder final cabin cotton smooth write brick disease problem";

@@ -1,1 +1,1 @@
-var mnemonic = "media combine confirm liar rather rare area clean divert above grow speed";
+var mnemonic = "very silk program arctic ahead couch logic lava title stage short eternal";

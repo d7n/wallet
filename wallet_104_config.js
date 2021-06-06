@@ -1,1 +1,1 @@
-var mnemonic = "artwork you mosquito taxi mom essence maple illegal that pact exist radio";
+var mnemonic = "gaze pumpkin sun bar equip coin pencil sustain wonder blade enemy speak";

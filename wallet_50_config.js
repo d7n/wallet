@@ -1,1 +1,1 @@
-var mnemonic = "jar plunge wood strike feed wagon rude paper enemy sibling fatigue immense";
+var mnemonic = "nephew pony inside fiction congress harbor venue calm wedding record margin fever";

@@ -1,1 +1,1 @@
-var mnemonic = "damage gun slim gauge magnet local panther pudding humor lizard gossip note";
+var mnemonic = "mail dentist flavor spawn holiday review ancient chimney life square relax shoot";

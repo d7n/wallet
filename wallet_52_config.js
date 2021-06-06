@@ -1,1 +1,1 @@
-var mnemonic = "teach south moon mule purpose cruel alter acid record rough pen van";
+var mnemonic = "concert skull space pair million donor face faith tenant obtain coast acoustic";

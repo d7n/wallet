@@ -1,1 +1,1 @@
-var mnemonic = "wild loan era charge street nose ranch fat ice deliver breeze armed";
+var mnemonic = "gravity idle second oil quote isolate drastic mesh close duty sudden seminar";

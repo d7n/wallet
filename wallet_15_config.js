@@ -1,1 +1,1 @@
-var mnemonic = "attitude olympic trust magic green fine lottery find yellow wrap strong repair";
+var mnemonic = "dignity orange soon twin magnet pen embody north such song galaxy acoustic";

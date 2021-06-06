@@ -1,1 +1,1 @@
-var mnemonic = "loud clock merge palace delay another duck tuna room will shop velvet";
+var mnemonic = "tiny man domain seek increase hope advance find envelope suffer carpet access";

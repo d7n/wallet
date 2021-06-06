@@ -1,1 +1,1 @@
-var mnemonic = "coffee concert auto whale save minor survey certain pass salon sad scatter";
+var mnemonic = "hire fitness pulp column feel office nose supreme unit render detect suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "echo gesture entry salute hope retire cruel soap viable lady flower second";
+var mnemonic = "hurt mule apology render lunar comic cotton lawn flag urge topple extend";

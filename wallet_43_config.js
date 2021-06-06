@@ -1,1 +1,1 @@
-var mnemonic = "false submit abuse reflect evidence pass bicycle sample feature dynamic burst garment";
+var mnemonic = "lizard confirm melt runway repair nation pioneer pyramid crisp submit amount travel";

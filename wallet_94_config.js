@@ -1,1 +1,1 @@
-var mnemonic = "love decide total avoid material delay satoshi tornado crane stereo treat firm";
+var mnemonic = "invest slender minimum roast creek baby pet flight tide sock search lunar";

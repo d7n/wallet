@@ -1,1 +1,1 @@
-var mnemonic = "hockey tennis ecology hollow student useful blame mule state dynamic matrix wine";
+var mnemonic = "sick wet sudden tail viable drama tackle force render person firm razor";

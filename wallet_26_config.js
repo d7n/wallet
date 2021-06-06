@@ -1,1 +1,1 @@
-var mnemonic = "stove stamp all sniff guitar treat sun fiscal surge write soul donor";
+var mnemonic = "sense orchard pioneer repeat van eight undo adapt weapon exhibit husband assume";

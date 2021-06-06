@@ -1,1 +1,1 @@
-var mnemonic = "fork attend ecology sweet corn expire load arrow absent pretty snake common";
+var mnemonic = "language bundle drum garage lens rally kit traffic point can swap rotate";

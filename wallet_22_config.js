@@ -1,1 +1,1 @@
-var mnemonic = "wolf scale lobster inspire maze square piano theme wing mimic betray hawk";
+var mnemonic = "income swing okay crane shop biology raven view winter portion violin guide";

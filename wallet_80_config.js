@@ -1,1 +1,1 @@
-var mnemonic = "age faculty bind voice saddle glimpse organ flavor pistol wise shoulder silly";
+var mnemonic = "helmet fashion what final marble abandon romance dash utility tattoo wagon question";

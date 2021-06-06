@@ -1,1 +1,1 @@
-var mnemonic = "reward fork comfort primary perfect topic require valid idle large satisfy enemy";
+var mnemonic = "decrease mind peasant tongue shove myth talk toddler rude mansion confirm reward";

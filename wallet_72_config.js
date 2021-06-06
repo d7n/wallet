@@ -1,1 +1,1 @@
-var mnemonic = "clarify glide glad embrace certain day arena giraffe neck attend long company";
+var mnemonic = "race electric mansion sweet clown simple era learn raise business bar mule";

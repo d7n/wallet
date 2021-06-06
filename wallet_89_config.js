@@ -1,1 +1,1 @@
-var mnemonic = "mountain birth spin ketchup ship source true achieve napkin lecture cupboard uphold";
+var mnemonic = "infant rescue process pilot wide cargo critic settle bridge receive mention test";

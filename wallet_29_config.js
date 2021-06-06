@@ -1,1 +1,1 @@
-var mnemonic = "wedding portion safe loyal half glare emotion arch great steak cannon spoon";
+var mnemonic = "rebuild sting danger flip diet million middle pride unlock slight physical benefit";

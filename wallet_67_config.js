@@ -1,1 +1,1 @@
-var mnemonic = "initial digital slice cannon exist behind mad ginger couple witness someone display";
+var mnemonic = "awful fine supreme curve salt fitness property vote ridge clean settle reveal";

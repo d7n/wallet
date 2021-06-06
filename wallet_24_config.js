@@ -1,1 +1,1 @@
-var mnemonic = "head giggle fun skirt street adult drama melt conduct reduce stand alien";
+var mnemonic = "heart vault execute shove soul law nose jump hunt brain pond maid";

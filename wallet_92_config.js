@@ -1,1 +1,1 @@
-var mnemonic = "laugh steel obvious vivid reflect sadness health blame rabbit lizard cage dice";
+var mnemonic = "bulb gorilla useful undo afraid sign erupt pulse gorilla alcohol route cycle";

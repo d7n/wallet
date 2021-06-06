@@ -1,1 +1,1 @@
-var mnemonic = "true shoot flavor change lock burger mouse shove monitor argue glare acid";
+var mnemonic = "company smoke trim useless lonely front autumn donkey over involve rose error";

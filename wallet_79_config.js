@@ -1,1 +1,1 @@
-var mnemonic = "already grid shove aunt head office globe glow miss slot develop february";
+var mnemonic = "dismiss asthma blush miracle fossil cool phone romance pizza machine silent borrow";

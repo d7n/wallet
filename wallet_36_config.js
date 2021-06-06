@@ -1,1 +1,1 @@
-var mnemonic = "desk pass deal wife claw problem door swim smart slide hungry shine";
+var mnemonic = "slight drama name lazy trap sphere infant cram border dry project need";

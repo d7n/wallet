@@ -1,1 +1,1 @@
-var mnemonic = "sudden forward memory leisure suggest core away stone develop slam display success";
+var mnemonic = "catalog pistol tribe best choice swap only relax echo dish budget pet";

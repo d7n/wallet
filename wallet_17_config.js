@@ -1,1 +1,1 @@
-var mnemonic = "submit brief march spatial spin exhaust usage sort erosion scene mosquito enhance";
+var mnemonic = "ball cash nerve rib asset thunder swim tone plate task animal crane";

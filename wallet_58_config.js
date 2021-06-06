@@ -1,1 +1,1 @@
-var mnemonic = "veteran chunk dish foil rally gold expose castle post fringe evoke fan";
+var mnemonic = "hawk betray december vote swing usual exact social extra turkey narrow dignity";

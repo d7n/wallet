@@ -1,1 +1,1 @@
-var mnemonic = "hint control empty indicate carry parade buyer erosion quiz carbon crush banner";
+var mnemonic = "goose inform alarm floor morning seven reunion hollow globe hope oil atom";

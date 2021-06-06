@@ -1,1 +1,1 @@
-var mnemonic = "skill liberty robot prosper split logic muffin fancy hand brave skill endless";
+var mnemonic = "myth coyote poem derive smart grunt speed common sample syrup orbit mimic";

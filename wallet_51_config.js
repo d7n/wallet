@@ -1,1 +1,1 @@
-var mnemonic = "add current runway nose army above fun paper ribbon private north draw";
+var mnemonic = "trend about marine police wisdom farm gaze february once display prepare receive";

@@ -1,1 +1,1 @@
-var mnemonic = "strike crater brown over version elegant hello autumn warm reopen report music";
+var mnemonic = "hand blood shoot armed glass night club tent feel snow poverty mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "display success side dinner play furnace scout father talent one round wait";
+var mnemonic = "blouse defy tell nature avocado awful breeze acoustic swim peace clerk pitch";

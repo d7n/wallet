@@ -1,1 +1,1 @@
-var mnemonic = "kitten intact able gasp fork pitch addict once divert task train access";
+var mnemonic = "vapor fabric piano achieve bubble choose sea lunar soap indicate resemble end";

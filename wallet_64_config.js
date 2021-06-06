@@ -1,1 +1,1 @@
-var mnemonic = "either unit ranch fiscal riot wreck dwarf save barely debris beauty talent";
+var mnemonic = "purpose easy armed under punch cliff say pact combine happy extra chunk";

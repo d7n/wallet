@@ -1,1 +1,1 @@
-var mnemonic = "hill praise route ask similar primary series nasty dignity rabbit delay blossom";
+var mnemonic = "client earth leave require subject promote typical cotton detect misery avoid enrich";

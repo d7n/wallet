@@ -1,1 +1,1 @@
-var mnemonic = "lounge essence shield punch flavor project success detail globe yellow guitar hedgehog";
+var mnemonic = "waste time shrimp page bargain scrub behave deputy rescue syrup cloth salad";

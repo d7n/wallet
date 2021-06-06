@@ -1,1 +1,1 @@
-var mnemonic = "round sad orchard middle style harbor such slim chef elite scan syrup";
+var mnemonic = "shove follow bamboo during leisure art bird artefact quantum gaze very illness";

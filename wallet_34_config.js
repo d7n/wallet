@@ -1,1 +1,1 @@
-var mnemonic = "rebuild adult trap address search buffalo buyer rose fragile mention eternal more";
+var mnemonic = "time scare hood noodle require sing recycle claim segment camera obvious shock";

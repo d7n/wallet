@@ -1,1 +1,1 @@
-var mnemonic = "lesson hen film pave ketchup poem zone bottom appear rich bright mother";
+var mnemonic = "crisp remove invest alcohol scout ask ladder select beauty public express mixed";

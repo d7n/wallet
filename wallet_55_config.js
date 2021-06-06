@@ -1,1 +1,1 @@
-var mnemonic = "shine pigeon noodle bleak soft gather derive sea orchard poverty dismiss metal";
+var mnemonic = "fitness snow grunt cloth regular screen boil polar always thumb grit humble";

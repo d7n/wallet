@@ -1,1 +1,1 @@
-var mnemonic = "bacon lemon bitter issue life tragic legend retire sand violin offer detail";
+var mnemonic = "unit turn swear pledge smooth wait rocket survey thumb clown laugh smart";

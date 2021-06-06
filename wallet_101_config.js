@@ -1,1 +1,1 @@
-var mnemonic = "seek flash february ginger approve above fashion select melody advice crisp story";
+var mnemonic = "little heavy sting similar universe crime obvious flight unable physical bus pen";

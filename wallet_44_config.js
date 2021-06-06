@@ -1,1 +1,1 @@
-var mnemonic = "own boost arena renew bonus inch slam business lawn card ribbon plastic";
+var mnemonic = "shy main patient now bulb hurry like author cream surround vapor mimic";

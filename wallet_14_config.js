@@ -1,1 +1,1 @@
-var mnemonic = "evoke window spring omit approve oval correct right habit chief aware proof";
+var mnemonic = "bike split bring spike garbage model venture season dash eternal ridge unit";

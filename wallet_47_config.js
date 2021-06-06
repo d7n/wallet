@@ -1,1 +1,1 @@
-var mnemonic = "shoulder learn episode fringe disorder charge type club rare mention split cement";
+var mnemonic = "industry rifle negative patch ship praise suspect welcome view shoe capital tunnel";

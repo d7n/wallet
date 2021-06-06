@@ -1,1 +1,1 @@
-var mnemonic = "hollow inform village shoot picture cactus float neglect unique squirrel shoot corn";
+var mnemonic = "jeans sauce skin pause garden cost clutch torch anchor eight humble improve";

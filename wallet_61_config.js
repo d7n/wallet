@@ -1,1 +1,1 @@
-var mnemonic = "expand settle liar idea ecology rare market win duck visa nasty left";
+var mnemonic = "they air during cycle crowd inmate kitchen thank frost chat garlic hat";

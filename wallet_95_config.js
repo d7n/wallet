@@ -1,1 +1,1 @@
-var mnemonic = "tornado spatial dignity frame enhance poem fence execute climb circle patch trade";
+var mnemonic = "guitar creek aisle luxury strong priority right govern again brave blood honey";

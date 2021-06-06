@@ -1,1 +1,1 @@
-var mnemonic = "gift box long chat sense element trend still security edge develop provide";
+var mnemonic = "right winner federal powder ancient woman curious title success acquire aware net";

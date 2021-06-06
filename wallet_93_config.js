@@ -1,1 +1,1 @@
-var mnemonic = "slot able pluck machine comic joy snow sheriff garage unaware smooth skin";
+var mnemonic = "provide tomato teach rice wagon reflect warfare style road blur release solution";

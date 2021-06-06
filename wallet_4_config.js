@@ -1,1 +1,1 @@
-var mnemonic = "thing debate also magic matter advance adjust soda plastic subject dirt curious";
+var mnemonic = "still input tortoise bronze soup rebuild august confirm project someone faint pride";

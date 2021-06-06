@@ -1,1 +1,1 @@
-var mnemonic = "note virtual donkey glass hamster replace strike exact gorilla pistol tuna rice";
+var mnemonic = "december radio power soccer alley core mother census lift evoke deal undo";

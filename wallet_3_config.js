@@ -1,1 +1,1 @@
-var mnemonic = "clean resource option list story floor mansion penalty check eternal mixed avoid";
+var mnemonic = "evidence truly describe impact mountain enough pudding oblige hockey bleak bounce bachelor";

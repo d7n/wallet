@@ -1,1 +1,1 @@
-var mnemonic = "palace silly mixture idea damage display clerk sad dove orphan leisure resemble";
+var mnemonic = "valid unit aim pipe place tobacco rather night bulk ramp input immense";

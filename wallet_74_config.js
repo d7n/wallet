@@ -1,1 +1,1 @@
-var mnemonic = "reunion much gain because struggle curtain opinion grab thrive arrange business music";
+var mnemonic = "high fury bar save riot shrug science insane enlist dial discover color";

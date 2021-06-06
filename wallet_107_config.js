@@ -1,1 +1,1 @@
-var mnemonic = "issue seed bullet era yard victory there piece alcohol enter wire shaft";
+var mnemonic = "bring prefer edit misery census crawl alert quote toast skill salmon fringe";

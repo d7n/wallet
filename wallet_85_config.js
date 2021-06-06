@@ -1,1 +1,1 @@
-var mnemonic = "educate danger abandon jaguar climb ginger hobby tired video claw cash start";
+var mnemonic = "age poet globe artist artwork magnet chest soul stand duty parent hospital";

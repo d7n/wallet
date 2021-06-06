@@ -1,1 +1,1 @@
-var mnemonic = "decline sauce miss joy invite shuffle office thank crawl renew fire brown";
+var mnemonic = "member vital polar month comic acoustic vacant present mechanic cigar stool capital";

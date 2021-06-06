@@ -1,1 +1,1 @@
-var mnemonic = "audit dad slim concert drill buyer leopard bargain icon monitor orphan enemy";
+var mnemonic = "throw dragon lab embody umbrella cloud board jazz share buddy cancel twice";

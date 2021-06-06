@@ -1,1 +1,1 @@
-var mnemonic = "repair transfer random acoustic buffalo never grief control inner clay pave giraffe";
+var mnemonic = "thunder hope assist avoid cream polar cart scare slam clown sadness pony";

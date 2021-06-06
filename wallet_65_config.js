@@ -1,1 +1,1 @@
-var mnemonic = "lend place funny veteran slam satoshi report twin saddle destroy noble depart";
+var mnemonic = "limit connect chimney life equip service chair toy style faith snow unhappy";

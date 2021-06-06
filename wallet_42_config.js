@@ -1,1 +1,1 @@
-var mnemonic = "concert menu mansion link machine proof rough amazing vehicle hen tattoo scatter";
+var mnemonic = "boring swear project rack crazy certain either cabin decide animal south pudding";

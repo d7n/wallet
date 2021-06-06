@@ -1,1 +1,1 @@
-var mnemonic = "other belt focus alone chronic note local also pistol champion car blade";
+var mnemonic = "weird prison anger pair access scorpion draft tornado below aspect final fantasy";

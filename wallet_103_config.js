@@ -1,1 +1,1 @@
-var mnemonic = "shield mean identify tackle enemy galaxy bamboo hunt basic canvas margin same";
+var mnemonic = "weapon gallery addict blur party crane kind crystal patient exhaust stay stomach";

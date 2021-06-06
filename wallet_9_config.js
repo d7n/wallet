@@ -1,1 +1,1 @@
-var mnemonic = "zebra silk donate extra acid gentle talk inquiry liar clump drift proud";
+var mnemonic = "virus fetch kite sick tilt peanut mutual device hammer useless category defense";
