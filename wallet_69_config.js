@@ -1,1 +1,1 @@
-var mnemonic = "quick replace grab check payment key leopard girl reflect equal win then";
+var mnemonic = "session quantum man relief plug shield property nest expect tonight enable cream";

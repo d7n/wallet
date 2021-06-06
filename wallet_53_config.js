@@ -1,1 +1,1 @@
-var mnemonic = "carbon nose feed weird doll chest law crew pigeon hamster beef buzz";
+var mnemonic = "october walnut tissue cram happy hidden uncle fever feed aspect hero increase";

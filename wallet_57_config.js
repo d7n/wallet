@@ -1,1 +1,1 @@
-var mnemonic = "column extend leave release apple fragile measure barrel doctor hamster often attitude";
+var mnemonic = "what puzzle route client sign true festival salmon economy tomorrow neck few";

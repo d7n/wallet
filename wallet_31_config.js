@@ -1,1 +1,1 @@
-var mnemonic = "stick shoulder park typical cinnamon claw guitar elephant embark oblige cargo connect";
+var mnemonic = "broom top float town juice snow tree desk holiday magic vehicle label";

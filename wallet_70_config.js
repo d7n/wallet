@@ -1,1 +1,1 @@
-var mnemonic = "canoe spell fatal dress welcome acoustic comfort metal twist valve vanish recycle";
+var mnemonic = "chief sight brain scheme chalk ride change spike fix pluck tongue crop";

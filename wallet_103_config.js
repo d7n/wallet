@@ -1,1 +1,1 @@
-var mnemonic = "clinic hole border grocery trick final point soda spoon arch nephew hundred";
+var mnemonic = "dynamic design member empower coral prefer hat model tank talk jungle vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss grass wall lonely clinic once mimic boost truth visit obscure foil";
+var mnemonic = "employ judge armed disagree clay enlist fruit robot lottery smooth case critic";

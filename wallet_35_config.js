@@ -1,1 +1,1 @@
-var mnemonic = "visit infant soon radar sorry craft clip candy nice pass siren little";
+var mnemonic = "addict dust father matrix swift similar end bicycle tissue piece prevent east";

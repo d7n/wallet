@@ -1,1 +1,1 @@
-var mnemonic = "judge minute term treat student fitness weird clown riot dutch connect power";
+var mnemonic = "casino glow forum window hammer tunnel salt belt athlete tilt file skate";

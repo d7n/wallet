@@ -1,1 +1,1 @@
-var mnemonic = "build toddler olive fence twenty involve program raw over ugly blame praise";
+var mnemonic = "october ship clever rib animal couple brain sense deal inflict calm gate";

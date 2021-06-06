@@ -1,1 +1,1 @@
-var mnemonic = "wasp correct ethics vicious uphold blue odor address okay account tragic math";
+var mnemonic = "honey flush enough grace only weather picture dolphin pretty ripple police south";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate nest frown mind thought dizzy dilemma company pill physical area document";
+var mnemonic = "afraid cave company begin rebuild limit agree rural canal shallow together mask";

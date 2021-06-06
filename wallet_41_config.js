@@ -1,1 +1,1 @@
-var mnemonic = "blue empower tennis second receive couple final test south scale pelican soup";
+var mnemonic = "salute random into coral never useful nothing ribbon blouse young damp various";

@@ -1,1 +1,1 @@
-var mnemonic = "utility erupt assist mask walnut swarm lottery punch glove mask garment police";
+var mnemonic = "knife civil soup path crime injury orchard pet firm sight absent either";

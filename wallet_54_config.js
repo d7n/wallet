@@ -1,1 +1,1 @@
-var mnemonic = "ordinary select kitten strategy van pink resource olive volume awful plastic runway";
+var mnemonic = "clip scatter law crawl veteran that van short sing ship hire announce";

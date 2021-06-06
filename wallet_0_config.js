@@ -1,1 +1,1 @@
-var mnemonic = "tree van ethics palace toward tail story rapid topic truck match audit";
+var mnemonic = "truck wave old senior logic dinosaur gravity material build chase amused uncle";

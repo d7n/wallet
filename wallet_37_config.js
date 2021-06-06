@@ -1,1 +1,1 @@
-var mnemonic = "tattoo toast parade blur surprise wing library help magnet diesel find impact";
+var mnemonic = "erode company detect adult clever crime believe comic hint humor consider speak";

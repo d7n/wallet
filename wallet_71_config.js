@@ -1,1 +1,1 @@
-var mnemonic = "victory sort path ethics world abstract vintage weather believe exotic scatter direct";
+var mnemonic = "quit hood antique also regular figure inside thumb weapon defy level digital";

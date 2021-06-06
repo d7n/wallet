@@ -1,1 +1,1 @@
-var mnemonic = "torch ensure rescue acquire cargo mass rice pilot worth addict once future";
+var mnemonic = "inquiry essence spice green jungle zebra pond funny snake love frozen wash";

@@ -1,1 +1,1 @@
-var mnemonic = "creek moral acquire appear change spare crucial receive fat exclude worry fresh";
+var mnemonic = "run tortoise boil borrow link across endless special orchard salad pull vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "file smoke sound sleep scan rubber intact use caught fame tuition pitch";
+var mnemonic = "term dry pave turn cloth harvest kidney sand auto oblige already agent";

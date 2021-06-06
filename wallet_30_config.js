@@ -1,1 +1,1 @@
-var mnemonic = "produce update when answer panda welcome tide innocent wear visa can convince";
+var mnemonic = "couch bind scatter copy pass census finish venture august expire bicycle oblige";

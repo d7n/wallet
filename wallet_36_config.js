@@ -1,1 +1,1 @@
-var mnemonic = "orphan lend economy sea dust junior peasant donor dentist category coconut deputy";
+var mnemonic = "second claim ability embrace fringe cross van dish roast phone cloth tragic";

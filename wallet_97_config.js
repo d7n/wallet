@@ -1,1 +1,1 @@
-var mnemonic = "blind dove village double phone wheel label tongue feature connect quiz hedgehog";
+var mnemonic = "collect travel develop hip enter matter medal apart hammer mixture crisp core";

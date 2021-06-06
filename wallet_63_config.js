@@ -1,1 +1,1 @@
-var mnemonic = "enrich monitor foam jacket way warfare uniform dove strategy sword receive home";
+var mnemonic = "shed else author buffalo valid weather slow defy replace problem inherit defense";

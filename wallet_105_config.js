@@ -1,1 +1,1 @@
-var mnemonic = "prison wall portion gasp sheriff nuclear already crawl argue winner box cat";
+var mnemonic = "web celery coconut destroy lounge senior acoustic any urban erupt teach draft";

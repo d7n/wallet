@@ -1,1 +1,1 @@
-var mnemonic = "process obscure loan advice curve lumber angry doll series remain only wash";
+var mnemonic = "into trim brush rule order afford auto habit ankle hen exclude mass";

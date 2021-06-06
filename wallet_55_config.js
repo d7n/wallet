@@ -1,1 +1,1 @@
-var mnemonic = "either bean dawn dad isolate camera panther arrange lesson derive tuna improve";
+var mnemonic = "gasp similar museum slight clay interest recycle exist album kidney beyond grow";

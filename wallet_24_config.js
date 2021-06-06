@@ -1,1 +1,1 @@
-var mnemonic = "season silly purse index punch hurdle strike session six huge author style";
+var mnemonic = "find original swap world group describe become first income year arrange sauce";

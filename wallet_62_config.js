@@ -1,1 +1,1 @@
-var mnemonic = "interest skirt cross park budget know hire seminar gentle toast jacket soul";
+var mnemonic = "uncover wide mix armor enforce employ orange tomorrow ribbon absorb mirror surge";

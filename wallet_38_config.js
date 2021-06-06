@@ -1,1 +1,1 @@
-var mnemonic = "tray firm glare senior brick army label sudden useful ethics silly depend";
+var mnemonic = "another miracle pistol forum truck since fabric season safe pupil crush expire";

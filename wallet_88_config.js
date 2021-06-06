@@ -1,1 +1,1 @@
-var mnemonic = "average clown luxury orbit flash million olive area shy cousin leader ability";
+var mnemonic = "nut october palm cotton note famous help manual click timber buzz brave";

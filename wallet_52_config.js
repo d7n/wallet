@@ -1,1 +1,1 @@
-var mnemonic = "bike rival sunny index exchange peanut flush crop can pencil hour bacon";
+var mnemonic = "abuse zero funny law traffic retire remain toe glad kingdom oblige throw";

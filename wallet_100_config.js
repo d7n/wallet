@@ -1,1 +1,1 @@
-var mnemonic = "pond true pulp dream design tourist animal jar panic pole motor divert";
+var mnemonic = "budget business effort harsh height fade job debate shy caught open slow";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid bright girl cushion ship weird brown purity develop search rack rotate";
+var mnemonic = "atom kiss rural pause vast major home stamp rule wreck impulse cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce spin echo outdoor soul bus involve stumble either fiction crime year";
+var mnemonic = "law marine scan earn upon twelve cherry prize smart uphold fog control";

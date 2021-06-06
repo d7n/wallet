@@ -1,1 +1,1 @@
-var mnemonic = "novel divorce upper bacon idea burst orient myself father upon episode immense";
+var mnemonic = "table execute inject deputy weird salt drip trend paper city best address";

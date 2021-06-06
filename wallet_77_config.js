@@ -1,1 +1,1 @@
-var mnemonic = "aisle dream tuition energy casual mutual firm saddle return garbage rich direct";
+var mnemonic = "blanket load bargain other theory lab buzz pelican glimpse feed desk fatal";

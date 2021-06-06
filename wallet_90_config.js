@@ -1,1 +1,1 @@
-var mnemonic = "upgrade brand retreat shoot exhibit arrest shove hour sister fossil post just";
+var mnemonic = "virtual little monkey galaxy hold profit word elite notable excuse expose funny";

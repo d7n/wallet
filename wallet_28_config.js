@@ -1,1 +1,1 @@
-var mnemonic = "shoe neither dignity march opinion vessel clutch casino obtain report lunch lock";
+var mnemonic = "light magnet august crumble sense impose brush clean large acoustic coconut fine";

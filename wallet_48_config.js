@@ -1,1 +1,1 @@
-var mnemonic = "zebra rocket smooth alert behind above long avoid raccoon assault run certain";
+var mnemonic = "favorite join essay once south addict major athlete poverty write local piece";

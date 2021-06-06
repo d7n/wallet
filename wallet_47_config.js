@@ -1,1 +1,1 @@
-var mnemonic = "lizard siren afford gloom ozone approve source height avoid candy virus lesson";
+var mnemonic = "simple depart fetch office wisdom green tenant network address stock poet lawn";

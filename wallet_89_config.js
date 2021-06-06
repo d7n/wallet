@@ -1,1 +1,1 @@
-var mnemonic = "hero laundry time electric suffer swarm friend side electric clean detail clutch";
+var mnemonic = "claw bubble kiss open ask secret senior business hill feel wolf bless";

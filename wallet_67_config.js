@@ -1,1 +1,1 @@
-var mnemonic = "reveal acoustic utility wrestle unknown brother creek vast decorate clay sleep convince";
+var mnemonic = "enforce brush income dragon demise enroll antenna useless usage camera punch offer";

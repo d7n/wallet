@@ -1,1 +1,1 @@
-var mnemonic = "slow fog young endless globe spirit dentist roast exhaust spider ankle side";
+var mnemonic = "improve glory twice awake adapt prize jelly ancient main mouse cost blouse";

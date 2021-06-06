@@ -1,1 +1,1 @@
-var mnemonic = "negative day rescue acoustic able journey change job jump top wheel funny";
+var mnemonic = "sail before wire below away lake kid harvest chronic round proof keen";

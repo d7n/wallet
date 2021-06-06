@@ -1,1 +1,1 @@
-var mnemonic = "surprise volcano witness saddle neglect pelican caution tail scorpion mountain angle nasty";
+var mnemonic = "odor goat steel ship antenna reform crunch cactus light entire doctor post";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon already high cherry trial degree mom law eager flame junk survey";
+var mnemonic = "switch unfold movie dragon gym write wise shoe blouse remind frame attend";

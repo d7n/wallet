@@ -1,1 +1,1 @@
-var mnemonic = "unique used example universe silly ketchup harbor able raccoon chaos appear fire";
+var mnemonic = "peanut rail inject illegal play frequent oak film call flower street obvious";

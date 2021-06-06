@@ -1,1 +1,1 @@
-var mnemonic = "ostrich square dry dragon enemy moral size tomorrow cliff satoshi favorite sustain";
+var mnemonic = "cause crack keep ghost limb sport fix dish enough soap faith coral";

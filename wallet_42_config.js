@@ -1,1 +1,1 @@
-var mnemonic = "movie celery elder citizen supply capable divide maple connect nuclear tray infant";
+var mnemonic = "quantum notice hill spawn innocent flash moral coyote decide million quit other";

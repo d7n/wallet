@@ -1,1 +1,1 @@
-var mnemonic = "story spend insane same flower access modify drama library sting mercy kick";
+var mnemonic = "gauge anxiety thing hero all pride public caution garden educate punch dwarf";

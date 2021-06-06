@@ -1,1 +1,1 @@
-var mnemonic = "marriage reform undo arch size cup lend leaf tennis cable room rapid";
+var mnemonic = "bomb impulse ski avoid airport steel night convince question only start bag";

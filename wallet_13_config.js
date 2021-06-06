@@ -1,1 +1,1 @@
-var mnemonic = "potato miss asthma thank when eagle hockey diesel leisure upper suit vicious";
+var mnemonic = "reward deputy seed sign toast parade amused embody jungle toddler soap report";

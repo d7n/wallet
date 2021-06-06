@@ -1,1 +1,1 @@
-var mnemonic = "car artefact license robust penalty tourist earn reopen pluck prevent enable ill";
+var mnemonic = "script usual panda later language lawn wrong obvious apart maple exhibit style";

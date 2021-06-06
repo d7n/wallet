@@ -1,1 +1,1 @@
-var mnemonic = "stairs cram relax enact equip busy fault annual thing mass ecology now";
+var mnemonic = "utility arrive master steel mother rate poet stay just angry mind boss";

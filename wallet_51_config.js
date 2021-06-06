@@ -1,1 +1,1 @@
-var mnemonic = "check they skull usual recycle level diet enroll sure stadium spin fantasy";
+var mnemonic = "unlock envelope popular canvas trust text search can area salute off rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "thank conduct guide never clean stumble menu soap mammal away idle twelve";
+var mnemonic = "become speak laundry taste advance hawk together pill noodle march boring echo";

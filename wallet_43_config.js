@@ -1,1 +1,1 @@
-var mnemonic = "zero else mixed toward cover antenna chef scorpion helmet animal wife small";
+var mnemonic = "combine horse tunnel vacuum breeze make wild athlete trophy celery select load";

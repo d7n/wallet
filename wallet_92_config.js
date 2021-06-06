@@ -1,1 +1,1 @@
-var mnemonic = "end slide trophy purpose afford icon universe easily salt fee picture record";
+var mnemonic = "fun keen script differ door seat carpet opera spring already found atom";

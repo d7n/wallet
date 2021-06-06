@@ -1,1 +1,1 @@
-var mnemonic = "ensure erosion crane consider dune law argue fiber motion hurdle drop oppose";
+var mnemonic = "planet half kit public license giggle rebel arrange casino stove wall abstract";

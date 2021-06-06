@@ -1,1 +1,1 @@
-var mnemonic = "enemy mouse trick device advice gun reject old journey young sense cherry";
+var mnemonic = "hurt puppy gentle indoor spy over degree attack skull cage patient series";

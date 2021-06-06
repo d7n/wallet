@@ -1,1 +1,1 @@
-var mnemonic = "frog visit emerge sign stomach dwarf spoon whisper comic drum reduce camera";
+var mnemonic = "pepper few arm blue orbit lesson melt warfare public room family fee";

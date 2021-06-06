@@ -1,1 +1,1 @@
-var mnemonic = "surround rely combine design own vehicle resemble size kitten neutral ticket mutual";
+var mnemonic = "alley hero interest canyon protect limit steel poet flight spend column monkey";

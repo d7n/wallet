@@ -1,1 +1,1 @@
-var mnemonic = "mean garbage apart cook fish milk skill scan adjust design bar game";
+var mnemonic = "forward urban inch style health grow cabin best web mixture dress patch";

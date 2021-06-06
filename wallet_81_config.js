@@ -1,1 +1,1 @@
-var mnemonic = "design about soon day best oak sting lunar loud pool kitten shove";
+var mnemonic = "century energy blanket emotion fantasy upon urge critic time exit gift you";

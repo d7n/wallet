@@ -1,1 +1,1 @@
-var mnemonic = "output deny enlist expect nasty reunion icon powder coil shoulder enact bean";
+var mnemonic = "expire cricket stereo artefact conduct attack scale fringe fault abandon scale stand";

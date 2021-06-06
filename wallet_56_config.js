@@ -1,1 +1,1 @@
-var mnemonic = "sausage tent toy rapid fee shiver pause tonight denial supreme fiber tone";
+var mnemonic = "angry photo assist hundred stairs awesome daring fog forum bomb evoke leisure";

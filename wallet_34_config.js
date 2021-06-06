@@ -1,1 +1,1 @@
-var mnemonic = "there exact license citizen craft curious exit reflect miracle security piece gown";
+var mnemonic = "season help mushroom cannon table alter kingdom bullet fault common canvas balance";

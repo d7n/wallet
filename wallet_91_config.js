@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin boy kind traffic trade enter aim lawsuit robot alpha risk lend";
+var mnemonic = "vital evoke fall alter science eagle egg inject forget hundred hotel fog";

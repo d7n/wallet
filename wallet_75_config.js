@@ -1,1 +1,1 @@
-var mnemonic = "gentle spread talk anchor retire mix century essence course live helmet gift";
+var mnemonic = "butter rich senior festival submit cradle mouse more regret leader gentle intact";

@@ -1,1 +1,1 @@
-var mnemonic = "card ring ethics melody near movie upon obscure depth liar magnet salad";
+var mnemonic = "climb fossil verb host bind orphan observe claim apology corn eagle lake";

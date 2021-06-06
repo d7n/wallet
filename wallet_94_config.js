@@ -1,1 +1,1 @@
-var mnemonic = "omit gift risk luxury spin coconut rebuild sign broom drift media sphere";
+var mnemonic = "armed oxygen can fork culture fee insect flag stumble black cloud raccoon";

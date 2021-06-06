@@ -1,1 +1,1 @@
-var mnemonic = "dismiss library boost simple bundle purity pluck ridge waste soap draw stone";
+var mnemonic = "episode reform choose very memory comfort average game devote desk shaft wise";

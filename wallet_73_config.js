@@ -1,1 +1,1 @@
-var mnemonic = "gaze rigid merit patient system horn net bullet note wink sheriff festival";
+var mnemonic = "shy head novel hint attract stuff drift nerve pill order olive equal";

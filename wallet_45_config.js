@@ -1,1 +1,1 @@
-var mnemonic = "bottom direct song frown endless stamp minute valley fresh test baby topple";
+var mnemonic = "elite version other unlock universe hair payment dove box quick alert run";

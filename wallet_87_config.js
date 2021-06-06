@@ -1,1 +1,1 @@
-var mnemonic = "explain zebra sport slot today fluid vacuum deliver reward key wire local";
+var mnemonic = "crater transfer pond news panda gossip turkey strategy wink lab couch supreme";

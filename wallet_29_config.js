@@ -1,1 +1,1 @@
-var mnemonic = "damp puppy example one six garbage risk exhaust battle foster learn lawsuit";
+var mnemonic = "space affair evoke primary skill alarm second false neutral cruel end purity";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud tongue want wife priority turtle grit love whisper public chunk crawl";
+var mnemonic = "skate car smile merge push pony feature blood science lend burden narrow";

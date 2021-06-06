@@ -1,1 +1,1 @@
-var mnemonic = "tilt surface casino farm burger hint thing churn fuel lonely payment prize";
+var mnemonic = "group filter cover enable metal flush battle message main where initial soldier";

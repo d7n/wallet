@@ -1,1 +1,1 @@
-var mnemonic = "twin lamp guard access random glad pig fossil inner noise devote year";
+var mnemonic = "cherry orient match thank dash mobile seven limb south tumble favorite stadium";

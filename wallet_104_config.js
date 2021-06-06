@@ -1,1 +1,1 @@
-var mnemonic = "scrap unique unlock enemy camp smile toy supply say decrease analyst narrow";
+var mnemonic = "track main wealth abandon latin muscle tuna document crouch update wool trade";

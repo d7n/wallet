@@ -1,1 +1,1 @@
-var mnemonic = "floor scene sand art cluster prepare garbage stem fat long stairs urge";
+var mnemonic = "cloud cactus heart giraffe check sight genre produce update loyal prison card";

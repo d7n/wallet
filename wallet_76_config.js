@@ -1,1 +1,1 @@
-var mnemonic = "market hazard hurry invest lamp loyal meadow jungle web dust toe legend";
+var mnemonic = "few snack morning junior aware woman lab blast clap agree quick glue";

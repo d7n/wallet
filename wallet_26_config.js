@@ -1,1 +1,1 @@
-var mnemonic = "hood law when say test disease kite edge expect exotic can rigid";
+var mnemonic = "cost surprise embody snake tissue shuffle blade general favorite arrive able mercy";

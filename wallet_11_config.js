@@ -1,1 +1,1 @@
-var mnemonic = "current effort hover mixed child input table double unaware frame believe alert";
+var mnemonic = "laptop swear draw amazing liar silver mesh charge pumpkin bag sign early";

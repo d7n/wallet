@@ -1,1 +1,1 @@
-var mnemonic = "deposit kitten kangaroo april atom announce beef lumber earn together violin strike";
+var mnemonic = "group decorate sweet detail butter tiger obtain hub message enjoy nut ritual";

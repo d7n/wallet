@@ -1,1 +1,1 @@
-var mnemonic = "cradle hat notice economy usage famous illness moon bright fun tribe course";
+var mnemonic = "deputy together evolve hand nation rural level link cradle message focus erase";

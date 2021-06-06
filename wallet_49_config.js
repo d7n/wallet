@@ -1,1 +1,1 @@
-var mnemonic = "kid wagon boost prevent explain tent inform street social color addict drink";
+var mnemonic = "lecture disagree enough critic process smile timber original power motion pass rival";

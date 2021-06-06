@@ -1,1 +1,1 @@
-var mnemonic = "young enrich sleep normal type select tonight okay meadow wolf ribbon worry";
+var mnemonic = "jacket absorb raven engine safe inspire sure rose still lake spawn lunar";

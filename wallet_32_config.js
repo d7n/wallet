@@ -1,1 +1,1 @@
-var mnemonic = "empower february donate foster boring robot vapor pull spawn decade pattern world";
+var mnemonic = "novel coconut awful miracle fever almost mango laugh where path stone frown";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow buffalo cloth ride cloth come assault magic hole silk six enlist";
+var mnemonic = "sniff hope phone melt cry evidence hello bulb fringe title creek peace";

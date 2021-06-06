@@ -1,1 +1,1 @@
-var mnemonic = "exit believe wood holiday subject seat catch lion change young field about";
+var mnemonic = "position gravity audit prevent police myself elevator first oppose flock final miss";

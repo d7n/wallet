@@ -1,1 +1,1 @@
-var mnemonic = "stock novel print where jump sand damage sunset cushion hybrid side language";
+var mnemonic = "smooth zebra net modify weird claw develop unhappy order path orange sand";

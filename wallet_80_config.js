@@ -1,1 +1,1 @@
-var mnemonic = "bargain utility assault deer time measure wine route answer damp top trip";
+var mnemonic = "cake reason exile oxygen agent reopen blur liar shop best mail lecture";

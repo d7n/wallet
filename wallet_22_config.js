@@ -1,1 +1,1 @@
-var mnemonic = "surface puzzle parrot health bitter wall raise top minimum found arctic north";
+var mnemonic = "logic buyer describe clever clinic boy violin click path ramp venue fashion";

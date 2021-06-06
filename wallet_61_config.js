@@ -1,1 +1,1 @@
-var mnemonic = "sausage visa song patient boss van differ eyebrow act trumpet hole manual";
+var mnemonic = "cushion decide bring found second bundle reunion three trim business senior hand";
