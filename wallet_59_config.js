@@ -1,1 +1,1 @@
-var mnemonic = "oval appear about mad join return rate fence mansion lens strategy three";
+var mnemonic = "pair cancel used sustain eagle burger fever grid artwork prosper veteran glass";

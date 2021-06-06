@@ -1,1 +1,1 @@
-var mnemonic = "fatigue select senior street harbor scrub sweet barrel absurd gold alone human";
+var mnemonic = "icon response twelve arm load marine drift body park blood lend please";

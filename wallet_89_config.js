@@ -1,1 +1,1 @@
-var mnemonic = "famous flame world harbor birth route elephant onion soda rocket okay square";
+var mnemonic = "slow rule degree inner shift faint almost private arrest skin crop mechanic";

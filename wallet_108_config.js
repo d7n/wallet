@@ -1,1 +1,1 @@
-var mnemonic = "luggage injury coyote lake glue dose fiber wild device goose iron jazz";
+var mnemonic = "arena any try regret luxury present hunt yard deliver oven tired stove";

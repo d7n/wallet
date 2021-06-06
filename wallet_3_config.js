@@ -1,1 +1,1 @@
-var mnemonic = "rebuild elite reward much maple aware desert basket category burger father afraid";
+var mnemonic = "valid twist bike remain quit decline proud layer awake denial consider slight";

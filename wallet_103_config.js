@@ -1,1 +1,1 @@
-var mnemonic = "skin elder item lift math tell march elephant cinnamon tower cactus depart";
+var mnemonic = "horror cancel credit visa giant task gown address luggage bonus unit broom";

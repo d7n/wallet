@@ -1,1 +1,1 @@
-var mnemonic = "fit inflict thunder priority seed cram exchange scrap rude radio unlock again";
+var mnemonic = "suffer shrimp twin battle rate snap seed certain aerobic law stem wreck";

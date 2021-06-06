@@ -1,1 +1,1 @@
-var mnemonic = "eye false shiver rifle jar century kid lawn airport strike situate tape";
+var mnemonic = "swap circle patient night unhappy wisdom learn squeeze bid canal window crawl";

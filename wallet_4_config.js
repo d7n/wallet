@@ -1,1 +1,1 @@
-var mnemonic = "drop pride pyramid super heart copy truly walnut ripple long upper bitter";
+var mnemonic = "enjoy dance forward yellow typical twice gift believe praise dad surround rough";

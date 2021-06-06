@@ -1,1 +1,1 @@
-var mnemonic = "canyon warrior yellow people demand pole vast believe present focus blast trick";
+var mnemonic = "loyal stay galaxy helmet inmate define youth supply unfold kitchen endless eagle";

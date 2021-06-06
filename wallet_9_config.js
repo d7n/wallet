@@ -1,1 +1,1 @@
-var mnemonic = "lava hazard possible patrol photo advice winter control opera turn volcano salute";
+var mnemonic = "rotate lyrics relax staff ride swing into mansion moon torch foot add";

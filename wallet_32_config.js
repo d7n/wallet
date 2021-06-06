@@ -1,1 +1,1 @@
-var mnemonic = "dial lawn solid oak regret bottom humor coil melt monkey brand fame";
+var mnemonic = "honey patient inhale oil will expand concert media proud wear once absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid burst install hero memory street pitch huge punch curve quote develop";
+var mnemonic = "elevator rival fit smooth virus fix breeze hedgehog melody fantasy tip cupboard";

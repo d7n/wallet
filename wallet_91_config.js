@@ -1,1 +1,1 @@
-var mnemonic = "regret rival borrow arrow swift dentist hip top knock high soup metal";
+var mnemonic = "gadget worth second minute dad team stove reveal sphere next goose dad";

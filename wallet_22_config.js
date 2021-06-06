@@ -1,1 +1,1 @@
-var mnemonic = "burger must half can because winter invite invest obvious blood brief mix";
+var mnemonic = "swim copy liquid ice leopard glad potato patient stay plate fix confirm";

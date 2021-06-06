@@ -1,1 +1,1 @@
-var mnemonic = "own cargo tornado attend pause kind narrow bus marriage era lemon script";
+var mnemonic = "web fox extra leg buddy blouse slogan icon begin problem lift today";

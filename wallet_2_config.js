@@ -1,1 +1,1 @@
-var mnemonic = "test course off fruit across result sauce strong enough great strong purity";
+var mnemonic = "search where depth diamond cause surprise daring marine spot pulp later wide";

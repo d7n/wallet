@@ -1,1 +1,1 @@
-var mnemonic = "promote captain glide wrong card page question viable gorilla truth wheel load";
+var mnemonic = "thing double buzz around tornado merry very turtle charge asset pistol charge";

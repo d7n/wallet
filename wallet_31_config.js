@@ -1,1 +1,1 @@
-var mnemonic = "tonight traffic country grass dilemma shoulder soldier favorite boring pony mask length";
+var mnemonic = "twenty subject infant long happy feel pole jungle piece client cliff erode";

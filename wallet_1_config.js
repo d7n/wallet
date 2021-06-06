@@ -1,1 +1,1 @@
-var mnemonic = "wet chunk foot foil use entire ticket feed vast crumble army shove";
+var mnemonic = "brother gallery dinner great chief note twelve cross nephew firm panel fruit";

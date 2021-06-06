@@ -1,1 +1,1 @@
-var mnemonic = "castle river mushroom fence doctor december bridge wear rubber barely rival unhappy";
+var mnemonic = "east trouble attack nerve comic thought brother repair space limb pear ugly";

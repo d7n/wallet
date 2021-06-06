@@ -1,1 +1,1 @@
-var mnemonic = "elevator prosper supreme shrug punch version option mushroom embrace knife lizard minor";
+var mnemonic = "present gun odor quote hip foil puzzle indoor acid jungle silver elegant";

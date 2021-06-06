@@ -1,1 +1,1 @@
-var mnemonic = "aspect theory snake fluid shallow nothing process small cherry truth hello tumble";
+var mnemonic = "girl tribe desk place chalk bottom weird novel copy kick lobster shell";

@@ -1,1 +1,1 @@
-var mnemonic = "assume glide erode nature share chunk leg claim olive venue innocent diesel";
+var mnemonic = "bracket hire profit distance rice toddler receive enforce right ethics cost profit";

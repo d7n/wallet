@@ -1,1 +1,1 @@
-var mnemonic = "august immense border fame effort stairs poem grid draft scheme abandon secret";
+var mnemonic = "another metal dinosaur nice fury great exchange health cry slam quantum corn";

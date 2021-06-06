@@ -1,1 +1,1 @@
-var mnemonic = "profit direct demand behave since ball detect lemon wrap drift brown machine";
+var mnemonic = "cigar wheel unaware alarm swamp sustain pulse priority wear arctic cheese alter";

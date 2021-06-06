@@ -1,1 +1,1 @@
-var mnemonic = "trophy dumb copy group fury barrel celery humble soda hundred regular gate";
+var mnemonic = "pulse ripple catalog maid range achieve remain clarify sadness day marine elephant";

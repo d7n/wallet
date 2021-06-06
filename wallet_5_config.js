@@ -1,1 +1,1 @@
-var mnemonic = "burden ribbon sweet snow wish six puppy math weather hammer clap resemble";
+var mnemonic = "number lizard gate shoot input close benefit popular diagram bleak retire force";

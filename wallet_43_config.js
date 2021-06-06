@@ -1,1 +1,1 @@
-var mnemonic = "large quarter mom night lend laugh hood flock smile warfare drop balance";
+var mnemonic = "series certain claw fly mercy uncle skate sponsor can boil stand better";

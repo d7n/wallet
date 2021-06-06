@@ -1,1 +1,1 @@
-var mnemonic = "grid upon turtle enter weasel squeeze earth dumb execute among fish crisp";
+var mnemonic = "spy keen brick crazy skin digital valid cheap place across blind check";

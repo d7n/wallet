@@ -1,1 +1,1 @@
-var mnemonic = "sphere moment marble test myself artist weather argue chapter horn stay auction";
+var mnemonic = "secret clever home marriage breeze velvet ridge joy manual thrive gather client";

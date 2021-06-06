@@ -1,1 +1,1 @@
-var mnemonic = "odor disagree parade phone column ice trust stumble wheat first wink able";
+var mnemonic = "govern rebuild other elite cancel owner deal general stairs deer cousin rug";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp poverty problem sibling vibrant tennis cloud increase unfold void seminar lazy";
+var mnemonic = "flight february future patch become mango demand bird sponsor amount camp brave";

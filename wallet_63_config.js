@@ -1,1 +1,1 @@
-var mnemonic = "symbol stamp humor comic charge left patient rib basket humble example control";
+var mnemonic = "click spirit crumble nominee convince celery service canvas carpet insect right quit";

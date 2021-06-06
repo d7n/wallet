@@ -1,1 +1,1 @@
-var mnemonic = "month pledge track garage shoulder hazard disease wood sentence enlist walk second";
+var mnemonic = "rare infant fix process ship fiscal square climb smooth buzz typical episode";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol casino budget route toe exclude radio leg diagram stumble silent oppose";
+var mnemonic = "convince that banner exclude mail leisure miracle orbit tag reopen guilt heart";

@@ -1,1 +1,1 @@
-var mnemonic = "torch general coach coach issue comfort clip flee surprise connect fine spray";
+var mnemonic = "receive sun gloom between kind surround security deal pond flat wealth actor";

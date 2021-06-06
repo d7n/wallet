@@ -1,1 +1,1 @@
-var mnemonic = "chair vendor wait paper two fence captain fetch soda fashion business already";
+var mnemonic = "spoon viable west frozen gentle this scout uncle coil inside ill across";

@@ -1,1 +1,1 @@
-var mnemonic = "exact usage charge thought powder begin raven young goat garment swing mean";
+var mnemonic = "ceiling emerge convince dish lecture modify burden silk nephew crime dentist method";

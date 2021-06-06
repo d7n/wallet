@@ -1,1 +1,1 @@
-var mnemonic = "follow adult one awake mixed monster about arch find acquire flavor hint";
+var mnemonic = "can jazz gravity auto wear shell sketch devote acid club galaxy claim";

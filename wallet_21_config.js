@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog child scout flush release enhance south away foot wear display cluster";
+var mnemonic = "bacon shift moment essay hungry funny latin version vast corn job apology";

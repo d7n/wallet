@@ -1,1 +1,1 @@
-var mnemonic = "then leg become mimic public text affair bus fitness chat shed option";
+var mnemonic = "assault disorder believe pottery busy story install help ordinary annual mushroom approve";

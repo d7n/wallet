@@ -1,1 +1,1 @@
-var mnemonic = "gorilla flock ranch upgrade leave coil ill mistake veteran smile peasant ice";
+var mnemonic = "broom stock course almost glimpse rain release rice exclude merry hurdle bicycle";

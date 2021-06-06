@@ -1,1 +1,1 @@
-var mnemonic = "sound conduct kitten bottom indoor drive vague obvious impose truck lucky panther";
+var mnemonic = "giraffe profit educate bargain bean donor about wear brave upgrade remember carpet";

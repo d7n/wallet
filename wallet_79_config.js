@@ -1,1 +1,1 @@
-var mnemonic = "party risk gesture space inquiry duty deny approve oyster riot drive near";
+var mnemonic = "treat sunny shed ocean lazy child expand arch spirit inner chalk silver";

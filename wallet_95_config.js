@@ -1,1 +1,1 @@
-var mnemonic = "tube plunge rare nurse axis develop sorry decrease fringe copper eye acoustic";
+var mnemonic = "vehicle hammer piano bundle gadget regular general double antenna provide member rice";

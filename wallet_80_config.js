@@ -1,1 +1,1 @@
-var mnemonic = "jazz rhythm will stumble pudding magnet plastic guess pair cave chapter fashion";
+var mnemonic = "carbon drum tiger gun offer winter company minor valid senior uncover current";

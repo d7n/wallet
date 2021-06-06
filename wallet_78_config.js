@@ -1,1 +1,1 @@
-var mnemonic = "priority crystal drama cost gesture sadness stem debris inspire output horn ghost";
+var mnemonic = "avoid express gun control okay enlist sword retire sadness cake method grain";

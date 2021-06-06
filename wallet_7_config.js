@@ -1,1 +1,1 @@
-var mnemonic = "action venture athlete pear gauge custom permit battle eager spare together roof";
+var mnemonic = "science cable animal cup ocean demand indicate east blur gospel rescue toward";

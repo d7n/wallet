@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lumber dream hard skate void glad upper force dinosaur rebel canyon";
+var mnemonic = "bid system never enlist region surge wear squeeze region alarm eager distance";

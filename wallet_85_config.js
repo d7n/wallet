@@ -1,1 +1,1 @@
-var mnemonic = "purse portion purse match machine bench grab never cheese goddess abandon carpet";
+var mnemonic = "hotel horror leopard old tell edge dutch crater novel card pool strike";

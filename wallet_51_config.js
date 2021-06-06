@@ -1,1 +1,1 @@
-var mnemonic = "man orange mammal dirt agent find ocean planet alien license roast ahead";
+var mnemonic = "broom biology glory gentle spoon truth define fresh country sudden buffalo damage";

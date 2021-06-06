@@ -1,1 +1,1 @@
-var mnemonic = "narrow runway hole miracle kitchen heart veteran lunar whisper laptop abstract diesel";
+var mnemonic = "economy write extend crumble patch turn suspect delay require curious apology refuse";

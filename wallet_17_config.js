@@ -1,1 +1,1 @@
-var mnemonic = "solid rhythm taxi rough banana job token anchor crack crisp bean dune";
+var mnemonic = "buyer tumble true spice ginger system denial outer spawn drink enjoy canal";

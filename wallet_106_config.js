@@ -1,1 +1,1 @@
-var mnemonic = "wisdom dragon pool unit spider easy diesel misery drop forget test enroll";
+var mnemonic = "goat shaft subject tonight code faculty sound plug cupboard captain dice exhaust";

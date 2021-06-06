@@ -1,1 +1,1 @@
-var mnemonic = "can hour art one floor athlete moon match leopard frozen concert little";
+var mnemonic = "plug general stem sort maximum since first lens margin february void raw";

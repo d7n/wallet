@@ -1,1 +1,1 @@
-var mnemonic = "arm bounce dizzy remain buffalo chair blame gallery phone possible reunion interest";
+var mnemonic = "crunch plunge summer thing second approve learn cage accuse lawsuit quote base";

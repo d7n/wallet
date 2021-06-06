@@ -1,1 +1,1 @@
-var mnemonic = "whip garden ritual brand document surface give kite ride symbol trial equip";
+var mnemonic = "spray wine galaxy resemble gift plate live churn muffin rival strong essay";

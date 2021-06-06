@@ -1,1 +1,1 @@
-var mnemonic = "deputy soap account topic village abstract arrive mandate echo reunion modify egg";
+var mnemonic = "drive caution subject label bargain path tank divide permit scout suggest episode";

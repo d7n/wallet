@@ -1,1 +1,1 @@
-var mnemonic = "trip entry weather harbor language reunion million swap scout tape valve narrow";
+var mnemonic = "laugh seminar reward tiger buffalo fade silk flower clarify lake inside iron";

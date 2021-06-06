@@ -1,1 +1,1 @@
-var mnemonic = "phrase canvas dose razor rifle sudden fuel bachelor control speed humble put";
+var mnemonic = "crumble arctic oak cave inject blade marriage cement embody crane where wedding";

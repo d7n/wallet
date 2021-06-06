@@ -1,1 +1,1 @@
-var mnemonic = "glory idea attitude lawsuit shop cannon net crew conduct certain party club";
+var mnemonic = "melt silent royal fly wrist crisp decorate ripple drastic distance surround combine";

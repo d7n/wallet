@@ -1,1 +1,1 @@
-var mnemonic = "display myself milk force drift release jewel suggest dilemma prison unfair hub";
+var mnemonic = "curtain account joy annual that first key dream shaft rescue tape giraffe";

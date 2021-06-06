@@ -1,1 +1,1 @@
-var mnemonic = "wealth media flight object twelve best draft adjust labor crisp ugly siren";
+var mnemonic = "divorce brother distance nurse diagram punch figure series feed mirror embrace below";

@@ -1,1 +1,1 @@
-var mnemonic = "general glance puppy armed memory must north bargain burst foil drip usage";
+var mnemonic = "husband apart robot detect fatigue pitch spare ghost vocal moon exact blue";

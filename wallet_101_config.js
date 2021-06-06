@@ -1,1 +1,1 @@
-var mnemonic = "leader awful audit fringe upper become blood follow rail can inside twice";
+var mnemonic = "ivory pen link organ stand vocal mix concert urban enlist limb trumpet";

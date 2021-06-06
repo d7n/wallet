@@ -1,1 +1,1 @@
-var mnemonic = "blanket demand box great punch rose organ mixed column collect lens aware";
+var mnemonic = "thunder gravity minute figure bone taste oyster sort guitar word supply physical";

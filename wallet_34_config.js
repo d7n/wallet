@@ -1,1 +1,1 @@
-var mnemonic = "identify step unique vibrant outdoor about message tunnel double glow ahead curtain";
+var mnemonic = "accuse special clay pepper remind end slow vital orchard dinner sauce horn";

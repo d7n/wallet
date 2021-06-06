@@ -1,1 +1,1 @@
-var mnemonic = "quick lunar rival cheap auto grunt room wheat crater admit twin resource";
+var mnemonic = "reform crazy reduce fiber whale horror lottery select celery either oxygen off";

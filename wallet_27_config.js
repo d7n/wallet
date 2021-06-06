@@ -1,1 +1,1 @@
-var mnemonic = "symbol garbage swarm jelly flower silver tag glove climb busy museum indoor";
+var mnemonic = "acquire blush baby food wink caught make ginger half runway quiz denial";

@@ -1,1 +1,1 @@
-var mnemonic = "track increase cat endorse clay split unveil since say school salad cross";
+var mnemonic = "spoon tonight develop maple treat carpet strategy ketchup dry want limit taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "check illness smooth doctor busy ski notice pig lake leisure casino cook";
+var mnemonic = "story floor early resemble item sadness side desk horse bracket dose fish";

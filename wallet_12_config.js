@@ -1,1 +1,1 @@
-var mnemonic = "bulk wisdom zone barely spread tackle speed ocean great wide bread luxury";
+var mnemonic = "again post clock assist scare cargo simple exile camp move enroll upon";

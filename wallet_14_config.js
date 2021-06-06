@@ -1,1 +1,1 @@
-var mnemonic = "company harsh bitter bright jungle above wash track develop melt alarm build";
+var mnemonic = "park coach load axis seek badge pumpkin connect dance alone eyebrow love";

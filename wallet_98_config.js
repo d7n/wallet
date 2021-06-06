@@ -1,1 +1,1 @@
-var mnemonic = "rival sunny spike captain spray flavor wish creek remove few tongue clever";
+var mnemonic = "thing fish involve kitten horror coast void cost slam cotton weapon trophy";

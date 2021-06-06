@@ -1,1 +1,1 @@
-var mnemonic = "air able grab umbrella return habit blade fever piece gauge fabric old";
+var mnemonic = "faith rough six uncle lens around liquid apology fiscal sign bubble visa";

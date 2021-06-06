@@ -1,1 +1,1 @@
-var mnemonic = "bronze shrug street twenty reward actual gauge salute another smile chuckle alley";
+var mnemonic = "motor food uncle odor fee shell kick giraffe slot regret matrix chief";

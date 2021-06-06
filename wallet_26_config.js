@@ -1,1 +1,1 @@
-var mnemonic = "wolf define gasp charge pole vehicle acoustic cheap giraffe enrich power thrive";
+var mnemonic = "doll great time bright arm enrich blast legend memory guitar toy program";

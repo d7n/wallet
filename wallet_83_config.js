@@ -1,1 +1,1 @@
-var mnemonic = "lonely morning traffic benefit crawl diamond eternal arrive enrich day tomato give";
+var mnemonic = "avocado chunk divide achieve pattern fold parent belt item pen apology enrich";

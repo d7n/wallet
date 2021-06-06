@@ -1,1 +1,1 @@
-var mnemonic = "online minor upper copy tent clinic copy damp inherit impose gorilla equal";
+var mnemonic = "unique screen brush kind runway skirt rival cheap glory sleep chaos churn";

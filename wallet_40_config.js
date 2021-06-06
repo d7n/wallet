@@ -1,1 +1,1 @@
-var mnemonic = "stay few level tackle sell zebra title sight network evidence boil blur";
+var mnemonic = "chaos ring visit sail response canvas ice region escape marble manual pond";

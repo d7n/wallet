@@ -1,1 +1,1 @@
-var mnemonic = "pony shield baby lamp ice false olive inmate venture local library pipe";
+var mnemonic = "buyer detect catalog change then dust link course all laugh bracket token";

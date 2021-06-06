@@ -1,1 +1,1 @@
-var mnemonic = "scare still ready dust kite evidence trophy chair glance spy hint twice";
+var mnemonic = "garment order city all hint budget calm crater chunk earth ladder exchange";

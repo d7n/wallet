@@ -1,1 +1,1 @@
-var mnemonic = "window organ test panic warm receive spirit candy sheriff toy arrest length";
+var mnemonic = "arch muscle float south thumb together recall garment brave soul snake zero";

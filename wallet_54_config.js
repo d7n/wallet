@@ -1,1 +1,1 @@
-var mnemonic = "promote crater inhale leopard truth engine can caution truly pudding dog execute";
+var mnemonic = "already inmate retreat vicious key entry vintage flame salad orphan bachelor ritual";

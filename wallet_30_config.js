@@ -1,1 +1,1 @@
-var mnemonic = "heart fog wall repeat wide slam vacant lemon usual record hospital mango";
+var mnemonic = "around example fuel hazard put deal term delay until road runway trigger";

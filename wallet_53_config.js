@@ -1,1 +1,1 @@
-var mnemonic = "pink water smooth surface page sign street injury voice honey rack wood";
+var mnemonic = "ranch apart same merry balcony sniff depth aunt glove tilt adjust transfer";

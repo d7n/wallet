@@ -1,1 +1,1 @@
-var mnemonic = "innocent anxiety collect kick horror inmate hobby seek can rain spring forward";
+var mnemonic = "ribbon buddy vivid pact patrol settle hard depart pottery vendor scout effort";

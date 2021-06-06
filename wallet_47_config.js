@@ -1,1 +1,1 @@
-var mnemonic = "snake april caught renew post luggage claw orange biology novel million key";
+var mnemonic = "legal wisdom sing lend fringe afraid liberty toss lyrics outer disagree zero";

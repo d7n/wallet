@@ -1,1 +1,1 @@
-var mnemonic = "turkey donate income explain orchard glad ribbon sick ride double vocal claw";
+var mnemonic = "dentist unfair depend hold else street burden try narrow crouch diet must";

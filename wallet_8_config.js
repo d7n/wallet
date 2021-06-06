@@ -1,1 +1,1 @@
-var mnemonic = "quote stone course clap old feed crime this elder conduct donor mask";
+var mnemonic = "fiber labor wrestle pony wasp genre surround parent fun state jar essay";
