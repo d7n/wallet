@@ -1,1 +1,1 @@
-var mnemonic = "exercise clever genuine nephew library pipe number ranch thrive sort resist gun";
+var mnemonic = "multiply essay inch skull laptop amount lucky simple novel trim pelican wedding";

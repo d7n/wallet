@@ -1,1 +1,1 @@
-var mnemonic = "permit cross reflect very normal casino used turn film furnace reveal leg";
+var mnemonic = "page nuclear quit lift dust before wrestle couch east tower spin burden";

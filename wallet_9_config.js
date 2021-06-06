@@ -1,1 +1,1 @@
-var mnemonic = "puppy thank hockey comfort flight comfort solve prepare wagon junk globe differ";
+var mnemonic = "brush layer reform water exit what flight solar whisper jaguar company trend";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal snake garden theme exhibit armed mad science anxiety cash nice average";
+var mnemonic = "disagree denial shine ball pipe waste risk cash throw renew card length";

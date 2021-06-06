@@ -1,1 +1,1 @@
-var mnemonic = "palm firm buddy bachelor select calm ribbon best when grow shrimp delay";
+var mnemonic = "swap name badge twelve bus grab dose hole core drum brave fabric";

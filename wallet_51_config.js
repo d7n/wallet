@@ -1,1 +1,1 @@
-var mnemonic = "hair twin kitten episode will cave unable volume dog gentle crowd steel";
+var mnemonic = "return flip glass coach foster amateur depend country pattern noble wheel action";

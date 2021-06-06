@@ -1,1 +1,1 @@
-var mnemonic = "general spider remember lazy receive dumb kick chunk rigid december jelly project";
+var mnemonic = "silent region crowd delay divorce master monster spy own funny deliver young";

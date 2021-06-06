@@ -1,1 +1,1 @@
-var mnemonic = "about flat stereo coast oil another trick punch excess menu frozen axis";
+var mnemonic = "sheriff evil credit other merge shrug elbow alley genre goddess squirrel sleep";

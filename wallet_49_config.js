@@ -1,1 +1,1 @@
-var mnemonic = "gather yard educate account quiz diet require sustain mammal much mad always";
+var mnemonic = "hungry filter party laundry antique armed noise orbit tray better jeans goddess";

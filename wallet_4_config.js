@@ -1,1 +1,1 @@
-var mnemonic = "expose dirt mixture you where print galaxy magic misery canyon certain immune";
+var mnemonic = "tube brown license flower paddle february book father kiss ribbon direct fine";

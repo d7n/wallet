@@ -1,1 +1,1 @@
-var mnemonic = "sadness vehicle april earn glide enforce knock betray youth script catalog pistol";
+var mnemonic = "keep spoon use fold width card orchard dice flock grant shove faint";

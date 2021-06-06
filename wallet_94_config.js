@@ -1,1 +1,1 @@
-var mnemonic = "ecology giggle inject inside admit fiscal wood alert valve dumb artwork congress";
+var mnemonic = "gas exhaust they cement physical attract resemble promote finger oxygen plunge avocado";

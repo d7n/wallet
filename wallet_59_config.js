@@ -1,1 +1,1 @@
-var mnemonic = "story track net yellow luggage paddle youth omit raven safe clock afraid";
+var mnemonic = "vapor picnic office cliff garden aim rose square must exact hub creek";

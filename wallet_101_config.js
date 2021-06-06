@@ -1,1 +1,1 @@
-var mnemonic = "wife cushion siege globe slot arena cereal escape hotel near quarter giraffe";
+var mnemonic = "similar pear slogan gossip section across retreat coast sock response transfer basket";

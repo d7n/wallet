@@ -1,1 +1,1 @@
-var mnemonic = "under robot old high push nuclear labor message robot welcome zoo tuition";
+var mnemonic = "metal brown major cable opera venue eight manual glove olive riot tribe";

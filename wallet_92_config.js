@@ -1,1 +1,1 @@
-var mnemonic = "idle speak sentence segment inner cool loyal apart midnight vendor flame twist";
+var mnemonic = "casual way little clock wife betray cable change enjoy then find race";

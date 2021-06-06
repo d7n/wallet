@@ -1,1 +1,1 @@
-var mnemonic = "inject chair someone lawsuit thunder slam bone wreck supreme canvas rain comfort";
+var mnemonic = "bird memory ask auto juice kick cricket anxiety draw energy resource speak";

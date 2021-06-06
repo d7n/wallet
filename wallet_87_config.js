@@ -1,1 +1,1 @@
-var mnemonic = "tunnel below enroll climb first coin quarter brass steel hand elegant pet";
+var mnemonic = "matter avoid panda twelve dizzy six path connect clutch gap ring crisp";

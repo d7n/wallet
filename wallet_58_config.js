@@ -1,1 +1,1 @@
-var mnemonic = "ridge govern shoulder fame person spice mutual waste regret use setup wait";
+var mnemonic = "rough jaguar lyrics rabbit side stone license add push later impose clever";

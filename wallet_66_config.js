@@ -1,1 +1,1 @@
-var mnemonic = "wheat soda tree surround twelve escape lucky woman method actress begin say";
+var mnemonic = "dove eager quantum lake guilt mobile employ essence fluid snap please fortune";

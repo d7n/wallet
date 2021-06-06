@@ -1,1 +1,1 @@
-var mnemonic = "unusual inherit tonight course boss bag tail rescue expand custom clarify loyal";
+var mnemonic = "need anger upset throw position sock job tumble hurry parent person impose";

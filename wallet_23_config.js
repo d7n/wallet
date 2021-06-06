@@ -1,1 +1,1 @@
-var mnemonic = "narrow lounge forum van scan never awful mass adapt company dial lady";
+var mnemonic = "airport attitude expect filter almost rookie budget buddy loyal guess chapter fame";

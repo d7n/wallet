@@ -1,1 +1,1 @@
-var mnemonic = "carpet fun neutral document jealous glue rain brass raise neglect wrong imitate";
+var mnemonic = "flag mail width ostrich defy genuine syrup nothing memory point damp latin";

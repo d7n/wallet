@@ -1,1 +1,1 @@
-var mnemonic = "budget conduct rifle poem book copper census foot bracket muffin super secret";
+var mnemonic = "tragic apology response help chicken inform shove air globe south edge lobster";

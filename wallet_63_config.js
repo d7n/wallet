@@ -1,1 +1,1 @@
-var mnemonic = "supreme creek pumpkin tumble reopen soft custom public energy slice turtle robust";
+var mnemonic = "embody pet sound assist gate legend crane unaware dream two derive soap";

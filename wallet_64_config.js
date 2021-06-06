@@ -1,1 +1,1 @@
-var mnemonic = "awful pool turn story this old relax onion funny crush century energy";
+var mnemonic = "umbrella follow execute catalog actor cliff parade vault occur wedding body clog";

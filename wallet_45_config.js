@@ -1,1 +1,1 @@
-var mnemonic = "supreme chaos evil hope junior bicycle scissors fine deny acquire interest enhance";
+var mnemonic = "result web catalog music tuition alarm reason town suggest minute trash initial";

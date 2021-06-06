@@ -1,1 +1,1 @@
-var mnemonic = "online solve venue library normal ghost possible settle soap useful chapter wood";
+var mnemonic = "surge figure cotton acid oppose usage charge size always moon urban amazing";

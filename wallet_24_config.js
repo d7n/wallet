@@ -1,1 +1,1 @@
-var mnemonic = "useful today exact impact expose kingdom bargain sister abandon salt tumble soup";
+var mnemonic = "pen recipe coconut pitch area speed utility release cloth noodle gauge online";

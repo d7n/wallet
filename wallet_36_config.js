@@ -1,1 +1,1 @@
-var mnemonic = "aspect letter bubble whip refuse inform gallery photo craft bean earth virtual";
+var mnemonic = "cigar chuckle judge neglect elevator enough pitch surface pig screen split dune";

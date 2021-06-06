@@ -1,1 +1,1 @@
-var mnemonic = "assault balcony oblige club stereo affair three load carpet salon swamp sister";
+var mnemonic = "gadget violin ride desk small celery entry soul miracle alarm neck plastic";

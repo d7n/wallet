@@ -1,1 +1,1 @@
-var mnemonic = "celery aerobic oil jungle merit wish order relief tag wait shallow peace";
+var mnemonic = "peanut cool miracle side ten decade render invest orchard exercise brand expire";

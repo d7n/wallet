@@ -1,1 +1,1 @@
-var mnemonic = "lab farm balance blind faculty illness wide enhance twenty captain goat cloth";
+var mnemonic = "guess never pony original infant please slender meat forest uphold fluid demand";

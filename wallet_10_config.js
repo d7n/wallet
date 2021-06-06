@@ -1,1 +1,1 @@
-var mnemonic = "fragile note gym dance cover attitude cage horse once cake domain gloom";
+var mnemonic = "abuse equip question inside toddler whip list can banner gospel sniff pact";

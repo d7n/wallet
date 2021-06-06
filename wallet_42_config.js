@@ -1,1 +1,1 @@
-var mnemonic = "west corn float fabric border dog symbol lamp alter stem twist wish";
+var mnemonic = "lecture happy face wire spoil pear plastic echo grid cannon guitar primary";

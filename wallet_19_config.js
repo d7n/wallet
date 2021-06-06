@@ -1,1 +1,1 @@
-var mnemonic = "wool praise airport account divorce credit walk sauce depth chicken light town";
+var mnemonic = "ship guess believe fringe sort mutual record jaguar public system blind party";

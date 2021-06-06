@@ -1,1 +1,1 @@
-var mnemonic = "end price biology exclude certain attack dune nut insect glow wealth stage";
+var mnemonic = "inmate have crash begin valley float true main symbol taxi pond pizza";

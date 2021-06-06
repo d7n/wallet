@@ -1,1 +1,1 @@
-var mnemonic = "tunnel stool rapid child hello dove area family battle purity gym lemon";
+var mnemonic = "win opera ramp sorry eight wonder there anxiety hundred pair goose kid";

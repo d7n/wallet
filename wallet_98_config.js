@@ -1,1 +1,1 @@
-var mnemonic = "blind armor forward helmet property girl dinosaur glance soon liar oppose thrive";
+var mnemonic = "wise stereo gold sketch never vapor earn merge bicycle protect squirrel buzz";

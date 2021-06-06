@@ -1,1 +1,1 @@
-var mnemonic = "blind lemon admit pioneer gorilla warrior main skate rack right slogan rely";
+var mnemonic = "apple seven bargain identify small pluck tower else hybrid suspect jeans verify";

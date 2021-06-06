@@ -1,1 +1,1 @@
-var mnemonic = "card love consider birth toward disagree coach dirt cup awful term legal";
+var mnemonic = "plug vibrant ice lesson insect casual consider sugar pottery rich test balcony";

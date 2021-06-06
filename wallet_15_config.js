@@ -1,1 +1,1 @@
-var mnemonic = "disease cousin skin city horse vital identify stairs shoulder toy mule process";
+var mnemonic = "bachelor edge bar update buyer width path piece body price love cage";

@@ -1,1 +1,1 @@
-var mnemonic = "news deny escape time script exclude flip weather album width guard detail";
+var mnemonic = "tattoo junior bench husband annual eager super possible medal pass scissors sign";

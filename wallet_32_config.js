@@ -1,1 +1,1 @@
-var mnemonic = "flat cry maid lock crazy remove high gun tribe math dutch sunset";
+var mnemonic = "rather century such inflict harbor poet betray retire excuse moment trial math";

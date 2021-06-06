@@ -1,1 +1,1 @@
-var mnemonic = "idea knife salmon essence culture thank viable reopen source silk fabric radio";
+var mnemonic = "evolve mind amused female diary panda spare demand hold south maid play";

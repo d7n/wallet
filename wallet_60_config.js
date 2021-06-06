@@ -1,1 +1,1 @@
-var mnemonic = "virtual exotic tobacco economy police pretty admit else congress laundry shiver own";
+var mnemonic = "east menu news income acquire predict core easy program amount walnut warm";

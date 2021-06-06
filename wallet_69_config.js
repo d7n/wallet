@@ -1,1 +1,1 @@
-var mnemonic = "cash huge garage sister barrel loop layer mimic idle used kind language";
+var mnemonic = "phone winner term wild mask liar fever green judge own wave addict";

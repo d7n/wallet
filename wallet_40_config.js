@@ -1,1 +1,1 @@
-var mnemonic = "glad food blood ill ugly hazard twenty lesson pave glance venture tourist";
+var mnemonic = "spike taxi submit roof scan age matrix better unable stamp reveal million";

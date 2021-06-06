@@ -1,1 +1,1 @@
-var mnemonic = "basket now invite victory please immune drip crop rose ability kidney again";
+var mnemonic = "ranch tower eagle exchange sting clay divide organ wage salt hybrid render";

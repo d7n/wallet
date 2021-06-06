@@ -1,1 +1,1 @@
-var mnemonic = "cute tiny define diamond sort morning course pelican uniform leg blush wagon";
+var mnemonic = "board keen rough hard appear bar sorry exile sample earn company decorate";

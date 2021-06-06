@@ -1,1 +1,1 @@
-var mnemonic = "develop mean ensure meat engine december bargain cattle endless charge join govern";
+var mnemonic = "aerobic other crater mandate equip flip among civil luxury excite muscle cook";

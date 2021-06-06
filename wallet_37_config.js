@@ -1,1 +1,1 @@
-var mnemonic = "tree square latin begin squirrel alter wide multiply fault foster owner actual";
+var mnemonic = "tennis never chair stable when monkey rate plunge brown health bulk vault";

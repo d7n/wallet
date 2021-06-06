@@ -1,1 +1,1 @@
-var mnemonic = "climb gym calm next path tissue marble around tiny music engine category";
+var mnemonic = "year guitar tooth panic bargain tuna nephew gadget speak raven sort inherit";

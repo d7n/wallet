@@ -1,1 +1,1 @@
-var mnemonic = "cloud ethics garden fantasy quarter celery enact swing ring auction beyond burden";
+var mnemonic = "half rather toe resemble swamp promote sample finger inspire quit style bench";

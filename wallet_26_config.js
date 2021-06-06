@@ -1,1 +1,1 @@
-var mnemonic = "pen burger hawk apart exchange toilet dolphin vintage undo transfer picnic trim";
+var mnemonic = "canal leave green grocery final hidden tape razor one hen expand nut";

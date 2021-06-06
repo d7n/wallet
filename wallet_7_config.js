@@ -1,1 +1,1 @@
-var mnemonic = "annual enact debate table cause mule grief stomach wear delay demand athlete";
+var mnemonic = "sorry figure crunch onion sphere when elbow kit work inherit topple inmate";

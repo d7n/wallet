@@ -1,1 +1,1 @@
-var mnemonic = "kiwi judge trophy paper vendor push click ship eager wood waste muffin";
+var mnemonic = "spoil sorry marine bicycle barrel soon museum weekend puzzle click report basket";

@@ -1,1 +1,1 @@
-var mnemonic = "frost floor sauce dinner heavy over resource cage best always fossil dad";
+var mnemonic = "similar escape piece sure stomach feel pole human front chimney rule switch";

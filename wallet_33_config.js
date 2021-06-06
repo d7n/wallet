@@ -1,1 +1,1 @@
-var mnemonic = "void viable furnace total village judge inside wreck rocket leopard false isolate";
+var mnemonic = "verify infant tide solar analyst gym silly stock hill beef script jaguar";

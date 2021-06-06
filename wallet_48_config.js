@@ -1,1 +1,1 @@
-var mnemonic = "rally lake tooth train recipe inside forum wheat camp coyote level aware";
+var mnemonic = "escape track chalk start kiwi language become corn arrest learn clip slogan";

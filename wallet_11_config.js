@@ -1,1 +1,1 @@
-var mnemonic = "when avoid captain repeat news high sock divide market pencil oppose attract";
+var mnemonic = "bullet grass major shuffle open wheat elevator split raven invite teach bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "fox castle sentence pledge water art immense where disagree sand caught scale";
+var mnemonic = "question dose answer list weird assault narrow retreat present filter quote weather";

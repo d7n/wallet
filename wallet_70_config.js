@@ -1,1 +1,1 @@
-var mnemonic = "supply outdoor casual try edit canyon wing estate enforce hollow clip fence";
+var mnemonic = "ranch month city upon crime lift segment sad jeans milk amateur make";

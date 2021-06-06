@@ -1,1 +1,1 @@
-var mnemonic = "once combine purse gold promote convince tumble debris robot fly snap original";
+var mnemonic = "right weather lumber start cargo raccoon spider rug truly coffee syrup play";

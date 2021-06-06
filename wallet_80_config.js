@@ -1,1 +1,1 @@
-var mnemonic = "urge asthma dry shrimp begin sight furnace abstract brass evidence choose pill";
+var mnemonic = "hammer brave barely curious assault lemon half subject option staff talk fortune";

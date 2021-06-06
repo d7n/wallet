@@ -1,1 +1,1 @@
-var mnemonic = "dentist silly meat cupboard brief blade course oblige scene embrace just utility";
+var mnemonic = "actor slab coast anxiety lunar blade clinic dilemma slice tree cushion thrive";

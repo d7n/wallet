@@ -1,1 +1,1 @@
-var mnemonic = "task input ritual pair left oak endorse inner someone eyebrow pause shield";
+var mnemonic = "rebuild alien fold parent custom response rent someone special dust roast retreat";

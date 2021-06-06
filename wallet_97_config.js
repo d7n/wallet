@@ -1,1 +1,1 @@
-var mnemonic = "ability spare future never float learn belt pudding copper never flame dream";
+var mnemonic = "gate because stomach cereal thing bulk picture evoke soon arctic animal enforce";

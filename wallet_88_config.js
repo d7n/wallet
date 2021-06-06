@@ -1,1 +1,1 @@
-var mnemonic = "mad beyond ball butter coconut reunion quiz pizza bunker paddle outer toilet";
+var mnemonic = "midnight humor leopard fuel virtual scissors shield antique border empty away welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "forum major together crisp praise matrix above angry define crush lizard sell";
+var mnemonic = "aisle idle middle rude dutch steak supply strong nut absent chimney one";

@@ -1,1 +1,1 @@
-var mnemonic = "engage shrug final evolve trap produce poet leader almost poet theory degree";
+var mnemonic = "offer curious also elegant enrich destroy ozone day vendor web offer dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow toast rich connect approve crawl dash cluster explain push average unaware";
+var mnemonic = "enemy weapon catalog slush ticket invite solve priority pupil lobster noble picture";

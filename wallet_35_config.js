@@ -1,1 +1,1 @@
-var mnemonic = "relief pool clarify lecture cave pumpkin comic reward onion notable sentence direct";
+var mnemonic = "club circle october sponsor rather service section priority inch indoor diet robust";

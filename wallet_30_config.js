@@ -1,1 +1,1 @@
-var mnemonic = "attack crystal awkward lawn express appear nerve parade recycle fortune mother bring";
+var mnemonic = "lizard okay proof spider toy inflict noble spirit repair deny raven mad";

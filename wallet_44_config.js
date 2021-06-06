@@ -1,1 +1,1 @@
-var mnemonic = "step silver walnut survey twelve east hero lemon nut segment local nest";
+var mnemonic = "problem ancient chase oil library man genuine smooth sphere toe dream tomato";

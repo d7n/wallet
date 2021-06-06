@@ -1,1 +1,1 @@
-var mnemonic = "analyst butter minute omit expand hawk garage impulse spot stand kidney place";
+var mnemonic = "mother earn party soft carbon blouse whisper seminar final heart day green";

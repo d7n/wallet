@@ -1,1 +1,1 @@
-var mnemonic = "fat pink hero kit position vocal negative country girl security banana citizen";
+var mnemonic = "normal crime bubble click any cook soul field smoke forest shoot identify";

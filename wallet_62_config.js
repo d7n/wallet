@@ -1,1 +1,1 @@
-var mnemonic = "quality exhaust joy robust cinnamon fog zoo rescue fence badge basket jazz";
+var mnemonic = "cross observe hazard message lecture virus concert use barrel wall where head";

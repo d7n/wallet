@@ -1,1 +1,1 @@
-var mnemonic = "alert reduce pig lava weather dose jungle property hour pull gate live";
+var mnemonic = "cream fashion drastic slab seminar sell concert upgrade there humble kangaroo blanket";

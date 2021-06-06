@@ -1,1 +1,1 @@
-var mnemonic = "neck soul catch scatter scare call blast nephew tell goat fabric pottery";
+var mnemonic = "fault tent evidence beyond garage nurse vessel fan web economy cake very";

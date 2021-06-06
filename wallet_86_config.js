@@ -1,1 +1,1 @@
-var mnemonic = "village yellow merry wheat seven glass undo wall live flip gauge faint";
+var mnemonic = "chair canoe pupil doctor enhance syrup amused vintage noble reveal spoon relax";

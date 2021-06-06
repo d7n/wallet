@@ -1,1 +1,1 @@
-var mnemonic = "vessel either assume weekend very eternal scrub six pill still apart library";
+var mnemonic = "outside human vendor test route immune narrow recipe awake pumpkin reform happy";

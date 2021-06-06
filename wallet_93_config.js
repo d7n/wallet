@@ -1,1 +1,1 @@
-var mnemonic = "unlock like engine amount adapt palm grab treat monitor elder bird rate";
+var mnemonic = "job canyon believe square orphan awesome trip vibrant west divorce output abuse";

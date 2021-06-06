@@ -1,1 +1,1 @@
-var mnemonic = "brief someone glad birth silly crime total bring jeans connect enemy tumble";
+var mnemonic = "defense spy bike trophy notable silk stadium buffalo spell gallery comfort foster";

@@ -1,1 +1,1 @@
-var mnemonic = "system core patient brush dress diary legal sponsor pink art napkin proof";
+var mnemonic = "group rescue miss toss possible solid scatter cancel accident jump crumble mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "any faculty mix roof uphold input diagram neither napkin loyal scatter assist";
+var mnemonic = "circle drum number exile segment jaguar switch company flag style stone year";

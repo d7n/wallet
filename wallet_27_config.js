@@ -1,1 +1,1 @@
-var mnemonic = "segment music settle debate salt little oak mask trouble climb gospel stay";
+var mnemonic = "stone that pill foster audit surprise oxygen rhythm basic develop ghost you";

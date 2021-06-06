@@ -1,1 +1,1 @@
-var mnemonic = "artwork gift dust ordinary solar tomato panther lawn episode alert aunt sauce";
+var mnemonic = "exclude smooth sibling kind wolf solve jazz sunset flavor random ring seven";

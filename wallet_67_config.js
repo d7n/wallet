@@ -1,1 +1,1 @@
-var mnemonic = "fat jaguar feel economy scorpion finger scout layer soldier wage ready knife";
+var mnemonic = "trick agent stereo lottery bubble goose tent list style tone deal forum";
