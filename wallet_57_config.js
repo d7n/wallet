@@ -1,1 +1,1 @@
-var mnemonic = "humor vacant give used crystal fluid fiscal wild color strategy online obtain";
+var mnemonic = "media street odor smooth cinnamon stove strike funny drink example alien degree";

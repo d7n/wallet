@@ -1,1 +1,1 @@
-var mnemonic = "vivid ensure label maximum pole zebra quiz above dish reflect swallow wreck";
+var mnemonic = "blanket shadow twelve cat document main badge divide record culture walnut lion";

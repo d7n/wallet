@@ -1,1 +1,1 @@
-var mnemonic = "pitch fork buyer guitar window eye swear coconut conduct wrestle sugar metal";
+var mnemonic = "track innocent enhance train certain mosquito cool dirt proof social term rifle";

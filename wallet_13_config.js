@@ -1,1 +1,1 @@
-var mnemonic = "useful exotic motor shine half picture cement ridge among language chimney blast";
+var mnemonic = "bread anchor dog capable bachelor easily style shoe notable hamster praise ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "stem turtle dismiss since reform twist snake radar mercy sport slight around";
+var mnemonic = "stuff erosion comfort mistake stay asset subway ugly rather magnet educate forum";

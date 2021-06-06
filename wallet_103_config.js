@@ -1,1 +1,1 @@
-var mnemonic = "media bubble parade tower across upon grid old whale rather fat benefit";
+var mnemonic = "layer country second again scrub cheese unfair fade beef aunt faint damp";

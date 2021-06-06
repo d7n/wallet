@@ -1,1 +1,1 @@
-var mnemonic = "ancient female agree breeze analyst shift logic comic summer medal allow rich";
+var mnemonic = "trash thunder yard coil weapon before hen drill comfort perfect dumb body";

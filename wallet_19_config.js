@@ -1,1 +1,1 @@
-var mnemonic = "board add frog reward trigger destroy coral cause wrestle valley approve domain";
+var mnemonic = "swamp armor deal order aware subject name conduct train special author admit";

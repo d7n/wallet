@@ -1,1 +1,1 @@
-var mnemonic = "over turtle unfair pottery glove genuine door perfect vintage veteran social quarter";
+var mnemonic = "rail auto boost expand rely typical wild bottom movie wear stove mystery";

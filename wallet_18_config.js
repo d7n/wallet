@@ -1,1 +1,1 @@
-var mnemonic = "monitor purse length love unit clarify until script garment grass float thing";
+var mnemonic = "blood sister observe soup nuclear vivid chicken milk afraid body hungry receive";

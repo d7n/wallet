@@ -1,1 +1,1 @@
-var mnemonic = "balcony approve sister double loan shed tonight hood jelly liberty divert smooth";
+var mnemonic = "junior knife hip metal fine deliver glare faith gesture athlete area salon";

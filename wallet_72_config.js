@@ -1,1 +1,1 @@
-var mnemonic = "guilt three fancy drum valley two word love flock salad toward number";
+var mnemonic = "horror phrase lift ball hold decline until rural wagon actor stadium child";

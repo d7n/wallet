@@ -1,1 +1,1 @@
-var mnemonic = "diet lottery muffin fun outdoor jeans ketchup also ecology damp lake heart";
+var mnemonic = "glance cricket frown prepare million post lady maximum drift fold chef film";

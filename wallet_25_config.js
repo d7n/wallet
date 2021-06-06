@@ -1,1 +1,1 @@
-var mnemonic = "prevent any because chunk into damage success park hurdle change legal twelve";
+var mnemonic = "more torch method husband above victory jealous table yard issue image cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "position hint tape baby scrap topic pole uncle absent fringe famous burger";
+var mnemonic = "region over attitude utility ticket journey crouch insect left confirm audit alone";

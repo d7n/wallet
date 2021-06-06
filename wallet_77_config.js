@@ -1,1 +1,1 @@
-var mnemonic = "east smoke nice ordinary vast melody peasant solve faint family mixed creek";
+var mnemonic = "grocery build engine key resist palm market victory emerge abstract oil stable";

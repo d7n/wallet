@@ -1,1 +1,1 @@
-var mnemonic = "arm afraid chronic either wealth volume parrot spider situate topic horse inner";
+var mnemonic = "brand sibling chief basket motion feel power evolve excuse zebra fancy humble";

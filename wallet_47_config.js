@@ -1,1 +1,1 @@
-var mnemonic = "raw edit employ talent badge grape ordinary galaxy aisle right shoot start";
+var mnemonic = "loan distance state tribe sort assume sell denial version shuffle column lazy";

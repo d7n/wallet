@@ -1,1 +1,1 @@
-var mnemonic = "enforce escape public embrace answer fruit poem album black acoustic render husband";
+var mnemonic = "tortoise artist lumber trigger bargain device record use segment ski neither jump";

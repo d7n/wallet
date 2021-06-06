@@ -1,1 +1,1 @@
-var mnemonic = "atom milk verify snow erosion sketch educate kidney swamp marble chat stove";
+var mnemonic = "risk shine soft label govern inherit bring tobacco parrot update flee busy";

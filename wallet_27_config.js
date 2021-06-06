@@ -1,1 +1,1 @@
-var mnemonic = "multiply connect clog segment prevent result pigeon chimney problem treat belt goat";
+var mnemonic = "source lens clay early peanut change shop spring valid actual drip feel";

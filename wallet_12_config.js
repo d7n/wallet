@@ -1,1 +1,1 @@
-var mnemonic = "sadness latin lunar silk catalog enroll marriage pet worry clutch weekend target";
+var mnemonic = "print deputy afford glue true quit lazy drink kite chalk gesture side";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff torch south copy thrive coil parent hope train mimic travel sense";
+var mnemonic = "minute ranch tag segment civil bleak hole float assist margin glad mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "dune sentence cheap label feed squirrel wood trade category blame orbit shell";
+var mnemonic = "leopard advice panic fog animal crew legend crumble aerobic tattoo goose retire";

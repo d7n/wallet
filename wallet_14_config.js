@@ -1,1 +1,1 @@
-var mnemonic = "step consider tongue hedgehog luggage mouse car engage squirrel cinnamon boring fee";
+var mnemonic = "property hollow empty artefact custom spatial thunder prosper amused undo height wrestle";

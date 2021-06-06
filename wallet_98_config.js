@@ -1,1 +1,1 @@
-var mnemonic = "extra dinosaur bread blanket solve dinosaur glare example snake elite wreck favorite";
+var mnemonic = "wheel cereal dwarf peanut simple marine west where gate once ball volcano";

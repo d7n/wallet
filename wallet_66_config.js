@@ -1,1 +1,1 @@
-var mnemonic = "section attitude creek bless soul off cradle rose syrup loan forward try";
+var mnemonic = "lend ranch error innocent clock rhythm erupt question account earth then tone";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol universe lonely develop clump toss arctic coconut gloom must analyst quality";
+var mnemonic = "dignity stereo logic where bullet balcony nephew gravity clip word punch payment";

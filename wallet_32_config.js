@@ -1,1 +1,1 @@
-var mnemonic = "ranch engage high violin game grow priority fly process soul fame two";
+var mnemonic = "reflect sand barely memory lobster slender funny machine moment core address gun";

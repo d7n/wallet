@@ -1,1 +1,1 @@
-var mnemonic = "gold remind wrong van peace conduct license noble west husband shoe true";
+var mnemonic = "insane reward since must high source food inhale nerve weird cash happy";

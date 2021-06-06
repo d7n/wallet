@@ -1,1 +1,1 @@
-var mnemonic = "dune over pet machine father primary defy diagram slam throw hungry clarify";
+var mnemonic = "chat omit seminar carry near cat blast sure invite address couch visual";

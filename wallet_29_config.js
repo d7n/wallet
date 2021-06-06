@@ -1,1 +1,1 @@
-var mnemonic = "chicken erosion help twin desk visual observe ski ski clerk eager multiply";
+var mnemonic = "task mouse eye top train august bounce cricket rally slender rookie emotion";

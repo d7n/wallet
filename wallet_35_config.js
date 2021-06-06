@@ -1,1 +1,1 @@
-var mnemonic = "tool combine glue sibling sure shell saddle turkey loop crush sustain matrix";
+var mnemonic = "birth extra age rely cactus biology liar apple half spawn detect toddler";

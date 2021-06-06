@@ -1,1 +1,1 @@
-var mnemonic = "reopen crouch notable cross text small combine endless right mom century awkward";
+var mnemonic = "teach minor capital clerk private wink senior wait slab filter cherry squirrel";

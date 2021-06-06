@@ -1,1 +1,1 @@
-var mnemonic = "shrimp either horn tomorrow leopard actual milk frozen embrace easily despair distance";
+var mnemonic = "hawk can burst liar lock list jewel swap club web usual boat";

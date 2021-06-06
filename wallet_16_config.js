@@ -1,1 +1,1 @@
-var mnemonic = "owner radar plastic device tomato uphold witness fog more popular solve near";
+var mnemonic = "urge bag swim prepare process fade pear shell brief filter globe topic";

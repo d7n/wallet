@@ -1,1 +1,1 @@
-var mnemonic = "plate vague luggage buddy grow brisk drastic sunny menu castle divide patch";
+var mnemonic = "tongue dust lunar scorpion summer drum warfare tennis inner bind echo tape";

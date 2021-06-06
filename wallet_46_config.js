@@ -1,1 +1,1 @@
-var mnemonic = "zebra able middle coast area general portion acoustic clog eight dad captain";
+var mnemonic = "cereal globe tree april message domain federal ancient erupt fabric more hunt";

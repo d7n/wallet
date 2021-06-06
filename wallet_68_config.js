@@ -1,1 +1,1 @@
-var mnemonic = "filter believe surprise obey vacant regret lab anxiety obey wool whisper custom";
+var mnemonic = "horn jacket chief shed swim chase window boy vital impulse edge now";

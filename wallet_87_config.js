@@ -1,1 +1,1 @@
-var mnemonic = "kiss mandate traffic napkin skirt inflict barely supply alpha warm champion buddy";
+var mnemonic = "frost echo market celery pipe age sock reveal two coach voice buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "female arch produce habit course gift fatigue cabin oppose other grace device";
+var mnemonic = "fog blast just frequent sword buddy brick rate rhythm skull come spell";

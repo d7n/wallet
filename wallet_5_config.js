@@ -1,1 +1,1 @@
-var mnemonic = "help gaze again horn hope crumble loud okay victory crew wonder buyer";
+var mnemonic = "host february icon giraffe baby gaze novel bamboo position erase pyramid mask";

@@ -1,1 +1,1 @@
-var mnemonic = "glare staff uniform alien ketchup talk start genuine sustain leg moment bench";
+var mnemonic = "boost book sand brain fox envelope smooth book catch gift provide produce";

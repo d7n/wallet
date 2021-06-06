@@ -1,1 +1,1 @@
-var mnemonic = "invite own radio absorb hamster area hand secret plastic twenty dutch saddle";
+var mnemonic = "detail shine around soda fringe depth language harsh occur vanish like festival";

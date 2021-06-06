@@ -1,1 +1,1 @@
-var mnemonic = "pen tomorrow stool safe segment silk alter program pass journey dove scrub";
+var mnemonic = "penalty repair hill peanut vivid grab huge tomato wild awake solve ancient";

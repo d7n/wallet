@@ -1,1 +1,1 @@
-var mnemonic = "coil bleak wheel wolf produce crop recall hazard hair discover excite bleak";
+var mnemonic = "vintage scare reflect code exist blue cinnamon avoid story remain debris vibrant";

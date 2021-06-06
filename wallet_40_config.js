@@ -1,1 +1,1 @@
-var mnemonic = "nice filter throw resource gift random depend together crane hurt super bunker";
+var mnemonic = "strong ginger glue dinosaur exhibit army bean violin citizen gasp benefit pupil";

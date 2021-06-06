@@ -1,1 +1,1 @@
-var mnemonic = "bread magic marine drip potato tiger immune series shrug retreat twice peace";
+var mnemonic = "hurry tobacco blade junk surface castle museum knife observe opinion talent until";

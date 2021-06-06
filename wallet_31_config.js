@@ -1,1 +1,1 @@
-var mnemonic = "horn best method pioneer peasant eager rebuild garlic object such swear capable";
+var mnemonic = "remind fix water crumble eager kind squeeze cancel memory crater ginger crime";

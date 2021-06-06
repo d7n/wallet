@@ -1,1 +1,1 @@
-var mnemonic = "guilt fantasy surface one broccoli caution tiny width wet reduce erase champion";
+var mnemonic = "motor slab venue club rural miracle lock leaf mixture distance casual proof";

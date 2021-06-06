@@ -1,1 +1,1 @@
-var mnemonic = "useful false army world tray arm churn upgrade sad tomato orient trim";
+var mnemonic = "key parent curious aspect green buzz regret gym purity build water grass";

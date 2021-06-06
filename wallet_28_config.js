@@ -1,1 +1,1 @@
-var mnemonic = "jeans goose embody rate immense city usage drink correct unfair device useless";
+var mnemonic = "sleep question monkey tourist accident elder joke garment cup mosquito conduct spy";

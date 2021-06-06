@@ -1,1 +1,1 @@
-var mnemonic = "excuse fat cupboard online remain copy horse limit album luxury draft increase";
+var mnemonic = "evolve exhibit kiwi ski brand roast olympic palace derive myth ginger truck";

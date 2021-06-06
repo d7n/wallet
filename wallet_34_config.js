@@ -1,1 +1,1 @@
-var mnemonic = "exercise aware baby raven embrace glad oppose sort more monitor cute slice";
+var mnemonic = "rocket nothing pause grunt confirm vapor wreck pave drink praise depend piece";

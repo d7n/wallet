@@ -1,1 +1,1 @@
-var mnemonic = "story lake prepare road night plate still snap cook hat mad muscle";
+var mnemonic = "pumpkin little carry sugar clinic hover jewel quote lonely popular swift depend";

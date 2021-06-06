@@ -1,1 +1,1 @@
-var mnemonic = "river advance stone humor leave entire frost only custom first forward hub";
+var mnemonic = "magnet history add brain razor visual few diet fox name frame arrange";

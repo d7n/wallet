@@ -1,1 +1,1 @@
-var mnemonic = "shoot snow position trust pill brief grid prepare spatial snack eternal birth";
+var mnemonic = "question mom foam sausage swallow bachelor decorate trap essay miss cram thank";

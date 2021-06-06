@@ -1,1 +1,1 @@
-var mnemonic = "average attack decide unknown pretty soldier slice unique warfare bird curve device";
+var mnemonic = "minute story execute wrap bottom submit layer great erupt brother leaf bonus";

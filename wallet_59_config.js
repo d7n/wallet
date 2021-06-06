@@ -1,1 +1,1 @@
-var mnemonic = "lunar confirm cargo alert feed fruit sense grocery transfer write weapon trap";
+var mnemonic = "excess castle unusual jar iron pear sister cost story alert pretty test";

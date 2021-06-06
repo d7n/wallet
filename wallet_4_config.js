@@ -1,1 +1,1 @@
-var mnemonic = "bulk lonely expire caught soldier chunk helmet despair dash cover host quit";
+var mnemonic = "can elbow alone episode thrive corn text twice grunt night addict whip";

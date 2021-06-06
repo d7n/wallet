@@ -1,1 +1,1 @@
-var mnemonic = "hard whisper try hero hard cousin label dance lunch primary success cushion";
+var mnemonic = "play butter ability fancy olive audit adapt canvas evil clerk garden shadow";

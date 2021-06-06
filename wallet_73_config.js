@@ -1,1 +1,1 @@
-var mnemonic = "endorse seed easy gun south cart sell earn adult inject fog sorry";
+var mnemonic = "topple surface link just weapon notice bag term heavy dune left across";

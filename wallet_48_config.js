@@ -1,1 +1,1 @@
-var mnemonic = "celery toy wreck they divide food copper indicate champion rate hair way";
+var mnemonic = "involve cricket damage trial orphan swear private kidney sort rug dolphin reason";

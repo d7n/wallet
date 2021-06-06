@@ -1,1 +1,1 @@
-var mnemonic = "when social grain early veteran narrow expose creek fatal quit adult dirt";
+var mnemonic = "switch exit device bounce ask proud knee surface violin similar vehicle trim";

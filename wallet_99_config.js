@@ -1,1 +1,1 @@
-var mnemonic = "region raven fragile grape maximum bitter desert siege tonight reopen alarm repeat";
+var mnemonic = "boost fun very chase gown glide orphan nominee verify version jacket boil";

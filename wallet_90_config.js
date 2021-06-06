@@ -1,1 +1,1 @@
-var mnemonic = "recycle caution picnic custom domain banner grid field must table huge jar";
+var mnemonic = "shell review obtain hip window tray blind chunk assault soccer token home";

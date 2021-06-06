@@ -1,1 +1,1 @@
-var mnemonic = "clump outdoor exchange north bargain mobile force absorb tired card daughter page";
+var mnemonic = "nest require race neck regret horn close hill picture ozone leopard record";

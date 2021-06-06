@@ -1,1 +1,1 @@
-var mnemonic = "pipe shell ozone symbol panther margin maid bachelor atom provide super tell";
+var mnemonic = "gesture hurt void snake toward draw clutch current second trap steak night";

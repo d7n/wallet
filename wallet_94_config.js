@@ -1,1 +1,1 @@
-var mnemonic = "squirrel occur welcome increase entry twelve race memory decline jeans artist impose";
+var mnemonic = "spice debris cargo attitude lunar essence property cheap smoke amazing tip wealth";

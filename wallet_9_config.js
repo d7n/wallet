@@ -1,1 +1,1 @@
-var mnemonic = "enact surge will ship travel age agree plate bubble kid muscle affair";
+var mnemonic = "message muscle kite brand zone drama decrease mixed absorb engine repair amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "high goddess razor arch void unique insect ivory category diet uncover cushion";
+var mnemonic = "satisfy deny acid grass woman surprise purse inside number green choice fee";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet mouse photo history muscle unlock immune frequent unaware educate artist spawn";
+var mnemonic = "ranch metal injury sound analyst again exile rookie nuclear decline lesson bundle";

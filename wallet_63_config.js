@@ -1,1 +1,1 @@
-var mnemonic = "prevent quote general lend cream return twist injury monkey mimic shallow acid";
+var mnemonic = "correct notice pipe access arrow icon giggle onion section patch sight neither";

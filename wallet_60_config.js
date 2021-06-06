@@ -1,1 +1,1 @@
-var mnemonic = "since betray bulb beauty cook debris team height abandon extend fly receive";
+var mnemonic = "enable grab waste scale industry indicate lion acquire craft advice vivid dish";

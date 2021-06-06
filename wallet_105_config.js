@@ -1,1 +1,1 @@
-var mnemonic = "sea space brick hat hundred emotion clown melt social hurry book pave";
+var mnemonic = "match resemble early elephant great cupboard budget elephant airport loud lift isolate";

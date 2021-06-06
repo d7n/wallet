@@ -1,1 +1,1 @@
-var mnemonic = "dawn moon settle invest olympic giant curve tip tunnel genius myself dragon";
+var mnemonic = "soup squirrel kitten sense inject peanut walnut battle spring marble duty market";

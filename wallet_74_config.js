@@ -1,1 +1,1 @@
-var mnemonic = "chat inherit oyster eight word wreck cousin garlic explain airport squeeze turn";
+var mnemonic = "wink below credit cactus chunk volume ensure business garbage stand december enhance";

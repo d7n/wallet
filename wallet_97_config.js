@@ -1,1 +1,1 @@
-var mnemonic = "better slender crush sister tilt close rule kick symbol page neck ghost";
+var mnemonic = "leave expire tackle unit aspect call scout limb fever matter pink true";

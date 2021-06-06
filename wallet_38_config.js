@@ -1,1 +1,1 @@
-var mnemonic = "dragon normal common narrow seek find trumpet corn clown change lobster renew";
+var mnemonic = "about turn split car orchard turn mention usage fit wrestle melt rocket";

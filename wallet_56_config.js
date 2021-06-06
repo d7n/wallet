@@ -1,1 +1,1 @@
-var mnemonic = "earn window among bus whip solid march quick arrest rigid reflect tower";
+var mnemonic = "abuse material ostrich immune curious coast radio cake step cabin extra paddle";

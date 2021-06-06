@@ -1,1 +1,1 @@
-var mnemonic = "rug huge pause snake now hat city marriage canal impulse approve road";
+var mnemonic = "pumpkin cannon toe donor north mother fine enrich omit comic peanut chalk";

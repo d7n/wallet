@@ -1,1 +1,1 @@
-var mnemonic = "garment identify gorilla hover claw dumb matter more hub pass already survey";
+var mnemonic = "clog depend visual pumpkin grant exile fence private bus famous blast skin";

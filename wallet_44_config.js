@@ -1,1 +1,1 @@
-var mnemonic = "home airport hub find wet dice script device tail demise vault awkward";
+var mnemonic = "orange funny what raccoon army eight labor purpose swim hair employ current";

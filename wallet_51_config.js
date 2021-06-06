@@ -1,1 +1,1 @@
-var mnemonic = "profit gather dutch all jacket favorite violin hen town draft crisp favorite";
+var mnemonic = "napkin effort express flock rare firm pelican disorder bless purpose metal speak";

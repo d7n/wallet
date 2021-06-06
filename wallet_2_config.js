@@ -1,1 +1,1 @@
-var mnemonic = "regret cement ritual stage course obvious tired forget sail accident benefit video";
+var mnemonic = "thrive insect citizen sleep liar dose cabin top enemy ridge code bonus";

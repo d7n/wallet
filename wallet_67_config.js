@@ -1,1 +1,1 @@
-var mnemonic = "jazz pen script axis whale bitter chief vast palm turkey scene dumb";
+var mnemonic = "share idle winner media feed direct embrace bubble joy climb chaos rebel";

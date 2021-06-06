@@ -1,1 +1,1 @@
-var mnemonic = "wire split ask deliver donor rule catalog crumble predict poem acid actor";
+var mnemonic = "ghost dinosaur boat lock peasant prevent weekend yellow float lazy find critic";

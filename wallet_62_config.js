@@ -1,1 +1,1 @@
-var mnemonic = "client boost when issue news fish banana key badge runway tribe width";
+var mnemonic = "spike panic silk veteran olive bid pink kite purchase middle square tone";

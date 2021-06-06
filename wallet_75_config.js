@@ -1,1 +1,1 @@
-var mnemonic = "firm borrow catch dial choice shrug crystal absurd buddy judge choice wood";
+var mnemonic = "swear punch force antique swear vibrant forward between crash video east harvest";

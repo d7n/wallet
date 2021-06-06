@@ -1,1 +1,1 @@
-var mnemonic = "pottery stove cabbage shove token enact primary wave sadness unfold water scale";
+var mnemonic = "attract chase example tide crush radar clinic buyer blush myth mule glow";

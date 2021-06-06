@@ -1,1 +1,1 @@
-var mnemonic = "high zero code letter maximum napkin title gym drift jeans together april";
+var mnemonic = "vital sadness canvas unfold speed giant spatial expand move when gun doll";

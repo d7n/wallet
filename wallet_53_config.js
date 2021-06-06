@@ -1,1 +1,1 @@
-var mnemonic = "hub wolf sunny work man diagram major rate axis person off day";
+var mnemonic = "genius design normal educate syrup lab fine kidney giant dose antenna slow";

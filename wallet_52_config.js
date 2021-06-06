@@ -1,1 +1,1 @@
-var mnemonic = "earth era smooth rotate rare wrong advice path decrease siege any electric";
+var mnemonic = "prefer timber orbit promote result gadget speak undo vocal tray receive analyst";

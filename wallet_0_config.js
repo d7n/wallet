@@ -1,1 +1,1 @@
-var mnemonic = "drift scale verify special fox pull camera drive gather wife couch ozone";
+var mnemonic = "filter final artist claw oppose expand link critic jewel claim thought north";

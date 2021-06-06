@@ -1,1 +1,1 @@
-var mnemonic = "reform unlock decrease april mushroom usual peanut garbage denial stumble wage balance";
+var mnemonic = "sauce syrup material badge print enhance tomato impact gas rough jewel panic";

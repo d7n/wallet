@@ -1,1 +1,1 @@
-var mnemonic = "before retreat urge check giggle daughter bitter electric romance praise fish clerk";
+var mnemonic = "smile model share tourist dynamic buyer drum crime taste smooth twin provide";
