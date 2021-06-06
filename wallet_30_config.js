@@ -1,1 +1,1 @@
-var mnemonic = "unfold misery fortune kite camp able rate celery already lucky patch fringe";
+var mnemonic = "pattern depend bubble amazing dignity resource mistake pet garment moon position grace";

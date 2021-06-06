@@ -1,1 +1,1 @@
-var mnemonic = "rebel hero purpose force fix gain help false secret color garage result";
+var mnemonic = "urge shiver muscle zone heavy emerge sort exchange sudden tumble legend tray";

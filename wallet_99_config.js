@@ -1,1 +1,1 @@
-var mnemonic = "month hamster attitude fuel offer rely struggle mistake enjoy stay tonight skill";
+var mnemonic = "acquire immune resource very total swamp broken rib edit buyer stove hurry";

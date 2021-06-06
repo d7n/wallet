@@ -1,1 +1,1 @@
-var mnemonic = "guard mesh fence ball decline sketch mirror quick business win move cube";
+var mnemonic = "verify crack blanket crouch tray poem grit aerobic reason brisk spatial improve";

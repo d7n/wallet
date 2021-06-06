@@ -1,1 +1,1 @@
-var mnemonic = "theory arch maximum divorce party exchange buyer cage cruel zoo cactus expand";
+var mnemonic = "ability inform uncover able stand seminar accuse room balance salute economy endless";

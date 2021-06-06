@@ -1,1 +1,1 @@
-var mnemonic = "place brick victory ramp flat avocado index bind female salad stadium decrease";
+var mnemonic = "remain gospel timber gesture maid belt pudding cradle toast immense shrimp coyote";

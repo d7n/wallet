@@ -1,1 +1,1 @@
-var mnemonic = "domain mesh utility sunset salad speed arm early ship frog blouse squirrel";
+var mnemonic = "next eagle blind wide regret giant exhibit rich void leaf oil resemble";

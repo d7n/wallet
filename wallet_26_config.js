@@ -1,1 +1,1 @@
-var mnemonic = "typical bachelor vault ask addict pig kick renew juice fetch east opera";
+var mnemonic = "rule supply flag catch hat surround hazard monster mango note fury deal";

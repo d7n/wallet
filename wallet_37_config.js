@@ -1,1 +1,1 @@
-var mnemonic = "journey depend vessel believe marine promote birth plug enter mother orbit two";
+var mnemonic = "hair census female major elegant mom inside renew lunch promote more bulk";

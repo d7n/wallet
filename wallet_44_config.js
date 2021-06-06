@@ -1,1 +1,1 @@
-var mnemonic = "mandate creek fitness often narrow certain actual gold sea clutch leaf spin";
+var mnemonic = "radio angry cradle suit cash never man market property fiction snake owner";

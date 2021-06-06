@@ -1,1 +1,1 @@
-var mnemonic = "confirm effort pear anger waste electric middle indoor permit upset scatter wrong";
+var mnemonic = "illegal answer leaf hire tomato fatigue enough midnight bachelor lab siren bracket";

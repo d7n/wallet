@@ -1,1 +1,1 @@
-var mnemonic = "credit bracket dolphin garbage sting biology bacon spirit trouble three sand neck";
+var mnemonic = "pioneer buyer rebel left soda wise used music toss ready train obtain";

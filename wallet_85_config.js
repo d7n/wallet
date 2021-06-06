@@ -1,1 +1,1 @@
-var mnemonic = "weird essence note offer load chaos way remember output mouse helmet physical";
+var mnemonic = "express rough that away main invite bitter embrace depart birth then west";

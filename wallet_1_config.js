@@ -1,1 +1,1 @@
-var mnemonic = "chest ceiling design icon swallow error focus cheap record actor midnight eternal";
+var mnemonic = "mobile stand hero include you piano damage pet boil sun horse clip";

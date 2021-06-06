@@ -1,1 +1,1 @@
-var mnemonic = "river script era sausage chef brief vital shy effort solution sunset payment";
+var mnemonic = "puzzle aerobic pyramid mango dream cram message best climb height predict famous";

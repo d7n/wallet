@@ -1,1 +1,1 @@
-var mnemonic = "boy photo time tourist input nest donor decline skill uphold duty flight";
+var mnemonic = "boring danger visit mistake nominee law ivory service wink marine identify ivory";

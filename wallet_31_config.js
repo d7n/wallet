@@ -1,1 +1,1 @@
-var mnemonic = "relief monitor fuel fruit clip adult dance museum eye rigid saddle gasp";
+var mnemonic = "range able immense ginger require clever goddess capital alter neglect grass trigger";

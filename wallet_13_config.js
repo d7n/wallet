@@ -1,1 +1,1 @@
-var mnemonic = "erase cake zoo mesh much sketch friend paper obscure enlist inch flight";
+var mnemonic = "elegant cactus flight wolf include collect trial boost mixed slide garage saddle";

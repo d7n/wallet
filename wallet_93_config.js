@@ -1,1 +1,1 @@
-var mnemonic = "develop close coyote dream color usual arm practice cradle swing rather throw";
+var mnemonic = "pill first add deal truck change dwarf clock melt muffin coconut naive";

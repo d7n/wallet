@@ -1,1 +1,1 @@
-var mnemonic = "life mind then coyote push else response toe blanket walnut choice quick";
+var mnemonic = "lounge wife quit ankle pulp avoid walnut catch century cause camp afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace muscle laugh decorate leisure slender kite badge remind trick cry ice";
+var mnemonic = "barely model mango mistake mass domain future own mandate practice dust drive";

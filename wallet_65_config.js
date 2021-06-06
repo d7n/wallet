@@ -1,1 +1,1 @@
-var mnemonic = "hundred notice worth reject sport liquid pyramid drift vacant economy swing fatigue";
+var mnemonic = "fire cruise glad notable problem pizza bean elephant analyst screen climb daring";

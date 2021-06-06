@@ -1,1 +1,1 @@
-var mnemonic = "wheat tree fee waste tail spend police suggest head dinosaur game visa";
+var mnemonic = "friend mimic clerk airport funny scrap wild trigger hurt rival caught arctic";

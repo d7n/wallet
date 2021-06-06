@@ -1,1 +1,1 @@
-var mnemonic = "success black process raw various urban anger best innocent lunch palace recycle";
+var mnemonic = "promote notable oyster melody divorce maze credit brown company special friend scrub";

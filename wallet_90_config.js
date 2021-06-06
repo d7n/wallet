@@ -1,1 +1,1 @@
-var mnemonic = "position panic stem depend eyebrow half night bomb champion there approve manage";
+var mnemonic = "flush imitate trick save hope orbit fit ability feature marine edit upset";

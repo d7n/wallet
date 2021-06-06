@@ -1,1 +1,1 @@
-var mnemonic = "turn change essence shoot group recall anxiety behind reveal pulse extra rate";
+var mnemonic = "immune lonely globe second dumb atom tool cruise post flavor bone region";

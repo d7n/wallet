@@ -1,1 +1,1 @@
-var mnemonic = "host correct village suffer syrup critic myself cube actress outer traffic private";
+var mnemonic = "chunk blind wire among cinnamon jump jungle diagram jacket fiscal theme range";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter describe mimic always clarify rather umbrella force duck news roof initial";
+var mnemonic = "morning attack ring believe match cheese twin taste myth carry antique odor";

@@ -1,1 +1,1 @@
-var mnemonic = "menu odor buddy blossom access kid cruise solid end arrest tragic brick";
+var mnemonic = "real online speed fury myself humble bubble film rude source hint kite";

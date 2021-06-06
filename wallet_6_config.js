@@ -1,1 +1,1 @@
-var mnemonic = "build two recycle labor sister dentist stove reveal fabric dose essay rough";
+var mnemonic = "black hammer october output boil column print tower turtle net tank canal";

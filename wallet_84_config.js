@@ -1,1 +1,1 @@
-var mnemonic = "found acid company employ another gasp ketchup resource appear drive lobster age";
+var mnemonic = "hip resemble canyon apology random merry rival track spider stage maid gate";

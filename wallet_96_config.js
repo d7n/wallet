@@ -1,1 +1,1 @@
-var mnemonic = "rotate wink pottery mutual plunge hobby theme output talk cruel drama remain";
+var mnemonic = "swallow cereal vendor car tattoo mirror angle delay peanut beauty bring throw";

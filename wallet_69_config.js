@@ -1,1 +1,1 @@
-var mnemonic = "police prefer report another twist wild era radio quarter disease save admit";
+var mnemonic = "faint awake disorder coconut grid crew plunge enemy fault hobby misery own";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety include sad cabin east talk notice stay bright capable shove beach";
+var mnemonic = "clutch state digital media elegant try labor traffic taste labor south woman";

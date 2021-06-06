@@ -1,1 +1,1 @@
-var mnemonic = "length thumb invite region hard frame advance muffin nephew base charge sunset";
+var mnemonic = "waste rice section sad century business fetch abandon mail soul defy black";

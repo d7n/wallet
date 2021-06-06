@@ -1,1 +1,1 @@
-var mnemonic = "pond price pink exercise catalog try enable leisure cover click segment warm";
+var mnemonic = "fatigue fade wisdom summer multiply modify replace inherit cereal hope afford clay";

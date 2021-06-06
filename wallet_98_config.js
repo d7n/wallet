@@ -1,1 +1,1 @@
-var mnemonic = "pride buyer south door glare lobster airport ketchup document claw door please";
+var mnemonic = "amateur wrong sail like industry regret scatter kitchen wrestle chief save direct";

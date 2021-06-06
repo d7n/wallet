@@ -1,1 +1,1 @@
-var mnemonic = "inhale camera hamster grab three twin toward habit ivory armor token wage";
+var mnemonic = "love current rally hand fossil decide employ degree aim cruel moment human";

@@ -1,1 +1,1 @@
-var mnemonic = "cube pride jewel wood super attract view code series rabbit wolf check";
+var mnemonic = "avocado dwarf ball list coach food indoor grab lemon fit grow venue";

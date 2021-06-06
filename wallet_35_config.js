@@ -1,1 +1,1 @@
-var mnemonic = "shoulder lobster layer obvious expand crop hello oppose liquid mobile fiber donor";
+var mnemonic = "piano jungle napkin unhappy body identify arch ripple praise subway river oblige";

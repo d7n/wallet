@@ -1,1 +1,1 @@
-var mnemonic = "major warm hotel misery van patrol staff aware monster trophy slim reunion";
+var mnemonic = "utility kit never run royal toilet shrimp high clog smoke nest blur";

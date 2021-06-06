@@ -1,1 +1,1 @@
-var mnemonic = "absent scene develop mind burger appear edge win doctor job rib cloth";
+var mnemonic = "print crash regret gasp helmet install badge rhythm shoe extend morning solid";

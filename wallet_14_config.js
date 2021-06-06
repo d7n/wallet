@@ -1,1 +1,1 @@
-var mnemonic = "blossom whisper olympic brain bullet voyage rough easy hub blind diagram half";
+var mnemonic = "little dust between ability badge action intact direct shadow shrimp grab jelly";

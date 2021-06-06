@@ -1,1 +1,1 @@
-var mnemonic = "hint water angry flat cherry report parent buyer pledge account early motion";
+var mnemonic = "system primary afraid grape slide flag fiber soap humble stand door proud";

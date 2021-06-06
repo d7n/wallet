@@ -1,1 +1,1 @@
-var mnemonic = "letter luggage canyon opinion style powder guitar pledge carry brisk scrub raw";
+var mnemonic = "foam version person deposit course foil lecture mansion bring aware loan trouble";

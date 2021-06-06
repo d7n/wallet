@@ -1,1 +1,1 @@
-var mnemonic = "shine crazy race ability crystal robust gloom wire eyebrow pattern among disorder";
+var mnemonic = "spot blood police enable ecology casino armor tilt topic hunt blossom minor";

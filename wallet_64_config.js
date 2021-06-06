@@ -1,1 +1,1 @@
-var mnemonic = "curve caught moon buyer donate solution roof nice cloud leaf quiz gentle";
+var mnemonic = "taxi weekend mobile toe flavor vote manual acoustic debris hockey engage slab";

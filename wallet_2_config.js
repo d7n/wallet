@@ -1,1 +1,1 @@
-var mnemonic = "suffer satoshi lend prefer answer fossil drum pattern fragile analyst into chunk";
+var mnemonic = "south notable six outdoor crane usage vehicle toy gasp avoid cart wash";

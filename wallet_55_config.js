@@ -1,1 +1,1 @@
-var mnemonic = "art enhance laptop use noble truly burden near walnut history control rabbit";
+var mnemonic = "delay horror ice gold sweet tissue keen fluid jungle call polar verb";

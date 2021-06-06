@@ -1,1 +1,1 @@
-var mnemonic = "culture aspect mammal plastic rigid crew pencil keen immense vital tomorrow high";
+var mnemonic = "radar silver banana awake marriage idea swamp artwork easily cause spike image";

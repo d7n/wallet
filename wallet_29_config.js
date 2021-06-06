@@ -1,1 +1,1 @@
-var mnemonic = "glad dragon unit liar bamboo ship science tobacco sing forget time ahead";
+var mnemonic = "mechanic mule health welcome shine history achieve copper nation old brother settle";

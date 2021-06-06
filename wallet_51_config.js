@@ -1,1 +1,1 @@
-var mnemonic = "opera coil tilt library three beyond quote sing beef match design erupt";
+var mnemonic = "sugar blame logic finger radar brick ability elbow coach pepper thing usual";

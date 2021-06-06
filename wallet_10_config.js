@@ -1,1 +1,1 @@
-var mnemonic = "fee act physical course skill flip abandon convince lonely island diamond plug";
+var mnemonic = "hawk agree subject always bachelor lava find rib hockey mushroom atom eternal";

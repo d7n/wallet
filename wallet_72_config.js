@@ -1,1 +1,1 @@
-var mnemonic = "write allow mule planet noodle waste call away cupboard remind body satoshi";
+var mnemonic = "fury wealth token ecology hedgehog remain habit rural video rent hard question";

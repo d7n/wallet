@@ -1,1 +1,1 @@
-var mnemonic = "light you clay element kiwi faint jazz exact setup addict hand sell";
+var mnemonic = "core label sense talent phone market section assist chaos person panther monster";

@@ -1,1 +1,1 @@
-var mnemonic = "argue legal thunder palace smooth dumb harbor twist round tenant custom civil";
+var mnemonic = "provide lake sadness believe expire survey weekend crowd limit purpose then join";

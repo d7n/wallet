@@ -1,1 +1,1 @@
-var mnemonic = "injury calm scatter aspect sign carbon keen jewel mushroom nut cargo noise";
+var mnemonic = "nut depart utility angry verb evil floor put raven letter arch wash";

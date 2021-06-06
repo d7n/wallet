@@ -1,1 +1,1 @@
-var mnemonic = "icon dog february already tired must like green sing dish sell sphere";
+var mnemonic = "crush smoke census flight dash bright gun frost logic remind spread embody";

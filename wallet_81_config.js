@@ -1,1 +1,1 @@
-var mnemonic = "strong entire dignity crop possible emotion metal book march rebel fine cruise";
+var mnemonic = "empty ordinary result million ethics common book traffic true stem upgrade path";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit cloth library audit salmon wait skin explain kick hip hollow gossip";
+var mnemonic = "sand spice endorse nephew drink dress proud vicious grain present dwarf monitor";

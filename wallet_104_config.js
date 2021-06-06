@@ -1,1 +1,1 @@
-var mnemonic = "cube frown pupil else chronic address orange clinic april napkin believe space";
+var mnemonic = "exile jar purpose sentence monitor pear taste deal lumber naive art play";

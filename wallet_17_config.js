@@ -1,1 +1,1 @@
-var mnemonic = "badge loud improve green army delay strike model inner domain pill heart";
+var mnemonic = "mask gaze soft squeeze attack spatial actress fruit horror illness that unlock";

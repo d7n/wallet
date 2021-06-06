@@ -1,1 +1,1 @@
-var mnemonic = "aunt bachelor heavy earth jacket pen gospel deposit yard jacket rifle family";
+var mnemonic = "viable round tank extend parade episode ritual riot announce protect say track";

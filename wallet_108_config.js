@@ -1,1 +1,1 @@
-var mnemonic = "tennis rice school valve lady boring hire salad parrot spike awful pepper";
+var mnemonic = "response hobby ahead jelly oyster radar way light idea maze either guard";

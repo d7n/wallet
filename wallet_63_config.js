@@ -1,1 +1,1 @@
-var mnemonic = "certain olympic raven almost submit sunset survey lawn receive buffalo gap notable";
+var mnemonic = "prison siege surface state suit call squeeze desert split trouble small save";

@@ -1,1 +1,1 @@
-var mnemonic = "script faith blame agent elevator alien slender crack domain grain upgrade knock";
+var mnemonic = "assist roast purity clarify laundry panda depth exist fiscal defy lecture impact";

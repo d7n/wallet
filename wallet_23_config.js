@@ -1,1 +1,1 @@
-var mnemonic = "achieve rely puppy ketchup candy typical fragile spring that rapid cricket million";
+var mnemonic = "town toy benefit usual clown immense pretty glide almost frost like spare";

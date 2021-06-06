@@ -1,1 +1,1 @@
-var mnemonic = "furnace soccer differ main notice lemon give come cave very screen obscure";
+var mnemonic = "all live save sign better dignity tourist little moment giant hint reveal";

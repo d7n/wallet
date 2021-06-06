@@ -1,1 +1,1 @@
-var mnemonic = "damp duty index tackle turtle rigid bundle parent chalk dress cluster fix";
+var mnemonic = "course duty transfer region dwarf leave film shoe nuclear three little dog";

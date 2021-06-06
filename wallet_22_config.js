@@ -1,1 +1,1 @@
-var mnemonic = "news sock inspire chuckle lottery dentist fruit deal ethics album chaos narrow";
+var mnemonic = "quality insane rent used purchase erase twice isolate scrub flock blind soda";

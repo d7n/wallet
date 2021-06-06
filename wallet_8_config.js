@@ -1,1 +1,1 @@
-var mnemonic = "rice brisk fence toilet first neither save tattoo fury exhaust reason crouch";
+var mnemonic = "relax have breeze intact expire fish achieve confirm bracket cruise dignity garlic";

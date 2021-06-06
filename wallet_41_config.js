@@ -1,1 +1,1 @@
-var mnemonic = "soda twelve evolve struggle wait creek ecology squeeze fatal twice upset canal";
+var mnemonic = "butter hundred friend meadow seat main soup together wagon elbow miss north";

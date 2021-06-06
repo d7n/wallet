@@ -1,1 +1,1 @@
-var mnemonic = "empty base destroy drink just glass beef fence home normal giant extra";
+var mnemonic = "jazz check erode baby vintage patrol art pet surface ceiling dragon erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "burden aim coral symptom party quick manage anger multiply anger can auto";
+var mnemonic = "action kit record language original balance correct grain horror busy race outside";

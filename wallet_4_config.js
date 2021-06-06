@@ -1,1 +1,1 @@
-var mnemonic = "matter salt kingdom man today cabbage parade vocal cloud warrior box process";
+var mnemonic = "bicycle bag erode lizard poet blast scout scrub father reopen spatial truck";

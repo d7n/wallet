@@ -1,1 +1,1 @@
-var mnemonic = "crucial wash hero forum predict half adapt heavy rule speak reason artefact";
+var mnemonic = "foil label wealth call have arrange wheel fortune property glide maze amateur";

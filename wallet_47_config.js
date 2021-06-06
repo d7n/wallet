@@ -1,1 +1,1 @@
-var mnemonic = "airport shallow swing office ride solid alpha artist canvas select cargo achieve";
+var mnemonic = "defense thank one service salmon jazz strong valley jacket still leaf boil";

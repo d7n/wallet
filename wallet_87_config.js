@@ -1,1 +1,1 @@
-var mnemonic = "december code victory say suffer today world opera joke student blame suit";
+var mnemonic = "response brick morning script bench access pitch three badge monitor knock fall";

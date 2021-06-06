@@ -1,1 +1,1 @@
-var mnemonic = "illegal unfair hunt thought express timber thought heavy way cricket unhappy rally";
+var mnemonic = "axis situate zone tissue episode ill cycle amateur strike short cupboard because";

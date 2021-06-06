@@ -1,1 +1,1 @@
-var mnemonic = "forum moral bomb random abandon certain acquire language act dismiss divide pepper";
+var mnemonic = "polar device useless truly switch useless skirt motor caught abuse avocado display";

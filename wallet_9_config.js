@@ -1,1 +1,1 @@
-var mnemonic = "dog undo aspect drink atom today famous life abuse chest blur wage";
+var mnemonic = "empty music meadow announce lunar sock hello finish below normal category stick";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney hood walk belt furnace age video horn twelve diary humble fiscal";
+var mnemonic = "error fit skull lumber lend trim voice rain income buzz endless mixed";

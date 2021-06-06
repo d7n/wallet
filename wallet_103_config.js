@@ -1,1 +1,1 @@
-var mnemonic = "tilt junk become avoid height judge salon feature suit stairs drop split";
+var mnemonic = "swim core amount lyrics orchard mobile mail item soldier kitchen taste prevent";

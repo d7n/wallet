@@ -1,1 +1,1 @@
-var mnemonic = "can census tube gun share leopard disorder balcony ancient clown hold busy";
+var mnemonic = "say quarter elegant mule butter weird sketch inherit mosquito essence toilet pool";

@@ -1,1 +1,1 @@
-var mnemonic = "coil spike warm infant cattle nerve true ozone open riot cricket pistol";
+var mnemonic = "access version cabbage coffee win float interest ladder drift dog impact boring";

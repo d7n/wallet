@@ -1,1 +1,1 @@
-var mnemonic = "cancel what swallow sense craft include dinner laptop upset write soap federal";
+var mnemonic = "toddler prevent quarter cloud ceiling segment drift dizzy ritual wonder real attitude";

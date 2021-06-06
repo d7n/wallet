@@ -1,1 +1,1 @@
-var mnemonic = "scissors release smoke street wine fix melt token tiger rain chief acid";
+var mnemonic = "often garage draw resist divorce warrior road day slow coconut silent mistake";

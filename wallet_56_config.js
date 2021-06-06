@@ -1,1 +1,1 @@
-var mnemonic = "cradle dog chaos chimney brisk bamboo genre twice light utility invite predict";
+var mnemonic = "ring winner sugar near caution dinner legend blood stem waste plastic thought";

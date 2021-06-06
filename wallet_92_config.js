@@ -1,1 +1,1 @@
-var mnemonic = "dog ticket glue march spirit claw drama sail taste control breeze gorilla";
+var mnemonic = "maid quiz monkey ribbon obey lab distance resist ice matter green jelly";

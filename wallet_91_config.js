@@ -1,1 +1,1 @@
-var mnemonic = "bleak chalk turkey steak bus tuition weasel current credit camp protect recycle";
+var mnemonic = "bid physical carbon toddler trap recipe dutch smile prefer man property catalog";

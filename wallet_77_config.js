@@ -1,1 +1,1 @@
-var mnemonic = "angry task sentence sick soldier abandon supply only twist milk method wave";
+var mnemonic = "clarify fantasy tuition blast acoustic speed luxury garlic obscure pass burst trap";
