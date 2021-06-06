@@ -1,1 +1,1 @@
-var mnemonic = "right put swear hold promote sword attract female veteran repair blouse ghost";
+var mnemonic = "club buddy side room strong crowd borrow ranch again toilet tank marine";

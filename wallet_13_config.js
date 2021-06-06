@@ -1,1 +1,1 @@
-var mnemonic = "arrange border shed comic stay ramp magic panic chase skin axis puzzle";
+var mnemonic = "return fault muffin volcano risk special remember emerge foster evidence world embody";

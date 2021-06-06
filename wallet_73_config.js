@@ -1,1 +1,1 @@
-var mnemonic = "april sing dog lift little they narrow carry very march stereo lava";
+var mnemonic = "candy resource cushion link gap stereo convince card length wine earth tumble";

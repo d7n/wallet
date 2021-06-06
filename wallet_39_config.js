@@ -1,1 +1,1 @@
-var mnemonic = "pyramid toe remain shuffle armed duty acoustic hero start food tiny sister";
+var mnemonic = "sheriff episode sausage dad muscle edit enrich flavor report surround margin act";

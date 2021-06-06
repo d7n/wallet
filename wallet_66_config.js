@@ -1,1 +1,1 @@
-var mnemonic = "tree resource exhaust acoustic burden wasp ocean dutch beyond camp water fantasy";
+var mnemonic = "smart lazy south net sure person setup globe liar cannon scale bench";

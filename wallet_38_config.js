@@ -1,1 +1,1 @@
-var mnemonic = "huge dumb height language iron favorite object return eagle tongue ladder sight";
+var mnemonic = "picture damage phone must allow innocent vast match rely base cousin flavor";

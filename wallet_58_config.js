@@ -1,1 +1,1 @@
-var mnemonic = "remove pig pulse evoke buddy drop warm twelve payment cash travel gauge";
+var mnemonic = "cigar toss exact swallow useful bleak elegant resource spin month lonely into";

@@ -1,1 +1,1 @@
-var mnemonic = "various oven tooth glow seven enter push play similar update travel inspire";
+var mnemonic = "kid silly catalog atom diagram mask ready must stamp impulse resource onion";

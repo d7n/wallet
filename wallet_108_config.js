@@ -1,1 +1,1 @@
-var mnemonic = "zoo smoke clarify north noble scorpion goddess author obey early surprise canyon";
+var mnemonic = "sorry middle metal weasel car best sense slab beauty chef seed tomorrow";

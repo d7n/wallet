@@ -1,1 +1,1 @@
-var mnemonic = "series turn turkey myself solar tell purity neither weather carpet mean soldier";
+var mnemonic = "comic hold only bless ankle glimpse pelican penalty alley glide cotton craft";

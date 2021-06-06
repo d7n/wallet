@@ -1,1 +1,1 @@
-var mnemonic = "good already topic runway drive like maid autumn hunt game wrestle top";
+var mnemonic = "sail cheese local jealous measure above enhance curtain fancy come rather furnace";

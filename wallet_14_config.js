@@ -1,1 +1,1 @@
-var mnemonic = "spirit garment action keep elegant over sibling donate panel glad notice sketch";
+var mnemonic = "rebel fiction device group utility early lock drift recipe cream dragon casual";

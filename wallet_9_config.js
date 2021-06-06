@@ -1,1 +1,1 @@
-var mnemonic = "review float exit nasty word tell jewel lab lady talk away hip";
+var mnemonic = "crane puzzle stairs issue virus aerobic pottery false mechanic wasp envelope earth";

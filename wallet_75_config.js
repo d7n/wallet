@@ -1,1 +1,1 @@
-var mnemonic = "human alien burden lonely concert notice aunt vehicle multiply wonder topple bird";
+var mnemonic = "unable organ lend trumpet divorce dad patrol pull ghost obtain void battle";

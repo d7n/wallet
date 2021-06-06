@@ -1,1 +1,1 @@
-var mnemonic = "various reduce renew degree tackle oxygen morning world hamster panda between label";
+var mnemonic = "bitter canvas wait already minor mix idle analyst credit always crash great";

@@ -1,1 +1,1 @@
-var mnemonic = "aim oxygen float soup biology yellow poet lucky transfer thing cactus elder";
+var mnemonic = "cloth general mean narrow stamp speed faculty forest connect green apple lock";

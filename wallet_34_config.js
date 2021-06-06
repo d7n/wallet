@@ -1,1 +1,1 @@
-var mnemonic = "behind attack control nothing expose maximum scale clay truth festival then judge";
+var mnemonic = "essence clock turtle spatial panel concert table spoil danger man beauty theme";

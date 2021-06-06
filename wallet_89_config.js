@@ -1,1 +1,1 @@
-var mnemonic = "list foam hazard bless insane route august vehicle agent gravity symptom express";
+var mnemonic = "ecology first consider offer educate enact wrestle educate pole faculty neutral sight";

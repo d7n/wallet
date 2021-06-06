@@ -1,1 +1,1 @@
-var mnemonic = "office decide stock coral actress police atom animal shield degree soldier scrub";
+var mnemonic = "model usage strong bounce stomach practice grant melt century absent dry cost";

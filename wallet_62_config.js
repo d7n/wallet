@@ -1,1 +1,1 @@
-var mnemonic = "east amateur tunnel battle file maid pave sniff draw spread slender welcome";
+var mnemonic = "lion eyebrow nerve catalog elegant sad there foam scan tool spring crisp";

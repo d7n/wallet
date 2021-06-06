@@ -1,1 +1,1 @@
-var mnemonic = "pepper guide biology execute melt brown diagram donor harsh cream castle inflict";
+var mnemonic = "hungry increase cry below virtual forest scheme clutch twenty shop afraid bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "dog action slogan cart kangaroo erode ghost unfair reason route valve reject";
+var mnemonic = "bonus method title reason spread have grocery solve couple one final same";

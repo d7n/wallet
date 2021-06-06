@@ -1,1 +1,1 @@
-var mnemonic = "ketchup squeeze mirror light popular hire silent page lumber potato question attract";
+var mnemonic = "crew dwarf bunker truth wealth response define sell maze prefer find chef";

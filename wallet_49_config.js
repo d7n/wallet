@@ -1,1 +1,1 @@
-var mnemonic = "current wheel source dream hour shrug drop crunch error rely foil angle";
+var mnemonic = "jaguar hazard budget chest spatial cave fog fall wood dragon pudding wisdom";

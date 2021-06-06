@@ -1,1 +1,1 @@
-var mnemonic = "chalk waste pear print debris urban wing other tuna only heart machine";
+var mnemonic = "mix weasel away grace phrase milk major come gentle diesel spirit lesson";

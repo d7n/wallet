@@ -1,1 +1,1 @@
-var mnemonic = "stadium rabbit forum license mesh chest list ship credit position filter manual";
+var mnemonic = "path bicycle shove bacon document girl eight pattern one grit check outside";

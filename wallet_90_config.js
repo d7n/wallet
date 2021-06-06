@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sunny near purpose salmon begin squirrel senior entire saddle universe rack";
+var mnemonic = "duck badge alien rookie game rose brisk track force caution walk paper";

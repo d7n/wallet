@@ -1,1 +1,1 @@
-var mnemonic = "voyage release able pizza age clerk thank captain cube matter focus six";
+var mnemonic = "ski outside sort style pair planet magic sweet addict chat jelly tank";

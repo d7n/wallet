@@ -1,1 +1,1 @@
-var mnemonic = "crouch mail adjust kick sunset segment garment equip know caution list short";
+var mnemonic = "gaze force oxygen coconut bunker ritual estate public magic fiscal trick photo";

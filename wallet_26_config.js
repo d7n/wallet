@@ -1,1 +1,1 @@
-var mnemonic = "curious glide change miss brisk member replace jeans merit enlist ripple quit";
+var mnemonic = "chair two hedgehog damage bracket survey stamp program fruit sea wing scare";

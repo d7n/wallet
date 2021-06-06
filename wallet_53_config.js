@@ -1,1 +1,1 @@
-var mnemonic = "angle bean burden submit defense tissue wagon test area crunch lawn oyster";
+var mnemonic = "menu relax combine camp bean claim token advice lobster century cousin couple";

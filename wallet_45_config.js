@@ -1,1 +1,1 @@
-var mnemonic = "tilt bamboo finger gloom mystery since hospital erupt trial round kitten drastic";
+var mnemonic = "glove chair busy cancel flower tornado gap clinic soda erase barrel ripple";

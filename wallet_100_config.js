@@ -1,1 +1,1 @@
-var mnemonic = "endless nuclear armor toe three disagree thought world jar veteran actor robot";
+var mnemonic = "fringe useful hill orbit tired write sunny pause siege table cruel parrot";

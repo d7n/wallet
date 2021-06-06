@@ -1,1 +1,1 @@
-var mnemonic = "material spider purse one crew warfare knock belt wolf fit easily bike";
+var mnemonic = "swift car shell mail actual stamp nerve mad soap lawn there dad";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel truck ball flower rare comic resist door town rich slush build";
+var mnemonic = "quantum other place nut nice rabbit title miracle cage album custom bargain";

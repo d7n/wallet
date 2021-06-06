@@ -1,1 +1,1 @@
-var mnemonic = "else basket during dolphin mammal little project modify melt physical seven capable";
+var mnemonic = "sight silent perfect skate trumpet powder wage potato little change lab disease";

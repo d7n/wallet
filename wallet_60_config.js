@@ -1,1 +1,1 @@
-var mnemonic = "super address scissors traffic captain neglect manage fatal bronze desert develop cute";
+var mnemonic = "wash silly history grass intact abuse live robust matter real where office";

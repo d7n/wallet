@@ -1,1 +1,1 @@
-var mnemonic = "steak toe license sunny wolf ensure wear mutual whale real steak address";
+var mnemonic = "position river lend word concert position bracket gain average amused salad where";

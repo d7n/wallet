@@ -1,1 +1,1 @@
-var mnemonic = "expect release ridge define armor baby motion mechanic gloom quit convince burger";
+var mnemonic = "grief tone alarm profit jelly throw jump runway snow hen eye illness";

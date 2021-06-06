@@ -1,1 +1,1 @@
-var mnemonic = "clerk grid attract label danger eager clump slice disagree grit vast consider";
+var mnemonic = "busy blur head gossip purity caution inspire liquid legal again dinner team";

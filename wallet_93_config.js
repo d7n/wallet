@@ -1,1 +1,1 @@
-var mnemonic = "jewel hurt weird collect decide lawsuit mouse hazard conduct awake city fortune";
+var mnemonic = "increase ability clarify derive banana maple offer glimpse kit effort jazz eager";

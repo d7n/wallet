@@ -1,1 +1,1 @@
-var mnemonic = "curtain solution chimney goat outside build frozen belt pave indoor luggage february";
+var mnemonic = "glue stomach much age expect mom super virus snow badge evoke shove";

@@ -1,1 +1,1 @@
-var mnemonic = "fix oxygen begin breeze once fetch decide alien extend simple surge flee";
+var mnemonic = "again fancy foam fashion dirt extend write ring riot modify ostrich wait";

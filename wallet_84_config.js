@@ -1,1 +1,1 @@
-var mnemonic = "pudding domain immense segment hurt mesh cycle check ready absorb wish brand";
+var mnemonic = "sea eternal state elbow exotic good crumble vote pelican garment victory kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "oven stairs embrace ritual mad cradle evil plastic potato impact hood endorse";
+var mnemonic = "buffalo deal copper matter autumn spend already tragic agent ensure flavor eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "history embark pencil nest admit oppose embody snow quantum napkin pass slow";
+var mnemonic = "onion logic sibling ecology maze right tray hundred sample biology cruel taste";

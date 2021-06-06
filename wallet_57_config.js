@@ -1,1 +1,1 @@
-var mnemonic = "banner board canvas endless slot cliff pepper gold brave fence city bird";
+var mnemonic = "unlock idea solve pistol river wear all tape quantum toilet repeat saddle";

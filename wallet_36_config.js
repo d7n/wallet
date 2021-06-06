@@ -1,1 +1,1 @@
-var mnemonic = "jar now sand agree sketch tribe urge truly crumble vocal student surface";
+var mnemonic = "educate unhappy purpose soda voyage display glance immune actor protect dynamic limit";

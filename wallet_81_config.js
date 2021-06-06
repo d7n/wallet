@@ -1,1 +1,1 @@
-var mnemonic = "warm adult fancy squeeze sort mule strong sure praise daughter turtle voyage";
+var mnemonic = "empty calm roast barrel shoe tree gossip flip husband engage below moon";

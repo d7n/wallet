@@ -1,1 +1,1 @@
-var mnemonic = "lock fold usual grid maze seed wheel horn devote few ripple wild";
+var mnemonic = "practice resist like myself mango earth gauge bridge expose argue stadium unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain topple metal trap lottery inquiry slogan soul kiwi educate finish century";
+var mnemonic = "real mansion announce trade trigger zone club session super hip funny kitchen";

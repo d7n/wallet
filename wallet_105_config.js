@@ -1,1 +1,1 @@
-var mnemonic = "until glow skirt easily clog breeze phone praise humor oyster double help";
+var mnemonic = "fragile vital rare dose lawsuit reduce dad inject valid follow exhibit dial";

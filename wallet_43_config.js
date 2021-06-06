@@ -1,1 +1,1 @@
-var mnemonic = "helmet fit imitate print essay absent captain ethics clown lazy victory exact";
+var mnemonic = "scan shoot mad left tattoo tray zoo vast belt settle surge galaxy";

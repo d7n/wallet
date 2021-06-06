@@ -1,1 +1,1 @@
-var mnemonic = "onion zero wonder jazz figure ritual impulse patch sniff senior minor valve";
+var mnemonic = "family lazy disease useless action clump into around cube art figure safe";

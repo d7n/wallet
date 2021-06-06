@@ -1,1 +1,1 @@
-var mnemonic = "file nominee diamond joy chief cabin fee renew ski comic episode typical";
+var mnemonic = "bread throw teach bundle exclude slot random skate public find purity fetch";

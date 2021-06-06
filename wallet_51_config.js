@@ -1,1 +1,1 @@
-var mnemonic = "cream summer race ankle have wash churn unveil vintage good agree vocal";
+var mnemonic = "imitate grain drink basic series aerobic top actor apart menu stomach floor";

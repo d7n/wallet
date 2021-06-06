@@ -1,1 +1,1 @@
-var mnemonic = "ill force exhibit spider battle dumb used early wool dish enforce moral";
+var mnemonic = "clay century word crowd version exist thank average anger equip donate knife";

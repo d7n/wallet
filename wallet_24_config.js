@@ -1,1 +1,1 @@
-var mnemonic = "finger casino trumpet festival rabbit real bread prize skirt merge minimum dumb";
+var mnemonic = "eager move chicken stay whip will session develop luxury beef feature edge";

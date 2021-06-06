@@ -1,1 +1,1 @@
-var mnemonic = "misery creek celery voyage acoustic refuse seek enemy parent spoil trigger lemon";
+var mnemonic = "youth siren curtain stable predict call volcano resist defense mushroom sun cupboard";

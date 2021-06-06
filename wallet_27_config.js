@@ -1,1 +1,1 @@
-var mnemonic = "police one pitch forget very version poverty pen primary panel lab lift";
+var mnemonic = "inner cake vault exotic truck law wall join hip eternal blossom ladder";

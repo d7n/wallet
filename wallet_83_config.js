@@ -1,1 +1,1 @@
-var mnemonic = "doll enforce cream air jealous yellow media kiss boil dress fat sniff";
+var mnemonic = "thrive tomorrow question misery illegal coyote dignity lazy recall slow bronze walnut";

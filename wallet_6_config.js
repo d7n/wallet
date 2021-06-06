@@ -1,1 +1,1 @@
-var mnemonic = "subway sunny company rule sad issue capable cancel cricket brave notable learn";
+var mnemonic = "youth tonight fabric maple morning thank accident rubber urge urge glance child";

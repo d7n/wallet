@@ -1,1 +1,1 @@
-var mnemonic = "kite network acoustic plastic recycle pioneer liberty good already hunt cover chef";
+var mnemonic = "toward mad polar diet practice hold betray foot afraid summer spin detail";

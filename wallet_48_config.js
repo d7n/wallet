@@ -1,1 +1,1 @@
-var mnemonic = "suit aim vibrant castle track pledge truck educate belt weather rug caution";
+var mnemonic = "risk ketchup process entire panda sudden myth rude radar curve addict chase";

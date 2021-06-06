@@ -1,1 +1,1 @@
-var mnemonic = "lounge power twelve couch style brick hen sibling ride broken spike swallow";
+var mnemonic = "fence left media art ridge virus correct debate buzz mention notice abandon";

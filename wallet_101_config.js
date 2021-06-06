@@ -1,1 +1,1 @@
-var mnemonic = "pledge kangaroo gate skate material jump material trumpet choice sure burst purpose";
+var mnemonic = "carpet edge clap unhappy priority end dismiss broom route purpose check grab";

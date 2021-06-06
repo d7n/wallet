@@ -1,1 +1,1 @@
-var mnemonic = "stage west endorse produce network correct swallow bundle planet curtain act core";
+var mnemonic = "truth crowd rent cute seat trade chief open venture century attack large";

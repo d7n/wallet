@@ -1,1 +1,1 @@
-var mnemonic = "acid cliff double spray pluck borrow mutual need oblige life fiber canvas";
+var mnemonic = "rare occur expect capable food often position choose churn glance program matter";

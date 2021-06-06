@@ -1,1 +1,1 @@
-var mnemonic = "rocket throw marble check lift addict already rabbit safe denial giant pretty";
+var mnemonic = "noble slight ancient collect equal soft breeze spell chronic gain large curtain";

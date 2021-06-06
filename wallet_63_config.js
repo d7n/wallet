@@ -1,1 +1,1 @@
-var mnemonic = "satoshi bright physical crouch uncle share now tragic empty robust decade tag";
+var mnemonic = "diesel tunnel coyote ancient depth daughter display turn pupil hover very unique";

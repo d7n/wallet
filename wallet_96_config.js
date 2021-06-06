@@ -1,1 +1,1 @@
-var mnemonic = "relief mean tortoise van bunker spider palace cross guess step student rail";
+var mnemonic = "nice girl faculty method unfair torch orange whale trap hidden diamond velvet";

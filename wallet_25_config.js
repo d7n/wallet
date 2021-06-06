@@ -1,1 +1,1 @@
-var mnemonic = "flush mule stay deny juice nation cook mention tribe human mass second";
+var mnemonic = "elbow egg upgrade husband universe orphan act shrug hockey work spike captain";

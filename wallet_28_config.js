@@ -1,1 +1,1 @@
-var mnemonic = "shoe arrest fix bottom tip welcome letter armed wagon thank guilt odor";
+var mnemonic = "timber cereal van ostrich candy hint tattoo hen poet practice remain pear";

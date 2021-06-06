@@ -1,1 +1,1 @@
-var mnemonic = "mail food glue arrest switch install chat oyster build slow trouble spoil";
+var mnemonic = "mix leaf loud ring tool math bind want slogan rate wrestle picture";

@@ -1,1 +1,1 @@
-var mnemonic = "maid scare fuel taxi weird defy once veteran humor rich setup assist";
+var mnemonic = "dentist wise asthma burst junk velvet walnut rigid idea advice trust joy";

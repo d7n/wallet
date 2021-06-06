@@ -1,1 +1,1 @@
-var mnemonic = "raw horror sorry enlist load crucial mechanic setup leave venue bargain dawn";
+var mnemonic = "music stock snap shuffle seat assist decide mansion priority memory parade grass";

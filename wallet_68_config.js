@@ -1,1 +1,1 @@
-var mnemonic = "day clip proof envelope across veteran utility lamp rail steel wreck case";
+var mnemonic = "hill depth pair twelve like tooth idle stock gaze vehicle amateur awful";

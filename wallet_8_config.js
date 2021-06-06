@@ -1,1 +1,1 @@
-var mnemonic = "weasel dignity jewel drip bless salmon live dream fee caught believe tumble";
+var mnemonic = "mail maze farm leader essence winter verify morning guess trust small public";

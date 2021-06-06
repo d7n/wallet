@@ -1,1 +1,1 @@
-var mnemonic = "image exercise lion action coral demand duty response puzzle wear suggest jealous";
+var mnemonic = "idle boss install grape input mother despair pond donkey split moon ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "hood adult coach addict exhaust shoulder switch thrive diagram come canoe relief";
+var mnemonic = "help van acid champion vague glory result crop embrace must enhance rescue";

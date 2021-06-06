@@ -1,1 +1,1 @@
-var mnemonic = "repair elite cushion false bargain meat isolate donor girl milk luggage you";
+var mnemonic = "coconut reopen found auto retire lazy have rice term jungle fiber whale";

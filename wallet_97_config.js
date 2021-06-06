@@ -1,1 +1,1 @@
-var mnemonic = "ride exit bleak abstract hire rib cancel write sustain kick tissue rapid";
+var mnemonic = "glass lend cake snack wide brave gold height spawn crazy thought bleak";

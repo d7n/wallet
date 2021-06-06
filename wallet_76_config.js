@@ -1,1 +1,1 @@
-var mnemonic = "thrive pitch shop token spare kitchen poem mouse battle delay autumn pause";
+var mnemonic = "like sketch crouch fault hundred chef monitor broom fox voice deliver excess";

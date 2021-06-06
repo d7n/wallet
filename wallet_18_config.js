@@ -1,1 +1,1 @@
-var mnemonic = "cook parade scare obey raw alert bean tray library ancient vapor siege";
+var mnemonic = "company alone kitchen atom primary undo sadness cheese harsh noble mushroom gold";

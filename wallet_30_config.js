@@ -1,1 +1,1 @@
-var mnemonic = "wife mutual obvious feel card remember fever knee series pelican miracle mean";
+var mnemonic = "front they taxi unit virus stuff girl wise perfect horn barely urge";

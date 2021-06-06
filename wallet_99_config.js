@@ -1,1 +1,1 @@
-var mnemonic = "prevent vital garden cost total there modify maple asset siege grocery flash";
+var mnemonic = "glimpse sunny version tree debris achieve dragon oppose until wet liar into";

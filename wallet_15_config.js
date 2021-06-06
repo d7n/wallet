@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin boss engage scheme garbage chronic never plunge debate ghost strategy alpha";
+var mnemonic = "improve slogan fall chest sight crumble twelve tiger type ocean section decline";

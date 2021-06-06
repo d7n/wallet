@@ -1,1 +1,1 @@
-var mnemonic = "squirrel drill worry swift extend flat front daughter north radar manual glory";
+var mnemonic = "ranch install target once worth anchor worry west crucial rescue trade sponsor";

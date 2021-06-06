@@ -1,1 +1,1 @@
-var mnemonic = "input stumble glory huge inherit viable mango brand chat tank repeat peace";
+var mnemonic = "topple leader village meadow special basic abstract car black adult helmet believe";

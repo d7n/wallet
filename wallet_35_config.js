@@ -1,1 +1,1 @@
-var mnemonic = "lizard agree wrist pumpkin ridge bubble deal segment pig spy art artefact";
+var mnemonic = "ankle stem lumber mountain title olive arm estate salt release sunny regular";

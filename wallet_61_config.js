@@ -1,1 +1,1 @@
-var mnemonic = "print hockey diary legal write hip rely surface demise believe produce off";
+var mnemonic = "remove bamboo glass add relax exact town degree prison cricket unlock project";

@@ -1,1 +1,1 @@
-var mnemonic = "around toast pattern gas protect hurry ring surge increase purity sound state";
+var mnemonic = "magic peasant detail comic thing scrap hip mother electric vehicle bread swamp";

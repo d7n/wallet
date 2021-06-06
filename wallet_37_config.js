@@ -1,1 +1,1 @@
-var mnemonic = "harvest vivid family snow client force always strong wedding rare hello more";
+var mnemonic = "aspect river science shift tumble simple enter tray doll gaze shiver burden";
